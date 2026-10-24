@@ -1,0 +1,17 @@
+{
+ "i": 94,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أصد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 110,
+  "page_to": 110
+ },
+ "ar": "الهمزة والصاد والدال، شئ يشتمل على الشئ يقولون للحظيرة أصيدةٌ؛ سمِّيت بذلك لاشتمالها على ما فيها. ومن ذلك الأُصْدة، وهو قميصٌ صغير يلبسه الصبايا. ويقال صَبِيَّةٌ ذات مُؤَصَّد. قال:\nتعلّقت ليلَى وهى ذات مؤَصَّدٍ … ولم يَبْدُ [للأتراب] من ثديها حَجْم (٣)",
+ "az": "«أصد» (hərf həmzə, sad və dal): bir şeyi özündə ehtiva edən şeydir. Çəpərə/qoruğa asidə (أصيدةٌ) deyirlər; içindəkiləri əhatə etdiyinə görə belə adlandırılmışdır. Və bundandır üsdə (الأُصْدة), bu da kiçik qızların geyindiyi kiçik köynəkdir. Və deyilir: möəsədli qız (صَبِيَّةٌ ذات مُؤَصَّد). \nO demişdir:\nتعلّقت ليلَى وهى ذات مؤَصَّدٍ … ولم يَبْدُ [للأتراب] من ثديها حَجْم (٣)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:44.951Z"
+}

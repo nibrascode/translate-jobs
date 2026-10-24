@@ -1,0 +1,17 @@
+{
+ "i": 120,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ألت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 130,
+  "page_to": 130
+ },
+ "ar": "الهمزة واللام والتاء كلمةٌ واحدة، تدلُّ على النُّقصان، يقال أَلَتَهُ يَأْلِتُهُ أى نقصه. قال اللّه تعالى: «لا يألتكم من أعمالكم شيئا (٦)» أى لا ينقصكم.",
+ "az": "[ألت]\\nHəmzə, lam və ta əskilməyə dəlalət edən tək bir kəlmədir. Deyilir: ələtəhu yəltühu (أَلَتَهُ يَأْلِتُهُ) yəni onu əskiltdi. Uca Allah buyurmuşdur: «Əməllərinizdən heç bir şeyi əskiltməz» («لا يألتكم من أعمالكم شيئا (٦)») yəni sizə əskəltməz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:39.277Z"
+}

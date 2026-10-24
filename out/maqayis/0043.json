@@ -1,0 +1,17 @@
+{
+ "i": 43,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أحن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 67,
+  "page_to": 68
+ },
+ "ar": "الهمزة والحاء والنون كلمةٌ واحدة. قال الخليل:\nالإِحْنَة الحِقْد فى الصَّدر. وأنشد غيرُه:\nمَتَى تكُ فى صدرِ ابنِ عَمِّكَ إحْنَةٌ … فلا تَسْتَثِرْها سوف يبدُو دفِينُها (١)\nوقال آخر فى جمع إحْنة:\nما كنتم غيرَ قوم بينكم إحَنٌ … تُطالبونَ بها لو يَنْتهى الطَّلَبُ\nويقال أَحِنَ عليه يَأْحَنُ إحْنة. قال أبو زيد: آحَنْتُهُ مُؤَاحَنَةً، أى عاديته.\nوربما قالوا أحِنَ إذا غَضِب.\nواعلم أن الهمزة لا تُجامِعُ الحاء إِلا فيما ذكرناه، وذلك لقرب هذه من تلك.\n[(باب الهمزة والخاء وما معهما فى الثلاثى)]",
+ "az": "[أحن]\nHəmzə, ha və nun tək bir kəlmədir. Əl-Xəlil demişdir:\n«الإِحْنَة» (əl-ihnə) — köksdə gizlənən kin-küdurətdir. Başqa biri bu şeiri oxumuşdur:\nمَتَى تكُ فى صدرِ ابنِ عَمِّكَ إحْنَةٌ … فلا تَسْتَثِرْها سوف يبدُو دفِينُها (١)\n(Nə vaxt əmin oğlunun köksündə bir kin olsa, onu qızışdırma, çünki onun gizlətdiyi kin tezliklə üzə çıxacaqdır).\nBaşqa biri «إحْنة» kəlməsinin cəmi haqqında demişdir:\nما كنتم غيرَ قوم بينكم إحَنٌ … تُطالبونَ بها لو يَنْتهى الطَّلَبُ\n(Siz aralarında kin-küdurətlər olan bir qövmdən başqası deyildiniz; intiqam davası bitsəydi belə, yenə də onu tələb edərdiniz).\nDeyilir: «أَحِنَ عليه يَأْحَنُ إحْنة» (ona qarşı kin saxladı). Əbu Zeyd demişdir: «آحَنْتُهُ مُؤَاحَنَةً», yəni ona düşmənçilik etdim.\nBəzən qəzəbləndikdə də «أحِنَ» deyirlər.\nBil ki, həmzə [hərfi] qeyd etdiyimizdən başqa [kökdə] ha (ح) ilə yanaşı gəlməz; bu da onların [tələffüz məxrəclərinin] bir-birinə yaxınlığına görədir.\n[(Üçhəriflilərdə həmzə, xa və onlarla birlikdə olanlar babı)]",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

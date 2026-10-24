@@ -1,0 +1,17 @@
+{
+ "i": 24,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أته",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 49,
+  "page_to": 49
+ },
+ "ar": "الهمزة والتاء والهاء، يقال إِنّ التأتُّه الكِبْر والخَيلاء.",
+ "az": "[أته]\nHəmzə, tə və hə: deyilir ki, «التأتُّه» (ət-tə'əttuh) təkəbbür və lovğalıqdır.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:49:50.695Z"
+}

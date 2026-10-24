@@ -1,0 +1,17 @@
+{
+ "i": 34,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أجح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 62,
+  "page_to": 62
+ },
+ "ar": "الهمزة والجيم والحاء فرعٌ ليس بأصل، وذلك أنّ الهمزة فيه مبدلةٌ من واو، فالأُجاح: * السِّتر، وأصله وُجاح. وقد ذُكر فى الواو.",
+ "az": "[أجح]\n«Həmzə», «cim» və «ha» bir fərdur (törəmədir), əsl deyildir. Çünki oradakı həmzə «vav» hərfindən əvəzlənmişdir (ibdal olmuşdur). Beləliklə, «الأُجاح» pərdə (örtük) deməkdir və əsli «وُجاح»dır. Bu isə «vav» hərfində zikr olunmuşdur.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:53:37.018Z"
+}

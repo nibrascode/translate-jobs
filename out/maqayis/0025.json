@@ -1,0 +1,17 @@
+{
+ "i": 25,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أتو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 49,
+  "page_to": 50
+ },
+ "ar": "الهمزة والتاء والواو والألف والياء يدلُّ على مجئِ الشئِ وإصْحابِه وطاعَتِه. الأَتْو الاستقامة فى السَّير، يقال أَتَا البعيرُ يأتُو. قال:\nتوكَّلْنَ واستَدْبَرْنَه كيف أَتْوُه … بها رَبِذاً سَهْوَ الأراجيح مِرْجَما (٣)\nويقال ما أحسن أَتْوَ يدَيْها فى السيرِ. وقال مزاحم:\nفلا سَدْوَ إِلا سَدْوُهُ وهو مدبرٌ … ولا أَتْوَ إِلا أتْوُهُ وهو مقبلْ\nوتقول العرب: أتَوْتُ فلانا بمعنى أتيته. قال (٤):\nيا قَوم مَا لِى وأبَا ذُؤيبِ … كُنْتُ إذَا أتَوْتُهُ مِنْ غَيْبِ\nقال الضّبىّ: يقال للسِّقاء إِذا تمخّض قد جاء أَتْوُهُ. الخليل: الإِتاوة الخَراج، والرِّشوة، والجَعالة، وكلُّ قسمةٍ تقسم على قوم فتُجْبَى كذلك. قال:\n* يُؤَدُّون الإتاوةَ صاغرينا *\nوأنشد:\nوفى كلِّ أسْواقِ العِراقِ إِتاوَةٌ … وفى كل ما باع امرؤٌ مَكْسُ درْهَمِ (١)\nقال الأصمعىّ: يقال أَتَوْته أَتْواً، أعطيتُه الإِتاوة.",
+ "az": "[أتو]\nHəmzə, tə və vav, əlif və ya hərfləri bir şeyin gəlməsinə, ona yoldaşlıq etməyə və itaətinə dəlalət edir. «الأَتْو» (əl-ətv) yeriməkdə düzgünlük və aramlıqdır; «أَتَا البعيرُ يأتُو» (ətəl-bə'iru yə'tu) deyilir. Şair demişdir:\nتوكَّلْنَ واستَدْبَرْنَه كيف أَتْوُه … بها رَبِذاً سَهْوَ الأراجيح مِرْجَما (٣)\n(Onlar arxayın olub onu arxada qoydular; onun yerişi bu dəvələrlə necə də sürətli, aramla yellənən və addımlayan idi!).\nVə deyilir: «ما أحسن أَتْوَ يدَيْها فى السيرِ» (Yerişində onun ön ayaqlarının ahəngi necə də gözəldir). Muzahim demişdir:\nفلا سَدْوَ إِلا سَدْوُهُ وهو مدبرٌ … ولا أَتْوَ إِلا أتْوُهُ وهو مقبلْ\n(Nə geri dönərkən onun yerişindən başqa yeriş, nə də irəliləyərkən onun addımından başqa addım var).\nƏrəblər «أتيته» (onun yanına gəldim) mənasında «أتَوْتُ فلانا» (ətovtu fulənən) deyirlər. Şair demişdir (٤):\nيا قَوم مَا لِى وأبَا ذُؤيبِ … كُنْتُ إذَا أتَوْتُهُ مِنْ غَيْبِ\n(Ey qövmüm, mənimlə Əbu Zueyb arasında nə var?! Mən uzaqdan onun yanına gəldikdə...).\nƏd-Dabbi demişdir: Süd tuluğu çalxalandıqda «قد جاء أَتْوُهُ» (onun yağı/vaxtı yetişdi) deyilir. Xəlil: «الإِتاوة» (əl-itavə) xərac, rüşvət, xidmət haqqı və bir qövmə bölüşdürülüb bu qaydada toplanan hər bir paydır. Şair demişdir:\n* يُؤَدُّون الإتاوةَ صاغرينا *\n(Xor və zəlil halda xəracı ödəyirlər).\nVə oxumuşdur:\nوفى كلِّ أسْواقِ العِراقِ إِتاوَةٌ … وفى كل ما باع امرؤٌ مَكْسُ درْهَمِ (١)\n(İraqın bütün bazarlarında bir vergi var, insanın satdığı hər şeydə bir dirhəm kəsinti var).\nƏl-Əsməi demişdir: «أَتَوْته أَتْواً» (ətovtuhu ətvən) – ona xərac verdim, deməkdir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:49:50.695Z"
+}

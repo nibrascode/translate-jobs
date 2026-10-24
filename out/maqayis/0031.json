@@ -1,0 +1,17 @@
+{
+ "i": 31,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 60,
+  "page_to": 61
+ },
+ "ar": "الهمزة والثاء والميم تدلُّ على أصلٍ واحد، وهو البطء والتأخُّر. يقال ناقة آثِمةٌ أى متأخِّرة. قال الأعشى:\n* إِذا كَذَبَ الآثِماتُ الهَجِيرا (٣)\nوالإِثم مشتقٌّ من ذلك، لأنّ ذا الإِثمِ بطئٌ عن الخير متأخِّر عنه. قال الخليل: أثِمَ فلانٌ وقع في الإِثم، فإذا تَحَرَّج وكَفّ قيل تَأثّم كما يقال، حَرِجَ (٤) وقع فى الحَرج، وتحرّج تباعد عن الحَرَج. وقال أبو زيد: رجل أثيمٌ أثُومٌ. وذكر ناسٌ عن الأخفش - ولا أعلم كيف صحّتُه - أنّ الإِثم الخمر،\nوعلى ذلك فسّر قوله تعالى: ﴿قُلْ إِنَّما حَرَّمَ رَبِّيَ اَلْفَواحِشَ ما ظَهَرَ مِنْها وَما بَطَنَ وَاَلْإِثْمَ﴾. وأنشد:\nشَرِبْتُ الإثْمَ حتَّى ضَلَّ عَقْلِى … كذاك الإِثمُ تفْعَلُ بالعُقولِ (١)\nفإنْ كان هذا صحيحاً فهو القياس لأنَّها تُوقِع صاحبهَا فى الإِثم.",
+ "az": "[أثم]\n«Həmzə», «sə» və «mim» tək bir əslə dəlalət edir, o da ləngimək və geri qalmaqdır. Deyilir: «ناقة آثِمةٌ», yəni yerişdə geri qalan dişi dəvə. əl-Əşa demişdir:\n* إِذا كَذَبَ الآثِماتُ الهَجِيرا (٣)\n(Geri qalan [dəvələr] günorta istisində yalan çıxdıqda / yeriməkdən aciz qaldıqda).\n\n«الإِثم» (günah) kəlməsi də buradan törəmişdir, çünki günahkar kəs xeyir işlərdən ləngiyən və onlardan geri qalandır. əl-Xəlil demişdir: «أثِمَ فلانٌ» — filankəs günaha düşdükdə deyilir; günahdan çəkindikdə və özünü saxladıqda isə «تَأثّم» deyilir; necə ki «حَرِجَ» (٤) günaha/darlığa düşdü, «تحرّج» isə günahdan/darlıqdan uzaqlaşdı mənasında işlənir. Əbu Zeyd demişdir: «رجل أثيمٌ أثُومٌ» (çox günahkar adam). Bəzi insanlar əl-Əxfəşdən belə nəql etmişlər — lakin bunun nə dərəcədə səhih olduğunu bilmirəm — ki, «الإِثم» şərab deməkdir və Uca Allahın bu ayəsi buna əsasən təfsir edilmişdir: ﴿قُلْ إِنَّما حَرَّمَ رَبِّيَ اَلْفَواحِشَ ما ظَهَرَ مِنْها وَما بَطَنَ وَاَلْإِثْمَ﴾ (mənaca tərcüməsi: «De: “Rəbbim ancaq aşkar və gizli pis əməlləri, günahı ... haram buyurmuşdur”»). Şair oxumuşdur:\nشَرِبْتُ الإثْمَ حتَّى ضَلَّ عَقْلِى … كذاك الإِثمُ تفْعَلُ بالعُقولِ (١)\n(Ağlım çaşana qədər günahı (şərabı) içdim; günah (şərab) ağıllara belə təsir edər).\nƏgər bu səhihdirsə, bu da qiyasa uyğundur; çünki o (şərab), sahibini günaha düçar edir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:53:37.018Z"
+}

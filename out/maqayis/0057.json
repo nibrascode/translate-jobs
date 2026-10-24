@@ -1,0 +1,17 @@
+{
+ "i": 57,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أرش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 79,
+  "page_to": 79
+ },
+ "ar": "الهمزة والراء والشين يمكن أن يكون أصلا، وقد جعلها بعضُ أهل العلم فرعاً، وزَعَم أنّ الأصل الهرشُ، وأنّ الهمزة عِوَضُ من الهاء. وهذا عندى متقارب، لأنّ هذين الحرفين - أعنى الهمزة والهاء - متقاربان، يقولون إياك وَهِيَّاك، وأرقْتُ وهَرَقت. وأَيًّا كان فالكلام من باب التحريش، يقال أرَّشْت الحربَ والنارَ إذا أوقدتَهما. قال:\nوما كنتُ مِمَّنْ أَرَّشَ الحرْبَ بينهم … ولكنَّ مَسْعوداً جناها وَجُنْدُبَا (٢)\nوَأَرْشُ الجِنَايَة: دِيَتُها، وهو أيضاً ممّا يدعو إلى خلافٍ وتحريش، فالباب واحد.",
+ "az": "[أرش] (Ərş) Həmzə, ra və şin hərfləri bir kök ola bilər, lakin bəzi elm əhli bunu törəmə hesab etmiş və əslinin «هرش» (hərş) olduğunu, həmzənin isə ha hərfinin əvəzi olduğunu iddia etmişdir. Məncə, bu yaxındır, çünki bu iki hərf - yəni həmzə və ha - bir-birinə yaxındır; «إياك» (iyyəkə) və «هِيَّاك» (hiyyəkə), «أرقْتُ» (ərəqtu) və «هَرَقت» (hərəqtu) dedikləri kimi. Hər halda, bu söz «التحريش» (ət-təhriş - qızışdırma) babındandır. Deyilir ki, müharibəni və odu «أرَّشْت» (ərrəştu) etdim, yəni onları alovlandırdım. Şair demişdir: Mən onların arasında müharibəni alovlandıranlardan deyildim, lakin Məsud və Cündüb onu qazandılar (٢). «أَرْشُ الجِنَايَة» (ərşul-cinayə) cinayətin diyətidir (qanbahası), bu da mübahisəyə və qızışdırmağa səbəb olan bir şeydir, buna görə də bab birdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-24T19:02:50.150Z"
+}

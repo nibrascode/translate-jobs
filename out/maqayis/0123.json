@@ -1,0 +1,17 @@
+{
+ "i": 123,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ألق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 132,
+  "page_to": 132
+ },
+ "ar": "الهمزة واللام والقاف أصلٌ يدلُّ على الخفّة والطيش، واللَّمعانِ بسُرعة. قال الخليل: الإِلْقَة: السِّعلاة، والذِّئبة، والمرأة الجريئة، لخبثهنّ. قال ابنُ السِّكِّيت: والجمع إلَقٌ. قال شاعر (٣):\n* جَدَّ وَجَدَّتْ إِلْقَةً من الإلَقْ *\nقال: ويقال امرأةٌ أَلَقَى سريعة الوَثْب. قال بعضهم: رجل أَلاَّقٌ أى كذّاب.\nوقد أَلَق بالكذب يَأْلِقُ أَلْقاً. قال أبو علىّ الأصفهانى، عن القريعىّ: تأَلَّقَت المرأة، إذا شمَّرت للخصومة واستعدَّت للشرّ ورفعت رأسَها. قال ابن الأعرابىّ:\nمعناه صارت مثل الإلْقة. وذكر ابن السكّيت: امرأة إلْقَةٌ ورجل إِلْقٌ. ومن هذا القياس: ائتلق البرق ائتلاقاً إِذا برَق، وتألَّق تأَلُّقاً. قال:\nيُصِيخُ طَوْراً وطَوْراً يقْترِى دَهِساً … كأنّه كوكبٌ بالرَّمْلِ يأتلِقُ",
+ "az": "[ألق]\\nHəmzə, lam və qaf yüngüllüyə, səbirsizliyə və sürətlə parıldamağa dəlalət edən bir əsasdır. Xəlil demişdir: əl-ilqəh (الإِلْقَةُ): səla (şeytan qadın), dişi qurd və pis xasiyyətlərinə görə cəsur qadındır. İbn əs-Sikkit demişdir: cəmi ələq (إلَقٌ) gəlir. Bir şair demişdir (3):\\n* جَدَّ وَجَدَّتْ إِلْقَةً من الإلَقْ *\\nDedi: Deyilir ki, imraətun aləqa (امرأة أَلَقَى) - sürətlə tullanan qadındır. Bəziləri demişdir: raculun əllaqun (رجل أَلاَّقٌ) - yəni yalançıdır.\\nO, yalanla aləqə yəlüqu əlqan (أَلَق بالكذب يَأْلِقُ أَلْقاً). Əbu Əli əl-İsfahani Qureyinin vasitəsilə rəvayət etmişdir: təəlləqəti əl-imraəh (تَأَلَّقَت المرأة), xüsusiyyətlərə görə hazırlaşdıqda, şər üçün hazırlaşıb başını qaldırdıqda deyilir. İbn əl-Ərəbi demişdir: mənası ilqəyə (الإلْقة) bənzədi deməkdir. İbn əs-Sikkit qeyd etmişdir: imraətun ilqətun (امرأة إلْقَةٌ) və raculun ilqun (رجل إِلْقٌ). Bu qiyasdandır: İətləqə əl-bərqu iətləqan (ائتلق البرق ائتلاقاً) – şimşək çaxdıqda, və təəlləqə təəllüqən (تألَّق تأَلُّقاً). O demişdir:\\nيُصِيخُ طَوْراً وطَوْراً يقْترِى دَهِساً … كأنّه كوكبٌ بالرَّمْلِ يأتلِقُ",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:39.277Z"
+}

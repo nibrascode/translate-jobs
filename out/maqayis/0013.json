@@ -1,0 +1,17 @@
+{
+ "i": 13,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أبط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 37,
+  "page_to": 38
+ },
+ "ar": "الهمزة والباء والطاء أصل واحد، وهو إبط الإنسان أو استعارة فى غيره. الإبط معروف. وتأَبَّطْت الشئ تحت إبطى.\nقال ابن دريد: تأبَّط سيفه إذا تقلّده؛ لأنه يصير تحت إبطه. وكلُّ شئ تقلّدته فى موضع السيف فقد تأبّطته. قال الهذلىّ (١):\nشرِبت بجَمِّه وصدَرْتُ عنه … وأبيض صارم ذَكَرٌ إباطى\nقال قوم: قوله إباطى، أى هو ناحيةَ إبطى. وقال آخرون: هو إباطىٌّ نسَبَهُ إِلى إبطه ثم خفّفه. والاستعارة: الإبط من الرمل، وهو أن ينقطع معظمُه ويبقى منه شئٌ رقيقٌ منبسط متَّصل بالجَدَد، فمنقطع معظمه الإِبط؛ والجمع الآباط. قال ذو الرمَّة:\nوحَوْمانةٍ ورقاءَ يجرى سَرابُها … بمنسحَّةِ الآباط حُدْبٍ ظهورُها (٢)",
+ "az": "[أبط] الهمزة والباء والطاء أصل واحد، وهو إبط الإنسان أو استعارة فى غيره. ([əbət] – həmzə, ba və ta tək bir əsasdır, o da insanın qoltuqaltıdır və ya başqasında istiaredir.) الإبط معروف. (Qoltuqaltı məlumdur.) وتأَبَّطْت الشئ تحت إبطى. (Və mən qoltuqaltımda “təəbbəttü əş-şəyə” – şeyi qoltuğumun altına aldım.) قال ابن دريد: تأبَّط سيفه إذا تقلّده؛ لأنه يصير تحت إبطه. (İbn Dureyd demişdir: “Təəbbətə səyfehu” – qılıncını taxdığı zaman; çünki o, qoltuğunun altına keçir.) وكلُّ شئ تقلّدته فى موضع السيف فقد تأبّطته. (Və qılınc yerində taxdığın hər bir şeyi artıq qoltuqlamısan.) قال الهذلىّ (١): شرِبت بجَمِّه وصدَرْتُ عنه … وأبيض صارم ذَكَرٌ إباطى (Hüzəli demişdir: *“Onun suyu ilə içdim və ondan ayrıldım... və ağ, kəsici, erkək, ibati”*.) قال قوم: قوله إباطى، أى هو ناحيةَ إبطى. وقال آخرون: هو إباطىٌّ نسَبَهُ إِلى إبطه ثم خفّفه. (Bir qrup dedi: Onun “ibati” sözü – yəni o, qoltuğumun tərəfindədir. Başqaları da dedi: O, ibatiyyün – onu qoltuğuna nisbət etmiş, sonra yüngülləşdirmişdir.) والاستعارة: الإبط من الرمل، وهو أن ينقطع معظمُه ويبقى منه شئٌ رقيقٌ منبسط متَّصل بالجَدَد، فمنقطع معظمه الإِبط؛ والجمع الآباط. (Və istiarə: qumun ibti, o da odur ki, onun əsas hissəsi kəsilir və ondan nazik, səthə birləşmiş hamar bir hissə qalır, onun əsas kəsilmiş hissəsi ibtdir; cəmi abat gəlir.) قال ذو الرمَّة: وحَوْمانةٍ ورقاءَ يجرى سَرابُها … بمنسحَّةِ الآباط حُدْبٍ ظهورُها (٢) (Züərrümə demişdir: *“Və boz haumanə ki, sərabı axır... abatları süpürülmüş, belləri qabarıq”*.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T18:41:28.019Z"
+}

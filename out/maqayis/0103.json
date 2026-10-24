@@ -1,0 +1,17 @@
+{
+ "i": 103,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 119,
+  "page_to": 119
+ },
+ "ar": "الهمزة والفاء واللام أصلان: أحدهما الغيبة، والثانى الصِّغار من الإبل. فأمّا الغَيبة فيقال أفَلت الشّمس غابت، ونجوم أُفَّلٌ. وكلُّ شئِ غابَ فهو آفلٌ. قال:\nفدعْ عنك سُعدَى إنَّما تُسعِفُ النَّوى … قِرانَ الثَريَّا مرّةً ثم تَأفِلُ (١)\nقال الخليل: وإذا استقرّ اللِّقاح فى قَرار الرَّحِم فقد أفَل.\nوالأصل الثانى الأفيل، وهو الفصيل، والجمع الإفَال. قال الفرزدق:\nوجاءَ قَرِيعُ الشَّولِ قبلَ إفالِها … يَزِفُّ * وجاءتْ خَلْفَه وهى زُفَّفُ (٢)\nقال الأصمعى: الأفيل ابنُ المخاض وابن اللبون، الأنثى أفيلة، فإذا ارتفع عن ذلك فليس بأفيل. قال إهاب بن عمير:\nظَلَّتْ بمندَحِّ الرَّجا مُثُولُها … ثامنةً ومُعْوِلاً أفيلُها\nثامنة، أى واردة ثمانية أيّام (٣). مُثُولها: قيامها ماثلة. وفى المثل:\n«إنّما القَرْمُ من الأَفيل (٤)»، أى إنّ بدءَ الكبير من الصَّغير.",
+ "az": "«أفل» — Həmzə, fa və lam hərfləri iki əsas mənaya qayıdır: birincisi, qeyb olmaq (gözdən yayınmaq); ikincisi, dəvələrin kiçik olması. Qeyb olmağa gəldikdə, «أفلت الشّمس» (günəş batdı) və «نجوم أُفَّلٌ» (batan ulduzlar) deyilir. Gözdən yayınan hər bir şey «آفل» (batan) olur. O demişdir: / Qoy indi Sə'danı, çünki fəlakətlərin gedişi Sürəyyanın qovuşmasını bir dəfə təmin edir, sonra isə batır (١). Xəlil demişdir: «Əgər damazlıq dəvə rəhmin qərargahında qərar tutarsa, demək, o, (أفل - afələ) etmişdir». İkinci əsas: «الأفيل» (əl-əfil) – süddən kəsilib ot yeməyə başlayan balaca dəvə balasıdır, cəmi «الإفَال» (əl-ifal) gəlir. Fərəzdq demişdir: / Şəul dəvələrinin (çox süd verən dəvələrin) başçısı əfil dəvələrindən əvvəl gəldi, çaparaq gəlirdi, arxasınca gələnlər isə sürətlə qaçırdılar (٢). Əsməi demişdir: «Əfil – bir yaşlı və iki yaşlı dəvə balasıdır, dişi dəvə balasına «أفيلة» (əfilə) deyilir. Bundan yuxarı yaşda olarsa, artıq əfil deyil». İhab ibn Uməyr demişdir: / Onların ayaq üstə durmaları geniş kənarlı yerdə səkkizinci gün də davam etdi, əfili də nalə çəkirdi. Səkkizinci gün, yəni su başına səkkiz gündən sonra gələn (٣). «مُثُولها» (müsuluhə): onların dik durub qalması. Məsəldə demişlər: / «İnnaməl-qərmu minəl-əfil» (٤), yəni böyüyün başlanğıcı kiçikdən olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

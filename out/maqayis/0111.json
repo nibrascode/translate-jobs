@@ -1,0 +1,17 @@
+{
+ "i": 111,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أكم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 125,
+  "page_to": 125
+ },
+ "ar": "الهمزة والكاف والميم أصل واحد، وهى تجمُّعُ الشئِ وارتفاعُه قليلاً. قال الخليل: الأكمة تلٌّ من القُفِّ، والجمع آكام وأَكَمٌ.\nواستأكم المكانُ، أى صار كالأكمة. وتجمع على الآكام أيضاً، قال أبو خراش:\nولا أمْغَر السَّاقَينِ ظَلّ كأنّه … على محْزئلاّتِ الإكام نَصِيلُ (١)\nيعنى صَقْراً. احزألَّ: انتصَبَ. نصيل: حَجَر قدْر ذِراع. ومن هذا القياس المَأكَمَتان (٢): لحمتان وصَلَتَا بين العجزُ والتْنَين، قال:\nإذا ضربتها الرِّيح فى المِرْطِ أشرفَتْ … مآكِمُها والزُّلُّ فى الرِّيح تُفْضَحُ (٣)",
+ "az": "«أكم» — Həmzə, kaf və mim hərfləri tək bir əslə qayıdır, o da bir şeyin toplanması və bir qədər hündür olmasıdır. Xəlil demişdir: «الأكمة» (əl-əkəmə) – qırov təpəcikdir, cəmi «آكام» (akam) və «أَكَمٌ» (əkəm) gəlir. «استأكم المكانُ» – məkan təpə kimi oldu. O da akam şəklində cəmlənir, Əbu Xiraş demişdir: / Baldırları qızarmamış halda elə durdu ki, sanki İkam təpələrinin sərt qayaları üzərində bir noxurquşudur (١). O, saqarı nəzərdə tutur. «احزألَّ» (ihzəallə) – dikəldi. «نصيل» (nəsil) – təqribən bir qarış böyüklükdə daşdır. Bu qiyasdandır: «المَأكَمَتان» (əl-mə'kəmətan) – sağrı ilə quyruq kökü arasındakı iki əzələ (٢), o demişdir: / Əgər külək onu paltarında vularsa, məkəmləri (o əzələlər) üzə çıxar, züll (tuman) isə küləkdə biabır olar (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

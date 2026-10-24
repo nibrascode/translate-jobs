@@ -1,0 +1,17 @@
+{
+ "i": 77,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أزح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 102,
+  "page_to": 102
+ },
+ "ar": "الهمزة والزاء والحاء. يقال أزَح إذا تخلَّف عن الشئ يَأْزِحُ. وأزح إذا تقبّض ودنا بعضُه من بعض (١).",
+ "az": "[أزح] \\nHəmzə, zay və ha. Deyilir ki, «أزَح» (əzəhə) – bir şeydən geri qaldı, uzaqlaşdı, «يأزِح» (yəzihu). Və «أزَح» (əzəhə) – yığıldı, büzüşdü və bir-birinə yaxınlaşdı (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:20.203Z"
+}

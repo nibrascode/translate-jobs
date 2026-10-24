@@ -1,0 +1,17 @@
+{
+ "i": 85,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أسو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 105,
+  "page_to": 106
+ },
+ "ar": "الهمزة والسين والواو أصل واحد يدلّ على المداواة.\nوالإصلاح، يقال أسَوْت الجُرْحَ إذا داويتَه، ولذلك يسمَّى الطبيب الآسِى.\nقال الحُطَيئَة:\nهم الآسُونَ أُمَّ الرَّأسِ لَمَّا … تَوَاكَلَها الأطِبَّةُ والإِساءُ (٣)\nأى المُعالجُون. كذا قال الأموىّ (٤). ويقال أسوت الجرح أسْواً وأساً، إذا داويتَه. قال الأعشى:\nعندَهُ البِرُّ والتُّقى وأسا … الشَّقِّ وحَمْلٌ لمُضْلِعِ الأثْقالِ\nويقال أسَوتُ بين القوم، إذا أصلحتَ بينهم. ومن هذا الباب: لى فى فُلانٍ أُسْوَةٌ أى قُدوة، أى إِنِّى أقتدى به. وأسَّيتُ فلاناً إذا عَزَّيتَهُ، من هذا،\nأى قلت له: ليكنْ لك بفلان أسوة فقد أصيب بمثل ما أُصِبتَ به فرضِى وسَلَّم ومن هذا الباب: آسَيْتُه بنفسى.",
+ "az": "«أسو» (hərf həmzə, sin və vav): müalicə və islaqa dəlalət edən tək bir əsasdır. Deyilir: أسَوْت الجُرْحَ (yaraya məlhəm qoydum, müalicə etdim) — əgər onu müalicə etmisənsə; buna görə də həkimə الآسِى (asi) deyilir. \nHüteyyə demişdir:\nهم الآسُونَ أُمَّ الرَّأسِ لَمَّا … تَوَاكَلَها الأطِبَّةُ والإِساءُ (٣)\nYəni müalicə edənlər. Üməvi belə demişdir (٤). Və deyilir: أسوت الجرح أسْواً وأساً (yaraya məlhəm qoydum), əgər onu müalicə etmisənsə. Əş-şa demişdir:\nعندَهُ البِرُّ والتُّقى وأسا … الشَّقِّ وحَمْلٌ لمُضْلِعِ الأثْقالِ\nVə deyilir: أسَوتُ بين القوم (qövmün arasını düzəltdim), əgər onların arasını islaq etmisənsə. Bu babdandır: لى فى فُلانٍ أُسْوَةٌ (mənfiləmdə filankəs üçün üsvə, örnek var), yəni mən ona ixtiyar edirəm. Və əssəytü fülənan (أسَّيتُ فلاناً) — filankəsə başsağlığı verdin, bundandır, yəni ona dedin ki: filankəsdə sənin üçün nümunə olsun, çünki ona da sənin başınıza gələn müsibət üz vermiş, o da razı qalmış və təslim olmuşdur. Və bu babdandır: آسَيْتُه بنفسى (nəfsimlə ona təsəlli verdim/bərabər tutdum).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:44.951Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 27,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أتب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 53,
+  "page_to": 53
+ },
+ "ar": "الهمزة والتاء والباء أصلٌ واحد، وهو شئٌ يشتمل به الإِبط، قميصٌ غير مَخِيط الجانبين. قال امرؤ القيس:\nمِنَ القاصِرات الطَّرف لو دَبَّ مُحْوِلٌ … من الذَّرِّ فوقَ الإِتْبِ منها لَأَثَّرَا\nقال الأصمعىّ: هو البقيرة، وهو أنْ يُؤخَذ بُردٌ فيشقّ، ثم تُلقِيه المرأةُ فى عُنُقها من غير كُمَّينِ ولا جَيْب. قال أبو زيد: أتَّبْت المرأةَ أُؤَتِّبُها إذا ألبستَها الإِتْب. قال الشيبانىّ: التأتُّبُ أن يجعل الرّجلُ حِمالةَ القَوس فى صدره ويُخرِجَ مَنكِبيه منها فتصيرَ القوسُ على كَتفيه. قال النُّميرىّ:\nالمِئْتَبُ المِشْمَل، وقد تأتَّبَه إذا ألقاه تحتَ إبطه ثم اشتمل. ورجل مُؤَتَّب الظهر، ويقال مُؤْتَبٌ، أى أجنَؤُهُ قال:\n* على حَجَلِّى راضعٍ مُؤْتَبِ الظَّهْرِ *",
+ "az": "[أتب]\nHəmzə, tə və bə bir əsldir; o da qoltuğun büründüyü bir geyimdir – iki tərəfi tikilməmiş köynəkdir. İmruul-Qeys demişdir:\nمِنَ القاصِرات الطَّرف لو دَبَّ مُحْوِلٌ … من الذَّرِّ فوقَ الإِتْبِ منها لَأَثَّرَا\n(Gözlərini yalnız ərində saxlayan zəriflərdəndir; əgər birillik kiçik qarışqa onun itbi (qolsuz köynəyi) üzərində gəzsəydi, iz salardı).\nƏl-Əsməi demişdir: O, «البقيرة» (əl-bəqirə)-dir; bu da parçanın kəsilib yarıldıqdan sonra qadının qolsuz və yaxasız şəkildə boynuna saldığı örtükdür. Əbu Zeyd demişdir: Qadına itb geyindirdikdə «أتَّبْت المرأةَ أُؤَتِّبُها» (əttəbtul-mər'ətə u'əttibuha) deyirsən. Əş-Şeybani demişdir: «التأتُّبُ» (ət-tə'əttub) kişinin yayın qayışını sinəsinə salması və çiyinlərini oradan çıxarmasıdır ki, yay onun kürəyində qalsın. Ən-Numeyri demişdir: «المِئْتَبُ» (əl-mi'təb) bürüncəkdir (əl-mişməl); «تأتَّبَه» (tə'əttəbəhu) – onu qoltuğunun altına salıb sonra büründükdə deyilir. Kürəyi qozbel (bükük) olan adama «رجل مُؤَتَّب الظهر» (raculun mu'əttəbuz-zahr), həmçinin «مُؤْتَبٌ» (mu'təb) deyilir. Şair demişdir:\n* على حَجَلِّى راضعٍ مُؤْتَبِ الظَّهْرِ *\n(Südəmər, beli donqar, zəif bir kimsənin üzərində).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:49:50.695Z"
+}

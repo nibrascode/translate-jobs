@@ -1,0 +1,17 @@
+{
+ "i": 54,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أذى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 78,
+  "page_to": 78
+ },
+ "ar": "الهمزة والذال والياء أصل واحد، وهو الشئ تتكرَّهُه ولا تَقِرُّ عليه. تقول: آذَيْتُ فلانا أوذِيهِ. ويقال بعير أَذٍ وناقةٌ أَذِيَةٌ إذا كان لا يَقِرُّ فى مكانٍ من غير وجع، وكأنه يَأْذَى بمكانه.",
+ "az": "[أذى]\nHəmzə, zəl və yə bir əsldir; o da xoşlamadığın və üzərində rahat qərar tuta bilmədiyin şeydir. «آذَيْتُ فلانا أوذِيهِ» (filankəsə əziyyət verdim / verirəm) deyirsən. Heç bir ağrısı olmadan bir yerdə qərar tutmayan erkək dəvəyə «بعير أَذٍ» və dişi dəvəyə «ناقةٌ أَذِيَةٌ» deyilir, sanki durduğu yerdən narahat olur (əziyyət çəkir).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T19:00:48.545Z"
+}

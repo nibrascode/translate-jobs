@@ -1,0 +1,17 @@
+{
+ "i": 17,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 43,
+  "page_to": 44
+ },
+ "ar": "الهمزة والباء والنون يدلَّ على الذِّكْرِ، وعلى العُقَد، وقَفْوِ الشّئ. الأُبَن: العُقَد فى الخشبة. قال:\n* قَضِيبَ سَرَاءِ قَلِيلَ الأُبَنْ (٣) *\nوالأُبَنُ: العَدَاوات. وفلان يُؤْبَن بكذا أى يُذَمّ. و\nجاء فى ذكر\nمجلس رسول اللّه صلى اللّه عليه وآله: «لا تُؤْبَن فيه الْحُرَمُ». أى لا تُذْكَر (١). والتأبين: مَدْحُ الرجل بعد موته قال:\nلعمري وما دَهرِى بتأينِ هالكٍ … ولا جَزِعاً مِمَّا أصابَ فأوجَعا (٢)\nوهذا إبَّانُ ذلك أى حِينُه. وتقول: أَنَّنْتُ أَثَرَه، إذا قفوتَه، وأَنَّنْت ئَ رقَبْته. قال أوس (٣):\nيقولُ له الراؤون هذَاكَ راكبٌ … يُؤَبِّنُ شخصاً فوقَ علياءَ واقفُ",
+ "az": "[أبن] \nHəmzə, ba və nun zikrə, düyünlərə (uqəd) və bir şeyin ardınca getməyə dəlalət edir. \nالأُبَن (əl-ubən) - taxtadakı düyünlərdir. O dedi:\n* قَضِيبَ سَرَاءِ قَلِيلَ الأُبَنْ (٣) *\n(Az düyünlü ucuz çubuq).\n\nVə الأُبَن (əl-ubən) - düşmənçiliklərdir. Və filankəs bu işlə يُؤْبَن (yuəbənu) - yəni pislənilir.\nVə Allah Rəsulunun səlləllahu ələyhi və alihi və səlləm məclisinin zikrində gəlmişdir: «لا تُؤْبَن فيه الْحُرَمُ» - yəni orada qadınlar pisə yozulmaz, zikr edilməz (1). \nالتأبين (təbin) - insanın ölümündən sonra təriflənməsidir. O dedi:\nلعمري وما دَهرِى بتأينِ هالكٍ … ولا جَزِعاً مِمَّا أصابَ فأوجَعا (٢)\n(And olsun ömrümə ki, mənim dövranım həlak olanı tərifləmək deyil... və baş verən və ağrıdan şeyə görə səbirsizlik də deyil).\n\nVə bu إبَّانُ ذلك (ibbanü zalik) - yəni onun zamanıdır. \nVə sən deyirsən: أَنَّنْتُ أَثَرَه (ənnətu əsərəhu) - onun izinə düşdükdə, və أَنَّنْتُ رَقَبْتَه (ənnətu raqabtəhu). \nƏvs dedi (3):\nيقولُ له الراؤون هذَاكَ راكبٌ … يُؤَبِّنُ شخصاً فوقَ علياءَ واقفُ\n(Görənlər ona deyirlər: budur bir süvari... uca yerdə dayanan şəxsin izinə düşür).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T18:47:59.725Z"
+}

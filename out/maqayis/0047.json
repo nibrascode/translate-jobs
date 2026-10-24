@@ -1,0 +1,17 @@
+{
+ "i": 47,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أدر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 71,
+  "page_to": 71
+ },
+ "ar": "الهمزة والدال والراء كلمةٌ واحدة، فهى الأَدْرَةُ والأَدَرَةُ، يقال أَدِرَ يَأْدَرُ، وهو آدَرُ. قال:\nنُبِّئتُ عُتْبةَ خَضَّافاً تَوَعَّدَنى … يا رُبَّ آدَرَ من مَيْثاءَ مَأْفُونِ",
+ "az": "[أدر]\nHəmzə, dəl və ra tək bir kəlmədir; o da «الأَدْرَةُ» və «الأَدَرَةُ» (əl-ədrə / əl-ədərə — xaya yırtığı / hidrosel) kəlmələridir. «أَدِرَ يَأْدَرُ» deyilir, bu xəstəliyə mübtəla olan adam isə «آدَرُ» (adər) adlanır. Şair demişdir:\nنُبِّئتُ عُتْبةَ خَضَّافاً تَوَعَّدَنى … يا رُبَّ آدَرَ من مَيْثاءَ مَأْفُونِ\n(Mənə xəbər verildi ki, yel buraxan Utbə məni hədələyir; Meysa qəbiləsindən olan nə qədər yırtıqlı, ağıldan kəm kimsələr var!).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

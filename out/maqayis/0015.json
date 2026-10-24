@@ -1,0 +1,17 @@
+{
+ "i": 15,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أبك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 39,
+  "page_to": 39
+ },
+ "ar": "الهمزة والباء والكاف أصل واحد، وهو السِّمَن، يقال أبِكَ الرجل، إذا سَمِنَ.",
+ "az": "[أبك] الهمزة والباء والكاف أصل واحد، وهو السِّمَن، يقال أبِكَ الرجل، إذا سَمِنَ. ([əbək] – həmzə, ba və kaf tək bir əsasdır, o da köklükdür, deyilir: kişi kökəldiyi zaman “əbikə”.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T18:41:28.019Z"
+}

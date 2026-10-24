@@ -1,0 +1,17 @@
+{
+ "i": 60,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أرف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 82,
+  "page_to": 82
+ },
+ "ar": "الهمزة والراء والفاء أصل واحد، لا يقاس عليه ولا يتفرَّع منه. يقال أُرِّفَ على الأرضِ إذا جُعِلَتْ لها حدودٌ. و\nفى الحديث:\n«كلُّ مالٍ قُسِم وَأرِّفَ عليه فلا شَفعَة فيه». و\n«الأُرَفُ تَقْطع كلَّ شُفْعَة».",
+ "az": "[أرف] (Ərf) Həmzə, ra və fa bir kökdür, ona qiyas edilmir və ondan törəmə yoxdur. Deyilir ki, «أُرِّفَ على الأرض» (ürrifə aləl-ərd) - yer üçün sərhədlər qoyulduqda. Hədisdə deyilir: «Bölünmüş və sərhədləri qoyulmuş hər bir malda şəfə (qonşuluq hüququ) yoxdur». Və «الأُرَفُ» (əl-urəf) hər bir şəfəni kəsir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-24T19:02:50.150Z"
+}

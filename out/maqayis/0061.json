@@ -1,0 +1,17 @@
+{
+ "i": 61,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أرق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 82,
+  "page_to": 83
+ },
+ "ar": "الهمزة والراء والقاف أصلان، أحدهما نِفار النَّوم ليلاً، والآخر لون من الألوان. فالأوَّل قولهم أرِقْتُ أَرَقاً، وأرَّقَنِى الهَمُّ يُؤَرِّقُنِى.\nقال الأعشى:\nأَرِقْتُ ومَا هذا السُّهادُ المُؤَرِّقُ … وما بىَ مِنْ سُقْمٍ وما بى مَعْشَقُ\nويقال آرَقنِى أيضا. قال تأبّط شرًّا:\nيا عِيدُ مالَكَ مِنْ شوقٍ وإبرَاقِ … ومَرِّ طَيفٍ على الأهوالِ طَرّاقِ (٢)\nورجل أرِقٌ وآرِق، على وزن فَعِلٍ وفاعل. قال:\n* فمتُّ بليلِ الآرِقِ المتملمِل (٣) *\nولأصل الآخر قولُ القائل:\nويتركُ القِرْنَ مُصْفرًّا أناملُه … كأنَّ فى ريطتَيْهِ نَضحَ أَرْقانِ (١)\nفيقال إنّ الأَرْقان شجرٌ أحمر. قال أبو حنيفة: ومن هذا أيضاً الأرَقان (٢) الذى يصيب الزَّرع، وهو اصفرارٌ يعتريه، يقال زَرْعٌ مأرُوقٌ وقد أُرِق.\nورواه اللِّحيانىُّ الإراق والأرْق.",
+ "az": "[أرق] (Ərq) Həmzə, ra və qaf iki kökdür; biri gecə yuxusunun qaçması, digəri isə rənglərdən biridir. Birincisi, «أرِقْتُ أَرَقاً» (əriqtu ərəqən) - yuxusuz qaldım, «أرَّقَنِى الهَمُّ» (ərrəqənil-həmmu) - qəm məni yuxusuz qoydu demələridir. Əl-Əşa demişdir: Yuxusuz qaldım, bu yuxusuzluq nədir? Məndə nə xəstəlik, nə də eşq var. Həmçinin «آرَقنِى» (araqəni) də deyilir. Təəbbətə Şərran demişdir: Ey bayram, sənə nə olub ki, şövq və şimşək çaxması ilə gəlmisən, qorxulu yuxu kimi keçib gedirsən? (٢) Kişi «أرِقٌ» (əriq) və «آرِق» (ariq) olur, «فَعِلٍ» (fəil) və «فاعل» (fail) vəznində. Şair demişdir: * Yuxusuz qalanın narahat gecəsində öldüm (٣) * Digər kök isə deyənin bu sözüdür: Rəqibini barmaqları saralmış halda qoyur, sanki iki paltarında «أَرْقان» (ərqan) ləkəsi var (١). Deyilir ki, «الأَرْقان» (əl-ərqan) qırmızı bir ağacdır. Əbu Hənifə demişdir: Bundan həmçinin əkinə yoluxan «الأرَقان» (əl-ərəqan) da var, bu, əkinə gələn sarılıqdır, deyilir ki, «زَرْعٌ مأرُوقٌ» (zər'un mə'ruq) - saralmış əkin və o, «أُرِق» (uriqə) - saralıb. Əl-Lihyani bunu «الإراق» (əl-iraq) və «الأرْق» (əl-ərq) kimi rəvayət etmişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-24T19:02:50.150Z"
+}

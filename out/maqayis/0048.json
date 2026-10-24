@@ -1,0 +1,17 @@
+{
+ "i": 48,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أدل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 71,
+  "page_to": 71
+ },
+ "ar": "الهمزة والدال واللام أصلٌ واحدٌ يتفرّع منة كلمتان متقاربتان فى المعنى، متباعدتان فى الظَّاهر. فالإِدْلُ الَّلبَنُ الحامض. والعرب تقول: جاء بِإدْلَةٍ ما تُطاقُ [حَمَضاً (١)]، أى من حموضتها. قال ابن السكّيت:\nقال الفرّاء: الإِدْلُ وجَع العنق. فالمعنى فى الكراهة واحد، وفيه على رواية أبى عبيد قياسٌ أجود ممّا ذكرناه، بل هو الأصل. قال أبو عبيد: إذا تلبّد اللبن بعضُه على بعضٍ فلم ينقطع فهو إدْلٌ (٢). وهذا أشبهُ بما قاله الفرّاء، لأنّ الوجع فى العنق قد يكون من تضامِّ العروق وتلَوِّيها.",
+ "az": "[أدل]\nHəmzə, dəl və ləm mənaca bir-birinə yaxın, zahirdə isə uzaq görünən iki kəlmənin budaqlandığı vahid bir əsasdır (kökdür). «الإِدْلُ» (əl-idl) — turşumuş süddür. Ərəblər deyirlər: «جاء بِإدْلَةٍ ما تُطاقُ [حَمَضاً (١)]», yəni turşluğuna dözülməyəcək qədər turşumuş bir südlə gəldi. İbn əs-Sikkit demişdir:\nəl-Fərra demişdir: «الإِدْلُ» boyun ağrısıdır. Bəyənilməmə (ağrılı/xoşagəlməz olma) baxımından məna birdir. Əbu Ubeydin rəvayətinə görə isə bu kökdə qeyd etdiyimizdən daha üstün bir qiyas vardır, hətta əsl olan da odur. Əbu Ubeyd demişdir: «Süd qatılaşıb bir-birinin üstünə yığıldıqda və kəsilməyib axmadıqda o, «إدْلٌ» adlanır (٢)». Bu isə əl-Fərranın dediyinə daha çox bənzəyir, çünki boyundakı ağrı da damarların sıxılıb düyünlənməsindən irəli gələ bilər.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

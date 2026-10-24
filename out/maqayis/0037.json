@@ -1,0 +1,17 @@
+{
+ "i": 37,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أجص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 64,
+  "page_to": 64
+ },
+ "ar": "الهمزة والجيم والصاد ليست أصلا، لأنّه لم يجئْ عليها إلاّ الإِجّاص. ويقال إِنّه ليس عربيًّا، وذلك أن الجيم تقلّ مع الصاد.",
+ "az": "[أجص]\n«Həmzə», «cim» və «sad» əsl deyildir; çünki bu kökdə yalnız «الإِجّاص» (əncir / alça / gavalı) sözü gəlmişdir. Deyilir ki, o ərəbcə də deyildir; çünki «cim» hərfi ilə «sad» hərfi ərəb dilində çox nadir hallarda bir yerdə işlənir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:53:37.019Z"
+}

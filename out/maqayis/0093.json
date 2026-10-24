@@ -1,0 +1,17 @@
+{
+ "i": 93,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أصل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 109,
+  "page_to": 110
+ },
+ "ar": "الهمزة والصاد واللام، ثلاثة أصولٍ متباعدٍ بعضها من بعض، أحدها أساس الشئ، والثانى الحَيّة، والثالث ما كان من النَّهار بعد العشىّ. فأما الأوّل فالأصل أصل الشئ، قال الكِسائىّ فى قولهم:\n«لا أصْلَ له ولا فَصْل له (٢)»: إنّ الأصل الحسب، والفَصْل اللسان. ويقال مجْدٌ أصيلٌ. وأمّا الأصَلة فالحيّة العظيمة. و\nفى الحديث فى ذكر الدجّال:\n«كأَنّ رأسَهُ أصَلَةٌ». وأمّا الزمان فالأصيل بعد العَشِىّ وجمعه أصُلُ وآصالٌ و [يقال] أصيلٌ وأصيلَةٌ، والجمع أصائل. قال (١):\nلعَمْرى لَأَنْت البيتُ أُكرِمُ أهْلَهُ … وأقْعُدُ فى أفيَائِهِ (٢) بالأصائلِ",
+ "az": "«أصل» (hərf həmzə, sad və lam): biri-digərindən uzaq üç əsası vardır; birincisi şeyin əsası (bünövrəsi), ikincisi ilan, üçüncüsü isə günortadan sonrakı vaxtdır. Birincisinə gəldikdə, əsl şeyin əslidir. Kisai onların «onun nə əsli var, nə də fəsli (لا أصْلَ له ولا فَصْل له) (٢)» sözü haqqında demişdir: əsl — əsil-nəcabət, fəsl isə — dildir. Və deyilir: əsil şərəf (مجد أصيل). İlan (الأصَلة) — böyük ilandır. \nHədisdə Dəccalın zikrində gəlmişdir:\n«كأَنّ رأسَهُ أصَلَةٌ» (mənaca: sanki başı böyük bir ilan kimidir). Zaman olan asilə gəldikdəisə, o, günortadan sonradır, cəmi əsul (أصُلُ) və asal (آصالٌ) və [deyilir] əsil (اصيل) və asilədir (أصيلَةٌ), cəmi əsaildir (أصائل). \nO demişdir (١):\nلعَمْرى لَأَنْت البيتُ أُكرِمُ أهْلَهُ … وأقْعُدُ فى أفيَائِهِ (٢) بالأصائلِ",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:44.951Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 8,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أبر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 35,
+  "page_to": 35
+ },
+ "ar": "الهمزة والباء والراء يدلُّ بناؤها على نخس الشئ بشئ محدَّد. قال الخليل: الإِبرة معروفة، وبائعها أَبَّار. والأَبْرُ ضرب العقرب بإِبرتها، وهى تأبِرُ. والأَبْرُ إِلقاح النخل، يقال أَبَرَهُ أَبْراً، وأَبَّرَه تأبيرا.\nقال الخليل: والأَبْر علاج الزرع بما يُصلحه من السَّقى والتعهُّد. قال طَرَفة:\nولِىَ الأصلُ الذى فى مثله … يُصلح الآبرُ زرعَ المُؤْتَبِرْ (١)\nالمؤتبر الذى يَطلُبُ أن يقام بزرعه. قال الخليل: المآبر النّمائم، واحدها مِئبر. [قال النابغة (٢)]:\nوذلك من قولِ أتاك أقولُه … ومِنْ دسِّ أعداءٍ إليكَ المآبرا (٣)\nويقال إِنه لذو مِئبر، إذا كان نَمَّاما. قال:\nومَنْ يكُ ذا مِئْبرٍ باللسا … ن يَسْنَحْ به القولُ أو يَبْرَحِ\nقال الخليل: الإِبرة عُظَيْمٌ مستوٍ مع طرف الزَّند من الذراع إلى طرف الإصبع. قال:\n* حيث تلاقى الإبرةُ القبيحا (٤) *\nويقال إِنْ إبرة اللسان طرفه.",
+ "az": "[أبر] الهمزة والباء والراء يدلُّ بناؤها على نخس الشئ بشئ محدَّد. ([əbər] – həmzə, ba və ra – onun quruluşu hər hansı bir şeyi iti bir şeylə sancmağa dəlalət edir.) قال الخليل: الإِبرة معروفة، وبائعها أَبَّار. (Xəlil demişdir: İynə məlumdur, onu satan isə əbbardır.) والأَبْرُ ضرب العقرب بإِبرتها، وهى تأبِرُ. (Və əbr – əqrəbin iynəsi ilə vurmasıdır, o da “təbiru”.) والأَبْرُ إِلقاح النخل، يقال أَبَرَهُ أَبْراً، وأَبَّرَه تأبيرا. (Və əbr – xurma ağacını tozlandırmaqdır, deyilir: “əbərahu əbran” və “əbbərahü təbiirən”.) قال الخليل: والأَبْر علاج الزرع بما يُصلحه من السَّقى والتعهُّد. (Xəlil demişdir: Əbr – əkinçiliyin suvarma və qulluq etməklə onu islah edən müalicəsidir.) قال طَرَفة: ولِىَ الأصلُ الذى فى مثله … يُصلح الآبرُ زرعَ المُؤْتَبِرْ (١) (Tərəfə demişdir: *“Və mənim üçün elə bir əsl vardır ki, onun bənzərində tozlandıran şəxs tozlandırıcının əkinini islah edər”*.) المؤتبر الذى يَطلُبُ أن يقام بزرعه. (Mötəbir – əkininin qulluq edilməsini istəyən şəxsdir.) قال الخليل: المآبر النّمائم، واحدها مِئبر. [قال النابغة (٢)]: (Xəlil demişdir: Məabir – dedi-qodulardır, təkli miəbrdir. [Nəbiyə demişdir]:) وذلك من قولِ أتاك أقولُه … ومنْ دسِّ أعداءٍ إليكَ المآبرا (٣) (Və bu, sənə gələn sözü deyənin sözündəndir... və düşmənlərin sənin üçün məabirləri gizlətməsindən.) ويقال إِنه لذو مِئبر، إذا كان نَمَّاما. (Və deyilir ki, o, həqiqətən miəbr sahibidir – dedi-qoduçu olduğu zaman.) قال: ومَنْ يكُ ذا مِئْبرٍ باللسا … ن يَسْنَحْ به القولُ أو يَبْرَحِ (O demişdir: *“Və hər kim dili ilə miəbr sahibi olarsa, söz onunla üzə çıxar və ya uzaqlaşar”*.) قال الخليل: الإِبرة عُظَيْمٌ مستوٍ مع طرف الزَّند من الذراع إلى طرف الإصبع. (Xəlil demişdir: İbrə – qolun dirsəyindən barmağın ucuna qədər zəndin ucu ilə düz gələn kiçik sümükdür.) قال: * حيث تلاقى الإبرةُ القبيحا (٤) * (O demişdir: *“İynənin qubeyhi qarşılaşdığı yerdə”*.) ويقال إِنْ إبرة اللسان طرفه. (Və deyilir ki, dilin ibrəsi onun ucudur.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T18:41:28.018Z"
+}

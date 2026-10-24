@@ -1,0 +1,17 @@
+{
+ "i": 109,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أقن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 122,
+  "page_to": 122
+ },
+ "ar": "الهمزة والقاف والنون كلمة واحدة لا يقاس عليها.\nالأُقْنة: حفرةٌ تكون فى ظهورِ القِفافِ ضيِّقة الرأس، وربَّما كانت مَهْوَاةً بين نِيقينِ (١) أو شُنْخُوبَيْن. قال الطرِمّاح:\nفى شَنَاظِى أُقَنٍ بينها … عُرَّةُ الطَّيْرِ كصَوْم النَّعامْ (٢)",
+ "az": "«أقن» — Həmzə, qaf və nun hərfləri üzərində müqayisə aparılmayan tək bir kəlmədir. «الأُقْنة» (əl-uqnə) – dağ silsilələrinin səthində baş tərəfi dar olan, bəzən də iki sıldırım və ya hündür qayalıq arasındakı uçurum olan çuxurdur (١). Tirimmah demişdir: / Quş təzeəkinin dəvə peyini kimi dəyirmi olduğu uqnə qayalıqları arasında... (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

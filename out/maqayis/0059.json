@@ -1,0 +1,17 @@
+{
+ "i": 59,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أرط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 81,
+  "page_to": 82
+ },
+ "ar": "الهمزة والراء والطاء كلمة واحدة لا اشتقاق لها، وهى الأَرْطَى الشجرة، الواحدة منها أرْطاة، وأرْطاتان وأرْطَيَاتٌ. وأَرْطًى منوَّن، قال أبو عمرو: أرْطاةٌ وأرْطًى، لم تُلحَق الألف للتأنيث. قال العجّاج:\n* فى مَعْدِنِ الضَّالِ وأرطًى مُعْبِلِ (٢) *\nوهو يُجْرَى ولا يُجْرَى. ويقال هذا أَرْطًى كثير وهذه أرْطَى كثيرة.\nويقال أَرْطَتِ الأرض: أنبتت الأَرْطى، فهى مُرْطِئَة (٣). وذكر الخليل كلمةً إنْ صحّت فهى من الإبدال، أُقيمت الهمزةُ فيها مُقام الهاء. قال الخليل:\nالأَرِيط العاقِرُ من الرِّجال. وأنشد:\n* ماذا ترجِّينَ من الأَريطِ (١) *\nوالأصل فيها الهَرَط يقال نعجة هَرِطَةٌ، وهى المهزولة التى لا يُنتفع بلحمها غُثُوثة. والإنسان يَهْرِطُ فى كلامه، إذا خلط. وقد ذكر هذا فى بابه.",
+ "az": "[أرط] (Ərt) Həmzə, ra və ta bir kəlmədir, şaqqı (törəməsi) yoxdur; bu, «الأَرْطَى» (əl-ərta) ağacıdır, tək halı «أرْطاة» (ərtaə), cəmi «أرْطاتان» (ərtaətan) və «أرْطَيَاتٌ» (ərtəyat) olur. «أرْطًى» (ərta) tənvinli də olur, Əbu Əmr demişdir: «أرْطاةٌ» və «أرْطًى», əlif tənis (dişilik) üçün əlavə olunmayıb. Əl-Əccac demişdir: * Dhal ağacı mədənində və münbit ərta ağacında (٢) * Bu, həm tənvinli, həm də tənvinli olmayan şəkildə işlənir. Deyilir ki, «أَرْطَتِ الأرض» (ərtətil-ərd) - yer ərta bitirdi, o, «مُرْطِئَة» (murtiə) olur (٣). Əl-Xəlil bir kəlmə qeyd edib, əgər doğrudursa, bu əvəzləmədəndir, həmzə orada ha-nın yerində durub. Əl-Xəlil demişdir: «الأَرِيط» (əl-ərit) kişilərdən sonsuz olandır. Şeir oxumuşdur: * Əritdən nə ümid edirsən? (١) * Bunun əsli «الهَرَط» (əl-hərəṭ) kəlməsidir, deyilir ki, «نعجة هَرِطَةٌ» (nəcəh həriṭə) - arıq, ətindən faydalanılmayan qoyun. İnsan danışığında «يَهْرِطُ» (yəhriṭu) - qarışdırdıqda deyilir. Bu, öz babında qeyd olunub.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-24T19:02:50.150Z"
+}

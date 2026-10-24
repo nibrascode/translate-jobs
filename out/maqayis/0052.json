@@ -1,0 +1,17 @@
+{
+ "i": 52,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أدب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 74,
+  "page_to": 75
+ },
+ "ar": "الهمزة والدال والباء أصل واحد تتفرع مسائله وترجع إليه: فالأدْب أن تجمع النّاس إلى طعامك. وهى المَأْدَبَة والمَأْدُبَة. والآدِب الداعى. قال طَرَفة:\nنحنُ فى المَشْتاةِ ندْعُو الجَفَلَى … لا تَرَى الآدبَ فينا ينتقِرْ\nوالمآدِب: جمع المأْدُبَة، قال شاعر:\nكأنَّ قلوبَ الطَّيرِ فى قعر عُشِّها … نَوَى القَسْبِ مُلْقًى عند بَعْضِ المآدب (٣)\nومن هذا القياس الأدَبُ أيضاً، لأنّهُ مُجمَعٌ على استحسانه. فأمَّا\nحديث عبدِ اللّه بن مسعود: «إنَّ هذا القرآنَ مَأْدُبَةُ اللّه تعالى فتعلموا (١) مِنْ مأدُبته».\nفقال أبو عبيد: من قال مأدبة فإنّه أراد الصّنيع يصنعه الإِنسان يدعو إليه النّاس. يقال منه أَدَبْتُ على القوم آدِبُ أَدْباً، وذكر بيت طرفة، ثمّ ذكر بيت عدى:\nزجِلٌ وَبْلُه يُجَاوِبُه دُ … فٌّ لِخُونٍ مَأْدُوبةٍ وزَميرُ (٢)\nقال: ومن قال مَأْدَبَة فإنّه يذهب إلى الأدَب، يجعله مَفْعَلة من ذلك.\nويقال إن الإدْبَ العَجَبُ (٣)، فإنْ كان كذا فلتجمُّع الناس له.\n[(باب الهمزة والذال وما معهما فى الثلاثى]",
+ "az": "[أدب]\nHəmzə, dāl və bə bir əsldir, məsələləri şaxələnir və ona qayıdır: «الأدْب» (əl-ədb) insanları öz yeməyinə toplamaqdır. Buna «المَأْدَبَة» (əl-mə'dəbə) və «المَأْدُبَة» (əl-mə'dubə - ziyafət) deyilir. «الآدِب» (əl-adib) isə dəvət edəndir. Tərəfə demişdir:\nنحنُ فى المَشْتاةِ ندْعُو الجَفَلَى … لا تَرَى الآدبَ فينا ينتقِرْ\n(Biz qış fəslində hamını ümumi surətdə [ziyafətə] çağırırıq; bizim dəvətçinin adam seçdiyini görməzsən).\n«المآدِب» isə «المأْدُبَة» sözünün cəmidir. Şair demişdir:\nكأنَّ قلوبَ الطَّيرِ فى قعر عُشِّها … نَوَى القَسْبِ مُلْقًى عند بَعْضِ المآدب (٣)\n(Quşların yuvanın dibindəki ürəkləri sanki bəzi ziyafətlərin kənarına atılmış quru xurma çərdəkləridir).\n«الأدَبُ» (ədəb) kəlməsi də bu qiyasdandır, çünki onun gözəlliyi üzərində icma edilmişdir (hamı onu bəyənmək üçün toplanmışdır).\nAbdullah ibn Məsudun: «إنَّ هذا القرآنَ مَأْدُبَةُ اللّه تعالى فتعلموا (١) مِنْ مأدُبته» (Həqiqətən, bu Quran Allah Təalanın ziyafətidir, Odur ki, Onun ziyafətindən öyrənin) hədisinə gəlincə;\nƏbu Ubeyd demişdir: Kim «مَأْدُبَة» (mə'dubə) deyirsə, insanın hazırlayıb insanları çağırdığı ziyafəti nəzərdə tutur. Bundan «أَدَبْتُ على القوم آدِبُ أَدْباً» (qövmü ziyafətə çağırdım) deyilir. Sonra Tərəfənin beytini, ardınca da Adiyyin bu beytini zikr etmişdir:\nزجِلٌ وَبْلُه يُجَاوِبُه دُ … فٌّ لِخُونٍ مَأْدُوبةٍ وزَميرُ (٢)\n(Gur leysanının səsinə, ziyafət üçün qurulmuş süfrələrdəki dəf və ney sədaları cavab verir).\nDedi ki: Kim «مَأْدَبَة» (mə'dəbə) deyirsə, o, «الأدَب» (ədəb) mənasını qəsd edir və onu bu kökdən gələn «məf'ələ» vəznində sayır.\nDeyilir ki, «الإدْب» (əl-idb) heyrət doğuran təəccüblü işdir (٣); əgər belədirsə, bu da insanların onun başına toplaşmasına görədir.\n[(Üçhərfli sözlərdə Həmzə, zəl və onlarla olan hərflər babı)]",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T19:00:48.545Z"
+}

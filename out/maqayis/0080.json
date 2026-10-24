@@ -1,0 +1,17 @@
+{
+ "i": 80,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أسف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 103,
+  "page_to": 103
+ },
+ "ar": "الهمزة والسين والفاء أصلٌ واحد يدلّ على الفَوت والتلهُّف وما أشبه ذلك. يقال أسِفَ على الشئ يَأْسَفُ أسَفاً مثل تلهف.\nوالأَسِفُ الغضْبان، قال اللّه تعالى: ﴿وَلَمّا رَجَعَ مُوسى إِلى قَوْمِهِ غَضْبانَ أَسِفاً﴾، وقال الأعشى:\nأرَى رَحْلاً منهُمْ أسيفاً كأنَّما … يضُمُّ إلى كشْحَيهِ كَفًّا مُخَضَّبا\nفيُقال هو الغضبان. ويقال إنّ الأُسَافة (١) الأرض التى لا تنبت شيئاً؛ وهذا هو القياس، لأنّ النّبات (٢) قد فاتَها. وكذلك الجمل الأسيف، وهو الذى لا يكاد يَسْمَنُ. وأمَّا التابع وتسميتهِم إيّاه أسيفاً فليس من الباب، لأنّ الهمزة منقلبةٌ من عين، وقد ذكر فى بابه.",
+ "az": "[أسف] \\nHəmzə, sin və fa hərfləri tək bir əsərə dəlalət edir ki, o da əldən vermək, heyifsilənmək və buna bənzər hallardır. Deyilir: «أسِفَ على الشئ يَأْسَفُ أسَفاً» (əsifə alə əş-şəyi yəsfü əsəfən) – heyifsilənmək kimi. \\nVə «الأَسِفُ» (əl-əsif) – qəzəbli. Uca Allah buyurmuşdur: ﴿وَلَمّا رَجَعَ مُوسى إِلى قَوْمِهِ غَضْبانَ أَسِفاً﴾ (və Musa qövmünün yanına qəzəbli və kədərli/qəzəbli halda qayıtdıqda – mənaca tərcümə: və Musa qövmünün yanına qəzəbli və əsəbi halda qayıtdıqda). Və Əşə səsləndi: \\nأرَى رَحْلاً منهُمْ أسيفاً كأنَّما … يضُمُّ إلى كشْحَيهِ كَفًّا مُخَضَّبا \\nVə deyilir ki, o, qəzəblidir. Və deyilir ki, «الأُسَافة» (əl-üsəfə) – heç bir şey bitirməyən yerdir; bu, qiyasdandır, çünki bitki ondan əldən çıxmışdır. Həmçinin «الجمل الأسيف» (əl-cəməl əl-əsif) – heç cür kökəlməyən dəvədir. Və tabe olan şəxsə «أسيف» (əsif) demələrinə gəldikdə, bu, həmin fəsildən deyil, çünki həmzə eyn hərfini əvəz etmişdir və o, öz fəslində qeyd olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:20.203Z"
+}

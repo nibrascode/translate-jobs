@@ -1,0 +1,17 @@
+{
+ "i": 88,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أسر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 107,
+  "page_to": 107
+ },
+ "ar": "الهمزة والسين والراء أصل واحد، وقياسٌ مطّرد، وهو الحبس، وهو الإمساك. من ذلك الأسير، وكانوا يشدُّونه بالقِدِّ وهو الإِسار، فسمى كلُّ أخيذٍ وإنْ لم يُؤْسرْ أسيراً. قال الأعشى:\nوقيَّدَنِى الشِّعْرُ فى بيته … كما قَيَّد الآسِراتُ الحِمارَا (١)\nأى أنا فى بيته، يريد بذلك بلوغه النِّهاية فيه. والعرب تقول أَسَرَ قَتَبَهُ (٢)، أى شدّه. وقال اللّه تعالى: ﴿وَشَدَدْنا أَسْرَهُمْ﴾ يقال أراد الخَلْق، ويقال بل أراد مَجرى ما يخرج من السَّبيلَين. وأُسْرَةُ الرّجُل رَهْطه، لأنّه يتقوَّى بهم. وتقول أسيرٌ وأَسْرَى فى الجمع وأسارى بالفتح (٣). والأُسْرُ احتباس البَوْل.",
+ "az": "«أسر» (hərf həmzə, sin və ra): tək bir əsas və mütləq bir qanun-qaydadır, o da həbs və tutmaqdır. Bunlardandır əsir (الأسير); onlar əsiri xam dəri ip ilə bağlayırdılar ki, bu da isar (الإسار) adlanırdı. Buna görə də əsir olmasa belə hər tutulan adam əsir adlandırılmışdır. Əş-şa demişdir:\nوقيَّدَنِى الشِّعْرُ فى بيته … كما قَيَّد الآسِراتُ الحِمارَا (١)\nYəni mən onun evindəyəm, bununla orada son həddə çatmasını qəsd edir. Ərəblər deyirlər: أَسَرَ قَتَبَهُ (çəlləyinin/yəhərinin ipini möhkəm bağladı). Uca Allah buyurmuşdur: ﴿وَشَدَدْنا أَسْرَهُمْ﴾ (mənaca tərcümə: və onların quruluşunu/əzalarını möhkəm etdik). Deyilir ki, xəlqi (xilqəti) qəsd etmişdir, başqaları isə demişlər ki, bədənin iki çıxış yolundan çıxan şeyin axarını qəsd etmişdir. Və kişinin üsrəti (أُسْرَةُ الرّجُل) onun tayfasıdır, çünki o, onlarla güclənir. Və deyirsən: əsir və cəm'də əsra (أسْرَى) və fəth ilə əsari (أسارى) (٣). Və üsr (الأُسْر) — sidiyin tutulmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:44.951Z"
+}

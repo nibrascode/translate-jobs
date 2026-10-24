@@ -1,0 +1,17 @@
+{
+ "i": 86,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أسى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 106,
+  "page_to": 106
+ },
+ "ar": "الهمزة والسين والياء كلمة واحدةٌ، وهو الحزن؛ يقال أأَسِيتُ على الشئ آسَى أَسًى، أى حزنتُ عليه.",
+ "az": "«أسى» (hərf həmzə, sin və ya): tək bir kəlmədir, o da hüzündür; deyilir: أأَسِيتُ على الشئ آسَى أَسًى (bir şeyə görə kədərləndim), yəni ona üzüldüm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:44.951Z"
+}

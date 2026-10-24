@@ -1,0 +1,17 @@
+{
+ "i": 72,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أزق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 95,
+  "page_to": 95
+ },
+ "ar": "الهمزة والزاء والقاف قياسٌ واحد وأصلٌ واحد، وهو الضِّيق. قال الخليل وغيره: الأَزْقُ الضِّيق فى الحرب، وكذلك يدعى مكان الوَغَى المَأْزِق. قال ابنُ الأعرابىّ: يقال استؤْزِق على فلانٍ إذا ضاق عليه المكان فلم يُطِقْ أن يَبْرُز. وهو فى شعر العجّاج:\n* [مَلَالةً يَمَلُّهَا] وَأَزْقَا (٢) *",
+ "az": "[أزق]\nHəmzə, zay və qaf hərfləri tək bir qiyas və tək bir əsasdır: sıxlıq. Xəlil və başqaları demişdirlər: Əl-əzq (الأَزْقُ) – döyüşdə sıxlıqdır, eləcə də döyüş meydanı məjəq (المَأْزِق) adlanır. İbn əl-Ərəbi demişdir: استؤْزِق على فلانٍ (istüziq alə fələn) – filankəsin üzərinə daraldıqda, o zaman ki, məkan daraldı və o, çölə çıxa bilmədi. Bu, Əccacın şeirindədir:\n* [مَلَالةً يَمَلُّهَا] وَأَزْقَا (٢) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:03:55.064Z"
+}

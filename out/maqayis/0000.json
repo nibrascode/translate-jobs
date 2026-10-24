@@ -1,0 +1,17 @@
+{
+ "i": 0,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 17,
+  "page_to": 18
+ },
+ "ar": "وأمّا الهمزة والكاف فمعنى الشدَّة من حرٍّ وغيره.\nقال ابن السِّكّيت: الأَكّة الحرّ المحتدم، يقال أصابتنا أكّةُ من حرٍّ،\nوهذا يومٌ أكٌّ ويوم ذو أكٍّ. قال ابن الأَعرابيّ: الأَكّة سوء خُلُق وضِيق نَفْس. وأنشدَ:\nإذا الشَّريبُ أخذتْه أَكَّهْ (١) … فَخَلِّهِ حَتَّى يَبكّ بَكَّهْ\nقال ابنُ الأَعرابىّ: ائتكّ الرجل، إذا اصطكَّتْ رجلاه. قال:\n* فى رِجْلِه من نَعْظِهِ ائتكاكُ *\nقال الخليل: الأَكَّة الشدِيدَة من شدَائدِ الدهر، وقد ائتكّ فلانٌ من أمرٍ أرمَضَه ائتكاكا. قال ابن دريد: يومٌ عكٌّ أكٌّ، وعكِيكٌ أكيكٌ، وذلك من شدَّة الْحر.",
+ "az": "[أك]\nHəmzə və kaf hərflərinə gəlincə, bu, istidən və ya başqa şeydən qaynaqlanan şiddət mənasını bildirir.\nİbn əs-Sikkit demişdir: «الأَكّة» (əl-əkkə) qızmar, boğucu istidir. Deyilir: «أصابتنا أكّةُ من حرٍّ» (Bizi istinin şiddəti bürüdü), «وهذا يومٌ أكٌّ» (Bu, çox qızmar bir gündür) və «يوم ذو أكٍّ» (şiddətli istisi olan gün). İbnul-Ərabi demişdir: «الأَكّة» (əl-əkkə) xasiyyətin pisliyi və daxili sıxıntıdır (hövsələsizlikdir). Və bu şeiri oxumuşdur:\nإذا الشَّريبُ أخذتْه أَكَّهْ (١) … فَخَلِّهِ حَتَّى يَبكّ بَكَّهْ\n(İçki yoldaşını hirsi/sıxıntısı bürüsə, onu öz halına burax ki, təngə gəlib yatışsın).\nİbnul-Ərabi demişdir: «ائتكّ الرجل» (əytəkka ər-racul) – kişinin qıçları bir-birinə çırpıldıqda (titrəyib bir-birinə dəydikdə) deyilir. O demişdir:\n* فى رِجْلِه من نَعْظِهِ ائتكاكُ *\n(Şəhvətinin coşmasından ayağında titrəmə/çırpınma var).\nəl-Xəlil demişdir: «الأَكَّة» (əl-əkkə) zəmanənin müsibət və bəlalarından bir çətinlikdir. «وقد ائتكّ فلانٌ من أمرٍ أرمَضَه ائتكاكا» (Filankəs onu yandırıb-yaxan bir işdən dolayı bərk sarsıldı). İbn Dureyd demişdir: «يومٌ عكٌّ أكٌّ» və «عكِيكٌ أكيكٌ» – bu da istinin şiddətli olmasından irəli gəlir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:25:06.615Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 70,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أرخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 94,
+  "page_to": 94
+ },
+ "ar": "الهمزة والراء والخاء كلمةٌ واحدة عربيَّة، وهى الإرَاخُ لبقر الوحش. قالت الخنساء:\nونَوْحٍ بَعَثْتَ كَمِثْلِ الإرَا … خِ آنَسَتِ العِينُ أَشْبَالَها (٢)\nوأما تأريخ الكتاب فقد سُمِع، وليس عربيًّا ولا سُمِعَ من فَصيحٍ (٣).",
+ "az": "[أرخ]\nHəmzə, ra və xa hərfləri tək bir ərəb kəlməsidir: əl-irax (الإرَاخُ) – çöl inəkləridir. Xansa demişdir:\nونَوْحٍ بَعَثْتَ كَمِثْلِ الإرَا … خِ آنَسَتِ العِينُ أَشْبَالَها (٢)\nKitabın tarixini yazmağa (تأريخ الكتاب) gəldikdə, bu eşidilmişdir, lakin ərəb sözü deyildir və fasiq kimsədən də eşidilməmişdir (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:03:55.064Z"
+}

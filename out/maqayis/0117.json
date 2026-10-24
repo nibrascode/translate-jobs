@@ -1,0 +1,17 @@
+{
+ "i": 117,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أله",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 127,
+  "page_to": 127
+ },
+ "ar": "الهمزة واللام والهاء أصل واحد، وهو التعبُّد. فالإله اللّه تعالى، وسمِّى بذلك لأنّه معبود. ويقال تألَّه الرجُل، إذا تعبّد. قال رؤبة:\nللّهِ دَرُّ الغانِيَاتِ المُدَّةِ (١) … سَبَّحْنَ واستَرْجَعْنَ مِنْ تَأَلُّهِى\nوالإلاهة: الشَّمْس (٢)، سمِّيت بذلك لأنَّ قوما كانوا يعبدونها. قال شاعر (٣):\n* فبادَرْنا الإلاهَةَ أنْ تؤوبا *\nفأما قولهم فى التحيُّر ألِهَ يَأْلَهُ فليس من الباب، لأنّ الهمزة واو. وقد ذكر فى بابه.",
+ "az": "[أله]\\nHəmzə, lam və hə tək bir əsasdır, o da ibadət etməkdir. İlah (الإله) Uca Allahdır və o, məbud (ibadət olunan) olduğu üçün belə adlandırılmışdır. Deyilir: təəlləhə ər-racul (تَأَلَّه الرجُل), yəni ibadət etdi. Rübə demişdir:\\nلِلّهِ دَرُّ الغانِيَاتِ المُدَّةِ (١) … سَبَّحْنَ واستَرْجَعْنَ مِنْ تَأَلُّهِى\\nİlahə (الإلاهة): günəşdir (2), o, bəzi tayfaların ona ibadət etməsi səbəbindən belə adlandırılmışdır. Bir şair demişdir (3):\\n* فبادَرْنا الإلاهَةَ أنْ تؤوبا *\\nQaldı ki, onların çaşqınlıq mənasında işlətdikləri alihə yəxluhu (ألِهَ يَأْلَهُ) sözü, bu fəsildən deyil, çünki həmzə vav hərflidir. O, öz fəslində zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:39.277Z"
+}

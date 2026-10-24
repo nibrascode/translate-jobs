@@ -1,0 +1,17 @@
+{
+ "i": 42,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أحد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 67,
+  "page_to": 67
+ },
+ "ar": "الهمزة والحاء والدال فرع والأصل الواو وَحَد، وقد ذكر فى الواو. وقال الدريدىّ: ما اسْتَأْحَدت بهذا الأمر أى ما انفردت به.",
+ "az": "[أحد]\nHəmzə, ha və dəl törəmədir; əsli isə vav ilə olan «وَحَد»dir (vəhad) və o, vav (و) hərfində qeyd edilmişdir. Əd-Dureydi demişdir: «ما اسْتَأْحَدت بهذا الأمر», yəni bu işdə tək qalmadım (təkbaşına davranmadım).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 40,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 66,
+  "page_to": 66
+ },
+ "ar": "الهمزة والجيم والنون كلمةٌ واحدة. وأجَنَ الماءُ يَأْجُنُ ويَأْجِنُ إِذا تغيَّر، وهى الفصيحة. وربما قالوا أجِنَ يأْجَنُ، وهو أَجُونٌ (١) قال:\n* كَضِفْدِعِ ماءِ أَجونٍ يَنِقّ *\nفأما المِئجنة خشبة القَصَّار فقد ذكرت فى الواو. والإِجَانُ كلامٌ لا يكاد أهل اللُّغة يحقُّونه (٢).",
+ "az": "[أجن]\nHəmzə, cim və nun tək bir kəlmədir. Su xarab olub dəyişdikdə «أجَنَ الماءُ يَأْجُنُ ويَأْجِنُ» deyilir ki, ən fəsih olanı da budur. Bəzən «أجِنَ يأْجَنُ» da deyirlər, [bu cür su isə] «أَجُونٌ» (dadı və qoxusu dəyişmiş su) adlanır (١). Şair demişdir:\n* كَضِفْدِعِ ماءِ أَجونٍ يَنِقّ *\n(Qurbağası quruldayan bulanıq/qoxumuş suyun qurbağası tək).\n«المِئجنة»yə (əl-mi'cənə — çamaşırçının taxtası) gəlincə, o, vav (و) hərfində qeyd edilmişdir. «الإِجَانُ» (əl-icən) isə dil əhlinin demək olar ki, qəbul etmədiyi (doğrulamadığı) bir sözdür (٢).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

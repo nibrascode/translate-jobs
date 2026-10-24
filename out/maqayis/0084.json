@@ -1,0 +1,17 @@
+{
+ "i": 84,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أسن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 104,
+  "page_to": 105
+ },
+ "ar": "الهمزة والسين والنون أصلان، أحدهما تغيُّر الشئ، والآخر السَّبب. فأ [مّا ا] لأوّل فيقال أسَنَ الماء يأسِنُ ويأسُنُ، إِذا تغير.\nهذا هو المشهور، وقد يقال أَسِنَ. قال اللّه تعالى: ﴿مِنْ ماءٍ غَيْرِ آسِنٍ﴾ وأسِنَ الرّجُل إذا غُشِىَ عليه مِنْ ريح البئر. وهاهنا كلمتان مَعْلولتان ليستا بأصل، إحداهما الأُسُن وهو بقيّة الشَّحم، وهذه همزةٌ مبدلة من عَين، إنما هو عُسُنٌ. والأخرى قولهم تأسَّنَ تأسُّناً إذا اعتلّ وأبطأ. وعلّة هذه أنّ أبا زيدٍ قال -\nإنّما هى تأَسَّرَ تأسُّراً، فهذه علّتها. والأصل الآخر قولهم الآسانُ: الحبال.\nقال (١):\nوقد كنت أهوى النّاقِمِيَّةَ حِقْبةً … فقد جَعَلَت آسَانُ بينٍ تَقَطَّعُ (٢)\nواستعير هذا فى قولهم: هو على آسانٍ من أبيه، أى طرائق.",
+ "az": "«أسن» (hərf həmzə, sin və nun): iki əsas kökü vardır, biri şeyin dəyişməsi, digəri isə səbəbdir. Birinciyə gəldikdə, deyilir: أسَنَ الماء يأسِنُ ويأسُنُ (su iyləndi, dəyişdi), çünki dəyişmişdir. Bu məşhurdur, həmçinin أَسِنَ də deyilir. Uca Allah buyurmuşdur: ﴿مِنْ ماءٍ غَيْرِ آسِنٍ﴾ (mənaca tərcümə: iylənib dəyişməmiş sudan). Və quyunun iyindən halı xarab olan kəsə أسِنَ الرّجُل (kişi huşunu itirdi) deyilər. Burada əsas olmayan iki illətli kəlmə də vardır: Biri أُسُنُ (usun) olub piyin qalıntısıdır, bu həmzə eyn hərfindən əvəz edilmişdir, əslində isə عُسُنur (usun). Digəri isə onların تأسَّنَ تأسُّناً (xəstələndi, ləngidi) deməsidir. Bunun səbəbi odur ki, Əbu Zeyd demişdir — bu əslində تأَسَّرَ تأسُّراً-dır, bunun illəti budur. Digər əsas isə onların الآسانُ (alasan) — ip sözüdür. \nO demişdir (١):\nوقد كنت أهوى النّاقِمِيَّةَ حِقْبةً … فقد جَعَلَت آسَانُ بينٍ تَقَطَّعُ (٢)\nVə bu, onların «o, atasının asanlarındadır» yəni yollarındadır sözündə məcazi olaraq işlədilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:44.951Z"
+}

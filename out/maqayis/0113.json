@@ -1,0 +1,17 @@
+{
+ "i": 113,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أكد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 125,
+  "page_to": 125
+ },
+ "ar": "الهمزة والكاف والدال ليست أصلاً، لأنّ الهمزة مبدلة من واو، يقال وَكَّدت العَقْدَ. وقد ذكر فى بابه.",
+ "az": "«أكد» — Həmzə, kaf və dal hərfləri əsl deyil, çünki buradakı həmzə vavdan əvəz olunmuşdur. «وَّكَّدت العَقْدَ» (müqaviləni təsdiqlədim) deyilir. O, öz babında zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

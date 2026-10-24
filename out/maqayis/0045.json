@@ -1,0 +1,17 @@
+{
+ "i": 45,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 70,
+  "page_to": 70
+ },
+ "ar": "الهمزة والخاء والراء أصل واحدٌ إليه ترجع فروعُه، وهو خلاف التقدُّم. وهذا قياس أخذْناه عن الخليل فإِنّه قال: الآخِر نقيض المتقدّم. والأُخرُ نقيض القُدُم، تقول مضى قُدُما وتأخَّرَ أُخُرّا. وقال: وآخِرَة الرحل وقادمته ومُؤَخّر الرَّحْل ومُقَدَّمه. قال: ولم يجئْ مُؤْخِر مخفّفة فى شئٍ من كلامهم إلا فى مُؤْخِر العين ومُقْدم العين فقط. ومن هذا القياس بِعتُك بيعا بِأَخِرَةٍ أى نَظِرَة، وما عرفته إلا بأَخَرَة. قال الخليل: فعل اللّه بالأَخِرِ أى بالأَبْعد. وجئت فى أُخْرَياتهم وأُخْرَى القوم. قال:\n* أنا الذى وُلِدْتُ فى أُخرَى الإِبِلْ (٢) *\nوابن دريد يقول: الآخِر تَالٍ للأوَّل. وهو قريبٌ ممّا مضى ذكره، إلاّ أنّ قولنا قال آخِر الرَّجُلين وقال الآخِر، هو لقول ابن دريد أشد مُلاءمةً وأحسَنُ مطابقة. وأُخَرُ: جَماعة أُخْرَى.",
+ "az": "[أخر]\nHəmzə, xa və ra budaqlarının özünə qayıtdığı tək bir əsasdır (kökdür) və o, öndə olmağın (təqaddumun) ziddidir. Bu, əl-Xəlildən aldığımız bir qiyasdır; belə ki, o demişdir: «الآخِر» (əl-axir) qabaqda olanın (əl-mutəqəddim) ziddidir. «الأُخُرُ» (əl-uxur) isə önün (əl-qudum) ziddidir, «مضى قُدُما وتأخَّرَ أُخُرّا» (irəli getdi və geriyə çəkildi) deyirsən. O həmçinin demişdir: dəvə yəhərinin arxalığına «آخِرَة الرحل», önünə isə «قادمته», eləcə də arxasına «مُؤَخّر الرَّحْل», önünə isə «مُقَدَّمه» deyilir. O demişdir: onların kəlamında şəddəsiz olaraq «مُؤْخِر» kəlməsi yalnız «مُؤْخِر العين» (gözün xarici küncü) və «مُقْدم العين» (gözün daxili küncü) ifadələrində işlənmişdir. Bu qiyasdandır: «بِعتُك بيعا بِأَخِرَةٍ», yəni möhlətlə (nəzirə ilə) satdım; «وما عرفته إلا بأَخَرَة» (onu ancaq lap axırda tanıdım). Əl-Xəlil demişdir: «فعل اللّه بالأَخِرِ», yəni Allah uzaq olanın (lənətlənmişin) cəzasını versin. «وجئت فى أُخْرَياتهم وأُخْرَى القوم» (onların ən axırıncılarında və qövmün sonunda gəldim). Şair demişdir:\n* أنا الذى وُلِدْتُ فى أُخرَى الإِبِلْ (٢) *\n(Mən dəvələrin axırıncısında doğulmuş kimsəyəm).\nİbn Dureyd isə deyir: «الآخِر» birincinin ardınca gələndir. Bu da əvvəl qeyd edilənə yaxındır, lakin bizim: «قال آخِر الرَّجُلين» (iki kişinin sonuncusu dedi) və «وقال الآخِر» (o biri dedi) sözlərimiz İbn Dureydin dediyinə daha münasibdir və daha gözəl uyğunlaşır. «أُخَرُ» (uxar) isə «أُخْرَى» (uxra) kəlməsinin cəmidir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

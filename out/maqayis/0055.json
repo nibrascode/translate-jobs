@@ -1,0 +1,17 @@
+{
+ "i": 55,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أرز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 78,
+  "page_to": 79
+ },
+ "ar": "الهمزة والراء والزاء أصل واحد لا يُخْلف قياسُه بتّةً، وهو التجمُّع والتَّضامّ.\nقال رسول اللّه ﵌: «إنّ الإِسلام ليَأْرِزُ إلى المدينة كما تَأْرِزُ الحيَّة إلى جُحرها». ويقولون: أَرَزَ فلانٌ، إذا تَقَبَّض من بُخْله. و\nكان بعضهم (١) يقول: «إنّ فلاناً إذا سئل أَرَزَ، وإذا دُعِى انتَهَزَ». ورجلٌ أَرُوزٌ إذا لم ينبسط للمعروف. قال شاعر (٢):\n* فذاك بَخَّالٌ أرُوزُ الأَرْزِ *\nيعنى أنّه لا يَنبسط لكنّه ينضمّ بعضَه إلى بعض. قال الخليل: يقال ما بلغ فلانٌ أعْلَى الجبلِ إِلاَّ آرِزاً، أى منقبضاً عن الانبساط فى مَشْيه، من شدّة إعيائه. وقد أَعْيَا وأرَزَ. ويقال ناقَةٌ آرِزَةُ الفَقارَةِ، إذا كانت شديدةً متداخلاً بعضها فى بعض (٣). وقال زهير:\nبآرِزَةِ الفَقَارَةِ لم يَخُنْها … قِطَافٌ فى الرِّكابِ ولا خِلاءَ\nفأمّا قولُهم لليلة الباردة آرِزَة فمن هذا، لأنَّ الخَصِر يتضامّ.",
+ "az": "[أرز] (Ərz) Həmzə, ra və zay hərfləri bir kökdür, onun ölçüsü heç vaxt dəyişməz; bu da toplanmaq və bir-birinə sıxılmaqdır. Allahın Rəsulu (s.ə.v) buyurmuşdur: «Həqiqətən, İslam Mədinəyə doğru sıxılıb toplanacaq (yəni qayıdacaq), necə ki, ilan öz yuvasına sıxılıb toplanır». Deyirlər ki, filankəs «أَرَزَ» (ərəzə) etdi, yəni xəsisliyindən büzüşdü. Bəziləri (١) deyərdi: «Filankəs bir şey istənildikdə büzüşər, dəvət olunduqda isə cəld hərəkət edər». Bir kəsə «أَرُوزٌ» (əruz) deyilir, əgər o, yaxşılıq üçün açılmırsa (yəni xəsisdirsə). Bir şair (٢) demişdir: * O, xəsis, büzüşən biridir * Yəni o, açılmır, əksinə, özünü bir-birinə yığır. Əl-Xəlil demişdir: Deyilir ki, filankəs dağın zirvəsinə ancaq «آرِزاً» (arizən) çatdı, yəni yorğunluğunun şiddətindən yeriməkdə açılmaqdan çəkinərək büzüşmüş halda. O, yoruldu və büzüşdü. Deyilir ki, dəvə «آرِزَةُ الفَقَارَةِ» (arizətul-fəqərə) olur, əgər onun fəqərələri bir-birinə sıx girmişdirsə (٣). Züheyr demişdir: Fəqərələri bir-birinə sıx girmiş (dəvə) ki, minikdə nə yorğunluq, nə də boşluq ona xəyanət etmədi. Soyuq gecəyə «آرِزَة» (arizə) demələri də bu kökdəndir, çünki soyuqdan titrəyən insan büzüşür.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-24T19:02:50.149Z"
+}

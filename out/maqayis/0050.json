@@ -1,0 +1,17 @@
+{
+ "i": 50,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أدو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 73,
+  "page_to": 73
+ },
+ "ar": "الهمزة والدال والواو كلمةٌ واحدة. الأدْوُ كالخَتْل والمراوَغَة. يقال أدا يأدُو أدْواً. وقال:\nأدَوْتُ له لآخذه … فهيهات الفتى حَذِرَا (١)\nوهذا شئٌ مشتقٌّ من الأداة، لأنّها تعمل أعمالاً حتَّى يُوصَل بها إلى ما يراد. وكذلك الخَتْل والخَدْع يَعْملانِ أعمالاً. قال الخليل: الألف التى فى الأداة لا شك أنّها واو، لأن الجِماع أدواتٌ. ويقال رجلٌ مُؤْدٍ عَامِلٌ.\nوأداةُ [الحرب (٢)]: السِّلاحُ. وقال:\nأمُرُّ مُشِيحاً مَعِى فِتْيَةٌ … فمِن بينِ مُؤْدٍ و [مِنْ] حاسرِ\nومن هذا الباب: استأديت على فلانٍ بمعنى استعديت، كأنّك طلبت به أداةً تمكِّنُك من خَصْمك. وآدَيْتُ فلاناً أى أعَنْتُه. قال:\n* إنِّى سأُودِيك بسَيْرٍ وكْزِ (٣) *",
+ "az": "[أدو]\nHəmzə, dāl və vav bir kəlmədir. «الأدْوُ» (əl-ədv) hiyləgərlik, pusqu qurmaq və kələk gəlmək kimidir. «أدا يأدُو أدْواً» (ədə yə'du ədvən) deyilir. Şair demişdir:\nأدَوْتُ له لآخذه … فهيهات الفتى حَذِرَا (١)\n(Onu tutmaq üçün pusqu qurdum/hiylə etdim... heyhat, o cavan ehtiyatlı imiş!)\nBu, «الأداة» (əl-ədət - alət) sözündən törəmişdir, çünki alət məqsədə çatana qədər müxtəlif işlər görür. Eynilə kələk və hiylə də müəyyən tədbirlər görür. Əl-Xəlil demişdir: «الأداة» sözündəki əlifin şübhəsiz ki, vav olduğu məlumdur, çünki cəmi «أدوات» (ədəvət) şəklindədir. «رجلٌ مُؤْدٍ عَامِلٌ» (silahlı/hazırlıqlı, bacarıqlı kişi) deyilir.\nDöyüş aləti [أداةُ الحرب (٢)]: silahdır. Şair demişdir:\nأمُرُّ مُشِيحاً مَعِى فِتْيَةٌ … فمِن بينِ مُؤْدٍ و [مِنْ] حاسرِ\n(Ciddi və cəld addımlayıram, yanımdakı igidlərin bir qismi silahlı-zirehli, bir qismi isə zirehsizdir).\nBu babdandır: «استأديت على فلانٍ» sözü «استعديت» (kömək istədim) mənasındadır, sanki sən bununla rəqibinə qalib gəlməyi təmin edən bir alət/vasitə istəmisən. «آدَيْتُ فلاناً» isə «ona kömək etdim» deməkdir. Şair demişdir:\n* إنِّى سأُودِيك بسَيْرٍ وكْزِ (٣) *\n(Mən sənə möhkəm və sürətli bir yerişlə yardım edəcəyəm).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T19:00:48.545Z"
+}

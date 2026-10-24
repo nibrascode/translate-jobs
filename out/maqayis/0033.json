@@ -1,0 +1,17 @@
+{
+ "i": 33,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أثوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 61,
+  "page_to": 62
+ },
+ "ar": "الهمزة والثاء والواو والياء أصلٌ واحدٌ تختلط الواو فيه بالياء، ويقولون أثَى عليه يَأْثِى إِثَاوَةً وإِثَايَةً وأثْواً وأثْياً، إذا نَمَّ عليه.\nوينشدون:\n* ولا أكون لكم ذا نَيْرَبٍ آثِ *\nوالنيرب: النميمة. وقال:\nوإِنّ امرأً يأثُو بسادةِ قَومِهِ … حَرِىٌّ لَعَمرِى أن يُذَمَّ ويُشتَما\n[(باب الهمزة والجيم وما يثلثهما)]",
+ "az": "[أثوى]\n«Həmzə», «sə», «vav» və «yə» tək bir əsldir, burada «vav» hərfi «yə» hərfi ilə qarışır. Deyirlər: «أثَى عليه يَأْثِى إِثَاوَةً وإِثَايَةً وأثْواً وأثْياً» — birinin əleyhinə söz gəzdirdikdə, qeybət etdikdə belə deyilir.\nVə bu beyti oxuyurlar:\n* ولا أكون لكم ذا نَيْرَبٍ آثِ *\n(Və sizə qarşı söz gəzdirən, ara vuran biri olmaram).\n«النيرب» (ən-nəyrəb) — sözgəzdirmə, araqarışdırma deməkdir. Şair demişdir:\nوإِنّ امرأً يأثُو بسادةِ قَومِهِ … حَرِىٌّ لَعَمرِى أن يُذَمَّ ويُشتَما\n(Öz qövmünün böyükləri haqqında söz gəzdirən kimsə, ömrümə and olsun ki, qınanmağa və söyülməyə layiqdir).\n\n[(Həmzə, cim və bu ikisinin üçüncüsü olan hərflər babı)]",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:53:37.018Z"
+}

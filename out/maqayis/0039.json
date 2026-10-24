@@ -1,0 +1,17 @@
+{
+ "i": 39,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 65,
+  "page_to": 66
+ },
+ "ar": "الهمزة والجيم والميم لا يخلو من التجمُّع والشدّة. فأما التجمُّع فالأَجَمَة، وهى مَنْبِت الشجر المتجمِّع كالغيضة (٢)، والجمع الآجام.\nوكذلك الأُجُم وهو الحِصْن. ومثلهُ أُطُم وآطام. و\nفى الحديث: «حتى توارَتْ بآجَامِ المدينة». وقال امرؤ القيس:\nوَتَيْمَاءَ لم يَتْرُكْ بها جِذْعَ نخلةٍ … ولا أُجُماً إلا مَشِيداً بجَنْدَلِ (٣)\nوذلك متحمّع البُنيان والأهل.\nوأما الشدّة فقولهم: تأجّم الحَرّ، اشتدّ. ومنه أَجَمْت الطعامِ مَلِلْته. وذلك أمرٌ يشتدُّ على الإنسان.",
+ "az": "[أجم]\nHəmzə, cim və mim [hərfləri] toplanma və şiddətdən xali deyildir. Toplanmaya gəlincə, «الأَجَمَة» (əl-əcəmə) — sıx meşəlik (əl-ğeyda) kimi ağacların bir yerdə bitdiyi yerdir (٢), cəmi «الآجام» (əl-əcəm) şəklindədir.\nEləcə də «الأُجُم» (əl-ucum) qala deməkdir. Bunun bənzəri «أُطُم» (utum) və «آطام» (atam) kəlmələridir.\nHədisdə buyurulur: «حتى توارَتْ بآجَامِ المدينة» (Hətta Mədinə qalalarında gözdən itdi). İmruul-qeys demişdir:\nوَتَيْمَاءَ لم يَتْرُكْ بها جِذْعَ نخلةٍ … ولا أُجُماً إلا مَشِيداً بجَنْدَلِ (٣)\n(O, Teymada nə bir xurma kötüyü, nə də daşla möhkəm ucaldılmış olanından başqa bircə qala belə saxladı).\nBu da tikililərin və əhalinin bir yerə toplaşması mənasındadır.\nŞiddətə gəlincə, onların: «تأجّم الحَرّ» (isti şiddətləndi) sözüdür. Buradandır «أَجَمْت الطعامِ» (yeməkdən bezdim/usandım) ifadəsi; bu da insana ağır gələn (şiddətli olan) bir şeydir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

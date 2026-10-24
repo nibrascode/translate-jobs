@@ -1,0 +1,17 @@
+{
+ "i": 95,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أصر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 110,
+  "page_to": 111
+ },
+ "ar": "الهمزة والصاد والراء، أصلٌ واحدٌ يتفرّع منه أشياءُ متقاربة. فالأصر الحبسُ والعَطف وما فى معناهما. وتفسيرُ ذلك أنَّ العهد يقال له إصْرٌ، والقرابة تسمى آصِرَةٌ، وكل عقدٍ وقرابةٍ وَعهدٍ إِصْرٌ. والبابُ كلُّه واحد. والعرب تقول: «ما تأصِرْنى على فلان آصِرَةٌ»، أى ما تعطفنى عليه قرابة. قال الحطيئة:\nعطفوا علىّ بغير آ … صرَةٍ فقد عظُم الأواصِرْ (١)\nأى عطفوا علىَّ بغير عهدٍ ولا قرابة. والمَأْصِرُ (٢) من هذا، لأنه شئ يُحْبَس [به]. فأما قولهم إنّ [العهد (٣)] الثّقيل إصْرٌ فهو [من] هذا؛ لأنَّ العهدَ والقرابةَ لهما إصْرٌ ينبغى أن يُتَحمَّل. ويقال أصَرْتُه إذا حبستَه.\nومن هذا الباب الإصار، وهو الطُّنُب، وجمعه أُصُرٌ. ويقال هو وَتِد الطُّنُب.\nفأمّا قول الأعشى:\nفهذا يُعِدُّ لَهنَّ الخلا … ويَجعلُ ذا بينهنَّ الإصَارا (٤)",
+ "az": "«أصر» (hərf həmzə, sad və ra): bir-birinə yaxın şeylərin şaxələndiyi tək bir əsasdır. Əsr — həbs, əyilmə və bu mənalarda olan şeylərdir. Bunun izahı budur ki, əhdə isr (إصْرٌ) deyilir, qohumluğa isə asirə (آصِرَةٌ) deyilir, hər bir əhd, qohumluq və ah-peyman isrdir. Bab tamamilə birdir. \nƏrəblər deyirlər: «ما تأصِرْنى على فلان آصِرَةٌ» (filankəsə görə məni heç bir qohumluq əlaqəsi əymir/saxlamır), yəni heç bir qohumluq məni ona tərəf yönəltmir. Hüteyyə demişdir:\nعطفوا علىّ بغير آ … صرَةٍ فقد عظُم الأواصِرْ (١)\nYəni heç bir əhd və qohumluq olmadan mənə tərəf yönəldilər. Məsir (المَأْصِرُ) bundandır, çünki o, [özü ilə] bir şey saxlanılan yerdir. Ağır [əhdin] isr olması sözünə gəldikdəisə, bu [da] bundandır; çünki əhd və qohumluğun daşınmalı olan isri (ağırlığı/öhdəliyi) vardır. Və deyilir: asərtühü (أصَرْتُه) — əgər onu saxlamısansa. \nVə bu babdandır isar (الإصار), o da çadır ipidir, cəmi usurdur (أُصُرٌ). Və deyilir ki, o, çadır ipinin payasıdır. \nƏş-şanın bu sözünə gəldikdəisə:\nفهذا يُعِدُّ لَهنَّ الخلا … ويَجعلُ ذا بينهنَّ الإصَارا (٤)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:04:44.951Z"
+}

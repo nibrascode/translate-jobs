@@ -1,0 +1,17 @@
+{
+ "i": 115,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أكف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 126,
+  "page_to": 126
+ },
+ "ar": "الهمزة والكاف والفاء ليس أصلاً، لأنّ الهمزة مبدلة من واو، يقال وِكافٌ وإكافٌ.",
+ "az": "«أكف» — Həmzə, kaf və fa hərfləri əsl deyil, çünki buradakı həmzə vavdan əvəz olunmuşdur; «وِكاف» (vikaf) və «إكاف» (ikaf – palan) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

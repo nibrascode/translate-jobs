@@ -1,0 +1,17 @@
+{
+ "i": 21,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أتل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 47,
+  "page_to": 47
+ },
+ "ar": "الهمزة والتاء واللام يدلّ على أَصلٍ واحد، وهو البطء والتّثاقل. قال أَبو عبيد: الأَتَلانُ تقارب الْخَطْو فى غَضَبِ، يقال: أَتَلَ يَأْتِلُ، وَأَتَنَ يَأْتِنُ. وأنشد:\nأرانِىَ لا آتَيكَ إلاّ كأَنَّمَا … أَسَأْتُ وإِلاَّ أَنْتَ غضبانُ تَأتِلُ (١)\nوهو أيضاً مشىٌ بتثاقل. وأنشد:\nمَالكِ يا ناقة تَأْتِلِينا … علىَّ بالدَّهناءِ تَأْرَخِينا (٢)\nقال أَبو على الأصفهانىّ: أَتَلَ الرجل يَأْتِل أُتُولَا، إذا تأَخر وتخلَّفَ. قال:\nوقد ملأْت بطنَه حَتَّى أَتَلْ (٣) *",
+ "az": "[أتل]\nHəmzə, tə və ləm bir əslə (kökə) dəlalət edir; o da lənglik və ağırlıqdır (tələsməmək, ağır tərpənməkdir). Əbu Ubeyd demişdir: «الأَتَلانُ» (əl-ətələn) qəzəbli halda addımları bir-birinə yaxın atmaqdır; deyilir: «أَتَلَ يَأْتِلُ» (ətələ yə'tilu) və «أَتَنَ يَأْتِنُ» (ətənə yə'tinu). Və bu beyti oxumuşdur:\nأرانِىَ لا آتَيكَ إلاّ كأَنَّمَا … أَسَأْتُ وإِلاَّ أَنْتَ غضبانُ تَأتِلُ (١)\n(Mənə elə gəlir ki, nə vaxt yanına gəlsəm, sanki pislik etmişəm, yaxud sən qəzəblisən və addımlarını sıx-sıx atırsan).\nBu, həmçinin ağırlıqla (ləng) yeriməkdir. Şair belə demişdir:\nمَالكِ يا ناقة تَأْتِلِينا … علىَّ بالدَّهناءِ تَأْرَخِينا (٢)\n(Ey dəvə, sənə nə olub ki, bizə qarşı ləngiyirsən, Dəhna çölündə bizə qarşı yavaşıyırsan?)\nƏbu Əli əl-İsfahani demişdir: İnsan gecikdikdə və arxada qaldıqda «أَتَلَ الرجل يَأْتِل أُتُولَا» (ətələ ər-raculu yə'tilu utulən) deyilir. Şair demişdir:\nوقد ملأْت بطنَه حَتَّى أَتَلْ (٣)\n(Onun qarnını doldurdum, hətta o, ağırlıqdan ləngidi).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:49:50.695Z"
+}

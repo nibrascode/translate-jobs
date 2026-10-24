@@ -1,0 +1,17 @@
+{
+ "i": 18,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أبه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 44,
+  "page_to": 44
+ },
+ "ar": "الهمزة والباء والهاء يدلّ على النباهة والسموِّ ما أَبَهْتُ به لم أعلم مكانه ولا أَنِسْت به. والأُبَّهَة: الجلال.",
+ "az": "[أبه] \nHəmzə, ba və hə şöhrətə və ucalığa dəlalət edir. ما أَبَهْتُ به (mə əbəhtu bihi) - onun yerini bilmədim və ona ünsiyyət qurmadım. Və الأُبَّهَة (əl-ubbəhəh) - əzəmət, təmtəraqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T18:47:59.725Z"
+}

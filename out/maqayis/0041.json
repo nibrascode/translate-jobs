@@ -1,0 +1,17 @@
+{
+ "i": 41,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أجأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 66,
+  "page_to": 67
+ },
+ "ar": "جبل لِطَىّ. وقد قلنا إنّ الأماكنَ لا تكاد تنقاس أسماؤُها (٣). وقال شاعرٌ فى أجأ:\nومن أَجَأٍ حَوْلِى رِعانٌ كأنَّها … قنابِلُ خيلٍ من كُميتٍ ومن وَرْدِ (٤)\n[(باب الهمزة والحاء وما معهما فى الثلاثى)]",
+ "az": "[أجأ]\nTayy (طَيّ) qəbiləsinə məxsus bir dağ adıdır. Artıq demişdik ki, yer adları adətən qiyasa tabe olmur (٣). Bir şair Əcə (أجأ) dağı haqqında demişdir:\nومن أَجَأٍ حَوْلِى رِعانٌ كأنَّها … قنابِلُ خيلٍ من كُميتٍ ومن وَرْدِ (٤)\n(Əcə dağından ətrafımda dağ burunları ucalır, sanki kəhər və sarımtıl-qırmızı at dəstələridir).\n[(Üçhəriflilərdə həmzə, ha və onlarla birlikdə olanlar babı)]",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

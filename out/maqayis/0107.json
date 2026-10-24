@@ -1,0 +1,17 @@
+{
+ "i": 107,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أقر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 121,
+  "page_to": 121
+ },
+ "ar": "أقر: موضِعٌ. قال النابغة:\nلقد نَهَيْتُ بَنِى ذُبْيان عن أُقُرٍ … وعن تربُّعِهِمْ فى كلِّ أَصْفارِ (١)\nوليس هذا أصلاً.",
+ "az": "«أقر» — Üqur: bir yerin adıdır. Nabigə demişdir: / Mən Zübyan oğullarını Uqurdan və bütün səfər aylarında orada yazla qalmaqdan qadağan etdim (١). Bu, əsl (müstəqil kök) deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

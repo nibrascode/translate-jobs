@@ -1,0 +1,17 @@
+{
+ "i": 22,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أتم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 47,
+  "page_to": 48
+ },
+ "ar": "الهمزة والتاء والميم يدلُّ على انضمام الشئ بعضِه إلى بعض، الأَتَم فى الخُرَزِ أَنْ تتفتق خُرْزتان فتصيرا واحدةً. ومنه المرأَة الأَتُوم وهى المُفْضاةُ التى صار مَسْلكاها واحداً، قال أَبو عمرو: الأُتُم لغة فى العُتُم، وهو شجر الزَّيتون. ويقال: أَتَم بالمكان، إِذا ثوى، ويقال الأتَم الثواءُ (٤)، والمَأْتَم: النِّساءِ يجتمعن فى الخير والشرّ، كذا قال القُتَبىّ، وأَنشد.\nرَمَتْهُ أَنَاةٌ مِنْ رَبيعةِ عَامِرٍ … نَؤُومُ الضُّحَى فى مأْتَم أَىِّ مَأْتَمِ (١)\nيريد فى سَاءٍ أَىِّ سَاءٍ. وقال رؤبةُ:\nإِذا تَدَاعَى فى الصِّمادِ مأتمُهْ … أَحَنَّ غِيراناً تنادى زُجَّمُه (٢)\nشبّه البُومَ بنساءٍ يَنُحْنَ. وقوله: أَحَنَّ غِيراناً، يريدُ أن البُوم إذا صوّتَتْ أحنَّت الغِيرانَ بمجاوَبَة الصدى، وهو الصَّوت الذى تسمعه من الجبل أو الغَارِ بَعْدَ صوتِك.",
+ "az": "[أتم]\nHəmzə, tə və mim bir şeyin digərinə birləşməsinə, bitişməsinə dəlalət edir. «الأَتَم» (əl-ətəm) tikişdə iki tikiş deşiyinin cırılıb (sökülüb) tək bir deşik halına gəlməsidir. Buradan da «المرأَة الأَتُوم» (əl-mər'ətul-ətum) – iki yolu (sidik və uşaqlıq yolu) birləşib bir olmuş qadındır (əl-mufdah). Əbu Əmr demişdir: «الأُتُم» (əl-utum) «العُتُم» (əl-utum) sözünün bir lüğət variantıdır ki, bu da zeytun ağacıdır. Bir yerdə qaldıqda, məskunlaşdıqda «أَتَم بالمكان» (ətəmə bil-məkan) deyilir; «الأتَم» (əl-ətəm) qalmaq, iqamət etməkdir (٤). «المَأْتَم» (əl-mə'təm) isə həm xeyirdə, həm də şərdə bir yerə toplaşan qadınlardır; İbn Quteybə belə demiş və bu beyti oxumuşdur:\nرَمَتْهُ أَنَاةٌ مِنْ رَبيعةِ عَامِرٍ … نَؤُومُ الضُّحَى فى مأْتَم أَىِّ مَأْتَمِ (١)\n(Onu Rəbiə Amir qəbiləsindən olan, quşluq vaxtı yatan zərif bir qadın bir qadın yığıncağında oxa tutdu – nə yığıncaq!).\nBurada «فى نِسَاءٍ أَىِّ نِسَاءٍ» (qadınlar içində, nə qadınlar!) demək istəyir. Ru'bə demişdir:\nإِذا تَدَاعَى فى الصِّمادِ مأتمُهْ … أَحَنَّ غِيراناً تنادى زُجَّمُه (٢)\n(Təpələrdə onun dəstəsi fəryad qopardıqda, bir-birini çağıran sədaları mağaraları inildədər).\nO, bayquşları nalə çəkən qadınlara bənzətmişdir. Onun «أَحَنَّ غِيراناً» (mağaraları inildədər) sözü o deməkdir ki, bayquşlar səs çıxardıqda əks-səda ilə mağaraları inildədərlər; əks-səda isə dağdan və ya mağaradan öz səsindən sonra eşitdiyin səsdir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:49:50.695Z"
+}

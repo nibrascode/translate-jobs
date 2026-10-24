@@ -1,0 +1,17 @@
+{
+ "i": 46,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أخو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 70,
+  "page_to": 70
+ },
+ "ar": "الهمزة والخاء والواو ليس بأصلٍ؛ لأنّ الهمزة عندنا مبدلة من واو، وقد ذكرت فى كتاب الواو بشرحها، وكذلك الآخِيَّة.",
+ "az": "[أخو]\nHəmzə, xa və vav əsli kök deyildir; çünki bizə görə buradakı həmzə vav (و) hərfindən çevrilmişdir və vav kitabında ətraflı izahı ilə qeyd edilmişdir. «الآخِيَّة» (əl-axiyyə — heyvan bağlanan dirək/ilgək) də həmçinin.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-24T18:56:49.982Z"
+}

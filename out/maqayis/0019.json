@@ -1,0 +1,17 @@
+{
+ "i": 19,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أبو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 44,
+  "page_to": 45
+ },
+ "ar": "الهمزة والباء والواو يدلّ على التربية والغَذْو. أَبَوْتُ الشئ آبُوه أَبْواً إِذا غذوته. وبذلك سمِّى الأب أبا. ويقال فى النسبة إلى أَبٍ أَبَوِىّ. وعنزٌ أبواءٍ، إِذا أصابها وجعٌ عن شمِّ أَبوال الأَرْوَى. قال الخليل: الأبُ معروف، والجمع آباء وأَبُوَّةٌ. قال:\nأُحاشِىِ نزارَ الشَّامِ إِنَّ نِزَارَهَا … أبُوَّةُ آبائى ومِنِّى عميدُهَا\nقال: وتقول: تأبَّيْتُ أَباً، كما تقول تَبَنَّيْتُ ابْناً وتَأَمَّهْتُ أَمًّا. قال:\nويجوز فى الشِّعر «هذان أَباك» وأَنت تريد أَبَوَاك، و «رأَيت أَبِيك» يريد أَبويك. قال:\nوَهْوَ يُفَدَّى بالأبِينَ والخالْ (١) *\nويجوز فى الجمع أَبُونَ. وهؤلاء أَبوكم أَى آباؤكم. أَبو عبيد: ما كنتَ أَبَا ولقد أَبِيْتَ أبوّة. وأَبَوْتُ القوم أَى كنتُ لهم أَبَا. قال:\nنؤمُّهمُ ونأْبُوهُمْ جميعاً … كما قُدَّ السُّيُورُ من الأديمِ\nقال الخليل: فلانٌ يَأْبُو اليتيمَ، أَى يغذو، كما يغذو الوالد ولده.",
+ "az": "[أبو] \nHəmzə, ba və vav tərbiyəyə və qidalandırmağa dəlalət edir. أَبَوْتُ الشئ آبُوه أَبْواً (əbətu əş-şəyə abuhu əbvan) - onu qidalandırdığım zaman. Məhz buna görə ata أَب (ab) adlandırılmışdır. Ata نسب (nisbət) verdikdə أَبَوِىّ (əbəviyyün) deyilir. Və əçki عنزٌ أبواءٍ (ənzun əbvain) - dağ keçilərinin sidiyinin qoxusunu qoxulamaqdan ağrıya məruz qaldıqda. \nXəlil dedi: Ata أَب (ab) məlumdur, cəmi آباء (abai) və أَبُوَّةٌ (ubuvvətün) gəlir. O dedi:\nأُحاشِىِ نزارَ الشَّامِ إِنَّ نِزَارَهَا … أبُوَّةُ آبائى ومِنِّى عميدُهَا\n(Şam nizarilərini istisna edirəm, çünki onların nizariləri atalarımın atalığıdır və başçısı məndəndir).\n\nO dedi: Və sən deyirsən: تأبَّيْتُ أَباً (təəbbəytu əbən), necə ki, تَبَنَّيْتُ ابْناً (təbənnəytu ibnən) və تَأَمَّهْتُ أَمًّا (təəmməhtu ümmən) deyirsən. O dedi:\nويجوز فى الشِّعر «هذان أَباك» وأَنت تريد أَبَوَاك، و «رأَيت أَبِيك» يريد أَبويك. O dedi:\nوَهْوَ يُفَدَّى بالأبِينَ والخالْ (١) *\n(O, atalar və dayı ilə fəda edilir).\n\nVə cəmdə أَبُونَ (əbuna) caizdir. Və bunlar أَبوكم (əbukum) - yəni atalarınızdır. Əbu Ubeyd: sən ata deyildin və sən أَبِيْتَ أبوّة (əbiytə ubuvvətən) etdin. Və أَبَوْتُ القوم (əbətu əl-qavmə) - mən onlar üçün ata oldum. O dedi:\nنؤمُّهمُ ونأْبُوهُمْ جميعاً … كما قُدَّ السُّيُورُ من الأديمِ\n(Biz onlara üz tutur və hamısına atalıq edirik... dəridən qayışlar kəsildiyi kimi).\n\nXəlil dedi: Filankəs يَأْبُو اليتيمَ (yəbu əl-yetimə) - ata öz övladını qidalandırdığı kimi yetimi qidalandırır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T18:47:59.725Z"
+}

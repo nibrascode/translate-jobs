@@ -1,0 +1,17 @@
+{
+ "i": 108,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أقط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 121,
+  "page_to": 121
+ },
+ "ar": "الهمزة والقاف والطاء تدلُّ على الخلط والاختلاط.\nقالوا: الأَقِطُ من اللَّبن مَخِيضٌ يُطْبَخُ ثمّ يُترَك حتَّى يمْصُل؛ والقطعة أَقِطَةٌ.\nوأَقَطْتُ القومَ أَقِطاً (٢) أى أطعمتهم ذلك. وطعام مَأْقُوطٌ خُلِط بالأَقِط. قال:\nأتتكُمُ الجوفاء جَوْعَى تَطَّفِحْ (٣) … طُفَاحَةَ القِدْرِ وحيناً تَصْطَبِحْ (٤)\n* مأقوطة عادت ذباح المدَّبِحْ (٥) *\nوالمأقِط: موضع الحرب، وهو المَضِيق، لأنّهم يختلطون فيه.",
+ "az": "«أقط» — Həmzə, qaf və ta hərfləri qarışmağa və qarışıqlığa dəlalət edir. Onlar demişlər: «الأَقِطُ» (əl-əqit) – süddən yağı alınmış ayranın bişirilib qatılaşana qədər buraxılması ilə hazırlanan qurrutdur (və ya pendir növüdür); onun bir parçası «أَقِطَةٌ» (əqitə) adlanır. «أَقَطْتُ القومَ أَقِطاً» – mən qövmə əqit (qurrut) yedirtdim. «طعام مَأْقُوطٌ» – əqit ilə qarışdırılmış yemək. O demişdir: / Cövfə qövmü sizə ac gəldi, qazanın üzərindəki köpüyü yalayaraq (تطفح) və bəzən səhər yeməyi yeyərək (٣، ٤) * Məqut olunmuş (əqit qarışdırılmış) halda qəssabın kəsdiyi qoyunun kəsiminə qayıtdı (٥). «المَأْقِطُ» (əl-məqit) – döyüş yeri, dar keçid deməkdir, çünki insanlar orada bir-birinə qarışırlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

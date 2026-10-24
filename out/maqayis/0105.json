@@ -1,0 +1,17 @@
+{
+ "i": 105,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أفد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 120,
+  "page_to": 120
+ },
+ "ar": "الهمزة والفاء والدال تدلُّ على دنو الشئ وقُرْبه يقال أَفِدَ الرَّحيل: قَرُب. والأَفِدُ المستَعْجِل. قال النّابغة:\nأَفِدَ الترحُّلُ غير أنَّ رِكابَنا … لَمَّا تَزُلْ برِحَالِنا وكَأَنْ قَدِ\nوبعثَت أعرابيّةٌ بنتاً لها إلى جارتها فقالت: «تقول لكِ أُمِّى: أعطِينى نَفَساً أو نَفَسين أَمْعَسُ به مَنيئَتِى فإنِّى أَفِدَةٌ (٣)».",
+ "az": "«أفد» — Həmzə, fa və dal hərfləri bir şeyin yaxınlaşmasına və üfüqə və ya vaxta görə yaxın olmasına dəlalət edir. «أفِدَ الرَّحيل» – köçmək yaxınlaşdı, deməkdir. «الأَفِدُ» (əl-əfid) – tələsən deməkdir. Nabigə demişdir: / Köçmək yaxınlaşdı, lakin miniklərimiz hələ ki yük yerlərimizdən tərpənməyib, az qalır ki, tərpənsin. Bədəvi qadın qızını qonşusuna göndərərkən demişdir: «Anan sənə deyir: mənə bir və ya iki nəfəslik vaxt ver ki, onunla dəri aşılamağımı yumşaldım, çünki mən tələvirəm (tələsirəm)» (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

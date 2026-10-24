@@ -1,0 +1,17 @@
+{
+ "i": 104,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 119,
+  "page_to": 120
+ },
+ "ar": "الهمزة والفاء والنون يدلّ على خلوّ الشئ وتفريغه قالوا: الأُفَنْ قلّة العقل؛ ورجل مأفونٌ. قال:\nنُبِّئْتُ عُتبةَ خَضَّافاً تَوَعَّدَنِى … يا رُبَّ آدَرَ مِنْ مَيثاءَ مأفُونِ (١)\nويقال إنّ الجَوز المأفُونَ هو الذى لا شئ فى جوفه. وأصل ذلك كلِّه من قولهم: أَفَنَ الفَصيلُ ما فِى ضرع أُمّه، إذا شربَه كلَّه. وأَفَنَ الحالبُ النّاقَةَ، إذا لم يَدَعْ فى ضَرْعِها شَيئاً. قال:\nإذا أُفِنَتْ أَرْوَى عِيالَكَ أَفْنُها … وإنْ حُيِّنَتْ أَوْبَى على الوَطْبِ حينُها (٢)\nوقال بعضهم: أَفَنت النّاقةُ قلّ لبنها فهى أَفِنَةٌ، مقصورة.",
+ "az": "«أفن» — Həmzə, fa və nun hərfləri bir şeyin boşalmasına və boş edilməsinə dəlalət edir. Onlar demişlər: «الأفَنْ» (əl-əfən) – zəkasızlıq, ağılsızlıqdır; «رجل مأفونٌ» (mə'fun kişi – ağıldan kəm kişi). O demişdir: / Mənə xəbər çatdı ki, Utbə Xəffaf məni hədələyib. Ey Məysə torpağından olan, ağıldan kəm, batıq gözlü kişi! (١). Deyilir ki, «الجوز المأفُونَ» (əl-cəuz əl-mə'fun) – içində heç nə olmayan qozdur. Bütün bunların əsli onların şu sözündən götürülmüşdür: «أَفَنَ الفَصيلُ ما فِى ضرع أُمّه» – dəvə balası anasının əmçəyində nə varsa hamısını əmib qurtardığı zaman deyilir. «أَفَنَ الحالبُ النّاقَةَ» – sağan adam dəvənin əmçəyində heç bir şey qoymayanda (tam sağdıqda) deyilir. O demişdir: / Əgər o (dəvənin südü) tam sağılarsa, onun sağını sənin ailəni doydurar; əgər zəmanəsi çatsa, onun zəmanəsi tuluğa zərər vurar (٢). Bəziləri demişdir: «أَفَنت النّاقةُ» – dəvənin südü azaldı, o, qısa həmzəli olaraq «أَفِنَةٌ» (əfinə) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:19.433Z"
+}

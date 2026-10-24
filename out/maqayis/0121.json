@@ -1,0 +1,17 @@
+{
+ "i": 121,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ألس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 131,
+  "page_to": 131
+ },
+ "ar": "الهمزة واللام والسين كلمةٌ واحدة، وهى الخيانة. العرب تسمِّى الخيانة ألْساً، يقولون: «لا يُدالِسُ ولا يُؤَالِس».",
+ "az": "[ألس]\\nHəmzə, lam və sin xəyanət mənasını verən tək bir kəlmədir. Ərəblər xəyanəti əls (ألْساً) adlandırırlar. Deyirlər: «La yudalisü və la yuəlisü» («لا يُدالِسُ ولا يُؤَالِس»). (O, nə hiylə işlədər, nə də xəyanət edər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-24T19:05:39.277Z"
+}
