@@ -22,11 +22,19 @@ Qaydalar:
 - Kökləri, baş sözləri, izah olunan ərəbcə sözləri və şeir beytlərini ərəb qrafikası ilə saxla, yanında mötərizədə və ya ardınca tərcüməsini ver. Məs.: «أطر» — ...; إطار (əhatə, çərçivə).
 - Quran ayələri: ərəb mətnini saxla, ardınca «mənaca tərcümə: ...» ver.
 - Hədis və şeir: ərəb mətnini saxla, ardınca mənasını ver.
-- İnsanlar haqqında «yaratmaq» felini işlətmə (Allahın yaratması istisnadır).
+- «yaratmaq» kökünü (yarat-, yaradıl-, yaranmaq) heç vaxt işlətmə; yerinə «etmək, düzəltmək, əmələ gətirmək, xəlq etmək» kimi sözlər işlət.\n- Bütün izah mətni Azərbaycan dilində olmalıdır; ərəbcə mətni tərcüməsiz qaytarma.
 - Ərəb hərflərinin adları: həmzə, kaf, lam və s. düzgün yazılsın.
 - Haşiyə rəqəmlərini (٣) olduğu kimi saxla. Abzasları (\\n) qoru.
 - Çıxış: yalnız JSON massiv [{"i": nömrə, "az": "tərcümə"}], hər giriş üçün bir element.`;
 
+// keyfiyyət yoxlaması: tərcümə olunmamış (əsasən ərəbcə) və ya «yarat» olan cavab rədd edilir
+function invalid(az) {
+  if (!az) return "cavabsız";
+  const lat = (az.match(/[a-zA-ZəƏıİöÖüÜçÇşŞğĞ]/g) || []).length, ar = (az.match(/[\u0600-\u06ff]/g) || []).length;
+  if (lat < 0.5 * ar) return "tərcümə olunmayıb";
+  if (/yarat/i.test(az)) return "«yarat» sözü";
+  return "";
+}
 class Quota extends Error {}
 async function call(model, items) {
   const prompt = items.map((x) => `### i=${x.i}\n${x.text}`).join("\n\n");
@@ -49,7 +57,7 @@ async function call(model, items) {
   const out = j.candidates?.[0]?.content?.parts?.filter((p) => !p.thought).map((p) => p.text).join("") || "";
   const arr = JSON.parse(out);
   const m = new Map(arr.map((x) => [x.i, String(x.az || "").trim()]));
-  for (const x of items) if (!m.get(x.i)) throw new Error(`${model}: i=${x.i} cavabsız`);
+  for (const x of items) { const bad = invalid(m.get(x.i)); if (bad) throw new Error(`${model}: i=${x.i} ${bad}`); }
   return m;
 }
 async function translate(items) {
@@ -79,7 +87,15 @@ const writeState = () => fs.writeFileSync(statePath, JSON.stringify(state, null,
 
 let run = { date: new Date().toISOString(), from: state.next, entries: 0, calls: 0, models: {} , stop: "" };
 let batches = 0;
-while (state.next < rows.length) {
+// əvvəlki yararsız tərcümələri yenidən et
+for (let i = 0; i < state.next && Date.now() - t0 < TIME_CAP; i++) {
+  const f = `out/${BOOK}/${String(i).padStart(4, "0")}.json`;
+  if (!fs.existsSync(f) || !invalid(JSON.parse(fs.readFileSync(f, "utf8")).az) || rows[i][4].length > SPLIT_CHARS) continue;
+  const r = await translate([{ i, text: `[${rows[i][0]}]\n${rows[i][4]}` }]);
+  if (!r) { run.stop = "quota"; break; }
+  save(i, r.m.get(i), r.model); run.calls++; console.log("yenidən:", i, r.model);
+}
+while (state.next < rows.length && run.stop !== "quota") {
   if (Date.now() - t0 > TIME_CAP) { run.stop = "time"; break; }
   if (batches >= MAX_BATCHES) { run.stop = "max_batches"; break; }
   const i0 = state.next;

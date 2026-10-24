@@ -17,7 +17,7 @@ jobs:
       - run: node scripts/translate.mjs
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          TIME_CAP_MIN: "45"
+          TIME_CAP_MIN: "40"
       - if: always()
         run: |
           git config user.name "nibras-bot"; git config user.email "bot@nibrascode.com"

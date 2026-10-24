@@ -17,6 +17,15 @@
    },
    "stop": "time",
    "to": 130
+  },
+  {
+   "date": "2026-10-24T19:12:27.274Z",
+   "from": 130,
+   "entries": 0,
+   "calls": 16,
+   "models": {},
+   "stop": "max_batches",
+   "to": 130
   }
  ]
 }
