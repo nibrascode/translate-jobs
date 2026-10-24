@@ -21,5 +21,5 @@ jobs:
       - if: always()
         run: |
           git config user.name "nibras-bot"; git config user.email "bot@nibrascode.com"
-          git add -A out state.json
+          git add -A out state.json 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "maqayis: $(jq .next state.json)/$(jq .total state.json)" && git push)

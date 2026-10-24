@@ -9,6 +9,7 @@ const MAX_BATCHES = +(process.env.MAX_BATCHES || 1e9);
 const BATCH_CHARS = 6000, SPLIT_CHARS = 7000, GAP_MS = 6500;
 const BOOK = "maqayis";
 const rows = JSON.parse(fs.readFileSync("data/maqayis.json", "utf8")); // [kök, cild, səh_a, səh_b, mətn]
+fs.mkdirSync(`out/${BOOK}`, { recursive: true });
 const statePath = "state.json";
 const state = fs.existsSync(statePath) ? JSON.parse(fs.readFileSync(statePath, "utf8")) : { book: BOOK, total: rows.length, next: 0, done: 0, runs: [] };
 const t0 = Date.now();
