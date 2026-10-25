@@ -1,0 +1,17 @@
+{
+ "i": 2804,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عشك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 321,
+  "page_to": 321
+ },
+ "ar": "العين والشين والكاف (٢). ليس فيه معنًى يصحُّ، وربَّما قالوا يَعْشِك ويَحْشِك، أى يفرِّق ويجمع. وليس بشئ.",
+ "az": "[عشك] (eyn, şin və kaf) (2). Burada səhih bir məna yoxdur. Bəzən deyirlər: يَعْشِك və يَحْشِك (yəşiku və yəhşiku), yəni ayırır və birləşdirir. Bu, heç bir şey deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:32:09.592Z"
+}

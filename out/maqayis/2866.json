@@ -1,0 +1,17 @@
+{
+ "i": 2866,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 390,
+  "page_to": 390
+ },
+ "ar": "الغين واللام والفاء كلمةٌ واحدةٌ صحيحة، تدلُّ على غِشاوةٍ وغِشيانِ شئٍ لشئ. يقال: غِلافُ السَّيفِ والسِّكِّينِ. وقَلبٌ أغلَفُ: كأنَّما أُغشِىَ غِلافاً فهو لا يَعِى شيئاً. قال اللّه تعالى: ﴿وَقالُوا قُلُوبُنا غُلْفٌ﴾، أى أُغشِيَتْ شيئاً فهى لا تَعِى. وقرئت (٣): «غُلُفٌ (٤)»، أى أوعيةٌ للعِلْم. والقياس فى ذلك كله واحد. ويقولون: تغَلَّف بالغالية، وليس ببعيدٍ ممّا ذكرناه.",
+ "az": "[غلف] (ğ-l-f): Ğeyn, lam və fa tək və düzgün bir kəlmə olub, pərdəyə və bir şeyin digərini örtməsinə dəlalət edir. Bunlardandır: Qılıncın və bıçağın qına «غِلافُ السَّيفِ والسِّكِّينِ» deyilir. «قَلبٌ أغلَفُ» — elə bil qılıfla örtülmüşdür, heç bir şeyi dərk etmir, anlamır. Uca Allah buyurmuşdur: ﴿وَقالُوا قُلُوبُنا غُلْفٌ﴾ (mənaca tərcümə: Onlar dedilər: «Qəlblərimiz qılıflıdır», yəni bir şeylə örtülmüşdür, ona görə də anlamırlar). Həmçinin oxunmuşdur (٣): «غُلُفٌ (٤)» — yəni elm üçün qablar, qutular. Bunların hamısında qiyas birdir. Deyirlər: «تغَلَّف بالغالية» — ğaliyyə ətri ilə büründü, bu da qeyd etdiyimizdən uzaq deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:20.954Z"
+}

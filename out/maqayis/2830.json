@@ -1,0 +1,17 @@
+{
+ "i": 2830,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عطس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 354,
+  "page_to": 355
+ },
+ "ar": "العين والطاء والسين كلمةٌ واحدة ثم تستعار، وهى العُطاس، يقال: عَطَس يَعْطُسِ. ويقال للأنف مَعِطْسَ، بالكسر والفتح فى الطاء\nويستعار ذلك فيقال: عَطَسَ الصُّبح، إذا انفَلَق. وقد قالوا إنَّ العُطَاسَ: الصُّبح فى قوله:\nوقد أغتدى قبل العطاسِ بهَيكلٍ (١)",
+ "az": "[عطس] (ə-t-s): العين (eyn), الطاء (ta) və السين (sin) – tək bir kəlmədir, daha sonra məcazi mənada işlədilir. O da العُطاس (əl-utas) – asqırmaqdır. Deyilir: عَطَس يَعْطُسِ (atis oldu - asqırdı). Burunun sərt və ya yumşaq ta ilə مَعِطْسَة (maitsa) adlandığı deyilir.\nO, məcazi mənada da işlədilir və deyilir: عَطَسَ الصُّبح (səhər asqırdı) – yəni dan söküldü. Onlar demişdirlər ki, العُطَاس (əl-utas) – bu sözdə səhər deməkdir:\nوقد أغتدى قبل العطاسِ بهَيكلْ (١)\n(Mən asqırıqdan - sübh açılmamışdan əvvəl güclü dəvə ilə səhər yola çıxıram).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:34:13.356Z"
+}

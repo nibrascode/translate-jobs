@@ -1,0 +1,17 @@
+{
+ "i": 2875,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غمص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 395,
+  "page_to": 395
+ },
+ "ar": "الغين والميم والصاد أُصَيلٌ يدلُّ على حقارة. يقال غَمَصت الشئَ، إذا احتقرته. و\nفى الحديث: «إنّما ذلك مَنْ غَمَصَ النّاسَ (٤)». أى حَقَرَهم. والغَمَصُ فى العين كالرَّمَصِ. ومنه: الشِّعرَى الغُمَيْصَاء، كأنَّها ليس لها ضوءُ العَبُور، فهى الغُميصاء كالعين التى بها غَمَص.",
+ "az": "[غمص] الغين والميم والصاد (eyn, mim və sad) kiçikliyə və alçalmağa dəlalət edən kiçik bir kökdür. Deyilir: «غَمَصْتُ الشَّيْءَ» (şeyi alçaltdım/dəyərsiz saydım), yəni onu kiçik hesab etdim. Hədisdə gəlmişdir: «إنَّما ذلك مَنْ غَمَصَ النّاسَ» (Mənaca tərcümə: Şübhəsiz ki, bu, insanları alçaldan kimsədir), yəni onları kiçik sayandır. Gözdəki «الغَمَصُ» (ğəməs) çirk kimi «الرَّمَصُ» (rəməs) bənzərdir. Bunlardandır: «الشِّعْرَى الغُمَيْصَاء» (Şira əl-Ğumaysa ulduzu), sanki onun «Əbur» ulduzu kimi parlaqlığı yoxdur, buna görə də gözündə çirk olan göz kimi «ğumaysa» adlanmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

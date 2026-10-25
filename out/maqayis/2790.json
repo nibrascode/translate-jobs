@@ -1,0 +1,17 @@
+{
+ "i": 2790,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عزب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 310,
+  "page_to": 311
+ },
+ "ar": "العين والزاء والباء أصلٌ صحيحٌ يدلُّ على تباعدٍ وتنَحٍّ.\nيقال: عَزَب يعزُبُ عُزُوباً. والعَزَب: الذى لا أهلَ له. وقد عَزب يَعْزُبُ عُزوبةً. قال العجّاج فى وصف حمارِ الوحش:\nشهراً وشهرين يسنّ عَزَبَا\nوقالوا: والمِعْزابةُ: الذى طالت عُزْبته حتى مالَه فى الأهل مِنْ حاجة. يقال:\nعَزَب حِلْمُ فلانٍ، أى ذهب، وأعْزَبَ اللّهُ حِلْمَه، أى أذهَبَه. قال الأعشى:\nفأعزَبْتُ حِلمى بل هو اليومَ أعْزَبا (٢)\nوالعازب من الكلأ: البَعِيد المَطْلَب. قال أبو النجم:\nوعازبٍ نَوَّرَ فى خلائِه\nوكلُّ شئٍ يفوتُك حتى لا تَقْدِر عليه فقد عَزَب عنك. وأعزب القومُ:\nأصابوا عازباً من الكلأ.",
+ "az": "[عزب] (Əyn, zay və ba) — uzaqlaşma və kənara çəkilməyə dəlalət edən səhih bir kökdür. Deyilir: «عَزَب يعزُبُ عُزُوباً». Ələb (العَزَب) — ailəsi (həyat yoldaşı) olmayan kəsdir. O, «عَزَب يَعزُبُ عُزوبةً» halında olmuşdur. Əccac çöl eşşəyini təsvir edərkən demişdir: \"Bir ay və ya iki ay tək-tənha (əzəb halda) keçirir...\" Və demişlər ki, əl-mizbabə (المِعْزابة) — subaylığı o qədər uzanan kəsdir ki, artıq ailə içində heç bir ehtiyacı qalmamışdır. Deyilir: «عَزَب حِلْمُ فلانٍ» — yəni filankəsin ağlı başından getdi, «وأعْزَبَ اللّهُ حِلْمَه» — yəni Allah onun ağlını başından aldı. Əşa demişdir: \"Mən ağlımı uzaqlaşdırdım, əksinə, o, bu gün də uzaqdadır (itmişdir)\" (٢). Ət-tərazibən otlaq (العازب من الكلأ) — əldə edilməsi uzaq olan otlaqdır. Əbu Nəcm demişdir: \"Və otlaqlarında çiçəklənmiş uzaq bir otlaq...\" Səni qaçıran və artıq çata bilmədiyin hər bir şey səndən əzəb etmişdir (uzaqlaşmışdır). Və «أعزب القومُ» — qövm uzaq bir otlaq tapdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:30.136Z"
+}

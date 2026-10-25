@@ -1,0 +1,17 @@
+{
+ "i": 2857,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غفص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 387,
+  "page_to": 387
+ },
+ "ar": "الغين والفاء والصاد كلمةٌ واحدة. غافَصْتُ الرّجلَ:\nأخذْتُه على غِرّةٍ. واللّه أعلم بالصَّواب.",
+ "az": "[غفص] الغين والفاء والصاد كلمةٌ واحدة (Gheyn, fa və sad hərfləri tək bir kəlmədir). غافَصْتُ الرّجلَ (kişi ilə qəflətən yaxaladım): أخذْتُه على غِرّةٍ (onu qəflətən, xəbərsiz tutdum). واللّه أعلم بالصَّواب (və düzgünü Allah daha yaxşı bilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:00.929Z"
+}

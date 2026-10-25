@@ -1,0 +1,17 @@
+{
+ "i": 2826,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عطو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 353,
+  "page_to": 354
+ },
+ "ar": "العين والطاء والحرف المعتلُّ أصلٌ واحد صحيحٌ يدلُّ على أخْذٍ ومُناوَلة، لا يخرج البابُ عنهما. فالعَطْوُ: التَّناوُل باليد. قال امرؤ القيس:\nوتعْطو برَخْصٍ غيرِ شَثْنٍ كأنّه … أساريعُ ظبىٍ أو مساويك إسَحِلِ (٢)\nيصف المرأة أنها تَسُوك. والظَّبىُ يعطو، وذلك إذا رَفَعَ يديه متطاوِلاً إلى الشَّجرةِ ليتناوَلَ الورَق. وقال:\nتَخُلّ بقرنَيْها بَريرَ أراكَةٍ … وتَعطُو بظِلفيها إذا الغصنُ طالها\nقال الخليل: ومنه اشتُقَّ الإعطاء. والمعاطاة: المُناولة. ويقال: عاطَى الصبىُّ أهلَه، إذا عَمِل لهم وناوَلَ ما أرادوا. والعَطاء: اسمٌ لما يُعطَى، وهى العطيّة، والجمع عطايا، وجمع العطايا أعطِيَة. قال:\nتعاطِيه أحياناً إذا جِيد جَوْدَةً … رُضاباً كطَعم الزَّنجبيل المعسَّلِ (٣)\nويقولون: إنَّ التعاطى: تناوُلَ ما ليس له بحقٍّ، يقال فلانٌ يتعاطَى ظُلْمَ فلان.\nوفى كتاب اللّه تعالى: ﴿فَتَعاطى فَعَقَرَ﴾. ومِنْ أمثالِ العرب: «عاطٍ بغَيْرِ أنْوَاط»، أى إنّه يسمو إلى [الأمرِ] ولا آلةَ له عنده، كالذى يتعلَّق ولا متعلَّق له.",
+ "az": "[عطو] (ə-t-v): العين (eyn), الطاء (ta) və zəif hərf – bu iki anlamdan kənara çıxmayan, almaq və uzatmağa (verməyə) dəlalət edən tək, səhih kökdür. العَطْو (əl-atv) – əllə götürməkdir. Əmrulqeys demişdir:\nوتعْطو برَخْصٍ غيرِ شَثْنٍ كأنّه … أساريعُ ظبىٍ أو مساويك إسَحِلِ (٢)\n(O, keçi quduzunun qurdlarına və ya əshil ağacından olan misvaklara bənzər, yumşaq, yoğun olmayan zərif əllə uzanıb götürür).\nO, qadının misvak işlətdiyini vəsf edir. Ceyran da ətiv edir; bu, onun yarpağı götürmək üçün əllərini uzadaraq ağaca tərəf qaldırmasıdır. Və demişdir:\nتَخُلّ بقرنَيْها بَريرَ أراكَةٍ … وتَعطُو بظِلفيها إذا الغصنُ طالها\n(O, buynuzları ilə arak ağacının bərir meyvəsini aralayır, budaq uzandığı zaman dırnaqları ilə uzanıb onu götürür).\nXəlil demişdir: İعطاء (iəta - vermək) buradan götürülmüşdür. المعاطاة (əl-muataə) – qarşılıqlı verməkdir. Deyilir: عاطَى الصبىُّ أهلَه (oğlan uşağı ailəsinə ata etdi) – o, onlar üçün işlədikdə və istədiklərini uzadıb verdikdə. العَطاء (əl-ata) – verilən şeyin adıdır, o, ətiyyədir (عطية), cəmi ətayas (عطايا), ətayasın cəmi isə ətiyədir (أعطية). [Şair] demişdir:\nتعاطِيه أحياناً إذا جِيد جَوْدَةً … رُضاباً كطَعم الزَّنجبيل المعسَّلِ (٣)\n(Boyun gözəl olduğu zaman, bəzən onu [ağzındakı] bal verilmiş zəncəfil dadı verən tüpürcəyi əldə etməyə çalışırsan).\nVə deyirlər ki: التّعاطي (ət-taati) – haqqı olmayan şeyi əldə etməyə çalışmaqdır. Deyilir: filankəs filankəsin zülmünü əldə etməyə çalışır.\nUca Allahın kitabında: ﴿فَتَعاطى فَعَقَرَ﴾ (mənaca tərcümə: Sonra o, [dəvəni kəsmək üçün] cəhd etdi və onu kəsdi). Və ərəblərin məsəllərindən biri: «عاطٍ بغَيْرِ أنْوَاط» (asılacağı olmadan əlini uzadan) – yəni o, heç bir aləti və vasitəsi olmadığı halda işə can atır, heç bir tutacağı olmadığı halda asılan kəs kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:34:13.356Z"
+}

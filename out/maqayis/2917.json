@@ -1,0 +1,17 @@
+{
+ "i": 2917,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 414,
+  "page_to": 414
+ },
+ "ar": "الغين والدال والنون أُصَيْلٌ صحيح يدلُّ على لِينٍ واسترسال وفَتْرَة. من ذلك المُغْدَوْدِن: الشَّعْرَ الطَّويل الناعم المسترسل قال حسان:\nوقامت تُرائيكَ مُغْدَوْدناً … إذا ما تنوءُ به آدَها (٢)\nوالشَّبابُ الغُدَانىُّ: الغَضُّ. قال:\nبعد غُدَانىِّ الشَّبَاب الأبْلَهِ (٣)\nوأصلُ ذلك كله من الغَدَن، وهو الاسترخاء والفَتْرَة.",
+ "az": "«غدن» (ğədənə): الغين، الدال والنون أُصَيْلٌ صحيح يدلُّ على لِينٍ واسترسال وفَتْرَة (yumşaqlığa, sallanmağa və süstlüyə dəlalət edən kiçik bir təməldir). ومن ذلك المُغْدَوْدِن (əl-muğdəvdin): uzun, yumşaq və sallanan saç. Həssan demişdir: وقامت تُرائيكَ مُغْدَوْدناً … إذا ما تنوءُ به آدَها (٢) (O qalxıb sənə sallanan saçlarını göstərdi, nə zaman ona ağır gəlsə, belini bükərdi). والشَّبابُ الغُدَانىُّ (əl-ğudani gənclik): təravətli (gənclik). O demişdir: بعد غُدَانىِّ الشَّبَاب الأبْلَهِ (٣) (Axmaq gəncliyin təravətli çağından sonra). Bunun hamısının əsli əl-ğədəndəndir (الغَدَن), o da boşalma və süstlükdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.189Z"
+}

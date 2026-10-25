@@ -1,0 +1,17 @@
+{
+ "i": 2973,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 438,
+  "page_to": 438
+ },
+ "ar": "الفاء والذال كلمةٌ واحدة تدلُّ على انفرادٍ وتفرُّق. من ذلك الفَذُّ، وهو الفَرْد. ويقال: شاةٌ مُفِذُّ، إذا ولدت واحداً، فإن كان ذلك عادتَها فهى مِفْذَاذ. ولا يقال: ناقةٌ مُفِذّ، لأنَّ الناقة لا تلِدُ إلاَّ واحداً. ويقال تَمْرٌ فَذٌّ: متفرِّق. والفَذُّ: الأوَّل من سِهام القِداح.",
+ "az": "[فذ] الفاء والذال (fa və zal) təkliyə və ayrı düşməyə dəlalət edən tək bir kəlmədir. Bunlardan biri əl-fəzzdir (الفَذُّ), o da tək (fərd) deməkdir. Deyilir: şaun mufizzün (شاةٌ مُفِذُّ), əgər tək bala doğubsa; əgər bu onun adətidirsə, onda o mifdazdır (مِفْذَاذ). Deyilməz: naqətun mufizzun (ناقةٌ مُفِذّ), çünki dəvə yalnız tək bala doğur. Deyilir: təmrün fəzzün (تَمْرٌ فَذٌّ): səpələnmiş xurma. Və əl-fəzz (الفَذُّ): qədəh oxlarının (qumar oxlarının) birincisidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.194Z"
+}

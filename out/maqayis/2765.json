@@ -1,0 +1,17 @@
+{
+ "i": 2765,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عذق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 257,
+  "page_to": 257
+ },
+ "ar": "العين والذال والقاف أصلٌ واحد يدلُّ على امتدادٍ فى شئ وتعلق شئ بشئ. من ذلك العِذْق عِذْق النَّخلة، وهو شمراخ من شماريخها.\nوالعَذْق: النخلة، بفتح العين. وذلك كله من الأشياء المتعلِّقة بعضُها ببعض. قال:\nويُلْوِى بريَّان العَسِيب * كأنه … عَثَاكِيل عَذْقٍ من سُمَيْحَة مُرطب (١)\nقال الخليل: العِذْق من كلِّ شئ: الغُصْن ذو الشُّعَب.\nومن الباب: عُذِقَ الرّجُل، إذا وُسمَ بعلامةٍ يُعرَف بها. وهذا صحيح، وإنما هذا من قولهم: عَذَقَ شاتَهُ يَعْذُقُهَا عَذْقاً، إذا علَّقَ عليها صوفةً تخالفُ لونَها.\nوممّا جرى مجرى الاستعارة والتمثيل قولهم: «فى بنى فلانٍ عِذْقٌ كَهْلٌ» إذا كان فيهم عِزُّ ومَنْعَة. قال ابن مُقْبِل:\nوفى غَطَفَانَ عِذْقُ صِدقٍ ممنَّعٌ … على رغم أقوامٍ من النّاس يانعُ (٢)",
+ "az": "[عذق] (Ə-ẕ-q)\nAyn, zal və qaf bir əsl üzərindədir, bir şeydə uzanmaya və bir şeyin başqa bir şeyə bağlanmasına dəlalət edir.\nBunun bir nümunəsi «العِذْق» (izq) – xurma ağacının salxımıdır, yəni onun budaqçalarından biridir.\n«العَذْق» (azq) isə \"ayn\" hərfinin fətəsi ilə xurma ağacının özüdür. Bütün bunlar bir-birinə bağlanan şeylərdəndir. Şair demişdir:\n«ويُلْوِى بريَّان العَسِيب * كأنه … عَثَاكِيل عَذْقٍ من سُمَيْحَة مُرطب (١)»\n(O, gür budağını yellədir, sanki Sumeyhə xurmalığından təzə meyvəli salxımdır).\nƏl-Xəlil demişdir: Hər şeyin «العِذْق»-i – budaqları olan şaxədir.\nBu babdandır: «عُذِقَ الرّجُل» – adam tanınacağı bir nişanə ilə damğalandıqda / nişanlandıqda deyilir. Bu səhihdir və bu onların «عَذَقَ شاتَهُ يَعْذُقُهَا عَذْقاً» – qoyunun üzərinə rəngi fərqli olan bir yün parçası asdıqda deyildiyi sözdəndir.\nMəcaz və məsəl yoluna uyğun gələnlərdən biri də onların bu sözüdür: «فى بنى فلانٍ عِذْقٌ كَهْلٌ» – filankəsoğullarında izzət və qüdrət/müdafiə olduqda deyilir. İbn Muqbil demişdir:\n«وفى غَطَفَانَ عِذْقُ صِدقٍ ممنَّعٌ … على رغم أقوامٍ من النّاس يانعُ (٢)»\n(Qətəfan qəbiləsində möhkəm, yenilməz və bəzi insanlara rəğmən yetişmiş həqiqi bir budaq / izzət vardır).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T18:25:20.235Z"
+}

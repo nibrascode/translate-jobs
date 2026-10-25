@@ -1,0 +1,17 @@
+{
+ "i": 2945,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 425,
+  "page_to": 425
+ },
+ "ar": "الغين والشين والميم أصلٌ واحد يدلُّ على قَهْر وغَلَبة وظُلْم.\nمن ذلك الغَشْم، وهو الظُّلم. والحَرْبُ غشومٌ لأنَّها تنال غيرَ الجانى. والغشَمْشَم:\n[الذى] لا يثنيه [شئٌ] من شجاعته (١). وزيد فى حروفه للزِّيادة فى المعنى.",
+ "az": "[غشم] الغين والشين والميم أصلٌ واحد يدلُّ على قَهْر وغَلَبة وظُلْم. من ذلك الغَشْم، وهو الظُّلم. والحَرْبُ غشومٌ لأنَّها تنال غيرَ الجانى. والغشَمْشَم: [الذى] لا يثنيه [شئٌ] من شجاعته (١). وزيد فى حروفه للزِّيادة فى المعنى. \nGeyn, şin və mim qəhr etməyə, üstün gəlməyə və zülmə dəlalət edən tək bir kökdür. Bunlardan biri də zülm mənasını verən الغَشْم (əl-ğəşm) sözüdür. الحرب غشوم (Həribul-ğəşum – Zülümkar müharibə) ona görə adlanır ki, o, cinayətkar olmayana da toxunur. الغشَمْشَم (əl-ğəşəmşəm) – şücaətindən ötəri [heç bir şeyin]əymədiyi/yolundan döndərmədiyi kimsədir (١). Mənanı gücləndirmək üçün hərflərinə əlavələr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

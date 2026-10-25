@@ -1,0 +1,17 @@
+{
+ "i": 2877,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غمط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 396,
+  "page_to": 396
+ },
+ "ar": "الغين والميم والطاء كلمةٌ واحدة. يقال غَمَطَ النِّعمة: احتقرها.\nوغَمَطَ النّاسَ: احتقرهم. فأمّا قولهم: أغمَطتْ عليه الحُمَّي، إذا لزِمَتْه ودامت عليه، فليس من هذا، لأنَّ الميم فيه بدلٌ من باء، الأصل أغبَطَت.\nوقد ذُكِر.",
+ "az": "[غمط] الغين والميم والطاء (eyn, mim və ta) bir kəlmədir. Deyilir: «غَمَطَ النِّعمة» (neməti alçaltdı) — onu dəyərsiz saydı. «غَمَطَ النّاسَ» (insanları alçaltdı) — onları kiçik hesab etdi. Qaldı ki, onların «أغمَطتْ عليه الحُمَّي» (qızdırma onun üzərinə daimi gəldi və sürəkli oldu) sözünə — bu, bundan deyil, çünki buradakı mim hərfi ba hərfinin əvəzinədir, əsli «أغبَطَت» (əğbətət) sözüdür. Artıq bu zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

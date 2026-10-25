@@ -1,0 +1,17 @@
+{
+ "i": 2894,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غيث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "الغين والياء والثاء أصلٌ صحيح، وهو الحَيَا النّازِلُ من السَّماء.\nيقال: جادَنا غيثٌ (٢)، وهذه أرضٌ مَغِيثَةٌ ومغيوثة. وغِثْنا، أى أصابنَا الغَيْث (٣). قال ذو الرُّمَّة: «ما رأيتُ أفصَحَ مِنْ أَمَةِ آل فلان، قلتُ لها:\nكيف كان المطر عندكم؟ قالت: غِثْنا ما شِينَا».",
+ "az": "[غيث] (ğə-ya-sə) - الغين (ğeyn), الياء (yə) və الثاء (sə) səhih bir əsasdır, o da göydən enən əl-həya (yağış) deməkdir.\n\nBelə deyilir: cadəna ğeytun (جادَنا غيثٌ), və bu, məğisət və məğyusət (مَغِيثَةٌ ومغيوثة) bir yerdir. Və ğisna (وغِثْنا), yəni bizə ğeyb (yağış) dəydi (٣). Zü əl-Rumfə demişdir: «Mən filan ailəsinin cariyəsindən daha fəsih birini görmədim, ona dedim: Sizin yanınızda yağış necə idi? Dediyi: Biz istədiyimiz qədər yağışa tutulduq (ğisna mə şəyna)».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

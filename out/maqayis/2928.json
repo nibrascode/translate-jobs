@@ -1,0 +1,17 @@
+{
+ "i": 2928,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 419,
+  "page_to": 419
+ },
+ "ar": "الغين والراء واللام كلمةٌ واحدة، وهى الغُرْلة، وهى القُلْفة.\nوالأغرل: الأقلَف. ويقولون: إنّ الغَرِل: المسترخِى الخَلْق.",
+ "az": "«غرل» (ğərələ): الغين، Rə və Lam hərflərindən ibarət tək bir kəlmədir, o da sünnət olunmamış dərini bildirən əl-ğürlədir (الغُرْلة). Və əl-ağral (الأغرل): sünnət olunmamış (sünbülü). Və deyirlər ki, əl-ğəril (الغَرِل): xilqətcə boşalmış (süst).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.190Z"
+}

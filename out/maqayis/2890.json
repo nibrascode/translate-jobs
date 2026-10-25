@@ -1,0 +1,17 @@
+{
+ "i": 2890,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غوط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "الغين والواو والطاء أصلٌ صحيح يدلُّ على اطمئنانٍ وغَور من ذلك الغَائط: المطمئِنُّ من الأرض، والجمع غِيطان وأغواط. وغُوطَة دِمَشْقَ يقالُ إنها مِنْ هذا، كأنها أرضٌ منخفضة. وربما قالوا: انغاطَ العُودُ (٢)، إذا تثَنَّى، وإذا تثنى فقد انخفَضَ، وقياسُه صحيح.",
+ "az": "[غوط] (ğə-və-ta) - الغين (ğeyn), الواو (vav) və الطاء (ta) sakitliyə və çökəkliyə dəlalət edən səhih bir əsasdır, bunlardan əl-ğait (الغَائط): yerin alçaq və maili yeridir, cəmi ğitan (غِيطان) və əğvat (أغواط) gələr. Dəməşq ğutəsi (غُوطَة دِمَشْقَ) haqqında deyilir ki, o, bundandır, elə bil alçaq bir yerdir. Bəzən deyirlər: inğatə əl-ud (انغاطَ العُودُ) (٢), o zaman ki, əyildi, və əgər əyildisə, deməli, alçaldı, onun qiyası da səhihdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

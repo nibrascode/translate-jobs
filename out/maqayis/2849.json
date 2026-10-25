@@ -1,0 +1,17 @@
+{
+ "i": 2849,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 383,
+  "page_to": 383
+ },
+ "ar": "الغين والشين أصولٌ تدلُّ على ضَعفٍ فى الشئ واستعحال (١) فيه. من ذلك الغِشُّ. ويقولون: [الغِشُّ: أ] لا تمحَضَ النصيحة (٢). وشُربٌ غِشاشٌ: قليل. وما نامَ إلاّ غِشاشاً، أى قليلا، ولقيتُه غِشاشاً، وذلك عند مُغَيْربان الشَّمس.",
+ "az": "[غش] الغين والشين أصولٌ تدلُّ على ضَعفٍ فى الشئ واستعحال (١) فيه (Gheyn və şin hərfləri elə köklərdir ki, şeydə zəifliyə və onda tələskənliyə dəlalət edir). من ذلك الغِشُّ (bunlardandır əl-ğişş - xəyanət, hiylə). ويقولون (və deyirlər): [الغِشُّ: أ] لا تمحَضَ النصيحة (٢) ([Xəyanət:] nəsihəti xalis etməməkdir). وشُربٌ غِشاشٌ (və ğışaş içki): قليل (azdır). وما نامَ إلاّ غِشاشاً (və o, yalnız azca yatdı), أى قليلا (yəni az), ولقيتُه غِشاشاً (və mən onunla azca qarşılaşdım), وذلك عند مُغَيْربان الشَّمس (və bu, günəşin qürub etməyə yaxın vaxtında oldu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:00.929Z"
+}

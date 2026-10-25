@@ -1,0 +1,17 @@
+{
+ "i": 2853,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غفق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 385,
+  "page_to": 385
+ },
+ "ar": "الغين والفاء والقاف أصلٌ صحيح يدلُّ على خِفّة وسُرعةٍ وتكريرٍ فى الشئ، مع فَتَراتٍ تكون بين ذلك.\nمن ذلك قولهم: غَفَقَ إبلَه، وذلك إذا أسرَعَ إيرادَها ثم كرَّرَ ذلك.\nويقولون: ظلَّ يتَفَّقُ الشَّرَابَ، إذا جعَلَ يشربُه ساعةً بعدَ ساعةٍ. ويقال: غَفَقَ غَفْقةً من اللَّيل (١)، إذا نامَ نومةً خفيفة. والغَفْق: المطر [ليس (٢) ب] الشَّديد. ويقال غَفَقَه بالسَّوط غَفَقاتٍ. والغَفْق: الهُجوم على الشَّئ من غير قصدٍ (٣)، ويقال للآيب من غَيْبته فُجاءةً. وغَفَقَ الحِمارُ الأتانَ: أتاها مَرّةً بعد مرَّة.",
+ "az": "[غفق] الغين والفاء والقاف أصلٌ صحيح يدلُّ على خِفّة وسُرعةٍ وتكريرٍ فى الشئ (Gheyn, fa və qaf hərflərində şeydə yüngüllüyə, sürətə və təkrarçılığa dəlalət edən səhih bir kök vardır), مع فَتَراتٍ تكون بين ذلك (bunun arasında olan fasilələrlə birlikdə). من ذلك قولهم (bundandır onların sözü): غَفَقَ إبلَه (dəvələrini tez-tez suvarmağa apardı), وذلك إذا أسرَعَ إيرادَها ثم كرَّرَ ذلك (və bu, onların suya gətirilməsini sürətləndirib sonra bunu təkrarladığı zaman olur). ويقولون (və deyirlər): ظلَّ يتَفَّقُ الشَّرَابَ (şərabı saatbasaat içməkdə davam etdi), إذا جعَلَ يشربُه ساعةً بعدَ ساعةٍ (saatbaasat içməyə başladığı zaman). ويقال (və deyilir): غَفَقَ غَفْقةً من اللَّيل (١) (gecənin bir vaxtında yüngülcə mürgülədi), إذا نامَ نومةً خفيفة (yüngül bir yuxu yuxladığı zaman). والغَفْق (və əl-ğəfq): المطر [ليس (٢) ب] الشَّديد (güclü [olmayan] yağışdır). ويقال غَفَقَه بالسَّوط غَفَقاتٍ (və ona qırmanc ilə bir neçə dəfə vurdu deyilir). والغَفْق (və əl-ğəfq): الهُجوم على الشَّئ من غير قصدٍ (٣) (qəsd etmədən şeyin üzərinə hücum etməkdir), ويقال للآيب من غَيْبته فُجاءةً (və qəflətən qeybətindən - səfərindən qayıdana deyilir). وغَفَقَ الحِمارُ الأتانَ (və erkək eşşək dişi eşşəyə gəldi): أتاها مَرّةً بعد مرَّة (ona birdən-birə, təkrar-təkrar gəldi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:00.929Z"
+}

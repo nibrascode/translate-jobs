@@ -1,0 +1,17 @@
+{
+ "i": 2946,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غشى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 425,
+  "page_to": 425
+ },
+ "ar": "الغين والشين والحرف المعتل أصلٌ صحيح يدلُّ على تغطيةِ شئ بشئ. يقال غَشَّيت الشَّئَ أُغَشِّيه. والغِشاء: الغِطاء. والغاشِية: القيامة، لأنَّها تَغْشَى الخَلْق بإفزاعها. ويقال: رَمَاه اللّه بغاشيةٍ، وهو داء يأخذ كأنّه يغشاه.\nوالغِشْيان: غِشيان الرّجُل المرأة.",
+ "az": "[غشى] الغين والشين والحرف المعتل أصلٌ صحيح يدلُّ على تغطيةِ شئ بشئ. يقال غَشَّيت الشَّئَ أُغَشِّيه. والغِشاء: الغِطاء. والغاشِية: القيامة، لأنَّها تَغْشَى الخَلْق بإفزاعها. ويقال: رَمَاه اللّه بغاشيةٍ، وهو داء يأخذ كأنّه يغشاه. والغِشْيان: غِشيان الرّجُل المرأة. \nGeyn, şin və zəif hərf bir şeyi başqa bir şeylə örtməyə dəlalət edən səhih bir kökdür. غَشَّيت الشَّئَ أُغَشِّيه (ğəşşəytuş-şəyə uğəşşihi – Mən şeyi örtdüm, örtürəm) denilir. الغِشاء (əl-ğişə) – örtükdür. الغاشِية (əl-ğaşiyə) – qiyamətdir, çünki o, dəhşətə salmaqla məxluqatı bürüyəcəkdir. Deyilir: رَمَاه اللّه بغاشيةٍ (ramahullahu biğaşiyətin) – Allah onu bürüyən bir xəstəliklə (dərdlə) vurdu, bu elə bir xəstəlikdir ki, sanki insanı bürüyür. الغِشْيان (əl-ğişyan) – kişinin qadına yaxınlaşmasıdır (cinsi əlaqədə olmasıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

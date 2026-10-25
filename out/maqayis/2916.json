@@ -1,0 +1,17 @@
+{
+ "i": 2916,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غدر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 413,
+  "page_to": 414
+ },
+ "ar": "الغين والدال والراء أصلٌ صحيح يدلُّ على تَرك الشئ.\nمن ذلك الغَدْر: نَقْضُ العَهْد وتَرْك الوفاءِ به. يقال غَدَر يَغْدِرُ غَدْراً. ويقولون فى الذَّمِّ: يا غُدَرُ، وفى الجمع: يالَ غُدَرَ (٣). ويقال: ليلةٌ غَدِرَةٌ: بيِّنَة الغَدَر، أى مُظْلمة. وقيل لها ذلك لأنّها تُغَادِرُ النَّاسَ فى بيوتهم فلا يَخْرُجُون من شدَّة ظُلْمتها.\nوالغَدير: مُستنقَع ماء المطر، وسمِّى بذلك لأنّ السَّيل غادَرَه، أى ترَكَه. ومن الباب: غَدِرَتِ الشَّاة، إذا تخلَّفَتْ عن الغَنم. فإنْ تَرَكها الرَّاعى فهى غَدِيرة.\nوالغَدَر: الموضِع الظَّلِفُ الكثير الحِجارة. وسمِّى بذلك لأنَّه لا يكاد يُسْلَك، فهو قد غودر (٤)، أى تُرِك. ويقال: رجل ثَبْتُ الغَدَر، أى ثابتٌ فى كلامٍ وقتال.\nوهذا مشتقٌّ من الكلمة التى قبله، أى إنّه لا يبالى أن يسلُكَ الموضعَ الصَّعبَ الذى\nغَادَرَهُ الناسُ من صُعوبته. والغَدائر: عقائصُ الشَّعر، لأنَّها تُعْقَص وتُغْدَر، أى تُتْرَك كذلك زماناً. قال:\nغدائرُهُ مستَشْزِرَاتٌ إلى العُلى … تَضِلُّ العِقَاصُ فى مُثَنًّى وَمُرْسَلِ (١)",
+ "az": "«غدر» (ğədərə): الغين، الدال والراء أصل صحيح يدلُّ على تَرْك الشئ (bir şeyi tərk etmək). ومن ذلك الغَدْر (ğədr): əhdi pozmaq və ona sadiq qalmağı tərk etmək. Deyilir: غَدَر يَغْدِرُ غَدْراً (xəyanət etdi - edir - xəyanət). Pisqılıqlı adama söyüş olaraq deyirlər: يا غُدَرُ (ey xəyanətkar!), cəmdə isə: يالَ غُدَرَ (٣). Deyilir: ليلةٌ غَدِرَةٌ: بيِّنَة الغَدَر (aydın-açıq xəyanətkar gecə), yəni qaranlıq. Buna belə denilmişdir, çünki o, insanları evlərində tərk edir (baş çəkmir) və şididətli qaranlığından ötəri çölə çıxa bilmirlər. والغَدير (ğədir): yağış suyundan yaranmış gölməçə; ona bu ad verilmişdir, çünki sel onu tərk etmişdir (غَادَرَه), yəni qoyub getmişdir. Və bu fəsildəndir: غَدِرَتِ الشَّاة (qoyun sürüdən geri qaldı), əgər çoban onu tərk etsə, o غَدِيرة (qalıq qoyun) olar. والغَدَر (ğədər): daş-qaşlı, kobud yer. Belə adlandırılmışdır, çünki oradan demək olar ki, keçmək mümkün deyil, o tərk edilmişdir (غُودَرَ), yəni qoyulub getmişdir. Deyilir: رجل ثَبْتُ الغَدَر (çətin və qorxulu yollarda sabitqədəm kişi), yəni sözündə və döyüşdə sabit olan. Bu, ondan əvvəlki kəlmədən törəmişdir, yəni insanların çətinliyinə görə tərk etdikləri çətin yerdən keçməyə heç bir əhəmiyyət vermir. والغَدائر (ğədayir): saç hörük-hörük edilməsi, çünki onlar hörülür və tərk edilir (تُغْدَر), yəni bir müddət o vəziyyətdə buraxılır. O demişdir: غدائرُهُ مستَشْزِرَاتٌ إلى العُلى … تَضِلُّ العِقَاصُ فى مُثَنًّى وَمُرْسَلِ (١) (Onun hörükləri ucalığa doğru dikdir, hörük ucları cütlənmiş və buraxılmış halda itib-batır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.189Z"
+}

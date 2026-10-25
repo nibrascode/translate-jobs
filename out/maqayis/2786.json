@@ -1,0 +1,17 @@
+{
+ "i": 2786,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عزق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 306,
+  "page_to": 307
+ },
+ "ar": "العين والزاء والقاف ليس فيه كلام أصيل، لكنَّ الخليلَ\nذكر أنَّ العَزْق: عِلاج الشَّئ فى عَسَر. ورجلٌ متعزِّق: فيه شِدَّة خُلُق.\nويقولون: إن المِعْزقةَ: آلةٌ من آلات الحرث. وينشدون:\nنُثِير بها نَقْعَ الكُلاب وأنتم … تُثِيرون قِيعانَ القُرى بالمَعازقِ (١)\nوكلُّ هذا فى الضَّعفِ قريبٌ بعضُه من بعض. وأعجَبُ منه اللغة اليمانيَة التى يدلِّسُها أبو بكر محمدُ بن الحسنِ الدُّريدى ﵀، وقولُه: إنَّ العَزِيق مطمئنٌّ من الأرض، لغةٌ يمانيَة (٢). ولا نقول لأئمَّتنا إلاَّ جميلا.",
+ "az": "[عزق] (Əyn, zay və qaf) - burada əsaslı (orijinal) bir söz yoxdur, lakin Xəlil demişdir ki, əl-əz-q (العزْق) — işi çətinliklə görmək, həll etməkdir. Mütəzziq (متعزِّق) — xasiyyətində sərtlik olan kişidir. Deyirlər ki, əl-mizqə (المِعْزقة) — şumlama alətlərindən biridir. Onlar belə şeir söyləyirlər: \"Biz onunla əl-Kəlab (الكُلاب) tozunu qaldırırıq, siz isə kəndlərin düzənliklərini əl-məaziq (المَعازق) ilə qaldırırsınız\" (١). Bütün bunların zəiflik baxımından bir-birinə bənzər tərəfləri vardır. Bundan daha qəribə olanı Əbu Bəkr Məhəmməd ibn əl-Həsən əd-Dureydi رضي الله عنه-nin yani dilindən gətirdiyi və onun: \"Əl-əziq (العَزِيق) — yerin hamar və alçaq hissəsidir, bu, yəməni bir dildir\" (٢) sözüdür. Biz imamlarımız haqqında yalnız gözəl sözlər deyərik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:30.136Z"
+}

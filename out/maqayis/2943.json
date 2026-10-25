@@ -1,0 +1,17 @@
+{
+ "i": 2943,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غسن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 425,
+  "page_to": 425
+ },
+ "ar": "الغين والسين والنون كلمةٌ. يقولون إنَّ الغُسَن: خُصَل الشَّعر. ويقال للناصية: غُسْنة.",
+ "az": "[غسن] الغين والسين والنون كلمةٌ. يقولون إنَّ الغُسَن: خُصَل الشَّعر. ويقال للناصية: غُسْنة. \nGeyn, sin və nun bir kəlmədir. Deyirlər ki, الغُسَن (əl-ğusən) – saç lülələridir (qıfıllarıdır). Alındakı saç Püskülünə (nasiyəyə) غُسْنة (ğusnət) denilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

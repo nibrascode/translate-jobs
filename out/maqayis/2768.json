@@ -1,0 +1,17 @@
+{
+ "i": 2768,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عذى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 258,
+  "page_to": 259
+ },
+ "ar": "العين والذال والحرف المعتل أُصيل صحيح يدلُ على طِيبِ تُربة. قال الخليل وغيره: العَذَاةُ: الأرض الطيِّبة التربة، الكريمة المَنبِت. قال:\nبأرضٍ هِجانِ التُّرْب وسمَّية الثَّرَى … عَذَاةٍ نأت عنها المُؤُوجة والبحرُ (٤)\nقال: والعِذْىُ: الموضع يُنبِت شتاءً وصيفا من غير نَبع. ويقال: هو الزرع لا يُسقَى إلاّ من ماء المطر، لبُعده من المياه. قالوا: ويقال لها العَذا، الواحدة عَذاةٌ. وأنشدوا:\nبأرضٍ عَذاةٍ حَبَّذا ضَحَواتُها … وأطيبُ منها ليلُه وأصائله",
+ "az": "[عذى] (Ə-ẕ-y)\nAyn, zal və illətli hərf torpağın təmiz və münbit olmasına dəlalət edən kiçik səhih bir əsldir. Əl-Xəlil və başqaları demişlər: «العَذَاةُ» – torpağı təmiz, bitkisi bərəkətli torpaqdır. Şair demişdir:\n«بأرضٍ هِجانِ التُّرْب وسمَّية الثَّرَى … عَذَاةٍ نأت عنها المُؤُوجة والبحرُ (٤)»\n(Torpağı bəyaz, nəmişliyi ilk yağışla ıslanmış, təmiz / münbit bir torpaqda ki, ondan şorlaşma və dəniz uzaqdır).\nvə dedi: «العِذْىُ» – bulaq suyu olmadan qışda və yayda bitki bitirən yerdir. Deyilir: O, sulardan uzaq olduğuna görə yalnız yağış suyu ilə suvarılan əkindir. Dedilər: Ona «العَذا» da deyilir, tək halı «عَذاةٌ»-dır. Şeir oxumuşlar:\n«بأرضٍ عَذاةٍ حَبَّذا ضَحَواتُها … وأطيبُ منها ليلُه وأصائله»\n(Təmiz/münbit bir torpaqda... nə gözəldir onun quşluq vaxtları! Onun gecəsi və axşamüstüləri isə bundan da xoşdur).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T18:25:20.235Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2824,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عطل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 351,
+  "page_to": 352
+ },
+ "ar": "العين والطاء واللام أصلٌ صحيحٌ واحدٌ يدلُّ على خلوٍّ وفَراغ.\nنقول: عُطِّلت الدارُ، ودارٌ معَطَّلة. ومتى تُركت الإبلُ بلا راعٍ فقد عُطِّلَت،\nوكذلك البئر إذا لم تُورَدْ ولم يُستَقَ (١) [منها]. قال اللّه ﵎: ﴿وَبِئْرٍ مُعَطَّلَةٍ﴾ وقال تعالى: ﴿وَإِذَا اَلْعِشارُ عُطِّلَتْ﴾. وكلُّ شئٍ خلا من حافظٍ فقد عُطِّل. من ذلك تعطيلُ الثُّغورِ وما أشبَهَها. ومن هذا الباب: العَطَل وهو العُطُول، يقال امرأةٌ عاطل، إذا كانت لا حَلْىَ لها، والجمع عواطلُ. قال:\nيَرُضْن صِعاب الدُّرِّ فى كلِّ حِجَّة … وإنْ لم تكن أعناقُهنَّ عواطلا (٢)\nوقوس عُطُلٌ: لا وَتَر عليها. وخيلٌ أعْطَالٌ: لا قلائد لها.\nوشذّت عن هذا الأصل كلمةٌ، وهى الناقة العَيْطَل، وهى الطَّويلةُ فى حُسن.\nوربَّما وُصِفَتْ بذلك المرأةُ، قال ذو الرُّمَّة فى النّاقة:\nنَصَبَتْ له ظَهرِى على متن عِرمِسٍ … رُوَاع الفُؤادِ حُرَّةِ الوجه عَيْطلِ (٣)",
+ "az": "«عطل» (eyn, ta və lam) – boşluğa və sahipsizliyə dəlalət edən tək, səhih bir əsasdır. Deyirik: عُطِّلت الدارُ (ev sahibsiz qaldı, viran qaldı) və دارٌ معَطَّلة (sahibsiz, boş qalmış ev). Dəvələr otlaqsız buraxıldıqda عُطِّلَت (sahibsiz buraxıldı) olar, həmçinin quyunun suyu içilmədikdə və ondan su çəkilmədikdə də belə deyilir. Uca Allah buyurmuşdur: ﴿وَبِئْرٍ مُعَطَّلَةٍ﴾ (və quyu ki, sahibsiz qalmışdır) və uca Allah buyurmuşdur: ﴿وَإِذَا اَلْعِشارُ عُطِلتْ﴾ (və on aylıq hamilə dəvələr başıboş buraxıldığı zaman). Qoruyucusu olmayan hər bir şey عُطِّل (sahibsiz, boş) qalmışdır. Bunlardan sərhədlərin (istehkamların) تعطيل (nəzarətsiz, qoruyucusuz buraxılması) və buna bənzər şeylərdir. Bu fəsildəndir: العَطَل ki, o, عُطُول (bəzəksizlik) deməkdir, deyilir: امرأةٌ عاطل (qadın ki, onun bəzəyi yoxdur), cəmi عواطلُ gəlir. O demişdir: يَرُضْن صِعاب الدُّرر فى كلِّ حِجَّة … وإنْ لم تكن أعناقُهنَّ عواطلا (Hər ildə inci qırıntılarının çətinliklərini cilalayırlar... Əgər onların boyunları bəzəksiz olmasa belə). Və قوس عُطُلٌ – həmçinin oxu (vətəri) olmayan yay. Və خيلٌ أعْطَالٌ – boyunbağıları (gərddanlıqları) olmayan atlar. Bu əsasdan yalnız bir kəlmə istisna edilmişdir ki, o da الناقة العَيْطَل – gözəllikdə uzun boylu olan dəvədir. Bəzən qadın da belə vəsf olunur. Züru-Rümmə dəvə haqqında demişdir: نَصَبَتْ له ظَهرِى على متن عِرمِسٍ … رُوَاع الفُؤادِ حُرَّةِ الوجه عَيْطلِ (Qorxusuz ürəkli, üzü gözəl, uzun boylu möhkəm dəvənin belində ona öz kürəyimi dikəltdim).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:33:56.970Z"
+}

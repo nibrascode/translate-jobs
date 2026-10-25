@@ -1,0 +1,17 @@
+{
+ "i": 2840,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 378,
+  "page_to": 379
+ },
+ "ar": "الغين والياء المشدّدة أو المضاعفة أصلٌ صحيح يدلُّ على إظلالِ الشَّئ لغيره (٢). و\nفى الحديث: «تجئ البقرةُ وآلُ عمران يومَ القيامة كأنَّهما غمامتان - أو غيابَتان». والجمع غيَايات. قال لبيد:\nفتَدليَّتُ عليه قافلاً … وعلى الأرض غياياتُ الطَّفَلْ (١)",
+ "az": "«غى» (غ, ي, ي). الغين والياء المشدّده أو المضاعفة أصلٌ صحيح يدلُّ على إظلالِ الشَّئ لغيره (Şəddəli və ya ikiqat olan غ və ي hərfləri başqa bir şeyə kölgə salmağa dəlalət edən səhih bir kökdür). وفى الحديث (və hədisdə): «تجئ البقرةُ وآلُ عمران يومَ القيامة كأنَّهما غمامتان - أو غيابَتان» («Qiyamət günü Bəqərə və Ali-İmran surələri sanki iki bulud - və ya iki kölgəlik - kimi gələcəkdir»). والجمع غيَايات (və cəmi «əiyayat»dır). قال لبيد (Ləbid demişdir): فتدليَّتُ عليه قافلاً … وعلى الأرض غياياتُ الطَّفَلْ (Və mən geri qayıdan halda onun üzərinə endim, yer üzündə isə axşamüstü kölgəlikləri vardı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:35:31.147Z"
+}

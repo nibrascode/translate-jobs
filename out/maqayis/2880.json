@@ -1,0 +1,17 @@
+{
+ "i": 2880,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غنم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 397,
+  "page_to": 397
+ },
+ "ar": "الغين والنون والميم والنون أصلٌ صحيح واحد يدلُّ على إفادة شئٍ لم يُملَك من قبل، ثم يختصّ به ما أُخِذ من مال المشركين بقَهْرٍ وغَلَبة. قال اللّه تعالى: ﴿وَاِعْلَمُوا أَنَّما غَنِمْتُمْ مِنْ شَيْ ءٍ فَأَنَّ لِلّهِ خُمُسَهُ وَلِلرَّسُولِ﴾. ويقولون:\nغُنَامَاكَ أنْ تفعل كذا، أى غايتُك والأمر الذى تتغنَّمه. وغَنْمٌ: قبيلة. ولعلَّ اشتقاقَ الغَنَم من هذا، وليس ببعيد.",
+ "az": "[غنم] الغين والنون والميم (eyn, nun və mim) əvvəlcədən mülkiyyətdə olmayan bir şeyi əldə etməyə dəlalət edən tək və səhih bir kökdür. Sonra bu, müşriklərin malından güc və qələbə ilə alınan şeylərə aid edilmişdir. Uca Allah buyurmuşdur: ﴿وَاِعْلَمُوا أَنَّما غَنِمْتُمْ مِنْ شَيْ ءٍ فَأَنَّ لِلّهِ خُمُسَهُ وَلِلرَّسُولِ﴾ (Mənaca tərcümə: Bilin ki, əldə etdiyiniz qənimətin beşdə biri Allaha və Peyğəmbərə məxsusdur). Onlar deyirlər: «غُنَامَاكَ أنْ تفعل كذا» (Məqsədin və əldə edəcəyin iş filan şeyi etməkdir). «غَنْمٌ» (Ğənm) — bir qəbilədir. Ehtimal ki, «الغَنَم» (qoyun-keçi, davar) sözünün kökü də bundandır və bu, uzaq ehtimal deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

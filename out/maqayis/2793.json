@@ -1,0 +1,17 @@
+{
+ "i": 2793,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عسق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 312,
+  "page_to": 312
+ },
+ "ar": "العين والسين والقاف أُصَيلٌ صحيح يدلُّ على لُصوق الشئ بالشئ.\nقال الخليل: العَسَق: لُصوق الشئ بالشئ. يقال: عَسِق به عَسَقاً. وعَسِقَتِ الناقةُ بالفَحْل، أى أرَبَّت به. قال رؤبة:\nفعفَّ عن أسرارها بعدَ العَسَقْ … ولم يُضِعْها بين فِرْكٍ وعَشَقْ (٤)\nومن الباب: فى خُلُقه عَسَقٌ، أى التواء وضِيقُ خلق. ويقال: «عَسِق بامرئ جُعَلُهُ».",
+ "az": "[عسق] (Əyn, sin və qaf) — şeyin şeyə yapışmasına dəlalət edən səhih kiçik bir kökdür. Xəlil demişdir: Əl-əsaq (العَسَق) — bir şeyin digərinə yapışmasıdır. Deyilir: «عَسِق به عَسَقاً». Və «عَسِقَتِ الناقةُ بالفَحْل» — dəvə dişi erkək dəvəyə yapışdı, ona sarıldı. Rübə demişdir: \"Yapışdıqdan sonra o, onun sirlərindən çəkindi və onu nifrət ilə eşq arasında zay etmədi\" (٤). Bu fəsildəndir: Onun xasiyyətində əsaq (عَسَقٌ) vardır, yəni qərilik, əyrilik və xasiyyət darlığı. Və deyilir: «عَسِق بامرئ جُعَلُهُ».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:30.137Z"
+}

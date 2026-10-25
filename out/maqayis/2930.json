@@ -1,0 +1,17 @@
+{
+ "i": 2930,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 419,
+  "page_to": 419
+ },
+ "ar": "الغين والراء والنون كلمةٌ واحدة، يقولون إنَّ الغَرِين (٣):\nما يَبقى فى الحوض من مائه * وطينِه.",
+ "az": "«غرن» (ğərənə): الغين، Rə və Nun hərflərindən ibarət tək bir kəlmədir, deyirlər ki, əl-ğərin (الغَرِين): hovuzda suyundan və lilindən qalan şeydir (*).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.190Z"
+}

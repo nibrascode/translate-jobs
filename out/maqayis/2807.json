@@ -1,0 +1,17 @@
+{
+ "i": 2807,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عشب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 323,
+  "page_to": 323
+ },
+ "ar": "العين والشين والباء أصلٌ واحد صحيح يدلُّ على يُبسٍ فى شئٍ وقُحول وما أشبه ذلك من ذلك العُشْب، قالوا: هو سَرَعان الكَلَأ فى الرَّبيع، ثُمَّ يهيج ولا بقاءَ له. وأرضٌ عَشِبَةٌ: مُعْشِبة، وأعْشبَتْ إذا كثُر عُشْبُها. وأعْشَب الرَّجُل: أصابَ العُشْب. قال أبو النَّجم:\nيقُلْنَ للرّائدِ أعْشَبْتَ انزلِ (٣)\nوممّا حُمِل على هذا أنْ يشبَّه الشَّيخُ القاحلُ به، فيقال رجل عَشَبٌ وامرأةٌ عَشَبة. وقد يقال ذلك فى النوق. [و] يقال: أعشَبَ فلانٌ فلاناً إذا وَهَب له ناقة عَشَبةً.",
+ "az": "[عشب] (eyn, şin və ba) bir şeydə quruluğa və s. şeylərə dəlalət edən tək, səhih bir kökdür. Bunlardan biri عُشْب (uşb) sözüdür. Deyiblər ki, bu, yaz aylarında otun tez bitən, sonra isə quruyan və qalıcı olmayan növüdür. Və أرضٌ عَشِبَةٌ (ərdün əşibətün): otlu torpaq, أعْشبَتْ (ə'şəbət) - otu çoxaldıqda. Və أعْشَب الرَّجُل (ə'şəbər-rəcül) - ot tapdıqda. Əbu Nəcm demişdir: يُقُلْنَ للرّائدِ أعْشَبْتَ انزلِ (٣) (Otlaq axtarana «ot tapdın, en» deyirlər). Buna bənzədilən şeylərdən biri də qurumuş qocanın ona bənzədilməsidir və deyilir: رجل عَشَبٌ (rəcülün əşəbün) və امرأةٌ عَشَبة (mər'ətun əşəbətün). Bu, bəzən dəvələr haqqında da deyilir. [Və] deyilir: أعشَب فلانٌ فلاناً (ə'şəbə fülânün fülânən) - filon kəs başqasına عَشَبة (əşəbə) dəvəsi bəxşiş etdikdə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:32:09.592Z"
+}

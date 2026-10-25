@@ -1,0 +1,17 @@
+{
+ "i": 2839,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 378,
+  "page_to": 378
+ },
+ "ar": "الغين والنون أُصَيلٌ صحيح، وهو يدلُّ على صوتٍ كأنه غير مفهوم، إمَّا لاِختلاطِه، وإما لعلّةٍ تصاحبه. من ذلك قولُهم: قريةٌ غَنّاء، يراد بذلك تجمُّع أصواتِهم واختلاطُ جَلبتهم. ووادٍ أغَنُّ: ملتَفُّ النَّبات، فتَرى الرِّيح تجرى فيه ولها غُنَّة؛ ويكون ذلك من كَثرة ذُبابه. ومنه الغُنَّة فى الرَّجُل الأغنِّ، وهو خروجُ كلامِهِ كأنّه بأنفه.",
+ "az": "«غن» (غ, ن). الغين والنون أُصَيلٌ صحيح (əsinə uyğun kiçik səhih kökdür), وهو يدلُّ على صوتٍ كأنه غير مفهوم (və o, sanki başa düşülməyən bir səsə dəlalət edir), إمَّا لاِختلاطِه (ya qarışdığı üçün), وإما لعلّةٍ تصاحبه (ya da onunla birlikdə olan bir xəstəliyə görə). من ذلك قولُهم (bundandır onların bu sözü): قريةٌ غَنّاء («əənna» kəndi), يراد بذلك تجمُّع أصواتِهم واختلاطُ جَلبتهم (bununla onların səslərinin toplanması və hay-küylərinin qarışması qəsd olunur). ووادٍ أغَنُّ (və «əənn» vadisi): ملتَفُّ النَّبات (sıx bitkiləri olan), فتَرى الرِّيح تجرى فيه ولها غُنَّة (görürsən ki, külək orada əsir və onun fısıltılı səsi var); ويكون ذلك من كَثرة ذُبابه (və bu, oradakı milçəklərin çoxluğundan olur). ومنه الغُنَّة فى الرَّجُل الأغنِّ (və bundandır «əənn» kişinin burnundan danışması), وهو خروجُ كلامِهِ كأنّه بأنفه (və bu, onun danışığının sanki burnundan çıxmasıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:35:31.146Z"
+}

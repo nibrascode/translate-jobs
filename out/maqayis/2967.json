@@ -1,0 +1,17 @@
+{
+ "i": 2967,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 436,
+  "page_to": 436
+ },
+ "ar": "الفاء والتاء كلمةٌ تدلُّ على تكسير (٢) شئ ورفْتِه. يقال: فَتَتُّ الشَّئَ أفُتُّ فَتَّا، فهو مفتوتٌ وفَتيت. وفُتَّة: ما يُفَتُّ ويُوضَع تحتَ الزَّند (٣).\nوفَتَّ فى عضُده، وذلك إذا أساء إليه، كأنَّه قد فَتَّ من عَضُده شيئاً.\nومما شذَّ عن هذا الأصل الفَتفتة: أن تشرب الإبلُ دونَ الرِّىّ.",
+ "az": "[فت] الفاء والتاء (fa və ta) kəlməsi bir şeyin parçalanmasına və ovulmasına dəlalət edir. Deyilir: فَتَتُّ الشَّئَ أفُتُّ فَتَّا (fətəttüş-şəyə əfuttu fəttən), o, مفتوت (məftut) və فَتيت (fətit) olandır. Və فُتَّة (futtə): ovulan və yaylığın (və ya yəhər altlığının — الزَّند) altına qoyulan şeydir. Və فَتَّ فى عضُده (fəttə fi ədudih), bu, ona pislik etdikdə işlədilir, sanki onun bazubəndindən (qolundan) bir parça qoparmış kimidir. Bu əsldən istisna olan (şəzz) kəlmə ഫفتفتة (fəftətə): dəvələrin susuzluğunu tam yatırmadan su içməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.194Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2883,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غنظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 398,
+  "page_to": 398
+ },
+ "ar": "الغين والنون والظَّاء كلمةٌ واحدة. يقال: إنّ الغَنْظَ:\nالهمُّ اللازم. غَنَظَه الأمرُ يَغْنِظه. قال:\nولقد رأيتَ فوارساً من قومنا … غَنَظُوكَ غَنْظَ جَرَادةِ العَيَّارِ (٦)",
+ "az": "[غنظ] الغين والنون والظَّاء (eyn, nun və za) bir kəlmədir. Deyilir: «الغَنْظُ» (ğənz) — daimi qəm-qüssədir. «غَنَظَه الأمرُ يَغْنِظه» (İş onu qəmə batırdı, batırır). (Şair) demişdir: Qəbiləmizdən elə süvarilər görmüsən ki, səni Əyyar çəyirtgəsinin sıxıntısı kimi sıxıntıya saldılar (٦).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

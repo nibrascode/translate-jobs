@@ -1,0 +1,17 @@
+{
+ "i": 2886,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غوث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 400,
+  "page_to": 400
+ },
+ "ar": "الغين والواو والثاء كلمةٌ واحدة، وهى الغوث من الإغاثة، وهى الإعانة والنُّصرة عند الشِّدة. وغَوْثٌ: قبيلة.",
+ "az": "[غوث] (ğə-və-sə) - الغين (ğeyn), الواو (vav) və الثاء (sə) bir köökdür, o da şiddət zamanı yardım və kömək mənasında olan əl-ğus (الغوث) – əl-iğasət (الإغاثة) sözüdür. Və Ğəvs (غَوْثٌ) bir qəbilədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

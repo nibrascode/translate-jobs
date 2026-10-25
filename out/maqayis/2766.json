@@ -1,0 +1,17 @@
+{
+ "i": 2766,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عذل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 257,
+  "page_to": 258
+ },
+ "ar": "العين والذال واللام أصلٌ صحيح يدلُّ على حَرٍّ (٣) وشِدَّةٍ فيه، ثم يقاس عليه ما يقاربه. من ذلك اعتذَل الحرُّ: اشتدّ. قال أبو عبيد: أيّام مُعتذلات: شديداتُ الحرارة.\nومما قيس على هذا قولهم: عَذَل فلانٌ فلاناً عَذْلاً، والعَذَل الاسم. ورجلٌ عذّالٌ وامرأةٌ عذَّالة، إذا كثر ذلك منهما. والعُذَّال الرِّجال، والعُذّل النِّساء.\nوسمِّىَ هذا عَذْلاً لما فيه من شدّة ومَسِّ لَذْع. قال:\nغَدَتْ عَذَّالتَاىَ فقلتُ مهلاً … أفى وجدٍ بسَلمى تَعذُلانِى (١)",
+ "az": "[عذل] (Ə-ẕ-l)\nAyn, zal və lam səhih bir əsldir, istiliyə və onda olan şiddətə dəlalət edir; sonra buna yaxın olan mənalar ona qiyas edilir.\nBunun bir nümunəsi: «اعتذَل الحرُّ» – isti şiddətləndi. Əbu Ubeyd demişdir: «أيّام مُعتذلات» – şiddətli isti günlər.\nBuna qiyas edilənlərdən biri də onların bu sözüdür: «عَذَل فلانٌ فلاناً عَذْلاً» (filankəs filankəsi məzəmmət etdi, qınadı), ismi isə «العَذَل» (məzəmmət, qınaq)-dır. Çox qınayan kişiyə «رجلٌ عذّالٌ», çox qınayan qadına «امرأةٌ عذَّالة» deyilir. Cəm halında qınayan kişilərə «العُذَّال», qınayan qadınlara «العُذّل» deyilir.\nBuna «عَذْل» (azl) adı verilmişdir, çünki onda şiddət və yandırıcı toxunuş vardır. Şair demişdir:\n«غَدَتْ عَذَّالتَاىَ فقلتُ مهلاً … أفى وجدٍ بسَلمى تَعذُلانِى (١)»\n(Məni qınayan iki qadın səhər gəldi, mən də dedim: Səbirli olun, Səlmaya olan sevgimə görəmi məni qınayırsınız?).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T18:25:20.235Z"
+}

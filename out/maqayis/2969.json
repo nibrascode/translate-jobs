@@ -1,0 +1,17 @@
+{
+ "i": 2969,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 437,
+  "page_to": 437
+ },
+ "ar": "الفاء والجيم أصلٌ صحيح يدلُّ على تفتُّح وانفراج. من ذلك الفَجُّ: الطَّريق الواسع. ويقال: قَوسٌ فَجّاءُ، إذا بَانَ وترُها عن كَبدِها.\nوالفجَج أقْبَحُ من الفَحَج. ومنه حافرٌ مُفِجٌّ، أى مقبَّب، وإذا كان كذا كان فى باطنه شِبْه الفَجْوة.\nومما شذَّ عن هذا الأصل: الفِجُّ: الشئ لم ينضَجْ مما ينبغى نُضْجُه.\nوشذّت كلمةٌ واحدة أخرى حكاها ابنُ الأعرابىّ، قال: أَفَجَّ يُفِجُّ، إذا أسرع. ومنه رجلٌ فجفاجٌ: كثير الكلام.",
+ "az": "[فج] الفاء والجيم (fa və cim) açıq olmağa və aralanmağa dəlalət edən səhih bir əsldir. Bunlardan biri فَجّ (fəcc) sözüdür: geniş yol. Deyilir: قَوسٌ فَجّاءُ (qavsun fəccəun), oxu ipindən aralandıqda. Və əfəcələq (الفجج) əfəhəqdən (الفحج) daha çirkindir. Həmçinin müfic (مُفِجّ) dırnaq — qübbəli deməkdir, belə olduqda onun daxilində fəx və ya fəqfəqə bənzər boşluq olur. Bu əsldən istisna olan: əl-fic (الفِجُّ): yetişməli olduğu kimi yetişməmiş şey. İbn əl-Ərəbi tərəfindən rəvayət edilən tək bir söz də istisna olmuşdur, o demişdir: أَفَجَّ يُفِجُّ (əfəccə yuficcu), tələsikdi. Vəcndən fəfcac (فجفاج) kişidir: çox danışan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.194Z"
+}

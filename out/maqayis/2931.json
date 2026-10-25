@@ -1,0 +1,17 @@
+{
+ "i": 2931,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 419,
+  "page_to": 420
+ },
+ "ar": "الغين والراء والحرف المعتل أصلٌ صحيح، وهو يدلُّ على الإعجاب والعَجَبِ لحُسْن الشَّئ. من ذلك الغَرِىُّ، وهو الحَسَن. يقال منه رجلٌ غَرٍ. ثمَّ سمِّى العَجَبُ غَرْواً. ومنه: أغريتُه بالشَّئ الذى تُلصَق به الأشياء.\nويقال: غَارَت العينُ بالدَّمع غِراءً، إذا لجَّت فى البكاء. وغَرِيَت بالدَّمع.\nوقال الشَّاعر (٤):\nإذا قلتُ أسلُو غارَتِ العينُ بالبُكا … غِراءً ومَدَّتْها مدامعُ حُفَّلُ (١)",
+ "az": "[غرو] الغين والراء والحرف المعتل أصلٌ صحيح، وهو يدلُّ على الإعجاب والعَجَبِ لحُسْن الشَّئ. من ذلك الغَرِىُّ، وهو الحَسَن. يقال منه رجلٌ غَرٍ. ثمَّ سمِّى العَجَبُ غَرْواً. ومنه: أغريتُه بالشَّئ الذى تُلصَق به الأشياء. ويقال: غَارَت العينُ بالدَّمع غِراءً، إذا لجَّت فى البكاء. وغَرِيَت بالدَّمع. وقال الشَّاعر (٤): إذا قلتُ أسلُو غارَتِ العينُ بالبُكا … غِراءً ومَدَّتْها مدامعُ حُفَّلُ (١) \nGeyn, ra və zəif hərf səhih bir kök olub, bir şeyin gözəlliyinə görə heyranlığa və təəccübə dəlalət edir. Bunlardan biri də gözəl mənasını verən الغَرِىُّ (əl-gəriyy) sözüdür. Deyilənə görə, رجلٌ غَرٍ (raculun ğarin) – gözəl kişi deməkdir. Sonra təəccübə غَرْو (ğarv) adı verilmişdir. Həmçinin buradan ağartı, yapışqan mənasında: أغريتُه بالشَّئ الذى تُلصَق به الأشياء (əğriytuhu biş-şəyilləzi tulsəqu bihil-əşyau – Onu üzərinə əşyalar yapışdırılan bir şeyə alışdırdım/bağlı etdim) deyilir. Deyilir ki: غَارَت العينُ بالدَّمع غِراءً (ğaratil-aynu bid-damri ğıraan) – göz göz yaşı ilə dolub axdıqda, ağlamaqda inad etdikdə (deyilir). Həmçinin غَرِيَت بالدَّمع (ğariyat bid-damri) – göz yaşına aludə oldu, bağlı qaldı. Şair demişdir (٤): Əgər mən: \"Unutmağa çalışıram\" desəm, göz göz yaşı ilə ağlamaqda inad edər və axan bol göz yaşları onu uzadar (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

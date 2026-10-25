@@ -1,0 +1,17 @@
+{
+ "i": 2977,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 440,
+  "page_to": 440
+ },
+ "ar": "الفاء والشين يدلُّ على انتشارٍ وقلّة تماسُك. يقال: ناقةٌ فَشُوشٌ، إذا كانت مُنتشرَةَ الشَّخْب. وانْفَشَّ عن الأمر: كسِلَ. والفَشُّ:\nتتبُّع السَّرَقِ الدُّون؛ وهو فَشَّاش.",
+ "az": "[فش] الفاء والشين (fa və şin) yayılmağa və rabitəsizliyə dəlalət edir. Deyilir: naqətun fəşuşun (ناقةٌ فَشُوشٌ), əgər südü sağarkən ətrafa səpələnən (və ya səxavətlə axıdılan) olsa. Və infəssə ənil-əmr (انْفَشَّ عن الأمر): tənbəlləşdi. Və əl-fəşş (الفَشُّ): kiçik oğurluqların ardınca düşməkdir; o isə fəşşandır (فَشَّاش).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.195Z"
+}

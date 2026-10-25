@@ -1,0 +1,17 @@
+{
+ "i": 2820,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عضب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 347,
+  "page_to": 348
+ },
+ "ar": "العين والضاد والباء أصلٌ صحيحٌ واحدٌ يدلُّ على قَطْعٍ أو كسر. قال الخليل: العَضْب: السَّيف القاطع. والعَضْب: القطعُ نَفْسُه. تقول عَضَبَه يَعْضِبه، أى قطعه. ومنه رَجُلٌ عضْب اللِّسان، وقد عَضُبَ لسانُه عُضُوباً وعَضُوبةً. وهذا إنما هو تشبيهٌ بالسَّيف العَضْب. قال ابنُ دُريد: «عَضَبْتُ الرَّجُل\nبلسانى، إذا [تناولتَه به]، شتمتَه، ورجلٌ عَضَّابٌ، إذا كان شَتّاماً (١)».\nوعَضَبَنى الوَعْك (٢) أى نَهَكَنى.\nومن الباب: الشَّاة العَضْباء: المكسورة القَرْن. ويقال إنَّ العَضَبَ يكون فى أحد القَرنين. وذكر ابنُ الأعرابى أن العَضَب فى الأُذن: أَنْ يذهب نِصفُها أو ثلثَها، وفى القرن، إذا ذهب من مُشَاشِهِ شئ.\nوحُكِى: رجلٌ أعْضَبُ، أى قصير اليد. ويقال إنَّ الأعضب من الرِّجال:\nالذى لا إخوةَ له ولا ناصِرَ ولا أحد له.",
+ "az": "«عضب» (eyn, dad və ba) – kəsməyə və ya sındırmağa dəlalət edən tək, səhih bir əsasdır. Xəlil demişdir: العَضْب (kəsici qılınc). العَضْب isə kəsmənin özüdür. Deyirsən: عَضَبَه يَعْضِبه – yəni onu kəsdi. Buradan götürülərək rəcülün عَضْب اللِّسان (dilinin kəsəri olan kişi) deyilir və onun dili عُضُوباً ilə عَضُوبةً (itilik, kəsərlik) kəsərli oldu. Bu, sadəcə olaraq iti qılınca bənzətmədir. İbn Dürid demişdir: «عَضَبْتُ الرَّجُل بلسانى» – o adama dil uzatdıqda, yəni onu söydün, (deməkdir); رَجُلٌ عَضَّابٌ isə çox söyüş söyən adamdır. Və عَضَبَنى الوَعْك (qızdırma məni taqətdən saldı) – yəni məni əldən saldı. Bu fəsildəndir: الشَّاة العَضْباء (buynuzu sınmış qoyun). Deyilir ki, عَضَب (sınıqlıq, qırıqlıq) buynuzların birində olur. İbn əl-Ərəbi qeyd etmişdir ki, qulaqda عَضَب – onun yarısının və ya üçdə birinin getməsi, buynuzda isə – onun özəyindən bir şeyin getməsidir. Rəvayət edilmişdir: رَجülٌ أعْضَبُ – yəni qolu qısa (olan adam). Həmçinin deyilir ki, kişilərdən الأعضب – heç bir qardaşı, köməkçisi və arxası olmayan kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:33:56.970Z"
+}

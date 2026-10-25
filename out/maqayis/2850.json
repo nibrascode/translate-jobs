@@ -1,0 +1,17 @@
+{
+ "i": 2850,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 383,
+  "page_to": 383
+ },
+ "ar": "الغين والصاد ليس فيه إلاَّ الغَصَص بالطَّعام، ويقال رجلٌ غَصَّانُ. قال:\nلو بِغَيْرِ الماء حلقى شَرِقٌ … كنت كالغَصَّانِ بالماء اعتصارِى (٣)",
+ "az": "[غص] الغين والصاد ليس فيه إلاَّ الغَصَص بالطَّعام (Gheyn və sad hərflərində yalnız yeməklə boğulmaq vardır), ويقال رجلٌ غَصَّانُ (və ğəssan kişi deyilir). قال (şair demişdir): لو بِغَيْرِ الماء حلقى شَرِقٌ … كنت كالغَصَّانِ بالماء اعتصارِى (٣) (Əgər boğazım sudan başqa bir şeylə qəfil tutulsaydı... su ilə boğulan kimi olardım sıxıntım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:00.929Z"
+}

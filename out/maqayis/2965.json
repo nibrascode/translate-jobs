@@ -1,0 +1,17 @@
+{
+ "i": 2965,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 435,
+  "page_to": 435
+ },
+ "ar": "الفاء والهاء كلمةٌ واحدةٌ تدل على العِىِّ وما أشبهه، من ذلك الرّجل الفَهُّ، وهو العَيِىّ، والمرأة فَهّةٌ، ومصدره الفَهَاهة. قال:\nفلم تَلقَنِى فَهَّا ولم تَلْقَ حُجَّتى … مُلَجْلَجَةً أبغِى لها مَنْ يقيمُها (١)\nويقال: خرجتُ لحاجةٍ فأَفَهَّنِى فلانٌ حتَّى فَهِهْت، أى أنسانِيها.",
+ "az": "[فه] الفاء والهاء كلمةٌ واحدةٌ تدل على العِىِّ وما أشبهه، من ذلك الرّجل الفَهُّ، وهو العَيِىّ، والمرأة فَهّةٌ، ومصدره الفَهَاهة. (Fa və hə – lal-dinməzliyə və ona bənzər şeylərə dəlalət edən tək sözdür, o cümlədən «الرجل الفه» (fəh) – lal/söz deməyi bacarmayan kişi, qadın isə «فَهة» (fəhhə), məsdəri isə «الڤهاهة» (fəhahə)-dir.) قال: لم تَلقَنِى فَهَّا ولم تَلْقَ حُجَّتى … مُلَجْلَجَةً أبغِى لها مَنْ يقيمُها (١) ((Şair) demişdir: «Sən məni lal kimi qarşılamadın və mənim dəlilimi dolaşıq şəkildə tapmadın ki, onu düzəldəcək birini axtarım (١)».) ويقال: خرجتُ لحاجةٍ فأَفَهَّنِى فلانٌ حتَّى فَهِهْت، أى أنسانِيها. (Və deyilir: «Bir ehtiyac üçün çıxdım, filankəs məni o işdə çaşdırdı (elə etdi ki, unutdum) ta ki dilsiz/çaşqın hala düşdüm» – yəni onu mənə unutdurdu.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:05.436Z"
+}

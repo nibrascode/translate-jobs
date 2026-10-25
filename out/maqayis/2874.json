@@ -1,0 +1,17 @@
+{
+ "i": 2874,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غمس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 394,
+  "page_to": 395
+ },
+ "ar": "الغين والميم والسين أصلٌ واحد صحيح يدلُّ على غَطِّ الشئ. يقال: غَمَست الثَّوبَ واليدَ فى الماء، إذا غططتَه فيه. و\nفى الحديث:\n«إذا استيقَظَ أحدُكم من نومه فلا يَغمِسْ يَدَه فى الإناء». والغَمِير تحتَ اليَبيس يقال له الغَمِيس.\nومن الباب الغَمِيس، وهو مَسِيلٌ صغيرٌ بين مجامع الشَّجر. والمُغامَسَة: رَمْى الرّجل نفسَه فى سِطَة الحرب. ويمينٌ غَموس قال قوم: معناه أنّها تَغمِس صاحبَها فى الإثم. وقال قومٌ: الغَمُوس: النافذة. والمعنيان وإن اختلفا فالقياسُ واحد، لأنّها إذا نفذت فقد انغمست. قال:\nثم نفَّذْته ونفَّست عنه … بغَموسٍ أو ضربةٍ أُخدودِ (١)\nويقال للأمر الشديد الذى يغُطّ (٢) الإنسانَ بشدّته: غَموس. قال:\nمتى تأتِنا أو تلقَنا فى ديارنا … تجدْ أمرَنا أمراً أحذَّ غَمُوسا (٣)",
+ "az": "[غمس] الغين والميم والسين (eyn, mim və sin) bir səhih kök olub bir şeyi örtməyə, batırmağa dəlalət edir. Deyilir: «غَمَسْتُ الثَّوبَ واليَدَ فى الماء» (Paltarı və əli suya batırdım), yəni onu suyun içində örtdün. Hədisdə gəlmişdir: «إذا استيقظ أحدكم من نومه فلا يغمس يده في الإناء» (Mənaca tərcümə: Biriniz yuxudan oykandığı zaman əlini qaba batırmasın). Quru otun altındakı yaş ot «الغَمِيس» (ğəmis) adlanır. Bu qapıdandır «الغَمِيس» (ğəmis) — ağacların birləşdiyi yerlər arasında olan kiçik su axarı. «المغامسة» (müğaməsə) — insanın özünü döyüşün mərkəzinə atması. «يمين غموس» (yemini ğəmus - yalançı and) — bir qrup demişdir ki, bunun mənası sahibini günaha batırmasıdır. Başqa bir qrup demişdir: «الغَمُوس» (ğəmus) — keçərli/təsirli olan anddır. Bu iki məna hərçənd fərqli olsa da, qayda birdir, çünki and keçərli olduqda (insanı) batırmış olur. (Şair) demişdir: Sonra onu həyata keçirdin və onu rahatlatdın — dərindən batıran andla və ya dərin qılınc zərbəsi ilə (١). Güclü elə bir işə deyilir ki, öz şiddəti ilə insanı basır və bürüyür: «غموس» (ğəmus). (Şair) demişdir: Nə vaxt bizə gəlsən və ya yurdumuzda bizə rast gəlsən, bizim işimizi kəsərli və batırıcı bir iş olaraq taparsan (3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

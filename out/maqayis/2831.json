@@ -1,0 +1,17 @@
+{
+ "i": 2831,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عطش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 355,
+  "page_to": 355
+ },
+ "ar": "العين والطاء والشين أصلٌ واحد صحيح، وهو العَطَش، يقال منه: عَطِش يَعْطَش عَطَشاً. ويقال إنّ المَعاطِشَ: مَواقِيتُ الظَّمأ. قال ذو الرُّمَّة:\nلا تشتكى سقطةً منها وقد رقصت … بها المعاطشُ حتى ظَهرُها حَدِبُ (٢)",
+ "az": "[عطش] (ə-t-ş): العين (eyn), الطاء (ta) və الشين (şin) – böyük, səhih tək bir kökdür, o da العَطَش (əl-atəş) – susuzluqdur. Undan deyilir: عَطِش يَعْطَش عَطَشاً (atis oldu - susadı). Deyirlər ki, المَعاطِش (əl-maatiş) – susuzluq vaxtlarıdır. Züru-Rümmə demişdir:\nلا تشتكى سقطةً منها وقد رقصت … بها المعاطشُ حتى ظَهرُها حَدِبُ (٢)\n(O, ordan yıxılmasından şikayətlənmir, halbuki susuzluq vaxtları onu o dərəcədə yormuşdur ki, belinin üstü belə qozbel olmuşdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:34:13.356Z"
+}

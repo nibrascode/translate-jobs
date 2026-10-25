@@ -1,0 +1,17 @@
+{
+ "i": 2801,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عسد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 319,
+  "page_to": 319
+ },
+ "ar": "العين والسين والدال ليس فيه ما يُعوَّل على صحَّته، إلاّ أنّهم يقولون: عَسَدَ، إذا جامَعَ. ويقولون العِسْوَدّة: دويْبَّة. وليس بشئ.",
+ "az": "[عسد] (ə-s-d): Eyn, sin və dal hərfləridir. Burada səhihliyinə güvəniləcək heç nə yoxdur, yalnız deyirlər ki, عَسَدَ (əsədə) — cinsi əlaqədə oldu, deməkdir. Və deyirlər ki, العِسْوَدّة (əl-isvəddə) — kiçik bir canlıdır. Bu isə heç bir şey deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:51.392Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2938,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غزر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 423,
+  "page_to": 423
+ },
+ "ar": "الغين والزاء والراء كلمةٌ واحدة، وهو قولهم: غَزُرت الناقة:\nكثُر لبنها غُزَراً وغَزَارة. وعين غَزيرَةٌ، ومعروفٌ غزير.",
+ "az": "[غزر] الغين والزاء والراء كلمةٌ واحدة، وهو قولهم: غَزُرت الناقة: كثُر لبنها غُزَراً وغَزَارة. وعين غَزيرَةٌ، ومعروفٌ غزير. \nGeyn, zay və ra bir kəlmədir, o da onların: غَزُرت الناقة (ğazuratil-naqə – Dəvənin südü çoxaldı) sözüdür; غُزَراً (ğuzaran) və غَزَارة (ğazarət) olaraq südü bol oldu. عَيْنٌ غَزيرَةٌ (aynun ğazirətun – Bol sulu bulaq) və məlum olan غَزير (ğazir – bol) sözü bundandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

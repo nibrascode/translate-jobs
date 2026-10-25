@@ -1,0 +1,17 @@
+{
+ "i": 2934,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 422,
+  "page_to": 422
+ },
+ "ar": "الغين والراء والدال كلمتان: إحداهما صوت، والأخرى نبت. فالأولى: غرَّد الطّائر فى صوته يُغَرِّد تغريداً. والكلمة الأخرى: الغَرْدَ:\nالكمأة، الواحدة غَرْدَة. والمَغَاريد: نبتٌ، الواحدة مُغْرود، وزعموا أنَّها هى الكمأة أيضاً.",
+ "az": "[غرد] الغين والراء والدال كلمتان: إحداهما صوت، والأخرى نبت. فالأولى: غرَّد الطّائر فى صوته يُغَرِّد تغريداً. والكلمة الأخرى: الغَرْدَ: الكمأة، الواحدة غَرْدَة. والمَغَاريد: نبتٌ، الواحدة مُغْرود، وزعموا أنَّها هى الكمأة أيضاً. \nGeyn, ra və dal iki kəlmədir: biri səs, digəri bitki. Birincisi: غرَّد الطّائر فى صوته يُغَرِّد تغريداً (ğarradət-tayru fi savtihi tuğarridu tağridan – Quş səsini gözələşdirərək oxudu/cəh-cəh vurdu). Digər kəlmə: الغَرْدَة (əl-ğardə) – trüfel (göbələk növü) olub, təkliyi غَرْدَة (ğardət) qeyd olunur. والمَغَاريد (əl-mağarid) – bitkidir, təkliyi مُغْرود (muğrud) olub, iddia edirlər ki, o da elə trüfel göbələyidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

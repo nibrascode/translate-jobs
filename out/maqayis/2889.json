@@ -1,0 +1,17 @@
+{
+ "i": 2889,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غوص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "الغين والواو والصاد أصلٌ صحيحٌ يدلُّ على هجومٍ على أمرٍ متسفِّلٍ من ذلك الغَوْص: الدُّخول تحتَ الماء. [والهاجم (١)] على الشئ غائص. وغاصَ على العلمِ الغامِضِ حتى استنبطه.",
+ "az": "[غوص] (ğə-və-sad) - الغين (ğeyn), الواو (vav) və الصاد (sad) aşağı düşən bir işə hücum etməyə dəlalət edən səhih bir əsasdır, bunlardan əl-ğəvs (الغَوْص): suyun altına girməkdir. Və bir şeyə [hücum edən] (١) ğaisdir (غائص). Və gizli elmin üzərinə çıxarana qədər ğasə (غاصَ) etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

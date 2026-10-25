@@ -1,0 +1,17 @@
+{
+ "i": 2963,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 434,
+  "page_to": 434
+ },
+ "ar": "الفاء والميم ليس فيه غير الفم، وليس هذا موضعه، لكن حكى فُمٌّ بالضمّ والتشديد. قال:\nيا ليتها قد خرجَتْ من فمِّهْ (٤)",
+ "az": "[فم] الفاء والميم ليس فيه غير الفم، وليس هذا موضعه، لكن حكى فُمٌّ بالضمّ والتشديد. قال: يا ليتها قد خرجَتْ من فمِّهْ (٤) (Fa və mim – orada «الفم» (ağız)-dən başqa bir şey yoxdur, bu da onun yeri deyildir, lakin zəmm və təşdid ilə «فُمّ» (fumm) rəvayət edilmişdir. (Şair) demişdir: «Kaş ki o, onun ağzından çıxaydı (٤)».)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:05.436Z"
+}

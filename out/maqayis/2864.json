@@ -1,0 +1,17 @@
+{
+ "i": 2864,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غلس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 390,
+  "page_to": 390
+ },
+ "ar": "الغين واللام والسين كلمةٌ واحدة، وهو الغَلَس، وذلك ظلامُ آخرِ اللَّيل. يقال: غَلَّسْنا، أى سِرنا غَلَسا. قال الأخطل:\nكذَبَتْكَ عينُكَ أم رأيتَ بواسطٍ … غَلَسَ الظلامِ من الرَّبابِ خيالا (١)\nوقولهم: وقع فى تُغُلِّسَ (٢)، أى داهية، هو من هذا، لأنه يقع فى أمرٍ مُظلم لا يَعرِف المخرجَ منه.",
+ "az": "[غلس] (ğ-l-s): Ğeyn, lam və sin tək bir kəlmədir, o da gecənin sonunun qaranlığı olan «الغَلَس»dir. Deyilir: «غَلَّسْنا» — yəni biz qaranlıqda yola çıxdıq. Əxtəl demişdir:\nكذَبَتْكَ عينُكَ أم رأيتَ بواسطٍ … غَلَسَ الظلامِ من الرَّبابِ خيالا (١)\n(Gözün səni aldatdı, yoxsa Vəsitdə buludlar arasındakı qaranlıq gecənin xəyalını gördün?)\n\nOnların «وقع فى تُغُلِّسَ» (təğüllisə düşdü) sözü, yəni bəlaya, çətinliyə düçar oldu deməkdir. Çünki o, çıxış yolunu bilmədiyi qaranlıq bir işə düşmüş olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:20.954Z"
+}

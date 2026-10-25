@@ -1,0 +1,17 @@
+{
+ "i": 2836,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 375,
+  "page_to": 375
+ },
+ "ar": "الغين والقاف ليس بشئ، إنَّما يحكى به الصَّوْتُ يَغْلى، يقال؟؟؟؟ غَقَّ.",
+ "az": "«غق» (غ, ق). الغين والقاف ليس بشئ (heç bir əsası yoxdur), إنَّما يحكى به الصَّوْتُ يَغْلى (bu yalnız qaynayan səsi təqlid etmək üçündür), يقال غَقَّ («ğəqqə» deyilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:35:31.146Z"
+}

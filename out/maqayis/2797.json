@@ -1,0 +1,17 @@
+{
+ "i": 2797,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عسن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 316,
+  "page_to": 316
+ },
+ "ar": "العين والسين والنون أُصَيلٌ صحيح يدلُّ على سِمَن وما قاربَه وأشبهه.\nقال الخليل: العَسن: نُجوع العَلَف والرَّعى فى الدَّوابّ. يقال: عَسَنَتِ الإبلُ عَسْناً. وناس يقولون: عَسِنَت عَسَناً. ويقال إنَّ العُسُنَ: الشَّحم القديم.\nوقال الفرّاء: إذا بقيَتْ من شحم الدّابّة بقيَّةٌ فذلك العُسُن. ويقال: بعيرٌ حَسَن الإعسان. وأعْسَنَتِ الإبل على شحمٍ متقدِّمٍ كانَ بها. قال النَّمِر:\nومُدَفَّع ذى فَرْوَتينِ هنَأْتُه … إذ لا ترى فى المعْسِنات صِرَارا\nوأمّا قولُهم: تَعَسَّنَ أباه، فهذا من باب الإبدال، والأصل فيه الهمز، وقد ذكر. ويقال: فلانٌ عِسْنُ مالٍ، إذا كان حسنَ القيام عليه، وهذا من الإبدال، كأنّ الأصل عسل، وقد ذُكِر.",
+ "az": "[عسن] (ə-s-n): Eyn, sin və nun hərflərindən ibarət kök yağlılığa (köklüyə) və ona yaxın olan şeylərə dəlalət edən kiçik səhih bir əsasdır. Xəlil demişdir: العَسن (əl-əsən) — dördayaqlı heyvanların otlaqda otu həzm edib kökəlməsidir. Deyilir: عَسَنَتِ الإبلُ عَسْناً (əsənətil-iblü əsnan). Bəzi insanlar عَسِنَت عَسَناً (əsinət əsənan) deyirlər. Deyirlər ki, العُسُن (əl-usun) — köhnə piy (yağ) deməkdir. Fəra demişdir: Heyvanın piyindən hər hansı bir qalıq qalsa, o, عُسُن (usun) adlanır. Deyilir: بعيرٌ حَسَن الإعسان (bəirun həsanul-isən). Və dəvələr əvvəlki piyləri üzərinə yenidən kökəldilər: أعْسَنَتِ الإبل (əsnətil-iblü). Nəmir demişdir: ومُدَفَّع ذى فَرْوَتينِ هنَأْتُه … إذ لا ترى فى المعْسِنات صِرَارا. Amma onların تَعَسَّنَ أباه (təəssənə əbahu) demələri dəyişdirmə (ibdal) babındandır, onun əsli həmzə ilədir və bu artıq qeyd olunmuşdur. Deyilir: فلانٌ عِسْنُ مالٍ (fulanun isnu malin) — əgər o, mala yaxşı baxırsa; bu da əvəzləmədəndir, sanki əsli عسل (əsəl)-dir və bu da artıq qeyd olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:51.392Z"
+}

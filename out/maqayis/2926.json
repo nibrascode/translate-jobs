@@ -1,0 +1,17 @@
+{
+ "i": 2926,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 418,
+  "page_to": 418
+ },
+ "ar": "الغين والراء والفاء أصلٌ صحيحٌ، إلاَّ أنَّ كَلِمهُ لا تنقاس، بل تتباين. فالغَرْف: مصدر غَرَفْت الماءَ وغيرَه أَغرِفُه غَرْفاً. والغُرْفة: اسمٌ ما يُغْرَف. والغَرِيف: الأجَمَة، والجمع غُرُف. قال:\nكما رَزَمَ العَيّار فى الغُرُفِ (١)\nوالغُرْفة: العِلِّيَّة. ويقال: غَرَفَ ناصيةَ فرسِهِ، إذا استأصلها جَزاًّ.",
+ "az": "«غرف» (ğərəfə): الغين، Rə və Fə hərflərindən ibarət səhih təməl, lakin sözləri qaydaya sığmır, əksinə bir-birindən fərqlənir. Fəmmə əl-ğərx (الغَرْف): su və digər şeyləri əllə/qabla götürməyin məsdəridir: غَرَفْتُ الماءَ وغيرَه أَغرِفُه غَرْفاً. Və əl-ğürfə (الغُرْفة): götürülən şeyin adı. Və əl-ğərif (الغَرِيف): qamışlıq, bataqlıq, cəmi ğürüfdür (غُرُف). O demişdir: كما رَزَمَ العَيّار فى الغُرُفِ (١) (Cəyyarın qamışlıqda nərə çəkdiyi kimi). Və əl-ğürfə (الغُرْفة): çardaq, üst mərtəbə. Deyilir: غَرَفَ ناصيةَ فرسِهِ (atının kəkilini dibindən kəsdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.190Z"
+}

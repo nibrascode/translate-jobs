@@ -1,0 +1,17 @@
+{
+ "i": 2972,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 438,
+  "page_to": 438
+ },
+ "ar": "الفاء والدال أصلٌ صحيح، يدلُّ على صَوت وجَلَبة.\nقال رسول اللّه ﵌: «إنَّ الجفاءَ والقَسْوةَ فى الفَدَّادِين (١)». وهى أصواتُهم فى حروثِهم ومواشيهم. قال الشَّاعر:\nنُبِّئْتُ أخوالِى بنى يزيد (٢) … ظلماً علينا لهُمُ فَدِيدُ\nومما شذَّ عن هذا: الفَدْفَد: الأرض المستويَة.",
+ "az": "[فد] الفاء والدال (fa və dal) səsə və hay-küyə dəlalət edən səhih bir əsldir. Rəsulullah (s.ə.v.) buyurmuşdur: «إنَّ الجفاءَ والقَسْوةَ فى الفَدَّادِين (١)» («Həqiqətən, cəfa və sərtlik fəddadundadır» — yəni uca səslə qışqıran əkinçilərdə). Bunlar onların əkin yerlərində və mal-qara yanında çıxardıqları səslərdir. Şair demişdir: نُبِّئْتُ أخوالِى بنى يزيد (٢) … ظلماً علينا لهُمُ فَدِيدُ (Mənə xəbər çatdı ki, dayılarım Bəni Yezid... bizə zülm edirlər, onların fədidi (səsi) var). Bundan istisna olan: əl-fadfad (الفَدْفَد): düzənlik yer.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.194Z"
+}

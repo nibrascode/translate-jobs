@@ -1,0 +1,17 @@
+{
+ "i": 2794,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عسك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 313,
+  "page_to": 313
+ },
+ "ar": "العين والسين والكاف قريبٌ من الذى قبله. قال الخليل:\nعَسِك به، إذا لزمَه، مثل سَدِك به. وأنشد الأصمعى:\nإذا شرَكُ الطريق تجشَّمَتْهُ … عَسِكْنَ بجنبِهِ حذَر الإكامِ (١)",
+ "az": "[عسك] (Əyn, sin və kaf) — əvvəlki kökə yaxındır. Xəlil demişdir: «عَسِك به» — ona yapışdı, mənasında «سَدِك به» kimidir. Əsməci bu beyti söyləmişdir: \"Yolun torunu (və ya kəndirini) çətinliklə keçdikləri zaman, təpələrdən qorxaraq onun böyrünə yapışdılar\" (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:30.137Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2829,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 354,
+  "page_to": 354
+ },
+ "ar": "العين والطاء والراء أصلٌ واحدٌ لعلّه أنْ يكون صحيحاً، وهو العِطْر للأشياء المعالَجة بالطِّيب (٢)، وفاعله العَطَّار. وامرأةٌ عَطِرة ومِعطِيرٌ.\nوقال:\nيَتْبَعْنَ جَأباً كَمُدُقِّ المِعْطيرْ (٣)",
+ "az": "[عطر] (ə-t-r): العين (eyn), الطاء (ta) və الراء (ra) – bəlkə də səhih olan tək bir kökdür. O da ətirlərlə müalicə olunan şeylər üçün olan العِطْر (əl-itr) – ətirdir (2), onun işçisi isə العَطَّار (əl-attar) – ətirdardır. Qadın isə عَطِرَة (atirə) və مِعطِير (mitir) olar.\nVə [şair] demişdir:\nيَتْبَعْنَ جَأباً كَمُدُقِّ المِعْطيرْ (٣)\n(Onlar ətirli qadının həvəngdəstəsinə bənzər güclü kişini izləyirlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:34:13.356Z"
+}

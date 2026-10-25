@@ -1,0 +1,17 @@
+{
+ "i": 2918,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غدف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 414,
+  "page_to": 414
+ },
+ "ar": "الغين والدال والفاء أصلٌ صحيح يدلُّ على سَتْرٍ وتغطية.\nيقال: أغدَفَتِ المرأة قِناعَها: أرسلَتْه. قال:\nإن تُغْدِفى دونى القِناعَ فإنَّنى … طبٌّ بأَخْذِ الفارسِ المستلئِمِ (٤)\nوأغْدَف اللَّيْلُ: أرْخَى سُدولَه. وأمَّا الغُراب الضَّخم فإنَّه يُسمَّى غُدافاً، وهذا تشبيه بإغداف اللَّيل: إظْلامِه (٥).",
+ "az": "«غدف» (ğədəfə): الغين، الدال والفاء أصل صحيح يدلُّ على سَتْرٍ وتغطية (örtməyə və bürüməyə dəlalət edən səhih təməldir). Deyilir: أغْدَفَتِ المرأة قِناعَها (qadın örpəyini saldı / örtdü). O demişdir: إن تُغْدِفى دونى القِناعَ فإنَّنى … طبٌّ بأَخْذِ الفارسِ المستلئِمِ (٤) (Əgər üzümə örpəyi örtsən, bilin ki, mən dəmir-dümürlü (zirehli) süvarini tutmağın mahir bilicisiyəm). وأغْدَف اللَّيْلُ (gecə pərdələrini saldı / qaranlıq çöktü). Və amma iri qara qarğaya gəldikdə, o, غُداف (ğüdaf) adlanır; bu, gecənin pərdə salmasına - qaranlıqlaşmasına bənzətmədir (٥).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.189Z"
+}

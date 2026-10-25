@@ -1,0 +1,17 @@
+{
+ "i": 2968,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 436,
+  "page_to": 437
+ },
+ "ar": "الفاء والثاء كلماتٌ تدلُّ على كَسْر شئ، أو نثرِه، أو قلعه.\nمن ذلك قولهم: فَثَّ جُلَّته: نَثَرها (٤). وانفَثَّ الرّجُلُ من همٍّ أصابه، أى انكسر.\nويقال إنّ الفَثَّ: الفسِيلُ يُقتلَعُ من أصله (١).\nومن الباب الفَثُّ، وهو هَبِيدُ الحَنظل، لأنّه يُنثَر.",
+ "az": "[فث] الفاء والثاء (fa və sə) kəlmələri bir şeyin qırılmasına, səpilməsinə və ya qoparılmasına dəlalət edir. Bunlardan biri onların bu sözüdür: فَثَّ جُلَّته (fəssə cullahü): onu səpdi (4). Və انفَثَّ الرّجُلُ من همٍّ أصابه (infəssər-raculu min həmmin əsəbah), yəni qüssədən qırıldı (sınıxdı). Deyilir ki, əl-fəss (الفَثُّ): kökündən qoparılmış balaca xurma ağacıdır (1). Həmçinin bu qapıdandır əl-fəss (الفَثُّ), o da hənzəlin (acı qovunun) səpilmiş içi (və ya ovuntusu) deməkdir, çünki o səpələnir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.194Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2888,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غور",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 401,
+  "page_to": 401
+ },
+ "ar": "الغين والواو والراء أصلانِ صحيحان: أحدهما خُفوضٌ فى الشَّئ وانحطاطٌ وتطامن، والأصل الآخر إقدامٌ على أخذِ مالٍ قَهْراً أو حَرَباً.\nفالأوّل قولهم لقَعْر الشئ: غَوره. ويقال: غَارَ الماء غَوْراً، وغارت عينُه غُؤوراً (١). قال اللّه تعالى: ﴿قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ ماؤُكُمْ غَوْراً﴾. ويقال:\nغَارَت الشَّمْسُ غِياراً: غابت. قال الهُذَلِىّ (٢):\nهل الدّهْرُ إلاَّ ليلةٌ ونَهَارُها … وإلاّ طُلوع الشَّمس ثمَّ غِيَارُها\nوالغَوْر: تِهَامَةُ وما يلى اليَمن، سمِّيت بذلك لأنَّها خِلافُ النَّجْد. والنَّجْد:\nمرتَفِعٌ من الأرض. يقال: غَارَ الرّجُل، إذا أتَى الغَوْر، وأغار. قال:\nنبىُّ يرَى ما لا تَرَوْنَ وذكرُه … أغارَ لَعَمْرى فى البلادِ وأنْجَدَا (٣)\nوغَوّر الرّجُل، إذا نزَلَ للقائلة، كأنَّه [نزل] مكاناً هابطاً. ولا يكادون يفعلون إلاّ كذا. وغَوْرُ القُرْحَةِ من هذا أيضاً.\nوالأصل الآخَر الإغارة. يقال: أغارَ بنو فلانٍ على بنى فلان إغارةً وغَارة.\nوإغارة الثَّعلب: عَدْوَه. وهو * من هذا أيضاً.",
+ "az": "[غور] (ğə-və-ra) - الغين (ğeyn), الواو (vav) və الراء (ra) iki səhih əsasdır: biri bir şeydə alçalmaq, eniş və yumşalmaq, digər əsas isə zorla və ya müharibə ilə mal almağa cəsarət etməkdir.\n\nBirincisi onların bir şeyin dibinə ğəvruhu (غَوْره) deməsidir. Belə deyilir: ğarə əl-maü ğəvran (غَارَ الماء غَوْراً), və ğarət aynuhu ğüvuran (غارت عينُه غُؤوراً) (١). Uca Allah buyurmuşdur: mənaca tərcümə: ﴿قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ ماؤُكُمْ غَوْراً﴾ (De: «Bir görün, əgər suyunuz çəkilib gedərsə...»). Və belə deyilir: ğarət əş-şəmsü ğiyaran (غَارَت الشَّمْسُ غِياراً): batdı. Hüzəli demişdir (٢):\nهل الدّهْرُ إلاَّ ليلةٌ ونَهَارُها … وإلاّ طُلوع الشَّمس ثمَّ غِيَارُها\n(Zəmanət yalnız gecə və onun gündüzüdür... Və günəşin çıxması, sonra isə batmasıdır)\n\nVə əl-ğəvr (الغَوْر): Tihamə və Yəmənə yaxın olan yerdir, ona bu ad ona görə verilmişdir ki, o nəcdin (yüksəkliyin) əksidir. Əl-nəcd (النَّجْد): yerin yüksək olan hissəsidir. Belə deyilir: ğarə əl-rəcul (غَارَ الرّجُل), o zaman ki, ğəvrə gəldi və iğar etdi. Şair demişdir:\nنبىُّ يرَى ما لا تَرَوْنَ وذكرُه … أغارَ لَعَمْرى فى البلادِ وأنْجَدَا (٣)\n(Bir peyğəmbərdir ki, sizin görmədiklərinizi görür və onun şöhrəti... And olsun ömrümə ki, ölkələrdə hücum etdi və nəcdə çatdı)\n\nVə ğəvvirə əl-rəcul (غَوّر الرّجُل), o zaman ki, gündorta dincəlmək üçün endi, elə bil o [endə] alçaq bir yerə endi. Onlar adətən yalnız belə edirlər. Qurucunun dibi də məhz bundandır.\n\nDigər əsas isə iğarədir (الإغارة). Belə deyilir: ağarə bənü fəlan əla bəni fəlan iğarətən və ğarə (أغارَ بنو فلانٍ على بنى فلان إغارةً وغَارة). Və tülkünün iğarəsi (إغارة الثَّعلب) – onun qaçışıdır. Və o da * bundandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

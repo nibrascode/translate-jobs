@@ -1,0 +1,17 @@
+{
+ "i": 2939,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غسل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 424,
+  "page_to": 424
+ },
+ "ar": "الغين والسين واللام أصلٌ صحيح يدلُّ على تطهيرِ الشَّئ.\nوتنقِيَته. يقال: غَسَلتُ الشَّئَ غَسْلاً. والغُسْل الاسم. والغَسُول: ما يُغْسَل به الرَّأس من خِطْمىٍّ أو غيره. قال:\nفيا لَيْلَ إنَّ الغِسْلَ ما دُمْتِ أيِّماً … علىَّ حرام لا يَمَسُّنِىَ الغِسْلُ (١)\nويقال: فحلٌ غُسَلَة، إذا كثُر ضِرابُه ولم يُلْقِح. والغِسْلينُ المذكور فى كتاب اللّه تعالى، يقال إنَّه ما يَنْغسلُ من أبدان الكفّار فى النار.",
+ "az": "[غسل] الغين والسين واللام أصلٌ صحيح يدلُّ على تطهيرِ الشَّئ. وتنقِيَته. يقال: غَسَلتُ الشَّئَ غَسْلاً. والغُسْل الاسم. والغَسُول: ما يُغْسَل به الرَّأس من خِطْمىٍّ أو غيره. قال: فيا لَيْلَ إنَّ الغِسْلَ ما دُمْتِ أيِّماً … علىَّ حرام لا يَمَسُّنِىَ الغِسْلُ (١) ويقال: فحلٌ غُسَلَة، إذا كثُر ضِرابُه ولم يُلْقِح. والغِسْلينُ المذكور فى كتاب اللّه تعالى، يقال إنَّه ما يَنْغسلُ من أبدان الكفّار فى النار. \nGeyn, sin və lam səhih bir kök olub, bir şeyi təmizləməyə və saflaşdırmağa dəlalət edir. Deyilir: غَسَلتُ الشَّئَ غَسْلاً (ğasaltuş-şəyə ğaslan – Mən şeyi yudum). الغُسْل (əl-ğusl) – ismidir (adət). والغَسُول (əl-ğasul) – başı xəttmi (gülxətmi) və ya başqa bir şeylə yumaq üçün istifadə olunan vasitədir. Şair demişdir: Ey Leyla, sənin subay qaldığın müddətcə yuyunma vasitəti (ğisl) mənə haramdır, yuyunma vasitəsi mənə toxunmayacaqdır (١). Həmçinin deyilir: فحلٌ غُسَلَة (fahlun ğusalətun) – o erkək heyvan ki, cütləşməsi çox olar, lakin divəni hamilə etməz. Uca Allahın kitabında zikr olunan الغِسْلينُ (əl-ğislin) – gafilərə görə cəhətdən caizdir ki, kafirlərin cəsədlərindən odda yuyulub çıxan axıntıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

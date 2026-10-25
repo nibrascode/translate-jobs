@@ -1,0 +1,17 @@
+{
+ "i": 2887,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غوج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 401,
+  "page_to": 401
+ },
+ "ar": "الغين والواو والجيم كلمةٌ واحدة، وهى الفَرَس الغَوْج، إذا كان عريضَ الصَّدر. وربَّما سمَّوا كلَّ ليِّنٍ غَوْجاً.",
+ "az": "[غوج] (ğə-və-cim) - الغين (ğeyn), الواو (vav) və الجيم (cim) bir kəlmədir, o da sinəsi enli olan əl-ğəvc (الغَوْج) atıdır. Bəzən hər yumşaq şeyə ğəvc (غَوْج) adını verirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

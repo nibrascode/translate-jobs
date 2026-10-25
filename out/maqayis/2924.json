@@ -1,0 +1,17 @@
+{
+ "i": 2924,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 417,
+  "page_to": 417
+ },
+ "ar": "الغين والراء والسين أصلٌ صحيحٌ قريبٌ من الذى قبله.\nيقال: غَرَسْتُ الشَّجرَ غَرْساً، وهذا زَمَنُ الغِراس. ويقال إنَّ الغَرِيسة: النَّخْلةُ أوّلَ ما تَنبت.\nومما شذَّ عن هذا الغِرْس: جِلدةٌ رقيقة تخرجُ على رأس الوَلَد. قال:\nكُلَّ جنينٍ مُشْعَرٍ فى غِرْسِ (١)",
+ "az": "«غرس» (ğərəsə): الغين، Rə və Sin hərflərindən ibarət səhih təməl olub, əvvəlki məna ilə yaxındır. Deyilir: غَرَسْتُ الشَّجرَ غَرْساً (Ağac əkdim, əkmək), və bu, əkin vaxtıdır (زَمَنُ الغِراس). Və deyirlər ki, əl-ğərisə (الغَرِيسة): xurma ağacının cücərən və ya bitən ilk vaxtıdır. Və bu təməldən istisna olan (şəzz) budur: əl-ğirs (الغِرْس): uşağın başının üstündən çıxan incə dəri. O demişdir: كُلَّ جنينٍ مُشْعَرٍ فى غِرْسِ (١) (Tük ilə örtülmüş hər bir bətn dölü qabıq/pərdə içində).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.190Z"
+}

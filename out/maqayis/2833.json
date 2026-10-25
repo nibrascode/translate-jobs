@@ -1,0 +1,17 @@
+{
+ "i": 2833,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عظب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 356,
+  "page_to": 356
+ },
+ "ar": "العين والظاء والباء. يقولون: عَظَب الطَّائر، إذا حَرَّكَ زِمِكَّاهُ. وهو كلام. والعُنْظُب: الجراد الضَّخم، النُّون زائدة.",
+ "az": "[عظب] (ə-z-b): العين (eyn), الظاء (zə) və الباء (ba). Deyirlər: عَظَب الطَّائر (quş əzəb etdi) – quş quyruğunun dibini tərpatdi. Bu, [özünəməxsus] bir sözdür. العُنْظُب (əl-unzub) – iri çəyirdəkdir, nun hərfi artıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:34:13.356Z"
+}

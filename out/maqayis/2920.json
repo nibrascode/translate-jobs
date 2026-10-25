@@ -1,0 +1,17 @@
+{
+ "i": 2920,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غدو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 415,
+  "page_to": 415
+ },
+ "ar": "الغين والدال والحرف المعتلّ أصلٌ صحيح يدلُّ على زمانٍ.\nمن ذلك الغُدُوّ، يقال غدا يغدو. والغُدْوة والغَدَاة، وجمع الغُدوة غُدّى، وجمع الغَداة غَدَوات. والغادية: سحابةٌ تنشَأ صَباحا. وأفعلُ ذلك غداً. والأصل غَدْواً. قال:\nبها حيث حَلُّوها وغَدْواً بَلاقِعُ (٢)\nوالغَدَاء: الطّعام بعينه، سمِّى بذلك لأنّه يُؤكَل فى ذلك الزمان.",
+ "az": "«غدو» (ğədəva): الغين، الدال والحرف المعتل أصل صحيح يدلُّ على زمانٍ (zamanı bildirən səhih təməldir). ومن ذلك الغُدُوّ (əl-ğuduvv - səhər vaxtı getmək), deyilir: غدا يغدو (səhər tezdən getdi - gedir). Və əl-ğudvə (الغُدْوة) və əl-ğədah (الغَدَاة - səhər çağı), ğudvənin cəmi غُدّى (ğudən), ğədahın cəmi isə غَدَوات (ğədəvat). Və əl-ğadiyyə (الغادية): səhər tezdən əmələ gələn bulud. Və mən bunu sabah (غداً) edəcəyəm. Əsli غَدْواً -dۇر. O demişdir: بها حيث حَلُّوها وغَدْواً بَلاقِعُ (٢) (Orada ki, onu məskən salmışdılar və səhər tezdən boş-biyابان yerlərdir). Və əl-ğəda (الغَدَاء - nahar yeməyi): məhz yeməkdir, belə adlandırılmışdır, çünki o, həmin vaxtda yeyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.189Z"
+}

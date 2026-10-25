@@ -1,0 +1,17 @@
+{
+ "i": 2923,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 416,
+  "page_to": 416
+ },
+ "ar": "الغين والراء والزاء أصلٌ صحيحٌ يدلُّ على رَزِّ الشَّئ فى الشئ. من ذلك غَرَزْتُ الشَّئَ أغرِزُه غَرْزاً. وغَرَزْتُ رِجله فى الغَرْز.\nوغَرَزَت الجرادةُ بذَنَبِها فى الأرض، مثل رَزّت. والطَّبيعة غريزة، كأنَّها شئ غُرِز فى الإنسان. فأمَّا قولهم: اغترَزْت الشَّئَ، واغترَزْت السَّيرَ اغترازاً، إذا دَنَا سيرك فمعناه تقريبُ السَّير، أى كأنِّى الآنَ وضعتُ رِجلى فى غَرْز الرَّحْل.\nوأمَّا قولهم: غَرَزَت النّاقةُ، إذا قلَّ لبنُها فمعناه من هذا أيضاً، كأنَّ لبَنَها غُرِزَ فى جسمها فلم يَخْرُجْ.",
+ "az": "«غرز» (ğərəzə): الغين، Rə və Zai hərflərindən ibarət səhih təməl olub, bir şeyi digər şeyə sancmağa/bərkitməyə dəlalət edir. O cümlədən: غَرَزْتُ الشَّئَ أغرِزُه غَرْزاً (Bir şeyi sancdım, sancıram, sancmaq). Və غَرَزْتُ رِجله فى الغَرْز (Ayağını üzəngiyə qoydum). Və çəyirtkə quyruğu ilə yerə sancıldı, رَزّت (sancıldığı) kimi. Və təbiət ğərizədir (طبيعة غريزة), sanki insana sancılmış (yeridilmiş) bir şeydir. Amma onların «اغترَزْت الشَّئَ، واغترَزْت السَّيرَ اغترازاً» sözlərinə gəldikdə, əgər səyahətin (gedişin) yaxınlaşdısa, bunun mənası gedişi yaxınlaşdırmaqdır, yəni sanki mən indicə ayağımı səhəngin/yəhərin üzəngisinə qoydum. Və onların: غَرَزَت النّاقةُ (dəvənin südü azaldı) sözlərinə gəldikdə, bu da həmin mənadandır, sanki onun südü bədəninə çəkildi (sancıldı) və bayıra çıxmadı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.190Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2841,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 379,
+  "page_to": 379
+ },
+ "ar": "الغين والباء أصلٌ صحيح يدلُّ على زمانٍ وفَترةٍ فيه. من ذلك الغِبُّ، هو أن تَرِدَ الإبلُ يوماً وتدع يوما. والمغبَّبة: الشاة تُحلَب يوما وتُتركُ يوماً. وأغبَبْتُ الزِّيارة من الغِبِّ أيضاً. ومنه أيضاً قولُهم: غبَّبَ فى الأمر إذا لم يُبالِغْ فيه، كأنَّه زِيدَتْ (٢) فترة أوقَعَها فيه.\nومن الباب قولهم: «رُوَيْدَ الشَّعْرِ يَغُبّ»، وذلك أن يُتركَ إنشادُه حتَّى يأتىَ عليه وقت. ويقولون: غَبَّ الأمرُ، إذا بلغ آخِرَه (٣). ولحمٌ غابٌّ، إذا لم يُؤكَلْ لوَقْتِه، بل تُرِك وقتاً وفَتْرةً.",
+ "az": "«غب» (غ, ب). الغين والباء أصلٌ صحيحٌ يدلُّ على زمانٍ وفَترةٍ فيه (Zaman və onda olan fasiləyə dəlalət edən səhih bir kökdür). من ذلك الغِبُّ (bundandır «əibb»): هو أن تَرِدَ الإبلُ يوماً وتدع يوما (dəvələrin bir gün su içməyə gedib, bir gün dəvəni saxlamaqla susuz qalmasıdır). والمغبَّبة (və «muğəbbəbə»): الشاة تُحلَب يوما وتُتركُ يوماً (bir gün samılıb, bir gün samılmayan qoyundur). وأغبَبْتُ الزِّيارة من الغِبِّ أيضاً (Ziyarəti fasilələrlə etdim - bu da «əibb»dəndir). ومنه أيضاً قولُهم (və həmçinin bundandır onların bu sözü): غبَّبَ فى الأمر إذا لم يُبالِغْ فيه (məsələdə ifrata varmadıqda «ğəbbəbə fi əl-əmr» dedi), كأنَّه زِيدَتْ فترة أوقَعَها فيه (sanki ora bir fasilə artırılmış kimi). ومن الباب قولهم (və bu fəsildəndir onların bu sözü): «رُوَيْدَ الشَّعْرِ يَغُبّ» («Şeirin oxunmasını fasilə ilə yavaş-yavaş edin»), وذلك أن يُتركَ إنشادُه حتَّى يأتىَ عليه وقت (və bu, üzərindən vaxt keçənə qədər şeirin oxunmasının təxirə salınmasıdır). ويقولون (və deyirlər): غَبَّ الأمرُ (iş sona çatdı), إذا بلغ آخِرَه (son həddinə çatdıqda). ولحمٌ غابٌّ (və «ğabb» əti), إذا لم يُؤكَلْ لوَقْتِه (vaxtında yeyilməyib), بل تُرِك وقتاً وفَتْرةً (əksinə, müəyyən bir vaxt və fasilə saxlanıldıqda).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:35:31.147Z"
+}

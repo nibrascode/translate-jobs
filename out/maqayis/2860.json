@@ -1,0 +1,17 @@
+{
+ "i": 2860,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 388,
+  "page_to": 389
+ },
+ "ar": "الغين واللام والباء أصلٌ صحيح يدلُّ على قوّةٍ وقَهرٍ وشدَّة. من ذلك: غَلَب الرّجلُ غَلْباً وغَلَباً وغَلَبة. قال اللّه تعالى: ﴿وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ﴾. والغِلَاب: المغالَبة. والأغلَبُ: الغَليظ الرّقَبَة. يقال:\nغَلِبَ يَغْلَبُ غَلَباً. وهضْبةٌ غَلباءُ، وعِزَّةٌ غلباء. وكانت تغلِبُ تسمَّى الغلباء. قال:\nوأورثَنِى بنو الغَلباءِ مَجْداً … حديثاً بعدَ مَجدِهمُ القديمِ (١)\nواغلولَبَ العُشْب: بلَغَ كلَّ مَبلغ. والمُغلَّب من الشُّعراء: المغلوب مِراراً.\nوالمُغَلَّب أيضاً: الذى غَلب خَصْمَه أو قِرْنَه، كأنَّه غلِّب على خَصْمِه، أى جُعِلت له الغَلَبة.",
+ "az": "[غلب] (ğ-l-b): Ğeyn, lam və ba düzgün bir əsas olub, gücə, qəhrə və şiddətə dəlalət edir. Bunlardandır: «غَلَب الرّجلُ غَلْباً وغَلَباً وغَلَبة» — kişi qalib gəldi, üstün oldu. Uca Allah buyurmuşdur: ﴿وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ سَيغْلِبُونَ﴾ (mənaca tərcümə: Onlar məğlub olduqlarından sonra qalib gələcəklər). «الغِلَاب» — qalib gəlməyə çalışmaq (müğaləbə). «الأغلَبُ» — boynu qalın olan. Deyilir: «غَلِبَ يَغْلَبُ غَلَباً». «هضْبةٌ غَلباءُ» — sərt, uca qaya, «عِزَّةٌ غلباء» — qalib izzət. «تَغْلِب» qəbiləsi «الغلباء» adlandırılırdı. Şair demişdir:\nوأورثَنِى بنو الغَلباءِ مَجْداً … حديثاً بعدَ مَجدِهمُ القديمِ (١)\n(Mənə Qəbiləoğulları qədim şərəflərindən sonra yeni bir şərəf miras qoydular...)\n\n«اغلولَبَ العُشْب» — ot hər cür bolluğa və hündürlüyə çatdı. Şairlərdən «المُغلَّب» — dəfələrlə məğlub edilmiş kimsədir. \n«المُغَلَّب» həm də düşmənini və ya tayını məğlub edən kimsədir, elə bil ona qalib gəlmək verilib, yəni ona üstünlük nəsib edilib.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:20.954Z"
+}

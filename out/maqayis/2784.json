@@ -1,0 +1,17 @@
+{
+ "i": 2784,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 304,
+  "page_to": 305
+ },
+ "ar": "العين والراء والدال أصلانِ صحيحان يدلُّ أحدُهما على قوَّةٍ واشتداد، والآخر على مَيل وحِياد.\nفالأوَّل العَرْد: الشديد من كلِّ شئٍ الصُّلب. [قال (٤)]:\nعَرْدَ التَّراقى حَشْوَراً مُعَقْربا (٥)\nويقال: عَرَد نابُ البعير يَعرُد عُروداً، إذا خَرَج واشتدَّ وانتصب. قال ذو الرُّمَّة:\nيُصَعِّدْنَ رُقْشاً بين عُوجٍ كأنها … زِجاجُ القَنا منها نَجِيم وعاردُ (١)\nالنَّجِيم: الطالع.\nو [أمَّا] الأصل الآخَر فالتعريد: ترك القَصْد. والأصل فيه قولهم: عَرَدت الشّجرةُ تَعرُد عُروداً. قال لبيد فى التَّعريد:\nفَمَضَى وقدَّمَها وكانت عادةً … منه إذا هى عَرَّدَتْ إقدامُها (٢)\nوقال آخر (٣):\nوهمّتِ الجوزاء بالتَّعريدِ (٤)\nومما شذَّ عن هذين الأصلين العَرَاد: شجر. ويقال العَرَادة: الجرادة الأنثى.\nواللّه أعلمُ بالصَّواب.",
+ "az": "[عرد] (eyn, ra və dal) iki səhih əsasdır, biri qüvvət və güclənməyə, digəri isə meyl və uzaqlaşmağa dəlalət edir.\n\nBirincisi «العَرْد» - hər bir şeyin güclüsü və bərki. (Şair) demişdir:\nBitişik köprücüklü sümüklü, qarınlı, əqrəb kimi qıvrılan.\n\nVə deyilir: «عَرَد نابُ البعير يَعرُد عُروداً» - dəvənin azı diş çıxıb gücləndikdə və dikəldikdə. Zü-ər-Rummə demişdir:\nOnlar əyri oxlar arasında xallı ilanları yuxarı qaldırırlar, sanki... nizələrin şüşəsi oradan doğan və çıxandır.\n\n«النَّجِيم» - doğan (ulduz).\n\nVə digər əsas isə «التَّعريد» - məqsədi tərk etməkdir. Burada əsas onların bu sözüdür: «عَرَدت الشّجرةُ تَعرُد عُروداً» (ağac budaqları yana əyildi). Ləbid «tərid» barəsində demişdir:\nO keçib getdi və onu (həmləni) önə çəkdi, bu onun üçün bir adət idi... o, tənbəllik edib çəkindikdə onun irəliyə atılması idi.\n\nBaşqası da demişdir:\nCövgə (ulduzu) məqsəddən yayınmağa təşəbbüs etdi.\n\nBu iki əsasdan istisna olunan (şaz olan) isə «العَرَاد» - bir ağac növüdür. Və deyilir ki, «العَرَادة» dişi çəyirtkədir.\n\nDoğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:07.475Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2825,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عطن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 352,
+  "page_to": 353
+ },
+ "ar": "العين والطاء والنون أصلٌ صحيحٌ واحدٌ يدلُّ على إقامةٍ وثبات. من ذلك العَطَن والمَعْطِن، وهو مَبْرَك الإبل. ويقال إنّ إعطانها أن تحبَس عِنْدَ الماء بعدَ الوِرْد. قال لبيد:\nعافَتَا الماءَ فلم نُعْطِنْهُما … إنَّما يُعْطِن من يرجو العَلَل (٤)\nويقال: كلُّ منزلٍ يكون مَألَفاً للإبل [فهو عَطَنٌ (٥)]، والمَعْطِن: ذلك الموضع. قال:\nولا تكلِّفُنى نَفسِى ولا هَلَعِى … حِرصاً أُقيم به فى مَعْطِن الهُونِ (١)\nوقال آخرون: لا يكون أعطانُ الإبل إلاّ على الماء، فأمَّا مَبارِكها فى البرِّيَّة وعند الحىِّ فهو المأوَى، وهو المُرَاح أيضاً. وهذا البيتُ الذى ذكرناه «فى مَعطِن الهُون»، يدلُّ على أنَّ المَعْطِن يكون حيث تُحبَس الإبل فى مباركها أين كانت.\nوبيتُ لَبيد يدلُّ على القول الآخَر، والأمرُ * قريب.\nومن الباب عَطْنُ الجِلد، وهو أن يوضَع فى الدِّباغ.",
+ "az": "[عطن] (ə-t-n): العين (eyn), الطاء (ta) və النون (nun) – dayanma və sabitliyə dəlalət edən tək, səhih bir kökdür. Bunlardan biri العَطَن (əl-atən) və المَعْطِن (əl-maatin) olub, dəvələrin çökdüyü yer deməkdir. Deyirlər ki, onların إعطان (istan) edilməsi – suvarıldıqdan sonra suyun yanında saxlanılmasıdır. Ləbid demişdir:\nعافَتَا الماءَ فلم نُعْطِنْهُما … إنَّى يُعْطِن من يرجو العَلَل (٤)\n(O iki dişi dəvə sudan imtina etdi, biz də onları saxlamadıq; əslində, ancaq [suvarılmadan sonrakı] artığı uman kəs [dəvələri suda] saxlayar).\nVə deyilir ki: Dəvələrin adət etdiyi hər bir düşərgə [atəndir (5)], المَعْطِن (əl-maatin) də həmin yerdir. [Şair] demişdir:\nولا تكلِّفُنى نَفسِى ولا هَلَعِى … حِرصاً أُقيم به فى مَعْطِن الهُونِ (١)\n(Nəfsim və səbirsizliyim mənə elə bir hərislik yükləməz ki, o səbəbdən zillət məbəkində - mənzilində dayanım).\nBaşqaları demişdirlər: Dəvələrin atənləri yalnız suyun üstündə olur; səhrada və tayfanın yanında olan çökəcək yerlərinə gəldikdə isə, o, mə’və (sığınacaq), həm də muraq (dəvələrin axşam qayıtdığı yer) adlanır. Zikr etdiyimiz «فى مَعطِن الهُون» (zillət məbəkində) beyti dəlalət edir ki, mətən dəvələrin harada olursa-olsun çöküb saxlandığı yerdə olur.\nLəbidin beyti isə digər qörüşə dəlalət edir, məsələ isə * yaxındır.\nBu qapıdandır: عَطْنُ الجِلد (dəinin ətni) – dabbaqlığa qoyulması.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:34:13.356Z"
+}

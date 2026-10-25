@@ -1,0 +1,17 @@
+{
+ "i": 2818,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عضم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 346,
+  "page_to": 347
+ },
+ "ar": "العين والضاد والميم قد ذكرت فيه كلماتٌ عن الخليلِ وغيره وأراها غلطاً من الرُّواة عنه. فأمَّا الخليل فأعلى رتبةً من أنْ يصحِّح مثلَ هذا.\nقال: العَضم: مَقْبِض القَوْس. وأنشدوا:\nرُبَّ عَضْمٍ رأيتُ فى جوف ضَهْرِ (٢)\nقالوا: والضَّهْر: موضعٌ فى الجَبَل. وهذا كله كلام. والعِضَام: عَسيب البعير.\nوالعضمُ: خشبةٌ ذاتُ أصابعَ يُذْرَى بها الطّعام *. وعَضْمُ الفدّان: لوحُه العريض.\nوالعَيْضُوم (١)، قالوا: الأكول.\nوذكرنا هذا كله تعريفا أنَّه لا أصلَ له، ولولا ذاك ما كان لذِكرِه وجه.",
+ "az": "«عضم» (ədm): Eyn, dad və mim hərfləri haqqında Xəlildən və başqalarından bəzi kəlimələr zikr edilmişdir ki, mən onların rəvayətçilər tərəfindən səhv olduğunu düşünürəm. Xəlilə gəldikdə isə, o, belə bir şeyi səhih saymaqdan daha uca məqamdadır.\n\nO demişdir: الْعَضْم (əl-ədm) – yayaq tutacağıdır. Onlar şeir söyləmişlər:\n«Çox ədm gördüm dhərin qarnında» (٢)\n\nDemişlər ki: الضَّهْر (əd-dəhr) – dağda bir yerdir. Bütün bunlar uydurma sözlərdir. الْعِضَام (əl-idam) – dəvənin quyruq sümüyüdür.\n الْعَضْم (əl-ədm) – taxılı sovurmaq üçün barmaqları olan bir taxtadır. Və فَدَّان (fəddan) ədmü – onun enli lövhəsidir.\n\nالْعَيْضُوم (əl-eyzum) – dedilər ki, çox yeyəndir.\n\nBiz bunların heç bir əslinin olmadığını bildirmək üçün hamısını qeyd etdik, əgər bu olmasaydı, onun zikr edilməsinin heç bir mənası olmazdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:33:35.657Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2832,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عظم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 355,
+  "page_to": 355
+ },
+ "ar": "العين والظاء والميم أصلٌ واحد صحيح يدلُّ على كِبَر وقُوّة.\nفالعِظَم: مصدر الشَّئ العظيم. تقول: عَظُمَ يَعْظُم عِظَماً، وعظّمته أنا. فإذا عَظُم فى عينيك قلت: أعْظمتُه واستعظمْتُه. ومُعظَم الشئ: أكثرُه. وعَظْمةُ الذِّراع:\nمُستغلَظُها. وهى العظيمة: النازِلةُ المُلمّة الشّديدة. قال:\nإن تنجُ منها تنجُ من ذِى عظيمةٍ … وإلاّ فإنِّى لا إخالَك ناجيا (٣)\nومن الباب العَظْم، معروف، وهو سمِّى بذلك لقوّته وشِدّته.",
+ "az": "[عظم] (ə-z-m): العين (eyn), الظاء (zə) və الميم (mim) – böyüklük və qüvvəyə dəlalət edən səhih tək bir kökdür.\nFəqət العِظَم (əl-izm) – böyük şeyin məsdəridir. Deyirsən: عَظُمَ يَعْظُم عِظَماً (azim oldu - böyüdü), mən də اسے عظّمته (əzəmtuhu - böyütdüm). O sənin gözündə böyük göründükdə deyirsən: أعْطمتُه واستعظمْتُه (iəmtuhu və stəzəmtuhu - onu böyük hesab etdim). ومُعظَم الشئ (muzmüş-şey) – şeyin çox hissəsidir. Və العَظْمةُ الذِّراع (əl-azmətüz-zira) – qolun ən yoğun yeridir. العظيمة (əl-azimə) – ağır, çətin, bəlalı hadisədir. [Şair] demişdir:\nإن تنجُ منها تنجُ من ذِى عظيمةٍ … وإلاّ فإنِّى لا إخالَك ناجيا (٣)\n(Əgər ondan xilas olsan, böyük bəla sahibindən xilas olarsan; yox əgər [xilas olmasan], mən sənin qurtulacağını güman etmirəm).\nVə bu qapıdandır: العَظْم (əl-azm) – məlum olan sümük, o, gücünə və sərtliyinə görə belə adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:34:13.356Z"
+}

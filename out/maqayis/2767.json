@@ -1,0 +1,17 @@
+{
+ "i": 2767,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عذم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 258,
+  "page_to": 258
+ },
+ "ar": "العين والذال والميم أُصيلٌ صحيح يدل على عَضٍّ وشِبهه.\nقال الخليل: أصل العَذمِ العضّ، ثم يقال: عَذَمَهُ بلسانه يَعْذِمُه عَذْماً، إذا أخذه بلسانه. والعَذيمة: الملامة. قال الراجز:\nيَظَلُّ مَنْ جارَاه فى عذائمِ … من عنفوانِ جريِهِ العُفاهِمِ (٢)\nأى مَلَامَات. وفرسٌ عَدوم. فأما العَذَمْذَم فإن الخليل ذكره فى هذا الباب بغين معجمة، وقال غيره: بل هو غَذَمْذَم بالغين. قال الخليل: وهو الجُرَاف: يقال: مَوت غَذَمْذَم: جُراف لا يُبقى شيئاً. قال:\nثِقالُ الجفانِ والحلومِ رحاهُم … رَحَى الماء يكتالون كَيْلاً عَذَمذَما (٣)",
+ "az": "[عذم] (Ə-ẕ-m)\nAyn, zal və mim kiçik bir səhih əsldir, dişləməyə və ona bənzər şeyə dəlalət edir.\nƏl-Xəlil demişdir: «العَذْم» (azm) sözünün əsli dişləməkdir, sonra deyilir: «عَذَمَهُ بلسانه يَعْذِمُه عَذْماً» – dili ilə onu sancdıqda/qınadıqda. «العَذيمة» – məzəmmət, qınaqdır. Rəcəz deyən şair demişdir:\n«يَظَلُّ مَنْ جارَاه فى عذائمِ … من عنفوانِ جريِهِ العُفاهِمِ (٢)»\nYəni məzəmmətlər içində. «فرسٌ عَدوم» (dişləyən at). «العَذَمْذَم» sözünə gəlincə, əl-Xəlil onu bu babda nöqtəli \"ğayn\" hərfi ilə qeyd etmişdir, başqası isə demişdir: Xeyr, o, \"ğayn\" hərfi ilə «غَذَمْذَم» (ğəzəmzəm)-dir. Əl-Xəlil demişdir: O, hər şeyi silib-süpürən deməkdir. Deyilir: «مَوت غَذَمْذَم» – heç nə saxlamayan silib-süpürən ölüm. Şair demişdir:\n«ثِقالُ الجفانِ والحلومِ رحاهُم … رَحَى الماء يكتالون كَيْلاً عَذَمذَما (٣)»\n(Böyük çanaq və dərin ağıl sahibləri, onların dəyirmanı su dəyirmanı kimidir, bol-bol [və ya sarsıdıcı olaraq] ölçüb-biçərlər).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T18:25:20.235Z"
+}

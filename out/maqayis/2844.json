@@ -1,0 +1,17 @@
+{
+ "i": 2844,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 380,
+  "page_to": 380
+ },
+ "ar": "الغين والدال كلمةٌ، وهى الغُدَّة فى اللَّحم، معروفة\nقال الرّاجز:\nفهَبْ له حليلةً مِغدَادَا (١)\nقالوا: هى الدَّائمة الغَضَب، كأنَّ فى حَلْقها غدّة.",
+ "az": "«غد» (غ, د). الغين والدال كلمةٌ (Gin və dal bir kəlmədir), وهى الغُدَّة فى اللَّحم (və o, ətdə olan vəzilərdir), معروف (məlumdur). قال الرّاجز (Racəz şairi demişdir): فهَبْ له حليلةً مِغدَادَا (Ona «miğdad» adlı bir arvad bəxş et). قالوا (dedilər): هى الدَّائمة الغَضَب (o, daim qəzəbli olan qadındır), كأنَّ فى حَلْقها غدّة (sanki onun boğazında vəzi var).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:35:31.147Z"
+}

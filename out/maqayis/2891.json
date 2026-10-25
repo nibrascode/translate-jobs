@@ -1,0 +1,17 @@
+{
+ "i": 2891,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "الغين والواو واللام أصلٌ صحيح يدلُّ على خَتْل وأَخْذٍ من حيثُ لا يدرى. يقال: غالَهُ يَغُوله: أخَذَهُ من حيث لم يدرِ. قالوا: والغَوْل:\nبُعْدُ المَفَازَة، لأنَّهُ يغتالُ من مَرَّ به. قال:\nبه تمَطَّتْ غَوْلَ كلِّ مِيلَهِ (٣)\nوالغُول من السَّعالى سمِّيت لأنها تغتال. والغِيلة: الاغتيال، والياء واوٌ فى الأصل. والمِغْوَل: سيفٌ دقيق له قَفاً؛ وأظنه سمِّى مِغْوَلاً لأنَّهُ يُسْتَرُ بقرابٍ حتى لا يُدرى ما فيه. واللّه أعلم.",
+ "az": "[غول] (ğə-və-lam) - الغين (ğeyn), الواو (vav) və اللام (lam) hiylə ilə yanaşmağa və hiss edilmədən tutmağa dəlalət edən səhih bir əsasdır. Belə deyilir: ğaləhu yəğuluhu (غالَهُ يَغُوله): onu hiss olunmadan tutdu. Dedilər ki, əl-ğəvl (الغَوْل): səhranın uzaqlığıdır, çünki o, ordan keçəni ələ keçirir (milyonlarla təhlükə törədir). Şair demişdir:\nبه تمَطَّتْ غَوْلَ كلِّ مِيلَهِ (٣)\n(Onda o, hər milinin məsafəsini uzatdı)\n\nVə səəlalərdən olan ğul (الغُول) ona bu ad ona görə verilmişdir ki, o, qəflətən tutub məhv edir. Və əl-ğilət (الغِيلة): qəflətən məhv etmədir, və y hərf əslində vavdır. Və əl-miğvəl (المِغْوَل): arxası olan incə qılıncdır; güman edirəm ki, ona miğvəl adı verilmişdir ki, o, qını ilə gizlədilsin və içində nə olduğu bilinməsin. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

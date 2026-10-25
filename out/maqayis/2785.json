@@ -1,0 +1,17 @@
+{
+ "i": 2785,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عزف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 306,
+  "page_to": 306
+ },
+ "ar": "العين والزاء والفاء أصلانِ صحيحان، أحدهما يدلُّ على الانصراف عن الشَّئ، والآخر على صوتٍ من الأصوات.\nفالأوَّل قول العرب: عَزَفت عن الشَّئ إذا انصرفتَ عنه. والعَزُوف:\nالذى لا يكاد يثبُت على خُلَّة خليل قال:\nألم تعلمى أنِّى عزوفٌ عن الهوى … إذا صاحبى فى غير شئ تغضَّبا (١)\nوقال الفَرزدق:\nعزَفْتَ بأعشاشِ وما كدتَ تعزِفُ (٢)\nوالأصل الثانى: العَزِيف: أصوات الجِنّ. ويقال إنّ الأصل فى ذلك عَزْف الرِّياح، وهو صوتُها ودَوِيُّها. وقال فى عَزيف الجِنّ:\nوإنِّى لأجتاز الفلاةَ وبينها … عوازفُ جِنَّان وهامٌ صواخِدُ (٣)\nويقال: إنّ أَبْرَق العَزّافِ سمِّى بذلك، لما يقال أنّ به جِنَّا. واشتُقَّ من هذا العَزْف فى اللَّعِب والمَلاهى.",
+ "az": "[عزف] (eyn, zay və fa) iki səhih əsasdır; biri bir şeydən üz döndərməyə, digəri isə səslərdən bir səsə dəlalət edir.\n\nBirincisi ərəblərin bu sözüdür: «عَزَفت عن الشَّئ» - bir şeydən üz döndərdikdə, uzaqlaşdıqda. «العَزُوف» - dostun xislətinə demək olar ki, heç vaxt sadiq qalmayan kəs. (Şair) demişdir:\nMəgər bilmədinmi ki, mən istəkdən uzaq duranam... dostum hər hansı bir səbəbdən qəzəblənəndə.\n\nVə Fərzəq demişdir:\nSən Əşşasda olanda (sevda bütündən) üz döndərdin, halbuki az qala üz döndərməzdin.\n\nİkinci əsas: «العَزِيف» - cinlərin səsləri. Deyirlər ki, burada əsas küləyin əsməsi, yəni onun səsi və uğultusudur. Cinlərin səsi barəsində demişdir:\nVə mən elə bir səhrai keçirəm ki, onun arasında... cinlərin səsləri və qışqıran bayquşlar var.\n\nVə deyilir ki, «أَبْرَق العَزّاف» (Əzzaf çölü) ora şamil edilən cinlərə görə belə adlandırılmışdır. Oyun və əyləncələrdəki musiqi aləti çalmaq («عَزْف») də bundan götürülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:07.475Z"
+}

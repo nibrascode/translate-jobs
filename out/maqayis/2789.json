@@ -1,0 +1,17 @@
+{
+ "i": 2789,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عزوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 309,
+  "page_to": 310
+ },
+ "ar": "العين والزاء والحرف المعتل أصلٌ صحيحٌ يدلُّ على الانتماء والاتِّصال.\nقال الخليل: الاعتزاء: الاتِّصال فى الدَّعوى إذا كانت حربٌ، فكلّ من ادَّعى فى شعاره فقد اعتَزَى، إذا قال أنا فلانُ بنُ فلان فقد اعتَزَى إليه. و\nفى الحديث: «مَنْ تَعزَّى بعَزَاء الجاهليَّة فَأَعِضُّوه». وهو أن يقول يال فلان. قال:\nفلما التقتْ فُرسانُنا ورجالُهم … دَعَوْا يا لَكَعبٍ واعتَزَيْنا لعامِرِ (٤)\nوقال آخَر:\nفكيفَ وأصْلى من تميمٍ وفرعُها … إلى أصل فَرعى واعتزائى اعتزاؤها\nفهذا الأصل. وأمّا قولهم: عَزىَ الرّجلُ يَعْزَى عَزاءً، وإنه لَعَزىٌّ (١) أى صبور، إذا كان حسَنَ العزاء على المصائب، فهذا من الأصل الذى ذكرناه، ولأنَّ معنى التعزِّى هو أن يتأسَّى بغيره فيقول: حالى مثلُ حالِ فلان. ولذلك قيل: تأسَّى، أى جعل أمرَه أُسوة أمرِ غيره. فكذلك التعزِّى. وقولك عَزّيتُه، أى قلتُ له انظُرْ إلى غيرك ومن أصابَه مثلُ ما أصابك. والأصل هذا الذى ذكرناه.",
+ "az": "[عزوى] (Əyn, zay və hərfi-mötəl) — mənsubiyyətə və əlaqəyə dəlalət edən səhih bir kökdür. Xəlil demişdir: Əl-itiza (الاعتزاء) — müharibə vaxtı çağırışda (şüarda) əlaqə qurmaqdır; kim öz şüarında bir iddia irəli sürərsə, demək, o, etiza etmişdir (nisbət vermişdir). Əgər desə ki, mən filankəs oğlu filankəsəm, demək, o, özünü ona nisbət etmişdir. Hədisdə buyurulmuşdur: «مَنْ تَعزَّى بعَزَاء الجاهليَّة فَأَعِضُّوه» (Kim cahiliyyət çağırışı ilə öyünərsə, ona atasının cinsiyyət orqanını dişləməyi əmr edin - yəni təhqir edin). Bu, \"Ya filankəsin övladları!\" deməkdir. O demişdir: \"Fərsanlarımız və kişilərimiz qarşılaşdıqda... Ya Kəb deyə çağırdılar, biz də Ya Əmir deyə nisbət etdik\" (٤). Başqası da demişdir: \"Necə ola bilər ki, mənim əslim Təmimdəndir, budağım isə mənim kökümə və mənim nəsəb-əlaqəm onun nəsəb-əlaqəsidir...\" Bu, əsas kökdür. Amma onların: «عَزىَ الرّجلُ يَعْزَى عَزاءً» — kişi səbirli oldu və o, əziyyətə qarşı «عَزِيٌّ»-dir, yəni müsibətlər qarşısında gözəl səbir nümayiş etdirəndir, sözünə gəldikdə, bu da yuxarıda qeyd etdiyimiz kökdəndir. Çünki ət-təazzi (التعزِّى) — başqasını örnək alaraq \"mənim də halım filankəsin halı kimidir\" deməkdir. Məhz buna görə də «تأسَّى» (təsəlli tapdı) deyilmişdir, yəni öz işini başqasının işinə örnək etdi. Eləcə də ət-təazzi (başsağlığı vermək, səbir diləmək) belədir. Sənin «عَزّيتُه» sözün isə — ona \"başqasına bax və sənə gələn müsibətin eynisi başqasına da üz vermişdir, onu gör\" deməyindir. Əsas kök məhz bu qeyd etdiyimizdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:30.136Z"
+}

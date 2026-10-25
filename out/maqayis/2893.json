@@ -1,0 +1,17 @@
+{
+ "i": 2893,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غيب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "الغين والياء والباء أصلٌ صحيح يدلُّ على تستُّر الشئ عن العُيون، ثم يقاس. من ذلك الغَيْب: ما غَابَ (١)، ممّا لا يعلمه إلا اللّه. ويقال:\nغابت الشَّمس تَغِيب غَيْبَةً وغُيُوباً وغَيْباً. وغابَ الرَّجل عن بلده. وأغابَتِ المرأةُ فهى مُغِيبةٌ، إذا غابَ بعلُها. ووقَعْنا فى غَيْبَةٍ وغَيَابة، أى هَبْطة من الأرض يُغابُ فيها. قال اللّه تعالى فى قصة يُوسُفَ ﵇: ﴿وَأَلْقُوهُ فِي غَيابَتِ اَلْجُبِّ﴾. والغابة: الأجَمة، والجمع غاباتٌ وغابٌ. وسمِّيت لأنّه يُغاب فيها. والغِيبة: الوَقيعة فى النّاس من هذا، لأنَّها لا تقال إلاّ فى غَيْبَة.",
+ "az": "[غيب] (ğə-ya-ba) - الغين (ğeyn), الياء (yə) və الباء (ba) bir şeyin gözlərdən örtülməsinə dəlalət edən səhih bir əsasdır, sonra ona qiyas edilir. Bunlardan əl-ğeyb (الغَيْب): Allahdan başqasının bilmədiyi, [insanlardan] qeyb olan şeydir. Belə deyilir: ğabət əş-şəmsu təğibu ğəybətən və ğuyubən və ğəyban (غابت الشَّمْسُ تَغِيب غَيْبَةً وغُيُوباً وغَيْباً). Və kişi öz ölkəsindən ğab oldu (qeyb oldu). Və qadın əğabət (أغابَتِ), o, muğibədir (مُغِيبة), o zaman ki, ərə qeyb oldu (əri yoxdur/uzaqdadır). Və biz ğəybət və ğəyabədə (غَيْبَةٍ وغَيَابة) düşdük, yəni içində gizlənmək mümkün olan yerin çökəkliyində. Uca Allah Yusif ﵇ qissəsində buyurmuşdur: mənaca tərcümə: ﴿وَأَلْقُوهُ فِي غَيابَتِ اَلْجُبِّ﴾ (Onu quyunun dibinə atsınlar). Və əl-ğabət (الغابة): meşəlikdir, cəmi ğabatun və ğabun (غاباتٌ وغابٌ) gələr. Ona bu ad ona görə verilmişdir ki, orada gizlənilir. İnsanları qeybətdə çeynəmək olan əl-ğibət (الغِيبة) də bundandır, çünki o, yalnız [insanın] yoxluğunda (ğəybətində) delicəsinə deylir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

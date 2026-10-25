@@ -1,0 +1,17 @@
+{
+ "i": 2978,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 440,
+  "page_to": 440
+ },
+ "ar": "الفاء والصاد كلمةٌ تدلُّ على فَصْل بين شيئين. من ذلك الفُصُوصُ، هى مفاصِلُ العظامِ كلِّها - قال أبو عبيد: إلاّ الأصابع - واحدها فَصّ.\nومن هذا الباب: أفْصَصت إليه من حقِّه شيئاً، كأنَّكَ فصَلْتَه عنك إليه. وفَصَّ الجُرْحُ: سال.\nومما يقارِبُ هذا: الفَصُّ: فَصُّ الخاتَم. وسمِّى بذلك لأنَّه ليس من نَفس الخاتَم، بل هو مُلْصَقٌ به. فأمَّا فَصُّ العَينِ فحدَقتُها على معنى التَّشْبيه.",
+ "az": "[فص] الفاء والصاد (fa və sad) iki şey arasında ayrılığa dəlalət edən kəlmədir. Bunlardan biri əl-fususu (الفُصُوصُ), bütün sümüklərin oynaqlarıdır — Əbu Übeyd demişdir: barmaqlar istisna olmaqla — təkliyi fəssdir (فَصّ). Bu qapıdandır: əfsas-tu iləyhi min həqqihi şəyən (أفْصَصت إليه من حقِّه شيئاً), sanki haqqından bir hissəni ayırıb ona tərəf verdin. Və fəssəl-curhu (فَصَّ الجُرْحُ): yara axdı. Buna yaxın olan: əl-fəss (الفَصُّ): üzük qaşı. O, belə adlandırılmışdır, çünki üzüyün özündən deyil, əksinə ona yapışdırılmışdır. Qaldı ki, gözün fəssinə gəlincə (فَصُّ العَينِ), bənzətmə yoluyla onun bəbəyidir (və ya göz qabarıqlığıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.195Z"
+}

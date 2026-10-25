@@ -1,0 +1,17 @@
+{
+ "i": 2805,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 321,
+  "page_to": 321
+ },
+ "ar": "العين والشين والميم أصلٌ يدلُّ على يُبْسٍ فى شَئٍ وقُحول.\nمن ذلك الخُبْز العاشم: الذى يَبِس. ويقولون للشيخ: عَشَمَة. ومن * غير ذلك القياس العَيْشُوم، وهو نبتٌ. قال:\nكما تناوَحَ يَومَ الرِّيحِ عَيشومُ (٣)",
+ "az": "[عشم] (eyn, şin və mim) bir şeydə quruluğa və susuzluğa dəlalət edən kökdür. Bunlardan biri qurumuş çörək mənasında الخُبْز العاشم (əl-xubz əl-aşim) sözüdür. Qoca kişiyə عَشَمَة (əşəmə) deyirlər. Bu ölçüdən kənar olan isə bir bitki növü olan العَيْشُوم (əl-eyşum) sözüdür. [Şair] demişdir: كما تناوَحَ يَومَ الرِّيحِ عَيشومُ (٣) (Küləkli gündə bir-birinə söykənən eyşum bitkisi kimi...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:32:09.592Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2791,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عزر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 311,
+  "page_to": 311
+ },
+ "ar": "العين والزاء والراء كلمتان: إحداهما التَّعظيم والنَّصر، والكلمة الأخرى جنسٌ من الضَّرب.\nفالأولى النَّصر والتوقير، كقوله تعالى: ﴿وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ﴾.\nوالأصل الآخر التَّعزير، وهو الضرب دون الحدّ. قال:\nوليس بتعزير الأمير خَزايةٌ … علىَّ إذا ما كنتُ غيرَ مريبِ (١)",
+ "az": "[عزر] (Əyn, zay və ra) — iki sözdür: biri uca tutmaq və zəfər vermək, digəri isə bir növ döyməkdir. Birincisi qələbə qazandırmaq və ehtiram göstərməkdir, Uca Allahın buyurduğu kimi: «وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ» (mənaca tərcümə: «...ona kömək edəsiniz, onu uca tutasınız»). Digər kök isə ət-tazirdir (التَّعزير), o da hədd cəzasından aşağı səviyyədə olan döymək cəzasıdır. O demişdir: \"Əmirin təzir etməsi, əgər mən günahsızamsa, mənim üçün heç bir rüsvayçılıq deyil\" (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:30.136Z"
+}

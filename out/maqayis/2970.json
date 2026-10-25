@@ -1,0 +1,17 @@
+{
+ "i": 2970,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 437,
+  "page_to": 437
+ },
+ "ar": "الفاء والحاء كلمةٌ واحدةٌ، وهو الفَحيح: صوتُ الأفعى.\nقال:\nكَأنَّ نَقيقَ الحَبِّ فى حاويائِهِ … فَحِيحُ الأفاعى أو نقيقُ العقاربِ (٢)",
+ "az": "[فح] الفاء والحاء (fa və hə) tək bir kəlmədir, o da fəhihdir (الفَحيح): ilanın səsi. Şair demişdir: كأنَّ نَقيقَ الحَبِّ فى حاويائِهِ … فَحِيحُ الأفاعى أو نقيقُ العقاربِ (٢) (Sanki onun qarın boşluğundakı dən səsi... ilanların fısıltısı və ya əqrəblərin səslənməsidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.194Z"
+}

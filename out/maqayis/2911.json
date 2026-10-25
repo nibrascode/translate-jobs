@@ -1,0 +1,17 @@
+{
+ "i": 2911,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غبث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 411,
+  "page_to": 411
+ },
+ "ar": "الغين والباء والثاء ليس بشئ. وذكروا عن الفَرّاء أنَّه قال: غَبَثَت الأقط مثل عَبَثْته.",
+ "az": "[غبث] الغين والباء والثاء ليس بشئ (ğeyn, ba və sə hərfləri heç bir şey deyil). وذكروا عن الفَرّاء أنَّه قال: غَبَثَت الأقط مثل عَبَثْته (Fərradan rəvayət etmişlər ki, o demişdir: ğəbəth əl-əqt - əbəth əl-əqt kimidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:47.719Z"
+}

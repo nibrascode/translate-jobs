@@ -1,0 +1,17 @@
+{
+ "i": 2827,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عطب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 354,
+  "page_to": 354
+ },
+ "ar": "العين والطاء والباء كلمتانِ لا تتقاربان فى المعنى.\nفالأولى: العَطَب، وهو الهلاك، يقال عَطِب، وأعْطَبه غيرُه.\nوالكلمة الأخرى: العُطْب، وهو القُطْن.",
+ "az": "[عطب] (ə-t-b): العين (eyn), الطاء (ta) və الباء (ba) – mənaca bir-birinə yaxın olmayan iki kəlmədir.\nBirincisi: العَطَب (əl-atəb) – həlak olmaqdır. Deyilir: عَطِب (atib oldu - həlak oldu), başqası isə onu أعْطَبَه (iətb etdi - həlak etdi).\nDigər kəlmə: العُطْب (əl-utb) – pambıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:34:13.356Z"
+}

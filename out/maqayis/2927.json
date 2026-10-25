@@ -1,0 +1,17 @@
+{
+ "i": 2927,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 418,
+  "page_to": 419
+ },
+ "ar": "الغين والراء والقاف أصلٌ واحد صحيح يدلُّ على انتهاء فى شئ يبلغ أقصاه. من ذلك الغَرَق فى الماء. والغَرِقة: أرضٌ (٢) تكون فى غاية الرِّىّ. واغْرَوْرَقت العينُ والأرض من ذلك أيضاً، كأنها قد غَرِقت فى دمعها.\nومن الباب: أغرَقْتُ فى القَوس: [مدَدتُها] غايةَ المدّ. واغْتَرَق الفرسُ فى الخيل، إذا خالَطَها ثم سَبَقَها.\nومما شذَّ عن هذا الباب الغُرْقة من اللَّبن: قدر ثُلث الإناء، والجمع غُرَق. قال:\nتُضْحِى وقد ضَمِنت ضَرَّاتها غُرَقاً … من طيِّب الطَّعم حلوٍ غير مجهودٍ (١)",
+ "az": "«غرق» (ğəriqə): الغين، Rə və Qaf hərflərindən ibarət tək bir səhih təməl olub, həddini aşan bir şeydə son həddə çatmağa dəlalət edir. O cümlədən su içində boğulmaq (الغَرَق). Və əl-ğərigə (الغَرِقة): tam doymuş (su yerinə oturmuş) torpaq. Və gözün və torpağın yaşarması (اغْرَوْرَقَت العينُ والأرض) də elə bundandır, sanki o, göz yaşları içində boğulmuşdur. Və bu fəsildəndir: أغرَقْتُ فى القَوس (kamamı [gəirdim] son həddə qədər çəkdim). Və اغْتَرَق الفرسُ فى الخيل (at atların içinə qarışdı, sonra onları ötüb keçdi). Və bu fəsildən kənarda qalan (şəzz) budur: əl-ğürqə (الغُرْقة) süddən: qabın təxminən üçdə biri qədər miqdar, cəmi ğürəqdir (غُرَق). O demişdir: تُضْحِى وقد ضَمِنت ضَرَّاتها غُرَقاً … من طيِّب الطَّعم حلوٍ غير مجهودٍ (١) (O səhər açır və digər ana dəvələr onun tuluqlarında yorulmadan əldə edilmiş şirin, dadlı süddən paylar qarantiya etmişlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.190Z"
+}

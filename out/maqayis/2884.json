@@ -1,0 +1,17 @@
+{
+ "i": 2884,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 399,
+  "page_to": 399
+ },
+ "ar": "الغين والهاء والباء أصلٌ صحيح يدلُّ على ظَلامٍ وقِلّة ضياء، ثم يُستعار. فالغَيْهَب: الظُّلمة. يقال للأدهم من الخَيل الشَّديد الدُّهمة: غَيْهَب.\nويستعار هذا فيقال للغَفْلة عن الشَّئ: غَهَبٌ. يقال: غَهِبَ عنه، إذا غَفَل.",
+ "az": "[غهب] الغين والهاء والباء (eyn, hə və ba) qaranlığa və işığın azlığına dəlalət edən səhih bir kökdür, sonra məcazi olaraq işlədilir. «الغَيْهَب» (ğeyhəb) — qaranlıq. Atların çox qara olanına «غَيْهَب» (ğeyhəb) deyilir. Bu, məcazi olaraq bir şeydən xəbərsiz olmağa da işlədilir və «غَهَبٌ» (ğəhəb) deyilir. Deyilir: «غَهِبَ عنه» — ondan xəbərsiz oldu, qafil oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

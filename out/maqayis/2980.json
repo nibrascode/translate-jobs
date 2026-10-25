@@ -1,0 +1,17 @@
+{
+ "i": 2980,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 441,
+  "page_to": 441
+ },
+ "ar": "الفاء والظاء كلمةٌ تدلُّ على كراهةٍ وتكرُّه. من ذلك الفَظ:\nماء الكَرِش. وافتُظَّ الكرِش، إذا اعتُصِر. قال الشاعر (١):\nفكانوا كأنْفِ اللَّيث لا شَمَّ مَرْغَماً … وما نال فَظَّ الصَّيد حَتَّى يُعفِّرا (٢)\nقال بعضُ أهل اللُّغة: إنَّ الفَظاظةَ من هذا. يقال رجلٌ فظٌّ: كريه الخُلُق.\nوهو من فَظِّ الكَرِش، لأنه لا يُتناول إلاَّ ضرورةً على كراهة. ويقولون:\nالفَظِيظ: ماء الفَحْل.",
+ "az": "[فظ] الفاء والظاء (fa və zə) ikrah və xoşagəlməzliyə dəlalət edən kəlmədir. Bunlardan biri əl-fəzzdir (الفَظّ): qarın (mədə) suyu. İftuztəl-kəriz (افتُظَّ الكرِش), o sıxıldığı zaman. Şair demişdir (1): فكانوا كأنْفِ اللَّيث لا شَمَّ مَرْغَماً … وما نال فَظَّ الصَّيد حَتَّى يُعفِّرا (٢) (Onlar şirin burnu kimi idilər, burnunu belə qoxulamadı... və ovun fəzini (suyunu) o torpağa bulanmayınca əldə etmədi). Dil alimlərindən bəziləri demişdir ki, fəzazət (الفظاظة) bundan irəli gəlir. Deyilir: raculun fəzzun (رجلٌ فظٌّ): xasiyyəti pis olan. Bu, mədənin fəzzindən götürülmüşdür, çünki o, ancaq zərurətdən və ikrahla əldə edilir. Deyirlər: əl-fəziz (الفَظِيظ): erkək heyvanın suyu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.195Z"
+}

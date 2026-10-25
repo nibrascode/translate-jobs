@@ -1,0 +1,17 @@
+{
+ "i": 2858,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 387,
+  "page_to": 387
+ },
+ "ar": "الغين واللام والميم أصلٌ صحيحٌ يدلُّ على حَداثةٍ وهَيْجِ شَهوة. من ذلك الغُلام، هو الطارُّ الشَّاربِ (٢). وهو بيِّنُ الغُلومِيّة والغُلُومة، والجمع غِلْمةٌ وغِلْمان. ومن بابه: اغتَلَم الفَحلُ غُلمةً: هاج من شَهوة الضِّراب.\nوالغَيْلَم: الجارية الحَدَثة. والغَيْلَم: الشابُّ. والغَيْلَم: ذكر السَّلاحِف. وليس بعيداً أن يكون قياسُه قياسَ الباب.",
+ "az": "[غلم] (ğ-l-m): Ğeyn, lam və mim düzgün bir əsas olub, gəncliyə və ehtirasın coşmasına dəlalət edir. Bunlardan biri «الغُلام» (oğlan, gənc) olub, bığ yeri tər gələn kimsədir (٢). Onun gəncliyi «الغُلُومِيَّة» və «الغُلُومة» olaraq açıq-aydın görünür, cəmi isə «غِلْمة» və «غِلْمان» gəlir. Bu qbildəndir: «اغتَلَم الفَحلُ غُلمةً» — damazlıq erkək heyvan cütləşmək ehtirasından coşdu.\n\n«الغَيْلَم» — gənc cariyə. «الغَيْلَم» — gənc oğlan. «الغَيْلəm» — dişi tısbağa. Bunun müqayisə edilməsi bu qapının (qaydanın) ölçüsündən uzaq deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:20.954Z"
+}

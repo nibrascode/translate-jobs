@@ -1,0 +1,17 @@
+{
+ "i": 2876,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غمض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 395,
+  "page_to": 396
+ },
+ "ar": "الغين والميم والضاد أصلٌ صحيح يدلُّ على تطامُنٍ فى الشَّئ وتداخُل. فالغَمْض: ما تطامَنَ من الأرض، وجمعه غُموض. ثم يقال: غَمَض الشَّئُ من العِلم وغيرِه، فهو غامض. ودارٌ غامضةٌ، إذا لم تكن شارعةً بارزة.\nونسبٌ غامضٌ: لا يُعرَف. وغمّض عينه وأغمَضَها بمعنًى. وهو قياس الباب.\nويقال: ما ذُقْتُ غُمْضاً من النَّوم ولا غَماضاً، أى كقدر ما تُغمَض فيه العين.\nويقال: أغْمِضْ لى فيما بِعتَنى، كأنَّك تزيدُ الزِّيادةَ منه لرداءته والحطَّ من ثمنه.\nوهو أيضاً من إغماض العَين، أى اتركْه كأنَّك لا تراه. والمغَمِّضات: الذُّنوب يركبها الرَّجلُ وهو يَعرِفَها لكنّه يغمّض عنها كأنّه لم يَرَها. ويقال:\nغُمَّضَت النّاقةُ، إذا رُدَّت عن الحَوض فحَمَلَت على الذَّائد مُغمِّضة عينَيْها فورَدَتْ. قال أبو النجم:\nيُرسِلُها التَّغميضُ إن لم تُرسَل (١)\nوأغْمَضْت حدَّ السَّيف، إذا رقّقته، أى كأنَّك لرقَّته أخفيتَه عن العُيون.",
+ "az": "[غمض] الغين والميم والضاد (eyn, mim və dad) səhih bir kök olub, bir şeydə alçalmağa və bir-birinə qarışmağa dəlalət edir. «الغَمْض» (ğəmd) — yerin alçaq olan hissəsidir, cəmi «غُموض» (ğumuz) gəlir. Sonra deyilir: «غمض الشيء من العلم وغيره» (Elmdən və başqa şeydən olan məsələ gizli/müşkül oldu), demək o, «غامض» (ğamid - qaranlıq, çətin) oldu. «دار غامضة» (gizli ev) — açıq və göz önündə olmayan ev. «نسب غامض» (naməlum nəsil) — tanınmayan. «غمّض عينه» və «أغمضها» eyni mənadadır (gözünü yumdu). Bu, bu qapının əsas ölçüsüdür. Deyilir: «ما ذُقْتُ غُمْضاً من النّوم ولا غَماضاً» (Yuxudan nə bir göz qırpımı, nə də bir az belə dincəlmədim), yəni gözün yumulduğu qədər (belə yuxu dadmadım). Deyilir: «أغْمِضْ لى فيما بِعتَنى» (Mənə satdığın şeydə güzəşt et/göz yum), sanki onun keyfiyyətsizliyinə görə və qiymətini aşağı salmaqla ona artıqlıq edirsən. Bu da həmçinin göz yummaq mənasındandır, yəni onu elə tərk et ki, sanki onu görmürsən. «المغَمِّضات» (Müğəmmidat) — o günahlardır ki, insan onları törədir, halbuki onların nə olduğunu bilir, lakin sanki onları görməmiş kimi onlara göz yumur. Deyilir: «غُمَّضَت النّاقةُ» (dəvənin gözləri yumuldu), su hovuzundan qaytarıldıqda, dəvə gözlərini yumaraq suvaran şəxsin üzərinə hücum etdi və suya gəlib çıxdı. Əbu Nəcm demişdir: Əgər buraxılmasa, göz yummaq onu göndərər (١). Və «أغْمِضْت حدَّ السَّيف» (qılıncın kəsəriyini incəltdin), yəni onun incəliyindən sanki onu gözlərdən gizlətdin.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

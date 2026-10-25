@@ -1,0 +1,17 @@
+{
+ "i": 2819,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عضو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 347,
+  "page_to": 347
+ },
+ "ar": "العين والضاد والحرف المعتل أصلٌ واحدٌ يدلُّ على تجزئةِ الشَّئ. من ذلك العِضْو والعُضْو. والتَّعضية: أن يُعَضِّىَ الذّبيحة أعضاء. والعِضَةُ:\nالقِطعة من الشئ، تقول: عَضّيْتُ الشئ أى وزَّعته. قال رؤبة:\nوليس دينُ اللّه بالمُعَضَّى (٢)\nأى بالمفرَّق. قال الخليل: وقوله تعالى: ﴿اَلَّذِينَ جَعَلُوا اَلْقُرْآنَ عِضِينَ﴾ أى عِضَة عِضة، ففرَّقوه، آمنوا ببعضه وكَفَرُوا ببعضه. والاسم منه التَّعضية. ومنه\nالحديث: «لا تَعْضِيَةَ فى ميراث». أى لا تَقسِموا ما [لا] يحتمل القَسْم كالسَّيف والدِّرَّة وما أَشبَهَ ذلك.",
+ "az": "«عضو» (eyn, dad və zəif hərf) – şeyin hissələrə bölünməsinə dəlalət edən tək bir əsasdır. Bunlardan عِضْو (üzv, əza) və عُضْو (üzv, əza) gəlir. التَّعضية (hissələrə ayırma) – qurbanlıq heyvanı üzvlərə (hissələrə) ayırmaqdır. العِضَةُ (parça, hissə) – şeyin bir parçasıdır; deyirsən: عَضّيْتُ الشئ (şeyin əzasını ayırdım, yəni onu payladım). Rübə həmçinin demişdir: وليس دينُ اللّه بالمُعَضَّى (Allahın dini bölünmüş deyildir) – yəni parçalanmış deyildir. Xəlil demişdir: Uca Allahın ﴿اَلَّذِينَ جَعَلُوا اَلْقُرْآنَ عِضِينَ﴾ kəlamı – yəni onu hissə-hissə (parça-parça) etdilər, deməkdir; belə ki, onu parçaladılar, bir hissəsinə inandılar, bir hissəsini isə inkar etdilər. Bundan törəyən ad التَّعضية (parçalama) sözüdür. Hədisdə də belə gəlmişdir: «لا تَعْضِيَةَ فى ميراث» (Mirasda hissələrə bölüb ayırmaq yoxdur). Yəni bölünməsi mümkün olmayan şeyləri, məsələn, qılıncı, qamçını və buna bənzər şeyləri bölməyin.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:33:56.970Z"
+}

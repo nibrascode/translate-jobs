@@ -1,0 +1,17 @@
+{
+ "i": 2919,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غدق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 415,
+  "page_to": 415
+ },
+ "ar": "الغين والدال والقاف أصلٌ صحيح يدلُّ على غُزْر وكثرةٍ ونَعْمَة. من ذلك الغَدَق، وهو الغَزير الكثير. قال اللّه تعالى:\n﴿لَأَسْقَيْناهُمْ ماءً غَدَقاً﴾. والغَدَق (١) والغَيْدَاق: النَّاعم من كلِّ شئ. ويقال غَدِقت عين الماء تَغْدَق غَدَقاً. والغَيْداق: الرَّجلُ الكريم الخُلُق. وزعَم ناسٌ أنَّ الضبَّ يسمَّى غَيداقاً، ولعلّ ذلك لا يكون إلاّ لسِمَن ونَعْمةٍ فيه.",
+ "az": "«غدق» (ğədəqə): الغين، الدال والقاف أصل صحيح يدلُّ على غُزْر وكثرةٍ ونَعْمَة (bolluğa, çoxluğa və nemətə dəlalət edən səhih təməldir). ومن ذلك الغَدَق (əl-ğədəq): bol və çox. Uca Allah buyurmuşdur: مənaca tərcümə: «Onları bol su ilə suvarardıq» (﴿لَأَسْقَيْناهُمْ ماءً غَدَقاً﴾). Və əl-ğədəq (١) ilə əl-ğeydaq (الغَيْدَاق): hər şeyin təravətlisi. Deyilir: غَدِقت عين الماء تَغْدَق غَدَقاً (bulağın gözü bol su verdi). Və əl-ğeydaq: xasiyyəti kərim, alicənab kişi. Bəzi insanlar iddia etmişlər ki, kərtənkələn (ضبّ) ğeydaq adlandırılır, ola bilsin ki, bu, yalnız onda olan köklük və nemətdən irəli gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:12.189Z"
+}

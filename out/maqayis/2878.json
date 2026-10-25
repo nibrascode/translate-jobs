@@ -1,0 +1,17 @@
+{
+ "i": 2878,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غمق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 396,
+  "page_to": 396
+ },
+ "ar": "الغين والميم والقاف كلمةٌ واحدة، وهى الغَمَق: كثْرة النَّدى. يقال أرضٌ غَمِقَةٌ، ونباتٌ غمق. وليلةٌ غَمِقَة: لثِقة.",
+ "az": "[غمق] الغين والميم والقاف (eyn, mim və qaf) bir kəlmədir, o da «الغَمَق» (ğəməq) — nəm və rütubətin çoxluğudur. Deyilir: «أرض غَمِقَةٌ» (nəm torpaq) və «نبات غمق» (rütubətli bitki). «ليلة غَمِقَةٌ» (rütubətli gecə) — nəmgecə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

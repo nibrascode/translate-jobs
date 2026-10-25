@@ -1,0 +1,17 @@
+{
+ "i": 2879,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 396,
+  "page_to": 397
+ },
+ "ar": "الغين والميم واللام أُصَيْلٌ يدلُّ على ضِيقٍ فى الشئ وغُموض.\nيقال لِمَا ضاقَ من الأودية: غُمْلُول. واشتُقَّ من هذا: غَمَلْتُ الأدِيمَ،\nإذا غَمَمْتَه ليتفَسَّخَ عنه صوفُه. وهو غَمِيلٌ. ويقال: الغُمْلُول: كلُّ ما اجتَمَع من شجرٍ، أو غمام، أو ظُلْمة، حتَّى تسمَّى الزَّاوية غُملولا. واللّه أعلم بالصَّواب.",
+ "az": "[غمل] الغين والميم واللام (eyn, mim və lam) kiçik bir kök olub, bir şeyin dar olmasına və qaranlığına/gizliliyinə dəlalət edir. Vadilərdən dar olanına «غُمْلُول» (ğumlul) deyilir. Bundan törədilmişdir: «غَمَلْتُ الأدِيمَ» (dərini yumşaltdım), yəni yunu asanlıqla qopsun deyə dərinin üzərini örtüb dincə qoydun. O, «غَمِيلٌ» (ğəmil) adlanır. Deyilir: «الغُمْلُول» (ğumlul) — ağacdan, buluddan və ya qaranlıqdan yığılıb bir araya gələn hər bir şeydir, hətta künc də «ğumlul» adlanmışdır. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

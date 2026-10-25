@@ -1,0 +1,17 @@
+{
+ "i": 2933,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غرث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 422,
+  "page_to": 422
+ },
+ "ar": "الغين والراء والثاء أصلٌ صحيح يدلُّ على الجُوع.\nوالغَرَث: الجوع. ورجلٌ غَرْثانُ. ويستعيرون هذا فيقولون: جاريةٌ غَرْثَى الوِشاح، لأنَّها دقيقةُ الخَصْرِ لا يُملَأ وِشاحُها، وكأنَّ وِشاحَها غَرثان.",
+ "az": "[غرث] الغين والراء والثاء أصلٌ صحيح يدلُّ على الجُوع. والغَرَث: الجوع. ورجلٌ غَرْثانُ. ويستعيرون هذا فيقولون: جاريةٌ غَرْثَى الوِشاح، لأنَّها دقيقةُ الخَصْرِ لا يُملَأ وِشاحُها، وكأنَّ وِشاحَها غَرثان. \nGeyn, ra və sə səhih bir kök olub, aclığa dəlalət edir. الغَرَث (əl-ğaras) – aclıqdır. ورجلٌ غَرْثانُ (raculun ğarsan) – ac kişi. Onlar bunu məcazi mənada işlədərək deyirlər: جاريةٌ غَرْثَى الوِشاح (cariyətun ğarsal-vişah – kəməri boş qalan/qarnı incə cariyə), çünki o, incəbellidir, kəməri (və ya boyunbağısı) dolmur, sanki onun kəməri acdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2869,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غمى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 392,
+  "page_to": 392
+ },
+ "ar": "الغين والميم والحرف المعتلّ يدلُّ على تغطيةٍ وتغْشِيَة. من ذلك:\nغَمَيْتُ البيتَ، إذا سقَّفتَه، والسَّقفُ غِماءٌ. ومنه أُغمِىَ [على] المريض فهو مغمًى عليه، إذا غُشِىَ عليه.",
+ "az": "[غمى] (ğ-m-y): Ğeyn, mim və uzanan hərf örtməyə və bürüməyə dəlalət edir. Bunlardandır: «غَمَيْتُ البيتَ» — evi tavanladım, tavan isە «غِماءٌ» adlanır. Həmçinin: «أُغمِىَ [على] المريض فهو مغمًى عليه» — xəstənin halı pisləşdi, huşunu itirdi, yəni üzərinə pərdə çəkildi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:20.954Z"
+}

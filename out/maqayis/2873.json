@@ -1,0 +1,17 @@
+{
+ "i": 2873,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غمز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 394,
+  "page_to": 394
+ },
+ "ar": "الغين والميم والزاء أصلٌ صحيح، وهو كالنَّخْس فى الشئ بشئ، ثم يُستعار. من ذلك: غَمَزْتُ الشّئ بيدى غمزاً. ثم يقال: غمزَ، إذا عَاب وذَكَر بغير الجميل. والمَغَامز: المعايب. وفى عقل فلانٍ غَمِيزةٌ، كأنَّه يُستضعَف. وممّا يستعار: غَمَزَ بجفنه: أشار. ومنه: غَمَزَ الدابةُ من رجله، كأنّه يغمز الأرضَ برجله.",
+ "az": "[غمز] الغين والميم والزاء (eyn, mim və zay) səhih bir kök olub, bir şeyi başqa bir şeylə dümsükləməyə bənzəyir, sonra məcazi olaraq işlədilir. Bunlardandır: «غمزت الشيء بيدي غمزا» (əl параметра ilə bir şeyi sıxdım/dümsüklədim). Sonra deyilir: «غمز» — eyib tutdu və xoş olmayan şəkildə zikr etdi. «المغامز» (məğamiz) — eyiblər. Filankəsin ağlında «غميزة» (ğəqizə - zəiflik/qüsur) vardır, sanki zəif hesab olunur. Məcazi olaraq işlədilənlərdəndir: «غمز بجفنه» (göz qapağı ilə işarə etdi). Həmçinin: «غمز الدابة من رجلتها» (heyvan ayağından ağrıdı/axsadı), sanki ayağı ilə yeri basır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

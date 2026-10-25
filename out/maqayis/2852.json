@@ -1,0 +1,17 @@
+{
+ "i": 2852,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الغين والطاء أُصَيلٌ صحيح فيه معنيان: أحدُهما صوتٌ، والآخر وقتٌ من الأوقات.\nفالأوّل: غطِيط الإنسانِ فى نومه. ومنه الغَطاط، وهى القَطَا، سمِّيت لصوتها غَطاطاً. قال:\nفأثار فارِطُهم غَطَاطاً جُثَّماً … أصواتُه كتَرَاطُنِ الفُرْسِ (١)\nوالأصل الآخر الغُطَاط، قال قومٌ: هو الصُّبح. وأنشدوا:\nقام إلى حمراء فى الغطَاطِ (٢)\nوقال آخرون: هو سَدَف الظلام. وقالوا فى بيتِ ابن أحمر (٣):\nأولَى الوَعَاوِع كالغُطاط المقْبِلِ (٤)\nمن فَتَحَ شبَّههم بالقَطَا، ومن ضمَّ فإنّه شبَّههم بسواد السّدَف كَثرة.\nوأمَّا غَطَطْتُه فى الماء فممكنٌ أن يكون ذلك الصَّوْتَ الذى يكون من الماء عندها، وممكنٌ أن يكون من سَدَف الظّلام، كأنّه سترتَه بالماء وغطّيته.",
+ "az": "[غط] الغين والطاء أُصَيلٌ صحيح فيه معنيان (Gheyn və ta hərflərində iki məna olan kiçik bir səhih kök vardır): أحدُهما صوتٌ (biri səs), والآخر وقتٌ من الأوقات (və digəri vaxtlardan bir vaxtdır). فألّول (birincisi): غطِيط الإنسانِ فى نومه (insanın yuxudakı xırıltısı, səsi). ومنه الغَطاط (və bundandır əl-ğatat), وهى القَطَا (və o, qəta quşlarıdır), سمِّيت لصوتها غَطاطاً (səsinə görə ğatat adlandırılmışdır). قال (şair demişdir): فَأثار فارِطُهم غَطَاطاً جُثَّماً … أصواتُه كتَرَاطُنِ الفُرْسِ (١) (Onların qabaqcıl dəstəsi yerə çökmüş qəta quşlarını qaldırdı... səsləri farsların anlaşılmaz danışığı kimidir). والأصل الآخر الغُطَاط (və digər kök əl-ğutatdır), قال قومٌ (bir qrup deyib): هو الصُّبح (o, sübh azanıdır, sübhdür). وأنشدوا (və şeir söylədilər): قام إلى حمراء فى الغطَاطِ (٢) (Qırmızıya qalxdı ğutatda - sübhdə). وقال آخرون (və başqaları dedi): هو سَدَف الظلام (o, qaranlığın alatoranlığıdır). وقالوا فى بيتِ ابن أحمر (və İbn Əhmərin beytində demişlər) (٣): أولَى الوَعَاوِع كالغُطاط المقْبِلِ (٤) (Vəavəc quşlarının ən öndə gələni gəlib çatan ğutat - alatoranlıq kimidir). من الفَتَحَ شبَّههم بالقَطَا (fəth ilə oxuyan onları qəta quşuna bənzətmişdir), ومن ضمَّ فإنّه شبَّههم بسواد السّدَف كَثرة (və zəmmə ilə oxuyan isə çoxluğuna görə onları alatoranlığın qaranlığına bənzətmişdir). وأمَّا غَطَطْتُه فى الماء (və amma mənim onu suya batırmağıma gəldikdə) فممكنٌ أن يكون ذلك الصَّوْتَ الذى يكون من الماء عندها (mümkündür ki, o, həmin vaxt sudan gələn səs olsun), وممكنٌ أن يكون من سَدَف الظّلام (və mümkündür ki, qaranlığın alatoranlığından olsun), كأنّه سترتَه بالماء وغطّيته (elə bil onu su ilə örtdün və üstünü qapandın).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:00.929Z"
+}

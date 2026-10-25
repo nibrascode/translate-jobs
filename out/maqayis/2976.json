@@ -1,0 +1,17 @@
+{
+ "i": 2976,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 440,
+  "page_to": 440
+ },
+ "ar": "الفاء والسين ليس فيه شئٌ إلا كلمةٌ معرّبة. يقولون:\nالفِسْفِسَةُ: الرَّطْبَةُ.",
+ "az": "[فس] الفاء والسين (fa və sin) hərflərindən yalnız alınma bir kəlmə vardır. Deyirlər: əl-fis-fisəh (الفِسْفِسَةُ): təzə-tər ot (və ya yoncaya bənzər bitki).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:39:29.195Z"
+}

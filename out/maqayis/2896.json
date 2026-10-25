@@ -1,0 +1,17 @@
+{
+ "i": 2896,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غيس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 405,
+  "page_to": 405
+ },
+ "ar": "الغين والياء والسين، يقولون: إنَّ غَيْسانَ الشّبَابِ:\nحِدَّتُه وعُنفوانُه.\n* غيض\nالغين والياء والضاد أُصَيلٌ يدلُّ على نُقصانٍ فى شئ، وغموضٍ وقِلّة. يقال غاضَ الماءُ يَغِيض: خلافُ فاضَ. وغِيضَ، إذا نَقَصَهُ غيرُه. قال اللّه تعالى: ﴿وَغِيضَ اَلْماءُ﴾.\nوأمَّا الغُموضُ فالغَيْضَة: الأجَمة، سمِّيت لغُموضِها، ولأنَّ السَّائرَ فيها لا يكاد يُرَى.",
+ "az": "[غيس] (ğə-ya-sə) - الغين (ğeyn), الياء (yə) və السين (sin) – deyirlər ki, ğeysan əl-şəbab (غَيْسانَ الشّبَابِ): onun şiddəti və cavanlığıdır.\n\n* Ğiyəz (غيض) - الغين (ğeyn), الياء (yə) və الضاد (dad) bir şeydə əskilməyə, qaranlığa və azlığa dəlalət edən kiçik bir əsasdır. Belə deyilir: ğadə əl-maü yəğiđu (غاضَ الماءُ يَغِيضُ): fadə (daşdı) sözünün əksidir. Və ğiə (غِيضَ), o zaman ki, başqası onu əskəltdi. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿وَغِيضَ اَلْماءُ﴾ (Və su çəkildi).\n\nQaldı qaranlıq (elmilik/gizlilik), əl-ğiysət (الغَيْضَة): meşəlikdir, qaranlığına görə və oradakı səyyarın demək olar ki, görünməməsinə görə belə adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:37:31.267Z"
+}

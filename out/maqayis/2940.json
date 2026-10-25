@@ -1,0 +1,17 @@
+{
+ "i": 2940,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غسا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 424,
+  "page_to": 424
+ },
+ "ar": "الغين والسين والحرف المعتلّ حرفٌ واحد، يدلُّ على تناهٍ فى كِبَرٍ أو غيره. يقال غَسَا اللَّيلُ وأغْسَى. وشيخ غَاسٍ: طال عمرُه. ورُوِى أنّ قارئاً قرأ: «وَقَدْ بَلَغْتُ من الكِبَر غُسِيَّا (٢)».",
+ "az": "[غسا] الغين والسين والحرف المعتلّ حرفٌ واحد، يدلُّ على تناهٍ فى كِبَرٍ أو غيره. يقال غَسَا اللَّيلُ وأغْسَى. وشيخ غَاسٍ: طال عمرُه. ورُوِى أنّ قارئاً قرأ: «وَقَدْ بَلَغْتُ من الكِبَر غُسِيَّا (٢)». \nGeyn, sin və zəif hərf qocalıqda və ya başqa şeydə həddini aşmağa dəlalət edən bir hərflər qrupudur. Deyilir: غَسَا اللَّيلُ وأغْسَى (ğasal-laylu və ağsə – Gecə qaraldı və örtülüb qaranlıqlaşdı). Şeyx غَاسٍ (ğasin) – ömrü uzanmış qoca. Rəvayət olunmuşdur ki, bir qari belə oxumuşdur: «mən qocalıqda son həddə (ğusiyyən) çatdım (٢)».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:38:40.244Z"
+}

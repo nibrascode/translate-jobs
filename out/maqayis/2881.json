@@ -1,0 +1,17 @@
+{
+ "i": 2881,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "غنى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 397,
+  "page_to": 398
+ },
+ "ar": "الغين والنون والحرف المعتل أصلانِ صحيحان، أحدُهما يدلُّ على الكِفاية، والآخر صوت.\nفالأوّل الغِنى فى المال. يقال: غَنِىَ يَغْنَى غِنًى. والغَنَاء بفتح الغَين مع المدّ:\nالكِفَاية. يقال: لا يُغْنِى فلانٌ غَنَاءَ فلانٍ، أى لا يَكفِى كِفايَتَه. وغَنِىَ عن كذا فهو غانٍ. وغَنِىَ القومُ فى دارهم: أقاموا، كأنَّهُم اسْتَغْنَوْا بها، ومَغَانيهم:\nمَنازِلُهم. والغانية: المرأة. قال قومٌ: معناه أنها استغنَتْ بمنزلِ أبويها. وقال آخرون: استغنَتْ ببعلها. ويقال استغْنَتْ بجمالها عن لُبْسٍ الحلْى. قال الأعشى:\nولكنْ لا يَصِيد إذا رماها … ولا تُصْطادُ غانيةٌ كَنُودُ (١)\nوالغُنْيَانُ: الغِنَى. قال قيس:\nأجَدَّ بعَمْرَة غُنيانُها … فتَهْجُرَ أم شانُنا شَانُها (٢)\nويقال: تغَنَّيْتُ بكذا، وتغَانيتُ به، إذا أنت استغنيت به. قال الأعشى:\nوكنت امرأً زَمَناً * بالعِراقِ … عَفِيف المُنَاخِ طويل التغَنّ (٣)\nوقال فى التَّغانى:\nكلانا غنِىٌّ عن أخيه حَيَاتَهُ … ونحنُ إذا مِتنا أشدُّ تَغَانِيا (٤)\nوالأصل الآخر: الغِناء من الصَّوت. والأغْنِيَة (٥) اللون من الغِنَاء.",
+ "az": "[غنى] الغين والنون والحرف المعتل (eyn, nun və illət hərfi) iki səhih kökə malikdir: biri kafiliyə (ehtiyatsızlığa), digəri isə səsə dəlalət edir. Birincisi: malda olan «الغِنى» (zənginlik, var-dövlət). Deyilir: «غَنِىَ يَغْنَى غِنًى» (zəngin oldu, zəngin olur, zənginlik). «الغَنَاء» (ğəna) — geyin fəth və mədd ilə: kafi olmaq, kifayət etmək. Deyilir: «لا يُغْنِى فلانٌ غَنَاءَ فلانٍ» (Filankəs filankəsin yerini verməz / kifayət etdiyi kimi kifayət etməz). «غَنِىَ عن كذا فهو غانٍ» (Filan şeydən ehtiyacsız oldu, demək o, ehtiyacsızdır). Qovum öz evində «غَنِىَ» (qaldı/məskunlaşdı) — sanki onlar onunla ehtiyacsız oldular və «مَغَانِهِم» (məğanihim) — onların evləridir. «الغانية» (ğaniyə) — qadın. Bir qrup demişdir ki, bunun mənası odur ki, o, valideynlərinin evində (başqasına möhtac olmayaraq) ehtiyacsız yaşamışdır. Başqaları demişdir: Əri ilə ehtiyacsız (qayğısız) yaşamışdır. Deyilir ki, o, zinət əşyaları taxmaqdan gözəlliyi ilə ehtiyacsız olmuşdur. Əşə aşıq demişdir: Lakin onu nişan alanda ovlanmaz, nankor ğaniyə də ovlanmaz (١). «الغُنْيَانُ» (ğunyan) — zənginlikdir. Qeys demişdir: Əmrənin var-dövləti yeniləşdimi ki, o, bizdən üz döndərdi, yoxsa bizim işimiz onun işidir? (٢) Deyilir: «تغَنَّيْتُ بكذا» və «تغانيتُ به» — onunla ehtiyacsız olduğun zaman (işlətdin). Əşə demişdir: Mən İraqda uzun müddət yaşamış, əxlaqlı, uzun müddət ğəna (mahnı oxumaq / ehtiyacsız olmaq) içində olan bir kişi idim (٣). Və təğani haqqında demişdir: Hər birimiz həyatımız boyu qardaşından ehtiyacsızdır və biz öləndə daha çox ehtiyacsız oluruq (٤). Digər kök: səsdən olan «الغِناء» (mahnı oxumaq, ğəna). «الأغْنِيَةُ» (ağniyə) — ğənanın (mahnının) bir növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:36:42.793Z"
+}

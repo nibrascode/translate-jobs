@@ -1,0 +1,17 @@
+{
+ "i": 2792,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عسف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 311,
+  "page_to": 312
+ },
+ "ar": "العين والسين والفاء كلماتٌ تتقارب ليست تدلُّ على خير إنما هى كالحَيْرة وقلّة البصيرة.\nقال الخليل: العَسْف: ركوب الأمر من غير تدبير، وركوبُ مفازةٍ بغير قَصْد. ومنه التعسُّف. قال ذو الرّمّة:\nقد أعْسِفُ النّازحَ المجهولَ مَعْسِفُهُ … فى ظلِّ أخضَرَ يدعو هامَه البومُ (٢)\nوالعَسِيفُ: الأجير؛ وما يبعدُ أن يكون من هذا القياس؛ لأنَّ ركوبَه فى الأمور فيما يعانيه مخالفٌ لصاحب الأمور. وقال أبو دُوَاد:\nكالعَسيفِ المربوعِ شَلَّ جمالاً … ما له دونَ منزلٍ من مَبيتِ\nوقد أومأ إلى المعنى، وأرى أنَّ البيتَ ليس بالصحيح. و\nنهى رسولُ اللّه ﵌ عن قتل العُسَفاء. وهم الأجَراء. و\nحديث آخر: «إنَّ ابنى كانَ عسيفاً على هذا (١)». ويقال: إنَّ البعير العاسِفَ هو الذى بالموت، وهو كالنّزْع فى الإنسان. ومما دلَّ على ما قُلناه فى أمر العسيف قولُ الأصمعىّ: العَسيف:\nالمملوك المُسْتَهان به الذى اعْتُسِف ليَخْدُمَ، أى قُهِر. وأنشد:\nأطعْتُ النَّفْسَ فى الشَّهوات حَتى … أعادتْنِى عسيفاً عبدَ عبْدِ (٢)\nوعُسْفان: موضع بالحجاز يقول فيه عنترة:\nكأنّها حِينَ صدَّت ما تكلِّمنا … ظبىٌ بعُسْفانَ سَاجِى الطَّرْف مطروفُ (٣)",
+ "az": "[عسف] (Əyn, sin və fa) — bir-birinə yaxın olan sözlərdir, xeyirə dəlalət etmir, əksinə, çaşqınlıq və bəsirətsizlik kimidir. Xəlil demişdir: Əl-əsf (العَسْف) — bir işə tədbirsiz girişmək və məqsədsiz olaraq səhra (və ya səhra tipli yer) keçməkdir. Eynilə ət-təasüf də belədir. Züər-Rummə demişdir: \"Mən bayquşun başını səslədiyi yaşıl kölgəlikdə, gedişi məchul olan uzaq səhranı bəzən əsf edirəm (məqsədsiz keçirəm)\" (٢). Əl-əsib (العَسِيف) — muzdurluq edən kəsdir; bunun bu qisəmdən olması uzaq deyil; çünki onun gördüyü işlərdəki davranışı iş sahibinin davranışına ziddir. Əbu Duvad demişdir: \"Mənzildən başqa yatacaq yeri olmayan, dəvələri sürən orta yaşlı əsib kimi...\" O, bu mənaya işarə etmişdir, lakin mən hesab edirəm ki, bu beyt səhih deyil. Rəsulullah sallallahu aleyhi və səlləm əsiflərin (muzdurların) öldürülməsini qadağan etmişdir. Onlar muzdurlardır. Digər hədisdə: \"Şübhəsiz ki, mənim oğlum bunun yanında əsib (muzdur) idi\" (١). Deyilir ki, əsin olan dəvə (البعير العاسِف) ölüm ayağında olan dəvədir, bu da insandakı can vermə halına bənzər. Əsib məsələsində dediklərimizə dəlalət edən dəlillərdən biri də Əsməcinin şu sözüdür: Əsib — xidmət etməyə məcbur edilmiş, təhqir olunan, tabe etdirilən kölədir. Və o, bu beyti söyləmişdir: \"Nəfsimə şəhvətlərdə itaət etdim, ta ki o məni bir qulun qulu olan əsibə çevirdi\" (٢). Və Əusfan (عُسْفان) — Hijazda bir yerdir, Əntərə orada deyir: \"Sanki o, sifətini çevirəndə bizə heç nə danışmırdı; Əusfanda gözünün baxışı sakit, kirpikləri qırpılan bir ceyran kimi\" (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T18:31:30.137Z"
+}
