@@ -1,0 +1,17 @@
+{
+ "i": 2657,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "علش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 124,
+  "page_to": 124
+ },
+ "ar": "العين واللام والشين ليس بشئ. على أنهم يقولون إن العِلَّوْش: الذّئب. وليس قياسه [صحيحاً] لأن الشين لا تكون بعد اللام.",
+ "az": "[علش] (eyn, lam və şin) əhəmiyyətli bir şey deyildir. Lakin deyirlər ki, العِلَّوْش — qurddur. Onun qiyası [səhih] deyildir, çünki şin hərfi lamdan sonra gəlməz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:57:44.708Z"
+}

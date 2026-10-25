@@ -1,0 +1,17 @@
+{
+ "i": 2743,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عثى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 230,
+  "page_to": 230
+ },
+ "ar": "العين والثاء والحرف المعتلّ كلمةٌ تدلُّ على فَساد. يقال عثا يعثو، ويقال عَثِىَ يَعْثَي، مثل عاثَ. قال اللّه تعالى: ﴿وَلا تَعْثَوْا فِي اَلْأَرْضِ مُفْسِدِينَ﴾.",
+ "az": "[عثى] «العين» (عين), «الثاء» (ثاء) və «الحرف المعتل» (mötəl hərf) fəsad mənasını verən bir közdür. «عثا يعثو» (əsa, yəsvu) deyilir, həmçinin «عاث» (as) kimi «عَثِىَ يَعْثَي» (əsi, yəsvə) də deyilir. Uca Allah buyurmuşdur: mənaca tərcümə: «Yer üzündə fəsad törədənlər olmayın, fəsad törətməyin» (﴿وَلا تَعْثَوْا فِي اَلْأَرْضِ مُفْسِدِينَ﴾).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:12:45.078Z"
+}

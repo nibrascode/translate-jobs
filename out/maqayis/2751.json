@@ -1,0 +1,17 @@
+{
+ "i": 2751,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 241,
+  "page_to": 242
+ },
+ "ar": "العين والجيم والنون أصلٌ صحيحٌ يدلُّ على اكتناز شئٍ ليِّنٍ غير صُلب. من ذلك العَجَن، وهو اكتناز لحمِ ضَرْع النّاقة، وكذلك من البَقَر والشّاء. تقول: إنّها عَجْناء بيِّنة العَجَن. ولقد عَجِنَتْ تَعْجَنُ عَجَناً.\nوالمتَعجِّن من الإبل: المكتنز سِمَناً، كأنّه لحمٌ بلا عَظْم.\nومن الباب: عَجَن الخبَّازُ العجِينَ يَعجِنه عَجْناً. وممّا يقرُب من هذا قولُهم\nللأحمق: عجَّانٌ، وعجينة. قال: معناه أنَّهم يقولون: «فلانٌ يَعجِن بِمرفَقيه حُمْقاً (١)»، ثم اقتَصَروا على ذلك فقالوا: عجِينةٌ وعَجّان، أى بمرْفَقَيه، كما جاء فى المثل.\nومن الباب: العِجان، وهو الذى يَستبرِئه البائل، وهو ليِّن. قال جَرير:\nيَمُدُّ الحبلَ معتمداً عليه … كأنّ عجانَه وترٌ جديدُ (٢)",
+ "az": "«عجن» (ə-c-n) — ayn, cim və nun düzgün kök olub, yumşaq, bərk olmayan bir şeyin sıx və dolğun olmasını göstərir. Bunlardan biri العَجَن (əl-əcən) olub, dəvənin, eləcə də mal-qara və qoyunun əmgəyinin ətinin dolğun olmasıdır. Deyirsən: «إنّها عَجْناء بيِّنة العَجَن» (O, əmgəyi dolğun dişi dəvədir, dolğunluğu aşkarandır). «وَلَقَدْ عَجِنَتْ تَعْجَنُ عَجَناً» (O, dolğunlaşdı, dolğunlaşır, dolğunluq). Və dəvələrə aid olan المُتَعَجِّن (əl-mütəəccin) — ət ilə piylə dolmuş, elə bil sümüksüz ət kimidir. Bu fəsildəndir: çörəkçinin xəmiri yoğurması «عَجَن الخبَّازُ العجِينَ يَعْجِنه عَجْناً» (çörəkçi xəmiri yoğurdu, yoğurur, yoğurmaq). Buna yaxın olan sözlərdən biri də axmağa deyilən «عجَّانٌ» (əccan) və «عجينة» (əcinə) sözləridir. Deyirlər ki, mənası budur: «filankəs axmaqlıq edərək dirsəkləri ilə yoğurur (١)», sonra bununla kifayətlənib «əcinə» və «əccan» dedilər, yəni məsəldə gəldiyi kimi dirsəkləri ilə. Bu fəsildəndir: العِجان (əl-ican) — sidik edənin təmizlədiyi yer olub yumşaqdır. Cərir demişdir: يَمُدُّ الحبلَ معتمداً عليه … كأنّ عجانَه وترٌ جديدُ (٢) (O, kəndiri ona güvənərək uzadır... sanki əcani təzə ox yayının ipidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:13:31.827Z"
+}

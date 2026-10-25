@@ -1,0 +1,17 @@
+{
+ "i": 2642,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عكز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 107,
+  "page_to": 107
+ },
+ "ar": "العين والكاف والزاء أُصَيلٌ يقرُب من الباب قبله. قال الدريدى (٢): العَكْز: التقبُّض. يقال عَكِزَ يَعْكَزُ عَكْزاً. فأمَّا العُكَّازَة فأظنُّها عربيّة، ولعلَّها أن تكون سمِّيت بذلك لأنَّ الأصابع تتجمَّع عليها إذا قَبَضَت.\nوليس هذا ببعيد.",
+ "az": "[عكز] (Ayn, kaf və zay) – əvvəlki fəsilə yaxın kiçik bir kökdür. Düridi demişdir: العَكْز (əl-əkz): Qapanma, büzüşmə. Deyilir: عَكِزَ يَعْكَزُ عَكْزاً (əkizə yəkəzu əkzan). عُكَّازَة (ukkazə) sözünə gəldikdə, zənnimcə o, ərəbcədir, ola bilsin ki, barmaqlar onu tutarkən yığıldığı üçün belə adlandırılmışdır.\nBu da uzaq deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:41:27.671Z"
+}

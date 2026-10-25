@@ -1,0 +1,17 @@
+{
+ "i": 2741,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 229,
+  "page_to": 229
+ },
+ "ar": "العين والثاء والميم أصلٌ صحيح يدلُّ على غِلَظ ونُتُوٍّ فى الشَّئ.\nقالوا: العَيْثوم: الضَّخْم الشَّديد من كلِّ شئ. وقالوا: وتُسَمَّى الفِيلَة العَيثوم.\nقال ويصف ناقة:\nوقد أَسِيرُ أمامَ الحىِّ تحملُنى … والفَصْلتين كِنازُ اللّحم عيثوم (٤)\nأى ضخمة شديدة. ويقال للجمل الضَّخم عَيثوم. والعَثَمْثم من الإبل: الطويل فى ضِخَم، و [يقال] فى الجميع عثمثمات. ورُبَّما وُصِف الأسدُ بالعثمثم.\nومن الباب العَثم، وهو أن يُساءَ جَبْر العَظْم فيبقى فيه عِوج ونتُوٌّ كالوَرم.\nويقال هو عَثِمٌ وبه عَثْم، كأنَّه مَشَش. قال الخليل: وبه سمِّى عُثمان؛ لأنّه مأخوذ من الجبْر. ويقال بل العثمان (٥) …",
+ "az": "[عثم] العين والثاء والميم (əyn, sə və mim) sözün əsli olub bir şeydə yoğunluğa və qabarıqlığa dəlalət edən səhih bir kökdür. Deyirlər: العَيْثوم (əl-aysum) - hər bir şeyin iri və güclüsü. Deyirlər ki, dişi fillərə də العَيثوم (əl-aysum) deyilir. Şair bir dişi dəvəni vəsf edərək demişdir: وقد أَسِيرُ أمامَ الحىِّ تحملُنى … والفَصْلتين كِنازُ اللّحم عيثوم (٤) (Və mən qəbilənin önündə gedirəm, məni daşıyır… və iki bala dəvə, əti sıx, iri və güclü). İri dəvəyə də عَيثوم (aysum) deyilir. Və العَثَمْثم (əl-asamsəm) dəvələrdən boylu-buxunlu və yoğun olandır, cəmi [deyilir] عثمثمات (asamsəmət). Bəzən şir də عَثَمْثم (asamsəm) ilə vəsf olunur. Bu babdandır: العَثم (əl-asm) - sümüyün səhv sarılması nəticəsində orada şiş kimi əyrilik və qabarıqlığın qalması. Deyilir ki, o, عَثِمٌ (asim) və onda عَثْم (asm) vardır, sanki o, zədələnmiş sümükdür. Xəlil demişdir: Osman adı məhz buna görə belə adlandırılmışdır; çünki o, sümüyün sarılmasından götürülmüşdür. Və ya deyilir ki, bəlkə də əsası عثمان (Usman) sözüdür...",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:12:24.062Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2720,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عبج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 205,
+  "page_to": 205
+ },
+ "ar": "العين والباء والجيم ليس عند الخليل [فيه] شئ. وقد قيل العَبَجَة: الأحمق.",
+ "az": "[عبج] / العين (ayn), الباء (ba) və الجيم (cim). Xəlil [bu kök barəsində] heç nə qeyd etməmişdir. Lakin «اَلْعَبَجَة» (əl-əbəcə) sözünün axmaq mənasında olduğu verilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:11:17.268Z"
+}

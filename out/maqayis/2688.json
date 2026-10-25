@@ -1,0 +1,17 @@
+{
+ "i": 2688,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عهج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 167,
+  "page_to": 167
+ },
+ "ar": "العين والهاء والجيم كلمةٌ صحيحة لا قياسَ لها ولا عليها. قالوا:\nالعوهج: ظبيةٌ حسَنة اللّون طويلةُ العنُق. وتسمَّى المرأة «عوهجَ (١)» تشبيهاً لها بها. قال الأصمعىّ: العَوهج: المخطَّطة العنق. ويقال للنَّعامة أيضاً عوهج، لطول عنُقها. قال العجّاج:\nكالحَبَشىِّ التفَّ أو تسبَّجا … فى شَمْلَةٍ أو ذاتِ زِفٍّ عَوْهَجَا (٢)\nويقال للنّاقةِ الفتِيّة: عوهج. ويقولون للحيّة: عوهج. قال:\nحَصْبَ الغُواةِ العوهجَ المنسُوسا (٣)\nالمنْسوس: المطرود.",
+ "az": "[عهج] Ayn, hə və cim hərfləri düzgün bir kəlmədir, onun nə qiyası var, nə də ona qiyas edilir. Demişlər ki: «العوهج» (əl-əvhəc) - rəngi gözəl və boynu uzun olan ceyrandır. Qadına da ona bənzədilərək «عوهج» (əvhəc) deyilir. Əsmai demişdir: «العَوهج» (əl-əvhəc) - boynu cizgili olandır. Dəvəquşuna da uzun boynuna görə «عوهج» (əvhəc) deyilir. Əccac demişdir: «كالحَبَشىِّ التفَّ أو تسبَّجا … فى شَمْلَةٍ أو ذاتِ زِفٍّ عَوْهَجَا» (Həbəşli kimi bürünmüş və ya sarınmış... bir əba içində və ya tüklü bir şeydə olan uzun boylu). Gənc dəvəyə də «عوهج» (əvhəc) deyilir. İlana da «عوهج» (əvhəc) deyirlər. O demişdir: «حَصْبَ الغُواةِ العوهجَ المنسُوسا» (Azğınların daşladığı, uzun boylu və qovulmuş). «المنْسوس» (əl-mənsus): qovulmuş deməkdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T14:07:29.167Z"
+}

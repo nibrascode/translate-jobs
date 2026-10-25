@@ -1,0 +1,17 @@
+{
+ "i": 2730,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عبأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 215,
+  "page_to": 216
+ },
+ "ar": "العين والباء والهمزة والحرف المعتل غير المهموز أصل واحد، يدلُّ على اجتماعٍ فى ثِقَل. من ذلك العِبْ ءُ، وهو كلُّ حِمْل، من غُرْم أو حَمالة، والجمع الأعباء. قال:\nوحمل العِبء عن أعناق قومى … وفعلى فى الخطوب بما عنانى\nومن الباب: ما عبأْت به شيئاً، إذا لم تبالِهِ، كأنّك لم تجِدْ له ثِقْلا. ومن\nالباب: عبأت الطِّيب (١) * وفَرَّقوا بين ذلك وبين الجيش، فقالوا: عَبَّيْت الكتيبةَ أُعبِّيها تعبيَةً، إذا هيّأتَها. وقد قالوا: عبّأت الجيش أيضاً، ذكرها ابنُ الأعرابى. وقال فى عَبَأت الطِّيب:\nكأنَّ بصدرِه وبمَنْكِبيه … عبيراً باتَ تَعبؤه عروسُ (٢)\nوالعَباءة: ضَربٌ من الأكِسية. وقياسُه صحيح؛ لأنّه يشتمل على لابسه ويجمعُه. واللّه أعلم بالصواب.",
+ "az": "[عبأ] (ə-b-ə). Eyn, ba, həmzə və hərf-i mətl (mötəl hərf) həmzəsiz olaraq ağırlıqda toplanmağa dəlalət edən tək bir kökdür. Bunlardan biri العِبْ ءُ (əl-ib'ü) – cərimə və ya zaminlik olsun, hər cür yükdür, cəmi الأعباء (əl-ə'bəü) gəlir. O demişdir: وحمل العِبء عن أعناق قومى … وفعلى فى الخطوب بما عنانى (Və qövmümün boynundan yükü daşıdım... və çətinliklərdə məni maraqlandıran işləri gördüm). Bu babdandır: ما عبأْت به شيئاً (ma əbə'tü bihi şeyən) – ona heç əhəmiyyət vermədiyin zaman, elə bil onun üçün heç bir ağırlıq tapmamısın. Bu babdandır: عبأت الطِّيب (əbə'tüt-tıyb) (١). Onlar bununla ordunu (çərgəyə düzməyi) fərqləndirərək demişlər: عَبَّيْت الكتيبةَ أُعبِّيها تعبيَةً (əbbəytül-katibətə u'əbbiyəha təbiyətən) – onu hazırladığın zaman. Həmçinin ordunu da düzdüm (عبّأت الجيش) demişlər, bunu İbn əl-Ərəbi qeyd etmişdir. Əbə'ətüt-tıyb (عبأت الطِّيب) haqqında demişdir: كأنَّ بصدرِه وبمَنْكِبيه … عبيراً باتَ تَعبؤه عروسُ (Elə bil onun sinəsində və çiyinlərində... bir gəlinin gecə hazırladığı ətir vardır) (٢). Və العَبَاءة (əl-əbaətü): bir növ üst geyimidir (aba). Onun qiyaslandığı məna səhihdir; çünki o, geyinəni bürüyür və onu toplayır. Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:11:38.797Z"
+}

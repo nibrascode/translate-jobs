@@ -1,0 +1,17 @@
+{
+ "i": 2680,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عنش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 156,
+  "page_to": 157
+ },
+ "ar": "العين والنون والشين أُصَيل لعلّه أن يكون صحيحاً. وإن\nصحَّ فهو يدلُّ على تمرُّسٍ بشئ. يقولون: فلانٌ يُعَانِشُ النَّاسَ، أى يقاتلهم ويتمرَّس بهم. ويُعانِش: يظالم. وينشدون:\nإذاً لأتاه كلُّ شاكٍ سِلاحُه … يُعانِشُ يومَ البأس ساعِدهُ جَزْلُ\nويقولون: عانشت الرّجل: عانقتُه. وينشدون لساعِدَة:\nعِناشُ عَدُوٍّ لا ينالُ مُشَمِّراً … بِرَجْلٍ إذا ما الحربُ شُبَّ سعيرُها (١)\nوهذا إن لم يكن من باب الإبدال وأن يكون الشين بدلاً من القاف فما أدرى كيف هو. ونرجو أن يكون صحيحاً إن شاء اللّه.\nقال ابن دريد (٢): عنَشت الشئ أعنِشُهُ عَنْشاً، إذا عطفتَه. وهذا أيضاً قريبٌ من الذى ذكرناه.",
+ "az": "[عنش] العين والنون والشين (ayn, nun, şin) kiçik bir kökdür, bəlkə də səhihdir. Əgər səhihdirsə, bir şeyə alışmağa və təcrübəli olmağa dəlalət edir. Deyirlər ki: «فلان يُعَانِش النَّاسَ» (filan kəs adamlarla vuruşur və onlara alışır) - yəni onlarla döyüşür və vərdiş edir. «ويُعانِش: يظالم» (və üanış: zülm edir). Onlar bu beyt oxuyurlar: إذاً لأتاه كلُّ شاكٍ سِلاحُه … يُعانِشُ يومَ البأس ساعِدهُ جَزْلُ (O zaman silahı olan hər bir şikayətçi ona gələcəkdir... Döyüş günü onun pazı kimi qalın qolu çətin işlərə alışır). Deyirlər ki: «عانشت الرّجل: عانقتُه» (Mən kişi ilə qucaqlaşdım). Saidin bu beytini oxuyurlar: عِناشُ عَدُوٍّ لا ينالُ مُشَمِّراً … بِرَجْلٍ إذا ما الحربُ شُبَّ سعيرُها (١) (Səy göstərənə çata bilməyən bir düşmənin qucaqlaşması... müharibənin alovu qızışdığı zaman bir ayaqla). Əgər bu, əvəzetmə qapısından deyilsə və şin hərfi qaf hərfinin əvəzinə gəlməyibsə, bunun necə olduğunu bilmirəm. Allahın izni ilə bunun səhih olmasını ümid edirik. İbn Dürid (٢) demişdir: «عنَشت الشئ أعنِشُهُ عَنْشاً» (Mən o şeyi əydim, əyirəm, əymək), - onu əydiyin zaman. Bu da bizim zikr etdiyimizə yaxındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:05:15.344Z"
+}

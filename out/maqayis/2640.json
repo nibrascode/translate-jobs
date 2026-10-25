@@ -1,0 +1,17 @@
+{
+ "i": 2640,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عكد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 105,
+  "page_to": 105
+ },
+ "ar": "العين والكاف والدال أصلٌ صحيح واحدٌ يدلُّ على مثلِ ما دلَّ عليه الذى قبلَه. فالعكدة (١): أصل اللسان. ويقال اعتكَدَ الشئ، إذا لزِمَه (٢).\nقال ابن الأعرابىّ: وهو مشتقٌّ من عَكَدة اللِّسان. فأمَّا قول القائل:\nسَيَصْلَى بها القومُ الذين عُنُوا بها … وإلاّ فمعكودٌ لنا أمُّ جندبِ (٣)\nفمعناه أنَّ ذلك ممكنٌ لنا مُعَدٌّ لنا مُجمَع عليه. وأمّ جندب: الغَشْم والظُّلم.\nويقال لأصل القلب عَكَدة.\nومن الباب عكَدَ الضبُّ عَكَداً، إذا سَمِنَ وغلُظ لحمه. قال: والعَكد (٤) بمنزلة الكِدْنة، وهى السِّمَن. ويقال: إنّ العَكَد فى النَّبات غلظهُ وكثرتُه. وشجرٌ عكِدٌ، أى يابس * بعضُه على بعض. وناقة عَكِدةٌ: متلاحِمَةٌ سِمَنا. ويقال:\nاستعكد الضبُّ، إذا لاذَ بحَجَر أو حُجْر. قال الطِّرِمَّاح:\nإذا استعكدتْ منه بكلِّ كُدَايةٍ … من الصَّخر وافاها لدى كلِّ مسرَحٍ (٥)\nوعُكِد مثل حُبِس. والشئ المعَدّ معكود.",
+ "az": "[عكد] (Ayn, kaf və dal) – özündən əvvəlkinin dəlalət etdiyi məzmuna dəlalət edən tək bir səhih kökdür. Fəsildən: العكدة (əl-ukdə): Dilin kökü. Və deyilir: اعتكَدَ الشئ (i-təkədəş-şəyü) – bir şeyə sarıldıqda, ona yapışdıqda (2).\nİbn əl-Ərəbi demişdir: O, عَكَدة اللِّسان (ukdətil-lisən) sözündən törəmişdir. Danışanın bu sözünə gəldikdə:\nسَيَصْلَى بها القومُ الذين عُنُوا بها … وإلاّ فمعكودٌ لنا أمُّ جندبِ (٣) \n(Səyaslə bihəl-qavmül-ləziynə unu bihə… və illə fəmawkudun lənə ummu cəndəbi) \nBunun mənası odur ki, bu bizim üçün mümkündür, bizim üçün hazırdır, üzərində ittifaq edilmişdir. Ümmu Cəndəb isə zülm və təcavüzdür.\nÜrəyin kökünə عَكَدة (ukdə) deyilir.\nVə bu fəsildəndir: عكَدَ الضبُّ عَكَداً (əkədə-d-dabbu əkədan) – kərtənkələ kökəldiyi və əti yoğunlaşdığı zaman. (Alim) demişdir: العكد (əl-əkəd) الكِدْنة (əl-kidnə) – yəni piylənmə məqamındadır. Və deyilir ki, bitkidəki əkəd onun yoğunluğu və çoxluğudur. Və şajarun əkidun (شجر عكد) – yəni bəzisi bəzisinin üzərinə qurumuş ağaclar. وَناقة عَكِدةٌ (naqətun əkidətun) – piylə birləşmiş, ətli dəvə. Və deyilir: استعكد الضبُّ (istəkədə-d-dabbu) – daşa və ya yuvaya sığındığı zaman. Tirimmah demişdir:\nإذا استعكدتْ منه بكلِّ كُدَايةٍ … من الصَّخر وافاها لدى كلِّ مسرَحٍ (٥) \n(İzəstəkədət minhu bikulli kudəyətin… minas-səhri vəfahə lədə kulli məsrahin) \nVə عُكِد (ukid) – həbs olundu kimi (işlədilir). Hazırlanmış şey isə معكود (məvkud)-dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:41:27.670Z"
+}

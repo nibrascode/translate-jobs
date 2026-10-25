@@ -1,0 +1,17 @@
+{
+ "i": 2700,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عوز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 186,
+  "page_to": 187
+ },
+ "ar": "العين والواو والزاء كلمةٌ واحدةٌ تدلُّ على سوءِ حالٍ. من ذلك العَوَز: أن يُعوز الإنسانَ الشئ الذى هو محتاجٌ إليه، يرومُه ولا يتهيَّأُ له.\nيقال: عازَنى (١). وأعْوَز الرّجُل: ساءت حالُه. ومن الباب المِعْوَز، والجمع مَعَاوِز، وهى الثِّياب الخُلْقَان والخِرَقُ التى تدلُّ على إعواز صاحِبها. قال الشّماخ:\nإذا سقط الأنداء صِينَتْ وأُشْعِرَتْ … حَبِيراً ولم تدْرَجْ عليها المَعَاوِزُ (٢)\nفأمّا العزّة (٣) …",
+ "az": "[عوز] (ehtiyac, qıtlıq). العين (ayn), الواو (vav) və الزاء (zai) – pis hala dəlalət edən tək bir kəlmədir. Bunlardan biri العَوَز-dir: insanın ehtiyacı olduğu, arzuladığı, lakin əldə edə bilmədiyi şeyə möhtac olmasıdır. Deyilir: «عازَنى» (mənə ehtiyacı oldu). «أعْوَرَ الرّجُل» – kişinin halı pisləşdi. Bu fəsildəndir المِعْوَز (cır-cındır, köhnə paltar), cəmi مَعَاوِز gəlir; bunlar sahibinin kasıblığına dəlalət edən köhnə paltarlar və parçalardır. Şəmməx demişdir: إذا سقط الأنداء صِينَتْ وأُشْعِرَتْ … حَبِيراً ولم تدْرَجْ عليها المَعَاوِزُ (٢) (Şeh düşəndə onlar qorunar və üstlərinə həbir növü parça geyindirilərdi, üzərilərinə isə köhnə paltarlar sarılmazdı). العزّة (şərəf/izzət) sözünə gəlincə...",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:09:58.349Z"
+}

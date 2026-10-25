@@ -1,0 +1,17 @@
+{
+ "i": 2644,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عكش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 107,
+  "page_to": 108
+ },
+ "ar": "العين والكاف والشين أصلٌ صحيح يدلُّ على مِثل ما دلَّ عليه الذى تقدّمَ من التجمُّع. يقال عَكِشَ شعرُه إذا تلبَّد. وشعر مُتَعكِّش\nوقد تعَكَّش. قال دريد:\nتمنَّيْتَنِى قيسَ بنَ سعدٍ سفاهةً … وأنت امرؤٌ لا تحتويك المَقَانبُ\nوأنت امرؤٌ جعد القفا متعكِّشٌ … من الأقِطِ الحَولىِّ شَبْعان كانبُ (١)\nوأنشد ابنُ الأعرابىّ:\nإذ تَسْتَبِيك بفاحمٍ متعكّش … فُلَّتْ مَدَاريهِ أحَمُّ رَفَالُ\nوقد يقال ذلك فى النبات. يقال: نباتٌ عكِشٌ، إذا التفَّ. وقد عَكِشَ عَكَشاً. والذى ذُكِر فى الباب فهو راجعٌ إلى هذا كلّه.\nوفى كتاب الخليل أنّ هذا البناء مهمل. وقد يشِذُّ عن العالِمِ البابُ من الأبواب. والكلام أكثر من ذلك.",
+ "az": "[عكش] (Ayn, kaf və şin) – əvvəl qeyd olunan yığılmalara bənzər şeyə dəlalət edən səhih bir kökdür. Deyilir: عَكِشَ شعرُه (əkişə şəruhu) – saçı keçələşdiyi zaman. Və شعر مُتَعكِّش (şirun mutəkkis) və qəd təvəkkəş (وقد تعكّش). Dürid demişdir:\nتمنَّيْتَنِى قيسَ بنَ سعدٍ سفاهةً … وأنت امرؤٌ لا تحتويك المَقَانبُ\nوأنت امرؤٌ جعد القفا متعكِّشٌ … من الأقِطِ الحَولىِّ شَبْعان كانبُ (١) \n(Tamənnəytəni Qysə bna Sədin səfahətən… və əntə imruun lə təhtəviykəl-məqənibu. Və əntə imruun ca’dul-qəfə mutəkkisun… mənəl-iqtil-havliyyi şəb’anə kənibun)\nVə İbn əl-Əرəbi (şairin) bu misrasını gətirmişdir:\nإذ تَسْتَبِيك بفاحمٍ متعكّش … فُلَّتْ مَدَاريهِ أحَمُّ رَفَالُ\n(İz təstəbiykə bi-fahimin mutəkkisin… fullət mədərihi əhammu rafalu)\nVə bəzən bu bitkiyə də aid edilir. Deyilir: نباتٌ عكِشٌ (nabatun əkişun) – dolaşıq düşdüyü zaman. Və qəd əkişə əkəşan (وقد عَكِشَ عَكَشاً). Bu fəsildə zikr olunanların hamısı buna qayıdır.\nXəlilə aid kitabda isə bu binanın (kökün) mühْمəl (işlənməyən) olduğu qeyd olunur. Bəzən alimdən bir fəsil uzaq düşə bilər. Danışıq bundan daha çoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:41:27.671Z"
+}

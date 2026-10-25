@@ -1,0 +1,17 @@
+{
+ "i": 2654,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "علد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "العين واللام والدال أصلٌ صحيح يدلُّ على قوّةٍ وشِدّة.\nمن ذلك العَلْد، وهو الصُّلب من الشئ، * يقال لعصَب العنق عَلْد. ورجل عَلْوَدٌّ:\nوزين. ويقال منه اعلوَّد. وما لم نذكره منه فهو هذا القياس.",
+ "az": "[علد] (eyn, lam və dal) güc və şiddətə dəlalət edən səhih əsasdır. Bunlardandır: العَلْد, yəni şeyin bərk olanı. Boyun əzələsinə عَلْد deyilir. ورجل عَلْوَدٌّ — bərk, güclü kişi. Ondan اعلوَّد (sərtləşdi) feili düzəlir. Burada qeyd etmədiyimiz hər şey bu qiyasdadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:57:44.708Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2686,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عنم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 166,
+  "page_to": 166
+ },
+ "ar": "العين والنون والميم ليس بأصلٍ يُقاس عليه، وإنما هو نبْتٌ أو شئٌ يشبَّه به. قالوا: العَنَم: شجر من شجر السِّواك، ليِّنُ الأغصان لطيفُها، كأنّه بنانُ جاريةٍ، الواحدةُ عَنَمة. وممّا شُبِّه بذلك العَنَمة، قال الخليل: هى العَظَاية. وقال رؤبة:\nيُبْدِين أطرافاً لطافاً عنَمُهْ … إذْ حُبُّ أرْوَى هَمُّه وسَدَمُه (١)\nالسَّدَم: الكَلَف بالشئ. واللّه أعلم.",
+ "az": "[عنم] Ayn, nun və mim hərfləri qiyas ediləcək bir əsas deyildir, bu sadəcə bir bitkidir və ya ona bənzədilən bir şeydir. Demişlər ki: «العَنَم» (əl-ənəm) - budaqları yumşaq və incə olan, sanki gənc qızın barmaqlarına bənzəyən misvak ağaclarından bir ağacdır, təkliyi «عَنَمة» (ənəmə)dir. Buna bənzədilənlərdən biri «العَنَمة» (əl-ənəmə)dir, Xəlil demişdir: Bu, kərtənkələdir. Rübə demişdir: «يُبْدِين أطرافاً لطافاً عنَمُهْ … إذْ حُبُّ أرْوَى هَمُّه وسَدَمُه» (Onlar incə barmaq uclarını göstərirlər... Arvanın sevgisi onun qayğısı və vurğunluğudur). «السَّدَم» (əs-sədəm): bir şeyə vurğun olmaqdır. Allah daha yaxşı bilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T14:07:29.167Z"
+}

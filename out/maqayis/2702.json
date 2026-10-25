@@ -1,0 +1,17 @@
+{
+ "i": 2702,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عوص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 187,
+  "page_to": 188
+ },
+ "ar": "العين والواو والصاد أُصيلٌ يدلُّ على قِلّة الإمكان.\nفى الشئ. يقال اعتاصَ الشئُ، إذا لم يُمكِنْ. والعَوَص مصدر الأعوص والعَويص. ومنه كلامٌ عويص، وكلمةٌ عَوصاء. وقال:\nأيُّها السَّائلُ عن عوصائها\nويقال أعْوَص فى المنطق وأعْوَص بالخَصْم (١)، إذا كلّمهُ بما لا يَفْطِن له.\nقال لبيد:\nفلقد أُعْوِصُ بالخَصْم وقد … أملا الجَفْنَةَ من شحم القُلَلْ (٢)\nومن الباب: اعتاصت الناقة، إذا ضربها الفحلُ فلم تحمِل من [غير (٣)] عِلّة.",
+ "az": "[عوص] (çətinlik, Mürəkkəblik). العين (ayn), الواو (vav) və الصاد (sad) – imkansızlığın azlığına (çətinliyə) dəlalət edən təməl bir kökdür. Bir şey qeyri-mümkün olduqda «اعتاصَ الشئُ» (şey çətinləşdi/mürəkkəbləşdi) deyilir. العَوَص – الأعوص (çətin) və العويص (mürəkkəb) sözlərinin məsdəridir. Buradan «کلام عويص» (mürəkkəb nitq) və «كلمة عوصاء» (çətin söz) ifadələri yaranmışdır. [Şair] demişdir: أيُّها السَّائلُ عن عوصائها (Ey onun çətinliyini soruşan!). Deyilir: «أعْوَص فى المنطق وأعْوَص بالخَصْم» (١) (O, danışıqda çətinliyə düşdü və rəqibi ilə mübahisədə onu çıxılmaz vəziyyətə saldı), yəni rəqibinin anlamayacağı tərzdə onunla danışdı. Ləbid demişdir: فلقد أُعْوِصُ بالخَصْم وقد … أملا الجَفْنَةَ من شحم القُلَلْ (٢) (Həqiqətən, mən rəqibimi çıxılmaz vəziyyətə salıram, halbuki [başqa vaxt] qabları dağ piyindən doldururam). Bu fəsildəndir: «اعتاصت الناقة» – erkən dəvə dişi dəvəyə cütləşmək üçün gəldi, lakin [başqa bir] səbəb olmadan dişi dəvə hamilə qalmadı (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:09:58.349Z"
+}

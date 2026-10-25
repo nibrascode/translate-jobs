@@ -1,0 +1,17 @@
+{
+ "i": 2714,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عيق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 197,
+  "page_to": 198
+ },
+ "ar": "العين والياء والقاف لم يذكر الخليل فيه شيئاً، وهو صحيح.\nيقولون: العَيقة: ساحل البحر. قال الهذلىّ (٤):\n[سادٍ تجرَّمَ فى البَضِيع ثمانياً … يُلوِى بَعيقاتِ البِحارِ ويُجنَبُ (٥)]\nوقد أومأ الخليل إلى أنَّ هذا مستعمل، وليس من المهمل، فقال فى كتابه:\nعَيُّوق فَيْعُول، يحتمل أن يكون بناؤه من عَوق ومن عيق، لأنّ الياء والواو فى ذلك سواء. فقد أَعْلَمَ أنّ البناء مستعملٌ، أعنى العين والياء والقاف.",
+ "az": "[عيق] \nالعين والياء والقاف (ayn, ya və qaf) — Əl-Xəlil bu barədə heç nə zikr etməmişdir, lakin bu, səhihdir.\nDeyirlər: العَيقة (əl-əyqə): dəniz sahilidir. Hüzəli demişdir:\n[سادٍ تجرَّمَ فى البَضِيع ثمانياً … يُلوِى بَعيقاتِ البِحارِ ويُجنَبُ (٥)]\nƏl-Xəlil işarə etmişdir ki, bu, istifadə olunan sözdür, mühməllərdən (ihmal edilmişlərdən) deyil. Kitabında demişdir:\nعَيُّوق (əyyuq) — فَيْعُول (feyul) vəznindədir, onun binasının عَوق (ovq) və ya عيق (iyq) kök derivadasından olması ehtimal olunur, çünki bu məqamda ya və va hərfləri eynidir. Beləliklə, o bildirmişdir ki, bina, yəni ayn, ya və qaf hərfləri istifadə olunur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:10:21.612Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2620,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عفج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 62,
+  "page_to": 62
+ },
+ "ar": "العين والفاء والجيم كلمتان: إحداهما عُضو من الأعضاء والآخر ضَرْبٌ.\nفالأولى الأعفاج: الأمعاء، ويقولون: إنّ واحدها عِفج وعَفْج (٢).\nوأمّا الأخرى فيقال عَفَج، إذا ضَرَب. ويقال للخشبة التى يَضرب بها الغاسلُ الثِّياب: مِعفاج. وسائر ما يقال فى هذا الباب مما لا أصل له.",
+ "az": "[عفج] ain, fa və cim iki kəlmədir: bunlardan biri bədən üzvlərindən bir üzv, digəri isə vurmaqdır. Birincisi: «الأعفاج» (əl-a'fac) — Bağırsaqlardır. Deyirlər ki, onun təki «عِفج» və «عَفْج»dir (٢). Digərinə gəlincə: Deyilir: «عَفَجَ» (vurdu), vurulduqda. Paltaryuyanın paltarları vurduğu taxtaya «مِعفاج» (mi'fac) deyilir. Bu babda deyilən digər sözlərin isə kökü (əsli) yoxdur.",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:14:36.211Z"
+}

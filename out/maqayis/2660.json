@@ -1,0 +1,17 @@
+{
+ "i": 2660,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "علف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 125,
+  "page_to": 125
+ },
+ "ar": "العين واللام والفاء ليس بأصل كثير، إنما هو العَلَف.\nتقول: عَلفْت الدّابة. ويقال للغنم التى تُعْلَفُ: عَلُوفة. والعُلَّف: ثمر الطَّلْح (٢).",
+ "az": "[علف] (eyn, lam və fa) çox işlənən əsas deyildir, sadəcə olaraq العَلَف (yem) sözüdür. Deyirsən: عَلفْت الدّابة (heyvana yem verdim). Yem yeyən qoyun-quzuya عَلُوفة deyilir. وَالعُلَّف — Talh ağacının meyvəsidir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:57:44.708Z"
+}

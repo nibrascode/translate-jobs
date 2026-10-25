@@ -1,0 +1,17 @@
+{
+ "i": 2652,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "علث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 121,
+  "page_to": 121
+ },
+ "ar": "العين واللام والثاء أصلٌ صحيح واحدٌ يدلُّ على خلْط الشّئ بالشئ. من ذلك: العَلِيث، وهى الحنطة يُخلَط بها الشَّعير. وكلُّ شئٍ غيرِ خالصٍ فهذا قياسُه. ومن ذلك أعلاث الزَّاد، وهو ما أُكِلَ غيرَ متخيَّرٍ من شئ. ويقال قَضيبٌ مُعْتَلَثٌ، إذا لم يُتَخَيَّر شجرُه. و «إنَّه ليعتلث الزِّناد» مَثَلٌ يُضرَب لمن لا يتخيَّر مَنكِحَه.",
+ "az": "[علث] (eyn, lam və sa) şeyin şeyə qarışmasına dəlalət edən bir səhih əsasdır. Bunlardandır: العَلِيث, yəni arpa qatılmış buğda. Saf olmayan hər bir şey bu ölçü üzrədir. Bunlardandır: أعلاث الزَّاد, yəni seçilmədən yeyilən azuqə. Deyilir: قَضيبٌ مُعْتَلَثٌ (ağacları seçilməmiş budaq). «إنَّه ليعتلث الزِّناد» — nikah üçün qadın seçməyən kəsə vurulan məseldir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:57:44.708Z"
+}

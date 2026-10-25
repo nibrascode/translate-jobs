@@ -1,0 +1,17 @@
+{
+ "i": 2728,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عبم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 215,
+  "page_to": 215
+ },
+ "ar": "العين والبا، والميم كلمة تدلُّ على غِلَظِ وجفاء. من ذلك العَبَامُ، وهو الرَّجُل الغليظ الخِلْقة فى حُمْق. تقول: عَبُمَ يَعْبُمُ عبَامة. قال:\nفأنكرتُ إنكارَ الكريم ولم أكن … كَفَدْمٍ عَبَامٍ سِيلَ شيئاً فجمجما\nويقال: إنّ العَبَام الماء الكثير، فإن كان صحيحاً فهو قريبٌ، وإلاّ فهو من الإبدال.",
+ "az": "[عبم] (ə-b-m). Eyn, ba və mim hərfləri yoğunluğa və sərtliyə dəlalət edən bir kəlmədir. Bunlardan biri العَبَامُ (əl-əbam) – ağılsızlıqla birlikdə xilqəti yoğun olan kişidir. Deyirsən: عَبُمَ يَعْبُمُ عبَامة (əbumə yəbümü əbamətən). O demişdir: فأنكرتُ إنكارَ الكريم ولم أكن … كَفَدْمٍ عَبَامٍ سِيلَ شيئاً فجمجما (Mən səxavətli insanın inkarı iləinkar etdim, mən... bir şey soruşulduqda kəkələyən ağılsız və yoğun bir kütlə olmadım). Deyilir ki: العَبَام (əl-əbam) – bol sudur, əgər bu səhihdirsə yaxındır, yox əgər deyilsə, onda ibdaldandır (hərfdəyişmödəndir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:11:38.797Z"
+}

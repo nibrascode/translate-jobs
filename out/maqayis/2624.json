@@ -1,0 +1,17 @@
+{
+ "i": 2624,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عفص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 69,
+  "page_to": 69
+ },
+ "ar": "العين والفاء والصاد أُصَيل يدلُّ على التواء أوْلَىٍّ. يقال:\nعَفَص يدَه: لَوَاها. ويقولون: العَفَص: التواءِ فى الأنف.",
+ "az": "[عفص] «عين», «فاء» və «صاد» kökü bükülməyə (əyilməyə, burxulmağa) dəlalət edən kiçik bir əsldir. Deyilir: «عَفَصَ يَدَهُ» (əlimi bükdü/burxdu) — yəni onu bükdü («لَوَاهَا»). Və deyirlər: «العَفَصُ» — burunda olan bükülmədir (əyrilikdir).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:21:59.910Z"
+}

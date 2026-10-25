@@ -1,0 +1,17 @@
+{
+ "i": 2623,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عفس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 68,
+  "page_to": 69
+ },
+ "ar": "العين والفاء والسين أصل صحيح يدلُّ على ممارسَة ومعالَجة. يقولون: هو يعافس الشَّئ، إذا عالَجَه. واعتفَسَ القومُ: اصطرعوا.\nوعُفِسَ، إذا سُجِن. وهذا على معنى الاستعارة، كأنَّه لما حُبِس كان كالمصروع.\nوالمعفوس: المبتَذَل. والعَفْس: سَوق الإبل. والمعنى فى ذلك كلِّه متقارب.",
+ "az": "[عفس] (ə-fə-sə): Ayn, fa və sin hərfləri məşq etməyə və müalicə etməyə dəlalət edən səhih bir kökdür. Deyirlər: O, bir şeylə məşq edir, yəni onu müalicə edir. «اعتَفَسَ القومُ» (qövm mübarizə apardı — ıstərasə edib güləşdilər).\n\nVə «عُفِسَ» (üfisə), yəni həbs olundu. Bu, məcaz mənasındadır, sanki o, həbs olunanda yıxılan kimi idi.\n\n«المعفوس» (məfուս) — ayaqlar altına düşmüş, alçaldılmışdır. «العَفْس» (əfs) — dəvələri qovmaqdır. Bunların hamısında məna bir-birinə yaxındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:20:48.034Z"
+}

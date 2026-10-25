@@ -1,0 +1,17 @@
+{
+ "i": 2658,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "علص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 124,
+  "page_to": 124
+ },
+ "ar": "العين واللام والصاد قريبٌ من الذى قبلَه. على أنهم يقولون: إنَّ العِلّوْص: التُّخَمة، وليس بشئ ولا له قياس. ويقولون إن العِلاص:\nالمضارَبَة بالسَّيْف (١)، وهذا أيضاً لا معنَى له، وكل ما ذُكر فى هذا البناء فمجراه هذا المجرى.",
+ "az": "[علص] (eyn, lam və sad) əvvəlkindəki kimidir. Lakin deyirlər ki, العِلّوْص — həddindən artıq toxluqdur (tüxəmə). Bu, nə bir şeydir, nə də onun qiyası var. Deyirlər ki, العِلاص — qılıncla vuruşmaqdır (١). Bunun da mənası yoxdur. Bu binada qeyd olunan hər şey bu yoldadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:57:44.708Z"
+}

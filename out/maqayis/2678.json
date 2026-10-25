@@ -1,0 +1,17 @@
+{
+ "i": 2678,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عنز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 154,
+  "page_to": 155
+ },
+ "ar": "العين والنون والزاء أصلانِ صحيحان: أحدهما يدلُّ على تنحٍّ وتعزُّل، والآخر جنسٌ من الحيوان.\nفالأول: قولهم: اعتنز فلانٌ، أى تنحَّى وترك النّاحيةَ اعتنازاً. ويقال: ما لى عنه مُعْتَنَزٌ، أى مُعتَزَل، وأنشدوا:\nكأنِّى سهيلٌ واعتنازُ محلِّه … تعرُّضُه فى الأفق ثم يجورُ\nوالأصل الآخر العَنْز: الأنثى من المِعْزى ومن الأوعال والظِّباء. ويقال للأنثى من أولاد الظباء عَنْز، وثلاثُ أعنز، والجمع عِنَازٌ. قال أبو حاتم: لم أسمع فى الغَنَم إلاّ ثلاث أعنُز، ولم أسمع العِنَازَ إلا فى الظباء. ويقولون: العَنْز: ضربٌ من السمك.\nوربما قالوا للأنثى من العِقبان عَنْز. قال بعضهم: العَنْز: العُقاب. وكلُّ ذلك مِمَّا حُمِل على العَنْز من الغنم.\nومما شذَّ عن هذا الباب وعن الأوَّل: العَنَزة، كهيئة العَصا. وبه سمِّىَ عَنَزَة من العرب.\nومن الباب الأوَّل قولهم مُعَنَّز الوجه، إذا كان خفيفَ لحمِ الوجه. وهذا كأنه مشبَّه بالعَنْز من الغنم. ومن الأماكن عُنَيزةُ، وهى أرضٌ. قال مهلهل:\nكأنَّا غُدْوةً وبنى أبِينا … بجنب عُنَيزةٍ رَحَيَا مُديرِ (١)",
+ "az": "[عنز] \n العين والنون والزاء أصلانِ صحيحان: أحدهما يدلُّ على تنحٍّ وتعزُّل، والآخر جنسٌ من الحيوان ( العين، nun və zay hərfləri iki səhih kökə malikdir: biri kənara çəkilməyə və təcrid olunmağa dəlalət edir, digəri isə heyvan cinsidir). \n Birincisi: onların اعتنز فلانٌ (itənazə fülän) deməsidir – yəni kənara çəkildi və həmin tərəfi tərk etdi. Deyilir: ما لى عنه مُعْتَنَزٌ (mā li ənhü mü'tənəzün) – yəni ondan uzaqlaşacaq yerim yoxdur. Və belə demişlər: \n كأنِّى سهيلٌ واعتنازُ محلِّه … تعرُّضُه فى الأفق ثم يجورُ \n (Sanki mən Süheyl ulduzuyam və onun durduğu yer kənara çəkilməkdir, üfüqdə görünür, sonra isə əyilir). \n Digər kök isə العَنْز (əl-anz) – keçi, dağkeçisi və ceyranların dizisidir. Ceyran balalarının dizisinə də canz deyilir, üç ədədi أعنز (əanz), cəmi isə عِنَاز (inaz) gələr. Əbu Hatim demişdir: Qoyunlarda yalnız üç əncüzi eşitdim, inaz sözünü isə yalnız ceyranlarda eşitdim. Onlar deyirlər: العَنْز (əl-anz) – balıq növüdür. \n Bəzən qartalların dizisinə də canz deyirlər. Bəziləri demişdir: العَنْز (əl-anz) – qartaldır. Bütün bunlar qoyun cinsindən olan canza aid edilənlərdir. \n Bu fəsildən və birincidən kənara çıxan söz isə əsa formasında olan العَنَزة (əl-anəzə) sözüdür. Ərəblərdəki «Ənəzə» qəbiləsi də bununla adlandırılmışdır. \n Birinci fəsildən olan digər bir söz onların مُعَنَّز الوجه (muənnəzül-vəjh) deməsidir – üzünün əti az olduqda. Bu, sanki qoyun cinsindən olan canza bənzədilmişdir. Yerin adlarından biri də bir torpaq sahəsi olan عُنَيزةُ (Unəyzə) kəlməsidir. Mühləhil demişdir: \n كأنَّا غُدْوةً وبنى أبِينا … بجنب عُنَيزةٍ رَحَيَا مُديرِ (١) \n (Sanki biz səhər tezdən atamızın oğulları ilə birlikdə Ünəyzənin yanında dəyirman daşları kimi idik (1)).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:05:02.230Z"
+}

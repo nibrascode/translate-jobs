@@ -1,0 +1,17 @@
+{
+ "i": 2648,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "علن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 111,
+  "page_to": 111
+ },
+ "ar": "العين واللام والنون أصلٌ صحيح يدلُّ على إظهار الشَّئ والإشارة [إليه] وظهوره. يقال عَلَنَ الأمر يَعْلُنُ (١). وأعلنته أنا. والعِلَان:\nالمُعالَنة.",
+ "az": "[علن]\n«Ayn», «ləm» və «nun» bir şeyin aşkar edilməsinə, ona işarə edilməsinə və onun zahir olmasına dəlalət edən səhih bir əsldir. Deyilir: «عَلَنَ الأمر يَعْلُنُ» (١) (İş aşkar oldu, bəlli oldu). «وأعلنته أنا» (Onu mən aşkar etdim, bəyan etdim). «العِلَان» isə «المُعالَنة»dir (açıq-aşkar etmək, qarşılıqlı aşkara çıxarmaq).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-25T13:45:37.361Z"
+}

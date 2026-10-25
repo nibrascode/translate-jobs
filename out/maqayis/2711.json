@@ -1,0 +1,17 @@
+{
+ "i": 2711,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عيص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 194,
+  "page_to": 195
+ },
+ "ar": "العين والياء والصاد أصلٌ صحيح، وهو المَنْبِت. قال الخليل. العِيص: مَنْبِت خِيارِ الشَّجر. قال: وأعياص قُريش: كرامهم يتناسبون إلى عِيصٍ. وأعياصٌ وعيصٌ فى آبائهم. وذكَر أيضاً المَعيص، وقال: هو كالمَنْبِت.\nوقال العجّاج فى العِيص:\nمن عِيصِ مَرْوانَ إلى عِيصٍ غِطَمّ (١)\nوقال جرير:\nفما شَجراتُ عِيصِكَ فى قريشٍ … بعَشَّات الفروعِ ولا ضَواحِ (٢)",
+ "az": "[عيص] \nالعين والياء والصاد (ayn, ya və sad) səhih bir əsasdır, o da bitki yeri və mənbədir. Əl-Xəlil demişdir: العِيص (əl-is): seçilmiş ağacların bitdiyi yerdir. Demişdir: أعياص قُريش (Qureyşin əyiası): onların comərdləri, böyükləri bir cövhərə, mənbəyə bağlanırlar. Ata-babalarında أعياصٌ (əyias) və عيصٌ (is) vardır. Həmçinin المَعيص (əl-məyis) sözünü də zikr etmiş və demişdir: O, مَنْبِت (bitki yeri) kimidir.\nƏccəc عِيص (is) haqqında demişdir:\nمن عِيصِ مَرْوانَ إلى عِيصٍ غِطَمّ (١)\n(Məna: Mərvanın kök/ocağından böyük və uca bir ocağa doğru).\nVə Cərir demişdir:\nفما شَجراتُ عِيصِكَ فى قريشٍ … بعَشَّات الفروعِ ولا ضَواحِ (٢)\n(Məna: Qureyş içində sənin kök/ocağının ağacları nə budaqları dolaşıq, nə də açıqda qalan deyildir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:10:21.612Z"
+}

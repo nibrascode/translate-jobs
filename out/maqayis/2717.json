@@ -1,0 +1,17 @@
+{
+ "i": 2717,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عيم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 198,
+  "page_to": 198
+ },
+ "ar": "العين والياء والميم كلمةٌ واحدة صحيحة، وهى شهوةُ اللَّبَن:\nيقال للذى اشْتَهَى اللّبَن عَيْماَنُ، والمرأة عَيْمَى. تقول: عِمْتُ إلى * اللبن عَيْمَة وعَيَماً شديداً. قال الخليل: وكلُّ مصدرٍ مثلِ هذا ممّا يكون لِفَعْلان وفَعْلَى، فإذا أنّثت المصدر قلته على فَعْلة خفيفة، وإذا ثقّلتَ فَعَلَى فَعَلٍ (٣)، نحو الحَيَر والحَيْرة. وجمع العَيْمان عَيامَى وَعِيام.",
+ "az": "[عيم] (Ayn, ya və mim) düzgün, tək bir sözdür, o da süd həvəsidir: Süd arzulayan adama عَيْمان (eyman), qadına isə عَيْمَى (eyma) deyilir. Belə deyirsən: عِمْتُ إلى اللبن عَيْمَة وعَيَماً شديداً [Mən saya güclü bir həvəslə (istəklə) susadım]. Xəlil demişdir: Fəlan (فَعْلان) və fəla (فَعْلَى) üçün olan bunun kimi hər bir məsdər, məsdəri qadın cinsinə çevirdikdə onu yüngül fəylə (فَعْلة), fəlalanı (فَعَلَى) isə fəlalin (فَعَلٍ) üzrə ağırlaşdırdın (٣), həyər (الحَيَر) və həyra (الحَيْرَة) kimi. Eymanın (العَيْمان) cəmi əyamə (عَيامَى) və ciyamdır (عِيام).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:10:30.244Z"
+}

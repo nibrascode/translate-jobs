@@ -1,0 +1,17 @@
+{
+ "i": 2612,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 51,
+  "page_to": 52
+ },
+ "ar": "العين والطاء أُصَيْلٌ يدلُّ على صوتٍ من الأصوات. من ذلك العَطْعطة. قال الخليل: هى حكايةُ صوت المُجّانِ إذا قالوا: عِيطَ عِيط.\nوقال الدّريدىّ (٣): «العطعطة: حكاية الأصوات إذا تتابعت فى الحرب».\nومن الباب قول أبى عمرو: إنّ العَطاط: الشُّجاع الجسيم، ويوصَف به الأسد.\nوهذا أيضاً من الأوّل، كأنّ زئيرَه مشبَّه بالعطعطة. قال المتنخِّل (٤):\nوذلك يقتل الفِتْيانَ شَفْعاً … ويسلُبُ حُلَّةَ اللَّيثِ العَطاط\nومن الباب أيضاً: العَطُّ: شَقُّ الثّوب عَرضاً أو طولاً من غير بَينونة. يقال جذبت ثوبَه فانعَطّ، وعططته أنا: شقَقْته. قال المتنخِّل (١):\nبِضربٍ فى القوانس ذى فُرُوغٍ … وطعنٍ مثلِ تعطيطِ الرِّهاطِ\nوقال أبو النجم:\nكأنّ تحتَ دِرْعِها المنعَطِّ … شَطَّا رميتَ فوقَه بشطِّ (٢)\nوالأصل فى هذا أيضاً من الصَّوت، لأنّه إذا عطّه فهناك أدنَى صوت.",
+ "az": "[عط] Ayn və ta səslərdən bir səsə dəlalət edən kiçik bir əsldir. Bu qəbildəndir: «العَطْعطة» (at-ata). Əl-Xəlil demişdir: Bu, zarafatçıl kişilərin «عِيطَ عِيط» (it-it) dedikləri vaxt çıxardıqları səsin təqlididir.\nƏd-Dureydi (٣) demişdir: «العطعطة — müharibədə səslərin ard-arda gəlməsinin təqlididir».\nBu babdandır Əbu Əmrin dediyi: «العَطاط» — şücaətli, iri cüssəli insandır və aslan da bununla vəsf olunur.\nBu da birinci mənadandır, sanki onun nərəsi «العطعطة» səsinə bənzədilib. Əl-Mütənəxxil (٤) demişdir:\nوذلك يقتل الفِتْيانَ شَفْعاً … ويسلُبُ حُلَّةَ اللَّيثِ العَطاط\n(Mənası: O, igidləri cüt-cüt öldürər və cəsur/iri aslanın dərisini soyar).\nYenə bu babdandır: «العَطُّ» — paltarı kəsilib ayrılmadan uzununa və ya eninə cırmaq/yarmaqdır. Deyilir: «جذبت ثوبَه فانعَطّ» (Paltarını çəkdim, cırıldı), «وعططته أنا» (Mən onu cırdım). Əl-Mütənəxxil (١) demişdir:\nبِضربٍ فى القوانس ذى فُرُوغٍ … وطعنٍ مثلِ تعطيطِ الرِّهاطِ\n(Mənası: Dəbilqələrə endirilən, qanı fışqırdan zərbələrlə və gön kəmərlərin/paltarların cırılması kimi nizə sancması ilə).\nƏbu ən-Nəcm demişdir:\nكأنّ تحتَ دِرْعِها المنعَطِّ … شَطَّا رميتَ فوقَه بشطِّ (٢)\n(Mənası: Sanki onun cırılmış geyiminin altında bir-birinin üzərinə qoyduğun iki çay sahili [və ya ucaboylu bədən] vardır).\nBundakı əsl məna da səsdəndir, çünki bir şeyi cırdıqda orada xəfif bir səs əmələ gəlir.",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:12:57.591Z"
+}

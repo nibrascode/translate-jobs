@@ -1,0 +1,17 @@
+{
+ "i": 2682,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عنط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 158,
+  "page_to": 158
+ },
+ "ar": "العين والنون والطاء أُصَيلٌ صحيح يدلُّ على طول جسمٍ وحُسنِ قوام.\nقال الخليل: العَنطْنط، اشتقاقه من عَنَط، ولكنَّه قد أُردِف بحرفين فى عَجُزه. قال رؤبة:\nيَمطُو السُّرَى بعُنقُ عَنَطنَطِ (١)\nوامرأة عَنَطْنطة: طويلة العُنُق مع حُسْن قَوام. قال يصف رجلاً وفرساً:\nعَنَطْنَطٌ تعدو به عَنطنطهْ … للماء تحت البطن منْه غطمطهْ (٢)",
+ "az": "[عنط] العين والنون والطاء (ayn, nun, ta) bədənin uzunluğuna və gözəl qamətinə dəlalət edən səhih kiçik bir kökdür. Xəlil demişdir: «العَنطْنط» (əl-antant), onun törəməsi «عَنَط»-dən (anat) gəlir, lakin onun sonuna iki hərf artırılmışdır. Rübə demişdir: يَمطُو السُّرَى بعُنقُ عَنَطنَطِ (١) (Uzun boyunla səyahəti uzadır). «امرأة عَنَطْنطة» (Anantanta qadın): gözəl qamətlə birlikdə boynu uzun olan qadın. Bir kişi ilə atı təsvir edərək demişdir: عَنَطْنَطٌ تعدو به عَنطنطهْ … للماء تحت البطن منْه غطمطهْ (٢) (Uzunboylu bir at ki, onun uzunboyluluğu ilə qaçır... Qarnının altında su üçün onun qığıltısı vardır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:05:15.345Z"
+}

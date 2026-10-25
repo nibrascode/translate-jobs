@@ -1,0 +1,17 @@
+{
+ "i": 2619,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عفت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 62,
+  "page_to": 62
+ },
+ "ar": "العين والفاء والتاء كلمة تدلُّ على كسر شئ، يقولون: عَفَتَ العظمَ: كسَرَه. ثم يقولون العَفت فى الكلام: كَسْرُه لُكنةً، ككلامِ الحبشىّ (١).",
+ "az": "[عفت] ain, fa və ta bir şeyi sındırmağa dəlalət edən bir kəlmədir. Deyirlər: «عَفَتَ العظمَ» (Sümüyü sındırdı). Sonra nitqdəki «العَفت» (əl-aft) haqqında deyirlər: Qüsur və ya pəltəklik səbəbindən mətni/sözü sındırmaqdır (səhv tələffüz etməkdir), həbəşinin danışığı kimi (١).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:14:36.211Z"
+}

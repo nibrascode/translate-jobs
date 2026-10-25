@@ -1,0 +1,17 @@
+{
+ "i": 2739,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عثر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 228,
+  "page_to": 229
+ },
+ "ar": "العين والثاء والراء أصلانِ صحيحان، يدل أحدهما على الاطِّلاع على الشئ، والآخر [على] الإثارة للغُبار.\nفالأوَّل عَثَر يعثُر عُثُوراً، وعثر الفرسُ يعثُر عِثاراً، وذلك إذا سقَطَ لوجهه.\nقال بعض أهل العلم: إنما قيل عَثَر من الاطِّلاع، وذلك أنَّ كل عاثرٍ فلا بدَّ أن ينظر إلى موضع عَثْرته. ويقال: عَثَر الرجل يعثُر عُثوراً وعَثراً، إذا اطَّلع على أمرٍ لم يطَّلع عليه غيرُه. كذا قال الخليل. وأعثَرْتُ فلاناً على كذا، إذا أطلعتَه عليه.\nقال اللّه تعالى: ﴿فَإِنْ عُثِرَ عَلى أَنَّهُمَا اِسْتَحَقّا إِثْماً﴾، أى إن اطُّلِع. وقال تعالى:\n﴿وَكَذلِكَ أَعْثَرْنا عَلَيْهِمْ﴾. والعاثور: المكان يُعثَر به. قال:\nوبلدةِ كثيرةِ العاثور (١)\nأراد كثيرة المتالف.\nوالأصل الآخر العِثْيَر [والعِثْيرة]، وهو الغُبار الساطع. قال:\nترى لهم حَولَ الصِّقَعْل عِثْيرهْ (٢)\nفأمَّا قولهم: ما رأيتُ له أثراً ولا عَثْيَراً، فقالوا: العَثْيَر: ما قُلِب من تراب أو مَدَر. وهو راجعٌ إلى ما ذكرناه. وقال:\nلقد عَيْثَرتَ طيرَك لو تعيفُ (١)\nأى رأيتها جَرَت، كأنَّه أراد الأثر.",
+ "az": "[عثر] العين والثاء والراء (əyn, sə və ra) iki səhih kökdir, bunlardan biri bir şeydən xəbərdar olmağa, diqqət yetirməyə, digəri isə toz qaldırmağa dəlalət edir. Birincisi: عَثَر يعثُر عُثُوراً (athara yathuru uthuran), atın ayağının büdrəməsi عَثَر الفرسُ يعثُر عِثاراً (athara əl-farsu yathuru itharan), bu da onun üzüstə yıxıldığı vaxt baş verir. Elm əhlindən biri demişdir: عَثَر (athara) sözü məhz xəbərdar olmaqdan götürülmüşdür, çünki hər bir büdrəyən mütləq büdrədiyi yerə baxır. Deyilir: عَثَر الرجل يعثُر عُثوراً وعَثراً (athara əl-raculu yathuru uthuran və athran), bir kəsin başqasının xəbərdar olmadığı bir işdən xəbərdar olması. Xəlil belə demişdir. Və أعثَرْتُ فلاناً على كذا (a-thartu fəlänən alə kəza) - yəni sən onu bundan xəbərdar etdin. Uca Allah buyurmuşdur: ﴿فَإِنْ عُثِرَ عَلى أَنَّهُمَا اِسْتَحَقّا إِثْماً﴾ (mənaca tərcümə: Əgər onların ikisinin günah qazandıqları aşkarlanarsa), yəni xəbərdar olunarsa. Həmçinin Uca Allah buyurmuşdur: ﴿وَكَذلِكَ أَعْثَرْنا عَلَيْهِمْ﴾ (mənaca tərcümə: Beləcə Biz onları xəbərdar etdik / aşkara çıxardıq). Və العاثور (əl-asur) - üzərində büdrənən yer. Şair demişdir: وبلدةِ كثيرةِ العاثور (١) (Və çoxlu təhlükələri olan məmləkət). O, təhlükələri və fəlakətləri çox olanı qəsd etmişdir. Digər kök isə: العِثْيَر [والعِثْيرة] (əl-ithyər və əl-ithiyrə), bu da havaya qalxan toz deməkdir. Şair demişdir: ترى لهم حَولَ الصِّقَعْل عِثْيرهْ (٢) (Görürsən ki, onların ətrafında Sıqəlin ətrafında toz-tüstü qalxır). Amma onların ما رأيتُ له أثراً ولا عَثْيَراً (Mən onun nə bir izini, nə də tozunu gördüm) sözünə gəldikdə, demişlər ki, العَثْيَر (əl-ithyər) - torpaqdan və ya kəsəkdən çevrilən şeydir. Bu da qeyd etdiyimizə qayıdır. Və şair demişdir: لقد عَيْثَرتَ طيرَك لو تعيفُ (١) (Həqiqətən, əgər quşların uçuşuna fal baxsaydın, quşlarını çaşdırdın) - yəni onların qaçdığını gördün, sanki izi qəsd etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:12:24.062Z"
+}

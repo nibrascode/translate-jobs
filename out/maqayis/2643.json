@@ -1,0 +1,17 @@
+{
+ "i": 2643,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عكس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 107,
+  "page_to": 107
+ },
+ "ar": "العين والكاف والسين أصلٌ صحيح واحدٌ، يدلُّ على مثل ما تقدَّم ذكره من التجمّع والجَمْع.\nقال الخليل: العَكيس من اللبن: الحليب تصَبُّ عليه الإهالة. قال:\nفلما سقيناها العَكِيس تَمَلَّأتْ … مذاخِرُها وارفضَّ رَشْحاً وريدُها (٣)\nالمذاخر: الأمعاء التى تذْخرُ الطَّعام.\nومن الباب: العَكْس، قال الخليل: هو ردُّك آخرَ الشئِ، على أوله، وهو كالعَطْف. ويقال تعكَّسَ فى مِشْيَتِه، ويقال العَكس: عَقْل يدِ البعير والجمعُ بينهما وبين عنقه، فلا يقدرُ أن يرفعَ رأسه. ويقال: «مِنْ دون ذلك الأمر عِكاسٌ»، أى تَرادٌّ وتراجُع.",
+ "az": "[عكس] (Ayn, kaf və sin) – yığılma və toplamaq barədə əvvəl qeyd olunanlara dəlalət edən tək bir səhih kökdür.\nXəlil demişdir: العَكيس (əl-əkis): Üzərinə ədviyyat (və ya piy) tökülən süd. (Şair) demişdir:\nفلما سقيناها العَكِيس تَمَلَّأتْ … مذاخِرُها وارفضَّ رَشْحاً وريدُها (٣) \n(Fə-ləmmə saqaynəhəl-əkіsə təmalləat… məzaxiruhə varfadda raşhən vəriduhə)\nəl-Məzaxir: Yeməyi yığıb saxlayan bağırsaqlar.\nFəsildəndir: العَكْس (əl-əks), Xəlil demişdir: Bir şeyin sonunu əvvəlinə qaytarmaqdır, o da ətfa bənzər. Və deyilir: تعكَّسَ فى مِشْيَتِه (təakkəsə fi mişyətihi). Və deyilir: العَكس (əl-əks): Dəvənin əlini bağlamaq və onu boyunu ilə birləşdirməkdir ki, başını qaldıra bilməsin. Və deyilir: «مِنْ دون ذلك الأمر عِكاسٌ» (Min duna zəlikəl-əmri ikasun) – yəni qarşılıqlı qayıdış və geri çəkilmələr.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:41:27.671Z"
+}

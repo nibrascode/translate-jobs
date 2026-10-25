@@ -1,0 +1,17 @@
+{
+ "i": 2632,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عقز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 96,
+  "page_to": 96
+ },
+ "ar": "العين والقاف والزاء بناء ليس يشبه كلامَ العرب، وكذلك العين والقاف والسين، والقاف والشين، مع أنّهم يقولون العَقْش: بقلة أو نبتٌ.\nوليس بشئ.",
+ "az": "[عقز]\n«Ayn», «qaf» və «za» [عقز] ərəb kəlamına bənzəməyən bir quruluşdur. Eynilə «ayn», «qaf» və «sin» [عقس], həmçinin [عقش] «qaf» və «şin» də belədir; baxmayaraq ki deyirlər: «العَقْشُ» – bir ot və ya bitkidir. Lakin bu heç bir əhəmiyyəti olmayan (möhtəbər olmayan) şeydir.",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:28:52.923Z"
+}

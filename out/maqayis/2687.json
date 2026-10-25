@@ -1,0 +1,17 @@
+{
+ "i": 2687,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 166,
+  "page_to": 167
+ },
+ "ar": "العين والهاء والباء كلمةٌ واحدة إن صحَّت. قال الخليل:\nالعَيْهَب: الضَّعيف من الرِّجال عن طلب الوِتْر. قال الشاعر (٢):\nحللت به وِتْرِى وأدركتُ ثُؤْرَتى … إذا ما تناسى ذَحْلهُ كلُّ عَيهبِ (٣)\nفأمّا الذى يُروَى عن الشَّيبانى: كانَ ذلك على عِهِبَّى فلانٍ، أى فى زمانه.\nوأنشد:\nعهدى بسَلمَى وهى لم تَزَوَّجِ … على عِهِبَّى عيشِها المخرفَجِ (٤)\nفقد قيل، واللّه أعلم بصحّته.",
+ "az": "[عهب] Ayn, hə və ba hərfləri, əgər düzdürsə, tək bir kəlmədir. Xəlil demişdir: «العَيْهَب» (əl-əyhəb) - qisas almaqdan aciz olan zəif kişidir. Şair demişdir: «حللت به وِتْرِى وأدركتُ ثُؤْرَتى … إذا ما تناسى ذَحْلهُ كلُّ عَيهبِ» (Mən onunla qisasımı aldım və intiqamımı əldə etdim... hər bir zəif kəs öz qan davasını unutduğu zaman). Şeybanidən rəvayət olunan «كانَ ذلك على عِهِبَّى فلانٍ» (kanə zalikə alə ihibbəti fulan) - yəni onun zamanında deməkdir. Şeir gətirilmişdir: «عهدى بسَلمَى وهى لم تَزَوَّجِ … على عِهِبَّى عيشِها المخرفَجِ» (Səlmə ilə olan əhdim, o hələ ərə getməmişdi... onun rahat həyatının zamanında). Bu deyilmişdir, Allah onun doğruluğunu daha yaxşı bilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T14:07:29.167Z"
+}

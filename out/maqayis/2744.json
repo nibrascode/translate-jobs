@@ -1,0 +1,17 @@
+{
+ "i": 2744,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عجد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 231,
+  "page_to": 231
+ },
+ "ar": "العين والجيم والدال ليس بشئ، على أنهم يقولون: العُجْد:\nالزبيب. ويقال هو العُنْجُد.",
+ "az": "[عجد] «العين» (عين), «الجيم» (جيم) və «الدال» (دال) bir şey deyildir. Lakin onlar «العُجْد» (əl-ücd) – kişmiş deməkdir, deyirlər. Həmçinin onun «العُنْجُد» (əl-üncüd) olduğu da söylənir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:12:45.079Z"
+}

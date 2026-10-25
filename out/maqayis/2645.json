@@ -1,0 +1,17 @@
+{
+ "i": 2645,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عكص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 108,
+  "page_to": 108
+ },
+ "ar": "العين والكاف والصاد قريبٌ من الذى قبلَه، إلاّ أن فيه زيادةَ معنى، هى الشّدَّة. قال الفرّاء: رجل عَكِصٌ، أى شديد الخُلُق سيِّئُه وعَكَصُ الرَّمل: شِدّة وُعوثته. يقال رملةٌ عَكِصَةٌ.",
+ "az": "[عكص] (Ayn, kaf və sad) – əvvəlkindən azca fərqlidir, lakin onda əlavə olaraq şiddət mənası vardır. Fəraa demişdir: رجل عَكِصٌ (raculun əkişun) – xasiyyəti sərt, pis xasiyyətli insan. وَعَكَصُ الرَّمل (və əkəsur-ramli): qumun gediş-gəlişinin çətinliyi, sərtliyi. Deyilir: رملةٌ عَكِصَةٌ (ramlətun əkişətun).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:41:27.671Z"
+}

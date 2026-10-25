@@ -1,0 +1,17 @@
+{
+ "i": 2628,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عقو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 77,
+  "page_to": 77
+ },
+ "ar": "العين والقاف والحرف المعتل كلماتٌ لا تنقاس وليس يجمعُها أصلٌ، وهى صحيحة. وإحداها العَقْوة: ما حولَ الدّار. يقال ما يَطُور بعَقْوَةِ فلانٍ أحد. والكلمة الأخرى: العِقْىُ: ما يخرُج من بطن الصبىّ حين يُولَد. والثالثة:\nالعِقْيان، * وهو فيما يقال: ذهبٌ ينبت نباتاً، وليس مما يحصَّلَ من الحِجارة.\nوالاعتقاء مثل الاعتقام فى البئر، وقد ذكرناه. ويقال عَقَّى الطائر، إذا ارتفع فى طيَرانه. وعقَّى بسهمه فى الهواء. وينشد:\nعَقَّوْا بسهم فلم يَشعُر به أحدٌ … ثم استفاءُوا وقالوا حبّذا الوَضَحُ (٢)\nومن الكلمات أعقى الشَّئُ، إذا اشتدَّت مرارتُه.",
+ "az": "[عقو]\nAyn, qaf və illetli hərf: qiyas olunmayan, vahid kökdə birləşməyən, lakin səhih olan kəlmələrdir. Bunun biri «العَقْوة»dir: evin ətrafı/həyəti. Deyilir: «ما يَطُور بعَقْوَةِ فلانٍ أحد» (Heç kəs filankəsin evinin ətrafında dolanmaz). Digər kəlmə: «العِقْىُ»: körpə doğularkən qarnından çıxan ilk nəcisdir. Üçüncüsü: «العِقْيان»: deyildiyinə görə, bitki kimi bitən qızıldır, daşlardan əldə edilənlərdən deyildir.\n«الاعتقاء» — quyu haqqında «الاعتقام» kimidir, onu qeyd etmişdik. Deyilir: «عَقَّى الطائر» — quş uçuşunda yuxarı qalxdıqda deyilir. Həmçinin «عقَّى بسهمه فى الهواء» (oxunu havaya atdı). Şeir oxunur:\nعَقَّوْا بسهم فلم يَشعُر به أحدٌ … ثم استفاءُوا وقالوا حبّذا الوَضَحُ (٢)\n(Oxu havaya atdılar, heç kəs onu hiss etmədi; sonra geri döndülər və dedilər: \"Süd nə gözəldir!\").\nBu kəlmələrdəndir: «أعقى الشَّئُ» — bir şeyin acılığı şiddətləndikdə deyilir.",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:22:31.616Z"
+}

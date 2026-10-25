@@ -1,0 +1,17 @@
+{
+ "i": 2681,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عنص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 157,
+  "page_to": 157
+ },
+ "ar": "العين والنون والصاد أُصَيل صحيحٌ على شئ من الشَّعْرَ.\nقال الخليل: العُنْصُوة: الخُصْلة من الشَّعر. قال الشاعر:\nلقد عَيَّرَتْنِى الشَّيبَ عرسى ومَسَّحت … عناصِىَ رأسى فهى من ذاك تعجبُ\nومما يُقاس على هذا قولُهم: بأرضِ بنى فلانٍ عَنَاصٍ من النَّبت؛ وكذلك الشَّعر إذا كان قليلاً متفرِّقا، الواحدة عُنصُوَة. قال أبو النَّجم:\nإن يُمْسِ رأسى أشمطَ العَناصِى … كأنما فرَّقَه مُناصِى (٣)\nقال الفرّاء: يقال: ما بقى من مالِه إلاّ عَنَاصٍ، وذلك إذا بقِى منه اليسير.\nقال ابنُ الأعرابى: العُنْصُوة: قُنزُعة فى جانب الرأس.",
+ "az": "[عنص] العين والنون والصاد (ayn, nun, sad) tük haqqında olan səhih kiçik bir kökdür. Xəlil demişdir: «العُنْصُوة» (əl-unsuvə) - bir tutam tük. Şair demişdir: لقد عَيَّرَتْنِى الشَّيبَ عرسى ومَسَّحت … عناصِىَ رأسى فهى من ذاك تعجبُ (Zöhrəm mənə qocalığı arз vurdu və başımın saç tutamlarını sığalladı, buna görə də o təəccüblənir). Buna qiyas edilən sözlərdən biri də onların: «بأرضِ بنى فلانٍ عَنَاصٍ من النَّبت» (Bəni Fəlanın torpağında bir az bitki vardır) - deməsidir; eynilə tük az və səpələnmiş olduqda da belədir, təkli «عُنصُوَة» (unsuvə)-dir. Əbu Nəjm demişdir: إن يُمْسِ رأسى أشمطَ العَناصِى … كأنما فرَّقَه مُناصِى (٣) (Əgər başım ağarmış saç tutamları ilə axşama çıxsa... sanki mənim tərəfkeşim onu ayırmış kimi). Fəra demişdir: Deyilir: «ما بقى من مالِه إلاّ عَنَاصٍ» (Onun malından ancaq az bir şey qaldı), bu, az bir hissə qaldıqda işlədilir. İbn əl-Ərabi demişdir: «العُنْصُوة» (əl-unsuvə) - başın kənarındakı kiçik saç dəstəsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:05:15.345Z"
+}

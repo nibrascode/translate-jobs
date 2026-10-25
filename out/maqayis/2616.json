@@ -1,0 +1,17 @@
+{
+ "i": 2616,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 56,
+  "page_to": 56
+ },
+ "ar": "العين والفاء واللام كلمة تدلُّ على زيادةٍ فى خلقة. قال الخليل: العَفَل يخرج فى حياء النّاقة كالأُدرة، وهى عَفْلاء. ويقال: العَفْل شحمُ خُصْبَى الكَبْش. قال بشر:\nوارمُ العَفْل مُعْبَرُ (٢)\nقال الكسائىّ: العَفْل: الموضع الذى يَجَسُّ (٣) من الشاة إذا أرادوا أن يعرفوا سِمَنها.",
+ "az": "[عفل]\n«Əyn», «fə» və «lam» xilqətdə (bədən quruluşunda) olan bir artıqlığa dəlalət edən bir kəlmədir. Əl-Xəlil demişdir: «العَفَل» — dişi dəvənin cinsiyyət üzvündə yırtıq (odra) kimi çıxan ət parçasıdır; belə dəvəyə «عَفْلاء» deyilir. Deyilir: «العَفْل» — qoçun xayasının piydir. Bişr demişdir:\nوارمُ العَفْل مُعْبَرُ (٢)\nƏl-Kisai demişdir: «العَفْل» — qoyunun kök olub-olmadığını bilmək istədikdə əllənib yoxlanılan yeridir (٣).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:13:36.772Z"
+}

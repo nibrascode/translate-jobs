@@ -1,0 +1,17 @@
+{
+ "i": 2655,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "علز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "العين واللام والزاء أُصَيل يدلُّ على اضطرابٍ من مرض. من ذلك: العَلَز: كالرعدة تأخذ المريض. وربما قالوا: عَلِز من الشَّى: غَرِض (٢).\nوعالِز: موضع. قال:\nعفا بطن قَوٍّ من سُلَيْمى فعالزُ … فذاتُ الغَضَا .... (٣).",
+ "az": "[علز] (eyn, lam və zay) xəstəlikdən yaranan narahatlığa dəlalət edən kiçik bir əsasdır. Bunlardandır: العَلَز — xəstəni tutan titrəmə kimi hal. Bəzən deyirlər: عَلِز من الشَّى (şeydən darıxdı) - (٢). وَعَالِز — yer adıdır. (٣) demişdir: عفا بطن قَوٍّ من سُلَيْمى فعالزُ … فذاتُ الغَضَا .",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:57:44.708Z"
+}

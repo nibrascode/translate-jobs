@@ -1,0 +1,17 @@
+{
+ "i": 2760,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 248,
+  "page_to": 248
+ },
+ "ar": "العين والدال والميم أصلٌ واحدٌ يدلُّ على فِقْدَان الشئ وذَهابه. من ذلك العَدَم. وعَدِم فلانٌ الشَّئَ، إذا فقده. وأعْدمه اللّه تعالى كذا، أى أفاتَه. والعديم: الذى لا مالَ له؛ ويجوز جمعُه على العُدَماء، كما يقال فقير وفُقَراء. وأعْدَمَ الرّجلُ: صار ذا عدمٍ (١). وقال فى العديم:\nوعَدِيمُنا متعففٌ متكرِّمٌ … وعلى الغنىِّ ضَمانُ حقِّ المُعْدِمِ\nوقال فى العدم حسّانُ بن ثابت:\nرُبَّ حِلمٍ أضاعه عَدَم الما … لِ وجهلٍ غطّى عليه النّعيمُ (٢)",
+ "az": "«عدم» (ə-d-m) — ayn, dal və mim tək bir kök olub, bir şeyin itirilməsinə və yox olmasına dəlalət edir. Bunlardan biri العَدَم (əl-ədəm) yoxsulluqdur. Və «عَدِم فلانٌ الشَّئَ» (filankəs şeyi itirdi). Və «أعْدمه اللّه تعالى كذا» (Uca Allah ona filan şeyi itirtdi). Və العَدِيم (əl-ədim): malı olmayan kəs; onun cəmi فقير (fəqir) və فُقَراء (füqəra) deyildiyi kimi عُدَماء (udəma) kimi cəmlənməsi caizdir. Və «أعْدَمَ الرّجلُ» (kişi yoxsullaşdı) — yoxsulluq sahibi oldu. Ədim haqqında demişdir: وَعَدِيمُنا متعففٌ متكرِّمٌ … وعلى الغنىِّ ضَمانُ حقِّ المُعْدِمِ (Bizim yoxsul kəsimiz israrsız və alicənabdır... zənginin üzərində isə yoxsulun haqqına zəmanət vardır). Və yoxsulluq haqqında Həssan ibn Sabit demişdir: رُبَّ حِلمٍ أضاعه عَدَم الما … لِ وجهلٍ غطّى عليه النّعيمُ (٢) (Çox vaxt elə bir həlimliyi mal-dövlətin yoxsulluğu zay etmişdir ki, cahilliyi isə nemət ört-basdır etmişdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:13:31.828Z"
+}

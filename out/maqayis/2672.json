@@ -1,0 +1,17 @@
+{
+ "i": 2672,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 145,
+  "page_to": 146
+ },
+ "ar": "العين والميم واللام أصلٌ واحدٌ صحيح، وهو عامٌّ فى كلِّ فِعْلٍ يُفْعَل.\nقال الخليل: عَمِل يَعْمَلُ عَمَلاً، فهو عامل؛ واعتمل الرّجل، إذا عمِل بنفسه. قال:\nإنّ الكريم وأبيكَ يَعتَمِلْ … إن لم يَجِد يوماً على مَنْ يتَّكِلْ (٢)\nوالعمالة (٣): أجر ما عُمِل. والمعاملة: مصدرٌ من قولك عاملته، وأنا أُعامِله معاملةً. والعَمَلَة: القوم يعملون بأيديهم ضُروباً من العمل، حفراً، أو طيَّا أو نحوه. ومن الباب: عامِلُ الرُّمحِ وعامِلتَهُ، وهو ما دون الثَّعلب قليلاً مما يلى السِّنان، وهو صدره. قال:\nأطْعَن النَّجْلاءَ يَعوِى كَلْمُها … عامِلُ الثَّعلبِ فيها مَرْجَحِنّ\nقال: والرّجل يعتمل لنفسِه، ويعمل لقَومٍ، ويستعمل غيره، ويُعْمِل رأيَه أو كلامه أو رُمْحه. والبنّاء يستعمل اللّبِن، إذا بنَى به. قال: واليَعْمَلة من الإبل:\nاسمٌ لها اشتُقَّ من العَمَل، والجمع يَعْمَلات. ولا يقال ذلك إلاّ للأُنثى، وقد يجوز اليَعَامِل. قال ذو الرُّمّة (٤) أو غيرُه:\nواليَعْمَلات على الوجى … يَقطعن بيداً بعد بيدِ\nواللّه أعلم.",
+ "az": "«عمل» (əməl): ع (eyn), م (mim) və ل (lam) hərfləri tək bir səhih kökdür və görülən hər bir işə şamil edilir. Xəlil demişdir: عَمِل يَعْمَلُ عَمَلاً (əmilə, yəməlu, əmələn) — o iş gördü, demək olar ki, o عامل (amil) dir; və اعتمل الرّجل (i'təmələr-rəcul) — adam özü iş gördü. O demişdir: إنّ الكريم وأبيكَ يَعتَمِلْ … إن لم يَجِد يوماً على مَنْ يتَّكِلْ (٢) (And olsun ki, atana yəqin olsun ki, kərim adam işləyər… əgər bir gün güvənəcək kimsə tapmasa). Və العمالةُ (əl-əmalətu) — görülən işin haqqıdır. المعاملةُ (əl-muamələtu) — عاملته (amilətuhu) və أنا أُعامِله معاملةً (ənə uamilihu muamələtən) sözündən mədərdir. العَمَلَةُ (əl-əmələtu) — qazıntı, hörgü və ya bənzəri iş növlərini əlləri ilə görən tayfadır. Bu باب (fəsil) dəndir: عامِلُ الرُّمحِ (amilur-rumhi) və عامِلتُهُ (amilutuhu) — nizənin ucluğuna (sənanına) yaxın olan tülkübalığından azacıq aşağı hissədir, yəni onun sinəsidir. O demişdir: أطْعَن النَّجْلاءَ يَعوِى كَلْمُها … عامِلُ الثَّعلبِ فيها مَرْجَحِنّ (Tülkübalığının amili orada ağır şəkildə duran, yarası ulayan dərin yaranı sancıram). O demişdir: Adam özü üçün işləyər, qövmü üçün işləyər, başqasına iş gördürər, öz rəyini, sözünü və ya nizəsini işə salar. Bənna kərpiclə tikinti apararkən كربicləri işlədir. Və اليَعْمَلةُ (əl-yəmlətu) — işdən törəmiş dəvə adlarıdır, cəmi يَعْمَلاتٌ (yəməlat) olar. Bu yalnız dişi dəvələrə aid edilir, يَعَامِلُ (yəamil) də icazəlidir. Zü r-Rummə (٤) və ya başqası demişdir: واليَعْمَلات على الوجى … يَقطعن بيداً بعد بيدِ (Yəməlat dəvələri daşlıq üzərində… səhradan sonra səhra qət edirlər). Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:03:47.599Z"
+}

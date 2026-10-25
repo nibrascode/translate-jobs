@@ -1,0 +1,17 @@
+{
+ "i": 2683,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 158,
+  "page_to": 158
+ },
+ "ar": "العين والنون والفاء أصلٌ صحيح يدلُّ على خلاف الرِّفق.\nقال الخليل: العُنْف: ضدُّ الرِّفق. تقول عَنُفَ يعنُف عُنْفاً فهو عنيف، إذا لم يَرفُق فى أمره. وأعنفته أنا. ويقال: اعتنفْت الشّئ، إذا كرهتَه ووجدتَ له عُنْفاً عليك ومشَقّة. ومن الباب: التعنيف، وهو التَّشديد فى اللوم. فأمَّا العُنْفَوان فأوَّل الشّئ، يقال عُنفُوان الشَّباب، وهو أوّله، فهذا ليس من الأوّل، إنّما هذا من باب الإبدال، وهو أنّ العينَ مبدلةٌ من همزة، والأصل الأَنْف؛ وأنفُ كلِّ شئ:\nأوّله. قال:\nماذا تقول بِنتَها تلمَّسُ … وقد دَعاها العُنفوانُ المُخْلِسُ\nوقال آخَر:\nتلومُ امرأً فى عنفوانِ شبابِه … وتترك أشْياعَ الضَّلال تحين",
+ "az": "[عنف] العين والنون والفاء (ayn, nun, fa) mülayimliyə zidd olmağa dəlalət edən səhih bir kökdür. Xəlil demişdir: «العُنْف» (əl-unf) - mülayimçiliyin əksi. Deyirsən: «عَنُفَ يعنُف عُنْفاً فهو عنيف» (kobudluq etdi, kobudluq edir, kobudluq - o, kobud bir adamdır), öz işində mülayim davranmadıqda. Və «أعنفته أنا» (Mən ona kobudluq etdim). Deyilir: «اعتنفْت الشّئ» (Mən o şeyi xoşlamadım və onun sənə qarşı sərtliyini və çətinliyini tapdım), - onu xoşlamadığın və onun sənə qarşı kobudluğunu və çətinliyini gördüyün zaman. Bu fəsildəndir: «التَّعنيف» (ət-tənif), bu da məzəmmətdə şiddət göstərməkdir. Amma «العُنْفَوان» (əl-unfuvan) - bir şeyin əvvəlidir, «عُنْفُوان الشَّباب» (cavanlığın əvvəli) - yəni onun başlanğıcı deyilir, bu isə birinci babdan deyil, əksinə bu, əvəzetmə babındandır; belə ki, ayn hərfi həmzə hərfinin əvəzinə gəlmişdir, əsli isə «الأَنْف» (əl-ənf)-dir; hər şeyin «أنف»-i onun əvvəlidir. Şair demişdir: ماذا تقول بِنتَها تلمَّسُ … وقد دَعاها العُنفوانُ المُخْلِسُ (Nə deyirsən, onun qızı axtarır... halbuki oğurlayan gənclik onu çağırmışdır). Başqası da demişdir: تلومُ امرأً فى عنفوانِ شبابِه … وتترك أشْياعَ الضَّلال تحين (Gəncliyinin başlanğıcında olan bir adamı qınayırsan... və azğınlıq tərəfdarlarını həlak olmağa tərk edirsən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:05:15.345Z"
+}

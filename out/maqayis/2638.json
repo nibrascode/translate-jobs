@@ -1,0 +1,17 @@
+{
+ "i": 2638,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عكو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 103,
+  "page_to": 103
+ },
+ "ar": "العين والكاف والحرف المعتلّ أصلٌ صحيحٌ يدلُّ على تجمُّع وغِلَظٍ أيضاً، وهو قريب من الذى قبله.\n[العَكوَة (١)]: أصل الذَّنب. وعكَوْثَ ذَنَب الدّابَّة، إذا عطَفتَ الذَّنَب عند العَكْوة وعقَدتَه. ويقال: عَكَتِ المرأةُ شعرها: ضفَرته. وربما قالوا عَكَا على قِرْنِه، مثل عَكَر وعَطَفَ. فإنْ كان صحيحاً فهو القياس. وجمع عُكوة الذَّنَب عُكىً. قال:\nحَتَّى تُولِّيك عُكَى أذنابِها (٢)\nويقال للشَّاة التى ابيضَّ مؤخَّرها وسائرها أسود: عَكواء. وإنَّما قيل ذلك لأن البياض منها عند العُكَوة. فأمّا قولُ ابنِ مقبل:\nلا يَعكُون بالأُزُرِ (٣)\nفمعناه أنّهم أشرافٌ وثيابُهم ناعمة، فلا يظهر لمعاقد أُزُرِهم عُكىً. وهذا صحيح لأنَّه إذا عَقَد ثوبَه فقد عكاه وجمّعه. ويقال: عَكَت النّاقةُ: غلظت. وناقةٌ مِعكاءٌ، أى غليظةٌ شَديدة.",
+ "az": "[عكو] (Ayn, kaf və zəif hərf) – yığılmağa və yoğunluğa dəlalət edən səhih bir kökdür; özündən əvvəlkiyə yaxındır.\n[العَكْوَة (١)] (əl-əkvə): Quyruğun dibi. وَعَكَوْثَ ذَنَب الدّابَّة (və akvəsu zənəbəd-dabbə): Quyruğu əkvənin yanından büküb düyünlədiyin zaman. Deyilir ki: عَكَتِ المرأةُ شعرها (atətil-məraə şərhəha): Qadın saçını hördü. Bəzən عَكَا على قِرْنِه (əka alə qirnihi) – eynilə عَكَر (əkərə) və عَطَفَ (atəfə) kimi dedilər. Əgər bu səhihdirsə, qiyas budur. Quyruq əkvəsinin cəmi عُكىً (ukən)-dir. (Şair) demişdir:\nحَتَّى تُولِّيك عُكَى أذنابِها (٢) \n(Həttə tuliyəkə ukəu əznabiha - Quyruqlarının ucları sənə tərəf çevrilənə qədər)\nVə arxası ağ, qalan hissəsi qara olan qoyuna عَكواء (əkvə) deyilir. Bu ona görə deyilmişdir ki, ağlıq onlarda əkvənin yanındadır. İbn Müqbilin sözünə gəldikdə:\nلا يَعكُون بالأُزُرِ (٣) \n(Lə yəkuunə bil-uzur) \nMənası odur ki, onlar əcabətli insanlardır, paltarları zərifdir, beləliklə izarlarının düyünlərinə ukən (yığıntılar) çıxmaz. Bu səhihdir, çünki insan paltarını düyünlədikdə onu əka etmiş və yığmış olur. Deyilir ki: عَكَت النّاقةُ (əkatin-naqə): Dəvə kökəldi. وَناقةٌ مِعكاءٌ (naqətun mikəun) – yəni kök, güclü dəvə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:41:27.670Z"
+}

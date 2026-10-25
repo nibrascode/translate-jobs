@@ -1,0 +1,17 @@
+{
+ "i": 2726,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عبك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 213,
+  "page_to": 214
+ },
+ "ar": "العين والباء والكاف أُصَيلٌ صحيح يدلُّ على ما يدلُّ عليه الذى قبله، وليس ببعيدٍ أن يكون من باب الإبدال. قال الخليل: ما ذقت عَبَكة ولا لَبَكةً. وقال ابن الأعرابىّ: يقال: ما أغنيتَ عنِّى عبكةً ولا لَبَكة\nأى شيئاً. وأصلُه قولهم الذى يَبقَى فى النِّحْى من السَّمْن: عَبَكة. وقد يقال ذلك للطَّينة من الوحل.\nوالصحيح فى هذا الباب هذا، وقد ذُكِرت فيه كلماتٌ عن أعرابٍ مجهولين لا أصل لها فلذلك تركناها.",
+ "az": "[عبك] (ə-b-k). Eyn, ba və kaf hərfləri özündən əvvəlkinə dəlalət edən kiçik bir səhih kökdür, əvəzetmə (ibdal) بابından olması da uzaq deyil. Xəlil demişdir: ما ذقت عَبَكة ولا لَبَكةً (ma züqtu əbəkətən və la ləbəkətən). İbn əl-Ərəbi demişdir: ما أغنيتَ عنِّى عبكةً ولا لَبَكة (ma ağniytə anni əbəkətən və la ləbəkətən) – yəni mənə heç bir şeylə fayda vermədin. Bunun əsli onların tuluqda qalan yağ üçün işlətdikləri sözdür: عَبَكة (əbəkə). Bu, həm də palçıq kündəsinə deセンサーilir. Bu babda səhih olan budur, haçan-qaçan tanınmaz ərəblərdən bu barədə əsası olmayan bəzi sözlər nəql edilmişdir, ona görə də onları tərk etdik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:11:38.797Z"
+}

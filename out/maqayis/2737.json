@@ -1,0 +1,17 @@
+{
+ "i": 2737,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عتو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 225,
+  "page_to": 225
+ },
+ "ar": "العين والتاء والحرف المعتل أصلٌ صحيح يدلُّ على استكبار. قال الخليل وغيرُه: عتَا يَعتُو عتُوَّا: استكبَرَ. قال اللّه تعالى: ﴿وَعَتَوْا عُتُوًّا كَبِيراً﴾. وكذلك يعتُو عِتِيًّا، فهو عاتٍ، والملك الجبّار عاتٍ، وجَبابِرةٌ عُتاة. قال:\nوالناس يعتُون على المُسلَّطِ\nويقال: تعَتَّى فلانٌ وتعتّت فلانة، إذا لم تُطِع. قال العجَّاج:\nالحمد للّه الذى استقلَّتِ … بأمره السّماء واطمأنّتِ\nبأمره الأرضُ فما تَعتَّتِ (٢)\nأى ما عصَتْ.",
+ "az": "[عتو] العين والتاء والحرف المعتل (əyn, te və zəif hərf) sözün əsli olub təkəbbürlülüyə dəlalət edən səhih bir kökdür. Xəlil və başqaları demişdirlər: عتَا يَعتُو عتُوَّا (ata yatwu utuvvən) - təkəbbürlük etdi. Uca Allah buyurmuşdur: ﴿وَعَتَوْا عُتُوًّا كَبِيراً﴾ (mənaca tərcümə: Və böyük bir təkəbbürlə təkəbbürlük göstərdilər). Həmçinin عِتِيًّا (itiyən) formasında da işlənir, o, عاتٍ (atin) – təkəbbürlüdür, zalımlar padşahı عاتٍ (atin) – təkəbbürlüdür, və cənabirlər عُتاة (utah) – təkəbbürlülərdir. Şair demişdir: والناس يعتُون على المُسلَّطِ (Və insanlar hakimiyyət sahibinə qarşı təkəbbürlük göstərirlər). Deyilir: تعَتَّى فلانٌ وتعتّت فلانة (taattə fəlanun və taattat fəlanatun) - o kişi və ya qadın itaət etmədikdə. Əccac demişdir: الحمد للّه الذى استقلَّتِ … بأمره السّماء واطمأنّتِ / بأمره الأرضُ فما تَعتَّتِ (٢) (Həmd olsun o Allaha ki, səma Onun əmri ilə ucaldı və sakitləşdi… yer Onun əmri ilə yerləşdi və baş əyməməzlik etmədi) – yəni üsyan etmədi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:12:24.062Z"
+}

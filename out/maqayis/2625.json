@@ -1,0 +1,17 @@
+{
+ "i": 2625,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عفط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 69,
+  "page_to": 69
+ },
+ "ar": "العين والفاء والطاء أُصَيْل صحيح يدلُّ على صُوَيت، ثم يحمل عليه. يقولون: العَفْطَة: نَثْرة الضائنة بأنفها. يقال: «ما له عافطة ولا نافطة».\nويقال إنّ العافطة الأمَة، والنافطة الشّاة. ثم يقولون للألْكَن العِفطِىّ (١).\nويقولون: عَفَط بغنمه، إذا دعاها. واللّه أعلم بالصواب.",
+ "az": "[عفط] «عين», «فاء» və «طاء» kökü zəif bir səsə dəlalət edən doğru, kiçik bir əsldir, sonra başqa mənalar ona həml olunur. Deyirlər: «العَفْطَةُ» — qoyunun burnu ilə asqırması (fınxırması). Deyilir: «مَا لَهُ عَافِطَةٌ وَلا نَافِطَةٌ» (Nə fınxıran qoyunu var, nə də mələyən gənc qoyunu / heç nəyi yoxdur).\nDeyilir ki, «العَافِطَةُ» kəniz, «النَّافِطَةُ» isə qoyundur. Sonra dili dolaşan, pəltək adama «عِفْطِيٌّ» (ıftiy) deyirlər (١).\nDeyirlər: «عَفَطَ بِغَنَمِهِ» — qoyunlarını çağırdıqda işlədilir. Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:21:59.910Z"
+}

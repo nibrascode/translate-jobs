@@ -1,0 +1,17 @@
+{
+ "i": 2713,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عيف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 196,
+  "page_to": 197
+ },
+ "ar": "العين والياء والفاء أصلٌ صحيح واحد يدلُّ على كراهة.\nمن ذلك قولُهم: عافَ الشّئ يَعافه عِيافاً، إذا كره، من طعامٍ أو شراب.\nوالعيُوف من الإبل: الذى يَشَمّ الماء وهو عطشانُ فيدعُه، وذلك لأنّه يتكرّهُه.\nوربما جُهِد فشرِبَه. قال ابن [أبى] ربيعة:\nفسافَت وما عافت وما صَدَّ شربها … عن الرِّىِّ مطروقٌ من الماء أكدرُ (١)\nومن هذا القياس عِيافةُ الطَّير، وهو زَجْرُها. وهو من الكراهة أيضاً، وذلك أن يرى غُراباً أو طائراً غيرَه أو غير ذلك فيتطيَّر به. وربّما قالوا للمتكهِّن عائف.\nقال الأعشى:\nما تَعِيفُ اليومَ فى الطَّيْرِ الرَّوَحْ … من غُراب الطَّيرِ أو تيسٍ بَرَحْ (٢)\nوقال:\nلقَدْ عَيْثَرْتَ طيْرَكَ لو تعيفُ (٣)",
+ "az": "[عيف] \nالعين والياء والفاء (ayn, ya və fa) ikrah hissinə dəlalət edən tək bir səhih əsasdır.\nOndandır ki, deyirlər: عافَ الشّئ يَعافه عِيافاً (bir şeyi iyrəndi, iyrənir, ikrahla) — yeməkdən və ya içkidən xoşlanmadıqda.\nVə العيُوف (əl-uyuf) — dəvələr içində odur ki, susuz olduğu halda suyu qoxlayır, lakin onu tərk edir; bu da onun həmin sudan ikrah etməsindən irəli gəlir. Bəzən o, məcbur qalaraq onu içər. İbn [Əbi] Rəbiə demişdir:\nفسافَت وما عافت وما صَدَّ شربها … عن الرِّىِّ مطروقٌ من الماء أكدرُ (١)\n(Məna: O, qoxladı, lakin ikrah etmədi, onun doyunca içməsinə üzərindən keçilmiş bulanıq su mane olmadı).\nBu qiyasdandır: عِيافةُ الطَّير (quşların uçuşundan fal açmaq/yozmaq). Bu da ikrahdandır; belə ki, bir qarğa və ya başqa bir quş görür və bundan şərlənir, uğursuzluğa yozur. Bəzən kahinə də عائف (aif) deyirlər. Əşə Şerində demişdir:\nما تَعِيفُ اليومَ فى الطَّيْرِ الرَّوَحْ … من غُراب الطَّيرِ أو تيسٍ بَرَحْ (٢)\n(Məna: Bu gün axşamüstü uçan quşlardan – quş qarşısına çıxan qarğadan və ya təkə təkədən nəyə fal açırsan?).\nVə demişdir:\nلقَدْ عَيْثَرْتَ طيْرَكَ لو تعيفُ (٣)\n(Məna: Əgər fal açsaydın, quşunu büdrətmiş olardın).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:10:21.612Z"
+}

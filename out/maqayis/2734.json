@@ -1,0 +1,17 @@
+{
+ "i": 2734,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عتك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 222,
+  "page_to": 223
+ },
+ "ar": "العين والتاء والكاف أصلٌ صحيح يدلُّ على قريبٍ من الذى قبله، وليس ببعيدٍ أن يكونَ من باب الإبدال، وهو من الإقدام والقِدَم.\nقال الخليلُ وغيره: عَتَك فلانٌ [بفلانٍ (١)]، إذا أقْدَمَ عليه ضرباً لا يُنهنِهُه شئ. قال الأصمعىُّ: هو أن يَحمِلَ عليه حملةَ أخْذٍ وبَطْش. قال الخليل: عَتَكَ الرّجُل يَعْتِك عَتْكاً وعُتُوكاً، إذا ذَهَب فى الأرض. والقوس العاتكة طالَ عليها العهدُ حتَّى احمرَّت. قال الهذلى (٢):\nوصَفراء البُرايةِ عُودِ نَبْعٍ … كوَقْف العاجِ عاتكة [اللِّيَاطِ (٣)]\n[وامرأة عاتكة]، إذا كانت متضمِّخة بالخَلَوق. ومنه عَتَكتِ القوس. قال الخليل: يقال لكلِّ كريم عاتك، أى قديم. وأصله من عَتَكت القَوس.",
+ "az": "[عتك] «العين» (əyn), «التاء» (ta) və «kaf» (kaf) düzgün bir kök olub, özündən əvvəlkiyə yaxın bir məna bildirir; bunun ibdal (hərf dəyişməsi) fəslindən olması da uzaq deyil və o, irəli atılmaq və qədimlikdəndir.\n\nXəlil və başqaları demişdirlər: «عَتَك فلانٌ بفلانٍ» (filankəs filankəsə etək etdi), o zaman ki, onu heç nəyin saxlamayacağı şəkildə döyməyə irəli atıldı. Əsməi demişdir: Bu, ona tutmaq və yaxalamaq hücumu ilə həmlə etməkdir. Xəlil demişdir: Kişi «عَتَكَ الرّجُل يَعْتِك عَتْكاً وعُتُوكاً» (etək etdi – etək və utukuqla), yer üzünə getdiyi zaman. «القوس العاتكة» (Atik yay) – üzərindən zaman keçərək qızarmış yaydır. Hüzəli demişdir (2):\nوصَفراء البُرايةِ عُودِ نَبْعٍ … كوَقْف العاجِ عاتكة [اللِّيَاطِ (٣)]\n(Nəbc ağacından olan,yonulmuş sarı rəngli... fil sümüyünün dayanacağı kimi atik liyatlı yay.)\n\n[وامرأة عاتكة] (Və atik qadın), xəlusi (ətir) büründüyü zaman. «عَتَكتِ القوس» (Yay atik oldu) sözü də bundandır. Xəlil demişdir: Hər bir səxavətli kəsə «عاتك» (atik), yəni qədim deyilir. Onun əsli «عَتَكت القَوس» (yay atik oldu) sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:12:00.623Z"
+}

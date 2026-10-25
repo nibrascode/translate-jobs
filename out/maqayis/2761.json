@@ -1,0 +1,17 @@
+{
+ "i": 2761,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 248,
+  "page_to": 248
+ },
+ "ar": "العين والدال والنون أصلٌ صحيح يدلُّ على الإقامة. قال الخليل: العَدْن: إقامة الإبل فى الحَمْض خاصّة. تقول: عَدَنَت الإبل تَعْدِن عَدْناً.\nوالأصل الذى ذكره الخليل هو أصلُ الباب، ثمَّ قيس به كلُّ مُقام، فقيل جنةُ عَدْنٍ، أى إقامة. ومن الباب المعدِنُ: مَعدن الجواهر. ويقيسون على ذلك فيقولون: هو مَعدن الخَير والكَرَم. وأمّا العِدَان والعَدان فساحِلُ البحر. ويجوز أن يكون من القياس الذى ذكرناه، وليس ببعيد. وقال لبيد:\nولقد يعلم صَحبى كلُّهم … بِعَدَانِ السَّيفِ صبرى ونَقَلْ (٣)\nوعَدَنُ: بلد.",
+ "az": "[عدن] (ə-d-n). Ayn, dal və nun səhih kök olub, sakin olmağa, bir yerdə qərar tutmağa dəlalət edir. Xəlil demişdir: «العَدْن» (əd-dn) — dəvələrin xüsusi olaraq həmd (şorvvari səhra bitkiləri) bitən yerdəqərar tutmasıdır. Deyirsən: «عَدَنَت الإبل تَعْدِن عَدْناً» (Dəvələr həmin yerdə qərar tutdu, qərar tutmaqla). Xəlil-in qeyd etdiyi bu əsas məna bu fəslin əsas təməlidir, sonra hər cür sakin olmaq, məskunlaşmaq buna qiyas edilmiş və «جنةُ عَدْنٍ» (cənnəti-ədn), yəni qərar tutma yeri, məskən deyilmişdir. Bu fəsildən də «المعدِنُ» (mədən) — cəvahirat mədənidir. Alimlər bunu da buna qiyas edərək deyirlər: «هو مَعدن الخَير والكَرَم» (O, xeyir və səxavət mədənidir). Qaldı ki, «العِدَان» (əl-idan) və «العَدان» (əl-ədan) — dəniz sahilidir. Ehtimal olunur ki, bu da qeyd etdiyimiz qiyasdandır və bu, uzaq ehtimal deyil. Ləbid demişdir: «ولقد يعلم صَحبى كلُّهم … بِعَدَانِ السَّيفِ صبرى ونَقَلْ» (Həqiqətən, bütün səhabələrim qılınc sahilindəki [dəniz kənarındakı] səbrimi və köçümü yaxşı bilirlər) (٣). «عَدَنُ» (Ədən) — bir ölkə adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:13:52.283Z"
+}

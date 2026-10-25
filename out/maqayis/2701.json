@@ -1,0 +1,17 @@
+{
+ "i": 2701,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 187,
+  "page_to": 187
+ },
+ "ar": "العين والواو والسين كلمةٌ قد ذكرها أهلُ اللُّغة، وقياسُها قياسٌ صحيح بعيد. قالوا: العَوَاساء: الحامل من الخنافس، وأنشدوا:\nبِكراً عَواساء تَفَاسَى مُقْرِبَا (٤)\nأى دنا أن تضع حَمْلها. ويقولون: العَوَسانُ والعَوْس: الطّوفَان بالّليل.\nويقولون أيضاً: الأعوس: الصَّيْقَل. والأعوس: الوصَّاف للشئ. وكلُّ هذا مما لا يكاد القلبُ يسكُن إلى صحَّته.",
+ "az": "[عوس] (gəzmək, axtarmaq). العين (ayn), الواو (vav) və السين (sin) – dilçilərin zikr etdiyi, lakin qaydasının düzgünlüyü uzaq və zəif olan bir kəlmədir. Dedikləri budur: العَوَاساء – hamilə qara böcək, və dəlil olaraq bunu oxumuşlar: بِكراً عَواساء تَفَاسَى مُقْرِبَا (٤) (Yaxın zamanda doğmağa hazırlaşan hamilə dişi böcək). Və deyirlər: العَوَسان və العَوْس – gecə vaxtı dolanmaq. Həmçinin deyirlər: الأعوس – misgər/cilalayıcı. الأعوس – hər şeyi təsvir edən. Bütün bunlar qəlbin düzgünlüyünə asanlıqla inana bilmədiyi şeylerdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:09:58.349Z"
+}

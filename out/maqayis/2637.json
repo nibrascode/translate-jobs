@@ -1,0 +1,17 @@
+{
+ "i": 2637,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عكن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 102,
+  "page_to": 102
+ },
+ "ar": "العين والكاف والنون أصلٌ صحيحٌ قريب من الذى قبله، قال الخليل: العُكَن: جمع عُكْنة، وهى الطَّىُّ فى بطن الجارِية من السِّمَن.\nولو قيلَ جاريةٌ عكْناء لجاز، ولكنهم يقولون: مُعَكَّنة. ويقال تعكَّن الشّئ تعكناً، إذا ارتكمَ بعضُه على بعض. قال الأعشى:\nإليها وإنْ فاته شُبْعَةٌ … تأتَى لأخرَى عظيم العُكَنْ (٣)\nومن الباب: النَّعَم العَكَنانُ: الكثير المجتمع، ويقال عَكْنانٌ بسكون الكاف أيضاً. قال:\nوصَبَّحَ الماءَ بوِردٍ عَكْنان (٤)\nقال الدريدىّ: ناقة عَكْناء، إذا غلُظَت ضَرَّتُها وأخلافُها (٥).",
+ "az": "«عكن»\n«Ayn», «kaf» və «nun» əvvəlkinə yaxın səhih bir əsldir. Xəlil demişdir: «العُكَن» (əl-ukən) — «عُكْنة» (uknə) sözünün cəmidir ki, bu da köklükdən qızın qarnında əmələ gələn qırışdır (qatdır).\nƏgər «جاريةٌ عكْناء» deyilsəydi, caiz olardı, lakin onlar «مُعَكَّنة» (qarnı qırış-qırış kök qız) deyirlər. Bir şey bir-birinin üstünə yığılıb qalaqlandıqda «تعكَّن الشّئ تعكناً» deyilir. Əşa demişdir:\nإليها وإنْ فاته شُبْعَةٌ … تأتَى لأخرَى عظيم العُكَنْ (٣)\n(Mənası: Ona tərəf yönəldi; bir doyumluq yemək əlindən çıxsa belə, qarnının qatları böyük olan bir başqasına yetişdi).\nBu babdandır: «النَّعَم العَكَنانُ» — çoxlu, bir yerə toplanmış mal-qara; «عَكْنانٌ» kimi «kaf» hərfinin sükunu ilə də deyilir. Şair demişdir:\nوصَبَّحَ الماءَ بوِردٍ عَكْنان (٤)\n(Mənası: Və səhər tezdən sıx və bol bir axınla suya çatdı).\nDureydi demişdir: «ناقة عَكْناء» — yelini və məmələri qalın, ətli olan dəvəyə deyilir (٥).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-25T13:37:49.425Z"
+}

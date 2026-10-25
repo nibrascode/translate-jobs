@@ -1,0 +1,17 @@
+{
+ "i": 2615,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عفك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 55,
+  "page_to": 56
+ },
+ "ar": "العين والفاء والكاف أصل صحيح، وهو لا يدلُّ إلاّ على صفةٍ مكروهة. قال الخليل: الأعْفَك: الأحمق. قال:\nصاحِ ألم تعجَبْ لذاك الضَّيْطَرِ … الأعْفَكِ الأخرَقِ ثمّ الأعسَرِ (٦)\nالضيطر: الأحمق الفاحش، والأعفك أيضا والأخرق: الذى لا خيرَ فيه ولا يُحسِن عَملاً، وهو المخلَّع من الرِّجال.\nقال ابن دريد (١). «بنو تميم يسمُّون الأعسَر الأعفَك».",
+ "az": "[عفك]\n«Əyn», «fə» və «kaf» səhih bir əsldir, ancaq bəyənilməyən (xoşagəlməz) bir sifətə dəlalət edir. Əl-Xəlil demişdir: «الأعْفَك» — axmaq, səfeh deməkdir. O [şair] demişdir:\nصاحِ ألم تعجَبْ لذاك الضَّيْطَرِ … الأعْفَكِ الأخرَقِ ثمّ الأعسَرِ (٦)\n«الضيطر» — kobud, həddini aşan axmaqdır; «الأعفك» da elədir. «الأخرق» isə — özündə heç bir xeyir olmayan, heç bir işi bacarmayan, bədən üzvləri süst olan kişidir. İbn Dureyd demişdir (١): «Bənu Təmim solaxay adama \"əl-a'fək\" (الأعفَك) deyir».",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T13:13:36.772Z"
+}

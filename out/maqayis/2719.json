@@ -1,0 +1,17 @@
+{
+ "i": 2719,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عبث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 205,
+  "page_to": 205
+ },
+ "ar": "العين والباء والثاء أصلٌ صحيح واحد، يدلُّ على الخَلط يقال: عَبَثَ الأقِط، وأنا أعبِثُه عَبْثاً، وهو عبيث، وهو يُخلَط ويخفَّف فى الشَّمس.\nوالعَبِيث: كلُّ خِلْط. ويقال: فى هذا الوادى عَبِيثةٌ، أى خِلْطٌ من حَيَّيْن.\nومما قيسَ على هذا: العَبَث، هو الفعل لا يُفعَل على استواء وخُلوصِ صواب.\nتقول: عَبِثَ يعبَث عَبَثاً، وهو عابثٌ بما لا يَعْنيه وليس من بالِهِ (١)، وفى القرآن:\n﴿أَفَحَسِبْتُمْ أَنَّما خَلَقْناكُمْ عَبَثاً﴾، أى لَعِبا. والقياس فى * ذلك كله واحد.",
+ "az": "[عبث] \n العين والباء والثاء أصلٌ صحيح واحد، يدلُّ على الخَلط (Ayn, ba və sə tək və səhih bir kök olub, qarışığa dəlalət edir). يقال (Dejilir): عَبَثَ الأقِط، وأنا أعبِثُه عَبْثاً، وهو عبيث، وهو يُخلَط ويخفَّف فى الشَّمس (İqiti qarışdırdım, mən onu qarışdırıram, o, abiisdir, o, günəşdə qarışdırılır və yüngülləşdirilir). \n والعَبِيث: كلُّ خِلْط (Əbiis — hər cür qarışıqdır). ويقال (Dejilir): فى هذا الوادى عَبِيثةٌ، أى خِلْطٌ من حَيَّيْن (Bu dərədə əbiisə var — yəni iki müxtəlif tayfanın qarışığıdır). \n ومما قيسَ على هذا (Buna əsaslananlardandır): العَبَث، هو الفعل لا يُفعَل على استواء وخُلوصِ صواب (Abəs — düzgünlük və xalis doğruluqla edilməyən əməldir). \n تقول (Deyirsən): عَبِثَ يعبَث عَبْثاً، وهو عابثٌ بما لا يَعْنيه وليس من بالِهِ (١) (Abəs etdi, abəs edir, abəs — o, özünə aid olmayan və vecinə almadığı şeylə məşğul olan kəsdir). وفى القرآن (Quranda demişdir): \n ﴿أَفَحَسِبْتُمْ أَنَّما خَلَقْناكُمْ عَبَثاً﴾ (mənaca tərcümə: Məgər sizi əbəs yerə xəlq etdiyimizi güman etmisiniz?), أى لَعِبا (yəni oyuncaq olaraq [xəlq etdiyimizi zənn etmisiniz]). والقياس فى * ذلك كله واحد (Bütün bunlarda qiyas eynidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:10:55.132Z"
+}

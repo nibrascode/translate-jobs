@@ -1,0 +1,17 @@
+{
+ "i": 2670,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عمش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 143,
+  "page_to": 143
+ },
+ "ar": "العين والميم والشين كلمتانِ صحيحتان، متباينتان جدًّا.\nفالأولى ضعفٌ فى البصر، والأخرى صلاحٌ للجسم. فالأوّل العَمَش: ألاَّ تزالُ العينُ تسيل دمعاً، ولا يكاد الأعمش يُبصِر بها، والمرأةُ عَمْشاء، والفعل عَمِشَ يَعْمَشُ عَمَشا.\nوالكلمةُ الأخرى: العَمْش، بسكون الميم: ما يكون فيه صلاحُ البدن.\nويقولون: الخِتَانُ عَمْش الغُلام؛ لأنّك ترى * فيه بعد ذلك زيادةً. وهذا طعام عَمْشٌ لك، أى صالح مُوافق.\n***\nوأما العين والميم والصاد فليس فيه ما يصلح أن يذكر.",
+ "az": "«عمش» (əmş): ع (eyn), م (mim) və ش (şin) hərfləri iki səhih sözdür, bir-birindən çox fərqlənirlər. Birincisi görmə zəifliyi, ikincisi isə bədənin sağlamlığıdır. Birincisi: العَمَش (əl-əmş) — gözün daim yaş axıtmasıdır, demək olar ki, çəpgöz (və ya zəifgörən) həmin gözlə görə bilmir, qadın isə عَمْشاءُ (əmşəu) olar, feli عَمِشَ يَعْمəشُ عَمَشا (əmişə, yəməşu, əməşən) lüğətdə işlənir. Digər söz isə: mim hərfinin sükunü ilə العَمْش (əl-əmş) — bədənin sağlamlığına səbəb olan şeydir. Deyirlər: الخِتَانُ عَمْش الغُلام (əl-xitanu əmşul-ğulam) — sünnət oğlanın sağlamlığıdır; çünki sən * ondan sonra orada artım görürsən. Bu, sənin üçün عَمْشٌ (əmşun) yeməkdir, yəni sağlam və uyğundur. *** ع (eyn), م (mim) və ص (sad) hərflərinə gəldikdəisə, burada qeyd olunmağa layiq heç bir şey yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:03:47.599Z"
+}

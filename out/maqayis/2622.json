@@ -1,0 +1,17 @@
+{
+ "i": 2622,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عفز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 68,
+  "page_to": 68
+ },
+ "ar": "العين والفاء والزاء ليس بشئ، ولا يُشبِه كلامَ العرب.\nعلى أنهم يقولون: العَفْز: ملاعَبة الرّجلِ امرأتَه، وإنّ العَفْز: الجَوز. وهذا لا معنى لذكره.",
+ "az": "[عفز] (ə-fə-zə): Ayn, fa və zay hərfləri heç bir şey deyil və ərəblərin kəlamına bənzəmir.\n\nBununla belə deyirlər ki, «العَفْز» (əfz) — kişinin zövcəsi ilə oynamasıdır, «əfz» həm də qozdur. Bunun zikr olunmasının heç bir mənası yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T13:20:48.034Z"
+}

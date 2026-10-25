@@ -1,0 +1,17 @@
+{
+ "i": 2729,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 215,
+  "page_to": 215
+ },
+ "ar": "العين والباء والنون صحيحٌ، فيه كلمةٌ واحدة. يقولون:\nإنّ العَبَنَّ: الجملُ الضَّخم الجسيم. ويقال العَبَنّ ويقال العَبَنَّى، والأنثى عَبَنّاة. وكلُّ ذلك واحد. وربَّما وصَفوا به الرّجل. وقال حُميدٌ فى صفة بعير:\nأمينٌ عَبَنُّ الخَلْقِ مختلِف الشَّبَا … يقول المُمارِى طال ما كان مُقْرَما (١)",
+ "az": "[عبن] (ə-b-n). Eyn, ba və nun səhihdir, içində tək bir kəlmə vardır. Deyirlər ki: العَبَنَّ (əl-əbənn) – böyük, cisimli dəvədir. Deyilir: العَبَنّ (əl-əbənn) və العَبَنَّى (əl-əbənnəti), dişi isə عَبَنّاة (əbənnah). Hamısı eyni mənadadır. Bəzən bunu kişi üçün də sifət olaraq işlədirlər. Humeyd bir dəvəni vəsf edərək demişdir: أمينٌ عَبَنُّ الخَلْقِ مختلِف الشَّبَا … يقول المُمارِى طال ما كان مُقْرَما (Əmin, xilqəti iri, böyürləri fərqli... mübahisə edən deyir: nə qədər də damazlıq idi) (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:11:38.797Z"
+}

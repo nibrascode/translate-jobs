@@ -1,0 +1,17 @@
+{
+ "i": 2707,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 191,
+  "page_to": 191
+ },
+ "ar": "العين والياء والدال قد مضى ذكره فى محلِّه، لأن ذلك هو الأصل.",
+ "az": "[عيد] \nالعين والياء والدال (ayn, ya və dal) — bunun zikri öz yerində əvvəlcədən keçmişdir, çünki bu, əslidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:10:21.611Z"
+}

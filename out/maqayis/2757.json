@@ -1,0 +1,17 @@
+{
+ "i": 2757,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عدق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 246,
+  "page_to": 246
+ },
+ "ar": "العين والدال والقاف ليس بشئ. وذكروا أنّ حديدة ذاتَ شُعَبٍ يُستخرج بها الدَّلو من البئر يقال لها: عَوْدَقة. وحكَوا: عَدَق بِظَنِّه، مثل رَجَم. وما أحسب لذلك شاهداً من شعرٍ صحيح.",
+ "az": "«عدق» (ə-d-q) — ayn, dal və qaf heç bir şey deyil. Zikr etmişlər ki, quyudan vedrəni çıxarmaq üçün ucluqlu dəmir alətə عَوْدَقة (avdəqə) deyilir. Və rəvayət etmişlər: «عَدَق بِظَنِّه» (öz gümanı ilə zənn etdi), رَجَم (gümanla danışdı) kimidir. Hesab etmirəm ki, bunun üçün səhih şeirdən hər hansı bir dəlil olsun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:13:31.828Z"
+}

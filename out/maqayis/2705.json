@@ -1,0 +1,17 @@
+{
+ "i": 2705,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عيث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 190,
+  "page_to": 190
+ },
+ "ar": "العين والياء والثاء أصلان صحيحان متقاربان، أحدهما:\nالإسراع فى الفساد، والآخَر تطلُّب الشئ على غير بَصيرة.\nفالأوّل قولهم: عاث يَعِيث، إذا أسرع فى الفساد. ويقولون: هو أعْيَثُ الناسِ فى ماله. والذِّئب يَعيث فى الغَنم، لا يأخذ منها شيئاً إلاّ قتلَه (١). قال:\nقد قلتُ للذِّئبِ أيا خبيثُ … والذِّئب وسْطَ غنمى يَعِيثُ (٢)\nوالأصل الآخر: التَّعييث، قال الخليل: هو طلب الأعمى للشئ والرَّجُلِ فى الظُّلمة. ومنه التعييث: إدخال اليد فى الكِنانة تطلُب سهْماً (٣). قال أبو ذؤيب:\nوبدا له أقرابُ هادٍ رائغٍ … عجِلٍ فعَيَّث فى الكنانة يُرْجِعُ (٤)\nوقال ابن أبى عائذ:\nفعيَّثَ ساعةَ أقفَرنَه … بالايفاقِ والرَّمْى أو باستلالِ (٥)",
+ "az": "[عيث] (fesad törətmək, axtarmaq). العين (ayn), الياء (ya) və الثاء (sə) yaxın mənalı iki səhih kökdür: biri fəsad törətməkdə tələsmək, digəri isə bir şeyi bələd olmadan axtarmaqdır. Birincisi onların «عاث يَعِيث» (fəsad törətdi, dağıtdı) sözüdür, yəni fəsadda tələsdi. Deyirlər: «هو أعْيَثُ الناسِ فى ماله» (o, malını zay etməkdə insanların ən səhlənkarıdır). Qurd qoyun içində «يَعِيثُ» edər, yəni onlardan heç birini yeməz, sadəcə öldürər (١). [Şair] demişdir: قد قلتُ للذِّئبِ أيا خبيثُ … والذِّئب وسْطَ غنمى يَعِيثُ (٢) (Qurda dedim: Ey xəbis! Qurd qoyunlarımın arasında fəsad törədir). Digər əsas isə: التَّعييث (axtarış). Xəlil demişdir: Bu, kor adamın və ya qaranlıqda kişinin bir şeyi axtarmasıdır. Həmçinin التعييث – ox əldə etmək üçün oxdanlığına əl salıb axtarmaqdır (٣). Əbu Züheyb demişdir: وبدا له أقرابُ هادٍ رائغٍ … عجِلٍ فعَيَّث فى الكنانة يُرْجِعُ (٤) (Tələsik, azğın və sürətli başçının böyrü ona göründü, o da oxdanlığında əlini gəzdirib geri çəkdi). İbn Əbu Aiz demişdir: فيَّثَ ساعةَ أقفَرنَه … بالايفاقِ والرَّمْى أو باستلالِ (٥) (Onu boşaltdıqları saatda – sürətlə ox atmaqla və ya çıxarmaqla – əlini gəzdirib axtardı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:09:58.349Z"
+}

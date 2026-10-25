@@ -1,0 +1,17 @@
+{
+ "i": 2716,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عيل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 198,
+  "page_to": 198
+ },
+ "ar": "العين واللام والياء، ليس (١)] فيه إلاّ ما هو منقلب عن واو. العيْلة: الفاقة والحاجة، يقال عالَ يَعِيل عَيْلةً، إذا احتاج. قال اللّه تعالى:\n﴿وَإِنْ خِفْتُمْ عَيْلَةً﴾. و\nفى الحديث: «ما عالَ مقتصد». وقال:\nمَنْ عال مِنَّا بَعدها فَلَا انْجَبَر (٢)\nوعَيْلان: اسم.",
+ "az": "[عيل] (Ayn, lam və ya): (١) [burada] yalnız vav hərfindən dönmə olanlar var. Əl-əylə (العَيْلة): yoxsulluq və ehtiyac; ehtiyaclı olduqda عالَ يَعِيل عَيْلةً deyilir. Uca Allah demişdir: mənaca tərcümə: ﴿وَإِنْ خِفْتُمْ عَيْلَةً﴾ [Və əgər yoxsulluqdan qorxsanız]. Hədisdə: «ما عالَ مقتصد» [Qənaətcil olan yoxsul olmaz]. Və dedi: مَنْ عال مِنَّا بَعدها فَلَا انْجَبَر (٢) [Bizdən bundan sonra ehtiyac içində olan kimsə heç vaxt sağalmasın]. Və Eylan (عَيْلان): ad.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:10:30.244Z"
+}

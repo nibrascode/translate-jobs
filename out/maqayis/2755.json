@@ -1,0 +1,17 @@
+{
+ "i": 2755,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عدس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 245,
+  "page_to": 245
+ },
+ "ar": "العين والدال والسين ليس فيه من اللّغة شئ، لكنّهم يسمُّون الحبَّ المعروفَ عَدَساً. ويقولون: عَدَس، زجرٌ للبغال. قال:\nعَدَسْ ما لِعَبَّادٍ عليك إمارةٌ … نَجوتِ وهذا تحملينَ طليقُ (٢)\nوقوله:\nإذا حَمَلْتُ بِزَّتى على عَدَسْ (٣)\nفإنّه يريد البغلة، سمَّاها «عَدَسْ» بزَجْرها.",
+ "az": "«عدس» (ə-d-s) — ayn, dal və sin hərflərindən dildə heç bir şey yoxdur, lakin tanınmış dənəvər bitkiyə «عَدَس» (mərcimək) deyirlər. Və deyirlər: «عَدَس» (adas) — qatırları qovmaq üçün işlədilən səslənmədir. Şair demişdir: عَدَسْ ما لِعَبَّادٍ عليك إمارةٌ … نَجوتِ وهذا تحملينَ طليقُ (٢) (Qovul! Abbasın sənə heç bir əmirlik yoxdur... sən xilas oldun, bunu da daşıdığın halda azadsın). Və onun sözü: إذا حَمَلْتُ بِزَّتى على عَدَسْ (٣) (Əgər yükümü adasa daşısam) — burada o, qatırı nəzərdə tutur, onu qovma səsi ilə «adas» adlandırmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:13:31.827Z"
+}

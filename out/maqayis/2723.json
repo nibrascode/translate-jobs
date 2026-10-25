@@ -1,0 +1,17 @@
+{
+ "i": 2723,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عبس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 210,
+  "page_to": 211
+ },
+ "ar": "العين والباء والسين أصلٌ صحيح يدلُّ على تكرُّه\nفى شئ. وأصله العَبَس: ما يَبِس على هُلْب الذَّنَب من بَعْرٍ وغيره، وهو من الإبل كالوَذَحِ من الشَّاء. قال أبو النَّجم:\nكأنَّ فى أذنابهنَّ الشُّوَّلِ … مِنْ عَبَس الصَّيف قرونَ الأُيَّلٍ (١)\nو\nفى الحديث: أنّه مرّ بإبلٍ قد عَبَست فى أبوالها. وقال جرير يذكر راعية:\nتَرَى العَبَسَ الحَوْلىَّ جَوْناً بكُوعِها … لها مَسَكاً من غير عاجٍ ولا ذَبْلِ (٢)\nثم اشتُقَّ من هذا: اليوم العَبُوس، وهو الشديد الكَرِيه. واشتقّ منه عَبَسَ الرجل يَعْبِس عُبوساً، وهو عابس الوجه: غضبان. وعبّاسٌ، إذا كَثَر ذلك منه.",
+ "az": "[عبس] / العين (ayn), الباء (ba) və السين (sin) – bir şeydən ikrah etməyə dəlalət edən səhih əsas kökdür. Onun əsli «اَلْعَبَس» (əl-əbəs) – quyruğun tükü üzərində quruqlayıb qalan təsnə və s.-dir, bu, dəvələrdə qoyunlardakı «اَلْوَذَح» (əl-vəzəh – yun və ya peyin bulaşıqlığı) kimidir. Əbu Nəcm demişdir:\nكأنَّ فى أذنابهنَّ الشُّوَّلِ … مِنْ عَبَس الصَّيف قرونَ الأُيَّلٍ (١)\n(Südü azalmış dəvələrin quyruqlarında... yay ayının əbəsindən maral buynuzları var kimidir)\nVə hədisdə: O, sidikləri içində əbəsləşmiş (çirk basmış) dəvələrin yanından keçdi. Cərir otlaqda olan bir dəvəçini xatırladaraq demişdir:\nتَرَى العَبَسَ الحَوْلىَّ جَوْناً بكُوعِها … لها مَسَكاً من غير عاجٍ ولا ذَبْلِ (٢)\n(Görürsən ki, illik əbəs biləyində qara rəngdədir... heç bir sümük və buynuz olmadan onun bilərzikləri var)\n\nSonra bundan düzəldilmişdir: «اَلْيَوْمُ العَبُوسُ» (əl-yovmul-əbus) – şiddətli və xoşagəlməz gün. Bundan «عَبَسَ الرجل يَعْبِس عُبوساً» (kişi qaşqabaq tökərək qəşş elədi/acıqlandı) – üzü abis, yəni qəzəbli oldu. «عَبَّاسٌ» (əbbas) – bu halın onda çox olması.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:11:17.268Z"
+}

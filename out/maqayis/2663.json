@@ -1,0 +1,17 @@
+{
+ "i": 2663,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 133,
+  "page_to": 133
+ },
+ "ar": "العين والميم والنون ليس بأصل، وفيه عُمان: بلد. ويقولون أعْمَن، إذا أتى عُمَان. قال:\nفإن تُتْهِمُوا أُنْجِد خلافاً عليكُم … وإن تُعمِنُوا مستحقِبِى الشَّرِّ أُعرِقِ (١)",
+ "az": "[عمن] \n العين والميم والنون ليس بأصل، وفيه عُمان: بلد. ويقولون أعْمَن، إذا أتى عُمَان. قال:\n فإن تُتْهِمُوا أُنْجِد خلافاً عليكُم … وإن تُعمِنُوا مستحقِبِى الشَّرِّ أُعرِقِ (١)\nTərcümə:\n[عمن] \nAyn, mim və nun kök deyil, lakin burada «عُمَان» (Uman) sözü var ki, bir ölkədir. Deyirlər ki, «أعْمَن» (əğmən) — Umana gəldiyi zaman. O demişdir:\nƏgər Tihamə tərəfə getsəniz, mən sizə müxalif olaraq Nəcdə tərəfə gedəcəyəm … Əgər Umana daxil olsanız, şər daşıyanları mən İraq tərəfə aparacağam (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:03:10.319Z"
+}

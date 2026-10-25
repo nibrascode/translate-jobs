@@ -1,0 +1,17 @@
+{
+ "i": 2669,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عمس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 142,
+  "page_to": 143
+ },
+ "ar": "العين والميم والسين أصلٌ صحيح يدلُّ على شدّة فى اشتباهٍ والتواء فى الأمر.\nقال الخليل: العَماسُ: الحرب الشديدة. وكلُّ أمرٍ لا يُقام له ولا يُهتدَى لوجهه فهو عَماسٌ. ويوم عَمَاسٌ مِنْ أيَّام عُمُس. قال العجّاج:\nونَزلَوا بالسَّهل بعد الشَّأْس (٣) … فى مرِّ أيَّامٍ مضَيْنَ عُمْسِ (٤)\nولقد عَمِسَ يومُنا عَمَاسَةً وعُموسة. قال العجاج:\nإذْ لَقِحَ اليومُ العَماسُ واقمطرّ (٥)\nقال أبو عمرو: أتانا بأمور مُعَمَّسَاتٍ ومُعَمِّسَاتٍ، أى ملتويات. ورجُلٌ عَمُوسٌ:\nيتعسَّف الأشياء كالجاهل بها. قال الخليل: تعامَسْتُ عن الشئ، إذا أريت (١) كأنّك لا تعرفُه وأنت عالمٌ به وبمكانه. وتقول: اعمِسْه، أى لا تبيِّنْه حتى يشتبه.\nويقال: اعْمِس الأمر، أى أَخْفِه. ومن الباب العَمَاس، وهى الداهية. قال ابن الأعرابىّ: التَّعامُس: أن تركبَ رأسَك فتَغْشِم وتَغَطْرَس. قال المخبل:\nتعامس حتَّى تحسب الناسُ أنّها\nقال الفراء: عَمَس الخَبَرُ: أظلم. وأعْمَس الطّريقُ: التبس. وعَمِس (٢) الكتابُ: درس. قال المرّار:\nفوقَفتَ تعترِف الصَّحيفةَ بعد ما … عَمِس الكتابُ وقد يُرى لم يَعْمَسِ",
+ "az": "«عمس» (əms): ع (eyn), م (mim) və س (sin) hərflərindən ibarət səhih bir kök olub, işin qarışıq olmasında və əyriliyində şiddətə dəlalət edir. Xəlil dedi: العَماسُ (əl-əmas) — şiddətli müharibədir. Qarşısı alınmayan və üzünə (çıxış yoluna) bələd olunmayan hər bir iş عَمَاسٌ (əmas) dır. عُمُس (umus) günlərindən olan يوم عَمَاسٌ (yəvmun əmasun) — şiddətli gün deməkdir. Əccac demişdir: وَنَزلَوا بالسَّهل بعد الشَّأْس (٣) … فى مرِّ أيَّامٍ مضَيْنَ عُمْسِ (٤) (Və onlar şəasdan sonra düzənliyə endilər… ötən əms -müşkül- günlərin gedişatında). Günümüz عَمَاسَةً (əmasətən) və عُمُوسَةً (umusətən) ilə əmis oldu (şiddətləndi). Əccac demişdir: إذْ لَقِحَ اليومُ العَماسُ واقمطرّ (٥) (Şiddətli gün hamilə qaldığı və sərtləşdiyi zaman). Əbu Əmr dedi: O, bizə مُعَمَّسَاتٍ (muəmməsat) və مُعَمِّسَاتٍ (muəmmisat), yəni əyri-üyrü işlər gətirdi. رَجُلٌ عَمُوسٌ (rəculun əmus) — işlərə onlardan bixəbər olan kimi nadanlıqla girişən adamdır. Xəlil dedi: تعامَسْتُ عن الشئ (təaməstü əniş-şəy') — bir şeyi bildiyin və onun yerindən xəbərdar olduğun halda, sanki onu tanımırmış kimi özünü göstərməyindir. Deyirsən: اعمِسْه (əmsih) — yəni o işi bəlli etmə ki, qarışsın. Həmçinin deyilir: اعْمِس الأمر (əmsil-əmr) — yəni onu gizlət. Bu باب (fəsil) dəndir: العَمَاس (əl-əmas) — bəla, müsibət. İbn əl-Ərəbi dedi: التَّعامُس (ət-təamüs) — öz bildiyini edərək zülm etmək və təkəbbür göstərməkdir. Muxəbbəl demişdir: تعامس حتَّى تحسب الناسُ أنّها (O, elə təkəbbür göstərdi ki, insanlar zənn etdilər ki, o...). Fəra dedi: عَمَس الخَبَرُ (əmisəl-xəbər) — xəbər qaranlıqlaşdı. وأعْمَس الطّريقُ (və əmsət-təriq) — yol qaranlıqlaşıb dolaşdı. وَعَمِس الكتابُ (və əmisəl-kitab) — kitab köhnəlib silindi. Mirrar demişdir: فوقَفتَ تعترِف الصَّحيفةَ بعد ما … عَمِس الكتابُ وقد يُرى لم يَعْمَسِ (Səhifə köhnəlib silindikdən və hələ silinməmiş kimi göründüyündən sonra onu tanımağa çalışaraq dayandın).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:03:47.599Z"
+}

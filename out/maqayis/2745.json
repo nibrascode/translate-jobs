@@ -1,0 +1,17 @@
+{
+ "i": 2745,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 231,
+  "page_to": 232
+ },
+ "ar": "العين والجيم والراء أصلٌ واحد صحيح يدلُّ على تعقد فى الشئ ونُتوٍّ مع التواء. من ذلك العَجَر: مصدر قولك عَجِرَ يَعْجَرُ عَجَراً. والأعجر النّعت. والعُجْرة: موضع العَجَر. ويقال: حافر عَجِرٌ: صلب شديد. قال مَرَّار بن مُنْقِذ:\nسائلٍ شمراخُه ذى جُبَبٍ … سَلِط السُّنبُك فى رُسْغٍ عَجُرْ (١)\nوالأعجر: كلُّ شئٍ ترى فيه عُقَداً؛ كبشٌ أعجرُ، وبطنٌ أعجر، إذا امتلأ جدَّا. قال عنترة:\nابنى زَبِيبةَ ما لمهركُمُ … متخدِّداً وبطونُكُمْ عُجْرُ (٢)\nوقال بعضهم: وأُراه مصنوعاً، إلاّ أنّ الخليل أنشدهُ:\nحسن الثِّياب يبيت أعجَرَ طاعماً … والضَّيفُ من حُبِّ الطَّعامِ قد التَوَى\nوالعُجْرة: كلُّ عقدةٍ فى خشبةٍ أو غيرها مِنْ نحو عروق البدَن، والجمع عُجَر.\nومن الباب الاعتجار، وهو لفُّ العِمامة على الرأس من غير إدارةٍ تحت الحنَك. قال:\nجاءت به معتجراً ببُرْدِهْ … سَفْوَاء تَرْدِى بنَسِيجِ وَحْدِهْ (٣)\nوإنما سمِّىَ اعتجاراً لما فيه من لَىٍّ ونُتوّ.\nومما شذَّ عن هذا الأصل العَجِير، وهو من الخيل كالعِنِّين من الرِّجال.",
+ "az": "[عجر] «العين» (عين), «الجيم» (جيم) və «الراء» (راء) bir əsl və səhih kök olub, bir şeydə düyünlənməyə və əyilmə ilə birlikdə qabarıqlığa dəlalət edir. Bunlardan biri də «العَجَر» (əl-əcər) sözüdür ki, «عَجِرَ يَعْجَرُ عَجَراً» (əcirə, yəcərü, əcərən) deməyinizin məsdəridir. «الأعجر» (əl-əcər) sifətdir. «العُجْرة» (əl-ücrə) isə «عَجَر»in (qabarıqlığın) yeridir. Deyilir: «حافر عَجِرٌ» (hafirun əcirun) – sərt və güclü dırnaq. Mərrار ibn Munqiz demişdir: \nسائلٍ شمراخُه ذى جُبَبٍ … سَلِط السُّنبُك فى رُسْغٍ عَجُرْ (١)\n(Zirvəsi uca, qabarıq olan, dırnağının ucu iti, qabarıq oynaqlı olan...) \n«الأعجر» (əl-əcər) – üzərində düyünlər gördüyün hər bir şeydir; «كبش أعجرُ» (kəbşun əcərü – qabarıq buynuzlu qoç), «بطن أعجر» (batnun əcər – həddindən artıq dolmuş qarın). Əntərə demişdir:\nابنى زَبِيبةَ ما لمهركُمُ … متخدِّداً وبطونُكُمْ عُجْرُ (٢)\n(Ey Zəbibənin oğulları, sizin mehriniz əti sallanan deyil, qarınlarınız isə qabarıqdır.)\nBəziləri demişdir: Mən bunun uydurma olduğunu güman edirəm, lakin Xəlil onu belə nəql etmişdir:\nحسن الثِّياب يبيت أعجَرَ طاعماً … والضَّيفُ من حُبِّ الطَّعامِ قد التَوَى\n(Gözəl paltarlı adam qarnı tox və qabarıq halda gecəni keçirər, qonaq isə yemək sevgisindən bükülüb qalmışdır.)\n«العُجْرة» (əl-ücrə) – taxtada və ya başqa şeylərdə, o cümlədən bədənin damarlarında olan hər bir düyün; cəmi «عُجَر» (ücar) gəlir.\nBu qoldandır: «الاعتجار» (əl-i'tixar) – çənəaltından dolandırmadan əamməni başa sarımaq. O demişdir:\nجاءت به معتجراً ببُرْدِهْ … سَفْوَاء تَرْدِى بنَسِيجِ وَحْدِهْ (٣)\n(Örtüyünə bürünərək onu gətirdi, yüyürən, tək toxunmuş parça ilə qaçan...) \nOna «i'tixar» deyilməsi içərisində bükülmə və qabarıqlıq olduğuna görədir.\nBu əsldən istisna olunan (şəzz) «العَجِير» (əl-əcir) sözüdür ki, atlar arasında kişilər içindəki «العِنِّين» (əl-innin) kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:12:45.079Z"
+}

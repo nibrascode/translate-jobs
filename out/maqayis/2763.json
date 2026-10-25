@@ -1,0 +1,17 @@
+{
+ "i": 2763,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عدب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 252,
+  "page_to": 253
+ },
+ "ar": "العين والدال والباء زعم الخليل أنَّه مهمل، ولعلّه لم يبلغْه فيه شئ. فأمّا البناء فصحيح. والعَدَاب: مسترِقٌّ من الرَّمل. قال ابن أحمر:\nكثَور العَدَاب الفَرْدِ يَضْرِبُه الندى … تَعلَّى النَّدى فى مَتْنِهِ وتحدّرا (١)\nواللّه أعلم.",
+ "az": "[عدب] (ə-d-b). Ayn, dal və ba hərfləri. Xəlil güman etmişdir ki, bu, möhməldir [lüğətlərdə yoxdur], ola bilsin ki, ona bu barədə heç nə gəlib çatmamışdır. Lakin bina [kökün quruluşu] səhihdir. «العَدَاب» (əl-ədab) — incəlmiş qumdur. İbn Əhmər demişdir: «كثَور العَدَاب الفَرْدِ يَضْرِبُه الندى … تَعلَّى الندى فى مَتْنِهِ وتحدّرا» (Şebnamin döydüyü tək qaldığı qum təpəsinin öküzü kimi, şebnam onun belinə yüksəldi və aşağı süzüldü) (1). Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T14:13:52.284Z"
+}
