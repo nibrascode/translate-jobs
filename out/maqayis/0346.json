@@ -1,0 +1,17 @@
+{
+ "i": 346,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بوص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 317,
+  "page_to": 318
+ },
+ "ar": "الباء والواو والصاد أصلان: أحدهما شئٌ من الآراب، والآخر من السَّبْق.\nفالأوَّل البُوَص، وهى عجيزة المرأة. قال:\nعَريضَةِ بُوَصٍ إذا أدبَرَتْ … هَضِيمِ الحَشَا شَخْتَةِ المُحْتَضَنْ (١)\nوالبُوصُ اللَّوْن أيضاً.\nفأمَّا الأصل الآخر فالبَوْص الفَوْت والسَّبْق، يقال بَاصَنِى، ومنه قولهم: خِمْس بائِصٌ (٢)، أى جادٌّ مستَعْجِلٌ.",
+ "az": "[بوص] Ba, vav və sad iki əsas kökdür: biri bədən üzvlərindən birinə, digəri isə ötməyə və irəliləməyə aiddir. Birincisi البُوَص (əl-buyas) – qadının sağrısıdır. (1) Və البُوص (əl-buyus) həm də rəngdir. Digər əsas kökə gəldikdə, o, البَوْص (əl-bovs) – ötüb keçmək və qabaqlamaqdır. Deyilir: باصَنِى (basani), onlardan belə bir ifadə də vardır: خِمْس بائِصٌ (ximsun baisun) – yəni sərt, tələsik gedən.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:05.794Z"
+}

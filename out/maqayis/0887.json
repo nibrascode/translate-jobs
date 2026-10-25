@@ -1,0 +1,17 @@
+{
+ "i": 887,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حضل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 73,
+  "page_to": 73
+ },
+ "ar": "الحاء والضاد واللام كلمةٌ واحدة ليست أصلاً ولا يقاس عليها؛ يقال حَضِلَت النخلةُ، إذا فسد أصولُ سَعَفِها.",
+ "az": "[حضل] (Hə, dad və lam) tək bir kəlmədir, nə əsasdır, nə də ona qiyas edilir; «حَضِلَتِ النَّخلَةُ» (xurma ağacının budaqlarının dibi xarab oldu) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:29.377Z"
+}

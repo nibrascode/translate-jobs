@@ -1,0 +1,17 @@
+{
+ "i": 270,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بعق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 263,
+  "page_to": 263
+ },
+ "ar": "الباء والعين والقاف أصلٌ واحد، وهو شقُّ الشَّئِ وفَتْحُه.\nثمّ يُتَّسَع فيه فيُحمَل عليه ما يقارِبُه. قال الخليل: البُعَاقُ شدَّة الصوت. والمطر البُعاق، بَعَق الوابلُ إذا انفتح فَجْأَةً. قال أبو زياد: البُعاق من الأمطارِ أشَدُّها؛ يقال أرضٌ مبعوقةٌ. قال: والانبعاقُ أن ينْبَعِقَ عليك الشَّئِ فجأة. وأنشد:\nبينَمَا المرء آمِنٌ راعَه رَا … ئِعُ حَتْفٍ لم يَخْشَ منه انبعاقَهْ (١)\nويقال: بعَقْتُ الإبِلَ، أى نَحَرْتُها. و\nفى الحديث: «مَنْ هَؤُلاءِ الَّذِين يَبْعَقُون لِقاحَنا». أى ينحرونها (٢). أصله من سَيلان الدَّم.\nقال أبو علىّ: البَعْق الشَّقُّ الذى يكون فى أَلْيَة الحَافر (٣). حكى بعضُ الأعراب:\nبَعَقْتُ فُلاناً عن الأمر بَعْقاً، أى مَزَّقْته وكَشَفْته. ومُنْبَعَق المَفَازةِ مُتَّسَعُها. وقال جَنْدَلٌ الطُّهَوىّ:\nللرِّيحِ فى مَبْعَقِها المَجْهُولِ … مَسَاحِبٌ مَيَّاسَةُ الذُّيُولِ\nقال الضّبىّ فى كَلامٍ: «كانت قِبَلَنَا ذِئْبةٌ مُجْرِيَةٌ، فأقْبَلَتْ هى وعِرْسُها (٤) ليلاً، فَبَعَقَا غَنَمَنَا»، أى شقّقَا بطونَها.",
+ "az": "[بعق] (bə-ə-q): باء (ba), ayn və qaf tək bir əsasdır, o da bir şeyi yarıb açmaqdır.\nSonra bu sözün mənası genişləndirilir və ona yaxın olan mənalar da aid edilir. Xəlil demişdir: «البُعَاق» (əl-buAaq) — səsin şiddətidir. «المطر البُعاق» (əl-maTr əl-buAaq) — bol yağışdır, «بَعَق الوابلُ» (bəiə əl-wAbil) — gur yağış qəflətən yarıldıqda (başladıqda) deyilir. Əbu Ziyad demişdir: «البُعاق» yağışların ən şiddətlisidir; «أرضٌ مبعوقةٌ» (yer məbuuqə - yağışdan yarılan yer) deyilir. O demişdir: «الانبعاق» (əl-inbiAaq) — bir şeyin qəflətən sənin üzərinə açılıb tökülməsidir. Və bu beyti gətirmişdir:\n«بَيْنَمَا المَرْءُ آمِنٌ رَاعَهُ رَا … ئِعُ حَتْفٍ لَمْ يَخْشَ مِنْهُ انْبِعَاقَهْ» (1)\n(İnsan əmin-amanlıq içində ikən onu qorxulu ölüm səsi diksindirdi... heç gözləmədiyi halda onun qəfil gəlişindən qorxdu).\nVə deyilir: «بعَقْتُ الإبِلَ» (bəiatu əl-ibl) — yəni onları kəsdim. Və\nhədisdə: «مَنْ هَؤُلاءِ الَّذِين يَبْعَقُون لِقاحَنا» (Sağanlıq dəvələrimizi kəsən bu adamlar kimlərdir?) — yəni onları kəsirlər (2). Bunun kökü qanın axmasından götürülmüşdür.\nƏbu Əli demişdir: «البَعْق» (əl-baTq) — at dırnağının arxa ətində olan yarıqdır (3). Bəzi bədəvilər rəvayət etmişdir:\n«بعَقْتُ فُلاناً عن الأمر بَعْقاً» (bəiatu fulanən an əl-əmri bəiqan) — yəni onu işdən ayırıb parçaladım və üzə çıxardım. «مُنْبَعَق المَفَازةِ» (munbəaq əl-məfAzəh) — səhranın genişlənən yeridir. Cəndəl ət-Təhəvi demişdir:\n«للرِّيحِ فى مَبْعَقِها المَجْهُولِ … مَسَاحِبٌ مَيَّاسَةُ الذُّيُولِ» (Küləyin naməlum yarığında... ətəkləri yırğalanan izləri vardır).\nZübi bir sözündə demişdir: «Bizim tərəflərdə qaçqın bir dişi qurd var idi, o və ərliyi (erkəyi) gecə gəlib qoyunlarımızın qarnını yardılar», yəni qoyunlarımızın qarınlarını parça-parça etdilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:27.649Z"
+}

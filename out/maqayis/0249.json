@@ -1,0 +1,17 @@
+{
+ "i": 249,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بسر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 249,
+  "page_to": 250
+ },
+ "ar": "الباء والسين والراء أصلان: أحدُهما الطَّراءة وأن يكون الشَّئ قَبْل إنَاه. والأصل الآخر وُقوف الشَّئِ وقِلّةُ حَرَكته.\nفالأوّل قولُهم لِكلِّ شئٍ غَضٍّ بُسْرٌ؛ ونباتٌ بُسْرٌ إذا كان طَرِيًّا. وماءُ بُسْرٌ قريبُ عَهْدٍ بالسَّحاب. وابتَسَرَ الفَحْلُ النّاقَةَ إذا ضَرَبَهَا على غيرِ ضَبَعَة.\nويقال للشَّمس فى أوَّلِ طُلوعِها بُسْرة. ومن هذا قولُهمْ بَسَر الرَّجُل الحاجةَ إِذَا طَلَبها مِنْ غير مَوضِع الطَّلَب. وقياسُه صحيح، لأنّه كأنَّه طَلَبها قبل إناها (٣) والبَسْر ظَلْمُ السِّقَاء، وذلك شُرْبُه قبل رَوْبه.\n[(باب الباء والشين وما يثلثهما)]",
+ "az": "[بسر] (bəsər) — با (ba), سين (sin) və راء (ra) iki əsas mənaya malikdir: birincisi təzəlik və şeyin vaxtından əvvəl olmasıdır. İkinci əsas isə şeyin dayanması və hərəkətinin az olmasıdır. Birincisinə gəldikdə, bu, onların hər bir təzə şeyə «بُسْرٌ» (busr) demələridir; həmçinin yaşıl bitki təzə olduqda «نباتٌ بُسْرٌ» deyilir. «ماءٌ بُسْرٌ» (yeni su) – buluddan təzə ayrılmış suya deyilir. Təkə cinsi dişi dəvəyə istəkli vaxtı olmadan yaxınlaşdıqda «ابتَسَرَ الفَحْلُ النّاقَةَ» (təkə dəvəyə vaxtsız üstdən düşdü) deyilir. Günəşin ilk doğuşuna «بُسْرَة» (busrə) deyilir. Bu mənadandır onların: «بَسَرَ الرَّجُلُ الحاجةَ» (kişi ehtiyacı vaxtsız tələb etdi) – yəni onu tələb olunan yerdən başqa yerdən istədi. Bunun qiyaslarması səhihdir, çünki o, sanki ehtiyacı vaxtı çatmamışdan qabaq istəmişdir (٣). «البَسْرُ» (busr) – tuluğa zülm etməkdir, bu da onun suyu və ya südü qıcqırmamışdan (maya tutmamışdan) əvvəl içilməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.234Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2030,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سرط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 152,
+  "page_to": 152
+ },
+ "ar": "السين والراء والطاء أصلٌ صحيح واحد، يدلُّ على غَيبة فى مَرّ وذَهاب. من ذلك: سَرَطْت الطّعام، إذا بَلِعْته؛ لأنَّه إِذا سُرِطَ غاب.\nوبعضُ أهل العلم يقول: السِّراط مشتقٌّ من ذلك، لأنَّ الذاهبَ فيه يغيب غيبةَ الطعام المُستَرَط. والسِّرِطْراط على فِعلاّل (١): الفالوذُ؛ لأنَّه يُستَرط. والسُّراطُ:\nالسّيف القاطع الماضِى فى الضَّريبة. قال الهذلىّ (٢) يصف سيفاً:\nكلون المِلح ضربتُه هَبِيرٌ … يُتِرُّ اللَّحمَ سَقّاطٌ سُراطِى (٣)",
+ "az": "[سرط] السين والراء والطاء (sin, ra və ta) — bir səhih əsas olub, gediş və hərəkət zamanı gözdən yayınmağa dəlalət edir. Bunlardan biri: «سَرَطْت الطّعام» (yeməyi udun) — çünki udulduğu zaman gözdən itib yoxa çıxır. Elm əhlindən bəziləri demişdir ki, «السِّراط» (sirat) sözü də bundan götürülmüşdür, çünki onun üzərində gedən şəxs, udulan yeməyin yoxa çıxması kimi gözdən itib yoxa çıxır. «السِّرِطْراط» (ficlal vəznində — ١): firni, şirniyyat növüdür, çünki o, udulur. «السُّراطُ»: zərbə ilə kəsən iti qılınc. Hüzəli (٢) bir qılıncı vəsf edərək demişdir: كلون المِلح ضربتُه هَبِيرٌ … يُتِرُّ اللَّحمَ سَقّاطٌ سُراطِى (٣) (Mənasız,duz rəngindədir, zərbəsi parça-parçadır, əti kəsir, düşən və kəsici bir qılıncdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:38.718Z"
+}

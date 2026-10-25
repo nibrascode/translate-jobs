@@ -1,0 +1,17 @@
+{
+ "i": 242,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 246,
+  "page_to": 246
+ },
+ "ar": "الباء والزاء والخاء أصلٌ يقْرُب من الذى قبلَه. والبَزَخ خروج الصَّدْرِ ودُخولُ الظَّهر؛ يقال رجلٌ أبْزَخُ وامرأةٌ بَزْخاء. وتبازَخَتْ له المرأةُ، إذا حَرَّكَت عَجُزَها فى مِشْيَتِها.",
+ "az": "[بزخ] (bəzəx) — با (ba), زاء (za) və خاء (xa) hərflərindən ibarət olub, bundan əvvəlki kökə yaxın bir əsas mənadır. «البَزَخ» (bəzəx) – sinənin çölə çıxması və belin içəri batmasıdır; «رجل أبْزَخُ» (əbzəx kişi) və «امرأة بَزْخاء» (bəzxa qadın) deyilir. Qadın yerişində sağrısını tərpətdikdə «تبازَخَتْ له المرأةُ» (qadın onun üçün təbazəx etdi) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.233Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2580,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ظب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 463,
+  "page_to": 464
+ },
+ "ar": "الظاء والباء] ما يصحُّ منه إِلاّ كلمةٌ واحدة. يقال ما به ظَبْظَابٌ، أى ما به قَلَبَة. قال ابن السكِّيت: ما به ظبظابٌ (٥)، أى ما به عيبٌ ولا وجَع. قال الراجز:\nبُنَيَّتى ليس بها ظبظابٌ (٦)\nويقولون: الظَّباظِب: صليل أجواف الإِبل (١) من العطش؛ وليس بشئ، وقيل: هو تصحيف، وهو بالطّاء. فأمّا الذى فى الكتاب الذى للخليل: أنّ الظَّابَّ السِّلْف (٢) فأراه غلِط على الخليل. لأنَّ الذى سمعناه الظَّأْب، بالتَّخفيف. وقد ذُكر فى بابه.",
+ "az": "«ظب» (ظ، ب) — səhih olan yalnız bir kəlmədir. Deyilir: ما به ظَبْظَابٌ, yəni onda heç bir narahatlıq, təlatüm yoxdur. İbn əs-Sikkīt demişdir: ما به ظبظابٌ — yəni onda heç bir qüsur və ağrı yoxdur. Racəz şairi demişdir: بُنَيَّتى ليس بها ظبظابٌ (٦) (Qızcığazımda heç bir qüsur yoxdur). Və deyirlər: اَلظَّباظِب: susuzluqdan dəvələrin qarınlarının cığıltısıdır (١); bu, əsassızdır, deyilənlərə görə, bu təhrif olunub, əslində ط (ta) hərfi ilədir. Əl-Xəlilin kitabındakı اَلظَّابُّ əl-silf (٢) sözünə gəldikdə, hesab edirəm ki, o, əl-Xəlildə səhvə yol vermişdir. Çünki bizim eşitdiyimiz تxəfiflə olan اَلظَّأْب sözüdür. O, öz fəslində zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:13:55.070Z"
+}

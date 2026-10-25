@@ -1,0 +1,17 @@
+{
+ "i": 222,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 219,
+  "page_to": 220
+ },
+ "ar": "الباء والراء والصاد أصلٌ واحدٌ، وهو أن يكون فى الشئ لُمْعَةٌ تخالف سائرَ لونه، من ذلك البرصُ. وربما سمَّوا القمرَ أبرص. والبَرِيص مثل البصيص، وهو ذلك القياس. قال:\n* لهنَّ بخدِّهِ أبداً بريصُ (٢) *\nوالبِرَاصُ بِقَاعٌ فى الرَّمْل لا تُنْبِتُ (٣). وسامُّ أبْرَصَ معروفٌ. قال القُتيبىّ:\nويجمع على الأبارِصِ. وأنشد:\nواللّهِ لو كنتُ لهذا خالصاَ (٤) … لكُنتُ عبداً يأكل الأَبارِصاَ (٥)\nوقال ثعلب فى كتاب الفصيح: وهو سامُّ أبْرَص، وسامَّا أبرصَ، وسَوامُّ أبرصَ.",
+ "az": "[برص] (ba, ra və sad) bir əsasdır, o da bir şeydə onun ümumi rəngindən fərqli ləkənin olmasıdır, o cümlədən بَرَص (bərəc - albinizm, dəri ləkəsi) xəstəliyi. Bəzən ay ¬qəmərə də أبرص (əbrəs - ala) adını verirlər. البَرِيص (əl-bəris) البصيص (əl-bəsis) kimidir və həmin mənanı ifadə edir. Şair demişdir: * لهنَّ بخدِّهِ أبداً بريصُ (٢) * (Onun yanağında həmişə parlaqlıq/parıltı vardır). وَالبِرَاصُ (əl-biras) qumluqda bitki bitməyən yerlərdir (٣). سامُّ أبْرَصِ (sammu əbrəs) tanınmışdır (kərtənkələ növü). Qüteybə demişdir: O, أبارِصُ (əbaris) formasında cəmlənir. Və bu beytİ oxumuşdur: وَاللّهِ لو كنتُ لهذا خالصاَ (٤) … لكُنتُ عبداً يأكل الأَبارِصاَ (٥) (Allaha and olsun ki, əgər mən bunun üçün səmimi olsaydım... əbaris yeyən bir qul olardım). Səslə «Fəsih» kitabında demişdir: O, سامُّ أبْرَص (sammu əbrəs), ikilikdə سامَّا أبرص (samma əbrəs), cəmdə isə سَوامُّ أبرص (səvammu əbrəs) olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:31.386Z"
+}

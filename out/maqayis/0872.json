@@ -1,0 +1,17 @@
+{
+ "i": 872,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 63,
+  "page_to": 64
+ },
+ "ar": "الحاء والشين والميم أصلٌ مشترك، وهو الغَضَب أو قريبٌ منه.\nقال أهل اللغة. الحِشْمَة: الانقباضُ والاستحياء. وقال قومٌ: هو الغضب.\nقال ابن قُتيبة: رُوِى عن بعض فصحاء العرب: إن ذلك مما يُحْشِمُ بنى فلانٍ، أى يغضبهم. وذكر آخر أن العرب لا تعرِفُ الحشمةَ إلاَّ الغضب، وأنَّ قولهم لحَشمِ الرجل خدمه، إنما معناه أنَّهم الذين يَغْضب لهم ويغضَبون له.\nقال أبو عبيدٍ: قال أبو زيد: حَشَمْتُ الرجل أحْشِمه وأحْشَمْتُه، وهو أن يجلس إليك فتُؤذيَهُ وتُسمعه ما يكره. وابن الأعرابى يقول: حَشَمْتُه فحَشَم، أى أخجلته. وأحشمته: أغضبته. وأنشد:\nمَعَمْرُكُ إنّ قُرْصَ أبى خُبَيبٍ … بطئُ النُّضْجِ مَحشومُ الأكيلِ (١)",
+ "az": "[حشم] الحاء، Şin və Mim (h, ş, m) ortaq bir əsasdır, o da qəzəb və ya ona yaxın olan mənadır. Dilçilər demişlər: الحِشْمَة — qapanmaq və həya etməkdir. Bir qrup adam demişdir: O, qəzəbdir. İbn Quteybə demişdir: Ərəb fəsihləri bəzilərindən rəvayət etmişdir ki: Bu, filan oğullarını قَذَب edən şeylerdəndir, yəni onları qəzəbləndirir. Başqası qeyd etmişdir ki, ərəblər حشمة sözünü qəzəbdən başqa cür tanımırlar, onların kişinin حَشَم (qohum-əqrəba, xidmətçilər) demələri isə ancaq o deməkdir ki, onlar onun üçün qəzəblənən və onun uğrunda qəzəbləndiyi kəslərdir. Əbu Übeyd demişdir: Əbu Zeyd demişdir: حَشَمْتُ الرَّجُلَ أَحْشِمُهُ وَأَحْشَمْتُهُ — o kəsdir ki, sənin yanında oturur, sən də onu incidirsən və xoşlamadığı sözləri eşidirsən. İbn əl-Ərəbi isə deyir: حَشَمْتُهُ فَحَشَمَ (Mən onu xəcalətli etdim, o da xəcalət çəkdi), yəni utandırdım. Və أحشمته — onu qəzəbləndirdim. [Şair] şeir söyləmişdir: مَعَمْرُكُ إِنَّ قُرْصَ أَبِى خُبَيْبٍ … بَطِئُ النُّضْجِ مَحْشُومُ الْأَكِيلِ (١) (Ömrümə yand iç olsun ki, Əbu Hübeybin çörəyi gec bişir, yeyəni isə qəzəblənmiş/təhqir olunmuşdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:55:58.229Z"
+}

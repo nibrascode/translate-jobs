@@ -1,0 +1,17 @@
+{
+ "i": 386,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبهرج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "(فأما النَّبَهْرَجُ) فليست عربيّةً صحيحة، فلذلك لم يُطْلَبْ لها قياس. والبَهْوج الرَّدِىّ. ويقال أرضٌ بَهْرَجٌ، إذا لم يكن لها مَنْ يحميها. وبَهْرَجَ الشَّىْ ءَ إذا أخَذَ به على غير الطريق. وإن كان فيه شاهدُ شعر (١) فهو كما يقولون «السّمَرَّج» (٢).\nوليسَ بشَىْ ءٍ.",
+ "az": "[نبهرج] (Nun-bə-ha-ra-cim) «النَّبَهْرَجُ» (ən-nəbəhrəc) gəldikdə isə, bu düzgün ərəbcə deyil, ona görə də onun üçün bir qiyas (ölçü) axtarılmamışdır. «البَهْوج» (əl-bəhvc) pis deməkdir. Deyilir ki, «أرضٌ بَهْرَجٌ» (ərdun bəhrəc - qoruyucusu olmayan yer). «بَهْرَجَ الشَّىْ ءَ» (bəhrəcəş-şəy’ə - bir şeyi yolundan kənar götürdü). Əgər bunda şeir şahidi (1) varsa belə, bu onların «السّمَرَّج» (əs-səmərrəc) dedikləri kimidir. Bu heç bir şey (əhəmiyyətli) deyil.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

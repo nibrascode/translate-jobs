@@ -1,0 +1,17 @@
+{
+ "i": 1482,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رشى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 397,
+  "page_to": 397
+ },
+ "ar": "الراء والشين والحرف المعتل أصل يدلُّ على سَببٍ أو تسبُّبٍ لشئٍ بِرفْق وملايَنَة. فالرِّشاء: الحبل الممدود، والجمع * أرشِيَة. ويقال للحنْظَل إذا امتدَّت أغصانُه: قد أَرْشَى. يعْنَى أنّه صار كالأرشية، وهى الحبال.\nومن الباب: رشَاه يرشُوهُ رَشْواً. والرِّشْوة الاسمُ. وتقول ترشَّيْت الرّجلَ:\nلايَنْتُه. ومنه قول امرئ القيس:\n* تُرَاشِى الفؤادَ (١) *\nومن الباب استرشى الفصيلُ، إذا طلب الرَّضاع، وقد أرشَيْتُه إرشاء.\nوراشَيْتُ الرّجُل، إذا عاونتَه فظاهَرْتَه. والأصل فى ذلك كلّه واحد.",
+ "az": "«رشى» (Rə-şi): Ra, şin və zəif hərf yumşaqlıqla və xoşluqla bir səbəbə və ya bir şey üçün səbəb olmağa dəlalət edən bir əsasdır. فالرِّشاء (Rişa): Uzadılmış ipdir, cəmi * أرشِيَة (ərşiyə). Və budaqları uzandıqda hənzələ (qərəq) haqqında deyilir: قد أَرْشَى (ərşə). O deməkdir ki, o, iplər mənasını verən ərşiyə kimi oldu. Və bu babdandır: رشَاه يرشُوهُ رَشْواً (Rəşahu yərşuhu rəşvan). والرِّشْوة (Rişvət) ismidir. Və deyirsən: ترشَّيْت الرّجلَ (Kişiyə rüşvət təklif etdim): ona yumşaq davran. Və İmrülqeysin bu sözü bundandır: تُرَاشِى الفؤادَ (Ürəyi yumşaldırsan). Və bu babdandır: استرشى الفصيلُ (Südəmər dəvə balası süd istədi), süd əmməyi tələb etdikdə, və mən ona إرشاء (irşa) etdim. Və راشَيْتُ الرّجُل (Kişiyə kömək etdim), ona yardım edib arxa durduqda. Bunların hamısında əsas birdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

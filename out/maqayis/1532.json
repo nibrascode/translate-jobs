@@ -1,0 +1,17 @@
+{
+ "i": 1532,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 419,
+  "page_to": 419
+ },
+ "ar": "[الراء والفاء والنون ليس أصلاً (٢)]، وإنّما النُّون [فى رِفَنّ] مبدلةٌ من لام؛ لأنّه فى الأصل رِفَلٌّ. فأما قولهم ارفأَنَّ، إِذا سكَنَ، فإنّ النون فيه زائدة.",
+ "az": "«رفن» (rəfən): [Ра, fa və nun hərfləri əsl deyil], sadəcə [رِفَنّ - rifənn] sözündəki nun hərfi lam hərfinin əvəzinə dəyişdirilmişdir; çünki o, əslində «رِفَلٌّ» (rifəllün) olub. Qaldı ki, onların «ارْفَأَنَّ» (irfəənnə) — yəni sakitləşdi, sözünə, oradakı nun hərfi artırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.131Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1099,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خضل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 192,
+  "page_to": 192
+ },
+ "ar": "الخاء والضاد واللام أصلٌ واحد يدلُّ على نَعْمةٍ وندْى يقال أخْضَلَ المطرُ [الأرض] فهو مُحْضِلٌ، والأرض مُخْضَلَةٌ. واخضلّ الشَئُ:\nابتلّ. والخَضِلُ: النَّبات الناعم. ويقال إنّ الخضيلةَ الرَّوضة. ويقال لامرأة الرّجُل خُضُلَّتُه (٤)، وهو من هذا وذلك، كما سُمّيَت طَلَّة، لأنّها كالطّلَ فى عَينِه.\nوكل نِعمة خُضُلّة. قال:\nإذا قلتُ إنّ اليومَ يومْ خَضُلّةٍ … ولا شرْزَ لاقيتُ الأمورَ البَجَارِيا (٥)",
+ "az": "[خضل] (Xə-də-l): Xa, dad və lam hərfləri nemət və nəmə dəlalət edən bir əsasdır. Deyilir: Yağış yeri nəmləndirdi [ərz], onda o, muxdil – yer isə muxalədir. Və şey xalə – nəm oldu. Və «الخَضِلُ» (xədil) – yumşaq bitkidir. Deyilir ki, xədilə – çəmənlikdir. İnsanın arvadına «خُضُلَّتُه» (xudullətuhu) deyilir, bu da bundandır, o, gözündə şeh kimi olduğuna görə «طَلَّةٌ» (tallə) adlandırıldığı kimidir. Hər bir nemət xudullədir. Demişdir: Əgər desəm ki, bu gün xudullət günüdür... böyük işlərlə qarşılaşdım (5).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:43.581Z"
+}

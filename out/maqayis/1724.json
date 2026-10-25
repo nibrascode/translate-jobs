@@ -1,0 +1,17 @@
+{
+ "i": 1724,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 7,
+  "page_to": 7
+ },
+ "ar": "الزاء والخاء أُصَيلٌ يدلُّ على الدَّفع والمبايَنَة. يقال رخَخْتُ الشّئَ، إذا دفعتَه. و\nفى الحديث: «مَنْ نَبذَ القُرآنَ وراء ظَهرِه زُخَّ فى قَفاه».\nوزَخَّها: جامَعَها. و* المِزَخَّة: المرأة. ومن الباب الزَّخَّة: الحِقد والغَيظ. قال: ٣٠٦\nفلا تَقْعُدَنّ على زَخَّةٍ … وتُضمِرَ فى القلب وَجداً وَخِيفَا (٢)",
+ "az": "«زخ» — Zae və xal təkliyi itələməyə və ayrılmağa dəlalət edən kiçik bir kökdür. «رخَخْتُ الشّئَ» (bir şeyi itələdim) deyilir. Hədisdə gəlmişdir: «مَنْ نَبذَ القُرآنَ وراء ظَهرِه زُخَّ فى قَفاه» (Kim Quranı arxasına atarsa, ənsəsindən itələnər). «زَخَّها» — onunla yaxınlıq etdi. «المِزَخَّة» — qadındır. Bu babdan olan «الزَّخَّة» — kin və qəzəbdir. Şair demişdir: «فلا تَقْعُدَنّ على زَخَّةٍ … وتُضمِرَ فى القلب وَجداً وَخِيفَا (٢)» (Heç vaxt kin üzərində oturma və qəlbində dərd və qorxu gizlətmə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:48.690Z"
+}

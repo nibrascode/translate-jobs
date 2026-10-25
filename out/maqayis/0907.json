@@ -1,0 +1,17 @@
+{
+ "i": 907,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حفس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 86,
+  "page_to": 86
+ },
+ "ar": "الحاء والفاء والسين ليس أصلا. يقال للرجل القصير حيفس (٣).",
+ "az": "«حفس» (həfəs): Haa, fa və sin əsas deyil. Qısa kişiyə «حيفس» (həyfəs) deyilir.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:02:08.982Z"
+}

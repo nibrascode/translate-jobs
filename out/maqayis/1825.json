@@ -1,0 +1,17 @@
+{
+ "i": 1825,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زجى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 48,
+  "page_to": 49
+ },
+ "ar": "الزاء والجيم والحرف المعتلّ يدلُّ على الرّمى بالشئ وتسييره من غير حبس (٥). يقال أزجتِ البقرةُ ولدَها، إذا ساقته. والرِّيح تُزْجِى السَّحابَ: تسوقُه سَوْقاً رفِيقاً. فأمّا المُزْجَى فالشئ القليل، وهو من قياس الباب، أى يُدفع به الوقت. وهذه بضاعةٌ مُزْجَاة، أى يسيرة الاندفاع.\nومن الباب زجا الخراجُ يزجُو، أى تيسَّرت جِبايته.\nباب الزاءِ والحاءِ وما يثلثهما فى الثلاثى",
+ "az": "[زجى] (zə-jim-hərfur-mütəll): bir şeyi atmağa və onu saxlamadan hərəkət etdirməyə dəlalət edir. Deyilir: «أزجتِ البقرةُ ولدَها» (inək balasını qovdu) — onu qabağına qatıb sürüdüyü zaman. «والرِّيح تُزْجِى السَّحابَ» (külək buludları qovur) — onları yavaş-yavaş qovur. «المُزْجَى» (əl-müzgə) isə az olan şeydir, bu da babın qiyasındandır, yəni vaxt onunla yola verilir. «هذه بضاعةٌ مُزْجَاةٌ» (bu, az olan maldır) — yəni az hərəkətli, cüzi olan. \nBabdandır: «زجا الخراجُ يزجُو» (vergi yığılması asanlaşdı) — xəracın yığılması asanlaşdığı zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

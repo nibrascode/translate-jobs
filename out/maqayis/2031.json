@@ -1,0 +1,17 @@
+{
+ "i": 2031,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سرع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 152,
+  "page_to": 153
+ },
+ "ar": "السين والراء والعين أصل صحيح يدلُّ على خلاف البطء. فالسَّريع: خلاف البطئ. وسَرْعَان (٤) النَّاس: أوائلهم الذين يتقدمون\nسِراعا. وتقول العرب: لَسَرْعان (١) ما صنعتَ كذا، أي ما أسرع ما صَنَعتَه.\nوأما السَّرْع من قُضبان الكرْم، [فهو] أسرعُ ما يطلُع منه. ومثله السَّرَعْرَع، ثم يشبَّه به الإنسان الرَّطيب الناعم.",
+ "az": "[سرع] السين والراء والعين (sin, ra və eyn) — yavaşlığın əksinə dəlalət edən səhih bir kökdür. «السَّريع» (sürətli) — yavaşın əksidir. «سَرْعَان» (٤) النَّاس (insanların öncülləri) — tez gedən ilk dəstələri. Ərəblər deyirlər: «لَسَرْعان» (١) ما صنعتَ كذا (filan şeyi nə qədər də tez etdin), yəni onu necə də sürətlə düzəltdin. Amma tənək çubuqlarından olan «السَّرْع» [isə] ondan bitən ən sürətli şeydir. Bunun kimi «السَّرَعْرَع» sözüdür, sonra təravətli və incə insan buna bənzədilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:38.718Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 643,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جسم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 457,
+  "page_to": 457
+ },
+ "ar": "الجيم والسين والميم يدلُّ على تجمُّع الشئ. فالجسم كلُّ شخصٍ مُدْرَكٍ. كذا قال ابن دريد (١). والجَسيم: العظيم الجِسم، وكذلك الجُسام والجسْمان: الشخص.",
+ "az": "[جسم] Cim, sin və mim: bir şeyin toplanmasına dəlalət edir. Cism (الجسم) dərk olunan hər bir şəxsdir. İbn Dureyd belə demişdir (١). Cəsim (الجَسيم): cismi böyük olan, həmçinin cusam (الجُسام) və cüsman (الجسْمان) da şəxs deməkdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.556Z"
+}

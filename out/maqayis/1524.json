@@ -1,0 +1,17 @@
+{
+ "i": 1524,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 414,
+  "page_to": 415
+ },
+ "ar": "الراء والغين والنون فيه كلامٌ إن صحّ. يقولون الإرغانُ:\nالإصغاء إلى الإنسان والقَبولُ له والرِّضا به. والرَّغْن كذلك أيضاً. وحكَوْا عن\nالفراء: «لا تُرْغِنَنَّ له فى ذاك» أى لا تُطِعْه (١) فيه. ورَغَن إلى الصُّلح مثل رَكَن.\nواللّه أعلم، كيف هذا (٢).",
+ "az": "«رغن» (rəğən): Ра, ğayn və nun hərflərində, əgər səhihdirsə, bir söz vardır. Deyirlər ki, «الإرْغان» (əl-irğan) — insana qulaq asmaq, onu qəbul etmək və ondan razı qalmaqdır. «الرَّغْن» (ərrəğn) də həmçinin belədir. Fərradan rəvayət etmişlər ki: «لَا تُرْغِنَنَّ لَهُ فِي ذَاكَ» (la turğinənnə ləhu fi zəkə) — yəni bu işdə ona itaət etmə. Və «رَğَنَ» (rəğənə) sülhə tərəf meyil etdi, «رَكَنَ» (rəkənə) kimidir. Allah daha yaxşı bilir bunun necə olduğunu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.130Z"
+}

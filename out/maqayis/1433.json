@@ -1,0 +1,17 @@
+{
+ "i": 1433,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 369,
+  "page_to": 369
+ },
+ "ar": "الذال والباء واللام أصلٌ واحد يدل على ضُمْرٍ فى الشئ.",
+ "az": "[ذبل] \n\nذال، ba və lam hərfi bir şeydə arıqlığa və zəifliyə dəlalət edən tək bir əsasdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.658Z"
+}

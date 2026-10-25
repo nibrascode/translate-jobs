@@ -1,0 +1,17 @@
+{
+ "i": 1345,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دأم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 321,
+  "page_to": 322
+ },
+ "ar": "الدال والهمزة والميم يدل على تَوَالٍ وتَنَضّدٍ. قال الخليل:\nدَأَمْتُ الحائطَ، أى رفَعْتُه، ويكون هذا ممّا ذكرناه؛ لأنّه شئٌ فوق شئ.\nويقال تداءَمَتْ عليه الرِّياح، إذا توالت؛ وتَدَأَّمَت الأمواجُ (٢). وقال.\n* تحت ظِلال المَوْج إِذْ تَدَأَّمَا (١) *\nوالبحر نَفسُه الدَّأْماء. ولعل هذا القياسَ أولى به، وتَدَاءمْتُ الرّجلَ، إذا وثبتَ عليه. وتداءمَ الفحلُ النّاقَة، إذا تجلّلهَا. وتداءمَت السّماء: توالت أمطارُها (٢).",
+ "az": "[دأم] الدال (dal), الهمزة (həmzə) və الميم (mim) hərfləri ardıcıllıq və üst-üstə düzülməyə işarə edir. Əl-Xəlil dedi: دَأَمْتُ الحائطَ (də'əmtu-l-ha'itə) - yəni divarı qaldırdım, bu da qeyd etdiyimiz mənadandır; çünki bu, bir şeyin digərinin üzərində olmasıdır. Deyilir ki, تداءَمَتْ عليه الرِّياح (təda'əmət ələyhi-r-riyahu) - küləklər ard-arda gəldikdə; və تَدَأَّمَت الأمواجُ (tədə'əmət əl-əmvacu) (٢). O dedi: * تحت ظِلال المَوْج إِذْ تَدَأَّمَا (Dalğaların kölgəsi altında, o zaman ki, onlar üst-üstə yığıldı) (١). Dənizin özünə الدَّأْماء (əd-də'ma') deyilir. Bəlkə də bu ölçü (qiyas) ona daha uyğundur. تَدَاءمْتُ الرّجلَ (təda'əmtu-r-raculə) - bir kimsənin üzərinə atıldıqda deyilir. تداءمَ الفحلُ النّاقَة (təda'əmə-l-fəhlu-n-naqətə) - erkək dəvə dişi dəvənin üzərinə çıxdıqda. تداءمَت السّماء (təda'əmət əs-səma'u) - yağışları ard-arda yağdıqda (٢).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

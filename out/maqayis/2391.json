@@ -1,0 +1,17 @@
+{
+ "i": 2391,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضغث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "الضاد والغين والثاء أصلٌ واحدٌ يدلُّ على التباسِ الشَّئِ بعضِه ببعض. يقال للحالم: أضْغَثْتَ الرُّؤيا. والأضغاث: الأحلام الملتبِسة.\nوالضِّغْث: قُبضة (٣) [من (٤)] قُضْبان أو حشيش، قال الخليل: أصل واحد.\nويقال ناقة ضَغوثٌ، إذا شَكَكْتَ فى سِمَنها فلمستَ أَبها طِرْقٌ. والضَّغْثُ كالمَرْس.",
+ "az": "[ضغث] «الضاد» (زاد), «الغين» (ğin) və «الثاء» (sa) hərfləri şeyin bir-birinə qarışmasına dəlalət edən tək bir əslə malikdir. Yuxu görən şəxsə: «أضْغَثْتَ الرُّؤيا» (yuxunu qarışdırdın) deyilir. «الأضغاث» (əl-əzğas) — qarışıq yuxulardır.\n«الضِّغْث» (əz-ziğs) — budaq və ya ot ovucudur (٣) [ن (٤) - dən]. Xəlil demişdir: Tək bir əslidir.\n«ناقة ضَغوثٌ» (zəğus dəvə) — onun kök ləzzətindən şübhələnib piyini əllədiyin zaman deyilir. «الضَّغْثُ» (əz-ziğs) — əzmək kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

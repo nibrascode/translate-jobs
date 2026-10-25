@@ -1,0 +1,17 @@
+{
+ "i": 776,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحشل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "ومن ذلك قولهم للخفيف (جَحْشَلٌ (١)) فهذا مِمّا زيدت فيه اللام، وإنّما هو من الجَحْشِ، والجحشُ خفيف.",
+ "az": "«جحشل» - Və buraya yüngülvari olan adama «جَحْشَلٌ» (cəhşəl) deyilməsi daxildir. Bu, lam hərfinin artırıldığı sözlərdəndir, əslində isə جَحْش (cəhş) sözündəndir, cəhş də yüngüldür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 944,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حمض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 105,
+  "page_to": 105
+ },
+ "ar": "الحاء والميم والضاد أصل واحدٌ صحيح، وهو شئ من الطعوم. يقال شئ حامض وفيه حُموضة. والحَمْض من النَّبْت ما كانت فيه ملوحة والخُلّة ما سوى ذلك. والعرب تقول: الخُلّة خبز الإبل والحَمْض فاكهتُها وإنما تَحَوَّل إلى الحَمْض إذا مَلّت الخُلّة. وكلُّ هذا من النّبت. وليس شئ من الشجر العظام بحَمْضٍ ولا خلّة.",
+ "az": "[حمض] الحاء والميم والضاد أصل واحدٌ صحيح، وهو شئ من الطعوم («həmd» — ha, mim və dad hərfləri tək bir səhih kökdür və o, dad növlərindən biridir). يقال شئ حامض وفيه حُموضة (Deyilir ki, şey turşdur və onda turşuluq vardır). والحَمْض من النَّبْت ما كانت فيه ملوحة والخُلّة ما سوى ذلك (Bitkilərdən əl-həmd — tərkibində duzluluq olan şeydir, xullə isə bundan başqasıdır). والعرب تقول: الخُلّة خبز الإبل والحَمْض فاكهتُها وإنما تَحَوَّل إلى الحَمْض إذا مَلّت الخُلّة (Ərəblər deyirlər: xullə dəvənin çörəyi, həmd isə onun meyvəsidir; o, yalnız xullədən usandıqda həmdə keçər). وكلُّ هذا من النّبت (Bütün bunlar bitkidəndir). وليس شئ من الشجر العظام بحَمْضٍ ولا خلّة (Böyük ağaclardan heç biri nə həmd, nə də xullədir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:22.229Z"
+}

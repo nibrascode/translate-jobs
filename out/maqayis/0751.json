@@ -1,0 +1,17 @@
+{
+ "i": 751,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جثل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 505,
+  "page_to": 505
+ },
+ "ar": "الجيم والثاء واللام أصلٌ صحيح يدلُّ على لِين الشئ.\nيقال شعر جَثْلٌ: كثيرٌ ليِّن. واجْثَأَلَّ النبتُ: طال. واجْثَأَلّ الطائر: نَفَشَ رِيشَه.\nومما شذَّ عن الأصل: «ثكِلَتْه الجَثَل (٢)» وهى أمُّه. ويقال الجَثْلَة: النَّملة السَّوْدَاء.",
+ "az": "«جثل» — جيم, sə və lam bir şeyin yumşaq olmasına dəlalət edən səhih bir əslidir. \nDeyilir: «شعر جَثْلٌ» (şərun cəslün) — çox və yumşaq saç. «اجْثَأَلَّ النبتُ» (ic-səəllə əl-nəbtü) — bitki uzandı. «اجْثَأَلّ الطائر» (ic-səəllə əl-tair) — quş lələklərini qabartdı. \nƏsildən kənara çıxan (şaz): «ثكِلَتْه الجَثَل» (səkiləthü əl-cəsəl) — (anası mənasında) onun anası. Deyilir ki, «الجَثْلَة» (cəslətün) — qara qarışqadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.135Z"
+}

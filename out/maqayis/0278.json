@@ -1,0 +1,17 @@
+{
+ "i": 278,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بعص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 269,
+  "page_to": 269
+ },
+ "ar": "الباء والعين والصاد أصلٌ واحد، وهو الاضطِراب. قال أبو مَهْدِىّ: تَبَعْصَصَ الشئُ ارتَكَضَ فى اليَدِ واضطَرَبَ، وكذلك تَبَعْصَصَ فى النَّار، إذا أُلقِىَ فيها فأَخَذَ يعدو ولا عَدْوَ به. والأرْنَب تتبعصَص فى يَدِ الإنسان.\nويقال للحيّة إذا ضُرِبَتْ ولَوَتْ بذَنبها قد تَبَعْصَصَتْ",
+ "az": "[بعص] الباء، العين və الصاد — tək bir əsas kökə malikdir ki, o da titrəmək, çarpınmaqdır. Əbu Mehdi demişdir: «تَبَعْصَصَ الشئُ» — əldə titrədi və hərəkət etdi, eynilə odun içinə atıldıqda qaçmağa çalışan, lakin qaçmağa yeri olmayan şey kimi «تَبَعْصَصَ» etdi. Dovşan da insanın əlində «تتبعصَص» edər (çarpınar). İlana da vurulduğu və quyruğunu buladığı zaman «قد تَبَعْصَصَتْ» (çarpındı) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

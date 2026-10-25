@@ -1,0 +1,17 @@
+{
+ "i": 543,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 388,
+  "page_to": 388
+ },
+ "ar": "الثاء والميم والراء أصلٌ واحد، وهو شئٌ يتولّد عن شئٍ متجمِّعاً، ثم يُحمَل عليه غيرُه استعارةً.\nفالثَّمَر معروفٌ. يقال ثَمَرَةٌ وثَمَرٌ وثِمارٌ وثُمُر. والشّجر الثامِر: الذى بلَغَ أوانَ يُثْمرُ. والمُثْمِر: الذى فيه الثَّمَر. كذا قال ابن دريد (٣). وثمر الرّجلُ مالَه أحسَنَ القِيامَ عليه. ويقال فى الدعاء: «ثَمَّرَ اللّهُ مالَه» أى نمّاه. والثّمِيرة من اللبن حين يُثْمِرُ فيصيرُ مثلَ الجُمَّار الأبيض؛ وهذا هو القياس. ويقال لعُقْدَة السَّوط ثَمَرة؛ وذلك تشبيهٌ.\nومما شذَّ عن الباب * ليلة ابن ثَمِيرٍ، وهى اللَّيلة القَمْراء (٤). وما أدرى ما أصله.",
+ "az": "[ثمر] الثاء (sə), الميم (mim) və الراء (ra) bir əsasdır, o da bir şeydən toplanaraq əmələ gələn şeydir, sonra başqası ona məcazi olaraq həmlə edilir. «الثَّمَر» (əs-səmər) məlumdur. «ثَمَرَةٌ» (səmərə), «ثَمَرٌ» (səmər), «ثِمارٌ» (simar) və «ثُمُر» (sumur) deyilir. «الشّجر الثامِر» (əs-səcər əs-samir) meyvə vermə vaxtı çatan ağacdır. «المُثْمِر» (əl-musmir) içində meyvəsi olan deməkdir. İbn Dureyd belə demişdir (٣). «ثمر الرّجلُ مالَه» (kişi malını səmərəli etdi) dedikdə, ona ən gözəl şəkildə qulluq etdi deməkdir. Duada «ثَمَّرَ اللّهُ مالَه» (Allah onun malını artırsın) deyilir, yəni onu çoxaltsın. «الثّمِيرة» (əs-səmirə) südün meyvə verib ağ xurma özəyi kimi olduğu vaxtdır; bu da həmin qiyasdır. Qamçının düyününə «ثَمَرة» (səmərə) deyilir; bu da bənzətmədir. Bu qapıdan kənar olan «ليلة ابن ثَمِيرٍ» (ləylətü ibn səmir) sözüdür ki, bu ay işıqlı gecədir (٤). Onun əslini bilmirəm.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:42:17.837Z"
+}

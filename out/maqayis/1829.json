@@ -1,0 +1,17 @@
+{
+ "i": 1829,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زحن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 49,
+  "page_to": 49
+ },
+ "ar": "الزاء والحاء والنون أصلٌ يدل على الإبطاء. تقول: زَحَنَ يَزْحَن زَحْنًا، وكذلك التَّزحُّن. يقال تزَحَّن على الشئ، إذا تكارَهَ عليه وهو لا يشتهيه.",
+ "az": "[زحن] (zə-hə-nun): ləngiməyə dəlalət edən bir əsldir. Deyirsən: «زَحَنَ يَزْحَن زَحْنًا» (ləngidi, yubanlıq etdi), həmçinin «التَّزحُّن» (ət-təzəhhün) də belədir. Deyilir: «تزَحَّن على الشئ» (bir şeyi istəmədiyi halda özünə məcbur etdi) — könülsüz olduğu halda özünü ona vadar etdiyi zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

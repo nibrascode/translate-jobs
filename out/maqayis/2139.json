@@ -1,0 +1,17 @@
+{
+ "i": 2139,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شوص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 227,
+  "page_to": 228
+ },
+ "ar": "الشين والواو والصاد أصلٌ يدل على زعزعةِ شئٍ ودَلْكه من ذلك الشَّوْص، وهو التسوُّك بالسِّواك. و\nفى الحديث: «أنَّه كان يَشُوص فاه بالسِّواك». وقال امرؤ القيس:\nبأسوَدَ ملتفِّ الغدائر واردٍ … وذى أُشُرٍ تَشُوصه وتمُوصُ (٥)\nوالشّوْص: الدلْك، وقد يقال فى الثَّوْب أيضاً. ويقال شاص الشئ:\nإذا زعزَعَه. وأما الشَّوْصة فداءٌ يقال إنَّه يتعقَّد فى الأضلاع.",
+ "az": "[شوص] (şus) — شين (şin), vav və صاد (sad) bir şeyin sarsılmasına və sürtülməsinə dəlalət edən bir əsasdır. Bunlardan biri də Şİvakla dişləri təmizləmək mənasını verən الشَّوْص (əş-şovs)dur. Hədisdə: «أنَّه كان يَشُوص فاه بالسِّواك» (O, ağzını sivakla təmizləyərdi). İmrülqeys demişdir:\nبأسوَدَ ملتفِّ الغدائر واردٍ … وذى أُشُرٍ تَشُوصه وتمُوصُ (5)\n(Hörükləri dolaşıq, bol sulu qara saçlı, dişlərinin ucları incə olan, onu təmizləyən və təmizləməyən...)\nŞovs – sürtməkdir, bu, paltar haqqında da deyilir. Deyilir ki, şasəş-şey: onu sarsıtdı. Şovşə gəldikdə isə, qabırğalarda əmələ gəldiyi söylənən bir xəstəlikdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.212Z"
+}

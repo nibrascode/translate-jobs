@@ -1,0 +1,17 @@
+{
+ "i": 381,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بحظل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 332,
+  "page_to": 332
+ },
+ "ar": "ومن ذلك (البَحْظَلَة) قالوا: أنْ يَقفِزَ الرَّجُل قَفَزَانَ اليَربوع. فالباء زائدةٌ (٥) قال الخليل: الحاظل الذى يمشى فى شِقِّه. يقال مَرَّ بنا يَحْظَلُ ظالِعاً.",
+ "az": "[بحظل] (Bə-ha-zal-lam) Buradan «البَحْظَلَة» (əl-bəhzələ) gəlir, dedilər ki, kişinin ərəb dovşanı kimi tullanmasıdır. «ب» (bə) hərfi artıqdır. Xəlil dedi: «الحاظل» (əl-hazil) böyrü üstə yeriyəndir. Deyilir ki, «مَرَّ بنا يَحْظَلُ ظالِعاً» (mərrə binə yahzulu zali’ən - o, axsayaraq yanımızdan keçdi).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

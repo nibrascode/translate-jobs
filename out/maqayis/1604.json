@@ -1,0 +1,17 @@
+{
+ "i": 1604,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 449,
+  "page_to": 450
+ },
+ "ar": "الراء والهاء والصاد أصلٌ يدلُّ على ضَغْط وعصر وثَباتٍ.\nفالرَّهْص، فيما رواه الخليل: شِدّة العَصْر. والرَّهَص: أن يُصيب حجرٌ حافراً أو مَنْسِماً فيدوَى باطِنُه. يقال رهَصه الحجر يرهَصُه، من الرَّهْصَة. ودابَّةٌ رهيص: مرهوصة. والرَّواهص من الحجارة: التى ترهَصُ الدوابَّ إذا وطِئَتْها، واحدتها راهصة. قال الأعشى:\nفعَضَّ حَديد الأرْضِ إن كنتَ ساخطاً … بفيك وأحجارَ الكُلابِ الرَّوَاهصا (٢)\nوكان «الأسد الرَّهيص» من فَرْسان العرب (٣). والمَرْهَص: موضع الرَّهْصة. وقال:\n* على جبالٍ ترهَص المَرَاهصا (٤) *\nوالرَّهْص: أَسفلُ عِرْقٍ فى الحائط. ويَرْهَص (٥) الحائط بما يقيمه.\nوالمَرَاهص: المراتب، يقال مَرهَصةٌ ومراهِص، كقولك مرتَبة ومراتب.\nويقال: كيف مرهَصَةُ فلانٍ عند الملك، أى منزلتُه. قال:\nرمى بِكَ فى أُخراهُم تَركُكَ العُلَى … وفُضِّلَ أقوامٌ عليك مَرَاهِصا (١)",
+ "az": "[رهص] «الراء» (ra), «هاء» (hə) və «صاد» (sad) sıxışdırmağa, sıxmağa və sabitliyə dəlalət edən əsasdır.\nالرَّهْص (ərrəhs), Xəlilin rəvayət etdiyinə görə: şiddətli sıxmadır. Və الرَّهَص (ərrəhəs) — daşın dəvənin dırnağına dəyib onun daxilini zədələməsi. Deyilir: رَهَصه الحجر يرهَصُه (rəhəbuhul-hacəru yərhəsuh) — rəhsə səbəbi ilə. Və دابَّةٌ رهيص (dabbətun rəhis) — zədələnmiş minik heyvanı. Və الرَّواهص (ərrəvəhis) — daşlar arasından heyvanları ayaqladıqda yaralayan daşlar, təkli راهصة (rahisə) dır. Əşə a demişdir:\nفعَضَّ حَديد الأرْضِ إن كنتَ ساخطاً … بفيك وأحجارَ الكُلابِ الرَّوَاهصا (٢)\n(Əgər qəzəblüsənsə, yerin dəmirini ağzınla dişlə və Kulabın zədələyici daşlarını...)\nVə «Əsəd ər-Rəhis» ərəb sərkərdələrindən idi (٣). Və المَرْهَص (əl-marhəs) — zədələnmə yeri. Və demişdir:\n* على جبالٍ ترهَص المَرَاهصا (٤) *\n(Mərahisi zədələyən dağlar üzərində...)\nVə الرَّهْص (ərrəhs) — divarın altındakı kök (bünövrə). Və يَرْهَص (yərhəsu) — divarı qaldırdığı şeylərlə bərkidər.\nVə المَرَاهص (əl-marəhis) — dərəcələr, mərtəbələr. Deyilir: مَرهَصةٌ (marhəsətün) və مراهِص (marəhis), eynilə مرتَبة (murtəbətün) və مراتب (mراتب) dediyin kimi.\nDeyilir: كيف مرهَصَةُ فلانٍ عند الملك (keysə marhəsatü fülənin indəl-məlik) — yəni onun padşah yanında mərtəbəsi necədir. O demişdir:\nرمى بِكَ فى أُخراهُم تَركُكَ العُلَى … وفُضِّلَ أقوامٌ عليك مَرَاهِصا (١)\n(Ucalığı tərk etməyin səni onların ən arxasına atdı və səndən üstün tutuldu mərtəbələrdə digər qövmlər...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

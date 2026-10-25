@@ -1,0 +1,17 @@
+{
+ "i": 598,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 428,
+  "page_to": 429
+ },
+ "ar": "الجيم والحاء واللام يدلُّ على عِظَم الشَّئ. فالجَحْل السِّقاءِ العظيم. والْجَيحَل: الصَّخْرة العظيمة. والجَحْل: اليعسوب العظيم. والجَحْلُ:\nالحِرْباء. قال ذو الرّمة:\nفلما تَقَضَّتْ حاجةٌ مِنْ تحمُّل … وأَظْهَرْنَ واقْلَوْلَى على عُودِه الْجَحْلُ (١)\nوأمَّا قولُهُم جَحَّلت الرَّجلَ صرعْتُه فهو من هذا؛ لأنَّ المصروع لا بد أن يتحوّز ويتجمَّع. قال الكميت:\nومالَ أبو الشَّعثاء أشعَثَ دامياً … وأنَّ أبا جَحْلٍ قتيلٌ مُجَحَّلُ (٢)\nومما شذَّ عن الباب الْجُحَال، وهو السمُّ القاتل. قال:\n* جرَّعَهُ الذَّيْفَانَ والْجُحالَا (٣) *",
+ "az": "[جحل] (Cim, ha və lam hərfləri şeyin böyüklüyünə dəlalət edir. الْجَحْل – böyük su tuluğudur. الْجَيحَل – böyük qayadır. الْجَحْل – böyük eşşəkçənədir (və ya şirçənə). الْجَحْل – buqələmundur. Züru-Rümfə demişdir:\nفلما تَقَضَّتْ حاجةٌ مِنْ تحمُّل … وأَظْهَرْنَ واقْلَوْلَى على عُودِه الْجَحْلُ (١)\n(Köçmə ehtiyacı başa çatıb onlar bunu aşkar edəndə və buqələmun onun budağının üzərinə çıxanda...)\nOnların جَحَّلت الرَّجلَ (Mən kişini yıxdım) demələrinə gəldikdə, bu da bu mənadandır; çünki yıxılan adam mütləq büzüşür və yığılır. Kümeyt demişdir:\nومالَ أبو الشَّعثاء أشعَثَ دامياً … وأنَّ أaba جَحْلٍ قتيلٌ مُجَحَّلُ (٢)\n(Əbu əş-Şə'sa qanlı halda səpələnərək yıxıldı... Və Əbu Cəhl qətlə yetirilmiş, bağlanmış bir ölüdür.)\nVə bu fəsildən kənara çıxan الْجَحَال sözüdür ki, o da öldürücü zəhərdir. Şair demişdir:\n* جرَّعَهُ الذَّيْفَانَ والْجُحالَا (٣) *\n(Ona ölümcül zəhəri və cuhalı içirtdi.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:44.168Z"
+}

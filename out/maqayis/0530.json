@@ -1,0 +1,17 @@
+{
+ "i": 530,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثقب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 382,
+  "page_to": 382
+ },
+ "ar": "الثاء والقاف والباء كلمةٌ واحدة، وهو أن ينفُذَ الشئ. يقال ثقَبْتُ الشئَ أثقُبُه ثَقْباً. والثَّاقب فى قوله تعالى: ﴿اَلنَّجْمُ اَلثّاقِبُ﴾. قالوا: هو نجم ينفُذ السَّماواتِ كلِّها نورُه (٤). ويقال ثَقَبْت النار إذا ذَكَّيْتَها، وذلك الشئ ثُقْبَةٌ وذُكْوَة. وإنما قيل ذلك لأنّ ضوءها ينفُذ.",
+ "az": "[ثقب] (Sə, qaf və ba) bir şeyin dəlməsi (keçib getməsi) demək olan tək bir kəlmədir. Deyilir: ثقَبْتُ الشىء أثقُبُه ثَقْباً (mən şeyin deşiyini açdım, onu dəlirəm, dəşməklə). Və Allahın bu kəlamındakı الثَّاقب (əssaqib): ﴿اَلنَّجْمُ اَلثّاقِبُ﴾ (mənaca tərcümə: «Şiddətlə parıldayan ulduz»). Deyiblər ki, o, nuru bütün göyləri dəlib keçən bir ulduzdur (٤). Deyilir: ثَقَبْت النار (od yandırdın) – onu alovlandırdığın zaman. Və həmin şey ثُقْبَةٌ (süqbə) və ذُكْوَة (alov) adlanır. Bu ona görə deyilmişdir ki, onun işığı hər tərəfi dəlib keçir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.492Z"
+}

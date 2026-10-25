@@ -1,0 +1,17 @@
+{
+ "i": 795,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جخدب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 513,
+  "page_to": 513
+ },
+ "ar": "(الجُخْدَب): دُوَيْبَّة، ويقال له جُخَادِبٌ، والجمع جَخَادِبُ.\nو",
+ "az": "[جخدب] (الجُخْدَب): kiçik bir həşərat, ona (جُخَادِبٌ) da deyilir, cəmi (جَخَادِبُ) şəklindədir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:52:48.508Z"
+}

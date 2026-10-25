@@ -1,0 +1,17 @@
+{
+ "i": 1653,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ربذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 476,
+  "page_to": 476
+ },
+ "ar": "الراء والباء والذال أصلٌ يدلُّ على خِفّةٍ فى شئِ. من ذلك الرَّبَذُ، وهو خِفَّة القَوائم. والخفيفُ القوائِمِ رَبِذٌ. ومن الباب الرِّبْذَة، وهى صوفةٌ يُهْنَأ بها البعير. ويقال إنّ خِرقة الحائض تسمَّى رِبْذَة. وقال بعضُهم:\nالرِّبْذة الخِرقة التى يَجلُو بها الصائغ الحَلْى. فأمَّا الرَّبْذُ فالعُهون التى تعلَّق فى أعناق الإبل، الواحدة رَبَذَة. والقياس فى كُلّه واحد. وهو يرجع إلى ما ذكرناه من الحِفَّة.\nومما يقرُب من هذا قولُهم: إنّ فلاناً لَذُو رَبِذَاتٍ، أى هو كثير السَّقَط فى الكلام. ولا يكونُ ذلك إلا مِنْ خفَّةٍ وقلَّة تثبُّت.",
+ "az": "[ربذ] «الراء» (ra), «الباء» (ba) və «الذال» (zal) — bir əsas olub, bir şeydə yüngüllüğə dəlalət edir. Bunlardan biri «الرَّبَذُ» (rəbəz) olub, ayaqların yüngüllüyü deməkdir. Ayaqları yüngül olan şəxsə «رَبِذٌ» (rəbiz) deyilir. Bu fəsildəndir: «الرِّبْذَةُ» (ribzə) — dəvənin yağlandığı (və ya qətranlandığı) yun parçası. Deyirlər ki, heyiz görən qadının cır-cındırına da «رِبْzَة» deyilir. Bəziləri demişlər: «الرِّبْذة» — zərgərin zinət əşyasını cilaladığı parçadır. «الرَّبْذُ» (rəbz) isə dəvələrin boyunlarına asılan qayışlardır, təkli «رَبَzَة» (rəbəzə) olur. Bütün bunlarda qiyas eynidir. Bu da yuxarıda qeyd etdiyimiz yüngüllük mənasından qayıdır. Buna yaxın olan sözlərdən biri də onların «إنّ فلاناً لَذُو رَبِذَاتٍ» (filankəs həqiqətən də rəbizat sahibidir) deməsidir, yəni danışıqda sürçməsi çoxdur. Bu da ancaq yüngüllükdən və möhkəm dayanmamaqdan başqa bir şeydən ola bilməz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:15.101Z"
+}

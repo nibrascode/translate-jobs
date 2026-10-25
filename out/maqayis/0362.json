@@ -1,0 +1,17 @@
+{
+ "i": 362,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بيغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 327,
+  "page_to": 327
+ },
+ "ar": "الباء والياء والغين ليس بأصلٍ. والذى جاء فيه تَبَيُّغُ الدَّمِ، وهو هَيْجه. قالوا: أصله تبغَّى، فقدّمت الياء وأخرت الغين، كقولك جذب وجبذ، وما أطْيَبَه وأيْطَبَهُ.",
+ "az": "«بيغ» (beyğ): باء، ya və ğayn hərfləri əsas kök deyil. Onda gələn tək şey «تَبَيُّغُ الدَّمِ» (təbeyyüğud-dəm) sözüdür, o da qanın coşmasıdır. Alimlər demişlər: Onun əsli «تبغَّى» (təbəğğə) olmuşdur, lakin ya hərfi əvvəla, ğayn hərfi isə sona keçirilmişdir, necə ki «جَذَبَ» (cəzəbə) və «جَبَذَ» (cəbəzə) sözlərində, həmçinin «مَا أَطْيَبَهُ» (ma ətyəbəhu) və «أَيْطَبَهُ» (əytəbəhu) sözlərində olduğu kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.171Z"
+}

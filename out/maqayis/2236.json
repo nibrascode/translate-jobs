@@ -1,0 +1,17 @@
+{
+ "i": 2236,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شسع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 271,
+  "page_to": 271
+ },
+ "ar": "الشين والسين والعين يدلُّ على أمرين: الأوَّل قلّةٌ والآخَر بُعد.\nفالأوّل: قولُ العرب: له شسْعٌ من المال، أى قليل. ولعل شِسْعَ النَّعل من ذلك، لقلَّته. يقال شَسَّعْتُ النّعلَ.\nوالآخَر: الشاسع: البعيد. وقد شَسَعت الدّارُ. وذكر ابن دريد كلمةً إن صحَّتْ فهو من القياس. قال: يقال شَسِع [الفرس (٣)]، إذا كان بين ثناياه انفراج.",
+ "az": "[شسع] (şin, sin və eyn) iki mənanı ehtiva edir: biri azlıq, digəri uzaqlıq. Birincisi: Ərəblərin له شسْعٌ من المال (ləhə şis`ün minəl-mal) - onun az malı var dedikləri sözdür. Ehtimal ki, ayaqqabının qayışı (شِسْعُ النَّعل) azlığına görə belə adlandırılmışdır. شَسَّعْتُ النَّعلَ (şəssə’tün-nə`lə) deyilir. Digəri isə: الشاسع (eş-şasic) - uzaq deməkdir. Və دار شَسَعت (darun şəsə`at - ev uzaqlaşdı). İbn Dürid əgər düzgündürsə, qiyasdan olan bir kəlmə qeyd etmişdir. O demişdir: شَسِع [الفرس (٣)] (şəsic [əl-fərs]) - atın azı dişləri arasında aralıq olduqda deyilir.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.450Z"
+}

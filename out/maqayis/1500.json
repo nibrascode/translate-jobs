@@ -1,0 +1,17 @@
+{
+ "i": 1500,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رطل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "الراء والطاء واللام كالذى قبله، إلاّ أنَّهم يقولون للشئ يُكال به رِطْلٌ. ويقولون: غُلامٌ رِطلٌ: شابٌّ. ورطَّلَ شَعْرَه: كَسَّره وثَنَّاه.\nوليس [هذا] وما أَشبهه من مَحْض اللغة.",
+ "az": "[رطل] (ر ط ل). Özündən əvvəlki kəlmə kimidir, lakin onlar üzərində nəsə çəkilən şeyə رِطْلٌ (ritlun - ratl) deyirlər. Deyirlər: غُلَامٌ رِطْلٌ (ğulamun ritlun) – gənc, cavan. رَطَّلَ شَعْرَهُ (rattalə şəərah) – saçını qıvırdı və qatladı. Bu və buna bənzər sözlər xalis lüğətdən deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

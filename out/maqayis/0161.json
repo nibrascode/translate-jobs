@@ -1,0 +1,17 @@
+{
+ "i": 161,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أيك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 165,
+  "page_to": 165
+ },
+ "ar": "الهمزة والياء والكاف أصلٌ واحد، وهى اجتماعُ شجر قال الخليل: الأيكة غَيضةٌ تُنْبِتُ (٢) السِّدرَ والأراك. ويقال [أيكةٌ (٣)] أَيِّكَةٌ، وتكون من ناعم الشّجر. وقال أَصحاب التفسير: كانوا أصحابَ شجرٍ ملْتَفّ.\nيعنى قوله تعالى: ﴿كَذَّبَ أَصْحابُ اَلْأَيْكَةِ﴾ قال أبو زياد: الأيْكة جماعة الأَرَاك. قال الأخطل (٤) من النَّخيل (٥) فى قوله:\nيكادُ يَحَارُ المجتَنِى وَسْطَ أَيْكِهَا … إذا ما تنادَى بالعَشِىِّ هديلُها",
+ "az": "[أيك] (ə-y-ك): Həmzə, ya və kaf tək bir əslidir və bu, ağacların birləşməsi (sıxlığı) deməkdir. Xəlil demişdir: «الأيكة» (əl-əykə) – sidr və ərak ağacları bitən sıx meşəlikdir. [أيكةٌ (٣)] «أَيِّكَةٌ» də deyilir və o, yumşaq ağaclardan olur. Təfsir alimləri demişlər ki: Onlar sıx ağacları olan kəsimin adamları idilər. Uca Allahın bu sözünü qəsd edir: ﴿كَذَّبَ أَصْحابُ اَلْأَيْكَةِ﴾ (mənaca tərcümə: Əykə əhli də [elçiləri] təkzib etdilər). Əbu Ziyad demişdir: «الأيْكة» (əl-əykə) – ərak ağacları qrupudur. Əxhtal (٤) xurma ağaclarından (٥) danışarkən öz şeirində demişdir: Dərib yığan adam az qalır ki, onun ağacları arasında çaşqınlığa düşsün, axşam çağı onun qumruquşlarının naləsi bir-birinə qarışdıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:25:17.134Z"
+}

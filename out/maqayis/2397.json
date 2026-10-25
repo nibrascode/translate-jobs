@@ -1,0 +1,17 @@
+{
+ "i": 2397,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 365,
+  "page_to": 366
+ },
+ "ar": "الضاد والفاء والنون أصلٌ صحيح يدلُّ على رمْى الشَّئ يخفاء. والأصل فيه ضَفَنت بالرّجُل الأرضَ، إذا رميتَه وضربتَ الأرض به:\nومنه ضَفَن البعيرُ برِجْله: خبط بها. وضَفَن بغائِطِه: رمى به. وضَفَن الحِمْلَ على ناقته: حَملَه عليها. وضفَنَه برِجْله: ضربه. والقياس فى ذلك كلِّه واحد.\nومن الباب: ضَفَنَ إِلى القوم، إذا لجَأ إليهم فجلس عندهم. وهذا عندى مما ينبغى أن يزاد فيه وصْف، فيقال: «وهم لا يريدونه»، كأنه رمى بنَفسه عليهم.\nوالدَّليل على هذا قولهم للطفيلىّ الذى يجئ مع الضِّيف: ضَيْفن. وهذا فَيْعَل من\nضفن. وقد سمعت ولم أسمعه من عالم، أنّ الذى يجئ مع الضَّيفن الضَّيْفنَانُ (١)، ولا أدرى كيف صحّتُه. والقياس يجيزه. قال فى الضَّيفَن:\nإذا جاء ضيفٌ جاء للضَّيف ضيفنٌ … فأودى بما يُقرَى الضُّيوفُ الضَّيافنُ (٢)\nومن الباب الضِّفَنّ، وهو الأحمق مع عِظَم خَلْق.",
+ "az": "[ضفن] «الضاد» (زاد), «الفاء» (fa) və «النون» (nun) hərfləri gizlicə bir şey tullamağa dəlalət edən səhih bir əslidir. Bunun əsli «ضَفَنت بالرّجُل الأرضَ» (kişini yerə çırpdın) sözüdür, yəni onu tulladın və yeri onunla vurdun deməkdir.\nBuradan «ضَفَن البعيرُ برِجْله» (dəvə ayağı ilə vurdu) — ayağı ilə yerə çırpdı, deməkdir. «ضَفَن بغائِطِه» (ifrazatı ilə atdı) — nəcisini tulladı. «ضَفَن الحِمْلَ على ناقته» (yükü dəvəsinin üstünə yüklədi) — onu üzərinə qoydu. «ضَفَنَه برِجْله» (onu ayağı ilə vurdu) — ona zərbə endirdi. Bütün bunlarda ölçü eynidir.\nBu qapıdandır: «ضَفَنَ إِلى القوم» (qövmə tərəf sığındı) — onlara pənah gətirib yanında oturduğu zaman. Məncə, bu, təsvirin artırılması lazım olan şeylərdəndir, ona görə də: «Onlar onu istəmirlər» denilir, sanki o, özünü onların üzərinə tullamışdır.\nBunun dəlili onların qonaqlıq adamı ilə gələn tüfeyliyə «ضَيْفن» (zəyfən) deməsidir. Bu, «ضَفَن» (zəfən) sözündən «فَيْعَل» (fey'əl) çəkisidir. Mən eşitmişəm — alimdən eşitməmişəm — ki, zəyfənlə birlikdə gələn adama «الضَّيْفَنَانُ» (əz-zəyfənan) deyilir, lakin bunun nə dərəcədə doğru olduğunu bilmirəm. Ölçü buna icazə verir. Zəyfən haqqında demişdir:\nإذا جاء ضيفٌ جاء للضَّيف ضيفنٌ … فأودى بما يُقرَى الضُّيوفُ الضَّيافنُ (٢)\n(Qonaq gəldiyi zaman qonaq üçün bir zəyfən də gələr... və zəyfənlər qonaqlara verilən yeməyi yeyib bitirərlər).\nBu qapıdandır: «الضِّفَنّ» (əz-zifənn) — iri bədənli axmaq deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.497Z"
+}

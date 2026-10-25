@@ -1,0 +1,17 @@
+{
+ "i": 515,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثطأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 376,
+  "page_to": 376
+ },
+ "ar": "الثاء والطاء والهمزة كلمةٌ لا معوَّل عليها. يقال ثَطَأْتُه وطِئْتُه.",
+ "az": "[ثطأ] الثاء والطاء والهمزة كلمةٌ لا معوَّل عليها (Thə, ta və həmzə üzərində dayanılmayan bir kəlmədir). Deyilir: ثَطَأْتُه وطِئْتُه (Sətaətuhu və tiətuhu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.075Z"
+}

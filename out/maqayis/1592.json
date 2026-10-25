@@ -1,0 +1,17 @@
+{
+ "i": 1592,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 445,
+  "page_to": 445
+ },
+ "ar": "الراء والنون والفاء أُصَيلٌ واحدٌ يدلُّ على ناحيةٍ من شئٍ.\nفالرَّانِفة: ناحية الألْية. وقال الخليل: الرَّانفة جُلَيدةُ طرَفِ الرَّوْثة. وهى أيضا طرَفُ غُضروف الأذُن. والرانفة: ألْيَة اليَد (١). وقال أبو حاتم: رانفة الكَبد:\nما رقَّ منها. وذُكر عن اللِّحيانى أنّ روانفَ الآكام رُءوسها. فأما الرَّنْفُ فيقال هو بَهْرامَج البَرّ. وليس بشئ.",
+ "az": "[رنف] (rənəf) - راء، نون və fa hərfləri bir şeyin tərəfinə, yanına dəlalət edən vahid kiçik bir əsldir. «الرَّانِفة» (əl-ranifə) - opsun (çanağın) yanı. Xəlil demişdir: «الرانفة» (əl-ranifə) - burnun ucunun dərisidir. O həmçinin qulaq qırırdağının ucudur. Və «الرانفة» (əl-ranifə) - əlin ətli hissəsidir (1). Əbu Hatim demişdir: «رانفة الكَبد» (ranifətü əl-kəbidi) - qaraciyərin incə olan hissəsidir. Lihyanidən nəql olunub ki, təpələrin «روانف» (ravanif) dedikdə zirvələri nəzərdə tutulur. «الرَّنْفُ» (əl-rənf) gəldikdə isə, deyilir ki, o, çöl bəhrəməcidir. Lakin bu, əhəmiyyətli bir şey deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1267,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دقس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 289,
+  "page_to": 289
+ },
+ "ar": "الدال والقاف والسين قريب (٢)، إلا أنَّهم يقولون: الدُّفْسَة:\nدوَيْبَّة. ويقولون: دَنْقَسَ الرجُلُ دَنْقسةً، وربَّما قالوا بالشين، إذا نظَر بمُؤْخِرِ عينَيه، وليس هذا من أصيلِ كلام العرب. وكذلك الدال والقاف والشين.\nوذكروا أنّ أبا الدُّقَيش (٣) سُئِل عن معنى كُنْيته فقال: لا أدرى، هى أسماءٌ نسمعها فنتسمَّى بها. وما أقرَبَ هذا الكلامَ من الصِّدْق. وذكر السَّجِستانىّ أنَّ الدُّقْشَة دُوَيْبَّة رَقْطاء، وأنَّ الدَّقْش النَّقْش. وكل ذلك تعلُّلٌ، وليس بشئُ.",
+ "az": "«دقس» (د-ق-س): dal, qaf və sin yaxın bir kəlmədir, lakin onlar «الدُّفْسَة» (əddüfsə) – kiçik bir böcəkdir deyirlər. Kişi gözünün qırağı ilə baxdıqda «دَنْقَسَ الرجُلُ دَنْقسةً» (dənqəsə) deyirlər, bəzən şin hərfi ilə də deyirlər, lakin bu, ərəb dilinin əsil kəlmələrindən deyil. Eynilə dal, qaf və şin də belədir.\nQeyd etmişlər ki, Əbu əd-Duqeysə ləqəbinin mənası soruşuldukda demişdir: Bilmirəm, bunlar eşitdiyimiz və özümüzə ad qoyduğumuz adlardır. Bu söz həqiqətə nə qədər də yaxındır! Səcistani qeyd etmişdir ki, «الدُّقْشَة» (əddüqşə) – xallı kiçik bir böcəkdir, «الدَّقْش» (əddəqş) isə naxışdır. Bütün bunlar bəhanələrdir və heç bir əsası yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.300Z"
+}

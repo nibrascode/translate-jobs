@@ -1,0 +1,17 @@
+{
+ "i": 490,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 364,
+  "page_to": 364
+ },
+ "ar": "و (اَلتُّرْنوق) الطِّين يَبْقَى فى سبيل الماء إذا نضب، والتاء والواو زائدتان وهو من الرَّنْقِ.\nوباقى ذلك، وهو قليلٌ، موضوعٌ وضعاً.",
+ "az": "[رنق] (r-n-q): Və (التُّرْنُوقُ – ət-turnuq) – su çəkildikdə suyun axın yolunda qalan paltardır/lildir. Ta və vaf hərfləri artırılmışdır, bu isə rənq (رَنق) sözündəndir. Bunun qalan hissəsi isə azdır və süni şəkildə qoyulmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

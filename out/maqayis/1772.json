@@ -1,0 +1,17 @@
+{
+ "i": 1772,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 25,
+  "page_to": 26
+ },
+ "ar": "الزاء والميم واللام أصلان: أحدهما يدلُّ على حَمل ثِقْل من الأثقال، والآخر صوتٌ.\nفالأول الزَّامِلة، وهو بعيرٌ يَستظهِرُ به الرّجل، يحملُ عليه متاعَه. يقال ازدمَلْت (٢) الشّئَ، إذا حملتَه. ويقال عِيالاتٌ أَزْمَلَةٌ، أى كثيرة. وهذا من الباب، كأنَّهُم كَلُّ أحمالٍ، لا يضطلعون ولا يطيقون أنفسَهم.\nومن الباب الزُّمَّيل، وهو الرجُل الضّعيف، الذى إذا حَزَبه أمرٌ تَزَمَّلَ، أى ضاعَفَ عليه الثّياب حتَّى يصير كأنّه حِمْل. قال أُحيحة:\nلا وأبيك ما يُغنِى غَنائِى … من الفِتيان زُمَّيل كَسُولُ (١)\nوالمُزَامَلة: المعادلة (٢) على البعير\nفأمّا الأصل الآخَر فالأزْمَلُ، وهو الصّوت فى قول الشاعر:\nلها بعد قِرَّاتِ العَشِيّاتِ أزْمَلُ\nومما شذّ عن هذين الأصلين الإِزْمِيل: الشَّفْرَة (٣). ومنه: أخذت الشئَ بأزْمَلِه.\nباب الزاءِ والنون والحرف المعتل",
+ "az": "[زمل] (zəməl): ز (zay), م (mim) və ل (lam) iki əsas mənadır: biri ağırlıqlardan bir yük daşımağı ifadə edir, digəri isə səsdir.\nBirincisi — الزَّامِلَة (əz-zamilə) olub, kişinin yükünü daşımaq üçün arxalandığı dəvədir. Deyilir: ازدمَلْت الشّئَ (izdəmltüş-şəyə) — şeyi daşıdın. Deyilir: عِيالاتٌ أَزْمَلَةٌ (iyalətün əzmələtün), yəni çoxlu ailələr. Bu da həmin babdandır, elə bil onlar öz yükünü daşıya bilməyən və özlərinə gücü çatmayan ağır yüklərdir.\nBu babdandır الزُّمَّيل (əz-züməyl), o zəif kişidir ki, başına bir iş gəldikdə təzəmmül edər, yəni bir yükə çevrilənə qədər paltarları üst-üstə qatlayar. Ühehyə demişdir:\nلا وأبيك ما يُغنِى غَنائِى … من الفِتيان زُمَّيل كَسُولُ (١) (Lə və əbikə mə yuğni ğanai… minəl-fityani züməylün kəsulu)\nVə المُزَامَلة (əl-müzamilə): dəvə üzərində yükləri bərabərləşdirmək (٢).\nDigər əsas mənaya gəldikdə isə, o, şairin sözündəki səsi bildirən الأَزْمَل (əl-əzməl)-dir:\nلها بعد قِرَّاتِ العَشِيّاتِ أزْمَلُ (Ləha bədə qirratil-əşiyyati əzməlün)\nBu iki əsasdan kənara çıxan (şaz) söz isə İZmil — kəsici alətdir (٣). Və buradan: أخذت الشئ بأزْمَلِه (əhəztüş-şəyə bi-əzməlihi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:18.053Z"
+}

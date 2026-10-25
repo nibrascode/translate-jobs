@@ -1,0 +1,17 @@
+{
+ "i": 2596,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "عف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 3,
+  "page_to": 3
+ },
+ "ar": "العين والفاء أصلان صحيحان: أحدُهما الكفُّ عن القبيح، والآخر دالٌّ على قلّة شئ.\nفالأول: العِفّة: الكفُّ عمّا لا ينبغى. ورجل عفٌّ وعفيف. وقد عَفَّ يَعِفُّ [عِفّةً] وعَفَافة وعَفَافًا.\nوالأصل الثانى: العُفَّة: بقيّة اللّبن فى الضَّرع. * وهى أيضاً العُفافة.\nقال الأعشى:\nلا تَجَافَى عنه النَّهارَ ولا تَعْ … جُوهُ إلاَّ عُفافٌ أو فُوَاقُ (١)\nويقال: تَعافَّ ناقَتك، أى احلُبْها بعد الحلْبة الأولى ودعْ فصيلَها يتعفّفها، كأنَّما يَرتضع تلك البقيَّة. وعفّفت فلاناً (٢): سقيتُه العفافة. فأمّا قولهم: جاء على عِفَّانِ ذاك، أى إبّانه، فهو من الإبدال. والأصل إفّان، وقد مرّ.",
+ "az": "[عف] العين (eyn) və الفاء (fa) iki doğru kökdür: biri pis işlərdən çəkinmək, digəri isə bir şeyin azlığına dəlalət edir. Birincisi: العِفّة (əl-iffə) - yaraşmayan şeylərdən çəkinmək. Kişi عفّ (əff) və عفيف (əfif) olur. O, عَفَّ يَعِفُّ [عِفّةً] (əffə yəiffu iffətən), عَفَافة (əfafə) və عَفَافًا (əfafən) etdi. İkinci əsl: العُفَّة (əl-uffə) - döşdə qalan südün qalığıdır. * Bu həm də العُفافة (əl-ufafə) adlanır. Əşa demişdir: Gündüz ondan uzaqlaşma və ona yalnız süd qalığı (عُفافٌ) və ya bir sağım (فُوَاقُ) ilə gəl (١). Deyilir ki, تَعافَّ ناقَتك (tə'affə naqətək), yəni onu birinci sağımdan sonra sağ və balasının o qalığı əmməsinə icazə ver, sanki o, həmin qalığı əmir. Mən filankəsi عفّفت (əffəftu) etdim (٢): ona süd qalığını içirdim. Onların جاء على عِفَّانِ ذاك (cəə əla iffani zak) demələrinə gəlincə, yəni onun vaxtında (ibban), bu, əvəzetmədəndir. Əsli إفّان (iffan) sözüdür, bu artıq keçib.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:15:48.931Z"
+}

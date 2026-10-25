@@ -1,0 +1,17 @@
+{
+ "i": 549,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 392,
+  "page_to": 392
+ },
+ "ar": "الثاء والهاء واللام كلمةٌ واحدة وهو جبَل يقال له ثهْلَان، وهو مشهور. وقد قالوا - وما أحسبه صحيحاً - إنّ الثَّهَلَ الانبساطُ على وجه الأرض.",
+ "az": "[ثهل] الثاء (sə), الهاء (hə) və اللام (lam) tək bir kəlmədir, bu «ثهْلَان» (Səhlan) deyilən məşhur bir dağdır. Dedilər ki - mən bunun düzgün olduğunu düşünmürəm - «الثَّهَلُ» (əs-səhəl) yer üzündə yayılmaqdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:42:17.837Z"
+}

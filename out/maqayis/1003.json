@@ -1,0 +1,17 @@
+{
+ "i": 1003,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حتم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 134,
+  "page_to": 135
+ },
+ "ar": "الحاء والتاء والميم، ليس عندى أصلاً، وأكثر ظنِّى أنه أيضاً من باب إبدال التاء من الكاف، إلاّ أنّ الذى فيه من إحكام الشئ.\nيقال: حتم عليه، وأصله على ما ذكرناه حَكَم، وقد مضى تفسيره.\nوالحاتم: الذى يقضى الشَّئ. فأمّا تسميتُهم الغُرَابَ حاتِماً فمن هذا، لأنّهم يزعمون أنه يَحتِم بالفراق. وهو كالحُكْم منه. قال:\nولقد غَدَوْتُ وكنتُ لا … أغْدُو على وَاقٍ وحاتِمْ (١)\nوفى الباب كلمةٌ أخرى ويقرب أيضاً من باب الإبدال. ويقولون الحُتَامة:\nحابقى من الطَّعام على المائدة - وهذا عندى من باب الطاء - لأنّه شئ يتحَتَّم (٢) أى يتفتَّت ويتكسَّر. وقد مرَّ تفسيرُه.",
+ "az": "«حتم» (h-t-m): Ha, ta və mim hərfləri mənim yanımda kök deyil, zənnimin çoxuna görə bu da ta hərfinin kaf hərfə əvəz olunması qapısındandır, lakin onda bir şeyin möhkəmləndirilməsi mənası var. Deyilir: «حتم عليه» (hətəmə əleyhi), onun əsli zikr etdiyimiz kimi «حَكَم» (həkəm) sözündəndir və izahı artıq keçmişdir. «الحَاتِم» (əl-hatim) — bir şeyi hökm edən kəsdir. Qarğaya «حاتم» adını vermələrinə gəldikdə, bu, bundandır, çünki onlar hesab edirlər ki, o, ayrılıqla hökm edir. Bu, ondan olan hökm kimidir. [Şair] demişdir: «ولقد غَدَوْتُ وكنتُ لا … * أغْدُو على وَاقٍ وحاتِمْ» (Həqiqətən mən səhər tezdən gedirdim, halbuki mən... qoruyucu və hatim üzərinə səhər tezdən getməzdim) [1]. Bu qapıda başqa bir kəlmə də var və o da əvəzetmə qapısına yaxındır. Deyirlər ki, «الحُتَامة» (əl-hutamə) — süfrə üzərindəki yemək qırıntılarıdır — və bu mənim yanımda ta hərfi qapısındandır — çünki o, «يتحَتَّم» (yətəhəttəmu) olan bir şeydir, yəni ufalanır və qırılır. Onun izahı artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.109Z"
+}

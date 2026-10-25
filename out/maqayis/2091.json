@@ -1,0 +1,17 @@
+{
+ "i": 2091,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شقن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 202,
+  "page_to": 202
+ },
+ "ar": "الشين والقاف والنون. يقولون إِنَّ الشِقَّنْ (١): القليل من العطاء؛ تقول: شَقَنْتُ العَطِيَّة (٢)، إِذا قلّلتَها.",
+ "az": "[شقن] (şəqən) — Şin, qaf və nun. Deyirlər ki, «الشِقَّنْ» (əş-şiqqən) — az bəxşişdir (vergi); deyirsən: «شَقَنْتُ العَطِيَّة» (şəqəntül-atiyyə) — bəxşişi azaltdığın zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:46.482Z"
+}

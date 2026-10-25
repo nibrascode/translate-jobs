@@ -1,0 +1,17 @@
+{
+ "i": 779,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعبر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "ومن ذلك قولهم للقصير (جَعْبَر)، وامرَأَةٌ جَعْبَرة: قصيرة. قال:\nلا جَعْبَرِيَّاتٍ ولا طَهَامِلَا (٢) *\nفيكون من الذى قبله، ويكون الراء زائدة.",
+ "az": "«جعبر» - Və buraya qısa boylu adama «جَعْبَر» (cə'bər), qısa qadına isə «جَعْبَرة» (cə'bərə) deyilməsi daxildir. Şair demişdir:\nلا جَعْبَرِيَّاتٍ ولا طَهَامِلَا (٢)\n(Nə cə'bəriyyət qadınlar, nə də tahamiil...)\nBu da əvvəlki sözdəndir və ra hərfi artıqdır (zayiddir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 436,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تره",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 346,
+  "page_to": 346
+ },
+ "ar": "التاء والراء والهاءُ كلمة ليست بأصلٍ متفرَّعٍ منه. قالوا:\nالتُّرَّهاتُ، والتُّرَّهُ الأباطيل من الأمور. قال رُؤبة:\nوحَقَّةٍ ليستْ بقَوْلِ التُّرَّهِ (٣) *\nقالوا: والواحد تُرَّهَة. قال: وجَمعَها أناسٌ على التَّرَارِيهِ. قال:\nرُدُّوا بَنِى الأعْرَجِ إِبْلى مِنْ كَثَبْ … قَبْلَ الترارِيهِ وبُعْدِ المُطَّلَبْ (٤)",
+ "az": "[تره] (tə-rə-h). Ta, ra və ha kəlməsi törəmə əsəri olmayan bir sözdür. Dedilər: التُّرَّهات (ət-türrəhat) və التُّرَّهُ (ət-türrəh) — işlərin batil, əsassız tərəfləridir. Rübə demişdir: And olsun o haqqa ki, türrəhin sözü deyil (3). Dedilər: Tək forması تُرَّهَة (türrətün)dür. Dedilər: Bəzi insanlar onu تَرَارِيهِ (tərarih) formasında cəmləşdirmişlər. [Şair] demişdir: Bəni əl-Ərəcin dəvələrimi yaxından geri qaytarın... Tərarih gəlməmişdən və tələb olunan uzaqlaşmamışdan əvvəl (4).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

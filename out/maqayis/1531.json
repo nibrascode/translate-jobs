@@ -1,0 +1,17 @@
+{
+ "i": 1531,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 419,
+  "page_to": 419
+ },
+ "ar": "الراء والفاء واللام أصلٌ واحدٌ يدلُّ على سَعةٍ ووُفُورٍ. من ذلك رَفَل فى ثيابه يَرْفُل، وذلك إذا طالَتْ عليه فجَرَّها. والرِّفَلُّ: الفَرَس الطويل الذّنَب.",
+ "az": "«رفل» (rəfəl): Ра, fa və lam hərfləri genişliyə və bolluğa dəlalət edən tək bir əsasdır. Bunlardandır: «رَفَلَ فِي ثِيَابِهِ يَرْفُلُ» (rəfələ fi siyābihi yərfulu), bu o zaman olur ki, paltarları ona uzun gəlir və onları sürükləyir. «الرِّفَلُّ» (ərrifəllü) — quyruğu uzun olan at.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.131Z"
+}

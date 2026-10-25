@@ -1,0 +1,17 @@
+{
+ "i": 1336,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ديص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 317,
+  "page_to": 318
+ },
+ "ar": "الدال والياء والصاد أصلٌ واحد يدلّ على رَوَغانٍ وتفَلّت. يقال داصَ يديص دَيْصاً (٢)، إذا راغَ. والاندياص: انسلال الشَّئ\nمن اليَد. ويقال انداصَ علينا فلانٌ بشرِّه، وذلك إذا تفلّتَ علينا؛ وإِنّه لمُنْدَاصٌ بالشّرّ. ويقال الدّيَّاص: السَّمين؛ والدَّيَّاصة: السمينة. فإن كان صحيحاً فلأنه إذا قُبِض عليه اندلَصَ من اليد؛ لكثرة لحمه",
+ "az": "[ديص] \nالدال (dal), الياء (yə) və الصاد (sad) yayınmağa və əldən çıxıb qaçmağa dəlalət edən tək bir əsasdır. Deyilir: داصَ يديص دَيْصاً (qaçdı, qaçır), yayın və qaçıb uzaqlaşdığı zaman. Və الاندياص (əl-indiqas): şeyin əldən sürüşüb çıxması. Həmçinin deyirlər: انداصَ علينا فلانٌ بشرِّه (filankəs öz şəri ilə üstümüzə cumdu / sürüşüb gəldi), bu, bizə qarşı fənd işlədib hücum etdiyi zaman deyilir; və إنّه لمُنْدَاصٌ بالشّرّ (o, şər ilə sürüşüb gələndir). Və deyirlər: الدّيَّاص (ə-diyyas): kök adam; və الدَّيَّاصة (ə-diyyasa): kök qadın. Əgər bu səhihdirsə, bunun səbəbi odur ki, o tutulduğu zaman ətinin çoxluğundan əldən sürüşüb çıxır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:41.110Z"
+}

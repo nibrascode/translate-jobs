@@ -1,0 +1,17 @@
+{
+ "i": 2223,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 265,
+  "page_to": 265
+ },
+ "ar": "الشين والراء والكاف أصلانِ، أحدهما يدلُّ على مقارنَة وخِلَافِ انفراد، والآخر يدلُّ على امتدادٍ واستقامة.\nفالأول الشِّرْكة، وهو أن يكون الشئُ بين اثنين لا ينفردُ به أحدهما. ويقال شاركتُ فلاناً فى الشئ، إذا صِرْتَ شريكه. وأشركْتُ فلاناً، إذا جعلتَه شريكاً لك. قال اللّه جلّ ثناؤُه فى قِصَّة موسى: ﴿وَأَشْرِكْهُ فِي أَمْرِي﴾. ويقال فى الدُّعاء:\nاللهم أشرِكْنا فى دعاء المؤمنين، أى اجعلنا لهم شركاءَ فى ذلك. وشَرِكتُ الرَّجُلَ فى الأمرِ أشْرَكُه.\nوأمّا الأصل الآخر فالشرَك: لَقَم الطّريق، وهو شِرَاكُه أيضاً. وشِرَاك النَّعْل مشبَّه بهذا. ومنه شَرَكُ الصّائدِ، سمِّى بذلك لامتداده.",
+ "az": "«شرك» (şin, ra və kaf) — iki əsli vardır: bunlardan biri ortqlığa və tək qalmağın ziddinə dəlalət edir, diğəri isə uzanışa və düzlüyə dəlalət edir.\nBirincisi — «الشِّرْكة» (şirkət, ortqlıq), yəni bir şeyin ikisi arasında olması, onlardan birinin təkbaşına ona sahib olmamasıdır. Deyilir: «شاركتُ فلاناً فى الشئ» (filankəslə işdə ortaq oldum) — onun ortağı olduğun zaman. Və «أشركْتُ فلاناً» (filankəsi ortaq etdim) — onu özünə ortaq etdiyin zaman. Uca Allah Musa əleyhissəlamın qissəsində belə buyurmuşdur: ﴿وَأَشْرِكْهُ فِي أَمْرِي﴾ (mənaca tərcümə: «Və onu mənim işimə ortaq et» — Taha, 32). Və duada deyilir: «اللهم أشرِقْنا فى دعاء المؤمنين» — yəni bizi onlar üçün orada ortaq et. «شَرِكتُ الرَّجُلَ فى الأمرِ أشْرَكُه» (Mən kişiyə işdə ortaq oldum).\nVə digər əslə gəldikdə — «الشرَك» (şərək) yolun enişli-yoxuşlu yeri, həmçinin onun «شِرَاك» (şirak) adlanan yeridir. Kəpəyin (ayaqqabı bağının) «شِرَاك النَّعْل» (şirak) bağı da buna bənzədilmişdir. Həmçinin ovçunun toru olan «شَرَكُ الصّائدِ» (şərək) — uzandığına görə belə adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:27.489Z"
+}

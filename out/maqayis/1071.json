@@ -1,0 +1,17 @@
+{
+ "i": 1071,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خزل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 177,
+  "page_to": 177
+ },
+ "ar": "الخاء والزاء واللام أصلٌ واحدٌ يدلُّ على الانقطاع والضَّعف. يقال خَزَلْتُ الشئَ: قطعتُه. وانخَزَل فُلانٌ: ضعُف.",
+ "az": "[خزل] (خ, ز, ل): Bir tək əsas olub, kəsilməyə və zəifliyə dəlalət edir. خَزَلْتُ الشئَ (xəzültü əş-şəyə): onu kəsdim - deyilir. وَانْخَزَلَ فُلانٌ (vənxəzələ fülan): filankəs zəiflədi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.278Z"
+}

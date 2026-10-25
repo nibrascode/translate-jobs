@@ -1,0 +1,17 @@
+{
+ "i": 1230,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 275,
+  "page_to": 275
+ },
+ "ar": "الدال والراء والجيم أصلٌ واحد يدلُّ على مُضِىِّ الشّئِ والمُضىِّ فى الشّئ. من ذلك قولُهم دَرَجَ الشّئُ، إذا مَضَى لسبيله. ورجَع فُلانٌ أدراجَه، إذا رجَع فى الطّريق الذى جاء منه. ودَرَجَ الصَّبىُّ، إذا مَشَى مِشْيته.\nقال الأصمعىّ: دَرَجَ الرجُلُ، إذا مَضَى ولم يُخْلِفْ نَسْلاً. ومَدَارج الأكمَة:\nالطُّرق المعترِضة فيها. قال:\nتَعَرّضِى مَدَارِجاً وسُومِى … تعرُّضَ الجَوْزاءِ للنُّجوم (١)\nفأمّا الدُّرج لبعض الأصوِنة والآلات، فإِن كان صحيحاً فهو أصلٌ آخَرٌ يدلُّ على سَترٍ وتَغْطية. من ذلك أدْرَجْتُ الكتابَ، وأدْرَجْتُ الحَبْل. قال:\n* مُحَمْلَجٌ أُدْرِجَ إدْراجَ الطّلَقْ (٢) *\nومن هذا الباب الثانى الدُّرْجة، وهى خِرَقٌ تُجعَل فى حياء النّاقة ثم تُسَلُّ، فإِذا شمّتْها الناقةُ حسِبتْها ولدَها فعطفَتْ عليه. قال:\n* ولم تُجعَلْ لها دُرَجُ الظِّئارِ (٣) *",
+ "az": "[درج] (Dərəc): Dal, ra və cim hərfləri tək bir əsl kök olub, bir şeyin keçib getməsini və bir şeyin içində irəliləməsini bildirir. Bunlardan biri onların دَرَجَ الشّئُ (şey keçib getdi) sözüdür, yəni öz yolu ilə gedib çıxdı. Fəlan adam öz yoluna qayıtdı deməkdir: رجَع فُلانٌ أدراجَه. دَرَجَ الصَّبىُّ (uşaq yerişlə yeridi) — uşaq öz addımları ilə yeridi.\nƏsməi demişdir: دَرَجَ الرجُلُ (kişi vəfat etdi) — kişi nəsli qalmadan dünyadan köçdü. مَدَارج الأكمَة (təpənin yolları): oradakı kəsişən yollar. Şair demişdir:\nتَعَرّضِى مَدَارِجاً وسُومِى … تعرُّضَ الجَوْزاءِ للنُّجوم (١)\n(Yollardan keç və irəli atıl, Covzanın ulduzlara tuş gəlməsi kimi).\nBəzi qutular və alətlər üçün işlədilən الدُّرج (durc - qutu, siyirtmə) sözünə gəlincə, əgər bu səhihdirsə, o zaman bu, örrtməyə və gizlətməyə dəlalət edən başqa bir əsl kökdür. Bunlardan biri أدْرَجْتُ الكتابَ (məktubu bükdüm/qatladım), və أدْرَجْتُ الحَبْل (ipə sarıdım) sözləridir. Şair demişdir:\n* مُحَمْلَجٌ أُدْرِجَ إدْراجَ الطّلَقْ (٢) *\n(Burulmuş ip kimi səliqə ilə bükülmüş).\nBu ikinci fəsildəndir: الدُّرْجة (durcə) — dəvənin bala yerinə qoyulan, sonra dartılıb çıxarılan parçalardır, dəvə onu iylədikdə öz balası zənn edərək ona meyl edər. Şair demişdir:\n* ولم تُجعَلْ لها دُرَجُ الظِّئارِ (٣) *\n(Və onun üçün analıq qutuları/vasitələri edilmədi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:45.024Z"
+}

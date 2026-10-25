@@ -1,0 +1,17 @@
+{
+ "i": 2418,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 374,
+  "page_to": 374
+ },
+ "ar": "الضاد والهاء والراء ليس بشئ، ولا فيه شاهدُ شعرٍ، لكنهم يقولون: إنّ الضَّهْر: خِلْقَةٌ فى الجبل من صخرٍ يخالف جِبِلّته.",
+ "az": "[ضهر] (ض ه ر). الضاد والهاء والراء ليس بشئ، ولا فيه شاهدُ شعرٍ، لكنهم يقولون: إنّ الضَّهْر: خِلْقَةٌ فى الجبل من صخرٍ يخالف جِبِلّته.\n(Zəmin, hə və ra) — heç bir şey deyil və bunda şeir şahidi də yoxdur, lakin deyirlər ki, «الضَّهْر» — dağda onun təbiətindən fərqli olan qayalıq bir xilqətdir (yaradılışdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:05:38.809Z"
+}

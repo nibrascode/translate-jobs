@@ -1,0 +1,17 @@
+{
+ "i": 1106,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خطل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 197,
+  "page_to": 198
+ },
+ "ar": "الخاء والطاء واللام أصلٌ واحدٌ يدلُّ على استرخاءِ واضطراب، قياسٌ مطرد. فالخَطَل: استرخاءِ الأذُن. يقال أذُنٌ خَطْلاء، وثَلَّةٌ خُطْلٌ، وهى الغنم المسترخِيةُ الآذان. قال:\nإذا الهَدَفُ المِعْزالُ صوَّب رأسَه … وأعجبَهُ ضَفْوٌ من الثَّلةِ الخُطْلِ (٤)\nورُمْحٌ خَطِلٌ: مصطرِب. ويقال للأحمق خَطِلٌ. والخَطَل: المنطقُ الفاسد.\nوزعم ناسٌ أنّ الجوادَ يسمَّى خَطِلاً، وذلك لسُرعته إلى العطاء. ويقال امرأةٌ خَطَّالةٌ: ذاتُ رِيبة، وذلك لخَطَلها. والأصل واحدٌ.",
+ "az": "«خطل» — الخاء والطاء واللام (X, T, L) boşalmaya və zəifliyə dəlalət edən vahid, mütərrid qiyaslı bir əsasdır. فالخَطَل (əl-xatəl) — qulağın sallanmasıdır. Deyilir: أذُنٌ خَطْلاء (sallçaq qulaq), və ثَلَّةٌ خُطْلٌ (sallçaq qulaqlı sürüt). Şair demişdir: إذا الهَدَفُ المِعْزالُ صوَّب رأسَه … وأعجبَهُ ضَفْوٌ من الثَّلةِ الخُطْلِ (٤) (Tək-tənha hədəf başını aşağı saldıqda... və sallçaq qulaqlı sürünün gur tükü onun xoşuna gəldikdə) Və رُمْحٌ خَطِلٌ (xətil nizə) — titrəyən. Axmağa خَطِل (xətil) deyilir. Və الخَطَل (əl-xatəl) — batil danışıqdır. Bəzi adamlar iddia etmişlər ki, səxavətli kəsə xətil deyilir, bu da onun ehsana tələsməsinə görədir. Deyilir: امرأةٌ خَطَّالةٌ (xəttal qadın) — şübhəli qadın, bu da onun səhv və nöqsanlarına görədir. Əsas isə birdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:04.062Z"
+}

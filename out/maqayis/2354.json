@@ -1,0 +1,17 @@
+{
+ "i": 2354,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صدع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 337,
+  "page_to": 338
+ },
+ "ar": "الصاد والدال والعين أصلٌ صحيح يدلُّ على انفراجٍ فى الشئ. يقال صَدَعْتُه فانصدَعَ وتصدَّع. وصَدَعتُ الفلاةَ: قطعتُها. ودليلٌ هاد\nمِصدَع. والصَّدْع: النّبات؛ لأنه يَصدَع الأرض، [فى] قوله تعالى: ﴿وَاَلْأَرْضِ ذاتِ اَلصَّدْعِ﴾.\nومن الباب: صَدَع بالحقِّ، إِذا تكلَّمَ به جهاراً. قال سبحانَه لنبيِّه ﵇: ﴿فَاصْدَعْ بِما تُؤْمَرُ﴾. ويقال تصدَّع القَوْمُ، إِذا تفرّقُوا. والصِّدْعَة من الإِبل: قِطعةٌ كالسِّتِّين ونحوِها، كأنَّها انصدعت عن العَكَر العظيم.\nومما شذَّ عن الباب: الصَّدَع: الفَتِىُّ من الأوعال.",
+ "az": "[صدع] (Sədə). Sad, dal və ayn hərfləri bir şeydə açılmağa və ya yarıılmağa dəlalət edən səhih bir əsasdır. Deyilir: «صَدَعْتُه فانصدَعَ وتصدَّع» (Onu yardıqdan sonra yarıldı və parça-parça oldu). «صَدَعتُ الفلاةَ» (Çölü yarıb keçdim). Yol göstərən bələdçi isə “misdəc”dir [مِصدَع]. “Səd” [الصَّدْع]: bitkidir; çünki o, [Quranın] ﴿وَاَلْأَرْضِ ذاتِ اَلصَّدْعِ﴾ (mənaca tərcümə: «Yarılaraq bitki bitirən yerə and olsun») ayəsində buyurulduğu kimi, yeri yarıb çıxır. Bu fəsildəndir: «صَدَع بالحقِّ» — haqla açıq-aşkar danışdıqda deyilir. Pak olan Allah Öz Peyğəmbərinə (s.ə.v.) buyurmuşdur: mənaca tərcümə: «Sənə əmr olunanı açıq-aşkar bildir!» ﴿فَاصْدَعْ بِما تُؤْمَرُ﴾. Həmçinin qövm dağılıb ayrıldıqda «تصدَّع القَوْمُ» deyilir. Dəvə sürüsündən olan “sidə” [الصِّدْعَة] — altmış və ya ona yaxın dəvədən ibarət hissədir, sanki o, böyük sürüdən [çatlayıb] ayrılmışdır. Bu əsasdan istisna olunanlardandır: “sədə” [الصَّدَع] — dağ keçisinin gənci.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.589Z"
+}

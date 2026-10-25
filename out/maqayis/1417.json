@@ -1,0 +1,17 @@
+{
+ "i": 1417,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذوب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 364,
+  "page_to": 364
+ },
+ "ar": "الذال والواو والباء أصلٌ واحد، وهو الذَّوْب، ثمَّ يحمل عليه ما قاربه فى المعنى مجازاً. يقال ذَابَ الشّئُ يَذُوبُ ذَوْباً، وهو ذائب.\nثم يقولون مجازاً: ذاب لى عليه من المال كذا، أى وجَب؛ كأنّه لمّا وجب فقد ذاب عليه، كما يذوب الشَّئ على الشئ. والإذوابة: الزُّبْد حين يُوضَع فى البرْمة ليُذاب. والذَّوْب: العَسَل الخالص. ثمَّ يقولون للشَّمس إذا اشتدّ حرُّها: ذابت؛ كأنّها لما بلغت إلى الأجساد بحَرِّها فقد ذابت عليهم. قال:\nإذا ذابَتِ الشَّمْسُ اتَّقَى صَقَرَاتِها … بأفنانِ مَربُوعِ الصَّريمةِ مُعْبِلِ (١)\nويقولون: أذاب فلانٌ أمرَه، أى أصلَحَه. وهو من الباب؛ لأنّه كأنّه فَعَلَ به ما يفعله مُذِيب السَّمْن وغيرِه حتَّى يخلُص ويصلُح. ومنه قول بِشر:\nوكنتم كَذاتِ القِدْر لَم تَدْر إذْ غَلت … أتُنْزِلُها مذمومةٌ أو تذيبُها (٢)\nوقال قومٌ: تُذِبيها تُنْهِبُها؛ والإذابة: النُّهْبة؛ أذَبْتُه أنْهَبتُه. وهو الباب، كأنّه أذابَهُ عليهم.",
+ "az": "[ذوب]\nالذال والواو والباء أصلٌ واحد، وهو الذَّوْب، ثمَّ يحمل عليه ما قاربه فى المعنى مجازاً (tək bir əsl olub əz-zəubdur, sonra mənaca yaxın olan şeylər buna məcazi olaraq şamil edilir).\nيقال ذَابَ الشّئُ يَذُوبُ ذَوْباً، وهو ذائب (Deyilir ki, şey əridi – yəzubu zəubən, o da zaibdir).\nثم يقولون مجازاً: ذاب لى عليه من المال كذا، أى وجَب؛ كأنّه لما وجب فقد ذاب عليه، كما يذوب الشَّئ على الشئ (Sonra məcazi olaraq deyərlər: «Mənə onun üzərindən filan qədər pul zəbə», yəni vacib oldu; sanki o vacib olduqda onun üzərində əridi, necə ki, şey şeyin üzərində əriyir).\nوالإذوابة: الزُّبْد حين يُوضَع فى البرْمة ليُذاب (İzəbə – qazana qoyulub əridilən yağdır).\nوالذَّوْب: العَسَل الخالص (Zəub – xalis baldır).\nثمَّ يقولون للشَّمس إذا اشتدّ حرُّها: ذابت؛ كأنّها لما بلغت إلى الأجساد بحَرِّها فقد ذابت عليهم. قال:\nإذا ذابَتِ الشَّمْسُ اتَّقَى صَقَرَاتِها … بأفنانِ مَربُوعِ الصَّريمةِ مُعْبِلِ (١)\n(Sonra günəşin istisi şiddətləndikdə onun haqqında deyərlər: «zəbət», yəni əridi; sanki istisi ilə bədənlərə çatdıqda onlar üzərində əridi. Şair demişdir: Günəş əridikdə, o, yayın əvvəlində bitən cavan budaqlarla onun şövqündən qorunur).\nويقولون: أذاب فلانٌ أمرَه، أى أصلَحَه (Deyərlər: «Əzəbə fulanün əmrəh», yəni işini islah etdi).\nوهو من الباب؛ لأنّه كأنّه فَعَلَ به ما يفعله مُذِيب السَّمْن وغيرِه حتَّى يخلُص ويصلُح (Bu da həmin babdəndir, çünki o, yağı əridənin onu xalis və düzgün etmək üçün etdiyini öz işinə tətbiq etmişdir).\nومنه قول بِشر:\nوكنتم كَذاتِ القِدْر لَم تَدْر إذْ غَلت … أتُنْزِلُها مذمومةٌ أو تذيبُها (٢)\n(Bişrin bu sözü dəridəndir: Siz o qazanın sahibinə bənzədiniz ki, o qaynayanda bilmədi ki, onu qınanmış halda düşürəcək, yoxsa əridəcək).\nوقال قومٌ: تُذِبيها تُنْهِبُها؛ والإذابة: النُّهْبة؛ أذَبْتُه أنْهَبتُه. وهو الباب، كأنّه أذابَهُ عليهم (Bəzi qövmlər demişdir: «Tüzibiha» – onu talan edirsən; əz-izabə – talandır; «əzəbtuhu» – onu talan etdim. Bu da babdəndir, sanki onu onlar üçün əritdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:22:56.902Z"
+}

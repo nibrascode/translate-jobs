@@ -1,0 +1,17 @@
+{
+ "i": 1166,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خيب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 232,
+  "page_to": 232
+ },
+ "ar": "الخاء والياء والباء أصلٌ واحد يدلُّ على عدم فائدةٍ وحِرمانٍ. والأصل قولهم للقِدْحِ الذى لا يُورِى: هو خَيّاب. ثمّ قالوا: سَعَى فى أمر فخابَ، وذلك إذا حُرِم (١) فلم يُفِدْ خيْراً.",
+ "az": "«خيب»: الخاء، Yə və Ba — xeyrin olmamasına və məhrumiyyətə dəlalət edən tək bir əsasdır. Əsas odur ki, onlar od çıxarmayan qumar oxuna «خَيّاب» (xəyyab) deyirlər. Sonra dedilər: «سَعَى فى أمر فخابَ» (bir işdə səy göstərdi, lakin məhrum oldu), bu o zaman olur ki, o, məhrum olur və heç bir xeyir əldə etmir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

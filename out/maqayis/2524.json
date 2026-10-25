@@ -1,0 +1,17 @@
+{
+ "i": 2524,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طهف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 428,
+  "page_to": 428
+ },
+ "ar": "الطاء والهاء والفاء كالذى قبله. على أنَّهم يقولون: الطَّهْفَ طعامٌ يتَّخذ من الذُّرة، ويقال هى أعالى الصِّلِّيان. ويقولون: الطُّهافة: الذُّؤابة.\nوكلُّ ذلك كلام.",
+ "az": "[طهف] (Tə, hə və fa) özündən əvvəlki kimidir. Belə ki, onlar deyirlər: الطَّهْف (ət-təhf) – darıdan düzəldilən yeməkdir, həmçinin deyirlər ki, o, صِلِّيان (sillyian) bitkisinin zirvələridir. Və deyirlər: الطُّهافة (ət-tuhafə) – zülf, saçsaçağıdır. Bunların hamısı sözdür (xüsusi əsası yoxdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.400Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1747,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زقو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 16,
+  "page_to": 16
+ },
+ "ar": "الزاء والقاف والحرف المعتل أُصَيْلٌ يدلُّ على صوتٍ من الأصوات. فالزَّقْو: مصدرُ زَقَا الدِّيك يَزْقُو، ويقال إن كلَّ صائحٍ زَاقٍ.\nوكانت العرب تقول: «هو أثْقَلُ من الزّواقى» وهى الدِّيَكة؛ لأنهم كانوا يَسْمُرون فإِذا صاحت الدِّيكة تفرَّقُوا. والزُّقَاء: زُقَاء الدِّيك.",
+ "az": "[زقو] (zəqə): Zay, qaf və zəif hərf səslərdən bir səsə dəlalət edən kiçik bir kökdür. «الزَّقْو» (əz-zəqv) – xoruzun qışqırması mənasını verən «زَقَا الدِّيك يَزْقُو» (xoruz qışqırır, qışqıracaq) sözünün məsdəridir, deyilir ki, hər qışqıran «زَاقٍ» (zaqin) adlanır.\nƏrəblər deyərdilər: «هو أثْقَلُ من الزّواقى» (O, zəvəqidən – xoruzlardan daha ağırdır); çünki onlar gecəni söhbətlə keçirərdilər, xoruzlar qışqırdıqda isə dağılışardılar. «الزُّقَاء» (əz-zuqa) – xoruzun qışqırmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.126Z"
+}

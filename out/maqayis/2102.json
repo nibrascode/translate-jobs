@@ -1,0 +1,17 @@
+{
+ "i": 2102,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شكو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 207,
+  "page_to": 207
+ },
+ "ar": "الشين والكاف والحرف المعتل أصلٌ واحد يدلُّ على توجُّع من شئ. فالشّكو المصدر؛ شكوته [شكْوًا (٣)، و] شَكاةً وشِكايةً.\nوشكوتُ فلاناً فأشكانى، أى أعتبنى من شَكواى (٤). وأشكانى، إذا فعل بك ما يُحوِجُك إلى شكايته. والشَّكاة والشِّكاية بمعنى. والشكِىّ: الذى يشتكى وجعاً. والشكِىُّ المشكوِّ أيضاً؛ شكَوتُه فهو شَكِىٌّ ومشكوٌّ.",
+ "az": "[شكو] الشين (ش), Kaf (ك) və hərf-i müəttl (vav) bir şeydən ağrı hiss etməyə dəlalət edən tək bir əsldir. Əş-şəkə (الشّكو) məsdərdir: شكوته شكْوًا, və şəkatən (شَكاةً) və şikayətən (شِكايةً) (ondan şikayət etdim). Şəkotü fulənən fə-əşkaniy (شكوتُ فلاناً فأشكانى) — yəni şikayətimdən ötrü məni razı saldı (٤). Və əşkaniy — səni şikayət etməyə vadar edən bir şey etdikdə. Əş-şəka və əş-şikayə məna baxımından eynidir. Əş-şəkiy (الشكِىُّ) — ağrıdan şikayət edən kimsədir. Əş-şəkiy həm də şikayət olunan deməkdir; şəkətuhu fə-hüvə şəkiyün və məşkuvvün (mən ondan şikayət etdim, o, şikayət olunandandır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:08.599Z"
+}

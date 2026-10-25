@@ -1,0 +1,17 @@
+{
+ "i": 1929,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سنح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 104,
+  "page_to": 104
+ },
+ "ar": "السين والنون والحاء أصلٌ واحد يُحمَل على ظهور الشئ من مكانٍ بعينه، وإن كان مختلَفاً فيه. فالسّانح: ما أتاك عن يمينك من طائرٍ أو غيره، يقال سَنَحَ سُنُوحاً. والسانح والسَّنيح واحد. قال ذو الرمة:\nذكَرْتُكِ أنْ مرت بنا أمُّ شادن … أمام المطايا تشرئبُّ وتسنَحُ (٣)\nثم استُعير هذا فقيل: سنح لى رأىٌ فى كذا، أى عَرَض.",
+ "az": "«سنح» — السين، والنون والحاء (سين، نun və ha) müəyyən bir yerdən bir şeyin üzə çıxmasına həvalə olunan tək bir əsasdır, hərçənd bunda fikir ayrılığı vardır. «السّانِح» (sanih) — sağ tərəfinizdən gələn quş və ya başqa bir şeydir, «سَنَحَ سُنُوحاً» (sanəhə sunuha) deyilir. «السانح» və «السَّنيح» eynidir. Zü ə-Rummə demişdir: «Şadan analı (cüyür) dəvələrin önündən boylanıb keçərkən səni xatırladım» (3). Sonra bu məcazi məna daşınmış və «mənə filan məsələdə bir rəy sanc etdi» yəni «ortaya çıxdı, təzahür etdi» denilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.684Z"
+}

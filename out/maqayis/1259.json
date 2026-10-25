@@ -1,0 +1,17 @@
+{
+ "i": 1259,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دفق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 286,
+  "page_to": 286
+ },
+ "ar": "الدال والفاء والقاف أصلٌ واحد مطَّردٌ قياسُه، وهو دفْع الشَّئ قُدُما. من ذلك: دَفَقَ الماء، وهو ماءٌ دافق. وهذه دُفْقَةٌ مِنْ ماء.\nويُحمَل قولُهم: جاءوا دُفْقَةً واحدة، أى مرَّةً واحدة. وبعيرٌ أدفَقُ، إذا بانَ مِرْفَقاه عن جَنبَيه. وذلك أنَّهما إذا بانا عنه فقد اندفعا عنه واندفَقا والدِّفَقُّ، على فِعَلٍّ، من الإبل: السريع. ومشى فلان الدّفِقّى، وذلك إذا أسرَعَ. قال أبو عبيدة: الدِّفِقَّى أقْصَى العَنَق. ومنه\nحديث الزّبرقان: «تمشى الدّفِقَّى، وتجلسُ الهَبَنْقَعَة». ويقال سيلٌ دُفَاقٌ: يملأ الوَادِى. ودَفَقَ اللّهُ رُوحَه، إذا دُعِى عليه بالموت.",
+ "az": "«دفق» (د-غ-ق): dal, fa və qaf hərfləri qaydası ardıcıl olan tək bir əsas mənaya malikdir ki, o da bir şeyi irəliyə doğru itələməkdir. Bunlardandır: «دَفَقَ الماء» (su axıtdı / püskürdü), bu da «ماءٌ دافق» (axıcı/fışqıran su) deməkdir. Və bu, «دُفْقَةٌ مِنْ ماء» (bir dəfəyə axan su) kimidir.\nOnların «جاءوا دُفْقَةً واحدة» (onlar bir dəfəyə, birlikdə gəldilər) sözü də buradan götürülmüşdür, yəni bir dəfəyə. «أدفَقُ» (ədfəq) – dirsəkləri böyürlərindən kənara çıxmış dəvədir. Bu ona görədir ki, dirsəklər böyürlərdən uzaqlaşdıqda sanki onlar itələnmiş və fışqırmış kimi görünürlər. «فِعَلّ» وزنində olan «الدِّفَقُّ» (əddifəqq) – sürətli dəvədir. Filankəs «دّفِقّى» tərzində yerişi yeridi – bu, o tərzdə yeridi ki, sürətlə getdi. Əbu Übeydə demişdir: «الدِّفِقَّى» (əddifəqqa) – sürətli yeriyişin ən son həddidir. Zübqanın bu hədisi dəhsəndəndir: «تمشى الدّفِقَّى، وتجلسُ الهَبَنْقَعَة» («Sənə dəfəqqa ilə yeriyirsən, həbənqəqə ilə oturursan»). Deyilir ki, «سيلٌ دُفَاقٌ» (düfaq sel) – vadini dolduran seldir. Ölüm ilə bəddua olunduqda «دَفَقَ اللّهُ رُوحَه» (Allah onun ruhunu çıxarsın/axitsin) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.299Z"
+}

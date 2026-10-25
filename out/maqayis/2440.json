@@ -1,0 +1,17 @@
+{
+ "i": 2440,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضيم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 383,
+  "page_to": 384
+ },
+ "ar": "الضاد والياء والميم أصلٌ صحيح، وهو كالقهر والاضطهاد يقال ضامه يَضِيمه ضَيْما. فهو اسمٌ ومصدر. والرجل المَضِيم: المظلوم. وبقيت فى الباب\nكلمةٌ واحدة، يقال إنَّ الضِّيم، بكسر الضاد: جانب الجبل. قال الهذَلىّ (١):",
+ "az": "«ضيم»: الضاد, الياء, والميم (d, y, m) — zülm və təqib etmək (qəhr və iztihad) kimi səhih bir əsldir. Deyilir: «ضامه يَضِيمه ضَيْما» (Ona zülm etdi, haqqını tapdaladı). Bu, həm ad, həm də məsdərdir. «الرجل المَضِيم» — məzlum, haqqı tapdalanmış kişi. Bu babda tək bir kəlmə qaldı: deyirlər ki, «الضِّيم» — ض hərfinin kəsrəsi ilə dağın yamacı deməkdir. Hüzəli demişdir (1):",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.919Z"
+}

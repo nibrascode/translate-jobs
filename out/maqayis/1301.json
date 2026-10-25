@@ -1,0 +1,17 @@
+{
+ "i": 1301,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دمك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 302,
+  "page_to": 302
+ },
+ "ar": "الدال والميم والكاف يدلُّ على معنيين. أحدهما الشِّدَّة، والآخر السُّرعة؛ وربَّما اجتمع المعنيانِ.\nفأمَّا الشِّدّة فالدَّ مَكْمَكُ: الشديد. والدّامِكَة: الدّاهية والأمرُ العظيم والمِدماك: الخشبة تكون تحت قدَمىِ السّاقى.\nوأمّا الآخر فيقال إنّهم يقولون دَمَكَتِ الأرنب، إذا أسرعَتْ فى عَدْوِها.\nوالدَّموك: البَكَرْة العظيمة. فقد اجتمع فيها المعنيانِ: الشدّة، والسُّرعة.\nوالدَّموك: الرَّحَى. وهى فى المعنى والبَكَرْة سواءٌ.",
+ "az": "[دمك] (dəm-k): Dal, mim və kaf hərfləri iki mənaya dəlalət edir. Bunlardan biri şiddət, diğəri isə sürətdir; bəzən bu iki məna birləşir.\nŞiddətə gəldikdə: «الدَّ مَكْمَكُ» (əd-dəməkməkü) — şiddətli. «الدّامِكَة» (əd-damikətü) — fəlakət və böyük iş. «المِدماك» (əl-midmaku) — suvaranın ayaqlarının altındakı taxtadır.\nSürətə gəldikdə isə deyilir ki, dovşan qaçışında sürətli olduqda «دَمَكَتِ الأرنب» (dəməkət əl-ərnəbü) deyirlər. Və «الدَّموك» (əd-damuku) — böyük ucurum, çarx. Beləliklə, onda bu iki məna birləşdi: şiddət və sürət.\nVə «الدَّموك» (əd-damuku) – dəyirman daşıdır. O, məna və çarx baxımından eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.835Z"
+}

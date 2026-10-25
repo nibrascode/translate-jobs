@@ -1,0 +1,17 @@
+{
+ "i": 1460,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رزغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 387,
+  "page_to": 388
+ },
+ "ar": "الراء والزاء والغين أُصَيْلٌ يدلُّ على لَثَقٍ وطِين. يقال أرزَغَ المطرُ، إذا بلَّ الأرض، فهو مُرْزِغٌ. وكان * الخليل يقول: الرَّزَغَة أشدُّ من الرَّدَغة. وقال قومٌ بخلاف ذلك. ويقال أرزَغَت الزِّيح: أتَتْ بالنَّدَى.\nقال طَرَفة:\nوأنتَ على الأدنى صَباً غيرُ قَرَّةٍ … تَذَاءَبَ منها مُرْذِغٌ ومُسِيلُ (١)\nوقولهم: أرزَغَ فلانٌ فلاناً، إذا عابَه، فهو من هذا؛ لأنَّه إذا عابَه فقد لَطَخه.\nويقال للمُرْتَطِمِ: رَزِغٌ. ويقال احتَفَر القومُ حتى أَرزَغُوا، أى بَلَغُوا الرَّزَغَ، وهو الطين (٢).",
+ "az": "«رزغ» — ra, zay və ğayn ləpəyə/nəmə və çığıra/paltara yapışan palçığa dəlalət edən kiçik bir kökdür. Deyilir: أرزَغَ المطرُ (yağış palçıqlatdı), yağış yeri islatdıqda, deməli o, مُرْزِغٌ (mürziğdir). Xəlil deyirdi ki, الرَّزَغَة (ərrəzəğə) — رَدَغَة (rədəğə - bataqlıq)-dən daha şiddətlidir. Bir qövm isə bunun əksini demişdir. Deyilir: أرزَغَت الزِّيح (ziyh palçıqlandı) [və ya şeh gətirdi]: şeh gətirdi. Tərəfə demişdir: وأنتَ على الأدنى صَباً غيرُ قَرَّةٍ … تَذَاءَبَ منها مُرْذِغٌ ومُسِيلُ (١) (Sən yaxın adam üçün soyuq olmayan səba küləyi olmusan... ondan palçıqladıcı və axıdıcı [yağışlar] ard-arda gəldi). Və onların فلاناً أرزَغَ فلانٌ (filankəs filankəsi palçıqlatdı) sözü, [yəni] onu eyiblədikdə, məhz bundandır; çünki onu eyiblədikdə sanki ləkələmiş olur. Bataqlığa düşən şəxsə رَزِغٌ (rəziğ) deyilir. Deyilir: احتَفَر القومُ حتى أَرزَغُوا (qövm qazdı, hətta palçığa çatdılar), yəni الرَّزَغَ-ə, yəni palçığa çatdılar (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:24.395Z"
+}

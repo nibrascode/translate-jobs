@@ -1,0 +1,17 @@
+{
+ "i": 269,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بظر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 262,
+  "page_to": 262
+ },
+ "ar": "الباء والظاء والراء أصلٌ واحدٌ لا يُقاس عليه. فالبُظَارة اللَّحمة المتدلِّية مِنْ ضَرْع الشَّاة، وهى الحَلَمة. والبُظارة هَنَةٌ ناتئة من الشَّفَةِ العُلْيا، لا تكونُ بكلِّ أحَدٍ.\nقال علىٌّ ﵇ لشُريحٍ فى فُتْيا: «ما تقولُ أنتَ أيُّها العَبْدُ الأبْظَر». واللّه أعلم.",
+ "az": "[بظر] (bə-Zə-r): باء (ba), Zaa (Zə) və raa tək bir əsasdır ki, ona əsasən müqayisə aparılmaz. «البُظَارة» (əl-buZArə) — qoyunun əmçəyindən sallanan ət parçasındadır, o da məməcikdir. «البُظَارة» (əl-buZArə) — üst dodaqdan qabarıq çıxan kiçik bir şeydir ki, hər kəsdə olmur.\nƏli (رضي الله عنه) fətva barəsində Şüreyhə demişdir: «ما تقولُ أنتَ أيُّها العَبْدُ الأبْظَر» (Ey abZar qul, sən nə deyirsən?). Və Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:27.649Z"
+}

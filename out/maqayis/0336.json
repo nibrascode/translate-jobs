@@ -1,0 +1,17 @@
+{
+ "i": 336,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 311,
+  "page_to": 311
+ },
+ "ar": "الباء والهاء والميم: أن يبقى الشَّئُ لا يُعْرَفُ المَأْتَى إليه. يقال هذا أمرٌ مُبْهَم. ومنه البُهْمةُ الصَّخرة التى لا خَرْق فيها، وبها شُبِّه الرّجُل الشُّجَاعُ الذى لا يُقدَرُ عليه من أىِّ ناحيةٍ طُلِب. وقال قوم: البُهْمةُ جماعةُ الفرسان. ومنه البَهيمُ: اللَّونُ الذى لا يخَالِطُه غيْرُه، سواداً كانَ أو غيرَه. وأبْهَمْتُ البابَ: أغلقْتُه.\nومما شَذَّ عن هذا الباب: الإبهام من الأصابع. والبَهْم صِغارُ الغنَم. والبُهْمَى نبْتٌ، وقد أبْهَمَتِ الأرضُ كثُرَتْ بُهْمَاهَا. قال:\nلها مُوفِدٌ وَفَّاهُ وَاصٍ كأنّه … زَرَابىُّ قَيْلٍ قَدْ تُحُومِى مُبْهمُ (٢)",
+ "az": "«ب» (با), «ه» (هə) və «م» (mim): Bir şeyin yolunun, gəlinəcək yerinin bilinməyib qalması. Deyilir ki, bu iş «مُبْهَم» (mübhəm, qaranlıq) bir işdir. Həmçinin «البُهْمة» – deşiyi və yolu olmayan qayadır, heç bir tərəfdən üstünə gəlmək mümkün olmayan cəsur kişi də buna bənzədilmişdir. Bəzi qövmlər demişlər ki: «البُهْمة» süvarilər dəstəsidir. Həmçinin «البَهيم» – qarası və ya başqa rəngi olsun, başqa rəngə qarışmayan tək rəngdir. «أبْهَمْتُ البابَ» – qapını bağladım.\n\nBu fəsildən kənara çıxan (şaz) sözlər bunlardır: Əllərdəki «الإبهام» (baş barmaq). «البَهْم» – kiçik qoyunlar. «البُهْمَى» isə bir bitkidir, «أبْهَمَتِ الأرضُ» dedikdə yerin bəhmə bitkisi bol oldu deməkdir. Şair demişdir:\nلَهَا مُوفِدٌ وَفَّاهُ وَاصٍ كأنّه … زَرَابىُّ قَيْلٍ قَدْ تُحُومِى مُبْهمُ (٢)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:34:14.633Z"
+}

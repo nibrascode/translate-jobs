@@ -1,0 +1,17 @@
+{
+ "i": 516,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثطع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 376,
+  "page_to": 376
+ },
+ "ar": "الثاء والطاء والعين شبيهٌ بما قبله، إلاّ أنّهم يقولون ثَطَعَ الرَّجُل أبْدَى (١). وثُطِعَ إذا زُكِم: وغيره أصح منه إلا أنّه قد قيل (٢).\nواللّه أعلم.",
+ "az": "[ثطع] الثاء والطاء والعين شبيهٌ بما قبله (Thə, ta və ayn əvvəlkinə bənzərdir), lakin onlar deyirlər ki: ثَطَعَ الرَّجُل أبْدَى (Kişi səhətə etdi – zahir etdi) (١). وَثُطِعَ (Sutiə) zökəm olduğu zaman: və bundan başqası daha səhihdir, lakin bu da deyilmişdir (٢). Və Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.075Z"
+}

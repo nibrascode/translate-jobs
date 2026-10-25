@@ -1,0 +1,17 @@
+{
+ "i": 2197,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 253,
+  "page_to": 253
+ },
+ "ar": "الشين والخاء والراء. الأصل الصحيح يدلُّ على صوت.\nوقد حُكِيت فيه كلمةٌ أخرى إنْ صحّتْ.\nفالأصل الشّخير: تردُّدُ الصَّوت فى الحَلْق. ويقال: الشّخير: رفْع الصوت بالنّخْر. وهذا مشهورٌ.\nوالكلمة الأخرى قولهم إنّ الشّخير ما تحاتَّ من الجَبَل، إذا وطئَتْه الأقدام.\nقال الشاعر:\nبنُطفةِ بارقٍ فى رأس نِيقٍ … مُنيفٍ دونَها منه شَخير (٢)",
+ "az": "[شخر] Şin, xə və ra hərfləri. Doğru kök səsə dəlalət edir. Əgər doğru olsa, onda başqa bir kəlmə də nəql edilmişdir. Əsas kök «الشّخير»-dir: boğazda səsin təkrarlanması. Deyirlər: «الشّخير» — burnunu çəkərək səni ucaltmaqdır. Bu məşhurdur. Digər kəlmə isə onların dağdan qopan şeyə «الشخير» demələridir, nə vaxt ki, ayaqlar onu tapdalayır. Şair demişdir: «بنُطفةِ بارقٍ فى رأس نِيقٍ … مُنيفٍ دونَها منه شَخير» (Bulud damlası ilə yüksək bir dağ zirvəsində... ondan aşağıda bir səs vardır) (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:46.218Z"
+}

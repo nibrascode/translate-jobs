@@ -1,0 +1,17 @@
+{
+ "i": 1140,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خنا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 222,
+  "page_to": 222
+ },
+ "ar": "الخاء والنون وما بعدها معتلٌّ، يدلُّ على فَسادٍ وهَلاك.\nيقال لآفات الدهر خَنَى. قال لبيد:\n* وقَدَرْنا إنْ خَنَى الدَّهْرِ غَفَلْ (٢) *\nوأخنَى عليه الدّهر: أهلكَه. قال:\n* أخنَى عليها الذى أخْنَى على لُبَدِ (٣) *\nوالخَنَا من الكلام: أفحشُه. يقال خنا يخنو خَناً، مقصور. ويقال أخْنَى فلان فى كلامِه.",
+ "az": "[خنا] الخاء والنون وما بعدها معتلٌّ (Xar, nun və ondan sonrakı hərf mətlidir) — fəsad və həlak olmağa dəlalət edir. Zamanın afətlərinə خَنَى (xəna) deyilir. Ləbid demişdir: * وقَدَرْنا إنْ خَنَى الدَّهْرِ غَفَلْ (٢) * (Və təqdir etdik ki, əgər zəmanənin fəsadı qafil olarsa). Və أخنَى عليه الدّهر (əxnə əleyhi əd-dəhr) — zaman onu həlak etdi. O demişdir: * أخنَى عليها الذى أخْنَى على لُبَدِ (٣) * (Lübədi həlak edən kəs onu da həlak etdi). Və kəlamdan خَنَا (xəna) — onun ən çirkini, ən qəbahətlisi. Deyilir: خنا يخنو خَناً (xəna yaxnu xənən), məqsurdur. Və deyilir: أخْنَى فلان فى كلامِه (əxnə fulanun fi kəlamihi) — filankəs danışığında həddini aşdı və ya çirkin söz işlətdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

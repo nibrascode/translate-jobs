@@ -1,0 +1,17 @@
+{
+ "i": 1813,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زأد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 43,
+  "page_to": 43
+ },
+ "ar": "الزاء والهمزة والدال كلمة واحدة، تدلُّ على الفزع. يقال زُئِد الرّجُل، إِذا فَزِع، زُؤدًا. قال:\nحَملَتْ يه فى ليلةٍ مَزءُودةٍ … كَرْها وعَقدُ نِطاقِها لم يُحْلَلِ (١)",
+ "az": "[زأد] (zə-həmzə-dal): tək bir söz olub qorxunu göstərir. «زُئِد الرّجُل» (kişi qorxuya düşdü) — züədn, deyilir. Şair demişdir: \nحَملَتْ يه فى ليلةٍ مَزءُودةٍ … كَرْها وعَقدُ نِطاقِها لم يُحْلَلِ (١)\n(O, qorxulu bir gecədə onu ikrahla daşıdı, halbuki kəmərinin düyüncükləri hələ açılmamışdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.661Z"
+}

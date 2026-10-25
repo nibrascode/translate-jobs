@@ -1,0 +1,17 @@
+{
+ "i": 622,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 443,
+  "page_to": 444
+ },
+ "ar": "الجيم والراء والضاد أصلانِ: أحدهما جنسٌ من الغَصَص، والآخر من العِظَم.\nفأمّا الأوّل فيقولون جَرِضَ بِرِيقه (٤) إذا اغتصَّ به. قال:\nكأنّ الفتى لم يَغْنَ فى النَّاسِ ليلةً … إذا اختَلَفَ اللَّحْيانِ عند الجَرِيضِ (٥)\nقال الخليل: الجَرَضُ أن يبتلع الإنسانُ ريقَه على همٍّ وحزْنٍ. ويقال: مات فلانٌ جَرِيضاً، أى مغموماً.\nوالثانى قولهم بعيرٌ جِرْواضٌ، أى غليظ: والجُرائِض: البعير الضَّخم، ويقال الشّديد الأكل. ونعجة جُرَئِضةٌ (١) ضَخْمة.",
+ "az": "[جرض] (Cim, راء və dad): İki əsasdır: Biri boğulma növü, digəri isə böyüklükdür. Birinciyə gəldikdə, deyirlər: «جَرِضَ بِرِيقه» (tüpürcəyi ilə boğuldu, udqunmasında çətinlik çəkdi). Şair demişdir: «Sanki gənc insanlərin arasında gecəni keçirməmişdi... nə vaxt ki, çənələr darısqallıq zamanı çarpışardı (5)». Xəlil demişdir: «الجَرَضُ» (cərəz) – insanın narahatlıq və qəm içində tüpürcəyini udmasıdır. Deyilir: «مات فلانٌ جَرِيضاً» (filankəs qəm-qüssə içində boğularaq öldü). İkincisi, dedikləridir: «بعير جِرْواضٌ» (cırvad dəvə) – yəni irihəcmli, bərk. «الجُرائِض» (Cüraiz) – iri dəvə, həmçinin şiddətli yeyən deməkdir. «نعجة جُرَئِضةٌ» (cürəizə qoyun) – irihəcmli, böyük deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:27.644Z"
+}

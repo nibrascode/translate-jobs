@@ -1,0 +1,17 @@
+{
+ "i": 470,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "توس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 358,
+  "page_to": 358
+ },
+ "ar": "التاء والواو والسين: الطَّبع، وليس أصلاً، لأن التاء مبدلة من سين، وهو السُّوس.",
+ "az": "[توس] (tə-və-s) - Tə, vav və sin: Təbiət, lakin bu əsl deyil, çünki tə hərfi sin hərfi ilə əvəzlənmişdir, o da «əssus» (السُّوس) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.997Z"
+}

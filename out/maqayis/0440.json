@@ -1,0 +1,17 @@
+{
+ "i": 440,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تسع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 347,
+  "page_to": 347
+ },
+ "ar": "التاء والسين والعين كلمةٌ واحدة، وهى التِّسعة فى العدد.\nتقول تَسَعْتُ القومَ، أى صرت تاسِعَهم. وأتْسعتُ الشَّئَ إذا كان ثمانيةً فأتممته تِسعة. والتِّسع ثلاثُ ليالٍ من الشَّهر آخرُ ليلةٍ منها اللَّيلة التاسعة. وتَسَعْتُ القومَ أتْسَعُهُم إذا أخَذْتَ تُسْع أموالهم.",
+ "az": "[تسع] (tə-sə-%). Ta, sin və ayn hərfləri tək bir kəlmədir, o da sayda olan تسعة (tıs-sə) — doqquz rəqəmidir. Deyirsən: təsətu-l-qovmə — mən qövmün doqquzuncusu oldum. Və ətsətu-ş-şəyə — bir şey səkkiz idi, onu doqquza çatdırdım. Və et-tis - ayın son üç gecəsidir ki, onların sonuncusu doqquzuncu gecədir. Və təsətu-l-qovmə ətsəuhum — qövmün mallarının doqquzda birini aldığın zaman (deyilən ifadədir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2522,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 428,
+  "page_to": 428
+ },
+ "ar": "الطاء والهاء والراء أصلٌ واحد صحيح يدلُّ على نقاءٍ وزوالِ.\nدَنَسٍ. ومن ذلك الطُّهْر: خلاف الدّنَس. والتطهُّر: التنزُّه عن الذمِّ وكلِّ قبيح.\nوفلانٌ طاهر الثِّياب، إذا لم يدنَّس. [قال]:\nثيابُ بنى عوفٍ طَهَارَى نقيّةٌ … وأوجُهُمْ عند المسَافر غرّانُ (٢)\nوالطَّهور: الماء. قال اللّه تعالى: ﴿وَأَنْزَلْنا مِنَ اَلسَّماءِ ماءً طَهُوراً﴾. وسمعتُ محمّد بن هارونَ الثَّقفى يقول: سمعت أحمد بن يحيى ثعلباً يقول: الطَّهور: الطاهر فى نفسه، المُطَهِّر لغيره",
+ "az": "[طهر] (Tə, hə və ra) təmizliyə və çirkabın zail olmasına dəlalət edən tək səhih əsl kökdür. Çirkin əksidir. التطهُّر (ət-tətahhur) – tənqid olunan şeylərdən və hər bir rəzil xüsusiyyətdən uzaq olmaq. Filankəs «طاهر الثِّياب» (təhirüs-siyab) – ləkələnməmiş şəxsdir. Şair demişdir: ثيابُ بنى عوفٍ طَهَارَى نقيّةٌ … وأوجُهُمْ عند المسَافر غرّانُ (٢) (Bəni-Ovfun paltarları təmiz və pakdır, səfərdə olanların üzləri isə parlaqdır). الطَّهور (ət-təhur) – sudur. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿وَأَنْزَلْنا مِنَ اَلسَّماءِ ماءً طَهُوراً﴾ (Biz göydən təmizləyici su nazil etdik). Mən Məhəmməd ibn Harun əs-Səqəfinin belə dediyini eşitdim: Əhməd ibn Yəhya Səsləbinin belə dediyini eşitdim: الطّهور (ət-təhur) – özü təmiz, başqasını təmizləyən deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.400Z"
+}

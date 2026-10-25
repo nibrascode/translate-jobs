@@ -1,0 +1,17 @@
+{
+ "i": 417,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تلل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 339,
+  "page_to": 339
+ },
+ "ar": "التاء واللام فى المضاعف أصلٌ صحيح، وهو دليل الانتصاب وضِدِّ الانتصاب.\nفأمَّا الانتصاب فالتلّ، معروف. والتَّليل العُنُق. وتَلَلْتُ الشئَ فى يَدِه.\nوالتَّلْتَلة الإقلاق، وهو ذلك القياس.\nوأمّا ضِدُّه فتَلَّه أى صَرَعَه. وهذا جنسٌ من المقابلة. والمِتَلُّ: الرُّمح الذى يُصْرَع به. قال اللّه تعالى: ﴿وَتَلَّهُ لِلْجَبِينِ﴾. ثم قال لبيد:\nرابِطُ الجأشِ على فَرْجِهِمُ … أعْطِفُ الجَوْنَ بمربُوعٍ مِتَلّ (١)\nيقول: أعطفه ومَعِى رُمْحٌ مِتَلٌّ.",
+ "az": "«تلل» (t-l-l): Qoşa hərfli tə və lam əsas və səhihdir, o, dik durmağın və dik durmağın əksinin dəlilidir.\nDik durmağa gəldikdə, التلّ (əttəl): məlumdur. Və التَّليل (əttəlil): boyundur. Və تَلَلْتُ الشئَ فى يَدِه (tələttuş-şəyə fi yədihi): onu əlinə qoydum.\nVə التَّلْتَلة (əttəltələ): sarsıtmaqdır, bu da həmin ölçüdəndir.\nAmmə onun əksinə gəldikdə isə, تَلَّهُ (təlləhu): onu yıxdı, yerə sərdi. Bu, bir növ qarşıdurmadır. Və المِتَلُّ (əlmətallu): üzərinə kimsənin yıxıldığı nizədir. Allah-Təala demişdir: ﴿وَتَلَّهُ لِلْجَبِينِ﴾ (və təlləhu lil-cəbin - mənaca tərcümə: Onu alnı üstə yerə sərdi). Sonra Ləbid demişdir:\nرابِطُ الجأشِ على فَرْجِهِمُ … أعْطِفُ الجَوْنَ بمربُوعٍ مِتَلّ (١)\n(Ürəyi möhkəm, ayıq-sayıq... Qara atı boylu-buxunlu, öldürücü nizə ilə döndərirəm)\nDeyir ki: Onu döndərirəm, yanımda isə öldürücü nizə var.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

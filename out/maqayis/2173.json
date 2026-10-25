@@ -1,0 +1,17 @@
+{
+ "i": 2173,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شبك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 242,
+  "page_to": 242
+ },
+ "ar": "الشين والباء والكاف أصلٌ صحيح يدلُّ على تداخُل الشئ يقال شبَّكَ أصابعَه تشبيكاً. ويقال: بين القوم شُبْكةُ نَسَبٍ، أى مُداخَلة ومن ذلك الشَّبَكة.",
+ "az": "«شبك» (şəbək). Şin, ba və kaf hərfləri bir şeyin bir-birinə qarışmasına dəlalət edən səhih bir kökdür. Deyilir: شبَّكَ أصابعَه تشبيكاً (şəbbəkə əsabiəhu təşbikan) — barmaqlarını bir-birinə keçirdi. Deyilir: بين القوم شُبْكةُ نَسَبٍ (bəynəl-qövmü şubkətu nəسبٍ) — qövm arasında qohumluq qarışıqlığı (bağlılığı) vardır. Şَّبَكة (əş-şəbəkə — tor) də buradan götürülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

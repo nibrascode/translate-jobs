@@ -1,0 +1,17 @@
+{
+ "i": 1074,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خزو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 179,
+  "page_to": 179
+ },
+ "ar": "الخاء والزاء والحرف المعتل أصلان: أحدهما السياسة، والآخر الإبعاد.\nفأمَّا الأول فقولهم خَزَوتُهُ، إذا سُسْتَه. قال لبيد:\n* واخْزُهَا بالبِرِّ للّه الأجَلّ (٢) *\nوقال ذو الأصبع:\nلاهِ ابنُ عَمِّكَ لا أفْضَلْتَ فى حسبٍ … عَنِّى ولا أنتَ دَيّانِى فتخزونِى (٣)\nوأمَّا الآخَر فقولُهم: أخزَاهُ اللّه، أى أبعَدَه ومَقَتَه. والاسم الخِزْى. ومن هذا الباب قولهم خَزِى الرّجُل: استحيا مِنْ قُبْح فِعله خَزَايةً، فهو خَزيان؛ وذلك أنّه إذا فعل ذلك واستحيا تباعَدَ ونأى. قال جرير:\nوإنّ حِمًى لم يَحْمِهِ غيرُ فَرْتَنَى … وغيرُ ابنِ ذِى الكِيرَيْنِ خَزْيانُ ضائعُ (٤)",
+ "az": "[خزو] (خ, ز, və mötəbəl hərf): İki əsasdır: biri siyasət (idarəetmə), diğəri uzaqlaşdırmadır.\nBirinciyə gəldikdə, bu, onların خَزَوْتُهُ (xəzəvtuhu) sözüdür ki, onu idarə etdiyin zaman işlədilir. Ləbid demişdir:\n* وَاخْزُهَا بِالبِرِّ لِلَّهِ الأَجَلّ (٢) * (Və uca Allah üçün onu yaxşılıqla idarə et / siyasət et)\nZül-İsba demişdir:\nلَاهِ ابْنَ عَمِّكَ لَا أَفْضَلْتَ فِي حَسَبٍ … عَنِّي وَلَا أَنْتَ دَيَّانِي فَتَخْزُونِي (٣)\n(And olsun əmin oğluna ki, nə əsil-nəcabətdə məndən üstün olmusan, nə də sən mənim hökmdarımsan ki, mənə əmr edəsən)\nDigərinə gəldikdə isə, bu, onların أَخْزَاهُ اللَّهُ (əxzahu Allah) sözüdür, yəni Allah onu uzaqlaşdırdı və ona qəzəb etdi. İsim isə الخِزْي (əl-xizy) - rüsvayçılıqdır. Bu بابdan (bölmədən) kişinin خَزِيَ الرَّجُلُ (xəziyə ər-racül) sözüdür: pis əməlinə görə həya etdi, خَزَايَةً (xəzayətən) - rüsvay oldu, o, خَزْيَانُ (xəzyan) - həya edən/rüsvay olub. Çünki o, bunu edib həya etdikdə uzaqlaşdı və kənara çəkildi. Cərir demişdir:\nوَإِنَّ حِمًى لَمْ يَحْمِهِ غَيْرُ فَرْتَنَى … وَغَيْرُ ابْنِ ذِي الكِيرَيْنِ خَزْيَانُ ضَائِعُ (٤)\n(Övzalarını fərtənidən başqasının və iki körük sahibinin oğlundan başqasının qor inmediyi yer, həya içində itib-batandır)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

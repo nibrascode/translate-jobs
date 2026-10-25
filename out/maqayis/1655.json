@@ -1,0 +1,17 @@
+{
+ "i": 1655,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ربص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "الراء والباء والصاد أصلٌ واحدٌ يدلُّ على الانتظار. من ذلك التربُّص. يقال تربَّصْت به. وحكى السجِستانىّ: لى بالبصرة رُبْصة، ولى فى متاعى رُبْصة، أى لى فيه تربُّص.",
+ "az": "[ربص] «الراء» (ra), «الباء» (ba) və «الصاد» (sad) — gözləməyə (intizara) dəlalət edən tək bir əsasdır. Bunlardan biri «التَّرَبُّصُ» (tərəbbüs) olub. «ترَبَّصْتُ به» (ona qarşı gözlədim / intizardam) deyilir. Sistanlı nəql etmişdir: «لى بالبصرة رُبْصة، ولى فى متاعى رُبْصة» (Bəsrədə gözləməyim var, malımda gözləməyim var), yəni orada intizarım var.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:15.101Z"
+}

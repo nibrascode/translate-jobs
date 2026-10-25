@@ -1,0 +1,17 @@
+{
+ "i": 1134,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خمش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 218,
+  "page_to": 219
+ },
+ "ar": "الخاء والميم والشين أصلٌ * واحد، وهو الخَدْشُ وما قارَبَه\nيقال خَمَشْتُ خَمْشاً. والخُمُوش: جمع خَمْشٍ. قال:\nهاشمٌ جَدُّنا فإِن كَنْتِ غَضْبى … فامْلَئِى وجهَكِ الجميلَ خُمُوشا (١)\nوَالخَموش: البعوض. قال:\nكأنَّ وَغَى الخَمُوش بجانبيهِ … وَغَى رَكْبٍ أُمَيْمَ ذَوِى زِياطِ (٢)\nوالخُمَاشَة من الجِراحة والجمع خُماشاتٌ: ما كان منها ليس له أرْشٌ معلوم وهو قياس الباب، كأنَّ ذلك يكونُ كالخَدْشِ.",
+ "az": "[خمش] (X-M-Ş) Xa, mim və şin hərfləri tək bir kökdür və cızmaq və ona yaxın olan mənaları bildirir. Deyilir ki, xəməştu (خَمَشْتُ) xəmşən (cızdım). Xumuş (الخُمُوش): xəmşin cəmidir. O dedi: Haşim bizim babamızdır, əgər qəzəblisənsə... Gözəl üzünü cızıqlarla doldur (١). Xəmuş (الخَموش): ağcaqanaddır. O dedi: Sanki onun iki tərəfindəki xəmuşun vızıltısı... Üməymə, ziyaət (yolçuluq) əhli olan bir karvanın vızıltısı kimidir (٢). Xumaşə (الخُمَاشَة) yaradan, cəmi isə xumaşatdır (خُماشاتٌ): bu, dəyəri məlum olmayan cızıqlar kimidir. Bu, fəslin qiyasındadır, sanki bu cızıq kimidir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:12:39.173Z"
+}

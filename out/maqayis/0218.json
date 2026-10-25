@@ -1,0 +1,17 @@
+{
+ "i": 218,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بذخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 218,
+  "page_to": 218
+ },
+ "ar": "الباء والذال والخاء أصلٌ واحد، وهو العلُوّ والتعظُّم. يقال بَذَخَ إذا تَعَظَّمَ، وفلانٌ [فى] باذخٍ من الشَّرف أى عالٍ.",
+ "az": "[بذخ] الباء والذال والخاء (ba, zal və xa) bir əsl olub, ucalıq və təkəbbürlükdür. Deyilir: «بَذَخَ» (o təkəbbürləndi, ucaldı), və «فلانٌ [فى] باذخٍ من الشَّرف» — filankəs şərəfin ucalığındadır, yəni ucadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

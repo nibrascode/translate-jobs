@@ -1,0 +1,17 @@
+{
+ "i": 1541,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رفص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 422,
+  "page_to": 422
+ },
+ "ar": "الراء والفاء والصاد فيه كلمةٌ واحدة. يقولون: ارتَفَصَ السِّعْر: غَلَا. فأمّا الرُّفْصَة فالماءُ يكون بين القوم نَوْبةً. ويقال إنه مقلوب من الفُرْصة. يقال: هم يتفارصُون الماءَ بينهم ويترافصون، إذا تناوبوا. وقد كتب البابُ فى موضعه.",
+ "az": "[رفص] (ra, fa, sad). Onda tək bir kəlmə vardır. Deyirlər: «ارتَفَصَ السِّعْر» — qiymət bahalaşdı. «الرُّفْصَة» gəldikdə isə, o, tayfalar arasında növbə ilə olan sudur. Deyilir ki, o, «الفُرْصة» sözünün tərsinə çevrilmiş formasıdır. Deyilir: Onlar suyu öz aralarında növbələşirlər («يتفارصُون» və «يترافصون»). Bu fəsil öz yerində yazılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:31.379Z"
+}

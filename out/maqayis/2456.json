@@ -1,0 +1,17 @@
+{
+ "i": 2456,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 391,
+  "page_to": 391
+ },
+ "ar": "الضاد والجيم والميم أصلٌ صحيح يدل على عِوَج فى الشَّئ.\nفالضَّجَم: العِوَج. يقال تَضَاجَم الأمرُ بالقوم، إذا اختلف. والضَّجَم: اعوجاجٌ فى الأنف وأن يميل إلى أحد جانِبى الوجه. وضُبَيْعةُ أضجَمَ: قومٌ من العرب، كأنّ أباهم أضجم. ويقال الضَّجَم أيضاً اعوجاجُ المَنكِبَين.",
+ "az": "[ضجم] (Dad, cim və mim) bir şeydə əyriliyə dəlalət edən səhih bir kökdür. الضَّجَم (ad-dajam) – əyrilik. تَضَاجَم الأمرُ بالقوم (iş qövm üçün tadajam etdi) – onlar arasında fikir ayrılığı yarandıqda deyilir. الضَّجَم – burunda olan əyrilik və ya üzün iki tərəfindən birinə doğru meyil etməsidir. وضُبَيْعةُ أضجَمَ (Dubeylə Adcam) – ərəblərdən bir qövm, guya onların atası əyri idi. Həmçinin deilir ki, الضَّجَم – hər iki çiyinin əyriliyidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:29.015Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 733,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جيض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 499,
+  "page_to": 499
+ },
+ "ar": "الجيم والياء والضاد كلامٌ قليلٌ يدلُّ على جنسٍ من المشى (٢).\nيقال مشى مِشيةً جِيَضًّا (٣)، وهى مِشْيةٌ فيها اختيال. وجاضَ يَجِيض، إذا مَرَّ مرورَ الفارِّ.",
+ "az": "[جيض] — الجيم (Cim), الياء (Ya) və الضاد (Dad) – bir növ yerişi bildirən azsaylı kəlmələrdəndir (٢). Deyilir: مشى مِشيةً جِيَضًّا (٣) (Özündə təkəbbür olan bir yerişlə yeridi), və bu, içində lovğalıq olan yerişdir. وَجاضَ يَجِيض (Caizə kecdi, qaçdı), o, qaçanın keçib getdiyi kimi keçdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.101Z"
+}

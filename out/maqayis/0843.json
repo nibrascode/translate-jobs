@@ -1,0 +1,17 @@
+{
+ "i": 843,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حرك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 45,
+  "page_to": 45
+ },
+ "ar": "الحاء والراء والكاف أصلٌ واحد، فالحركة ضدُّ السكون.\nومن الباب الحارِكانِ، وهما ملتقى الكتِفَين، لأنَّهما لا يزالان يتحرَّكان.\nوكذلك الحراكيك، وهى الحراقِفُ، واحدتها حَرْكَكَة",
+ "az": "[حرك] (h-r-k). Ha, ra və kaf hərfləri tək bir əsasdır, حَرَكَة (hərəkah - hərəkət) sözü سُكُون (sukun - sükunət) sözünün əksidir.\nVə bu fəsildəndir الْحارِكانِ (əl-hərikani) – çiyinlərin birləşdiyi iki yer, çünki onlar daima hərəkətdədirlər. Həmçinin الْحراكيك (əl-hərakik) də bundandır, bunlar çanaq sümüyü və bud ətrafındakı sümüklərdir (əl-həraqif), tək növü isə حَرْكَكَة (hərkəkəh) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:50.460Z"
+}

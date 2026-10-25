@@ -1,0 +1,17 @@
+{
+ "i": 441,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 348,
+  "page_to": 348
+ },
+ "ar": "التاء والعين والباء كلمةٌ واحدة، وهو الإعياء حتَّى يقال:\nتَعِبَ تَعَباً، وهو تَعِبٌ، ولا يقال متعوبٌ. وأَتْعَبْتُه أنا إتعاباً. فأما قولهم أُتْعِبَ العظمُ، إذا هِيضَ بعد الجَبْرِ، فليس بأصلٍ، إنَّمَا هو مقلوبٌ من أُعْتِبَ. وقد ذُكِر فى بابه. قال:\nإذا ما رآها رَأْيَةً هِيضَ قَلْبُه … بها كانْهِيَاضِ المُتْعَبِ المتهشِّم (١)",
+ "az": "[تعب] (tə-%-b). Ta, ayn və ba hərfləri tək bir kəlmədir, o da yorğunluqdur, hətta deyilir: تَعِبَ تَعَباً (təibə təbən) — yoruldu, o, يورulmuşdur (تَعِبٌ), və «mətub» deyilmir. Və mən onu yorğulaşdırdım: أَتْعَبْتُه إتعاباً (ətbə-tuhu itbən). Amقa sümük sındıqdan sonra birləşdirilib yenidən sındıqda işlədilən «üt‘ibə-l-azmu» sözünə gəlincə, bu, əsl deyil, sadəcə «ü‘tibə» sözünün tərs çevrilmiş formasıdır. Bu, öz fəslində zikr edilmişdir. [Şair] demişdir: O qadını bir baxışla görən zaman qəlbi parçalandı... Yorulmuş və əzilmiş insanın parçalanması kimi (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

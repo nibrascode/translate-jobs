@@ -1,0 +1,17 @@
+{
+ "i": 1110,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 199,
+  "page_to": 200
+ },
+ "ar": "الخاء والطاء والراء أصلان: أحدهما القَدْر والمكانة، والثانى اضطرابٌ وحركة.\nفالأوّل قولهم لنظير الشئ خَطِيرُهُ (٢). ولِفلانٍ خَطَرٌ، أى منزلةٌ ومكانة تناظرُه وتصلُح لمِثْله.\nوالأصل الآخر قولهم: خَطر البعير بذنبه خَطَراناً. وخَطَرَ ببالى كذا خَطْراً، وذلك أن يمرَّ بقلبه بسرعةٍ لا لُبْثَ فيها ولا بُطْء. ويقال خَطَر فى مِشْيَته. ورجلٌ خَطَّارٌ بالرُّمح، أى مَشّاءُ بِهِ (٣) طعّان. قال:\n* مَصاليتُ خَطّارون بالرُّمح فى الوغَى (٤) *\nورمح خَطّارٌ: ذُو اهتِزازٍ. * وخَطَر الدّهر خَطرَانهُ، كما يقال ضَرَب ضَرَبانَه.\nوالخَطْرة: الذِّكرة. قال:\nبينما نحنُ بالبَلاكِثِ فالقا … عِ سِراعاً والعِيسُ تهوِى هُوِيَّا (١)\nخَطَرَتْ خَطْرَةٌ على القلب مِنْ ذِكراكِ وَهْناً فما استطعتُ مُضِيّا",
+ "az": "«خطر» — الخاء والطاء والراء (X, T, R) iki əsasdır: Biri qədr və məqam, ikincisi isə iztirab və hərəkətdir. Birincisi onların şeyin tayına خَطِيرُهُ (xətiruhu) deməsidir. Filankəsin خَطَر (xatər) var, yəni ona bərabər olan və onun tayına uyğun gələn mənzilə və məqamdır. Digər əsas isə onların: خَطر البعير بذنبه خَطَراناً (Dəvə quyruğunu buladı, bulamaq) deməsidir. Və خَطَرَ ببالى كذا خَطْراً (Filan şey qəlbimdən keçdi), bu da onun qəlbdən dayanmadan və ləngimədən sürətlə keçməsidir. Deyilir: خَطَر فى مِشْيَته (Yeriyəndə əsdirdi). Və رجلٌ خَطَّارٌ بالرُّمح (Nizə ilə hərəkət edən kişi), yəni onunla yeriyən və sancan deməkdir. Şair demişdir: * مَصاليتُ خَطّارون بالرُّمح فى الوغَى (٤) * (Qılıncları sıyıranlar, müharibədə nizə ilə gəzişənlər) Və رمح خَطّارٌ (xəttar nizə) — titrəyən, silkələnən deməkdir. Və خَطَر الدّهر خَطرَانهُ (Zəmanə öz hərəkəti ilə hərəkət etdi), necə ki, ضَرَب ضَرَبانَه (vurdu, vuruşunu etdi) deyilir. Və الخَطْرَة (əl-xatrə) — xatirə, yad etməkdir. Şair demişdir: بينما نحنُ بالبَلاكِثِ فالقا … عِ سِراعاً والعِيسُ تهوِى هُوِيَّا (١) (Biz Bəlakis düzənliyində sürətlə gedərkən, ağ dəvələr sürətlə uçurdu) خَطَرَتْ خَطْرَةٌ على القلب مِنْ ذِكراكِ وَهْناً فما استطعتُ مُضِيّا (Zəif bir vaxtda sənin xatirinlə qəlbimdən bir xatirə keçdi, artıq irəli gedə bilmədim)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:04.063Z"
+}

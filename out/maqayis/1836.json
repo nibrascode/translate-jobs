@@ -1,0 +1,17 @@
+{
+ "i": 1836,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 52,
+  "page_to": 52
+ },
+ "ar": "الزاء والراء والدال حرف واحد، وهو يدلُّ على الابتلاع، والزاء فيه مبدلةٌ من سين. يقال ازدَرَد اللقمة يَزْدَرِدها (١). وممكنٌ أن يكون الزَّرَد من هذا، على أن أصله السين، ومعنى الزّرَّاد السَّرَّاد.",
+ "az": "[زرد] (zə-rə-də): Zai, ra və dal hərflərindən ibarət tək bir hərfdir, o, udmaq mənasını bildirir və buradakı zai sin hərfinin əvəzinə işlənmişdir. Deyilir: «ازدَرَد اللقمة يَزْدَرِدها» (luqmanı uddu, udur) (1). Mümkündür ki, «الزَّرَد» də bundan olsun, lakin onun əsli sin hərfi üzrədir və «الزّرَّاد» sözünün mənası «السَّرَّاد» (zireh toxuyan) deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:43.941Z"
+}

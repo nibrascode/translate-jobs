@@ -1,0 +1,17 @@
+{
+ "i": 1633,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ريط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 467,
+  "page_to": 467
+ },
+ "ar": "الراء والياء والطاء كلمةٌ واحدة، وهى الرَّيطة، وهى كلُّ مُلاءةٍ لم تَكُ لِفْقين؛ والجمع رَيْط ورِياط.\nوحدثنى أبى عن أبى نصْرِ ابن أخْت اللَّيث بن إدريس، عن ابن السكّيت قال: يقال لكلِّ ثوب رقيق لبِّنٍ: رَيْطة.",
+ "az": "[ريط] الراء (الراء) və الياء (ياء) və الطاء (ta) — tək bir sözdür. O da ət-reytədir (الرَّيطة), bu da iki parçadan tikilməmiş hər hansı incə uzun parçadır (örtük, çarşab); cəmi رَيْط (reyt) və رِياط (riyat) gəlir. Atam mənə Əbu Nəsr ibn Uxt əl-Leys ibn İdrisdən, o da İbn əs-Sikkitdən rəvayət edərək dedi: Hər bir incə, yumşaq parçaya رَيْطة (reytə) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:27.039Z"
+}

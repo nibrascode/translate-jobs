@@ -1,0 +1,17 @@
+{
+ "i": 2576,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طسل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 457,
+  "page_to": 457
+ },
+ "ar": "الطاء * والسين واللام فيه كلمات، ولعلّها أن تكون صحيحة غير أنّها لا قِياس لها. يقولون: الطَّسْل: اضطراب السَّراب. والطَّيْسَل: الكثير، يقال ماءٌ طَيْسَل. ويقولون: الطَّيْسل: الغُبار.",
+ "az": "«طسل» (ط، س، ل) — burada bəzi kəlmələr vardır, ehtimal ki, səhihdir, lakin onların qiyas ölçüsü yoxdur. Deyirlər: اَلطَّسْل: sərabın dalğalanması, hərəkəti. اَلطَّيْسَل: çoxlu şey, məsələn, ماءٌ طَيْسَل (çox su). Həmçinin deyirlər ki, اَلطَّيْسل: toz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:13:55.069Z"
+}

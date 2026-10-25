@@ -1,0 +1,17 @@
+{
+ "i": 1945,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 110,
+  "page_to": 111
+ },
+ "ar": "السين والهاء واللام أصلٌ واحد يدلُّ على لينٍ وخلافِ\nحُزونة. والسَّهْل: خلاف الحَزْن. ويقال النّسبةُ إلى الأرض السَّهلة سُهْلىٌّ.\nويقال أسْهَلَ القومُ، إذا ركبوا السّهل. ونهرٌ سَهِلٌ: فيه سِهْلَةٌ، وهو رملٌ ليس بالدُّفَاق. وسُهَيْلٌ: نجم.",
+ "az": "[سهل] السين والهاء واللام (sin, ha və lam) — yumşaqlığa və sərtliyin (hüzunənin) ziddinə dəlalət edən tək bir əsldir. السَّهْل (əssəhl): sərtliyin (həzn) ziddi. Deyilir ki, hamar torpağa nisbət سُهْلىٌّ (suhliyy) olur.\nİnsanların əs-səhlə (hamar yerə) minməsi أسْهَلَ القومُ (əshələl-qövmü) deyilir. وَنَهْرٌ سَهِلٌ (və nəhrün səhilün): içində incə qum (sihlə) olan, lakin coşqun olmayan çaydır. وسُهَيْلٌ (və suheylün): ulduz adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1763,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 22,
+  "page_to": 23
+ },
+ "ar": "الزاء والميم والنون أصلٌ واحدٌ يدلُّ على وَقتٍ من الوقت.\nمن ذلك الزَّمان، وهو الحِين، قليلُه وكثيرُه. يقال زمانٌ وزَمَن، والجمع أزمانٌ وأزمنَة. قال الشَّاعر فى الزّمن:\nوكنتُ امرأً زَمَنًا بالعرَاقِ … عَفِيف المُناخِ طويلَ التَّغَنّ (٣)\nوقال فى الأزمان:\nأزمانَ لَيْلَى عامَ لَيْلَى وَحَمِى (٤)\nويقولون: «لقيتُه ذات الزُّمَيْن» يُراد بذلك تَراخِى المُدّة. فأما الزّمانة التى تصِيب الإنسانَ فتُقْعده، فالأصلُ فيها الضّاد، وهى الضَّمَانة. وقد كُتِبَتْ بقياسها فى الضّاد.",
+ "az": "[زمن] الزاء والميم والنون أصلٌ واحدٌ يدلُّ على وَقتٍ من الوقت (Zə, mim və nun vaxtlardan bir vaxta dəlalət edən vahid bir əsldir). من ذلك الزَّمان، وهو الحِين، قليلُه وكثيرُه (Ondandır əz-zəman, o da azı və çoxu ilə zaman kəsiyidir). يقال زمانٌ وزَمَن، والجمع أزمانٌ وأزمنَة (Zəman və zəmən deyilir, cəmi isə əzman və əzminədir). قال الشَّاعر فى الزّمن: وكنتُ امرأً زَمَنًا بالعرَاقِ … عَفِيف المُناخِ طويلَ التَّغَنّ (٣) (Şair zəmən haqqında demişdir: «Mən İraqda zaman-zaman bir kişi olmuuşam... yatağı təmiz, uzun-uzadı nəğmə deyən» [şer]). وقال فى الأزمان: أزمانَ لَيْلَى عامَ لَيْلَى وَحَمِى (٤) (Və əzman haqqında demişdir: «Leylanın zamanında, Leylanın ili və Həmidə» [şer]). ويقولون: «لقيتُه ذات الزُّمَيْن» يُراد بذلك تَراخِى المُدّة (Və deyirlər: «Onu züməyn dəstəsində gördüm», bununla müddətin uzanması qəsd edilir). فأمَّا الزّمانة التى تصِيب الإنسانَ فتُقْعده، فالأصلُ فيها الضّاد، وهى الضَّمَانة (Amma insana üz verib onu oturtan zəmanətə (iflicə) gəldikdə, onun əsli dad hərfi ilədir, o da zəmanətdir). وقد كُتِبَتْ بقياسها فى الضّاد (Və o, dad hərfi üzrə öz ölçüsü ilə yazılmışdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:57.983Z"
+}

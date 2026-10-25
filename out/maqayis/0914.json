@@ -1,0 +1,17 @@
+{
+ "i": 914,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حقن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 88,
+  "page_to": 88
+ },
+ "ar": "الحاء والقاف والنون أصلٌ واحد، وهو جَمْع الشئ.\nيقال لكلّ شئِ [جُمِعَ (٤)] وشُدَّ حقين. ولذلك سُمِّى حابسُ اللبن حاقنا.\nويقال اللبن الحَقِين الذى صُبَّ حليبُه على رائبِه. والحواقن: ما سفَل عن البطن.\nوقال قوم: الحاقنتان ما تحت التّرقُوَتَين.",
+ "az": "«حقن» (saxlamaq, toplamaq). Ḥa, qaf və nun bir əsl olub, bir şeyi toplamaq deməkdir. Toplanmış və bağlanmış hər bir şeyə «حقين» (ḥəqin) deyilir. Buna görə də südü saxlayan kəsə «حاقن» (ḥaqin) adı verilmişdir. «اللبن الحَقِين» (ḥəqin süd) — çiy südü qatılaşmış südün üzərinə tökülən süddür. «الحواقن» (əl-ḥavəqin) — qarnın aşağı hissəsidir. Bir qrup insanlar demişlər: «الحاقنتان» (əl-ḥaqinətan) — körpücük sümüklərinin altındakı hissədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:33.899Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2356,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صدف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 338,
+  "page_to": 339
+ },
+ "ar": "الصاد والدال والفاء أصلان: [الأوّل] يدلُّ على المَيْلِ، والثانى عَرَضٌ من الأعراض.\nفالأوّل قولهم: صَدَف عن الشئ، إذا مال * عنه وولَّى ذاهباً. قال اللّه تعالى:\n﴿سَنَجْزِي اَلَّذِينَ يَصْدِفُونَ عَنْ آياتِنا﴾. والصَّدَف من البعير: أن يميل خُفُّهُ من\nاليد أو الرِّجْل إلى الجانب الوَحشىّ (١)؛ وقد صَدِفَ. ويقال للإٍبل التى تقف عند أعجاز الإبل على الحوض تنتظر انصرافَ الشّاربةِ لتدخُل: هى الصَّوادف. قال:\nالنّاظراتُ العُقَبَ الصَّوادفُ (٢)\nوالصَّدَف: جانب الجبَل، وإنما سُمِّى لميْله إلى إحدى الجِهَتين\nوأمّا الآخر فالصَّدَف المَحَارة، هى معروفة.",
+ "az": "[صدف] (Sədəf). Sad, dal və fa hərfləri iki əsasdır: [birincisi] meyl etməyə, ikincisi isə ərizlərə (arazlara) dəlalət edir. Birincisi onların «صَدَف عن الشئ» sözüdür; yəni bir şeydən üz döndərib uzaqlaşdı və yana meyl etdi. Uca Allah buyurmuşdur: mənaca tərcümə: «Ayələrimizdən üz döndərənləri [meyl edənləri] tezliklə cəzalandıracağıq» ﴿سَنَجZِي اَلَّذِينَ يَصْدِفُونَ عَنْ آياتِنا﴾. Dəvənin “sədəf”i — onun əlinin və ya ayağının dırnağının çöl tərəfə meyl etməsidir (١); bu zaman dəvə “sədifə” olur. Su anbarının yanında durub, su içənlərin qayıdıb içəri girməsini gözləyən dəvələrə “səvədif” [الصَّوادف] deyilir. Şair demişdir: Növbə gözləyən su üstündəki dəvələr (٢). “Sədəf” — dağın yamacıdır, iki tərəfdən birinə meyl etdiyi üçün belə adlandırılmışdır. İkincisinə gəlincə, “sədəf” — sədəf qabığıdır, hamıya məlumdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.589Z"
+}

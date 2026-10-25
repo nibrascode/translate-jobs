@@ -1,0 +1,17 @@
+{
+ "i": 2372,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 355,
+  "page_to": 355
+ },
+ "ar": "الضاد والغين ليس بشئ، ولا هو أصلاً يفرّع منه أو يقاس عليه، لكنَّهم يقولون: إنَّ الضَّغْضَغة: حكايةُ أكلِ الذئب اللحْم. وقال الخليل: الضَّغْضغة: لوك الدَّرداء. ويقولون: الضَّغَّاغة (٢): الأحمق. والضغيعة:\nالعجين * الرَّقيق. وأقاموا فى عيشٍ ضغيغٍ، أى خَصيب. وليس هذا كلُّه بشئٍ وإنْ ذُكِر.",
+ "az": "[ضغ] (ض، غ) — Heç bir əsası yoxdur, nə ondan bir qol budaqlanır, nə də ona qiyas edilir. Lakin deyirlər ki, الضَّغْضغة (əz-dağdağa): qurdun əti yeməsinin səsini ifadə edir. Xəlil demişdir: الضَّغْضغة — dişsiz adamın çeynəməsidir. Deyirlər: الضَّغَّاغة (əz-dağğağa) — axmaq. Və الضغيعة (əz-dağiə) — nazik xəmir. Onlar zəngin və firavan həyatda yaşayırlar mənasında أقاموا فى عيشٍ ضغيغٍ işlədirlər. Hərçənd zikr olunmuşsa da, bunların heç biri əsaslı deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.777Z"
+}

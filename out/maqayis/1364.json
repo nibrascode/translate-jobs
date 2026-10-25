@@ -1,0 +1,17 @@
+{
+ "i": 1364,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دحر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "الدال والحاء والراء أصلٌ واحد، وهو الطَّرد والإبعاد.\nقال اللّه تعالى: ﴿اُخْرُجْ مِنْها مَذْؤُماً مَدْحُوراً (١﴾.",
+ "az": "[دحر] الدال والحاء والراء أصلٌ واحد، وهو الطَّرد والإبعاد. (الدال, hə və ra – tək bir əsasdır, o da qovmaq və uzaqlaşdırmaqdır). Uca Allah buyurmuşdur: ﴿اُخْرُجْ مِنْها مَذْؤُماً مَدْحُوراً﴾ [mənaca tərcümə: Oradan qınanmış və qovulmuş halda çıx get!] (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

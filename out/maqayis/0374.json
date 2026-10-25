@@ -1,0 +1,17 @@
+{
+ "i": 374,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزمخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "ومن ذلك قولهم (بَزْمَخَ) الرّجُل إذا تكبَّر. وهى منحوتةٌ من قولهم زَمَخَ إذا شَمَخ بأنفه، وهو زَامِخٌ، ومن قولهم بَزِخَ إذا تَقَاعَسَ، ومَشَى مُتَبازِخاً إذا تكلفَ إقامَةَ صُلْبِه. وقد فُسِّرَ.",
+ "az": "[بزمخ] (Bə-zə-mim-xa) Buradan onların «بَزْمَخَ الرّجُل» (bəzməhər-rəcul - kişi təkəbbürləndi) ifadəsi gəlir. Bu, onların «زَمَخَ» (zəməhə - burnunu dik tutdu) kəlməsindən nəht edilmişdir, o «زَامِخٌ» (zami-hun - təkəbbürlü) deməkdir. Həmçinin «بَزِخَ» (bəzi-hə - geri çəkildi) kəlməsindən, «مَشَى مُتَبازِخاً» (məşa mutəbazi-hən - belini dik tutmağa çalışaraq yeridi) ifadəsi də buradandır. Bu izah edilmişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

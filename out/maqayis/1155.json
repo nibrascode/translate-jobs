@@ -1,0 +1,17 @@
+{
+ "i": 1155,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خور",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 227,
+  "page_to": 228
+ },
+ "ar": "الخاء والواو والراء أصلان: أحدهما يدلُّ على صوت، والآخَر على ضَعْف.\nفالأوّل قولُهم خار الثَّور يخور، وذلك صوتُه. قال اللّه تعالى: ﴿فَأَخْرَجَ لَهُمْ عِجْلاً جَسَداً لَهُ خُوارٌ﴾.\nوأمّا الآخر فالخَوَّار: الضعيفُ مِنْ كلِّ شئ. يقال رُمْحٌ خوّارٌ، وأرضٌ خَوّارةٌ، وجمعه خُورٌ. قال الطِّرِمّاح:\nأنا ابنُ حماةِ المَجْد من آلِ مالك … إذا جعلَتْ خُور الرِّجال تَهِيعُ (١)\nوأمَّا قولهم للناقة العزِيزة خَوّارةٌ والجمع خُورٌ، فهو من الباب؛ لأنّها إذا لم تكن عَزُوزاً - والعَزُوز: الضيِّقة الإحليل، مشتقّة من الأرض العَزَاز - فهى حينئذ خَوّارةٌ، إذْ كانت الشّدَّة قد زايلَتْها.",
+ "az": "«خور»: الخاء، الواو və الراء — iki əsas mənaya dəlalət edir: biri səsə, digəri isə zəifliyə. Birincisi, onların «خار الثَّور يخور» (öküz bağırdı, bağırır) demələridir və bu, onun səsidir. Uca Allah buyurmuşdur: mənaca tərcümə: «Onlardan ötrü bir buzov – səsi olan bir cəsəd çıxardı». İkincisinə gəldikdə, «الخَوَّار» (əl-xəvvar) — hər şeyin zəifidir. Deyilir: «رُمْحٌ خوّارٌ» (zəif nizə), «أرضٌ خَوّارةٌ» (zəif, yumşaq torpaq) və cəmi «خُورٌ» (xur) gəlir. Ət-Tirimmah demişdir: «Mən Məlik nəslindən olan şərəf müdafiəçilərinin oğluyam... igidlərin zəifləri qaçıb səpələnməyə başladığı zaman (١)». Qürrəti-göz (əziz) dəvəyə «خَوَّارةٌ» (xəvvarə) və cəminə «خُورٌ» (xur) deyilmələrinə gəldikdə, bu da həmin fəsildəndir; çünki o, «عَزُوز» (əzuz — dar mənsəbli, «əl-əzaz» yerindən törəmiş dözümlü dəvə) olmasa, deməli, o zaman xəvvarədir, çünki şiddət ondan uzaqlaşmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

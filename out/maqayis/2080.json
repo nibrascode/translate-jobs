@@ -1,0 +1,17 @@
+{
+ "i": 2080,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 195,
+  "page_to": 195
+ },
+ "ar": "الشين والغين والميم أصلٌ قليلُ الفروع صحيح، يدلُّ على حُسن. يقال الشُّغْموم: الحَسن. والشُّغموم: المرأة الحَسْناء. والشُّغموم من الإبل:\nالحسن المنظرِ التامُّ.",
+ "az": "[شغم] (şəğəm) — Şin, ğayn və mim azfروعli (budaqsız), səhih bir kök olub gözəlliyə dəlalət edir. «الشُّغْموم» (əş-şuğmum) — gözəl deməkdir. «الشُّغْموم» (əş-şuğmum) — gözəl qadın. Dəvələrdən olan «الشُّغْموم» (əş-şuğmum) — görünüşü gözəl və tam olan deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:46.481Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 149,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 154,
+  "page_to": 155
+ },
+ "ar": "الهمزة والواو والدال أصلٌ واحد، وهو العطف والانثناء.\nأُدْتُ الشئَ عطفتُه. وتأوّدَ النَّبْتُ مثلُ تعطَّفَ وتعوَّج. قال شاعر (٧):\nفلو أنَّ ما أبقيتِ مِنِّى معلَّقٌ … بعْود ثُمامٍ ما تأوّدَ عُودُها\nوإلى هذا يرجع آدَنِى الشئُ يؤُودُنى، كأَنّه ثقُل عليك حتى ثَنّاك وعَطَفَك.\nوأَوْدٌ قَبيلة، ويمكن أن يكون اشتقاقها من هذا. وأود موضع. قال:\nأَهَوّى أَرَاكَ برامَتَيْنِ وَقُودَا … أم بالجُنَيْنَةِ من مَدَافعِ أُودَا (١)",
+ "az": "[أود]\nHəmzə, vav və dəl bir əsldir, o da əyilmək və bükülmək mənasındadır.\n«أُدْتُ الشئَ» — bir şeyi əydim. Bitki əyilib büküldükdə «تأوّدَ النَّبْتُ» deyilir, yəni «تعطَّفَ وتعوَّج». Şair (٧) demişdir:\nفلو أنَّ ما أبقيتِ مِنِّى معلَّقٌ … بعْود ثُمامٍ ما تأوّدَ عُودُها\n(Mənası: \"Əgər məndən geriyə saxladığın o azacıq can bir sumam kolunun budağından asılsaydı, onun budağı əyilməzdi belə.\")\n«آدَنِى الشئُ يؤُودُنى» (Bu şey mənə ağır gəldi, məni əzdi) ifadəsi də buna qayıdır; sanki sənə o qədər ağır gəlmişdir ki, səni bükmüş və əymişdir.\n«أَوْد» (Əvd) bir qəbilədir; mümkündür ki, adı buradan törəmiş olsun. «أود» həm də bir yer adıdır. Şair demişdir:\nأَهَوّى أَرَاكَ برامَتَيْنِ وَقُودَا … أم بالجُنَيْنَةِ من مَدَافعِ أُودَا (١)\n(Mənası: \"Gördüyüm o alov Ramətəyndə yandırılan bir eşq atəşidirmi, yoxsa Əvd vadilərindən Cuneynədəki atəşmi?\")",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-25T00:24:02.095Z"
+}

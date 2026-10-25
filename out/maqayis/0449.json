@@ -1,0 +1,17 @@
+{
+ "i": 449,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تفح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 350,
+  "page_to": 350
+ },
+ "ar": "التاء والفاء والحاء كلمة واحدة، وهى التُّفَّاح.",
+ "az": "[تفح] (tə-f-h). Ta, fa və ha hərfləri tək bir kəlmədir, o da ət-tüffah (alma) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

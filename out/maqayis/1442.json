@@ -1,0 +1,17 @@
+{
+ "i": 1442,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 375,
+  "page_to": 375
+ },
+ "ar": "الراء والطاء ليس هو بأصلٍ عندنا يقولون: الرَّطيط: الجَلَبة والصِّياح. وأَرَطَّ، إذا جَلَّب (٢). ويقال الرَّطيط: الأحمق. ويقال الإرْطاط:\nاللُّزوم (٣). وفى كلِّ ذلك نَظرٌ.",
+ "az": "[رط] الراء (ra) və الطاء (ta) hərfləri bizə görə bir kök deyildir. Deyirlər ki, الرَّطيط (ər-rətit): səs-küy və qışqırıq. أَرَطَّ (ərətta) - səs-küy saldıqda deyilir (٢). Deyilir ki, الرَّطيط (ər-rətit): axmaq. Deyilir ki, الإرْطاط (əl-irtat): yapışmaq (٣). Bütün bunlarda nəzər (mübahisə) vardır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:25:01.822Z"
+}

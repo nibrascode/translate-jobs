@@ -1,0 +1,17 @@
+{
+ "i": 766,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 508,
+  "page_to": 508
+ },
+ "ar": "ومن ذلك قولهم للوحشىِّ إذا تَقَبَّض فى وِجاره (تَجَرْجَمَ)، والجيم الأولى زائدةٌ، وإنما هو من قولنا للحجارة المجتمعة رُجْمَةٌ. وأوضَحُ من هذا قولهم للقَبْر الرَّجَم، فكأنَّ الوحشىَّ لمّا صار فى وِجاره صار فى قبرٍ.",
+ "az": "«جرجم» - Və buraya səhra heyvanı öz yuvasında qısılıb yığıldıqda «تَجَرْجَمَ» (təcərcəmə) deyilməsi daxildir; birinci cim hərfi artıqdır (zayiddir), əslində bu, yığılmış daşlar üçün işlətdiyimiz «رُجْمَةٌ» (rücmə) sözündəndir. Bundan daha aydın olanı isə qəbirə «الرَّجَم» (rəcəm) demələridir; sanki səhra heyvanı yuvasına girəndə qəbirə girmiş kimi olmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.217Z"
+}

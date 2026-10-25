@@ -1,0 +1,17 @@
+{
+ "i": 2540,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 435,
+  "page_to": 436
+ },
+ "ar": "الطاء والياء والراء أصل واحد يدلّ على خِفّة الشّئ فى الهواء.\nثمّ يستعار ذلك فى غيرِه وفى كلِّ سُرعة. من ذلك الطَّير: جمع طائر، سمِّى ذلك لما قُلناه. يقال طار يَطير طيَراناً. ثمَّ يقال لكلِّ مَنْ خفّ: قد طار.\nقال رسول اللّه ﵌: «خيرُ النَّاس رجلٌ مُمْسِكٌ بعِنان فرسِه فى سبيل اللّه، كلَّما سمِع هَيْعَةً طار إليها». وقال:\nفطِرنَا إليهم بالقنابل والقَنَا\nويقال مِنْ هذا: تطايَرَ الشّئُ: تفرَّق. واستطار الفجر: انتشر. وكذلك كلُّ منتشِر. قال اللّه تعالى: ﴿يَخافُونَ يَوْماً كانَ شَرُّهُ مُسْتَطِيراً﴾. فأمّا قولهم:\nتطيَّر من الشئ، فاشتقاقه من الطَّير كالغراب وما أشبهه. ومن الباب: طائر الإنسان، وهو عَملُه. وبئر مُطارَةٌ، إذا كانت واسعة الفم. قال:\nهُوِىُّ الرِّيح فى جَفْرٍ مُطارِ (١)\nومن الباب: الطَّيْرة: الغضَب، وسمِّى كذا لأنَّه يُستَطار له الإنسان.\nومن الباب قولهم: خذ ما تطايَرَ من شعر رأسك، أى طال. قال:\nوطارَ جِنّىُّ السَّنَامِ الأطْوَلِ (٢)",
+ "az": "[طير] (T-Y-R): Ta, ya və ra hərfləri bir düzgün kökdür, bir şeyin havada yüngüllüyünə dəlalət edir. Sonra bu, başqasına və hər cür sürətə məcazən işlədilir. Bunlardan الطَّير (quşlar): الطائر-in cəmidir, dediyimizə görə belə adlandırılmışdır. Deyilir ki, طار يَطير طيَراناً (uçdu, uçuş). Sonra yüngül olan hər kəs üçün deyilir: قد طار (uçdu). Rəsulullah (s.ə.v.) buyurdu: «İnsanların xeyirlisi, Allah yolunda atının cilovundan tutan kimsədir, hər nə vaxt bir qorxu səsi eşitsə, ona tərəf uçur (sürətlə gedir)». Və dedi: فطِرنَا إليهم بالقنابل والقَنَا (Biz onlara bombalar və nizələrlə uçduq). Bundan deyilir: تطايَرَ الشّئُ (şey dağıldı): Pərakəndə oldu. استطار الفجر (dan yeri ağardı): Yayıldı. Həmçinin yayılan hər şey. Allah təala buyurur: ﴿يَخافُونَ يَوْماً كانَ شَرُّهُ مُسْتَطِيراً﴾ (Onlar şəri yayılan bir gündən qorxurlar). Onların تطيَّر من الشئ (bir şeydən uğursuzluq çıxardı) sözlərinə gəlincə, onun kökü quşdan, qarğa və ona bənzəyənlərdən törəmişdir. Bu kökdəndir: İnsanın طائر-i (taleyi), yəni onun əməlidir. بئر مُطارَةٌ (geniş quyu), əgər ağzı genişdirsə. Dedi: هُوِىُّ الرِّيح فى جَفْرٍ مُطارِ (1) (Küləyin geniş bir quyuda əsməsi). Bu kökdəndir: الطَّيْرة (qəzəb), belə adlandırıldı, çünki insan onun üçün uçurulur (həyəcanlanır). Bu kökdəndir onların: خذ ما تطايَرَ من شعر رأسك (başının saçından uzananı götür) demələri, yəni uzandı. Dedi: وطارَ جِنّىُّ السَّنَامِ الأطْوَلِ (2) (Və ən uzun hörgücün cini uçdu).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:11:32.879Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2345,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صحن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 335,
+  "page_to": 335
+ },
+ "ar": "الصاد والحاء والنون أصَيلٌ يدلُّ على اتّساعٍ فى شئ.\nمن ذلك الصَّحْن: وَسْط الدَّار. ويقولون: جَوْبَة تنجاب فى الحَرَّة. وبذلك شُبِّه العُسُّ العظيم فقيل له صَحْن.\nومما شَذَّ عن الباب قولهم: صَحَنْتُ بينَ القوم، إذا أصلحتَ بينهم.\nوربَّما قالوا صحنتُه شيئاً، إذا أعطيتَه. ويقولون: صَحَنَه صَحَناتٍ، أى ضَرَبَه ضَرَبات. وناقةٌ صَحُونٌ، أى رَمُوح.",
+ "az": "[صحن] «الصاد» (sad), «Hə» (ha) və «Nun» (nun) bir şeydə genişliyə dəlalət edən kiçik bir kökdür. Bunlardan biri «الصَّحْن» (əs-səhn) — evin ortasıdır (həyət). Deyirlər: «جَوْبَة تنجاب فى الحَرَّة» (daşlıqda açılan boşluq). Buna bənzadılaraq böyük kasa dəməsinə də «صَحْن» (səhn) demişlər. Bu qapıdan istisna olunan isə onların صَحَنْتُ بينَ القوم (qövmün arasını düzəltdim) — yəni onların arasını islah etdin sözüdür. Bəzən də صَحَنْتُه شيئاً (ona bir şey verdim) deyirlər. Və deyirlər: صَحَنَه صَحَناتٍ — yəni onu bir neçə zərbə ilə vurdu. «ناقةٌ صَحُونٌ» (səhun dişi dəvə) — yəni tepik atan (çifte vuran).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

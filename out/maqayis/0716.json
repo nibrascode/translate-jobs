@@ -1,0 +1,17 @@
+{
+ "i": 716,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جوخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 492,
+  "page_to": 493
+ },
+ "ar": "الجيم والواو والخاء ليس أصلاً هو عندى؛ لأنّ بعضه معرَّب، وفى بعضِه نظر. فإنْ كان صحيحاً فهو جنسٌ من الخَرْق. يقال جَاخَ السَّيْلُ الوادِىَ يجُوخُه، إذا قلع أَجرافَه. قال\n* فللصَّخِر من جَوْخِ السّيُولِ وجيبُ (١) *\nذكره ابن دريد، وذكر غيره: تجوَّخَتِ البئرُ انهارَت.\nوالمعرّب من ذلك الجَوْخَان، وهو البيدر (٢).",
+ "az": "[جوخ] — الجيم (Cim) və الواو (Vav) və الخاء (Xə) hərflərinin mənim yanımda əsli yoxdur; çünki bunların bir qismi əcnəbi sözdür (mərəbb), bir qismində isə nəzər (müzakirə yeri) vardır. Əgər səhihdirsə, o zaman bu, bir növ yırtıqdır. Deyilir ki: جَاخَ السَّيْلُ الوادِىَ يجُوخُه (Sel vadinin kənarlarını qopardı). [Şair] demişdir: * فللصَّخِر من جَوْخِ السّيُولِ وجيبُ (١) * (Daşın sel yatağından gələn yarığı və cibİ vardır). Bunu İbn Dureyd qeyd etmişdir. Başqası isə qeyd etmişdir: تجوَّخَتِ البئرُ (quyucuq uçdu). Bunlardan əcnəbi olan جَوْخَان (cövxan) sözüdür ki, o da xırmandır (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

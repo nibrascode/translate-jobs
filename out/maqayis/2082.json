@@ -1,0 +1,17 @@
+{
+ "i": 2082,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شغو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 196,
+  "page_to": 196
+ },
+ "ar": "الشين والغين والحرف المعتل أصلٌ صحيح يدلُّ على عَيب فى الخِلْقة لبعض الأعضاء. قالوا: الشغُوُّ، من قولك رجلٌ أشغى وامرأة شَغْواء، وذلك إذا كانت أسنانه العُليا تتقدم السُّفْلَى. وقال الخليل: الشَّغا: اختلاف الأسنان، ومنه يقال للعُقاب شَغْواء، وذلك لفَضْل منقارها الأعلى على الأسفل. وزعم ناسٌ أنّ الشَّغاَ الزيادةُ على عدد الأسنان.",
+ "az": "[شغو] (şəğv) — Şin, ğayn və mötəbər hərf bəzi üzvlərin xilqətindəki qüsura dəlalət edən səhih bir kökdür. Dedilər: «الشَّغُوُّ» (əş-şəğuvv) — «رجل أشغى» (kişi aşğə) və «امرأة شَغْواء» (qadın şəğva) deməyinizdən ibarətdir, bu da üst dişlərin alt dişləri qabaqladığı zaman olur. Xəlil dedi: «الشَّغا» (əş-şəğə) — dişlərin bir-birindən fərqli və uyğunsuz olmasıdır, məhz bundan qartala «شَغْواء» (şəğva) deyilir, bu da onun üst dimdiyinin aşağı dimdiyindən uzun (artıq) olmasına görədir. Bəzi adamlar iddia etmişlər ki, «الشَّغا» (əş-şəğə) — dişlərin sayından artıq olmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:46.481Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1730,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 10,
+  "page_to": 11
+ },
+ "ar": "الزاء والعين والميم أصلان: أحدهما القولُ من غير صِحَّةٍ ولا يقين، والآخر التكفُّل بالشئ.\nفالأوّل الزَّعْم والزُّعْم (١). وهذا القولُ على غير صحّة. قال اللّه جلّ ثناؤُه:\n﴿زَعَمَ اَلَّذِينَ كَفَرُوا أَنْ لَنْ يُبْعَثُوا﴾. وقال الشَّاعر (٢):\nزَعمتْ غُدانَةُ أنَّ فيها سيّدا … ضَخْماً يُوَارِيهِ جَناحُ الجُنْدَبِ\nومن الباب: زَعَم فى غير مَزْعَم، أى طمِع فى غير مَطْمَع. قال:\nزَعْمًا لعَمْرُ أبيكِ ليس بمَزْعَمِ (٣)\nومن الباب الزَّعُوم، وهى الجَزُور التى يُشَكُّ فى سِمنها فتُغْبَطُ بالأيدى (٤).\nوالتَّزَعُّم: الكذب.\nوالأصل الآخر: زَعَم بالشّئ، إذا كَفَلَ به. قال:\nتعاتِبُنى فى الرِّزْق عِرسى وإنّما … على اللّه أرزاقُ العبادِ كما زَعَمْ (٥)\nأى كما كَفل. ومن الباب الزَّعَامة، وهى السيِّادة؛ لأنّ السيِّد يَزْعُمُ بالأمور،\nأى يتكفَّل بها. وأصدَقُ مِنْ ذلك قولُ اللّه جلَّ ثناؤُه: ﴿قالُوا نَفْقِدُ صُواعَ اَلْمَلِكِ وَلِمَنْ جاءَ بِهِ حِمْلُ بَعِيرٍ وَأَنَا بِهِ زَعِيمٌ﴾. ويقال الزَّعامة حَظّ السيِّد من ٣٠٧ المَغْنَم، ويقال بل هى أفضل المال. قال لبيد:\nتَطيِر عَدائِدُ الإشراكِ وَتْرًا … وشَفْعًا والزَّعامةُ للغُلامِ (١)",
+ "az": "«زعم» — Zae, ayn və mim iki kökdür: Biri həqiqət və yəqinlik olmadan deyilən söz, diğəri isə bir şeyi öhdəsinə götürməkdir. Birincisi: «الزَّعْم» və «الزُّعْم» (iddia, zənn). Bu söz həqiqət olmadan deyilən sözdür. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿Kafir olanlar heç vaxt dirilməyəcəklərini iddia etdilər﴾. Şair demişdir: «زَعمتْ غُدانَةُ أنَّ فيها سيّدا … ضَخْماً يُوَارِيهِ جَناحُ الجُنْدَبِ» (Ğüdanə qəbiləsi iddia etdi ki, aralarında çəyirtkə qanadının örtəcəyi qədər iri bir ağaları var). Bu babdan: «زَعَم فى غير مَزْعَم» — heç bir ümid yeri olmadığı halda tamah saldı. Şair demişdir: «زَعْمًا لعَمْرُ أبيكِ ليس بمَزْعَمِ» (Sənin atanın rejiminə yand olsun ki, bu, əsla ümid yeri deyildir). Bu babdan «الزَّعُوم» — kök sütündə şəkk edilən, lakin əllərlə yoxlanılaraq yaxşı olduğu zənn edilən dəvədir. «التَّزَعُّم» — yalandır. Digər kök: «زَعَم بالشّئ» — bir şeyi öhdəsinə götürdükdə deyilir. Şair demişdir: «تعاتِبُنى فى الرِّزْق عِرسى وإنّما … على اللّه أرزاقُ العبادِ كما زَعَمْ» (Arvadım ruziyə görə məni qınayır, lakin bəndələrin ruzisi zənn etdiyi kimi Allahdadır), yəni öhdəsinə götürdüyü kimi. Bu babdan «الزَّعَامة» — sərvətdir, çünki başçı işləri öz üzərinə götürür, yəni öhdəsinə alandır. Bundan daha doğru olanı Uca Allahın sözüdür: mənaca tərcümə: ﴿Dedilər: Padşahın su qabını itirmişik. Onu gətirənə bir dəvə yükü veriləcək, mən buna zaminəm﴾. Deyilir ki, «الزَّعامة» — qənimətdən başçının payıdır, başqaları deyir ki, o, malın ən yaxşısıdır. Ləbid demişdir: «تَطيِر عَدائِدُ الإشراكِ وَتْرًا … وشَفْعًا والزَّعامةُ للغُلامِ» (Şirk payları tək-tək və cüt-cüt uçub gedir, başçılıq isə gənc oğlana qalır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:48.690Z"
+}

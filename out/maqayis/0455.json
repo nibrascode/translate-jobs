@@ -1,0 +1,17 @@
+{
+ "i": 455,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 353,
+  "page_to": 353
+ },
+ "ar": "التاء واللام والفاء كلمةٌ واحدةٌ، وهو ذَهابُ الشئِ. يقال تَلِفَ يَتْلَفُ تَلَفاً. وأرْضٌ مَتْلَفَة، والجمع متالِف.",
+ "az": "[تلف] (tə-lə-f) - Tə, lam və fa tək bir kəlmədir, o da bir şeyin yox olması, məhv olması deməkdir. «تَلِفَ يَتْلَفُ تَلَفاً» (məhv oldu, məhv olur, məhv olmaq) deyilir. «أرْضٌ مَتْلَفَة» (tələf olunan, təhlükəli yer), cəmi isə «ماتالِفُ» (matalif) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.996Z"
+}

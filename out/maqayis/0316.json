@@ -1,0 +1,17 @@
+{
+ "i": 316,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بنى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 302,
+  "page_to": 303
+ },
+ "ar": "الباء والنون والياء * أصلٌ واحد، وهو بِناءٌ الشَئ بِضَمِّ بعضِه إِلى بعضٍ. تقول بَنَيْتُ البناءَ أبنِيه. وتسمَّى مكةُ البَنِيّة. ويقال قوس بَانِيةٌ، وهى التى بنَتْ على وَتَرِها، وذلك أنْ يكاد وتَرُها ينقطع للُصُوقه بها. وطيّىٌ تقول مكانَ بانيةٍ: بَانَاةٌ؛ وهو قول امرئ القيس:\n* غَيْرِ بَانَاة عَلَى وَتَرِهْ (٢) *\nويقال بُنْيَةٌ وَبُنًى، وبِنْيَة وبِنًى بكسر الباء كما يقال: جِزية وجِزًى، ومِشيَةٌ ومِشًى.",
+ "az": "«بنى» (bəna): الباء والنون والياء — tək bir əsasdır, o da bir şeyi digərinə birləşdirməklə tikilinin düzəldilməsidir. Deyirsən: «bənəytül-binəə əbnihi» — tikili tikirəm. Məkkə «bəniyyə» (البَنِيَّة) adlanır. «Qövsün baniyətün» (قوس بَانِيةٌ) — oxatan yayın ipinə söykənən yaydır, bu da o deməkdir ki, yayın ipi demək olar ki, ona yapışdığından qırılmaq üzrədir. Təyy qəbiləsi «baniyə» yerinə «banat» (بَانَاةٌ) deyir; bu, İmruul-Qeysin bu sözüdür: İpinə söykənməyən (٢). «Bünyətün» (بُنْيَةٌ) və «bünən» (بُنًى), həmçinin «binyətün» (بِنْيَة) və «binən» (بِنًى) — ba hərfinin kəsri ilə, necə ki, «ciziyətün» və «cizin», «misyətün» və «misan» deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:37.148Z"
+}

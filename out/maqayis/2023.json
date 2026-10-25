@@ -1,0 +1,17 @@
+{
+ "i": 2023,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 149,
+  "page_to": 149
+ },
+ "ar": "السين والدال واللام أصلٌ واحد يدلُّ على نزول الشئ من علوٍ إلى سُفلٍ ساتراً له. يقال منه (١) أرخى اللَّيل سُدُولَه. وهى سُتُرُه. والسَّدْل:\nإرخاؤك الثّوب فى الأرض. وشَعْر مُلْسدلٌ على الظَّهر. والسُّدْل: السِّتْر.\nوالسِّدْل: السِّمط من الجواهر، والجمع سُدول. والقياس فى ذلك كلِّه واحد.",
+ "az": "«سدل» (sin, dal və lam) yuxarıdan aşağıya doğru enən və onu örtən bir şeyə dəlalət edən tək bir əslidir. Ondan deyilir (1): Gecə öz pərdələrini (südul) endirdi. Bunlar onun pərdələridir. «السَّدْل»: paltarı yerə qədər uzatdırıb salmağın. «شَعْر مُلْسدلٌ على الظَّهر» – belə tökülmüş saç. «السُّدْل»: pərdə. «السِّدْل»: cəvahirat silsiləsi (boyunbağı), cəmi «سُدول»dür. Bütün bunlarda qiyas eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

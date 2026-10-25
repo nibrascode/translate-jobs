@@ -1,0 +1,17 @@
+{
+ "i": 2341,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صحر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 333,
+  "page_to": 334
+ },
+ "ar": "الصاد والحاء والراء أصلان: أحدهما البَرَاز من الأرض، والآخر لونٌ من الألوان.\nفالأوّل الصحراء: الفضاء من الأرض. ويقال أصحر القَومُ، إذا بَرَزوا.\nومن الباب قولُهم: لقيته صَحْرَةَ بَحْرَةَ (٤)، إذا لم يكن بينك وبينه سِتْر.\nوالصُّحْرة: الصَّحراء فى قول أبى ذؤيب:\nسَبىٌّ مِنْ يَرَاعَتِهِ نفاه … أتِىٌّ مَدَّهُ صُحَرٌ ولُوبُ (٥)\nوالأصل الآخر: الصُّحْرة، وهو لونٌ أبيضُ مُشرَبٌ حمرةً. وأتانٌ صحراءُ:\nفى لونها صُحْرة، وهى كُهبةٌ فى بياضٍ وسواد. ويقال: اصحارَّ النّبتُ، إِذا هَاج؛ وذلك أنّ لونَه يتغيَّر ويختلِط.",
+ "az": "[صحر] «الصاد» (sad), «Hə» (ha) və «Ra» (ra) iki kökdür: Biri yerin açıqlığı (səhra), digəri isə rənglərdən bir rəngdir. Birincisi: «الصَّحراء» (əs-səhra) — yerin açıq boşluğu. Deyilir: أصحر القَومُ (qövm açıqlığa çıxdı) — onlar açıq yerə çıxdıqda. Bu qapıdandır onların sözü: لقيته صَحْرَةَ بَحْرَةَ (mən onunla heç bir pərdə olmadan üzbəüz rastlaşdım). «الصُّحْرة» (əs-suhrə) — Əbu Züeybin bu sözündəki səhradır: سَبىٌّ مِنْ يَرَاعَتِهِ نفاه … أتِىٌّ مَدَّهُ صُحَرٌ ولُوبُ — (Qamışlığından sürüklənib uzaqlaşdırılmış əsir... Suxar və lub tərəfindən daşqını artırılmış sel). Digər kök: «الصُّحْرة» (əs-suhrə) — bu, qırmızıya çalan ağ rəngdir. «أتان صحراءُ» (səhra rəngli dişi uzunqulaq): rəngində suhrə olan, yəni ağ ilə qaranın arasında boz-qəhvəyi rəngdir. Deyilir: اصحارَّ النّبتُ (bitki saralıb soldu) — quruyub dəyişdiyi üçün; çünki onun rəngi dəyişir və qarışır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

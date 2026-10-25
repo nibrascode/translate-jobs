@@ -1,0 +1,17 @@
+{
+ "i": 201,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بخو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 208,
+  "page_to": 208
+ },
+ "ar": "الباء والخاء والواو، كلمةٌ واحدةٌ لا يُقاسُ عليها. قال ابنَ دريد: البَخْو الرُّطَب الردِىّ، يقال رُطَبَةُ بَخْوةٌ.",
+ "az": "[بخو] (bə-xə-v): الباء والخاء والواو، كلمةٌ واحدةٌ لا يُقاسُ عليها (Bə, xa və vav bir kəlmədir, müqayisə edilməz). قال ابنَ دريد: البَخْو الرُّطَب الردِىّ، يقال رُطَبَةُ بَخْوةٌ (İbn Dureyd demişdir: əl-bəxv xarab, keyfiyyətsiz yaş xurmadır, rutbətün bəxvətün deyilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:27:58.605Z"
+}

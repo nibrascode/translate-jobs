@@ -1,0 +1,17 @@
+{
+ "i": 852,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حرذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 52,
+  "page_to": 52
+ },
+ "ar": "الحاء والراء والذال ليس أصلا، وليست فيه عربيةٌ صحيحة.\nوقد قالوا إنّ الحِرذَون دويْبَّة.",
+ "az": "[حرذ] \n الحاء والراء والذال ليس أصلا، وليست فيه عربيةٌ صحيحة. \n (Hə, ra və zal hərfləri əsas deyil və onda səhih ərəbilik yoxdur.) \n وقد قالوا إنّ الحِرذَون دويْبَّة. \n (Lakin demişlər ki, «الْحِرْذَوْنُ» kiçik bir canlıdır.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:55:36.986Z"
+}

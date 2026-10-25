@@ -1,0 +1,17 @@
+{
+ "i": 1601,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 448,
+  "page_to": 448
+ },
+ "ar": "الراء والهاء والزاء كلمة تدلُّ على الرّهْز، وهو التحرُّك.",
+ "az": "[رهز] «الراء» (ra), «هاء» (hə) və «زاي» (zay) hərəkət etmək mənasını verən ərrəhz (الرهز) sözünə dəlalət edən kəlmədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

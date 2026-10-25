@@ -1,0 +1,17 @@
+{
+ "i": 356,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بيح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 325,
+  "page_to": 325
+ },
+ "ar": "الباء والياء والحاء ليس بأصلٍ ولا فَرْعٍ، وليس فيه إلا البِيَاح، وهو سَمَكٌ.",
+ "az": "«بيح» (beyh): باء، ya və ha hərfləri nə əsl, nə də budaqdır, onda «البِيَاح» (əl-biyah) sözündən başqa bir şey yoxdur, o da bir balıq növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.170Z"
+}

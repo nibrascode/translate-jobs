@@ -1,0 +1,17 @@
+{
+ "i": 2015,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سخى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 146,
+  "page_to": 147
+ },
+ "ar": "السين والخاء والحرف المعتلّ أصلٌ واحد، يدلُّ على اتّساعٍ فى شئٍ وانفراج. الأصل فيه قولهم: سَخَيْتُ القِدر وسَخَوتُها، إذا جعلتَ لِلنارِ تحتها مَذْهباً.\nومن الباب: سَخَاوِىُّ الأرض، قال قوم: السَّخاوىّ: سعة المفازة. وقول بعضهم «سَخاَوِى الفلا (١)»، قال ابن الأعرابىّ: واحدةُ السخاوَىِ سَخْواةٌ.\nوقال أيضاً: السّخْواءُ (٢) الأرض السَّهلة. قال أهل اللغة: ومن هذا القياس:\nالسّخاء: الجُود؛ يقال سخا يسخُو سَخَاوةً وسَخَاء، يمدّ ويقصر. * والسّخِىّ:\nالجواد.\nومما شذَّ عن الباب: السَّخا، مقصورٌ: ظَلْع يكون من أن يثِبَ البعيرُ بالحِمْل فتعترض ريحٌ بين جِلْدِه وكَتِفه، فيقال بعيرٌ سَخٍ.",
+ "az": "«سخى» (sin, xə və mütəllər hərf) şeydə genişliyə və açılmağa dəlalət edən tək bir əslidir. Bunun əsli onların «سَخَيْتُ القِدر وسَخَوتُها» (qazanın altına od üçün yol açdım, yəni tonqal üçün yer elədim) deməsidir. Bu fəsildəndir: «سَخَاوِىُّ الأرض» (yerin səxaviyyü). Bir qrup adam demişdir: «السَّخاوىّ» səhranın genişliyidir. Bəzilərinin «سخاَوِى الفلا» (çölün səxavisi) deməsinə gəlincə, İbn əl-Ərəbi demişdir: «السخاوَىِ»nin təkidi «سَخْواةٌ»dir. Həmçinin demişdir: «السّخْواءُ» (2) hamar yerdir. Dilçilər demişlər: Bu qiyasdandır: «السّخاء» – cəhərdəmlik, səxavət; deyilir: «سخا يسخُو سَخَاوةً وسَخَاء» – mədd və qəsr ilə oxunur. Və «السّخِىّ» – səxavətli, cəhərdəm. Bu fəsildən istisna olan: «السَّخا» – məqsur (uzadılmayan): dəvənin yük üstündə ikən sıçramasından əmələ gələn və dərisi ilə çiyini arasında hava qalmasına səbəb olan çolaqlıqdır; buna «بعيرٌ سَخٍ» (səxi dəvə) deyilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

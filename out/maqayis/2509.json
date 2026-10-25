@@ -1,0 +1,17 @@
+{
+ "i": 2509,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طمى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 422,
+  "page_to": 422
+ },
+ "ar": "الطاء والميم والحرف المعتل أصلٌ صحيح يدلُّ على علوّ وارتفاع فى شئٍ خاص. يقال طما البحرُ يطمو ويَطْمِى لغتان، وهو طامٍ، وذلك إذا امتلأ وعلا. ويقال طَمَى الفرسُ، إذا مرّ مُسرِعا. ولا يكون ذلك إلاَّ فى ارتفاع.",
+ "az": "«طمى» — الطاء والميم والحرف المعتل أصلٌ صحيح يدلُّ على علوّ وارتفاع فى شئٍ خاص (Ta, mim və hərf-i müəttəl səhih bir kökdir, xüsusi bir şeydə ucalığa və hündürlüyə dəlalət edir). يقال طما البحرُ يطمو ويَطْمِى لغتان (Dəniz daşdı — taməl-bəhru yətmu və yətmi iki lüğəti-tərzdir), وهو طامٍ (və o, tamidir), وذلك إذا امتلأ وعلا (və bu, dolub ucaldıqda olur). ويقال طَمَى الفرسُ، إذا مرّ مُسرِعا (At sürətlə keçib getdikdə \"təməl-fərsü\" deyilir). ولا يكون ذلك إلاَّ فى ارتفاع (və bu, yalnız ucalıqda olur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:31.509Z"
+}

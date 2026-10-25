@@ -1,0 +1,17 @@
+{
+ "i": 1004,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حتد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 135,
+  "page_to": 135
+ },
+ "ar": "الحاء والتاء والدال أصلٌ واحد، وهو استِقرار الشَّئِ وثباتُهُ.\nفالحَتْد: المُقَام بالمَكَان. حَتَد يَحْتِد. ومنه المَحْتِدُ، وهو الأصل؛ يقال: هو فى مَحتِدِ صِدق. والحُتُد: العين لا ينقطع ماؤُها، وهو قياس الباب.",
+ "az": "«حتد» (h-t-d): Ha, ta və dal hərfləri tək bir kökdür, o da bir şeyin qərar tutması və sabit olmasıdır. «الحَتْد» (əl-hətd) — bir yerdə qalmaqdır. «حتَد يَحْتِد» (hətədə yahtidu). Həmçinin «المَحْتِد» (əl-məhtid) — əsl-nəcabətdir; deyilir: o, doğru məhtiddəndir. «الحُتُد» (əl-hutud) — suyu kəsilməyən bulaqdır, bu da bu qapının qanunauyğunluğudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.109Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1326,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 313,
+  "page_to": 313
+ },
+ "ar": "الدال والواو والسين أُصَيْلٌ، وهو دَوْس الشَّئ. تقول دُسْتُه؛ والذى يُداسُ به مِدْوَسٌ. وحُمِل عليه قولُهم لما يَسُنُّ به الصَّيْقَلُ السّيفَ مِدوَسٌ، كأنَّه عند اتِّكائه عليه كالذى يَدُوس الشَّئ. قال:\nوأبيضَ كالغَدير ثَوَى عليه … فُلانٌ بالمَدَاوِسِ نِصْفَ شَهْرٍ (٦)",
+ "az": "[دوس] Dal, vav və sin kiçik bir əsasdır, o da şeyin basılmasıdır («دَوْس»). Deyirsən: «دُسْتُه» (onu basdım); üzərində basılan şey isə «مِدْوَس»-dür. Misgərin qılıncı itilədiyi alətə «مِدوَس» demələri də buna şamil edilmişdir, sanki o, üzərinə söykəndiyi zaman şeyə basan kəs kimidir. Şair demişdir:\nوأبيضَ كالغَدير ثَوَى عليه … فُلانٌ بالمَدَاوِسِ نِصْفَ شَهْرٍ (٦)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:17.562Z"
+}

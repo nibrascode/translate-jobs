@@ -1,0 +1,17 @@
+{
+ "i": 1725,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 7,
+  "page_to": 8
+ },
+ "ar": "الزاء والراء أُصَيلٌ يدلُّ على شِدّة. وشذَّ مِنْ ذلك الزِّرّ: زِرُّ القميص. ثم يشتقّ منه الزِّرُّ، يقال إنّه عظمٌ تحت القَلْب. قال ابن السكيّت:\nيقال للرّجل الحسن الرّعْية للإِبل: إنّه لَزِرٌّ من أزرارها. ومن الباب: زَرَّتْ عينُه، إذا توقَّدَت. يقال عَيْناه تَزِرَّانِ فى رأسه، إذا تَوقَّدَتا. ومن الباب الزَّرُّ:\nالشَّلُّ والطَّرد. يقال هو يزُرُّ الكتائبَ بسيفه زَرَّا. ومنه الزَّرُّ وهو العضُّ. يقال حِمارٌ مِزَرٌّ. ويقال الزّرّة الحَرْبَة (٣). ومن الباب الزَّرِير، وهو الحَصيف السَّديد الرأْى. واللّه أعلمُ بالصواب.\nباب الزاء العين ووما يثلثهما",
+ "az": "«زر» — Zae və ra şiddətə dəlalət edən kiçik bir kökdür. Bunlardan «الزِّرّ» — köynək düyməsi istisnadır. Sonra ondan «الزِّرّ» törəmişdir, deyilir ki, o, qəlbin altındakı bir sümükdür. İbn əs-Sikkit demişdir: «Dəvələrə yaxşı baxan kişiyə: «إنه لَزِرٌّ من أزرارها» (o, həqiqətən onların düymələrindən biridir) deyilir». Bu babdan: «زَرَّتْ عينُه» — gözü parıldadıqda deyilir. «عَيْناه تَزِرَّانِ فى رأسه» — başındakı gözləri parıldadıqda deyilir. Bu babdan: «الزَّرُّ» — qovmaq və qovub salmaqdır. Deyilir ki, o, qoşunları qılıncı ilə qovub qırır. Həmçinin «الزَّرُّ» — dişləməkdir. «حِمارٌ مِزَرٌّ» (dişləyən eşşək) deyilir. Həmçinin «الزّرّة» — nizədir (٣). Bu babdan: «الزَّرِير» — düşüncəli, düzgün rəyli deməkdir. Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:48.690Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2001,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سحق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 139,
+  "page_to": 139
+ },
+ "ar": "السين والحاء والقاف أصلان: أحدهما البعد، والآخر إنهاك الشئِ حتى يُبلغ به إلى حال البِلى.\nفالأوّل السُّحْق، وهو البُعد. قال اللّه جلّ ثناؤه: ﴿فَسُحْقاً لِأَصْحابِ اَلسَّعِيرِ﴾. والسَّحُوق: النَّخلة الطويلة، وسمِّيت بذلك لبعد أعلاها عن الأرض.\nوالأصل الثانى: سَحَقت الشئ أسحَقُه سَحقاً. والسَّحْق: الثوب البالِىَ.\nويقال سَحقه البِلى فانسحق. ويستعار هذا حتَّى يقال إنّ العين تسحق الدّمع سحقا.\nوأسحق الشّئُ، إذا انضمر وانضمّ. وأسحَقَ الضَّرعُ، إذا ذهب لبنُه وبلِىَ.",
+ "az": "[سحق] (səhəq): Sin, hə və qaf hərfləri iki əsas kökə malikdir: biri uzaqlıq, digəri isə bir şeyi köhnəlmə həddinə çatana qədər yormaq və ya aşındırmaqdır.\nBirincisi, uzaqlıq mənasını verən «السُّحْق» (əssuhq) sözüdür. Uca Allah buyurmuşdur: ﴿فَسُحْقاً لِأَصْحابِ اَلسَّعِيرِ﴾ (mənaca tərcümə: Od əhlərinə uzaqlıq olsun! - əl-Mülk, 11). «السَّحُوق» (əssəhuq) – hündür xurma ağacıdır, yuxarı hissəsinin yerdən uzaq olması səbəbi ilə belə adlandırılmışdır.\nİkinci kök: «سَحَقت الشئ أسحَقُه سَحقاً» (səhəqtüş-şəyə əshəquhü səhqən) – bir şeyi aşındırdım, köhnəltdim. «السَّحْق» (əssəhq) – köhnəlmiş paltardır. «سَحقه البِلى فانسحق» (səhəqühül-bilü fənsəhəqə) – köhnəlik onu aşındırıb yox dərəcəsinə çatdırdı, deyilər. Bu söz məcazi olaraq gözün göz yaşını axıtmasına da şamil edilir, deyilir ki, göz yaşı axıdır.\n«أسحق الشّئُ» (əshəqəl-şeyü) – şey büzüşdü və sıxıldı. «أسحَقَ الضَّرعُ» (əshəqədd-darü) – dəvənin döşünün südü getdi və o, köhnəldi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:35.045Z"
+}

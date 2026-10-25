@@ -1,0 +1,17 @@
+{
+ "i": 2053,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 178,
+  "page_to": 178
+ },
+ "ar": "الشين والجيم أصلٌ واحد يدلُّ على صَدع الشئ. يقال شجَجْتُ رأسَه أشُجُّه شَجًّا. وكان بين القوم شِجاجٌ ومشاجّة، إذا شجَّ بعضُهم بعضا. والشَّجَجُ: أثر للشَّجّة فى الجبين؛ والنّعت منه أشَجّ. وشجَجت المفازةَ شَجًّا، إذا صدَعْتَهَا بالسَّير. وشَجَجْتُ الشَّراب بالمِزَاج (٣). وشَجَّت السفينةُ البحر. والشَّجِيج: المشجوج. والوَتِد شجيج.",
+ "az": "[شج] «الشين والجيم» (şin və cim) – bir şeyin yarıılmasına dəlalət edən tək bir əsasdır. Deyilir: «شجَجْتُ رأسَه أشُجُّه شَجًّا» (şəcəctü raəsəhü uşüccühu şəccən) – onun başını yardıq (yaralarını açdım). Qövmün arasında «شِجاجٌ ومشاجّة» (şicacun və müşəccəh) vardı, yəni bir-birinin başını yarmışdılar. «الشَّجَجُ» (əş-şəcəc) – alindəki yara izidir; bundan sifət «أشَجّ» (əşəc) gələr. «شجَجْت المفازةَ شَجًّا» (şəcəctül-məfazətə şəccən) – səyahət edərək səhranı yarıb keçdin. «شَجَجْتُ الشَّراب بالمِزَاج» (şəcəctüş-şərabə bil-mizac) (٣) – içkini qarışıqla qatdın. «شَجَّت السفينةُ البحر» (şəccətis-səfinətül-bəhr) – gəmi dənizi yardı. «الشَّجِيج» (əş-şəcig) – yaralanmış kəsdir. «الوَتِد شجيج» (əl-vatidü şəcig) – (yerə) çalınmış payadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:50:42.414Z"
+}

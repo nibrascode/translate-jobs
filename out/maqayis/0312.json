@@ -1,0 +1,17 @@
+{
+ "i": 312,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 300,
+  "page_to": 301
+ },
+ "ar": "الباء واللام والطاء أصلٌ واحد، والأمر فيه قريبٌ من الذى قبلَه. قالوا لبَلَاط كلُّ شئٍ فرشْتَ به الدار مِنْ حَجَر وغيره. قال ابن مُقْبِل:\nفى مُشْرِفٍ لِيطَ لَيّاقُ البلاط به … كانت لِسَاسَتِه تُهْدَى قَرَابِينا\nيقول: هى مَصْنَعَةٌ لنَصارَى يتعبَّدُون فيها، فى مُشْرِفٍ ألْصِق. لَيَّاق أى لصَّاق يقال ما يَلِيق بك كذا، أى لا يَلْصَق. يذكر حُسْنَ المكانِ وأُنسَه بالقُرْبان\nوالمصابيح. فإنْ كان هذا صحيحاً - على أنَّ البَلاط عندى دخيل - فمنه المُبالَطَة، وذلك أنْ يتضارب الرَّجلانِ وهما بالبَلاط، ويكونَا فى تقارُبهما كالمتلاصِقَين.\nوأَبْلَطَ الرّجُل افتَقَرَ فهو مُبْلِطٌ؛ وذلك من الأوّل، كأنَّه افتَقَرَ حتى لَصِقَ بالبَلاط، مثل تَرِبَ إذا افتَقَرَ حتى لَصِقَ بالتراب. فأمّا قولُ امرئ القيس:\n* نزلتُ على عمرِو بن دَرْمَاءَ بُلْطَةً * (١)\nفيقال هى هَضْبَةٌ معروفة، ويقال بُلْطةً مفاجأةً. والأوّل أصحُّ.",
+ "az": "«بلط» (bələt): الباء واللام والطاء — tək bir əsasdır, buradakı məsələ əvvəlkinə yaxındır. Dedilər ki, «bəlat» (بَلَاط) ev döşədiyin daş və ya digər şeylərin hər biridir. İbn Müqbil demişdir: Bəlatın məcərisi onun üçün hədiyyə edilən qurbanların sərkərdələrinə aid edildiyi uca bir yerdə (١). Deyir ki, bu, xristianların ibadət etdikləri, uca yerdə bir-birinə yapışdırılmış bir tikilidir. «Ləyyəq» — yapışqan deməkdir, deyilir: «filan şey sənə ləyiq etməz» yəni yapışmaz. O, yerin gözəlliyini, qurbanlar və lampalarla onun ülfətini xatırladır. Əgər bu doğrudursa — ki, bəlat mənə görə başqa dildən gəlmədir (daxildir) — onda «mübələtə» (المُبَالطَة) də bundandır. Bu da odur ki, iki kişi bəlatın üstündə vuruşurlar və yaxınlıqlarında sanki bir-birinə yapışmış kimi olurlar. Kişi kasıblaşdıqda «əblətər-raculu» — o, müblit olar (مُبْلِطٌ); bu da əvvəlkindənir, guya o, torpağa yapışana qədər kasıblaşan kəs kimi bəlatın üstünə yapışana qədər kasıblaşmışdır, eynilə torpağa yapışana qədər kasıblaşana «təribə» deyildiyi kimi. İmruul-Qeysin sözünə gəldikdə isə: Əmr ibn Dərmanın yanına bultətən (بُلْطَةً) düşdüm (١) — deyilir ki, bu məşhur bir təpədir, həmçinin deyilir ki, «bultətən» qəflətən deməkdir. Birincisi daha doğrudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:37.148Z"
+}

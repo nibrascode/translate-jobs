@@ -1,0 +1,17 @@
+{
+ "i": 1217,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 266,
+  "page_to": 266
+ },
+ "ar": "الدال والخاء ليس أصلاً يُفَرّع منه، لكنّهم يقولون:\nدخدَخْنا القومَ: أذْلَلْناهم، دَخدَخةً. وذكر الشَّيبانىّ أنَّ الدخدخة الإعياء.\nفأما الدُّخُّ فقد ذُكِر فى بابه، وهو الدُّخان. قال:\n* عند سُعَارِ النّارِ يَغْشَى الدَّخَّا (٢) *",
+ "az": "[دخ] الدال والخاء (dal və xah hərfləri) özündən törəmə verən bir əsas deyildir, lakin onlar belə deyirlər:\nدخدَخْنا القومَ: أذْلَلْناهم، دَخدَخْمةً (Tayfanı alçaltdıq, zəlil etdik). Şeybani qeyd etmişdir ki, الدخدخة (əd-daxdaxə) yorğunluq deməkdir.\n\nالدُّخُّ (əl-dux) sözünə gəldikdə, o, öz باب (bölümündə) qeyd edilmişdir və o, دُخان (tüstü) deməkdir. (Şair) demişdir:\n* عند سُعَارِ النّارِ يَغْشَى الدَّخَّا (٢) *\n(Odda alovun şiddəti zamanı tüstünü bürüyər...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.589Z"
+}

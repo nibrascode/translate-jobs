@@ -1,0 +1,17 @@
+{
+ "i": 1867,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سعط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 77,
+  "page_to": 77
+ },
+ "ar": "السين والعين والطاء أصل، وهو أن يُوجَر الإنسانُ الدواءَ.\nثم يحمل عليه. فمن ذلك أسعطته الدواءَ فاسْتَعطَه (١). والمُسْعُط (٢): الذى يجعل فيه السَّعوط. والسَّعوط هو الدواء، وأصل بنائه سَعَط. ومما يحمل عليه قولهم طعفته فأسعَطْتُه (٣) الرُّمح. واللّه أعلم.",
+ "az": "[سعط] السين والعين والطاء — sin, ayn və ta hərfləri bir əsasdır ki, o da insana dərmanın içirtməsidir (burnundan damızdırılmasıdır).\nSonra ona bu tətbiq olunur. Bunlardan biri: أسعطته الدواءَ فاسْتَعطَه (əsfətühüd-dəvə fəstətəh) (١) — mən ona dərmanı damızdırdım, o da onu qəbul etdi. والمُسْعُط (əlmüsuət) — səut (burnundan dərman damızdırılan vasitə) qoyulan qabdır (2). السعوط (əssəut) — dərmandır və onun quruluşunun əsli səətdir (سَعَط). Buna əsaslanan sözlərdən biri də onların bu sözüdür: طعفته فأسعَطْتُه الرُّمح (təftühu fəsfətühür-rumh) (٣) — mən onu nizə ilə sancıb dəydirdim. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.965Z"
+}

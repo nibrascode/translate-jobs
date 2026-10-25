@@ -1,0 +1,17 @@
+{
+ "i": 1480,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 396,
+  "page_to": 396
+ },
+ "ar": "الراء والشين والميم كلمة واحدة لا يقاس عليها، وليس فى الباب غيرها. وذلك الأرشَم: لذى يتشمّم الطّعامَ ويَحرِص عليه. قال:\nبقى حملَتُهُ أُمُّه وهى ضَيْفَةٌ … فجاءَت بنَزّ لِلنَّزَالَةِ أرَشما (٣)",
+ "az": "«رشم» (Rə-ş-m): Ra, şin və mim qiyas edilməyən tək bir kəlmədir və bu babda bundan başqası yoxdur. Və o, האرشَم (Ərşəm): Yeməyi iyləyən və ona həris olan kimsədir. (Şair) demişdir: بقى حملَتُهُ أُمُّه وهى ضَيْفَةٌ … فجاءَت بنَزّ لِلنَّزَة أرَشما (Anası qonaq ola-ola onun yükü qaldı... o, qonaqlıq üçün hərisliklə gəldi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

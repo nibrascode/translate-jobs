@@ -1,0 +1,17 @@
+{
+ "i": 2295,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 310,
+  "page_to": 310
+ },
+ "ar": "الصاد والميم والراء، قال ابن دريد (٤): فعلٌ ممات، وهو أصل بناء الصَّمير. يقال رجل صَمِير: يابس اللَّحم على العِظام.\nويقال الصَّمْر: النَّتْن. ويقال المتصمِّر: المتشمِّس. ويقولون: لقيتُه بالصُّمَير، أى وقتَ غُروب الشّمس. وفى كلِّ ذلك نظَر.",
+ "az": "[صمر] (sad, mim və ra) — İbn Duraid demişdir: İşlənməyən bir feldir, lakin «صَمِير» (səmir) binasının əslidir. Deyilir: «رجل صَمِير» (səmir kişi) — əti sümükləri üzərində qurumuş adam.\n\nDeyilir ki, «الصَّمْر» (səmr) — üfunət, pis qoxudur. «المتصمِّر» (mütəsəmmir) — günəş altına çıxan. Deyirlər: «لقيتُه بالصُّمَير» (onu səmir vaxtı, yəni gün batarkən gördüm). Bütün bunlarda nəzər (araşdırma) vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.917Z"
+}

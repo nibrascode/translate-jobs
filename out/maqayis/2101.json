@@ -1,0 +1,17 @@
+{
+ "i": 2101,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شكه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 207,
+  "page_to": 207
+ },
+ "ar": "الشين والكاف والهاء أصلٌ واحدٌ يدلُّ على مشابَهةٍ ومقارَبة. يقال: شاكَه الشئُ [الشئَ (١)] مشاكهةً وشِكاهاً، إذا شابَهه وقاربَه. وفى المثل: «شاكِهْ، أبا يسارٍ (٢)» أى قارِبْ. وحُكى عن أبى عمرو ابن العلاء: أشْكَه الأمر، إذا اشْتَبه الأمر.",
+ "az": "[شكه] الشين (ش), Kaf (ك) və Ha (ه) bənzərliyə və yaxınlığa dəlalət edən bir əsldir. Deyilir: شاكَه الشئُ [الشئَ (١)] مشاكهةً وشِكاهاً (şey şeyə bənzədi) — ona bənzədikdə və yaxınlaşdıqda. Məsəldə deyilir: «شاكِهْ، أبا يسارٍ (٢)» (Ey Əbu Yəsar, yaxınlaş). Əbu Əmr ibn əl-Aladan rəvayət olunmuşdur: أشْكَه الأمر (iş şübhəli oldu) — iş qarışıq olduqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:08.599Z"
+}

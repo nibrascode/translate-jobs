@@ -1,0 +1,17 @@
+{
+ "i": 1245,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دعج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 283,
+  "page_to": 283
+ },
+ "ar": "الدال والعين والجيم أصلٌ واحد يدلُّ على لونٍ أسودَ.\nفمنه الأدعَج، وهو الأسْوَد. والدَّعَج فى العين: شِدَّة سوادها فى شدَّة البياض.",
+ "az": "[دعج] «الدال والعين والجيم» (dal, ayn və cim) qara rəngə dəlalət edən tək bir əsasdır. Bunlardan biri الأدعَج (ləd-əc) olub, qara deməkdir. Və gözdəki دَعَج (dəcən): ağlığın şiddəti içində qara rəngin şiddətli olmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.370Z"
+}

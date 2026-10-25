@@ -1,0 +1,17 @@
+{
+ "i": 383,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برغث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 332,
+  "page_to": 332
+ },
+ "ar": "ومن ذلك (البَرْغَثَة) (٦) فالراء فيه زائدة وإنما الأصل الباء والغين والثاء.\nوالأبغث من طير الماء كلون الرَّماد، فالبَرْغَثَةُ لونٌ شبيهٌ بالطُّحْلة ومنه البُرْغُوث",
+ "az": "[برغث] (Bə-ra-ğeyn-sə) Buradan «البَرْغَثَة» (əl-bərğəsə) gəlir, «ر» (ra) hərfi artıqdır, əsli «ب» (bə), «غ» (ğeyn) və «ث» (sə) hərfləridir. «الأبغث» (əl-əbğəs) su quşlarından kül rəngində olandır, «البَرْغَثَة» (əl-bərğəsə) isə palçıq rənginə bənzər bir rəngdir, «البُرْغُوث» (əl-burğus - birə) də buradan gəlir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

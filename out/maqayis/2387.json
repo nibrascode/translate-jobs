@@ -1,0 +1,17 @@
+{
+ "i": 2387,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضعف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 362,
+  "page_to": 362
+ },
+ "ar": "الضاد والعين والفاء أصلانِ متباينان، يدل أحدُهما على خلاف القُوَّة، ويدلُّ الآخَر على أن يزاد الشَّئُ مِثلَه.\nفالأوَّل: الضَّعف والضُّعف، وهو خلاف القُوَّة. يقال ضَعُفَ يضعُف، ورجلٌ ضعيف وقوم ضُعفاءُ وضِعافٌ.\nوأمَّا الأصل الآخَر فقال الخليل: أضعفت الشّئَ إضعافاً، وضعَّفتُه تضعيفاً، وضاعفْتُه مُضاعَفة، وهو أن يُزادَ على أصل الشَّئ فيُجعلَ مثلين أو أكثر. قال غيره: المضعوف الشَّئ المضاعَف. قال أبو عمرو: المضعوف مِنْ أضعفْتُ الشَّئ. وذكر أبو عبيدٍ ذلك فى باب أفعلتُه فهو مفعول. والمضاعَفة: الدِّرع نُسِجَتْ حَلْقَتَين.",
+ "az": "[ضعف] «الضاد» (زاد), «العين» (eyn) və «الفاء» (fa) hərfləri bir-birindən fərqlənən iki əslə (kökə) malikdir: bunlardan biri gücün əksinə dəlalət edir, digəri isə bir şeyin misli qədər artırılmasına dəlalət edir.\nBirincisi: «الضَّعف» (əz-zə'f) və «الضُّعف» (əz-zu'f) — gücün ziddi deməkdir. «ضَعُفَ يضعُف» (zəüfə yəz'ufu) — zəiflədi, zəifləyər, «رجل ضعيف» (zəif kişi) və «قوم ضُعفاءُ وضِعافٌ» (zəif qövm) deyilir.\nDigər əslə gəldikdə, Xəlil demişdir: «أضعفت الشّئَ إضعافاً» (bir şeyi ikiqat etdim - iz'afən) və «ضعَّفْتُه تضعيفاً» (təz'if etdim), «ضاعفْتُه مُضاعَفة» (müzafət etdim) — bu, şeyin əslinin üzərinə əlavə edilərək iki və ya daha çox qat edilməsidir. Başqası demişdir: «المضعوف» (əl-muzə'f) — qat-qat edilmiş şeydir. Əbu Əmr demişdir: «المضعوف» (əl-muzə'f) sözü «أضعفت الشّئ» (şeyi ikiqat etdim) sözündəndir. Əbu Übeyd bunu «أفعلتُه فهو مفعول» (mən bunu etdim, o isə məfuldur) babında zikr etmişdir. «المضاعَفَة» (əl-müzafə) — iki halqadan toxunmuş zirehdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

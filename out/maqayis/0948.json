@@ -1,0 +1,17 @@
+{
+ "i": 948,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 108,
+  "page_to": 108
+ },
+ "ar": "الحاء والنون والحرف المعتل أصلٌ واحدٌ يدلّ على تعطّف وتعوُّج. يقال حنَوْتُ الشئَ حَنْواً وحنَيْتُه، إذا عطفتَه حَنْياً. وحِنْوُ السّرجِ سمّى بذلك أيضاً، وجمعه أحناء. ومنه حنَتِ المرأة على ولدها تحنُو، وذلك إذا لم تتزوّجْ مِنْ بعد أبيهم، وهو من تعطّفها عليهم. وناقةٌ حنْواء: فى ظهرها احديدابٌ.\nوانحنَى الشئُ ينحنى انحناء. والمَحْنِية: منعرَج الوادى. وأمّا الحَنْوَة والحِنّاء (٢) فنبْتَان معروفان، ويجوز أن يكون ذلك شاذًّا عن الأصل.",
+ "az": "[حنو] (Həm, nun və uzanan hərf): Meyl etməyə və əyilməyə dəlalət edən tək bir əsasdır. «حنَوْتُ الشئَ حَنْواً وحنَيْتُه» (Bir şeyi əydim, əymə, əydim) deyilir – onu əyərkən. Sərgün (yəhər) qaşının «حِنْو» (hinv) adlanması da bundandır, cəmi «أحناء» (əhna) gəlir. Qadının öz övladına «حنَتِ المرأة على ولدها تحنُو» deməsi də bundandır – bu, o uşaqların atalarından sonra başqası ilə evlənmədiyində, onlara olan şəfqətindən və meylindən irəli gəlir. «ناقةٌ حنْواء» (hənva dəvə): belində qabarıqlıq olan dəvədir. «وانحنَى الشئُ» (bir şey əyildi) – əyilməklə əyilir. «المَحْنِية» (məhniyə): vadinin əyri yeri, döngəsidir. «الحَنْوَة» (hənvə) və «الحِنّاء» (hinnə – həna) gəldikdə isə bunlar iki məlum bitkidir və ola bilər ki, bu, əsasdan istisna (şaz) olsun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.646Z"
+}

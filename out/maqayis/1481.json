@@ -1,0 +1,17 @@
+{
+ "i": 1481,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رشن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 396,
+  "page_to": 396
+ },
+ "ar": "الراء والشين والنون ليس أصلاً ولا فيه ما يُؤْخَذُ به.\nلكنَّهم يقولون. رشَنَ الكلبُ فى الإناء: أدخَلَ رأسه. والرَّاشن: الذى يتحيَّن وقتَ الطعام فيأتى ولم يدع: وفى كلُّ ذلك نظر.",
+ "az": "«رشن» (Rə-ş-n): Ra, şin və nun nə əsasdır, nə də ondan götürülən bir şey var. Lakin deyirlər: رشَنَ الكلبُ فى الإناء (İt qabın evinə girdi): başını soxdu. والرَّاشن (Raşin): Yemək vaxtını gözləyən və dəvət olunmadan gələn kimsədir: və bütün bunlarda nəzər (araşdırma) vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

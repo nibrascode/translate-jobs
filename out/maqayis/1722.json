@@ -1,0 +1,17 @@
+{
+ "i": 1722,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 7,
+  "page_to": 7
+ },
+ "ar": "الزاء والجيم أصلٌ يدلُّ على رِقّةٍ فى شئ، من ذلك زُجُّ الرُّمْح والسّهمِ، وجمعه زِجاج بكسر الزاء. يقال زجَّجْتُه: جعلت له زُجًّا. فإذا نزَعْت زُجَّهُ قلت: أزجَجْتُه (١). والزَّجَج دِقَّةُ الحاجبينِ وحُسْنُهما. ويقال أن الأزَجَّ من النعام: الذى فوق عينه ريشٌ أبيض.",
+ "az": "«زج» — Zae və cim bir şeydə incəliyə dəlalət edən kökdür. Bunlardan biri nizə və oxun ucluğu olan «زُجُّ الرُّمْح والسّهمِ» sözüdür, cəmi zae hərfinin kəsri ilə «زِجاج» gəlir. «زجَّجْتُه: جعلت له زُجًّا» (Ona ucluq düzəltdim) deyilir. Əgər onun ucluğunu çıxarsan, «أزجَجْتُه» (ucluğunu çıxartdım) deyərsən (١). «الزَّجَج» — qaşların incəliyi və gözəlliyidir. Deyilir ki, dəvəquşunun «الأزَج» olanı gözünün üstündə ağ tükü olandar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:48.690Z"
+}

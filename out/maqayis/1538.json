@@ -1,0 +1,17 @@
+{
+ "i": 1538,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رفز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 422,
+  "page_to": 422
+ },
+ "ar": "الراء والفاء والزاء ليس هو عندنا أصلاً، لكنَّهم قالوا: إنّ الرّفْز الضَّرْب؛ يقال ما يَرْفِزُ منه عِرْقٌ: أى ما يضرِب. قال:\nوبلدةٍ للداء فيها غامِزُ … مَيْتٍ بها العِرقُ الصَّحيح الرَّافِزْ (١)",
+ "az": "[رفز] (ra, fa, zay). Bizə görə əsl deyil, lakin demişlər ki, «الرّفْز» — vurmaqdır; deyilir: «ما يَرْفِزُ منه عِرْقٌ» — yəni heç bir damar döyünmür. O demişdir: وبلدةٍ للداء فيها غامِزُ … مَيْتٍ بها العِرقُ الصَّحيح الرَّافِزْ (١) (Elə bir diyar ki, onda xəstəliyin batıq yeri var, sağlam və döyünən damar orada ölüdür).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:31.378Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2287,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 305,
+  "page_to": 306
+ },
+ "ar": "الصاد واللام والفاء أصلٌ صحيح يدلُّ على شِدّةٍ وكَزازة. من ذلك الصَّلَف، وهو قِلّة نَزَلِ الطَّعام (٤). ويقولون فى الأمثال:\n«صَلَفٌ تحتَ الرّاعِدة»، يقال ذلك لمن يُكثِر كلامه ويَمدح نفسَه ولا خير عنده.\nومن الباب: قولهم: صَلِفت المرأةُ عند زوجها، إذا لم تَحْظَ عنده. وهى بيِّنة الصَّلَف. قال:\nوآبَ إليها الحزْنُ والصَّلَفُ (٥)\nقال الشيبانىّ: يقال للمرأة: أصلَفَ اللّهُ رُفْغَها (١). وذلك أن يبغّضَها إلى زوجها.\nوالأصل فى هذا الباب قولهم للأرض الصُّلْبة صَلْفاء، وللمكان الصُّلب أصلف.\nوالصَّلِيف (٢): عُرْض العُنُق، وهو صلْبٌ. والصَّلِيفان: عُودانِ يعترضان على الغَبيط ثُشَدُّ بهما المَحامل. قال:\nأقبُّ كأنَّ هادِيَه الصَّليفُ (٣)\nفأمّا الرّجل الصَّلِف فهو من هذا، وهو من الكَزازة وقِلّة الخير. وكان الخليل يقول: الصَّلف مجاوزة قدر الظَّرف، والادِّعاءُ فوق ذلك.",
+ "az": "[صلف] (sad, lam və fa) — səhih bir kök olub sərtliyə və bərkliyə dəlalət edir. Bunlardan biri də «الصَّلَف» (sələf) olub, yeməyin azlığı deməkdir (٤). Məsəllərdə deyirlər: «صَلَفٌ تحتَ الرّاعِدة» (Rəidin altında sələf) — bu, sözünü çoxaldan, özünü tərifləyən, lakin özündə xeyir olmayan kəsə söylənilir. \n\nBu qəbildəndir: qadının ərə ehtiyatsız/özündənrazı olması mənasında «صَلِفت المرأةُ عند زوجها» (qadın ərə yanında qədir-qiymət tapmadı) ifadəsi. O, açıq-aşkar sələf sahibidir. Biri demişdir: \nوَآبَ إِلَيْهَا الْحَزْنُ وَالصَّلَفُ (٥)\n(Kədər və lovğuluq ona qayıtdı)\n\nŞeybani demişdir: Qadına «أصلَفَ اللّهُ رُفْغَها» (Allah onun bud arasını sərt/uğursuz etsin) — de絶縁ir (١). Bu, onu ərə sevgisiz etmək deməkdir.\n\nBu babın əsli sərt yerə «صَلْفاء» (səlfa), sərt məkana isə «أصلف» (əsləf) demələrindədir.\n\n«الصَّلِيف» (səlif) — boyun yan tərəfidir ki, o sərt olur. «الصَّلِيفان» (səlifan) — ikisi də səbətin iki tərəfinə qoyulan, üzərinə yük (cəhiz) bağlanan iki çubuqdur. Biri demişdir:\nأَقَبُّ كَأَنَّ هَادِيَهُ الصَّلِيفُ (٣)\n(Qarnı yığılqan, boynu elə bil səlifdir)\n\nAmma «الصَّلِف» (səlif) kişi də elə bundandır, o da bərklikdən və xeyirin azlığındandır. Xəlil deyərdi: Sələf — təkəbbürlülük həddini aşmaq və bundan artıq iddia etməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.916Z"
+}

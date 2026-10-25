@@ -1,0 +1,17 @@
+{
+ "i": 1551,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رقح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 427,
+  "page_to": 428
+ },
+ "ar": "الراء والقاف والحاء أصلٌ واحد، يدلُّ على الاكتساب والإصلاحِ للمال. ويقال رقَّحْتُ المالَ: أصلحتُه وقُمت عليه، ترقيحاً. وفلان\nرَقاحِىُّ مالٍ. وهو يترقَّح لعياله، أى يتكسَّب. وكانوا يقولون فى تلبيتهِمْ:\n«لم نَأت للرَّقاحَةِ (١)»،\nيريدون التِّجارة.",
+ "az": "[رقح] (Rəqəh): Ra, qaf və ha hərfləri tək bir əsas olub, qazanc əldə etməyə və malı islah etməyə dəlalət edir. Deyilir: رقَّحْتُ المالَ أصلحتُه وقُمت عليه ترقيحاً (rəqqəhtul-mala əsləhtuhu və qumtu aleyhi tərqihiyyən) – malı islah etdim və qulluğunda durdum. Fulan رَقاحِىُّ مالٍ (rəqahiyyu malin) – mal sahibidir. O, ailəsi üçün çalışır, yəni qazanc əldə edir. Onlar təlbiyələrində deyərdilər: «لم نَأت للرَّقاحَةِ» (Biz ticarət üçün gəlmədik).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

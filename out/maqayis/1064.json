@@ -1,0 +1,17 @@
+{
+ "i": 1064,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خرب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 174,
+  "page_to": 175
+ },
+ "ar": "الخاء والراء والباء أصلٌ يدل على التثلُّم والتثقُّب.\nفالخُرْبةُ: الثُّقْبة. والعبد الأخرَب: لثقوب الأذن. والخُرْبُ: ثَقْب الورِك.\nوالخُرْبة: عُروة المزاده.\nومن الباب، وهو الأصل، الخَراب: ضدّ العمارة. والخُرْب: منقَطَع الجُمهور من الرَّمل. فأمّا الخارب فسارقُ الإبل خاصَّةً؛ وهو القياس، لأن السَّرِق.\nإيقاع ثُلْمةٍ فى المال\nومما شذّ عن الباب الخَرَب: وهو ذكر أخبارى، والجمع خِرْبان. وأَخْرُب:\nموضعٌ. [قال]:\nخَرجنا نُغالى الوحش بينَ ثُعَالةٍ … وبين رُحَيَّاتٍ إلى فَجِّ أَخْرُبِ (١)",
+ "az": "[خرب] (خ, ر, ب) – yarığa və deşikliyə dəlalət edən bir kökdür. «الخُرْبة - əl-xurbə» – deşik. «العبد الأخرَب - əl-əbd əl-əxrəb» – qulağı deşik olan qul. «الخُرْب - əl-xurb» – budun deşiyi. «الخُرْبَة - əl-xurbə» – tuluğun qulp yeri. Bu bölmədən olan və əsl kök sayılan «الخراب - əl-xərab» – abadlığın əksidir. «الخُرْب - əl-xurb» – qumluğun qurtaracağı yer. Qaldı ki, «الخارب - əl-xarıb» – xüsusi olaraq dəvə oğurlayan oğrudur; bu da qiyasətdəndir, çünki oğurluq malda bir yarıq (zərər) əmələ gətirməkdir. Kökdən kənar (şaz) qalanlardan biri də «الخرَب - əl-xərəb»dir – bu, erkək ceyrandır, cəmisi «خربان - xirban». «أخرُب - əxrub» – bir yerin adıdır. [Şair] demişdir: خرجنا نغالى الوحش بين ثعالة... وبين ريحيات إلى فج أخروب.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:08:39.581Z"
+}

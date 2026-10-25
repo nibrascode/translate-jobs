@@ -1,0 +1,17 @@
+{
+ "i": 1293,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دمج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 299,
+  "page_to": 299
+ },
+ "ar": "الدال والميم والجيم أصلٌ واحد يدلُّ على الانطواء والسَّتر.\nيقال أدمَجْت الحَبلَ، إذا أدرَجْتَه وأحكَمْتَ فَتْلَه. وقال الأصمعىّ فى قول أوس:\nبَكَيْتمْ على الصُّلح الدُّماجِ ومِنْكُمُ … بذِى الرِّمْثِ من وادى هُبَالة مِقْنَبُ (٢)\nقال: هو من دامَجَه دِماجاً، إذا وافَقَه على الصُّلح. يقال تدامَجُوا. ويقال فلان على دَمَجِ فُلانٍ، أى على طريقتِه. وكلّ هذا الذى قاله فليس يَبْعُد عمّا ذكَرْناه من الخَفاء والسَّتْر.",
+ "az": "[دمج] (dəm-c): Dal, mim və cim hərfləri bir əsas prinsipi göstərir ki, bu da bükülmə və örtülmədir.\nDeyilir: «أدمَجْت الحَبلَ» (ədməctü əl-həblə) — ipi qatlayıb toxunuşunu möhkəmləndirdiyin zaman. Əsməi Avusun bu sözü haqqında demişdir:\nبَكَيْتمْ على الصُّلح الدُّماجِ ومِنْكُمُ … بذِى الرِّمْثِ من وادى هُبَالة مِقْنَبُ (٢)\n(Siz barışıqla əldə olunan uzlaşmaya ağladınız, halbuki Hübalə vadisinin Rims adlanan yerində sizdən atlı dəstəsi vardı).\nO demişdir: Bu, «دامَجَه دِماجاً» (daməcəhü dimaCən) sözündəndir, yəni barışıqda onunla razılaşdı. Deyirlər: «تدامَجُوا» (tədəməcu). Və deyilir: «فلان على دَمَجِ فُلانٍ» (fəlanün alə dəməci fülənin) — yəni onun yolundadır. Onun dediyi bütün bunlar bizim qeyd etdiyimiz gizlilik və örtülmədən uzaq deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.834Z"
+}

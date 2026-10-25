@@ -1,0 +1,17 @@
+{
+ "i": 230,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 237,
+  "page_to": 237
+ },
+ "ar": "الباء والراء والتاء أصلٌ واحدٌ، وهو أنْ يَغِلَ الشَّيء وُغولاً.\nمن ذلك البَرُت، وهى الفأس، وبها شُبِّه الرَّجُل الدّليلُ، لأنّه يَغِلُ فى الأرضِ ويهتدى فى الظُّلَم.",
+ "az": "«برت» (b-r-t): Ba, ra və ta hərfləri tək bir əsas kökdür, o da bir şeyin dərinliklərinə nüfuz etməkdir (yol tapmaq). Bunlardandır: «البَرُتُ» – balta, bələdçi kişi də buna bənzədilib, çünki o da yerin dərinliklərinə nüfuz edir və zülmətlərdə yol tapır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:29:37.934Z"
+}

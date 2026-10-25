@@ -1,0 +1,17 @@
+{
+ "i": 2027,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 151,
+  "page_to": 151
+ },
+ "ar": "السين والدال والجيم، يقولون إنَّ المستعمَل منه حرفٌ واحد، وهو التسدُّج، يقال [رجلٌ] سدّاجٌ، إذا قال الأباطيل وألّفها.",
+ "az": "«سدج» (sin, dal və cim), deyirlər ki, ondan işlədilən tək bir hərfdir, o da «التسدُّج»dür, deyilir: «رجلٌ سدّاجٌ» – yalanlar danışıb onları uyduran [kişi].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

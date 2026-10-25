@@ -1,0 +1,17 @@
+{
+ "i": 1466,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رزب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 390,
+  "page_to": 391
+ },
+ "ar": "الراء والزاء والباء، إن كان صحيحاً فهو يدلُّ على قِصَر\nوضِخَمٍ فالإِرْزَبُّ: الرّجُل القَصِير الضَّخْم. والمِرْزَبَةُ معروفةٌ. * ورَكَبٌ إرْزَبٌّ:\nعظيم. قال:\n* إنّ لَهَا لرَكَباً إرْزَبَّا (١) *",
+ "az": "[رزب] (Rə, zay və ba) əgər səhihdirsə, o, qısalığa və yoğunluğa dəlalət edir; elə isə əl-irzəbb — qısa və yoğun kişidir. Əl-mirzəbə (balta, çəkic) məlumdur. Və rəkabun irzəbbün — böyük (minik vasitəsi və ya orqan). [Şair] demişdir: * إنّ لَهَا لرَكَباً إرْزَبَّا (١) * (Həqiqətən, onun böyük bir... var).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:45.682Z"
+}

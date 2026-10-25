@@ -1,0 +1,17 @@
+{
+ "i": 2304,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 313,
+  "page_to": 314
+ },
+ "ar": "الصاد والنون والفاء أصلٌ صحيح مطّرد فى معنيين، أحدهما الطّائفة من الشَّئ، والآخر تمييز الأشياء بعضها عن بعض.\nفالأوَّل الصِّنْف، قال الخليل: الصِّنْف طائفةٌ من كلِّ شئ. وهذا صِنفٌ من الأصناف أىْ نوع. فأمّا صنفة الثَّوب (٢) فقال قوم: هى حاشيتُه. وقال آخرون:\nبل هى النّاحية ذات الهُدْب.\nوالأصل الآخَر، قال الخليل: التَّصنيف: تمييز الأشياءِ بعضها عن بعض.\nولعلَّ تصنيف الكتاب من هذا. والنريب المصنَّف من هذا، كأنّه مُيِّزَت أبوابُه فجُعِل لكلِّ بابٍ حَيِّزُه. فأمَّا أصله فى لغة العرب فمن قولهم صَنّفَت الشّجرةُ، إذا أخرجت ورقَها. قال ابن قَيسِ الرُّقيّات:\nسَقْياً لحُلْوَانَ ذى الكُروم وما … صَنَّفَ من تينه ومن عِنَبِه (١)",
+ "az": "«صنف» (Sad, nun və fa) - iki mənada ardıcıl olaraq gələn səhih bir kökdür: biri bir şeyin tayfası (hissəsi), digəri isə şeylərin bir-birindən fərqləndirilməsidir. Birincisi «الصِّنْف» sözüdür. Xəlil demişdir: «الصِّنْف» hər şeyin bir tayfasıdır (qrupudur). Bu, növlərdən bir növdür, yəni «صِنفٌ من الأصناف». Paltarın «صنفة»-sına gəldikdə, bəzi qövmlər onun kənarı (haşiyəsi) olduğunu demişlər. Digərləri isə saçaqlı tərəfi olduğunu söyləmişlər. Digər əslə gəldikdə, Xəlil demişdir: «التَّصنيف» — şeylərin bir-birindən fərqləndirilməsidir. Kitabın təsnif edilməsi də ehtimal ki, bundandır. Təsnif olunmuş kitab da bundandır, guya onun fəsilləri ayrılmış və hər fəsilə öz yeri verilmişdir. Ərəb dilindəki əslinə gəldikdə isə, bu, onların «صَنّفَت الشّجرةُ» (ağac yarpaqlarını çıxartdı) sözündən götürülmüşdür. İbn Qeys ər-Ruqəyyat demişdir: Suvarılsın Hulwanın bağları və onun əncirindən, üzümündən çıxartdığı yarpaqlar (١)!",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

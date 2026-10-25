@@ -1,0 +1,17 @@
+{
+ "i": 183,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بثا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 197,
+  "page_to": 197
+ },
+ "ar": "الباء والثاء والألف كلمةٌ واحدة لا يُقاس عليها ولا يشتقّ منها، وهى البَثَاء: أرضٌ سهلة. وهى أرضٌ بعينها (٢). قال:\nرفعت لها طَرْفِى وقد حَالَ دُونها … جُموعٌ وخيلٌ بالبَثَاءِ تُغِيرُ (٣)",
+ "az": "«بثا» (Bəşə)\nالباء والثاء والألف كلمةٌ واحدة لا يُقاس عليها ولا يشتقّ منها، وهى البَثَاء: أرضٌ سهلة. (Bə, sə və əlif — əsas alınmayan və ondan söz törədilməyən tək sözdür, o da əl-bəşadır: hamar yer.)\nوهى أرضٌ بعينها (٢). (Və o, müəyyən bir yerdir (2).)\nقال: (O demişdir:)\nرفعت لها طَرْفِى وقد حَالَ دُونها … جُموعٌ وخيلٌ بالبَثَاءِ تُغِيرُ (٣)\n(Gözümü ona tərəf qaldırdım, halbuki onunla mənim aramda toplular və bəşada hücum edən atlılar maneə olmuşdu (3))",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:26:42.582Z"
+}

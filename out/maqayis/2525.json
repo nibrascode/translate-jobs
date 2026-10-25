@@ -1,0 +1,17 @@
+{
+ "i": 2525,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 428,
+  "page_to": 428
+ },
+ "ar": "الطاء والهاء واللام كلمةٌ إنْ صحت. يقولون طَهِلَ الماء:\nأجَنَ. والطهْلِئة (٣): الطين الذى يَنْحَتُّ من الحوض فى الماء.",
+ "az": "[طهل] (Tə, hə və lam) əgər səhihdirsə, bir sözdür. Deyirlər: طَهِلَ الماء (təhiləl-məu) – su iyləndi, xarab oldu. Və الطَّهْلِئة (ət-təhliə) – su hovuzundan suya tökülən paltar palçığıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.400Z"
+}

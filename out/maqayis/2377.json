@@ -1,0 +1,17 @@
+{
+ "i": 2377,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 357,
+  "page_to": 357
+ },
+ "ar": "الضاد والنون أصلٌ صحيح يدلُّ على بُخْلٍ بالشئ. يقال ضَنِنْتُ بالشّئِ أضَنُّ به ضَنًّا وضَنانةً، ورجلٌ ضَنين. وهذا عِلْقُ مَضَنَّةٍ ومَضِنّة، إذا كان نفيساً يُضَنُّ به. وفلانٌ ضِنِّى مِنْ بين إخوانى، إذا كان النّفِيسَ الذى يُضَنُّ به. وربما قالوا ضَنَنْت بفتح النون.",
+ "az": "[ضن] (ض، ن) — Bir şeydə xəsisliyə dəlalət edən səhih bir əsasdır. Deyilir: ضَنِنْتُ بالشّئِ أضَنُّ به ضَنًّا və ضَنانةً (Mən o şeyə xəsislik etdim, ona qıymıram), və رجلٌ ضَنين (xəsis kişi). Və هذا عِلْقُ مَضَنَّةٍ və مَضِنّة (Bu elə bir qiymətli maldır ki, ondan ötrü xəsislik edilir). Və فلانٌ ضِنِّى مِنْ بين إخوانى (Filankəs qardaşlarım arasında xəsisliklə qorunan qiymətli insandır). Bəzən nun hərfini fəthə ilə ضَنَنْتُ də deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.777Z"
+}

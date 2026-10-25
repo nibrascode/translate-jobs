@@ -1,0 +1,17 @@
+{
+ "i": 1243,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 282,
+  "page_to": 282
+ },
+ "ar": "الدال والعين والباء أَصلٌ يدلُّ على امتدادٍ فى الشئ وتَبَسُّط. فالدُّعْبُوب: الطريق السهل. وربَّما قالوا: فرسٌ دُعْبُوبٌ، إذا كان مديداً. وقياس الدُّعابة من هذا؛ لأنّ ثَمَّ تسُّطاً وتندُّحاً.",
+ "az": "[دعب] «الدال والعين والباء» (dal, ayn və ba) bir şeydə uzanmağa və genişlənməyə dəlalət edən bir əsasdır. الدُّعْبُوب (duəbub) – asan, hamar yoldur. Bəzən də deyirlər: فرسٌ دُعْبُوبٌ (uzunsov at), uzunsov olduğu zaman. Və «hazırcavablıq/zarafat» (الدُّعابة) kəlməsinin qiyası bundan gəlir; çünki orada genişlik və rahatlıq vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.370Z"
+}

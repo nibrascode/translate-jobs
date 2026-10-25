@@ -1,0 +1,17 @@
+{
+ "i": 1295,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 300,
+  "page_to": 300
+ },
+ "ar": "الدال والميم والراء أصلٌ واحد يدلُّ على الدُّخول فى البيت وغيرِه. يقال دَمَرَ الرّجُل بيتَه، إذا دخَلَه. وفرَقَ ناسٌ بين أن يكون دخولُه بإذْنٍ أو غير إذْن، فقال أبو عُبيدٍ\nفى حديث النبى ﵊: «مَنْ اطَّلَعَ فى بيتِ قومٍ بغير إذْنٍ فقد دمر». أى دخل. قال أبو عبيد: هذا إذا كان بغير إِذْن، فإن كان بإذنٍ فليس بدُمُور. وهذا تفسيرٌ شرعىّ، وأمّا قِياس الكلمة فما ذكرناه أوَّلاً. ومنه قول أوس:\nفلاقَي عليه من صُبَاحَ مُدَمِّراً … لناموسه من الصَّفيحِ سقَائفُ (٢)\nقال الشّيبانىُّ والأصمعىُّ: المدمِّر الداخل فى القُتْرة. ويقال دَمَر القُنفذُ إِذا دخَلَ جُحْره. وقال ناسٌ: المدَمّر الصّائد يدخِّن بأوبار الإبلِ وغيرِها حتّى لا يَجد الصَّيدُ رِيحَه. والذى عندنا أنّ المدمّر هو الدّاخلُ قُتْرتَه، فإِذا دخَلَها دَخّن.\nوليس المدمِّر من نعت المُدَخِّن، والقياس لا يقتضيه. وقال اللّه (٣): ﴿دَمَّرَ اَللّهُ عَلَيْهِمْ وَلِلْكافِرِينَ أَمْثالُها﴾. والدَّمار: الهلاك. ويقال إن التّدْمُرِىَّ:\nضَربٌ من اليَرابيع. فإن كان صحيحاً فهو القياس، لأنه يدمِّر فى جِحَرَتِه.",
+ "az": "[دمر] (dəm-r): Dal, mim və ra hərfləri bir əsas prinsipi göstərir ki, bu da evə və digər yerlərə daxil olmaqdır. Deyilir: «دَمَرَ الرّجُل بيتَه» (dəmərə ər-racülü beytəh) — kişi evinə daxil oldu. Bəzi insanlar icazə ilə və ya icazəsiz daxil olmaq arasında fərq qoydular. Əbu Übeyd Nəbinin ﵊ hədisində demişdir: «مَنْ اطَّلَعَ فى بيتِ قومٍ بغير إذْنٍ فقد دمر» (mən ətlaə fi beyti qavmin bi ğayri iznin fəqəd dəmərə) — yəni daxil oldu. Əbu Übeyd dedi: Bu, icazəsiz olduqda baş verir, əgər icazə ilə olarsa, bu, «دُمُور» (dumur) deyil. Bu, şəriətə görə edilən izahdır, sözün qísasına gəldikdə isə o, əvvəl qeyd etdiyimizdir. Avusun bu sözü dəridəndir:\nفلاقَي عليه من صُبَاحَ مُدَمِّراً … لناموسه من الصَّفيحِ سقَائفُ (٢)\nŞeybani və Əsməi demişdir: «المدمِّر» (əl-mudammir) – ovçunun gizləndiyi yerə daxil olan kəsdir. Və deyilir: «دَمَر القُنفذُ» (dəmərə əl-qunfüzü) — kirpi öz yuvasına daxil olduqda. Bəzi insanlar demişdir: «المدمّر» (əl-mudammir) — dəvənin və digər heyvanların yununu yandırmaqla tüstü verən ovçudur ki, ov onun qoxusunu almasın. Bizə görə isə «المدمّر» öz gizlənmə yerinə daxil olan, ora girən kimi tüstü verəndir. Və «المدمِّر» tüstü verənin vəsfi deyil, qísası da bunu tələb etmir. Allah demişdir (٣): ﴿دَمَّرَ اَللّهُ عَلَيْهِمْ وَلِلْكافِرِينَ أَمْثالُها﴾ (mənaca tərcümə: Allah onları məhv etdi, kafirlər üçün də buna bənzər aqibətlər vardır). Və «الدَّمار» (əd-damar): məhv olmaq. Və deyilir ki, «التّدْمُرِىَّ» (ət-tadmüriyyü): bir növ səhra siçanıdır. Əgər bu səhihdirsə, onda bu, qísadır, çünki o, yuvasında gizlənib məhv edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.834Z"
+}

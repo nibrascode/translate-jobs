@@ -1,0 +1,17 @@
+{
+ "i": 953,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 110,
+  "page_to": 110
+ },
+ "ar": "الحاء والنون والراء كلمةٌ واحدة، لولا أنها جاءت فى الحديث لما كان لِذِكرها وجه. وذلك أنَّ النون فى كلام العرب لا تكاد تجئ بعدها راء.\nوالذى جاء\nفى الحديث: «لَوْ صلَّيتُم حتى تَصبروا كالحنائر (١)». فيقال إنَّها القسىّ، الواحد حَنِيرة. وممكن أن يكون الراء كالمصقة بالكلمة، ويرجع إلى ما ذكرناه من حنيت الشئَ وحنوْنه.",
+ "az": "[حنر] (Həm, nun və ra): Əgər hədisdə gəlməsəydi, zikr olunmasına heç bir səbəb olmazdı deyə tək bir kəlmədir. Belə ki, ərəb dilində nun hərfindən sonra ra hərfinin gəlməsi demək olar ki, baş vermir. Hədisdə gələn budur: «لَوْ صلَّيتُم حتى تَصبروا كالحنائر» (Əgər hanairlər kimi səbir edənə qədər namaz qilsanız...). Deyilir ki, bunlar yaylardır (qisi), təkliyi «حَنِيرة» (həniyə)dir. Ra hərfinin kəlməyə yapışmış kimi olması və dediyimiz «حنيت الشئَ وحنوْنه» (bir şeyi əydim və bükdüm) mənalarına qayıtması mümkündür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.647Z"
+}

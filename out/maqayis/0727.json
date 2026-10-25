@@ -1,0 +1,17 @@
+{
+ "i": 727,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جيب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 497,
+  "page_to": 498
+ },
+ "ar": "الجيم والياء والباء أصلٌ يجوز أن يكون من باب الإِبدال.\nفالجَيْبُ جَيب القميص. يقال جِبْتُ القميص قوّرت جَيْبه، وجَيَّبْتُه جعلت له جَيباً.\nوهذا يدلُّ أنّ أصله واو، وهو بمعنى خَرقْت (١). وقد مضى ذكره.",
+ "az": "[جيب] — الجيم (Cim), الياء (Ya) və الباء (Ba) – əvəzetmə (ibdal) babından olması caiz olan bir əslə qayıdır. وَالجَيْب (əl-Ceyb) — köynəyin yaxasıdır. Deyilir: جِبْتُ القميص (Köynəyin yaxasını qırxdım, kəsdim), və جَيَّبْتُه (Ona yaxa düzəltdim). Bu, onun əslinin vav olduğunu göstərir və mənası «cırtdım» deməkdir (١). Bunun izahı artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

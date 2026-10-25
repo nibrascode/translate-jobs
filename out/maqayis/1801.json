@@ -1,0 +1,17 @@
+{
+ "i": 1801,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زيت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 39,
+  "page_to": 39
+ },
+ "ar": "الزاء والياء والتاء كلمةٌ واحدة، وهى الزّيت، معروف.\nويقال زِتُّه، إذا دهنْتَه بالزّيت. وهو مَزْيوت.",
+ "az": "[زيت] (zit). الزاء (ز) və الياء (ي) və التاء (ت) məlum olan زّيت (zeytun yağı) sözüdür, bir tək kəlmədir. Və زِتُّه (onu yağladım) — yəni onu zeytun yağı ilə yağladın, deyilir. O, مَزْيوت (yağlanmış) olaraq adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.435Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2309,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 315,
+  "page_to": 315
+ },
+ "ar": "الصاد * والهاء والراء أصلان: أحدهما يدلُّ على قُربَى، والآخر على إذابة شئ.\nفالأوّل الصِّهْر، وهو الخَتَن. قال الخليل: لا يقال لأهل بيت الرجل إلاّ أَخْتَانٌ، ولا لأهل بيت المرأة إِلاّ أصهار. ومن العرب من يجعلهم أصهاراً كلَّهُم.\nقال ابن الأعرابىّ: الإصهار: التَّحَرُّم بجِوارٍ أو نَسَب أو تَزَوُّج. وفى كلِّ ذلك يُتأَوَّل قولُ القائل:\nقَود الجياد وإِصهارُ الملوك وصَب … رٌ فى مواطنَ لو كانوا بها سئموا (١)\nوالأصل الآخر: إِذابة الشَّئ. يقال صَهَرْتُ الشَّحمةَ. والصُّهارة: ما ذاب منها. واصطهرتُ الشَّحمة. قال:\nوكنتَ إذا الوِلدانُ حَانَ صهيرُهم … صَهَرَت فلم يَصْهَرْ كصهرِكَ صاهرُ (٢)\nيقال صَهَرته الشّمسُ، كأنّها أذابته. يقال ذلك للحِرباء إِذا تلألأ ظَهْرُه من شدّة الحرّ. ويقال إنّهم يقولون: لأصْهَرنَّه بيمينٍ مُرَّة. كأنه قال:\nلأُذِيبَنَّه.",
+ "az": "«صهر» (Sad, hə və ra) - iki əsl kökə malikdir: biri qohumluğa, digəri isə bir şeyi əritməyə dəlalət edir. Birincisi «الصِّهْر» — kürəkən deməkdir. Xəlil demişdir: Kişinin ailəsinə yalnız «أختان» (kürəkənlər/qohumlar), qadının ailəsinə isə yalnız «أصهار» (qohumlar) deyilir. Ərəblərdən elələri də vardır ki, onların hamısına «أصهار» deyirlər. İbn əl-Ərəbi demişdir: «الإصهار» — qonşuluq, nəcabət və ya evlilik yolu ilə hörmət və toxunulmazlıq qazanmaqdır. Bütün bunlarda deənin bu sözü yozulur: Atların idarə olunması, kralların qohumluğu və... (1). Digər əsl: Bir şeyi əritmək. «صَهَرْتُ الشَّحمةَ» (piyi əritdim) deyilir. «الصُّهارة» — ondan əriyən şeydir. «اصطهرتُ الشَّحمة» (piyi əritdim). Şair demişdir: Sən o zaman ki, uşaqların ərimə vaxtı gəlib çatanda əritdin, heç bir əridən sənin əritdiyin kimi əritmədi (2). Deyilir ki, günəş onu «صَهَرَتْه» — sanki əritdi. Bu söz bürüncək üçün, istinin şiddətindən belinin parıldadığı vaxt işlədilir. Deyirlər ki, onlar: «لأصْهَرنَّه بيمينٍ مُرَّة» (And olsun sərt bir sazişlə onu əridəcəyəm) – yəni, sanki «əridəcəyəm» demək istəmişlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

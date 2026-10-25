@@ -1,0 +1,17 @@
+{
+ "i": 1990,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سجد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 133,
+  "page_to": 134
+ },
+ "ar": "السين والجيم والدال أصلٌ واحدٌ مطّرد يدلّ على تطامُن وذلّ. يقال سجد، إِذا تطامَنَ. وكلُّ ما ذلَّ فقد سجد. قال أبو عمرو: أسْجَدَ الرَّجُل، إذا طأطأ رأسَه وانحنى. قال حُميد:\nفُضُولَ أزِمّتِها أسْجَدَتْ … سُجودَ النَّصارى لأربابها (٤)\nوقال أبو عبيدةَ مثلَه، وقال: أنشدنى أعرابىٌّ أسدىّ:\nوقُلن له أسْجِدْ لليلَى فأسْجَدَا (٥)\nيعنى البعيرَ إذا طأطأ رأسه. وأما قولهم: أسجَدَا إسجاداً، إذا أدام النّظر،\nفهذا صحيحٌ، إلاّ أنّ القياس يقتضى ذلك فى خَفض، ولا يكون * النّظرَ الشّاخصَ ولا الشزْر. يدلُّ على ذلك قولُه:\nأغَرَّكِ مِنِّى أنَّ دَلَّكِ عندنا … وإسجادَ عينيك الصَّيُودَين رابحُ (١)\nودراهم الإسجاد: درَاهمُ كانت عليها صورٌ، فيها صورُ ملوكهم، وكانوا إذا رأوها سجَدُوا لها. وهذا فى الفُرس. وهو الذى يقول فيه الأسود:\nمِنْ خَمرِ ذِى نُطَفٍ أغَنَّ مُنَطَقٍ … وافَى بها لِدراهم الإسجادِ (٢)",
+ "az": "[سجد] (səcədə): Sin, cim və dal hərfləri sakitliyə və zillətə dəlalət edən vahid, muttərid bir kökdür. «سجد» (səcədə) – sakitləşdi, başını aşağı dikdi, deyilir. Zəlil olan hər bir şey səcdə etmişdir. Əbu Əmr demişdir: «أسْجَدَ الرَّجُل» (əsgədər-rəqulu) – kişi başını aşağı salıb əyildi. Humeyd demişdir:\nفُضُولَ أزِمّتِها أسْجَدَتْ … سُجودَ النَّصارى لأربابها (٤)\n(Yüyənlərinin uclarını başıaşağı etdilər... xristianların öz rədlərinə səcdə etməsi kimi).\nƏbu Ubەydə də bunun bənzərini söyləmiş və demişdir: Əsəd qəbiləsindən olan bir ərəb mənə şeir söylədi:\nوقُلن له أسْجِدْ لليلَى فأسْجَدَا (٥)\n(Və dedilər ona: Leyliyə səcdə et, o da səcdə etdi).\nO, başını aşağı salan dəvəni nəzərdə tutur. Amma onların «أسجَدَا إسجاداً» (əsgəda iscadan) – davamlı baxdı, sözünə gəldikdə; bu səhihtir, lakin qiyas bunu gözətqməkdə tələb edir, dik baxış və ya qıyıq baxış olmaz. Buna aşağıdakı söz dəlalət edir:\nأغَرَّكِ مِنِّى أنَّ دَلَّكِ عندنا … وإسجادَ عينيك الصَّيُودَين رابحُ (١)\n(Məni aldımı ki, sənin nəvazişin bizdədir... və ovçu gözlərinin davamlı baxışı qazançlıdır).\n«دراهم الإسجاد» (dərahimül-iscad) – üzərində təsvirlər olan dirhəmlərdir, onlarda padşahlarının şəkilləri var idi, onları görəndə səcdə edərdilər. Bu, farslarda idi. Əsvədin bəhs etdiyi də budur:\nمِنْ خَمرِ ذِى نُطَفٍ أغَنَّ مُنَطَقٍ … وافَى بها لِدراهم الإسجادِ (٢)\n(Damcıları olan, genizdən danışan, kəmərli şəxsin şərabından... iscad dirhəmləri üçün gətirdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:35.045Z"
+}

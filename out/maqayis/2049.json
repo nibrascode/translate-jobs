@@ -1,0 +1,17 @@
+{
+ "i": 2049,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 176,
+  "page_to": 176
+ },
+ "ar": "الشين والنون أَصلٌ واحد يدلُّ على إخلاقٍ ويُبْس. من ذلك الشَّنُّ، وهو الجِلد اليابس الخَلَق البالى، والجمع شِنانٌ. و\nفى الحديث فى ذكر القرآن: «لا يَتفه ولا يتشاَنُّ (١)». أى لا يَقِلُّ ولا يُخْلِق. والشنين: قَطَرانُ الماء من الشّنّة. قال الشاعر:\nيا مَنْ لدمعٍ دائم الشَّنِينِ (٢)\nومن الباب: الشِّنْشِنَة، وهى غَريزة الرَّجُل. وفى أمثالهم:\n«شِنْشِنة أعرفُها من أَخزم»:\nوهى مشتقة مما ذكرناه، أى هى طبيعتُه التى وُلِدَت معه وقَدُمَت، فهى كأنها شَنّة. والشَّنُون، مختلف فيه، فقال قوم: هو المهزول، واحتجُّوا يقول الطرِمَّاح فى وصف الذئب الجائع:\nكالذّئب الشّنونِ (٣)\nوقال آخرون: هو السَّمين. ويقال إنّه الذى ليس بسمينٍ ولا مهزُول.\nوإذا اختلفت الأقاويل نُظِرَ إلى أقربها من قياس الباب فأُخِذَ به. وقد قال الخليل:\nإن الشَّنُون الذى ذهب بعضُ سِمَنه، [شُبِّهَ (٤)] بالشَّنّ. وقال: يقال للرّجُل إذا هُزِلَ: قد استَشَنّ. وأمّا إشْنانُ (٥) الغارةِ فإِنما هو مشتقٌّ من الشَّنين، وهو قَطَران الماء من الشَّنَّة، كأنهم تفرَّقوا عليهم فأتَوْهم من كلِّ وجه. يقال شننت الماءَ، إذا صَببته متفرِّقاً. وهو خلافُ سنَنْت.",
+ "az": "[شن] «الشين والون» (şin və nun) – köhnəlməyə və quruluğa dəlalət edən tək bir əsasdır. Bunlardan biri «الشَّنُّ» (əş-şənn) olub, quru, köhnə və çürük dəridir, cəmi «شِنانٌ» (şinan) gələr. Hədisdə Quranın zikrinə dair gəlmişdir: «لا يَتفه ولا يتشاَنُّ (١)» — mənaca tərcümə: «O, nə ləzzətini itirər, nə də köhnələr». Yəni o, azalmaz və köhnəlməz. «الشنين» (əş-şənin) – dəridən (qədim tuluqdan) suyun damcılamasıdır. Şair demişdir: «يا مَنْ لدمعٍ دائم الشَّنِينِ (٢)» — mənaca tərcümə: «Ey daimi damcılayan göz yaşının sahibinə ağlayan kəs!». Bu fəsildəndir: «الشِّنْشِنَة» (əş-şinşinə) – insanın təbiətidir. Onların məsəllərində deyilir: «شِنْشِنة أعرفُها من أَخزم» (Şinşinəni Əxzəmdən tanıyıram) — bu, qeyd etdiyimizdən törəmişdir, yəni o, onunla birlikdə doğulduğu və qədimləşdiyi təbiətidir, sanki o (təbiət) köhnə tuluq kimidir. «الشَّنُون» (əş-şənun) – barəsində ixtilaf edilmişdir; bir qrup dedi: O, arıqdır. Onlar aclıqdan ölən canavarı vəsf edən Tirimmahın bu sözü ilə dəlil gətirdilər: «كالذّئب الشّنونِ (٣)» — mənaca tərcümə: «Arıq canavar kimi». Başqaları dedilər: O, kökdür. Həmçinin deyilir ki, o, nə kök, nə də arıq olandır. İxtilaflar baş qaldırdıqda fəslin ölçüsünə ən yaxın olanına baxılar və o götürülər. Xəlil demişdir: «Şənun» – piylərinin bir qismi getmiş olan kəsdir, şənnə (köhnə tuluğa) bənzədilmişdir [شُبِّهَ (٤)]. O demişdir: İnsan arıqladıqda ona «قَدْ استَشَنّ» (qəd istəşənn – köhnə tuluq kimi qurudu/arıqladı) denilir. «إشْنانُ» (işnan) – basqına (hücuma) gəldikdə isə, o, ancaq «əş-şənin» sözündən törəmişdir ki, o da tuluqdan suyun damcılamasıdır; sanki onlar (düşmənlər) onlara qarşı pərən-pərən düşüb hər tərəfdən gəldilər. Deyilir: «شننت الماءَ» (şənəntül-maə) – suyu səpələyərək tökdün. Bu, «سننت» (sənəntü) sözünün əksidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:50:42.414Z"
+}

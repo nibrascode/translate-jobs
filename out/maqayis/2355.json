@@ -1,0 +1,17 @@
+{
+ "i": 2355,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صدغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 338,
+  "page_to": 338
+ },
+ "ar": "الصاد والدال والغين أصلان، أحدهما عضوٌ من الأعضاء، والآخَر يدلُّ على ضَعْف.\nفالأوّل الصُّدْغ، وهو ما بين خَطِّ العين إلى أصل الادُن. يقال صَدَغْت الرّجل، إِذا حاذيتَ صُدْغَه بصُدْغِك فى المشى. والصِّداغ: سِمَة فى الصُّدْغ.\nوالأصل الآخَر الصَّدِيغ: الرجل الضَّعيف. يقال ما يَصْدَغ نملةً من ضَعْف (١)، أى ما يقتُل. ويقال إنَّ الصَّديغ الولدُ إلى أن يستكملَ سبعةَ أيام (٢).\nومما شذَّ عن البابين قولُهم: صدغتُه عن الشئ، أى كففتُهُ عنه.",
+ "az": "[صدغ] (Sədğ). Sad, dal və ğayın hərfləri iki əsasdır; bunlardan biri bədən üzvlərindən birinə, diğəri isə zəifliyə dəlalət edir. Birincisi “sudğ” [الصُّدْغ] olub, göz xəttindən qulağın dibinə qədər olan hissədir. «صَدَغْت الرّجل» — yeriyərkən kişinin sədgini öz sədğinlə bərabərləşdirdikdə deyilir. “Sidağ” [الصِّداغ] — səddəki nişandır. Digər əsas isə “sadiq” [الصَّدِيغ] olub zəif kişi deməkdir. Zəifliyindən elə bil qarışqanı öldürməz mənasında «ما يَصْدَغ نملةً من ضَعْف» (١) deyilir. Deyilənə görə, “sadiq” uşaq yeddi gününü tamamlayana qədərki körpədir (٢). Bu iki əsasdan istisna olunan budur ki, «صدغتُه عن الشئ» — yəni onu o şeydən saxladım, çəkindirdim deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.589Z"
+}

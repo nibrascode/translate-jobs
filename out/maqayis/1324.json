@@ -1,0 +1,17 @@
+{
+ "i": 1324,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 310,
+  "page_to": 310
+ },
+ "ar": "الدال والواو والدال ليس أصلا يفرّع منه. فالدُّود معروف.\nيقال دَادَ الشئُ يَدَادُ، وأَدادَ يُدِيدُ. والدّوَادِى: آثار أراجِيح الصبيان، واحدتُها دَوْدَاةٌ.",
+ "az": "[دود] الدال, واو və דal – özündən budaqlanan bir əsas deyildir. «الدُّود» (qurdlar) məlumdur. \nDeyilir: «دَادَ الشئُ يَدَادُ» və «أَدادَ يُدِيدُ». «الدّوَادِى» – uşaqların yelləncəklərinin izləridir, təkliyi «دَوْدَاةٌ»-dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:17.562Z"
+}

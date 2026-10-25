@@ -1,0 +1,17 @@
+{
+ "i": 1545,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رقل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 425,
+  "page_to": 425
+ },
+ "ar": "الراء والقاف واللام أصلان: أحدهما طولٌ فى شئِ والآخر ضرب من المشى.\nفأمّا الأوَّل فالرَّقْلُ: النَّخْل الطُّوال، واحدتها رَقْلة؛ وتجمع فى القِلّة رَقلات.\nوالرّاقُول: حَبْلٌ تُصَعد به النّخلة.\nوالأصل الثانى: أرْقَلَت النَّاقةُ، وهو ضربٌ من المشْى، وهى مُرْقِلٌ، ولا يكون إلاَّ بسرعة. وهاشم بن عُتْبَة المِرْقالُ (١)، لإرقاله كان فى الحروب. قال الرَّاجز، فى أرْقَلَت النَّاقة:\n* والمُرْقِلَاتِ كُلَّ سَهْبٍ سَمْلقٍ (٢) *",
+ "az": "[رقل] (ra, قاف, lam). İki əsl vardır: biri bir şeydə uzunluq, diğəri isə gediş növüdür. Birincisinə gəldikdə, «الرَّقْلُ» — uzun xurma ağaclarıdır, təkli «رَقْلة»dir; azlıq bildirən cəmi «رَقْلات» gəlir. «الرّاقُول» — üzərinə çıxılaraq xurma ağacına dırmaşılan ipdir. İkinci əsl: «أرْقَلَت النَّاقةُ» — bu bir gediş növüdür, o, «مُرْقِلٌ»-dir və bu, yalnız sürətlə olur. Həşəm ibn Ütbə «الْمِرْقالُ» adlandırılmışdır (١), çünki o, müharibələrdə sürətlə gedərdi. Rəcəz yazan dəvənin sürətli gedişi haqqında demişdir: * والمُرْقِلَاتِ كُلَّ سَهْبٍ سَمْلقٍ (٢) * (Hər bir düzənli və səssiz səhranı sürətlə keçən [dəvələr]).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:31.379Z"
+}

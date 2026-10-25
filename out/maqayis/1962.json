@@ -1,0 +1,17 @@
+{
+ "i": 1962,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سيب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 119,
+  "page_to": 120
+ },
+ "ar": "السين والياء والباء أصلٌ يدلُّ على استمرارِ شئٍ وذهابِه.\nمن ذلك سَيْبُ الماء: مجراه. وانْسَابت الحَيَّة انسياباً. ويقال سيَّبت الدّابّة:\nتركتُه حيث شاء. والسائبة: العبد يُسَيَّب من غير وَلاءٍ، يَضَعُ مالَه حيث شاء.\nومن الباب [السَّيْب (١)]، وهو العَطاء، كأنَّه شئٌ أُجرِىَ له. والسُّيُوب:\nالرِّكاز، كأنه عطاءٌ أجراه اللّه تعالى لمن وَجَده.\nومما شذّ عن هذا الأصل السَّيَابُ، وهو البلح، الواحدة سَيَابةٌ",
+ "az": "[سيب] Sin, ya və ba hərfləri bir şeyin davam etməsinə və gedib çıxmasına dəlalət edən bir əslir.\nO cümlədən «سَيْبُ الماء» (su axını): suyun axdığı yol. «انْسَابت الحَيَّة انسياباً» (ilan sürüşərək süründü). Deyilir: «سيَّبت الدّابّة» (heyvanı buraxdım): onu istədiyi yerdə sərbəst buraxdım. «السائبة» (sayibə) – himayəçisi/dostu olmadan sərbəst buraxılan quludur ki, malını istədiyi yerdə qoyar.\nBu babdandır: [السَّيْب] (seyb), yəni bağışlanan əta/ihsan; sanki o, axıdılıb verilən bir şeydir. «السُّيُوب» (suyub) – yer altından çıxarılan xəzinələrdir (rikaz), sanki uca Allahın onu tapana axıdıb verdiyi bir ihsandır.\nBu əsldən kənara çıxan (şəzz olan) «السَّيَابُ» (səyab) – dəyirmi xurmadır, təkli isə «سَيَابَةٌ» (səyabə) kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

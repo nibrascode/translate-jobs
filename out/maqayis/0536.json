@@ -1,0 +1,17 @@
+{
+ "i": 536,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 384,
+  "page_to": 385
+ },
+ "ar": "الثاء واللام والباء كلمةٌ صحيحة مطَّردةُ القِياسِ فى خَوَر الشّئ وتشعُّثِه. فالثَّلِبُ الرُّمْح الخوّار. قال الهُذلىّ (٣):\nومُطَّرِدٌ من الخَطِّ … ىِّ لا عارٍ ولا ثَلِبُ\nوالثِّلْب: الهِمُّ الكبِير. وقد ثَلِبَ ثَلباً. ويقال ثَلَبْتُه إذا عِبْتَهُ. وهو ذو ثلبةٍ (٤) أى عَيْب. والقياس ذاك، لأنه يضع منه ويشعِّثه (٥). وامرأةٌ ثالِبةُ الشَّوَى،\nأى منْشقّة القدمَين (١). قال:\nلقد ولَدَتْ غَسَّانَ ثالبَةُ الشَّوَى … عَدُوس السُّرَى لا يعرف الكَرْمُ جِيْدُها (٢)\nوالثَّلَب: الوَسَخ، يقال إنه لَثَلِبُ الجِلْد، وذاك هو القَشَف. والقياسُ واحد.",
+ "az": "[ثلب] (Sə, lam və ba) bir şeyin zəifləməsi və dağılması barəsində səhih, mütərrəd (qaydaya uyğun) bir qiyas olan kəlmədir. الثَّلِبُ (əttəlib) – zəif nizədir. Hüzəli demişdir (٣):\nومُطَّرِدٌ من الخَطِّ … يِّ لا عارٍ ولا ثَلِبُ\n(Mənanın tərcüməsi: Xətt bölgəsindən gələn, nə eybi olan, nə də zəif olan nizə...) \nVə الثِّلْب (əttilb): Qoca, yaşlı kişidir. O, ثَلِبَ ثَلباً (zəiflədi, qocaldı) olmuşdur. Deyilir: ثَلَبْتُه (mən onu qınadım) – onu qüsurla ittiham etdiyin zaman. Və o, ذو ثلبةٍ (qüsur sahibi) – yəni eyiblidir (٤). Qiyas budur, çünki bu, onu aşağılayır və dağıdır (٥). Və qadın ثالِبةُ الشَّوَى (ayaqları yarıq-yarıq olan qadın) – yəni ayaqları çartlamışdır (١). (Şair) demişdir:\nلقد ولَدَتْ غَسَّانَ ثالبَةُ الشَّوَى … عَدُوس السُّرَى لا يعرف الكَرْمُ جِيْدُها (٢)\n(Mənanın tərcüməsi: Ayaqları yarıq-yarıq olan qadın Qəssanı doğdu; o, gecə səyahətini sevən, boynu zinəti tanımayan biridir.)\nVə الثَّلَب (əttələb): Çirkdir, deyilir ki, o, لَثَلِبُ الجِلْد (dərisi çirkli olan) – bu da kirin özüdür. Qiyas eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.493Z"
+}

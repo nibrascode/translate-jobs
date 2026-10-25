@@ -1,0 +1,17 @@
+{
+ "i": 252,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 251,
+  "page_to": 251
+ },
+ "ar": "الباء والشين والميم أصلٌ واحد، وهو جِنْسٌ من السَّآمةِ لمأكولٍ ما، ثمَّ يُحْمَل عليه غيرُه. يقال بَشِمْتُ من الطَّعام، كأنَّك سَئِمْتَه. قال الخليل: البَشَم يُخَصُّ به الدَّسَم. قال: ويقال فى الفَصِيل (١): بَشِم مِنْ كَثْرَة شُرْبِ اللَّبن.\nوممّا شذّ عن الأصل البَشَامُ، وهو شجَرٌ.",
+ "az": "[بشم] (bəşəm): Ba, şin və mim tək bir əsasdır, o da müəyyən bir yeyilən şeydən doyub usanmağın bir növüdür, sonra başqa şeyə də şamil edilir. «بَشِتُ من الطَّعام» (bəşittu minət-təam) – elə bil yeməkdən usandın, dedin. Xəlil demişdir: «البَشَم» (bəşəm) daha çox yağlı yeməklərə aid edilir. O demişdir: «الفَصِيل» (əl-fəsil – süddən kəsilmiş balası) haqqında: çox süd içməkdən «بَشِم» (bəşim) oldu, deyilir.\nƏsasdan kənara çıxan (şəzz) isə «البَشَامُ» (əl-bəşam) – bir ağac növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:44.619Z"
+}

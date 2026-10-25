@@ -1,0 +1,17 @@
+{
+ "i": 2537,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طوط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 434,
+  "page_to": 434
+ },
+ "ar": "الطاء والواو والطاء كلمتان إن صحّتا. يقولون: إنّ الطَّوطَ القطْن. والطوط: الرّجل الطَّويل.",
+ "az": "[طوط] (T-V-T): Ta, vav və ta hərfləri, əgər düzgündürlərsə, iki kəlimədir. Deyirlər ki, الطَّوط (pambıq) pambıqdır. الطوط (uzun adam): Uzun adamdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:11:32.879Z"
+}

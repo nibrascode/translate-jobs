@@ -1,0 +1,17 @@
+{
+ "i": 1576,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 439,
+  "page_to": 439
+ },
+ "ar": "الراء والميم والزاء أصلٌ واحدٌ يدلُّ على حركةٍ واضطراب.\nيقال كتيبة رَمَّازة: تموج من نواحِيها. ويقال ضربه فما ارمَأَزَّ، أى ما تحرَّك.\nوارتَمَز أيضاً: تحرَّك.\nويقولون: إنّ الرَّاموز: البحر. وأراه فى شعر هذَيل.",
+ "az": "[رمز] (Rəməz). Ra, mim və zay hərəkətə və iztiraba dəlalət edən tək bir əsasdır. Deyilir: كتيبة رَمَّازة (Rəmmazə dəstə): kənarlarından dalğalanır. Deyilir ki, onu vurdu və heç ارمَأَزَّ (tərpənmədi, irkilmədi), yəni hərəkət etmədi. Və həmçinin اِرتَمَز (irtəməz): hərəkət etdi. Onlar deyirlər ki, الرَّاموز (əl-ramuz): dənizdir. Mən onu Huzeyl şeirində görürəm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:08.692Z"
+}

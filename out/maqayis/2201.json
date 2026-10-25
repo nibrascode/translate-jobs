@@ -1,0 +1,17 @@
+{
+ "i": 2201,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شخل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 254,
+  "page_to": 254
+ },
+ "ar": "الشين والخاء واللام ليس بشئ، وحكيت فيه كلمة ما أراها من كلام العرب، على أنّها فى كلام الخلْيل، قال: الشّخْل: الغلام يصادق الرّجُل.",
+ "az": "«شخل» (şəxl). Şin, xa və lam köklü sözlərdə heç bir əsas yoxdur. Xəlilə aid edilməsinə baxmayaraq, ərəblərin dilindən olduğunu güman etmədiyim bir kəlmə rəvayət edilmişdir ki, o demişdir: «الشَّخْلُ» (əş-şəxl) — kişi ilə dostluq edən oğlan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.963Z"
+}

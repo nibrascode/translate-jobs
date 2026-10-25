@@ -1,0 +1,17 @@
+{
+ "i": 368,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بحثر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 329,
+  "page_to": 330
+ },
+ "ar": "ومن ذلك (بَحْثَرْتُ) الشئَ، إذا بَدَدته. والبَحْثَرة: الكَدَر فى الماء.\nوهذه منحوتةٌ من كلمتين: من بحثْتُ الشَّئ فى التراب - وقد فُسِّر فى الثلاثى -\nومن البَثْر الذى يَظْهَر على البَدَن، * وهو عربىٌّ صحيحٌ معروف. وذلك أنَّه يَظْهَرُ متفرِّقاً على الجِلْد.",
+ "az": "[بحثر] (Bə-ha-sə-ra) Buradan «بَحْثَرْتُ» (bəhsərtu) kəlməsi gəlir, yəni bir şeyi dağıtdım. «البَحْثَرة» (əl-bəhsərə) sudakı bulanıqlıqdır. Bu, iki kəlmədən nəht edilmişdir: «بحثْتُ» (bəhəstu - axtardım) kəlməsindən ki, üç hərflilərdə izah edilmişdir, və bədəndə çıxan «بَثْر» (bəsr - sızanaq) kəlməsindən ki, bu da ərəbcə düzgün və məlum bir sözdür. Bu, dərinin üzərində səpələnmiş halda çıxır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

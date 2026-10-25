@@ -1,0 +1,17 @@
+{
+ "i": 1598,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 447,
+  "page_to": 447
+ },
+ "ar": "الراء والهاء والباء أصلان: أحدهما يدلُّ على خوفٍ، والآخَر على دِقّة وخِفَّة.\nفالأوَّل الرَّهْبة: تقول رهِبْت الشئَ رُهْباً ورَهَباً ورَهْبَة. والترهُّب:\nالتعبُّد. ومن الباب الإرهاب، وهو قَدْع الإبل من الحوض وذِيادُها.\nوالأصل الآخر: الرَّهْب: الناقة المهزولة. والرَّهاب: الرِّقاق من النِّصال؛ واحدها رَهْبٌ. والرَّهاب: عظمٌ فى الصَّدر مشرفٌ على البَطن مثلُ اللِّسان.",
+ "az": "[رهب] «الراء» (ra), «هاء» (hə) və «باء» (ba) iki əsas mənaya malikdir: bunlardan biri qorxuya, digəri isə incəliyə və yüngüllüyə dəlalət edir.\nBirincisi: الرَّهْبة (ərrəhbə) — qorxu. Deyirsən: رهِبْت الشئَ رُهْباً və رَهَباً və رَهْبَة (rəhibtüş-şeyə ruhban və rəhəbən və rəhbətən). Və الترهُّب (əttərahhub) — ibadət etmək. Bu fəsildəndir: الإرهاب (əl-irhəb) — dəvələri su hovuzundan uzaqlaşdırmaq və qovmaq.\nDigər əsas məna: الرَّهْب (ərrəhb) — arıqlamış dişi dəvə. Və الرَّهاب (ərrəhab) — nizələrin incə olanları; təkli رَهْبٌ (rəhb) dur. Və الرَّهاب (ərrəhab) — sinədə qarına doğru çıxıntı edən dilə bənzər sümük.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 621,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 442,
+  "page_to": 443
+ },
+ "ar": "الجيم والراء والشين أصلٌ واحد وهو جَرْش الشَّئ: أنْ يُدقَّ ولا يُنْعَم دَقُّه. يقال جَرَشْته، وهو جَرِيش. والْجُرَاشة: ما سَقَط من الشئِ\nالمجروش. وجرّشت الرأس بالمشط: حككته حتَّى تَستكثِرَ الإبْرِية (١). وذكر الخليل أنّ الجَرش الأكْل\nومما شذَّ عن الباب الجِرِشَّى، وهو النَّفس. قال:\n* إليه الجِرِشَّى وارْمَعَلَّ حَنِينُها (٢) *\nفأمّا قولهم مَضَى جَرْشٌ من اللّيل، فهى الطائفة، وهو شاذٌّ عن الاصل الذى ذكرناه. قال:\n* حتى إذا [ما] تُرِكَتْ بجَرْشِ (٣) *",
+ "az": "[جرش] (Cim, راء və şin): Bir əsasdır, o da şeyin üyüdülməsidir: «جَرْش الشَّئ» – şeyin döyülüb tam incəlməməsidir. Deyilir: «جَرَشْته» (onu üyütdüm), o, «جَرِيش» (cəriş – xırda üyüdülmüş) olar. «الْجُرَاشة» (cüraşə) – üyüdülmüş şeydən tökülən qırıntılardır. «جرّشت الرأس بالمشط» (başını daraqla qaşıdım) – başı dırnaq və ya daraqla elə qaşıdın ki, kəpək tökülsün. Xəlil zikr etmişdir ki, «الجَرش» (cərs) – yemək deməkdir. Babdan şaz olan «الجِرِشَّى» (cirişşə) – Nəfs (can) deməkdir. Şair demişdir: «Ona tərəf cirişşə (can) yönəldi və ah-naləsi şiddətləndi (2)» Qaldı ki, «مَضَى جَرْشٌ من اللّيل» (Gecənin bir qismi keçdi) sözü, bu, qeyd etdiyimiz əsasdan şazdır. Şair demişdir: «Hətta gecənin bir qismində tərk olunduğu zaman (3)».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:27.644Z"
+}

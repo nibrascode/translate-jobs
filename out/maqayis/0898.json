@@ -1,0 +1,17 @@
+{
+ "i": 898,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حظل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 81,
+  "page_to": 81
+ },
+ "ar": "الحاء والظاء واللام أصلٌ واجد، وهو قريب من الذى قبله فالحَظْل: الغَيْرة ومَنْع المرأة من التصرّف والحركة [قال (٢)]:\n* فيحظِلُ أو يَغارُ (٣) *\nقال أبو عبيد: حظلت عليه مثل حَظَرْتُ ويقال فى قوله\n«فيحظِلُ أو يَغَار»\nإنّه التّقْتير. وأحْرِ أن يكون هذا أصحّ، لأنّه قال «أو يغار». والتقتير يرجع إلى الذى ذكرناه من المنْع. والدَّليل على ذلك قولهم حَظَلان وحظْلان. قال:\nتُعَيّرُنى الحِظْلانَ أمُّ مُخلِّسٍ … فقلت لها لم تَقذفينِى بِدائيا (٤)",
+ "az": "«حظل» (H-Z-L): hə, zai və lam hərfləri tək bir əsas mənadır ki, o da özündən əvvəlkiyə yaxındır. الحَظْل (hazl) — qısqanclıq, qadının hərəkətini və sərbəstliyini məhdudlaşdırmaqdır. [Şeir]: * فيحظِلُ أو يَغارُ (٣) * — «O, məhdudlaşdırar və ya qısqanar». Əbu Übeyd demişdir: «حظلت عليه» (ona qadağa qoydum) — «حظَرْتُ» (hazartu) kimidir. «فيحظِلُ أو يَغارُ» sözü haqqında deyilir ki, bu, xəsislik etmək, sıxıntıya salmaqdır. Bunun daha doğru olması ehtimalı yüksəkdir, çünki şair «və ya qısqanar» demişdir. Xəsislik (sıxıntı) isə zikr etdiyimiz qadağan etmə mənasına qayıdır. Buna dəlil olaraq onların «حَظَلان» (hazalan) və «حظْلان» (huzlan) demələridir. Şair demişdir: [Şeir]: تُعَيّرُنى الحِظْلانَ أمُّ مُخلِّسٍ … فقلت لها لم تَقذفينِى بِدائيا (٤) — «Muxəllisin anası mənə hüzlanı (zəifliyi/xəsisliyi) ar edir, mən də ona dedim: Niyə məni öz dərdinlə ittiham edirsən?»",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:55.260Z"
+}

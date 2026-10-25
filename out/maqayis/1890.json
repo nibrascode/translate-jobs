@@ -1,0 +1,17 @@
+{
+ "i": 1890,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سكم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 88,
+  "page_to": 88
+ },
+ "ar": "السين والكاف والميم ليس بشئ. على أنّ بعضهم ذكر أن السكم مقارَبة الخطو.",
+ "az": "«سكم» (s-k-m): السين والكاف والميم ليس بشئ (Sin, kaf və mim heç bir şey deyil). على أنّ بعضهم ذكر أن السكم مقارَبة الخطو (Lakin onların bəziləri qeyd etmişdir ki, «السكم» addımları bir-birinə yaxınlaşdırmaqdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:44:24.789Z"
+}

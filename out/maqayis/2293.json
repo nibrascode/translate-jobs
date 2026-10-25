@@ -1,0 +1,17 @@
+{
+ "i": 2293,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صمخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 309,
+  "page_to": 309
+ },
+ "ar": "الصاد والميم والخاء أصلٌ واحد وكلمة واحدة، وهو الصِّماخ: خَرْق الأُذُن. يقال صَمَخْتُه، إذا ضربتَ صِماخَه.",
+ "az": "[صمخ] (sad, mim və xa) — tək bir kök və tək bir kəlmədir, o da «الصِّماخ» (simaх) — qulaq deşiyidir. Deyilir: «صَمَخْتُه» (mən onun simaxına vurdum, yəni qulağını vurdum).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.917Z"
+}

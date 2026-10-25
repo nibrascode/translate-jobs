@@ -1,0 +1,17 @@
+{
+ "i": 2029,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 152,
+  "page_to": 152
+ },
+ "ar": "السين والدال والخاء لا أصلَ له فى كلام العرب. ولا معنَى لقول من قال: انسدخ مثل انسدح، إذا استلقى عند الضرب أو انبطح.\nواللّه أعلم.",
+ "az": "«سدخ» (sin, dal və xə) ərəb dilində heç bir əsli yoxdur. «انسدح» kimi «انسدخ» – yəni zərbə zamanı və ya qarın üstə uzandıqda arxası üstə uzandı, – deyənin sözünün də heç bir mənası yoxdur. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.133Z"
+}

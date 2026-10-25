@@ -1,0 +1,17 @@
+{
+ "i": 1125,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خلص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 208,
+  "page_to": 208
+ },
+ "ar": "الخاء واللام والصاد أصلٌ واحد مطَّرِد، وهو تنقيةُ الشَّئ وتهذيبُه. يقولون: خلَّصتُه من كذا وخَلَصَ هو. وخُلاصة السَّمْنِ: ما أُلْقِىَ فيه من تَمْرِ أو سَويق ليخلُصَ به.",
+ "az": "[خلص] الخاء واللام والصاد أصلٌ واحد مطَّرِد (Xar, lam və sad hərfləri tək və mütləq bir əsas mənadır), وهو تنقيةُ الشَّئ وتهذيبُه (ki, o da şeyin təmizlənməsi və saflaşdırılmasıdır). يقولون: خلَّصتُه من كذا وخَلَصَ هو (Deyirlər: xəlləstuhu min kəzə - onu filan şeydən xalis etdim, təmizlədim və o özü xalis oldu). وخُلاصة السَّمْنِ (Yağın xülasəsi - saf yağı): ما أُلْقِىَ فيه من تَمْرِ أو سَويق ليخلُصَ به (ona yağın saflaşması üçün atılmış xurma və ya un qığıntısıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:48.240Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1671,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رثن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 488,
+  "page_to": 488
+ },
+ "ar": "الراء والثاء والنون ليس بشئٍ. وربما قالوا: أرضٌ مرثونةٌ.\nالرّثن، وهو ممّا زَعَموا: شِبْه الرَّذَاذ.",
+ "az": "[رثن] \nالراء والثاء والنون (ra, sə və nun) — heç bir şey deyil. Bəzən deyirlər: أرضٌ مرثونةٌ (rəsun olunmuş/nəm yer). \nРəsən — onların iddia etdiyinə görə: çiskin/çiskinli yağış bənzəridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:36.371Z"
+}

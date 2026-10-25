@@ -1,0 +1,17 @@
+{
+ "i": 969,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حوص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 120,
+  "page_to": 120
+ },
+ "ar": "الحاء والواو والصاد كلمةٌ واحدةٌ تدلُّ على ضِيق الشئ.\nفالحَوْص الخِياطة؛ حُصْت الثّوبَ حَوْصاً، وذلك أن يُجمَع بين طرَفَىْ ما يُخاط.\nوالحَوَصُ: ضِيقُ مُؤْخِر العينين فى غَوْرها - ورجلٌ أحوص - ويقال بل الأحوص الضيّق إحدى العَينَيْن.",
+ "az": "[حوص] الحاء, الواو və الصاد hərfləri tək bir kəlmə olub, bir şeyin daralmasına dəlalət edir. الحَوْص (əl-həvs) – tikişdir; حُصْت الثّوبَ حَوْصاً (hustüt-səvbə həvsən) – paltarı tikdim, bu da tikilən şeyin hər iki ucunun bir-yəra yığılmasıdır. الحَوَصُ (əl-həvəs) – gözlərin xarici künclərinin batıq yerdə dar olmasıdır – və belə kişiyə أحوص (əhvəs) deyilir. Deyilənə görə, əksinə, əhvəs – gözlərindən biri dar olan kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.842Z"
+}

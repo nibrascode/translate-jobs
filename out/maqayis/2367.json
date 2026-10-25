@@ -1,0 +1,17 @@
+{
+ "i": 2367,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صرح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 347,
+  "page_to": 348
+ },
+ "ar": "الصاد والراء والحاء أصلٌ منقاس، يدلُّ على ظهور الشَّئ وبُروزه. من ذلك الشَّئ الصريح. والصريح: المحض الحسَب، وجمعه صُرَحاء. قال الخليل: ويجمع الخليلُ على الصرائح. قال: وكلُّ خالصٍ صريح.\nيقال هو بَيِّنُ الصَّراحة والصُّروحة. وصرَّحَ بما فى نفسه: أظهَرَه. ويقال:\nكأس صراحٌ، إذا لم تُشَبْ بمِزاج. وصرَّحت الخمرُ، إذا ذهب عنها الزَّبد.\nقال الأعشى:\nكُمَيتٌ تكشَّف عن حُمْرةٍ … إذا صرَّحَتْ بعد إزبادِها (٣)\nويقال: جاء به صُرَاحا، أى جِهارا. ولقيت فلاناً مُصارَحة وصِراحاً، أى كِفاحا. ويقال صرَّح الحقُّ عن مَحْضه، أى انكشف الأمرُ بعد غُيوبه.\nوالصَّرْحة: المكان، ويقال بل هو المَتْن من الأرض. ويقال يومُ مُصرِّح، إذا كان لا سحابَ فيه، وهو فى شعر الطِّرِمّاح (١). والصَّرْح: بيتٌ واحدٌ يُبنى منفرداً ضخماً طويلا فى السَّماء. وكلُّ بناءٍ عالٍ فهو صرْح.",
+ "az": "[صرح] الصاد، الراء və الحاء — bir şeyin zahir olmasına və üzə çıxmasına dəlalət edən qiyaslı bir əsasdır. Bunlardan biri الصريح (aydın, xalis) şeydir. الصريح — xalis nəsəbdir, cəmi صُرَحاء gəlir. Xəlil demişdir: Xəlil onu صرائح üzrə cəmləşdirir. O demişdir: Hər bir xalis olan şey صريح-dir.\nDeyilir: o, açıq-aşkar aydınlığa və xalisliyə malikdir. Və صرَّحَ بما فى نفسه — içindəkini aşkar etdi. Deyilir: كأس صراحٌ — qatışıqla qarışdırılmadığı zaman xalis badədir. Və صرَّحت الخمرُ — şərabın üzərindən kütlüyü və köpüyü getdiyi zaman. Əşə aşıq demişdir:\nكُمَيتٌ تكشَّف عن حُمْرةٍ … إذا صرَّحَتْ بعد إزبادِها (٣)\nVə deyilir: جاء به صُرَاحا — yəni açıq-aşkar gətirdi. Və لقيت فلاناً مُصارَحة وصِراحاً — yəni üz-üzə, qarşı-qarşıya filankəslə rastlaşdım. Və deyilir: صرَّح الحقُّ عن مَحْضه — yəni həqiqət öz xalisliyindən üzə çıxdı, gizləndikdən sonra iş aşkar oldu.\nالصَّرْحة — yerdir, deyirlər ki, o, torpağın üst səthidir. Və deyirlər: يومُ مُصرِّح — bulud olmadığı gün, bu, Tirimmahın şeirində vardır (١). الصَّرْح — təkbaşına tikilən, göydə uca və böyük olan tək evdir. Hər bir uca tikili صرْح-dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:38.231Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2212,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 257,
+  "page_to": 257
+ },
+ "ar": "الشين والذال والراء أصلان: أحدهما يدلُّ على تفرُّقِ شئٍ وتميَّزِه. والآخَر على الوعيد والتسرُّع. من ذلك قولُ العرب: تفرّق القومُ شَذَر مذَر، إذا تبدَّدُوا فى البلاد. ومنه الشَّذْرة: قطعة من ذَهَب.\nوأمّا الأصل الآخَر فالتشذُّر، وهو كالنَّشاط والتسرُّع للأمر. وتشذَّرَ القومُ فى الحرب: تطاوَلوا. وتشَذّرت النّاقة: حَرّكَتْ رأسَها فَرَحا. والتشذُّر: الوعيد؛ ومنه\nحديث سليمان بن صُرَد: أنَّه بلغه عن علىّ ﵇ قولٌ «تَشَذَّرَ فيه (١)».\nفأما قولهم إٍنّ التشذّر الاستثفار بالثَّوب، فذلك من قياس الباب الذى ذكرناه، وكأنَّه وُصِف بالجِدّ فى أمره فقيل تشذَّر. ومنه: أتَى فلان فرسَه فتشذَّره، أى ركِبه من ورائه.",
+ "az": "«شذر» (şədhər). Şin, zal və ra köklü iki əsas vardır: Biri bir şeyin dağılmasına və fərqlənməsinə dəlalət edir, digəri isə hədə-qorxu və tələsikliyə. Ərəblərin bu sözü həmin məfhumdandır: «تَفَرَّقَ القومُ شَذَر مَذَرَ» (qövm ölkəyə səpələnərək dağıldı). Həmçinin «الشَّذْرَةُ» (əş-şəzra) – qızıl parçasından ibarətdir. \nDigər əsərə gəldikdə isə, o, «التَّشَذُّرُ» (ət-təşəzzür) olub, işə qarşı fəallıq və tələskənliyə bənzər bir haldır. «تَشَذَّرَ القومُ فى الحرب» (qövm müharibədə boy göstərdi/qürrələndi). «تَشَذَّرَتِ النَّاقَةُ» (dəvə sevinclə başını tərpatdi). «التَّشَذُّرُ» həm də hədə-qorxu deməkdir; Süleyman ibn Surəddən gələn hədis də buna dəlalət edir ki, Əlidən (ə) ona bir söz gəlib çatmışdır: «تَشَذَّرَ فِيهِ» (1) (onda hədə-qorxu/sərtlik göstərdi). \nOnların «التَّشَذُّر» – paltarı belə qandallayıb bağlamaqdır (və ya bükməkdir) demələrinə gəldikdə isə, bu, yuxarıda qeyd etdiyimiz əsasın qiyasındandır; sanki o, öz işində sərt və ciddi olması ilə vəsf edilmiş və «təşəzzərə» deyilmişdir. Həmçinin: «أتَى فلانٌ فرسَه فتشذَّره» – yəni filankəs atının arxasına gəlib onu arxa tərəfdən mindi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

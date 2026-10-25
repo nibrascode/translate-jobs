@@ -1,0 +1,17 @@
+{
+ "i": 562,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثبج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 399,
+  "page_to": 400
+ },
+ "ar": "الثاء والباء والجيم كلمةُ واحدةٌ تتفرَّع منها كَلِمٌ، وهى مُعْظَمُ الشّئِ ووَسَطُهُ. قال ابنُ دريد: ثَبَج كلِّ شئِ وسطُه. ورجل أَثْبَجُ وامرأةٌ\nثَبْجَاء، إذا كان عظيمَ الجوفِ. وثَبَجَ الرّجُل، إذا أقْعَى على أطراف قدمَيْهِ كأنّه يستنجِى وَتَراً (١). قال الراجز:\nإذا الكُماةُ جَثَمُوا على الرُّكَبْ … ثَبَجْتُ يا عَمْرُو ثُبُوجَ المُحْتَطِبْ (٢)\nوهذا إنما يُقال لأنّه يُبْرِزُ ثَبَجَه. وجمع الثَّبَجِ أثْباجٌ وثُبُوج، وقومٌ ثُبْج جمع أثْبَجَ. وتَثَبَّجَ الرجلُ بالعصا إذا جعَلَها على ظهره وجَعل يديه من ورائها. وثَبَجُ الرّمْل مُعْظَمُه، وكذلك ثَبَجُ البَحْرِ.\nفأمّا قولهم ثبّج الكلامَ تثبيجاً فهو أن لا يأتِىَ به على وَجْهِهِ. وأصله من الباب، لأنه كأنه يجمعه جمعاً فيأتى به مجتمعاً غير ملخَّص ولا مفصّل.",
+ "az": "[ثبج]\nالثاء والباء والجيم كلمةُ واحدةٌ تتفرَّع منها كَلِمٌ، وهى مُعْظَمُ الشّئِ ووَسَطُهُ. قال ابنُ دريد: ثَبَج كلِّ شئِ وسطُه. ورجل أَثْبَجُ وامرأةٌ (Sə, ba və cim hərfləri kəlmələr budaqlanan tək bir kəlmədir, o da bir şeyin əsası və ortasıdır. İbn Dürid demişdir: Hər bir şeyin səbəci onun ortasıdır. Və ətbəc kişi və qadın)\nثَبْجَاء، إذا كان عظيمَ الجوفِ. وثَبَجَ الرّجُل، إذا أقْعَى على أطراف قدمَيْهِ كأنّه يستنجِى وَتَراً (١). قال الراجز: (səbca – əgər qarnı böyükdürsə. Və kişi səbəc etdi, o zaman ki, ayaqlarının ucları üstə oturub çöməldi, sanki o, vətər (bağ) təmizləyir. Rəcəz bəhrində şeir deyən demişdir):\nإذا الكُماةُ جَثَمُوا على الرُّكَبْ … ثَبَجْتُ يا عَمْرُو ثُبُوجَ المُحْتَطِبْ (٢)\n(Cəngavərlər dizləri üstə çökdükdə... ey Əmr, odun daşıyanın çöməldiyi kimi çöməldim)\nوهذا إنما يُقال لأنّه يُبْرِزُ ثَبَجَه. وجمع الثَّبَجِ أثْباجٌ وثُبُوج، وقومٌ ثُبْج جمع أثْبَجَ. وتَثَبَّجَ الرجلُ بالعصا إذا جعَلَها على ظهره وجَعل يديه من ورائها. وثَبَجُ الرّمْل مُعْظَمُه، وكذلك ثَبَجُ البَحْرِ. (Və bu yalnız ona görə deyilir ki, o, öz səbəcini (qarın və bel hissəsini) üzə çıxarır. Və səbəcin cəmi əsbaç və sübucdir, və səbəc tayfası ətbəcin cəmidir. Və kişi əsa ilə təsəbbəc etdi, əgər onu belinə qoyub, əllərini onun arxasında etdisə. Və qumun səbəci onun əsasıdır, dənizin səbəci də həmçinin).\nفأمّا قولهم ثبّج الكلامَ تثبيجاً فهو أن لا يأتِىَ به على وَجْهِهِ. وأصله من الباب، لأنه كأنه يجمعه جمعاً فيأتى به مجتمعاً غير ملخَّص ولا مفصّل. (Amma onların «sözü səbbəc etdi» demələrinə gəldikdə, bu, onu öz qaydasında gətirməməsidir. Və onun əsli fəsildəndir, çünki o, sanki onu toplayıb-yığışdırır, sonra onu xülasə olunmamış və təfərrüatlı olmayan şəkildə bir yerə gətirmiş kimi gətirir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:42:41.763Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 557,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثأر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 397,
+  "page_to": 398
+ },
+ "ar": "الثاء والهمزة والراء أصلٌ واحد، وهو الذَّحْل المطلوب. يقال ثأرتُ فلاناً بفلانٍ، إذا قتَلْتَ قاتلَه. قال قيس بنُ الْخَطِيم:\nثأرتُ عَدِيًّا والخَطِيمَ فلم أُضِعْ … وصيَّةَ أشياخٍ جُعِلْتُ إزاءَهَا (١)\nويقال «هو الثَّأْر المُنِيم»، أى الذى إذا أدرك صاحبه نام. ويقال فى الافتعال منه اثَّأرتُ. قال لَبيد:\nوالنِّيبُ إِنْ تَعْرُ مِنّى رِمّةً خَلَقاً … بعد الممات فإنِّى كنتُ أتَّئِرُ (٢)\nفأمَّا قولهم استَثْأَرَ فلانٌ فلاناً إذا استغاثَهُ، فهو من هذا؛ لأنّه كأنّه دعاه إلى طلب الثَّأر. قال:\nإذا جاءَهم مُسْتَثْئِرٌ كانَ نصرُه … دعاءً أَلَا طِيرُوا بكلِّ وَأًى نَهْدِ (١)\nوالثُّؤْرةُ: الثَّأْرُ أيضاً. قال:\n* بنى عامرٍ هل كنتُ فى ثُؤْرَتِى نِكْسَا (٢) *",
+ "az": "[ثأر]\nالثاء والهمزة والراء أصلٌ واحد، وهو الذَّحْل المطلوب. (Sə, həmzə və ra hərfləri tək bir əsasdır, o da tələb olunan qisas (qan tökmə) deməkdir). يقال ثأرتُ فلاناً بفلانٍ، إذا قتَلْتَ قاتلَه. قال قيس بنُ الْخَطِيم: (Filankəsin qatilini öldürdükdə ثأرتُ فلاناً بفلانٍ deyilər. Qeys ibn əl-Xətim demişdir):\nثأرتُ عَدِيًّا والخَطِيمَ فلم أُضِعْ … وصيَّةَ أشياخٍ جُعِلْتُ إزاءَهَا (١)\n(Mən Ədiyyi və Xətimin qisasını aldım, nəticədə qarşısında durduğum qocaların vəsiyyətini zay etmədim)\nويقال «هو الثَّأْر المُنِيم»، أى الذى إذا أدرك صاحبه نام. (Və deyilər: «O, yatırtan qisasdır», yəni sahibi onu əldə etdikdə rahatlanıb yatar). ويقال فى الافتعال منه اثَّأرتُ. قال لَبيد: (Və ondan iftial babında اثَّأرتُ deyilər. Ləbid demişdir):\nوالنِّيبُ إِنْ تَعْرُ مِنّى رِمّةً خَلَقاً … بعد الممات فإنِّى كنتُ أتَّئِرُ (٢)\n(Və qoca dəvələr ölümdən sonra mənim köhnəlmiş sümüyümü tapdalasalar, şübhəsiz ki, mən qisas alırdım)\nفأمَّا قولهم استَثْأَرَ فلانٌ فلاناً إذا استغاثَهُ، فهو من هذا؛ لأنّه كأنّه دعاه إلى طلب الثَّأْر. قال: (Filankəsin başqasından kömək istədiyi zaman استَثْأَرَ فلانٌ فلاناً deməsinə gəldikdə, o, bundandır; çünki sanki o, onu qisas tələb etməyə çağırmışdır. [Şair] demişdir):\nإذا جاءَهم مُسْتَثْئِرٌ كانَ نصرُه … دعاءً أَلَا طِيرُوا بكلِّ وَأًى نَهْدِ (١)\n(Onlara kömək istəyən biri gəldikdə, onun köməyi belə bir çağırış olardı: «Ay camaat, hər bir qoçaq və güclü atla uçun!»)\nوالثُّؤْرةُ: الثَّأْرُ أيضاً. قال: (Və əs-süurə: həmçinin qisas deməkdir. [Şair] demişdir):\n* بنى عامرٍ هل كنتُ فى ثُؤْرَتِى نِكْسَا (٢) *\n(Ey Bəni Amir, mən öz qisasımda zəif və aciz oldummu?)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:42:41.762Z"
+}

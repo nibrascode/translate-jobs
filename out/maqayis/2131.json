@@ -1,0 +1,17 @@
+{
+ "i": 2131,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شهق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 222,
+  "page_to": 223
+ },
+ "ar": "الشين والهاء والقاف أصلٌ واحد يدلُّ على علوّ. من ذلك جبلٌ شاهِق، أى عال. ثمّ اشتُقَّ من ذلك الشَّهيق: ضدّ الزَّفير؛ لأنّ\nالشَّهيق ردُّ النّفَس، والزّفير إخراج النّفَس. والأصل فى ذلك ما ذكرناه.\nوقال بعضهم: فلان ذو شاهقٍ، إذا اشتدَّ غضبُه. ولعلَّه أن * يكون مع ذلك صوت.",
+ "az": "[شهق] (şəhəqə) — şin, he və qaf ucalığa dəlalət edən tək bir əsasdır. Bunlardan biri «جبلٌ شاهِق» (şahiq dağ) — yəni uca dağ deməkdir. Sonra bundan «الشَّهيق» (şəhiq) sözü törəmişdir ki, o, «الزَّفير» (zəfir) sözünün əksidir; çünki şəhiq nəfəsi içəri çəkmək, zəfir isə nəfəsi çölə çıxarmaqdır. Bunun əsası qeyd etdiyimiz kimidir.\n\nBəziləri demişdir: filankəs «ذو شاهقٍ» (şahiq sahibidir) — yəni qəzəbi şiddətləndi. Ola bilər ki, bununla yanaşı səs də olsun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:53:49.354Z"
+}

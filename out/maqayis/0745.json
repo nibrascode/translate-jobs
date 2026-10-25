@@ -1,0 +1,17 @@
+{
+ "i": 745,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 502,
+  "page_to": 503
+ },
+ "ar": "الجيم والباء واللام أصلٌ يطَّرد ويُقاس، وهو تجمُّع الشئ فى ارتفاعٍ. فالجبل معروف، والجَبَل: الجماعة العظيمة الكثيرة. قال:\nأما قريش فإنْ تلقاهُمُ أبداً … إلاّ وهمْ خيرُ مَنْ يَحْفى وينتعِلُ\nإلاَّ وهمْ جَبَلُ اللّه الذى قَصُرَتْ … عنه الجبالُ فَمَا سَاوَى به جَبَلُ\nويقال للناقة العظيمة السنام جَبَلَةٌ. وقال قوم: السَّنَام نَفْسُه جَبْلةٌ. وامرأةٌ جَبْلة: عظيمة الخَلْق. وقال فى الناقة:\nوطَالَ السّنامُ على جَبْلَةٍ … كخَلْقاءَ مِنْ هَضَبَاتِ [الصَّجَنْ (١)]\nوالجِبِلَّة: الخَلِيقة. والجِبِلُّ: الجماعة الكثيرة. قال اللّه تعالى: ﴿وَلَقَدْ أَضَلَّ مِنْكُمْ﴾\n﴿جِبِلاًّ كَثِيراً﴾ و «جُبُلاً» أيضاً (١). ويقال حَفَر القومُ فأجْبَلُوا، إذا بلغوا مكاناً صُلْباً.",
+ "az": "«جبل» — جيم, ba və lam qaydaya uyğun gələn və qiyas edilən bir əsl olub, bir şeyin hündürlükdə toplanmasıdır. «الجبل» (cəbəl) məlumdur, «الجَبَل» (cəbəl) həm də böyük və çoxsaylı camaatdır. Şair demişdir: \nأما قريش فإنْ تلقاهُمُ أبداً … إلاّ وهمْ خيرُ مَنْ يَحْفى وينتعِلُ \nإلاَّ وهمْ جَبَلُ اللّه الذى قَصُرَتْ … عنه الجبالُ فَمَا سَاوَى به جَبَلُ \n(Qureyşə gəlincə, əgər onları həmişə qarşılasan, onlar ayaqyalın gəzənlərin və sandal geyənlərin ən xeyirlisi olarlar. \nEynilə onlar Allahın elə bir dağıdılar ki, dağlar ondan qısa qalmışdır, heç bir dağ ona bərabər ola bilməmişdir.) \nUca hürrgüclü dişi dəvəyə «جَبَلَةٌ» (cəbələtün) deyilir. Bir qrup deyir ki, hürrgücün özü «جَبْلةٌ» (cəblətün) adlanır. «امرأةٌ جَبْلة» (imraətün cəblətün) — bədəni iri olan qadın. Dişi dəvə haqqında demişdir: \nوطَالَ السّنامُ على جَبْلَةٍ … كخَلْقاءَ مِنْ هَضَبَاتِ [الصَّجَنْ (١)] \n(Hürrgüc sərt qayalıqların hamar qayalarından olan cəbələ üzərində ucaldı.) \n«الْجِبِلَّة» (cibililə) — xilqət, təbiət. «الْجِبِلُّ» (cibil) — çoxlu camaat. Uca Allah buyurmuşdur: ﴿وَلَقَدْ أَضَلَّ مِنْكُمْ جِبِلاًّ كَثِيراً﴾ (Və məqamca o sizdən çoxlu topluları azdırmışdı) və həmçinin «جُبُلاً» (cubulən) də oxunur (١). Deyilir ki, camaat quyu qazıb sərt yerə çatdıqda «أجْبَلُوا» (əcbəlu) dedilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

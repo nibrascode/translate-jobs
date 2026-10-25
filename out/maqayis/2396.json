@@ -1,0 +1,17 @@
+{
+ "i": 2396,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضغز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 365,
+  "page_to": 365
+ },
+ "ar": "الضاد والغين والزاء ليس بأصلٍ صحيح، إلاّ أن يأتى به شِعْر. غير أنّ الخليل ذكر أنّ الضِّغْز من السِّباع: السيئ الخُلقُ (١) واللّه أعلم بالصَّواب.",
+ "az": "[ضغز] «الضاد» (زاد), «الغين» (ğin) və «الزاء» (zay) hərfləri şeirdə gəlmədikcə səhih bir əsl deyil. Lakin Xəlil zikr etmişdir ki, yırtıcı heyvanlardan olan «الضِّغْز» (əz-ziğz) — pisxasiyyətli deməkdir (١), doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.497Z"
+}

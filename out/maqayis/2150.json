@@ -1,0 +1,17 @@
+{
+ "i": 2150,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شيح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 233,
+  "page_to": 234
+ },
+ "ar": "الشين والياء والحاء أصلان متباينان، يدلُّ أحدهما على جِدٍّ وحَذَر، والآخر على إعراض.\nفأمَّا الأوّل فقول العرب: أشاحَ علَى الشئِ، إذا واظَبَ عليه وجَدَّ فيه.\nقال الراجز:\nقَبًّا أطاعَت راعياً مُشِيحاَ (٢)\nوقال آخر:\nوشايَحْتَ قبل اليَومِ إِنَّكَ شِيحُ (٣)\nوأمَّا الشِّياح فالحِذَار. ورجل شائحٌ. وهو قوله:\nشايَحْن منه أيَّما شِيَاحِ (١)\nوالمَشْيُوحاء: أنْ يكون القومُ فى أمرٍ يَبْتَدِرونه؛ يقال هم فى مَشْيُوحاءَ.\nوأما الآخر فيقال: أشاحَ بوجهه، أى أعرض. ويقال إنّ اشتقاقَه من قولهم أشاحَ الفرسُ بذنَبه، إذا أرخاه.\nومما شذَّ عن البابين جميعا: الشِّيح، وهو نبتٌ.",
+ "az": "[شيح] (şih) — شين (şin), ياء (yə) və حاء (ha) iki fərqli əsasdır, bunlardan biri səy və ehtiyatlı olmağa, digəri isə üz döndərməyə dəlalət edir. Birincisinə gəldikdə, ərəblərin bu sözüdür: «أشاحَ علَى الشئِ» (əşahə aləş-şey) — bir şeyə səylə bağlandıqda və onda çalışdıqda. Racəz yazan demişdir:\nقَبًّا أطاعَت راعياً مُشِيحاَ (2)\nBaşqası da demişdir:\nوشايَحْتَ قبل اليَومِ إِنَّكَ شِيحُ (3)\nƏş-şiyah (الشِّياح) isə ehtiyatlı olmaqdır. Kişi şaihtir (شائح). Bu da onun bu sözüdür:\nشايَحْن منه أيَّما شِيَاحِ (1)\nƏl-məşyuxa (المَشْيُوحاء): camaatın tələsik başladığı bir işdə olmalarıdır; deyilir: «هم فى مَشْيُوحاءَ» (hum fi məşyuxatin). Digərinə gəldikdə isə deyilir: «أشاحَ بوجهه» (əşahə bi-vəchih) — yəni üzünü döndərdi. Deyilir ki, bunun kökü onların «أشاحَ الفرسُ بذنَبه» (əşahə-l fərsü bi-zənəbih) — at quyruğunu salladığı zaman, sözündən götürülmüşdür. Hər iki fəsildən kənara çıxan (şaz) söz: Əş-şih (الشِّيح) — bir bitki növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.212Z"
+}

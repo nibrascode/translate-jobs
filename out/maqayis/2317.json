@@ -1,0 +1,17 @@
+{
+ "i": 2317,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صوح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 319,
+  "page_to": 319
+ },
+ "ar": "الصاد والواو والحاء أُصَيْلٌ يدلُّ على انتشارٍ فى شئ بعد يُبْس. من ذلك تصوَّحَ البقلُ، وذلك إذا هاج وانتثَرَ بعد هَيجه. وصوَّحتْه الرِّيخ، إذا أيبسَتْه وشققَّته وبثَرتْه. قال ذو الرّمة:\nوصَوّح البَقْلَ نَآجٌ تجئُ به … هَيْفٌ يمانيةٌ فى مرّها نَكبُ (٣)\nومن الباب أنَّهم يسمُّون عَرَق الخيل الصُّوَاح. فإن كان صحيحاً فلا يكون إلاّ إذا يَبِس، ويسمُّونه اليبيس يبيس الماء. قال الشاعر فى الصُّواح:\nجلبْنَا الخيل دامِيَةً كُلَاها … يُسَنُّ على سنابكها الصُّواحُ (٤)\nثم يقال تصوَّح الشعَر، إذا تشقَّق وتناثر.\nومما يجوز أن يُحمَل على هذا القياس الصُّوح: حائط الوادى، وله صُوحانِ.\nوإنّما سُمِّى صُوحاً لأنَّه طينٌ يتناثر حتّى يصير ذلك كالحائط.",
+ "az": "[صوح] (sad, vav və ha) kiçik bir kök olub, quruduqdan sonra bir şeydə yayılmaya dəlalət edir. Bunlardan تصوَّحَ البقلُ (təsəvvəhəl-baqlu - göyərti quruyub dağıldı) sözüdür; bu, onun coşub quruduqdan və dağıldıqdan sonra baş verdiyi zamandır. Və صوَّحتْه الرِّيح (külək onu qurutdu) – külək onu qurudub, çartlatdı və səpələdi. Züədd-Rummə demişdir:\nوصَوّح البَقْلَ نَآجٌ تجئُ به … هَيْفٌ يمانيةٌ فى مرّها نَكبُ (٣)\n(Göyərtini elə bir tez gələn sərt külək qurutdu ki, o, əsdiyi vaxt yəmənli həif küləyidir və əyiləndir)\nBu fəsildəndir ki, atların tərini الصُّوَاح (səvah) adlandırırlar. Əgər bu səhihdirsə, o, ancaq o quruduğu zaman olar; onlar quru suyu suyun qurusu adlandırırlar. Şair səvah haqqında demişdir:\nجلبْنَا الخيل دامِيَةً كُلَاها … يُسَنُّ على سنابكها الصُُّواحُ (٤)\n(Atları böyrü qanlı halda sürüyüb gətirdik, dırnaqları üzərində səvahlar itilənir)\nSonra deyilir: تصوَّح الشعَر (saç çartladı və dağıldı).\nBu qiyasın üzərinə daşınması caiz olanlardandır: الصُّوح (suh) – vadinin divarı, onun iki صُوحانِ (suhan - iki divarı) vardır. O, sadəcə olaraq suh adlandırılmışdır, çünki o, divar kimi olana qədər dağılan bir gildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:11.241Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1940,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سهد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 108,
+  "page_to": 108
+ },
+ "ar": "السين والهاء والدال كلمتانِ متباينتان تدلُّ إحداهما على خلاف النّوم، والأخرى على السكون.\nفالأولى السُّهاد، وهو قِلَّة النّوم. ورجل سُهُدٌ، إذا كان قليلَ النّوم. قال:\nفأتَتْ به حُوشَ الفُؤادِ مبطَّناً … سُهُداً إذا ما نامَ ليلُ الهَوْجَلِ (٢)\nوسَهَّدْتُ فلاناً، إِذا أطرتَ نومَه.\nوالكلمة الأخرى قولُهم شئٌ سَهْدٌ مَهْد، أى ساكن (٣) لا يُعَنِّى. ويقال ما رأيت من فلان سَهْدَةً، أى أمراً أعتمد عليه من خبر أو كلام، أو أسكُن إليه.",
+ "az": "«سهد» — السين والهاء والدال (سين، hə və dal) biri yuxusuzluğa, digəri isə sükunətə dəlalət edən bir-birindən fərqli iki kəlmədir. Birincisi — «السُّهاد»dir, o da az yuxulu olmaqdır. «رجل سُهُدٌ» — az yuxuluydu. Şair demişdir: «Ürəkli, qarnı arıq, səhra səyyahının gecəsi yatdığı vaxt az yuxulayan biri ilə gəldi» (2). «سَهَّدْتُ فلاناً» — onun yuxusunu kəsdiyin zaman deyilir. Digər kəlmə isə onların «شئٌ سَهْدٌ مَهْدٌ» (3) sözüdür, yəni incidilməyən, sakit bir şeydir. Deyilir: «ما رأيت من فلان سَهْدَةً» — yəni filankəsdən etibar edəcəyim, və ya arxayın olacağım heç bir xəbər və ya söz görmədim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.685Z"
+}

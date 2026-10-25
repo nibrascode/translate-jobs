@@ -1,0 +1,17 @@
+{
+ "i": 1360,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 329,
+  "page_to": 329
+ },
+ "ar": "الدال والجيم والراء أصلٌ يدلُّ على لُبْسٍ. فالدَّيجور:\nالظَّلام؛ والجمع دَياجِر ودياجِير. والدَّجَرُ: شِبْهُ الحَيْرة، وهو ذلك القياس، قال رجلٌ دَحْرانُ ودَجَارَى، كما يقال حَيرانُ وحَيارَى.\nوهاهنا كلمةٌ إنْ صحّت فهى شاذّة عن الأصل الذى ذكرناه. يقولون إنَّ الدَّجْر: الخشبة التى يُشدّ عليها حديدةُ الفَدَّان. وما أُرَى هذا من كلام العرب.",
+ "az": "[دجر] الدال والجيم والراء أصلٌ يدلُّ على لُبْسٍ. (الدال, cim və ra – geyinməyə dəlalət edən bir əsasdır). فالدَّيجور (əddəyur): Qaranlıq; cəmi دَياجِر (dəyacir) və دياجِير (dəyacir). والدَّجَرُ (əddəcər): Heyrətə bənzər bir şeydir, o da həmin qiyasdır, bir kişi دَحْرانُ (dəhran) və دَجَارَى (dəcarı) demişdir, necə ki, حَيرانُ (həyran) və حَيارَى (həyarı) deyilir. Burada bir kəlmə də vardır ki, əgər səhihdirsə, qeyd etdiyimiz əsasdan kənara çıxmışdır (şəzzdir). Deyirlər ki, الدَّجْر (əddəcr): Fəddanın (xışın) dəmirinin bağlandığı taxtadır. Mən bunun ərəblərin kəlamından olduğunu güman etmirəm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2207,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 256,
+  "page_to": 256
+ },
+ "ar": "الشين والدال والنون أُصيل يدلُّ على صلاحٍ فى جسم.\nيقال شَدَن الظبىُّ يشدُن شدوناً، إذا صَلَحَ جسمه. ويقال للمُهْر أيضاً شَدَنَ. فإذا أفردْتَ الشادنَ فهو ولد الظّبْى. وظبيةٌ مُشْدِنٌ. فأمّا الشّدَنية فيقال إنّها المنسوبة إلى موضعٍ باليمن، قال عنترة:\nهل تُبَلَغَنِّى دارَها شَدَنِيَّة … لُعِنَتْ بمحروم الشَّرَابِ مُصَرَّمِ (١)",
+ "az": "«شدن» (şədən). Şin, dal və nun köklü kiçik bir əsas olub, bədənin sağlamlığına/gözəlliyinə dəlalət edir. \nDeyilir: «شَدَنَ الظبىُّ يشدُنُ شُدُوناً» (ceyranın bədəni inkişaf edib gözəlləşdi) — ceyranın bədəni sağlam və gözəl olduğu zaman. Həmçinin balaca dayçaya da «شَدَنَ» denilir. Əgər tək halda «الشَّادِنُ» (əş-şadın) işlətsən, o, ceyran balası deməkdir. Ana ceyrana isə «ظبيةٌ مُشْدِنٌ» (müşdin ceyran) deyilir. «الشَّدَنِيَّةُ» (şədəniyyə) gəldikdə isə, deyirlər ki, o, Yəməndəki bir məkanın nisbət adıdır. Əntərə demişdir: \n«هل تُبَلَغَنِّى دارَها شَدَنِيَّةٌ … لُعِنَتْ بمحروم الشَّرَابِ مُصَرَّمِ» (1) \n(Məni onun yurduna elə bir Şədəniyyə dəvəsi çatdırarmı ki, o, südü kəsilmiş və məhrum edilmiş olaraq lənətlənmişdir?)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

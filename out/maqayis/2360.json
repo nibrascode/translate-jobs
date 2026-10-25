@@ -1,0 +1,17 @@
+{
+ "i": 2360,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صدى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 340,
+  "page_to": 341
+ },
+ "ar": "الصاد والدال والحرف المعتل فيه كلمٌ متباعدةُ القياس، لا يكاد يلتقى منها كلمتانِ فى أصل. فالصَّدَى: الذَّكَرُ من البُوم، والجمع أصداء.\nقال:\nفليس الناسُ بعدَكَ فى نقيرِ … وما هم غيرَ أصداءٍ وهامِ (٣)\nوالصَّدَى: الدِّماغُ نفسُه، ويقال بل هو الموضع الذى جُعِل فيه السَّمْع من\nالدِّماغ، ولذلك يقال: أصَمَّ اللّهُ صَدَاه. ويقال بل هذا صَدَى الصَّوْت، وهو الذى يُجيبك إِذا صِحْت بقُرْبِ جَبَل. وقال يصف داراً:\nصَمَّ صداها وعفا رسمُها … واستعحمَتْ عن منطقِ السَّائِل (١)\nوالصَّدَى: الرَّجُل الحسَنُ القِيام على ماله، يقال هو صَدَى مالٍ. ولا يقال إلاّ بالإضافة. والصَّدَى: العَطَش، يقال رجلٌ صَدٍ وصادٍ، وامرأة صادية.\nوتصدَّى فُلانٌ للشَّئ يستشرفه ناظراً إليه. والتَّصدية: التَّصفيق باليدين. قال اللّه تعالى: ﴿وَما كانَ صَلاتُهُمْ عِنْدَ اَلْبَيْتِ إِلّا مُكاءً وَتَصْدِيَةً﴾. فأمَّا الصَّوادى من النَّخْل فهى الطِّوال. ويقال: صاديتُ فلاناً، إِذا دارَيْتَه. وصاديت [فلاناً مُصاداةً: عاملتُه بمثل صَنيعه (٢)].\nوإِذا كان بعد الدَّال همزة تغيَّر المعنى، فيكون من الصَّدَإ صدأ الحديد.\nيقولون: صاغِرٌ صَدِئٌ من صدإ العار (٣).",
+ "az": "[صدى] (Səda). Sad, dal və uzadılma hərfi (mötəl) olan bu fəsildə mənaları bir-birindən uzaq olan, əsasda demək olar ki, heç bir iki sözün birləşmədiyi kəlmələr vardır. “Səda” [الصَّدَى] — bayquşun erkəyidir, cəmi “əsda” [أصداء] gəlir. Şair demişdir: Səndən sonra insanları deyiləcək bir dəyərdə deyil, bayquş səslərindən və baş sümüklərindən başqa bir şey deyillər (٣). “Səda” — beynin özüdür; deyilənə görə, beyində eşitmə qabiliyyətinin yerləşdiyi yerdir, məhz buna görə də: «Allah onun sədasını kar etsin!» — deyilir. Digərləri isə bunun əksinə olaraq səs sədası [الصَّدَى] olduğunu, yəni dağın yaxınlığında qışqırdıqda sənə cavab verən əks-səda olduğunu söyləmişlər. Bir evi təsvir edərkən şair demişdir: Onun sədası kəsildi, izi itib yox oldu və o, soruşanın cavabından lal oldu (١). “Səda” — malının qeydinə yaxşı qalan kişidir, «o, mal sədasıdır» [صَدَى مالٍ] deyilir. Bu söz yalnız izafətlə işlədilir. “Səda” — susuzluqdur, «kişi sadin və sadidir» [رجل صَدٍ وصادٍ], qadın isə “sadiyə” [صادية] olur. Filankəs bir şeyə göz dikib baxaraq ona tərəf yönəldi [تصدَّى]. “Təsdiyə” [التَّصدية] — əlləri çalmaqdır (əl çalmaq). Uca Allah buyurmuşdur: mənaca tərcümə: «Onların ev [Kəbə] yanında namazı fit çalmaqdan və əl çırpmaqdan başqa bir şey deyildir» ﴿وَما كانَ صَلاتُهُمْ عِنْدَ اَلْبَيْتِ إِلّا مُكاءً وَتَصْدِيَةً﴾. Xurma ağaclarının “səvadi” [الصَّوادى] olanları isə hündür olanlarıdır. Deyilir: «صاديتُ فلاناً» — filankəslə mülayim davranıb onunla başa çıxdın, deməkdir. «صاديت فلاناً مُصاداةً» — onun əməlinin bənzəri ilə onunla rəftar etdim (٢). Əgər daldan sonra həmzə gələrsə, məna dəyişər və dəmirin pası olan “sədə” [الصَّدَأ] kəlməsindən olar. Onlar deyirlər: «صاغِرٌ صَدِئٌ من صدإ العار» (Ar-namus pasından paslanmış zəlil bir kəs) (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.589Z"
+}

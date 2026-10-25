@@ -1,0 +1,17 @@
+{
+ "i": 1993,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سجف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 136,
+  "page_to": 136
+ },
+ "ar": "السين والجيم والفاء أصلٌ واحد، وهو إسبال شئٍ ساتر.\nيقال أسجفت السِّتر: أرسلتُه. والسَّجْف والسِّجف (١): سِتر الحَجَلة. ويقال أسجَفَ اللّيلُ، مثل أسدَفَ.",
+ "az": "[سجف] (səcəf): Sin, cim və fa hərfləri örtən bir şeyi salmaq mənasını verən vahid bir kökdür.\n«أسجفت السِّتر» (əscəftus-sitr) – pərdəni buraxdım, dedikləri kimi. «السَّجْف» (əssəc) və «السِّجف» (əssicf) – çadırın və ya bəzəkli pərdənin örtüyüdür (١). Həmçinin «أسجَفَ اللّيلُ» (əscəfəl-leyl) – gecə qaranlıqlaşdı, «أسدَفَ» (əsdəfə) sözü kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:35.045Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 535,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الثاء واللام والميم أصلٌ واحد، وهو تَشَرُّم يقَع فى طَرَف الشئ، كالثُّلْمة تكون فى طَرَف الإِناء. وقد يسمَّى الخَلَل أيضاً ثُلْمة وإن لم يكن فى الطَّرَف. وإناءٌ مُنْثَلمٌ ومُتَثَلِّمٌ.",
+ "az": "[ثلم] (Sə, lam və mim) tək bir əsasdır və o, şeyin kənarında baş verən qırıq-qırıqlıqdır, qabın kənarındakı ثُلْمة (çatı, yarıq) kimi. Bəzən kənarda olmasa belə, yarıq da ثُلْمة (çatı) adlandırılır. Qab isə مُنْثَلمٌ və مُتَثَلِّمٌ (çatlamış, qırılmış) olar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.493Z"
+}

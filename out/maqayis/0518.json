@@ -1,0 +1,17 @@
+{
+ "i": 518,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 377,
+  "page_to": 377
+ },
+ "ar": "الثاء والعين والميم ليس أصلاً معوّلا عليه. أمَّا ابنُ دريدٍ فلم يذكره أصلاً. وأمّا الخليل فجعله مرّة فى المهمل، كذا خُبِّرْنا به عنه. وذُكِرَ عنه مرّةً أَنَّ الثَّعْم النَّزْع والجرّ؛ يقال ثَعَمْتُه أى نزعتُه وجرَرته. وذكر عنه أنّه [يقال] تثعَّمَتْ فلاناً أَرضُ بنى فلانٍ، إذا أعجبَتْه وجرّتْه إليها ونزعَتْه.\nوقال قوم: هذا تصحيفٌ، إنّما هو تنعّمَتْه فتنعَّمَ، أى أَرَتْهُ ما فيه له نعيمٌ فتنعَّمَ، أى أعْمَلَ نعامةَ رِجْلهِ مَشْياً إليها. وما هذا عندى إلاّ كالأوّل. وما صحَّتْ بشئٍ منه رِواية.",
+ "az": "[ثعم] الثاء والعين والميم ليس أصلاً معوّلا عليه (Thə, ayn və mim üzərində dayanılacaq əsas deyil). İbn Dureydə gəldikdə isə o, bunu əsla zikr etməmişdir. Xəlilə gəldikdə isə o, bunu bir dəfə \"əl-Məhməl\"də qeyd etmişdir, bizə ondan belə xəbər verilmişdir. Ondan zikr edilmişdir ki, əs-səəm (الثَّعْم) çəkmək və dartmaqdır; deyilir: ثَعَمْتُه (Səamtuhu), yəni onu çəkdim və dartdım. Ondan zikr edilmişdir ki, [deyilir]: تثعَّمَتْ فلاناً أَرضُ بنى فلانٍ (Filan qəbilənin torpağı filankəsi təsəmüm etdi), o, xoşuna gəldiyi və onu özünə tərəf çəkib dartdığı zaman. Bir qrup demişdir: Bu, təshifdir (hərf səhvidir), əslində isə تنعّمَتْه فتنعَّmə (tənəmməthü fətənəmmə) kəlməsidir, yəni qadın ona özündəki neməti göstərdi, o da nemətləndi, yəni ora doğru gedərkən ayağının dəvəquşu kimi addımını işlətdi. Bu mənim yanımda birincidən başqa bir şey deyildir. Və bunların heç biri ilə rəvayət səhih olmamışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.076Z"
+}

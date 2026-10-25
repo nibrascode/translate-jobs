@@ -1,0 +1,17 @@
+{
+ "i": 532,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثكل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 383,
+  "page_to": 383
+ },
+ "ar": "الثاء والكاف واللام كلمةٌ واحدة تدلُّ على فُقْدَانِ الشئ، وكأنّه يُخْتَصّ بذلك فُقدانُ الولَد. يقال ثَكِلَتْه أمُّه تثْكَلُه ثكلاً (٣). ولِأُمِّهِ الثُّكل. فإذا قال القائل لآخَرَ وهو ليس له بولد فإِنما يحملُه على ذلك، وإلا فإِنَّ الأصلَ ما ذكرناه.",
+ "az": "[ثكل] (Sə, kaf və lam) bir şeyin itirilməsinə dəlalət edən tək bir kəlmədir və bu, sanki xüsusi olaraq övladın itirilməsinə aid edilir. Deyilir: ثَكِلَتْه أمُّه تثْكَلُه ثكلاً (anası onu itirsin, itirir, itirməklə) (٣). Anası üçün الثُّكل (övlad itkisi, müsibət) vardır. Əgər bir kəs başqasına övladı olmadığı halda bunu deyərsə, onda o, bunu məcazi mənada işlətmiş olar, əks halda əsl məna qeyd etdiyimizdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.492Z"
+}

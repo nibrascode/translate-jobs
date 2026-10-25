@@ -1,0 +1,17 @@
+{
+ "i": 2289,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صمى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 308,
+  "page_to": 308
+ },
+ "ar": "الصاد والميم والحرف المعتلّ أصلٌ واحدٌ يدلُّ على السُّرعة فى الشئ. يقال للرَّجُل المبادِر إلى القتال شَجاعةً: هو صَمَيانٌ. وهو من الصَّمَيان وهو الوثْب والتقلُّب. ويقال انصمى الطائر، إذا انقضَّ. ويقال أصمى الفَرسُ، إِذا مضى على وجْهه عاضًّا على لجامه.\nومن الباب: رمى الرَّجُل الصّيدَ فأصمى، إذا قتله مكانه، وهو خلاف أنْمَى.",
+ "az": "[صمى] (sad, mim və hərf-i müəlləl) — bir şeydə sürətli olmağa dəlalət edən tək bir kökdür. Cəsur olub döyüşə tələsən kəsə «صَمَيَان» (səməyan) deyilir. Bu da tullanmaq və hərəkət etmək mənasındakı «الصَّمَيَان» sözündəndir. Deyilir: «انصمى الطائر» (quş süzülüb düşdü). Deyilir: «أصمى الفَرسُ» (at cilonunu dişləyərək düz irəlilədi).\n\nBu babdandır: Adam ovunu vurub «أصمى» etdi, yəni onu yerindəcə öldürdü; bu, «أنْمَى» (canlı qaçıb sonradan ölməsi) sözünün əksidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.917Z"
+}

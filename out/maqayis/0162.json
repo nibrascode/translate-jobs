@@ -1,0 +1,17 @@
+{
+ "i": 162,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أيم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 165,
+  "page_to": 166
+ },
+ "ar": "الهمزة والياء والميم ثلاثة أصول متباينة: الدُّخَان، والحيَّة، والمرأة لا زوج لها.\nأما الأوّل فقال الخليل: الأُيَام الدُّخَان. قال أبو ذؤيب:\nفلمَّا جَلاهَا بالإِيام تحيَّزَتْ … ثُبَاتٍ عَليها ذُلُّها واكتئابُها (١)\nيعنى أنَّ العاسِل جَلَا النّحلَ بالدُّخان. قال الأصمعىّ: آمَ الرجل يؤوم إياماً، دَخَّنَ على الخليّة ليخرج نَحلُها فيشتار عسلَها، فهو آيم، والنَّحلة مَؤُومةٌ، وإن شئتَ مَؤُومٌ عليها.\nوأما الثَّانى فالأيْم من الحيّات الأبيض، قال شاعر:\nكأن زِمَامَها أَيْمٌ شُجَاعٌ … ترأَّدَ فى غُصُونٍ مُغْضَئِلَّه (٢)\nوقال رؤبة (٣):\nوبَطْنَ أيْمٍ وقَواماً عُسْلُجَا … وكفلاً وَعْثاً إذا تَرَجْرَجا (٤)\nقال يونس: هو الجانّ من الحيات. وبنو تميم تقول أيْنٌ. قال الأصمعىّ:\nأصله التشديد، يقال أَيِّمٌ وَأَيْمٌ، كَهَيِّن وَهَيْن. قال:\nإِلاّ عواسِرُ كالمِراط مُعِيدَةٌ … باللَّيلِ مَوْرِدَ أَيِّمٍ مُتَغَضِّفِ (٥)\nوالثالث الأَيِّم: المرأة لا بَعْلَ لها والرجل لا مَرأَةَ له. وقال تعالى: ﴿وَأَنْكِحُوا اَلْأَيامى مِنْكُمْ﴾. وآمت المرأة تئِيمُ أَيْمَةً وَأُيُوماً. قال:\nأفاطِمُ إنِّى هالِكٌ فتأيَّمى … ولا تَجْزَعِى كلُّ النساء تَئِيمُ (٦)",
+ "az": "[أيم] (ə-y-م): Həmzə, ya və mim hərflərindən ibarət üç fərqli əsl vardır: Tüstü, ilan və əri (və ya zövcəsi) olmayan qadın. Birinciyə gəldikdə, Xəlil demişdir: «الأُيَام» (əl-üyam) – tüstüdür. Əbu Züəyb demişdir: O arıçını tüstü ilə arıları qovub uzaqlaşdırdıqda, onların zilləti və kədəri üstlərində dəstə-dəstə olaraq öz yerini aldı (١). Bu o deməkdir ki, balı toplayan şəxs arıları tüstü ilə qovub təmizlədi. Əsməi demişdir: «آمَ الرجل يؤوم إياماً» (amə ər-racülu yəumu iyamən) – kişinin arı pətəyinin üzərinə tüstü verməsi deməkdir ki, arılar oradan çıxsın və o da balı yığsın; belə şəxsə «آيم» (aim), pətəyə isə «مَؤُومة» (məumə) deyilir, əgər istəsən «مَؤُومٌ عليها» (məumun əleyha) da deyə bilərsən. İkinciyə gəldikdə, «الأَيْم» (əl-əym) – ağ ilan deməkdir. Bir şair demişdir: Sanki onun cilovları budaqlar üzərində dalğalanan şücaətli bir ilandır (٢). Rُöbə (٣) demişdir: Və ağ ilanın qarnını, zərif və düz qaməti... və tərpənərkən silkələnən ağır sağrını (٤). Yunis demişdir: O, ilanların cavanıdır (جانّ - cann). Bəni Təmim qəbiləsi buna «أيْن» (əyn) deyir. Əsməi demişdir: Onun əsli şəddəlidir, «أَيِّمٌ» (əyyim) və «أَيْمٌ» (əym) deyilir, eynilə «هَيّينٌ» (həyyin) və «هَيْنٌ» (həyn) sözləri kimidir. O demişdir: İp kimi arıq, gecələr qıvrılan və pükülən ağ ilanın gəldiyi suya təkrarlayıcı olaraq gələn arıq dəvələrdən başqa... (٥) Üçüncüsü isə «الأَيِّم» (əl-əyyim) – əri olmayan qadın və zövcəsi olmayan kişidir. Uca Allah buyurmuşdur: ﴿وَأَنْكِحُوا اَلْأَيامى مِنْكُمْ﴾ (mənaca tərcümə: Öz aranızda olan subayları [və ərsiz qadınları] evləndirin). Qadın ərsiz qaldıqda «آمت المرأة تئِيمُ أَيْمَةً وَأُيُوماً» (aməti-lmə’رətu tə-yimu əymətən və uyumən) deyilir. Şair demişdir: Ey Fatimə, mən həlak olacağam, səndə ərsiz qal (və ya dul qal), kədərlənmə, bütün qadınlar ərsiz qalır (٦).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:25:17.134Z"
+}

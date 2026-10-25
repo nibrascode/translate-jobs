@@ -1,0 +1,17 @@
+{
+ "i": 1330,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دوك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 314,
+  "page_to": 314
+ },
+ "ar": "الدال والواو والكاف أصلٌ واحد يدلُّ على ضَغْطٍ وتزاحُم.\nفيقولون: دُكْتُ الشّئَ دَوْكاً. والمَدَاك: صَلايَة الطِّيب، يَدُوك عليها الإنسان الطِّيبَ دَوْكاً. قال:\n* مَدَاكَ عَرُوسٍ أو صَلَايَةَ حَنْظَلِ (١) *\nويقال باتَ القوم يَدُوكُون دَوْكاً، إذا باتُوا فى اختلاط. ومن ذلك\nالحديث:\nأنّ رسول اللّه ﷺ [قال] فى خيبر: «لأُعْطِيَنّ الرَّايةَ غداً رجُلاً يحبُّ اللّهَ ورسولَه يَفْتَحُ اللّهَ على يَدِه»، فباتَ النَّاسُ يَدُوكون (٢). ويقال تداوَكَ القومُ، إذا تضايَقُوا فى حَرْبٍ أو شَرّ.",
+ "az": "[دوك] Dal, vav və kaf – sıxıntıya və sürüyüşməyə/təzyiqə dəlalət edən tək bir əsasdır.\nBelə deyirlər: «دُكْتُ الشّئَ دَوْكاً» (şeyi sıxışdırdım). «المَدَاك» – ətrin daş səthi (həvəngi) olub, insan onun üzərində ətri əzir («دَوْكاً»). Şair demişdir:\n* مَدَاكَ عَرُوسٍ أو صَلَايَةَ حَنْظَلِ (١) *\nVə deyilir: «باتَ القوم يَدُوكُون دَوْكاً», o zaman ki, onlar qarışıqlıq içində gecələyirlər. Həmçinin hədis də bundandır:\nAllahın Elçisi ﷺ Xeybər günü [buyurmuşdur]: «لأُعْطِيَنّ الرَّايةَ غداً رجُلاً يحبُّ اللّهَ ورسولَه يَفْتَحُ اللّهَ على يَدِه» (Sabah bayrağı elə bir kişiyə verəcəyəm ki, o, Allahı və Onun Elçisini sevir, Allah onun əli ilə fəth bəxş edəcək), bunun üzərinə insanlar həyəcanla (qarışıqlıq içində) gecələdilər (٢). Həmçinin deyilir: «تداوَكَ القومُ», o zaman ki, onlar müharibədə və ya şər işdə sıxışdılar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:17.562Z"
+}

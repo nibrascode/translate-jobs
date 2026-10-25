@@ -1,0 +1,17 @@
+{
+ "i": 1193,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ختم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 245,
+  "page_to": 245
+ },
+ "ar": "الخاء والتاء والميم أصلٌ واحد، وهو بُلوغ آخِرِ الشّئ. يقال خَتَمْتُ العَمَل، وخَتم القارئ السُّورة. فأمَّا الخَتْم، وهو الطَّبع على الشَّئ، فذلك من الباب أيضاً؛ لأنّ الطَّبْع على الشئِ لا يكون إلاّ بعد بلوغ آخِرِه، فى الأحراز. والخاتَم مشتقٌّ منه؛ لأنّ به يُختَم. ويقال الخاتِمُ، والخاتام، والخَيْتام. قال:\n* أخذْتِ خاتامِى بغيرِ حَقِّ (٣) *\nوالنبى ﷺ خاتَمُ الأنبياء؛ لأنّه آخِرُهم. وخِتام كلِّ مشروبٍ:\nآخِرُه. قال اللّه تعالى: ﴿خِتامُهُ مِسْكٌ﴾، أى إنّ آخرَ ما يجِدونه منه عند شُربهم إياه رائِحةُ المسك.",
+ "az": "«ختم» (x-t-m) — x, ta və mim hərflərindən ibarət tək bir əsas kök olub, bir şeyin sonuna çatmasını bildirir. «خَتَمْتُ العَمَل» (işi qurtardım), «خَتم القارئ السُّورة» (qari surəni sona çatdırdı) deyilir. Amma «الخَتْم» (möhürləmək, damğalamaq) sözü də bu əsasdandır; çünki bir şeyin üzərinə damğalamaq ancaq qorunan yerlərdə (məxfi və ya qorunan saxlanc yerlərində) onun sonuna çatdıqdan sonra olur. «الخاتَم» (üzük) sözü də bundan törədilmişdir; çünki onunla möhürlənir. «الخاتِمُ», «الخاتام» və «الخَيْتام» sözləri də işlədilir. Şair demişdir:\n* أخذْتِ خاتامِى بغيرِ حَقِّ (٣) *\n(Üzüyümü haqsız olaraq aldın)\nVə Peyğəmbər səllallahu əleyhi və səlləm «خاتَمُ الأنبياء» (peyğəmbərlərin möhürü/sonuncusu)dur; çünki o, onların sonuncusudur. Hər bir içkinin «خِتام»i onun sonudur. Uca Allah buyurmuşdur: ﴿خِتامُهُ مِسْكٌ﴾, mənaca tərcümə: «Onun sonu müşkdür», yəni onların onu içərkən tapdıqları son şey müşk qoxusudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:40.619Z"
+}

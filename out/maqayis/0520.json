@@ -1,0 +1,17 @@
+{
+ "i": 520,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثعط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 377,
+  "page_to": 377
+ },
+ "ar": "الثاء والعين والطاء كلمةٌ صحيحة. يقال ثَعِطَ اللَّحمُ إذا تغيَّرَ وأنْتَنَ. وقال:\n* يأكل لحماً بائِتاً قد ثَعِطا (٣) *\nومما حُمِل عليه الثَّعِيطُ دُقاقُ التّرابِ الذى تسفِيه الرِّيح.",
+ "az": "[ثعط] الثاء والعين والطاء كلمةٌ صحيحة (Thə, ayn və ta səhih kəlmədir). Deyilir: ثَعِطَ اللَّحمُ (Ət səitə etdi) dəyişdiyi və üfunət iy verdiyi zaman. Və demişdir: * يأكل لحماً بائِتاً قد ثَعِطا * (Bayat, artıq səitə etmiş ət yeyir) (٣). Buna həml edilənlərdən biri də küləyin sovurduğu xırda torpaq olan الثَّعِيط (əs-səit)-dir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.076Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2467,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضرم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 396,
+  "page_to": 397
+ },
+ "ar": "الضاد والراء والميم أصل صحيح يدلُّ على حرارةٍ والتهاب.\nمن ذلك الضِّرَام من الحطب: الذى يلتهب بسرعة. قال:\nولكن بهذَاكِ اليَفَاعِ فأوقِدِى … بجزل إِذا أوقَدْتِ لا بِضِرامِ (١)\nويقال ضَرِم الشَّئُ: اشتدّ حرُّه.\nومن الباب فرس ضَرِم: شديد العَدْو. والضَّرِيم والضِّرام: اشتعال النار.\nومما شذّ عن الباب فيما يقولون، أنَّ الضَّرِم فَرْخ العُقاب. ولعلّه أن يكون ذلك اسمَه إذا اشتدّ جُوعه، فكأنَّه يضطرم.",
+ "az": "[ضرم] الضاد (ضad), ra (ر) və mim (م) hərarətə və alovlanmaya dəlalət edən səhih bir əsldir. Bunlardan biri odun içindən tez alovlanan الضِّرَام-dır. Dedi: Lakin o uca yerdə od qala ... odunla, od qaladığın zaman ضرام ilə deyil! (ولكن بهذَاكِ اليَفَاعِ فأوقِدِى … بجزل إِذا أوقَدْتِ لا بِضِرامِ) (١). Deyilir: ضَرِم الشَّئُ — onun hərarəti şiddətləndi. Bu fəsildəndir: فرس ضَرِم — sürətli qaçan at. Və الضَّرِيم və الضِّرام — odun alovlanmasıdır. Fəsildən istisna olunduğu deyilənlərdən: الضَّرِم — qartal balasıdır. Ola bilsin ki, bu, açlığı şiddətləndiyi zaman onun adıdır, sanki odlanıb yanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:49.275Z"
+}

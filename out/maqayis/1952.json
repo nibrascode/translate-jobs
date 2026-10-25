@@ -1,0 +1,17 @@
+{
+ "i": 1952,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سور",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 115,
+  "page_to": 115
+ },
+ "ar": "السين والواو والراء أصلٌ واحد يدلُّ على علوٍّ وارتفاع.\nمن ذلك سَار يَسُور، إِذا غضب وثار. وإِنّ لغضبِهِ لَسَورةً. والسُّور: جمع سُورة، وهى كلُّ منزلةٍ من البناء. قال:\nورُبَّ ذِى سُرادقٍ محجورِ … سُرْتُ إليه فى أعالى السُّورِ (١)\nفأمَّا قولُ الآخر (٢):\nوشاربٍ مُرْبحٍ فى الكأسِ نادَمَنى … لا بالحَصُور ولا فيها بسَوَّارِ\nفإِنّه يريد أنّه ليس بمتغضّب. وكان بعضهم يقول: هو الذى يَسُور الشَّرابُ فى رأسِه سريعا. وأما سِوار المرأة، والأُسوار (٣) من أساورة الفُرس وهم القادة، فأُراهما غيرَ عربييَّن. وسَورة الخمر: حِدّتُها وغلَيانها.",
+ "az": "[سور] السين والواو والراء (sin, vav və ra) — ucalığa və yüksəkliyə dəlalət edən tək bir əsldir.\nOndandır: سَار يَسُور (sara yasuru) — qəzəblənib coşduqda. Və həqiqətən onun qəzəbinin coşqusu (سَورة - səvratun) vardır. Əs-sür (السُّور): suvrənin cəmidir ki, o da tikilinin hər bir mərtəbəsidir. Dedi:\nورُبَّ ذِى سُرادقٍ محجورِ … سُرْتُ إليه فى أعالى السُّورِ (١)\n(Neçə-neçə qadağan olunmuş çadır sahibinə... tikilinin uca mərtəbələrində tərəfə üz tutdum)\nDigər bir şəxsin bu sözünə gəldikdə (٢):\nوشاربٍ مُرْبحٍ فى الكأسِ نادَمَنى … لا بالحَصُور ولا فيها بسَوَّارِ\n(Və qədəhdə səxavətli içki içən mənimlə dostluq etdi... nə xəsis, nə də orada səvvar – qəzəbli/coşqun deyil)\nO, bununla nəzərdə tutur ki, o, qəzəbli deyil. Bəziləri deyirdi: o, başındakı şərab tez qaynayan kimsədir. Qadının qolbağı olan sivar (سِوار), və Fars başçıları olan əsavirədən olan əsuvar (الأُسوار) (٣) isə mənə elə gəlir ki, onlar ərəbi deyil. Və xəmr səvratı (سَورة الخمر): onun kəskinliyi və qaynayışıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

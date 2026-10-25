@@ -1,0 +1,17 @@
+{
+ "i": 2041,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 166,
+  "page_to": 167
+ },
+ "ar": "الشين والظاء أصلٌ يدل على امتدادٍ فى شئ. من ذلك الشِّظَاظانِ: العُودان اللذان يُجعَلان فى عُرَى الجُوالِق. قال:\nأين الشِّظاظان وأين المِرْبَعهْ … وأين وَسَقُ الناقةِ المُطَبَعة (١)\nويقولون: أشَظَّ الرجُل، إذا تحرَّك ما عنده. ويقولون: أشَظَّ البعيرُ، إذا مدّ بذنَبه.",
+ "az": "«شظ» (şin və zai). Şin və zai hərfləri bir şeydə uzanmağa (uzunsovluğa) dəlalət edən bir əsldir. Bunlardan biri «الشِّظَاظانِ» sözüdür: yəni torbanın (cüalığın) qulaqlarına keçirilən iki çubuq. Şair demişdir: «أين الشِّظاظان وأين المِرْبَعهْ … وأين وَسَقُ الناقةِ المُطَبَعة» (Haradadır o iki çubuq, haradadır dördbucaqlı çadır dirəyi, və haradadır öyrədilmiş dəvənin yükü) (١). Onlar həmçinin deyirlər: «أشَظَّ الرجُل» — kişi özündə olanı hərəkətə gətirdiyi zaman. Deyirlər ki, «أشَظَّ البعيرُ» — dəvə quyruğunu uzatdıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:57.451Z"
+}

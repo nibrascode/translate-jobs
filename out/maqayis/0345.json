@@ -1,0 +1,17 @@
+{
+ "i": 345,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بوش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 317,
+  "page_to": 317
+ },
+ "ar": "الباء والواو والشين أصلٌ واحد، وهو التجمُّع من أصناف مختلِفين. يقال: بَوْشٌ بائشٌ، وليس هو عندنا مِنْ صميم كلام العرب.",
+ "az": "[بوش] Ba, vav və şin tək bir əsas kökdür, o da müxtəlif növlərdən olan insanların bir yerə toplaşmasıdır. Deyilir: بَوْشٌ بائشٌ (bovşun baişun), lakin bu, bizə görə ərəb dilinin xalis sözlərindən deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:05.794Z"
+}

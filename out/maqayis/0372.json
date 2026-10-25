@@ -1,0 +1,17 @@
+{
+ "i": 372,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بخذع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 330,
+  "page_to": 330
+ },
+ "ar": "ومن ذلك قولهم ضَرَبه ف (بَخْذَعَهُ). وهو من قولك خُذِّع إذا حُزِّزَ وقُطِّع. ومنه:\n* فكلاهُما بَطَلُ اللِّقاءِ مُخَذَّعُ (٢) *\nوقد فُسِّر - ومن بُذِعَ، يقال بُذِعُوا فَابْذَعرُّوا، إذا تَفَرَّقوا.",
+ "az": "[بخذع] (Bə-ha-zal-əyn) Buradan onların «ضَرَبه فَبَخْذَعَهُ» (dərəbəhu fəbəhzəəhu - onu vurdu və parçaladı) ifadəsi gəlir. Bu, «خُذِّع» (huzzia - parçalandı) kəlməsindəndir, yəni doğrandı və kəsildi. Ondan: * Fəkilahuma bələlul-liqai muxəzzəu (2) * (İkisi də döyüş meydanının parçalanmış qəhrəmanlarıdır). Bu izah edilmişdir. Həmçinin «بُذِعَ» (buzia) kəlməsindən, deyilir ki, «بُذِعُوا فَابْذَعرُّوا» (buziu fəbzə’ərru - onlar dağıldılar, pərən-pərən oldular).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

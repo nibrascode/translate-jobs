@@ -1,0 +1,17 @@
+{
+ "i": 457,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تله",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 354,
+  "page_to": 354
+ },
+ "ar": "التاء واللام والهاء ليس أصلاً فى نفسه، وذلك أنّهم يقولون تَلِه إذا تحيَّرَ، ثم يقولون إن التاء بدلٌ من الواو. وقالوا: التَّلَه بدلٌ من التَّلف، وهو ذاك، وينشدون:\n* بِهِ تَمَطَّت غَوْلَ كُلِّ مَتْلَهِ (١) *\nوالصحيح ما رواه أبو عبيد: «كلَّ مِيلَهِ (٢)» قال: وهى البِلادُ التى تُوَلِّهُ الإنسان. والوالِهُ: المتحيِّر.",
+ "az": "[تله] (tə-lə-h) - Tə, lam və hə özlüyündə əsl deyil, belə ki, onlar heyran qaldıqda «تَلِهَ» deyirlər, sonra isə tə hərfinin vav hərfinin əvəzinə gəldiyini söyləyirlər. Dedilər ki, «ət-tələh» sözü «ət-tələf» sözünün əvəzidir və məhz odur, və bu beyt ilə dəlil gətirirlər: Onunla hər bir səhranın bəlasını keçib getdi (1). Lakin səhih olan Əbu Übeydin rəvayət etdiyidir: «Hər birmilə» (mil — səhra yeri) (2) O demişdir: Bunlar insanı heyrətə salan yerlərdir. «Əl-valih» — heyrətə düşən deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.996Z"
+}

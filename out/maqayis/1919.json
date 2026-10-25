@@ -1,0 +1,17 @@
+{
+ "i": 1919,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 101,
+  "page_to": 101
+ },
+ "ar": "السين والميم والطاء أصلٌ يدلُّ على ضمّ شئ إلى شئ وشدِّه به. فالسَّميط: الآجُرُّ القائم بعضُه فوقَ بعض. والسِّمْط: القِلادة، لأنَّها منظومةٌ مجموعٌ بعضُها إلى بعض. ويقال سَمَّط الشئ على مَعَاليق السَّرْج.\nويقال خُذْ حقَّك مُسَمَّطاً، أى خُذْه وعلِّقْه على مَعاليق رَحْلك. فأما الشِّعْر المُسَمَّط، فالذى يكون فى سطر البيت (٣) أبياتٌ مسموطة تجمعها قافيةٌ مخالفة مُسمَّطة ملازمة للقصيدة. وأما اللبن السَّامط، وهو الحامض، فليس من الباب؛ لأنَّه من باب الإِبدال، والسين مبدلة من خاء.",
+ "az": "[سمط] (sin, mim və ta) — bir şeyi digər şeyə birləşdirməyə və onunla bərkitməyə dəlalət edən bir əsasdır. «السَّمِيط» — bir-birinin üzərində dayanmış kərpicdir. «السِّمْط» — boyunbağıdır, çünki o, düzülmüş və bir-birinə yığılmışdır. «سَمَّط الشئ على مَعَاليق السَّرْج» (Bir şeyi yəhərin asılqanlarından asdı) deyilir. «خُذْ حقَّك مُسَمَّطاً» — yəni haqqını al və yəhərinin asılqanından as, deməkdir. «الشِّعْر المُسَمَّط» (bəndli şeir) isə elə şeirdir ki, beytin sətrində (٣) qəsidəyə tabe olan başqa bir qafiyə ilə birləşən müsmət beytlər olur. «اللبن السَّامط» — turş süd isə bu qapıdan deyil; çünki o, hərflərin əvəzlənməsi (ibdal) بابındandır və sin hərfi xa hərfi ilə əvəz olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.159Z"
+}

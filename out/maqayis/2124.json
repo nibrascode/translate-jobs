@@ -1,0 +1,17 @@
+{
+ "i": 2124,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شنع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 218,
+  "page_to": 219
+ },
+ "ar": "الشين والنون والعين أصلٌ واحد يدلُّ على رفْع الذِّكر بالقبيح. من ذلك الشّناعة. يقال شَنُع الشئُ فهو شنيع. وشَنَعتُه، إذا قهرتَه بما يكرهه. وذكر ناسٌ شَنَعَ فلانٌ فلاناً، إذا سَبَّه. وأنشدوا لكُثَيِّر:\nوأسماءُ لا مَشنوعةٌ بمَلالةٍ … لَدَيْنَا (٢).\nويحملون على هذا فيقولون: تشنَّعت الإبل فى السير، إذا جدّت. وإنما يكون ذلك فى أرفعِ السَّير، فيعود القياسُ إلى ما ذكرناه من الارتفاع وإن لم يكن فى ذلك قبح.",
+ "az": "[شنع] \nالشين والنون والعين (şin, nun və eyn) — adı çirkinliklə ucaltmağa dəlalət edən tək bir əsasdır. Bunlardandır: «الشّناعة» (çirkinlik, qəbahət). Deyilir: «شَنُع الشئُ فهو شنيع» — iş çirkin oldu, o, çirkindir. «وشَنَعتُه» — yəni onu xoşlamadığı şeylə məğlub etdin. Bir qrup insanlar qeyd etmişdir ki, «شَنَع فلانٌ فلاناً» — filankəs filankəsi söydü. Onlar Küsəyyirin bu beytini oxumuşlar:\nوأسماءُ لا مَشنوعةٌ بمَلالةٍ … لَدَيْنَا (٢)\n(Əsma bizdə usandırıcılıqla qınanmış deyildir...)\nVə buna əsaslanaraq deyirlər: «تشنَّعت الإبل فى السير» — dəvələr gedişdə sürətləndilər, səy göstərdilər. Bu isə yalnız ən sürətli gedişdə olur, beləliklə qiyas yuxarıda qeyd etdiyimiz ucalma mənasını qayıdır, hərçənd burada heç bir çirkinlik yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:58.865Z"
+}

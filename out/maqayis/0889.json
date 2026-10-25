@@ -1,0 +1,17 @@
+{
+ "i": 889,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حضى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 74,
+  "page_to": 74
+ },
+ "ar": "الحاء والضاد والحرف المعتل أصل واحد، وهو هَيْج الشئِ، ويكون فى النار خاصّة. يقال حَضَوْتُ النارَ، إذا أوقدتَها. والعود الذى تُحرّك به النارِ محضاء ممدود. ويقال حضأتها أيضاً بالهمز، والعود مِحْضَأ على مِفْعَل، وربما مدُّوه؛ والأول أجود.",
+ "az": "[حضى] (Hə, dad və uzadılmış hərf) tək bir əsasdır, o da bir şeyin coşmasıdır və bu, xüsusilə odda olur. «حَضَوْتُ النّارَ» (odun alışmasını gücləndirdim, alovlandırdım) deyilir. Odun qarışdırıldığı çubuq مِحْضاء (mihda) – uzadılmış şəkildədir. Həmçinin həmzə ilə «حضأتها» (həzəətuha) da deyilir və çubuq مِحْضَأ (mih-ə) – مِفْعَل (mif'əl) vəznindədir, bəzən onu uzatırlar da; lakin birincisi daha gözəldir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:29.377Z"
+}

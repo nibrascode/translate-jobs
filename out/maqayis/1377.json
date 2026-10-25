@@ -1,0 +1,17 @@
+{
+ "i": 1377,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دخص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "الدال والخاء والصاد كالذى قبله. وذكر ابنُ دُريد (٧) أنّ الدَّخُوص: الجاريةُ السَّمينة.",
+ "az": "[دخص] (Də-xə-sə). Dal, xə və sad hərfləri əvvəlki kimidir. İbn Dürid (٧) qeyd etmişdir ki, دَخُوص (dəxus): kök qız deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 427,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تخم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 342,
+  "page_to": 342
+ },
+ "ar": "التاء والخاء والميم كلمةٌ واحدة لا تتفرَّع. التُّخوم: أعلامُ الأرضِ وحُدودُها. و\nفى الحديث: «ملْعونٌ مَنْ غَيَّرَ تُخُوم الأرض». قال قوم:\nأرادَ حُدودَ الحَرَم. وقال آخرون: هو أن يدخُلَ الرّجلُ فى حُدود غَيرهِ فيجُوزَها (٢) ظُلْماً. قال:\nيا بَنِىَّ التُّخُومَ لا تَظْلِمُوها … إنّ ظُلْمَ التُّخُوم ذُو عُقّالِ (٣)\nوأمَّا التُّخْمَة ففى بابها من كتاب الواو.",
+ "az": "«تخم» (t-x-m): Tə, xa və mim şaxələnməyən bir kəlmədir. التُّخوم (əttuxum): yerin əlamətləri və sərhədləridir. Və hədisdə: «ملْعونٌ مَنْ غَيَّرَ تُخُوم الأرض» (Yerin sərhədlərini dəyişən şəxs lənətlənmişdir). Bir qrup insan demişdir: Hərəmin sərhədlərini qəsd etmişdir. Başqaları isə demişdir: İnsanın başqasının sərhədlərinə haqsızlıqla daxil olmasıdır. O demişdir:\nيا بَنِىَّ التُّخُومَ لا تَظْلِمُوها … إنّ ظُلْمَ التُّخُوم ذُو عُقّالِ (٣)\n(Ey sərhədlərin oğulları, onlara zülm etməyin... Həqiqətən sərhədlərə zülm etməyin cəzası vardır)\nAmmə التُّخْمَة (əttuxmə) isə vav kitabındakı öz babındadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.116Z"
+}

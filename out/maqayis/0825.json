@@ -1,0 +1,17 @@
+{
+ "i": 825,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حدس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 33,
+  "page_to": 33
+ },
+ "ar": "الحاء والدال والسين أصلٌ واحدٌ يُشْبه الرّمى والسُّرعة وما أشبه ذلك. فالحَدْس الظنّ وقياسُهُ من الباب، لأنّا (١) نقول: رَجَم بالظّنّ، كأنّه رَمَى به. والحَدْس: سُرعة السَّير. قال:\n* كأنّها مِنْ بَعْدِ سَيرِ حَدْسِ (٢) *\nويقال حَدَس به الأرضَ حَدْساً، إِذا صَرَعَهُ. قال:\nترى به … من القوم مَحدُوساً وآخَرَ حادساَ (٣)\nومنه أيضاً حَدَسْتُ فى لَبَّةِ البعير، إِذا وجَأْتَ فى لَبَّتِه. وحدَسْتُ الشَّئَ برِجْلى: وطئتُه. وحَدَسْت النّاقَة، إِذا أنَخْتَها. وحَدَسْتُ بسهمى: رمَيت.",
+ "az": "«حدس» (hads): Ha, dal və sin hərflərindən ibarət olub atışa, sürətə və buna bənzər şeylərə bənzər tək bir kökdür. «الحَدْس» (hads) — zənn etməkdir və bunun müqayisəsi bu fəsildəndir; çünki biz (١) deyirik: «رَجَم بالظّنّ» (zənn ilə atıb-tutdu), elə bil onunla atdı. Və «الحَدْس» (hads) — gediş sürətidir. Şair demişdir:\n* كأنّها مِنْ بَعْدِ سَيرِ حَدْسِ (٢) *\n(Elə bil o, sürətli gedişdən sonra...)\nVə deyilir: «حَدَس به الأرضَ حَدْساً» (onu yerə sərdi), yıx-dığı zaman. Şair demişdir:\nترى به … من القوم مَحدُوساً وآخَرَ حادساَ (٣)\n(Orada qövmdən yerə sərilmiş birini və başqa bir yıxanı görürsən...)\nHəmçinin «حَدَسْتُ فى لَبَّةِ البعير» (dəvənin sinəsinin çuxuruna vurdum), onun sinə çuxuruna zərbə endirdiyin zaman. Və «حدَسْتُ الشَّئَ برِجْلى» (şeyi ayağımla tapdalamışam): onu ayaq altında qoydum. Və «حَدَس النّاقَة» (dişi dəvəni çökdürdü), onu çökdürməyin zaman. Və «حَدَسْتُ بسهمى» (oxumla atdım): atdım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.557Z"
+}

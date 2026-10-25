@@ -1,0 +1,17 @@
+{
+ "i": 734,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جيل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 499,
+  "page_to": 499
+ },
+ "ar": "الجيم والياء واللام يدلُّ على التجمّع. فالْجِيل الجماعة.\nوالجيل هذه الأُمَّة، وهم إخوان الدَّيْلَم. ويقال إِيَّاهم أراد امرؤ القيس فى قوله:\nأطافَتْ به جِيلَانُ عند جِدَادِه … ورُدّد فيه الماء حَتَّى تَحَيَّرا (٤)\nوأما الجَيألُ، وهى الضَّبُع، فليست من الباب.",
+ "az": "«جيل» — جيم, ياء və lam hərfləri birləşməyə dəlalət edir. «الْجِيل» (cil) — camaat. «الجيل» (il) bu ümmətdir, onlar «الدَّيْلَم» (deyləm) tayfasının qardaşlarıdır. Deyilənə görə, İmrulqeys öz şeirində məhz bunları qəsd etmişdir: \nأطافَتْ به جِيلَانُ عند جِدَادِه … ورُدّد فيه الماء حَتَّى تَحَيَّرا (٤) \n(Məhsul yığımı vaxtı cilan qəbiləsi onu əhatəyə aldı ... Və su orada dolaşdırıldı, ta ki çaşqın qaldı.) \nAmma «الجَيألُ» (cəyəl), yəni kaftar bu qapıdan (kökdən) deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.133Z"
+}

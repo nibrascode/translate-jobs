@@ -1,0 +1,17 @@
+{
+ "i": 826,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حدق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 33,
+  "page_to": 34
+ },
+ "ar": "الحاء والدال والقاف أصلٌ واحدٌ، [وهو الشئ] يحيط بشئ. يقال حَدَقَ القومُ بالرّجُل وأحدقوا به. قال:\nالمطعِمون بَنُو حَرْبٍ وقَدْ حَدَقَتْ … بى المنيّةُ واستبطأتُ أنصارِى (٤)\nوحَدَقَة العين مِنْ هذا، وهى السَّواد، لأنها تحيط بالصَّبِىّ (٥)؛ والجمع حِداق.\nقال:\nفالعينُ بَعْدَهُم كأنَّ حِداقَها … سُمِلَتْ بشَوْكٍ فَهْىَ عُورٌ تَدْمَعُ (١)\nوالتّحديق: شِدّة النّظر. والحديقة: الأرضُ ذاتُ الشجَر. والحِنْدِيقة:\nالحَدَقَة (٢).",
+ "az": "«حدق» (hədq): Ha, dal və qaf hərflərindən ibarət olub tək bir kökdür, [o da bir şeyi əhatə edən şeydir]. Deyilir: «حَدَقَ القومُ بالرّجُل» (qövm kişinin ətrafını kəsdi) və «أحدقوا به» (onun ətrafını sardılar). Şair demişdir:\nالمطعِمون بَنُو حَرْبٍ وقَدْ حَدَقَتْ … بى المنيّةُ واستبطأتُ أنصارِى (٤)\n(Yemək verənlər Bəni-Hərbsə, artıq ölüm məni əhatə etmişdi və köməkçilərimi gecikmiş hesab etdim)\nVə göz bəbəyi də (حَدَقَة العين) bundandır, o da qarasıdır, çünki o, bəbəyi əhatə edir (٥); cəmi «حِداق» (hidaq) gəlir.\nŞair demişdir:\nفالعينُ بَعْدَهُم كأنَّ حِداقَها … سُمِلَتْ بشَوْكٍ فَهْىَ عُورٌ تَدْمَعُ (١)\n(Onlardan sonra elə bil gözlərin bəbəkləri tikanla oyuulmuşdur, ona görə də çəp və yaşlıdırlar)\nVə «التّحديق» (təhdid, bərəltmə) — şiddətlə baxmaqdır. Və «الحديقة» (hədiqə) — ağaclıq yerdir. Və «الحِنْدِيقة» (hindiyə) — göz bəbəyidir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

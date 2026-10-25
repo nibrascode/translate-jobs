@@ -1,0 +1,17 @@
+{
+ "i": 2033,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سرق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 154,
+  "page_to": 154
+ },
+ "ar": "السين والراء والقاف أصلٌ يدلُّ على أخْذ شئ فى خفاء وسِتر. يقال سَرَق يَسْرق سَرِقةً. والمسروق سَرَقٌ. واستَرَق السّمع، إذا تسمَّع مختفياً. ومما شذّ عن هذا الباب السَّرَق: جمع سَرَقة، وهى القطعة من الحرير.",
+ "az": "[سرق] السين والراء والقاف (sin, ra və qaf) — bir şeyi gizlin və örtülü şəkildə götürməyə dəlalət edən bir əsasdır. Deyilir: «سَرَق يَسْرق سَرِقةً» (o oğurladı, oğurlayır, oğurluq). Oğurlanan şey «سَرَقٌ» (oğurluq mal) olur. «استَرَق السّمع» (xəlvətcə qulaq asdı), yəni gizlicə dinlədi. Bu babdan istisna olan «السَّرَق» — «سَرَقة» sözünün cəmidir, bu da ipəkdən olan parçadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:38.718Z"
+}

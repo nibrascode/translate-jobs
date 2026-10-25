@@ -1,0 +1,17 @@
+{
+ "i": 1215,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 264,
+  "page_to": 265
+ },
+ "ar": "الدال والجيم أصلان: أحدهما كشِبه الدَّبيب، والثانى شئ يُغَشِّى ويغطِّى.\nفالأوّل قولهم: دَجَّ دَجيجاً (٥) إذا دبّ وسَعَى. وكذلك الداجُّ الذين يسعَون مع الحاجِّ فى تجاراتهم. و\nفى [الحديث (٦)]: «هؤلاء الدّاجُّ ولَيُسوا بالحاجّ».\nفأمَّا\nحديث أنس: «ما تركت من حاجَةٍ ولا داجَة». فليس من هذا الباب، لأنَّ الدَّاجَة مخفّفة، وهى إتْباعٌ للحاجَة. وأما الدَّجاجَة فمعروفةٌ؛ لأنَّها تُدَجْدِجُ، أى تَجِئ وتذهَب. والدَّجَاجة: كُبَّةُ المِغْزَل. فإِن كان صحيحاً فهو على معنى\nالتشبيه. وكذلك قولهم: لفلانٍ دَجاجة، أَى عيالٌ. وهو قياسٌ؛ لأنَّهم إليه يدِجُّون.\nوأمّا الآخَر فقولهم تَدَجْدَج اللَيل: إِذا أظْلَم. وليلٌ دَجُوجىّ. ودَجَّجت السماءُ تدجيجاً: تغيَّمت. وتدَجْدَجَ الفارسُ بشِكَّته، كأنَّه تغطَّى بها. وهو مدجّج ومدَجَّجٍ. وقولهم للقُنْفذ مُدَجَّجِ (١) من هذا. قال:\nومُدَجَّجٍ يَعدُو بشِكّته … محمَرَّةٍ عيناهُ كالكَلْبِ (٢)\nوأمّا قولهم للنّاقة المبسطة على الأرض دَجَوْجَاةٌ، فهو من الباب، لأنّها كأنها تُغَشّى الأرض.",
+ "az": "[دج] الدال والجيم أصلان (dal və cim hərfləri iki əsas mənaya dəlalət edir): biri hərəkətə bənzər yavaş gediş-gəliş, ikincisi isə bir şeyi örtən və bürüyən şeydir.\n\nBirincisi, ərəblərin دَجَّ دَجيجاً (٥) (gəzişdi, yavaş-yavaş yeridi) deməsidir ki, bu, gəzib-dolaşmaq mənasındadır. Həmçinin حاجّ (həcc ziyarətində olanlar) ilə birlikdə ticarət məqsədilə gəzib-dolaşanlara الدَّجّ (ədyal/dəllallar) deyilir. [Hədisdə (٦)]i: «هؤلاء الدّاجُّ ولَيُسوا بالحاجّ» (Bunlar gəzməyə gələnlərdir, həcc ziyarətində olanlar deyillər).\n\nƏnsərin «ما تركت من حاجَةٍ ولا داجَة» (Nə bir ehtiyac, nə də bir gəzən buraxdım) sözünə gəldikdə, bu, həmin qapıdan (kökdən) deyil; çünki الدَّاجَة sözünün tələffüzü yüngülləşdirilmişdir və o, حاجَة (ehtiyac) sözünə tabedir (qafiyə uyğunluğu üçün gətirilmişdir).\n\nالدَّجاجَة (toyuq) sözü isə məlumdur; çünki o، تُدَجْدِجُ (yəni gedib-gəlir). Vى والدَّجَاجة: كُبَّةُ المِغْزَل (Yunun və ya ipin əyirmək üçün yumşaq yumşağı, topası). Əgər bu səhihdirsə, o, oxşatma mənasındadır. Həmçinin onların: لفلانٍ دَجاجَة، أَى عيالٌ (filankəsin toyuğu var, yəni ailəsi, uşaq-muşaqı var) deməsi də bundandır. Bu, qiyasən deyilmişdir; çünki onlar (ailə üzvləri) həmin şəxsin yanına gəlib-gedirlər.\n\nDigərinə gəldikdə, bu, تَدَجْدَج اللَيل: إِذا أظْلَم (Gecə qaranlıqlaşdı) deməkdir. ليلٌ دَجُوجىّ (qaranlıq gecə). ودَجَّجت السماءُ تدجيجاً (Səma buludla örtüldü). وتَدَجْدَجَ الفارسُ بشِكَّته (Atlı silah-sursatı ilə örtündü/büründü), sanki o, bununla özünü örtdü. O، مدجّج və مدَجَّج (silaha bürünmüş) adlanır. Onların Kirpiyə مُدَجَّجِ (١) demələri də bundandır. (Şair) demişdir:\nومُدَجَّجٍ يَعدُو بشِكّته … محمَرَّةٍ عيناهُ كالكَلْبِ (٢)\n(Silaha bürünmüş, silahı ilə qaçan, gözləri it kimi qızarmış elə bir atlı ki...)\n\nYerdə sərilmiş dəvəyə دَجَوْجَاةٌ (dajucah) demələri də bu babdandır, çünki o, sanki yeri örtür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.588Z"
+}

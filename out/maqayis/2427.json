@@ -1,0 +1,17 @@
+{
+ "i": 2427,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضوض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 378,
+  "page_to": 378
+ },
+ "ar": "الضاد والواو والضاد، الضَّوضاة قد مضى ذِكرُه (١)، والأصل مضاعَف.",
+ "az": "[ضوض] (ض و ض). الضاد والواو والضاد، الضَّوضاة قد مضى ذِكرُه (١)، والأصل مضاعَف.\n(Zəmin, vav və zəmin) — «الضَّوضاة» (səs-küy) haqqında artıq zikr edilmişdir (١), əsli isə müdaəfdir (qoşa hərfli).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:05:38.810Z"
+}

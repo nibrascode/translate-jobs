@@ -1,0 +1,17 @@
+{
+ "i": 878,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حصف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 67,
+  "page_to": 68
+ },
+ "ar": "الحاء والصاد والفاء أصلٌ واحد، وهو تشدُّدٌ يكون فى الشئِ وصلابةٌ وقوَّة. فيقال لرَكانة العقْل حصافة، وللعَدْوِ الشديد إحصاف.\nيقال فرسٌ مِحْصَفٌ وناقة مِحْصافٌ. ويقال كتيبة محصوفةٌ، إذا تَجمَّع أصحابُها وقلَّ الخَلَل فيهم. قال الأعشى:\nتأوِى طوائِفُها إلى مَحْصُوفة … مكروهةٍ يخشى الكماةُ نِزالَها (١)\nويقال «مخصوفة»، وهذا له قياسٌ آخر وقد ذكر فى بابه. ويقال استحصَفَ على بنى فلانٍ الزّمانُ، إذا اشتدّ. وفَرْجٌ مستحصِفٌ. وقال:\nوإذا طعنتَ فى مستَحْصِفٍ … رابى المَجَسَّةِ بالعبير مُقَرْمَدِ (٢)\nوالحَصَف: بَثْر صِغارٌ يَستحصِف لها الجِلْد.",
+ "az": "[حصف] Ha (ha), Sad (sad) və Fa (fa) tək bir kökdür, bu da bir şeydə olan möhkəmlik, sərtlik və gücdür. Ağlın kamilliyinə «حصافة» (həsafə) deyilir, şiddətli qaçışa isə «إحصاف» (ihsaf) deyilir. «فرسٌ مِحْصَفٌ» (mihsəf at) və «ناقة مِحْصافٌ» (mihsaf dəvə) deyilir. «كتيبة محصوفةٌ» (məhsufə dəstə) deyilir, əgər onun əsgərləri bir yerə toplanıbsa və aralarında boşluq azdırsa. Əl-Əşa demişdir: «تأوِى طوائِفُها إلى مَحْصُوفة … مكروهةٍ يخشى الكماةُ نِزالَها» (Onun dəstələri möhkəm, qorxulu bir yerə sığınır ki, cəngavərlər onunla döyüşməkdən çəkinirlər) (١). «مخصوفة» (məxsufə) də deyilir, bunun başqa bir ölçüsü var və öz babında qeyd edilmişdir. «استحصَفَ على بنى فلانٍ الزّمانُ» (Zaman filankəsgil üçün ağırlaşdı) deyilir, əgər zaman şiddətlənibsə. «فَرْجٌ مستحصِفٌ» (müstəhsif fərc) deyilir. O demişdir: «وإذا طعنتَ فى مستَحْصِفٍ … رابى المَجَسَّةِ بالعبير مُقَرْمَدِ» (Əgər sən möhkəm, ətirli və zirehli birinə nizə vursan) (٢). «الحَصَف» (əl-həsəf) - dərinin sərtləşməsinə səbəb olan kiçik səpgilərdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:57:37.546Z"
+}

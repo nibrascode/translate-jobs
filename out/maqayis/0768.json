@@ -1,0 +1,17 @@
+{
+ "i": 768,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 508,
+  "page_to": 508
+ },
+ "ar": "ومنها قولهم للنهر (جَعْفر). ووجهه ظاهر أنه من كلمتين: من جَعَف إذا صَرَع؛ لأنه يصرع ما يلقاه من نباتٍ وما أشبهه؛ ومن الجَفْر والجُفْرَة والجِفار والأجْفَر وهى كالجُفَر.",
+ "az": "«جعفر» - Və buraya çaya «جَعْفر» (cəfər) deyilməsi daxildir. Onun izahı aydındır ki, iki sözdəndir: جَعَف (cəfə) – yıxdığı zaman, çünki o, qarşılaşdığı bitki və bənzəri şeyləri yıxır; və جَفْر (cəfr), جُفْرَة (cüfrə), جِفار (cifar), Əcfər – bunlar da cüfər kimidirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.217Z"
+}

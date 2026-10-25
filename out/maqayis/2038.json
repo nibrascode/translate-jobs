@@ -1,0 +1,17 @@
+{
+ "i": 2038,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 157,
+  "page_to": 158
+ },
+ "ar": "السين والراء والدال أصل مطرّد منقاس، وهو بدلُّ على تَوالِى أشياءَ كثيرةٍ يتّصل بعضُها ببعض. من ذلك السَّرْد: اسمٌ جامعٌ للدروع وما أشبهها من عمل الحَلَق. قال اللّه ﷻ، فى شأن داود ﵇:\n﴿وَقَدِّرْ فِي اَلسَّرْدِ﴾، قالوا: معناه ليكنْ ذلك مقدَّراً، لا يكونُ الثَّقْب ضيّقاً والمِسمارُ غليظاً، ولا يكون المسمار دقيقاً والثقب واسعاً، بل يكون على تقدير.\nقالوا: والزّرَّاد، إِنّما هو السّرّاد. وقيل ذلك لقرب الراء من السين. والمِسْرَد:\nالمِخْرز: قياسُه صحيح.",
+ "az": "[سرد] السين والراء والدال (sin, ra və dal) — bir-birinə bitişən çoxlu şeylərin ard-arda gəlməsinə dəlalət edən ardıcıl, qaydaya uyğun bir əsasdır. Bunlardan biri «السَّرْد» (sərd) sözüdür; zirehlərin və onlara bənzər halqa işlərinin ümumi adıdır. Uca Allah Davud (ə.s.) haqqında buyurmuşdur: ﴿وَقَدِّرْ فِي اَلسَّرْدِ﴾ (mənaca tərcümə: Zireh toxumaqda ölçülü ol!), alimlər demişlər: mənası odur ki, bu [halqalar] ölçülü olsun, deşik çox dar, mismar isə qalın olmasın, yaxud mismar incə, deşik isə geniş olmasın, əksinə ölçüsünə uyğun olsun. Onlar demişlər ki, «الزّرَّاد» (zirehçi) sözü əslində «السّرّاد»-dır. Ra hərfinin sin hərfinə yaxınlığı səbəbindən belə deyilmişdir. «المِسْرَد» — biz (dəri deşmək üçün alət): onun ölçüsü səhihdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:38.718Z"
+}

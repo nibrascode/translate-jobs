@@ -1,0 +1,17 @@
+{
+ "i": 687,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 478,
+  "page_to": 478
+ },
+ "ar": "الجيم والميم والزاء أصلٌ واحد، وهو ضَرْبٌ من السَّير.\nيقال: جَمَزَ البَعيرُ جَمْزاً (٢) وهو أشَدُّ من العَنَق. وسُمِّىَ بَعير النَّجَاشىِّ (٣) جمّازاً، لسُرْعة سَيره. قال:\nأنا النَّجَاشيُّ على جَمَّازِ … حَادَ ابنُ حَسّانٍ عن ارتجازِى (٤)\nوحِمارٌ جَمَزَى أى سريع. قال:\nكأَنِّى ورَحْلِى إذا رُعْتُها … على جَمَزَى جازئٍ بالرِّمالِ (٥)\nوشذَّت عن هذا القياس كلمةٌ. يقال الجمْزَة الكتْلَةُ من التَّمْر (٦).",
+ "az": "«جمز» — جيم، ميم və زاي hərfləri bir gediş növünə dəlalət edən tək bir kökdür. Deyirlər: جَمَزَ البَعيرُ جَمْزاً (dəvə şiddətli şəkildə addımladı) — bu, عَنَق (ənəq) gedişindən daha şiddətlidir. Nəcaşinin dəvəsi sürətli gedişinə görə جَمّاز (Cəmmaz) adlandırılmışdır. (Şair) demişdir: «أنا النَّجَاشيُّ على جَمَّازِ … حَادَ ابنُ حَسّانٍ عن ارتجازِى» (Mən Nəçasiyəm, Cəmmazın üstündəyəm, İbn Həssanın sürücüsü mənim rəcəzimdən uzaqlaşdı). Və حِمارٌ جَمَزَى (cəməzi eşşək) yəni sürətli eşşək. (Şair) demişdir: «كأنِّى ورَحْلِى إذا رُعْتُها … على جَمَزَى جازئٍ بالرِّمالِ» (Sanki mən və yəhərim onu qorxutduğum zaman qumluqda təhlükədən qurtulan eşşəyin cəməzi üzərindəyik). Bu qaydadan bir söz istisna edilmişdir: الجمْزَة (əl-cəmzə) — xurma kütləsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.350Z"
+}

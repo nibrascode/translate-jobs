@@ -1,0 +1,17 @@
+{
+ "i": 2328,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صيخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 325,
+  "page_to": 325
+ },
+ "ar": "الصاد والياء والخاء كلمةٌ واحدةٌ. يقال أصاخَ يُصيخ، إذا استمع. قال:\nإصاخةَ النَّاشد للمُنْشدِ (١)",
+ "az": "«صيخ» (صاد، ياء və xa) tək bir kəlmədir. Deyilir: «أصاخَ يُصيخ» – qulaq asdı, dinlədi. (Şair) demişdir: (إصاخةَ النَّاشد للمُنْشدِ — Axtaranın oxuyana qulaq asması kimi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:32.085Z"
+}

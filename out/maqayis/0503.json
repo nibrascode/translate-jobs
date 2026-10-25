@@ -1,0 +1,17 @@
+{
+ "i": 503,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثجل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 371,
+  "page_to": 371
+ },
+ "ar": "الثاء والجيم واللام أصلٌ يدلُّ على عِظَم الشئ الأجوف، ثم يحمل عليه ما ليس بأجوف. فالثُّجْلة عِظَمُ البَطْن؛ يقال رجلٌ أثجَل وامرأةٌ ثجْلاءِ. [ومزادةٌ ثجلاءِ (٣)]، أى واسعة. قال أبو النجم:\n* مَشْىَ الرَّوايَا … بالمَزَادِ الأثجَلِ (٤) *\nويروى «الأنجَل»؛ وقد ذُكِر. ويقال جُلَّةٌ ثَجْلاء عظيمة. وقال:\nباتُوا يُعَشُّون القُطَيْعَاءَ ضَيْفَهُمْ … وعندهم البَرْنِىُّ فى جُلَلٍ ثُجْلِ (٥)\nوهذا البناء مهملٌ عند الخليل، وذَا عَجَبٌ.",
+ "az": "«ثجل»: الثاء, Cim və Lam içi boş olan bir şeyin böyüklüyünə dəlalət edən bir əslir, sonra içi boş olmayan şeylərə də aid edilir. (الثُّجْلة) — qarnın böyüklüyüdür; deyilir: kişi (أثجَل) və qadın (ثجْلاء). [Və geniş su tuluğu (مزادةٌ ثجلاءِ)] (٣) — yəni geniş. Əbu Nəcm demişdir: مَشْىَ الرَّوايَا … بالمَزَادِ الأثجَلِ (٤) (Böyük tuluqlar daşıyan dəvələrin yerişi ilə...). Və (الأنجَل) kimi də rəvayət olunur; bu artıq qeyd edilmişdir. Deyilir: böyük bir səbət (جُلَّةٌ ثَجْلاء). Və demişdir: باتُوا يُعَشُّون القُطَيْعَاءَ ضَيْفَهُمْ … وعندهم البَرْنِىُّ فى جُلَلٍ ثُجْلِ (٥) (Onlar qonaqlarına Quteyəu axşam yeməyi yedirdirdilər... yanlarında isə böyük səbətlərdə Berni xurmaları var idi). Bu quruluş Xəlil tərəfdən ihmal edilmişdir və bu təəccüblüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2506,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 420,
+  "page_to": 420
+ },
+ "ar": "الطاء واللام والفاء أصلٌ صحيح يدلُّ على إهانة الشَّئ وطَرْحه، ثم يُحمَل عليه. فالطَّلَف: الهَدَر من الدِّماء. وكلُّ شئٍ لم يُطْلب فهو هَدَر. قال:\nحَكَمَ الدّهرُ علينا إِنه … طَلَفٌ ما نال منا وجُبارُ (٢)\nوالمحمول عليه الطَّنَف: العطاء، ولا يُعطى الشّئُ حتّى يكون أمره خفيفاً عند المعطِى. يقال أطْلَفَنى وأسْلَفَنى. فالطَّلَف: العطاء. والسَّلَف: ما يُقتضَى.\nوالطَّلَف: الهَيِّن. قال:\nوكلُّ شئٍ من الدُّنيا نُصَاب به … ما عِشت فينا وإنْ جلَّ الرُّزَى طَلَفُ (٣)\nوالطَّلِيف والطَّلَف متقاربان. وقولهم إنّ الطَّلَفَ الفَضْل، ليس بشئ، إلاّ أن يراه أنّه الفاضل عن الشئ، لما ذكرناه.",
+ "az": "«طلف» — الطاء واللام والفاء أصلٌ صحيح يدلُّ على إهانة الشَّئ وطَرْحه (Ta, lam və fa səhih bir kökdir, bir şeyi alçaltmağa və tullamağa dəlalət edir), ثم يُحمَل عليه (sonra buna digər mənalar da həml olunur). فالطَّلَف (və əttələf): الهَدَر من الدِّماء (hədər gedən qanlardır). وكلُّ شئٍ لم يُطْلب فهو هَدَر (və tələb olunmayan hər bir şey hədərdir). قال (şair demişdir): حَكَمَ الدّهرُ علينا إِنه … طَلَفٌ ما نال منا وجُبارُ (Zəmanə bizə hökm etdi ki, bizdən əldə etdiyi hər şey tələfdir və cübardır). والمحمول عليه (Və buna həml olunan): الطَّنَف (əttənəf): العطاء (bəxşişdir), ولا يُعطى الشّئُ حتّى يكون أمره خفيفاً عند المعطِى (və bir şey verən üçün işi yüngül/dəyərsiz olmadıqca o verilməz). يقال أطْلَفَنى وأسْلَفَنى (Atləfəni və əsləfəni dedikləri kimi). فالطَّلَف (Deməli, əttələf): العطاء (bəxşişdir). والسَّلَف (və əssələf): ما يُقتضَى (tələb olunan şeydir). والطَّلَف (Və əttələf): الهَيِّن (adi, yüngül şeydir). قال (şair demişdir): وكلُّ شئٍ من الدُّنيا نُصَاب به … ما عِشت فينا وإنْ جلَّ الرُّزَى طَلَفُ (Aramızda yaşadığın müddətdə dünyadan bizə nəsib olan hər bir şey — müsibət nə qədər böyük olsa belə — tələfdir / dəyərsizdir). والطَّلِيف والطَّلَف متقاربان (Əttəlif və əttələf bir-birinə yaxındır). وقولهم إنّ الطَّلَفَ الفَضْل، ليس بشئ (Onların \"tələf fəzilətdir, artıqlıqdır\" demələri əsassızdır), إلاّ أن يراه أنّه الفاضل عن الشئ، لما ذكرناه (məgər qeyd etdiyimiz kimi, bir şeydən artıq qalan olduğunu düşünsünlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:31.508Z"
+}

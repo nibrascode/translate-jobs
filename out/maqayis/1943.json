@@ -1,0 +1,17 @@
+{
+ "i": 1943,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سهق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 110,
+  "page_to": 110
+ },
+ "ar": "السين والهاء والقاف أصلٌ يدلُّ على طول وامتداد. وهو صحيح. فالسَّهْوَق: الرَّجُل الطويل. والسَّهْوق الكذَّابُ، وسُمِّى بذلك لأنه يغلو فى الأمر ويزيدُ فى الحديث. والسهوق من الرياح: التى تَنسِج العَجَاج.\n* والسَّهْوق: الرّيّان من سُوق الشَّجر؛ لأنّه إِذا رَوِىَ طال.",
+ "az": "[سهق] السين والهاء والقاف (sin, ha və qaf) — uzunluğa və uzanmaya dəlalət edən bir əsldir. Bu, səhihdir. السَّهْوَق (əssəhvəq): uzun boylu kişi. والسَّهْوق (əssəhvuq): yalançı, belə adlandırılması ona görədir ki, o, işdə həddi aşır və sözə əlavə edərək artırır. السُّهوق (əssuhuq) küləklərdən: toz-torpaq burulğanı (əcaj) hörənlərdir.\n* والسَّهْوق (əssəhvuq): ağac gövdələrindən suya doymuş olanı; çünki o, suya doyduqda uzanar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

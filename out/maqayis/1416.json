@@ -1,0 +1,17 @@
+{
+ "i": 1416,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "الذال والواو والياء كلمةٌ واحدة تدلُّ على يُبْسٍ وجُفوف.\nتقول ذَوَى العُود يَذْوِى، إذا جَفّ، وهو ذاوٍ (٤)، وربَّما قالوا ذأَى يَذأَى، والأوّل الأجود.",
+ "az": "[ذوى]\nالذال والواو والياء كلمةٌ واحدة تدلُّ على يُبْسٍ وجُفوف (quruluq və nəməzsizlik mənasını bildirən tək bir kəlmədir).\nتقول ذَوَى العُود يَذْوِى، إذا جَفّ، وهو ذاوٍ (٤)، وربَّما قالوا ذأَى يَذأَى، والأوّل الأجود (Deyirsən ki, «zəvəl-udu yəzvi» – oduncaq qurudu, o da zavindir; bəzən «zəə yəzəu» deyirlər, lakin birincisi daha gözəldir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:22:56.902Z"
+}

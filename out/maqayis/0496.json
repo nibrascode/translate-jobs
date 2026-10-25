@@ -1,0 +1,17 @@
+{
+ "i": 496,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 368,
+  "page_to": 368
+ },
+ "ar": "الثاء والعين كلمة واحدة: الثّعُّ القئِ، يقال ثَعَّ ثَعَّةً، إذا قاءَ قَيئةً.",
+ "az": "«ثع»: الثاء və العين tək bir kəlimədir: (الثّعُّ) — qusmaqdır, deyilir: ثَعَّ ثَعَّةً — qusduğu zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

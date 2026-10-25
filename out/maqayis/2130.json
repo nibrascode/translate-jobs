@@ -1,0 +1,17 @@
+{
+ "i": 2130,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 222,
+  "page_to": 222
+ },
+ "ar": "الشين والهاء والراء أصلٌ صحيح يدلُّ على وضوحٍ فى الأمر وإضاءة. من ذلك الشَّهر، وهو فى كلام العرب الهِلال، ثمَّ سمِّى كلُّ ثلاثين يوماً باسم الهلال، فقيل شهر. قد اتَّفق فيه العربُ والعجم؛ فإنّ العجم يسمُّون ثلاثين يوماً باسم الهلال فى لغتهم. والدليل على هذا قولُ ذى الرّمّة:\nفأصْبَحَ أَجْلَى الطرفِ ما يستزيدُه … يَرَى الشَّهرَ قبل الناسِ وهو نحيلُ (٢)\nوالشُّهرة: وضوح الأمر. وشَهَر سيفَه، إذا انتضاه. وقد شُهِر فلانٌ فى الناس بكذا، فهو مشهور، وقد شَهَروه. ويقال أشْهَرْنا بالمكان، إذا أقَمنا به شهراً. وشَهْرانُ: قبيلة.",
+ "az": "[شهر] (şəhərə) — şin, he və ra işin aydınlığına və parıltısına dəlalət edən səhih bir əsasdır. Bunlardan biri də «الشَّهر» (şəhər - ay) sözüdür. Bu, ərəblərin dilində hilal deməkdir, sonra hər otuz gün hilalın adı ilə adlandırılmış və şəhər (ay) denilmişdir. Buna ərəblər və əcəmlər (qeyri-ərəblər) razılaşmışlar; çünki əcəmlər də dillərində otuz günü hilalın adı ilə adlandırırlar. Buna dəlil Züv-Rümmənin bu sözüdür:\nفأصْبَحَ أَجْلَى الطرفِ ما يستزيدُه … يَرَى الشَّهرَ قبل الناسِ وهو نحيلُ (٢)\n\n«الشُّهرة» (şöhrət) — işin aydın olması. «شَهَر سيفَه» (qılıncını sıyırdı) — qınından çıxardı. Filankəs insanlar arasında filan şeylə məşhur oldu, o, «مشهور» (məşhur) dur, onu «شَهَروه» (şöhrətləndirdilər). «أشْهَرْنا بالمكان» (əşhərnə bil-məkən) — bir yerdə bir ay qaldıq, denilir. «شَهْرانُ» (Şəhran) — bir qəbilədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:53:49.354Z"
+}

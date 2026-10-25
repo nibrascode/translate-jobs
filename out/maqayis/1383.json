@@ -1,0 +1,17 @@
+{
+ "i": 1383,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 344,
+  "page_to": 345
+ },
+ "ar": "الذال والفاء أصلٌ واحد يدلُّ على خِفّةٍ وسُرعة.\nفالذَّفِيف إتباعٌ للخفيف. ويقال الذَّفيف السَّريع. ومنه يقال ذفَّفْتُ على الجريح، إذا أسرعتَ قَتْلَه. واشتقاق «ذُفافَة» منه. ويقال للماء القليل ذُفافٌ، ومياهٌ أذِفَّةٌ\nوحُكى عن الأعرابىّ: الذَّفُّ: القتل. واستَذَفَّ الأمر: استقامَ وتهيَّأَ.\nويقال الذَّفَاف: الشّئ اليسير من كلِّ شئ. يقولون ما ذُقْتُ ذَفِافاً، أى أدْنَى ما يؤكل. قال أبو ذُؤيب:\nيقولون لما حُشَّت البِئْرُ أُوْرِدُوا … وليسَ بها أدنَى ذَفِافٍ لواردِ (١)\nيقول: ليس بها شئ.",
+ "az": "[ذف] (Zə-fə-lə). Zəl və fa hərfləri yüngüllüyə və sürətə dəlalət edən tək bir təməldir. فَالذَّفِيفُ (əz-zəfifu) yüngül şeyin ardınca getməkdir. Və deyilir ki, ذَفِيف (zəfif) — sürətlidir. Bunlardandır ki, deyilir: ذفَّفْتُ على الجريح (yaralıya yetişib işini bitirdim), onun öldürülməsini sürətləndirdiyin zaman. «ذُفافَةُ» (züfafə) sözünün kökü də buradan götürülmüşdür. Az su üçün ذُفافٌ (züfaf) və مياهٌ أذِفَّةٌ (miyahun əziflətün) deyilir. Ərəbdən rəvayət olunmuşdur: الذَّفُّ (əz-zəffü): öldürməkdir. وَاستَذَفَّ الأمرُ (istəzəffəl-əmr): düzəldi və hazır oldu. Və deyilir ki, الذَّفَافُ (əz-zəfafu): hər şeydən az olan şeydir. Deyirlər: ما ذُقْتُ ذَفِافاً (heç bir şey dadmadım), yəni yeyilə biləcək ən az şey. Əbu Züheyb demişdir: يقولون لما حُشَّت البِئْرُ أُوْرِدُوا … وليسَ بها أدنَى ذَفِافٍ لواردِ (١) (Deyirlər ki, quyu qazılıb təmizlənəndə onları suya gətirdilər... Halbuki su içməyə gələn üçün orada ən kiçik bir şey belə yoxdur). Deyir ki: orada heç bir şey yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

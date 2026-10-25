@@ -1,0 +1,17 @@
+{
+ "i": 1527,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 416,
+  "page_to": 416
+ },
+ "ar": "الراء والغين والثاء أصلٌ يدلُّ على الرَّضاع. يقال رَغثَ الجدىُ أمَّه: رَضِعَهَا. فأمّا قولُهم: بِرْذَوْنَةٌ رَغُوث، فقد اختُلِف فيه. فكان الخليل يقول: الرَّغُوث: كلُّ مرضعِة؛ وذكر قولَ طرفة:\nليت لنا مَكانَ المَلْكِ عَمْرِو … رَغُوثاً حولَ قُبّتِنا تخُورُ (٤)\nوكان ابنُ دريدٍ يقول: فعيل فى معنى مفعولة، لأنّها مرغُوثة. يريد أنه يرتضع لبنَها. ولعلَّ هذا أصح القولَين. وقال الأحمر: يقال لِلرَّجُل إذا كَثُرَ عليه السُّؤالُ حتى ينفَدَ ما عنده: مَرغوثٌ. والرُّغَثَاءُ: أصْلُ الضَّرْع، وهو القياس؛ لأنّ المرتضِع يَعْمِدُ له. ثم شبّه بذلكْ غيرُه، قيل لمُضَيْغَتَيْنِ بين الثَّنْدُوَة والمَنْكِب بجانبَى الصَّدر: رُغَثَاوَان.",
+ "az": "«رغث» (rəğəs): Ра, ğayn və sə hərfləri əmizdirməyə dəlalət edən bir əsasdır. Deyilir: «رَغَثَ الْجَدْيُ أُمََّهُ» (rəğəbəl-cədyu umməhü) — çəpiş anasını əmdi. Qaldı onların «بِرْذَوْنَةٌ رَغُوثٌ» (birzəunətün rağusun) demələrinə, bu xüsusda ixtilaf edilmişdir. Xəlil deyirdi: «الرَّغُوثُ» (ərrəğusu) — hər bir süd verən dişi heyvandır; və Tərfənin bu beytini zikr etmişdir: لَيْتَ لَنَا مَكَانَ الْمَلِكِ عَمْرِو … رَğُوثاً حَوْلَ قُبَّتِنَا تَخُورُ (Ləytə lənə məkənal-məiliki amro … rağusun həvlə qubbətinə təxuru). İbn Dürid isə deyirdi: «فَعُول» (fəul) vəznindədir, «مَفْعُولَةٌ» (məf'ulətü) mənasındadır, çünki o, südü əmizdiriləndir. O bununla demək istəyir ki, insan onun südünü əməkddədir. Bəlkə də bu iki sözdən daha səhih olanıdır. Əhmər demişdir: Əgər bir kişiyə suallar çoxalıb əlində olanı tükənənə qədər davam edərsə, ona «مَرْغُوثٌ» (marğusun) deyilir. «الرُّغَثَاءُ» (ərrüğəsu) — yəni döşün əsasıdır, bu da qiyasdır; çünki əmən uşaq ora tərəf yönəlir. Sonra bundan başqaları da bənzədilmişdir, sinənin yanlarında döşəmə ilə çiyin arasındakı iki ət parçasına «رُغَثَاوَانِ» (rüğəvəni) deyilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.131Z"
+}

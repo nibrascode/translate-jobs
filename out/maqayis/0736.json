@@ -1,0 +1,17 @@
+{
+ "i": 736,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جأث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 500,
+  "page_to": 500
+ },
+ "ar": "الجيم والهمزة والثاء كلمةٌ واحدة تدلُّ على الفَزَع. يقال جُئِثَ يُجْأَثُ، إذا أُفْزِع. و\nفى الحديث: «فجُئِثْتُ منه فَرَقًا (٢)».",
+ "az": "«جأث» — جيم, həmzə və sə hərfləri qorxuya dəlalət edən tək bir kəlmədir. Deyilir: «جُئِثَ يُجْأَثُ» (cuisə yucəs) — qorxudulduğu zaman. \nHədisdə demişdir: «فجُئِثْتُ منه فَرَقًا (٢)» (Və mən qorxudan ondan ürpəşdim/vahiməyə düşdüm).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

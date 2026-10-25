@@ -1,0 +1,17 @@
+{
+ "i": 1735,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زغل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 12,
+  "page_to": 13
+ },
+ "ar": "الزاء والغين واللام أصلٌ يدلُّ على رَضاع وزَقٍ\nوما أشبهه. يقال أزْغَلَ الطّائرُ فَرخَه، إذا زَقّه. قال ابن أحمر:\nفأزْغَلَتْ فى حَلْقِهِ زُغْلَةً … لم تُخْطِئ الجِيدَ ولم تَشْفَتِرّ (١)\nقال: وهو من قولهم: أَزْغِلى له زُغْلةً من سِقائك، أى صُبِّى له شيئًا مِنْ لَبَن. ويقال أزْغَلَت المرأةُ من عَزْلائِها، أى صَبَّت.\nومما شذّ عن الباب: الزُّغلول من الرِّجال: الخفيف.",
+ "az": "[زغل] (zəğl): Zay, ğın və lam hərfləri südəmər balaya yem verməyə və buna bənzər şeylərə dəlalət edən bir kökdür. Deyilir ki: «أزْغَلَ الطّائرُ فَرخَه» – quş balasına dimdiklə yem verdikdə deyilir. İbn Əhmər demişdir:\nفأزْغَلَتْ فى حَلْقِهِ زُغْلَةً … لم تُخْطِئ الجِيدَ ولم تَشْفَتِرّ (١)\n(O, onun boğazına bir tikə ötürdü ki, nə boynunu şaşırıdı, nə də yayınındı)\nO demişdir: Bu, onların «أزْغِلى له زُغْلةً من سِقائك» – yəni tuluğundan ona bir qədər süd tök – sözündəndir. Deyilir ki: «أزْغَلَت المرأةُ من عَزْلائِها» – yəni qadın tuluğunun ağzından tökdü.\nKökdən kənara çıxan (şaz) budur: «الزُّغلول» (züğlul) kişilərdən yüngülxasiyyət olanıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

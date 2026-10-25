@@ -1,0 +1,17 @@
+{
+ "i": 1284,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 296,
+  "page_to": 296
+ },
+ "ar": "الدال واللام والسين أصلٌ * يدلُّ (١) على سَتْرٍ وظُلمة.\nفالدَّلَس: دَلَسُ الظَّلام. ومنه قولهم: لا يُدالِسُ، أى لا يُخادع. ومنه التَّدْليس فى البيع، وهو أن يبِيعَه من غير إبانةٍ عن عيبه، فكأنّه خادَعَه وأتاهُ به فى ظلامٍ.\nوأصلٌ آخَرُ يدل على القِلَّة. يقول العرب: تدلَّسْتُ الطَّعامَ، إذا أخذْتَ منه قليلاً قليلاً. وأصل ذلك من الأَدْلاس، وهى من النبات رِبَبٌ (٢) تُورِقُ فى آخِر الصيف. يقولون: تَدَلَّسَ المالُ، إذا وقع بالأَدلاس (٣).",
+ "az": "«دلس» (dəlis): Dal, lam və sin örtüyə və qaranlığa dəlalət edən əsasdır (1).\n«الدَّلَس» (əd-dələs) — zülmətin qaralığıdır. Bunlardandır onların sözü: «لا يُدالِسُ» (lə yudəlisu) — yəni hiylə qurmur. Və ticarətdə tədlis (aldatma, gizlətmə) də bundandır, o da malı eybini açıqlamadan satmaqdır; sanki onu aldatmış və qaranlıqda ona gətirmişdir.\nVə digər bir əsas azlığa dəlalət edir. Ərəblər deyirlər: «تدلَّسْتُ الطَّعامَ» (tədəlləstü ət-təamə) — o yeməkdən az-az aldın. Bunun əsli «الأَدْلاس» (əl-ədləs) sözündəndir ki, o da yay sonunda yarpaqlayan bitki növüdür. Deyirlər: «تَدَلَّسَ المالُ» (tədəlləsə əl-məlu) — mal ədləslərə düşdükdə (2, 3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

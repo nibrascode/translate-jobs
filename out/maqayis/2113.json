@@ -1,0 +1,17 @@
+{
+ "i": 2113,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شمص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 213,
+  "page_to": 213
+ },
+ "ar": "الشين والميم والصاد كلمةٌ واحدة. يقال شَمَصْتُ الفَرس، إذا نَزَّقْتَه (٤) ليتحرَّك. ويقال شمَّص إبلَه، إذا طردها طرداً عنيفاً.",
+ "az": "[شمص] الشين والميم والصاد كلمةٌ واحدة (Şin, mim və sad tək bir kəlmədir). يقال شَمَصْتُ الفَرس (Deyilir: mən atı şəmostü), إذا نَزَّقْتَه (٤) ليتحرَّك (hərəkət etməsi üçün onu təhrik etdiyin zaman). ويقال شمَّص إبلَه (Və deyilir: dəvələrini şəmməs etdi), إذا طردها طرداً عنيفاً (onları şiddətli şəkildə qovduğu zaman).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:37.576Z"
+}

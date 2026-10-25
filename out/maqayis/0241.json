@@ -1,0 +1,17 @@
+{
+ "i": 241,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 245,
+  "page_to": 246
+ },
+ "ar": "الباء والزاء والواو أصلٌ واحد، وهو هيئةٌ من هيئات الجسم فى خروجِ صدرٍ، أو تَطَاوُلٍ، أو ما أشبه ذلك. يقال للرَّجُل الذى دخَلَ ظهْرُهُ وخرَجَ صَدْرُه: هو أَبْزَى. قال كثَيِّر:\n* من القَومِ أَبْزَى مُنْحنٍ مُتَباطِنُ (٣) *\nوقال قومٌ: تبازَى إذا حرّك عَجُزَه فى مِشْيَته. قال أبو عُبيد: الإبْزَاء أن يرفع الإنسان مُؤَخَّره؛ يقال منه أَبْزَى يُبْزِى. والبَازِى يَبْزُو فى تطاوله، أو إيناسه، وقد يقال له البازُ بلا ياءٍ فى ضرورة الشِّعر. قال عنترةُ يذكر فَرَساً:\nكأنَّهُ بازُ دُجْنٍ فَوقَ مَرْقَبَةٍ … جَلَا القَطَا فهو ضَارِىْ سَمْلَقٍ سَنِقْ (١)\nالبازِى فى الدَّجْن أشَدُّ طَلَباً للصَّيد، ضَارِى سَمْلق، أى مُعتادٌ للصَّيد فى السَّملق، وهى الصحراء. سَنِق: بَشِمٌ (٢). وأظنُّ أنا أنَّ وصْفَه إيَّاه بالبَشَمِ ليس بجيِّد. ويقولون: أخَذْتُ مِنْ فُلانٍ بَزْوَ * كَذَا، أى المبلغ الذى يبلغه ويَرتَفِع إليه. وربما قالوا أبزَيْتُ بفُلانٍ إذا بَطَشْتَ به؛ وهو من هذا لأنَّه يَعلُوه ويَقْهَرُه.",
+ "az": "[بزو] (bəzu) — با (ba), زاء (za) və واو (vav) tək bir əsas mənaya malikdir, bu da sinənin çıxması, bədənin uzanması və ya buna bənzər digər bədən formalarındandır. Belindən arxaya çəkilib sinəsi çölə çıxan kişiyə «أَبْزَى» (əbzi) deyilir. Kəsir demişdir: * من القَومِ أَبْزَى مُنْحنٍ مُتَباطِنُ (٣) * (O qövmdəndir ki, belindən arxaya çıxıb sinəsi önə gəlmiş, əyilmiş və qarnı içəri batmışdır). Bəzi qövmlər demişdir: «تبازَى» (təbazi) – yerişində sağrılarını hərəkət etdirdi. Əbu Übeyd demişdir: «الإبْزَاء» (ibza) – insanın arxa tərəfini yuxarı qaldırmasıdır; bundan «أَبْزَى يُبْزِى» (əbzi, yübzi) feili düzəlir. «البَازِى» (şahin) uzanmasında və ya ünsiyyətində «يَبْزُو» (yəzvu) (qalxır), bəzən şeir zərurəti olaraq ona «البازُ» (bazu) da deyilir, ya hərfi olmadan. Əntərə atı xatırlayaraq demişdir: * كأنَّهُ بازُ دُجْنٍ فَوقَ مَرْقَبَةٍ … جَلَا القَطَا فهو ضَارِىْ سَمْلَقٍ سَنِقْ (١) * (Elə bil o, müşahidə yerinin üzərində qaranlıq havanın şahinidir, qəta quşlarını qovub təmizləmişdir, o, səhra ovuna öyrəşmiş və toxdur). Qaranlıq havadakı şahin ovu daha çox tələb edəndir, «ضَارِى سَمْلَقٍ» – yəni səhrada ova aludə olmuş və öyrəşmişdir. «سَنِقٌ» – qarnı doymuş, toxluqdan ürəyi bulanan (٢). Mən güman edirəm ki, onun şahini toxluqla vəsf etməsi yaxşı deyil. Deyirlər: «أَخَذْتُ مِنْ فُلانٍ بَزْوَ كَذَا» (filankəsdən filan miqdarda aldım) – yəni onun çatdığı və yüksəldiyi məbləğ qədər. Bəzən də «أبزَيْتُ بفُلانٍ» (filankəsə güc gəldim) deyirlər, nə zamanki ona hakim kəsilib qələbə çalarsan; bu da həmçinin bu mənadandır, çünki o, digərinin üzərinə ucalır və onu məğlub edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.233Z"
+}

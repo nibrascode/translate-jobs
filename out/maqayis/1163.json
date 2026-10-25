@@ -1,0 +1,17 @@
+{
+ "i": 1163,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 230,
+  "page_to": 230
+ },
+ "ar": "الخاء والواو والقاف أُصَيلٌ يدلُّ على خلوِّ الشّئ. يقال مفازةٌ خَوْقاء، إذا كانت خاليةً لا ماءَ بها ولا شئ. والخَوْق: الحَلْقة من الذَّهب، وهو القياسُ؛ لأنَّ وسَطه خالٍ.",
+ "az": "«خوق»: الخاء، الواو və القاف — bir şeyin boş olmasına dəlalət edən kiçik bir əsasdır. Deyilir: «مفازةٌ خَوْقاء» (boş səhra), nə su, nə də başqa bir şeyin olmadığı boş səhra olduqda. «الخَوْق» (əl-xəuq) — qızıl halqadır, bu da qiyasidir; çünki onun ortası boşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

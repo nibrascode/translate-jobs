@@ -1,0 +1,17 @@
+{
+ "i": 1684,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رحض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 496,
+  "page_to": 496
+ },
+ "ar": "الراء والحاء والضاد أصلٌ يدلّ على غَسْل الشئ.\nيقال رحَضْتُ الثَّوبَ، إذا غسَلْتَه. قال:\nمَهَامِهُ أَشْباهٌ كأنَّ سَرابَها … مُلاءٌ بأيدى الغاسِلات رحيضُ (١)\nويقال للمغْتَسَل (٢) المِرحاض. فأما عَرَقُ الحمَّى فإِنَّه يسمّى الرُّحَضاء؛ وهو ذاك القياس، كأنّها رحضَتِ الجسمِ، أى غَسَلْتَه.",
+ "az": "[رحض] (rəhəd): راء، حاء və dad hərfləri bir şeyi yumağa dəlalət edən əsas kökdür.\nDeyilir: رحَضْتُ الثَّوبَ (paltarı yudum). Şair demişdir:\nمَهَامِهُ أَشْباهٌ كأنَّ سَرابَها … مُلاءٌ بأيدى الغاسِلات رحيضُ (١)\n(Bənzər səhra çölləri ki, onların səraabı paltaryuyanların əlindəki yuyulmuş parçalar kimidir).\nYuyunacaq yerə المِرحاض (əl-mirhad) deyilir. Qızdırma tərinə gəldikdə isə, o, الرُّحَضاء (ur-ruhada) adlanır; bu da həmin qəbildəndir, sanki o, bədəni yuyub, yəni təmizləyib.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:36:40.586Z"
+}

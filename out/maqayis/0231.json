@@ -1,0 +1,17 @@
+{
+ "i": 231,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 237,
+  "page_to": 237
+ },
+ "ar": "الباء والراء والثاء أصلٌ واحد، وهى الأرض السَّهلة، يقال للأرض السهلة بَرْثٌ، والجمعِ براثٌ. وجعلها رُؤبة البَرارِث (٤)، ويقال إنّه خطأ.",
+ "az": "«برث» (b-r-ث): Ba, ra və sə hərfləri tək bir əsas kökdür, o da hamar yerdir. Hamar torpağa «بَرْثٌ» (bərs), cəminə isə «باراث» (baraş) deyilər. Rübə bunu «البرارِثُ» (barariş) formasında işlətmişdir, lakin bunun səhv olduğu deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:29:37.934Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2051,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 177,
+  "page_to": 178
+ },
+ "ar": "الشين والتاء أصلٌ يدلُّ على تفرُّق وتزيُّل، من ذلك تشتيت الشئ المتفرّق. تقول: شَتّ شَعْبُهم شَتَاتا وشَتًّا، أى تفرَّق جَمْعهم.\nقال الطرِمّاح:\nشَتَّ شَعْبُ الحىِّ بعد التِئامْ … وشَجَاك الرّبعُ ربع المُقامْ (١)\nويقال: جاء القوم أشتاتاً. وثَغْر شَتِيتٌ: مفلَّجٌ حَسَن. وهو من هذا، كأَنّه يقال إنّ الأسنانَ ليست بمتراكِبة. وشتّانَ ماهما، يقولون إنّه الأفصح، وينشدون:\nشَتّانَ ما يومِى على كُورِها … ويومُ حَيَّانَ أخِى جابرِ (٢)\nوربما قالوا: شَتَّانَ ما بينهما، والأوّل أفصح.",
+ "az": "[شت] «الشين والتاء» (şin və ta) – ayrılığa və parçalanmaya dəlalət edən bir əsasdır; dağılmış şeyin səpələnməsi bundandır. Deyirsən: «شَتّ شَعْبُهم شَتَاتا وشَتًّا» (şəttə şəvbühüm şətatən və şəttən) – yəni onların birliyi dağıldı. Tirimmah demişdir: «شَتَّ شَعْبُ الحىِّ بعد التِئامْ … وشَجَاك الرّبعُ ربع المُقامْ (١)» — mənaca tərcümə: «Birləşdikdən sonra tayfanın birliyi dağıldı... və sakinlərin məskəni olan o yer səni kədərləndirdi». Deyilir: «جاء القوم أشتاتاً» (Cəəl-qavmu uştatan) – qövm pərən-pərən (dəstə-dəstə) gəldi. «ثَغْر شَتِيتٌ» (səğrun şətitün) – aralı-aralı (seyrək), gözəl dişlər. Bu da bundandır, sanki dişlərin bir-birinin üzərinə minmədiyi deyilir. «شتّانَ ماهما» (şəttanə mahüma) – deyirlər ki, bu, ən bəlağətlidir, və bu beytliyi oxuyurlar: «شَتّانَ ما يومِى على كُورِها … ويومُ حَيَّانَ أخِى جابرِ (٢)» — mənaca tərcümə: «Nə qədər fərqlidir mənim gəmi yəhəri üzərindəki günüm... və Cabirin qardaşı Həyyanın günü!». Bəzən deyirlər: «شَتَّانَ ما بينهما» (şəttanə ma beynəhüma), lakin birincisi daha bəlağətlidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:50:42.414Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1027,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 153,
+  "page_to": 153
+ },
+ "ar": "الخاء والضاد أصلان: أحدهما قِلَّة الشئ وسَخافته، والآخر الاضطراب فى الشَّئِ مع رطوبةٍ.\nفالأول الخَضَض: [الخرز (٣)] الأبيض يَلْبَسُه الإِماء. والرّجُل الأحمق خَضَاض.\nويقال للسَّقَط من الكلام خَضَصٌ. ويقال: ما على الجارية خَضَاضٌ، أى ليس عليها شئٌ من حَلْىٍ. والمعنى أنّه ليس عليها شئٌ حَتَّى الخَضَض الذى بدأنا بذكره.\nقال الشاعر:\nولو بَرَزَتْ من كُفَّةِ السّتْرِ عاطلاً … لقُلتَ غَزالٌ ما عليه خَضَاضَ (٤)\nوأمّا الأصل الآخَر فتَخَضْخض الماء. والخَضْخاض: ضربٌ من القَطِران. ويقال نبت خُضَخِضٌ، أى كثير الماء. تقول: كأنّه يتخضخضُ من رِيِّه.\nوقد شذّ عن الباب حرفٌ واحدٌ إن كان صحيحاً، قالوا: خاضَضْتُ فلاناً إذا بايعتَه مُعارَضة (٥). وهو بعيدٌ من القياس الذى ذكرناه",
+ "az": "«خض» (xa-dad): Xa və dad iki əslidir: biri şeyin azlığı və zəifliyi, diğəri isə rütubətlə birlikdə şeyin titrəməsidir.\n\nBirincisi: الخَضَض (əl-xadad) — kənizlərin geyindiyi ağ muncuqdur. Axmaq kişiyə خَضَاض (xadad) deyilir.\n\nVə sözün faydasız, dəyərsiz hissəsinə خَصَصٌ (xəsasun) deyilir. Deyirlər: ما على الجارية خَضَاضٌ (ma aləl-cariyyəti xadadun), yəni qızın üzərində heç bir zinət əşyası yoxdur. Məna budur ki, hətta başladığımız o xadad (muncuq) belə üzərində yoxdur.\n\nŞair demişdir:\nولو بَرَزَتْ من كُفَّةِ السّتْرِ عاطلاً … لقُلتَ غَزالٌ ما عليه خَضَاضَ (٤)\n(Əgər pərdənin kənarından bəzəksiz halda çıxsaydı, deyərdin ki, üzərində heç bir bəzək olmayan ceyrandır.)\n\nİkinci əslə gəldikdə, o da suyun dalğalanıb titrəməsidir (تَخَضْخض الماء). Və الخَضْخاض (əl-xadxad) — qətranın bir növüdür. Deyilir: نبت خُضَخِضٌ (nəbtun xudaxidun), yəni suyu çox olan bitkidir. Deyirsən: كأنّه يتخضخضُ من رِيِّه (kəənnəhu يَتَخَضَخَضُ min riyyihi) — sanki suya qərq olub su tökür.\n\nBu fəsildən tək bir hərf istisna edilmişdir, əgər o səhihdirsə; demişlər: خاضَضْتُ فلاناً (xadadtu fülənən) — səninlə alış-verişdə mübarizə apardım, qarşılaşdım (5). Bu, qeyd etdiyimiz qiyasdan çox uzaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:06:36.723Z"
+}

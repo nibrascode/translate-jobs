@@ -1,0 +1,17 @@
+{
+ "i": 1971,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سأل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 124,
+  "page_to": 124
+ },
+ "ar": "السين والهمزة واللام كلمةٌ واحدة. يقال سَأَلَ يَسْأَلُ سُؤالا ومَسْأَلَةً. ورجل سُؤَلةٌ: كثير السؤال.",
+ "az": "[سأل] (səl). السين (sin), والهمزة (həmzə) və اللام (lam) tək bir kəlmədir. سَأَلَ يَسْأَلُ سُؤالا ومَسْأَلَةً (səələ, yəsəlü sualən və məsələtən) - soruşdu, soruşur, sual və məsələ deməkdir. سُؤَلةٌ (suulətün) - çox sual verən kişi deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:50.268Z"
+}

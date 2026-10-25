@@ -1,0 +1,17 @@
+{
+ "i": 663,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 465,
+  "page_to": 465
+ },
+ "ar": "الجيم والفاء والنون أصلٌ واحد، وهو شئٌ يُطِيفُ بشئٍ ويَحْوِيه. فالجَفْن جَفْن العين. والجَفْن جفن السَّيْف (٤). وجَفْن: مكان (٥).\nوسمِّى الكَرْم جَفْناً لأنه يَدُورُ على ما يَعْلَق به، وذلك مُشاهَدٌ.",
+ "az": "[جفن] (cim, fa və nun) bir şeyi əhatə edən və onu ehtiva edən tək bir əsasdır. Cəfn (الجَفْن): göz qapağıdır. Və Cəfn (الجَفْن): qılınc qınıdır (٤). Və Cəfn (جَفْن): yer adıdır (٥). Tənək ağacına جَفْن (cəfn) adı verilmişdir, çünki o, yapışdığı şeyin ətrafına dolanır və bu, müşahidə olunandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:09.223Z"
+}

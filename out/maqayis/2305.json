@@ -1,0 +1,17 @@
+{
+ "i": 2305,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 314,
+  "page_to": 314
+ },
+ "ar": "الصاد والنون والقاف كلمة إن صحّت. يقولون إنّ الصَّنَق:\nالذَّفر. وحكى بعضُهم: أصنَقَ الرجلُ فى ما له، إذا أحسَنَ القيامَ عليه.",
+ "az": "«صنق» (Sad, nun və qaf) - əgər səhihdirsə, bir kəlmədir. Deyirlər ki, «الصَّنَق» pis qoxudur (tər qoxusu). Bəziləri rəvayət etmişdir ki, kişi öz malı barəsində «أصنَقَ الرجلُ» — yəni ona yaxşı qulluq etdi, baxdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

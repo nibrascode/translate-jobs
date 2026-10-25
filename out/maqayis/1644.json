@@ -1,0 +1,17 @@
+{
+ "i": 1644,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رأم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 472,
+  "page_to": 472
+ },
+ "ar": "الراء والهمزة والميم أصلٌ يدل على مُضامَّةٍ وقُرْب وعَطْفٍ.\nيقال لكل مَنْ أحبَّ شيئاً وأَلِفَه: قد رَئِمَه. وأصلُه مِنْ قولهم: رَأَمَ الجُرْحُ رِئْماناً (٣)، إذا انضمّ فُوه للبُرْء. وقال الشَّيبانى: رأَمْت شَعْبَ القَدَح، إذا أصلحتَه. وأنشد:\nوقَتْلى بحِقْفٍ من أُوارةَ جُدِّعتْ … صَدَعْنَ قُلوباً لم تُرأَّمْ شُعوبُها (٤)\nوالرُّؤمة: الغِراء الذى يُلزَق به الشَّئ. والرَّأْم: بَوٌّ أو ولدٌ تعطف عليه غير أمِّه. وقد رئِمت النّاقةُ رِئْمَاناً. وأرأمْناها، عطفْناها على رَأْمٍ. والناقة رؤومٌ ورائمة (٥).",
+ "az": "«رأم»: (Ra, Həmzə, Mim) bir araya gəlməyə, yaxınlığa və şefqətə dəlalət edən bir əsldir. Hər bir sevənə və alışana رَئِمَهُ (rəiməhu - ona bağlandı) deyilir. Bunun əsli onların bu sözüdür: رَأَمَ الْجُرْحُ رِئْمَانًا (rəməl-cünhü riəman) - yara sağalmaq üçün ağzını birləşdirdi. Şeybani demişdir: رَأَمْتُ شَعْبَ الْقَدَحِ (qədəhin sınığını düzəltdim). Və bu beyti oxumuşdur: وَقَتْلَى بِحِقْفٍ مِنْ أُوَارَةَ جُدِّعَتْ … صَدَعْنَ قُلُوبًا لَمْ تُرَأَّمْ شُعُوبُها (4) (Uvarə qumluğunda qulaqları kəsilmiş ölülər... elə qəlbləri yardılar ki, onların qrupları birləşdirilmədi). الرُّؤْمَة (ər-rumə): şeyin yapışdırıldığı yapışqan. الرَّأْم (ər-rəm): başqa ananın şefqət göstərdiyi ögey bala və ya dəvə balasının dəmiri. وَرَئِمَتِ النَّاقَةُ رِئْمَانًا (dəvə balasına şefqət göstərdi). وَأْرَمْنَاهَا (onun bala üçün şefqətini oyatdıq). Dəvə رُؤُوم (ruum) və رَائِم (rəim) olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.917Z"
+}

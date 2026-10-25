@@ -1,0 +1,17 @@
+{
+ "i": 453,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تلد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 352,
+  "page_to": 352
+ },
+ "ar": "التاء واللام والدال أصلٌ واحد، وهو الإقامة. ويقولون تَلَدَ فلانٌ فى بَنِى فلانٍ إذا أقامَ فيهم يَتْلِدُ. وأتْلَدَ إذا اتَّخَذَ مالاً، والتِّلَاد ما نَتَجْتَه أنتَ عندَك من مالٍ. ومالٌ مُتْلَدٌ. وقال:\nلو كان للدَّهْر مالٌ كان مُتْلِدَهُ … لكان للدَّهر صَخْرٌ مالَ قِنُيانِ (١)\nوالتَّليدُ: ما اشتريْتَه صغيراً فَنَبَتَ (٢) عِندَك. والأَتْلادُ (٣) قومٌ من العرب.",
+ "az": "[تلد] (tə-lə-d) - Tə, lam və dal tək bir əsasdır ki, o da yerində qalmaq, sakin olmaqdır. Deyirlər: «تَلَدَ فلانٌ فى بَنِى فلانٍ» (filankəs filan qəbilə arasında yaşadı, qaldı) — orada qalaraq «يَتْلِدُ» (yaşayır). «وأتْلَدَ» — sərvət əldə etdikdə deyilir. التِّلَادُ (tilad) — sənin öz yanında maldan istehsal etdiyin, əldə etdiyin şeydir. Və malun mutlədun (مُتْلَدٌ) — köhnə və ya qədim mal. Və demişdir: Əgər zəmanənin malı onun qədim sərvəti olsaydı... zəmanə üçün Səxr qinuian malı olardı (1). Və ət-təlid (التَّليدُ): kiçik ikən satın aldığın və sənin yanında böyüyən şeydir. Və ət-ətlad (الأَتْلادُ) (3) — ərəblərdən bir tayfadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.996Z"
+}

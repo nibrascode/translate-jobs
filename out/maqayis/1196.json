@@ -1,0 +1,17 @@
+{
+ "i": 1196,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خثل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 246,
+  "page_to": 246
+ },
+ "ar": "الخاء والثاء واللام كلمةٌ واحدةٌ لا يقاس عليها. قال الكِسائىّ: خَثَلة البَطْن: ما بين السُّرّة والعانة؛ ويقال خَثْلَة، والتخفيف أكثر (٢)",
+ "az": "«خثل» (x-v-l) — Xa, sə və lam hərflərindən ibarət tək bir kəlmədir, ona əsasən qiyas edilməz. Kisai demişdir: «خَثَlə البَطْن» — göbəklə qasıq arasında qalan hissədir; həmçinin «خَثْلَة» deyilir, lakin təaffüf (xəfiflik) ilə işlənməsi daha çoxdur (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:40.619Z"
+}

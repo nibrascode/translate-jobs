@@ -1,0 +1,17 @@
+{
+ "i": 1081,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خسر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 182,
+  "page_to": 182
+ },
+ "ar": "الخاء والسين والراء أصلٌ واحدٌ يدلُّ على النَّقْص. فمن ذلك الخُسْر والخُسْران، كالكُفْر والكُفْران، والفُرْق والفُرقان. ويقال خَسَرْتُ المِيزانَ وأخْسَرْتُه، إذا نقَصْتَه. واللّه أعلم.",
+ "az": "[خسر] (خ, س, ر): Əskilməyə dəlalət edən tək bir əsasdır. Bunlardan الخُسْر (əl-xusr) və الخُسْرَان (əl-xusran) - كُفْر (kufr) və كُفْرَان (kufran), فُرْق (furq) və فُرْقَان (furqan) kimidir. خَسَرْتُ المِيزَانَ وَأَخْسَرْتُهُ (xəsərtü əl-mizanə və əxsərtuhu) - tərəzidə əskiltdim - deyilir. Ən yaxşı Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

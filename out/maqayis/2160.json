@@ -1,0 +1,17 @@
+{
+ "i": 2160,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شأز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 237,
+  "page_to": 237
+ },
+ "ar": "الشين والهمزة والزاء أُصَيْلٌ يدل على قلق وتَعَادٍ (٢) فى مكان. من ذلك المكان الشّأْز، وهو الخشِن المتعادِى. قال رؤبة:\nشأزٍ بمَنْ عَوَّه جدْبِ المنطَلَق (٣)\nويقال أشْأَزهُ (٤) الشئُ، إذا أقْلَقَه.",
+ "az": "«شأز»: الشين والهمزة والزاء أُصَيْلٌ يدل على قلق وتَعَادٍ (٢) فى مكان (Şin, həmzə və zay hərflərindən ibarət kiçik bir kök olub, bir yerdə narahatlıq və uzaqlaşmanı bildirir). من ذلك المكان الشّأْز (Ondandır şəz yeri), وهو الخشِن المتعادِى (və o, sərt və hamar olmayan yerdir). قال رؤبة (Rüvbə demişdir):\nشأزٍ بمَنْ عَوَّه جدْبِ المنطَلَق (٣)\n(Quraqlıq və çətin gedilən yerdə sərt və narahat yer...)\nويقال أشْأَزهُ (٤) الشئُ، إذا أقْلَقَه (Deyilir ki: Bir şey onu narahat etdi, təşvişə saldı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:06.969Z"
+}

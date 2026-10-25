@@ -1,0 +1,17 @@
+{
+ "i": 2191,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شحط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 251,
+  "page_to": 251
+ },
+ "ar": "الشين والحاء والطاء أصلان: أحدهما البُعد، والآخر اختلاطٌ فى شئٍ واضطراب.\nفالأوّل: قولهم شَحَطَتِ الدار تَشْحَطُ شحْطَا وشحوطا، وهى شاحطة.\nوأمّا الأصل الآخر فالشحْط، وهو الاضْطرابُ فى الدَّمِ. ويُقال للولد إذا اضْطربَ فى السَّلى: هو يتشحط فى دمه. ومنه اللّبن المشحوط، وهو الذى يُصَبُّ عليه الماء. ومن الباب: الشحْطَة: داءٌ يأخذ الإبلَ لا تكاد أن تنحوَ منه. ومن الباب المِشحط: عُوَيدٌ يُوضَع عند قضيب الكرم يَقِيِه الأرضَ (١).\nوقال قوم: إنّ الشَّحْط ذَرْق الطّير. وأنشدوا:\nومُلْبِدٍ بين مَوْماةٍ بمَهْلَكَةٍ … جاوزتُه بِعَلاةِ الخَلْقِ عِلْيانِ (٢)\nكأَنَّما الشحْط فى أعلى حَمائره … سبائِب الرَّيْط من قَزٍّ وكَتّانِ\nفإِن صح هذا فهو أيضا من الاختلاط.",
+ "az": "[شحط] Şin, hə və ta hərfləri iki kökdür: biri uzaqlıq, digəri isə bir şeydə qarışıqlıq və iztirabdır. Birincisi: Onların «شَحَطَتِ الدار تَشْحَطُ شحْطَا وشحوطا» (ev uzaqlaşdı) sözüdür, o, uzaq olandır. Digər kökə gəldikdə isə «الشحْط»-dir, o da qandakı iztirabdır. Uşaq cift (uşaqlıq yolu) içində tərpənəndə «هو يتشحط فى دمه» (o qanı içində çırpınır) deyilir. O cümlədən «اللّبن المشحوط» (üzərinə su tökülmüş süd). Bu fəsildən: «الشحْطَة» — dəvələri tutan və demək olar ki, sağalması mümkün olmayan xəstəlikdir. Və bu fəsildən «المِشحط» — tənək çubuğunun yanına qoyulan, onu yerdən qoruyan kiçik çubuqdur (١). Bir qrup insan demişdir ki, «الشَّحْط» quşun peyindir. Və onlar şeir söyləmişlər: «ومُلْبِدٍ بين مَوْماةٍ بمَهْلَكَةٍ … جاوزتُه بِعَلاةِ الخَلْقِ عِلْيانِ» (Çölün həlakedici yerində gizlənən birini uca yaradılışlı, uca bir dəvə ilə keçdim) (٢) «كأنَّما الشحْط فى أعلى حَمائره … سبائِب الرَّيْط من قَزٍّ وكَتّانِ» (Sanki onun kürəyinin yuxarısındakı peyin ipək və kətandan olan parçalara bənzəyir). Əgər bu doğru olsa, o da qarışıqlıq mənasındandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:46.217Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 972,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 121,
+  "page_to": 121
+ },
+ "ar": "الحاء والواو والقاف أصلٌ واحد يقْرُب من الذى قبلَه.\nفالحُوق: ما استدارَ بالكَمَرة. والحَوْق: كَنْس البَيت. والمِحْوَقة: المِكْنَسة.\nوالحُواقَة: الكُنَاسَة.",
+ "az": "[حوق] الحاء, الواو və القاف hərfləri tək bir əsas kökə malik olub, bundan əvvəlki kökə yaxındır. الحُوق (əl-huq) – cinsiyyət orqanının başını (sünnəti) əhatə edən hissədir. الحَوْق (əl-həuq) – evi süpürməkdir. المِحْوَقة (əl-mihvəqə) – süpürgədir. الحُواقَة (əl-huvaqə) – süpürüntüdür (zibil).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.843Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 533,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثكم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 383,
+  "page_to": 383
+ },
+ "ar": "الثاء والكاف والميم كلمةٌ واحدة، وهو مجتمع الشئ. يقال تنحّ عن ثُكَمِ الطريق (٤)، أى مُعْظَمِه وواضحه.",
+ "az": "[ثكم] (Sə, kaf və mim) bir şeyin toplaşdığı yer demək olan tək bir kəlmədir. Deyilir: تنحّ عن ثُكَمِ الطريق (yolun mərkəzindən çəkil) (٤), yəni onun böyük və açıq hissəsindən.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.493Z"
+}

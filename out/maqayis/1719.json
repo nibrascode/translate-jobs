@@ -1,0 +1,17 @@
+{
+ "i": 1719,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 5,
+  "page_to": 5
+ },
+ "ar": "الزاء والنون كلمةٌ واحدة لا يُتفرَّع ولا يُقاس عليها. يقال أزنَنْتُ فلاناً بكذا، إذا اتَّهمتَه به. وهو يُزَنُّ به. قال:\nإن كنتَ أزنَنْتَنِى بها كَذِباً … جَزْءِ فلاقَيْتَ مِثلَها عَجِلَا (٤)",
+ "az": "«زن» — Zae və nun tək bir kəlmədir, bundan qollar açılmaz və bununla müqayisə edilməz. «أزنَنْتُ فلاناً بكذا» (Filankəsi belə bir şeydə ittiham etdim) — o, bununla ittiham olunur, deyilir. Şair demişdir: «إن كنتَ أزنَنْتَنِى بها كَذِباً … جَزْءِ فلاقَيْتَ مِثلَها عَجِلَا (٤)» (Əgər məni yalandan bunda ittiham etdinmi, ey Cəz, sən də tezliklə onun mislini görəcəksən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:48.690Z"
+}

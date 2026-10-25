@@ -1,0 +1,17 @@
+{
+ "i": 1555,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رقط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 429,
+  "page_to": 429
+ },
+ "ar": "الراء والقاف والطاء يدل على اختلاطِ لونٍ بلون. فالرُّقْطة:\nسوادٌ يشوبه نُقَط بَياض. يقال دَجاجةٌ رَقْطاء. والأرقَط: النَّمِر. ويقال: ارقَاطَّ العَرْفَجُ، إذا خالط سوادَه نُقَطٌ.",
+ "az": "[رقط] (Rəqət): Ra, qaf və ta hərfləri bir rəngin digər rəngə qarışmasına dəlalət edir. الرُّقْطة (ər-ruqtə): ağ nöqtələr qarışmış qara rəng. Deyilir: دَجاجةٌ رَقْطاء (dəcəcatun rəqtaə) — ala-bəzək toyuq. والأرْقَط (əl-ərqat): bəbir. Və deyilir: ارقَاطَّ العَرْفَجُ (irqattəl-ərfəcu) — ərfəc bitkisinə qara rənglə birlikdə nöqtələr qarışdıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

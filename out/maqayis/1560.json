@@ -1,0 +1,17 @@
+{
+ "i": 1560,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 431,
+  "page_to": 431
+ },
+ "ar": "الراء والكاف والحرف المعتل أصول ثلاثة: أحدُها حملُ الشئ على شئٍ وضمُّه إليه، والآخَر إصلاحُ شئٍ، والثالث وِعاء الشئ.\nفالأوّلُ قولُهم: رَكَوْتُ على البعير الحِملَ: ضاعفْتُه. ومن الباب ركَوْتُ عليه الأمْرَ والذَّنب، أى حملتُه عليه. وقال بعضُهم: أنَا مُرْتَكٍ على كذا، أى معوِّلٌ عليه. وما لى مُرْتكىً إلاّ عليك. وحكى الفرّاء: أرْكَيْتَ علىَّ ذنْباً لم أُذْنِبْه.\nومن الباب أركَيتُ إلى فلانٍ: لجأتُ إليه. ومنه أرْكِنِى إلى كذا، أَى أخِّرْنى، للدَّين يكون عليه *. وركَوتُ عنهم بقيّةَ يومى، أى أقمت.\nأمّا إصلاحُ الشئ فالمركوُّ الحَوض المستطيل، ويقال المُصْلَح، قال:\n* قامَ على المَرْكُوِّ ساقٍ يَفْعَمُهْ *\nوركَوْتُ الشئَ، إذا سدَّدْتَه وأصلحَتَه. قال سُويد بن كُراع:\nفدَعْ عنك قوماً قد كَفَوْكَ شُؤونَهم … وشأنُك إلا تَرْكُهُ متفاقِمْ (١)\nأى إن لم تُصلِحْه. ويقال أركَيْتُ لفلانٍ شيئاً، إذا هيّأْتَه له.\nوأما الأصل الآخَر فالرَّكْوة معروفة؛ ومنه الرَّكِىّ؛ لأنه كأنه وعاءُ ما يكونُ فيه.",
+ "az": "[ركو] (rakəv) — ra, kaf və zəif hərf olmaqla üç əsas kökə malikdir: bunlardan biri bir şeyi digərinin üzərinə qoymaq və ona birləşdirmək, ikincisi bir şeyi islah etmək, düzəltmək, üçüncüsü isə bir şeyin qabı. Birincisi, onların «رَكَوْتُ على البعير الحِملَ (dəvənin üzərinə yükü artırdım/qatladım): ضاعفْتُه» demələridir. Bu fəsildəndir: «ركَوْتُ عليه الأمْرَ والذَّنب (işi və günahı onun üzərinə qoydum)», yəni onu bununla yüklədim. Bəziləri demişdir: «أنَا مُرْتَكٍ على كذا (filan şeyə söykənmişəm/etimad etmişəm)», yəni ona etimad edən. «وما لى مُرْتكىً إلاّ عليك (Səndən başqa dayanağım/söykənegim yoxdur)». Fəra rəvayət etmişdir: «أرْكَيْتَ علىَّ ذنْباً لم أُذْنِبْه (Etmədiyim bir günahı mənim boynuma atdın)». Bu fəsildəndir: «أركَيتُ إلى فلانٍ (filankəsə sığındım)», yəni ona pənah apardım. Həmçinin: «أرْكِنِى إلى كذا (filan şeyə görə mənə möhlət ver)», yəni üzərindəki borca görə məni gecikdir. Və «ركَوتُ عنهم بقيّةَ يومى (günümün qalan hissəsini onların yanında keçirdim/qaldım)». Qaldı ki, bir şeyi islah etmək, düzəltmək; «المركوُّ (əl-marku)» uzunsov hovuzdur, həmçinin islah edilmiş, düzəldilmiş mənasında da deyilir. Şair demişdir: * قامَ على المَرْكُوِّ ساقٍ يَفْعَمُهْ * (Hovuzun başında onu dolduran bir saqı durdu). Və «ركَوْتُ الشئَ (şeyi düzəltdim)» — onu nizamlayıb islah etdiyin zaman deyilir. Süveyd ibn Kürac demişdir: * فدَعْ عنك قوماً قد كَفَوْكَ شُؤونَهم … وشأنُك إلا تَرْكُهُ متفاقِمْ * (Sənin işlərinini kifayətləndirən bir qövmü öz halına burax... Sənin işin isə əgər onu tərk etməsən böyüyəcəkdir), yəni əgər onu islah etməsən. Deyilir: «أركَيْتُ لفلانٍ شيئاً (filankəs üçün bir şey hazırladım)», yəni onu onun üçün tədarük etdiyin zaman. Qaldı ki, digər əsl, «الرَّكْوة (rakvə - dəri su qabı)» məşhurdur; «الرَّكِىّ (rəkiy - quyu)» də bundandır; çünki o, sanki içində su olan bir qab kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:31:13.504Z"
+}

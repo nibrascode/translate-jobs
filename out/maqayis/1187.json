@@ -1,0 +1,17 @@
+{
+ "i": 1187,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 243,
+  "page_to": 244
+ },
+ "ar": "الخاء والباء والنون أُصَيْلٌ واحد يدلُّ على قَبْض ونقص يقال خَبَنْت الشَّئَ، إذا قبَضْته. وخَبَنْت الثوبَ، إذا رفعتَ ذَلاذِلَه حتّى يتقلَّص بعد أن تَخِيطه وتكُفَّه. والخُبْنَةُ: ثِبَان الرّجُل (٤)؛ وسمِّى بذلك لأنَّه يُخبَن فيه الشّئ. تقول: رفَعَه فى خُبْنَتِه. و\nفى الحديث: «فليأكُلْ منها ولا يَتَّخِذْ\nخُبْنَةً (١)». ويقال إنّ الخُبْنَ من المَزَادة ما كان دون المِسْمَع. فأمّا قولهم خَبَنْت الرّجل، مثلُ غبَنْته، فيجوز أن يكون من الإبدال، ويجوز أن يكون من أنّه إذا غَبنَه فقد اختبَنَ عنه من حَقِّه.",
+ "az": "[خبن] الخاء والباء والنون أُصَيْلٌ واحد يدلُّ على قَبْض ونقص. (Xar, ba və nun hərfləri tutmağa və əskilməyə dəlalət edən kiçik bir əsasdır). يقال خَبَنْت الشَّئَ، إذا قبَضْته. (Deyilir: «Xəbəntüş-şeyə» — onu tutduğun zaman). وخَبَنْت الثوبَ، إذا رفعتَ ذَلاذِلَه حتّى يتقلَّص بعد أن تَخِيطه وتكُفَّه. (Və «xəbəntus-səvbə» — tikdikdən və qırağını qatladıqdan sonra ətəklərini büzüşənə qədər qaldırdığın zaman). والخُبْنَةُ: ثِبَان الرّجُل (٤); وسمِّى بذلك لأنّه يُخبَن فيه الشّئ. («əl-Xubnə» — kişinin libasının sinə cibidir [4]; ona bu ad ona görə verilmişdir ki, orada şey yığılıb bükülür). تقول: رفَعَه فى خُبْنَتِه. (Deyirsən: «O bunu xubnəsində qaldırdı»). و فى الحديث: «فليأكُلْ منها ولا يَتَّخِذْ خُبْنَةً (١)». (Və hədisdə: «Ondan desin, lakin xubnə düzəltməsin [1]»). ويقال إنّ الخُبْنَ من المَزَادة ما كان دون المِسْمَع. (Və deyilir ki, su tuluğundakı «əl-xubn» qulaqcıqdan aşağı olan hissəsidir). فأمّا قولهم خَبَنْت الرّجل، مثلُ غبَنْته، فيجوز أن يكون من الإبدال، ويجوز أن يكون من أنّه إذا غَبنَه فقد اختبَنَ عنه من حَقِّه. (Kişini aldattın mənasında işlənən «xəbəntur-raculə» sözünə gəlincə, bu, «ğəbəntuhu» kəlməsinin əvəzlənməsi ola bilər, həmçinin o ola bilər ki, onu aldatdıqda haqqından kəsir [ixtəbənə]).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:18.900Z"
+}

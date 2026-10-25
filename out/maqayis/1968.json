@@ -1,0 +1,17 @@
+{
+ "i": 1968,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سيل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 122,
+  "page_to": 123
+ },
+ "ar": "السين والياء واللام أصلٌ واحد يدلُّ على جريانٍ وامتدادٍ.\nيقال سال الماء وغيرُه يسيل سَيْلا وسَيَلاناً. ومَسِيل الماء إذا جعلت الميم زائدة فمن هذا، وإذا جعلت الميم أصليّةً فمن بابٍ آخر، وقد ذكر.\nفأمَّا السِّيلان من السَّيف والسِّكِّين، فهى الحديدةُ التى تُدخَل فى النصاب.\nوسمعت علىّ بن إبراهيم القطّان يقول: سمعت علىَّ بن عبدِ العزيز يقول:\nسمعت أبا عُبيدٍ يقول: السِّيلان قد سمعتُه، ولم أسمَعْه من عالم.\nوأمّا سِيَةُ القَوس (١)، وهى طرفها، فيقال إنّ النسبة إِليها سِيَوىٌّ. واللّه أعلم.",
+ "az": "[سيل] (sil - axın). السين (sin) və الياء (ya), واللام (lam) axına və uzanmağa dəlalət edən tək bir əsldir. Deyilir: سال الماء وغيرُه (saləl-mau və ğayruhu) - su və başqası axdı, سَيْلا (səylən) və سَيَلاناً (səylənən) axdı. مَسِيل الماء (məsilül-mau) - suyun axarı sözündə əgər «mim» hərfi artıq (zəid) qəbul edilərsə, bu, elə bu qəbildəndir, yox əgər «mim» hərfi əsl (kök) hesab olunarsa, o zaman başqa fəsildəndir və bu artıq qeyd olunmuşdur. Qılıncın və bıçağın السِّيلان (əssilan) adlanan hissəsinə gəlincə, o, dəstəyə daxil edilən dəmirdir. Mən Əli ibn İbrahim əl-Qəttanın belə dediyini eşitdim: Əli ibn Əbdüləzizin belə dediyini eşitdim: Əbu Übeyidin belə dediyini eşitdim: «Əssilan sözünü eşitmişəm, lakin onu alimdən eşitməmişəm». Yay başlığının ucuna gəlincə, yəni سِيَةُ القَوس (siyətül-qavs) (١), onun nisbət forması سِيَوىٌّ (siyəviyyün) olur. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:50.268Z"
+}

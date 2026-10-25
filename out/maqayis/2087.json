@@ -1,0 +1,17 @@
+{
+ "i": 2087,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شفى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 199,
+  "page_to": 200
+ },
+ "ar": "الشين والفاء والحرف المعتل يدل على الإشراف على الشئ؛ يقال أشفى على الشئ إذا أشرفَ عليه. وسمِّى الشِّفاء شفاءً لغلَبته للمرض وإشفائه عليه. ويقال استشفَى فلانٌ، إذا طَلَبَ الشِّفاء. وشَفَى كلِّ شئ: حَرْفه.\nوهذا ممكنٌ أن يكون من هذا الباب، وممكنٌ أن يكون من الإبدال وتكون الفاءُ مبدلةً من ياء.\nويقال أعطيتك الشّئَ تستشفى به، ثم يقال أشْفَيْتك الشئَ، وهو الصحيح.\nويقال أشْفَى المريضُ على الموت، وما بَقى منه إلا شَفًى أى قليل. فأمَّا قول العجاج:\nأوفَيْتُه قَبْلَ شَفًى أو بِشَفَى (٣)\nقالوا: يريد إذا أشفت الشّمس على الغروب.\nوأما الشّفَة فقد قيل فيها إن الناقص منها واوٌ، يقال ثلاث شَفَوات. ويقال رجلٌ أشْفَى، إذا كان لا ينضمّ شفتاه، كالأرْوَق. وقال قوم: الشَّفَة حذفت منها الهاء، وتصغيرها شُفَيْهة. والمشافهة بالكلام: مواجهةٌ من فيك إلى فيه.\nورجل شُفاهِىٌّ: عظيم الشّفتين. والقولان محتملان، إلا أَنَّ الأول أجود لمقاربة القياس الذى ذكرناه، لأنَّ الشَّفَتينِ تُشفيانِ على الفم.\nومما شذَّ عن الباب قولهم: شَفَهنى فلانٌ عن كذا، أى شَغَلنى.",
+ "az": "[شفى] (şəfə) — Şin, fa və mötəbər hərf bir şeyə yuxarıdan baxmağa (müşrif olmağa) dəlalət edir; «أشفى على الشئ» (əşfə aləş-şəi) — bir şeyə yuxarıdan baxdı (və ya yaxınlaşdı) deyilir. «الشِّفاء» (əş-şifə) — xəstəliyə qalib gəldiyi və onun üzərinə ucaladığı (yaxınlaşdığı) üçün şəfa adlandırılmışdır. Deyilir: «استشفَى فلانٌ» (istəşfə fülänün) — filankəs şəfa dilədi. «Şəfi külli şey» (شفى كل شئ) — hər bir şeyin kənarı (həddi, tilidir). Bu, bu fəsildən olması mümkündür, həmçinin əvəzetmədən (ibdaldan) olub fa hərfinin ya hərfi ilə əvəzlənməsi də mümkündür. Deyilir: «أعطيتك الشّئَ تستشفى به» (ə‘təytügüş-şəyə təstəşfi bihi) — sənə şəfa tapmağın üçün bu şeyi verdim, sonra deyilir: «أشْفَيْتك الشئَ» (əşfəytügüş-şəyə) — və bu səhihdir. Deyilir: «أشْفَى المريضُ على الموت» (əşfəl-məridü aləl-mövti) — xəstə ölümə yaxınlaşdı və ondan yalnız «شَفًى» (şəfə) yəni az bir şey qaldı. Cəcajın bu sözünə gəldikdə: Günəş batmağa yaxınlaşanda demək istəmişlər. «الشَّفَة» (əş-şəfə) - dodağa gəldikdə, onun naqis olan hərfli sözlərindən olduğu, yəni vav olduğu deyilmişdir, üç «شَفَوات» (şəfəvat) deyilir. Deyilir: «رجلٌ أشْفَى» (rəcülün əşfə) — dodaqları bir-birinə qapanmıyan kişi, sanki arvəq (boynu uzun və ya dodaqları sallanan) kimidir. Bəzi qövmlər demişdir: «الشَّفَة» (əş-şəfə) sözündən həs hərfi düşmüşdür, kiçiltmə forması isə «شُفَيْهة» (şufeyhə) olar. Sözdə «المشافهة» (əl-muşafəhə) — ağzından ağzına qarşıdurmaqdır. «رجل شُفاهِىٌّ» (rəcülün şüfahiyn) — böyük dodaqlı kişi. Hər iki söz mümkündür, lakin birinci qiyasımıza daha yaxın olduğu üçün daha gözəldir, çünki iki dodaq ağız üzərinə sığınır (örtür). Bu fəsildən kənara çıxan sözləri: «شَفَهنى فلانٌ عن كذا» (şəfəhəni fülänün ən kəza) — yəni filankəs məni o işdən yayındırdı (məşğul etdi) demələridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:46.481Z"
+}

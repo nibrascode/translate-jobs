@@ -1,0 +1,17 @@
+{
+ "i": 950,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 108,
+  "page_to": 109
+ },
+ "ar": "الحاء والنون والثاء أصلٌ واحد، وهو الإثْم والحَرَج.\nيقال حَنِثَ فلانٌ فى كذا، أى أثِمَ. ومن ذلك قولهم: بلغ الغلام الحِنْثَ، أى بلغ مبلغاً جرَى عليه القلم بالطّاعة والمعصية، وأثبتت عليه ذنوبُه. ومن ذلك الحِنْث\nفى اليمين، وهو الخُلْف فيه. فهذا وجه الإثم. وأمّا قولهم فلان يتحنّث من كذا، فمعناه يتأثّم. والفرق بين أَثِمَ وتَأَثَّم، أن التأثُّم التنحِّى عن الإثم، كما يقال حَرج وتحرّج؛ فحَرِجَ وقع فى الحَرَج، وتَحَرَّج تنحّى عن الحَرج. وهذا فى كلماتٍ معلومةٍ قياسُها واحد.\nومن ذلك التحنّث وهو التعبّد. ومنه\nالحديث: «أنّ رسول اللّه ﵌ كان يأتِى غار حراء فيتحنَّث فيه الليالىَ ذوَاتِ العدد».",
+ "az": "[حنث] (Həm, nun və sə): Günah və sıxıntıya dəlalət edən tək bir əsasdır. «حَنِثَ فلانٌ فى كذا» (filankəs belə bir işdə hənif oldu/günaha batdı) – yəni günah qazandı. Onların «بلغ الغلام الحِنْثَ» (oğlan hincə çatdı) sözü də bundandır; yəni qələmin ona itaət və üsyanla yazıldığı, günahlarının üzərində təsbit olunduğu həddə çatdı. Anddakı «الحِنْث» (hinc) də bundandır ki, o da andı pozmaqdır. Bu, günah tərəfidir. Onların «فلان يتحنّث من كذا» (filankəs bundan təhənnüv edir) sözünə gəldikdə, mənası günahdan çəkinir deməkdir. «أثِمَ» (günahkar oldu) ilə «تَأَثَّم» (günahdan qorundu/çəkindi) arasındakı fərq odur ki, «تأثُّم» (təəssüm) günahdan uzaqlaşmaqdır; necə ki, «حَرِج» (həric oldu) və «تحرّج» (təhərrəc etdi) deyilir; «حَرِج» (həric oldu) – sıxıntıya, günaha düşdü, «تَحَرَّج» (təhərrəc etdi) isə sıxıntıdan uzaqlaşdı deməkdir. Bu, məlum kəlmələrdə tək bir qaydadır. Həmçinin «التحنّث» (təhənnüv) – ibadət etmək deməkdir. Hədisdə də buyurulmuşdur: «أنّ رسول اللّه صلى الله عليه وسلم كان يأتِى غار حراء فيتحنَّث فيه الليالىَ ذوَاتِ العدد» (Rəsulullah sallallahu əleyhi və səlləm Hira mağarasına gələr və orada bir neçə gecə təhənnüv edərdi – ibadət edərdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.646Z"
+}

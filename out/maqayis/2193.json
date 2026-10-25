@@ -1,0 +1,17 @@
+{
+ "i": 2193,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شحن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 251,
+  "page_to": 252
+ },
+ "ar": "الشين والحاء والنون أصلانِ متباينان، أحدُهما يدلُّ على المَلء، والآخر على البُعْد.\nفالأوّل قولهم: شَحَنْتُ السّفينةَ، إذا ملأتَها. ومن الباب أشحن فلان للبكاء، إذا تهيّأ له كأنّه اجتمع له (١).\nوأما الآخَر فالشَّحْن الطّرْد، يقال شحنَهم إذا طردَهم. ويقال للشّئِ الشديد الحموضة: إنّه ليَشْحَن الذِّبّانَ، أى يطردُها. ومن الباب الشّحْناء، وهى العداوة.\nوعدُوٌّ مشاحِنٌ، أى مُباعِد. والعداوةُ تَبَاعُدٌ.",
+ "az": "[شحن] Şin, hə və nun hərfləri iki fərqli kökdür; biri doluluğa, digəri isə uzaqlığa dəlalət edir. Birincisi onların bu sözüdür: «شَحَنْتُ السّفينةَ» (gəmini doldurdum), nə vaxt ki onu doldurursan. Bu fəsildəndir: «أشحن فلان للبكاء» (filankəs ağlamağa hazırlaşdı), sanki ağlamaq üçün özündə hər şeyi cəmləşdirdi (١). Digərinə gəldikdə isə, o, «الشَّحْن» (qovmaq) mənasındadır, «شحنَهم» (onları qovdu) deyilir. Çox turş olan şeyə: «إنّه ليَشْحَن الذِّبّانَ» (o, milçəkləri qovur) deyilir. Bu fəsildəndir: «الشّحْناء» — ədavət (düşmənçilik). Və «عدُوٌّ مشاحِنٌ» — uzaqlaşdıran düşmən. Düşmənçilik isə uzaqlaşmaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:46.218Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1736,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 13,
+  "page_to": 13
+ },
+ "ar": "الزاء والغين والميم أُصَيْلٌ يدلُّ على ترديد صوتٍ خفىّ. قالوا:\nتزغَّمَ الجملُ، إِذا ردَّدَ رُغاءَه فى خَفاءٍ ليس شديدا. ومنه التزَغم، وهو التَّغَضُّب، كأنه فى غَضبِه يردِّد صوتًا فى نفسه. وذكَر ناسٌ: تزغَّمَ الفصيلُ لأمِّه، إذا حنَّ حنينًا خفيًّا.",
+ "az": "[زغم] (zəğm): Zay, ğın və mim hərfləri gizli səsin təkrarlanmasına dəlalət edən kiçik bir kökdür. Dedilər:\n«تزغَّمَ الجملُ» – dəvə nəriltisini güclü olmayan şəkildə gizlicə təkrarladıqda deyilir. Buradan «التزغم» (təzəğğüm) gəlir ki, bu da qəzəblənmək deməkdir, sanki o, qəzəbindən daxilində səs təkrarlayır. Bəzi adamlar qeyd etmişlər: «تزغَّمَ الفصيلُ لأمِّه» – süd sağımından ayrılmış balə ana dəvə üçün gizli şəkildə inlədikdə deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1244,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دعث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 282,
+  "page_to": 282
+ },
+ "ar": "الدال والعين والثاء كلمةٌ واحدة (٤) وهى الدِّعْثُ * وهو الحقد.",
+ "az": "[دعث] «الدال والعين والثاء» (dal, ayn və sə) tək bir kəlmədir (٤) və o, الدِّعْثُ (diəs) – kin deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.370Z"
+}

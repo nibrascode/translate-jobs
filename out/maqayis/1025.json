@@ -1,0 +1,17 @@
+{
+ "i": 1025,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 151,
+  "page_to": 152
+ },
+ "ar": "الخاء والشين أصلٌ واحد، وهو الوُلوج والدُّخول. يقال:\nخَشَّ الرّجُلُ فى الشّرّ: دخل. ورجل [مِخَشٌّ: ماضٍ (٤)] جَرِئٌ على اللَّيل.\nوالخَشَّاء: موضِعُ الدَّبْرِ؛ لأنّه ينخشُّ فيه. قال ذو الإصبع:\nإمَّا تَرَى نَبْلَهُ فخَشْرَمُ خَشَّ … اءَ إذا مُسّ دَبْرُه لَكَعا (١)\nومن الباب الخَشْخاش: الجماعة؛ لأنَّهم قومٌ يجتمعون ويتداخَلون. قال الكميت:\n* وهَيْضَلُها الخشخاشُ إذْ نزلوا (٢) *\nوالخشُّ: أن بجعل الخِشاش فى أنْف البعير. يقال خَشَشْتُه فهو مخشوشٌ، ويكون مِنْ خَشَب. وخَشاش الأرض (٣): دوابُّها. فأمّا الرجُل الخَشاشُ الصغيرُ الرأسِ فيقال بالفتح والكسر. وهو القياس، لأنّه ينْخَشُّ فى الأمر بحقه.\nقال طرفة:\nأنا الرَّجُلُ الضّربُ الذى تعرفوننى … خِشَاش كرأسِ الحَيّة المُتَوَقّدِ (٤)\nومن الباب، وهو فى الظاهر يبعُد من القياس، الخُشَشَاوانِ: عظمانِ نانيان خلْفَ الأذُنين. ويقال للواحد خُشَّاء (٥) أيضاً. ولم يجئُ فى كلام العرب فُعْلاء مضمومه الفاء ساكنة العين إلاّ هذه وقُوباء، والأصل فيها التحريك.",
+ "az": "«خش» (xa-şin): Xa və şin tək bir əslidir, o da daxil olmaq və girməkdir. Deyilir:\nخَشَّ الرّجُلُ فى الشّرّ (xaşşər-raculu fis-şərri) — kişi şərə daxil oldu. Və kişi [مِخَشٌّ: ماضٍ (٤)] (mixəşşun) — gecəyə qarşı cəsur, irəriləyəndir.\n\nVə الخَشَّاء (əl-xaşşə) — arı yuvasının yeridir; çünki ora daxil olunur. Züəl-İsbə əmr etmişdir:\nإمَّا تَرَى نَبْلَهُ فخَشْرَمُ خَشَّ … اءَ إذا مُسّ دَبْرُه لَكَعا (١)\n(Əgər onun oxlarını görsən, arı yuvasının xəşrəmi — arısı tərpənəndə dərhal qaçandır.)\n\nBu fəsildəndir الخَشْخاش (əl-xaşxaş) — camaat, dəstədir; çünki onlar toplaşan və bir-birinə qarışan qövmdür. Kumeyt demişdir:\n* وهَيْضَلُها الخشخاشُ إذْ نزلوا (٢)\n(Onların hay-küyü düşdükləri zaman xəşxaşdır.)\n\nVə الخَشُّ (əl-xaşş) — dəvənin burnuna xışaş (halqa) taxmaqdır. Deyirlər: خَشَشْتُه فهو مخشوشٌ (xaşəştuhu fəhuvə məxşuşun), o, taxtadan da olur. Və خشاش الأرض (xaşasul-ard) (٣) — yer üzünün cücüləri, həşəratıdır. Kiçik başı olan خَشاش (xaşas) kişiyə gəldikdə, həm fəthə, həm də kəsrə ilə denilir. Bu, qiyasdır, çünki o, öz haqqı ilə işin içərisinə daxil olur.\n\nTərfə demişdir:\nأنا الرَّجُلُ الضّربُ الذى تعرفوننى … خِشَاش كرأسِ الحَيّة المُتَوَقّدِ (٤)\n(Mən tanıdığınız o təcrübəli kişiyəm, ilan başı kimi alovlanan çevik biriyəm.)\n\nVə bu fəsildəndir — zahirən qiyasdan uzaq göründüyü halda — الخُشَشَاوانِ (əl-xu-şəşavani) — qulaqların arxasındakı iki sümükdür. Təkliyinə خُشَّاء (xu-şə) də deyilir. Ərəb dilində fəthəsi mədli, fəthəsi zəmməli, əsli sukun olan فُعْلاء (fu-lə) gəlməmişdir, yalnız bu söz və قُوباء (quba) sözü istisnadır, bunların da əslində hərəkə var idi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:06:36.723Z"
+}

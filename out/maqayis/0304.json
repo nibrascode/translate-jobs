@@ -1,0 +1,17 @@
+{
+ "i": 304,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 295,
+  "page_to": 296
+ },
+ "ar": "الباء واللام والتاءِ أصلٌ واحد، وهو الانقطاع. وكأنَّه من المقلوب عن بَتَل. يقول العرب: تكَلَّم حَتَّى بَلِتَ (٦). قال الشَّنفرَى:\n* عَلَى أَمِّها وإنْ تُخَاطِبْكَ تَبْلَتِ (٧) *\nفأمَّا قولهم: مَهْرٌ مَضمونٌ مبلَّت، فهو فى هذا * أيضاً؛ لأنّه مقطوعٌ قد فُرِغ منه. على أنَّ فى الكلمة شكًّا (١). وأنشَدُوا:\n* وما زُوِّجَتْ إِلاَّ بِمَهْرٍ مُبَلَّتِ * (٢)\nويقال إنَّ البَليتَ كَلَأَ عامَين، وهو فى هذا؛ لأنه يتقطّع ويتكَسَّر. قال:\nرَعَيْنَ بَليتاً ساعةً ثم إنّنا … قطَعْنا عليهنَّ الفِجاج الطوامِسَا (٣)",
+ "az": "[بلت] (bələt): Ba, lam və ta hərfləri tək bir əsərə malikdir, o da kəsilməkdir. Sanki bu, بَتَلَ (bətələ) sözünün tərs çevrilmiş formasıdır. Ərəblər تَكَلَّمْ حَتَّى بَلِتَ (təkəlləm hətta bəlitə) – kəsilib qurtarana qədər danış, deyirlər. Şənfərə demişdir:\n* عَلَى أَمِّهَا وَإِنْ تُخَاطِبْكَ تَبْلَتِ *\n(Anasının üzərindədir, əgər sənə müraciət etsə, sözünü kəsər)\n\nQaldı ki, onların مَهْرٌ مَضْمُونٌ مُبَلَّتٌ (məhrun mədmunun mübəllətün) sözünə, bu da həmin kökə aiddir; çünki o, kəsilmiş və qurtarılmış məhrdur. Hərçənd ki, bu kəlmədə müəyyən bir şübhə də var (١). Onlar şeir də söyləmişlər:\n* وَمَا زُوِّجَتْ إِلَّا بِمَهْرٍ مُبَلَّتِ *\n(O, yalnız kəsilib qurtarılmış məhrla evləndirildi)\n\nHəmçinin deyirlər ki, الْبَلِيتُ (əl-bəlit) – iki illik otlaqdır, bu da həmin kökəndəndir; çünki o qopur və sınaraq parçalanır. O demişdir:\nرَعَيْنَ بَلِيتًا سَاعَةً ثُمَّ إِنَّنَا ... قَطَعْنَا عَلَيْهِنَّ الفِجَاجَ الطَّوَامِسَا\n(Onlar bir müddət bəlit otunu otladılar, sonra isə biz onların üstündən izi itmiş dağ keçidlərini kəsib keçdik)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:13.980Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1021,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 149,
+  "page_to": 149
+ },
+ "ar": "الخاء والدال أصلٌ واحدٌ، وهو تأسُّلُ الشَّئِ وامتدادُه إلى السُّفل. فمن ذلك الخَدّ خدّ الإنسان، وبه سُمِّيت المِخَدّة. والخَدُّ: الشّقّ.\nوالأخاديد: الشَّقوق فى الأرض. والتخدُّد: تخدُّد اللَّحم من الهُزال. وامرأة متخدِّدة: مهزولة. والخِدَادُ: مِيسمٌ من المياسِم، ولعلَّه يكون فى الخدّ؛ يقال منه بعيرٌ مخدود.",
+ "az": "«خد» (xa-dal): Xa və dal tək bir əslidir, o da şeyin kök salması və aşağıya doğru uzanmasıdır. Bunlardan biri insanın yanağı olan الخَدّ (əl-xədd) sözüdür, yastıq olan المِخَدّة (əl-mixəddə) də bundan adlanmışdır. Və الخَدُّ (əl-xədd) — yarıqdır.\n\nالأخاديد (əl-axadid) — yerin üzərindəki yarıqlardır. التخدُّد (ət-təxaddud) — arıqlıqdan ətin büzüşməsi, sallanmasıdır. Qadın متخدِّدة (mütəxaddidə) — arıq, çərsimiş deməkdir. الخِدَادُ (əl-xidad) — nişanlanma işarələrindən biridir, ola bilsin ki, yanaqda olur; ondan deyilir: بعيرٌ مخدود (bəirun məhdud) — yanağında nişanı olan dəvə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:06:36.723Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2408,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 371,
+  "page_to": 371
+ },
+ "ar": "الضاد والميم والراء أصلان صحيحان: أحدهما يدلُّ على دِقّةٍ فى الشئ، والآخر يدلُّ على غَيبةٍ وتستُّر.\nفالأوّل قولهم: ضَمَرَ الفرس وغيرُه ضَموراً، وذلك من خِفّة اللَّحم، وقد يكون من الهُزَال. ويقال للموضع الذى تُضمَّر فيه الخيل: المِضْمار. ورجل ضَمْرٌ:\nخفيف الجسم. واللؤلؤ المضْطِر: الذى فى وسطه بعضُ الانضمام والانضمار (١).\nوالآخر الضِّمَار، وهو المال الغائب الذى لا يُرجَى. وكلُّ شئٍ غابَ عنك فلا تكونُ منه عَلَى ثقةٍ فهو ضِمارٌ. [قال الشاعر (٢)]:\nوأَنْضَاءٍ أُنِخْنَ إلى سعيد … طُروقا ثم عَجَّلْنَ ابتكارَا\nحمِدْنَ مَزارَهُ وأصَبْنَ منه … عطاءً لم يكن عِدَةً ضِمارا\nومن هذا الباب: أضْمَرتُ (٣) فى ضميرِى شيئاً؛ لأنّه يُغيِّبه فى قلبه وصدره.",
+ "az": "[ضمر] (Dəmər): Zad, mim və ra hərfləri iki səhih əsasdır: biri bir şeydə incəliyə, digəri isə qeyb olmağa və gizlənməyə dəlalət edir. Birincisi onların bu sözüdür: ضَمَرَ الفرس وغيرُه ضَموراً (at və başqası arıqladı, incəldi) — bu, ətin yüngülləşməsindən irəli gəlir və bəzən arıqlıqdan da ola bilər. Atlarınarıqladıldığı (formaya salındığı) yerə əl-midmar (المضمار) deyilir. ورجل ضَمْرٌ (və raculun damrun): bədəni yüngül olan kişi. Əl-lü'lü' əl-mudtar (اللؤلؤ المضطر): mərkəzində müəyyən dərəcədə yığılma və incəlmə olan mirvaridir. Digəri isə əd-dimardır (الضِّمَار) — bu, ümid olunmayan qeyb olmuş (itmiş) maldır. Səndən gizlənən və əmin olmadığın hər bir şey dimardır. [Şair demişdir (٢)]: وأَنْضَاءٍ أُنِخْنَ إلى سعيد … طُروقا ثم عَجَّلْنَ ابتكارَا / حمِدْنَ مَزارَهُ وأصَبْنَ منه … عطاءً لم يكن عِدَةً ضِمارا (Və arıqlamış dəvələr Səidin yanına çökdürülüb gecə vaxtı, sonra səhər tez yola düşməyə tələsdilər… Onun ziyarətini təriflədilər və ondan elə bir bəxşiş əldə etdilər ki, o, qeybdə olan [verilməsi şübhəli] bir vəd deyildi). Bu qapıdandır: أضْمَرتُ فى ضميرِى شيئاً (ürəyimdə bir şey gizlədim) — çünki o, bunu qəlbində və sinəsində gizlədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:55.136Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1900,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سلج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 93,
+  "page_to": 94
+ },
+ "ar": "السين واللام والجيم أصلٌ يدل على الابتلاع. يقال سلج\nالشئ يسلَجُه، إذا ابتلعه سَلْجا وسَلَجاناً. وفى كلامهم: «الأخْذ سَلَجَانٌ والقَضَاءَ لِيَّانٌ». ومن الباب: فلان يتسلَّج الشراب، أى يُلِحُّ فى شُرْبه.",
+ "az": "[سلج] (S-L-J). Sin, lam və cim udmağa dəlalət edən tək bir kökdür. «سلج الشئ يسلَجُه» (Bir şeyi uddu) deyilir, bu, onu udmaq və udqunmaqdır. Onların kəlamında: «الأخْذ سَلَجَانٌ والقَضَاءَ لِيَّانٌ» (Götürmək udmaq (asan), qaytarmaq isə yubatmaqdır) deyilir. Bu qapıdan: «فلان يتسلَّج الشراب» (Filankəs içkini udur), yəni onu içməkdə israr edir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:46:05.008Z"
+}

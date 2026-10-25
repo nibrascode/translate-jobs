@@ -1,0 +1,17 @@
+{
+ "i": 1327,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دوش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 313,
+  "page_to": 313
+ },
+ "ar": "الدال والواو والشين كلمةٌ واحدةٌ لا يفرَّع منها. يقال دَوِشَتْ عينه تَدْوَش دَوَشاً، إِذا فَسَدَت مِنْ داءٍ. ورجل أَدْوَشُ بَيّنُ الدَّوَش.",
+ "az": "[دوش] Dal, vav və şin – özündən budaqlanmayan tək bir kəlmədir. Deyilir: «دَوِشَتْ عينه تَدْوَش دَوَشاً» – xəstəlikdən zədələndiyi zaman. Kişi də «أَدْوَشُ» (çəp və ya xəstəgözlü) olar, bunun da zəifliyi açıq-aydındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:17.562Z"
+}

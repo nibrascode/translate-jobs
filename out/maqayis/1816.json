@@ -1,0 +1,17 @@
+{
+ "i": 1816,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زبر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 44,
+  "page_to": 45
+ },
+ "ar": "الزاء والباء والراء أصلان: أحدهما يدلُّ على إِحكام الشئ وتوثيقه، والآخَر يدلُّ على قراءةٍ وكتابةٍ وما أشبه ذلك.\nفالأوّل قولهم زَبَرْت البِئر، إذا طويتَها بالحجارة. ومنه زُبْرة الحديد، وهى القِطعة منه، والجمع زُبَر. ومن الباب الزُّبْرة: الصّدر. وسُمّى بذلك لأنّه كالبئر المزبورة، أى المطويّة بالحجارة. ويقال إنّ الزُّبْرة من الأسد مُجتمع وَبَرِه فى مِرفقيْه وصدره. وأسد مَزْبَرانىٌّ، أى ضخم الزُّبْرة.\nومن الباب الزَّبِير، وهى الدّاهية. ومن الباب: أخَذَ الشّئَ بزَوْبَرِه، أى كُلِّه. ومنه قول ابن أحمَر (١) فى قصيدته:\nعُدَّتْ علىَّ بِزَوْبَرَا (٢)\nفيقال إنّ معناه نُسِبتْ إلىَّ بكمالها. ومن الباب: ما لِفلَانٍ زَبْرٌ، أى ما له عقلٌ ولا تماسُك. ومنه ازبأَرَّ الشّعر، إذا انتفَش تقوى (١).\nوالأصل الآخر: زَبَرْتُ الكتابَ، إذا كتبتَه. ومنه الزَّبور. وربَّما قالوا: زبَرتَه، إذا قرأتَه. ويقولون فى الكلمة: «أنا أعرف تَزْبِرَتِى (٢)» أى كتابتى.",
+ "az": "[زبر] (zə-ba-ra): iki əsldir: Biri bir şeyin möhkəmləndirilməsinə və bərkidilməsinə dəlalət edir, diğəri isə oxumağa, yazmağa və buna bənzər şeylərə dəlalət edir. \nBirincisi, onların «زَبَرْت البِئر» (quyunu daşla hörə bildin) sözüdür, yəni onu daşlarla hörsən. Buradan «زُبْرة الحديد» (dəmir parçası) gəlir ki, bu, onun parçasıdır, cəmi «زُبَر» (zübar) gəlir. Bu babdandır: «الزُّبْرة» (əz-zübrə) — sinə. Ona belə ad verilmişdir, çünki o, hörülmüş quyu kimidir, yəni daşla hörülmüşdür. Deyilir ki, şirin «زُبْرة» (zübrəsi) — onun dirsəklərində və sinəsində toplanmış yundur. «أسد مَزْبَرانىٌّ» (güclü yallı şir) — yəni zübrəsi böyük olan. \nBu babdandır: «الزَّبِير» (əz-zəbir) — bəla, fəlakət. Bu babdandır: «أَخَذَ الشّئَ بزَوْبَرِه» (şeyi bütövlükdə aldı) — yəni hamısını. İbn Əhmərin (١) qəsidəsindəki bu söz də bundandır: \nعُدَّتْ علىَّ بِزَوْبَرَا (٢)\nDeyilir ki, bunun mənası o deməkdir ki, o mənə tam şəkildə nisbət olundu. Bu babdandır: «ما لِفلَانٍ زَبْرٌ» (filankəsin ağlı yoxdur) — yəni onun əqli və təmkinliyi yoxdur. Bundandır: «ازبأَرَّ الشّعر» (tük qabarlaşdı) — qabarıb gücləndiyi zaman (١). \nDigər əsl: «زَبَرْتُ الكتابَ» (kitabı yazdın) — onu yazdığın zaman. «الزَّبور» (əz-zəbur) bundandır. Bəzən «زبَرتَه» (onu oxudun) deyirlər, yəni onu oxuduğun zaman. Onlar bir söz barəsində deyirlər: «أنا أعرف تَزْبِرَتِى (٢)» (mən öz yazımı bilirəm) — yəni öz xəttimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 314,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 301,
+  "page_to": 302
+ },
+ "ar": "الباء واللام والغين أصلٌ واحد وهو الوُصول إلى الشئ.\nتقول بَلَغْتُ المكانَ، إذا وصَلْتَ إِليه. وقد تُسَمَّى المُشَارَفَةُ بُلوغاً بحقِّ المقارَبة.\nقال اللّه تعالى: ﴿فَإِذا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ﴾. ومن هذا الباب\nقولهم هو أحْمَقُ بِلْغٌ وَبَلْغ، أى إنّه مع حماقته يبلغ ما يريده. والبُلْغَة ما يُتَبَلَّغُ به من عَيشٍ، كأنّه يُرادُ أنَّه يبلُغُ رُتْبَةَ المُكْثِرِ إذا رَضِىَ وقَنَع، وكذلك البَلَاغة التى يُمْدَحُ بها الفَصِيحُ اللِّسان، لأنّه يبلُغُ بها ما يريده، ولى فى هذا بلاغٌ أى كِفاية. وقولهم بلَّغَ الفارسُ، يُرَادُ به أنّه يمدّ يدَه بعِنانِ فرَسِهِ، لِيَزِيد فى عَدْوِهِ.\nوقولهم تبلَّغَتِ القِلَّة بفلانٍ، إذا اشتدَّتْ، فلأنه تناهِيها به، وبلوغها الغاية.",
+ "az": "«بلغ» (bələğ): الباء واللام والغين — tək bir əsasdır, o da bir şeyə yetişməkdir. Deyirsən: «bələtu-l-məkənə» — yerə çatdın. Bəzən yaxınlaşma haqqına görə baxmaq da «buluq» (çatmaq) adlanır. Uca Allah buyurmuşdur: mənaca tərcümə: «Əgər onlar öz əcəllərinə (iddət müddətlərinə) çatsalar, onları gözəl surətdə saxlayın». Bu fəsildəndir onların «o, axmaq bilğ və bəlgdir» sözü, yəni o, axmaqlığı ilə bərabər istədiyinə nail olur. «Əl-bulğəh» (البُلْغَة) — yaşayış üçün kifayət edən şeydir, guya bununla qane olub razı qaldıqda çox-çox malı olanların dərəcəsinə çatması qəsd olunur. Fəsih danışanın tərifləndiyi «bəlağət» də həmçinin, çünki o, bununla istədiyinə nail olur. Mənim üçün bunda bəlağat var, yəni kafilik. Atçının atın cilovunu dartması mənasında «bəlləğal-farisu» sözü işlədilir, bununla onun qaçışını artırmaq üçün əlini atın cilovuna uzatması qəsd olunur. «Təbəlləğəti-l-qillətu bi-fulanin» — azlıq filankəslə çətinləşdikdə, bu, onunla həddə çatdığı və son məqsədə yetişdiyi üçündür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:37.148Z"
+}

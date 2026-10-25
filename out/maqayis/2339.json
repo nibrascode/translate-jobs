@@ -1,0 +1,17 @@
+{
+ "i": 2339,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صتع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 332,
+  "page_to": 333
+ },
+ "ar": "الصاد والتاء والعين كلمتان: إحداهما مُختلفٌ فى تأويلها، والأخرى تردُّدٌ فى الشَّئ.\nقال اُبن دريد: «الصَّتَع، أصل بناء الصُّنْتع (٥)». ثم اختلف قولُه وقولُ الخليل: الصَّتَع: الشَّابّ الغليظ. وأنشد:\nوما وِصال الصَّتَع القُمدِّ (١)\nوقال ابن دريد: الصُّنْتع الظَّليم الصّغير الرأس.\nوالكلمة الأخرى: التَّصَتُّع: التردّد فى الأمر مجيئاً وذَهاباً.",
+ "az": "[صتع] «الصاد» (sad), «Tə» (ta) və «العين» (eyn) iki kəlimədir: Biri yozumunda ixtilaf edilmişdir, digəri isə bir şeydə tərəddüd etməkdir. İbn Dürid demişdir: «الصَّتَع» (əs-sətəc), «الصُّنْتع» (əs-suntəc) binasının əslidir». Sonra onun və Xəlilin sözü fərqləndi: «الصَّتَع» (əs-sətəc) — yoğun gənc. Və bu beyti oxudu: وما وِصال الصَّتَع القُمدِّ — (Nə yoğun və hündür boylu gəncin vüsalı...). İbn Dürid demişdir: «الصُّنْتع» (əs-suntəc) — başı kiçik olan dəvəquşudur. Digər kəlimə: «التَّصَتُّع» (ət-təsəttu') — bir işdə gedib-gəlməklə tərəddüd etməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

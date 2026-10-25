@@ -1,0 +1,17 @@
+{
+ "i": 561,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثبت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 399,
+  "page_to": 399
+ },
+ "ar": "الثاء والباء والتاء كلمةٌ واحدة، وهى دَوامُ الشئ. يقال:\nثَبَتَ ثباتاً وثُبُوتاً. ورجل ثَبْتٌ وثبيت. قال طَرَفَةُ فى الثَّبيت:\nفالهَبيت لا فؤادَ له … والثّبيت ثبته فَهَمُه (٤)",
+ "az": "[ثبت]\nالثاء والباء والتاء كلمةٌ واحدة، وهى دَوامُ الشئ. يقال: (Sə, ba və ta hərfləri tək bir kəlmədir, o da bir şeyin davamlı olmasıdır. Deyilər):\nثَبَتَ ثباتاً وثُبُوتاً. ورجل ثَبْتٌ وثبيت. قال طَرَفَةُ فى الثَّبيت: (O, sabit oldu, sabit olmaqla – səbatan və sübutən. Və kişi səbt və səbitdir. Tərəfə əs-səbit haqqında demişdir):\nفالهَبيت لا فؤادَ له … والثّبيت ثبته فَهَمُه (٤)\n(Qəlbi olmayan əl-həbit isə... əs-səbitin səbiti isə onun anlayışıdır)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:42:41.763Z"
+}

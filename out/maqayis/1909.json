@@ -1,0 +1,17 @@
+{
+ "i": 1909,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سلك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 97,
+  "page_to": 97
+ },
+ "ar": "السين واللام والكاف أصلٌ يدل على نفوذ شئٍ فى شئ.\nيقال سلكت الطّريقَ أسلُكه. وسَلكت الشئ فى الشئ: أنفذْته. والطَّعْنَة السُّلْكَى، إذا طعنَه تِلقاءَ وجهِه. والمسلَكَة: طُرَّةٌ تُشَقُّ من ناحية الثوب (٢).\nوإنَّما سمّيت بذلك لامتدادها. وهى كالسِّكَك.\nومما شذَّ عن الباب السُّلَكَة: الأنثى من ولد الحَجَل، والذكر سُلَك، * وجمعه سِلْكانٌ. واللّه أعلم.",
+ "az": "[سلك] (sin, lam və kaf) — bir şeyin başqa bir şeyin içərisinə nüfuz etməsinə dəlalət edən bir əsasdır. «سلكت الطّريقَ أسلُكه» (Yolu keçdim, keçirəm) deyilir. «سَلكت الشئ فى الشئ» (Bir şeyi digər şeyin içərisinə daxil etdim, nüfuz etdirdim) deməkdir. «الطَّعْنَة السُّلْكَى» — bir kəsi düz qarşısından sancıldığı vaxt (deyilən zərbə). «المسلَكَة» — paltarın bir tərəfindən kəsilən zolaqdır (٢). O, yalnız uzunsovluğuna görə belə adlandırılmışdır. O, «السِّكَك» (küçələr) kimidir. Bu qapıdan (qaydadan) istisna olan «السُّلَكَة» — kəklik balasının dixisidir, erkəyi isə «سُلَك» adlanır, cəmi isə «سِلْكانٌ» gəlir. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.158Z"
+}

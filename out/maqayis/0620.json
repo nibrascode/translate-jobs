@@ -1,0 +1,17 @@
+{
+ "i": 620,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 442,
+  "page_to": 442
+ },
+ "ar": "الجيم والراء والسين أصلٌ واحد، وهو من الصوت، وما بعد ذلك فمحمول عليه.\nقالوا: الجَرْس الصَّوت الخفىّ، يقال ما سمعت له جرسا، وسمِعتُ جَرْسَ الطّير. إِذا سمعتَ صوتَ مناقيرها على شئٍ (١) تأكله. وقد أحْرَسَ الطّائر.\nومما حُمِل على هذا قولهم للنَّحل جوارس، بمعنى أواكِل؛ وذلك أنّ لها عند ذلك أدنى شئٍ كأنه صوت. قال أبو ذؤيبٍ يذكر نَحْلا:\nيَظَلُّ على الثَّمراءِ منها جَوَارسٌ … مَرَاضيعُ صُهْبُ الرّيش زُغبٌ رِقابُها (٢)\nوالجَرَس: الذى يعلَّق على الجِمال. و\nفى الحديث: «لا تصحبُ الملائكةُ رُفْقَةً فيها جَرَسٌ». ويقال جَرَسْتُ بالكلام أى تكلّمتُ به. وأجْرَسَ الحَلْىُ:\nصوَّت. قال:\nتَسْمَعُ لِلحَلْيِ إذا ما وَسْوَسَا … وارتجَّ فى أَجْيَادها وأجْرَسا (٣)\nومما شذَّ عن هذا الأصل الرجل المجرّس (٤) وهو المجرّب. ومضى جَرْسٌ من الليل، أى طائفة.",
+ "az": "[جرس] (Cim, راء və سين): Səs mənasından ibarət olan tək bir əsasdır, bundan sonrakılar da buna şamil edilir. Dedilər: «الجَرْس» (cars) – xəfif səsdir, deyilir: «ما سمعت له جرسا» (onun heç bir səsini eşitmədim), və «سمِعتُ جَرْسَ الطّير» (quşun səsini eşitdim) – nə vaxt ki, onların didiklənən şey üzərində dimdiklərinin səsini eşitsən. «أحْرَسَ الطّائر» (quş səs çıxartdı). Buna şamil edilənlərdən biri də arılara «جوارس» (cəvaris) – yəni yeyənlər deyilməsidir; çünki onların o zaman çıxartdıqları səsimsi zəif bir şey vardır. Əbu Züəyb arılardan bəhs edərək demişdir: «Onlardan giləmeyvə üzərində xırıltılı səslər çıxaran acgözlər qalar, lələkləri qırmızı, boyunları tücsüz körpələr (2)». «الجَرَس» (cərəs) – dəvələrə asılan zınqırovdur. Hədisdə: «لا تصحبُ الملائكةُ رُفْقَةً فيها جَرَسٌ» (Mələklər içində zınqırov olan dəstə ilə yoldaşlıq etməzlər). Deyilir: «جَرَسْتُ بالكلام» (kəlamla danışdım, yəni söylədim). «أجْرَسَ الحَلْىُ» (bəzək əşyası səs çıxartdı). Şair demişdir: «Eşidərsən bəzir əşyası pıçıldayanda... boyunlarda dalğalanıb səs çıxaranda (3)». Bu əsasdan şaz çıxan şey «الرجل المجرّس» (təcrübəli kişi) – yəni təcrübə görmüş kəsdir. «ومضى جَرْسٌ من الليل» (Gecənin bir hissəsi ötüb keçdi) – yəni bir qismi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:27.644Z"
+}

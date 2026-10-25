@@ -1,0 +1,17 @@
+{
+ "i": 753,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جذمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 505,
+  "page_to": 506
+ },
+ "ar": "فمن المنحوت قولهم للباقى من أصل السَّعَفة اذا قُطِعت (جُذمُور). قال:\nبَنَانَتَيْنِ وجُذْموراً أُقِيمُ بها … صَدْرَ القناةِ إذا ما آنَسُوا فَزَعا (١)\nوذلك من كلمتين: إحداهما الجِذْم وهو الأصل، والأخرى الجِذْر وهو الأصل.\nوقد مرّ تفسيرهما. وهذه الكلمة من أدَلِّ الدليل على صحّة مذهبنا فى هذا الباب.\nوباللّه التوفيق.",
+ "az": "«جذمر» — İxtisar olunmuş (tərkib edilmiş) sözlərdəndir: budaq kəsildikdən sonra xurma budağının qalan əsrinə (cövhərinə) «جُذْمور» (cudmur) deyirlər. Şair demişdir: \nبَنَانَتَيْنِ وجُذْموراً أُقِيمُ بها … صَدْرَ القناةِ إذا ما آنَسُوا فَزəعاً (١) \n(Barmaq ucları və cüdmurla mən nizənin sinəsini düzəldirəm, onlar qorxu hiss etdikləri zaman.) \nBu, iki kəlmədən ibarətdir: biri əsil mənasını verən «الْجِذْم» (cizm), digəri də əsil mənasını verən «الْجِذْر» (cizr) sözüdür. \nBunların izahı artıq keçdi. Bu kəlmə bizim bu qapıdakı (elmdəki) məzhəbimizin doğruluğuna ən parlaq dəlillərdəndir. \nUğur Allahdandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.135Z"
+}

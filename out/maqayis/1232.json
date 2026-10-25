@@ -1,0 +1,17 @@
+{
+ "i": 1232,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 276,
+  "page_to": 276
+ },
+ "ar": "الدال والراء والحاء أُصَيلٌ أيضاً. يقولون للرجل القصير:\nدِرْحايَة، ويكون مع ذلك ضَخْماً. قال:\n* عَكَوَّكاً إذا مَشَى دِرحايَهْ (١) *\nواللّه أعلم.\n* باب الدال والسين وما يثلثهما فى الثلاثى",
+ "az": "[درح] (Dərh): Dal, ra və ha hərflərindən ibarət kiçik bir kökdür. Qısa boylu kişiyə دِرْحايَة (dirhayə) deyirlər, o həm də iri bədənli olur. Şair demişdir:\n* عَكَوَّكاً إذا مَشَى دِرحايَهْ (١) *\n(Yeriyərkən iri bədənli və qısa boylu olan).\nVə Allah daha yaxşı bilir.\n* Dal və sin hərfləri fəsli və üç hərfli olanlarda onların üçüncü hərfi ilə bağlı olanlar",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:45.024Z"
+}

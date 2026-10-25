@@ -1,0 +1,17 @@
+{
+ "i": 566,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثتن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "الثاء والتاء والنون ليس أصلا. يقولون: ثَتِن اللحم: أنْتَنَ، وثَتِنَتْ لِثَتُه: استرخَتْ وأَنْتَنت. قال:\n* ولِثَةً قد ثتِنَتْ مُشَخَمَّهْ (١) *\nوإنما قلنا ليس أصلاً لأنهم يقولون مرةً ثَتِنَتْ، ومرّةً ثَنِتَتْ.",
+ "az": "«ثتن»\nSə-ث, ta-t və nun-n əsas deyil. Deyirlər: «ثَتِنَ اللَّحمُ» (sətinə əl-ləhm) – ət iyləndi, «ثَتِنَت لِثَتُه» (sətinət lisətuhu) – diş əti boşaldı və iyləndi. Şair demişdir:\n* ولِثَةً قد ثتِنَتْ مُشَخَمَّهْ (١) *\n(Və iylənmiş, qaralmış diş əti)\nBiz bunun əsas olmadığını ona görə dedik ki, onlar gah «ثَتِنَتْ» (sətinət), gah da «ثَنِتَتْ» (sənitət) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:43:21.035Z"
+}

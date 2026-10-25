@@ -1,0 +1,17 @@
+{
+ "i": 1451,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 381,
+  "page_to": 381
+ },
+ "ar": "الراء والهمزة أصلٌ يدلُّ على اضطرابْ، يقال رأْرَأَت العينُ: إذا تحرَّكتْ من ضَعْفها. ورأْرأَت المرأةُ بعينها، إِذا بَرَّقَت. ورأْرأَ السّرابُ: جاء وذَهَب ولمح. وقالوا: رأْرَأْتُ بالغَنَم، إذا دَعَوْتَها. فأمّا الرّاءة فشجرَة، والجمع راءٌ.",
+ "az": "[رأ] \nالراء والهمزة (ra və həmzə) narahatlığa dəlalət edən bir əsas mənadır. Deyilir: رأْرَأَت العينُ (rə`rəəti əl-aynü) — göz zəifliyindən hərəkət etdiyi zaman. Və رأْرَأَت المرأةُ بعينها (rə`rəəti əl-mər'ətu bi-ayniha) — qadın gözünü bərqldirdikdə (parıldatdıqda). Və رأْرَأَ السّرابُ (rə`rəə əs-sərabu) — səra gəlib-getdi və parıldadı. Dedilər: رأْرَأْتُ بالغَنَم (rə`rə'tü bil-ğənəm) — qoyunları çağırdığınız zaman. الرّاءة (ər-raəh) ağacdır, cəmi isə راءٌ (raun) olur.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:28:01.920Z"
+}

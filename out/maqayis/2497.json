@@ -1,0 +1,17 @@
+{
+ "i": 2497,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 415,
+  "page_to": 415
+ },
+ "ar": "الطاء والفاء والنون ليس بشئ. على أنهم يقولون: الطُّفَانِيَة نعتُ سَوءٍ فى الرّجل والمرأة. واللّه أعلم بالصَّواب.",
+ "az": "[طفن] الطاء (ta), الفاء (fa) və النون (nun) bir şey deyildir. Baxmayaraq ki, onlar deyirlər: الطُّفَانِيَة (ət-tufaniyə) kişi və qadında pis bir xüsusiyyətdir. Doğrusunu Allah bilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:09:04.543Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1778,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 28,
+  "page_to": 29
+ },
+ "ar": "الزاء والنون والقاف أصل يدلُّ على ضيقٍ أو تضْيِيق. يقولون زَنَقْت الفرسَ، إذا شَكَلْته فى قوائمه الأربع. والزَّنَقة كالمدخل فى السِّكّة (٥)\nوغيرها فى ضيق وفيها مَيل. ويقال لضربٍ من الحُلىّ زِنَاقٌ.",
+ "az": "[زنق] (zənəq): ز (zay), ن (nun) və ق (qaf) daralmağı və ya sıxmağı ifadə edən bir əsasdır. Deyirlər زَنَقْت الفرس (zənəqtül-fərsə), atı dörd ayağından buxovladığım zaman. Və الزَّنَقَة (əz-zənəqə) küçədəki girəcək kimidir (٥) və digər dar və meyilli yerlərdə. Zinət növünə də زِنَاق (zinaq) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:18.053Z"
+}

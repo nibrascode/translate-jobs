@@ -1,0 +1,17 @@
+{
+ "i": 375,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلخص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "ومن ذلك قولهم (تَبَلْخَصَ (٢)) لحمُه، إذا غَلُظ. وذلك من الكلمتين، من اللَّخَصِ وهو كثْرة اللَّحم، يقال ضَرْعٌ لَخِيصٌ، ومن البَخَص، وهى لحمة الذِّراع والعين وأصولِ الأصابع.",
+ "az": "[بلخص] (Bə-lam-xa-sad) Buradan onların «تَبَلْخَصَ» (təbəlxəsə) ifadəsi gəlir, əgər əti qalınlaşarsa. Bu iki kəlmədəndir: «اللَّخَص» (əl-ləhəs - ətin çoxluğu), deyilir ki, «ضَرْعٌ لَخِيصٌ» (dər’un ləxis - ətli məmə), və «البَخَص» (əl-bəhəs - qolun, gözün və barmaqların ətli hissəsi).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

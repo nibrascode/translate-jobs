@@ -1,0 +1,17 @@
+{
+ "i": 686,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 477,
+  "page_to": 478
+ },
+ "ar": "الجيم والميم والراء أصلٌ واحدٌ يدلُّ على التجمُّع. فالجمر جمر النَّار معروف، الواحد جمرة. والجمّارُ جمّار النخل وجَامُورُه أيضاً، وهى شَحْمَةُ النَّخْلة. ويقال جَمَّرَ فلانٌ جيشَه إذا حَبَسَهم فى الغَزْوِ ولم يُقْفلْهُم (٢) إلى بلادهم.\nوحَافِرٌ مُجْمَرٌ وَقَاحٌ صُلْبٌ مجتمع. والجَمَرَات الثلاثُ اللَّوَاتى بمكّة يُرْمَيْنَ من ذلك أيضاً، لتَجَمُّعِ ما هناك من الحصى.\nوأمّا جمرات العرب فقال قوم: إذا كان فى القَبِيل ثلاثمائةِ فارسٍ فهى جَمْرَةٌ. وقال قوم: كلُّ قبيلٍ انضمُّوا وحاربوا غيرَهُم ولم يُحالفوا سواهم فهُمْ جمْرة.\nوكان أبو عبيدٍ يقول: جَمَرَاتُ العرب ثلاث: بنو ضَبَّة بن أُدّ، وبنو نُمير بن عامر، وبنو الْحارث بن كعب، فطَفِئَتْ منهم جمرتان، وبقيت واحدة، طَفِئَت ضبّة لأنها حَالفت الرِّباب، وطَفِئَتْ بنو الْحارث لأنّها حالفت مَذْحِجًا، وبقيت نُميرٌ لم تَطْفَأ، لأنّها لم تُحَالِفْ.\nويقال: جَمَّرَتِ المرأةُ شَعْرَها، إذا جمعَتْهُ وعَقَدَتْهُ فى قفائها (١). وهذا جميرُ القوم أى مجتَمِعُهم. وقد أجْمَرَ القوم على الأمر اجتَمَعُوا. وابن جَميرٍ:\nاللّيلُ المظلم.",
+ "az": "«جمر» — جيم، ميم və راء hərfləri toplanmağa dəlalət edən tək bir kökdür. Odun közü məlumdur, təkliyi جمرة (cəmrə) olaraq işlənir. Və جَمَّارُ النَّخْل (xurma ağacının cəmmarı) və onun جامُورُه (camuru) da xurma ağacının özəyidir. Deyirlər: جَمَّرَ فلانٌ جيشَه (filankəs ordunu döyüşdə saxlayıb vətənlərinə qayıtmağa icazə vermədi). وَحافِرٌ مُجْمَرٌ (mücmər dırnaq) — bərk, möhkəm və toplanmış dırnaqdır. Məkkədəki üç cəmrə də bundandır, çünki orada xırda daşlar toplanır. Ərəblərin cəmrələrinə gəldikdə, tayfada üç yüz süvari olarsa, o, cəmrədir. Başqaları isə demişdir: hər hansı bir qəbilə başqaları ilə müttəfiq olmayaraq toplanıb başqası ilə vuruşarsa, onlar cəmrədir. Əbu Übeyd deyərdi: Ərəblərin cəmrələri üçdür: Bəni Zəbbə ibn Üdd, Bəni Nəumeyr ibn Amir və Bəni Haris ibn Kab. Onlardan iki cəmrə söndü, biri qaldı. Zəbbə söndü, çünki Rəbab qəbiləsi ilə müttəfiq oldular; Bəni Haris də söndü, çünki Məzhəc ilə müttəfiq oldular; Nəumeyr isə sönmədi, çünki heç kimlə müttəfiq olmadı. Deyirlər: جَمَّرَتِ المرأةُ شعرَها (qadın saçını toplayıb ənsəsində bağladı). Bu da قوم جَمير (cəmir qövm) yəni toplanmış camaat deməkdir. Və qövm iş üzərində أجْمَرَ (ücmərə) yəni toplandılar. Və ابن جَمير (ibn cəmir) — qaranlıq gecədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.350Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 669,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 468,
+  "page_to": 469
+ },
+ "ar": "الجيم واللام والحرف معتل أصلٌ واحد، وقياسٌ مطّرد، وهو انكشاف الشئ وبروزُه. يقال جَلَوتُ العروسَ جَلْوَةً وجَلَاءً (٢)، وجَلَوْت السيف جَلَاءً. وقال الكسائىّ: السماء جَلْواءُ أى مُصْحِية. ويقال تجلّى الشئُ، إذا انكشَفَ. ورجُلٌ أَجْلَى، إذا ذهب شَعْرَ مقدّم رأسِه؛ وهو الجَلَا. قال:\n* مِنَ الجَلَا ولائح القَتِيرِ (٣) *\nومن الباب جَلا القَومُ عن منازلهم جَلاءً، وأجْليْتُهمْ أنا إجْلاءً. ويقولون:\nهو ابن جلَا، إذا كان لا يَخْفَى أمرُهُ لشُهرته. قال:\nأنا ابنُ جَلَا وطَلاّعُ الثَّنَايا … متى أضعُ العمامةَ تَعْرفُونى (٤)\nويقال جلَا القَومُ وأجْليْتُهم أنا، وجلَوْتُهم. قال أبو ذؤيب:\nفلما جَلاها بالأَيَامِ تحيَّزَتْ … ثُبَاتٍ عليها ذُلُّها واكتئابُها (١)",
+ "az": "[جلو] — Cəim, lam və zəif hərf olub, tək bir əsas mənası və müntəzəm qaydası vardır: bir şeyin açılması və üzə çıxması. Deyilir: «جَلَوتُ العروسَ جَلْوَةً وجَلَاءً» (٢) (Gəlini gəlinlikdə hamıya göstərdim / üzünü açdım), və «جَلَوْت السيف جَلَاءً» (qılıncı parıldatdım). Kisai demişdir: «السماء جَلْواءُ» - yəni açıq və buludsuz. Deyilir: «تجلَّى الشئُ» - bir şey açıldı. «رجل أَجْلَى» - başının ön hissəsində saçları gedən kimsədir; bu da «الجَلَا» adlanır. Demişdir: «* مِنَ الجَلَا ولائح القَتِيرِ (٣) *» (Keçəllikdən və ağarmış tüklərin parıltısından). Bu fəsildəndir: «جلا القَومُ عن منازلهم جَلاءً» (Qövm öz evlərindən köçüb getdilər), və «أجْليْتُهمْ أنا إجْلاءً» (Mən onları qovub çıxardım). Deyirlər: «هو ابن جلَا» - işi şöhrətinə görə gizli qalmadıqda deyilir. Demişdir: «أنا ابنُ جَلَا وطَلاّعُ الثَّنَايا … متى أضعُ العمامةَ تَعْرفُونى» (٤) (Mən açıq-aşkar görünən və uca dağ keçidlərini aşanın oğluyam, nə zaman əmmaməmi çıxarsam, məni tanıyarsınız). Deyilir: «جلَا القَومُ» (Qövm köçüb getdi) və «أجْليْتُهم أنا» (Mən onları çıxarıb qovdum), və «جلَوْتُهم». Əbu Züəyb demişdir: «فلما جَلاها بالأَيَامِ تحيَّزَتْ … ثُبَاتٍ عليها ذُلُّها واكتئابُها» (١) (Zamanlar onu üzə çıxaranda, zillət və kədər içində dəstə-dəstə sığındılar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:30.556Z"
+}

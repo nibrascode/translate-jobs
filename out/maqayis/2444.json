@@ -1,0 +1,17 @@
+{
+ "i": 2444,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضبث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الضاد والباء والثاء أصل صحيحٌ يدلُّ على فَبْض. يقال:\nضبث إذا قبض على الشَّئ. ويقال ناقةٌ ضَبُوث: يُشَكُّ فى سِمَنها، فتُضْبَث بالأيدى.\nويقولون: ضُبِثَ، أى ضُرب. وهو قريب مما ذكرناه.",
+ "az": "«ضبث»: الضاد, الباء, والثاء (d, b, s) — tutmağa (qəbz etməyə) dəlalət edən səhih bir əsldir. Deyilir: «ضبث» — bir şeyi əllə tutdu. Deyilir: «ناقةٌ ضَبُوث» — kökəkliyinə şübhə edilən, buna görə də əllərlə yoxlanılan (tutulan) dişi dəvə. Deyirlər: «ضُبِثَ» — yəni döyüldü. Bu da qeyd etdiyimizə yaxındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

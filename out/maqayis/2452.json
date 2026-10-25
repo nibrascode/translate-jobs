@@ -1,0 +1,17 @@
+{
+ "i": 2452,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 388,
+  "page_to": 388
+ },
+ "ar": "الضاد والباء والنون أصلٌ صحيح، وهو عُضو من الأعضاء.\nفالضِّبْن: ما بين الإبط والكَشْح. يقال أضطبنتُه: جعلته فى ضِبْنى: والضبْنَة (٦):\nأهل الرّجُل، يضطبِنها. وناسٌ يقولون: المضبون الزَّمِن، وهو عندى من قلب الميم. ومكان ضَبْنٌ: ضيّق. وهذه الكلمة من الباب الأوّل.",
+ "az": "[ضبن] (Dad, ba və nun) səhih bir kök olub, bədən üzvlərindən biridir. الضِّبْن (dibn) – qoltuqaltı ilə böyrür arasındakı hissədir. أضطبنتُه (ədtabtuhu) – onu qoltuğumun altına aldım, deməkdir. الضَبْنَة (dabnə) – kişinin öz əhlidir (ailəsidir) ki, onu qoltuğunun altında qoruyur. Bəzi insanlar المضبون (mizbun) sözünü xəstə, taqətsiz mənasında işlədirlər, lakin mənə görə bu, mim hərfinin yerinin dəyişməsi nəticəsində yaranmışdır. مكان ضَبْنٌ (dabn məkan) – dar yer. Bu kəlimə birinci باب (bölmədən)dir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:29.015Z"
+}

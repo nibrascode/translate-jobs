@@ -1,0 +1,17 @@
+{
+ "i": 633,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 451,
+  "page_to": 451
+ },
+ "ar": "الجيم والراء والحاء أصلان: أحدهما الكسب، والثانى شَقّ الجِلْد.\nفالأوّل قولهم [اجترح] إذا عمل وكَسبَ. قال اللّه ﷿: ﴿أَمْ حَسِبَ اَلَّذِينَ اِجْتَرَحُوا اَلسَّيِّئاتِ﴾. وإنّما سمى ذلك اجتراحاً لأنه عَمَلٌ * بالجوَارح، وهى الأعضاء الكواسب. والجوارحُ من الطَّير والسباع: ذَوَاتُ الصَّيد.\nوأما الآخَر [فقولهم] جرحَهُ بحديدةٍ جرْحاً، والاسم الْجُرْح. ويقال جرَح الشاهدَ إذا ردّ قولَه بِنَثاً غيرِ جميل. واستَجْرَحَ فلانٌ إذا عمل ما يُجْرَح من أجله.\nفأمّا قول أبى عبيدٍ\nفى حديث عبد الملك: «قد وعظتُكم فلم تزدادُوا على الموعظة إلاّ استجراحا». إِنه النُّقصان من الخير، فالمعنى صحيح إلاّ أنّ اللفظ لا يدلُّ عليه. والذى أراده عبدُ الملك ما فسَّرناه، أى إنّكم ما تزدادون على الوعْظ إلاّ ما يكسبكم الجَرْحَ والطَّعنَ عليكم، كما تُجْرِح الأحاديث. وقال أبو عبيد: يريد أنّها كثيرة صحيحها قليل. والمعنى عندنا فى هذا كالذى ذكرناه مِنْ قَبْل، وهو أنّها كثُرتْ حتى أحوج أهلَ العلم بها إلى جرْح بعضها، أنّه ليس بصحيح",
+ "az": "[جرح] (Cim, ra və ha) iki əsas kökdür: biri qazanc, ikincisi isə dərinin yarıılmasıdır. Birincisi onların [اجترح] sözüdür ki, bir iş görüb qazandıqda işlədilir. Uca Allah buyurmuşdur: ﴿أَمْ حَسِبَ اَلَّذِينَ اِجْتَرَحُوا اَلسَّيِّئاتِ﴾ (mənaca tərcümə: Yoxsa pis əməllər edənlər – qazananlar – zənn edirlər...?). Bu sözün ictirah adlandırılması onun [جوارح] (cəvarih) – yəni qazanan üzvlər vasitəsilə yerinə yetirilməsi üçündür. Quş və yırtıcılardan olan cəvarih isə ov sahibləridir (ov quşları və heyvanlarıdır). İkincisinə gəldikdə [bu, onların] dəmir parçası ilə onu yarması mənasında جرحه بحديدة جرحاً (bıçaqla yaralamaq) deməsidir, ismi isə الْجُرْح (yara) sözüdür. Şahidin sözünü gözəl olmayan bir tənqidlə rədd etdikdə جرح الشاهد (şahidi yaraladı, tənqid etdi) deyilir. Filankəs yaralanmasına səbəb olacaq bir iş gördükdə استجرح (istəcərəhə) deyilir. Əbu Übeydin Əbdülməlikin hədisindəki sözünə gəldikdə: «قَدْ وَعَظْتُكُمْ فَلَمْ تَزْدَادُوا عَلَى الْمَوْعِظَةِ إِلاَّ اسْتِجْرَاحاً» («Mən sizə öyüd-nəsihət verdim, lakin siz öyüddən yalnız isticrahdan – artmaqdan başqa bir şey artırmadınız») – bu, xeyirdən azalmaq deməkdir, məna düzgündür, lakin ləfz bunu göstərmir. Əbdülməlikin qəsd etdiyi bizim izah etdiyimizdir, yəni: «Siz öyüdə qulaq asdıqca ancaq özünüzə yara (tənqid) qazandırır və əleyhinizə etirazlar artırırsınız, necə ki hədislər insanı yaralayır». Əbu Übeyd demişdir: O qəsd edir ki, onların səhih olanları azdır, qalanı çoxdur. Bizə görə bu məsələdə məna əvvəlcə qeyd etdiyimiz kimidir, yəni onların sayı o qədər çoxaldı ki, elm əhlini onların bəzilərinin səhih olmadığını bildirərək tənqid etməyə (yaralamağa) məcbur etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:46:13.020Z"
+}

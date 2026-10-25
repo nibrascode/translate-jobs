@@ -1,0 +1,17 @@
+{
+ "i": 1876,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سفو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 80,
+  "page_to": 81
+ },
+ "ar": "السين والفاء والحرف المعتلّ أصلٌ واحد يدلُّ على خِفّة فى الشئ. فالسَّفْو: مصدر سَفَا يَسْفو سَفْواً (٤)، إِذا مشى بسُرعة، وكذلك الطَّائر إذا أسرَعَ فى طيرانه. والسَّفَا: خِفّة النّاصية، وهو يُكرَه فى الخيل ويُحمَد فى البِغال، فيقال بغلةٌ سفواء. وسَفت الريحُ التّراب تَسفيه سَفْياً. والسَّفَا:\nما تَطَايَرُ به الرِّيحُ من التُّراب. والسَّفا: شوك البُهْمَى، وذلك [أنه] إِذا يبس خَفّ وتطايرت به الرّيح. قال رؤبة:\nواسْتَنَّ أعراف السَّفَا على القِيَقْ (١)\nومن الباب: السَّفا، وهو تُراب القَبر. قال:\nوحالَ السّفا بينى وبينك والعِدَا … ورَهْنُ السّفا غَمْرُ الطّبيعة ماجدُ (٢)\nوالسَّفاءُ، مهموز: السّفَه والطَّيش. قال:\nكم أزلّتْ أرماحُنا من سفيهٍ … سافَهونا بغِرّة وسَفَاءِ",
+ "az": "[سفو] السين والفاء والحرف المعتل (sin, fa və uzadılma hərfi) bir tək əsasdır, şeydə yüngüllüyə dəlalət edir. Əs-səfvu (السَّفْو): «سَفَا يَسْفو سَفْواً» (٤) felinin məsdəridir, sürətlə yeridiyi zaman deyilir; həmçinin quş uçuşunda tələsdiyi zaman. Əs-safa (السَّفَا): alın saçının yüngüllüyüdür, bu, atlarda bəyənilmir, qatırlarda isə bəyənilir, buna görə də «بغلةٌ سفواء» (səfua qatır) deyilir. Külək torpağı sovuranda «سَفت الريحُ التّراب تَسفيه سَفْياً» deyilir. Əs-safa (السَّفَا): küləyin sovurub apardığı torpaqdır. Əs-safa həmçinin dəvətikanının tikanıdır, bu da odur ki, o, quruşanda yüngülləşir və külək onu sovurur. Rübə demişdir: وستَنَّ أعراف السَّفَا على القِيَقْ (١) (Küləyin sovurduğu tikanların yal-kənarları düzənlikdə hərəkət etdi). Bu fəsildəndir: Əs-safa (السَّفا) – qəbrin torpağıdır. [Şair] demişdir: وحالَ السّفا بينى وبينك والعِدَا … ورَهْنُ السّفا غَمْرُ الطّبيعة ماجدُ (٢) (Səfa torpağı mənimlə sənin və düşmənlər arasında maneə oldu... səfa torpağının girovu – səxavətli təbiətli, alicənab biridir). Həmçinin həmzəli olan əs-səfau (السَّفاءُ): ağılsızlıq və səfehlikdir. [Şair] demişdir: كم أزلّتْ أرماحُنا من سفيهٍ … سافَهونا بغِرّة وسَفَاءِ (Neçə-neçə səfihlərin nizələrimiz ayağını sürüşdürdü... onlar qafil və səfeh halda bizimlə vuruşdular).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:54.003Z"
+}

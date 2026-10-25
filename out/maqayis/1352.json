@@ -1,0 +1,17 @@
+{
+ "i": 1352,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دبش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 326,
+  "page_to": 326
+ },
+ "ar": "الدال والباء والشين ليس بشئ. على أنّهم يقولون أرضٌ مَدبُوشَة *: أَكَلَ الجراد نَبْتها. قال:\n* فى مُهْوَأَنٍّ بالدَّبَا مَدْبُوشِ (٣) *",
+ "az": "[دبش] الدال (dal), الباء (ba) və الشين (şin) hərfləri bir şey deyil. Bununla belə, onlar أرضٌ مَدبُوشَة (ərdu-n mədbuşə) deyirlər: çəyirtkə onun bitkisini yedi. O dedi: * فى مُهْوَأَنٍّ بالدَّبَا مَدْبُوشِ * (Çəyirtkə tərəfindən yeyilmiş boş bir yerdə) (٣).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

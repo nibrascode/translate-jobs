@@ -1,0 +1,17 @@
+{
+ "i": 1895,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سكف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 90,
+  "page_to": 90
+ },
+ "ar": "السين والكاف والفاء ليس أصلا، وفيه كلمتان: أحدهما أُسْكُفّة الباب: العتَبة التى يُوطأ عليها. وأُسْكُفّ العين، مشبّه بأُسْكُفّة الباب. وأمّا الإسكاف فيقال إن كلَّ صانعٍ إسكافٌ عند العرب. وينشد قول الشمّاخ:\nوشُعْبَتَا مَيْسٍ بَرَاها إِسكافْ (١)\nقالوا: أراد القَوَّاس.",
+ "az": "«سكف» (s-k-f): السين والكاف والفاء ليس أصلا، وفيه كلمتان: أحدهما أُسْكُفّة الباب: العتَبة التى يُوطأ عليها (Sin, kaf və fa əsas deyil, burada iki kəlmə var: bunlardan biri qapının astanası olan «أُسْكُفّة الباب» — üzərinə basılan kandar). وأُسْكُفّ العين، مشبّه بأُسْكُفّة الباب (Və gözün kənarı/qapağı — «أُسْكُفّ العين», qapının astanasına bənzədilmişdir). وأمّا الإسكاف فيقال إن كلَّ صانعٍ إسكافٌ عند العرب (Lakin «الإسكاف»ə gəldikdə, ərəblərə görə hər bir sənətkarın إسكاف adlandığı deyilir). وينشد قول الشمّاخ (Və Şəmmaxın bu sözü oxunur):\nوشُعْبَتَا مَيْسٍ بَرَاها إِسكافْ (١)\n(Və meys ağacından olan iki budaq, onları bir çəkməçi/usta yonmuşdur) \nقالوا: أراد القَوَّاس (Dedilər: o, ox düzəldən ustanı nəzərdə tutmuşdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:44:24.789Z"
+}

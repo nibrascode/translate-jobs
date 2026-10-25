@@ -1,0 +1,17 @@
+{
+ "i": 2060,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 182,
+  "page_to": 182
+ },
+ "ar": "الشين والسين قريب من الذى قبله. فالشَّسُّ: الأرض الصُّلبة، والجمع شِساَس وشُسوس.",
+ "az": "[شس] «الشين والسين» (şin və sin) – əvvəlkindəki kimidir. «الشَّسُّ» (əş-şəss) – sərt, bərk torpaqdır, cəmi «شِساَس» (şisas) və «شُسوس» (şusus) gələr.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:50:42.415Z"
+}

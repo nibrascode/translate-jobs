@@ -1,0 +1,17 @@
+{
+ "i": 1654,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ربس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 476,
+  "page_to": 477
+ },
+ "ar": "الراء والباء والسين أصلٌ واحد ذكره ابن دريد؛ قال (٢): أصل الرَّبْس الضَّرْب باليدين. يقال أصل الرَّبْس الضَّرب؛ يقال ربَسَه بيديه. قال: ويقولون: داهيةٌ رَبْساء. أى شديدة. وهى على الأصل الذى ذكرناه وكأنها تَخْبِط الناسَ بيديها.\nوذكر غيرُه، وهو قريبٌ من الذى أصَّلَه، أنّ الارتباس الأكتنازُ فى اللحم وغيرِه؛ يقال كبشٌ ربيسٌ * أى مكتنز.\nومما شذَّ عن ذلك قولُهم: اربسَّ اربِساساً، إذا ذهب فى الأرض.",
+ "az": "[ربس] «الراء» (ra), «الباء» (ba) və «السين» (sin) — İbn Dureydin qeyd etdiyi tək bir əsasdır; o demişdir (٢): «الرَّبْس»in (rəbs) əsli əllərlə vurmaqdır. Deyirlər ki, rəbsin əsli vurmaqdır; «ربَسَه بيديه» (onu əlləri ilə vurdu) deyilir. O demişdir: Deyirlər ki, «داهيةٌ رَبْساءُ» (dəhşətli, şiddətli bəla) — yəni şiddətli. Bu, qeyd etdiyimiz əsas üzrədir, sanki insanları əlləri ilə döyür. Başqası isə — onun əsas qoyduğuna yaxın olaraq — bildirmişdir ki, «الارْتِباس» (irtibas) ətdə və başqa şeylərdə bərkimək, ətə-qana dolmaqdır; «كبشٌ ربيسٌ» (rəbis qoç) — yəni ətə-qana dolmuş qoç deyilir. Bundan istisna olunan sözləri isə onların «اربسَّ اربِساساً» (irbəssə irbisasan) deməsidir ki, bu da yerə girib getdiyi zaman işlədilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:15.101Z"
+}

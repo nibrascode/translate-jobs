@@ -1,0 +1,17 @@
+{
+ "i": 1084,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خشل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 183,
+  "page_to": 184
+ },
+ "ar": "الخاء والشين واللام أصلٌ واحدٌ يدلُّ على حَقارة وصِغَر.\nقالوا: الخَشْل الردىُّ مِنْ كلِّ شئ. قالوا: وأصلُه الصِّغار من المُقْل، وهو الخَشْل.\nالواحدة [خَشْلة]. قال الشمَّاخ يصف عُقَاباً ووكْرَه:\nتَرَى قِطعاً من الأحناش فيه … جماجِمُهنَّ كالخَشَلِ النَّزِيعِ (٥)\nيقول: إنّ فى وكره رءوسَ الحيّات. ويقال لِرُءُوس الحَلى، من الخلاخيل\nوالأسورة خَشْل. وهذا على معنى التشبيه، أو لأنَّ ذلك أصغرُ ما فى الحَلْى. وكان الأصمعىُّ يفسِّر بيت الشماخ على هذا. قال: وشبّه رءوس [الأحناش] بذلك، وهو أشْبَه. ويقال إنّ الخَشْل البَيْض إذا أخرج ما فى جَوْفه. فإن كان هذا صحيحاً فلا شئَ أحقَرُ من ذلك. وهو قياس الباب.",
+ "az": "[خشل] الخاء والشين واللام أصلٌ واحدٌ يدلُّ على حَقارة وصِغَر. (Xar və şin, lam hərfləri tək bir kök olub, alçaqlığa və kiçikliyə dəlalət edir.) \n\nقالوا: الخَشْل الردىُّ مِنْ كلِّ شئ. قالوا: وأصلُه الصِّغار من المُقْل، وهو الخَشْل. (Dedilər ki: əl-xəşl — hər şeyin alçağı/pisi. Dedilər ki: onun əsli müql meyvəsinin kiçikləridir ki, bu da xəşldir.) \n\nالواحدة [خَشْلة]. قال الشمَّاخ يصف عُقَاباً ووكْرَه: (Təkli [xəşlə]. Şəmməx qartalı və onun yuvasını təsvir edərək demişdir:) \nتَرَى قِطعاً من الأحناش فيه … جماجِمُهنَّ كالخَشَلِ النَّزِيعِ (٥) (Orada ilan parşaları görərsən ki, kəllələri qoparılmış xəşl kimi olar.) \n\nيقول: إنّ فى وكره رءوسَ الحيّات. ويقال لِرُءُوس الحَلى، من الخلاخيل والأسورة خَشْل. وهذا على معنى التشبيه، أو لأنَّ ذلك أصغرُ ما فى الحَلْى. وكان الأصمعىُّ يفسِّر بيت الشماخ على هذا. قال: وشبّه رءوس [الأحناش] بذلك، وهو أشْبَه. ويقال إنّ الخَشْل البَيْض إذا أخرج ما فى جَوْفه. فإن كان هذا صحيحاً فلا شئَ أحقَرُ من ذلك. وهو قياس الباب. (Deyir ki, onun yuvasında ilanların başları vardır. Xəlxalların və qolbaqların zinət başlarına da xəşl deyilir. Bu, bənzətmə mənasındadır və ya ona görədir ki, o, zinətdə olanlarınn ən kiçiyidir. Əsməi Şəmməxə aid bu beyti belə təfsir edirdi. O dedi: [İlanların] başlarını buna bənzەتdi və bu daha uyğundur. Deyilir ki, xəşl içi boşaldılmış yumurtadır. Əgər bu doğrudursa, bundan daha alçaq bir şey yoxdur. Bu, babın qismidir.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:26.357Z"
+}

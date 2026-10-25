@@ -1,0 +1,17 @@
+{
+ "i": 1979,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سبط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 128,
+  "page_to": 128
+ },
+ "ar": "السين والباء والطاء أصلٌ يدلُّ على امتدادِ شئ، وكأنه مقاربٌ لباب الباء والسين والطاء، يقال شعر سَبْط وسَبِطٌ، إذا لم يكن جَعداً.\nويقال أسْبَطَ الرّجلُ إسباطا، إذا امتدّ وانبسط بعد ما يُضرَب. والسُّباطة:\nالكُناسة، وسمِّيت بذلك لأنَّها لا يُحتَفَظ بها ولا تحْتَجن. ومنه\nالحديث:\n«أتى سُباَطَةَ قومٍ فبال قائما؛ لوجعٍ كان بمأبِضه (١)». والسَّبَط: نباتٌ فى الرمل، ويقال إنه رَطب الحَلِىِّ؛ ولعلّ فيه امتداداً",
+ "az": "«سبط» (sin, ba, ta). Bir şeyin uzanmasına dəlalət edən bir əsldir; sanki «ba», «sin» və «ta» babına yaxındır. Saç qıvrım olmadıqda «سَبْط» (səbt) və «سَبِطٌ» (səbit) deyilir. İnsanın zərbədən sonra uzanıb yayılmasına «أسْبَطَ الرّجلُ» (əsbətə-r-racul) deyilir. «السُّباطة» (əssubatə) zir-zibil, süpürüntü deməkdir; ona bu ad ona görə verilmişdir ki, o qorunmur və yığılıb saxlanılmır. Hədisdə də belə gəlmişdir: «Bir qövmün zibilliyinə gəldi və diz arxasındakı ağrıya görə ayaq üstə sidik ifraz etdi» (أتى سُباَطَةَ قومٍ فبال قائما؛ لوجعٍ كان بمأبِضه). «السَّبَط» (əs-səbət) qumluqda bitən bir bitkidir, deyilənə görə o, yaş halinin (bir bitki növü) təravətlisidir; ehtimal ki, onda uzanma xüsusiyyəti vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:11.741Z"
+}

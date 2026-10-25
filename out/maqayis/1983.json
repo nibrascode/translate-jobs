@@ -1,0 +1,17 @@
+{
+ "i": 1983,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سبك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 129,
+  "page_to": 129
+ },
+ "ar": "السين والباء والكاف أُصَيل يدل على التناهى فى إمهاء الشئ (٢).\nمن ذلك: سَبَكْتُ الفضة وغيرَها أسْبِكُها سَبْكا. وهذا يستعار فى غير الإذابة أيضاً. [والسُّنبُك: طرف الحافر (٣)]. فأما السُّنْبُك من الأرض فاستعارةٌ، طَرفٌ غليظٌ قليل الخير.",
+ "az": "«سبك» (sin, ba, kaf). Bir şeyin əriməsində və axmasında həddə çatmağa dəlalət edən kiçik bir əsldir. Buradan: «Gümüşü və başqa şeyləri əritdim» mənasında «سَبَكْتُ الفضة وغيرَها أسْبِكُها سَبْكا» (səbətu-l-fizzətə və ğəyrəhə əsbikuhə səbkan) deyilir. Bu, əritmək mənasından başqa mənalarda da məcazi olaraq işlədilir. [Və «əssunbuk» - dırnağın ucudur]. Yerdəki «əssunbuk» isə məcazdır; qalın və xeyri az olan ucdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:11.742Z"
+}

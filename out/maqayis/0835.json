@@ -1,0 +1,17 @@
+{
+ "i": 835,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حذق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 37,
+  "page_to": 38
+ },
+ "ar": "الحاء والذال والقاف أصلٌ واحد، وهو القَطْع. يقال حَذَقَ السّكّين الشئَ، إِذا قطَعه. [قال]:\n* فذلك سِكِّينٌ على الحَلْقِ حاذِق (٥) *\nومن هذا القياس الرّجُل الحاذِق فى صِناعته، وهو الماهر، وذلك أنّه يَحْذِق الأمرَ يَقْطَعُه لا يدع فيه مُتَعلَّقا. ومنه حِذْق القرآن. ومن قياسِه الحُذَاقىُّ، وهو الفَصيحُ اللِّسان؛ وذلك أنّه يَفْصِل الأمورَ يَقطعها. ولذلك يسمَّى اللِّسان مِفْصَلاً.\nوالباب كلُّه واحد.\nومن الباب حَذَقَ فاهُ الخلُّ إِذا حَمَزَه، وذلك كالتَّقطيع يقَعُ فيه.",
+ "az": "«حذق» (həzəq): Ha, zal və qaf hərflərindən ibarət olub tək bir kökdür, o da kəsməkdir. Deyilir: «حَذَقَ السّكّين الشئَ» (bıçaq şeyi kəsdi), onu kəsdiyi zaman. [Şair demişdir]:\n* فذلك سِكِّينٌ على الحَلْقِ حاذِق (٥)\n(Bu, boğaz üzərində kəsici olan bir bıçaqdır)\nVə bu qiyasdandır: öz sənətində mahir olan «الرّجُل الحاذِق» (mahri kişi), bu da o deməkdir ki, o, işi kəsir, onun heç bir əlaqəli yerini saxlamır. Və bundandır Quranı əzbərləmək («حِذْق القرآن»). Və bunun qiyasındandır: dili fəsih olan «الحُذَاقىُّ» (əl-huzai); bu da o deməkdir ki, o, işləri ayırır, kəsir. Buna görə də dil «مِفْصَل» (müqəssir, ayırıcı) adlanır.\nVə fəsil tamamilə birdir.\nVə bu fəsildəndir: sirka onun ağzını yandırdı («حَذَقَ فاهُ الخلُّ»), bu da orada baş verən kəsməyə bənzəyir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

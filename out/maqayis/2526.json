@@ -1,0 +1,17 @@
+{
+ "i": 2526,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 429,
+  "page_to": 429
+ },
+ "ar": "الطاء والهاء والميم أصلٌ صحيح يدلُّ على شئٍ فى خَلْقِ الإِنسان وغيرِه. فحكى أبو عبيدة أنَّ المُطَهَّم: الجميل التامّ الخَلْق من الناس والأفراس.\nوقال غيره: المطَهَّم: المَكلْثَم المجتمِع. وهذا عندنا أصحُّ القولين؛ للحديث الذى\nرواه علىٌّ ﵇ فى وصف رسول اللّه ﵌: «لم يكن بالمطهَّم ولا المكلْثم». وحكيت كلمةٌ إن صحّت، قالوا: تطهَّمّتُ الطعامَ: كرهته.",
+ "az": "[طهم] (Tə, hə və mim) insanın və digərlərinin xilqətində olan bir şeyə dəlalət edən səhih əsl kökdür. Əbu Übeydə rəvayət etmişdir ki, المُطَهَّم (əl-mütəhhəm) – insanlardan və atlardan gözəl, xilqəti tam olan deməkdir. Digəri demişdir: المُطَهَّم (əl-mütəhhəm) – yanaqları ətli, əza-yi bədəni bir-birinə bitişik və toplu olan kəsdir. Bu, bizə görə iki sözdən daha səhih olanıdır; çünki Həzrəti Əli (ə.s.) tərəfindən Peyğəmbərin (s.ə.v.) vəsf edilməsində rəvayət edilən hədisə əsasən: «لم يكن بالمطهَّم ولا المكلْثم» (O, nə mütəhhəm, nə də mükləsm idi). Əgər səhihdirsə, bir söz də rəvayət edilmişdir, demişlər: «تطهَّمّتُ الطعامَ» (tətəhəmmtüt-təamə) – yeməyə nifrət etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.400Z"
+}

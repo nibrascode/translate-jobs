@@ -1,0 +1,17 @@
+{
+ "i": 1108,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خطوأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 198,
+  "page_to": 198
+ },
+ "ar": "الخاء والطاء والحرف المعتلّ والمهموز، يدلُّ على تعدِّى الشئ، والذَّهاب عنه. يقال خَطوتُ أخطو خُطوة. والخُطْوة: ما بين الرِّجْلين.\nوالخَطْوة: المرَّة الواحدة\nوالخَطَاء من هذا؛ لأنّه مجاوزة حدِّ الصواب. يقال أخطأ إِذا تعدّى الصَّواب. وخَطِئ يخطأُ، إذا أذْنب، وهو قياسُ الباب؛ لأنه يترك الوجه الخَيْرَ.",
+ "az": "«خطوأ» — الخاء والطاء والحرف المعتل والمهموز (X, T və uzadılan həmzəli hərf) bir şeydən kənara çıxmağa və ondan uzaqlaşmağa dəlalət edir. Deyilir خَطوتُ أخطو خُطوة (Addımladım, addımlayıram, addım). Və الخُطْوة (əl-xutvə) — iki ayaq arasıdır. Və خُطْوة (xutvə) — bir dəfə addımlamaq. الخَطَاء (əl-xata - səhv) də bundandır; çünki bu, doğru həddini keçməkdir. Deyilir: أخطأ (xəta etdi) — düzgünlükdən kənara çıxdıqda. Və خَطِئ يخطأُ (günah işlədi, işləyir), günah etdikdə, bu da qapının qiyasındadır; çünki o, xeyir yolu tərk edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:04.062Z"
+}

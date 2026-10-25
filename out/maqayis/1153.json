@@ -1,0 +1,17 @@
+{
+ "i": 1153,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 227,
+  "page_to": 227
+ },
+ "ar": "الخاء والواو والدال أُصَيلٌ فيه كلمةٌ واحدة. يقال خَوَّدُوا فى السَّير. وأصله قولهم خَوَّدْتُ الفَحلَ تخويداً، إذا أرسلتَه فى الإناث وأنشد:\nوخُوِّدَ فَحْلُها من غَيرِ شَلٍّ … بِدَارِ الرِّيف تخويدَ الظَّليمِ (١)\nكذا أنشده الخليل. ورواه غيرُه:\n«وخَوَّد فَحْلُها … ».",
+ "az": "[خود] الخاء والواو والدال أُصَيلٌ (Xar, vav və dal kiçik bir əsasdır) — burada bir kəlmə vardır. Deyilir: xovvədu fis-seyr (خَوَّدُوا فى السَّير) — gedişdə sürətli və yüngül hərəkət etdilər. Onun əsri onların «xəvvədtul-fəhlə təxvidən (خَوَّدْتُ الفَحلَ تخويداً)» deməsidir; erkək dəvəni dişilərin yanına buraxdığın zaman. O, şeir söyləmişdir: وخُوِّدَ فَحْلُها من غَيرِ شَلٍّ … بِدَارِ الرِّيف تخويدَ الظَّليمِ (١) (Və onun erkək dəvəsi qovulmadan... rif diyarında dəvəquşunun yerişi kimi buraxıldı). Xəlil bunu belə oxumuşdur. Başqaları isə bunu belə rəvayət etmişdir: «وخَوَّد فَحْلُها ...».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.497Z"
+}

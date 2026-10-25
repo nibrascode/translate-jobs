@@ -1,0 +1,17 @@
+{
+ "i": 2061,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شصب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 182,
+  "page_to": 183
+ },
+ "ar": "الشين والصاد والباء أصلٌ يدلُّ على شِدّة فى عيشٍ وغيره. يقال: الشَّصائب: الشّدائد. ويقال عيشٌ شاصبٌ، أى شديد. وقد شصَب شُصوباً. ويقال أشْصَب اللّهُ عيشَه.\nومن هذا الباب، إن كان صحيحاً: شَصَبت النّاقةُ على الفَحل (٢)، وذلك إذا أكثَرَ ضرابَها فلم تَلْقَح له.\nوما بعد ذلك من قولهم، أنَّ الشِّصْبَ (١): النَّصِيب، وأنّ المَشْصوبَةَ (٢) المسلُوخة، فكلُّ ذلك مشكوكٌ فيه، غيرُ معوَّل عليه.",
+ "az": "[شصب] \nŞin, sad və ba təməl bir kök olub, yaşayışda və digər işlərdə çətinliyə dəlalət edir. Deyilir ki, الشَّصائب (əş-şasaib) – çətinliklərdir. Şaçab bir yaşayış (عيشٌ شاصبٌ) də deyilir, yəni çətin. O, şüubən (شُصوباً) çətinləşdi. Deyilir ki, Allah onun yaşayışını çətinləşdirdi (أشْصَب اللّهُ عيشَه). \nBu بابdan (əgər səhihdirsə): dəvə erkək dəvəyə qarşı şaçab etdi (شَصَبت النّاقةُ على الفَحل) (٢), bu da erkək dəvənin cütləşməsini çoxaltması, lakin dişi dəvənin ondan hamilə qalmaması halıdır. \nBundan sonrakı sözlərə gəldikdə, məsələn, əl-şişb (الشِّصْبَ) (١) – nəsib (pay), əl-maşsubə (المَشْصوبَةَ) (٢) isə soyulmuş deməkdir; bütün bunlar şübhəlidir, onlara etimad edilməz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:02.753Z"
+}

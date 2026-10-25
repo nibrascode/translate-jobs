@@ -1,0 +1,17 @@
+{
+ "i": 2554,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 444,
+  "page_to": 444
+ },
+ "ar": "الطاء والحاء واللام أصلٌ صحيح يدلُّ على لونِ غير صافٍ ولا مُشرق. من ذلك الطُّحْلة، وهو لون الغُبْرة. ويقال رمادٌ أطحل، وشرابٌ أطحل، إذا لم يكن صافياً. والطِّحال معروف، وممكنٌ أن يكون سمِّى بذلك لكُدْرة لونه. ويقال طَحِلَ الماء: فسد وتغيَّر.",
+ "az": "[طحل] الطاء والحاء واللام (طا, ha, lam) – saf olmayan və parıldamayan rəngə dəlalət edən səhih bir əsasdır. Bunlardan biri də الطُّحْلة (ət-tuhlə) – tozlu rəngdir. Deyilir: رمادٌ أطحل (boz kül), شرابٌ أطحل (saf olmayan içki), o zaman ki onlar saf olmurlar. الطِّحال (ət-tihal) – dalaq hamıya məlumdur, o, rənginin bulanıqlığı səbəbindən belə adlandırılmış olması mümkündür. Deyilir: طَحِلَ الماء (Su xarab oldu və dəyişdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:11:55.933Z"
+}

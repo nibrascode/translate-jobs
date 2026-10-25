@@ -1,0 +1,17 @@
+{
+ "i": 1899,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سلت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 93,
+  "page_to": 93
+ },
+ "ar": "السين واللام والتاء أصل واحد، وهو جَلْفُ الشئ عن الشئ وقَشره. يقال سلتت المرأةُ خضابَها عن يدها. ومنه سَلَتَ فلانٌ أنفَ فلانٍ بالسيف سَلْتاً، وذلك إذا أخذه كلَّه. والرّجُل أسْلَتُ. ويقال إنّ المرأة التى لا تتعهَّد الخضاب يقال لها السَّلْتَاء. ومن الباب السُّلْت: ضربٌ من الشعير لا يكاد [يكون] له قشر، والعرب تسميّه العُرْيان.",
+ "az": "[سلت] (S-L-T). Sin, lam və ta tək bir kökdür, bir şeyi digərindən qoparmaq və qabığını soymaqdır. Qadının əlindən xınanı qoparması üçün «سلتت المرأةُ خضابَها» deyilir. Buradan «سَلَتَ فلانٌ أنفَ فلانٍ بالسيف سَلْتاً» (Filankəs qılıncla filankəsin burnunu kəsdi) ifadəsi gəlir, bu, onu tamamilə götürməkdir. Kişi «أسْلَتُ» (əslət) adlanır. Deyilir ki, xınaya fikir verməyən qadına «السَّلْتَاء» (əs-səlta) deyilir. Bu qapıdan olan «السُّلْت» (əs-sült) - qabığı demək olar ki, olmayan bir növ arpadır, ərəblər ona «العُرْيان» (əl-üryan - çılpaq) deyirlər.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:46:05.008Z"
+}

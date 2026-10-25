@@ -1,0 +1,17 @@
+{
+ "i": 2206,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شدق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 255,
+  "page_to": 255
+ },
+ "ar": "الشين والدال والقاف أصلٌ يدلُّ على انفراج فى شئ. من ذلك الشِّدق للإنسان وغيره. والشَّدَق: سَعة الشِّدق. ورجلٌ أشدقُ، وخطيبٌ أشدَقُ. والأصل فى ذلك شِدْقُ الوادى: عُرْضُه. ويقال نزلنا شِدْقَ العراق، أى ناحيتَه، وهو الشِّدْقُ (٢).",
+ "az": "«شدق» (şədəq). Şin, dal və qaf köklü tək bir əsas olub, bir şeydə açılmağa, genişlənməyə dəlalət edir. Bunlardandır: insanın və başqalarının ağız kənarı mənasında «الشِّدْقُ» (əş-şidq). Və «الشَّدَقُ» (əş-şədəq) – ağız kənarının gen olması. «رجلٌ أشدقُ» (genizli kişi) və «خطيبٌ أشدقُ» (eloqunt/fəsih danışan natiq). Bunun əsli «شِدْقُ الوادى» (vadinin yanı/sahili) yəni vadinin eni kənarındadır. Həmçinin deyirlər: «نزلنا شِدْقَ العراق» yəni İraqın tərəfində, səmtində endik; bu da «الشِّدْقُ» (2) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

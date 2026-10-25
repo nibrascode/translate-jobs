@@ -1,0 +1,17 @@
+{
+ "i": 873,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حشن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 64,
+  "page_to": 64
+ },
+ "ar": "الحاء والشين والنون أصلٌ واحد، وهو تغيُّر الشئ مما يتعلّق به مِنْ درن. ثمّ يشتق منه:\nفأمّا الأوَّل فقولهم فيما رواه الخليل: حَشِنَ السِّقاء، إِذا حُقِنَ لبناً ولم يُتَعهَّدْ بغسلٍ فتغيَّرَ ظاهرُه وأنتَنَ. وأمَّا القياس فقال أبو عبيد: الحِشنة، بتقديم الحاء على الشين: الحقد. وأنشد:\nأَلَا لا أرَى ذا حِشْنَةٍ فى فؤاده … يُجَمِجمُها إلاّ سَيَبْدُو دفينُها (٢)\nقال غيره: ومن ذلك قولهم: قال (٣) فلانٌ لفلان حتَّى حشَّن صدرَه.",
+ "az": "[حشن] الحاء (ha) və Şin (şin) və Nun (nun) tək bir kökdür, bu da bir şeyin ona yapışan çirkdən dolayı dəyişməsidir. Sonra ondan törədilmişdir: Birincisinə gəlincə, Xəlilin rəvayət etdiyi kimi, onların «حَشِنَ السِّقاء» (tuluq xarab oldu) demələridir; bu, tuluğa süd qoyulduqda və yuyulmaqla qayğı göstərilmədikdə, zahiri dəyişib üfunətləndiyi zaman deyilir. Ölçüyə (qiyasa) gəlincə, Əbu Übeyd demişdir: «الحِشنة» (əl-hişnə) - ha hərfi şin hərfindən əvvəl gəlməklə - kin deməkdir. O, belə şeir demişdir: «أَلَا لا أرَى ذا حِشْنَةٍ فى فؤاده … يُجَمِجمُها إلاّ سَيَبْدُو دفينُها» (Diqqət edin, ürəyində kin saxlayan birini görmürəm ki, onu gizlətsin, lakin onun gizli saxladığı mütləq üzə çıxacaqdır) (٢). Başqası demişdir: Bundan onların «فلانٌ لفلان حتَّى حشَّن صدرَه» (Filankəs filankəsə qarşı sinəsini kinlə doldurana qədər dedi) demələri də bu qəbildəndir (٣).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:57:37.546Z"
+}

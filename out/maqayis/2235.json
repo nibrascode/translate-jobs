@@ -1,0 +1,17 @@
+{
+ "i": 2235,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شزر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 271,
+  "page_to": 271
+ },
+ "ar": "الشين والزاء والراء أصلٌ صحيح مُنْقاس، يدلُّ على انفتالٍ (١) فى الشئ عن الطريقة المستقيمة. من ذلك قولُهم: نظر إليه شَزْراً، إذا نظر بمُؤْخِر عينِه متبغِّضاً. والطَّعنُ الشَّزْر: الذى ليس بسَحِيج الطّريقة. والحبل المَشْزُور: المفتول مما بلى اليَسار. فأمّا أبو عبيد فقال: طَحَنَ بالرَّحَى شَزْرا، إذا ذهَبَ بيدِه عن يمينه؛ وبَتّا (٢)؛ إذا ذهب عن شِماله.",
+ "az": "[شزر] (şin, zay və ra) düz yoldan bir şeydə burulmağa və əyilməyə dəlalət edən səhih, qanunauyğun bir əsasdır. Bunlardan biri onların شَزْراً نظر إليه (nəzərə ileyhi şəzran) - gözünün kənarı ilə nifrətlə baxdı dedikləri sözdür. Və الطَّعنُ الشَّزْر (ət-tə`nüş-şərz) - düz yolla olmayan sancma (zərbə). Və الحبل المَشْزُور (əl-həblül-məşzur) - sol tərəfdən bükülüb hörülmüş ip. Əbu Übeydəyə gəldikdə isə o demişdir: طَحَنَ بالرَّحَى شَزْرا (təhənə bir-rəha şəzran) - əlini sağ tərəfə apararaq dəyirman daşı ilə üyütdü; və بَتّا (bəttan) - sol tərəfə apardıqda.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.450Z"
+}

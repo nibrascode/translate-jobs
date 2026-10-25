@@ -1,0 +1,17 @@
+{
+ "i": 693,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "الجيم والنون والياء أصلٌ واحد، وهو أَخْذُ الثَّمَرة من شجَرها، ثم يحمل على ذلك، تقول جَنيتُ الثَّمرةَ أجْنِيها، واجْتَنَيْتُها. وثمرٌ جَنِىٌّ، أى أُخِذَ لوَقْته.\nومن المحمول عليه: جَنَيْتُ الجنايةَ أجنْيِها.",
+ "az": "«جنى» (جيم, نون və ياء) – bir əsas olub, meyvəni ağacından dərməkdir, sonra bu, başqa mənalara da şamil edilir. «جَنيتُ الثَّمرةَ أجْنِيها» (Meyvəni dərdim, dərirəm) və «اجْتَنَيْتُها» deyirsən. «ثمرٌ جَنِىٌّ» – vaxtında dərilmiş meyvə deməkdir.\nBuna şamil edilən digər məna: «جَنَيْتُ الجنايةَ أجنْيِها» (Cinayət törətdim, törədirəm).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:12.830Z"
+}

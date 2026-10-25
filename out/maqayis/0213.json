@@ -1,0 +1,17 @@
+{
+ "i": 213,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بذع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 216,
+  "page_to": 216
+ },
+ "ar": "الباء والذال والعين، كلمة واحدة فيها نظرٌ ولا يقاسُ عليها، يقولون بَذَعْتُه وأبْذَعْتُه إذا أفزَعْتَه.",
+ "az": "[بذع] الباء والذال والعين (ba, zal və əyn) bir kəlmədir ki, onda nəzər (müzakirə) var və ona əsasən qiyas edilmir; deyirlər: «بَذَعْتُه وأبْذَعْتُه» (mən onu qorxutdum və vahiməyə saldım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

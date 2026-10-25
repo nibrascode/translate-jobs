@@ -1,0 +1,17 @@
+{
+ "i": 2138,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 227,
+  "page_to": 227
+ },
+ "ar": "الشين والواو والسين أصلٌ واحد يدلُّ على نَظَرٍ بتغيُّظ.\nمن ذلك الشَّوَس: النَّظَر بأحد شِقَّى العين تغيُّظا. ورجلٌ أشوسُ من قومٍ شُوس. ويقال هو [الذى (٤)] يصغِّر عينيه ويضمُّ أجفانه.",
+ "az": "[شوس] (şus) — شين (şin), واو (vav) və سين (sin) nifrətlə baxmağa dəlalət edən tək bir əsasdır. Bunlardan biri الشَّوَس (əş-şəvəs): gözün nifrətlə iki tərəfdən biri ilə baxmasıdır. أشوس (əşvəs) – قوم شُوس (qavmun şus) tayfasından olan kişidir. Deyilir ki, o, [الذى (4) (əlləzi)] gözlərini kiçildən və göz qapaqlarını yığandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.211Z"
+}

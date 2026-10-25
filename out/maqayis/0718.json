@@ -1,0 +1,17 @@
+{
+ "i": 718,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جور",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 493,
+  "page_to": 493
+ },
+ "ar": "[الجيم والواو والراء] أصلٌ واحد، وهو المَيْل عن الطَّريق.\nيقال جارَ جَوْراً. ومن الباب طعَنَه فجَوَّره أى صَرَعه: ويمكن أن يكون هذا من باب الإبدال، كأنَّ الجيم بدلُ الكاف. وأمَّا الغَيْث الجِوَرّ، وهو الغَزير، فشاذ عن الأصل الذى أصَّلناه. ويمكن أن يكون من باب آخَرَ، وهو من الجيم والهمزة والراء؛ فقد ذكر ابن السّكيت أنّهم يقولون هو جُؤَرٌ على وزن فُعَلِ (٣). فإن كان كذا فهو من الجُؤَار، وهو الصَّوت، كأنه يصوِّت إذا أصاب. وأنشد:\n* لا تَسْقِهِ صَيِّبَ عَزَّافٍ جُؤَرْ (٤) *",
+ "az": "[جور] — [الجيم والواو والراء] (Cim, Vav və Ra) tək bir əslə qayıdır, o da yoldan azmaqdır. Deyilir: جارَ جَوْراً (Zülm etdi, yoldan azdı). Bu fəsildəndir: طعَنَه فجَوَّره (Onu elə vurdu ki, yerə sərdi), yəni yıxdı. Ola bilər ki, bu, əvəzetmə babındandır, sanki Cim hərfi Kaf-ın əvəzinə gəlmişdir. Çox bol yağış mənasını verən الغَيْث الجِوَرّ (əl-Cəvərr əl-ğays) sözünə gəldikdə isə, bu, bizim qoyduğumuz əsldən istisnadır (şazdır). Ola bilər ki, başqa bir babdandır, yəni Cim, Həmzə və Ra hərflərindəndir; İbn əs-Sikkit qeyd etmişdir ki, onlar فُعَلِ (fuəl) وزنündə جُؤَرٌ (cüər) olduğunu deyirlər (٣). Əgər belədirsə, o zaman bu, səslənmək mənasını verən الجُؤَار (əl-Cüar) sözündəndir, sanki o, dəyən zaman səs çıxarır. [Şair] şeir demişdir: * لا تَسْقِهِ صَيِّبَ عَزَّافٍ جُؤَرْ (٤) * (Ona gur və gurultulu yağış içirmə!)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

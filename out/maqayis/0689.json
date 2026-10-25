@@ -1,0 +1,17 @@
+{
+ "i": 689,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 479,
+  "page_to": 479
+ },
+ "ar": "الجيم والميم والشين أصلٌ واحد، وهو جِنْسٌ من الحَلْق.\nيقال: جَمَشْت الشَّعر إذا حلقْتَه. وشَعْرٌ جميشٌ. و\nفى الحديث: «إنْ رَأَيتَ شاةً بخَبْتِ الجَمِيش». فالخَبْت المفازة، والجَمِيش الذى لا نَبْتَ به. وسنَةٌ جَمُوشٌ إذا احْتَلَقَت النَّبْت. قال رُؤبة:\n* أوْ كاحتلاقِ النُّورَةِ الجميشِ (١) *\nومما شذَّ عن الباب الجَمْش الحَلْبُ بأطراف الأصابع. والجَمْش: الصَّوْت.",
+ "az": "«جمش» — جيم، ميم və شين hərfləri qırxma növünü bildirən tək bir kökdür. Deyirlər: جَمَشْتُ الشَّعْرَ (saçı qırxdım). Şərtun cəmişun — qırxılmış saç. Hədisdə gəlmişdir: «إنْ رَأَيْتَ شاةً بخَبْتِ الجَمِيش» (Əgər Cəmiş səhrasında bir qoyun görsən). Xəbt — səhradır, cəmiş isə bitkisi olmayan yerdir. Və سنة جَموش (cəmüş il) — otu tamamilə qırxıb təmizləmiş ildir. Rühbə demişdir: «أو كاحتلاق النُّورَة الجميش» (Və ya qırxılmış nurə kimi qırxmaq). Və bu kökdən kənara çıxan sözlər: الجَمْش (əl-cəmş) — barmaq ucları ilə sağmaqdır. Və الجَمْش — səsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.350Z"
+}

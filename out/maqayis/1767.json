@@ -1,0 +1,17 @@
+{
+ "i": 1767,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زمخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 23,
+  "page_to": 23
+ },
+ "ar": "الزاء والميم والخاء ليس بأصل. قال الخليل: الزامخ الشّامخ بأنفه. والأنُوف الزُّمّخ: الطوال. وهذا إن كان صحيحًا فالأصل فيه الشين «شمخ».",
+ "az": "[زمخ] الزاء والميم والخاء ليس بأصل (Zə, mim və xa əsl deyil). قال الخليل: الزامخ الشّامخ بأنفه (Xəlil dedi: əz-zamix burunu ilə təkəbbürlənəndir). والأنُوف الزُّمّخ: الطوال (Və əl-unuf əz-zumməh: uzun burunlulardır). وهذا إن كان صحيحًا فالأصل فيه الشين «شمخ» (Və əgər bu səhihdirsə, onda onun əsli şin hərfi ilə olan «şəməx»dir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:57.983Z"
+}

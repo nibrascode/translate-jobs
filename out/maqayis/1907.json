@@ -1,0 +1,17 @@
+{
+ "i": 1907,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 95,
+  "page_to": 96
+ },
+ "ar": "السين واللام والفاء أصلٌ يدلُّ على تقدُّم وسبْق. من ذلك السلَف: الذين مضَوا. والقومُ السُّلاّف: المتقدِّمون. والسُّلَاف: السائل من عصير العنب قبل أن يُعصَر. والسُّلْفة: المعجَّل من الطَّعام قبل الغَدَاء.\nوالسّلوف: الناقة تكون فى أوائل الإبل إذا وَرَدَت. ومن الباب السَّلَف فى البيع، وهو مالٌ يقدّم لما يُشترى نَساءً (١). وناس يسمُّون القَرض السّلَف، وهو ذاك القياسُ لأنَّه شئ يُقدَّم بعوض يتأخّر.\nومن غير هذا القياس السِّلْف سِلْف الرّجال، وهما اللذان يتزوّج هذا أُخْتاً وهذا أُخْتاً. وهذا قياس السَّالفتين، وهما صفحتا العُنق، هذه بحذاء هذه.\nومما شذَّ عن البابين السَّلْف وهو الجراب. ويقال إنّ القلفة تسمَّى سَلْفا (٢).\nومنه أسْلفتُ الأرضَ للزَّرْع (٣)، إِذا سوَّيتها. وممكن أن يكون هذا من قياس الباب الأوّل؛ لأنه أمرٌ قد تقدّم فى إصلاحه.",
+ "az": "[سلف] (S-L-F). Sin, lam və fa irəli keçməyə və öncəliyə dəlalət edən tək bir kökdür. «السلف» (əs-sələf) - keçmişdə qalanlardır. «القومُ السُّلاّف» (əs-süllaf) - öndə gedənlərdir. «السُّلَاف» (əs-süləf) - üzüm sıxılmamışdan əvvəl ondan süzülən şirədir. «السُّلْفة» (əs-sülfə) - nahardan əvvəl tələsik yeyilən yeməkdir. «السّلوف» (əs-səluf) - suvarılmağa gəldikdə dəvələrin önündə olan dəvədir. Bu qapıdan olan «السَّلَف» (əs-sələf) - ticarətdə, sonradan alınacaq mal üçün öncədən verilən puldur (١). Bəzi insanlar borca da «السّلَف» (əs-sələf) deyirlər, bu da həmin qiyasdandır, çünki bu, sonradan əvəzi ödəniləcək bir şeyin öncədən verilməsidir. Bu qiyasdan kənar olan «السِّلْف» (əs-silf) - ər-arvadın qardaşlarıdır, yəni biri bir bacı ilə, digəri isə digər bacı ilə evlənənlər. Bu, «السَّالفتين» (əs-saləfəteyn) qiyasındandır, bunlar boynun iki tərəfidir, biri digərinin qarşısındadır. Bu iki qapıdan kənar olan «السَّلْف» (əs-səlf) - torbadır. Deyilir ki, sünnət dərisi də «سَلْفا» (səlf) adlanır (٢). Buradan «أسْلفتُ الأرضَ للزَّرْع» (Torpağı əkin üçün düzəltdim) (٣) ifadəsi gəlir. Mümkündür ki, bu, birinci qapının qiyasındandır; çünki bu, onun islahında öncədən görülən bir işdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:46:05.009Z"
+}

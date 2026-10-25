@@ -1,0 +1,17 @@
+{
+ "i": 596,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 427,
+  "page_to": 427
+ },
+ "ar": "الجيم [والحاء] والظاء كلمةٌ واحدة: جَحَظَت العينُ إِذا عظُمَتْ مُقْتَها وبرزَتْ.",
+ "az": "[جحظ] (Cim, [ha] və zə hərfləri tək bir kəlmədir: göz böyüyüb çıxıntılı olduqda جَحَظَت العينُ deyilir.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:44.168Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 466,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "توب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 357,
+  "page_to": 357
+ },
+ "ar": "التاء والواو والباء كلمةٌ واحدةٌ تدلُّ على الرُّجوع. يقال تَابَ مِنْ ذنبه، أى رَجَعَ عنه يتُوب إلى اللّه تَوبةً ومَتَاباً، فهو تائب. والتَّوْبُ التَّوبة. قال اللّه تعالى: ﴿وَقابِلِ اَلتَّوْبِ﴾.",
+ "az": "[توب] (tə-və-b) - Tə, vav və ba qayıdışa dəlalət edən tək bir kəlmədir. «تَابَ مِنْ ذنبه» — günahından döndü, Allaha tövbə etdi, o, tövbə edəndir (تائب). Ət-tovb (التَّوْبُ) — tövbə deməkdir. Uca Allah buyurur: ﴿وَقابِلِ اَلتَّوْبِ﴾ (mənaca tərcümə: Tövbəni qəbul edən) (Allah).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.997Z"
+}

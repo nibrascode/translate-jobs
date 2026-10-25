@@ -1,0 +1,17 @@
+{
+ "i": 195,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 205,
+  "page_to": 205
+ },
+ "ar": "الباء والخاء والراء أصلٌ واحد، وهى رائحةٌ أو ريحٌ تثُور.\nمن ذلك البُخَار، ومنه البَخور بفتح الباء. وكان ثعلبٌ يقول: على وزن فَعُول مثل البَرُود والوَجُور. فأمّا قولهم للسحائب التى تأتى قُبُلَ الصَّيف بنَاتُ بَخْر فليس من الباب، وذلك أنّ هذه الباء مبدَلة من ميم، والأصل مَخْرٌ. وقد ذُكِرَ قياسُه فى بابه بشواهِدِه.",
+ "az": "«بخر» (bəxər). Ba, xə və ra hərfləri qaldırılan qoxu və ya yel mənasını verən tək bir əsas kökdür. Bunlardan biri «البُخَار» (əl-buxar – buxar), digəri isə ba hərfinin fəthəsi ilə «البَخور» (əl-bəxur – buxur) sözüdür. Səhləb deyərdi ki, «البَرُود» (əl-bərud) və «الوَجُور» (əl-vəcur) kimi «فَعُول» (fəul) çəkisindədir. Qayınqabağı gələn buludlara gəldikdə isə, onların «بنات بَخْر» (bənatu bəxr) adlandırılması bu fəsildən deyil; çünki oradakı ba hərfi mim hərfi ilə əvəz olunmuşdur, əsli isə «مَخْر» (məxr) sözüdür. Onun qiyaslı tərəfi öz şahidləri ilə birlikdə öz fəslində qeyd olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:27:05.781Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2172,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شبق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 242,
+  "page_to": 242
+ },
+ "ar": "الشين والباء والقاف كلمةٌ واحدة: الشَّبَق، وهو شهوة النِّكاح.",
+ "az": "«شبق» (şəbəq). Şin, ba və qaf hərflərindən ibarət tək sözdür: الشَّبَق (əş-şəbəq) — cinsi ehtiras.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2190,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شحص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 250,
+  "page_to": 250
+ },
+ "ar": "الشين والحاء والصاد كلمةٌ واحدة، يقال إنّ الشحَص الشاةُ لا لبَنَ لها، ويقال هى التى لم يُنْزَ عليها قط. وفى كتاب الخليل:\nالشّحْصاء.",
+ "az": "[شحص] Şin, hə və sad hərfləri tək bir kəlmədir, deyirlər ki, «الشحَص» südü olmayan qoyundur, həmçinin deyirlər ki, o, heç vaxt erkək altına verilməyən (cütləşməyən) qoyundur. Xəlil'in kitabında «الشّحْصاء» yazılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:46.217Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2300,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صنو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 312,
+  "page_to": 312
+ },
+ "ar": "الصاد والنون والحرف المعتلّ أصلٌ صحيح يدلُّ على تقارُب بين شيئين، قرابةً أو مسافة. من ذلك الصِّنو: الشَّقيق. وعمُّ الرّجل صِنوُ أبيه. وقال الخليل، يقال فلانٌ صِنْوُ فلانٍ، إذا كان أخاه وشقيقَه لأمِّه وأبيه. والأصل فى ذلك النَّخْلتانِ تخرجان (١) من أصلٍ واحد، فكلُّ واحدة منهما على حيالها صِنوٌ، والجمع صِنوانٌ. قال اللّه تعالى: ﴿وَنَخِيلٌ صِنْوانٌ وَغَيْرُ صِنْوانٍ﴾. قال أبو زيد: ركِيَّتانِ صِنْوانِ، وهما المتقاربتان حتى لا يكونَ بينهما من تقارُبهما حَوْض.\nومما شذَّ عن هذا الأصل الصِّنْو: مثل الرّدْهَة تُحفَر فى الأرض، وتصغيره صُنَىٌّ. قالت ليلى:\nأنابِغَ لم تَنْبَغْ ولم تكُ أوَّلَا … وكنْتَ صُنَيًّا بين صُدَّيْن مَجْهَلا (٢)",
+ "az": "«صنو» (Sadi, nun və zəif hərf) - iki şey arasındakı yaxınlığa, qohumluğa və ya məsafəyə dəlalət edən səhih bir kökdür. Bunlardan biri «الصِّنو» (qardaş, tay) sözüdür. Kişinin əmisi atasının «صِنو»sudur. Xəlil demişdir: Filan kəs filankəsin «صِنْو»sudur dedikdə, onun ata bir ana bir qardaşı və tayı olması qəsd edilir. Bunun əsli bir kökdən çıxan iki xurma ağacıdır ki, hər biri ayrıca bir «صِنو»dur, cəmi isə «صِنوانٌ» gəlir. Uca Allah buyurmuşdur: ﴿وَنَخِيلٌ صِنْوانٌ وَغَيْرُ صِنْوانٌ﴾ (mənaca tərcümə: Xurma ağacları vardır ki, kökləri bir olanlar da var, ayrı olanlar da). Əbu Zeyd demişdir: İki quyu «صِنوانِ»dir, yəni o qədər bir-birinə yaxındır ki, aralarında hətta su hövzəsi (sığınacaq) belə yoxdur. Bu kökdən istisna edilən «الصِّنْو» isə yerdə qazılan çuxura bənzər şeydir, kiçiltmə forması isə «صُنَىٌّ»-dur. Leyli demişdir: Ey Nəbiğə, sən istədiyinə nail olmadın və birinci də olmadın... Sən iki dağ silsiləsi (çökəkliyi) arasında tanınmayan bir «صُنَيّ» (önəmsiz bir şey) idin (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.744Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 903,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حفث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 84,
+  "page_to": 84
+ },
+ "ar": "الحاء والفاء والثاء شئ يدلُّ على رخاوةٍ ولين. يقال حَفِثُ الكرِشِ لِفَحِثِها (١). والحُفَّاث: حية لا تضرّ ولا تُخَاف. قال:\nأيُفايِشُونَ وقد رأوا حُفّاثَهم … قد عَضَّهُ فقَصَى عليه الأشجعُ (٢)\nويقال للرجُل إذا غضب: «قد احرنْفَش حُفَّاثُه».",
+ "az": "«حفث» (həfəc): Haa, fa və sə yumşaqlığa və incəliyə dəlalət edən bir şeydir. Deyilir: «حَفِثُ الكرِشِ لِفَحِثِها» (Həfisül-kərişi li-fəhisihə — qarın yumşaqdır, çünki o, yumşaqdır). «الحُفَّاث» (əl-hüffəss) — zərər verməyən və qorxulmayan ilan. O demişdir: «أيُفايِشُونَ وقد رأوا حُفّاثَهم … قد عَضَّهُ فقَصَى عليه الأشجعُ» (Öyünürlərmi, halbuki onlar gördülər ki, onların hüffass ilanını dişlədi, sonra Əşcə qəbiləsi onu bitirdi). Kişi qəzəbləndiyi zaman deyilir: «قد احرنْفَش حُفَّathsُه» (Qəd-hrənfəşə hüffassuhu — onun hüffassı qabardı).",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:02:08.982Z"
+}

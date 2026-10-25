@@ -1,0 +1,17 @@
+{
+ "i": 2135,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شوب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 225,
+  "page_to": 225
+ },
+ "ar": "الشين والواو والباء أصلٌ واحد، وهو الخَلْط. يقال:\nشُبْتُ الشئَ أشوبُه شَوباً. قال أهلُ اللُّغة: وسمِّى العَسَل شَوباً، لأنَّه كان عندهم مِزاجاً لغيره من الأشربة. والشِّياب: اسمٌ لما يُمزَج به. ويقولون: ما عنده شوبٌ ولا رَوْب. فالشَّوب: العسَل. والرّوب: اللبن الرائب.",
+ "az": "[شوب] (şəvəbə) — şin, vav və ba tək bir əsasdır, o da qarışdırmaqdır. Deyilir: «شُبْتُ الشئَ أشوبُه شَوباً» (şeyi qarışdırdım, qarışdırıram, qarışdırmaq). Dilçilər demişlər: Bal «شَوب» (şəvb) adlandırılmışdır, çünki o, başqa içkilər üçün qatışıq (mizac) idi. «الشِّياب» (şiyab) — qarışdırılan şeyin adıdır. Deyirlər: «ما عنده شوبٌ ولا رَوْب» (onun yanında nə bal var, nə də qatıq). «الشَّوب» (şəvb) — baldır. «الرّوب» (rovb) — qatıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:53:49.354Z"
+}

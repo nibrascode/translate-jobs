@@ -1,0 +1,17 @@
+{
+ "i": 1277,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 292,
+  "page_to": 293
+ },
+ "ar": "الدال واللام أصلٌ يدلُّ على طولٍ وتَهدُّل فى سواد. فالأدلم من الرِّجال: الطويل الأسود؛ وكذلك هو من الجِمال والجِبال. وزعم ناسٌ أن الدَّيلم: سوادُ اللَّيل وظُلْمته. فأمّا قول عنترة:\n* زَوْرَاءَ تَنْفِرُ عَنْ حِيَاضِ الدَّيْلَمِ (٢) *\nفيقال إنّهم الأعداء. فإن كان كذا فالأعداء يُوصَفون بهذا. قال الأعشى:\n* هم الأعداءُ فالأكبادُ سُودُ (٣) *\nوقال قومٌ: الديلم مكانٌ أو قبيلٌ. ويقال: جاء بالدَّيْلَم، أى بالدَّاهية.\nوهذا تشبيهٌ. والدَّلَمُ: الهَدَلُ فى الشَّفَة.",
+ "az": "«دلم» (dəlum): Dal və lam qara rəngdə uzunluğa və sallanmağa dəlalət edən bir əsasdır. Kişilərdən «الأدلم» (əl-ədləm) — uzun boylu, qara rəngli deməkdir; dəvələrdən və dağlardan da o cürdür. Bəzi adamlar iddia etmişlər ki, «الدَّيلم» (əd-deyləm) — gecənin qaralığı və qaranlığıdır. Amma Əntərənin bu sözünə gəlincə:\n* زَوْرَاءَ تَنْفِرُ عَنْ حِيَاضِ الدَّيْلَمِ (٢) *\n(Deyləmin hovuzlarından hürküb qaçan zəvra — əyri dayça...)\nDeyilir ki, onlar düşmənlərdir. Əgər belədirsə, deməli, düşmənlər bu cür vəsf olunurlar. Əşə aşıq demişdir:\n* هم الأعداءُ فالأكبادُ سُودُ (٣) *\n(Onlar elə düşmənlərdir ki, qaraciyərləri qaradır).\nBəzi qövmlər demişdir: Deyləm bir yer və ya tayfadır. Həmçinin deyilir: «جاء بالدَّيْلَم» (cəə bi əd-deyləm) — yəni bəla ilə gəldi.\nBu, bir bənzətmədir. «الدَّلَمُ» (əd-dələm) — dodağın sallanmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

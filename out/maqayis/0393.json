@@ -1,0 +1,17 @@
+{
+ "i": 393,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلسم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "ومن ذلك قولهم (بَلْسَمَ) الرَّجُل كَرَّه وجْهَه. فالميم فيه زائدة، وإنما هو من المُبْلِس، وهو الكئيب الحزِين المتندِّم. قال:\nوفى الوُجوهِ صُفْرَةٌ وإبْلَاسْ (٤) *",
+ "az": "[بلسم] (Bə-lam-sin-mim) Buradan onların «بَلْسَمَ» (bəlsəmə) ifadəsi gəlir, kişi üzünü turşutdu. «م» (mim) hərfi artıqdır, bu «المُبْلِس» (əl-mublis - kədərli, peşman) kəlməsindəndir. Dedi: Və fil-vucuhi sufrətun və ibləs (4) (Üzlərdə sarılıq və kədər var).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

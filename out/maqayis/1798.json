@@ -1,0 +1,17 @@
+{
+ "i": 1798,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 38,
+  "page_to": 38
+ },
+ "ar": "الزاء والواو واللام أصلٌ واحدٌ يدلُّ على تنحى الشئٍ عن مكانه. يقولون: زال الشئٍ زَوَالاً، وزالت الشمس عن كبد السماء تَزُول.\nويقال أزَلْتُهُ عن المكان وزوّلته عنه. قال ذو الرمة:\nبيضاءَ لا تَنحاشُ مِنّا وأُمُّها … إذا ما رأتْنا زِيل منا زَوِيلُها (١)\nويقال إنّ الزّائلة كلُّ شئ يتحرك. وأنشد:\nوكنت امرأً أرمى الزّوائِلَ مَرَّةً … فأصبحْتُ قد ودَّعْت رَمْىَ الزّوائِل (٢)\nومما شذّ عن الباب قولُهم: شئٌ زوْل، أى عَجَب. وامرأةٌ زَولة، أى خفيفة.\nوقال الطرِمّاح:\nوألقَتْ إلىَّ القولَ منهنَّ زَوْلةٌ … تُخَاضِنُ أو ترنُو لقول المُخاضِنِ (٣)",
+ "az": "[زول] (zul). الزاء (ز) və الواو (و) və اللام (ل) bir şeyin öz yerindən uzaqlaşmasına dəlalət edən bir tək əsasdır. Deyirlər: زال الشئٍ زَوَالاً (şey zaval tapdı, yox oldu), və günəş səmanın ortasından تَزُول (meyl edib getdi). Və deyilir: أزَلْتُهُ عن المكان (onu yerdən uzaqlaşdırdım) və زوّلته عنه (onu oradan uzaqlaşdırdım). Zü-ər-Rummə demişdir: «بيضاءَ لا تَنحاشُ مِنّا وأُمُّها … إذا ما رأتْنا زِيل منا زَوِيلُها» (1) (Ağ bədənli qadın ki, bizdən qaçmır, onun anası da... bizə baxdıqda ondan qorxusu və tərəddüdü uzaqlaşardı). Və deyilir ki, الزَّائلة (zailə) hərəkət edən hər bir şeydir. Şair istidlal etmişdir: «وكنت امرأً أرمى الزّوائِلَ مَرَّةً … فأصبحْتُ قد ودَّعْت رَمْىَ الزّوائِل» (2) (Mən elə bir adam idim ki, bir zamanlar hərəkət edən heyvanları ovlayırdım... lakin indi hərəkət edənləri hərəkətli hədəfə alıb atəş açmağa vida etdim). Bu fəsildən kənara çıxan (şaz) sözlərdən biri də onların شئٌ زوْل (qəribə şey) — yəni təəccüblü şey demələridir. Və امرأةٌ زَولة (zəvlə qadın) — yəni yüngülvari, oynaq qadın deməkdir. Ət-Tirimmah demişdir: «وألقَتْ إلىَّ القولَ منهنَّ زَوْلةٌ … تُخَاضِنُ أو ترنُو لقول المُخاضِنِ» (3) (Onlardan çevik bir qadın mənə söz atdı... ya işvə edir, ya da işvə edənin sözünə baxır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.435Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 369,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بعثق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 330,
+  "page_to": 330
+ },
+ "ar": "ومن ذلك (البَعْثَقَةُ) وتفسيره خُروج الماءِ من الحَوْض. يقال تَبَعْثَق الماءِ من الحوض إذا انكسرتْ منه ناحيةٌ فخرَجَ منها. وذلك منحوتٌ من كلمتين:\nبَعَقَ وبثق، يقال انبعق الماء تَفتّح - وقد فُسِّر فى الثلاثىّ - وبثَقْتُ الماءَ، وهو البثق، وقد مضى ذِكرُه.",
+ "az": "[بعثق] (Bə-əyn-sə-qaf) Buradan «البَعْثَقَةُ» (əl-bə’səqə) gəlir, izahı suyun hovuzdan çıxmasıdır. Deyilir ki, «تَبَعْثَق الماء» (təbə’səqəl-məu - su hovuzdan axdı), əgər hovuzun bir tərəfi qırılıb su oradan çıxarsa. Bu, iki kəlmədən nəht edilmişdir: «بَعَقَ» (bəəqə) və «بثق» (bəsəqə). Deyilir ki, «انبعق الماء» (inbəəqəl-məu - su açıldı, yarıldı) - bu üç hərflilərdə izah edilmişdir - və «بثَقْتُ الماءَ» (bəsəqtul-məə - suyu axıtdım), bu da «بثق» (bəsq) deməkdir, onun izahı artıq keçmişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

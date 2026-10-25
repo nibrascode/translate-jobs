@@ -1,0 +1,17 @@
+{
+ "i": 2284,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 303,
+  "page_to": 304
+ },
+ "ar": "الصاد واللام والدال أصلٌ واحدٌ صحيح، يدلُّ على صلابةٍ ويُبْس. من ذلك الحجر الصَّلْد، وهو الصُّلْب. ثم يُحمَل [عليه] قولُهم: صَلِدَ\nالزّندُ، إذا لم يُخرِج نارَه. وأصْلَدته أنا. ومنه الرّأْس الصَّلْد الذى لا يُنبِت شعراً، كالأرض التى لا تنبت شيئاً. قال رؤبة:\nبرّاقَ أصلادِ الجبينِ الأجلهِ (١)\nويقال للبخيل أصْلَد، فهو إمّا من المكان الذى لا يُنبت، أو الزَّنْد الذى لا يُورِى. ويقال ناقةٌ صلودٌ، أى بكِيئَةٌ قليلة اللّبَن غليظةُ جلدِ الضَّرع. ومنه الفَرسُ الصَّلُود، وهو الذى لا يَعرَق. فإِذا نُتِجت النّاقةُ ولم يكن لها لبنٌ قيل ناقة مصلادٌ.",
+ "az": "[صلد] (s-l-d): Sad, lam və dal sərtliyə və quruluğa dəlalət edən səhih tək bir əsas kökdür. Bunlardandır الحجر الصَّلْد (sərt daş), o da صُلْب (sulb, sərt) deməkdir. Sonra onların صَلِدَ الزّندُ (çaxmaq daşı od çıxarmadı) sözü [ona] şamil edilir. Və أصْلَدته أنا (mən onu od çıxarmaz etdim). Bunlardandır الرّأْس الصَّلْد (tük bitirməyən baş), heç nə bitirməyən yer kimidir. Rübə demişdir: \"Alının sərt yerlərini parıldadan...\" (1) Xəsisə أصْلَد (əsləd) deyilir, o ya heç nə bitirməyən yerdəndir, ya da od çıxarmayan çaxmaq daşındandır. Deyilir ناقةٌ صلودٌ (sulud dişi dəvə) – xəsis, az südülü, əmcəyinin dərisi qalın olan dişi dəvədir. Bunlardandır الفَرسُ الصَّلُود (tərleməyən at), yəni tərleməyən atdır. Dişi dəvə bala doğduqda və südü olmadıqda ناقة مصلادٌ (mislad dişi dəvə) deyilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:08.475Z"
+}

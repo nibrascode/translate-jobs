@@ -1,0 +1,17 @@
+{
+ "i": 783,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 511,
+  "page_to": 511
+ },
+ "ar": "ومن ذلك قولهم للعُسِّ الضَّخْم (جُنْبُل) فهذا ممّا زيدت فيه النون كأنّه جَبَل، والجَبَل كلمة وجْهها التجمُّع. وقد ذكرناها.",
+ "az": "«جنبل» - Və buraya böyük kasa, qədəh mənasını verən عُسِّ الضَّخْم (üss əd-daxm) sözünə «جُنْبُل» (cünbül) deyilməsi daxildir. Bu, nun hərfinin artırıldığı sözlərdəndir, sanki o, dağ kimidir və جَبَل (cəbəl) də toplanma mənasını verən bir sözdür. Biz bunu artıq zikr etmişik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

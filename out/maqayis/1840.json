@@ -1,0 +1,17 @@
+{
+ "i": 1840,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 57,
+  "page_to": 57
+ },
+ "ar": "السين والغين أصلٌ يدلّ على دَرْج الشئ فى الشئ باضطرابٍ وحركة. من ذلك سَغْسَغْتُ رأسى بالدُّهْن، إذا روَّيته. قال الخليل وغيره:\nسغسغت الشَّئ فى التراب، إذا دحدحتَه فيه. وأما قولهم: تَسَغْسَغَت ثَنِيّته، فممكنٌ أن يكون من الإبدال، ومن الباب الذى قبل هذا.",
+ "az": "[سغ] (sə-ğə-hə): Sin və ğın hərfləri bir şeyin qarışıqlıq və hərəkətlə digər bir şeyin içərisinə daxil olmasını bildirən bir kökdür. Bunlardandır: «سَغْسَغْتُ رأسى بالدُّهْن» – başımı yağla islatdığım (suvarın) zaman. Xəlil və başqaları demişlər: «سغسغت الشَّئ فى التراب» – bir şeyi torpağın içində yumarlayıb gizlətdiyin zaman. Amma onların «تَسَغْسَغَت ثَنِيّته» (dişi laxladı) demələrinə gəldikdə, bu, hərflərin əvəzlənməsindən və bundan əvvəlki fəsildən olması mümkündür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:43.941Z"
+}

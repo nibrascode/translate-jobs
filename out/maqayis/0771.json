@@ -1,0 +1,17 @@
+{
+ "i": 771,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلعد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 509,
+  "page_to": 509
+ },
+ "ar": "ومن ذلك قولهم للصُّلب الشديد (جَلْعَدٌ) فالعين زائدة، وهو من الجَلَد وممكنٌ أنْ يكون منحوتًا من الجَلَعِ أيضاً، وهو البُروز؛ لأنه إذا كان مَكانًا صُلْبا فهو بارزٌ؛ لقلّةِ النبات به.",
+ "az": "«جلعد» - Və buraya bərk və sərt olan şeyə «جَلْعَدٌ» (cəlcəd) deyilməsi daxildir; eyn hərfi artıqdır (zayiddir), bu, جَلَد (cələd) sözündəndir. Həmçinin çıxıntı mənasını verən جَلَع (cələc) sözündən də nəht (birləşdirilib düzəldilmiş) olması mümkündür; çünki bir yer bərk olduqda, üzərində bitki az olduğundan o, qabarıq və aşkar olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.217Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2274,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صقر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 297,
+  "page_to": 297
+ },
+ "ar": "الصاد والقاف والرَّاء أُصَيل يدلُّ على وقع شئ بشدّة.\nمن ذلك الصَّقْر، وهو ضربُك الصَّخرةَ بمعولٍ، ويقال لِلمعْول الصَّاقُور. ويجوز أن يدخل فيه الهاء فيقال الصاقُورة.\nوالصَّقر هذا الطائرُ، وسمِّى بذلك لأنه يَصقُر الصّيد صقراً بقُوّة. وصَقَرات الشَّمس: شدّة وقْعها على الأرض. قال:\nإذا ذابت الشَّمسُ اتَّقى صَقَرانِها … بأفنانِ مَربوع الصَّريمة مُعْبِلِ (١)\nوحكى عن العرب (٢): جاء فلان بالصُّقَر والبُقَر، إذا جاء بالكذِب.\nفهذا شاذٌّ عن الأصل الذى ذكرناه. وكذلك الصَّاقورة فى شعر أميَّة بن أبى الصَّلْت (٣) من الشاذّ. ويقال إنّها السَّماء الثالثة. وما أحسب ذلك من صحيح كلام العرب. وفى شعر أميَّةَ أشياءُ. فأما الدِّبْس وتسميتُهم إيَّاه صَقْرًا فهو من كلام أهل المدَر، وليس بذلك الخالِص من لغة العرب.",
+ "az": "[صقر] (S-Q-R) — Sad, qaf və ra hərfləri bir şeyin şiddətlə dəyməsinə dəlalət edən kiçik bir kökdür.\n\nBunlardan biri الصَّقْر (səqr) — dəmirçi çəkici ilə qayanı vurmağındır. Çəkicə الصَّاقُور (saqur) deyilir. Ona he hərfini də əlavə edərək الصَّاقُورة (saquurə) demək də caizdir.\n\nVə səqr bu quşdur (şahin), bu ad ona görə verilmişdir ki, o, ovunu güclə vurub tutur. وصَقَرات الشَّمس (günəşin saqaratı): onun yerə şiddətli vurması. [Şair] demişdir:\nإذا ذابت الشَّمسُ اتَّقى صَقَرانِها … بأفنانِ مَربوع الصَّريمة مُعْبِلِ (١)\n(Günəş əriyəndə o, sərayein [iki şiddətli istinin] qabağını qoruyar... mərbuc bitkisinin budaqları ilə).\n\nƏrəblərdən rəvayət olunmuşdur (٢): جاء فلان بالصُّقَر والبُقَر (filan kişi yalanla gəldi).\n\nBu, qeyd etdiyimiz əsasdan şazdır. Eynilə Üməyyə ibn Əbi əs-Səltin şeirindəki صاقورة (saquurə) də şazdır (٣). Deyilir ki, o, üçüncü səmadır. Mən bunun ərəblərin səhih dilindən olduğunu güman etmirəm. Üməyyənin şeirində belə şeylər var. دبس (dibis) sözünə gəldikdə, onların ona səqr deməsi şəhər əhlinin dilindədir, ərəblərin xalis dilindən deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:47.389Z"
+}

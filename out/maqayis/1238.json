@@ -1,0 +1,17 @@
+{
+ "i": 1238,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دسق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 279,
+  "page_to": 279
+ },
+ "ar": "الدال والسين والقاف أُصَيلٌ يدلُّ على الامتلاء. يقال ملأت الحوضَ حَتَّى دَسِقَ، أى امتلأَ حتى ساح ماؤُهْ. والدَّيْسق: الحوض الملآنُ.\nويقال الدَّيْسَق: تَرَقْرُق السَّراب على الأرض.",
+ "az": "[دسق] «الدال والسين والقاف» (dal, sin və qaf) dolmağa dəlalət edən kiçik bir əsasdır. Deyilir: ملأت الحوضَ حَتَّى دَسِقَ (Hovuzu dolanadək doldurdum), yəni suyu daşıncaya qədər doldu. Və الدَّيْسق (deysəq): dolu hovuzdur. Və deyilir ki, الدَّيْسَق (deysəq): ilğımın yer üzündə dalğalanmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.370Z"
+}

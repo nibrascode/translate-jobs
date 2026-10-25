@@ -1,0 +1,17 @@
+{
+ "i": 1610,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 452,
+  "page_to": 453
+ },
+ "ar": "الراء والهاء والنون أصلٌ يدل على ثباتٍ شئٍ يُمسَك بحقّ أو غيره. من ذلك الرَّهْن: الشئُ بُرْهَن. تقول رهنَتْ الشئَ رهْناً؛ ولا يقال أرهَنْتُ. والشئ الرَّاهن: الثابت الدائم. ورَهَن لك الشئ: أقام وأرهنْتُه لك: أقمتُه. وقال أبو زيد: أرْهَنْتُ فى السَّلعة إرهاناً: غالَيْتُ فيها.\nوَهو من الغَلاء خاصَّة. قال:\n* عِيدِيَّةً أُرْهنَتْ فيها الدَّنانيرُ (٣) *\nوعبارة أبى عُبيدٍ فى هذا عبارة شاذّة. لكنّ ابن السكّيت وغيره قالوا:\nأُرْهِنَتْ أَسْلِفَتْ. وهذا هو الصَّحيح. قالوا كلُّهُم: أرهَنْتُ ولَدى إرهاناً:\nأخْطَرْتُهُمْ (١). فأمّا تسميتهم المهزُولَ من الناس [و] الإبلِ راهناً، فهو من الباب؛ لأنَّهم جعلوه كأنّه من هُزاله يثبُت مكانَه لا يتحرَّك. قال:\nإمَّا تَرَىْ جِسْمِىَ خَلاَّ قد رَهَنْ … هَزْلاً وما مجدُ الرِّجال فى السِّمَنْ (٢)\nيقال منه رَهَنَ رُهوناً.",
+ "az": "[رهن] \nRa, ha və nun hərflərindən ibarət olub hər hansı bir şeyin haqq və ya başqa bir səbəblə tutulub saxlanılmasındakı sabitliyə dəlalət edən bir əsasdır. Bunlardan biri الرَّهْن (girov) sözüdür — bu, girov qoyulan şeydir. Deyirsən: رهنَتْ الشئَ رهْناً (Şeyi girov qoydum); ارهنتُ (girov qoydum) deyilmir. Şeyin راهن (rahil, sabit) olması — sabit və davamlı olması deməkdir. ورَهَن لك الشئ (Şeyi sənin üçün girov qoydu və ya saxladı) — dayandı deməkdir. Əbu Zeyd demişdir: أرْهَنْتُ فى السَّلعة إرهاناً (Mal barəsində girov qoydum və ya qiymətini artırdım) — həmin malda qiyməti çox qaldırdım. Bu, xüsusilə bahalaşmaya aid edilir. O demişdir:\n* عِيدِيَّةً أُرْهنَتْ فيها الدَّنانيرُ ٣ *\nƏbu Ubeydin bu barədəki ifadəsi şaz (qeyri-adi) bir ifadədir. Lakin İbn əs-Sikkit və başqaları demişlər: أُرْهِنَتْ — أُسْلِفَتْ (avans olaraq verildi). Doğru olan da budur. Onların hamısı demişdir: أرهَنْتُ لَدى إرهاناً (Övladlarımı təhlükəyə atdım) — onları riskə məruz qoydum ١. İnsanlardan və dəvələrdən arıq düşmüş olanı راهن (hərəkətsiz, qıvrılıb qalan) adlandırmalarına gəldikdə isə, bu da həmin qrupdandır; ஏünki arıqlığından yerində sabit qalıb tərpənmədiyini nəzərə alaraq onu belə adlandırmışlar. O demişdir:\nإمَّا تَرَىْ جِسْمِىَ خَلاَّ قد رَهَنْ … هَزْلاً وما مجدُ الرِّجال فى السِّمَنْ ٢\nBuradan رَهَنَ رُهوناً (girov qaldı, hərəkətsiz qaldı) feili işlədilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:33:09.565Z"
+}

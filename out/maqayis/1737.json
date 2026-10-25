@@ -1,0 +1,17 @@
+{
+ "i": 1737,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زغب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 13,
+  "page_to": 13
+ },
+ "ar": "الزاء والغين والباء أُصَيْلٌ صحيحٌ، وهو الزّغَب، أوّلُ ما ينبت من الرِّيش. وقد يُزْغِبُ الكَرْمُ، بعد جَرْىِ الماءِ فيه.",
+ "az": "[زغب] (zəğb): Zay, ğın və ba hərfləri səhih kiçik bir kökdür, o da lələyin ilk bitəni olan «الزَّغَب» (zəğəb) – tümdür. Su axdıqdan sonra tənək də «يُزْغِبُ الكَرْمُ» (tənək tumurcuqlaya/tükcük verə bilər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

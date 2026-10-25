@@ -1,0 +1,17 @@
+{
+ "i": 1519,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 412,
+  "page_to": 412
+ },
+ "ar": "الراء والعين والصاد * فى معنى البابِ الذى قبلَه. فالرَّعْص الاضطراب. ويقال ارتعصت الحيّةُ: تلوَّت. قال:\nأنَى لا أسعَى إلى داعِيَّهْ … إلاّ ارتعاصاً كارتعاصِ الحيَّهْ (٣)\nويقال ارتعص الجَدْيُ، إذا طَفَرَ من النَّشاط.",
+ "az": "[رعص] (ra, ayn, sad) — əvvəlki fəslin mənasındadır. الرَّعْص (rəb) – titrəmə. Deyilir: ارتعصت الحيّةُ (irtəasəti l-həyyə) – ilan büküldü, titrədi. O demişdir: أنَى لا أسعَى إلى داعِيَّهْ … إلاّ ارتعاصاً كارتعاصِ الحيَّهْ (٣) (Mən çağıranımın çağırışına qaçmıram… ilanın titrəməsi kimi titrəmə istisna olmaqla). Və deyilər: ارتعص الجَدْيُ (irtəasə l-cədyu) – keçi balası oynaqlığından sıçradı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:50.331Z"
+}

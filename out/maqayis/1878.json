@@ -1,0 +1,17 @@
+{
+ "i": 1878,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سفد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 81,
+  "page_to": 82
+ },
+ "ar": "السين والفاء والدال ليس أصلاً يتفرّع منه. وإنّما فيه كلمتان متباينتان فى الظاهر، وقد يمكن الجمع بينهما من طريق الاشتقاق. من ذلك\nسِفاد الطَّائر، يقال سَفِد يَسْفَد، وكذلك التَّيس. والكلمة الأخرى السّفُّود، وهو معروف. قال النابغة:\nكأنَّه خارجاً من جَنب صَفحته … سَفُّود شَرْبٍ نَسُوه عند مفتأدِ (١)",
+ "az": "[سفد] السين والفاء والدال (sin, fa və dəl) törəyən bir əsas deyildir. Orada yalnız zahirən bir-birindən fərqli iki kəlmə vardır və onları etimologiya yolu ilə birləşdirmək mümkündür. Bunlardan biri: Quşun cütləşməsi olan «سِفاد الطَّائر» (sifad), «سَفِد يَسْفَد» (cütləşdi, cütləşir) deyilir, təkə də həmçinin. Digər kəlmə isə məlum olan «السَّفُّود» (şiş) sözüdür. Näbigə demişdir: كأنَّه خارجاً من جَنب صَفحته … سَفُّود شَرْبٍ نَسُوه عند مفتأدِ (١) (Sanki onun bədəninin yanından çıxmışdı... oduncaq yanında unutduqları içki məclisinin şişi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:54.003Z"
+}

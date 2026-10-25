@@ -1,0 +1,17 @@
+{
+ "i": 284,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بغى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 271,
+  "page_to": 272
+ },
+ "ar": "الباء والغين والياء أصلان: أحدهما طلب الشئ، والثانى جنس من الفساد. فمن الأوّل بغيت الشئ أبغيه إذا طلبته. ويقال بغيتك الشّئ إذا طلبته لك، وأبغيتك الشّئ إذا أعنتك على طلبه. والبغية والبغية الحاجة.\nوتقول: ما ينبغى لك أن تفعل كذا. وهذا من أفعال المطاوعة، تقول بغيت فانبغى، كما تقول كسرته فانكسر.\nوالأصل الثانى: قولهم بغى الجرح، إذا ترامى إلى فساد، ثم يشتقّ من هذا ما بعده (١). فالبغىّ الفاجرة، تقول بغت تبغى بغاء، وهى بغىّ (٢). ومنه أن يبغى الإنسان على آخر. ومنه بغى المطر، وهو شدّته ومعظمه. وإذا كان ذا بغى فلا بدّ أن يقع منه فساد.\nقال الأصمعى: دفعنا بغى السّماء خلفنا (٣)، أى معظم مطرها.\nوالبغى: الظلم. قال:\nولكنّ الفتى حمل بن بدر … بغى والبغي مرتعه وخيم (٤)\nوربما قالوا لاختيال الفرس ومرحه بغى.\nقال الخليل: ولا يقال فرس باغ.",
+ "az": "[بغى] الباء، الغين və الياء — iki əsas kökə malikdir: biri bir şeyi tələb etmək, ikincisi isə bir növ azğınlıqdır. Birincidən: «بغيت الشئ أبغيه» — bir şeyi axtardım, tələb etdim deməkdir. Deyirsən: «بغيتك الشّئ» — sənin üçün bir şeyi tələb etdim, «أبغيتك الشّئ» — isə onu axtarmaqda sənə kömək etdim deməkdir. «البغية» və «البغية» ehtiyac deməkdir. Deyirsən: «ما ينبغى لك أن تفعل كذا» — sənə belə etmək yaraşmaz. Bu, tabelik fellərindəndir, deyirsən: «بغيت فانبغى» (istədim və yerinə düşdü), necə ki, «كسرته فانكسر» (sındırdım və sındı) deyirsən. İkinci əsas: onların «بغى الجرح» (yarası azğınlaşdı, pisləşdi) demələridir, yəni yara fəsad törətməyə doğru irəlilədi, sonra bundan sonrakı mənalar törədi (١). «البغىّ» isə əxlaqsız qadındır, deyirsən: «بغت تبغى بغاء» və o, «بغىّ»-dir (٢). Buradan insanın başqasına zülm etməsi, azğınlıq etməsi mənaları da gəlir. Həmçinin yağışın «بغى» etməsi — onun şiddəti və qüvvətli olmasıdır. Əgər bir şeydə azğınlıq varsa, ondan mütləq fəsad törəyəcəkdir. Əsməi demişdir: «دفعنا بغى السّماء خلفنا» — yəni səmanın güclü yağışını arxada qoyduq (٣). «البغى» — zülm deməkdir. Şair demişdir: Lakin gənc Həml ibn Bədr azğınlıq etdi… azğınlığın da aqibəti pisdir (٤). Bəzən atın lovğalanması və oynaqlığına da azğınlıq («بغى») demişlər. Xəlil demişdir: «فرس باغ» (azğın at) deyilmir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

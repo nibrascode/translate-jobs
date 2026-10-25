@@ -1,0 +1,17 @@
+{
+ "i": 136,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أنث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 144,
+  "page_to": 144
+ },
+ "ar": "وأما الهمزة والنون والثاء فقال الخليل وغيره: الأُنثى خلاف الذكر. ويقال سيف [أنِيثُ (١)] الحديدِ، إذا كانت حديدته أُنثى (٢). والأُنثَيانِ:\nالخُصيتَان. والأُنْثَيانِ أيضاً: الأُذُنانِ. قال:\nوكنَّا إذا الجَبَّار صَعَّر خدَّه … ضربناه تحتَ الانْثَيينِ على الكَرْدِ (٣)\nوأرضٌ أنِيثَةٌ: حسنَة النَّبات.",
+ "az": "[أنث] (Ə-N-S̱)\nHəmzə, nun və s̱a hərflərinə gəlincə, əl-Xəlil və başqaları demişlər: «الأُنثى» (qadın/dişi) — «الذَّكَر» (kişi/erkək) sözünün əksidir. Dəmiri yumşaq olduqda «سيف أنِيثُ الحديدِ» (dəmiri yumşaq olan qılınc) deyilir, çünki onun dəmiri «أُنثى» (yumşaq, dişi) kimidir. «الأُنثَيانِ» — iki xaya deməkdir. «الأُنْثَيانِ» həmçinin iki qulaq mənasına da gəlir. Şair demişdir:\nوكنَّا إذا الجَبَّار صَعَّر خدَّه … ضربناه تحتَ الانْثَيينِ على الكَرْدِ\n(Biz təkəbbürlü zülmkar yanağını çevirdikdə, onu iki qulağının altından ensəsinə vurardıq).\n«أرضٌ أنِيثَةٌ» isə — bitkisi gözəl, münbit torpaqdır.",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T00:21:39.493Z"
+}

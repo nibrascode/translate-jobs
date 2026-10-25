@@ -1,0 +1,17 @@
+{
+ "i": 1453,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الراء والتاء ليس أصلاً، لكنَّهم يقولون: الرُّتَّة: العَجَلة فى الكلام. ويقال هى الحُكْلَة فيه. ويقولون: الرُّتُوت: الخنازير. وقال ابنُ الأعرابىّ: الرَّتُّ: الرئيس؛ والجمع رُتوتٌ. وكل هذا فممَّا ينبغى أن يُنظَر فيه.",
+ "az": "«رت» — را və ta [hərfləri] əsl deyil, lakin deyirlər ki, الرُّتَّة (əرتَّة) — nitqdə tələsiklikdir. Həmçinin deyirlər ki, o, nitqdəki çətinlik və pəltəklikdir (الحُكْلَة). Deyirlər ki, الرُّتُوت (əرتوت) — donuzlardır. İbn əl-Ərəbi demişdir: الرَّتُّ (əرت) — başçıdır; cəmi isə رُتُوتٌ (rutut) gəlir. Bütün bunlar üzərində düşünülməli olanlardandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:24.395Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1594,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رنع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 445,
+  "page_to": 445
+ },
+ "ar": "الراء والنون والعين كلمةٌ واحدة صحيحة، وهى المَرْنَعة لِأَصْواتٍ تكون لَعِباً ولَهْوا. قاله الفرّاء وقال أبو حاتم: رنَعَ الحَرْث، إذا احتبَس الماءُ عنه فضَمَر. وفيه نظر.",
+ "az": "[رنع] (rənə) - راء، نون və عَيْن hərfləri düzgün və tək bir kəlmədir, o da oyun və əyləncə üçün çıxarılan səslərə verilən «المَرْنَعة» (əl-mərnəh) sözüdür. Bunu Fəra demişdir. Əbu Hatim isə demişdir: «رنَعَ الحَرْث» (rənəə əl-harsu) – əkinə su gəlmədi və o büzüşdü. Bunda nəzər (araşdırma) vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

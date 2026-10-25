@@ -1,0 +1,17 @@
+{
+ "i": 1150,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 225,
+  "page_to": 226
+ },
+ "ar": "الخاء والواو والتاء أصلٌ واحد يدلُّ على نفاذٍ ومرور بإِقدامٍ. يقال رجُلٌ خَوّاتٌ، إذا كان لا يبالِى ما رَكِبَ من الأمور. قال:\nلا يَهْتَدِى فيه إلا كلُّ منصِلتٍ … من الرِّجال زَمِيعِ الرَّأْىِ خَوّاتِ (١)\nهذا هو الأصل. ثمّ يقال خَاتَت العُقَاب، إذا انقضَّت؛ وهى خائتة. قال أبو ذؤيب:\nفألقَى غِمْدَهُ وهَوَى إليهم … كما تَنْقَضُّ خائتةٌ طَلُوبُ (٢)\nويقال: ما زالَ الذِّئبُ يَخْتاتُ الشّاةَ بعد الشّاة، أى يَخْتِلُها ويَعدُو عليها.\nفأمَّا ما حكاه ابن الأعرابى من قولهم خاتَ يَخُوتُ إذا نَقَض عهدَه، فيجوز أن يكون من الباب، كأنّه نَقَض ومرَّ فى نَهْجِ غَدْره. ويجوز أن يكون التّاءُ مبدلة من سين، كأنَّه خاس، فلما قُلبت السين تاءً غُيِّر البناء (٣) من يَخِيس إلى يَخُوت.\nومن ذلك خاتَ الرّجلُ وأنْفَضَ، إذا ذَهَبَتْ مِيرتُه. وهو من السين.\nوكذلك خات الرّجُل إذا أسنَّ. فأمّا قولهم إنّ التَّخوُّتَ التنقُّص فهو عندنا من باب الإبدال، إمَّا أن يكون من التخوُّن أو التخوّف (٤)، وقد ذُكِرا فى بابهما.\nويقال فلانٌ يتخوَّتُ حديثَ القومِ ويختاتُ، إذا أَخَذَ منه وتَحَفّظ.\nومن الباب الأول هم يَخْتَاتونَ اللَّيل، أى يسِيرون ويَقطَعون.",
+ "az": "[خوت] الخاء والواو والتاء أصلٌ واحد (Xar, vav və ta bir əsasdır) — irəliləyişlə keçib getməyə və nail olmağa dəlalət edir. Deyilir: kişi xəvvatdır (رجل خَوّاتٌ) — hansı işə atılmasına əhəmiyyət verməyən kəs. O demişdir: لا يَهْتَدِى فيه إلا كلُّ منصِلتٍ … من الرِّجال زَمِيعِ الرَّأْىِ خَوّاتِ (١) (Orada yalnız hər bir qətiyyətli, möhkəm rəyli və qoçaq kişilərdən başqa heç kəs yol tapa bilməz). Bu, əsasdır. Sonra deyilir: qartal xatət (خَاتَت العُقَاب) — süzülüb endikdə; o, xaitədir (خائتة). Əbu Züəyb demişdir: فألقَى غِمْدَهُ وهَوَى إليهم … كما تَنْقَضُّ خائتةٌ طَلُوبُ (٢) (Qınınyı atdı və onlara tərəf şığıdı... ov axtaran süzülücü qartalın şığıdığı kimi). Və deyilir: Canavar qoyun ardınca qoyun xəttat edirdi (ما زالَ الذِّئبُ يَخْتَاتُ الشّاةَ بعد الشّاة) — yəni onu hiylə ilə ovlayır və üzərinə hücum edir. İbn əl-Ərabinin «xatə yəxutu (خاتَ يَخُوتُ)» — əhdini pozdu sözünə gəldikdə, mümkündür ki, bu, həmin babdandır, elə bil o, əhdini pozmuş və xəyanət yolu ilə getmişdir. Həm də mümkündür ki, ta hərfi sin hərfindən əvəz olunmuşdur, elə bil o, xəsə (خاس) idi, sin hərfi ta-ya çevrildikdə isə bina (kəlmənin quruluşu) yəxisu-dan yəxutu-ya dəyişdirildi (3). Və bundan: kişi xatə və ənfədə (خاتَ الرّجلُ وأنْفَضَ) — azuqəsi tükəndi. Bu, sin həndəndəndir. Həmçinin kişi xatə olduqda — qocaldı. Onların «ət-təxuvvut (التَّخوُّتُ) — əskiltməkdir» demələrinə gəldikdə, o, bizə görə ibdal (əvəzetmə) babındandır; ya təxuvvun (التَّخوُّن) sözündəndir, ya da təxuvvuf (التَّخوُّف) sözündəndir (4) və onlar öz bablarında zikr olunmuşlardır. Və deyilir: Filankəs qövmün hədisini təxuvvət və xətat edir (يتخوَّتُ حديثَ القومِ ويختاتُ) — yəni ondan götürür və yadda saxlayır. Birinci babdandır: Onlar gecəni xəttat edirlər (يَخْتَاتونَ اللَّيل) — yəni gedir və yolu qət edirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

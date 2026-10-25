@@ -1,0 +1,17 @@
+{
+ "i": 1622,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "روم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 462,
+  "page_to": 462
+ },
+ "ar": "الراء والواو والميم أصلٌ يدلُّ على طلبِ الشَّئ. ويقال رُمْتُ الشّئَ أَرُومُه رَوْماً. والمَرَام: المَطْلب. قال ابنُ الأعرابىّ: يقال رَوَّمتُ فلاناً وبفُلانِ، إذا جعلته يَرومُ [الشّئَ (٤)] ويطلبه.",
+ "az": "[روم] (Rə, vau və mim) — bir şeyi tələb etməyə dəlalət edən əslidir. Deyilir: «رُمْتُ الشّئَ أَرُومُه رَوْماً» (şeyi istədim). Əl-mərəm — tələb olunan şeydir. İbn əl-Ərəbi demişdir: «رَوَّمتُ فلاناً وبفُلانِ» — filankəsi şeyləri tələb etməyə və axtarmağa vadar etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:33:59.185Z"
+}

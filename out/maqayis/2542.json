@@ -1,0 +1,17 @@
+{
+ "i": 2542,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طيش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 437,
+  "page_to": 437
+ },
+ "ar": "الطاء والياء والشين كلمةٌ واحدة، وهى الطَّيش والخِفّة.\nوطاش السَّهم من هذا، إذا لم يُصِبْ، كأنَّه خفّ وطاش وطار.",
+ "az": "[طيش] (T-Y-Sh): Ta, ya və şin hərfləri bir kəlimədir, o da الطَّيش (səfehlik) və yüngüllükdür. Oxun طاش (hədəfdən yayındı) olması da bundandır, əgər dəyməzsə, sanki yüngülləşdi, yayındı və uçdu.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:11:32.879Z"
+}

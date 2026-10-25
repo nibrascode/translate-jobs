@@ -1,0 +1,17 @@
+{
+ "i": 2218,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 259,
+  "page_to": 260
+ },
+ "ar": "الشين والراء والصاد ما أحسب فيه شيئاً * صحيحاً، لأنِّى لا أرى قياسَه مطّرِداً. على أنًّهم يقولون إن الشِّرْصَتَيْن (٥): ناحيتا النّاصية\nمما رقّ فيه الشَّعَر. ويقال لكلِّ ضخمٍ رِخْو: شِرْواص (١). ويقال إنّ الشّرَص الغَلْظ من الأرض.",
+ "az": "«شرص» (şərs). Şin, ra və sad köklü sözdə səhih bir şey olduğunu güman etmirəm*, çünki onun qiyasının müntəzəm olduğunu görmürəm. Lakin onlar deyirlər ki, «الشِّرْصَتَانِ» (əl-şirətan) (5) — saçların incəldiyi yerdə alnın hər iki tən yarı yanlarıdır. Hər bir iri və yumşaq olan şeyə «شِرْواص» (şirvas) (1) deyilir. Həmçinin deyirlər ki, «الشَّرَصُ» (əş-şərəc) — torpağın sərt və qaba yeridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.965Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1015,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حجف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 140,
+  "page_to": 140
+ },
+ "ar": "الحاء والجيم والفاء كلمةٌ واحدة لا قياس، وهى الحَجَفَة، وهى الترس الصَّغير يُطارَق بين جِلْدين وتُجعَل منهما حَجَفة. والجَمْع حَجَفٌ. قال:\nأيمنَعُنا القومُ ماءَ الفرات … وفينا السُّيوفُ وفينا الحَجَفْ (٢)",
+ "az": "«حجف» — الحاء والجيم والفاء كلمةٌ واحدة لا قياس، وهى الحَجَفَة، وهى الترس الصَّغير يُطارَق بين جِلْدين وتُجعَل منهما حَجَفة. والجَمْع حَجَفٌ. قال: أيمنَعُنا القومُ ماءَ الفرات … وفينا السُّيوفُ وفينا الحَجَفْ (٢) (Həft, cim və fa hərfləri tək bir kəlmə olub qiyaslı deyil. O da «həcəfə»dir, yəni iki dəri arasında qat-qat tikilən və onlardan həcəfə düzəldilən kiçik qalxan. Cəmi həcəftir. Şair demişdir: Fərat suyunu tayfa bizə qadağanmı edəcək, halbuki içimizdə qılınclar və qalxanlar olduğu halda?)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:38.624Z"
+}

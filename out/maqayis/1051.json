@@ -1,0 +1,17 @@
+{
+ "i": 1051,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خذل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 165,
+  "page_to": 166
+ },
+ "ar": "الخاء والذال واللام أصلٌ واحدٌ يدلُّ على تَرْك الشَّئ والقُعود عنه. فالخِذْلان: تَرك المَعُونة. ويقال خَذَلَتِ الوحْشيَّةُ: أقامَتْ على وَلَدِها؛ وهى خَذُول. قال:\nخَذُولٌ تُراعِى رَبْرَباً بخَميلةٍ … تَنَاولُ أطرافَ البَريرِ وترتَدِى (٣)\nومن الباب تخاذَلَتْ رِجلاه: ضَعُفَتَا. من قوله:\n* وخَذُولِ الرِّجْل من غير كَسَحْ (١) *\nوقال آخر (٢):\n* صَرْعى نوؤُها متخاذِلُ *\nورجلٌ خُذَلة، للَّذى لا يزال يَخذُلُ:",
+ "az": "«خذل» (خ، ذ، ل) — bir şeyi tərk etməyə və ondan oturub geri qalmağa dəlalət edən tək bir əsas prinsipdir. الْخِذْلَانُ (əl-xizlan) — kömək etməyi tərk etməkdir. Deyilir: خَذَلَتِ الوحْشيَّةُ (xədələti əl-vəhşiyyətu) — vəhşi dişi heyvan balasının yanında qaldı; o, خَذُول (xədul) adlanır. Şair deyib: خَذُولٌ تُراعِى رَبْرَباً بخَميلةٍ … تَنَاولُ أطرافَ البريرِ وترتَدِى (٣) (Balasının yanında qalan, sıx meşədə ceyran sürüsünü güdən xədul — bərabər aradakı budaqların uclarını yeyir və gəzişir). Və fəsildəndir: تخاذَلَتْ رِجلاه (təxadələt rijlühu) — ayaqları zəiflədi. Bu sözdən: * وخَذُولِ الرِّجْل من غير كَسَحْ (١) * (İfrlic olmadan ayağı zəifləyən). Və başqası deyib (2): * صَرْعى نوؤُها متخاذِلُ * (Yıxılmışlar, onların ulduz batması zəifləyəndir). Və رَجُلٌ خُذَلةٌ (xudələtün kişi) — dayanmadan başqalarını tərk edən/yardımsız qoyan kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

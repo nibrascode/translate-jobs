@@ -1,0 +1,17 @@
+{
+ "i": 1591,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 444,
+  "page_to": 444
+ },
+ "ar": "الراء والنون والدال أُصَيلٌ يدلُّ على جنسٍ من النَّبت.\nيقولون: الرَّنْد: شجرٌ طيِّب من شجر البادية.\nوحدَّثَنا علىُّ بن إبراهيم، عن على بن عبد العزيز، عن أبى عُبيدٍ عن الأصمعىّ قال: ربما سمَّوْا عُود الطِّيب رَنْداً. يعنى الذى يُتبخَّر به. قال: وأنْكَر أن يكون الرّنْد الآس. وقال الخليل: الرَّنْد ضرب من الشجر، يقال هو الآس. وأنشد:\n* على فَنَنٍ غَضِّ النَّباتِ من الرَّنْدِ (٢) *\nفأما قول الجعدىّ:\nأَرِجَاتٍ يَقْضَمْنَ مِنْ قُضُبِ الرَّنْ … دِ بثَغْرٍ عَذْبٍ كشَوْك السَّيَالِ (٣)\nفإنه يدلُّ على أنَّ الرَّنْد [ليس (٤)] بالآسِ.",
+ "az": "[رند] (rənd) - راء، نون və dal hərfləri bir bitki növünə dəlalət edən kiçik bir əsldir. Deyirlər: «الرَّنْد» (əl-rənd) - səhra ağaclarının xoş qoxulu ağacıdır.\nƏli ibn İbrahim bizə Əli ibn Əbdüləzizdən, o, Əbu Übeyddən, o da Əsməridən rəvayət edərək danışdı ki, onlar bəzən ətir odununu (ud) «رَنْد» (rənd) adlandırırlar. Yəni onunla tüstü verilən (buxur edilən) odunu nəzərdə tuturlar. O dedi:",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

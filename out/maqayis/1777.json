@@ -1,0 +1,17 @@
+{
+ "i": 1777,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زنر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 28,
+  "page_to": 28
+ },
+ "ar": "الزاء والنون والراءِ ليس بأصلٍ؛ لأنّ النون لا يكون بعدها راء. على أنّ فى الباب كلمة. يقولون إن الزَّنانِير الحصى الصِّغار إِذا هبّت عليها الريحُ سمعتَ لها صَوتا. [والزّنانير: أرضٌ بقرب جُرَشَ (٣)]. وقال ابن مقْبل:\nزَنَانِيرُ أرواحَ المصيفِ لها (٤)",
+ "az": "[زنر] (zənər): ز (zay), ن (nun) və ر (ra) heç bir əsas deyil; çünki nun hərfindən sonra ra hərfi gəlməz. Hərçənd babda bir kəlmə vardır. Deyirlər ki, الزَّنانِير (əz-zənanir) üzərinə külək əsdikdə səsini eşitdiyin kiçik xırda daşcığızlardır. [Və əz-zənanir: Cürəş yaxınlığında bir yerdir (٣)]. İbn Muqbil demişdir:\nزَنَانِيرُ أرواحَ المصيفِ لها (٤) (Zənanirü ərvəhəl-masifi ləhə)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:18.053Z"
+}

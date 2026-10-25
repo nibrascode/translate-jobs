@@ -1,0 +1,17 @@
+{
+ "i": 1544,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رفغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 424,
+  "page_to": 424
+ },
+ "ar": "الراء والفاء والغين كلمةٌ تدل على ضَعةٍ ودناءة. فالرَّفْغ ألْأَمُ الوادِى وشرُّه تُراباً. والرُّفْغ: أصل الفخِذ، وكلُّ موضع اجتمع فيه الوَسَخ.\nو\nفى الحديث: «كيف لا أُوهِمُ ورُفْغُ أحدِكم بين ظُفْره وأنملته (٣)». والأَرفاغ من الناس: السِّفْلة. فأما قولهم عيشٌ رافغ ورفيغ: طيّب واسع، فهذا له وجهان:\nإمّا أن يكونَ الغَينُ منقلبةً عن الهاء فيكون من الرَّفْه، وإمَّا أن يكون شُبِّه مالُه فى كثرته برَفْغ التُّراب، يراد به الكثرة.",
+ "az": "[رفغ] (ra, fa, ğeyn). Zəlilik və alçalmaya dəlalət edən bir kəlmədir. «الرَّفْغ» — vadinin ən alçaq və torpaq baxımından ən pis yeridir. «الرُّفْغ» — budun dibidir, həmçinin kirin toplandığı hər bir yerdir. Hədisdə gəlmişdir: «كيف لا أُوهِمُ ورُفْغُ أحدِكم بين ظُفْره وأنملته (٣)» (Necə təmizləməyim ki, birinizin çirk yığılan yeri dırnağı ilə barmaq ucu arasındadır). İnsanlar içində «الأرفاغ» — alçaq, səfil adamlardır. «عيش رافغ» və «رفيğ» - xoş və gen-bol yaşayış sözlərinə gəldikdə, bunun iki izahı var: ya ğeyn hərfi hə hərfindən əvəzlənmişdir, beləliklə də «الرَّفْه» (rahatlıq) sözündəndir, ya da onun malı bolluqda torpağın «رفغ»inə bənzədilmişdir, bununla da çoxluq nəzərdə tutulur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:31.379Z"
+}

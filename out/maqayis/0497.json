@@ -1,0 +1,17 @@
+{
+ "i": 497,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 368,
+  "page_to": 369
+ },
+ "ar": "الثاء واللام أصلانِ متباينان: أحدهما التجمُّع، والآخر السُّقوط والهَدْم والذُّلّ.\nفالأوَّل: الثَّلَّة الجماعة من الغَنَم. وقال: بعضهم يخصّ بهذا الاسم الضَّأن، ولذلك قالوا: حبلُ ثَلَّةٍ أى صوفٍ، وقالوا: كساء جيِّد الثَّلَّة. قال:\nقد قَرَنُونِى بامرئٍ قِثْوَلِّ … رثٍّ كحبل الثلَّة المبْتَلِّ (٢)\nوالثُّلَّة: الجماعة من الناس، قال اللّه تعالى: ﴿ثُلَّةٌ مِنَ اَلْأَوَّلِينَ * وَثُلَّةٌ مِنَ اَلْآخِرِينَ (٣﴾.\nوالثانى: ثَلْلتُ البيتَ هدمتُه. والثلَّة تُراب البِئر. والثَّلَل الهَلاك. قال لبيد:\nفصَلَقْنَا فى مُرادٍ صَلْقَةً … وصُدَاءً ألحقتهُمْ بالثَّلَلْ (١)\nويقال ثُلَّ عرشُه، إذا ساءتْ حالُه. قال زُهير:\nتُداركتُما الأحلافَ قد ثُلَّ عرشُها … وذُبْيانَ إذْ زَلَّتْ بأقدامها النَّعْل (٢)\nوقال قوم: ثُلَّ عَرْشُه وعُرْشه، إذا قُتِل. وأنشَدوا:\nوعبدُ يَغُوثٍ تحْجُلُ الطَّيرُ حَولَهُ … وقد ثَلَّ عُرْشَيْهِ الحُسامُ المذَكَّرُ (٣)\nوالعُرْشانِ: مَغْرِز العُنُق فى الكاهل.",
+ "az": "«ثل»: الثاء və اللам iki fərqli əslə malikdir: biri toplanmaq, digəri isə yıxılmaq, dağılmaq və zillətdir. Birincisi: (الثَّلَّة) — qoyun sürüsü. Və bəziləri demişdir ki, bu ad xüsusi olaraq qoyunlara aid edilir, buna görə də demişlər: حبلُ ثَلَّةٍ — yəni yun ipi, və demişlər: كساء جيِّد الثَّلَّة (yunu yaxşı olan əba). O demişdir: قد قَرَنُونِى بامرئٍ قِثْوَلِّ … رثٍّ كحبل الثلَّة المبْتَلِّ (٢) (Məni qisvəlli bir kişi ilə birliyə qoydular... islanmış qoyun ipi kimi köhnə və səfil). Və (الثُّلَّة) — insan dəstəsi, uca Allah buyurmuşdur: ﴿ثُلَّةٌ مِنَ اَلْأَوَّلِينَ * وَثُلَّةٌ مِنَ اَلْآخِرِينَ (٣﴾, mənaca tərcümə: «Bir dəstə əvvəlkilərdən, bir dəstə də sonrakılardandır». İkincisi: ثَلْلتُ البيتَ — evi yıxdım, dağıtdım. Və (الثلَّة) — quyunun torpağı. Və (الثَّلَل) — həlak olmaq, məhv olmaq. Ləbid demişdir: فصَلَقْنَا فى مُرادٍ صَلْقَةً … وصُدَاءً ألحقتهُمْ بالثَّلَلْ (١) (Biz Murad tayfasına elə bir zərbə endirdik ki... və Suday tayfasını həlakə sürüklədik). Və deyilir: ثُلَّ عرشُه — onun vəziyyəti pisləşdi. Züheyr demişdir: تُداركتُما الأحلافَ قد ثُلَّ عرشُها … وذُبْيانَ إذْ زَلَّتْ بأقدامها النَّعْل (٢) (Siz əhdləşənlərə yetişdiniz ki, artıq onların taxtı sarsılmışdı... və Zübyan tayfasına ki, ayaqlarından sandal sürüşmüşdü). Və bir qrup insan demişdir: ثُلَّ عَرْشُه və عُرْشه — o öldürüldüyü zaman. Və bu beytİ gətirmişlər: وعبدُ يَغُوثٍ تحْجُلُ الطَّيرُ حَولَهُ … وقد ثَلَّ عُرْشَيْهِ الحُسامُ المذَكَّرُ (٣) (Əbdü Yəğusdur ki, quşlar ətrafında fırlanır... və sülB qılınc onun hər iki tərəfini yıxıb dağıtmışdır). Və (العُرْشانِ) — boyunun çiynə birləşdiyi yerlərdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

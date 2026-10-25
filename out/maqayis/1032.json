@@ -1,0 +1,17 @@
+{
+ "i": 1032,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 156,
+  "page_to": 156
+ },
+ "ar": "الخاء والميم أصلان: أحدهما تغيُّر رائحةٍ، والآخر تنقية شئِ.\nفالأول: قولُهم خَمَّ اللّحمُ، إذا تغيَّرَتْ رائحتُه. والثانى: قولُهم خُمّ البيتُ إِذا كُنِسَ. وخُمَامة البئرِ: ما يُخَمُّ من تُرابها إِذا نُقِّيت. وبيتٌ مخمومٌ: مكنوس.\nويقال هو مخموم القلبِ، إذا كان نقىَّ القَلْب من كل غِشّ ودَخَلْ.",
+ "az": "[خم] الخاء والميم أصلان (Xar və mim iki əsasdır): أحدهما تغيُّر رائحةٍ (biri qoxunun dəyişməsi), والآخر تنقية شئِ (digəri isə bir şeyi təmizləməkdir). فأولاً (Birincisi): قولُهم خَمَّ اللّحمُ (onların ət xəmmə etdi sözüdür), إذا تغيَّرَتْ رائحتُه (qoxusu dəyişdikdə). والثانى (İkincisi): قولُهم خُمّ البيتُ (onların ev xummlandı sözüdür) إِذا كُنِسَ (süpürüldükdə). وخُمَامة البئرِ (Və quyunun xumaməsi): ما يُخَمُّ من تُرابها إِذا نُقِّيت (təmizləndiyi zaman torpağından süpürülüb çıxarılan şeydir). وبيتٌ مخمومٌ (Və məxmum ev): مكنوس (süpürülmüşdür). ويقال هو مخموم القلبِ (Dezilər ki, o, qəlbi məxmumdur), إذا كان نقىَّ القَلْب من كل غِشّ ودَخَلْ (ürəyi hər bir xəyanətdən və hiylədən təmiz olduqda).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:32.375Z"
+}

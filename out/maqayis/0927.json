@@ -1,0 +1,17 @@
+{
+ "i": 927,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حلن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 94,
+  "page_to": 94
+ },
+ "ar": "الحاء واللام والنون إن جعلتَ النُّون زائدة فقد ذكرناه.\nفيما مضى، وإن جعلت النونَ أصلية فهو فُعَّال، وهو الْجَدْى (١)، وليست الكلمة أصلاً يُقاس. وقد مضى فى بابه.",
+ "az": "«حلن» (ḥa-lə-na). Əgər nun hərfini artırma hesab etsənsə, biz bunu əvvəldə qeyd etdik. Əgər nun hərfini əsl saysan, o zaman «فُعَّال» (fuəll) وزنindədir, bu da keçi balası deməkdir («الْجَدْى») (١), və bu kəlmə qaydaya uyğun əsl deyil. O, artıq öz babında keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:33.900Z"
+}

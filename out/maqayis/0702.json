@@ -1,0 +1,17 @@
+{
+ "i": 702,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 486,
+  "page_to": 486
+ },
+ "ar": "الجيم والهاء والحرف المعتلّ يدلُّ على انكشافِ الشَّئ.\nيقال أجْهَتِ السّماءُ، أقلَعَتْ. ويقال خِباءٌ مُجْهٍ لا سِتْر عَليه. وجَهِيَ البيتُ يَجْهَى، إذا خَرِبَ؛ وهُوَ جاهٍ. ويقال إن الْجَهْوَةَ السَّهُ مكشوفةً.",
+ "az": "[جهو] \nCim, hə və hərflərin zəif olanı (mötəl hərf) bir şeyin üzə çıxmasına, aşkar olmasına dəlalət edir.\nأجْهَتِ السّماءُ (əjhətis-səmau) – səma buludlardan təmizləndi, açıldı, deylir. Və həmçinin مُجْهٍ (mujhin) – üzərində örtüyü olmayan çadır deməkdir. جَهِيَ البيتُ يَجْهَى (cəhiyəl-bəytu yəchə) – ev xarab olduqda deyilir; o, جاهٍ (cahin) adlanır. Deyirlər ki, الْجَهْوَةُ (cəhvə) – çöldə, açıqda olan yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

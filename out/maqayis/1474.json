@@ -1,0 +1,17 @@
+{
+ "i": 1474,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رسى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 394,
+  "page_to": 395
+ },
+ "ar": "الراء والسين والحرف المعتلّ أصلٌ يدلُّ على ثباتٍ.\nتقول رَسَا الشَّئُ يرسُو، إذا ثَبَتَ. واللّه جلّ ثناؤُه أرسَى الجِبالَ، أى أثْبَتَها.\nوجبلٌ راسٍ: ثابتٌ. ورَسَتْ أَقدامُهم فى الحرب. ويقال ألْقَت السّحابةُ مَرَاسِيَها،\nإذا دامَتْ. والفحل إذا تفرّقَتْ عنه شَوْلُه فصاح بها استقرَّت، فيُقال عند ذلك رسابها (١). ومن البابْ رَسَوْت بين القوم رَسْواً، إذا أصلَحْتَ. وبقيتْ فى الباب كلمةٌ إنْ صحّتْ فقياسُها صحيحٌ. يقال رَسَوْتُ عنه حديثاً أَرْسُوه، إذا حدَّثْتَ به عنه. وفى ذلك إثباتُ شئِ أيضاً.",
+ "az": "[رسى] (Rə, sin və uzanan hərf) sabitliyə dəlalət edən bir əsasdır. Deyirsən: Rəsas-şəy’ü yərsü — şey sabit oldu. Uca və izzətli Allah da dağları ərsə — yəni onları sabitləşdirdi. Cəbəlün rasin — sabit dağ. Müharibədə ayaqları sabit qaldı (rəsat əqdamühüm). Deyilir ki, bulud öz mərasilərini (dayaq nöqtələrini) atdı — bu, bulud qalıcı olduqda baş verir. Təkə dəvənin sürüsü dağıldıqda və o, onlara səsləndikdə onlar dayanır, bu zaman rəsabuha deyilir (١). Bu fəsildəndir: Rəsavtü beynəl-qavmi rəsvən — camaatın arasını düzəltdim. Fəsildə bir kəlmə də qaldı ki, əgər səhihdirsə, onun ölçüsü doğrudur. Deyilir: Rəsavtü ‘anhu hədisən ərsuhu — ondan bir hədis danışdım. Bunda da bir şeyin sabitliyi vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:45.682Z"
+}

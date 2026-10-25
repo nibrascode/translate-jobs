@@ -1,0 +1,17 @@
+{
+ "i": 1819,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 46,
+  "page_to": 46
+ },
+ "ar": "الزاء والباء والنون أصلٌ واحدٌ يدلُّ على الدّفع. يقال ناقة زَبُون، إذا زَبَنَتْ حالبَها. والحرب تزبِنُ النّاسَ، إذا صَدَمتهم. وحربٌ زَبُون. ورجلٌ ذو زَبُّونةٍ، إذا كان مانعاً لجانبِه دَفُوعاً عن نفسه. قال:\nبذَبِّى الذَّمَّ عن حَسبِى بمالِى … وزَبُّوناتِ أشْوسَ تَيَّحانِ (١)\nويقال فيه زَبُّونَةٌ، أى كِبر، ولا يكونُ كذا إلاّ وهو دافعٌ عن نفسه.\nوالزَّبانِيَةُ سُمُّوا بذلك، لأنّهم يدفعون أهلَ النار إلى النار. فأمَّا المُزابَنَة فبيع الثمر فى رءوس النّخل، وهو الذى جاء الحديث بالنَّهى عنه. وقال أهل العلم: إنّه مما يكون بعد ذلك من النِّزاع والمدافَعة. ويقولون إن الزَّبْن البُعْد. وأما زُبَانَى العقرب فيجوز أن يكون من هذا أيضاً، كأَنّها تدفَع عن نفسها به، ويجوز أن يكون شاذًّا.",
+ "az": "[زبن] (zə-ba-nun): dəf etməyə (qovmağa) dəlalət edən tək bir əsldir. Deyilir: «ناقة زَبُون» (sağana çırpınan dəvə), sağanını vuran dəvəyə deyilir. «الحرب تزبِنُ النّاسَ» (müharibə insanları vurur) — onları sarsıtdığı zaman. «حربٌ زَبُون» (şiddətli müharibə). «رجلٌ ذو زَبُّونةٍ» (öz tərəfini qoruyan, özünü müdafiə edən kişi) — öz tərəfini qoruyan, özünü müdafiə edən zaman. Şair demişdir: \nبذَبِّى الذَّمَّ عن حَسبِى بمالِى … وزَبُّوناتِ أشْوسَ تَيَّحانِ (١)\nVə orada «زَبُّونَةٌ» (zəbbunə) deyilir, yəni təkəbbür, bu da ancaq özünü müdafiə edən kimsədə olur. \n«الزَّبانِيَةُ» (əz-zəbaniyyə) buna görə belə adlandırılmışdır, çünki onlar cəhənnəm əhlini cəhənnəmə itələyirlər. «المُزابَنَة» (əl-muzabənə) isə xurmanın ağaclar üzərində satılmasıdır ki, hədisdə qadağan olunduğu bildirilən budur. Elm əhli demişdir ki, bu, sonradan baş verən mübahisə və qarşıdurmadan ibarət olan şeydir. Onlar deyirlər ki, «الزَّبْن» (əz-zəbn) — uzaqlıqdır. «زُبَانَى العقرب» (əqrəbin qısqacları) sözünə gəldikdə, bunun da bundan olması caizdir, çünki o, bununla özünü müdafiə edir, həmçinin şəzz olması da caizdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

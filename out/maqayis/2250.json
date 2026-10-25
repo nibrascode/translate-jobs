@@ -1,0 +1,17 @@
+{
+ "i": 2250,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 281,
+  "page_to": 281
+ },
+ "ar": "الصاد والحاء أصل يدلُّ على البَراءة من المرض والعَيب، وعلى الاستواء. من ذلك الصِّحَّة: ذَهاب السُّقْم، والبراءةُ من كلِّ عَيب.\nوالصَّحِيح والصَّحَاح بمعنًى. والمُصِحُّ: الذى أهلُه وإبلُه صِحَاحٌ وأصِحَّاء.\nقال رسول اللّه ﵌: «لا يُورِدَنَّ ذو عاهةٍ على مُصِحّ».\nأى الذى إبلُه صِحاحٌ. والصَّحْصح والصَّحصَحانُ والصَّحصَاحُ: المكان المستوِى.",
+ "az": "[صح] الصاد والحاء أصل يدلُّ على البَراءة من المرض والعَيب، وعلى الاستواء (الصاد və ha hərfləri xəstəlikdən və eyibdən uzaq olmağa və düzlüyə dəlalət edən əsasdır). من ذلك الصِّحَّة: ذَهاب السُّقْم، والبراءةُ من كلِّ عَيب (Ondandır əs-sihhət: xəstəliyin getməsi və hər bir eyibdən təmiz və uzaq olmaq). والصَّحِيح والصَّحَاح بمعنًى (Əs-səhih və əs-səhah eyni mənadadır). والمُصِحُّ: الذى أهلُه وإبلُه صِحَاحٌ وأصِحَّاء (Əl-musihh: ailəsi və dəvələri sağlam olan kimsədir). قال رسول اللّه ﵌: «لا يُورِدَنَّ ذو عاهةٍ على مُصِحّ» (Allahın Elçisi sallallahu əleyhi və səlləm demişdir: «Qüsurlu (xəstə heyvanı olan) kimsə sağlam (heyvanı olan) kimsənin yanına gətirməsin»). أى الذى إبلُه صِحاحٌ (Yəni dəvələri sağlam olan kimsə). والصَّحْصح والصَّحصَحانُ والصَّحصَاحُ: المكان المستوِى (Əs-sahsah, əs-sahsahən və əs-sahsah: düzənlik yerdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:03.200Z"
+}

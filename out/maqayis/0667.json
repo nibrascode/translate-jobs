@@ -1,0 +1,17 @@
+{
+ "i": 667,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 467,
+  "page_to": 467
+ },
+ "ar": "الجيم واللام والميم أصلان: أحدهما القَطْع، والآخر جمْع الشئ.\nفالأوّل جَلَمْتُ السَّنَام قطعتُه. والجَلَم معروفٌ، وبه يُقطَع أو يجَزُّ.\nوالآخر قولهم: أخذت الشئ بجَلَمَتِه أى كلَّه. وجَلمةُ الشاة (٥) مسلوخَتُها إذا ذهبَتْ منها أكارِعُها وفُصُولها. ويقال إنّ الجِلَام الجِدَاءُ فى قول الأعشى:\nسَوَاهِمُ حِذْعانُها كالجِلا … مِ قَدْ أَقْرَحَ القَوْدُ منها النُّسورَا (٦)\nوهذا لعلَّه يصلح فى الثانى، أو يكونُ شاذًّا.",
+ "az": "[جلم] — Cəim, lam və mim iki əsas mənaya dəlalət edir: biri kəsmək, diğeri bir şeyi toplamaq. Birincisi: «جَلَمْتُ السَّنَام» (dəvənin hürgücünü kəsdim) - onu kəsdim. «الجَلَم» məlumdur, onunla kəsilir və ya qırxılır. Digəri isə onların «أخذت الشئ بجَلَمَتِه» (şeyi bütövlükdə aldım), yəni hamısını aldım, deməsidir. «جلمة الشاة» (٥) (qoyunun dərisi soyulmuş halı) - ayaqları və oynaqları gedərək soyulmuş halıdır. Deyilir ki, «الجِلَام» - Əşaənin bu sözündəki çəpişlərdir: «سَوَاهِمُ حِذْعانُها كالجِلا … مِ قَدْ أَقْرَحَ القَوْدُ منها النُّسورَا» (٦) (Halı dəyişmiş, incə budlukları çəpişlər kimidir ki, uzun yol yürümək onların dırnaqlarını yaralamışdır). Bu, bəlkə də ikinci mənada uyğundur və ya şazdır (qaydadan kənardır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:30.556Z"
+}

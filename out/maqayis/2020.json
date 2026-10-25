@@ -1,0 +1,17 @@
+{
+ "i": 2020,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 148,
+  "page_to": 149
+ },
+ "ar": "السين والدال والفاء أصلٌ صحيح يدلُّ على إرسال شئٍ على شئ غِطاءً له. يقال أَسْدَفَت القناعَ: أرسلتْه. والسُّدْفة: اختلاط الظَّلام والسَّديف: شحمُ السَّنام، كأنه مُغَطٍ لما تحته؛ وجمع السُّدْفة سُدَف. قال:\nنحن بغَرس الوَدِىِّ أعلمُنا … مِنَّا بركض الجياد فى السُّدَفِ (٣)\nوحكى ناسٌ: أسْدَف الفجر: أضاء، فى لغةِ هَوَازنَ، دونَ العرب. وهذا ليس بشئ، وهو مخالفٌ القياس.",
+ "az": "«سدف» (sin, dal və fa) bir şeyin üzərinə örtük olaraq bir şey göndərməyə dəlalət edən səhih bir əslidir. Deyilir: «أَسْدَفَت القناعَ» – örpəyi saldı. «السُّدْفة» – zülmətin qarışması, qaranlıq. «السَّديف» – hürgücün piyi, sanki altındakı şeyləri örtür; «السُّدْفة»nin cəmi «سُدَف»dir. Dedi: Vədi (xurma pöhrəsini) basdırmağımızı ən yaxşı bilənlərimiz … Qaranlıqlarda atları çapmaqda bizim aramızdadır (3). Bəzi insanlar rəvayət etmişlər: «أسْدَف الفجر» – fəcr işıqlandı, ərəblərdən başqa Həvazin dilində. Bu isə heç bir şey deyildir və qiyasa ziddir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

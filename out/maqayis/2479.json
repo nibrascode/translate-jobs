@@ -1,0 +1,17 @@
+{
+ "i": 2479,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 407,
+  "page_to": 407
+ },
+ "ar": "الطاء والهمزة، وهو يدلُّ على هَبْط شئٍ. من ذلك قولهم:\nطأطأ رأسَه. وهو مأخوذٌ * من الطَّأْطاءِ، وهو منهبِطٌ من الأرض. وهو فى قول الكمُيت (١).",
+ "az": "[طأ] الطاء والهمزة، وهو يدلُّ على هَبْط شئٍ (طا və həmzə olub bir şeyin enməsinə dəlalət edir). من ذلك قولهم: طأطأ رأسَه (Bunlardan biri də onların «tə'təə ra'sahu» - başını aşağı эydi demələridir). وهو مأخوذٌ * من الطَّأْطاءِ، وهو منهبِطٌ من الأرض. وهو فى قول الكمُيت (١) (O, yerin enişli yeri olan «tə'ta»dan götürülmüşdür. Bu, Kumeytin sözündə də vardır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:07:14.231Z"
+}

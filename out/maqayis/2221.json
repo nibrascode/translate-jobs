@@ -1,0 +1,17 @@
+{
+ "i": 2221,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 263,
+  "page_to": 264
+ },
+ "ar": "الشين والراء والفاء أصلٌ يدل على علوٍّ وارتفاع.\nفالشَّرَف: * العُلُوّ. والشريف (٢): الرجل العالى. ورجلٌ شريفٌ من قوم أشراف، يقال إنّه جمعٌ نادر، كحبيب وأحباب، ويتيم وأيتام. ويقال للذى غَلَبه غيرُه بالشَّرَف مشروف. ويقال استشرفتُ الشّئَ، إذا رفعتَ بصرك تنظرُ إليه.\nويقال للأنوف الأشراف، الواحدُ شرف. والمَشْرَف (٣): المكان تُشرِف عليه وتعلوه. ومشارف الأرض: أعاليها. والمشرفيّة: منسوبة إلى مَشَارف الشام.\nويقال إنّ الشُّرْفَة: خِيار المال، واشتقاقه من الشُّرْفة التى تُشَرَّفُ بها القصور، والجمع شُرَف. والمُستشرِف من الخيل: العظيم الطَّويل. قال الخليل: سهمٌ شارف:\nدقيق طويل، وأذُنٌ شَرْفاءُ: طويلةُ القُوف (٤). ومَنْكِبٌ أشرفٌ: عالٍ. فأمَّا النّاقة الشّارفُ فهى المُسِنّة الهَرِمة من الإبل، وهذا ممكنٌ أن يكون من العلوّ فى\nالسّنّ. وذُكِر عن الخليل أنّ السَّهْم الشارف من هذا، وهو الذى طال [عهدُهُ] بالصِّيان (١) فانتكث عَقَبُه وريشُه. قال أوس:\nيُقلِّبُ سَهماً راشَهُ بمناكبٍ … ظُهارٍ لُؤام فهو أعجفُ شارفُ (٢)\nويزعمون أن شُرَيْفاً أطولُ جبَلٍ فى الأرض.",
+ "az": "«شرف» (şin, ra və fa) — ucalıq və yüksəkliyə dəlalət edən bir əsldir.\n«الشَّرَف» — ucalıq deməkdir. «الشريف» (şərif) — uca olan kişi. «أشراف» (əşraf) tayfasından şərif bir kişi; deyirlər ki, bu, «حبيب» (həbib) və «أحباب» (əhbab), «يتيم» (yetim) və «أيتام» (əytam) kimi nadir cəmlərdəndir. Başqasının şərəf baxımından üstün gəldiyi şəxsə «مشروف» (məşruf) deyilir. «استشرفتُ الشّئَ» (bir şeyə baxmaq üçün gözümü qaldırdım) — bir şeyə baxmaq üçün baxışını ucaltdığında deyilir.\nUca burunlara «الأشراف» (əşraf) deyilir, təkli «شرف» (şərəf) qəbilindəndir. «المَشْرَف» (məşrəf) — üzərinə çıxıb ucaldığın yer. «مشارف الأرض» (yerin məşarifi) — onun uca yerləri. «المشرفيّة» (məşrifiyyə) — Şamın «مشارف» (məşarif) yerlərinə nisbət edilən qılınclardır.\nDeyilir ki, «الشُّرْفة» (şürfə) — mal-dövlətin ən yaxşısıdır, onun kökü sarayların bəzədildiyi «شُرْفة» (şürfə, eyvan/kənarlıq) sözündəndir, cəmi «شُرَف» (şurəf) gəlir. Atların «المُستشرِف» (müstəşrif) olanı — böyük və uzun olanıdır. Xəlil demişdir: «سهمٌ شارف» (şarif ox) — incə və uzun, «أذُنٌ شَرْفاءُ» (şərfa qulaq) — qulaq ucları uzun olan (٤). «مَنْكِبٌ أشرفٌ» (əşrəf çiyin) — uca çiyin. İncəsənətə gəlincə, «النَّاقة الشّارف» (şarif dəvə) — dəvələrin yaşlısı, qocasıdır; bu, yaşda ucalıqdan ola bilər. Xəlildən rəvayət olunmuşdur ki, «السَّهْم الشارف» (şarif ox) də bundandır; bu, qorunub saxlamaqda [vaxtı] uzandığı üçün arxası və lələyi zədələnmiş oxdur (١). Ovs demişdir:\nيُقلِّبُ سَهماً راشَهُ بمناكبٍ … ظُهارٍ لُؤام فهو أعجفُ شارفُ (٢)\n(O, çiyinləri ilə lələklədiyi bir oxu çevirir — elə bir çiyin ki, zəif və arıqdır, o, arıq və qocaman oxdur)\nGüman edirlər ki, «شُرَيْف» (Şurəyif) yer üzündə ən uzun dağdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:27.489Z"
+}

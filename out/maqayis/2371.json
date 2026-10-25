@@ -1,0 +1,17 @@
+{
+ "i": 2371,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 355,
+  "page_to": 355
+ },
+ "ar": "الضاد والعين فى المضاعف أصلٌ واحدٌ صحيح، يدلُّ على الخضوع والضَّعْفِ. يقال تضعضع، إذا ذلَّ وخَضَع. قال أبو ذؤيب:\nوتجلُّدِى للشّامِتِين أرِيهِمُ … أَنِّى لرَيْبِ الدَّهرِ لا أَتضعضعُ (١)\nوكلُّ ضعيفٍ ضعْضاعٌ، إذا لم يكن ذا رأىٍ ولا قُوَّة.",
+ "az": "[ضع] (ض، ع) — Müdaəf (qoşa hərfli) fellərdə düzgün bir əsas olub, təvazökarlığa və zəifliyə dəlalət edir. Deyilir: تضعضع (zəlil oldu, boyun əydi). Əbu Züeyb demişdir:\nوتجلُّدِى للشّامِتِين أرِيهِمُ … أَنِّى لرَيْبِ الدَّهرِ لا أَتضعضعُ (١)\n(Ləzzət alanlara səbrimi göstərirəm ki, zamanın bəlaları qarşısında əyilmirəm.)\nHər bir zəif şəxs ضعضاعٌ (zəif-tabesiz) adlanır, əgər onun nə rəyi, nə də qüvvəsi varsa.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.777Z"
+}

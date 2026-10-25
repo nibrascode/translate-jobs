@@ -1,0 +1,17 @@
+{
+ "i": 2338,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صبى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 331,
+  "page_to": 332
+ },
+ "ar": "صبي الصاد والباء والحرف المعتلّ ثلاثة أصولٍ صحيحة: الأول يدلّ على صغر السّنّ، والثانى ريحٌ من الرياح، والثالث [الإمالة (٥)].\nفالأوّل واحد الصِّبْيةَ والصِّبيان. ورأيته فى صباه، أى صغره. والمصْبى:\nالكثير الصِّبيان. والصَّباء، ممدود الصِّبا، ويمدُّ مع الفتح (١). أنشد أبو عمرو:\nأصبحتُ لا يَحمِل بعضى بعضاَ … كأنما كان صَبَائى قَرْضَا (٢)\nومن الباب: صبا إلى الشّئ يصبُو، إِذا مال قلبُه إليه. والاشتقاق واحد، والاسم الصَّبْوة. وقال العجَّاج فى الصِّبا:\nوإنما يأتى الصِّبا الصَّبىُّ (٣)\nوالثانى: ريح الصَّبَا، وهىَ التى تستقبل القبلة. يقال صبَتْ تصبُو.\nالثالث: قول العرب: صَابيْتُ الرُّمح (٤).\nفأمّا المهموز فهو يدلُّ على خروجٍ وبروز. يقال صبأ من دينٍ إلى دين، أى خرج. وهو قولهم: صبأ نابُ البعير، إذا طلع. والخارجُ من دينٍ إلى دين صابئ والجمع صابئون وصُبَّاءٌ.",
+ "az": "[صبى] صبي «الصاد» (sad), «الباء» (ba) və uzanan hərf (mötəl hərf) üç səhih kökə malikdir: Birincisi yaşın kiçikliyinə dəlalət edir, ikincisi küləklərdən bir küləkdir, üçüncüsü [İmalədir (٥)]. Birincisi صِبْية (sibyə) və صِبْیان (sibyan) sözlərinin təkidir. Onu صباه (öz uşaqlığında, yəni kiçikliyində) gördüm. «المصْبى» (əl-misbi) — uşaqları çox olan. «الصَّباء» (əs-səba) — uzadılmış şəkildə «الصِّبا» (əs-siba), həmçinin fəthə ilə də uzadılır. Əbu Əmr şeir söylədi: أصبحتُ لا يَحمِل بعضى بعضاَ … كأنما كان صَبَائى قَرْضَا — (Elə bir hala gəldim ki, bədənimin bir hissəsi digərini daşıya bilmir... sanki mənim uşaqlığım borc imiş kimi). Bu qapıdandır: صبا إلى الشّئ يصبُو (fil şeyə meyl etdi) — qəlbi ona tərəf meyl etdikdə. Kök eynidir, isim isə «الصَّبْوة» (əs-səbvə) adlanır. Əccəc «الصِّبا» (əs-siba) barəsində demişdir: وإنما يأتى الصِّبا الصَّبىُّ (Uşaqlıq yalnız uşağa gələr). İkincisi: «الصَّبَا» (əs-səba) küləyi, o, qibləni qarşılayan küləkdir. Deyilir: صبَتْ تصبُو (əsdə). Üçüncüsü: Ərəblərin صَابيْتُ الرُّمح (nizəni əydim) deməsidir. Həmzəli olanına gəldikdə, o, xaric olmağa və üzə çıxmağa dəlalət edir. Deyilir: صبأ من دينٍ إلى دين (bir dindən digər dinə keçdi, yəni çıxdı). Bu, onların صبأ نابُ البعير (dəvənin azı dişi çıxdı) deməsidir. Bir dindən başqa dinə çıxan şəxsə صابئ (sabi) deyilir, cəmi isə صابئون (sabiuun) və صُبَّاءٌ (subbaun)ur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

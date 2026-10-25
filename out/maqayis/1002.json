@@ -1,0 +1,17 @@
+{
+ "i": 1002,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حتا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 134,
+  "page_to": 134
+ },
+ "ar": "الحاء والتاء والهمزة كلمةٌ واحدة ليست أصلاً، وأظنُّها من باب الإبدال وأنها مبدلة من كافٍ. يقولون أَحْتَأْتُ الثَّوبَ إحتاءً، إذا فَتَلْتَه (٥).\nظنا أنه من الإبدال (٦) فمن أحكَأْت العُقدة. وقد مضى تفسير ذلك. ويقول …",
+ "az": "«حتا» (h-t-ə): Ha, ta və həmzə kəlməsi tək bir sözdür, kök deyil, zənn edirəm ki, bu, əvəzetmə qapısındandır və kaf hərfindən əvəz edilmişdir. Deyirlər: «أَحْتَأْتُ الثَّوبَ إحتاءً» (əhtə'tü əs-səvbə ihtə'ən) — onu bükdüyün zaman [5]. Zənn edilir ki, bu, əvəzetmədəndir [6], yəni «أحكَأْتُ العُقْدَةَ» (əhkə'tü əl-uqdəh) sözündəndir. Onun izahı artıq keçmişdir. Və deyirlər...",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.108Z"
+}

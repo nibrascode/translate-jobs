@@ -1,0 +1,17 @@
+{
+ "i": 593,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 426,
+  "page_to": 426
+ },
+ "ar": "الجيم والحاء والراءِ أصلٌ يدلّ على ضِيق الشئ والشدّة.\nفالجِحَرة جمع جُحْر. [وأجحَرَ (٣)] فلاناً الفَزَعُ والخوفُ، إذا ألجأَه. ومَجاحِرُ لقومِ مَكامِنهم. وجَحَرَتْ عينُه إذا غَارَت. والجَحْرة: السَّنَة الشديدة.",
+ "az": "[جحر] (Cim, ha və ra hərfləri şeyin daralmasına və sərtliyinə dəlalət edən bir əsasdır.\nFəminə جِحَرة cəmi جُحْر (yuva) sözüdür. [Və qorxu filankəsi sıxışdırdıqda أجحَرَ (٣)] deyilir. مَجاحِرُ isə bir qövmün gizləndiyi yerlərdir. Onun gözü çökdükdə جَحَرَتْ عينُه deyilir. الْجَحْرة isə şiddətli ildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:44.167Z"
+}

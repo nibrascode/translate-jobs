@@ -1,0 +1,17 @@
+{
+ "i": 2395,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضغط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 364,
+  "page_to": 365
+ },
+ "ar": "الضاد والغين والطاء أصلٌ صحيحٌ واحد يدلُّ على مزاحَمَةٍ\nبشِدّة. يقال ضَغَطَه، إِذا زحَمَه إلى حائط. والضَّغِيط: بئرٌ تُحفَر إلى جنْبها بئر أخرى فيقل ماؤُها. والمَضَاغِط: أرَضُونَ منخفِضة. وبعيرٌ بِهِ ضاغط، وهو لُزُوق العضُد بالجَنْب حَكًّا حَتَّى يضغط ذلك بعضُه بعضا ويتدلّى جِلْدُه. قال أبو عبيدٍ: الضِّاغط والضّبّ شئٌ واحد، وهو انفتاقٌ من الإبط وكثرةٌ من اللَّحم. ويقال: اللهمَّ ارفَعْ عنّا هذه الضَّغطة، يريدون الشدَّةَ والمشقّة. ويقال:\nأرسلْتُه ضاغطاً على فلان، وهو شِبْه الرّقيب يمنعُه من الظُّلم.",
+ "az": "[ضغط] «الضاد» (زاد), «الغين» (ğin) və «الطاء» (ta) hərfləri şiddətlə sıxışdırmağa dəlalət edən tək və səhih bir əslidir. «ضَغَطَه» (zəğətəh) — onu divara sıxışdırdı, deyilir. «الضَّغِيط» (əz-zəğit) — yanındakı digər quyu qazıldıqdan sonra suyu azalan quyudur. «المَضَاغِط» (əl-məzağit) — alçaq yerlərdir. «بعير بِهِ ضاغط» (zağit xəstəliyi olan dəvə) — bazu sümüyünün yana sürtünərək bir-birini sıxması və dərisinin sallanması nəticəsində yaranan vəziyyətdir. Əbu Übeyd demişdir: «الضَّاغط» (əz-zağit) və «الضّبّ» (əz-zəbb) eyni şeydir; bu, qoltuqaltında yırtıq və ət çoxluğudur. Deyilir: «اللهمَّ ارفَعْ عنّا هذه الضَّغطة» (Allahım, bu sıxıntını bizdən qaldır!) — burada şiddət və məşəqqət qəsd edilir. Deyilir: «أرسلْتُه ضاغطاً على فلان» (Mən onu filankəsin üzərinə zağit olaraq göndərdim) — bu, onun zülm etməsinə mane olan gözətçiyə bənzər kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.497Z"
+}

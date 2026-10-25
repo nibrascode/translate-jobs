@@ -1,0 +1,17 @@
+{
+ "i": 2166,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شأم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 239,
+  "page_to": 239
+ },
+ "ar": "الشين والهمزة والميم أصلٌ واحد يدلُّ على الجانب اليَسار.\nمن ذلك المشأمة، وهى خلاف الميمنة. والشْأم: أرضٌ عن مَشْأمة القِبلة.\nيقال الشَّأمُ والشَّآم. ويقال رجل شآمٍ وامرأةٌ شآمِيَة. قال:\nأُمِّى شآمِيَةً إِذْ لا عرَاقَ لنا … قوماً نودُّهُمُ إِذْ قومُنا شُوسُ (٣)\nورجل مشئومٌ من الشُّؤم.",
+ "az": "«شأم»: الشين والهمزة والميم أصلٌ واحد يدلُّ على الجانب اليَسار (Şin, həmzə və mim hərflərindən ibarət olub sol tərəfi bildirən tək bir əsas mənadır).\nمن ذلك المشأمة، وهى خلاف الميمنة (Ondandır əl-məşəmə, bu da sağ tərəfin əksidir). والشْأم: أرضٌ عن مَشْأمة القِبلة (Əş-şam: qiblənin sol tərəfində yerləşən torpaqdır).\nيقال الشَّأمُ والشَّآم (Əş-şam və əş-şam deylir). ويقال رجل شآمٍ وامرأةٌ شآمِيَة (Şamlı kişi və şamlı qadın deyilir). قال (Şair demişdir):\nأُمِّى شآمِيَةً إِذْ لا عرَاقَ لنا … قوماً نودُّهُمُ إِذْ قومُنا شُوسُ (٣)\n(Anam şamlıdır, çünki bizim İraqımız yoxdur. Biz elə bir qövmü sevirik ki, öz qövmümüz isə sərt və təkəbbürlüdür)\nورجل مشئومٌ من الشُّؤم (Uğursuz adam isə şöndən götürülərək məşum adlanır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:06.969Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2374,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 356,
+  "page_to": 356
+ },
+ "ar": "الضاد والكاف أُصَيل صحيح فيه كلمتان: امرأةٌ ضكضاكة ورجل ضكضاكٌ، يراد به القِصَروا كتنازُ اللَّحم. والكلمة الأخرى: الضَّكْضَكة سُرعة المَشْى.",
+ "az": "[ضك] (ض، ك) — İki kəlmədən ibarət kiçik səhih bir əsasdır: امرأة ضكضاكة və رجل ضكضاكٌ — qısa və əti bir-birinə sıxılmış adam mənasını verir. Digər kəlmə isə: الضَّكْضَكة (əz-dakdaqa) — sürətli yeriməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.777Z"
+}

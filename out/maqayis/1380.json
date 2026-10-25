@@ -1,0 +1,17 @@
+{
+ "i": 1380,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ددن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "الدال والدال والنون كلمتان: إحداهما اللَّهو واللَّعب، يقال دَدَنٌ ودَدٌ (٢). قال:\nأيُّها القلب تعلَّلْ بدَدَنْ … إنّ هَمِّى فى سَماعٍ وأَذَنْ (٣)\nومن هذا اشتُقَّ السَّيف الدَّدَانُ؛ لأنّه ضعيفٌ، كأنه ليس بِحادٍّ فى مَضائه.\nوالكلمة الأخرى: الدَّيْدَنُ: العادَة.\nواللّه أعلم.",
+ "az": "[ددن] (Də-də-nə). Dal, dal və nun hərfləri iki kəlmədir: Biri əyləncə və oyun, دَدَنٌ və دَدٌ (dədən və dəd) deyilir (٢). Şair demişdir: أيُّها القلب تعلَّلْ بدَدَنْ … إنّ هَمِّى فى سَماعٍ وأَذَنْ (٣) (Ey qəlb, əyləncə ilə təskinlik tap... Çünki mənim qayğım eşitmək və qulaq asmaqdadır). Bundan السَّيف الدَّدَانُ (əl-səyfüd-dədan) qılıncı düzəldilmişdir; ஏünki o zəifdir, sanki kəsərliliyində iti deyildir. İkinci kəlmə: الدَّيْدَنُ (əd-dəydən): adət. Və Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

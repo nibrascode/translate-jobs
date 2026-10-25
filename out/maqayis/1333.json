@@ -1,0 +1,17 @@
+{
+ "i": 1333,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دون",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 317,
+  "page_to": 317
+ },
+ "ar": "الدال والواو والنون أصل واحِد يدلُّ على المداناةِ والمقاربة. يقال هذا دُون ذاك، أى هو أقرَبُ منه. وإذا أردْت تحقيرَه قلتَ دُوَيْنَ. ولا يُشتق منه فِعْلٌ. ويقال فى الإِغراء: دُونَكَه! أى خُذْه، أقرُبْ منه وقرِّبْه منك. ويقولون أمرُ دُونٌ. وثوب دُونٌ، أى قريبُ القِيمَة. قال القُتيْبىّ: دانَ يَدُونُ دَوْناً، إذا ضَعُف، وأُدِين إدانةً. وأنشدوا:\n* وعَلَا الرَّبْرَبَ أَزْمٌ لم يُدَنْ (١) *\nأى لم يُضْعَف. وهو عنده من الشّئ الدُّون، أى الهيِّن. فإِن كان صحيحاً فقياسُه ما ذكرناه.",
+ "az": "[دون] \nالدال (dal), الواو (vav) və النون (nun) yaxınlaşma və qonşuluğa dəlalət edən tək bir əsasdır. Deyilir: هذا دُون ذاك (bu, o birindən aşağıdadır / yaxındır), yəni o, bundan daha yaxındır. Kiçiltmək istədikdə دُوَيْنَ (duvəyn - bir az aşağıda / lap yaxında) deyirsən. Bundan heç bir fel düzəlinmir. Təhrik üçün deyilir: دُونَكَه! (Götür onu! / Sənin olsun!) — yəni onu götür, ona yaxın ol və onu özünə yaxınlaşdır. Həmçinin deyirlər: أمرُ دُونٌ (adi iş). Və ثوب دُونٌ (adi / ucuz parçadır), yəni qiyməti aşağıdır. Quteybə demişdir: دانَ يَدُونُ دَوْناً (zəiflədi, zəifləyər), zəiflədiyi zaman, və أُدِين إدانةً (təqsirli bilinib cəzalandırıldı). Onlar bu beyt ilə istinad etmişlər:\n* وعَلَا الرَّبْرَبَ أَزْمٌ لم يُدَنْ (١) *\n— yəni zəiflədilməmişdir. Onun fikrincə, bu, əhəmiyyətsiz və adi şeydəndir. Əgər bu səhihdirsə, onun qiyası bizim zikr etdiyimiz kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:41.110Z"
+}

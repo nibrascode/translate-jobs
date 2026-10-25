@@ -1,0 +1,17 @@
+{
+ "i": 668,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جله",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 468,
+  "page_to": 468
+ },
+ "ar": "الجيم واللام والهاء أصلٌ واحدٌ يدلُّ على انكشافِ الشئ.\nفالجَلَه انحسارُ الشَّعَر عن جانِبَى الرَّأس. قال رؤبة:\nلمَّا رأتنى خَلَقَ المَمَوَّهِ … بَرَّاقَ أصْلادِ الجَبِين الأجْلهِ (١)\nوجَلْهتا الوادِى: ناحيتاه، إذا كانت فيهما صلابةٌ. وذلك مشتقّ من قولهم جَلَهْتُ الحَصَى عن المكانِ، إذا نَحَّيْتَه.",
+ "az": "[جله] — Cəim, lam və hə - bir əsas məna olub, bir şeyin üzə çıxmasına, açılmasına dəlalət edir. «الجَلَه» - başın iki tərəfindən saçın tökülməsi, çılpaqlaşmasıdır. Rübə demişdir: «لمَّا رأتنى خَلَقَ المَمَوَّهِ … بَرَّاقَ أصْلادِ الجَبِين الأجْلهِ» (١) (Məni köhnəlmiş su kimi, parlaq alınlı, önü keçəl görmüşkən). «جَلْهتا الوادِى» - vadinin iki tərəfi, əgər orada sərtlik varsa. Bu, onların «جَلَهْتُ الحَصَى عن المكانِ» (yerdən xırda daşları kənarlaşdırdım), yəni onu kənara çəkdim sözündən törəmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:30.556Z"
+}

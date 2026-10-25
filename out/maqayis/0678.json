@@ -1,0 +1,17 @@
+{
+ "i": 678,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 474,
+  "page_to": 474
+ },
+ "ar": "الجيم واللام والعين أصلٌ واحد، وهو قريبٌ من الذى قبله.\nيقال للمرأة القليلة الحياء جَلِعَة، كأنها كشفَتْ قِناع الحياء. ويقال جَلِعَ فمُ فلانٍ، إذا تقلَّصَتْ شفتُه وظهرتْ أسنانُه.\nقال الخليل: المُجالَعة تنازُعُ القومِ عند شُرْبٍ أو قسمةٍ. قال:\n* ولا فاحش عند الشَّرابِ مجالع (٤) *",
+ "az": "«جلع» — جيم، لام və عَيْن hərfləri tək bir kökdür və əvvəlki kökə yaxındır. Həyası az olan qadına جَلِعَة (cəlicə) deyilir, sanki o, həya örtüyünü qaldırmışdır. Deyirlər: جَلِعَ فمُ فلانٍ (filankəsin ağzı çəkildi) — dodağı qısılıb dişləri göründüyü zaman. Xəlil demişdir: المُجالَعَة (mücaləcə) — qardaşların (və ya tayfanın) içki və ya bölgü zamanı mübahisə etməsidir. O demişdir: «ولا فاحş عند الشَّراب مجالع» (İçki məclisində nalayiq danışan və mübahisə edən yoxdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.349Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1434,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذحق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 370,
+  "page_to": 370
+ },
+ "ar": "الذال والحاء والقاف ليس أصلاً. وربَّما قالوا: ذَحقَ اللسان، إذا انقشر من داءٍ يُصِيبُه.",
+ "az": "[ذحق] \n\nذال، hə və qaf hərfi əsas deyil. Bəzən deyirlər: ذَحقَ اللسان (dil ona toxunan xəstəlikdən qabıq verdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.658Z"
+}

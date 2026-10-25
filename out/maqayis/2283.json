@@ -1,0 +1,17 @@
+{
+ "i": 2283,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 303,
+  "page_to": 303
+ },
+ "ar": "الصاد واللام والخاء فيه كلمة واحدة. يقال إنّ الأصلَخَ الأصمّ.\nقال سَلَمة: قال الفرّاء: «كان الكميتُ أصمَّ أصْلَخَ».",
+ "az": "[صلخ] (s-l-x): Onda bir kəlmə vardır. Deyilir ki, الأصلَخ (əl-əsləx) – kar deməkdir. Sələmə demişdir: Fəraa demişdir: «əl-Kumeyt kar idi.»",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:08.475Z"
+}

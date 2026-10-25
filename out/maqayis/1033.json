@@ -1,0 +1,17 @@
+{
+ "i": 1033,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 157,
+  "page_to": 157
+ },
+ "ar": "الخاء والنون أصلٌ واحد، وهو حكايةُ شئِ من الأصوات بضعف. وأصله خَنَّ، إذا بكى، خنينا. والخَنْخَنَةُ: أن لا يُبِين الكلامَ.\nويقال الخنان فى الإبل كالزُّكام فى الناس. والخُنّة كالغُنّة. ويقال الخنين:\nالضَّحك الخفىّ. ويقولون إنّ المَخَنّة الأنف. فإنْ كان كذا فلأنه موضع الخُنّة، وهى الغُنّة. ويقال وطئ مَخَنَّتَه، أى أذلَّه (١)، كأنه وضع رجلَيه على أنفه.",
+ "az": "[خن] الخاء والنون أصلٌ واحد، وهو حكايةُ شئِ من الأصوات بضعف (Xar və nun bir əsasdır, o da səslərdən zəif bir şeyin təqlid edilməsidir). وأصله خَنَّ (Və əsli xənnədir), إذا بكى، خنينا (ağladığı zaman xənin ilə ağladıqda). والخَنْخَنَةُ (Və əl-xənxənə): أن لا يُبِين الكلامَ (sözü aşkar izah etməməsidir). ويقال الخنان فى الإبل كالزُّكام فى الناس (Dezilər ki, dəvələrdəki xənan insanlar arasında zökəm kimidir). والخُنّة كالغُنّة (Və xunnə ğunnə kimidir). ويقال الخنين (Və deyilər ki, xənin): الضَّحك الخفىّ (gizli gülüşdür). ويقولون إنّ المَخَنّة الأنف (Və deyirlər ki, əl-məxənnə burundur). فإنْ كان كذا (Əgər belədirsə), فلأنه موضع الخُنّة، وهى الغُنّة (ona görədir ki, o, xunnənin – yəni ğunnənin yeridir). ويقال وطئ مَخَنَّتَه (Dezilər ki, onun məxənnəsinə basdı), أى أذلَّه (١) (yəni onu zəlil etdi), كأنه وضع رجلَيه على أنفه (sanki ayaqlarını onun burnunun üstünə qoydu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:32.375Z"
+}

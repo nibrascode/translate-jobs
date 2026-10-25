@@ -1,0 +1,17 @@
+{
+ "i": 2515,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طمع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 425,
+  "page_to": 425
+ },
+ "ar": "الطاء والميم والعين أصلٌ واحدٌ صحيح يدلُّ على رجاءٍ فى القلب قوىٍّ للشّئ. يقال طَمِع فى الشئ طمَعاً وطَمَاعة (٢) وطماعِيَة. ولطَمُعْتَ يا زيد (٣) كما يقولون: لَقَضُو القاضى. هذا عند التعجُّب. ويقال امرأة مِطْماعٌ، للتى تُطمِع ولا تُمْكِن.",
+ "az": "«طمع» — الطاء والميم والعين أصلٌ واحدٌ صحيح يدلُّ على رجاءٍ فى القلب قوىٍّ للشّئ (Ta, mim və eyn bir şey üçün qəlbdə olan güclü ümidə dəlalət edən səhih tək bir kökdir). يقال طَمِع فى الشئ طمَعاً وطَمَاعة (Bir şeyə tamah saldıqda \"təmiə fis-şeyi təməən və təmaətən\" deyilir) وطماعِيَة. ولطَمُعْتَ يا زيد (və \"lə təmüqtə ya zeyd\" — ey Zeyd, nə qədər də tamahkar oldun) كما يقولون (necə ki deyirlər): لَقَضُو القاضى (lə qaduvul-qadi). هذا عند التعجُّب (Bu, təəccüb zamanı işlədilir). ويقال امرأة مِطْمَاعٌ (Və mitmaun qadın deyilir), للتى تُطمِع ولا تُمْكِن (tamah saldıran, lakin imkan verməyən qadına aiddir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:31.509Z"
+}

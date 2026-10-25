@@ -1,0 +1,17 @@
+{
+ "i": 893,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حطم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 78,
+  "page_to": 78
+ },
+ "ar": "الحاء والطاء والميم أصلٌ واحدٌ، وهو كَسْر الشئ. يقال:\nحطمت الشئَ حَطْماً كسرتُه. ويقال المتكسَّر فى نفسه حَطِم. ويقال للفرس إذا تهدَّم لطول عمره حَطِمٌ. ويقال بل الحَطَمُ داءٌ يصيب الدابَّة فى قوائمها أو ضَعْفٌ.\nوهو فرسٌ حَطِم. والحُطمة: السنة الشديدة؛ لأنها تَحْطم كلّ شئ. والحُطَم:\nالسَّواق يَعنف، يحطِم بعضَ الإبل ببعض. قال الراجز:\n* قد لفَّها الليلُ بسَوَّاقٍ حُطَمْ *\nوسمِّيت النارُ الحُطَمةَ لحَطْمِها ما تَلْقَى. ويقال للعَكَرة من الإبل حُطَمَة لأنها تحطِم كلَّ شئ تلقاه. وحُطْمة السَّيل: دُفَّاعُ مُعظَمِهِ. وهذا ليس أصلا؛ لأنه مقلوب من الطُّحْمة. فأما الحطيم فممكنٌ أن يكون من هذا، وهو الحِجْر، لكثرة من ينْتابُه، كأنه يُحْطَم.",
+ "az": "«حطم» (H-T-M): hə, ta və mim hərfləri tək bir əsas mənanı ifadə edir: bir şeyi qırmaq. Deyilir: «حطمت الشئَ حَطْماً» — mən onu qırdım. Öz-özünə qırılıb dağılana حَطِم (hatim) deyilir. Ömrünün uzunluğundan taqətdən düşmüş ata حَطِمٌ (hatim) deyilir. Deyirlər ki, əksinə, حَطَم (hatam) — heyvanın ayaqlarına gələn bir xəstəlik və ya zəiflikdir. O, حَطِمٌ (hatim) bir atdır. الحُطمة (hutmə) — şiddətli il, çünki o, hər şeyi qırıb dağıdır. الحُطَم (hutam) — dəvələri bir-birinə çırpan sərt sürücü. Racəz yazan şair demişdir: [Şeir]: * قد لفَّها الليلُ بسَوَّاقٍ حُطَمْ * — «Gecə onu sərt sürücü ilə bürüdü». Cəhənnəm oduna rast gəldiyi hər şeyi qırdığı üçün الحُطمة (hutmə) adlandırılmışdır. Dəvələrin sıx sürüsünə də الحُطمة (hutmə) deyilir, çünki o, qarşılaşdığı hər şeyi qırıb əzir. Selin daşqınına və şiddətli axınına حُطْمة السَّيل (hutmatus-seyl) deyilir. Bu, əsl məna deyil; çünki o, الطُّحْمة (tuhmə) sözünün tərsinə çevrilmiş formasıdır. Qaldı əl-Hatim (Kəbədəki Hicr) — bu, ziyarətçilərinin çoxluğundan sanki qırılıb əzildiyi üçün buradan törəmiş ola bilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:55.260Z"
+}

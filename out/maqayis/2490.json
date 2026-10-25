@@ -1,0 +1,17 @@
+{
+ "i": 2490,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 413,
+  "page_to": 413
+ },
+ "ar": "الطاء والغين والميم كلمةٌ ما أحسبها من أصل كلام العرب.\nيقولون لأوغاد النّاس: طَغَام.",
+ "az": "[طغم] الطاء والغين والميم كلمةٌ ما أحسبها من أصل كلام العرب (Ta, qayn və mim elə bir kəlmədir ki, onun ərəb dilinin əslindən olduğunu güman etmirəm). يقولون لأوغad النّاس: طَغَام (Onlar insanların alçaqlarına «tağam» deyirlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:07:39.767Z"
+}

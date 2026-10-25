@@ -1,0 +1,17 @@
+{
+ "i": 1924,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سنه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 103,
+  "page_to": 103
+ },
+ "ar": "السين والنون والهاء أصلٌ واحدٌ يدلُّ على زمانٍ. فالسَّنَة معروفة، وقد سقطت منها هاء. ألا ترى أنّك تقول سُنيْهَة. ويقال سَنَهَتِ النخلةُ، إذا أتت عليها الأعوام (٢). وقوله جل ذكره: ﴿فَانْظُرْ إِلى طَعامِكَ وَشَرابِكَ لَمْ يَتَسَنَّهْ﴾، أى لم يصر كالشئ الذى تأتى عليه السنُون فتغيِّره. والنَّخْلة السَّنْهاء (٣).",
+ "az": "[سنه] (sin, nun və hə) — bir zamana dəlalət edən tək bir əsasdır. «السَّنَة» (il) məlumdur və ondan hə hərfi düşmüşdür. Məgər görmürsən ki, «سُنيْهَة» (kiçik ilcik/illik) deyirsən. «سَنَهَتِ النخلَةُ» — xurma ağacının üzərindən illər keçdikdə deyilir (٢). Onun uca və böyük olan Allahın bu sözü: ﴿فَانْظُرْ إِلى طَعامِكَ وَشَرابِكَ لَمْ يَتَسَنَّهْ﴾ (Yeməyinə və içməyinə bax, o, illər keçib də dəyişməyib) — yəni illərin üzərindən keçib onu dəyişdirdiyi bir şey halına gəlmədi, deməkdir. «النَّخْلة السَّنْهاء» (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.159Z"
+}

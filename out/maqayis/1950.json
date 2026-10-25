@@ -1,0 +1,17 @@
+{
+ "i": 1950,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 114,
+  "page_to": 114
+ },
+ "ar": "السين والواو والخاء كلمةٌ واحدة. يقال ساخت قوائمة فى الأرض تسوخ. ويقال مُطِرْنا حتى صارت الأرض سُوَّاخَى، على فُعَّالَى، وذلك إذا كثرت رٍزاغُ المطر. وإِذا كانت كذا ساخت قوائمُ المارّة فيها.",
+ "az": "[سوخ] السين والواو والخاء (sin, vav və xa) — tək bir kəlmədir. Deyilir: ساخت قوائمة فى الأرض تسوخ (sahat qəvaimuhu fil-ərdi təsux) — onun ayaqları yerə batdı. Və deyilir: مُطِرْنا حتى صارت الأرض سُوَّاخَى (mutirna hətta sarətil-ərdu suvvaxə) – fəvvalə çəkisində – yağışın palçığı çoxaldıqda belə deyilir. Və o, bu cür olduqda oradan keçənlərin ayaqları ora batar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

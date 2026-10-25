@@ -1,0 +1,17 @@
+{
+ "i": 1200,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خجا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 247,
+  "page_to": 247
+ },
+ "ar": "الخاء والجيم والحرف المعتل أو المهموز ليس أصلا. يقولون رجل خُجَأَةٌ، أى أحمق. وخَجَأَ الفحلُ أُنْثَاه، إذا جامَعَها. وفحلٌ خُجَأَةٌ:\nكثير الضِّراب.",
+ "az": "«خجا» (x-c-y) — Xa, cim və zəif hərf və ya həmzəli hərf əsas kök deyil. Deyirlər: «رجل خُجَأَةٌ» yəni axmaq kişi. «خَجَأَ الفحلُ أُنْثَاه» — erkək dəvə dişi dəvəsi ilə cütləşdi. «فحلٌ خُجَأَةٌ» — çox cütləşən erkək.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:40.620Z"
+}

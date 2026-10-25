@@ -1,0 +1,17 @@
+{
+ "i": 425,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تحت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 342,
+  "page_to": 342
+ },
+ "ar": "التاء والحاء والتاء كلمةٌ واحدةٌ، تحت الشَّئِ. والتُّحُوت:\nالدُّونُ من النّاس و\nفى الحديث: «تَهْلِكُ الوُعولُ وتَظْهَر التُّحوتُ». والوُعُول:\nالكِبار والعِلْية.",
+ "az": "«تحت» (t-h-t): Tə, hə və tə bir kəlmədir, تحت الشَّئِ (təhtəş-şəyi): bir şeyin altı. Və التُّحُوت (əttuhut): insanların aşağı tabəqəsidir və hədisdə: «تَهْلِكُ الوُعولُ وتَظْهَر التُّحوتُ» (Vəhşi təkələr həlak olar, aşağı sinif insanlar isə üzə çıxar). Və الوُعُول (əl-vüul): ulu babalar, böyüklər və əyanlardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.116Z"
+}

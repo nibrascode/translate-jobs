@@ -1,0 +1,17 @@
+{
+ "i": 499,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 370,
+  "page_to": 370
+ },
+ "ar": "الثاء والنون أصلٌ واحد، وهو نباتٌ من شعرٍ أو غيره. فأمَّا الشَّعر فالثُّنَّةُ الشَّعر المشْرِفُ على رُسْغِ الدابة من خَلْف. والثِّنُّ من غير الشَّعر:\nحُطام اليَبِيس. وأنشد:\nفَظَلْنَ يخبِطْنَ هَشِيمَ الثِّنِّ … بَعْدَ عميم الرّوضةِ المُغِنِّ (٣)\nفأمّا الثُّنّة فما دون السّرّة من أسفل البطن من الدابة، ولعله بشُعَيرات يكون ثمّ.",
+ "az": "«ثن»: الثاء və Noun vahid bir əslə malikdir, o da tüklərdən və ya başqa şeylərdən ibarət bitkidir. Saça gəldikdə isə, (الثُّنَّةُ) — heyvanın arxa ayaq biləyindən yuxarıya doğru sallanan tüklərdir. Tüklərdən başqa şeylərdə isə (الثِّنُّ) — quru ot-ələf qırıntılarıdır. O, bu beyti gətirmişdir: فَظَلْنَ يخبِطْنَ هَشِيمَ الثِّنِّ … بَعْدَ عميم الرّوضةِ المُغِنِّ (٣) (Onlar qalaraq quru ot qırıntılarının xırdalarını döyəclədilər... bol və gur bitki örtüyündən sonra). (الثُّنَّةُ) gəldikdə isə, o, heyvanın qarnının aşağı hissəsində, göbəkdən aşağı olan yerdir, ehtimal ki, orada kiçik tüklər olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

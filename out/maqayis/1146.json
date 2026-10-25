@@ -1,0 +1,17 @@
+{
+ "i": 1146,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 223,
+  "page_to": 224
+ },
+ "ar": "الخاء والنون والفاء أصلٌ واحد يدلُّ على مَيَلٍ ولِين.\nفالخَنُوفُ: النّاقةُ الليِّنة اليدينِ فى السَّير. والمصدْر الخِناف. قال الأعشى:\nوأذْرَتْ برِجْلَيْها النَّعىَّ وراجَعَتْ … يداها خِنافاً ليِّناً غيرَ أجَرَدَا (١)\nقالوا: والخِناف أيضا فى العنُق: أن تُمِيلَه إذا مُدّ بزِمامها. والخَنيف:\nجنس من الكَتّان أرادأ ما يكونُ منه. و\nفى الحديث: «تَخَرَّقَتْ عَنَّا الخُنُف، وأحرَقَ بطونَنا التَّمر». وقال:\nعَلَى كالخَنِيفِ السَّحْقِ يَدعُو به الصَّدَى … له قُلُبٌ عُفَّى الحِياضِ أُجُونُ (٢)",
+ "az": "[خنف] الخاء والنون والفاء أصلٌ واحد (Xar, nun və fa bir əsasdır) — meylə və yumşaqlığa dəlalət edir. Və الخَنُوف (əl-xənuf) — gedişində əlləri yumşaq olan dəvə. Məsdəri isə əl-xinafdır (الخِناف). Əşə an demişdir: وأذْرَتْ برِجْلَيْها النَّعىَّ وراجَعَتْ … يداها خِنافاً ليِّناً غيرَ أجَرَدَا (١) (O, ayaqları ilə bəladakıları uzaqlaşdırdı və əlləri qaşovlanmamış, yumşaq bir xinaf hərəkətinə qayıtdı). Dedilər ki, boyundakı خِناف (xinaf) da budur: yüyəni çəkildikdə onu əyməyindir. Və əl-xənif (الخَنيف) — kətan növüdür, onun ən pisi. Və hədisdə: «تَخَرَّقَتْ عَنَّا الخُنُف، وأحرَقَ بطونَنا التَّمر» (Bizdən xunüflər cırıldı və xurma qarınlarımızı yandırdı). Və demişdir: عَلَى كالخَنِيفِ السَّحْقِ يَدعُو به الصَّدَى … له قُلُبٌ عُفَّى الحِياضِ أُجُونُ (٢) (...köhnəlmiş kətan parça kimi ki, susuzluq onu çağırır... onun lillənmiş, hovuzları silinib getmiş acı suları vardır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

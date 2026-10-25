@@ -1,0 +1,17 @@
+{
+ "i": 1046,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خدب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 163,
+  "page_to": 164
+ },
+ "ar": "الخاء والدال والباء أصلان: أحدهما اضطرابٌ فى الشئَ ولِينٌ، والآخَر شقٌّ فى الشئ.\nفالأوّل الخَدَب وهو الهَوَج، وفى أخبار العرب: «كان بنَعلمَةَ خَدَب (١)» أى هَوَج؛ ولعلَّ ذلك فى حروبه، ويدلُّ على ما ذكرناه ومنه بَعِيرٌ خِدَبٌّ، يكون ذلك فى كثرةِ لَحمٍ وإذا كثُر اللَّحْمُ لان واضطرَبَ.\nويقال من الأوّل رجلٌ أَخْدَبُ وامرأةٌ خَدْباء. وقال الأصمعىّ: دِرْعٌ خَدْباء: ليِّنة. قال:\n* خدباء يحْفِزُها نِجَادُ مُهنَّدٍ (٢) *\nويقال خَدَبَ، إذا كَذَب؛ وذلك أنَّ فى الكذِبَ اضطراباً، إذْ كانَ غيرَ مستقيم. وشيخ خِدَبٌ، وُصِفَ بما وُصِفَ به البعير. قال بعضُهم: إِنَّ فى لسانه خَدَباً، أى طَولا.\nوأمّا الأصل الآخر فالخَدْبُ بالنّاب: شقُّ الجِلْد مع اللحم. ويقال ضربة خَدْباء، إذا هَجَمَت على الجوف. والخَدْب: الحَلْب الشَّديد، كأنَّه يريد شقَّ الضَّرع بشدّة حَلْبه.\nومما شذّ عن هذا الباب قولهم: «أَقْبِلْ على خَيْدَبتِك» أى طريقك الأوّل. قال الشيبانىّ: الخَيدب الطَّريق الواضح. وإن صحّ هذا فقد عاد إلى القياس؛ لأنّ الطريق يشق الأرض.",
+ "az": "«خدب» (خ، د، ب) — iki əsas prinsipə malikdir: biri bir şeydə nizamsızlıq və yumşaqlıq, digəri isə bir şeydə yırtıq/çatdır. Birincisi: خَدَب (xədəb) — səfehlik, axmaqlıqdır. Ərəblərin xəbərlərində gəlmişdir: «كان بنَعلمَةَ خَدَبٌ» (Bə Nə’ləmə xədəbun) — yəni səfehlik; bəlkə də bu, onun döyüşlərində olub və qeyd etdiyimizə dəlalət edir. Və bundan: بَعِيرٌ خِدَبٌّ (bəirun xidəbbun) — bu, ətin çoxluğunda olur, ət çoxaldıqda yumşalır və laxlayır. Və birincidən deyilir: رجل أَخْدَبُ (əxdəb kişi) və امرأة خَدْباءُ (xədba qadın). Əsməi demişdir: دِرْعٌ خَدْباءُ (zirh xədba) — yumşaq deməkdir. Şair deyib: * خدباء يحْفِزُها نِجَادُ مُهنَّدٍ (٢) * (Hind qılıncının qurşağı hərəkətə gətirdiyi yumşaq zirh). Və deyilir: خَدَبَ (xədəbə) — yalan danışdı; bu da ona görədir ki, yalandakı qeyri-düzgünlük səbəbindən orada nizamsızlıq var. Və شيخ خِدَبٌ (xidəb qoca) — dəvənin vəsf olunduğu şeylə vəsf olunmuşdur. Bəziləri demişdir: Onun dilində خَدَب (xədəb) var, yəni uzunluq. Digər əsas isə: خَدْبٌ بِالنَّابِ (xədbun bin-nab) — dəriyə ətlə birlikdə çərtik açmaqdır. Və deyilir: ضربة خَدْباءُ (xədba zərbəsi) — daxili orqanlara nüfuz etdikdə. Və الْخَدْبُ (əl-xədb) — şiddətli sağım, sanki şiddətli sağmaqla dəvənin əmçəyini yarıb çatlatmaq istəyir. Bu fəsildən kənara çıxanlardan onların bu sözüdür: «أَقْبِلْ على خَيْدَبتِك» (Öz xeydəbəsinə tərəf gəl) — yəni sənin ilk yoluna. Şeybani demişdir: Əl-xeydəb — açıq-aydın yoldur. Əgər bu doğrudursa, deməli, o, əsl ölçüyə qayıtmışdır; çünki yol yeri yarır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1216,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 265,
+  "page_to": 266
+ },
+ "ar": "الدال والحاء أصلٌ واحد يدلُّ على اتساع وتبسُّط. تقول العرب: دحَحْتُ البيت وغيرَه، إذا وسَّعته *. واندَحَّ بطنُه، إذا اتَّسع. قال أعرابىّ: «مُطِرْنا لليلتين بقيتا من الشّهر، فاندحَّتِ الأرضُ كَلَأً». ويقال دَحَّ الصَائدُ بيتَه، إذا جعَلَه فى الأرض. قال أبو النَّجم:\n* بيْتاً خَفِيًّا فى الثَّرَى مَدْحُوحَا (٣) *\nومن الباب الدَّحْدَاح: القصير، سمّى لتطامُنِه وجُفُورِه (٤). وكذلك الدُّحَيْدِحَةُ. قال:\nأغَرَّكِ أَنَّنى رجلٌ دميم … دُحَيْدِحَة وأنَّكِ عَيْطَمُوسُ (١)",
+ "az": "[دح] الدال والحاء (dal və ha hərfləri) genişliyə və rahatlığa dəlalət edən tək bir əsasdır. Ərəblər: دحَحْتُ البيت وغيرَه، إذا وسَّعته (Ev və başqa bir şeyi genişləndirdim, yəni geniş etdim) – deyirlər *. واندَحَّ بطنُه، إذا اتَّسع (Qarnı genəldi, yəni genişləndi). Bir ərəb bədəvisi demişdir: «مُطِرْنا لليلتين بقيتا من الشّهر، فاندحَّتِ الأرضُ كَلَأً» (Ayın qurtarmasına iki gün qalmış bizə yağış yağdı və yer otlaqla genişləndi/bollaşdı). Həmçinin ovçunun دَحَّ الصَائدُ بيتَه (ovçu evini yerə qurdu/genişlətti) dediyi də rəvayət olunur ki, o, bunu yerdə etmişdir. Əbu Nəcm demişdir:\n* بيْتاً خَفِيًّا فى الثَّرَى مَدْحُوحَا (٣) *\n(Torpağın içində gizli, genişləndirilmiş bir ev...)\n\nBu babdandır: الدَّحْدَاح: القصير (alçaqboylu, qısa adam), o, bədəninin kiçikliyinə və basıqlığına görə belə adlandırılmışdır (٤). Həmçinin الدُّحَيْدِحَةُ (kiçik qısaboylu qadın). (Şair) demişdir:\nأغَرَّكِ أَنَّنى رجلٌ دميم … دُحَيْدِحَة وأنَّكِ عَيْطَمُوسُ (١)\n(Mənim çirkin, balaca bir kişi və sənin isə ucaboylu, gözəl bir qadın olmağın səni qürrələndirdimi?)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.589Z"
+}

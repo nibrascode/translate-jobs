@@ -1,0 +1,17 @@
+{
+ "i": 513,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثرب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 375,
+  "page_to": 375
+ },
+ "ar": "الثاء والراء والباء كلمتان متباينَتا الأصل، لا فروع لهما.\nفالتّثريب اللَّوم والأَخْذ على الذَّنب. قال اللّه تعالى: ﴿لا تَثْرِيبَ عَلَيْكُمُ اَلْيَوْمَ﴾ فهذا أصلٌ واحد. والآخر الثَّرْبُ، وهو شحمٌ قد غَشَّى الكَرِشَ والأمعاءَ رقيقٌ؛ والجمع ثُرُوب.",
+ "az": "[ثرب] الثاء والراء والباء كلمتان متباينَتا الأصل (Thə, ra və ba əsasları fərqli olan iki kəlmədir), onların budaqları yoxdur. Əttəsbir (التّثريب) məzəmmət etmək və günaha görə töhmət verməkdir. Uca Allah buyurmuşdur: ﴿لا تَثْرِيبَ عَلَيْكُمُ اَلْيَوْمَ﴾ mənaca tərcümə: Bu gün sizə məzəmmət yoxdur. Bu, tək bir əsasdır. Digəri isə الثَّرْب (əs-sərb)-dir, o da qarın önünü və bağırsaqları örtən nazik piydir; cəmi ثُرُوب (surub)-dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.075Z"
+}

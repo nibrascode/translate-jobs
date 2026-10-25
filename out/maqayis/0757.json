@@ -1,0 +1,17 @@
+{
+ "i": 757,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 506,
+  "page_to": 507
+ },
+ "ar": "ومن ذلك قولهم للرجل إذا صُرع قد جُعْفِلَ. وذلك من كلمتين: من جُعِف\n* إذا صُرِع، وقد مرّ تفسيره؛ و\nفى الحديث: «حَتى يَكون انجعافَها مرة». ومن كلمة أخرى وهى جَفَل، وذلك إذا تجمَّع فذَهَب. فهذا كأنه جُمِع وذُهِب به.",
+ "az": "«جعفل» - Və buraya adam sərt şəkildə yıxıldıqda «قَدْ جُعْفِلَ» (cüəfilə) demələri daxildir. Bu, iki sözdən ibarətdir: جُعِف - yıxıldıqda, onun izahı artıq keçmişdir; hədisdə: «حَتى يَكون انجعافَها مرة» (Hətta onun bir dəfə yıxılması oluncaya qədər) və başqa bir sözdən, o da جَفَل (cəfəl) - bu da bir şey toplanıb getdiyi zaman olur. Bu isə sanki toplandı və aparıldı kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.216Z"
+}

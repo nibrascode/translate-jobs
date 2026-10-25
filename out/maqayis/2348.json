@@ -1,0 +1,17 @@
+{
+ "i": 2348,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صخد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "الصاد والخاء والدال أصلٌ صحيح يدلُّ على شدّةٍ فى حَرٍّ وغيره. فالصَّيْخَد: شدّة الحَرّ. ويقال الصَّيخَد: عين الشَّمس. واصطَخَدَ الْحِرْباءُ:\nتَصَلَّى بحرِّ الشَّمس. ويومٌ صَخَدان، على فَعَلان (١): شديد الحَرّ. ويقال: صَخَد النهار يَصْخَد من شدّة الحرّ، وصَخِد يَصْخَد (٢). والصَّخْرة الصَّيخود: الشّديدة.\nومما يقارِب هذا فى باب الشِّدّة قولهم: صَخَد الصُّرَد، إذا صاح صِياحاً شديداً. وكذلك صَخَد الرّجُل.",
+ "az": "[صخد] «الصاد» (sad), «Xə» (xa) və «Dal» (dal) istidə və digər şeylərdə şiddətə dəlalət edən səhih bir kökdür. «الصَّيْخَد» (əs-seyxəd) — şiddətli istidir. Deyilir ki, «الصَّيْخَد» (əs-seyxəd) günəşin gözüdür. «اصطَخَدَ الْحِرْباءُ» (buqələmun qızmar günəş istisində qızındı). «يومٌ صَخَدان» (səxədan günü), fəəlan vəznində — şiddətli isti gün. Deyilir: صَخَد النهار يَصْخَد (gün şiddətli istidən qızdı), və صَخِد يَصْخَد (səxidə yeşxadu). «الصَّخْرة الصَّيخود» (səyxud qaya) — şiddətli, sərt qaya. Şiddət بابında (bölümündə) buna yaxın olan sözlərindəndir: صَخَد الصُّرَد (sürəd quşu şiddətli səslə qışqırdı). Eləcə də kişinin bağırması (صَخَد الرّجُل).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

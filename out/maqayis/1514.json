@@ -1,0 +1,17 @@
+{
+ "i": 1514,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 411,
+  "page_to": 411
+ },
+ "ar": "الراء والعين والجيم أَصلٌ يدلُّ على نَضارة وحُسْن وخِصْب وامتلاء. ويقال أرضٌ مِرْعاجٌ ورَعِجَة (١)؛ إذا كانت خِصْبةً. ومن النَّضارة والحُسن: إرعاج البَرْق (٢)، وهو تلألؤُه.",
+ "az": "[رعج] (ra, ayn, cim) — təravətə, gözəlliyə, bolluğa və doluluğa dəlalət edən bir əsasdır. Deyilir: أرضٌ مِرْعاجٌ və رَعِجَةٌ (ərdun mir-ac və rəcih) – əgər bol/məhsuldardırsa. Təravət və gözəllikdən: إرعاج البَرْق (ir-acul bərq) – şimşəyin parıldaması (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:50.330Z"
+}

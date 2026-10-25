@@ -1,0 +1,17 @@
+{
+ "i": 188,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بجل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 199,
+  "page_to": 200
+ },
+ "ar": "الباء والجيم واللام أصولٌ ثلاثة: أحدها الكفاف والاحتساب، والآخر الشَّئ العظيم، والثالث عِرْقٌ.\nفالأوّل قولهم بَجَلْ بمعنى حَسْب. يقول منه: أبْجَلَنِى كذا كما يقول كَفَانى وأحْسَبَنِى. قال الكميت (٢):\nإليه موارِدُ أهلِ لخَصَاصِ … ومِنْ عِنْدِهِ الصَّدَرُ المُبْجِلْ\nقال ثعلب: بَجَلْ بمعنى حَسْب. قال: ولم أسْمَعْهُ مضافاً إلاّ فى بيتٍ واحد وهو قول لبيد:\n* بَجَلِى الآنَ مِنَ العيشِ بَجَلْ (١) *\nكذا قال ثعلب. وقد قال طرفة:\nألاّ إنَّنِى سُقِّيتُ أسودَ حالِكاً … ألَا بَجَلى من الشراب ألَا بَجَلْ (٢)\nوبَجِيلة قبيلة، يجوز أن تكون مشتقَّةً من هذا أو ما بعده.\nوالأصل الثانى قولهم للرجل العظيم بَجَالٌ وبَجِيلٌ. والبُجْل البُهْتان العظيم.\nوحجّتُه قولُ أبى دُواد:\n* قلتَ بُجْلاً قُلْتَ قولاً كاذباً (٣) *\nوالأصل الثالث وهو عِرْقٌ فى باطن الذراع. قال شاعر (٤):\n* سارت إليهمْ سُؤُورَ الأَبْجَلِ الضَّارِى (٥) *",
+ "az": "«بجل» (bəcəl). Ba, cim və lam hərfləri üç əsas mənaya dəlalət edir: bunlardan biri kifayətlənmək və hesab etmək, ikincisi böyük şey, üçüncüsü isə damardır. Birincisi onların «بَجَلْ» (kifayətdir, bəsdir) deməsidir. Məsələn: «أبْجَلَنِى كذا» (filan şey mənə kifayət etdi) – necə ki, «كَفَانى» (mənə bəs etdi) və «أحْسَبَنِى» (mənə kifayət etdi) deyirlər. Kumeyt (٢) demişdir: «İliyhi məvaridu əhli li-xəsasin … və min ‘indihis-sədaru əl-mübCil» (Fəqirlik əhlinin gəlib-gedəcək yerləri Ona tərəfdir … və ehtiyatsızlıqdan qurtaran, hörmətli dönüş də Onun yanındadır). Səhləb demişdir: «بَجَلْ» sözü «حَسْب» (kifayətdir) mənasındadır. O dedi: «Mən bunun izafə olunduğunu yalnız bir beyt – Ləbidin bu sözü istisna olmaqla eşitmədim: * Bəcəli əl-ana minəl-'eyşi bəcəl (١) * (İndi yaşayışdan mənə yetər, artıqlaması ilə yetər)» Səhləb belə demişdir. Tərfə də demişdir: * Əla innəni suqqiytu əsvədə halikan … əla bəcəli minəş-şarabi əla bəcəl (٢) * (Bilin ki, mənə qara, zəhərli [şərab] içirildi … bilin ki, içkidən mənə yetər, bilin ki, yetər). «بَجِيلة» (Bəcilə) bir qəbilədir, ehtimal ki, bundan və ya sonrakı kökdən törəmişdir. İkinci əsas məna isə onların böyük adama «بَجَالٌ» (bəcal) və «بَجِيلٌ» (bəcil) deməsidir. «البُجْل» (əl-bujl) isə böyük böhtandır. Bunun dəlili Əbu Duvadın bu sözüdür: * Qultə buclən qultə qulən kaziban (٣) * (Böyük böhtan dedin, yalan söz söylədin). Üçüncü əsas məna isə qolun iç tərəfindəki bir damardır. Bir şair (٤) demişdir: * Sərat iləyhim suurəl-əbjəli ضَّارِى (٥) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:27:05.781Z"
+}

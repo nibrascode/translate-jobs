@@ -1,0 +1,17 @@
+{
+ "i": 2095,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شقذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 202,
+  "page_to": 203
+ },
+ "ar": "الشين والقاف والذال أُصَيل يدلُّ على قلة النَّوم. يقولون:\nإِنّ الشّقْذ العينِ، هو الذى لا يكاد ينام. قالوا: وهو الذى يُصيب النَّاسَ بالعين.\nفأما قولهم: أشقَذْتُ فلاناً إِذا طردتَه، واحتجاجُهم بقول القائل:\nإِذَا غَضِبُوا علىَّ وأشقَذُونى … فصرتُ كأنّنى فَرَأٌ مُتارُ (١)\nفإنّ هذا أيضاً وإن كان معناه صحيحاً فإنه يريد رَمَزونى بعيونهم بِغضَةً، كما ينظر العدوُّ إِلى من لا يحبُّه.\nومن الباب الشَّقْذاء: العُقاب الشديدة الجُوع، سمّيت بذلك لأنّها إِذا كانت كذا [كان ذلك] أشدَّ لنظرها. وقد قال الشُّعراء فى هذا المعنى ما هو مشهور.\nوذكر بعضهم: فلانٌ يُشاقِذُ فلاناً، أى يُعادِيه. فأمَّا قولُهم: ما به شَقَذ ولا نَقَذٌ، فمعناه عندهم: ما به انطلاق. وهذا يبعد عن القياس الذى ذكرناه.\nفإنْ صحّ فهو من الشاذّ.",
+ "az": "[شقذ] الشين (ش), القاف (ق) və Zal (ذ) az yuxulu olmağa dəlalət edən kiçik bir əsldir. Deyirlər ki, عَيْنٌ شقْذ (şəqiz göz) — az qala heç yatmayandır. Dedilər ki, o, insanlara göz dəyən (nəzəri dəyən) kimsədir. Amma onların: أشقَذْتُ فلاناً (filankəsi qovdum) demələrinə və şairin bu sözü ilə dəlil gətirmələrinə gəlincə: إِذا غَضِبُوا علىَّ وأشقَذُونى … فصرتُ كأنّنى فَرَأٌ مُتارُ (١) (Onlar mənə qəzəblənib məni qovduqları zaman… elə oldum ki, sanki hürküsmüş bir vəhşi eşşəyəm) — bunun mənası düzgün olsa belə, o, «nifrətlə bizə göz qoydular» demək istəyir, necə ki düşmən sevmədiyi adama baxır. Bu fəsildəndir: الشَّقْذاء (əş-şəqzaə): şiddətli ac olan qartal; o, belə olduqda baxışı daha kəskin olduğu üçün adlandırılmışdır. Şairlər də bu mənada məşhur sözlər demişlər. Bəziləri qeyd etmişdir: فلانٌ يُشاقِذُ فلاناً (filankəs filankəslə düşmənçilik edir), yəni düşmənçilik edir. Amma onların: ما به شَقَذ ولا نَقَذٌ (onda nə şəqəz, nə nəqəz var) demələrinə gəlincə, onların fikrincə mənası budur: onda hərəkətlilik yoxdur. Bu, qeyd etdiyimiz qiyasdan uzaqdır. Əgər səhihdirsə, şaz (istisna) kabildirəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:08.599Z"
+}

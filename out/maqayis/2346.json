@@ -1,0 +1,17 @@
+{
+ "i": 2346,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صحو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 335,
+  "page_to": 335
+ },
+ "ar": "الصاد والحاء والحرف المعتل أصلٌ صحيح يدلُّ على انكشاف شئ. من ذلك الصَّحْو: خِلاف السُّكْر. يقال صحا يصحو السَّكْرانُ فهو صاحٍ. ومن الباب: أصْحَت السَّماءُ فهى مُصْحِيَة. وروى عن أبى حاتم قال:\nالعامّة تظنُّ أنّ الصَّحو لا يكون إلاّ ذهابَ الغَيم؛ وليس كذلك، إنَّما * الصحو ذَهاب البَرْدِ، وتفرُّقُ الغَيم.\nومما شذَّ عن هذا الأصل المِصحاةُ، كالجام يُشرَب فيه.",
+ "az": "[صحو] «الصاد» (sad), «Hə» (ha) və mötəl hərf bir şeyin üzə çıxmasına, açılmasına dəlalət edən səhih bir kökdür. Bunlardan biri «الصَّحْو» (əs-səhv) — sərxoşluğun əksidir. Deyilir: صحا يصحو السَّكْرانُ فهو صاحٍ (sərxoş ayıxdı, ayır, o artıq ayıqdır). Bu qapıdandır: أصْحَت السَّماءُ فهى مُصْحِيَة (Səma buludsuz və açıq oldu, o, artıq açıq havadır). Əbu Hatəmdən rəvayət olunmuşdur ki, o demişdir: Avam camaat elə bilir ki, səhv (açıq hava) yalnız buludun getməsi ilə olur; belə deyil, səhv — soyuğun getməsi və buludun dağılmasıdır. Bu kökdən istisna olunan isə içindən su içilən kasa kimi olan «المِصحاة» (əl-mis-həh) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

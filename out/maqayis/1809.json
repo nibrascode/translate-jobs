@@ -1,0 +1,17 @@
+{
+ "i": 1809,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 41,
+  "page_to": 42
+ },
+ "ar": "الزاء والياء والنون أصلٌ صحيح يدلُّ على حُسن الشئ وتحسينه. فالزَّيْن نَقيضُ الشَّيْن. يقال زيَّنتْ الشئ تزيينًا. وأزْيَنتِ الأرضُ وازَّيَّنتْ وازدانت (٣) إذا حَسَّنَها عُشْبُها. ويقال إن كان صحيحًا - إنّ الزَّين:\nعُرف الدِّيك. ويُنشدون:\nوجئتَ على بغلٍ تَزُفُّكَ تِسعةٌ … كأنّكَ دِيكٌ مائلُ الزَّين أعْوَر (١)",
+ "az": "[زين] (zin). الزاء (ز) və الياء (ي) və النون (ن) bir şeyin gözəlliyinə və gözəlləşdirilməsinə dəlalət edən səhih bir əsldir. فالزَّيْنُ (zeyn) — شَيْن (şeyn - eyb, çirkinlik) sözünün əksidir. زيَّنتْ الشئ تزيينًا (bir şeyi bəzədim, bəzəmək) — deyilir. Yer üzü أزْيَنتِ الأرضُ (gözəlləşdi) və ازَّيَّنتْ və ازدانت (gözəlləşdi) — onun bitkisi onu gözəlləşdirdikdə deyilir. Əgər səhihdirsə, deyilir ki: الزَّين (zeyn) — xoruzun pipiyidir. Və bu beytlə istidlal edirlər: «وجئتَ على بغلٍ تَزُفُّكَ تِسعةٌ … كأنّكَ دِيكٌ مائلُ الزَّين أعْوَر» (1) (Sən doqquz nəfərin səni müşayiət etdiyi qatır üstündə gəldin... sanki sən pipiyi əyri, bir gözü kor xoruz kəsənərsən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.436Z"
+}

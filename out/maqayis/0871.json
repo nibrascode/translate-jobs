@@ -1,0 +1,17 @@
+{
+ "i": 871,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حشك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 63,
+  "page_to": 63
+ },
+ "ar": "الحاء والسين والكاف أصلٌ واحد، وهو تجمُّع الشئ.\nيقال حَشَكْت النَّاقةَ، إذا تركتَها لا تحلبُها فتجمَّع لبنُها، وهى محشوكة. قال:\n* غَدَت وهى مَحْشوكَةٌ حافلٌ (٢) *\nوحَشَكَ القومُ، إذا حَشَدُوا. وحَشَكَت (٣) السّحابة: كثُر ماؤُها. ومنه قولهم للنَّخلة الكثيرة الحَمْل حاشك. وحَشَكت السّماء: أتَتْ بمطرها. وربَّما حملوا عليه فقالوا: قوسٌ حاشكة، وهى الطَّرُوحُ البعيدةُ المَرمى. وحَشّاك: نَهْر.",
+ "az": "[حشك] الحاء، السين والكاف (h, s, k) tək bir əsasdır, o da bir şeyin toplanmasıdır. Deyilir: حَشَكْتُ النَّاقَةَ (dəvəni saxladın ki, onu sağmayasan və südü yığılsın), o, مَحْشُوكَةٌ (südü yığılmış) olur. [Şair] demişdir: * غَدَتْ وَهْيَ مَحْشُوكَةٌ حَافِلٌ * (O, südü yığılmış və dolğun halda səhəradək yola düşdü). حَشَكَ الْقَوْمُ (tayfa toplandı). حَشَكَتِ السَّحَابَةُ (buludun suyu çoxaldı). Həmçinin çox məhsul verən xurma ağacına حاشك deyirlər. حَشَكَتِ السَّمَاءُ (göy öz yağmuru ilə gəldi). Bəzən buna əsaslanaraq قوسٌ حاشكة (atışı uzağa gedən yay) demişlər, bu, uzağa düşən oxa deyilir. وَحَشَّاك: bir çayın adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:55:58.229Z"
+}

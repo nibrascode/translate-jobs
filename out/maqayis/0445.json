@@ -1,0 +1,17 @@
+{
+ "i": 445,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 349,
+  "page_to": 349
+ },
+ "ar": "التاء والفاء واللام أصلٌ واحدٌ، وهو خُبْثُ * الشئ وكَراهَتُه.\nفالتَّفَل الرِّيحُ الخبيثة. وامرأةٌ تَفِلَةٌ ومِتْفال. و\nقال رسول اللّه ﵌: «لا تمنَعُوا إماءَ اللّه مساجدَ اللّه، وليَخْرُجْن إِذا خرَجْنَ تَفِلات». أى لا يكنَّ مطيَّبات. وقد أتْفَلْتُ الشئ، قال:\nيا ابنَ التى تَصيَّدُ الوِبارَا … وتُتْفِل العَنْبَرا والصِّوَارا (١)\nوقال امرؤ القيس:\n* إذا انفَتَلَتْ مُرْتَجَّةٍ غيرُ مِتْفالِ (٢) *\nومن هذا الباب تَفَلْت بالشَّئ، إذا رمَيْتَ به من فَمِك متكرِّهاً له. قال:\nومِنْ جوفِ ماءِ عَرْمَضُ الحَوْلِ فَوْقَه … مَتَى يَحْسُ مِنه مائحُ القَوْمِ يتفُلِ (٣)",
+ "az": "[تفل] (tə-f-l). Ta, fa və lam hərfləri tək bir əsasdır, o da bir şeyin pisliyi və iyrəncliyidir. Et-təfəl — pis qoxudur. Qadın تَفِلَة (təfilətün) və مِتْفال (mitfal) adlanır. Peyğəmbər ﷺ demişdir: «Allahın cariyələrini Allahın məscidlərindən məhrum etməyin və əgər çıxırlarsa, تَفِلات (təfilat) halında çıxsınlar». Yəni ətrirlənməmiş olsunlar. Və mən bir şeyi ətirlənməz etdim (أتْفَلْتُ الشئ). [Şair] demişdir: Ey o qadının oğlu ki, dovşan ovlayır... Və ənbər ilə ceyran balalarını təfəlsiz (ətirsiz) edir (1). İmrül-Qeys demişdir: Hərəkətli, ətrirli olmayan qadın dolandığı zaman (2). Və bu fasildəndir: təfəltü bi-ş-şey – iyrənərək onu ağzından atdığın zaman. [Şair] demişdir: Üstündə il boyu yosun qalmış suyun dibindən... Qövmün suçəkəni ondan bir qurtum içəndə tüpürər (3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

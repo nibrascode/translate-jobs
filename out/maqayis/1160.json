@@ -1,0 +1,17 @@
+{
+ "i": 1160,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 229,
+  "page_to": 229
+ },
+ "ar": "الخاء والواو والطاء أُصَيلٌ يدلُّ على تَشعُّبِ أَغصان فالخُوط الغُصْن، وجمعه خِيطان. قال:\n* على قِلاص مِثْلِ خِيطانِ السَّلَمْ (٤) *",
+ "az": "«خوط»: الخاء، الواو və الطاء — budaqların şaxələnməsinə dəlalət edən kiçik bir əsasdır. «الخُوط» (əl-xut) — budaqdır, cəmi «خِيطان» (xitən) gəlir. Şair demişdir: «* Sələm ağacının budaqları kimi arıq dəvələr üzərində (٤) *»",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

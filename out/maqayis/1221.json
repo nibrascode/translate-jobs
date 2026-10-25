@@ -1,0 +1,17 @@
+{
+ "i": 1221,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 268,
+  "page_to": 268
+ },
+ "ar": "الدال والراء والصاد ليس أصلاً يُقاس عليه ولا يفرَّع منه، لكنّهم يقولون الدِّرص ولدُ الفأرة، وجمعُه دِرَصَة. ويقولون: وقع القوم فى أُمِّ أدْرَاصٍ، إذا وقعوا فى مَهْلِكَة. وهو ذاك الأوّل؛ لأنّ الأرض الفارغةَ يكون فيها أدراص. قال:\nوما أمُّ أدراصٍ بأرضٍ مَضَلَّةٍ … بأغْدَرَ مِنْ قيسٍ إِذا اللَّيلُ أظلما (١)\nويقولون للرّجُل إذا عَىَّ بأمرِه: «ضَلَّ دُرَبْصٌ نَفَقَهُ».",
+ "az": "[درص] الدال والراء والصاد (dal, ra və sad hərfləri) qiyas edilən və ya özündən törəmə verilən bir əsas deyildir, lakin onlar الدِّرص (əddirs) – siçan balası deməkdir, cəmi isə دِرَصَة (dirasə) gəlir. Onlar: وقع القوم فى أُمِّ أدْرَاصٍ (Tayfa ədras analığına düşdü) – yəni həlakedici təhlükəli bir yerə düşdülər, deməkdir. Bu, birinciyə uyğundur, çünki boş və səhra torpaqlarda siçan balaları olar. (Şair) demişdir:\nوما أمُّ أدراصٍ بأرضٍ مَضَلَّةٍ … بأغْدَرَ مِنْ قيسٍ إِذا اللَّيلُ أظلما (١)\n(Azdırıcı bir yerdə olan siçan analığı belə, gecə qaranlıqlaşanda Qeysdən daha xain deyildir)\n\nVə bir kişi işdə aciz qaldıqda ona deyirlər: «ضَلَّ دُرَبْصٌ نَفَقَهُ» (Durəbs öz yuvasını azdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.589Z"
+}

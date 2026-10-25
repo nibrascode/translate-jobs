@@ -1,0 +1,17 @@
+{
+ "i": 2442,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضأل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الضاد والهمزة واللام أُصَيْل يدلُّ على ضعف ودِقَّةٍ فى جسم.\nمن ذلك الضَّئيل، وهو الضَّعيف. والفعل منه ضَؤُل يَضؤُل. ورجل ضُؤَلةٌ:\nضعيف. والضَّئيلة: الحيَّة الدَّقيقة.",
+ "az": "«ضأل»: الضاد, الهمزة, واللام (d, həmzə, l) — cisimdə zəifliyə və incəliyə dəlalət edən kiçik bir kökdür. Bunlardan biri «الضَّئيل»dir ki, o da zəif deməkdir. Felindən «ضَؤُل يَضؤُل» gəlir. «رجل ضُؤَلةٌ» — zəif kişi. «الضَّئيلة» — incə ilan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

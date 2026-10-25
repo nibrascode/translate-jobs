@@ -1,0 +1,17 @@
+{
+ "i": 1533,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رفه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 419,
+  "page_to": 419
+ },
+ "ar": "الراء والفاء والهاء أصلٌ واحدٌ يدلُّ على نَعمةٍ وسَعة مَطْلَبٍ. من ذلك الرِّفْهُ، وهو أن تَرِدَ الإبلُ كلَّ يومٍ متى شاءت. قال الشاعر (٣):\nيَشْرَبْنَ رِفْهاً عِراكاً غيرَ صادرةٍ … وكلُّها كارعٌ فى الماء مُغْتَمِرُ\nومن ذلك الرَّفاهَةُ فى العَيش والرّفَاهِيَة. ويقال: بينَنَا وبين فلانٍ ليلةٌ رافهة، أى ليِّنة السّير لا تُعيِى. ومن ذلك الإرفاه: كثرة [التدَهُّن (٤)]، وهو من الرِّفْه الذى ذكرناه. ورُفِّه عنه: إذا نُفِّس عنه الكَربُ.",
+ "az": "«رفه» (rəfəh): Ра, fa və hə hərfləri nemətə və tələbin genişliyinə dəlalət edən tək bir əsasdır. Bunlardandır: «الرِّفْهُ» (ərrifhu), o da dəvələrin istədikləri zaman hər gün suya getməsidir. Şair demişdir: يَشْرَبْنَ رِفْهْاً عِراكاً غَيْرَ صادِرَةٍ … وكلُّها كارعٌ فى الماء مُغْتَمِرُ (Yəşrabnə rifhən irəkan ğayrə sadirətin ... və kulluhə karidun fil-məi muğtəmirun). Bunlardandır həyatda rahatlıq və rifah — «الرَّفاهَةُ» (ərrəfahətü) və «الرَّفَاهِيَةُ» (ərrəfahiyyətü). Deyilir: bizimlə filankəs arasında rahat bir gecə var, yəni yormayan yumşaq gedişli gecə — «لَيْلَةٌ رافِهَةٌ» (ləylətün rafihətün). Və bunlardandır: «الإرْفَاهُ» (əl-irfəhu) — [yağlanmağın] çox olması, bu da zikr etdiyimiz «الرِّفْه» (ərrifh) sözündəndir. «رُفِّهَ عَنْهُ» (ruffihə anhü) — kədər ondan yüngülləşdirildiyi zaman deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.131Z"
+}

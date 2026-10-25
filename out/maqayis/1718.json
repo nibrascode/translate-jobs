@@ -1,0 +1,17 @@
+{
+ "i": 1718,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 5,
+  "page_to": 5
+ },
+ "ar": "الزاء والميم أصلٌ واحدٌ، وهو يدلُّ على تقدُّم فى استقامةٍ وقَصْد، من ذلك الزِّمام لأنه يتقدّم إذا مُدَّ به، قاصداً فى استقامة. تقول زَمَمْتُ البعير أزُمُّه. ويقال أمْرُ بنى فلانٍ زَمَمٌ، كما يقال أَمَمٌ، أى قصدٌ. ويحلفون فيقولون:\n«لا والذى وجْهِى زَمَمَ بَيْتِه (٢)»، يريدون تلقاءَه وقَصْدَه. والزَّمُّ: التقدُّم فى السَّير.\nومما شذّ عن هذا الأصل الزِّمْزِمة: الجماعة من الناس. وقال الشيبانى:\nلزِّمزيم: الجِلّة من الإبل (٣).",
+ "az": "«زم» — Zae və mim tək bir kökə aiddir və düzlükdə və məqsəddə irəliləməyə dəlalət edir. Bunlardan biri «الزِّمام» (cilov) sözüdür, çünki o, dartıldığı zaman düz bir məqsədlə irəliləyər. «زَمَمْتُ البعير أزُمُّه» (Dəvənin burnuna cilov taxıb çəkdim) deyirsən. Həmçinin «أمْرُ بنى فلانٍ زَمَمٌ» (Filankəsin oğullarının işi düzgündür) — «أَمَمٌ» sözü kimi, yəni məqsədəuyğundur, deyilir. Onlar and içərək deyirlər: «لا والذى وجْهِى زَمَمَ بَيْتِه (٢)» (Xeyr, elə Zata and olsun ki, üzüm onun evinin istiqamətindədir), bununla onun qarşısını və məqsədini qəsd edirlər. «الزَّمُّ» — səfərdə irəliləməkdir. Bu kökdən istisna olanlardan biri «الزِّمْزِمة» — insan dəstəsidir. Şeybani demişdir: «الزِّمْزيم» — dəvənin seçilmişləri (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:48.689Z"
+}

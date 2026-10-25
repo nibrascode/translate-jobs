@@ -1,0 +1,17 @@
+{
+ "i": 1135,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خمص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 219,
+  "page_to": 220
+ },
+ "ar": "الخاء والميم والصاد أصلٌ واحد يدلُّ على الضُّمْر والتّطامُن.\nفالخميص: الضّامر البَطْن؛ والمصدر الخَمْصَ. وامرأةٌ خُمْصانةٌ: دقيقة الخَصْرِ.\nويقال لباطن القَدَم الأخْمَص. وهو قياسُ الباب، لأنّه قد تداخَل. ومن الباب المَخْمَصة، وهى المجاعة؛ لأنَّ الجائِع ضامرُ البطْن. ويقال للجائع الخميص، وامرأةٌ خميصة قال الأعشى:\nتَبِيتون فى المَشْتَى مِلاءً بطونُكُمْ … وجاراتُكم غَرْثى يَبِتْن خمائصا (٣)\nفأمّا الخَمِيصة فالكِساء الأسودُ. وبها شَبَّه الأعشى شَعْرَ المرأة:\nإذا جُرِّدَتْ يوماً حَسِبْتَ خَميصةً … عليها وجرْيالَ النَّضيرِ الدُّلامِصا (٤)\nفإنْ قيل: فأينُ قِياسُ هذا من الباب؟ فالجواب أنّا نقول على حَدِّ الإمكان\nوالاحتمال: إنّه يجوز أن يسمَّى خميصةً لأنّ الإنسانَ يشتمِل بها فيكون عند أخْمَصِهِ، يريد به وسطَه. فإن كان ذلك صحيحاً وإلاَّ عُدَّ فيما شذَّ عن الأصل.",
+ "az": "[خمص] (X-M-S) Xa, mim və sad hərfləri tək bir kökdür və arıqlığa və çökməyə dəlalət edir. Xəmis (الخميص): qarnı çökük (arıq) olandır; məsdəri xəmsdir (الخَمْصَ). Xumsanə (خُمْصانةٌ): beli incə olan qadındır. Ayağın altına əxməs (الأخْمَص) deyilir. Bu, fəslin qiyasındadır, çünki o, içəri çökmüşdür. Bu fəsildən məxməsə (المَخْمَصة) aclıqdır; çünki ac olanın qarnı çökük olur. Aca xəmis, qadına isə xəmisə deyilir. Əşa dedi: Siz qışda qarınlarınız tox yatırsınız... Qonşularınız isə ac, xəmais (qarınları çökük) halda yatırlar (٣). Xəmisəyə (الخَمِيصة) gəlincə, bu qara bir əbadır. Əşa qadının saçını buna bənzədib: Bir gün o (saç) açıldıqda, sanki üzərində xəmisə (qara əba)... Və parlaq qızıl rəngi var (٤). Əgər soruşulsa ki, bunun fəsillə əlaqəsi nədir? Cavab budur: Biz imkan və ehtimal daxilində deyirik: Ola bilsin ki, ona xəmisə deyilib, çünki insan ona bürünür və o, onun əxməsinə (belinə) çatır. Əgər bu doğrudursa, belədir, yoxsa kökdən kənar sayılır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:12:39.173Z"
+}

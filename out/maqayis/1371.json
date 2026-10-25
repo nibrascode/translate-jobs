@@ -1,0 +1,17 @@
+{
+ "i": 1371,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "الدال والحاء والميم ليس بشئِ. على أنّهم يقولون: دَحَمَه، إذا دَفَعه دفعاً شديداً. وبه سُمِّى الرَّجُل دَحْمانَ ودُحَيْماً.",
+ "az": "[دحم] الدال والحاء والميم ليس بشئِ. (الدال, hə və mim – heç bir şey deyil). Lakin onlar deyirlər: دَحَمَه (Onu dəhəmə etdi), onu şiddətlə itələdiyi zaman. Bununla da kişi دَحْمانَ (Dəhman) və دُحَيْماً (Duheym) adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

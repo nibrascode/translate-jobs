@@ -1,0 +1,17 @@
+{
+ "i": 1552,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رقد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 428,
+  "page_to": 428
+ },
+ "ar": "الراء والقاف والدال أصلٌ واحدٌ يدلُّ على النَّوم؛ ويُشتقّ منه. فالرُّقاد: النَّوم. يقال رقَد رُقوداً. ومن الذى اشتُقَّ منه: أَرْقَدَ الرَّجُل بالأرض، إذا أقام بها.\nومما شذَّ عن الأصل: * أرْقَدَ الظّليمُ وغيرُه، إِذا أسرع فى مُضِيِّه.",
+ "az": "[رقد] (Rəqəd): Ra, qaf və dal hərfləri yuxuya dəlalət edən tək bir əsasdır; ondan müxtəlif sözlər törəyir. فالرُّقاد (fər-ruqad): yuxu. Deyilir: رقَد رُقوداً (rəqədə ruqudən) — yatdı. Əsasından törəyən sözlərdən biri: أَرْقَدَ الرَّجُل بالأرض (ərqadər-raculu bil-ardi) — adam yerdə qaldığı, məskunlaşdığı zamandır. Əsasdan istisna olanlar: * أَرْقَدَ الظّليمُ وغيرُه (ərqadəz-zəlimu və ğayruhu) — dəvəquşu və digərləri sürətlə hərəkət etdikdə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

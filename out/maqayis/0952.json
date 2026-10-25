@@ -1,0 +1,17 @@
+{
+ "i": 952,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 109,
+  "page_to": 110
+ },
+ "ar": "الحاء والنون والذال أصلٌ واحد، وهو إنضاج الشئ.\nيقال شِواء حَنِيذ، أى مُنْضَج، وذلك أن تحمى الحِجارة وتُوضَعَ عليه حتى ينضَج.\nويقال حَنذْت الفرسَ، إذا استحضرته شوطاً أو شوطين (١)، ثم ظاهَرْتَ عليه الْجِلالَ حتى يعرَق. وهذا فرسٌ محنود وحنيذ. وأما قولهم حَنَذٌ، فهو بلد. قال:\nتأبَّرِى يا حيْرَةَ النخيل … تأبَّرى من حَنَذٍ فَشُولى (٢)\nويقولون: «إذا سقيتَ فاحْنِذْ (٣)» أى أقِلَّ الماءَ وأكثِرِ النبيذَ. وهو من\nالباب أيضاً؛ لأنَّها تبقى بحرارتها إذا لم تُكْسَر بالماء.",
+ "az": "[حنذ] (Həm, nun və zal): Bir şeyi bişirib yetkinləşdirməyə (inzad) dəlalət edən tək bir əsasdır. «شِواء حَنِيذ» (həniz kabab) – bişmiş, hazırlanmış kabab deməkdir; bu da daşların qızdırılıb onun üzərinə qoyulması və nəticədə bişməsidir. «حَنذْت الفرسَ» (atı hənəz etdim) – atı bir və ya iki dövrə qaçırtdıqdan sonra tərliyincə üzərinə örtüklər (cilal) çəkdiyin zaman deyilir. Bu, «محنود» və «حنيذ» (həniz) atdır. «حَنَذٌ» (Hənəz) sözünə gəldikdə, o, bir ölkədir. Şair demişdir: تأبَّرِى يا حيْرَةَ النخيل … تأبَّرِى من حَنَذٍ فَشُولى (٢) (Ey xurma bağlarının heyranlığı, tozlan/birləş… Hənəzdən tozlan və uzaqlaş). Onlar deyirlər: «إذا سقيتَ فاحْنِذْ» (su verdiyin zaman həniz et) – yəni suyu az et, nəbizi (şirəni) çoxalt. Bu da həmin fəsildəndir; çünki o, su ilə qatışdırılmadığı zaman öz hərarətini qoruyub saxlayır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.646Z"
+}

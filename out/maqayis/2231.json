@@ -1,0 +1,17 @@
+{
+ "i": 2231,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 269,
+  "page_to": 270
+ },
+ "ar": "الشين والراء والدال أصلٌ واحدٌ، وهو يدلُّ على تنفيرٍ وإِبعاد، وعلى نِفَارٍ وبُعد، فى انتشار. وقد يقال للواحد (٥). من ذلك شَرَد البعير شُرودا. وشرّدْتُ الإبلَ تشريداً أُشرِّدُهَا. ومنه قوله جلّ ثنَاؤه:\n﴿فَشَرِّدْ بِهِمْ مَنْ خَلْفَهُمْ﴾ يريد نكِّل بهم وسَمِّع. وهو ذلك المعنى، أنَّ المُذْنِب\nإذا أذنَبَ وعوُقب عليه، فقد شُرِّد بتلك العقوبة غيرُه، لأنّه يحذرُ مثلَ ما وقع بالمذْنِبِ فَيَشْرُد عن الذَّنْب ويَنْكُلُ. واللّه أعلم.",
+ "az": "[شرد] (şin, ra və dal) təqib edib uzaqlaşdırmağa, həmçinin səpələnmiş halda qaçmağa və uzaq durmağa dəlalət edən tək bir əsasdır. Bəzən tək bir şəxs üçün də deyilir. Bunlardan biri şərədə dəvə qaçdıqda işlədilən شَرَد البعير شُرودا (şaradəl-bə‘iru şurudan) sözüdür. Və Dəvələri qovub səpələdim mənasında شَرّدْتُ الإبلَ تشريداً أُشرِّدُهَا (şərrətdül-iblə təşridən eşürridüha). O cümlədən uca Allahın bu kəlamı: ﴿فَشَرِّدْ بِهِمْ مَنْ خَلْفَهُمْ﴾ (mənaca tərcümə: «Arxalarındakıları da onlarla qorxudub qov (və ya darmadağın et)»). Burada nəzərdə tutulan təqib edib dərs vermək və ad çıxarmaqdır. Məna budur ki, günahkar günah işlədib onun cəzasını aldıqda, başqaları da həmin cəza ilə qorxudulub uzaqlaşdırılmış olur; çünki onlar günahkara gələn bəlanın eynisindən ehtiyat edirlər, beləcə günahdan uzaq durur və çəkinirlər. Vallahu əlməm.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.449Z"
+}

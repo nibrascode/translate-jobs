@@ -1,0 +1,17 @@
+{
+ "i": 1786,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زهف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 33,
+  "page_to": 33
+ },
+ "ar": "الزاء والهاء والفاء أصلٌ يدلُّ على ذهاب الشئ. يقال ازدهَفَ الشئَ، وذلك إذا ذهب به. قالت امرأةٌ من العرب:\nيا من أحسَّ بُنَيَّىَّ اللذين هما … سَمعِى ومُخّى فمُخِّى اليوم مزدَهَفُ (١)\nويقال منه أَزْهَفَه الموتُ. ومن الباب ازدهَفه، إذا استعجَلَه. قال:\nقولك أقوالاً مع التَّحلافِ … فيه ازدهافٌ أيُّما ازدهافِ (٢)\nوقال قوم: الازدهاف التزيُّد فى الكلام. فإن كان صحيحاً فلأنّه ذَهابٌ عن الحقّ ومجاوزةٌ له.",
+ "az": "[زهف] الزاء والهاء والفاء (z-h-f) şeyin getməsinə dəlalət edən bir əsasdır. ازدهَفَ الشئَ (izdəhəfə-ş-şəyə) - şeyi aparıb yox etdi, deyilir. Ərəb qadınlarından biri demişdir: يا من أحسَّ بُنَيَّىَّ اللذين هما … سَمعِى ومُخّى فمُخِّى اليوم مزدَهَفُ (١) (Ey mənim eşitməyim və beyfim olan iki balaca oğlumu hiss edən kəs... mənim beynim bu gün yox olub gedir). Ondan موت أزْهَفَه (əzhəqəhu-l-məvtü - ölüm onu aparıb yox etdi) feili düzəldilir. Bu qapıdandır ازدهَفه (izdəhəfəhu) - onu tələsdirdi. O demişdir: قولك أقوالاً مع التَّحلافِ … فيه ازدهافٌ أيُّما ازدهافِ (٢) (Andiçmələrlə birlikdə sözlər söyləməyinin içində elə bir tələskənlik və azğınlıq var ki!). Bir qrup insan demişdir: İzdəhaf - sözdə həddi aşmaq və özünü öyməkdir. Əgər bu səhihdirsə, deməli, bu, haqq yolundan uzaqlaşmaq və həddi aşmaq deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:39.989Z"
+}

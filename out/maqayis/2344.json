@@ -1,0 +1,17 @@
+{
+ "i": 2344,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "الصاد والحاء والميم أصَيلٌ صحيح يدلُّ على لونٍ. فالأصْحَم:\nالأغبر إِلى السَّواد. وبلدةٌ صَحْماءُ: مغْبَرَّة. واصحامَّت البَقْلة: اخضارَّت. وإنَّما قيل لها ذاك لأنّها إذا رَوِيت فكأنها سوداء. ولذلك يقال: إدْهامَّتْ.",
+ "az": "[صحم] «الصاد» (sad), «Hə» (ha) və «Mim» (mim) rəngə dəlalət edən səhih kiçik bir kökdür. «الأصْحَم» (əl-əshəm) — qaraya çalan tozlu rəngdir. «بلدةٌ صَحْماءُ» (tozlu-torpaqlı ölkə) — tozlanmış. «اصحامَّت البَقْلة» (tərəvəz göyərdi). Ona bu ad ona görə verilmişdir ki, suya doyduğu zaman sanki qara rəngdə görünür. Ona görə də deyilir: «إدْهامَّتْ» (tündləşdi/qaraldı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

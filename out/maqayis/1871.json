@@ -1,0 +1,17 @@
+{
+ "i": 1871,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سفق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 78,
+  "page_to": 78
+ },
+ "ar": "السين والفاء والقاف أصَيلٌ يدلُّ على خلاف السخافة.\nفالسَّفيق لغة فى الصفيق، وهو خلاف السخيف. ومنه سَفَقْت الباب فانْسَفَقَ، إذا أغلقته. وهو يرجع إلى ذاك القياس. ومنه رجل سَفيق الوجه، إذا كان قليل الحياء.\nومن الباب: سفَقْت وجهَه، لطمتَه.",
+ "az": "[سفق] السين والفاء والقاف — sin, fa və qaf hərfləri incəliyin əksinə dəlalət edən kiçik bir əsasdır.\nفالسَّفيق (əssəfiq) — səfiqin (incənin) əksi olan qalın mənasında səfiqdir. Və buradan gəlir: سَفَقْت الباب فانْسَفَقَ (səfəqtül-babə fənsfəqə) — qapını bağladın və o bağlandı. Bu, həmin qisə qayıdır. Və buradan gəlir: رجل سَفيق الوجه (rəculün səfiqul-vəch) — həyası az olan kişi.\nVə bu fəsildəndir: سفَقْت وجهَه (səfəqtü vəchəh) — onun üzünə sillə vurdun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.965Z"
+}

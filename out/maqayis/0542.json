@@ -1,0 +1,17 @@
+{
+ "i": 542,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثمد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 387,
+  "page_to": 388
+ },
+ "ar": "الثاء والميم والدال أصلٌ واحد، وهو القليل من الشئ، فالثَّمْدُ\nالماء القليل لا مادّةَ له. وثَمَدتْ فلاناً النِّساءِ إذا قطَعْنَ ماءَه (١). وفلانٌ مثمودٌ إذا كثُرَ السُّؤال عليه حتى ينفَدَ ما عنده. وقال فى المثمود:\nأو كماءِ المثْمودِ بعد جِمامٍ … زَرِم الدَّمْع لا يؤوب نَزُورا (٢)\nوالثامد من البَهْم حِينَ قَرِم؛ لأنّ الذى يأخذه يَسِيرٌ.\nومما شذَّ عن الباب الإِثْمِد، وهو معروف، وكان بعضُ أهل اللغة يقول:\nهو من الباب، لأنّ الذى يُستعمَل منه يَسيرٌ. وهذا ما لا يُوقَف على وجهه.",
+ "az": "[ثمد] الثاء (sə), الميم (mim) və الدال (dal) bir əsasdır, o da bir şeyin az olmasıdır. «الثَّمْدُ» (əs-səmd) mənbəyi olmayan az miqdarda sudur. «ثَمَدتْ فلاناً النِّساءِ» (qadınlar filankəsin suyunu kəsdilər) (١). «فلانٌ مثمودٌ» (filankəs məsmuddur) deyilir, yəni ondan o qədər çox istənilib ki, əlində olan tükənib. «المثمود» (əl-məsmud) haqqında demişdir: أو كماءِ المثْمودِ بعد جِمامٍ … زَرِم الدَّمْع لا يؤوب نَزُورا (٢) (Yaxud dolub-daşdıqdan sonra məsmudun suyu kimi; göz yaşı kəsildi, geri dönməz və azalmır). «الثامد» (əs-samid) acıqdıqda balalara deyilir; çünki onun aldığı azdır. Bu qapıdan kənar olan «الإِثْمِد» (əl-ismid) sözüdür ki, bu məlumdur. Bəzi dilçilər deyərdilər: Bu da həmin qapıdandır, çünki ondan istifadə olunan miqdar azdır. Bu isə əsası bilinməyən bir fikirdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:42:17.837Z"
+}

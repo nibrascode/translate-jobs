@@ -1,0 +1,17 @@
+{
+ "i": 2535,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 433,
+  "page_to": 433
+ },
+ "ar": "الطاء والواو والقاف أصلٌ صحيح يدلُّ على مِثل مادلَّ عليه الباب الذى قبلَه. فكلُّ ما استدار بشئ فهو طَوق. وسمِّى البِناءُ طاقاً لاستدارته إذا عُقِد. والطَّيلَسان طاقٌ، لأنّه يدور على لابِسِه. فأمّا قولهم أطاق هذا الأمر إطاقةً، وهو فى طَوقه، وطوَّقْتُك الشَّئَ، إذا كَلَّفْتُكَه (٢) فكلُّه من الباب وقياسِا؛ لأنَّه إذا أطاقَه فكأنَّه قد أحاط به ودارَ به من جوانبه.\nومما شذَّ عن هذا الأصل قولُهم: طاقةٌ من خيط أو بَقْل، وهى الواحدة الفَردةُ منه. وقد يمكن أن يتمحَّل فيقاس على الأوّل، لكنّه يبعُد.",
+ "az": "[طوق] (T-V-Q): Ta, vav və qaf hərfləri bir düzgün kökdür, əvvəlki fəsildə göstərilənə bənzər bir mənaya dəlalət edir. Bir şeyin ətrafında dövr edən hər şey طَوق (boyunbağı, dairə) adlanır. Bina طاق (tağ) adlandırıldı, çünki tikildikdə dairəvi olur. الطَّيلَسان (taylasan) bir طاق-dır, çünki geyinənin ətrafında dövr edir. أطاق هذا الأمر إطاقةً (bu işə gücü çatdı) sözlərinə gəlincə, o, onun طَوق-undadır (gücündədir) və طوَّقْتُك الشَّئَ (sənə bir şeyi yüklədim), əgər səni ona məcbur etdimsə (2), bunların hamısı bu kökdəndir və qiyasidir; çünki ona gücü çatdıqda, sanki onu əhatə etmiş və tərəflərindən dövr etmişdir. Bu kökdən kənara çıxan sözlərdən biri də onların طاقةٌ من خيط أو بَقْل (bir sap və ya tərəvəz dəstəsi) demələridir ki, bu, ondan olan tək bir fərddir. Birinciyə görə qiyas etməyə çalışmaq olar, lakin bu uzaq ehtimaldır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:11:32.879Z"
+}

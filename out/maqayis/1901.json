@@ -1,0 +1,17 @@
+{
+ "i": 1901,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سلح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 94,
+  "page_to": 94
+ },
+ "ar": "السين واللام والحاء السلاح، وهو ما يُقاتَل به. وكان أبو عبيدة يفرِق بين السّلاح والجُنة، فيقول: السلاح ما قُوتل به، والجُنّة ما اتُّقى به، ويحتج بقوله:\nحيثُ تَرى الخيلَ بالأبطال عابسة … يَنْهَضْن بالهندوانيّاتِ والجُنَنِ (١)\nفجعل الجُنَن غيْرَ السُّيوف (٢). والإسليح: شجرةٌ تغزُرُ عليها الإبل وقالت الأعرابية: «الإسليح (٣)، رُغوَةٌ وسَريح، وسَنامٌ وإطريح».",
+ "az": "[سلح] (S-L-H). Sin, lam və ha - silahdır, onunla döyüşülür. Əbu Ubeydə silah (السلاح) ilə qalxan (الجُنة) arasında fərq qoyardı və deyərdi: Silah onunla döyüşülən, qalxan isə onunla qorunulandır. O, bu beytlə dəlil gətirir: «حيثُ تَرى الخيلَ بالأبطال عابسة … يَنْهَضْن بالهندوانيّاتِ والجُنَنِ» (Atları qəhrəmanlarla qaşqabaqlı gördüyün yerdə, onlar hind qılıncları və qalxanlarla ayağa qalxırlar) (١). Beləliklə, qalxanları qılınclardan fərqli tutmuşdur (٢). «الإسليح» (əl-islih) - dəvələrin üzərində kökəldiyi bir ağacdır. Ərəb qadını demişdir: «الإسليح (٣)، رُغوَةٌ وسَريح، وسَنامٌ وإطريح» (İslih, köpük və süd, hörgüc və yeməkdir).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:46:05.008Z"
+}

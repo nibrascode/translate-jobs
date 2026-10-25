@@ -1,0 +1,17 @@
+{
+ "i": 352,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بوم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 322,
+  "page_to": 322
+ },
+ "ar": "الباء والواو والميم كلمةٌ واحدةٌ لا يُقاسُ عليها. فالبُوم ذكَرُ الهَامِ، وهو جمعُ بُومَة. قال:\nقد أعْسِفُ النّازِحَ المجهولَ مَعْسِفُه … فى ظِلِّ أخْضَرَ يدعُو هَامَهُ البُومُ (٤)\nقالوا: وجمعُ البُوم أبوام. قال:\nفَلَاةٍ لِصَوْتِ الجِنِّ فى مُنْكَرَاتِها … هَريرٌ وللأبْوامِ فيها نوائحُ (٥)",
+ "az": "«بوم» (bum): باء، واو və mim hərflərindən ibarət tək bir sözdür, buna əsasən müqayisə aparılmır. «البُوم» (əl-bum) — bayquşun erkəyidir, bu da «بُومَة» (bumə) sözünün cəmi olaraq işlənir. Şair demişdir: \nقَدْ أَعْسِفُ النَّازِحَ المجهولَ مَعْسِفُه … فِى ظِلِّ أَخْضَرَ يَدْعُو هَامَهُ البُومُ (٤)\n(Bəzən naməlum uzaq səhra yollarını gedərəm, elə bir yaşıl kölgədə ki, onun baş hissəsini bayquşlar çağırır.) \nAlimlər demişlər ki, «البوم» sözünün cəmi «أبوام» (əbuam) gəlir. Şair demişdir:\nفَلَاةٍ لِصَوْتِ الجِنِّ فِى مُنْكَرَاتِها … هَريرٌ وَلِلأَبْوَامِ فِيهَا نَوَائِحُ (٥)\n(Elə bir səhra ki, onun qorxunc yerlərində cinlərin səsi bir xırıltıdır, orada bayquşların isə nalələri vardır.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.170Z"
+}

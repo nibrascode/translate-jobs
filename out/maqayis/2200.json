@@ -1,0 +1,17 @@
+{
+ "i": 2200,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شخص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 254,
+  "page_to": 254
+ },
+ "ar": "الشين والخاء والصاد أصلٌ واحدٌ يدلُّ على ارتفاع فى شئ. من ذلك الشّخص، وهو سوادُ الإنسان إذا سما لَكَ مِنْ بُعد. ثم يحمل على ذلك فيقال شَخَص من بلدٍ إلى بلد. وذلك قياسُه. ومنه أيضا شُخُوص البَصَر.\nويقال رجلٌ شَخِيصٌ وامرأةٌ شَخيصة، أى جَسيمة. ومن الباب: أشْخَصَ الرّامى، إذا جاز سَهْمُه الغرضَ من أعلاه، وهو سهمٌ شَاخص. ويقال، إذا ورد عليه أمر أقلقه: شُخِص به (٢)، وذلك أنّه إذا قَلِق نَبَا به مكانُه فارتفع.",
+ "az": "«شخص» (şəxs). Şin, xa və sad köklü tək bir əsas olub, bir şeydə ucalığa dəlalət edir. Bunlardan biri «الشَّخْصُ» (şəxs) olub, uzaqdan ucalıb görünən insan qarasına deyilir. Sonra bu məna digər sahələrə də şamil edilərək «شَخَصَ من بلدٍ إلى بلد» (bir şəhərdən başqa şəhərə getdi) deyilmişdir. Qaydası budur. Həmçinin «شُخُوصُ البَصَرِ» (gözlərin bərəlməsi/dikilməsi) dəridəndir. \nHəmçinin «رجلٌ شَخِيصٌ» (iri-gövdəli kişi) və «امرأةٌ شَخيصة» (iri-gövdəli qadın) – yəni bədəncə iri mənasında işlədilir. Bu باب-dan (bölmədən) deyilmişdir: «أشْخَصَ الرّامى» (oxatan oxu hədəfdən uzağa atdı) — oxu hədəfdən yuxarıdan keçdikdə; bu cür oxa «سهمٌ شَاخص» (yuxarıdan keçən ox) deyilir. Deyilir ki, əgər bir adama onu narahat edən bir iş üz verərsə, «شُخِصَ بِهِ» (2) olar; bunun səbəbi odur ki, o narahat olduqda olduğu yer ona dar gələr və qalxar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.963Z"
+}

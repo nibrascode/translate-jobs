@@ -1,0 +1,17 @@
+{
+ "i": 682,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 476,
+  "page_to": 476
+ },
+ "ar": "الجيم والميم والحرف المعتل كلمةٌ واحدة، وهو الجمَاءُ، وهو الشَّخص. وربّما ضُمّت الجيم. قال:\n* وقُرْصَةٍ مثلَ جُمَاء التُّرْسِ (١) *",
+ "az": "«جمى» — جيم، ميم və uzanan hərf tək bir sözdür, o da الجَمَاءُ (əl-cəmaa) yəni şəxs, bədəndir. Bəzən cəim hərfi zəmmə ilə də oxunur. (Şair) demişdir: «وقُرْصَةٍ مثلَ جُمَاء التُّرْسِ» (Və qalxanın gövdəsi kimi bir kökə/çörəyə bənzər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.350Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2078,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شغف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 195,
+  "page_to": 195
+ },
+ "ar": "الشين والغين والفاء كلمةٌ واحدة، وهى الشَّغَاف، وهو غِلاف القلب. قال اللّه تعالى: ﴿قَدْ شَغَفَها حُبًّا﴾، أى أوصَلَ الحبَّ إِلى شَغاف قلبها.",
+ "az": "[شغف] الشين والغين والفاء — tək bir kəlmədir, o da əş-şəğaf (الشَّغَاف), yəni qəlbin örtüyü, pərdəsidir. Uca Allah buyurmuşdur: ﴿قَدْ شَغَفَها حُبًّا﴾ (mənaca tərcümə: həqiqətən, sevgi onun qəlbinin pərdəsinə qədər işləmişdir), yəni sevgini qəlbinin qlafına çatdırdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:23.799Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 743,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جبس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 502,
+  "page_to": 502
+ },
+ "ar": "الجيم والباء والسين كلمةٌ واحدة: الجِبْس، وهو اللئيم، ويقال الجَبَان.",
+ "az": "«جبس» — جيم, ba və sin tək bir kəlmədir: «الجِبْس» (cibs) — alçaq adamdır, həmçinin qorxaq mənasında da deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

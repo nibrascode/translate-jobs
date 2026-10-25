@@ -1,0 +1,17 @@
+{
+ "i": 1883,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سقم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 84,
+  "page_to": 84
+ },
+ "ar": "السين والقاف والميم أصلٌ واحد، وهو المرض: يقال سُقْمٌ وسَقَمٌ وسَقامٌ، ثلاث لغات.",
+ "az": "[سقم] السين والقاف والميم (sin, qaf və mim) bir tək əsasdır, o da xəstəlikdir: «سُقْمٌ» (suqm), «سَقَمٌ» (səqəm) və «سَقامٌ» (səqam) deyilir, üç dildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:54.004Z"
+}

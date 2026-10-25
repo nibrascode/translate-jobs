@@ -1,0 +1,17 @@
+{
+ "i": 614,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جذف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 438,
+  "page_to": 438
+ },
+ "ar": "الجيم والذال والفاء كلمةٌ واحدة تدلُّ على الإسراع والقَطْع، يقال جَذَفْتُ الشئَ قطعتُه. قال الأعشى:\nقاعداً عندَه النَّدامى فما بَنْ … فَكُّ يؤتَى بمُوكَرٍ مَجْذُوفِ (١)\nويقال هو بالدَّال ويقال جَذَف الرّجُلُ أسرَعَ. قال ابن دريد: جَذَف الطائر إذا أسرَعَ * تحريكَ حناحَيْه. وأكثر ما يكون ذلك أن يقَصَّ أحدُ جناحيه.\nومنه اشتقاق مِجْداف السفينة. قال: وهو عربىٌّ معروف. قال:\nتكاد إن حُرِّك مجذافُها … تنْسَلُّ مِنْ مَثْناتِها وَاليَدِ (٢)\nيعنى الناقةَ. جعل السَّوط كالمجذاف لها، وهو بالذال والدال لغتان فصيحتان.",
+ "az": "[جذف] (Cim, ذal və fə): Tələsməyə və kəsməyə dəlalət edən tək bir kəlmədir. Deyilir: «جَذَفْتُ الشئَ» (şeyi kəsdim). Əşə basqara demişdir: «Oturmuşdur yanında nədimlər, heç vaxt kəsilmir ki, gətirilməsin yuvalı kəsilmiş quş (١)» Deyilir ki, bu, «د» (dal) hərfi ilə də gəlir, həmçinin «جذَف الرّجُلُ» (kişi tələsdi) deyilir. İbn Dürid demişdir: «جَذَف الطائر» (quş qanadlarını çalmaqda tələsdi) – bu daha çox qanadlarından birinin qırılması zamanı olur. Gəmi «مِجْداف» (kürək) sözünün kökü də buradan götürülmüşdür. O demişdir: Bu, məşhur ərəb sözüdür. O demişdir: «Az qalır, əgər hərəkət etdirilsə onun kürəyi... sıyrılıb çıxsın oynaqlarından və əldən (2)». Dəvəni nəzərdə tutur. Qırmчını onun üçün kürək kimi etmişdir. Bu söz «ذ» (ذal) və «د» (dal) ilə iki fəsahətli lüğəvi formalıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:27.643Z"
+}

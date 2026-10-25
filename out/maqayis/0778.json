@@ -1,0 +1,17 @@
+{
+ "i": 778,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "ومن ذلك قولهم للجافى (جَرْعَب) فيكون الراء زائدة. والجَعَب: التَقَبُّض.\nوالجَرَع: التِوَاءٌ فى قُوَى الحَبْل. فهذا قياسٌ مطرد.",
+ "az": "«جرعب» - Və buraya kobud adama «جَرْعَب» (cərcəb) deyilməsi daxildir, bu halda ra hərfi artıqdır (zayiddir). الكَعَب (əl-kə'əb - və ya cə'əb): yığılıb büzüşmək. İp tellərindəki əyrilik isə الجَرَع (əl-cərə') adlanır. Bu isə ardıcıl və uyğun bir qiyasdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

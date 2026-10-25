@@ -1,0 +1,17 @@
+{
+ "i": 2548,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 440,
+  "page_to": 441
+ },
+ "ar": "الطاء والباء واللام ثلاث كلمات ليست لها طَلَاوَةُ كلامِ العرب، وما أدرى كيف هى؟ من ذلك الطَّبل الذى يُضْرَب. ويقولون إنَّ الطّبل:\nالخَلْق (١). والثالثة الطُّوبالة، ولولا أنَّها جاءت فى بعض الشِّعر ما كان لذكرها معنىً، وما أحسبها فى غير هذا البيت:\nنَعَانِى حَنَانةُ، طُوبالةً … تُسَفُّ يبيساً من العِشْرِقِ (٢)\nويقال هى النَّعْجة.",
+ "az": "[طبل] الطاء والباء واللام (طا, با, lam) – ərəb kəlamının gözəlliyinə (təlavəsinə) malik olmayan üç kəlmədir və mən bunların necə olduğunu bilmirəm. Bunlardan biri çalınan طَبْل (tabl) – təbildir. Onlar deyirlər ki, tabl: xəlqdir (yaradılışdır) (١). Üçüncüsü isə طُّوبالة (tubalə) sözüdür, əgər o, bəzi şeirlərdə gəlməsəydi, onu zikr etməyin heç bir mənası olmazdı və mən güman etmirəm ki, o, bu beytin xaricində başqa yerdə olsun: نَعَانِى حَنَانةُ، طُوبالةً … تُسَفُّ يبيساً من العِشْرِقِ (٢) (Hənanə bizə məlumat verir ki, tubalə… eşriq bitkisinin qurusunu yeyir). Deyirlər ki, o, qoyundur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:11:55.933Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2125,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 219,
+  "page_to": 219
+ },
+ "ar": "الشين والنون والفاء كلمتان متباينتان: أحدهما الشَّنْف، وهو من حَلْى الأذُن. والكلمة الأخرى: الشَّنَف: البُغض. يقال شَنِف له يَشْنَف شنَفاً.",
+ "az": "[شنف] \nالشين والنون والفاء (şin, nun və fa) bir-birindən fərqli iki kəlmədir: Biri «الشَّنْف»-dür, o da qulaq bəzəyidir (sırğa). Digər kəlmə isə: «الشَّنَف» — nifrət, ikrah. Deyilir: «شَنِف له يَشْنَف شنَفاً» — ona nifrət etdi, nifrət edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:58.865Z"
+}

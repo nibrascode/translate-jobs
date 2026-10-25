@@ -1,0 +1,17 @@
+{
+ "i": 1992,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سجع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 135,
+  "page_to": 135
+ },
+ "ar": "السين والجيم والعين أصلٌ يدلُّ على صوت متوازن. من ذلك السَّجع فى الكلام، وهو أن يُؤتَى به وله فواصلُ كقوافِى الشِّعر، كقولهم:\n«مَنْ قَلّ ذَلّ، ومن أَمِرَ فَلّ»، وكقولهم: «لا ماءَكِ أبقَيْتِ، ولا دَرَنَكِ أنْقَيْت». ويقال سجَعت الحمامةُ، إذا هدرَتْ.",
+ "az": "[سجع] (səcəə): Sin, cim və eyn hərfləri uyumlu səsə dəlalət edən bir kökdür. Bunlardan biri kəlamda olan «السَّجع» (əssəc) – səcdir; bu, şeirin qafiyələri kimi fasilələri olan sözlərin gətirilməsidir. Məsələn, onların «مَنْ قَلّ ذَلّ، ومن أَمِرَ فَلّ» (Kim azaldı, zəlil oldu; kim əmr etdi, qalib gəldi/məğlub etdi) sözləri kimi, və ya «لا ماءَكِ أبقَيْتِ، ولا دَرَنَكِ أنْقَيْت» (Nə suyunu saxladın, nə də çirkini təmizlədin) dedikləri kimi. Həmçinin «سجَعت الحمامةُ» (səcəətil-həmamətü) – göyərçin gurultulu səs çıxardı, deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:35.045Z"
+}

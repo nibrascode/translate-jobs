@@ -1,0 +1,17 @@
+{
+ "i": 1461,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رزف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 388,
+  "page_to": 388
+ },
+ "ar": "الراء والزاء والفاء كلمتان تدلُّ إحداهُما على الإسراع، والأخرى على الهُزَال.\nفأمّا الأولى فالإرزاف الإسراع، كذا حدَّثنا به علىُّ بن إِبراهيم، عن ابن عبد العزيز، عن أبى عُبيدٍ عن الشَّيبانىّ. وحدَّثَنا به عن الخليل بالإسناد الذى ذكرناه: أرْزَفَ القومُ: أسرَعُوا، بتقديم الرّاء على الزّاء، واللّه أعلم. قال الأصمعىّ: رَزَفَت النَّاقةُ: أسرعَت؛ وأرزفْتُها أنا، إذا أخْبَبْتُها (٣) فى السَّير.\nوالكلمة الأخرى الرَّزَفُ: الهُزَال، وذكر فيه شعرٌ ما أدرى كيف صِحّتُه:\nيا أبا النَّضْر تَحَمَّلْ عَجَفِى … إنْ لم تَحَمَّلْهُ فقد جَارَزِفى",
+ "az": "«رزف» — ra, zay və fa [hərfləri] iki kəlmə olub, biri tələsikliyə, digəri isə arıqlığa dəlalət edir. Birinciyə gəldikdə, İrziaf (الإرزاف) tələsməkdir, bunu bizə Əli ibn İbrahim Əbdüləzizdən, o da Əbu Übeyddən, o da Şeybanidən belə nəql etmişdir. Xəlildən də bizə yuxarıda zikr etdiyimiz isnadla nəql etmişdir: أرزَفَ القومُ (qövm tələsdi): tələsdilər, ra [hərfi] zaydan [əvvəl] təqdim edilməklə, Allah daha yaxşı bilir. Əsməi demişdir: رَزَفَت النَّاقةُ (dəvə tez yeridi): dəvə tələsdi; və mən dəvəni tələsdirdim (أرزفْتُها أنا), gedişdə onu sürətləndirdim (٣). Digər kəlmə isə الرَّزَفُ (ərrəzəf) — arıqlıqdır, onun barəsində bir şeir də zikr olunmuşdur ki, onun nə dərəcədə səhih olduğunu bilmirəm: يا أبا النَّضْر تَحَمَّلْ عَجَفِى … إنْ لم تَحَمَّلْهُ فقد جَارَزِفى",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:24.395Z"
+}

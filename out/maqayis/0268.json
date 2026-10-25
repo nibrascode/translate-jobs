@@ -1,0 +1,17 @@
+{
+ "i": 268,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بظى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 262,
+  "page_to": 262
+ },
+ "ar": "الباء والظاء والحرف المعتل أصلٌ واحد، وهو تمكُّن الشئ مع لِينٍ ونَعْمَةٍ فيه. يقال بَظِيَ لَحْمُه اكتَنَزَ، ولَحْمه خَظَا بَظَا. ورُبَّما قالوا خَظِيَت المرأةُ وبَظِيَت، وهو من ذلك الأصل، لكنَّها فيما يقال دَخيل.",
+ "az": "[بظى] (bə-Zə-y): باء (ba), Zaa (Zə) və uzanan hərf tək bir əsasdır, o da yumşaqlıq və səfehlik (gözəllik) içində bir şeyin bərkiməsidir. «بَظِيَ لَحْمُه» (bəZiyə ləHmuhu) — əti bərkidi, «لَحْمُه خَظَا بَظَا» (ləhmuhu xaZaa baZaa) deməkdir. Bəzən «خَظِيَت المرأةُ وبَظِيَت» (xəZiyət əl-mər'ətu və bəZiyət) deyirlər ki, bu da həmin əsərdəndir, lakin deyilənlərə görə başqa dildən daxilomadır (dəxildir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:27.649Z"
+}

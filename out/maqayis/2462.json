@@ -1,0 +1,17 @@
+{
+ "i": 2462,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضرز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 395,
+  "page_to": 395
+ },
+ "ar": "الضاد والراء والزاء كلمةٌ واحدة. يقال إِنَّ لضِّرِزّة: المرأة القصيرة اللئيمة.",
+ "az": "[ضرز] الضاد (ضad), ra (ر) və zay (ز) hərfləri tək bir kəlmədir. Deyilir ki, لضِّرِزّة: qısaboylu, alçaq xasiyyətli qadındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:49.275Z"
+}

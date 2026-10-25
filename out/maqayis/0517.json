@@ -1,0 +1,17 @@
+{
+ "i": 517,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثعل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 376,
+  "page_to": 377
+ },
+ "ar": "الثاء والعين واللام أصلٌ واحد، وهو تَزَيُّدٌ واختلافُ حال. فالثَّعَل زيادة السِّنِّ واختلافُ فى الأسنان فى مَنْبتِها. تقول ثَعِلَ الرّجلُ وثَعِلَت سنُّه، وهو يَثْعَل ثَعَلا، وهو أَثْعَلُ والمرأة ثَعْلاء والجميع الثُّعْل. وربَّما كان الثَّعَل فى أطْباءِ النّاقة أو البقرة، وهى زيادةٌ فى طُبْييْها. وقال الخليل:\nالثُّعلول الرجل الغضبان، وأنشد:\nوليس بثُعلولٍ إذا سِيلَ واجْتُدِى … ولا بَرِماً يوماً إذا الضَّيفُ أوْهَمَا (٣)\nأىْ قَارَب، وعلى هذا القياس كلمةٌ ذكَرَها الخليل، أنَّ الأثْعَلَ السيِّد الضَّخْم إذا كان له فُضُول. وممّا اشتق منه ثُعَلٌ بطن من العرب (٤). قال امرؤ القيس.\nأحلَلْتُ رَحْلى فى بنى ثُعَلٍ … إنّ الكِرامَ للكريمِ مَحَلّ (١)\nويقال أثْعَلَ القومُ إذا خالَفُوا (٢).",
+ "az": "[ثعل] الثاء والعين واللام أصلٌ واحد (Thə, ayn və lam tək bir əsasdır), və o, çoxalmaq və halın dəyişməsidir. Əs-səal (الثَّعَل) dişin artması və dişlərin bitiş yerində fərqli olmasıdır. Deyirsən: ثَعِلَ الرّجلُ وثَعِلَت سنُّه (Kişi səilə etdi və dişi səilət etdi), və o, يَثْعَل ثَعَلا (yəthəlu səhalən) edir, o, أَثْعَلُ (əthəl), qadın isə ثَعْلاء (səla) olur, cəmi isə الثُّعْل (əs-sül) olur. Bəzən səal dəvənin və ya inəyin məmələrində olur ki, bu da onun iki məməsindəki artımın olmasıdır. Xəlil demişdir: الثُّعلول (Əs-sülul) qəzəbli kişidir, və şeir söylədi: وليس بثُعلولٍ إذا سِيلَ واجْتُدِى … ولا بَرِماً يوماً إذا الضَّيفُ أوْهَمَا (Dilənildiyi və istənildiyi zaman sülul deyil... qonaq tərəddüd etdiyi gün də səxavətsiz deyildir) (٣), yəni yaxınlaşdı. Bu qiyas üzrə Xəlil bir kəlmə qeyd etmişdir ki, əthəl əgər artıqlıqları olarsa böyük səyiddir. Törədildiyi şeylərdən biri də ərəblərdən bir qəbilə olan ثُعَلٌ (Süəl)-dür (٤). İmrul Qeys demişdir: أحلَلْتُ رَحْلى فى بنى ثُعَلٍ … إنّ الكِرامَ للكريمِ مَحَلّ (Yükümü Süəl oğullarının evinə endirdim... Həqiqətən kərimlər üçün kərim məskəndir) (١). Deyilir: أَثْعَلَ القومُ (Qövm əthəl etdi) müxalifət etdikləri zaman (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.075Z"
+}

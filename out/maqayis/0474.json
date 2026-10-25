@@ -1,0 +1,17 @@
+{
+ "i": 474,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "توه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 359,
+  "page_to": 359
+ },
+ "ar": "التاء والواو والهاء ليس أصلاً. قالوا: تَاهَ يَتُوه، مثل تَاهَ [يَتِيهُ] وهو من الإبدال. وقد ذُكِر.",
+ "az": "[توه] (t-v-h): Ta, vaf və hə hərfləri kök deyil. Dedilər ki, تَاهَ يَتُوهُ (tahə yətuhu) – تَاهَ يَتِيهُ (tahə yətihü) kimidir və bu, hərf əvəzlənməsindən (ibdaldən) irəli gəlir. Bu haqda artıq zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.836Z"
+}

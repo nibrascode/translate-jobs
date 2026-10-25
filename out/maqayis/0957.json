@@ -1,0 +1,17 @@
+{
+ "i": 957,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 111,
+  "page_to": 111
+ },
+ "ar": "الحاء والنون والقاف أصلٌ واحد، وهو تضابُق الشئ.\nيقال الضُّمَّر مَحَانيق. وإلى هذا يرجع الحَنَق فى الغيظ، لأنه تضايقٌ فى الخُلْق من غير نَدُحة ولا انبساط. قال الشاعر فى قولهم مُحْنَق:\nما كان ضَرَّك لو مَننْتَ وربما … مَنَّ الفتى وهو لغيظ المُحْنَق (٢)",
+ "az": "[حنق] (Həm, nun və qaf): Bir şeyin bir-birinə sıxılmasına (tədabuq) dəlalət edən tək bir əsasdır. «الضُّمَّر مَحَانيق» (arıq, zəif atlar məhaniqdir – yəni bədənləri bir-birinə sıxılıb yığılmışdır). Qəzəbdəki «الحَنَق» (hənəq) də məhz buna qayıdır, çünki bu, genişlik və rahatlıq olmadan xasiyyətdə olan daralmadır. Şair «مُحْنَق» (muhnəq) sözü haqqında demişdir: ما كان ضَرَّك لو مَننْتَ وربما … مَنَّ الفتى وهو لغيظ المُحْنَق (٢) (Minnət qoysaydın nə zərərin olardı ki, bəzən... igid qəzəbindən boğulsa belə minnət qoyar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.647Z"
+}

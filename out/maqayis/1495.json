@@ -1,0 +1,17 @@
+{
+ "i": 1495,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رضى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "الراء والضاد والحرف المعتلّ أصلٌ واحد يدلُّ على خلاف السُّخْط. تقول رضِى يرضَى رِضًى. وهو راضٍ، ومفعوله مرضِىٌّ عنه. ويقال إنّ أصله الواو؛ لأنَّه يقال منه رِضوَان. قال أبو عبيد: راضانِى فلانٌ فرَضَوْتُه ورَضْوَى: جبلٌ، وإذا نُسِب إليه رَضَوِىّ.",
+ "az": "[رضى] (rə-zə-ya). Ra, zad və zəif hərf – qəzəbin (isxut) əksinə dəlalət edən tək bir əsasdır. Deyirsən: رَضِيَ يَرْضَى رِضًى (raziyə, yarda, rizan). O, razıdır (رَاضٍ), onunla razı olunub (مَرْضِيٌّ عَنْهُ). Deyilir ki, bunun əsli vav hərfindəndir, çünki ondan رِضْوَانٌ (rizvanun) düzəlir. Əbu Ubeyd demişdir: Fulan mənimlə razılaşdı (رَاضَانِي فُلَانٌ), mən də onunla razılaşdım (فَرَضَوْتُهُ). رَضْوَى (Razva) – dağdır, ona nisbət etdikdə رَضَوِيٌّ (razaviyyun) [deyilir].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

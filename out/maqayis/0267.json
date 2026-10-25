@@ -1,0 +1,17 @@
+{
+ "i": 267,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بطش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 262,
+  "page_to": 262
+ },
+ "ar": "الباء والطاء والشين أصلٌ واحد، وهو أخْذ الشّئِ بقَهْر وغلَبةٍ وقُوّة. قال اللّه تعالى: ﴿إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ﴾. ويَدٌ باطشة.",
+ "az": "[بطش] (bə-tə-ş): باء (ba), طاء (ta) və şin tək bir əsasdır, o da bir şeyi qəhr, qələbə və güclə tutmaqdır. Uca Allah buyurmuşdur: mənaca tərcümə: «Həqiqətən, Rəbbinin qovranması (tutması) şiddətlidir» ﴿إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ﴾. Və «يَدٌ باطشة» (qüdrətli əl) deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:27.649Z"
+}

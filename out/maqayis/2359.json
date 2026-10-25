@@ -1,0 +1,17 @@
+{
+ "i": 2359,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 340,
+  "page_to": 340
+ },
+ "ar": "الصاد والدال والنون أصلٌ ضعيف. يقولون الصَّيْدَن:\nالثَّعْلَب.",
+ "az": "[صدن] (Sədən). Sad, dal və nun hərfləri zəif bir əsasdır. Onlar “seydən” [الصَّيْدَن] — tülkü deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.589Z"
+}

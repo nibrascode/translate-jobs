@@ -1,0 +1,17 @@
+{
+ "i": 2310,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صهد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 315,
+  "page_to": 316
+ },
+ "ar": "الصاد والدال والهاء بناءٌ صحيح يدلُّ على ما يقارب البابَ الذى قبله. يقولون: صَهَدَته الشّمس مثل صَهَرته الشَّمس. ثم يقال على الجِوار\nللسَّراب الجارى صَيْهَد. قال الهذلىُّ (١) فى صيهد الحَرِّ:\nوذكّرها فَيْحُ نَجْمِ الفُرو … ع ِ من صَيْهدِ الصَّيْفِ بَرْدَ الشَّمالِ (٢)",
+ "az": "«صهد» (Sad, dal və hə) - özündən əvvəlki fəslə yaxın olan mənanı bildirən səhih bir binadır. Deyirlər: «صَهَدَته الشّمس» — tıpkı «صَرَهتْه الشّمس» (günəş onu yandırdı/isitdi) kimidir. Sonra qonşuluq əsasında axan sərab üçün «صَيْهَد» sözü işlədilir. Hüzəli şair (١) istinin səyhedi haqqında demişdir: Və ulduzların qızmar istisi yay səyhedindən şimal küləyinin sərinliyini ona xatırlatdı (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2404,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضكع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 368,
+  "page_to": 368
+ },
+ "ar": "الضاد والكاف والعين فيه كلمة لا قياسَ لها. يقال رجل ضَوْكَعةٌ، إذا كان كثيرَ اللَّحم ثقيلاً.",
+ "az": "[ضكع] (Dəkə): Zad, kaf və eyn hərflərində heç bir qaydaya tabe olmayan bir kəlmə vardır. Deyilir: رجل ضَوْكَعةٌ (dəvkəc kişi) — əti çox və ağırkütləli olan şəxsə deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:55.136Z"
+}

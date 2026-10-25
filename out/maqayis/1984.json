@@ -1,0 +1,17 @@
+{
+ "i": 1984,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 129,
+  "page_to": 130
+ },
+ "ar": "السين والباء واللام أصلٌ واحد يدلُّ على إرسال شئٍ من من عُلو إلى سُفل، وعلى امتداد شئ.\nفالأول من قِيلِك: أسبلتُ السِّتْرَ، وأسبلَتِ السّحابةُ ماءَها وبمائها.\nوالسَّبَل: المطر الجَوْد. وسِبال الإنسان من هذا، لأنّه شعر منسدل. وقولهم لأعالى الدَّلو أسبْال، من هذا، كأنَّها شُبِّهت بالذى ذكرناه من الإنسان. قال:\nإِذْ أرسَلونى ماتحاً بدلائهمْ … فملأْتُها عَلَقاً إلى أسبالِها (١)\nوالممتدُّ طولاً: السّبيل، وهو الطَّريق، سمِّى بذلك لامتداده. والسَّابلة:\nالمختلِفَةُ فى السُّبُل جائيةً وذاهبة. وسمِّى السُّنْبُل سُنْبُلا لامتداده. يقال أسبَلَ الزّرعُ، إذا خَرج سُنبله. قال أبو عبيد: سَبَلُ الزَّرعِ وسُنْبُله سواء. وقد سَبَلَ (٢) وأسْبَلَ.",
+ "az": "«سبل» (sin, ba, lam). Bir şeyin yuxarıdan aşağıya doğru göndərilməsinə və bir şeyin uzanmasına dəlalət edən tək bir əsldir. Birincisi sənin bu sözündəndir: «Pərdəni saldım» mənasında «أسبلتُ السِّتْرَ» (əsbeltu-l-sitr), «Bulud suyunu və suyu ilə endirdi» mənasında «أسبلَتِ السّحابةُ ماءَها وبمایید» (əsbələti-s-səhabu maəhə). «السَّبَل» (əs-səbəl) - gur yağışdır. İnsanın bığları da bundan alınmışdır, çünki onlar aşağı asılmış tüklərdir. Onların dəvə вя kova başlarına «əsbial» demələri də, yuxarıda insan barəsində qeyd etdiyimizə bənzədildiyi üçün bundandır. O demişdir: «Məni kovalı suçıxaran olaraq göndərdikləri zaman, onu ağzına qədər qanla doldurdum» (إِذْ أرسَلونى ماتحاً بدلائهمْ … فملأْتُها عَلَقاً إلى أسبالِها). Uzununa uzanan şey: yoldur ki, adına «السَّبِيل» (əs-səbil) deyilir, uzandığı üçün belə adlandırılmışdır. «السَّابلة» (əs-sabilə) - yollarda gedən və gələn səyyahlardır. Sünbül də uzandığı üçün «سُنْبُل» (sunbul) adlandırılmışdır. Əkin sünbül çıxardığı zaman «أسبَلَ الزّرعُ» (əsbələ-z-zərcu) deyilir. Əbu Ubeyd demişdir: Əkinin səbülü və sünbülü eynidir. O, həm «səbələ» (سَبَلَ), həm də «əsbələ» (أسْبَلَ) demişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:11.742Z"
+}

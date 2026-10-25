@@ -1,0 +1,17 @@
+{
+ "i": 1432,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذبح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 369,
+  "page_to": 369
+ },
+ "ar": "الذال والباء والحاء أصلٌ واحد، وهو يدلُّ على الشّقّ.\nفالذَّبح: مصدِ ذبَحْت الشّاةَ ذبحاً. والذِّبح: المذبوح. والذُّبَّاح: شُقوقٌ فى أصول الأصابع. ويقال ذُبِحَ الدَّنُّ، إذا بُزِلَ. والمذابح: سيولٌ صغار تشقُّ الأرض شقًّا. وسعدٌ الذّابحُ: أَحد السُّعود (٣). والذِّبَح: نبتٌ، ولعله أن يكون شاذًّا من الأصل.",
+ "az": "[ذبح] \n\nذال، با və hə hərfi yarığa dəlalət edən tək bir əsasdır.\nالذَّبح (əz-zəbh) – qoyunu kəsməyin məsdəridir. الذِّبح (əz-zibih) – kəsilmiş heyvandır. الذُّبَّاح (əz-zübbah) – barmaqların uclarındakı yarıqlardır. Və deyilir ذُبِحَ الدَّنُّ (küp deşildi/açıldı). والمذابح (əlməzabih) – yeri yaran kiçik sel yataqlarıdır. سعدٌ الذّابحُ (Səd əz-Zabih) – sədlərdən (uğur ulduzlarından) biridir (3). Və الذِّبَح (əz-zibəh) – bir bitkidir, ola bilər ki, bu, əsasdan kənara çıxan (şaz) olsun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 752,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 505,
+  "page_to": 505
+ },
+ "ar": "الجيم والثاء والميم أصلٌ صحيح يدلُّ على تجمُّعِ الشئ. فالجُثْمان:\nشخص الإنسان. وجَثَم، إذا لَطِئ بالأرض. وجَثَم الطّائر يجْثُمُ. و\nفى الحديث:\n«نهى عن المُجَثّمة». وهى المصبورة على الموت.",
+ "az": "«جثم» — جيم, sə və mim bir şeyin toplanmasına dəlalət edən səhih bir əslidir. «الْجُثْمان» (cusman) — insanın cismi. «جَثَم» (cəsəm) — yerə qapanıb oturduğu zaman. Quş «جَثَم الطّائر يجْثُمُ» (cəsəmə əl-tair yecsumu) — çöküb oturdu. \nVə hədisdə: «نهى عن المُجَثّمة» («Mücəssəmədən [ölümə məhkum edilmiş quş və ya heyvandan] nəhy etmişdir»). Bu, ölümə bağlanıb (hədəf seçilib) öldürüləndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.135Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 410,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 337,
+  "page_to": 337
+ },
+ "ar": "التاء والخاء فى المضاعف ليس أصلا يقاسُ عليه أو يفرَّع منه، والذى ذُكِر منه فليس بذلك المعوَّل عليه. قالوا: والتّختخة حكايةُ صوتٍ. والتَّخُّ العجين الحامِض، تَخَّ تُخوخَة، وأَتَخَّهُ صاحبُه إتخاخاً.",
+ "az": "«تخ» (t-x): Tə və xa hərflərinin qoşa gələn forması müqayisə ediləcək və ya şaxələndiriləcək bir əsas deyil, bundan bəhs edilənlər də etibarlı sayılmır. Dedilər ki, التّختخة (əttəxtəxə) səsin təqlididir. التَّخُّ (əttəx): turş xəmirdir, تَخَّ تُخوخَةً (təxxə tuxuxətən), və sahibi ona Ətəxxəhu (أَتَخَّهُ) deyərək bolca təx etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

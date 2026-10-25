@@ -1,0 +1,17 @@
+{
+ "i": 1007,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حتل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 135,
+  "page_to": 135
+ },
+ "ar": "الحاء والتاء واللام ليس هو عندى أصلاً، وما أحُقُّ أيضاً ما حكَوْه فيه، وهو يدلُّ على القِلَّة والصِّغر. يقولون: الحَوْتَل الغلام حين يُرَاهِق (٣). ويقولون: لفِراخ القطا حَوْتَل. وهذا عندى تصحيفٌ، إنما هو حَوْتك بالكاف، وقد ذُكِر. ويقال حَتَلَ له: أعطاه. وليس بشئ",
+ "az": "«حتل» (h-t-l): Ha, ta və lam hərfləri mənim yanımda kök deyil, onda rəvayət etdikləri şeyi də mən haqlı hesab etmirəm, və o, azlığa və kiçikliyə dəlalət edir. Deyirlər: «الحَوْتَل» (əl-hawtəl) — oğlan həddi-buluğa çatmağa yaxınlaşdıqda [3]. Deyirlər ki, səhra qartalının (qatranın) balalarına «حَوْتَل» deyilir. Bu mənim yanımda təhrif olunmuşdur, əslində kaf hərfi ilə «حَوْتك» (hawtik) olmalıdır və bu artıq zikr edilmişdir. Deyilir: «حتل له» (hətələ ləhu) — ona verdi. Bu, heç bir şey deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.109Z"
+}

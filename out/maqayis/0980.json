@@ -1,0 +1,17 @@
+{
+ "i": 980,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حيز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "الحاء والياء والزاء ليس أصلا؛ لأن ياءه فى الحقيقة واوٌ.\nمن ذلك الحيِّز الناحية. وانحاز القوم، وقد ذكر فى بابه.",
+ "az": "[حيز] الحاء, Yə və Zai hərfləri əsl kök deyil; çünki onun yə hərfi həqiqətdə vav hərfidir. Bunlardan biri də الحيِّز (əl-heyyiz) – tərəf, nahiyədir. Və qövm انحاز (inhəzə) – uzaqlaşdı, bu da öz fəslində zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.843Z"
+}

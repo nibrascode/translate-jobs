@@ -1,0 +1,17 @@
+{
+ "i": 238,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "الباء والزاء والقاف أصلٌ واحد، وهو إلقاء الشئ، يقال بَزَق الإنسانُ، مثلُ بَصَق. وأهل اليَمَن يقولون: بَزَق الأرَضَ إذا بَذَرَها (١)",
+ "az": "[بزق] (bəzəq). باء (ba), زاء (zay) və قاف (qaf) hərfləri tək bir əsasdır ki, o da bir şeyi (ağızdan) atməkdir. İnsan «bəzəqə» (بَزَقَ) — tüpürdü, «bəsəqə» (بَصَقَ) kimidir. Yəmən əhli isə deyir: بَزَق الأرَضَ (bəzəqəl-ərzə) — torpağa toxum səpdi (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:02.135Z"
+}

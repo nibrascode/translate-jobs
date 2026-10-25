@@ -1,0 +1,17 @@
+{
+ "i": 2043,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 168,
+  "page_to": 169
+ },
+ "ar": "الشين والغين أصلٌ يدل على القلّة. قال أهل اللُّغة:\nالشّغشغة فى الشرب: التّصريد، وهو التقليل. قال رؤبة:\nلو كنتُ أسْطِيعُك لم يُشغَشَغِ … شُرْبى وما المشغولُ مِثْلُ الأفْرغِ (٤)\nهذا هو الأصل. وفيه كلمةٌ طريقتُها طريق الحكاية، وذلك ربَّما حُمل\nعلى القياس وربما لا يُحمَل. يقولون إنَّ الشغشغة صَوت الطّعْن، فى قول الهذلىّ (١):\nفالطعن شَغشغةٌ والضَّرب هَيْقعةٌ … ضربَ المُعَوِّل تحت الدِّيمِة * العَضَدا\nوالشغشغة: ضربٌ من هدير الإبل.",
+ "az": "«شغ» (şin və ğayın). Şin və ğayın hərfləri azlığa dəlalət edən bir əsldir. Dilçilər demişdirlər: İçki içərkən «الشغشغة» — suyu qurtum-qurtum az içməkdir, bu da miqdarı azaltmaqdır. Rubə demişdir: «لو كنتُ أسْطِيعُك لم يُشغَشَغِ … شُرْبى وما المشغولُ مِثْلُ الأفْرغِ» (Əgər səninlə bacarsaydım, içkim azaldılmazdı, məşğul olan boş olan kimi deyildir) (٤). Bu, əsas mənasıdır. Burada bir kəlmə də vardır ki, onun yolu rəvayət (təqlid) yoludur, bu isə bəzən qiyas edilir, bəzən də edilmir. Deyirlər ki, «الشغشغة» — Hüzəlin bu sözündə sancma səsidir (١): «فالطعن شَغشغةٌ والضَّرب هَيْقعةٌ … ضربَ المُعَوِّل تحت الدِّيمِة * العَضَدا» (Deməli, nizə sancmaq «şəğşəğə», zərbə vurmaq isə «həyqə» səsidir; çadır dirəyini yağış altında vuran kimsənin [dəvənin] qoluna vurduğu kimi). «الشغشغة» — dəvələrin hönkürtü növlərindən biridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:57.452Z"
+}

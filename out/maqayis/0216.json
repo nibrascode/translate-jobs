@@ -1,0 +1,17 @@
+{
+ "i": 216,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بذج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 217,
+  "page_to": 217
+ },
+ "ar": "الباء والذال والجيم أصلٌ واحد ليس من كلام العرب، بل هى كلمةٌ مُعَرَّبة، وهى البَذَجُ من وُلْدِ الضَّأن، والجمع بِذْجانٌ (١). قال الشاعر (٢):\nقد هلكَتْ جارتُنا من الهَمْجَ … وإنْ تَجُعْ تأكُلْ عَتُوداً أوْ بَذَج",
+ "az": "[بذج] الباء والذال والجيم (ba, zal və cim) bir əsl olub ərəb sözü deyil, əksinə ərəbləşdirilmiş (müərrəb) kəlmədir; o da quzu balası olan «البَذَجُ»-dür, cəmi «بِذْجانٌ»-dur (١). Şair demişdir (٢):\n* قد هلكَتْ جارتُنا من الهَمْجَ … وإنْ تَجُعْ تأكُلْ عَتُوداً أوْ بَذَج *\n*(Həmdəmi qonşumuz həmcinsizlərindən həlak oldu... Əgər acsa, çəpiş və ya quzu yeyər)*",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

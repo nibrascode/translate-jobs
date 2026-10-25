@@ -1,0 +1,17 @@
+{
+ "i": 132,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 140,
+  "page_to": 141
+ },
+ "ar": "الهمزة والميم واللام أصلان: الأول التثبُّت والانتظار، والثانى الحَبْل من الرَّمل. فأمّا الأول فقال الخليل: الأمل الرَّجاء، فتقول أمَّلتُه أُؤَمِّله تأميلاً، وأَمَلْتُه آمُلُه أَمْلاً وإمْلَةً على بناء جِلْسَة. وهذا فيه بعضُ الانتظار.\nوقال أيضاً: التأمُّل التثبّت فى النّظر. قال (١):\nتَأَمَّلْ خَليلِى هَلْ تَرَى مِنْ ظعائنٍ … تَحَمَّلْنَ بالعَلياءِ من فوق جُرْثُم\nوقال المرار:\nتَأَمَّلْ ما تَقُولُ وكُنْتَ قِدْماً … قُطَامِيًّا تأمُّلُهُ قليلُ (٢)\nالقُطَامىّ: الصَّقْر، وهو مُكتَفٍ بنظرةٍ واحدة.\nوالأصل الثانى قال الخليل: والأمِيلُ حبْلٌ من الرمل معتزِلٌ معْظَمَ الرّمل:\nوهو على تقدير فَعِيل، وجمْعُه أُمْل. أنشد ابنُ الأعرابىِّ:\n* وقد تجشَّمت أمِيلَ الامْلِ * (٣)\nتجشَّمت: تعسَّفت. وأمِيل الأُمُلِ: أعظَمُها. وقال:\nفانصاعَ مذْعُوراً وما تَصَدَّفَا … كالبَرْقِ يجتازُ أَمِيلاً أَعْرَفَا (٤)\nقال الأصمعىّ: فى المثل: «قد كان بينَ الأميلَين مَحَلّ»، يُراد قد كان فى الأرض متّسَعٌ.\n[(باب الهمزة والنون وما بعدهما فى الثلاثى)]",
+ "az": "[أمل]\n«أمل» (həmzə, mim, lam) iki əsas kökə malikdir: birincisi təmkinlik və gözləmək, ikincisi isə qum təpəsi/zolağıdır (həblu-rrəml).\nBirinciyə gəlincə, Əl-Xəlil demişdir: «الأمل» — ümiddir. Deyirsən: «أمَّلتُه أُؤَمِّله تأميلاً» (Ona ümid bəslədim), «أَمَلْتُه آمُلُه أَمْلاً وإمْلَةً» — «جِلْسَة» qəlibində. Bura bir qədər gözləmə də daxildir.\nO həmçinin demişdir: «التأمُّل» — baxışda təmkinli olmaq, diqqətlə baxmaqdır. O demişdir (١):\n«تَأَمَّلْ خَليلِى هَلْ تَرَى مِنْ ظعائنٍ … تَحَمَّلْنَ بالعَلياءِ من فوق جُرْثُم»\n(Ey dostum, bir diqqətlə bax, Jursumun üzərindəki uca yerdən köçüb gedən qadın kəcavələrini görürsənmi?).\nƏl-Mürar demişdir:\n«تَأَمَّلْ ما تَقُولُ وكُنْتَ قِدْماً … قُطَامِيًّا تأمُّلُهُ قليلُ (٢)»\n(Deyəcəyin sözü diqqətlə düşün, sən köhnədən bir qutamı idin ki, onun baxışı/düşünməsi az olar). «القُطَامىّ» — şahindir, o bir dəfə baxmaqla kifayətlənər.\nİkinci əsas kökə gəlincə, Əl-Xəlil demişdir: «الأمِيلُ» — qum səhrasının böyük hissəsindən ayrılmış qum zolağı/təpəsidir. O, «فَعِيل» vəznindədir, cəmi «أُمْل» gəlir. İbn əl-Ərabı bu şeiri oxumuşdur:\n* وقد تجشَّمت أمِيلَ الامْلِ * (٣)\n(Qum təpələrinin ən böyüyünü çətinliklə aşdım). «تجشَّمت» — yolsuzluqla getdim, zorla aşdım. «أمِيل الأُمُلِ» — qum təpələrinin ən böyüyüdür. Və demişdir:\n«فانصاعَ مذْعُوراً وما تَصَدَّفَا … كالبَرْقِ يجتازُ أَمِيلاً أَعْرَفَا (٤)»\n(O, qorxmuş halda üz döndərmədən dönüb qaçdı, ildırım kimi dik qum təpəsini keçdi).\nƏl-Əsmaı demişdir: Məsəldə deyilir: «قد كان بينَ الأميلَين مَحَلّ» («İki qum təpəsi arasında məskən var idi»), bununla nəzərdə tutulur ki, torpaqda yer bol idi.\n[(Üçhərfli kəlmələrdə həmzə, nun və onlardan sonrakılar babı)]",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T00:20:43.298Z"
+}

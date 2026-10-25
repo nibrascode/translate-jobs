@@ -1,0 +1,17 @@
+{
+ "i": 1944,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سهك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 110,
+  "page_to": 110
+ },
+ "ar": "السين والهاء والكاف أصلان: أحدهما يدلُّ على قَشْر ودقّ، والآخر على الرّائحة الكريهة.\nفالأوّل قولُهم: سَهَكَت الرِّيحُ التّرابَ، وذلك إذا قشَرتْه عن الأرض.\nوالمَسْهَكَة: الذى يشتدّ مرُّ الرّيح عليه: ويقال سهَكْتُ الشّئَ، إِذا قشرتَه، وهو دونَ السَّحق. وسَهَكت الدّوابُّ، إذا جرت جرياً خفيفاً. وفَرَسٌ مِسْهَكٌ، أى سريع. وإِنما قيل لأنّه يسهَك الأرضَ بقوائمه.\nوالأصل الثانى السَّهَك، قال قوم: هو رائحة السمك من اليَد. ويقال بل السَّهَك: ريحٌ كريهة يجدُها الإنسان إذا عَرِق. ومن هذا الباب السَّهَك: صدأ الحديد. ومنه أيضاً قولهم: بعينِه ساهكٌ، أى عائرٌ من الرّمَد. قال الشاعر فى السَّهَك:\nسَهكِينَ مِنْ صدأ الحديدِ كأنّهم … تحت السَّنَوَّرِ جِنّةُ البَقَّارِ (١)",
+ "az": "[سهك] السين والهاء والكaf (sin, ha və kaf) — iki əsldir: biri qabıqsoymaya və döyməyə, diğəri isə pis qoxuya dəlalət edir.\nFəqət birinci dedikləridir: سَهَكَت الرِّيحُ التّرابَ (səhəkətir-rihüt-turab) — külək torpağın qabığını soyub təmizlədikdə deyilir.\nوالمَسْهَكَة (əl-məshəkə): üzərindən küləyin şiddətlə əsdiyi yer. Deyilir: سَهَكْتُ الشّئَ (səhəktüş-şeyə) — əşyanın qabığını soyduqda, bu, السَّحْq (əssəhq) dərəcəsindən aşağıdır. وَسَهَكت الدّوابُّ (və səhəkind-dəvəbbü) — heyvanlar yüngül yerişlə qaçdıqda. وفَرَسٌ مِسْهَكٌ (və fərasün mishəkün), yəni sürətli. Bu cür adlandırılması onun ayaqları ilə yeri sürtməsinə görədir.\nİkinci əsl isə السَّهَك (əssəhək)dir, bir qrup demişdir: o, əldən gələn balıq qoxusudur. Deyilir ki, bəlkə də səhək: insanın tərlədikdə hiss etdiyi pis qoxudur. Bu qəbildəndir السَّهَك (əssəhək): dəmir pası. Həmçinin onların bu sözü dəridəndir: بعينِه ساهكٌ (bi-eynihi sahikün), yəni göz iltihabından qıcıqlanmış. Şair səhək haqqında demişdir:\nسَهكِينَ مِنْ صدأ الحديدِ كأنّهم … تحت السَّنَوَّرِ جِنّةُ البَقَّارِ (١)\n(Dəmir pasından iki səhək ki, sanki onlar... pişiyin altındakı çoban cinləridirlər)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

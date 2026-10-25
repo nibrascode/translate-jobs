@@ -1,0 +1,17 @@
+{
+ "i": 1509,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 407,
+  "page_to": 407
+ },
+ "ar": "الراء والعين والميم كلمتان متباينتانِ، بعيدٌ ما بينهما. فالأولى الرُّعام: شئٌ يَسيل من أنْفِ الشاةِ لداءٍ يصيبها؛ يقال منه: شاةٌ رَعُومٌ.\nوالكلمة الثانية شئٌ ذكره الخليل. قال: رَعَمَ الشمسَ يَرْعَمُها، إذا رَقَب غيبوبَتَها. وذكر أنه فى شعر الطرِمّاح (٤).",
+ "az": "[رعم] (ra, ayn, mim) — iki fərqli sözdür, aralarındakı məna uzaqdır. Birincisi: الرُّعام (uram) – xəstəlik səbəbi ilə qoyunun burnundan axan şey; bundan belə denilir: شاةٌ رَعُومٌ (urumlu, axıntılı qoyun). İkinci söz isə Xəlil tərəfindən qeyd olunan bir şeydir. O demişdir: رَعَمَ الشمسَ يَرْعَمُها (şəmsi rəəmə yərmuhu) – günəşin batmasını gözlədi. O qeyd etmişdir ki, bu, ət-Tirimdahın şeirindədir (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:50.330Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 770,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جندع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 509,
+  "page_to": 509
+ },
+ "ar": "وأما قولهم للداهيةُ (ذات الجَنادِع) فمعلوم فى الأصل الذى أصَّلناه أنّ النون زائدة، وأنه من الجَدْع، وقد مضى. وقد يقال إنّ جَنادع كلِّ شئٍ أوائلُه، وجاءت جنادع الشرِّ.",
+ "az": "«جندع» - Bəla və müsibətə «ذات الجَنادِع» (zat əl-cənadic) deyilməsinə gəldikdə, əsas qoyduğumuz kökdən məlumdur ki, nun hərfi artıqdır (zayiddir) və o, جَدْع (cədəc/cəd' - kəsmək) sözündəndir, artıq keçmişdir. Həmçinin deyilir ki, hər bir şeyin جَنادع (cənadic) sözü onun əvvəlləri, başlanğıclarıdır; «جاءت جنادع الشر» (Şərin başlanğıcları gəldi) denilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.217Z"
+}

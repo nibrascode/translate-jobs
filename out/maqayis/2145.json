@@ -1,0 +1,17 @@
+{
+ "i": 2145,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شوك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 229,
+  "page_to": 230
+ },
+ "ar": "الشين والواو والكاف أصلٌ واحد يدلُّ على خشونةٍ وحدّةِ طرَفٍ فى الشّئ. من ذلك الشَّوك، وهو معروف. يقال شجرةٌ شَوِكَة وشائكة ومُشِيكة (٤). ويقال شاكَنى الشّوكُ. وأشَكْت فلاناً، إذا آذَيتَه\nبالشَّوك. وشوَّكَ الفرخ، إذا أنْبَت (١). ويشتقُّ من ذلك الشَّوْكة، وهى شدة البَأس. ويقال جاء بالشَّوك والشَّجر (٢)، أى فى العدد الجَمّ. ويقال بُردةٌ شَوكاء، وهى الخَشِنة المَسِّ من جِدّتها، وقبل هى الخشنة النَّسْج. ويقال:\nشَوَّكَ ثَدىُ المرأةِ، إذا انتصب وتَحدَّد طَرَفه. ويقال شوّك البعير، إذا طالت أنيابُه.",
+ "az": "[شوك] (şuk) — شين (şin), vav və كاف (kaf) bir şeydə sərtliyə və uc hissəsinin iti olmasına dəlalət edən tək bir əsasdır. Bunlardan biri də tanınmış «الشَّوك» (əş-şövq/şök) — tikandır. Deyilir: şəcərətün şəvikətün (tikanlı ağac), şaiqətün və muşīkətün (4). «شاكَنى الشّوكُ» (şakəniş-şöku) — tikan mənə batdı. «أشَكْت فلاناً» (əşəktu fəlanən) — tikanla filankəsə əziyyət verdin. «شوَّكَ الفرخ» (şəvvkəl-fərx) — quş balası tikan/lələk bitirdi (1). Bundan «الشَّوْكة» (əş-şövkə) sözü də düzəldilmişdir ki, bu da qəhrəmanlığın və qüdrətin şiddətidir. Deyilir: «جاء بالشَّوك والشَّجر» (Cəə biş-şövki vəş-şəcər) — yəni saysız-hesabsız çoxluqla gəldi (2). Deyilir: «بُرْدةٌ شَوكاء» (burdətun şövka) — bu, yeniliyindən toxunuşu sərt olan əbadır, başqaları isə bunun toxunuşu sərt olan parça olduğunu demişlər. Deyilir: «شَوَّكَ ثَدىُ المرأةِ» (şəvvəkə sədyul-mər’əti) — qadının döşü ucalıb ucu iti olduqda. Deyilir: «شوّك البعير» (şəvvəkəl-bəir) — dəvənin azı dişləri uzandıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.212Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 587,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهجه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 422,
+  "page_to": 423
+ },
+ "ar": "الجيم والهاء ليس أصلاً؛ لأنه صوتٌ. يقال جهجهت بالسَّبُع إذا صحتَ به. قال:\n* فجاء دُونَ الزَّجرِ والتجهجُهِ (٣) *\nوحَكَى ناسٌ: تجهجَهَ عن الأمر انتهى. وهذا إن كان صحيحاً فهو فى باب المقابلة؛ لأنك تقول جَهْجَهْتُ به فتجَهْجَهَ.",
+ "az": "[جهجه] (Cim və ha) əsas deyildir; çünki o səsin təqlididir. Vəhşi heyvana qışqırdıqda «جهجهت بالسَّبُع» (cəhcəhtü bis-səbü) deyilir. Şair demişdir:\n* فجاء دُونَ الزَّجرِ والتجهجُهِ (٣) *\nBəzi adamlar rəvayət etmişlər: «تجهجَهَ عن الأمر» (təcəhcəhə ani əmr) — sona çatdı, vaz keçdi. Əgər bu doğru olsa, o, qarşılıqlı (müqabilə) بابındadır; çünki sən «جَهْجَهْتُ به» (cəhcəhtü bihi - ona qışqırdım) deyirsən, o da «فتجَهْجَهَ» (fətəcəhcəhə - qışqırığa cavab olaraq dayandı) olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:23.869Z"
+}

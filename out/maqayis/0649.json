@@ -1,0 +1,17 @@
+{
+ "i": 649,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جشأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 459,
+  "page_to": 459
+ },
+ "ar": "الجيم والشين والهمزة أصلٌ واحد، وهو ارتفاعُ الشئ.\nيقال جَشأَتْ نَفْسى، إذا ارتفعَتْ من حُزنٍ أو فزَع. فأمّا جَاشَتْ (١) فليس من هذا، إنما ذلك غَثَيَانُها. وقال أبو عبيدٍ: اجتشأتْنِى البِلادُ واجتشأتُها، إذا لم توافِقْك؛ لأنه إذا كان كذا ارتفعت عنه (٢)، ونَبت به. وقال قوم: جَشأ القومُ مِنْ بلدٍ إلى بلد، إذا خَرَجوا منه.\nومن هذا القياس تجشَّأَ تجشُّؤاً، والاسم الجُشاء، ومن الباب الجَشْ ء مهموز وغير مهموز: القوس الغليظة. قال أبو دؤيب:\n* فى كَفِّهِ جَشْ ءٌ أجَشُّ وأقْطُعُ (٣) *",
+ "az": "[جشأ] Cim, şin və həmzə: bir kökdür, o da bir şeyin yüksəlməsidir. Deyilir ki, جَشأَتْ نَفْسى (nəfsim qalxdı), yəni kədərdən və ya qorxudan yüksəldi. جَاشَتْ (qaynayıb daşdı) isə bundan deyil, o, ürək bulanmasıdır. Əbu Übeyd deyir: اجتشأتْنِى البِلادُ (ölkə mənə dar gəldi) və اجتشأتُها (mən onu bəyənmədim), yəni sənə uyğun gəlmədikdə; çünki belə olduqda ondan yüksəlir və orada rahat olmur. Bir qrup dedi: جَشأ القومُ (qövm köçdü), yəni bir ölkədən digərinə çıxdılar. Bu qiyasdan تجشَّأَ تجشُّؤاً (gəyirdi) gəlir, ismi cüşadır (الجُشاء). Bu kökdən həmzəli və həmzəsiz cəş (الجَشْ ء) - qalın yaydır. Əbu Zuəyb deyir: * فى كَفِّهِ جَشْ ءٌ أجَشُّ وأقْطُعُ (٣) * (mənası: Ovucunda qalın, sərt və kəsici bir yay var).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.556Z"
+}

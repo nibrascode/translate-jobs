@@ -1,0 +1,17 @@
+{
+ "i": 2403,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضفع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 367,
+  "page_to": 367
+ },
+ "ar": "الضاد والفاء والعين ليس بشئ. على أنّ الخليل حكى ضَفَع:\nجَعَس. والسلم (١).",
+ "az": "[ضفع] (Dəfə): Zad, fa və eyn hərfləri heç bir şey deyildir. Lakin Xəlil ضَفَع (dəfə) — جَعَس (cəsə) və əs-sulləm (١) (nərdivan) sözünü rəvayət etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:55.136Z"
+}

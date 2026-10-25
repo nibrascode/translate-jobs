@@ -1,0 +1,17 @@
+{
+ "i": 788,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جندب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 512,
+  "page_to": 512
+ },
+ "ar": "ومن ذلك قولهم للجرادة (جُنْدَبٌ). فهذا نونه زائدةٌ، و [هو] من الجَدْب؛ وذلك أنّ الجراد يَجْرُد فيأتِى بالجدْب. وربما كَنَوا فى الغَشْم والظُّلم بأمِّ جُنْدَب، وقياسُه قياسُ الأصل.",
+ "az": "«جندب» - Və buraya çəyirtgəyə «جُنْدَبٌ» (cündəb) deyilməsi daxildir. Onun nun hərfi artıqdır (zayiddir) və [o], جَدْب (cədb) sözündəndir; çünki çəyirtgə hər şeyi qırxıb məhv edir və nəticədə quraqlıq (cədb) gətirir. Bəzən tüğyan və zülm mənalarında «أمِّ جُنْدَب» (Ümmi Cündəb) kimi kinayə edirlər, onun qiyas ölçüsü əslinə uyğundur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

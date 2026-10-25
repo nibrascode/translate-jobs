@@ -1,0 +1,17 @@
+{
+ "i": 142,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أنك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 149,
+  "page_to": 149
+ },
+ "ar": "الهمزة والنون والكاف ليس فيه أصلٌ، غير أنّه قد ذُكِر الآنُك. ويقال هو خالص الرصاص، ويقال بل جنسٌ منه.\n[(باب الهمزة والهاء وما بعدهما فى الثلاثى)]",
+ "az": "[أنك] (Ə-N-K)\nHəmzə, nun və kaf hərflərində heç bir kök (birləşdirici əsl) yoxdur. Ancaq «الآنُك» (qurğuşun) sözü qeyd olunmuşdur. Deyilir ki, o xalis qurğuşundur, yaxud onun bir növüdür.",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T00:21:39.494Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1154,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 227,
+  "page_to": 227
+ },
+ "ar": "الخاء والواو والذال ليس أصلاً يطّرد، ولا يُقاس عليه، وإنّما فيه كلمة واحدة مُختلَفٌ فى تأويلها. قالوا: خاوَذْتُه، إذا خالفْتَه. وقال بعضهم: خاوذتُه وافَقْتُه. ويقولون: إنّ خِواذَ الحمَّى أن تأتِىَ فى وقتٍ غير معلوم.",
+ "az": "[خوذ] الخاء والواو والذال (Xar, vav və zal) — müntəzəm davam edən əsas deyildir və ona əsasən qiyas olunmur. Burada yalnız təfsirində ixtilaf edilən bir kəlmə vardır. Dedilər: xəvəztuhu (خاوَذْتُه) — ona müxalif oldum. Bəziləri isə dedilər: xəvəztuhu — ona müvafiq oldum. Və deyirlər ki, qızdırmanın xıvazı (خِواذَ الحمَّى) — onun bəlli olmayan vaxtda gəlməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.497Z"
+}

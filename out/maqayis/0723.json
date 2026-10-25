@@ -1,0 +1,17 @@
+{
+ "i": 723,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جوف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 495,
+  "page_to": 495
+ },
+ "ar": "الجيم والواو والفاء كلمةٌ واحدة، وهى جَوْفُ الشئ.\nيقال هذا جَوْفُ الإنسان، وجوفُ كلِّ شئ. وطَعْنْةٌ جائِفَةٌ، إِذا وصلَتْ إِلى الجَوْفِ. وقِدْرٌ جَوْفَاءِ: واسعةُ الجَوْفِ. وجَوفُ عَيْرٍ: مكانٌ حماهُ رجل اسمه حِمار. وفى المثل: «أخْلَى مِنْ جَوْفِ عَيْر». وأصله رجلٌ كان يحمى وادياً له.\nوقد ذُكر حديثُه فى كتاب العين.",
+ "az": "[جوف] — الجيم (Cim), الواو (Vav) və الفاء (Fa) tək bir kəlmədir, o da bir şeyin daxili, qarnıdır (جَوْف). Deyilir: هذا جَوْفُ الإنسان (Bu, insanın daxilidir), və hər şeyin cövfü (daxili). وَطَعْنْةٌ جائِفَةٌ (Daxilə çatdırılan nizə zərbəsi), əgər yara bədənin daxilinə (qarına) çatarsa. وَقِدْرٌ جَوْفَاءِ (Genis qarınlı qazan): geniş daxili olan. وَجَوفُ عَيْرٍ (Eyr qarnı): Himar adlı bir kişinin qoruduğu məkan. Məsəldə deyilir: «أخْلَى مِنْ جَوْفِ عَيْر» («Eyrin qarnından daha boş»). Onun əsli özünə aid bir vadini qoruyan bir kişi olmuşdur. Onun hədisi «Kitab əl-Ayn»da qeyd olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

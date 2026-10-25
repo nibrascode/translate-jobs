@@ -1,0 +1,17 @@
+{
+ "i": 1159,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 229,
+  "page_to": 229
+ },
+ "ar": "الخاء والواو والضاد أصلٌ واحد يدلُّ على توسُّطِ شئ ودُخولٍ. يقال خُضْتُ الماءَ وغيرَه. وتخاوَضوا فى الحديثِ والأمرِ، أى تفاوَضُوا وتداخَل كلامُهم.",
+ "az": "«خوض»: الخاء، الواو və الضاد — bir şeyin ortasına varməyə və içəri girməyə dəlalət edən tək bir əsasdır. Deyilir: «خُضْتُ الماءَ وغيرَه» (Mən suya və başqa bir şeyə girdim). Onlar «تخاوَضوا فى الحديثِ والأمرِ» (söhbətdə və işdə fikir mübadiləsi apardılar), yəni sözləri bir-birinə qarışdı və müzakirə etdilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2520,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 426,
+  "page_to": 427
+ },
+ "ar": "الطاء والنون والفاء أصلٌ صحيح يدلُّ على دَوْر شئٍ على شئ. يقولون الطُّنُف: حَيد فى الجبَل يطنّف به. ويقولون الطُّنُف: إفريز الحائط\nوالطنف (١): السُّيور. فأمّا الطَّنَف فى التُّهَمة فهو من المقلوب، كأنّه من النَّطَف، وقد ذكرناه فى بابه.\nومما شذّ عن الباب شئٌ حُكى عن الشيبانى، أن الطنف الذى يأكل القليل (٢).\nيقال ما أطْنَفه.",
+ "az": "[طنف] (Tə, nun və fa) bir şeyin üzərində başqa bir şeyin dövr etməsinə dəlalət edən səhih əsl kökdür. Deyirlər: الطُّنُف (ət-tunuf) – dağda üzərində dolanılan çıxıntı. Həmçinin deyirlər: الطُّنُف (ət-tunuf) – divarın saçağı və طنف (ət-tonuf) (١) – qayışlar. Töhmətdəki الطَّنَف (ət-tənəf)əsərinə gəldikdə, o, məkublardandır (tərsinə çevrilmiş sözlərdəndir), elə bil النَّطَف (ən-nətəf) sözündəndir ki, biz bunu öz babında qeyd etdik. Bu babdan istisna olan və Şeybanidən rəvayət edilən bir şey də odur ki, طنف (ət-tonuf) az yeyən deməkdir (٢). Deyilir: «ما أطْنَفه» (mə ətnəfuhu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.400Z"
+}

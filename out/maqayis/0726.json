@@ -1,0 +1,17 @@
+{
+ "i": 726,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جيأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 497,
+  "page_to": 497
+ },
+ "ar": "الجيم والياء والهمزة كلمتان من غير قياسٍ بينهما. يقال جاء يجيء مجيئاً. ويقال جاءانِى (٣) فجِئْتُه، أى غالبنى بكثْرة المجئ [فغلبته (٤)].\nوالجَيْئَة: مصدر جاء (٥). والجِئَةُ: مجتمع الماء حَوَالَى الحِصْنِ وغيره. ويقال هى جيئة بالكسر والتثقيل.",
+ "az": "[جيأ] — الجيم (Cim), الياء (Ya) və الحَمزة (Həmzə) – aralarında heç bir qiyas (müqayisə) olmayan iki kəlmədir. Deyilir: جاء يجيء مجيئاً (Gəldi, gəlir, gəlmək). Deyilir: جاءانِى فجِئْتُه (O mənə gəldi, mən də ona gəldim), yəni o, gəlişinin çoxluğu ilə məni üstələməyə çalışdı [və mən də onu üstələdim (٤)]. وَالجَيْئَة (əl-Ceyə) — «caə» feilinin məsdəri (٥). وَالجِئَة (əl-Ciyə) — qalanın və digər tikililərin ətrafında toplanan su. Deyilir ki, o, kəsrə ilə və təşdidlə جيئة (ciyə) oxunur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

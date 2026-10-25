@@ -1,0 +1,17 @@
+{
+ "i": 2352,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صخى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "الصاد والخاء والياء كلمة، يقال: صَخِيَ الثَّوبُ يَصْخَى؛ وهو وسَخٌ ودَرَن، فهو صَخٍ. والاسم الصَّخَى.",
+ "az": "[صخى] «الصاد» (sad), «Xə» (xa) və «Ya» (ya) bir kəlimədir, deyilir: صَخِيَ الثَّوبُ يَصْخَى (paltar kirləndi və çirkli oldu), o, çirk və kir içindədir, demək o, «صَخٍ» (səhin)dir. İsim olaraq «الصَّخَى» (əs-səxa) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

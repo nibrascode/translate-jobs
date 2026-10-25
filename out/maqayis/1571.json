@@ -1,0 +1,17 @@
+{
+ "i": 1571,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 436,
+  "page_to": 437
+ },
+ "ar": "الراء والميم والثاء أصلٌ واحدٌ يدلُّ على إصلاح شئِ وضمِّ بعضٍ إلى بعض. يقال رمَثْتُ الشَّئَ: أصلحتُه. قال أبو دُواد:\nوأخٍ رَمَثْتُ دَرِيسَهُ … ونصحتُه فى الحرب نُصْحَا (٢)\nوالرَّمَث: خشبٌ يضمّ بعضُه إلى بعض ويُركَب. و\nفى الحديث:\n«إنّا نركب أرماثاً لنا فى البحر». وهو جمع رَمَثٍ. قال:\nتمنَّيْتُ مِنْ حُيِّى بُثَينةَ أننا … على رمَثٍ فى البحر ليس لنا وَفْرُ (١)\nوالرَّمْث: مَرعًى من مراعى الإبل، وذلك لانضمام بعضِه إلى بعض. يقال إبلٌ رَمِثة ورَمَائَى، إذا أكلت الرِّمْث فمرِضَتْ عنه. والرَّمَثُ أيضاً: بقيّة اللبن فى الضَّرع، لأن ذلك متجمِّع.",
+ "az": "[رمث] (Rəməθ). Ra, mim və sə əsası bir şeyi islah etməyə və bir hissəsini digərinə birləşdirməyə dəlalət edən tək bir əsasdır. Deyilir: رمَثْتُ الشَّئَ أصلحتُه (Mən şeyi islah etdim, düzəltdim). Əbu Duvad demişdir: وأخٍ رَمَثْتُ دَرِيسَهُ … ونصحتُه فى الحرب نُصْحَا (Və elə bir qardaş ki, köhnəlmiş halını düzəltdim... və ona müharibədə sadiqliklə nəsihət etdim). Və الرَّمَث (əl-rəməθ): bir-birinə bağlanan və üzərində səyahət edilən ağaclar (sal). Hədisdə gəlmişdir: «إنّا نركب أرماثاً لنا فى البحر» (Şübhəsiz ki, biz dənizdə öz salımıza minirik). Bu, رَمَثٍ (rəməθ) sözünün cəmidir. O demişdir: تمنَّيْتُ مِنْ حُيِّى بُثَينةَ أننا … على رمَثٍ فى البحر ليس لنا وَفْرُ (Büseynənin qəbiləsindən arzu etdim ki, biz... dənizdə sal üzərində olaq və heç bir sərvətimiz olmasın). Və الرَّمْث (əl-rəmθ): dəvə otlaqlarından bir otlaq, bu da onun bir hissəsinin digərinə birləşməsinə görədir. Deyilir: إبلٌ رَمِثة ورَمَائَى (Rəmifə və rəmaya dəvələr), o zaman ki, rəms otunu yeyib ondan xəstələnirlər. Və الرَّمَثُ (əl-rəməθ) həmçinin: əmçəkdə qalan südün qalıntısıdır, çünki o toplanmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:08.692Z"
+}

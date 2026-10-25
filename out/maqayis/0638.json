@@ -1,0 +1,17 @@
+{
+ "i": 638,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جزم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 454,
+  "page_to": 455
+ },
+ "ar": "الجيم والزاء والميم أصلٌ واحد، وهو القطع. يقال جَزَمْتُ الشئ أجْزِمُه جزْمًا. والجَزْم فى الإعراب يسمَّى جزماً لأنّه قُطِع عنه الإعرابُ.\nوالجِزْمَة: القِطْعة من الضَّأن. ومنه جَزَمْتُ القِرْبة إِذا ملأتَها، وذلك حِينَ يُقطَع الاستقاء. قال صخر الغىّ:\nفلما جَزَمْتُ بِهِ قِرْبتى … تيمّمتُ أطرِقةً أَوْ خَلِيفا (٣)\nويقولون: إنّ الجَزْمةَ الأكلةُ الواحدة: فإن كان صحيحاً فهو قياسُ الباب، لأنّه مرّةٌ ثم يُقطَع. ومن ذلك قولهم: جَزَّمَ القومُ: عَجَزُوا. قال:\nولكنِّى مضَيْتُ ولم أُجزِّمْ … وكان الصَّبْرُ عادةَ أوَّلينا (١)",
+ "az": "[جزم] (Cim, zay və mim) tək bir kökdür, o da kəsməkdir. جَزَمْتُ الشئ أجْزِمُه جزْمًا (Şeyi kəsdim, kəsməklə kəsirəm) deyilir. İfrabda جَزْم (cəzm) ona görə cəzm adlandırılmışdır ki, ondan irab kəsilmişdir. الجِزْمَة (cizmə) – qoyun sürüsündən bir hissədir. Həmçinin جَزَمْتُ القِرْبة (tuluğu doldurdum) sözü də bundandır, bu da su daşımağın kəsildiyi vaxt baş verir. Səxr əl-Ğay demişdir: فلما جَزَمْتُ بِهِ قِرْبتى … تيمّمتُ أطرِقةً أَوْ خَلِيفا (Tuluğumu su ilə doldurub qurtardıqdan sonra yola çıxdım, yollar və ya xəlif istiqamətini tutdum). Və deyirlər ki, الجَزْمَة (cizmə) – bir dəfəyə yeyilən yeməkdir: əgər bu səhihdirsə, deməli, bu, babın qiyasındandır, çünki bu, bir dəfə edilib sonra kəsilir. Həmçinin onların جَزَّمَ القومُ: عَجَزُوا (qövm aciz qaldı) sözü də bundandır. Şair demişdir: ولكنِّى مضَيْتُ ولم أُجزِّمْ … وكان الصَّبْرُ عادةَ أوَّلينا (Lakin mən irəlilədim, aciz qalmadım, səbr etmək isə əvvəlkilərimizin adəti idi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:46:13.021Z"
+}

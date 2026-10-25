@@ -1,0 +1,17 @@
+{
+ "i": 1949,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 113,
+  "page_to": 113
+ },
+ "ar": "السين والواو والحاء كلمةٌ واحدة. يقال ساحة الدار، وجمعها ساحات وسُوح.",
+ "az": "[سوح] السين والواو والحاء (sin, vav və ha) — tək bir kəlmədir. Deyilir: ساحة الدار (sahətud-dar), cəmi isə ساحات (sahat) və سُوح (suh) olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

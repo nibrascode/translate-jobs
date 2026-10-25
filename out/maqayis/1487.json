@@ -1,0 +1,17 @@
+{
+ "i": 1487,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رصغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 399,
+  "page_to": 399
+ },
+ "ar": "الراء والصاد والغين ليس أصلاً. لكنّ الخليل قال: الرُّصْغ لغةٌ فى الرُّسغ.",
+ "az": "«رصغ» (Rə-s-ğ): Ra, sad və ğayn əsas deyil. Lakin Xəlil demişdir: الرُّصْغ (Rusğ) الرُّسغ (rusğ) lüğətində bir lüğətdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

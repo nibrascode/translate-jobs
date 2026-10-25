@@ -1,0 +1,17 @@
+{
+ "i": 1375,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دخس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "الدال والخاء والسين أصلٌ واحد، يدلُّ على اكتنازٍ واندساسٍ فى ترابٍ أو غيره. فالدَّخْسُ أن يندسَّ الشَّئُ فى التراب. ولذلك سَمَّى الرّاجزُ (٢) الأثافىَّ دُخسَّاً. فهذا هو الأصل، ثم سُمِّى كلُّ شئ تجمَّعَ إلى شئِ وداخَلَه، بذلك. والدَّخيس: الحَوْشَب، وهو ما بين الوَظيف والعصَب. والدَّخِيس من الناس: العددُ الجَمُّ. والدَّخَس (٣): داءُ فى قوائم الدّابة. والدَّخِيس: اللحم المكَتَنِز. وكلُّ ذى سِمَنٍ دَخيسٌ. ويقال الدَّخيس: لحمُ باطن الكفّ. والدَّخيس من أَنْقَاء الرّملِ: الكثير. وكَلَأٌ دَيْخَسٌ (٤)، أى كثير. وأنشد:\n* يَرْعَى حَلِيًّا ونَصِيًّا دَيْخَسَا (٥) *",
+ "az": "[دخس] (Də-xə-sə). Dal, xə və sin hərfləri torpaqda və ya başqa yerdə bir yerə yığılmağa (toplanmağa) və gizlənməyə dəlalət edən tək bir təməldir. الدَّخْسُ (dəxs) — bir şeyin torpağa gizlənməsidir. Buna görə də rəcəz yazan şair (٢) ocaq daşlarını دُخَس (duxəs) adlandırmışdır. Budur əsas təməl, sonra bir şeyə yığılan və onun evinə (icinə) girən hər bir şey buna görə belə adlandırılmışdır. وَالدَّخِيسُ (əd-dəxis): الحَوْشَب (əl-həuşəb), yəni vəzif (ayaq əzələsi) ilə əsəb arasındakı hissədir. İnsanlardan olan دَخِيس (dəxis): çoxlu sayda insan deməkdir. وَالدَّخَسُ (əd-dəhəs) (٣): heyvanların ayaqlarındakı xəstəlikdir. الدَّخِيسُ (əd-dəxis): bərkimiş (toplanmış) ətdir. Əti olan hər bir şey دَخِيس (dəxis) sayılır. Deyilir ki, dəxis — ovcunun içindəki ətdir. Qumların anqalarından (təmiz yerlərindən) olan دَخِيس (dəxis): çox olanıdır. Və كَلَأٌ دَيْخَسٌ (kələun dəyxəsün) (٤) — çox otlaq deməkdir. Şair belə demişdir: * يَرْعَى حَلِيًّا ونَصِيًّا دَيْخَسَا (٥) * (Həliy və nəssi otlaqlarını otlayır...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

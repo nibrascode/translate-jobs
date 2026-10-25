@@ -1,0 +1,17 @@
+{
+ "i": 1939,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سهج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 108,
+  "page_to": 108
+ },
+ "ar": "السين والهاء والجيم أصلٌ يدلُّ على دوامٍ فى شئ. يقال سَهَجَ القوم لَيْلتَهم، أى ساروا سيراً دائماً. ثمَّ يقال سَهَجَت الرِّيحُ، إذا دامت.\nوهى سَيْهَجٌ وسَيْهُوجٌ. ومَسْهَجُها: مَمرُّها.",
+ "az": "«سهج» — السين والهاء والجيم (سين، hə və cim) bir şeydə davamlılığa dəlalət edən əsasdır. Deyilir: «سَهَجَ القوم لَيْلتَهم» — yəni qövm bütün gecə daimi olaraq yol getdi. Sonra deyilir: «سَهَجَت الرِّيحُ» — külək davamlı əsdiyi zaman. O, «سَيْهَجٌ» və «سَيْهُوجٌ»dür. Onun keçid yolu isə «مَسْهَجُها»dır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.685Z"
+}

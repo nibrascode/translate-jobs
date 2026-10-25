@@ -1,0 +1,17 @@
+{
+ "i": 2313,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 316,
+  "page_to": 316
+ },
+ "ar": "الصاد والهاء والميم أصلٌ صحيح قليل الفروع، لكنَّهم يقولون: الصِّهْميم: السيّئ الخُلق من الإبل، ويشبِّهون به الرّجُلَ الذى لا يثبت على رأىٍ واحد. واللّه أعلم.",
+ "az": "«صهم» (Sad, hə və mim) - budaqları az olan səhih bir kökdür, lakin onlar deyirlər: «الصِّهْميم» — dəvənin pisxasiyyət olanıdır və bununla da tək bir fikirdə sabit qalmayan insanı bənzərərlər. Vallahu ələm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

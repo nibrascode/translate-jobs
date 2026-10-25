@@ -1,0 +1,17 @@
+{
+ "i": 2399,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 366,
+  "page_to": 367
+ },
+ "ar": "الضاد والفاء والراء أصلٌ صحيح، وهو ضمُّ الشَّئِ إلى الشّئ نسجاً أو غيره عريضاً. ومن الباب ضَفائر الشّعَر، وهى كل شَعَر ضُفِر حتى يصيرَ ذُؤابة. ومن الباب قولُهم: تضافَرُوا عليه، أى تعاوَنُوا. وأصله عندى من ضفائر الشعر، وهو أن يتقاربوا حتى كأنَّ كلَّ واحدٍ منهم قد شدَّ ضفيرتَه بضفيرة الآخر.\nوهذا قياسٌ حسَن فى المساعدة والمظاهَرة وغيرهما. يقال إنّ الضفِر: حِقْفٌ من الرّمل. والذى نحفظه فى كتاب أبى عُبيدٍ العَقِدة والضَّفِرة الرمل المُنْعقد. ويقال كِنانةٌ ضَفِرةٌ، أى ممتلئة. وأصلها من تَضافُرِ ما فيها من السِّهام، وهو تجمُّعها.\nوالضَّفيرة، هى التى يقال لها المُسَنّاة، وسمِّيت بذلك كأنّها ضُفِرَتْ ضَفْراً، كالشّئِ يُضَمُّ بعضُه إلى بعضِ نسجاً وغيرَه.",
+ "az": "[ضفر] (Dəfər): Zad, fa və ra hərfləri düzgün bir əsas olub, bir şeyi digərinə toxumaqla və ya başqa şəkildə eninə olaraq birləşdirmək, qandırmaq deməkdir. Bu qapıdandır: ضَفائر الشّعَر (saç hörükləri) — bunlar hörülərək kəkilli hala gətirilmiş hər hansı saçdır. Yenə bu qapıdandır onların: تضافَرُوا عليه (ona qarşı birləşdilər / yardımlaşdılar) sözü. Onun əsli mənim nəzərimdə saç hörüklərindən gəlir; bu, o deməkdir ki, onlar o qədər yaxınlaşdılar ki, sanki hər biri öz hörüyünü digərinin hörüyünə bağlamışdır. Bu, kömək etməkdə, arxa durmaqda və digər işlərdə gözəl bir müqayisədir. Deyilir ki, الضَّفِر (ə-dəfir): qum təpəsidir. Əbu Übeydin kitabında hifz etdiyimiz isə əl-əqidə və əd-dəfirə (bərkimiş qum) deməkdir. Deyilir: كِنانةٌ ضَفِرةٌ (dəfirə oxatan oxdanı) — yəni doludur. Onun əsri, içindəki oxların bir-birinə qarışmasından, yəni toplanmasından irəli gəlir. Əd-dəfirə (əddəfirə) — əl-müsənnat deyilən şeydir və belə adlandırılması sanki bir şeyin toxuculuq və ya başqa üsulla bir-birinə birləşdirilməsi kimi hörüldüyünə görədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:55.136Z"
+}

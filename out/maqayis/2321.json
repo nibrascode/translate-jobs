@@ -1,0 +1,17 @@
+{
+ "i": 2321,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صوف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 322,
+  "page_to": 322
+ },
+ "ar": "الصاد والواو والفاء أصلٌ واحد صحيح، وهو الصُّوف المعروف. والباب كله يَرجِع إليه. يقال كبش أَصْوَفُ وصَوِفٌ وصائفٌ وصَافٌ، كلُّ هذا أن يكونَ كثيرَ الصُّوف. ويقولون: أخذ بصُوفةِ قَفاه، إذا أَخَذَ بالشَّعَر السائلِ فى نُقْرته. وصُوفةُ: قومٌ كانوا فى الجاهليّة، كَانوا يَخدُمون الكعبة، ويُجِيزون الحاجَّ. وحُكى عن أبى عُبيدةَ أنَّهم أفناءُ القبائل تجمَّعُوا فتشبَّكُوا كما يتشبَّك الصُّوف. قال:\nوَلا يَرِيمُون فى التَّعريفِ مَوقِفَهم … حتَّى يقالَ أَجِيزُوا آلَ صُوفانا (١)\nفأما قولهم: صاف عن الشَّرِّ (٢)، إذا عَدَل، فهو من باب الإبدال، يقال صَابَ (٣) إذا مال. وقد ذُكِر فى بابه.",
+ "az": "[صوف] (sad, vav və fa) vahid səhih bir kök olub, tanınan صُّوف (yun) deməkdir. Fəsil tamamilə ona qayıdır. Deyilir: كبش أَصْوَفُ (asyəf), صَوِفٌ (savif), صائفٌ (sayif) və صَافٌ (saf) – bütün bunlar yunlu qıç deməkdir. Onlar deyirlər: أخذ بصُوفةِ قَفاه (qəfasının yunu ilə tutdu) – boyun çuxurundakı sallanan tükləri tutduğu zaman. Və صُوفةُ (Sufə) – cahiliyyə dövründə Kəbəyə xidmət edən və hacılara icazə verən bir qəvim idi. Əbu Übeydədən rəvayət olunmuşdur ki, onlar qəbilələrin dağınıq hissələri idilər, yığıldılar və yunun dolaşdığı kimi dolaşdılar. [O] demişdir:\nوَلا يَرِيمُون فى التَّعريفِ مَوقِفَهم … حتَّى يقالَ أَجِيزُوا آلَ صُوفانا (١)\n(Tərifdə öz dayanacaqlarını tərk etməzlər, ta ki, «Sufan ailəsinə icazə verin» deyilənə qədər)\nŞərdən صاف عن الشَّرِّ (şərdən yayındı, uzaqlaşdı) sözlərinə gəldikdə, əgər üz döndərdiyi zaman olarsa, o, hərflərin əvəzlənməsi fəslindədir, صَابَ (saybə) - meyl etdiyi zaman deyilir. Bu, öz fəslində zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:11.241Z"
+}

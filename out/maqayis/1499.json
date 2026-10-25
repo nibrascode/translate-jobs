@@ -1,0 +1,17 @@
+{
+ "i": 1499,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رطع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "الراء والطاء والعين ليس بشئٍ، إلاّ أنّ ابنَ دُريدٍ (٣) ذكر أنَّهم يقولون: رَطَعها، إذا نكحها. وليس ذلك بشئٍ.",
+ "az": "[رطع] (rə-tə-ə). Heç bir əsası yoxdur, lakin İbn Dureyd (٣) qeyd etmişdir ki, onlar رَطَعَهَا (ratə-hə) – yəni onunla cinsi əlaqədə oldu, deyirlər. Bu, heç bir əsası olmayan şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

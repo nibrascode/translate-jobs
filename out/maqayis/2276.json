@@ -1,0 +1,17 @@
+{
+ "i": 2276,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صكم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 299,
+  "page_to": 299
+ },
+ "ar": "الصاد والكاف والميم أصلٌ واحد يدلُّ على ضربِ الشَّىْ ء بشدة. فالصَّكْمَة: الصَّدْمة الشديدة. والعرب تقول: صكمتهم صواكم الدَّهر. والفرس يصْكُم، إذا عَضَّ على لجامه مادًّا رأسه. وقال الفرّاء: صكمه، إذا صَرَبه ودفَعه.",
+ "az": "[صكم] (S-K-M) — Sad, kaf və mim hərfləri bir şeyi şiddətlə vurmağa dəlalət edən tək bir kökdür. الصَّكْمَة (səkmə): şiddətli zərbə. Ərəblər deyirlər: صكمتهم صواكم الدَّهر (zəmanənin şokları onları vurdu). At başını uzadaraq cilovunu çeynədikdə يصْكُم (yəsküm) deyilir. Fəra demişdir: صكمه (onu vurdu və itələdi), yəni ona zərbə endirdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:47.389Z"
+}

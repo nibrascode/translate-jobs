@@ -1,0 +1,17 @@
+{
+ "i": 1177,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خبج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 238,
+  "page_to": 239
+ },
+ "ar": "الخاء والباء والجيم ليس أصلا يُقاس عليه، وما أحِسَب فيه كلاماً صحيحا. يقال خَبَجَ، إذا حَصَمَ (٢). وربما قالوا: خَبَجَه بالعصا، أى ضربه.\nويقولون إنّ الخَبَاجاءَ من الفُحول: الكثير الضَّرَاب، وهذا كما ذكرناه، إلاّ أنْ يصحّ الحديث\nعن النبى ﵌ أنّه قال: «إذا أُقيمت الصلاة\nولّى الشيطان وله خَبَجٌ كَخَبَج الحِمار». فإن صحّ هذا فالصحيح ما قاله ﵊، بآبائنا وأُمُّهاتنا هُو!",
+ "az": "[خبج] الخاء والباء والجيم ( x, b, c ) — üzərində qiyas qurulan bir əsas deyil, hesab etmirəm ki, onda səhih bir kəlam olsun. Deyilir: «خَبَجَ» — çubuqla vurduqda [işlədilir]. Bəzən deyirlər: «خَبَجَه بالعصا» yəni onu əsa ilə vurdu. Deyirlər ki, erkəklərdən olan «الخَبَاجاء» — çox cütləşəndir, bu da qeyd etdiyimiz kimidir, məgər Peyğəmbərdən ﷺ səhih şəkildə belə dediyi rəvayət olunmasa: «Namaz qılınmaq üçün iqamə veriləndə şeytan qaçar və onun eşşəyin «خَبَج»i kimi «خَبَج»i olar». Əgər bu səhihdirsə, o zaman atalarımız və analarımız ona fəda olsun, ﷺ dediyi şey doğrudur!",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:52.484Z"
+}

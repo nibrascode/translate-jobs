@@ -1,0 +1,17 @@
+{
+ "i": 2458,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 391,
+  "page_to": 391
+ },
+ "ar": "الضاد والحاء واللام أصلٌ صحيح، وهو الماء القليل وما أشبهه.\nمن ذلك الضَّحْل: الماء القليل، ومكانه المَضْحَل، والجمع مَضاحل. ويقال ضَحِل الماء: رقَّ وقلَّ، وهو من الكلام الفصيح الصحيح. وأَتَان الضَّحْل:\nصَخرة بعضها فى الماء وبعضُها خارج.",
+ "az": "[ضحل] (Dad, hə və lam) az su və bu kimi şeylərə aid səhih bir kökdür. Bunlardan biri الضَّحْل (ad-dahl) – az su, onun yeri isə مَضْحَل (madhal), cəmi مَضاحل (madahil) olaraq adlanır. Deyilir: ضَحِل الماء (su daxil oldu) – su dayazlaşdı və azaldı. Bu, fəsih və səhih kəlamdəndir. أَتَان الضَّحْل (Atan ad-dahl) – bir hissəsi suda, digər hissəsi isə çöldə olan qayadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:29.015Z"
+}

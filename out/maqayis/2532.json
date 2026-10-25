@@ -1,0 +1,17 @@
+{
+ "i": 2532,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 431,
+  "page_to": 431
+ },
+ "ar": "الطاء والواو والسين ليس بأصل، إنّما فيه الذى يقال له الطَّاوُس. ثم يشتقّ منه فيقال للشَّئ الحسن: مُطوَّس. وحُكى عن الأصمعىّ:\nتطوَّست المرأةُ: تزيّنَت. وذكر فى الباب أيضاً أنّ الطَّوْس: تغطيةُ الشّيء. يقال طُسْته طَوْساً، أى غطَّيته. قالوا: وطَوَاس (١): ليلةٌ من ليالى المِحُاق.",
+ "az": "[طوس] (Tə, vav və sin) əsl kök deyil, orada yalnız الطَّاوُس (ət-tavus) adlanan quş vardır. Sonra ondan feil düzəldilib gözəl olan şeyə مُطوَّس (mütəvvəs) denilir. Əsməcidən rəvayət olunmuşdur ki: «تطوَّست المرأةُ» (tətəvvəsətil-mərətu) – qadın bəzəndi. Həmçinin bu babda qeyd olunmuşdur ki, الطَّوْس (ət-tovs) – bir şeyi örtməkdir. Deyilir: «طُسْته طَوْساً» (tustü tovşən), yəni onu örtdüm. Və dedilər ki: طَوَاس (təvas) – ayın görünməz olduğu gecələrdən bir gecədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.400Z"
+}

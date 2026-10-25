@@ -1,0 +1,17 @@
+{
+ "i": 2389,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضعس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "الضاد والعين والسين ليس بشئ. وذكر اُبن دريد أنّهم يقولون للحريص النَّهم: ضَعْوَس (١).",
+ "az": "[ضعس] «الضاد» (زاد), «العين» (eyn) və «السين» (sin) hərflərindən ibarət söz heç bir şey (kök məna) deyil. İbn Dürid zikr etmişdir ki, onlar həris və acgöz adama «ضَعْوَس» (zə'vəs) deyirlər (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

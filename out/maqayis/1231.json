@@ -1,0 +1,17 @@
+{
+ "i": 1231,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 275,
+  "page_to": 275
+ },
+ "ar": "الدال والراء والدال أُصَيْلٌ فيه كلامٌ يسير. قالدَّرَدُ من الأسنان: لصوقُها بالأسناخ وتأكُلُ ما فَضَل منها. وقد دَرِدَتْ وهى دُرْدٌ.\nورجلٌ أَدْرَدُ وامرأةٌ درداء.",
+ "az": "[درد] (Dərd): Dal, ra və dal hərflərindən ibarət az sözü olan kiçik bir kökdür. دَّرَدُ (dərəd) dişlərə aid olub: dişlərin köklərinə yapışması və onların qalan hissəsinin çürüməsidir. دَرِدَتْ (dişləri töküldü) və onlar دُرْدٌ (dərdu - dişsizdirlər).\nKişiyə أَدْرَدُ (dişsiz kişi) və qadına درداء (dişsiz qadın) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:45.024Z"
+}

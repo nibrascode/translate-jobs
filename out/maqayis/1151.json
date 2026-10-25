@@ -1,0 +1,17 @@
+{
+ "i": 1151,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 226,
+  "page_to": 226
+ },
+ "ar": "الخاء والواو والثاء أُصَيلٌ ليس بمطّرد ولا يقاسُ عليه.\nيقولون خَوِثتِ المرأةُ، إذا عظُم بَطْنُها. ويقال بل الخَوْثاء النَّاعمة. قال:\nعَلِقَ القَلْبَ حبُّها وهَواها … وهى بِكْرٌ غَرِيرةٌ خَوْثاءِ (٥)",
+ "az": "[خوث] الخاء والواو والثاء أُصَيلٌ (Xar, vav və sə kiçik bir əsasdır) — müntəzəm deyil və ona əsasən qiyas olunmur. Deyirlər: Qadın xəvith (خَوِثتِ المرأةُ) — qarnı böyüdükdə. Və deyilir, əksinə, xovsa (الخَوْثاء) — nəzakətli, zərif qadındır. O demişdir: عَلِقَ القَلْبَ حبُّها وهَواها … وهى بِكْرٌ غَرِيرةٌ خَوْثاءِ (٥) (Ürək onun sevgisinə və eşqinə bağlanmışdır... halbuki o, bakirə, sadəlövh və zərif bir qızdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.497Z"
+}

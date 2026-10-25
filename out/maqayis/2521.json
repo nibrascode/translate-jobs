@@ -1,0 +1,17 @@
+{
+ "i": 2521,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طهى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 427,
+  "page_to": 428
+ },
+ "ar": "الطاء والهاء والحرف المعتل أصلٌ صحيحٌ يدلُّ على أمرين إمّا على معالجة شئ، وإمّا على رِقّة.\nفالأوّل علاج اللحم فى الطَّبخ. والطَّاهى: فاعل، وجمعه طُهاة. قال:\nفَظَلَّ طُهَاةُ اللّحْم من بين مُنْضِجٍ … صَفِيفَ شِواءٍ أو قديرٍ مُعَجَّلِ (٣)\nو\nقال أبو هريرة فى شئ سُئِل عنه: «فما طَهْوِى إذاً - أى ما عملى - إن لم أحْكِمْ ذلك». وحكى بعضُهم طَهَت الإبل تَطْهَى، إذا نَفَشَت باللَّيل ورعت، طَهْياً (٤)، كأنّها فى ذلك تعالجُ شيئا. قال:\nولسنا لباغى المُهْمَلاتِ بقِرْفةٍ … إذا ما طَهَى بالليل منتشراتُها (٥)\nوالأصل الآخر الطَّهَاء، وهو غيم رقيق. وطُهَيَّةُ: حىٌّ من العرب، ومن ذلك اشتُقّ. والنسبة إليهم طُهَوِىّ وطُهْوِىّ (١)",
+ "az": "[طهى] (Tə, hə və hərf-i müətil) ya bir şeyin üzərində əməliyyat aparmağa, ya da incəliyə dəlalət edən səhih əsl kökdür. Birincisi – ətin bişirilməsində onun üzərində işlənilməsidir. الطَّاهى (ət-tahi) – bunu edən, cəmi isə طُهاة (tohat) olur. Şair demişdir: فَظَلَّ طُهَاةُ اللّحْم من بين مُنْضِجٍ … صَفِيفَ شِواءٍ أو قديرٍ مُعَجَّلِ (٣) (Ət bişirənlər qaldılar; kimi kababı səflərlə bişirən, kimi də tələm-tələsik qaynayan qazan hazırlayanlar arasında). Əbu Höreyrə soruşulduğu bir şey barəsində demişdir: «فما طَهْوِى إذاً» (fə mə təhvi izən) – yəni əgər mən bunu mükəmməl şəkildə yerinə yetirməsəm, mənim işim nədir? Bəziləri rəvayət etmişdir: «طَهَت الإبل تَطْهَى» (təhətil-ibl təthə) – dəvə gecə otlayıb gəzişdikdə طَهْياً (təhyən) deməkdir, elə bil o bununla bir şeyin qeydinə qalır. Şair demişdir: ولسنا لباغى المُهْمَلاتِ بقِرْفةٍ … إذا ما طَهَى بالليل منتشراتُها (٥) (Biz sahibsiz dəvələri axtaranlara qarşı töhmət altından deyilik, gecə vaxtı dağınıq dəvələri otlayıb gəzişdikdə). Digər əsl kök isə الطَّهَاء (ət-təhə-u) – incə buluddur. طُهَيَّةُ (Tühəyyə) – ərəblərdən bir qəbilədir, bu sözdən törəmişdir. Onlara nisbət edildikdə طُهَوِىّ (tühəvi) və طُهْوِىّ (tühvi) denilir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.400Z"
+}

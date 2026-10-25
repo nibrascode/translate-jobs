@@ -1,0 +1,17 @@
+{
+ "i": 2224,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 265,
+  "page_to": 266
+ },
+ "ar": "الشين والراء والميم أصلٌ واحد لا يُخْلف، وهو يدلُّ على خرْقٍ فى الشئ ومَزْق. من ذلك قولُهم: تشرّم الشئ، إذا تمزّق. ومنه\nالحديث:\n«أَنَّهُ أُتِىَ بِمُصْحَفٍ قد تَشَرَّمتْ حواشيه». ومن الباب الشّرِيم، وهى المرأة المُفْضاة. والشَّرْم: قَطْعٌ من الأرنبة، وقَطْعٌ من ثَفْر النّاقة (١). والشَّارم: السهم الذى يَشرِمُ جانبَ الغَرَض. ويقال شَرَم له من ماله، إٍذا قطع له من ماله قطعةً قليلة. والشَّرْم يقال إٍنّه لُجَّة فى البحر. وسَمِعت مَنْ يقول إن الشَّرْمَ كالخَرْق فى جانب البحر، كالمدخَل إلى البحر. وهذا أقيَسُ من القول الأوّل. قال:\nتمنّيتُ مِنْ حُبِّى بُثينةَ أنّنا … على رَمَثٍ فى الشَّرْمِ ليس لنا وَفْرُ (٢)\nويقال عُشْب شَرْمٌ، إذا شُرِم أعلاه، أى أكِل.",
+ "az": "«شرم» (şin, ra və mim) — dəyişməyən tək bir əsldir ki, bir şeydəki yırtıq və cırığa dəlalət edir. Bunlardan biri onların: «تشرّم الشئ» (şey cırıldı, parça-parça oldu) sözüdür. Həmçinin hədisdə gəlmişdir:\n«أَنَّهُ أُتِىَ بِمُصhَفٍ قد تَشَرَّمتْ حواشيه» (Ona kənarları cırılmış bir Müshif gətirildiyi haqda).\nVə bu qəbildəndir: «الشّرِيم» (şərim) — cinsi əlaqə qabiliyyəti pozulmuş (və ya əlaqə yolu genişlənmiş) qadın. «الشَّرْم» (şərm) — burnun ucundan bir parça kəsmək, dəvənin cinsiyyət orqanının ətrafından bir parça kəsmək. «الشَّارم» (şərim) — hədəfin kənarını yaran ox. Deyilir: «شَرَم له من ماله» (malından ona bir parça kəsdi) — malından ona azacıq bir parça kəsib verdikdə. «الشَّرْم» (şərm) — deyirlər ki, dənizin dərinliyi, körfəzidir. Mən eşitmişəm ki, biri deyirdi: «الشَّرْم» dənizin kənarındakı yırtıq kimidir, dənizə açılan giriş kimidir. Bu, birinci sözdən daha düzgündür (qiyaslıdır). Şair demişdir:\nتمنّيتُ مِنْ حُبِّى بُثينةَ أنّنا … على رَمَثٍ فى الشَّرْمِ ليس لنا وَفْرُ (٢)\n(Büseynəyə olan sevgimdən arzuladım ki, biz körfəzdə bir salın üzərində olaq və heç bir sərvətimiz olmasın)\nDeyilir: «عُشْب شَرْمٌ» (şərm otu) — yuxarı hissəsi kəsilmiş, yəni yeyilmiş ot.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:27.489Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 671,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 470,
+  "page_to": 470
+ },
+ "ar": "الجيم واللام والجيم ليس أصلاً؛ لأنَّ فيه كلمتين. قال ابن دريد: الجَلَج شبيه بالقَلَق (٣). فإنْ كان صحيحاً فالجيم مبدلةٌ من القاف. والكلمة الأخرى الجَلَجَة الرأس؛ يقال على كلِّ جَلَجةٍ فى القِسْمة كذا. وهذا ليس بشئٍ، ولعله بعض ما يعرَّب من لغةٍ غير عربيَّة.",
+ "az": "[جلج] — Cəim, lam və cəim əsas deyil; çünki burada iki kəlmə vardır. İbn Dürid demişdir: «الجَلَق» - «القَلَق» (narahatlıq) kimidir. Əgər bu səhihdirsə, deməli, cəim hərfi qaf hərfinin əvəzinə işlənmişdir. Digər kəlmə isə «الجَلَجَة» (baş) sözüdür; deyilir ki: bölgüdə hər «جَلَجَة» (baş/pay) üçün filan qədərdir. Bu isə heç bir şey deyil, bəlkə də ərəb dilindən başqa bir dildən alınma sözlərdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:30.556Z"
+}

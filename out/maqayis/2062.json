@@ -1,0 +1,17 @@
+{
+ "i": 2062,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شصر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 183,
+  "page_to": 183
+ },
+ "ar": "الشين والصاد والراء أصلٌ إن صحَّ يدلُّ على وصلِ شئٍ بشئ. من ذلك الشِّصاَر: خشبة تشدُّ مِنْ مَنْخِرَى الناقة. تقول: شَصَّرتها أشصِّرها تشصيراً. وقريبٌ من هذا: الشَّصْر: الخياطة ويكون فيها بعض التّباعُد وأمّا قولهم شَصَرَ بصرُ فلان، فهو من باب الإبدال، وإنّما الصاد [مبدلة] من الطاء، وقد ذَكر فى بابه.\nومما شذّ عن ذلك: الشَّصَر، يقال إنَّه الظَّبْى الشّادن. وربما سمَّوه الشَّاصِر.\nوقد ذكره جرير (٣).",
+ "az": "[شصر] \nŞin, sad və ra əgər səhihdirsə, bir şeyin başqa bir şeyə birləşməsinə dəlalət edən təməl bir kökdür. Bunlardan biri əl-şisar (الشِّصاَر) – dişi dəvənin burun dəliklərinə bağlanan taxta parçasındandır. Deyirsən: şaçartuha (شَصَّرتها) – onu bağladım, aşşiru (أشصِّرها) təşsiran (تشصيرا). Buna yaxın olan: əş-şaşr (الشَّصْر) – tikməkdir ki, onda bir qədər uzaqlıq olur. Fulanın baxışı şaçər etdi (شَصَرَ بصرُ فلان) sözünə gəldikdə isə, bu, əvəzetmə (İbdal) babındandır, həqiqətdə sad [əvəz olunmuşdur] ta hərfindən, o da öz babında zikr edilmişdir. \nOndan şaz (istisna) olanlardan: əş-şaşar (الشَّصَر), deyilir ki, o, gənc ceyrandır (الظَّبْى الشّادن). Bəzən onu əş-şaşir (الشَّاصِر) də adlandırırlar. \nOnu Cərir zikr etmişdir (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:02.753Z"
+}

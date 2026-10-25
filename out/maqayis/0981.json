@@ -1,0 +1,17 @@
+{
+ "i": 981,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حيس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 124,
+  "page_to": 124
+ },
+ "ar": "الحاء والياء والسين أصلٌ واحد، وهو الخليط. قال أبو بكر: حسْتُ الحبْلَ إذا فتَلْتَه، أَحِيسُه حَيْسا. وهذا أصلٌ لما ذكرناه، لأنه إذا فتلَه تداخلَتْ قواه وتخالَطت. والحَيْس معروفٌ، وهو من الباب، لأنه أشياءِ تُخْلَط. قال أبو عُبيدٍ فيما رواه، للذى أحدَقَتْ به الإماء من كل وجهٍ، محيوس.\nقال: شُبّه بالحَيْس.",
+ "az": "[حيس] (heys) - Ha, ya və sin tək bir kökə malikdir ki, o da qarışıq deməkdir. Əbu Bəkr demişdir: «حَسْتُ الحبْلَ» — ipi büktüyün zaman «أَحِيسُه حَيْسا» (onu bükərəm). Bu, qeyd etdiyimiz məna üçün bir əsasdır; çünki onu büktükdə gücləri bir-birinə qarışır və qatışır. «الحَيْس» məlum yeməkdir, bu fasildəndir, çünki o, qarışdırılan şeylərdir. Əbu Übeyd rəvayət etdiyi sözdə, kənarlarından cariyələrin əhatə etdiyi şəxs barədə demişdir: «محيوس» (qarışdırılmış/çaşqın). O demişdir: «الحَيْس»ə bənzədilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

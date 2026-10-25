@@ -1,0 +1,17 @@
+{
+ "i": 246,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بسل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 248,
+  "page_to": 249
+ },
+ "ar": "الباء والسين واللام أصلٌ واحد تتقارب فُروعُه، وهو المَنْع والحبس، وذلك قولُ العرب للحرام بَسْلٌ. وكلُّ شئ امتَنَعَ فهو بَسْلٌ.\nقال زُهَير:\n* فإن تُقْوِيا مِنْهُمْ فإنَّهُم بَسْلُ (١) *\nوالبَسالة الشَّجاعة من هذا؛ لأنّها الامتناع على القِرْن. ومن هذا الباب قولهم:\nأَبْسَلْتُ الشّئَ أسلمتُهُ للهَلَكَةِ. ومنه أَبْسَلْتُ وَلَدِى رهنْتُه. قال اللّه تعالى:\n﴿أُولائِكَ اَلَّذِينَ أُبْسِلُوا بِما كَسَبُوا﴾. ثُمَّ قالَ عوفُ بنُ الأحوص (٢):\nوإبسالِى بَنِئَ بِغَيرِ جُرْمٍ … بَعَوْنَاهُ ولا بِدَمٍ مُرَاقِ (٣)\nوأما البُسْلَةُ فأُجرة الرَّاقِى، وقد يُرَدُّ بدقيقٍ من النّظر إلى هذا (١). والأحسنُ عندى أن يقال هو شاذٌّ عن معظم الباب. وكان ابنُ الأعرابى يقول: البَسَل الكَرِيه الوَجْه (٢)؛ وهو قياسٌ صَحِيحٌ مطّرِدٌ على ما أصَّلْناه.",
+ "az": "[بسل] (bəsəl) — با (ba), سين (sin) və لام (lam) budaqları bir-birinə yaxın olan tək bir əsas mənadır, o da qadağan etmək və saxlamaqdır; ərəblərin harama «بَسْلٌ» (bəsəl) deməsi məhz bundandır. Qadağan olunmuş hər bir şey «بَسْلٌ» (bəsəl) sayılır. Züheyr demişdir: * فإن تُقْوِيا مِنْهُمْ فإنَّهُم بَسْلُ (١) * (Əgər siz ikiniz oradan keçibgetsəniz və onlar kimsəsiz qalsa, bilin ki, onlar qadağan olunmuşlar/toxunulmazlardırlar). «البَسالَةُ» (bəsalət - igidlik, cəsuruq) də bu mənadandır; çünki o, rəqibin qarşısında dayanmaq və çəkinməməkdir. Bu fəsildəndir onların: «أَبْسَلْتُ الشَّئَ» (mən şeyi təslim etdim) – onu həlakə təslim etdim. Həmçinin «أَبْسَلْتُ وَلَدِى» (övladımı girov qoydum) – onu girov qoydum. Uca Allah buyurmuşdur: mənaca tərcümə: «Onlar qazandıqları əməllərə görə girov qoyulmuş (təslim edilmiş) kəslərdir». Sonra Ovf ibn əl-Əhvəs demişdir (٢): * وإبسالِى بَنِئَ بِغَيرِ جُرْمٍ … بَعَوْنَاهُ ولا بِدَمٍ مُرَاقِ (٣) * (Oğlumu heç bir günahı olmadan, kömək etmədiyimiz və heç bir qan axıtmadığımız halda girov qoymağım...). «البُسْلَةُ» (buslə) isə – ovsunçunun (və ya ruhani təbibin) haqqıdır və bu, incə bir nəzərlə bu məna ilə əlaqələndirilə bilər (١). Məncə, ən gözəli odur ki, bu söz fəslin ümumi qaydasından istisna (şaz) hesab olunsun. İbn əl-Ərəbi deyərdi: «البَسَلُ» (bəsəl) – üzü çirkin, qıyqacı olan deməkdir (٢); busa bizim əsaslandırdığımız qaydaya görə səhih və müntəzəm bir qiyasdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.233Z"
+}

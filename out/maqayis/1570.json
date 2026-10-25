@@ -1,0 +1,17 @@
+{
+ "i": 1570,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 436,
+  "page_to": 436
+ },
+ "ar": "[أمّا] الراء والميم والهمزة فأصلٌ برأسه غير الأول، وهو قليل. يقال رمَأَت الإبل تَرْمأُ رمُوءً ورَمْأً: أقامت فى الكلأ والعُشْب. ورمأ فلانٌ فى بنى فلانٍ: أقام. ويقال أرمأت الأخبارُ: أشكَلَتْ. ومُرَمَّآت الأخبار، أى أباطيلُها.",
+ "az": "[رمأ] (Rəməə). Ra, mim və həmzə isə birincidən fərqli müstəqil bir əsasdır və o azdır. Deyilir: رمَأَت الإبل تَرْمأُ رمُوءً ورَمْأً (Dəvələr otlaqda və yaşıl otda qərar tutdu, dayandı). Fulan kəs filankəslərin yanında رمأ (dayandı, sakin oldu). Deyilir: أرمأت الأخبارُ (Xəbərlər dolaşıq düşdü, dolaşdı). ومُرَمَّآت الأخبار (Və murəmmaatul-əxbar): yəni xəbərlərin yalanları, uydurmaları.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:08.692Z"
+}

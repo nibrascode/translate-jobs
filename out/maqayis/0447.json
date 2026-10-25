@@ -1,0 +1,17 @@
+{
+ "i": 447,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تفث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 350,
+  "page_to": 350
+ },
+ "ar": "التاء والفاء والثاء كلمةٌ واحدة فى قول اللّه تعالى: ﴿ثُمَّ لْيَقْضُوا تَفَثَهُمْ﴾. قال أبو عبيدةَ: هو قصُّ الأظافر وأخْذ الشَّارب وشمُّ الطيب وكلُّ ما يَحْرُم على المُحْرِمِ إلاّ النكاح. قال: ولم يجئ فيه شِعْرٌ يُحْتَجُّ به (١).",
+ "az": "[تفث] (tə-f-s). Ta, fa və sə hərfləri Uca Allahın ﴿ثُمَّ لْيَقْضُوا تَفَثَهُمْ﴾ [«Sonra təmizlik işlərini bitirsinlər» — mənaca tərcümə] buyruğunda tək bir kəlmədir. Əbu Übeydə demişdir: Bu, dırnaqları tutmaq, bığları qısaltmaq, ətir qoxlamaq və İhramda olan şəxsə nikahdan başqa qadağan olunan hər şeydir. O demişdir: Bu barədə dəlil gətiriləcək heç bir şeir gəlməmişdir (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

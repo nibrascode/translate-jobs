@@ -1,0 +1,17 @@
+{
+ "i": 2185,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 248,
+  "page_to": 249
+ },
+ "ar": "الشين والجيم والنون أصلٌ واحد يدلُّ على اتّصال الشئِ والتفافِه. من ذلك الشِّجْنة، وهى الشجَر الملتفّ. ويقال بينى وبينه شِجْنةُ رَحمٍ، يريد اتّصالَها والتفافَها. ويقال للحاجة الشجَن، وإنّما سمِّيت بذلك لا لتباسها وتعلُّق القلبِ بها؛ والجمع شجون. قال:\nوالنّفس شتَّى شجونُها (٣)\nوالأشجان: جمع شجَن. قال:\nلى شَجَنانِ شجَنٌ بنجدِ … وشجَنٌ لى ببلاد الهِنْدِ (١)\nوالشواجن: أوديةٌ غامضة كثيرةُ الشجَر، وسمِّيت به لتشاجُنِ الشجَر.\nقال الطرمَّاح:\nكظَهْرِ اللّأَى لو تُبتَغَى رَيَّةٌ بها … نهاراً لعَيَّتْ فى بطون الشَّواجِنِ (٢)",
+ "az": "[شجن] Şin, cim və nun hərfləri bir şeyin birləşməsinə və bir-birinə sarılmasına dəlalət edən tək bir kökdür. O cümlədən «الشِّجْنة» — budaqları bir-birinə sarılmış ağacdır. Deyirlər: «بينى وبينه شِجْنةُ رَحمٍ» (mənimlə onun arasında qohumluq bağı var), yəni onun birləşməsini və sarılmasını qəsd edir. Ehtiyac və qayğıya «الشجَن» deyilir, o, qəlbin ona qarışması və bağlanması səbəbindən belə adlandırılmışdır; cəmi isə «شجون» gəlir. O demişdir: «والنّفس شتَّى شجونُها» (Nəfsin dərdləri müxtəlifdir) (٣). Və «الأشجان» — «شجَن» sözünün cəmidir. O demişdir: «لى شَجَنانِ شجَنٌ بنجدِ … وشجَنٌ لى ببلاد الهِنْدِ» (Mənim iki dərdim var: Bəcdə bir dərd, Hindistan diyarında da bir dərd) (١). Və «الشواجن» — dərin, içində çoxlu ağaclar olan dərələrdir, ağacların sarılması səbəbindən belə adlandırılmışdır. Ət-Tirmmah demişdir: «كظَهْرِ اللّأَى لو تُبتَغَى رَيَّةٌ بها … نهاراً لعَيَّتْ فى بطون الشَّواجِنِ» (Əgər orada gündüz vaxtı susuzluğu yatırmaq istənilsəydi, Ləənin belinə bənzərdi, o şavənlərin (dərələrin) qarınlarında aciz qalardı) (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:46.217Z"
+}

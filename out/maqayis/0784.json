@@ -1,0 +1,17 @@
+{
+ "i": 784,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جندف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 511,
+  "page_to": 511
+ },
+ "ar": "ومن ذلك قولهم للجافى (جُنادِفٌ) فالنون فيه زائدة، والأصل الجَدْفُ وهو احتقار الشَّئ؛ يقال جَدَف بكذا أى احتقر، فكأن الجُنادِفَ المحتقر للأشياء، من جفائه.",
+ "az": "«جندف» - Və buraya kobud adama «جُنادِفٌ» (cunadif) deyilməsi daxildir, nun hərfi orada artıqdır (zayiddir), əsli isə bir şeyi kiçik və həmkar hesab etmək mənasını verən الجَدْف (əl-cədf) sözüdür; «جَدَف بكذا» - yəni onu kiçik və dəyərsiz saydı, deməli, cunadif də kobudluğundan şeyləri kiçik və dəyərsiz hesab edəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1680,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 494,
+  "page_to": 494
+ },
+ "ar": "الراء والجيم والنون أصلان: أحدهما المُقَام، والآخر الاختلاط.\nفالأول قولهم: رَجَنَ بالمكان رُجُوناً: أقام. والرَّاجِن: الآلِف من الطَّير وغيره.\nوالثانى قولهم ارْتَجَنَ أمْرُهم: اختلَط. وهو من قولهم ارْتَجَنَتِ الزّبدة، إذا فسَدتْ فى المَخْض.",
+ "az": "[رجن] (rəcən): راء، جيم və nun hərfləri iki əsas mənanı ehtiva edir: biri – sakin olmaq, qalmaq, digəri – qarışıqlıq.\nBirincisi, onların رَجَنَ بالمكان رُجُوناً (bir yerdə qaldı, məskunlaşdı) sözüdür. الرَّاجِن (ur-racin) – quş və digər canlılardan evcil olan, ünsiyyət quran.\nİkincisi, onların ارْتَجَنَ أمْرُهم (işləri qarışdı) sözüdür. Bu, onların ارْتَجَنَتِ الزّبدة (yağ çalınanda xarab oldu) sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:36:40.586Z"
+}

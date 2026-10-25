@@ -1,0 +1,17 @@
+{
+ "i": 754,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جردب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 506,
+  "page_to": 506
+ },
+ "ar": "ومن ذلك قولهم للرجل إذا سَتَر بيديه طعامَه كى لا يُتَنَاوَل (جَرْدَبَ). من كلمتين: من جَدَب لأنه يمنع طعامه، فهو كالجَدْب المانع خَيْرَه؛ ومن الجيم والراء والباء، كأنه جعل يديه جراباً يَعِى الشئَ ويَحويه. قال:\nإذا ما كُنْتَ فى قومٍ شَهَاوَى … فلا تَجْعَلْ شِملَكَ جُرْدُبَانا (٢)",
+ "az": "«جردب» — Həmçinin, kimsə yeməyinin əlləri ilə tutulmaması üçün onları üstünə örtəndə dedikləri «جَرْدَبَ» (cərdəbə) sözü də bundandır. Bu da iki kəlmədəndir: biri «جَدْب» (cadb) sözündəndir, çünki o, yeməyinə mane olur, ona görə də xeyrini qadağan edən quraqlıq (cadb) kimidir; digəri də جيم (cim), راء (ra) və باء (ba) hərflərindəndir – elə bil o, əllərini bir şey tutan və qoruyan kisəyə çevirmişdir. Şair demişdir: \nإذا ما كُنْتَ فى قومٍ شَهَاوَى … فلا تَجْعَلْ شِملَكَ جُرْدُبَانا (٢) \n(Əgər sən tamahkar bir qövm içində olmasan, əba-paltonu cürdəban [qoruyucu] etmə.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.135Z"
+}

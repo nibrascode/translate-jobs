@@ -1,0 +1,17 @@
+{
+ "i": 580,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جضض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 415,
+  "page_to": 415
+ },
+ "ar": "الجيم والضاد قريبٌ من الذى قبله. يقولون جَضَّضُ عليه بالسَّيف، أى حَمَل.",
+ "az": "«جضض» (Cim və dad) əvvəlkindəki mənanı yaxın mənanı bildirir. Deyirlər: «جَضَّضُ عليه بالسَّيف» (Ona qarşı qılınc çəkdi), yəni hücum etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:02.723Z"
+}

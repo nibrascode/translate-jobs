@@ -1,0 +1,17 @@
+{
+ "i": 597,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 427,
+  "page_to": 428
+ },
+ "ar": "الجيم والحاء والفاء [أصلٌ] واحدٌ، قياسُه الذَّهاب بالشَّئ مُسْتَوْعَباً. يقال * سَيْل جُحَافٌ إذا جَرَف كلَّ شَئٍ وذهَبَ به. قال:\nلها كَفَلٌ كصَفَاةِ المَسيلِ … أبْرَزَ عنها جُحَافٌ مُضِرّ (١)\nوسمِّيت الجُحْفة لأنَّ السّيلَ جَحَفَ أهلَها، أى حَمَلَهم. ويقال أجْحَفَ بالشَّئ إذ ذَهَبَ به. وموتٌ جُحافٌ مثل جُراف. قال:\n* وكم زَلَّ عنها من جُحافِ المَقَادِرِ (٢) *\nومن هذا الباب الجُحاف: داءٌ يُصِيب الإنسانَ فى جوفه يُسْهِلُهُ، والقياس واحد. وجَحْفت له أى غَرَفْتُ.\nوأصلٌ آخر، وهو المَيْل والعُدول. فمنها الجِحَاف وهو أنْ يُصيب الدّلوُ فَمَ البئر عند الاستقاء. قال:\n* تَقْوِيمَ فَرْغَيْها عن الجِحافِ (٣) *\nوتجاحَفَ القومُ فى القتال: مالَ بعضُهم على بعضٍ بالسُّيوف والعِصِىّ.\nوجاحَفَ الذَّنْبَ اذا مالَ إليه. وفلان يُجْحِف لِفُلانٍ: إذا مال معه على غيره.",
+ "az": "[جحف] (Cim, ha və fa hərfləri [bir əsasdır], onun qiyasındakı məna hər şeyi tamamilə alıb getməkdir. سَيْل جُحَافٌ (Hər şeyi süpürüb aparan sel) deyilir. Şair demişdir:\nلها كَفَلٌ كصَفَاةِ المَسيلِ … أبْرَزَ عنها جُحافٌ مُضِرّ (١)\n(Onun axar suyun qayası kimi sağrısı vardır... zərərli bir sel onu üzə çıxardı.)\nCuhfə (الجُحْفة) ona görə belə adlandırılmışdır ki, sel onun sakinlərini süpürüb aparmışdır, yəni daşımışdır. Bir şeyi alıb getdikdə أجْحَفَ بالشَّئ deyilir. موتٌ جُحافٌ (qəfil ölüm) جُراف كimidir. Şair demişdir:\n* وكم زَلَّ عنها من جُحافِ المَقَادِرِ (٢) *\n(Qədərlərin hər şeyi sovurub aparan selindən neçəsi oradan sürüşüb getdi!)\nBu fəsildəndir: الجُحاف – insanın daxilinə düşüb onu ishala salan xəstəlikdir; qiyas eynidir. Və جَحْفت له – yəni onun üçün götürdüm (qıvrıb qabdan aldım).\nDigər bir əsas isə meyl etmək və dönməkdir. Bunlardan biri الجِحَاف – su çəkərkən qovanın quyunun ağzına dəyməsidir. Şair demişdir:\n* تَقْوِيمَ فَرْغَيْها عن الجِحافِ (٣) *\n(Onun iki ağzını quyunun kənarından toxunmaqdan düzəltmək...)\nVə döyüşdə tayfanın bir-birinə meyl etməsi: تجاحَفَ القومُ فى القتال – yəni onların bəzisi qılınc və dəyənəklərlə digərinin üzərinə hücum etdi.\nGünaha meyl etdikdə جاحَفَ الذَّنْبَ deyilir. Filankəs başqasının əleyhinə olaraq onunla birlikdə meyl etdikdə فلان يُجْحِف لِفُلانٍ deyilir.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:44.168Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1573,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 437,
+  "page_to": 437
+ },
+ "ar": "الراء والميم والحاء كلمةٌ واحدة، ثم يُصرَّف منها. فالكلمة الرُّمْح، وهو معروفٌ، والجمع رِماح وأرْماح. والسِّماك الرّامح: نَجمٌ، وسُمِّى بكوكبٍ يقْدُمه كأنَّه رُمْحه. فأمَّا قولهم: رَمَحَتْه الدَّابَّةُ، فمن هذا أيضاً لأنّ ضَرْبها إيّاهُ برِجلها كرمح الرَّامحِ برُمْحه. ومنه رَمَحَ الجُندبُ، إذا ضَرب الحصَى بيده. والرَّمّاح: الذى يتَّخذ الرِّماح، وحِرفته الرِّماحة. والرَّامح: الطاعن بالرُّمْح. والرامح: الحامل له. ويقال للبُهْمَى إذا امتنَعتْ على الرّاعية: قد أخذَتْ رماحَها. كما قال:\nأيَّامَ لم تأخُذْ إلىَّ سِلاحَها … إبِلى لجِلّتها ولا أبكارها",
+ "az": "[رمح] (Rəməh). Ra, mim və ha tək bir kəlmədir, sonra ondan müxtəlif formalar düzəldilir. Kəlmə — الرُّمْح (əlr-rumh) yəni nizədir, məlumdur, cəmi رِماح (rimah) və أرْماح (ərmah) gəlir. Və السِّماك الرّامح (Əs-Simak ər-Ramih): bir ulduzdur, qarşısındakı nizəyə bənzər bir ulduzla adlandırılmışdır. Amma onların رَمَحَتْه الدَّابَّةُ (Heyvan onu tepiklədi) sözünə gəldikdə, bu da bundandır, çünki onun onu ayağı ilə vurması nizəçinin nizə ilə vurması kimidir. Həmçinin رَمَحَ الجُندبُ (Çəyirtgə əli ilə daş-çınqıl vurdu) sözü də bundandır. Və الرَّمّاح (əl-rammah): nizə düzəldən şəxs, sənəti isə الرِّماحة (əl-rimahə) – nizəçilikdir. Və الرَّامح (əl-ramih): nizə ilə sancan. Və ər-ramih: nizə daşıyan. Dəvə otlayanlara tabe olmayanda bəhmə otuna deyilir: o, nizələrini götürdü. Necə ki, şair demişdir: أيَّامَ لم تأخُذْ إلىَّ سِلاحَها … إبِلى لجِلّتها ولا أبكارها (O günlər ki, dəvələrim nə yaşlısı, nə də balaları mənə qarşı silahını götürməmişdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:08.692Z"
+}

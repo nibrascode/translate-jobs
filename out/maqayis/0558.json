@@ -1,0 +1,17 @@
+{
+ "i": 558,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثأط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 398,
+  "page_to": 398
+ },
+ "ar": "الثاء والهمزة والطاء كلمةٌ واحدة ليست أصلاً. فالثأْطَةُ الحَمْأة، والجمع ثَأْط. وينشدون:\n* فى عَينِ ذى خُلُبٍ وثَأْط حَرْمَدِ (٣) *\nوإنما قلنا ليست أصلاً لأنّهم يقولونها بالدال (٤)، فكأنّها من باب الإبدال.",
+ "az": "[ثأط]\nالثاء والهمزة والطاء كلمةٌ واحدة ليست أصلاً. فالثأْطَةُ الحَمْأة، والجمع ثَأْط. وينشدون: (Sə, həmzə və ta hərfləri tək bir kəlmədir, əsas deyil. Deməli, əs-səətə – qara paltar, lildən ibarət palçıqdır, cəmi isə səətdir. Və [şer] oxuyurlar):\n* فى عَينِ ذى خُلُبٍ وثَأْط حَرْمَدِ (٣) *\n(Xülüb və hərməd palçığı olan bulaqda)\nوإنما قلنا ليست أصلاً لأنّهم يقولونْها بالدال (٤)، فكأنّها من باب الإبدال. (Bizim onun əsas olmadığını deməyimiz sadəcə ona görədir ki, onlar bunu dal hərfi ilə deyirlər, ona görə də sanki o, əvəzlənmə fəslindəndir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:42:41.762Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2175,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شبم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 242,
+  "page_to": 243
+ },
+ "ar": "الشين والباء والميم كلمتان متباينتان جدًّا، إحداهما الشَّبَم البَرْد، والشّبِم: البارد. والأخرى الشِّبَام: خشبة تُعَرَّض فى * فم الجدْى لئَلا\nيرضَع، ثمّ يشبَّه بذلك فيقال الشِّبامان: خيطانِ فى البرقع، تشدُّهما المرأةُ فى قفاها.",
+ "az": "«شبم» (şəbəm). Şin, ba və mim hərfləri bir-birindən çox fərqlənən iki sözdür; bunlardan biri الشَّبَم (əş-şəbəm) — soyuq, الشّبِم (əş-şəbim) — soyuq deməkdir. Digəri isə الشِّبَام (əş-şibam) — keçi balasının əmizdirilməməsi üçün ağzına qoyulan taxta parçasıdır, sonra buna bənzədərək deyirlər: الشِّبامان (əş-şibaman) — qadının ənsəsində bağladığı burqanın iki ipi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 714,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جوت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 492,
+  "page_to": 492
+ },
+ "ar": "الجيم والواو والتاء ليس أصلاً؛ لأنه حكايةُ صَوْت، والأصواتُ لا تقاس ولا يقاس عليها. قال:\n* كما رُعْتَ بالجَوْتِ الظِّماءَ الصَّوادِيا (٤) *\nقال أبو عبيد: إنما كان الكسائىُّ ينشد هذا البيتَ لأجل النصب، فكان يقول:\n«كما رُعْتَ بالجَوْتَ … »\nفحَكَى مع الألف واللام",
+ "az": "[جوت] \nCim, vau və ta hərfləri əsl deyil; çünki o, səsin təqlididir (onomatopeyadır), səslər isə qiyas olunmur və onlara əsasən hökm çıxarılmır. Şair demişdir:\n* كما رُعْتَ بالجَوْتِ الظِّماءَ الصَّوادِيا (٤) *\n*(Necə ki, sən əl-Cout səsi ilə susamış və suya həsrət qalan dəvələri hürkütdün)*\nƏbu Übeyd demişdir: Kəsai bu beyti məhz fəthə (nəsb) hərfi üçün oxuyardı və belə deyərdi:\n«كما رُعْتَ بالجَوْتَ … »\nO, bunu əlif və lam artikli ilə birlikdə nəql etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

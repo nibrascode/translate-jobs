@@ -1,0 +1,17 @@
+{
+ "i": 504,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 372,
+  "page_to": 372
+ },
+ "ar": "الثاء والجيم والميم ليس أصلاً، وهو دوام المطر أيّاما. يقال أثجَمَتِ السماءُ إذا دامَتْ أياماً لا تُقْلِع. وأُرَى الثاء مقلوبةً عن سين، إلا أنَّها إذا أُبدلت ثاءَ جعلت من باب أفعل. وهاهنا كلمةٌ أخرى واللّهُ أعلَمُ بصحَّتها. قالوا:\nالثجْم سرْعة الصَّرْف عن الشئ. واللّه أعلم.",
+ "az": "«ثجم»: الثاء, Cim və Mim əsl deyildir, o da yağışın günlərlə davam etməsidir. Deyilir: أثجَمَتِ السماءُ — səma günlərlə kəsilmədən yağış yağdırdığı zaman. Mən hesab edirəm ki, ثاء hərfi sin hərfini əvəz etmişdir, lakin əgər o, ثاء ilə əvəz olunubsa, onu (أفعل) babından etmişlər. Və burada başqa bir kəlimə də var, Allah onun səhihliyini daha yaxşı bilir. Deyirlər: (الثجْم) — bir şeydən tez dönməkdir. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

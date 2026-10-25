@@ -1,0 +1,17 @@
+{
+ "i": 220,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 219,
+  "page_to": 219
+ },
+ "ar": "الباء والراء والسين أصلٌ واحدٌ، يدلُّ على السهولة واللين قال أبو زيد (١): بَرَّسْت المكانَ إذا سَهَّلْتَه وليّنْتَه. قال: ومنه اشتقاق بُرْسان قبيلة من الأزد. والبُرِس القُطْن. والقياسُ واحد. ومما شذَّ عن هذا الأصل قولُهم:\nما أدرى أىُّ البَرَاساءِ والبَرْنَساءِ هو، أى أىُّ الخلقِ هو.",
+ "az": "[برس] الباء والراء والسين (ba, ra və sin) bir əsl olub, asanlıq və yumşaqlığa dəlalət edir. Əbu Zeyd demişdir (١): «بَرَّسْت المكانَ» (mən yeri hamarladım, yumşaltdım). O demişdir: Əsd qəbiləsindən olan «بُرْسان» (Bürsan) qəbiləsinin adı buradan götürülmüşdür. «البُرِس» (əl-büris) isə pambıqdır. Qiyas birdir.\nBu əsldən kənara çıxan sözlərdən biri də onların: «ما أدرى أىُّ البَرَاساءِ والبَرْنَساءِ هو» (Bilmirəm o, hansı məxluqdur, hansı insandır) deməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

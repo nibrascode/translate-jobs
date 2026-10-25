@@ -1,0 +1,17 @@
+{
+ "i": 1078,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خسق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 181,
+  "page_to": 181
+ },
+ "ar": "الخاء والسين والقاف ليس أصلاً؛ لأنَّ السِّين فيه مُبدلةٌ من الزاء، وإنّما يُغَيَّر الّلفظُ ليغيَّر بعضُ المعنى. فالخازق من السِّهام: الذى يرتزُّ إذا أصابَ الهدف. والخاسق: الذى يتعلَّق ولا يرتَزُّ. ويقولون - واللّه أعلم بصحته - إنَّ الناقة الخَسُوقَ السيّئةُ الخُلُق.",
+ "az": "[خسق] (خ, س, ق): Əsas deyildir; çünki oradakı س (sin) hərfi ز (z) hərfini əvəz etmişdir. Mənanın bir qismini dəyişmək üçün ləفظ dəyişdirilir. Oxlardan الخازِق (əl-xaziq) - hədəfə dəydikdə sancılıb qalan oxdur. الخَاسِق (əl-xasiq) - ilişib qalan, lakin sancılmayandır. Deyirlər ki - səhih olub- olmadığını Allah bilir - الناقة الخَسُوقُ (ən-naqə əl-xəsuq) - pis xasiyyətli dəvədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

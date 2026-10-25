@@ -1,0 +1,17 @@
+{
+ "i": 1664,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ربأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 484,
+  "page_to": 484
+ },
+ "ar": "وأما المهموز فالمربَأ والمَرْبَأة من الأرض، وهو المكان العالى يقف عليه عَينُ القَوم. ومَربأة البازِى: المكانُ يقف عليه. قال امرؤ القيس:\nوقد أغتدِى ومعى القَانِصانِ … وكلٌّ بمَرْبَأةٍ مُقْتَفِرْ (٣)\nوأنا أربأ بك عن هذا الأمر، أى أرتفِع (٤) بك عنه. وذكر ابن دريد:\nلفُلانٍ على فُلانٍ رَبَاء، ممدود، أى طوْلٌ (٥). قال أبو زيد: رَابَأْتُ الأمرَ مُرابأةً، أى حَذِرْتُه واتَّقَيْتُه. وهو من الباب، كأنّه يرقُبه. قال ابن السِّكِّيت:\nما ربأتُ رَبْ ءَ فُلانٍ، أى ما علِمتُ به. كأنّه يقول: ما رقَبته. ومنه: فعل فِعلاً ما ربأتُ به، أى ما ظننتُه.\nواللّه أعلم بالصواب.",
+ "az": "[ربأ] \nAmma həmzəli olanına gəldikdə, المربَأ və المَرْبَأة (mərbə' və mərbə'ə) — yerdə uca yerdir ki, qövmün keşikçisi (gözətçisi) orada dayanar. Və مَربأة البازِى (şahinin mərbə'əsi) — şahinin dayandığı yerdir. İmruül-Qeys demişdir: \nوقد أغتدِى ومعى القَانِصانِ … وكلٌّ بمَرْبَأةٍ مُقْتَفِرْ (٣) \n(Həqiqətən mən səhər erkəndən gedirəm, yanımdadır iki ovçu... və hər biri bir müşahidə yerində izləyicidir). \nVə أنا أربأ بك عن هذا الأمر (Mən səni bu işdən uca tuturam), yəni səni bundan ucaldıram (٤). İbn Dürid qeyd etmişdir: \nفلانٌ على فُلانٍ رَبَاء (Filankəsin filankəs üzərində rəbavı vardır), mədli (uzadılaraq) olaraq, yəni üstünlüyü/boyu vardır (٥). Əbu Zeyd demişdir: رَابَأْتُ الأمرَ مُرابأةً (Mən işdən ehtiyat etdim, gözlədim), yəni ondan çəkindim və qorundum. Bu da həmin fəsildəndir, sanki o, işi güdür/gözləyir. İbn əs-Sikkit demişdir: \nما ربأتُ رَبْ ءَ فُلانٍ (Mən filankəsin xəbərini/gözləntisini bilmədim), yəni onu gözləmədim mənasında. Vəandandır: فعل فِعلاً ما ربأتُ به (Elə bir iş gördü ki, mən onu güman etmədim/ağlıma gətirmədim). \nVə ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:36.370Z"
+}

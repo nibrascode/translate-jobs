@@ -1,0 +1,17 @@
+{
+ "i": 2320,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صوغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 321,
+  "page_to": 322
+ },
+ "ar": "الصاد والواو والغين أصلٌ صحيح، وهو تهيئة على شئٍ على مثالٍ مستقيم. من ذلك قولهم: صاغ الْحَلْىَ يصُوغُه صَوغاً. وهما صَوْغان، إذا كان\nكلُّ واحدٍ منهما على هيئة الآخَر. ويقال للكذّاب: صاغ الكذبَ صَوغاً، إذا اختلقَه. وعلى هذا تفسير\nالحديث: «كِذْبة كذَبَتْها الصَّوَّاغُون». أراد الذين يَصُوغُون الأحاديثَ ويَختلقونها.",
+ "az": "[صوغ] (sad, vav və ğayn) səhih bir kök olub, düzgün bir nümunə üzərində bir şeyi tərtib etməkdir. Onların bu sözü bundandır: صاغ الْحَلْىَ يصُوغُه صَوغاً (bəzək əşyasını düzəltdi, onu düzəltməklə düzəldir). Onlar صَوْغان (sovğan) - ikisi də iki bərabər heyətdə olduqları zaman. Yalançıya deyilir: صاغ الكذبَ صَوغاً (yalanı uydurdu) – onu uydurduğu zaman. Hədisin izahı da buna əsaslanır: «كِذْبة كذَبَتْها الصَّوَّاغُون» (Yalançıların uydurduğu yalan). O kəsləri qəsd etmişdir ki, hədisləri uydurub quraşdırırlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:11.241Z"
+}

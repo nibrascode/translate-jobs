@@ -1,0 +1,17 @@
+{
+ "i": 1922,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 102,
+  "page_to": 102
+ },
+ "ar": "السين والميم والكاف أصلٌ واحد يدلُّ على العُلُوِّ. يقال سَمَك، إذا ارتفع. والمسموكات: السماوات. ويقال سَمَك فى الدَّرَج. واسمُكْ، أى اعْلُ. وسَنامٌ سامك، أى عالٍ. والمِسْماك: ما سَمَكْتَ به البيتَ. قال ذو الرمة:\nكأنَّ رجلَيْهِ مِسما كانِ مِنْ عشَرٍ … سَقْبَانِ لم يتقشَّرْ عنهما النَّجَبُ (٢)\nوالسِّماك: نجم. ومما شذّ عن الباب وباين الأصل: السَّمَك.",
+ "az": "[سمك] (sin, mim və kaf) — ucalığa dəlalət edən tək bir əsasdır. «سَمَك» — ucaldıqda deyilir. «المسموكات» — göylər deməkdir. «سَمَك فى الدَّرَج» (pilləkənlərlə yuxarı qalxdı) deyilir. «اسمُكْ» — yəni ucal. «سَنامٌ سامك» — uca hürgüc deməkdir. «المِسْماك» — evi ucaltdığın dirəkdir. Züр-Rumə demişdir: «كأنَّ رجلَيْهِ مِسما كانِ مِنْ عشَرٍ … سَقْبَانِ لم يتقشَّرْ عنهما النَّجَبُ» (٢) (Elə bil onun iki ayağı əşər ağacından iki mismakdır... hələ qabıqları soyulmamış iki baladır). «السِّماك» — ulduz adıdır. Əsasdan uzaq düşən və istisna olan isə «السَّمَك» (balıq) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.159Z"
+}

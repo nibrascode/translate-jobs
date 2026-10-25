@@ -1,0 +1,17 @@
+{
+ "i": 2210,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شدح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 256,
+  "page_to": 256
+ },
+ "ar": "الشين والدال والحاء ليس بشئ. وحُكى أنّ الشَّوْدَح:\nالطّوِيل من النُّوق. ويقال بل هى السَّريعة. وانشَدَحَ الرجل، إذا استلقَى على ظهره. وهذا ليس بشئٍ، ولعلّه أن يكون انسَدح. وقد ذكرناه (٢).",
+ "az": "«شدح» (şədəh). Şin, dal və ha köklü sözlərin heç bir əsası yoxdur. Rəvayət edilmişdir ki, «الشَّوْدَحُ» (əş-şövdəh) — dəvələrin hündür olanıdır. Həmçinin deyilmişdir ki, o, sürətli dəvədir. Və «انْشَدَحَ الرَّجلُ» (kişi arxası üstə uzandı) — kişi arxası üstə uzandığı zaman. Lakin bu, heç bir əsası olmayan sözdür, ola bilsin ki, «انسَدَح» (insədəh) sözüdür. Biz bunu artıq qeyd etmişik (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

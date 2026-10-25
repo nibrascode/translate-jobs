@@ -1,0 +1,17 @@
+{
+ "i": 1048,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خذع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 164,
+  "page_to": 164
+ },
+ "ar": "الخاء والذال والعين يدلُّ على قَطْع الشئ؛ يقال خَذَّعَهُ بالسَّيف، إذا ضربَه. ورُوِى بيتُ أبى ذؤيب:\n* وكِلاهُما بَطَلُ اللِّقاءِ مُخَذَّع (١) *\nأى كأنه قد ضُرِب بالسَّيْف مِراراً. ويقال نبات مخذَّعٌ، إذا أُكِل أعلاه.\nوصَحَّفهُ ناس فقالوا مُجدَّع. وليس بشئِ.",
+ "az": "«خذع» (خ، ذ، ع) — bir şeyi kəsməyə dəlalət edir; deyilir: خَذَّعَهُ بالسَّيف (xəddəcəhu bis-seyf) — onu qılıncla vurduqda. Əbu Züeybin beyti rəvayət olunmuşdur: * وكِلاهُما بَطَلُ اللِّقاءِ مُخَذَّع (١) * (Hər ikisi döyüş qəhrəmanıdır, paramparça edilib/çoxlu qılınc zərbəsi alıb) — yəni o, sanki qılıncla dəfələrlə vurulmuşdur. Və deyilir: نبات مخذَّعٌ (muxəddəc bitki) — yuxarı hissəsi yeyildikdə. Bəzi insanlar bunu təhrif edib مَجَدَّع (məcəddəc) dedilər. Bu, heç bir şey deyil (yanlışdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

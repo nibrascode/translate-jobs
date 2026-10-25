@@ -1,0 +1,17 @@
+{
+ "i": 1190,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ختع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 244,
+  "page_to": 245
+ },
+ "ar": "الخاء والتاء والعين أصلٌ واحد يدلُّ على الهجوم والدُّخولِ فيما يَغِيب الداخلُ فيه. فيقولون خَتَعَ الرجل خُتُوعاً، إذا ركب الظُّلْمة.\nومن الباب الخَيْتَعَة: قطعةٌ مِنْ أدَمٍ يلُفُّها الرَّامِى على يده عند الرَّمى.\nويُحمَل على ذلك، فيقال للنَّمِرة الأنثى الخَتْعَة؛ وذلك لجُرأتها وإقدامها.\nوقال العجّاجُ (٢) فى الدليل الذى ذكرناه:\n* أَعْيَتْ أَدِلاَّءَ الفلاة الخُتَّعَا (١) *",
+ "az": "[ختع] الخاء والتاء والعين أصلٌ واحد يدلُّ على الهجوم والدُّخولِ فيما يَغِيب الداخلُ فيه. (Xar, ta və ayn hərfləri hücum etməyə və daxil olanın itib gözdən itəcəyi bir yerə girməyə dəlalət edən bir əsasdır). فيقولون خَتَعَ الرجل خُتُوعاً، إذا ركب الظُّلْمة. (Deyirlər ki, «xətə-r-raculu xutu’an», bu da qaranlığa mindiyi zaman [qaranlığa qərq olduğu zaman] olur). ومن الباب الخَيْتَعَة: قطعةٌ مِنْ أدَمٍ يلُفُّها الرَّامِى على يده عند الرَّمى. (Və bu fəsildəndir «əl-xəytə’ə» — oxatanın atarkən əlinə sardığı dəri parçasındandır). ويُحمَل على ذلك، فيقال للنَّمِرة الأنثى الخَتْعَة؛ وذلك لجُرأتها وإقدامها. (Buna əsaslanaraq dişi pələngə «xət’ə» deyilir; bu da onun cəsarətinə və irəli atılmasına görədir). وقال العجّاجُ (٢) فى الدليل الذى ذكرناه: * أَعْيَتْ أَدِلاَّءَ الفلاة الخُتَّعَا (١) * (Əccac [2] qeyd etdiyimiz dəlil haqqında demişdir: * Çölün xət’ə bələdçilərini yorub əldən saldı [1] *).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:18.900Z"
+}

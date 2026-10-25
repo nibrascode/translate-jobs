@@ -1,0 +1,17 @@
+{
+ "i": 163,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 167,
+  "page_to": 167
+ },
+ "ar": "الهمزة والياء والنون يدلّ على الإعياء، وقُرب الشَّئ. أما الأوَّل فالأيْن الإعياء. ويقال لا يُبْنَى منه فِعلٌ. وقد قالوا آنَ يَئين أَيْناً. وأما القُرب فقالوا: آنَ لَكَ يَئِينُ أيْنا.\nوأما الحيَّة التى تُدْعَى «الأيْن» فذلك إبدالٌ والأصل الميم. قال شاعر:\nيَسْرِى على الأَيْنِ والحَّياتِ محْتفِياً … نَفِسى فِداؤُك مِنْ سارٍ على ساقٍ (١)",
+ "az": "[أين] (ə-y-ن): Həmzə, ya və nun hərfləri yorğunluğa və bir şeyin yaxın olmasına dəlalət edir. Birinciyə gəldikdə, «الأيْن» (əl-əyn) – yorğunluq deməkdir. Deyilir ki, bundan fəel düzəldilməz. Lakin onlar «آنَ يَئين أَيْناً» (anə yəinu əynən) demişlər. Yaxınlığa gəldikdə isə deyiblər: «آنَ لَكَ يَئِينُ أيْنا» (Sənin üçün [bir şeyin] vaxtı yaxınlaşdı). «الأَيْن» (əl-əyn) adlandırılan ilana gəldikdə isə, bu, hərf dəyişməsidir və əsli mim ilədir. Şair demişdir: Ayaqyalın halda yorğunluq və ilanlar üzərində gəzən nəfsim sənə fəda olsun, ey ayaq üstə səfər edən! (١)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:25:17.134Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1612,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "روث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 454,
+  "page_to": 454
+ },
+ "ar": "الراء والواو والثاء كلمتان متباينتان جِدًّا. فالرَّوْثة: طرف الأرنَبة. والواحدة من رَوْث الدّوَابّ.",
+ "az": "[روث] \nRa, vav və səh hərfləri bir-birindən tamamilə fərqli iki kəlmədir. الرَّوْثة (rəvsə) — burnun ucudur. Və heyvan peyinlərinin hər birinə رَوْث (rəvs) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:33:09.565Z"
+}

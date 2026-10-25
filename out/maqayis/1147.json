@@ -1,0 +1,17 @@
+{
+ "i": 1147,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 224,
+  "page_to": 224
+ },
+ "ar": "الخاء والنون والقاف أصلٌ واحد يدلُّ على ضيقٍ. فالخانق:\nالشِّعْب الضيق. وقال بعضُ أهل العلم: إنّ أهل اليَمن يسمُّون الزُّقاق خانقاً.\nوالخَنِق مصدر خَنَقَه يخنِقُه خَنِقاً (٣). قال بعض أهل العلم: لا يقال خَنْقاً.\nوالمِخْنَقَةُ: القِلادة.",
+ "az": "[خنق] الخاء والنون والقاف أصلٌ واحد (Xar, nun və qaf bir əsasdır) — dar olmağa dəlalət edir. Və əl-xaniq (الخانق) — dar dərə. Elm əhlindən bəzisi demişdir ki, Yəmən əhli dar küçəyə xaniq deyirlər. Və خَنِق (xəniq) — خَنَقَه يخنِقُه خَنِقاً (xənəqahu yaxniquhu xənəqən) feilinin məsdəridir (3). Elm əhlindən bəzisi demişdir ki, خَنْقاً (xənqən) deyilməz. Və əl-mixnəqəh (المِخْنَقَةُ) — boyunbağı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 477,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تيز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 360,
+  "page_to": 360
+ },
+ "ar": "التاء والياء والزاء كلمةٌ واحدة. قالوا: التَّيّاز الغليظ الجسم من الرِّجال. وقال القُطَامىّ:\nإذا التَّيّازُ ذُو العَضَلات قلنا … إِلَيك إلَيْكَ ضاقَ بها ذِراعا (٢)",
+ "az": "[تيز] (t-y-z): Ta, ya və zay hərfləri tək bir kəlmədir. Dedilər ki, التَّيَّازُ (ət-təyyaz) – kişilərdən bədəni qalın, iri olan adamdır. Qutami demişdir: إِذَا التَّيَّازُ ذُو الْعَضَلَاتِ قُلْنَا … إِلَيْكَ إِلَيْكَ ضَاقَ بِهَا ذِرَاعًا (٢) (Əzələli təyyaz gəldikdə dedik: kənar dur, kənar dur, bununla qolları daraldı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

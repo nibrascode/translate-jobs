@@ -1,0 +1,17 @@
+{
+ "i": 954,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 110,
+  "page_to": 110
+ },
+ "ar": "الحاء والنون والشين أصلٌ واحد صحيحٌ وهو من باب الصَّيد إذا صدتَه. وقال أبو عمرو: الحَنَش كلُّ شئِ يُصاد من الطَير والهوام.\nوقال آخرون: الحنَش الحيّة وهو ذلك القياس. فأمّا قولهم حَنَشْت الشئ، إذ عطفْتَه، فإن كان صحيحاً فهو من باب الإبدال ولعله من عَنشْت أو عنَجْت.",
+ "az": "[حنش] (Həm, nun və şin): Ovlamaq babından olan səhih, tək bir əsasdır. Əbu Amr demişdir: «الحَنَش» (hənəş) quşlardan və yer üzündə sürünən həşəratdan (həvam) ovlanan hər bir şeydir. Başqaları demişdir: «الحنəş» (hənəş) ilan deməkdir və bu da həmin qiyasdandır. «حَنَشْت الشئ» (şeyi hənəş etdim) – onu əydiyin zaman deməyə gəldikdə, əgər bu səhihdirsə, o, əvəzlənmə (ibdal) babındandır və bəlkə də «عَنشْت» (əniştü) və ya «عَنَجْت» (ənətu) sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.647Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1353,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دبغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 326,
+  "page_to": 326
+ },
+ "ar": "الدال والباء والغين كلمةٌ. دَبغْتُ الأديمَ أدْبَغُه وأدبُغه (٤) دَبغا.",
+ "az": "[دبغ] الدال (dal), الباء (ba) və الغين (ğayn) hərfləri bir kəlmədir. دَبغْتُ الأديمَ أدْبَغُه وأدبُغه (dəbəğtu-l-ədimə ədbəğuhu və ədbuğuhu) - dərini aşıladım (٤) aşılayıram.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

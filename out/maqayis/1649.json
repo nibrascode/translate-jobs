@@ -1,0 +1,17 @@
+{
+ "i": 1649,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ربج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 474,
+  "page_to": 474
+ },
+ "ar": "الراء والباء والجيم كلمةٌ واحدة، إن صحَّتْ؛ تدلُّ على التحيُّر. قال الخليل: التَّربُّج: التَّحيُّر. قال:\n* أتَيْتُ أَبَا لَيْلَى وَلَمْ أَتَرَبَّجِ (٢) *\nويقال، وهو قريبٌ من ذلك، إن الرَّباجَة الفَدَامة.",
+ "az": "«ربج»: (Ra, Ba, Cim) əgər səhihdirsə, çaşqınlığa dəlalət edən tək bir kəlmədir. Xəlil demişdir: التَّرَبُّج (ət-tərrəbuc): çaşqınlıq. Demişdir: * أَتَيْتُ أَبَا لَيْلَى وَلَمْ أَتَرَبَّجِ * (2) (Əbu Leylanın yanına gəldim və çaşqınlıq keçirmədim). Buna yaxın olaraq deyilir ki, الرَّباجَة (ər-rəbacə): ağılsızlıq, kütlükdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.917Z"
+}

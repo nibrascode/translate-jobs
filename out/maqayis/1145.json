@@ -1,0 +1,17 @@
+{
+ "i": 1145,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خنع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 223,
+  "page_to": 223
+ },
+ "ar": "الخاء والنون والعين أصلٌ واحد يدلُّ على ذُلٍّ وخضوع وضَعَةٍ، فيقال: خضع له وخَنَع. و\nفى الحديث: «إنّ أخْنَعَ الأسماء (١)». أى أذَلَّها. ويقال أخنَعْتنى إليه الحاجة، إذا ألجأتْه إِليه وأذلّتْه له. ومن الباب الخانع:\nالفاجر. يقال: اطَّلَعْتُ منه على خَنْعَةٍ، أى فَجْرة. وهو قوله.\n* ولا يُرَوْنَ إلى جاراتِهمْ خُنُعا (٢) *\nومنه قول الآخر:\nلَعَلَّكَ يوماً أن تُلاقَى بخَنْعةٍ … فَتَنْعَبَ مِنْ وادٍ عليك أشائمُه (٣)\nوخُنَاعة: قبيلة.",
+ "az": "[خنع] الخاء والنون والعين أصلٌ واحد (Xar, nun və eyn bir əsasdır) — zillətə, boyun əyməyə və alçalmağa dəlalət edir. Belə ki, deyilir: خضع له وخَنَع (xədəə ləhu və xənə-ə) — ona təzim etdi və boyun əydi. Və hədisdə: «إنّ أخْنَعَ الأسماء (١)» (Həqiqətən, adların ən alçalţıcısı...) — yəni ən zəlili. Və deyilir: أخْنَعْتنى إليه الحاجة (əxnəʻtni iləyhi əl-hacətu) — ehtiyac məni ona möhtac edib alçalttığı zaman. Bu babdandır əl-xani (الخانع) — fasiq. Deyilir: اطَّلَعْتُ منه على خَنْعَةٍ (ıttələʻtu minhu alə xənʻətin) — mən ondan bir fasiqlik, günah gördüm. Bu, onun bu sözüdür: * ولا يُرَوْنَ إلى جاراتِهمْ خُنُعا (٢) * (Və onlar qonşularına qarşı zəlil/fasiq görünməzlər). Vəndən başqasının bu sözü: لَعَلَّكَ يوماً أن تُلاقَى بخَنْعةٍ … فَتَنْعَبَ مِنْ وادٍ عليك أشائمُه (٣) (Ola bilsin ki, bir gün bir fəlakətlə qarşılaşasan... və sənin üzərinə uğursuzluqları gələn bir dərədən qışqırıqlar qopadır). Və Xünaçə (خُنَاعة) — qəbilədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

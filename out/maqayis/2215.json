@@ -1,0 +1,17 @@
+{
+ "i": 2215,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شذب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 258,
+  "page_to": 258
+ },
+ "ar": "الشين والذال والباء أصلٌ يدلُّ على تجريدِ شئٍ من قِشره، ثم يُحمَل عليه. فالشَّذْب: قَشْر اللَّحم. وكلُّ شئٍ نحَّيتَه عن شئٍ فقد شَذَبته. ومن الباب: التَّشذيب: التقطيع. فأَمَّا الشوْذَب فمن هذا الباب أيضاً، وهو الطَّوِيلُ من كلِّ شئ، كأنّه فى طوله مشذّب، أى مجرَّد؛ وإذا جُرِّد الشّئُ من قِشرِه كانَ أظهَرَ لطُوله. وفرسٌ مشذّب: طويل، بمنزلة الجذْع المشذّب.",
+ "az": "«شذب» (şəzb). Şin, zal və ba köklü əsas tək olub, bir şeyi qabığından təmizləməyə (soymağa) dəlalət edir, sonra bu məna başqa sahələrə də şamil edilir. «الشَّذْبُ» (əş-şəzb) – əti qabığından/piyindən təmizləməkdir. Hansı şeyi başqa bir şeydən uzaqlaşdırsan, deməli onu «şəzb» etmisən. Bu bölmədəndir: «التَّشْذِيبُ» (ət-təşzib) – parça-parça doğramaq. «الشَّوْذَبُ» (əş-şövdəb) də məhz bu bölmədəndir; o da hər bir şeyin hündür olanıdır, sanki uzunluğunda təmizlənmiş, yəni qabığından soyulmuş kimidir; əgər bir şey qabığından təmizlənsə, onun uzunluğu daha çox nəzərə çarpıar. «فرسٌ مشذّبٌ» (hündür və incə at) – budqalarından təmizlənmiş kötük dərəcəsində olan hündür at deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

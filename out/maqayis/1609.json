@@ -1,0 +1,17 @@
+{
+ "i": 1609,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 452,
+  "page_to": 452
+ },
+ "ar": "الراء والهاء والميم يدلُّ على خِصْبٍ ونَدًى. فالرِّهْمَة: المَطْرة الصَّغيرةُ القَطْر؛ والجمعُ رِهَمٌ ورِهام وروضة مَرْهُومَةٌ. وأَرْهَمَتِ السّماء:\nأتت بالرِّهام. ونزلنا بفلانٍ فكُنّا فى أرهَمِ جانِبَيه، أى أخصبهما",
+ "az": "[رهم] «الراء» (ra), «هاء» (hə) və «ميم» (mim) bolluğa və nəmə dəlalət edir. الرِّهْمَة (ərrihmə) — xırda damlalı yağış; cəmi رِهَمٌ (rihəm) və رِهام (riham) və مَرْهُومَةٌ (marhumətün) — üzərinə xırda yağış yağmış çəmənlik. Və أْرْهَمَتِ السّماء (ərhəmətis-səməu) — səma xırda damlalı yağışlar gətirdi. Və biz filankəsin yanına endik və onun iki tərəfinin ən bolluq yerində olduq, yəni ən bərəkətli tərəfində.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

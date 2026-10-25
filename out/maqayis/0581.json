@@ -1,0 +1,17 @@
+{
+ "i": 581,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جظظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 415,
+  "page_to": 415
+ },
+ "ar": "الجيم والظاء إنْ صحَّ فهو جنسٌ من الْجَفَاء. و\nرُوِى فى بعض الحديث: «أهلُ النَّارِ كلُّ جَظٍّ مُسْتكبر». وفسَّر أنَّ الْجَظّ الضّخم. ويقولون:\nجَظّ، إذا نَكَحَ. وكلُّ هذا قريب بعضُه من بَعض.",
+ "az": "«جظظ» (Cim və zə) əgər səhihdirsə, bu, kobudluq növlərindən biridir. Bəzi hədislərdə rəvayət olunmuşdur: «أهلُ النَّارِ كلُّ جَظٍّ مُسْتكبر» (Cəhənnəm əhli hər bir kobud, təkəbbürlü kəsdir). Və izah olunmuşdur ki, «الْجَظّ» (əl-cazz) iri, yekə deməkdir. Deyirlər: «جَظّ» (cazz) – cinsi əlaqədə olduqda. Bütün bunların hamısı bir-birinə yaxındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:02.723Z"
+}

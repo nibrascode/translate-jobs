@@ -1,0 +1,17 @@
+{
+ "i": 1858,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سطح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 72,
+  "page_to": 72
+ },
+ "ar": "السين والطاء والحاء اصلٌ يدلّ على بسط الشئ ومَدّه من ذلك السَّطْح معروف. وَسطح كلِّ شئ: أعلاه الممتدُّ معه. ويقال انْسَطَح الرجلُ، إذا امتدَّ على قفاه فلم يتحرَّك. ولذلك سمّى المنبسط على قفاه من الزَّمانة سَطيحا. وسطيحٌ الكاهن سُمّى سطيحاً لأنه كذلك خُلِق بلا عَظْم. والمَسْطَح، بفتح الميم: الموضع الذى يبسط فيه التَّمر. والمِسطح، بكسر الميم: الخِباء، والجمع مساطح. قال الشاعر:\nتَعرَّضَ ضَيْطَارو خُزاعةَ دوننا … وما خير ضَيطلرٍ يقلِّب مِسطَحا (٢)\nوإنّما سمِّى بذلك لأنه تمدُّ الخيمةُ به مَدّا. والسَّطيحة: المزادة، وإنّما سميِّت بذلك لأنّه إذا سقط انسطح، أى امتَدَّ. والسُّطَّاح: نبت من نبات الأرض، وذلك أنّه ينبسط على الأرض.",
+ "az": "«سطح» (Sətəh). Sin, ta və ha hərfləri bir şeyi sərməyə və uzatmağa dəlalət edən kökdür. Bunlardandır: məşhur olan as-sət-h (السَّطْح — səth). Hər bir şeyin səthi: onunla birlikdə uzanan üst hissəsidir. Deyilir: «İnsəhata ər-raculu» (انْسَطَح الرجلُ), kişi arxası üstə uzandıqda və hərəkət etmədikdə. Buna görə də iflicdən arxası üstə uzanan kəs sətihi (سَطيحا) adlandırılmışdır. Kahin Sətihə (سطيحٌ الكاهن) sətih ad verilmişdir, çünki o, sümüksüz olaraq belə xəlq edilmişdir. Mim hərfinin fəthi ilə al-mas-hat (المَسْطَح) — xurmanın sərildiyi yer. Mim hərfinin kəsri ilə al-mıs-hat (المِسطح) — çadır, cəmi məsatihdir (مساطح). Şair demişdir: تَعَضَّضَ ضَيْطَارو خُزاعةَ دوننا … وما خير ضَيطلرٍ يقلِّب مِسطَحا — (Xüzaənin zəytaru bizə mane oldu… və məstəh çevirən zəytar bəndən nə xeyir var?). O, sadəcə ona görə belə adlandırılmışdır ki, çadır onunla uzadılır. As-satihə (السَّطيحة) — su tuluğudur, o sadəcə ona görə belə adlandırılmışdır ki, yıxıldıqda insətəh edir, yəni uzanır. As-suttah (السُّطَّاح) — yer bitkilərindən bir bitkidir, çünki o, yer üzünə sərilir (yayılır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:09.599Z"
+}

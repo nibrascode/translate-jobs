@@ -1,0 +1,17 @@
+{
+ "i": 2187,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شجب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 249,
+  "page_to": 250
+ },
+ "ar": "الشين والجيم والباء كلمتان، تدلُّ إحداهما على تداخل، والأخرى تدلُّ على ذَهابٍ وبُطلان.\nالأولى: قول العرب تشاجَبَ الأمر، إذا اختلطَ ودخل بعضُه فى بعض.\nقالوا: ومنه اشتقاق المِشجَب، وهى خشباتٌ متداخِلة موثَّقة تُنصَب وتُنشَر عليها الثِّياب. والشُجوب: أعمدةٌ من عُمُد البيت. قال:\nوهُنَّ معاً قِيَامٌ كالشُّجوبِ (٤)\nويقال -* وهو ذلك المعنى - إن الشجاب السِّداد، يقال شجبه بشجابٍ، أى سدَّه.\nوأمّا الأصل الآخر فالشجِب، وهو الهالك. يقال قد شجِب. وقال:\nفمن يَكُ فى قتلِهِ يمترى … فإنّ أبا نوفل قد شجِبْ (١)\nوربَّما سمَّوُا المحزون شَجِباً. ويقولون شجَبه، إذا حَزَنه. وشجبه اللّه، أى أهلكه اللّه. قال ابن السّكِّيت: شجَبَهُ يَشْجُبُه شجْباً، إذا شغله، وأصل الشجْب ما ذكرناه، وكلُّ ما بعدَه فمحمولٌ عليه.",
+ "az": "[شجب] Şin, cim və ba hərfləri iki köökdür; bunlardan biri daxil olmağa, diğeri isə yox olmağa və batıl olmağa dəlalət edir. Birincisi: Ərəblərin «تشاجَبَ الأمر» (iş qarışıq hala gəldi, bir hissəsi digərinə daxil oldu) sözüdür. Dedilər: «المِشجَب» sözünün kökü də bundan götürülmüşdür, o, paltar sərmək və asmaq üçün qurulan, bir-birinə keçirilmiş möhkəm ağac parçalarıdır. Və «الشُجوب» — evin sütunlarından olan dirəklərdir. O demişdir: «وهُنَّ معاً قِيَامٌ كالشُّجوبِ» (Və onların hamısı birlikdə dirəklər kimi dik dururlar) (٤). Deyilir — və bu da həmin mənadadır — «الشجاب» qapaqdır, «شجبه بشجابٍ» (yəni onu qapadı) deyilir. Digər kökə gəldikdə isə, o, «الشجِب»-dir, yəni həlak olan. «قد شجِب» (həlak oldu) deyilir. Və o demişdir: «فمن يَكُ فى قتلِهِ يمترى … فإنّ أبا نوفل قد شجِبْ» (Kim onun qətlində şübhə edərsə, bilsin ki, Əbu Nofəl həlak olmuşdur) (١). Bəzən kədərlənmiş adama da «شجِب» deyirlər. Və «شجَبه» (onu kədərləndirdi) deyirlər. Və «شجبه اللّه» (Allah onu həlak etsin). İbn əs-Sikkit demişdir: «شجَبَهُ يَشْجُبُه شجْباً» — onu məşğul etdi, şəbin əsli qeyd etdiyimiz kimi mənalardadır, ondan sonrakıların hamısı buna əsaslanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:46.217Z"
+}

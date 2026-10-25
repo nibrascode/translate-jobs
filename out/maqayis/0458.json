@@ -1,0 +1,17 @@
+{
+ "i": 458,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تمه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 354,
+  "page_to": 354
+ },
+ "ar": "التاء والميم والهاء كلمةٌ واحدةٌ تدل على تغَيُّر الشئ. يقال تَمِه الطَّعامُ إذا فسَدَ. وتَمِهَ اللَّبنُ: تغيَّرتْ رائحتُه. وشاةٌ مِتْماهٌ: يَتْمَهُ لبنُها حين يُحلَب.\nوالتَّمَهُ فى اللبَن كالنَّمَسِ (٣) فى الدُّهن.",
+ "az": "[تمه] (tə-mə-h) - Tə, mim və hə bir şeyin dəyişməsinə dəlalət edən tək bir kəlmədir. «تَمِهَ الطَّعامُ» — yemək xarab olduqda deyilir. «تَمِهَ اللَّبنُ» — südün qoxusu dəyişdi. «شاةٌ مِتْماهٌ» — sağulduqda südü xarab (və ya qoxumuş) olan qoyun. Südün təməh (التَّمَهُ) halı yağdakı nəms (النَّمَسُ) kimidir (3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.996Z"
+}

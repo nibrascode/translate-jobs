@@ -1,0 +1,17 @@
+{
+ "i": 1539,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رفس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 422,
+  "page_to": 422
+ },
+ "ar": "الراء والفاء والسين قريبٌ من الباب الذى قبله، إلا أن فى كتاب الخليل: الرَّفْس: الصَّدْمة فى الصَّدر بالرِّجْل.",
+ "az": "[رفس] (ra, fa, sin). Əvvəlki fəsilə yaxındır, lakin Xəlilin kitabındadır: «الرَّفْس» — ayaqla sinəyə zərbə vurmaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:31.379Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2141,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شوظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 228,
+  "page_to": 228
+ },
+ "ar": "الشين والواو والظاء كلمة واحدة صحيحة، فالشُّوَاظ:\nشُواظ اللّهب من النار لا دخانَ معه. قال تعالى: ﴿شُواظٌ مِنْ نارٍ﴾.",
+ "az": "[شوظ] (şovz) — شين (şin), vav və ظاء (za) tək və səhih bir kəlmədir. الشُّوَاç (əş-şuvaz): oddan çıxan, tüstüsü olmayan alov dilimidir. Uca Allah buyurmuşdur: ﴿شُواظٌ مِنْ نارٍ﴾ (mənaca tərcümə: Odun şuvazı/alov dilimi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.212Z"
+}

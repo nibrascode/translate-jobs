@@ -1,0 +1,17 @@
+{
+ "i": 2273,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صقب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 296,
+  "page_to": 297
+ },
+ "ar": "الصاد والقاف والباء لا يكاد يكون أصلاً؛ لأن الصَّاد يكون مرّةً فيه السين، والبابان متداخلان، مرّةً يقال بالسين ومرّةً بالصاد، إلاّ أنَّه يدلُّ على القرب ومع الامتداد مع الدّقَّة.\nفأمّا القُرب فالصَّقَب. وجاء\nفى الحديث: «الجار أحقُّ بصَقَبه». يراد فى الشُّفعة. والصَّاقب: القريب. والرّجُلان يتصاقبان فى المحلّة، إذا تقارَبا.\nوأما الآخر فالصَّقْب: العمود يُعمَد به البيت، وجمعه صقوب. قال ذو الرُّمَّة:\nصَقْبانِ لم يتقشَّرْ عنهما النَّجَبُ (١)\nوأما قولهم: صقبت الشئ، إذا ضربته فلا يكون إلاّ على شئٍ مُصْمَت\nيابس. فممكنٌ أن يكون من الإبدال، كأنه من صقعته، فيكون الباء بدلا من العين.",
+ "az": "[صقب] (S-Q-B) — Sad, qaf və ba hərfləri az qala tək bir əsas deyil; çünki sad hərfi bəzən sin hərfi ilə əvəz olunur və bu iki bab bir-birinə qarışır, bəzən sin ilə, bəzən də sad ilə deyilir. Lakin o, incəliklə birlikdə yaxınlığa və uzanmağa dəlalət edir.\n\nYaxınlığa gəldikdə: الصَّقَب (səqab). Və hədisdə gəlmişdir: «الجار أحقُّ بصَقَبه» (Qonşu öz səqabına, yəni yaxınlığına daha çox haqlıdır). Şəfə prinsipi nəzərdə tutulur. الصَّاقب (saqib): yaxın. İki adam məhəllədə yaxınlaşdıqda يتصاقبان (yətəsaqaban) deyilir.\n\nDigərinə gəldikdə: الصَّقْب (səqb): evin dayağı olan sütun, cəmi صقوب (suqub) gəlir. Züə-Rümmə demişdir:\nصَقْبانِ لم يتقشَّرْ عنهما النَّجَبُ (١)\n(İki sütun ki, qabıqları hələ soyulmamışdır).\n\nVə onların «صقبت الشئ» (bir şeyi vurdum) sözlərinə gəldikdə, bu yalnız bərk və qatı bir şeyə aid ola bilər. Ehtimal ki, bu, əvəzlənmədəndir, sanki صقعته (səqəthü – onu vurdu) sözündəndir, çünki ba hərfi eyn hərfinin əvəzinə gəlmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:47.389Z"
+}

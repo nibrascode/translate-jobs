@@ -1,0 +1,17 @@
+{
+ "i": 1810,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زيف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 42,
+  "page_to": 42
+ },
+ "ar": "الزاء والياء والفاء فيه كلام، وما أظنُّ شيئاً منه صحيحاً.\nيقولون درهم زائِف وزَيْف. ومن الباب زَافَ الجملُ فى مَشيه يزيف، وذلك إذا أسرع. والمرأة تَزِيف فى مَشيها، كأنها تستدير. والحمامة تَزِيف عند الحَمَام.\nفأمّا الذى يُروَى فى قول عدىّ:\nتَرَكونِى لدَى قُصورٍ وأعرا … ضِ قصورٍ لزَيْفهنّ مَرَاقِ (٢)\nفيقولون إِنّ الزَّيف الطُّنُف الذى يقى الحائط: ويقال «لزيْفهن (٣)». وكلُّ هذا كلام. واللّه أعلم.",
+ "az": "[زيف] (zif). الزاء (ز) və الياء (ي) və الفاء (ف) haqqında danışıqlar var, lakin mən bunlardan heç birinin səhih olduğunu güman etmirəm. Deyirlər: درهم زائِفٌ və زَيْفٌ (saxta dirhəm). Bu fəsildəndir: زَافَ الجملُ فى مَشيه يزيف (dəvə yerişində sürətləndi, sürətlənir), bu, dəvə sürətlə yeridikdə olur. Qadın yerişində تَزِيفُ (sürətlə və yırğalanaraq yeriyir), elə bil o, fırlanır. Göyərçin də göyərçinin yanında تَزِيفُ (sürətlə və nazla yeriyir). Ədinin şeirində rəvayət olunan sözə gəlincə: «تَرَكونِى لدَى قُصورٍ وأعرا … ضِ قصورٍ لزَيْفهنّ مَرَاقِ» (2) (Onlar məni qəsrlərin yanında və qəsrlərin kənarlarında, onların saxtakarlığı üzündən... tərk etdilər). Deyirlər ki, الزَّيف (zeyf) divarı qoruyan dam örtüyüdür (və ya çıxıntıdır). Və «لزيْفهن (onların saxtakarlığı səbəbindən)» deyilir. Bütün bunlar sadəcə danışıqdır. Ən yaxşı bilən Allahdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.436Z"
+}

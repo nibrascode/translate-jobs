@@ -1,0 +1,17 @@
+{
+ "i": 1586,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 442,
+  "page_to": 442
+ },
+ "ar": "الراء والميم واللام أصلٌ يدلُّ على رِقّةٍ فى شئِ يتضامُّ بعضُه إلى بعض. يقال رَمَلت الحصير، وأرملتُ، إذا سَخَّفْتَ نَسْجَه. قال:\n* كأنَّ نَسْجَ العنكبوتِ المُرْمَلِ (٢) *\nثم يشبَّه بذلك، [فالرَّمَل]: القليل الضَّعيف من المطر، وجمعه أرمال. ومن الذى يقرب من هذا الباب الرَّمْل، وهو رَقيق. ومنه ترمَّل القَتيلُ بدمِهِ، إذا تلطخ؛ وهو قياسُ ما ذكَرْناه. ومن الباب الرَّمَل: الهَرْوَلة، وذلك أنه كالعَدْو أو المشْى الذى لا حصافةَ فيه. فأمّا المُرْمِلَ فهو الذى لازادَ معه، سمِّى بذلك لأحدِ شيئين، إمارِقَةِ حاله، وإمّا للُصوقِه بالرّمل من فَقْره. والأرمَلُ مثلُ المُرمِل. قال جرير:\nهَذِى الأراملُ قد قضّيْتَ حاجتَها … فمَنْ لحاجةِ هذا الأرمَلِ الذّكَرِ (٣)",
+ "az": "[رمل] (رمل) - راء، ميم və lam hərfləri bir-birinə bitişən şeylərdə incəliyə dəlalət edən bir əsldir. Deyilir: «رَمَلت الحصير، وأرملتُ» (rəməltu əl-həsirə, və ərməltu) - həsirin toxunuşunu seyrəltdin. Şair demişdir:\n* كأنَّ نَسْجَ العنكبوتِ المُرْمَلِ (٢) *\n(Sanki seyrəldilmiş hörümçək torunun toxunuşu kimi)\nSonra buna bənzadılaraq [«الرَّمَل» (əl-rəməl)]: az və zəif yağış, cəmi «أرمال» (ərmal) gəlir. Bu باب-a yaxın olanlardan biri «الرَّمْل» (əl-rəml) - qumdur ki, o da incədir. Həmçinin «ترمَّل القَتيلُ بدمِهِ» (tərməllə əl-qətilü bi-damihi) - öldürülən şəxs qanına bulandı; bu da qeyd etdiyimiz qiyasdandır. Bu باب-dan olan «الرَّمَل» (əl-rəməl) - cəld yeriməkdir (hərvələ), çünki o, qaçışa və ya səliqəsiz, ağırsız gəzməyə bənzəyir. «المُرْمِل» (əl-murmil) gəldikdə isə, o, yanında azuqəsi qalmayan kəsdir, bu ad ona iki səbəbdən biri ilə verilmişdir: ya halının yoxsul (pərakəndə) olmasından, ya da kasıblıqdan qum üzünə yapışdığından. «الأرمَلُ» (əl-ərməlü) də «المُرمِل» (əl-murmil) kimidir. Cərir demişdir:\nهَذِى الأراملُ قد قضّيْتَ حاجتَها … فمَنْ لحاجةِ هذا الأرمَلِ الذّكَرِ (٣)\n(Bu dul qadınların hacətini bitirdin... Bəs bu tənha kişi kimsəsiz (dulsayaq) kişinin hacəti kimindir?)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

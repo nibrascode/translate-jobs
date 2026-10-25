@@ -1,0 +1,17 @@
+{
+ "i": 313,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 301,
+  "page_to": 301
+ },
+ "ar": "الباء واللام والعين أصلٌ واحد، وهو ازدراد الشئ. تقول:\nلمِعْتُ الشئَ أبْلَعُه. والبالوع (٢) من هذا لأنه يَبْلَعُ الماء. وسَعْدُ بُلَعَ نجمٌ.\nوالبُلَعُ السَّمّ فى قَامَة البَكْرَة (٣). والقياس واحدٌ، لأنَّه يَبْلَعُ الخشبة التى تسلكه. فأمّا قولهم بَلَّعَ الشَّيبُ فى رأسه فقريبُ القياسِ من هذا؛ لأنَّه إِذا شَمِل رأسَه فكأنَّه قد بَلِعَه.",
+ "az": "«بلع» (bələ): الباء واللام والعين — tək bir əsasdır, o da bir şeyi uddur. Deyirsən: «ləmitüş-şeyə əbləuhu» (لمِعْتُ الشّيْءَ أَبْلَعُهُ) — bir şeyi uduram. «Əl-baluu» (البالوع) bundandır, çünki o, suyu udur. «Sədu buləh» (سَعْدُ بُلَعَ) — bir ulduzdur. «Əl-buləh» (البُلَع) — dolçanın oxundakı zəhərdir (٣). Qiyas təkdir, çünki o, içindən keçən taxtanı udur. Saç ağardığı zaman başda ağarmağın yayılmasına gəldikdə isə «ballə-ş-şeybu fi ra’sihi» — bunun qiyas1 buna yaxındır, çünki o, başını bürüdükdə guya onu udmuş olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:37.148Z"
+}

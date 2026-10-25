@@ -1,0 +1,17 @@
+{
+ "i": 2285,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 304,
+  "page_to": 305
+ },
+ "ar": "الصاد واللام والعين أصلٌ صحيح يدلُّ على ملاسةٍ. من ذلك الصَّلَع فى الرّأْس، وأصله مأخوذٌ من الصُّلاَّع، وهو العريض من الصَّخر الأملس، الواحد صُلاَّعة. وجبلٌ [صليع (٢)]: أملس لا ينبت شيئاً. قال عمرو ابن معديكرب:\n[وزحفُ كتيبةٍ للقاء أخرى … كأنّ زهاءَها رأسٌ صليع (٣)]\nويقال للعُرفُطةِ إذا سقطت رءوسُ أغصانِها: صَلعاء. وتسمَّى الداهية صلعاء، أى بارزة ظاهرة لا يَخفَى أمرُها. والصَّلْعة (٤): موضع الصَّلَع من الرّأْس. والصَّلعاء من الرمال: مالا يُنبِتُ شيئاً مِنْ نَجْم ولا شجر. ويقال * لجنسٍ من الحيات:\nالأُصَيْلِع، وهو مثل الذى جاء\nفى الحديث: «يجئ كنْزُ أحدهم يومَ القيامة\nشجاعاً أفْرَع (١)». ويريد بذلك الذى انمارَ (٢) شعَرَ رأسه، لكثرة سِمَنه.\nقال الشاعر:\nقَرَى السُّمَّ حتَّى انمارَ فروةُ رأسِهِ … عن العظم صِلٌّ فاتكُ اللَّسْعِ ماردُ (٣)",
+ "az": "[صلع] (s-l-ʕ): Sad, lam və ayn hamarlığa dəlalət edən səhih tək bir əsas kökdür. Bunlardandır başda olan الصَّلَع (sələc, keçəllik), onun əsli الصُّلاَّع (əss-sullaʕ) dan götürülmüşdür, o da hamar qayaların geniş olanıdır, təkli صُلاَّعَة (sullaʕat) dır. Və جبل صليع (səlic dağ): heç nə bitirməyən hamar dağ. Əmr ibn Mədikərib demişdir: «Və bir dəstənin başqa bir dəstə ilə qarşılaşmaq üçün hücumu... sanki onların sayı keçəl bir baş kimidir.» (3) Ərufət ağacının budaqlarının başları töküldükdə صلعاء (səl-ə) deyilər. Fəlakətə صلعاء (səl-ə) adı verilir, yəni işi gizli qalmayan aşkar və üzə çıxmış deməkdir. Və الصَّلْعة (əss-səl-ə): başda keçəllik olan yerdir. Quzğunluq (səl-ə) qumlardan: üzərində heç bir ulduz (ot) və ya ağac bitməyən yerdir. Və ilanların bir növünə * الأُصَيْلِع (əl-useyləc) deyilər, o, hədisdə gələnə bənzərdir: «Qiyamət günü hər birinizin xəzinəsi başı açıq (və ya başının dərisi soyulmuş) zəhərli ilan şəklində gələcəkdir (1).» Bununla çox kökəlməkdən başının tükləri qopmuş şəxs nəzərdə tutulur. Şair demişdir: «Zəhərli ilan başının dərisi sümüyə qədər qopana qədər zəhəri uddu... dişləməsi ilə ölümcül, inadkar ilan.» (3)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:08.475Z"
+}

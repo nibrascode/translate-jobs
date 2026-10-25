@@ -1,0 +1,17 @@
+{
+ "i": 709,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 489,
+  "page_to": 490
+ },
+ "ar": "الجيم والهاء واللام أصلان: أحدهما خِلاف العِلْمَ، والآخر الخِفّة وخِلاف الطُّمَأْنِينة.\nفالأوّل الْجَهْل نقيض العِلْم. ويقال للمفازة التى لا عَلَمَ بها مَجْهَلٌ.\nوالثانى قولهم للخشبة التى يحرك بها الجَمْرُ مِجْهَل (٤) *. ويقال استجهلت الرِّيحُ الغُصْنَ، إذا حرّكَتْه فاضطَرَب. ومنه قول النابغة:\nدعاك الهَوَى واستجهلَتْك المنازلُ … وكيف تَصَابِى المرءِ والشَّيبُ شاملُ (١)\nوهو من الباب؛ لأنّ معناه استخفّتْك واستفزَّتك. والمَجْهَلة: الأمر الذى يحملك (٢) على الجهل.",
+ "az": "[جهل] \nCim, hə və lam hərflərinin iki əsli vardır: biri elmin ziddi (cəhalət), diğəri isə yüngüllük və rahatlığın ziddi.\nBirincisi: الْجَهْلُ (əl-cəhl) – elmin ziddidir. Üzərində nişanı olmayan səhra məkanına مَجْهَلٌ (machal) deyilir.\nİkincisi: Onların közü qarışdırmağa yaradılan taxtaya مِجْهَلٌ (michal) demələridir (4)*. Və həmçinin استجهلت الرِّيحُ الغُصْنَ (istəchətil-rihul-ğusn) – külək budağı hərəkət etdirdi və budaq titrədi deməkdir. Näbighənin bu sözü dəridəndir:\nدعاك الهَوَى واستجهلَتْك المنازلُ … وكيف تَصَابِى المرءِ والشَّيبُ شاملُ (١)\n(Səni sevgi çağırdı və evlər səni yüngülləşdirib qıcıqlandırdı… Saçları ağarmış insanın eşqbazlığı necə ola bilər?)\nBu da həmin babdandır; çünki onun mənası «səni yüngülləşdirdi və tüğyana gətirdi» deməkdir. الْمَجْهَلَةُ (əl-machalə) – səni cəhalətə sövq edən işdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

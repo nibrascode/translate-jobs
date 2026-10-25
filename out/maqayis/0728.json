@@ -1,0 +1,17 @@
+{
+ "i": 728,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 498,
+  "page_to": 498
+ },
+ "ar": "الجيم والياء والدال أصلٌ واحد، وهو العُنُق. يقال جِيدٌ وأجْيادٌ. والجَيَد: طولُ الجِيد. والجَيْداء: الطَّويلة الجِيد. وأما قول الأعشى:\n* رجالَ إيادٍ بأجْيَادِها (٢) *\nفيقال إنّها معربة وإنه أراد الأكسية (٣).",
+ "az": "[جيد] — الجيم (Cim), الياء (Ya) və الدال (Dal) tək bir əslə qayıdır, o da boyundur. Deyilir: جِيدٌ və أجْيادٌ (Boyun, boyunlar). وَالجَيَد (əl-Cəyəd) — boynun uzun olması. وَالجَيْداء (əl-Cəyda) — uzunboyunlu qadın. Aşanın bu sözünə gəldikdə isə: * رجالَ إيادٍ بأجْيَادِها (٢) * (İyad kişiləri öz əfyadları ilə), deyilir ki, bu söz əcnəbidir (mərəbbdir) və o, əksiyələri (plaşları, örtükləri) nəzərdə tutmuşdur (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

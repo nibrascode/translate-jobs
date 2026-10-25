@@ -1,0 +1,17 @@
+{
+ "i": 1964,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 120,
+  "page_to": 120
+ },
+ "ar": "السين والياء والدال كلمةٌ واحدة، وهى السِّيد. قال قومٌ:\nالسِّيد الذئب. وقال آخَرون: وقد يسمَّى الأسَد سِيداً. وينشدون:\nكالسِّيد ذى الِّلبْدة المستأسِدِ الضّارى (٣)",
+ "az": "[سيد] Sin, ya və dal hərfləri tək bir kəlmədir, o da «السِّيد» (sid) sözüdür. Bir qrup insan demişdir: «السِّيد» – qurd/canavardır. Başqaları isə demişdir: Aslan da «سِيد» (sid) adlandırıla bilər. Və bu beyti dəlil gətirirlər:\nكالسِّيد ذى الِّلبْدة المستأسِدِ الضّارى (٣)\n(Yallı, yırtıcı və qəzəbli aslan/qurd kimi...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2448,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضبس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 386,
+  "page_to": 386
+ },
+ "ar": "الضاد والباء والسين أُصَيل إنْ صحَّ فليس إلا فى شئٍ مذمومٍ غير محمود. قال الخليل: الضَّبِيس: الحريص، والضَّبيس: القليل الفِطنة لا يهتدى لشئ. ويقال الضَّبِيس الجَبان.",
+ "az": "«ضببس»: الضاد, الباء, والسين (d, b, s) — əgər səhihdirsə, bu kiçik kök təriflənməyən, yalnız məzəmmət olunan şeylərdə olur. Xəlil demişdir: «الضَّبِيس» — tamahkar; «الضَّبِيس» — zəkası az olan, heç bir şeyi tapa bilməyən kəs. Deyilir ki, «الضَّبِيس» — qorxaq deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

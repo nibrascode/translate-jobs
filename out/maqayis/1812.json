@@ -1,0 +1,17 @@
+{
+ "i": 1812,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زأب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 43,
+  "page_to": 43
+ },
+ "ar": "الزاء والهمزة والباء كلمتان. يقال زَأَبَ الشئَ، إذا حَمله.\nوالازدئاب: الاحتمال. والكلمة الأخرى زَأَبَ، إذا شرِب شُربًا شديداً. ولا قياسَ لهما.",
+ "az": "[زأب] (zə-ə-b). الزاء (ز) və الهمزة (همزة) və الباء (ب) iki kəlmədir. Deyilir: زَأَبَ الشئَ (bir şeyi daşıdı), yəni onu daşıdı. Və الازدئاب (izdiab) — daşımaq, qaldırmaq. Digər kəlmə isə زَأَبَ (zəəb) — şiddətli şəkildə su içdi, deməkdir. Bunların heç bir qiyas lövhəsi yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.436Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 245,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بسق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 247,
+  "page_to": 248
+ },
+ "ar": "الباء والسين والقاف أصلٌ واحد، وهو ارتِفاع الشَّئ وعُلُوُّه. قال الخليل: يقال بَسَقَتِ النَّخلةُ بُسُوقاً إذا طالَتْ وَكَمُلَتْ. وفى القرآن:\n﴿وَاَلنَّخْلَ باسِقاتٍ﴾، أى طويلات.\nقال يعقوب: نخلةٌ باسقة ونَخِيلٌ بواسِقُ، المَصْدر البُسُوق. قال: ويقال بَسَق الرَّجل طَالَ، وبَسَق فى عِلْمه عَلَا.\nأبو زَيْدٍ عن المنْتَجِع بن نَبْهان: غَمامَةٌ باسِقَةٌ أى بيضاءُ عالية. وبواسِق السَّحاب أعالِيه.\nفإن قال قائل: فقد جاء بَسق، وليس من هذا القياس. قيل له: هذا ليس أصلاً؛ لأنّه من باب الإبدال، وذلك أنّ السين فيه مَقام الصّاد والأصل بَصَق.\nثمَّ حُمِل على هذا شئُ آخر، وهو قولهم أبْسَقَت الشّاةُ فهى مُبْسِقٌ إذا أنْزلَتْ لبنا مِنْ قَبْلِ الولادةِ بشَهْرٍ وأكثَرَ من ذلك فيُحْلَب. وهذا إذا صَحَّ فكأنَّها جاءت ببُساقٍ، تَشبيهاً له ببُساق الإنسان. والدَّليل على ذلك أنّهم يقولون:\nالجارية وهى بِكْرٌ، يصير فى ثَدْيها لبَنٌ، فهل ذلك إلاّ كالبُساق.\nقال أبو عُبيدةَ: المِبْساق التى تَدِرُّ قبل نِتاجها. وأنشَدَ - وأكثَرُ ظَنّى أنَّ هذا شعرٌ صنَعَه أبو عبيدة -:\nومُبْسِق تُحْلَبُ نِصْفَ الحَمْلِ … تدُرُّ من قبل نِتاجِ السَّخْلِ",
+ "az": "[بسق] (bəsq) — با (ba), سين (sin) və قاف (qaf) tək bir əsas mənaya malikdir, o da bir şeyin ucalması və hündürləşməsidir. Xəlil demişdir: «بَسَقَتِ النَّخلةُ بُسُوقاً» (xurma ağacı ucaldı) – o, uzandıqda və kamilləşdikdə deyilir. Quran-i Kərimdə buyurulur: mənaca tərcümə: «Və hündür xurma ağacları (basıqat)». Yəni uzun ağaclar. Yəqub demişdir: «نخلةٌ باسقةٌ» (hündür xurma ağacı) və «نَخِيلٌ بواسِقُ» (hündür xurma ağacları), məsdəri isə «البُسُوقُ» (busuq)dur. O demişdir: «بَسَقَ الرَّجلُ» (kişi ucaldı) – uzandı və «بَسَقَ فى عِلْمه» (elmində ucaldı) – yüksəldi, deyilir. Əbu Zeyd Məntəci ibn Nəbhandan rəvayət etmişdir: «غَمامَةٌ باسِقَةٌ» (basiq bulud) – yəni ağ və hündür bulud. «بواسِق السَّحاب» – buludların uca zirvələridir. Əgər biri desə ki, «بَسَقَ» (bəsq) gəlmişdir, lakin bu qaydadan deyil, ona cavab olaraq deyilər: Bu, əsl sayılmır, çünki bu, hərflərin əvəzlənməsi (ibdal) qapısındandır, belə ki, buradakı سين (sin) حرفinin yeri ص (sad) hərfidir və əsli «بَصَقَ» (bəşəq) olmuşdur. Sonra buna başqa bir şey də şamil edilmişdir, o da onların «أَبْسَقَت الشَّاةُ فهى مُبْسِقٌ» (qoyun süd gətirdi, o, mübsiqdir) sözüdür, nə zamanki o, doğuşdan bir ay və ya daha çox əvvəl süd endirər və o sağılar. Əgər bu səhihdirsə, deməli o, insanın tüpürcəyinə bənzadərək «بُساق» (busaq - tüpürcək, ifrazat) gətirmişdir. Bunun dəlili odur ki, onlar deyirlər: Cariyə hələ bakirə ikən döşündə süd əmələ gəlir, bu məgər busaqdan (tüpürcəkdən) başqa birşeydirmi? Əbu Übeydə demişdir: «المِبْساق» (mibsəq) – doğuşundan əvvəl südü bol axan (heyvan)dır. Və şeir söyləmişdir – və mənim gümanım budur ki, bu şeiri Əbu Übeydə özü uydurmuşdur: * ومُبْسِق تُحْلَبُ نِصْفَ الحَمْلِ … تدُرُّ من قبل نِتاجِ السَّخْلِ * (Və elə bir mübsiq qoyun ki, hamiləliyin yarısında sağılır, bala doğulmamışdan əvvəl südü bol axır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.233Z"
+}

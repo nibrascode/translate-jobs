@@ -1,0 +1,17 @@
+{
+ "i": 1328,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دوف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 313,
+  "page_to": 313
+ },
+ "ar": "الدال والواو والفاء كلمةٌ واحدة. يقال دُفْتُ الدّواءَ دَوْفاً.",
+ "az": "[دوف] Dal, vav və fa tək bir kəlmədir. Deyilir: «دُفْتُ الدّواءَ دَوْفاً» (dərmanı əzib suya qatdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:17.562Z"
+}

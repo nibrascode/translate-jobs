@@ -1,0 +1,17 @@
+{
+ "i": 144,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 150,
+  "page_to": 150
+ },
+ "ar": "الهمزة والهاء والراء كلمةٌ واحدة، ليست عند الخليل ولا ابنِ دُرَيد (١). وقال غيرهما: الأهَرَةُ متاعُ البيت.",
+ "az": "[أهر]\nHəmzə, ha və ra bir kəlmədir; nə əl-Xəlildə, nə də İbn Dureyddə (١) mövcuddur. Onlardan başqası demişdir: «الأَهَرَةُ» (əl-əhərə) — ev əşyası, ev avadanlığıdır.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-25T00:24:02.094Z"
+}

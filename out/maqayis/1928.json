@@ -1,0 +1,17 @@
+{
+ "i": 1928,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سنج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 104,
+  "page_to": 104
+ },
+ "ar": "السين والنون والجيم فيه كلمة. ويقولون: إن السِّناج أثرُ دُخَان السِّرَاج فى الحائط.",
+ "az": "«سنج» — السين، والنون والجيم (سين، نun və cim) burada bir kəlmədir. Deyirlər ki, «السِّناج» divardakı çıraq tüstüsünün izidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.684Z"
+}

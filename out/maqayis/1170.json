@@ -1,0 +1,17 @@
+{
+ "i": 1170,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خيط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 233,
+  "page_to": 234
+ },
+ "ar": "الخاء والياء والطاء أصلٌ واحد يدلُّ على امتدادِ الشَّئ فى دِقّةٍ، ثم يحمل عليه فيقال فى بعض ما يكون منتصِباً. فالخَيْط معروفٌ. والخَيط الأبيض: بياضُ النّهار. والخيط الأسود: سوادُ الليل. قال اللّه تعالى: ﴿حَتّى يَتَبَيَّنَ لَكُمُ اَلْخَيْطُ اَلْأَبْيَضُ مِنَ اَلْخَيْطِ اَلْأَسْوَدِ مِنَ اَلْفَجْرِ﴾. ويقال لما يَسِيلُ من لُعاب الشَّمس: خَيْطُ باطلٍ. قال:\nغَدَرتُم بعَمرٍو يا بَنِى خَيْطِ باطِلٍ … ومثلُكُم بَنى البُيوتَ على غَدْرِ\nفأمّا قولُهم للّذى بدَا الشَّيبُ فى رأسه خُيِّطَ، فهو من الباب، كأنَّ البادِىَ من ذلك مشبَّهٌ بالْخُيُوط. قال الهذلى (١):\n* حَتَّى تخَيَّطَ بالبَيَاضِ قُرُونِى (٢) *\nويقال نعامة خَيْطاءُ؛ وخَيَطُها طُول عُنُقِها. والْخِياطة معروفةٌ، فأمَّا الْخِيط بالكسر، فالجماعةُ من النَّعام؛ وهو قياس الباب؛ لأنّ المجتمِع يكون كالذى خِيطَ بعضُه إلى بعض. وأمَّا قولُ الهذلىّ (٣):\nتَدَلّى عليها بين سِبٍّ وَخَيْطَةٍ … * بجَرْدَاء مثلِ الوَكْفَ يَكبُو غُرابُها\nفقد قيل إنّ الخَيْطة الحَبْل. فإن كان كذا فهو القياس المطَّرِد. وقد قيل الخَيْطة الوتد. وقد ذكرنا أنّ هذا ممَّا حمل على الباب؛ لأنّ فيه امتداداً فى انتصاب.",
+ "az": "[خيط] الخاء والياء والطاء ( x, y, t ) — əşyanın incəliklə üzüldüyünə (uzandığına) dəlalət edən tək bir əsasdır, sonra bu məna dik duran bəzi şeylərə də şamil edilir. «الخَيْط» (ip) məlumdur. «الخَيط الأبيض» (ağ ip) — gündüzün bəyazlığıdır. «الخيط الأسود» (qara ip) — gecənin qaranlığıdır. Allah Təalə buyurmuşdur: ﴿حَتّى يَتَبَيَّنَ لَكُمُ اَلْخَيْطُ اَلْأَبْيَضُ مِنَ اَلْخَيْطِ اَلْأَسْوَدِ مِنَ اَلْفَجْرِ﴾ (mənaca tərcümə: Fəcrdən ağ ip qara ipdən sizə seçilib bilinənə qədər). Günəşin şüalarından süzülüb axana «خَيْطُ باطِلٍ» (batil ip) deyilir. [Şair] demişdir: Ey batil ipinin oğulları, Əmrə xəyanət etdiniz... Sizin kimilər evləri xəyanət üzərində qurur. Başında ağarma əlaməti görünən kəsə «خُيِّطَ» (ipləndi) demələrinə gəlincə, bu da həmin qəbildəndir, sanki oradakı ilk ağartı iplərə bənzədilmişdir. Hüzəli şair (١) demişdir: * Hətta qarımam ağarmaqla ipləndi (2) * Deyilir: «نعامة خَيْطاءُ» (ipəbənzər dəvəquşu); onun «خَيَط»i boyunun uzunluğudur. «الْخِياطة» (tikmək, tikiş) məlumudur. Kəsrə ilə olan «الْخِيط»ə gəlincə, bu, dəvə dəstəsidir; bu, babın ölçüsüdür, çünki bir yerə yığılan şey bir-birinə tikilmiş kimi olur. Hüzəli şairin (٣) bu sözünə gəlincə: Səbbin və xaytənin arasında ona tərəf sallandı... Üstü şehli, qarğası büdrəyən çılpaq [yerə]... Deyilmişdir ki, «الخَيْطة» ipdir. Əgər belədirsə, bu, qaydaya uyğun müntəzəm qiyasdır. Həmçinin deyilmişdir ki, «الخَيْطة» payadır. Biz əvvəlcədən qeyd etmişdik ki, bu, həmin baba şamil edilənlardəndir, çünki onda dik dayanmada uzanma vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:52.483Z"
+}

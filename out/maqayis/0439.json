@@ -1,0 +1,17 @@
+{
+ "i": 439,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ترح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 347,
+  "page_to": 347
+ },
+ "ar": "التاء والراء والحاء كلمتانِ متقاربتان. قال الخليل: التَّرَح نقيض الفَرَح. ويقولون: «بعْدَ كلِّ فَرْحَةٍ تَرْحَةٌ، وبعد كل حَبْرَةٍ عَبْرَةٌ»، قال الشَّاعر:\nوما فَرْحَةٌ إِلاَّ سَتُعْقِبُ تَرْحَةً … وما عامرٌ إلا وَشِيكاً سَيَخْرَبُ\nوالكلمة الأخرى النّاقة المِتْراح، وهى التى يُسرع انقطاعُ لبنِها؛ والجمع مَتَاريح.",
+ "az": "[ترح] (tə-rə-h). Ta, ra və ha hərfləri yaxın mənalı iki kəlmədir. Xəlil demişdir: et-tərəh — fərəhə (sevincə) ziddir. Və deyirlər: «Hər fərəhin ardınca bir tərəh, hər sevincin ardınca bir göz yaşı gələr». Şair demişdir: Elə bir fərəh yoxdur ki, ardınca tərəh gəlməsin... Və elə Amir yoxdur ki, tezliklə xarabaya çevrilməsin. Digər kəlmə isə südü tez kəsilən dişi dəvə mənasını verən النّاقة المِتْراح (ən-naqətu-l-mitrah)dır; cəmi: مَتَاريح (mətarih).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

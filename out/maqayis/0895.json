@@ -1,0 +1,17 @@
+{
+ "i": 895,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حطب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 79,
+  "page_to": 79
+ },
+ "ar": "الحاء والطاء والباء أصلٌ واحد، وهو الوَقود، ثمّ يحمل عليه ما يشبَّه به. فالحطب معروف. يقال حطبت أحْطِب حَطبا. قال امرؤ القيس.\nإذا ما ركبنا قال وِلْدانُ أهلنا … تعالَوا إلى أن يأتى الصيدُ تَحْطِبِ\nويقال للمخلِّط فى كلامِهِ «حاطب لَيْل». ويقال حَطَبَنِى عَبْدى، إذا أتاك بالحَطَب. قال:\nخَبٌّ جَرُوزٌ وإذا جاعَ بَكَى … لا حَطَبَ القَوْمَ ولا القَوْمَ سَقَى (١)\nويقال مكان حَطِيبٌ: كثير الحَطَب. ويقال ناقة مُحَاطِبَةٌ، تأكل الشَّوكَ اليابسَ. وقالوا فى قوله تعالى: ﴿وَاِمْرَأَتُهُ حَمّالَةَ اَلْحَطَبِ﴾ هى كنايةٌ عن النميمة.\nيقال حَطَبَ فلانٌ بفلانٍ: سَعَى به. ويقال إنَّ الأحطبَ الشديدُ الهُزال وكذلك الحَطِب، كأنَّه شبِّه بالحطب اليابس. وقوله فى النميمة يشهد له قولُ القائل:\nمن البِيض لم تُصْطَد على حَبْلِ لأمة … ولم تَمْشِ بين النَّاسِ بالحطب الرطْبِ (٢)",
+ "az": "«حطب» (H-T-B): hə, ta və ba hərfləri tək bir əsas mənanı – odun (yanacaq) mənasını bildirir, sonra ona bənzədilən şeylər də bu qəbildən sayılır. Məlum odun حطب (hatab) adlanır. «حطبت أحْطِب حَطبا» (odun yığdım) deyilir. İmrul-Qeys demişdir: [Şeir]: إذا ما ركبنا قال وِلْدانُ أهلنا … تعالَوا إلى أن يأتى الصيدُ تَحْطِبِ — «Biz minən kimi evimizin uşaqları dedilər: Gəlin ov gələnə qədər odun yığın». Sözlərini qarışdıran adama «حاطب لَيْل» (gecə odun yığanı) deyilir. Qulun sənə odun gətirdiyi zaman «حَطَبَنِى عَبْدى» (qulum mənə odun gətirdi) deyilir. Şair demişdir: [Şeir]: خَبٌّ جَرُوزٌ وإذا جاعَ بَكَى … لا حَطَبَ القَوْمَ ولا القَوْمَ سَقَى (١) — «Hiyləgər, acgöz, acanda ağlayan, nə qövmə odun yığan, nə də qövmə su verən». Odunu çox olan yerə حَطِيبٌ (hatib) məkanı deyilir. Kuru tikan yeyən dəvəyə مُحَاطِبَةٌ (muhatibəh) deyilir. Uca Allahın ﴿وَاِمْرَأَتُهُ حَمّالَةَ اَلْحَطَبِ﴾ (mənaca tərcümə: «Və onun odun daşıyan zövcəsi») ayəsi barədə demişlər ki, bu, sözgəzdirməyə (qeybətə, fitnə-fəsada) kinayədir. «حطَبَ فلانٌ بفلانٍ» — filankəs filankəsin əleyhinə söz gəzdirdi, fitnə törətdi. Deyirlər ki, əl-əhtəb (الأحطب) — həddindən artıq arıq, çəlimsiz deməkdir, eləcə də حَطِب (hatib) də belədir, sanki o, quru oduna bənzədilmişdir. Fitnə-fəsad haqqındakı bu mənanı şairin şu misrası da təsdiqləyir: [Şeir]: من البِيض لم تُصْطَد على حَبْلِ لأمة … ولم تَمْشِ بين النَّاسِ بالحطب الرطْبِ (٢) — «O ağ qadınlardandır ki, zireh ipi üzərində ova çıxarılmayıb və insanlar arasında yaş odunla (fitnə ilə) gəzməyib». (Yaş odun fitnənin alovlanmasını bildirir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:55.260Z"
+}

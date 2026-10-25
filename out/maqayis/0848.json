@@ -1,0 +1,17 @@
+{
+ "i": 848,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حرت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 49,
+  "page_to": 49
+ },
+ "ar": "الحاء والراء والتاء أصلٌ واحد، وهو الدَّلْك، يقال حَرَته حَرْتاً، إذا دلكه دَلْكاً شديدا.",
+ "az": "[حرت] (h-r-t). Ha, ra və ta hərfləri tək bir əsasdır, o da sürtməkdir. Deyilir: «حَرَته حَرْتاً» (hərəthü hartən) — onu şiddətlə sürtmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:55:11.144Z"
+}

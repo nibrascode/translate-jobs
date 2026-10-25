@@ -1,0 +1,17 @@
+{
+ "i": 564,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 401,
+  "page_to": 401
+ },
+ "ar": "الثاء والباء والنون أصلٌ واحد، وهو وعاء من الأوعية. قالوا:\nالثَّبْنُ اتِّخاذُك حُجْزَةً فى إزارك، تجعل فيها ما اجتنَيْتَه من رُطبٍ وغيره. و\nفى الحديث:\n«فليأكُلْ ولا يتَّخِذْ ثِبَانا». وقال ابن دريد قياساً ما أحسبه إلاّ مصنوعاً، قال:\nالمَثْبَنَة: كيسٌ تتخذ فيه المرأة المرآةَ وأداتَها. وزعم أنها لغة يمانية (٢).",
+ "az": "«ثبن»\nSə-ث, ba-b və nun-n hərfləri tək bir əsasdır ki, o da qablardan bir qab deməkdir.\nDedikləri kimi: «الثَّبْنُ» (əs-səbn) – İzarının (bel sarğısının) içində, dərdiyin yetişmiş xurma və s. şeyləri qoymaq üçün bir cib (büküş) düzəltməndir.\nHədisdə buyurulmuşdur:\n«فليأكُلْ ولا يتَّخِذْ ثِبَانا» (Qoy yesin, lakin cib-qab düzəltməsin).\nİbn Dürid qiyas edərək demişdir ki, mən bunu ancaq uydurma hesab edirəm. O dedi:\n«المَثْبəنَة» (əl-məsbənə) – qadının güzgünü və alətlərini qoyduğu torbadır. O bunun yəməni lüğəti olduğunu iddia etmişdir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:43:21.035Z"
+}

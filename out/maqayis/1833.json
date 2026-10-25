@@ -1,0 +1,17 @@
+{
+ "i": 1833,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زرف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 51,
+  "page_to": 51
+ },
+ "ar": "الزاء والراء والفاء أصلٌ يدل على سعىٍ وحركة. فالزَّرُوف:\nالنَّاقة الواسعة الخَطو الطويلةُ الرِّجْلين. ويقال: زَرَف، إِذا قَفَزَ. ويقال زَرَفْت الرّجلَ عن نفسى إذا نحّيتَه. ومن الباب: الزَّرافات: الجماعات وهى لا تكون كذا إلا إِذا تجمّعت لسعىٍ فى أمر. ويقال زَرَافَّة، مثقّلة الفاء. و\nكان الحجّاج يقول: «إِيَّاىَ وهذه الزّرَافات». يريد المتجمّعين المضطربين لفتنةٍ وما أشبهها.\nومن الباب زَرِف الجُرح، إذا انتقض بعد البُرْء.",
+ "az": "[زرف] (zə-rə-fə): Zai, ra və fa hərflərindən ibarət bir kök olub səy və hərəkət mənasını bildirir. «الزَّرُوف» – geniş addımlı, uzun ayaqlı dəvədir. Deyilir: «زَرَف» – tullandığı zaman. Deyilir: «زَرَفْت الرّجلَ عن نفسى» – onu özündən uzaqlaşdırdın. Bu fəsildəndir: «الزَّرافات» – dəstələr, onlar yalnız bir işdə səy etmək üçün toplandıqda belə olurlar. Deyilir: «زَرَافَّة» (fa hərfi şədli ilə). Həccac deyərdi: «إِيَّاىَ وهذه الزّرَافات» (özümdən uzaq edirəm bu dəstələri). O, fitnə və ona bənzər şeylər üçün toplaşıb qarışıqlıq salanları qəsd edirdi. Bu fəsildəndir: «زَرِف الجُرح» – yara sağaldıqdan sonra yenidən qopduqda (açıldıqda).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:43.941Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 782,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جذأر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 511,
+  "page_to": 511
+ },
+ "ar": "ومن ذلك قولهم للقاعد (مُجْذَئِرٌّ) فهذا مِنْ جذَا: إذا قَعَد على أطراف قدمَيه. قال:\n* وصَنّاجةٌ تَجْذُو على حَدِّ مَنْسِمِ (١) *\nومن الذَّئر (٢) وهو الغَضْبان النّاشز. فالكلمة منحوتة من كلمتين.",
+ "az": "«جذأر» - Və buraya oturmuş adama «مُجْذَئِرٌّ» (muczə'ir) deyilməsi daxildir. Bu, ayaqlarının ucu üstə oturduğu zaman işlədilən جَذَا (cəza) sözündəndir. Şair demişdir:\n* وصَنّاجةٌ تَجْذُو على حَدِّ مَنْسِمِ (١)\n(Və dırnağın kənarında oturan rəqqasə...)\nVə hirslənib dikələn mənasını verən الذَّئْر (əz-zə'ir) sözündəndir. Deməli, söz iki sözdən nəht edilmişdir (birləşdirilib düzəldilmişdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

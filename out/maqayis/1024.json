@@ -1,0 +1,17 @@
+{
+ "i": 1024,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 151,
+  "page_to": 151
+ },
+ "ar": "الخاء والسين أصلان: أحدهما حقارة الشئ، والآخر تداوُلُ الشئ.\nفالأوّل: الخسيس: الحقير؛ يقال خَسَّ الرجُل نفسُه وأخَسَّ، إذا أتَى بفعلٍ خسيس. ومن هذا الباب جاوَزَتِ النّاقةُ خَسِيسَتَها، إذا جاوَزَتْ سِنّ الحِقّة والجَذَعةِ والثَّنِيَّةِ ولحِقَت بالبُزُول. وهو القياس؛ لأنّ كلَّ هذه الأسنانِ دونَ البُزُول.\nوالأصل الثانى قول العرب: تَخَاسَّ القَوْمُ الأمرَ، إذا تداوَلُوه وتسابَقُوه، أيُّهم يأخذُه (٢). ويقال: هذه الأمورُ خِساس بينهم، أى دُوَل. قال ابن الزّبعرى:\nوالعطيّات خِساسٌ بينهم … وبناتُ الدّهرِ يلعَبْنَ بكُلّ (٣)",
+ "az": "«خس» (xa-sin): Xa və sin iki əslidir: biri şeyin alçaq olması, diğəri isə şeyin növbə ilə əldən-ələ keçməsidir.\n\nBirincisi: الخسيس (əl-xasis) — alçaq, dəyərsiz deməkdir; deyilir: خَسَّ الرجُل نفسُه وأخَسَّ (xəssər-raculu nəfsuhu və əxəssə), yəni alçaq bir əməl etdi. Bu fəsildəndir: جاوَزَتِ النّاقةُ خَسِيسَتَها (cavəzətin-naqətu xasisətəhə), yəni dəvə hiqqə, cəzə, səniyyə yaşlarını keçdi və buzul (tam yetişmə) yaşına çatdı. Bu, qiyasdır; çünki bütün bu yaşlar buzul yaşından aşağıdır.\n\nİkinci əsl isə ərəblərin bu sözüdür: تَخَاسَّ القَوْمُ الأمرَ (təxassəl-qavmul-əmrə), yəni onlar bu işi növbə ilə əldən-ələ keçirdilər və hərəsi onu götürməyə çalışdı (2). Deyilir: هذه الأمورُ خِساس بينهم (həziil-umuru xisasun bəynəhum), yəni bunlar aralarında növbəli işlərdir. İbn əz-Zəbəra demişdir:\nوالعطيّات خِساسٌ بينهم … وبناتُ الدّهرِ يلعَبْنَ بكُلّ (٣)\n(Bəxşişlər aralarında növbəlidir, zəmanə qızları isə hamı ilə oynayırlar.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:06:36.723Z"
+}

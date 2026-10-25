@@ -1,0 +1,17 @@
+{
+ "i": 961,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حوت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 114,
+  "page_to": 114
+ },
+ "ar": "الحاء والواو والتاء أصلٌ صحيح منقاس، وهو من الاضطراب والرَّوغان، فالحُوت العظيم من السّمَك، وهو مضطربٌ أبداً غير مستقرّ. والعرب تقول: حَاوَتَنِى فلانٌ، إذا راوغَنى. ويُنشَد هذا البيت:\nظَلّت تُحاوِتُنى رَمْدَاء داهِيَةٌ … يوم الثويَّةِ عن أهلى وعن مالى (١)",
+ "az": "[حوت] «الحاء» (ح), «الواو» (و) və «التاء» (ت) hərfləri nizama düşən və qiyaslanan səhih bir əsasdır, o da narahatlıq və hiyləgərlikdir. «الحُوت» (əl-hut) – balıqların ən böyüyüdür, o həmişə narahatdır, heç vaxt qərar tutmur. Ərəblər deyirlər: «حَاوَتَنِى فلانٌ» (filankəs mənimlə hiylə işlətdi) – mənimlə fəndləndi. Bu beyt nəql olunur: ظَلّت تُحاوِتُنى رَمْدَاء داهِيَةٌ … يوم الثويَّةِ عن أهلى وعن مالى (١) (Səviyyə günü ailəmdən və malımdan ötrü qızmar qumlu bir bəla mənimlə hiylə qurmaqda davam etdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:04.862Z"
+}

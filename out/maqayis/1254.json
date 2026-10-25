@@ -1,0 +1,17 @@
+{
+ "i": 1254,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 284,
+  "page_to": 285
+ },
+ "ar": "الدال والغين والميم أصلان: أحدُهما من باب الألوان، والآخر دخولُ شئِ فى مَدْخَلٍ ما.\nفالأوَّل الدُّغمة فى الخيل: أن يخالِف لونُ الوجه لونَ سائر الجسَد. ولا يكون إلا سَواداً. ومن أمثال العرب: «الذِّئْبُ أدْغَمُ». تفسير ذلك أنَّه أدغَمُ ولَغَ أو لم يَلَغْ. فالدُّغْمة لازمةٌ له، فربَّما قيل قد وَلَغَ وهو جائع. يضرب هذا مثلاً\nلَمنْ يُغْبَط بما لم ينَلْه. ومن هذا الباب دَغمَهم الحرُّ، إذا غشِيَهم؛ لأنّه يغيِّر الألوان.\nوالأصل الأخر: قولُهم أدغَمْتُ اللِّجام فى فم الفرس، إذا أدخَلْتَه فيه. ومنه الإدغام فى الحُروف. والدَّغْم: كَسْرُ الأنف [إلى (١)] باطنِه هَشْماً.",
+ "az": "«دغم» (د-غ-م): دال، غeyn və mim hərfləri iki əsas mənaya qayıdır: biri rənglər باب (bölməsinə), diğeri isə bir şeyin hər hansı bir yerə daxil olmasına aid edilir.\nBirincisi, atların rəngindəki «الدُّغمة» (düqmə): üzün rənginin bədənin qalan hissəsinin rənginə zidd olmasıdır. Bu da yalnız qara rəngdə olur. Ərəblərin məsəllərindən biri budur: «الذِّئْبُ أدْغَمُ» («Canavarüddüğəm» - üzü qara canavar). Bunun izahı budur ki, o, su içsin və ya içməsin, düqmə (üzünün qaralığı) ona xasdır. Beləliklə, bəzən o, ac olmasa belə «su içdi» deyilə bilər. Bu, əldə etmədiyi bir şeylə qibtə edilən (və ya təriflənən) kimsəyə məsəl çəkilir. Həmçinin bu babdandır: «دَغْمَهم الحرُّ» — yəni istisporu onları bürüdü; çünki o, rəngləri dəyişdirir.\nDigər əsas isə onların: «أدْغَمْتُ اللِّجام فى فم الفرس» (Yüyəni atın ağzına soxdum / daxil etdim) demələridir. Hərflərdəki «الإدغام» (idğam) da buradan götürülmüşdür. «الدَّغْم» (dəğm): burunun daxilinə tərəf sındırılaraq əzilməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.299Z"
+}

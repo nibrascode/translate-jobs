@@ -1,0 +1,17 @@
+{
+ "i": 2555,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 444,
+  "page_to": 444
+ },
+ "ar": "الطاء والحاء والميم أصلٌ صحيح يدلُّ على تجمُّع وتكاثف من ذلك الطّحمة (٤) من النّاس، وهى الجماعة الكثيفة. وطُحْمة اللَّيل وطَحْمَتهُ، وطُحْمة السَّيل وطَحمته: مُعْظَمه. قال الخليل: طَحْمة الفتنة: جَوْلة النَّاس عندها. ويقال للرّجُل الشّديد العِراك: طُحَمَة. والباب كلُّه واحد.",
+ "az": "[طحم] (ط، ح، م) — الطاء والحاء والميم أصلٌ صحيح يدلُّ على تجمُّع وتكاثف (bir yerə toplanmağa və sıxlaşmağa dəlalət edən səhih bir kökdür). من ذلك الطّحمة (٤) من النّاس، وهى الجماعة الكثيفة (Onlardan biri insanların طحمة [tuhmə] sözüdür ki, sıx camaat deməkdir). وطُحْمة اللَّيل وطَحْمَتهُ (Gecənin tuhməsi və tahməsi), وطُحْمة السَّيل وطَحمته: مُعْظَمه (və selin tuhməsi və tahməsi: onun ən böyük hissəsi deməkdir). قال الخليل (Xəlil demişdir): طَحْمَة الفتنة (fitənin tahməsi): جَوْلة النَّاس عندها (insanların onun ətrafında dövr etməsi). ويقال للرّجُل الشّديد العِراك (Şiddətli döyüşən kişiyə deyilir): طُحَمَة (tuhəmə). والباب كلُّه واحد (və bu باب - bölmə tamamilə eynidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:12:42.796Z"
+}

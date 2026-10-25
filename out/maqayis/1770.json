@@ -1,0 +1,17 @@
+{
+ "i": 1770,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زمق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 25,
+  "page_to": 25
+ },
+ "ar": "الزاء والميم والقاف ليس بشئ، وإن كانوا يقولون: زَمَقَ شَعرَه، إذا نَتَفه. فإنْ صحَّ فالأصل زبق. وقد ذكر.",
+ "az": "[زمق] (zəməq): ز (zay), م (mim) və ق (qaf) heç bir şey deyildir. Hərçənd deyirlər ki, زَمَقَ شَعرَه (zəməqə şərhəhu) — tüklərini qopardı. Əgər bu səhihdirsə, əsli زبق (zəbəq)-dir. Bu, artıq zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:18.053Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1557,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 430,
+  "page_to": 430
+ },
+ "ar": "الراء والكاف واللام أصلٌ يدلُّ على جنسٍ من الضرب بالرِّجْل. يقال رَكَلَه ورَفَسه برِجله. ومَرْكَلَا الفَرَس من جنبيه، حيث يركُل الفارسُ برجليه. وتركَّل على الشئ برجله. وتركَّل الحافرُ بمِسْحَاتِه، إذا ضربَها برِجْله لتدخُل فى الأرض. قال الأخطل:\nرَبَت ورَبا فى حِجْرِها ابنُ مَدينةٍ … يَظَلُّ على مِسحاتِه يتركَّل (١)\nوالكديد: المُرَكَّل (٢).",
+ "az": "[ركل] (Rəkəl): Ra, kaf və lam hərfləri ayaqla vurulan bir növ zərbəyə dəlalət edən əsasdır. Deyilir: رَكَلَه ورَفَسه برِجله (rəkələhu və rafəsahu bi-riclihi) — onu ayağı ilə təpiklədi və vurdu. Və المَرْكَلان (əl-mərkələn): atın hər iki tərəfindən suvarinin ayaqları ilə vurduğu yerlər. Və تَرَّكَلَ على الشئ برجله (tərrəkələ aləş-şey-i bi-riclihi). Və تَرَّكَلَ الحافرُ بمِسْحَاتِه (tərrəkəl-hafiru bi-mishatihi) — dırmığı yerə daxil etmək üçün onu ayağı ilə vurduqda. Əxhtəl demişdir: \nرَبَت ورَبا فى حِجْرِها ابنُ مَدينةٍ … يَظَلُّ على مِسحاتِه يتركَّل (١)\nVə الكديد (əl-kədid): المُرَكَّل (əl-murakkəl).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

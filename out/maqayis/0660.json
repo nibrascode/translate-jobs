@@ -1,0 +1,17 @@
+{
+ "i": 660,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 463,
+  "page_to": 463
+ },
+ "ar": "الجيم والعين والشين قياسُ ما قَبْلَهُ.",
+ "az": "[جعش] (cim, eyn və şin) özündən əvvəlkinin qiyasındadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:09.223Z"
+}

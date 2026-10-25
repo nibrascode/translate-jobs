@@ -1,0 +1,17 @@
+{
+ "i": 2441,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضأد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الضاد والهمزة والدال أُصيلٌ قليل الفُروع، يدلُّ على مَرض من الأمراض. قالوا: الضُّؤْد: الزكام، وكذلك الضُّؤْدَة. رجلٌ مضْئُود، أى مزكوم. وحُكيت كلمةٌ أخرى عن أبى زيد، إن صحّت، قالوا: ضأَدْت الرّجُل ضأدًا، إذا خَصَمتَه.",
+ "az": "«ضأد»: الضاد, الهمزة, والدال (d, həmzə, d) — xəstəliklərdən bir xəstəliyə dəlalət edən, az şaxələnən kiçik bir kökdür. Dedilər: «الضُّؤْد» — zökəm, həmçinin «الضُّؤْدَة». «رجل مضْئُود» — yəni zökəm olmuş kişi. Əbu Zeyddən başqa bir kəlmə də rəvayət edilmişdir, əgər düzdürsə, dedilər: «ضأَدْت الرّجُل ضأدًا» — onu məğlub etdin, dəlil ilə susdurun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

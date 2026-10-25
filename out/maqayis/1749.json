@@ -1,0 +1,17 @@
+{
+ "i": 1749,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زقن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 16,
+  "page_to": 16
+ },
+ "ar": "الزاء والقاف والنون ليس بشئٍ. على أنَّهم ربَّما قالوا:\nزَقَنْتُ الحِمْلَ أزقُنُه، إذا حملتَه. وأزقَنْتُ فلانًا: أعنتُه على الحِمْل. واللّه أعلم بالصواب.",
+ "az": "[زقن] (zəqən): Zay, qaf və nun hərfləri heç bir şey deyil. Lakin bəzən demişlər:\n«زَقَنْتُ الحِمْلَ أزقُنُه» – yükü daşıdınsa. «وأزقَنْتُ فلانًا» – mən filankəsə yük daşımaqda kömək etdim. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.126Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1976,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سبخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 126,
+  "page_to": 126
+ },
+ "ar": "السين والباء والخاء أصلٌ واحدٌ يدلُّ على خفّة فى الشّئ.\nيقال للذى يسقط مِنْ ريش الطائر السَّبِيخ. ومنه\nالحديث: أنّ رسول اللّه ﵌ سمِع عائشة تدعو على سارقٍ سَرَقها، فقال: «لا تُسبِّخى عنه بدعائك عليه». أى لا تخفِّفى. ويقال فى الدّعاء: «اللهمَّ سَبِّخْ عنه الحُمَّى»، أى سُلَّها وخَفِّفْها. ويقال لما يتطاير من القُطن عند النَّدْف: السَّبِيخ. قال الشاعر يصف كِلابا:\nفأرسلوهُنَّ يُذْرِينَ التُّرَابَ كما … يُذْرِى سَبائخَ قُطنٍ نَدْفُ أوتَارِ (٢)\nوقد رُوِى عن بعضهم (٣) أنَّه قرأ: «إنّ لك فى النّهار سبخا طويلا»، قال: وهو معنى السَّبْخ، وهو الفَراغ؛ لأنّ الفارغ خفيف الأمر.",
+ "az": "[سبخ] (səbx). السين (sin), والباء (ba) və الخاء (xə) bir şeydə yüngüllüyə dəlalət edən tək bir əsldir. Quş lələklərindən düşən şeyə السَّبِيخ (əssəbix) deyilir. Hədisdə də bu gəlmişdir: Həqiqətən, Allahın Elçisi ﵌ eşitdi ki, Aişə ona qarşı oğurluq etmiş bir oğruya bəddua edir. Buyurdu: «لا تُسبِّخى عنه بدعائك عليه» (La tüsəbbixi anhü biduəikə aleyhi) – yəni «Bəddua etməklə onun [cəzasını] yüngülləşdirmə». Bəduada belə deyilir: «اللهمَّ سَبِّخْ عنه الحُمَّى» (Allahummə səbbix anhül-hummə) – yəni «İlahi, qızdırmanı ondan sıyırıb çıxar və yüngülləşdir». Pambıq çırpılarkən havaya uçuşan şeylərə də السَّبِيخ (əssəbix) deyilir. Şair Kilab qəbiləsini vəsf edərək demişdir:\nفأرسلوهُنَّ يُذْرِينَ التُّرَابَ كما … يُذْرِى سَبائخَ قُطنٍ نَدْفُ أوتَارِ (٢)\n(Onları buraxdılar, onlar torpağı havaya sovururdular, necə ki ipin çırpılması pambıq lələklərini/parçalarını sovurur).\nBəzilərindən rəvayət olunmuşdur ki, o, Quran ayəsini belə oxumuşdur: «إنّ لك فى النّهار سبخا طويلا» (Həqiqətən, sənin gündüzlər uzun boş vaxtın var). O demişdir: Bu, əssəbx mənasındadır, yəni boş vaxt və fərağətdir; çünki boşta qalan adamın işi yüngül olar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:50.269Z"
+}

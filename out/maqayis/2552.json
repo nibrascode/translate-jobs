@@ -1,0 +1,17 @@
+{
+ "i": 2552,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 443,
+  "page_to": 443
+ },
+ "ar": "يقولون فى الطاء والجيم والنون: إنَّ الطَّاجَن (٢):\nالطَّابَق (٣). وهو كلام، واللّه اعلم.",
+ "az": "[طجن] Onlar ta, jim və nun hərfləri haqqında deyirlər: الطَّاجَن (ət-tajən) – الطَّابَق (ət-tabaq) deməkdir (٣). Bu, bir kəlamdır, Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:11:55.933Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 412,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تعع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 338,
+  "page_to": 338
+ },
+ "ar": "التاء والعين من الكلام الأصيل الصَّحيح، وقياسُه القَلَقُ والإِكراه. يقال تَعْتَعَ الرَّجُلُ إذا تَبَلَّدَ فى كلامه. وكلُّ من أُكرِهَ فى شئٍ حتى يَقْلَقَ [فقد (٢)] تُعْتِع. و\nفى الحديث: «حتى يُؤخَذَ للضَّعيف حقُّه من القوِىّ غيْرَ مُتَعْتَعٍ». ويقال تَعْتَعَ الفَرَسُ إذا ارْتَطَمَ. قال:\nيُتَعْتِعُ فى الخَبَارِ إذا علاهُ … ويعثُر فى الطريقِ المستقيمِ (٣)\nويقال وقع القوم فى تَعَاتِعَ، أى أراجِيفَ وتَخْليطٍ.",
+ "az": "«تعع» (t-ə-ə): Tə və eyn əsas və səhih kəlmələrdəndir, onun ölçüsü iztirab və məcburiyyətdir. Deyilir ki, تَعْتَعَ الرَّجُلُ (tətcərəl-racul) — kişi sözündə kəkələdikdə və ya çaşdıqda. Hər hansı bir şeyə qarşı iztirab çəkənə qədər məcbur edilən kəs [həqiqətən də] (فقد) (٢) təuticə məruz qalmışdır. \nVə hədisdə: «حتى يُؤخَذَ للضَّعيف حقُّه من القوِىّ غيْرَ مُتَعْتَعٍ» (Zəiflərin haqqı güclüdən heç bir maneə və iztirab olmadan alınmayınca). Və deyilir: تَعْتَعَ الفَرَسُ (tətcərəl-fəras) — at irəliləyərkən dolaşıb qaldıqda. Şair demişdir:\nيُتَعْتِعُ فى الخَبَارِ إذا علاهُ … ويعثُر فى الطريقِ المستقيمِ (٣)\n(Yumşaq torpağa qalxanda büdrəyər... və düz yolda yıxılar)\nVə deyilir: qövm تَعَاتِعَ (təa-tiə) vəziyyətinə düşdü, yəni şayiələr və qarışıqlıq içində qaldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

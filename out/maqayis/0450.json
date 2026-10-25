@@ -1,0 +1,17 @@
+{
+ "i": 450,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تقن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 350,
+  "page_to": 351
+ },
+ "ar": "التاء والقاف والنون أصلان: أحدهما إحكام الشَّئ، والثانى الطين والحَمْأة.\nفالقول الأوّل أتقَنْت الشّئ أَحكَمْتُه. ورجل تقن (٤): حاذقٌ. وابن تِقْن رجلٌ كان جيّد الرّمى يُضْرَبُ به المَثَل. قال:\n* يرمى بها أرْمَى من ابن تقْنِ (٥) *\nوأمَّا الحمأة والطين فيقال: تَقَّنُوا أرضَهُم، إذا أصلحوها بذلك، وذلك هو التِّقْن.",
+ "az": "[تقن] (tə-q-n). Ta, qaf və nun hərflərinin iki əsası vardır: biri bir şeyi kamil etmək, ikincisi isə palçıq və lil. Birinci söz: أتقَنْت الشّئ (ə-tqəntü-ş-şəyə) – onu kamil etdim. Və رَجُل تَقْن (racülün taqn) – bacarıqlı, mahir kişi. Və İbn Tiqn – ox atmaqda mahir olan, məsəl çəkilən bir kişi idi. [Şair] demişdir: Onunla İbn Tiqndən daha mahir olan atır (5). Palçıq və lila gəlincə, deyilir: تَقَّنُوا أرضَهُم (təqqənü ardəhum) – torpaqlarını bununla düzəldib islâh etdikləri zaman, və bu da et-tiqn (palçıqlama) deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.805Z"
+}

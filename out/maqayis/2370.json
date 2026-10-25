@@ -1,0 +1,17 @@
+{
+ "i": 2370,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صرط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 349,
+  "page_to": 349
+ },
+ "ar": "الصاد والراء والطاء وهو من باب الإبدال، وقد ذكر فى السين، وهو الطَّريق. قال:\nأكُرُّ على الحرورِيِّينَ مُهْرى … وأحملُهم على وَضَح الصِّراطِ (٢)",
+ "az": "[صرط] (ص، ر، ط) — əvəz etmə (ibdal) qapısındandır, sin hərfi altında da qeyd olunmuşdur və yol deməkdir. Şair demişdir:\nأكُرُّ على الحرورِيِّينَ مُهْرى … وأحملُهم على وَضَح الصِّراطِ (٢)\n(Atımı həvarilərin üzərinə sürürəm və onları aydın yolun üzərinə çıxarıram.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.777Z"
+}

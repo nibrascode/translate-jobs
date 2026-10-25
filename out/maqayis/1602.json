@@ -1,0 +1,17 @@
+{
+ "i": 1602,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 448,
+  "page_to": 448
+ },
+ "ar": "الراء والهاء والسين أصلان: أحدهما الامتلاء والكثرة، والآخَر الوطء.\nفالأول قولهم: ارتهَسَ الوادى: امتلأ. وارتهَسَ الجرادُ: ركِب بعضُه بعضا.\nوالأصل الآخر: الرَّهْس: الوطء. ومنه الرجُل الرَّهْوَس (٣): الأكول.",
+ "az": "[رهس] «الراء» (ra), «هاء» (hə) və «سين» (sin) iki əsas mənaya malikdir: biri dolmaq və çoxalmaq, digəri isə ayaq basmaq.\nBirincisi onların bu sözüdür: ارتهَسَ الوادى (irtəhəsal-vadi) — vadis doldu. وارتهَسَ الجرادُ (irtəhəsal-cərad) — çəyirtkələr bir-birinin üstünə mindi.\nDigər əsas məna: الرَّهْس (ərrəhs) — ayaq basmaq. Buradandır: الرجُل الرَّهْوَسُ (ər-raculur-rəhvas) (٣) — çox yeyən insan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

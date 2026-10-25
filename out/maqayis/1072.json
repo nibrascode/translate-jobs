@@ -1,0 +1,17 @@
+{
+ "i": 1072,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خزم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 178,
+  "page_to": 178
+ },
+ "ar": "الخاء والزاء والميم أصلٌ يدلُّ على انثقاب الشَّئ. فكلُّ مثقوبٍ مخزومٌ. والطَّير كلُّها مخزُومة؛ لأنَّ وَتَرَاتِ أنفها مخزُومة. ولذلك يقال نَعام مُخَزَّمٌ. قال:\n* وأرفَعُ صوتى للنَّعام المُخَزّمِ (١) *\nوخَزَمْت الجَرادَ فى العُود: نَظَمْته. وخَزمْتُ البعيرَ، إذا جعلْتَ فى وَتَرَةِ أنْفه خِزَامةً من شَعْر. وعلى هذا القياسِ يسمَّى شجرةٌ من الشَّجر خَزَمة؛ وذلك أنّ لها لِحاءَ يُفتَل منه الحِبال، والحبال خزِامات.\nوقد شذَّ عن الباب الخَزُومة: البقرة (٢). وَكلمةٌ أخرى، يقال خازَمْتُ الرّجُلَ الطّريقَ، وهو أن يأخُذَ فى طريقٍ ويأخُذَ (٣) هو فى غيرِه حتَّى يلتقِيا فى مكانٍ واحد. وأخْزَمُ: رجلٌ. فأمَّا قولهم إنّ الأخْزَم الحيَّة الذكرُ، فكلامٌ فيه نظَر.",
+ "az": "[خزم] (خ, ز, م): Bir əsas olub, şeyin dəlinməsinə dəlalət edir. Demək, hər deşilmiş şey مَخْزُوم (məxzum) - dəlinmişdir. Bütün quşlar مَخْزُومَة (məxzumə) - burun çəpərləri dəlinmişdir. Buna görə də نَعام مُخَزَّمٌ (nəam müxəzzəm - burun çəpərləri dəlinmiş dəvəquşu) deyilir. Şair demişdir:\n* وَأَرْفَعُ صَوْتِي لِلنَّعامِ المُخَزَّمِ (١) * (Səsimi burun çəpərləri dəlinmiş dəvəquşuna ucaldıram)\nوَخَزَمْتُ الجَرادَ فِي العُود (xəzəmtü əl-cəradə fi əl-oud): çəyirtkələri çöpə düzdüm. وَخَزَمْتُ البَعِيرَ (xəzəmtü əl-bəir) - dəvənin burun çəpərinə tükdən xizamə (halqa) taxdığın zaman deyilir. Bu ölçüyə əsasən ağac növlərindən birinə خَزَمَة (xəzəmə) deyilir; çünki onun ip hörülən qabığı vardır və iplər xizamələrdir.\nBu بابdan (bölmədən) شذَّ (istisna) olmuşdur: الخَزُومَة (əl-xəzumə) - inək (٢). Və başqa bir söz; خَازَمْتُ الرَّجُلَ الطَّرِيقَ (xazəmtü ər-racülə ət-təriq) - kişinin bir yolla getməsi, digərinin isə başqa yolla getməsi və nəticədə bir yerdə görüşmələridir (٣). وَأَخْزَمُ (əxzəm) - bir kişinin adıdır. Onların əxzəmin erkək ilan olması haqqındakı sözünə gəldikdə isə, bu, üzərində düşünülməli olan sözdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

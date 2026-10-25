@@ -1,0 +1,17 @@
+{
+ "i": 1926,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سنب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 104,
+  "page_to": 104
+ },
+ "ar": "السين والنون والباء كلمتان متباينتان. فالسَّنْبَةُ: الطائفة من الدَّهر. والكلمة الأخرى السَّنِب، وهو الفرس الواسع الجَرى.",
+ "az": "«سنب» — السين، والنون والباء (سين، نun və ba) bir-birindən fərqli iki kəlmədir. «السَّنْبَةُ» — zamandan bir parça. Digər kəlmə isə «السَّنِب»dir, o da geniş qaçan atdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.684Z"
+}

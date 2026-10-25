@@ -1,0 +1,17 @@
+{
+ "i": 1665,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رتج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 485,
+  "page_to": 485
+ },
+ "ar": "الراء والتاء والجيم أصلٌ واحد، وهو يدلُّ على إغلاقٍ وضِيق. من ذلك أُرْتِجَ على فُلانٍ فى منطقه، وذلك إِذا انغلق عليه الكلامُ.\nوهو من أرتَجْتُ البابَ، أى أغلقتُه. يقال رَتِجَ الرّجل فى منطقه رَتَجاً.\nوالرِّتاج: البابُ الغُلُق (١). كذا قال الخليل. و\nروى فى الحديث: «مَنْ جَعَل مالَهُ فى رِتَاج الكعبة». قالوا: هو البابُ، ولم يُرِد البابَ بعينه، لكنّه أراد أنّه جعل مالَه هَدْياً للكعبة، يريد النَّذْر. [قال (٢)]:\nإذا أحْلَفُونى فى عُليّةَ أُجْنِحَتْ … يَمينى إلى شَطْر الرِّتاجِ المضبَّبِ (٣)\nقال الأصمعىّ: أرْتَجَتِ النّاقة، إذا أَغلقت رحمَها على الماء. وأرْتَجَت الدّجاجة، إذا امتلأ بطنُها بيضا. ويقال إنّ المَرَاتج الطُّرقُ الضيِّقة. والرَّتائج:\nالصخور المتراصِفة (٤).",
+ "az": "[رتج] \nالراء والتاء والجيم (ra, ta və cim) — tək bir əsasdır, o da bağlamağa və darlığa dəlalət edir. Bunlardandır: أُرْتِجَ على فُلانٍ فى منطقه (Filankəsin danışığına qıfıl vuruldu/danışığı tutuldu), bu o zaman olur ki, ona sözlər qapanır. \nBu, أرتَجْتُ البابَ (qapını bağladım), yəni onu kilidlədim sözündəndir. Deyilir: رَتِجَ الرّجل فى منطقه رَتَجاً (Kişi danışığında dili tutuldu, kəkələdi). \nوالرِّتاج (ritac) — bağlı qapıdır (١). Xəlil belə demişdir. \nVə hədisdə rəvayət olunmuşdur: «مَنْ جَعَل مالَهُ فى رِتَاج الكعبة» (Kim malını Kəbənin ritacına qoyarsa). Alimlər demişlər: Bu, qapıdır. Lakin o, qapının özünü qəsd etməmişdir, lakin o, malını Kəbəyə hədiyyə/qurban etdiyini qəsd etmişdir, nəziri nəzərdə tutur. [(Şair) demişdir (2)]: \nإذا أحْلَفُونى فى عُليّةَ أُجْنِحَتْ … يَمينى إلى شَطْر الرِّتاجِ المضبَّبِ (٣) \n(Əgər məni Uleypədə and içdirsələr, sağ əlim kilidli ritaca tərəf meyvə edər/uzanar). \nƏsməi demişdir: أُرْتِجَتِ النّاقة (dəvə uşaqlığını suya bağladı/qapandı). Və أُرْتِجَتِ الدّجاجة (toyuqun qarnı yumurta ilə doldu). Və deyilir ki, المَرَاتج (məratic) — dar yollar. Və الرَّتائج (rətaic) — bir-birinə söykənmiş qayalardır (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:36.371Z"
+}

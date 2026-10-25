@@ -1,0 +1,17 @@
+{
+ "i": 1579,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 439,
+  "page_to": 440
+ },
+ "ar": "الراء والميم والصاد أُصَيل يدلُّ * على إلقاءِ قَذَى. يقولون رَمَصَتِ العين، إذا أخرجت ما يخرُج منها عند الرّمَد. وقال ابن السَّكِّيت:\nيقال قَبَحَ اللّهُ أُمًّا رَمَصَت به، أى ولدَتْه. وهذا إذا صحَّ فهو على ما ذكرناه من أنَّه مشبّه بقذًى يُرمَى به. ويقال رَمَصَتِ الدّجاجةُ: ذَرَقت.\nوفى الباب كلامٌ آخَرُ يدلُّ على صلاحٍ وخير. يقولون: رَمَصْت بينهم، أى أصلَحْت. وربما قالوا: رَمَص اللّه مُصِيبتَه يَرْمُصها رَمْصاً، إذا جَبَرها.",
+ "az": "[رمص] (Rəməs). Ra, mim və sad — çirk tullamağa dəlalət edən kiçik bir əsasdır. Deyirlər: رَمَصَتِ العين (Göz çirk çıxardı), göz rəməd zamanı xaric olanı xaric etdikdə. İbn əs-Sikkit demişdir: يقال قَبَحَ اللّهُ أُمًّا رَمَصَت به (Dejilir: Allah onu doğan ana üz qaralığı versin), yəni onu doğdu. Bu, əgər səhihdirsə, atılan çirkə bənzədildiyinə dair dediyimiz kimidir. Deyilir: رَمَصَتِ الدّجاجةُ (Toyuq nəcis atdı). Bu fəsildə salehliyə və xeyrə dəlalət edən başqa bir söz də var. Deyirlər: رَمَصْت بينهم (Onların arasında islah etdim), yəni barışdırdım. Bəzən deyirlər: رَمَص اللّه مُصِيبتَه يَرْمُصها رَمْصاً (Allah onun müsibətini bağışladı, bərpa etdi), o zaman ki, onu islah etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:08.693Z"
+}

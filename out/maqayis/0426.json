@@ -1,0 +1,17 @@
+{
+ "i": 426,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تخذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 342,
+  "page_to": 342
+ },
+ "ar": "التاء والخاء والذال كلمة واحدة، تَخِذْتُ الشَّئَ واتَّخَذْته.",
+ "az": "«تخذ» (t-x-d): Tə, xa və zal bir kəlmədir, تَخِذْتُ الشَّئَ واتَّخَذْته (təxidtuş-şəyə və əttəxədtuhu): bir şeyi əldə etdim və qəbul etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.116Z"
+}

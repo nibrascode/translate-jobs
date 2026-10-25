@@ -1,0 +1,17 @@
+{
+ "i": 1839,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 57,
+  "page_to": 57
+ },
+ "ar": "السين والعين فى المضاعف والمطابق يدلُّ على أصل واحد، وهو ذَهاب الشئ. قال الخليل: يقال تَسَعْسَعَ الشَّهر، إذا ذهب أكثره، ويقال تَسَعْسَعَ الرجل من الكِبَر، إذا اضطرب جسمه. قال:\nيا هندُ ما أسرعَ ما تَسعسَعا (١)",
+ "az": "[سع] (sə-ə): Müzaf və mutabiq olan sin və eyn hərfləri tək bir əslə dəlalət edir ki, o da şeyin getməsidir. Xəlil demişdir: Deyilir ki, «تَسَعْسَعَ الشَّهر» – ayın çox hissəsi gedib qurtardığı zaman. Deyilir ki, «تَسَعْسَعَ الرجل من الكِبَر» – qocalıqdan kişinin bədəni zəifləyib əyildiyi zaman. O demişdir: Ey Hind, nə qədər də tez tükəndi (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:43.941Z"
+}

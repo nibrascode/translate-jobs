@@ -1,0 +1,17 @@
+{
+ "i": 894,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حطأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 78,
+  "page_to": 79
+ },
+ "ar": "الحاء والطاء والهمزة أصلٌ منقاس، وهو تطامُن الشَّئِ وسقُوطُه.\nيقال حَطَأْتُ الرجلَ بالأرض: ضربته. والحُطيئة: الرجل القصير. قال ثعلب:\nسمِّي الحُطيئة لدَمامَته.\nقال أبو زيد: الحَطِئ من الرّجال مثال فَعيل: الرُّذَال.\nقال ابن عباس:\n«أَخَذَ رسول اللّه ﵌ بقَفائى فحطأنى خَطْأةً وقال: اذهبْ فادعُ لى فلاناً». يقول: دَفَعَنى دَفْعة. ويقال حَطَأَتِ القِدْرُ بزَبَدِها: رمَت. ويقال حطأ الرجُل المرأةَ: جامَعَها.",
+ "az": "«حطأ» (H-T-Həmzə): hə, ta və həmzə hərfləri qaydaya uyğun bir əsas mənanı bildirir: bir şeyin alçalması və yıxılması. «حَطَأْتُ الرجلَ بالأرض» — kişini yerə vurdum, yıxdım. الحُطيئة (Huteylə) — alçaqboylu kişi. Səhləb demişdir: Hutyə alçaqlığına görə belə adlandırılmışdır. Əbu Zeyd demişdir: fəzil (فعيل) qəlibindəki الحَطِئ (hati) — yaramaz, alçaq kişilərdir. İbn Abbas demişdir: «Allahın Elçisi ﵌ əsnəyimdən tutub məni bir dəfə itələdi və dedi: Get, filankəsi mənə çağır». O, mənə bir dəfə itələmə (zərbə) vurduğunu qəsd edir. «حطأَتِ القِدْرُ بزَبَدِها» — qazan köpüyünü çölə atdı. «حطأ الرجُل المرأةَ» — kişi qadınla cinsi əlaqədə oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:55.260Z"
+}

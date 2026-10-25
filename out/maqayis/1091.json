@@ -1,0 +1,17 @@
+{
+ "i": 1091,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خصل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 187,
+  "page_to": 187
+ },
+ "ar": "الخاء والصاد واللام أصلٌ واحدٌ يدلُّ على القَطْعِ والقِطعةِ من الشَّئ، ثم يُحمَل عليها تشبيهاً ومجازاً. فالخَصْل القَطْع. وسيف مِخْصَل: قطَّاع (١).\nوالخُصْلة من الشّعْرَ معروفة. والخَصِيلة: كلُّ لحمةٍ فيها عَصَبٌ. هذا هو الأصل.\nوممّا حُمِل عليه الخُصَل * أطراف الشّجرِ المتدلّيةُ. ومن هذا الباب الخَصْل فى الرِّهان، وذلك أن تُحْرِزَه. والذى يحرزُه طائفةٌ من الشئ. ثمَّ قيل: فى فلانٍ خَصْلةٌ حَسنَةٌ وسيِّئة. والأصل ما ذكرناه.",
+ "az": "[خصل] الخاء والصاد واللام أصلٌ واحدٌ يدلُّ على القَطْعِ والقِطعةِ من الشَّئ، ثم يُحمَل عليها تشبيهاً ومجازاً. (Xar, sad və lam hərfləri tək bir kök olub, kəsməyə və şeydən bir parça olmağa dəlalət edir, sonra buna bənzətmə və məcaz yolu ilə məna yüklənir.) \n\nفالخَصْل القَطْع. وسيف مِخْصَل: قطَّاع (١). (Beləliklə, əl-xəsl — kəsmək. Mixsəl qılınc: kəsici.) \n\nوالخُصْلة من الشّعْرَ معروفة. والخَصِيلة: كلُّ لحمةٍ فيها عَصَبٌ. هذا هو الأصل. (Saçdan olan xuslə məlumdur. Əl-xəsilə: içində əzələ olan hər bir ət parçası. Bu, əslidir.) \n\nوممّا حُمِل عليه الخُصَل * أطراف الشّجرِ المتدلّيةُ. ومن هذا الباب الخَصْل فى الرِّهان، وذلك أن تُحْرِزَه. والذى يحرزُه طائفةٌ من الشئ. ثمَّ قيل: فى فلانٍ خَصْلةٌ حَسنَةٌ وسيِّئة. والأصل ما ذكرناه. (Xusəl isə ona həml edilmiş şeylərdəndir: ağacların sallanan ucları. Bu babdandır mərc gəlməkdəki xəsl, və bu, onu əldə etməyindir. Onun əldə etdiyi şey isə şeyin bir hissəsidir. Sonra deyildi: fulanda gözəl xəsl və pis xəsl (xislət/xüsusiyyət) vardır. Əsl isə qeyd etdiyimizdir.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:26.357Z"
+}

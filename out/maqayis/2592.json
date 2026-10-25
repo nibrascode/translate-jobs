@@ -1,0 +1,17 @@
+{
+ "i": 2592,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ظأم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 473,
+  "page_to": 473
+ },
+ "ar": "الظاء والهمزة والميم من الكلام والجَلَبة، وهو إبدال.\nفالظَّأْم والظأب بمعنىً. واللّه أعلم.",
+ "az": "[ظأم] الظاء (zı), الهمزة (həmzə) və الميم (mim) hərfləri danışıq və səs-küy mənasındadır, bu, əvəzetmədir. الظَّأْم (əz-zə'm) və الظأب (əz-zə'b) eyni mənadadır. Allah daha yaxşı bilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:15:48.931Z"
+}

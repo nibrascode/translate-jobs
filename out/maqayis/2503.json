@@ -1,0 +1,17 @@
+{
+ "i": 2503,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طلخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 418,
+  "page_to": 418
+ },
+ "ar": "الطاء واللام والخاء ليس بشئ، وذكروا فيه كلمةً كأنَّها مقلوبة. قال الخليل: الطَّلْخ: اللَّطْخ (٣) بالقَذَر. ويقال الغِرْيَن الذى يبقى فى أسفل الحوض.",
+ "az": "[طلخ] الطاء (ta), اللام (lam) və الخاء (xa) bir şey deyildir, onda çevrilmiş kimi bir kəlimə zikr etmişlər. Xəlil demişdir: الطَّلْخ (ət-təlx): çirk ilə اللَّطْخ (lətx - ləkələməkdir). Deyilir ki, hovuzun dibində qalan çöküntüdür.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:09:04.544Z"
+}

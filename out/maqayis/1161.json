@@ -1,0 +1,17 @@
+{
+ "i": 1161,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 229,
+  "page_to": 230
+ },
+ "ar": "الخاء والواو والعين أصلٌ يدلُّ على نَقْص ومَيَل. يقال خوّع الشَّئَ، إذا نَقَصه. قال طرَفة:\nوجاملٍ خَوَّعَ من نِيبِه … زَجْرُ المعلَّى أُصُلاً والسَّفِيحْ (١)\nخَوَّع: نَقَص. يعنى بذلك ما يُنْحَر منها فى المَيْسِر.\nوالخَوْع: مَنعَرج الوادِى. والخُوَاع: النَّخِير. وهذا أقْيَس من قولهم إنّ الخَوْع: جبلٌ أبْيَض.",
+ "az": "«خوع»: الخاء، الواو və العين — əskilməyə və meyilliyə dəlalət edən bir əsasdır. Deyilir: «خوّع الشَّئَ» (şeyi əskiltdi, azaltdı). Tərfə demişdir: «Və qoca dəvələr dəstəsindən əskiltdi – qumar oxlarının zərbi günortadan sonra və axşamçağı (١)». «خَوَّع» (xəvvəc) — əskiltdi, yəni məysir (qumar) zamanı onlardan kəsilib kəsilən əti nəzərdə tutur. «الخَوْع» (əl-xəuc) — vadinin əyri yeri. «الخُوَاع» (əl-xuvac) — inilti, boğaz səsi. Bu, onların «əl-xəuc ağ dağdır» demələrindən daha doğru və qiyaslıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

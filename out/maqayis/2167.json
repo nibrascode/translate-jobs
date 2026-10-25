@@ -1,0 +1,17 @@
+{
+ "i": 2167,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شبث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 239,
+  "page_to": 240
+ },
+ "ar": "الشين والباء والثاء أُصَيلٌ يدل على تعلق الشئِ بالشئ.\nمن ذلك قولُهم تشبّثْت، أى تعلّقت. ومن ذلك الشَّبَثُ، وهى دوْيَّبة من أحْناش الأرض، كأنها تشبَّثت بما مرَّت. والجمع شِبْثَانٌ. قال:\nمدارجُ شِبْثانٍ لهنَّ هميمُ (١)\nأى دبيب.",
+ "az": "«شبث»: الشين والباء والثاء أُصَيلٌ يدل على تعلق الشئِ بالشئ (Şin, ba və sə hərflərindən ibarət kiçik kök olub bir şeyin digər şeydən yapışıb asılı qalmasını bildirir).\nمن ذلك قولُهم تشبّثْت (Ondandır onların bu sözü: Yapışdım, yapışıb qaldım), أى تعلّقت (yəni asılı qaldım). ومن ذلك الشَّبَثُ، وهى دوْيَّبة من أحْناش الأرض (Ondandır əş-şəbəş – bu yerin zəhərli həşəratlarından kiçik bir canlıdır), كأنها تشبَّثت بما مرَّت (elə bil o, yanından keçdiyi hər şeydən yapışır). والجمع شِبْثَانٌ (Cəmi şibtan olur). قال (Şair demişdir):\nمدارجُ شِبْثانٍ لهنَّ هميمُ (١)\n(Şibtanların gedib-gəldiyi yollar ki, onların xışıltılı səsi vardır)\nأى دبيب (yəni asta yerimək səsi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:06.969Z"
+}

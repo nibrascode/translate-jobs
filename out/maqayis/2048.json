@@ -1,0 +1,17 @@
+{
+ "i": 2048,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 175,
+  "page_to": 175
+ },
+ "ar": "الشين والميم أصلٌ واحد يدلُّ على المقارَبة والمداناة. تقول شَممت الشئَ فأنا أشُّمه (٣). والمشامَّة: المفاعلة من شاممته، إذا قاربتَه ودنوتَ منه. وأشمَمْتُ فلاناً الطيبَ. قال الخليل: تقول للوالى: أشمِمنى يدَكَ، وهو أحسنُ من قولك: ناوِلْنى يدَك. وأمَّا الشمم فارتفاعٌ فى الأنف، والنعت منه الأشمُّ؛ فى الظاهر كأنه بعيدٌ من الأصل الذى أصَّلناه، وهو فى المعنى قريبٌ، وذلك أنه إذا كان مرتفعَ قصبة الأنف كان أدنى إلى ما يريد شَمَّهُ. ألا تراهم يقولون: [آنفُهمْ (٤)] تنال الماء قبل شفاههم. وإذا كان هذا كذا كان منه أيضاً ما حُكى عن أبى عمرو: أَشمَّ فلانٌ، إذا مرّ رافعاً رأسه. وعرضت عليه كذا فإذا هو مُشِمٌّ (٥). وبينا هُمْ فى وجهٍ أشَمُّوا، أى عدَلوا؛ لأنه إذا باعدَ شيئاً قاربَ غيره، وإذا أشمَّ عن شئ قاربَ غيره، فالقياسُ فيه غير بعيد.",
+ "az": "[شم]. الشين والميم أصلٌ واحد يدلُّ على المقارَبة والمداناة (şin və mim hərfləri yaxınlaşmağa və yanaşmağa dəlalət edən bir səhih kökdür). تقول شَممت الشئَ فأنا أشُّمه (٣) (Deyirsən: şəmmətü-ş-şəyə fə-ənə əşümmü-hü — bir şeyi iylədim, mən də onu iyləyirəm). والمشامَّة: المفاعلة من شاممته، إذا قاربتَه ودنوتَ منه (Əş-müşəmməh — şamamətühü sözünün qarşılıqlı formasıdır, o da ona yaxınlaşmağın və ona tərəf gəlməyin mənasındadır). وأشمَمْتُ فلاناً الطيبَ (Filankəsə ətir iylətdim). قال الخليل (əl-Xəlil demişdir): تقول للوالى: أشمِمنى يدَكَ، وهو أحسنُ من قولك: ناوِلْنى يدَك (Hakimə deyirsən: əşmimni yədək – əlini mənə iylət; bu, «nəvilni yədək – əlini mənə ver» deməkdən daha gözəldir). وأمَّا الشمم فارتفاعٌ فى الأنف، والنعت منه الأشمُّ (Əş-şəməmə gəldikdə o, burunun hündür olmasıdır, sifəti isə aşəmmdir); فى الظاهر كأنه بعيدٌ من الأصل الذى أصَّلناه، وهو فى المعنى قريبٌ (zahirdə o, təməl qoyduğumuz kökdən uzaq görünür, lakin mənada yaxındır). وذلك أنه إذا كان مرتفعَ قصبة الأنف كان أدنى إلى ما يريد شَمَّهُ (Çünki burun sümüyü hündür olduqda o, iyləmək istədiyi şeyə daha yaxın olur). ألا تراهم يقولون: [آنفُهمْ (٤)] تنال الماء قبل شفاههم (Məgər görmürsən ki, onlar deyirlər: onların burunları dodaqlarından əvvəl suya çatır). وإذا كان هذا كذا كان منه أيضاً ما حُكى عن أبى عمرو: أَشمَّ فلانٌ، إذا مرّ رافعاً رأسه (Əgər belədirsə, Əbu Əmrdən rəvayət edilən bu söz dəandandır: filankəs aşəmmə – başını qaldıraraq keçdi). وعرضت عليه كذا فإذا هو مُشِمٌّ (٥) (Ona filan şeyi təklif etdim, bir də gördüm ki, o, müşimmdir [hazır vəziyyətdədir]). وبينا هُمْ فى وجهٍ أشَمُّوا، أى عدَلوا؛ لأنه إذا باعدَ شيئاً قاربَ غيره، إذا أشمَّ عن شئ قاربَ غيره، فالقياسُ فيه غير بعيد (Onlar aşəmmudular, yəni üz çevirdilər; çünki o, bir şeyi uzaqlaşdırdıqda digərinə yaxınlaşır, bir şeydən üz döndərdikdə başqasına yaxınlaşır, buna görə də buradakı qiyas uzaq deyildir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:50:19.097Z"
+}

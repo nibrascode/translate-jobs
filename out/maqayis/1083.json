@@ -1,0 +1,17 @@
+{
+ "i": 1083,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خشف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 183,
+  "page_to": 183
+ },
+ "ar": "الخاء والشين والفاء يدلُّ على الغُموض والسَّتْر وما قارب ذلك. فالخُشَّاف: طائرُ الليل، معروف (٢). والمِخْشَف: الرّجل الجَرئُ على اللّيل. ويقال خَشَفَ يَخْشِفُ خُشُوفاً، إذا ذهَبَ فى الأرض وهو قياس الباب.\nوالأخْشَف: البعير الذى غطَّى جلدَه الجربُ؛ لأنّه إذا غطَّاه فقد سَتَره. وسيف خَشِيفٌ: ماضٍ، فى ضريبَتِه غُموضٌ (٣). والخشْفَة: الصَّوت ليس بالشديد.\nومما شذَّ عن الأصل الخَشُف: وهُوَ الغزَال. وهو صحيح. ويقولون - واللّه أعلم - إنَّ الخشيف الثّلج ويبيس الزَّعفَران (٤). وخشَفْت رأسَه بالحجر، إذا فضخْته. فإنْ كان هؤلاء الكلماتُ الثّلاثُ صحيحةً فقياسُها قياسٌ آخر، وهو من الهَشْمِ والكَسْر.",
+ "az": "[خشف] (خ, ش, ف): Qeyri-müəyyənliyə, örtülməyə və ona yaxın olan şeylərə dəlalət edir. الخُشَّاف (əl-xuşşaf) - gecə quşudur, məlumdur (٢). وَالمِخْشَف (əl-mixşəf) - gecə vaxtı cəsur olan kişidir. خَشَفَ يَخْشِفُ خُشُوفاً (xəşəfə yəxşifu xuşufən) - yerə doğru gedib ittiyi zaman deyilir ki, bu da bölmənin ölçüsüdür.\nوَالأَخْشَف (əl-əxşəf) - dərisini uyuz örtmüş dəvədir; çünki onu örtdükdə, demək ki, onu örtmüşdür. سيف خَشِيف (seyfun xəşifun) - kəsici, çalığında qeyri-müəyyənlik olan qılıncdır. وَالخَشْفَة (əl-xəşfə) - güclü olmayan səsdir.\nƏsasdan istisna olanlara gəldikdə: الخَشُف (əl-xəşuf) - ceyrandır. Bu səhihdir. Deyirlər ki - Allah bilir - الخشيف (əl-xəşif) - qar və quru zəfərandır (٤). وَخَشَفْتُ رَأْسَهُ بِالحَجَرِ (xəşəftü rəəsuhü bi əl-həcər) - daşla onun başını yardığım zaman deyilir. Əgər bu üç söz səhihdirsə, onların ölçüsü başqa bir ölçüdür, bu da əzmək və qırmaq mənasındandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

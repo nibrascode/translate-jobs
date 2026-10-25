@@ -1,0 +1,17 @@
+{
+ "i": 670,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 469,
+  "page_to": 470
+ },
+ "ar": "الجيم واللام والباء [أصلان]: أحدهما الإتيان بالشئ من موضعٍ إلى موضع، والآخر شئٌ يغَشِّى شيئا.\nفالأوّل قولهم جَلَبْت الشئَ جلبا. قال:\nأُتيح له من أرضِهِ وسمائه … وقد تَجلُبُ الشئَ البعيدَ الجوالِبُ (٢)\nوالجَلَب الذى نُهى عنه فى الحديث: أن يَقْعُد السَّاعِى عن إتيان أرباب الأموال فى مياههم لأخذ الصدقات، لكن يأمرُهم بجلْب نَعَمهم، فيأخذ الصدقاتِ حينئذ. ويقال بل ذلك فى المسابقة، أن يهيِّئ الرجل رجلاً يُجَلِّب على فرسه عند الجرى فيكون أسرعَ لمن يُجَلَّبُ عليه (٣).\nوالأصل الثانى: الجُلْبة، جلدةٌ تجعل على القَتَب. والجُلْبة القِشْرة على الجرْح إذا بَرَأَ. يقال جلَبَ الجُرْحُ وأَجْلَبَ. وجُلْبُ الرَّحْلِ عيدانُهُ (٤)؛ فكأنه سمِّى بذلك على القرْب. والجَلْب: سَحابٌ * يعترضُ رقيقٌ، وليس فيه ماءٌ (٥).\nقال أبو عَمرو: الجُلبَة (٦) السحاب الذى كأنه جبل، وكذلك الجُلْب. وأنشد:\nولستُ بجِلْب جِلْبِ ريحٍ وقِرَّةٍ … ولا بصَفاً صَلْدٍ عن الخيرِ مَعْزِلِ (١)\nومن هذا اشتقاق الجِلباب، وهو القميص، والجمع جلابيب. وأنشد:\nتمشى النُّسورُ إليه وهى لاهية … مَشْىَ العذَارَى عليهن الجلاليبُ (٢)\nيقول: النسور فى خلاءٍ ليس فيه شئٌ يَذْعَرُها، فهى آمنةٌ لا تَعْجَل.",
+ "az": "[جلب] — Cəim, lam və ba [iki əsas mənadır]: biri bir şeyi bir yerdən başqa bir yerə gətirmək, diğeri isə bir şeyi bürüyən başqa bir şeydir. Birincisi, onların «جَلَبْت الشئَ جلبا» (Bir şeyi sürükləyib/gətirib gətirdim) sözüdür. Demişdir: «أُتيح له من أرضِهِ وسمائه … وقد تَجلُبُ الشئَ البعيدَ الجوالِبُ» (٢) (Ona yerindən və səmasında nəsib olundu, uzaq şeyləri isə gətirənlər gətirirlər). Hədisdə qadağan olunan «الجَلَب» - vergi yığanın mədaxil sahiblərinin su hövzələrinə gələrək sədəqə almasından yayınıb, onlardan mal-qaranı öz yanına gətirmələrini əmr etməsi, sonra isə həmin vaxt sədəqələri almasıdır. Deyilir ki, bu, həmçinin yarışda da olur: bir nəfərin başqa birini hazırlaması ki, at qaçarkən onun atı arxasından səsləyib qaçışdırsın və beləcə təqib olunan at üçün daha sürətli olsun (٣). İkinci əsas: «الجُلْبة» - palanın üzərinə qoyulan dəri. «الجُلْبة» - sağaldıqdan sonra yaranın üzərini örtən qabıq. Deyilir: «جلَبَ الجُرْحُ وأَجْلَبَ» (Yara qabıq bağladı). «جُلْبُ الرحل» - onun ağaclarıdır (٤); sanki bu adı yaxınlığına görə almışdır. «الجَلْب» - nazik, içində su olmayan, göydə üzən buluddur (٥). Əbu Əmr demişdir: «الجُلْبَة» (٦) - dağa bənzər buluddur, həmçinin «الجُلْب» də belədir. Şeir söyləmişdir: «ولستُ بجِلْب جِلْبِ ريحٍ وقِرَّةٍ … ولا بصَفاً صَلْدٍ عن الخيرِ مَعْزِلِ» (١) (Mən külək və soyuq buludu deyiləm, xeyirdən təcrid olunmuş sərt qaya da deyiləm). «الجِلباب» sözünün kökü də buradan götürülmüşdür, o da köynəkdir, cəmi «جلابيب» gəlir. Şeir söyləmişdir: «تمشى النُّسورُ إليه وهى لاهية … مَشْىَ العذَارَى عليهن الجلاليبُ» (٢) (Qartallar heç nədən qorxmadan onun yanına gəzirlər, üzərlərində gilbablar olan bakirə qızların gəzişi kimi). Deyir ki: qartallar onları qorxudacaq bir şeyin olmadığı boş bir yerdədirlər, ona görə də amandadırlar, tələsmirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:30.556Z"
+}

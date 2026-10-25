@@ -1,0 +1,17 @@
+{
+ "i": 1227,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دره",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 271,
+  "page_to": 271
+ },
+ "ar": "الدال والراء والهاء وليس أصلاً؛ لأن الهاء مبدلة من همزة.\nيقال: دَرَأ أى طلع، ثم يقلب هاءً؛ فيقال دَرَهَ. والمِدْرَه: لسان القوم والمتكلِّم عنهم",
+ "az": "[دره] (Dərə): Dal, ra və ha hərflərindən ibarətdir, əsl kök deyil; çünki ha hərfi həmzənin əvəzinə gəlmişdir.\nDَرَأ (dəra) — çıxdı, sonra ha hərfinə çevrilərək دَرَهَ (dərəhə) deyilir. المِدْرَه (midrəh) — tayfanın dili (sözçüsü) və onların adından danışan şəxs.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:45.024Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2259,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 286,
+  "page_to": 287
+ },
+ "ar": "الصاد والعين والباء أصلٌ صحيح مطَّرد، يدلُّ على خِلاف السهولة. من ذلك الأمر الصَّعْب: خلاف الذَّلول. يقال صُعبَ يصعُب صُعوبةً.\nويقال أصعَبْتُ الأمر: ألفَيتُه صعباً.\nومن الباب المُصعَب، وهو الفَحل؛ وسمِّى بذلك لقُوَّته وشدّته. ويقال أصْعَبنا الجمل، إذا تركناه فلم نركبْه. وذُكر أنَّهم يقولون: أصعبْتُ النّاقة، إذا تركتَها فلم تَحمِل عليها. وهذه استعارة. وفى الرَّمْل مَصاعِبُ.",
+ "az": "[صعب] الصاد والعين والباء أصلٌ صحيح مطَّرد، يدلُّ على خِلاف السهولة (الصاد, əyn və ba hərfləri asanlığın ziddinə dəlalət edən səhih, mütərrəd bir əsasdır). من ذلك الأمر الصَّعْب: خلاف الذَّلول (Ondandır çətin iş: ram olanın ziddi). يقال صُعبَ يصعُب صُعوبةً (Deyilir suuba - yasubu - suubətən). ويقال أصعَبْتُ الأمر: ألفَيتُه صعباً (Və deyilir: əs'əbtul-əmr: işi çətin tapdım). ومن الباب المُصعَب، وهو الفَحل؛ وسمِّى بذلك لقُوَّته وشدّته (Və bu fəsildəndir əl-mus'ab, o da erkək dəvədir; gücünə və şiddətinə görə belə adlandırılmışdır). ويقال أصْعَبنا الجمل، إذا تركناه فلم نركبْه (Və deyilir: dəvəni tərk etdiyimiz və ona minmədiyimiz zaman əs'əbnəl-cəmələ deyirik). وذُكر أنَّهم يقولون: أصعبْتُ النّاقة، إذا تركتَها فلم تَحمِل عليها (Və zikr edilmişdir ki, onlar deyirlər: dəvəni tərk etdiyin və ona yük vurmadığın zaman əs'əbtun-naqətə deyirsən). وهذه استعارة (Bu isə məcazdır). وفى الرَّمْل مَصاعِبُ (Qumda isə məsasib - çətin yerlər vardır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:03.201Z"
+}

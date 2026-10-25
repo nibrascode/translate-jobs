@@ -1,0 +1,17 @@
+{
+ "i": 2004,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سحن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 141,
+  "page_to": 142
+ },
+ "ar": "السين والحاء والنون ثلاثة أصول: أحدها الكسر، والآخَر اللَّون والهيئة، والثالث المخالطة.\nفالأوّل قولهم: سحنَتْ الحجر، إذا كسرتَه. والمِسْحنة، هى التى تُكسَر بها الحجارة، والجمع مَساحن. قال الهذلىّ (٤):\nكما صَرفَتْ فوق الجُذَاذ المساحنُ (٥)\nوالأصل الثانى: السَّحنة: لِينُ البَشَرة. والسَّحناء: الهيئة. وفرسٌ مُسْحَنَة (١) أى حسنة المنظر. وناسٌ يقولون: السَّحَناء على فَعَلاء بفتح العين، كما يقولون فى ثأْداء ثَأَداء (٢). وهذا ليس بشئ، ولا له قياس، إنّما هو ثأْدَاء وسَحْناء على فعلاء.\nوأما الأصل الثالث فقولهم: ساحَنتُك مساحنةً، أى خالطتُك وفاوضتُك.",
+ "az": "«سحن» (səhn - qırmaq, dəri rəngi, qatışmaq): Sin, ha və nun üç əsas kökə malikdir: birincisi, sındırmaq; ikincisi, rəng və görkəm; üçüncüsü isə qarışmaqdır. Birincisinə gəldikdə, onların «سَحْنتُ الحجر» (daşı sındırdın) deməsidir. «المِسْحنة» daşların sındırıldığı alətdir, cəmi isə «مَساحن» gəlir. Hüzəli şair demişdir (٤): «كما صَرفَتْ فوق الجُذَاذ المساحنُ» (Sındırılmış daş parçaları üzərində alətlərin hərəkət etdiyi kimi) (٥). İkinci əsas: «السَّحنة» dərinin yumşaqlığıdır. «السَّحناء» isə xarici görkəmdir. «فرسٌ مُسْحَنَة» — yəni görkəmi gözəl olan at (١). Bəzi insanlar deyirlər: «السَّحناء» «فَعَلاء» vəznindədir, hərfi «eyn» üstünlə oxunur, necə ki «ثأْداء» sözünü «ثَأَداء» deyirlər (٢). Bu isə heç bir əsası yoxdur və heç bir qaydaya tabe deyil; əslində isə «فَعلاء» vəznində «ثأْدَاء» və «سَحْناء» gəlir. Üçüncü əsasa gəldikdə, onların «ساحَنتُك مساحنةً» (səninlə qarışdım və ünsiyyətdə oldum) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:57.042Z"
+}

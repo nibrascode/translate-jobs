@@ -1,0 +1,17 @@
+{
+ "i": 1507,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 406,
+  "page_to": 406
+ },
+ "ar": "الراء والعين والكاف كلمةٌ واحدة. يقولون: الرّاعك من الرجال: الأحمَق.",
+ "az": "[رعك] (ر ع ك). Tək bir kəlmədir. Deyirlər ki, kişilərdən olan الرَّاعِك (ar-raik) – axmaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

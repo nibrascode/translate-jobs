@@ -1,0 +1,17 @@
+{
+ "i": 1666,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رتخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 486,
+  "page_to": 486
+ },
+ "ar": "الراء والتاء والخاء ليس بشئ. على أنَّهم يقولون: رَتّخَ العجينُ رَتْخاً، إذا رَقَّ. وكذلك الطِّين.",
+ "az": "[رتخ] \nالراء والتاء والخاء (ra, ta və xa) — heç bir əsası yoxdur. Lakin onlar deyirlər: رَتّخَ العجينُ رَتْخاً (xəmir durulaşdı/yumşaldı), o zaman ki, o durulaşır. Palçıq da belədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:36.371Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2499,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طله",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 416,
+  "page_to": 416
+ },
+ "ar": "الطاء واللام والهاء ليس عندى بأصل يفرع منه، ولا قياسه بذلك الصَّحيح، لكنهم يقولون: طَلَه فى البلاد، إذا ذهب، يَطْلَه طَلْهاً. ويقولون الطُّلْهة: القليل من الكلام. ويقال الطُّلْهة: الأسمال من الثِّياب؛ يقال: تَطَلَّهْ هذا [الخَلَق (٢)] حتَّى تَسْتَجِدَّ غيرَه",
+ "az": "[طله] الطاء (ta), اللام (lam) və الهاء (ha) mənim yanımda şaxələnən bir kök deyildir və onun qiyası da o qədər düzgün deyil, lakin deyirlər ki, طَلَه (tələhə) ölkədə, yəni getdi, طَلْهاً (təlhən) gedir. Deyirlər ki, الطُّلْهة (ət-tulhə): az danışıqdır. Deyilir ki, الطُّلْهة (ət-tulhə): köhnə paltarlardır; deyilir: تَطَلَّهْ هذا [الخَلَق (2)] حتَّى تَسْتَجِدَّ غيرَه (Bu köhnəni geyin, ta ki yenisini əldə edənə qədər).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:09:04.543Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1616,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "روز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "الراء والواو والزاء كلمةٌ واحدة، وهى تدلُّ على اختبار وتجريب. يقال رُزْت الشّئَ أَرُوزُه، إذا جرَّبْتَه.",
+ "az": "[روز] (Rə, vau və zay) — tək bir söz olub sınaqdan keçirməyə və təcrübə etməyə dəlalət edir. Deyilir: «رُزْت الشّئَ أَرُوزُه» (şeyi sınaqdan keçirdim), yəni onu təcrübə etdin.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:33:59.185Z"
+}

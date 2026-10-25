@@ -1,0 +1,17 @@
+{
+ "i": 1920,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 102,
+  "page_to": 102
+ },
+ "ar": "السين والميم والعين أصلٌ واحد، وهو إيناسُ الشئ بالأُذُن، من النّاس وكلِّ ذى أُذُن. تقول: سَمِعْت الشئ سَمْعاً. والسَّمع: الذُكْر الجميل.\nيقال قد ذَهَب سَمِعْهُ فى الناس، أى صِيته. ويقال سَمَاعِ بمعنى استمِعْ. ويقال سَمَّعْتُ بالشئ، إذا أشعتَه ليُتَكلَّم به. والمُسْمِعَة: المُغَنِّيَة. والمِسْمَع: كالأذن للغَرْب، وهى عُروةٌ تكون فى وسط الغَرْبِ يُجعَل فيها حبلٌ ليعدل الدّلو: قال الشاعر:\nونَعدِل ذا المَيْل إن رامَنا … كما عُدِل الغَربُ بالمِسمعِ (١)\nومما شذّ عن الباب السِّمْع: ولد الذّئب من الضّبُع.",
+ "az": "[سمع] (sin, mim və eyn) — tək bir əsasdır, o da insanlardan və hər bir qulağı olan canlıdan bir şeyin qulaq vasitəsilə eşidilməsidir. «سَمِعْت الشئ سَمْعاً» (Bir şeyi eşitdim) deyirsən. «السَّمع» — gözəl xatirədir. Deyilir ki, insanların içində onun «سَمِعْهُ» (şöhrəti) gedib, yəni adı yayılıb. «سَمَاعِ» — eşit mənasında işlədilir. «سَمَّعْتُ بالشئ» — onu insanların danışması üçün yaydın, deməkdir. «المُسْمِعَة» — qadın müğənnidir. «المِسْمَع» — dəri su qırxasının qulağına bənzər bir şeydir, o, su qırxasının ortasında olan və vedrəni balanslaşdırmaq üçün ip keçirilən bir halqadır. Şair demişdir: «ونَعدِل ذا المَيْل إن رامَنا … كما عُدِل الغَربُ بالمِسمعِ» (١) (Əgər bu əyrilik bizə yönəlsə, biz onu düzəldərik... necə ki, su qırxası misməklə düzəldilir). Bu qapıdan istisna olan «السِّمْع» — canavar ilə qaplanın (və ya kaftarın) balasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.159Z"
+}

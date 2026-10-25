@@ -1,0 +1,17 @@
+{
+ "i": 700,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 486,
+  "page_to": 486
+ },
+ "ar": "الجيم والنون والسين أصلٌ واحد وهو الضَّربُ مِنْ الشَّئ.\nقال الخليل: كلُّ ضربٍ جِنْس، وهو من النَّاس والطَّير والاشياء جملة. والجمع أجْنَاس. قال ابن دريد: وكان الأصمعىّ يدفع قولَ العامّة: هذا مُجانِسٌ لهذا.\nويقول: ليس بعربىٍّ صحيح. وأنا أقول: إنّ هذا غَلَط على الأصمعىّ؛ لأنه الذى وضع كتاب الأجناس، وهو أوّل من جاء بهذا اللَّقب فى اللُّغة.",
+ "az": "[جنس] \nCim, nun və sin hərfləri bir əslə qayıdır ki, o da bir şeyin növü və qismidir.\nXəlil demişdir: Hər bir növ جِنْس (cins) adlanır, bu, insanlara, quşlara və bütün əşyalara şamildir. Cəmi أجْنَاس (əcnas) gəlir. İbn Dürid demişdir: Əsməi avamın «هذا مُجانِسٌ لهذا» (bu, buna cinsdəşdir/bənzərdir) sözünü qəbul etməzdi.\nVə deyərdi: Bu, saf ərəb dili deyil. Mən isə deyirəm ki, bu, Əsməiyə qarşı bir xətadır; çünki «الأجناس» (Cinslər) kitabını yazan məhz odur və dildə bu ləqəbi ilk gətirən də odur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.502Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 435,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ترك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 345,
+  "page_to": 346
+ },
+ "ar": "التاء * والراء والكاف: الترك التخلية عن الشَّيء، وهو قياسُ الباب، ولذلك تسمَّى البَيْضَةُ بالعراءِ تريكة. قال الأعشَى:\nويَهْماءَ قَفْرٍ تَأْلَهُ العْينُ وسْطَها … وتَلْقَى بها بَيْضَ النَّعامِ ترائِكا (٣)\nوتَرْكَةُ السِّلاح، وهى البيضة، محمولٌ على هذا ومشبَّهٌ به، والجمع تَرْكٌ.\nقال لبيد:\nفخمة ذفراء تُرْتَى بالعُرَى … قُرْدُمانِيًّا وتَرْكَا كالبَصَلْ (٤)\nوتَرَاكِ بمعنى اتْرُكْ. قال:\nتَرَاكِها مِنْ إبلٍ تَرَاكِها … أما تَرَى الموتَ لدى أوراكِها (١)\nوتَرِكَةُ الميِّت: ما يتْرُكُه من تُراثِه. والتّريكة رَوْضةٌ (٢) يُغْفِلُها النّاسُ فلا يَرْعَوْنها. وفى الكتاب المنسوب إلى الخليل: يقال ترَكْتُ الحبْلَ شديداً، أى جعلتُه شديداً. وما أحْسَبُ هذا من كلام الخليل.",
+ "az": "[ترك] (tə-rə-k). Ta, ra və kaf: et-tərk — bir şeyi tərk etmək, buraxmaqdır və bu, bu fəslin əsasıdır. Məhz buna görə də dəvəquşu yumurtasına çöldə qaldığı üçün tərəykə (təriqə) deyilir. Ə-Şair demişdir: Və elə səhra və susuz çöl ki, göz onun ortasında heyran qalar... Və orada dəvəquşusu yumurtalarını tərk edilmiş halda taparsan (3). Silahın tərkəsi, yəni dəbilqə, bundan götürülmüş və ona bənzədilmişdir; cəmi: تَرْك (tərk). Ləbid demişdir: Əzəmətli, iyli, qayışlarla bağlanılan... (4). Və اتْرُكْ (itruk) mənasında تَرَاكِ (təraki). [Şair] demişdir: Tərakihə min ibilin tərakihə... Məgər görmürsənmi ölümü onun budları yanında (1)? Meyitin tərəkəsi: irs olaraq buraxdığı maldır. Və et-təriqə — insanların diqqətsiz qoyduğu və otlaq kimi istifadə etmədikləri çəmənlikdir (2). Xəlilə nisbət edilən kitabda deyilir: ترَكْتُ الحبْلَ شديداً (tərəktu-l-həblə şədidan) — yəni ipi möhkəm etdim. Mən bunun Xəlilin sözlərindən olduğunu güman etmirəm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1042,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خدف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 162,
+  "page_to": 162
+ },
+ "ar": "الخاء والدال والفاء أصلٌ واحد. قال ابن دريد (٢):\n«الخَدْف السُّرْعة فى المشْى، ومنه اشتقاق خِنْدِفَ».",
+ "az": "«خدف» (خ، د، ف) — tək bir əsas prinsipdir. İbn Dürid demişdir (2): «Əl-Xədf — gəzməkdə sürətdir, خِنْدِفَ (Xindif) sözünün etimologiyası bundan götürülmüşdür».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

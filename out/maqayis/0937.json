@@ -1,0 +1,17 @@
+{
+ "i": 937,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حلك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 100,
+  "page_to": 100
+ },
+ "ar": "الحاء واللام والكاف حرفٌ يدلّ على السّواد. يقال «هو أشدُّ سواداً من حَلَك الغراب» يقال: هو سواده ويقال هو أسودُ حُلكُوك.",
+ "az": "«حلك» (hələk): الحاء واللام والكاف حرفٌ يدلّ على السّواد (Hə, lam və kaf qara rəngə dəlalət edən bir hərfdir). يقال «هو أشدُّ سواداً من حَلَك الغراب» («O, qarğanın hələkindən daha qaradır» deyilir), يقال: هو سواده (deyilər: o, onun qaranlığıdır) vе يقال هو أسودُ حُلكُوك (və o, qapqaradır deyilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:59.121Z"
+}

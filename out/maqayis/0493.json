@@ -1,0 +1,17 @@
+{
+ "i": 493,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 367,
+  "page_to": 367
+ },
+ "ar": "الثاء والجيم أصلٌ واحد، وهو صبُّ الشئِ. يقال ثَجَّ الماءَ إذا صَبَّه؛ وماءٌ ثَجّاجٌ أى صَبّابٌ. قال اللّه تعالى: ﴿وَأَنْزَلْنا مِنَ اَلْمُعْصِراتِ ماءً ثَجّاجاً﴾، يقال اكتظَّ الوادِى بثجيج الماء، إذا بلغ ضَرِيرَيْه (١). قال أبو ذؤيب:\nسقى أمَّ عَمرٍو كلَّ آخِرِ لَيلةٍ … حَناتِمُ مُزْنٍ ماؤُهُنَّ ثَجيجُ (٢)\nو\nفى الحديث: «أفضَلُ الحَجِّ العجُّ والثَّجّ». فالعجُّ رفْعُ الصَّوتِ بالتَّلبية.\nوالثَّجُّ سَيَلانُ دِماءِ الهَدْى. ومنه\nالحديثُ فى المستحاضة: «إنى أثُجُّه ثَجًّا».",
+ "az": "«ثج»: الثاء və الجيم bir əslə malikdir, o da bir şeyi tökməkdir. Deyilir: ثَجَّ الماءَ — suyu tökdü; və (ماءٌ ثَجّاجٌ) — bolluca axan, tökülən deməkdir. Uca Allah buyurmuşdur: ﴿وَأَنْزَلْنا مِنَ اَلْمُعْصِراتِ ماءً ثَجّاجاً﴾، mənaca tərcümə: «Sıxılıb su tökən buludlardan şırıltı ilə axan su endirdik». Deyilir ki, dərə suyun axını ilə dolub daşdı, nə vaxt ki, onun iki kənarına (yaxud gur yerinə) çatdı (١). Əbu Züeyb demişdir: سقى أمَّ عَمرٍو كلَّ آخِرِ لَيلةٍ … حَناتِمُ مُزْنٍ ماؤُهُنَّ ثَجيجُ (٢) (Hər gecənin sonunda Ümmü Əmrə suvarırdı... elə yağmur küpləri ki, onların suyu şırıltı ilə axır). Və hədisdə: «أفضَلُ الحَجِّ العجُّ والثَّجّ» (Həccin ən fəzilətlisi səslə ləbbəy demək və qurbanlıqların qanını axıtmaqdır). Və (العجّ) — təlbiyə oxuyarkən səsi ucaltmaqdır. Və (الثَّجّ) — qurbanlıq heyvanların qanının axmasıdır. Və bundan irəli gələrək heyzli qadın haqqında hədisdə gəlmişdir: «إنى أثُجُّه ثَجًّا» (Həqiqətən, mən onu gur axıdıram).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.272Z"
+}

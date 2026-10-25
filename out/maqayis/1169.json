@@ -1,0 +1,17 @@
+{
+ "i": 1169,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خيص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 233,
+  "page_to": 233
+ },
+ "ar": "الخاء والياء والصاد كلمةٌ. مشترَكة أيضاً؛ لأنَّ للواوِ فيها حَظًّا (١)، وقد ذكرت فى الخوص. فأمّا الياء فالخَيْصُ: النَّوالُ القَليل. قال الأعشى:\nلَعَمرِى لئن أمْسى من الحىِّ شاخِصاَ … لقد نالَ خَيْصاً من عُفَيرَةَ خائصا (٢)\nوالباب كلُّه فى الواو والياء واحدٌ\nومن الشاذّ - واللّه أعلم بصحّته - قولُهم وَعِلٌ أخْيَصُ، إذا انتصَبَ أحدُ قَرنَيه وأقْبلَ الآخَر على وجهه.",
+ "az": "«خيص»: الخاء، Yə və الصاد — ortaq bir kəlmədir; çünki vav hərfinin də onda payı vardır və o, «خوص» (xus) maddəsində zikr edilmişdir. Ya hərfinə gəldikdə, «الخَيْصُ» (əl-xəis) — az bəxşişdir. Aşa demişdir: «And olsun ki, əgər tayfadan olan filankəs yoxa çıxsa, Əfəyrənin xaisindən az bir bəxşiş əldə etmişdir (٢)». Bütün bu bölmə vav və ya hərflərində eynidir. Şaz olanlardan isə — onun səhih olmasını Allah bilir — onların «وَعِلٌ أخْيَصُ» (biri ucalıb, digəri üzünə tərəf yönəlmiş buynuzlu dağ keçisi) demələridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.574Z"
+}

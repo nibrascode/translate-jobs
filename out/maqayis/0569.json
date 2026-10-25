@@ -1,0 +1,17 @@
+{
+ "i": 569,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثرمط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 403,
+  "page_to": 404
+ },
+ "ar": "ومن ذلك (الثُّرمطة (٤)) وهى اللَّثَق والطِّين. وهذا منحوتٌ من كلمتين\nمن الثَّرْط والرَّمْط، وهما اللَّطخ. يقال ثُرِط فلانٌ إذا لُطِخ بعَيْب. وكذلك رَمِط.",
+ "az": "«ثرمط»\nBunlardan biri də (الثُّرمطة) – palçıq və yapışqan şeydir. Bu, ləkələmək mənasını verən iki sözdən – «əs-sərt» və «ər-rəmt» sözlərindən qondarılmadır. Deyilir ki, filankəs eyiblə ləkələndikdə «ثُرِطَ فلانٌ» (suritə fülânün) deyilər. Eynilə «رَمِطَ» (rəmitə) də belədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:43:21.035Z"
+}

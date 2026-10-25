@@ -1,0 +1,17 @@
+{
+ "i": 2217,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 259,
+  "page_to": 259
+ },
+ "ar": "الشين والراء والسين أصلٌ قريب من الذى قبله. من ذلك الشَّرْس: شدّة الدّعْك للشّئ. يقال شرَسْتُه شَرساً. والشّرِيس:\nالشَّكِس الكثير الخِلاف (٢). ويقال تشارَسَ القومُ، إِذا تعادَوا (٣). ويقال إنّ الشَّرْس نبتٌ بَشِع الطّعم. والأشرس: الرّجُل الجرئ على القتال. ويقال إن الشِّراس الرِّباق (٤).",
+ "az": "«شرس» (şərs). Şin, ra və sin köklü əsas özündən əvvəlkiyə yaxın bir mənadadır. Bunlardandır: «الشَّرْسُ» (əş-şərs) – bir şeyi şiddətlə sürtmək, ovxalamaq. Deyilir: «شَرَسْتُهُ شَرْساً» (onu şiddətlə sürtdüm). «الشَّرِيسُ» (əş-şəris) – inadkar, çox müxalifət edən (2). Deyilir: «تَشارَسَ القومُ» (qövm bir-birinə düşmən kəsildi) (3). Həmçinin deyirlər ki, «əş-şərs» acı dadlı bir bitkidir. «الأَشْرَسُ» (əl-əşrəs) – döyüşdə cəsur olan kişidir. Deyilir ki, «الشِّراسُ» (əş-şiras) – heyvanı bağlamaq üçün ipdir (4).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.965Z"
+}

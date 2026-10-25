@@ -1,0 +1,17 @@
+{
+ "i": 1554,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رقص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 428,
+  "page_to": 429
+ },
+ "ar": "الراء والقاف والصاد أصلٌ يدلُّ على النَّقَزَان (٤). يقال رقَصَ يرقُصُ رَقْصاً. ويقال أرقَصَ البعيرَ: حَمَلَهُ على الخَبَب. قال جرير:\n* بِزَرُودَ أرقصت البعيرَ (٥) *\nويقال رقَص السَّراب فى لمعانه؛ ورَقَص الشَّرَاب: جاش (١). والرّقَّاصة:\nلُعْبة (٢).",
+ "az": "[رقص] (Rəqəs): Ra, qaf və sad hərfləri tullanıb-düşməyə (النَّقَزَان) dəlalət edən tək bir əsasdır. Deyilir: رقَصَ يرقُصُ رَقْصاً (rəqasə yarqusu rəqsən). Və deyilir: أرقَصَ البعيرَ (ərqasəl-bəirə) — onu xəbəb (sürətli yeriş) ilə hərəkət etməyə məcbur etdi. Cərir demişdir: \n* بِزَرُودَ أرقصت البعيرَ (٥) *\nVə deyilir: mirvari parıltısında رَقَصَ السَّراب (rəqəsas-sərab) — sərab parıldadı; və şərab qaynayıb coşdu (رَقَصَ الشَّرَاب). الرّقَّاصة (ər-raqqasə): oyuncaq, oyun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

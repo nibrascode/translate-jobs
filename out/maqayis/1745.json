@@ -1,0 +1,17 @@
+{
+ "i": 1745,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زقم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 16,
+  "page_to": 16
+ },
+ "ar": "الزاء والقاف ولليم أُصَيْلٌ يدلُّ على جِنْسٍ من الأكَلْ.\nقال الخليل: الزَّقْمُ: الفِعْل، من أكل الزِّقُّوم. والازْدِقَام: الابتلاع. وذكر ابن دريد (١) أنّ بعضَ العرب يقول: تزقّم فلانٌ اللّبن، إذا أفرطَ فى شُرْبِه.",
+ "az": "[زقم] (zəqm): Zay, qaf və mim hərfləri yemək növünə dəlalət edən kiçik bir kökdür.\nXəlil demişdir: «الزَّقْمُ» (əz-zəqm) – «الزِّقُّوم» (zəqqum) ağacının meyvəsini yemək feilidir. «الازْدِقَام» (əl-izdiqam) – udmaqdır. İbn Dürid (1) qeyd etmişdir ki, bəzi ərəblər deyirlər: «تزقّم فلانٌ اللّبن» – filankəs süd içməkdə həddi aşdıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.126Z"
+}

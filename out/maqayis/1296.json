@@ -1,0 +1,17 @@
+{
+ "i": 1296,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دمس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 300,
+  "page_to": 301
+ },
+ "ar": "الدال والميم والسين أصلٌ واحد يدلُّ على خَفاء الشّى.\nومن ذلك قولُهم: دَمَّسْتُ الشئ، إذا أخفَيْتَه. وأتانا بأُمورٍ دُمْس مثل دُبْس،\nوهى الأمور التى لا يُهْتَدَى لوَجْهها. ويقولون: دَمَس الظّلامُ: اشتدَّ. ومنه الدِّيماس، يقال إنّه السَّرَب. وهو ذلك التماس (١). و\nفى حديث عيسى ﵇:\n«كأنّمَا خَرَجِ مِنْ دِيماسٍ».",
+ "az": "[دمس] (dəm-s): Dal, mim və sin hərfləri bir əsas prinsipi göstərir ki, bu da bir şeyin gizli qalmasıdır.\nOnların bu sözü dəridəndir: «دَمَّسْتُ الشئ» (dəmməstü əş-şəy-ə) — mən onu gizlətdim. Bizə «أُمورٍ دُمْس» (umurin dums) – «دُبْس» (dubs) kimi elə işlər gətirdilər ki, onların hansı istiqamətdə olduğu bilinmir. Onlar deyirlər: «دَمَس الظّلامُ» (dəməs əz-zəlamü) — qaranlıq qatılaşdı. Buradan da «الدِّيماس» (əd-dimas) gəlir, deyilir ki, o, yeraltı yoldur. Bu da həmin gizlənəcək yerdir (١). Və İsa ﵇ hədisində gəlmişdir:\n«كأنّمَا خَرَجِ مِنْ دِيماسٍ» (mənaca tərcümə: Guya o, yeraltı sərdabədən çıxmış kimidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.834Z"
+}

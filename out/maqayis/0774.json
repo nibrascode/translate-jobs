@@ -1,0 +1,17 @@
+{
+ "i": 774,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 509,
+  "page_to": 509
+ },
+ "ar": "ومن ذلك (تَجَحْفَلَ القوم): اجتمعوا، وقولهم للجيش العظيم (جَحفَلٌ)، و (جَحْفَلة الفَرَس). وقياس هؤلاءِ الكلماتِ واحدٌ، وهو من كلمتين: من الحَفْل وهو الجَمْع، ومن الجَفْل، وهو تَجَمُّع (٢) الشئِ فى ذهابٍ. ويكون له وجه آخر: أن يكون من الجَفْل ومن الجَحْف، فإنهم يَجْحَفُون الشئَ جحفًا.\n* وهذا عندى أصوبُ القولين.",
+ "az": "«جحفل» - Və buraya «تَجَحْفَلَ القوم» (təcəhfələ əl-qövm - qövm toplandı), böyük qoşuna «جَحفَلٌ» (cəhfəl) deyilməsi və atın dodağına «جَحْفَلة الفَرَس» (cəhfələt əl-fəras) deyilməsi daxildir. Bu sözlərin qiyas ölçüsü birdir və iki sözdən ibarətdir: toplamaq mənasını verən الحَفْل (əl-həfl) və bir şeyin hərəkət edərək, gedərək toplanması mənasını verən الجَفْل (əl-cəfl). Bunun başqa bir cəhəti də ola bilər: o da الجَفْل (əl-cəfl) və الجَحْف (əl-cəhf) sözlərindən olmasıdır, çünki onlar bir şeyi ovucayıb götürürlər (yəni جَحْف - cəhf edirlər). * Bu mənim yanımda iki sözdən daha düzgün olanıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.217Z"
+}

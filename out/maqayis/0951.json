@@ -1,0 +1,17 @@
+{
+ "i": 951,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 109,
+  "page_to": 109
+ },
+ "ar": "الحاء والنون والجيم أصلٌ واحد يدلُّ على الميل والاعوجاج.\nيقال حنَجْت الحبلَ، إذا فتلْتَه؛ وهو محنوجٌ. وحنَجت الرجلَ عن الشئِ: أملتُه عنه. وأَحْنَجَ فلانٌ عن الشئ: عدَل. * فأمّا قولهم للأصل حِنْجٌ فلعلّه من باب الإبدال. وإن كان صحيحاً فقياسُه قياسٌ واحد؛ لأن كلَّ فرعٍ يميل إلى أصله ويرجع إليه.",
+ "az": "[حنج] (Həm, nun və cim): Meyl və əyilməyə dəlalət edən tək bir əsasdır. «حنَجْت الحبلَ» (ipə hənəc etdim – ipi bükdüm) deyilir, o, «محنوج» (bükülmüş) olar. «حنَجت الرجلَ عن الشئِ» (adamı şeydən hənəc etdim) – onu bundan yayındırdım, əydim. «أَحْنَجَ فلانٌ عن الشئ» (filankəs şeydən əhnəc etdi) – üz döndərdi, meyletti. Əsl mənasında «حِنْج» (hinc) sözünə gəldikdə, bəlkə də bu, əvəzlənmə (ibdal) fəslindədir. Əgər səhihdirsə, onun qiyasız tək bir qaydadır; çünki hər bir budaq öz əslinə meyl edir və ona qayıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.646Z"
+}

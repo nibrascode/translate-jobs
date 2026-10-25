@@ -1,0 +1,17 @@
+{
+ "i": 184,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بجح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 197,
+  "page_to": 198
+ },
+ "ar": "الباء والجيم والحاء كلمةٌ واحدة. يقال بَجَحَ بالشئ إذا فرِح به ويُبَجَّح بكذا. وفى حديث أمّ زَرْع: «بجّحنى فَبجَحْتُ» أى فرَّحنى ففرِحت.\nقال الراعى:\nفما الفَقْرُ من أرضِ العَشيرة ساقَنَا … إليكَ ولكِنّا بقرْباكَ نَبْجَحُ (١)",
+ "az": "«بجح» (Bəcəh)\nالباء والجيم والحاء كلمةٌ واحدة. (Bə, cim və hə — tək bir sözdür.)\nيقال بَجَحَ بالشئ إذا فرِح به ويُبَجَّح بكذا. (Deyilir: bəcəhə bi əş-şey' — bir şeyə sevindiyi zaman, və o, bununla sevindirilir.)\nوفى حديث أمّ زَرْع: «بجّحنى فَبجَحْتُ» أى فرَّحنى ففرِحت. (Ümmi Zərinin hədisində: «bəccəhəni fə bəcəhtü» — yəni məni sevindirdi, mən də sevindim.)\nقال الراعى: (Ər-Rai demişdir:)\nفما الفَقْرُ من أرضِ العَشيرة ساقَنَا … إليكَ ولكِنّا بقرْباكَ نَبْجَحُ (١)\n(Qəbilə torpağından yoxsulluq bizi sənə tərəf gətirmədi... lakin biz sənin yaxınlığınla sevinirik (١))",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:26:42.582Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2574,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طست",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 456,
+  "page_to": 456
+ },
+ "ar": "الطاء والسين والتاء ليس بشئ، إلاّ الطَّسْت، وهى معروفة.",
+ "az": "«طست» (ط، س، ت) — məlum olan طَّسْت (təşt) sözü istisna olmaqla, heç bir əsası yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:13:55.069Z"
+}

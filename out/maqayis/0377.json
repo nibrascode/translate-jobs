@@ -1,0 +1,17 @@
+{
+ "i": 377,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برقش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "ومن ذلك (البِرْقِش) وهو طائرٌ. وهو من كلمتين: من رَقَشْتُ الشَّئَ - وهو كالنَّقش - ومن البَرَش وهو اختلافُ اللونين، وهو معروفٌ.",
+ "az": "[برقش] (Bə-ra-qaf-şin) Buradan «البِرْقِش» (əl-birqiş) gəlir ki, bu bir quşdur. Bu iki kəlmədəndir: «رَقَشْتُ الشَّئَ» (rəqəštuş-şəy’ə - bir şeyi naxışladım) - bu naxış kimidir - və «البَرَش» (əl-bərəş - iki rəngin qarışığı), bu məlumdur.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

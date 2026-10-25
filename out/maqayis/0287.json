@@ -1,0 +1,17 @@
+{
+ "i": 287,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بغر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 273,
+  "page_to": 273
+ },
+ "ar": "الباء والغين والراء أصل واحد، وفيه كلمات متقاربة، فى الشّرب ومعناه. فالبغر أن يشرب الإنسان ولا يروى؛ وهو يصيب الإبل أيضا. وعيّر رجل فقيل: «مات أبوه بشما وماتت أمّه بغرا». ويقولون: بغر النّوء، إذا هاج بالمطر.\nوحكى بعضهم: بغرت الأرض، إذا ليّنها المطر.",
+ "az": "«بغر» (bağəra). Ба, ğun və ra hərfləri tək bir əslə malikdir və burada su içmək və onun mənası barəsində yaxın sözlər vardır. «البغر» (əl-bəğr) – insanın su içməsi, lakin doymamasıdır; bu, dəvələrə də baş verir. Bir kişini qınayaraq belə demişlər: «مات أبوه بشما وماتت أمّه بغرا» («Atası toxluqdan, anası isə susuzluqdan (bəğran) öldü»). Onlar deyirlər: «بغر النّوء» (bəğərən-nəvu) – yağış səbəbilə bulud qıcıqlandıqda (hərəkətə gəldikdə). Bəziləri rəvayət etmişdir: «بغرت الأرض» (bəğəratil-ərd) – yağış torpağı yumşaltdıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:32:05.260Z"
+}

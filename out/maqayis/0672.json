@@ -1,0 +1,17 @@
+{
+ "i": 672,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 470,
+  "page_to": 471
+ },
+ "ar": "الجيم واللام والحاء أصلٌ واحد، وهو التجرُّد وانكشافُ الشئ عن الشئ. فالجَلَح ذهابُ شَعْرَ مقدّم الرأس، ورجلٌ أجْلَح. والسّنُونَ المجاليحُ اللواتى تَذْهَب بالمال. والسيل الجُلَاح: الشَّديدُ يجرِف كلَّ شئ، يذهبُ به. ويقال جَلَحَ المالُ الشّجَرَ يَجْلَحُه جَلْحاً إذا أكَلَ أعلاه، فهو مجلوح.\nوالأجلح من الهوادج الذى لا قُبَّة له. فهذا هو القياس المطرد.\nوممّا يُحمَل عليه قولهم فلان مُجَلِّح، إذا صمَّم ومَضَى فى الأمر مثل تجليح الذِّئب، وهذا لا يكون إلاّ بكشف قِناع الحياء. ومنه التجليح فى السَّير، وهو\nالشديد؛ وذلك أنّه تجرُّدٌ له (١) وانكماشٌ فيه - وفيه النَّخْلة المِجْلاح التى لا تبالى القَحْط. والنَّاقةُ المجلاح التى تَدِرّ فى الشِّتاء. وهو من الباب، كأنها صلبةٌ، صلبةُ الوجه، لا تبالى الشدّة.",
+ "az": "[جلح] — Cəim, lam və hə - tək bir əsas mənadır, o da təcrid olunmaq və bir şeyin başqa bir şeydən açılıb görünməsidir. «الجَلَح» - başın ön hissəsində saçın getməsi (keçəllik) və «رجل أجْلَح» (keçəl kişi). «السّنُونَ المجاليح» - malı (sərvəti) aparıb yox edən illər. «السيل الجُلَاح» - hər şeyi qoparıb aparan şiddətli sel. Deyilir: «جَلَحَ المالُ الشّجَرَ يَجْلَحُه جَلْحاً» - mal (heyvan) ağacın yuxarı hissəsini yedikdə, o ağac «مجلوح» (yuxarısı yeyilmiş) olur. «الأجلح» - qubəsi (üstü) olmayan həvdəcdir. Bu isə ardıcıl və sabit qaydadır. Buna şamil edilən sözlərdən biri də onların «فلان مُجَلِّح» (filankəs israrlıdır) deməsidir, o zaman ki, bir işdə qəti qərar verib qurdun cəsarəti kimi işin üstünə düşür, bu da ancaq həya pərdəsini yırtmaqla olur. Həmçinin gedişdəki «التجليح» də bundandır, o da şiddətli və qəti hərəkət etməkdir - çünki bu, ona qarşı bir təcrid olunmaq və sürətlə qaçmaqdır. Həmçinin quraqlığa əhəmiyyət verməyən «النَّخْلة المِجْلاح» (dözümlü xurma ağacı). Qışda südü bol olan «النَّاقةُ المجلاح» (dözümlü dişi dəvə). Bu da həmin fəsildəndir, sanki o sərtdir, üzü sərtdir, çətinliyə əhəmiyyət vermir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:30.556Z"
+}

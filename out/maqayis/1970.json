@@ -1,0 +1,17 @@
+{
+ "i": 1970,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سأد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "السين والهمزة والدال كلمتان لا تنقاسان. فالإسْآد: دأَب السَّير بالليل.\nوالكلمة الأخرى السَّأَد: انتقاض الجُرح. وأنشد:\nفبتُّ مِنْ ذاك ساهراً أرِقاً … ألقى لِقاءَ اللاقى من السَّأَدِ (٣)\nوربما قالوا: سَأَدتِ الإبلُ الماءَ: عافَتْه.",
+ "az": "[سأد] (səd). السين (sin), والهمزة (həmzə) və الدال (dal) qaydaya sığmayan iki kəlmədir. İsmaad (الإسْآد) - gecə səfərini davam etdirmək, yorulmadan yeriməkdir. Digər kəlmə isə السَّأَد (əssəd) - yaranın təzələnməsi, qopmasıdır. Şair şeir söyləmişdir:\nفبتُّ مِنْ ذاك ساهراً أرِقاً … ألقى لِقاءَ اللاقى من السَّأَدِ (٣)\n(Mən o gecə o səbəbdən oyaq və yuxusuz qaldım, səddən gələn fəlakətlərlə qarşılaşdım).\nBəzən onlar سَأَدتِ الإبلُ الماءَ (səəditil-iblül-mau) - dəvələr suyu bəyənməyib imtina etdilər, – deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:50.268Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1008,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حتك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 136,
+  "page_to": 136
+ },
+ "ar": "الحاء والتاء والكاف يدلُّ على مقاربةٍ وصِغَر. فالحَتْك:\nأن يقارب الخَطْو ويُسرِع رَفْع الرِّجل ووضْعَها. وهو صحيح من الكلام معروفٌ. ويُبْنَى منه الحَتَكان، وهو غير الحَيَكان. والحواتِك: صغار النّعام. والحوتك: القصير.",
+ "az": "«حتك» (h-t-k): Ha, ta və kaf hərfləri yaxınlaşmaya və kiçikliyə dəlalət edir. «الحَتْك» (əl-hətk) — addımı yaxınlaşdırmaq, ayağı qaldırıb qoymağı sürətləndirməkdir. Bu, məlum və səhih bir kəlmədir. Ondan «الحَتَكان» (əl-hətəkən) düzəldilir ki, bu da «الحَيَكان» (əl-həyəkən) deyil. «الحواتِك» (əl-həvatik) — kiçik dəvələrdir. «الحوتك» (əl-hawtik) — qısa boyludur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.109Z"
+}

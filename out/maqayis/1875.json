@@ -1,0 +1,17 @@
+{
+ "i": 1875,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سفه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 79,
+  "page_to": 80
+ },
+ "ar": "السين والفاء والهاء أصلٌ واحدٌ، يدلُّ على خفّة وسخافة.\nوهو قياس مطَّرد. فالسَّفَه: ضدّ الْحِلم. يقال ثوب سفيه، أى ردئ النسج.\nويقال تَسفَّهَت الريحُ، إذا مالت. قال ذو الرمة:\nمَشَيْن كما اهتَزَّت رياحٌ تسفَّهت … أعالِيَهّا مَرُّ الرِّياح الرواسِمِ (٤)\nوفى شعره أيضاً:\nسَفيهٍ جَديلُها (٥)\nيذكر الزّمامَ واضطرابه. ويقال تسفّهتُ فلاناً عن ماله، إذا خدعْتَه، كأنك مِلت به عنه واسْتَخْفَفْتَه. قال (١):\nتَسَفَّهْتَهُ عن ماله إِذْ رأيته … غلاماً كغُصن اثبانةِ المتغايِدٍ (٢)\nوذكر ناسٌ * أنّ السّفَه أن يُكثِر الإنسانُ من شُرب الماء فلا يَروَى.\nوهذا إِنْ صحَّ فهو قريبٌ من ذاك القياس.\nوكان أبو زيد يقول: سافَهْت الوَطْبَ أو الدّنَّ، إذا قاعَدته فشربتَ منه ساعةً بعد ساعة. وأنشد:\nأبِنْ لى يا عُمَيرُ أذُو كعوبٍ … أصَمُّ، قناتُه فيها ذُبولُ\nأحَبُّ إليكَ أم وَطْبٌ مُدَوّ … تُسافِهُه إذا جَنَح الأَصِيلُ (٣)",
+ "az": "[سفه] السين والفاء والهاء (sin, fa və ha) tək bir əsasdır, yüngüllüyə və səthi düşüncəyə dəlalət edir. Bu, ardıcıl bir qaydadır. Əs-səfəh (السَّفَه): həlimliyin ziddidir. «ثوب سفيه» (səfih paltar) – yəni toxunuşu pis olan, deyilir. Deyirlər ki, «تَسفَّهَت الريحُ» (külək əyildi/meyl etdi), əyildiyi zaman. Züru-Rümə demişdir: مَشَيْن كما اهتَزَّت رياحٌ تسفَّهت … أعالِيَهّا مَرُّ الرِّياح الرواسِمِ (٤) (Onlar sarsılan küləklərin əsdiyi kimi yeridilər... sarsılmayan küləklərin keçidi onun uclarına təsir etdi). Həmçinin onun şeirində: سَفيهٍ جَديلُها (٥) (Örcəyi səfih olan). O, yüyəndən və onun səyrəməsindən bəhs edir. Deyirlər ki, «تسفّهتُ فلanaً عن ماله» (filankəsi malından məhrum etmək üçün aldatdın), – yəni sən onu bundan ötrü yayındırdın və yüngül saydın. Biri demişdir (١): تَسَفَّهْتَهُ عن ماله إِذْ رأيته … غلاماً كغُصن اثبانةِ المتغايِدٍ (٢) (Sən onu malından uzaqlaşdırdın, çünki onu hərəkət edən əsnəd ağacının budağı kimi gənc gördün). Bəzi adamlar xatırlatmışlar ki, əs-səfəh (السّفَه) insanın çox su içməsi, lakin susuzluğunun yatmamasıdır. Əgər bu səhihdirsə, həmin qaydaya yaxındır. Əbu Zeyd deyirdi: «سافَهْت الوَطْبَ أو الدّنَّ» – su qırxasını və ya küpü saatbasaat oturub ondan içdiyin zaman. Və bu beyti oxudu: أبِنْ لى يا عُمَيرُ أذُو كعوبٍ … أصَمُّ، قناتُه فيها ذُبولُ، أحَبُّ إليكَ أم وَطْبٌ مُدَوّ … تُسافِهُه إذا جَنَح الأَصِيلُ (٣) (Ey Uməyr, mənə de görüm, buğumları olan, səssiz, gövdəsində zəiflik olan nizəmi sənin üçün daha sevgilidir, yoxsa axşamüstü meyillənəndə fasiləsiz içdiyin girdə su tuluğu?).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:54.003Z"
+}

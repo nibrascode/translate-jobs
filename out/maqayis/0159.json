@@ -1,0 +1,17 @@
+{
+ "i": 159,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أيض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 164,
+  "page_to": 164
+ },
+ "ar": "الهمزة والياء والضاد كلمة واحدةٌ تدلُّ على * الرّجوع والعَوْد، يقال آضَ يَئيضُ، إذا رجع. ومنه قولهم قال ذاك أيضا، وفعَله أيضا.",
+ "az": "[أيض] (ə-y-ض): Həmzə, ya və dad hərfləri geri dönməyə və qayıtmağa dəlalət edən tək bir kəlmədir. «آضَ يَئيضُ» (adə yəyidu) – qayıtdı deməkdir. Onların «قال ذاك أيضا» (O bunu da dedi) və «فعَله أيضا» (O bunu da etdi) ifadələri də eləbundandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:25:17.134Z"
+}

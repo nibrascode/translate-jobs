@@ -1,0 +1,17 @@
+{
+ "i": 2290,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صمت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 308,
+  "page_to": 309
+ },
+ "ar": "الصاد والميم والتاء أصلٌ واحد يدلُّ على إبهام وإغلاق.\nمن ذلك صَمَت الرّجُل، إذا سكَتَ، وأَصْمَت أيضاً. ومنه قولهم: «لقيتُ فلانا ببلدة إِصْمِتَ»، وهي القَفر التى لا أحدَ بها، كأنها صامتةٌ ليس بها ناطق. ويقال:\n«ما له صامتٌ ولا ناطق». فالصَّامت: الذّهب والفِضّة. والنَّاطق: الإِبل والغنَم والخيل. والصَّمُوت: الدِّرْع * الليِّنة التى إذا صَبَّها (١) الرَّجُل على نفسه لم يُسمَع لها صوت. قال:\nوكلِّ صموتٍ نثرةٍ تُبّعيَّةٍ … ونسج سْليمٍ كل قَضَّاءَ ذائلِ (٢)\nوبابٌ مُصْمَت: قد أُبْهِم إغلاقه. والصامت من اللبن: الخاثر؛ وسمِّى بذلك لأنه إذا كان كذا فأفرغ فى إناءٍ لم يُسمع له صوت. ويقال: بِتُّ على صِمات ذاكَ، أى على قَصْده. فيمكن أن يكون شاذًّا، ويمكن أن يكون من الإِبدال، كأنّه مأخوذٌ من السَّمْت، وهى الطَّريقة. قال:\nوحاجةٍ بتُّ على صِمَاتِها (١) … أتيتُها وَحْدِىَ من مَأْتاتها\nويقال: رمَاه بصِماتِهِ، أى بما أصمته. وأعطى الصَّبىَّ صُمْتَةً، أى ما يسكّنه.",
+ "az": "[صمت] (sad, mim və ta) — məxfiliyə və qapanmağa dəlalət edən tək bir kökdür.\n\nBunlardan biri də «صَمَتَ الرَّجُلُ» (kişi susdu) və həmçinin «أَصْمَتَ» deməsidir. Həmçinin onların «لَقِيتُ فُلَانًا بِبَلْدَةِ إِصْمِتَ» (filankəslə elə bir səhrada qarşılaşdım ki...) sözü də bundandır; bu, heç kəsi olmayan kimsəsiz yerdir, elə bil ki, danışanı yoxdur, susur. Deyilir: «مَا لَهُ صَامِتٌ وَلَا نَاطِقٌ» (Onun nə samiti, nə də natiqi var). «الصَّامِت» (samit) — qızıl və gümüşdür. «النَّاطِق» (natiq) — dəvə, qoyun və atdır. «الصَّمُوت» (səmum/səmout) — yumşaq zirehdir ki, onu insan üzərinə tökdükdə heç bir səs eşidilməz. Biri demişdir:\nوَكُلِّ صَمُوتٍ نَثْرَةٍ تُبَّعِيَّةٍ … وَنَسْجِ سْلِيمٍ كُلِّ قَضَّاءَ ذَائِلِ (٢)\n\n«بَابٌ مُصْمَتٌ» (müsmat qapı) — kilidlənməsi qapadılmış, möhürlənmişdir. Südün «صَامِت» olanı — qatılaşmış olanıdır; ona bu ad ona görə verilmişdir ki, o cür olduqda qaba töküldükdə heç bir səs eşidilməz. Deyilir: «بِتُّ عَلَى صِمَاتِ ذَاكَ» (mən bunun məqsədi üzərində gecələdim), yəni onun qəsdi üzərində. Mümkündür ki, bu, şaz olsun, mümkündür ki, hərf dəyişməsindən (ibdaldan) olsun, sanki yol mənasındakı «السَّمْت» (səmt) sözündən götürülmüşdür. Biri demişdir:\nوَحَاجَةٍ بِتُّ عَلَى صِمَاتِهَا … أَتَيْتُهَا وَحْدِيَ مِنْ مَأْتَاتِهَا (١)\n\nDeyilir: «رَمَاهُ بِصِمَاتِهِ» (onu məhv edən şeylə vurdu). Uşağa «صُمْتَة» (sakitləşdirici şey) verildi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.917Z"
+}

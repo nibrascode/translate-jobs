@@ -1,0 +1,17 @@
+{
+ "i": 1834,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زرم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 51,
+  "page_to": 51
+ },
+ "ar": "الزاء والراء والميم أصلٌ يدلُّ على انقطاع وقلّة. يقال زَرِم الدمعُ، إذا انقطَع؛ وكذلك كلُّ شئٍ. ومن ذلك\nحديث النبى ﵌: حين بال عليه الحسَنُ ﵇ فقال: «لا تُزْرِمُوا ابنى». يقول:\nلا تقطَعوا بولَه. زَرِمَ البولُ نفسُه، إِذا انقطع. قال:\nأو كماء المثمودِ بعد جِمامٍ … زَرِمَ الدّمعِ لا يئوبُ نَزُورا (١)\nويقال إِنْ الزَّرِم البخيل. وهو من ذاك. [و] يقال زَرِمَ الكلب، إذا يبس جَعْرُه فى دُبُرِه.",
+ "az": "[زرم] (zə-rə-mə): Zai, ra və mim hərflərindən ibarət bir kök olub kəsilmək və azlıq mənasını bildirir. Deyilir: «زَرِم الدمعُ» – göz yaşı kəsildi; həmçinin hər bir şey belədir. Bunlardandır Peyğəmbərin ﵌ hədisi: Həsən ﵇ onun üstünə sidik buraxdıqda demişdir: «لا تُزْرِمُوا ابنى» (Oğlumun sidiyini kəsməyin). O demək istəyir ki: Onun sidiyini kəsməyin. «زَرِمَ البولُ نفسُه» – sidiyin özü kəsildikdə. Şair demişdir: Və ya su qabından sonra çəkilmiş su kimi... göz yaşından kəsilmiş, qayıtmaz, az olan (1). Deyilir ki, «الزَّرِم» – xəsisdir. Bu da, həmin mənadandır. [Və] deyilir: «زَرِمَ الكلب» – itin nəcisi arxasında quruduğu zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:43.941Z"
+}

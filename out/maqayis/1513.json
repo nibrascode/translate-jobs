@@ -1,0 +1,17 @@
+{
+ "i": 1513,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 410,
+  "page_to": 410
+ },
+ "ar": "الراء والعَين والثاء أصلٌ واحد، وهو تزيُّنُ شئِ بشئ.\nفالرَّعَث: العِهْن من الصَّوف، وهو يزيَّن به (٢). والرِّعاث: القِرَطة، واحدتها رعثة (٣). وفى كتاب الخليل: الرِّعاث: ضَربٌ من الخرَز والْحَلى. قال:\n* وما حُلِّيَتْ إلاَّ الرِّعاثَ المُعَقَّدا *\nومما شُبِّه بهذا وحُمل عليه: رَعْثة الدِّيك، وهى عُثْنُونُه، كأنّها شُبِّهت برَعَث العهن. قال:\n* مِنْ صَوتِ ذِى رَعَثُاثٍ ساكنِ الدَّارِ (٤) *",
+ "az": "[رعث] (ra, ayn, sə) — tək bir əsasdır, o da bir şeyin başqa bir şeylə bəzədilməsidir. الرَّعَث (rəəb) – yun kətanı/ipəyidir ki, onunla bəzədilər (٢). الرِّعاث (riab) – sırğalar, təki رَعْثة (rəəb) olar (٣). Xəlil kitabında demişdir: الرِّعاث (riab) – muncuq və bəzək növləridir. O demişdir: * وما حُلِّيَتْ إلاَّ الرِّعاثَ المُعَقَّدا * (Və bəzənmədi yalnız düyünlü sırğalarla). Buna bənzədilən və üzərinə daşınan şeylərdən biri də xoruzun رَعْثة (rəəb) – yəni çənə altındakı əti, sanki o, yun rəətinə bənzədilmişdir. O demişdir: * مِنْ صَوتِ ذِى رَعَثُاثٍ ساكنِ الدَّارِ (٤) * (Ev sakininin rəəsas sahibinin səsindən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:50.330Z"
+}

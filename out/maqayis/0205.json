@@ -1,0 +1,17 @@
+{
+ "i": 205,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بدغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 210,
+  "page_to": 210
+ },
+ "ar": "الباء والدال والغين، ليست فيه كلمةٌ أصلية، لأنّ الدال فى أحد أصولها مبدَلة من طاءِ، وهو قولهم بَدِغَ الرَّجُل إذا تلطَّخ بالشّرّ، وهو بَدِغٌ من الرِّجال. وهذا إنما هو فى الأصل طاء، وقد ذكر فى بابه (بطغ). وبقيت كلمتان مشكوك فيهما: إحداهما قولهم البَدَغ التزحُّف على الأرض. والأخرى قولهم:\nإنّ بنى فُلانٍ لبَدِغُونَ، إذا كانوا سِماناً حسنةً أحوالُهم. واللّه أعلمُ بصحَّة ذلك.",
+ "az": "[بدغ] (bə-də-ğ): الباء والدال والغين، ليست فيه كلمةٌ أصلية، لأنّ الدال فى أحد أصولها مبدَلة من طاءِ، وهو قولهم بَدِغَ الرَّجُل إذا تلطَّخ بالشّرّ، وهو بَدِغٌ من الرِّجال (Bə, dal və ğın hərflərindən ibarət əsaslı bir kəsim yoxdur, çünki buradakı dal hərfi ta hərfini əvəz etmişdir. Bu, onların badigə ər-racul - kişi şərə bulaşdı - demələridir və o, kişilərdən badigdir). وهذا إنما هو فى الأصل طاء، وقد ذكر فى بابه (بطغ) (Bu əslində ta hərfidir və öz babında (b-ط-غ) zikr edilmişdir). وبقيت كلمتان مشكوك فيهما: إحداهما قولهم البَدَغ التزحُّف على الأرض (Şübhə doğuran iki kəsim qalmışdır: biri onların əl-badəğ - yer üzündə sürünmək - sözüdür). والأخرى قولهم: إنّ بنى فُلانٍ لبَدِغُونَ، إذا كانوا سِماناً حسنةً أحوالُهم (Digəri isə: Fulan oğulları kök və halları yaxşı olduqda inna bəni fulanin lə-badiğun - demələridir). واللّه أعلمُ بصحَّة ذلك (Bunun səhih olmasını Allah daha yaxşı bilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:27:58.606Z"
+}

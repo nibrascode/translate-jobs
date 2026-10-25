@@ -1,0 +1,17 @@
+{
+ "i": 1670,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 488,
+  "page_to": 488
+ },
+ "ar": "الراء والثاء والميم أُصَيْلٌ يدلُّ على لَطْخ شئِ بشئ. يقال:\nرثَمَت المرأة أنْفَها بالطِّيب: طَلَتْه. قال:\n* شَمّاءَ مارِنُها بالمِسك مَرثُومُ (١) *\nومن هذا الباب: رُثِم أنفُه، وذلك إذا ضُرِب حتَّى يسيل دمُه. ومن الباب الرّثَم: بياضٌ فى جَحْفلة الفَرَس العُلْيا. وهى الرُّثْمَة. وهو القياس؛ كأن الجحفلة قد رُثِمَت ببياض.",
+ "az": "[رثثم] \nالراء والثاء والميم (ra, sə və mim) — bir şeyi başqa bir şeylə bulaşdırmağa dəlalət edən kiçik bir əsasdır. Deyilir: \nرثَمَت المرأة أنْفَها بالطِّيب (Qadın burnunu ətirle bulaşdırdı): onu sürtərək yağladı. (Şair) demişdir: \n* شَمّاءَ مارِنُها بالمِسك مَرثُومُ (١) * \n(Uca burnunun ucu müşk ilə bulaşdırılmışdır). \nBu fəsildəndir: رُثِم أنفُه (onun burnu yaralandı/qırıldı), bu o zaman olur ki, o, qanı axana qədər vurulur. Və fəsildəndir الرّثَم (rəsəm) — atın üst dodağındakı ağlıqdır. Bu da الرُّثْمَة (rəsümə) adlanır. Ölçü/qayda budur; sanki dodaq ağlıqla bulaşdırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:36.371Z"
+}

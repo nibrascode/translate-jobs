@@ -1,0 +1,17 @@
+{
+ "i": 747,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جبه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 503,
+  "page_to": 503
+ },
+ "ar": "الجيم والباء والهاء كلمةٌ واحدة، ثمَّ يشبّه بها. فالجبهة: الخيلُ.\nوالجَبْهَة من الناس: الجماعةُ. والجَبهة: كوكبٌ، يقال هو جَبْهَة الأسد. ومن الباب قولهم جَبَهْنَا الماء إذا وَرَدْناه وليست عليه قامةٌ ولا أداة. وهذا من الباب؛ لأنّهم قابَلُوه وليس بينهم وبينه ما يستعينون به على السَّقى. والعرب تقول: «لكل جَابِهٍ جَوْزَةٌ، ثمَّ يُؤَذَّنَ». فالجابِهُ ما ذكرناه. والجَوْزة: قدر ما يَشْرِب ثَمَّ ويجوز (٢).",
+ "az": "«جبه» — جيم, ba və hə tək bir kəlmədir, sonra ona bənzədilmişdir. «الجبهة» (cəbhə) — atlar. \nİnsanlardan ibarət «الجَبْهَة» (cəbhə) — camaat. «الجَبهة» (cəbhə) — ulduzdur, deyilir ki, o, Aslan bürcünün alnıdır («جَبْهَة الأسد»). Bu qapıdandır onların «جَبَهْنَا الماء» (cəbəhnə əl-məə) sözü; yəni suyun başına getdikdə orada nə bir tikili, nə də su çəkmə aləti var idi. Bu, həmin qapıdandır, çünki onlar su ilə üz-üzə gəlmişdilər və aralarında suvarmaqda kömək edəcək heç nə yox idi. Ərəblər deyirlər: «لكل جَابِهٍ جَوْزَةٌ، ثمَّ يُؤَذَّنَ» (Hər su başına gələnə bir cozə [pay] verilir, sonra azan verilir). «الْجَابِه» (cəbih) dediyimiz kəsdir. «الْجَوْزَة» (cozə) isə orada içəcəyi və qalanı qədər olan miqdardır (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

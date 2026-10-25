@@ -1,0 +1,17 @@
+{
+ "i": 1493,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رضم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 401,
+  "page_to": 401
+ },
+ "ar": "الراء والضاد والميم قريبٌ من الباب الذى [قبله]، كأنّه رمىُ الحجارة بعضِها على بعض. فالرَّضِيم: البِناء بالصَّخر. والرِّضام: الصخور، واحدتُها رَضْمَةٌ. ورضَمَ فلانٌ بيتَه بالحِجارة. وبِرذَونٌ مَرضُوم العَصَب، إذا تشنَّجَ عصَبُه فصار بعضُه على بعض. ورَضَم البعيرُ بنَفْسِه إِذا رمَى بنفسه.",
+ "az": "[رضم] (rə-zə-mə). Ra, zad və mim – [özündən] əvvəlki fəsli xatırladır, sanki daşların bir-birinin üzərinə atılması kimidir. الرَّضِيم (ar-razim) – daşla tikinti. الرِّضَام (ar-rizam) – qayalar, təkini رَضْمَةٌ (razmatun) olur. Fulan evini daşla tikdi (رَضَمَ فُلَانٌ بَيْتَهُ بِالْحِجَارَةِ). Sinirində spazm olub bir-birinin üzərinə yığıldığı zaman بِرْذَوْنٌ مَرْضُومُ الْعَصَبِ (birzaunun mazumu əl-asab) [deyilir]. Dəvə özünü yerə çırpdığı zaman رَضَمَ الْبَعِيرُ بِنَفْسِهِ (razama əl-bairu bi-nəfsih) [deyilir].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.015Z"
+}

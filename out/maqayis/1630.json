@@ -1,0 +1,17 @@
+{
+ "i": 1630,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 465,
+  "page_to": 465
+ },
+ "ar": "الراء والياء والراء كلمةٌ واحدةٌ لا يقاس عليها ولا يفرّع منها.\nفالرِّير: المُخّ الفاسد، وهو الريْرُ والرَّار. وأرَارَ اللّهُ مُخَّ هذه النّاقةِ، أى تركه رِيراً.\nوحدّثنى علىُّ بن إبراهيمَ قال: سألتُ ثعلبا عن قول القائل:\n* أرَارَ اللّه مُخَّك فى السُّلامَى *\nفقلت: أكذا هو، أم: أرانى اللّه مُخَّك فى السُّلامى؟ وأيُّهما أجود وأَحبُّ إِليك؟ فقال: كلاهما واحد. ومعنى أرَارَ أرَقَّ. والسَّلامَى: عظام الرِّجْل.",
+ "az": "[رير] الراء (الراء) və الياء (ياء) və الراء (rar) — qiyas olunmayan və ondan budaqlanmayan tək bir sözdür. Rir (الرِّير) — xarab olmuş, çürümüş sümük iliyi; o, həm رير (rir), həm də رار (rar) adlanır. Və أرَارَ اللّهُ مُخَّ هذه النّاقةِ (ərarə اللَّhu muxhə həzihi ən-naqəti) — Allah bu dişi dəvənin iliyini xarab etdi, onu rir halına gətirdi. Əli ibn İbrahim mənə rəvayət edib dedi: Səəlibdən soruşdum: *أرَارَ اللّه مُخَّك فى السُّلامَى* (Allah sənin sümük iliyini oynaq sümüklərində xarab etsin) sözü haqqında, və dedim: Məhz belədirmi, yoxsa أرانى اللّه مُخَّك فى السُّلامى (Allah sənin iliyini oynaq sümüklərində mənə göstərsin)? Hansı daha gözəl və sənə daha seimlidir? O dedi: İkisi də eynidir. «Ərarə» sözünün mənası «yumşaltdı, sulu etdi» deməkdir. Əs-səlami (السَّلامَى) isə ayaq sümükləridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:27.039Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 180,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بثع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 197,
+  "page_to": 197
+ },
+ "ar": "الباء والثاء والعين كلمةٌ واحدة تدلُّ على مثل الأصل الذى قبلها.\nيقال شفة باثعة، أى ممتلئة",
+ "az": "«بثع» (Bəsə')\nالباء والثاء والعين كلمةٌ واحدة تدلُّ على مثل الأصل الذى قبلها. (Bə, sə və ayn — özündən əvvəlki əslə bənzər bir mənanı bildirən tək sözdür.)\nيقال شفة باثعة، أى ممتلئة (Deyilir: basiə dodaq — yəni dolğun dodaq.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:26:42.582Z"
+}

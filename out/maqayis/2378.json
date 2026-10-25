@@ -1,0 +1,17 @@
+{
+ "i": 2378,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 357,
+  "page_to": 357
+ },
+ "ar": "الضاد والهمزة كلمة صحيحة، وهى الضِّئْضئُ، وهو الأصل.\nو\nفى الحديث: «يخرج من ضِئْضئِ هذا قومٌ يمرُقون من الدِّين (١)».\nوأمّا الضاد والحرف المعتلّ فهو يدلُّ على صِياحٍ وجَلَبة. من ذلك الضَّوَّة والضَّوضاة (٢): أصوات النّاس وجَلَبتهم. يقال ضَوْضَوْا بلا همز.",
+ "az": "[ضأ] (ض، ء) — Səhih bir kəlmədir, o da الضِّئْضئُ (əz-zi-ziy) — əsl, kök deməkdir.\nVə hədisdə gəlmişdir: «يخرج من ضِئْضئِ هذا قومٌ يمرُقون من الدِّين (١)» (Bu adamın nəslindən [kökündən] elə bir tayfa çıxacaq ki, dindən oxun ovçuluqdan çıxdığı kimi çıxacaqlar).\nZəif hərfə gələn ض-ya gəlincə, o, səs-küyə və hay-küyə dəlalət edir. Bunlardan الضَّوَّة və الضَّوضاة (əz-zəvvə və əz-zövzəh) — insanların səsləri və hay-küyüdür. Deyilir: ضَوْضَوْا (onlar hamsı səsləndi, hay-küy saldı) həmzsiz olaraq.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.777Z"
+}

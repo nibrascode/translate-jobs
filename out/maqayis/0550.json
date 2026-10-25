@@ -1,0 +1,17 @@
+{
+ "i": 550,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 393,
+  "page_to": 393
+ },
+ "ar": "الثاء والواو والياء كلمة واحدة صحيحة تدلُّ على الإِقامة.\nيقال ثَوَى يثْوِى، فهو ثاوٍ. وقال:\nآذَنَتْنَا بِبَيْنها أسماءِ … ربَّ ثاوٍ يُمَلّ منه الثَّواءِ (١)\nويقال أثْوَى أيضاً. قال:\nأَثْوَى وَقَصَّرَ لَيْلُه ليُزَوَّدا … فمَضَى وأخلف من قُتَيْلَة مَوْعِدا (٢)\nوالثَّوِيَّة والثَّايَة: مأوى الغَنَم. والثَّويَّة: مكان (٣). وأمُّ مَثْوَى الرّجلِ:\nصاحبة منزِلِه. والقياس كلُّه واحد. والثَّايَة أيضاً: حِجارةٌ تُرفَع للرّاعى يَرجع إليها لَيْلاً، تكونُ علماً لَه.",
+ "az": "[ثوى] الثاء (sə), الواو (vav) və الياء (ya) məskunlaşmağa dəlalət edən tək bir düzgün kəlmədir. «ثَوَى يثْوِى» (məskunlaşdı, məskunlaşır) deyilir, o «ثاوٍ» (savi) olandır. O demişdir: آذَنَتْنَا بِبَيْنها أسماءِ … ربَّ ثاوٍ يُمَلّ منه الثَّواءِ (١) (Əsma ayrılığı ilə bizə xəbər verdi... çox məskunlaşan var ki, onun məskunlaşmasından bezilər). «أثْوَى» (əsvə) də deyilir. O demişdir: أَثْوَى وَقَصَّرَ لَيْلُه ليُزَوَّدا … فمَضَى وأخلف من قُتَيْلَة مَوْعِدا (٢) (Məskunlaşdı və gecəsi qısaldı ki, azuqə götürsün... sonra getdi və Qüteyləyə verdiyi vədə xilaf çıxdı). «الثَّوِيَّة» (əs-səviyyə) və «الثَّايَة» (əs-sayə) qoyunların sığınacağıdır. «الثَّويَّة» (əs-səviyyə) bir yer adıdır (٣). «أمُّ مَثْوَى الرّجلِ» (kişinin məsvəsinin anası) onun evinin sahibəsidir. Qiyasın hamısı birdir. «الثَّايَة» (əs-sayə) həmçinin çobanın gecə geri dönməsi üçün qaldırılan və onun üçün nişan olan daşlardır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:42:17.837Z"
+}

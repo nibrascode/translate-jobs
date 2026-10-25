@@ -1,0 +1,17 @@
+{
+ "i": 1910,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 97,
+  "page_to": 97
+ },
+ "ar": "السين والميم والنون أصلٌ يدل على خلاف الضُّمْر والهزال من ذلك السِّمَن، يقال هو سمين. والسَّمْن من هذا.\nومما شذّ عن هذا الأصل كلامٌ يقال إن أهل اليمن يقولونه دونَ العرب، يقولونَ: سَمّنْتُ الشّئَ، إذا بَرّدْتَه. والتَّسْمين: التَّبْريد. و\nيقال: إنّ الحجّاج قُدِّمت إليه سمكة فقال للذى عمِلها: «سَمِّنْها». يريد بَرِّدْها (٣).",
+ "az": "[سمن] (sin, mim və nun) — arıqlığın və çəlsizliyin əksinə dəlalət edən bir əsasdır. Bunlardan biri də «السِّمَن» (kökəlmədir), o «سمين» (kök) adlanır. «السَّمْن» (yağ) da bundandır. Bu əsasdan kənar çıxan (şədd olan) bir söz də budur: deyirlər ki, Yəmən əhli ərəblərdən fərqli olaraq «سَمّنت الشّئَ» (bir şeyi soyutdum) deyirlər. «التَّسْمين» — soyutmaq deməkdir. Deyilir ki, Həccaca bir balıq təqdim olunduqda, onu bişirənə: «سَمِّنْها» (Onu soyut) — demişdir, yəni soyuq et demək istəmişdir (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.158Z"
+}

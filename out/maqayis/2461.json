@@ -1,0 +1,17 @@
+{
+ "i": 2461,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضخم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 394,
+  "page_to": 394
+ },
+ "ar": "الضاد والخاء والميم أصلٌ صحيح يدلُّ على عِظَمٍ فى الشئ.\nيقال هذا ضخْم وضُخامٌ. ويقال: إنَّ الأضخومة شئٌ تعظِّم به المرأة عجيزتها.",
+ "az": "[ضخم] الضاد (ضad), xə (خ) və mim (م) hərfləri bir şeydə böyüklüyünə dəlalət edən səhih bir əsldir. Deyilir ki, bu, ضخْم (böyük) və ضُخامٌ-dur. Həmçinin deyilir: أضخومة — qadının arxasını böyük göstərmək üçün istifadə etdiyi şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:49.275Z"
+}

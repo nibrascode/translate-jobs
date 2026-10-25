@@ -1,0 +1,17 @@
+{
+ "i": 1822,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 47,
+  "page_to": 47
+ },
+ "ar": "الزاء والجيم والراء كلمة تدل على الانتهار. يقال زَجَرت البعيرَ حتَّى مضَى، أزجُره. وزجَرْت فلانًا عن الشئ فانْزَجر. والزَّجور من الإبل: التى تعرف بعينها وتُنكر بأنْفها.",
+ "az": "[زجر] (zə-jim-ra): qovmağa, məzəmmət etməyə dəlalət edən bir sözdür. Deyilir: «زَجَرت البعيرَ حتَّى مضَى» (dəvəni qovdum ki, getsin), «أزجُره» (onu qovuram). «زجَرْت فلانًا عن الشئ فانْزَجر» (filankəsi bir şeydən çəkindirdim, o da çəkildi). Dəvələrdən olan «الزَّجور» (əz-zəcur): gözü ilə tanınıb, burnu ilə inkar olunan dəvədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

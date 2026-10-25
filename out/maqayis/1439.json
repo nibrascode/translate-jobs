@@ -1,0 +1,17 @@
+{
+ "i": 1439,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 373,
+  "page_to": 373
+ },
+ "ar": "الراء والشين أصلٌ واحد يدلُّ على تفريق الشئ ذى النَّدَى. وقد يستعار فى غير الندى، فتقول: رششت الماءَ والدّمْع والدّمَ. وطَعْنَةٌ مُرِشّةٌ. ورَشَاشُها: دمُها. قال:\nفطعَنْتُ فى حَمَّائِهِ بِمُرِشَّةٍ … تنفِى التُّرَابَ من الطَّريق المَهْيَعِ\nويقال شِواءٌ رَشراشٌ: ينْصَبُّ ماؤُه. ويقال رَشَّت السّماءُ وأرَشَّت. ويقال أرشَّ فلانٌ فرسَه إِرشاشاً، أى عرَّقه بالرَّكْض، وهو فى شعر أبى دُوَاد (٤) ومن الباب عظمٌ رَشْرَشٌ، أى رخْو.",
+ "az": "[رش] الراء (ra) və الشين (şin) hərfləri nəmli bir şeyi dağıtmağa dəlalət edən tək bir kökdür. Bəzən nəmlikdən başqa şeylər üçün də istifadə olunur, deyirsən: رششت الماءَ والدّمْع والدّمَ (rəşəştu-l-maə və-d-dəmə və-d-dəmə) - suyu, göz yaşını və qanı çilədim. طَعْنَةٌ مُرِشَّةٌ (tə'nətun murişşə): qanlı yara. Və onun رَشَاشُها (rəşaşuha): onun qanıdır. (Şair) deyir: فطعَنْتُ فى حَمَّائِهِ بِمُرِشَّةٍ … تنفِى التُّرَابَ من الطَّريق المَهْيَعِ (fəta'əntu fi həmmaihi bimurişşətin … tənfit-turabə minət-təriqil-məhyəi) - Onun qızğın yerinə elə bir (nizə) sancdım ki, geniş yoldan torpağı sovurub atır. Deyilir ki, شِواءٌ رَشراشٌ (şivaun rəşraş): suyu axan kabab. Deyilir ki, رَشَّت السّماءُ (rəşətis-səmau) və أرَشَّت (ərəşşət) - göy çilədi (yağış yağdı). Deyilir ki, أرشَّ فلانٌ فرسَه إِرشاشاً (ərəşşə fulanun fərəsəhu irşaşən) - filankəs atını qaçışla tərlətdi; bu, Əbu Duadın şeirində vardır (٤). Bu babdandır: عظمٌ رَشْرَشٌ (əzmum rəşraş), yəni yumşaq sümük.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:25:01.822Z"
+}

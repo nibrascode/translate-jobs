@@ -1,0 +1,17 @@
+{
+ "i": 2002,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 140,
+  "page_to": 141
+ },
+ "ar": "السين والحاء واللام ثلاثة أصول: أحدها كَشْط شئٍ، عن شئ، والآخَر من الصَّوت، والآخر تسهيلُ شئٍ وتعجيلُه.\nفالأوّل قولهم: سَحَلت الرِّياحُ الأرضَ، إِذا كشطت عنها أَدَمَتَها. قال ابن دريدٍ وغيره: ساحل البحر مقلوب فى اللفظ، وهو فى المعنى مَسحُولٌ، لأنّ الماء سَحله. وأصل ذلك قولهم سَحلت الحديدةَ أسحَلُها. وذلك إذا بَرَدْتَها.\nويقال للبُرادة السُّحالة. والسحْل: الثّوب الأبيض، كأنه قد سُحِل من وسَخِه ودَرَنِه سَحْلا. وجمعه السُّحُل. قال:\nكالسُّحُلِ البِيضِ جَلا لونَها … سَحُّ نِجاَءِ الحَمَل الأسْوَلِ (١)\nوالأصل الثانى: السَّحيل: نُهاق الحمار، وكذلك السُّحال. ولذلك يسمَّى الحِمارُ مِسْحَلاً.\nومن الباب المِسحَل لِلسانِ الخطيب، والرّجُل الخطيب.\nوالأصل الثالث: قولهم سَحَلَهُ مائةً، إذا عَجّل له نَقْدَها. ويستعار هذا فيقال سحله مائةً، إذا ضربه مائةً عاجلا (٢).\nومن الباب السَّحِيل: الخيط الذى فتِلَ فَتْلاً رِخْوا. وخِلافُه المبرَم والبَريم، وهو فى شعر زهير:\nمِنْ سَحِيلٍ ومُبْرَمِ (٣)\nومما شَذّ عن هذه الأصول المِسْحلان، وهما حَلْقتان على طرفَىْ شَكِيم اللِّجام.\nوالإسْحِلُ: شجر.",
+ "az": "«سحل» (səhlə - qazıma, yonma, səslənmə, asanlaşdırma və tələsdirmə): Sin, ha və lam üç əsas kökə malikdir: birincisi, bir şeyi başqa bir şeydən qazıyıb təmizləmək; ikincisi, səslə əlaqədar; üçüncüsü isə bir şeyi asanlaşdırmaq və tələsdirməkdir. Birincisinə gəldikdə, onların «سَحَلت الرِّياحُ الأرضَ» (küləklər yeri qazıyıb üst qatını soydu) sözü bundandır. İbn Dürid və başqaları demişlər ki, dəniz sahili («ساحل البحر») ləfzi olaraq tərsindədir, məna baxımından isə o, «مَسحُول» (qazılmış) bir şeydir, çünki su onu qazımışdır. Bunun əsli onların «سَحلت الحديدةَ أسحَلُها» (dəmir parçasını tördüm / yonxdum) deməsidir. Bu, dəmiri əsgəbə ilə yonduğun zaman olur. Dəmir və ya taxta törüməsinə «السُّحالة» (törpüntü, yonqar) deyilir. «السَّحْل» isə ağ paltardır, sanki çirkindən və kirindən təmizlənmiş, yonxulmuş kimidir. Onun cəmi «السُّحُل» gəlir. Şair demişdir: «كالسُّحُلِ البِيضِ جَلا لونَها … سَحُّ نِجاَءِ الحَمَل الأسْوَلِ» (Ağ paltarlar ki, qara quzunun sürətlə axan sidiyi onların rəngini parlaqlaşdırmışdır) (١). İkinci əsas: «السَّحيل» eşşəyin anqırtısıdır, eləcə də «السُّحال» həmçinin belədir. Buna görə də eşşəyə «مِسْحَل» deyilir. Bu fəsildəndir: xatiibin dili və xatib kişi üçün «مِسْحَل» sözünün işlədilməsi. Üçüncü əsas: onların «سَحَلَهُ مائةً» (ona yüz dirhəm nağd verdi) deməsidir, yəni nağd olaraq tez verdi. Bu söz məcazi mənada da işlənir, məsələn, «سحله مائةً» dedikdə, ona dərhal yüz dərəcə (qamçı) vurdu deməkdir (٢). Bu fəsildəndir: «السَّحِيل» zəif burulmuş ip. Onun əksi isə «المبرَم» və «البَريم»dir. Bu, Züheyrin şeirində keçir: «مِنْ سَحِيلٍ ومُبْرَمِ» (Zəif burulmuş və möhkəm burulmuş ipdən) (٣). Bu əsaslardan istisna edilən (şəzz olan) «المِسْحَلان» sözüdür, bunlar cilovun üzəngisinin iki tərəfindəki iki halqadır. «الإسْحِلُ» isə bir ağac növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:57.042Z"
+}

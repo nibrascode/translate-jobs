@@ -1,0 +1,17 @@
+{
+ "i": 995,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حبط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 129,
+  "page_to": 130
+ },
+ "ar": "الحاء والباء والطاء أصلٌ واحدٌ يدلُّ على بطلانٍ أو أَلَمٍ.\nيقال: أحبط اللّهُ عملَ الكافر، أى أبطله.\nوأمّا الألَم فالحَبَط: أن تأكل الدَّابةٌ حَتَّى تُنْفَخ لذلك بطنُها.\nقال رسول اللّه ﵌: «إنّ مما يُنبِت الرَّبيعُ ما يقتُل حَبَطاً أو يُلِمّ».\nوسُمِّى الحارثُ الحَبِطَ (١) لأنّه كان فى سفرٍ؛ فأصابه مثلُ هذا. وهم هؤلاء الذين يُسَمَّوْن الحَبِطَاتِ من تميم.\nومما يقرب من هذا الباب حَبِطَ الجِلدُ، إذا كانت به جراحٌ فَبَرَأت وبقيتْ بها آثارٌ.",
+ "az": "[حبط] (həbət) - Ha, ba və ta batil olmağa və ya ağrıya dəlalət edən tək bir kökdür. Deyilir: «أحبط اللّهُ عملَ الكافر» — Allah kafirin əməlini batil etdi. Ağrıya gəldikdə isə, «الحَبَط» — heyvanın çox yeyib nəticədə qarnının şişməsidir. Allah Rəsulu (s.a.v.) buyurmuşdur: «إنّ مما يُنبِت الرَّبيعُ ما يقتُل حَبَطاً أو يُلِمّ» (Şübhəsiz ki, baharın bitirdiklərindən eləsi var ki, qarnı şişərək öldürər və ya ölümə yaxınlaşdırar). Həris «الحَبِط» adlandırılmışdır (١), çünki o, səfərdə idi və onun başina belə bir şey gəlmişdi. Onlar Təmim qəbiləsindən olan «الحَبِطَات» adlandırılan kəslərdir. Bu fasilə yaxın olanlardandır: «حَبِطَ الجِلدُ» — dəridə yaralar olub sağaldıqda və onlardan izlər qaldıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

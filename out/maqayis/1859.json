@@ -1,0 +1,17 @@
+{
+ "i": 1859,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 72,
+  "page_to": 73
+ },
+ "ar": "السين والطاء والراء أصلٌ مطّرد يدلّ على اصطفافِ الشئ، كالكتاب والشجر، وكلِّ شئ اصطَفَّ. فأمّا الأساطير فكأنها أشياء.\nكُتبت من الباطل فصار ذلك اسماً لها، مخصوصاً بها. يقال سَطَّر فلانٌ علينا تسطيراً، إذا جاء بالأباطيل. وواحد الأساطير إسطار وأُسطورة.\nومما شذ عن الباب المُسَيطِر (١)، وهو المتعهّد للشئ المتسلّط عليه.",
+ "az": "«سطر» (Sətər). Sin, ta və ra hərfləri kitab və ağac kimi hər bir düzülən şeyin sıra ilə düzülməsinə dəlalət edən ardıcıl bir kökdür. Asatirə (الأساطير) gəldikdəisə, onlar batildən yazılmış şeylər kimidir, buna görə də bu ad onlara xüsusi olaraq verilmişdir. Deyilir: «Səttarə fəlanun ‘aleynə təstiran» (سَطَّر فلانٌ علينا تسطيراً), filankəs bizə batil şeylər gətirdikdə. Asatirin təkidi isarun (إطار) və usuturədir (أُسطورة). Kökdən kənara çıxan (şaz olan) məsələ isə al-musaytirdir (المُسَيطِر), o da bir şeyə nəzarət edən və ona hakim olan deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:09.599Z"
+}

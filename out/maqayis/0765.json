@@ -1,0 +1,17 @@
+{
+ "i": 765,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنعظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 508,
+  "page_to": 508
+ },
+ "ar": "ومنه (الجنْعَاظ) وهو من الذى ذكرناه آنفاً والنون زائدة. قال الخليل:\nيقال إنه سيئ الخُلق، الذى يتسخَّط عند الطَّعام. وأنشد:\n* جِنْعاظَةٌ بأهلِه قد بَرَّحَا (٤) *",
+ "az": "«جنعظ» - Və buraya «الجنْعَاظ» (əl-cin’az) daxildir ki, bu da az öncə zikr etdiyimiz sözdəndir, nun hərfi isə artıqdır (zayiddir). Xəlil demişdir:\nDeyilir ki, o, pis xasiyyətli, yemək üstündə narazılıq edən kimsədir. Şeir də söyləmişdir:\n* جِنْعاظَةٌ بأهلِه قد بَرَّحَا (٤)\n(Ailəsinə qarşı pis xasiyyətli olan, zəhmət verən...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.217Z"
+}

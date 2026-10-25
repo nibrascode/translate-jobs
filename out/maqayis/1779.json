@@ -1,0 +1,17 @@
+{
+ "i": 1779,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زنك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 29,
+  "page_to": 29
+ },
+ "ar": "الزاء والنون والكاف ليس أصلاً ولا قياسَ له. وقد حُكِىَ الزَّوَنَّك: القصير الدَّميم.",
+ "az": "[زنك] (zənək): ز (zay), ن (nun) və ك (kaf) nə əsasdır, nə də onun qiyas və ölçüsü vardır. الزَّوَنَّك (əz-zəvənnək): qısa və eybəcər adam mənasında rəvayət edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:18.053Z"
+}

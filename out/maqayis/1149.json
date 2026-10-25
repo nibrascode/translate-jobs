@@ -1,0 +1,17 @@
+{
+ "i": 1149,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 225,
+  "page_to": 225
+ },
+ "ar": "الخاء والواو والباء أُصَيْلٌ يدلُّ على خُلوٍّ وشِبهه. يُقال أصابتهم خَوْبةٌ، إذا ذهب ما عندهم ولم يبق شئ. والخَوْبَةُ: الأرض لا تُمطَرُ بين أرضَينِ قد مُطرَتا؛ وهى كالخَطِيطة.",
+ "az": "[خوب] الخاء والواو والباء أُصَيْلٌ (Xar, vav və ba kiçik bir əsasdır) — boşluğa və ona bənzər şeyə dəlalət edir. Deyilir: Onlara xovbət (خَوْبةٌ) üz verdi — yanlarındakı hər şey gedib heç nə qalmadıqda. Və əx-xovbət (الخَوْبَةُ) — yağmurlu iki torpaq arasındakı yağmur yağmamış torpaq; o, xətitə kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 234,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 241,
+  "page_to": 241
+ },
+ "ar": "الباء والراء والخاء أصل واحدٌ، إن كانَ عربِيًّا فهو النمَّاء والزِّيادة، ويقال إنَّها من البَرَكة وهى لغة نَبَطيّة.",
+ "az": "[برخ] (bərx). باء (ba), راء (ra) və خاء (xa) hərfləri tək bir əsasdır; əgər ərəbi sözdürsə, inkişaf və artım mənasını verir. Deyilənə görə, o, nəbati dilindən olan «əl-bərəc» (bərəkət) sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:02.135Z"
+}

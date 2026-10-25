@@ -1,0 +1,17 @@
+{
+ "i": 656,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 462,
+  "page_to": 462
+ },
+ "ar": "الجيم والعين والعين والباء أصلٌ واحد، وهو الجَمْع. قال ابن دريد: جَعَبْتُ الشئ جَعْباً. قال: وإنما يكون ذلك فى الشئ اليسير. وهذا صحيح. ومنه الجَعْبَةُ وهى كِنانة النُّشّاب. والجِعَابة صَنْعةُ الجِعَاب؛ وهو الجَعَّاب؛ وفعُله جعَّب يُجَعِّبُ تجعيباً. ويقال الجِعِبَّى والجَعِبَّاء: سافلة الإنسان. وقد أنشد الخليل فيه بيتاً كأنَّه مصنوع، وفيه قَذَعٌ، فلذلك لم نذكره.\nومما شذَّ عن الباب الجُعَبَى ضَرْبٌ من النَّمْل، وهو من قياس الجُعْبوب الدنِىِّ من الناس؛ لأنّه متجمّع للُؤْمه، غير منبسط فى الكرم.",
+ "az": "[جعب] (cim, eyn və ba) tək bir əsasdır, o da toplamaqdır. İbn Dürid dedi: جَعَبْتُ الشئ جَعْباً (cəbətu əş-şəyə cəbən). Dedi: Bu ancaq az şeydə olur. Bu səhihdir. Bunlardan biri də ox qabı olan الجَعْبَةُ (əl-cəbə) sözüdür. Və الجِعَابة (əl-ciəbə) — qabların sənətidir, o da الجَعَّابُ (əl-cəbbab)-dır; feli isə cəbbəvə yucebbivu təcbibəndir. Deyilir: الجِعِبَّى (əl-ciibba) və الجَعِبَّاء (əl-cəibba) — insanın arxası, aşağı hissəsidir. Xəlil orada elə bir beyt inşad etmişdir ki, guya uydurulmadır və onda qəbahət vardır, buna görə də onu qeyd etmədik. Babdan kənara çıxanlardan biri də bir növ qarışqa olan الجُعَبَى (əl-cübə) sözüdür, bu da insanlar arasında olan alçaq الجُعْبوب (əl-cubbub) qiyasındandır; çünki o, alçaqlığı üçün toplanmışdır, kərəm sahiblərində yayılmamışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:09.223Z"
+}

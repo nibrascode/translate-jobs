@@ -1,0 +1,17 @@
+{
+ "i": 909,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حفص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 86,
+  "page_to": 86
+ },
+ "ar": "الحاء والفاء والصاد ليس أصلا، ولا فيه لغة تنقاس.\nيقال للزَّبِيل من جُلودٍ حَفْص. ويقال للدَّجاجة أمَّ حَفْصة. ويقال إنَّ ولدَ الأسد حَفْصٌ. وفى كلِّ ذلك نظرٌ.",
+ "az": "«حفص» (həفص): Haa, fa və sad əsas deyil, onda qiyasən tətbiq olunan bir lüğət də yoxdur. Dəridən olan səbətə «حَفْص» (həfs) deyilir. Di没办法 tovuqa «أمّ حَفْصة» (ümmü həfsə) deyilir. Deyilir ki, şir balası da «حَفْص» (həfs) adlanır. Bütün bunlarda nəzər (araşdırma) vardır.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:02:08.982Z"
+}

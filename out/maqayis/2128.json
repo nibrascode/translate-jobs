@@ -1,0 +1,17 @@
+{
+ "i": 2128,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 220,
+  "page_to": 220
+ },
+ "ar": "الشين والهاء والباء أصلٌ واحدٌ يدلُّ على بياض فى شئٍ من سواد، لا تكون الشُّهبةُ خالصةً بياضاً. من ذلك الشُّهبة فى الفرَس، هو بياضٌ يخالطُه سَواد. ويقال كَتيبةٌ شَهباء، إذا كانت عِليتُها بياضَ الحديد، ويقال لليوم ذى البرد والصُّرَّاد (١): أشهبُ، والليلة الشّهباءُ. يقال: اشهابَّ الزّرْع، إذا هاج وبقَى فى خِلاله شئٌ أخضر. ومن الباب: الشِّهاب، وهو شُعلة نارٍ ساطعة. وإنّ فُلاناً لَشِهابُ حربٍ، وذلك إذا كان معروفاً فيها مشهوراً كشُهرة الكواكب اللّوامع. ويقال إنّ النّصل الأشهبَ الذى قد بُرِد بَرْداً خفيفاً حتى ذهب سوادُه. ويقال إنّ الشّهاب اللّبَن الضَّيَاح، وإنما سمِّى بذلك لأنَّ ماءَه (٢) قد كثر فصار كالبياض الذى يحالطه لونٌ آخر.",
+ "az": "[شهب] \nالشين والهاء والباء (şin, hə və ba) — qara rəngdə olan bir şeydəki bəyazlığa (ağlığa) dəlalət edən tək bir əsasdır, şühbə (çallıq) xalis ağlıq olmaz. Bunlardandır atda olan «الشُّهبة» — bu, qarışıq olan qaraya bənzər ağlıqdır. Deyilir: «كتيبةٌ شَهباء» — əgər onun dəmir parıltısı ağdısa. Şiddətli soyuq və şaxtalı günə «أشهب», gecəyə isə «الليلة الشّهباء» deyilir. Deyilir: «اشهابَّ الزّرْع» — əkin quruyub solduqda və arasında yaşıl bir şey qaldıqda. Bu fəsildəndir: «الشِّهاب» — parıldayan od şöləsi. «وإنّ فُلاناً لَشِهابُ حربٍ» — əgər o, parıldayan ulduzlar kimi şöhrəti ilə orada tanınmış və məşhurdursa. Həmçinin deyilir ki, «النصل الأشهب» — elə bir ülgüc/iti ucdur ki, qarasını gedənə qədər yüngülcə cilalanmışdır. Və deyilir ki, «الشهاب» — çox duru süddür (الضَّيَاح), o məhz ona görə belə adlandırılmışdır ki, suyu çoxulmuş və başqa rəng qarışan ağlığa bənzəmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:58.865Z"
+}

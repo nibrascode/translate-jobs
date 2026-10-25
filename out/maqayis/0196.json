@@ -1,0 +1,17 @@
+{
+ "i": 196,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بخس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 205,
+  "page_to": 206
+ },
+ "ar": "الباء والخاء والسين أصلٌ واحد، وهو النَّقْصُ. قال اللّه تعالى: ﴿وَشَرَوْهُ بِثَمَنٍ بَخْسٍ﴾ أى نَقْص. ومن هذا الباب قولهم فى المُخِّ: بَخَّسَ\nتَبخيساً، إذا صار فى السُّلامى والعَين، وذلك حين نُقصانه وذهابه من سائر البدن.\nوقال شاعر (١):\nلا يَشْتَكِين عَمَلاً ما أنْقَيْن … ما دام مُخٌّ فى سُلامَى أَوْ عَيْنْ",
+ "az": "«بخس» (bəx.s). Ba, xə və sin hərfləri əskilmə mənasını verən tək bir əsas kökdür. Uca Allah buyurmuşdur: ﴿وَشَرَوْهُ بِثَمَنٍ بَخْسٍ﴾ (mənaca tərcümə: Onu ucuz qiymətə – əskik qiymətə satdılar). Həmçinin sümük iliyi haqqında işlətdikləri bu söz də bundandır: «بَخَّسَ تَبخيساً» (bəxxəsə təbxisan) – bu, ilik oynaqda və gözdə azaldığı, bütün bədəndən çəkilib getdiyi zaman baş verir. Bir şair (١) demişdir: * Lə yəştəkinə ‘amələn ma ənqəyn … ma damə muxxun fi sülamin əv ‘əyn * (Əlləri təmiz olduğu müddətcə heç bir işdən şikayətlənməzlər … o vaxta qədər ki, sümükdə və ya gözdə ilik qalıb).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:27:05.781Z"
+}

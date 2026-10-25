@@ -1,0 +1,17 @@
+{
+ "i": 2281,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 303,
+  "page_to": 303
+ },
+ "ar": "الصاد واللام والجيم ليس بشئٍ، لقلّة ائتلاف الصاد مع الجيم. وحكيت فيه كلماتٌ لا أصل لها فى قديم كلام العرب. من ذلك الصَّولَج، وهى فيما زعموا الفضَّة الجيدة. يقال هذه فضَّةٌ صوْلج. ومنه الصَّولَجان. ويقال الأصلج: الأملس الشَّديد. وكلُّ ذلك لا معنى له.",
+ "az": "[صلج] (s-l-ج): Sad ilə cimin bir-biri ilə uzlaşmasının azlığı səbəbindən heç bir əsası yoxdur. Ərəblərin qədim dilində heç bir əsası olmayan bəzi kəlmələr nəql olunmuşdur. Bunlardandır الصَّولَج (əss-soulac), zənn etdiklərinə görə o, yaxşı gümüşdür. Deyilir ki, bu صوْلج (soulac) gümüşdür. Bunlardandır الصَّولَجان (əss-soulacan). Və deyilir الأصلج (əl-əsləc): hamar və sərt olan. Bütün bunların heç bir mənası yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:08.475Z"
+}

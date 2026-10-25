@@ -1,0 +1,17 @@
+{
+ "i": 982,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حيص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 124,
+  "page_to": 124
+ },
+ "ar": "الحاء والياء والصاد أصلٌ واحد، وهو المَيْل فى جَوْرٍ وتلدُّد. يقال حَاصَ عن الحقِّ يَحِيص حَيْصاً، إذا جارَ. قال:\n* وإنْ حاصَتْ عن المَوْتِ عامرُ (١) *\nويَرْوُون:\n* بميزانِ صِدْقٍ ما يَحِيص شعيرةً (٢)\nومن الباب قولهم: وقَعُوا فى حَيْص بَيْص، أى شدّة. قال الهُذلى:\nقد كُنْتُ خَرّاجاً ولوجاً صَيْرفاً … لم تَلْتَحِصْنِى حَيْصَ بَيْصَ لَحَاصِ (٣)",
+ "az": "[حيص] (heys) - Ha, ya və sad tək bir kökə malikdir ki, o da haqsızlıqla və tərəddüdlə yanaqdan çıxmaq, meyil etməkdir. Deyilir: «حَاصَ عن الحقِّ يَحِيص حَيْصاً» — haqq yolundan azdıqda, kənara çıxdıqda. O demişdir:\n* وإنْ حاصَتْ عن المَوْتِ عامرُ (١) *\n*(Əgər Amir qəbiləsi ölümcül vəziyyətdən yayınıb kənara çıxsa)*\nOnlar rəvayət edirlər:\n* بميزانِ صِدْقٍ ما يَحِيص شعيرةً (٢) *\n*(Həqiqət tərəzisi ilə o, bir arpa dənəsi belə kənara çıxmaz)*\nBu fasildəndir onların: «وقَعُوا فى حَيْص بَيْص» — yəni şiddətə, çətinliyə düşdülər, sözü. Hüzəli demişdir:\nقد كُنْتُ خَرّاجاً ولوجاً صَيْرفاً … لم تَلْتَحِصْنِى حَيْصَ بَيْصَ لَحَاصِ (٣)\n*(Mən tez-tez çıxan, girən, təcrübəli sərraf idim... məni çətinliyə salıb sıxışdıra bilmədin)*",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

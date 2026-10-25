@@ -1,0 +1,17 @@
+{
+ "i": 1054,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خرز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 166,
+  "page_to": 167
+ },
+ "ar": "الخاء والراء والزاء يدلُّ على جَمْع الشَّئ إلى الشئ وضَمِّه إليه.\nفمنه خَرْزُ الجِلْدِ. ومنه الخَرَزُ، وهو معروف، لأنه يُنْظم ويُنْضَدُ بعضُه إلى\nبعض. وفَقَار الظَّهر خَرَزٌ لانتظامه، وخَرَزاتُ الملك، كان الملِك منهم كلَّما مَلَكَ عاماً زِيدت فى تاجه خَرَزة؛ ليْعلَم بذلك عددْ سِنِى مُلْكِه. قال:\nرَعَى خَرَزاتِ المُلْكِ عِشرين حِجَّة … وعشرين حَتى فادَ والشيب شاملُ (١)",
+ "az": "[خرز] الخاء والراء والزاء يدلُّ على جَمْع الشَّئ إلى الشئ وضَمِّه إليه. (Xə, ra və zay hərfləri bir şeyi digərinə toplamağa və ona birləşdirməyə dəlalət edir.) فمنه خَرْزُ الجِلْدِ. (Ondandır: dərinin tikilməsi - خَرْزُ الجِلْدِ). ومنه الخَرَزُ، وهو معروف، لأنه يُنْظم ويُنْضَدُ بعضُه إلى بعض. (Və ondandır: əl-xarəz - məlumdur, çünki onun bəzisi digərinə nizamla düzülür və yığılır). وفَقَار الظَّهر خَرَزٌ لانتظامه، وخَرَزاتُ الملك، كان الملِك منهم كلَّما مَلَكَ عاماً زِيدت فى تاجه خَرَزة؛ ليْعلَم بذلك عددْ سِنِى مُلْكِه. (Bel fəqərələri düzülüşünə görə xarəzdir; padşahın muncuqları isə onlardan hər hansı bir padşah bir il hökmranlıq etdikdə tacına bir muncuq artırılardı ki, bununla səltənətinin illərinin sayı bilinsin). قال: (Dediyinə görə:) رَعَى خَرَزاتِ المُلْكِ عِشرين حِجَّة … وعشرين حَتى فادَ والشيب شاملُ (١) (Padşahlığın muncuqlarını iyirmi il və yenə iyirmi il qorudu, nəhayət qocalıq onu bürümüş halda vəfat etdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:08:18.841Z"
+}

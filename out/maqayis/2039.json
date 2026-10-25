@@ -1,0 +1,17 @@
+{
+ "i": 2039,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 165,
+  "page_to": 165
+ },
+ "ar": "الشين والصاد أصلٌ واحد مطّرد، يدلُّ على شدّة ورَهَق.\nمن ذلك قولهم: شَصَّتْ مَعِيشتُهم * وإِنَّهم لفى شَصَاصَاء، أى فى شِدّة. وأصله من قولهم شَصَّ الإنسان، إِذا عَضّ بنواجذه على الشئ عَضًّا. ويقال فى الدعاء:\nنَفَى اللّه عنك الشَّصائص، وهى الشّدائد.\nومن الباب الشِّصّ: شئٌ يُصاد به السّمك. ويقال لِّلصِّ الذى لا يَرَى شيئاً إِلاّ أتى عليه: شِصّ. قال الكسائىّ: يقال إنّ فلاناً على شَصَاصاء، أى على عَجَلة. قال:\nنحنُ نَتَجْنا ناقةَ الحَجّاجِ … على شَصَاصاء من النِّتاجِ (١)",
+ "az": "«شص» (şad-şin). Şin və sad tək bir əsas kök olub, şiddətə və yorğunluğa (və ya tələskənliyə) dəlalət edir. Bunlardan biri onların «شَصَّتْ مَعِيشتُهم» (yaşayışları daraldı, çətinləşdi) və «إِنَّهم لفى شَصَاصَاء» (həqiqətən də onlar çətinlik içərisindədirlər) sözləridir, yəni şiddət deməkdir. Bunun əsli insan haqqında işlədilən «شَصَّ الإنسان» (insan çeynədi) ifadəsidir, o zaman ki, [dişini] azı dişləri ilə bir şeyin üzərinə bərk sıxar. Dua edərkən belə deyilir: «نَفَى اللّه عنك الشَّصائص» (Allah səndən çətinlikləri uzaq etsin), buradakı «الشَّصائص» bəlalar deməkdir. Bu fəsildəndir: «الشِّصّ» — balıq ovlanan bir alət. Hər gördüyü şeyi ələ keçirən oğruya da «شِصّ» deyilir. Kisaî demişdir: Filankəs «شَصَاصَاء» üzərindədir, yəni tələsiklik içərisindədir. O demişdir: «نحنُ نَتَجْنا ناقةَ الحَجّاجِ … على شَصَاصاء من النِّتاجِ» (Biz Həccacın dəvəsini balalamaq tələskənliyi içərisində doğurtduq) (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:57.451Z"
+}

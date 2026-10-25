@@ -1,0 +1,17 @@
+{
+ "i": 2398,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضفو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 366,
+  "page_to": 366
+ },
+ "ar": "الضاد والفاء والحرف المعتل أصلٌ صحيح يدلُّ على سبوغ وتمام. يقال: ثوبٌ ضافٍ، وفرسٌ ضافى السَّبيب، إذا كان شَعَر ذنَبه وافيَا.\nوفلانٌ فى ضَفْو وضَفْوةٍ من عَيْشه. قال الأخطل (٣):\nإذا الهَدَفُ المِعزالُ صَوَّبَ رأسَه … وأعجبَه ضَفْوٌ من الثَّلّةِ الخُطْلِ (٤)\nالخُطْل: المسترخية الآذان. ورجلٌ ضافى الرأس، أى كثير شَعَر الرأْس، قال:\nإذا استغَثْتَ بضافى الرَّأس نَعَّاق (٥)\nوضَفْوَى: موضعٌ.",
+ "az": "[ضفو] «الضاد» (زاد), «الفاء» (fa) və uzanan hərf bol və tam olmağa dəlalət edən səhih bir əslidir. Deyilir: «ثوبٌ ضافٍ» (gen və bol paltar), «فرسٌ ضافى السَّبيب» (quyruğunun tükü bol olan at) — əgər quyruğunun tükləri bol və uzundursa.\nFilankəs dolanışığında «فى ضَفْو وضَفْوةٍ» (bolluq və rahatlıq içərisindədir). Əxtəl demişdir (٣):\nإذا الهَدَفُ المِعزالُ صَوَّبَ رأسَه … وأعجبَه ضَفْوٌ من الثَّلّةِ الخُطْلِ (٤)\n(Qoyun sürüsündən ayrı düşmüş hədəf başını aşağı endirdiyi zaman... və qulaqları sallanan qoyun sürüsünün bolluğu onu heyran etdi).\n«الخُطْل» (əl-xutl) — sallanan qulaqlardır. «رجل ضافى الرأس» (başı saçlı kişi) — yəni başının tükləri çox olan kəs, o demişdir:\nإذا استغَثْتَ بضافى الرَّأس نَعَّاق (٥)\n(Saçları bol olan qışqıran kəsə imdad dilədiyin zaman).\n«ضَفْوَى» (Zəfva) — bir yerin adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.497Z"
+}

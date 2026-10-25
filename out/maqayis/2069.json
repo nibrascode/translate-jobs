@@ -1,0 +1,17 @@
+{
+ "i": 2069,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شظى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 189,
+  "page_to": 189
+ },
+ "ar": "الشين والظاء والحرف المعتل أصلٌ يدلُّ على تصدُّع الشئ من مواضع كثيرة، حتى يصيرَ صُدُوعاً متفرّقة، من ذلك الشَّظِيّة من الشئ:\nالفِلْقة. يقال تَشَظَّت العصا، إذا كانت فِلَقا (١). قالت فَروةُ بنتُ [أبانَ بن (٢)] عبدِ المَدَان.\nيا مَنْ أحسَّ بُنَيَّىَّ اللّذِين هما … كالدُّرَّتين تَشظّى عنهما الصَّدفُ (٣)",
+ "az": "[شظى] \nŞin, zai və uzanan hərf bir çox yerlərdən bir şeyin parçalanıb ayrılmasına və nəticədə ayrı-ayrı yarıqlara çevrilməsinə dəlalət edən təməl bir kökdür. Bunlardan biri bir şeyin parçası olan əş-şaziyədir (الشَّظِيّة): parça. Deyilir: çubuq parçalandı (تَشَظَّت العصا), o, parça-parça olduqda. Əban ibn [Əbdül-Mədanın] qızı Fərvə demişdir:\nيا مَنْ أحسَّ بُنَيَّىَّ اللّذِين هما … كالدُّرَّتين تَشظّى عنهما الصَّدفُ (٣)\n(Ey iki körpəmi hiss edən kəs ki, onlar sədəfin parçalanıb içindən çıxdığı iki inci kimidirlər)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:02.753Z"
+}

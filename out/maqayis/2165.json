@@ -1,0 +1,17 @@
+{
+ "i": 2165,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شأى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 239,
+  "page_to": 239
+ },
+ "ar": "الشين والهمزة والياء كلمةٌ من باب الإبدال، على اختلافٍ فيها. قال قوم: شأيت مثل شأوت فى السَّبْق؛ يقال منه شأى واشتأى [قاله المفضّل (١)]، وأنشد:\nفأيِّهْ بكِنْدِيرٍ حِمار أبنِ واقِع … رآك بِكِيرٍ فاشْتَأَى من عُتَائِدِ (٢)\nوقال قوم: اشتأى: أشرفَ. والذى قاله المفضَّل أصوب وأقيَس.",
+ "az": "«شأى»: الشين والهمزة والياء كلمةٌ من باب الإبدال (Şin, həmzə və yə hərflərindən ibarət kəlmə əvəzetmə fəslindəndir), على اختلافٍ فيها (bu barədə ixtilaf vardır). قال قوم: شأيت مثل شأوت فى السَّبْق (Bəzi tayfalar dedi: Mən yarışda öt-mək mənasında şəvtu kimi şəytu da dedim); يقال منه شأى واشتأى [قاله المفضّل (١)] (Ondan şəyə və iştəyə felləri düzəlir [bunu Məfəddəl demişdir]), وأنشد (və şeir söylədi):\nفأيِّهْ بكِنْدِيرٍ حِمار أبنِ واقِع … رآك بِكِيرٍ فاشْتَأَى من عُتَائِدِ (٢)\n(Ey İbn Vaqicinhindisək eşşəyi! O səni səhər tezdən gördü və Ütəiddən uzaqlaşıb qabaqladı)\nوقال قوم: اشتأى: أشرفَ (Bəzi tayfalar dedi: İştəyə – ucaldı, yuxarıdan baxdı deməkdir). والذى قاله المفضَّل أصوب وأقيَس (Məfəddəlin dediyi daha doğru və qiyasə uyğundur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:06.969Z"
+}

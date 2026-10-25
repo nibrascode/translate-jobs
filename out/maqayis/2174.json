@@ -1,0 +1,17 @@
+{
+ "i": 2174,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 242,
+  "page_to": 242
+ },
+ "ar": "الشين والباء واللام أصلٌ صحيح يدلُّ على عطفٍ ووُدٍّ.\nيقال لكل عاطفٍ على شئ وادّ له: مُشْبِل. ومنه اشتقاق الشِّبْل، وهو ولد الأسَد، لعطف أبوَيْه علمه. ويقال لبؤةٌ مُشْبِلٌ، إذا كان معها أولادُها.\nوأشبلتِ المرأةُ، إذا صَبَرت على أولادها فلم تتزوَّجْ. وقال الكميت:\nالمُلَبْلِبٌ والمُشْبِلُ (١)\nوحكى عن الكسائىّ: شَبَلْت فى بنى فلانٍ، إذا نَشأتَ فيهم. وقد شَبَل الغلامُ أحْسَنَ الشُّبول، إذا أدْرَكَ. وهذا على السَّعة والمجاز، لأنه يُشبَل عليه أى يُعطَف.",
+ "az": "«شبل» (şəbl). Şin, ba və lam hərfləri mərhəmətə və sevgiye dəlalət edən səhih bir kökdür. Hər bir şəfqət göstərənə və sevənə: مُشْبِل (muşbil) — deyilər. Şِّبْل (əş-şibl) sözünün törəməsi də bundandır; o, şir balasıdır, çünki valideynləri ona qarşı şəfqət göstərirlər. Yanında balaları olan dişi şirə لبؤةٌ مُشْبِلٌ (ləbəətun muşbilun) deyilər. Qadın övladlarına səbir edib ərə getmədikdə: أشبلتِ المرأةُ (əşbələti əl-mərətü) deyilər. Əl-Kumeyt demişdir: المُلَبْلِبٌ والمُشْبِلُ (١) (Titrəyən və şəfqət göstərən). Əl-Kisaidən rəvayət olunmuşdur: شَبَلْت فى بنى فلانٍ (şəbəltu fi bəni fulan) — filan qəbilə içində böyüdün. Oğlan uşağı həddi-buluğa çatdıqda: شَبَل الغلامُ أحْسَنَ الشُّبول (şəbəl əl-ğulamu əhsənə əş-şubul) deyilər. Bu, geniş məna və məcazdır, çünki ona şəfqət göstərilir, yəni mərhəmət edilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

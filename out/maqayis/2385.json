@@ -1,0 +1,17 @@
+{
+ "i": 2385,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 361,
+  "page_to": 361
+ },
+ "ar": "الضاد والزاء كلمةٌ واحدة، وهى الضَّزز، وهو لُصوق الحنَك الأعلى بالأسفل؛ رجلٌ أضَزُّ.",
+ "az": "[ضز] «الضاد» (زاد) və «الزاي» (zay) hərflərindən ibarət tək bir kəlmədir: o da «الضَّزز» (əz-zəzəz) olub, üst çənənin alt çənəyə yapışmasıdır; «رجل أضَزُّ» (əzəzz kişi) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

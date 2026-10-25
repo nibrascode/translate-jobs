@@ -1,0 +1,17 @@
+{
+ "i": 1040,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خدش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 160,
+  "page_to": 160
+ },
+ "ar": "الخاء والدال والشين أصلٌ واحد، وهو خَدْشُ الشئِ للشئ. يقال خَدَشْتُ الشئَ خدشاً؛ وجمع الخَدْش خُدُوش. ويقال لأطراف السَّفَا الخادشَة؛ لأنّها تَخْدِش. ويقال لكاهل البعير [مِخْدَش (٦)]؛ لقلّة لحمِه، وتخديشِه فَمَ مُتَعرَقِه.",
+ "az": "«خدش» (خ، د، ش) — bir əsas prinsipə malikdir, o da bir şeyin başqa bir şeyi cızmasıdır. Deyirlər: خَدَشْتُ الشئَ خَدْشاً (xədəştü əş-şeyə xədşən) — bir şeyi cızdım; və خَدْش (xədş) sözünün cəmi خُدُوش (xuduş) olur. Cızan Səfa (çöl bitkisi) uclarına خَادِشَة (xadişə) deyilir; çünki onlar cızır. Və dəvənin kəhfinə (çiyinlərinə) [مِخْدَش (mixdəş) (٦)] deyilir; ətinin azlığına və ət yeyənin ağzını cızmasına görə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

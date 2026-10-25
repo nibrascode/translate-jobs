@@ -1,0 +1,17 @@
+{
+ "i": 1915,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 99,
+  "page_to": 99
+ },
+ "ar": "السين والميم والحاء أصلٌ يدل على سَلاسةٍ وسُهولة. يقال سَمَح له بالشئ. ورجل سَمْحٌ، أى جواد، وقومٌ سُمَحاء ومَسامِيح. ويقال سَمَّح فى سيره، إذا أسرع. قال:\nسَمَّحَ واجتابَ فلاةً قِيَّا (٢)\nومن الباب: المُسامَحة فى الطِّعان والضَّرب، إِذا كان على مُساهَلة. ويقال رُمْحٌ مسَمَّحٌ: قد ثُقِّف حتَّى لانَ.",
+ "az": "[سمح] (sin, mim və ha) — rahatlığa və asanlığa dəlalət edən bir əsasdır. «سَمَح له بالشئ» (bir şeydə ona səxavət göstərdi/icazə verdi) deyilir. «رجل سَمْحٌ» — səxavətli kişi deməkdir, tayfaya isə «سُمَحاء» və «مَسامِيح» deyilir. «سَمَّح فى سيره» — gedişində tələsdi, deməkdir. (Şair) demişdir: «سَمَّحَ واجتابَ فلاةً قِيَّا» (٢). Bu qapıdandır: «المُسامَحة فى الطِّعان والضَّرب» — sancmaqda və vurmaqda asanlıq və güzəşt göstərilməsi. «رُمْحٌ مسَمَّحٌ» — yumşalana qədər düzəldilmiş və incəldilmiş nizə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.159Z"
+}

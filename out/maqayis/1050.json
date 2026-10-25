@@ -1,0 +1,17 @@
+{
+ "i": 1050,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خذق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 165,
+  "page_to": 165
+ },
+ "ar": "الخاء والذال والقاف ليس أصلاً، وإِنّما فيه كلمةٌ من باب الإبدال. يقال خَذَق الطّائر، إذا ذَرَق. وأراه * خَزَق، فأُبدِلت الزاء ذالاً.",
+ "az": "«خذق» (خ، ذ، ق) — əsas deyil, sadəcə olaraq əvəzetmə fəslindən bir kəlmədir. Deyilir: خَذَقَ الطَّائرُ (xədəqə ət-tairu) — quş ifraz etdi (pisikdi). Mən hesab edirəm ki, o, خَزَقَ (xəzəqə) olub, zay hərfi ذal (z) ilə əvəz olunub.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2381,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 359,
+  "page_to": 359
+ },
+ "ar": "الضاد والحاء أصلٌ صحيح يدلُّ على رقَّةِ شئٍ بعينه. من ذلك الضَّحضاح: الماء إلى الكَعبَين، سمِّى بذلك لرقّته. والضَّحضحة: تَرقرُقُ السَّراب. ومنه الضِّحّ، وهو ضَوء الشّمس إِذا استمكَنَ من الأرض. وكان أبنُ الأعرابىِّ يقول: هو لون الشَّمس. ويقولون: جاء فلانٌ بالضِّحِّ والرِّيح، يُراد به الكَثْرة، أى ما طلَعت عليه الشَّمس وما جرَت عليه الرِّيح. قال:\nولا يقال [الضِّيح (٦)].",
+ "az": "[ضح] (ض، ح) — Məxsusi olaraq bir şeyin incəliyinə və şəffaflığına dəlalət edən səhih bir əsasdır. Bunlardan الضَّحضاح (əz-dəhdah) — topuq səviyyəsinə qədər olan sudur, incəliyinə görə belə adlanmışdır. Və الضَّحضحة (əz-dəhdəhə) — sərabın parıldamasıdır. Və buradan الضِّحّ (əz-zih) — yer üzünü bürüyən günəş işığıdır. İbn əl-Ərəbi deyərdi: O, günəşin rəngidir. Deyirlər: جاء فلانٌ بالضِّحِّ والرِّيح (Filankəs günəşin çıxdığı və küləyin əsdiyi hər şeyi, yəni çoxluq gətirdi). Şair demişdir:\nولا يقال [الضِّيح (٦)] (Və [əz-zih] deyilməz).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.778Z"
+}

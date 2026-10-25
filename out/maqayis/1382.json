@@ -1,0 +1,17 @@
+{
+ "i": 1382,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 344,
+  "page_to": 344
+ },
+ "ar": "الذال والعين فى المطابق أَصلٌ واحد يدلُّ على تفريق الشئ.\nيقال ذعْذعت الرِّيحُ [الشئَ] إذا فرّقَتْه، فتذعْذع، أى تفرّق. قال النابغة:\n* تُذَعْذِعُها مُذَعْذِعَةٌ حَنُونُ (١) *\nويقال إِنّ الذُّعَاع الفُرْجة بين النَّخْلة والنَّخلةِ، فى شعر طَرَفَة، على اختلافٍ فيه؛ فقد قال بعضُهم إِنّه بالدّال، وقد مضى ذِكْرُه (٢).\nوحكى ابنُ دريدٍ (٣): ذَعْذَع السِّرَّ: أذاعَه. والذعاع: الفِرَقُ من الناس، الواحدةُ ذَعاعة.",
+ "az": "[ذع] (Zə-a-lə). Mütabiq (bənzər) formalarda zəl və eyn hərfləri bir şeyin parçalanmasına dəlalət edən tək bir təməldir. Deyilir: ذعْذعت الرِّيحُ [الشئَ] (külək şeyi dağıtdı, parça-parça etdi), فَتَذَعْذَعَ (fətəzə’zəə), yəni parçalandı. Nabigə demişdir: * تُذَعْذِعُها مُذَعْذِعَةٌ حَنُونُ (٢) * (Mərhəmətli parçalayıcı külək onu parça-parça edir...) Və deyilir ki, الذُّعَاعُ (əz-zü’əu) xurma ağacı ilə digər xurma ağacı arasındakı boşluqdur, Tərəfənin şeirində, bu barədə ixtilaf olmaqla; çünki bəziləri bunun dal hərfi ilə olduğunu demişlər və zikrindən ötülmüşdür (٢). İbn Dürid rəvayət etmişdir (٣): ذَعْذَع السِّرَّ (sırrı yaydı): onu ifşa etdi. وَالذُّعَاعُ (əz-zü’əu): insan dəstələri, təkli ذَعَاعَةٌ (zə’aətün) olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

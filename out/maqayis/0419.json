@@ -1,0 +1,17 @@
+{
+ "i": 419,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تنن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 340,
+  "page_to": 340
+ },
+ "ar": "التاء والنون كلمتانِ ما أدرى ما أصْلُهما، إلا أنّهم يُسَمُّون التِّرْب التِّن (٤). ويقولون: أتَنَّهُ المرضُ، إذا قَصَعَهُ وهو لا يكاد يَشِبُّ (٥).",
+ "az": "«تنن» (t-n-n): Tə və nun əslinin nə olduğunu bilmədiyim iki kəlmədir, lakin onlar həmyaşıda التِّرْب (əttirb) əvəzinə التِّن (əttin) deyirlər. Və deyirlər: أتَنَّهُ المرضُ (ətənnəhul-mərədu): xəstəlik onu zəiflədib çökdürdü, o demək olar ki, böyümür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

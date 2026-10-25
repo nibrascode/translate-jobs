@@ -1,0 +1,17 @@
+{
+ "i": 2211,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شدخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 256,
+  "page_to": 256
+ },
+ "ar": "الشين والدال والخاء كلمةٌ تدلُّ على كسرِ شئٍ أجوفَ.\nمن ذلك شدخت الشئَ شَدْخاً. والمُشَدَّخ: البُسر يُغمَز حتى ينشدخ. ومن ذلك الغُرّة الشَّادِخة: التى تَغْشَى الوجهَ من أصل النّاصية إلى الأنف.",
+ "az": "«شدخ» (şədəx). Şin, dal və xa köklü bir kəlmə olub, içi boş olan bir şeyi sındırmağa dəlalət edir. Bunlardandır: «شَدَخْتُ الشَّيْءَ شَدْخاً» (bir şeyi əzib sındırdım). «المُشَدَّx» (əl-muşəddəx) – sıxılaraq qabığı yarılan xam xurmadır. Həmçinin «الغُرَّةُ الشَّادِخَةُ» (alnın başından burnuna qədər uzanan ağ ləkə) – alından burnun kökünə qədər üzü bürüyən ağlığa deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

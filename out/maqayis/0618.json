@@ -1,0 +1,17 @@
+{
+ "i": 618,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جذب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 440,
+  "page_to": 440
+ },
+ "ar": "الجيم والذال والباء أصلٌ واحدٌ يدلُّ على بَتْرِ الشَّئ (٣) يقال جذَبْتُ الشَّىْ ءَ أجذبُه جذْباً. وجذَبتُ المُهْر عن أُمّه إذا فطمتَه، ويقال ناقة جاذب، إذا قلَّ لبنها، والجمع جواذب. وهو قياس الباب؛ لأنه إذا قل لبنها فكأنها جَذبته إلى نفسها.\nوقد شذّ عن هذا الأصل الجَذَب، وهو الجُمَّار (٤) الخَشِن، الواحد جَذَبة",
+ "az": "[جذب] (Cim, ذal və ba): Bir şeyi kökündən qoparıb ayırmağa dəlalət edən tək bir əsasdır (3). Deyilir: «جذَبْتُ الشَّىْءَ أجذبُه جذْباً» (şeyi çəkdim, çəkirəm). Və «جذَبتُ المُهْر عن أُمّه» (dayçanı anasından ayırıb süddən kəsdim). Deyilir: «ناقة جاذب» (südü azalan dəvə), cəmi «جواذب» (cəvazib) gəlir. Bu, bu babın qiyasındandır; çünki onun südü azalanda elə bil onu özünə tərəf çəkmişdir. Bu əsasdan yalnız «الجَذَب» (cəzəb) sözü istisna olaraq şaz gəlmişdir, o da sərt xurma özəyidir (4), təkliyi «جَذَبة» (cəzəbə) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:27.644Z"
+}

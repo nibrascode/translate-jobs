@@ -1,0 +1,17 @@
+{
+ "i": 433,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ترف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 345,
+  "page_to": 345
+ },
+ "ar": "التاء والراء والفاء كلمة واحدة، وهى التُّرْفَة. يقال رجلٌ مُترفٌ مُنَعَّمٌ، وتَرَّفَهُ أهلُه إذا نعّموه بالطَّعام الطيِّب والشّئِ يُخَصُّ به. وفى كتاب الخليل: التُّرفَة الهَنَةُ فى الشَّفَة العُلْيا. وهذا غلطٌ، إنَّما هى التُّفِرَةُ وقد ذُكِرَتْ (٢).",
+ "az": "[ترف] (tə-rə-f). Ta, ra və fa hərfləri tək bir kəlmədir, o da التُّرْفَة (ət-türfə)dir. Deyilir: kişi مُترف (mütrəf) — nemət içində yaşadan, və ailəsi onu تَرَّفَهُ (tərrəfəhu) — dadlı yeməklər və ona məxsus edilən şeylərlə əzizləyib nemət içində yaşatdı. Xəlilin kitabında [deyilir]: Türfə — üst dodaqdakı çuxurdur. Bu səhvdir, əslində o, التُّفِرَة (ət-tüfirə)dir ki, artıq zikr edilmişdir (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.803Z"
+}

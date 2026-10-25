@@ -1,0 +1,17 @@
+{
+ "i": 2498,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 415,
+  "page_to": 416
+ },
+ "ar": "الطاء واللام والميم أصلٌ صحيح، وهو ضرب الشئ بِبَسْط الشَّئ المبسوط. مثال ذلك الطَّلْم، وهو ضربُك خُبْزة المَلَّة بيدك تنفُضُ ما عليها من الرّماد. وما أقرَبَ ما بين الطَّلْم واللَّطْم. والدّليل على ذلك قول حسّان:\nتُطَلِّمهن بالخُمُر النِّساءُ (١)\nفإنَّ ناسا يرونه كذا، وآخرون يرونه: «تلطِّمُهنَّ». وذلك دليلٌ على أن المعنى واحد. ويقال إنَّ الطلْمة الخُبْزة، وإنّما سمِّيت بذلك لأنَّها تُلْطَم.",
+ "az": "[طلم] الطاء (ta), اللام (lam) və الميم (mim) düzgün bir kökdür və bu, yastı bir şeyi yastı bir şeylə vurmaqdır. Buna misal الطَّلْم (ət-təlm) sözüdür, bu, külün üzərindəki külü təmizləmək üçün əlinlə çörəyi vurmağındır. الطَّلْم (təlm) ilə اللَّطْم (lətm) arasında nə qədər də az fərq var. Buna dəlil Həssanın sözüdür: تُطَلِّمهن بالخُمُر النِّساءُ (1) (Qadınlar onları yaylıqlarla vururlar). Bəzi insanlar bunu belə görür, digərləri isə «تلطِّمُهنَّ» (tələttimuhunnə) kimi görürlər. Bu, mənanın bir olduğuna dəlildir. Deyilir ki, الطَّلمة (ət-təlmə) çörəkdir və o, vurulduğu üçün belə adlandırılmışdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:09:04.543Z"
+}

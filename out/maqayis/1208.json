@@ -1,0 +1,17 @@
+{
+ "i": 1208,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 259,
+  "page_to": 260
+ },
+ "ar": "الدال واللام أصلان: أحدهما إبانة الشئ بأمارةٍ تتعلّمها، ولآخَر اضطرابٌ فى الشئ.\nفالأوَّل قولهم: دلَلْتُ فلاناً على الطريق. والدليل: الأمارة فى الشئ. وهو بيِّن الدَّلالة والدِّلالة.\nوالأصل الآخَر قولهم: تَدَلْدَل الشَّئُ، إذا اضطرَبَ. قال أوس:\nأمْ مَنْ لَحىً أضاعوا بعضَ أمرِهِمُ … بَيْنَ القُسوط وبين الدِّينِ دَلْدَالِ (١)\nوالقُسوط: الجَوْر. والدِّين: الطّاعة.\nومن الباب دَلال المرأة، وهو جُرْأتها فى تَغَنُّجٍ وشِكْلٍ، كأَنَّها مخالِفَةٌ وليس بها خِلاف. وذلك لا يكون إلاّ بتمايُلٍ واضطراب. ومن هذه الكلمة:\nفلانٌ يُدِلُّ على أقرانِهِ (٢) فى الحرب، كالبازى يُدِلُّ على صيده.\nومن الباب الأوّل قولُ الفرّاء عن العرب: أدَلّ يُدِلّ، إذا ضَرَبَ بقَرابَةٍ (٣).",
+ "az": "[دل] (Də və lam) iki əsas kökə malikdir: bunlardan biri öyrəndiyin əlamətlə bir şeyi izhar etmək, digəri isə şeydəki sarsıntıdır. Birincisi, onların «dələl-tü fəlanən alə ət-təriq» (دلَلْتُ فلاناً على الطريق) sözləridir. əd-Dəlil (الدليل) – şeydəki əlamətdir. O, açıq-aşkar dəlalətə və dilalətə malikdir. Digər əsas isə onların «tədəldələ əş-şeyu» (تَدَلْدَلَ الشَّئُ) – sarsıldığı zaman işlətdikləri sözdür. Ovs demişdir: أمْ مَنْ لَحىً أضاعوا بعضَ أمرِهِمُ … بَيْنَ القُسوط وبين الدِّينِ دَلْدَالِ (١) (Və ya o kəslər ki, məzəmmət edərək işlərinin bir qismini zay etdilər… qəzəb və itaətsizlik [daldal] arasında). əl-Qusut (القُسوط) – zülm. əd-Din (الدِّين) – itaət. Bu بابdan qadının dəlalı (دَلال المرأة), onun naz-qəmzə və işvə ilə cəsarət etməsidir, sanki o müxalifdir, halbuki heç bir müxalifət yoxdur. Bu da ancaq meyl etmək və sarsıntı ilə olur. Bu kəlmədən: Fəlanun yudillü alə əqranih (فلانٌ يُدِلُّ على أقرانِهِ) – müharibədə öz taylarına qarşı cəsur olur, ovuna qarşı cəsur olan şahin kimi. Birinci بابdan Fəranın ərəblərdən rəvayət edərək dediyidir: ədəllə yudillü (أدَلّ يُدِلّ) – qohumluqla təkəbbür göstərdiyi zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:59.920Z"
+}

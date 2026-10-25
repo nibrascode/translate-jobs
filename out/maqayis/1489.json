@@ -1,0 +1,17 @@
+{
+ "i": 1489,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رصن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 399,
+  "page_to": 399
+ },
+ "ar": "الراء والصاد والنون أصلٌ واحد يدلُّ على ثَبَاتٍ وكمال وإحكام. تقول: شئ رصينٌ، أى شديد ثابت. وقد رَصُن رَصانةً، وأرصنتُه أنا.\nوحكى ناسٌ: فلانٌ رصينٌ بحاجَتِك، أى حَفِىٌّ. ويقال رَصَنْتُ الشئَ (١):\nأكملتُه. وقال أبو زيد: رصَنْت الشئَ معرفةً (٢). والرَّصِيتانِ فى رُكْبة الفرس:\nأطرافُ القَصَب المركَّب فى رَضَفَة الفَرَس.\nومما شذَّ عن الباب قولهم: هو رصينُ الجَوف، أى مُوجّع الجوف. قال:\n* تقول إنَّى رَصِينُ الجَوْفِ فاسقُونِى (٣) *\nويقولون: رصَنَه بلسانه رصْناً، أى شَتَمه. وفيه نظرٌ.",
+ "az": "«رصن» (Rə-s-n): Ra, sad və nun sabitliyə, kamil olmağa və möhkəmliyə dəlalət edən tək bir əsasdır. Deyirsən: شئ رصينٌ (Rəsin şey), yəni güclü, sabit. Və o, رَصُن رَصانةً (rəsünə rəsanətən) möhkəm oldu, və mən onu أرصنتُه (ərsəntuhu) etdim. Və bəzi insanlar rəvayət etmişlər: فلانٌ رصينٌ بحاجَتِك (Filankəs sənin ehtiyacınla bağlı rəsindir), yəni qayğıkeşdir. Və deyilir: رَصَنْتُ الشئَ (Rəsəntüş-şeyə): onu kamil etdim. Və Əbu Zeyd demişdir: رَصَنْت الشئَ معرفةً (Mən o şeyi tanımaqla kamil etdim). Və الرَّصِيتانِ (Rəsitani) atın dizində: atın dizindəki sümüyün uclarıdır. Və babdan kənar çıxan tək bir kəlmə onların رصينُ الجَوف (rəsinul-cövf) demələridir, yəni qarnı ağrıyan. (Şair) demişdir: تقول إنَّى رَصِينُ الجَوْفِ فاسقُونِى (Deyirsən ki, həqiqətən, mən qarnı ağrıyanam, mənə su verin içim). Və deyirlər: رصَنَه بلسانه رصْnaً (Onu dili ilə rəsən etdi), yəni onu söydü. Və bunda nəzər (araşdırma) var.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

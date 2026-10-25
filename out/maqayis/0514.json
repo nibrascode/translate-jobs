@@ -1,0 +1,17 @@
+{
+ "i": 514,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 375,
+  "page_to": 375
+ },
+ "ar": "الثاء والراء والدال أصلٌ واحد، وهو فَتَّ الشئ، وما أشبهه.\nيقال ثَرَدْتُ الثَّريد أثْرُدُه. ويقال - وهو من هذا القياس - إنّ الثَّرَدَ تشققٌ فى الشّفَتين. وجاء فى الحديث فى ذكر الذبيحة: «كُلّ ما أفْرَى الأوداجَ غيرَ مُثَرَّدٍ (٤)»، وذلك أن لا تكونَ الحديدةُ حادّةً فيثرَّدَ موضِع الذَّبح، كما يتشقَّقُ الشئِ ويتشَظَّى.",
+ "az": "[ثرد] الثاء والراء والدال أصلٌ واحد (Thə, ra və dal tək bir əsasdır), və o, şeyi doğramaq və bənzəridir. Deyilir: ثَرَدْتُ الثَّريد أثْرُدُه (Səridi səradtü səruduhu). Deyilir ki, – və bu, bu qiyasdandır – الثَّرَد (əs-sərəd) dodaqlarda çatlardır. Qurbana dair hədisdə gəlmişdir: «كُلّ ما أفْرَى الأوداجَ غيرَ مُثَرَّدٍ» (Damarları kəsən, lakin sərrədd edilməmiş hər şey yeyilər) (٤), və bu, kəsici alətin iti olmaması, nəticədə kəsim yerinin şeyin çatlayıb parçalandığı kimi sərrəd olunmaması üçündür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.075Z"
+}

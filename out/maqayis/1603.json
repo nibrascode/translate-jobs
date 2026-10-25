@@ -1,0 +1,17 @@
+{
+ "i": 1603,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 448,
+  "page_to": 449
+ },
+ "ar": "الراء والهاء والشين أصلٌ يدلُّ على اضطرابٍ وتحرُّك.\nفالارتهاش: أن تصطدم يدُ الدابة فى مَشْيِه فتعقِر رواهِشَه، وهى عصَب باطن الذّراع. قال الخليل: والارتهاش ضربٌ من الطَّعْن فى عَرْض. قال:\nأبا خالدٍ لولا انتظارِىَ نصرَكُمْ … أخذْتُ سِنانى فارتهشْتُ به عَرْضا (٤)\nقال: وارتهاشُه: تحريك يدَيه. ومن الباب رجل رُهْشُوشٌ: حَيىٌّ (١) كريم كأَنه يهتزّ ويرتاح للكرم والخِير. ومن الباب المرتَهِشة، وهى القوس التى إذا رُمِىَ عنها اهتزَّتْ فضرب وترُها أبْهَرَها. والرَّهيس: التى يُصيب وترُها طائفها. ومن الباب ناقةٌ رُهشوشٌ: غزيرة.",
+ "az": "[رهش] «الراء» (ra), «هاء» (hə) və «شين» (şin) sarsıntı və hərəkətə dəlalət edən əsasdır.\nFəsildəndir: الارتهاش (əl-irtihəş) — minik heyvanının gediş zamanı əllərinin bir-birinə çırpılması və ön qolun daxilindəki əzələləri zədələməsi. Xəlil demişdir: Və əl-irtihəş — eninə doğru vurulan bir növ zərbədir. O demişdir:\nأبا خالدٍ لولا انتظارِىَ نصرَكُمْ … أخذْتُ سِنانى فارتهشْتُ به عَرْضا (٤)\n(Ey Əbu Xalid, sizin köməyinizi gözləməsəydim, nizəmi götürüb onunla eninə zərbə endirərdim)\nO demişdir: Onun əl-irtihəşi — əllərini hərəkət etdirməsidir. Bu fəsildəndir: رُهْشُوشٌ (ruşuş) kişi — utancaq (١) və səxavətli, sanki səxavətə və xeyirə görə titrəyir və sevinir. Bu fəsildəndir: المرتَهِشة (əl-murtəhişə) — ox atıldığı zaman titrəyən və oxun ipi ürəyinə (və ya oxun köksünə) dəyən yay. Və الرَّهيس (ərrəhis) — ipi ətrafına toxunan yay. Və bu fəsildəndir: رُهشوشٌ (ruşuş) dişi dəvə — südü bol olan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

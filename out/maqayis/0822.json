@@ -1,0 +1,17 @@
+{
+ "i": 822,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 29,
+  "page_to": 29
+ },
+ "ar": "الحاء والثاء أصلان: أحدهما الحضُّ على الشئ، والآخر يَبيسٌ مِنْ يبيس الشئ.\nفالأوَّل قولهم: حَثَثْتُه على [الشئ] أحُثّه. ومنه الحَثِيث؛ يقال ولَّى حَثِيثاً، أى مسرِعا. قال سَلامة:\nولَّى حثيثاً وهذا الشيبُ يطلُبه … لو كان يدركه ركضُ اليعاقِيبِ (١)\nومنه الحَثْحثَة، وهو اضطرابُ البرق فى السَّحاب.\nوأمّا الآخر فالحُثُّ وهو الحطام اليَبِيس، ويقال الحُثّ الرّمل اليابس اَلخشِن. قال:\n* حتى يُرى فى يابِس الثّرْياء حُثّ (٢)",
+ "az": "[حث] الحاء والثاء أصلان (ha və sə hərflərinin iki əsası vardır): أحدهما الحضُّ على الشئ (biri bir şeyə sövq etmək və təşviq etməkdir), والآخر يَبيسٌ مِنْ يبيس الشئ (və digəri bir şeyin qurularından olan quru şeydir). فالأوَّل قولهم (Birincisi onların bu sözüdür): حَثَثْتُه على [الشئ] أحُثّه (Mən onu [bir şeyə] sövq etdim, ona təkan verirəm). ومنه الحَثِيث (Və bundandır əl-həsis): يقال ولَّى حَثِيثاً (deyilir ki, o, sürətlə dönüb getdi), أى مسرِعا (yəni tələsik). قال سَلامة (Sələmə demişdir): ولَّى حثيثاً وهذا الشيبُ يطلُبه … لو كان يدركه ركضُ اليعاقِيبِ (١) (Sürətlə dönüb getdi, halbuki bu ağ saçlar onu axtarır, əgər onu durnaların qaçışı çata bilsəydi). ومنه الحَثْحثَة (Və bundandır əl-həthəthə), وهو اضطرابُ البرق فى السَّحاب (və o, buluddakı şimşəyin parıltısı və hərəkətidir). وأمّا الآخر (Digərinə gəldikdə isə) فالحُُّ (əl-huss) وهو الحطام اليَبِيس (və o, quru qırıntıdır), ويقال الحُثّ الرّمل اليابس اَلخشِن (Və deyilir ki, əl-huss quru və sərt qumdur). قال (Demişdir): * حتى يُرى فى يابِس الثّرْياء حُثّ (٢) * (Hətta Sürəyyanın quruluğunda huss görünənə qədər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:08.135Z"
+}

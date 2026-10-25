@@ -1,0 +1,17 @@
+{
+ "i": 1659,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ربغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 481,
+  "page_to": 481
+ },
+ "ar": "الراء والباء والغين كلمة واحدة إنْ صحّت. يقولون ربيعٌ رابغ، أى خَصيب؛ حُكيَتْ عن أبى زيد. وحُكى عن ابن دُريد (٢): الرَّبْغ التراب المُدَقَّق (٣).",
+ "az": "[ربغ] «الراء» (ra), «الباء» (ba) və «الغين» (ğin) — əgər səhihdirsə, tək bir kəlmədir. Onlar «ربيعٌ رابغٌ» (rəbiun rabig) yəni bolluq olan yaz deyirlər; Əbu Zeyddən nəql edilmişdir. İbn Dureyddən də nəql olunmuşdur ki (٢): «الرَّبْغُ» (rəbg) — xırdalanmış torpaqdır (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:15.102Z"
+}

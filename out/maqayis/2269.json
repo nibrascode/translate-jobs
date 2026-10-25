@@ -1,0 +1,17 @@
+{
+ "i": 2269,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صفد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 293,
+  "page_to": 294
+ },
+ "ar": "الصاد والفاء والدال أصلان صحيحان: أحدُهما عَطاءٌ، والآخَر شَدُّ بشئ.\nفالأوّل الصَّفَد؛ يقال أصفدتُه، إذا أعطيتَه. قال:\nهذا الثناءُ فإِنْ تَسمعْ لقائلِهِ … فما عَرَضتُ أبيتَ اللَّعنَ بالصَّفَدِ (١)\nوأما الصَّفْد فالغُلّ، ويقال الصَّفْد التقييد (٢). والأصفاد: الأقيْاد. والصِّفاد:\nالقَيد أيضاً. قال:\nهَلاَّ مننتَ على أخيكَ مَعْبَدٍ … والعامرىُّ يقودُه بصِفادِ (٣)\nو\nفى الحديث: «إذا دخل شهرُ رمضانَ صُفِّدت الشياطين».",
+ "az": "[صفد] (S-F-D) — Səhih iki kökdür: biri əta (bəxşiş), diğəri isə bir şeylə bağlamaqdır.\n\nBirincisi: الصَّفَد (səfəd); deyilir: أصفدتُه (ona verdim, bəxşiş etdim). [Şair] demişdir:\nهذا الثناءُ فإِنْ تَسمعْ لقائلِهِ … fma عَرَضتُ أبيتَ اللَّعنَ بالصَّفَدِ (١)\n(Bu tərifdir, əgər sən onun söyləyəninə qulaq asarsan... ey padşah, mən səfədlə [bəxşişlə] təklif etmədim).\n\nالصَّفْد (səfd) isə buxovdur. Deyilir ki, səfd bağlamaqdır (٢). والأصفاد (əsfad): buxovlar. والصِّفاد (sifad): yenə buxovdur. [Şair] demişdir:\nهَلاَّ مننتَ على أخيكَ مَعْبَدٍ … والعامرىُّ يقودُه بصِفادِ (٣)\n(Məbəd adlı qardaşına minnətdarlıq etmədinmi... halbuki amirli onu sifadla [buxovla] aparır?).\n\nVə hədisdə: «إذا دخل شهرُ رمضانَ صُفِّدت الشياطين» (Ramazan ayı daxil olduqda şeytanlar buxovlanar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:47.388Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 698,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 485,
+  "page_to": 485
+ },
+ "ar": "الجيم والنون والذال يدلُّ على التجمّع والنَّصرة. يقال هم جُنده، أى أعوانه ونُصّاره. والأجناد: أجناد الشّام وهى خمسة: دمشق، وحِمْصٌ، وقِنَّسْرِينُ، والأُردُنّ، وفِلَسطين. يقال لكلِّ واحدة من هذه جُنْدٌ.\nوجَنَدٌ: بلدٌ (١). والجَنَد: الأرضُ الغليظة فيها حجارةٌ بِيض؛ فهذا محتمل أن يكون من الباب، ويجوز أن يكون من الإِبدال، والأصل الجَلَد.",
+ "az": "«جند» (جيم, نون və ذال) – toplanmağa və kömək etməyə dəlalət edir. Onlar onun «جُنده» (cündüdür – köməkçiləri, yardımçılarıdır) deyilir. «الأجناد» (əlcənad) – Şamın qoşunlarıdır ki, beşdir: Dəməşq, Hims, Qinnəsrin, Urdun və Fələstin. Bunların hər birinə «جُنْدٌ» (cünd) deyilir.\n«وجَنَدٌ» – bir kənddir (١). «الجَنَد» – içində ağ daşlar olan sərt torpaqdır; bu, həmin fəsildən olması mümkündür, həmçinin hərfdəyişmə (ibdal) yolu ilə də ola bilər ki, əsli «الجَلَد»-dir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:12.831Z"
+}

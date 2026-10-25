@@ -1,0 +1,17 @@
+{
+ "i": 720,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 495,
+  "page_to": 495
+ },
+ "ar": "الجيم والواو والسين أصلٌ واحد، وهو تخلُّل الشئ.\nيقال: جاسُوا خِلالَ الدِّيار يجُوسون. قال اللّه تعالى: ﴿فَجاسُوا خِلالَ اَلدِّيارِ﴾.\nوأما الجُوس فليس أصلاً؛ لأنه إتباع للجُوع؛ يقال: جُوعاً له وجُوساً له.",
+ "az": "[جوس] — الجيم (Cim), الواو (Vav) və السين (Sin) tək bir əslə qayıdır, o da bir şeyin arasından keçməkdir. Deyilir: جاسُوا خِلالَ الدِّيار يجُوسون (Evlərin arasından keçib gəzdilər). Uca Allah demişdir: ﴿فَجاسُوا خِلالَ اَلدِّيارِ﴾ [mənaca tərcümə: Evlərin arasında gəzişdilər]. وَالجُوس (əl-Cus) sözünə gəldikdə isə, bu, əsl deyildir; çünki o, جُوع (cuc - aclıq) sözünə tabedir (itbağdır); deyilir: جُوعاً له وجُوساً له (Ona olsun aclıq və cus).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

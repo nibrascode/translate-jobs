@@ -1,0 +1,17 @@
+{
+ "i": 414,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تفف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 338,
+  "page_to": 338
+ },
+ "ar": "التاء والفاء كَالذى قبله. على أنّهم (٤) يقولون: التُّفُّ وسَخُ الظُّفُر.",
+ "az": "«تفف» (t-f-f): Tə və fa hərfləri əvvəlki kimidir. Bununla belə (٤) onlar التُّفُّ (əttuff): dırnağın kiridir, demişlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

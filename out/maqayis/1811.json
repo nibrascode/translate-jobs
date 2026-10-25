@@ -1,0 +1,17 @@
+{
+ "i": 1811,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زأر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 42,
+  "page_to": 43
+ },
+ "ar": "الزاء والهمزة والراء أصلٌ واحد. زأر الأسد زأرأ وزئِيرا قال النابغة:\nنُبِّئتُ أنّ أبا قابوسَ أوعَدَنِى … ولا قَرَارَ على زأر من الأسَدِ (٤)\nومنه قوله:\nحَلّتْ بأرضِ الزَّائِرِينَ فأصْبَحتْ … عَسِراً علىَّ طِلابُكِ ابنةَ مَخْرَم (٥)\nومن الباب الزَّأرَة: الأجَمة، وهو كالاستعارة؛ لأنّ الأُسْدَ تأوى إليها فتزأَر.",
+ "az": "[زأر] (zə-ə-r). الزاء (ز) və الهمزة (همزة) və الراء (ر) bir tək əsldir. زأر الأسد زأرأ və زئِيرا (aslan nərildədi, nərilti) — Ən-Nabigə demişdir: «نُبِّئتُ أنّ أبا قابوسَ أوعَدَنِى … ولا قَرَارَ على زأر من الأسَدِ» (3) (Mənə xəbər çatdı ki, Əbu Qabus mənə hədə-qorxu gəlib... aslanın nəriltisi qarşısında isə qərar tutmaq mümkün deyil). Və ondan belə demişdir: «حَلّتْ بأرضِ الزَّائِرِينَ فأصْبَحتْ … عَسِراً علىَّ طِلابُكِ ابنةَ مَخْرَم» (4) (Ziyarətçilərin torpağına endi və nəticədə ey Məxْرəmin qızı, səni axtarıb tapmaq mənə çətinləşdi). Bu fəsildəndir: الزَّأرَة (zə-arə) — aslan yuvası, meşəlik; bu, istiare kimidir, çünki aslanlar ora sığınır və nərildəyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.436Z"
+}

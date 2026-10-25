@@ -1,0 +1,17 @@
+{
+ "i": 1049,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خذف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 165,
+  "page_to": 165
+ },
+ "ar": "الخاء والذال والفاء أصلٌ واحدٌ يدلُّ على الرْمى. يقال خَذَفْت بالحصاة، إذا رميتَها من بين سَبَّابَتَيْك. قال:\nكأنَّ الحَصَى مِنْ خَلْفِها وأمامِها … إذا نَجَلَتْهُ رجلُها خَذْفُ أَعْسَرَا (١)\nوالمِخْذَفة، هى التى يُقال لها المِقْلاع. ويقال أنانٌ خَذُوفٌ، أى سمينة.\nقال أبو حاتم: قال الأصمعىّ: يُراد بذلك أنّها لو خُذِفَتْ بحَصاة لدخَلَتْ فى بطنها من كثرة الشّحم. وهذا الذى يحكيه عن هؤلاء الأئمّة وإن قلّ فهو يدلُّ على صحّة ما نَذهب إليه من هذه المقايَسات، كالذى ذكرناه آنفاً عن الخليل فى باب الإِخدَاع، وكما قاله الأصمعىُّ فى الأتانِ الخَذوف.\nوالخَذَفَانُ: ضربٌ من [سير] الإيل (٢) وهو بِتَرَامٍ قليل.",
+ "az": "«خذف» (خ، ذ، ف) — atmaya dəlalət edən tək bir əsas prinsipdir. Deyilir: خَذَفْتُ بالحصاة (xədəftü bil-həsati) — çınqılı şəhadət barmaqlarının arasından atdıqda. Şair deyib: كأنَّ الحَصَى مِنْ خَلْفِها وأمامِها … إذا نَجَلَتْهُ رجلُها خَذْفُ أَعْسَرَا (١) (Sanki arxasından və önündən çınqıllar — ayağı onu qaldırdıqda — solaxayın atışıdır). Və مِخْذَفَةٌ (mixdəfə) — məqlə (daşatan/sling) deyilən şeydir. Və deyilir: أتانٌ خَذُوفٌ (ətun xədufun) — yəni kök dişi uzunqulaq. Əbu Hatəm demişdir: Əsməi demişdir: Bununla qəsd olunan odur ki, əgər o, daşla vurularsa (və ya atılarsa), piylənmənin çoxluğundan qarnına girər. İmamların bunlardan rəvayət etdiyi bu şey, az olsa da, bizim bu əsas ölçülərə aid getdiyimiz yolun doğruluğuna dəlalət edir, necə ki, bunu Xəlildən İxdac fəslində az öncə qeyd etdik, və necə ki, Əsməi xəduf dişi uzunqulaq haqqında söylədi. Və الْخَذَفَانُ (əl-xəzəfan) — az atışla olan dəvə [yeriçiminin] bir növüdür (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

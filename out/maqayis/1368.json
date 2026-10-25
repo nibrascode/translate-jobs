@@ -1,0 +1,17 @@
+{
+ "i": 1368,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دحض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 332,
+  "page_to": 332
+ },
+ "ar": "الدال والحاء والضاد أصلٌ يدلُّ على زوالٍ وزَلَق. يقال دَحْضَتْ رجلُه: زَلِقَتْ. ومنه دحَضَت الشّمس: زالت. ودَحَضَتْ حُجّةُ فلانٍ، إذا لم تَثْبُت. قال اللّه جلّ ثناؤه: ﴿حُجَّتُهُمْ داحِضَةٌ عِنْدَ رَبِّهِمْ﴾.",
+ "az": "[دحض] الدال والحاء والضاد أصلٌ يدلُّ على زوالٍ وزَلَق. (الدال, hə və dad – zevalə və sürüşməyə dəlalət edən bir əsasdır). Deyilir: دَحْضَتْ رجلُه (Onun ayağı dəhəzət): sürüşdü. Və o cümlədən: دحَضَت الشّمس (Günəş dəhəzət): zəval oldu. Və دَحْضَتْ حُجّةُ فلانٍ (Filankəsin dəlili dəhəzət), sübuta yetmədiyi zaman. Uca və izzətli Allah buyurmuşdur: ﴿حُجَّتُهُمْ داحِضَةٌ عِنْدَ رَبِّهِمْ﴾ [mənaca tərcümə: Dəlilləri Rəbbi yanında batildir (dəhizdir)].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

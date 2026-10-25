@@ -1,0 +1,17 @@
+{
+ "i": 1479,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رشق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 396,
+  "page_to": 396
+ },
+ "ar": "الراء والشين والقاف أصلٌ واحد، وهو رَمْى الشَّئ بسهم وما أشبَهَه فى خِفَّة. فالرَّشْق مصدر رشَقَه بسهمٍ رَشْقا. والرِّشْق: الوَجْه من الرمْىِ، إذا رَمى القومُ جَميعهم قالوا: رمينا رِشْقاً. قال أبو زبَيد:\nكل يوم رَميهِ منها برِشْق … فمُصِيبٌ أوصَافَ غيرَ بَعِيدِ (١)\nومن الباب قولهم: أرشَقْتُ، إذا حدّدتَ النَّظَ. قال القُطَامىّ:\n* وتَرُوعُنِى مُقَل الصَّوار المرْشِقِ (٢) *\nويقال رَشْقه بالكَلام. ومن الباب الرَّشيق: الخفيفُ الجِسْم، كأنّه شُبِّه بالسَّهم الذى يرشَق به. ومنه أرشَقَتِ الظّبية: مدَّت عُنُقها لتنظُر.",
+ "az": "«رشق» (Rə-ş-q): Ra, şin və qaf tək bir əsasdır, o da bir şeyi yüngüllüklə oxla və ona bənzər şeylə vurmaqdır. فالرَّشْق (Rəşq): رشقَه بسهمٍ رَشْقا (Onu oxla vurdu) felinin məsdəridir. والرِّشْق (Rişq): Atış tərəfidir, tayfa hamısı birlikdə atdıqda deyirlər: رمينا رِشْقاً (Biz bir dəfəyə atdıq). Əbu Zübeyd demişdir: كل يوم رَميهِ منها برِشْق … فمُصِيبٌ أوصَافَ غيرَ بَعِيدِ (Hər gün ondan bir atışla atır... beləliklə, o, uzaq olmayan sifətləri vurandır). Və bu بابdan onların أرشَقْتُ (Ərşəqtü) deməkləridir, baxışları hədəfə aldığın zaman. Qutami demişdir: وتَرُوعُنِى مُقَل الصَّوار المرْشِقِ (Və məni qorxudur öküz gözlərinin baxışı). Və rəşq etdi deyilir: onu sözlə vurdu. Və bu babdandır الرَّشيق (Rəşiq): bədəni yüngül olan, elə bil o, özü ilə vurulan oxa bənzədilmişdir. Vəandandır أرشَقَتِ الظّبية (Ceyran boynunu uzatdı): baxmaq üçün boynunu uzatdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1868,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سغل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 77,
+  "page_to": 77
+ },
+ "ar": "السين والغين واللام أصلٌ يدل علي إساءة الغِذاء وسوء الحال فيه. من ذلك السَّغِل: الولد السيِّئ الغذاء. وكلُّ ما أسئ غذاؤه فهو سَغِل.\nقال سلامة بن جندل يصف فَرساً:\nليس بأسْفَى ولا أقْنى ولا سَغِلٍ … يُسقَى دواء قَفِىّ السَّكْنِ مربُوبِ (٤)\nويقال: بل السَّغِل: الدقيق القوائم الصغير وقال ابن دريد: السغِل: المتخدِّد لحمه، المهزول المضطرب الخَلْق.",
+ "az": "[سغل] السين والغين واللام — sin, ğın və lam hərfləri qida zəifliyinə və orada pis hala dəlalət edən bir əsasdır. Bunlardan biri: السَّغِل (əssəhil) — qidası pis olan uşaq. Qidası pis verilən hər bir şey səhildir (سَغِل).\nSalamə ibn Cəndəl atı təsvir edərkən demişdir:\nليس بأسْفَى ولا أقْنى ولا سَغِلٍ … يُسقَى دواء قَفِىّ السَّكْنِ مربُوبِ (٤)\nDeyilir ki: Bəlkə də səhil — incə ayaqlı, kiçik olan deməkdir. İbn Dürid demişdir: Səhil — əti sallanan, arıq və xilqəti səfil olan deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.965Z"
+}

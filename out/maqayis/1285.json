@@ -1,0 +1,17 @@
+{
+ "i": 1285,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 296,
+  "page_to": 296
+ },
+ "ar": "الدال واللام والصاد تدلُّ على لِينٍ ونَعْمة. فالدِّلاص:\nالدِّرع الليّنة. ويقولون: دَلَصت السُّيول الصّخرةَ، كأنها ليَّنَتْها. قال:\n* صَفاً دَلَصَتْهُ طَحْمَةُ السَّيلِ أخْلَقُ (٤) *\nوالدَّليص: البَرَّاق. ويقال اندَلَصَ الشَّئُ مِنْ يَدى، إذا سَقَط. وكأنَّ هذا مشتقُّ، أو تكونُ الدّالُ بدلَا من الميم، وهو من انْمَلَصَ وأَمْلصت المرأة، إذا أَسْقَطَت",
+ "az": "«دلص» (dəlis): Dal, lam və sad yumşaqlığa və nemətə dəlalət edir. «الدِّلاص» (əd-diləs) — yumşaq zirehdir. Deyirlər: «دَلَصت السُّيول الصّخرةَ» (dələsəti əs-suyûlu əs-səxrətə) — sellər qayanı hamarladı, elə bil yumşaltdı. O demişdir:\n* صَفاً دَلَصَتْهُ طَحْمَةُ السَّيلِ أخْلَقُ (١) *\n(Sel axınının hamarladığı qaya köhnədir...)\n«الدَّليص» (əd-delyis) — parıldayan deməkdir. Deyilir: «اندَلَصَ الشَّئُ مِنْ يَدى» (indələsə əl-şeyu min yədi) — əşya əlimdən düşdü. Sanki bu, törəmədir və ya dal mim hərfinin əvəzidir, o da «انْمَلَصَ» (inmələsə) və qadın uşaq saldıqda işlədilən «أَمْلصت» (əmləsət) sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

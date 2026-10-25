@@ -1,0 +1,17 @@
+{
+ "i": 572,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 405,
+  "page_to": 406
+ },
+ "ar": "الجيم والخاء. ذكر الخليلُ أصلَين: أحدهما التحوُّل والتنَحِّى، والآخَر الصِّياح.\nفأمّا الأول فقولهم جخّ الرّجلُ يَجِخُّ جَخًّا، وهو التحوُّلُ من مكانٍ إلى\nمكان. قال: و\nفى الحديث: «أنّه كان إذا صلّى جخَّ». أى تحوَّلَ من مكان إلى مكان.\nقال: والأصل الثانى الجَخْجَخة، وهو الصِّياح والنِّداء. ويقولون:\n* إنْ سَرَّكَ العِزُّ فجَخْجِخْ فى جَشَمْ (١) *\nيقول: صِحْ ونادِ فيهم. ويمكن أنْ يقول أيضاً: وتحوَّلْ إليهم. وزاد ابنُ دريد: جخّ برِجْلِه إذا نَسَفَ بها التُّراب. وجَخَّ ببوله إذا رغَّى به. وهذا إِنْ صحَّ فالكلمة الأولى من الأصل الأول، لأنّه إذا نَسَفَ الترابَ فقد حوَّله من مكانٍ إِلى مكان. والكلمةُ الثانيةُ من الأصل الثانى؛ لأنّه إذا رغَّى فلا بد من أنْ يكون عند ذلك صَوْت. وقال: الجخجخة صوت تكسُّر الماء (٢)، وهو من ذلك أيضا. فأمّا قوله (٣) جَخْجَخْتُ الرّجلَ إذا صرعْتَه، فليس يبعُد قياسه من الأصل الأوَّل الذى ذكرناه عن الخليل.",
+ "az": "Cim və xa. Xəlil iki əsas zikr etmişdir: biri yer dəyişmək və uzaqlaşmaq, digəri isə qışqırıqdır.\nBirinciyə gəldikdə, bu, kişiyə aid edilən və bir yerdən başqa yerə keçmək mənasını verən «جخَّ الرّجلُ يَجِخُّ جَخًّا» (cəxxə ər-racülu yəcixü cəxxən) sözüdür. O demişdir:\nHədisdə buyurulmuşdur: «O, namaz qıldıqda cəxxə edərdi» (yəni bir yerdən başqa yerə keçərdi).\nO demişdir: İkinci əsas «الجَخْجَخة» (cəhcəxə) olub, qışqırıq və nida etmək deməkdir. Deyirlər:\n* إنْ سَرَّكَ العِزُّ فجَخْجِخْ فى جَشَمْ (١) *\n(Əgər izzət səni sevindirirsə, Cəşəm qəbiləsi içində qışqır və nida et!)\nO deyir: Onların arasında qışqır və nida et. Həmçinin belə də demək olar: Onların tərəfə keç. İbn Dürid əlavə etmişdir: Ayağı ilə torpaq sovrulduqda «جخَّ برِجْلِه» (cəxxə biriclih) deyilər. Sidiyi köpükləndirdikdə «جَخَّ ببوله» (cəxxə biboulih) deyilər. Əgər bu səhihdirsə, birinci söz birinci əsasdandır, çünki o, torpağı sovrulduqda onu bir yerdən başqa yerə keçirmiş olur. İkinci söz isə ikinci əsasdandır, çünki o, köpükləndirdikdə bu zaman mütləq bir səs olmalıdır. O demişdir: «جَخْجَخْتُ الرّجلَ» (cəhcəxtür-racülə) – insanı yıxdın deməkdir, bunun qiyasının Xəlildən zikr etdiyimiz birinci əsasdan uzaq deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:43:21.035Z"
+}

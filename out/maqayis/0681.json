@@ -1,0 +1,17 @@
+{
+ "i": 681,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 475,
+  "page_to": 475
+ },
+ "ar": "الجيم والميم والنون ليس فيه غير الجُمان، وهو الدرُّ.\nقال المسيّب (٣):\nكجُمانةِ البَحْرِىّ جَاءَ بِها … غَوّاصُها مِنْ لُجَّةِ البَحْرِ",
+ "az": "«جمن» — جيم، ميم və نون hərflərində İncid mənasını verən عُمان (cuman) sözündən başqa bir şey yoxdur. Müseyyəb demişdir: «كجُمانةِ البَحْرِىّ جَاءَ بِها … غَوّاصُها مِنْ لُجَّةِ البَحْرِ» (Dənizçinin dənizin dərinliyindən dalğıcının gətirdiyi incisi kimi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.350Z"
+}

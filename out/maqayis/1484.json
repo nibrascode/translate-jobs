@@ -1,0 +1,17 @@
+{
+ "i": 1484,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رشح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 397,
+  "page_to": 398
+ },
+ "ar": "الراء والشين والحاء أصلٌ واحد؛ وهو النّدَى يبدو من الشّئ. فالرَّشْح: العَرَق. يقال رشَح بدَنُه بعَرقِه. فأمّا قولهم يُرْشح لكذا، فهو من هذا، وأصله الوحشيّةٌ إذا بَلَغ ولدُها أن يمشَى معَها مشَتْ به حتَّى يَرشَحَ عرقا فيقوى؛ ثم استُعير ذلك لكلِّ من رُبّى، فقيل يُرشّح للخِلافة؛ كأنَّه يُرَبى لها.\nوالرّاشِح: الجَبَلُ يندَى أصلُه. ورَشّحَ النَّدى النَّبْتَ، إذا ربّاه. وأرشَحَت النّاقةُ، إذا دنا فِطامُ ولَدِها، وذلك هو عند ما تفعل (٢). وقال:\nكأنَّ فيه عِشاراً جِلّةً شُرُفاً … مِنْ آخِرِ الصَّيف قد همَّتْ بإرشاحِ (١)",
+ "az": "«رشح» (Rə-ş-h): Ra, şin və ha tək bir əsasdır; o da bir şeydən üzə çıxan şehdir. فالرَّشْح (Rəşh): Tərdir. Deyilir: رشَح بدَنُه بعَرقِه (Bədəni tər ilə islanıb tərçöktü). Amma onların فلانيُرْشح لكذا (filankəs belə bir iş üçün yetişdirilir) demələrinə gəlincə, bu da bundandır, onun əsli vəhşi heyvanlardandır ki, balası yeriyə biləcək yaşa çatdıqda, onunla birlikdə tərləyənə qədər yeriyər, sonra güclənər; sonra bu, tərbiyə olunan hər bir kəsə məcazi olaraq işlədilmiş və filankəs xilafət üçün yetişdirilir, yəni onun üçün tərbiyə olunur, deyilmişdir. والرّاشِح (Raşih): Kökü nəm olan dağdır. ورَشّحَ النَّدى النَّبْتَ (Şeh bitkini yetişdirdi), onu böyütdükdə. وأرشَحَت النّاقةُ (Dəvə balasını süddən kəsməyə yaxınlaşdı), balasının süddən kəsilməsi yaxınlaşdıqda, və bu onun etdiyi vaxtdadır. Və (şair) demişdir: كأنَّ فيه عِشاراً جِلّةً شُرُفاً … مِنْ آخِرِ الصَّيف قد همَّتْ بإرشاحِ (Sanki onun içində yay axırında tərçökməyə az qalmış uca, iri hamilə dəvələr vardır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

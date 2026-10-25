@@ -1,0 +1,17 @@
+{
+ "i": 1814,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زأم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 43,
+  "page_to": 43
+ },
+ "ar": "الزاء والهمزة والميم أصلٌ يدلُّ على صوتٍ وكلام. فالزَّأْمة:\nالصَّوت الشديد. ويقال زأم لى فلانٌ زأْمةً، إذا طَرَح لى كلمةً لا أدرى أحقٌّ هى أم باطل.\nومما يُحمَل عليه الزَّأَم: الذُّعر. ويقال أزأَمْتُه على كذا، أى أكرهْتُه.\nومما شذّ عن الباب الزّأْم: شِدّة الأكل. واللّه أعلم.",
+ "az": "[زأم] (zə-həmzə-mim): səsə və sözə dəlalət edən bir əsldir. «الزَّأْمة» (əz-zə'mə): uca səs. «زأم لى فلانٌ زأْمةً» (filankəs mənə bir söz atdı) — elə bir söz atdı ki, onun haqq, yoxsa batil olduğunu bilmirəm. \n«الزَّأَم» (əz-zəəm) sözünə aid edilən mənalardan biri də qorxudur. «أزأَمْتُه على كذا» (mən onu filan şeyə məcbur etdim) — yəni ikrah etdim. \nBu babdan kənar çıxan (şəzz) söz «الزّأْم» (əz-zə'm) — çox yeməkdir. Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.661Z"
+}

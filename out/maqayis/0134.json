@@ -1,0 +1,17 @@
+{
+ "i": 134,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أنب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 143,
+  "page_to": 143
+ },
+ "ar": "الهمزة والنون والباء، حرفٌ واحد، أنّبْته تأنيباً أى وبَّخته ولُمته. والأُنبوب ما بين كلِّ عُقْدتين. ويزعمون أن الأنَابَ المِسْك (٢)، واللّهُ أعلمُ بصحّته. وينشدون قولَ الفرزدق:\nكأنَّ تريكةً من ماء مُزْنٍ … ودَارِىَّ الأنَابِ مع المُدامِ (٣)",
+ "az": "[أنب]\n«أنب» (həmzə, nun, ba) tək bir mənaya malik olan hərfdir (kökdür): «أنّبْته تأنيباً» — yəni onu danladım və məzəmmət etdim. «الأُنبوب» — hər iki boğum arası hissədir. Şübhəsiz ki, onların iddiasına görə «الأنَاب» müşklərdir (ətrdir), doğrusunu Allah bilir. Əl-Fərəzdəqin bu şeirini oxuyurlar:\n«كأنَّ تريكةً من ماء مُزْنٍ … ودَارِىَّ الأنَابِ مع المُدامِ (٣)»\n(Sanki bulud suyundan qalmış bir gölməçə və Dəri müşkünün şərabla qarışığıdır).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T00:20:43.298Z"
+}

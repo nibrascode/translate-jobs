@@ -1,0 +1,17 @@
+{
+ "i": 2234,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شزب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 270,
+  "page_to": 270
+ },
+ "ar": "الشين والزاء والباء ليس بأصلٍ، لأنّه من باب الإِبدال.\nويقال للشئ إذا يَبِس: شَزَب، والزاء مبدلةٌ من السين، وقد ذُكر فى موضعه.\nوربّما قالوا: مكان شازِبٌ، أى جافٍ (٤) صُلب.",
+ "az": "[شزب] (şin, zay və ba) əsl kök deyil, çünki əvəzetmə (ibdal) babındandır. Bir şey quruduğu zaman شَزَب (şəzəb) deyilir, zay hərfi sin hərfindən əvəz edilmişdir və öz yerində qeyd olunmuşdur. Bəzən deyirlər: مكان شازِبٌ (məkanün şazibün) - yəni quru (rütubətsiz) və sərt yer.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.449Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 811,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 13,
+  "page_to": 14
+ },
+ "ar": "الحاء والطاء أصلٌ واحد، وهو إنزال الشئ من عُلوّ. يقال حطَطْت الشئَ أحُطّه حَطًّا. وقوله تعالى: ﴿حِطَّةٌ﴾ قالوا: تفسيرها اللهم حُطّ عنا أوزارَنا\nومن هذا الباب قولهم جاريةٌ مَحْطوطة الْمتنين، كأنما حُطّ مَتْنَاها بالمِحَطِّ. قال:\nبيضاءِ مَحْطوطَةُ الْمتنَين بَهْكَنَةٌ … رَيَّا الرّوادفِ لم تُمْغِل بأولادِ (١)\nومن هذا الباب قولهم رجل حُطَائِطٌ، أى صغير قصير، كأنّه حُطَّ حَطَّا.\nومن هذا الباب قولُهم للنّجيبة السريعة * حَطوطٌ؛ كأنها لا تزال تحطُّ رَحْلاً بأرض (٢).\nومما شذّ عن هذا القياس الحَطَاط: بَثْرَةٌ تكون بالوجْه. قال الهذلىّ (٣):\nووحهٍ قد طرقْتُ أمَيْمَ صَافٍ … أَسيلٍ غيرِ جَهْمٍ ذِى حَطاطِ\nويروى:\n* كقَرنِ الشّمسِ ليس بذى حَطاطِ *",
+ "az": "[حط] (Hə və ta) tək bir əsasdır, o da bir şeyi yuxarıdan aşağı endirməkdir. Deyilir: حَطَطْتُ الشَّيْءَ أَحُطُّهُ حَطًّا (hətatüş-şeyə əhuttuhu həttən) – şeyi endirdim. Uca Allahın sözü: ﴿حِطَّةٌ﴾ (hittə) – onların izahında demişlər: «Allahım, günahlarımızı bizdən endir (bağışla)». \nBu qəbildəndir cariyəyə مَحْطوطَةُ الْمتنين (məhtutətul-mətnəyn) – bel əzələləri sanki alətlə hamarlanmış kimi incə və düzgün deyilməsi. Şair demişdir:\nبيضاءِ مَحْطوطَةُ الْمتنَين بَهْكَنَةٌ … رَيَّا الرّوادفِ لم تُمْغِل بأولادِ (١)\n*(Ağbəniz, beli hamarlanmış, gənc, dolğun sağrılı qadın ki, uşaqlarla zəifləməmişdir)*\nBu qəbildəndir kişinin حُطَائِطٌ (hutait) – balaca, qısa boylu olması, sanki o, aşağı endirilmişdir.\nBu qəbildəndir sürətli nəcib dəvəyə حَطوطٌ (hatut) deyilməsi; sanki o, dayanmadan hər hansı bir yerdə yükünü endirir (2).\nBu qaydadan kənar çıxan اَلْحَطَاطُ (əl-hatatu) – üzdə çıxan səpgidir. Hüzəli demişdir:\nووحهٍ قد طرقْتُ أمَيْمَ صَافٍ … أَسيلٍ غيرِ جَهْمٍ ذِى حَطاطِ\nVə ya rəvayət olunmuşdur:\n* كقَرنِ الشّمسِ ليس بذى حَطاطِ *\n*(Günəşin buynuzu kimi, üzərində səpgi yoxdur)*",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:53:07.764Z"
+}

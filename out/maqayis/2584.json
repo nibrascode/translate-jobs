@@ -1,0 +1,17 @@
+{
+ "i": 2584,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ظلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 467,
+  "page_to": 467
+ },
+ "ar": "الظاء واللام والعين أُصَيْلٌ يدلُّ على مَيْل فى مَشْى (١). يقال دابَّةَ بِهِ ظَلْعٌ، إذا كان يَغمِز فيميل (٢). ويقولون: هو ظالع، أى مائلٌ عن الطَّريق القويم. قال النابغة:\nأتُوعِدُ عبداً لم يخُنْكَ أمانةً … وتَترُكَ عبداً ظالماً وهو ظالعُ (٣)",
+ "az": "[ظلع] الظاء واللام والعين أُصَيْلٌ يدلُّ على مَيْل فى مَشْى (١). (Zae, lam və ayn hərfləri gəzməkdə əyriliyə dəlalət edən kiçik kökdür.) يقال دابَّةَ بِهِ ظَلْعٌ، إذا كان يَغمِز فيميل (٢). Deyilir: heyvanda zəlç var, o zaman ki, axsayaraq əyilir. ويقولون: هو ظالع، أى مائلٌ عن الطَّريق القويم. Və deyirlər: o, zaliddir, yəni düz yoldan azandır. قال النابغة: Nəbigə demişdir: أتُوعِدُ عبداً لم يخُنْكَ أمانةً … وتَترُكَ عبداً ظالماً وهو ظالعُ (٣) - (Sənə əmanətdə xəyanət etməyən qulu hədələyirsənmi... və zalım qulu buraxırsan, halbuki o, zaliddir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:14:19.807Z"
+}

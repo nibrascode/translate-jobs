@@ -1,0 +1,17 @@
+{
+ "i": 545,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثمأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 389,
+  "page_to": 389
+ },
+ "ar": "الثاء الميم والهمزة كلمةٌ واحدة ليست أصلاً، بل هى فرعٌ لما قبلها.\nثمأ لِحْيتَه صبَغَها. والهمزة كأنها مُبدلةٌ من غين. ويقال ثمأْتُ الكَمْأَة فى السَّمْن طرحْتُها. وهذا فيه بعضُ ما فيه. فإنْ كان صحيحاً فهو من الباب، لأن الكمْأة كأنها صُبِغَتْ بالسَّمْن.",
+ "az": "[ثمأ] الثاء (sə), الميم (mim) və الهمزة (həmzə) tək bir kəlmədir, əsas deyil, əksinə özündən əvvəlkinin törəməsidir. «ثمأ لِحْيتَه» (saqqalını boyadı) deməkdir. Həmzə sanki ğayn hərfindən dəyişdirilmişdir. «ثمأْتُ الكَمْأَة فى السَّمْن» (dombalanı yağın içinə atdım) deyilir, yəni onu ora qoydum. Bunda müəyyən şübhələr var. Əgər bu düzdürsə, o zaman bu qapıdandır, çünki dombalan sanki yağla boyanmış kimidir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:42:17.837Z"
+}

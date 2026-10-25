@@ -1,0 +1,17 @@
+{
+ "i": 1788,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زهك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 33,
+  "page_to": 33
+ },
+ "ar": "الزاء والهاء والكاف ليس فيه شئ إلا أنَّ ابنَ دريد ذكر أنَّهم يقولون: زَهَكت الرِّيح التّرابَ، مثل سَهَكَتْ.",
+ "az": "[زهك] الزاء والهاء والكاف (z-h-k) maddəsində İbn Dürəydin dediklərindən başqa heç bir şey yoxdur; o qeyd etmişdir ki, onlar zəhəqət-ir-rihu-t-turab (زَهَكت الرِّيح التّرابَ) - külək torpağı sovurub aparıb, səhəkət (سَهَكَتْ) sözü kimi, deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:39.989Z"
+}

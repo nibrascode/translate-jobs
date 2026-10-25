@@ -1,0 +1,17 @@
+{
+ "i": 1103,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خضد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 194,
+  "page_to": 195
+ },
+ "ar": "الخاء والضاد والدال أصلٌ واحدٌ مطّرِدٌ، وهو يدلُّ على تَثَنَّ فى شئِ ليِّن. يقال انخضد العُود انخِضاداً، إذا تَثَنَّى من غير كَسْر. وخَضَدتُه:\nثَنَيْتُه. وربَّما زادُوا فى المعنى فقالوا: خضَدْتُ الشجرةَ، إذا كَسَرت شوكتَها.\nونباتٌ خَضيدٌ. والأصلُ هو الأوَّل؛ لأنّ الخضيد هو الرّيَّان الناعم الذى يتثنَّى لِلِينه. فأما قولُ النَّابغة:\nيَمُدُّهُ كلُّ وادٍ مُتْرَعٍ لجِبٍ … فيه رُكامٌ من اليَنْبُوتِ والخَضَدِ (٤)\nفإنّه يقال: الخَضَد ما قُطِع من كلِّ عُودٍ رَطْب. ويقال خَضَدَ البعيرُ عُنقَ البعير، إذا تقاتَلا فَثنَى أحدُهما عُنُقَ الآخَر",
+ "az": "[خضد] (Xə-də-d): Xa, dad və dal hərfləri yumşaq bir şeydə əyilməyə dəlalət edən tək, mütərrِد bir əsasdır. Deyilir: İnxadə əl-udu inxidadan – ağac qırılmadan əyildikdə. Və xadadtuhu – onu əydim. Bəzən mənada artıraraq dedilər: Xadadtus-şəcərə – ağacın tikanını qırdım. Və «نبات خضيد» (nəbatun xadid) – təravətli bitki. Əsas isə birincidir; çünki xadid – yumşaqlığından əyilən sirab və təravətli olandır. ən-Nabigənin sözünə gəldikdə: Onu hər bir daşqın, gur çay uzadır, onda yənbut və xadədən qalaqlar vardır (4). Doğrudan da, deyilir: Xadəd – hər yaşıl ağacdan kəsilən şeydir. Deyilir: Xədədəl-bəiru unuqəl-bəiri – onlar döyüşdükdə və birinin boynunu digəri əydikdə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:43.581Z"
+}

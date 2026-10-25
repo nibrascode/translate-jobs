@@ -1,0 +1,17 @@
+{
+ "i": 1101,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خضن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 193,
+  "page_to": 193
+ },
+ "ar": "الخاء والضاد والنون أصلٌ واحد صحيح. فالمُخَاضَنة:\nالمُغازلة. قال الطرمّاح:\nوألقتْ إلىَّ القولَ منهنَّ زَوْلةٌ … تُخَاضِنُ أوْ ترنُو لِقولِ المُخَاضِنِ (٤)",
+ "az": "[خضن] (Xə-də-n): Xa, dad və nun hərfləri səhih bir əsasdır. Və «المُخَاضَنَةُ» (muxadənə) – eşqbazlıq etməkdir. ət-Tirimmah demişdir: Onlardan cavan bir qadın mənə söz atdı, eşqbazlıq edir və ya eşqbazlıq edənin sözünə baxır (4).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:43.581Z"
+}

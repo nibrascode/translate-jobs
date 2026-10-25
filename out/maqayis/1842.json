@@ -1,0 +1,17 @@
+{
+ "i": 1842,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 58,
+  "page_to": 59
+ },
+ "ar": "السين والكاف أصلٌ مطّرد، يدلُّ على ضِيق وانضمام وصِغَر.\nمن ذلك السَّكَك، وهو صِغَر الأذُن. وهذه أذنٌ سَكاَّء. ويقال استكَّت مَسامعه؛ إذا صَمَّت. قال النابغة:\nوخُبِّرْتُ، خَيْرَ الناس، أنّك لمتَنى … وتلك التى تسْتَكّ مِنها المسامعُ (١)\nوالسّكّة: الطريقة المصطفّة من النخل. وسمِّيت بذلك لتضايقها فى استواء.\nومن هذا اشتقاق سكّة الدراهم، وهى الحديدة؛ لتضايُق رَسم كتابتها. والسَّكُّ:\nأن تَضُبَّ البابَ بالحديد. والسَّكّىّ: النّجّار (٢). ويقال إن السُّكَّ من الرّكايا المستوية الجِرَاب (٣). ويقال السُّكُّ: جُحر العقرب. ويقال للدِّرع الضّيقة أو الضيقة الحَلَق: سُكُّ. ويقال للنبت إِذا انسدَّ خَصَاصُه (٤): قد استَكَّ.\nوالقياس مطّردٌ فى جميع ما ذكرناه.\nومما حُمل عليه ما حكاه ابنُ دريد (٥): سَكَّه يَسُكُّه سَكًّا، إذا اصْطَلم أذنَيه.\nومما شذّ عن الباب: السُّكاك: الُّلوح بين السّماء والأرض. والسُّكُّ:\nالذى يُتطيَّبُ به. ويقال إنّه عربىٌّ صحيح.",
+ "az": "[سك] (S-K) Sin və kaf hərfləri ardıcıl bir kökdür, darlıq, birləşmə və kiçikliyə dəlalət edir. Bundan «السَّكَك» (qulağın kiçikliyi) gəlir, bu, qulağın kiçik olmasıdır. Bu «أذنٌ سَكاَّء» (kiçik qulaq) adlanır. Deyilir ki, «استكَّت مَسامعه» (qulaqları tutuldu), yəni kar oldu. Nabigə deyir: «وخُبِّرْتُ، خَيْرَ الناس، أنّك لمتَنى … وتلك التى تسْتَكّ مِنها المسامعُ» (Ey insanların xeyirlisi, mənə xəbər çatdı ki, sən məni qınamısan... və bu, qulaqların tutulduğu (eşitməkdən qaçdığı) şeydir). «السّكّة» (xurma ağaclarının düzülüşü): düzülmüş xurma ağacları sırasıdır. Bu ad ona darlıq və düzlükdəki nizamına görə verilmişdir. Bundan «سكّة الدراهم» (dirhəm zərbi) törəmişdir, bu, dəmirdir; yazı naxışlarının darlığına görə belə adlanmışdır. «السَّكُّ» (qapını bağlamaq): qapını dəmir ilə bərkitməkdir. «السَّكّىّ» (dülgər) (٢). Deyilir ki, «السُّكُّ» (quyular) düzgün qurulmuş quyulardır (٣). Deyilir ki, «السُّكُّ» (əqrəb yuvası): əqrəbin yuvasıdır. Dar zirehə və ya halqaları dar olana «سُكُّ» deyilir. Bitki üçün, onun boşluqları dolduqda (٤) «قد استَكَّ» (doldu) deyilir. Ölçü qeyd etdiyimiz hər şeydə ardıcıldır. İbn Dureydin (٥) rəvayət etdiyi və bu qapıya aid edilən ifadələrdən biri də budur: «سَكَّه يَسُكُّه سَكًّا» (onu vurdu), yəni qulaqlarını kəsdi. Qaydadan kənar olanlar: «السُّكاك» (göy ilə yer arasındakı boşluq): göy ilə yer arasındakı lövhədir. «السُّكُّ» (ətir): ətirlənmək üçün istifadə olunan şeydir. Deyilir ki, bu, düzgün ərəb sözüdür.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:42:05.730Z"
+}

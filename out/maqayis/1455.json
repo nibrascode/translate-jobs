@@ -1,0 +1,17 @@
+{
+ "i": 1455,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 384,
+  "page_to": 385
+ },
+ "ar": "الراء والجيم أصلٌ يدلُّ على الاضطراب، وهو مطَّردٌ منْقاس ويقال كتيبةٌ رَجْراجة: تَمَخَّضُ لا تكاد تسير. وجاريةٌ رَجراجة: يَتَرجْرج كَفَلُها. والرِّجرِجَة: بقيَّة الماء فى الحوض. ويقال للضُّعَفاء من الرجال الرَّجَاج (٣). قال:\nأقبَلْنَ من نِيرٍ ومن سُواجِ (١) … بالقوم قد مَلّاوا من الإدْلاجِ\nفَهُمْ رَجَاجٌ وعَلَى رَجَاجِ (٢)\nوالرَّجُّ: تحريك الشئ؛ تقول: رجَجْتُ الحائطَ رَجًّا، وارْتَجَّ البحر.\nوالرَّجْرَج نعتٌ للشئ الذى يترجْرَج. قال:\n* وكَسَت المِرْطَ قَطاةً رَجْرَجَا (٣) *\nوارتجَّ الكلامُ: التَبَسَ؛ وإنما قيل له ذلك لأنّه إذا تَعَكَّرَ كان كالبحر المرتَجّ. والرِّجرِجَة (٤): الثَّرِيدة الليِّنة. ويقال: الرَّجَاجة النّعجة المهزولة؛ فإِنْ كان صحيحاً فالمهزول مضطربٌ. وناقةٌ رَجَّاءُ: عظيمة السَّنام؛ وذلك أنّه إذا عظُمَ ارتجّ واضطرب. فأمّا قولُه:\n* ورِجْرِجٌ بَيْنَ لَحْيَيْهَا خَنَاطِيلُ (٥) *\nفيقال هو اللُّعاب (٦)",
+ "az": "«رج» — ra və cim nizamlı və müntəzəm olaraq sarsıntıya və hərəkətə dəlalət edən bir əslə malikdir. Deyilir: كتيبةٌ رَجْراجة (rəcrəc dəstə): [yerində] dalğalanan, az qala hərəkət etməyən hərbi dəstə. جاريةٌ رَجراجة (rəcrəc cariyə): sağrısı titrəyən gənc qadın. وَالرِّجْرِجَة (riricə) — hovuzda qalan suyun qalıntısıdır. Kişilərdən olan zəifləri رَجَاج (rəcac) adlandırırlar (٣). [Şair] demişdir: أقبَلْنَ من نِيرٍ ومن سُواجِ (١) … بالقوم قد مَلّاوا من İdlaçi / فَهُمْ رَجَاجٌ وعَلَى رَجَاجِ (٢) (Nir və Suvacedən gəldilər... gecə səfərindən yorulmuş qövm ilə / Onlar rəcacdırlar və rəcac üzərindədirlər). وَالرَّجُّ (ərrəc) — bir şeyi hərəkət etdirmək, sarsıtmaq; deyirsən: رجَجْتُ الحائطَ رَجًّا (divarı sarsıtdım), وارْتَجَّ البحر (dəniz dalğalandı/coşdu). وَالرَّجْرَج (rəcrəc) — titrəşən şeyin sifətidir. [Şair] demişdir: وَكَسَت المِرْطَ قَطاةً رَجْرَجَا (٣) (Mirt parçasını titrək qadata geyindirdi). وارتجَّ الكلامُ (kəlam dolaşdı/qarışdı): qarma-qarışıq oldu; ona bu adın verilməsi ona görədir ki, o, bulanıqlaşdıqda coşqun dənizə bənzəyir. وَالرِّجْرِجَة (4) — yumşaq səridir (ətli və şorbalı çörək yeməyi). Deyilir: الرَّجَاجَة (ərrəcəcə) — arıq qoyun; əgər bu səhihdirsə, deməli, arıq olan şəxs də titrək/sarsaq olur. ناقةٌ رَجَّاءُ (rəcca dəvə): hürgücü böyük olan dəvə; bu ona görədir ki, hürgüc böyüdükdə titrəyir və sarsılır. وَرِجْرِجٌ بَيْنَ لَحْيَيْهَا خَنَاطِيلُ (5) sözünə gəldikdə isə, (riric – çənələri arasındakı sallanan ətlər) bunun tüpürcək olduğu deyilir (6).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:24.395Z"
+}

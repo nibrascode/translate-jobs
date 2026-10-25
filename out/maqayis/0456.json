@@ -1,0 +1,17 @@
+{
+ "i": 456,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 353,
+  "page_to": 353
+ },
+ "ar": "التاء واللام والميم ليس بأصلٍ، ولا فيه كلام صحيحٌ ولا فصيح.\nقال ابنُ دريد فى التَّلام إنّه التَّلاميذ. وأنشد:\n* كالحَمَاليج بأيدِى التَّلامْ (٢) *\nوفى الكتاب المنسوب إلى الخليل: التَّلَم مَشَقُّ الكِراب (٣) بلغة أهل اليمن.\nوذكر فى التَّلام نحواً مما ذكره ابنُ دريد. وما فى ذلك شئٌ يُعوَّلُ عليه. وذلك أنّ التلميذ ليس من كلام العرب.",
+ "az": "[تلم] (tə-lə-m) - Tə, lam və mim nə əsldir, nə də orada səhih və ya fasihi bir kəlmə vardır. İbn Dürid «ət-təlam» sözünün şagirdlər mənasında olduğunu söyləmişdir. O, bu beyt ilə dəlil gətirmişdir: Şagirdlərin əlindəki dəri qamçılar kimi (2). Xəlilə nisbət edilən kitabda: «ət-tələm» — Yəmən əhlinin dilində əkin şumunun yarığıdır (3). O, «ət-təlam» haqqında İbn Düridin dediyinə bənzər şeylər qeyd etmişdir. Lakin bunda güvəniləsi heç bir şey yoxdur. Çünki «ət-tilmiz» (şagird) ərəb dili kəlməsi deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.996Z"
+}

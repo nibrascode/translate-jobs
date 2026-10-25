@@ -1,0 +1,17 @@
+{
+ "i": 214,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بذل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 216,
+  "page_to": 216
+ },
+ "ar": "الباء والذال واللام كلمةٌ واحدة، وهو تركُ صِيانةِ الشّئ، يقال بذَلْتُ الشَّئَ بَذْلاً، فأنا باذلٌ وهو مبذول، وابتذلْتُه ابْتِذالاً. وجاء فلانٌ فى مَباذِلِه، وهى ثيابُه التى يَبْتَذِلُها. ويقال لها مَعَاوِزُ، وقد ذُكِرتْ فى بابها",
+ "az": "[بذل] الباء والذال واللام (ba, zal və lam) bir kəlmədir, o da bir şeyi qorumaqdan əl çəkməkdir. Deyilir: «بذَلْتُ الشَّئَ بَذْلاً، فأنا باذلٌ وهو مبذول» (mən bir şeyi əsirgəmədim, təqdim etdim, deməli, mən təqdim edən, o isə təqdim olunandır) və «ابتذلْتُه ابْتِذالاً» (onu işlək hala saldım, hər gün geyindim). «وجاء فلانٌ فى مَباذِلِه» (Filankəs gündəlik geyimlərində gəldi) — bunlar onun evdə və ya gündəlik geyindiyi paltarlarıdır. Buna «مَعَاوِزُ» (məaviz) də deyilir ki, öz babında zikr olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

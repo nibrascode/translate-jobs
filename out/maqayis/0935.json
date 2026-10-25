@@ -1,0 +1,17 @@
+{
+ "i": 935,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 97,
+  "page_to": 98
+ },
+ "ar": "الحاء واللام والفاء أصلٌ واحد، وهو الملازمة. يقال حالف\nفلانٌ فلانا، إذا لازَمَه. ومن الباب الحَلِفُ؛ يقال حَلَف يحلِفْ حَلِفا؛ وذلك أنّ الإنسان يلزمه الثبات عليها. ومصدره الحَلِف والمحلُوف أيضا. ويقال هذا شئ مُحْلِفٌ إذا كان يُشَكُّ فيه فيْتَحالف عليه. قال:\nكميتٌ غير مُحْلِفةٍ ولكن … كلون الصِّرف عُلّ به الأديمْ (١)\nومما شذّ عن الباب قولهم: هو حليف اللِّسان، إذا كانَ حَديدَه. ومن الشاذّ الحلفاء، نبت، الواحدة حَلْفاءَة.",
+ "az": "«حلف» (hələf): الحاء واللام والفاء أصلٌ واحد (Hə, lam və fa tək bir kökdür), وهو الملازمة (və o da ayrıla bilməməkdir). يقال حالف فلانٌ فلاناً (Filankəs filankəslə halif oldu, deyilir), إذا لازَمَه (ona bağlandığı zaman). ومن الباب الحَلِفُ (Və babdəndir həlif); يقال حَلَف يحلِفْ حَلِفا (hələf etdi, yəhlif, hələfən deyilir); وذلك أنّ الإنسان يلزمه الثبات عليها (və bu, insanın onda sabit qalmasının vacib olması səbəbidir). ومصدره الحَلِف والمحلُوف أيضا (və onun məsdəri hələf və məhlufdur həmçinin). ويقال هذا شئ مُحْلِفٌ (və bu, muhlif bir şeydir, deyilir) إذا كان يُشَكُّ فيه فيْتَحالف عليه (şübhə edilən və üzərində and içilən zaman). قال (Şair demişdir): كميتٌ غير مُحْلِفةٍ ولكن … كلون الصِّرف عُلّ به الأديمْ (١) (Kümeyt rəngindədir, and içdirilməyən, lakin… sırf rəngində, üzərinə dəri aşılanmış kimi). ومما شذّ عن الباب قولهم (Və babdan şaz olan onların sözüdür): هو حليف اللِّسان (o, dilin həlifidir), إذا كانَ حَديدَه (iti olduğu zaman). ومن الشاذّ الحلفاء (Və şazlardandır həlfa), نبت (bir bitki), الواحدة حَلْفاءَة (təkili həlfaədir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:59.121Z"
+}

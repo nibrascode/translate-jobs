@@ -1,0 +1,17 @@
+{
+ "i": 147,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 151,
+  "page_to": 152
+ },
+ "ar": "الهمزة والواو والياء أصلان: أحدهما التجمُّع، والثانى الإشفاق. قال الخليل: يقال أوَى الرّجُل إلى منزله وآوَى غَيرَه أُوِيًّا وإيواءً. ويقال أَوَى إواءً أيضاً. والأُوِىُّ أحسن. قال اللّه تعالى: ﴿إِذْ أَوَى اَلْفِتْيَةُ إِلَى اَلْكَهْفِ﴾ وقال: ﴿وَآوَيْناهُما إِلى رَبْوَةٍ﴾. والمأوَى مكانُ كلِّ شئٍ يأوى إليه ليلاً أو نهاراً.\nوأوَت الإبِلُ إلى أهلها تأوِى أوِيًّا فهى آوِيَةٌ. قال الخليل: التأوِّى التجمُّع، يقال\nتأوَّت الطَّيرُ إذا انضمَّ بعضُها إلى بعضِ، وهنَّ أُوِيٌّ ومُتَأَوِّيات. قال:\n* كما تَدَانَى الحِدَأُ الاوِىُّ * (١)\nشبّه كلَّ أُثفِيَّةٍ بحِدَأة.\nوالأصل الآخر قولهم: أَوَيْتُ لفلانٍ آوِى له مَأْوِيَةً، وهو أَنْ يرِق له ويَرْحمه.\nويقال فى المصدر أَيَّة أيضا (٢). قال أبو عُبيد: يقال استَأوَيْتُ فلاناً، أى سألته أن يَأْوِىَ لى. قال:\n* ولو أَنَّنى استأوَيْتُه ما أَوَى لِيا * (٣)",
+ "az": "[أوى]\nHəmzə, vav və ya iki əsl bildirir: birincisi toplaşmaq (yığışmaq), ikincisi isə şəfqət göstərmək (acıyıb mərhəmət etmək)dir. əl-Xəlil demişdir: Deyilir: «أوَى الرّجُل إلى منزله» (Kişi mənzilinə sığındı/çəkildi) və «آوَى غَيرَه أُوِيًّا وإيواءً» (başqasına sığınacaq verdi). Həmçinin «أَوَى إواءً» da deyilir. «الأُوِىُّ» (əl-uviyy) isə daha yaxşıdır. Uca Allah buyurmuşdur: ﴿إِذْ أَوَى اَلْفِتْيَةُ إِلَى اَلْكَهْفِ﴾ (mənaca tərcümə: «O zaman gənclər mağaraya sığınmışdılar...») və buyurmuşdur: ﴿وَآوَيْناهُما إِلى رَبْوَةٍ﴾ (mənaca tərcümə: «...onları bir təpəyə yerləşdirdik (sığınacaq verdik)»). «المأوَى» (əl-mə'va) hər bir şeyin gecə və ya gündüz sığındığı yerdir.\nDəvələr öz sahiblərinə qayıdıb sığındıqda «أوَت الإبِلُ إلى أهلها تأوِى أوِيًّا فهى آوِيَةٌ» deyilir. əl-Xəlil demişdir: «التأوِّى» (ət-təəvvi) toplaşmaqdır. Quşlar bir-birinə qovuşub yığışdıqda «تأوَّت الطَّيرُ» deyilir, onlar da «أُوِيٌّ» (uviyy) və «مُتَأَوِّيات» (mutəəvviyət) adlanır. Şair demişdir:\n* كما تَدَانَى الحِدَأُ الاوِىُّ * (١)\n(Mənası: \"...bir yerə toplaşan çalağanların bir-birinə yaxınlaşdığı kimi.\") Burada hər bir ocaq daşını çalağana bənzətmişdir.\nİkinci əsl isə onların «أَوَيْتُ لفلانٍ آوِى له مَأْوِيَةً» (Filankəsə acıdım, ona rəhm etdim) ifadəsidir ki, bu da ona qarşı ürəyi yumşalmaq və mərhəmət göstərmək mənasındadır.\nMəsdər kimi «أَيَّة» (əyyə) (٢) də deyilir. Əbu Ubeyd demişdir: «استَأوَيْتُ فلاناً» deyilir ki, mənası \"ondan mənə mərhəmət etməsini, acımasını istədim\" deməkdir. Şair demişdir:\n* ولو أَنَّنى استأوَيْتُه ما أَوَى لِيا * (٣)\n(Mənası: \"Əgər mən ondan mərhəmət diləsəydim də, o mənə acımazdı.\")",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-25T00:24:02.094Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1956,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 116,
+  "page_to": 117
+ },
+ "ar": "السين والواو والفاء ثلاثة أصول: أحدها الشمُّ. يقال سُفْت الشَّئَ أسُوفُه سَوْفاً، وأَسَفْتُه. وذهب بعضُ أهل العلم إلى أنّ قولهم:\nبيننا وبينهم مَسافةٌ، مِنْ هذا. قال وكان الدَّليل يَسُوف التُّرَابَ ليعلمَ على قصدٍ هو أم على جَور. وأنشدوا:\nإذا الدّليلُ استافَ أخلاقَ الطرُقْ (١)\nأى شَمّها.\nوالأصل الثّانى: السُّوَاف: ذَهاب المال ومَرَضُه. يقال أساف الرّجُلُ، إذا وقع فى مالِه السُّواف. قال حُميد بن ثور:\nأسافَا من المال التِّلادِ وأَعْدَما (٢)\nوأمّا التّأخير فالتسويف. يقال سوَّفتُه، إذا أخّرتَه، إذا قلتَ سوف أفعلُ كذا.",
+ "az": "[سوف] Sin, vaf və fa hərfləri üç əsli ehtiva edir: Birincisi, iyləməkdir. Deyilir: «سُفْت الشَّئَ أسُوفُه سَوْفاً» (mən o şeyi iylədim) və «أسَفْتُه» (onu iylədim). Bəzi elm əhli hesab etmişdir ki, onların «بيننا وبينهم مَسافةٌ» (bizimlə onların arasında məsafə vardır) sözü də bundandır. Onlar demişlər ki, bələdçi düz yolda, yoxsa azğınlıqda olduğunu bilmək üçün torpağı iyləyərdi (araşdırarardı). Və bu beyti dəlil gətirmişlər:\nإذا الدّليلُ استافَ أخلاقَ الطرُقْ (١)\n(Bələdçi yolların xüsusiyyətlərini iylədiyi zaman),\nyəni onları iylədi.\nİkinci əsl: «السُّوَاف» (suvaf) – mal-dövlətin zay olması və xəstələnməsidir. Deyilir: «أساف الرّجُلُ» (kişinin malına suvaf dəydi), yəni malına ziyan dəydikdə. Həmid ibn Səvr demişdir:\nأسافَا من المال التِّلادِ وأَعْدَما (٢)\n(Qədim maldan ziyan çəkdilər və yoxsullaşdılar)\nAmma gecikdirməyə gəlincə, bu, «التسويف» (təsvif - təxirə salmaq) adlanır. Deyilir: «سوَّفتُه» (mən onu gecikdirdim/təxirə saldım), yəni nə zamanki «mən filan şeyi edəcəyəm (سوف أفعل)» deməklə onu yubatdın.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

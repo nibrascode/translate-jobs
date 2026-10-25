@@ -1,0 +1,17 @@
+{
+ "i": 1219,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 267,
+  "page_to": 267
+ },
+ "ar": "الدال والراء والزاء ليس بشئِ، ولا أحسب العربَ قالت فيه. إلاّ أَنَّ ابنَ الأعرابىّ حُكِى أنه قال: يقول العرب للسِّفْلة: هم أولادُ دَرْزَة، كما تقول للُّصوص وأشباهِهم: بنو غَبْرَاء. وأنشد:\n* أولادُ دَرْزَةَ أسلموكَ وطارُوا (١) *",
+ "az": "[درز] الدال والراء والزاء (dal, ra və zay hərfləri) heç bir şey deyildir və hesab etmirəm ki, ərəblər bu barədə bir söz demiş olsunlar. Lakin İbn əl-Ərabidən rəvayət edilmişdir ki, o demişdir: Ərəblər aşağı təbəqə adamlarına: «Onlar dərzə övladlarıdır» – deyirlər, necə ki, oğrulara və onların bənzərlərinə «ğəbra oğulları» deyirsən. Və (şair) belə şeir demişdir:\n* أولادُ دَرْزَةَ أسلموكَ وطارُوا (١) *\n(Dərzənin övladları səni tərk etdilər və uçub getdilər)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.589Z"
+}

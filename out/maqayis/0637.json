@@ -1,0 +1,17 @@
+{
+ "i": 637,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جزل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 453,
+  "page_to": 454
+ },
+ "ar": "الجيم والزاء واللام أصلان: أحدهما عِظَم الشَّئ من الأشياء، والثانى القَطْع.\nفالأوّل الجَزْل، وهو ما عَظُمَ من الحَطَب، ثم استُعير، فقيل: أجزَلَ فى العطاء. ومنه الرَّأْىُ الجَزْل من الباب الثانى، وسنذكره. فأمّا قول القائل:\nفوَيْهاً لقِدْرِكَ وَيْهاً لها … إِذا اخْتِير فى المَحْلِ جَزْلُ الحَطَبْ (٤)\nفإنَّه اختَصَّ الْجَزْلَ لأنّ اللحمَ يكون غَثًّا فيُبطئ نضجُه فيُلْتَمَسُ له الجَزْل.\nوأمّا الأصل الآخَر فيقول العرب: جزَلْتُ الشئَ جِزْلَتَيْن، أى قطعته\n* قِطْعَتَيْن. وهذا زَمَنُ الجِزَالِ أى صَرَامِ النَّخْل. قال:\n* حَتَّى إذا ما حانَ مِنْ جِزَالِها (١) *\nومن هذا الباب الجَزَل، أن يُصيبَ غارِبَ البعير دَبَرَة فيُخرَج منه عَظْمٌ فيطمئِنَّ موضِعُه. وبعيرٌ أجْزَلُ إذا فُعِلَ به ذلك. قال أبو النجم:\n* يُغادِرُ الصَّمد كظَهْرِ الأجْزَلِ (٢) *\nوالجِزْلة: القطعة من التَّمْر. فأما قولهم جَزْلُ الرّأىِ فيحتمل أن يكون من الثانى، والمعنى أنَّه رأىٌ قاطعٌ.\nوممّا شذّ عن الباب الجَوْزَل، وهو فَرْخُ الحمام، قال:\nقالت سُلَيْمى لَا أُحِبُّ الْجَوْزَلا … ولا أحِبُّ السَّمكاتِ مَأكَلا\nويقال: الجَوْزَل السمّ.",
+ "az": "[جزل] (Cim, zay və lam) iki əsas kökdür: biri şeyin böyük olması, digəri isə kəsməkdir. Birincisi الْجَزْل (əl-cəzl) – odun kimi böyük olan şeydir, sonra bu söz məcazi mənada işlədilərək أجزَلَ فى العطاء (bəxşişdə səxavətli oldu, bol verdi) deyilmişdir. İkinci babdan olan الرَّأْىُ الجَزْل (hikmətli, tutarlı rəy) də bundandır və bunu bir azdan qeyd edəcəyik. Şairin bu sözünə gəldikdə: فُوَيْهاً لِقِدْرِكَ وَيْهاً لَها … إِذا اخْتِير فى المَحْلِ جَزْلُ الحَطَبْ (Qazanına fəqir, nə gözəl qazandır o, quraqlıqda odunun irisi seçildiyi zaman!). O, məhz qalın və iri odunu seçmişdir, çünki ət arıq olar və bişməsi ləngiyər, buna görə də onun üçün iri odun axtarılar. Digər əsas kökə gəldikdə, ərəblər جزَلْتُ الشئَ جِزْلَتَيْن (şeyi iki hissəyə böldüm / kəsdim) deyirlər. Bu, xurma yığımı zamanı olan جِزَال (cizal) vaxtıdır. Şair demişdir: حَتَّى إذا ما حانَ مِنْ جِزَالِها (Hətta onun cizal – yığım vaxtı çatdıqda). Bu babdan الْجَزَل (əl-cəzəl) – dəvənin hürgücünün üstünə yara (dübərə) düşməsi və buradan bir sümüyün çıxarılması ilə həmin yerin çökəsək olmasıdır. Belə edildikdə dəvəyə أجْزَلُ (əczəl) deyilir. Əbu Nəcm demişdir: يُغادِرُ الصَّمد كظَهْرِ الأجْزَلِ (Təpəni əczəlin belinə bənzədir). الجِزْلة (cizlə) – bir tikə xurma. جَزْلُ الرَّأْىِ (kəsərli rəy) sözlərinə gəldikdə isə, bu, ikinci babdan ola bilər, mənası odur ki, bu, qəti, kəsərli rəydir. Babdan istisna olan (şəzz) sözlərdən biri də göyərçin balası mənasını verən الْجَوْزَل (əlcövzəl) sözüdür. Şair demişdir: قالت سُلَيْمى لَا أُحِبُّ الْجَوْزَلا … ولا أحِبُّ السَّمكاتِ مَأكَلا (Süleyma dedi: Mən göyərçin balasından xoşum gəlmir, yeyinti olaraq balıqları da sevmirəm). Həmçinin deyilir ki, əlcövzəl – zəhərdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:46:13.021Z"
+}

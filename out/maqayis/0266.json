@@ -1,0 +1,17 @@
+{
+ "i": 266,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 262,
+  "page_to": 262
+ },
+ "ar": "الباء والطاء والراء أصلٌ واحد وهو الشَّقُّ. وسُمِّى البيطار لذلك. ويقال له أيضاً المُبَيْطِر. قال النَّابغة:\nشَكَّ الفَرِيصَةَ بالمِدْرَى فَأنْفَذَهَا … شَكَّ المُبَيْطِر إذْ يَشْفِى من العَضَدِ (١)\nفالعضَدُ دَاءٌ يأخُذُ فى العَضُد.\nويُحمَل عليها البَطَر، وهو تَجاوُزُ الحَدِّ فى المَرَح.\nوأما قولهم: ذهب دَمُه بَطْراً، فقد يجوز أن يكون شاذًّا عن الأصل، ويمكن أن يقالْ إنّه شقَّ مَجْراه شَقًّا فذهب، وذلك إذا أُهْدِر.",
+ "az": "[بطر] (bə-tə-r): باء (ba), طاء (ta) və raa tək bir əsasdır, o da yarıq, çapıqdır. Baytar (heyvan həkimi) buna görə «البيطار» (əl-beyTAr) adlandırılmışdır. Ona həmçinin «المُبَيْطِر» (əl-mubeyTiR) də deyilir. Nabigə demişdir:\n«شَكَّ الفَرِيصَةَ بالمِدْرَى فَأنْفَذَهَا … شَكَّ المُبَيْطِر إذْ يَشْفِى من العَضَدِ» (1)\n(Heyvanın qabırğa ətini iynə ilə deşib keçirdi... baytarın qol xəstəliyini sağaldarkən sancması kimi).\n«العضَد» (əl-aDad) — qolda tutan bir xəstəlikdir.\n«البطر» (əl-bəTəR) kəliməsi də buna aid edilir, bu da sevincdə həddi aşmaqdır.\nOnların «ذهب دَمُه بَطْراً» (qanı hədər gedib) sözünə gəlincə, bu, əsasdan istisna (şaz) olması caiz ola bilər, həm də demək olar ki, onun axar yolunu yararaq getmişdir, bu da qan hədər (bəhərdə) buraxıldıqda olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:27.649Z"
+}

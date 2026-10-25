@@ -1,0 +1,17 @@
+{
+ "i": 1905,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 95,
+  "page_to": 95
+ },
+ "ar": "السين واللام والعين أصلٌ يدل على انصداع الشئ وانفتاحه.\nمن ذلك السَّلْع؛ وهو شقٌّ فى الجبل كهيئة الصَّدْع، والجمع سُلَوع. ويقال تَسَلَّع عَقِبُه، إذا تشقّقَ وتزَلَّع. ويقال سَلَعَ رأسه، إذا فَلَقَه. والسِّلعة: الشئ المبِيع، وذلك أنَّها ليست بِقُنْيَةٍ تُمْسك، فالأمر فيها واسعٌ. والسَّلَع: شجر.",
+ "az": "[سلع] (S-L-C). Sin, lam və ayn bir şeyin çatlamasına və açılmasına dəlalət edən tək bir kökdür. Bu qapıdan «السَّلْع» (əs-səl'); dağda çat kimi olan yarıqdır, cəmi «سُلَوع» (sülü') gəlir. «تَسَلَّع عَقِبُه» (Dabanı çatladı) deyilir, yəni yarıldı və çatladı. «سَلَعَ رأسه» (Başını yardı) deyilir, yəni onu parçaladı. «السِّلعة» (əs-silə) - satılan şeydir, bu ona görədir ki, o, saxlanılan bir mülk deyil, bu işdə genişlik vardır. «السَّلَع» (əs-sələ) - bir növ ağacdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:46:05.009Z"
+}

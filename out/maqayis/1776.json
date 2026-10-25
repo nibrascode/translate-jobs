@@ -1,0 +1,17 @@
+{
+ "i": 1776,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 27,
+  "page_to": 28
+ },
+ "ar": "الزاء والنون * والدال أصلان: أحدهما عضو من الأعضاء، ثم يشبه به. والآخَر دليلُ ضيقٍ فى شئ.\nفالأوَّل الزَّنْد، وهو طَرَف عظم الساعد، وهما زَنْدان، ثم يشبه به الزند الذى يُقدَح به النار، وهو الأعلى، والأسفل الزَّنْدَة.\nوالأصل الآخر: المُزَنَّد؛ يقال ثوبٌ مُزَنَّد، إِذا كان ضيّقًا؛ وحوضٌ مُزَنّدٌ مِثله. ورجلٌ مزنَّد: ضيِّق الخُلقُ. قال ابن الأعرابى: يقال (١) تزنَّد فلانٌ، إذا ضاقَ بالجواب وغضِب. قال عدىّ:\nفقُلْ مثلَ ما قالوا ولا تتزَنَّدِ\nومن الباب المُزَنَّد، وهو الحَمِيل (٢)، يقال زنَّدْت الناقة، إِذا خَلَّلت أشاعرها بأخِلّة صغار، ثُمَّ شددتَها بشَعر، وذلك إذا انْدحفت رحِمُها بعد الولادة.",
+ "az": "[زند] (zənəd): ز (zay), ن (nun) və د (dal) iki əsas mənadır: biri orqanlardan bir üzvdür, sonra ona bənzədilir. Digəri isə bir şeydə sıxıntının əlamətidir.\nBirincisi — الزَّنْد (əz-zənd), bilək sümüyünün ucudur, onlar iki zənddirlər. Sonra buna odda çaxmaq üçün istifadə edilən yuxarıdakı çaxmaq daşı bənzədilir, aşağıdakı isə زَنْدَة (zəndə) adlanır.\nDigər əsas məna isə: المُزَنَّد (əl-müzənnəd); deyilir ثوب مُزَنَّد (səvbün müzənnədun), dar olduqda; حوض مُزَنّد (hovzun müzənnədun) də belədir. Və رَجل مزنَّد (rəcülün müzənnədun): xasiyyəti dar (qıcıqlı) olan. İbn əl-Ərəbi demişdir: Deyilir (١) تزنَّد فلان (təzənnədə fülänun), filan kəs cavab verməkdə çətinlik çəkdikdə və qəzəbləndikdə. Ədi demişdir:\nفقُلْ مثلَ ما قالوا ولا تتزَنَّدِ (Fəqül mislə mə qəlu və lə tətəzənndi)\nBu babdandır المُزَنَّد (əl-müzənnəd) olub, əmizdirilən (٢) deməkdir, deyirlər: زنَّدْت الناقة (zənnədtün-nəqətə), dəvənin döşlərini kiçik çubuqlarla bağlayıb, sonra onu tük ilə sıxışdırdın, bu, doğulduqdan sonra uşaqlıq yolu sallandıqda olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:18.053Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1553,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رقش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 428,
+  "page_to": 428
+ },
+ "ar": "الراء والقاف والشين أصلٌ يدلُّ على خُطوطٍ مختلفة.\nفالرَّقْش كالنَّقْش. يقال: حَيَةٌ رَقْشاءُ: منقَّطة. ورَقَّشَه كلامَه: زَوَّرَه.\nوالرَّقْشاء: شِقشِقة البَعير. او الرقْشاء: دويْبَّة. وقال:\nالدَّار قَفْرٌ والرُّسومُ كما … رَقَّش فى ظَهْرِ الأديمِ قَلَمْ (٢)\nويقال للنّمَّام إذا نَمَّ: رقَّش. قال:\n* عاذِلُ قد أُولعتِ بالتَّرْقِيشِ (٣) *",
+ "az": "[رقش] (Rəqəş): Ra, qaf və şin hərfləri müxtəlif xətlərə dəlalət edən bir əsasdır. الرَّقْش (ər-rəqş) نَقْش (nəqş) kimidir. Deyilir: حَيَةٌ رَقْشاءُ (həyyatun rəqşaə) — xallı ilan. وَرَقَّشَه كلامَه (və rəqqəşahu kəlaməhu) — sözünü bəzədi, saxtalaşdırdı. Və الرَّقْشاء (ər-rəqşa): dəvənin boğazındakı rezonans orqanı və ya kiçik canlı. (Şair) demişdir: \nالدَّار قَفْرٌ والرُّسومُ كما … رَقَّش فى ظَهْرِ الأديمِ قَلَمْ (٢)\n(Ev boşdur, izlər isə dəinin üzərində qələmin naxışladığı kimidir.) \nQeybətçiyə qeybət edərkən رَقَّش (rəqqəş) deyilir. (Şair) demişdir: \n* عاذِلُ قد أُولعتِ بالتَّرْقِيشِ (٣) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

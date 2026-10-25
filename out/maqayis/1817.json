@@ -1,0 +1,17 @@
+{
+ "i": 1817,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زبق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 45,
+  "page_to": 45
+ },
+ "ar": "الزاء والباء والقاف ليس من الأصول التى يُعوّل على صحّتها، وما أدرى أَلِما قِيل فيه حقيقةٌ أم لا؟ لكنّهم يقولون: زَبَقَ شَعره، إذا نَتَفَه.\nويقولون: انْزَبق فى البيت: دخل. وزبَقْت الرّجلَ: حبستُه.",
+ "az": "[زبق] (zə-ba-qaf): səhihliyinə güvənilən əllərdən deyildir və mən bilmirəm onun haqqında deyilənlər həqiqətdir, ya yox? Lakin onlar deyirlər: «زَبَقَ شَعره» (onun tüklərini qopardı) — yəni qopardığı zaman. \nOnlar deyirlər: «انْزَبق فى البيت» (evə girdi) — daxil oldu. «زبَقْت الرّجلَ» (kişini həbs etdim) — onu həbs etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

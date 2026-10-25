@@ -1,0 +1,17 @@
+{
+ "i": 1675,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رجس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 490,
+  "page_to": 490
+ },
+ "ar": "الراء والجيم والسين أصلٌ يدلُّ * على اختلاطٍ. يقال هُمْ فى مَرْجُوسَةٍ مِنْ أمرِهم، أى اختِلاط. والرَّجْس: صوت الرَّعد، وذلك أنه يتردَّد. وكذلك هَدِيرُ البعيرِ رَجْسٌ. وسَحابٌ رَجّاسٌ، وبعيرٌ رَجّاس. وحكى ابنُ الأعرابىِّ: هذا رَاجِسٌ حَسَنٌ، أى راعِدٌ حسَن. ومن الباب الرِّجْس:\nالقَذَر؛ لأنّه لَطْخٌ وخَلْط.",
+ "az": "«رجس» (rə-cə-sə): Ra, cim və sin qarışıqlığa dəlalət edən bir əsasdır. Deyilir: «هُمْ فى مَرْجُوسَةٍ مِنْ أمْرِهم» (onlar işlərinin qarışıqlığı içindədirlər) – yəni qarışıqlıq içindədirlər. «الرَّجْس» (əl-rəcs) – ildırımın səsidir, çünki o təkrar-təkrar eşidilir. Eynilə dəvənin gurultulu səsi də «رَجْسٌ» (rəcs) sayılır. «سَحابٌ رَجّاسٌ» (gurultulu bulud) və «بعيرٌ رَجّاس» (gurultulu səsi olan dəvə). İbn əl-Ərəbi rəvayət etmişdir: «هذا رَاجِسٌ حَسَنٌ» (bu gözəl guruldayandır) – yəni gözəl guruldayan deməkdir. Bu qapıdandır: «الرِّجْس» (əl-rics) – murdarlıq, pislik; çünki o ləkə və qarışıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:36:20.417Z"
+}

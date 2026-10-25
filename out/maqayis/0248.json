@@ -1,0 +1,17 @@
+{
+ "i": 248,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بسأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 249,
+  "page_to": 249
+ },
+ "ar": "الباء والسين * والهمزة أصلٌ واحدٌ، وهو الأُنْس بالشَّئ، يقال بَسَأْتُ به وبَسِئْتُ أيضاً. وناقة بَسُوءُ لا تَمْنَع الحالب.",
+ "az": "[بسأ] (bəsəə) — با (ba), سين (sin) və همزة (həmzə) tək bir əsas mənaya malikdir, o da bir şeyə alışmaq, ünsiyyət qurmaqdır, «بَسَأْتُ به» (ona alışdım) və həmçinin «بَسِئْتُ» deyilir. «ناقة بَسُوءٌ» (ünsiyyətcil dəvə) – sağıcını qorxutmur, məməni saxlamır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.234Z"
+}

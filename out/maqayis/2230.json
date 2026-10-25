@@ -1,0 +1,17 @@
+{
+ "i": 2230,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 269,
+  "page_to": 269
+ },
+ "ar": "الشين والراء والخاء أصلان: أحدهما رَيْعان الشئ، وذلك يكون فى النّتاج فى غالب الأمر. والآخَر يدلُّ على تساوٍ فى شيئين متقابلين.\nفالأوَّل شَرخ الشّباب: أوّلُه ورَيْعانه. وشَرخُ كلِّ سنةٍ: نِتاجها من أولاد الأنعام. وقد شَرخَ نابُ البعير، إٍذا شقَّ البَضْعة وخرج. وقال الشاعر (٢):\nإنَّ شَرخَ الشّبابِ والشَّعَرَ الأس … ودَ ما لم يُعَاصَ كان جُنونا\nوالأصل الآخر: الشَّرْخان، يقال لآخِرةِ الرَّحْل وواسطتِه شَرخانِ.\nوشَرْخَتَا السَّهمِ: زَنَمَتَا فُوقِه (٣)، [وهو (٤)] موضِعُ الوتر بينهما.",
+ "az": "[شرخ] (şin, ra və xa) iki əsasdır: Biri bir şeyin başlanğıcı və təravətidir, bu da əksər hallarda balalarda olur. Digəri isə qarşı-qarşıya duran iki şeydə bərabərliyə dəlalət edir. Birincisi: شرخ الشّباب (şərxüş-şəbab) - gəncliyin əvvəli və təravətidir. Və شرخ كلِّ سنةٍ (şərxü külli sənnətin) - hər ilin ev heyvanlarından olan balaları, yəni törəməsidir. Dəvənin azı dişi əti yarıb çıxdığı zaman وقد شَرخَ نابُ البعير (və şərxə nabül-bə‘ir) deyilir. Şair demişdir (٢): إنَّ شَرخَ الشّبابِ والشَّعَرَ الأس … ودَ ما لم يُعَاصَ كان جُنونا (Həqiqətən, gəncliyin təravəti və qara saç – əgər onlara qarşı çıxılmasa – dəlilik idi). Digər əsas: Şərhan (الشَّرْخان), səhranın arxa hissəsinə və ortasına Şərhan (şərxan) deyilir. Və şərqətanis-səhm (شَرْخَتَا السَّهمِ) - oxun başındakı iki çıxıntı (zənəmə), [və o (٤)] oxun ipinin onların arasındakı yeridir.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.449Z"
+}

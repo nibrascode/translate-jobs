@@ -1,0 +1,17 @@
+{
+ "i": 408,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "وبَرْهمَ، إذا أدامَ النظَر. قال:\n* ونَظَراً هَوْنَ الهُوَيْنَى بَرْهَما * (١)",
+ "az": "«برهم» (b-r-h-m): Və بَرْهمَ (bərhəmə), baxışını zilləyib davam etdirdikdə. Şair demişdir:\n* ونَظَراً هَوْنَ الهُوَيْنَى بَرْهَما * (١) (Və sakitcə, asta-asta baxışı zillədi)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

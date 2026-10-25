@@ -1,0 +1,17 @@
+{
+ "i": 363,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 327,
+  "page_to": 328
+ },
+ "ar": "الباء والياء والنون أصلٌ واحدُ، وهو بُعْدُ الشَّئ وانكشافُه.\nفالبَيْن الفِراق؛ يقال بَان يَبِينُ بَيْنا وبَيْنُونةَ. والبَيُون (٣): البئر البعيرة القَعْر.\nوالبِينُ: قطعةٌ من الأرْضِ قدْرُ مَدِّ البَصَر. قال:\nبِسَرْوِ حِمْيَرَ أبوالُ البغَال به … أنِّى تَسَدَّيْتَ وَهْناً ذلك البِينَا (١)\nوبانَ الشَّئُ وأبَانَ إذا اتَّضَحَ وانْكشَفَ. وفلانٌ أبْيَنُ مِنْ فلانٍ، أى أوضَحُ كلاماً منه. فأمَّا البائن فى الحَلْب (٢) …",
+ "az": "«بين» (bəyn): باء، ya və nun hərfləri tək bir əsas mənanı ifadə edir, o da bir şeyin uzaqlaşması və üzə çıxmasıdır.\n«البَيْن» (əl-bəyn) — ayrılıqdır; deyilir: «بَانَ يَبِينُ بَيْناً وَبَيْنُونَةً» (banə yəbinu bəynən və bəynunətən). «البَيُون» (əl-bəyun) — dərinliyi uzaq olan quyudur.\n«البِين» (əl-bin) — gözün baxış məsafəsi qədər olan bir torpaq parçasıdır. Şair demişdir:\nبِسَرْوِ حِمْيَرَ أَبْوَالُ البِغَالِ بِهِ … أَنِّى تَسَدَّيْتَ وَهْناً ذَلِكَ البِينَا (١)\n(Himyərin dağlıq səhrasında, qatırların sidiyi orada olduğu halda, gecə yarısı o məsafəyə necə yönəldin?)\n«بَانَ الشَّىْءُ وَأَبَانَ» (banəş-şeyu və əbanə) — bir şey aydınlaşdı və üzə çıxdıqda deyilər. «فُلَانٌ أَبْيَنُ مِنْ فُلَانٍ» (Filankəs digərindən daha əbyəndir) — yəni ondan daha aydın danışandır. Sağarkən süddən ayrılan hissəyə gəldikdə isə (البائن فى الحلب) ...",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.171Z"
+}

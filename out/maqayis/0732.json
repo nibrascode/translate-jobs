@@ -1,0 +1,17 @@
+{
+ "i": 732,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جيش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 499,
+  "page_to": 499
+ },
+ "ar": "الجيم والياء والشين أصلٌ واحد، وهو الثَّوَران والغَلَيان.\nيقال جاشت القِدْرُ تجيش جَيْشاً وجَيشَاناً. قال:\nوجاشَتْ بهم يوماً إلى الليل قِدْرُنا … تصكُّ حَرَابِىَّ الظُّهورِ وتَدْسَعُ (١)\nومنه قولهم: جاشَتْ نَفْسُه، كأنّها غلَتْ. والجَيْش معروفٌ، وهو من الباب، لأنها جماعةٌ تَجِيش.",
+ "az": "[جيش] — الجيم (Cim), الياء (Ya) və الشين (Şin) tək bir əslə qayıdır, o da coşmaq və qaynamaqdır. Deyilir: جاشت القِدْرُ تجيش جَيْشاً وجَيشَاناً (Qazan qaynara düşdü, coşdu). [Şair] demişdir: وجاشَتْ بهم يوماً إلى الليل قِدْرُنا … تصكُّ حَرَابِىَّ الظُّهورِ وتَدْسَعُ (١) (Bir gün qazanımız axşama qədər onlarla birgə qaynadı, belin çıxıntılarını döyəcləyir və püskürürdü). Və buradan onların جاشَتْ نَفْسُه (Nəfsi coşdu, ürəyi bulandı) ifadəsi törəmişdir, sanki [ürək] qaynayır. وَالجَيْش (əl-Ceyş) — məlumdur və bu babdandır, çünki o, coşan (hərəkətli) bir dəstədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.101Z"
+}

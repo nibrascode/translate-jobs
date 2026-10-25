@@ -1,0 +1,17 @@
+{
+ "i": 2009,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سخد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 144,
+  "page_to": 144
+ },
+ "ar": "السين والخاء والدال أصلٌ. فيه السَّخْد، وهو الماء الذى يخرج مع الولد. ولذلك يقال: أصبح فلان مُسْخَداً، إذا أصبح خاثِر النفس ثقيلا. وربَّما قالوا للذى يخرج من بطن المولود قبل أن يأكل: السُّخْد. وهذا مُختلَف فيه، فمنهم من يقول سُخْد، ومنهم من يقول بالتاء سُخْت. وكذلك حُدّثنا به عن ثَعْلب فى آخر كتابه الذى أسماه الفصيح (١). وقال بعض أهل اللُّغة:\nإن السُّخْد الورَم، وهو ذلك القياس.",
+ "az": "«سخد» (səxd - doğuş suyu və ya bədənin ağırlığı): Sin, xə və dal bir əsasdır. Burada «السَّخْد» var, bu, uşaqla birlikdə çıxan sudur (döl yanı suyudur). Buna görə də deyilir: «أصبح فلان مُسْخَداً» — filankəs səhər yorğun, halsız və bədəni ağırlaşmış halda oyandı. Bəzən doğulmamışdan əvvəl uşağın qarnından çıxan şeyə «السُّخْد» deyirlər. Bu məsələdə fikir ayrılığı vardır; onlardan kimi «سُخْد», kimi də ta hərfi ilə «سُخْت» deyir. Bizə sələf alimi Sələbdən «əl-Fəsix» adlı kitabının axırında belə nəql olunmuşdur (١). Bəzi dil alimləri demişlər ki, «السُّخْد» şiş deməkdir və bu da həmin qaydaya uyğundur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:57.042Z"
+}

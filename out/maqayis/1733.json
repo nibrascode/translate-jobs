@@ -1,0 +1,17 @@
+{
+ "i": 1733,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 12,
+  "page_to": 12
+ },
+ "ar": "الزاء والعين والراء أُصَيلٌ يدلُّ على سُوء خُلُق وقلَّة خَير.\nفالزّعارة (١): شَراسَة الخُلُق، وهو على وزن فَعالة. ومن الباب الأزعر: المكان القليل النَّبات. ويقال إنّ الزعارة لا يُبنَى منها تصريفُ فعلٍ. ومن الباب الأزعر: القليل الشَّعر. والمرأة زَعْراء؛ وقد زَعِرَ يَزْعَر. واللّه أعلم.",
+ "az": "[زعر] (zər): Zay, ayn və ra hərfləri pis xasiyyətə və az xeyirə dəlalət edən kiçik bir kökdür.\n«الزّعارة» (1) (zəarə) – xasiyyətin sərtliyidir və o, «فَعالة» (fəalə) çəkisindədir. Bu fəsildəndir: «الأزعر» (əzər) – bitkisi az olan yer. Deyirlər ki, «زعارة» (zəarə) sözündən felin tərifi düzəldilmir. Bu fəsildəndir: «الأزعر» (əzər) – tükləri az olan. Qadın isə «زَعْراء» (zəra) olar; «زَعِرَ يَزْعَر» (tükləri seyrəldi, seyrəlir). Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

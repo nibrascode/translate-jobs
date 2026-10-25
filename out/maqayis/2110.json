@@ -1,0 +1,17 @@
+{
+ "i": 2110,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شمخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 212,
+  "page_to": 212
+ },
+ "ar": "الشين والميم والخاء أصلٌ صحيح يدل على تعظُّم وارتفاع.\nيقال جبَلٌ شامخٌ، أى عالٍ. وشَمَخ فلانٌ بأنفه، وذلك إِذا تعظَّمَ فى نفسه.\nوشَمْخٌ: اسم رجل.",
+ "az": "[شمخ] الشين والميم والخاء أصلٌ صحيح يدل على تعظُّم وارتفاع (Şin, mim və xa təkəbbürə və ucalığa dəlalət edən səhih əsasdır). يقال جبَلٌ شامخٌ (Deyilir: şamix dağ), أى عالٍ (yəni uca). وشَمَخ فلانٌ بأنفه (Və filan kəs burnunu şəmax etdi), وذلك إِذا تعظَّمَ فى نفسه (və bu, öz içində təkəbbür göstərdiyi zamandır). وشَمْخٌ (Və şəmx): اسم رجل (bir kişinin adıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:37.576Z"
+}

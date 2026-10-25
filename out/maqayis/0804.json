@@ -1,0 +1,17 @@
+{
+ "i": 804,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 5,
+  "page_to": 6
+ },
+ "ar": "الحاء والذال أصلٌ واحدٌ يدل على القَطْع والخِفّة والسُّرعة، لا يشذُّ منه شئ. فالحذُّ: القَطْعُ. والأَحَذُّ: المقطوع الذّنَب. ويقال للقطاةِ حَذّاءِ، لقِصَر ذَنَبها. قال:\nحَذّاء مدْبِرةً سَكَّاء مُقْبِلةً … للماء فى النَّحر منها نَوْطَةٌ عَجَب (١)\nوأمْرٌ أحذّ: لا متعلّق فيه لأحَدٍ، قد فُرِغ منه وأُحْكِم. قال:\nإذا ما قَطعْنا رَمْلَةً وعَدَابَها … فإنَّ لنا أَمْراً أحذَّ غمُوسا (٢)\nقال الخليل: الأحذّ: الذى لا يتعلَّق به الشئ. ويسمَّى القلبُ أحَذّ. قال:\nوقصيدة حَذَّاء: لا يَتعلَّقُ بها من العيب شئ لجوْدتها. والحَذّاء: اليَمين المنكَرَة يُقْتَطَعُ بها الحقُّ (٣)\nومن هذا الباب فى المُطابَق: قَرَبٌ حَذْحَاذٌ (٤)، أى سريعٌ حثيث.\nو\nفى حديث عُتْبةَ بنِ غَزْوان (١): «إِنَّ الدُّنْيا قد آذنَتْ بصُرْمٍ ووَلَّت حَذَّاءَ، ولم تَبْق منها صُبابةٌ إلاّ كصُبابة الإناء».",
+ "az": "[حذ] Ha və zal hərfləri kəsməyə, yüngüllüyə və sürətə dəlalət edən tək bir əsasdır, heç bir şey ondan kənara çıxmır. Həzz (الحذُّ): kəsməkdir. Əhəzz (الأحَذُّ): quyruğu kəsilmiş. Qata quşuna (حَذّاء) deyilir, quyruğunun qısalığına görə. Şair deyir: \"Arxası kəsilmiş, qabağı keçəl, su üçün boğazında əcaib bir sallantısı var\". Əmrun əhəzz (أمر أحذّ): heç kimin əlaqəsi olmayan, artıq bitmiş və möhkəmlənmiş iş. Şair deyir: \"Bir qumluğu və onun ətrafını kəsdiyimiz zaman, bizim üçün bitmiş və dərin bir iş vardır\". Xəlil deyir: Əhəzz: heç bir şeyin ona yapışmadığıdır. Qəlbə də əhəzz deyilir. Şair deyir: \"Və həzza (kəsici/yaxşı) bir qəsidə: keyfiyyətinə görə heç bir eyb ona yapışmaz\". Həzza (الحذّاء): haqqı kəsib götürmək üçün edilən yalan and. Bu babdan uyğunluq baxımından: (قَرَبٌ حَذْحَاذٌ), yəni sürətli və cəld gediş. Ütbə ibn Qəzvanın hədisində: \"Dünya ayrılacağını bildirdi və sürətlə (həzza) arxasını çevirdi, qabın dibində qalan az miqdar kimi ondan heç nə qalmadı\".",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:52:48.509Z"
+}

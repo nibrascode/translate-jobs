@@ -1,0 +1,17 @@
+{
+ "i": 1374,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 333,
+  "page_to": 334
+ },
+ "ar": "الدال والخاء والراء أصلٌ يدلُّ على الذُّل. يقال دَخَر الرّجُلُ، وهو داخِر، إذا ذَلَّ. وأَدْخَرَه غيرُه: أَذَلَّه. فأما الدَّخْدَار فالثَّوب الكريمُ يُصانُ. قال:\n* ويَجْلُو صَفْحَ دَخْدارٍ قَشِيبِ (٢) *\nوليس هذا من الكلمة الأولى فى شئِ؛ لأنَّ هذه مُعرّبة، قالوا: أصلها تَخْت دار، أى مَصُونٌ فى تَخْت (١).",
+ "az": "[دخر] (Də-xə-ra). Dal, xə və ra hərfləri zillətə (alçalmaya) dəlalət edən bir təməldir. Deyilir ki, دَخَر الرّجُلُ (kişi zəlil oldu), وهو داخِرٌ (o, zəilidir), yəni alçaldı. Və أَدْخَرَه غيرُه (başqası onu zəlil etdi): onu alçaltdı. Amma gəldikdə دَخْدَار (dəxdar) sözünə — bu, qorunan dəyərli paltardır. Şair demişdir: * ويَجْلُو صَفْحَ دَخْدارٍ قَشِيبِ (٢) * (Və o, təzə dəxdarın səthini parıldadır). Bu isə birinci sözlə heç bir əlaqəsi yoxdur; çünki bu, ərəbləşdirilmiş sözdür. Deyirlər ki, bunun əsli تَخْت دار (təxtdar) yəni təxtdə (taxt üzərində) qorunan deməkdir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.721Z"
+}

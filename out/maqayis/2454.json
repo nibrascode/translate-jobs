@@ -1,0 +1,17 @@
+{
+ "i": 2454,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 390,
+  "page_to": 390
+ },
+ "ar": "الضاد والجيم والراء أصلٌ صحيح يدلُّ على اغثمامٍ بكلام.\nيقال ضجِر يَضجَر ضجَراً. وضجِرت النَّاقةُ: كثر رغاؤها. ويقولون فى الشعر:\nضَجْرَ، بسكون الجيم. قال:\nفإن أهجُه يَضْجَرْ كما ضَجْرَ بازلٌ (١)",
+ "az": "[ضجر] (Dad, cim və ra) sözün mənasının sözlə sıxıntı keçirməyə dəlalət etdiyi səhih bir kökdür. ضجِر يَضجَر ضجَراً (daciir, yadjar, dajaran – darıxdı, darıxır, darıxmaq) deilir. وضجِرت النَّاقةُ (dəvə çox narahat olub səsləndi). Onlar şeirdə cim hərfinin sükunu ilə ضَجْرَ (dajr) işlədirlər. (Şair) demişdir: فإن أهجُه يَضْجَرْ كما ضَجْرَ بازلٌ (١) (Əgər onu hicv etsəm, o, dişi dəvənin dabarlandığı kimi darıxıb səs salar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:29.015Z"
+}

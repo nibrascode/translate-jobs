@@ -1,0 +1,17 @@
+{
+ "i": 1080,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خسأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 182,
+  "page_to": 182
+ },
+ "ar": "الخاء والسين والهمزة يدلُّ على الإبعاد. يقال خَسَأْتُ الكلبَ. وفى القرآن: ﴿قالَ اِخْسَؤُا فِيها وَلا تُكَلِّمُونِ﴾، كما يقال ابعُدوا.",
+ "az": "[خسأ] (خ, س, ء): Uzaqlaşdırmağa dəlalət edir. خَسَأْتُ الكَلْبَ (xəsə'tü əl-kəlb) - iti qovdum, deyilir. Quranda: ﴿قالَ اِخْسَؤُا فِيها وَلا تُكَلِّمُونِ﴾ (mənaca tərcümə: Dedik: “Orada zəlil və xar olun, Mənimlə danışmayın!”) - necə ki,",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

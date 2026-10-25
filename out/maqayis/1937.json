@@ -1,0 +1,17 @@
+{
+ "i": 1937,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سهو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 107,
+  "page_to": 107
+ },
+ "ar": "السين والهاء والواو معظم الباب [يدلّ] على الغفلة والسُّكون فالسَّهْو: الغفلة، يقال سَهَوْت فى الصلاة أسهو سَهْواً. ومن الباب المساهاة: حُسْن المخالَقَة، كأن الإنسانَ يسهو عن زَلَّةٍ إن كانت من غيره.\nوالسَّهْو: السُّكون. يقال جاء سَهْواً رَهْواً.\nومما شذّ عن هذا الباب [السَّهْوَة (١)]، وهى كالصُّفّة تكون أمامَ البيت.\nوممّا يبعُد عن هذا وعن قياس الباب: قولهم حملت المرأةُ ولدَها سَهْواً، أى على حَيْضٍ. فأمَّا السُّهَا فمحتمل أن يكون من الباب الأول؛ لأنَّه خفىٌّ جدًّا فيُسهَى عن رؤيته.",
+ "az": "«سهو» — السين والهاء والواو (سين، hə və vav) bu bölmənin əksəriyyəti qəflətə və sükunətə [dəlalət edir]. «السَّهْو» — qəflət, unutqanlıqdır, «سَهَوْت فى الصلاة أسهو سَهْواً» (namazda səhv etdim) deyilir. Bu bölmədəndir: «المساهاة» — gözəl xasiyyət, elə bil insan başqasından gələn hər hansı bir xətanı görməzliyə vurur (unudur). «السَّهْو» — sükunət. Deyilir: «جاء سَهْواً رَهْواً» (aramla, sakitcə gəldi). Bu bölmədən kənara çıxan isə evlərin önündə olan səfa/eyvan kimi olan «السَّهْوَةُ (١)»dir. Bu qaydadan və bölmənin ölçüsündən uzaq olanlardan biri də onların «qadın övladını səhvən, yəni heyz halında daşıdı» demələridir. «السُّهَا»ya gəlincə, ehtimal olunur ki, o, birinci bölmədəndir; çünki o çox gizlidir, onun görünməsi unudulur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.685Z"
+}

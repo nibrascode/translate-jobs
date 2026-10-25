@@ -1,0 +1,17 @@
+{
+ "i": 448,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 350,
+  "page_to": 350
+ },
+ "ar": "التاء والفاء والراء كلمة واحدة، وهى التفرة (٢) الدائرة التى تحت الأنف فى وَسَط الشَّفَةِ العُلْيا. قال أبو عبيد: التّفْرةُ من الإنسان، وهى من البعير النَّعْو. والتَّفِرةُ نبتٌ، وهو أحبُّ المرعى إلى المال. قال:\nلها تَفِرَاتٌ تَحْتَها وقُصارُها … إلى مَشْرَةٍ لم تُعْتَلَقْ بالمحاجِنِ (٣)",
+ "az": "[تفر] (tə-f-ر). Ta, fa və ra hərfləri tək bir kəlmədir, o da üst dodağın ortasında burnun altında olan dairəvi çuxur – et-təfərə (ət-təfirə)dir. Əbu Übeyd demişdir: Et-təfirə – insan üçün olan bu çuxurdur, dəvədə isə buna nəv (nəv‘) deyilir. Və et-təfirə – heyvanların yeməyi xoşladığı bir bitkidir. [Şair] demişdir: Onun altında təfirlər vardır, onun son həddi... İfratla əlləşdirilməmiş otlağa tərəfdir (3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1222,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 268,
+  "page_to": 269
+ },
+ "ar": "الدال والراء والعين أصلٌ واحد، وهو شئ [من اللّباس (٢)] ثم يُحمَل عليه تشبيهاً. فالدِّرع دِرْعُ الحديد مؤنثة، والجمع دُروع وأدراع. ودِرْع المرأة: قميصُها، مذكّر.\nوهذا هو الأصل. ثمَّ يقال: شاةٌ دَرْعاء، وهى التى اسوَدَّ رأسُها وابيضَّ سائرُها. وهو القياس؛ لأنَّ بياضَ سائِر بدنِها كدرعٍ لها قد لبِسَتْهُ. ومنه اللَّيالى الدُّرْعَ، وهى ثلاثٌ تسودّ أوائلها ويبيضُ سائرُها، شُبِّهت بالشَّاة الدَّرْعاء.\nفهذا مشبَّهٌ بمشبَّهٍ بغيره.\nومما شذَّ عن الباب الاندراعُ: التقدُّمُ فى السير. قال:\n* أَمامَ الخَيْل تَنْدَرِعُ اندرَاعا (١) *",
+ "az": "[درع] الدال والراء والعين (dal, ra və eyn hərfləri) tək bir əsasdır, o da [paltardan (٢)] bir şeydir, sonra buna bənzətmə olaraq başqa şeylər də aid edilir.\nالدِّرْع (əddirc) – dəmir zireh, qadın cinsindədir, cəmi دُروع (duru) və أدراع (ədrac) gəlir. Qadının دِرْع (köynəyi) isə müzəkkar (kişi cinsində) olur.\nBu, əsl mənadır. Sonra deyilir: شاةٌ دَرْعاء (darcə qoyun) – başı qara, bədənin qalan hissəsi ağ olan qoyun. Qiyas budur ki, onun bədəninin digər hissəsinin ağlığı sanki geyindiyi bir zirehdir. Buradan da اللَّيالى الدُّرْعَ (zirehli gecələr) – əvvəlləri qara, qalan hissəsi ağ olan üç gecə – darcə qoyuna bənzədilmişdir.\nDeməli, bu, başqa bir şeyə bənzədilmiş şeyə oxşadılmışdır.\n\nBu babdan istisna olan (şəzz): الاندراع (əl-indira) – gedişdə irəli keçmək. (Şair) demişdir:\n* أَمامَ الخَيْل تَنْدَرِعُ اندرَاعا (١) *\n(Atlıların önündə sürətlə irəli irəliləyir...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.589Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1206,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 258,
+  "page_to": 258
+ },
+ "ar": "الدال والقاف أصلٌ واحد يدلُّ على صِغَر وحَقارة. فالدَّقيق:\nخِلافُ الجَليل. يقال: ما أدَقَّنِى فُلانٌ ولا أَجَلَّنى، أى ما أعطانى دقيقةً ولا جَليلة. وأدقَّ فُلانٌ وأجلّ، إذا جاء بالقليل والكثير. قال:\nسَحوحٍ إذا سَحَّتْ هُمُوع إذا هَمَتْ … بكَتْ فأَدَقَّتْ فى البُكاَ وأجَلَّتِ (٢)\nوالدّقيق: الرجل القليل الخَير. والدَّقيق: الأمر الغامض. والدقيق:\nالطَّحين. وتقول: دققتُ الشَّىْ ءَ أدُقُّه دَقًّا.\nوأمَّا الدَّقْدَقة فأصواتُ حوافر الدوابّ فى تردُّدها. كذا يقولون. والأصل عندنا هو الأصل، لأنَّها تدقّ الأرضَ بحوافرها دَقًّا.",
+ "az": "«دق» (d-q) — Dal və qaf hərfləri kiçikliyə və naqisliyə (dəyərsizliyə) dəlalət edən tək bir əsasdır. «الدَّقيق» — «الجَليل»in (əzəmətli, böyük) əksidir. Deyilir: «ما أدَقَّنِى فُلانٌ ولا أَجَلَّنى» — yəni filankəs mənə nə az bir şey (dəqiqə) verdi, nə də böyük bir şey. «أدقَّ فُلانٌ وأجلّ» — az və çox şey gətirdi, deməkdir. Şair demişdir:\nسَحوحٍ إذا سَحَّتْ هُمُوع إذا هَمَتْ … بكَتْ فأَدَقَّتْ فى البُكاَ وأجَلَّتِ (٢)\n(Bol bəxş edən, tökdükdə gözyaşları axıdan, ağladığı zaman azı da, çoxu da əhatə edən).\n«الدَّقيق» — xeyri az olan kişidir. «الدَّقيق» — gizli və qəliz məsələdir. «الدَّقيق» — un deməkdir. Deyirsən: «دققتُ الشَّىْءَ أدُقُّه دَقًّا» (Bir şeyi döydüm, döyürəm).\n«الدَّقْدَقَة» sözünə gəldikdə isə, bu, minik heyvanlarının dırnaqlarının təkrar-təkrar yerə dəyərkən çıxardığı səslərdir. Belə deyirlər. Bizə görə isə əsl odur ki, onlar dırnaqları ilə yeri döyürlər («دَقًّا»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:40.620Z"
+}

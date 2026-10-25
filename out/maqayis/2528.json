@@ -1,0 +1,17 @@
+{
+ "i": 2528,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طوب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 430,
+  "page_to": 430
+ },
+ "ar": "الطاء والواو والباء ليس بأصل؛ لأنّ الطوب فيما أحسب هذا الذى يسمى الآجُرّ، وما أظُنُّ العربَ تعرفه. وأمّا طُوبَى فليس من هذا، وأصله الياء، كأنها فعلى من الطِّيب، فقلبت الياء واواً للضمَّة.",
+ "az": "[طوب] (Tə, vav və ba) əsl kök deyil; çünki mənim zənnimcə الطوب (ət-tub) kərpic adlanan şeydir və mən zənn etmirəm ki, ərəblər bunu tanısınlar. طُوبَى (tuba) sözünə gəldikdə, o, bundan deyil, əsli yadır, elə bil طِيب (tib) sözündən فعلى (fəla) çəkisindədir, zamməyə görə ya vav hərfinə çevrilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.400Z"
+}

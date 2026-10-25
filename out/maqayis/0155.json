@@ -1,0 +1,17 @@
+{
+ "i": 155,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أوه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 162,
+  "page_to": 163
+ },
+ "ar": "الهمزة والواو والهاء كلمةٌ ليست أصلاً يقاس عليها. يقال تأَوّه إذا قال أَوَّهْ وأَوْهِ (٤). والعرب تقول ذلك. قال:\nإذا ما قمتُ أَرْحُلُها بِلَيلٍ … تأَوَّهُ آهَةَ الرَّجُلِ الحَزِينِ (٥)\nوقوله تعالى: ﴿إِنَّ إِبْراهِيمَ لَأَوّاهٌ حَلِيمٌ (١﴾ هو الدَّعَّاء. أَوَّهْ فيه لغاتٌ:\nمدُّ الألف وتشديد الواو، وقصر الألف وتشديد الواو، ومدّ الألف وتخفيف الواو.\nوأَوْه بسكون الواو وكسر الهاء، وَأَوّهْ بتشديد الواو وكسرها وسكون الهاء، وآهِ، وآوِ، وأَوّتَاه.",
+ "az": "[أوه] (əvh): Həmzə, vav və hə əsas üzərində qiyas edilməyən bir kəlmədir. Deyilir: تأَوّه (təəvvəh) — أَوَّهْ وَأَوْهِ (əvvəh və əvhi) dediyi zaman. Ərəblər bunu deyirlər. O demişdir: إذا ما قمتُ أَرْحُلُها بِلَيلٍ … تأَوَّهُ آهَةَ الرَّجُلِ الحَزِينِ (Gecə vaxtı onu səfərə hazırlamaq üçün qalxdığım zaman… kədərli kişinin ahı ilə ah çəkdi) (٥). Uca Allahın bu sözü: ﴿إِنَّ إِبْراهِيمَ لَأَوّاهٌ حَلِيمٌ﴾ (mənaca tərcümə: Həqiqətən, İbrahim çox ah çəkən və həlim idi) (١) — çox dua edən deməkdir. أَوَّهْ (əvvəh) sözündə lüğətlər vardır: əlifin uzadılması və vavın təşdidi ilə, əlifin qəsri (qısaldılması) və vavın təşdidi ilə, əlifin uzadılması və vavın təxfifi ilə. Və أَوْه (əvh) — vavın sükunu və hənin kəsri ilə, وَأَوّهْ (və əvvəh) — vavın təşdidi, kəsri və hənin sükunu ilə, وَآهِ (və ahi), وَآوِ (və avi), və أَوْتَاه (övtah).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:24:55.392Z"
+}

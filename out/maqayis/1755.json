@@ -1,0 +1,17 @@
+{
+ "i": 1755,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زكت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 18,
+  "page_to": 18
+ },
+ "ar": "الزاء والكاف والتاء أصلٌ إن صحّ. يقال زَكَتُّ الإناء: ملأته. واللّه أعلم.",
+ "az": "[زكت] الزاء والكاف والتاء أصلٌ إن صحّ (Zə, kaf və tə, əgər səhihdirsə, bir əsldir). يقال زَكَتُّ الإناء: ملأته (Deyilir ki, zəkəttül-inə: qabı doldurdum). واللّه أعلم (Və Allah daha yaxşı bilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:57.983Z"
+}

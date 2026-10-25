@@ -1,0 +1,17 @@
+{
+ "i": 1117,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 203,
+  "page_to": 203
+ },
+ "ar": "الخاء والفاءِ والراءِ أصلان: أحدهما الحياء، والآخَر المحافظة أو ضِدُّها.\nفالأوّل الخَفَرُ. يقال خَفِرَت المراة: استحيت، تَخفَر خَفراً، وهى خفِرَةٌ. قال:\n* زَانَهنّ الدَّلُّ والخَفَرُ *\nوأمّا الأصل الآخر فيقال خَفَرْتُ الرّجُل خُفْرةً، إِذا أَجَرْتَه وكنتَ له خفيراً.\nوتَخَفَّرْتُ بفلانٍ، إذا استَجَرْتَ به. ويقال أخفَرْتُه، إذا بَعَثْتَ معه خفيراً.\nوأمّا خِلافُ ذلك فأخفَرتُ الرّجُلَ، وذلك إذا نقضْتَ عَهده. وهذا كالباب الذى ذكرناه فى خَفيت وأخفيت.",
+ "az": "[خفر] الخاء والفاءِ والراءِ أصلان: أحدهما الحياء، والآخَر المحافظة أو ضِدُّها (Hərf-i xa, fa və ra iki əsasdır: biri həya, digəri isə qoruyub saxlamaq və ya onun əksidir).\nBirincisi «الخَفَر»-dir. Deyilir: «خَفَرْتِ المراة» — qadın utandı, «تَخفَر خَفراً» edir, o, «خفِرَةٌ» (ütancaq qadın) olur. (Şair) demişdir:\n* زَانَهنّ الدَّلُّ والخَفَرُ *\n(Onları naz və utancaqlıq bəzədi).\nQaldı ki, digər əsasa gəldikdə, deyilir: «خَفَرْتُ الرّجُل خُفْرةً», o zaman ki, ona sığınacaq verdin və onun qoruyucusu (خفير) oldun.\nVə «تَخَفَّرْتُ بفلانٍ» — filpəsəstən kimsədən sığınacaq istədin. Və deyilir: «أخفَرْتُه» — onunla birlikdə qoruyucu göndərdinsə. \nBunun əksinə gəldikdə isə, «أخفَرْتُ الرّجُلَ» — bu, onun əhdini pozduğun zaman olur. Bu, «خَفيتُ» və «أخفيتُ» barədə qeyd etdiyimiz qapı kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:24.017Z"
+}

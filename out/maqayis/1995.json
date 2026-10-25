@@ -1,0 +1,17 @@
+{
+ "i": 1995,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 136,
+  "page_to": 137
+ },
+ "ar": "السين والجيم والميم أصلٌ واحد، وهو صبُّ الشّئ من الماء\nوالدَّمعِ. يقال سَجَمت العينُ دَمعَها. وعينٌ سَجوم، ودمعٌ مسجوم. ويقال أرض مسجومة: ممطورة.",
+ "az": "[سجم] (səcəm): Sin, cim və mim hərfləri suyun və göz yaşının axıdılması mənasını verən vahid bir kökdür. «سَجَمت العينُ دَمعَها» (səcəətil-eynü dəmqəha) – göz yaşını axıtdı, deyilir. «عين سَجوم» (eynün səcum) – axıcı göz, «دمع مسجوم» (dəmcün məscum) – axıdılmış göz yaşı. Həmçinin «أرض مسجومة» (ərdün məscumə) – yağış yağdırılmış torpaq, deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:35.045Z"
+}

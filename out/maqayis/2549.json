@@ -1,0 +1,17 @@
+{
+ "i": 2549,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 441,
+  "page_to": 441
+ },
+ "ar": "الطاء والباء والنون أصلٌ صحيح يدلُّ على ثباتٍ. ويقال اطبأنَّ، إذا ثبت وسكَن، مثل اطمأنّ. ويقولون: طَبنت النار: دفنتُها لئلا تَطفَأ، وذلك الموضعُ الطَّابون. ويقال طابِنْ هذه الحَفيرةَ: طاطئْها. ويقولون: إنَّ الخير فى بنى فلانٍ كثابت الطَّبْن، أى هو تليدٌ قديم.\nومن الباب الطَّبَن، وهو الفِطْنة؛ وذلك قياس الباب، لأنَّ فى ذلك كالثَّبات فى العِلْمِ به.",
+ "az": "[طبن] الطاء والباء والنون (طا, با, nun) – səhih bir əsas olub sabitliyə dəlalət edir. Deyilir: اطبأنَّ (itbənnə), o, sabitləşdi və sakitləşdi, اطمأنّ (itmənnə) kimidir. Deyirlər: طَبنت النار (Mən odu basdırdım/örtdüm) – sönməsin deyə onu basdırdım, həmin yer isə طَابون (tabun) adlanır. Deyirlər: طابِنْ هذه الحَفيرةَ (Bu çuxuru alçalt/düzləndir). Deyirlər ki, xeyir filan qəbilənin övladlarında sabit طَبْن (tabn) kimidir, yəni o, qədim və köklüdür. Bu babdandır الطَّبَن (ət-tabən) – fərasət və zəka; bu da bu babın qiyasındandır, çünki bunda elmi baxımından bir sabitlik vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:11:55.933Z"
+}

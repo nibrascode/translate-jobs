@@ -1,0 +1,17 @@
+{
+ "i": 2142,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شوع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 228,
+  "page_to": 228
+ },
+ "ar": "الشين والواو والعين أصلٌ يدل على انتشارٍ وتفرُّق. من ذلك: الشَّوَع، وهو انتشار الشَّعْر وتفرُّقه. والشُّوع: شَجَر (١) ولَعله متفرِّق النبت.",
+ "az": "[شوع] (şuv) — شين (şin), vav və عين (eyn) yayılma və səpələnməyə dəlalət edən bir əsasdır. Bunlardan biri də saçın dağılması və səpələnməsi mənasını verən الشَّوَع (əş-şəvəc)dir. Şuv – ağacdır (1), ehtimal ki, bitkiləri səpələnmiş haldadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.212Z"
+}

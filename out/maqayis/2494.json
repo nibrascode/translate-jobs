@@ -1,0 +1,17 @@
+{
+ "i": 2494,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طفح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 415,
+  "page_to": 415
+ },
+ "ar": "الطاء والفاء والحاء، وهو شبيه بالباب الذى قبله. يقال الطُّفَاحة: ما طَفَح فوق الشئِ يُطْبَخُ من زُبْدٍ أو غيره، ثمَّ يُحْمل عليه فيسمَّى كلُّ شئٍ عَلا شيئاً فغطَّاه طافحا. يقال طَفَحَ النهرُ: امتلأ. وطَفحَ السّكرانُ من ذلك، فهو طافح. وطفَّحت الرِّيح القُطنةَ فى الهواء، إذا سطعَت بها.",
+ "az": "[طفح] الطاء (ta), الفاء (fa) və الحاء (ha), bu, özündən əvvəlki qapıya bənzəyir. Deyilir ki, الطُّفَاحة (ət-tufahə): bişirilən bir şeyin üzərinə çıxan kəf və ya başqa şeydir, sonra ona da şamil edilir və bir şeyin üzərinə çıxıb onu örtən hər şeyə طافح (tafih) deyilir. Deyilir ki, طَفَحَ النهرُ (təfəhə-n-nəhru): çay doldu. Sərxoşun طَفح (təfəhə) etməsi də bundandır, o, طافح (tafih) olur. Külək pambığı havada طَفَّحت (təffəhət) etdi, yəni onu yüksəltdi.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:09:04.543Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1800,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زيب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 39,
+  "page_to": 39
+ },
+ "ar": "الزاى والياء والباء أصلٌ يدلُّ على خفّةٍ ونشاط وما يشبه ذلك. والأصلُ الخِفّة. يقولون: الأَزْيَبُ النشاط. ويقولون: مَرّ فلانٌ وله أزْيَب إذا مَرَّ مَرٍّا سريعًا. ومن ذلك قولهم للأمر المنكَر: أَزْيَبٌ. وهو القياس، وذلك أنّه يُستخفّ لمن رآه أو سمعه. قال:\nتُكلّفُ الجارةَ ذَنْبَ الغُيّبِ … وهى تُبيتُ زوجَها فى أزيَبِ (١)\nومن الباب قولهم للرجل الذّليل والدّعِىِّ أَزْيَب (٢). ويقولون لمن قارَبَ خَطْوَه:\nأَزْيَب. وقد أعلمْتُكَ أنَّ مرجع البابِ كلِّه إلى الخِفّة وما قاربها.\nوممّا يصلُح أن يقال إنّه شذّ عن الباب، قولهم للجَنُوب من الرِّياح: أَزْيَب.",
+ "az": "[زيب] (zib). الزايا (ز) və الياء (ي) və الباء (ب) yüngüllüyə, fəallığa və buna bənzər şeylərə dəlalət edən bir əsldir. Əsas məna yüngüllükdür. Deyirlər: الأَزْيَبُ (əzyəb) — fəallıq, çeviklik. Və deyirlər: Falan kəs keçdi və onun أزْيَب (əzyəb) var idi, yəni sürətlə keçdi. Bunlardandır onların bəyənilməyən işə أَزْيَبٌ (əzyəb) demələri. Bu, qiyasdır, çünki onu görən və ya eşidən üçün bu yüngül (önəmsiz) hesab olunur. Şair demişdir: «تُكلّفُ الجارةَ ذَنْبَ الغُيّبِ … وهى تُبيتُ زوجَها فى أزيَبِ» (1) (Qonşu qadına qeybdə olanların günahını yükləyirsən... halbuki o, ərini yüngülvári və ya narahat bir vəziyyətdə gecələdir). Bu fəsildəndir zəlil və soyu bəlli olmayan adamı أَزْيَب (əzyəb) adlandırmaları (2). Və addımlarını yaxın atana أَزْيَب (əzyəb) deyirlər. Mən sənə bildirdim ki, bu fəslin bütün qayıtdığı məna yüngüllük və ona yaxın olan hallardır. Bu fəsildən şaz (kənara çıxan) olaraq deyilməsi münasib olanlardandır ki, cənub küləyinə أَزْيَب (əzyəb) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.435Z"
+}

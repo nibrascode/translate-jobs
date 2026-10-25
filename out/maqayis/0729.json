@@ -1,0 +1,17 @@
+{
+ "i": 729,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 498,
+  "page_to": 498
+ },
+ "ar": "الجيم والياء والراء كلمةٌ واحدة. جَيْرِ بمعنى حَقًّا. قال:\nوقالت قد أَسِيتَ فقلتُ جَيْرٍ … أَسِىٌّ إِنَّه من ذاكِ إنَّهُ (٤)\nفأمَّا الجَبّار، وهو الصباروج، فكلمة مُعرَّبة. قال الأعشى:\n* بطين وجَيّارٍ وكِلْسٍ وقَرْمَدِ (٥) *\nوأما الجائر فَمَا يجدُه الإنسانُ فى صدره من حرارةِ غيظٍ أو حزن؛ فهو من باب الواو، وقد مضى ذكره.",
+ "az": "[جير] — الجيم (Cim), الياء (Ya) və الرا (Ra) tək bir kəlmədir. جَيْرِ (Ceyri) — həqiqətən deməkdir. [Şair] demişdir: وقالت قد أَسِيتَ فقلتُ جَيْرٍ … أَسِىٌّ إِنَّه من ذاكِ إنَّهُ (٤) (O dedi: «Qəm etmisən». Dedim: «Həqiqətən qəm etmişəm, bu, məhz eləandandır»). Söndürülməmiş əhəng (sabbaruc) mənasını verən əl-Cəbbar sözünə gəldikdə isə, bu, əcnəbi kəlmədir. Aşa demişdir: * بطين وجَيّارٍ وكِلْسٍ وقَرْمَدِ (٥) * (Batil, cəyyar, əhəng və kərpiclə). İnsanın sinəsində tapdığı qəzəb və ya kədər hərarətinə gəldikdə isə; o, vav babındandır və artıq zikr olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.101Z"
+}

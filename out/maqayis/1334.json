@@ -1,0 +1,17 @@
+{
+ "i": 1334,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دوه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 317,
+  "page_to": 317
+ },
+ "ar": "الدال والواو والهاء ليس بشَئ. يقولون: الدَّوْه: التحيُّر.",
+ "az": "[دوه] \nالدال (dal), الواو (vav) və الهاء (hə) heç bir əsasa malik deyil. Deyirlər: الدَّوْه (əd-dəvh): heyran olmaq, çaşqınlıq.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:41.110Z"
+}

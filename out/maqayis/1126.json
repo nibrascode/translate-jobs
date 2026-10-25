@@ -1,0 +1,17 @@
+{
+ "i": 1126,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خلط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 208,
+  "page_to": 209
+ },
+ "ar": "الخاء واللام والطاء أصلٌ واحد مخالفٌ للباب الذى قَبلَه، بل هو مُضَادٌّ له. تقول: خلَطْت الشَّيءَ بغيره فاختلط. ورجل مِخْلَطٌ، أى حَسَن المداخَلة للأمورِ. وخِلافُه المِزْيل. قال أوس:\nوإن قالَ لى ماذا تَرَى يستشيرُنى … يَجدُنى ابنُ عَمِّى مِخْلَطَ الأمر مِزْيَلَا (١)\nوالخليط: المجاور. ويقال: الخِلْط السّهمُ ينبُتُ عودُه على عِوَجٍ، فلا يزالُ يتعوّجُ وإن قُوّم. وهذا من الباب؛ لأنّه ليس يُخَالَط فى الاستقامة. ويقال استَخْلَطْ * البعيرُ، وذلك أن يَعْيا بالقَعْو على النّاقة (٢) ولا يَهتدِى لذلك، فيُخْلَطَ له وبُلْطَف له.",
+ "az": "[خلط] الخاء واللام والطاء أصلٌ واحد مخالفٌ للباب الذى قَبلَه (Xar, lam və ta hərfləri əvvəlki fəslə zidd olan tək bir əsas mənadır), بل هو مُضَادٌّ له (əksinə, o onun tam əksidir). تقول: خلَطْت الشَّيءَ بغيره فاختلط (Deyirsən: xələttüş-şəyə bi ğayrihi faxtalata - mən şeyi başqası ilə qarışdırdım və o da qarışdı). ورجل مِخْلَطٌ (Və mixlət kişi), أى حَسَن المداخَلة للأمورِ (yəni işlərə daxil olmaqda və insanlarla ünsiyyətdə gözəl olan kəsdir). وخِلافُه المِزْيل (Onun əksi isə mizildir). قال أوس (Evs demişdir): وإن قالَ لى ماذا تَرَى يستشيرُنى … يَجدُنى ابنُ عَمِّى مِخْلَطَ الأمر مِزْيَلَا (١) (Əgər o mənə «nə görürsən?» deyib mənimlə məsləhətləşərsə... əmiuşağım məni işi qarışdıran və ya hər şeyə qarışan, lakin ayıq bir kəs kimi tapar). والخليجي: المجاور (Əl-xəlic: qonşu, yaxın olan). ويقال: الخِلْط السّهمُ ينبُتُ عودُه على عِوَجٍ (Və deyilir: xilt - elə bir oxdur ki, onun çubuğu əyriliklə bitir), فلا يزالُ يتعوّجُ وإن قُوّم (və nə qədər düzəldilsə də əyilməkdə davam edir). وهذا من الباب (Bu da bu fəsildəndir); لأنّه ليس يُخَالَط فى الاستقامة (çünki o, düzgünlükdə başqalarına qarışmır, yəni düzəlmir). ويقال استَخْلَطَ * البعيرُ (Və deyilir ki, dəvə istəxlət), وذلك أن يَعْيا بالقَعْو على النّاقة (٢) (və bu da o vaxt olur ki, dəvə dişi dəvə üzərində cütləşməkdə aciz qalır), ولا يَهتدِى لذلك (və buna görə də doğru yolu tapa bilmir), فيُخْلَطَ له وبُلْطَف له (və onun üçün iş qarışdırılır və ona lütf edilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:48.240Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 480,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تيم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 361,
+  "page_to": 361
+ },
+ "ar": "التاء والياء والميم أصلٌ واحدٌ، وهو التَّعْبيد. يقال تَيَّمه الحُبُّ إذا استَعْبَدَه. قال أهلُ اللُّغة: ومِنْه تَيْمُ اللّه، أى عبد اللّه.\nومما شذَّ عن هذا الباب التِّيمة، وهى الشَّاة الزائدةُ على الأَربعين، ويقال بل هى الشَّاة يحتَلِبُها الرَّجُل فى مَنْزله. واتَّام الرّجُلُ إذا ذَبَحَ تِيَمَته. قال الحُطيئة:\nفما تَتَّامُ جارَةُ آلِ لَأْىٍ … ولكن يَضْمَنُون لها قِرَاها (١)",
+ "az": "[تيم] (t-y-m): Ta, ya və mim hərfləri tək bir əsasdır, o da qul etməkdir. Deyilir: تَيَّمَهُ الْحُبُّ (təyyəməhü əl-hubbu) – məhəbbət onu qul etdi. Dil alimləri demişlər: تَيْمُ اللَّهِ (təymu allah) sözü də bundandır, yəni Allahın qulu. Bu بابdan (bölmədən) uzaq düşən (şaz) hallardan biri də التِّيمَةُ (ət-timə) sözüdür; bu, qırx qoyunun üzərinə gələn artıq qoyundur, yaxud deyilənə görə, adamın evində sağdığı tək qoyundur. Kişi öz تِيَمَة (tiyəmə) qoyununu kəsdikdə اتَّامَ الرَّجُلُ (əttamə ər-racülu) deylər. Hütəyə demişdir: فَمَا تَتَّامُ جَارَةُ آلِ لَأْىٍ … وَلِكَنْ يَضْمَنُونَ لَهَا قِرَاهَا (١) (Ləy ailəsinin qonşu qadını qoyun kəsməz, lakin ona qonaqlığını təmin edərlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

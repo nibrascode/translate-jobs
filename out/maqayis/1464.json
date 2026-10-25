@@ -1,0 +1,17 @@
+{
+ "i": 1464,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رزن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 390,
+  "page_to": 390
+ },
+ "ar": "الراء والزاء والنون أصلٌ يدلُّ على تجمُّعٍ وثَبات. يقولون رَزُنَ الشئِ: ثَقُل. ورجلٌ رزينٌ وامرأةٌ رَزانٌ. والرِزْنُ: نُقرةٌ فى صخرةٍ يجتمع فيها الماء. قال:\n* أحْقَبَ مِيفَاءِ على الرُّزُونِ (٢) *\nويقال الرَّزْنُ: الأَكمَة، والجمع رزُونٌ.",
+ "az": "[رزن] (Rə, zay və nun) toplanmağa və sabitliyə dəlalət edən bir əsasdır. Deyirlər: رَزُنَ الشئُ (Şey ağırlaşdı). رزينٌ kişi və رَزانٌ qadın. Ər-rizn — suyun yığıldığı qayadakı çuxurdur. [Şair] demişdir: * أحْقَبَ مِيفَاءِ على الرُّزُونِ (٢) * (Çuxurların üzərində belində xətti olan, hündür yerə çıxan...). Deyilir ki, ər-razn — təpədir, cəmi rüzundur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:45.681Z"
+}

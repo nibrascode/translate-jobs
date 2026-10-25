@@ -1,0 +1,17 @@
+{
+ "i": 2271,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صفع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 295,
+  "page_to": 295
+ },
+ "ar": "صفع الصاد والفاء والعين كلمةٌ واحدة معروفة.",
+ "az": "[صفع] (S-F-Ğ) — Səfəc: sad, fa və eyn hərflərindən ibarət məlum olan tək bir kəlmədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:47.388Z"
+}

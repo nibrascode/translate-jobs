@@ -1,0 +1,17 @@
+{
+ "i": 735,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جأب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 500,
+  "page_to": 500
+ },
+ "ar": "الجيم والهمزة والباء حرفان: أحدهما يدلُّ على الكَسْب.\nيقال جَأبْتُ جَأبًا، أى كَسَبْتُ وعَمِلت. قال:\n* فاللّهُ راءٍ عَمَلِى وجَأْبِى (١) *\nوالآخر من غير هذا، وهو الحمار من حُمُرِ الوحش الصُّلبُ الشّديد.\nالمَغْرَةُ، يُهْمَز ولا يُهمز.",
+ "az": "«جأب» — جيم, həmzə və ba hərfləri iki hərflidir (bölmədəndir): Bunlardan biri qazanca dəlalət edir. \n Deyilir: «جَأبْتُ جَأبًا» (cəəbtü cəəbən) — yəni qazandım və işlədim. Şair demişdir: \n* فاللّهُ راءٍ عَمَلِى وجَأْبِى (١) *\n(Və Allah əməlimi və qazancımı görəndir.) \nDigəri isə bundan başqadır: Bu, vəhşi eşşəklərdən olan sərt və güclü eşşək mənasını verən «المَغْرَةُ» (məğrə) sözüdür, həmzəli də yazılır, həmzəsiz də.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

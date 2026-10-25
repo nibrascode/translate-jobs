@@ -1,0 +1,17 @@
+{
+ "i": 2590,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ظأر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 473,
+  "page_to": 473
+ },
+ "ar": "الظاء والهمزة والراء أصلٌ صحيح واحدٌ يدلُّ على العطف والدنوُّ. من ذلك الظِّئر. وإنّما * سمِّيت بذلك لعَطْفها على من تُربِّيه. وأظَّأَرت لولدى ظِئْرا، كما مرَّ فى اظَّلم بالظَّاء. والظَّؤُور من النُّوق: التى تعطف على البَوّ.\nوظأَرَنى فلانٌ على كذا، أى عطفَنى. والظُّؤَار تُوصَف به الأثافىّ، كأنّها متعطِّفة على الرَّماد (١). والظِّئار: أن تُعالَج النَّاقة بالغِمامةِ فى أنفها لكى تَظْأر. وقولهم:\n«الطَّعْن يَظْأَر (٢)»، أى يَعطِف على الصُّلح. ويقال ظِئر وظُؤَار، وهو من الْجمع الذى جاء على فُعال، وهو نادر.",
+ "az": "[ظأر] الظاء (zı), الهمزة (həmzə) və الراء (ra) hərfləri şəfqət və yaxınlıq mənasını bildirən tək və doğru bir kökdür. Buradan الظِّئر (əz-zi'r - süd ana) sözü yaranır. O, tərbiyə etdiyi kəsə qarşı şəfqətli olduğuna görə belə adlanıb. Mən övladım üçün bir süd ana (ظِئر) tapdım (أظَّأَرت), necə ki, ظاء (zı) hərfi ilə اظَّلم (əzzələmə) maddəsində keçdiyi kimi. الظَّؤُور (əz-zə'ur) - balasının dərisinə (bəv) şəfqət göstərən dəvədir. Filankəs məni bir işə ظأَرَنى (zə'ərəni) etdi, yəni məni ona tərəf yönəltdi (şəfqətlə). الظُّؤَار (əz-zu'ar) sözü ilə üçayaqlı qazan altlığı (əsaafi) vəsf edilir, sanki onlar külə tərəf əyiliblər (١). الظِّئار (əz-zi'ar) - dəvənin burnuna, süd anası olması üçün (balasını qəbul etməsi üçün) örtük (ğimamə) taxılaraq müalicə edilməsidir. Onların \"الطَّعْن يَظْأَر (ə-tə'nu yəz'əru)\" (٢) demələri, yəni nizə sancmağın sülhə tərəf yönəltməsi deməkdir. Deyilir ki, ظِئر (zi'r) və ظُؤَار (zu'ar) sözləri var, bu, fُعال (fu'al) vəznində gələn nadir cəm formalarındandır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:15:48.931Z"
+}

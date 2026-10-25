@@ -1,0 +1,17 @@
+{
+ "i": 717,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 493,
+  "page_to": 493
+ },
+ "ar": "الجيم والواو والدال أصلٌ واحد، وهو التسمُّح بالشئ، وكثْرةُ العَطَاء. يقال رجلٌ جَوَادٌ بَيِّن الجُودِ، وقومٌ أجْواد. والجَوْد: المطر الغزير. والجَواد: الفرسُ الذّريع والسَّريع، والجمع * جِيادٌ. قال اللّه تعالى:\n﴿إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ اَلصّافِناتُ اَلْجِيادُ﴾. والمصدر الجُودَة. فأمّا قولهم:\nفلانٌ يُجاد إلى كذا، [ف] كَأنه يُساقُ إليه.",
+ "az": "[جود] — الجيم (Cim), الواو (Vav) və الدال (Dal) tək bir əslə qayıdır, o da bir şeydə səxavət göstərmək və çox bəxşiş etməkdir. Deyilir: رجلٌ جَوَادٌ بَيِّن الجُودِ (Səxavətli, cəmiyyətdə səxavəti bəlli olan kişi), və قومٌ أجْواد (Səxavətli tayfa). وَالجَوْد (əl-Cəvd) — bol yağış. وَالجَواد (əl-Cəvad) — iti və sürətli at, cəmi * جِيادٌ (ciyad) gəlir. Uca Allah demişdir: ﴿إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ اَلصّافِناتُ اَلْجِيادُ﴾ [mənaca tərcümə: Axşamüstü ona ayaqlarının biri üzərində durançox sürətli cins atlar təqdim olundu]. Məsdəri isə الجُودَة (əl-Cudə) olur. Onların فلانٌ يُجاد إلى كذا (Filankəs buna tərəf sürüklənir) sözünə gəldikdə isə, sanki o, ora yönəldilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

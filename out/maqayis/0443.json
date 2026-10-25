@@ -1,0 +1,17 @@
+{
+ "i": 443,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تعس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 348,
+  "page_to": 348
+ },
+ "ar": "التاء والعين والسين كلمةٌ واحدة وهو الكَبُّ، يقال تَعَسَه اللّه وأتَعسَه. قال:\nغداةَ هَزَمْنا جَمْعَهم بمُتالعٍ … فآبوا بإتعاسٍ على شَرِّ طائرِ",
+ "az": "[تعس] (tə-%-s). Ta, ayn və sin hərfləri tək bir kəlmədir, o da üzüqoylu yıxılmaqdır (el-kəbb). Deyilir: تَعَسَه اللّه (təəhullah) — Allah onu üzüqoylu yıxsın, və أَتَعسَه (ətəəh). [Şair] demişdir: Mütəal ətrafında onların topluluğunu məğlub etdiyimiz səhər... Pis qismətlə üzüqoylu məğlubiyyətə uğrayaraq geri qayıtdılar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

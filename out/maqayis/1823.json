@@ -1,0 +1,17 @@
+{
+ "i": 1823,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زجل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 47,
+  "page_to": 48
+ },
+ "ar": "الزاء والجيم واللام أصلٌ يدلُّ على الرمى بالشئِ والدفعِ له.\nيقال قَبَحَ اللّهُ أمًّا زَجَلَتْ به. والزَّجْل: إرسال الحمام الهادِى. والمِزْجل:\nالمِزْرَاق. وزَجَلَ الفَحْل، إذا ألْقى ماءَه فى الرَّحِم. ويقال أن الزَّاجَلُ (٣): ماءُ الظليم؛ لأنه يزْجُل به. قال ابنُ أحمر:\nوما بيضاتُ ذِى لِبَدٍ هِجَفّ … سُقِينَ بِزَاجَلٍ حَتى رَوِينا (١)\nويقال بل الزَّاجَل مُخُّ البيض، والأوّل أقيس.\nومما شذّ عن الباب الزُّجلة: القِطعة من كل شئ، وجمعها زُجَل والزِّئْجِيل (٢): الرجل الضَّعيف.\nومن هذا، إن كان صحيحاً، الزَّاجَل: حَلقة تكون فى طرف حبل الثقَل (٣).",
+ "az": "[زجل] (zə-jim-lam): bir şeyi atmağa və onu dəf etməyə dəlalət edən bir əsldir. \nDeyilir: «قَبَحَ اللّهُ أمًّا زَجَلَتْ به» (Allah onu doğan ana üzərinə lənət etsin). «الزَّجْل» (əz-zəjl): səyyar göyərçinləri buraxmaq. «المِزْجل» (əl-mizjəl): nizə. «زَجَلَ الفَحْل» (damazlıq erkək suyunu rəhmə tökdü) — suyunu rəhmə tökdüyü zaman. Deyilir ki, «الزَّاجَلُ» (əz-zajəl): dəvəquşunun suyudur; çünki o, onu atır. İbn Əhmər demişdir: \nوما بيضاتُ ذِى لِبَدٍ هِجَفّ … سُقِينَ بِزَاجَلٍ حَتى رَوِينا (١)\n(Yallı və ağırbaşlı quşun yumurtaları zajəllə suvarıldı və doydular). \nDeyirlər ki, əksinə, «الزَّاجَل» (əz-zajəl) — yumurtanın iliyidir, birinci isə daha qiyaslıdır. \nBabdan kənar çıxan (şəzz) sözlər: «الزُّجلة» (əz-züglə): hər şeydən bir parça, cəmi «زُجَل» (zügəl) gəlir. «الزِّئْجِيل» (əz-zi'jil): zəif kişi. \nBundandır — əgər səhihdirsə — «الزَّاجَل» (əz-zajəl): ağırlıq ipinin ucunda olan halqadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

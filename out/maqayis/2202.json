@@ -1,0 +1,17 @@
+{
+ "i": 2202,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شخم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 255,
+  "page_to": 255
+ },
+ "ar": "الشين والخاء والميم كلمةٌ تدلُّ عَلَى تغيّرٍ فى شئ من ذلك: أشخم اللّبن، إذا تغيّرت رائحتُه. وشَخُمَ الطَّعامُ: فَسَد (١).",
+ "az": "«شخم» (şəxm). Şin, xa və mim köklü bir kəlmə olub, bir şeydə dəyişikliyə dəlalət edir. Bunlardandır: «أشْخَمَ اللَّبَنُ» (sütün qoxusu dəyişdi) — sütün iyi dəyişdiyi zaman. Və «شَخُمَ الطَّعامُ» (yemək xarab oldu) — yemək xarab oldu (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 996,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حبق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 130,
+  "page_to": 130
+ },
+ "ar": "الحاء والباء والقاف ليس عندى بأصلٍ يُؤخَذُ به ولا معنَى له. لكنهم يقولون حبَّق متاعَه، إذا جمعه. ولا أدرى كيف صحَّتُه.",
+ "az": "[حبق] (həbəq) - Ha, ba və qaf mənim yanımda istinad olunacaq bir əsas və heç bir mənası yoxdur. Lakin onlar deyirlər: «حبَّق متاعَه» — malını toplayıb yığdı. Bunun nə dərəcədə doğru olduğunu bilmirəm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.135Z"
+}

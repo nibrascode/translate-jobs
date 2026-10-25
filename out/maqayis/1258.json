@@ -1,0 +1,17 @@
+{
+ "i": 1258,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دغف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 286,
+  "page_to": 286
+ },
+ "ar": "الدال والغين والفاء ليس بشئ، إلاّ أنّ ابنَ دُريد (١) زعم أنّ الدَّغْف الإكثارُ من أخْذ الشّئ.",
+ "az": "«دغف» (د-غ-ف): dal, geyn və fa hərfləri bir şey deyil, lakin İbn Dürid iddia etmişdir ki, «الدَّغْف» (əddəğf) bir şeyi götürməkdə həddini aşmaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.299Z"
+}

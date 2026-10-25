@@ -1,0 +1,17 @@
+{
+ "i": 624,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 444,
+  "page_to": 444
+ },
+ "ar": "الجيم والراء والفاء أصلٌ واحدٌ، هو أخْذ الشئِ كلِّه هَبْشاً.\nيقال جَرَفْتُ الشئَ جَرْفاً، إذا ذهبْتَ به كلِّه. وسَيْفٌ جُرَافٌ (٣) يُذْهِبُ كلَّ شئ. والجُرْفُ المكان يأكله السيل. وجَرَّفَ الدهرُ مالَه *: اجتاحه. ومال مُجَرَّف. ورجل جُرَافٌ نُكَحَةٌ، كأنّه يجرِف ذلك جرْفاً. ومن الباب: الجُرْفَة:\nأنْ تُقْطَع من فخذِ البعير جلدَةٌ وتُجْمَع على فَخِذه.",
+ "az": "[جرف] الجيم والراء والفاء أصلٌ واحدٌ، هو أخْذ الشئِ كلِّه هَبْشاً (jim, ra və fa hərfləri tək bir əsasdır, o da bir şeyi bütövlükdə toplayıb götürməkdir).\nيقال جَرَفْتُ الشئَ جَرْفاً (deyilir: mən şeyi tamamilə təmizləyib götürdüm), إذا ذهبْتَ به كلِّه (əgər onu bütövlükdə aparmısansa). وسَيْفٌ جُرَافٌ (٣) (və curaf qılıncdır) يُذْهِبُ كلَّ شئ (hər şeyi yox edən). والجُرْفُ المكان يأكله السيل (və curf – elə yerdir ki, onu sel yeyir). وجَرَّفَ الدهرُ مالَه *: (və zaman onun malını kökündən sildi*): اجتاحه (onu məhv etdi). ومال مُجَرَّف (və məruf mal). ورجل جُرَافٌ نُكَحَةٌ (və curaf kişi çox evlənəndir), كأنّه يجرِف ذلك جرْفاً (elə bil o bunu bütövlükdə qoparıb aparır). ومن الباب (Və bu fəsildəndir): الجُرْفَة (curfə): أنْ تُقْطَع من فخذِ البعير جلدَةٌ وتُجْمَع على فَخِذه (dəvənin budundan bir dəri parçasının kəsilib onun budu üzərində birləşdirilməsidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:47.481Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1138,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 220,
+  "page_to": 221
+ },
+ "ar": "الخاء والميم واللام أصلٌ واحد يدل على انخفاضٍ واسترسالٍ وسُقوط. يقال خَمَلَ ذكرُه يخمُل خمولا. والخامل: الخفىّ؛ يُقال: هو خامِل الذّكر؛ والأمرُ الذى لا يعرِف ولا يُذكَر. والقول الخامل: الخَفِيض. و\nفى حديث: «اذكُروا اللّه ذِكراً خاملا». والخَميلة: مَفْرَجٌ من الرَّمْل فى هَبْطةٍ، مَكرَمَةٌ للنّبات. قال زُهير:\n* شَقائِقَ رمْلِ بينهنَّ خمائلُ (١) *\nوقال لبيد:\nباتَتْ وأسْبَلَ واكِفٌ من دِيمَةٍ … يُروِى الخَمائِلَ دائماً تَسجامُها (١)\nوالخَمْل، مجزوم: خَمْل القطيفة والطِّنْفِسة. ويقال لريش النَّعام خَمْل. وذلك قياسُ الباب؛ لأنّه يكون مسترسِلا ساقطاً فى لينٍ.\nفأمّا الخُمال فقال قوم: هو ظَلْعٌ يكون فى قوائم البعير. فإن كان كذا فقياسُه قياسُ الباب؛ لأنّه لعَلَّه عن استرخاءِ. وقال الأعشى فى الخُمال:\nلم تُعَطَّفْ على حِوارٍ ولم يَقْ … طَعْ عُبيدٌ عروقَها مِنْ خُمالِ (٢)",
+ "az": "[خمل] (X-M-L) Xa, mim və lam hərfləri tək bir kökdür və alçalmağa, sallanmağa və düşməyə dəlalət edir. Deyilir ki, xəmələ (خَمَلَ) zikruhu (onun adı unutuldu). Xamil (الخامل): gizli olandır; deyilir: o, xamiluz-zikrdir (adı unudulmuş); bilinməyən və xatırlanmayan işdir. Xamil söz: alçaq sözdür. Hədisdə: «Allahı xamil (gizli) bir zikrlə zikr edin». Xəmilə (الخَميلة): qumluqda bitki üçün əlverişli olan çökək yerdir. Zuheyr dedi: Aralarında xəmail (bitki örtüyü) olan qum təpələri (١). Ləbid dedi: O, gecələdi və davamlı yağış yağdı... Daimi axışı ilə xəmailə (bitkilərə) su verdi (١). Xəml (الخَمْل), cəzm ilə: məxmər və xalçanın tükləridir. Dəvəquşu lələklərinə də xəml deyilir. Bu, fəslin qiyasındadır; çünki o, yumşaq bir şəkildə sallanır və düşür. Xumala (الخُمال) gəlincə, bir qrup dedi: Bu, dəvənin ayaqlarında olan bir axsaqlıqdır. Əgər belədirsə, onun qiyası fəslin qiyası kimidir; çünki bəlkə də bu, boşalmadan (sallanmadan) irəli gəlir. Əşa xumala haqqında dedi: O, balasına meyl etmədi və Ubeyd onun damarlarını xumaladan (خُمال) kəsmədi (٢).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:12:39.173Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1709,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رذم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 508,
+  "page_to": 509
+ },
+ "ar": "الراء والذال والميم أُصَيْلٌ يدلُّ على سَيَلانِ شئ. يقال\nجَفْنَة رَذُمٌ، إذا سالَتْ دَسَماً. وعَظْمٌ رَذُوم، كأنّه من سِمنه يسيل دَسَماً. قال:\n* وفى كفِّها كِسْرٌ أبَحّ رَذُومُ (١) *",
+ "az": "[رذم] الراء والذال والميم — bir şeyin axmasına dəlalət edən təməl bir kökdür. Deyilir: جَفْنَة رَذُمٌ (rədum qab, kasa) — yağlılıqdan, piydən axıtdıqda. Və عَظْمٌ رَذُوم (rədum sümük) — elə bil piyliliyindən yağ axıdır. Şair demişdir:\n* وفى كفِّها كِسْرٌ أبَحّ رَذُومُ (١) *\n(Onun ovcunda boğuq səslənən, yağ axıdan parça çörək var.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:28.607Z"
+}

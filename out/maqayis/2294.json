@@ -1,0 +1,17 @@
+{
+ "i": 2294,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صمد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 309,
+  "page_to": 310
+ },
+ "ar": "الصاد والميم والدال أصلان: أحدهما القَصْد، والآخَر الصَّلابة فى الشَّئ.\nفالأوَّل: الصَّمْد: القصد. يقال صَمَدتُه صَمْداً. وفلان مُصَمَّدٌ، إذا كان سيِّداً يُقصَد إليه فى الأمور. وصَمَدٌ أيضاً. واللّه جلّ ثناؤه الصَّمد؛ لأنه يَصْمِد إليه عبادُه بالدُّعاء والطَّلَب. قال فى الصَّمَد (٣):\nعلوتُه بحُسامٍ ثم قلتُ له … خذْها حُذَيفُ فأنت السيِّد الصّمَدُ (١)\nوقال فى المصَمَّد طرَفَة:\nوإنْ يلتقِى الحىُّ الجميعُ تُلاقِنِى … إِلى ذِروة البيت الرَّفيع المصمَّدِ (٢)\nوالأصل الآخر الصَّمْد، وهو كلُّ مكان صُلْب. قال أبو النَّجم:\nيغادِرُ الصَّمْدَ كظَهْر الأجزَلِ (٣)",
+ "az": "[صمد] (sad, mim və dal) — iki kökdür: biri qəsd etmək, diqqət yetirmək, digəri isə bir şeydə sərtlikdir.\n\nBirincisi: «الصَّمْد» (səmd) — qəsd etmək. Deyilir: «صَمَدتُه صَمْداً» (onu qəsd etdim). Filankəs «مُصَمَّدٌ» (müsəmməd) — elə bir ağadır ki, işlərdə ona üz tutur və qəsd edirlər. Həmçinin «صَمَدٌ» (səməd) də. Uca Allah «الصَّمد» (əssəməd) — çünki qulları dua və tələbləri ilə Ona üz tuturlar. Səməd haqqında demişdir:\nعَلَوْتُهُ بِحُسَامٍ ثُمَّ قُلْتُ لَهُ … خُذْهَا حُذَيْفُ فَأَنْتَ السَّيِّدُ الصَّمَدُ (١)\n(Onu qılıncla vurub dedim: Al bunu, ey Huzeyf, sən uca səmd ağasan)\n\nTərəfə müsəmməd haqqında demişdir:\nوَإِنْ يَلْتَقِي الْحَيُّ الْجَمِيعُ تُلَاقِنِي … إِلَى ذِرْوَةِ الْبَيْتِ الرَّفِيعِ الْمُصَمَّدِ (٢)\n(Bütün tayfa birləşəndə məni evin uca, müsəmməd zirvəsində qarşılayarsan)\n\nDigər kök isə «الصَّمْد» (səmd) olub, hər bir sərt məkandır. Əbu Nəcm demişdir:\nيُغَادِرُ الصَّمْدَ كَظَهْرِ الْأَجْزَلِ (٣)\n(Sərt yeri sərt qayalığın beli kimi qoyub gedir)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.917Z"
+}

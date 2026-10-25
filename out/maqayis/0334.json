@@ -1,0 +1,17 @@
+{
+ "i": 334,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 310,
+  "page_to": 310
+ },
+ "ar": "الباء والهاء والقاف كلمةٌ واحدةٌ، وهو سوادٌ يعترِى الجلدَ، أو لونٌ يخالِفُ لونَه. قال رؤبة:\n* كأنَّه فى الجِلْد تَولِيعُ البَهَقْ (٣) *",
+ "az": "«ب» (با), «ه» (هə) və «ق» (قاف) tək bir kəlmədir, o da dərini bürüyən qaraltı və ya dərinin rəngindən fərqli olan rəngdir. Rühbə demişdir:\n* كأنَّه فى الجِلْد تَولِيعُ البَهَقْ (٣) *\n(Sanki dərinin üzərində alacalı bəhək ləkəsidir)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:34:14.633Z"
+}

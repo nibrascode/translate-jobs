@@ -1,0 +1,17 @@
+{
+ "i": 1280,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 294,
+  "page_to": 294
+ },
+ "ar": "الدال واللام والباء ليس بشئ. والدُّلْبُ فيما يقال:\nشَجَرٌ (٤).",
+ "az": "«دلب» (dəlub): Dal, lam və ba heç bir şey deyildir. «الدُّلْبُ» (əd-dulbu) isə deyilənlərə görə bir ağacdır (4).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

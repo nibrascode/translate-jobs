@@ -1,0 +1,17 @@
+{
+ "i": 2446,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضبد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 385,
+  "page_to": 385
+ },
+ "ar": "الضاد والباء والدال ليس بشئ. وإن كان ما ذكره ابنُ دريد صحيحا، من أن الضَّبَد الضَّمَد، فهو من باب الإبدال. قال: يقال أضْبَدْتُه، إذا أنت أغضبْتَه (٢).",
+ "az": "«ضبد»: الضاد, الباء, والدال (d, b, d) — heç bir şey deyil (mənası yoxdur). İbn Dürreydin «الضَّبَد» sözünün «الضَّمَد» (sarğı, bağlamaq) olması barədə dedikləri düzgündürsə, o zaman bu, ibdal babındandır. O demişdir: Deyilir ki, «أضْبَدْتُه» — sən onu qəzəbləndirdiyin zaman (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

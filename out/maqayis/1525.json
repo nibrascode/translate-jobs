@@ -1,0 +1,17 @@
+{
+ "i": 1525,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 415,
+  "page_to": 415
+ },
+ "ar": "الراء والغين والحرف المعتلّ أصلان: أحدهما شئ يعلو الشئ، والآخر صوتٌ.\nفالأول الرَّغْوة والرُّغْوَة (٣) [لِلَّبَن (٤)]: زَبَدُه؛ والجمع رُغّى. وارتغى الرَّجُل: شَرِبَ الرّغوة. يقولون: «يُسرُّ حَسْواً فى ارتغاء». يُضْرَب مثلاً لمن يُظهِر أمراً ويريد خلافَه. ورغَّى (٥) اللّبنُ من الرّغْوة. والمِرْغاةُ: الشَّئُ من الخُبْز أو التَّمْر يُؤْكل به الرّغْوة (٦). وكلامٌ مُرغٍ: لم يفسَّرْ، كأنّ عليه رغْوة.\nوالأصل الآخَر الرُّغاء: رُغاء النّاقةِ والضَّبُع (٧)، وهو صوتُهما. ويقال:\n«ما له ثاغِيةٌ ولا راغِيَة»، أى شاةٌ ولا ناقة. وأتيتُ فلاناً فما أثغَى ولا أرْغَى، أى لم يُعطِنى شاةً ولا ناقة.",
+ "az": "«رغو» (rəğəv): Ра, ğayn və uzadılma hərfi iki əsasdır: biri başqa bir şeyin üzərini örtən (yuxarıda duran) şey, digəri isə səsdir. Birincisi «الرَّغْوَة» (ərrəğvə) və «الرُّغْوَة» (ərrüğvə) [süd üçün]: onun köpüyüdür; cəmi «رُغىً» (ruğən) gəlir. «ارْتَغَى الرَّجُلُ» (ərtəğər-rəcülü) — kişi köpük içdi. Deyirlər: «يُسَرُّ حَسْواً فِي ارْتِغَاءٍ» (yusərru həsvən fi irtiğəin). Bu, açıq-aşkar bir işi göstərib başqa bir şey istəyən kəsə məsəl çəkilir. Süd köpükləndi — «رَغَّى اللَّبَنُ» (rəğğəl-ləbənu). «المِرْغَاةُ» (əl-mirğatü) — üzərində köpük yeyilən çörək və ya xurma parçasındandır. «كَلَامٌ مُرْغًى» (kəlamin murğən) — izah olunmamış söz, sanki üzərində köpük vardır. Digər əsas isə «الرُّغَاء» (ərrüğə) — dişi dəvənin və kaftarın səsi olub, onların səsidir. Deyilir: «مَا لَهُ ثَاغِيَةٌ وَلَا رَاغِيَةٌ» (mə ləhu sağiyətün vəla rağiyətün) — yəni nə qoyunu, nə də dəvəsi var. Filankəsin yanına gəldim, nə səsi çıxdı, nə də səsi çıxardı, yəni mənə nə qoyun, nə də dəvə verdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.130Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 652,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 460,
+  "page_to": 460
+ },
+ "ar": "الجيم والعين والفاء أصلٌ واحد، وهو قَلْعُ الشئ وصَرْعُه.\nيقال جَعَفْت الرجلَ إذا صرعْتَه بعد قلعِك إيّاه من الأرض والانجعاف: الانقلاع تقول انجعَفَت الشّجرةُ. وفى الحديث: «مثل المنافق مثل الأَرْزَة المُجْذِية على الأرض حتى يكون انجعافُها مرّة (٢)». وجُعْفِىٌّ: قبيلة.",
+ "az": "[جعف] Cim, ayn və fa: bir kökdür, o da bir şeyi yerindən qoparmaq və yıxmaqdır. Deyilir ki, جَعَفْت الرجلَ (kişini yıxdım), yəni onu yerdən qopardıqdan sonra yıxdın. İncif (الانجعاف): qopmaqdır, deyirsən ki, ağac qopdu (انجعَفَت الشّجرةُ). Hədisdə deyilir:",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.556Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 288,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بغز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 273,
+  "page_to": 273
+ },
+ "ar": "الباء والغين والزاء أصل، وهو كالنّشاط والجراءة فى الكلام.\nقال ابن مقبل:\n* تخال باغزها بالليل مجنونا (٢) *\nوقالوا: الباغز الرّجل الفاحش. وذلك كلّه يرجع إلى الجرأة.",
+ "az": "«بغز» (bağəzə). Ба, ğun və zay hərfləri bir əsl olub, danışıqda fəallıq və cəsarət kimidir. İbn Muqbil demişdir: * تخال باغزها بالليل مجنونا (٢) * («Gecə o vaxtkı bağizini [cəsarət edənini] dəli hesab edərsən»). Və demişlər: «الباغز» (əl-bağiz) – hədsiz pis danışan (fahiş) kişidir. Bütün bunlar cəsarətə qayıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:32:05.260Z"
+}

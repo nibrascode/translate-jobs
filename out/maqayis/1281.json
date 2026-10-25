@@ -1,0 +1,17 @@
+{
+ "i": 1281,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 294,
+  "page_to": 294
+ },
+ "ar": "الدال واللام والثاء أصلٌ يدلُّ على الاندفاع. يقال لمدَافع السَّيل: المدالث؛ الواحد مَدْلَثٌ. والناقة الدِّلاث: السريعة. يقال اندلَثَتِ النّاقةُ تنَدِلثُ اندلاثاً. وحكى بعضُهم: دلَثَ الشَّيخُ، مثل دَلَف. ويقال اندلَثَ فُلانٌ على فُلانٍ، إذا اندرَأَ عليه وانصبَّ.",
+ "az": "«دلث» (dəlis): Dal, lam və sə çırpınıb irəli atılmağa dəlalət edən bir əsasdır. Seli dəf edən yerlərə «المَدالث» (əl-mədalis) deyilir; təkli «مَدْلَثٌ» (mədləş). Sürətli dişi dəvəyə «الدِّلاث» (əd-diləs) deyilir. Deyilir: «اندلَثَتِ النّاقةُ» (indələsəti əl-nəqə) — dişi dəvə irəli atıldı. Bəziləri rəvayət etmişdir: «دلَثَ الشَّيخُ» (dələşə əl-şeyx) — dələfəyə bənzər şəkildə. Və deyilir: «اندلَثَ فُلانٌ على فُلانٍ» (indələsə fülənun alə fülənin) — filankəs filankəsin üzərinə qəflətən hücum çəkdi və töküldü.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 738,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جأف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 500,
+  "page_to": 500
+ },
+ "ar": "الجيم والهمزة والفاء كلمةٌ واحدةٌ تدلّ على الفَزَع. وكأنَّ الفاء [بَدَلٌ] من الثَّاء، يقال جُئِف الرّجُل مثل جُئِث.",
+ "az": "«جأف» — جيم, həmzə və fa qorxuya dəlalət edən tək bir kəlmədir. Elə bil fa hərfi sə hərfinin əvəzidir. Deyilir: «جُئِف الرّجُل» (cuifə ər-racül) — «جُئِث» (cuisə) kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 900,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 82,
+  "page_to": 83
+ },
+ "ar": "الحاء والفاء والنون كلمةٌ واحدة، منقاسٌ، وهو جمعُ الشئ فى كفٍّ أو غير ذلك. فالحَفْنَة: مِلءُ كفّيك من الطَّعام. يقال حَفَنْتُ الشئَ حَفْناً بيدىَّ. ومنه\nحديث أبى بكر: «إنّما نحن حَفْنَةٌ من حَفنات اللّه تعالى».\nمعناه أنَّ اللّه تعالى إذا شاء أدخل خلْقه الجنّةَ، وأنَّ ذلك يسيرٌ عنده كالحَفْنَةِ. ويقال احتَفْنتُ الشئَ لنفسى، إذا أخذتَه ويقال الحُفْنة إنّها الحُفْرة؛ فإن صحَّ فمحتملٌ\nالوجهين: أحدهما أن يكون من باب الإبدال، فتجعل النون بدلَ الراء. ويجوز أن يكون من الباب الذى ذكرناه، لأنَّها تَجمَع الشئَ (١) من ماءِ أو غيرِه. والحَفّانُ ليس من هذا الباب، وقد مضى ذِكره (٢) لأنَّ النون فيه زائدة.",
+ "az": "«حفن» (həfən): Haa, fa və nun tək, qiyasən tətbiq olunan bir kəlmədir, o da ovucda və ya başqa yerdə bir şeyin toplanmasıdır. «الحَفْنَة» (əl-həfnə) — yeməkdən iki ovuc dolusudur. Deyirlər: «حَفَنْتُ الشئَ حَفْناً بيدىَّ» (Əlimlə bir şeyi ovuc-ovuc topladım). Əbu Bəkrin hədisində də belə gəlmişdir: «إِنَّ-نَا حَفْنَةٌ مِنْ حَفنات اللّه تعالى» (Biz sadəcə Uca Allahın ovuc dolularından bir ovuc dolusuyuq). Mənası budur ki, Uca Allah istəsə, məxluqatını cənnətə daxil edər və bu, Onun üçün ovuc dolusu kimi asandır. Deyilir: «احتَفْنتُ الشئَ لنفسى» (İhtəfəntüş-şeyə li-nəfsiy) — onu özüm üçün aldım. Deyilir ki, «الحُفْنة» (əl-hüfnə) — çuxurdur; əgər bu səhihdirsə, iki cəhətə də yozula bilər: biri odur ki, əvəzetmə fəsilindəndir, nun (ن) hərfi ra (ر) hərfinin əvəzinə qoyulmuşdur. O da caizdir ki, qeyd etdiyimiz fəsildən olsun, çünki o, sudan və ya başqasından bir şeyi toplayır. «الحَفّانُ» (əl-həffan) isə bu fəsildən deyil və onun zikrindən ötüşmüşük, çünki orada nun hərfi artıqdır.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:02:08.981Z"
+}

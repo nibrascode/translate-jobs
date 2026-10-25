@@ -1,0 +1,17 @@
+{
+ "i": 2123,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شنص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 218,
+  "page_to": 218
+ },
+ "ar": "الشين والنون والصاد كلمة إن صحت. يقولون: فَرَس شَنَاصِىٌّ، أى طويل. قال:\nوشَنَاصىٌّ إذا هِيجَ طَمَرْ (١)\nويقال: إنما هو نَشَاصىٌّ وحكى: شَنِصَ به، مثل سَدِك.",
+ "az": "[شنص] \nالشين والنون والصاد (şin, nun və sad) əgər səhihdirsə, bir kəlmədir. Deyirlər: «فَرَس شَنَاصِىٌّ» — yəni uzun at. Şair demişdir:\nوشَنَاصىٌّ إذا هِيجَ طَمَرْ (١)\n(Təhrik edildikdə tullanan uzun at)\nVə deyilir ki, o, əslində «نَشَاصىٌّ»-dur və rəvayət edilmişdir: «شَنِصَ به» — «سَدِك» (alışdı, mübtəla oldu) kəlməsi kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:58.865Z"
+}

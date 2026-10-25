@@ -1,0 +1,17 @@
+{
+ "i": 845,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حرن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 47,
+  "page_to": 47
+ },
+ "ar": "الحاء والراء والنون أصلٌ واحد، وهو لزوم الشئ للشئ لا يكادُ يفارقه. فالْحِرَان فى الدّابة معروف، يقال حَرَنَ وحَرُن. والمَحَارن من النَّحْل: اللواتى يلصَقْن بالشُّهد فلا يبرحْن أو يُنْزَعْنَ. قال:\n* صَوْتُ المحابِضِ يَنْزِعْن المَحَارِينا (١) *\nوكذلك قول الشماخ:\nفما أرْوَى ولو كَرُمَتْ علينا … بأدْنَى مِنْ موقَّفَةٍ حَرُونِ (٢)\nهى التى لا تبرح أعلَى الجبل. ويقال حَرَنَ فى البيع فلا يزيد ولا ينقُص.",
+ "az": "[حرن] (h-r-n). Ha, ra və nun hərfləri tək bir əsasdır, o da bir şeyin başqa bir şeyə yapışıb demək olar ki, heç ayrılmamasıdır. Heyvanda «الْحِرَان» (əl-hiran) məlumdur, «حَرَنَ» (hərənə) və «حَرُنَ» (hərünə) deyilir. Arı pətəyinin «المَحَارِن» (əl-məharin) — şanı bərk yapışan və çıxarılıncaya qədər yerindən tərpənməyən arılardır. Şair demişdir:\n* صَوْتُ المحابِضِ يَنْزِعْن المَحَارِينا (١) *\nEynilə Şəmmaxın bu sözü:\nفما أرْوَى ولو كَرُمَتْ علينا … بأدْنَى مِنْ موقَّفَةٍ حَرُونِ (٢)\nO, dağın zirvəsindən tərpənməyən (dəvə) deməkdir. Deyilir: «حَرَنَ فى البيع» (hərənə fil-bey) — alver zamanı nə artır, nə də əskildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:55:11.144Z"
+}

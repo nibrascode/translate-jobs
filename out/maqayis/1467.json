@@ -1,0 +1,17 @@
+{
+ "i": 1467,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رزح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 391,
+  "page_to": 391
+ },
+ "ar": "الراء والزاء والحاء أصلٌ يدلُّ على ضعْفٍ وفُتور. فيقولون رَزَح، إذا أعيا؛ وهى إِبلٌ مَرازيحُ، ورَزْحَى، ورَزَاحَى (٢). ويقولون إن أصله المِرْزَح، وهو ما تواضَعَ من الأرض واطمأَنَّ.\nوذُكر فى الباب كلامٌ آخرُ ليس من القياس المذكور، قال الشَّيبانىّ:\nالمِرْزِيح: الصّوت. قال:\nذَرْذا ولكن تبصَّر هَلْ تَرى ظُعُناً … تُحْدَى، لِسَاقَتِها بالدَّوِّ مِرْزيحُ (٣)",
+ "az": "[رزح] (Rə, zay və ha) zəifliyə və taqətsizliyə dəlalət edən bir əsasdır. Deyirlər: rəzəhə — yoruldu; bunlar mərazih, rəzhə və rəzahı dəvələrdir (٢). Deyirlər ki, bunun əsli yerin alçaq və düzənlik yeri olan əl-mirzəhdir. Bu fəsildə qeyd olunan ölçüyə (qaydaya) uyğun gəlməyən başqa bir söz də zikr olunmuşdur. Şeybani demişdir: Əl-mirzih — səsdir. O demişdir: ذَرْذا ولكن تبصَّر هَلْ تَرى ظُعُناً … تُحْدَى، لِسَاقَتِها بالدَّوِّ مِرْزيحُ (٣) (Tərk et, lakin bax gör, səfər üstündə olan dəvə karvanı görürsənmi... onları qovurlar, səhra düzündə onların sürücüsünün səsi var).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:45.682Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1593,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 445,
+  "page_to": 445
+ },
+ "ar": "الراء والنون والقاف أَصلٌ واحدٌ يدلُّ على اضطرابِ شئٍ متغيّر له صفْوُهُ إن كان صافياً. من ذلك الرَّنْقُ، وهو الماء الكدِر؛ يقال رَنِقَ الماء يَرْنَقُ رَنَقاً. ورَنَّق النومُ فى عينه، إذا خالطها. والتَّرْنُوق (٢): الطِّين الباقى فى مَسِيل الماء. والذى قلناه من الاضطراب فأصله قولهم رَنَّق الطائر: خفَق بجناحه ولم يطِرْ.",
+ "az": "[رنق] (rənəq) - راء، نون və قاف hərfləri – təmiz olduğu halda bulanıqlaşan bir şeyin bulanıqlığına və nizamsızlığına dəlalət edən tək bir əsldir. Bunlardan biri «الرَّنْقُ» (əl-rənqu) – bulanıq sudur; deyilir: «رَنِقَ الماء يَرْنَقُ رَنَقاً» (rəniqə əl-mau yərnəqu rənəqən) – su bulanıqlaşdı. «رَنَّق النومُ فى عينه» (rənnəqə əl-nawmu fi əynihi) – yuxu onun gözünə dolaşdı. «التَّرْنُوق» (əl-tərnuqu) – su axarında qalan palçıqdır. Nizamsızlıq dediyimiz mənanın əsli isə onların «رَنَّق الطائر» (rənnəqə əl-tairu) – quş qanadını çalaraq uçmadı (havada süzdü/dayandı) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

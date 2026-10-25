@@ -1,0 +1,17 @@
+{
+ "i": 1565,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 434,
+  "page_to": 434
+ },
+ "ar": "الراء والكاف والسين أصلٌ واحد، وهو قلْبُ الشّئ على رأسِه وردُّ أوّلِه على آخِره. قال اللّه جلّ ثناؤه: ﴿وَاَللّهُ أَرْكَسَهُمْ بِما كَسَبُوا﴾ أى ردّهم إلى كفرهم. ويقال ارتكس فلانٌ فى أمرٍ قد كان نجا منه. والرَّكوسيَّة:\nقومٌ لهم دينٌ بين النَّصارى والصابئين. و\nأتِىَ رسولُ اللّه ﵌، حين طَلب أحجاراً للاستنجاء، برَوْثَةٍ، فرمَى بها وقال: «إنّها رِكْس».\nومعنى ذلك أنَّها ارتكَسَت عن أن تكون طعاماً إلى غيره.",
+ "az": "[ركس] (ركس) — ra, kaf və sin tək bir əslə malikdir, o da bir şeyi başı üzrə çevirmək və əvvəlini sonuna qaytarmaqdır. Uca Allah buyurmuşdur: ﴿وَاَللّهُ أَرْكَسَهُمْ بِما كَسَبُوا﴾ mənaca tərcümə: «Və Allah onları qazandıqları günahlara görə geriyə (küfrə) qaytardı». Deyilir: «ارتكس فلانٌ فى أمرٍ قد كان نجا منه (filankəs xilas olduğu bir işə yenidən batdı)». «الرَّكوسيَّة (rakusiyyə)» — xristianlar və səbilər arasında bir dinə sahib olan tayfadır. Peyğəmbər ﷺ isdiqnam (təharət) üçün daşlar istədiyi zaman ona bir təyyə (heyvan peyi) gətirildi, o, bunu atıb dedi: «إنّها رِكْس (O, murdardır/rəisdir)». Bunun mənası odur ki, o, qida olmaqdan başqa bir şeyə çevrilərək geriyə (aşağı) yuvarlandı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:31:13.505Z"
+}

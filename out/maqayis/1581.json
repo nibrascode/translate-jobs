@@ -1,0 +1,17 @@
+{
+ "i": 1581,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 440,
+  "page_to": 440
+ },
+ "ar": "الراء والميم والطاء ليس أصلاً، لكنَّهم يسمُّون ما اجتمع من العُرْفُطِ وغيرهِ من شجر العِضاهِ رَمْطاً. وربّما قالوا رَمَطت الرّجلَ، إذا عِبْته رَمْطاً. وفيه نظر.",
+ "az": "[رمط] (Rəmət). Ra, mim və ta müstəqil əsas deyil, lakin onlar üzərlik və digər tikanlı ağaclardan yığılan şeyə رَمْط (rəmət) deyirlər. Bəzən deyirlər: رَمَطت الرّجلَ (Kişini eyiblədim, ona ləkə yaxdım), rəmətən. Bunda nəzər (araşdırma) var.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:08.693Z"
+}

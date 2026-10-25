@@ -1,0 +1,17 @@
+{
+ "i": 1092,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خصم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 187,
+  "page_to": 187
+ },
+ "ar": "الخاء والصاد والميم أصلان: أحدهما المنازعة، والثانى جانبُ وِعاءِ.\nفالأوّل الخَصْمُ الذى يُخاصِم. والذّكرُ والأنثى فيه سواء. والخِصام: مصدرُ خاصمتُه مخاصَمةً وخِصاماً. وقد يجمع الجمعُ على خُصومٍ. قال:\n* وقد جَنَفَتْ عَلَىَّ خُصُومِي (٢) *\nوالأصل الثانى: الخُصْم جانب العِدْل الذى فيه العُرْوة. ويقال إنّ جانبى كلِّ شئِ خُصْمٌ. وأخْصامُ العين: ما ضُمَّتْ عليه الأشفار. ويمكن أنْ يُجمَع بين الأصلين فيردَّ إلى معنًى واحد. وذلك أنّ جانِبَ العِدل مائلٌ إلى أحد الشقْينِ، والخَصْم المنازِعُ فى جانبٍ؛ فالأصل واحدٌ.",
+ "az": "[خصم] الخاء والصاد والميم أصلان: أحدهما المنازعة، والثانى جانبُ وِعاءِ. (Xar, sad və mim hərfləri iki kökdür: biri mübahisə, ikincisi isə qabın tərəfidir.) \n\nفالأوّل الخَصْمُ الذى يُخاصِم. والذّكرُ والأنثى فيه سواء. والخِصام: مصدرُ خاصمتُه مخاصَمةً وخِصاماً. وقد يجمع الجمعُ على خُصومٍ. قال: (Birincisi: mübahisə edən xəsm (rəqib). Kişi və qadın onda eynidir. Əl-xisam: xasamtuhu muxasəmətən və xisaman sözünün məsdəridir. Cəm cəm isə xusum üzərində cəmlənə bilər. O demişdir:) \n* وقد جَنَفَتْ عَلَىَّ خُصُومِي (٢) * (Artıq mənim xusumlarım (rəqiblərim) üzərimə meyilli oldular.) \n\nوالأصل الثانى: الخُصْم جانب العِدْل الذى فيه العُرْوة. ويقال إنّ جانبى كلِّ شئِ خُصْمٌ. وأخْصامُ العين: ما ضُمَّتْ عليه الأشفار. ويمكن أنْ يُجمَع بين الأصلين فيردَّ إلى معنًى واحد. وذلك أنّ جانِبَ العِدل مائلٌ إلى أحد الشقْينِ، والخَصْم المنازِعُ فى جانبٍ؛ فالأصل واحدٌ. (İkinci əsl: xəsm — içində halqa olan yük tayının tərəfidir. Deyilir ki, hər bir şeyin iki tərəfi xəsmdir. Gözün əxşamı: kirpiklərin üzərinə qapandığı yerlərdir. İki əsli birləşdirib tək bir mənaya qaytarmaq mümkündür. Çünki yük tayının tərəfi iki tərəfdən birinə meyillidir, mübahisə edən xəsm də bir tərəfdədir; beləliklə, əsl birdir.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:26.357Z"
+}

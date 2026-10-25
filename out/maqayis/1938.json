@@ -1,0 +1,17 @@
+{
+ "i": 1938,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 107,
+  "page_to": 108
+ },
+ "ar": "السين والهاء والباء أصلٌ يدل على الاتّساع فى الشئ.\nوالأصل السَّهْب، وهى الفَلاة الواسعة. ثم يسمَّى الفرس الواسعُ الجرىِ سَهْباً.\nويقال بئر سَهْبةٌ، أى بعيدة القعر. ويقال حفر القوم فأسهبوا، أى بلغوا الرَّمْل.\nوإذا كان كذا كان أكثر للماء وأوسعَ له. ويقال للرّجُل الكثيرِ الكلام مُسْهَب، بفتح الهاء. كذا جاء عن العرب أسْهَبَ فهو مُسْهَبٌ، وهو نادر (١).",
+ "az": "«سهب» — السين والهاء والباء (سين، hə və ba) bir şeydə genişliyə dəlalət edən əsasdır. Əsas məna «السَّهْب»dir, o da geniş səhradır. Sonra geniş qaçan at «سَهْب» adlandırılır. Deyilir: «بئر سَهْبةٌ» — yəni dibi uzaq (dərin) quyu. Deyilir ki, qövm qazdı və quma çatdı («أسهبوا»). Belə olduqda su daha çox və daha geniş olur. Çox danışan kişiyə hənin səsi ilə «مُسْهَب» (hə hərfi fəthə ilə) deyilir. Ərəblərdən belə gəlmişdir: «أسْهَبَ فهو مُسْهَبٌ», bu da nadirdir (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.685Z"
+}

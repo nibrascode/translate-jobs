@@ -1,0 +1,17 @@
+{
+ "i": 298,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بكت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 287,
+  "page_to": 287
+ },
+ "ar": "الباء والكاف والتاء كلمةٌ واحدةٌ لا يُقاس عليها، وهو التَّبْكيت والغَلَبَةُ بالحُجَّة.",
+ "az": "[بكت] (Bə, kaf və ta) üzərində qiyas aparılmayan tək bir kəlmədir, o da التَّبْكيت (ət-təbkit) – dəlil ilə üstün gəlməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:32:48.424Z"
+}

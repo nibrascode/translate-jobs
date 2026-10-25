@@ -1,0 +1,17 @@
+{
+ "i": 2090,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شقل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 201,
+  "page_to": 201
+ },
+ "ar": "شقل الشين والقاف واللام ليس بشئ، وقد حُكى فيه ما لا يعرَّج عليه.",
+ "az": "[شقل] (şəqəl) — Şin, qaf və lam heç bir şey deyil, üzərində heç dayanılmayacaq şeylər rəvayət olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:46.482Z"
+}

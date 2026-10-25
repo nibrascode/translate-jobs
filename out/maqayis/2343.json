@@ -1,0 +1,17 @@
+{
+ "i": 2343,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "الصاد والحاء واللام كلمة، وهى بَحَحٌ فى الصَّوت. يقال للأبحِّ الأصحل، والمصدر الصَّحَل، وهو صَحِلٌ، قال الأعشى:\nصَحِل الصوت أبَحّ (١)",
+ "az": "[صحل] «الصاد» (sad), «Hə» (ha) və «Lam» (lam) bir kəlimədir, o da səsdəki boğuqluqdur. Boğuq səsli insana «الأصحل» (əl-əshəl) deyilir, məsdəri isə «الصَّحَل» (əs-səhəl) olub, özü də «صَحِلٌ» (səhil)dir. Əşə-ş demişdir: صَحِل الصوت أبَحّ — (Səsi boğuq, xırıltılı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

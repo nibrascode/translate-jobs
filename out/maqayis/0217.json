@@ -1,0 +1,17 @@
+{
+ "i": 217,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بذح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 217,
+  "page_to": 217
+ },
+ "ar": "الباء والذال والحاء أصلٌ واحد، وهو الشّقّ والتَّشْريح وما قارَبَ ذلك. قال أبو علىّ الأصفهانىّ: قال العامرىّ: بَذَحْتُ اللَّحْمَ إذا شَرَّحْتَه.\nقال: والبَذْح الشقُّ. ويقال: أصابه بَذْحٌ فى رِجْلِه، أى شُقاقٌ. وأنشد:\nلَأَعْلِطَنَّ حَرْزَماً بِعَلْطِ (٣) … ثلاثةً عندَ بُذُوحِ الشَّرْط (٤)\nقال أبو عُبيدٍ: بَذَحْتُ لِسَانَ الفَصيلِ بَذْحاً، وذلك عند التفليك (٥) والإجرار.\nوما يقاربُ هذا البابَ قولُهم لسَحج الفَخِذَين مَذحٌ.",
+ "az": "[بذح] الباء والذال والحاء (ba, zal və ha) bir əsl olub, yarıq, dilimləmə və ona yaxın olan mənalardır. Əbu Əli əl-İsfahani demişdir: Amiri demişdir: «بَذَحْتُ اللَّحْمَ» (əti dilimlədim) — əti dilimlədiyin zaman deyilir.\nO demişdir: «البَذْح» (əl-bədhu) — yarıqdır. Deyilir: «أصابه بَذْحٌ فى رِجْلِه» (ayağında yarıq, çatlar əmələ gəldi). Və [şair] şeir söyləmişdir:\nلَأَعْلِطَنَّ حَرْزَماً بِعَلْطِ (٣) … ثلاثةً عندَ بُذُوحِ الشَّرْط (٤)\nƏbu Übeyd demişdir: «بَذَحْتُ لِسَانَ الفَصيلِ بَذْحاً» (mən süddən kəsilmiş balasının dilini yardımsan), bu da dişlərin çıxması və böyüməsi zamanı olur.\nBu fəslə yaxın olan sözlərdən biri də budların sürtülüb qızarmasına «مذح» (mədəh) demələridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

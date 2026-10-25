@@ -1,0 +1,17 @@
+{
+ "i": 2353,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صدر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 337,
+  "page_to": 337
+ },
+ "ar": "الصاد والدال والرّاء أصلان صحيحان، أحدُهما يدلُّ على خلاف الوِرْد، والآخَر صَدْر الإنسان وغيره.\nفالأوّل قولُهم: صَدَرَ عن الماء، وصَدَر عن البِلاد، إذا كان وَرَدَها ثمَّ شَخَص عنها.\nوقال الأحْمَر (١): يقال صَدَرت عن البِلاد صَدَراً، وهو الاسم، فإن أردْتَ المصدر جزمت الدّال. وأنشد:\nوليلةٍ قد جَعلْتُ الصُّبح موعدَها … صَدْرَ المطيَّة حتَّى تعرِفَ السَّدَفا (٢)\nصَدْر المطية مصدر.\nوأمَّا الآخر فالصَّدر للإِنسان، والجمع صُدور، قال اللّه تعالى: ﴿وَلكِنْ تَعْمَى اَلْقُلُوبُ اَلَّتِي فِي اَلصُّدُورِ﴾. ثم يشتقُّ منه. فالصِّدَار: ثوبٌ يغطِّى الرَّأس والصَّدْر. والصِّدَار: سَمِةٌ على صدر البعير. والتَّصدير: حبل يُصدَّر به البعير لئلاَّ يُرَدَّ حِمْلُه إلى خَلْفه. والمُصَّدر: الأسَد، سُمِّى بذلك لقوّة صَدْرِه.\nوالمصدور: الذى يشتكى صَدْرَه.",
+ "az": "[صدر] (Sod). Sad, dal və ra hərfləri iki səhih əsasdır; bunlardan biri virdin (su başına gəlməyin) əksinə, diğəri isə insanın və başqasının sinəsinə dəlalət edir. Birinciyə gəlincə, bu, onların «صَدَرَ عن الماء» (Sudan qayıtdı) və «صَدَر عن البِلاد» (Şəhərdən çıxıb getdi) sözləridir; bu, sudan və ya şəhərdən qayıdıb oradan uzaqlaşdıqda deyilir. Əhmər (١) demişdir: «صَدَرت عن البِلاد صَدَراً» deyilir, burada “sədər” isimdir; əgər məsdəri nəzərdə tutursansa, dal hərfini sükunlu edərsən. O, bu beytİ söyləmişdir: Və elə bir gecə ki, səhəri onun vədəsi etdim, dəvənin sinəsi ilə səhərin alaqaranlığını tanıyana qədər (٢). Dəvənin sinəsi [صَدْر المطية] məsdərdir. İkincisinə gəlincə, sinə [الصَّدْر] insana aid olur, cəmi “sudur” [صُدور] gəlir. Uca Allah buyurmuşdur: mənaca tərcümə: «Lakin sinələrdə olan ürəklər korlaşmaz» ﴿وَلكِنْ تَعْمَى اَلْقُلُوبُ اَلَّتِي فِي اَلصُّدُورِ﴾. Sonra bundan başqa sözlər törədilir. “Sidad” [الصِّدَar]: başı və sinəni örtən paltardır. “Sidad” [الصِّدَar]: dəvənin sinəsindəki nişandır. “Təsdir” [التَّصدير]: dəvəyə bağlanan elə bir ipdir ki, onun yükü arxaya aşmasın deyə dəvənin sinəsi o ip ilə bərkidilir. “Musaddar” [المُصَّدر]: şir deməkdir, sinəsinin güclü olmasına görə belə adlandırılmışdır. “Masdur” [المصدور]: sinəsindən şikayəti olan adamdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.588Z"
+}

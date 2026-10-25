@@ -1,0 +1,17 @@
+{
+ "i": 1740,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 14,
+  "page_to": 14
+ },
+ "ar": "الزاء والفاء والنون ليس عندى أصلاً، ولا فيه ما يُحتاج إليه. يقولون: الزَّفْن: الرَّقْص. ويقولون: الزيفن (٣): الشّديد. وليس هذا بشئ.",
+ "az": "[زفن] (zəfən): Zay, fa və nun hərfləri mənim yanımda nə kökdür, nə də orada ehtiyac duyulan bir şey var. Deyirlər ki: «الزَّفْن» (zəfn) – rəqsdir. Deyirlər ki: «الزيفن» (zəyfən) – güclüdür. Bu isə heç bir şey deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

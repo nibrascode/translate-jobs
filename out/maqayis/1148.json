@@ -1,0 +1,17 @@
+{
+ "i": 1148,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 225,
+  "page_to": 225
+ },
+ "ar": "الخاء والواو والياء أصلٌ واحد يدلُّ على الخُلوِّ والسُّقوط.\nيقال خَوَتِ الدّارُ تخوِى. وخَوَى النّجم، إذا سقَط ولم يكنْ عند سقوطه مَطر؛ وأخْوَى أيضاً. قال:\nوأَخْوَتْ نُجُومُ الأخْذِ إلاّ أنِضَّةً … أنِضَّةَ مَحْلٍ ليس قاطِرُها يُثْرِى (١)\nوخَوَّتِ النّجومُ تخوِيةً، إذا مالت للمَغِيب. وخَوَّتِ الإبلُ تخويةً، إذا خمِصَتْ بُطونُها. وخَويت المرأةُ خَوًى، إِذا لم * تأكلْ عند الولادة. ويقال خَوَّى الرّجلُ، إذا تحافى فى سجوده، وكذا البعيرُ إذا تجافى فى برُوكه. وهو قياس الباب؛ لأنّه إذا خوَّى فى سجودِه فقد أخلَى ما بين عضُده وجَنْبِه. وخَوَّتِ المرأةُ عند جلوسها على المِجْمر. وخوَّى الطائر، إِذا أرسل جناحَيه. فأمَّا الخَوَاةُ فالصَّوت.\nوقد قلنا إنّ أكثر ذلك لا ينقاس، وليس بأصل.",
+ "az": "[خوى] الخاء والواو والياء أصلٌ واحد (Xar, vav və ya bir əsasdır) — boş olmağa və yıxılmağa dəlalət edir. Deyilir: خَوَتِ الدّارُ تخوِى (xəvəti əd-dəru təxvi) — ev boşaldı. Və ulduz xəva (خَوَى النّجم) — düşdüyü zaman yağmuru olmamaqla düşdüyü zaman; həmçinin əxva (أخْوَى) da belədir. O demişdir: وأَخْوَتْ نُجُومُ الأخْذِ إلاّ أنِضَّةً … أنِضَّةَ مَحْلٍ ليس قاطْرُها يُثْرِى (١) (Və əxz ulduzları boşaldı, yalnız elə quraqlıq damcıları qaldı ki, onların yağan damcısı bolluq gətirmirdi). Və ulduzlar xəvvətin (خَوَّتِ النّجومُ تخوِى) — batmağa meyilləndikdə. Və dəvələr xəvvətin (خَوَّتِ الإبلُ تخويةً) — qarınları acdıqda (içləri boşaldıqda). Qadın xəva oldu (خَويت المرأةُ خَوًى) — doğuş zamanı yemək yemədikdə. Deyilir: kişi xəvvəyə (خَوَّى الرّجلُ) — səcdəsində bədənini (qollarını) yanlarından kənarlaşdırdıqda, həmçinin dəvə çökərkən bədənini aralı tutduqda. Bu, babın qiyasındandır; çünki o, səcdədə ikən qolunu böyründən uzaqlaşdırmaqla bədənin arasını boşaltmış olur. Qadın buxurdanın (odlayıcının) üzərində oturduqda xəvvət etdi. Quş qanadlarını açdıqda xəvvətdi. Xəvətə (الخَوَاةُ) gəldikdə isə o, səcdir. Biz artıq dedik ki, bunların bir çoxu qiyas olunmur və əsas deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

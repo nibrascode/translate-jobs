@@ -1,0 +1,17 @@
+{
+ "i": 891,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حضج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 75,
+  "page_to": 75
+ },
+ "ar": "الحاء والضاد والجيم أصلٌ واحد يدلُّ على دناءة الشئ وسُقوطه وذَهابه عن طريقة الاختيار. يقول العرب: انحضج الرّجلُ وغيره إذا وقع بجَنْبه، وحضَجْت أنا به الأرضَ. ويقال: هذه إحدى حضَجَاتِ فلانٍ، أى إحدى سَقَطَاتِه. وذلك فى القول والفِعل (٣). والحِضْج: ما يَبقى فى حِياض الإبل من الماء، والجمع أحضاج. ويقال لِلدَّنِىِّ من الرجال حِضْج. وحَضَجْتُ النَّوْبَ، إذا ضربته بالمِحْضاج عند غَسلك إيَّاه، وهى تلك الخشبة.\nوأمَّا قولهم للزِّقِّ الضخم حِضاج فهو قريبٌ من الباب؛ لأنه يتساقط. فأمّا قولهم حضَجْت النّار أوقدتُها، فيجوز أن يكون من الباب، ويمكن أن يكون من باب الإبدال.",
+ "az": "[حضج] (Hə, dad və cim) bir şeyin alçalmasına, düşməsinə və seçim yolundan uzaqlaşmasına dəlalət edən tək bir əsasdır. Ərəblər deyirlər: «انحضج الرّجلُ وغيره» (kişi və başqası yanı üstə yıxıldı) və «حضَجْتُ أنا به الأرضَ» (mən onu yerə çırpdım). Və deyilir: «هذه إحدى حضَجَاتِ فلان» (bu, filankəsin yıxılmalarından/səhvlərindən biridir), yəni sözdə və əməldə olan səhvlərdən/düşmələrdən biri. وَالْحِضْجُ (hizc) – dəvələrin su hövzələrində qalan suyudur, cəmi أحضاج (əhzac) gəlir. Kişilərin alçağına حِضْج (hizc) deyilir. «حضَجْتُ النَّوْبَ» (nefti/paltarı yuyularkən onu mihdaj ilə vurdum) – onu həmin taxta ilə vurduqda deyilir.\nQaldı ki, iri tuluğa حِضاج (hizac) demələri, bu, əsasa yaxındır; çünki o, yıxılır/ sallanır. Qaldı ki, «حضَجْتُ النّار» (od yandırdım) sözləri, bu, həmin fəsildən olması mümkündür, həmçinin hərf əvəzlənməsi (ibdal) fəslindən olması da ola bilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:29.377Z"
+}

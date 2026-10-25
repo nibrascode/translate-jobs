@@ -1,0 +1,17 @@
+{
+ "i": 902,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حفت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 84,
+  "page_to": 84
+ },
+ "ar": "الحاء والفاء والتاء ليس أصلاً، والكلام فيه يقِلُّ فالحَفَيْتَأْ: الرّجل القصير.",
+ "az": "«حفت» (həfət): Haa, fa və tə heç bir əsas deyil və onda kəlam azdır. «الحَفَيْتَأْ» (əl-həfeytə') — qısa kişi.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:02:08.982Z"
+}

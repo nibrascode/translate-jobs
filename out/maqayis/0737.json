@@ -1,0 +1,17 @@
+{
+ "i": 737,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جأز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 500,
+  "page_to": 500
+ },
+ "ar": "الجيم والهمزة والزاء جنسٌ من الأدواء. قالوا: الجَأْز كهيئة الغَصَصِ الذى يأخذ فى الصَّدر * عِنْد الغيظ. يقال جَئزَ الرَّجُل.",
+ "az": "«جأز» — جيم, həmzə və zay müxtəlif xəstəlik növüdür. Dedilər ki, «الجَأْز» (cəz) qəzəb zamanı sinəni bürüyən boğulma halına bənzəyir. Deyilir: «جَئزَ الرَّجُل» (cəizə ər-racül) — kişi (bu hala) düçar oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

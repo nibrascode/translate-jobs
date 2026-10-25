@@ -1,0 +1,17 @@
+{
+ "i": 541,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 386,
+  "page_to": 387
+ },
+ "ar": "الثاء والميم والنون أصلان: أحدهما عِوَضُ ما يُباع، والآخَر جزءٌ من ثمانية.\nفالأوّل قولهم بِعْتُ كذا وأخذْتُ ثمنَه. وقال زهير:\n* وعَزَّتْ أثمُنُ البُدُنِ (١) *\nفمن رواه بالضمّ فهو جمع ثَمَن. ومن رواه بالفتح\n« … أثمَنُ البُدُنِ»\nفإنه يريد أكثرَها ثمناً.\nوأمَّا الثُّمُن فواحدٌ من ثمانية. يقال ثَمَنْتُ القومَ أثْمُنُهم إذا أخذتَ ثُمنَ أموالِهم. والثمِينُ: الثّمْن. قال:\nفإنى لستُ مِنك ولست مِنِّى … إذا [ما] طار مِنْ مالى الثَّمِينُ\nوقال الشماخُ أو غيرُه (٢):\nومثلُ سَرَاةِ قومِكَ لَنْ يُجَارَوْا … إلى رُبُعِ الرِّهانِ ولا الثَّمِينِ\nومما شذَّ عن الباب «ثَمِينَة» وهو بلد. وقال الهذلى (٣):\nبأصْدَقَ بأساً مِنْ. خليلِ ثَمينةٍ … وأمْضَى إذا ما أفلطَ القائمَ اليدُ (٤)\nومنه أيضا المِثْمَنَة، وهى كالمِخْلاة.",
+ "az": "[ثمن] الثاء (sə) və الميم (mim) və النون (nun) iki əsasdır: biri satılan şeyin əvəzi, digəri isə səkkizdə birdir. Birincisi, onların «بِعْتُ كذا وأخذْتُ ثمنَه» (filan şeyi satdım və onun qiymətini aldım) demələridir. Züheyr demişdir: * وعَزَّتْ أثمُنُ البُدُنِ (١) (Və qurbanlıq dəvələrin qiymətləri bahalaşdı). Kim bunu «أثمُنُ» (dammlı) oxuyarsa, bu «ثَمَن» (qiymət) sözünün cəmidir. Kim isə «أثمَنُ» (fəthəli) oxuyarsa, o, «qiyməti ən çox olanlar» mənasını qəsd edir. «الثُّمُن» (sümün) isə səkkizdə birdir. «ثَمَنْتُ القومَ أثْمُنُهم» (mən qövmün səkkizdə birini aldım) deyilir, yəni onların mallarının səkkizdə birini aldın. «الثمِينُ» (səmin) qiymətli deməkdir. O demişdir: فإنى لستُ مِنك ولست مِنِّى … إذا [ما] طار مِنْ مالى الثَّمِينُ (Əgər malımın qiymətlisi əldən çıxarsa, mən səndən deyiləm, sən də məndən deyilsən). Əş-Şəmməx və ya başqası demişdir (٢): ومثلُ سَرَاةِ قومِكَ لَنْ يُجَارَوْا … إلى رُبُعِ الرِّهانِ ولا الثَّمِينِ (Sənin qövmünün əyanları kimi heç kəs nə girovun dörddə birinə, nə də səkkizdə birinə çata bilməz). Bu qapıdan kənar (şaz) olan «ثَمِينَة» (səminə) sözüdür ki, bu bir ölkə adıdır. Hüzeyli demişdir (٣): بأصْدَقَ بأساً مِنْ. خليلِ ثَمينةٍ … وأمْضَى إذا ما أفلطَ القائمَ اليدُ (٤) (Hüzeyli: Səminə xəlilindən daha cəsur və əli boşaldıqda daha kəsərli olan...). Ondan həmçinin «المِثْمَنَة» (əl-mismənə) sözü törəyir ki, bu da «المِخْلاة» (yem torbası) kimidir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:42:17.837Z"
+}

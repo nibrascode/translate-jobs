@@ -1,0 +1,17 @@
+{
+ "i": 1220,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 267,
+  "page_to": 268
+ },
+ "ar": "الدال والراء والسين أصلٌ واحد يدلُّ على خَفاء وخفضٍ وعَفَاءِ. فالدَّرْس: الطَّريق الخفىّ. يقال دَرَسَ المنزلُ: عفا. ومن الباب الدَّرِيس:\nالثّوب الخَلَق. ومنه دَرَسَتِ المرأةُ: حاضَت. ويقال إنَّ فرجَها يكنّى أبا أَدْرَاس (٢) وهو من الحَيْض. ودَرَسْتُ الحَنْطةَ وغيرَها فى سُنْبُلها. إذا دُسْتَها. فهذا محمولٌ على أنّها جُعِلت تحتَ الأقدام، كالطَّريق الذى يُدْرس ويُمشَى فيه. قال:\n* سَمْرَاءَ مما دَرَسَ ابنُ مِخْرَاقْ (٣) *\nوالدَّرْس: الجَرَب القليل يكون بالبَعير.\nومن الباب دَرَسْتُ القُرآنَ وغيرَه. وذلك أَنّ الدّارِسَ يتبَّع ما كان قرأ، كالسَّالك للطريق يتَتبَّعُه.\nومما شذَّ عن الباب الدِّرْوَاس: الغليظ العُنق من النّاسِ والدّوابّ.",
+ "az": "[درس] الدال والراء والسين (dal, ra və sin hərfləri) gizliliyə, alçaqlığa və məhv olmağa dəlalət edən tək bir əsasdır. \nالدَّرْس (əd-dərs): gizli yol. Dəyilir: دَرَسَ المنزلُ: عفا (Ev dağıldı, izi-tozu yox oldu, məhv oldu).\nBu babdandır: الدَّرِيس (əddəris) – köhnəlmiş paltar. Həmçinin دَرَسَتِ المرأةُ: حاضَت (Qadın heyз oldu, aybaşı gördü). Deyilir ki, onun cinsiyyət orqanına إداراس (Adras) – yəni «heyзlər atası» ləqəbi verilir (٢), və bu da heyzdən götürülmüşdür. \nدَرَسْتُ الحَنْطةَ وغيرَها فى سُنْبُلها (Buğdanı və başqalarını sünbülündə döydüm) – onu ayaqlar altına salıb döydüyün zaman. Bu, onun gedilən və üzərində gəzilən yol kimi ayaqlar altına atıldığına yozulur. (Şair) demişdir:\n* سَمْرَاءَ مما دَرَسَ ابنُ مِخْرَاقْ (٣) *\n(İbn Mixraqın döydüyü (buğda) kimi qarabuğdayı...)\n\nVə الدَّرْس (əd-dərs): dəvədə olan cüzi qotur xəstəliyi.\nBu babdandır: دَرَسْتُ القُرآنَ وغيرََه (Quranı və başqasını mütaliə etdim/oxudum). Çünki oxuyan şəxs yol ilə gedən səyyah kimi oxuduğu şeyi izləyir və təqib edir.\n\nBu əsasdan istisna olan (şəzz): الدِّرْوَاس (əd-dirvas) – insanlardan və heyvanlardan boynu yoğun olan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.589Z"
+}

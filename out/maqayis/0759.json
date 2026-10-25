@@ -1,0 +1,17 @@
+{
+ "i": 759,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 507,
+  "page_to": 507
+ },
+ "ar": "ومن ذلك قولهم للجمل العظيم (جُرَاهِم جُرْهُم). وهذا من كلمتين من الجِرْم وهو الجَسَد، ومن الجَرَه وهو الارتفاع فى تجمُّع. يقال سمِعْتُ جَرَاهِيَةَ القوم، وهو عالىِ كلَامِهم دون السِّرّ.",
+ "az": "«جرهم» - Və buraya nəhəng dəvəyə «جُرَاهِم جُرْهُم» (Cürahim Cürhəm) deyilməsi daxildir. Bu da iki sözdən ibarətdir: جِرْم (cirm) - yəni cəsəd, və جَرَه (cərəh) - yığılaraq hündürə qalxmaq. Deyilir ki, mən tayfanın جَرَاهِيَةَ (cərahiyyətini) eşitdim, bu da onların gizli danışıqdan başqa, uca səsləridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.217Z"
+}

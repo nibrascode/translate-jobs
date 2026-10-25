@@ -1,0 +1,17 @@
+{
+ "i": 1708,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ردب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 508,
+  "page_to": 508
+ },
+ "ar": "الراء والدال والباء ليس بشئ. ويقولون للقِرْمِيدة الإِردَبة. والإردَبُّ: مكيال لأهل مِصرَ ضخمٌ",
+ "az": "[ردب] الراء والدال والباء — heç bir əsası yoxdur. Və onlar kərpicə الإِردَبة (l-irdəbə) deyirlər. İr-İrdəbb (الإردَبُّ) — Misir əhlinin böyük taxıl ölçü qabıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:28.607Z"
+}

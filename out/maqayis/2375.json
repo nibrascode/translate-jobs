@@ -1,0 +1,17 @@
+{
+ "i": 2375,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 356,
+  "page_to": 357
+ },
+ "ar": "الضاد واللام أصلٌ صحيح يدلُّ على معنًى واحد، وهو ضَياع الشئ وذهابُه فى غير حَقِّه. يقال ضَلّ يَضِلّ ويَضَلّ، لغتان. وكلُّ جائرٍ عن القصد ضالٌّ. والضَّلَال والضَّلَالَة بمعنى. ورجلٌ ضِلِّيل ومُضلَّل، إِذا كان صاحبَ ضَلَالٍ وباطل. وممّا يدُلُّ على أنّ أصل الضّلَال ما ذكرناه، قولُهم أُضِلّ الميّتُ، إذا دُفِن. وذاكَ كأنَّهُ شئٌ قد ضاع. ويقولون: ضَلَّ اللّبَنُ فى الماء، ثم يقولون استُهْلِك. وقال فى أُضِلَّ الميّت:\nوآبَ مُضِلُّوه بعينٍ جَلِيَّةٍ … وغودِرَ بالجَوْلان حَزمٌ ونائلُ (٢)\nقال ابنُ السكِّيت: يقال أضلَلْتُ بعيرى، إذا ذَهبَ منك؛ وضللت المسجد والدَّارَ، إذا لم تهتدِ لهما. وكذلك كلُّ شئ مُقِيمٍ لا يُهتَدَى له. ويقال: أرضٌ مَضِلّة ومَضَلّة. ووقعوا فى وادى تُضَلِّلَ، إذا وَقعوا فى مَضِلَّة.",
+ "az": "[ضل] (ض، ل) — Tək bir mənaya dəlalət edən səhih bir əsasdır ki, o da bir şeyin itməsi və haqsız yerə yoxa çıxmasıdır. Deyilir: ضَلّ يَضِلّ və يَضَلّ (iki lüğəvi formalardır). Doğru yoldan azan hər bir kəs ضالٌّ (azmış) sayılır. الضَّلَال və الضَّلَالَة eyni mənadadır. Və رجلٌ ضِلِّيل və مُضلَّل — azğınlıq və batil sahibinə deyilir. Azmağın əslinin bu olduğuna dəlalət edən sözlərdən biri də onların أُضِلّ الميّتُ (ölü basdırıldı, yəni itdi) deməsidir. Bu, sanki itmiş bir şey kimidir. Deyirlər: ضَلَّ اللّبَنُ فى الماء (süd suda itdi), sonra isə استُهْلِك (məhv oldu) deyirlər. Ölü haqqında demişdir:\nوآبَ مُضِلُّوه بعينٍ جَلِيَّةٍ … وغودِرَ بالجَوْلان حَزمٌ ونائلُ (٢)\nİbn əs-Sikkit demişdir: أضلَلْتُ بعيرى (dəvəmin itməsini dedim, səndən uzaqlaşdıqda); və ضللت المسجد والدَّارَ (məscidi və evi tapa bilmədikdə). Eləcə də yeri tapılmayan hər bir sabit şey üçün belə deyilir. Və deyilir: أرضٌ مَضِلّة və مَضَلّة (azdırıcı yer). Və ووقعوا فى وادى تُضَلِّلَ (azdırıcı dərəyə düşdülər) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.777Z"
+}

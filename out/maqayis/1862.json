@@ -1,0 +1,17 @@
+{
+ "i": 1862,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 74,
+  "page_to": 74
+ },
+ "ar": "السين والعين والميم كلمةٌ واحدة. فالسَّعْم: السَّير. يقال سَعَم البعيرُ، إذا سار .. وناقةٌ سَعُوم.",
+ "az": "[سعم] السين والعين والميم — sin, ayn və mim hərfləri tək bir kəlmədir. فَالسَّعْم (əssəhm) — səyahət etmək, getmək. سَعَم البعيرُ (səəməl-bəiru) — dəvə getdiyi zaman deyilir. وناقةٌ سَعُوم (və naqətün səum) — gedən, yol alan dəvə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.965Z"
+}

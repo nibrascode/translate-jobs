@@ -1,0 +1,17 @@
+{
+ "i": 1249,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دعس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 283,
+  "page_to": 283
+ },
+ "ar": "الدال والعين والسين أُصَيلٌ وهو يدلُّ على دفْع وتأثيرٍ فالمداعَسَة: المطاعَنَة؛ لأنّ الطّاعن يدفَع المطعونَ. ورُمْحٌ مِدْعَسٌ ورِماحٌ مداعِسُ. والدَّعْس: النِّكاح؛ وهذا تشبيهٌ. والدَّعْس: الأثر، وهو ذاك؛ لأنَ المؤثِّر يدفع ذلك الشئَ حين يؤثَّر فيه.",
+ "az": "[دعس] «الدال والعين والسين» (dal, ayn və sin) kiçik bir əsas olub təkan verməyə və təsir etməyə dəlalət edir. المداعَسَة (mudəasə): nizələşməkdir; çünki nizə vuran adam vurulan şəxsi itələyir. Və رُمْحٌ مِدْعَسٌ (iti nizə) və رِماحٌ مداعِسُ (nizələr). Və الدَّعْس (dəcs): nikahdır; bu isə bir bənzətmədir. Və الدَّعْس (dəcs): izdir, o da elə bundandır; çünki iz qoyan şəxs təsir etdiyi zaman o şeyə təkan vermiş olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.371Z"
+}

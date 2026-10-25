@@ -1,0 +1,17 @@
+{
+ "i": 641,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جزح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 456,
+  "page_to": 456
+ },
+ "ar": "الجيم والزاء والحاء كلمةٌ واحدة لا تتفرَّع ولا يُقاسُ عليها.\nيقال جزَح له من ماله، أى قَطَع. والجازِح: القاطع. وهو فى شعر ابن مقبل:\n* لَمُخْتَبِطٌ من تالِدِ المالِ جَازِحُ (١) *",
+ "az": "[جزح] Cim, zay və ha: bir kəlmədir, şaxələnmir və ona qiyas edilmir. Deyilir ki, جزَح له من ماله (onun malından ona kəsdi), yəni kəsdi. Cazih (الجازِح): kəsən deməkdir. Bu, İbn Muqbilin şeirində belə keçir: * لَمُخْتَبِطٌ من تالِدِ المالِ جَازِحُ (١) * (mənası: Qədim maldan kəsən bir pay istəyən).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.556Z"
+}

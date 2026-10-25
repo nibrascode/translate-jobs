@@ -1,0 +1,17 @@
+{
+ "i": 1996,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 137,
+  "page_to": 137
+ },
+ "ar": "السين والجيم والنون أصلٌ واحد، وهو الحَبْس. يقال سجنته سَجناً. والسِّجن: المكان يُسجَن فيه الإنسان. قال اللّه جلّ ثناؤه فى قصّة يوسف ﵇: ﴿قالَ رَبِّ اَلسِّجْنُ أَحَبُّ إِلَيَّ مِمّا يَدْعُونَنِي إِلَيْهِ﴾.\nفيقرأ فتحاً على المصدر، وكسراً على الموضع (١)، وأما قولُ ابنِ مُقْبل:\nضرباً تَوَاصَى به الأبطالُ سِجِّينا (٢)\nفقيل إنّه أراد سِجِّيلا. أى شديدا. وقد مضى ذِكرُه. وإنَّما أبدل اللام نونا. والوجه فى هذا أنَّه قياس الأوَّل من السَّجن، وهو الحبس؛ لأنَّه إذا كان ضرباً شديداً ثبت المضروب، كأنَّه قد حبسه",
+ "az": "[سجن] (səcən): Sin, cim və nun hərfləri həbs etmək mənasını verən vahid bir kökdür. «سجنته سَجناً» (səcəntühü səcnən) – onu həbs etdim, deyilir. «السِّجن» (əssicn) – insanın həbs olunduğu yer. Uca Allah Yusif (ə.s.) qissəsində buyurmuşdur: ﴿قالَ رَبِّ اَلسِّجْنُ أَحَبُّ إِلَيَّ مِمّا يَدْعُونَنِي إِلَيْهِ﴾ (mənaca tərcümə: Dediki: Ey Rəbbim, zindan mənə bunların məni dəvət etdikləri şeydən daha sevgilidir - Yusif, 33).\nBurada «السِّجْن» sözü məsdər mənasında fəthə ilə oxunur, yer mənasında isə kəsrə ilə oxunur (١). İbn Müqbilin bu sözünə gəldikdə:\nضرباً تَوَاصَى به الأبطالُ سِجِّينا (٢)\n(Qəhrəmanların bir-birinə vəsiyyət etdiyi şiddətli bir zərbə ilə).\nDeyilmişdir ki, o, «سِجِّيلا» (əssiccilən) – yəni şiddətli demək istəmişdir. Bunun zikr növü artıq keçmişdir. O, sadəcə lam hərfini nun hərfi ilə əvəz etmişdir. Burada məntiqi cəhət odur ki, bu, həbs mənasını verən «السَّجن» (əssəcn) sözünün ilkin qiyasındandır; çünki əgər o, şiddətli zərbədirsə, döyülən şəxs yerində sabit qalar, sanki onu həbs etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:35.045Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 920,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حقف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 90,
+  "page_to": 90
+ },
+ "ar": "الحاء والقاف والفاء أصلٌ واحد، وهو يدلُّ على مَيَل الشئ وعِوَجه: يقال احقوقَف الشئ، إذا مال، فهو مُحْقَوْقِفٌ وحَاقِفٌ. ومن ذلك\nالحديث: «أنّه مرَّ بظبىٍ حاقِفٍ فى ظلِّ شجرة». فهو الذى قد انحنى وتثنَّى فى نَوْمِه ولهذا قيل للرَّمل المنحنى حقِفْ، والجمع أحقاف. قال:\nفلما أجزْنَا ساحةَ الحىِّ وانتحى … بنا بَطْنُ خبتٍ ذى حِقافٍ عَقَنْقَل (٢)\nويروى: «ذى قِفاف». وقال آخر:\n* سَمَاوةَ الهِلالِ حَتى احقوقَفا (٣) *",
+ "az": "«حقف» (əyri qum təpəsi). Ḥa, qaf və fa bir əsl olub, bir şeyin meyl etməsinə və əyilməsinə dəlalət edir: «احقوقَف الشئ» (şey əyildi, qövssvari oldu) deyilir, o, «مُحْقَوْقِفٌ» (muhqovqif) və «حَاقِفٌ» (ḥaqif) olur. Həmin (kökdən) hədisdir: «أنّه مرَّ بظبىٍ حاقِفٍ فى ظلِّ شجرة» (Həqiqətən, o, bir ağacın kölgəsində bükülüb yatan ceyranın yanından keçdi). O, elə bir ceyrandır ki, yuxusunda bükülmüş və qatlanmışdır. Məhz buna görə əyri qum təpəsinə «حقف» (ḥəqf) deyilmişdir, cəmi «أحقاف» (əhqaf) gəlir. (Şair) demişdir: \nFləmma əcnəna səhətəl-ḥəyyi vantəḥa … binə bətnu xəbtin ẓi ḥiqafın əqənqəl (٢).\nRəvayət olunur: «ذى قِفاف» (qifaf sahibidir). Başqası da demişdir:\n* سَمَاوةَ الهِلالِ حَتى احقوقَفا (٣) * (Hilalın zirvəsi kimi, ta ki əyildi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:33.899Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2094,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شقح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 202,
+  "page_to": 202
+ },
+ "ar": "الشين والقاف والحاء أُصَيْل يدل على لونٍ غيرِ حسَن.\nيقال: شَقَّحَ النَّخْل، وذلك حين زُهُوِّه. ونُهِى عن بيعه قبل أَنْ يشقِّح. والشَّقيح إِتباع القبيح، يقال قبيحٌ شقيح.",
+ "az": "[شقح] الشين (ش), القاف (ق) və Ha (ح) xoş gəlməyən rəngə dəlalət edən kiçik bir əsldir. Deyilir: شَقَّحَ النَّخْل (xurma ağacları rəng aldı) — bu, onların rənglənmə (zəhu) vaxtıdır. Xurmanın rəng almamışdan əvvəl satılması qadağan edilmişdir. وَالشَّقيح (əş-şəqih) çirkinin ardınca gələndir, deyilir: qəbihun şəqihun (çirkin və pis).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:08.599Z"
+}

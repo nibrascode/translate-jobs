@@ -1,0 +1,17 @@
+{
+ "i": 2012,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سخل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 145,
+  "page_to": 145
+ },
+ "ar": "السين والخاء واللام أصلٌ مطرد صحيح ينقاس، يدلُّ على حَقارة وضَعف. من ذلك السَّخْل من ولد الضّأن، وهو الصّغير الضَّعيف، والأنثى سَخلة. ومنه سَخّلتِ النَّخلة (١)، إذا كانت ذاتَ شِيص، وهو التَّمر الذى لا يشتدُّ نواه. والسُّخَّل: الرّجال الأراذل، لا واحد له من لفظه. ويقال كواكبُ مَسخُولة، إذا كانت مجهولة. وهو قول القائل:\nونحنُ الثُّرَيَّا وجَوزاؤُها … ونحنُ الذّراعانِ والمِرْزمُ\nوأنتم كواكبُ مسْخُولةٌ … تُرَى فى السماءِ ولا تعلمُ (٢)\nوذكر بعضُهم أنَّ هذيلاً تقول: سخَلْت الرجلَ، إذا عبتَه.",
+ "az": "«سخل» (səxl - alçaqlıq və zəiflik): Sin, xə və lam hərfləri alçaqlığa və zəifliyə dəlalət edən müntəzəm, səhih və qaydaya uyğun bir əsasdır. Bunlardan biri qoyun balası olan «السَّخْل» sözüdür, o, kiçik və zəif olur, dişi balası isə «سَخلة» adlanır. Həmçinin «سَخّلتِ النَّخلةُ» — xurma ağacının tumurcuqları zəif və çürük olması deməkdir, bu, çəyirdəyi bərkiməyən xurmadır. «السُّخَّل» — alçaq və rəzil kişilərdir, onun öz ləfzisindən tək forması yoxdur. Deyilir: «كواكبُ مَسخُولة» — naməlum, qeyri-müəyyən ulduzlar. Bu, şairin bu sözüdür: «ونحنُ الثُّرَيَّا وجَوزاؤُها … ونحنُ الذّراعانِ والمِرْزمُ / وأنتم كواكبُ مسْخُولةٌ … تُرَى فى السماءِ ولا تعلمُ» (Biz Sürəyya və Cövzayıq, biz Saidan və Mirzəmik; siz isə göydə görünən, lakin tanınmayan zəif/naməlum ulduzlarsınız) (٢). Bəziləri qeyd etmişlər ki, Hüzəyl qəbiləsi «سخَلْت الرجلَ» (filankəsi qınadım, eyiblədim) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:57.043Z"
+}

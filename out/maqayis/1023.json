@@ -1,0 +1,17 @@
+{
+ "i": 1023,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 150,
+  "page_to": 151
+ },
+ "ar": "الخاء والزاء أصلان: أحدهما أنْ يُرَزَّ شئ فى آخر، والآخر جنسٌ من الحيوان\nفالأوّل الخزُّ خَزُّ الحائط، وهو أن يشوَّك. ويقال حَزَّهُ بسهمٍ، إذا رماه به وأثبَتَه فيه. وطعَنَهُ بالرُّمح فاختَزَّهُ (٣). قال ابن أحمر:\n* حتَّى اخْتزَزْتُ فؤادَه بالمِطْرَدِ (٤) *\nفأمّا قولُهم بعيرٌ خُزَخِزٌ، أى شديد، فهو من الباب؛ لأنّ أعضاءه كأنّها خُزَّت خَزًّا، أى أثبِتَتْ إثباتاً.\nوالأصل الثانى: الخُزَز: الذّكَر من الأرانب، والجمع خِزّانٌ. قال:\nوبنو نُويجِيَةَ اللَّذُونَ كأنهم … مُعْطٌ مُخَدَّمَةٌ من الخِزَّانِ (١)",
+ "az": "«خز» (xa-zay): Xa və zay iki əslidir: biri bir şeyin digərinin içərisinə sancılması, diğəri isə heyvan cinsidir.\n\nBirincisi: الخزُّ (əl-xəzz) — divarın xəzzidir, yəni tikanlı olmasıdır. Deyirlər: حَزَّهُ بسهمٍ (həzzəhu bisəhmin), yəni onu oxla vurdu və ona sancdı. Onu nizə ilə sancıb içərisinə keçirdi (اختَزَّهُ) (ixtəzzəhu). İbn Əhmər demişdir:\n* حتَّى اخْتزَزْتُ فؤادَه بالمِطْرَدِ (٤)\n(Hətta nizə ilə ürəyini deşib keçdim.)\n\nOnların «بعيرٌ خُزَخِزٌ» (bəirun xuzaxizun) sözünə gəldikdə, yəni güclü, qüvvətli deməkdir, bu da həmin fəsildəndir; çünki onun əzaları sanki bir-birinə bərkidilib sancılmış kimidir, yəni möhkəm bərkidilmişdir.\n\nİkinci əsl: الخُزَز (əl-xuzəz) — erkək dovşandır, cəmi خِزّانٌ (xizzan) gəlir. O demişdir:\nوبنو نُويجِيَةَ اللَّذُونَ كأنهم … مُعْطٌ مُخَدَّمَةٌ من الخِزَّانِ (١)\n(Və Nüveyciyə oğulları elə bil ki, onlar dovşan dərilərindən tikilmiş xəz geyimlərdir.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:06:36.723Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2026,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 150,
+  "page_to": 151
+ },
+ "ar": "السين والدال والواو أصلٌ واحد يدلُّ على إهمال وذَهابٍ على وجه. من ذلك السَّدْو، وهو ركوبُ الرأس فى السَّير. ومنه قولُه جلّ ثناؤه:\n﴿أَيَحْسَبُ اَلْإِنْسانُ أَنْ يُتْرَكَ سُدىً﴾، أى مُهْمَلا لا يؤمر ولا يُنهَى. قال الخليل:\nزَدْوُ الصِّبيان بالجوز إنَّما هو السَّدو. فإن كان هذا صحيحاً فهو من الباب؛ لأنه يخلّيه من يده. ومن الباب: أسْدَى النّخلُ، إذا استرخت ثَفاريقُه (٣)، وذلك يكون كالشَّئ المخلّى من اليَدِ، والواحدة من ذلك السَّدِية. وكان أبو عمرو يقول: هو السَّداء ممدود، الواحدة سَداءة. قال أبو عبيد: لا أحفظ الممدود.\nوالسَّدَى: النَّدَى؛ يقال سَدِيَتْ ليلتُنا، إذا كثُر نَداها. وهو من ذاك، لأن السحاب يُهمِله ويُهمَل به.\nومن الباب السَّدَى، وهو ما يُصطنع من عُرْف؛ يقال أسدى فلانٌ إلى فلان معروفا. ومن الباب: تسدَّى فلانٌ أَمَتَه، إذا أخذها من فَوقها، كأنَّه رمى بنفسه عليها. قال:\nفَلَمَّا دنَوْتُ تسدَّيتُها … فثوباً نسيتُ وثوباً أجُرّ (١)\nوقال آخر (٢):\nتَسَدَّى مع النَّوم تِمثالُها … دُنُوَّ الضَّبَاب بطلٍ زُلالِ (٣)",
+ "az": "«سدو» (sin, dal və vaf) səhlənkarlığa və başını götürüb bir tərəfə getməyə dəlalət edən tək bir əslidir. Bunlardandır «السَّدْو», o da gedişdə başını buraxıb getməkdir. Və ondan uca təalanın bu sözüdür: «﴿أَيَحْسَبُ اَلْإِنْسانُ أَنْ يُتْرَكَ سُدىً﴾» (Mənaca tərcümə: Məgər insan elə güman edir ki, o, başıboş buraxılacaqdır?), yəni əmr olunmayan və qadağan edilməyən başıboş şəkildə. Xəlil demişdir: Uşaqların qoz ilə «زَدْوُ» oynaması məhz «السَّدو»dur. Əgər bu səhihdirsə, o zaman bu, həb babındandır; çünki onu əlindən buraxır. Bu fəsildəndir: «أسْدَى النّخلُ» – xurma ağacının budaqları sallandı, bu da əldən buraxılmış şey kimi olur, bunun təkidi «السَّدِية»dir. Əbu Əmr deyirdi: O, uzadılan «السَّداء»dır, təkidi «سَداءة»dir. Əbu Übeyd demişdir: Mən uzadılanı yadda saxlamamışam. «السَّدَى» – şeh; deyilir: «سَدِيَتْ ليلتُنا» – gecəmiz şehli oldu, şəhi çoxaldıqda. Bu da elə bundandır, çünki bulud onu boşlayır və onunla boşlanır. Bu fəsildəndir «السَّدَى», o da yaxşılıqdan edilən şeydir; deyilir: «أسدى فلانٌ إلى فلان معروفا» – filankəs filankəsə yaxşılıq etdi. Bu fəsildəndir: «تسدَّى فلانٌ أَمَتَه» – kənizini yuxarıdan tutdu, sanki özünü onun üzərinə atdı. Dedi: Mən yaxınlaşanda özümü onun üzərinə atdım … Belə ki, bir paltarı unutdum, bir paltarı da sürükləyirəm (1). Başqası demişdir (2): Yuxu ilə birlikdə onun heykəli gəlib üzərimə örtüldü … Sərin şehli dumanın yaxınlaşması kimi (3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1112,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خفق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 201,
+  "page_to": 202
+ },
+ "ar": "الخاء والفاء والقاف أصلٌ واحد يرجع إليه فروعُه، وهو الاضطراب فى الشَّئ. يقال خفَق العلم يَخفِقُ. وخفق النّجم، وخفق القلبُ يخفِقُ خفقاناً. قال:\nكأنّ قطاةً عُلِّقت بجنَاحِها … على كبِدى مِنْ شِدّةِ الخفقانِ (١)\nويقال أخْفَقَ الرّجلُ بثوبه، إذا لَمَعَ به. ومن هذا الباب الخَفْق، وهو كلُّ ضربٍ بشئ عريض. يقال خَفَقَ الأرضَ بنَعله. ورجل خَفَاق القَدَمَ، إذا كان صدرُ قدمه عريضاً. والمِخْفَقُ: السَّيف العريض. ويقال إنّ الخَفْقَة المفازةُ (٢)، وسمِّيت بذلك لأنّ الرياح تخنفِق فيها.\nومن الباب نافة خفيقٌ: سريعة (٣). وخَفَقَ السّرابُ؛ اضطربَ. وخفَق الرّجُل خَفْقةً، إذا نَعَس. والخافقانِ: جانِبا الجَوِّ. وامرأةٌ خَفّاقة الحشا، أى خمِيصة البَطْن، كأنَّ ذلك يضطرب. وأمّا قولهم أَخفق الرجل، إذا غَزَا ولم يُصِب * شيئاً، فيمكن أن يكون شاذًّا عن الباب، ويمكن أن يقال: إذا لم يُصِبْ فهو مضطرب الحال؛ وهو بعيد.\nقال رسول اللّه ﵌: «أيُّما سَرِيَّةٍ غَزَتْ فأخفقَتْ كان لها أجرها مَرَّتَين». وقال عنترة:\nفيُخفِق مَرَّةً ويُفِيد أُخْرى … ويَفجَع ذا الضغائن بالأرِيبِ (١)",
+ "az": "[خفق] الخاء والفاء والقاف أصلٌ واحد يرجع إليه فروعُه (Hərf-i xa, fa və qaf törəmələrinin qayıtdığı tək bir əsasdır) — bu, bir şeydə olan iztirabdır (narahatlıq, titrəmə). «خفق العلم يَخفِقُ» (Bayraq dalğalandı) deyilir. Və «خفق النّجم» (Ulduz söndü/parıldadı), «خفق القلبُ يخفِqُ خفقاناً» (Ürək döyündü, çırpındı). (Şair) demişdir:\nكأنّ قطاةً عُلِّقت بجنَاحِها … على كبِدى مِنْ شِدّةِ الخفقانِ (١)\n(Sanki bir çöl quşu qanadından asılmışdır… ürəyimin üstündən şiddətli çırpıntının ucbatından).\nVə deyilir: «أخْفَقَ الرّجلُ بثوبه» (Kişi paltarını yellədi), o zaman ki, onu parıldatdı (yellədi). Bu qapıdandır: «الخَفْقُ» — bu, enli bir şeylə hər hansı bir vurğudur. Deyilir: «خَفَقَ الأرضَ بنَعله» (Yerə ayaqqabısı ilə vurdu). «رجل خَفَاق القَدَم» (Ayağının önü enli olan kişi), o zaman ki, ayağının ön hissəsi enlidir. «المِخْفَقُ» — enli qılınc. Və deyilir ki, «الخَفْقَة» — səhradır (٢), və belə adlandırılmışdır, çünki küləklər orada əsir (iztirab edir).\nVə bu qapıdandır: «ناقة خفيقٌ» — sürətli (٣). Və «خَفَقَ السّرابُ» — səmum/sirab dalğalandı, hərəkət etdi. Və «خَفَق الرّجُل خَفْقةً» — kişi mürgülədi. Və «الخافقانِ» — səmanın iki tərəfi. Və «امرأةٌ خَفّاقة الحشا» — yəni qarnı arıq qadın, sanki bu (qarın) tərpənir. Qaldı ki, onların «أخفق الرجل» sözünə gəldikdə, o zaman ki, bir kişi qəzetə/səfərə çıxıb heç nə əldə etmədi, (bu) qapıdan istisna ola bilər və belə də demək olar: əgər heç nə əldə etmədisə, deməli, halı pozulub (iztirab içindədir); lakin bu uzaq bir ehtimaldır.\nRəsulullah ﵌ buyurmuşdur: «أيُّما سَرِيَّةٍ غَزَتْ فأخفقَتْ كان لها أجرها مَرَّتَين» (Hər hansı bir dəstə döyüşə gedib qənimətsiz qayıdarsa, onun üçün iki dəfə əcr vardır). Və Əntərə demişdir:\nفيُخفِق مَرَّةً ويُفِيد أُخْرى … ويَفجَع ذا الضغائن بالأرِيبِ (١)\n(Bəzən məhrum qalar, bəzən isə fayda verər... və həsəd aparanları ağıllı adamla kədərləndirər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:24.017Z"
+}

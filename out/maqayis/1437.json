@@ -1,0 +1,17 @@
+{
+ "i": 1437,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 372,
+  "page_to": 372
+ },
+ "ar": "الراء والزاء أصلان: أحدهما جنسٌ من الاضطراب، والآخَر إثباتُ شئٍ. فالأوّل الإِرْزِيزُ، وهى الرِّعْدة. قال الشّاعر:\nقَطعْتُ على غَطْشٍ وَبَغْشٍ وصُحَبَتِى … سُعارٌ وإرزِيزٌ وَوجْرٌ وَأَفْكَلُ (١)\nويقال الإرْزيز البَرْد، وهو قياسُ ما ذكرناه. والرِّزُّ: صَوتٌ. و\nفى الحديث:\n«مَنْ وَجَدَ فى جوفه رِزّا فلينصَرِفْ وليتوضّأْ».\nوأمّا الآخَر فيقال رَزَّ الجرادُ، إذا غرزَ بذنَبه فى الأرض ليَبِيض. ومن الباب الإرزِيزُ، وهو الطّعْن؛ وقياسه ذاك. والرَّزُّ: الطَّعن أيضاً. يقال رزَّهُ، أى طعَنه. ورزَزْتُ السّهْمَ فى الحائط والقرطاس، إذا ثبَّتَّه فيه. ومن القياس ارتَزَّ البحِيل عند المسألة، إذا بقى [وبخل (٢)]؛ وذلك أنّه يقلُّ اهتزازُه.\nوالكلمات كلُّها من القياس الذى ذكرناه.",
+ "az": "[رز] \n\nRa və zai hərfləri iki əsas mənaya malikdir: biri bir növ narahatlıq, digəri isə bir şeyin sabitləşməsidir. \nBirincisi — İrziz (الإِرْزِيزُ), titrəyişdir. Şair demişdir:\nقَطعْتُ على غَطْشٍ وَبَغْشٍ وصُحَبَتِى … سُعارٌ وإرزِيزٌ وَوجْرٌ وَأَفْكَلُ (1)\n(Zülmətdə, çiskində yol qət etdim, dostlarım isə qızdırma, titrəmə, qorxu və səfehlik içində idilər)\nVə deyilir ki, İrziz soyuqdur və bu da bizim qeyd etdiyimiz qisadandır. \nEləcə də Arrz (الرِّزُّ) — səs deməkdir. \nHədisdə gəlmişdir:\n«مَنْ وَجَدَ فى جوفه رِزّا فلينصَرِفْ وليتوضّأْ» (Hər kim qarın boşluğunda bir səs hiss edərsə, qayıtsın və dəstəmaz alsın).\nİkinci mənaya gəldikdə, deyilir: رزّ çəyirtkə quyruğunu yumurtlamaq üçün yerə sancdı. Bu bölmədən İrziz (الإرْزِيزُ) — nizə ilə vurmaqdır; bunun qisası da məhz budur. Həmçinin Arrz (الرَّزُّ) — sancmaq deməkdir. Deyilir: رزَّهُ, yəni onu sancdı. Və رزَزْتُ السّهْمَ فى الحائط والقرطاس (oxu divara və kağıza bərkitdim) — onu orada sabitləşdirdiyin zaman. Bu qisadan olaraq, xəsisdən bir şey istənildikdə اِرْتَزَّ البَحِيل عند المسألة (xəsis istək qarşısında donub qaldı [və xəsislik etdi]) deyilər; bunun səbəbi onun hərəkətsiz qalmasıdır.\nBütün bu kəlmələr qeyd etdiyimiz qisadandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.658Z"
+}

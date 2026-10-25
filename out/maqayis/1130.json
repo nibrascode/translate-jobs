@@ -1,0 +1,17 @@
+{
+ "i": 1130,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خمج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 215,
+  "page_to": 215
+ },
+ "ar": "الخاء والميم والجيم يدلُّ على فتورٍ وتغيُّر. فالخَمَج فى الإنسان:\nالفتور. يقال أصبَحَ فلانٌ خَمِجاً، أى فَاترا. وهو فى شعر الهُذَلىّ (١):\n* أخْشَى دُونَه الخَمَجَا (٢) *\nويقولون خَمِجَ اللّحمُ، إذا تغيَّر وأرْوَحَ.",
+ "az": "«خمج» (خ, م, ج) zəifliyə və dəyişməyə dəlalət edir. İnsanda «الخَمَج» — zəiflik, süstlükdür. Deyilir: «أصبَحَ فلانٌ خَمِجاً» (Filankəs süst hala düşdü), yəni zəiflədi. Bu, Hüzəlin şeirində belə gəlmişdir:\n«أخْشَى دُونَه الخَمَجَا (٢)»\nOnlar həmçinin deyirlər: «خَمِجَ اللّحمُ» — ət dəyişdi (iyişdi) və üfunət qoxusu verdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:11:06.443Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1209,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 260,
+  "page_to": 261
+ },
+ "ar": "الدال والميم أصلٌ واحد يدلُّ على غِشْيان الشَّئ، مِنْ ناحيةِ أنْ يُطْلَى به. تقول دَمْمتُ (٤) الثَّوبَ، إذا طليتَه أىَّ صِبْغ، وكلُّ شئِ طُلِى على شئِ فهو دِمام (٥). فأمَّا الدّمدمة فالإهلاك. قال اللّه تعالى: ﴿فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ﴾. وذلك لِمَا غَشّاهم به من العذاب والإهلاك. وقِدْرٌ دميمٌ:\nمطلِيَّة بالطِّحال. والدَّامَّاء: جُحْر اليربوع، لأنّه يَدُمُّه دمًّا، أى يُسَوِّيه تَسويةً.\nفأمَّا قولهم رجلٌ دميمُ الوجه فهو من الباب، كأنّ وجهَه قد طلِيَ بسوادٍ أو قُبْحٍ. يقال دَمَّ وجهُه يَدِمُّ دَمامةً، فهو دميم.\nوأمَّا الدَّيْمُومَة، وهى المَفَازة لا ماء بها، فمن الباب؛ لأنّها كأنَّها فى استوائها\nقد دُمَّت، أى سُوِّيت تسويةً، كالشَّئ الذى يُطلى بالشئ. والدَّمادِم من الأرض: رَوَاب سَهْلَةٌ.",
+ "az": "[دم] (Də və mim) şeyin üzərinə çəkilmək (örtülmək) baxımından bir şeyi örtməyə dəlalət edən tək bir əsasdır. Deyirsən ki, dəməmtü əs-səvb (دَمْمْتُ الثَّوبَ) – paltarı hər hansı bir boyaqla örtdüyün zaman; bir şeyin üzərinə örtülən hər bir şey dimamdır (دِمام). Qaldı ki, dəm-dəmə (الدمدمة) – məhv etməkdir. Uca Allah buyurmuşdur: ﴿فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ﴾ (Mənaca tərcümə: Rəbbi günahlarına görə onları məhv etdi). Bu, onlara əzab və məhv edici şeylər örtdüyünə görədir. Qidrun dəmimun (قِدرٌ دميمٌ) – dalaqla (yağla) örtülmüş qazan. əd-Dammaə (الدَّامَّاء) – yırğalanın yuvasıdır, çünki o, bunu dəmman, yəni qaydasına salaraq düzəldir. Qaldı ki, kişinin üzü dəmimdir (رجل دميمُ الوجه) sözü də bu بابdəndir, sanki onun üzü qaraya və ya çirkinliyə boyanmışdır. Deyilir ki, dəmə vəchuhu yədimu dəmamətən (دَمَّ وجهُه يَدِمُّ دَمامةً) – o, çirkin oldu, deməkdir. Qaldı ki, əd-dəymumə (الدَّيْمُومَة) – içində su olmayan səhra, o da bu بابdəndir; çünki o düzlüyündə sanki dumrüşdür, yəni boyanmış şey kimi qaydasına salınmışdır. əl-Dəmadim min əl-ərz (الدَّمادِم من الأرض) – hamar təpəciklərdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:59.920Z"
+}

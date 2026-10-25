@@ -1,0 +1,17 @@
+{
+ "i": 544,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثمغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 389,
+  "page_to": 389
+ },
+ "ar": "الثاء والميم والغين كلمةٌ واحدةٌ لا يُقاس عليها ولا يفرَّع منها.\nيقال ثَمَغْتُ الثّوب ثَمْغاً إذا صبَغْته صبغاً مُشْبَعا. قال:\nتركتُ بنى الغُزَيِّلِ غيرَ فَخْرٍ … كأنَّ لِحاهُمُ ثُمِغَتْ بوَرْس (١)\nوهاهنا كلمةٌ ليست من الباب، وهى مع ذلك معلومة. قال الكسائىُّ:\nثَمَغَة الجبلِ أعلاه، بالثاء. قال الفرّاء: والذى سمعتُ أنا نَمَغَةٌ (٢)",
+ "az": "[ثمغ] الثاء (sə), الميم (mim) və الغين (ğayn) tək bir kəlmədir, ona qiyas edilmir və ondan törəmə edilmir. «ثَمَغْتُ الثّوب ثَمْغاً» (parçanı tam boyadım) deyilir, yəni onu tam boya ilə boyadım. O demişdir: تركتُ بنى الغُزَيِّلِ غيرَ فَخْرٍ … كأنَّ لِحاهُمُ ثُمِغَتْ بوَرْس (١) (Əl-Ğuzəyil oğullarını fəxrsiz tərk etdim, sanki saqqalları vərs bitkisi ilə boyanmışdı). Burada bu qapıdan olmayan, lakin məlum olan bir kəlmə də var. Əl-Kisai demişdir: «ثَمَغَة الجبلِ» (səməğətül-cəbəl) dağın zirvəsidir, «sə» hərfi ilə. Əl-Fərra demişdir: Mənim eşitdiyim isə «نَمَغَةٌ» (nəməğə) sözüdür (٢).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:42:17.837Z"
+}

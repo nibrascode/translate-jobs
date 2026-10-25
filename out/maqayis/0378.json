@@ -1,0 +1,17 @@
+{
+ "i": 378,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهنس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "ومن ذلك (البَهْنَبسَة) التَّبَخْتُر، فهو من البَهْس صِفةِ الأسد، ومن بَنَسَ (٤) إذا تَأَخَّر. معناه أنّه يمشِى مُقارِباً فى تعظُّم وكِبْرٍ.",
+ "az": "[بهنس] (Bə-ha-nun-sin) Buradan «البَهْنَبسَة» (əl-bəhnəbəsə) gəlir, yəni təkəbbürlə yerimək. Bu, şirin sifəti olan «البَهْس» (əl-bəhs) və «بَنَسَ» (bənəsə - geri qaldı) kəlmələrindəndir. Mənası budur ki, o, böyüklük və təkəbbürlə yeriyir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

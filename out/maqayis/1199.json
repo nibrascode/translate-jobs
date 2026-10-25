@@ -1,0 +1,17 @@
+{
+ "i": 1199,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خجل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 247,
+  "page_to": 247
+ },
+ "ar": "الخاء والجيم واللام أصلٌ يدلُّ على اضطرابٍ وتردُّد.\nحكَى بعضُهم: عليه ثوبٌ خَجِلٌ، إذا لم يكن [تقطيعُه] تقطيعاً * مستوِياً، بل كان مضطرباً عليه عند لُبْسه. ومنه الخَجَل الذى يعترى الإنسانَ، وهو أن يَبقى باهتاً لا يتحدَّث. يقال منه: خَجِل.\nقال رسول اللّه ﷺ للنِّساء:\n«إنّكُنّ إذا جُعْتُنّ دَقِعْتُنّ، وإذا شَبِعْتُنّ خَجِلْتُنّ». قال الكميت:\nولَمْ يَدْقَعُوا عند ما نابَهُم … لِوَقْعِ الحروب ولم يَخْجَلُوا (١)\nيقال فى خَجِلتُنّ: بَطِرْتُنّ وأَشِرْتُنّ؛ وهو قياس الباب. ويقال منه خَجِلَ الوادِى، إذا كثُر صوتُ ذُبابه. ويقال أخْجَلَ الحَمْضُ: طالَ؛ وهو القياس؛ لأنّه إذا طالَ اضطرب.",
+ "az": "«خجل» (x-c-l) — Xa, cim və lam hərfləri qarışıqlığa və tərəddüdə dəlalət edən bir əsasdır.\nBəziləri rəvayət etmişdir: «عليه ثوبٌ خَجِلٌ» — əgər onun [biçimi] düzgün biçimdə deyilsə, əksinə, geyinildiyi zaman onun üzərində səliqəsiz (qarışıq) qalıbsa. İnsanı bürüyən «الخَجَل» (utancaqlıq, mat qalma) də bundandır, o da heç bir söz danışa bilməyib mat qalmasıdır. Undan «خَجِل» deyilir.\nPeyğəmbər səllallahu əleyhi və səlləm qadınlara demişdir:\n«إنّكُنّ إذا جُعْتُنّ دَقِعْتُنّ، وإذا شَبِعْتُنّ خَجِلْتُنّ» (Siz eləsiniz ki, acanda narahat olub səbrsizlənirsiniz, tox olanda isə şımır və azğınlaşırsınız). Kumeyt demişdir:\nولَمْ يَدْقَعُوا عند ما نابَهُم … لِوَقْعِ الحروب ولم يَخْجَلُوا (١)\n(Onlara baş verən hadisələr və müharibələrin şiddəti qarşısında səbrsizləşmədilər və azğınlaşmadılar).\nSizin «خَجِلتُنّ» sözünüz haqqında deyilir: azğınlaşdınız və şımarıqlaşdınız; bu da bu باب (qapının) qiyasındadır. Ondan «خَجِل الوادِى» — vadidə milçəklərin səsi çoxaldı, deyilir. Həmçinin «أخْجَلَ الحَمْضُ» (çöl bitkisi uzandı) deyilir; bu da qiyasdır; çünki o uzandıqda (tarla və ya bitki) qarışıq olar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:40.620Z"
+}

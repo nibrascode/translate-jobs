@@ -1,0 +1,17 @@
+{
+ "i": 1351,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دبس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 326,
+  "page_to": 326
+ },
+ "ar": "الدال والباء والسين أصلٌ يدلُّ على عُصارةٍ فى لونٍ ليس بناصع. من ذلك الدِّبس، وهو الصَّقْر. والدُّبْسىُّ: طائرٌ؛ لأنّه بذلك اللّون.\nوجِئتَ بأُمورٍ دُبْسٍ، إذا جاء بها غيرَ واضحة. قال بعضُ أهل العلم: أَدْبَسَتِ الأرضُ فهى مُدْبِسَةٌ، إذا رُئِىَ (٢) فيها أوّلُ سواد النَّبت. فأمّا الكْثرة فهى الدِّبْسُ، وهو استعارةٌ، كما يقال لها الدَّهْماء والسوَّاد، فقد عاد إلى ذلك القياس.\nويقولون الدَّباساء، على فَعِالاء، للإناث من الجراد.",
+ "az": "[دبس] الدال (dal), الباء (ba) və السين (sin) hərfləri parlaq olmayan rəngdə olan bir şirəyə işarə edir. Buradan الدِّبس (əd-dibs) gəlir, bu şahin deməkdir. الدُّبْسىُّ (əd-dubsi): bir quşdur; çünki o, həmin rəngdədir. جِئتَ بأُمورٍ دُبْسٍ (ci'tə bi-umurin dubsin) - aydın olmayan işlər gətirdin deməkdir. Bəzi alimlər dedilər: أَدْبَسَتِ الأرضُ فهى مُدْبِسَةٌ (əd-bəsəti-l-ərdu fəhiya mudbisətun) - bitkinin ilk qaralığı göründükdə deyilir. Çoxluğa gəldikdə, bu الدِّبس (əd-dibs)dir, bu bir məcazdır, necə ki, ona الدَّهْماء (əd-dəhma') və السوَّاد (əs-səvad) deyilir, beləliklə, həmin ölçüyə qayıdır. Onlar çəyirtkənin dişisi üçün فَعِالاء (fə'alə') vəznində الدَّباساء (əd-dəbasa') deyirlər.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1396,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذعق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 355,
+  "page_to": 355
+ },
+ "ar": "الذال والعين والقاف، ليس أصلاً ولا فيه لغة، لكنّ الخليلَ زعم أنَّ الذُّعاف لغة فى الذُّعاق، ثم قال: ما أَدرِى أَلغة هى (١) أم لُثْغَةٌ.\nوكان ابنُ دريدٍ يقول: الذُّعاق كالزُّعاق، وهو الصِّياح. يقال ذَعَق وزعَق، إذا صاحَ، بمعنًى.",
+ "az": "[ذعق] الذال والعين والقاف، ليس أصلاً ولا فيه لغة، لكنّ الخليلَ زعم أنَّ الذُّعاف لغة فى الذُّعاق، ثم قال: ما أَدرِى أَلغة هى (١) أم لُثْغَةٌ (Zal, ayn və qaf hərfləri nə əsl, nə də lüğətdir; lakin Xəlil iddia etmişdir ki, əz-zu'af sözü əz-zu'aq sözündə lüğətdir, sonra dedi: bilmirəm bu lüğətdirmi, yoxsa pəltəklikdir). وكان ابنُ دريدٍ يقول: الذُّعاق كالزُّعاق، وهو الصِّياح (İbn Dureyd deyirdi: əz-zu'aq əz-zu'aq kimidir, bu da qışqırıqdır). يقال ذَعَق وزعَق، إذا صاحَ، بمعنًى (Deyilir: za'aqa və za'aqa, qışqırdığı zaman eyni mənadadır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:22:31.498Z"
+}

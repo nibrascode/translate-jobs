@@ -1,0 +1,17 @@
+{
+ "i": 2072,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شعى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 190,
+  "page_to": 190
+ },
+ "ar": "الشين والعين والحرف المعتل، أصلٌ يَدُلُّ على مِثل ما دل عليه الذى قَبْله. يقال أشعَى القومُ الغارةَ إشعاء، إذا أشْعَلوها. وغارةٌ شَعْواء:\nفاشية. قال ابنُ قيس الرّقيّات:\nكيفَ نَومِى على الفِراشِ ولمَّا … تَشْمَل الشّامَ غارةٌ شعواءُ (٣)",
+ "az": "[شعى] الشين والعين والمحترق (və ya حرف المعتل) — özündən əvvəlkinin bildirdiyi mənanın bənzərinə dəlalət edən bir kökdür. «أشْعَى القومُ الغارةَ إشعاء» (tayfa basqını sürətləndirdi və yaydı) deyilir, necə ki «أشْعَلوها» (onu alovlandırdılar) deyirlər. Və «غارةٌ شَعواء» (şəva basqın): hər yana yayılmış, şiddətli basqın. İbn Qeys ər-Rüqəyyat demişdir: «Nəğmə oxuyan basqın Şamı bürüb tərk etməmiş, mən yataqda necə yata bilərəm?» (٣)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:23.799Z"
+}

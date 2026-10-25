@@ -1,0 +1,17 @@
+{
+ "i": 138,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أنس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 145,
+  "page_to": 145
+ },
+ "ar": "الهمزة والنون والسين أصلٌ واحد، وهو ظهورُ الشئ، وكلُّ شئٍ خالَفَ طريقة التوحُّش. قالوا: الإنْس خلاف الجِنّ، وسُمُّوا لظهورهم.\nيقال آنَسْتُ الشئ إذا رأيتَه. قال اللّه تعالى: ﴿فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْداً﴾. ويقال:\nآنَسْتُ الشئَ إذا سمعتَه. وهذا مستعارٌ من الأوّل. قال الحارث (١):\nآنَسَتْ نَبأةً وأفزعَها القُ … نَّاصُ عَصْراً وقد دَنَا الإمساءُ\nوالأُنْس: أنْسُ الإنسانِ بالشئ إذا لم يسْتَوْحِشْ (٢) منه. والعرب تقول:\nكيف ابن إنْسِك؟ إِذا سأله عن نفسه. ويقال إنسان وإنسانان وأناسىُّ. وإنسان العين: صَبِيّها الذى فى السَّواد (٣).",
+ "az": "[أنس] (Ə-N-S)\nHəmzə, nun və sin hərfləri tək bir əslə (kökə) dəlalət edir, o da bir şeyin görünməsi/üzə çıxması və ürkəklik/vəhşilik qaydasına əks olan hər bir şeydir. Demişlər ki: «الإنْس» (insanlar) — «الجِنّ» (cinlər) sözünün əksidir, görünən olduqları üçün belə adlandırılmışlar. Bir şeyi gördükdə «آنَسْتُ الشئ» deyilir. Uca Allah buyurur: ﴿فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْداً﴾ (mənaca tərcümə: \"Əgər onların həddi-buluğa çatdıqlarını (və ağıllandığını) görsəniz...\"). Bir şeyi eşitdikdə də «آنَسْتُ الشئَ» deyilir. Bu, birinci mənadan müstəardır (istiarə olunmuşdur). Əl-Haris demişdir:\nآنَسَتْ نَبأةً وأفزعَها القُ … نَّاصُ عَصْراً وقد دَنَا الإمساءُ\n«الأُنْس» — insanın bir şeyə öyrəşməsi, ondan ürkməməsidir. Ərəblər bir kəsdən özü haqqında soruşduqda: «كيف ابن إنْسِك؟» (Özün necəsən?) deyirlər. Həmçinin «إنسان» (insan), «إنسانان» (iki insan) və «أناسىُّ» (insanlar) deyilir. «إنسان العين» isə — göz bəbəyindəki qara nöqtədir.",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T00:21:39.493Z"
+}

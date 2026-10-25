@@ -1,0 +1,17 @@
+{
+ "i": 1171,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خيف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 234,
+  "page_to": 235
+ },
+ "ar": "الخاء والياء والفاء أصلٌ واحد يدل على اختلافٍ.\nفالخَيَف: أن تكون إحدى العينَين من الفَرَس زرقاءَ والأُخْرى كَحْلاء. ويقال:\nالنَّاس أخْيافٌ، أى مختلِفون. والخَيْفَان: جرادٌ تصير فيه خطوطٌ مختلِفة.\nوالْخَيْف: ما ارتَفَع عن مَسِيل الوادى ولم يبلُغْ أن يكون جبلاً، فقد خالَفَ السّهلَ والجبَل. ومن هذا الخَيْف: جِلْدُ الضَّرع، مشبّهٌ بخَيْف الأرض. وناقَةٌ خَيْفَاء:\nواسعةُ جِلْد الضَّرع. وبعيرٌ أخيَفُ: واسع جلد الثِّيل. فأمّا الخِيفُ فجمع خِيفَةٍ\nوليس من هذا الباب، وقد ذكر فى باب الواو بعد الخاء، وإنّما صارت الواو ياءً لكسرةِ ما قبلها. وقال:\nفلا تَقْعُدَنّ على زَخَّةٍ … وتُضْمِرَ فى القَلْبِ وجْداً وخِيفاَ (١)",
+ "az": "[خيف] الخاء والياء والفاء ( x, y, f ) — ixtilafa (fərqliliyə) dəlalət edən tək bir əsasdır. «الخَيَف» — atın gözlərindən birinin mavi, digərinin sürməyi olmasıdır. Deyilir: «النَّاس أخْيافٌ» yəni fərqli-fərqlidirlər. «الخَيْفَان» — üzərində fərqli xəttlər olan çəyirtkədir. «الْخِيف» — vadinin axarından yuxarı qalxan, lakin dağ səviyyəsinə çatmayan yerdir, o, beləcə düzənlikdən və dağdan fərqlənmişdir. Eləcə də «الخَيْف» — məmə dərisidir, yerin «خَيْف»inə bənzədilmişdir. «ناقَةٌ خَيْفَاءُ» — məmə dərisi geniş olan dişi dəvədir. «بعير أخيَفُ» — cinsiyyət orqanının dərisi geniş olan dəvədir. «الخِيفُ» sözünə gəlincə, o, «خِيفَة»nin cəmidir və bu babdan deyil; o, xadan sonra «واو» babında zikr edilmişdir, «واو» hərfi özündən əvvəlki hərfin kəsrəli olması səbəbiylə «ياء» hərfinə çevrilmişdir. [Şair] demişdir: Sən əsla sıxıntı və təzyiq üzərində oturma... Və qəlbində bir qəm və qorxu gizlətmə (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:52.484Z"
+}

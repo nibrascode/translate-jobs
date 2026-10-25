@@ -1,0 +1,17 @@
+{
+ "i": 531,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثقف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 382,
+  "page_to": 383
+ },
+ "ar": "الثاء والقاف والفاء كلمة واحدة إليها يرجع الفروع، وهو إقامة دَرْءِ الشئ. ويقال ثَقَّفْتُ القناةَ إذا أقَمْتَ عِوَجَها. قال:\nنَظَرَ المثقَّفِ فى كُعوب قناتِهِ … حَتَّى يقيم ثِقافُهُ منآدَها (١)\nوثَقِفْتُ هذا الكلامَ من فلانٍ. ورجل ثَقِفٌ لَقْفٌ، وذلك أنْ يصيب عِلمَ ما يَسمعُه على استواء. ويقال ثقِفْت به إذا ظَفِرْت به. قال:\nفأمَّا تَثْقَفُونى فاقتُلونى … وإنْ أُثْقَفْ فسوف تَرَوْنَ بَالِى (٢)\nفإنْ قيل: فما وجْهُ قُربِ هذا من الأوّل؟ قيل له: أليس إذا ثَقِفَهُ فقد أَمسَكَه.\nوكذلك الظَّافر بالشئِ يُمسكُه. فالقياس بأخْذِهما مأخَذاً واحداً.",
+ "az": "[ثقف] (Sə, qaf və fa) budaqların qayıtdığı tək bir kəlmədir, o da bir şeyin əyriliyini düzəltməkdir. Deyilir: ثَقَّفْتُ القناة (mən nizəni düzəltdim) – onun əyriliyini düzəltdiyin zaman. (Şair) demişdir:\nنَظَرَ المثقَّفِ فى كُعوب قناتِهِ … حَتَّى يقيم ثِقافُهُ منآدَها (١)\n(Mənanın tərcüməsi: Qamış nizənin buğumlarına baxan təcrübəli ustanın baxışı kimi, ta ki onun düzəldicisi onun əyriliyini düzəltsin.)\nVə ثَقِفْتُ هذا الكلامَ من فلانٍ (mən bu sözü fılankəsdən əldə etdim/mənimsədim). Və kişi ثَقِفٌ لَقْفٌ (zirək, iti ağıllı) – bu, eşitdiyi elmi düzgün şəkildə qavramasıdır. Deyilir: ثقفْت به (ona qalib gəldim) – onu ələ keçirdiyin zaman. (Şair) demişdir:\nفأمَّا تَثْقَفُونى فاقتُلونى … وإنْ أُثْفَفْ فسوف تَرَوْنَ بَالِى (٢)\n(Mənaca tərcüməsi: Əgər məni ələ keçirsəniz, məni öldürün; əgər mən ələ keçirilsəm, onda mənim halımı görəcəksiniz.)\nƏgər deyilərsə: Bunun birincisinə yaxınlığının vəchi nədir? Ona cavab verilir: Məgər o, onu tutduqda ələ keçirmiş olmurmu? Həmçinin bir şeyə qalib gələn onu əlində saxlayır. Deməli, ölçü hər ikisini eyni yolla götürməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.492Z"
+}

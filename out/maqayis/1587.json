@@ -1,0 +1,17 @@
+{
+ "i": 1587,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رنى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 443,
+  "page_to": 443
+ },
+ "ar": "الراء والنون والحرف المعتلّ أصلٌ واحد، يدلُّ على النّظَر.\nيقال رنا يرنُو، إذا نظَرَ، رُنُوًّا. والرَّنَا: الشئ الذى تَرْنُو إليه، مقصور.\nوظلَّ فلانٌ رانياً، إذا مدّ بصرَه إلى الشئ. ويقال أرْنانِى حُسْنُ ما رأيت، أى أعجبَنى. وفُسِّر قولُ ابنِ أحمرَ على هذا:\nمَدَّت عليه المُلْكَ أطنانَها … كأسَ رَنَوْناةٌ وطِرفٌ طِمِرّ (١)\nويقال إنه لم يسمعْ إلا منه، وكأنه الكأس التى يرنُو لها مَنْ رآها إعجاباً منه بها. ويقال فلان رَنُوُّ فلانةَ، إذا كان يُديم النظرَ إليها، واليُرَنَّا: الحِنّاء، يجوز أن يكون من الباب، ويجوز أن يقال هو شاذّ. ومما شذّ عن الباب الرُّنَاء:\nالصَّوت.",
+ "az": "[رنى] (رنى) - raء, nun və məxrəci uzanan hərf baxışa dəlalət edən tək bir əsldir.\nDeyilir: «رنا يرنُو» (rəna yəru) - baxdı, baxışla (رُنُوًّا - runuən). «الرَّنَا» (əl-rəna) - baxdığın şeydir, qəsrlidir (məkসুরdur).\nFilankəs «رانياً» (raniyən) olaraq qaldı, yəni baxışını bir şeyə zillədi. Deyilir: «أرْنانِى حُسْنُ ما رأيت» (ərnani husnu mə raəyt), yəni gördüyüm şeyin gözəlliyi xoşuma gəldi. İbn Əhmərin sözü də buna yozulmuşdur:\nمَدَّت عليه المُلْكَ أطنانَها … كأسَ رَنَوْناةٌ وطِرفٌ طِمِرّ (١)\n(Mülk öz ipərini onun üzərinə uzatdı... Cazibədar kasa və cəld at)\nDe老板dir ki, bu, yalnız ondan eşidilib və sanki o, görənlərin heyrətlənərək baxdığı kosadır. Deyilir ki, filankəs filankəsin «رَنُوُّ» (rənuvu) -dur, yəni ona davamlı baxandır. «اليُرَنَّا» (əl-yurənnə) - xınadır, ehtimal ki, bu باب-dandır, yaxud da şaz (istisna) olduğu da deyilə bilər. Bu باب-dan şaz olan isə «الرُّنَاء» (əl-runau) - səsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

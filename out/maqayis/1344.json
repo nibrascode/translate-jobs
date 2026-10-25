@@ -1,0 +1,17 @@
+{
+ "i": 1344,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دأل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 321,
+  "page_to": 321
+ },
+ "ar": "الدال والهمزة واللام يدل على خِفّة ونَشْطَةٍ (١). فالدَّأَلَانُ:\nالمشْىُ بنَشاط. يقال منه دَألْتُ أدْأَل. والدَّأْل: الخَتْل. ويقولون: الدُّؤُلُول الدّاهية؛ وهو قريب من الباب والدؤَل قَبِيلةٌ.",
+ "az": "[دأل] الدال (dal), الهمزة (həmzə) və اللام (lam) hərfləri yüngüllük və çevikliyə (١) işarə edir. الدَّأَلَانُ (əd-də'ələn): çevikliklə yerimək. Ondan دَألتُ أدْأَل (də'əltu əd'əlu) deyilir. الدَّأْل (əd-də'l): hiyləgərlik. Deyirlər ki, الدُّؤُلُول (əd-du'ulul) bəla deməkdir; bu, yuxarıdakı babla yaxındır. الدؤَل (əd-du'əl) isə bir qəbilədir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

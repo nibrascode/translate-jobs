@@ -1,0 +1,17 @@
+{
+ "i": 2513,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طمس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 424,
+  "page_to": 424
+ },
+ "ar": "الطاء والميم والسين أصلٌ يدلُّ على محوِ الشئ ومسحِه.\nيقال طَمَسْتُ الخَطّ، وطمست الأثرَ. والشئُ طامسٌ أيضاً. وقد طَمَس هو بنفسه.",
+ "az": "«طمس» — الطاء والميم والسين أصلٌ يدلُّ على محوِ الشئ ومسحِه (Ta, mim və sin bir şeyi silməyə və məhv etməyə dəlalət edən bir kökdir). يقال طَمَسْتُ الخَطّ، وطمست الأثرَ (Xətti sildim və izi məhv etdim demək olar). والشئُ طامسٌ أيضاً (Və şey həmçinin tamisdir). وقد طَمَس هو بنفسه (Və o, öz-özünə silinib getdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:31.509Z"
+}

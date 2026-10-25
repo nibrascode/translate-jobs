@@ -1,0 +1,17 @@
+{
+ "i": 1965,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 120,
+  "page_to": 121
+ },
+ "ar": "السين والياء والراء أصلٌ يدلُّ على مضىٍّ وجَرَيان يقال سار يسير سيراً، وذلك يكونُ ليلاً ونهاراً. والسِّيرة: الطَّريقة\nفى الشئ والسُّنّة، لأنَّها تسير وتجرى. يقال سارت، وسِرْتُها أنا. قال:\nفلا تجزَعَنْ مِنْ سُنّة أنْتَ سِرتَها … فأوَّلُ راضٍ سُنَّةً مَنْ يسيرُها (١)\nوالسَّيْر: الجِلْد، معروف. وهو من هذا، سمِّى بذلك لامتداده؛ كأنَّه يجرِى.\nوسَيَّرتُ الجُلَّ عن الدّابَّة، إِذا ألقيتَه عنه. والمُسَيَّر منَ الثِّياب: الذى فيه خطوطٌ كأنَّه سيور",
+ "az": "[سير] Sin, ya və ra hərfləri keçib getməyə və axıcılığa/hərəkətə dəlalət edən bir əslir. Deyilir: «سار يسير سيراً» (getdi, gedir, getmək), bu da həm gecə, həm də gündüz olur. «السِّيرة» (sirət) – bir işdəki yol və sünnədir, çünki o, gedir və cari olur. Deyilir: «سارت» (o getdi) və «سِرْتُها أنا» (mən onunla getdim/onu tətbiq etdim). [Şair] demişdir:\nفلا تجزَعَنْ مِنْ سُنّة أنْتَ سِرتَها … فأوَّلُ راضٍ سُنَّةً مَنْ يسيرُها (١)\n(Tətbiq etdiyin bir sünnədən ötrü əsla kədərlənmə... Sünnədən ilk razı qalan onu yerinə yetirəndir)\n«السَّيْر» (səyr) – məlum olan dəridir. O da bu mənadandır, uzandığı/axıb getdiyi üçün belə adlandırılmışdır. \n«سَيَّرتُ الجُلَّ عن الدّابَّة» (heyvanın örtüyünü üstündən atdım), yəni onu üstündən endirdin. «المُسَيَّر» (müsəyyər) paltarlar – içərisində qayışlar/zolaqlar kimi xətlər olan parçadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

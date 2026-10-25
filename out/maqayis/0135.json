@@ -1,0 +1,17 @@
+{
+ "i": 135,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أنت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 143,
+  "page_to": 144
+ },
+ "ar": "الهمزة والنون والتاء، شذَّ عن كتاب الخليل فى هذا النّسق، وكذلك عن ابن دريد (٤). وقال غيرهما: وهو يأنِت أى يَزْحَرُ (٥). وقالوا أيضاً:\nالمأنُوتُ المعْيُون. هذا عن أبى حاتم. ويقال المأنوت المُقَدَّر. قال:\n* هيهات منها ماؤُها المأَنُوتُ *",
+ "az": "[أنت] (Ə-N-T)\nHəmzə, nun və ta. Bu düzülüş əl-Xəlil kitabında, habelə İbn Dureyddə (٤) şazdır (kənaraçıxmadır/istisnadır). Onlardan başqası isə demişdir: «هو يأنِت» (o, inildəyir/zırıldayır), yəni «يَزْحَرُ» (görəşib inildəyir) (٥). Həmçinin demişlər: «المأنُوتُ» — göz dəymiş (nəzərə gəlmiş) kimsədir. Bu, Əbu Hatimdən rəvayət olunur. Deyilir ki, «المأنوت» həm də qədəri/qisməti müəyyən edilmiş deməkdir. Şair demişdir:\n* هيهات منها ماؤُها المأَنُوتُ *\n(Ondan nə qədər uzaqdır onun müəyyən edilmiş/ölçülüb-biçilmiş suyu!)",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T00:21:39.493Z"
+}

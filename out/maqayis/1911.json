@@ -1,0 +1,17 @@
+{
+ "i": 1911,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 98,
+  "page_to": 98
+ },
+ "ar": "السين والميم والهاء أصلٌ يدل على حَيْرة وباطل. يقال سَمَه إذا دُهِش، وهو سَامِهٌ وقوم سمّهٌ. ويقولون: سَمَه البعيرُ، إذا لم يعرف الإِعياء (١).\nوذهبت إبُلهم السُّمَّهَى، إذا تفرَّقت. والسُّمَّهَى (٢): الباطل والكذب. فأما قولُ رؤبة:\nجَرْىَ السُّمَّهِ (٣)",
+ "az": "[سمه] (sin, mim və hə) — çaşqınlığa və batilə dəlalət edən bir əsasdır. «سَمَه» — çaşqın vəziyyətə düşdükdə deyilir, o «سَامِهٌ» (çaşqın), tayfa isə «سمّهٌ» olur. Deyirlər: «سَمَه البعيرُ» — dəvə yorğunluğunu bilmədikdə (belə deyilir) (١). Onların dəvələri «السُّمَّهَى» olaraq dağılıb getdi. «السُّمَّهَى» (٢) — batil və yalandır. Rۇbənin bu sözünə gəldikdə: «جَرْىَ السُّمَّهِ» (٣)...",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.158Z"
+}

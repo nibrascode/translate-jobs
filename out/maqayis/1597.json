@@ -1,0 +1,17 @@
+{
+ "i": 1597,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 447,
+  "page_to": 447
+ },
+ "ar": "الراء والهاء والهمزة لا تكون إلاَّ بدَخيل (٢)، وهى الرَّهْيأَة، وذلك يدلُّ على قلَّة اعتدالٍ فى الشئ. فالرَّهْيأة: أن يكون أحد عِدْلى الحِمل أثْقَل من الآخَر. رَهْيَأْتَ حِمْلك؛ ورهيَأْتَ أمرك، إذا لم تقوِّمْه. والرَّهيأة:\nالعجْز والتّوانىِ. ويقال ترهْيأَ فى أمرِه، إذا همَّ به ثُمَّ أمسَكَ عنه. ومنه الرَّهيأة:\nأنْ تَغرورِقَ العينانِ. وتَرَهْيَأت السّحابةُ، إذا تمخَّضَتْ للمطر",
+ "az": "[رهأ] «الراء» (ra), «هاء» (hə) və «همزة» (həmzə) yalnız başqa dildən gəlmə (2) ola bilər, bu da الرَّهْيأَة (ərrəhyə) sözüdür ki, bir şeydə müvazinətin azlığına dəlalət edir.\nFəsildən: الرَّهْيأة (ərrəhyə) — yükün iki tayından birinin digərindən daha ağır olmasıdır. رَهْيَأْتَ حِمْلك (rəhyərtə himlək) — yükünü düzəltmədin; və رهيَأْتَ أمرك (rəhyərtə əmrək) — işini səliqəyə salmadıqda.\nVə الرَّهْيأة (ərrəhyə) — acizlik və süstlükdür. Deyilir: ترهْيأَ فى أمرِه (tərhəyə fi əmrih) — işində tərəddüd edib sonra ondan əl çəkdikdə. Həmçinin الرَّهيأة (ərrəhyə) — gözlərin yaşarmasıdır. Və تَرَهْيَأت السّحابةُ (tərhəyətis-səhəbətu) — bulud yağış üçün dalğalandığı zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

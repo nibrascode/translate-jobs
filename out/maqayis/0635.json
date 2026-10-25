@@ -1,0 +1,17 @@
+{
+ "i": 635,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 452,
+  "page_to": 452
+ },
+ "ar": "الجيم والراء والذال كلمةٌ واحدة: الجُرَذْ الواحد من الجُرْذان، وبه سمِّى الجَرَذُ الذى يأخُذُ فى قوائم الدابّة. فأمّا قولهم رجل مُجَرّدٌ أى مجرَّب، فهو من باب الإبدال، وليس أصلاً",
+ "az": "[جرذ] (Cim, ra və zal) tək bir sözdür: الجُرَذْ (cürəz) – cürzanların (siçanların) təkidir, minik heyvanlarının ayaqlarını tutan جَرَذ (cərəz) xəstəliyi də bundan adlanmışdır. Kişinin مُجَرّدٌ (mücərrəd – təcrübəli) olması sözünə gəldikdə isə, bu, hərflərin əvəzlənməsi babındandır, əsas kök deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:46:13.021Z"
+}

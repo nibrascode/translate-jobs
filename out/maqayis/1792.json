@@ -1,0 +1,17 @@
+{
+ "i": 1792,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 36,
+  "page_to": 36
+ },
+ "ar": "الزاء والواو والدال أصلٌ يدلُّ على انتقالٍ بخيرٍ، من عملٍ أو كسب. هذا تحديدٌ حَدَّه الخليل. قال كلُّ مَنْ انتقل معه بخيرٍ مِنْ عملٍ أو كسب فقد تزوَّد. قال غيره: الزَّود: تأسيس الزاد، وهو الطعام يُتَّخَذ للسَّفر. والمِزْوَد: الوعاء يُجعَل للزاد. وتلقَّب العَجمُ برِقاب المَزاوِدِ",
+ "az": "[زود] الزاء والواو والدال (z-w-d) xeyirlə, əməllə və ya qazabla başqa bir yerə köçməyə dəlalət edən tək bir əsasdır. Bu, Xəlilin müəyyən etdiyi bir tərrifdir. O demişdir: Əməldən və ya qazancdan özü ilə hər hansı bir xeyir aparan hər kəs azuqə götürmüş (تزوَّد) sayılır. Başqası demişdir: الزَّود (əl-zəvd) - azuqənin əsasının qoyulmasıdır; azuqə isə səfər üçün hazırlanan yeməkdir. المِزْوَد (əl-mizvəd) - azuqə qoyulan qabdır. Əcəmlər məzavidin boyunları ilə ləqəblənirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:39.990Z"
+}

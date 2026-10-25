@@ -1,0 +1,17 @@
+{
+ "i": 305,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 296,
+  "page_to": 296
+ },
+ "ar": "الباء واللام والجيم أصلٌ واحدٌ منقاس، وهو وضوحُ الشَّئ وإشراقُه. البَلَجُ الإشراق، ومنه انبلاج الصُّبح. قال:\n* حتَّى بدَتْ أعناقُ صُبْحٍ أبْلَجا * (٤)\nويقول العرب: «الحقُّ أبْلَجُ والباطلُ لَجْلَجٌ». وقال:\nألم تَرَ أنَّ الحقَّ تلقاهُ أبْلَجاً … وأنَّك تلقَى باطِلَ القومِ لجْلَجَا (٥)\nويقال للذى ليس بمقْرُونِ الحاجبيْن أبلج، وذلك الإشراقُ الذى بينهما بُلْجة. قال:\nأبلَجُ بينَ حاجِبَيه نُورُه … إذا تعدى رُفْعَت مبتوره (٦)",
+ "az": "[بلج] (bələc): Ba, lam və cim hərfləri aydın və qanunauyğun tək bir əsərə malikdir, o da şeyin aydın və parlaq olmasıdır. الْبَلَجُ (əl-bələc) – parıltıdır, səhərin açılması (انبلاج الصبح - inbilacus-subh) də bundan götürülmüşdür. O demişdir:\n* حَتَّى بَدَتْ أَعْنَاقُ صُبْحٍ أَبْلَجَا *\n(Nəhayət, aydın səhərin boyunları göründü)\n\nƏrəblər: «الحَقُّ أَبْلَجُ وَالبَاطِلُ لَجْلَجُ» (Haqq aydın və parlaqdır, batil isə dolaşıqdır) deyirlər. O demişdir:\nأَلَمْ تَرَ أَنَّ الحَقَّ تَلْقَاهُ أَبْلَجَا ... وَأَنَّكَ تَلْقَى بَاطِلَ القَوْمِ لَجْلَجَا\n(Görmürsənmi ki, haqqı həmişə parlaq və aydın görürsən, qövmün batilini isə dolaşıq görürsən)\n\nQaşları bitişik olmayan kəsə أَبْلَجُ (əbləc) deylər, onların arasındakı o parıltı isə بُلْجَةٌ (bülcəh) adlanır. O demişdir:\nأَبْلَجُ بَيْنَ حَاجِبَيْهِ نُورُهُ ... إِذَا تَعَدَّى رُفْعَتْ مُبْتُورُهُ\n(Qaşlarının arasından nurlu aydınlıq saçılan, əgər həddini aşarsa kəsik yeri qaldırılan)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:13.981Z"
+}

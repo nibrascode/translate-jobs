@@ -1,0 +1,17 @@
+{
+ "i": 1562,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 433,
+  "page_to": 433
+ },
+ "ar": "الراء والكاف والحاء أصلٌ واحد، وهو يدل على إنابةٍ إلى شئٍ ورُجوعٍ إليه. قال الخليل: الرُّكوح: الإنابة إلى الأمر. وأنشد:\nرَكَحْتُ إليها بعد ما كنتُ مُجْمِعاً … على هَجْرِها وانسبْتُ باللَّيل ثائرَا (١)\nفهذا هو الأصل. ثمَّ يقال لرُكْن الجبلِ المُنيفِ الصّعبِ رُكْح. والرُّكْح والرُّكْحة: سَاحة الدّار. والرُّكْحة البقيّة من الثَّريد تبقى فى الجَفْنة، كأنّه شئ أوى إلى أسفل الجَفْنة. ويقال جَفْنةٌ مرتكِحةٌ، إذا كانت مكتنِزةً بالثَّريد ومن الباب: سَرْجٌ مِركاحٌ، إذا كان يتأخَّر عن ظَهْر الفَرس.",
+ "az": "[ركح] (rakəh) — ra, kaf və ha tək bir əslə dəlalət edir, o da bir şeyə yönəlmək və ona qayıtmaqdır. Xəlil demişdir: «الرُّكوح (ruku h)» — işə yönəlib qayıtmaqdır. O, bu beyt ilə istinad etmişdir: * رَكَحْتُ إليها بعد ما كنتُ مُجْمِعاً … على هَجْرِها وانسبْتُ باللَّيل ثائرَا * (Onu tərk etməyi qərara aldıqdan sonra ona yönəldim və gecə vaxtı üsyan edərək irəlilədim). Budur əsl məna. Sonra dağın uca, çətin olan zirvəsinin küncünə «رُكْح (ruk h)» deyilir. «الرُّكْح (ruk h)» və «الرُّكْحة (ruk hət)» — evin həyətidir. «الرُّكْحة (ruk hət)» — çanaqda qalan və sərid (ətli tikəli çörək yeməyi)dən qalan qalıqdır, sanki çanağın aşağısına sığınmış bir şeydir. Deyilir: «جَفْنةٌ مرتكِحةٌ (dolu, qabarıq çanaq)» — sərid ilə dolub şişdiyi zaman. Bu fəsildəndir: «سَرْجٌ مِركاحٌ (yəhər arxaya sürüşən)» — atın belindən geriyə çəkilən yəhər olduğu zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:31:13.504Z"
+}

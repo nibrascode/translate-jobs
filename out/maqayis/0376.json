@@ -1,0 +1,17 @@
+{
+ "i": 376,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "ومن ذلك (تَبَزْعَرَ (٣)) أى ساء خُلُقُه. وهذا من الزَّعَر والزَّعَارَة، والتَّبَزُّع. وقد فُسِّرا فى مواضِعِهما من الثلاثى.",
+ "az": "[بزعر] (Bə-zə-əyn-ra) Buradan «تَبَزْعَرَ» (təbəz’ərə) gəlir, yəni əxlaqı pisləşdi. Bu, «الزَّعَر» (əz-zə’ər), «الزَّعَارَة» (əz-zə’arə) və «التَّبَزُّع» (ət-təbəzzu’) kəlmələrindəndir. Bunlar üç hərflilərdə öz yerlərində izah edilmişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

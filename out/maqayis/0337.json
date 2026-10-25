@@ -1,0 +1,17 @@
+{
+ "i": 337,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 312,
+  "page_to": 312
+ },
+ "ar": "الباء والهاء والنون كلمةٌ واحدة، وفيها أيضاً ردّة (١) يقال البَهْنانة المرأة الضَّحّاكة، ويقال الطّيِّبة الرِّيح. وقوله:\nألَا قالَتْ بَهَانِ ولم تأبَّقْ … بَلِيتَ ولا يَلِيقُ بك النَّعيمُ (٢)\nفإنَّه أراد الاسمَ الذى ذكَرْناه، فأخْرَجَه على فَعَالِ.",
+ "az": "«ب» (با), «ه» (هə) və «ن» (nun) tək bir kəlmədir, onda təkrarlanma da vardır (١). Deyilir ki, «البَهْنانة» – çox gülümsəyən qadındır, həm də gözəl qoxulu qadına deyilir. Onun bu sözü:\nألَا قالَتْ بَهَانِ ولم تأبَّقْ … بَلِيتَ ولا يَلِيقُ بك النَّعيمُ (٢)\nO, burada qeyd etdiyimiz adı qəsd etmiş, onu «فَعَالِ» (fəali) vəznində gətirmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:34:14.633Z"
+}

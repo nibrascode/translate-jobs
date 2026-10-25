@@ -1,0 +1,17 @@
+{
+ "i": 1255,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دغر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 285,
+  "page_to": 285
+ },
+ "ar": "الدال والغين والراء أصلٌ واحد، وهو الدَّفْع والتَّقَحُّمُ فى الشَّئ،\nقال رسول اللّه ﵌ للنِّساء: «لا تُعذَّبْنَ أولادَكُنَّ بالدَّغْرِ». فالدَّغْر: غَمْزُ الحَلْق من العُذْرة (٢)، والعُذْرة: داءٌ يَهِيج فى الحَلْق من الدَّم، ويقال هُوَ مَعْذُور. قال جرير:\nغَمَزَ ابنُ مُرَّة يا فَرزْدَقُ كَيْنَها … غَمْزَ الطّبيبِ نغَانِغَ المَعذُورِ (٣)\nودَغَرْت القومَ، إذا دخَلْتَ عليهم. وكلامٌ لهم، يقولون: «دَغْراً لا صَفًّا (٤)»، يقول: ادْغُروا عليهم، لا تُصَافُّوهُم. والدَّغرة: الخَلْسَة؛ لأنَّ المختِلس يدفع نفْسَه على الشّئ. و\nفى الحديث: «لا قَطْعَ فى الدَّغْرة».",
+ "az": "«دغر» (د-غ-ر): dal, eyn və ra hərfləri tək bir əsas mənaya malikdir ki, o da bir şeyə tərəf itələmək və qəfil soxulmaqdır.\nPeyğəmbər (sallallahu əleyhi və səlləm) qadınlara demişdir: «لا تُعذَّبْنَ أولادَكُنَّ بالدَّغْرِ» («Uşaqlarınızı dəğr ilə əzablandırmayın»). «الدَّغْر» (dəğr): uşaqlarda badamcıq xəstəliyindən («العُذْرة») ötrü boğazı sıxmaqdır. «العُذْرة» (əl-üzrə): qandan qaynaqlanan və boğazda coşan bir xəstəlikdir. Belə adama «مَعْذُور» (məüzur) deyilir. Cərir demişdir:\nغَمَزَ ابنُ مُرَّة يا فَرزْدَقُ كَيْنَها … غَمَزَ الطّبيبِ نغَانِغَ المَعذُورِ\n(Ey Fərzədaq, İbn Murrə onun övrət yerini elə sıxdı ki, sanki həkim məüzurun sallanan ətlərini sıxır).\n«دَغَرْت القومَ» — qövmün yanına soxuldun deməkdir. Onların bir kəlamı vardır, deyirlər: «دَغْراً لا صَفًّا» (Dəğran la səffan - Səf tutmadan qəfil hücum edin!), yəni onlara qəfil soxulun, qarşılarında səf tutmayın. «الدَّغرة» (dəğrə): oğurluq, qənimət; çünki oğurlayan kimsə özünü bir şeyin üzərinə atır. Hədisdə gəlmişdir: «لا قَطْعَ فى الدَّغْرة» («Dəğrədə əl kəsmək yoxdur»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.299Z"
+}

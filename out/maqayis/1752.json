@@ -1,0 +1,17 @@
+{
+ "i": 1752,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زكن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 17,
+  "page_to": 17
+ },
+ "ar": "الزاء والكاف والنون أصلٌ يُختلَف فى معناه. يقولون هو الظّنُّ، ويقولون هو اليقين. وأهل التحقيق من اللغويِّين يقولون: زكِنْتُ منك كذا، أى علِمْته. قال:\nولن يُراجِعَ قلبى حبَّهم أبداً … زَكِنْتُ منهم على مثل للذى زَكِنوا (٢)\nقالوا: ولا يقال أَزْكَنْت. على أن الخليل قد ذكر الإِزكان. ويقال إن الزّكَن الظَّنّ.",
+ "az": "[زكن] (zəkən): Zay, kaf və nun hərfləri mənasında ixtilaf edilən bir kökdür. Deyirlər ki, o, zənn (güman) mənasındadır, deyirlər ki, o, yəqinlikdir. Dilçilərdən təhqiq əhli (alimlər) deyirlər: «زكِنْتُ منك كذا» – yəni səndən filan şeyi bildim. O demişdir:\nولن يُراجِعَ قلبى حبَّهم أبداً … زَكِنْتُ منهم على مثل للذى زَكِنوا (٢)\n(Ürəyimə onların sevgisi əsla qayıtmaz, mən onların bildiyi kimi onlardan bildim)\nDedilər ki: «أَزْكَنْت» deyilməz. Halbuki Xəlil «الإِزكان» (izkan) sözünü qeyd etmişdir. Deyilir ki, «الزّكَن» – zənndir (gümandır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.126Z"
+}

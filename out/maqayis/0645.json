@@ -1,0 +1,17 @@
+{
+ "i": 645,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جسد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 457,
+  "page_to": 457
+ },
+ "ar": "الجيم والسين والدال يدلُّ على تجمُّع الشئ أيضاً واشتدادِه.\nمن ذلك جَسَدُ الإِنسان. والمِجْسَد: الذى يلى الجَسَد من الثِّياب. والجَسَدُ والجَسِد من الدم: ما يَبِسَ، فهو جَسَدٌ وجاسد: قال الطرماح:\n* منها جاسِدٌ ونَجِيعُ * (٢)\nوقال قوم: الجسَد الدّمُ نفسُه، والجَسِد اليابس.\nومما شذّ عن الباب الجَسَاد الزَّعفَران. فإِذا قلت هذا المِجْسَد بكسر الميم فهو الثوب الذى بَلِى الجَسَد قال: وهذا عند الكوفيِّين. فأمَّا البصريُّون فلا يعرفون إلا مُجْسَداً، وهو المُشبَع صِبْغاً.",
+ "az": "[جسد] Cim, sin və dal: bir şeyin toplanmasına və sərtləşməsinə dəlalət edir. İnsanın cəsədi (جَسَدُ الإِنسان) bundandır. Micsəd (المِجْسَد): bədənə yaxın olan paltardır. Qandan olan cəsəd (الجَسَدُ) və cəsid (الجَسِد): qurumuş qandır, o, cəsəd və casiddir: Tırmah demişdir: * منها جاسِدٌ ونَجِيعُ * (٢) (mənası: Ondan qurumuş olan və təzə qan). Bir qrup dedi: Cəsəd qanın özüdür, cəsid isə qurumuşudur. Bu kökdən kənar düşən sözlərdən biri də cəsad (الجَسَاد) - zəfərandır. Əgər mim hərfinin kəsri ilə micsəd (المِجْسَد) desən, bu, bədənə dəyən paltardır. Deyilir ki, bu, kufəlilərə görədir. Bəsrəlilər isə yalnız mucsəd (مُجْسَد) tanıyırlar, bu da boyası çox olan (doyğun) deməkdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.556Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2005,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سحو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 142,
+  "page_to": 142
+ },
+ "ar": "السين والحاء والحرف المعتل أصلٌ يدلُّ على قشر شئ عن شئ، أو أخذِ شئٍ يسير. من ذلك سَحَوت القِرطاسَ أسحوه. وتلك السِّحاءَة (٣).\nوفى السماء سِحاَءة من سحاب. فإذا شددته بالسِّحاءَة قلتَ سَحَيتُه، ولو قلت سحوتُه ما كان به بأس. ويقال سَحَوت الطِّين عن وجه الأرض بالمسْحاة أسحوه سَحواً وسَحياً، وأسحاه أيضا، وأَسحيه: ثلاث لغات. ورجلٌ أُسْحُوانٌ: كثير الأكل كأنّه يسحو الطّعامَ عن وجه المائدة أكلاً، حتَّى تبدُوَ المائدة. ومَطْرةٌ ساحية:\nتقشِر وجه الأرض.",
+ "az": "«سحو» (səhvə - qabıq soymaq, az miqdarda almaq): Sin, ha və uzadılma hərfi (mötəl) bir şeyi başqa bir şeyin üzərindən qabıq kimi soymağa və ya az miqdarda götürməyə dəlalət edən bir əsasdır. Bunlardan biri «سَحَوت القِرطاسَ أسحوه» (kağızın üzqatını soyub təmizlədim) sözüdür. Həmin qabıq da «السِّحاءَة» adlanır. Göydə buludun nazik təbəqəsi olan «سِحاَءة من سحاب» vardır. Əgər bunu «سِّحاءَة» sözü ilə gücləndirsən, «سَحَيتُه» deyərsən, lakin «سحوتُه» desən də heç bir qəbahəti yoxdur. Deyilir: «سَحَوت الطِّين عن وجه الأرض بالمسْحاة أسحوه سَحواً وسَحياً» (Palçığı yerin üzündən bel kürəyi ilə soyub təmizlədim), həmçinin «أسحاه» və «أسحيه» də deyilir — bunlar üç müxtəlif ləğvdir. «رجلٌ أُسْحُوانٌ» — çox yeyən kişi deməkdir, sanki süfrənin üzərindən yeməyi qazıyıb yeyir, nəticədə süfrə üzə çıxır. «مَطْرةٌ ساحية» — yerin üz qatını qazıb soyub aparan yağış deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:57.042Z"
+}

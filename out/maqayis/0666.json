@@ -1,0 +1,17 @@
+{
+ "i": 666,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جفز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 467,
+  "page_to": 467
+ },
+ "ar": "الجيم والفاء والزاء لا يصلح أن يكون كلاما إلا كالذى يأتى به ابنُ دريد، من أنّ الجَفْزَ السرعة (٢). وما أدرى ما أقول. وكذلك قوله فى الجِفْس وأنّه لغة فى الجِبْس (٣). وكذلك الجَفْس وهو الجمع (٤).",
+ "az": "[جفز] (cim, fa və zai) İbn Düridin gətirdiyi cəfzin sürət olması [fikri] xaricində söz olmağa yararlı deyildir. Mən nə deyəcəyimi bilmirəm. Həmçinin onun cifs haqqında dediyi ki, o cibsin lüğətindədir (٣). Həmçinin cəfs ki, toplamaqdır (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:09.224Z"
+}

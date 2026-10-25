@@ -1,0 +1,17 @@
+{
+ "i": 2272,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صقل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 296,
+  "page_to": 296
+ },
+ "ar": "الصاد والقاف واللام أُصَيلٌ يدلُّ على تمليسِ شئ، ثم يقاس على ذلك. يقال صَقَلْتُ السَّيْفَ أصقُله. وصائغ ذلك الصَّيقل. والصَّقِيل:\nالسَّيف. ويقال: الفرسُ فى صِقاله، أى صِوانِه، وذلك إذا أُحسن القيامُ عليه، كأَنّه يُصقَل صقلاً ويُصنَع.\nومن الباب الصُّقل من الإنسان والفرس، وهو الجنْب، والجنب أشدُّ الأعضاء ملاسةً، فلذلك سمِّى صُقلا، كأنَّه قد صُقِل. ويقال منه فرس صَقِلٌ، أى طويل الصُّقْلين.",
+ "az": "[صقل] (S-Q-L) — Sad, qaf və lam hərfləri bir şeyin hamarlanmasına dəlalət edən kiçik bir kökdür, sonra ona qiyas edilir. Deyilir: صَقَلْتُ السَّيْفَ أصقُله (qılıncı cilaladım, cilalayaram). Bunun zərgəri الصَّيقل (səyqəl) adlanır. الصَّقِيل (səqil): qılınc. Deyilir: الفرسُ فى صِقاله (at öz qorunmasında, səqalindədir), yəni ona yaxşı baxıldığı zaman, sanki o, cilalanır və düzəldilir.\n\nBu babdandır insanın və atın böyrü mənasında olan الصُّقل (suql). Böyrü bədənin ən hamar üzvüdür, ona görə də ona suql deyilmişdir, sanki o cilalanmışdır. Ondan deyilir: فرس صَقِلٌ (səqil at), yəni iki böyrü uzun olan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:47.389Z"
+}

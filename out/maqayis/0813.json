@@ -1,0 +1,17 @@
+{
+ "i": 813,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 14,
+  "page_to": 15
+ },
+ "ar": "الحاء والفاء ثلاثة أصول: الأول ضربٌ من الصّوت، والثانى أن يُطيفَ الشئُ بالشئ، والثالث شِدَّةٌ فى العيش.\nتفسير ذلك: الأول الحفيف * حفيفُ الشجرِ ونحوِه، وكذلك حفيفُ جَناح الطائر.\nوالثانى: قولهم حفّ القوم بفلانٍ إذا أطافُوا به. قال اللّه تعالى: ﴿وَتَرَى اَلْمَلائِكَةَ حَافِّينَ مِنْ حَوْلِ اَلْعَرْشِ﴾. ومن ذلك حِفافَا كلِّ شئِ: جانباه. قال طَرَفة:\nكَأَنّ جَناحَىْ مَضْرَحِىِّ تَكنَّفا … حِفَافَيْهِ شُكَّا فى العَسيبِ بِمْسرَدِ (١)\nومن هذا الباب: هو على حَفَفِ أمْرٍ أى ناحيةٍ منه، وكلُّ ناحيةِ شئِ فإنها تُطِيف به. ومن هذا الباب قولهم: «فلان يَحُفُّنا ويَرُفُّنا» كأنّه يشتمل علينا فيُعْطينا ويَمِيرُنا.\nوالثالث: الحُفُوف والحَفَف، وهو شدّة العيش ويُبْسُه. قال أبو زيد:\nحَفَّتْ أرضُنا وقَفَّتْ، إذا يبِسَ بَقْلُها. وهو كالشَّظَف. ويقال: هم فى حَفَفٍ من العَيش، أى ضيق ومحْلٍ، ثم يُجْرَى هذا حتى يقال رأسُ فلانٍ محفوفٌ وحافٌّ، إذا بَعدُ عهدُه بالدُّهن، ثم يقال حَفَّت المرأةُ وجْهها من الشّعر. واحتفَفْتُ النبتَ إذا جَزَزْتَه.",
+ "az": "«حف» (ح, ف) — üç əsas mənanı ehtiva edir: Birincisi, bir səs növüdür; ikincisi, bir şeyin digərini əhatə etməsi, bürüməsidir; üçüncüsü isə güzəranın çətin olmasıdır.\n\nBunun izahı:\nBirincisi, الحفيف (əl-hafif) — ağacların və bənzərlərinin xışıltısı, eləcə də quş qanadının xışıltısıdır.\nİkincisi, ərəblərin «حف القوم بفلان» (qövm filankəsin ətrafına doluşdu) sözüdür ki, onu əhatə etdikləri deməkdir. Uca Allah buyurmuşdur: ﴿وَتَرَى اَلْمَلائِكَةَ حَافِّينَ مِنْ حَوْلِ اَلْعَرْشِ﴾ (Mənaca tərcümə: «Mələklərin ərəşin ətrafını bürüdüklərini görərsən»). Buradan da hər bir şeyin حِفافا (hifafani) — iki yanı, kənarları deməkdir. Tərfə demişdir:\nكَأَنّ جَناحَىْ مَضْرَحِىِّ تَكنَّفا … حِفَافَيْهِ شُكَّا فى العَسيبِ بِمْسرَدِ (١)\n(Mənası: Qartalın iki qanadı elə bil onun iki yanını bürümüşdü, onlar bizlə xurma budağına bərkidilmişdi).\nBu qapıdandır: «O, an ِحَفَفِ أمْرٍ (həfəfi əmrin) üzrədir» yəni onun bir tərəfindədir. Hər bir şeyin hər yanı onu əhatə edir. Bu qapıdandır onların: «Filankəs bizi əhatə edir və bizə yardım edir» («فلان يَحُفُّنا ويَرُفُّنا») sözü; elə bil o, bizi bürüyür, bizə əta edir və azuqə gətirir.\nÜçüncüsü, الحُفُوف (əl-hufuf) və الْحَفَف (əl-həfəf) — güzəranın çətinliyi və quruluğudur. Əbu Zeyd demişdir:\n«حَفَّتْ أرضُنا وقَفَّتْ» (Torpağımız qurudu və otu sarıdı), — bitkisi quruduğu zaman belə deyilir. Bu, اَلشَّظَف (əş-şəzəf - qıtlıq) kimidir. Deyilir: «Onlar yaşayışın həfəfi içərisindədirlər» («هم فى حَفَفٍ من العَيش»), yəni sıxıntı və quraqlıq içərisindədirlər. Sonra bu hal elə bir həddə çatdırılır ki, «Filankəsin başı həfufdur, haffdir» («رأسُ فلانٍ محفوفٌ وحافٌّ») — yəni onun başının yağlanmasından xeyli vaxt keçmişdir, deyilir. Sonra isə «Qadın üzünün tüklərini qırxdı» mənasında «حَفَّت المرأةُ وجهها» deyilmişdir. «Otu biçdim» mənasında isə «احْتَفَفْتُ النَّبْتَ» işlədilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:53:25.343Z"
+}

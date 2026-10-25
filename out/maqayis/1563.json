@@ -1,0 +1,17 @@
+{
+ "i": 1563,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 433,
+  "page_to": 433
+ },
+ "ar": "الراء والكاف والدال أصلٌ يدلُّ على سُكون. يقال ركَدَ الماءُ: سكَنَ. وركَدتِ الرِّيحُ. وركَد الميزان: استَوَى. وركد القومُ رُكوداً:\nسكنُوا وهدَءُوا. وجَفْنَةٌ رَكود: مملوءة. فأمّا قولُهم تراكَدَ الجوارِى، إذا قعدَتْ إحداهُنّ على قدميها ثم نَزَتْ قاعدةً إلى صاحبتها، فهذا إن صحَّ فهو شاذٌّ عن الأصل.",
+ "az": "[ركد] (rakəd) — ra, kaf və dal sükunə (sakitliyə) dəlalət edən bir əslə malikdir. Deyilir: «ركَدَ الماءُ (su sakitləşdi)» — sükun tapdı. «ركَدتِ الرِّيحُ (külək sakitləşdi)». «ركَد الميزان (tərəzi düzəldi/sabitləşdi): استَوَى». «ركَد القومُ رُكوداً (qövm sakitləşdi): سكنُوا وهدَءُوا». «جَفْنةٌ رَكود (dolu çanaq)» — مملوءة. Qaldı ki, onların «تراكَدَ الجوارِى (cariyələr bir-birinin üstünə oturub sıçradılar)» demələri, yəni qızlardan birinin ayaqları üzərində oturduqdan sonra sıçrayaraq digərinin yanına oturması; əgər bu səhihdirsə, bu, əsldən kənara çıxan (şaz) bir haldır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:31:13.504Z"
+}

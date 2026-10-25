@@ -1,0 +1,17 @@
+{
+ "i": 1564,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 433,
+  "page_to": 434
+ },
+ "ar": "الراء والكاف والزاء أصلان: أحدهما إثبات شئٍ فى شئ يذهب سُفْلاً، والآخر صَوت.\nفالأول: رَكَزْتُ الرُّمحَ رَكْزاً. ومَرْكَز الجند: الموضع الذى أُلزِمُوه.\nويقال ارتكَزَ الرّجُل على قوسه، إذا وضَعَ سِيَتَها بالأرض ثمّ اعتمَدَ عليها. ومن الباب: الرِّكاَز، وهو المال المدفون فى الجاهليّة، وهو من قياسهِ؛ لأنّ صاحبَه\nرَكَزَه. وقال قوم: الرِّكاز المعْدِن. وأركَزَ الرّجُلُ: وجَدَ الرِّكاز. فإن كان هذا صحيحاً فهو مُستعار. والمرتَكِز: يابس الحشيش الذى تكسَّرَ ورَقُه وتطايَرَ.\nومعناه أنَّه ذَهَب منه ما ذهبَ وارتكز هذا، أى ثَبَت.",
+ "az": "[ركز] (rakəz) — ra, kaf və zay iki əslə malikdir: bunlardan biri aşağıya doğru gedən bir şeyi bir şeydə sabitləşdirmək, ikincisi isə səsdir. Birincisi: «رَكَزْتُ الرُّمحَ رَكْزاً (nizəni yerə sancdım)». «مَرْكَز الجند (əsgərlərin mərkəzi)» — onlara tapşırılmış yer. Deyilir: «ارتكَزَ الرّجُل على قوسه (kişi yayına söykəndi)», onun ucunu yerə qoyub sonra ona etimad etdiyi zaman. Bu fəsildəndir: «الرِّكاَز (rikaz)» — cahiliyyət dövründə basdırılmış maldır ki, bu da onun qiyasındandır; çünki onun sahibi onu yerə basdırmışdır («رَكَزَه»). Bəzi qövmlər demişdir: «الرِّكاز (rikaz)» — mədəndir. «أركَزَ الرّجُلُ (kişi rikaz tapdı)» — rikaz tapdı. Əgər bu doğrudursa, deməli bu, məcazidir. «المرتَكِز (mürtəriz)» — yarpaqları qırılıb uçuşmuş qurumuş ot; mənası odur ki, gedəcəyi getdi, bu isə qaldı, yəni sabitləşdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:31:13.504Z"
+}

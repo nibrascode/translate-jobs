@@ -1,0 +1,17 @@
+{
+ "i": 2511,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طمح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 423,
+  "page_to": 423
+ },
+ "ar": "الطاء والميم والحاء أصلٌ صحيحٌ يدلُّ على علوّ فى شئ.\nيقال طَمَح ببصره إلى الشئ: علا. وكلُّ مرتفعٍ طامح. وطمَح ببوله، إِذا رماه فى الهواء. قال:\nطويلٍ طامحٍ الطّرف … إلى مَفْزَعَةِ الكَلْبِ (٤)\nومن الباب طَمَحات الدّهر: شدائدُه",
+ "az": "«طمح» — الطاء والميم والحاء أصلٌ صحيحٌ يدلُّ على علوّ فى شئ (Ta, mim və hə səhih bir kökdir, bir şeydə ucalığa dəlalət edir). يقال طَمَح ببصره إلى الشئ: علا (Baxışını bir şeyə tərəf təməh etdi dedikdə: ucaldı deməkdir). وكلُّ مرتفعٍ طامح (Və hər bir hündür şey tamirdir). وطمَح ببوله، إِذا رماه فى الهواء (Sidiyini havaya tulladığı zaman \"təməhə bi-bulihi\" dedi). قال (şair demişdir): طويلٍ طامحِ الطّرف … إلى مَفْزَةِ الكَلْبِ (Uzun, baxışınıitin sığınacağına ucaldan...). ومن الباب (Bu fəsildəndir): طَمَحات الدّهر: شدائدُه (Zəmanənin təməhatı — onun şiddətləridir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:31.509Z"
+}

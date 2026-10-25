@@ -1,0 +1,17 @@
+{
+ "i": 1912,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 98,
+  "page_to": 99
+ },
+ "ar": "السين والميم والواو أصلٌ يدل على العُلُوِّ. يقال سَمَوْت، إذا علوت. وسَمَا بصرُه: عَلا. وسَمَا لى شخصٌ: ارتفع حتّى استثبتُّه (٤). وسما الفحلُ: سطا على شَوله سَماوَةً. وسَماوَةُ الهلال وكلِّ شئٍ: شخصُه، والجمع سَماوٌ (٥). والعرب تُسَمِّى السّحاب سماء، والمطرَ سماءَ، فإذا أريد به المطرُ جُمع على سُمِىّ. والسَّماءة: الشَّخص. والسماء: سقف البيت. وكلُّ عالٍ مطلٍّ سماء، حتَّى يقال لظهر الفرس سَماء. ويتَّسِعون حتَّى يسمُّوا النَّبات سماء. قال:\nإذا نَزَل السّماءُ بأرضِ قومٍ … رعَيناهُ وإن كانوا غِضابا (٦)\nويقولون: «ما زِلْنا نطأُ السَّماءَ حتَّى أتيناكم»، يريدون الكلأ والمطر\nويقال إن أصل «اسمٍ» سِمْو، وهو من العلوّ، لأنَّه تنويهٌ ودَلالةٌ على المعنى.",
+ "az": "[سمو] (sin, mim və vav) — ucalığa dəlalət edən bir əsasdır. «سَمَوْت» — ucaltdım, ucalldım, deməkdir. «سَمَا بصرُه» — baxışı ucaldı. «سَمَا لى شخصٌ» — bir şəxs ucaldı, ta mən onu qəti olaraq tanıdım (٤). «سما الفحلُ» — ayğır (və ya təkə) naxırın üzərinə «سماوَةً» olaraq cumdu. Hilalın və hər bir şeyin «سَماوَةُ» — onun şəxsidir (siluetidir), cəmi «سَماوٌ» gəlir (٥). Ərəblər buluda «سماء» (səhrayi/göy), yağışa da «سماء» deyirlər, əgər bununla yağış qəsd olunarsa, «سُمِىّ» kəlməsinə cəmlənir. «السَّماءة» — şəxsdir (surətdir). «السماء» — evin tavanıdır. Hər uca və yuxarıdan baxan şey «سماء» sayılır, hətta atın belinə də «سَماء» deyirlər. Onlar o qədər geniş mənalarda işlədirlər ki, hətta bitkiyə də «سماء» deyirlər. O (şair) demişdir: «إذا نَزَل السّماءُ بأرضِ قومٍ … رعَيناهُ وإن كانوا غِضابا» (Əgər səma (yağış/bitki) bir tayfanın torpağına enərsə, qəzəbli olsalar belə, biz onu otararıq) (٦). Deyirlər: «ما زِلْنا نطأُ السَّماءَ حتَّى أتيناكم» — bununla otlağı və yağışı qəsd edirlər. Deyilir ki, «اسم» (ad) sözünün əsli «سِمْو»dur və o, ucalıqdan götürülüb, çünki o, mənanın xatırladılması və ona dəlalətdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.158Z"
+}

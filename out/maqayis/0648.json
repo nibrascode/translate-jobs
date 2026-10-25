@@ -1,0 +1,17 @@
+{
+ "i": 648,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "الجيم والشين والميم أصلٌ واحد، وهو مجموع الجِسْم. يقال ألْقَى فلانٌ على فُلان جُشَمَه، إذا ألقى عليه ثِقْله. ويقال جُشَمُ البعيرِ صَدْرُه، وبه سُمِّى الرجل «جُشَمَ (٤)». فأمّا قولهم تجشَّمت الأمرَ، فمعناهُ تحمَّلت بجُشَمِى حتى فعلتُه. وجشَّمْتُ فلاناً كذا، أى كلفتُه أن يحمل عليه جُشَمَه. قال:\nفأُقْسِمُ ما جَشَّمتُهُ من مُلِمَّةٍ … تَؤُودُ كِرامَ الناسِ إلا تَجَشَّماَ",
+ "az": "[جشم] Cim, şin və mim: bir kökdür, o da cismin toplanmasıdır. Deyilir ki, filankəs filankəsin üzərinə cuşəməhunu (جُشَمَه) atdı, yəni ağırlığını onun üzərinə atdı. Deyilir ki, dəvənin cuşəmi (جُشَمُ) onun sinəsidir, kişi də bu adla (جُشَمَ) adlandırılmışdır. تجشَّمت الأمرَ (işi çətinliklə boynuma aldım) deməyə gəlincə, mənası, onu edənə qədər öz ağırlığımla (gücümlə) yükləndim deməkdir. جشَّمتُ فلاناً كذا (filankəsi belə bir işə məcbur etdim), yəni ona ağırlığını daşımağı tapşırdım. Şair deyir: فأُقْسِمُ ما جَشَّمتُهُ من مُلِمَّةٍ … تَؤُودُ كِرامَ الناسِ إلا تَجَشَّماَ (mənası: And içirəm ki, ona yüklədiyim elə bir çətinlik yoxdur ki, o, insanların ən şərəflilərini belə yormasın, lakin o, bunu dözümlə qarşıladı).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.556Z"
+}

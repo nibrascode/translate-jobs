@@ -1,0 +1,17 @@
+{
+ "i": 1975,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سبح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 125,
+  "page_to": 126
+ },
+ "ar": "السين والباء والحاء أصلان: أحدهما جنسٌ من العبادة، والآخر جنسٌ من السَّعى. فالأوّل السُّبْحة، وهى الصَّلاة، ويختصّ بذلك ما كان نفْلاً غير فَرض. يقول الفقهاء: يجمع المسافرُ بينَ الصَّلاتين ولا يُسبِّح بينهما، أى لا يتنفَّل بينهما بصلاةٍ. ومن الباب التَّسبيح، وهو تنزيهُ اللّه جلّ ثناؤه من كلِّ سُوء. والتَّنزيه: التبعيد. والعرب تقول: سبحان مِنْ كذا، أى ما أبعدَه. قال الأعشى:\nأقولُ لمّا جاءنى فخرُه … سُبحانَ مِنْ علقمةَ الفاخِر (٢)\nوقال قوم: تأويلهُ عجباً له إِذَا يَفْخَر. وهذا قريبٌ من ذاك لأنّه تبعيدٌ له من الفَخْر. وفى صفات اللّه جلّ وعز: سُبُّوح. واشتقاقه من الذى ذكرناه أنّه تنزَّه من كل شئٍ لا ينبغى له. والسُّبُحات الذى جاء فى الحديث (٣): جلال اللّه جلّ ثناؤه وعظمتُه.\nوالأصل الآخر السَّبْح والسِّباحة: العَوم فى الماء. والسّابح من الخيل:\nالحَسنُ مدِّ اليدين فى الجَرْى. قال:\nفولَّيْتَ عنه يرتَمِى بِكَ سابحٌ … وقد قابَلتْ أذْنَيه منك الأخادعُ (١)\nيقول: إنّك كنتَ تلتفتُ تخافُ الطَّعنَ، فصار أخْدَعُك بحذاء أذُن فرسِك.",
+ "az": "[سبح] (səbh). السين (sin), والباء (ba) və الحاء (hə) iki əsldən ibarətdir: Biri ibadət növü, digəri isə səy (çalışmaq, hərəkət etmək) növüdür. Birincisi السُّبْحة (əssubhət) olub namaz deməkdir və buna fərz olmayan nəafilələr aid edilir. Fəqihlər deyirlər: «Müsafir iki namazı cəmləyər və ikisinin arasında təsbih etməz», yəni onların arasında nəfilə namazı qılmaz. Bu babdandır: التَّسبيح (əttəsbih) - Uca Allahı hər bir pislikdən tənzih etmək (paklamaq). Tənzih etmək isə uzaqlaşdırmaq deməkdir. Ərəblər deyirlər: سبحان مِنْ كذا (subhanə min kəza) - yəni bu nə qədər uzaqdır! Əşə-şi demişdir:\nأقولُ لمّا جاءنى فخرُه … سُبحانَ مِنْ علقمةَ الفاخِر (٢)\n(Onun fəxri mənə gəldiyi zaman dedim: Fəxr edən Əlqəmədən nə qədər də uzaqdır!)\nBir qrup alim demişdir: Bunun yozumu, «fəxr edərkən ona təəccüb edirəm» deməkdir. Bu, birinciyə yaxındır, çünki bu, onu fəxrdən uzaqlaşdırmaq deməkdir. Uca və Əzəmətli Allahın sifətlərində: سُبُّوح (subbuh - pak və müqəddəs) gəlmişdir. Bunun kökü qeyd etdiyimiz məqamdan qaynaqlanır ki, O, özünə layiq olmayan hər bir şeydən pak və müqəddəsdir. Hədisdə (٣) gələn السُّبُحات (əssubuhat) isə Uca Allahın cəlalı və əzəmətidir. Digər əsl isə السَّبْح (əssəbh) və السِّباحة (əssibahət) olub suda üzməkdir. Atların السّابح (əssabih) adlanan növü isə qaçarkən əllərini (ön ayaqlarını) gözəl uzadan atdır. Şair demişdir:\nفولَّيْتَ عنه يرتَمِى بِكَ سابحٌ … وقد قابَلتْ أذْنَيه منك الأخادعُ (١)\n(Sən ondan üz döndərdin, üzən [sürətli] bir at səni irəli atırdı, artıq onun qulaqları sənin boyun damarlarınızla üzbəüz gəlmişdi).\nŞair deyir ki, sən nizə sancılmasından qorxaraq boynunu evrirdin, nəticədə boyun damarın atın qulağı ilə bərabər səviyyəyə çatmışdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:50.269Z"
+}

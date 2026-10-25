@@ -1,0 +1,17 @@
+{
+ "i": 523,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثغب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 378,
+  "page_to": 378
+ },
+ "ar": "الثاء والغين والباء أصلٌ واحد، وهو غَدِيرٌ فى غِلَظ من أرض. يقال له ثَغْبٌ وَثَغَبٌ، وجمعه ثِغابٌ وأثغابٌ، ويقال ثُغبان.\nوقال عَبيد (١):\nولقد تحلُّ بها كأنَّ مُجاجَها … ثَغْبٌ يُصَفَّق صَفْوُه بمُدامِ",
+ "az": "[ثغب] الثاء والغين والباء أصلٌ واحد (Thə, ğain və ba tək bir əsasdır), və o, sərt yerdə olan gölməçədir. Ona ثَغْبٌ وَثَغَبٌ (səhb və səb) deyilir, cəmi isə ثِغابٌ وَأثغابٌ (siqab və əsğab)-dır, həmçinin ثُغبان (sübən) də deyilir. Übeyd demişdir (١): ولقد تحلُّ بها كأنَّ مُجاجَها … ثَغْبٌ يُصَفَّق صَفْوُه بمُدامِ (Və sən ora enirsən, elə bil onun tüpürcəyi... şərabla saflaşdırılan bir səhmdir)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.076Z"
+}

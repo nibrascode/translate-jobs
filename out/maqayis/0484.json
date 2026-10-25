@@ -1,0 +1,17 @@
+{
+ "i": 484,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تبر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 362,
+  "page_to": 362
+ },
+ "ar": "التاء والباء والراء أصلان متباعدٌ ما بينهما: أحدهما الهلاك، والآخَر [جوهر] من جواهر الأرض.\nفالأوّل قولهم: تَبَّرَ اللّهُ عَمَلَ الكافرِ، أى أهلكَه وأطَلَه. قال اللّه تعالى:\n﴿إِنَّ هؤُلاءِ مُتَبَّرٌ ما هُمْ فِيهِ وَباطِلٌ ما كانُوا يَعْمَلُونَ﴾.\nوالأصل الآخر التِّبْر، وهو ما كان من الذَّهب والفِضَّة غيرَ مَصُوغٍ.",
+ "az": "[تبر] (t-b-r): Ta, ba və ra hərfləri arasındakı məsafə uzaq olan iki əsasdır: biri həlak olmaq, digəri isə yerin cəvahiratından olan [mədən] cövhəridir. Birincisi onların تَبَّرَ اللَّهُ عَمَلَ الْكَافِرِ (təbbərə allahu amələ əl-kafiri) – yəni Allah kafirin əməlini məhv etdi və batil etdi deməsidir. Uca Allah buyurmuşdur: ﴿إِنَّ هَؤُلَاءِ مُتَبَّرٌ مَا هُمْ فِيهِ وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ﴾ (mənaca tərcümə: «Şübhəsiz ki, onların içində olduqları şey məhv edilmişdir və etdikləri əməllər də batildir»). Digər əsas isə التِّبْرُ (ət-tibr) – emal olunmamış qızıl və gümüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

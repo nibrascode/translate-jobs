@@ -1,0 +1,17 @@
+{
+ "i": 487,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 363,
+  "page_to": 364
+ },
+ "ar": "التاء والباء والنون كلماتٌ متفاوتةٌ فى المعنى جدًّا، وذلك دليلٌ أنَّ من كلام العرب موضوعاً وضْعاً مِنْ غير قياسٍ ولا اشتقاق. فالتِّبنُ\nمعروفٌ، وهو العَصْفُ. والتِّبْن أعظَمُ الأقداحِ يكاد يُرْوِى العِشرين. والتَّبَنُ الفِطْنة، وكذلك التَّبَانَة. يقال تَبِنَ لكذا. ومحتمل أن يكون هذه التاءِ مُبدلةَ من طاء. وقال سالمُ بنُ عبد اللّه (١): «كنّا نقول كذا حَتَّى تَبَّنْتم (٢)»، أى دقّقتم النَّظرَ بفِطْنتكم.\nباب ما جاء من كلام العرب على أكثَر من ثلاثة أحرف أوّله تاء",
+ "az": "[تبن] (t-b-n): Ta, ba və nun hərfləri mənaca bir-birindən çox fərqlənən kəlmələrdir və bu, ərəb dilindən olan sözlərin heç bir qiyas və etimologiya olmadan qoyulduğuna dəlildir. التِّبْنُ (ət-tibn) – məlumdur, o da samandır (əsfdir). التِّبْنُ (ət-tibn) – iyirmi nəfəri suvarmağa yaxın olan ən böyük kasa/qədəhdir. التَّبَنُ (ət-təbən) – fərasətdir, həmçinin ət-təbanə (التَّبَانَةُ) da belədir. Deyilir: تَبِنَ لِكَذَا (təbinə li-kəzə) – filan şeyə ayıq-sayıq oldu. İstisna deyil ki, bu ta hərfi ta hərfinə dəyişdirilmiş olsun. Salim ibn Abdullah demişdir: «كُنَّا نَقُولُ كَذَا حَتَّى تَبَّنْتُمْ» («Biz belə deyərdik, ta ki siz fərasətinizlə dərindən araşdırdınız») (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

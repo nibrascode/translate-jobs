@@ -1,0 +1,17 @@
+{
+ "i": 1953,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 115,
+  "page_to": 116
+ },
+ "ar": "السين والواو والطاء أصلٌ يدلُّ على مخالطة الشّئِ الشئَ.\nيقال سُطت الشّئَ: خلطتُ بعضَه ببعض. وسَوَّط فلانٌ أمرَه تسويطا، إذا خلَطَه. قال الشّاعر:\nفَسُطْها ذَميمَ الرّأىِ غيرَ موفَّقٍ … فلستَ على تسويطها بمُعان (٤)\nومن الباب السَّوط، لأنّه يُخالِط الجِلدة؛ يقال سُطْتُه بالسَّوط: ضربتُه.\nوأمَّا قولهم فى تسمية النَّصيب سوَطاً فهو من هذا. قال اللّه جل ثناؤه: ﴿فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذابٍ﴾، أى نَصيباً من العذاب",
+ "az": "[سوط] السين والواو والطاء (sin, vav və ta) — bir şeyin başqa bir şeyə qarışmasına dəlalət edən bir əsldir.\nDeyilir: سُطت الشّئَ (sutüş-şeyə): onun bir hissəsini digərinə qarışdırdım. Və سَوَّط فلانٌ أمرَه تسويطا (sevvətə fəlänün əmrəhu təsvitan), o, işini qarışdırdıqda. Şair demişdir:\nفَسُطْها ذَميمَ الرّأىِ غيرَ موفَّقٍ … فلستَ على تسويطها بمُعان (٤)\n(Onu pislənmiş rəydə, uğursuz olaraq qarışdır... çünki sən onu qarışdırmaqda yardımçı deyilsən)\nBu qbildəndir əs-sout (السَّوط) – qamçı, çünki o, dəriyə qarışır/toxunur; deyilir: سُطْتُه بالسَّوط (sutütühü bis-sout) – onu qamçı ilə vurdum.\nOnların payı (nəsibi) sout adlandırmalarına gəldikdə, bu da bundandır. Uca Allah buyurmuşdur: mənaca tərcümə: «Rəbbin onlara əzab qamçısı (payı) yağdırdı» (﴿فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذابٍ﴾), yəni əzabdan bir pay.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

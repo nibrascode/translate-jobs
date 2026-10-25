@@ -1,0 +1,17 @@
+{
+ "i": 1202,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 256,
+  "page_to": 256
+ },
+ "ar": "الدال والسين فى المضاعف والمطابق أصلٌ واحد يدلُّ على دُخول الشئ تحت خفاءِ وسِرّ. يقال دَسَسْتُ الشَّئَ فى التُّراب أدُسُّه دَسًّا.\nقال اللّه تعالى: ﴿أَيُمْسِكُهُ عَلى هُونٍ أَمْ يَدُسُّهُ فِي اَلتُّرابِ﴾. والدّسّاسة: حيَّة صَمّاء تكون تحت التراب.\nفأمّا قولهم دُسَّ البَعيرُ ففيه قولان، كلُّ واحدٍ منهما من قياس الباب.\nفأحدُهما أن يكون به قليل من جَرَب. فإن كان كذا فلأنّ ذلك الجربَ كالشَّئ الخفيف المُنْدَسَ. والقول الآخَر، وهو أن يُجعل الهِنَاءُ على مَسَاعِرِ البعير. ومن البابْ الدَّسيس (٣). وقولهم: «العِرْق دَسَّاس»؛ لأنَّه يَنزِع فى خَفَاءِ ولُطْف.",
+ "az": "«دس» (d-s) — Qatlaşıq və uyğun hərflərdəki dal və sin hərfləri bir şeyin gizlilik və sirr altında daxil olmasına dəlalət edən tək bir əsasdır. «دَسَسْتُ الشَّىْءَ فى التُّراب أدُسُّه دَسًّا» (Bir şeyi torpağa basdırdım / gizlədim) deyilir.\nUca Allah buyurmuşdur: ﴿أَيُمْسِكُهُ عَلى هُونٍ أَمْ يَدُسُّهُ فِي اَلتُّرابِ﴾ (O, bunu zillətlə saxlayaq, yoxsa torpağa basdırsın?). «الدسّاسة» — torpağın altında olan kar ilan.  \n«دُسَّ البَعيرُ» (Dəvəyə dəri xəstəliyi yoluxdu) sözlərinə gəldikdə, burada iki görüş vardır və bunların hər biri bu fəslin qiyasındandır.\nBirincisi, onunla azacıq uyuz xəstəliyinin (qotur) olmasıdır. Əgər belədirsə, deməli, o qotur gizlənmiş yüngül bir şey kimidir. İkinci görüş isə dəvənin qaşınan yerlərinə qətrran (və ya müalicəvi maz) çəkilməsidir. Bu fəsildəndir «الدَّسيس» (gizli casus/plan) (٣). Həmçinin onların «العِرْق دَسَّاس» (Damar gizli şəkildə özünə çəkir) sözü; çünki o, gizliliklə və lətifliklə (kökünə) çəkir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:40.620Z"
+}

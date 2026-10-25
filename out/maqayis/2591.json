@@ -1,0 +1,17 @@
+{
+ "i": 2591,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ظأب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 473,
+  "page_to": 473
+ },
+ "ar": "الظاء والهمزة والباء كلمتان متباينتان: إحداهما الظَّأب، وهو سِلْف الرّجُل. والأخرى الكلام والجَلَبة (٣). قال:\nيَصُوعُ عُنوقَها أَحوَى زنيمٌ … له ظَأْبٌ كما صَخِبَ الغَريمُ (٤)",
+ "az": "[ظأب] الظاء (zı), الهمزة (həmzə) və الباء (ba) hərfləri iki fərqli mənaya gəlir: birincisi, الظَّأب (əz-zə'b) - kişinin arvadının bacısının əri (sələf). İkincisi, danışıq və səs-küy (٣). Şair demişdir: Qara rəngli, alçaq bir kəs onların boyunlarını əzir... onun səs-küyü (ظَأْب) qəzəbli birinin qışqırığı kimidir (٤).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:15:48.931Z"
+}

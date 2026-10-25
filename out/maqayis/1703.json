@@ -1,0 +1,17 @@
+{
+ "i": 1703,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رده",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 506,
+  "page_to": 506
+ },
+ "ar": "الراء والدال والهاء أُصَيلٌ يدل على هَزْمٍ فى صَخرةٍ أو غيرها.\nقالوا: الرَّدْهَة: قَلْتٌ فى الصَّفا يجتمع فيه ماءُ السماء؛ والجمع رِدَاه. فأما الذى حُكِى عن الخليل فمخالفٌ لما ذكَرْناه؛ قال: الرَّدَه (١): شِبهُ آكامٍ خشنةٍ كثيرة الحجارة، الواحدة رَدْهَةٌ. قال وهى تِلال القِفاف. قال رُؤبة:\n* مِنْ بَعْد أَنْضاد التلال الرُّدَّهِ (٢) *",
+ "az": "[رده] الراء والدال والهاء — qaya və ya başqa bir şeydə çuxura, oyuğa dəlalət edən təməl bir kökdür.\nDeyirlər ki, الرَّدْهَة (rədhö) — səfada (hamar qayanın üzərində) göy suyu yığılan çuxurdur, gölməçədir; cəmi رِدَاه (ridah) olur. Əl-Xəlildən rəvayət edilənə gəldikdə isə, o, bizim zikr etdiyimizə ziddir; o demişdir: الرَّدَه (rədəh) (١) — çoxlu daşları olan sərt təpəciklərə bənzər yerlərdir, təkli رَدْهَةٌ (rədhö) olur. O demişdir: bunlar hündür yerlərin təpələridir. Rُübə demişdir:\n* مِنْ بَعْد أَنْضاد التلال الرُّدَّهِ (٢) *\n(Sərt və daşlı təpələrin sıralarından sonra.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:28.607Z"
+}

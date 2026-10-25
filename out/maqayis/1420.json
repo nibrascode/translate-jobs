@@ -1,0 +1,17 @@
+{
+ "i": 1420,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذيخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 365,
+  "page_to": 365
+ },
+ "ar": "الذال والياء والخاء كلمةٌ واحدة لا قياس لها. قولهم للذّكر من الضباع ذيخٌ، والجمع ذِيَخَة. وربَّما قالوا: ذيّخْت الرّجلَ تذييخاً، إذا أذلَلْتَه.",
+ "az": "[ذيخ] \n\nذال، ياء və xə hərfləri heç bir qisası (qaydası) olmayan tək bir kəlmədir. Onların kaftarın erkəyinə ذيخٌ (ziyx) demələridir, cəmi isə ذِيَخَة (ziyəxə) gəlir. Bəzən ذيّخْت الرّجلَ تذييخاً (kişini zəlil etdim, zəlil etmək) – yəni onu xar etdiyin zaman deyərlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

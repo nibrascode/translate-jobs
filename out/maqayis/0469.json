@@ -1,0 +1,17 @@
+{
+ "i": 469,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تور",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 357,
+  "page_to": 358
+ },
+ "ar": "التاء والواو والراء ليس أصلا يعمل عليه (٢). أمّا الخليل فذكر فى بنائه ما ليس من أصله، وهو استَوْأرَتِ الوَحْش. وهذا مذكورٌ فى بابه (٣)\nوذكر ابن دريد كلمةً لو أعْرَضَ عنها كان أحسن. قال: التّوْر الرَّسول بين القوم، عربىٌّ صحيح. قال:\nوالتَّوْرُ فيما بيننا مُعْملُ … يَرضَى به المُرْسِل والمرسَلُ (١)\nويقال أنّ التارة أصلها واوٌ. وتفسير ذلك (٢)",
+ "az": "[تور] (tə-və-r) - Tə, vav və ra üzərində dayanılacaq bir əsl deyil. Xəlilə gəldikdə isə, o, öz binasında öz əslindən olmayan bir şeyi qeyd etmişdir, o da vəhşi heyvanın hürkdüyü zaman səslənməsidir («استَوْأرَتِ الوَحْش»). Bu isə öz بابında (bölümündə) qeyd olunmuşdur (3). İbn Dürid isə əgər üzərindən keçsəydi daha yaxşı olacaq bir kəlmə qeyd etmişdir. O demişdir: Ət-tovr (التّوْر) — qövm arasında elçi (vasitəçi) deməkdir, səhih ərəb sözüdür. O demişdir: Və tovr bizim aramızda işləkdir... Elçinin də, elçilik edənin də razı qaldığı (1). Və deyilir ki, əl-tara (التارة) sözünün əsri vavdır. Bunun izahı (2)...",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.997Z"
+}

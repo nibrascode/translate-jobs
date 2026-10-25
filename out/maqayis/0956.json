@@ -1,0 +1,17 @@
+{
+ "i": 956,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 110,
+  "page_to": 111
+ },
+ "ar": "الحاء والنون والفاء أصل مستقيم، وهو اَميَل. يقال للذى يمشى على ظهُور قدَميه أحْنَفْ. وقال قومٌ - وأراه الأصحَّ - إنَّ الحَنَفَ اعوجاجٌ فى الرجل إلى داخل. ورجل أحنف، أى مائل الرِّجْلين، وذلك يكون بأَن تتدانَى صدور قدمَيه ويتباعد عقباه. والحنيف: المائل إلى الدين المستقيم. قال اللّه تعالى:\n﴿وَلكِنْ كانَ حَنِيفاً مُسْلِماً﴾ والأصل هذا، تم يتَّسع فى تفسيره فيقال الحنيف النّاسك، ويقال هو المختون، ويقال هو المستقيم الطريقة. ويقال هو يتحنَّف:\nأى يتحرَّى أقومَ الطرِيق (١).",
+ "az": "[حنف] (Həm, nun və fa): Meyilli olan düz bir əsasdır. Ayaqlarının üstü ilə gəzən adama «أحنف» (əhnəf) deyilir. Bir qrup insan – ki bunun daha doğru olduğunu düşünürəm – demişdir ki, «الحَنَف» (hənəf) ayağın içəriyə doğru əyilməsidir. Ayaqları əyri olan adama «رجل أحنف» (əhnəf kişi) deyilir, bu da ayaq pəncələrinin ön hissəsinin bir-birinə yaxınlaşması, dabanların isə uzaqlaşması ilə baş verir. «الحنيف» (hənif) – düz dinə meyl edən deməkdir. Uca Allah buyurmuşdur: ﴿وَلكِنْ كانَ حَنِيفاً مُسْلِماً﴾ (mənaca tərcümə: Lakin o, hənif və müsəlman idi). Əsas budur, sonra onun izahında məna genişlənərək hənifin zahid, sünnət olunmuş və ya düz yolda olan demək olduğu da deyilmişdir. «هو يتحنَّف» (o təhənnüv edir) – yəni ən düzgün yolu axtarıb tapmağa çalışır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.647Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2182,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شجذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 245,
+  "page_to": 246
+ },
+ "ar": "الشين والجيم والذال كلمةٌ واحدة. يقال أشْجَذَت السماء، إذا سَكَن مطرُها. قال امرؤُ القيس:\nتُظهِر الوَدَّ إذا ما أَشجَذَتْ … وتُواريهِ إذا ما تَشتكِرْ (١)\nقال ابن دريد (١): «الوَدّ: جبلٌ معروف. وتشتكر: يشتدُّ مطرُها، من قولهم اشتكر الضَّرعُ، إذا امتلأ لَبَناً». وأمَّا نُسختى مِنْ كتاب العين للخليل، ففيها أنّ الشّين والجيم والذال مهمل، فلا أدرِى أهى سَقَطٌ فى السَّماع، أم خفيت الكلمةُ على مؤلِّف الكتاب (٢). والكلمة صحيحة (٣).",
+ "az": "«شجذ» (şəcəz). Şin, cim və zal hərflərindən ibarət tək sözdür. Deyilir: أشْجَذَت السماء (əşcəzəti əs-səmau) — səmanın yağışı kəsildi. İmrül-Qeys demişdir: تُظهِر الوَدَّ إذا ما أَشجَذَتْ … وتُواريهِ إذا ما تَشتكِرْ (١) (Yağışı kəsildikdə sevgisini üzə çıxarar... şiddətləndikdə isə onu gizlədər). İbn Dürid demişdir (١): «əl-Vədd məlum bir dağdır. Təştəkir isə yağışı şiddətlənir deməkdir, bu, süd vəzisi südlə dolduqda işlədilən “iştəkərə əd-dər” sözündəndir». Xəlilə aid olan “Kitabül-Eyn” əsərinin mənim nüsxəmə gəldikdə isə, orada şin, cim və zal hərflərinin “mühməl” (nöqtəsiz) olduğu qeyd olunub, ona görə də bilmirəm bu, eşitmədə düşən xətadır, yoxsa söz müəllifə gizli qalmışdır (٢). Söz isə səhihdir (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

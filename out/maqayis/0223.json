@@ -1,0 +1,17 @@
+{
+ "i": 223,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 220,
+  "page_to": 221
+ },
+ "ar": "الباء والراء والضاد أصلٌ واحد، وهو يدلُّ على قلَّةِ الشئ وأخذِهِ قليلاً قليلاً. قال الخليل: التبرُّض التبلُّغ بالبُلْغَة من العيش والتطلَّب له هاهنا وهاهنا قليلاً بعد قليل. وكذلك تبرَّضَ الماءَ من الخوض، إذا قلَّ صبّ فى القِربة من هنا وهنا. قال:\nوقد كنتُ بَرَّاضاً لها قبلَ وَصْلِها … فكيفَ وَلَزَّتْ حَبْلَها بحِبالها (١)\nيقول: قد كنتُ أطلبُها فى الفَيْنَةِ بعدَ الفينة، أى أحياناً، فكيف وقد عُلِّق بعضُنا بعضاً. والابتراضُ منه. وتقول: قد بَرَضَ فلان لى من مالِه، وهو يَبْرُضُ بَرْضاً، إذا أعطاكَ منه القليلَ. قال:\nلَعَمْرُكَ إنّنِى وطِلابَ سَلْمَى … لكالمتبرِّضِ الثَّمَدَ الظَّنُونا (٢)\nوثَمَدٌ أى قليل، كقول رؤبة:\n* فى العِدِّ لم تقدَحْ ثِمادا بَرْضا (٣) *\nومن هنا الباب: بَرَض النّبات يَبْرِضُ بُرُوضاً، وهو أوَّلُ ما يتناول النَّعَمُ والبارِض: أوّلُ ما يبدو مِنْ البُهْمَى. قال:\nرَعَى بارِضَ البُهْمَى جَميماً وبُسْرَةً … وصَمْعَاءَ حَتَّى آنفَتْهُ نِصَالُها (١)",
+ "az": "[برض] (ba, ra və dad) bir əsasdır, o da az şeyə dəlalət edir və onu az-az götürməkdir. Xəlil demişdir: التبرُّض (ət-təburrud) dolanışıqdan az bir şeylə kifayətlənmək və onu gah o tərəfdən, gah da bu tərəfdən az-az axtarmaqdır. Eynilə, su qırxasını doldurarkən oradan-buradan az su tökməyə تبرَّضَ الماءَ (təbərradəl-maə) deməkdir. O demişdir: وَقَد كنتُ بَرَّاضاً لها قبلَ وَصْلِها … فكيفَ وَلَزَّتْ حَبْلَها بحِبالها (١) (Ona qovuşmamışdan əvvəl mən onun arxasınca az-az düşürdüm... bəs necə ola ki, o, ipini ipimə bağladı). Deyir: Mən onu zaman-zaman, yəni bəzən axtarırdım, bəs necə ola bilər ki, indi hər birimiz digərimizə bağlanmışıq. الابتراض (əl-ibtirad) da bundandır. Deyirsən: بَرَضَ فلان لى من مالِه، وهو يَبْرُضُ بَرْضاً (bərəcə fəlanun li min malihi, və huvə yəbruqu bərdən) — filankəs mənə malından azca verdi və o, az-az verir. Şair demişdir: لَعَمْرُكَ إنّنِى وطِلابَ سَلْمَى … لكالمتبرِّضِ الثَّمَدَ الظَّنُونا (٢) (Ömrümə and olsun ki, mənim Səlamnı axtarışım... az və şübhəli su çuxurunu az-az götürən kəs kimidir). Və الثَّمَدُ (əls-səməd) az su deməkdir, Rubənin bu sözü kimi: * فى العِدِّ لم تقدَحْ ثِمادا بَرْضا (٣) * (Sayda sən az və dayaz sulara toxunmadın). Bu باب-dan (bölmədən) belədir: بَرَض النّبات يَبْرِضُ بُرُوضاً (bərəcən-nəbətu yəbriqu buruqən) — bitkinin ilk çıxan vaxtı, mal-qaranın yerdən ilk dərdiyi şeydir, البارِض (əl-barid) isə bühma bitkisindən ilk görsənən şeydir. Şair demişdir: رَعَى بارِضَ البُهْمَى جَميماً وبُسْرَةً … وصَمْعَاءَ حَتَّى آنفَتْهُ نِصَالُها (١) (O, bühmanın təzə cücərənini, cəmim və busrəsini... və sərməanı otladı, həm də nizələrin ucları onu burunlamayana qədər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:31.386Z"
+}

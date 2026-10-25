@@ -1,0 +1,17 @@
+{
+ "i": 1498,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رضخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 402,
+  "page_to": 403
+ },
+ "ar": "الراء والضاد والخاء كلمةٌ تدلُّ على كَسْرٍ. ويكون يسيراً ثم يشتقّ منه. فالرضْخ: الكسر؛ وهو الأصل، ثم يقال رَضَخَ له، إذا أعطاه\nشيئاً ليس بالكثير، كأنّه كَسَرَ له من ماله كِسرةً. ومنه\nحديث مالك بن أوس:\nحين قال له عمر: «إنّه قد دَفَّتْ علينا دَافَّةٌ من قومِك، وإنِّى أمرت لهم بِرَضْخ (١)».\nويقال تراضَخَ القَومُ: ترامَوْا، كأنّ كلَّ واحدٍ منهم يريد رَضْخ صاحبِه. والرَّضْخ من الخَبَر: الذى تسمعه ولا تستيقِنُ منه (٢). ويقال فلانٌ يَرْتَضِخُ لُكْنةً، إذا شابَ كلامَه بشئٍ من كلام العجَمِ يسيرٍ.",
+ "az": "[رضخ] (rə-zə-xa). Ra, zad və xa – qırmağa dəlalət edən kəlmədir. Bu, az miqdarda olur, sonra ondan [başqa mənalar] törədilir. الرَّضْخ (ar-razh) – qırmaqdır; bu əsas mənadır, sonra رَضَخَ لَهُ (razaha ləh) – ona çox olmayan bir şey verdikdə işlədilir, sanki malından ona bir qəlpə qırıb vermiş kimidir. Malik ibn Avsın hədisindən: Ömər ona dediyi zaman: «إِنَّهُ قَدْ دَفَّتْ عَلَيْنَا دَافَّةٌ مِنْ قَوْمِكَ، وَإِنِّي أَمَرْتُ لَهُمْ بِرَضْخٍ (١)» («Sənin qövmündən bizə bir dəstə gəldi və mən onlara az bir bağış verilməsini əmr etdim»). Deyilir: تَرَاضَخَ الْقَوْمُ (tərazaha əl-qavm) – bir-birinə atəş açdılar, sanki hər biri digərini vurmaq (qırmaq) istəyir. Xəbərdən olan الرَّضْخ (ar-razh) – eşidib əmin olmadığın xəbərdir (٢). Deyilir ki, fulan öz kəlamına acəm dilindən azca qatdıqda رَضْخُ لُكْنَةٍ (razxu luknətin) [edir deyilir].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

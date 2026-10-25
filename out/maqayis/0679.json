@@ -1,0 +1,17 @@
+{
+ "i": 679,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 474,
+  "page_to": 475
+ },
+ "ar": "الجيم واللام والفاء أصلٌ واحدٌ يدلُّ على القطع وعلى القَشْر.\nيقال جَلَفَ الشّئَ جَلْفاً، إذا استأصله؛ وهو أشدُّ من الجرْف. ورجل مُجَلَّف جَلَّفَهُ الدّهرُ أتَى على ماله. وهو قول الفرزدق:\nوعَضُّ زمانٍ يابنَ مَرْوانَ لم يَدَعْ … مِنْ المال إلاَّ مُسْحَتاً أوْ مُجَلَّفُ (١)\nوالْجِلْفَة: القِطعة من الشئ. والجِلْف المسلوخة بلا رأسٍ ولا قوائم - ولذلك يقولون هو جِلْفٌ جَافٍ - وسمِّى بذلك لأنَّ أطرافه مقطوعة.",
+ "az": "«جلف» — جيم، لام və فاء hərfləri kəsmək və qabığını soymaq mənalarına dəlalət edən tək bir kökdür. Deyirlər: جَلَفَ الشَّيْءَ جَلْفاً (şeyi kökündən qopardı, tamamilə kəsdi); bu, جرف (cərf) sözündən daha şiddətlidir. Mücəlləf kişi — zamanın var-dövlətini yox etdiyi kimsədir. Bu, Fərzədqtin şu sözüdür: «وعَضُّ زمانٍ يابنَ مَرْوانَ لم يَدَعْ … مِنْ المال إلاَّ مُسْحَتاً أوْ مُجَلَّفُ» (Ey Mərvanın oğlu, zamanın dişləməsi mal-dövlətdən ancaq kökü kəsilmiş və ya tamamilə sovurulaq aparılmış bir şey buraxmadı). وَالْجِلْفَة (cilfə) — bir şeydən olan parça. وَالجِلْف (cilf) — başı və ayaqları kəsilərək soyulmuş dəridir — məhz buna görə də «o, sərt və qaba cilfdir» deyirlər — və bu ona görə belə adlandırılmışdır ki, onun ucları kəsilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.349Z"
+}

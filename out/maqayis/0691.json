@@ -1,0 +1,17 @@
+{
+ "i": 691,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 481,
+  "page_to": 481
+ },
+ "ar": "الجيم والميم واللام أصلان: أحدهما تجمُّع وعِظَم الخَلْق، والآخر حُسْنٌ.\nفالأوّل قولك أجْمَلْتُ الشَّئ، وهذه جُمْلة الشّئ. وأجمَلْتُه: حصّلته.\nوقال اللّه تعالى: ﴿وَقالَ اَلَّذِينَ كَفَرُوا لَوْلا نُزِّلَ عَلَيْهِ اَلْقُرْآنُ جُمْلَةً واحِدَةً (١﴾.\nويجوز أنْ يكون الجَمَل من هذا؛ لعِظَم خَلْقه. والجُمَّل: حَبْل غَليظ، وهو من هذا أيضا. ويقال أجْمَلَ القومُ كثُرت جمالُهم. والجُمَالىّ: الرَّجُل العظيم الخَلْق، كأنه شُبِّه بالجمل؛ وكذلك ناقةٌ جمَالِيَّة. قال الفراء: «جمالات» جمع جَمَل.\nوالجِمَالات: ما جمع من الحِبال والقُلُوس (٢).\nوالأصل الآخر الجَمَال، وهو ضدُّ القبح. ورجلٌ جميل وجُمال (٣). قال ابن قتيبة: أصله من الجمِيل وهو وَدَك الشَّحمِ المُذابِ. يراد أنَّ ماءَ السِّمَنِ يجرى فى وجهه. ويقال جَمَالَكَ أن تَفعَلَ كذا، أى أُجْمُلْ ولا تَفْعَلْه. قال أبو ذؤيب:\nجَمَالَكَ أيُّها القلبُ الجريحُ … ستَلْقَى مَنْ تُحبُّ فتستريحُ (٤)\nوقالت امرأةٌ لابنتها: «تَجَمَّلِى وتَعَفَّفِى»، أى كُلِى الجَميلَ - وهو الذى ذكرناه من الشُّحم المذاب - واشربى العُفَافَة، وهى البقية من اللبن.",
+ "az": "«جمل» (جيم, مىم və لام) – iki əsasdır: birincisi toplanmaq və xilqətin böyüklüyü, ikincisi isə gözəllikdir.\nBirincisi – «أجْمَلْتُ الشَّئ» (şeyi ümumiləşdirdim, topladım) və «هذه جُمْلة الشّئ» (bu, şeyin cəmidir / ümumi miqdarıdır) deməyindir. «وأجمَلْتُه: حصّلته» (Onu topladım, əldə etdim).\nUca Allah buyurmuşdur: ﴿وَقالَ اَلَّذِينَ كَفَرُوا لَوْلا نُزِّلَ عَلَيْهِ اَلْقُرْآنُ جُمْلَةً واحِدَةً (١﴾ (Kafir olanlar dedi: «Məgər Quran ona bir dəfəyə bütövlükdə nazil edilsəydi olmazdımı?!» – mənaca tərcümə).\n«الجَمَل» (əل-جَمəl – dəvə) sözünün də xilqətinin böyüklüyünə görə bundan olması caizdir. «الجُمَّل» (əل-جُمَّل) – qalın ipdir, bu da həmçinin bundandır. «أجْمَلَ القومُ» – tayfanın dəvələri çoxaldı, deməkdir. «الجُمَالىّ» (əل-جُمَالىّ) – böyük xilqətli kişidir, sanki dəvəyə bənzədilmişdir; eləcə də «ناقةٌ جمَالِيَّة» (dəvəyə bənzər uca dişi dəvə). Fəra demişdir: «جمالات» sözü «جَمَل» sözünün cəmidir.\n«الجِمَالات» (əل-جِمالات) – ip və qəliblərin (٢) yığıldığı şeylərdir.\nDigər əsas isə «الجَمَال» (əل-جَمال) olub, çirkinliyin əksidir. «رجلٌ جميل» (gözəl kişi) və «جُمال» (٣). İbn Qüteybə demişdir: Onun əsri əridilmiş piydən olan «الجَمِيل» sözündəndir. Məqsəd budur ki, kökəlmə suyu (gözəllik) onun üzündə axır. Və «جَمَالَكَ أن تَفعَلَ كذا» – yəni gözəlliklə belə et, bunu etmə, deməkdir. Əbu Züeyb demişdir:\n«جَمَالَكَ أيُّها القلبُ الجريحُ … ستَلْقَى مَنْ تُحبُّ فتستريحُ (٤)»\n(Gözəlliyinə görə, ey yaralı qəlb... Sevdiyin kəsi tapacaq və rahatlanacaqsan.)\nBir qadın qızına demişdir: «تَجَمَّلِى وتَعَفَّفِى» (Gözəlləş və iffətli ol), yəni gözəl şey – yuxarıda bəhs etdiyimiz əridilmiş piy – ye və əfafı, yəni qalan südü iç.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:12.830Z"
+}

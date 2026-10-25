@@ -1,0 +1,17 @@
+{
+ "i": 500,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثأثأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 370,
+  "page_to": 370
+ },
+ "ar": "الثاء والهمزة، كلمتان ليستا أصلا، يقال ثأثأت بالإبل صِحْتُ بها؛ ولقِيتُ فلاناً فثأثأتُ منه (٤)، أى هِبْتُه.",
+ "az": "«ثأثأ»: الثاء və Həmzə, əsli olmayan iki kəlimədir, deyilir: ثأثأت بالإبل — dəvələrə qışqırdım; və (لقِيتُ فلاناً فثأثأتُ منه) (٤) — filankəslə qarşılaşdım və ondan qorxdum.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2192,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 251,
+  "page_to": 251
+ },
+ "ar": "الشين والحاء والميم أصلٌ يدلُّ على جِنسٍ من اللّحم. من ذلك الشّحم، وهو معروف. وشَحْمة الأُذُن: مُعَلّق القُرْط. ورجلٌ مُشْحِمٌ كثير الشَّحْم، وإن كان يحبُّه قيل شَحِم، وإن كان يطعمه أصحابَه قيل شاحم، فإِن كان يبيعه قيل شَحَّام.",
+ "az": "[شحم] Şin, hə və mim hərfləri ət cinsindən bir şeyə dəlalət edən kökdür. O cümlədən «الشّحم» (piy) — məlumdur. «وشَحْمة الأُذُن» — sırğanın asıldığı yer (qulaq sırğası). «رجلٌ مُشْحِمٌ» — piyə malik olan kişi, əgər onu sevirsə «شَحِم», əgər onu öz dostlarına yedirdirsə «شاحم», əgər onu satırsa «شَحَّام» deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:46.217Z"
+}

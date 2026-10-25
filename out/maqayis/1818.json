@@ -1,0 +1,17 @@
+{
+ "i": 1818,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 45,
+  "page_to": 45
+ },
+ "ar": "الزاء والباء واللام كلمةٌ واحدة. يقولون: ما أصبت مِنْ فلان زُبالاً (٣)، قالوا: هو الذى تحمله النّملة بفيها. وليس لها اشتقاق. وذكر ناسٌ إن كان صحيحاً -: ما فى الإناء زُبَالة، إذا لم يكن فيه شئٌ. وأما قولهم زبَلْتَ الزّرعَ، إذا سَمَّدته بالزِّبل، فإن كان صحيحاً فهو من الباب أيضاً؛ لأن الزِّبْل من الساقط الذى لا يُعتَدّ به.\nوحكى أنّ الزَّأْبَل: الرّجلُ القصير. وينشدون:\nحَزَنْبَلُ الْخُصْيَيْنِ فَدْمٌ زَأْبَلُ (٤)\nوهذا وشِبهه مما لا يُعرَّج عليه.",
+ "az": "[زبل] (zə-ba-lam): tək bir sözdür. Deyirlər: «ما أصبت مِنْ فلان زُبالاً (٣)» (filankəsdən zərrə qədər bir şey əldə etmədim), deyirlər ki, bu, qarışqanın ağzında daşıdığı şeydir. Onun kökü yoxdur. Bir dəstə insan zikr etmişdir — əgər bu səhihdirsə: «ما فى الإناء زُبَالة» (qabda heç bir şey yoxdur) — qabda heç bir şey olmadığı zaman. Amma onların «زبَلْتَ الزّرعَ» (əkinə peyin verdin) sözünə gəldikdə, əgər bu səhihdirsə, o da bu babdandır; çünki peyin dəyər verilməyən töküntülərdəndir. \nRəvayət olunmuşdur ki, «الزَّأْبَل» (əz-zə'bəl) — qısa boylu kişidir. Onlar şeir oxuyurlar: \nحَزَنْبَلُ الْخُصْيَيْنِ فَدْمٌ زَأْبَلُ (٤)\nBu və buna bənzəyən şeylər üzərində dayanılmayanlardandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1006,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حتف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 135,
+  "page_to": 135
+ },
+ "ar": "الحاء والتاء والفاء كلمةٌ واحدة لا يُقاس عليها؛ وذلك أنّه لا يُبنى منها فِعل، وهو الحَتْف، وجمعه حُتوف، وهو الهلاك.",
+ "az": "«حتف» (h-t-f): Ha, ta və fa kəlməsi üzərində qiyas qurulmayan tək bir sözdür; çünki ondan fel düzəldilmir, bu da «الحَتْف» (əl-hətf) olub, cəmi «حُتوف» (hutuf) gəlir və məhv olmaq, ölüm deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.109Z"
+}

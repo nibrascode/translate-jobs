@@ -1,0 +1,17 @@
+{
+ "i": 1034,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 157,
+  "page_to": 157
+ },
+ "ar": "الخاء والهمزة الممدودة ليست أصلاً ينقاس، بل ذُكِر فيه حرفٌ واحد لا يُعرَف صحته. قالوا: خاء بك علينا، أى اعجَل. وأنشدُوا للكميت:\n* بِخاء بك الحَقْ يَهْتِفُون وحَىَّ هَلْ (٢) *",
+ "az": "[خأ] الخاء والهمزة الممدودة ليست أصلاً ينقاس (Xar və uzadılan həmzə qanuna uyğun gələn bir əsas deyildir), بل ذُكِر فيه حرفٌ واحد لا يُعرَف صحته (əksinə, orada səhihliyi bilinməyən tək bir hərf zikr olunmuşdur). قالوا (Dedilər ki): خاء بك علينا (Xaa bik əleynə), أى اعجَل (yəni tələsik ol). وأنشدُوا للكميت (Və Kumeyt üçün bu şeiri oxudular): * بخاء بك الحق يهتفُونَ وحَىَّ هَلْ (٢) * («Xaa bik ilə haqq çağırırlar və həyyə həl!»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:32.375Z"
+}

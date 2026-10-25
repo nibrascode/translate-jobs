@@ -1,0 +1,17 @@
+{
+ "i": 1137,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خمع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 220,
+  "page_to": 220
+ },
+ "ar": "الخاء والميم والعين أصلٌ واحد يدلُّ على قلّة الاستقامة، [و] على الاعوجاج. فمن ذلك خَمَعَ الأعرجُ. ويقال للضِّباع الخوامع؛ لأنّهنّ عرْجٌ. والخِمعْ: اللّص. والخِمع: الذِّئب. والقياسُ واحدٌ.",
+ "az": "[خمع] (X-M-Ə) Xa, mim və əyn hərfləri tək bir kökdür və düzgünlüyün azlığına və əyriliyə dəlalət edir. Buna misal olaraq axsaq adamın xəmə (خَمَعَ) etməsini göstərmək olar. Kaftarlara xəvami (الخوامع) deyilir; çünki onlar axsaqdırlar. Ximə (الخِمعْ): oğrudur. Ximə: canavardır. Qiyas birdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:12:39.173Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 371,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلدح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 330,
+  "page_to": 330
+ },
+ "ar": "ومن ذلك (ابْلَنْدَحَ) وتفسيره اتَّسع. وهو منحوتٌ من كلمتين: من البَدَاح وهى الأرض الواسعة، ومن البَلَد وهو الفَضَاء البَرَاز. وقد مضى تفسيرُهما.",
+ "az": "[بلدح] (Bə-lam-dal-ha) Buradan «ابْلَنْدَحَ» (ibləndəhə) gəlir, izahı genişləndi deməkdir. Bu, iki kəlmədən nəht edilmişdir: «البَدَاح» (əl-bədəh - geniş yer) və «البَلَد» (əl-bələd - boş, açıq sahə). Onların izahı artıq keçmişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

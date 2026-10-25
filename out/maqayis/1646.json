@@ -1,0 +1,17 @@
+{
+ "i": 1646,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رأب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 473,
+  "page_to": 473
+ },
+ "ar": "الراء والهمزة والباء أصلٌ واحد يدلُّ على ضمٍّ وجَمع.\nتقول: رأيتُ الأمورَ المتفرِّقة؛ إذا أنت جمعتَها برِفْقِك، كما يرأبَ الشَّعَّابُ صَدْعَ الجَفْنة. وتلك الخشبةُ التى يُشعَب بها رُؤْبة.",
+ "az": "«رأب»: (Ra, Həmzə, Ba) birləşdirməyə və toplamağa dəlalət edən tək bir əsldir. Deyirsən: رَأَيْتُ الْأُمُورَ الْمُتَفَرِّقَةَ (pərakəndə işləri birləşdirdim) - sən onları məharətlə topladığın zaman, necə ki qab təmiri edən şəxs qabın yarığını birləşdirir. Həmin taxta parça ki onunla qablar tikilir - رُؤْبَة (ruubə) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.917Z"
+}

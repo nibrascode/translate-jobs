@@ -1,0 +1,17 @@
+{
+ "i": 1009,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حتو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 136,
+  "page_to": 136
+ },
+ "ar": "الحاء والتاء والحرف المعتل بعده أصلٌ واحدٌ، يدلُّ على شدَّةٍ.\nفالحَتْو: العَدْوُ الشديد، يقال حتا يحتو حَتْواً. والحَتْو: كَفُّكَ هُدْبَ الكِساء، تقول حَتَوْتُه. فأمّا الحَتِىُّ فيقال: إنّه سَويق المُقْلِ، وهو شاذ. وقد يجوز أن يُقْتَاسَ (١) له بابٌ فيه بعض الخُشونة. قال الهذلى (٢):\nلا دَرَّ درِّىَ إنْ أطعمْتُ نازلَكُم … قِرْفَ الحَتِىِّ وعندى البرُّ مكنُوزُ",
+ "az": "«حتو» — الحاء والتاء والحرف المعتل بعده أصلٌ واحدٌ، يدلُّ على شدَّةٍ. فالحَتْو: العَدْوُ الشديد، يقال حتا يحتو حَتْواً. والحَتْو: كَفُّكَ هُدْبَ الكِساء، تقول حَتَوْتُه. فأمّا الحَتِىُّ فيقال: إنّه سَويق المُقْلِ، وهو شاذ. وقد يجوز أن يُقْتَاسَ (١) له بابٌ فيه بعض الخُشونة. قال الهذلى (٢): لا دَرَّ درِّىَ إنْ أطعمْتُ نازلَكُم … قِرْفَ الحَتِىِّ وعندى البرُّ مكنُوزُ (Həft və ta hərflərindən və ondan sonra gələn uzadılma hərfindən ibarət kök tək bir əsas məna olub şiddətə dəlalət edir. Əl-hətv: şiddətli qaçış; \"həta, yahtuv, hətvən\" deyilir. Əl-hətv: əbanın saçağını yığmaq, toparlamaq, \"hətvtuhu\" deyirsən. Hətiyə gəldikdə isə, deyilir ki, o, dum quşüzümünün (və ya dəm fıstığının) unudur və bu, şazdır. Ola bilər ki, onun üçün içində müəyyən sərtlik olan bir bölmə qiyas edilsin (təyin olunsun). Hüzəli şair demişdir: Ana südüm qurusun əgər mən sizə qonaq gələnə həti qabığı yedizdirsəm, halbuki buğdam anbarlarda qorunub saxlanmaqdadır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:38.623Z"
+}

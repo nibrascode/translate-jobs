@@ -1,0 +1,17 @@
+{
+ "i": 1189,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ختر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "الخاء والتاء والراء أصلٌ يدلُّ على تَوانٍ وفُتُورٍ. يقال تَخَتّرَ الرجلُ فى مِشيته، وذلك أن يَمشى مِشْية الكَسْلان. ومن الباب الخَتْر، وهو الغَدْر، وذلك أنّه إذا خَتَر فقد قعَد عن الوفاء. والخَتَّار: الغَدَّار. قال اللّه تعالى: ﴿وَما يَجْحَدُ بِآياتِنا إِلّا كُلُّ خَتّارٍ كَفُورٍ﴾.",
+ "az": "[ختر] الخاء والتاء والراء أصلٌ يدلُّ على تَوانٍ وفُتُورٍ. (Xar, ta və ra hərfləri süstlüyə və zəifliyə dəlalət edən bir əsasdır). يقال تَخَتّرَ الرجلُ فى مِشيته، وذلك أن يَمشى مِشْية الكَسْلان. (Deyilir: «Təxəttarə-r-raculu fi mışyətihi», bu da tənbəlin yeriməsi kimi yeriməkdir). ومن الباب الخَتْر، وهو الغَدْر، وذلك أنّه إذا خَتَر فقد قعَد عن الوفاء. (Və bu fəsildəndir «əl-xətr», o da xəyanətdir, bu da o deməkdir ki, o, xəyanət etdikdə vəfadan əl çəkmiş olur). والخَتَّار: الغَدَّار. («əl-Xəttar» — xaindir). قال اللّه تعالى: ﴿وَما يَجْحَدُ بِآياتِنا إِلّا كُلُّ خَتّارٍ كَفُورٍ﴾. (Uca Allah buyurmuşdur: mənaca tərcümə: «Bizim ayələrimizi yalnız hər bir xain və nankor inkar edər»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:18.900Z"
+}

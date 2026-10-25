@@ -1,0 +1,17 @@
+{
+ "i": 1673,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رجح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 489,
+  "page_to": 489
+ },
+ "ar": "الراء والجيم والحاء أصلٌ واحدٌ، يدلُّ على رَزَانةٍ وزِيادة.\nيقال: رَجحَ الشئ، وهو راجح، إذا رَزَن، وهو من الرُّجْحان، فأمّا الأُرْجُوحة فقد ذُكِرَتْ فى مكانها (١). ويقال أرجَحْتُ، إذا أَعْطَيتَ راجحاً. و\nفى الحديث:\n«زنْ وَأرجح». وتقول: ناوَأْنَا قَوْماً فرجَحْناهم، أى كُنَّا أرزَنَ منهم. وقومٌ مَراجيحُ فى الحِلْم؛ الواحد مِرجاحٌ. ويقال: إنّ الأراجِيح الإبلُ؛ لاهتزازها فى رَتَكانِها إذا مَشَتْ. وهو من الباب؛ لأنها تترجّح وتترجّح أحمالُها. وذكر بعضُهم أنّ الرَّجَاحَ المرأةُ العظيمة العَجُز: وأنشد:\n* ومِنْ هَوَاىَ الرُّجُح الأثَائثُ (٢) *",
+ "az": "«رجح» (rə-cə-hə): Ra, cim və ha tək bir əsas olub, ağırlığa və artıma dəlalət edir.\n\nDeyilir: «رَجحَ الشئ، وهو راجح» (şey ağır gəldi, o da ağır gələndir), əgər ağırlaşdısa. Bu, «الرُّجْحان» (ərcuhan – üstünlük, ağırlıq) sözündəndir. «الأُرْجُوحة» (əl-urcuha – yelləncək) isə öz yerində zikr edilmişdir (١). Deyilir: «أرجَحْتُ» (ərcəhtu) – artıq çəki (və ya artıq şey) verdiyin zaman.\nHədisdə:\n«زنْ وَأرجح» (Çək və artır).\nVə deyirsən: «ناوَأْنَا قَوْماً فرجَحْناهم» (bir qövmlə çarpışdıq və onları üstələdik) – yəni biz onlardan daha ağır (və üstün) olduq. «قومٌ مَراجيحُ فى الحِلْم» (həlimlikdə ağır və üstün qövm); təki «مِرجاحٌ» (mircah) olur. Deyilir ki, «الأراجِيح» (əl-arajih) – dəvələrdir; çünki onlar yeridikləri zaman addımlarında titrəyiş olur. Bu da həmin qapıdandır; çünki onlar və yükləri yellənir. Bəziləri zikr etmişdir ki, «الرَّجَاح» (əl-rəcah) – oması böyük olan qadındır. Və şeir demişdir:\n* ومِنْ هَوَاىَ الرُّجُح الأثَائثُ (٢) *\n(Və mənim eşqim böyük omalı, ətli-qanlı qadınlardır)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:36:20.417Z"
+}

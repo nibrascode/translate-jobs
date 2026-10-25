@@ -1,0 +1,17 @@
+{
+ "i": 2409,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضمز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 371,
+  "page_to": 372
+ },
+ "ar": "الضاد والميم والزاء أصلٌ صحيح يدلُّ على إمساكٍ فى كلام أو إمساكٍ على شئٍ بفم وما أشبَهَ ذلك. من ذلك ضَمَزَ البَعِيرُ: أَمسك عن الجِرّة. والضَّامز: السّاكت. وقال بشر:\nوقد ضَمَزَتْ بجِرّتها سُلَيْمٌ … مخافتَنا كما ضَمَز الحِمارُ (١)\nوالضَّمْز: ضرب من الأكل، لأنّه إذا أكل أمسَكَ عليه فى فمه. وضَمَز فلانٌ على مالى، أى لزمه (٢).\nومما شذَّ عن هذا الأصل: الضَّمْزَة: الأكَمة الخاشعة، والجمع ضَمْزٌ.",
+ "az": "[ضمز] (Dəməz): Zad, mim və zay hərfləri danışıqda susmağa və ya ağızla hər hansı bir şeyi tutub saxlamağa və bu kimi hallara dəlalət edən səhih bir əsasdır. Bunlardandır: ضَمَزَ البَعِيرُ (dəməzə l-bəir) — dəvə gəvərməyi dayandırdı. Əd-damiz (الضَّامز): susan kəsdir. Bişr demişdir: وقد ضَمَزَتْ بجِرّتها سُلَيْمٌ … مخافتَنا كما ضَمَز الحِمارُ (١) (Qorxumuzdan Süleym qəbiləsi gəvərməyi dayandırdı, tıpkı eşşəyin susduğu kimi). Əddəmz (الضَّمْز): bir növ yeməkdir, çünki o yedikdə onu ağzında saxlayır. Və ضَمَز فلانٌ على مالى (filankəs malıma sarıldı) — yəni ona yapışdı, bağlı qaldı. Bu əsasdan istisna olunan kəlmə budur: əddəmzə (الضَّمْزَة): alçaq təpəcikdir, cəmi isə ədmz (ضَمْزٌ) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:55.136Z"
+}

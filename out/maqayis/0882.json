@@ -1,0 +1,17 @@
+{
+ "i": 882,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حصوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 69,
+  "page_to": 69
+ },
+ "ar": "الحاء والصاد والحرف المعتل ثلاثة أصول: الأول المنع، والثانى العَدُّ والإطاقة، والثالث شئ من أجزاء الأرض.\nفالأوَّل الحصو. قال الشيبانىّ: هو المنع؛ يقال حصوته أى منعته. قال:\nألا تخافُ اللّه إذْ حَصَوْتنى … حقِّى بلا ذنبٍ وإذْ عَنَّنْتَنى (٥)",
+ "az": "[حصوى] Ha (ha), Sad (sad) və əl-hərfi-l-mu'təl (vav və ya) üç kökdür: Birincisi qadağan etmək, ikincisi saymaq və gücü çatmaq, üçüncüsü isə yerin hissələrindən biridir. Birincisi «الحصو» (əl-həsv) - Şeybani demişdir: Bu, qadağan etməkdir; «حصوته» (həsvətuhu) deyilir, yəni onu qadağan etdim. O demişdir: «ألا تخافُ اللّه إذْ حَصَوْتنى … حقِّى بلا ذنبٍ وإذْ عَنَّنْتَنى» (Allahdan qorxmursanmı ki, heç bir günahım olmadan haqqımı məndən qadağan etdin və məni əziyyətə saldın) (٥).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:57:37.546Z"
+}

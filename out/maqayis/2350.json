@@ -1,0 +1,17 @@
+{
+ "i": 2350,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صخب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "الصاد والخاء والباء أصلٌ صحيحٌ يدلُّ على صوتٍ عال.\nمن ذلك الصَّخَب: الصَّوْت والجَلَبة. وقال بعضُهم: رجلٌ صَخْبانُ: كثير الصّخْب. وماءٌ صَخِبُ الآذِىِّ (٣)، إِذا كان له صوت.",
+ "az": "[صخب] «الصاد» (sad), «Xə» (xa) və «Ba» (ba) uca səsə dəlalət edən səhih bir kökdür. Bunlardan biri «الصَّخَب» (əs-səxəb) — səs-küy və hay-küydür. Bəziləri demişdir: «رجلٌ صَخْبانُ» (səxban kişi) — səs-küyü çox olan. «ماءٌ صَخِبُ الآذِىِّ» (dalğalarının səsi gurultulu olan su).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

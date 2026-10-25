@@ -1,0 +1,17 @@
+{
+ "i": 1241,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دعك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 281,
+  "page_to": 282
+ },
+ "ar": "الدال والعين والكاف أصلٌ واحد يدلُّ على تمريس الشئ. يقال دَعَكَ الجِلْد وغيرَه، إذا دَلَكَه. وتداعَكَ الرَّجُلانِ فى الحرب،\nإذا تحرَّش كلُّ واحدٍ منهما بصاحبه. ويقولون: الدُّعَكُ، على فُعَلٍ: الرجلُ الضَّعيف. وأنشدوا الحسان (١):\n* وأنت إذا حارَبُوا دُعَكْ (٢) *",
+ "az": "[دعك] «الدال والعين والكاف» (dal, ayn və kaf) bir şeyi ovuşdurmağa dəlalət edən tək bir əsasdır. Deyilir: دَعَكَ الجِلْد وغيرَه (dəri və başqa şeyi ovuşdurdu), yəni onu masaj etdi, sildi. Və تداعَكَ الرَّجُلانِ فى الحرب (iki kişi müharibədə bir-birinin yaxasına yapışdılar), hər biri digərinə sataşdığı zaman. Və deyirlər: الدُّعَكُ (duək) – füzəl vəzni üzrə zəif kişidir. Onlar Həssanın (١) [şeirini] misal gətirmişlər: * وأنت إذا حارَبُوا دُعَكْ (٢) * (Sən isə döyüşdükləri zaman zəif birisən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.370Z"
+}

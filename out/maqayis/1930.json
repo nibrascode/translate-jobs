@@ -1,0 +1,17 @@
+{
+ "i": 1930,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سنخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 105,
+  "page_to": 105
+ },
+ "ar": "السين والنون والخاء أصلٌ واحد يدلُّ على أصل الشئ.\nفالسِّنْخ: الأصل وأسنَاخُ (١) الثنايا: أصولُها. ويقال سَنَخ الرجل فى العِلم سُنوخاً أى علِمَ أصولَه. فأمّا قولهم سَنِخَ الدُّهن، إذا تغيَّر، فليس بشئ.",
+ "az": "«سنخ» — السين، والنون والخاء (سين، نun və xa) bir şeyin əslinə dəlalət edən tək bir əsasdır. «السِّنْخ» — əsl, kök deməkdir. «أسنَاخُ الثنايا» (١) — ön dişlərin kökləri. Deyilir ki, kişi elmdə «سَنَخَ ... سُنوخاً» — yəni onun köklərini bildi. Onların «yağ dəyişdi» mənasında «سَنِخَ الدُّهنُ» demələrinə gəlincə, bunun heç bir əsası yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.684Z"
+}

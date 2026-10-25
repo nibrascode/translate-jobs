@@ -1,0 +1,17 @@
+{
+ "i": 1849,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 65,
+  "page_to": 65
+ },
+ "ar": "السين والحاء أصلٌ واحد يدلُّ على الصّبّ، يقال سححت [الماءَ] أسُحُّ سَحًّا. وسَحَابَةٌ سحوح، أى صَبّابة. وشاةٌ ساحٌّ، أى سمينة، كأنّها تَسُحّ الودكَ سَحًّا. وفرس مِسَحٌّ، أى سريعةٌ يشبه عدوُها انصبابَ المطر.\nويقال سَحسح الشئُ، إذا سال. ويقال إن السحسحة هى السَّاحة (٥).",
+ "az": "[سح] Sin və ha hərfləri axıtmağa (tökülməyə) dəlalət edən tək bir əldir. Deyilir: «سححت [الماءَ] أسُحُّ سَحًّا» ([suyu] tökdüm, tökürəm, axıdıram). Və «سَحَابَةٌ سحوح» — leysanla yağış tökən bulud. Və «شاةٌ ساحٌّ» — piyini sanki leysan kimi axıdan kök qoyun. Və «فرس مِسَحٌّ» — qaçışı yağışın yağmasına bənzəyən sürətli at.\n\nVə deyilir: «سَحسح الشئُ» — şey axdı. Həmçinin deyilir ki, «السحسحة» — meydandır (٥).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:42:47.277Z"
+}

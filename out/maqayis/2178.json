@@ -1,0 +1,17 @@
+{
+ "i": 2178,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شتر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "الشين والتاء والراء يدلُّ على خرقٍ فى شئ. من ذلك الشتَر فى العين: انقلابٌ فى جفنها الأسفل مع خرقٍ يكون. ويشتقّ من ذلك قولهم: شتَّر به، إِذا انتقصَه وعابَه ومزّقه.",
+ "az": "«شتر» (şətr). Şin, ta və ra hərfləri bir şeydə yarığa və ya qüsuruna dəlalət edir. Bunlardandır gözün şətəri (الشتر): yarıqla birlikdə alt göz qapağının içəriyə çevrilməsi. Bundan götürülərək onların belə deməsi işlənmişdir: شتَّر به (şəttərə bihi) — onu əskiltdi, qınadı və parçaladı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

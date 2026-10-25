@@ -1,0 +1,17 @@
+{
+ "i": 2392,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضغب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "الضاد والغين والباء ليس بأصل، بل هو بعضُ الأصوات.\nيقولون: إِنّ الضَّغيب تضوُّرُ الأرنب إِذا أُخِذَت؛ ومثله الضُّغَاب. والضَّاغب:\nالذى يختبئ فى الخَمَر يفزِّعُ النَّاس.",
+ "az": "[ضغب] «الضاد» (زاد), «الغين» (ğin) və «الباء» (ba) hərfləri əsl deyil, əksinə səslərin bir növüdür.\nOnlar deyirlər ki: «الضَّغيب» (əz-zəğib) — dovşana əl uzadıldığı zaman onun çıxartdığı səslərdir; «الضُّغَاب» (əz-zuğab) da kimidir. «الضَّاغب» (əz-zağib) — camaatı qorxutmaq üçün sıx kolluqda gizlənən kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

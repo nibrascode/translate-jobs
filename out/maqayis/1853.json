@@ -1,0 +1,17 @@
+{
+ "i": 1853,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سطع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 70,
+  "page_to": 71
+ },
+ "ar": "السين والطاء والعين أصلٌ يدلُّ على طول الشئ وارتفاعِه فى الهواء. فمن ذلك السَّطَع، وهو طول العنق. ويقال ظليم أسطَعُ ونَعامة سَطْعاء. ومن الباب السِّطاع، وهو عمود من عُمُد البيت. قال القطامىّ:\nأليُسوا بالأُولى قَسَطوا جميعاً … على النُّعمان وابتدروا السِّطاعا (٢)\nويقال سطَع الغبارُ * وسطعت الرائحة، إذا ارتفعت. والسَّطَعْ: ارتفاع صوت الشئ إذا ضربتَ عليه شيئاً. يقال سطعَه. ويقال إنّ السَّطيع الصبح. وهذا إنْ صحَّ فهو من قياس الباب؛ لأنه شئ يعلو ويرتفع. فأما السِّطاع فى شعر هذيل فهو جَبَل بِعينه (١)",
+ "az": "«سطع» (Sətə’ — ucalmaq, uzanmaq). Sin, ta və eyn hərfləri bir şeyin uzunluğuna və havada ucalmasına dəlalət edən əslə (kökə) dəlalət edir. Bunlardandır: as-sətə’ (السَّطَع), yəni boyun uzunluğu. Deyilir: dəvəquşu əstəun (أُسطَعُ) və dişi dəvə sət’aun (سَطْعاء). Bu babdandır: as-sita’ (السِّطاع) — evin dirəklərindən bir dirək. Qutami demişdir: أليُسوا بالأُولى قَسَطوا جميعاً … على النُّعمان وابتدروا السِّطاعا — (Onlar Nəfəsin üzərinə hamısı ədalətsizlik edən və sitaca (dirəyə) tələsənlər deyilmi?). Deyilir: «Sətə’a əl-ğubaru» (سطَع الغبارُ) və «sətə’at ər-raihatu» — toz qalxdı və qoxu yayıldı (ucaldıldı). As-sət’u (السَّطَعْ) — üzərinə bir şeylə vurduqda şeyin səsinin ucalmasıdır. Deyilir: «Sətə’ahu» (سطعَه). Deyilir ki, as-sati’ (السَّطيع) səhərdir (sübh). Əgər bu səhihdirsə, bu, babın ölçüsündəndir; çünki o, yüksələn və ucalan bir şeydir. Hüzeyl şeirindəki as-sita’ (السِّطاع) gəldikdə isə, o, xüsusi bir dağdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:09.599Z"
+}

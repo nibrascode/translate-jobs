@@ -1,0 +1,17 @@
+{
+ "i": 2299,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 311,
+  "page_to": 311
+ },
+ "ar": "الصاد والميم واللام أصلٌ واحدٌ يدلُّ على شِدّة وصلابة.\nيقال صَمَل الشئ صُمُولاً، إذا صلُب واشتدَّ. ورجل صُمُلٌّ: شديد البَضْعة.\nوكان الخليل يقول: لا يقال ذلك إلاّ للمجتمع السنّ. واصمأَلَّ النَّباتُ، إذا قوِى والتفّ. والصّامل من كلِّ شئٍ: اليابس وصَمَل الشّجر، إذا لم يجد رِيًّا فخُشن. ويقال صَمَله بالعصا، إذا ضَرَبه. واللّه أعلم بالصَّواب.",
+ "az": "[صمل] (sad, mim və lam) — sərtliyə və bərkliyə dəlalət edən tək bir kökdür.\n\nDeyilir: «صَمَل الشئ صُمُولاً» (şey sərtləşdi və bərkidi). «رجل صُمُلٌّ» (sümül kişi) — əti bərk olan. Xəlil deyərdi: Bu, yalnız dişləri/sümükləri bir yerdə olan möhkəm kəslərə deyilər. Bitki güclənib sarmaşdıqda «اصمأَلَّ النَّباتُ» deyilər. Hər bir şeyin qurumuşuna «الصّامل» (samil) deyilir. Ağac su tapmayıb sərtləşdikdə «صَمَل الشَّجر» deyilər. Həmçinin «صَمَله بالعصا» — onu əsa ilə vurdu, deməkdir. Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.917Z"
+}

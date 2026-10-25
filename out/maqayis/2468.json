@@ -1,0 +1,17 @@
+{
+ "i": 2468,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضرى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 397,
+  "page_to": 397
+ },
+ "ar": "الضاد والراء والحرف المعتل أصلان: أحدهما شبه الإغراء بالشَّئ واللَّهَج به، والآخر شئ يستر.\nفالأوّل قولُ العرب: ضَرِىَ بالشَّئ، إذا أُغْرِى به حتى لا يكاد يصبرِ عنه.\nويقال: لهذا الشَّئ ضَرَاوة: أى لا يكاد يُصبَر عنه. والضَّارِى من أولاد الكلاب، والجمع الضِّراء، وسمِّى ضاريا لأنّه يَضْرَى بالشَّئ. والضِّرو:\nالضَّارى. ومن الباب: [الضَّارِى، و (٢)] هو العِرق السائل. وقد ضَرَا يَضْرُو ضَروًا، كأنّه لهجَ بالسَّيَلان.\nقال الخليل. الضَّرْو: اهتِزازُ الدّمِ عند خروجه من العِرق.\nوأمّا الأصل الآخر فالضَّرَاء: مَشْىٌ فيما يُوارِى من شجرٍ أو غيرِه. يقال:\nهو يمشى له الضَّرَاء، إذا كان يُخاتِله أو يُخادِعه.\nومن الباب الضِّرْو: شجر، لأنّه يستُر بورَقِه.",
+ "az": "[ضرى] الضاد (ضad), ra (ر) və uzadılma hərfi iki əslə malikdir: biri bir şeyə həvəsləndirməyə və ona bağlanmağa bənzəyir, digəri isə örtən bir şeydir. Birincisi ərəblərin sözüdür: ضَرِىَ بالشَّئ — bir şeyə elə həvəsləndirildi ki, demək olar ki, onsuz dözə bilmir. Deyilir: لهذا الشَّئ ضَرَاوة — yəni onsuz demək olar ki, dözülə bilməz. It balalarından olan الضَّارِى, cəmi ضِّراء gəlir, ona ضارِى deyilmişdir ki, çünki o bir şeyə alışır. Və الضِّرو — ضارى (alışqan) deməkdir. Fəsildəndir: [الضَّارِى, və (٢)] axan damardır. ضَرَا يَضْرُو ضَروًا olmuşdur, sanki axmağa alışıb. Xəlil demişdir: الضَّرْو — qan damardan çıxarkən onun titrəməsidir. Digər əslə gəldikdə, o, الضَّرَاء — ağac və ya başqa bir şeyin arxasında gizlənərək yeriməkdir. Deyilir: هو yеmək üçün ضَّرَاء yeriyir — hiylə işlətdikdə və ya aldatdıqda. Və fəsildəndir: الضِّرْو — bir ağacdır, çünki yarpaqları ilə gizlədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:49.275Z"
+}

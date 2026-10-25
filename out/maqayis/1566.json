@@ -1,0 +1,17 @@
+{
+ "i": 1566,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 434,
+  "page_to": 434
+ },
+ "ar": "الراء والكاف والضاد أصلٌ واحدٌ يدلُّ على حركةٍ إلى قُدُمٍ أو تحريكٍ. يقال ركَض الرّجُل دابّتَه، وذلك ضَرْبُه إيَّاها برجلَيْه لتتقدَّم، وكثُر حتَّى قيل ركَضَ الفرَسُ، وليس بالأصل. وارتكاض الصبىّ: اضطرابُه فى بَطْن أمِّه. قال الخليل: وجُعِل الرَّكْض للطَّير فى طيَرانها، ويقال أرْكَضَتِ الناقة، إذا تحرَّكَ ولدُها فى بطن أمِّها. و\nفى بعض الحديث فى ذكر دم الاستحاضة:\n«هو رَكْضَةٌ من الشَّيطان». يريد الدَّفْعة.",
+ "az": "[ركض] (rakəd) — ra, kaf və dad irəliyə doğru hərəkətə və ya hərəkət etdirməyə dəlalət edən tək bir əslə malikdir. Deyilir: «ركض الرّجُل دابّتَه (kişi minik heyvanını qovdu/sürdü)», bu, heyvanın irəliləməsi üçün ayaqları ilə ona vurmasıdır. Bu o qədər çox işlədilmişdir ki, hətta «ركَضَ الفرَسُ (at qaçdı/çapdı)» deyilmişdir, lakin əslində bu belə deyil. «ارتكاض الصبىّ (uşaqların tərpənməsi)» — uşağın anasının bətnində çırpınmasıdır. Xəlil demişdir: «الرَّكْض (rakd)» quşların uçuşundakı hərəkəti üçün də təyin edilmişdir, həmçinin «أرْكَضَتِ الناقةُ (dəvənin balası tərpəndi)» — ana dəvənin daxilində balası hərəkət etdiyi zaman deyilir. İstihəzə qanı haqqında hədislərin bəzisində gəlmişdir: «هو رَكْضَةٌ من الشَّيطان (Bu, şeytandan gələn bir təkan/sıçrayışdır)». O, buradakı vurğunu/axını qəsd edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:31:13.505Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 176,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بتع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 195,
+  "page_to": 195
+ },
+ "ar": "الباء والتاء والعين أصلٌ واحد يدلُّ على القوّة والشدّة. فالبَتَع طولُ العُنْق مع شِدّة مَغْرِزه. ويقال لِكلِّ شديدِ المفاصل بَتِع. فأمّا البِتْعُ فيقولون إنه نَبيذ العَسَل. ويمكن أن يكون سمِّىَ بذلك لعلّة أن تكون فيه.",
+ "az": "«بتع» (Bətə'ə)\nالباء والتاء والعين أصلٌ واحد يدلُّ على القوّة والشدّة. (Bə, tə və ayn — güc və şiddətə dəlalət edən tək bir əsasdır.)\nفالبَتَع طولُ العُنْق مع شِدّة مَغْرِزه. (əl-Bətə' — boyunun kökünün möhkəmliyi ilə birlikdə uzun olmasıdır.)\nويقال لِكلِّ شديدِ المفاصل بَتِع. (Oynaqları möhkəm olan hər bir şeyə bəti' denilir.)\nفأمّا البِتْعُ فيقولون إنه نَبيذ العَسَل. (əl-Bit'ə gəldikdə, deyirlər ki, o, bal nəbizidir.)\nويمكن أن يكون سمِّىَ بذلك لعلّة أن تكون فيه. (Və ola bilər ki, onda olan bir səbəbdən ötəri belə adlandırılmışdır.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:26:42.581Z"
+}

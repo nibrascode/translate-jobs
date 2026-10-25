@@ -1,0 +1,17 @@
+{
+ "i": 1997,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سجو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 137,
+  "page_to": 137
+ },
+ "ar": "السين والجيم والواو أصلٌ يدلُّ على سكونٍ وإطباق.\nيقال * سَجَا اللّيلُ، إذا ادلهمَّ وسكَن. وقال:\nيا حبَّذَا القَمراءُ واللَّيْلُ السّاجْ … وطُرقٌ مثلُ مُلاءِ النُّسَّاجْ (٣)\nوطرف ساجٍ، أى ساكن.",
+ "az": "[سجو] (səcə): Sin, cim və vav hərfləri sükunətə və bürünməyə dəlalət edən bir kökdür.\n«سَجَا اللّيلُ» (səcəl-leyl) – gecə qaranlıqlaşdı və sakitləşdi, deyilir. Və şair demişdir:\nيا حبَّذَا القَمراءُ واللَّيْلُ السّاجْ … وطُرقٌ مثلُ مُلاءِ النُّسَّاجْ (٣)\n(Ay işığı və sakit gecə nə gözəldir... və toxucuların parça örtükləri kimi yollar).\nVə «طرف ساجٍ» (tərfün sacin) – sakit baxış, deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:35.045Z"
+}

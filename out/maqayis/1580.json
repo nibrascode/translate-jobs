@@ -1,0 +1,17 @@
+{
+ "i": 1580,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 440,
+  "page_to": 440
+ },
+ "ar": "الراء والميم والضاد أصلٌ مطَّرِدٌ يدلُّ على حِدّةٍ فى شئ مِنْ حرّ وغيره. فالرَّمَض: حَرُّ الحجارةِ من شِدّة حَرّ الشمس. وأرضٌ رَمِضَةٌ:\nحارّة الحجارة. وذكر قومٌ أن رمَضانَ اشتقاقُه من شِدّة الحر؛ لأنَّهم لمَّا نقلوا اسمَ الشُّهور عن اللغة القديمة سَمَّوْها بالأزمنة، فوافق رمضانُ أيّامَ رَمَضِ الحرّ.\nويجمع على رَمضانات وأرِمضاءَ. ومن الباب أرمضَهُ الأمرُ ورَمِضَ للأمْرِ.\nورَمِض أيضاً، إذا أحرقَتْه الرَّمْضاء. ويقال رَمَضْتُ اللّحمَ على الرَّضْفِ، إذا أنضجْتَه. ومن الباب سِكِّين رَمِيض. وكلُّ حادٍ رَمِيضٌ. وقد رَمَضْتُه أنا.\nورَمِضَتِ الغنمُ، إذا رعَتْ فى شدّة الحَرّ فقرِحت أكبادُها. ويقال: فلانٌ يترمَّضُ الظِّباءَ، إذا تبعها وساقَها حَتَّى تَفَسَّخَ قوائمُها من الرَّمْضاء ثمَّ يأخُذُها.\nويقال ارتمَضَ بَطْنُه: فسَدَ، كأنَّ ثَمَّ داءً يُحْرِقُه. فأمّا قولُ القائل: أتيتُ فلاناً فلم أُصِبْه (١) فرمَّضْتُ ترميضاً، وذلك أن ينتظرَه. وممكنٌ أن يكون شاذًّا عن الأصل. ويمكن أن يكون الميم مبدلةً من باء، كأنّه ربّضت، من رَبَص.",
+ "az": "[رمض] (Rəməδ). Ra, mim və dad — istidən və başqa şeydən şiddətə dəlalət edən mütləq bir əsasdır. Və الرَّمَض (əl-rəməδ): günəşin şiddətli istisindən daşların qızması. أرضٌ رَمِضَةٌ (Rəmidə torpaq): daşları qızmar torpaq. Bir qrup zikr etmişdir ki, رمضان (Ramazan) sözünün kökü istinin şiddətindən götürülmüşdür; çünki onlar ay adlarını köhnə dildən köçürərkən onları zaman adları ilə adlandırdılar, ramazan da isti ramad günlərinə uyğun gəldi. Və o, رَمضانات (Ramazanlar) və أَرِمضاء (Ərimdaə) olaraq cəmlənir. Bu fəsildəndir: أرمضَهُ الأمرُ (İş onu yandırdı) və رَمِضَ للأمْرِ (İş üçün yanıb yaxıldı). Və həmçinin رَمِضَ (rəmida), o zaman ki, isti qum onu yandırdı. Deyilir: رَمَضْتُ اللّحمَ على الرَّضْفِ (Əti qızmar daş üzərində bişirdim), o zaman ki, onu bişirdin. Bu fəsildəndir: سِكِّين رَمِيض (Rəmiz bıçaq). Hər kəskin bıçaq رَمِيض (rəmiz) adlanır. Mən onu özüm bişirdim. Və رَمِضَتِ الغنمُ (Qoyunlar şiddətli istidə otladıqda ciyərləri yara oldu). Deyilir: فلانٌ يترمَّضُ الظِّباءَ (Filankəs ceyranları təqib edir), o zaman ki, onları qumdan ayaqları üzülənə qədər qovur, sonra onları tutur. Və deyilir: اِرْتَمَضَ بَطْنُه (Qarnı xarab oldu), elə bil orada onu yandıran bir xəstəlik var. Amma danışanın: أتيتُ فلاناً فلم أُصِبْه فرمَّضْتُ ترميضاً (Filankəsin yanına gəldim, onu tapmadım və gözlədim) sözünə gəldikdə, bu, onun gözləməsidir. Ola bilər ki, bu, əsasdan istisna (şaz) olsun. Və o da mümkündür ki, mim hərfi ba hərfinə əvəz olunmuş olsun, sanki رَبَصَ (rabəs) sözündən ربَّضت (rabəztu) kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:08.693Z"
+}

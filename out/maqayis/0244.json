@@ -1,0 +1,17 @@
+{
+ "i": 244,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بسط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 247,
+  "page_to": 247
+ },
+ "ar": "الباء والسين والطاء أصلٌ واحدٌ، وهو امتِدادُ الشَّئ فى عِرَض أو غير عِرَض. فالبِساط ما يُبْسط. والبَسَاط الأرض، وهى البسيطة.\nيقال مكان بَسِيطٌ وبَساط. قال:\nودونَ يَدِ الحَجّاج مِنْ أنْ تنالَنى … بَسَاطٌ لأيْدِى النَّاعِجاتِ عريضُ (١)\nويَدُ فلانٍ بِسْطٌ، إذا كان مِنْفَاقا، والبَسْطة فى كلّ شئ السَّعَة وهو بَسيط الجسْمِ والباعِ والعِلْم. قال اللّه تعالى: ﴿وَزادَهُ بَسْطَةً فِي اَلْعِلْمِ وَاَلْجِسْمِ﴾. ومن هذا الأصل وإليه يرجع، قولُهم للنَّاقة التى خُلِّيت هى ووَلَدَها لا تُمنَع منه: بُسْط.",
+ "az": "[بسط] (bəst) — با (ba), سين (sin) və طاء (ta) tək bir əsas mənaya malikdir, o da bir şeyin eninə və ya digər şəkildə uzanmasıdır. «البِساط» (bist) – sərilən şeydir. «البَسَاط» (bəsat) isə yerdir, hansı ki o, «البسيطة» (bəsitə - düzənlik, səthi geniş yer) adlanır. «مكان بَسِيطٌ» (bəsit məkan) və «بَساط» (bəsat) deyilir. Şair demişdir: ودونَ يَدِ الحَجّاج مِنْ أنْ تنالَنى … بَساطٌ لأيْدِى النَّاعِجاتِ عريضُ (١) (Həccacın əli mənə çatmaqdan əvvəl, sürətli dəvə əlləri üçün gen-börək bir səhra var). «يَدُ فلانٍ بِسْطٌ» (filankəsin əli açıqdır) – əgər o, səxavətli, əliaçıqdırsa; hər şeydə «البَسْطة» (bəstə) – genişlik deməkdir, o, bədəni, qolu və elmi baxımından genişdir (bəsitdir). Uca Allah buyurmuşdur: mənaca tərcümə: «Və ona elmdə və bədəndə genişlik (bəstə) artırdı». Bu əsərdəndir və yenə ona qayıdır, dəvəyə aid edilən «بُسْط» (bust) sözü ki, o və balası sərbəst buraxılmış, balası ondan məhrum edilməmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.233Z"
+}

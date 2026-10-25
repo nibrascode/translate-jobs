@@ -1,0 +1,17 @@
+{
+ "i": 1357,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دثر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 328,
+  "page_to": 328
+ },
+ "ar": "الدال والثاء والراء أصلٌ واحد منقاسٌ مطّرد. وهو تضاعُفٌ شئِ وتناضُدُه بعضِه على بعض. فالدَّثْر: المال الكثير. والدِّثار: ما تدثَّر به الإنسانُ، وهو فوق الشِّعار. فأمّا قول القائل (٢):\n* والعَكِرِ الدَّثِرْ (٣) *\nفإنَّه أراد الدَّثْر فحرك الثاء، وهو الكثير:\nومن الباب تَدَثَّر الفَحْلُ الناقَة، إِذا تَسَنَّمَها، كأنَّه صار دِثاراً لها.\nوتدثَّر الرجُلُ فرسَه، إذا وثب عليه فركِبَه. والدَّثُور: الرّجل النَّؤُوم (٤).\nوسمِّى لأنَّه يتدثَّر وينام. فأمّا قولهم رسْمٌ داثِرٌ، فهو من هذا، وذلك أنَّه يكون ظاهراً حتى تهبّ عليه الرِّياحُ وتأتِيَه الرَّوامسُ، فتصيرَ له كالدِّثار فتغطِّيه.",
+ "az": "[دثر] الدال والثاء والراء أصلٌ واحد منقاسٌ مطّرد. (الدال, sə və ra – qiyaslı və müntəzəm olan tək bir əsasdır). O da bir şeyin qat-qat olması və bir-birinin üzərinə yığılmasıdır. فالدَّثْر (əddəsr): Çox mal. والدِّثار (əddisar): İnsanın büründüyü şeydir ki, o da şikardan (alt paltarından) üstdədir. Qailin bu sözünə gəldikdə (٢): * والعَكِرِ الدَّثِرْ (٣) * O, bununla دَثْر (dəsri) qəsd etmiş, sə hərfini hərəkələmişdir, o da çox deməkdir; Bu بابdan olaraq: تدثَّر الفَحْلُ الناقَة (Təbəssüm etdi erkək dəvə dişi dəvəyə), o, onun üzərinə mindiyi zaman, sanki onun üçün bir ditar (bürgü) olmuşdur. Və تدثَّر الرجُلُ فرسَه (Kişi atına büründü), o, üzərinə sıçrayıb mindiyi zaman. والدَّثُور (əddəsur): Çox yatan kişi (٤). Və o, bürünüb yatdığı üçün belə adlandırılmışdır. رسْمٌ داثِرٌ (köhnəlmiş əsər) sözlərinə gəldikdə, o, bundan irəli gəlir, bu da odur ki, o, küləklər əsib ona rəvamslar (əsmən küləklər) gələnə qədər aşkar olur, nəticədə ona bir ditar kimi olub onu örtür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.119Z"
+}

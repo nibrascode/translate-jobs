@@ -1,0 +1,17 @@
+{
+ "i": 1449,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 380,
+  "page_to": 380
+ },
+ "ar": "الراء والنون أصلٌ واحدٌ يدلُّ على صوتٍ. فالإرنان: الصوت والرّنّة والرَّنِين: صَيحةُ ذِى الحُزْن. ويقال أرنَّت القَوسُ عند إنباض الرَّامى عنها. قال:\n* تُرِنُّ إرناناً إذا ما أَنْضَبَا (٢) *\nأى أَنْبَضَ. والمِرْنانُ: القوس؛ لأنَّ لها رَنيناً. ويقال إنَّ الرَّنَنَ دويْبتةٌ تكون فى الماء تصحيح أيّامَ الصيف. قال:\n* ولا اليَمَامُ ولم يَصْدَح له الرَّنَنُ (٣) *\nفهذا مُعظم الباب، وهو قياسٌ مطّرد. وحُكِيت كلمةٌ ما أدرى ما هى، وهى شاذّةٌ إن صحَّت، ولم أسَمعْها سماعاً. قالوا: كان يقال لجمادى الأولى رُنَّى، بوزن حُبلى. وهذا مما لا ينبغى أن يعوَّل عليه.",
+ "az": "[رن] \nالراء والنون (ra və nun) səsə dəlalət edən tək bir əsas mənadır. الإرنان (əl-irnan) — səs, الرّنّة (ər-rənnə) və الرَّنِين (ər-rənin) — kədər sahibinin fəryadıdır. Deyilir ki, oxatan oxu buraxdıqda yay səs çıxardı (أرنَّت القَوسُ). O demişdir:\n* تُرِنُّ إرناناً إذا ما أَنْضَبَا (٢) *\n(O, oxu buraxdığı zaman səs-küylə inildəyər). \nYəni oxu buraxdıqda. المِرْنانُ (əl-mirnan) — yay; çünki onun səsi (rənini) vardır. Deyilir ki, الرَّنَن (ər-rənən) — suda olan, yay günlərində səslənən kiçik bir qurdlardandır. O demişdir:\n* ولا اليَمَامُ ولم يَصْدَح له الرَّنَنُ (٣) *\n(Nə qumral göyərçinlər, nə də səslənən rənən onun üçün oxudu).\nBudur bu babın əsas hissəsi və bu, mütərrəd (müntəzəm) bir qaydadır. Bir kəlmə də nəql olunmuşdur ki, onun nə olduğunu bilmirəm və əgər düzgündürsə, şaddır (qaydadan kənardır), mən onu heç eşitməmişəm. Dedilər ki, Cəmadiyəl-əvvəl ayına hübla vəznində رُنَّى (runnə) deyilirdi. Bu, etibar edilməyəcək şeylərdəndir.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:28:01.920Z"
+}

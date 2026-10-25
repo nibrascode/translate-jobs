@@ -1,0 +1,17 @@
+{
+ "i": 2514,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طمش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 424,
+  "page_to": 425
+ },
+ "ar": "الطاء والميم والشين لا قياسَ له، ولولا أنّه فى الشّعر لكان من المشكوك فيه؛ لأنّه لا يُشبِه كلامَ العرب. على أنهم يقولون: ما أدرى أىُّ الطمْشِ هو؟ أىْ أىُّ الناس والخلْق هو. قال:\nوَحْشٌ ولا طَمْش من الطُّمُوش (١)",
+ "az": "«طمش» — الطاء والميم والشين لا قياسَ له (Ta, mim və şin hərfləri üçün heç bir qiyas yoxdur), ولولا أنّه فى الشّعر لكان من المشكوك فيه (əgər şeirdə olmasaydı şübhəli olanlardan olar və ərəb dilinə oxşamazdı). على أنهم يقولون (Bununla belə onlar deyirlər): ما أدرى أىُّ الطمْشِ هو؟ (Bilmirəm o, hansı təmşdir?) أىْ أىُّ الناس والخلْق هو (yəni o, hansı insan və məxluqdur). قال (şair demişdir): وَحْشٌ ولا طَمْش من الطُّمُوش (Vəhşi də deyil, tümüşlərdən olan təmş də deyil).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:31.509Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2092,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شقو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 202,
+  "page_to": 202
+ },
+ "ar": "الشين والقاف والحرف المعتلّ أصلٌ يدلُّ على المعاناة وخلاف السُّهولة والسّعادة.\nوالشِّقوة: خلاف السعادة. ورجلٌ شقىٌّ بين الشَّقاء والشِّقوة والشَّقاوة.\nويقال إِنَّ المشاقاة: المعاناة والممارسة. والأصل فى ذلك أنَّه يتكلّف العَناء ويَشقَي به، فإذا هُمِزَ تغيَّر المعنى. تقول: شقأ نابُ البعير يَشْقَأ، إِذا بدا. قال: الشّاقئ:\nالنَّاب الذى لم يَعْصَل (٣).",
+ "az": "[شقو] الشين (ش), القاف (ق) və hərf-i müəttl (vav/ya) əziyyət çəkməyə, rahatlığın və səadətin ziddinə dəlalət edən bir əsldir. وَالشِّقوة (əş-şiqvə): səadətin ziddi. وَرجلٌ شقىٌّ (kişi - bədbəxt) — şəqavət (الشَّقاء), şiqvə (الشِّقوة) və şəqavə (الشَّقاوə) arasında. Deyilir ki, الْمَشَاقَاة (əl-məşəqəti): əziyyət çəkmək və təcrübə etməkdir. Bunun əsli odur ki, insan özünü zəhmətə salır və onunla əziyyət çəkir. Lakin həmzələnərsə, məna dəyişər. Deyirsən: شقأ نابُ البعير يَشْقَأ (dəvənin azı dişi çıxdı) — çıxanda. (Şair) demişdir: الشّاقئ (əş-şaqi): hələ bükülüb qalmamış azı dişi (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:08.599Z"
+}

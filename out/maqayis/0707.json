@@ -1,0 +1,17 @@
+{
+ "i": 707,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 489,
+  "page_to": 489
+ },
+ "ar": "الجيم والهاء والضاد أصلٌ واحد، وهو زَوَالُ الشَّئ عن مكانه بسُرعة. يقال أجْهَضْنا فلاناً عن الشّئ، إذا نحَّيناه عنه وغلَبْناه عليه.\nوأجْهَضَتِ النّاقة إذا ألقَتْ ولدَها، فهى مُجْهِضٌ. وأمّا قولهم للحديد القلب:\nإنّه لجَاهضٌ وفيه جُهوضة وجَهَاضةَ، فهو من هذا، أى كأنَّ قلبَه من حِدّته نزُولُ من مكانه.",
+ "az": "[جهض] \nCim, hə və dad hərfləri bir əslə qayıdır ki, o da bir şeyin öz yerindən sürətlə zəval tapması, uzaqlaşmasıdır. أجْهَضْنا فلاناً عن الشّئ (əchədna fulanən ʻan-iş-şey) – filankəsi o şeydən uzaqlaşdırdıq və ona qalib gəldik, deməkdir.\nVə dəvə balasını vaxtından əvvəl atdıqda أجْهَضَتِ النّاقة (əchədatin-nakəh) deyilir, o isə مُجْهِضٌ (muchid) adlanır. Qaldı ki, qəlbi sərt və qətiyyətli olan kəsə «إنّه لجَاهضٌ وفيه جُهوضة وجَهَاضةَ» (o, həqiqətən cahisdir, onda cuhuzə və cəhadə vardır) demələri də bu babdandır, yəni sanki onun qəlbi özünün sərtliyindən və qəzəbindən yerindən oynayır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

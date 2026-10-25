@@ -1,0 +1,17 @@
+{
+ "i": 385,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "قال ابنُ دريد: بَجَم الرّجُل يَبْجُم بُجُوماً، إِذا سكَتَ من عِىٍّ أو هيْبَةٍ، فهو باجِمْ.",
+ "az": "[بجم] (Bə-cim-mim) İbn Dureyd dedi: «بَجَم الرّجُل يَبْجُم بُجُوماً» (bəcəmər-rəcul yəbcumu bucuman - kişi acizlikdən və ya heybətdən susdu), o «باجِمْ» (bəcim - susan) adlanır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

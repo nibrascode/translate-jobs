@@ -1,0 +1,17 @@
+{
+ "i": 2238,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شسب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 272,
+  "page_to": 272
+ },
+ "ar": "الشين والسين والباء هو من الذى قبله. يقال شَسِبَتِ القَوس، إذا قُطِعت حتَّى يذبُل قضيبها.",
+ "az": "[شسب] (şin, sin və ba) özündən əvvəlki babdandır. Şəsitil-qövs (شَسِبَتِ القَوس) - yayın budağı quruyub solana qədər qırxıldığı zaman deyilir.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.450Z"
+}

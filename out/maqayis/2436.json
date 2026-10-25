@@ -1,0 +1,17 @@
+{
+ "i": 2436,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضيع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 380,
+  "page_to": 380
+ },
+ "ar": "الضاد والياء والعين أصلٌ صحيح يدلُّ على فَوت الشّئ وذَهابه وهلاكه. يقال ضاع الشَّئُ يَضيع ضَياعاً وضَيْعةً، وأضعته أنا إضاعة.\nفأمّا تسميتُهم العَقَار ضيعة فما أحسَبُها من اللُّغة الأَصِيلة (٢)، وأظنّه من مُحْدَث الكلام. وسمعت من يقول: إنّما سمِّيت بذلك لأنّها إذا تُرِك تعهُّدِها ضاعت.\nفإن كان كذا فهو دليلُ ما قلناه أنّه من الكلام المحْدَث. ويقال أضاعَ فهو مُضِيعٌ، إذا كثر ضِياعه. فأمّا قول الشَّماخ:\nأعائِشُ ما لأهلك لا أُراهم (٣)\nوبقيت كلمة ليست من الباب وهى من باب الإبدال، حكى ابنُ السِّكيت:\nتضيَّعت الرِّيح، مثلُ تضوَّعت.",
+ "az": "«ضيع»: الضاد, الياء, والعين (d, y, ə) — bir şeyin ötüb keçməsinə, getməsinə və məhv olmasına dəlalət edən səhih bir əsldir. Deyilir: «ضاع الشَّئُ يَضيع ضَياعاً وضَيْعةً» (Şey itdi, itkin düşdü, zay oldu) və mən «أضعته أنا إضاعة» (Mən onu itirdim, zay etdim). Qaldı ki onların daşınmaz əmlaka «ضيعة» (mülk, torpaq sahəsi) deməsi, mənə görə əsl lüğətdən deyil (2), zənnimcə bu, sonradan törəmiş (mühdəst) kəlamlardandır. Eşitdim ki, biri deyir: O, belə adlandırılmışdır, çünki onunla maraqlanmaq tərk edildikdə itir/məhv olur. Əgər belədirsə, bu, dediyimiz şeyə — onun sonradan uydurulmuş sözlərdən olmasına bir dəlildir. Deyilir: «أضاعَ فهو مُضِيعٌ» (İtirdi, demək olar ki, o itirəndir), nə vaxt ki itirdikləri çoxalar. Şəmaxın bu sözünə gəldikdə: أعائِشُ ما لأهلك لا أُراهم (3) (Ey Aiçə, nə olub ki sənin ailəni görmürəm?). Və bu bölmədən olmayan, lakin əvəzetmə (ibdal) babından olan bir kəlmə də qaldı; İbn əs-Sikkit rəvayət etmişdir: «تضيَّعت الرِّيح» (Külək ətrini yaydı), «تضوَّعت» kəlməsi kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.919Z"
+}

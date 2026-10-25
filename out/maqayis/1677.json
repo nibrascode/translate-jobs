@@ -1,0 +1,17 @@
+{
+ "i": 1677,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رجف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 491,
+  "page_to": 491
+ },
+ "ar": "الراء والجيم والفاء أصلٌ يدلُّ على اضطرابٍ. يقال رجَفَتِ الأرْضُ والقَلبُ. والبَحْرُ رَجّافٌ لاضطرابه. وأَرْجَفَ الناسُ فى الشئ، إِذا خاضوا فيه واضطَرَبُوا.",
+ "az": "«رجف» (rə-cə-fə): Ra, cim və fa hərfləri sarsıntıya və titrəyişə dəlalət edən bir əsasdır. Deyilir: «رجَفَتِ الأرْضُ والقَلبُ» (yer və ürək titrədi). Dəniz isə titrəyişindən ötəri «رَجّافٌ» (rəccaf – ləpəvuran, sarsıdıcı) adlanır. Və insanlar bir iş barəsində «أَرْجَفَ الناسُ فى الشئ» (insanlar filan şey haqqında şayiə yaydılar / qızışdılar) – ona dalıb titrəşdikləri və sarsıldıqları zaman [belə deyilir].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:36:20.417Z"
+}

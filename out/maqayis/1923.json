@@ -1,0 +1,17 @@
+{
+ "i": 1923,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 102,
+  "page_to": 103
+ },
+ "ar": "السين والميم واللام أصلٌ يدلُّ على ضعفٍ وقلّة. من ذلك السَّمَل، وهو الثَّوْب الخَلَق. ومنه السَّمَل: الماء القليل يَبقى فى الحوض، وجمعه\nأسمال. وسَمَّلت (١) البئر: نقَّيتها. وأما الإسمال، وهو الإصلاح بين النَّاس، فمن هذه الكلمة الأخيرة، كأنه نَقَّى ما بينهم من العَداوة. واللّه تعالى أعلم.",
+ "az": "[سمل] (sin, mim və lam) — zəifliyə və azlığa dəlalət edən bir əsasdır. Bunlardan biri də köhnə və cır-cındır paltar olan «السَّمَل»dir. Həmçinin hovuzda qalan az su olan «السَّمَل» də bundandır, cəmi «أسمال» gəlir. «سَمَّلت البئر» — quyunu təmizlədim (١). İnsanların arasını düzəltmək mənasını verən «الإسمال» isə bu sonuncu kəlmədəndir, guya o, onların arasındakı düşmənçiliyi təmizləmişdir. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.159Z"
+}

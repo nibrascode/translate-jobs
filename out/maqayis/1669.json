@@ -1,0 +1,17 @@
+{
+ "i": 1669,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رثع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 487,
+  "page_to": 487
+ },
+ "ar": "الراء والثاء والعين أصلٌ صحيحٌ يدلُّ على جَشَعَ وطَمَع.\nكذا قال الخليل: إنّ الرّثَع الطَّمَع والحِرْص. قال الكسائىّ: رجلٌ راثِع، وهو الذى يرضَى من العطيّة بالطَّنيف ويُخادِنُ أخدانَ السَّوء. يقال رثِع رثَعاً.",
+ "az": "[رثع] \nالراء والثاء والعين (ra, sə və eyn) — hərisliyə və tamahkarlığa dəlalət edən səhih bir əsasdır. \nXəlil belə demişdir: الرّثَع (rəsəc) — tamah və hərislikdir. Kisai demişdir: رجلٌ راثِع (rasic kişi) — o kəsdir ki, verilən az bir hədiyyəyə qane olur və pis dostlarla dostluq edir. Deyilir: رثِع رثَعاً (tamahkar oldu, hərislik etdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:36.371Z"
+}

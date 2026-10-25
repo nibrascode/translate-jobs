@@ -1,0 +1,17 @@
+{
+ "i": 1478,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رشف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 395,
+  "page_to": 396
+ },
+ "ar": "الراء والشين والفاء أصلٌ واحد، وهو تَقَصِّى شُرب الشئ.\nوالرَّشُف: استِقْصاء الشُّرب حتَّى لا يَدَع فى الإِناء شيئاً. رشف يرشُف ويَرْشِف.\nوفى كتاب الخليل: الرَّشَف: بقية الماء فى الحَوض والرَّشْف: أخْذُ الماء بالشَّفَتَين،\nوهو فوق المصّ. والرَّشُوف: المرأة الطيِّبة الفَم. ومعنى هذا أنَّ رِيقَتَها مِنْ طيبها تُترَشّف.",
+ "az": "«رشف» (Rə-ş-f): Ra, şin və fa tək bir əsasdır, o da bir şeyi içməkdə sona varmaqdır. والرَّشُف (Rəşuf): Qabda heç bir şey qoymayana qədər içməkdə sərhədə çatmaqdır. رشف يرشُف ويَرْشِف (Rəşəfə yəşufu və yərşifu). Xəlil kitabında demişdir: الرَّشَف (Rəşəf): Hovuzdakı suyun qalıntısıdır. والرَّشْف (Rəşf): Suyu dodaqlarla almaqdır, o, əmməkdən (مصّ) yuxarıdadır. والرَّشُوف (Rəşuf): Ağzı xoş qoxulu qadındır. Bunun mənası odur ki, onun tüpürcəyi xoş qoxusundan ötrü sovurularaq içilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

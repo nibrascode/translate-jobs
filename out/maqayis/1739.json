@@ -1,0 +1,17 @@
+{
+ "i": 1739,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زغر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 13,
+  "page_to": 14
+ },
+ "ar": "الزاء والغين والراء أُصَيْلٌ. يقال زَغَر الماءِ وَزَخَر. وليس هذا عندى من جهة الإبدال؛ لأن قياس زَغَر قياسٌ صحيح، وسيجئ فى\nالرباعىّ ما يصحِّحه. وذكر ابن دُريد (١) أن الزّغر الاغتصاب؛ يقال زَغَرْت الشئَ زَغْرًا. قال: والزغْر فعلٌ مُماتٌ. وزُغَرُ: اسمُ امرأةٍ، يقال أن عيْن زُغَر إليها تُنسَب (٢).",
+ "az": "[زغر] (zəğr): Zay, ğın və ra hərfləri kiçik bir kökdür. Deyilir: «زَغَر الماءِ وَزَخَر» (Suyun səsi artdı və daşdı). Mənim yanımda bu, əvəzetmə (ibdal) növündən deyil; çünki «زَغَر»-in qisası səhih qisadır və rübai (dördhərfli) fəsildə bunu təsdiq edən gələcəkdir. İbn Dürid (1) qeyd etmişdir ki, «الزّغر» (zəğr) zorla almaqdır; «زَغَرْت الشئَ زَغْرًا» (Mən o şeyi zorla aldım) deyilir. O demişdir: «الزغْر» – istifadə olunmayan (mümات) feldir. «زُغَرُ» (Zuğar) – bir qadının adıdır, deyilir ki, Zuğarın gözü ona nisbət edilir (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2067,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شظف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 188,
+  "page_to": 188
+ },
+ "ar": "الشين والظاء والفاء أصلٌ صحيح يدلُّ على الشّدّة فى العيشِ وغيرِه. والأصل من ذلك الشَّظيف * من الشَّجر: الذى لم يجِدْ رِيَّهُ فيبِس وصلُب، فيقال من هذا: فلانٌ هو فى شَظَف من العَيش، أى ضِيق وشِدّة. و\nجاء فى الحديث: «لم يشبَعْ من خُبزٍ ولحم إلاَّ على شظف». وقال ابن الرِّقَاع:\nولقد أَصبتُ من المعيشةِ لَذَّةً … ولقيتُ من شَظَفِ الأمور شدادَها (٤)\nويقال فى هذا الباب من الشدة: بعيرٌ شَظف الخِلاط، أى يُخالِط الإبلَ مخالَطة شديدة. وشَظِف السّهمُ، إذا دخل بين الجلد واللّحم.",
+ "az": "[شظف] \nŞin, zai və fa yaşayışda və digər işlərdə çətinliyə dəlalət edən səhih təməl bir kökdür. Bunların əsli ağaclardan olan əş-şəzifdir (الشَّظيف): suya doymayıb quruyan və sərtləşən ağac, bundan deyilir: Fulan şəzəf yaşayışındadır (فلانٌ هو فى شَظَف من العَيش), yəni sıxıntı və çətinlikdə. \nHədisdə gəlmişdir: «O, yalnız çətinlik içində çörək və ətdən doymadı». İbn ər-Riqah demişdir:\nولقد أَصبتُ من المعيشةِ لَذَّةً … ولقيتُ من شَظَفِ الأمور شدادَها (٤)\n(Həqiqətən mən yaşayışdan ləzzət aldım... və işlərin çətinliyindən onun sərtlikləri ilə qarşılaşdım)\nVə bu çətinlik babından deyilir: dəvənin xilatı şəzəfdir (بعيرٌ شَظف الخِلاط), yəni dəvələrə şiddətli şəkildə qarışır. Ox şəzif oldu (شَظِف السّهمُ), dərinin və ətin evinə girdikdə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:02.753Z"
+}

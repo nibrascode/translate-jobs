@@ -1,0 +1,17 @@
+{
+ "i": 725,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جون",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 496,
+  "page_to": 497
+ },
+ "ar": "الجيم والواو والنون أصلٌ واحد. زعم بعض النحوييِّن أنّ الجَون معرّب، وأنه اللون الذى يقوله الفُرْس «الكُونَهْ (٥)» أى لون الشئ. قال: فلذلك يقال الجَوْنُ الأسود والأبيض، وهذا كلامٌ لا معنى له.\nوالجَوْن عند أهل الُّلغةِ قاطبةً اسمٌ يقع على الأسود والأبيض، وهو بابٌ من تسمية المتضادَّين بالاسم الواحد، كالنَّاهل، والظّنّ، وسائرِ ما فى الباب.\nوالجَوْنَة: الشَّمسُ. فقال قومٌ: سمِّيت لبياضها. ومن ذلك حديث الدِّرع\nالتى عُرضتْ على الحجّاج فكاد لا يراها لصفائها، فقال له بعضُ مَنْ حضره (١):\n«إنّ الشمس جَوْنةٌ»، أى صافيةٌ ذاتُ شعاعٍ باهر. وقال قومٌ: بل سُمِّيت جَوْنةً لأنّها إذا غابَتْ اسوادّت.\nفأمّا الجُونَة فمعروفة، ولعلَّها أن تكون معرّبة؛ والجمع جُونَ. قال الأعشى:\n* وكان المِصاعُ بما فى الجُونْ (٢) *",
+ "az": "[جون] — الجيم (Cim), الواو (Vav) və النون (Nun) tək bir əslə qayıdır. Nəhv alimlərinin bəzisi iddia etmişdir ki, əl-Cövn sözü əcnəbidir (mərəbbdir), və o, farsların «الكُونَهْ» (küne) dediyi rəngdir, yəni bir şeyin rəngidir. O demişdir: məhz buna görə də əl-Cövnə həm qara, həm də ağ deyilir, lakin bu, heç bir mənası olmayan sözdür. Dilçilərin bütün yekdilliyinə əsasən əl-Cövn — həm qara, həm də ağ rərfə verilən addır və bu, ən-nahil (suya qane olan və suya susayan), əz-zənn və bu babdakı digər sözlər kimi, ziddiyyətli mənaların tək bir adla adlandırılması babındandır. وَالجَوْنَة (əl-Cövnə) — günəşdir. Bir qrup demişdir: ona ağlığı səbəbilə bu ad verilmişdir. Həccaca təqdim olunan, saflığından demək olar ki, [Həccacın] görə bilmədiyi zireh hədisindən buna misal olaraq, yanında olanlardan biri ona demişdir (١): «إنّ الشمس جَوْنةٌ» («Həqiqətən günəş cövnədir»), yəni parlaq şüaları olan saf bir şeydir. Bir qrup demişdir: əksinə, ona cövnə adı verilmişdir, çünki o, batarkən qaralır. وَالجُونَة (əl-Cunə) sözünə gəldikdə isə, o, məlumdur; ehtimal ki, əcnəbi sözdür (mərəbbdir); cəmi جُونَ (cun) gəlir. Aşa demişdir: * وكان المِصاعُ بما فى الجُونْ (٢) * (Cunların içindəki ilə döyüş oldu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

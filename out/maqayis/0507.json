@@ -1,0 +1,17 @@
+{
+ "i": 507,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثدى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 373,
+  "page_to": 373
+ },
+ "ar": "الثاء والدال والياء كلمةٌ واحدة، وهى ثدى المرأة. والجمع أَثْدٍ.\nوالثدياء: الكبيرة الثَّدْى (١). ثم فرق بينه وبين الذى للرّجُل، فقيل فى الرجل الثُّنْدُؤَة بالضم والهمزة، والثَّنْدُوَة بالفتح غير مهموز.",
+ "az": "«ثدى»: الثاء, Dal və Ya tək bir kəlimədir, o da qadının döşüdür. Cəmi isə (أَثْدٍ) gəlir. Və (الثدياء) — döşü böyük olan qadındır. Sonra qadının döşü ilə kişinin döşü arasında fərq qoyulmuşdur, kişinin döşünə zəmm və həmzə ilə (الثُّنْدُؤَة), fəthəli və həmzəsiz olaraq isə (الثَّنْدُوَة) deyilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

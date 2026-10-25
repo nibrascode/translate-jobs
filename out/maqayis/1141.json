@@ -1,0 +1,17 @@
+{
+ "i": 1141,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خنث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 222,
+  "page_to": 222
+ },
+ "ar": "الخاء والنون والثاء أصلٌ واحد يدلُّ على تكسُّرٍ وتئَنٍّ فالخَنِث: المسترخِى المتكسِّر. ويقال خَنَثْتُ السِّقاءَ، إذا كسَرْتَ فمه إلى خارج فشرِبْتَ منه. فإن كسَرْتها إلى داخل فقد قَبَعْتَه. وامرأةٌ خُنُثٌ: مُتَثَنِّيةٌ.",
+ "az": "[خنث] الخاء والنون والثاء أصلٌ واحد (Xar, nun və sə əsasdır) — qırıtmağa, sınmağa və təmkinə (yavaşlığa) dəlalət edir. Xənif (الخَنِث) — bədəni boşalan, zəriflikdən süzülən kəsdir. Deyilir: خَنَثْتُ السِّقاءَ (xənəttu əs-siqəə) — tuluğun ağzını bayıra doğru büküb ondan su içdiyin zaman. Əgər onu içəri tərəfə büksənsə, onda onu qəbəqtəsən (qapaqlamısan). Qadın خُنُثٌ (xunus) — nazlanan, qırıdığan deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

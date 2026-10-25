@@ -1,0 +1,17 @@
+{
+ "i": 2296,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صمع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 310,
+  "page_to": 311
+ },
+ "ar": "الصاد والميم والعين أصلٌ واحد، يدلُّ على لطافةٍ فى الشَّئ وتضامٍّ. قال الخليلُ وغيره: كلُّ منضمٍّ فهو متصمِّع. قال: ومن ذلك اشتقاق الصَّومعة. ومن ذلك الصَّمع فى الأذُنَين. يقال هو أصمعُ، إذا كان ألصق (٥) الأذنين. ويقال: قلبٌ أصمع، أى لطيف ذكىّ. ويقال للبُهمَى إِذا ارتفعت ولم تتفَقأ: صَمْعاء. وذلك أنَّها [إذا] كانت كذا كانت منْضَمَّةً لطيفة. وإذا تلطَّخ الشَّئُ بالشئ فتجمَّعَ كريش السَّهم فهو متصمِّع. قال:\nفرمَى فأنفَذَ من نَحُوصٍ عائطٍ … سبماً فخرّ وريشُه متصمِّعُ (١)\nأى متلطّخ بالدّم منْضمّ. والكلاب صُمْعُ الكعوب، أى صِغارُها ولِطافُها.\nفقال النابغة.\nصُمْعُ الكُعوبِ بريئاتٌ من الحَردِ (٢)",
+ "az": "[صمع] (sad, mim və eyn) — bir şeyin zərifliyinə və bir-birinə keçməsinə (sıxlaşmasına) dəlalət edən tək bir kökdür. Xəlil və başqaları demişdir: Bir-birinə qovuşan hər bir şey «متصمِّع» (mütəsəmmic/mütəsəmmə) sayılır. O cümlədən «الصَّومعة» (savmaca - kilsə/hücrə) sözünün törəməsi də bundandır. Həmçinin qulaqların kiçikliyi və bitişikliyi mənasındakı «صمع» də bundandır. Deyilir ki, o, «أصمع» (əsmə) adamdır, yəni qulaqları başa yapışıqdır. Deyilir: «قلبٌ أصمع» (əsmə qəlb), yəni zərif və iti ağıllı. Həmçinin hələ yetişməmiş bume otuna (səhrə bitkisi) «صَمْعاء» (səmə - qapalı) deyilir. Çünki o cür olduqda qapalı və zərif olur. Bir şey başqa bir şeyə bulaşıb ox lələyi kimi toplaşdıqda «متصمِّع» olur. Biri demişdir:\nفَرَمَى فَأَنْفَذَ مِنْ نَحُوحٍ عَائِطٍ … سَبَماً فَخَرَّ وَرِيشُهُ مُتَصَمِّعُ (١)\n(O, atıb keçirdi... lələkləri qana bulaşıb bir-birinə yapışmış halda yıxıldı)\n\nİtlərin «صُمْعُ الكعوب» olması — onların oynaqlarının kiçik və zərif olması deməkdir. \nNaqbığı demişdir:\nصُمْعُ الْكُعُوبِ بَرِيئَاتٌ مِنَ الْحَرَدِ (٢)\n(Oynaqlı incə, qəzəbdən uzaq itlər)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.917Z"
+}

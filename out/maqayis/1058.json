@@ -1,0 +1,17 @@
+{
+ "i": 1058,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خرض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 169,
+  "page_to": 169
+ },
+ "ar": "الخاء والراء والضاد. زعم ناسٌ أنّ الخريضَ الجاريةُ الحديثة السنِّ الحسنة. وهذا ممّا لا يعوَّل على مثله، ولا قياسَ له.",
+ "az": "[خرض] الخاء والراء والضاد. زعم ناسٌ أنّ الخريضَ الجاريةُ الحديثة السنِّ الحسنة. وهذا ممّا لا يعوَّل على مثله، ولا قياسَ له. (Xə, ra və dad. İnsanlar iddia ediblər ki, əl-xərid – gənc yaşlı gözəl qızdır. Bu isə beləsinə etimad olunmayan və qiyas edilməyən bir şeydir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:08:18.841Z"
+}

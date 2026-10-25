@@ -1,0 +1,17 @@
+{
+ "i": 1710,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رذا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 509,
+  "page_to": 509
+ },
+ "ar": "الراء والذال والحرف المعتل يدلُّ على ضعفٍ وهزال. فالرّذِيَّة:\nالناقة المهزولة من السَّير، والجمع رَذَايا. قال أبو دُواد:\nرَذَايا كالبَلَايا أو … كعِيدانٍ من القَضْبِ (٢)\nيقال منه: أرذَيْتُها.",
+ "az": "[رذا] الراء والذال والحرف المعتل — zəifliyə və arıqlığa dəlalət edir. الرَّذِيَّة (rəziyyə) — səfərdən arıqlamış, yorulmuş diş dəvədir, cəmi رَذَايا (rəzaya) olur. Əbu Duvad demişdir:\nرَذَايا كالبَلَايا أو … كعِيدانٍ من القَضْبِ (٢)\n(Bəlalar kimi və ya budaq çubuqları kimi arıq düşmüş dəvələr.)\nOndan bu fel düzəlir: أَرْذَيْتُها (onu arıqlatdım, haldan saldım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:28.607Z"
+}

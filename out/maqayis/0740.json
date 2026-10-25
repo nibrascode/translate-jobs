@@ -1,0 +1,17 @@
+{
+ "i": 740,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جبذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 501,
+  "page_to": 501
+ },
+ "ar": "الجيم والباء والذال ليس أصلاً؛ لأنّه كلمةٌ واحدةٌ مقلوبة، يقال جَبَذْت الشّيء بمعنى جَذَبْتُه.",
+ "az": "«جبذ» — جيم, ba və zal əsl deyildir; çünki o, tərş̧evrilmiş tək bir kəlmədir. Deyilir: «جَبَذْت الشّيء» (cəbəztü əş-şəyə) — «جَذَبْتُه» (cəzəbtühu - onu çəkdim) mənasında.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

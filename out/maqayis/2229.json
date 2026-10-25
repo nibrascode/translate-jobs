@@ -1,0 +1,17 @@
+{
+ "i": 2229,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 269,
+  "page_to": 269
+ },
+ "ar": "الشين والراء والحاء أُصَيْلٌ يدلُّ على الفتح والبيان. من ذلك شرحت الكلام وغيرَه شَرْحاً، إذا بيَّنتَه. واشتقاقُه من تشريح اللحم.",
+ "az": "[شرح] (şin, ra və ha) açılma və açıqlamaya dəlalət edən kiçik bir əsasdır. Bunlardan biri şərk etmək mənasında olan sözü və başqasını açıqladığın zaman işlədilən شرحت الكلام وغيرَه شَرْحاً (şərəhtül-kəlame və ğeyrahü şərhan) sözüdür. Bunun kökü ətin dilimlənib açılmasından (تشريح اللحم) götürülmüşdür.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.449Z"
+}

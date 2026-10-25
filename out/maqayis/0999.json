@@ -1,0 +1,17 @@
+{
+ "i": 999,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 132,
+  "page_to": 132
+ },
+ "ar": "الحاء والباء والنون أصلٌ واحدٌ، فيه كلمتان محمولةٌ إحداهما على الأخرى. فالحِبْن كالدُّمَّل فى الجَسد، ويقال بل الرّجُل الأحْبَن الذى به السِّقَىْ (٢). والكلمة الأُخْرى أمُّ حُبَيْن، وهى دابّة قدرُ كفِّ الإنسان.",
+ "az": "«حبن» (h-b-n): Ha, ba və nun hərfləri tək bir kökdür, burada biri digərinə həmlə edilmiş iki kəlmə var. «الحِبْن» (əl-hibn) — bədəndəki çiban kimidir, deyərlər ki, bəlkə də «الأحْبَن» (əl-əhbən) su xəstəliyi (isティストisqa) olan kişidir. İkinci kəlmə isə «أمُّ حُبَيْن» (ümmü hubeyn) — insan ovcunun böyüklüyündə olan bir heyvandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.108Z"
+}

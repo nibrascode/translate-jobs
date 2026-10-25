@@ -1,0 +1,17 @@
+{
+ "i": 341,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بوج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 315,
+  "page_to": 315
+ },
+ "ar": "الباء والواو والجيم أصلٌ حسن، وهو من اللَّمَعان. يقول العرب: تبَوَّج البَرْقُ تَبَوُّجاً، إذا لَمَع.",
+ "az": "«ب» (با), «و» (vav) və «ج» (cim) gözəl bir əsasdır, o da parıldamaq mənasındadır. Ərəblər deyirlər: «تبَوَّج البَرْقُ تَبَوُّجاً» – yəni şimşək çaxdı, parıldadı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:34:14.634Z"
+}

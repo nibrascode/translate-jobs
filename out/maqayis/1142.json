@@ -1,0 +1,17 @@
+{
+ "i": 1142,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خنز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 222,
+  "page_to": 222
+ },
+ "ar": "الخاء والنون والزاء كلمةٌ واحدةٌ من باب المقلوب، ليست أصلاً. يقال خَنِزَ اللحم خَنَزاً، إذا تغيَّرَتْ رائحتُه وخَزِن. وقد مَضَي.",
+ "az": "[خنز] الخاء والنون والزاء كلمةٌ واحدةٌ من باب المقلوب (Xar, nun və zay məqلوب [tərsinə çevrilmiş] بابındandır) — əsas deyildir. Deyilir: خَنِزَ اللحم خَنَزاً (xənizə əl-ləhmu xənəzən) — ətin qoxusu dəyişdiyi və xəzin olduğu zaman. Bu artıq keçmişdir (izah olunmuşdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

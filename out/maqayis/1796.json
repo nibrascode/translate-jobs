@@ -1,0 +1,17 @@
+{
+ "i": 1796,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 37,
+  "page_to": 37
+ },
+ "ar": "الزاء والواو والقاف ليس بشئ. وقولهم زَوَّقْتُ الشئَ إذا زيّنته وموّهتَه، ليس بأصل، يقولون إنّه من الزَّاوُوق، وهو الزِّئبق. وكلُّ هذا كلام.",
+ "az": "[زوق] (zuq). الزاء (ز) və الواو (و) və القاف (ق) heç bir şey deyil. Onların زَوَّقْتُ الشئَ (bir şeyi bəzədim) sözü, yəni onu bəzədin və zahirini aldadıcı etdin demələri əsl deyildir; deyirlər ki, bu, civə mənasını verən الزَّاوُوق sözündəndir. Bütün bunlar sadəcə danışıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.435Z"
+}

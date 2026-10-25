@@ -1,0 +1,17 @@
+{
+ "i": 2086,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 198,
+  "page_to": 199
+ },
+ "ar": "الشين والفاء والنون أصلٌ يدلُّ على مداومة النّظَر،\nوالأصل فيه قولهم للغَيُور الذى لا يَفْتُر عن النَّظَر (١): شَفُون. ومن الناس من يقول شَفَن يَشْفِنُ، إذا نظر بمُؤْخر عينه، وشَفِن أيضاً يشفَن شَفْنا، وهو شَفونٌ وشافن. وأنشد الخليل:\nحِذَار مرتقبٍ شَفُونِ (٢)\nقال الأموىّ: الشَّفِن: الكيِّس العاقل. وكلُّ ذلك يقرُب بعضُه من بعض.",
+ "az": "[شفن] (şəfən) — Şin, fa və nun — davamlı baxışa dəlalət edən bir kökdür. Burada əsas onların baxmaqdan yorulmayan qısqanc adama «شَفُون» (şəfun) demələridir. Adamlar arasında «شَفَن يَشْفِنُ» (şəfənə yəşfinu) — gözünün kənarı ilə baxdıqda deyənlər də var. Həmçinin «شَفِن يشفَن شَفْنا» (şəfənə yəşfənu şəfnən) deyilir, o, «شَفُون» (şəfun) və «شافن» (şafin) adlanır. Xəlil bu beytini oxumuşdur: Ehtiyatlı güdənin, diqqətlə baxanın (2). Əməvi demişdir: «الشَّفِن» (əş-şəfən) — ağıllı, zirək deməkdir. Bunların hamısı bir-birinə yaxındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:46.481Z"
+}

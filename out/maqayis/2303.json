@@ -1,0 +1,17 @@
+{
+ "i": 2303,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صنع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 313,
+  "page_to": 313
+ },
+ "ar": "الصاد والنون والعين أصلٌ صحيح واحد، وهو عملُ الشئ صُنْعاً. وامرأة صَنَاعٌ ورجلٌ صَنَعٌ، إذا كانا حاذقَين فيما يصنعانه. قال:\nخَرقاء بالخيرِ لا تَهْدِى لوِجْهَتِه … وهى صَنَاعُ الأذَى فى الأهل والجارِ\nوالصَّنِيعة: ما اصطنعتَه مِنْ خير. والتصنُّع: حُسن السَّمْت. وفرسٌ صَنِيعٌ:\nصَنَعَه أهلُه بحُسْن القِيام عليه. والمَصانع: ما يُصنَع من بئرٍ وغيرِها للسَّقى.\nومن الباب: المُصانَعة، وهى كالرِّشْوة.\nوممّا شذّ عن هذا الأصل الصِّنْع، يقال إِنّه السَّفُّود. وقال المَرّار (١):",
+ "az": "«صنع» (Sad, nun və eyn) - tək və səhih bir kökdür, bir işi «صُنْعاً» (etmək, düzəltmək) mənasını bildirir. Qadın «صَنَاعٌ», kişi isə «صَنَعٌ» adlanır — bu, gördükləri işdə mahir və bacarıqlı olduqları zaman deyilir. Şair demişdir: Xeyir işlərdə bacarıqsızdır, onun yolunu bilməz... O, ailə və qonşu üçün şər işləri etməkdə mahirdir... «الصَّنِيعة» — gördüyün yaxşılıq. «التصنُّع» — gözəl görkəm və duruş. «فرسٌ صَنِيعٌ» — sahiblərinin ona yaxşı qulluq edərək bəslədikləri at. «المَصانع» — su içmək üçün quyudan və ya başqa şeydən düzəldilən yerlər. Bu fəsildəndir: «المُصانَعة» (rüşvətə bənzər şey). Bu kökdən istisna edilən «الصِّنْع» sözüdür, bunun kabab şişi (سَفُّود) olduğu deyilir. Mərrar demişdir (١):",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

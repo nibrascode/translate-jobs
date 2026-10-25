@@ -1,0 +1,17 @@
+{
+ "i": 1635,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ريف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 468,
+  "page_to": 468
+ },
+ "ar": "الراء والياء والفاء كلمةٌ واحدة تدلُّ على خِصْب. يقال أرَافَتِ الأرضُ. وأرْيَفْنا، إذا صِرْنا إلى الرِّيف. ويقال أرضٌ ريِّفَةٌ، من الرِّيف.\nوراعت الماشيةَ: رعت الرِّيف.",
+ "az": "[ريف] الراء (الراء) və الياء (ياء) və الفاء (fa) — bolluğa və yaşıllığa dəlalət edən tək bir sözdür. Deyilir: أرَافَتِ الأرضُ (ərafəti əl-ard) — yer bolluq içində oldu. Və أرْيَفْنا (əryəfnə) — münbit, bol sulu yerlərə (rife) çatdıq. Deyilir: أرضٌ ريِّفَةٌ (ardun rəyyifətün) — rifdən (bolluq yerindən olan torpaq). Və raati əl-maşiyətü (راعَت الماشيةَ) — mal-qara rifdə otladı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:27.040Z"
+}

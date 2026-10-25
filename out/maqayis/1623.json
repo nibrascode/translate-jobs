@@ -1,0 +1,17 @@
+{
+ "i": 1623,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "روه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 463,
+  "page_to": 463
+ },
+ "ar": "الراء والواو والهاء ليس بشئ، على أن بعضهم يقول الرَّوه مصدر رَاه يروه روها. قال: هى لغة يمانية. يقولون: راهَ الماء على وجه الأرض:\nاضطرب. وفى ذلك نظرٌ.",
+ "az": "[روه] (Rə, vau və hə) — heç bir əsası yoxdur, lakin bəziləri deyirlər ki, əl-rəuh sözü «راه يروه روها» feilinin məsdəridir. O demişdir: Bu, yəmənli ləhcəsidir. Deyirlər ki, su yerin üzündə dalğalandı: «راهَ الماء على وجه الأرض». Bunda isə nəzər (araşdırma) vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:33:59.185Z"
+}

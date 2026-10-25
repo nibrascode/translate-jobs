@@ -1,0 +1,17 @@
+{
+ "i": 1443,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 375,
+  "page_to": 375
+ },
+ "ar": "الراء والعين أصلٌ مطّرِدٌ يدلُّ على حركةٍ واضطراب.\nيقال تَرَعْرَعَ الصَّبِىُّ: تحرّك. وهذا شابٌّ (٤) رَعْرَعٌ ورَعْراع، والجمع رَعارعُ. قال:\n* ألَا إنّ أخْدانَ الشَّبابِ الرّعارِعُ (٥) *\nوقصبٌ رعرعٌ: طويلٌ. وإذا كان كذا فهو مضطربٌ. ومن الباب الرَّعَاع، وهم سِفْلة النّاس. ويقولون: الرَّعْرَعة: تَرَقْرُقُ الماءِ على وجْه الأرض.\nفإِن كان صحيحاً فهو القياس.",
+ "az": "[رع] الراء (ra) və العين (əyn) hərfləri hərəkət və narahatlığa dəlalət edən sabit bir kökdür. Deyilir: تَرَعْرَعَ الصَّبِىُّ (tərərəə-s-səbiyyu) - uşaq hərəkət etdi. Bu, رَعْرَع (rərə) və رَعْراع (rəra) bir gəncdir (٤), cəmi رَعارعُ (rəari). (Şair) deyir: * ألَا إنّ أخْدانَ الشَّبابِ الرّعارِعُ (əla innə əxdənəş-şəbəbir-rəari) - Bilin ki, gəncliyin dostları (hərəkətli) gənclərdir (٥). Qamış رعرع (rərə) olduqda: uzundur. Belə olduqda o, narahat (hərəkətli) olur. Bu babdandır الرَّعَاع (ər-rəa), onlar insanların alçaqlarıdır. Deyirlər ki, الرَّعْرَعة (ər-rərəə): suyun yerin üzərində dalğalanmasıdır. Əgər bu düzdürsə, ölçü budur.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:25:01.822Z"
+}

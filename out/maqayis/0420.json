@@ -1,0 +1,17 @@
+{
+ "i": 420,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تهه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 341,
+  "page_to": 341
+ },
+ "ar": "التاء والهاء ليس بأصلٍ، ولم يجئْ فيه كلمةٌ تتفرَّع. إنما يقولون التَّهاتهُ الباطل. قال القُطَامىّ:\nولم يكُنْ ما ابتَلَيْنا مِنْ مَواعِدِها … إلا التَّهاتِهَ والأمْنِيَّةَ السَّقَما (١)\nقالوا: والتَّهتَهَةُ اللُّكْنة فى اللِّسان.",
+ "az": "«تهه» (t-h-h): Tə və hə əsas deyildir, ondan şaxələnən heç bir kəlmə də gəlməmişdir. Onlar yalnız التَّهاتهُ (əttəhatuhu): batil, boş sözlər deyirlər. Qutamiyy demişdir:\nولم يكُنْ ما ابتَلَيْنا مِنْ مَواعِدِها … إلا التَّهاتِهَ والأمْنِيَّةَ السَّقَما (١)\n(Vədələrindən sınaqdan keçirdiklərimiz... boş sözlərdən və xəstə arzudan başqa bir şey deyildi)\nDeyirlər ki: التَّهتَهَةُ (əttəhtəhə): dildə olan pəltəklikdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

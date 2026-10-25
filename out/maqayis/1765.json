@@ -1,0 +1,17 @@
+{
+ "i": 1765,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زمج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 23,
+  "page_to": 23
+ },
+ "ar": "الزاء والميم والجيم ليس بشئٍ. ويقولون: الزُّمَّج: الطائر (١).\nوالزِّمِجَّى: أصل ذَنَب الطّائر. والأصل فى هذا الكاف: زِمِكَّى. ويقال زَمَجْت السِّقاء: ملأتُه. وهذا مقلوبٌ، إنما هو جَزَمْتُه. وقد مضى ذِكرُه.",
+ "az": "[زمج] الزاء والميم والجيم ليس بشئٍ (Zə, mim və cim heç bir şey deyil). ويقولون: الزُّمَّج: الطائر (١) (Və deyirlər: əz-zümməc: quşdur). والزِّمِجَّى: أصل ذَنَب الطّائر (Və əz-zimicqə: quş quyruğunun əslidir). والأصل فى هذا الكاف: زِمِكَّى (Və bundakı əsl kaf ilədir: zimikkə). ويقال زَمَجْت السِّقاء: ملأتُه (Və zəməqtüs-siqa: tuluğu doldurdum deyilir). وهذا مقلوبٌ، إنما هو جَزَمْتُه (Və bu, məqlubdur (çevrilmişdir), əslində isə cəmətuhudur). وقد مضى ذِكرُه (Və onun zikri artıq keçdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:57.983Z"
+}

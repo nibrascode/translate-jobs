@@ -1,0 +1,17 @@
+{
+ "i": 1356,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دبى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 327,
+  "page_to": 328
+ },
+ "ar": "الدال والباء والياء ليس أصلاً، وإنَّما [هو] كلمةٌ واحدة، ثم يُحمَل عليها تشبيهاً. فالدّبا: الجراد إذا تحرَّك (٤). والتّشبيهُ قولهم: أدْبَى الرِّمْثُ، أوَّلَ ما يتفَطَّر؛ وذلك لأنّه يشبَّه بالدَّبا. وذكر بعضُهم: جاء فلانٌ بدَبَادَبَا (٥)،\nإذا جاء بمالٍ كالدّبا (١). ويقال أرضٌ مَدْبَاةٌ: كثيرة الدبا. ومَدْبِيَّةٌ: أَكَلَ الدّبَا نباتَها.",
+ "az": "[دبى] الدال والباء والياء ليس أصلاً، وإنَّما [هو] كلمةٌ واحدة، ثم يُحمَل عليها تشبيهاً. (الدال, ba və ya – əsas deyil, yalnız tək bir közdür, sonra ona oxşadılaraq daşınır). فالدّبا (fəddəba): Hərəkət etdiyi zaman çəyirtkə (٤). Və oxşatma olaraq onların bu sözüdür: أدْبَى الرِّمْثُ (ədbərr-rimsu), o, ilk cücərdiyi zaman; bu ona görədir ki, o, çəyirtkəyə oxşadılır. Bəziləri qeyd etmişdir: جاء فلانٌ بدَبَادَبَا (Filan çəyirtkə kimi mal ilə gəldi) (٥). Deyilir: أرضٌ مَدْبَاةٌ (mədbat torpaq) – çəyirtkəsi çox olan. Və مَدْبِيَّةٌ (mədbiyyəh): Çəyirtkə onun bitkisini yemişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.119Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2543,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 437,
+  "page_to": 437
+ },
+ "ar": "الطاء والياء والنون كلمة واحدة، وهو الطِّين، وهو معروف.\nويقال طيَّنْت البيتَ، وطِنْت الكتابَ. ويقال طانَه اللّه تعالى على الخَير، أى جَبَله. وكأَنَّ معناه، واللّه أعلم، من طِنت الكتاب، أى ختمته؛ كأنَّه طبعه على الخير وختم أمرَه به.",
+ "az": "[طين] (T-Y-N): Ta, ya və nun hərfləri bir kəlimədir, o da الطِّين (palçıq)dır, məlumdur. Deyilir ki, طيَّنْت البيتَ (evi palçıqladım) və طِنْت الكتابَ (kitabı möhürlədim). Deyilir ki, طانَه اللّه تعالى على الخَير (Allah təala onu xeyir üzərinə xəlq etdi), yəni onu xeyir üzərinə düzəltdi. Sanki mənası, Allah daha yaxşı bilir, طِنت الكتاب (kitabı möhürlədim) sözündəndir, yəni onu möhürlədim; sanki onu xeyir üzərinə damğaladı və işini onunla möhürlədi.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:11:32.879Z"
+}

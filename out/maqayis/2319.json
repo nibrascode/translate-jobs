@@ -1,0 +1,17 @@
+{
+ "i": 2319,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صوع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 321,
+  "page_to": 321
+ },
+ "ar": "الصاد والواو والعين أصلٌ صحيح، وله بابان: أحدهما يدلُّ على تفرُّقٍ وتصدُّع، والآخر إناء.\nفالأوّل قولُهم: تصوَّعُوا، إذا تفرَّقوا. قال ذو الرُّمَّة:\nتظَلُّ بها الآجال عَنِّى تَصَوَّعُ (١)\nويقال تصوّع شَعَره، إذا تشقق. كذا قال الخليل. وقال أيضاً: تصوَّعَ النَّبْت: هاج. ويقال انصاع القوم سِراعاً: مَرُّوا.\nفأمَّا الإِناء فالصَّاع والصُّوَاع، وهو إناءٌ يشرب به. وقد يكون مكيالٌ من المكاييل صاعاً، وهو من ذات الواو، وسمِّى صاعاً لأنَّه يدور بالمَكِيل.\nويقال إنَّ الكَّمِىَّ يَصُوع بأقرانه صَوْعاً، إذا أتاهم من نَوَاحيهم.\nوالرّجل يَصُوع الإِبل.\nومن الباب: الصَّاع، وهو بطنٌ من الأرض، فى قوله:\nبِكَفَّىْ ماقِطٍ فى صاعِ (٢)\nومنه صاعُ جؤجُؤِ * النّعامة، وهو موضعُ صَدْرِها إذا وضعَتْه بالأرض.",
+ "az": "[صوع] (sad, vav və eyn) səhih bir kök olub iki fəsli vardır: Biri ayrılmağa və parçalanmağa dəlalət edir, diğəri isə qabdır.\nBirincisi onların sözüdür: تصوَّعُوا (təsəvvəu - ayrıldılar, dağılışdılar). Züədd-Rummə demişdir:\nتظَلُّ بها الآجال عَنِّى تَصَوَّعُ (١)\n(Sürülər onun səbəbi ilə məndən ayrı1ıb dağılır)\nVə deyilir: تصوَّع شَعَره (saçı parça-parça oldu, çartladı). Xəlil belə demişdir. Həmçinin demişdir: تصوَّعَ النَّبْت (bitki quruyub dağıldı). Və deyilir: انصاع القوم سِراعاً (qövm sürətlə keçib getdi).\nQaba gəldikdə, o, الصَّاع (sa') və الصُّوَاع (suva') – içindən su içilən qabdır. Ölçülərdən bir ölçü də صاع (sa') ola bilər, bu, vav hərfinə aid olub, صاع adlanmışdır, çünki o, ölçülən şeyin ətrafında fırlanır.\nVə deyilir ki, cəsur döyüşçü الكَّمِىَّ يَصُوع بأقرانه صَوْعاً (sayu') – onları öz tərəflərindən gəlib yaxaladığı zaman. Kişi də dəvələri صَوْع edir.\nVə bu fəsildəndir: الصَّاع (sa') – yerin qarın hissəsi, onun bu sözündədir:\nبِكَفَّىْ ماقِطٍ فى صاعِ (٢)\nVə onlardan صاعُ جؤجُؤِ النّعامة (dəvəquşunun döşünün sayhı) – onun yerə qoyduğu zaman sinəsinin yerləşdiyi yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:11.241Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 592,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 425,
+  "page_to": 426
+ },
+ "ar": "الجيم والحاء والدال أصلٌ يدلُّ على قِلّة الخير. يُقال عامٌ جَحِدٌ قليل المطر. ورجل جَحِدٌ فقير، وقد جَحِدَ وَأَجْحَدَ. قال ابن دُريد:\nوالْجَحْد من كلِّ شئٍ القِلّة. قال الشَّاعر:\n* ولَنْ يَرَى ما عاش إلاّ جَحْدا *\nوقال الشيبانى: [أجحَدَ الرّجلُ وجحد إذا أنفَضَ وذهبَ مالُه. وأنشد للفرزدق (١)]:\nوبيضاء من أهل المدينة لم تذق … بَئِيساً ولم تتبعْ حُمُولَةَ مُجْحِدِ (٢)\nومن هذا الباب الْجُحود، وهو ضدّ الإِقرار، ولا يكون إلاَّ مع علم الجاحد به أنّه صحيح. قال اللّه تعالى: ﴿وَجَحَدُوا بِها وَاِسْتَيْقَنَتْها أَنْفُسُهُمْ﴾.\nوما جاء جاحدٌ بخيرٍ قطّ.",
+ "az": "[جحد] (Cim, ha və dal hərfləri xeyrin azlığına dəlalət edən bir əsasdır. عامٌ جَحِدٌ (yağmuru az olan il) deyilir. ورجل جَحِدٌ (kasib kişi) – o, جَحِدَ və أَجْحَدَ. İbn Dürid demişdir:\nالْجَحْد hər şeyin azlığıdır. Şair demişdir:\n* ولَنْ يَرَى ما عاش إلاّ جَحْدا *\n(O, yaşadığı müddətdə azlıqdan başqa bir şey görməyəcək.)\nŞeybani demişdir: [Kişi malı tükənib gedərkən أجحَدَ الرّجلُ və جحد deyilir. Fərzədaqın belə dediyi rəvayət olunmuşdur (١)]:\nوبيضاء من أهل المدينة لم تذق … بَئِيساً ولم تتبعْ حُمُولَةَ مُجْحِدِ (٢)\n(Mədinə əhlindən olan ağbəniz qadın əziyyət dadmamış və kasıbın yük heyvanlarının ardınca getməmişdir.)\nBu fəsildəndir: الْجُحُود (inkar etmək) – etirafın əksidir və bu, yalnız inkar edənin onun düzgün olduğunu bildiyi halda ola bilər. Uca Allah buyurmuşdur: ﴿وَجَحَدُوا بِها وَاِسْتَيْقَنَتْها أَنْفُسُهُمْ﴾ (mənaca tərcümə: Onlar haqsız olaraq və təkəbbürlük üzündən onu inkar etdilər, halbuki qəlbləri onun haqq olduğuna əmin idi).\nHeç bir inkarçı heç vaxt xeyir gətirməmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:44.167Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 628,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جره",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 447,
+  "page_to": 447
+ },
+ "ar": "الجيم والراء والهاء كلمةٌ واحدة، وهى الجَرَاهِيَة. قال أبو عُبيدٍ:\nجَراهيةُ القوم: جَلَبَتُهُم وكلامُهم فى علانيتهم دون سِرِّهم. ولو قال قائل: إن هذا مقلوبٌ من الجَهْرِ والجَهْرَاء والجَهارة لكان مَذْهباً.",
+ "az": "[جره] الجيم والراء والهاء كلمةٌ واحدةٌ، وهى الجَرَاهِيَة (jim, ra və hə hərfləri tək bir kəlmədir və o, əl-carahiyədir). قال أبو عُبيدٍ (Əbu Ubeyd demişdir): جَراهيةُ القوم (Qövmün carahiyəsi): جَلَبَتُهُم وكلامُهم فى علانيتهم دون سِرِّهم (onların hay-küyü və gizli deyil, aşkar şəkildə danışdıqları sözləridir). ولو قال قائل (Əgər bir deyən desəydi) إن هذا مقلوبٌ من الجَهْرِ والجَهْرَاء والجَهارة (ki, bu, əl-cəhr, əl-cəhra və əl-cəharədən tərs çevrilmişdir) لكان مَذْهباً (bu, bir məzhəb/fikir olardı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:47.481Z"
+}

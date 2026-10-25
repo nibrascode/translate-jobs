@@ -1,0 +1,17 @@
+{
+ "i": 1522,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 413,
+  "page_to": 413
+ },
+ "ar": "الراء والغين واللام أصلٌ واحد، وهو اغتفال شئٍ وأخذه ثم يشتقّ منه ويُحمل. فالرَّغْل: اختلاسٌ فى غَفْلة. والرَّغْلَة: رَضاعةٌ فى غَفْلة.\nقال أبو زيد: يقال رَمٌّ رَغُول، * إذا اغتنَمَ كلَّ شئٍ وأكله. قال أبو وجزة:\nرَمٌّ رَغُولٌ إذا اغبَرَّتْ مَواردُهُ … ولا يَنامُ له جارٌ إذا اختَرَفا (٢)\nيقول: إذا أجدب لم يَحقِرْ شيئاً وشَرِهَ إليه، وإن اختَرَفَ وأخْصَبَ لم يَنَمْ جارُه؛ خوفاً من غائِلته. والرَّغُول: الشَّاة تَرضَع الغَنَم (٣). فأما الأرْغَل، وهو الأقْلَف، فليس من الباب؛ لأنه مقلوبٌ عن الأغْرل، وقد ذُكِر فى بابه. ويقال عَيشٌ أرْغَلُ، أى واسعٌ رافِهٌ. وهذا لعلّه مِنْ أرغَلَت الأرضُ، إذا أنبتَت الرُّغْل، وهو من أحرار البقول.",
+ "az": "«رغل» (rəğəl): Ра və ğayn, lam hərfləri tək bir əsasdır, o da bir şeyi qafilən ələ keçirmək və götürməkdir, sonra ondan başqa mənalar törədilir və ona şamil edilir. «الرَّغْل» (ərrəğl) — qəflətən oğurlamaq. «الرَّغْلَة» (ərrəğlə) — qəflətən əmizdirmək. Əbu Zeyd demişdir: «رَمٌّ رَغُولٌ» (rammun rağul) — hər şeyi qənimət bilib yeyən kəsə deyilir. Əbu Vəjcə demişdir: رَمٌّ رَغُولٌ إذا اغبَرَّتْ مَواردُهُ … ولا يَنامُ له جارٌ إذا اختَرَفا — mənası: qıtlıq olanda heç bir şeyi kiçik saymaz, ona tamah salar; əgər əldə edib bolçuluq içində olarsa, qonşusunun şərindən qorxduğu üçün qonşusu yatmaz. «الرَّغُول» (ərrəğul) — qoyunları əmizdirən ana qoyun. Qaldı ki, «الأرْغَل» (əl-arğəl) sözünə, o da «الأقْلَف» (əl-əqləf) deməkdir, bu fəsildən deyil; çünki o, «الأغْرَل» (əl-ağrəl) sözünün tərsinə çevrilmiş formasıdır (məkлубdur) və öz fəslində qeyd olunmuşdur. Deyilir: «عَيْشٌ أرْغَلُ» (عيش أرغل) — yəni geniş, rahat yaşayış. Bu da bəlkə «أرْغَتِ الأرضُ» (ərgətil-ərzü) ifadəsindən götürülüb; yəni yer üzü seçmə otlar olan «الرُّغْل» (ərrüğl) bitkisini bitirmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.130Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2481,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 408,
+  "page_to": 408
+ },
+ "ar": "الطاء والثاء ليس بشئ. ويزعمون أنّ الطَّثَّ لُعبَةٌ بخشبةٍ تدعى المِطَثَّة.",
+ "az": "[طث] الطاء والثاء ليس بشئ (Ta və sə heç bir şey deyil). ويزعمون أنّ الطَّثَّ لُعبَةٌ بخشبةٍ تدعى المِطَثَّة (Güman edirlər ki, ət-təss «əl-mitəssə» adlanan taxta parçası ilə oynanılan oyundur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:07:39.766Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1885,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سقب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 85,
+  "page_to": 86
+ },
+ "ar": "السين والقاف والباء أصلان: أحدهما القرب، والآخر يدلُّ على شئٍ مُنْتَصِب. فالأوّل السقَب، وهو القُرْب. ومنه\nالحديث: «الجار أحقُّ بسَقَبِه». يقال منه سقبتِ الدّارُ وأسْقبت. والساقب: القريب. وقال قوم:\nالسّاقب القريب والبعيد. فأمّا القريب فمشهور، وأما البعيد قاحتجُّوا فيه بقول القائل:\nتَرَكْتَ أباك بأرض الحجاز … ورُحتَ إلى بَلدٍ ساقبِ\nوأما الأصل الآخر فالسقْب والصَّقْب، وهو عمود الخِباء، وشُبّه به السقب ولدُ الناقة. ويقال ناقة مِسقاب، إذا كان أكثر وضْعِها الذّكور، وهو قوله:\nغَرّاءَ مِسقاباً لفحلٍ أسْقبًا (١)\nهذا فعلٌ لا نعت.",
+ "az": "[سقب] السين والقاف والباء (sin, qaf və ba) iki əsasdır: Biri yaxınlıq, digəri isə dik duran bir şeyə dəlalət edir. Birincisi – əs-səqəb (السقَب), bu, yaxınlıqdır. Hədisdən: «الجار أحقُّ بسَقَبِه» (Qonşu öz yaxınlığına daha çox haqlıdır). Deyilir: «سقبتِ الدّارُ وأسْقبت» (Ev yaxınlaşdı və yaxınlaşdı). Əs-saqib (الساقب): yaxın olan. Bəzi qövmlər demişlər: Əs-saqib – yaxın və uzaq olan. Yaxın olan məşhurdur, uzaq olana gəldikdə isə, onlar şairin bu sözü ilə dəlil gətirmişlər: تَرَكْتَ أباك بأرض الحجاز … ورُحتَ إلى بَلدٍ ساقبِ (Atanı Həccaz torpağında qoydun... və uzaq bir məmləkətə getdin). Digər əsəsə gəldikdə isə, bu, əs-səqb (السقْب) və əs-səqb (الصَّقْب) – çadırın dirəyidir, dəvə balası olan əs-səqb (السقب) buna bənzədilmişdir. Deyilir: «ناقة مِسقاب» – doğduqlarının çoxu erkək olan dəvə, bu şairin sözüdür: غَرّاءَ مِسقاباً لفحلٍ أسْقبًا (١) (Ağ alınlı, erkək doğan dəvə, əsqəb olan dayə üçün). Bu, sifət deyil, feldir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:54.004Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1270,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دقر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 290,
+  "page_to": 290
+ },
+ "ar": "الدال والقاف والراء أصل يدل على ضعفٍ ونقصان.\nفالدَّقارير: الأباطيل. والدواقير - فيما يقال - جمع دَوْقَرَةٍ، وهى غائطٌ من الأرض لا يُنْبِت. والدِّقْرَارة: الرجُل النَّمَّام. والدِّقرار: التُّبَّان. وقياسُه قياسُ الباب، لنُقْصانه.",
+ "az": "«دقر» (د-ق-ر): dal, qaf və ra hərfləri zəifliyə və əskikliyə dəlalət edən bir əsasdır.\n«الدَّقارير» (əddəqarir) – batillər, yalanlar. «الدواقير» (əddəvaqir) – deyilənə görə, bitki bitirməyən çökək yer mənasını verən «دَوْقَرَة» (dəvqarə) sözünün cəmidir. «الدِّقْرَارة» (əddiqrarə) – sözgəzdirən, qeybət edən kişidir. «الدِّقرار» (əddiqrar) – cinsiyyət orqanını örtən şalvar (tübban). Bunun qiyaslı ölçüsü əskikliyinə görə babın qiyasınadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.300Z"
+}

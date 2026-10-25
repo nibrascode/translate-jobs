@@ -1,0 +1,17 @@
+{
+ "i": 2411,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 372,
+  "page_to": 372
+ },
+ "ar": "الضاد والميم والنون أصلٌ صحيح، وهو جَعْل الشَّئ فى شئٍ يحويه. من ذلك قولهم: ضمَّنت [الشئ]، إذا جعلته فى وعائه. والكَفَالة تسمَّى ضَماَنا من هذا؛ لأنّه كأنّه إذا ضمِنَه فقد استوعبَ ذمّته. والمَضَامِين: ما فى بطون الحوامل. ومنه الحديث أنَّه نهى عن المَلاقيح والمَضامين. وذلك أنَّهم كانوا يبيعون الحَبَل (٤)، فنَهَى عن ذلك. وأما قوله: «لكم الضَّامِنة من النَّخْل» فإنّه يريد ما تضمّنَتْه قُراهم. فهذا الباب مطّرد.\nوأمَّا الضَّمَانة، وهى الزَّمانة والضَّمِن: الزّمِن، فإِنّه عندى من باب الإبدال كأنَّ الضاد مبدلة من زاى. وفى الحديث: «مَنْ اكتتب ضَمِناً بعثَهُ اللّهُ تعالى ضَمِناً»، أى من كتب نفسه من الزَّمْنَى.",
+ "az": "[ضمن] (Dəmən): Zad, mim və nun hərfləri səhih bir əsas olub, bir şeyi onu əhatə edən başqa bir şeyin içinə qoymaqdır. Bunlardandır onların sözü: ضمَّنت [الشئ] (bir şeyi [zəmanətə götürdüm / qabına qoydum]) — onu qabına qoyduğun zaman [deyilir]. Kəfalət (zəmanət) bundan ötəri zəmanət adlandırılmışdır; çünki o, buna zəmanət verdikdə sanki [borclunun] zimmasını tamamilə əhatə etmiş olur. Əl-madamin (المضامِين): hamilə heyvanların bətnlərində olanlardır. Hədisdə gələn əl-malaqih və əl-madamindən nəhy olunması da bundandır. Bu ona görə idi ki, onlar bətnindəki balanı satırdılar və bundan da nəhy olundu. Amma onun: «لكم الضَّامِنة من النَّخْل» («Xurma ağaclarından zəmanət olunanlar sizindir») sözünə gəlincə, o, kəndlərinin əhatə etdiyi [məhsulu] nəzərdə tutur. Deməli, bu qapı müntəzəmdir. Amma əd-dəmanə (الضَّمَانة) — bu, zəmanət (ifliclik, xəstəlik) deməkdir, əd-damin (الضَّمِن) isə xəstə/iflicdir; bu isə mənim nəzərimdə əvəzləmə qapısındandır, sanki zad hərfi zay hərfi ilə əvəz olunmuşdur. Hədisdə demişdir: «مَنْ اكتتب ضَمِناً بعثَهُ اللّهُ تعالى ضَمِناً» («Kim özünü xəstə/iflic olaraq yazdırarsa, Uca Allah onu da qiyamət günü iflic olaraq dirildər») — yəni kim özünü xəstələr siyahısına yazdırarsa.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:55.137Z"
+}

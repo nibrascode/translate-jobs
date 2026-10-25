@@ -1,0 +1,17 @@
+{
+ "i": 815,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 19,
+  "page_to": 19
+ },
+ "ar": "الحاء والكاف أصلٌ واحد، وهو أن يلتقىَ شيئانِ يتمرّس كلُّ واحدٍ منهما بصاحبه. الحكُّ: حَكُّكَ شيئاً على شئ. يقال ما بقِيتْ فى فيه حَاكَّة، أى سنّ. وأحكَّنِى رأسى فحكَكْته. ويقال حكَّ فى صدرى كذا:\nإذا لم ينشرح صدْرك له، كأنه شئ شكَّ صدرَك فتمرّس [به]. والحُكاكة:\nما يسقط من الشيئين تحكُّهما. والحَكِيك: الحافر النَّحِيت (٥). ويقولون وهو أصل الباب: فلانٌ يتحكَّك بى، أى يتمرَّس\nقال الفرّاء: إنه لحِكُّ شَرٍّ، وحِكُّ ضِغْنٍ (٦).",
+ "az": "«حك» (ح, ك) — tək bir əsas kökdür, o da iki şeyin bir-biri ilə qarşılaşaraq hər birinin digəri ilə sürtünməsi deməkdir. الحك (əl-həkk) – sənin bir şeyi digər şeyə sürtməyindir. Deyilir ki, onun ağzında bir diş də qalmadı («ما بقِيتْ فى فيه حَاكَّة»). Başımmı qaşındı və mən də onu qaşıdım («وأحكَّنِى رأسى فحكَكْته»). Deyilir: «Filan şey ürəyimdə qaşındı» («حك فى صدرى كذا»), – köksün ona açılmadığı zaman, sanki o, sənin köksünü şübhəyə salan və [onunla] sürtünən bir şeydir. \nالحُكاكة (əl-həkakə) – iki şeyin bir-birinə sürtünməsindən tökülən şeydir. \nالحَكِيك (əl-həkik) – yonulmuş dırnaqdır (٥). \nOnlar deyirlər ki, bu kökün əslidir: «Filankəs mənimlə sürtünür» («فلان يتحكَّك بى»), yəni mənimlə çarpışır. \nFəra demişdir: «O, həqiqətən şər adamıdır, kin adamıdır» («إنه لحِكُّ شَرٍّ، وحِكُّ ضِغْنٍ») (٦).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:53:25.343Z"
+}

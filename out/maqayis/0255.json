@@ -1,0 +1,17 @@
+{
+ "i": 255,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بصع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 252,
+  "page_to": 252
+ },
+ "ar": "الباء والصاد والعين أصلٌ واحد، وهو خُروج الشَّئِ بشدّةٍ وضِيق. قال الخليل: البَصْع الخَرْق الضيِّق الذى لا يكاد الماءُ ينفُذُ منه، يقال بَصَعَ يَبْصَعُ بَصاعةً. قال الخليل: ويقال تَبَصَّعَ العَرَقُ من الجَسَدِ إذا نَبَعَ من أُصول الشَّعَر قليلاً.\nقال الدُّرَيدىّ: بَصَع العَرَقُ إذا رَشَحَ. وذكرَ أنَّ الخليل كان يُنشِد:\nبأبَى بِدِرَّتها إذا ما اسْتُكْرِهَتْ … إلاَّ الحَمِيمَ فإنَّه يتبَصَّعُ (١)\nبالصاد، يذهب إلى ما ذَكَرْنَاه. والذى عليه الناس الضَّاد، وهو السَّيَلان.\nوقال الدُّرَيدىّ: البَصِيع العَرَق بعَيْنه. ومما شَذَّ عن هذا الأصل [بصعٌ، أى] شئٌ. يُحكى عن قُطْرُب: مضى بِصْعٌ من اللَّيل، أى شئٌ منه.",
+ "az": "[بصع] (bəşəc): Ba, sad və əyn tək bir əsasdır, o da bir şeyin şiddətlə və darısqallıqla çıxmasıdır. Xəlil demişdir: «البَصْع» (əl-bəşc) – suyun çətinliklə keçdiyi dar yarıqdır, «بَصَعَ يَبْصَعُ بَصاعةً» (bəşəcə yəbşəbʊ bəşacətən) deyilir. Xəlil demişdir: Və «تَبَصَّعَ العَرَقُ من الجَسَدِ» (təbəşşəal-ərəqu minəl-cəsədi) – tər tüklərin kökündən azacıq qaynaqlandıqda deyilir.\nDuridi demişdir: «بَصَع العَرَقُ» (bəşəal-ərəqu) – tər sızdıqda. Və qeyd etmişdir ki, Xəlil bu beytİ oxuyurdu:\nبأبَى بِدِرَّتها إذا ما اسْتُكْرِهَتْ … إلاَّ الحَمِيمَ فإنَّه يتبَصَّعُ (١)\n(Məcbur edildikdə damlası ancaq isti tər olar ki, sızar – istisna olmaqla dayandı).\nSad hərfi ilə, bizim qeyd etdiyimizə işarə edir. İnsanların üzərində durduğu isə dad (ض) hərfi ilədir, o da axmasıdır.\nVə Duridi demişdir: «البَصِيع» (əl-bəşic) – məhz tərdir. Və bu əsasdan kənara çıxan [بصعٌ، أى] – bir şeydir. Qutrubdan rəvayət olunur: gecədən «بِصْعٌ» (bişun) keçdi, yəni ondan bir şey (bir miqdar) keçdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:44.619Z"
+}

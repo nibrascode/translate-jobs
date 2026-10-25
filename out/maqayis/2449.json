@@ -1,0 +1,17 @@
+{
+ "i": 2449,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضبز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 386,
+  "page_to": 386
+ },
+ "ar": "الضاد والباء والزاء. يقولون الضَّبْز: شدّة اللَّحظ ولا معنى لهذا.",
+ "az": "«ضبز»: الضاد, الباء, والزاء (d, b, z). Deyirlər: «الضَّبْز» — sərt baxış. Bunun heç bir mənası yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

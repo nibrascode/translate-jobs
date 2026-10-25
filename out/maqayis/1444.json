@@ -1,0 +1,17 @@
+{
+ "i": 1444,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 375,
+  "page_to": 375
+ },
+ "ar": "الراء والغين أصلٌ يدلُّ على رَفاهة ورفاغَةٍ ونَعْمة. قال ابن الأعرابىِّ: الرَّغْرغة من رَفاغة العَيش. وأصلُ ذلك الرَّغْرَغة، وهو أنْ تَرِدَ الإبلُ على الماء فى اليوم مراراً. ومن الباب الرَّغيغة: طعامٌ يُتَّخَذُ للنُّفَساء. يقال هو لبَنٌ يُغْلَى ويُذَرُّ عليه دقيق.",
+ "az": "[رغ] الراء (ra) və الغين (ğeyn) hərfləri rifah, rahatlıq və nemətə dəlalət edən bir kökdür. İbn əl-Ərabi dedi: الرَّغْرغة (ər-rəğrəğə) həyatın rahatlığındandır. Bunun əsli الرَّغْرغة (ər-rəğrəğə) olub, dəvələrin suya gündə bir neçə dəfə gəlməsidir. Bu babdandır الرَّغيغة (ər-rəğiğə): zahı qadın üçün hazırlanan yemək. Deyilir ki, bu, qaynadılan və üzərinə un səpilən süddür.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:25:01.822Z"
+}

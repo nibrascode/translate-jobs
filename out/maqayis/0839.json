@@ -1,0 +1,17 @@
+{
+ "i": 839,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حرص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 40,
+  "page_to": 40
+ },
+ "ar": "الحاء والراء والصاد أصلان: أحدهما الشّقّ، والآخر الجَشَع.\nفالأول الحَرْصُ الشَّقُّ؛ يقال حَرَص القَصَّار الثوبَ إذا شقَّه. والحارِصَة من الشِّجاج: التى تشقُّ الجلد. ومنه الحرِيصة والحارِصَةُ، وهى السحابة التى تَقْشِر وجْهَ الأرض مِنْ شِدّة وَقْع مطرِها. قال:\n* انهلالُ حريصَة (٤) *\nوأمّا الجَشَع والإفراط فى الرَّغْبة فيقال حَرَصَ إذا جَشَع يَحْرِصُ حِرْصا، فهو حريصٌ. قال اللّه تعالى: ﴿إِنْ تَحْرِصْ عَلى هُداهُمْ﴾. ويقال حُرِصَ المَرْعَى (٥)، إذا لم يُتْرك منه شئ؛ وذلك من الباب، كأنّه قُشِر عن وجْه الأرض.",
+ "az": "[حرص] (h-r-ş). Ha, ra və sad hərfləri iki əsasdır: biri yarıq, diğeri hərislikdir.\nBirincisi: الحَرْص (əl-hərc) yarıq deməkdir; deyilir: حَرَص القَصَّار الثوبَ (hərəcəl-qəssaru əs-səvbə) — əgər paltarçalan paltarı yırtmışdırsa. Şiçələrdən (baş və üz yaralarından) olan الحارِصَة (əl-hərisə) — dərini yırtan yaradır. Həmçinin الْحَرِيصَة (əl-hərisə) və الْحارِصَة (əl-hərisə) də bundandır, bu da yağışının şiddətli düşməsindən yerin üzünü qoparan buluddur. [Şair] demişdir:\n* انهلالُ حريصَة (٤) *\n(Hərisə buludunun leysanı).\nAmma hərislik və istəkdə həddini aşmağa gəlincə, deyilir: حَرَصَ يَحْرِصُ حِرْصا (hərəcə yəhricu hircən) — əgər tamah saldısa, deməli, o, حريصٌ (hərisdir). Uca Allah buyurmuşdur: ﴿إِنْ تَحْرِصْ عَلى هُداهُمْ﴾ (mənaca tərcümə: Əgər sən onların doğru yola gəlməsini çox istəsən). Və deyilir: حُرِصَ المَرْعَى (huricəl-mər‘ə) — əgər otlaqdan heç bir şey buraxılmamışdırsa; bu da həmin fəsildəndir, sanki yerin üzündən qoparılıb alınmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:50.460Z"
+}

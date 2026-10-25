@@ -1,0 +1,17 @@
+{
+ "i": 326,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 307,
+  "page_to": 307
+ },
+ "ar": "الباء والهاء والتاء أصلٌ واحدٌ، وهو كالدَّهَش والحَيْرة.\nيقال بُهِتَ الرجل يُبْهَتُ بَهْتاً. والبَهْتَةُ الحَيرة. فأما البُهتان فالكذب. يقول العرب: يا لَلبَهيتة، أى يا لَلكذِب.",
+ "az": "[بهت] (bəhət). Ba, hər və ta tək bir əsldir, o da heyrətə düşmək və çaşqınlıq kimidir.\nDeyilir: بُهِتَ الرَّcلُ يُبْهَتُ بَهْتاً (buhitəl-raculu yubhətu bəhtən). البَهْتَة (əl-bəhtə) – heyrətdir. Amma بُهتان (buhtan) – yalandır. Ərəblər deyir: يا لَلْبَهيتة (ya lil-bəhitə) – yəni vay yalanın halına!",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:54.814Z"
+}

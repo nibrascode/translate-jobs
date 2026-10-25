@@ -1,0 +1,17 @@
+{
+ "i": 1288,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 297,
+  "page_to": 297
+ },
+ "ar": "الدال واللام والفاء أصلٌ واحد يدلُّ على تقدُّمٍ فى رِفق.\nفالدّليف: المشْئ الرُّوَيد. يقال دَلَفَ دَلِيفاً؛ وهو فَوْقَ الدَّبِيب. ودلَفَت الكتيبة فى الحرب. قال أبو عُبيد: الدَّلْف: التقدُّم؛ دَلَفْناهم، أى تقدَّمناهم (١). والدَّالف:\nالسّهم الذى يقَع دون الغَرَض ثم ينبُو عن موضِعِه.",
+ "az": "«دلف» (dəlif): Dal, lam və fə yumşaqlıqla irəliləməyə dəlalət edən tək bir əsasdır.\n«الدَّلِيف» (əd-dəlif) — asta yerişdir. Deyilir: «دَلَفَ دَلِيفاً» (dələfə dəlifən) — o, asta yeridi; bu, həm də gəzməkdən yuxarıdır. Dəstə müharibədə irəlilədi (dələfəti əl-kətibətu). Əbu Übəyd demişdir: «الدَّلْف» (əd-dəlf) — irəliləməkdir; «دَلَفْناهم» (dələfnəhum) — yəni biz onlardan irəlidə olduq (1). «الدَّالف» (əd-dəlif) — hədəfdən qabağa düşən, sonra isə yerindən uzaqlaşan oxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

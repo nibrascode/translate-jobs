@@ -1,0 +1,17 @@
+{
+ "i": 781,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلفز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 510,
+  "page_to": 511
+ },
+ "ar": "ومن ذلك قولهم للعجوز المُسِنّة (جَلْفَزِيزٌ). فهذا من جَلَزَ وجلف. أمّا جلز\nفمن قولنا مجلوز، أى مطوىٌّ، كأنّ جسمَها طُوِى من ضُمْرها وهُزالها.\nوأمّا جَلَفَ فكأنَّ لحمها جُلِفَ جَلْفًا أى ذُهِب به.",
+ "az": "«جلفز» - Və buraya yaşlı qarıya «جَلْفَزِيزٌ» (cəlfəziz) deyilməsi daxildir. Bu, جَلَز (cələz) və جَلَف (cələf) sözlərindən ibarətdir. Cələzə gəldikdə, o, bükülmüş, qatlanmış mənasını verən مجلوز (məcluz) sözümüzdəndir, sanki qadının bədəni arıqlığından və zəifliyindən bükülüb qalmışdır. Cələfə gəldikdə isə, sanki onun əti qopardılıb aparılmışdır (cələf edilmişdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

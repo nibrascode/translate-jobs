@@ -1,0 +1,17 @@
+{
+ "i": 2402,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضفط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 367,
+  "page_to": 367
+ },
+ "ar": "الضاد والفاء والطاء أُصَيل يقولون إنّه صحيح، وأصله الحُمق والجَفَاء. يقال للأحمق ضَفِيطٌ بيِّن الضَّفَاطة. ويقال الضَّفَّاط: الذى يُكْرِى الإبل. والضَّفَّاطة فيما يقال: الإبل تحمل المتاع. وأحسب أنّ البابَ كلَّه مما لا يعوَّل عليه.",
+ "az": "[ضفط] (Dəfət): Zad, fa və ta hərfləri kiçik bir əsas olub, bunun səhih olduğunu, əslinin isə axmaqlıq və qabalığı bildirdiyini deyirlər. Axmağa açıq-aşkar axmaqlıq əlaməti ilə ضَفِيطٌ (dəfit) deyilir. Deyilir ki, الضَّفَّاط (əddəffat): dəvə icarəyə götürən şəxsdir. Əddəffatə (əddəffatə) isə deyilənlərə görə: yük daşıyan dəvələrdir. Güman edirəm ki, bu qapının tamamı etibar edilməyənlərdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:55.136Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2103,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شكد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 207,
+  "page_to": 207
+ },
+ "ar": "الشين والكاف والدال أصلٌ. يقولون: إنّ الشُّكْد:\nالشُّكر. وسمعت على بن إبراهيم القطّان يقول: سمعت علىّ بن عبد العزيز يقول:\nسمعت أبا عبيد يقول: سمعت الأموىّ يقول: الشُّكد: العَطاء، والشُّكم:\nالجَزاء، والمصدر: الشَّكْد. وقال الكسائىّ: الشُّكم: العِوَض. والأصمعىُّ يقول الشُّكم والشُّكْد: العطاء.",
+ "az": "[شكد] الشين (ش), Kaf (ك) və Dal (د) bir əsldir. Deyirlər ki, əş-şüqd (الشُّكْد): şükürdür. Əli ibn İbrahim əl-Qəttanın belə dediyini eşitdim: Əli ibn Əbdüləzizin belə dediyini eşitdim: Əbu Übeydin belə dediyini eşitdim: Üməvinin belə dediyini eşitdim: Əş-şüqd — bəxşişdir, əş-şükm — mükafatdır, məsdəri isə əş-şəkddir (الشَّكْد). Kisaeyi demişdir: Əş-şükm — əvəzdir. Əsməi isə deyir ki, əş-şükm və əş-şüqd — bəxşişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:08.599Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1111,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خظى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 200,
+  "page_to": 200
+ },
+ "ar": "الخاء والظاء والياء ليس فى الباب غيره، وهو يدلُّ على اكتنازِ الشَّئ. ولا يكادُ يقال هذا إلاّ فى اللَّحم؛ يقال خَظِى لحُمه، إذا اكتنَزَ (٢) ولحمه خَظَا بَظَا. ورحلٌ خَظَوَانٌ: ركِب لحمُه بعضه بعضاً.",
+ "az": "«خظى» — الخاء والظاء والياء (X, Z, Y) bu fəsildə bundan başqa heç nə yoxdur, o da bir şeyin sıx olub bərkiməsinə dəlalət edir. Bu, demək olar ki, yalnız ətdə işlədilir; deyilir خَطِى لحُمه (Onun əti bərkiyib sıxlaşdı) və لحمه خَظَا بَظَا (Onun əti bərk olub bir-birinə söykəndi). Və رجلٌ خَظَوَانٌ (xəzəvan kişi) — əti bir-birinin üzərinə minmiş kəs.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:04.063Z"
+}

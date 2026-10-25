@@ -1,0 +1,17 @@
+{
+ "i": 2120,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شنث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 218,
+  "page_to": 218
+ },
+ "ar": "الشين والنون والثاء ليس بأصل، وفيه كلمة. يقولون:\nشَنِثَت مَشافِر البعير، إذا غُلظت من أكل الشَّوْك.",
+ "az": "[شنث] \nالشين والنون والثاء (şin, nun və sə) əsas deyil, burada bir kəlmə var. Deyirlər:\n«شَنِثَت مَشافِر البعير» — dəvənin dodaqları tikandan yeyərək qalınlaşdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:58.865Z"
+}

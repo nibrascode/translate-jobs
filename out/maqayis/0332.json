@@ -1,0 +1,17 @@
+{
+ "i": 332,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 309,
+  "page_to": 310
+ },
+ "ar": "الباء والهاء والشين. شيئان: أحدهما شِبْه الفَرَح، والآخر جِنسٌ من الشَّجَر.\nفالأول قولهم بَهَش إليه إذا رآه فسُرَّ به وضَحِك إليه. ومنه\nحديث * الحسن:\n«أنَّ النبى ﵌ كان يُدْلِعُ له لسانَه فيَبْهَش الصبىُّ له (١)».\nومنه قوله:\n* وإذا رأيتَ الباهِشِين إلى العُلَى (٢) *\nوالثانى البَهْش، وهو المُقْل ما كانَ رطباً، فإِذا يَبِس فهو خَشْل. و\nقال عُمَرُ: وبَلَغَه أنَّ أبا موسى قَرأ حَرفاً بلغةِ قومِه، فقال: «إنّ أبا موسى لم يكُنْ مِنْ أهْل البَهْش». يقول: إنه ليس من أهل الحجازِ، والمقْلُ ينبُتُ، يقول: فالقرآنُ نازِلٌ بلُغة الحجازِ لا اليَمَن.",
+ "az": "«ب» (با), «ه» (هə) və «ش» (şin). İki şeydir: biri sevinbənzər, diğəri bir ağac növüdür.\n\nBirincisi onların «بَهَش إليه» (ona baxıb sevinərək gülümsədi, ona doğru canatdı) sözüdür. Həsənin hədisində də belə gəlmişdir:\n«أنَّ النبى ﵌ كان يُدْلِعُ له لسانَه فيَبْهَش الصبىُّ له (١)» \n(mənaca tərcümə: Peyğəmbər (s.ə.v.) dili ilə uşağı əyləndirər, uşaq da ona sevinib canatardı).\nHəmçinin bu beyt:\n* وإذا رأيتَ الباهِشِين إلى العُلَى (٢) *\n(Və əgər ucalıqlara canatanları görsən)\n\nİkincisi «البَهْش»-dir, o da yetişmiş xurmadır, quruduğu zaman «خَشْل» olar. Ömər demişdir: Ona xəbər çatdı ki, Əbu Musa öz tayfasının ləhcəsi ilə bir hərfi oxumuşdur, o da dedi: «Həqiqətən, Əbu Musa əhl-i bəhşdən (Bəhş əhlindən) deyildir». O bununla demək istəyir ki, o, Hِcaq əhlindən deyil, məqsəd isə xurmanın bitməsidir; demək, Quran Hِcaq ləhcəsində enmişdir, Yəmən ləhcəsində yox.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:34:14.633Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1373,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دحو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "الدال والحاء والواو أصلٌ واحد يدلُّ على بَسْطٍ وتمهيد.\nيقال دحا اللّه الأرضَ يدحُوها دَحْواً، إذا بَسَطَها. ويقال دحا المطرُ الحَصَى عن وجْه * الأرض. وهذا لأنّه إذا كان كذا فقد مهدّ الأرض. ويقال للفرَس إذا رمَى بيديه رمْياً، لا يرفع سُنْبُكَه عن الأرض كثيراً: مرّ يدحُو دَحْواً. ومن الباب أُدْحِىُّ النَّعام: الموضع الذى يُفَرِّخ فيه، أُفْعولٌ مِنْ دحوت؛ لأنّه يَدْحُوه برِجْله ثم يبيض فيه. وليس للنّعامة عُشٌّ.",
+ "az": "[دحو] الدال والحاء والواو أصلٌ واحد يدلُّ على بَسْطٍ وتمهيد. (الدال, hə və vav – sərməyə və döşəməyə dəlalət edən tək bir əsasdır). Deyilir: دحا اللّه الأرضَ يدحُوها دَحْواً (Allah yeri dəhə etdi, dəhuha dəhən edir), onu sərdiyi zaman. Və deyilir: دحا المطرُ الحَصَى عن وجْه * الأرض (Yağış yerin * səthindən xırda daşları dəhə etdi). Bu ona görədir ki, o, belə olduğu zaman yeri döşəmişdir. At ayaqlarını irəliyə atıb dırnağını yerdən çox qaldırmadığı zaman at haqqında deyilir: مرّ يدحُو دَحْواً (dəhə edərək keçdi). Bu بابdandır: أُدْحِىُّ النَّعام (Dəvəquşunun udhiyyü): Onun yumurtladığı yer, دَحَوتُ (dəhawtü)-dən əf’ulun vəznindədir; çünki o, ayağı ilə onu açır, sonra orada yumurtlayır. Dəvəquşunun yuvası yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

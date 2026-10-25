@@ -1,0 +1,17 @@
+{
+ "i": 1960,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 118,
+  "page_to": 119
+ },
+ "ar": "السين والواو والميم أصلٌ يدل على طلب الشئ. يقال سُمْتُ الشئَ أسُومُه سَوْماً. ومنه السَّوم فى الشِّراء والبيع. ومن الباب سَامَت الرّاعيةُ تَسُومُ، وأسَمْتُهَا أنا. قال اللّه تعالى: ﴿فِيهِ تُسِيمُونَ﴾، أى تُرعُون. ويقال سَوَّمْت فلاناً فى مالى تسويماً، إِذا حكمَّتَه فى مالك. وسَوَّمْت غُلامى: خَلّيته وما يُريد.\nوالخيل المُسَوَّمة: المرسلة وعليها رُكبانُها. وأصل ذلك كلِّه واحد.\nومما شذّ عن الباب السُّومَةُ، وهى العلامة تُجعَل فى الشئ. والسِّيما مقصور\nمن ذلك * قال اللّه سبحانه: ﴿سِيماهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ اَلسُّجُودِ﴾. فإذا مدُّوه قالوا السيماء.",
+ "az": "[سوم] Sin, vaf və mim hərfləri bir şeyi tələb etməyə dəlalət edən bir əslir. Deyilir: «سُمْتُ الشئَ أسُومُه سَوْماً» (mən o şeyi istədim/tələb etdim). Alqı-satqıdakı «السَّوم» (qiymət oxumaq/bazarlıq) da bundandır. Bu babdandır: «سَامَت الرّاعيةُ تَسُومُ» (otlaqdakı heyvan otladı), və «أسَمْتُهَا أنا» (mən onu otlağa buraxdım). Uca Allah buyurmuşdur: ﴿فِيهِ تُسِيمُونَ﴾ (mənaca tərcümə: Orada mal-qaranızı otarırsınız). Deyilir: «سَوَّمْتُ فلاناً فى مالى تسويماً» (mən filankəsi malımda sərbəst buraxdım), yəni malında ona hökm etməyə imkan verdin. Və «سَوَّمْتُ غُلامى» (qulamımı sərbəst buraxdım): onu istədiyi ilə baş-başa buraxdım.\n«الخيل المُسَوَّمة» (nişanlı/buraxılmış atlar) – üstündə miniciləri olduğu halda sərbəst buraxılan atlardır. Bunların hamısının əsli birdir.\nBu babdan kənara çıxan (şəzz olan) «السُّومَةُ» (süumə) sözüdür ki, o da bir şeyin üzərinə qoyulan əlamətdir. «السِّيما» (sima) da bundan qısaldılmışdır * Uca Allah buyurmuşdur: ﴿سِيماهُمْ فِي وُجُوهِهِمْ مِنْ أَثَرِ اَلسُّجُودِ﴾ (mənaca tərcümə: Onların əlaməti səcdə izindən üzlərindədir). Onu uzatdıqda isə «السيماء» (siyəma) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

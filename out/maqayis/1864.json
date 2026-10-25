@@ -1,0 +1,17 @@
+{
+ "i": 1864,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سعو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 74,
+  "page_to": 74
+ },
+ "ar": "السين والعين والحرف المعتل وهو الواو، كلمتان إن صحّتا. فذكر عن الكسائى: مضى سَعْوٌ من الليل، أى قِطْع منه. وذكر ابن دريد (٣) أن السَّعْوَ الشَّمَع، وفيه نظر. [والمَسْعاة (٤)] فى الكرم والجُود.\nوالسِّعاية فى أخذ الصدقات. وسِعاية العَبد، إذا كُوتبَ: أن يسعى فيما يفُكُّ رقبتَه.\nومن الباب ساعَى الرّجلُ الأمَةَ، إذا فجَرَ بها، كأنَّه سعى فى ذلك وسَعَت فيه. قالوا: لا تكون المساعاة إلاّ فى الإماء خاصّة.",
+ "az": "[سعو] السين والعين والحرف المعتل — sin, ayn və uzadılma hərfi olan vəv — əgər düzgündürsə, iki kəlmədir. Əl-Kisaidən rəvayət olunmuşdur: مضى سَعْوٌ من الليل (məda səwün minəl-ləyl) — yəni gecədən bir parça keçdi. İbn Dürid (٣) zikr etmişdir ki, السَّعْو (əssəw) — mumdur və bunda nəzər (müzakirə) vardır. [والمَسْعاة] (vəl-məsah) — səxavət və kərəm sahibi olmaq.\nİnsanlardan sədəqə almaq işinə السّعاية (əssəyah) deyilir. Qulun azadlığı üçün məktəb yazıldığı zamankı səyidir (سعاية العبد) — boynunu xilas etmək üçün çalışmasıdır.\nBu fəsildəndir: ساعَى الرّجلُ الأمَةَ (səalər-rəculül-amətə) — kişi kənizlə zina etdiyi zaman deyilir, sanki o, bu işdə çalışmış, kəniz də çalışmışdır. Deyirlər ki: مساعاة (məsah) yalnız kənizlərə xasdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.965Z"
+}

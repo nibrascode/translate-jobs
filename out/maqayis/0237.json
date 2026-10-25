@@ -1,0 +1,17 @@
+{
+ "i": 237,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "الباء والزاء والغين أصل واحد، وهو طُلوع الشَّئِ وظُهورُه.\nيقال بَزَغَتِ الشمسُ وبَزَغ نابُ البَعيرِ إذا طلع. ويقولون للبَيْطار إذا أُوْدَجَ الدَّابّةَ قد بَزَغه، وهو قياسُ الباب.",
+ "az": "[بزغ] (bəzəğ). باء (ba), زاء (zay) və غَيْن (ğeyn) hərfləri tək bir əsasdır ki, o da bir şeyin doğması və üzə çıxmasıdır.\nBəzəğət iş-şəmsü (بَزَغَتِ الشمسُ) — günəş doğdu, bəzəğ naubül-bəir (بَزَغَ نابُ البَعيرِ) — dəvənin dişləri çıxdı, deyilər. Baytara heyvanın şah damarını kəsərkən «bəzəğəhu» (بَزَغه) de١irlər ki, bu da babın qisasındandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:02.135Z"
+}

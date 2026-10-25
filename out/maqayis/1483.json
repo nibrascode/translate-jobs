@@ -1,0 +1,17 @@
+{
+ "i": 1483,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رشا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 397,
+  "page_to": 397
+ },
+ "ar": "الراء والشين والهمزة كلمةٌ واحدة وهى الرّشأ، مهموز، وهو ولد الظَّبْية.",
+ "az": "«رشا» (Rə-şa): Ra, şin və həmzə tək bir kəlmədir, o da həmsəli olaraq الرّشأ (rəşə), yəni ceyran balasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

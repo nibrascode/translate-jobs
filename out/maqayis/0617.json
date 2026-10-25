@@ -1,0 +1,17 @@
+{
+ "i": 617,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جذو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 439,
+  "page_to": 440
+ },
+ "ar": "الجيم والذال والواو أصلٌ يدلُّ على الانتصاب. يقال جَذَوْتُ على أطراف أصابعى، إذا قمت. قال:\nإِذا شِئْتُ غَنَّتَنِى دَهَاقِينُ قريةٍ … وصَنَّاجَةٌ تَجْذُو على حدِّ مَنْسِمِ (٣)\nقال الخليل: يقال جَذَا يجذُو، مثل جثا يجثُو، إلاّ أَنّ جذا أَدَلُّ (٤) على اللزوم.\nوهذا الذى قاله الخليل فدَليلٌ لنا فى بعض ما ذكرناه من مقاييس الكلام.\nوالخليل عندنا فى هذا المعنى إمامٌ.\nقال: ويقال جَذَا القُرادُ فى جنْب البعير؛ لشدّة التزاقه. وجَذَتْ ظَلِفَة الإكاف فى جَنْب الحمار. و\nقال رسول اللّه ﵌: «مَثَلُ المنافِق مَثَلُ الأَرْزَة المُجْذيَة على الأرض حتَّى يكونَ انجعافُها (١) مَرَّةً». أراد بالمجْذِيَةِ الثّابتة.\nومن الباب تجاذَى القومُ الحَجرَ، إِذا تشاوَلُوه.\nفأمّا قولهم رجلٌ جاذٍ، أى قصير الباع، فهو عندى من هذا؛ لأنّ الباع إذا لم يكن طويلاً ممدوداً كان كالشئ الناتئ المنتصب. قال:\nإنّ الخلافةَ لم تكن مقصورةً … أبداً على جاذِى اليدينِ مُبخَّلِ (٢)",
+ "az": "[جذو] (Cim, ذal və vav): Dik durmağa dəlalət edən bir əsasdır. Deyilir: «جَذَوْتُ على أطراف أصابعى» (ayaq barmaqlarım üstə dikəldim, qalxdım). Şair demişdir: «Nə vaxt istəsəm, mənə kənd kəndxudaları oxuyar... və mənsimin kənarında dikələn çalgıcı qadın (3)». Xəlil demişdir: «جَذَا يجذُو» (cəzə - yəczu) deyilir, necə ki, «جثا يجثُو» (cəsə - yəczu) kimidir, lakin «جذا» (cəzə) sözü lüzuma (davamlılığa) daha çox dəlalət edir (4). Xəlilşin bu dediyi söz danışıqların məqayisindən bəhs etdiyimiz bəzi məqamlarda bizim üçün dəlildir. Xəlil bizə görə bu mənada imamdır. Dediyi kimi: Dəvənin böyründə gənə üçün «جَذَا» (cəzə) deyilmişdir, onun güclü yapışmasına görə. Və uşaq yəhərinin yastığı eşşəyin böyründə «جَذَتْ» (bərkidi). Allahın Rəsulu (s) buyurmuşdur: «مَثَلُ المنافِق مَثَلُ الأَرْزَة المُجْذيَة على الأرض حتَّى يكونَ انجعافُها مَرَّةً» (Munafiqin misalı yer üzündə kök atıb dayanan, nəhayət birdəfəyə kökündən qoparılan sidr ağacının misalı kimidir) (1). «المجْذيَة» (məcziyə) dedikdə sabit olanı qəsd etmişdir. Bu babdandır: «تَجاذَى القومُ الحَجرَ» (qövm daşı bir-birinə atıb-tutdu, çəkib-ləşdi). Qaldı ki, «رجل جاذٍ» (qısaqollu kişi) – yəni qolu qısa olan sözü, mənim yanımda bu babdandır; çünki qol uzun və uzadılmış olmayanda çıxıntılı və dik duran şeyə bənzəyir. Şair demişdir: «Şübhəsiz ki, xilafət heç vaxt əlləri qısa və xəsis olan kəsə məxsus olmamışdır (2)».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:27.643Z"
+}

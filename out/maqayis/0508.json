@@ -1,0 +1,17 @@
+{
+ "i": 508,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثدق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 373,
+  "page_to": 373
+ },
+ "ar": "الثاء والدال والقاف كلمةٌ واحدة. ثَدَق المطَرُ، وسحابٌ ثادق. وثادقٌ اسمُ فرس، كأنّ صاحبه شَبَّهه بالسحاب. قال:\nباتَتْ تلُوم على ثادقٍ … ليُشرى فقد جَدّ عِصيانُها (٢)\nأى عِصْيانى لها. ليُشْرَى: ليُبَاعَ.",
+ "az": "«ثدق»: الثاء, Dal və Qaf tək bir kəlimədir. (ثَدَق المطَرُ) — yağış çox yağdı, və (سحابٌ ثادق) — bol yağışlı bulud. Və (ثادق) — bir atın adıdır, elə bil sahibi onu buluda bənzətmişdir. O demişdir: باتَتْ تلُوم على ثادقٍ … ليُشرى فقد جَدّ عِصيانُها (٢) (O, Thadiq adlı at haqqında qınamaqda gecələdi... satılsın deyə, artıq mənim ona qarşı üsyanım gücləndi). (ليُشْرى) — satılması üçün.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

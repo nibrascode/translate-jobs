@@ -1,0 +1,17 @@
+{
+ "i": 224,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 221,
+  "page_to": 221
+ },
+ "ar": "الباء والراء والعين أصلان: أحدهما التطوُّع بالشئ من غير وجوبٍ. والآخر التبريز والفَضْل. قال الخليل: تقول بَرَعَ يَبْرَعُ بُرُوعاً (٢) وبَراعةً؛ وهو يتبرَّع من قِبَلِ نَفسِه بالعَطاء. وقالت الخنساء:\nجلدٌ جميلٌ أصيل بارِعٌ وَرِعٌ … مأوى الأراملِ والأيتامِ والجارِ\nقال: والبارع: الأصيل الجيِّد الرأى. وتقول: وهبت للانسان نتياء (٣) تبرُّعا إذا لم يَطْلُب.",
+ "az": "[برع] (ba, ra və eyn) iki əsasdır: Biri vacib olmadan bir işi könüllü etmək, diğeri isə üstün olmaq və fəzilətdir. Xəlil demişdir: Deyirsən: بَرَعَ يَبْرَعُ بُرُوعاً (bərəcə yəbrəqu buruqən) və بَراعةً (bəraətən); o, öz tərəfindən hədiyyə verməkdə könüllü olur. Xansa demişdir: جَلدٌ جميلٌ أصيل بارِعٌ وَرِعٌ … مأوى الأراملِ والأيتامِ والجارِ (Möhkəm, gözəl, əsl-nəcabətli, üstün, təqvalı... dul qadınların, yetimlərin və qonşunun sığınacağı). O demişdir: البارع (əl-bəric): əsl-nəcabətli, gözəl rəyli deməkdir. Deyirsən: İstəmədikdə belə könüllü olaraq insana نتياء (nütid - ianə/hədiyyə) bağışladım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:31.386Z"
+}

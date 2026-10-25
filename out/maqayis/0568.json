@@ -1,0 +1,17 @@
+{
+ "i": 568,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "(الثَّعْلَب): مَخْرج الماء من الجَرِين (٢). فهذا مأخوذٌ من ثَعَب، اللام فيه زائدة.\nفأمَّا ثَعْلبُ الرُّمح فهو منحوتٌ من الثَّعْب ومن العَلْب. وهو فى خِلقته يشبه المَثْعَب، وهو معلوبٌ، وقد فسر العَلْب فى بابه. ووجهٌ آخر أنْ يكون من العَلْب ومن الثَّلِب (٣)، وهو الرّمح الخوّار، وذلك الطَّرَف دقيقٌ فهو ثَلِبٌ.",
+ "az": "«ثعب»\n(الثَّعْلَب): Axurdan suyun çıxış yeri (2). Bu, «səəb» sözündən götürülmüşdür, buradakı lam hərfi artıqdır.\nNizənin «ثَعْلَبُ الرُّمح» (sə`ləb ət-rumh) sözünə gəldikdə isə, o, «əs-sə`b» və «əl-əlb» sözlərindən qondarılmadır. O, yaradılış etibarilə su axınına (məsbə) bənzəyir və «mə`lub»dur (olunmuşdur), «əl-əlb» öz babında izah edilmişdir. Digər bir tərəfdən isə o, «əl-əlb» və zəif nizə mənasını verən «əs-səlib» (3) sözündən ola bilər; həmin uclıq incədir, deməli o, səlibdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:43:21.035Z"
+}

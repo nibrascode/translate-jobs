@@ -1,0 +1,17 @@
+{
+ "i": 2132,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 223,
+  "page_to": 223
+ },
+ "ar": "الشين والهاء واللام أصلٌ فى بعض الألوان، وهى الشُّهْلة فى العين، وذلك أن يُشوبَ سوادَها زُرْقة.\nومما ليس من هذا الباب: امرأةٌ شهلة، قالوا: هى النَّصَف العاقلة. قالوا:\nوذلك اسمٌ لها خاصّةً، لا يوصَف به الرجل. كذا قال أهل اللُّغة. فأمَّا العرب فقد سمَّت بشَهْل، وهو الفِند الزِّمَّانىّ، يقال إنّ اسمَه شَهْل بن شيبان.\nومما شذَّ أيضا: المشاهَلة: المُشاَرَّة، وأظنُّ الشين مبدلةً من جيم. وكذلك قولهم للحاجَةِ: شهلاء، وهو من باب الإبدال، والأصل الكاف: الشَّكْلاء.",
+ "az": "[شهل] (şəhələ) — şin, he və lam bəzi rənglərdə əsasdır, bu da gözdəki «الشُّهْلة» (şöhlə - mavilik ilə qarışıq qəhvəyi/ala göz) rəngidir. O da qara rəngə maviliyin qarışmasıdır.\n\nBu باب (fəsil) daxil olmayanlar: «امرأة شهلة» (şəhlə qadın). Dedilər ki, o, orta yaşlı, ağıllı qadındır. Dedilər ki, bu, xüsusi olaraq ona aid bir addır, kişi haqqında işlədilmir. Dilçilər belə demişlər. Ərəblərə gəldikdə isə, onlar «شَهْل» (Şəhl) adı ilə adlanmışlar, o da Zəzzmanlı Finddəndir, deyilir ki, onun adı Şəhl ibn Şeybandır.\n\nHəmçinin istisna olunanlardan: «المشاهَلة» (müşahələ) — çəkişmə. Güman edirəm ki, şin hərfi cim hərfi ilə əvəz olunmuşdur. Həmçinin onların ehtiyac mənasında işlətdikləri «شهلاء» (şəhla) sözü də əvəz etmə (ibդal) باب (fəsil) dəndir, əsası kaf hərfi ilə olan «الشَّكْلاء» (şəklə) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:53:49.354Z"
+}

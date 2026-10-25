@@ -1,0 +1,17 @@
+{
+ "i": 930,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حلت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 96,
+  "page_to": 96
+ },
+ "ar": "الحاء واللام والتاء ليس عندى بأصلٍ صحيح. وقد جاءت فيه كليمات؛ فالحلتيت صمغ. يقال حَلَتَ دَيْنَه: قضاه؛ وحَلتَ فلاناً، إذا أعطاه؛ وحَلَتَ الصوفَ: مَرَقَهُ",
+ "az": "«حلت» (hələt): الحاء واللام والتاء ليس عندى بأصلٍ صحيح (Hə, lam və ta mənim yanımda səhih bir kök deyil). وقد جاءت فيه كليمات (və onda bəzi kiçik kəlmələr gəlmişdir); فالحلتيت صمغ (və həltit bir saqqızdır). يقال حَلَتَ دَيْنَه: قضاه (deyilər: borcunu hələt etdi - ödədi); وحَلتَ فلاناً، إذا أعطاه (və filankəsi hələt etdi - ona verdiyi zaman); وحَلَتَ الصوفَ: مَرَقَهُ (və yununu hələt etdi - onu təmizlədi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:59.121Z"
+}

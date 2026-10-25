@@ -1,0 +1,17 @@
+{
+ "i": 2057,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 180,
+  "page_to": 180
+ },
+ "ar": "الشين والذال يدلُّ على الانفراد والمفارَقة. شَذّ الشئ يَشِذُّ شذوذاً. وشُدَّاذُ الناس: الذين يكونون فى القوم وليسوا من قبائلهم ولا مَنَازِلهم (٣) وَشَذَّانِ الحصى (٤): المتفرِّق منه. قال امرؤ القيس:\nتُطَايِرُ شُذّانَ الحصى بمَناسمٍ … صلابِ العُجى ملثومُها غَيرُ أَمْعَرا (٥)",
+ "az": "[شذ] «الشين والذال» (şin və zal) – təklənməyə və ayrılmağa dəlalət edir. «شَذّ الشئ يَشِذُّ شذوذاً» (şəddə-şşeyu yəşizzü şuzuzən) – şey tək düşdü, ayrıldı. «وَشُدَّاذُ الناس» (və şüddazün-nas) – qövmdən olub öz qəbilələrindən və məskənlərindən kənarda olanlardır (٣). «وَشَذَّانِ الحصى» (və şəzzanil-həsa) – daş-çınqılın səpələnmiş hissəsidir (٤). Əmrülqəys demişdir: «تُطَايِرُ شُذّانَ الحصى بمَناسمٍ … صلابِ العُجى ملثومُها غَيرُ أَمْعَرا (٥)» — mənaca tərcümə: «(Atlar) səpələnmiş çınqılları dırnaqları ilə uçururlar... bərk ayaqlı, tozlanmamış...».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:50:42.415Z"
+}

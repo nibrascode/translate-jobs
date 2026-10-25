@@ -1,0 +1,17 @@
+{
+ "i": 1076,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خزر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 180,
+  "page_to": 180
+ },
+ "ar": "الخاء والزاء والراء أصلان. أحدهما جِتْسٌ [من] الطَّبيخ (١)، والآخر ضِيقٌ فى الشَّيء.\nفالأوّل الخَزِيرُ، وهو دقيقٌ يُلْبَكُ بشَحْم. وكانت العربُ تَعَيِّر آكِلَه (٢).\nوالثانى الخَزَر، وهو ضيق العَيْنِ وصِغَرُها. يقال رجلٌ أخْزَرُ وامرأةٌ خَزْراءُ. وتخازَرَ الرّجُل، إذا قبَض جفنَيه ليحدِّد النّظَر. قال:\n* إذا تخازَرْتُ وما بى مِنْ خَزَرْ (٣) *",
+ "az": "[خزر] (خ, ز, ر): İki əsasdır. Biri yemək növüdür (١), diğəri isə şeydə olan darlıqdır.\nBirincisi خَزِير (xəzir) - piylə qarışdırılaraq yoğrulan un yeməyidir. Ərəblər onu yeyəni qınardılar (٢).\nİkincisi الخَزَر (əl-xəzər) - gözün dar olması və kiçikliyidir. رجلٌ أخْزَرُ (racülün əxzərun) və امرأةٌ خَزْراءُ (imraətün xəzrau) - çəpgöz kişi və qadın - deyilir. وَتَخَازَرَ الرَّجُلُ (və təxazərə ər-racül) - kişi baxışını sərtləşdirmək üçün göz qapaqlarını qisdiyi zaman deyilir. Şair demişdir:\n* إِذَا تَخَازَرْتُ وَمَا بِي مِنْ خَزَرْ (٣) * (Gözlərimi qısıram, holbuki məndə çəpgözlük yoxdur)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

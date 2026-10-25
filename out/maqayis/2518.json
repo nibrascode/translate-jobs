@@ -1,0 +1,17 @@
+{
+ "i": 2518,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طنب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 426,
+  "page_to": 426
+ },
+ "ar": "الطاء والنون والباء أصلٌ يدلُّ على ثَبات الشئ وتمكنه فى استطالة. من ذلك الطُّنُب: طُنُب الخِيام، وهى حبالُها التى تشدّ * بها. يقال طَنَّبَ بالمكان: أقام. والإطنابة: المظِلّة، كأنّها إفعالة من طَنَبَ؛ لأنها تثبت على ما تُظلِّله (٣). والإطنابة: سيرٌ يشدُّ فى طرَف وترِ القَوْس.\nومن الباب قولهم: أطنب فى الشئ إذا بالَغَ، كأنّه ثبت عليه إرادةً للمبالغة فيه. ويقولون: طَنِبَ الفَرَسُ، وذلك طول المَتن وقوَّته، فهو كالطُّنُب الذى يمدُّ ثم يثبَّتُ به الشئ. وكذلك أطنَبَت الإبل، إذا تَبِع بعضُها بعضا فى السير.\nوأطنبت الرِّيح إطنابا، إذا اشتدّت فى غُبار. ومعنى هذا أن ترتفع الغَبَرَة حتى تصير كالإطنابة، وهى كالمظلّة.",
+ "az": "[طنب] (Tə, nun və ba) bir şeyin uzunsov formada sabitliyinə və bərqərar olmasına dəlalət edən əsl kökdür. Bunlardan biri الطُّنُب (ət-tunub) – çadırların kəndirləridir ki, onlarla çadırlar bağlanır. «طَنَّبَ بالمكان» (tənnəbə bil-məkan) – orada qaldı, məskunlaşdı, deməkdir. الإطنابة (əl-itnabə) – kölgəlik, çadır, elə bil طَنَبَ (tənəbə) feilindən İfəalə çəkisindədir; çünki o, kölgə saldığı şeyin üzərində sabit durur (٣). Və الإطنابة (əl-itnabə) – kamanın ox ipinin ucuna bağlanan qayışdır. Bu babdandır onların: «أطنب فى الشىء» (ətnəbə fiş-şey) – bir şeydə ifrata vardığı zaman deyilməsi, elə bil orada mübaliğə etmək istəyi ilə sabit qalmışdır. Deyirlər ki, «طَنِبَ الفَرَسُ» (tənibəl-fərəs) – bu, belin uzunluğu və güvəcli olmasıdır, o, həmən kəndir (طُنُب) kimidir ki, uzadılır və onunla bir şey bərkidilir. Həmçinin «أطَنَبَت الإبل» (ətnəbətil-ibl) – dəvələr yürüşdə bir-birinin ardınca getdiyi zaman deyilir. «أطَنْبَت الرِّيح إطنابا» (ətnəbətir-rihu itnabən) – külək toz-torpaq içində şiddətləndiyi zaman deyilir. Bunun mənası odur ki, toz qalxır və elə bil kölgəliyə (إطنابة) bənzəyir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.399Z"
+}

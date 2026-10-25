@@ -1,0 +1,17 @@
+{
+ "i": 949,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حنب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 108,
+  "page_to": 108
+ },
+ "ar": "الحاء والنون والباء أصلٌ واحدٌ يدلّ على الذى دلّ عليه ما قبله، وهو الاعوجاج فى الشئ. فالْمحَنَّبُ: الفرسُ البعيدُ ما بين الرّجلين من غير فَحَجٍ؛ وذلك مدحٌ. ويقال إنّ الحنَب اعوجاجٌ فى السّاقين. قال الخليل فى تحنيب الخيل إنه إنما يوصف بالشدّة، وليس فى ذلك اعوجاجٌ. وهذا خلافُ ما قاله أهلُ اللغة.",
+ "az": "[حنب] (Həm, nun və ba): Özündən əvvəlkinin dəlalət etdiyi mənaya – yəni bir şeydəki əyilməyə dəlalət edən tək bir əsasdır. «الْمُحَنَّب» (muhənnəb): ayaqları arasında eybəcər şəkildə açılıq (fəhəc) olmadan məsafə uzaq olan atdır; bu, tərif sayılır. Deyilir ki, «حَنَب» (hənəb) baldırların əyilməsidir. Xəlil atların «تحنيب» (təhnib) olunması barədə demişdir ki, o, yalnız güclə vəsf edilir və orada heç bir əyilmə yoxdur. Bu isə dilçilərin dediyinin əksidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:43.646Z"
+}

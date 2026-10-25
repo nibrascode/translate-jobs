@@ -1,0 +1,17 @@
+{
+ "i": 1549,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رقأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 426,
+  "page_to": 427
+ },
+ "ar": "الراء والقاف والهمزة كلمة واحدة. يقال: رقأ الدّمُ والدّمع،\nإذا انقَطَعا. وفى كلامهم (١): «لا تسُبُّوا الإبلَ فإنَّ فيها رَقُوءَ الدَّم» أى إنّها تُدفَع فى الدّية فيَرْقَأ دمُ مَنْ يُراد منه القَوَد.",
+ "az": "[رقأ] (Rəqəə): Ra, qaf və həmzədən ibarət tək bir kökdür. Deyilir: رقأ الدّمُ والدّمع (rəqə əd-damu vəd-dəm'u) — qan və göz yaşı kəsildiyi zaman. Onların kəlamında (١) demişlər: «لا تسُبُّوا الإبلَ فإنَّ فيها رَقُوءَ الدَّم» (Dəvələri söyməyin, çünki onlarda qanı kəsən – dəyəsi vardır), yəni onlar diyə (qanbahası) olaraq verilir və qisas tələb edilənin qanı bununla kəsilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

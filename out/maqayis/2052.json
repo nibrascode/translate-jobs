@@ -1,0 +1,17 @@
+{
+ "i": 2052,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 178,
+  "page_to": 178
+ },
+ "ar": "الشين والثاء ليس بأصل، إنما هو الشّثُّ: شَجر.",
+ "az": "[شث] «الشين والثاء» (şin və sə) – əsas deyildir, bu ancaq «الشّثُّ» (əş-şəss) sözüdür ki, o da bir ağacdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:50:42.414Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1329,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 313,
+  "page_to": 313
+ },
+ "ar": "الدال والواو والقاف ليس أصلاً ولا فيه ما يُعَدُّ لغةً، لكنهم يقولون: مائقٌ دائق.",
+ "az": "[دوق] Dal, vav və qaf nə bir əsasdır, nə də orada dilə gətiriləcək bir lüğət var, lakin belə deyirlər: «مائقٌ دائق» (axmaq və sərsəm).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:17.562Z"
+}

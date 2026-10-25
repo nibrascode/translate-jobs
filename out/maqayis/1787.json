@@ -1,0 +1,17 @@
+{
+ "i": 1787,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 33,
+  "page_to": 33
+ },
+ "ar": "الزاء والهاء واللام كلمةٌ تدلُّ على ملاسةِ الشَّئ. يقال فرس زُهْلول، أى أماس.",
+ "az": "[زهل] الزاء والهاء واللام (z-h-l) şeyin hamarlığına dəlalət edən bir kəlmədir. فرس زُهْلول (fərasun zuhlul) - hamar at, deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:39.989Z"
+}

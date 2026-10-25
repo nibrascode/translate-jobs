@@ -1,0 +1,17 @@
+{
+ "i": 1174,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خام",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 237,
+  "page_to": 237
+ },
+ "ar": "وأما الخاء والألف والميم فمن المنقلب عن الياء. الخامَةُ:\nالرّطْبة من النّبات والزّرْع.\nقال رسول اللّه ﷺ: «مَثَلُ المؤمِنِ مَثَلُ الخامَة من الزّرع» (٢). وقال الطرمّاح:\nإنّما نحن مثل خامةَ زَرْعٍ … فمتى يَأنِ يَأْتِ مُحْتَصِدُهْ (٣)\nفهذا من الخائم، وهو الجبان الذى لا حَرَاك به.\nوأمّا الخاءِ والألف والفاء فحرف واحدٌ، وهو الخَافَةُ، وهى الخَريطة من الأدَم يُشتار فيها العسَل. فهذه محمولةٌ على خَيْف الضَّرع، وهى جِلدتُه.\nوالقياس واحد.",
+ "az": "[خام] Xa, əlif və mim hərflərinə gəlincə, onlar «ياء» hərfindən dəyişənlərdəndir. «الخَامَةُ» — bitki və əkinin təzə, şirəli olanıdır. Rəsulullah ﷺ demişdir: «Möminin misalı əkinin xaməsinə bənzəyir» (٢). Tırmah demişdir: Biz ancaq əkinin xaməsiyşik... Nə vaxt yetişsə, biçini gələr (٣). Bu isə heç tərpənməyən qorxaq olan «الخَائِم»dəndir. Xa, əlif və fa hərflərinə gəlincə, bu, tək bir hərfli sözdür, o da «الخَافَةُ»dur; o da bal süzülən dəridən olan torbadır. Bunlar isə məmə dərisi olan «خَيْف الضَّرع»ə şamil edilmişdir. Qiyas eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:52.484Z"
+}

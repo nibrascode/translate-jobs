@@ -1,0 +1,17 @@
+{
+ "i": 991,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حبس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 128,
+  "page_to": 128
+ },
+ "ar": "الحاء والباء والسين. يقال حَبَسْتُه حَبْساً. والحَبْس:\nما وُقِف. يقال أحْبَسْتُ فرساً فى سبيل اللّه (٦). والحِبْسُ: مَصنعةٌ للماء، والجمع أحباس.",
+ "az": "[حبس] (həbs) - Ha, ba və sin. Deyilir: «حَبَسْتُه حَبْساً» — onu saxladım, həbs etdim. «الحَبْس» —qorunub saxlanılan (vəqf edilən) şeydir. Deyilir: «أحْبَسْتُ فرساً فى سبيل اللّه» (٦) — Allah yolunda atı vəqf etdim. «الحِبْسُ» — su üçün su anbarıdır, cəmi «أحباس» (əhbas) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

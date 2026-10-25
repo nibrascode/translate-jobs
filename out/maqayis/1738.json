@@ -1,0 +1,17 @@
+{
+ "i": 1738,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زغد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 13,
+  "page_to": 13
+ },
+ "ar": "الزاء والغين والدال أُصَيْلٌ يدل على تعصُّر فى صوتٍ.\nمن ذلك الزَّغْد، وهو الهدير يتعصَّر فيه الهادرُ. وأصله زغد عُكَّتَه، إذا عَصَرها ليُخرِج سَمْنها.",
+ "az": "[زغد] (zəğd): Zay, ğın və dal hərfləri səsdə sıxılma və çətinliyə dəlalət edən kiçik bir kökdür.\nOndan: «الزَّغْد» (zəğd) – nərildənin səsi boğazında sıxılaraq çıxardığı nəriltidir. Onun əsli «زغد عُكَّتَه» – yağını çıxarmaq üçün tuluğunu sıxdı, sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

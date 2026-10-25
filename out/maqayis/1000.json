@@ -1,0 +1,17 @@
+{
+ "i": 1000,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حبو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 132,
+  "page_to": 133
+ },
+ "ar": "الحاء والباء والحرف المعتل أصلٌ واحد، وهو القُرْب والدنُوّ؛ وكل دانٍ حابٍ، وبه سُمِّى حَبِىُّ السَّحاب، لدنُوِّه من الأفق. ومن الباب حبَوْتُ الرّجلَ، إذا أعطيتَه حُبْوة وحِبْوة، والاسمِ الحِباء. وهذا لا يكون إِلاّ للتألُّف والتقريب. ومنه احتَىَ الرّجُل، إِذا جَمَع ظَهْرَه وساقَيه بثوبٍ، وهى الحِبوة والحُبْوة أيضاً، لغتانِ. والحابى: السهم الذى يزحَفُ إلى الهَدَف. والعرب تقول: حبَوْت للخَمْسِينَ، إذا دنوتَ لها وذكر الأصمعىُّ كلمةً لعلها تبعد فى الظاهر من هذا الأصل قليلاً، وليست فى التحقيق بعيدة قال: فلان يَحْبُو ما حَوْلَه، أى يحميه ويَمنعُه. قال ابنُ أحمر:\nوراحَتِ الشَّوْلُ ولم يَحْسبُها … فَحْلٌ ولم يَعْتَسَّ فيها مُدِرّ (١)\nويقال، وهو القياس المطَّرِد، إنّ الحِبَى مقصور مكسور الحاء: خاصّةُ المَلِك، وجمعه أحْبَاء. وقال بعضهم: بل الواحد حَبَأٌ مهموز مقصور. وسمى بذلك لقُربه ودُنُوِّه. فلم يُخْلِفْ من الباب شئ. واللّه أعلم.\nباب الحاء والتاء وما يثلثهما (٢)",
+ "az": "«حبو» (h-b-v): Ha, ba və uzanan hərf (vav) tək bir kökdür; o da yaxınlaşmaq və uzaq olmamaqdır; hər yaxınlaşan «حابٍ» (habi) adlanır, buludun yaxınlaşmasına görə səmanın buluduna «حَبِىُّ السَّحاب» (həbiyyü əs-səhab) adlandırılması da üfüqə yaxın olmasına görədir. Bu qapıdandır: «حبَوْتُ الرّجلَ» (həbəwtü ər-rəculə) — ona «حُبْوة» və ya «حِبْوة» (hübvə və ya hibvə) verdiyin zaman, ismi isə «الحِباء» (əl-hibə) adlanır. Bu, yalnız ünsiyyət və yaxınlaşdırma üçün olur. Həmçinin «احتَىَ الرّجُل» (ihtəyə əs-rəcul) — kişinin arxasını və baldırlarını paltarla bir yerə yığmasıdır, bu da «حِبوة» və ya «حُبْوة» adlanır, hər iki lüğət mövcuddur. «الحابى» (əl-habi) — hədəfə sürünərək çatan oxdur. Ərəblər deyirlər: «حبَوْت للخَمْسِينَ» (həbəwtü lil-xəmsin) — əllinci yaşa yaxınlaşdığında. Əsməqi zahirən bu kökdən bir qədər uzaq görünən, lakin həqiqətdə uzaq olmayan bir kəlmə zikr etmişdir, demişdir: Filankəs öz ətrafındakı şeyləri «يَحْبُو» (yəhbu) edir, yəni onları qoruyur və müdafiə edir. İbn Əhmər demişdir: «وراحَتِ الشَّوْلُ ولم يَحْسبُها … * فَحْلٌ ولم يَعْتَسَّ فيها مُدِرّ» (Dəvələr axşam qayıtdı və onları nə bir təkə hesabladı... nə də aralarında süd verən bir erkək gəzindi) [1]. Deyilir və bu, qaydaya uyğun ardıcıl qaydadır ki, «الحِبَى» (əl-hibə) — ha hərfi kəsri ilə və məqsur olaraq: kralın xas malıdır, cəmi «أحْبَاء» (əhbə) gəlir. Bəziləri demişdir: əksinə, təki məqsur və həmzəli «حَبَأٌ» (həbəun) sözüdür. O, yaxınlığına və uzaq olmadığını görə belə adlandırılmışdır. Beləliklə, bu kökdən heç nə xaric qalmamışdır. Və Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.108Z"
+}

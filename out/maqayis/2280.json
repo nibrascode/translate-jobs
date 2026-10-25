@@ -1,0 +1,17 @@
+{
+ "i": 2280,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 302,
+  "page_to": 303
+ },
+ "ar": "الصاد واللام والتاء أصلٌ واحدٌ يدلُّ على بروزِ الشئ ووضوحه. من ذلك الصُّلُت، وهو الجبين الواضح؛ يقال صَلْت الجبين، يُمدَح بذلك. قال كُثَيِّر:\nصَلْت الجبين إذا تبَّسم ضاحكاً … غلِقَتْ لضَحْكَتِه رقابُ المالِ\nوهذا مأخوذٌ من السَّيف الصَّلْت والإصليت، وهو الصَّقيل. يقال: أصْلَتَ فلانٌ سيفَه، إذا شامهُ من قِرابِه.\nومن الباب الصُّلت (١) وهو السّكّين، وجمعه أصلات ويقال: ضَرَبه بالسيف صَلْتاً وصُلْتاً. ومن الباب: الحمار الصَّلَتان، كأنه إذا عدا انصلت، أى تبرَّز وظَهَر. ومن الباب قولهم: جاء بمرَق يَصْلِت، إذا كان قليلَ الدَّسَم كثيرَ الماء. وإنّما قيل ذلك لبُروز مائه وظُهوره، من قلَّة الدَّسَم على وجهه.",
+ "az": "[صلت] (s-l-t): Sad, lam və ta tək bir əsas kök olub, bir şeyin üzə çıxmasına və aydın olmasına dəlalət edir. Bunlardandır الصُّلُت (əss-sulut) – açıq-aydın alın; deyilir صَلْت الجبين (alını açıq), bununla təriflənir. Küyyir demişdir: \"Alını açıqdır, o, gülərək təbəssüm etdikdə mal-dövlətin boyunları gülüşündən büküldü.\" Bu, الصَّلْت (əss-salt) və الإصليت (əl-islit) qılıncdan götürülmüşdür, o da parıldayan deməkdir. Deyilir: أصْلَتَ فلانٌ سيفَه (filankəs qılıncını sıyırdı) – onu qınından çıxartdıqda. Babdandır الصُّلت (əss-sult) (1) – bıçaqdır, cəmi أصلات (əslat) gəlir. Deyilir: ضَرَبه بالسيف صَلْتاً وصُلْتاً (onu qılıncla qəti və birbaşa vurdu). Babdandır: الحمار الصَّلَتان (cəld eşşək), sanki qaçdıqda o انصلت (insalət), yəni üzə çıxdı və zahir oldu. Babdandır onların sözü: جاء بمرَق يَصْلِت (sulub gətirdi) – az yağlı və çox sulu olduqda. Bu ad onun suyunun üstdəki yağın azlığından üzə çıxmasına və zahir olmasına görə verilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:08.475Z"
+}

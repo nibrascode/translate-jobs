@@ -1,0 +1,17 @@
+{
+ "i": 749,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جبأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 504,
+  "page_to": 504
+ },
+ "ar": "الجيم والباء والهمزة أصلان: أحدهما التنحِّى عن الشئ.\nيقال جبأت عن الشئ، إذا كِعَعْتَ (٢). والجُبَّأُ، مقصور مهموز (٣): الجبان. قال:\nفما أنَا مِنْ رَيبِ المَنُونِ بجُبَّأٍ … وما أنا مِنْ سَيب الإله بيائسِ (٤)\nويقال جَبَأَتْ عَينِى عن الشئ، إذا نَبَتْ. وربما قالوا هذه بضدِّه فقالوا:\nجَبَأتُ على القوم، إذا أَشرَفْتَ عليهم.\nومما شذَّ عن هذا الأصل الجَبْ ءُ: الكمأةُ، وثلاثة أجْبُؤٍ. وأجْبأَتِ الأرض، إذا كثُرَتْ كمأتُها.\nومما شذَّ أيضاً قولهم: أجْبَأْتُ، إذا اشتريتَ زَرعًا قبل بُدُوِّ صَلاحه. وبعضُهم يقوله بلا همزٍ. ورُوِى\nفى الحديث: «مَنْ أجْبَى فقد أرْبَى. وممكنٌ أن يكون الهمزُ ترك لَمَّا قُرِنَ بأربَى.",
+ "az": "«جبأ» — جيم, ba və həmzə iki əslidir: Biri bir şeydən çəkinməkdir. \nDeyilir: «جبأت عن الشئ» (cəbətu an əş-şəy) — qorxub çəkindiyin zaman. Qısa və həmzəli olan «الْجُبَّأُ» (cubbə) — qorxaq deməkdir. Şair demişdir: \nفما أنَا مِنْ رَيبِ المَنُونِ بجُبَّأٍ … وما أنا مِنْ سَيب الإله بيائسِ (٤) \n(Mən zəmanənin bəlalarından qorxaq deyiləm və mən Allahın bəxşişindən ümidsiz də deyiləm.) \nDeyilir: «جَبَأتْ عَينِى عن الشئ» (cəbəat eyni an əş-şəy) — gözüm bir şeydən uzaqlaşıb göynədikdə. Bəzən bunun əksini də deyərək bildirirlər: \n«جَبَأتُ على القوم» (cəbətu alə əl-qavm) — adamlara yuxarıdan baxıb boylandığın zaman. \nBu əsildən kənara çıxan (şaz) sözlərdən biri «الْجَبْ ءُ» (cəb) — göbələkdir, cəmi «أجْبُؤٍ» (əcbuin) gəlir. «أجْبأَتِ الأرض» (əcbəəti əl-ard) — yerin göbələyi çoxaldığı zaman. \nHəmçinin kənara çıxan digər söz onların «أجْبَأْتُ» (əcbətu) deməsidir: yəni bitkinin yetişməsi aşkar olmamışdan əvvəl əkin satın aldığın zaman. Bəziləri bunu həmzəsiz deyirlər. \nHədisdə rəvayət olunmuşdur: «مَنْ أجْبَى فقد أرْبَى» (Kim əcbə (əvvəlcədən alış-veriş) etsə, artıqlaması ilə faizə batmışdır). Həmzənin buraxılması onun «أربى» (ərbə) sözü ilə yanaşı işlədilməsi səbəbindən olması mümkündür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

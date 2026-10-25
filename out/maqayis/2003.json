@@ -1,0 +1,17 @@
+{
+ "i": 2003,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 141,
+  "page_to": 141
+ },
+ "ar": "السين والحاء والميم * أصلٌ واحدٌ يدلُّ على سواد.\nفالأسحم: [ذو] السواد، وسوادُه السُّحْمَة. ويقال للَّيل أسحم. قال الشاعر:\nرضيعَىْ لِبَانٍ ثَدْى أمٍّ تقاسما … بأسحَمَ داجٍ عَوضُ لا نتفرّق (١)\nوالأسحم: السحاب الأسود. قال النابغة:\nبأسحَمَ دانٍ مُزْنُهُ متصوّبُ (٢)\nوالأسحم: القرن الأسود، فى قول زهير:\nوتَذْبيبُها عنها بأسحَمَ مِذْوَدِ (٣)",
+ "az": "«سحم» (səhmə - qara rəng): Sin, ha və mim * qara rəngə dəlalət edən tək bir əsasdır. «الأسحم» — qara [rəngli] deməkdir, onun qaralığı isə «السُّحْمة» adlanır. Gecəyə də «əshəm» (qara) deyilir. Şair demişdir: «رضيعَىْ لِبَانٍ ثَدْى أمٍّ تقاسما … بأسحَمَ داجٍ عَوضُ لا نتفرّق» (Bir ana südünün iki əmizdirilən balası ki, qaranlıq, qatı gecənin haqqına and içərək dedilər: əsla ayrılmayacağıq) (١). «الأسحم» həmçinin qara buluddur. Nabigə demişdir: «بأسحَمَ دانٍ مُزْنُهُ متصوّبُ» (Yağlı buludları yaxınlaşan və aşağı enən qara buludla) (٢). «الأسحم» həmçinin qara buynuzdur, Züheyrin bu sözündə olduğu kimi: «وتَذْبيبُها عنها بأسحَمَ مِذْوَدِ» (O milçəkləri qara və qovucu qılıncla və ya alətlə dəf etmək) (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:57.042Z"
+}

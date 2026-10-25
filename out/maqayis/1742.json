@@ -1,0 +1,17 @@
+{
+ "i": 1742,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 14,
+  "page_to": 15
+ },
+ "ar": "الزاء والفاء والراء أصلان: أحدُهما يدلُّ على حِمْل، والآخر على صَوْتٍ من الأصوات.\nفالأول الزِّفْر: الحِمْل، والجمع أزفار. وازْدَفَرَه (٤)، إذا حمله، وبذلك سمِّى\nالرجل زُفَر، لأنه يزدَفِر (١) بالأموالِ مطيقاً لها (٢). ومن الباب الزَّافرة:\nعشيرة الرّجُل؛ لأنهم قد يتحمَّلون بعضَ ما ينُوبُه. وزُفْرَة الفَرس: وسَطُه.\nوالزِّفْرُ (٣): القِرْبة، ومنه قيل للإماء التى تحمل القِرَب زوافر. ويقولون: الزُّفَر:\nالرجل السيِّد. قال:\nيأبى الظُّلامةَ منه النَّوْفلُ الزُّفَر (٤)\nوالقياس فيه كلِّه واحد. وزِفْر المسافر: جِهازه. ويقال الزُّفَر: النَّهر الكبير، ويكون سمِّى بذلك لأنَّه كثير الحملِ للماء.",
+ "az": "[زفر] (zəfər): Zay, fa və ra hərfləri iki kökdür: biri yükə, diğəri isə səslərdən bir səsə dəlalət edir.\nBirincisi: «الزِّفْر» (zifr) – yükdür, cəmi «أزفار» (əzfar) gəlir. «ازْدَفَرَه» (izdəfərə) – onu daşıdı, məhz buna görə də «زُفَر» (Zufər) kişisinin adı belə adlandırılmışdır, çünki o, malları daşımağa qadir olaraq onları daşıyır (1, 2). Bu fəsildəndir: «الزَّافرة» (zafirə) – kişinin qəbiləsi; çünki onlar ona üz verən bəzi şeyləri öz üzrlərinə götürə bilirlər. «زُفْرَة الفَرس» (Züfrətül-fərs) – atın ortasıdır.\n«الزِّفْرُ» (3) (zifr) – tuluqdur, bundan tuluq daşıyan kənizlərə «زوافر» (zəvafir) deyilmişdir. Deyirlər ki: «الزُّفَر» (Zufər) – uca, ağa kişidir. O demişdir:\nيأبى الظُّلامةَ منه النَّوْفلُ الزُّفَر (٤)\n(Növfəl əl-Zufər ondan zülmün qəbul olunmamasını tələb edir)\nBuradakı qiyasların hamısı təkdir. «زِفْر المسافر» (Zifrul-müsafir) – səfər edənin təchizatıdır. Deyilir ki, «الزُّفَر» (əz-Zufər) – böyük çaydır, o, çox su daşıdığı üçün belə adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

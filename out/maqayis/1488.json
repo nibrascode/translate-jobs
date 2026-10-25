@@ -1,0 +1,17 @@
+{
+ "i": 1488,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رصف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 399,
+  "page_to": 399
+ },
+ "ar": "الراء والصاد والفاء أصلٌ واحدٌ منقاسٌ مطّرد، وهو ضمُّ الشئِ بعضِه إلى بعض. فالرَّصْف: ضَمُّ الحِجارة بعضِها إلى بعض. والحجارة نَفْسُها رَصَفٌ ومن ذلك رَصْف الصَّخْر فى البِناء. والرِّصَاف: العَقَبُ يُشَدّ على فُوقِ السَّهم.\nوحكى الخليل الرُّصَافَةَ والرَّصَفَةَ أيضاً. والرَّصوف: المرأة الصَّغيرة الفَرْج؛ وكأنّ ذلك من تَراصُفِ الشئ ويقال هذا أمرٌ لا يَرْصُفُ بك، أى لا يَليق. وعملٌ رصِيفٌ: مُحْكَم. وفلانٌ رصيفُ فلانٍ، أى يعارِضُه فى عمَله.",
+ "az": "«رصف» (Rə-s-f): Ra, sad və fa bir şeyi digərinə birləşdirmək olan tək bir ölçülü, mütləq əsasdır. فالرَّصْف (Rəsf): Daşların bir-birinə birləşdirilməsidir. Və daşların özləri رَصَفٌ (rəsəf) adlanır. Və bundandır tikintidə qayaların رَصْف الصَّخْر (rəsfi) - düzülməsi. والرِّصَاف (Rişaf): Oxun başlığına bağlanan vətərdir. Və Xəlil الرُّصَافَةَ (Rüsafə) və الرَّصَفَةَ (Rəsəfə) də rəvayət etmişdir. والرَّصوف (Rəsuf): Cinsiyyət orqanı kiçik olan qadındır; və sanki bu, şeyin bir-birinə kip birləşməsindəndir. Və deyilir: هذا أمرٌ لا يَرْصُفُ بك (Bu, sənə yaraşmayan bir işdir), yəni layiq deyil. وعملٌ رصِيفٌ (Möhkəm iş): mükəmməldir. وفلانٌ رصيفُ فلانٍ (Filankəs filankəsin rəsifidir), yəni o, işində ona tay olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

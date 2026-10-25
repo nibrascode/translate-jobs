@@ -1,0 +1,17 @@
+{
+ "i": 1156,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 228,
+  "page_to": 228
+ },
+ "ar": "الخاء والواو والسين أصلٌ واحد يدلُّ على فسادٍ. يقال خاسَت الجِيفَةُ فى أوّلِ ما تُرْوِحُ؛ فكأنَّ ذلك كَسَدَ حتَّى فَسَد. ثمّ حُمِل على هذا فقيل: خاسَ بعَهْده، إذا أخْلَف وخان. قالوا: و* الخَوْسُ الخِيانة. وكلُّ ذلك قريبٌ بعضُه من بعض. وهذه كلمةٌ يشترك فيها الواو والياء، وهما متقاربان، وحَظّ الياء فيها أكثر، وقد ذكرت فى الياء أيضاً.",
+ "az": "«خوس»: الخاء، الواو və السين — fəsada dəlalət edən tək bir əsasdır. Deyilir: «خاسَت الجِيفَةُ» (mürdar ət üfunət iqliminin əvvəlində iyləndi); sanki o, xarab olana qədər dəyərsizləşdi. Sonra buna əsaslanaraq deyildi: «خاسَ بعَهْده» (əhdinə xilaf çıxdı, sözünün üstündə durmadı), yəni sözündən dönüb xəyanət etdi. Dedilər: «الخَوْسُ» (əl-xəus) — xəyanətdir. Bütün bunların bir-biri ilə əlaqəsi yaxındır. Bu elə bir kəlmədir ki, onda vav və ya hərfi şərikdir, onlar bir-birinə yaxındır, yə hərfinin payı daha çoxdur və o, ya hərfi altında da zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

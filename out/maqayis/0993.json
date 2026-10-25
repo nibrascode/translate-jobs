@@ -1,0 +1,17 @@
+{
+ "i": 993,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حبص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 129,
+  "page_to": 129
+ },
+ "ar": "الحاء والباء والصاد ليس أصلاً. ويزعمون أنّ فيه كلمةً واحدة.\nذكر ابن دريد (٢): حَبَصَ الفَرَسُ، إذا عدا عدْواً شديدا.",
+ "az": "[حبص] (həbəs) - Ha, ba və sad əsas deyildir. Onlar güman edirlər ki, orada tək bir kəlmə vardır. İbn Dureyd zikr etmişdir: «حَبَصَ الفَرَسُ» — at şiddətli qaçışla qaçdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

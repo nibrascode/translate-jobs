@@ -1,0 +1,17 @@
+{
+ "i": 301,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 291,
+  "page_to": 291
+ },
+ "ar": "الباء واللام والميم أصلان: أحدهما ورمٌ أو ما يشبهه، والثانى نَبْتٌ.\nفالأوّل بَلَمٌ، وهو داءٌ يأخُذُ الناقةَ فى حَلْقَة رَحِمِها. يقال أَبْلَمَتِ الناقةُ إِذا أخَذَها ذلك. الفَرَّاء: أبْلَمَتْ وبَلِمَتْ إِذا وَرِم حَياؤُها.\nقال أبو عُبيدٍ: ومه قولهم لا تُبَلِّمْ عليه أى لا تُقَبِّحْ. قال أبو حاتم: أَبلَمَتِ البَكْرَة إِذا لم تَحْمِلْ قَطُّ؛ وهى مُبْلِمٌ، والاسم البَلَمَة.\nقال يعقوب: أَبْلَمَ الرَّجُل إذا وَرِمَتْ شفتاه، ورأيت شَفَتَيْه مُبلَمتينِ (١).\nوالإِبلام أيضاً: السُّكوت، يقال أبْلَمَ إذا سَكَتَ.\nوالأصل الثانى: الأبلم ضربٌ من الخُوصِ (٢). قال أبو عمرو: يقال إِبلِم وأَبلَمٌ وأُبلُمٌ. ومنه المَثل: «المال بَينى وبينك شِقَّ الأُبْلمُةَ» وقد تكسر وتفتح، أى نصفين؛ لأنّ الأبلمة إذا شقت طولا انشقت نصفين من أولها إلى آخرها، وبرفع بعضهم فيقول: «المالُ بينى وبينك شِقُّ الأبلمة»، أى هو كذا.",
+ "az": "[بلم] (bələm): Ba, lam və mim hərfləri iki əsas mənaya qayıdır: bunlardan biri şiş və ya ona bənzər şey, ikincisi isə bitkidir.\n\nBirincisi بَلَمٌ (bələm) – dişi dəvənin rəhm halqasında əmələ gələn xəstəlikdir. أَبْلَمَتِ الناقةُ (əbləmətin-naqatu) – dişi dəvəni bu xəstəlik tutdu, deylir. Əl-Fərrə: أَبْلَمَتْ وَبَلِمَتْ (əbləmət və bəlimət) – dəvənin cinsiyyət orqanı şişdikdə deyilir.\n\nƏbu Ubeyd demişdir: Onların لا تُبَلِّمْ عَلَيْهِ (la tubəllim əleyhi) sözü «onu pisləmə» deməkdir. Əbu Hatəm demişdir: أَبْلَمَتِ البَكْرَةُ (əbləmətin-bakratu) – gənc dişi dəvə heç balalamadıqda deyilir; o, مُبْلِمٌ (mublim) adlanır, ismi isə الْبَلَمَةُ (bələmə) bəhrəsidir.\n\nYəqub demişdir: أَبْلَمَ الرَّجُلُ (əbləmər-racul) – kişinin dodaqları şişdikdə deyilir, mən isə «Onun iki dodağını şişmiş gördüm» mənasında رأيت شَفَتَيْهِ مُبْلَمَتَيْنِ (raəytu şəfatəyhi mubləmətyni) işlətmişəm (١).\n\nHəmçinin الإِبلام (əl-iblam) – susmaqdır, أَبْلَمَ (əbləmə) – susdu, deylir.\n\nİkinci əsas: الأبلم (əl-əbləm) – xurma yarpağının sərt hissəsindən (xus) bir növ (٢). Əbu Əmr demişdir: إِبْلِم (iblim), أَبلَم (əbləm) və أُبْلُم (ublum) deylir. Məsəldəki: «المال بيني وبينك شِقُّ الأبْلُمَةِ» (Mal səninlə mənim aramda əblümənin yarıSı kimidir) sözü də buradandır. Bu sözün əvvəli kəsrəli də, fəthəli də oxunur, mənası «tən yarı» deməkdir; çünki əblümə uzununa yarıldıqda əvvəlindən axırına qədər iki yarıya bölünür. Bəziləri isə bunu rəf ilə: «المال بيني وبينك شِقُّ الأبْلُمَةِ» (Mal səninlə mənim aramda əblümənin yarıSıdır) deyərək qaldırırlar, yəni vəziyyət belədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:13.980Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1065,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خرت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 175,
+  "page_to": 175
+ },
+ "ar": "الخاء والراء والتاء أصلٌ يدلُّ على تثقُّبٍ وشِبْهه. فالخَرْت:\nثَقْب الإبرة والأخرات: الحَلَقَ فى رءوس النُّسُوع. والخِرِّيتُ: الرجلُ الدّليلُ الماهر بالدَّلالة. وسُمِّى بذلك لشقِّه المَفازةَ، كأنّه يدخُل فى أخْرَاتِها (٢). ويقال خَرَتْنا الأرض، إذا عَرَفْناها فلم تَخْفَ علينا طرقُها.",
+ "az": "[خرت] (خ, ر, ت) – deşilməyə və buna bənzər şeylərə dəlalət edən bir kökdür. «الخرْت - əl-xərt» – iynənin deşiyi. «الأخرات - əl-axərat» – dəvə sinəbəndlərinin başlarındakı halqalar. «الخِرِّيت - əl-xirrit» – bələdçilikdə mahir və mahir bələdçi kişi. O, səhranı yarıb keçdiyinə görə belə adlandırılmışdır, sanki o səhranın dəliklərinə (incə yollarına) daxil olur. Deyilir: «خرتتنا الأرض - xərəttənə əl-ərdü», yəni yeri tanıdıq və yolları bizə gizli qalmadı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:08:39.581Z"
+}

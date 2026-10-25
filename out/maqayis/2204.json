@@ -1,0 +1,17 @@
+{
+ "i": 2204,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شخت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 255,
+  "page_to": 255
+ },
+ "ar": "الشين والخاء والتاء كلمةٌ واحدة، وهو الشئ الشّخْت، وهو الدقيقُ من حشبٍ وغيره. وقال:\nوهل تَسْتوِى المُرّانُ تَخْطِرُ فى الوَغَى … وسَبعةُ عِيدانٍ من العوسج الشَّخْتِ",
+ "az": "«شخت» (şəxt). Şin, xa və ta köklü tək bir kəlmədir. O da «الشَّيْءُ الشَّخْتُ» (nazik şey) olub, oduncaqda və digər şeylərdə nazik olan mənasındadır. Şair demişdir: \n«وهل تَسْتوِى المُرّانُ تَخْطِرُ فى الوَغَى … وسَبعةُ عِيدانٍ من العوسج الشَّخْتِ» \n(Müharibədə baş qaldıran Mürran nizələri ilə incə tikən dikənindən olan yeddi çubuq bərabərdimi?)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 459,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 354,
+  "page_to": 355
+ },
+ "ar": "التاء والميم والراء كلمةٌ واحدة، ثم يشتقّ منها، وهى التَّمر المأكول. ويقال للذى عِنده التَّمْر تامِرٌ، وللذى يُطْعِمُه أيضاً تامر، يقال تَمَرْتُهم أتْمُرهم، إذا أطعَمْتَهم. قال:\nوغَرَرْتَنى وزعَمْت أ … نَّكَ لابنٌ بالصَّيْف تامِرْ (٤)\nوالمتمِّرُ للذى يُيَبِّسُه. ويقال تُمِّرَ اللَّحمُ إذا جُفِّفَ. وهو مشتقٌّ من التَّمْر. قال:\n* لها أشاريرُ مِنْ لَحْمٍ تتمِّرُهُ (١) *\nوالمتْمِرُ الكثير التَّمر؛ يقال أتْمَرَ كما يقال ألْبَنَ إذا كثُر لبنُه، وألْبَأَ إذا كثر لِبَؤُه (٢). والتمَّار: الذى يبيع التَّمر. والتّمْرى الذى يحبُّه.",
+ "az": "[تمر] (tə-mə-r) - Tə, mim və ra tək bir kəlmədir, sonra ondan başqa sözlər törەdilir; o da yeyilən xurmadır (التَّمْر). Yanında xurma olana «تامِرٌ» (tamir), xurma yedizdirənə də «tamir» deyilir, «تَمَرْتُهم أتْمُرهم» — yəni onlara xurma yedizdirdim, deməkdir. O demişdir: Məni aldatdın və güman etdin ki... yayda xurma verən (ibnün bism-soy) kəssən (4). «Əl-mütəmmir» — xurmanı qurutana deyilir. «تُمِّرَ اللَّحمُ» — ət qurudulduqda deyilir. Bu, xurmadan törədilmişdir. O demişdir: Onun qurutduğu ətdən parçaları vardır (1). «Əl-mütmir» — xurması çox olan deməkdir; südü çoxaldıqda «əlbənə», ləbəu çoxaldıqda «əlbəə» deyildiyi kimi, «ətmərə» deyilir (2). «Ət-təmmar» — xurma satan. «Ət-təmri» — xurmanı sevən kəs.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.996Z"
+}

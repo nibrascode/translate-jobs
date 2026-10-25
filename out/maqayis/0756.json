@@ -1,0 +1,17 @@
+{
+ "i": 756,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 506,
+  "page_to": 506
+ },
+ "ar": "ومن ذلك قولهم لقرية النَّمل (جُرثُومة). فهذا من كلمتين: من جَرَم وجَثَم، كأنه اقتَطَعَ من الأرض قطعةً فجثم فيها. والكلمتان قد مضتا بتفسيرهما.",
+ "az": "«جرثم» - Və buraya xalqın çəyirtgə yuvasına «جُرْثُومة» (cürsümə) deməsi daxildir. Bu, iki sözdən ibarətdir: جَرَم (cərimə) və جَثَم (cəsəm); sanki o, yerdən bir parça qoparıb orada çömbələrək oturdu. Bu iki sözün izahı artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.216Z"
+}

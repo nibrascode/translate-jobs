@@ -1,0 +1,17 @@
+{
+ "i": 250,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بشع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 250,
+  "page_to": 250
+ },
+ "ar": "الباء والشين والعين أصلٌ واحد وهو كرَاهَةُ الشَّئ وقلَّةُ نفُوذه.\nقال الخليل: البَشَع طَعْمٌ كَرِيهٌ فيه جُفوفٌ ومَرارةٌ كطعم الهَلِيلَج البشعة.\nقال: ويقال رجل بَشِعٌ وامرأةٌ بَشِعة، وهو الكريهُ رِيحِ الفَمِ مِنْ أنّه لا يتخلَّلُ ولا يَستَاك. والمصْدَر البَشَع والبشَاعة. وقد بَشِعَ يَبْشَعُ بَشَعاً. والطعام البَشِع الذى لا يَسُوغ فى الحَلْق.\nقال ابنُ دُريد: البَشَع تَضَايُق الحَلْق بالطَّعام الخَشِن. قال ابنُ الأعرابىّ:\nالبَشِع الذى لا يَجُوز. يقال بَشِع الوَادِى بالنَّاس، إذا كَثُروا فيه حَتَّى يَضِيقَ بهم. وأنشد:\nإذا لقِىَ الغُصُونَ انْسَلَّ منها … فلا بَشِعٌ ولا جافٍ جَفُوفُ\nقال الدُّريدىّ: بَشِعت بهذا الأمر، أى ضِقْت به ذَرْعاً. قال النَّضْر:\nنَحَتُّ مَتْنَ العُودِ حتى ذهب بَشَعُه، أى أُبَنُه. قال الضّبّىّ: الطعام البَشِع الغليظ الذى ليس بمنخولٍ، فلا يَسُوغ فى الحَلْق خُشونةً.",
+ "az": "[بشع] (bəşəc): Ba, şin və əyn tək bir əsasdır, o da bir şeyin ikrah doğurması və zəif keçməsi (udulmaması) deməkdir.\nXəlil demişdir: «البَشَع» (bəşəc) – quruluq və acılıq olan ikrah doğurucu dad, məsələn, «الهَلِيلَج البشعة» (bəşəc haliləc) – acı və turş haliləc meyvəsinin dadı kimidir.\nO demişdir: «رجل بَشِعٌ» (bəşic – kişi) və «امرأةٌ بَشِعة» (bəşicə – qadın) deyilir. Bu, ağzını təmizləmədiyi (hilal etmədiyi) və misvak işlətmədiyi üçün ağzının iyi pis olan deməkdir. Məsdəri «البَشَع» (bəşəc) və «البشَاعة» (bəşacə)-dir. «بَشِعَ يَبْشَعُ بَشَعاً» (bəşicə yəbşəbʊ bəşəfən) oldu. Və «الطعام البَشِع» (ət-təam əl-bəşic) – boğazdan keçməyən yeməkdir.\nİbn Durid demişdir: «البَشَع» (bəşəc) – sərt yeməkdən boğazın daralmasıdır. İbn əl-Ərəbi demişdir:\n«البَشِع» (bəşic) – keçməyən (udulmayan) deməkdir. «بَشِع الوَادِى بالنَّاس» (bəşicəl-vadi bin-nasi) – insanlar orada çoxalıb darlaşdıqda deyilir. Və bu beyti oxumuşdur:\nإذا لقِىَ الغُصُونَ انْسَلَّ منها … فلا بَşِعٌ ولا جافٍ جَفُوفُ\n(Budaqlarla qarşılaşdıqda onlardan sıyrılıb çıxar... Nə bəşicdir, nə də quru, quru olub bərkəşən).\nDuridi demişdir: «بَشِعت بهذا الأمر» (bəşiətu bihəzəl-əmri), yəni bu işdən üzüldüm, taqətdən düşdüm. Nədr demişdir:\n«نَحَتُّ مَتْنَ العُودِ حتى ذهب بَشَعُه» (nəhəttu mətnal-uudi həttə zəhəbə bəşəuhu), yəni onun düyünləri (qabarıq yerləri) gedənə qədər odunun səthini yontdum. Zəbbi demişdir: «الطعام البَشِع» (ət-təam əl-bəşic) – ələnməmiş, sərtliyindən boğazdan keçməyən qalın yeməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:44.618Z"
+}

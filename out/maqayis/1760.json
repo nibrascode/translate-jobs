@@ -1,0 +1,17 @@
+{
+ "i": 1760,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 20,
+  "page_to": 20
+ },
+ "ar": "الزاء واللام والعين أصلٌ يدلُّ على تَفَطُّرٍ وزَوَال شئٍ عن مكانه. فالزَّلَع: تفطُّر الجِلْد. تَزَلَّعَت يدُه: تشقَّقَت. ويقال زَلِعَتْ جراحته:\nفسدَتْ. قال الخليل: الزَّلَع: شُقاقُ ظاهِرِ الكفّ. فإن كانَ فى الباطن فهو كَلَع.\nوالزَّلْع: استلابُ شئٍ فى خَتْل.",
+ "az": "[زلع] الزاء واللام والعين أصلٌ يدلُّ على تَفَطُّرٍ وزَوَال شئٍ عن مكانه (Zə, lam və eyn yarığa və bir şeyin yerindən çıxmasına dəlalət edən bir əsldir). فالزَّلَع: تفطُّر الجِلْد (Deməli, əz-zələc: dərinin çatlamasıdır). تَزَلَّعَت يدُه: تشقَّقَت (Əli təzəlləcə: yarıldı). ويقال زَلِعَتْ جراحته: فسدَتْ (Və deyilir ki, zəlicət cirahatuhu: yarası xarab oldu). قال الخليل: الزَّلَع: شُقاقُ ظاهِرِ الكفّ (Xəlil dedi: əz-zələc: ovucun üst hissəsinin yarığıdır). فإن كانَ فى الباطن فهو كَلَع (Əgər daxildədirsə, o zaman kələcdir). والزَّلْع: استلابُ شئٍ فى خَتْل (Və əz-zəlc: hiylə ilə bir şeyi oğurlamaq/qamarlamaqdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:57.983Z"
+}

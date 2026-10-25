@@ -1,0 +1,17 @@
+{
+ "i": 1931,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 105,
+  "page_to": 105
+ },
+ "ar": "السين والنون والدال أصلٌ واحد يدلُّ على انضمام الشئ إلى الشئ. يقال سَنَدتُ إلى الشئ أسْنُدُ سنوداً، واستندت استناداً. وأسندتُ غيرى إسناداً. والسِّناد: النّاقة القويّة، كأنّها أُسنِدت من ظهرها إلى شئٍ قوىّ.\nوالمُسْنَدُ: الدهر؛ لأن بعضَه متضامّ. وفلان سَنَدٌ، أى معتمَدٌ. والسَّنَد: ما أقبل عليك من الجبل، وذلك إذا علا عن السَّفْح. والإِسناد فى الحديث: أن يُسْنَد إِلى قائله، وهو ذلك القياس. فأمّا السِّناد الذى فى الشعر فيقال إِنّهُ اختلافُ حركتى الرِّدفين. قال أبو عبيدة: وذلك كقوله:\nكأنّ عيونَهن عيونُ عِينِ (٢)\nثم قال:\nوأصبح رأسُه مثل اللُّجَيْنِ (٣)\nوهذا مشتق من قولهم: خرج القوم متسانِدين، إذا كانوا على راياتٍ شتى.\nوهذا من الباب؛ لأنّ كلَّ واحدةٍ من الجماعة قد ساندت رايةً.",
+ "az": "«سند» — السين، والنون والدال (سين، نun və dal) bir şeyin digər bir şeyə birləşməsinə dəlalət edən tək bir əsasdır. Deyilir: «سَنَدتُ إلى الشئ أسْنُدُ سنوداً» — bir şeyə söykəndim, və «استندت استناداً» — dayandım. «أسندتُ غيرى إسناداً» — başqasını söykədim. «السِّناد» — güclü dəvədir, elə bil o, belindən güclü bir şeyə söykənilmişdir. «المُسْنَدُ» — zamandır; çünki onun bir hissəsi digərinə bitişikdir. Filankəs «سَنَدٌ»dir, yəni etimad ediləndir. «السَّنَد» — dağdan üzərinə tərəf gələn hissədir, bu da ətəkdən yuxarı qalxdıqda olur. Hədisdə «İsnad» — onun deyənə dayandırılmasıdır, bu da həmin qiyasdandır. Şeirdəki «السِّناد»a gəlincə, deyilir ki, o, iki rədifin hərəkələrinin fərqli olmasıdır. Əbu Übeydə demişdir: Bu, filankəsin bu sözü kimidir: «Gözləri ceyran gözləri kimidir» (2). Sonra demişdir: «Və başı gümüş kimi oldu» (3). Bu, onların «Qövm müxtəlif bayraqlar altındakı kimi dağılışaraq çıxdılar» sözündən törəmişdir. Bu da həmin bölmədəndir; çünki dəstənin hər biri bir bayrağa söykənmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.684Z"
+}

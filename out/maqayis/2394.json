@@ -1,0 +1,17 @@
+{
+ "i": 2394,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضغن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 364,
+  "page_to": 364
+ },
+ "ar": "الضاد والغين والنون أصلٌ صحيحٌ يدلُّ على تغطية شئٍ فى ميل واعوِجاج، ولا يدلُّ على خَير. من ذلك الضِّغْن والضَّغَن: الحِقْد.\nوفرسٌ ضاغن، إذا كان لا يُعطِى ما عنده من الجرى إلاّ بالضَّرب. ويقال ضَغِن صدرُ فلانٍ ضِغْناً وضَغَنا. وقناةٌ ضَغِنةٌ: عَوجاء. ويقولون: ناقةٌ ذات ضِغْن، عند نزاعها إِلى وطَنِها.\nفأمّا الخليل فقال: يقال للنَّحُوص (١) إذا وَحِمَتْ فاستعصَتْ على الجأْب:\nإنَّها لَذَاتُ شَغْبٍ وضِغْن. ويقال ضَغَنَ فلانٌ إلى الدُّنيا: ركَن ومالَ. وضِغْنِى إلى فلانٍ، أى ميلى إليه. والذى دلَّ على ما ذكرناه من تغطية الشئ قولُهم إنَّ الاضطغانَ الاشتمالُ بالثَّوب. قال:\nكأنّه مضطغِنٌ صَبِيًّا (٢)\nويقال اضطغَنْتُ الشّئ تحت حِضْنى. قال ابنُ مُقْبِل:\nإذا اضطغَنْتُ سِلاحى عند مَغْرِضها … ومِرْفَقٍ كرِيَاسِ السَّيف إذْ شسَفا (٣)",
+ "az": "[ضغن] «الضاد» (زاد), «الغين» (ğin) və «النون» (nun) hərfləri meyl və əyrilik içərisində bir şeyi örtməyə dəlalət edən səhih bir əslidir və xeyrə dəlalət etməz. Bunlardan biri «الضِّغْن» (əz-ziğn) və «الضَّغَن» (əz-zəğən) — kin deməkdir.\n«فرس ضاغن» (zağin at) — əgər özündə olan qaçış gücünü yalnız döyülməklə verirsə. «ضَغِن صدرُ فلانٍ ضِغْناً وضَغَنا» (filankəsin sinəsi kin və əyriliklə doldu) deyilir. «قناةٌ ضَغِنةٌ» (zəğinə nizə) — əyri deməkdir. Onlar deyirlər: «ناقةٌ ذات ضِغْن» (kin sahibi olan dəvə) — vətəninə həsrət çəkib dartışdığı zaman.Əvvəlki məsələyə gəldikdə, Xəlil demişdir: Südü azalan dəvəyə (١) hamilə vaxtı həsrət çəkib inadkarlaşdığı zaman: «إنَّها لَذَاتُ شَغْبٍ وضِغْن» (o, həqiqətən, fitnə və kin sahibidir) deyilir. «ضَغَنَ فلانٌ إلى الدُّنيا» (filankəs dünyaya meyl etdi) — söykəndi və meyl etdi, deməkdir. «ضِغْنِى إلى فلانٍ» (filankəsə olan meylim) — yəni ona olan meyletməyim. Bir şeyi örtmək haqqında dediyimizə dəlalət edən şey onların «الاضطغان» (əz-iztiğan) — paltara bürünməkdir, sözüdür. O demişdir:\nكأنّه مضطغِنٌ صَبِيًّا (٢)\n(Sanki o, uşağı bürünüb qucaqlamışdır).\nVə «اضطغَنْتُ الشّئ تحت حِضْنى» (şeyi qoltuğumun altına qısdım) deyilir. İbn Müqbil demişdir:\nإذا اضطغَنْتُ سِلاحى عند مَغْرِضها … ومِرْفَقٍ كرِيَاسِ السَّيف إذْ شسَفا (٣)\n(Silahımı onun gizlənmə yerində qoltuğumun altına qısdığım zaman... və qılıncın başlığı kimi dirsək parçalandıqda).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

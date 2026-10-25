@@ -1,0 +1,17 @@
+{
+ "i": 2118,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شنا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 217,
+  "page_to": 217
+ },
+ "ar": "الشين والنون والهمزة أصلٌ يدلُّ على البِغضة والتجنُّب للشئ.\nمن ذلك الشَّنُوءَة، وهى التقزُّز؛ ومنه اشتقاق أزْدِشَنوءة. ويقال: شَنِئَ فلانٌ فلاناً إذا أبغَضَه. وهو الشَّنَآن، وربما خفَّفوا فقالوا: الشَّنَان. وأنشدوا:\nفما العيشُ إلاَّ ما تَلَذُّ وتَشْتَهِى … وإن لَامَ فيه ذو الشَّنَانِ وأفْنَدَا (١)\nوالشنْ ءُ: الشَّنَآن أيضاً. ورجلٌ مِشناءٌ على مِفعال، إذا كان يُبْغِضُه النّاس (٢).\nوأمّا قولهم شَنِئْت للأمر وبه، إذا أقرَرْت، وإنشادُهم:\nفلو كان هذا الأمرُ فى جاهليَّةٍ … شَنِئْتَ به أو غَصَّ بالماء شاربُه (٣)\n(٤)",
+ "az": "[شنا] \nالشين والنون والهمزة (şin, nun və həmzə) — kinə və bir şeydən çəkinməyə dəlalət edən bir əsasdır.\nBunlardandır: «الشَّنُوءَة», yəni iyrənmə; «أزْدِشَنوءة» sözünün kökü buradan götürülmüşdür. Deyilir: «شَنِئَ فلانٌ فلاناً» — filan kəs filankəsə kin bağladı, nifrət etdi. Bu, «الشَّنَآن»-dır, bəzən onu yüngəldərək «الشَّنَان» deyirlər. Onlar bu beytİ oxumuşlar:\nفما العيشُ إلاَّ ما تَلَذُّ وتَشْتَهِى … وإن لَامَ فيه ذو الشَّنَانِ وأفْنَدَا (١)\n(Həyat yalnız dadını çıxardığın və arzuladığın şeydir, hərçənd nifrət edən kəs buna görə qınasa da və səhvə yol verdiyini söyləsə də).\nVə «الشَّنْء» — həmçinin «الشَّنَآن» (nifrət) deməkdir. «مِشناءٌ» (mif'al vəznində) — elə bir kişidir ki, insanlar ona nifrət edirlər (2).\nOnların «شَنِئْت للأمر وبه» (işi qəbul etdim, etiraf etdim) sözünə gəldikdə, onların bu şeiri oxumaları:\nفلو كان هذا الأمرُ فى جاهليَّةٍ … شَنِئْتَ به أو غَصَّ بالماء شاربُه (٣)\n(4)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:58.865Z"
+}

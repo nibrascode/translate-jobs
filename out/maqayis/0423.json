@@ -1,0 +1,17 @@
+{
+ "i": 423,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 341,
+  "page_to": 341
+ },
+ "ar": "التاء والجيم والراء، التِّجارة معروفة. ويقال تاجر وتَجْرٌ، كما يقال صاحبٌ وصحبٌ. ولا تكاد تُرى تاءٌ بعدها جيم (٢).",
+ "az": "«تجر» (t-c-r): Tə, cim və ra; التِّجارة (ətticarə) məlumdur. Deyilir: تاجر (tacir) və تَجْرٌ (təcrun), necə ki صاحب (sahib) və صحب (səhb) deyilir. Demək olar ki, ardınca cim gələn tə hərfi görə bilməzsən.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

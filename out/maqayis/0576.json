@@ -1,0 +1,17 @@
+{
+ "i": 576,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جزز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 414,
+  "page_to": 414
+ },
+ "ar": "الجيم والزاء أصلٌ واحد، وهو قَطْعُ الشئ ذى القُوَى الكثيرةِ الضعيفة. يقال: جَزَزْتُ الصوف جَزًّا. وهذا زَمَنُ الجَزَازِ والجِزَاز.\nوالجَزُوزة: الغنم تُجَزُّ أصوافُها. والجُزازَة: ما سَقَطَ من الأديم إذا قُطِع. وهذا حملٌ على القياس. والأصل فى الجزِّ ما ذكرتُه. والْجَزِيزَةُ: خُصْلَةٌ من صُوف، والجمع جَزائز.",
+ "az": "«جزز» (Cim və zay) tək bir əsasdır; o da çoxlu zəif telləri olan şeyi kəsməkdir. «جَزَزْتُ الصوف جَزًّا» (Yun kəsdim, kəsməklə) – deyilir. Bu, yun qırxımı zamanıdır. «الجَزُوزة» (əl-cəzuzə) – yunu qırxılan qoyunlardır. «الجُزازَة» (əl-cuzazə) – dəri kəsildikdə düşən parça-pörküdür. Bu, qiyas üzrə daşınmışdır. Qırxmaqda əsas isə qeyd etdiyimdir. «الْجَزِيزَةُ» (əl-cəzizə) – bir dəstə yundur, cəmi «جَزائز» (cəzais) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:02.722Z"
+}

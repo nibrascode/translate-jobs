@@ -1,0 +1,17 @@
+{
+ "i": 2465,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضرف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 396,
+  "page_to": 396
+ },
+ "ar": "الضاد والراء والفاء شئٌ من النَّبْت. يقال إنّ الضِّرف من شجر الجبال، الواحدة ضِرفة.\nقال الأصمعىّ: يقال فلان فى ضِرفة خيرٍ، أى كَثْرة.",
+ "az": "[ضرف] الضاد (ضad), ra (ر) və fa (ف) bitkilərdən bir şeydir. Deyilir ki, الضِّرف dağ ağaclarındandır, tək halı ضِرفة-dir. Əsməi demişdir: Filankəs ضِرفة xeyir içindədir, yəni çoxluq içindədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:49.275Z"
+}

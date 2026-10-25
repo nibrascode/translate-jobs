@@ -1,0 +1,17 @@
+{
+ "i": 1918,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 100,
+  "page_to": 101
+ },
+ "ar": "السين والميم والراء أصلٌ واحدٌ يدلُّ على خلاف البياض فى اللون. من ذلك السُّمْرة من الألوان، وأصله قولهم «لا آتيك السَّمَر والقَمَر»، فالقَمر: القمر. والسَّمَر: سواد الليل، ومن ذلك سمِّيت السُّمْرَة. فأمّا السَّامر\nفالقوم * يَسْمُرُون. والسامر: المكان الذى يجتمعون فيه للسَّمَر. قال:\nوسامِرٍ طال لهم فيه السَّمَرْ (١)\nوالسَّمراء: الحِنطة، للَونها. والأسمر: الرُّمح. والأسمر: الماء. فأما السَّمَار فالّلبَن الرقيق، وسمِّى بذلك لأنّه إذا كان [كذلك كان] متغيِّر اللون. والسَّمُر:\nضربٌ من شجر الطَّلْح، واحدته سَمُرة، ويمكن أن يكون سمِّى بذلك للونه.\nوالسَّمار: مكان فى قوله:\nلَئنْ وَردَ السَّمَارَ لنَقْتُلَنْه … فلا وأبيكِ ما وَرَدَ السَّمَارا (٢)",
+ "az": "[سمر] (sin, mim və ra) — rəngdə ağlığın əksinə dəlalət edən tək bir əsasdır. Bunlardan biri də rənglərdəki «السُّمْرة» (qəhvəyi/buğdası rəng) olub, onun əsli onların «لا آتيك السَّمَر والقَمَر» (Sənin yanına səhraya/gecə gəlmərəm — qəmər isə aydır) deməsidir. «السَّمَر» — gecənin qaranlığıdır, «السُّمْرة» də bundan adlanmışdır. «السَّامر» isə adamların * «يَسْمُرُون» (gecə söhbəti etmələridir). «السامر» — onların gecə söhbəti etmək üçün toplandıqları yerdir. (Şair) demişdir: «وسامِرٍ طال لهم فيه السَّمَرْ» (١) (Ötən gecə söhbətçiləri üçün orada gecə söhbəti uzandı). «السَّمراء» — rənginə görə buğdadır. «الأسمر» — nizədir. «الأسمر» — sudur. «السَّمَار» isə duru süddür, o ona görə belə adlanmışdır ki, [belə olduqda] rəngi dəyişkən olur. «السَّمُر» — talh ağacının bir növüdür, tək halı «سَمُرة» olur, mümkündür ki, rənginə görə belə adlanmışdır. «السَّمار» isə bu sözdə bir yer adıdır: «لَئنْ وَردَ السَّمَارَ لنَقْتُلَنْه … فلا وأبيكِ ما وَرَدَ السَّمَارا» (٢) (Əgər o, Səmara suyu/yeri gəlsə, onu mütləq öldürəcəyik... yox, sənin atanə and olsun ki, o, Səmara gəlmədi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.159Z"
+}

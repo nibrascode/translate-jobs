@@ -1,0 +1,17 @@
+{
+ "i": 1233,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دسم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 276,
+  "page_to": 277
+ },
+ "ar": "الدال والسين والميم أصلان: أحدهما يدلُّ على سَدّ الشّئ، والآخر يدلُّ على تلطخ الشّئ بالشئ.\nفالأوّل الدِّسام، وهو سِدَادُ كلِّ شَئ. وقال قومٌ: دَسَم البابَ: أغلَقَه والثانى الدَّسَم معروف، وسمِّى بذلك لأنّه يلطَّخ بالشّئ. والدُّسْمة: الدّنى، من الرِّجال الردىّ. وسمِّى بذلك لأنّه كالملطَّخ بالقبيح. ويقال للغادِرِ: هو دَسِم الثياب، كانّه قد لُطِّخ بقبيح. قال:\nيا ربِّ إنّ الحارثَ بن الجَهْمِ (٢) … أَوْذَمَ حَجًّا فى ثِيابٍ دُسْمِ\nومن التّشبيه قولهم: دَسَمَ المطرُ الأرضَ، إذا قلَّ ولم يبلُغْ أن يُبلَّ الثَّرى.\nومما شذّ عن الباب: الدّيْسَم، وهو ولد الذِّئب من الكلبة. والدّيسم أيضاً:\nالنبات الذى يقال له: «بُستَانْ أفْرُوز (١)». ويقال إن الدّيسمة الذَّرّة (٢)",
+ "az": "[دسم] (Dəsm): Dal, sin və mim hərfləri iki əsl kökə malikdir: Biri bir şeyi bağlamağa, digəri isə bir şeyin başqa bir şeyə bulaşmasına dəlalət edir.\nBirincisi: الدِّسام (disam) — hər bir şeyin tıxacı (tıxacı/qapağı). Bir qrup insan demişdir: دَسَم البابَ (qapını bağladı/örtdü). İkincisi: دَّسَم (dəsm - yağlılıq) məlumdur, o, bir şeyə bulaşdığı üçün belə adlandırılmışdır. الدُّسْمة (dusmə) — alçaq, rəzil kişilər. O, pis şeyə bulaşmış kimi olduğu üçün belə adlandırılmışdır. Xain adama deyilir: دَسِم الثياب (paltarları kirli/bulaşıqdır), sanki o, çirkin bir şeyə bulaşmış kimidir. Şair demişdir:\nيا ربِّ إنّ الحارثَ بن الجَهْمِ (٢) … أَوْذَمَ حَجًّا فى ثِيابٍ دُسْمِ\n(Ey Rəbbim, həqiqətən əl-Haris ibn əl-Cəhm çirkli paltarlarda həcc ziyarətini yerinə yetirdi).\nOxşatmalardandır: دَسَمَ المطرُ الأرضَ (yağış torpağı yağladı) — yağış az olub torpağın nəmliyini belə islatmadıqda deyilir.\nBu əsl kökdən kənara çıxanlar: الدّيْسَم (deysəm) — canavar ilə dişi itin balasıdır. الدّيسم (deysəm) həm də «بُستَانْ أفْرُوز» (gül növü - xoruzbiri) adlanan bitkidir. Deyilənə görə ديسمة (deysmə) qarışqadır (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:45.024Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 706,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 489,
+  "page_to": 489
+ },
+ "ar": "الجيم والهاء والشين أصلٌ واحد، وهو التهيُّؤ للبكاء.\nيقال جَهَش يَجْهَش وأَجْهَش يُجْهِش، إذا تهيَّأ للبكاء. قال:\nقامت تشكّى إلىَّ النَّفْسُ مُجْهِشَةً … وقد حَمَلْتُكِ سبعاً بعد سبعِينا (١)",
+ "az": "[جهش] \nCim, hə və şin hərfləri bir əslə qayıdır ki, o da ağlamağa hazırlaşmaqdır.\nجَهَش يَجْهَش (cəhəşə yəchəşu) və أَجْهَش يُجْهِش (əchəşə yuchishu) – ağlamağa hazırlaşdı, kövrəldi deməkdir. Şair demişdir:\nقامت تشكّى إلىَّ النَّفْسُ مُجْهِشَةً … وقد حَمَلْتُكِ سبعاً بعد سبعِينا (١)\n(Nəfsim kövrələrək mənə şikayət etməyə qalxdı… Halbuki mən səni yetmişdən sonra yeddi il də daşıdım.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 632,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 450,
+  "page_to": 451
+ },
+ "ar": "الجيم والراء والجيم كلمة واحدة، وهى الجادّة، يقال لها جَرَجَة. وزعم ناسٌ أنّ هذا مما صحَّف فيه أبو عُبيدٍ. وليس الأمر على ما ذكَرُوه، والجَرَجَةُ صحيحة. وقياسها جُرَيج اسم رجل. ويقال إنّ الجَرِجَ القَلِق. قال:\n* خلخالُها فى ساقها غيرُ جرِجْ (٥) *\nوهذا ممكنٌ أن يقال مبدل من مَرِج. قال ابنُ درَيد: والجَرَجُ الأرض\nذاتُ الحجارة. فأمَّا الجُرْجَة لِشئٍ (١) شِبْه الخُرْج والعَيْبة، فما أُراها عربيّةً مَحْضة.\nعلى أنّ أوساً قد قال:\nثلاثةُ أبرادٍ جيادٍ وجُرْجَة … وأدْكَنُ من أرْىِ الدُّبور مُعَسَّلُ (٢)",
+ "az": "[جرج] (Cim, ra və cim) tək bir köydür, o da geniş yol mənasını verən جَادَّة sözüdür, buna جَرَجَة deyilir. Bəzi adamlar güman etmişlər ki, bu, Əbu Übeydin təhrif etdiyi sözlərdəndir. Lakin məsələ onların dediyi kimi deyil, جَرَجَة sözü səhihdir. Onun qiyasından gələn جُرَيج (Cüreyc) bir kişinin adıdır. Deyilir ki, الجَرِج (əl-cəric) – narahat adamdır. Şair demişdir: خلخالُها فى ساقها غيرُ جرِجْ (Onun baldırındakı xalxal narahat deyil). Və bunu مَرِج sözündən dəyişdirilmiş şəkildə demək mümkündür. İbn Dürəyd demişdir: الجَرَجُ (əl-cərəc) – daşlı-qəsəvəli yerdir. Xürcə və eybə bənzər bir şey üçün işlədilən جُرْجَة sözünə gəldikdə isə, mən onun xalis ərəb sözü olduğunu güman etmirəm. Buna baxmayaraq, Övs demişdir: ثلاثةُ أبرادٍ جيادٍ وجُرْجَة … وأدْكَنُ من أرْىِ الدُّبور مُعَسَّلُ (Üç əla bürdə, bir cürcə və arı pətəyindən çıxan tünd rəngli ballı şirə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:46:13.020Z"
+}

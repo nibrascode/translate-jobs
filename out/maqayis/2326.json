@@ -1,0 +1,17 @@
+{
+ "i": 2326,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صيأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 324,
+  "page_to": 324
+ },
+ "ar": "الصاد والياء والهمزة. يقال صيَّأت رأسى تصييئاً، إذا بَلَلْتَه.",
+ "az": "«صيأ» (صاد، ياء və həmzə). «صيَّأت رأسى تصييئاً» (başını ıslatmaq) deməkdir, o zaman ki, onu isladırsan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:32.085Z"
+}

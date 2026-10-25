@@ -1,0 +1,17 @@
+{
+ "i": 970,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حوض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 120,
+  "page_to": 120
+ },
+ "ar": "الحاء والواو والضاد كلمةٌ واحدةٌ، وهو الهَزْم فى الأرض.\nفَالحَوض حَوْض الماء. واستَحْوَضَ الماءَ: اتَّخَذ لنفسه حَوْضا - والمُحَوَّض، كالحوض يُجعل للنخلة تشربُ منه. ويقال فلانٌ يُحوِّض حَوَالىْ فُلانة، إذا كان يهواها. ويقال للرّجل المهزوم الصَّدْرِ: حوض الحِمار؛ وهو سَبٌّ.",
+ "az": "[حوض] الحاء, الواو və الضاد hərfləri tək bir kəlmə olub, yerdəki çökəklik deməkdir. الحَوْض (əl-həvd) – su hövzəsidir. استَحْوَضَ الماءَ (İstəhvədəl-mâə) – özü üçün su hövzəsi düzəltdi. المُحَوَّض (əl-muhəvvəd) – xurma ağacının su içməsi üçün düzəldilən hovuz kimidir. Deyilir ki, fəlan kəs fəlan qadının ətrafında حُوِّض (huvvəvə) edir – yəni onu sevir. Sinəsi çökək kişiyə حوض الحِمار (həvdul-himər – uzunqulağın hovuzu) deyilir; bu söyüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.842Z"
+}

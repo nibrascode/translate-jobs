@@ -1,0 +1,17 @@
+{
+ "i": 1588,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رنب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 443,
+  "page_to": 443
+ },
+ "ar": "الراء والنون والباء كلمةٌ واحدةٌ لا يشتقّ منها ولا يقاس عليها، لكن يشبَّه بها. فالأرنب معروف، ثم شبهت به أرنَبَة الأنْف، وأرنبة الرَّمل، وهى حِقْفٌ منه منحنٍ. يقولون كِساءٌ مؤرنَب، للذى (٢) خُلِط غَزْله بوبَر الأرانب. وأرض مُؤَرنِبةٌ: كثيرة الأرانب. والأرنَب: ضربٌ من النَّبات.",
+ "az": "[رنب] (rənb) - راء، نون və ba hərflərindən ibarət tək bir kəlmədir, ondan söz düzəldilməz və onunla müqayisə edilməz, lakin ona bənzədilir. «الأرنب» (əl-ərəb) - dovşandır, sonra burnun ucu «أرنَبَة الأنْف» (ərəbətü əl-ənf) və qumun əyri təpəsi «أرنَبَة الرَّمل» (ərəbətü əl-rəml) ona bənzədilib. Deyirlər: «كِساءٌ مؤرنَب» (kisəun muərnəb) - ipi dovşan tۈkü ilə qarışdırılmış parça. «أرض مُؤَرنِبةٌ» (ardun muərnibətün) - dovşanı çox olan yer. «الأرنَب» (əl-ərəb) - bir bitki növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

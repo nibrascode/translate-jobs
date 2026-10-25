@@ -1,0 +1,17 @@
+{
+ "i": 582,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 415,
+  "page_to": 416
+ },
+ "ar": "الجيم والعين أصلٌ واحدٌ، وهو المكان غيرُ المَرْضِىِّ. قال الخليل: الجعجاع مُناخُ السَّوْء. ويقال للقتيل (٤): تُرِك بجَعجاع. قال أبو قيس:\nابن الأسْلَت:\nمَنْ يَذُقِ الحربَ يجِدْ طعمَها … مُرًّا وتتركْهُ بجعجاعِ (١)\nقال الأصمعىّ: هو الحَبْس. قال:\n* إذا جَعْجَعُوا بينَ الإِناخَةِ والحَبْسِ (٢) *\nو\nكتب ابنُ زياد إلى ابنِ سعد: «أَنّ جَعْجِعْ بالحسين ﵇». كأنَّه يُريد: ألجِئْهُ إلى مكانٍ خَشِنٍ قلق. وقال قوم: الجعجعة فى هذا الموضع الإزعاج؛ يقال جَعْجَعْتُ الإبِلَ (٣)، إذا حرَّكتها للإِناخة. وقال أبو ذؤيب، فى الجعجعة التى تدلُّ على سوءِ المَصْرَع:\nفأبَدَّهُنَّ حُتوفَهُنَّ فهاربٌ … بِذَمائِه أو باركٌ متجعجعْ (٤)",
+ "az": "«جعع» (Cim və ayn) tək bir əsasdır; o da bəyənilməyən məkandır. Xəlil demişdir: «الجعجاع» (əl-cəcəc) – pis düşərgədir. Qətlə yetirilmiş şəxsə deyilir: «تُرِك بجَعجاع» (Pis yerdə tərk edildi). Əbu Qeys:\nİbn əl-Əslət demişdir:\nمَنْ يَذُقِ الحربَ يجِدْ طعمَها … مُرًّا وتتركْهُ بجعجاعِ (١)\n(Kim müharibəni dadarsa, onun acı olduğunu görər və o, onu pis məkanda tərk edər).\nƏsməi demişdir: O, həbs yeridir. O demişdir:\n* إذا جَعْجَعُوا بينَ الإِناخَةِ والحَبْسِ (٢) *\n(Onlar dəvə çökdürməklə həbs arasında dayandıqları zaman).\nVə İbn Ziyad İbn Sə’də yazmışdır: «أَنّ جَعْجِعْ بالحسين ﵇» (Hüseyni çətin vəziyyətə sal). Sanki o, bunu nəzərdə tutur: Onu sərt, narahat bir yerə sıxışdır. Bir qrup alim demişdir: Bu yerdə əl-cəncəcə narahat etməkdir; deyilir: «جَعْجَعْتُ الإبِلَ» (Dəvələri hərəkətə gətirdim), yəni onları çökdürmək üçün hərəkət etdirdim. Əbu Züheyb pis ölüm yerinə dəlalət edən cəncəcə haqqında demişdir:\nفأبَدَّهُنَّ حُتوفَهُنَّ فهاربٌ … بِذَمائِه أو باركٌ متجعجعْ (٤) *\n(O, onlara ölümlərini aşkar etdi, beləliklə, ya öz qanı ilə qaçan, ya da yerində çöküb qalan narahat bir halda qaldı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:02.723Z"
+}

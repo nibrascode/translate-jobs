@@ -1,0 +1,17 @@
+{
+ "i": 281,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بغل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 271,
+  "page_to": 271
+ },
+ "ar": "الباء والغين واللام يدلّ على قوّة فى الجسم. من ذلك البغل، قال قوم: سمّى بذلك لقوّة خلقه. وقد قالوا: سمّى بغلا من التّبغيل، وهو ضرب من السّير. والذى نذهب إليه أنّ التّبغيل مشتقّ من سير البغل.",
+ "az": "[بغل] الباء، الغين və اللام — bədəndə gücə dəlalət edir. Bunlardan biri «البغل» (qatır) sözüdür, bir qrup alim demişdir ki, o, xilqətinin gücünə görə belə adlandırılmışdır. Həmçinin demişlər: o, bir gediş növü olan «التّبغيل» sözündən götürülərək qatır adlandırılmışdır. Bizim üstünlük verdiyimiz odur ki, «التّبغيل» sözü qatırın yeriməsindən törəmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

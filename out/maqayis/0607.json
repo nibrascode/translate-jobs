@@ -1,0 +1,17 @@
+{
+ "i": 607,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 435,
+  "page_to": 435
+ },
+ "ar": "الجيم والدال والميم يدلّ على القماءة والقِصَر. يقال رجل جَدَمةٌ، أى قصير. والشاة الجَدَمة: الرّدِيّة القَمِيئة.",
+ "az": "[جدم]: الجيم والدال والميم يدلّ على القماءة والقِصَر (Cim, dal və mim hərfləri alçaqlığa və qısa olmağa dəlalət edir). يقال رجل جَدَمةٌ، أى قصير. والشاة الجَدَمة: الرّدِيّة القَمِيئة (Deyilir: «Rəculün cədəməh» – qısa adam. Əl-cədəmə qoyun: pis və cılız olan qoyundur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:06.593Z"
+}

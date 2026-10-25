@@ -1,0 +1,17 @@
+{
+ "i": 567,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثفرق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "(الثُّفْروق): قِمَع التَّمْرة. وهذا منحوت من الثَّفْر وهو المؤخّر، ومن فَرَقَ؛ لأنه شئٌ فى مؤخَّر التمرة يفارقها. وهذا احتمالٌ ليس بالبعيد.",
+ "az": "«ثفرق»\n(الثُّفْروق): Xurmanın qını (bünövrəsindəki kasacıq). Bu, «əs-səfr» (arxa hissə) və «faraqa» (ayrıca olmaq) sözlərindən qondarılmadır; çünki o, xurmanın arxa hissəsində yerləşən və ondan ayrılan bir şeydir. Bu, uzaq bir ehtimal deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:43:21.035Z"
+}

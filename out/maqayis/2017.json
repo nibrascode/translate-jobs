@@ -1,0 +1,17 @@
+{
+ "i": 2017,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سخت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 147,
+  "page_to": 147
+ },
+ "ar": "السين والخاء والتاء ليس أصلاً، وما أحِسَب الكلام الذى فيه من محض اللغة. يقولون للشئ الصُّلب سَخْتٌ وسِخْتيتٌ. ثم يقولون أمرٌ مِسخاتٌ (٣) إذا ضعُف وذهب. وهذان مختلفانِ، ولذلك قلْنا إنَّ البابَ فى نفسه ليس بأصل. على أنهم حكوا عن أبى زيد: اسْخَاتّ الجُرح: ذهب ورَمُه.\nفأما السُّخْت الذى ذكرناه عن ثعلب فى آخر كتابه، فقد قيل إِنَّه السُّخْد (٤) وهو على ذلك من المشكوك فيه.",
+ "az": "«سخت» (sin, xə və ta) əsl deyildir və hesab etmirəm ki, bundakı söz saf dildəndir. Bərk olan şeyə «سَخْتٌ» və «سِخْتيتٌ» deyirlər. Sonra zəifləyib yox olduğu zaman «أمرٌ مِسخاتٌ» (3) işdir, deyirlər. Bu ikisi bir-birindən fərqlidir, ona görə də dedik ki, bu fəsil özlüyündə əsl deyildir. Üstəlik, onlar Əbu Zeyddən rəvayət etmişlər: «اسْخَاتّ الجُرح» – yaranın şişi getdi. Təsləbin kitabının axırında xatırlatdığı «السُّخْت»ə gəlincə, deyilmişdir ki, o, «السُّخْد»dür (4) və buna baxmayaraq şübhəli olanlardandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

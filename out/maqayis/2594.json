@@ -1,0 +1,17 @@
+{
+ "i": 2594,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ظرف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 474,
+  "page_to": 475
+ },
+ "ar": "الظاء والراء والفاء كلمةٌ كأنها صحيحة. يقولون: هذا وعاء الشئ وظَرْفُه، ثمَّ يسمُّون البراعةَ ظَرْفاً، وذكاءَ القَلْبِ كذلك. ومعنى ذلك أنّه\nوعاءٌ لذلك. وهو ظريفٌ. وقد أظْرَف الرّجُل، إذا ولَد بنين ظُرَفاء وما أحسب شيئاً من ذلك من كلام العرب",
+ "az": "[ظرف] الظاء (zı), الراء (ra) və الفاء (fa) hərfləri sanki doğru bir kökdür. Deyirlər ki, bu, bir şeyin qabıdır (وعاء) və ظَرْف (zərf) adlanır, sonra onlar bacarıqlılığa ظَرْف (zərf) və qəlbin zəkasına da eyni adı verirlər. Bunun mənası odur ki, o, bunun üçün bir qabdır. O, ظريف (zərif - zəki, bacarıqlı) adamdır. Bir kişi أظْرَف (əzrəfə) etdi, yəni zərif oğullar dünyaya gətirdi. Hesab etmirəm ki, bunların heç biri ərəblərin sözlərindəndir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:15:48.931Z"
+}

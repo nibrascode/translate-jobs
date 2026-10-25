@@ -1,0 +1,17 @@
+{
+ "i": 274,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بعث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 266,
+  "page_to": 266
+ },
+ "ar": "الباء والعين والثاء أصلٌ واحد، وهو الإثارة. ويقال بعثْتُ النّاقةَ إذا أثَرْتَها. وقال ابنُ أحمر (٤):\nفبعثْتُها تَقصُ المَقَاصِرُ بَعْدَ ما … كَرَبَتْ حَياةُ النَّارِ للمُتَنَوِّرِ (٥)",
+ "az": "[بعث] الباء، العين və الثاء — tək bir əsas kökə malikdir ki, o da təhrik etmək, hərəkətə gətirməkdir. Deyirlər: «بعثْتُ النّاقةَ» — yəni dəvəni hərəkətə gətirdin, qovdun. İbn Əhmər (٤) demişdir: Mən onu təhrik etdim ki, o, gecə işıq axtaran şəxs üçün odun həyatının tükənmək üzrə olduğu vaxtda Məqasir yerlərini izləsin (٥).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

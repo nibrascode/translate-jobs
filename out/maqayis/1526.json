@@ -1,0 +1,17 @@
+{
+ "i": 1526,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 415,
+  "page_to": 416
+ },
+ "ar": "الراء والغين والباء أصلان: أحدهما طلبٌ لشئ (٨) والآخر سَعَةٌ فى شئ.\nفالأوّل الرَّغْبة فى الشئ: الإرادةُ له: رغِبْتُ فى الشئ. فإِذا لم تُرِدْه قلتَ\nرغِبتُ عنه. ويقال من الرّغبة: رَغِب يرغَبُ رَغْباً ورُغبا ورَغْبَةً ورَغْبَى مثل شكوى.\nوالآخر الشَّىْ ءُ الرَّغيب: الواسع الجَوف. يقال حوضٌ رغيب، وسقاءُ رغيب.\nويقال فرسٌ رغيب الشَّحْوة (١). والرَّغِيبة: العَطاء الكثير، والجمع رغائب. قال:\n* وإلى الذى يُعْطِى الرّغائبَ فارْغَبِ (٢) *\nوالرَّغاب (٣): الأرضُ الواسعة. وقد رغُبَتْ رُغْباً.",
+ "az": "«رغب» (rəğəb): Ра, ğayn və ba hərfləri iki əsasdır: biri bir şeyi tələb etmək, digəri isə bir şeydə genişlikdir. Birincisi, bir şeyə olan rəğbət: onu istəməkdir, «رَغِبْتُ فِي الشَّيْءِ» (rəğibtu fiş-şey'i) — mən o şeyi istədim. Əgər onu istəməsən, «رَğِبْتُ عَنْهُ» (rəğibtu anhü) — mən ondan üz döndərdim, deyərsən. Rəğbət sözündən: «رَğِبَ يَرْغَبُ رَğْباً وَرُغْباً وَرَğْبَةً وَرَغْبَى» (rəğibə yərğabu rəğbən və ruğbən və rəğbətən və rəğbən) — şəkva sözü kimi. Digər əsas isə «الشَّيْءُ الرَّغِيبُ» (əş-şey'ur-rağibu) — daxili geniş olan deməkdir. Deyilir: «حَوْضٌ رَğِيبٌ» (həvzun rağibun) — geniş hovuz, və «سِقَاءٌ رَğِيبٌ» (siqaun rağibun) — geniş tuluq. Deyilir: «فَرَسٌ رَğِيبُ الشَّحْوَةِ» (fərasun rağibuş-şəhvəti). «الرَّğِيبَةُ» (ərrəğibətü) — çox bəxşiş, cəmi «رَغَائِبُ» (rəğaiubu) gəlir. Şair demişdir: وَإِلَى الَّذِي يُعْطِي الرَّغَائِبَ فَارْغَبِ (və iləlləzi yu'tir-rəğaiubə fərğəbi). Və «الرَّğَابُ» (ərrəğabu) — geniş yer. Və «رَğُبَتْ رُğْباً» (rəğubət ruğbən) — genişləndi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.130Z"
+}

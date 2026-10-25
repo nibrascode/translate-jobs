@@ -1,0 +1,17 @@
+{
+ "i": 327,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 308,
+  "page_to": 308
+ },
+ "ar": "الباء والهاء والثاء ليس بأصل، وقد (١) سُمِّى الرجل بهْثةَ.",
+ "az": "[بهث] (bəhəth). Əsil deyil, lakin kişi بَهْثَة (bəhthə) adlandırılmışdır (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:54.814Z"
+}

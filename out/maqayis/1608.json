@@ -1,0 +1,17 @@
+{
+ "i": 1608,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 452,
+  "page_to": 452
+ },
+ "ar": "الراء والهاء واللام كلمةٌ تدلُّ على استرخاء. فالرَّهَل:\nالاسترخاء من سِمَن. يقال فرسٌ رهِلُ الصَّدْر.\nأنشدنا أبو الحسن القَطَّان، قال أنشدنا على بن عبد العزيز، عن أبى عبيدٍ، عن الفرّاء:\nفتًى قُدَّ قَدَّ السّيفِ لا متآزِفٌ … ولا رَهِلٌ لَبَّاتُهُ وبَآدِلُه (٢)",
+ "az": "[رهل] «الراء» (ra), «هاء» (hə) və «لام» (lam) boşalmağa dəlalət edən kəlmədir. الرَّهَل (ərrəhəl) — köklükdən yaranan boşalma. Deyilir: فرسٌ رهِلُ الصَّدْر (fərsun rəhilus-sadr) — sinəsi boşalmış (köklükdən yumşalmış) at.\nƏbu Həsən əl-Qattan bizə söylədi, dedi ki, Əli ibn Əbdüləziz bizə Əbu Ubeydən, Fərradan rəvayətən söylədi:\nفتًى قُدَّ قَدَّ السّيفِ لا متآزِفٌ … ولا رَهِلٌ لَبَّاتُهُ وبَآدِلُه (٢)\n(Elə bir gənc ki, qılınc kimi biçilmişdir, nə qısadır, nə də boğazı və əzələləri boşalmışdır)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

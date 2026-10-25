@@ -1,0 +1,17 @@
+{
+ "i": 1118,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خفع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 203,
+  "page_to": 204
+ },
+ "ar": "الخاء والفاءِ والعين أصلٌ واحدٌ يدلُّ على التزاق شئ بشئ لِضُرٍّ يكون. يقال انخَفَعَ الرَّجْل على فراشه، إذا لَزِق به مِنْ مرض.\nويقال خَفعَ الرَّجُل، إذا التزق بطنُه بظهْره. ومنه قول جرير:\n* رَغداً وضَيْفُ بنى عِقالٍ يُخْفَعُ (١) *\nوذكر ناسٌ: انخفعت كَبدُه من الجوع، إذا انقطعت. وأنشدوا هذا البيتَ؛ وهو قريبٌ من الأوّل. وقال بعضهم: الأخفع الرجل الذى كأنَّ به ظَلْعاً إذا مشَى. ويقال: الخَوْفَع الواجم المكتئِب. ويقال خفَعتُه بالسَّيف، إذا ضربتَه به والقياس واحد.",
+ "az": "[خفع] الخاء والفاءِ والعين أصلٌ واحدٌ يدلُّ على التزاق شئ بشئ لِضُرٍّ يكون (Hərf-i xa, fa və ayn hər hansı bir bəla üzündən bir şeyin başqa bir şeyə yapışmasına dəlalət edən tək bir əsasdır). Deyilir: «انخَفَعَ الرَّجْل على فراشه» — kişi xəstəlikdən döşəyinə yapışdı (çarpayıya mıxlandı).\nVə deyilir: «خَفعَ الرَّجُل» — kişinin qarnı belinə yapışdı. Cəririn bu sözü dəridəndir:\n* رَغداً وضَيْفُ بنى عِقالٍ يُخْفَعُ (١) *\n(Bol-bol, Bəni İqal qəbiləsinin qonağı isə acından büzüşür).\nVə bir dəstə insan qeyd etmişdir: «انخفعت كَبدُه من الجوع» — aclıqdan onun ciyəri qopdu. Və onlar bu beyti dəlil gətirdilər ki, bu da birinciyə yaxındır. Və bəziləri demişdir: «الأخفع» — elə bir kişidir ki, sanki gəzərkən ağsaqlığı vardır. Və deyilir: «الخَوْفَع» — mat və kədərli olan kimsə. Və deyilir: «خفَعتُه بالسَّيف» — onu qılıncla vurdun. Qayda eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:24.017Z"
+}

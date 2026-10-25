@@ -1,0 +1,17 @@
+{
+ "i": 812,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 14,
+  "page_to": 14
+ },
+ "ar": "الحاء والظاء أصل واحد، وهو النَّصيب والْجَدّ. يقال فلان.\nأحظُّ من فلانٍ، وهو محظُوظٌ. وجمع الحظِّ أحَاظٍ على غير قياس. قال أبو زيد:\nرجلٌ حَظِيظ جديد، إذا كان ذا حظّ من الرزق. ويقال حَظِظْتُ فى الأمر أَحَظُّ.\nقال: وجمع الحَظّ أحُظٌّ (٤).",
+ "az": "[حظ] (Hə və za) tək bir əsasdır, o da pay və bəxtdir. Deyilir: فلان اَحَظُّ مِنْ فُلَانٍ (fülanun əhazzu min fülanin) – filankəs filankəsdən daha çox pay sahibidir və o, مَحْظوظ (mahzuz) – bəxtəvərdir. حظّ (həzz) sözünün cəmi qaydadan kənar olaraq اَحَاظ (əhaz) gəlir. Əbu Zeyd demişdir: \nرجل حَظِيظ جديْد (rəcülün hazizun cədidun) – kişi ruzidən böyük paya sahib olduqda. Deyilir: حَظِظْتُ فِي الْأَمْرِ أَحَظُّ (haziztu fil-əmri əhazzu). \nO demişdir: حظّ sözünün cəmi اَحُظٌّ (əhuzzun) gəlir (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:53:07.764Z"
+}

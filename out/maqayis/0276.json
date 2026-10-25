@@ -1,0 +1,17 @@
+{
+ "i": 276,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بعد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 268,
+  "page_to": 268
+ },
+ "ar": "الباء والعين والدال أصلان: خِلَافُ القُرْبِ، ومُقابِلُ قَبْل. قالوا: البُعْد خِلاف القُرْب، والبُعْد والبَعَد الهلاك. وقالوا فى قوله تعالى:\n﴿كَما بَعِدَتْ ثَمُودُ﴾ أى هَلَكَت. وقياسُ ذلك واحدٌ. والأباعد خلاف الأقارب.\nقال:\nإذا أنْتَ لم تَعْرُكْ بِجَنْبِكَ بَعْضَ ما … يُريب مِنْ الأدْنَى رَمَاكَ الأباعدُ\nوتقول: تَنَحَّ غير باعِدٍ، أى غيرَ صاغر. وتَنَحَّ غير بَعيدٍ أى كُنْ قريباً وأمَّا الآخَرُ فقولك جاء مِنْ بَعْدُ، كما تقولُ فى خلافِهِ: مِنْ قَبْلُ.",
+ "az": "[بعد] الباء، العين və الدال — iki əsas kökə malikdir: yaxınlığın əksi və «قبل» (öncə) sözünün qarşılığı. Dediklərinə görə, «البُعْد» yaxınlığın əksidir, «البُعْد» və «البَعَد» həm də həlak olmaq mənasını verir. Uca Allahın ﴿كَما بَعِدَتْ ثَمُودُ﴾ kəlamı haqqında demişlər: yəni həlak oldu. Bunun qisası birdir. «الأباعد» (uzaqlar) yaxın qohumların əksidir. Şair demişdir: Əgər sən öz böyrünlə yaxın adamın şübhə doğuran bəzi hərəkətlərinə dözməsən, uzaq adamlar səni hədəfə alarlar. Deyirsən: «تَنَحَّ غير باعِدٍ» — yəni alçalmadan kənara çəkil. «تَنَحَّ غير بَعيدٍ» — yəni yaxın ol. Digərinə gəldikdə isə, bu, «جاء مِنْ بَعْدُ» (sondan gəldi) deməyindir, necə ki, onun əksində «مِنْ قَبْلُ» (öndən) deyirsən.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2325,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صون",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 324,
+  "page_to": 324
+ },
+ "ar": "الصاد والواو والنون أصلٌ واحد، وهن كَنٌّ وحفْظ.\nمن ذلك صُنت الشّئَ أصونُه صوناً وصِيانة. والصُّوَان: صِوُان الثَّوب، وهو ما يُصان فيه. فأمَّا قولهم للفرس القائم صائن، فلَعلَّه أن يكون من الإبدال، كأنّه أريد به الصَّائم، ثمّ أبدلت الميم نونا. قال النابغة:\nوما حاولتُما بقِيادِ خيلٍ … بَصونُ الوَردُ فيها والكُميتُ (١)\nوممَّا شذَّ عن الباب الصَّوَّان، وهى ضربٌ من الحجارة، الواحدةُ صَوَّانة.",
+ "az": "[صون] (sad, vav və nun) tək bir kök olub, qorumaq və saxlamaq deməkdir. Bunlardan صُنت الشّئَ أصونُه صوناً وصِيانة (mən şeyi qorudum, qoruyuram, qorumaq və hifz etməklə). Və الصُّوَان (suvan): paltar suvanı, yəni içində qorunduğu şeydir. Ayaq üstə duran at üçün صائن (sayin - qoruyan) demələrinə gəldikdə, o, bəlkə də hərflərin əvəzlənməsindəndir, elə bil onunla صائم (sayim) qəsd olunmuşdur, sonra mim hərfi nun hərfi ilə əvəz olunmuşdur. Nabihə demişdir:\nوما حاولتُما بقِيادِ خيلٍ … بَصونُ الوَردُ فيها والكُميتُ (١)\nVə fəsildən kənar qalan (şaz) الصَّوَّان (suvandar) – daş növüdür, təki صَوَّانة (suvannə) dır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:11.241Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2306,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صنم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 314,
+  "page_to": 314
+ },
+ "ar": "الصاد والنون والميم كلمةٌ واحدة لا فرعَ لها، وهى الصَّنَم.\nوكان شيئاً يُتَّخَذ من خشبٍ أو فضّة أو نُحاسٍ فيُعبَد.",
+ "az": "«صنم» (Sad, nun və mim) - budaqsız tək bir kəlmədir, o da «الصَّنَم» (büt) sözüdür. O, taxtadan, gümüşdən və ya misdən düzəldilən və ibadət edilən bir şey idi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

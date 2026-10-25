@@ -1,0 +1,17 @@
+{
+ "i": 2168,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شبح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 240,
+  "page_to": 240
+ },
+ "ar": "الشين والباء والحاء أصلٌ صحيح يدلُّ على امتداد الشئ فى عِرَض. من ذلك الشَّبَح، وهو الشَّخْص، سمِّى بذلك لأنَّ فيه امتداداً وعِرَضاً. والمشبوح: الرجل العُظاَم. قال أبو ذُؤَيبٍ الهذلىّ:\nوذلك مشبوحُ الذِّراعينِ خلجمٌ (٢)\nوشبَحْتُ الشئَ: مددتُه. و [من] ذلك شَبْحُه ذراعَيه فى الدُّعاء وغيرِه. ويقال للحرباء إذا امتدَّ على العود: قد شَبَح.",
+ "az": "«شبح»: الشين والباء والحاء أصلٌ صحيح يدلُّ على امتداد الشئ فى عِرَض (Şin, ba və hə hərflərindən ibarət səhih bir kök olub bir şeyin eninə uzanmasını bildirir).\nمن ذلك الشَّبَح، وهو الشَّخْص (Ondandır əş-şəbəh – bu kölgə, siluet və ya şəxsdir), سمِّى بذلك لأنَّ فيه امتداداً وعِرَضاً (belə adlandırılmışdır, çünki onda uzunluq və enlilik vardır). والمشبوح: الرجل العُظاَم (Əl-məşbuh: iri bədənli, uca boylu kişi). قال أبو ذُؤَيبٍ الهذلىّ (Hüzəli tayfasından olan Əbu Züeyb demişdir):\nوذلك مشبوحُ الذِّراعينِ خلجمٌ (٢)\n(O, qolları uzun və enli, həmçinin yekəpər biridir)\nوشبَحْتُ الشئَ: مددتُه (Və mən «şəbəhtüş-şey» – onu uzatdım, dartıb genəltdim). و [من] ذلك شَبْحُه ذراعَيه فى الدُّعاء وغيرِه (Və [ondandır] onun dua edərkən və digər vaxtlarda qollarını yana açması). ويقال للحرباء إذا امتدَّ على العود: قد شَبَح (Budağın üstündə uzanıb yayıldığı zaman buqələmun haqqında deyilir: O, uzandı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:06.969Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2098,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شقع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 204,
+  "page_to": 204
+ },
+ "ar": "الشين والقاف والعين كلمةٌ واحدة. يقولون شقَع الرَّجُل فى الإناء، إِذا شرِب. وهو مثل كرَع.",
+ "az": "[شقع] الشين (ش), القاف (ق) və Ayn (ع) tək bir kəlmədir. Deyirlər: شقَع الرَّجُل فى الإناء (kişi qabdan içdi) — yəni su içdi. Bu, kərəə (كرَع) kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:08.599Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1820,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زبى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 46,
+  "page_to": 46
+ },
+ "ar": "الزاء والباء والياء يدلُّ على شرٍّ لاخير. يقال: لقيت منه الأَزابِىَّ، إذا لقى منه شرّا. ومن الباب: الزُّبْية: حفيرة يُزَبِّى فيها الرجلُ للصيد، وتفر للذّئب والأسد فيصادان فيها. ومن الباب: زَبَيْت أَزْبِى، إذا سقت إليه ما يكرهه. [قال]:\nتلك استقِدْها وأَعطِ الحُكْم وَاليَها … فإنّها بعضُ ما تَزْنِى لك الرَّقِمُ (٢)",
+ "az": "[زبى] (zə-ba-ya): xeyri olmayan şərə dəlalət edir. Deyilir: «لقيت منه الأَزابِىَّ» (mən ondan bəlalar gördüm) — ondan şər gördüyü zaman. Bu babdandır: «الزُّبْية» (əz-zübhyə): kişinin ov üçün qazdığı və qurd ilə şir üçün qazılaraq içində ovlandıqları çuxur. Bu babdandır: «زَبَيْت أَزْبِى» (ona xoşlamadığı şeyi sürüklədim) — ona ikrah etdiyi şeyi apardığın zaman. [Şair demişdir]: \ntiləkə istəqidha və ə'til-hükmə valiyəha … فَإِنَّها بعضُ ما تَزْنِى لك الرَّقِمُ (٢)\n(Onu tələb et və onun hökmünü valisinə ver, çünki o, zəhərli ilanların sənin üçün toxuduğu bəzi şeylərdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

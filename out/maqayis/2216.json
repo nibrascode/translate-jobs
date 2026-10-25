@@ -1,0 +1,17 @@
+{
+ "i": 2216,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 259,
+  "page_to": 259
+ },
+ "ar": "الشين والراء والزّاء أصلٌ يدلُّ على خلافِ الخَير، فى جميع فروعه: من هلاك، ومنازَعة وغيرِ ذلك. ومن ذلك قول العرب للعدوّ: أشْرزَه اللّه، أى أهلكَه. ورماه بشَرْزةٍ، أى مَهلكة. ويقال إنّ المشارَزة كالمصاحبة والمنازعة. والمشارِز: الرجل السّيئ الخلُق، الشَّديد الخَلْق.\nومن الباب: أشْرزت [الشئ (١)]، إذا قطعتَه فلم تصلْه.",
+ "az": "«شرز» (şərz). Şin, ra və zə ayrı-ayrı qolları ilə birlikdə xeyrin əksinə — məhvə, çəkişməyə və digər hallara dəlalət edən bir əsasdır. Ərəblərin düşmənə dedikləri bu söz həmin mənadandır: «أَشْرَزَهُ اللَّهُ» (Allah onu məhv etsin). Və «رَماهُ بشَرْزَةٍ» (onu həlakətə sürüklədi, bəlaya atdı). Deyilir ki, «المُشارَزَةُ» (əl-muşarəzə) — dostluq və mübahisə etmək kimidir. «المُشارِزُ» (əl-muşariz) — pis xasiyyətli, sərt bədənli kişidir. \nBu bölmədəndir: «أَشْرَزْتُ الشَّيْءَ» (1) (bir şeyi kəsdin, lakin onu calamadın) — bir şeyi kəsib uclarını birləşdirmədiyin zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1358,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دثأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 328,
+  "page_to": 328
+ },
+ "ar": "الدال والثاء والهمزة ليس أصلاً؛ لأنَّه من باب الإبدال.\nيقولون مطر دَثَئِىٌّ، وهو الذى بين الحَمِيم والصَّيف (٥). وإنَّما الأصل دَفَئِىٌّ، وهو من الدِّفء.",
+ "az": "[دثأ] الدال والثاء والهمزة ليس أصلاً؛ لأنَّه من باب الإبدال. (الدال, sə və həmzə əsas deyil; çünki o, əvəzetmə (ibdal) بابındandır). Deyirlər: مطر دَثَئِىٌّ (dəsəiyyun yağış), o da həmim (isti vaxt) ilə yay arasındakı yağışdır (٥). Əslində isə o, دَفَئِىٌّ (dəfəiyyun)-dir, o da istilikdən (əddifı) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.119Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1802,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زيح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 39,
+  "page_to": 39
+ },
+ "ar": "الزاء والياء والحاء أصلٌ واحد، وهو زَوال الشئ وتنحِّيه.\nيقال زاح الشئُ يَزيحُ، إذا ذهَب؛ وقد أزَحْتُ عِلَّته فزاحت، وهى تَزِيح.",
+ "az": "[زيح] (zih). الزاء (ز) və الياء (ي) və الحاء (ح) bir şeyin zaval tapması (yox olması) və uzaqlaşması mənasını verən bir tək əsldir. Deyilir: زاح الشئُ يَزيحُ (şey zaval tapdı, yox oldu), yəni getdi; مən onun xəstəliyini أزَحْتُ عِلَّته (uzaqlaşdırdım), o da زاحت (yox oldu), o, تَزِيح (uzaqlaşır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.435Z"
+}

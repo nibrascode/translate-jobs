@@ -1,0 +1,17 @@
+{
+ "i": 525,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 379,
+  "page_to": 380
+ },
+ "ar": "الثاء والغين والميم مستعملٌ فى كلمةٍ واحدة، وهى الثَّغَامة، وهى شجرةٌ بيضاءُ الثَّمَر والزَّهر يشبّه الشّيب به. و\nفى الحديث: «أنّ رسولَ اللّه ﵌ أُتِىَ بأبِى قُحافَةَ [يوم الفتح (٥)] وكأنَّ رَأْسَه ثَغَامةَ، فأمر أن يُغيَّر».\nوأغفَلَ ابنُ دريدٍ هذا البناءَ ولم يذكُرْه مع شهرته. وقيل إنّ الثَّغِمَ الضارى مِنْ الكلاب، ولم أجِدْهُ فى الكتابَين. فإنْ صحّ فهو فى باب الإبدال، لأنَّ التاءَ مبدلةٌ من فاءٍ. وقد ذُكِرَ فى بابه.",
+ "az": "[ثغم] الثاء والغين والميم مستعملٌ فى كلمةٍ واحدة (Thə, ğain və mim tək bir kəlmədə işlədilmişdir), və o, meyvəsi və çiçəyi ağ olan, ağarmış saçın ona bənzədildiyi الثَّغَامة (əs-səğamə)-dir. Hədisdə gəlmişdir: «أنَّ رسولَ اللّه ﵌ أُتِىَ بأبِى قُحافَةَ [يوم الفتح (٥)] وكأنَّ رَأْسَه ثَغَامةَ، فأمر أن يُغيَّر» (Fəth günü Rəsulullahın (s.a.v.) yanına Əbu Quhafə gətirildi, başı sanki səğamə idi, ona rənginin dəyişdirilməsi əmr olundu). İbn Dureyd bu binanı diqqətdən kənarda qoymuş və məşhur olmasına baxmayaraq onu zikr etməmişdir. Deyilmişdir ki, əs-səğim (الثَّغِم) itlərdən yırtıcı olanıdır, lakin bunu iki kitabda tapmadım. Əgər bu səhihdirsə, o zaman bu, əvəzetmə babındadır, çünki ta hərf fə hərfinin əvəzinə gəlmişdir. Bu, öz babında zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.076Z"
+}

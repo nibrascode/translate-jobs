@@ -1,0 +1,17 @@
+{
+ "i": 1456,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 385,
+  "page_to": 386
+ },
+ "ar": "الراء والحاء أصلٌ يدلُّ على السّعَة والانبساط. فالرَّحَحُ:\nانبساطُ الحافرِ وصَدْرِ القَدَم. ويقال للوَعل المنبسط الأظلاف أرحُّ. قال.\nولو أنَّ عِزَّ النّاسِ فى رأسِ صَخرةٍ … مُلَمْلَمَةٍ تُصْيِى الأرَحّ المخدَّما (١)\nويقال تَرحْرَحَت الفرسُ: فَحَّجَتْ قوائمها لتبُول. ويقال هم فى عيشٍ رَحْرَاحٍ، أى واسع. ورَحْرَحَانُ: مكانٌ.",
+ "az": "«رح» — ra və ha genişliyə və bolluğa dəlalət edən bir əslir. وَالرَّحَحُ (ərrəhəh) — dırnağın və pəncənin ön hissəsinin enli olmasıdır. Dırnaqları enli olan dağ keçi gəvəşəyinə أَرَحّ (ərəhh) deyilir. [Şair] demişdir: ولو أنَّ عِزَّ النّاسِ فى رأسِ صَخرةٍ … مُلَمْلَمَةٍ تُصْيِى الأرَحّ المخدَّما (١) (Əgər insanların izzəti girdə bir qayanın başında olsaydı... bu, enli dırnaqlı və xidmət olunan [təkəni] hədəfə alardı). Deyilir: تَرحْرَحَت الفرسُ (dişi at genəldi): sidik ifraz etmək üçün ayaqlarını araladı. Deyilir ki, onlar رَحْرَحَانٌ (rəhrəhan) yaşayışdadırlar, yəni geniş [rifah içindədirlər]. رَحْرَحَانُ isə bir məkandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:24.395Z"
+}

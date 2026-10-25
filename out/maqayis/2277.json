@@ -1,0 +1,17 @@
+{
+ "i": 2277,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 299,
+  "page_to": 300
+ },
+ "ar": "الصاد واللام والميم أصلٌ واحد يدل على قطع واستئصال.\nيقال صَلَم أُذُنَه، إذا استأصلها. واصْطُلِمَت الأُذُن. أنشد الفرّاء:\nمثل النَّعامة كانت وهى سالمةٌ … أذْناءَ حتَّى زهاهَا الحَيْنُ والجُبُنُ (١)\nجاءت لتشرِىَ قَرناً أو تعوِّضَه … والدّهر فيه رَبَاحُ البيع والغَبَنُ\nفقيل أُذْناكِ ظُلْمٌ ثُمّت اصطُلِمَتْ … إلى الصِّماخ فلا قَرْنٌ ولا أُذُنُ\nوالصَّيْلم: الدَّاهية، والأمر العظيم، وكأنّه سمِّى بذلك لأنّه يَصْطَلِم. فأمّا\nالصَّلَامة، ويقال بالكسر الصِّلَامة، فهى الفِرقة من النّاس، وسمّيت بذلك لانقطاعِها عن الجماعة الكثيرة. قال:\nلأمِّكم الويلاتُ أنّى أتيتمُ … وأنتم صِلَاماتٌ كثيرٌ عديدُها (١)",
+ "az": "[صلم] (s-l-m): Sad, lam və mim tək bir əsas kök olub, kəsmək və kökündən qoparmaq mənasını bildirərək dəlalət edir. Deyilir ki, صَلَم أُذُنَه (qulağını kəsdi) – onu kökündən qopardıqda deyilir. Və واصْطُلِمَت الأُذُن (qulaq kökündən qoparıldı). Fəra şeir söyləmişdir: \"Dəvə quşu kimi idi, salamat ikən... qulaqsız, ta ki, fəlakət və qorxaqlıq onu həlak edənə qədər. (1) O gəlmişdi ki, bir buynuz alsın və ya onun əvəzini ödəsin, zaman içində isə alış-verişin qazancı da var, zərəri də. Və deyildi: İki qulağın zülmdür, sonra qulaqların kökündən qoparıldı, qulaq dibinə qədər, nə buynuz qaldı, nə qulaq\". Və الصَّيْلم (əss-saylim): fəlakət, böyük iş. Sanki ona bu ad onun kökündən qopardığı üçün verilmişdir. Amma الصَّلَامة (əss-salamə) – kəsrlə الصِّلَامة (əss-silamə) də deyilir – insanlar arasından bir dəstədir və bu ad onların çoxlu camaatdan ayrılması səbəbindən verilmişdir. O demişdir: \"Analarınıza vaylar olsun, haradan gəldiniz? Halbuki siz (özünüz) dəstələrsiniz, sayınız çoxdur.\" (1)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:08.474Z"
+}

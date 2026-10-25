@@ -1,0 +1,17 @@
+{
+ "i": 2575,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طسا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 457,
+  "page_to": 457
+ },
+ "ar": "الطاء والسين والهمزة كلمةٌ واحدة. يقولون: طَسِئَتْ نفسى فهى طَسِئة.",
+ "az": "«طسا» (ط، س، هـ) — tək bir kəlmədir. Deyirlər: طَسِئَتْ نفسى فهى طَسِئة (nəfsim bulandı, o bulanıqdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:13:55.069Z"
+}

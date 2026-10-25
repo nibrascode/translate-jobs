@@ -1,0 +1,17 @@
+{
+ "i": 1144,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خنط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 223,
+  "page_to": 223
+ },
+ "ar": "الخاء والنون والطاء كلمةٌ ليست أصلا، وهى من باب الإِبدال. يقال خَنَطَهُ: إذا كَرَبَه، مثلُ غَنَطه، وليس بشئ.",
+ "az": "[خنط] الخاء والنون والطاء كلمة ليست أصلا (Xar, nun və ta əsas olmayan kəlmədir) — əvəzetmə (ibdal) babındandır. Deyilir: خَنَطَهُ (xənətəhu) — onu sıxıntıya saldı, غَنَطه (ğənətəhu) kimidir, bu isə heç bir şeydir (zəif sözdür).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:06.496Z"
+}

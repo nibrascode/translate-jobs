@@ -1,0 +1,17 @@
+{
+ "i": 2362,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صرع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 342,
+  "page_to": 342
+ },
+ "ar": "الصاد والراء والعين أصلٌ واحد يدلُّ على سقوطِ شئٍ إِلى الأرض عن مراس اثنين، ثم يُحمَل على ذلك ويشتقُّ منه. من ذلك صرَعْتُ الرّجلَ صرْعاً، وصارعتُه مصارَعَة، ورجلٌ صَرِيع. والصَّريع من الأغصان:\nما تَهدَّلَ وسقط إلى الأرض، والجمع صُرُع. وإِذا جُعِلَتْ من ذلك السّاقط قَوْسٌ فهى صَرِيع.\nوأمّا المحمول على هذا فقولُهم: هما صِرْعان، يقال إنّ معنى ذلك أنَّهما يقعان معاً. وهذا مثَلٌ وتشبيه. وكذلك مِصْراعا البابِ مأخوذانِ من هذا، أى هما متساويان يقعان معاً. والصَّرعانِ: إبلان يختلفان فى المشْى، فتذهب هذه وتجئ هذه لكثرتها. قال:\nفَرَّجْتُ عنه بِصَرْعينا لأرملةٍ … أو بائس جاء معناه كمعناه (١)\nومَصارع النَّاس: مَساقِطُهم. وقال أبو زيد: أتانا صَرْعَىِ النّهار، غُدْوةً وعَشيّة. وهذا محمولٌ على ما ذكرناه، من أنّ الصِرَّعَين المِثلان. والقياس فيه كلِّه واحد.",
+ "az": "[صرع] (Sərə). Sad, ra və ayn hərfləri bir şeyin iki tərəfin mübarizəsindən sonra yerə yıxılmasına dəlalət edən tək bir əsasdır, sonra bu məcazi mənada da işlədilir və ondan başqa sözlər törədilir. Bunlardan biri «صرَعْتُ الرّجلَ صرْعاً» (Kişini yerə sərdim) və «صارعتُه مصارَعَة» (Onunla güləşdim), həmçinin “sərik” [صَرِيع] sözüdür. Budaqlardan yerə sallanıb düşənlərə də “sərik” deyilir, cəmi “suru” [صُرُع] gəlir. Əgər o yıxılmış budaqdan yay düzəldilsə, o da “sərik” olar. Buna məcazi şəkildə dəlalət edən məna isə onların «هما صِرْعان» sözüdür; deyilənə görə, bunun mənası onların eyni vaxtda yerə düşmələridir. Bu, bir məsəl və bənzətmədir. Eynilə qapının iki tayı [مِصْraعا الباب] də buradan götürülmüşdür, yəni onlar bərabər olub eyni vaxtda bağlanırlar. “Səran” [الصَّرعان] — gedişləri bir-birindən fərqli olan iki dəvədir ki, onlardan biri gedər, çoxluqlarından ötəri digəri gələr. Şair demişdir: Mən onu iki dəvəmiz vasitəsilə dul qadın üçün və ya eynilə onun mənasında olan yoxsul bir kəs üçün bəladan qurtardım (١). İnsanların “məsari”si [مَصارع] — onların yıxıldıqları (və ya öləcəkləri) yerlərdir. Əbu Zeyd demişdir: Səhər və axşam çağı bizə gündüzün “sərcani”si [صَرْعَىِ النَّهار] gəldi. Bu da yuxarıda qeyd etdiyimiz, “sircani”nin eyni şeylər olması prinsipinə əsaslanır. Bütün bunlarda qayda eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.589Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 510,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 373,
+  "page_to": 373
+ },
+ "ar": "الثاء والدال والنون كلمةٌ. يقولون: الثَّدِنُ الرّجُل الكثير اللحم. ويقال بل الثَّدَنُ تغيُّر رائحةِ اللَّحم.",
+ "az": "[ثدن] الثاء والدال والنون كلمةٌ (Thə, dal və nun bir kəlmədir). Deyirlər ki: الثَّدِنُ (ə-sədin) çox ətli kişidir. Deyilir ki, əksinə الثَّدَنُ (ə-sədən) ətin qoxusunun dəyişməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.075Z"
+}

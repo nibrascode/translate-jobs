@@ -1,0 +1,17 @@
+{
+ "i": 2022,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 149,
+  "page_to": 149
+ },
+ "ar": "السين والدال والسين أصلٌ فى العدد، وهو قولهم السُّدُس:\nجزءٌ من ستَّة أجزاء. وإزارٌ سَدِيس، أى سُداسىّ. والسِّدْس من الوِرد فى أظماء الإبل: أن تنقطع الإبل عن الوِرد خمسةَ أيام وتَرِدَ السّادسَ. وأسدَسَ البعير، إذا ألقَى السّنّ بعد الرُّباعِيَة، وذلك فى السنة الثامنة. فأمّا الستة فمن هذا أيضاً غير أنَّها مُدْغمة، كأنَّها سِدْسَة.\nومما شذَّ عن هذا السُّدُوس: الطَّيلَسان. واسم الرّجل سَدُوس. قال ابن الكلبىّ: سَدوس فى شيبان بالفتح، والذى فى طىٍ بالضمّ.",
+ "az": "«سدس» (sin, dal və sin) sayda bir əslidir, o da onların «السُّدُس» – altı hissədən biri deməsidir. «إزارٌ سَدِيس» – yəni altılı, altı hissəli izar. Dəvələrin su içmə növbələrində «السِّدْس»: dəvələrin su içməkdən beş gün ayrı qalıb altıncı gün suya gəlməsidir. «أسدَسَ البعير» – dəvə dörddəbir dişindən sonrakı dişi atdıqda, bu da səkkizinci ildə olur. Altı rəqəminə gəlincə, bu da, sanki «سِدْسَة» kimi müdğəm (birləşmiş) olmasına baxmayaraq, elə bundandır. Bu «السُّدُوس»dən istisna olan: «الطَّيلَسان» (teylasan, örtük). Kişinin adı isə «سَدُوس»dür. İbn əl-Kəlbi demişdir: Şeybanda «Sədus» fəthə ilədir, Tayy qəbiləsindəki isə zəmmə ilədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

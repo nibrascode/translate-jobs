@@ -1,0 +1,17 @@
+{
+ "i": 2322,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 322,
+  "page_to": 322
+ },
+ "ar": "الصاد والواو واللام أصلٌ صحيح، يدلُّ على قَهْرٍ وعلُوّ.\nيقال: صال عليه يَصُول صَولةً، إذا استطال. وصال العَيْر، إذا حَمَل على العانة يَصُول صَوْلاً وصِيالا. وحُكى عن أبى زيد شئٌ إن صحَّ فهو شاذٌّ. قال: المِصْول هو الذى يُنقَع فيه الحنظلُ لتَذهب مرارتُه.",
+ "az": "[صول] (sad, vav və lam) səhih bir kök olub, qəhr etməyə və ucalığa dəlalət edir. Deyilir: صال عليه يَصُول صَولةً (üstünə hücum etdi, hücum edir), özünü böyük tutduğu zaman. Və صال العَيْر (erkək uzunqulaq hücum etdi) – uzunqulaqların üstünə hücum etdiyi zaman صَوْلاً (sovlan) və صِيالا (siyalan). Əbu Zeyddən səhih olduğu təqdirdə qəribə olan bir şey rəvayət olunmuşdur. Dediyi budur: المِصْول (mısul) – acılığı getməsi üçün hənzəlin (qهrpuza bənzər acı bitki) içində ilıq suya qoyulduğu şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:11.241Z"
+}

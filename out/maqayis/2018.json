@@ -1,0 +1,17 @@
+{
+ "i": 2018,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 148,
+  "page_to": 148
+ },
+ "ar": "السين والدال والراء أصلٌ واحدٌ يدلُّ على شِبه الحَيْرة واضطراب الرأى. يقولون: السادر المتحيِّر. ويقولون سَدِرَ بصرهُ يَسْدَر، وذلك إذا اسمدَّ وتحيَّر. ويقولون: السَّادر هو الذى لا يبالى ما صنَع، ولا يهتمُّ بشئ. قال طرفة:\nسادراً أحْسِب غَيِّى رَشَداً … فتناهَيتُ وقد صَابَتْ بُقرّ (١)\nفأَمّا قولُهم: سَدَرت المرأة شَعرها، فهو من باب الإبدال، مثل سدلتُ، وذلك إذا أرسلَتْه. وكذلك قولهم: «جاء يضربُ أسدرَيْه»، وهو من الإِبدال، والأصل فيه الصاد، وقد ذُكر",
+ "az": "«سدر» (sin, dal və ra) heyrətə bənzərliyə və rəyin dolaşıqlığına dəlalət edən tək bir əslidir. Deyirlər: «السادر» – heyrətə düşmüş. Və deyirlər: «سَدِرَ بصرهُ يَسْدَر» – bu, gözü zillənib heyrətləndiyi zaman olur. Deyirlər: «السَّادر» – nə etdiyinə məhəl qoymayan və heç bir şeyə əhəmiyyət verməymeyen kimsədir. Tərfə demişdir: Sərgərdan halda azğınlığımı doğru yol hesab edirdim … Nəhayət, (həlakətə) çatanda əl çəkdim (1). Qadının saçını daramasına gəlincə, yəni «سَدَرت المرأة شَعرها», bu, «سدلتُ» (sədl etdim, saldım) kimi hərf dəyişməsi babındandır, bu da onu buraxdığı vaxt olur. Eləcə də onların «جاء يضربُ أسدرَيْه» (iki əsdərini vuraraq gəldi) demələri də hərf dəyişməsindəndir, bunun əsli sad hərfidir və bu, artıq zikr olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

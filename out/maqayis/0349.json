@@ -1,0 +1,17 @@
+{
+ "i": 349,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 320,
+  "page_to": 320
+ },
+ "ar": "الباء والواو والقاف ليس باصل معوَّلٍ عليه، ولا فيه عندى كلمةٌ صحيحةٌ. وقد ذكروا أنَّ البُوقَ الكذِب والباطِل. وذَكَرُوا بيتاً لحسَّان:\nإلاّ الذى نَطَقُوا بُوقاً ولم يَكُنِ (٣) *\nوهذا إنْ صَحَّ فكأنَّه حكايةُ صوت.\nفأمّا قولهم: باقَتْهُمْ بائِقَةٌ وهى الدّاهِيَة تَنزلُ، فليست أصلاً، وأُرَاها مبدلةً من جيم. والبائجة كالفَتْقِ والخَلَلِ (٤). وقد ذكر فيما مضى (٥).",
+ "az": "[بوق] Ba, vav və qaf etibar ediləsi bir əsas kök deyildir və məncə, onda heç bir səhih söz də yoxdur. Zikr etmişlər ki, البُوق (əl-buq) – yalan və batildir. Həssanın bir beytini də zikr etmişlər: * Lakin onların yalan olaraq danışdıqları şey ki, o yox idi (3) * Əgər bu səhihdirsə, o zaman bu, səsin təqlididir (təqlidi-səvt). Onların باقَتْهُمْ بائِقَةٌ (baqt-hum baiqətün) sözünə gəldikdə, bu, nazil olan bəladır; bu, əsas kök deyil, mənə görə cim hərfinin yerində işlənmiş əvəzləmədir. البائجة (əl-baiqə) isə yarıq və çat kimi bir şeydir (4). Bu barədə əvvəldə zikr olunmuşdur (5).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:05.794Z"
+}

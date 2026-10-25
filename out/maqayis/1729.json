@@ -1,0 +1,17 @@
+{
+ "i": 1729,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زعل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 9,
+  "page_to": 10
+ },
+ "ar": "الزاء والعين واللام أُصَيلٌ يدلُّ على مَرَحٍ وقلة استقرارٍ، لنشاطٍ يكون. فالزَّعَل: النّشاط. والزَّعل: النشيط. ويقال أَزْعَلَهُ السِّمَنُ والرَّعْى. قال الهُذلىّ (٥):\nأكَلَ الجميمَ وطاوعتْه سَمحجٌ … مثلُ القَنَاةِ وأزعَلَتْهُ الأَمْرُعُ\nوقال طرفة:\nومَكانٌ زَعِلٍ ظِلْمانُهُ … كالمَخَاض الْجرُبِ فى اليَوْمِ الخَصرْ (٦)\nورُبَّما حُمِل على هذا فسُمِّى المتضوِّر من الجُوع زَعِلاً.",
+ "az": "«زعل» — Zae, ayn və lam fərəhə və fəallıq səbəbindən sabitliyin az olmasına dəlalət edən kiçik bir kökdür. «الزَّعَل» — fəallıq, şənlikdir. «الزَّعِل» — fəal. Köklük və otlama onu fəallaşdırdıqda «أزْعَلَهُ السِّمَنُ والرَّعْى» deyilir. Hüzəli demişdir: «أكَلَ الجميمَ وطاوقَتْه سَمحجٌ … مثلُ القَنَاةِ وأزعَلَتْهُ الأَمْرُعُ» (Təzə otları yedi, nizə kimi incə olan uca dəvə ona tabe oldu və yağlar onu fəallaşdırdı). Tərfə demişdir: «ومَكانٌ زَعِلٍ ظِلْمانُهُ … كالمَخَاض الْجرُبِ فى اليَوْمِ الخَصرْ (٦)» (Övladları oynaq və fəal olan elə bir yer ki, sanki soyuq gündə qotur dəvələr kimidirlər). Bəzən bu məna üzərindən aclıqdan sızıldayan şəxsə də «زَعِل» (narahat, oynaq) adı verilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:48.690Z"
+}

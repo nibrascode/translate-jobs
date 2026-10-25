@@ -1,0 +1,17 @@
+{
+ "i": 2568,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طرم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 453,
+  "page_to": 453
+ },
+ "ar": "الطاء والراء والميم أُصَيْلٌ صحيح يدلُّ على تراكُمِ شئ.\nيقولون: الطُّرَامة (٤): الخُضْرة على الأسنان. ويقولون: الطِّرْم (٥): العَسَل.\nوالطِّرْيَم: السَّحاب الغليظ.",
+ "az": "[طرم] Ta, ra və mim hərfləri bir şeyin üst-üstə yığılmasına dəlalət edən kiçik, səhih bir kökdür. Deyirlər: «الطُّرَامة» (türamə): dişlərin üzərindəki yaşıl təbəqə. Deyirlər: «الطِّرْم» (tirm): bal. Və «الطِّرْيَم» (tiryəm): qatı bulud.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:13:33.432Z"
+}

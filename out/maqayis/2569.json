@@ -1,0 +1,17 @@
+{
+ "i": 2569,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طرى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 454,
+  "page_to": 454
+ },
+ "ar": "الطاء والراء والحرف المعتلُّ أُصيل صحيحٌ يدلُّ على غضاضةٍ وجِدّة. فالطَّرِىّ: الشئ الغَضّ؛ ومصدره الطَّراوة والطَّراءة. ومنه أطرَيْتُ فلاناً، وذلك إذا مدحتَه بأحسنِ ما فيه.\nفإذا هُمِز قيل طرَأ فلانٌ، إذا طلع. وأحسِب هذا من باب الإبدال، وإنّما الأصل دَرَأ. وقد ذُكِر.",
+ "az": "[طرى] Ta, ra və uzanan hərf (y) təravətə və təzəliyə dəlalət edən səhih bir kökdür. «الطَّرِىّ» (tari): təzə, yumşaq şey; məsdəri «الطَّراوة» (təravət) və «الطَّراءة» (təzəlik). Onundandır «أطرَيْتُ فلاناً» (fəlanı təriflədim), bu da onu özündə olan ən gözəl xüsusiyyətlərlə təriflədiyin zaman olur. Həmzələndikdə «طرَأ فلانٌ» (fəlan kəs zühur etdi) deyilir. Güman edirəm ki, bu, əvəzlənmə fəslindəndir, əsli isə «دَرَأ»dir. Bu artıq zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:13:33.432Z"
+}

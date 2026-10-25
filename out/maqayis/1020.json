@@ -1,0 +1,17 @@
+{
+ "i": 1020,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حجب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 143,
+  "page_to": 143
+ },
+ "ar": "الحاء والجيم والباء أصل واحد، وهو المنع. يقال حجبته عن كذا، أى منَعتُه. وحِجابُ الجَوْف: ما يَحْجُبُ بين الفُؤَاد وسائر الجَوْف.\nوالحاجبان العظمان فوق العينين بالشّعَرْ والّلحم. وهذا على التشبيه، كأنّهما تحجبان شيئاً يصل إلى العينين. وكذلك حاجبُ الشّمس، إنما هو مشبَّهُ بحاجب الإنسان. وكذلك الحَجَبة: رأس الوَرِك، تشبيهٌ أيضاً لإشرافِهِ.",
+ "az": "«حجب» (hə-cə-bə): Ha, cim və ba tək bir əslidir, o da qadağan etmək, əngəlləməkdir. Deyirlər: حجبته عن كذا (həcəbtuhu ən kəza) — yəni onu bundan qadağan etdim. Və حِجابُ الجَوْف (hicabul-cəwf) — ürəklə qalan bədən boşluğu arasında pərdə olan şeydir.\n\nالحاجبان (əl-haciban) — gözlərin üzərindəki tük və ətli olan iki sümükdür. Bu oxşatmadandır, elə bil ki, onlar gözlərə çatan bir şeyi əngəlləyirlər. Eynilə حاجبُ الشّمس (hacubuş-şəms) — günəşin hacibi də insan hacibinə bənzədilmişdir. Həmçinin الحَجَبة (əl-həcəbə) — budun baş tərəfi də yüksəldiyinə görə bənzətmə olaraq belə adlanmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:06:36.723Z"
+}

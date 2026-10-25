@@ -1,0 +1,17 @@
+{
+ "i": 1662,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ربل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "الراء والباء واللام أصلٌ واحدٌ يدلُّ على تجمُّع وكثرةٍ فى انضمام. يقال رَبَل القومُ يَرْبُلون. والرّبيلة: السِّمَن. قال الشاعر (٢):\nولم يَكُ مثلوجَ الفؤادِ مُهبَّجاً … أضاعَ الشَّبابَ فى الرَّبيلةِ والخَفْضِ\nومن الباب الرَّبْلَة: باطن الفخذ، والجمع الرَّبَلات. وامرأةٌ مُتَرَبِّلة (٣):\nكثيرة اللحم؛ وقد تربَّلتْ. والاسم الرَّبَالة.\nوممّا يقارب هذا البابَ الرَّبْل، وهو ضروبٌ من الشجر، إذا بَرَدَ الزّمانُ عليها وأدبَرَ الصيف، تفَطَّرَتْ بورقٍ أخضرَ مِنْ غير مطر. يقال تربَّلت الأرض. ومِنْ الذى يقارب هذا: الرِّئبال، وهو الأسد؛ سمِّى بذلك لتجمُّع خلقه.",
+ "az": "[ربل] \nالراء والباء واللام (ra, ba və lam) — birləşmədə topluluğa və çoxluğa dəlalət edən tək bir əsasdır. Deyilir: رَبَل القومُ يَرْبُلون (Qovm toplandı, yığılır). والرّبيلة (rəbilə) — kökəlmək, piylənmək. Şair demişdir (2): \nولم يَكُ مثلوجَ الفؤادِ مُهبَّجاً … أضاعَ الشَّبابَ فى الرَّبيلةِ والخَفْضِ \n(O, ürəyi sərin, şişkin deyildi... gəncliyi kökəlikdə və rahatlıqda zay etdi). \nBu fəsildəndir: الرّبْلَة (rəblə) — budun iç tərəfi, cəmi الرَّبَلات (rəbəlat) gəlir. Qadın مُتَرَبِّلة (mütərəbbilə) — əti çox olan deməkdir; artıq o, تَرَبَّلَتْ (tərəbbələt) (kökəldi). İsim olaraq الرَّبَالة (rəbalə) adlanır. \nBu fəsilə yaxın olanlardan biri də الرّبْل (rəbl) sözüdür; o, ağac növləridir ki, zaman sərinləşəndə və yay arxaya çəkildikdə, yağmursuz yaşıl yarpaqlarla cücərərək açılar. Deyilir: تَرَبَّلَتِ الأرضُ (Yer rəbl bitkisi bitirdi). Buna yaxın olanlardandır: الرِّئبال (riəbal) — aslan deməkdir; yaradılışının toplu/möhkəm olmasına görə belə adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:35:36.370Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2156,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شيق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 236,
+  "page_to": 236
+ },
+ "ar": "الشين والياء والقاف كلمة. يقال إنَّ الشِّيق الشّق الضّيق فى رأس الجَبل. قال:\nشغْواء تُوطنُ بين الشِّيقِ والنِّيقِ (١)",
+ "az": "«شيق»: الشين والياء والقاف كلمة (Şin, yə və qaf hərflərindən ibarət bir kəlmədir). يقال إنَّ الشِّيق الشّق الضّيق فى رأس الجَبل (Deyilir ki, əş-şiq dağın zirvəsindəki dar yarıqdır). قال (Şair demişdir):\nشغْواء تُوطنُ بين الشِّيقِ والنِّيقِ (١)\n(Dağ zirvəsindəki dar yarıq ilə uca zirvə arasında məskən salmış quş)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:06.968Z"
+}

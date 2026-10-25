@@ -1,0 +1,17 @@
+{
+ "i": 483,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تأر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 361,
+  "page_to": 362
+ },
+ "ar": "التاء والهمزة والراء كلمةٌ واحدة. يقال أتْأَرْتُ عليه النَّظَر إِذا حَدَّدته. قال:\nمَا زِلْتُ أنْظُرُهم والآلُ يرفَعُهمْ … حَتَّى اسْمَدَرَّ بطَرْفِ العَيْنِ إتْآرِى (٤)\nفأما قولهم (اتَّأَبَ) إذا استَحْيا، فله فى كتاب الواو موضعٌ غيْر هذاء\nتاَم\nالتاء والهمزة والميم كلمةٌ واحدةٌ، وهى التَّوأمانِ: الولَدانِ فى بطن تقول أتأمَتِ المرأةُ، وهى مُتْئِمٌ. والتُّؤامُ جَمْعٌ. وقول سُويد (١):\n* كالتؤاميّةِ إنْ باشَرْتَها (٢) *\nفيقال إنّ التُّؤَامَ قَصَبَةُ عُمَان",
+ "az": "[تأر] (t-ə-r): Ta, həmzə və ra hərfləri tək bir kəlmədir. Deyilir: أَتْأَرْتُ عَلَيْهِ النَّظَرَ (ət-lərtü aleyhi ən-nəzərə) – ona baxışımı sərtləşdirdim və diqqətlə baxdım. Şair demişdir: مَا زِلْتُ أَنْظُرُهُمْ وَالْآلُ يَرْفَعُهُمْ … حَتَّى اسْمَدَرَّ بِطَرْفِ الْعَيْنِ إِتْآرِي (٤) (Mən onlara baxmaqda davam edirdim, ilğım onları yuxarı qaldırırdı, nəhayət, baxışımın sərtliyindən gözümün kənarı qamaşdı). Amma onların utandığı zaman (اتَّأَبَ – ət-təbə) demələrinə gəldikdə, onun yeri “Vaf” kitabındadır, bundan başqa yerdədir. [تأمم / تام]: Ta, həmzə və mim hərfləri tək bir kəlmədir, o da التَّوْأَمَانِ (ət-töəman) – bətndəki əkiz iki uşaqdır. Qadın uşaq doğduqda أَتَأَمَتِ الْمَرْأَةُ (ətəməti əl-mərətü) deyilir və o, مُتْئِمٌ (mut-im) olur. التُّؤَامُ (ət-tuam) isə cəmdir. Suveydin sözü: * كَالتُّؤَامِيَّةِ إِنْ بَ`اشَرْتَهَا * (Əgər ona toxunsan, tuamiyə qadın kimidir). Deyilir ki, التُّؤَامُ (ət-tuam) – Oman qamışlığıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

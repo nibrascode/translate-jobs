@@ -1,0 +1,17 @@
+{
+ "i": 755,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 506,
+  "page_to": 506
+ },
+ "ar": "ومن ذلك [قولهم] للرَّمْلة المشرفة على ما حولها (جُمْهُور). وهذا من كلمتين من جَمَرَ؛ وقد قلنا إنّ ذلك يدلُّ على الاجتماع، ووصفنا الجَمَرات من العرب بما مضى ذِكره. والكلمة الأخرى جَهَر؛ وقد قلنا إنّ ذلك من العلوّ. فالجمهور شئٌ متجمِّعٌ عالٍ.",
+ "az": "«جمهر» — Həmçinin, ətrafındakı hər şeydən yuxarıda görünən qum təpəsinə «جُمْهُور» (cumhur) deyirlər. Bu da iki kəlmədəndir: biri «جَمَرَ» (camarə) sözündəndir; biz artıq dedik ki, bu, toplanmağa dəlalət edir və əvvəldə qeyd olunduğu kimi ərəblərin «cəmərat» adlanan tayfalarını vəsf etdik. Digər kəlmə isə «جَهَرَ» (cəharə) sözüdür; biz artıq dedik ki, bu, ucalıq mənasınadır. Deməli, «cumhur» toplanmış və uca olan bir şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.135Z"
+}

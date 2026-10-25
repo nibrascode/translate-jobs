@@ -1,0 +1,17 @@
+{
+ "i": 1774,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زنج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 27,
+  "page_to": 27
+ },
+ "ar": "الزاء والنون والجيم ليس بشئٍ. على أنّهم يقولون الزَّنَجَ:\nالعطش، ولا قياس لذلك.",
+ "az": "[زنج] (zənəc): ز (zay), ن (nun) və ج (cim) heç bir şey deyildir. Hərçənd deyirlər ki, الزَّنَج (əz-zənəc) — susuzluqdur, bunun üçün heç bir qiyas yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:18.053Z"
+}

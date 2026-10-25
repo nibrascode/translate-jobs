@@ -1,0 +1,17 @@
+{
+ "i": 1705,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ردج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 507,
+  "page_to": 507
+ },
+ "ar": "الراء والدال والجيم ليس بشئ. على أنَّهم يقولون إنّ الرَّدَج ما يُلقيه [المُهْر (٣)] من بطنه ساعةَ يُولَد. وينشدون:\nلها رَدَجٌ فى بيتها تستعدُّه … إذا جاءها يوماً من الدّهر خاطبُ (٤)",
+ "az": "[ردج] الراء والدال والجيم — heç bir əsası yoxdur. Lakin onlar deyirlər ki, الرَّدَج (rədəc) — [balaca dayanın (٣)] doğulduğu an qarnından atdığı şeydir. Və bu beyt oxunur:\nلها رَدَجٌ فى بيتها تستعدُّه … إذا جاءها يوماً من الدّهر خاطبُ (٤)\n(Evində hazırlıq gördüyü, zamanın bir günü ona elçi gəldikdə [təqdim etmək üçün] bir rədəci vardır.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:28.607Z"
+}

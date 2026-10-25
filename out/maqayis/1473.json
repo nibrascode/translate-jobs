@@ -1,0 +1,17 @@
+{
+ "i": 1473,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رسن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 394,
+  "page_to": 394
+ },
+ "ar": "الراء والسين والنون أصلٌ واحدٌ اشترك فيه العرب والعجم، وهو الرَّسَنُ، والجمع أرسانٌ. والمَرْسِنُ: الذى يقع عليه الرَّسَن من أنف الناقة، ثم كثُر حتَّى قيل مَرسِنُ الإنسان. ورسَنْت الرَّجُلَ (٤) وأرسنْتُه: شددتُه بالرَّسَن.",
+ "az": "[رسن] (Rə, sin və nun) ərəblərin və əcəmlərin şərik olduğu tək bir əsasdır, o da əd-rəsən (ulaşqı, cilov)dir, cəmi ərsandır. Əl-mərsən — dəvənin burnunda cilovun düşdüyü yerdir, sonra bu söz genişlənərək insanın burnuna da mərsən deyilmişdir. Rəsəntür-ricülə və ərsəntuhu — onu cilovla bağladım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:45.682Z"
+}

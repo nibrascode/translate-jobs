@@ -1,0 +1,17 @@
+{
+ "i": 1757,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زلج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 19,
+  "page_to": 19
+ },
+ "ar": "الزاء واللام والجيم أُصَيْلٌ يدلُّ على الاندفاع والدَّفْع. من ذلك المُزَلَّج من العيش، وهو المُدَافعُ بالبُلْغَة. والمُزَلَّج: الذى يُدفَع عن كلِّ خيرٍ من كِفاية وغَنَاء. قال:\nدعَوتُ إلى ما نابنى فأجابَنِى … كريمٌ من الفِتْيان غيرُ مُزَلَّجِ\nوالزَّلْج: السُّرْعة فى المشْىِ وغيرِه. وكلُّ سريعٍ زالجٌ. وسَهْمٌ (٣) زالجٌ:\nيتزَلّج من القَوس. والمُزَلَّج: المدفوع عن حَسَبه. فأمّا المِزْلاج فالمرأة الرّسْحَاء، وكأنّها شُبِّهت فى دِقّتها بالسَّهم الزّالج.",
+ "az": "[زلج] الزاء واللام والجيم أُصَيْلٌ يدلُّ على الاندفاع والدَّفْع (Zə, lam və cim irəliyə atılmağa və itələməyə dəlalət edən kiçik bir əsldir). من ذلك المُزَلَّج من العيش، وهو المُدَافعُ بالبُلْغَة (Ondandır yaşayışın müzəlləci, o da kifayət qədər dolanacaqla itələnəndir). والمُزَلَّج: الذى يُدفَع عن كلِّ خيرٍ من كِفاية وغَنَاء (Və əl-müzəlləm: hər bir xeyirdən, kifayətdən və var-dövlətdən uzaqlaşdırılan/itələnəndir). قال: دعَوتُ إلى ما نابنى فأجابَنِى … كريمٌ من الفِتْيان غيرُ مُزَلَّجِ (Dediki: «Məni narahat edən şeyə çağırdım, məni cavablandırdı... gənclərdən olan kərim, müzəlləc olmayan (məhrum edilməyən)» [şer]. Və əz-zəlc: gəzintidə və digər işlərdə sürətdir). وكلُّ سريعٍ زالجٌ (Və hər bir sürətli zalicdir). وسَهْمٌ زالجٌ: يتزَلّج من القَوس (Və zalic ox: yaydan sürüşüb çıxandır). والمُزَلَّج: المدفوع عن حَسَبه (Və əl-müzəlləm: nəcabətindən uzaqlaşdırılandır). فأمّا المِزْلاج فالمرأة الرّسْحَاء، وكأنّها شُبِّهت فى دِقّتها بالسَّهم الزّالج (Amma əl-mizlac isə oma hissəsi ensiz olan qadındır, sanki o, incəliyində zalic oxa oxşadılmışdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:57.983Z"
+}

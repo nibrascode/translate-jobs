@@ -1,0 +1,17 @@
+{
+ "i": 1251,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دعض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 284,
+  "page_to": 284
+ },
+ "ar": "الدال والعين والضاد ليس بشئ (١).",
+ "az": "[دعض] «الدال والعين والضاد» (dal, ayn və dad) heç bir şey deyildir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.371Z"
+}

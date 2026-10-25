@@ -1,0 +1,17 @@
+{
+ "i": 1617,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "روض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 459,
+  "page_to": 459
+ },
+ "ar": "الراء والواو والضاد أصلانِ متقاربانِ فى القياس، أحدهما يدلُّ على اتّساعٍ، والآخَرُ على تَبيِينٍ وتسهيل.\nفالأولُ قولهم استراض المكانُ: اتّسَعَ. قال: ومنه قولهم: «افعل كذا مادامَ النَّفَسُ مستَرِيضاً»، أى متَّسعاً. قال:\nأَرَجَزاً تُرِيدُ أم قَرِيضَا … كلاهُما أُجِيدُ مُستَرِيضا (١)\nومن الباب الرَّوضة. ويقال أرَاضَ الوادِى واستراضَ، إذا استَنْقَعَ فيه الماء. وكذلك أراضَ الحوضُ. ويقال للماء المستنقِع المنبسِط رَوْضَة. قال:\n* ورَوْضَةٍ سَقَيْتُ منها نِضْوِى (٢) *\nومن الباب أتانا بإناءٍ يُرِيضُ كذا [وكذا (٣)]. وقد أراضَهم، إذا أرواهم.\nوأما الأصل الآخَر: فقولهم رُضْتُ النّاقةَ أرُوضُها رياضةً.",
+ "az": "[روض] (Rə, vau və dad) — qiyasda bir-birinə yaxın olan iki əslə (köklərə) malikdir: biri genişliyə, diğəri isə aydınlığa və asanlığa dəlalət edir.\n\nBirincisi, onların «استراض المكانُ» (məkan genəldi) sözüdür. Şair demişdir ki, onların «افعل كذا مادامَ النَّفَسُ مستَرِيضاً» (nəfəs gen ikən filan işi et) sözü dəridəndir, yəni genişdir. Şair demişdir:\nأَرَجَزاً تُرِيدُ أم قَرِيضَا … كلاهُما أُجِيدُ مُستَرِيضا (1)\n\nBu fəsildəndir: əl-rovdə (bağça). Deyilir: «أراضَ الوادِى واستراضَ» — vadidə su gölməçə halında yığıldıqda. Həmçinin hovuz barəsində də «أراضَ الحوضُ» deyilir. Suyu yığılmış və səthi yayılmış su hövzəsinə rovzə (bağça) deyilir. Şair demişdir:\n* ورَوْضَةٍ سَقَيْتُ منها نِضْوِى (2) *\n\nBu fəsildəndir: bizə elə və belə bir qab gətirdi ki, suyu bollaşdırır («يُرِيضُ كذا [وكذا (3)]»). Onları doyurduqda «أراضَهم» deyilmişdir.\n\nDigər əslə gəldikdə: bu, onların «رُضْتُ النّاقةَ أرُوضُها رياضةً» (mayanı öyrətdim, yumşaltdım) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:33:59.185Z"
+}

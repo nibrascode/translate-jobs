@@ -1,0 +1,17 @@
+{
+ "i": 1494,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رضن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "الراء والضاد والنون تشبه الباب (١) الذى قبلها. فالرضون من الحجارة: المَنْضود.",
+ "az": "[رضن] (rə-zə-nə). Ra, zad və nun – özündən əvvəlki fəslə oxşayır (١). Daşlardan olan الرَّضُون (ar-razun) – sıralanmış, düzülmüş [daşlar].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.015Z"
+}

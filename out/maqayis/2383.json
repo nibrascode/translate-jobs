@@ -1,0 +1,17 @@
+{
+ "i": 2383,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 360,
+  "page_to": 360
+ },
+ "ar": "الضاد والدال كلمتان متباينتان فى القياس.\nفالأولى: الضِّدّ ضِدّ الشئ. والمتضادّان: الشَّيئان لا يجوز اجتماعهما فى وقتٍ واحد، كالليل والنَّهار.\nوالكلمة الأخرى الضَّدُّ، وهو المَلْ ء، بفتح الضاد، يقال ضَدَّ القِربةَ:\nملأها، ضَدًّا.",
+ "az": "[ضد] «الضاد» (زاد) və «الدال» (dal) hərfi ölçüyə görə bir-birindən fərqlənən iki kəlmədir.\nBirincisi: «الضِّدّ» (zidd) şeyin ziddidir. «المتضادّان» (iki zidd şey) — gecə və gündüz kimi eyni vaxtda bir yerdə olması caiz olmayan iki şeydir.\nDigər kəlmə isə «الضَّدُّ» (əz-zədd) olub, zad hərfinin fəthi ilə doydurmaq, doldurmaq deməkdir. «ضَدَّ القِربةَ» (tuluğu doldurdu) — onu ağzına qədər doldurdu, mənasına gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 364,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بأس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 328,
+  "page_to": 328
+ },
+ "ar": "الباء والهمزة والسين أصلٌ واحد، الشِّدّةُ و [ما] ضارَعَها.\nفالبَأْس الشدّة فى الحَرْب. ورجلٌ ذُو بَأْسٍ وبَئِيسٌ أى شجاع. وقد بأس بأساً (٣).\nفإِنْ نَعَتَّه بالبُؤْس قلت بَؤُسَ. والبُؤْس: الشّدَّة فى العَيش. والمبتئس المفتعل من الكَراهة والحُزْن. قال:\nما يَقْسِم اللّه أقْبَلْ غير مُبْتئِسٍ … مِنْه وأقْعُدْ كريماً ناعِمَ البالِ (٤)",
+ "az": "«بأس» (bəs): باء, həmzə və sin hərfləri tək bir əsas mənanı ifadə edir — şiddət və ona bənzər olanlar.\n«البَأْس» (əl-bəs) — döyüşdəki şiddətdir. «رَجُلٌ ذُو بَأْسٍ وَبَئِيسٌ» (Rəcülün zu bəsin və bəisün) — yəni cəsur, igid kişi. O, «بَئِسَ بَأْساً» (bəisə bə'sən) demişdir.\nƏgər onu yoxsulluqla vəsf etmək istəsən, «بَؤُسَ» (bəusə) deyərsən. «البُؤْس» (əl-bəus) — yaşayışdakı şiddət (yoxsulluq)dur. «المُبْتَئِس» (əl-mubtəis) — ikrah və qəm-qüssədən törədilən feildir. Şair demişdir:\nمَا يَقْسِمُ اللَّهُ أَقْبَلْ غَيْرَ مُبْتَئِسٍ … مِنْهُ وَأَقْعُدْ كَرِيماً نَاعِمَ الْبَالِ (٤)\n(Allahın qismət etdiyi hər şeyi ondan heç bir qüssə duymadan qəbul edərəm və kərəm sahibi, könlü rahat halda oturaram.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.171Z"
+}

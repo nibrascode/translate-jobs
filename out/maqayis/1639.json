@@ -1,0 +1,17 @@
+{
+ "i": 1639,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ريه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 470,
+  "page_to": 470
+ },
+ "ar": "الراء والياء والهاء كلمةٌ من باب الإبدال. يقال تَرَيَّه السَّحابُ، إذا تَرَيَّع. وإنّما الأصل بالواو: تروَّهَ. وقد مضى.",
+ "az": "«ريه»: (Ra, Ya, Hə) əvəzetmə babından bir kəlmədir. تَرَيَّهَ السَّحَابُ (bulud hərəkət etdi) - تَرَيَّعَ (döndü) kimidir. Əsli isə vav hərfi ilə olan تَرُوَّهَ-dir. Bu artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.916Z"
+}

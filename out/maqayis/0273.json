@@ -1,0 +1,17 @@
+{
+ "i": 273,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بعوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 265,
+  "page_to": 266
+ },
+ "ar": "الباء والعين والواو والياء أصلان: الجناية وأخْذُ الشئ عارِيَّةً أو قَمْراً.\nفالأصل الأوّل قولهم بَعَوْتُ أبْعُو وأبْعَى، إذا اجْترَمْتَ. قال عوفُ ابنُ الأحوص:\nوإبسالِى بَنِىَّ بغَيْرِ جُرْمٍ … بَعَونَاهُ ولا بِدَمٍ مُرَاقِ (١)\nقالوا: ومِنه بَعَوْتُه بعَينِى أى أصبتُه.\nوالأصل الثَّانى البَعْو. قال الخليل: هو العاريَّة، يقال استَبْعَيْتُ منه، أى استعرت. وقال أيضاً البَعْوُ القَمْر، يقال بَعوْتُه بَعْواً أى أصبتُ مِنْه وقَمَرتُه. قال:\nصَحَا القَلْبُ بعد الإلْفِ وارتَدَّ شَأْوُهُ … ورَدَّتْ عَلَيْهِ ما بَعَتْهُ تُماضِرُ (٢)\nقال الأصمعىّ: يقال أبْعَيْتُ فلاناً فَرَساً، فى معنَى أخْبَلْتُه (٣)، وذلك إذا أَعَرْتَه إيَّاه ليغْزُوَ عليه. والاستبعاء أن يَستعِير الرَّجلُ فَرَساً من آخَرَ يسابِق عليه. يقال استبعَيتُه فأبْعَانى؛ وهو البَعْو. قال الكميت:\nليستَبْعِياَ كَلْباً بَهِيماً مُخَزَّماً … ومَنْ يَكُ أفْيالاً أُبُوَّتُهُ يَفِلْ",
+ "az": "[بعوى] الباء، العين، الواو və الياء — iki əsas kökə malikdir: cinayət törətmək və bir şeyi əvəzsiz olaraq (və ya qumarda) əldə etmək. Birinci əsas onların «بَعَوْتُ أبْعُو وأبْعَى» (cinayət etdim) demələridir. Övf ibn əl-Əhvəs demişdir: Və mənim heç bir günahım yoxkən övladlarımı girov qoymağım… bunu cinayət olaraq etdilər, nə də axıdılmış bir qan səbəbilə (١). Dedilər ki, buradan «بَعَوْتُه بَعَينِى» — yəni ona gözümlə toxundum, zərər yetirdim sözü də gəlir. İkinci əsas isə «البَعْو» (borcəgötürmə, qumar) sözüdür. Xəlil demişdir: Bu, əvəzsiz olaraq istifadəyə verilən əşyadır (عاريّة); «استَبْعَيْتُ منه» — yəni ondan borc istədim, deməkdir. O həm də demişdir ki, «البَعْو» qumardandır, «بَعَوْتُه بَعْواً» — yəni ondan bir şey əldə etdim və onu qumarda uddum, deməkdir. O demişdir: Ülfətdən sonra qəlr saflandı və onun çapıq yeri qayıtdı… Və Tumaḍir mənim etdiyim (qumarı) mənə qaytardı (٢). Əsməi demişdir: «أبْعَيْتُ فلاناً فَرَساً» — yəni mən filankəsə döyüşə minməsi üçün at verdim mənasında işlədilir, bu, «أخْبَلْتُه» (٣) mənasındadır. Bu, ona döyüşməsi üçün at əmanət etdiyin zaman olur. «الاستبقاء» — bir nəfərin başqasından yarışmaq üçün at istəməsidir. Deyirlər: «استبعَيتُه فأبْعَانى» (mən ondan at istədim, o da mənə verdi); bu da «البَعْو»-dur. Kumeyt demişdir: Kəlb qəbiləsindən boynuna ip bağçalanmış qara atı borc istəsinlər… Ataları igid olan şəxs igidlik göstərər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

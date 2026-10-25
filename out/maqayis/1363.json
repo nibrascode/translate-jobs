@@ -1,0 +1,17 @@
+{
+ "i": 1363,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 330,
+  "page_to": 330
+ },
+ "ar": "الدال والجيم والنون قياسُه قياسُ الدال والجيم واللام.\nفالدَّجْن: ظلُّ الغيم فى اليوم المَطِر (٤). وأدْجَنَ المطرُّ: دامَ أيّاماً. والمُداجَنةُ:\nحُسن المخالَطة. والدُّجُنَّة: الظلماء. وفى كتاب الخليل قال: لو خفّفه الشاعر لجازَ له. قال حُمَيدٌ (٥):\n* حتَّى إِذا انجلَتْ دُجَى الدُّجُونِ *\nومن الباب دَجَن دُجُوناَ: أقام والشَّاةُ الدّاجِن: التى تَأْلف البيوت.\nواللّه أعلم.",
+ "az": "[دجن] الدال والجيم والنون قياسُه قياسُ الدال والجيم واللام. (الدال, cim və nun – onun qiyasındakı qiyas dal, cim və lam kimidir). فالدَّجْن (əddəcn): Yağışlı gündə buludun kölgəsi (٤). وأدْجَنَ المطرُّ (Yağış ədcənə etdi): günlərlə davam etdi. والمُداجَنةُ (müdəcənəh): Gözəl ünsiyyət qurmaq. والدُّجُنَّةُ (əddücünnəh): Qaranlıq. Xəlilinin kitabında demişdir: Əgər şair onu yüngülləşdirsəydi (təxfif etsəydi), ona icazəli olardı. Hüməyd demişdir (٥): * حتَّى إِذا انجلَتْ دُجَى الدُّجُونِ * (Hətta qaranlıqların qaranlığı açıldığı zaman). Bu بابdandır: دَجَن دُجُوناَ (dəcənə dəcunən): İqamət etdi, və دَاجِن (dacin) qoyun: evlərə alışan. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

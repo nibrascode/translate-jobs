@@ -1,0 +1,17 @@
+{
+ "i": 1470,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رسف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 392,
+  "page_to": 392
+ },
+ "ar": "الراء والسين والفاء أُصَيلٌ يدلُّ على مقارَبَة المَشْى، فالرّسْفُ: مَشْى المقيَّد، ولا يكون ذلك إلاّ بمقارَبَةٍ. رَسَفَ يَرْسُف ويَرْسِف رَسْفاً ورَسِيفاً ورَسَفاناً. قال أبو زيد: أرسفْتُ الإِبلَ، إذا طردْتَها بأَقْيَادِها.",
+ "az": "[رسف] (Rə, sin və fa) yerişi yaxınlaşdırmağa (kiçik addımlarla yeriməyə) dəlalət edən kiçik bir əsasdır. Ər-rəsfu — buxovlunun yerişidir və bu, ancak addımları yaxınlaşdırmaqla olur. Rəsəfə yərsüfu və yərsifü rəsfan və rəhifən və rəsəfənan (addımlarını yaxınlaşdıraraq yeri). Əbu Zeyd demişdir: Ərsüftül-iblə — dəvələri buxovları ilə qovduğun zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:45.682Z"
+}

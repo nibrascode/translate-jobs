@@ -1,0 +1,17 @@
+{
+ "i": 923,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حكى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 92,
+  "page_to": 92
+ },
+ "ar": "الحاء والكاف وما بعدها معتلٌّ أصلٌ واحد، وفيه جنس من المهموز يقاربُ معنى المعتلّ والمهموز منه، هو إحكام الشئ بعَقْدٍ أو تقرير.\nيقال حَكَيْتُ الشئَ أحْكيه، وذلك أن تفعلَ مثلَ فعل الأوّل. يقال فى المهموز:\nأحْكَأْت العُقدة، إذا أحكمتَها. ويقال: أحكأتُ ظَهْرِى بإزارى، إذا شددتَه.\nقال عدىّ:\nأجْلِ أنّ اللّه قد فضّلكم … فوق مَنْ أحْكأ صُلْباً بإزارِ (٢)\nوقال آخر:\nوأحْكَأَ فى كَفَّىَّ حَبْلى بِحبْلِهِ … وأَحْكَأَ فى نعلى للرجلٍ قِبَالَهَا (٣)",
+ "az": "«حكى» (bənzətmək, təqlid etmək). Ḥa, kaf və zəif hərf bir əsl olub, orada müəlləq/zəif mənalara yaxınlaşan həmzəli növlər də vardır; o da bir şeyi düyün və ya qəti qərarla möhkəmlətməkdir. «حَكَيْتُ الشئَ أحْكيه» (Bir şeyə bənzətdim, onu təkrar edirəm) deyilir, bu da birincinin etdiyini etməyindir. Həmzəli formalarda deyilir: «أحْكَأْت العُقدة» (düyünü möhkəmlatdim), onu möhkəm etdiyin zaman. Və deyilir: «أحكأتُ ظَهْرِى بإزارى» (belimi izarımla möhkəmlatdim), onu bağladığın zaman. \nAdiy demişdir:\nأجْلِ أنّ اللّه قد فضّلكم … فوق مَنْ أحْكأ صُلْباً بإزارِ (٢)\n(Buna görə ki, Allah sizi üstün etmişdir … izarla belini möhkəmlədən hər kəsdən üstün).\nBaşqası da demişdir:\nوأحْكَأَ فى كَفَّىَّ حَبْلى بِحبْلِهِ … وأَحْكَأَ فى نعلى للرجلٍ قِبَالَهَا (٣)\n(Və o, mənim əlimdə ipimi ipinə bağlayıb möhkəmlətdi … və ayaqqabımın qayışını ayağım üçün bərkitdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:33.899Z"
+}

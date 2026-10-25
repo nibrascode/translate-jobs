@@ -1,0 +1,17 @@
+{
+ "i": 1340,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ديك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 318,
+  "page_to": 318
+ },
+ "ar": "الدال والياء والكاف ليس أصلاً يتفرّغ منه، إِنَّما هو الدِّيك. ويقولون: هو عُظَيمٌ ناتئ فى جَبْهة الفرس (٢). وليس هذا بشئ.",
+ "az": "[ديك] \nالدال (dal), الياء (yə) və الكاف (kaf) törəyən bir əsas deyil, sadəcə الدِّيك (xoruz) sözüdür. Və deyirlər: atın alın nahiyəsində qabarıq kiçik bir sümükdür. Lakin bu, heç bir əsasa əsaslanmır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:41.111Z"
+}

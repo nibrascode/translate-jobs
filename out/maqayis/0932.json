@@ -1,0 +1,17 @@
+{
+ "i": 932,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حلز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 96,
+  "page_to": 96
+ },
+ "ar": "الحاء واللام والزاء أصلٌ صحيح. يقال للرَّجُل القصير حِلِّزٌ، ويقال هو السيئ الخُلُق. ويقال الحَلْز؛ القَشْر؛ حلزت الأديمَ قشرتُه. قال ابن الأعرابىّ: ومنه الحارث بن حِلِّزة.",
+ "az": "«حلز» (hələz): الحاء واللام والزاء أصلٌ صحيح (Hə, lam və zay səhih bir kökdür). يقال للرَّجُل القصير حِلِّزٌ (Gdsqa kişiyə hilliz deyilir), ويقال هو السيئ الخُلُق (və onun əxlaqsız olduğu deyilir). ويقال الحَلْز؛ القَشْر (və həlz: soyulmaq, deyilir); حلزت الأديمَ قشرتُه (dərini hələzt etdim - soydum). قال ابن الأعرابىّ (İbn əl-Ərabi demişdir): ومنه الحارث بن حِلِّزة (və onlardandır Haris ibn Hillizə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:59.121Z"
+}

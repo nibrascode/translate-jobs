@@ -1,0 +1,17 @@
+{
+ "i": 879,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حصل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 68,
+  "page_to": 68
+ },
+ "ar": "الحاء والصاد واللام أصلٌ واحد منقاس، وهو جمع الشئ، ولذلك سمِّيت حَوصلةُ الطائر؛ لأنّه يجمع فيها. ويقال حَصَّلت الشئَ تحصيلا.\nوزعم ناسٌ من أهل اللغة أنّ أصل التحصيل استخراجُ الذّهب أو الفضّة من الحجر أو من تراب المَعِدن؛ ويقال لفاعله المحصِّل. قال:\nألا رجلٌ جزاهُ اللّه خيراً … يدلُّ على محصِّلة تُبِيتُ (١)\nفإن كان كذا فهو القياسُ، والباب كلُّه محمول عليه.\nوالحَصَل: البلح قبل أن يشتدّ ويظهر ثَفارِيقُه (٢)، الواحدةُ حَصَلة. قال:\n* ينحَتُّ منهُنّ السَّدَى والحَصْلُ (٣) *\nالسَّدَى: البَلَح الذاوِى، الواحدة سَداة. وهذا أيضاً من الباب، أعنى الحصَل، لأنه حُصِّل من النخلة.\nومما شذّ عن الباب وما أدرى ممّ اشتقاقه، قولهم: حَصِلَ الفرسُ، إذا اشتكى بَطْنَهُ عن أكل التُّراب.",
+ "az": "[حصل] Ha (ha), Sad (sad) və Lam (lam) tək bir kökdür və ölçüyə uyğundur, bu da bir şeyi toplamaqdır, buna görə də quşun «حَوصلة» (hövsələ) - mədəsi belə adlandırılmışdır, çünki o, orada toplayır. «حَصَّلت الشئَ تحصيلا» (Şeyi əldə etdim, əldə etmək) deyilir. Dil alimlərindən bəziləri iddia edirlər ki, «التحصيل» (ət-təhsil) sözünün əsli qızıl və ya gümüşün daşdan və ya mədən torpağından çıxarılmasıdır; bunu edənə «المحصِّل» (əl-muhəssil) deyilir. O demişdir: «ألا رجلٌ جزاهُ اللّه خيراً … يدلُّ على محصِّلة تُبِيتُ» (Kaş Allahın xeyir mükafatlandırdığı bir adam olaydı ki, gecələyən bir məhsilləyə yol göstərəydi) (١). Əgər belədirsə, bu ölçüdür və bütün bab buna əsaslanır. «الحَصَل» (əl-həsəl) - xurmanın sərtləşməmiş və saplaqları görünməmişdən əvvəlki halıdır, təkliyi «حَصَلة» (həsələ) gəlir. O demişdir: «ينحَتُّ منهُنّ السَّدَى والحَصْلُ» (Onlardan sədə və həsl tökülür) (٣). «السَّدَى» (əs-səda) - qurumuş xurmadır, təkliyi «سَداة» (sədah) gəlir. Bu da həmin babdandır, yəni «الحصَل» (əl-həsəl), çünki o, xurma ağacından əldə edilmişdir. Babdan kənar olan və haradan törədiyini bilmədiyim ifadə isə onların «حَصِلَ الفرسُ» (At xəstələndi) demələridir, bu, at torpaq yediyi üçün qarnından şikayət etdikdə deyilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:57:37.546Z"
+}

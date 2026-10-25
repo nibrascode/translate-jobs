@@ -1,0 +1,17 @@
+{
+ "i": 810,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 13,
+  "page_to": 13
+ },
+ "ar": "الحاء والضاد أصلان: أحدهما البَعْث على الشئ، والثانى القَرارُ المسْتَفِلُ.\nفالأول حضَضْته على كذا، إذا حَضّضْتَه عليه وحَرّضْتَه. قال الخليل: الفرق بين الحضّ والحثّ أنّ الحثّ يكون فى السير والسَّوقِ وكلِّ شئ، والحضّ لا يكون فى سير ولا سَوْق.\nوالثانى الحضيض، وهو قَرار الأرض. قال:\n* نزَلْتُ إليه قائماً بالحَضِيضِ (٣) *",
+ "az": "[حض] (Hə və dad) iki əsas kökdür: Biri bir işə sövq etmək, digəri isə aşağıda qərar tutmaqdır.\n\nBirincisi، حَضَضْتُهُ عَلَى كَذَا (həzəztuhu alə kəzə) – onu buna təşviq etdin və həvəsləndirdin. Əl-Xəlil demişdir: Həz (təşviq) ilə həss (sürtmək, tələsdirmək) arasındakı fərq odur ki, həss gedişdə, qovmada və hər şeydə olur, həz isə nə gedişdə, nə də qovmada olur.\nİkincisi, اَلْحَضِيضُ (əl-həDİZu) – yerin alt qatı, ətəyidir. Şair demişdir:\n* نزَلْتُ إليه قائماً بالحَضِيضِ (٣) *\n*(Ətəkdə ayaq üstə duraraq ona tərəf endim)*",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:53:07.764Z"
+}

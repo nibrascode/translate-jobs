@@ -1,0 +1,17 @@
+{
+ "i": 712,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 491,
+  "page_to": 491
+ },
+ "ar": "الجيم والواو والياء أصلٌ يدلُّ على كراهة الشئ. يقال اجتَوَيْت البلادَ، إذا كرِهتَها وإنْ كنتَ فى نَعْمةٍ، وجَوِيتُ قال:\nبَشِمْتُ بَنِيَّها وجَوِيْتُ عنها … وعندى لو أردتُ لها دواءِ (١)\nومن هذا الجَوَى، وهو داءُ القلْب. فأمّا الجِوَاءُ فهى الأرض الواسعة، وهى شاذةٌ عن الأصل الذى ذكرناه.",
+ "az": "[جوى] \nCim, vau və ya hərfləri bir şeydən xoşlanmamağa, ikrah etməyə dəlalət edən bir əslə qayıdır. Deyilir: اجتَوَيْت البلادَ (icnəvytul-bilad) – nemət içində olsan belə, o diyarı xoşlamadın, ikrah etdin. جَوِيتُ (cəvitu) – demişdir:\nبَشِمْتُ بَنِيَّها وجَوِيْتُ عنها … وعندى لو أردتُ لها دواءِ (١)\n(Onun uşaqlarından doydum və ondan ikrah etdim… Halbuki istəsəydim, onun üçün dərmanım da olardı.)\nBununlardandır: الْجَوَى (əl-cəvə) – qəlb xəstəliyi. Qaldı ki, الْجِوَاءُ (əl-civau) – gen-bol torpaqdır, bu isə qeyd etdiyimiz əsldən kənara çıxan (şaz) bir kəlmədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

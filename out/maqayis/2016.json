@@ -1,0 +1,17 @@
+{
+ "i": 2016,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سخب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 147,
+  "page_to": 147
+ },
+ "ar": "السين والخاء والباء كلمةٌ لا يقاس عليها. يقولون: السِّخاب:\nقِلادَةٌ من قَرنفُلٍ أو غيره، وليس فيها من الجواهر شئ، والجمع سُخُب.",
+ "az": "«سخب» (sin, xə və ba) qiyas olunmayan bir kəlmədir. Deyirlər: «السِّخاب» – qərənfil və ya başqa şeydən olan boyunbağıdır, içində heç bir cəvahirat yoxdur, cəmi isə «سُخُب»dür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

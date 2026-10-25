@@ -1,0 +1,17 @@
+{
+ "i": 917,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حقد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 89,
+  "page_to": 89
+ },
+ "ar": "الحاء والقاف والدال أصلان: أحدهما الضَغن، والآخر ألاَّ يُوجَد ما يطلب.\nفالأوّل الحِقْد، ويجمع على الأحقاد. والآخَر قولُهم أحقَدَ القومُ، إذا طلبوا الذَّهبةَ فى المعدِن فلم يجدُوها.",
+ "az": "«حقد» (kin). Ḥa, qaf və dal iki əslidir: biri kin, digəri isə axtarılan şeyin tapılmamasıdır. Birincisi: «الحِقْد» (əl-ḥiqd — kin), «أحقاد» (əhqad) olaraq cəmlənir. Digəri isə onların «أحْقَدَ القومُ» (qövm qızıl/mədən axtarıb tapmadı) sözüdür, mədəndə qızıl axtarıb tapmadıqları zaman deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:33.899Z"
+}

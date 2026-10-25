@@ -1,0 +1,17 @@
+{
+ "i": 335,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 310,
+  "page_to": 311
+ },
+ "ar": "الباء والهاء واللام. أصول ثلاثة: أحدهما التّخلية، والثانى جِنْسٌ من الدُّعَاء، والثالث قِلَّةٌ فى الماء.\nفأمّا الأوّل فيقولون: بَهَلْتُه، إذا خَلَّيْتَه وإرادَتَه. ومن ذلك النَّاقة الباهِلُ، وهى التى لا سِمَة عليها. ويقال [التى] لا صِرَارَ عليها. ومنه حديث المرأة (١) لِبعلها:\n«أبثَثْتُكَ مكتومى، وَأطعمتُك مأْدُومى، وأَتَيْتُك باهلاً غَيْرَ ذاتِ صِرَارٍ»، وقد أراد تطليقها.\nوأمّا الآخَر فالابتهال والتضرُّع فى الدُّعاء. والمباهلةُ يرجع إلى هذا، فإِنَّ المُتَبَاهِلَينِ يدعُو كلُّ واحدٍ منهما على صَاحِبِه. قال اللّه تعالى: ﴿ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَتَ اَللّهِ عَلَى اَلْكاذِبِينَ﴾.\nوالثالث البَهْل وهو الماء القَلِيل.",
+ "az": "«ب» (با), «ه» (هə) və «ل» (lam). Üç əsas məna: biri sərbəst buraxmaq, diğəri bir növ dua, üçüncüsü isə suda azlıq.\n\nBirincisinə gəldikdə, «بَهَلْتُه» (mən onu sərbəst buraxdım) – yəni onu istəyi ilə baş-başa buraxdım. Bunlardan biri də «الباهِلُ» dəvəsidir, o dəvədir ki, üzərində heç bir damğa yoxdur. Deyilir ki, [o dəvədir ki,] südü saxlanmaq üçün məməsinə sarğı vurulmur. Qadının ərinə söylədiyi hədisdə də belə gəlmişdir (١):\n«أبثَثْتُكَ مكتومى، وَأطعمتُك مأْدُومى، وأَتَيْتُك باهلاً غَيْرَ ذاتِ صِرَارٍ»\n(Sirrimi sənə açdım, qatıqlı yeməyimi sənə yedirtdim, yanına məməsi sarılmamış, sərbəst halda gəldim), və qadın bununla boşanmaq istədiyini bildirmişdi.\n\nDigərinə gəldikdə, duada «الابتهال» (ibtihal) – yalvarış və tazarru etməkdir. «المباهلة» (mübahələ) də buna qayıdır, çünki qarşılıqlı mübahələ edən hər iki şəxs digərinin əleyhinə dua edir. Uca Allah buyurmuşdur: ﴿ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَتَ اَللّهِ عَلَى اَلْكاذِبِينَ﴾ (mənaca tərcümə: Sonra ibtihal edək [yalвараq dua edək] və Allahın lənətini yalançıların üzərinə abyaq).\n\nÜçüncüsü isə «البَهْل» – yəni az miqdarda olan su.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:34:14.633Z"
+}

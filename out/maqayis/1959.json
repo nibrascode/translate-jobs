@@ -1,0 +1,17 @@
+{
+ "i": 1959,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 118,
+  "page_to": 118
+ },
+ "ar": "السين والواو واللام أصلٌ يدلُّ على استرخاءٍ فى شئ يقال سَوِلَ يَسْوَلُ سَوَلا. قال الهذلىّ (٢):\nكالسُّحْلِ البيض جلا لونَها … سَحُّ نِجَاءِ الحَمَل الأسْوَلِ\nفأمّا قولهم سَوَّلْتُ له الشئَ، إذا زيّنتَه له، فممكن أن تكون أعطيته سُؤلَه، على أن تكون الهمزةُ مُلَيَّنَةً من السُّؤل.",
+ "az": "[سول] Sin, vaf və lam hərfləri bir şeydə boşluğa və zəifliyə dəlalət edən bir əslir. Deyilir: «سَوِلَ يَسْوَلُ سَوَلا» (zəiflədi/boşaldı). Hüzəli demişdir (٢):\nكالسُّحْلِ البيض جلا لونَها … سَحُّ نِجَاءِ الحَمَل الأسْوَلِ\nAmma onların «سَوَّلْتُ له الشئَ» (mən ona filan şeyi gözəl göstərdim/bəzədim) sözlərinə gəlincə, bu, ola bilsin ki, ona istədiyini (سُؤل) vermək mənasından götürülmüşdür, o şərtlə ki, həmt hərfi «السُّؤل» sözündən yumşaldılmış (dəyişdirilmiş) olsun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

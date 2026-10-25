@@ -1,0 +1,17 @@
+{
+ "i": 1264,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 288,
+  "page_to": 288
+ },
+ "ar": "الدال والفاء والراء أصلٌ واحد، وهو تغيُّر رائحةٍ. والدَّفَر:\nالنَّتْن. يقولون للأَمَة: يَادَفَارِ. والدُّنيا تسمَّى أمَّ دَفْرٍ. وكتيبةٌ دَفْرَاءِ، يُراد بذلك روائحُ حديدِها.\nوقد شذت عن الباب كلمةٌ واحدة إن كانت صحيحة، يقولون: دفَرْتُ الرّجلَ عنِّى، إذا دفعْتَه (١).",
+ "az": "«دفر» (د-ف-ر): dal, fa və ra hərfləri qoxunun dəyişməsinə dəlalət edən tək bir əsasdır. «الدَّفَر» (əddəfər) – üfunət, pis qoxudur. Cariyəyə deyirlər: «يَادَفَارِ» (Ey dəfar!). Dünya «أمَّ دَفْرٍ» (Ummü Dəfr) adlandırılır. Dəmir silahlarının qoxusu nəzərdə tutularaq döyüş dəstəsinə «كتيبةٌ دَفْرَاءِ» (dəfra dəstəsi) deyilir.\nƏgər səhihdirsə, bu babdan tək bir kəlmə istisna edilmişdir, deyirlər: «دفَرْتُ الرّجلَ عنِّى» – yəni kişini özümdən kənarlaşdırdım / itələdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.299Z"
+}

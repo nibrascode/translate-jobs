@@ -1,0 +1,17 @@
+{
+ "i": 343,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بوخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 316,
+  "page_to": 316
+ },
+ "ar": "الباء والواو والخاء كلمةٌ فَصيحة، وهو السُّكون. يقال باخَت النار بَوْخاً سَكَنَتْ، وكذلك الحَرُّ. ويقال باخَ، إذا أعيا؛ وذلك أنَّ حَرَكاتِه تَبُوخ وتَفْتُر.",
+ "az": "«ب» (با), «و» (vav) və «خ» (xı) fasih bir kəlmədir, o da sükun, sakitləşməkdir. Deyilir: «باخَت النار بَوْخاً» – od sakitləşdi, istilik də həmçinin. Həmçinin yorulduqda «باخ» deyilir; çünki onun hərəkətləri səngiyir və zəifləyir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:34:14.634Z"
+}

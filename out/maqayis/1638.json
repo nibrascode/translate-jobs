@@ -1,0 +1,17 @@
+{
+ "i": 1638,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 470,
+  "page_to": 470
+ },
+ "ar": "الراء والياء والنون أصلٌ يدلُّ على غِطاء وسَتْر. فالرَّيْن:\nالغِطاء على الشئ. وقد رِينَ عليه. كأنّه غُشِى عليه. ومن هذا\nحديث عمر:\n«أَلَا إن الأُسَيفِعَ أُسَيْفِعَ جُهَيْنة، رضِىَ مِنْ دِينه بأن يقال سَبَقَ الحاجّ، [فادّانَ مُعْرِضاً (١)]، فأصبَحَ قد رِينَ به». يريد أنّه مات. وران النُّعاسُ يَرِين.\nورانَت الخمْرُ عَلَى قلبه: غَلَبَتْ. ومن الباب: رانَتْ نفسى تَرِين، أى غَثَتْ.\nومنه أرَانَ القومُ فهم مُرِينُونَ، إذا هَلَكت مواشِيهم. وهو من القياس؛ لأنَّ مواشيهم، إذا هلكت فقد رِينَ بها.",
+ "az": "«رين»: (Ra, Ya, Nun) örtük və pərdəyə dəlalət edən bir əsldir. الرَّيْن (ər-reyn): şeyin üzərindəki örtük. وَرِينَ عَلَيْهِ (və rine aleyhi) - sanki huşunu itirmişdir. Ömər hədisində də buna bənzər gəlmişdir: «أَلَا إن الأُسَيفِعَ أُسَيْفِعَ جُهَيْنة، رضِىَ مِنْ دِينه بأن يقال سَبَقَ الحاجّ، [فادّانَ مُعْرِضاً (١)]، فأصبَحَ قد رِينَ به» (Agah olun ki, Cüheynənin kiçik səfiki (başçısı) dinindən razı qaldı ki, camaat desin: \"Həccə gedənləri qabaqladı\", [borca girdi və beləcə laqeyd qaldı (1)], və səhər açıldı ki, artıq onun işi bitdi). Bununla onun öldüyünü qəsd edir. وَرَانَ النُّعاسُ يَرِينُ (mürgüləmək basdı). وَرَانَتِ الخَمْرُ عَلَى قَلْبِهِ (şərab qəlbinə qalib gəldi). Bu babdandır: رَانَتْ نَفْسِي تَرِينُ (ürəyim bulandı, qusmaq gəldi). Həmçinin: أَرَانَ الْقَوْمُ فَهُمْ مُرِينُونَ (mal-qarası tələf olan camaat). Bu qiyasdandır, çünki mal-qaraları tələf olduqda artıq onlara rəyn (fəlakət) gəlmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.916Z"
+}

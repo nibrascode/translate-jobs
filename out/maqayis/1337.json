@@ -1,0 +1,17 @@
+{
+ "i": 1337,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 318,
+  "page_to": 318
+ },
+ "ar": "الدال والياء والراء أظُنه منقلباً عن الواو، من الدَّار والدوْر.\nومن الباب الدَّيْر. وما بها دَيُّورٌ ودَيَّارٌ، أى أحدٌ. ومن الباب الذى ذكرْناه قال ابنُ الأعرابىّ: يقال للرجل إذا كان رأسَ أصحابه: هو رأس الدَّيْر.",
+ "az": "[دير] \nالدال (dal), الياء (yə) və الراء (ra) — güman edirəm ki, دار (ev) və دور (dövr etmək) sözündəki vav hərfindən dəyişərək yə olmuşdur.\n\nVə bu qapıdandır: الدَّيْر (ə-deyr - monastır). Və ما بها دَيُّورٌ ودَيَّارٌ (orada heç bir kəs yoxdur), yəni heç kəs yoxdur. Zikr etdiyimiz bu qapıdan İbn əl-Ərəbi demişdir: Kişiyə öz dostlarının başçısı olduqda deyilir: هو رأس الدَّيْر (O, deyrin / məclisin başçısıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:41.111Z"
+}

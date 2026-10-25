@@ -1,0 +1,17 @@
+{
+ "i": 215,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بذأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 217,
+  "page_to": 217
+ },
+ "ar": "الباء والذال والهمزة أصلٌ واحد، وهو خروج الشئ عن طريقةِ الإحْماد، تقول: هو بَذِئِ اللِّسان، وقد بَذَأْتُ على فلانٍ أبْذَأُ بُذاءً.\nويقال بَذَأت المكانَ أبذَؤُه، إذا أتيتَه فلم تُحْمِدْه.",
+ "az": "[بذأ] الباء والذال والهمزة (ba, zal və həmzə) bir əsl olub, bir şeyin təriflənmə yolundan çıxmasıdır. Deyirsən: «هو بَذِئِ اللِّسان» (onun dili nalayiqdir, dili pisdir) və «بَذَأْتُ على فلانٍ أبْذَأُ بُذاءً» (mən filankəsə qarşı nalayiq danışdım, söydüm).\n«بَذَأت المكانَ أبذَؤُه» (mən həmin yerə gəldim və onu bəyənmədim) — oraya gəldiyin və onu tərifləmədiyin zaman deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

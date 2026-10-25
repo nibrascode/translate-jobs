@@ -1,0 +1,17 @@
+{
+ "i": 762,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهضم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 507,
+  "page_to": 507
+ },
+ "ar": "ومن ذلك قولهم للضخم الهامة المستديرِ الوجه (جَهْضَمٌ). فهذا من الجَهْم ومن الهَضَم. والهَضَم: انضمامٌ فى الشئ. ويكون أيضاً من أهضام الوادى، وهى أعاليه. وهذا أقْيَسُ من الذى ذكرناه فى الهَضَم الذى معناه الانضمام.",
+ "az": "«جهضم» - Və buraya başı böyük, üzü dairəvi olan adama «جَهْضَمٌ» (cəhdəm) deyilməsi daxildir. Bu da جَهْم (cəhm) və هَضَم (hədəm) sözlərindəndir. الهَضَم (hədəm): bir şeyin içinə doğru büzüşməsi, qatlanmasıdır. Həmçinin vadinin yuxarı hissələri olan أهضام الوادى (əhdam əl-vadi) mənasından da ola bilər. Bu, bizim هَضَم (hədəm) haqqında zikr etdiyimiz, mənası büzüşmək olan sözdən daha ölçülü və doğrudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.217Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 151,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 156,
+  "page_to": 157
+ },
+ "ar": "الهمزة والواو والسين كلمة واحدة، وهى العطيّة.\nوقالوا أُسْتُ الرّجُلَ أَؤُوسُه أَوساً أعطيته. ويقال الأُوْس العِوَض. قال الجعدىّ:\nثلاثةَ أهْلين أفنَيْتُهُمْ … وكان الإِله هو المستآسا (٧)\nأى المُسْتَعاض. وأوسٌ: الذئب، ويكون اشتقاقه مما ذكرناه، وتصغيره أُوَيْس. قال:\n* ما فَعَلَ اليومَ أُوَيْسٌ فى الغَنَمْ * (١)",
+ "az": "[أوس] (əvs): Həmzə, vav və sin bir kəlmədir, o da bəxşiş deməkdir. Dedilər ki: أُسْتُ الرّجُلَ أَؤُوسُه أَوساً (əstür-rəculə əüusuhu əvsən) — ona əta etdim. Deyilir ki, الْأُوْس (əl-üvs) əvəz deməkdir. Cədi demişdir: ثلاثةَ أهْلين أفنَيْتُهُمْ … وكان الإِله هو المستآسا (Üç ailə məhv etdim… və ilah Özü qayıdış yeri oldu) (٧) — yəni əvəzi verilən. وَأُسْ (əvs) — qurd; bu da qeyd etdiyimiz mətləbdən törəmiş ola bilər, kiçiltmə forması isə أُوَيْس (üveys) olur. O demişdir: * ما فَعَلَ اليومَ أُوَيْسٌ فى الغَنَمْ * (Bu gün Üveys qoyunlar içində nə etdi?) (١)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:24:55.392Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 685,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "الجيم والميم والدال أصلٌ واحد، وهو جُمُوس الشئ المائع من بردٍ أو غيره. يقال: جَمَدَ الماء يجمُد. وَسَنَةٌ جَمادٌ قليلة المطر. وهذا محمولٌ على الأوَّل، كأَنَّ مطرها جَمَدَ. وكان الشّيبانى يقول: الجماد الأرض لم تمْطرْ.\nويقول العرب للبخيل: «جَمادِ له»، أى لا زال جامدَ الحال. وهو خلاف حَمَادِ.\nقال المتلمّس:\nجَمَادِ لها جَمَادِ ولا تقولى … لها أبداً إذا ذُكِرتْ حَمَادِ (١)",
+ "az": "«جمد» — جيم، ميم və دال hərfləri soyuqdan və ya başqa səbəbdən maye şeyin donmasına dəlalət edən tək bir kökdür. Deyirlər: جَمَدَ الماءُ يجمُدُ (su dondur, donur). وَسَنَةٌ جَمَادٌ (camad il) — az yağışlı il deməkdir. Bu, birinciyə əsasən götürülmüşdür, sanki onun yağışı donmuşdur. Şeybani deyərdi: əl-camad — yağış yağmamış yerdir. Ərəblər xsis insana «جَمادِ له» (cəmadi ləh) yəni halı daim donmuş vəziyyətdə qalsın deyərlər. Bu, حَمَادِ (həmadi) sözünün ziddidir. Mütəlləmis demişdir: «جَمَادِ لها جَمَادِ ولا تقولى … لها أبداً إذا ذُكِرتْ حَمَادِ» (Onun üçün cəmadi olsun, cəmadi, xatırlandığı zaman ona heç vaxt həmadi demə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.350Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2485,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 410,
+  "page_to": 410
+ },
+ "ar": "الطاء والسين ليس أصلاً. والطَّسُّ لغةٌ فى الطَّسْت",
+ "az": "[طس] الطاء والسين ليس أصلاً (Ta və sin kök deyildir). والطَّسُّ لغةٌ فى الطَّسْت (Ət-təss – təst sözünün lüğətdəki formasıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:07:39.766Z"
+}

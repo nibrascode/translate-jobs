@@ -1,0 +1,17 @@
+{
+ "i": 601,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 430,
+  "page_to": 430
+ },
+ "ar": "الجيم والخاء والرَّاء: قُبْحٌ فى الشئ إذا اتسع. يقولون جَخَّرْنَا البئرَ وسَّعْناها. والجَخَرُ ذَمٌّ فى صفة الفم، قالوا: هو اتِّساعُه، وقالوا: تغيُّرُ رائحتهِ.",
+ "az": "[جخر]: الجيم والخاء والرَّاء: قُبْحٌ فى الشئ إذا اتسع (Cim, xa və ra hərfləri: genişləndikdə şeydə olan çirkinlikdir). يقولون جَخَّرْنَا البئرَ وسَّعْناها (Onlar «cəxxərnəl-birə» – quyunu genişləndirdik – deyirlər). والجَخَرُ ذَمٌّ فى صفة الفم، قالوا: هو اتِّساعُه، وقالوا: تغيُّرُ رائحتهِ (Əl-caxər – ağzın vəsfində pis sifətdir; onun geniş olması, yaxud qoxusunun dəyişməsi demişlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:06.593Z"
+}

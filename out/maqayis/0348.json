@@ -1,0 +1,17 @@
+{
+ "i": 348,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بوغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 320,
+  "page_to": 320
+ },
+ "ar": "الباء والواو والغين أصلٌ واحد، وهو ثَوَرَان الشَّئْ.\nيقال: تبوَّغ إذا ثار (٢)، مثل تبيَّغ. والبَوْغاء: التراب يثور عنه غُبَارُه.",
+ "az": "[بوغ] Ba, vav və ğın tək bir əsas kökdür, o da bir şeyin qaynayıb coşmasıdır. Deyilir: تبوَّغ (təbuvvəğ) – qaynayıb coşduğu zaman, tıpkı تبيَّغ (təbyəğ) kimi. Və البَوْغاء (əl-bovğau) – üzərindən toz-tozaq qaynayıb qalxan torpaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:05.794Z"
+}

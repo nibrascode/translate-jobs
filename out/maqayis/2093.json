@@ -1,0 +1,17 @@
+{
+ "i": 2093,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شقب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 202,
+  "page_to": 202
+ },
+ "ar": "الشين والقاف والباء كلمةٌ تدل على الطُّول. منها الرّجُل الشّوقب. ويقولون: إِنْ الشَّقْب كالغار فى الجبَل.",
+ "az": "[شقب] الشين (ش), القاف (ق) və Ba (ب) uzunluğa dəlalət edən bir kəlmədir. Bunlardan biri الرّجُل الشّوقب (şouqəb kişi) sözüdür. Deyirlər ki, الشَّقْب (əş-şəqb) dağdakı mağara kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:08.599Z"
+}

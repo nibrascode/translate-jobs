@@ -1,0 +1,17 @@
+{
+ "i": 1376,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دخش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "الدال والخاء والشين ليس بشئِ. وزعم ابنُ دريد (٦).\nأنّ الدَّخش فِعْلٌ مُماتٌ، يقال دَخِشَ دَخَشاً، إذا امتلأ لحماً. ومنه اشتقاق دَخْسَم.",
+ "az": "[دخش] (Də-xə-şə). Dal, xə və şin hərfləri heç bir şey (əhəmiyyətli kök) deyildir. İbn Dürid (٦) iddia etmişdir ki, دَخش (dəxş) işlənməyən bir feldir; deyilir ki, دَخِشَ دَخَشاً (dəxişə dəxəşən) — ətlə dolduğu zaman. دَخْسَم (dəxsəm) sözünün kökü buradan götürülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2536,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 433,
+  "page_to": 434
+ },
+ "ar": "الطاء والواو واللام أصلٌ صحيح يدلُّ على فضْلٍ وامتداد فى الشئ. من ذلك: طالَ الشَّئُ يطُول طُولا. قال أحمد بن يحيى ثعلبٌ: الطَّول:\nخلاف العَرض. ويقال طاوَلْت فلاناً فطُلْتُه، إذا كنتَ أطوَلَ منه. وطال فلاناً فلانٌ، أى إنه أطول منه. قال:\nإنّ الفرزدقَ صخرةٌ ملمومةٌ … طالت فليس تنالها الأوعالا (١)\nوهذا قياسٌ مطَّرد فى كلِّ ما أشبه ذلك، فيقال للحبل الطِّوَل؛ لطوله وامتداده.\nقال طرفة:\nلعمرُك إنّ الموتَ ما أخطأ الفتى … لكالطِّوَل المُرخَى وثِنياهُ فى اليدِ (٢)\nويقولون: لا أكلِّمه طَوَالَ الدَّهر. ويقال جملٌ أطوَلُ، إذا طالت شفتُه العليا. وطاولَنى فلانٌ فطُلْته، أى كنت أطولَ منه. والطُّوَال: الطَّويل.\nوالطِّوَال: جمع الطَّويل. وحكى بعضهم: قَلانِسُ طِيالٌ (٣)، بالياء. وأمرٌ غير طائلٍ، إذا لم يكن فيه غَناء. يقال ذلك فى المذكَّر والمؤنث. قال:\nوقد كلَّفُونى خُطَّةً غيرَ طائلِ (٤)\nوتطاولتُ فى قِيامى، إذا مددتَ رِجليكَ لتنظر. وطوِّلْ فرسَك، أى أرْخِ طويلتَه فى مرعاه (٥). واستطالُوا عليهم، إذا قتلوا منهم أكثر ممَّا قتلوا.",
+ "az": "[طول] (T-V-L): Ta, vav və lam hərfləri bir düzgün kökdür, bir şeydə üstünlüyə və uzanmağa dəlalət edir. Bunlardan: طالَ الشَّئُ يطُول طُولا (şey uzandı, uzunluq). Əhməd ibn Yəhya Sələb dedi: الطَّول (uzunluq): العَرض (en)-in əksidir. Deyilir ki, طاوَلْت فلاناً فطُلْتُه (filankəslə uzunluq yarışına girdim və ondan uzun oldum), əgər ondan daha uzun olsan. طال فلاناً فلانٌ (filankəs filankəsdən uzun oldu), yəni o, ondan daha uzundur. Dedi: إنّ الفرزدقَ صخرةٌ ملمومةٌ … طالت فليس تنالها الأوعالا (1) (Fərəzdəq hamar bir qaya kimidir... uzandı, dağ keçiləri ona çata bilməz). Bu, buna bənzər hər şeydə davamlı bir qiyasdır, buna görə də ipə الطِّوَل (uzun ip) deyilir; uzunluğuna və uzanmasına görə. Tərəfə dedi: لعمرُك إنّ الموتَ ما أخطأ الفتى … لكالطِّوَل المُرخَى وثِنياهُ فى اليدِ (2) (And olsun ömrünə, ölüm gənci səhv salmadı... sanki əldə buraxılmış və ucları əldə olan uzun bir ip kimidir). Deyirlər: لا أكلِّمه طَوَالَ الدَّهر (ömür boyu onunla danışmayacağam). Deyilir ki, جملٌ أطوَلُ (uzun dodaqlı dəvə), əgər üst dodağı uzanmışsa. طاولَنى فلانٌ فطُلْته (filankəs mənimlə uzunluq yarışına girdi və mən ondan uzun oldum), yəni mən ondan daha uzun idim. الطُّوَال (uzun). الطِّوَال (uzunlar): الطَّويل-in cəmidir. Bəziləri qeyd edir: قَلانِسُ طِيالٌ (3) (uzun papaqlar), ya hərfi ilə. أمرٌ غير طائلٍ (faydasız bir iş), əgər onda bir fayda yoxdursa. Bu, müzəkkər və müənnəsdə deyilir. Dedi: وقد كلَّفُونى خُطَّةً غيرَ طائلِ (4) (Mənə faydasız bir iş tapşırdılar). تطاولتُ فى قِيامى (ayaq üstə durarkən uzandım), əgər baxmaq üçün ayaqlarını uzatsan. طوِّلْ فرسَك (atını uzat), yəni otlağında onun uzun ipini boşalt (5). استطالُوا عليهم (onlara qarşı üstünlük qazandılar), əgər onlardan öldürdükləri, onların öldürdüklərindən daha çox olarsa.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:11:32.879Z"
+}

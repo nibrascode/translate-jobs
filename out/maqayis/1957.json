@@ -1,0 +1,17 @@
+{
+ "i": 1957,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 117,
+  "page_to": 117
+ },
+ "ar": "السين والواو والقاف أصل واحد، وهو حَدْوُ الشَّئ يقال سَاقَه يَسُوقُه سَوْقا. والسَّيِّقَة: ما اسْتِيق من الدوابّ. ويقال سُقْتُ إلى امرأتى صَدَاقها، وأسَقْتُه. والسُّوق مشتقّةٌ من هذا، لما يُساق إليها من كلَّ شئ، والجمع أسواق. والسَّاق للإِنسان وغيره، والجمع سُوق، إنّما سمّيت بذلك لأنَّ الماشى ينْساق عليها. ويقال امرأة سَوْقَاء، ورجلٌ أسْوَق، إذا كان عظيمَ السّاق.\nوالمصدر السَّوَق. قال رؤبة:\nقُبٌّ من التَّعْداء حُقْبٌ فى سَوَق (٣)\nوسُوق الحرب: حَومة القِتال، وهى مشتقّة من الباب الأول.",
+ "az": "[سوق] Sin, vaf və qaf hərfləri tək bir əslə malikdir, o da bir şeyi qabağına qatıb qovmaqdır. Deyilir: «سَاقَه يَسُوقُه سَوْقا» (onu qabağına qatıb qovdu). «السَّيِّقَة» (siyiqə) – qabağa qatılıb sürüsən heyvanlardır. Həmçinin deyilir: «سُقْتُ إلى امرأتى صَدَاقها» (arvadıma mehrini çatdırdım/sürüb apardım) və «أسَقْتُه» (onu verdim). «السُّوق» (bazar) sözü də bundan törəmişdir, çünki ora hər cür şey qovulub gətirilir, cəmi isə «أسواق» (bazarlar) kimidir. İnsanın və başqasının ayağına «السَّاق» (saq) deyilir, cəmi «سُوق» (saqlar) gəlir. O, məhz ona görə belə adlandırılmışdır ki, gəzən insan onun üzərində hərəkət edir/irəliləyir. Deyilir: «امرأة سَوْقَاء» (qalınsaqlı qadın) və «رجلٌ أسْوَق» (qalınsaqlı kişi), əgər ayağı yoğun olarsa.\nMəsdəri «السَّوَق» (səvəq) kimidir. Rübə demişdir:\nقُبٌّ من التَّعْداء حُقْبٌ فى سَوَق (٣)\n(Çapmaqdan arıqlamış, budları sümüklü və incə ayaqlı...)\n«سُوق الحرب» (müharibə bazarı/qızğın çağı) – döyüşün qızğın yeridir və o da birinci babdan törəmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

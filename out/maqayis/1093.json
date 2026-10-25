@@ -1,0 +1,17 @@
+{
+ "i": 1093,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خصن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 187,
+  "page_to": 187
+ },
+ "ar": "الخاء والصاد والنون ليس أصلاً. وفيه كلمةٌ واحدة إن صَحَّت. قالوا: الخَصِين: الفأس الصَّغيرة.",
+ "az": "[خصن] الخاء والصاد والنون ليس أصلاً. وفيه كلمةٌ واحدة إن صَحَّت. قالوا: الخَصِين: الفأس الصَّغيرة. (Xar, sad və nun hərfləri əsl deyildir. Əgər düzgündürsə, onda bir kəlmə vardır. Dedilər ki: əl-xəsin — kiçik balta.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:26.357Z"
+}

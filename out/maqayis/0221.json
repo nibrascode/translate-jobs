@@ -1,0 +1,17 @@
+{
+ "i": 221,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 219,
+  "page_to": 219
+ },
+ "ar": "الباء والراء والشين كلمةٌ واحدةٌ، وهو أن يكون الشئِ ذا نُقَطٍ متفرّقةٍ بِيضٍ. وكان جَذِيمَةُ أبرَصَ، فكُنِّىَ بالأبرش.",
+ "az": "[برش] الباء والراء والشين (ba, ra və şin) bir kəlmədir, o da bir şeyin üzərində müxtəlif ağ nöqtələrin olmasıdır. Cəzimə əbrəş (ala) idi, buna görə də ona Əbrəş ləqəbi verilmişdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2380,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 359,
+  "page_to": 359
+ },
+ "ar": "الضاد والجيم أصلٌ صحيح يدلُّ على صِياحٍ بضَجَر من ذلك ضجَّ يضِجُّ ضجيجا، وضجَّ القوم ضِجاَجاً. قال أبو عبيد: أضجَّ القوم إِضجاجاً، إِذا جَلبُوا (٣) وصاحُوا. فإذا جزِعوا من شئٍ وغُلِبوا قيل ضَجُّوا. وقال:\nالضِّجَاج: المشاغَبة والمُشارَّة. قال غيره: الضَّجُوج من الإبل؛ التى تضجُّ إِذا حُلِبَت.\nومما شذَّ عن هذا الباب: الضَّجاج (٤)، وهو خَرَز (٥).",
+ "az": "[ضج] (ض، ج) — Narahatlıqla səslənməyə dəlalət edən səhih bir əsasdır: ضجَّ يضِجُّ ضجيجا (fəryad etdi, inlədi), və ضجَّ القوم ضِجاَجاً (camaat hay-küy saldı). Əbu Übəyd demişdir: أضجَّ القوم إِضجاجاً (camaat hay-küy qaldırıb səsləndikdə). Bir şeydən üzüldükdə və məğlub olduqda ضَجَّوْا (fəryad etdilər) deyilir. Və demişdir: الضِّجَاج — mübahisə və dava-dalaşdır. Başqası demişdir: الضَّجُوج (dəvələrdən) — sağılanda səs-küy salan dəvədir.\nBu əsasdan kənara çıxan: الضَّجاج (əz-zəcəc) — muncuq növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.778Z"
+}

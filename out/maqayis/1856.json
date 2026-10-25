@@ -1,0 +1,17 @@
+{
+ "i": 1856,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سطن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 71,
+  "page_to": 71
+ },
+ "ar": "السين والطاء والنون، هو على مذهب الخليل أصلٌ، لأنه يجعل النون فيه أصلية. قال الخليل: أسْطُوانة أفْعُوَالة، تقول هذه أساطينُ مُسَطَّنة. قال: ويقال جملٌ أُسطوانٌ، إذا كان مرتفعا. قال:\nجَرَّبْنَ منِّى أُسطوانًا أعْنَقَا (٢)",
+ "az": "«سطن» (Sətən). Sin, ta və nun hərfləri Xəlilin məzhəbinə görə bir kökdür, çünki o, nun hərfini orada əsli hesab edir. Xəlil demişdir: Uştuvanətün (أُسْطُوانة) — əf’uvalətun (أَفْعُوَالة) vəznindədir, sən «hazihi asatinu musəttanətün» (هذه أساطينُ مُسَطَّنة) deyirsən. O dedi: Deyilir ki, uca olanda cəməlün ustuvanun (جَمَلٌ أُسطوانٌ) — uca dəvə. O dedi: جَرَّبْنَ منِّى أُسطوانًا أعْنَقَا — (Məndən uzun boyunlu ustuvanı (uca dəvəni) təcrübədən keçirdilər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:09.599Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1338,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ديف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 318,
+  "page_to": 318
+ },
+ "ar": "الدال والياء والفاء ليس بشئ. يقولون: الدِّيَافِىُّ منسوبٌ إلى أرضٍ بالجزيرة قال:\n* إذا سَافَهُ العَوْدُ الدِّيَافِىُّ جَرْجَرَا (١) *",
+ "az": "[ديف] \nالدال (dal), الياء (yə) və الفاء (fə) heç bir şey deyil. Deyirlər: الدِّيَافِىُّ (ə-diyafi) — Cəzirədə bir torpağa nisbət edilən sözdür. Şair demişdir:\n* إذا سَافَهُ العَوْدُ الدِّيَافِىُّ جَرْجَرَا (١) *\n(Ədiyafi cinsindən olan yaşlı dəvə onu qoxuladıqda xırıltılı səs çıxarardı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:41.111Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 931,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حلج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 96,
+  "page_to": 96
+ },
+ "ar": "الحاء واللام والجيم ليس عندى أصلا. يقال حَلَجَ القطنَ.\nوحَلجَ الخبزةَ: دَوَّرَها. وحَلَجَ القوم يَحْلجون ليلتهم، إذا سارُوها. وكلُّ هذا مما يُنظر فيه.",
+ "az": "«حلج» (hələc): الحاء واللام والجيم ليس عندى أصلا (Hə, lam və cim mənim yanımda kök deyil). يقال حَلَجَ القطنَ (Pambığı hələc etdi - çırptı, deyilir). وحَلجَ الخبزةَ: دَوَّرَها (və çörəyi hələc etdi - yuvarladı). وحَلجَ القوم يَحْلجون ليلتهم، إذا سارُوها (və qövm gecələrini hələc edirlər, gecəni gedib yol qət etdikləri zaman). وكلُّ هذا مما يُنظر فيه (və bütün bunlar nəzərdən keçiriləsi şeylərdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:59.121Z"
+}

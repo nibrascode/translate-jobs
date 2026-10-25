@@ -1,0 +1,17 @@
+{
+ "i": 789,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلحب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 512,
+  "page_to": 512
+ },
+ "ar": "ومن ذلك قولهم للشيخ الهِمِّ (جِلْحابَة). فهذا من قولهم جَلَحَ ولَحَبَ.\nأمَّا الجَلَح فذَهابُ شَعْرَ مقدَّم الرأس. وأمّا لحب فمن قولهم لُحِبَ لحمُهُ يُلْحَبُ، كأنه ذُهِبَ به. وطَرِيقٌ لَحْبٌ من هذا.",
+ "az": "«جلحب» - Və buraya qoca, əldən düşmüş kişiyə «جِلْحابَة» (cilhabə) deyilməsi daxildir. Bu, جَلَح (cələh) və لَحَب (ləhəb) sözlərindəndir. Cələh – başın ön hissəsinin saçının tökülməsidir. Ləhəb isə onların «لُحِبَ لحمُهُ يُلْحَبُ» (Əti kəsilib getdi) demələrindəndir, sanki əti aparılmışdır. Bərk, hamar yol mənasını verən طَرِيقٌ لَحْبٌ (təriqun ləhbün) də buradan alınmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

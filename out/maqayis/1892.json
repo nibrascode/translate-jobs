@@ -1,0 +1,17 @@
+{
+ "i": 1892,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سكب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 88,
+  "page_to": 88
+ },
+ "ar": "السين والكاف والباء أصلٌ يدلُّ على صبّ الشئ. تقول:\nسكب الماء يسكبه. وفرسٌ سَكْبٌ، أى ذرِيعٌ، كأنه يسكُبُ عدْوَه سكبا، وذلك كتسميتهم إيّاه بحراً.",
+ "az": "«سكب» (s-k-b): السين والكاف والباء أصلٌ يدلُّ على صبّ الشئ (Sin, kaf və ba bir şeyi tökməyə dəlalət edən əsasdır). تقول: سكب الماء يسكبه (Deyirsən: «سكب الماء يسكبه» — suyu tökdü, tökür). وفرسٌ سَكْبٌ، أى ذرِيعٌ، كأنه يسكُبُ عدْوَه سكبا، وذلك كتسميتهم إيّاه بحراً (Və «سَكْبٌ» at — yəni cəld, iti qaçan at, sanki o, qaçışını sel kimi axıdır/tökür; bu da onların ata «dəniz» adını vermələri kimidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:44:24.789Z"
+}

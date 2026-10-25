@@ -1,0 +1,17 @@
+{
+ "i": 1278,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دله",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 293,
+  "page_to": 293
+ },
+ "ar": "الدال واللام والهاء أُصَيلٌ يدلُّ على ذَهاب الشّئ. يقال ذهب دَمْ فُلانٍ دَلْهاً، أى بُطْلاً. وَدَلَّهَ عقلَه الحُبُّ وغيرُه، أى أذهب.",
+ "az": "«دله» (dələh): Dal, lam və hə tək bir şeyin getməsinə dəlalət edən kiçik bir əsasdır. Deyilir: «ذهب دَمْ فُلانٍ دَلْهاً» (zəhəbə dəmu fülənin dəlhən) — filankəsin qanı hədər (batil) getdi. Və eşq və başqa şeylər onun əqlini «دَلَّهَ» (dəlləhə) etdi, yəni apardı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1415,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذهن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "الذال والهاء والنون أصلٌ يدلُّ على قُوّة. يقال ما به ذِهنٌ، أى قوّة. قال أوس:\nأنُوء برجلٍ بها ذِهْنُها … وأعيَتْ بها أُختُها الغَايِرهْ (٢)\nوالذِّهن: الفِطنة (٣) للشَّئ والحِفْظ له. وكذلك الذَّهَنُ.\nواللّه أعلم بالصواب.",
+ "az": "[ذهن]\nالذال والهاء والنون أصلٌ يدلُّ على قُوّة (güc mənasını bildirən bir əsl).\nيقال ما به ذِهنٌ، أى قوّة (Deyilir ki, onda zihn, yəni güc yoxdur). قال أوس:\nأنُوء برجلٍ بها ذِهْنُها … وأعيَتْ بها أُختُها الغَايِرهْ (٢)\n(Övüs demişdir: Özündə gücü olan bir ayaqla gəzirəm, halbuki onun qısqanc bacısı bununla yorulmuşdur).\nوالذِّهن: الفِطنة (٣) للشَّئ والحِفْظ له (Və əz-zihn – bir şeyi dərindən anlamaq və onu yadda saxlamaqdır). وكذلك الذَّهَنُ (Eləcə də əz-zəhən).\nواللّه أعلم بالصواب. (Ən doğrusunu Allah bilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:22:56.902Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 325,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 307,
+  "page_to": 307
+ },
+ "ar": "الباء والهاء والهمزة أصلٌ واحد، وهو الأُنس. تقول العرب:\nبَهأْتُ بالرَّجُلِ إذا أنِسْتَ به. قال الأصمعىُّ فى كتاب الإبل: ناقةٌ بَهَاءٌ ممدود، إذا كانت قد أَنِسَتْ بالحالب. قال: وهو من بهأتُ إِذا أنست به. والبَهَاء الحُسْن والجمال؛ وهو من الباب، لأنَّ الناظر إليه يأْنَس.",
+ "az": "[بهأ] (bəhə). Ba, hər və həmzə tək bir əsldir, o da ünsiyyətdir. Ərəblər deyir:\nبَهَأْتُ بِالرَّجُلِ (bəhətu bir-racul) – kişi ilə ünsiyyət qurub alışdığın zaman. Əsməi dəvələr kitabında demişdir: ممدود (məmdud) formada ناقةٌ بَهَاءٌ (naqatun bəhaun) – sağan adamla ünsiyyət quran dəvə. O demişdir: Bu, «bəhətu – ünsiyyət qurdum» sözündəndir. البَهَاء (əl-bəha) – gözəllik və yaraşıq deməkdir; bu da həmin fəsildəndir, çünki ona baxan şəxs ünsiyyət tapır (rahatlıq tapır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:54.814Z"
+}

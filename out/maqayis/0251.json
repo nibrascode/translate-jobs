@@ -1,0 +1,17 @@
+{
+ "i": 251,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بشك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 250,
+  "page_to": 250
+ },
+ "ar": "الباء والشين والكاف أصلٌ واحد، ومنه يتفرَّع ما يقرُبُ من الخِفّة. يقال ناقةٌ بَشَكَى، أى سَرِيعة. ويقال امرأةٌ بَشَكَى عَمُولٌ. وابتَشَكَ فُلانٌ الكَذِبَ إذا اخْتَلقَهُ. وبَشَكْتُ الثوب قَطعْتُه. وكلُّ ذلك من البَشْكِ فى السَّير وخفّة نَقْل القوائم.",
+ "az": "[بشك] (bəşək): Ba, şin və kaf tək bir əsasdır, yüngüllüyə yaxın olan şeylər bundan törəyir. «ناقةٌ بَشَكَى» (naqatun bəşəkey), yəni sürətli dəvə deyilir. Və «امرأةٌ بَشَكَى عَمُولٌ» (imraətun bəşəkey amul) deyilir. «ابتَشَكَ فُلانٌ الكَذِبَ» (ibtəşəkə fülanül-kəzibə) – filankəs yalan uydurduqda. Və «بَشَكْتُ الثوب» (bəşəktüs-sövbə) – paltarı kəsdim. Bütün bunlar gedişdəki «بَşْك» (bəşək) və ayaqları yüngül tərpətməkdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:44.619Z"
+}

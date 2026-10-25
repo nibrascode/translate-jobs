@@ -1,0 +1,17 @@
+{
+ "i": 829,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حدا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 35,
+  "page_to": 35
+ },
+ "ar": "الحاء والدال والحرف المتعل أصلٌ واحد، وهو السَّوق. يقال حَدَا بإبله: زجَر بها وغَنَّى لها. ويقال للحمار إِذا قَدَم أُتُنَه: هو يَحْدُوها. قال:\n* حادِى ثلاثٍ من الحُقبِ السّماحيج (١) *\nويقال للسهم إذا مرَّ حَداه رِيشُه، وهَدَاه نَصْلُه. ويقال حَدَوْتُه على كذا، أى سُقْتُه وبعثتُه عليه. ويقال للشَّمال حَدْواءِ، لأنها تحدُو السحابَ، أى تسُوقُه.\nقال العجاج:\n* حَدُواءِ جاءَتْ مِنْ أعالى الطّورِ (٢) *\nوقولهم: [فلان (٣)] يتحدَّى فلانا، إِذا كانَ يُبارِيه ويُنازِعُه الغَلَبة. وهو من هذا الأصل؛ لأنه إِذا فعل ذلك فكأنه يحدوه على الأمر. يقال أنا حُدَيَّاكَ لهذا الأمر، أى ابرُزْ لى فيه. قال عمرو بن كلثوم:\n* حُدَيَّا النَّاسِ كلِّهمُ جميعاً (٤) *",
+ "az": "«حدا» (həda): Ha, dal və zəif hərf (alif) tək bir kökdür, o da qovmaqdır. Deyilir: «حَدَا بإبله» (dəvələrini qovdu): onlara səsləndi və onlara oxudu. Eşşək dişi eşşəklərinin qabağına düşdükdə deyilir: o, onları qovur (يَحْدُوها). Şair demişdir:\n* حادِى ثلاثٍ من الحُقبِ السّماحيج (١) *\n(Sübut etdi ki, üç incə və sarımtıl dişi dəvəni qovur)\nVə ox üçün deyilir: o, keçdikdə lələyi onu sürüklədi, ucluğu isə onu yönəltdi. Və deyilir: «حَدَوْتُه على كذا» (mən onu filan şeyə sövq etdim), yəni onu qovdum və buna vadar etdim. Şimal küləyinə «حَدْواءِ» (hədvə) deyilir, çünki o, buludları qovur, yəni sürükləyir.\nƏccac demişdir:\n* حَدُواءِ جاءَتْ مِنْ أعالى الطّورِ (٢) *\n(Tur dağının uca yerlərindən gələn qovucu külək)\nVə onların «[فلان (٣)] يتحدَّى فلانا» (filankəs filankəsə meydan oxuyur) sözü, o, onunla yarışdıqda və üstünlük uğrunda mübarizə apardığı zaman işlədilir. Bu da bu kökddəndir; çünki o, bunu etdikdə elə bil onu həmin işə sövq edir. Deyilir: «أنا حُدَيَّاكَ لهذا الأمر» (mən bu işdə sənin rəqibibəm), yəni bu işdə mənimlə üz-üzə gəl. Əmr ibn Kulsum demişdir:\n* حُدَيَّا النَّاسِ كلِّهمُ جميعاً (٤) *\n(Bütün insanların hamısının qarşıdurması)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

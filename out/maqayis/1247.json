@@ -1,0 +1,17 @@
+{
+ "i": 1247,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 283,
+  "page_to": 283
+ },
+ "ar": "الدال والعين والراء أَصلٌ واحد يدلُّ على كراهةٍ وأذًى، وأصله الدُّخَان؛ يقال عُودٌ دَعِرٌ، إذا كان كثيرَ الدُّخان. قال ابنُ مُقبِل:\nباتَتْ حواطِبُ لَيلَى يلتمسْن لها … جَزْل الجذَى غَيْرَ خَوَّارِ ولا دَعِرِ (١)\nومن ذلك اشتقاق الدَّعارة فى الخُلقُ. والدَّعَر: الفَساد. والزَنْد الأدْعُر:\nالذى قُدِح به مِراراً فاحتَرَقَ طَرَفُه فصار لا يُورِى. وداعِرٌ: فحل تنسب إليه الداعِرِيّة",
+ "az": "[دعر] «الدال والعين والراء» (dal, ayn və ra) ikrah və əziyyətə dəlalət edən tək bir əsasdır, onun əsli tüstüdür; deyilir: عُودٌ دَعِرٌ (tüstülü odun), çox tüstülü olduğu zaman. İbn Müqbil demişdir: باتَتْ حواطِبُ لَيلَى يلتمسْن لها … جَزْل الجذَى غَيْرَ خَوَّارِ ولا دَعِرِ (١) (Leylinin odun yığan qadınları onun üçün nə zəif, nə də tüstülü olan qalın odun parçaları axtararaq gecələdilər). Əxlaqdakı الدَّعارة (dəarə) – əxlaqsızlıq buradan törəmişdir. Və الدَّعَر (dəcər): fəsad. Və الأدْعُر (lədcür) çaxmaq daşı: dəfələrlə od qalanıb ucundan yandığı üçün artıq od verməyən daşdır. Və داعِرٌ (dair): daəriyyə nisbət edilən cins ayğır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.371Z"
+}

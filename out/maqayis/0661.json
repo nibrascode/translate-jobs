@@ -1,0 +1,17 @@
+{
+ "i": 661,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 464,
+  "page_to": 464
+ },
+ "ar": "الجيم والعين والظاء أصلٌ واحد يدلُّ على سوءُ خلُق وامتناعٍ [و] دفع. يقال رجل جَعْظٌ سَيِّئُ الخُلُق. وجَعظْتُه عن الشئ: دفعتُه، وكذلك أجعَظْته. قال:\n* والجُفْرتين مَنَعوا إجْعَاظَا (١) *\nيقول: دفعوهم عنها (٢)\nفأمّا (الجيم والغين معجمة) فلا أصل لها فى الكلام. والذى قاله ابن دريد فى الجَغْب أنّه ذُو الشَّغَبِ (٣)، فجنسٌ من الإبْدال يولِّدهُ ابنُ دريد ويستعمِلُه.",
+ "az": "[جعظ] (cim, eyn və zai) pis xasiyyətə, imtinaya [və] dəf etməyə dəlalət edən tək bir əsasdır. Deyilir: رجل جَعْظٌ سَيِّئُ الخُلُق (raculun cəun səyyiu əl-xuluq). Və جَعظْتُه عن الشئ (cəəztuhu ən əş-şəy): onu dəf etdim, həmçinin أجعَظْته (əcəztuhu). O dedi: * والجُفْرتين مَنَعوا إجْعَاظَا (١) * Deyir: onları oradan dəf etdilər (٢). Gim və ğeym hərflərinə gəldikdə isə, danışıqda onun əsli yoxdur. İbn Düridin cəğb haqqında dediyi: o, fitnə-fəsad sahibidir (٣) — bu, İbn Düridin uydurduğu və işlətdiyi dəyişdirmə (ibdal) növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:09.223Z"
+}

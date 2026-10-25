@@ -1,0 +1,17 @@
+{
+ "i": 1650,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ربح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 474,
+  "page_to": 475
+ },
+ "ar": "الراء والباء والحاء أصلٌ واحدٌ، يدلُّ على شَفٍّ فى مبايعة (٣). من ذلك رَبِح فلانٌ فى بَيعِه يَرْبَح، إذا استشَفَّ. وتجارةٌ رابحة:\nيُرْبَح فيها. يقال رِبْح ورَبَح، كما يقال مِثْلٌ ومَثَل. فأمَّا قول الأعشى:\n* مِثْلَ ما مُدَّ نِصاحاتُ الربَحْ (٤) *\nفقال قوم النِّصاحات الخيوط، وهى الأَرْوِيَةُ (٥). والرَّبَح: الخَيل والإبلُ تُجلَب للبيع والتربُّح. فأمَّا قولُه:\n* قَرَوْا أضْيافَهُمْ رَبَحاً بِبُحٍّ (٦) *\nفقال ابنُ دريد: ومما شذّ عن الباب الرُّبَّاح، يقال إنّه القِرْد (١)،",
+ "az": "«ربح»: (Ra, Ba, Hə) ticarətdə qazanca və artıqlığa dəlalət edən tək bir əsldir. Bunlardandır: رَبِحَ فُلَانٌ فِي بَيْعِهِ يَرْبَحُ (filankəs alış-verişdə qazandı). تجارة رابحة (ticarətun rabihə): qazanc əldə edilən ticarət. رِبْح (ribh) və رَبَح (rəbəh) deyilir, necə ki مِثْل (misl) və مَثَل (məsəl) deyilir. Aşağın sözünə gəldikdə: * مِثْلَ مَا مُدَّ نِصَاحَاتُ الرَّبَحْ * (4) Bəzi qövmlər demişlər ki, النِّصَاحَات (nisahat) saplardır, onlar da أَرْوِيَة (ərviyə) tiplidir. الرَّبَح (ər-rəbəh): ticarət üçün gətirilən atlar və dəvələr. Onun bu sözünə gəldikdə: * قَرَوْا أَضْيَافَهُمْ رَبَحًا بِبُحٍّ * (6) İbn Dürid demişdir: Bu babdan istisna olunanlardan biri də الرُّبَّاح (ər-rubbah) kəlməsidir, deyilir ki, o meymundur (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.917Z"
+}

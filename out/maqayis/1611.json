@@ -1,0 +1,17 @@
+{
+ "i": 1611,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "روى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 453,
+  "page_to": 454
+ },
+ "ar": "الراء والواو والياء أصلٌ واحد، ثمّ يشتقّ منه. فالأصل ما كان خِلافَ العَطَش، ثم يصرَّف فى الكلام لحامِلِ ما يُرْوَى منه.\nفالأصل رَوِيتُ من الماء رِيًّا. وقال الأصمعى: رَوَيْت على أهلى أَرْوِى رَيًّا.\nوهو راوٍ من قومٍ رُواةٍ، وهم الذين يأتونهم بالماء.\nفالأصل هذا. ثمّ شبَّه به الذى يأتى القومَ بِعلْمٍ أو خَبَرٍ فيرويه، كأنَّه أتاهم برِيِّهم من ذلك.\n[روب] ......... ٣.\nأعِرْنى رُوبة فرسِك. ويقال: فلانٌ لا يقوم برُوبة أهله، أى بما أسنَدُوه إِليه من حاجاتهم، كأنه شبِّه ذلك باللَّبن. وقال ابنُ الأعرابىّ: رُوبَة الرجل:\nعَقْله. قال بعضهم وهو يحدِّثنى: وأنا إذْ ذاكَ غلامٌ ليست لى رُوبة. فأمّا الهمزة التى فى رُؤْبة فهى تجئ فى بابِه.",
+ "az": "[روى] \nRa, vav və ya hərfləri tək bir əsasdır, sonra ondan başqa sözlər törəmir. Əsas məna susuzluğun əksi olan haldır, sonra bu məna su daşıyan şəxsə aid edilən sözlərdə dəyişdirilərək işlədilir.\nƏsas odur ki, رَوِيتُ من الماء رِيًّا (Sudan doyunca içdim, sirab oldum). Əsməi demişdir: رَوَيْت على أهلى أَرْوِى رَيًّا (Ailəm üçün su daşıdım və suvarma işini gördüm). \nO, راوٍ (su daşıyan, su gətirən) şəxsdir, qövmün içindən olan رُواةٍ (su daşıyanlar) isə onlara su gətirən kəslərdir.\nƏsas məna budur. Sonra qövmün yanına elm və ya xəbər gətirib onu rəvayət edən şəxs də buna bənzədilmişdir, sanki o, onlara bu yolla susuzluqlarını yatıracaq (sirab edəcək) şey gətirmişdir.\n[روب] ......... ٣.\nأعِرْنى رُوبة فرسِك (Atının süd kəsiyini — maya qatışığını mənə ödünc ver). Deyilir ki: فلانٌ لا يقوم برُوبة أهله (Filankəs ailəsinin ehtiyaclarını ödəyə bilmir), yəni onlara tapşırdıqları işlərin öhdəsindən gələ bilmir, sanki bu, südün maya qatışığına bənzədilmişdir. İbn əl-Ərəbi demişdir: رُوبَة الرجل (Kişinin ağılı). Onlardan biri, mənə danışarkən belə demişdir: O zaman mən hələ ağılı (və ya təcrübəsi) kəs­mə­yən bir oğlan idim. رُؤْبة sözündəki həmfə gəldikdə isə, o, öz fəslində gələcəkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:33:09.565Z"
+}

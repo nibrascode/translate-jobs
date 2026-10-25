@@ -1,0 +1,17 @@
+{
+ "i": 2163,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شأن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 238,
+  "page_to": 238
+ },
+ "ar": "الشين والهمزة والنون أصلٌ واحد يدلُّ على ابتغاءٍ وطلب.\nمن ذلك قولُ العرب: شَأنْت شأنَه، أى قصدت قصده. وأنشدوا:\nيا طالِب الجُود إنّ الجُود مكرُمةٌ … لا البخلُ منك ولا من شأنك الجُودَا (٢)\nقالوا: معناه ولا من طلبك الجودَ.\nومن ذلك قولُهم: ما هذا من شأنى، أى ما هذا مِنْ مَطلَبى والذى أبتغيه (٣). وأمّا الشئون فَمَا بينَ قبائل الرأس، الواحد شأن. وإنّما سمِّيتْ بذلك لأنّهَا مَجارِى الدَّمع، كأنّ الدّمع يطلبُها ويجعلُها لنفسه مَسِيلاً.",
+ "az": "«شأن»: الشين والهمزة والنون أصلٌ واحد يدلُّ على ابتغاءٍ وطلب (Şin, həmzə və nun hərflərindən ibarət tək bir əsas məna olub axtarmaq və tələb etməyi bildirir).\nمن ذلك قولُ العرب: شَأنْت شأنَه (Ondandır ərəblərin bu sözü: Mən onun yolunu və məqsədini güddüm), أى قصدت قصده (yəni onun məqsədini qəsd etdim). وأنشدوا (Onlar şeir söylədilər):\nيا طالِب الجُود إنّ الجُود مكرُمةٌ … لا البخلُ منك ولا من شأنك الجُودَا (٢)\n(Ey səxavət axtaran, həqiqətən səxavət şərəfli bir işdir, nə xəsislik səndəndir, nə də sənin axtarışından səxavət çıxar)\nقالوا: معناه ولا من طلبك الجودَ (Dedilər ki: Mənası sənin səxavəti tələb etməyindən deməkdir).\nومن ذلك قولُهم: ما هذا من شأنى (Ondandır onların bu sözü: Bu mənim işim deyil), أى ما هذا مِنْ مَطلَبى والذى أبتغيه (٣) (yəni bu mənim tələbim və arzuladığım şey deyil). وأمّا الشئون فَمَا بينَ قبائل الرأس (Şüun isə başın sümük birləşmələri, qəbilələri arasındakı xəttlərdir), الواحد شأن (təkli şəndir). وإنّما سمِّيتْ بذلك لأنّهَا مَجارِى الدَّمع (O, məhz ona görə belə adlandırılmışdır ki, onlar göz yaşının axdığı yollardır), كأنَّ الدّمع يطلبُها ويجعلُها لنفسه مَسِيلاً (elə bil göz yaşı onları axtarır və özü üçün axar yola çevirir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:06.969Z"
+}

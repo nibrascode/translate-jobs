@@ -1,0 +1,17 @@
+{
+ "i": 1421,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 365,
+  "page_to": 365
+ },
+ "ar": "الذال والياء والراء ليس أصلاً. إنّما يقولون: ذَيَّرْتُ أطْباءَ النّاقةِ، إذا طليتَها بسِرْجِينٍ لئلا يرتضِع الفَصيل. وهو الذِّيار.",
+ "az": "[ذير] \n\nذال، ياء və ra hərfləri müstəqil əsas deyil. Onlar sadəcə olaraq deyirlər: ذَيَّرْتُ أطْباءَ النّاقةِ (dəvənin məməciklərini yağla sürtdüm) – balası əmməsin deyə onu peyinlə yağladığın zaman. Bu da الذِّيار (əz-ziyar) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

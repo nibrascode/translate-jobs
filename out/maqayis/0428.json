@@ -1,0 +1,17 @@
+{
+ "i": 428,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ترز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 343,
+  "page_to": 343
+ },
+ "ar": "التاء والراء والزاء كلمةٌ واحدة صحيحة. تَرِزَ الشَّئ صَلُب.\nوكلُّ مستحكِمٍ تارز. والميِّت تارزٌ؛ لأنَّه قد يَبِسَ. قال:\nكأنَّ الذِى يُرمَى من الوحَشِ تارِزُ (١) *\nوقال امرؤ القيس - ويدلّ على أنّ التارز الصُّلب -:\nبِعَجْلَزَةٍ قد أتْرَزَ الجَرْىُ لَحْمَها … كميتٍ كأنّها هِراوةُ مِنوالِ (٢)\nويقال أتْرَزَتِ المرأةُ حَبْلَها: فتلَتْه (٣) فتلاً شديداً. وأترَزَتْ عجينَها إذا مَلَكَتْه.",
+ "az": "«ترز» (t-r-z): Tə, ra və zal səhih bir kəlmədir. تَرِزَ الشَّئ (tərizəş-şəy): şey bərkidi.\nVə hər bir möhkəmlənmiş şey تارز (tariz) adlanır. Və ölmüş insan da تارز (tariz)-dir; çünki o qurumuşdur. Şair demişdir:\nكأنَّ الذِى يُرمَى من الوحَشِ تارِزُ (١) * (Sanki ovlanan vəhşi heyvan... tarizdir)\nVə İmrul-Qeys - bu da tarizin bərk olduğuna dəlalət edir - demişdir:\nبِعَجْلَزَةٍ قد أتْرَزَ الجَرْىُ لَحْمَها … كميتٍ كأنّها هِراوةُ مِنوالِ (٢)\n(Qısraqla ki, qaçış onun ətini bərkitmişdir... kəhər kimi ki, sanki toxucu çubuğudur)\nVə deyilir: أتْرَزَتِ المرأةُ حَبْلَها (ətrəzətil-mər-ətu həbləha): ipini sıx və möhkəm bükdü. Və أتْرَزَتْ عجينَها (ətrəzət əcinəha): xəmirini möhkəm yoğurdu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.116Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2019,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 148,
+  "page_to": 148
+ },
+ "ar": "السين والدال والعين ليس بأصلٍ يُعوَّل عليه ولا يقاس عليه، لكنّ الخليل ذكر الرجل المِسْدَع، قال: وهو الماضى لوجهه. فإن كان كذا فهو من الإبدال؛ لأنَّه من صَدَعت، كأنَّه يصدع الفلاةَ صدعاً. وحكى أنَّ قائلا قال: «سلَامةً لك من كلِّ نكبة وسَدْعَةٍ (٢)»، وقال: هى شبه النَّكبة.\nهذا شئ لا أصل [له].",
+ "az": "«سدع» (sin, dal və eyn) etibar edilən və qiyas olunan bir əsl deyildir, lakin Xəlil «المِسْدَع» kişisini qeyd etmişdir və demişdir: O, öz yolunda inadla irəliləyəndir. Əgər belədirsə, bu, hərf dəyişməsindəndir; çünki o, «صَدَعت» (çatladı, yardı) sözündəndir, sanki səhranı yarıb keçir. Rəvayət olunmuşdur ki, bir deýən demişdir: «سلَامةً لك من كلِّ نكبة وسَدْعَةٍ» (Sənə hər bir bəla və sədsədən [2] salamatlıq olsun), və demişdir: Bu, bəla kimidir. Bu, əsli [olmayan] bir şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

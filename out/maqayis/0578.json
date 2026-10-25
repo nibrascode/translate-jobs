@@ -1,0 +1,17 @@
+{
+ "i": 578,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جشش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 414,
+  "page_to": 415
+ },
+ "ar": "الجيم والشين أصلٌ واحد، وهو التكسُّر، يقال منه جششتُ الحبَّ أجُشُّه. والجَشِيشة: شئٌ يُطبَخ من الحبِّ إذا جُشَّ. ويقولون فى صفة الصَّوت: أجَشُّ؛ وذلك أنّه يتكسَّر فى الحلْق تكسُّرْا. ألا تراهم يقولون:\nقَصَب أجشّ مُهَضَّم (١). ويقال فَرَسٌ أجشُّ الصوت، وسَحابٌ أجَشّ. قال:\nبأجَشِّ الصَّوتِ يَعْبُوبٍ إذا … طُرِقَ الحىُّ مِنَ اللَّيْلِ صَهَلْ (٢)\nفأمّا قولُهم جشَشْت البِئْرَ إذا كنَستَها، فهو من هذا، لأنَّ المُخْرَج منها يتكسَّر. قال أبو ذؤيب:\nيقولون لما جُشَّتِ البئرُ أوْرِدُوا … وليس بها أدنى ذِفافٍ لواردِ (٣)",
+ "az": "«جشش» (Cim və şin) tək bir əsasdır; o da qırılmaqdır. «جششتُ الحبَّ أجُشُّه» (Dən üyütdüm, üyüdürəm) – deyilir. «الجَشِيشة» (əl-cəşişə) – dən üyütüldükdə ondan bişirilən yeməkdir. Səsin təsvirində deyirlər: «أجَشُّ» (əcəşş – boğuq); çünki o, boğazda qırıılaraq çıxır. Məgər görmürsən ki, deyirlər:\nقَصَب أجشّ مُهَضَّم (١)\n(Boğuq, incə qamış). Həmçinin «فَرَسٌ أجشُّ الصوت» ( səsi boğuq at), «سَحابٌ أجشّ» (boğuq gurultulu bulud) – deyilir. O demişdir:\nبأجَشِّ الصَّوتِ يَعْبُوبٍ إذا … طُرِقَ الحىُّ مِنَ اللَّيْلِ صَهَلْ (٢)\n(Gecə vaxtı tayfa gəlib çatanda kişniyən, səsi boğuq, sürətli at ilə).\nOnların «جشَشْت البِئْرَ» (quyunu təmizlədim) sözünə gəldikdə, o da bundandır, çünki quyudan çıxarılan şeylər qırılır. Əbu Züheyb demişdir:\nيقولون لما جُشَّتِ البئرُ أوْرِدُوا … وليس بها أدنى ذِفافٍ لواردِ (٣)\n(Quyu təmizlənəndə deyirlər: Suya gedin, lakin su axtaran üçün orada heç bir rahatlıq yoxdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:02.722Z"
+}

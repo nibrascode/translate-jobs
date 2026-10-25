@@ -1,0 +1,17 @@
+{
+ "i": 160,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أيق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 165,
+  "page_to": 165
+ },
+ "ar": "الهمزة والياء والقاف كلمةٌ واحدةٌ لا يُقاس عليها قال الخليل:\nالأَيق الوَظيف، وهو موضع القَيد من الفَرَس. قال الطرماح:\nوقامَ المَهَا يُقْفِلْنَ كلَّ مُكَبَّلٍ … كما رُصَّ أَيْقَا مُذْهبِ اللَّونِ صَافِنِ (١)\nالأصمعى وأبو عمرو: الأَيق القَبْن، وهو موضع القَيْد من الوظيف.",
+ "az": "[أيق] (ə-y-ق): Həmzə, ya və qaf tək bir kəlmədir, üzərində müqayisə aparılmaz. Xəlil demişdir: «الأَيق» (əl-əyq) – «الوَظيف» (vəzif) yəni atın budunda buxovun vurulduğu yerdir. Tirməh demişdir: Və ceyranlar ayağı buxovlu olan hər bir heyvanı bağlamaq üçün ayağa qalxdılar... Necə ki, qızılı rəngli, bir ayağını qaldırıb duran buxov yeri möhkəm düzəldilmişdir (١). Əsməi və Əbu Əmr demişlər ki: «الأَيق» (əl-əyq) – atın budunda buxovun yeri olan «القَبْن» (qəbn) deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:25:17.134Z"
+}

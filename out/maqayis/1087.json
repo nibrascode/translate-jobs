@@ -1,0 +1,17 @@
+{
+ "i": 1087,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خشى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 184,
+  "page_to": 185
+ },
+ "ar": "الخاء والشين والحرف المعتل يدلُّ على خَوف وذُعْر، ثمّ يحمل عليه المجاز. فالخَشَية الخَوْف. ورجلٌ خَشْيَانُ. وخاشَانِى فلانٌ فخشَيْتُه، أى كنتُ أشدَّ خَشْيةً منه.\nوالمجاز قولهم خَشِيت بمعنى عَلِمت. قال:\nولقد خَشِيت بأن مَنْ تَبِعَ الهُدى … سكَنَ الجِنَانَ مع النبىَّ محمدٍ (٣)\nأى علِمتُ. ويقال هذا المكانُ أخْشَى من ذلك، أى أشدُّ خوفاً.\nومما شذَّ عن الباب، وقد يمكن الجمعُ بينهما على بُعدٍ، الخَشْوُ: التمر الحَشَف.\nوقد خَشَتِ النَّخلةُ تَخْشُو خَشْواً. والخَشِىُّ من اللّحم (١): اليابسُ",
+ "az": "[خشى] الخاء والشين والحرف المعتل يدلُّ على خَوف وذُعْر، ثمّ يحمل عليه المجاز. (Xar, şin və uzanan hərf qorxu və dəhşətə dəlalət edir, sonra ona məcaz حمل edilir.) \n\nفالخَشَية الخَوْف. ورجلٌ خَشْيَانُ. وخاشَانِى فلانٌ فخشَيْتُه، أى كنتُ أشدَّ خَشْيةً منه. (Beləliklə, əl-xəşəyə — qorxudur. Kişi isə xəşyandır. Fəlan kəs mənimlə xəşəyədə yarışdı və mən ondan daha çox qorxdum, yəni mən ondan daha şiddətli qorxan oldum.) \n\nوالمجاز قولهم خَشِيت بمعنى عَلِمت. قال: (Məcaz isə onların xəşitu sözünü bildim mənasında işlətməsidir. O demişdir:) \nولقد خَشِيت بأن مَنْ تَبِعَ الهُدى … سكَنَ الجِنَانَ مع النبىَّ محمدٍ (٣) (Həqiqətən mən bildim ki, hidayətə tabe olan kəs Peyğəmbər Məhəmmədlə birlikdə cənnətlərdə məskunlaşdı.) \n\nأى علِمتُ. ويقال هذا المكانُ أخْشَى من ذلك، أى أشدُّ خوفاً. (Yəni bildim. Deyilir ki, bu məkan o birindən əxşəydir, yəni daha çox qorxuludur.) \n\nومما شذَّ عن الباب، وقد يمكن الجمعُ بينهما على بُعدٍ، الخَشْوُ: التمر الحَشَف. وقد خَشَتِ النَّخلةُ تَخْشُو خَشْواً. والخَشِىُّ من اللّحم (١): اليابسُ (Babdan istisna olunan və aralarındakı uzaqlığa baxmayaraq birləşdirilməsi mümkün olan şey əl-xəşvdir: xəşəf xurması. Xurma ağacı xəşət təxšu xəşvan oldu. Ətdən olan xəşi isə: qurudur.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:26.357Z"
+}

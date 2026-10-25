@@ -1,0 +1,17 @@
+{
+ "i": 1674,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رجز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 489,
+  "page_to": 490
+ },
+ "ar": "الراء والجيم والزاء أصلٌ يدلُّ على اصطرابٍ. من ذلك الرَّجَزُ: داءٌ يصيبُ الإبلَ فى أعجازِها، فإذا ثارت النّاقةُ ارتعشَتْ فَخِذاها.\nومن هذا اشتقاق الرَّجَزِ من الشِّعر؛ لأنه مقطوعٌ مضطرب (٣). والرِّجازة:\nكِساءٌ يُجْعَل فيه أحجارٌ [تعلُّق (٤)] بأحد جانِبَى الهَودج إذا مالَ؛ وهوَ يَضطَرِبُ.\nوالرِّجَازة أيضاً: صوفٌ يعلّق على الهَودج يُزَيَّن به. فأما الرِّجْز الذى هو العذاب،\nوالذى هو الصَّنَم، فى قوله جلّ ثناؤه: ﴿وَاَلرُّجْزَ فَاهْجُرْ﴾ فذاك من باب الإبدال؛ لأن أصلَه السّينُ؛ وقد ذُكِر.",
+ "az": "«رجز» (rə-cə-zə): Ra, cim və zay silkələnməyə və titrəməyə dəlalət edən bir əsasdır. Bunlardan biri «الرَّجَز» (ərcəz) sözüdür: dəvələrin sağrılarına gələn bir xəstəlikdir ki, dəvə hərəkətə gəldikdə budları titrər.\nŞeirdəki «الرَّجَز» bəhrinin törəməsi də bundandır; çünki o, parçalanmış və titrəkdir (٣). «الرِّجازة» (əl-ricazə) – əلinə (və ya hərəkatına) görə keçe və ya kisədir ki, bəzən hədəcin bir tərəfinə sallanır (٤), çünki o əyildikdə titrəyir.\n«الرِّجَازة» həmçinin hədəfə (və ya hədöçə) bəzək üçün asılan yundur. «الرِّجْز» (əl-ricz) – əzab mənasında olan və həmçinin büt mənasında olan sözə gəlincə, Uca Allahın: ﴿وَاَلرُّجْزَ فَاهْجُرْ﴾ (mənaca tərcümə: Və bütlərdən uzaq dur!) – kəlamındakı söz, məhz əvəzetmə qapısındandır; çünki onun əsli sin hərfi ilədir; o artıq zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:36:20.417Z"
+}

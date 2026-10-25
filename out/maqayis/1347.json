@@ -1,0 +1,17 @@
+{
+ "i": 1347,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دأى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 322,
+  "page_to": 323
+ },
+ "ar": "الدال والهمزة والياء أصلان: أحدهما يدل على خَتْلِ، والآخر عَظْمٌ متَّصل بمِثْله، ويشبّه به غيره، ويكون من خَشَب.\nفالأوَّل الدّأْى، وهو الختْل؛ يقال دَأبْتُ أدأَى دَأْياً؛ وهو الخَتْل والذِّئب يَدأَى، إِذا خَتَل.\nوأمَّا الآخَر فالدّأْيات: الفَقَار، الواحدةُ دَأْية؛ وابنُ دأيةَ: الغُرابُ؛\nلأنَّه يقع على دأْية البعير الدّبِر فينقُرها؛ والدَّأية من البعير: الموضعُ تقع عليه ظَلِفَة (١) الرَّحْل فتعقِرُه.",
+ "az": "[دأى] الدال (dal), الهمزة (həmzə) və الياء (ya) hərfləri iki kökə malikdir: biri hiyləgərliyə, digəri isə öz bənzərinə bitişik olan və başqasının ona bənzədildiyi, həmçinin ağacdan olan sümüyə işarə edir. Birincisi الدّأْى (əd-də'y) olub hiyləgərlikdir; deyilir: دَأبْتُ أدأَى دَأْياً (də'əbtu əd'əy də'yən); bu hiyləgərlikdir və canavar hiylə etdikdə يَدأَى (yəd'əy) deyilir. İkincisinə gəldikdə, الدَّأْيات (əd-də'yat): fəqərələr (onurğa sümükləri), tək halı دَأْية (də'yə)dir; ابنُ دأيةَ (ibnu də'yə): qarğa; çünki o, dəvənin yaralı fəqərəsinin üzərinə qonub onu dimdikləyir; dəvənin الدَّأية (əd-də'yə)si: yəhərin (رحل) altlığının (١) üzərinə düşdüyü və onu yaraladığı yerdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

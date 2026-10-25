@@ -1,0 +1,17 @@
+{
+ "i": 1520,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 412,
+  "page_to": 412
+ },
+ "ar": "الراء والعين والظاء كلمةٌ واحدة لا يُقاس ولا يَتفرَّع.\nفالرُّعْظُ: مَدْخَل النَّصْل فى السَّهم. وحكى الخليل: «إنّ فلاناً لَيَكسِر عليك أرعاظَ النَّبْل»، إذا كان يتغضّب. ويقال سهمٌ رَعِظٌ، إذا غاب فى رُعْظِه.",
+ "az": "[رعظ] (ra, ayn, zə) — qiyas olunmayan və şaxələnməyən tək bir sözdür. الرُّعْظُ (ruuz) – ox ucluğunun oxa girmə yeri. Xəlil rəvayət etmişdir: «إنّ فلاناً لَيَكسِر عليك أرعاظَ النَّبْل» (Həqiqətən filankəs sənin üçün oxların ruzlarını qırır), o qəzəbləndiyi zaman. Deyilir: سهمٌ رَعِظٌ (səhmün rəiuz) – oxu öz yuvasına batdıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:50.331Z"
+}

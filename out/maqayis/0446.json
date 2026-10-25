@@ -1,0 +1,17 @@
+{
+ "i": 446,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تفه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 349,
+  "page_to": 349
+ },
+ "ar": "التاء والفاء والهاء أصلٌ واحد، وهو قِلَّةُ الشئ يقال تَفِهَ الشَّئِ فهو تافِه، إِذا قَلَّ. و\nفى الحديث فى ذكر القرآن: «لا يَتْفَهُ ولا يُخْلِقُ (٤)».\nو\nفى حديث آخر: «كانت اليد لا تُقْطع فى الشَّئ التّافِه».",
+ "az": "[تفه] (tə-f-h). Ta, fa və ha hərfləri tək bir əsasdır, o da azlıqdır. Deyilir: تَفِهَ الشَّئِ فهو تافِه (təfiə-ş-şəyu fəhuə tafih) — şey azaldıqda, o, azdır (tahifdir). Və Quranın zikrində hədisdə [deyilir]: «O, nə azalar, nə də köhnələr (لا يَتْفَهُ ولا يُخْلِقُ)» (4). Və başqa bir hədisdə: «Əl az və dəyərsiz şeyə görə kəsilməzdi».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

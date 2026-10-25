@@ -1,0 +1,17 @@
+{
+ "i": 388,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بردس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "ومن هذا الباب (البَرْدِس (٣)) الرّجُل الخبيث. والباء زائدة، وإنما هو من الرَّدْسِ، وذاك أن تقتحم الأمور، مثل المِرْداس، وهى الصخرة. وقد فُسِّر فى بابه.",
+ "az": "[بردس] (Bə-ra-dal-sin) Bu fəsildən «البَرْدِس» (əl-bərdis) - xəbis kişi. «ب» (bə) hərfi artıqdır, bu «الرَّدْس» (ər-rəds) kəlməsindəndir, bu işlərə girişmək deməkdir, «المِرْداس» (əl-mirdas - daş) kimi. Bu öz fəslində izah edilmişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

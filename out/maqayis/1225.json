@@ -1,0 +1,17 @@
+{
+ "i": 1225,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 270,
+  "page_to": 270
+ },
+ "ar": "الدال والراء والميم أصلٌ يدلُّ على مقاربةٍ ولِين. يقال دِرْعٌ درِمَةٌ، أى ليِّنة مُتَّسقة. والدَّرَمان: تقارُبُ الخَطْو. وبذلك سمِّى الرَّجُل دارماً.\nومن الباب الدَّرَم، وهو استواءُ فى الكَعْب تحت اللَّحم حتَّى لا يكونُ له حَجْم. يقال له كَعْبٌ أدْرَمُ. قال:\nقامتْ تُرِيكَ خَشْيةً أن تَصْرِما … سَاقاً بخَنْدَاةً وكَعْباً أدْرَما (١)\nويقال دَرِمَتْ أسنانُه؛ وذلك إذا انسحَجَتْ ولانت غُرُوبُها.\nومن هذا قولُهم أدْرَمَ الفَرَسُ، إذا سقَطَتْ سِنُّه فخرَجَ من الإثْناء إلى الإرباع. والدَّرَّامة: المرأة القصيرة. وهو عندنا من مُقارَبَة الخطْو؛ لأنَّ القصيرة كذا تكون. قال:\nمِنْ البِيض لا دَرَّامةٌ فَمَلِيَّةٌ … تُبذُّ نِساءَ الحىِّ دَلاًّ وَمِيسَمَا (٢)\nثم يشتقّ من هذا الذى ذكرناه ما بَعدَه. فبَنُو الأدرَم: قَبيلة. قال:\n* إنَّ بَنِى الأَدْرَمِ لَيْسُوا مِنْ أحَدْ *\nودَرِمٌ: اسمُ رجلٍ فى قول الأعشى:\n* كما قِيل فى الحىِّ أوْدَى دَرِمْ (٣) *\nوهو رجلٌ من شيبان قُتِل ولم يُدرَكْ بثأرِه",
+ "az": "[درم] الدال والراء والميم (dal, ra və mim hərfləri) yaxınlığa və yumşaqlığa dəlalət edən bir əsasdır. Deyilir: دِرْعٌ درِمَةٌ (yumşaq və mütənasib zireh). Və الدَّرَمان (əd-dəraman) – addımların yaxın olması (qısa-qısa addımlamaq). Məhz bundan ötrü kişi دارِمٌ (Darim) adlandırılmışdır.\n\nBu babdandır: الدَّرَم (əd-dəram) – ətin altındakı topuğun düz, hamar olması, heç bir çıxıntısının olmaması. Ona كَعْبٌ أدْرَمُ (hamar topuq) deyilir. (Şair) demişdir:\nقامتْ تُرِيكَ خَشْيةً أن تَصْرِما … سَاقاً بخَنْدَاةً وكَعْباً أدْرَما (١)\n(Ayrılacağından qorxaraq sənə xəndada baldır və hamar topuq göstərməyə qalxdı...)\n\nDeyilir: دَرِمَتْ أسنانُه (Dişləri aşındı və ucları yumşaldı).\n\nBundandır onların: أدْرَمَ الفَرَسُ (Atın dişi düşdü və o, ikinci yaşından dördüncü yaşına keçdi) deməsi. Və الدَّرَّامة (əd-dəramə) – qısaboylu qadın. Bizim yanımızda bu, addımların yaxınlığından (qısa olmasından) irəli gəlir, çünki qısaboylu qadın adətən belə olur. (Şair) demişdir:\nمِنْ البِيض لا دَرَّامةٌ فَمَلِيَّةٌ … تُبُّ نِساءَ الحىِّ دَلاًّ وَمِيسَمَا (٢)\n(Ağbəniz qadınlardandır, nə qısaboyludur, nə də kök, o, gözəlliyi və incəliyi ilə tayfanın qadınlarını üstələyir)\n\nSonra qeyd etdiyimiz bu mənadan sonrakı mənalar törədilir. Benu-l-Adrim (أدرم oğulları) – bir qəbilədir. (Şair) demişdir:\n* إنَّ بَنِى الأَدْرَمِ لَيْسُوا مِنْ أحَدْ *\n(Həqiqətən, Benu-l-Adrim heç kəsdən deyildir)\n\nVə Dərim – Əşanın bu beytində bir kişinin adıdır:\n* كما قِيل فى الحىِّ أوْدَى دَرِمْ (٣) *\n(Necə ki, tayfada «Dərim həlak oldu» – deyildi)\n\nO, Şeyban qəbiləsindən bir kişi idi, öldürülmüş və qanı yerdə qalmışdı (qisası alınmamışdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.589Z"
+}

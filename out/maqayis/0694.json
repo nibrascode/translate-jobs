@@ -1,0 +1,17 @@
+{
+ "i": 694,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "الجيم والنون والهمزة أصلٌ واحد، وهو العَطْف على الشئ والحُنُوّ عليه. يقال جَنِىَ عليه يجْنَأُ جَنَأ، إذا احْدَوْدَب، ورجل أدنأ وأجنأ بمعنًى واحد. وتجانَأْتُ على الرّجُل، إذا عطَفْتَ عليه. والتُّرْسُ المُجْنَأْ مِنْ هذا. قال:\n* ومُجْنَأٍ أسْمَرَ قَرَّاعِ (٣) *",
+ "az": "«جنأ» (جيم, نون və həmzə) – bir əsas olub, bir şeyə tərəf əyilmək və ona baş əyməkdir. Belə deyilir: «جَنِىَ عليه يجْنَأُ جَنَأ» – beli büküldükdə. «رجل أدنأ وأجنأ» – eyni mənadadır. «تجانَأْتُ على الرّجُل» – insana tərəf əyildiyin zaman deyilir. «التُّرْسُ المُجْنَأْ» (əyilmiş qalxan) bundandır. [Şair] demişdir:\n«* ومُجْنَأٍ أسْمَرَ قَرَّاعِ *»\n(Qəhvəyi rəngli, zərbə endirən əyilmiş [qalxan] ilə...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:12.830Z"
+}

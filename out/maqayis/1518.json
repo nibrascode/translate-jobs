@@ -1,0 +1,17 @@
+{
+ "i": 1518,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 412,
+  "page_to": 412
+ },
+ "ar": "الراء والعين والشين فى معنى الباب قبله من الاضطراب والارتعاد. ورجلٌ جبانٌ رَعِشٌ. وجَملٌ رَعْشَنٌ، وذلك اهتزازُه فى سَيره.\nوالنون زائدة.\nوالرَّعْشاءُ من النَّعام: السريعة.",
+ "az": "[رعش] (ra, ayn, şin) — titrəmək və əsmək baxımından əvvəlki fəslin mənasındadır. رجلٌ جبانٌ رَعِشٌ (racülün cəbanün rəiş) – qorxaq, titrək kişi. Və جملٌ رَعْشَنٌ (cəmalün rəşən) – gedişində sarsılan dəvə. Nun hərfi artıqdır. Və الرَّعْشاءُ (ər-rəşa) – dəvəquşunun sürətlisi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:50.331Z"
+}

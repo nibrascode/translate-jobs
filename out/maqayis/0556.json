@@ -1,0 +1,17 @@
+{
+ "i": 556,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثيل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 397,
+  "page_to": 397
+ },
+ "ar": "الثاء والياء واللام كلمةٌ واحدة، وهى الثِّيلُ، وهو وِعاء قضيب البعير. والثِّيل: نبات يشبك بعضُه بعضاً. واشتقاقه واشتقاق الكلمة التى قبله واحد. وما أُبْعِدُ أنْ تكون هذه الياءُ منقلبةً عن واو، تكون من قولهم تثوَّلوا عليه، إذا تجمَّعوا.",
+ "az": "[ثيل]\nالثاء والياء واللام كلمةٌ واحدةٌ، وهى الثِّيلُ، وهو وِعاء قضيب البعير. والثِّيل: نبات يشبك بعضُه بعضاً. واشتقاقه واشتقاق الكلمة التى قبله واحد. وما أُبْعِدُ أنْ تكون هذه الياءُ منقلبةً عن واو، تكون من قولهم تثوَّلوا عليه، إذا تجمَّعوا. (Sə, ya və lam hərfləri tək bir kəlmədir, o da dəvənin cinsiyyət orqanının qını olan əs-sildir. Və əs-sil: bir-birinə dolaşan bitkidir. Onun kökü və ondan əvvəlki kəlmənin kökü birdir. Və mən uzaq görmürəm ki, bu ya hərfi vaudan dönmə olsun, hansı ki onların «üzərinə toplandılar» mənasındakı تثوَّلوا عليه sözündəndir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:42:41.762Z"
+}

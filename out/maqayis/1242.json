@@ -1,0 +1,17 @@
+{
+ "i": 1242,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 282,
+  "page_to": 282
+ },
+ "ar": "الدال والعين والميم أصلٌ واحد، وهو شئ يكون قياماً لشئِ ومِساكاً. تقول: دَعَمْتُ الشّئَ أدعِمُهُ دَعْماً، وهو مدعومٌ. والدِّعامتانِ:\nخشبَتَا البَكَرة. ودِعامةُ القوم: سيِّدهم. ويقال لا دَعْم بِفلانٍ، أى لا قُوَّةَ له ولا سِمَنَ. قال الراحز:\nلا دَعْمَ بى لكن بِلَيْلَى الدَّعْمُ … جاريةٌ فى وَرِكَيْها شَحْمُ (٣)\nودُعْمىٌّ: اسمٌ مشتقٌّ مِنْ هذا.",
+ "az": "[دعم] «الدال والعين والميم» (dal, ayn və mim) tək bir əsas olub, bir şeyin dayanacağı və dayağı olan şeydir. Deyirsən: دَعَمْتُ الشّئَ أدعِمُهُ دَعْماً (şeyi dayandırıb dəstəklədim, dəstəkləyirəm, dayaq), və o, مدعومٌ (dəstəklənmişdir). Və الدِّعامتانِ (diatəni): qaranqaranın [çarxın] iki taxtasıdır. Və دِعامةُ القوم (qövmün dayağı): onların ağasıdır. Və deyilir: لا دَعْم بِفلانٍ (filankəsdə dayaq yoxdur), yəni onun gücü və kökəliyi yoxdur. Rəcəz oxuyan şəxs demişdir: لا دَعْمَ بى لكن بِلَيْلَى الدَّعْمُ … جاريةٌ فى وَرِكَيْها شَحْمُ (٣) (Məndə dayaq yoxdur, lakin dayaq Leylidədir; budlarında piy olan bir cariyədir). Və دُعْمىٌّ (Duəmiyyun) – bundan törəmiş bir addır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:07.370Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1987,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ستر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 132,
+  "page_to": 132
+ },
+ "ar": "السين والتاء والراء كلمةٌ تدلُّ على الغِطاءُ. تقول: سترت الشئ ستراً. والسُّتْرَة: ما استترت به، كائناً ما كان. وكذلك السِّتار (١). فأمّا الإِستار، وقولهم إستار الكعبة، فالأغلبُ أنه من السِّتر، وكأنّه أراد به ما تُستَر به الكعبة من لباسٍ. إلاَّ أنّ قوماً زعموا أنْ ليس ذلك من الِّلباس، وإنما هو من العَدَد. قالوا: والعرب تسمِّى الأربعة الإستار (٢) ويحتجُّون بقول الأخطل:\nلعمرك إنَّنى وابنَىْ جُعَيْلٍ … وأُمَّهُماَ لَإسْتاَرٌ لئيمُ (٣)\nوبِقول جرير:\nقُرِنَ الفرزدقُ والبَعيثُ وأمُّه … وأبُو الفرزدق قُبِّحَ الإستارُ (٤)\nقالوا: فأستار الكعبة: جْدرانها وجوانبها، وهى أربعة وهذا شئٌ قد قيل، واللّه أعلم بصحته.",
+ "az": "«ستر» (sin, ta, ra). Örtüyə dəlalət edən bir sözdür. Sən deyirsən: «Şeyi örtdüm» (سترت الشئ ستراً). «Əssutrə» (السُّتْرَة): nə olursa olsun, arxasında gizləndiyin şeydir. Eləcə də «əssitar» (السِّتار). İstar sözünə, Kəbənin istarına gəldikdə isə, əksər alimlərin fikrincə o, örtükdən (sitr) götürülmüşdür, sanki bununla Kəbənin örtüldüyü libas nəzərdə tutulmuşdur. Lakin bir qrup insan bunun libasdan deyil, ədəddən (saydan) olduğunu iddia etmişdir. Onlar demişlər: Ərəblər dörd rəqəminə «istar» deyirlər və Əxtəlin bu beytini dəlil gətirirlər: «And olsun ömrümə ki, mən, Cüheylin iki oğlu və onların anası murdar bir istarıq (dördlükdərik)» (لعمرك إنَّنى وابنَىْ جُعَيْلٍ … وأُمَّهُماَ لَإسْتاَرٌ لئيمُ). Və Cəririn bu sözü ilə: «Fərzdaq, Bəis, onun anası və Fərzdaqın atası bir araya gətirildi, nə pis istardır o!» (قُرِنَ الفرزدقُ والبَعيثُ وأمُّه … وأبُو الفرزدق قُبِّحَ الإستارُ). Onlar demişlər: Kəbənin istarları onun divarları və tərəfləridir ki, onlar dörddür. Bu, söylənmiş bir sözdür, onun doğruluğunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:11.742Z"
+}

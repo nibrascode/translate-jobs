@@ -1,0 +1,17 @@
+{
+ "i": 794,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحمظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 512,
+  "page_to": 513
+ },
+ "ar": "و (جَحْمظْت) الغلامَ، إذا شددتَ يديه إلى رجليه وطرحته (٢).\nو",
+ "az": "[جحمظ] (جَحْمظْت) oğlanı, yəni əllərini ayaqlarına bağlayıb onu yerə atdın.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:52:48.508Z"
+}

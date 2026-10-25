@@ -1,0 +1,17 @@
+{
+ "i": 1164,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 230,
+  "page_to": 231
+ },
+ "ar": "الخاء والواو واللام أصلٌ واحد يدلُّ على تعهُّد الشَّئ.\nمِنْ ذلك: «إنَّه كان يَتَخَوَّلُهم بالموعظة (٢)»، أى كان يتعهَّدُهم بها. وفلان خَوْلِىُّ مالٍ، إذا كان يُصِلحه. ومنه: خَوَّلك اللّهُ مالاً، أى أعطاكَه؛ لأنّ المال يُتَخوَّل، أى يُتَعَهَّد. ومنه خَوَلُ الرّجُل، وهم حَشَمُه. أصله أنَّ الواحدَ خائل،\nوهو الرَّاعى. يقال فُلانٌ يَخُولُ على أهله، أى يَرعَى عليهم. ومن فصيح كلامهم:\nتَخَوَّلَت الرِّيح الأرضَ، إِذا تصرَّفَتْ فيها مرّةً بعد مرّة.",
+ "az": "«خول»: الخاء، الواو və اللам — bir şeyi qoruyub saxlamağa, nəzarətdə saxlamağa dəlalət edən tək bir əsasdır. Bunlardandır: «إنَّه كان يَتَخَوَّلُهم بالموعظة (٢)» (Həqiqətən, o, onlara öyüd-nəsihətlə baş çəkir, qoruyurdu). Filankəs malın «خَوْلِىُّ» (xovli) idi, yəni onu islah edirdi. Həmçinin: «خَوَّلك اللّهُ مالاً» (Allah sənə mal əta etdi), yəni onu sənə verdi; çünki mal «يُتَخوَّل» (yütəxəvvəl), yəni qorunub saxlanılır, qayğısına qalınır. Buradan da insanın «خَوَل» (xəvəl) sözü gəlir ki, onlar onun xidmətçiləri və əhlidir. Onun əsli odur ki, tək halda «خائل» (xəil) çoban deməkdir. Deyilir: «فُلانٌ يَخُولُ على أهله» (filankəs öz ailəsinin qeydinə qalır, onları otarır). Onların fəsih kəlmələrindən biridir: «تَخَوَّلَت الرِّيح الأرضَ» (külək torpağın üzərində bir dəfəyə yox, təkrar-təkrar əsdi, gəzdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

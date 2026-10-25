@@ -1,0 +1,17 @@
+{
+ "i": 437,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ترب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 346,
+  "page_to": 347
+ },
+ "ar": "التاء والراء والباء أصلان: أحدهما التراب وما يشتقّ منه، والآخَر تساوِى الشَّيئين.\nفالأول التُّراب، وهو التَّيْربُ والتَّوْرَاب (٥). ويقال تَرِبَ الرجل إذا افتَقَر كأنّه لصِق بالتُّراب، وأتْربَ إذا استَغْنى، كأنَّه صار له من المال بقَدْرِ التُّراب، والتَّرباء الأرضُ نفْسُها. ويقال ريحٌ تَرِبَةٌ إذا جاءت بالتُّراب. قال:\nلا بَلْ هو الشَّوقُ مِنْ دارٍ تَخَوْنَهَا … مَرًّا سَحابٌ ومَرًّا بارحٌ تَرِبْ (٦)\nوأمَّا الآخر فالتِّرب الخِدْن، والجمع أترابٌ. ومنه التَّرِيب، وهو الصَّدر عند تَساوِى رءُوس العظام. قال:\n* أشْرَفَ ثَدْيَاها على التَّريبِ (١) *\nومنه التَّرِبات وهى الأنامل، الواحدة تَرِبة.\nومما شذَّ عن الباب التّربة (٢) وهو نبت.",
+ "az": "[ترب] (tə-rə-b). Ta, ra və ba hərflərinin iki əsası vardır: biri torpaq və ondan törəyənlər, digəri isə iki şeyin bərabərliyidir. Birincisi: التُّراب (ət-türab) — torpaqdır, o, həmçinin تَيْرب (təyrib) və تَوْرَاب (tovrab) adlanır (5). Deyilir: təribə-r-racü — kişi kasıb oldu, sanki torpağa yapışdı; ətrəbə — varlandı, sanki torpaq qədər malı oldu. Və et-türbə — torpağın özüdür. Deyilir: ريحٌ تَرِبَةٌ (rihun təribətün) — torpaq gətirən külək. [Şair] demişdir: Xeyr, bəlkə bu, buludun bir dəfə, şimal küləyinin isə başqa bir dəfə torpaqla keçdiyi və dəyişdiyi yurda olan həsrətdir (6). İkincisi isə: et-tİrb — həmyaşıd, dostdur, cəmi: أتراب (ətrab). Buradan da et-tərib gəlir ki, o da sümüklərin başları bərabərləşdiyi yerdə sinədir. [Şair] demişdir: Onun iki döşü təribin üzərinə ucaldı (1). Həmçinin buradan ət-təribat gəlir ki, onlar da barmaq uclarıdır, təki: تَرِبَة (təribətün). Bu fasildən istisna olan isə bir bitki adı olan et-türbədir (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 354,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بوه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 324,
+  "page_to": 324
+ },
+ "ar": "الباء والواو والهاء ليس بأصلٍ عندى، وهو كلامٌ كالتهكُّم والهُزْء. يقولون للرَّجُل الذى لا خَيْر فيه ولا غَنَاءَ عِنده: بُوهَة. قال:\nيا هِنْدُ لا تَنْكحِى بُوهَةً … عليهِ عَقِيقتُه أحسَبَا (١)\nومثله قولهم إنَّ البُوهَ طائرٌ مثلُ البُومة. قال:\n* كالبُوهِ تَحْتَ الظُّلَّةِ المرشُوشِ (٢) *\nقال: يقول: كأنى طائرٌ قد تَمَرَّطَ ريشُه من الكِبَر، فرُشَّ عليه الماءِ ليكون أسْرَع لنَبَات رِيشِه. قال: هو يُفعل هذا بالصُّقُورةِ خَاصَّةً. قالوا: وإيّاه أرادَ امرؤُ القَيس، فشبَّه به الرّجُلَ. وهذا يدلُّ على ما قُلْناه. وكذلك البُوهَة، وهو ما طارَتْ به الرِّيح من التُّراب. يقال: «أهْوَنُ مِنْ صُوفَةٍ فى بُوهَةٍ».",
+ "az": "«بوه» (buh): Mənim yanımda باء، واو və həmzə hərfləri əsas bir kök deyil, bu, istehza və əyləncə məqsədilə işlənən bir sözdür. Onlar xeyri və faydası olmayan kişiyə «بُوهَة» (buhə) deyirlər. Şair demişdir:\nيَا هِنْدُ لَا تَنْكِحِى بُوهَةً … عَلَيْهِ عَقِيقَتُهُ أَحْسَبَا (١)\n(Ey Hind, elə bir buhə ilə evlənmə ki, onun əqiq tükləri hələ üstündədirz, belə zənn edirəm.)\nBuna bənzər də onların «البُوه» (əl-buh) sözünün bayquşa bənzər bir quş olması barədəki sözləridir. Şair demişdir:\n* كَالبُوهِ تَحْتَ الظُّلَّةِ المَرْشُوشِ (٢) *\n(Sanki kölgəlik altındakı su səpilmiş buh kimidir.)\nŞair deyir: Sanki mən qocalıqdan lələkləri tökülmüş, lələklərinin daha tez bitməsi üzərinə su səpilmiş bir quş kimiyəm. O demişdir: Bu əməli xüsusilə şahinlərə edirlər. Alimlər demişlər ki, Məmrul-Qeys də məhz bunu qəsd etmiş və kişini buna bənzətmişdir. Bu da bizim dediyimizə dəlalət edir. Həmçinin «البُوهَة» (əl-buhə) — küləyin havaya sovurub apardığı torpaqdır. Belə deyilir: «أَهْوَنُ مِنْ صُوفَةٍ فِى بُوهَةٍ» (Küləkdəki yun parçasından daha əhəmiyyətsizdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.170Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 985,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حيف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 125,
+  "page_to": 125
+ },
+ "ar": "الحاء والياء والفاء أصل * واحد، وهو المَيْل. يقال [حاف] عليه يَحِيفُ، إذا مالَ. ومنه تحيفْتُ الشئَ، إذا أخذْتَه من جوانِبِه، وهو قياسُ الباب لأنه مال عَنْ عُرْضِه إلى جوانبه.",
+ "az": "[حيف] (heyf) - Ha, ya və fa tək bir kökə malikdir ki, o da meyil etməkdir. Deyilir: «[حاف] عليه يَحِيفُ» — o, haqsızlıq edib meyil etdikdə. Buradan «تحيفْتُ الشئَ» — bir şeyi kənarlarından götürdüyüm zaman (işlədilir), və bu, fasilənin ölçüsüdür, çünki o, öz istiqamətindən kənarlarına meyil etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

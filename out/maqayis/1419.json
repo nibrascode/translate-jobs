@@ -1,0 +1,17 @@
+{
+ "i": 1419,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 365,
+  "page_to": 365
+ },
+ "ar": "الذال والواو والدال أصلان: أحدهما تنْحِية الشّئ عن الشئ، والآخَر جماعةُ الإبل. ومحتملٌ أن يكون البابان راجعَينِ إلى أصل واحد.\nفالأوّل قولهم: ذُدْت فلاناً عن الشئ أذُودُه ذَوْداً، وذُدْت إبِلى أذودُها ذَوداً وذِيادا. ويقال أذَدْتُ فلاناً: أعنتُه على ذِياد إبِله.\nوالأصل الآخر الذَّوْد من النَّعَم قال أبو زيد: الذَّود من الثلاثة إلى العشرة.",
+ "az": "[ذود] \n\nذال، واو və dal hərfi iki əsas mənanı ifadə edir: birincisi, bir şeyi digərindən uzaqlaşdırmaq; ikincisi, dəvə sürüsü. Hər iki باب (bölmənin) vahid bir əsərə qayıtması ehtimalı var.\n\nBirincisi onların şu sözüdür: ذُدْت فلاناً عن الشئ أذُودُه ذَوْداً (falanı şeydən uzaqlaşdırdım, uzaqlaşdırıram, uzaqlaşdırma), həmçinin ذُدْت إبِلى أذودُها ذَوداً وذِيادا (dəvəmi qovdum, qovuram, qovmaq). Deyilir ki, أذَدْتُ فلاناً: onun dəvəsini qovmasına kömək etdim.\n\nDigər əsas isə mal-qara mənasında olan الذَّوْد sözüdür. Əbu Zeyd demişdir: الذَّوْد üçdən ona qədər olan saydır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

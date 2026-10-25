@@ -1,0 +1,17 @@
+{
+ "i": 2349,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "الصاد والخاء والراء كلمةٌ صحيحة، وهى الصَّخْرة: الحَجَرةُ العظيمة. ويقال صَخْرَةٌ وصَخَرَة.",
+ "az": "[صخر] «الصاد» (sad), «Xə» (xa) və «Ra» (ra) səhih bir kəlimədir, o da «الصَّخْرة» (əs-səxrə) — böyük daşdır. صَخْرَةٌ (səxrətün) və صَخَرَةٌ (səxarətün) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

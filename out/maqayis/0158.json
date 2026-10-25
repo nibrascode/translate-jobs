@@ -1,0 +1,17 @@
+{
+ "i": 158,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أيس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 164,
+  "page_to": 164
+ },
+ "ar": "الهمزة والياء والسين ليس أصلاً يقاس عليه، ولم يأتِ فيه إلا كلمتان ما أحسِبَهما من كلام العرب، وقد ذكرناهما لذكر الخليل إيّاهما. قال الخليل:\nأَيْسَ كلمةٌ قد أُمِيتَتْ (١)، غير أنّ العرب تقول: «ائت به من حيثُ أَيْسَ وليس» لم يُستعمل أَيْسَ إلا فى هذه فقط، وإنما معناها كمعنى [حيث (٢)] هو فى حال الكينونة والوُجْد والجِدَة. وقال: إنّ «ليس» معناها لا أَيْسَ، أى لا وُجْدَ.\nوالكلمة الأخرى قول الخليل إنّ التأييس الاستقلال؛ يقال ما أيَّسْنَا فلاناً (٣) أى ما استقلَلْنا منه خيراً.\nوكلمةٌ أخرى فى قول المتلمِّس:\n* تُطيف به الايَّامُ ما يتَأَيَّسُ * (٤)\nقال أبو عبيدة: لا يتأيَّس لا يؤثِّر فيه شئ. وأنشد:\n* إنْ كنت جُلْمودَ صَخْرٍ لا يُؤَيّسُهُ * (٥)\nأى لا يؤثر فيه.",
+ "az": "[أيس] (ə-y-s): Həmzə, ya və sin hərfləri üzərində müqayisə aparılan bir əsl deyildir və burada ərəb kəlamından olduğunu güman etmədiyim yalnız iki kəlmə gəlmişdir; lakin Xəlil onları qeyd etdiyi üçün biz də onları zikr etdik. Xəlil demişdir: «أَيْسَ» (əys) istifadədən qalmış (١) bir kəlmədir, lakin ərəblər «ائت به من حيثُ أَيْسَ وليس» (Onu olduğu və olmadığını bildiyin yerdən gətir) deyirlər. «أَيْسَ» yalnız bu ifadədə işlədilmişdir və mənası [حيث (٢)] (olduğu yerdə) sözünün mənası kimidir, bu da var olma, mövcudluq və sərvət halındadır. O həmçinin demişdir ki, «ليس» (leis) sözünün mənası «لا أَيْسَ» (la əys), yəni var olmamaq deməkdir. Digər kəlmə isə Xəlilə görə «التأييس» (ət-təyis) sözünün «استقلال» (az bilmək, az saymaq) mənasında olmasıdır; deyirlər ki: «ما أيَّسْنَا فلاناً» (٣) (filankəsdən az şey umduq, ondan xeyir umub az gördük). Mütəmmisin bu misrasında da başqa bir kəlmə var: * تُطيف به الايَّامُ ما يتَأَيَّسُ * (٤) (Günlər onun ətrafında dövr edir, o isə heç bir şeyə təsir etmir). Əbu Üبەydə demişdir: «لا يتأيَّس» (lə yətəyyəs) – heç bir şey ona təsir etmir deməkdir. O, bu beyti də dəlil gətirmişdir: * إنْ كنت جُلْمودَ صَخْرٍ لا يُؤَيّسُهُ * (٥) (Əgər sən elə bir sərt qaya parçasıısan ki, heç nə ona təsir etmir). Yəni, ona heç bir şey təsir göstərmir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:25:17.134Z"
+}

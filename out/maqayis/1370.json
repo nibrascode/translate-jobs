@@ -1,0 +1,17 @@
+{
+ "i": 1370,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 332,
+  "page_to": 332
+ },
+ "ar": "الدال والحاء واللام يدلُّ على تلجُّفٍ فى الشَّئ وتطامُن.\nفالدَّحْل: المطمئِنُّ من الأرض، والجمع الدُّحُول. ويقال بئرٌ دَحُولٌ: ذاتُ تلجُّف (٢)، وذلك إذا أكمَلَ الماءُ جِرابَها. فأمَّا الدَّحِلُ فى خَلْق الإنسان، فيقال هو العظيم البَطْن؛ وهذا قياسُ الباب، لأنَّه يدلُّ على سَعةٍ وتلجُّف.",
+ "az": "[دحل] الدال والحاء واللام يدلُّ على تلجُّفٍ فى الشَّئ وتطامُن. (الدال, hə və lam – şeydə çöküntüyə və alçalmaya dəlalət edir). فالدَّحْل (əddəhl): Yerin çökək yeri, cəmi دُّحُول (dəhul). Və deyilir: bئرٌ دَحُولٌ (dəhul quyu) – çökəkliyi olan, bu da su onun dərisini (çəlləyini) doldurduğu zamandır. İnsanın xilqətindəki الدَّحِلُ (əd-dəhil) olmasına gəldikdə, deyilir ki, o, qarnı böyükdür; bu da bu بابın qiyasındadır, çünki o, genişliyə və çöküntüyə dəlalət edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1422,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذيع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 365,
+  "page_to": 365
+ },
+ "ar": "الذال والياء والعين أصلٌ يدلُّ على إظهار الشَّئ وظُهوره وانتشارِه. يقال ذاعَ الخبرُ وغيرُه يَذِيع ذُيوعاً. ورجلٌ مِذياعٌ: لا يكتُم سِرًّا؛ والجمع المذابيع. و\nفى حديث علىٍّ ﵇: «ليسوا بالمَسَابِيح ولا المَذايِيع البُذْر». وهاهنا كلمةٌ من هذا فى المعنى من طريقة الانتشار، يقولون: أذاع النّاس [ما (٢)] فى الحَوض، إذا شربوه كُلَّه.",
+ "az": "[ذيع] \n\nذال، ياء və eyn hərfi bir şeyin aşkar edilməsinə, üzə çıxmasına və yayılmasına dəlalət edən bir əsasdır. Deyilir ki, ذاعَ الخبرُ وغيرُه يَذِيع ذُيوعاً (xəbər və başqası yayıldı, yayılır, yayılmaq). Və مِذياعٌ (miziyac) – sirr gizlətməyən kişidir, cəmi isə المذابيع (əlməzabic) gəlir. Həzrət Əlinin (ə.s.) hədisində gəlmişdir: «ليسوا بالمَسَابِيح ولا المَذايِيع البُذْر» (Onlar nə məsabih, nə mədayic, nə də israfçılardandır). Burada yayılma mənasından bu məna ilə əlaqəli bir kəlmə də var; deyirlər ki, أذاع النّاس [ما (٢)] فى الحَوض (insanlar hovuzdakı suyu içdilər) – onu bütövlüklə içdikləri zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

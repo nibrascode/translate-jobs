@@ -1,0 +1,17 @@
+{
+ "i": 534,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثكن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الثاء والكاف والنون كلمةٌ واحدةٌ تدلُّ على مُجتَمَع الشّئ.\nيقال تَنَحَّ عن ثَكَنِ الطَّريقِ، أى مُعظَمِهِ وواضحه (١). والثُّكْنة السِّرب، والجماعة، والجمعُ ثكَنٌ. قال الأعشى:\nيُسافِعُ وَرْقاءَ جُونِيَّةً … ليُدرِكَها فى حمامٍ ثُكَنْ (٢)",
+ "az": "[ثكن] (Sə, kaf və nun) bir şeyin toplaşdığı yerə dəlalət edən tək bir kəlmədir.\nDeyilir: تَنَحَّ عن ثَكَنِ الطَّريقِ (yolun əsas yerindən çəkil) – onun ən böyük və açıq hissəsindən (١). Və الثُّكْنة (süknə) – dəstə, camaatdır, cəmi də ثكَنٌ (səkən) gəlir. Əşə-şi demişdir:\nيُسافِعُ وَرْقاءَ جُونِيَّةً … ليُدرِكَها فى حمامٍ ثُكَنْ (٢)\n(Mənanın tərcüməsi: O, qarağat rəngli göyərçini yaxalamağa çalışır ki, onu dəstə halında olan göyərçinlərin arasında tutsun.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.493Z"
+}

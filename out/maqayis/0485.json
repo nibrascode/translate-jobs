@@ -1,0 +1,17 @@
+{
+ "i": 485,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تبع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 362,
+  "page_to": 363
+ },
+ "ar": "التاء والباء والعين أصل واحد لا يشذ عنه من الباب شئٌ، وهو التُّلُوُّ والقَفْو. يقال تبِعْتُ فلاناً إذا تَلَوْتَه [و] اتّبعْتَه. وأتْبَعْتُه إذا لحِقْتَه.\nوالأصل واحد، غير أنَّهم فَرَقوا بين القَفْو واللُّحُوق فغيَّرُوا البِناءَ أدنَى تغييرٍ.\nقال اللّه: ﴿فَأَتْبَعَ سَبَباً (٣﴾، [و]: ﴿ثُمَّ أَتْبَعَ سَبَباً (٤﴾ فهذا معناه على\nهذهِ القراءة اللُّحوق، ومِنْ أهْلِ العربيَّة مَنْ يجعل المعنى فيهما واحداً.\nوالتُّبَّعُ فى قول القائِل (١):\nيَرِدُ المياهَ حَضِيرَةً ونَفِيضةً … وِرْدَ القَطاةِ إذا اسْمألَّ التُّبَّعُ (٢)\nهو الظِّلُّ، وهو تابعٌ أبداً للشَّخص. فهذا قياسٌ أصدَقُ من قَطاةٍ. والتَّبِيع وَلَد البقرة إذا تَبِع أُمَّه، وهو فَرْض الثَّلاثين (٣). وكان بعضُ الفقَهاء يقول:\nهو * الذى يَستوِى قَرْناه وأذُناه. وهذا من طريقة الفُتْيا، لا من قياس اللغة.\nوالتَّبَعُ قوائم الدابّة، وسُمِّيت لأنّه يتْبع بعضُها بعضاً. والتَّبِيع النَّصير، لأنه يَتْبعُه نَصرهُ. والتَّبيع الذى لك عليه مالٌ، فأنت تَتْبَعُه. و\nفى الحديث: «مَطْلُ الغَنِىِّ ظُلْمٌ، وإذا أُتْبِعَ أحدُكُمْ على مَلِئٍ فليَتَّبِعْ». يقول: إذا أُحِيلَ عليه فليَحْتَلْ.",
+ "az": "[تبع] (t-b-ayin): Ta, ba və əyn hərfləri tək bir əsasdır ki, bu babdan heç bir şey ondan kənara çıxmır, o da ardınca getmək və izləməkdir. Deyilir: تَبِعْتُ فُلَانًا (təbi‘tu fülənan) – filankəsin ardınca getdim və ona tabe oldum. وَأَتْبَعْتُهُ (və ətbə‘tuhu) – ona yetişdim. Əsas birdir, lakin onlar izləmə ilə çatıb-yetişmə arasında fərq qoyaraq binanı cuzi şəkildə dəyişdilər. Allah Təala buyurmuşdur: ﴿فَأَتْبَعَ سَبَبًا﴾ («Sonra bir səbəb izlədi / bir yola qədəm qoydu»), [və]: ﴿ثُمَّ أَتْبَعَ سَبَبًا﴾. Bu qiraətə görə bunun mənası yetişməkdir. Ərəb dili alimlərindən elələri də var ki, hər iki yerdə mənanın eyni olduğunu hesab edirlər. التُّبَّعُ (ət-tubbə‘) sözü bu qəfiənin sözündədir (١): يَرِدُ الْمِيَاهَ حَضِيرَةً وَنَفِيضَةً … وِرْدَ الْقَطَاةِ إِذَا اسْمَأَلَّ التُّبَّعُ (٢) (Qata quşu kimi, təbbə‘ əyilərkən, suları həm qrup halında, həm də tək-tək içməyə gələr). Buradakı kölgədir və o, həmişə insana tabedir. Bu, qata quşundan daha doğru bir qiyasdır. التَّبِيعُ (ət-təbi‘) – anasının ardınca gedən buzovdur və bu, otuz inəyin zəkatında fərz olan yaş həddidir. Bəzi fəqihlər deyərdilər: O, buynuzları və qulaqları bərabər olan heyvandır. Bu isə dil qiyasından deyil, fətva üsulundandır. التَّبَعُ (ət-təbə‘) – minik heyvanının dördayaqlı ayaqlarıdır, buna görə adlanmışdır ki, onların biri digərinin ardınca düşür. التَّبِيعُ (ət-təbi‘) – köməkçidir, çünki onun köməyi ardınca gəlir. التَّبِيعُ (ət-təbi‘) – üzərində malın olan, sənin də ardınca düşdüyün kəsdir. Hədisdə buyurulur: «مَطْلُ الْغَنِيِّ ظُلْمٌ، وَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيءٍ فَلْيَتَّبِعْ» («Varlı adamın borcu gecikdirməsi zülmdür, və əgər birinizə borclu olan şəxs borcu ödəməyə qadir olan başqa bir varlı adama yönləndirilərsə, qoy ona tabe olsun [borcu ondan tələb etsin]»). Yəni başqasına həvalə olunarsa, qoy qəbul etsin.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

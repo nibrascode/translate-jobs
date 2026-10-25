@@ -1,0 +1,17 @@
+{
+ "i": 862,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حسك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 56,
+  "page_to": 56
+ },
+ "ar": "الحاء والسين والكاف من خشونة الشئ، لا يخرج مسائله عنه. فمن ذلك الحَسَكُ، وهو حَسَك السَّعدانِ (٢)، وسِّمى بذلك لخشونته وما عليه مِنْ شَوك. ومن ذلك الحَسِيكة، وهى العداوة وما يُضَمّ فى القلب من خشونة. ومن ذلك الحِسْككِ (٣) وهو القُنفُذ. والقياس فى جميعه واحد.",
+ "az": "[حسك] \n الحاء والسين والكاف من خشونة الشئ، لا يخرج مسائله عنه. فمن ذلك الحَسَكُ، وهو حَسَك السَّعدانِ (٢)، وسِّمى بذلك لخشونته وما عليه مِنْ شَوك. ومن ذلك الحَسِيكة، وهى العداوة وما يُضَمّ فى القلب من خشونة. ومن ذلك الحِسْككِ (٣) وهو القُنفُذ. والقياس فى جميعه واحد. \n (Hə, sin və kaf hərfləri şeyin sərtliyindən ibarətdir, onun məsələləri bundan kənara çıxmır. Bunlardan biri də «الْحَسَكُ»-dür, o da sə'dan bitkisinin tikanlarıdır, sərtliyinə və üzərindəki tikanlara görə belə adlandırılmışdır. Və bundandır «الْحَسِيكَةُ» — o da düşmənçilikdir və qəlbdə gizlədilən sərtlikdir. Və bundandır «الْحِسْكِكُ» — o da kirpidir. Hamısında qiyas birdir.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:55:36.987Z"
+}

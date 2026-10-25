@@ -1,0 +1,17 @@
+{
+ "i": 1229,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 274,
+  "page_to": 274
+ },
+ "ar": "الدال والراء والباء الصّحيح منه أصلٌ واحد، وهو أن يُغْرَى بالشّئِ ويلزمه. يقال دَرِبَ بالشّيء، إذا لزِمَه ولصق به. ومن هذا الباب تسميتُهم العادةَ والتّجرِبة دُرْبَة. ويقال طَيْرٌ دَوَارِبُ بالدِّماء، إذا أُغْرِيَت.\nقال الشاعر (٣):\nيصاحِبْنَهم حتَّى يُغِرْنَ مُغارَهم … مِنْ الضّاريات بالدّماءِ الدّوارِب\nوَدَرْبُ المدينة معروف، فإنْ كان صحيحاً عربيًّا فهو قياسُ الباب؛ لأنّ النّاسَ يَدْرَبُون به قصداً له. فأما تَدَرْبَى الشّئُ، إذا تَدَهْدَى، فقد قيل (٤).\nوالدّرْبانِيّة: جنسٌ من البقر. والدّردابُ: صوت الطبَّل. فكلُّ هذا كلامٌ ما يُدْرَى ما هو.",
+ "az": "[درب] (Dərab): Dal, ra və ba hərfləri səhih olub tək bir əsl kökə malikdir, o da bir şeyə həvəsləndirilmək və ona bağlanmaqdır. دَرِبَ بالشّيء (bir şeyə alışdı) — ona bağlandı və yapışdı deməkdir. Adət və təcrübəni دُرْبَة (durbə) adlandırmaları da bu fəsildəndir. طَيْرٌ دَوَارِبُ بالدِّماء (qana susamış quşlar) — qana həvəsləndirilmiş quşlar deməkdir.\nŞair demişdir (٣):\nيصاحِبْنَهم حتَّى يُغِرْنَ مُغارَهم … مِنْ الضّاريات بالدّماءِ الدّوارِب\n(Onları müşayiət edərlər, ta ki qana aludə olmuş və qana susamış quşların basqını kimi hücum edərlər).\nŞəhərin دَرْب (dərb - küçə, keçid) yeri məlumdur, əgər bu səhih və ərəb mənşəlidirsə, bu da bu fəslin qiyasındandır; çünki insanlar ora məqsədli şəkildə gedirlər. تَدَرْبَى الشّئُ (bir şey yuvarlandı) sözünə gəlincə, bu barədə deyilmişdir (٤).\nالدّرْبانِيّة (dərbaniyyə): bir növ mal-qara. الدّردابُ (dərdab): təbil səsi. Bunların hamısı mənasız sözlərdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:45.024Z"
+}

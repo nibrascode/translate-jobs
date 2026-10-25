@@ -1,0 +1,17 @@
+{
+ "i": 1186,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 242,
+  "page_to": 243
+ },
+ "ar": "الخاء والباء واللام أصلٌ واحد يدلُّ على فساد الأعضاء فالخَبَل الجُنون. يقال اختبله الجنّ. والجَنىُّ خابل، والجمع خُبَّل. والخَبَل فساد الأعضاء. ويقال خُبِلت يده، إذا قُطِعت وأُفْسِدَت. قال أوس:\nأبَنِى لُبَيْنَى لستُم بيدٍ … إلا يداً مَخبولةَ العَضُدِ (١)\nأى مُفْسَدة العضُد. ويقال فُلانٌ خَبَالٌ على أهله، أى عَنَاء عليهم لا يغْنِى عنهم شيئا. وطِينة الخَبَال الذى جاء فى الحديث (٢)، يقال إنّه صَدِيد أهل النّار.\nومما شذّ عن الباب الإخبال، ويقال هو أن يجعل الرّجُل إبلَه نِصفين، يُنتِج كلَّ عام نصفاً، كما يُفعل بالأرض فى الزّراعة. ويقال الإخبال أن يُخْبِل الرّجلَ، وذلك أن يُعِيرَه ناقةً يركبُها، أو فرساً يغزُو عليه. ويُنشد فى ذلك قولُ زهير:\nهُنالك إن يُستَخْبَلُوا المالَ يُخْبِلُوا … وإن يُسألوا يُعْطُوا وإن بَيْسِرُوا يُغْلُوا (٣)",
+ "az": "[خبل] الخاء والباء واللام أصلٌ واحد يدلُّ على فساد الأعضاء. (Xar, ba və lam hərfləri üzvlərin fəsadına [pozulmasına] dəlalət edən bir əsasdır). فالخَبَل الجُنون. («əl-Xəbəl» dəlilikdir). يقال اختبله الجنّ. (Deyilir: «İxtəbəhul-cinnu» — cinlər onu dəli etdi). والجَنىُّ خابل، والجمع خُبَّل. (Cin xabildir, cəmi «xubbəl»dir). والخَبَل فساد الأعضاء. (Və «əl-xəbəl» üzvlərin pozulmasıdır). ويقال خُبِت يده، إذا قُطِعت وأُفْسِدَت. (Deyilir: «Xubitət yaduhu» — əli kəsildiyi və pozulduğu zaman). قال أوس: أبَنِى لُبَيْنَى لستُم بيدٍ … إلا يداً مَخبولةَ العَضُدِ (١) (Ovs demişdir: Ey Lubeyna oğulları, siz əl deyilsiniz… məgər bazu hissəsi xəbul olmuş [pozulmuş] əldən başqa [1]). أى مُفْسَدة العضُد. (Yəni bazusu pozulmuş). ويقال فُلانٌ خَبَالٌ على أهله، أى عَنَاء عليهم لا يغْنِى عنهم شيئا. (Deyilir ki, filankəs ailəsi üçün «xəbal»dır, yəni onlara əziyyətdir, onlara heç bir faydası yoxdur). وطِينة الخَبَال الذى جاء فى الحديث (٢)، يقال إنّه صَدِيد أهل النّار. (Hədisdə gələn «tinetul-xəbal» [2] isə, deyilir ki, cəhənnəm əhlinin irinidir). ومما شذّ عن الباب الإخبال، ويقال هو أن يجعل الرّجُل إبلَه نِصفين، يُنتِج كلَّ عام نصفاً، كما يُفعل بالأرض فى الزّراعة. (Fəsildən şaz olan isə «əl-ixbal»dır, deyilir ki, bu, kişinin dəvələrini yarı bölməsi, əkinçilikdə torpağa edildiyi kimi hər il yarısını bala verən etməsidir). ويقال الإخبال أن يُخْبِل الرّجلَ، وذلك أن يُعِيرَه ناقةً يركبُها، أو فرساً يغزُو عليه. (Və deyilir ki, «əl-ixbal» kişinin başqasına dəvəni xəbil etməsidir, bu da ona minməsi üçün bir dəvə və ya qazafat etməsi üçün bir at verməsidir). ويُنشد فيهم قولُ زهير: هُنالك إن يُستَخْبَلُوا المالَ يُخْبِلُوا … وإن يُسألوا يُعْطُوا وإن بَيْسِرُوا يُغْلُوا (٣) (Buna dəlil olaraq Züheyrin bu beyt oxunur: Orada əgər mal istənilsə, verərlər… və əgər dilənsələr, əta edərlər, qumar oynasalar, qiyməti artırarlar [3]).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:18.899Z"
+}

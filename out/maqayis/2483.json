@@ -1,0 +1,17 @@
+{
+ "i": 2483,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 408,
+  "page_to": 409
+ },
+ "ar": "الطاء والخاء ليس [له] عندى أصلٌ مطرد ولا منقاس. وقد ذُكر عن الخليل: طَخْطَخَ السّحابُ: انضمَّ بعضُه إلى بعض. والطَّخْطخة: تسوية\nالشَّئ. وهذا إنما يُحتاج فى تصحيحه إلى حُجّة، فأمّا الحكاية فى هذا الباب فيقال إنّ الطّخْطَخَة الضّحك؛ والحكاياتُ لا تُقاس.\nومما يقرب من هذا فى الضَّعف قولهم إنَّ المتطخطخ: الضعيفُ البصر. وقالوا أيضاً: والطُّخوخ: سوء الخُلُق والشَّراسَة.",
+ "az": "[طخ] الطاء والخاء ليس [له] عندى أصلٌ مطرد ولا منقاس (Ta və xa hərflərinin mənim yanımda mütərrid və müqas olan bir kökü yoxdur). وقد ذُكر عن الخليل: طَخْطَخَ السّحابُ: انضمَّ بعضُه إلى بعض (Xəlildən nəql olunmuşdur: «təxtəxəss-səhab» – buludun bir hissəsi digərinə birləşdi). والطَّخْطخة: تسوية الشَّئ (Ət-təxtəxə: bir şeyi düzəltməkdir). وهذا إنما يُحتاج فى تصحيحه إلى حُجّة (Bunun səhihliyini sübut etmək üçün dəlilə ehtiyac var), فأمّا الحكاية فى هذا الباب فيقال إنّ الطّخْطَخَة الضّحك؛ والحكاياتُ لا تُقاس (bu باب-dəki hekayətə gəlincə, deyilir ki, ət-təxtəxə gülməkdir; hekayətlər isə qiyas olunmur). ومما يقرب من هذا فى الضَّعف قولهم إنَّ المتطخطخ: الضعيفُ البصر (Zəiflikdə buna yaxın olan sözləri də budur ki, əl-mütətəxtix: zəif görən deməkdir). وقالوا أيضاً: والطُّخوخ: سوء الخُلُق والشَّراسَة (Həmçinin dedilər: ət-tuxux – pis xasiyyət və sərtlikdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:07:39.766Z"
+}

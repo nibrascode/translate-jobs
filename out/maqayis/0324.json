@@ -1,0 +1,17 @@
+{
+ "i": 324,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بهى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 307,
+  "page_to": 307
+ },
+ "ar": "الباء والهاء والياء أصلٌ واحد، وهو خُلُوّ الشئِ وتعطُّله.\nيقال بيتٌ باهٍ إذا كان خالياً لا شئ فيه. ويقولون: «المِعْزَى تُبْهِى ولا تُبْنِى» وذلك أنَّه لا يُتَّخَذ من شُعورها بيوت، وهى تَصْعَدُ الخِيَمَ فتمزِّقُها. و\nفى بعض الحديث: «أَبْهُوا الخَيْلَ». أى عطلِّوها. وربما قالوا بَهِىَ البَيْتُ بَهَاءً، إِذا تخرَّقَ.",
+ "az": "[بهى] (bəhi). Ba, hər və ya tək bir əsldir, o da bir şeyin boş və işsiz qalmasıdır. \nDeyilir: بيتٌ باهٍ (beytun bahin) – içində heç nə olmayan boş evdir. Deyirlər: «Keçilər bəhi edər, lakin bəni etməz» (المِعْزَى تُبْهِى ولا تُبْنِى), bunun səbəbi odur ki, onların tüyündən evlər düzəldilməz, onlar isə çadırların üstünə çıxıb onları cırırlar. Və bəzi hədislərdə: «Atları bəhu edin» (أَبْهُوا الخَيْلَ), yəni onları boş (işsiz) buraxın. Bəzən də deyirlər: بَهِىَ البَيْتُ بَهَاءً (bəhiyyəl-beytu bəhaən) – ev cırıldığı zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:54.814Z"
+}

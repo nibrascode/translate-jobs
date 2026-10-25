@@ -1,0 +1,17 @@
+{
+ "i": 1501,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رطم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "الراء والطاء والميم كلمةٌ تدلُّ على ارتباكٍ واحتباسٍ. يقولون:\nارتطَمَ على الرّجُل أمْرُه، إذا سُدَّتْ عليه مذاهبُه. ويقولون: ارتطَمَ فى الوحل.\nومن الباب تسميتُهم اللازِمَ للشّئ راطماً. والرَّطُوم: الأحمق؛ وسمِّى بذلك لأنّه يرتَطِم فى أمورِه. ومن الباب الرُّطام، وهو احتباس نَجْو البعير. ويقولون رَطَمها إذا نَكَحها. وقد قُلْنا إنّ هذا وشِهْهَ ممّا لا يكونُ من مَحْض اللُّغة.",
+ "az": "[رطم] (rə-tə-m). Çaşqınlığa və tıxanmaya dəlalət edən kəlmədir. Deyirlər: اِرْتَطَمَ عَلَى الرَّجُلِ أَمْرُهُ (irtatama alə ər-rajuli amruh) – kişinin işləri çıxılmaz vəziyyətə düşdükdə, yolları bağlandıqda. Deyirlər: اِرْتَطَمَ فِي الْوَحْلِ (irtatama fi əl-vahl) – bataqlığa batdı. Bu fəsildəndir ki, hər hansı bir şeydən əl çəkməyənə رَطِمٌ (ratim) deyirlər. الرَّطُوم (ar-ratum) – axmaq; bu ad ona işlərində çaş-baş qaldığı üçün verilmişdir. Bu fəsildəndir: الرُّطَام (ar-rutam) – dəvənin peyinini xaric edə bilməyib saxlaması. Deyirlər: رَطَمَهَا (ratamaha) – onunla cinsi əlaqədə oldu. Biz artıq dedik ki, bu və buna bənzər sözlər xalis lüğətdən deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

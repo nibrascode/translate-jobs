@@ -1,0 +1,17 @@
+{
+ "i": 880,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حصم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 68,
+  "page_to": 69
+ },
+ "ar": "الحاء والصاد والميم أصلٌ قليل الكَلِم، إلاّ أنه تكسُّر فى الشئ، يقال: انحصم العود، إذا انكسر. قال ابن مُقْبل:\nوبَياضاً أحدثَتْه لِمَّتِى … مثلَ عِيدانِ الحَصاد المنحَصِمْ (١)\nوممّا اشتقّ منه حُصام (٢) الدّابة، وهو رُدَامه. والقياس قريب.",
+ "az": "[حصم] Ha (ha), Sad (sad) və Mim (mim) az sözlü bir kökdür, lakin bu, bir şeyin qırılmasıdır, «انحصم العود» (çubuq qırıldı) deyilir, əgər o qırılıbsa. İbn Muqbil demişdir: «وبَياضاً أحدثَتْه لِمَّتِى … مثلَ عِيدانِ الحَصاد المنحَصِمْ» (Saçlarımda əmələ gələn ağlıq, biçin zamanı qırılan çubuqlar kimidir) (١). Ondan törədilənlərdən biri də heyvanın «حُصام» (huşam) - öskürəyidir (٢). Ölçü yaxındır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:57:37.546Z"
+}

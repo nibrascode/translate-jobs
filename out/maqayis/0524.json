@@ -1,0 +1,17 @@
+{
+ "i": 524,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثغر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 378,
+  "page_to": 379
+ },
+ "ar": "الثاء والغين والراء أصلٌ واحدٌ يدلُّ على تفتُّحٍ وانفراج.\nفالثَّغْر الفَرْج من فُروج البُلْدان، وثُغْرَة النَّحْر (١) الهَزْمة التى فى اللَّبَّة، والجمع ثُغَر. قال:\n* وتارةً فى ثُغَرِ النُّحُورِ * (٢)\nوالثغر ثَغر الإنسان. ويقال ثُغِر الصبىُّ إذا سقطَتْ أسنانُه واثَّغَر إذا نبَتَ بعد السُّقوط، وربَّما قالوا عند السقوط اثَّغَر. قال:\nقارِحٍ قد فُرَّ عَنْهُ جانبٌ … ورَبَاعٍ جانبٌ لم يَثَّغِرْ (٣)\nويقال لقِىَ بنو فُلانٍ بنى فُلانٍ فثَغَرُوهم، إذا سدُّوا عليهم المَخْرَجَ فلا يَدْرُون أين يأخذون. قال:\nهُمُ ثَغَرُوا أقرانَهم بمضرِّس … وشَفْرٍ وحازُوا القَومَ حتَّى تزحزحوا (٤)",
+ "az": "[ثغر] الثاء والغين والراء أصلٌ واحدٌ يدلُّ على تفتُّحٍ وانفراج (Thə, ğain və ra açılmağa və genişlənməyə dəlalət edən tək bir əsasdır). Əs-səğr (الثَّغْر) ölkələrin sərhəd boşluğudur, وَثُغْرَة النَّحْر (süğrətün-nəhr) boyun çuxurudur, cəmi ثُغَر (süğər)-dir. O demişdir: * وتارةً فى ثُغَرِ النُّحُورِ * (Və bəzən nühurun süğərində) (٢). Və səğr insanın ağzı/dişləridir. Deyilir: ثُغِر الصبىُّ (Oğlan uşağının süğir olundu) dişləri düşdüyü zaman və واثَّغَر (vəssəğərə) düşdükdən sonra bitdiyi zaman, bəzən düşdüyü zaman واثَّغَر (vəssəğərə) deyirlər. O demişdir: قارِحٍ قد فُرَّ عَنْهُ جانبٌ … ورَبَاعٍ جانبٌ لم يَثَّغِرْ (Bir tərəfi açılmış qarih, və hələ səğir etməmiş bir tərəfi rəbai) (٣). Deyilir: Filan oğullar filan oğullarla qarşılaşdı və onları ثَغَرُوهم (səğəruhum) etdilər, çıxış yolunu onlara bağladıqları zaman, beləliklə onlar haradan çıxacaqlarını bilmirlər. O demişdir: هُمُ ثَغَرُوا أقرانَهم بمضرِّس … وشَفْرٍ وحازُوا القَومَ حتَّى تزحزحوا (Onlar rəqiblərini dişli... və kəsici alətlə səğər etdilər və qövmü sıxışdırdılar ki, nəticədə onlar uzaqlaşdılar) (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.076Z"
+}

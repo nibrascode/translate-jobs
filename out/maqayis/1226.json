@@ -1,0 +1,17 @@
+{
+ "i": 1226,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 270,
+  "page_to": 271
+ },
+ "ar": "الدال والراء والنون أصلٌ صحيح، وهو ثقادُمٌ فى الشَّيء\nمع تغيُّرِ لَون. فالدَّرِين: اليَبِيسُ الحَوْلىّ. ويقال للأرض المجْدبة: أمُّ دَرِينٍ. قال:\nتَعَالَىْ نُسَمِّطْ حُبَّ دعْدٍ ونَغْتَدِى … سواءَيْنِ والمرعَى بأُمِّ دَرِينِ (١)\nيقول: تعالَىْ نلزَمْ حُبَّنَا وأرضَنا وعَيْشَنَا.\nومن الباب الدَّرَن، وهو الوسَخ. ومنه دُرَيْنَةُ، وهو نعتٌ للأحمق (٢). فأمّا قولُهم إنَّ الإدْرَوْنَ الأصلُ فكلامٌ قد قِيل، وما ندرى ما هُو (٣).",
+ "az": "[درن] الدال والراء والنون (dal, ra və nun hərfləri) səhih bir əsasdır, o da rəngin dəyişməsi ilə birlikdə bir şeyin köhnəlməsidir.\nالدَّرِين (əd-dərin) – keçən ildən qalan quru ot. Quraqlıq torpağa: أمُّ دَرِينٍ (Əmmi-dərin – dərin anası) deyilir. (Şair) demişdir:\nتَعَالَىْ نُسَمِّطْ حُبَّ دعْدٍ ونَغْتَدِى … سواءَيْنِ والمرعَى بأُمِّ دَرِينِ (١)\n(Gəl Dədin sevgisini boynumuza taxaq və səhər tezdən gedək, ikimiz bərabər, otlaq isə Əmmi-dərin torpağında olsun)\n\n(Şair) deyir: Gəl sevvgimizə, torpağımıza və yaşayışımıza sadiq qalaq.\n\nBu babdandır: الدَّرَن (əd-dəran) – çirk. Buradan da دُرَيْنَةُ (Durəynə) sözü gəlir ki, o, axmaq adamın sifətidir (2). \nİdrəun (الإدْرَوْنَ) sözünün əsl olduğu haqda dediklərinə gəldikdə, bu, deyilmiş bir sözdür, amma onun nə olduğunu bilmirik (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.590Z"
+}

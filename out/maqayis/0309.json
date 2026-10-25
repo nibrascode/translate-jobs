@@ -1,0 +1,17 @@
+{
+ "i": 309,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 299,
+  "page_to": 299
+ },
+ "ar": "الباء واللام والزَّاء * ليس بأصلٍ. وفيه كُلَيمات، فالبِلِزُ المرأة القصيرة. ويقولون البَلْأز: القصير من الرِّجال (٤). والبَلْأزَة: الأَكْل. وفى جميعِ ذلك نظرُ",
+ "az": "«بلز» (bələz): الباء واللام والزَّاء — əsas deyildir. Orada bəzi kiçik sözlər var: əl-biliz (البِلِزُ) — qadının qısası. Deyirlər ki, əl-bəlz (البَلْأز) — kişilərin qısasıdır (٤). Əl-bəlzəh (البَلْأزَة) — yeməkdir. Bütün bunlarda nəzər (araşdırma) vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:37.148Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 357,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 325,
+  "page_to": 326
+ },
+ "ar": "الباء والياء والدال أصلٌ [واحدٌ]، وهو أن يُودِىَ الشئُ.\nيقال بادَ الشئ بَيْداً وبُيُوداً، إذا أَوْدَى (٣). والبَيْداء المَفَازة مِنْ هذا أيضاً.\nوالجمعُ بينهما فى المعنى ظاهرٌ. ويقال إنّ البَيْدَانَةَ الأتَانُ تَسكُن البيداء (٤).\nفأمّا قولهم بَيْدَ، فكذا جاء بمعنى غيْر، يقال فُعِل كذا بَيْدَ أنَّه كان كذا. و\nقد جاء فى حديث النبى ﵌: «نحن الآخِرُون السَّابِقون يومَ القِيامة،\nبَيْد أنَّهمْ أُوتُوا الكتابَ مِنْ قَبْلِنا وأُوتِينَا مِنْ بَعْدِهم». وقال:\nعمداً فَعَلْتُ ذاكِ بَيْدَ أنى … إخَالُ لَوْ هَلَكْتُ لم تُرِنِّى (١)\nوهذا يُبايِنُ القياسَ الأوّل. ولو قيل إنه أصلٌ برأْسِهِ لم يَبْعُد.",
+ "az": "«بيد» (beyd): باء، ya və dəl hərfləri tək bir əsas kökdür, o da bir şeyin məhv olmasıdır.\nDeyilir: «بَادَ الشَّىْءُ بَيْداً وَبُيُوداً» (badəş-şeyu beydən və büyudan) — bir şey məhv olduqda (3). «البَيْدَاء» (əl-bəyda) — səhra da bu mənadandır.\nİkisi arasında mənaca əlaqə göz qabağındadır. Deyilir ki, «البَيْدَانَة» (əl-bəydanə) — səhrada məskən salan dişi eşşəkdir (4).\n«بَيْدَ» (bəydə) sözünə gəldikdə isə, o, «başqa» mənasında belə gəlmişdir: «فُعِلَ كذا بَيْدَ أَنَّهُ كَانَ كذا» (Filan iş edildi, lakin belə idi). \nPeyğəmbərin ﵌ hədisində gəlmişdir: «نَحْنُ الْآخِرُونَ السَّابِقُونَ يَوْمَ الْقِيَامَةِ، بَيْدَ أَنَّهُمْ أُوتُوا الْكِتَابَ مِنْ قَبْلِنَا وَأُوتِينَا مِنْ بَعْدِهم» (mənaca tərcümə: Biz axırıq, lakin Qiyamət günü öndə olanlarıq, bircə o var ki, onlara Kitab bizdən əvvəl, bizə isə onlardan sonra verilmişdir.) O həmçinin demişdir:\nعَمْداً فَعَلْتُ ذَاكَ بَيْدَ أَنِّى … إِخَالُ لَوْ هَلَكْتُ لَمْ تُرِنِّى (١)\n(Mən bunu qəsdən etdim, lakin elə güman edirəm ki, əgər həlak olsaydım, sən məni görməzdin.)\nBu isə birinci müqayisədən fərqlənir. Əgər bunun başlı başına bir əsl olduğu deyilsəydi, bu da uzaq olmazdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.170Z"
+}

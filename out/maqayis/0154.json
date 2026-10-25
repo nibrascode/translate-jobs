@@ -1,0 +1,17 @@
+{
+ "i": 154,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أون",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 162,
+  "page_to": 162
+ },
+ "ar": "الهمزة والواو والنون كلمةٌ واحدة تدلُّ على الرفق (٢). يقال آن يَؤُون أَوْناً، إذا رَفَق. قال شاعر:\nوسَفَرٌ كانَ قلِيلَ الأَوْنِ * (٣)\nويقال للمسافر: أُنْ على نفسك، أى اتَّدِعْ. وأُنْتُ أَؤُون أَوْناً؛ ورجل آئِنٌ.",
+ "az": "[أون] (əvn): Həmzə, vav və nun rəfiqliyə (mülayimliyə) dəlalət edən bir kəlmədir (2). Deyilir: آن يَؤُون أَوْناً (an yəunu övnən) — mülayim davrananda. Şair demişdir: وسَفَرٌ كانَ قلِيلَ الأَوْنِ * (Və az mülayimlikli səfər oldu) (٣). Səfərdə olan şəxsə deyilir: أُنْ على نفسك (ün alə nəfsik) — yəni təmkinli ol. Və أُنْتُ أَؤُون أَوْناً (üntü əüun övnən); kişi isə آئِنٌ (ayin) olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:24:55.392Z"
+}

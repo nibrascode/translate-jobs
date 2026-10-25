@@ -1,0 +1,17 @@
+{
+ "i": 2282,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 303,
+  "page_to": 303
+ },
+ "ar": "الصاد واللام والحاء أصلٌ واحدٌ يدل على خِلاف الفَساد.\nيقال صلُح الشّئُ يصلُح صلاحاً. ويقال صَلَح بفتح اللام. وحكى ابنُ السكّيت صلَح وصلُح. ويقال صَلَح صُلوحا. قال:\nوكيف بأَطْرافى إذا ما شتمتَنى … وما بعد شَتْم الوالدَينِ صُلوحُ (٢)\nوقال بعض أهل العلم: إنّ مكة تسمَّى صَلاحاً (٣)",
+ "az": "[صلح] (s-l-h): Sad, lam və ha tək bir əsas kök olub, fəsadın (pozğunluğun) əksinə dəlalət edir. Deyilir صلُح الشّئُ يصلُح صلاحاً (şey düzəldi, yaxşı oldu). Və lamın fəthi ilə صَلَح (sələh) də deyilir. İbn əs-Sikkit صلَح (sələh) və صلُح (suluh) dediyini nəql etmişdir. Və صَلَح صُلوحا (düzəldi) deyilir. O demişdir: \"Əgər sən məni söysən, mənim tərəflərim necə olar? Ata-ananı söyməkdən sonra isə heç bir barışıq (suluh) yoxdur!\" (2) Bəzi elm əhli demişdir ki, Məkkə şəhərinə صَلاح (səlah) adı verilir. (3)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:08.475Z"
+}

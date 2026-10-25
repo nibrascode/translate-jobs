@@ -1,0 +1,17 @@
+{
+ "i": 2133,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 223,
+  "page_to": 223
+ },
+ "ar": "الشين والهاء والميم أصلٌ يدلُّ على ذَكاء. يقال من ذلك:\nرجل شَهْم. وربَّما قالوا للمذعور: مَشهوم، وهو قياسٌ صحيح لأنَّه إذا تفزَّعَ بَدَا ذكاء قلبِه (١). ويقولون: إِنَّ الشَّهامَ السِّعلاة. فإنْ صحَّ هذا فهو أيضاً من الذكاء. والشَّيهم: القنفذ؛ وليس ببعيدٍ أن يكون من قياس الباب. وفيه يقول الأعشى:\nلَئِنْ جَدّ أسبابُ العداوةِ بيننا … لترتَحِلَنْ منِّى على ظهر شَبهمِ (٢)\nواللّه أعلم.",
+ "az": "[شهم] (şəhəmə) — şin, he və mim zəkasına dəlalət edən bir əsasdır. Buradan: «رجل شَهْم» (şəhm kişi - zeki, qoçaq kişi) denilir. Bəzən qorxmuş adama «مَشهوم» (məşhum) deyirlər ki, bu da səhih bir qiyasdır, çünki o, qorxuya düşdükdə qəlbinin zəkası aşkara çıxır (١). Deyirlər ki, «الشَّهام» (şəham) — Səilət (bir növ qulyabani) dir. Əgər bu səhihdirsə, o da zəkadan irəli gəlir. «الشَّيهم» (şəheym) — kirpidir; bu fəslin qiyasından olması uzaq deyil. Əşa bu barədə demişdir:\nلَئِنْ جَدّ أسبابُ العداوةِ بيننا … لترتَحِلَنْ منِّى على ظهر شَبهمِ (٢)\n\nVə ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:53:49.354Z"
+}

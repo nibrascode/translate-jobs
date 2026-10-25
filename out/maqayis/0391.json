@@ -1,0 +1,17 @@
+{
+ "i": 391,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "ومن ذلك (بَرْعَمَ) النَّبْتُ إذا استدارَتْ رُءوسُه. والأصل بَرَع إذا طال",
+ "az": "[برعم] (Bə-ra-əyn-mim) Buradan «بَرْعَمَ» (bər’əmə) gəlir, bitki başları yumrulaşdıqda. Əsli «بَرَع» (bərə’ə - uzandı) kəlməsidir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

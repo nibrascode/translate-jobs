@@ -1,0 +1,17 @@
+{
+ "i": 486,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "التاء والباء واللام كلماتٌ متقاربة لفظاً ومعنى، وهى خلاف الصَّلاح والسَّلامة. فالتَّبْل العَدَاوة، والتَّبْل غَلَبة الحُبِّ على القلب، يقال قلبٌ متْبُولٌ.\nويقال تَبَلَهم الدَّهرُ أفْنَاهم. وقالوا فى قول الأعشى:\nأأَنْ رأَتْ رجُلاً أعشَى أَضرَّ به … ريبُ المَنون ودهرٌ خائنٌ تَبِلُ (٤)",
+ "az": "[تبل] (t-b-l): Ta, ba və lam hərfləri tələffüz və məna baxımından bir-birinə yaxın kəlmələrdir, onlar səlahət və salamatlığın ziddidir. التَّبْلُ (ət-təbl) – düşmənçilikdir, التَّبْلُ (ət-təbl) – sevginin qəlbə qalib gəlməsidir, qلبunə matbûl (qəlbi vurğun) olduğu deyilir. Deyilir ki, تَبَلَهُمُ الدَّهْرُ (təbələhumu əd-dəhru) – zaman onları məhv etdi. Onlar A’şanın bu sözü haqqında demişlər: أَنْ رَأَتْ رَجُلًا أَعْشَى أَضَرَّ بهِ … رَيْبُ الْمَنُونِ وَدَهْرٌ خَائِنٌ تَبِلُ (٤) (O, kor bir kişini gördükdə ki, ölüm fəlakətləri və xain, təhlükəli zaman ona zərər vurmuşdur...).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

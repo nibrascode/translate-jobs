@@ -1,0 +1,17 @@
+{
+ "i": 430,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ترش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 343,
+  "page_to": 343
+ },
+ "ar": "التاء والراء والشين ليس أصلاً ولا فَرْعاً، سوى أنَّ ابن دريد (٥) ذكَر أنّ التَّرَشَ خِفَّةٌ ونَزَقٌ، يقال تَرِشَ يَتْرَشُ تُرَشاً. وما أدرى ما هُوَ.",
+ "az": "«ترش» (t-r-ş): İbn Dürəidin Tərəşin yüngüllük və səbirsizlik olduğunu qeyd etməsi istisna olmaqla, nə əsasdır, nə də şaxə. Deyilir: تَرِشَ يَتْرَشُ تُرَشاً (tərişə yətrəşu turəşən). Bunun nə olduğunu bilmirəm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.116Z"
+}

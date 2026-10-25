@@ -1,0 +1,17 @@
+{
+ "i": 1366,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دحس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "الدال والحاء والسين أصلٌ مطَّرِد مُنْقاس، وهو تخلُّل الشَّئِ بالشَّئِ فى خَفاءٍ ورِفق. فالدَّحْس: طلَب الشَّئِ فى خفاء. ومن ذلك دَحَسْتُ بينَ القوم، إِذا أفسدْتَ؛ ولا يكون هذا إلاّ برفْق ووَسواس لطيفٍ خفّى. ويقال الدّحْسُ: إدخالك يَدَك بين جِلْدة الشَّاة وصِفَاقها تسلخُها.\nوالدَّحَّاس: دويْبَّة تغيب فى التراب، والجمع دَحاحيس. وداحِسٌ: اسم فرسٍ؛ وسمِّى بذلك لأنَّ حَوْطاً (٣) سطا على أُمِّه - أُمّ داحسٍ (٤) - بماءٍ وطِينٍ، ويريد أن يخرج ماءَ فرسه من الرَّحِم. وله حديث (٥).",
+ "az": "[دحس] الدال والحاء والسين أصلٌ مطَّرِد مُنْقاس، وهو تخلُّل الشَّئِ بالشَّئِ فى خَفاءٍ ورِفق. (الدال, hə və sin – gizlinliklə və incəliklə bir şeyin digərinə qarışması olan müntəzəm, qiyaslı əsasdır). فالدَّحْس (əddəhs): Bir şeyi gizlində axtarmaq. Və o cümlədən: دَحَسْتُ بينَ القوم (Qövmün arasında dəhəstü etdim), fəsad törətdiyin zaman; bu da yalnız incəliklə və zərif, gizli vəsvəsə ilə olar. Və deyilir: الدّحْسُ (əddəhs): Dərini soymaq üçün əlini qoyun dərisi ilə onun daxili təbəqəsi arasına soxmandır. والدَّحَّاس (əddəhhas): Torpaqda gizlənən kiçik bir qurd, cəmi دَحاحيس (dəhəhis). وداحِسٌ (Dahis): Atın adı; və o, ona görə belə adlandırılmışdır ki, Hout (٣) onun anasının – Dahisin anasının – üzərinə su və palçıqla hücum etmişdi, o da atının suyunu rəhmindən çıxarmaq istəyirdi. Onun bir hədisi vardır (٥).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

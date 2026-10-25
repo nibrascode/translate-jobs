@@ -1,0 +1,17 @@
+{
+ "i": 164,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أيه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 167,
+  "page_to": 167
+ },
+ "ar": "وأما الهمزة والياء والهاء فهو حرفٌ واحد، يقال أَيَّهَ تَأيِيهاً إذا صوَّت. وقد قلنا إنّ الأصواتَ لا يُقاس عليها.",
+ "az": "[أيه] (ə-y-ه): Həmzə, ya və hə hərflərinə gəldikdə, bu, tək bir hərflik sözdür; səs çıxartdıqda «أَيَّهَ تَأيِيهاً» (əyyəhə təyihan) deyilir. Biz artıq demişik ki, səslər üzərində müqayisə aparılmaz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:25:17.134Z"
+}

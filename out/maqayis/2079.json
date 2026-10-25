@@ -1,0 +1,17 @@
+{
+ "i": 2079,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شغل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 195,
+  "page_to": 195
+ },
+ "ar": "الشين والغين واللام أصلٌ واحدٌ يدلُّ على خلاف الفَراغ.\nتقول: شَغَلتُ فلاناً فأنا شاغِلُه، وهو مشغول. وشُغِلْت عنك بكذا، على لفظّ ما لم يسمَّ فاعلُه. قالوا: ولا يقال أُشغِلْت. ويقال شُغْل شاغلٌ. وجمع الشُّغْل أشغال.\nوقد جاء عنهم: اشتُغِلَ فلانٌ بالشئ (١)، وهو مشتَغَل. وأنشد:\nحَيَّتك ثُمَّت قالت إنّ نَفْرَتَنا … اليومَ كلَّهم يا عُرْوَ مشتَغَلُ (٢)\nوحكى ناسٌ: أشْغَلَنى بالألف.",
+ "az": "[شغل] الشين والغين واللام — boş qalmağın ziddinə dəlalət edən tək bir kökdür. Deyirsən: «شَغَلتُ فلanaً فأنا شاغِلُه» (filankəsi məşğul etdim, mən onun məşğul edəsiyəm), və o, məşğuldur. Və məchul fel صيغة ləfzində «شُغِلْت عنك بكذا» (filan şeylə səndən yayındırıldım/məşğul edildim) deyilir. Dedilər ki, «أُشغِلْت» deyilmir. Və «شُغْل شاغلٌ» (başını qatan məşğuliyyət) deyilir. Və شغل sözünün cəmi أشغال (əşğal) gəlir. Onlardan belə bir ifadə də gəlmişdir: «اشتُغِلَ فلانٌ بالشئ» (filankəs işlə məşğul edildi) və o, məşğul olunmuşdur (١). (Şair) söyləmişdir: «Səni salamladı, sonra dedi ki, bizim dəstəmizin hamısı bu gün, ey Ürvə, məşğuldur» (٢). Və bir qrup insan «أشْغَلَنى» (məni məşğul etdi) formasında əlif hərfi ilə işlətmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:23.799Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 583,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جفف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 416,
+  "page_to": 417
+ },
+ "ar": "الجيم والفاء أصلان: فالأوَّل قولك جَفَّ الشئُ جفُوفاً يَجف. والثانى الجُفّ جُفُّ الطَّلْعة، وهو وعاؤُها. ويقال الجُفُّ شئٌ يُنْقرُ من جذوع النَّخل (٥). والجُفُّ: نِصْفُ قِرْبة يُتَّخذ دلْواً. وأمَّا قولُهم للجماعة الكثير من الناس جُفٌّ، وهو فى قول النابغة:\n* فى جُفِّ ثَعْلَبَ وارِدِى الأمرارِ (٦) *\nفهو من هذا؛ لأنّ الجماعةَ يُنْضَوَى إليها ويُجتَمع، فكأنّها مَجمعُ مَنْ يأوِى إليها.\nفأمَّا الجَفْجف الأرضُ المرتفِعة فهو من الباب الأوَّل؛ لأنها إذا كانت كذا كان أقَلَّ لنَدَاها.\nوجُفَافُ الطَّير: مكان. * قال الشاعر:\nفما أبْصَرَ النَّارَ التى وضَحَتْ له … وراءَ جُفَافِ الطَّيرِ إلا تماريا (١)",
+ "az": "[جفف] (cim və fa) iki əsas məna daşıyır: Birincisi, «جَفَّ الشئُ جفُوفاً يَجف» (şey qurudu, qurumaqdadır) deməyindir. İkincisi, «الجُفّ» (əl-cuff) — «جُفُّ الطَّلْعة» (xurma qınlandığının qabı) olub, onun qabığıdır. Deyilir ki, əl-cuff xurma ağaclarının gövdələrindən oyulub düzəldilən bir şeydir (٥). Əl-cuff həmçinin dəvə dərisindən su qabına (dəlۋ) çevrilən yarım tuluqdur. İnsanların çoxsaylı dəstəsinə «جُفٌّ» (cuff) demələrinə gəlincə, bu, Nabigənin şu beytində keçir:\n* فى جُفِّ ثَعْلَبَ وارِدِى الأمرارِ (٦) *\nBu da həmin mənadandır; çünki camaatın yanına sığınılır və orada toplanılır, o sanki ora sığınanların yığnağı kimidir.\nQaldı ki, «الجَفْجف» (əl-cəf-cəf) — hündür yer deməkdir, bu da birinci əsas mənadandır; çünki o belə olduqda rütubəti daha az olur.\nVə «جُفَافُ الطَّير» (Cüfafut-teyr) — bir yerdir. * Şair demişdir:\nفما أبْصَرَ النَّارَ التى وضَحَتْ له … وراءَ جُفَافِ الطَّيرِ إلا تماريا (١)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:23.868Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1005,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حتن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 135,
+  "page_to": 135
+ },
+ "ar": "الحاء والتاء والنون أصل واحد يدلُّ على تساوى الأشياء.\nفالحَتِن: القِرْن؛ يقال هما حِتَنْان أى سِيَّان. وتَحَاتَنُوا، إذا تساوَوْا. ويقال وقعت النَّبْلُ فى الهدَف حَتْنَى. على فَعْلَى، إذا تقاربَتْ مواقِعُها. وكل شئ لا يخالف بعضُه بعضاً فهو محتَتِنٌ.",
+ "az": "«حتن» (h-t-n): Ha, ta və nun hərfləri şeylərin bir-birinə bərabər olmasına dəlalət edən tək bir kökdür. «الحَتِن» (əl-hatin) — tay, bərabər; deyilir: on ikisi «حِتَنْان» (hitanan), yəni bərabərdirlər. «تَحَاتَنُوا» (təhatənu) — bərabər olduqları zaman. Deyilir ki, oxlar hədəfə «حَتْنَى» (hətnə) olaraq düşdü. «فَعْلَى» (fə’lə) vəznində, düşdükləri yerlər bir-birinə yaxın olduqda. Bəzi hissələri digərinə zidd olmayan hər bir şey «محتَتِنٌ» (muhtatin) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:13.109Z"
+}

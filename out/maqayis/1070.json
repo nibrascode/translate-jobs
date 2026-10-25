@@ -1,0 +1,17 @@
+{
+ "i": 1070,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خزف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 177,
+  "page_to": 177
+ },
+ "ar": "الخاء والزاء والفاء ليس بشئِ. فالخَزَفُ هذا المعروفُ، ولسنا ندرى أعربىٌّ هو أمْ لا. قال ابنُ دريد (٣): الخَزْف الخَطْر باليَد عند المشْى. وهذا من أعاجيب أبى بَكر.\nخزقَ\nالخاء والزاء والقاف أصلٌ، وهو يدلُّ على نَفاذِ الشَّئ المرمِىّ به أو اتزازِه. فالخازِق من السّهام المُقَرْطِس، وهو الذى يرتَزّ فى قِرطاسه وخَزَق الطّائر: دَرَق. والخَزْق: الطَّعْن. والقياس واحد.",
+ "az": "[خزف] (خ, ز, ف): Heç bir əsası yoxdur. خَزَف (xəzəf) - bu tanınan şeydir, onun ərəb mənşəli olub-olmamasını bilmirik. İbn Dürid (٣) demişdir: خَزْف (xəzv) - gəzərkən əli yelləməkdir. Bu, Əbu Bəkrin təəccüblü sözlərindəndir.\n\nخزق (خ, ز, ق): Bir əsasdır, atılan şeyin deşib keçməsinə və ya sancılmasına dəlalət edir. Oxlardan المُقَرْطِس (əl-müqərtis) olan خازِq (xaziq) - hədəfə dəqiq sancılan oxdur. خَزَقَ الطائرُ (xəqə ət-tair): (quş) qanad çalaraq uçdu. وَالْخَزْق (əl-xəzq): sancmaqdır. Ölçü (qayda) birdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.278Z"
+}

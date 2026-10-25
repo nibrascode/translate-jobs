@@ -1,0 +1,17 @@
+{
+ "i": 1831,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 50,
+  "page_to": 50
+ },
+ "ar": "الزاء والخاء والراء أصلُ صحيح، يدلُّ علي ارتفاع. يقال زَخَر البحر، إذا طما؛ وهو زاخرٌ. وزخَر النّبات، إذا طال. ويقال أخذ المكان زُخَارِيَّه، وذلك إذا نَمَا النبات وأخرجَ زَهره. قال ابن مقبل:\nزُخارِىَّ النّبات كأنَّ فيه … جيادَ العبقريّة والقُطوعِ (١)",
+ "az": "[زخر] (zə-xə-rə): Zai, xain və ra hərflərindən ibarət səhih bir kök olub yüksəklik mənasını bildirir. Deyilir ki, «زَخَر البحر» (dəniz daşdı, dalğalandı) – o, gur və daşqın olduqda işlədilir. «وزخَر النّبات» – bitki uzandığı zaman deyilir. Deyilir ki, «أخذ المكان زُخَارِيَّه» (məkan öz möhtəşəmliyini aldı) – bu, bitki inkişaf edib çiçəyini çıxartdığı zaman olur. İbn Muqbil demişdir: Zuxari bitki, elə bil ki, onda... igidlərin ipək parçaları və parçaları vardır (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:43.941Z"
+}

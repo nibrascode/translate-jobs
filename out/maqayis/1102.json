@@ -1,0 +1,17 @@
+{
+ "i": 1102,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خضب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 194,
+  "page_to": 194
+ },
+ "ar": "الخاء والضاد والباء أصلٌ واحدٌ، وهو خَضْبُ الشَّئ يقال خضبت اليدَ وغيرَها أخْضِبُ. ويقال للظليم خاضِبٌ، وذلك إذا أكَلَ الرَّبيعَ فاحمرَّ ظُنْبوباه أَوْ اصفَرَّا. قال أبو دُوَاد:\nله ساقا ظليم خا … ضبٍ فُوجِئَ بالرُّعْبِ (١)\nولا يقال إلاّ للظَّليم، دُونَ النعامة. يقال: امرأةٌ خُضَبَةٌ: كثيرة الاختضاب ويقال [خَضَبَ] النّخلُ، إذا اخضرَّ طَلْعُه. وقال بعضهم: خضب الشجر يَخْضب (٢) إذا اخْضَرَّ؛ واخضَوْضَب. والكَفُّ الخَضيبُ: نجم؛ وهذا على التَّشبيه. وأَمّا الإجَّانة وتسميتُهم إيّاها المِخْضَب فهو فى هذا؛ لأنّ الذى يُخْضَب به يكون فيها (٣)",
+ "az": "[خضب] (Xə-də-b): Xa, dad və ba hərfləri tək bir əsasdır, o da bir şeyi boyamaqdır. Deyilir: Xədəttul-yəvə və ğeyrəha axdibu (Əlini və başqasını boyayıram). Dəvəquşunun erkəyinə «خاضِبٌ» (xadıb) deyilir, bu da onun yaz otunu yedikdə baldırlarının qızarması və ya saralması zamanı olur. Əbu Duvad demişdir: Qorxu ilə qəflətən yaxalanmış xadıb dəvəquşunun ayaqları vardır (1). Bu, yalnız dişi dəvəquşuya deyil, yalnız erkəyə deyilər. Deyilir: «خُضَبَةٌ» (xudabət) qadın – çox boyanan. Deyilir: Xəbəbən-naxlə – xurmanın zoğları yaşıllaşdıqda. Bəziləri demişdir: Xəbəb-şəcəri yaxdubu – yaşıllaşdıqda və yaşıllaşdı. Və «الكَفُّ الخَضيبُ» (əl-kəfful-xadib) – ulduzdur; bu da bənzətmə yoluylardır. «الإجَّانة» (əccanə) və onların onu «المِخْضَبُ» (mixdab) adlandırmalarına gəldikdə, bu da bundandır; çünki onun içində boyaq maddəsi olur (3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:43.581Z"
+}

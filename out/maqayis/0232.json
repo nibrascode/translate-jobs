@@ -1,0 +1,17 @@
+{
+ "i": 232,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 238,
+  "page_to": 238
+ },
+ "ar": "الباء والراء والجيم أصلان: أحدهما البُروز والظُّهور، والآخر الوَزَرُ والملجأ. فمن الأوّل البَرَج وهو سَعَة العين فى شدّةِ سوادِ سَوادِها وشدّة [بياض] بَياضها، ومنه التَّبرُّج، وهو إظهار المرأةِ مَحاسِنَها.\nوالأصل الثانى البُرْجُ واحِدُ بُروجِ السَّماء. وأصل البُرُوجِ الحُصونُ والقُصور قال اللّه تعالى: ﴿وَلَوْ كُنْتُمْ فِي بُرُوجٍ مُشَيَّدَةٍ﴾. ويقال ثوبٌ مُبَرَّجٌ إذا كان عليه صور البُرُوج.",
+ "az": "«برج» (b-r-c): Ba, ra və cim hərfləri iki əsas kökə malikdir: birincisi üzə çıxmaq və zühur etmək, ikincisi isə sığınacaq və pənah yeridir. Birincisindən olan «البَرَجُ» – gözün qarasının həddindən artıq qara, [bəyazının] isə həddindən artıq ağ və geniş olmasıdır; qadının öz gözəlliklərini büruzə verməsi mənasındakı «التَّبَرُّجُ» də bundandır. İkinci əsas isە səma bürçlərinin təkini bildirən «البُرْجُ» sözüdür. Bürclərin əsli qala və saraylardır. Uca Allah buyurmuşdur: mənaca tərcümə: «Hətta uca bürclərdə olsanız belə...» (ən-Nisa, 78). Üzərində bürclərin şəkilləri olan paltara «ثوبٌ مُبَرَّجٌ» deyilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:29:37.934Z"
+}

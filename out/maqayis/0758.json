@@ -1,0 +1,17 @@
+{
+ "i": 758,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلمد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 507,
+  "page_to": 507
+ },
+ "ar": "ومن ذلك قولهم للحَجَر وللإِبل الكثيرة (جَلْمَدٌ). قال الشاعر فى الحجارة:\nجَلامِيدُ أملاءُ الأكُفِّ كأنها … رُءُوسُ رِجالٍ حُلِّقت فى المواسِمِ (١)\nوقال آخر فى الإبل الجَلْمَد:\nأو مائَةٍ تُجْعَلُ أولادُها … لَغْوًا وعُرْضَ المائَةِ الجَلْمَدِ (٢)\nوهذا من كلمتين: من الجَلَد، وهى الأرض الصُّلبة، ومن [الجَمَدُ]، وهى الأرض اليابسة، وقد مرَّ تفسيرهما.",
+ "az": "«جلمد» - Və buraya daşa və çoxlu dəvəyə «جَلْمَدٌ» (cəlməd) deyilməsi daxildir. Şair daşlar haqqında demişdir: \nجَلامِيدُ أملاءُ الأكُفِّ كأنها … رُءُوسُ رِجالٍ حُلِّقت فى المواسِمِ (١)\n(Ovucuzu dolduran cəlamid - sərt daşlar, sanki bayram mövsümlərində qırxılmış kişi başlarıdır)\nBaşqa biri isə çoxlu dəvə (cəlməd) haqqında demişdir:\nأو مائَةٍ تُجْعَلُ أولادُها … لَغْوًا وعُرْضَ المائَةِ الجَلْمَدِ (٢)\n(Və ya yüz dəvə ki, balaları lağv edilsin və cəlməd yüzlüyün qırağına atılsın)\nBu da iki sözdən ibarətdir: جَلَد (cələd) - bərk yer, və جَمَد (cəməd) - quru yer; bunların izahı artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.216Z"
+}

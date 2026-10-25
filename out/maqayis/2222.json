@@ -1,0 +1,17 @@
+{
+ "i": 2222,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 264,
+  "page_to": 264
+ },
+ "ar": "الشين والراء والقاف أصلٌ واحد يدلُّ على إضاءةٍ وفتحٍ.\nمن ذلك شَرَقَت الشّمسُ، إذا طلَعت. وأشرقت، إذا أضاءت. والشُّرُوق:\nطُلوعها. ويقولون: لا أفعل ذلك ما ذرَّ شارقٌ، أى طَلَعَ، يُرَاد بذلك طُلُوع الشمس. وأيّام التَّشْريق سمِّيت بذلك لأنَّ لحوم الأضاحِى تُشرَّق فيها للشّمس.\nوناسٌ يقولون: سمِّيت بذلك لقولهم: «أشرِقْ ثَبِير، لكيما نُغير». والمَشْرِقانِ:\nمَشْرِقا الصَّيف والشِّتاء. والشَّرْق: المَشْرِق: وقال قوم: إنَّ اللحمَ الأحمرَ يسمَّى شَرْقاً، فإِنْ كان صحيحاً فلأنّه من حُمرته كأنه مُشْرِق.\nومن قياس هذا الباب: الشّاةُ الشّرقاء: المشقوقة الأذُن، وهو من الفَتْح الذى وصفناه.\nومما شذَّ عن هذا الباب قولهم: شَرِق بالماء، إذا غَصَّ به شَرَقاً. قال عدىّ:\nلو بِغَير الماءِ حَلْقِى شَرِقٌ … كنتُ كالغَصَّانِ بالماء اعتصارِى (٣)",
+ "az": "«شرق» (şin, ra və qaf) — işıqlanma və açılışa dəlalət edən tək bir əsldir.\nBunlardan biri «شَرَقَت الشّمسُ» (günəş doğdu) sözüdür, yəni çıxdı. «أشرقت» (işıqlandı) — işıq saçdı. «الشُّرُوق» (şuruq) — onun çıxmasıdır. Deyirlər: «لا أفعل ذلك ما ذرَّ شارقٌ» (mən bunu əsla etmərəm, nə qədər ki, şariq doğmayıb) — bununla günəşin doğması nəzərdə tutulur. «أيّام التَّشْريق» (təşriq günləri) bu adla adlandırılmışdır, çünki qurbanlıq ətlər günəşdə həmin günlərdə sərilərək qurutdurulur.\nBəzi insanlar deyirlər ki, o, onların: «أشرِقْ ثَبِير، لكيما نُغير» (Ey Səbir dağı, işıqlan ki, hücum edək) sözünə görə belə adlandırılmışdır. «المَشْرِقانِ» (iki məşriq) — yay və qışın çıxış nöqtələridir. «الشَّرْق» (şərg) — məşriq, şərq deməkdir. Bir qrup demişdir ki, qırmızı ətə «شَرْق» (şərg) adı verilir; əgər bu doğrudursa, onda qırmızı olduğundan sanki işıq saçan (müşriq) kimidir.\nBu babın qiyasından budur: «الشاةُ الشّرقاءُ» (şərqa qoyun) — qulağı yarıq olan qoyun; bu da təsvir etdiyimiz açılış mənasındandır.\nBu babdan istisna olunan (şaz olan) onların bu sözüdür: «شَرِق بالماء» (su ilə boğuldu) — su boğazında qaldıqda «شَرَقاً» deyilir. Udey demişdir:\nلو بِغَير الماءِ حَلْقِى شَرِقٌ … كنتُ كالغَصَّانِ بالماء اعتصارِى (٣)\n(Əgər boğazım sudan başqa bir şeylə boğulsaydı, mən su ilə sıxılan (boğulan) şəxs kimi olardım)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:27.489Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1094,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خصى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 188,
+  "page_to": 188
+ },
+ "ar": "الخاء والصاد والحرف المعتل كلمةٌ واحدةٌ لا يُقاسُ عليها إلاّ مجازاً، وهى قولُهم خَصَيتُ الفَحْل خَصْياً. و «برِئْتُ إليك من الخِصاء».\nومعنى خَصَيْت فعلٌ مشتقٌّ من الخُصْى؛ وهو إيقاعٌ به، كما يقال ظَهَرْتُه وبطنته، إذا ضربتَ ظهْرَه وبطنَه. فكذلك خَصَيته: نزعت خُصْيَيْه.",
+ "az": "[خصى] الخاء والصاد والحرف المعتل كلمةٌ واحدةٌ لا يُقاسُ عليها إلاّ مجازاً، وهى قولُهم خَصَيتُ الفَحْل خَصْياً. و «برِئْتُ إليك من الخِصاء». (Xar, sad və uzanan hərf yalnız məcazi olaraq qiyas edilən tək bir kəlmədir, o da onların \"xəsəytu əl-fəhlə xəsyan\" (Erkək heyvanı xədim etdim) sözüdür. Və \"Mən xisadan (xədim etməkdən) sənə sığınıram\".) \n\nوممعنى خَصَيْت فعلٌ مشتقٌّ من الخُصْى؛ وهو إيقاعٌ به، كما يقال ظَهَرْتُه وبطنته، إذا ضربتَ ظهْرَه وبطنَه. فكذلك خَصَيته: نزعت خُصْيَيْه. (Xəsəytu sözünün mənası xüşydən (toxumlardan) törəmiş bir feldir; bu, ona edilən bir əməldir, necə ki, \"zəhərtuhu və batantuhu\" deyilir, yəni onun belini və qarnını vurduğun zaman. Eləcə də xəsəytuhu: onun iki toxumunu qopardın.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:26.358Z"
+}

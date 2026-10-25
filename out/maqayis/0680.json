@@ -1,0 +1,17 @@
+{
+ "i": 680,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 475,
+  "page_to": 475
+ },
+ "ar": "الجيم واللام والقاف ليس أصلاً ولا فَرعاً. وجِلَّق: بلد، وليس عربيا. قال:\nلِلّهِ دَرُّ عِصابةٍ نادمتُهم … يوماً بِجِلَّقَ فى الزَّمانِ الأوّلِ (٢)",
+ "az": "«جلق» — جيم، لام və قاف nə kökdür, nə də budaq. وَجِلَّق (Cilləq) — bir şəhərdir, ərəb sözü deyildir. (Şair) demişdir: «لِلّهِ دَرُّ عِصابةٍ نادمتُهم … يوماً بِجِلَّقَ فى الزَّمانِ الأوّلِ» (İlk zamானlarda Cilləq şəhərində birlikdə içki içdiyim dostlar dəstəsinə fəqət Allah bərəkət versin!)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.349Z"
+}

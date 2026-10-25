@@ -1,0 +1,17 @@
+{
+ "i": 373,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلطح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 330,
+  "page_to": 331
+ },
+ "ar": "ومن ذلك قولهم (بَلْطَحَ) الرَّجُل، إذا ضَرَب بنَفْسِه الأرضَ. فهى منحوتةٌ\nمن بُطِح وأُبْلِط (١)، إذا لَصِق بِبَلاط الأرض.",
+ "az": "[بلطح] (Bə-lam-ta-ha) Buradan onların «بَلْطَحَ الرَّجُل» (bəltəhər-rəcul - kişi yerə sərildi) ifadəsi gəlir, əgər özünü yerə vurarsa. Bu, «بُطِح» (butihə - yerə sərildi) və «أُبْلِط» (ublitə - yerə yapışdı) kəlmələrindən nəht edilmişdir, yəni yerin döşəməsinə yapışdı.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

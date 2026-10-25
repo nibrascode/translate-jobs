@@ -1,0 +1,17 @@
+{
+ "i": 1191,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ختل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 245,
+  "page_to": 245
+ },
+ "ar": "الخاء والتاء واللام أُصَيل فيه كلمةٌ واحدة، وهى الخَتْل، قال قومٌ: هو الخَدْع. وكان الخليل يقول: تخاتَلَ عن غَفْلةٍ.",
+ "az": "[ختل] الخاء والتاء واللام أُصَيل فيه كلمةٌ واحدة، وهى الخَتْل، قال قومٌ: هو الخَدْع. وكان الخليل يقول: تخاتَلَ عن غَفْلةٍ. (Xar, ta və lam hərfləri içində tək bir kəlmə olan kiçik bir əsasdır, o da «əl-xətl»dir. Bəzi insanlar demişdir: O, aldatmaqdır. Xəlil deyirdi: Qəflətdən arxayınlaşaraq hiylə işlətdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:18.900Z"
+}

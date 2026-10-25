@@ -1,0 +1,17 @@
+{
+ "i": 528,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 381,
+  "page_to": 381
+ },
+ "ar": "الثاء والفاء والراء كلمةٌ واحدة تدلُّ على المؤخَّر. فالثَّفَرُ ثَفَر الدابة.\nويقال استَثْفَرت المرأة بثَوْبها إذا ائتزرت به ثم رَدَّت طَرَف الإزار من بين رجليها وغرزَتْه فى الحُجْزَة مِنْ ورائه. والثَّفُرْ الحَياء من السّبُعةِ وغيرها. قال:\nجَزَى اللّه فيها الأَعوَرَيْنِ ملامةً … وعَبْدَةَ ثَفْرَ الثَّورةِ المتضاجِمِ (٤)",
+ "az": "[ثفر] (Sə, fa və ra) arxa tərəfə dəlalət edən tək bir kəlmədir. الثَّفَرُ (əttəfər) – minik heyvanının quyruqaltıdır.\nDeyilir: استَثْفَرت المرأة بثَوْبها (qadın paltarı ilə quyruqaltı etdi) – o, izarını [bel bağını] bağladı, sonra izarın uşağını ayaqlarının arasından geri çəkib arxadan qurşağa taxdı. الثَّفُرْ (əttəfür) – yırtıcı heyvanın və başqalarının həyasıdır (cinsiyyət organıdır). (Şair) demişdir:\nجَزَى اللّه فيها الأَعوَرَيْنِ ملامةً … وعَبْدَةَ ثَفْرَ الثَّورةِ المتضاجِمِ (٤)\n(Mənanın tərcüməsi: Allah orada iki çaşın qınağını və müztərib erkək donuzun quyruqaltısını Abdaya mükafat olaraq versin...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.492Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2332,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صيق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 327,
+  "page_to": 327
+ },
+ "ar": "الصاد والياء والقاف. يقال فيه إنّ الصَّيْق الغُبار، وقد فتح رؤبةُ ياءَه فقال: «الصَّيَقْ (٣)». ويقال إنّ الصِّيق الرِّيحُ المنتنة من الدّوابّ.",
+ "az": "«صيق» (صاد، ياء və qaf). Deyilir ki, «الصَّيْق» toz deməkdir, Rübə onun yə hərfinin üzərini fəthə ilə oxuyaraq «الصَّيَقْ» demişdir. Deyilir ki, «الصِّيق» – heyvanlardan gələn üfunətli qoxudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:32.086Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 699,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 485,
+  "page_to": 485
+ },
+ "ar": "الجيم والنون والزاءَ كلمةٌ واحدة. قال ابن دُريد: جَنَزْتُ الشَّئَ أجْنِزُه جَنْزاً، إِذا ستَرتَه، ومنه اشتقاق الجَنَازة (٢). فأمَّا الخليل فمذهبُه غيرُ هذا، قال: الجَنازة الميّت، [و] الشئِ الذى ثقُل على القوم واغتَمُّوا به هو أيضاً جَنَازة.\nوقال:\nوما كنت أخْشَى أن أكون جَنَازَةً … عليكِ ومَنْ يَغْتَرُّ بالحَدَثَانِ (٣)\nقال: وأمّا الجِنَازة فهو خَشَبٌ الشَّرْجَع. قال: ويقول العرب: رُمِى بجنازَتِه فمات (٤). قال: وقد جَرَى فى أفواه النَّاس الجَنَازَة، بفتح الجيم، والنَّحارِير يُنكرونه.",
+ "az": "«جنز» (جيم, نون və زاء) – tək bir kəlmədir. İbn Dürid demişdir: «جَنَزْتُ الشَّئَ أجْنِزُه جَنْزاً» – şeyi ört, gizlətdiyin zaman deyilir, «الجَنَازَة» (cənazə) sözünün kökü də buradan götürülmüşdür. Xəlilə gəldikdə, onun görüşü bundan fərqlidir. O demişdir: Cənazə – meyitdir, həmçinin tayfaya ağır gələn və onları qəmgin edən şey də cənazədir.\nO demişdir:\n«وما كنت أخْشَى أن أكون جَنَازَةً … عليكِ ومَنْ يَغْتَرُّ بالحَدَثَانِ (١)»\n(Mən qorxmazdım ki, sənin üçün bir cənazə olacağam... Zamanın blaları ilə kim aldanar ki?)\nO demişdir: «الجِنَازَة» (cəruzə – i ilə) isə Şərcənin (cənazə daşımaq üçün taxta çarpayının) taxtasıdır. O demişdir: Ərəblər «رُمِى بجنازَتِه فمات» (Cənazəsi atıldı və öldü) deyirlər.\nO demişdir: İnsanların dillərində cim hərfi ilə «الجَنَازَة» (fəthə ilə) işlənməkdədir, dilçilər (ənnəharir) isə bunu inkar edirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:12.831Z"
+}

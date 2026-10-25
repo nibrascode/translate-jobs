@@ -1,0 +1,17 @@
+{
+ "i": 1529,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 417,
+  "page_to": 417
+ },
+ "ar": "الراء والغين والسين أصلٌ واحدٌ يدلُّ على بَرَكةٍ ونَماء.\nيقولون: الرغْس النَّماء والبَرَكة والخَير. قال العجاج (٢):\n* حَتَّى رأيْنَا وَجْهَكَ المَرْغُوسا *\nويقال الرَّغْس: النّعمة، فى قوله:\n* تراه منصوراً عليه الأرْغُسُ (٣) *\nو\nفى الحديث: «أنَّ رجلاً أرغَسَه اللّهُ مالا». أى خوّلَه إيّاه وبارَكَ له فيه.",
+ "az": "«رغس» (rəğəs): Ра, ğayn və sin hərfləri bərəkətə və artıma dəlalət edən tək bir əsasdır. Deyirlər: «الرَّغْسُ» (ərrəğsu) — artım, bərəkət və xeyirdir. Əccac demişdir: حَتَّى رَأَيْنَا وَجْهَكَ الْمَرْغُوسَا (Həttə raəynə vəchəkəl-marğusa). Deyilir ki, «الرَّغْسُ» (ərrəğsu) — nemətdir, bu kəlamda olduğu kimi: تَرَاهُ مَنْصُوراً عَلَيْهِ الْأَرْغُسُ (Tərahu mənsuran aləyhil-ərğusu). Hədisdə gəlmişdir: «أَنَّ رَجُلاً أَرْغَسَهُ اللَّهُ مَالاً» (ənnə rəcülən ərgəsehüəllahu malən) — yəni Allah ona mal bəxş etdi və ona [o malda] bərəkət verdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.131Z"
+}

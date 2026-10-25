@@ -1,0 +1,17 @@
+{
+ "i": 705,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 488,
+  "page_to": 488
+ },
+ "ar": "الجيم والهاء والزاء أصلٌ واحد، وهو شئٌ يُعْتَقَدُ (٦) ويُحوَى، نحو الجِهَاز، وهو متاع البيت. وجهَّزتُ فلانا تكلّفتُ جِهَازَ سفرِه. فأما قولهم للبعير إذا شَرَد: «ضَرَبَ فى جِهَازه» فهو مثلٌ، أى إنّه حَمل جِهَازه ومرّ.\nقال أبو عبيدة: فى أمثال العرب: «ضَرَب فلانٌ فى جهازه» يضرب هذا فى الهِجران والتَّباعُد. والأصل ما ذكرناه.",
+ "az": "[جهز] \nCim, hə və zay hərfləri bir əslə qayıdır ki, o da əldə edilən və yığılan şeydir, məsələn: جِهَاز (cihaz) – ev əşyası, təchizat. Və جَهَّزتُ فلانا (cəhhəztu fulan) – filankəsin səfər təchizatını hazırladım, boynuma götürdüm. Qaldı ki, dəvə qaçıb hürkdükdə «ضَرَبَ فى جِهَازه» (öz cəhəzində vurdu) demələri məsəldir, yəni o, öz yükünü götürüb qaçdı.\nƏbu Übeydə demişdir: Ərəb məsəllərində «ضَرَب فلانٌ فى جهازه» (filankəs öz cəhəzində vurdu) ifadəsi tərk etmək və uzaqlaşmaq mənasında işlədilir. Əsl məna isə qeyd etdiyimiz kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

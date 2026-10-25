@@ -1,0 +1,17 @@
+{
+ "i": 509,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 373,
+  "page_to": 373
+ },
+ "ar": "الثاء والدال والميم كلمةٌ ليست أصلاً. زعَمُوا أنّ الثَّدْمَ هو الفَدْمُ.\nوهذا إنْ صحَّ فهو من باب الإِبدال.",
+ "az": "[ثدم] الثاء والدال والميم كلمةٌ ليست أصلاً (Thə, dal və mim əsas olmayan bir kəlmədir). Zənn etmişlər ki, الثَّدْم (ə-sədm) sözü الفَدْم (əl-fədm) deməkdir. Əgər bu səhihdirsə, bu, əvəzetmə باب (bölümündəndir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.075Z"
+}

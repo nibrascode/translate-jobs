@@ -1,0 +1,17 @@
+{
+ "i": 271,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بعك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 264,
+  "page_to": 264
+ },
+ "ar": "الباء والعين والكاف أصلٌ واحدٌ، يجمع التجمُّعَ والازدِحامَ والاختِلاط. قال الدُّرَيدىّ: البَعَك الغِلَظ فى الجِسْم والكَزَازَة، ومنه اشتقاق بَعْكَكٍ، وهو رجلٌ من قُرَيش.\nقال غيره: تركتُه فى بَعكُوكةِ القوم، أى مجتمع منازِلِهم. ونرى أنّه فتح الباء فقال فَعلولة، لأَنّه أخرجهُ مُخْرَجَ المصادر، مثل سار سَيرورةً، وحادَ حَيدُودَةً، وقالَ قَيْلُولة. وأنشَد:\nيخرُجْنَ من بَعْكوكة الخِلاطِ … وهُنَّ أمثَالُ السِّرى الْأَمْرَاطِ (١)\nوأمَّا البَصريُّونُ فإنَّهم يأبَوْنَ هذا البناءَ فى المصادِر إلاَّ للمعتَلاَّت. قال بعضُ العلماء: بُعْكوكة الشئ وَسَطه. قال عُبَيْدُ بنُ أيّوب:\nويا ربِّ إلاَّ تَعْفُ عَنِّى تُلْقِنِى … مِنَ النَّار فى بُعْكوكها المُتَدَانِى\nويقال وقع فى بَعْكوكاءَ أىّ شرّ وجَلَبَة. قال الفَرَّاء: البَعْكُوكة ازدِحام الإبل فى اجتماعِها، وقيل هى الجَماعةُ منها، والجمع بَعَاكيك.\nقال أبو زيد: الباعِكُ مِنْ الرِّجال الهالِكُ حُمْقاً، وهو من ذلك الأصل لأَنَّهُ مُخْتَلِط.",
+ "az": "[بعك] (bə-ə-k): باء (ba), ayn və kaf tək bir əsasdır, o da toplanma, sıxlıq və qarışığı özündə birləşdirir. Dureydi demişdir: «البَعَك» (əl-bəək) — bədəndəki yoğunluq və sərtlikdir, Qureyşdən olan «بَعْكَك» (bəəkək) adının kökü də buradan götürülmüşdür.\nDigəri demişdir: «تركتُه فى بَعكُوكةِ القوم» (təraktuhu fi bəukuKəti əl-qawm) — yəni onları evlərinin sıx və qələbəlik yerində tərk etdim. Biz hesab edirik ki, o, ba hərfinin üzərinə fəthə qoyaraq «فَعْلولة» (fə'luləh) vəznində işlətmişdir, çünki bunu «سار سَيرورةً» (sAra səyru-rətan), «حادَ حَيدُودَةً» (HAda Həydu-dətan) və «قالَ قَيْلُولة» (qAla qaylu-lətan) kimi məsdərlərin çıxış yolu ilə çıxarmışdır. Və bu beyti gətirmişdir:\n«يَخْرُجْنَ مِنْ بَعْكوكةِ الخِلَاطِ … وَهُنَّ أَمْثَالُ السِّرى الْأَمْرَاطِ» (1)\n(Onlar qarışıqlığın qələbəliyindən çıxırlar... özü də lüt gecə səyyahları kimi).\nBəsrəlilərə gəldikdə isə, onlar zəif hərflilərdən başqa məsdərlərdə bu quruluşu qəbul etmirlər. Alimlərdən biri demişdir: «بُعْكوكة الشئ» (bu'kukatü əş-şey') — şeyin ortasıdır. Übeyd ibn Əyyub demişdir:\n«ويا ربِّ إلاَّ تَعْفُ عَنِّى تُلْقِنِى … مِنَ النَّار فى بُعْكوكها المُتَدَانِى»\n(Ey Rəbbim, əgər məni bağışlamasan, məni oddakı onun yaxınlaşan ortasına atarsan).\nVə deyilir: «وقع فى بَعْكوكاءَ» (vəqəa fi bəukukaa) — yəni şər və hay-küylü bir vəziyyətə düşdü. Fəra demişdir: «البَعْكُوكة» (əl-bə'kukəh) — dəvələrin toplaşarkən bir-birinə sıxılmasıdır, həmçinin onlardan ibarət camaat olduğu da söylənmişdir, cəmi «بَعَاكيك» (bə'Akik) gəlir.\nƏbu Zeyd demişdir: «الباعِكُ» (əl-bAiK) — kişilərdən ağılsızlıqdan məhv olan kəsdir, bu da həmin əsərdəndir, çünki o çaşqındır (qarışıq düşüncəlidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:27.649Z"
+}

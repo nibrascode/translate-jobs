@@ -1,0 +1,17 @@
+{
+ "i": 1372,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دحن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "الدال والحاء والنون ليس بأصلٍ، لأنّه من باب الإبدال.\nيقال رجل دَحِنٌ، وهو مثل الدَّحِلِ (١). وقد فسَّرناه",
+ "az": "[دحن] الدال والحاء والنون ليس بأصلٍ، لأنّه من باب الإبدال. (الدال, hə və nun – əsas deyil, çünki o, ibdal بابındandır). Deyilir: رجل دَحِنٌ (dəhin kişi), o da الدَّحِلُ (əd-dəhil) kimidir (١). Biz onu izah etdik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

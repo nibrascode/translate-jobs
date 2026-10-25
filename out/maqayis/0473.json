@@ -1,0 +1,17 @@
+{
+ "i": 473,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 359,
+  "page_to": 359
+ },
+ "ar": "التاء والواو واللام كلمةٌ ما أحسَبُها صحيحةً، لكنَّها قد رُويت قالوا: التِّوَلَةُ جنسٌ من السِّحْر (١). وقالوا: هو شئٌ تجعلُه المرأةُ فى عنقها تتحسَّن (٢) به عند زوجها.",
+ "az": "[تول] (t-v-l): Ta, vaf və lam hərfləri tək bir kəlmədir ki, onun səhih olduğunu güman etmirəm, lakin rəvayət olunmuşdur. Dedilər ki, التِّوَلَةُ (ət-tivələ) bir növ sehrdir (١). Və dedilər ki, o, qadının ərə gedərkən özünə gözəllik vermək üçün boynuna taxdığı bir şeydir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.836Z"
+}

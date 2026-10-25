@@ -1,0 +1,17 @@
+{
+ "i": 479,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تيع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 360,
+  "page_to": 360
+ },
+ "ar": "التاء والياء والعين أصلٌ واحد، وهو اضطرابُ الشَّئِ. يقال تَتَايَعَ البَعِيرُ فى مِشْيته إذا حَرّك أَلْوَاحَهُ. والسَّكْرانُ يَتَتَايَعُ فى مِشيته، إذا رَمَى بنَفْسه. والتَّتايُع التَّهافُت فى الشَّرِّ، ويقال هو اللَّجَاجُ. و\nفى الحديث: «ما يَحمِلُكُم أن تَتَايَعُوا فى الكَذِب كما يَتَتَايَعُ الفَرَاشُ فى النَّار». ولا يكون التَّتايُعُ فى الخَيْر.\nومما شَذّ عن الأصل التِّيعَة الأربعون من الغَنَم، وهو الذى جاء\nفى الحديث:\n«على التِّيمَةِ شَاةٌ».",
+ "az": "[تيع] (t-y-ayin): Ta, ya və əyn hərfləri tək bir əsasdır, o da şeyin səngiməməsi, silkələnməsi və qarmaqarışıq olmasıdır. Deyilir ki, تَتَايَعَ الْبَعِيرُ فِي مِشْيَتِهِ (tətayəbə əl-bəciru fi mişyətihə) – dəvə yerişində bədən üzvlərini hərəkət etdirdi. Sərxoş adam da özünü yerə ataraq yeridikdə تَتَايَعُ (tətayəu) edər. التَّتَايُعُ (ət-tətayüu) – şər içində bir-birinin ardınca düşmək, həlakə yuvarlanmaqdır, həmçinin bunun inadkarlıq olduğu da deyilir. Hədisdə buyurulur: «مَا يَحْمِلُكُم أَنْ تَتَايَعُوا فِي الْكَذِبِ كَمَا يَتَتَايَعُ الْفَرَاشُ فِي النَّارِ» («Sizi nə vadar edir ki, pərvanənin atəşə düşdüyü kimi, yalan içində başıpozuq şəkildə bir-birinizin ardınca gedəsiniz»). Tətayüc xeyirdə olmur. Əsasdan uzaqlaşan (şaz) hallardan biri də qoyunun qırxı olan التِّيعَةُ (ət-tiyə) sözüdür ki, hədisdə belə gəlmişdir: «عَلَى التِّيعَةِ شَاةٌ» («Hər qırx qoyuna bir qoyun düşür»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

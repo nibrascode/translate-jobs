@@ -1,0 +1,17 @@
+{
+ "i": 1384,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 345,
+  "page_to": 345
+ },
+ "ar": "الذال واللام فى التضعيف والمطابقة أصلٌ واحد يدلُّ على الخُضوع، والاستكانة، واللِّين. فالذُّل: ضِدّ العِزّ. وهذه مقابلةٌ فى التضادِّ صحيحة، تدلُّ على الحكمة التى خُصَّتْ بها العرب دون سائر الأمم؛ لأنّ العزّ من العَزَازِ، وهى الأرض الصُّلْبة الشديدة. والذِّلُّ خلاف الصُّعوبة. و\nحُكى عن بعضهم (٢) أنَّه قال: «بعضُ الذِّلِّ - بكسر الذال - أبْقَى للأهْلِ والمال». يقال من هذا: دابّةٌ ذلولٌ، بيِّن الذُّلِّ.\nومن الأوّل: رجلٌ ذليل بين الذُّلّ والمَذَلّة والذِّلّةِ. ويقال لما وُطِئَ من الطَّريق ذِلٌّ. وذُلِّل القِطْفُ تذليلاً، إذا لانَ وتَدَلّى. ويقال: أجْرِ الأمورَ على أذلالها، أى استقامتها، أى على الأمر الذى تَطُوع فيه وتَنْقاد.\nومن الباب ذَلاذِل القميص، وهو ما يلى الأرض من أسافلِهِ، الواحدة ذِلذِلٌ. ويقولون: اذْلَوْلَى الرّجُل إذلِيلَاءَ، إذا أسرَعَ. وهو من الباب.",
+ "az": "[ذل] (Zə-lə-lə). Təşdidli və mütabiq formalarda zəl və lam hərfləri boyun əyməyə, itaətə və yumşaqlığa dəlalət edən tək bir təməldir. فَالذُّلُّ (əz-zəllü): izzətin ziddidir. Bu, təzadda doğru bir qarşılaşmadır ki, digər ümmətlərdən fərqli olaraq məhz ərəblərə məxsus olan hikmətə dəlalət edir; çünki izzət — العَزَاز (əl-əzaz) sözündəndir, o da sərt, bərk yerdir. وَالذِّلُّ (əz-zillü) çətinliyin əksidir. Bəzilərindən rəvayət olunmuşdur (٢) ki, o demişdir: «بعضُ الذِّلِّ - بكسر الذال - أبْقَى للأهْلِ والمال» («Bəzi zillət — zəl hərfinin kəsri ilə — ailə və mal üçün daha qalıcıdır»). Bundan törəyərək deyilir: دابّةٌ ذلولٌ (yüyənə gələn, itaətkar minik heyvanı), بيِّن الذُّلِّ (itaətkarlığı açıq-aydın görünən). Birincidən: رجلٌ ذليلٌ بين الذُّلّ والمَذَلّة والذِّلّةِ (zəlil kişi, zillət, məzəllət və zillət içində). Basılmış, tapdalanmış yola ذِلٌّ (zill) deyilir. وَذُلِّلَ القِطْفُ تَذْلِيلاً (qitf — xurma salxımı yumşaldıldı və sallandı) — yumşaldığı və aşağı sallandığı zaman. Və deyilir: أجْرِ الأمورَ على أذلالها (işləri öz qaydalarına uyğun apar), yəni onların düzgünlüyünə, boyun əydiyi və tabe olduğu hala uyğun olaraq. Bu fəsildəndir: ذَلاذِل القميص (köynəyin ətəkləri), yəni yerə yaxın olan aşağı hissələridir, təkli ذِلذِلٌ (zilzil) olur. Və deyirlər: اذْلَوْلَى الرّجُلُ إذلِيلَاءَ (kişi tələsik getdi), tələsdiyi zaman. Bu da həmin fəsildəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

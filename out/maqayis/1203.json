@@ -1,0 +1,17 @@
+{
+ "i": 1203,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 257,
+  "page_to": 257
+ },
+ "ar": "الدَّال والظاء ليس أصلاً يعوَّل عليه ولا يَنْقَاس منه. ذكروا من الخليل أنَّ الدَّظَّ الشَّلُّ (١)؛ يقال دَظظْناهم، إذا شَلَلْناهم. وليس ذا بشئِ.",
+ "az": "«دظ» (d-z) — Dal və zai hərfləri etibar edilən və ondan qiyas çıxarılan bir əsas deyil. Xəlildən zikr etmişlər ki, «الدَّظَّ» — qovub qaçırmaqdır (١); «دَظظْناهم» — yəni onları qovub qaçırdıq, deyilir. Bu isə heç bir şey (əhəmiyyətli söz) deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:40.620Z"
+}

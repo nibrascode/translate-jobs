@@ -1,0 +1,17 @@
+{
+ "i": 1063,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خرم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 173,
+  "page_to": 174
+ },
+ "ar": "الخاء والراء والميم أصلٌ واحد، وهو ضرب من الاقتطاع.\nمال خَرَمْتُ الشَّئَ. واختَرَمَهُم الدَّهر. وخُرِم الرجُل، إذا قُطِعَتْ وتَرَةُ أنفِه، لا يبلُغ الجدْعَ. والنَّعت أخرمُ. وكلُّ مُنْقَطَعِ طَرَفِ شئِ مَخْرِم. يقال لمنقطَعِ أنف الجبل مَخْرِم.\nوالخوْرَمة: أرنبة الإنسان؛ لأنَّها منقطَع الأنف وآخره وأَخْرَمُ الكتف:\nطرف عَيْرِه (١). ويمينٌ ذاتُ مخارِمَ، أى ذاتُ مخارج، واحدها مَخْرِم؛ وذلك أنّ اليمين التى لا يمكن تأوُّلها بوجهٍ ولا كفّارةٍ فلا مخرج لعينها، ولا انقطاع لحكمها، فإذا كانت نخلاف ذلك فقد صارت لها مخارِم، أى مخارجُ ومنافذ، فصارت كالشَّئِ فيه خروق. قال:\nلا خير فى مالٍ عليه ألِيَّةٌ … ولا فى يمينٍ غيرِ ذاتِ مخَارِمِ\nيريد التى لا كَفَّارة لها، فهى محرْجة مضيّقة. والخَوْرم. صخرةُ فيها خُروق ومما يجرى كالمثل والتشبيه، قولهم: «تَخرَّم زَنْد فلان»، إذا سكنَ غضبُه.",
+ "az": "[خرم] (خ, ر, م) – tək bir kökdür, o da bir növ kəsib ayırmaqdır. Deyilir: «خرمت الشئ - xərəmtü əş-şəyə». Zaman onları kəsib məhv etdi («اخترَمَهُم الدَّهر»). Kişi «خُرِم - xurimə» – burun pərdəsi kəsildi, lakin qulaq mərtəbəsinə (kökündən qopmağa) çatmadı. Onun sifəti «أخرم - əxrəm» olar. Hər bir şeyin ucu kəsilmiş hissəsi «مخرم - məxrim» adlanır. Dağın burnunun kəsilmiş yerinə «مخرم - məxrim» deyilir. «الخوْرَمة - əl-xovrəmə» – insanın burun ucudur, çünki o, burunun kəsilən son nöqtəsidir. Çiyinin «أخرم - əxrəm»i – onun çıxıntısının ucudur. «يمين ذات مخارم - yəminun zatü məxərim» – yəni çıxış yolları olan, təkili «مخرم - məxrim»dir; bu ona görədir ki, elə bir anddır ki, heç bir vəchlə və ya kəffarə ilə yozulması mümkün deyil, onun üçün heç bir çıxış yolu və hökmünün kəsilməsi yoxdur. Əgər bundan başqa cür olsa idi, onda onun «مخارم - məxərim»i, yəni çıxış və keçid yolları olar və içində dəliklər olan bir şeyə bənzəyərdi. Şair demişdir: لا خير فى مال عليه ألية... ولا فى يمين غير ذات مخارم. O, kəffarəsi olmayan, darvazası bağlanmış və sıxışdırılmış andı nəzərdə tutur. «الخوْرم - əl-xovrm» – içində deliklər olan qayadır. Məsəl və bənzətmə kimi işlənən ifadələrdən biri də onların «تخرَّم زِند فلان - təxərrəmə zindu fülän» – filankəsin qəzəbi soyudu, səngidi deməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:08:39.581Z"
+}

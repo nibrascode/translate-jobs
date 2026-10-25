@@ -1,0 +1,17 @@
+{
+ "i": 1291,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 298,
+  "page_to": 299
+ },
+ "ar": "الدال والميم والنون أصلٌ واحد يدلُّ على ثباتٍ ولزوم فالدِّمْنُ: ما تَلبَّد من السِّرجين والبَعْر فى مَبَاءات النَّعَم؛ وموضع ذلك الدِّمْنةُ، والجمع دِمَن. ويقال دَمَنْتُ الأرض بذلك، مثلُ دَمَلْتُها. والدِّمنة: ما اندفَن من الحِقْد فى الصدر *. وذلك تشبيه بما تدمَّن من الأبعار فى الدِّمَن. ويقال: دمَّن فلانٌ\nفِناءَ فُلانٍ، إذا غَشِيَه ولَزِمه. وفلانٌ دِمْنُ مالٍ، مثل قولهم إزاءُ مالٍ. وإنما سُمِّى بذلك لأنّه يلازم المال. ودَمُّونُ: مكانٌ. وكل هذا قياسٌ واحد.\nوأمّا الدّمَانُ، فهو عَفَنٌ يُصِيب النَّخْل، فإن كان صحيحاً فهو مشتقٌّ ممّا ذكرْناه من الدِّمْن؛ لأنّ ذلك يَعْفَنُ لا محالة.",
+ "az": "[دمن] (dəm-n): Dal, mim və nun hərfləri bir əsas prinsipi göstərir ki, bu da sabitlik və bağlılıqdır. «الدِّمْنُ» (əd-dimnü): mal-qaranın yatdığı yerlərdə kəltənləşmiş peyin və gübrə; bunun yeri «الدِّمْنة» (əd-dimnətü), cəmi isə «دِمَن» (dimən)-dir. Deyilir: «دَمَنْتُ الأرض بذلك» (dəməntü əl-ardə bizəlik) — «دَمَلْتُها» (dələtüha) kimi. Və «الدِّمنة» (əd-dimnətü): sinədə basdırılaraq qalan kin *. Bu, «الدِّمَن»-də (əd-dimən) yığılıb qalan peyinlərə bənzədilmişdir. Deyilir: «دمَّن فلانٌ فِناءَ فُلانٍ» (dəmmənə fəlanün fin-ə fülənin) — onun həyətinə gəlib oradan əl çəkmədikdə. Və «فلان دِمْنُ مالٍ» (fəlanün dimnü malin) — onların «إزاءُ مالٍ» (izau malin) sözü kimidir. O, belə adlandırılmışdır, çünki o, mala bağlıdır. Və «دَمُّونُ» (dəmmun): bir yerdir. Bütün bunlar bir qiyasdır.\n«الدّمَانُ» (əd-dumanu) gəldikdə isə, bu, xurma ağaclarını bürüyən kifdir; əgər səhihdirsə, bu, qeyd etdiyimiz «الدِّمْن»-dən törəmişdir; çünki o, qaçılmaz olaraq kiflənir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.834Z"
+}

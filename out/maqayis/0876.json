@@ -1,0 +1,17 @@
+{
+ "i": 876,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حشد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 66,
+  "page_to": 66
+ },
+ "ar": "الحاء والشين والدال قريبٌ المعنى من الذى قبلَه. يقال حَشَد القوم إذا اجتمعوا وخفُّوا فى التعاوُن. وناقة حشُودٌ: يسرعُ اجتماعُ اللَبن فى ضرعها. والحَشْد: المحتشدون. وهذا وإن كان فى معنى ما قبلَه ففيه معنًى آخر، وهو التّعاوُن. ويقال عِذقٌ حاشِدٌ وحاشك: مجتمِعُ الحَمْل كثيرُهُ.",
+ "az": "[حشد] Ha (ha), Şin (şin) və Dal (dal) hərfləri məna baxımından əvvəlki ilə yaxındır. «حَشَد القوم» (qövm toplandı) deyilir, bu, insanlar bir yerə toplaşdıqda və yardımlaşmaqda çevik olduqda deyilir. «ناقة حشُودٌ» (həşud dəvə) - südü döşündə tez toplanan dəvədir. «الحَشْد» (əl-həşd) - toplaşanlar deməkdir. Bu, əvvəlki ilə eyni mənada olsa da, burada başqa bir məna da var, o da yardımlaşmaqdır. «عِذقٌ حاشِدٌ» və «حاشك» (həşid və haşik xurma salxımı) deyilir: meyvəsi çox və bir yerdə toplanmış deməkdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:57:37.546Z"
+}

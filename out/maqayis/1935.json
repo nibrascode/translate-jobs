@@ -1,0 +1,17 @@
+{
+ "i": 1935,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 107,
+  "page_to": 107
+ },
+ "ar": "السين والنون والقاف فيه كلمةٌ واحدة، وهى السَّنَق، وهو كالبَشَم. يقال شرِب الفَصيل حتى سَنِق. وكذلك الفرس، من العلَف. وهو كالتُّخَم فى الناس.",
+ "az": "«سنق» — السين والنون والقاف (سين، نun və qaf) burada tək bir kəlmə vardır, o da «السَّنَق»dir, o, «البشَم» (çox yeməkdən toxluq) kimidir. Deyilir ki, südəmər dəvə balası toxunana qədər içdi «سَنِقَ». Eləcə də at, yeməkdən. Bu, insanlardakı «التُّخَم» (həzm olunmamaq) kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:45.685Z"
+}

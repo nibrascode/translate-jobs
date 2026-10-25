@@ -1,0 +1,17 @@
+{
+ "i": 157,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 163,
+  "page_to": 163
+ },
+ "ar": "الهمزة والياء والراء كلمةٌ واحدة وهى الرِّيح. واختُلِف فيها، قال قوم: هى حارّة ذات أُوارٍ. فإن كانَ كذا فالياء فى الأصل واوٌ، وقد مضى تفسير ذلك فى الهمزة والواو والراء. وقال الآخرون: هى الشَّمال الباردة بلغة هُذَيل. قال:\nوانّا مَسامِيحٌ إذا هَبّت الصَّبا … وانّا مَراجِيحٌ إذا الأَيرُ هُبَّتِ (٣)",
+ "az": "[أير] (ə-y-r): Həmzə, ya və ra tək bir kəlmədir ki, o da külək deməkdir. Bu xüsusda fikir ayrılığı olmuşdur; bir qrup demişdir ki, o, hərarətli və isti yeldir. Əgər belədirsə, ya hərfi əslində vavadır və bunun izahı həmzə, vau və ra bəhsində artıq keçmişdir. Digərləri isə demişlər ki, hüzeylər dilində bu, soyuq şimal küləyidir. Şair demişdir: Və biz səxavətliyik səba küləyi əsdikdə... Və biz ağır-vəznliyik «الأَير» (əyr - külək) əsdikdə (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:25:17.133Z"
+}

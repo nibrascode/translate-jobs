@@ -1,0 +1,17 @@
+{
+ "i": 713,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جوب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 491,
+  "page_to": 492
+ },
+ "ar": "الجيم والواو والباء أصلٌ واحد، وهو خَرْقُ الشئ. يقال جُبْتُ الأرضَ جَوْبا، فأنا جَائبٌ وجَوّابٌ. قال الجعدى (٢):\nأتاك أبو ليلى يَجوبُ به الدُّجَى … دُجَى الليل جَوّابُ الفلاةِ عَثَمْثَمُ (٣)\nويقال: «هل عِندك جائِبةُ خبرٍ» أى خبرٌ يجوب البلاد. والجَوْبَةُ كالغائط؛ وهو من الباب؛ لأنه كالخَرْق فى الأرض. والجوْب: دِرعٌ تلبسُه المرأة، وهو مَجُوبٌ سمِّى بالمَصدر. والمِجْوَبُ: حديدةٌ يُجابُ بها، أى يُخْصَف.\nوأصلٌ آخَر، وهو مراجَعة الكلام؛ يقال كلمه فأجابَه جَواباً، وقد تجاوَبَا مُجاوَبة. والمجابَةُ: الجواب. ويقولون فى مَثَلٍ: «أساءَ سَمْعاً فأساء جابةً».\nوقال الكميتُ لقُضاعة فى تحوُّلهم إِلى اليمن:\nوما مَنْ تَهِتفينَ له بِنَصْرٍ … بِأسْرَعَ جابَةً لكِ مِنْ هَدِيل (١)\nالغرب تقول: كان فى سفينة نوحٍ ﵇ فَرْخٌ، فطار فوقع فى الماء فغرق، فالطَّير كلها تبكى عليه. وفيه يقول القائل (٢):\nفقلتُ أتَبكى ذاتُ شَجْو تذكّرتْ … هَدِيلاً وقد أودى وما كانَ تُبَّعُ (٣)",
+ "az": "[جوب] \nCim, vau və ba hərfləri bir əslə qayıdır ki, o da bir şeyi yarıb keçmək, dəlməkdir. جُبْتُ الأرضَ جَوْبا (cubtul-ar-zə cavban) – yeri yarıb keçdim, mən isə جَائبٌ (câib) və جَوّابٌ (cavvab) oldum. Cədi demişdir:\nأتاك أبو ليلى يَجوبُ به الدُّجَى … دُجَى الليل جَوّابُ الفلاةِ عَثَمْثَمُ (٣)\n(Əbu Leyla sənin yanına gəldi, qaranlığı yara-yara gəldi… Gecənin qaranlığını yaran, səhranı aşan əzəmətli dəvə.)\nVə deyilir: «هل عِندك جائِبةُ خبرٍ» (Səndə xəbər gətirən / xəbər yayan varmı?) – yəni ölkələri dolaşan xəbər. الْجَوْبَةُ (əl-cavbə) – böyük çuxur və ya dərə kimidi; bu da həmin babdandır; çünki o, torpaqda yarıq kimidir. الْجَوْبُ (əl-cavb) – qadının geyindiyi köynəkdir, o مَجُوبٌ (macub) adlanır, məsdərdən törədilərək adlandırılmışdır. الْمِجْوَبُ (əl-micvab) – bir şeyi deşmək və ya tikmək üçün işlədilən dəmir alətdir.\nVə digər bir əsl – sözə qayıtmaq, cavab verməkdir; deyilir: كلمه فأجابَه جَواباً (kəlləməhu fə-əcəbəhu cəvaban) – onunla danışdı və ona cavab verdi, və onlar مُّجاوَبة (mucavəbə) etdilər. الْمُجَابَةُ (əl-mucabə) – cavab deməkdir. Və onlar məsəldə deyirlər: «أساءَ سَمْعاً فأساء جابةً» (Pis eşitdi, ona görə də pis cavab verdi).\nKümeyt Yəmənə köçən Qudaə qəbiləsinə demişdir:\nوما مَنْ تَهِتفينَ له بِنَصْرٍ … بِأسْرَعَ جابَةً لكِ مِنْ هَدِيل (١)\n(Kömək üçün çağırdığın kəs… Hedildən daha tez sənə cavab verən deyil.)\nQərb (əhli) deyir ki, Nuhun (əleyhissəlam) gəmisində bir cücə var idi, uçub suya düşdü və boğuldu, buna görə də bütün quşlar ona ağlayır. Şair də bu barədə demişdir (2):\nفقلتُ أتَبكى ذاتُ شَجْو تذكّرتْ … هَدِيلاً وقد أودى وما كانَ تُبَّعُ (٣)\n(Dedim ki, qəm sahibi olan, Hedili xatırlayıb ağlayırmı? O ki həlak olmuşdur, halbuki o, Tubbə zamanında deyildi.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

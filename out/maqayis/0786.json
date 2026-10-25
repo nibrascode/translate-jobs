@@ -1,0 +1,17 @@
+{
+ "i": 786,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جخدب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 511,
+  "page_to": 511
+ },
+ "ar": "ومن ذلك قولهم للجمل العظيم (جُخْدُبَ)، فالجيم زائدة. وأصله من الخَدَب؛ يقال للعظيم خِدَبٌّ. وتكون الدال زائدةً؛ فإنّ العظيم جَخَبٌّ أيضاً.\nفالكلمة منحوتةٌ من كلمتين.",
+ "az": "«جخدب» - Və buraya böyük dəvəyə «جُخْدُبَ» (cuxdub) deyilməsi daxildir, cim hərfi artıqdır (zayiddir). Əsli الخَدَب (əl-xədəb) sözündəndir; böyük adama خِدَبٌّ (xidəbb) deyilir. Dal hərfi də artıq ola bilər; çünki böyük adama جَخَبٌّ (cəxəbb) də deyilir.\nDeməli, söz iki sözdən nəht edilmişdir (birləşdirilib düzəldilmişdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

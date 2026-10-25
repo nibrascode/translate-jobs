@@ -1,0 +1,17 @@
+{
+ "i": 973,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حوك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 121,
+  "page_to": 121
+ },
+ "ar": "الحاء والواو والكاف، ضمُّ الشئ إلى الشئ. ومن ذلك حَوْك الثَّوبِ والشَعر.",
+ "az": "[حوك] الحاء, الواو və الكاف – bir şeyi digər bir şeyə birləşdirməkdir. Bunlardan biri də paltarın və saçın حَوْك (həvk) edilməsidir (toxunmasıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.843Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2013,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سخم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 145,
+  "page_to": 146
+ },
+ "ar": "السين والخاء والميم أصلٌ مطرَّد مستقيم، يدلُّ على اللِّين والسواد. يقال شَعرٌ سُخاَمىّ: أسود لَيِّن. كذا حُدِّثنا به عن الخليل. وحدّثنى علىّ بن إبراهيم القطَّان، عن على بن عبد العزيز، عن أبى عُبيد قال: قال الأصمعى:\nوأما الشَّعر السُّخام، فهو الليِّن الحَسن، وليس هو من السَّواد. ويقال للخمر سُخامِيَّة إذا كانت ليِّنة سَلِسَة. قال ابن السكِّيت: ثوب سُخامٌ: ليِّن. وقطنٌ سُخامٌ (٣).\nقال:\nقطنٌ سُخاَمِىٌّ بأيْدِى غُزَّلِ (٤)\nومما شذّ عن هذا الأصل السَّخيمة، وهى الموجدة فى النَّفس. ويقال سَخَّم اللّه وجهه، وهو من السُّخام، وهو سواد القِدْر.",
+ "az": "«سخم» (səhm - yumşaqlıq və qaralıq): Sin, xə və mim hərfləri yumşaqlığa və qaralığa dəlalət edən müntəzəm və düzgün bir əsasdır. Deyilir: «شعرٌ سُخاَمىٌّ» — qara və yumşaq saç. Bizə bu haqda Xəlildən belə nəql olunmuşdur. Əli ibn İbrahim əl-Qəttan mənə Əli ibn Əbdüləzizdən, o da Əbu Übeyddən nəql edərək dedi: Əsməçi demişdir: «السَّخام» saçın yumşaq və gözəl olmasına deyilir, bu, qaralıq mənasından deyil. Şəraba yumşaq və axıcı olduğu üçün «سُخامِيَّة» deyilir. İbn əs-Sikkit demişdir: «ثوب سُخامٌ» — yumşaq paltar. Həmçinin «قطنٌ سُخامٌ» (yumşaq pəmbə/pambıq) (٣). Şair demişdir: «قطنٌ سُخاَمِىٌّ بأيْدِى غُزَّلِ» (Əyirici qadınların əlində yumşaq pambıq) (٤). Bu əsasdan istisna edilən «السَّخيمة» sözüdür, o da qəlbdəki kin və qəzəb deməkdir. Deyilir: «سَخَّم اللّه وجهه» — Allah onun üzünü qaraltsın, bu söz qazanın qarası olan «السُّخام» sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:57.043Z"
+}

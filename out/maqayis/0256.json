@@ -1,0 +1,17 @@
+{
+ "i": 256,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بصق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 253,
+  "page_to": 253
+ },
+ "ar": "الباء والصاد والقاف أصلٌ واحدٌ يشارك الباء والسين والقاف، والأمرُ بينهما قريبٌ. يقال بَصَقَ بمعنى بَزَقَ وبَسَقَ. قال الخليل:\nوهو بالصَّاد أحْسَن. والاسم البُصاق.\nقال أبو زياد: يقال أَبصَقَتِ الشَّاةُ؛ وإِبصاقُها أن تُنزل اللَّبنَ قبلَ الوِلادِ، فيكونَ فى قرارِ ضَرْعِها شئ من لَبَن وما فَوْقَه خالٍ. قال: وذلك من الشَّاةِ على قِلَّةِ اللَّبن إذا وَلَدَتْ. قال: ومَباصِيق الغَنَم تُنْتَجُ بعد إنزال اللَّبن بأيَّامٍ كثيرة، ولا يكونُ لبنُها إلاَّ فى قَرَارِ الضَّرْع وطَرَفه.\nقال بعضُهم: بصَقْتُ الشَّاةَ حلبتُها وفى بطنها وَلَدٌ. قال: والبَصُوق أَبْكأُ الغَنم وأقَلُّها لبناً. قال الدُّرَيْدِىّ: بُصاقُ الإبل خِيارُها، الواحد والجميعُ سَواء. فأما قولُهم للحَجَر الأبيض الذى يتلألأُ: بُصَاقَةُ القمر، وبَصْقَة القمر، فمُشَبَّهٌ بِبُصاقِ الإنسان. والبُصاق: جِنسٌ من النَّخل، وكأَنه مِنْ قِياس البُساق. وهو فى بسق (١).",
+ "az": "[بصق] (bəşəq): Ba, sad və qaf tək bir əsasdır ki, ba, sin və qaf hərfləri ilə şərikdir, onların arasındakı məna yaxındır. «بَصَقَ» (bəşəqə) – «بَزَقَ» (bəzəqə) və «بَسَقَ» (bəsəqə) mənasında deyilir. Xəlil demişdir:\nO, sad (ص) hərfi ilə daha gözəldir. Adı «البُصاق» (əl-buşaq)-dır.\nƏbu Ziyad demişdir: «أبصَقَتِ الشَّاةُ» (əbşəqatiş-şatü) deyilir; qoyunun əbşaq olması – doğmazdan əvvəl süd endirməsidir, belə ki, onun əmçəyinin qərargahında bir az süd olur, yuxarısı isə boş qalır. O demişdir: Bu, qoyun doğduqda südün az olmasındandır. O demişdir: «مَباصِيق الغَنَم» (məbasiqul-ğənəm) – süd endirdikdən xeyli gün sonra balalayan qoyunlardır, onların südü ancaq əmçəyin qərargahında və ucunda olur.\nBəziləri demişdir: «بصَقْتُ الشَّاةَ» (bəşəqtüş-şatə) – onu qarnında balası ola-ola sağdım. O demişdir: «البَصُوق» (əl-bəşuq) – südü ən az və bala verməyən qoyundur. Duridi demişdir: «بُصاقُ الإبل» (buşaqul-ibil) – dəvələrin seçilmişləridir, tək və cəm forması eynidir. Ağ və parıldayan daşa gəldikdə isə: «بُصَاقَةُ القمر» (buşaqətül-qəmər) və «بَصْقَة القمر» (bəşqətül-qəmər) – insanın tüpürcəyinə bənzədilmişdir. Və «البُصاق» (əl-buşaq) – xurma ağaclarının bir növüdür, sanki «بُساق» (busaq) qiyasındandır. O, «بسق» (bəşəq) maddəsindədir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:44.619Z"
+}

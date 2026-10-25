@@ -1,0 +1,17 @@
+{
+ "i": 1294,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دمخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 299,
+  "page_to": 300
+ },
+ "ar": "الدال والميم والخاء ليس أصلاً. إنما هو دَمْخٌ: جبلٌ، فى قول القائل:\nكَفَى حَزَناً أنِّى تطالَلْتُ كَىْ أَرَى … ذُرَى عَلَمَىْ دَمْخ فما يُريَانِ (١)",
+ "az": "[دمخ] (dəm-x): Dal, mim və xə hərfləri əsl deyil. Bu sadəcə «دَمْخٌ» (dəm-xun)-dür: bir dağdır, deyənin bu sözündə olduğu kimi:\nكَفَى حَزَناً أنِّى تطالَلْتُ كَىْ أَرَى … ذُرَى عَلَمَىْ دَمْخ فما يُريَانِ (١)\n(Kədər olaraq mənə bəs edər ki, Dimx dağının iki zirvəsini görmək üçün boyun uzatdım, lakin onlar görünmürlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.834Z"
+}

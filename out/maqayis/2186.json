@@ -1,0 +1,17 @@
+{
+ "i": 2186,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شجوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 249,
+  "page_to": 249
+ },
+ "ar": "الشين والجيم والحرف المعتل يدلُّ على شدّةٍ وصُعوبة، وأن يَنْشَب الشَّئُ فى ضيقٍ. من ذلك الشَّجْو: الحُزْن والهَمّ، يقال شجاه يشجوه. وشجانى الشئُ، إذا حَزَنَك (٣). والشَّجَى: ما نَشِبَ فى الحَلق من غُصَّةِ هَمٍّ. ومفازةٌ شجْواء: ضيّقة المسلك.",
+ "az": "[شجوى] Şin, cim və zəif hərf (hərf və mətəl) şiddətə və çətinliyə, həmçinin bir şeyin dar bir yerdə ilişib qalmasına dəlalət edir. O cümlədən «الشَّجْو» — qəm və kədər, «شجاه يشجوه» deyilir. «وشجانى الشئُ» — bir şey səni kədərləndirdikdə (٣). Və «الشَّجَى» — qəm boğazından udlaqda ilişib qalan şey. «ومفازةٌ شجْواء» — keçidi dar olan səhra.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:46.217Z"
+}

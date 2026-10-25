@@ -1,0 +1,17 @@
+{
+ "i": 636,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جزع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 453,
+  "page_to": 453
+ },
+ "ar": "الجيم والزاء والعين أصلان: أحدهما الانقطاع، والآخر جوهرٌ من الجواهر.\nفأمّا الأول فيقولون جَزَعْتُ الرّملة إذا قطعتَها؛ ومنه: جِزْعُ الوادى، وهو الموضع الذى يَقطعُه من أحد جانبَيه إلى الجانب؛ ويقال هو مُنْعَطَفه. فإنْ كان كذا فلأنّه انقَطع عن الاستواء فانعرج. والجزَع: نَقِيض الصّبر، وهو انقطاعُ المُنَّة عن حَمْل ما نزل (١). و [الجُزْعة (٢)] هى القليل من الماء، وهو قياس الباب.\nوأمّا الآخَر فالجَزِع، وهو الخرَزُ المعروف. ويقالُ بُسْرَةٌ مُجزَّعَةٌ، إِذا بَلَغَ الإرطابُ نِصْفها، وتُشْبِه حينئذٍ الجَزْع (٣).",
+ "az": "[جزع] (Cim, zay və eyn) iki əsas kökdür: biri kəsilmək, digəri isə incilərdən (daş-qaşdan) bir cövhərdir. Birincisinə gəldikdə, onlar جَزَعْتُ الرّملة (qumluğu keçdim) – yəni onu kəsib keçdin – deyirlər; Vadi جِزْعُ (kəsiyi, keçidi) də buradandır, bu, onun iki tərəfindən birindən o biri tərəfinə keçilən yeridir; həmçinin onun döngəsi də deyilir. Əgər belədirsə, deməli, bu, düzənlikdən ayrılıb qıvrıldığı üçündür. الجزَع (əlcəzə) – səbrin əksi, dözümsüzlükdür, bu da baş verənlərə dözmək gücünün kəsilməsidir. [الجُزْعة] (əl-cüzdə) isə az su deməkdir, bu da həmin babın qiyasındandır. İkincisinə gəldikdə, əl-cəzic məlum muncuqdur. Bəsriyyə xurmasına جِزْعَة (cizəti-büsr) deyilir, nəvaxt ki onun yetişməsi (rütəbi) yarıya çatır, o zaman cəzoya (muncuğa) bənzəyir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:46:13.021Z"
+}

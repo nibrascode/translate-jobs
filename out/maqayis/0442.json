@@ -1,0 +1,17 @@
+{
+ "i": 442,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 348,
+  "page_to": 348
+ },
+ "ar": "التاء والعين والراء ليس بشئ، إلاّ تِعَار، وهو جَبَل.",
+ "az": "[تعر] (tə-%-r). Ta, ayn və ra hərflərində تِعَار (tiar) adlı dağdan başqa heç nə yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:05.804Z"
+}

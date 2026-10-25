@@ -1,0 +1,17 @@
+{
+ "i": 424,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 342,
+  "page_to": 342
+ },
+ "ar": "الأتْحمىُّ ضربٌ من البُرودِ (١):",
+ "az": "«تحم» (t-h-m): الأتْحمىُّ (əl-əthəmiyyu) bir növ parça (bürd) növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.116Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2358,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 340,
+  "page_to": 340
+ },
+ "ar": "الصاد والدال والميم كلمةٌ واحدة، وهى الصَّدْم، وهو ضَرْب الشَّئٍ الصُّلْبِ بمثله.",
+ "az": "[صدم] (Sədəm). Sad, dal və mim hərfləri tək bir kökdür, o da “sədm”dir [الصَّدْم] — yəni sərt bir şeyin digər sərt bir şeyə çırpılması, vurulmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.589Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 290,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بغض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 273,
+  "page_to": 274
+ },
+ "ar": "الباء والغين والضاد أصل واحد، وهو يدلّ على خلاف الحبّ.\nيقال أبغضته أبغضه. فأمّا قوله:\nومن العوادى أن تقتك ببغضة … وتقاذف منها وأنّك ترقب (١)\nفقيل البغضة الأعداء، وقيل أراد ذوى بغضة. وربما قالوا بغض جدّه، كقولهم عثر. واللّه أعلم.\n[(باب الباء والقاف وما يثلثهما فى الثلاثى)]",
+ "az": "«بغض» (bağəda). Ба, ğun və dad hərfləri tək bir əslə malik olub, məhəbbətin əksinə dəlalət edir. «أبغضته أبغضه» (əbğadْتühü übğidühü) – ona nifrət etdim, nifrət edirəm, deyilir. Amma onun bu sözünə gəldikdə: ومن العوادى أن تقتك ببغضة … وتقاذف منها وأنّك ترقب (١) – bəziləri «البغضة» (əl-bəğdə) sözünün düşmənlər mənasında olduğunu, bəziləri isə nifrət sahibləri qəsd etdiyini demişlər. Bəzən «عثر» (əsir) dedikləri kimi, «بغض جدّه» (bəğada cəddühü) də deyirlər. Allah daha yaxşı bilir. [(Ba və qaf hərfləri babı və sülasi kəlmələrdə onlara üçqat əlavə olunanlar)]",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:32:05.260Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2075,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شعث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 192,
+  "page_to": 192
+ },
+ "ar": "الشين والعين والثاء أَصل يدل على انتشارٍ فى الشَّئ.\nيقولون: لم اللّه شَعَثَكم، وجَمَع شَعَثَكم، أى ما تفرَّق من أمركم. والشَّعَث شَعَثُ رأس السِّواكِ والوتِد. ويسمُّون الوتِدَ أشعثَ لذلك.",
+ "az": "[شعث] الشين والعين والثاء — bir şeydə dağınıqlığa və səpələnməyə dəlalət edən bir kökdür. Deyirlər: «لم اللّه شَعَثَكم» və «جَمَع شَعَثَكم» (Allah dağınıqlığınızı toplasın, işlərinizin pərakəndəliyini birləşdirsin), yəni işlərinizdən pərakəndə düşəni. Və əş-şəəs — misvakın və dirəyin başının pərakəndəliyi, uclarının dağılmasıdır. Buna görə də dirəyə «أشعث» (saçı-şəqəli dağınıq, ucları pərakəndə) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:23.799Z"
+}

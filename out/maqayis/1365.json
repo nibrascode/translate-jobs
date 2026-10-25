@@ -1,0 +1,17 @@
+{
+ "i": 1365,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دحز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "الدال والحاء والزاء ليس بشئ. وقال ابن دريد: الدَّحْز:\nالجِماع (٢). وقد يُولَع هذا الرجلُ بباب الجماع والدَّفْع، وباب القَمْش والجمع.",
+ "az": "[دحز] الدال والحاء والزاء ليس بشئ. (الدال, hə və zay – heç bir şey deyil). İbn Dürid demişdir: الدَّحْز (əddəhz): Cima (٢). Bu kişi cima və itələmək, həmçinin yığmaq və toplamaq بابına həvəsli ola bilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:20:39.120Z"
+}

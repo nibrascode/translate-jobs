@@ -1,0 +1,17 @@
+{
+ "i": 1808,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زيل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 41,
+  "page_to": 41
+ },
+ "ar": "الزاء والياء واللام ليس أصلاً، لكنّ الياء فيه مبدلةٌ من واو، وقد مضى ذِكره، وذُكرتْ هنالك كلماتُ اللَّفظ. فالتَّزايل: التباين. يقال زَيَّلْتُ بينه، أى فرّقْت، قال اللّه تعالى: ﴿فَزَيَّلْنا بَيْنَهُمْ﴾. ويقال إن الزَّيَل تباعُد ما بين الفَخِذين، كالفَحَج. وذُكر عن الشيبانىّ إن كان صحيحاً تزايلَ فلانٌ عن فلانٍ، إذا احتشَمَه. وهو ذاك القياسُ إن صحّ.",
+ "az": "[زيل] (zil). الزاء (ز) və الياء (ي) və اللام (ل) əsl deyildir, lakin buradakı ya hərfi waw hərfini əvəz etmişdir. Onun zikri artıq keçmişdir və orada sözün kəlmələri qeyd olunmuşdur. التَّزايل (təzayül) — bir-irindən ayrı düşmək, fərqlənməkdir. Deyilir: زَيَّلْتُ بينه (onların arasını ayırdım), yəni ayırdım. Uca Allah buyurmuşdur: ﴿فَزَيَّلْنا بَيْنَهُمْ﴾ (mənaca tərcümə: Biz onların arasını ayırdıq). Və deyilir ki, الزَّيَل (zəyəl) — budlar arasındakı məsafənin uzaq olmasıdır, fəhəc (ayaqları aralı yerimək) kimi. Şeybanidən rəvayət olunmuşdur ki, əgər səhihdirsə: Falan kəs falan kəsdən تزايل (uzaqlaşdı, çəkingənlik etdi), yəni ondan çəkindiyi üçün. Əgər səhih olsa, budur həmin qiyas.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.436Z"
+}

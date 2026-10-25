@@ -1,0 +1,17 @@
+{
+ "i": 285,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بغت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 272,
+  "page_to": 272
+ },
+ "ar": "الباء والغين والتاء أصل واحد لا يقاس عليه، منه البغت، وهو أن يفجأ الشئ. قال:\n* واعظم شئ حين يفجؤك البغت (٥) *",
+ "az": "[بغت] الباء، الغين və التاء — qiyas edilməyən tək bir əsas kökdür, ondan «البغت» (qəflətən baş vermək) sözü yaranır, yəni bir şeyin qəflətən gəlib çatmasıdır. Şair demişdir: Ən böyük şey qəflətən sənə gəlib çatan vaxtdır (٥).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

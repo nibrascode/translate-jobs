@@ -1,0 +1,17 @@
+{
+ "i": 2453,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضبا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 389,
+  "page_to": 389
+ },
+ "ar": "الضاد والباء والهمزة أصلٌ واحد صحيح، وهو قريبٌ من الاستخفاء وما شاكلَه، من سُكوتٍ ومثلِه. قال أبو زيد: أضْبأَ الرجُل على الشَّئ إضباءً، إذا سكَتَ عليه، وهو مُضْبِئٌ عليه. وقد أضْبَأ على داهية.\nوضبَأْت: استخفَيت. ويقال فى هذا إنّما هو أضْبَى غير مهموز، والأوّل أجود.\nقال أبو سعيد: ضبأ يضبَأُ ضَبْأً، إذا لصِق بالأرض. والمَضْبَأ: الذى يُضْبَأ فيه، أى يختفى. قال الكميت:\nإذا علا سِطَةَ المضبَأَيْن (١)\nوسمِّى الرّجُل ضابئاً لذلك. ويقال ضَبأْت إليه، أى لجأت (٢). والضابئ:\nالرَّماد (٣)، سمِّى بذلك لأنّه يَضبأ، كأنّه يَستخفى.\nوإذا ليّنت الهمزةَ تغيَّر المعنى، ويكون من صفات النّار؛ يقال: ضَبَتْه النّار، إذا شَوته، تَضْبُوه ضَبْوا. والمَضْباة: خُبز المَلَّة (٤). واللّه أعلم بالصواب.",
+ "az": "[ضبا] (Dad, ba və həmzə) tək və səhih bir kök olub, gizlənməyə və ona bənzər sükut və bu kimi hallara yaxındır. Əbu Zeyd demişdir: أضْبأَ الرجُل على الشَّئ إضباءً (kişi bir şeyin üstündə izba etdi) – ona susub səssiz qaldıqda deyilir, o buna مُضْبِئٌ (mudbi') – sükut edəndir. O, həmçinin dəhşətli bir iş üzərində də izba etmişdir. وضبَأْت (dabətu) – gizləndim. Bu barədə deyilir ki, əslində bu, həmzəsiz olaraq أضْبَى (adbə) şəklindədir, lakin birincisi daha gözəldir. Əbu Səid demişdir: ضبأ يضبَأُ ضَبْأً (dabə, yadbaü, dabən) – yerə yapışdıqda deyilir. المَضْبَأ (madbə) – içində izba edilən, yəni gizlənilən yerdir. Kumeyt demişdir: إذا علا سِطَةَ المضبَأَيْن (١) (O, iki gizlənmə yerinin ortasına yüksəldikdə). Kişi məhz buna görə ضابئ (dabi) adlandırılmışdır. Həmçinin ضَبأْت إليه (dabətu ileyhi) – ona sığındım, deməkdir (٢). الضابئ (ad-dabi) – küldur və ya külmür (٣), buna görə belə adlandırılmışdır ki, o gizlənir, sanki gizli qalır. Əgər həmzəni yumşaltsan, məna dəyişər və odun sifətlərindən olar; deyilir: ضَبَتْه النّار (onu od dabət - bişirdi) – od onu qovurduqda, ضَبُوه ضَبْوا (dabuhu dabvan). المَضْباة (madbat) – kül köməsində bişən çörəkdir (٤). Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:29.015Z"
+}

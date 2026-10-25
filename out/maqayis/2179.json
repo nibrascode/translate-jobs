@@ -1,0 +1,17 @@
+{
+ "i": 2179,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شتم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "الشين والتاء والميم يدلُّ على كراهةٍ وبِغضة. من ذلك الأسد الشتيم، وهو الكريه الوَجه. وكذلك الحِمار الشتيم. واشتقاقُ الشتم منه، لأنّه كلامٌ كريه.",
+ "az": "«شتم» (şətm). Şin, ta və mim hərfləri xoşagəlməzliyə və nifrətə dəlalət edir. Bunlardandır üzü çirkin olan şirə şitim şir (الأسد الشتيم) deyilməsi. Həmçinin şitim eşşək (الحِمار الشتيم) də belədir. Söyüş söymək (الشتم) sözünün kökü də bundandır, çünki o, xoşagəlməz sözdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

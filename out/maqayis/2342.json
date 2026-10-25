@@ -1,0 +1,17 @@
+{
+ "i": 2342,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صحف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "الصاد والحاء والفاء أصلٌ صحيحٌ يدلُّ على انبساطٍ فى شئ وسَعَةٍ. يقال إِنّ الصَّحِيفَ: وجهُ الأرض. والصَّحِيفة: بشَرَةُ وجهِ الرجل.\nقال البَعِيث:\nوكلُّ كُلَيْبّىٍ صحيفةُ وجْهِهِ … أذَل لأقدِام الرِّجال مِنْ النَّعلِ\nومن الباب: الصَّحيفة، وهى التى يُكتَب فيها، والجمع صحائفُ، والصُّحفُ أيضاً، كأنَّه جمع صحيف. قال:\nلما رأَوْا غدوَةً جَبَاهَهُمُ … حنّتْ إِلينا الأرحام والصُّحُفُ\nوالصَّحْفَة: القَصعة المُسْلنطِحَة. وقال الشَّيبانىّ: الصِّحاف مَناقِعُ صغارٌ تُتَّخَذ للماء، الجمع صُحُف.",
+ "az": "[صحف] «الصاد» (sad), «Hə» (ha) və «Fə» (fə) bir şeydə genişliyə və yayılmağa dəlalət edən səhih bir kökdür. Deyilir ki, «الصَّحِيف» (əs-səhif) — yerin üzüdür. «الصَّحِيفة» (əs-səhifə) — kişinin üzünün dərisidir. Bəis demişdir: وكلُّ كُلَيْبّىٍ صحيفةُ وجْهِهِ … أذَل لأقدِام الرِّجال مِنْ النَّعلِ — (Küleylilərin hər birinin üzünün səhifəsi... kişilərin ayaqları altındakı sandaldan daha zəil [təvazökar/alçaq] olar). Bu qapıdandır: Üzərinə yazı yazılan «الصَّحِيفة» (əs-səhifə), cəmi «صحائفُ» (səhaif), həmçinin «الصُّحفُ» (suhuf) — sanki سَحيف (səhif) sözünün cəmidir. O dedi: لما رأَوْا غدوَةً جَبَاهَهُمُ … حنّتْ إِلينا الأرحام والصُّحُفُ — (Səhər vaxtı alınlarını gördükləri zaman... rəhmlər və səhifələr bizə həsrətlə bağlandı). «الصَّحْفَة» (əs-səhfə) — yastı böyük kasadır. Şeybani demişdir: «الصِّحاف» (əs-sihaf) — su üçün düzəldilən kiçik gölməçələrdir, cəmi «صُحُف» (suhuf)dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

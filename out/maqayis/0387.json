@@ -1,0 +1,17 @@
+{
+ "i": 387,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برزخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "ومما فيه حرف زائد (البَرْزَخ) الحائل بين الشيئين، كأنّ بينهما بَرَازاً * أى متَّسَعاً من الأرض، ثم صار كلُّ حائلٍ بَرْزَخاً. فالخاء زائدة لما قد ذكرنا.",
+ "az": "[برزخ] (Bə-ra-zə-xa) Artıq hərfi olanlardan biri də «البَرْزَخ» (əl-bərzəh) - iki şey arasındakı maneədir, sanki aralarında «بَرَاز» (bəraz - geniş yer) varmış kimi, sonra hər bir maneəyə «بَرْزَخ» (bərzəh) deyilmişdir. «خ» (xa) hərfi qeyd etdiyimiz kimi artıqdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

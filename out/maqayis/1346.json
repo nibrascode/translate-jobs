@@ -1,0 +1,17 @@
+{
+ "i": 1346,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دأظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 322,
+  "page_to": 322
+ },
+ "ar": "الدال والهمزة والظاء كلمةٌ واحدةٌ. يقولون الدّأْظ: المَلْ ء (٣) ويقال دأظتُ المَتاعَ فى الوِعاء. قال:\n* والدّأظُ حَتَّى لا يَكونُ غَرْضُ (٤) *\nالدأْظ: الامتلاء. والغَرْض: أن يبقى موضعٌ لا يبلُغه الماء (٥).",
+ "az": "[دأظ] الدال (dal), الهمزة (həmzə) və الظاء (za) hərfləri bir kəlmədir. Deyirlər ki, الدّأْظ (əd-də'z): doluluq (٣). Deyilir ki, دأظتُ المَتاعَ فى الوِعاء (də'əztu-l-məta'ə fi-l-vi'ai) - əşyanı qaba doldurdum. O dedi: * والدّأظُ حَتَّى لا يَكونُ غَرْضُ (Və doluluq o həddə çatdı ki, artıq boş yer qalmadı) (٤). الدأْظ (əd-də'z): dolmaq. الغَرْض (əl-ğard): suyun çatmadığı yerin qalmasıdır (٥).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

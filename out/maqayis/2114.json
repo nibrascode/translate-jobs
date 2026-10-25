@@ -1,0 +1,17 @@
+{
+ "i": 2114,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شمط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 214,
+  "page_to": 214
+ },
+ "ar": "[وأما] الشين والميم والطاء فقياس صحيحٌ يدلُّ على الخُلْطَة.\nمن ذلك الشَّمَط، وهو اختلاطُ الشَّيب بسَواد الشّباب.\nويقال لكل خليطين خلطتهما: قد شَمَطتُهما، وهما شَمِيط (١). قال: وبِهِ (٢) سُمّى الصّباح شَمِيطاً لاختلاطه بباقى ظُلمة اللَّيل. وقالوا: قال أبو عمرو: يقال أشمَطُوا حديثاً مرّة وشِعراً مَرّة.\nومن الباب: الشَّماَطيط: الفِرق؛ يقال جاء (٣) الخَيْل شَماطِيطَ. ويقولون:\nهذه القدر تَسَعُ شاةً بشَمْطِها وبِشِمْطِها (٤)، أى بما خُلِط معها من تَوابلها.",
+ "az": "[شمط] [وأما] الشين والميم والطاء فقياس صحيحٌ يدلُّ على الخُلْطَة (Şin, mim və taya gəldikdə isə, qarışığa dəlalət edən səhih bir qiyasdır). من ذلك الشَّمَط (Ondandır əş-şəmət), وهو اختلاطُ الشَّيب بسَواد الشّباب (və o, qocalığın cavanlığın qarasına qarışmasıdır). ويقال لكل خليطين خلطتهما (Və qarışdırdığın hər iki qarışıq üçün deyilir): قد شَمَطتُهما (mən onları şəmtət etmişəm), وهما شَمِيط (١) (və onlar şəmitdir). قال (Şair dedi): وبِهِ (٢) سُمّى الصّباح شَمِيطاً لاختلاطه بباقى ظُلمة اللَّيل (və gecənin qalan zülmətini qarışdırdığı üçün səhər məhz buna görə şəmit adlandırılmışdır). وقالوا (Və dedilər): قال أبو عمرو (Əbu Əmr dedi): يقال أشمَطُوا حديثاً مرّة وشِعراً مَرّة (Deyilir: onlar bəzən hədisi, bəzən də şeiri əşmət etdilər - yəni qarışdırdılar). ومن الباب (Fəsildəndir): الشَّماَطيط (əş-şəmatit): الفِرق (dəstələr, qruplar); يقال جاء (Və deyilir: gəldi) الخَيْل شَماطِيطَ (atlılar dəstə-dəstə gəldi). ويقولون (Və deyirlər): هذه القدر تَسَعُ شاةً بشَمْطِها وبِشِمْطِها (٤) (Bu qazan bir qoyunu şəmtində və şimtində - yəni özündə olanla - ehtiva edir), أى بما خُلِط معها من تَوابلها (yəni onunla birlikdə qarışdırılan ədviyyatları ilə birlikdə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:37.576Z"
+}

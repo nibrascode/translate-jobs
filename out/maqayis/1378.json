@@ -1,0 +1,17 @@
+{
+ "i": 1378,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دخل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 335,
+  "page_to": 335
+ },
+ "ar": "الدال والخاء واللام أصل مطّرد منقاس، وهو الوْلوج.\nيقال دخل يدخُل دخولاً. والدِّخْلَةُ: باطنُ أمرِ الرّجُل. تقول: أنا عالمٌ بدخْلَته. والدَّخَل: العَيب فى الحَسب، وكأنَّه قد دخل عليه شئ عابَه. والدَّخَل كالدَّغَل، وهو من الباب؛ لأنَّ الدّغَل هذا قياسُه أيضاً. ويقال إنَّ المدخُول:\nالمهزُول؛ وهو الصَّحيح، لأنّ لحمُه كأنّه قد دُخِلَ. ودَخِيلُك: الذى يُداخِلُك فى أُمورك. والدِّخال فى الوِرد: أنْ تشربَ الإبل ثم تردّ إلى الحوض ليشرب منها ما عساه لم يكن شَرِبَ. قال الهُذَلىّ (١):\n* وتُوفِى الدُّفوفَ بشُربٍ دِخَالِ (٢) *\nويقال إنّ كلَّ لحمةٍ مجتمعة دُخَّلةٌ، وبذلك سُمِّى هذا الطائر دُخلاً. ويقال دُخِل فلانٌ، وهو مدخولٌ، إذا كان فى عقله دَخَلٌ. وبنو فلانٍ فى بنى فلان دَخِيلٌ (٣)، إذا انتسبوا معهم. ونَخْلَة مدخولةٌ: عَفِنة الجوف. والدُّخْلَلُ: الذى يُداخِلُك فى أمورك. والدُّخَّل من ريش الطائر: ما بين الظُّهْرَانِ والبُطْنان، وهو أجْوَدُ الرِّيش. وداخِلَة الإِزار: طَرَفه الذى بلى الجسَد. والدُّخَّل من الكلأ:\nما دخَل منه فى أُصول الشجر. قال:\n* تَبَاشِير أَحْوَى دُخَّلٍ وجميمِ (٤) *",
+ "az": "[دخل] (Də-xa-lə). Dal, xə və lam hərfləri mütləq və qanunauyğun bir təməl olub, daxil olmaq (girmək) mənasını verir. Deyilir: دخل يدخُل دخولاً (daxil oldu, daxil olur, daxil olmaq). وَالدِّخْلَةُ (əddixlətü): kişinin işinin iç üzü, batini. Deyirsən: أنا عالمٌ بدخْلَته (Mən onun daxili aləmini, sirrini bilirəm). وَالدَّخَلُ (əd-dəxəl): əsldə və nəsildə olan eyb; elə bil ona bir şey daxil olub onu eybəcərləşdirmişdir. وَالدَّخَلُ (əd-dəxəl) دَغَل (dəğəl) kimidir, bu da həmin qəbildəndir; çünki dəğəlin də qaydası budur. Deyilir ki, المدخُول (əl-mədxul): arıq, zəifdir; və bu düzgündür, çünki onun əti elə bil ki, zədələnmişdir (daxil olunmuşdur). وَدَخِيلُكَ (dəxilükə): işlərində səninlə birlikdə olan, içinə girən kimsədir. وَالدِّخَالُ (əd-dəxal) suvarılmada: dəvələrin su içib, yenidən hovuzun yanına qayıtmasıdır ki, hələ su içməmiş ola biləcək başqaları da ondan içsin. Hüzəli (١) demişdir: * وتُوفِى الدُّفوفَ بشُربٍ دِخَالِ (٢) * (...və dəvə dəstələrini ardıcıl içməklə tamlayır). Deyilir ki, hər bir toplanmış ət parçası دُخَّلَةٌ (duxəllət) sayılır, bu quşun دُخْل (duxl) adlandırılması da bundandır. Deyilir ki, دُخِل فلانٌ، وهو مدخولٌ (filankəsə daxil olunub və o, mədxuldur/xəstədir), əgər onun əqli qüsurludursa. Bəni filan Bəni filanın daxilindədir دَخِيلٌ (dəxil), əgər onlarqohumluq iddiası ilə birlikdə nəsəb qatışdırıblarsa. وَنَخْلَةٌ مدخولةٌ (nəxlətun mədxulətün): içi çürümüş xurma ağacıdır. وَالدُّخْلَلُ (əd-duxləl): işlərində səninlə içəri girən kimsədir. وَالدُّخَّلُ (əd-duxxəl) quş lələklərindən: bel ilə qarın arasında olan hissədir ki, lələklərin ən yaxşısıdır. وَدَاخِلَةُ الإِزارِ (daxilətül-izar): bədənə toxunan tərəfidir. وَالدُّخَّلُ (əd-duxxəl) otlaqdan: ağacların köklərinə daxil olan hissəsidir. Şair demişdir: * تَبَاشِير أَحْوَى دُخَّلٍ وجميمِ (٤) * (...qaramtraq, kökdə olan və təzə bitmiş otların müjdəsi...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

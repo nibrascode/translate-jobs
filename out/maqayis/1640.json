@@ -1,0 +1,17 @@
+{
+ "i": 1640,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رأد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 470,
+  "page_to": 471
+ },
+ "ar": "الراء والهمزة والدال أُصَيلٌ يدلُّ على اضطرابٍ وحركة. يقال امرأة رَأْدةٌ * ورُؤْد، وهى السَّريعة الشَّباب لا تَبْقَى قَمِيئَة. وهو الذى ذكرناه فى الحركة. والرَّأْد والرُّؤْد: أصل اللَّحْى. ورأْد الضُّحى: ارتفاعه. يقال تَرَأَدَ (٢)\nالضُّحى وتراءَدَ. وترأّدت الحيّة: اهتزّت فى انسيابها. وكان الخليل يقول: الرِّئْد:\nمهموز: التِّرْب.",
+ "az": "«رأد» (Rəəd): (Ra, Həmzə, Dal) sarsıntıya və hərəkətə dəlalət edən kiçik bir əsldir. امْرَأَةٌ رَأْدَةٌ (raədə) və رُؤْدٌ (ruud) - cavanlığı təzə və tər olan, zəif və incəliyində qalan qadın deməkdir. Bu, hərəkət barəsində qeyd etdiyimiz mənadır. الرَّأْد (ər-rəd) və الرُّؤْد (ər-ruud): çənənin əsası. رَأْدُ الضُّحَى (raədüd-duha): günortanın (və ya quşluq vaxtının) yüksəlməsi. Deyilir: تَرَأَدَ الضُّحَى (quşluq vaxtı yüksəldi) və تَرَاءَدَ. وَتَرَأَّدَتِ الْحَيَّةُ (ilan süzülərək hərəkət etdi). Xəlil deyərdi ki, الرِّئْد (ər-riid) həmzəlidir və həmyaşıd mənasını verir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.916Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1791,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زوح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 35,
+  "page_to": 35
+ },
+ "ar": "الزاء والواو والحاء أصلٌ يدلُّ على تنَحٍّ وزوال. يقول زاح عن مكانه يزُوح، إذا تنحَّى، وأزحتُه أنا. وربَّما قالوا: أزاح يُزيِح.",
+ "az": "[زوح] الزاء والواو والحاء (z-w-h) uzaqlaşmağa və yox olmağa dəlalət edən tək bir əsasdır. زاح عن مكانه يزُوح (zaha ən məkanihi yazuuhu) - öz yerindən uzaqlaşdı, yəni kənara çəkildi, deməkdir. Mən də onu uzaqlaşdırdım: أزحتُه أنا (əzəhtuhu əna). Bəzən də أزاح يُزيِح (əzaha yuziihu) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:39.990Z"
+}

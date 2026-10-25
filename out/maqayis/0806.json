@@ -1,0 +1,17 @@
+{
+ "i": 806,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 8,
+  "page_to": 8
+ },
+ "ar": "الحاء والزّاء أصلٌ واحد، وهو الفَرْضُ فى الشّئِ بحديدةٍ أو غيرها، ثم يشتقُّ منه. تقول من ذلك: حزَزْت فى الخشبَة حَزًّا. وإذا أصاب مِرفَقُ البعير كِركِرتَه فأثَّر فيها، قيل به حازٌّ (٢). واَلحُزَّازُ: ما فى النَّفس من غيظٍ؛ فإنّه يحزُّ القلبَ وغيرَه حزًّا. قال الشمّاخ:\nفلما شَرَاها فاضَت العَينُ عَبْرَةً … وفى الصدر حُزّازٌ من اللّوْمِ حامِزُ (٣)\nوالحَزَازَة من ذلك. وكلُّ شئِ حَكَّ فى صدرك فقد حَزَّ. ومنه\nحديث عبد اللّه: «الإثْم حَزَّازُ القُلُوب (٤)». [و] من الباب الحَزيز، وهو مكانٌ غليظٌ مُنْقاد، والجمع أحِزَّة. قال:\n* بأَحِزَّةِ الثَّلَبُوتِ (٥) *\nومنه الحَزاز، وهو هِبْرِيَةٌ فى الرأس. ويقال جئت على حَزَّةٍ مُنكَرة، أى حالٍ وساعةِ. وما أُراه (٦) يقال فى حالٍ صالحة. قال:\n* وبأىِّ حَزِّ مُلاوَةٍ تَتَقَطَّعُ (٧) *",
+ "az": "[حز] Ha və za hərfləri tək bir əsasdır, o da dəmir və ya başqa bir şeylə bir şeyin üzərində cızıq açmaqdır, sonra ondan törəyir. Bundan deyirsən: \"Həzəztu fil-xəşəbəti həzzən\" (Taxtanın üzərində cızıq açdım). Dəvənin dirsəyi döşünə dəyib onda iz buraxdıqda, deyilir ki, onda (حازٌّ) var. Həzzaz (الحُزَّازُ): insanın içindəki qəzəb; çünki o, qəlbi və başqa şeyləri cızır. Şəmməx deyir: \"Onu satın aldıqda gözü yaşla doldu, sinəsində isə məzəmmətdən gələn acı bir həzzaz (qəzəb) var idi\". Həzazə (الحَزَازَة) də bundandır. Sinəndə cızan hər şey həzz etmişdir. Abdullahın hədisi də bundandır: \"Günah qəlblərin həzzazıdır (cızan şeyidir)\". Bu babdan Həziz (الحَزيز), yəni hamar və sərt yer, cəmi (أحِزَّة) şəklindədir. Şair deyir: \"Sələbutun əhizzəsində\". Həzaz (الحَزاز) da bundandır, başda olan kəpək. Deyilir ki, mən pis bir həzzə (حَزَّةٍ) gəldim, yəni pis bir halda və vaxtda. Düşünmürəm ki, bu, yaxşı bir hal üçün deyilsin. Şair deyir: \"Və hansı bir həzzi-mulavətdə (zaman kəsiyində) qırılacaq\".",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:52:48.509Z"
+}

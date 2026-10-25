@@ -1,0 +1,17 @@
+{
+ "i": 1589,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رنح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 443,
+  "page_to": 444
+ },
+ "ar": "الراء والنون والحاء أصلٌ يدلُّ على تمايلٍ. يقال ترنَّحَ، إذا\nتمايَل كما يترنَّحَ السكران. ويقال رُنَّحَ فلانٌ، إذا اعتراه وَهْن فى عظامِه، فهو مرنَّح قال الطرِمَّاح:\nوناصِرُكَ الأدنَى عليه ظَعينةٌ … تَميدُ إذا استعبَرْتَ مَيْدَ المرنَّحِ (١)",
+ "az": "[رنح] (rənəh) - راء، نون və ha hərfləri birtərəfə əyilməyə dəlalət edən bir əsldir. Deyilir: «ترنَّحَ» (tərrənəhə) - sərxoş adamın əyildiyi kimi əyildi. Deyilir: «رُنَّحَ فلانٌ» (runnəhə fəlunun), yəni filankəsin sümüklərində zəiflik baş qaldırdı, deməli o, «مرنَّح» (murənnəh) - zəifləmişdir. Tirimmah demişdir:\nوناصِرُكَ الأدنَى عليه ظَعينةٌ … تَميدُ إذا استعبَرْتَ مَيْدَ المرنَّحِ (١)\n(Sənin ən yaxın köməkçinin üzərində bir qadın kəcavəsi var... Göz yaşı axıtdığın zaman sərxoş/zəif kimi yellənir)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

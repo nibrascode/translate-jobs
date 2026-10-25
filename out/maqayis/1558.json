@@ -1,0 +1,17 @@
+{
+ "i": 1558,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 430,
+  "page_to": 430
+ },
+ "ar": "الراء والكاف والميم أصلٌ واحدٌ يدلُّ على [تجمُّع] الشئ.\nتقول اركَمت الشئ: ألقَيت بعضَه على بعض. وسحاب مُرْتكمٌ ورُكام. والرُّكمة:\nالطِّين المجمُوع. ومُرْتَكَم الطريق: سَنَنُه؛ لأنّ المارة تَرْتَكِمُ فيه.",
+ "az": "[ركم] (Rəkəm): Ra, kaf və mim hərfləri bir şeyin yığılmasına dəlalət edən tək bir əsasdır. Sən deyirsən: اركَمتُ الشئ (irkamtüş-şey-ə) — bir şeyi digərinin üzərinə atdım. Və سحاب مُرْتكمٌ ورُكام (səhabun murtakimun və rukam). Və الرُّكمة (ər-rukmə): yığılmış palçıq. Və مُرْتَكَم الطريق (murtakəmut-tariq): yolun düzənliyi, çünki keçənlər orada yığılırlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

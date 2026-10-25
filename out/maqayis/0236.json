@@ -1,0 +1,17 @@
+{
+ "i": 236,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "الباء والزاء والعين أصل واحد وهو الظَّرْف، يقال للظَّريف يَزيع، وتَبَزَّع الغُلامُ ظَرُف، ولا يكونُ ذلك إلا مِنْ صِفَة الأحداث. وربما قالوا تَبَزَّعَ الشّرُّ إذا تفاقَمَ، فإن كان صحيحاً فهو أصلٌ ثان.",
+ "az": "[بزع] (bəzə). باء (ba), زاء (zay) və عَيْن (‘eyn) hərfləri tək bir əsasdır ki, o da zəriflikdir. Zərif insana «yəziu» (يَزيع) deyilir, «təbəzzəəl-ğulamu» (تَبَزَّعَ الغُلامُ) — oğlan zərif oldu, mənasını verir. Bu isə yalnız gənclərin sifətlərindən olur. Bəzən də «təbəzzəəl-şərru» (تَبَزَّعَ الشّرُّ) — şər böyüdü, şidətləndi, deyirlər; əgər bu səhihdirsə, onda bu ikinci əsasdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:02.135Z"
+}

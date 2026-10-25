@@ -1,0 +1,17 @@
+{
+ "i": 361,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بيع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 327,
+  "page_to": 327
+ },
+ "ar": "الباء والياء والعين أصلٌ واحدٌ، وهو بَيْع الشَّئ، ورُبَّما سمِّىَ الشِّرَى بيعاً (١). والمعنى واحدٌ.\nقال رسول اللّه ﵌: «لا يَبِعْ أحدُكُمْ على بَيْع أخيهِ». قالوا: معناه لا يَشْتَرِ على شِرَى أَخِيهِ. ويقال بِعْتُ الشَّئ بَيعاً، فإِنْ عَرَضْتَه للبَيْع قلتَ أبَعْتُه. قال:\nفَرضِيتُ آلاءَ الكُمَيْتِ فَمَنْ يُبِعْ … فَرَساً فليسَ جَوادُنَا بِمُباعِ (٢)",
+ "az": "«بيع» (bey): باء، ya və eyn hərfləri tək bir əsas mənanı ifadə edir, o da bir şeyin satılmasıdır, bəzən alış da satı adlandırılır (١). Məna eynidir.\nPeyğəmbər ﵌ demişdir: «لَا يَبِعْ أَحَدُكُمْ عَلَى بَيْعِ أَخِيهِ» (Heç biriniz qardaşının satışı üzrə satış etməsin.) Alimlər demişlər ki, bunun mənası: «Qardaşının alış-verişi üzrə alış-veriş etməsin» deməkdir. Deyilir: «بِعْتُ الشَّىْءَ بَيْعاً» (Biytüş-şeyu bəyən — mən şeyi satdım), əgər onu satışa çıxarsan, «أَبَعْتُهُ» (əbətuhu) deyərsən. Şair demişdir:\nفَرَضِيتُ آلَاءَ الْكُمَيْتِ فَمَنْ يُبِعْ … فَرَساً فَلَيْسَ جَوادُنَا بِمُبَاعِ (٢)\n(Kumeytin nemətlərindən razı qaldım, kim at satarsa, bizim atımız satılacaq at deyil.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.171Z"
+}

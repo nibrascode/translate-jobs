@@ -1,0 +1,17 @@
+{
+ "i": 526,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 380,
+  "page_to": 380
+ },
+ "ar": "الثاء والفاء واللام أصلٌ واحد، وهو الشئ يستقرُّ تحتَ الشّئ، يكون ذلك من الكَدَر وغيرِه. يقال هو ثُفْل القِدْر وغيرِها، وهو ما رسا من الخُثَارة (١). ومن الباب الثِّفال الجِلْدة تُوضَع عليها الرّحَى. ويقال هو قطعةُ فَرْو تُوضَع إلى جنب الرَّحَى. وقال:\nيكون ثِفالُها شَرقىَّ نجدٍ … ولُهْوتُها قُضَاعَةَ أجمعينا (٢)\nوقال آخر (٣):\nفتعْرُكْكُمُ عَرْكَ الرَّحَى بِثِفالها … وتَلْقَحْ كِشافاً ثم تَحْمِلْ فتُتئِمِ\nفأمّا الثَّفَال فالبعيرُ البَطئ، واشتقاقُه صحيح، لأنّهُ كأنّه من البُطْء مستقرٌّ تحت حِمْلِه، لا يكادُ يَبْرَحُ.",
+ "az": "[ثفل] (Sə, fa və lam) tək bir əsasdır və o, bir şeyin altında qərarlaşan şeydir; bu, çöküntü və digər şeylərdən olur. Deyilir ki, o, qazanın və başqalarının ثُفْل (çöküntüsü, laxtası) dۇر, o da xütarədən [qatı şirədən] çökəndir (١). Bu qapıdandır (bu kateqoriyadandır): الثِّفال (təffal) dəyirman daşının üzərinə qoyulduğu dəridir. Deyilir ki, o, dəyirman daşının yanında qoyulan bir parça dəridir. (Şair) demişdir:\nيكون ثِفالُها شَرقىَّ نجدٍ … ولُهْوتُها قُضَاعَةَ أجمعينا (٢)\n(Mənanın tərcüməsi: Onun dəyirmanaltı dərisi Nəcdin şərqində, udlağı isə bütövlükdə Qüdaə qəbiləsindən olar.)\nBaşqası da demişdir (٣):\nفتعْرُكْكُمُ عَرْكَ الرَّحَى بِثِفالها … وتَلْقَحْ كِشافاً ثم تَحْمِلْ فتُتئِمِ\n(Mənanın tərcüməsi: Dəyirman daşı öz dəyirmanaltı dərisi ilə sizi üyütdüyü kimi sizi ovsunlasın...)\nAmma الثَّفَال (əttəfal) gənc, ağır hərəkətli dəvədir. Onun etimologiyası düzgündür, çünki o, yükünün altında qərarlaşmış, demək olar ki, yerindən tərpənməyən biri kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.492Z"
+}

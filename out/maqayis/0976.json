@@ -1,0 +1,17 @@
+{
+ "i": 976,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 122,
+  "page_to": 122
+ },
+ "ar": "الحاء والياء والحرف المعتل أصلان: أحدهما خِلاف المَوْت، والآخر الاستحياء الذى [هو] ضِدُّ الوقاحة.\nفأمّا الأوّل فالحياة والحَيَوان، وهو ضِدُّ الموت والمَوَتَان. ويسمَّى المطرُ حياً لأنّ به حياةَ الأرض. ويقال ناقةٌ مُحْى ومُحْيِيَةٌ: لا يكادُ يموت لها ولد.\nوتقول: أتيتُ الأرضَ فأحييْتُها، إذا وجَدْتَها حَيَّةَ النّباتِ غَضَّة.\nوالأصل الآخَر: قولهم استحييت منه استِحياءً. وقال أبو زيد: حَيِيتُ مِنه أحيا، إذا استحيَيْتَ. فأمَّا حَياء النّاقة، وهو فَرْجُها، فيمكن أن يكون من هذا، كأنَّه محمولٌ على أنَّه لو كان ممن يستحيى (١) لكان يستحيى من ظهوره وتكشفُّه.",
+ "az": "[حي] الحاء, Yə və uzanan hərf iki əsas kökə malikdir: biri ölümün əksi olan həyat, diğəri isə həyasızlığın əksi olan həyadır. Birinciyə gəldikdə, o, الحياة (əl-həyəh) və الحَيَوان (əl-həyəvən) olub, ölümün və cansızlığın əksidir. Yağışa حَيّ (həyy) deyilir, çünki yerin həyatı onunla kəsilməz. Deyilir ki, ناقةٌ مُحْى ومُحْيِيَةٌ (naqətün muhy və muhyiyəh) – elə dəvədir ki, balası demək olar ki, heç ölmür. Sən deyirsən: أتيتُ الأرضَ فأحييْتُها (ətیتül-ərdə fə-əhyiytuhə) – torpağa gəldim və gördüm ki, bitkisi canlı və təravətlidir. Digər əsas kök isə onların استحييت منه استِحياءً (istəhyiytü minhu istihyən) sözüdür. Əbu Zeyd demişdir: حَيِيتُ مِنه أحيا (həyiytü minhu əhyə) – həya etdiyin zaman belə deyilir. Dəvənin cinsiyyət orqanı olan حَياء (həyə) gəldikdə isə, ola bilər ki, bu da həmin kökdəndir, sanki o, belə bir mülahizəyə əsaslanır ki, əgər həya edən varlıqlardan olsaydı, onun üzə çıxmasından və açılıb görünməsindən həya edərdi (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.843Z"
+}

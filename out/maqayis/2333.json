@@ -1,0 +1,17 @@
+{
+ "i": 2333,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صيك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 327,
+  "page_to": 328
+ },
+ "ar": "الصاد والياء والكاف، يقال صاك يَصِيك، إذا لزِم ولضِق. قال الأعشى:\nومثلك مُعْجَبَة بالشَّبا … ب صاكَ العبيرُ بأجسادِها (٤)\nوقال الخليل: أراد صَئِك فليَّن الهمزة. ويقال صَئِك الدّمُ، إذا جَمَد.\n***\nواعلم أنّ الألِف فى هذا الباب مُبدَلةٌ؛ فالصّاب: شحرٌ مُرٌّ، محتملٌ أن يكون من الواو. قال:\nإنِّى أَرِقْتُ فبتُّ اللَّيْلَ مرتفقاً … كَأَنّ عَيْنِىَ فيها الصَّابُ مذبوحُ (٥)\nوالصَّادُ: قدور النُّحاس، والألف مُبدَلة. قال حسان:\nرأيتَ قُدُورَ الصَّادِ حولَ بُيُوتِنا (١)",
+ "az": "«صيك» (صاد، ياء və kaf). Deyilir ki, «صاك يَصِيك» – yapışdı və sıx oldu. Ə'şa demişdir: (ومثلك مُعْجَبَة بالشَّبا … ب صاكَ العبيرُ بأجسادِها — Sənin kimi gəncliyə heyran olan, ənbər bədənlərinə yapışmış elə qadınlar var ki...). Xəlil demişdir: O, «صَئِك» (iyləndi/yapışdı) demək istəmiş, lakin həmzəni yumşaltmışdır. Deyilir: «صَئِك الدّمُ» – qan laxtalandı (və ya qatılaşdı). Bil ki, bu fəsildəki əlif hərf əvəzidir; «الصّاب» – ac bir ağacdır, «واو» hərfindən olması mümkündür. (Şair) demişdir: (إنِّى أَرِقْتُ فبتُّ اللَّيْلَ مرتفقاً … كَأَنّ عَيْنِىَ فيها الصَّابُ مذبوحُ — Mən yuxusuz qaldım və gecəni dirənərək keçirdim, guya gözümdə kəsilmiş «صاب» bitkisi var idi). «الصَّادُ» – mis qazanlardır, əlif isə hərf əvəzidir. Həssan demişdir: (رأيتَ قُدُورَ الصَّادِ حولَ بُيُوتِنا — Evlərimizin ətrafında mis qazanlar gördün).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:32.086Z"
+}

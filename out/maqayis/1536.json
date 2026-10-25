@@ -1,0 +1,17 @@
+{
+ "i": 1536,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رفث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 421,
+  "page_to": 421
+ },
+ "ar": "الراء والفاء والثاء أصلٌ واحدٌ، وهو كلُّ كلام يُستَحْيا من إظهاره. وأصلُه الرَّفَثُ، وهو النِّكاح. قال اللّه جلّ ثناؤه: ﴿أُحِلَّ لَكُمْ لَيْلَةَ اَلصِّيامِ اَلرَّفَثُ إِلى نِسائِكُمْ﴾. والرّفَث: [الفُحْش] فى الكلام.\nيقال أَرْفَثَ وَرَفَثَ.",
+ "az": "[رفث] (ra, fa, sə). Ra, fa və sə tək bir kökdir, o da açıqlanmasından həya edilən hər sözdür. Onun əsli «الرَّفَثُ»-dür, o da cinsi əlaqədir. Uca Allah belə buyurmuşdur: mənaca tərcümə: «Oruc gecəsi qadınlarınıza yaxınlaşmaq (əlaqədə olmaq) sizə halal edildi» (əl-Bəqərə, 187). Və «الرّفث» — sözdə nalayiqlikdir. Deyilir: «أَرْفَثَ» və «رَفَثَ».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:31.378Z"
+}

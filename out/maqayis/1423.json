@@ -1,0 +1,17 @@
+{
+ "i": 1423,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذيف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 366,
+  "page_to": 366
+ },
+ "ar": "الذال والياء والفاء كلمةٌ واحدة لا قياس لها، وهى الذَّيِفان (١) وهو السمُّ القاتل.",
+ "az": "[ذيف] \n\nذال، ياء və fa hərfləri qisası olmayan tək bir kəlmədir, o da الذَّيِفان (1) (əz-zeyifan) – yəni öldürücü zəhərdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

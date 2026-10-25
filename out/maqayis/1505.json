@@ -1,0 +1,17 @@
+{
+ "i": 1505,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 405,
+  "page_to": 405
+ },
+ "ar": "الراء والعين والفاء أصلٌ واحد يدلُّ على سَبْق وتقدُّم.\nيقال فَرَسٌ راعفٌ: سابقٌ متقدِّم. ورَعَف فلانٌ بفرسِهِ الخيلَ، إذا تقدَّمها.\nقال الأعشى:\nبه تَرْعُفُ الألْفَ إِذْ أُرْسِلَتْ … غَداةَ الصّباح إذا النَّقْعُ ثارا (١)\nومن الباب رَعَفْت ورَعُفت (٢). والرُّعاف فيما يقال: الدّمُ بعينه. والأصل أنّ الرُّعاف ما يُصيب الإنسانَ من ذلك، على فُعال، كما يقال فى الأدواء. ويقولون للرِّماح رواعفُ، قِيل ذلك من أجل أنها تقدَّم للطَّعْنِ. ويقال بل سُمِّيت لِمَا يقطُر منها الدّمُ. والأصل فيه كلِّه واحدٌ (٣). وراعُوفَةُ البِئر: حجرٌ يتقدم من طَيِّها (٤) نادراً، يقوم عليه السَّاقى. وأَرْعَفَ فلانٌ فلاناً، إذا أعجَلَه. وجاء فى الرَّاعوفة «أنّه سُحِرَ وجُعِل سِحرُه فى جُفِّ طَلْعةٍ ودُفِنَ تحت راعُوفة البِئر (٥)». والرَّاعف:\nأنْف الجَبَل، ويجمع رواعِفَ. وطرَفُ الأرنبة راعفٌ. ويقال أرعَفَ فلانٌ قرْبتَه إرعافا، إذا ملأَها حتى تَرْعُف. قال:\n* يَرْغُفُ أعلاها مِنِ امتلائها (٦) *",
+ "az": "[رعف] (rə-ا-f). Ra, ayn və fa – irəli getməyə və öndə olmağa dəlalət edən tək bir əsasdır. Deyilir: فَرَسٌ رَاعِفٌ (farasun raifun) – qabaqda olan, irəliləyən at. رَعَفَ فُلَانٌ بِفَرَسِهِ الْخَيْلَ (raafa fulanun bi-farasihi əl-xayl) – fulan atı ilə atlıları qabaqladı. Əş-Şair əl-Əşə demişdir: بِهِ تَرْعُفُ الْأَلْفَ إِذْ أُرْسِلَتْ … غَدَاةَ الصَّبَاحِ إِذَا النَّقْعُ ثَارَا (١) (Səhər tezdən toz-torpaq qopanda buraxıldığı zaman minləri onunla qabaqlayır). Bu fəsildəndir: رَعَفْتُ وَرَعُفْتُ (raaftu va rauftu). Deyilənə görə الرُّلُعَاف (ar-ruaaf) – məhz qanın özüdür. Əsli odur ki, ruaf xəstəliklərdə deyildiyi kimi, fual çəkisində insana gələn qandır. Nizələrə رَوَاعِفُ (ravaifu) deyirlər, bunun zəb ilə sancmaq üçün irəlidə olduğuna görə deyildiyi bildirilmişdir. Başqaları isə onlardan qan damcıladığı üçün belə adlandırıldığını deyirlər. Hamısının əsli birdir (٣). الرَّاعُوفَة (ar-raufə) – quyunun hörgüsündən irəli çıxan və su çəkənin üzərində dayandığı daşdır. Və raufə haqqında gəlmişdir ki: «Ona sehr edilmiş, sehrini də xurma qınına qoyub quyunun raufəsinin altına basdırmışdılar (٥)». الرَّاعِف (ar-raif) – dağın burnudur, روَاعِفُ (ravaifu) kimi cəmlənir. Burun ucuna رَاعِفٌ (raifun) [deyilir]. Fulan tuluğunu dolub daşana qədər doldurduqda أَرْعَفَ فُلَانٌ قِرْبَتَهُ إِرْعَافاً (arafa fulanun qirbatəhu irafan) [deyilir]. [Şair] demişdir: يَرْغُفُ أَعْلَاهُ مِنِ امْتِلَائِهَا (٦)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

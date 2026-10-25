@@ -1,0 +1,17 @@
+{
+ "i": 942,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حمش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 104,
+  "page_to": 105
+ },
+ "ar": "الحاء والميم والشين أصلان: أحدهما التهاب الشئ وهَيْجه، والثانى الدَقّة.\nفالأول قولهم: أحمشتُ الرَّجُل: أغضبتُه. واستحمش الرجلُ، إذا اتَّقَدَ غضباً (٣). قال:\n* إنى إذا حَمَّشَني تحميشي (٤) *\nومن الباب حَمَشْت الشئ: جمعتُه.\nوالأصل الثانى قولهم للدقيق القوائمَ حَمْش، وقد حَمَشَتْ قوائمُه. ومن الباب قولهم: لِثَةٌ حَمْشةٌ: قليلة اللّحم.",
+ "az": "[حمش] الحاء والميم والشين أصلان: أحدهما التهاب الشئ وهَيْجه، والثانى الدَقّة («həmş» — ha, mim və şin hərfləri iki kökdür: biri şeyin alovlanması və oyanması, ikincisi isə incəlikdir). فالأول قولهم: أحمشتُ الرَّجُل: أغضبتُه (Birincisi onların bu sözüdür: kişini əhməştü — qəzəbləndirdim). واستحمش الرجلُ، إذا اتَّقَدَ غضباً (٣) (Kişi istəhməş etdi — qəzəbdən alovlandıqda). قال (Dedirdi): * إنى إذا حَمَّشَني تحميشي (٤) * (Həqiqətən, mənə həmməş etdikdə mənim təmhişim olar). ومن الباب حَمَشْت الشئ: جمعتُه (Və həmin babdandır: həməştüş-şeyə — şeyi topladım). والأصل الثانى قولهم للدقيق القوائمَ حَمْش، وقد حَمَشَتْ قوائمُه (İkinci kök isə onların incə ayaqlılara həmş demələridir və artıq onun ayaqları incəlmişdir). ومن الباب قولهم: لِثَةٌ حَمْشةٌ: قليلة اللّحم (Və bu babdandır onların sözü: əti az olan diş əti həmşətdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:22.229Z"
+}

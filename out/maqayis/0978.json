@@ -1,0 +1,17 @@
+{
+ "i": 978,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "الحاء والياء والدال أصلٌ واحد، وهو المَيْل والعُدول عن طريق الاستواء. يقال حادَ عن الشئ يَحِيدُ حَيْدَةً وحُيوداً. والحَيُودُ: الذى يَحِيد كثيراً، ومثله الحَيَدى على فَعَلى. قال الهذلى (١):\nأو أصْحَمَ حامٍ جَرامِيزَهُ … حَزَابِيةٍ حَيَدى بالدِّحالِ\nالحَيْد: النادر من الجَبَل، والجمع حُيُودٌ وأحياد. والحُيُود: حيود قَرْن الظَّبى، وهى العُقد فيه، وكلُّ ذلك راجعٌ إلى أصل واحد.",
+ "az": "[حيد] الحاء, Yə və Dal hərfləri tək bir əsas kökə malikdir ki, o da düz yoldan meyl etmək və uzaqlaşmaqdır. Deyilir: حادَ عن الشئ يَحِيدُ حَيْدَةً وحُيوداً (hədə ʻaniş-şey-i yəhídu həydətən və huyudən). الحَيُود (əl-həyud) – çox meyl edən və uzaqlaşandır, buna bənzər də fəəla çəkisində olan الحَيَدى (əl-həyədi) sözüdür. Hüzəli şair demişdir (١): «أو أصْحَمَ حامٍ جَرامِيزَهُ … حَزَابِيةٍ حَيَدى بالدِّحالِ» (Və ya bədən üzvlərini qoruyan, sərt, quyularda yan keçib qaçan qara rəngli...). الحَيْد (əl-həyd) – dağdan kənara çıxan hissədir, cəmi حُيُودٌ (huyud) və أحياد (əhyad) gəlir. الحُيُود (əl-huyud) – ceyran buynuzunun ucları və ya buynuzdakı düyünlərdir, bunların hamısı tək bir əsas kökə qayıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.843Z"
+}

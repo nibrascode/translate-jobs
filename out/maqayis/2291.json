@@ -1,0 +1,17 @@
+{
+ "i": 2291,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صمج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 309,
+  "page_to": 309
+ },
+ "ar": "الصاد والميم والجيم ليس بشئ، على أنَّهم يقولون:\nالصَّمَج: القناديل، الواحدة صَمَجة. وينشدون:\nوالنَّجم مثل الصَّمَج الرُّوميَّاتْ (٢)",
+ "az": "[صمج] (sad, mim və cim) — əhəmiyyətli bir şey deyil, lakin deyirlər ki: «الصَّمَج» (səməc) — qəndillərdir (şamdanlar), təki «صَمَجَة» (səməcə) olur. Onlar bu beyti oxuyurlar:\nوَالنَّجْمُ مِثْلُ الصَّمَجِ الرُّومِيَّاتْ (٢)\n(Ulduz rumluların səməcləri kimidir)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:31.917Z"
+}

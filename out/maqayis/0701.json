@@ -1,0 +1,17 @@
+{
+ "i": 701,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 486,
+  "page_to": 486
+ },
+ "ar": "الجيم والنون والفاء أصلٌ واحد وهو المَيْل والمَيَل. يقال جَنِفَ إذا عَدَل (١) وجَارَ. قال اللّه تعالى جَلَّ ثناؤه: ﴿فَمَنْ خافَ مِنْ مُوصٍ جَنَفاً﴾.\nورجلٌ أجْنَفُ إذا كان فى خَلْقِه مَيَلٌ. ويقال لا يكون ذلك إلاَّ فى الطُّول والانحناء.\nويقال تجانَفَ عن كذا، إذا مال. قال:\nتَجَانَفُ عَنْ جُلِّ اليَمَامَةِ نافَتِى … وما عَدَلَتْ عن أهْلِهَا لِسِوائِكا (٢)",
+ "az": "[جنف] \nCim, nun və fa hərfləri bir əslə qayıdır ki, o da meyil və əyrilikdir. جَنِفَ (cənifə) – haqq yoldan azdıqda və zülm etdikdə deyilir (١). Uca Allah izzətli tərifində buyurmuşdur: mənaca tərcümə: «Hər kəs vəsiyyət edənin haqsızlıq etməsindən... qorxarsa» (﴿فَمَنْ خافَ مِنْ مُوصٍ جَنَفاً﴾).\nBir kəsin xilqətində əyrilik olduqda أجْنَفُ (əcnəf) adlanır. Deyilir ki, bu, yalnız uzunluqda və əyilmədə olur.\nVə həmçinin تجانَفَ (təcanəfə) – filan şeydən yayındı və ya meyl etdi deməkdir. Şair demişdir:\nتَجَانَفُ عَنْ جُلِّ اليَمَامَةِ نافَتِى … وما عَدَلَتْ عن أهْلِهَا لِسِوائِكا (٢)\n(Dəvəm Yəmamənin böyük hissəsindən yayınıb kənara meyl edir… Lakin o, səndən başqası üçün öz əhlindən üz döndərmədi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

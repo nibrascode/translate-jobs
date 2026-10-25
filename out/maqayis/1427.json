@@ -1,0 +1,17 @@
+{
+ "i": 1427,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذأر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 367,
+  "page_to": 367
+ },
+ "ar": "الذال والهمزة والراء أصلٌ واحد يدلُّ على تحنُّب وتَقَالٍ (٢). يقولون ذَئِرْتُ الشّئَ، أى كرهتُه وانصرفتُ عنه. و\nفى الحديث:\n«أنّ رسول اللّه ﵌ [لمَّا (٣)] نَهَى عن ضَرْب النساء ذَئِر النِّساءُ على أَزْواجِهنّ». يعنى نَفَرْن ونَشَزْنَ واجترَأْنَ. وقال الشّاعر (٤):\nولقد أتانَا عن تميم أنَّهمُ … ذَئِرُوا لِقَتْلَى عامرٍ وتغَضَّبُوا\nويقال ناقةٌ مُذائِرٌ، وهى التى ترْأم بأنْفِها ولا يصدُق حُبَّها. ويقال بل هى التى تَنفِر عن الولد ساعَةَ تضعُه. وقوله: «ذئروا لقَتْلَى» يعنى نفروا وأنكروا (٥)، ويقال أنِفُوا.",
+ "az": "[ذأر] \n\nذال، həmzə və ra hərfi uzaqlaşmağa və nifrətə dəlalət edən tək bir əsasdır. Deyirlər: ذَئِرْتُ الشّئَ (mən şeydən ikrah etdim), yəni ona nifrət etdim və ondan üz döndərdim. \nVə hədisdə gəlmişdir:\n«أنّ رسول اللّه ﵌ [لمَّا (3)] نَهَى عن ضَرْب النساء ذَئِر النِّساءُ على أَزْواجِهنّ» (Allahın Elçisi qadınları döyməyi qadağan edəndə qadınlar ərlərinə qarşı üsyan etdilər). Yəni uzaqlaşdılar, sərtləşdilər və cəsarətləndilər. Şair demişdir (4):\nولقد أتانَا عن تميم أنَّهمُ … ذَئِرُوا لِقَتْلَى عامرٍ وتغَضَّبُوا\n(Bizə Təmimdən gəlib çatdı ki, onlar Amir qətlinə görə nifrət etdilər və qəzəbləndilər)\nVə deyilir ناقةٌ مُذائِرٌ (müzair dəvə) – bu, öz balasını qoxlayıb sevən, lakin sevgisi səmimi olmayan dəvədir. Həmçinin o dəvəyə deyilir ki, balasını doğan kimi ondan qaçır. Onun «ذئِرُوا لِقَتْلَى» sözü «qaçdılar və etiraz etdilər» mənasındadır, həmçinin «təkəbbür göstərdilər» də deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

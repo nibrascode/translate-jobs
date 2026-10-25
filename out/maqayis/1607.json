@@ -1,0 +1,17 @@
+{
+ "i": 1607,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رهك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 451,
+  "page_to": 452
+ },
+ "ar": "الراء والهاء والكاف أصل يدل على استرخاء. فالرَّهْوَك (٥):\nالسَّمين من الجِداء والظبِّاء (١). والتَّرَهْوُك: التحرُّك فى رَخاوة. ويقولون:\nرهَكْت الشَّئَ، إذا سَحَقْتَه.",
+ "az": "[رهك] «الراء» (ra), «هاء» (hə) və «كاف» (kaf) boşalmağa dəlalət edən əsasdır. الرَّهْوَك (ərrəhvək) — çəpişlərin və ceyranların kök olanıdır (1). Və التَّرَهْوُك (əttərhəvuk) — yumşaqlıqla hərəkət etmək. Və deyirlər: رهَكْت الشَّئَ (rəhəktüş-şeyə) — bir şeyi üyütdüyün zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:50.472Z"
+}

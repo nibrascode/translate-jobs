@@ -1,0 +1,17 @@
+{
+ "i": 2314,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 317,
+  "page_to": 317
+ },
+ "ar": "الصاد والواو والياء أصلٌ صحيحٌ يدلُّ على شدّةٍ وصَلابة ويُبْس. عن ابن دريد (١): «صَوَى الشئ، إِذا يَبِس، فهو صاو. ويقال صوِىَ يَصوَى». والصَّوَّانُ: حجارةٌ فيها صلابة. وربَّما استُعِير من هذا وحُمِل عليه فقيل صَوَّيْت لإبلى فَحْلاً، إذا اخترتَه لها. ولا يكون الاختيارُ وحدَه تصويَةً، لكن يُصنَع لذلك حتَّى يقوَى ويصلُب. قال:\nصَوَّى لهاذا كِدْنَةٍ جُلْذيَّا (٢)\nوهذا مشتقٌّ من التَّصوية فى الشتاء، وذلك أن يُيَبَّس أخلافُ الشَّاة ليكون أسمَنَ لها. يقال صوّاها أصحابُها.\nومن الباب الصُّوَى، وهى الأعلام من الحجارة. وقول من قال إنّها مُخْتَلَف الرِّياح فالأعلام لا تكون إلاّ كذا. قال:\nوهبَّتْ له ريحٌ بمختلَف الصُّوى (٣)",
+ "az": "«صوى» (Sad, vau və ya) - sərtliyə, bərkliyə və quruluğa dəlalət edən səhih bir kökdür. İbn Düriddən (١) rəvayət olunmuşdur: «صَوَى الشئ، إِذا يَبِس، فهو صاو» (Bir şey quruduqda صوى olur, o da صاو - qurumuşdur). Və «صوِىَ يَصوَى» deyilir. «الصَّوَّانُ» — içində sərtlik olan daşlar. Bəzən bundan məcaz götürülərək işlədilmiş və deyilmişdir: «صَوَّيْت لإبلى فَحْلاً» — yəni dəvələrim üçün bir erkək seçdim. Tək başına seçmək təsviyə sayılmaz, lakin güclənib bərkiyənə qədər onun üçün xüsusi tədbir görülər. Şair demişdir: Qüvvətli və möhkəm bir erkək seçdi (٢). Bu, qışda aparılan təsviyədən götürülmüşdür, bu da qoyunun döşlərinin (məmələrinin) daha kök olması üçün qurudulmasıdır. Deyirlər: «صوّاها أصحابُها» (sahibləri onu qurutdular). Bu fəsildəndir: «الصُّوَى» — daşlardan olan nişanələr, sərhədlər. Küləklərin əsdiyi yerlər olduğunu söylənlərin sözünə gəldikdə, nişanələr onsuz da belə olur. Şair demişdir: Külək onun üçün müxtəlif daşlıqlar (nişanələr) arasında əsdi (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

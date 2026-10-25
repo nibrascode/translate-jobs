@@ -1,0 +1,17 @@
+{
+ "i": 1734,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زغف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 12,
+  "page_to": 12
+ },
+ "ar": "الزاء والغين والفاء أُصَيلٌ صحيحٌ يدلُّ على سَعةٍ وفَضْل.\nمن ذلك الزَّغْفة: الدرع؛ والجمع الزَّغْف، وهى الواسعة. وربما قالوا زَغَفة وزَغَف. قال:\nأيمنَعُنا القومُ ماءَ الفُراتِ … وَفينا السُّيوفُ وفينا الزَّغَفْ (٢)\nويقال رجل مِزْغَفٌ: نَهِمٌ رَغِيبٌ. قال الأصمعىّ: زغَفَ فى حديثه: زاد.",
+ "az": "[زغف] (zəğf): Zay, ğın və fa hərfləri boluğa və fəzilətə dəlalət edən səhih kiçik bir kökdür.\nOndan: «الزَّغْفة» (zəğfə) – zirehdir; cəmi «الزَّغْف» (zəğf) olub geniş olanıdır. Bəzən «زَغَفة» və «زَغَف» deyirlər. O demişdir:\nأيمنَعُنا القومُ ماءَ الفُراتِ … وَفينا السُّيوفُ وفينا الزَّغَفْ (٢)\n(Qövm bizə Fərat suyunu qadağan edərmi? Halbuki qılınclar da bizdədir, zirehlər də!)\n«رجل مِزْغَفٌ» (mizğəf kişi) – acgöz, tamahkar demək olunur. Əsməi demişdir: «زغَفَ فى حديثه» – sözündə artırdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.125Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 640,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جزى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 455,
+  "page_to": 456
+ },
+ "ar": "الجيم والزاء والياء: قيام الشئ مَقامَ غيره ومكافأتُه إياه.\nيقال جَزَيت فلاناً أجزِيه جزاءَ، وجازيتُه مجازاةً. وهذا رجل جازِيكَ مِنْ رجل،\nأى حسبك. ومعناه أنه ينوبُ منابِ كلِّ أحدٍ، كما تقول كافِيكَ وناهيك.\nأى كأنه ينهاك أن يُطْلَبَ معه غيرُه.\nوتقول: جَزَى عنِّى هذا الأمرُ يَجزِى، كما تقول قَضَى يقضى. وتجازَيْتُ دَيْنى على فلانٍ أى تقاضَيْته. وأهلُ المدينة يسمُّون المتقاضِى المتجازِى. قال اللّه جل ثناؤُه: ﴿يَوْماً لا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئاً﴾. أى لا تقضِى",
+ "az": "[جزى] Cim, zay və ya: bir şeyin başqasının yerini tutması və ona qarşılıq verməsidir. Deyilir ki, جَزَيت فلاناً أجزِيه جزاءَ (filankəsə qarşılıq verdim) və جازيتُه مجازاةً (ona əvəzini ödədim). Bu adam sənin üçün kifayətdir (هذا رجل جازِيكَ مِنْ رجل) dedikdə, yəni o sənə bəs edər. Bunun mənası odur ki, o, hər kəsin yerini tuta bilər, necə ki, sən kəfikə (kifayət edən) və nahikə (sənə bəs edən) deyirsən. Yəni, sanki o, səni başqasını axtarmaqdan çəkindirir. Deyirsən ki, جَزَى عنِّى هذا الأمرُ يَجزِى (bu iş mənim əvəzimə yerinə yetdi), necə ki, qada (qəza etdi) deyirsən. Və تجازَيْتُ دَيْنى على فلانٍ (borcumu filankəsdən tələb etdim), yəni onu istədim. Mədinə əhli borc tələb edənə mütəcazi (المتجازِى) deyirlər. Allah-taala buyurur: ﴿يَوْماً لا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئاً﴾ (mənaca tərcümə: O gündə heç bir kəs digərinin əvəzinə heç nə edə bilməz). Yəni, heç nəyi yerinə yetirə bilməz.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.555Z"
+}

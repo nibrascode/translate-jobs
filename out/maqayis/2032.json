@@ -1,0 +1,17 @@
+{
+ "i": 2032,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سرف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 153,
+  "page_to": 154
+ },
+ "ar": "السين والراء والفاء * أصلٌ واحدٌ يدلُّ على تعدِّى الحدّ والإغفالِ أيضاً للشئ. تقول: فى الأمر سرَفٌ، أى مجاوزَةُ القدر. وجاء\nفى الحديث: «الثالثة فى الوضوء شَرف، والرَّابعة سَرف». وأمّا الإغفال فقول القائل: «مررتُ بكم فَسرِفتكم»، أى أغفلتكم. وقال جرير:\nأعطَوْا هُنيدةَ يحدُوها ثمانيةٌ … ما فى عطائِهم مَنٌّ ولا سرَفُ (٢)\nويقولون إنّ السّرَف: الجهل. والسَّرِف: الجاهل. ويحتجُّون بقول طرفة:\nإنّ امرأ سرِف الفؤادِ يَرَى … عسلاً بماء سحابةٍ شَتْمِى (٣)\nوهذا يرجع إلى بعض ما تقدَّم. والقياس واحد. ويقولون إنّ السَّرف أيضاً الضَّرَاوة. و\nفى الحديث: «إنّ للحم سَرَفاً كسَرف الخَمْر». أى ضَرَاوة.\nوليس هذا بالبعيد من الكلمة الأولى.\nومما شذّ عن الباب: السُّرْفة: دويْبَّة تأكل الخشَب. ويقال سَرَفت السُّرفةُ الشّجرةَ سَرْفاً، إذا أكلَتْ ورقها، والشجرةُ مسروفة. يقال إنّها تبنى لنفسها بيتاً\nحسناً. ويقولون فى المثل: «أصنَعُ من سُرْفة (١)».",
+ "az": "[سرف] السين والراء والفاء (sin, ra və fa) — hddi aşmağa və həmçinin bir şeyi diqqətsizliklə unutmağa dəlalət edən tək bir əsasdır. Deyirsən: «فى الأمر سرَفٌ» (işdə israf vardır), yəni ölçünü aşmaq. Hədisdə gəlmişdir: «الثالثة فى الوضوء شَرف، والرَّابعة سَرف» (Dəstəmazda üçüncüsü artırmaqdır, dördüncüsü isə israfdır). Diqqətsizliyə gəldikdə, bu, danışanın «مررتُ بكم فَسرِفتكم» (yanınızdan keçdim və sizi diqqətsizliklə unutdum) sözüdür, yəni sizi nəzərə almadım. Cərir demişdir: أعطَوْا هُنيدةَ يحدُوها ثمانيةٌ … ما فى عطائِهم مَنٌّ ولا سرَفُ (٢) (Onlar Səkkiz nəfərin sürdüyü Hüneydəyə [dəvəyə] verdi... Onların bəxşişində nə minnət, nə də israf vardı). Deyirlər ki, «السّرَف» (israf) — cahillikdir. «السَّرِف» — cahildir. Onlar Tərfənin bu sözü ilə dəlil gətirirlər: إنّ امرأ سرِف الفؤادِ يَرَى … عسلاً بماء سحابةٍ شَتْمِى (٣) (Həqiqətən, qəlbi cahil olan bir insan... bulud suyu ilə qarışmış balı mənim söyüşüm hesab edir). Bu, əvvəlkilərin bəzisünə qayıdır. Ölçü eynidir. Deyirlər ki, «السَّرف» həmçinin hərislikdir. Hədisdə gəlmişdir: «إنّ للحم سَرَفاً كسَرف الخَمْر» (Həqiqətən, ətin də şərabın hərisliyi kimi hərisliyi vardır), yəni hərislik. Bu, birinci sözdən uzaq deyil. Babdan istisna olanlardandır: «السُّرْفة» — taxta yeyən kiçik bir qurd. Deyilir: «سَرَفت السُّرفةُ الشّجرةَ سَرْفاً» (qurd ağacın yarpaqlarını yedi), yəni yarpaqlarını yedi, ağac isə «مسروفة» (yarpaqları yeyilmiş) oldu. Deyilir ki, o, özü üçün gözəl bir ev tikir. Məsəldə deyirlər: «أصنَعُ من سُرْفة» (١) (Qurddan daha mahirdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:38.718Z"
+}

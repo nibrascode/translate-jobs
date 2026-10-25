@@ -1,0 +1,17 @@
+{
+ "i": 212,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 216,
+  "page_to": 216
+ },
+ "ar": "الباء والذال والراء أصلٌ واحد، وهو نَثْر الشئِ وتفريقُه يقال بذرْتُ البَذْرَ أبْذُرُهُ بَذْراً، وبذَّرت المالَ أُبَذِّرُه تبذيراً. قال اللّه تعالى ﴿وَلا تُبَذِّرْ تَبْذِيراً. * إِنَّ اَلْمُبَذِّرِينَ كانُوا إِخْوانَ اَلشَّياطِينِ﴾. والبُذُر القومُ لا يكتمُون حديثاً ولا يحفَظُون ألسِنَتهم.\nقال علىٌّ ﵇: «أُولئك مَصابيحُ الدُّجَى، ليسوا بالمَسَاييح ولا المَذَايِيع البُذُر». فالمذاييع الذين يُذِيعُون، والبُذُر الذين ذكرناهم (١). وبَذَّرٌ مكانٌ، ولعلّه أن يكون مشتقًّا من الأصل الذى تقدَّم قال الشّاعر (٢):\nسَقَى اللّهُ أمواهاً عَرَفْتُ مَكانَها … جُرَاباً ومَلكوماً وبَذَّرَ والغَمْرَا (٣)",
+ "az": "[بذر] الباء والذال والراء (ba, zal və ra) bir əsl olub, bir şeyi səpmək və yaymaq deməkdir. «بذرْتُ البَذْرَ أبْذُرُهُ بَذْراً» (toxumu səpdim, səpirəm, səpmək) və «بذَّرت المالَ أُبَذِّرُه تبذيراً» (mali səpələdim, israf etdim, israf etmək) deyilir. Uca Allah buyurmuşdur: مənaca tərcümə: «Və malını səpələyib israf etmə! Həqiqətən, israfçılar şeytanların qardaşlarıdır.» (وَلا تُبَذِّرْ تَبْذِيراً. * إِنَّ اَلْمُبَذِّرِينَ كانُوا إِخْوانَ اَلشَّياطِينِ). «البُذُر» (əl-büzür) — söhbət gizlətməyən və dillərini qorumayan tayfadır.\nƏli ﵇ demişdir: «Onlar qaranlığın çıraqlarıdır, nə söz gəzdirənlərdir, nə də söz yayan və gizlətməyənlər (البُذُر).» «المذاييع» (əl-məzayiə) yayanlar, «البُذُر» (əl-büzür) isə bizim zikr etdiyimiz kəslərdir. «بذَّرٌ» (Bəzzər) — bir yerdir və bəlkə də yuxarıdakı əsldən törəmişdir. Şair demişdir (٢):\nسَقَى اللّهُ أمواهاً عَرَفْتُ مَكانَها … جُرَاباً ومَلكوماً وبذَّرَ والغَمْرَا (٣)\n*(Allah sulardan məkanını bildiklərimi suvarsın... Curab, Məlkum, Bəzzər və Ğəmr yerlərini)*",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:28:19.571Z"
+}

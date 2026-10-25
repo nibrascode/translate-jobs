@@ -1,0 +1,17 @@
+{
+ "i": 1958,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 117,
+  "page_to": 118
+ },
+ "ar": "السين والواو والكاف أصلٌ واحد يدلُّ على حركةٍ\nواضطراب. يقال تَسَاوَقَت الإبل: اضطربَتْ أعناقُها من الهُزال وسوء الحال.\nويقال أيضاً: جاءت الإِبل ما تَسَاوَكُ هُزالاً، أى ما تحرِّك رءوسَها. ومن هذا اشتق اسم السِّواك، وهو العُود نفسُه. والسِّواك استعماله أيضا. قال ابن دريد:\nسُكْتُ الشئَ سَوْكاً، إذا دَلكتَه. ومنه اشتقاق السِّوَاك، يقال سَاكَ فاهُ، فإذا قلت اسْتَاكَ لم تُذكر الفمُ (١).",
+ "az": "[سوك] Sin, vaf və kaf hərfləri hərəkətə və tərəddüdə/sızıldamaya dəlalət edən tək bir əslir. Deyilir: «تَسَاوَقَت الإبل» (dəvələrin boyunları arıqlıqdan və pis vəziyyətdən titrədi/əyildi). Həmçinin deyilir: «جاءت الإِبل ما تَسَاوَكُ هُزالاً» (dəvələr arıqlıqdan başlarını tərpətməyəcək vəziyyətdə gəldilər), yəni başlarını tərpətmirlər. «السِّواك» (müasir mənada misvak) adının kökü də buradan götürülmüşdür, o da ağacın özüdür. «السِّواك» həm də onun işlədilməsidir. İbn Dürid demişdir:\n«سُكْتُ الشئَ سَوْكاً» (mən o şeyi sürtdüm), əgər onu ovxaladınsa. «السِّوَاك» sözünün əsli də bundan götürülmüşdür; deyilir: «سَاكَ فاهُ» (ağzını misvakladı), və əgər «اسْتَاكَ» (misvakladı) desən, artıq «ağız» sözü zikr olunmur (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

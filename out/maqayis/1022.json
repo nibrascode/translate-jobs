@@ -1,0 +1,17 @@
+{
+ "i": 1022,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 149,
+  "page_to": 150
+ },
+ "ar": "الخاء والراء أصلٌ واحدٌ، وهو اضطرابٌ وسُقوطٌ مع صوتٍ.\nفالخَريرُ: صوتُ الماء. وعينٌ خَرّارة. وقد خَرَّتْ تُخِرّ. ويقال للرّجُل إذا اضطرَبَ بطنُه قد تخَرْخَر. وخَرَّ، إذا سقَطَ. قال أبو خراش، يصفُ سيفا:\nبِهِ أدَعُ الكَمِىَّ على يدَيْهِ … يُخِرُّ تخالُه نَسْراً قَشِيباَ (٢)\nقشيبٌ: قد خَلِط له السّمُّ بِطُعْم؛ يقال قَشَب له، إذا خَلَطَ له السّمّ.\nوإنَّما يُفْعَل ذلك ليُصادَ به، ومثله لطفيل:\nكساهَا رَطيبَ الرِّيشٍ مِنْ كَلِّ ناهضٍ … إلى وَكْرِه وكلِّ جَوْنٍ مُقَشَّبِ (١)\nالمَقَشَّب: نَسْرٌ قد جُعِل له القِشْبُ فى الجِيَف ليُصادَ. ناهِضٌ: حديثُ السّنّ. والنَّسر إذا كَبِرَ اسوَدّ. وتقول: خرّ الماء الأرضَ: شَقّها. والأخِرَّةُ، واحدها، خَرير، وهى أماكنُ مطمئنَّةٌ بين الرَّبْوَين تنقاد. وقال الأحمر:\nسمِعت [بعض] العرب ينشد بيتَ لبيدٍ:\n* بأخِرَّة الثَّلَبُوتِ (٢) *\nوالخُرُّ من الرَّحى: الموضع الذى تُلقَى فيه الحنطة. وهو قياس الباب؛ لأنَّ الحبَّ يَخِرُّ فيه. وخُرُّ الأذُن: ثَقْبُها، مشبَّهٌ بذلك.",
+ "az": "«خر» (xa-ra): Xa və ra tək bir əslidir, o da səs ilə birlikdə olan titrəmə və düşməkdir.\n\nالخَريرُ (əl-xərir) — suyun səsidir. عينٌ خَرّارة (eynün xarrarə) — şırıltılı bulaq. Və خَرَّتْ تُخِرّ (xarrət tuxirr). Kişi qarnı titrədikdə تخَرْخَر (təxarxərə) deyilər. Və خَرَّ (xarrə) — düşdü deməkdir. Əbu Xiraş qılıncı təsvir edərək demişdir:\nبِهِ أدَعُ الكَمِىَّ على يدَيْهِ … يُخِرُّ تخالُه نَسْراً قَشِيباَ (٢)\n(Onunla igidi əlləri üstə buraxıram, elə bir şəkildə yıxır ki, onu təzə bir qartal zənn edərsən.)\n\nقشيبٌ (qəsib): zəhər yeməklə qarışdırılmışdır; deyilir قَشَب له (qəşəbə ləhu), yəni ona zəhər qarışdırdı.\n\nBu, yalnız onunla ovlamaq üçün edilir. Bunun bənzəri Tufeylin sözüdür:\nكساهَا رَطيبَ الرِّيشٍ مِنْ كَلِّ ناهضٍ … إلى وَكْرِه وكلِّ جَوْنٍ مُقَشَّبِ (١)\n(Hər bir yenicə qanadlanan balanın təzə lələkləri ilə onu bürüdü, yuvasına qədər və hər qara zəhərlənmiş quşun.)\n\nالمَقَشَّب (əl-məqəşşəb): leşlərin içərisinə ovlanması üçün zəhər qoyulmuş qartaldır. ناهِضٌ (nahi): yaşı az, yenicə böyüyən. Qartal qocaldıqda qaralır. Deyirsən: خرّ الماء الأرضَ (xarras-maul-ardə) — suyu yerə axıtdı, yardı. والأخِرَّةُ (əl-axirrə), təkliyi خَرير (xərir) olub, iki təpə arasındakı maili, rahat yerlərdir. Əhmər demişdir:\nبأخِرَّة الثَّلَبُوتِ (٢)\n(Sələbut dağının axirrəsində.)\n\nالخُرُّ (əl-xurr) dəyirmandan — buğdanın atıldığı yerdir. Bu, bu fəslin qiyasındadır; çünki dən ora axıb tökülür. وخُرُّ الأذُن (xurrul-uzun) — qulağın deşiyi, buna bənzədilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:06:36.723Z"
+}

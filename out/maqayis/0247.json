@@ -1,0 +1,17 @@
+{
+ "i": 247,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بسم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 249,
+  "page_to": 249
+ },
+ "ar": "الباء والسين والميم أصلٌ واحد، وهو إبداء مُقَدَّم الفَمِ لمسَرّة؛ وهو دون الضَّحِك. يقال بَسَم يَبْسِم وتَبَسَّم وابْتَسَم.",
+ "az": "[بسم] (bəsm) — با (ba), سين (sin) və ميم (mim) tək bir əsas mənaya malikdir, o da sevincdən ağzın ön hissəsini açmaqdır; bu, gülüşdən daha zəifdir. «بَسَمَ يَبْسِمُ وَتَبَسَّمَ وَابْتَسَمَ» (təbəssüm etdi, gülümmsədi) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.234Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2245,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 279,
+  "page_to": 279
+ },
+ "ar": "الصاد والهاء كلمة تقال عند الإسكات، وهى صه (٣)، ولا قياسَ لها.",
+ "az": "[صه] الصاد والهاء كلمة تقال عند الإسكات، وهى صه (٣)، ولا قياسَ لها (الصاد və هاء susdurmaq üçün deyilən bir kəlmədir, o da «صه»-dir və onun qiyas [kök qaydası] yoxdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:59:41.188Z"
+}

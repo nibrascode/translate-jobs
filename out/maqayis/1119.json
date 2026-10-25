@@ -1,0 +1,17 @@
+{
+ "i": 1119,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 204,
+  "page_to": 204
+ },
+ "ar": "الخاء واللام والميم أصلٌ واحد يدل على الإلْفِ والمُلازَمة.\nفالخِلْم: كِناس الظّبى، ثمّ اشتقَّ منه الخِلْم، وهو الخِدْن. والأصل واحد.",
+ "az": "[خلم] الخاء واللام والميم أصلٌ واحد يدل على الإلْفِ والمُلازَمة (Hərf-i xa, lam və mim ünsiyyətə və davamlı olmağa dəlalət edən tək bir əsasdır).\nVə «الخِلْم» — ceyranın yuvasıdır, sonra bundan «الخِلْم» sözü törəmişdir ki, o da yaxın dost/sirdaş deməkdir. Əsas birdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:24.017Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1714,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 3,
+  "page_to": 3
+ },
+ "ar": "الزاء والغين ليس بشئ. ويقولون: الزغزغة: السُّخْرِيَة.",
+ "az": "[زغ] الزاء والغين — heç bir əsası yoxdur. Və deyirlər ki: الزغزغة (zəğzəğə) — istehza, məsxərəyə qoymaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:28.608Z"
+}

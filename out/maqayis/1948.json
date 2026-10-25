@@ -1,0 +1,17 @@
+{
+ "i": 1948,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوء",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 113,
+  "page_to": 113
+ },
+ "ar": "فأمّا السين والواو والهمزة فليست من ذلك، إنما هى من باب القُبح. تقول رجلٌ أسوَأُ، أى قبيحٌ، وامرأةٌ سَوآء، أى قبيحة.\nقال رسول اللّه ﵌: «سوْآءُ (٣) وَلودٌ خيرٌ مِنْ حسناءَ عقيم». ولذلك سمّيت السَّيِّئة سيّئة. وسمِّيت النار سُوأى، لقُبْح منظرها. قال اللّه تعالى: ﴿ثُمَّ كانَ عاقِبَةَ اَلَّذِينَ أَساؤُا اَلسُّواى﴾. وقال أبو زُبَيْد:\nلم يَهَبْ حُرْمةَ النَّدِيم وحُقَّتْ … يا لَقومِى للسَّوأة السَّوآءِ (٤)",
+ "az": "[سوء] Fəqət sin, vav və həmzə (sin, vav və həmzə) isə bundan deyildir, o, yalnız çirkinlik qbildəndir. Deyirsən: رجل أسوَأُ (rəcülün əsvəu), yəni çirkin kişi, və امرأة سَوآء (imraətün səvəu), yəni çirkin qadın.\nAllahın Elçisi ﵌ demişdir: «سوْآءُ (٣) وَلودٌ خيرٌ مِنْ حسناءَ عقيم» (Uşaq doğan çirkin qadın sonsuz gözəl qadından daha xeyirlidir). Buna görə də günah əs-səyyiə (السَّيِّئة) adlandırılmışdır. Və od (cəhənnəm) görünüşünün çirkinliyinə görə sūəy (سُوأى) adlandırılmışdır. Uca Allah buyurmuşdur: mənaca tərcümə: «Sonra pislik edənlərin aqibəti ən pis (sūəy) oldu» (﴿ثُمَّ كانَ عاقِبَةَ اَلَّذِينَ أَساؤُا اَلسُّواى﴾). Əbu Zübeyr demişdir:\nلم يَهَبْ حُرْمةَ النَّدِيم وحُقَّتْ … يا لَقومِى للسَّوأة السَّوآءِ (٤)\n(Həmdəmin hörmətini qorumadı və haqq oldu... Ey qovmim, çirkin pislik üçün)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 462,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 355,
+  "page_to": 356
+ },
+ "ar": "التاء والنون والفاء كلمة واحدة، التَّنوفة المَفَازة، وكذلك التَّنُوفيَّة. قال ابنُ أحمر:\nكم دُونَ لَيْلَى مِنْ تَنُوفيّةٍ … لَمَّاعة تُنْذِر فيها النُّذُرْ (٤)\nوروى ابن قتيبة «تَنُوفَى» وقال: هى ثنيّةٌ مشرِفة. قال: وناسٌ يقولون يَنُوفَى. وأنشد:\nكأنَّ بَنِى نَبْهانَ أَوْدَتْ بجَارِهمْ … عُقابُ تَنُوفَى لا عُقابُ القَواعلِ (١)\nوالقواعل: ثَنَايَا صِغارٌ. يقول: كأنَّ جارَهُمْ طارت به * هذه العُقابُ.\nومثله قول المسيّب:\nأنتَ الوفىُّ فما تُذَمُّ وبعضُهم … تُوفِى بذِمّتِهِ عُقابُ مَلَاعِ (٢)\nقال: مَلَاعِ، أخرَجَه مُخْرَجَ حَذَامِ. يقال امتَلَعَه اختَلَسَه.",
+ "az": "[تنف] (tə-nə-f) - Tə, nun və fa tək bir kəlmədir, «ət-tənufə» (التَّنوفة) — səhra, çöl deməkdir, eləcə də «ət-tənufiyyə» (التَّنُوفيَّة). İbn Əhmər demişdir: Leyladan əvvəl nə qədər səhra vardır... parıldayan ki, orada xəbərdarlıq edənlər xəbərdarlıq edər (4). İbn Qüteybə «tənufa» (تَنُوفَى) rəvayət etmiş və demişdir: O, hündür bir dağ keçididir. O demişdir: Bəzi insanlar «yənufa» deyirlər. Və bu beyt ilə dəlil gətirmişdir: Elə bil Nəbhan oğulları qonşularını itirdilər... Qəvail qartalı deyil, Tənufa qartalı (1). «Əl-qəvail»: kiçik dağ keçidləridir. Deyir ki: Elə bil onların qonşusunu bu qartal götürüb uçurtdu. Məsiybin bu sözü də buna bənzərdir: Sən vəfalısan, heç kəs səni qınamaz, onların bəzilərinin əhdinə isə Məlac qartalı vəfa edər (2)! O demişdir: Məlac, Xəzam sözünün qəlibində çıxarılmışdır. «امتَلَعَه» (imtələahu) — onu oğurladı, qapdı, deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.997Z"
+}

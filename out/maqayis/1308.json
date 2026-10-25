@@ -1,0 +1,17 @@
+{
+ "i": 1308,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 304,
+  "page_to": 304
+ },
+ "ar": "الدال والنون والفاء أصلٌ يدلُّ على مشارَفَةِ ذَهاب الشئ.\nيقال دَنِفَ الأمرُ، إذا أشرَفَ على الذَّهاب والفَراغ منه. والدَّنَف: المرضُ الملازم؛ والمريض دَنَفٌ، كأنّه قد قارب الذَّهاب؛ لا يثنَّى ولا يجمع. فإنْ قلتَ دَنِفٌ ثنّيتَ وجَمعت. فأمّا قولُ العجّاج:\n* والشّمس قد كادَت تكونُ دَنَفَا (٢) *\nفهو من الباب؛ لأنّه يريد اصفرارَهَا ودنُوِّها للمَغيب. وقد يقال منه أَدْنَفَتْ.",
+ "az": "[دنف] \nالدال والنون والفاء (د-ن-ف) أصلٌ يدلُّ على مشارَفَةِ ذَهاب الشئ (bir şeyin yox olub getməsinə yaxınlaşmasına dəlalət edən bir əsasdır).\nيقال دَنِفَ الأمرُ (Deyilir ki, iş zəiflədi/bitmək üzrə oldu)، إذا أشرَفَ على الذَّهاب والفَراغ منه (aradan getməyə və qurtarmağa yaxınlaşdıqda). والدَّنَف (dənəf): المرضُ الملازم (uzun sürən xəstəlik)؛ والمريض دَنَفٌ (və xəstə dənəfdir - elə bil ölümə yaxınlaşıb)، كأنّه قد قارب الذَّهاب (elə bil yox olmağa yaxınlaşıb)؛ لا يثنَّى ولا يجمع (ikincisi və cəmi düzəldilmir - bu ləfzin tək forması işlənir). فإنْ قلتَ دَنِفٌ ثنّيتَ وجَمعت (Lakin əgər dənif desən, onda ikilik və cəm formalarını düzəldə bilərsən). فأمّا قولُ العجّاج (Lakin Əccacın bu sözünə gəldikdə):\n* والشّمس قد كادَت تكونُ دَنَفَا (٢) *\nفهو من الباب (bu da həmin fəsildəndir)؛ لأنّه يريد اصفرارَهَا ودنُوِّها للمَغيب (çünki o, günəşin saralmasını və qüruba yaxınlaşmasını qəsd edir). وقد يقال منه أَدْنَفَتْ (Və ondan ədnəfət də deyilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:59.953Z"
+}

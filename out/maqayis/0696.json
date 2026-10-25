@@ -1,0 +1,17 @@
+{
+ "i": 696,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 484,
+  "page_to": 484
+ },
+ "ar": "الجيم والنون والثاء أصلٌ واحد، وهو الأصل والإحكام.\nيقال لأصلِ كلِّ شئٍ جِنْثُه. ثم يُفَرَّع منه، وهو الجُنْثِىّ (٣)، وهو الزّراد؛ لأنه يُحكِم عَمَلَ الزّرَد. فأمَّا قوله:\nأحْكَمَ الجِنْثِىُّ مِنْ عَوْرَاتِها … كُلُّ حِرْباءٍ إذا أُكْرِه صَلّ (٤)\nفإنه أراد الزرّادَ، أى أحكم حَرَابِيَّها، وهى المسامير. ومَنْ نصَبَ الجنثىّ أراد السيف، يجعل الفعل لكلّ حِرباء، ويكون معنى أحكم منَعَ. يقول: هو زَرَدٌ يمنع حِرباؤُهُ السيفَ أن يَعمل فيه. وقال الشاعر فى السيف:\nولكنَّها سُوقٌ يكون بِياعُها … بِجُنْثِيّةٍ قد أخلصَتْهَا الصَّياقلُ (٥)",
+ "az": "«جنث» (جيم, نون və ثاء) – bir əsas olub, əsl və möhkəmlikdir.\nHər bir şeyin əslinə «جِنْثُه» (cinsühu) deyilir. Sonradan bundan törədilmiş «الجُنْثِىّ» (əل-cünsiyy) – zireh düzəldən ustadır; çünki o, zirehin işini möhkəmlədir. Onun bu sözünə gəldikdə:\n«أحْكَمَ الجِنْثِىُّ مِنْ عَوْرَاتِها … كُلُّ حِرْباءٍ إذا أُكْرِه صَلّ (٣)»\n(Zireh ustası onların zəif yerlərindən... məcbur edildikdə səs çıxaran hər bir mismarı möhkəmlətdi.)\nO, bununla zireh ustasını nəzərdə tutmuşdur, yəni onların mismarlarını (حَرَابِيَّها) möhkəmlətdi. «الجنثى» sözünü fəthə ilə oxuyan isə qılıncı nəzərdə tutmuş, hər bir mismara bu feili aid etmişdir. «أحكم» sözünün mənası isə qorudu deməkdir. Deyir: Bu elə bir zirehdir ki, onun mismarları qılıncın ona təsir etməsinin qarşısını alır. Şair qılınc haqqında demişdir:\n«ولكنَّها سُوقٌ يكون بِياعُها … بِجُنْثِيّةٍ قد أخلصَتْهَا الصَّياقلُ (٤)»\n(Lakin onlar elə bazarlardır ki, oranın alverçisi cilsəli [möhkəm suvarmış], cilalayıcıların təmizlədiyi qılınclarla olar.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:12.831Z"
+}

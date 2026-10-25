@@ -1,0 +1,17 @@
+{
+ "i": 1582,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 441,
+  "page_to": 441
+ },
+ "ar": "الراء والميم والعين أصلٌ يدلُّ على اضطرابٍ وحركةٍ. فالرَّمَّاعةُ من الإنسان: الذى يضطرب من الصبىِّ على يافُوخِه. والرَّمَعَانُ: الاضطِراب.\nويقال رَمَعَ أَنْفُ الرّجُل يَرمَع رمَعاناً، إذا تحرَّك من غضبٍ. ومن الباب قَبَحَ اللّه أمَّا رَمَعَتْ به، أى ولدَتْه. ومن ذلك اليَرْمَع: حجارةٌ بِيضٌ رِقاقٌ تلمَع فى الشمس. ومن الباب إن صحّ، الرامِع، وهو الذى يطأطِئُّ رأسَه ثم يرفعه.\nويقال الرُّماع تغيُّر الوَجْه (١) والباب كلُّه واحد. ويقولون: المُرَمِّعَة المَهْلكة (٢).",
+ "az": "[رمع] (rəməğ) - راء، ميم və عَيْن hərfləri nizamsızlıq və hərəkətə dəlalət edən bir əsldir. İnsanın «الرَّمَّاعةُ» (rəmmacə) dedikdə, uşağın bıngıldağı üzərində hərəkət edən hissəsi nəzərdə tutulur. «الرَّمَعَانُ» (rəməan) - nizamsızlıq, hərəkətlilik. Deyilir ki, «رَمَعَ أَنْفُ الرّجُل يَرمَع رمَعاناً» (rəməə ənfُّ ər-rəculi yərməu rəməanən) - kişinin burnu qəzəbdən tərpəndikdə işlədilir. Bu qəbildəndir: «قَبَحَ اللّه أمَّا رَمَعَتْ به» (qəbəhə əllahu əmmən rəməət bihi), yəni onu doğan ana. Həmçinin «اليَرْمَع» (əl-yərməc) - günəşdə parıldayan ağ, incə daşlardır. Əgər səhihdirsə, bu بابdan olan «الرامِع» (əl-ramic) başını aşağı salıb sonra qaldıran kəsdir. Deyilir ki, «الرُّماع» (əl-rumau) - üzün dəyişməsidir (١), və bütün باب eyni məna ətrafındadır. Deyirlər ki, «المُرَمِّعَة» (əl-murəmmicə) - həlakedici yerdir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.605Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1626,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ريث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 464,
+  "page_to": 464
+ },
+ "ar": "الراء والياء والثاء أصلٌ واحد، يدلُّ على البُطء، وهو الرَّيثُ: خِلاف العَجَل. قال لبيد:\nإنَّ تَقْوَى ربِّنا خيرُ نَفَلْ … وبإِذْنِ اللّهِ رَيْثِى وعَجَلْ (٣)\nتقول منه راثَ يَرِيث. واستَرَثْتُ فلاناً * استبطأتُه. وربّما قالوا:\nاستَرْيَث، وليس بالمستعمَل. ويقال رجلٌ رَيَّثٌ، أى بطئ.",
+ "az": "[ريث] الراء (الراء) və الياء (ياء) və الثاء (ثə) yavaşlığa dəlalət edən tək bir kökdür. O da الرَّيث (əр-rəys) — tələsikliyin ziddidir. Ləbid demişdir: إنَّ تَقْوَى ربِّنا خيرُ نَفَلْ … وبإِذْنِ اللّهِ رَيْثِى وعَجَلْ (٣) — (Həqiqətən, Rəbbimizin təqvası ən xeyirli qənimətdir, Allahın izni ilə mənim yavaşımm və tələsiyimlə). Bundan deyirsən: راثَ يَرِيث (rathə yəris) — yavaş oldu, ləngidi. Və استَرَثْتُ فلاناً (istərəstü fülənan) — onu ləngiməkdə günahlandırdım, yavaş hərəkət etdiyini düşündüm. Bəzən استَرْيَث (istəryəf) də deyirlər, lakin bu işlək deyildir. Deyilir ki, رجلٌ رَيَّثٌ (rəcülün rəyyis) — yavaş hərəkət edən, ləng adamdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:27.039Z"
+}

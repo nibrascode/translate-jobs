@@ -1,0 +1,17 @@
+{
+ "i": 1438,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 372,
+  "page_to": 373
+ },
+ "ar": "الراء والسين أصلٌ واحد يدلُّ على ثباتٍ. يقال رَسَّ الشَّئُ: ثبَتَ. والرَّسيس: الثابت. ومن الباب رَسْرَسَ البعيرُ، إذا نضنَصَ\nبرُكبته فى الأرض يريد أنْ ينهض. ومن الباب فلان يرُسُّ الحديثَ فى نَفْسه.\nوسمِعتُ رَسًّا من خَبَر، وهو ابتداؤه؛ لأنّه يثبت فى الأسْماع (١). ويقال رُسَّ الميّت: قُبر. فهذا معظم الباب. والرَّسُّ: وادٍ معروفٌ فى شعر زهير:\n* فهُنَّ ووادِى الرَّسِّ كاليدِ فى الفَمِ (٢) *\nوالرُّسيس: وَادٍ معروف. قال زُهير:\nلَمِنْ طَلَلٌ كالوحْىِ عافٍ منازلُه … عَفَا الرَّسُّ منه فالرُّسَيسُ فعاقِلُهْ (٣)\nفأمّا الرَّسُّ فيقال إنّه من الإضداد، وهو الإصلاح بين الناس والإِفْسَادُ بينهم.\nوأىُّ ذلك [كان] فإنّه إثباتُ عداوةٍ أو مودّة، وهو قياس الباب.",
+ "az": "[رس] الراء (ra) və السين (sin) hərfləri sabitliyə dəlalət edən tək bir kökdür. Deyilir ki, رَسَّ الشَّئُ (rəssə-ş-şəy): sabit oldu. الرَّسيس (ər-rəsis): sabit olan. Bu babdandır: رَسْرَسَ البعيرُ (rəsrəsəl-bəiru) - dəvə ayağa qalxmaq istəyərkən dizlərini yerə vurub tərpətdikdə deyilir. Yenə bu babdandır: فلان يرُسُّ الحديثَ فى نَفْسه (fulanun yurussul-hədisə fi nəfsihi) - filankəs sözü öz nəfsində sabit edir (gizlədir). Mən xəbərdən bir رَسّ (rəss) eşitdim, bu onun başlanğıcıdır; çünki o, qulaqlarda sabit qalır (١). Deyilir ki, رُسَّ الميّت (russəl-meyyitu): dəfn olundu. Bu, babın əksəriyyətidir. الرَّسُّ (ər-rəss): Züheyrin şeirində məşhur bir vadidir: * فَهُنَّ ووادِى الرَّسِّ كاليدِ فى الفَمِ (fəhunnə və vadi-r-rəssi kəl-yədi fil-fəmi) - Onlar və Rəss vadisi, ağızdakı əl kimidir (٢). الرُّسيس (ər-rusəys): məşhur bir vadidir. Züheyr deyir: لَمِنْ طَلَلٌ كالوحْىِ عافٍ منازلُه … عَفَا الرَّسُّ منه فالرُّسَيسُ فعاقِلُهْ (ləmin tələlun kəl-vəhyi afin mənaziluhu … əfər-rəssu minhu fər-rusəysu fəaqiluhu) - O, izləri vəhy kimi silinmiş, mənzilləri yox olmuş bir xarabalıqdır... Ondan Rəss, sonra Rusəys, sonra da Aqil (vadiləri) silinib getdi (٣). الرَّسُّ (ər-rəss) sözünə gəldikdə, deyilir ki, bu zidd mənalı sözlərdəndir (əzdad); həm insanlar arasında islah etmək, həm də onların arasında fəsad törətmək mənasındadır. Bunlardan hansı olsa belə, bu, düşmənçiliyi və ya dostluğu sabit etməkdir və bu, babın ölçüsüdür.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:25:01.821Z"
+}

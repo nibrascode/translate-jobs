@@ -1,0 +1,17 @@
+{
+ "i": 657,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جعد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 462,
+  "page_to": 463
+ },
+ "ar": "الجيم والعين والدال أصلٌ واحد، وهو تقبُّض فى الشئ.\nيقال شعر جَعْدٌ، وهو خِلاف السَّبْط. قال الخليل: جَعُدَ يَجْعُد جُعُودةً، وجَعَّده صاحبُه تجعيدا. وأنشد:\nقد تيّمَتْنِى طفلةٌ أُملودُ … بفاحمٍ زَيّنَهُ التَّجعيدُ (٢)\nومما يُحمَل على هذا الباب قولهم نبات جَعْدٌ، ورجلٌ جَعْدُ الأصابع، كناية عن البُخْل. فأمّا قول ذى الرمة:\n* واعتَمَّ بالزَّبَدِ الجَعْدِ الخراطيمُ (١) *\nفإنّه يريد الزَّبَد الذى يتراكم على خَطْم البَعير بعضُه فوقَ بعض. وهو صحيحٌ من التّشبيه. فأمّا قولهم للذئب «أبو جَعْدَة» فقيل كُنِّى بذلك لبُخْله. وهذا أقرَبُ من قولهم إنّ الجَعْدة الرّخلة (٢) وبها كنّى الذئب. والجَعْدة نبات، ولعلَّه نَبَتَ جَعْداً.",
+ "az": "[جعد] (cim, eyn və dal) tək bir əsasdır, o da bir şeydə büzüşməkdir. Deyilir: شعر جَعْدٌ (şərun cədun) — bu, səbtin (düz saçın) əksidir. Xəlil dedi: جَعُدَ يَجْعُد جُعُودةً (cəudə yəcudu cuudətən), və onu sahibi جَعَّدَهُ (cəccədəhu) təcrid etdi. O inşad etdi: قد تيّمَتْنِى طفلةٌ أُملودُ … بفاحمٍ زَيّنَهُ التَّجعيدُ (٢). Bu baba aid edilənlərdən biri də onların نبات جَعْدٌ (nəbatun cədun) və رجلٌ جَعْدُ الأصابع (raculun cədu əl-asabi) sözləridir ki, xəsisliyə kinayədir. Züər-Rimənin sözünə gəldikdə: * واعتَمَّ بالزَّبَدِ الجَعْدِ الخراطيمُ (١) * çünki o, dəvənin burun dəliyi üzərində bir-birinin üstünə yığılan köpüyü qəsd edir. Bu, düzgün bir bənzətmədir. Qurd üçün «أبو جَعْدَة» (Əbu Cədə) demələrinə gəldikdə, deyilmişdir ki, xəsisliyinə görө ona bu künyə verilmişdir. Bu, onların «cədə diş qoyundur və qurd buna görə künyələnmişdir» (٢) demələrindən daha yaxındır. Və الجَعْدة (əl-cədə) — bitkidir, bəlkə də buruq (cəd) halda bitmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:09.223Z"
+}

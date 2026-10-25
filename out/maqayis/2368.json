@@ -1,0 +1,17 @@
+{
+ "i": 2368,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صرخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 348,
+  "page_to": 348
+ },
+ "ar": "الصاد والراء والخاء أُصيلٌ يدلُّ على صوتٍ رفيع.\nمن ذلك الصُّراخ، يقال صرَخ يَصرُخ، وهو إذا صوّت. ويقال الصَّارخ:\nالمستغيث، والصارخ: المغيث، ويقال بل المُغيث مُصرِخ؛ لقوله تعالى فى قصة من قال: ﴿ما أَنَا بِمُصْرِخِكُمْ وَما أَنْتُمْ بِمُصْرِخِيَّ﴾.",
+ "az": "[صرخ] الصاد، الراء və الخاء — uca səsə dəlalət edən tək və doğru bir əsasdır.\nBunlardan biri الصُّراخ-dır, deyilir: صرَخ يَصرُخ — o, səs ucaltdığı zamandır. Və deyilir: الصَّارخ — fəryad edən, kömək istəyəndir; الصارخ — həm də kömək edəndir, başqaları isə demişlər: əksinə, kömək edən مُصرِخ-dir; Uca Allahın kiminsə hekayəsində buyurduğu kimi: ﴿ما أَنَا بِمُصْرِخِكُمْ وَما أَنْتُمْ بِمُصْرِخِيَّ﴾ (Mən sizin dadınıza çatan deyiləm, siz də mənim dadıma çatan deyilsiniz).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:38.231Z"
+}

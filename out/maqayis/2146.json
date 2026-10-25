@@ -1,0 +1,17 @@
+{
+ "i": 2146,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 230,
+  "page_to": 231
+ },
+ "ar": "الشين والواو واللام أصلٌ واحد يدلُّ على الارتفاع. من ذلك شالَ المِيزان، إذا ارتفعت إحدى كِفّتَيه. وأشَلْتِ الشّئَ: رفعتُه. والشَّول من الإبل: التى ارتفت ألبانُها، الواحدة شائلة. والشوَّل: اللواتى تَشُول بأذنابها عند اللِّقاح، الواحدة شائل. وزعم قومُ أنّ شَوّالاً سمِّى بذلك لأنَّه وافق وقتَ أن تشولَ الإبل. والشَّوْلة: نجم، وهى شَوْلة العقرب، وهى ذَنَبها. وتسمَّى العقربُ شَوّالة (٣). ويقال تشاوَلَ القومُ بالسِّلاح عند القتال، وذلك أنْ يُشيل كلٌّ السِّلاح لصاحبِه. فأمّا الماء القليل فيسمى شَولا، لأنه إذاً قد خف وسَرُع ارتفاعه وذهابه. قال:\nوصَبَّ رُواتُها أشوالَها (٤)\nويسمَّى الخادم الخفيف فى الخِدمة: شَوِلاً؛ لسرعة ارتفاعه فيما ينهض فيه.",
+ "az": "[شول] (şul) — شين (şin), vav və لام (lam) yüksəlməyə dəlalət edən tək bir əsasdır. Bunlardan biri tərəzinin iki gözündən biri qalxarkən «شالَ المِيزان» (şaləl-mizan) — tərəzi qalxdı, deyilməsidir. «أشَلْتِ الشّئَ» (əşəltiş-şəy’ə) — mən şeyi qaldırdım. Dəvələrdən əl-şəvl (الشَّول): südü azalan dəvələrdir, təkliyi şailədir (شائلة). Əş-şəvvəl (الشوَّل): cütləşmə zamanı quyruqlarını qaldıran dəvələrdir, təkliyi şaildir (شائل). Bəzi tayfalar iddia etmişlər ki, Şəvval ayı ona görə belə adlandırılmışdır ki, o, dəvələrin quyruqlarını qaldırdığı vaxta təsadüf etmişdir. Əş-şövlə (الشَّوْلة): ulduzdur, bu, əqrəbin şövləsidir, yəni onun quyruğudur. Əqrəbə də şəvvəllə (شَوّالة) deyilir (3). Döyüş zamanı camaatın silahla bir-birinə qarşı durmasına «تشاوَلَ القومُ بالسِّلاح» (təşəvəl-qavmu bis-silah) deyilir, bu da hər kəsin öz silahını yoldaşı üçün qaldırmasıdır. Az miqdarda suya gəldikdə isə o, şəvl (شَول) adlanır, çünki o artıq yüngülləşmiş, qalxması və yox olması sürətlənmişdir. O demişdir:\nوصَبَّ رُواتُها أشوالَها (4)\nXidmətdə çevik olan xidmətçi də öz işinə qalxmaqdakı sürətinə görə şəvil (شَوِل) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.212Z"
+}

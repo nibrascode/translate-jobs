@@ -1,0 +1,17 @@
+{
+ "i": 1431,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذأى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 369,
+  "page_to": 369
+ },
+ "ar": "الذال والهمزة والحرف المعتل يدلُّ على ضربٍ من السَّير.\nيقال ذأى يذْأَى ذأْياً. ويقال الذَّأْوُ. السَّوق الشَّديد. (٢)",
+ "az": "[ذأى] \n\nذال، həmzə və zəif hərf bir növ yeriməyə və səyahətə dəlalət edir.\nDeyilir: ذأى يذْأَى ذأْياً (yeridi, yeriyir, yerimək). Həmçinin الذَّأْوُ (əz-zəv) – sərt şəkildə qovmaq deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

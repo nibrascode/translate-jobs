@@ -1,0 +1,17 @@
+{
+ "i": 2327,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صيح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 324,
+  "page_to": 324
+ },
+ "ar": "الصاد والياء والحاء أصلٌ صحيح، وهو الصَّوت العالى.\nمنه الصِّياح، والواحدة منه صَيْحة. يقال: لقيتُ فلاناً قبلَ كلِّ صَيْحٍ ونَفْر.\nفالصَّيْح: الصِّياح. والنَّفْر: التفرُّق. وممّا يُستعار من هذا قولهم: صاحت الشَّجرةُ، وصاحَ النَّبْت، إذا طال، كأنّه لمّا طالَ وارتفع جُعِل طولُه كالصِّياح الذى يدلُّ على الصائح. وأمَّا التصيُّح، وهو تشقُّق الخشَب، فالأصل فيه الواو، وهو التصوُّح، وقد مضى. ومنه انصاحَ البَرقُ انصياحاً، إذا تصدَّعَ وانشقّ. قال:\nمِنْ بَينِ مُرتَتِقٍ منها ومُنصاحِ (٢)",
+ "az": "«صيح» (صاد، ياء və ha) səhih bir kök olub, uca səs mənasını verir. Bunlardan biri «الصِّياح» (bağrışıq, qışqırıq), tək növü isə «صَيْحة» (qışqırıq) sözüdür. Deyilir: «لقيتُ فلاناً قبلَ كلِّ صَيْحٍ ونَفْر» (Mən filankəslə hər bir səsdən və pərən-pərən düşməzdən əvvəl qarşılaşdım). «الصَّيْح» — bağrışıq, «النَّفْر» — pərən-pərən düşməkdir. Bundan məcaz olaraq götürülənlərdən biri də onların «صاحت الشَّجرةُ، وصاحَ النَّبْت» (ağac ucaldı, bitki uzandı) deməsidir; guya o, uzanıb yüksəldiyi zaman onun boyu bağrışana dəlalət edən bağrışıq kimi edilmişdir. «التصيُّح» -ə gəlincə, bu, taxtanın çatırdamasıdır, bunun əsli «واو» hərfi ilə olan «التصوُّح» sözüdür ki, artıq keçdi. O cümlədən «انصاحَ البَرقُ انصياحاً» – ildırım yarıldı və parçalandı. (Şair) demişdir: (مِنْ بَينِ مُرتَتِقٍ منها ومُنصاحِ — Oradakı bitişik olanla yarılan arasından).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:32.085Z"
+}

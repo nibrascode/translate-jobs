@@ -1,0 +1,17 @@
+{
+ "i": 2312,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 316,
+  "page_to": 316
+ },
+ "ar": "الصاد والهاء واللام أصلٌ صحيح، وفروعه قليلة، ولعلّه ليس فيه إِلاّ صَهَل الفرس، وفرسٌ صَهَّال.",
+ "az": "«صهل» (Sad, hə və lam) - səhih bir kökdür, budaqları azdır və ehtimal ki, bunda yalnız «صَهَل الفرس» (atın kişrəməsi) və «فرسٌ صَهَّال» (kişnəyən at) sözlərindən başqa bir şey yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

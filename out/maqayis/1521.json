@@ -1,0 +1,17 @@
+{
+ "i": 1521,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 413,
+  "page_to": 413
+ },
+ "ar": "الراء والغين والفاء كلمةٌ واحدة. فالرَّغيف معروف، ويجمع على الرُّغْفان والأرغِفة والرُّغُف. قال:\n* إنّ الشِّواء والنَّشِيلَ والرُّغُفْ (١) *\nوهاهنا كلمةٌ أخرى إن صحَّت. زعموا أنّ الإزغاف: تحديد النَّظَر.",
+ "az": "[رغف] (ra, ğeyn, fa) — tək bir sözdür. الرَّغيف (rəqif) – məlum çörək, cəmi الرُّغْفان (rufnan), والأرغِفة (əl-ərgifə) və الرُّغُف (ruğuf). O demişdir: * إنّ الشِّواء والنَّشِيلَ والرُّغُفْ (١) * (Həqiqətən qızardılmış ət, aşlanmış ət və çörəklər). Burada əgər səhihdirsə başqa bir söz də var: Onlar güman edirlər ki, الإزغاف (əl-izğaf) – baxışı sərtləşdirməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:50.331Z"
+}

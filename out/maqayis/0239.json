@@ -1,0 +1,17 @@
+{
+ "i": 239,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 244,
+  "page_to": 245
+ },
+ "ar": "الباء والزاء واللام أصلان: تفتُّح الشئ، والثانى الشدّةُ والقُوّة. فأمّا الأوّل فيقال بَزَلْتُ الشَّرابَ بالمِبْزَل أَبْزُلُه بَزْلاً. ومن هذا قولهُم بَزَل البعيرُ إذا فَطَر نابُه، أى انشقَّ، ويكون ذلك لحجّتِه التّاسعة. وشَجّةٌ بازِلة إذا سَالَ دَمُها. وانبَزَل الطَّلْع إذا تفَتَّق. ومن الباب البَأْزَلَة وهى المِشْيَةُ السريعة؛ لأن المُسْرِع مُفتِّح فى مِشْيته. قال:\n* فأدْبَرَتْ غَضْبَى تَمَشَّى البازَلَهْ (٢) *\nوالأصل الثانى قولُهم أمر ذو بَزْل أى شِدَّة. قال عَمرُو بن شأسٍ:\nيفلِّقْنَ رأْسَ الكَوكَبِ الفَخْمِ بعد ما … تَدُور رَحى المَلْحاءِ فى الأمْرِ ذِى البَزْلِ (١)\nومن هذا قولهم: فلان نهّاضٌ ببزْلاءَ، إذا كان محتملاً للأمور العِظام.\nوقال قوم، وهو هذا الأصل: ذو بَزْلاء، أى ذو رأى. أنشد أبو عُبيد (٢):\nإنى إذا شغلَتْ قوماً فُروجهُم … رَحْبُ المسالِكِ نهَّاضٌ ببَزْلاءِ",
+ "az": "[بزل] (bəzəl) — با (ba) və زاء (za) və لام (lam) iki əsas mənanı ehtiva edir: bir şeyin açılması, ikincisi isə sərtlik və güvə. Birincisinə gəldikdə, «بَزَلْتُ الشَّرابَ بالمِبْزَل أَبْزُلُه بَزْلاً» (şərabı süzgəclə süzdüm) deyilir. Buna misal olaraq onların «بَزَل البعيرُ» (dəvənin azı dişi çıxdı) ifadəsidir, yəni yarıldı və bu, dəvənin doqquzuncu ilində olur. «شَجّةٌ بازِلةٌ» (qanı axan yarıq yara) – qanı axdıqda deyilir. «انبَزَل الطَّلْعُ» (xurma zoğları yarıldı) – açıldıqda. Bu fəsildəndir «البَأْزَلَة» (sürətli yeriş), çünki sürətlə gedən şəxs yerişində açılış edir (addımlarını geniş atır). Şair demişdir: * فَأَدْبَرَتْ غَضْبَى تَمَشَّى البَازَلَهْ (٢) * (O, qəzəbli halda geriyə döndü, bazələ yerişi ilə yeriyərək). İkinci əsas məna isə onların «أمر ذو بَزْل» (çətin və sərt iş) sözüdür. Əmr ibn Şəş demişdir: * يفلِّقْنَ رأْسَ الكَوكَبِ الفَخْمِ بعد ما … تَدُور رَحى المَلْحاءِ فى الأمْرِ ذِى البَزْلِ (١) * (Onlar böyük ulduzun başını parçalayırlar, nə zamanki çətin və ağır işdə döyüş dəyirmanı fırlanır). Buradan da onların «فلان نهّاضٌ ببزْلاءَ» (filankəs ağır və böyük işləri daşımağa qadirdir) ifadəsi yaranmışdır, nə zamanki o, böyük işləri öz üzərinə götürür. Bəzi qövmlər demişlər ki, bu da həmin əsasdandır: «ذو بَزْلاء» (rəy sahibi, uzaqgörən). Əbu Übeyd nəzmə çəkmişdir (٢): * إنى إذا شغلَتْ قomasاً فُروجهُم … رَحْبُ المسالِكِ نهَّاضٌ ببَزلاءِ * (Həqiqətən mən, nə zamanki tayfanın eyibləri onları məşğul edər, yolları geniş olan, çətin və böyük işlərin öhdəsindən gələn biriyəm).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.233Z"
+}

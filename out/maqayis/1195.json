@@ -1,0 +1,17 @@
+{
+ "i": 1195,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خثر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 246,
+  "page_to": 246
+ },
+ "ar": "الخاء والثاء والراء أصلٌ يدلُّ على غِلَظٍ فى الشّيءِ مع استِرخاء.\nيقال خَثُرَ اللّبنُ، وهو خَاثِر. وحكى بعضهم: خَثِرَ فلانٌ فى الحىِّ، إذا أَقام فلم يكَدْ يبرح. وليس هذا بشئ.",
+ "az": "«خثر» (x-v-r) — Xa, sə və ra hərfləri bir şeydə boşalma (səlistlik) ilə birlikdə qatılığa dəlalət edən bir əsasdır.\n«خَثُرَ اللّبنُ» (süd qatılaşdı) deyilir və o, «خَاثِر»dir (qatı). Bəziləri belə rəvayət etmişdir: «خَثِرَ فلانٌ فى الحيِّ» — filankəs tayfa içində məskunlaşıb demək olar ki, heç yerə tərpənmədi. Lakin bu, heç də əhəmiyyətli bir şey deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:40.619Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 277,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 269,
+  "page_to": 269
+ },
+ "ar": "الباء والعين والراء أصلان: الجمال، والبَعَرْ. يقال بعير وأبعِرةٌ وأباعِرُ وبُعْرَانٌ. قال بعضُ اللصوص (١):\nوإنِّى لأسْتَحْيى مِنَ اللّه أَنْ أُرَى … أُجَرِّرُ حَبْلاً ليس فيه بَعِيرٌ\nوأن أسألَ المرءَ اللَّئِيمَ بَعِيرَهُ … وبُعْرَانُ رَبِّى فى البلادِ كثيرُ (٢)\nوالبَعَر معروف.",
+ "az": "[بعر] الباء، العين və الراء — iki əsas kökə malikdir: gözəllik və dəvə peini (البَعَرْ). Deyilir: «بعير» (dəvə), «أبْعِرةٌ», «أباعِرُ» və «بُعْرَانٌ». Oğrulardan biri demişdir (١): Həqiqətən, mən Allahdan həya edirəm ki, içində dəvə olmayan bir ipi sürüyərkən görünüm; Və ləim bir adamdan onun dəvəsini istəyim, halbuki Rəbrimin dəvələri ölkədə çoxdur (٢). «البَعَر» isə məlumdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

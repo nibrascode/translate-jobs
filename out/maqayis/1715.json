@@ -1,0 +1,17 @@
+{
+ "i": 1715,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 4,
+  "page_to": 4
+ },
+ "ar": "الزاء والفاء أصلٌ يدلُّ على خِفَّةٍ فى كل شئ. يقال زَفَّ الظَّليم زفيفاً، إذا أسرع. ومنه زُفَّتِ العَروسُ إلى زوجها. وزفَّ القومُ فى سَيرهم:\nأسْرعُوا. قال جلّ ثناؤه: ﴿فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ﴾. والزَّفْزافة: الرِّيح الشديدة لها زفزفةٌ، أى خِفَّة. وكذلك الزَّفزف (١). ويقولون لمن طاشَ حِلْمُه:\n٣٠٥ قد زَفَّ رَأْلُه. وزِفُّ الطائر: صِغار ريشه؛ لأنه خفيف.",
+ "az": "[زف] الزاء والفاء — hər şeydə yüngüllüyə və sürətə dəlalət edən bir əsasdır. Deyirlər: زَفَّ الظَّليم زفيفاً (dəvəquşu tez qaçdı) — o sürətlə hərəkət etdikdə. Buradan götürülüb: زُفَّتِ العَروسُ إلى زوجها (gəlin ərinin evinə bəzədilərək yola salındı). Və زفَّ القومُ فى سَيرهم (qövm gedişlərində tələsdilər, sürətli getdilər). Uca və Böyük Allah demişdir: ﴿فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ﴾ (mənaca tərcümə: Onlar tələsərək [qaçaraq] onun üstünə gəldilər). Və الزَّفْزافة (zəfzəfə) — özünün zəfzəfəsi, yəni yüngüllüyü olan şiddətli küləkdir. Eynilə الزَّفزف (zəfzəf) də belədir (١). Və deyirlər ağılı başından çıxmış kimsəyə: قد زَفَّ رَأْلُه (balası başqalaşdı, yüngülləşdi). Və زِفُّ الطائر (quşun zifftü) — quşun kiçik lələkləridir; çünki onlar yüngüldür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:28.608Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 870,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حشف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 62,
+  "page_to": 63
+ },
+ "ar": "الحاء والشين والفاء أصلٌ واحدٌ يدلُّ على رَخَاوة وضعف وخلوقة.\nفأوّل ذلك الحَشَف، وهو أرادأ التَّمر. ويقولون فى أمثالهم: «أَحَشَفاً وسُوءَ كِيلَة»، للرَّجُل يجمع أمرين ردِيَّين. قال امرؤ القيس:\nكأنّ قلوبَ الطيرِ رَطباً ويابساً … لدى وَكرها العُنَّابُ والحَشَفُ البالى (١)\nوإنما ذكر قلوبَها لأنها أطيبُ ما فى الطير، وهى تأتى فراخها بها. ويقال حَشِفَ (٢) خِلْفُ الناقة، إذا ارتفع منه اللَّبن. والحشيف: الثَّوب الخَلَق. وقد تَحَشَّف الرَّجلُ: لَبِسَ الحشيف. قال:\nيُدنى الحَشيفَ عليها كى يواريَها … ونَفْسَهَا وهو للأطمار لَبَّاسُ (٣)\nوالحَشَفة: العجوز الكبيرة، والحميرة اليابسة (١)، والصخرة الرِّخْوَة حَوْلها السهلُ من الأرض.",
+ "az": "[حشف] الحاء، الشين والفاء (h, ş, f) tək bir əsasdır, yumşaqlığa, zəifliyə və köhnəliyə dəlalət edir. Bunların ilki الحَشَف (qurumuş, keyfiyyətsiz xurma) — ən pis xurmadır. Onlar öz məsəllərində: «أَحَشَفاً وَسُوءَ كِيلَةٍ» (Həm çürük xurma, həm də pis ölçü mü?) — deyirlər, bu, iki pis şeyi birləşdirən kişiyə aid edilir. İmru əl-Qeys demişdir: كأنّ قلوبَ الطيرِ رَطباً ويابساً … لدى وَكرها العُنَّابُ والحَشَفُ البالى (١) (Quşların yaş və quru ürəkləri yuvalarının yanında sanki ünnab meyvəsi və çürümüş xurmadır). O, onların ürəklərini məhz ona görə zikr etmişdir ki, [ürək] quşun ən təmiz hissəsidir və onlar bunu balalarına gətirirlər. Deyilir: حَشِفَ خِلْفُ النَّاقَةِ (dəvənin məməciyindən süd çəkildi / azaldı). الحشيف: köhnə paltar. حَشَّفَ الرَّجُلُ (kişi köhnə paltar geyindi). [Şair] demişdir: يُدنى الحَشيفَ عليها كى يواريَها … ونَفْسَهَا وهو للأطمار لَبَّاسُ (٣) (O, köhnə paltarı öz üzərinə çəkir ki, onu və nəfsini örtünmüş olsun, özü isə cındır geyinəndir). الحَشَفَة: yaşlı qoca qarı, quru qırmızı xurma (١), həmçinin ətrafı düzənlik olan yumşaq qayadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:55:58.229Z"
+}

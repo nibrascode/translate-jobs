@@ -1,0 +1,17 @@
+{
+ "i": 1283,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 295,
+  "page_to": 295
+ },
+ "ar": "الدال واللام والحاء أُصَيلٌ يدلُّ على مَشْى وثِقَل المحمول.\nيقول العرب: دَلَحَ البعيرُ بحِمْلِهِ، إذا مشى به بِثقَل. وسَحابةٌ دَلوحٌ: كأنَّها تجرِى بمائها، ومن ذلك\nحديث سَلْمان: «أنّه اشترى هو وأبو الدَّرداءِ لحماً، فتدالَحَاهُ بينهما على عُودٍ». أى حَمَلاه ونَهَضَا به. ويقال سحابةٌ دَلوحٌ، وسَحائب دُلَّح. قال:\nبينما نَحْنُ مُرْتِعُون بفَلْجٍ … قالت الدُّلَّحُ الرِّواءُ إنِيهِ (٥)",
+ "az": "«دلح» (dəlih): Dal, lam və hə gəzməyə və daşınan şeyin ağırlığına dəlalət edən kiçik bir əsasdır. Ərəblər deyirlər: «دَلَحَ البعيرُ بحِمْلِهِ» (dələhə əl-bəiru bi himlihi) — dəvə yükü ilə ağır-ağır gəzdi. «سَحابةٌ دَلوحٌ» (səhəbətun dəluhun) — elə bil suyu ilə axır. Bunlardandır\nSalmanın hədisi: «أنّه اشترى هو وأبو الدَّرداءِ لحماً، فتدالَحَاهُ بينهما على عُودٍ» (O və Əbu əd-Dərda ət almışdılar və onu bir taxta üzərində qaldırıb daşıdılar). Yəni onu daşıdılar və ayağa qalxdılar. Deyilir: «سحابةٌ دَلوحٌ» (səhəbətun dəluhun) və «سَحائب دُلَّح» (səhəibun dulləhun). O demişdir:\nبينما نَحْنُ مُرْتِعُون بفَلْجٍ … قالت الدُّلَّحُ الرِّواءُ إنِيهِ (٥)\n(Biz Fəlc vadisində otlayarkən, dolu və su ilə zəngin olan dulləh buludları dedilər: inehi...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

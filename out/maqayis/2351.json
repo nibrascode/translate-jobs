@@ -1,0 +1,17 @@
+{
+ "i": 2351,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صخم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "صخم الصاد والخاء والميم كلمة. يقال للمنتصب مُصْطَخِم.",
+ "az": "[صخم] صخم «الصاد» (sad), «Xə» (xa) və «Mim» (mim) bir kəlimədir. Ayaq üstə dik durana «مُصْطَخِم» (mustəxim) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 918,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حقر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 90,
+  "page_to": 90
+ },
+ "ar": "الحاء والقاف والراء أصلٌ واحد، استصغارُ الشئ. يقال شئ حقير، أى صغير. وأنا أحتقرهُ: أى أستصغره. فأمّا قولهم لاسم السماء «حاقورة (١)» فما أراه صحيحا. وإن كان فلعلّه اسم مأخوذٌ كذا من غير اشتقاق.",
+ "az": "«حقر» (alçaltmaq, kiçik görmək). Ḥa, qaf və ra bir əsl olub, bir şeyi kiçik hesab etməkdir. «شئ حقير» (çox kiçik şey) — kiçik deməkdir. «أنا أحتقرهُ» (mən onu kiçik görürəm): yəni onu kiçik hesab edirəm. Səmanın adına gəlincə «حاقورة» (ḥaqurə) (١), bunun səhih olduğunu güman etmirəm. Əgər varsa da, bəlkə də hər hansı bir kökdən törəmədən beləcə qəbul edilmiş bir addır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:02:33.899Z"
+}

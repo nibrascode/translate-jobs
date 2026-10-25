@@ -1,0 +1,17 @@
+{
+ "i": 577,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جسس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 414,
+  "page_to": 414
+ },
+ "ar": "الجيم والسين أصلٌ واحد، وهو تعرُّف الشئ بمسٍّ لطيف.\nيقال جَسَسْتُ العرْق وغَيْرَه جَسًّا. والجاسوس فَاعولٌ من هذا؛ لأنّه يتخبَّرُ ما يريده بخَفاءٍ ولُطْفٍ. وذُكر عن الخليل أنَّ الحواسَّ التى هى مشاعرُ الإنسان ربَّما سمِّيت جَواسَّ. قال ابنُ دريد: وقد يكون الجسُّ بالعَيْن. وهذا يصحِّح ما قاله الخليل. وأنشد:\n* فاعْصَوْ صَبُوا ثُمَّ جَسُّوه بأعيُنهم (١) *",
+ "az": "«جسس» (Cim və sin) tək bir əsasdır; o da incə toxunuşla bir şeyi öyrənməkdir.\n«جَسَسْتُ العرْق وغَيْرَه جَسًّا» (Damarı və başqa şeyi toxunaraq yoxladım) – deyilir. «الجاسوس» (əl-casus) – bundan düzəlmiş «فاعل» (fail) qəlibidir; çünki o, istədiyi xəbəri gizli və incəliklə araşdırır. Xəlildən rəvayət olunmuşdur ki, insanın hissləri olan duyğu orqanları bəzən «جَواسّ» (cavass) adlandırılır. İbn Dürid demişdir: «Həmçinin toxunmaq gözlə də ola bilər». Bu, Xəlilin dediyini təsdiq edir. Və o, şeir söyləmişdir:\n* فاعْصَوْ صَبُوا ثُمَّ جَسُّوه بأعيُنهم (١) *\n(Ona asi oldular, həvəs göstərdilər, sonra onu gözləri ilə yoxladılar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:02.722Z"
+}

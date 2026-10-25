@@ -1,0 +1,17 @@
+{
+ "i": 1528,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رغد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 417,
+  "page_to": 417
+ },
+ "ar": "الراء والغين والدال أصلان: أحدهما أطْيَب العيش، والآخر خِلافُه.\nفالأوَّل عيشٌ رَغْدِ ورغِيد. أى طيِّبٌ واسع. وقد أَرغَدَ القومُ، إذا أَخصَبُوا. ويقال إنَّ الرَّغيدةَ فى بعض اللغات الزُّبدة (١). وأرغَدَ الرّجلُ ماشِيتَه، إذا تركَها وسَوْمَها.\nوالأصل الآخر المُرْغَادُّ: الذى تَغَيَّرَ حالُه فى جِسمه ضعفاً. ومن ذلك المَرْغَادُّ:\nالشّاكُّ فى رأيه لا يَدرِى كيف يُصْدِرُه.",
+ "az": "«رغد» (rəğəd): Ра, ğayn və dəl hərfləri iki əsasdır: biri yaşayışın ən xoşagələni, digəri isə onun ziddidir. Birincisi «عَيْشٌ رَğْدٌ» (عيش رغد) və «رَğِيدٌ» (rəğidun) — yəni xoş, geniş yaşayış. Qövm bolluq içində olduqda «أَرْغَدَ الْقَوْمُ» (ərgədəl-qövmü) deylir. Deyirlər ki, «الرَّغِيدَةُ» (ərrəğidətü) bəzi lüğətlərdə kərəyə deyilir. Və kişi mal-qarasını buraxıb otlağa yolladıqda «أَرْغَدَ الرَّجُلُ مَاشِيَتَهُ» (ərgədər-rəcülü məşiyətəhü) deyilir. Digər əsas isə «الْمُرْغَادُّ» (əl-murğaddu) — zəiflik səbəbindən bədəninin halı dəyişən kəsdir. Həmçinin «الْمَرْغَادُّ» (əl-marğaddu) — fikrində şübhə edən, onu necə sona çatdıracağını bilməyən kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:12.131Z"
+}

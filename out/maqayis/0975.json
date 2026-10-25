@@ -1,0 +1,17 @@
+{
+ "i": 975,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حوم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 122,
+  "page_to": 122
+ },
+ "ar": "الحاء والواو والميم * كلمةٌ واحدة تقرُب من الذى قبلها، وهو الدَّوْر بالشئ يقال حام الطائرُ حَوْلَ الشئِ يحوم. والحَوْمَةُ: مُعظَم القتال، وذلك أنهم يُطِيف بَعضُهم بِبَعض. والحَوْم: القطيع الضَّخم من الإبل.\nوالحَوْمانة: الأرض المستديرة، ويقال يُطيفُ بها رمل.",
+ "az": "[حوم] الحاء, الواو və الميم – əvvəlki kökə yaxın olan tək bir kəlmədir, bu da bir şeyin ətrafında dövr etməkdir. Deyilir ki, حام الطائرُ حَوْلَ الشئِ يحوم (həamət-tairu həvləş-şey-i yəhum) – quş şeyin ətrafında dövr etdi. الحَوْمَةُ (əl-həvməh) – döyüşün şiddətli və qızğın vaxtıdır, çünki döyüşçülər bir-birinin ətrafında fırlanırlar. الحَوْم (əl-həum) – dəvələrin böyük sürüsüdür. الحَوْمانة (əl-həvmənə) – dairəvi yerdir, deyilir ki, onun ətrafını qumluq əhatə edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.843Z"
+}

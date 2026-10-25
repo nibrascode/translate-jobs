@@ -1,0 +1,17 @@
+{
+ "i": 1176,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خبث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 238,
+  "page_to": 238
+ },
+ "ar": "الخاء والباء والثاء أصلٌ واحد يدلُّ على خلاف الطّيّب.\nيقال خبيثٌ، أى ليس بطيِّب. وأخْبَثَ، إذا كانَ أصحابُه خُبثاء. ومن ذلك التعوُّذ مِنْ الخبيث المُخْبِث. فالخبيث فى نفسه، والمُخْبِث الذى أصحابُه وأعوانُه خُبَثاء.",
+ "az": "[خبث] الخاء والباء والثاء ( x, b, s ) — xoş olmayanın ziddinə dəlalət edən tək bir əsasdır. Deyilir: «خبيثٌ» yəni xoş deyil. «أخْبَثَ» — dostları xəbis (pis) olduqda [deyilir]. Bunlardan biri də xəbis və xəbislik edəndən sığınmaqdır. Xəbis özlüyündə pis olandır, «المُخْبِث» isə dostları və köməkçiləri xəbis (pis) olan kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:52.484Z"
+}

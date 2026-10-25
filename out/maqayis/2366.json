@@ -1,0 +1,17 @@
+{
+ "i": 2366,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صرب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 347,
+  "page_to": 347
+ },
+ "ar": "الصاد والراء والباء أُصَيْلٌ صحيح يدلُّ على مثل ما دلَّ عليه الباب الذى قبله. وزاد الخليل فيه وصفاً آخر، قال: الصرِيب: اللَّبن الذى قد حُقِن: والوَطْب مُصرَّب. وقال ابنُ دُريد: كلُّ شئٍ أملسَ فهو صرَب.\nوهذا الذى قاله ابنُ دريدٍ أقْيَس؛ لأنَّهم يسمُّون الصَّمغ الصرَب، وينشدون:\nأرض عن الخير والسُّلطانِ نائيةٌ … والأطيبان بها الطُّرْثُوثُ والصَّربُ (٢)\nوالصَّمغ فيه مَلاسَة. والذى قاله الخليل فَفرْعُه قولُهم للصبِّى إذا احتبس بَطْنُه:\nصرَب ليَسْمَن، وذلك عند عَقْدِه شَحْمه. والصَّرَب: اللَّبَن الحامض.",
+ "az": "[صرب] الصاد، الراء və الباء — özündən əvvəlki bölmənin dəlalət etdiyi mənanın bənzərinə dəlalət edən kiçik və doğru bir əsasdır. Xəlil buna başqa bir sifət də əlavə etmişdir, demişdir: الصرِيب — qaba qoyulmuş süddür: və الوَطْب مُصرَّب (tuluq süd ilə doldurulmuşdur). İbn Dureyd demişdir: hamar olan hər bir şey صرَب-dir.\nİbn Dureydin dediyi bu söz daha qiyaslıdır; çünki onlar saqqıza صرَب deyirlər və bu beyti dəlil gətirirlər:\nأرض عن الخير والسُّلطانِ نائيةٌ … والأطيبان بها الطُّرْثُوثُ والصَّربُ (٢)\nSaqqızda isə hamarlıq vardır. Xəlilə gəldikdə isə, onun dediyinin budağı onların qarınları tutulmuş uşaq haqqında: صرَب ليَسْمَن (kökəlmək üçün qarnı tutuldu) deməsidir, bu da onun piyinin bərkidiyi vaxt olur. الصَّرَب — turş süddür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:38.231Z"
+}

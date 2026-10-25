@@ -1,0 +1,17 @@
+{
+ "i": 987,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حيك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 125,
+  "page_to": 125
+ },
+ "ar": "الحاء والياء والكاف أصلٌ واحد، وهو جِنسٌ من المَشْى.\nيقال حاك هو يَحِيك فى مَشْيه حَيَكاناً، إذا حرّك مَنْكِبَيه وجسدَه. ومنه الحَيْك، وهو أخْذُ القول فى القَلْب. يقال ما يَحِيك كلامُك فى فلانٍ. وإنما قلت إنه منه، لأنَّ المشْىَ أخْذٌ فى الطريق الذى يُمشَى فيه.\nومن هذا الباب: ضرَبَه فما أحاك فيه السَّيف، إِذا لم يأخُذْ فيه.",
+ "az": "[حيك] (heyk) - Ha, ya və kaf tək bir kökə malikdir ki, o da gəzinti növlərindən biridir. Deyilir: «حاك هو يَحِيك فى مَشْيه حَيَكاناً» — çiyinlərini və bədənini hərəkət etdirərək gəzdiyi zaman. Buradan «الحَيْك» gəlir ki, o da sözün qəlbdə yer tutmasıdır. Deyilir: «ما يَحِيك كلامُك فى فلانٍ» (Sənin sözün filankəsə təsir etmir/qəlbinə yatmır). Mən bunun bundan olduğunu ona görə dedim ki, gəzmək gedilən yolda irəliləməkdir. Bu fasildəndir: «ضرَبَه فما أحاك فيه السَّيف» — qılınc ona təsir etmədikdə, kəsmədikdə (və ya bədənində iz qoymadıqda).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

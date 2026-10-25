@@ -1,0 +1,17 @@
+{
+ "i": 2011,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سخف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 144,
+  "page_to": 144
+ },
+ "ar": "السين والخاء والفاء أصلٌ مطَّرد يدلُّ على خفّة. قالوا:\nالسُّخْفُ: الخفّة فى كلِّ شئ، حتّى فى السَّحاب. قال الخليل: السُّخْف فى العَقل خاصة، والسَّخافة عامّةٌ فى كلِّ شئ. ويقال وجدت سَخْفَة من جوع، وهى خِفّةٌ تعترى الإنسانَ إِذا جاع.",
+ "az": "«سخف» (səxf - yüngüllük): Sin, xə və fa hərfləri yüngüllüyə dəlalət edən müntəzəm bir əsasdır. Alimlər demişlər: «السُّخْف» — hər şeydə, hətta buludda belə yüngüllük deməkdir. Xəlil demişdir: «السُّخْف» xüsusi olaraq əqldə olan yüngüllükdür, «السَّحافة» isə hər şeydə ümumi olan yüngüllükdür. Deyilir: «وجدت سَخْفَة من جوع» — acdığı zaman insana üz verən yüngüllük və halsızlıq hiss etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:57.043Z"
+}

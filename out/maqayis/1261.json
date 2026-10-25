@@ -1,0 +1,17 @@
+{
+ "i": 1261,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 286,
+  "page_to": 287
+ },
+ "ar": "الدال والفاء والنون أصلٌ واحد يدلُّ على استخفاءِ وغموض (٢). يقال دُفنَ الميّتُ، وهذه بئرٌ دَفْنٌ: ادَّفَنَتْ. فأما اِلأدِّفانُ فاستِخفاء العَبْد لا يريد الإباق الباتَّ. وقال قومٌ: الادّفان: إِبَاقُ العَبد وذَهابه\nعلى وَجهِه. والأوَّل أجْوَد؛ لما ذكرناه من الحديث. والداء الدَّفين: الغامض الذى لا يُهْتدَى لوَجهِه. والدَّفُون: الناقة تَبرُكُ مع الإبل فتكونُ وَسْطَهنّ.\nوالدَّفَنِىُّ: ضَربٌ من الثِّياب. وسمعتُ بعضَ أهلِ العلم يقولون: إنَّه صِبغُ يُدْفن فى صِبغٍ يكون أشبَعَ منه.",
+ "az": "«دفن» (د-ف-ن): dal, fa və nun hərfləri gizlənməyə və qaranlıq/naməlum olmağa dəlalət edən tək bir əsasdır. Deyilir: «دُفنَ الميّتُ» (mərhum dəfn olundu). «بئرٌ دَفْنٌ: ادَّفَنَتْ» – bu, torpaq altında qalıb itib getmiş quyudur. «الإدِّفان» (əl-iddifan) gəlməsinə gəlincə, bu, kölənin birdəfəlik qaçmaq istəmədən gizlənməsidir. Bəzi qövmlər demişdir: İddifan – kölənin qaçıb başını götürüb getməsidir. Birinci (izah) yuxarıdakı hədisə görə daha gözəldir. «الداء الدَّفين» (gizli xəstəlik) – səbəbi bilinməyən, naməlum olan xəstəlikdir. «الدَّفُون» (əddəfun) – dəvələrin arasında çökərək onların ortasında qalan dişi dəvədir. «الدَّفَنِىُّ» (əddəfəniyy) – bir növ parçadır. Elm əhlindən bəzilərinin belə dediyini eşitdim: O, bir boyanın digər boyanın üzərinə hopdurularaq daha tünd/doyğun rəng alınması üçün basdırıldığı boyadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.299Z"
+}

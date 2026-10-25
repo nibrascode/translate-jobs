@@ -1,0 +1,17 @@
+{
+ "i": 2393,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 363,
+  "page_to": 364
+ },
+ "ar": "الضاد والغين والميم أُصَيْلٌ واحد يدلُّ على العَضّ. يقال\nضَغَمَه. ومنه اشتُقَّ الضَّيغم، وهو الأسَد. قال أبو عُبيد: الضَّيْغَم الذى يَعَضُّ.\nوالياء زائدة. وذكر ابنُ دُريد: الضُّغَامة: ما ضَغَمتَه ولفظتَه.",
+ "az": "[ضغم] «الضاد» (زاد), «الغين» (ğin) və «الميم» (mim) hərfləri dişləməyə (çeynəməyə) dəlalət edən kiçik bir əslə malikdir. «ضَغَمَه» (zəğəməh) — onu dişlədi, deyilir. «الضَّيْغَم» (əz-zəyğəm) — yəni şir də buradan götürülmüşdür. Əbu Übeyd demişdir: «الضَّيْغَم» (əz-zəyğəm) — dişləyən deməkdir. Ya hərfi artıqdır. İbn Dürid zikr etmişdir: «الضُّغَامة» (əz-zuğamə) — ağzına alıb çeynədiyin və tüpürdüyün şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1955,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 116,
+  "page_to": 116
+ },
+ "ar": "السين والواو والغين أصلٌ يدلُّ على سهولة الشئ واستمراره فى الحلق خاصّة، ثم يحمل على ذلك. يقال ساغ الشّرابُ فى الحَلْق سَوغاً وأساغَ اللّهُ ﷻ. ومن المشتقّ منه قولُهم: أصاب فلانٌ كذا فسوَّغْتُه إياه. وأمَّا قولهم هذا سَوْغُ هذا، أى مثله، فيجوز أن يكون من هذا، أى إنَّه يَجرى مجراه ويستمرُّ استمراره. ويجوز أن يكون السّبن مُبدَلة من صادٍ، كأنه صِيغَ صياغتَه. وقد ذُكر فى بابه.",
+ "az": "[سوغ] Sin, vaf və ğayn hərfləri bir şeyin asanlığına və xüsusən boğazdan rahat keçib getməsinə dəlalət edən bir əsldir, sonra bu məna başqa şeylərə də şamil edilir. Deyilir: «ساغ الشّرابُ فى الحَلْق سَوغاً» (şərab boğazdan rahat keçdi) və «أساغَ اللّهُ ﷻ» (Uca Allah asanlaşdırdı). Bundan törəyən sözlərdən biri də onların «أصاب فلانٌ كذا فسوَّغْتُه إياه» (filankəs belə etdi, mən də ona bunu rəva bildim/asanlaşdırdım) ifadəsidir. Amma onların «هذا سَوْغُ هذا» (bu, bunun mislidir) deməsinə gəlincə, ehtimal ki, bu, həmin mənadandır, yəni o, bunun yolu ilə gedir və bunun kimi davam edir. Həmçinin o da mümkündür ki, sin hərfi sad hərfi ilə əvəz olunub, guya o, həmin biçimdə düzəldilmişdir. Bu barədə öz fəslində qeyd olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

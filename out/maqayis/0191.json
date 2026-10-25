@@ -1,0 +1,17 @@
+{
+ "i": 191,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بحن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 203,
+  "page_to": 203
+ },
+ "ar": "الباء والحاء والنون أصلٌ واحدٌ يدلُّ على الضِّخَم، يقال جُلةٌ بَحْوَنةٌ، أى ضَخْمة. وقال الأصمعىّ: يقول العربُ للغَرْبِ إذا كان عظيماً كثير الأخْذِ: إنّه لَبَحْوَن، على مثال جَدْوَل.",
+ "az": "«بحن» (bəhən). Ba, hə və nun hərfləri böyüklüyə dəlalət edən tək bir əsas mənadır. «جُلةٌ بَحْوَنةٌ» (cüllətün bəhvanətün) – böyük kisə deməkdir. Əsməi demişdir: Ərəblər böyük və çox şey götürən böyük dəri torbaya cədvəl çəkisində «إنّه لَبَحْوَن» (innəhu lə-bəhvan) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:27:05.781Z"
+}

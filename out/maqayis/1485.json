@@ -1,0 +1,17 @@
+{
+ "i": 1485,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رشد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 398,
+  "page_to": 398
+ },
+ "ar": "الراء والشين والدال أصلٌ واحدٌ يدلُّ على استقامةِ الطريق.\nفالمَراشِد: مقاصد الطُّرُقِ. والرُّشْد والرَّشد: خِلافُ الغَىّ. وأصاب فلان من أمره رُشْداً ورَشَداً ورِشْدة. وهو لِرِشْدةٍ خلاف لِغَيّة.",
+ "az": "«رشد» (Rə-ş-d): Ra, şin və dal yolun düzlüyünə dəlalət edən tək bir əsasdır. فالمَراشِد (Maraşid): Yolların məqsədləri, istiqamətləridir. والرُّشْد (Ruşd) və الرَّشد (Rəşəd): Azğınlığın ziddidir. Və filankəs işində رُشْداً (ruşdən) və رَشَداً (rəşədən) və رِشْدة (rişdətdən) əldə etdi. Və o, لِرِشْدةٍ (rişdətin) – azğınlığın ziddi olan لِغَيّةٍ (ğəyyətin) müqabilidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.225Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 665,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 466,
+  "page_to": 467
+ },
+ "ar": "الجيم والفاء والراء أصلان: أحدهما نعت شئٍ أجوف، والثانى تَرْك الشئ.\nفالأوّل الجَفْر: البئر التى لم تُطْوَ. ومما حمل عليه الجَفْر من وَلَدَ الشّاة ما جَفَرَ جَنْبَاهُ إذا اتَّسعا، ويكون الجفرَ حتى يُجذِع (٣). وغُلَامٌ جَفْرٌ من هذا. والجَفِيرُ كالكِنانَة، إلا أنه أوسع منها، يكون فيه نُشَّابٌ كثير. وفَرَسٌ مُجْفَر، إذا كان عظيم الجُفْرَة، هى وسطه.\nوأما الأصل الثانى فقولهم أجْفَرْت الشئ قطعتُه، وأجْفَرَنى مَنْ كان يزُرُنى\nوأجْفَرْت الشئَ الذى كنت أستعمله، أى تركته. ومن ذلك جَفَرَ الفحلُ عن الضِّراب، إذا امتَنَع وترك. وقال:\nوقد لاحَ للسارى سُهَيْلٌ كأنّه … قَريعُ هِجانٍ يَتْبَعُ الشَّوْلَ جافِرُ (١)",
+ "az": "[جفر] (cim, fa və ra) iki əsasdır: biri içi boş olan bir şeyin vəsfi, digəri isə bir şeyi tərk etməkdir. Birincisi: جَفْر (cəfr) — hörülməmiş quyudur. Cəfrə aid edilənlərdən biri də quzu balalarından yanları genişlənən جَفَرَ جَنْبَاهُ (cəfərə cənbahu) sözüdür, o, dişləri çıxana qədər cəfr adlanır. Və gənc oğlan buna görə جَفْر (cəfr) adlanır. Və الجَفِيرُ (əl-cəfir) — ox qabı kimidir, lakin ondan daha genişdir, içində çoxlu oxlar olur. Və فَرَسٌ مُجْفَرٌ (fərasun mucfərun) — cüfrəsi (qarnı) böyük olan atdır. İkinci əsərə gəldikdə, onların أجْفَرْت الشئ (əcfərtü əş-şəyə) — onu kəsdim sözüdür, və məni ziyarət edən şəxs أجْفَرَنى (əcfərani) (məni tərk etdi), və işlətdiyim şeyi أجْفَرْت الشئَ (əcfərtü əş-şəyə) — yəni onu tərk etdim. Bunlardandır: جَفَرَ الفحلُ عن الضِّراب (cəfərə əl-fəhlu ən əd-dirab) — damazlıq təkə cütləşmədən imtina edib tərk etdikdə (deyilir). O dedi: وقد لاحَ للسارى سُهَيْلٌ كأنّه … قَريعُ هِجانٍ يَتْبَعُ الشَّوْلَ جافِرُ (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:09.224Z"
+}

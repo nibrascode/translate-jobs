@@ -1,0 +1,17 @@
+{
+ "i": 1873,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 78,
+  "page_to": 78
+ },
+ "ar": "السين والفاء واللام أصلٌ واحد، وهو ما كان خلافَ العلوّ. فالسُّفل (٢) سِفُل الدارِ وغيرها. والسُّفُول: ضدّ العُلُوّ. والسَّفِلة: الدُّون من الناس، يقال هو من سَفِلة الناس ولا يقال سَفِلة (٣). والسَّفَال: نقيض العَلاء.\nوإنّ أمرهم لفى سَفَال. ويقال قَعَد بسُفالة الرّيح وعُلاوتها. والعُلاوة من حيث تهُبُّ، والسُّفالة ما كان بإزاء ذلك.",
+ "az": "[سفل] السين والفاء واللام — sin, fa və lam hərfləri tək bir əsasdır, o da ucalığın əksi olan şeydir. فالسُّفل (əssüful) — evin və başqa şeylərin alt qismidir. والسُّفُول (əssüful) — ucalığın əksidir. والسَّفِلة (əssəfiləh) — insanların alçağı, deyilir: o, səfilə insanlarındandır, lakin sadəcə səfilə deyilməz (٣). والسَّفَال (əssəfal) — ucalığın ziddidir.\nVə həqiqətən, onların işi alçaqlıqdadır (فى سَفَال). Deyilir: قَعَد بسُفالة الريح وعُلاوتها (qəədə bi-sufalətir-rih ve ulavətiha). Ülave (علاوة) küləyin əsdiyi tərəf, sufale (سفالة) isə onun qarşısında olan yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.966Z"
+}

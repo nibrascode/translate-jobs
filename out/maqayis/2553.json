@@ -1,0 +1,17 @@
+{
+ "i": 2553,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طحر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 443,
+  "page_to": 444
+ },
+ "ar": "الطاء والحاء والراء أصلٌ صحيح يدلُّ على الحَفز والرَّمْى والقذْف. يقولون: طَحَرَتِ العينُ قَذاها، إذا قذفَتْ به. يقال طَحَرتْ عينُ الماء العِرمِضَ، إذا رمت به. وقوس مِطحَرٌ، إذا حَفَزت سَهْمَها فرمت به صُعُداً.\nوحربٌ مِطحرةٌ: زَبُون. والطَّحِير: النّفَس العالى، وسمِّى بذلك لأنَّ صاحبه يَطحَر. قال الكميت:\nبأهازيجَ من أغانيِّها الجُ … شِّ وإتباعها الزَّفيرَ الطَّحِيرَا (٤)\nفأما المُطْحَر من النِّصال، فهو المُطوَّل المسال (١). قال الهذلىّ (٢):\nمن مُطْحَراتِ الإلالِ (٣)",
+ "az": "[طحر] الطاء والحاء والراء (طا, ha, ra) – təhrik etməyə, atmaya və fırlatmağa dəlalət edən səhih bir əsasdır. Deyirlər: طَحَرَتِ العينُ قَذاها (Göz qılçığını atdı), yəni onu atıb qırağa çıxartdı. Deyilir: طَحَرتْ عينُ الماء العِرمِضَ (Bulağın gözü yosunu çölə atdı). قوس مِطحَرٌ (Mitbər yay) – oxunu təhrik edib onu yuxarıya doğru atan yaydır. حربٌ مِطحرةٌ (Mitbərə müharibə) – sərt və çətin müharibədir. الطَّحِير (ət-tahir) – uca nəfəsdir (xırıltılı, dərin nəfəs), o, belə adlandırılmışdır, çünki onun sahibi طَحَر (nahir edir / nəfəsini ağır çıxarır). Kumeyt demişdir: بأهازيجَ من أغانيِّها الجُ … شِّ وإتباعها الزَّفيرَ الطَّحِيرَا (٤) (Kobud mahnılarının oxunuşları ilə… və onların dərindən gələn xırıltılı nəfəslərlə müşayiət olunması ilə). Amma ucların (nizə uclarının) مُطْحَر (muthar) olanı isə – uzadılmış və hamarlanmış olanıdır (١). Hüzəli demişdir (٢): من مُطْحَراتِ الإلالِ (٣) (İlalın muthar edilmiş nizə uclarından...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:11:55.933Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1175,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خبت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 238,
+  "page_to": 238
+ },
+ "ar": "الخاء والباء والتاء أصلٌ واحد يدلُّ على خُشوع: يقال أَخْبَتَ يخبِتُ إخباتا، إذا خشَع. وأخْبَتَ للّه تعالى. قال عزّ ذكره: ﴿وَبَشِّرِ اَلْمُخْبِتِينَ﴾. وأصلُه من الخَبْت، وهو المفازة لا نباتَ بها.\nومن ذلك\nالحديث: «ولو بِخَبْتِ الجَمِيش (١)». ألا تراه سمَّاها جَميشاً، كأنّ النَّباتَ قد جُمِشَ منها، أى حُلِق.",
+ "az": "[خبت] الخاء والباء والتاء ( x, b, t ) — təvazökarlığa (xüşu) dəlalət edən tək bir əsasdır. Deyilir: «أَخْبَتَ يخبِتُ إخباتا» — təvazökar olduqda [işlədilir]. Və Allah Təaləyə təvazökar oldu. Əziz və Cəlil olan Allah buyurmuşdur: ﴿وَبَشِّرِ اَلْمُخْبِتِينَ﴾ (mənaca tərcümə: İtaətkar və təvazökar olanlara müjdə ver). Onun əsli bitkisi olmayan səhra mənasındakı «الخَبْت»dəndir. Hədisdə də bundandır: «Hətta Cəmiş xabtində olsa belə (١)». Məgər görməzsənmi ki, o [Peyğəmbər] onu cəmiş adlandırıb, sanki bitki ondan qoparılmış, yəni qırxılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:52.484Z"
+}

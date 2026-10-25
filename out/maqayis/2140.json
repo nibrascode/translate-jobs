@@ -1,0 +1,17 @@
+{
+ "i": 2140,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شوط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 228,
+  "page_to": 228
+ },
+ "ar": "الشين والواو والطاء أصلٌ يدل على مضىٍّ فى غير تثبُّت ولا فى حَقّ. من ذلك قولُهم جَرى شَوطاً أى طَلَقا. ويقولون للضَّوء الذى يدخل البيوت من الكُوّة: شَوط باطلٍ. وكان بعض الفقهاء يكره أن يقال: طاف بالبيت أشواطاً، وكان يقول: الشَّوط باطل، والطّوافُ بالبيت من الباقيات الصالحات.",
+ "az": "[شوط] (şot) — شين (şin), vav və طاء (ta) tərəddütsüz və haqsız yerə irəliləməyə dəlalət edən bir əsasdır. Onların «جَرى شَوطاً» (şot qaçdı) sözü buna misaldır, yəni bir gediş qaçdı. Evlərə pəncərədən düşən işığa «شَوط باطلٍ» (şovtu batil - batil şot) deyirlər. Bəzi fəqihlər evin ətrafında bir neçə dövrə vurmağın «طاف بالبيت أشواطاً» (tafə bil-bəyti eşvatan) kimi ifadə olunmasını xoşlamazdılar və deyərdilər: Şot batildir, evin ətrafında təvaf etmək isə qalıcı saleh əməllərdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.212Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2361,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صدح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 341,
+  "page_to": 341
+ },
+ "ar": "الصاد والدال والحاء أصَيلٌ يدلُّ على صوت. يقال صدح الدِّيك والغُراب. وكان اللِّحيانى يقول: إنّه لَصَيْدَحٌ، أى مرتفع الصَّوت.\nويقولون - وليس هو من هذا القياس: إِنَّ الصُّدْحَة خَرَزة يُؤَخَّذ بها. ويقال الصَّدَح: الإكام (٤). واللّه أعلم.",
+ "az": "[صدح] (Sədəh). Sad, dal və ha hərfləri səsə dəlalət edən kiçik bir əsasdır. Xoruzun və qarğanın səsdən ötrü “sədəhə” [صدح] dediyi söylənilir. Lihyani deyərdi ki, o, çox uca səslidir, yəni “seydəhdir” [صَيْدَح]. Onlar həmçinin — lakin bu qəbildən deyil — deyirlər ki, “sudhə” [الصُّدْحَة] sehrbazlıqda istifadə olunan bir muncuqdur. Sədəh [الصَّدَح] isə təpələrdir (٤). Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:03:16.589Z"
+}

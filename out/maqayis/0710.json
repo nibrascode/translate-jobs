@@ -1,0 +1,17 @@
+{
+ "i": 710,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 490,
+  "page_to": 490
+ },
+ "ar": "الجيم والهاء والميم يدلُّ على خلاف البَشاشة والطَّلاقة. يقال رجلٌ جهمُ الوجهِ أى كريهُهُ. ومن ذلك جَهْمة الليل وجُهْمتُه، وهى ما بين أوّلِه إلى رُبُعه. ويقال جَهَمْتُ الرّجل وتجهَّمْتُه، إذا استَقْبَلتَه بوجهه جَهْم. قال:\nفلا تَجْهَمِينَا أُمَّ عَمْرٍو فإنَّنا … بِنَا داءُ ظَبْىٍ لم تَخُنْهُ عوامِلُهُ (٣)\nومن ذلك قوله:\n* وبلدةٍ تَجَهَّمُ الجَهُوما (٤) *\nفإنّ معناه تَستَقبِلُه بما يكره. ومن الباب الجَهَام: السَّحاب الذى أراق ماءَه، وذلك أنّ خَيْرَه يقلُّ فلا يُستَشْرَف له. ويقال الجَهُوم العاجز؛ وهو قريب.",
+ "az": "[جهم] \nCim, hə və mim hərfləri gülərüzlülüyün və xoşsifətliliyin ziddi olmasına dəlalət edir. Deyilir: رجلٌ جهمُ الوجهِ (raculun cəhmul-vəch) – üzü turş və qəzəbli olan kəs. Bunlardan biri də جَهْمة الليل وجُهْمتُه (cəhmatul-ləyli və cuhmatuhu) – gecənin əvvəlindən dörddə birinə qədər olan hissəsidir. Və deyilir: جَهَمْتُ الرّجل وتجهَّمْتُه (cəhəmtur-raculə və təcəhhəmtuhu) – sən onu qəzəbli və turşuşıqlı üzlə qarşıladın. Şair demişdir:\nفلا تَجْهَمِينَا أُمَّ عَمْرٍو فإنَّنا … بِنَا داءُ ظَبْىٍ لم تَخُنْهُ عوامِلُهُ (٣)\n(Ey Ümmü Əmr, bizə qaşqabaqlı baxmayın, çünki bizim daxilimizdə elə bir ceyran xəstəliyi var ki, onun səbəbləri xain çıxmamışdır.)\nBuna misal olaraq həmçinin bu sözü də göstərmək olar:\n* وبلدةٍ تَجَهَّمُ الجَهُوما (٤) *\n*(Və elə bir ölkə ki, o, qəmli və turşuşıqlı olanı qarşılayır)*\nBunun mənası odur ki, ölkə onu xoşlamadığı şeylə qarşılayır. Bu babdandır: الْجَهَامُ (əl-cəham) – suyu tökülüb qurtarmış bulud, çünki onun xeyri azalır və artıq ona ümid edilmir. Deyilir ki, الْجَهُومُ (əl-cəhum) – aciz kəsdir; bu da məna baxımından yaxındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

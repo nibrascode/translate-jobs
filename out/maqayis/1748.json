@@ -1,0 +1,17 @@
+{
+ "i": 1748,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زقب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 16,
+  "page_to": 16
+ },
+ "ar": "الزاء والقاف والباء كلمة. يقال طريقٌ زَقَبٌ (٢)، أى ضيِّق.",
+ "az": "[زقب] (zəqb): Zay, qaf və ba hərfləri bir kəlmədir. «طريقٌ زَقَبٌ» (2) (zəqəb yol) – yəni dar yol, deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:38:09.126Z"
+}

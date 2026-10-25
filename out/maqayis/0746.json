@@ -1,0 +1,17 @@
+{
+ "i": 746,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 503,
+  "page_to": 503
+ },
+ "ar": "الجيم والباء والنون ثلاثُ كلماتٍ لا يقاس بعضُها ببعض.\nفالجُبْن: الذى يُؤكل، وربما ثقّلت نونُه مع ضم الباء. والجُبْن: صفة الجبان.\nوالجَبينان: ما عَنْ يمين الجبهةِ وشِمالِها، كلُّ واحدٍ منهما جَبين.",
+ "az": "«جبن» — جيم, ba və nun heç biri digərinə qiyas edilməyən üç kəlmədir. \n«الجُبْن» (cubn) — yeyilən pendirdir, bəzən ba hərfi zamməli olmaqla nun hərfi də təşdidli (qoşa) oxunur. «الجُبْن» (cubn) — qorxaqlıq sifətidir. \n«الجبينان» (cəbinan) — alın nahiyəsinin sağ və sol tərəfləridir, hər biri «جَبين» (cəbin) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

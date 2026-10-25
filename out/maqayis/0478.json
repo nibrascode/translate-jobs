@@ -1,0 +1,17 @@
+{
+ "i": 478,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تيس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 360,
+  "page_to": 360
+ },
+ "ar": "التاء والياء والسين كلمةٌ واحدة: التَّيس معروفٌ من الظِّباء والمَعْزِ والوُعول. من أمثالِهم: «عَنْزٌ اسْتَتَيْسَتْ» إذا صارت كالتَّيس فى جُرْأتها وحَرَكتِها. يضرب مثلاً للذَّليل يتعزَّزُ.",
+ "az": "[تيس] (t-y-s): Ta, ya və sin hərfləri tək bir kəlmədir: التَّيْسُ (ət-təys) – ceyranlar, keçi və dağ keçiləri cinsindən olan təkədir (məlumdur). Onların məsəllərində demişlər: «عَنْزٌ اسْتَتَيْسَتْ» («ənzun istətysət» – keçi təkələşdi) – cəsarətində və hərəkətində təkəyə bənzədiyi zaman deyilir. Bu, zəlil olub gücənmək istəyən kəsə məsəl çəkilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

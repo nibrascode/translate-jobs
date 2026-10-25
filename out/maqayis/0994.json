@@ -1,0 +1,17 @@
+{
+ "i": 994,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حبض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 129,
+  "page_to": 129
+ },
+ "ar": "الحاء والباء والضاد أصلان: أحدهما التحرّك، والآخَرَ النقص.\nفالحَبَضُ: التحرُّك، ومنه الحابض، وهو السَّهم الذى يقع بين يدى رامِيهِ، وذلك نقصانه على الغرض (٣). ويقال حَبَضَ ماءُ الرّكِيَّة: نَقَص.\nويقال من الثانى: أحْبَض فلانٌ بِحقّى إحباضاً، أى أبطله. وأمَّا المحابض، وهى المَشاوِر: عيدانٌ تُشْتار بها العَسَل (٤)، فممكن أن يكون من الأول. قال ابن مُقبِل:\nكأنَّ أصواتَها من حيثُ تسمعُها … صَوْتُ المحابض ينزِ عن المَحارينا (٥)",
+ "az": "[حبض] (həbəz) - Ha, ba və dad iki kökə malikdir: biri hərəkət, digəri isə əskərlikdir (azalmaq). «الحَبَضُ» — hərəkət etməkdir, bunlardandır «الحابض» — oxatanın qarşısına düşən oxdur ki, bu da hədəfə çatmayaraq əskilməsidir (٣). Və deyilir: «حَبَضَ ماءُ الرّكِيَّة» — quyunun suyu azaldı. İkincisindən deyilir: «أحْبَض فلانٌ بَحَقّى إحباضاً» — filankəs mənim haqqımı batil etdi, puç etdi. «المحابض» olan məsləhətləşmə yerlərinə gəldikdə, onlar bal süzülən çubuqlardır (٤), birincidən olması mümkündür. İbn Muqbil demişdir:\nكأنَّ أصواتَها من حيثُ تسمعُها … صَوْتُ المحابض ينزِ عن المَحارينا (٥)\n*(Eşitdiyiniz yerdən onların səsləri sanki... bal pətəklərindən süzən çubuqların səsinə bənzəyir)*",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

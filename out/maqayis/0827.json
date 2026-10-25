@@ -1,0 +1,17 @@
+{
+ "i": 827,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حدل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 34,
+  "page_to": 34
+ },
+ "ar": "الحاء والدال واللام أصلٌ واحدٌ، وهو المَيَل، يقال رجلٌ أحدَلُ، إِذا كان فى شِقِّه مَيَل، وهو الحَدَل. قال أبو عمرو: الأحدَل: الذى فى مَنْكِبَيه ورقَبَته انكبابٌ على صدره. ويقال قَوْسٌ مُحْدَلة وحَدْلاء، وذلك إذا تطامنَتْ سِيَتُها. والحَدْل: ضِدُّ العَدْل. قال أبو زيد: حَدَلَ عن الأمر يحدِل حدْلا.\nوإِنه لَحَدْلٌ غير عَدْل. ومما شدَّ عن الباب وما أدرى أصحيحٌ هو أم لا، قولهم:\nالحَوْدل الذَّكر من القِرَدة (٣).",
+ "az": "«حدل» (hədl): Ha, dal və lam hərflərindən ibarət olub tək bir kökdür, o da əyrilikdir. Deyilir: «رجلٌ أحدَلُ» (əyri kişi), tərəfində əyrilik olduğu zaman, bu da «الحَدَل» (hədl) adlanır. Əbu Əmr demişdir: «الأحدَل» (əl-əhdəl) — çiyinləri və boynu sinəsinə doğru əyilmiş kəsdir. Və deyilir: «قَوْسٌ مُحْدَلة» və «حَدْلاء» (əyilmiş yay), bu da ucları aşağı ərildiyi zaman olur. Və «الحَدْل» (hədl) — «العَدْل»in (ədalətin) əksidir. Əbu Zeyd demişdir: «حَدَلَ عن الأمر يحدِل حدْلا» (işdən uzaqlaşdı, əyildi).\nVə həqiqətən, o, ədalətdən kənar, əyridir (لَحَدْلٌ غير عَدْل). Fəslin çərçivəsindən kənara çıxan və doğru olub-olmadığını bilmədiyim şey isə onların bu sözüdür: «الحَوْدل» (əl-hövdəl) — erkək meymundur (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

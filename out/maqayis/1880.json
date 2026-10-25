@@ -1,0 +1,17 @@
+{
+ "i": 1880,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سفط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 83,
+  "page_to": 83
+ },
+ "ar": "السين والفاء والطاء ليس بشئ، وما فى بابه ما يعوّل عليه، إلاّ أنّهم سمّوا هذا السّفَط. ويقولون: السفيط السّخىّ من * الرجال. وأنشدوا:\nليس بذى حزم ولا سَفيطِ (٢)\nوهذا ليس بشئ.",
+ "az": "[سفط] السين والفاء والطاء (sin, fa və ta) heç bir əsas deyil, onun babında etibar ediləcək bir şey yoxdur, yalnız bu səfəti (السَّفَط) adlandırmışlar. Və deyirlər: əs-səfit (السفيط) – kişilərin səxavətlisi. Və bu beyt söyləmişlər: ليس بذى حزم ولا سَفيطِ (٢) (Nə qətiyyət sahibidir, nə də səxavətli). Və bu, heç bir şey deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:54.004Z"
+}

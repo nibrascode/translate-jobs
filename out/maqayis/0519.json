@@ -1,0 +1,17 @@
+{
+ "i": 519,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 377,
+  "page_to": 377
+ },
+ "ar": "الثاء والعين والراء بناءٌ إنْ صحَّ دلَّ على قمَاءةٍ وصِغَر.\nفالثُّعْرُورَانِ كالحلمتين تكتنِفان ضَرْعَ الشاة. وعلى هذا قالوا للرجل القصير ثُعْرُور.",
+ "az": "[ثعر] الثاء والعين والراء بناءٌ إنْ صحَّ دلَّ على قمَاءةٍ وصِغَر (Thə, ayn və ra bir binadır ki, əgər səhihdirsə, alçaqlığa və kiçikliyə dəlalət edər). Və الثُّعْرُورَانِ (əs-sürurani) qoyunun məməsini əhatə edən iki məməcik kimidir. Buna əsasən qısa boylu kişiyə ثُعْرُور (sürur) demişlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.076Z"
+}

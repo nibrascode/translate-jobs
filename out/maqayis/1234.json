@@ -1,0 +1,17 @@
+{
+ "i": 1234,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دسوا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 277,
+  "page_to": 277
+ },
+ "ar": "الدال والسين والحرف المعتل أصلٌ واحد يدلُّ على خَفاءِ وسَتْر. يقال دَسَوْتُ الشّئَ أدْسُوه، ودسَا يدسُو، وهو نقيض زَكَا.\nفأمّا قوله تعالى: ﴿وَقَدْ خابَ مَنْ دَسّاها﴾، فإنّ أهل العلم قالوا: الأصل دَسَّسَها، كأنَّه أخفاها. وذلك أنّ السَّمْحَ ذا الضِّيافةِ يَنزِل بكلِّ بَراز، وبكل يَفَاع؛ ليَنْتابَه الضِّيفَانُ، والبَخيلَ لا ينزِلُ إلاَّ فى هَبْطَةٍ أو غامض، فيقول اللّه تعالى:\n﴿قَدْ أَفْلَحَ مَنْ زَكّاها. * وَقَدْ خابَ مَنْ دَسّاها﴾ أى أخفاها، أو أغْمَضها.\nوهذا هو المعوَّل عليه. غير أنّ بعضَ أهلِ العِلم قال: دَسّاها، أى أغواها وأغراها بالقَبيح. وأنشد:\nوأنتَ الذى دَسّيْتَ عَمْراً فأصبحتْ … حلائلُه منه أَرامِلَ ضُيَّعَا (٣)",
+ "az": "[دسوا] (Dəsu): Dal, sin və uzanan hərf gizliliyə və örtülməyə dəlalət edən tək bir əsl kökdür. دَسَوْتُ الشّئَ أدْسُوه (şeyi gizlətdim) və دسَا يدسُو (gizləndi) deyilir ki, bu da زَكَا (artdı, təmizləndi) sözünün əksidir.\nUca Allahın ﴿وَقَدْ خابَ مَنْ دَسّاها﴾ (mənaca tərcümə: Və onu gizlədən (və ya xarab edən) ziyana uğramışdır) ayəsinə gəlincə, elm əhli demişdir: Əsli دَسَّسَها (dəsəsəha) kimidir, sanki onu gizlətdi. Belə ki, qonaqpərvər səxavətli şəxs qonaqların gəlməsi üçün hər açıq sahədə və hər uca yerdə düşərgə salar, xəsis isə ancaq çökəklikdə və ya gizli yerdə düşərgə salar. Uca Allah buyurur: ﴿قَدْ أَفْلَحَ مَنْ زَكّاها. * وَقَدْ خابَ مَنْ دَسّاها﴾ (mənaca tərcümə: Nəfsini təmizləyən mütləq nicat tapmışdır. Və onu basdıran/gizlədən isə əlbəttə zian etmişdir) — yəni onu gizlətdi və ya gözdən qoydu.\nDayaq nöqtəsi budur. Lakin elm əhlindən bəziləri demişdir: دَسّاها — yəni onu azdırdı və çirkin işlərə həvəsləndirdi. Şair şeir söyləmişdir:\nوأنتَ الذى دَسّيْتَ عَمْراً فأصبحتْ … حلائلُه منه أَرامِلَ ضُيَّعَا (٣)\n(Əmri yoldan çıxardan sənsən, nəticədə onun arvadları yetim və kimsəsiz dul qadınlar qaldılar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:45.024Z"
+}

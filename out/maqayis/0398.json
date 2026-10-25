@@ -1,0 +1,17 @@
+{
+ "i": 398,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بخنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 335,
+  "page_to": 335
+ },
+ "ar": "والبُخْنُق: البُرْقُع القصير، وقال الفرّاء: البُخْنُق (٤) خِرْقَةٌ تَلْبَسُها المرأة تَقِى بها الخِمارَ الدُّهْنَ.",
+ "az": "[بخنق] (Bə-ha-nun-qaf) «البُخْنُق» (əl-buhnuq): qısa bürüncək. Fərrə dedi: «البُخْنُق» (əl-buhnuq) qadının hicabını yağdan qorumaq üçün taxdığı bir parça növüdür.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.771Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1502,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رطن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 404,
+  "page_to": 404
+ },
+ "ar": "الراء والطاء والنون بناءٌ ليس بالمُحْكَم ولا له قياسٌ فى كلامهم، إلاّ أنّهم يقولون: تراطَنُوا، إذا أتَوْا بكلامٍ لا يُفهَم؛ ويُخَصُّ بذلك العَجم. قال.\nفأثارَ فارِطُهُمْ غَطَاطاً جُثَّماً … أصواتُهُ كَتَراطُنِ الفُرسِ (١)\nويقال الرّطَّانة: الإبل معها أهلُها. قال:\n* رَطَّانة مَنْ يَلْقَها يُخَيَّبِ (٢) *",
+ "az": "[رطن] (rə-tə-n). Möhkəm olmayan və nitqdə heç bir qisası olmayan quruluşdur, lakin onlar: تَرَاطَنُوا (təratanu) – anlaşılmayan dildə danışdıqda deyirlər, bu, əsasən əcəmlərə aid edilir. [Şair] demişdir: فَأَثَارَ فَارِطُهُمْ غَطَاطاً جُثَّماً … أَصوَاتُهُ كَتَرَاطُنِ الفُرْسِ (١) (Onların öncülü yerində donmuş quşları qovub qaldırdı... səsləri Farsların anlaşılmaz danışığı kimi idi). Deyilir ki, الرَّطَّانَة (ar-rattanə) – əhli ilə birlikdə olan dəvələrdir. [Şair] demişdir: رَطَّانَةُ مَنْ يَلْقَهَا يُخَيَّبِ (٢) (Onunla rastlaşanı məyus edən dəvə karvanı...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

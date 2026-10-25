@@ -1,0 +1,17 @@
+{
+ "i": 1559,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ركن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 430,
+  "page_to": 431
+ },
+ "ar": "الراء والكاف والنون أصلٌ واحد يدلُّ على قُوَّة.\nفرُكن الشَّئ: جانبه الأقوى. وهو يأوى إلى رُكْنٍ شديد، أى عِزًّ ومَنْعَة.\nومن الباب رَكَنْتُ إليه أرْكَن. وهى كلمةٌ نادرة على فَعَلْتُ أفْعَلُ من غير حرفٍ حلق. وفلانٌ ركينٌ، أى وقور ثابت. والمرْكن: الإجَّانة. ويقال: جبلٌ رَكِينٌ (٣)، أى له أركان عالية. وركَنْت إليه أى مِلْتُ؛ وهو من الباب، لأنه\nسكن إليه وثبت عنده. قال الخليل: رَكَنَ يَرْكَنُ رَكْناً. ولغة سُفْلَى مضَر: ركِن يرْكَن. ويقال ركِنَ يَرْكُنُ، وفيه نظَر. وحكى أبو زيد: رَكِنَ يَرْكَنُ. وناقة مُرَكَّنَة الضَّرْع، أى مُنْتَفِخَتُه، أى كَأنَّه رُكْن.",
+ "az": "[ركن] (Rəkən): Ra, kaf və nun hərfləri qüvvəyə dəlalət edən tək bir əsasdır. رُكن الشَّئ (rukunüş-şey-i): onun ən güclü tərəfi. O, güclü bir dayağa sığınır, yəni izzət və qorunmaya. \nBu babdandır: رَكَنْتُ إليه أرْكَن (rakəntu iləyhi arqunu). Bu, həlqə hərfi olmadan فَعَلْتُ أفْعَلُ (fəalətu əf’alu) qəlibində gələn nadir sözlərdəndir. Filankəs ركينٌ (rakiun) – ağırbaşlı və sabitqədəm insandır. Və المَرْكن (əl-markən): ləyən. Deyilir: جبلٌ رَكِينٌ (cabalun rakiun) – uca sütunları olan dağ. ركَنْتُ إليه (rakəntu iləyhi) – ona meyletdim; bu da əsardəndir, çünki o ona sığındı və yanında sabit qaldı. Xəlil demişdir: رَكَنَ يَرْكَنُ رَكْناً (rakənə yarkunu rəknən). Mudar dilində aşağı ləhcə: ركِن يرْكَن (rakinə yarkənu). Və ركِنَ يَرْكُنُ (rakinə yarkunu) da deyilir, bunda nəzər (araşdırma) vardır. Əbu Zeyd rəvayət etmişdir: ركِنَ يَرْكَنُ (rakinə yarkənu). Və ناقة مُرَكَّنَة الضَّرْع (naqatun murakkanətuz-dar'i) — sinəsi şişmiş, sanki sütun kimi olan dəvə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1504,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رطب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 404,
+  "page_to": 404
+ },
+ "ar": "الراء والطاء والباء أصلٌ واحدٌ يدلُّ على خلاف اليُبْس.\nمن ذلك الرَّطْب والرَّطِيب. والرُّطْب: المرعى، بضم الراء. والرُّطَب معروف.\nويقال أرْطَبَ النَخْل إرطاباً. ورطَّبْتُ القومَ تَرطيباً، إذا أطعمتَهم رُطَباً.\nوالرِّطاب (٣) من النَّبت. تقول: رطَبْتُ الفرسَ أرطُبه رطْباً ورُطوباً. والرَّطْبَة:\nاسمٌ للقَضْب خاصّةً ما دام رَطْبا. ورِيشٌ رَطِيبٌ، أى ناعم. وحكى ناسٌ عن أبى زيد: رَطِبَ الرجُل بما عنده يَرْطَبُ (٤)، إذا تكلَّم بما كان عنده مِنْ خطإٍ أو صواب. واللّه أعلم.",
+ "az": "[رطب] (rə-tə-b). Quruluğun əksinə dəlalət edən tək bir əsasdır. Bunlardan رَطْب (ratb) və رَطِيب (ratib) [sözləridir]. الرُّطْب (ar-rutb) – ra hərfinin zamməsi ilə otlaq. الرُّطَب (ar-rutab) – məlum olan [xurma]. Deyirlər: أَرْطَبَ النَّخْلُ إِرْطَاباً (artaba ən-nahlu irtaban) [xurma ağacı yetişdi]. Qövmə rutəb (təzə xurma) yedirtdiyin zaman رَطَّبْتُ الْقَوْمَ تَرْطِيباً (rattabtu əl-qavmə tartiban) [deyirsən]. Bitkidən olan الرِّطَاب (ar-rizab). Deyirsən: رَطَبْتُ الْفَرَسَ أَرْطُبُهُ رَطْباً وَرُطُوباً (ratabtu əl-farasə artubuhu ratban va rutubən). الرَّطْبَة (ar-ratbatə) – xüsusilə yaş olduğu müddətcə qəzb (yonca) bitkisinin adıdır. رِيشٌ رَطِيبٌ (rişun ratibun) – yəni yumşaq lələk. Bəzi adamlar Əbu Zeyddən rəvayət etmişlər: رَطِبَ الرَّجُلُ بِمَا عِنْدَهُ يَرْطَبُ (ratiba ər-rajulu bima indahu yartabu) – kişinin yanında olan xəta və ya savabdan danışdığı zaman. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.016Z"
+}

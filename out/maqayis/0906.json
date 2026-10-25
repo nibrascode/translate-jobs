@@ -1,0 +1,17 @@
+{
+ "i": 906,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حفز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 85,
+  "page_to": 86
+ },
+ "ar": "الحاء والفاء والزاء كلمةٌ واحدةٌ تدلّ على الحثّ وما قرب منه.\nفالحفزُ: حثُّك الشئَ مِنْ خلفه. [والرّجُل (٤)] يحتفز فى جلوسه إذا أراد القيام، كأنَّ حَاثَّه حَثَهُ ودافعاً دفعهُ. يقال: اللّيل يسوقُ النهارَ ويحفِزه. ويقال حَفَزْت\nالرجُلَ بالرُّمح. وسُمِّى الحَوفزانُ من ذلك بقلة (١). قال:\nونحنُ حَفَزْنا الحوفزانَ بطعنةٍ … سقتْه نَجيعاً من دمِ الجوف أَشْكلا (٢)",
+ "az": "«حفز» (həfəz): Haa, fa və zay təhrik etməyə və ona yaxın olan şeyə dəlalət edən tək bir kəlmədir. «الحفز» (əl-həfəz) — bir şeyi arxasından təhrik etməyindir. «[والرّجُل] يحتفز فى جلوسه» ([Vər-rəcül] yahtəfizu fi culusihə — kişi) qalxmaq istədikdə oturacağında yerindən tərpənir, sanki onu təhrik edən təhrik etmiş və itələyən itələmişdir. Deyilir: «اللّيل يسوقُ النهارَ ويحفِزه» (Gecə gündüzü qovur və təhrik edir). Deyilir: «حَفَزْت الرجُلَ بالرُّمح» (Həfərtur-rəcülə bir-rumh — kişini nizə ilə itələdim/təhrik etdim). «الحَوفزان» (əl-həwfəzan) da az sözlə bundan adlandırılmışdır. O demişdir: «ونحنُ حَفَزْنا الحوفزانَ بطعنةٍ … سقتْه نَجيعاً من دمِ الجوف أَشْكلا» (Biz hovfəzanı elə bir zərbə ilə itələdik ki, o, daxili orqanların qanından ona qırmızı bir içki içirtdi).",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:02:08.982Z"
+}

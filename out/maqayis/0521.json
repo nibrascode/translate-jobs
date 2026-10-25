@@ -1,0 +1,17 @@
+{
+ "i": 521,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 378,
+  "page_to": 378
+ },
+ "ar": "الثاء والعين والباء أصلٌ يدلُّ على امتداد الشئ وانبساطِه، يكون ذلك فى ماءٍ وغيره.\nقال الخليل: يقال ثَعَبْت الماءَ وأنا أثعَبهُ، إذا فجّرته فانثَعب، كانثعاب الدّم من الأنف. قال: ومنه اشتُقّ مَثْعَب المَطَر. وممّا يصلُح حمْلُه على هذا، الثُّعبانُ الحيّةُ الضَّخْم الطويل؛ وهو من القياس، فى انبساطه وامتداده خَلْقًا وحركةً. قال:\n* على نَهْجٍ كثُعبانِ العَرينِ *\nوربّما قيل ماءٌ ثَعْبٌ، ويجمع على الثُّعبان.",
+ "az": "[ثعب] الثاء والعين والباء أصلٌ يدلُّ على امتداد الشئ وانبساطِه (Thə, ayn və ba şeyin uzanmasına və yayılmasına dəlalət edən bir əsasdır), bu, suda və başqa şeydə olur. Xəlil demişdir: Deyilir: ثَعَبْتُ الماءَ وأنا أثعَبهُ (Suyun səabtü etdim və mən onu əsəbubu edirəm), onu fışqırtdığım zaman, nəticədə burnundan qanın axması kimi o da axdı. O demişdir: Mətbərin (yağış suyunun) axarı olan مَثْعَب (mətsəb) bundan törədilmişdir. Buna həml olunması uyğun gələnlərdən biri də uzun və böyük ilan olan الثُّعبان (əs-sübən)-dir; bu da xilqət və hərəkətində yayılması və uzanması etibarilə qiyasdandır. O demişdir: * على نَهْجٍ كثُعبانِ العَرينِ * (Meşəliyin sübəni kimi bir yolda) (كى). Bəzən su üçün ثَعْبٌ (səb) denilir və الثُّعبان (əs-sübən) olaraq cəmlənir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.076Z"
+}

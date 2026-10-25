@@ -1,0 +1,17 @@
+{
+ "i": 910,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حفض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 86,
+  "page_to": 87
+ },
+ "ar": "الحاء والفاء والضاد أصلٌ واحد، وهو يدلُّ على سقوط الشئ وخُفُوفِه (٦). فالحَفض مَتاع البيت؛ ولذلك سمِّى البعير الذى يحمله حَفَضًا.\nوالقياسُ ما ذكرناه؛ لأنّ الأحفاض تسمَّى الأسقاط. ويقال حفَضْت العُود، إذا حنيتَه. قال الراجز:\n* إمَّا تَرَىْ دَهراً حَنانِى حَفْضَا (١) *\nقال الأصمعىُّ: حفضتُ [الشئ (٢)] وحَفَّضْتُه، بالتخفيف والتشديد، إذا فألقيتَه. وأنشد:\n* إمَّا تَرَىْ دَهْراً حنانى حَفْضا *\nفمعناه ألْقانى. والأحفاض فى قول عمرو بن كلثوم:\nونحن إذا عِمَادُ الحَىِّ خَرَّت … على الأحفاضِ نَمنَعُ مَنْ يَلِينا (٣)\nهى الإبل أَوَّلَ ما تُركَب. ويقال بل الأحفاص عُمُد الأخبية.",
+ "az": "«حفض» (həfəz): Haa, fa və dad tək bir əsasdır, o da bir şeyin düşməsinə və yüngüllüyünə dəlalət edir. «الحفض» (əl-həfəz) — ev əşyasıdır; buna görə də onu daşıyan dəvə də «حَفَض» (həfəz) adlandırılmışdır. Qiyas isə qeyd etdiyimizdir; çünki əşyalar «أسقاط» (əsqat) adlanır. Deyilir: «حفَضْت العُود» (Həfəvtul-udə) — çöpü əyə bildiyin zaman. Raciz demişdir: * «إما تَرَىْ دَهراً حَنانِى حَفْضَا» * (Əgər zamanın məni əydiyini [və ya yerə atdığını] görsən). Əsməi demişdir: «حفضتُ [الشئَ] وحَفَّضْتُه» (Həfəftü [eş-şeyə] və həffəftühü) — yüngülləşdirmə və gücləndirmə ilə, bir şeyi atdığın zaman. Və bu beytə istinad etmişdir: * «إما تَرَىْ دَهْراً حنانى حَفْضا» * — yəni məni atdı. Əmr ibn Kulsunun sözündəki «الأحفاض» (əl-əhfaad): «ونحن إذا عِمَادُ الحَىِّ خَرَّت … على الأحفاضِ نَمنَعُ مَنْ يَلِينا» (Biz o zaman ki, qəbilənin dirəyi yıxılar... əhfaad üzərinə, bizə yaxın olanı qoruyuruq) — onlar ilk minib minikə çevrilən dəvələrdir. Deyilir ki, bəlkə də əhfaad çadırların dirəkləridir.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:02:08.982Z"
+}

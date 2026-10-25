@@ -1,0 +1,17 @@
+{
+ "i": 1312,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دهى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 305,
+  "page_to": 305
+ },
+ "ar": "الدال والهاء والحرف المعتلّ يدلُّ على إِصابة الشّئ بالشئ بما لا يَسُرُّ. يقال ما دَهَاه: أىْ ما أصابه. لا يقال ذلك إلاّ فيما يسوء. ودواهِى الدَّهر: ما أصابَ الإنسانَ من عظائم نُوَبِه. والدَّهْى: النَّكْر وجَودةُ الرّأى؛ وهو من الباب؛ لأنَّه يُصِيب برأيه ما يريدُه.",
+ "az": "[دهى] \nالدال والهاء والحرف المعتل (د-ه-ى) يدلُّ على إِصابة الشّئ بالشئ بما لا يَسُرُّ (bir şeyin başqa bir şeyə sevindirməyən bir şəkildə çarpmasına/üzləşməsinə dəlalət edir). يقال ما دَهَاه (Deyilir ki, ona nə oldu?): أىْ ما أصابه (yəni ona nə üz verdi). لا يقال ذلك إلاّ فيما يسوء (Bu, yalnız xoşagəlməz hallarda deyilir). ودواهِى الدَّهر (Zəmanənin bəlaları): ما أصابَ الإنسانَ من عظائم نُوَبِه (insanın başına gələn böyük fəlakətlər). والدَّهْى (Dəhy): النَّكْر وجَودةُ الرّأى (zirəklik və təmkinli, gözəl rəy); وهو من الباب (və bu da həmin fəsildəndir)؛ لأنَّه يُصِيب برأيه ما يريدُه (çünki o, öz rəyi ilə istədiyinə nail olur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:59.953Z"
+}

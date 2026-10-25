@@ -1,0 +1,17 @@
+{
+ "i": 977,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حيث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 122,
+  "page_to": 122
+ },
+ "ar": "الحاء والياء والثاء ليست أصلا؛ لأنَّها كلمةٌ موضوعة لكلِّ مكانٍ، وهى مبهمة، تقول اقعد حيثُ شئت، وتكون مضمومة. وحكى الكسائى فيها الفتحَ أيضاً.",
+ "az": "[حيث] الحاء, Yə və Sə hərfləri əsl kök deyil; çünki bu, hər bir məkana aid edilən və qeyri-müəyyən olan bir kəlmədir. Deyirsən: اقعد حيثُ شئت (iqud həyşu şişt – harada istəsən otur), o, zəmmə ilə oxunur. Kəsai onun fəthə ilə də işləndiyini rəvayət etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:27.843Z"
+}

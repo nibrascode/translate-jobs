@@ -1,0 +1,17 @@
+{
+ "i": 2311,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 316,
+  "page_to": 316
+ },
+ "ar": "الصاد والهاء والباء بناءٌ صحيح، وهو لونٌ من الألوان.\nمن ذلك الصُّهْبَة: حُمرةٌ فى الشَّعر. يقال رجلٌ أصهب. والصَّهباء: الخمْر؛ لأنّ لونَها شبيهٌ بهذا. والمُصَهَّب من اللحم: ما اختلطت حُمرتُه ببياض الشَّحم وهو يابس. وأمّا الصُّخور فيقال لها الصَّياهِب، فممكنٌ أن يكون ذلك اللَّون، ويمكن أن يكون لشدتها، أو يكون من الصَّيْخَد ويصير من باب الإبدال. ويقولون لليوم الشَّديد البرد: أصهب، وذلك لما يعلو الأرض من الألوان.",
+ "az": "«صهب» (Sad, hə və ba) - rənglərdən bir rəngi bildirən səhih bir binadır. Bunlardan biri «الصُّهْبَة» — saçda olan qırmızılıqdır. Kişi üçün «أصهب» (qırmızımtıl, sarımtıl) deyilir. «الصَّهباء» — şərabdır; çünki onun rəngi buna bənzəyir. Ətdən olan «المُصَهَّب» — qırmızılığı piyin ağlığı ilə qatışmış və quru olan ətdir. Qayalara gəldikdə isə, onlara «الصَّياهِب» deyilir, bunun həmin rəngdən olması mümkündür, onun şiddətindən olması da mümkündür və ya «الصَّيْخَد» sözündən olub əvəzlənmə (ibդal) fəslindən olması da mümkündür. Şiddətli soyuq günə görə də «أصهب» deyirlər, bu da yerin üzünü bürüyən rənglərlə əlaqədardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

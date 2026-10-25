@@ -1,0 +1,17 @@
+{
+ "i": 2445,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضبح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 385,
+  "page_to": 385
+ },
+ "ar": "الضاد والباء والحاء أصلانِ صحيحان: أحدهما صوتٌ، والآخَرُ تغيُّرُ لون من فعلِ نار.\nفالأوَّل قولُهم: ضبَحَ الثّعلبُ يَضْبَح ضَبْحاً. وصَوْتُه الضُّبَاح، وهو ضابح.\nقال:\nدعوتُ ربِّى وهو لا يُخَيِّبُ … بأنّ فيها ضابحاً ثعَيلِبْ\nفأمّا قولُه تعالى: ﴿وَاَلْعادِياتِ ضَبْحاً﴾ فيقال هو صوتُ أنفاسها، وهذا أقيَسُ، ويقال: بل هو عدْوٌ فوق التَّقْريب. وهو فى الأصل ضَبَع، وذلك أن يمُدّ ضَبْعَيْه حتى لا يجدَ مَزِيداً. وإن كان كذا فهو من الإبدال.\nوأمّا الأصل الثانى فالضَّبْح: إحراقُ أعالى العُود بالنار. والضِّبْح: الرَّماد.\nوالحجارة المضبوحة هى قَدَّاحة النّار، التى كأنها محترقة. قال:\nوالمرْوَذَا القَدَّاحِ مضبوحَ الفِلَق (١)\nويقال الانضباح تغيُّرُ اللون إلى السواد.",
+ "az": "«ضبح»: الضاد, الباء, والحاء (d, b, h) — iki səhih əsl vardır: biri səs, diğəri isə oddan rəngin dəyişməsidir. Birincisi onların bu sözüdür: «ضبَحَ الثّعلبُ يَضْبَح ضَبْحاً» — tülkü səhv etdi, hürməyə bənzər səs çıxartdı. Onun səsi «الضُّبَاح»dır, o isə «ضابح»dir (səs çıxaran). O demişdir: دعوتُ ربِّى وهو لا يُخَيِّبُ … بأنّ فيها ضابحاً ثعَيلِبْ (Rəbbimə dua etdim, o məni məyus etməz... ki, orada səs çıxaran kiçik tülkü var). Uca Allahın «﴿وَاَلْعادِياتِ ضَبْحاً﴾» sözünə gəldikdə, deyilir ki, bu, onların nəfəslərinin səsidir, bu daha düzgün qaydadır. Həmçinin deyilir: Xeyr, əksinə, o, adi qaçışdan yuxarı olan bir qaçışdır. Bu, əslində «ضَبَع»dir, yəni ön ayaqlarını elə uzadar ki, artıq bundan artığı olmasın. Əgər belədirsə, bu, ibdal (hərf əvəzlənməsi) qrupundandır. İkinci əslə gəldikdə, «الضَّبْح» — odla oduncağın yuxarı hissəsini yandırmaqdır. «الضِّبْح» — kül. Yandırılmış daşlar od çaxmaqda istifadə olunan, elə bil yanmış kimi olan daşlardır. O demişdir: والمرْوَذَا القَدَّاحِ مضبوحَ الفِلَق (1) (Yandırlımış qəlpələri olan, od çaxan daş...). Deyilir ki, «الانضباح» — rəngin qaraya doğru dəyişməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

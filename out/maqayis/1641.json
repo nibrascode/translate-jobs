@@ -1,0 +1,17 @@
+{
+ "i": 1641,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رأس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 471,
+  "page_to": 471
+ },
+ "ar": "الراء والهمزة والسين أصلٌ يدل على تجمُّعٍ وارتفاع.\nفالرَّأْس رأسُ الإنسانِ وغيرِه. والرأس: الجماعة الضخمة فى قول ابن كُلثوم:\nبِرأسٍ من بنى جُشَمِ بنِ بكرٍ … نَدُقُّ به السُّهولَةَ والحُزُونا (١)\nوالأرْأَسُ: الرَّجُل العظيم الرأْس. ويقال بعيرٌ رَءُوسٌ (٢)، إذا لم يَبْقَ له مِرْقٌ إلاّ فى رأسه. وشاة رأْساءُ، إذا اسودَّ رأسُها. والرَّئيس: الذى قد ضُرِب [رأسُه]. ويقال سحابةٌ رائِسة، وهى التى تَقْدُم السَّحابَ. ويقال أنت على رأس أمرك. والعامّة تقول: على رَأْس أمرك.",
+ "az": "«رأس»: (Ra, Həmzə, Sin) toplanma və ucalığa dəlalət edən bir əsldir. الرَّأْس (ər-rəs): insanın və başqasının başı. الرأس (ər-rəs): İbn Kulsumun bu sözündə böyük dəstə deməkdir: بِرَأْسٍ مِنْ بَنِي جُشَمِ بْنِ بكرٍ … نَدُقُّ به السُّهولَةَ والحُزُونا (1) (Bəkr ibn Cüşəm oğullarından bir dəstə ilə... onunla düzənliyi və dağlıq yeri əzirik). الأَرْأَسُ (əl-ərs): başı böyük olan kişi. Deyilir: بَعِيرٌ رَءُوسٌ (rəus dəvə) - elə bir dəvədir ki, ətindən yalnız başı qalmışdır. وَشَاةٌ رَأْساءُ (rəsa qoyun) - başı qaralan qoyun. الرَّئِيسُ (ər-rəis): başı vurulmuş kəs. Deyilir: سَحَابَةٌ رَائِسَةٌ (rəisə bulud) - buludların önündə gedən buluddur. Deyilir: أَنْتَ عَلَى رَأْسِ أَمْرِكَ (Sən öz işinin başındasan). Avam camaat isə: عَلَى رَأْسِ أَمْرِكَ deyir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.916Z"
+}

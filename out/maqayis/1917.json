@@ -1,0 +1,17 @@
+{
+ "i": 1917,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سمد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 100,
+  "page_to": 100
+ },
+ "ar": "السين والميم والدال أصلٌ يدل على مضىٍّ قُدُما من غير تعريج. يقال سمَدت الإِبلُ فى سيرها، إذا جَدّتْ (١) ومَضت على رءوسها.\nوقال الراجز:\nسَوَامِدُ الليل خفافُ الأزوادْ (٢)\nقول: ليس فى بطونها عَلَف. ومن الباب السُّمود الذى هو اللّهو. والسّامد هو اللاهى. ومنه قوله جلّ وعلا: ﴿وَأَنْتُمْ سامِدُونَ﴾ أى لاهون: وهو قياس الباب؛ لأنّ اللاهى يمضى فى أمْره غير معرِّج ولا متمكِّث. وينشدون:\nقيل قُمْ فانظر إليهم … ثمّ دَعْ عنك السُّمودا (٣)\nفأمَّا قولهم سَمَّد رأسه، إذا استأصل شَعره، فذلك من باب الإبدال؛ لأن أصله الباء، وقد ذكر.",
+ "az": "[سمد] (sin, mim və dal) — yayınmadan irəliyə doğru getməyə dəlalət edən bir əsasdır. «سمَدت الإِبلُ فى سيرها» — dəvələr səfərlərində canfəşanlıq etdikdə və başı aşağı irəlilədikdə deyilir (١). Racəz (şeir) yazan demişdir: «سَوَامِدُ الليل خفافُ الأزوادْ» (٢). Deyilir ki, onların qarınlarında yem yoxdur. Bu qapıdandır: «السُّمود» — əyləncə deməkdir. «السَّامد» — əylənən kəsdir. Uca və böyük Allahın bu sözü də bundandır: ﴿وَأَنْتُمْ سامِدُونَ﴾, yəni əylənənlər deməkdir. Bu, qapının ölçüsünə uyğundur; çünki əylənən kəs yayınmadan və dayanmadan öz işində irəliləyir. Onlar belə şeir oxuyurlar: «قيل قُمْ فانظر إليهم … ثمّ دَعْ عنك السُّمودا» (٣) (Deyildi: Qalx, onlara bax... sonra əyləncəni burax). Amma onların «سَمَّد رأسه» (saçını dibindən qırxdı) demələrinə gəldikdə, o, hərflərin əvəzlənməsi (ibdal) بابındandır; çünki onun əsli ba hərfi ilədir və artıq zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:46:25.159Z"
+}

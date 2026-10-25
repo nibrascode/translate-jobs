@@ -1,0 +1,17 @@
+{
+ "i": 1037,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 158,
+  "page_to": 158
+ },
+ "ar": "الخاء والثاء ليس أصلَا ولا فرعاً صحيحاً يُعَرَّج عليه، ولكنّا نذكُر ما يذكرونه. يقولون: الخُثّ ما أُوخِفَ من أخْثاء البقر وطلِى به شئ، وليس هذا بشئ، ويقال الخُثَّ: غُثَاء السَّيل إذا تركَه السيلُ فيبِس واسوَدَّ.",
+ "az": "[خث] الخاء والثاء ليس أصلَا ولا فرعاً صحيحاً يُعَرَّج عليه (Xar və sa nə əsasdır, nə də ona üz tutulacaq səhih bir budaqdır), ولكنّا نذكُر ما يذكرونه (Lakin biz onların zikr etdiklərini zikr edirik). يقولون (Deyirlər ki): الخُثّ ما أُوخِفَ من أخْثاء البقر وطلِى به شئ (əl-xuss – inək peyinlərindən yığılıb bir şeyin üzərinə sürtülən şeydir), وليس هذا بشئ (və bu heç bir şey deyil), ويقال الخُثَّ (və xuss deyilər): غُثَاء السَّيل إذا تركَه السيلُ فيبِس واسوَدَّ (selin qoyub getdiyi, sonra quruyub qaralmış sel çör-çöpüdür).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:32.375Z"
+}

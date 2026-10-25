@@ -1,0 +1,17 @@
+{
+ "i": 1807,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زيم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 41,
+  "page_to": 41
+ },
+ "ar": "الزاء والياء والميم أصلٌ يدلُّ على تجمّعٍ. يقال لحم زِيَمٌ، أى مُكتنِز. ويقال اجتمع الناسُ فصارُوا زِيَما. قال الخليل:\n«والخيل تعدُو زِيَمًا حولنا»",
+ "az": "[زيم] (zim). الزاء (ز) və الياء (ي) və الميم (م) toplanmağa dəlalət edən bir əsldir. لحم زِيَمٌ (zim ət) — yəni əzələli, əti bərk olan ət, deyilir. Və deyilir ki, insanlar toplandı və زِيَمًا (ziman - dəstələr, qruplar) halına gəldilər. Əl-Xəlil demişdir: «والخيل تعدُو زِيَمًا حولنا» (Atlar ətrafımızda dəstə-dəstə qaçırlar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.436Z"
+}

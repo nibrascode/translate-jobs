@@ -1,0 +1,17 @@
+{
+ "i": 1168,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خيس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 233,
+  "page_to": 233
+ },
+ "ar": "الخاء والياء والسين أُصَيلٌ يدلُّ على تذليلٍ وتليين. يقال خيَّستُه، إذا لَيَّنْتَهُ وذلَّلته. والمُخيَّس: السِّجن. قال:\nتَجلّلْتُ العَصَا وعلمتُ أنِّى … رَهِينُ مُخَيَّسٍ إِنْ يَثْقَفُونِى\nوأمّا قولُهم خاسَ بالعَهْد فقد ذكرناه فى الواو. والكلمة مشتركة. ومن الغريب فى هذا الباب، قولُهم: قَلَّ خَيْسُه، أى غَمُّه. والخِيسُ: الشجر الملتَفُّ.",
+ "az": "«خيس»: الخاء، Yə və Sin — ram etməyə və yumşaltmağa dəlalət edən kiçik bir əsasdır. Deyilir: «خيَّستُه» (mən onu yumşaltdım və ram etdim). «المُخيَّس» (əl-muxəyyəs) — zindandır. Şair demişdir: «Mən əsanı ucaltdım və bildim ki, əgər məni yaxalasalar, mən həbsxana girovuyam...» Onların «خاسَ بالعَهْد» (əhdə xilaf çıxdı) demələrinə gəldikdə, biz bunu vav hərfi altında zikr etdik. Bu kəlmə ortaqdır. Bu fəsildə qəribə olanlardan biri də onların «قلَّ خَيْسُه» (onun qəmi azaldı) demələridir. «الخِيسُ» (əl-xis) — sıx ağaclıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.574Z"
+}

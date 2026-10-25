@@ -1,0 +1,17 @@
+{
+ "i": 869,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حسر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 61,
+  "page_to": 62
+ },
+ "ar": "الحاء والسين والراء أصلٌ واحد، وهو من كَشْف الشئ.\n[يقال حَسَرت عن الذراع (٢)]، أى كشفته. والحاسر: الذى لا دِرْع عليه ولا * مِغْفَر. ويقال حَسَرْتُ البيتَ: كنستُه. ويقال: إن المِحْسَرَة المِكْنَسَة.\nوفلان كريم المَحْسَر، أى كريم المخبر، أى إذا كشفْتَ عن أخلاقه وجدتَ ثَمَّ كريماً. قال:\nأرِقَتْ فما أدرِى أَسُقْمٌ طِبُّهاَ … أَمْ من فراق أخٍ كريم المَحْسَر (٣)\nومن الباب الحسرةُ: التلهُّف على الشئ البائت. ويقال حَسِرْتُ عليه حَسَرًا وحَسْرَةً، وذلك انكشافُ أمرِه فى جزعه وقلَّة صبره. ومنه ناقةٌ حَسْرَى إذا ظلَعَتْ. وحسَرَ البصر إذا كَلَّ، وهو حسير، وذلك انكشافُ حاله فى قلّة بَصَره وضَعْفه. والمُحَسَّرُ، المُحَقَّر، كأنَّه حُسْر، أى جُعِل ذا حَسْرَة. وقد فسَّرناها.",
+ "az": "[حسر] الحاء، السين والراء (h, s, r) tək bir əsasdır, o da bir şeyi kəşf etmək, üzə çıxarmaqdır. [حَسَرْتُ عَنِ الذِّراعِ deyilir (٢)], yəni qolumu çırmaladım (üzə çıxardım). الحاسر: üzərində zireh və dəbilqə olmayan kəsdir. Deyilir: حَسَرْتُ الْبَيْتَ (evi süpürdüm). Deyilir ki, الْمِحْسَرَة — süpürgədir. Filankəs كريم المَحْسَر (kərim məhsər) — yəni əxlaqı kərimdir, yəni onun əxlaqını araşdırıb üzə çıxardınsa, orada kərim [xüsusiyyətlər] taparsan. [Şair] demişdir: أرِقَتْ فما أدرِى أَسُقْمٌ طِبُّهاَ … أَمْ من فراق أخٍ كريم المَحْسَر (٣) (Gecəsi yuxusuz keçdi, bilmirəm dərmanı xəstəlikdirmi, yoxsa kərim məhsərli bir qardaşın ayrılığıdırmı?) Bu بابdandır: الحسرة (həsrət) — keçmiş bir şeyə görə yanıb-yaxılmaq. Deyilir: حَسِرْتُ عَلَيْهِ حَسَراً وَحَسْرَةً (ona görə həsrət çəkdim), bu, onun səbirsizlikdə və səbrinin azlığında əhvalının üzə çıxmasıdır. Həmçinin axsayan dəvəyə ناقةٌ حَسْرَى deyilir. Göz yorulduqda حَسَرَ الْبَصْرُ [deyilir], o, حَسِيرٌ (yorğun/zəif) olur, bu da onun görməsinin azlığında və zəifliyində halının üzə çıxmasıdır. وَالمُحَسَّرُ — alçaldılmış, sanki ona həsrət verilmişdir (حُسْر). Biz bunu izah etdik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:55:58.229Z"
+}

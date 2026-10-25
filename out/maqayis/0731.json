@@ -1,0 +1,17 @@
+{
+ "i": 731,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جيس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 498,
+  "page_to": 498
+ },
+ "ar": "الجيم والياء والسين أصل يائه (٦) واو، وقد مضى ذكرُه.",
+ "az": "[جيس] — الجيم (Cim), الياء (Ya) və السين (Sin). Ya hərfinin əsli vavdır və onun zikri artıq keçmişdir (٦).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.101Z"
+}

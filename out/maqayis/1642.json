@@ -1,0 +1,17 @@
+{
+ "i": 1642,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رأف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 471,
+  "page_to": 472
+ },
+ "ar": "الراء والهمزة والفاء كلمةٌ واحدة تدلُّ على رقّة ورحمة، وهى الرّأفة. يقال رَؤُفَ يَرْؤُف رأْفةً ورآفة، على فَعْلةٍ وفَعَالة. قال اللّه جلّ وعلا:\n﴿وَلا تَأْخُذْكُمْ بِهِما رَأْفَةٌ فِي دِينِ اَللّهِ﴾ وقرئت: «رآفة (٣)»، ورجل رءوف على فَعُول، ورَؤُف [على] فَعُل. قال فى رءوف:\n* هو الرَّحمنُ كان بنا رءُوفا * (٤)\nوقال فى الرؤف:\nيرى لِلمسلمينَ عليه حقًّا … كفِعل الوالد الرَّؤُفِ الرّحيم (١)",
+ "az": "«رأف»: (Ra, Həmzə, Fə) incəliyə və mərhəmətə dəlalət edən tək bir kəlmədir, o da رَأْفَة (rəəfə) - mərhəmətdir. Deyilir: رَؤُفَ يَرْؤُفُ رَأْفَةً وَرَآفَةً (fə'lə və fə'alə vəznində). Uca Allah buyurmuşdur: ﴿وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ﴾ (Mənaca tərcümə: Allahın dinində onlara görə sizi mərhəmət bürüməsin) [Nur surəsi, 2]. «رآفة» (3) kimi də qiraət olunmuşdur. رَؤُوف (rəuf) fə'ul vəznində, رَؤُف (rəuf) isə fə'ul vəznində kişi. Rəuf haqqında demişdir: * هُوَ الرَّحْمَنُ كَانَ بِنَا رَءُوفَا * (4) (O, Rəhmandır, bizə qarşı çox mərhəmətli idi). Rəuf haqqında demişdir: يَرَى لِلْمُسْلِمِينَ عَلَيْهِ حَقًّا … كِفِعْلِ الْوَالِدِ الرَّؤُوفِ الرَّحِيمِ (1) (Müsəlmanların ona qarşı haqqı olduğunu görür... mərhəmətli və rəhmli atanın əməli kimi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.917Z"
+}

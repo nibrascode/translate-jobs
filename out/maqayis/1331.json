@@ -1,0 +1,17 @@
+{
+ "i": 1331,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 314,
+  "page_to": 315
+ },
+ "ar": "الدال والواو واللام أصلان: أحدُهما يدلُّ على تحوُّل شئِ من مكان إلى مكان، والآخَر يدلُّ على ضَعْفٍ واستِرخاء.\nفأمَّا الأوَّل فقال أهل اللغة: انْدَالَ القومُ، إذا تحوَّلوا من مكان إلى مكان.\nومن هذا الباب تداوَلَ القومُ الشّئَ بينَهم: إذا صار من بعضهم إلى بعض، والدَّولة والدُّولة لغتان. ويقال بل الدَّولة فى المال والدَّولة فى الحرب، وإنّما سُمِّيا بذلك من قياس الباب؛ لأنّه أمرٌ يتداوَلُونه، فيتحوَّل من هذا إلى ذاك ومن ذاك إلى هذا\nوأمَّا الأصل الآخَر فالدَّوِيلُ من النَّبْت: ما يَبِس لعامِهِ. قال أبو زيد: دال\nالثَّوبُ يَدُول، إذا بَلِىَ وقد جعل [وُدُّهُ (١)] يَدُول، أى يبلى. ومن هذا الباب انْدَالَ بَطْنُه، أى استَرخَى.",
+ "az": "[دول] \nالدال (dal) və الواو (vav), و (və) اللام (lam) iki əsas mənanı ifadə edir: Biri bir şeyin bir yerdən başqa yerə keçməsini, diğəri isə zəflik və süstlüyü göstərir.\n\nBirinciyə gəldikdə, dilçilər demişlər: انْدَالَ القومُ (qövm köçdü) — bir yerdən başqa yerə keçdikləri zaman deyilir.\n\nBu qapıdandır (bu kateqoriyadandır): تداوَلَ القومُ الشّئَ بينَهم (qövm əşyanı öz aralarında dövr etdirdilər) — birindən digərinə keçdiyi zaman; الدَّولة (ə-dəvlə) və الدُّولة (ə-duvlə) iki lüğəvi formalardır. Deyilir ki, əksinə الدَّولة (ə-dəvlə) sərvətdə, الدُّولة (ə-duvlə) isə müharibədə olur. Bunlar da məhz bu qismin qaydasından belə adlandırılmışdır; çünki bu, onların bir-birinə ötürdükləri, bundan o yana, o yandan buna keçən bir işdir.\n\nDigər əsasa gəldikdəisə, الدَّوِيلُ (ə-dəvil) bitkidən: həmin il quruyandır. Əbu Zeyd demişdir: دال الثَّوبُ يَدُول (paltar köhnəldi, köhnəlir), çürüyüb köhnəlməyə başladığı zaman. Və bu qapıdandır: انْدَالَ بَطْنُه (qarnı boşaldı / sallandı), yəni süstləşdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:18:41.110Z"
+}

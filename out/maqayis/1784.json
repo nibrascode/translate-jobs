@@ -1,0 +1,17 @@
+{
+ "i": 1784,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 31,
+  "page_to": 32
+ },
+ "ar": "الزاء والهاء والميم أصلٌ واحد يدلُّ على سَمِن وشحمٍ وما أشبه ذلك. من ذلك الزَّهَم، وهو أن تَزْهَم اليدُ من اللّحم. وذكر ناسٌ أنَّ الزُّهْم شَحم الوحش، وأنَّه اسمٌ لذلك خاصَّة، ويقولون للسَّمين زَهِمٌ. فأمّا قولُهم فى الحكاية\nعن أبى زيد أن المزَاهَمة القُرب، ويقال زَاهَمَ فلانٌ الأربعينَ، أى داناها، فممكنٌ أن يُحمَل على الأصل الذى ذكرناه، لأنّه كانّه أراد التلطُّخ بها ومُماسَّتها. ويمكن أنْ يكون من الإبدال، وتكون الميم بدلاً من القاف، لأن الزاهق عَيْنُ السمين (١).\nوقد ذكرناه",
+ "az": "[زهم] الزاء والهاء والميم (z-h-m) piylənməyə, saya və bənzər şeylərə dəlalət edən tək bir əsasdır. Bunlardan biri الزَّهَم (əz-zəhəm) - ətdən əllərin yağlanmasıdır. Bəzi insanlar qeyd etmişlər ki, الزُّهْم (əz-zuhm) çöl heyvanlarının piyidir və bu, məhz buna məxsus bir addır, piyli olana isə زَهِمٌ (zəhim) deyirlər. Əbu Zeyiddən nəql edilən rəvayətdəki المزَاهَمة (əl-muzahəmə) sözünün yaxınlıq mənasında işlədilməsinə gəlincə, زَاهَمَ فلانٌ الأربعينَ (zāhəmə fülânun-əl-ərbəīn) - filankəs qırx yaşa yaxınlaşdı, deməkdir. Mümkündür ki, bu, qeyd etdiyimiz əslə aid edilsin, çünki o, sanki pislənməyi və ona toxunmağı qəsd etmişdir. Həmçinin ola bilər ki, bu, hərflərin əvəzlənməsi yolu ilə olsun və mim hərfi qaf hərfinin əvəzinə gəlsin, çünki الزاهق (əl-zahiq) - kök adamın gözüdür (١). Biz bunu onsuz da qeyd etmişik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:39.989Z"
+}

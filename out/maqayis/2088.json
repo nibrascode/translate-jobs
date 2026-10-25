@@ -1,0 +1,17 @@
+{
+ "i": 2088,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 200,
+  "page_to": 200
+ },
+ "ar": "الشين والفاء والراء أصلٌ واحد يدلُّ على حدِّ الشئ وحَرْفه. من ذلك شَفْرَة السَّيف: حَدُّه. وشَفير البئر وشَفيرُ النَّهر: الحدّ.\nوالشُّفْر: مَنْبِت الهُدْب من العين، والجمع أشفار. وشُفْر الفَرْج: حروفُ أَشاَعِرِه.\nومِشْفَر البعير كالجَحْفلة (١) من الفَرَس. والشَّفْرَة معروفة (٢). هذا كلُّه قياس واحد. وأمّا قولُهم: ما بالدار * شُفْر (٣)، وقولُ من قال: معناه ليس بها أحدٌ فليس الأمر كذلك، إنما يراد بالشُّفْر شُفر العين، والمعنى ما بها ذو شُفْر، كما يقال ما بها عينٌ تطرف، يراد ما بها ذُو عين. والذى حُكى عن أبى زيد أنَّ شفْرَة القوم أصغَرهم، مثل الخادم، فهذا تشبيهٌ، شُبِّه بالشّفْرَة التى تُسْتَعْمَل.",
+ "az": "[شفر] (şəfər) — Şin, fa və ra — bir şeyin hədliyinə və kənarına (tilinə) dəlalət edən tək bir kökdür. Bunlardan biri qılıncın kənarı mənasında olan «شَفْرَة السَّيف» (şəfrətüs-səyfi) — qılıncın kəsici ağzıdır. «شَفير البئر» və «شَفيرُ النَّهر» (şəfirul-biər və şəfirun-nəhr) — quyunun və çayın kənarı. «الشُّفْر» (əş-şufr) — kirpiyin göyərdiyi göz qapağı, cəmi «أشفار» (əşfar). «شُفْر الفَرْج» (şufrul-fərci) — onun tüklərinin kənarları. Dəvənin «مِشْفَر» (mişfər) — atın dodağı (cəhfələ) kimidir. «الشَّفْرَة» (əş-şəfrə) məlumdur. Bunların hamısı tək bir qiyasdır. Onların «ما بالدار شُفْر» (mə bid-dari şufr) sözünə gəldikdə, həmçinin bunu deyənin: mənası orada heç kəs yoxdur deməkdir, məsələ əslində belə deyil, «شُفْر» (şufr) ilə yalnız gözün şüfrü (qapaq kənarı) qəsd edilir, mənası orada gözünün qapağı olan heç kim yoxdur deməkdir, necə ki «ما بها عينٌ تطرف» (mə bihə eynün tətْرُفُ) yəni orada gözü qırpan heç bir varlıq yoxdur deyilir. Əbu Zeyddən rəvayət olunan sözə gəldikdə ki, qövmün «شَفْرَة» (şəfrə) sözü onların ən kiçiyi, xidmətçi kimi olanıdır, bu, istifadə olunan bıçağa (şəfrəyə) bənzədilmiş bir məcazdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:46.482Z"
+}

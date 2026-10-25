@@ -1,0 +1,17 @@
+{
+ "i": 943,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حمص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 105,
+  "page_to": 105
+ },
+ "ar": "الحاء والميم والصاد ليس أصلاً يقاس عليه، وما فيه قياسٌ ويجوز أن يكون مِنْ جفافٍ فى الشئ. ويقولون: انْحَمَص الوَرَم، إذا سَكَنَ.\nهذا أصحَّ ما فيه. والحَمَصِيصُ: بقلةٌ.",
+ "az": "[حمص] الحاء والميم والصاد ليس أصلاً يقاس عليه، وما فيه قياسٌ ويجوز أن يكون مِنْ جفافٍ فى الشئ («həms» — ha, mim və sad hərfləri üzərində qiyas qurulan bir kök deyildir və onda qiyas vardır, həmçinin şeydəki quruluqdan olması da caizdir). ويقولون: انْحَمَص الوَرَم، إذا سَكَنَ (Və deyirlər: şiş səngidi və zəiflədi). هذا أصحَّ ما فيه (Bu, onun haqqında ən səhih olanıdır). والحَمَصِيصُ: بقلةٌ (əl-Həmasis — bir tərəvəzdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:22.229Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 828,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 34,
+  "page_to": 34
+ },
+ "ar": "الحاء والدال والميم أصلٌ واحد، وهو اشتداد الحرّ. يقال احتدم النهار: اشتدّ حَرُّه. واحتدم الحرّ. واحْتَدَمَتِ النار. والنار حَدَمةٌ، وهو شدّتها، ويقال صوت التهابِها. قال الخليل: أَحْدَمَتِ الشمسُ [الشئَ (٤)] فاحتدم، واحتَدَم صدْرُه غيظاً. فأمّا احتِدام الدّم فقال قوم: اشتدت حُمْرَتُه حتى يسودَّ؛ والصحيح أن يشتدّ حرُّه (٥). قال الفرّاء: قِدْرٌ حُدَمَةٌ، إذا كانت سريعةَ الغَلْى؛ وهى ضدّ الصَّلُود.",
+ "az": "«حدم» (hədəm): Ha, dal və mim hərflərindən ibarət olub tək bir kökdür, o da istiliyin şiddətlənməsidir. Deyilir: «احتدم النهار» (günorta isti şiddətləndi): istiliyi şiddətləndi. Və istilik şiddətləndi. Və od şiddətləndi. Və od «حَدَمَةٌ» (hədəmə) olub, onun şiddətidir, həmçinin onun alışma səsinə də deyilir. Xəlil demişdir: «أَحْدَمَتِ الشمسُ [الشئَ (٤)]» (günəş şeyi qızdırdı) və o da qızdı, və onun sinəsi qəzəbdən alovlandı. Qanın qızmasına (احتِدام الدّم) gəldikdə isə, bir qrup demişdir: o, qaralıncaya qədər qırmızılığı şiddətlənər; doğrusu isə onun istiliyinin şiddətlənməsidir (٥). Fərrə demişdir: «قِدْرٌ حُدَمَةٌ» (qaynamaqda sürətli qazan), tez qaynayan zaman; bu da «الصَّلُود»un (geq qaynayan qazanın) əksidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

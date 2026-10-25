@@ -1,0 +1,17 @@
+{
+ "i": 1946,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 111,
+  "page_to": 111
+ },
+ "ar": "السين والهاء والميم أصلان: أحدهما يدلُّ على تغيُّرٍ فى لون، والآخرُ على حظٍّ ونصيبٍ وشئٍ من أشياء.\nفالسُّهْمَة: النَّصيب. ويقال أَسهَم الرّجُلانِ، إذا اقْترعا، وذلك من السُّهْمَة والنّصيبِ، أن يفُوز (١) كلُّ واحد منهما بما يصيبه. قال اللّه تعالى: ﴿فَساهَمَ فَكانَ مِنَ اَلْمُدْحَضِينَ﴾. ثمّ حمل على ذلك فسُمِّى السّهمُ الواحد من السِّهام، كأنّه نصيبٌ من أنصباءَ وحظٌّ من حظوظ. والسُّهْمَة: القرابة؛ وهو من ذاك؛ لأنّها حَظٌّ من اتّصال الرحم. وقولهم بُرْدٌ مسهَّم، أى مخطّط، وإنّما سمِّى بذلك لأنّ كلَّ خَطٍّ منه يشبّه بسهم.\nوأمّا الأصلُ الآخَر فقولهم: سَهَمُ وجْهُ الرّجلِ (٢)، إِذا تغيَّر يَسْهَمُ، وذلك مشتقٌّ من السُّهَام، وهو ما يصيب الإنسانَ من وَهَج الصّيف حتى يتغيَّرَ لونُه.\nيقال سهمَ الرَّجُل، إذا أصابَه السُّهَام. والسُّهَام أيضاً: داءٌ يصيب الإِبل كالعُطَاش. ويقال إبلٌ سواهِمُ، إذا غيَّرها السّفَر (٣). واللّه أعلم.",
+ "az": "[سهم] السين والهاء والميم (sin, ha və mim) — iki əsldir: biri rəngin dəyişməsinə, diğəri isə paya, nəsibə və əşyalardan bir şeyə dəlalət edir.\nFəqət السُّهْمَة (əssuhmə): nəsib. Deyilir: أَسهَم الرّجُلانِ (əshəmər-riculani), iki kişi püşk atdıqda, bu, əssuhmə və nəsibdəndir ki, hər biri özünə qismət olanla qalib gəlsin. Uca Allah buyurmuşdur: mənaca tərcümə: «Püşk atdı və uduzanlardan oldu» (﴿فَساهَمَ فَكانَ مِنَ اَلْمُدْحَضِينَ﴾). Sonra buna əsaslanaraq oxlardan hər bir ox سهم (səhm) adlandırılmışdır, sanki o, paylardan bir pay və qisətlərdən bir qisətdir. والسُّهْمَة (əssuhmə): qohumluq; bu da həmçinin o kabildəndir; çünki o, rəhm bağının birləşməsindən bir paydır. Və onların بُرْدٌ مسهَّم (bürdün musehhem) sözü, yəni zolaqlı, bu cür adlandırılması ona görədir ki, onun hər bir xətti oxa bənzədilmişdir.\nDigər əslə gəldikdə isə, onların bu sözüdür: سَهَمُ وجْهُ الرّجلِ (səhəmu vəchul-rəcül), kişinin üzü rəngi dəyişdikdə يَسْهَمُ (yəshəmu), bu, əs-suhamdan törəmişdir, suham isə yay istisinin şiddətindən insana üz verən və nəticədə rəngini dəyişdirən haldır.\nDeyilir: سهمَ الرَّجُل (səhəmər-rəcül), kişiyə suham toxunduqda. والسُّهÂم (əssuham) həmçinin: dəvələrə gələn susuzluq kimi bir xəstəlikdir. Deyilir: إبلٌ سواهِمُ (iblün səvâhimu), səfərin dəyişdirdiyi dəvələr. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:08.653Z"
+}

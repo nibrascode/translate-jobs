@@ -1,0 +1,17 @@
+{
+ "i": 708,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جهف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 489,
+  "page_to": 489
+ },
+ "ar": "الجيم والهاء والفاء ليس أصلاً (٢)، إنَّما هو من باب الإبدال. يقال اجتهفتُ الشّيء إذا أخذْتَه بِشدّة. والأصل اجتحفْت (٣). وقد مضى ذكره.",
+ "az": "[جهف] \nCim, hə və fa hərfləri əsl deyil (2), bu yalnız əvəzetmə (ibdal) babındandır. Deyilir: اجتهفتُ الشّيء (içtəhəftuş-şeyə) – əgər o şeyi şiddətlə almısansa. Əsli isə اجتحفْت (içtəhəftu) sözüdür (3). Bunun zikr nüsxəsi artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:38.503Z"
+}

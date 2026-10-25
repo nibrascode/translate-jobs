@@ -1,0 +1,17 @@
+{
+ "i": 616,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جذم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 439,
+  "page_to": 439
+ },
+ "ar": "الجيم والذال والميم أصلٌ واحدٌ، وهو القطع. يقال جَذَمْت الشَّئ جذْماً. والجِذْمة القِطعة من الحَبْل وغيره. والجُذام سُمِّى لتقطُّع الأصابع.\nوالأجذم: المقطوع اليد. و\nفى الحديث: «مَنْ تعلَّم القرآنَ ثُمَّ نسِيَهُ لَقِى اللّهَ تعالى وهو أجذم». وقال المتلمِّس:\nوما كنتُ إلاّ مثلَ قاطع كفِّه … بكفٍّ له أخْرَى فأصبَحَ أجْذَما (١)\nوانْجَذَم الحبلُ. انقطَعَ. قال النابغة:\nبانَتْ سُعادُ فأمسى حَبْلُها انجَذَما … واحْتَلّت الشَّرْعَ فالْخَبْتَيْنِ مِنْ إضَما (٢)\nوالإجذام: السُّرعة فى السَّير، وهو من الباب. والإجذام: الإقلاع عن الشئ.",
+ "az": "[جذم] (Cim, ذal və mim): Kəsmək mənasında olan tək bir əsasdır. Deyilir: «جَذَمْت الشَّئ» (şeyi kəsdim). «الجِذْمة» (cizmə) ipdən və başqasından bir parçadır. «الجُذام» (cüzam xəstəliyi) barmaqların qopmasına görə belə adlandırılmışdır. «الأجذم» (əczəm) – əli kəsik deməkdir. Hədisdə: «مَنْ تعلَّق القرآنَ ثُمَّ نسِيَهُ لَقِى اللّهَ تعالى وهو أجذم» (Kim Quranı öyrənib sonra onu unudarsa, uca Allaha əli kəsik halda qovuşar). Mütəllimis demişdir: «Mən yalnız kəsilmiş ovcunu digər ovcuna vuran, sonra da əli kəsik qalan kəs kimi oldum (1)» İp «انْجَذَمَ» (qırıldı, üzüldü). Nəbiğə demişdir: «Süad getdi, nəticədə onun ipi qırıldı... və Əzəm yörəsindəki Şərc və Xəbtəyin məskən saldı (2)». «الإجذام» (icizam) – gedişdə sürətli olmaqdır, bu da bu babdandır. «الإجذام» (icizam) – bir işdən əl çəkməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:27.643Z"
+}

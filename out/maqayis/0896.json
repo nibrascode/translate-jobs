@@ -1,0 +1,17 @@
+{
+ "i": 896,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حظوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 80,
+  "page_to": 80
+ },
+ "ar": "الحاء والظاء وما بعده [من] حرف معتلّ أصلان:\nأحدهما القرب من الشئ والمنزلة، والثانى جنس من السلاح.\nفالأوَّل قولهم رَجُلٌ حَظِىٌّ إذا كان له منزلةٌ وحُظوةٌ. وامرأةٌ حَظِيَّةٌ.\nوالعرب تقول: «إلا حَظِيَّةً فلا أَلِيّةً». يقول: إن لم يكنْ لكِ حُظْوَةٌ فلا تُقَصِّرِى أن تتقرَّبى. يقال ما ألوت، أى ما قصَّرْت.\nوأما الأصل الآخر فالحِظاء: جمعِ حَظْوةٍ، وهو سهمٌ صغير لا نَصْلَ له يُرمَى به قال بعضُ أهلِ اللغة: يقال لكلِّ قضيبٍ نابتٍ فى أصلِ شجرةٍ (١) حَظْوَة، والجمع حَظَوات. قال أوس:\nتَعَلَّمَهَا فى غِيلِها وهى حَظْوَةٌ … بوادٍ به نَبْعٌ طِوَالٌ وحِثْيَلُ (٢)\nوإذا عُيِّر الرّجلُ بالضّعف قيل له: «إنما نَبْلُك حِظاءٌ». ويقال لِسهام الصّبيان حِظاء. ومنه المثل: «إحدى حُظَيَّاتِ لُقْمان»، قال أبو عبيد: الحُظَيّات المرامى، وهى السّهام التى لا نِصال لها.",
+ "az": "«حظوى» (H-Z-V/W): hə, zai hərfləri və ondan sonrakı zəif hərf iki əsas mənanı ehtiva edir: biri bir şeyə və məqama yaxınlıq, ikincisi isə bir növ silahdır. Birinci məna: «رَجُلٌ حَظِىٌّ» (hazi kişi) — onun yüksək məqamı və nüfuzu (hüzvəti) olduğu zaman deyilir. Qadına isə حَظِيَّةٌ (haziyyah) deyilir. Ərəblər deyirlər: «إلا حَظِيَّةً فلا أَلِيّةً» — yəni əgər nüfuzun yoxdursa, (ona) yaxınlaşmaqda əsla səhlənkarlıq etmə. «ما ألوت» — yəni səhlənkarlıq etmədim. İkinci əsas məna: الحِظاء (hida) — ucu nizəsiz, kiçik atılan ox olan حَظْوة (hazvə) sözünün cəmi. Dilçilərdən biri demişdir: ağacın kökündən bitən hər bir budaqçığa حَظْوَة (hazvə) deyilir, cəmi isə حَظَوات (hazavat) olur. Əus demişdir: [Şeir]: تَعَلَّمَهَا فى غِيلِها وهى حَظْوَةٌ … بوادٍ به نَبْعٌ طِوَالٌ و حِثْيَلُ (٢) — «O bunu meşəsində öyrəndi, o halda ki, o, hündür nəb’ ağacları və hithəyl bitkisi olan dərədə bir zoğ idi». Əgər bir kişi zəifliyi ilə qınanarsa, ona deyilər: «إنما نَبْلُك حِظاءٌ» (Sənin oxların ancaq ucsuz kiçik oxlardır). Uşaqların oxlarına حِظاء (hida) deyilir. Buradan belə bir məsəl də yaranmışdır: «إحدى حُظَيَّاتِ لُقْman» (Luğmanın kiçik oxlarından biri). Əbu Übeyd demişdir: əl-Huzəyyat (الحُظَيّات) — ucunda dəmir ucluqları olmayan atılan oxlardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:55.260Z"
+}

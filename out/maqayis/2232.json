@@ -1,0 +1,17 @@
+{
+ "i": 2232,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شزغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 270,
+  "page_to": 270
+ },
+ "ar": "شزغ الشين والزاء والغين ليس بشئ. ويقولون إنّ الشِّزْغ الضِّفدَع. وهذا ممّا لا معنَى له.",
+ "az": "[شزغ] Şin, zay və ğey hərflərindən ibarət bu sözün heç bir əsası yoxdur. Deyirlər ki, الشِّزْغ (eş-şizğ) qurbağadır. Bu isə heç bir mənası olmayan şeylərdəndir.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.449Z"
+}

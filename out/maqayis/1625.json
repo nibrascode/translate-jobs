@@ -1,0 +1,17 @@
+{
+ "i": 1625,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ريب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 463,
+  "page_to": 464
+ },
+ "ar": "الراء والياء والباء أُصَيلٌ يدلُّ على شكّ، أو شكّ وخوف، فالرَّيْب: الشّكّ. قال اللّه جلّ ثناؤه: ﴿الم. * ذلِكَ اَلْكِتابُ لا رَيْبَ فِيهِ﴾ أَى لا شَكّ. ثم قال الشاعر:\nفقالوا تَرَكْنَا القومَ قد حَصِرُوا بهِ … فلا ريْبَ أن قد كان ثَمَّ لَحِيمُ (٣)\nوالرَّيب: ما رابَكَ مِنْ أمرٍ. تقول: رابَنِى هذا الأمرُ، إذا أدخَلَ عليك شَكًّا وخَوفا. وأرابَ الرّجلُ: صارَ ذا رِيبةٍ. وقد رابَنِى أمْرُه. ورَيْب الدّهر:\nصُروفه؛ والقياس واحد. قال:\nأَمِنَ المَنُونِ وَرَيْبِهِ تَتَوَجَّعُ … والدّهُر ليس بمُعْتِبٍ مَنْ يجزعُ (١)\nفأمّا قولُ القائل:\nقضَيْنَا مِنْ تِهامةَ كلَّ ريبٍ … ومَكَّةَ ثُمّ أَجْمَعْنا السُّيوفا (٢)\nفيقال إنّ الرَّيب الحاجة. وهذا ليس ببعيدٍ؛ لأنَّ طالبَ الحاجة شاكٌّ، على ما به من خوف الفَوْت.",
+ "az": "[ريب] الراء (الراء) və الياء (ياء) və الباء (باء) — şübhəyə və ya şübhə və qorxuya dəlalət edən təməl bir kökdür. الرَّيْب (əр-rəyb) — şübhə deməkdir. Uca Allah buyurmuşdur: ﴿الم. * ذلِكَ اَلْكِتابُ لا رَيْبَ فِيهِ﴾ — mənaca tərcümə: Əlif, Lam, Mim. Bu, heç bir şübhə olmayan Kitabdır. Yəni, şübhə yoxdur. Sonra şair demişdir: فقالوا تَرَكْنَا القومَ قد حَصِرُوا بهِ … فلا ريْبَ أن قد كان ثَمَّ لَحِيمُ (٣) — (Onlar dedilər ki, biz qövmü elə bir vəziyyətdə tərk etdik ki, onlar çarəsiz qalıblar, heç bir şübhə yoxdur ki, orada qəhrəman [və ya ətli-qanlı döyüşçü] var idi). Və الرَّيب (əр-rəyb) — səni şübhəyə salan hər hansı bir işdir. Deyirsən: رابَنِى هذا الأمرُ (rəbəni həzəl-əmrü) — bu iş mənə şübhə və qorxu gətirdi, məni şübhələndirdi. Və إرابَ الرّجلُ (ərabə ər-rəcul) — şübhəli bir şeyin sahibi oldu. Və قد رابَنِى أمْرُه (qəd rabəni əmruh) — onun işi məni şübhələndirdi. Və رَيْب الدّهر (rəyb əd-dəhr) — zamanın bəlaları, dəyişiklikləri; ölçü və qiyas eynidir. Şair demişdir: أَمِنَ المَنُونِ وَرَيْبِهِ تَتَوَجَّعُ … والدّهُر ليس بمُعْتِبٍ مَنْ يجزعُ (١) — (Ölümdən və onun bəlalarındanmı şikayətlənirsən? Zaman isə sızıldayan kimsəni məmnun edən deyildir). Amma danışanın bu sözünə gəldikdə: قضَيْنَا مِنْ تِهامةَ كلَّ ريبٍ … ومَكَّةَ ثُمّ أَجْمَعْنا السُّيوفا (٢) — (Biz Tihamədən və Məkkədən hər cür ehtiyacı [və ya məqsədi] bitirdik, sonra qılıncları birləşdirdik), deyilir ki, burada əş-şəyb — ehtiyac deməkdir. Bu da uzaq bir ehtimal deyil; çünki ehtiyac içində olan kimsə, əldən çıxmaq qorxusu ilə birlikdə həm də şübhə içindədir (tərəddüddədir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:27.039Z"
+}

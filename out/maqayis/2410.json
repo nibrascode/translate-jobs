@@ -1,0 +1,17 @@
+{
+ "i": 2410,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضمس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 372,
+  "page_to": 372
+ },
+ "ar": "الضاد والميم والسين ليس بشئ. وذكر اُبن دريد كلمةً إن صحَّت فهى من باب الإبدال. قال (٣): الضّمْس: المَضْغ. فإن كان كذا * فهو من الضَّمْز.",
+ "az": "[ضمس] (Dəməs): Zad, mim və sin hərfləri heç bir şey deyildir. İbn Dürid əgər səhihdirsə, əvəzləmə qapısından olan bir kəlmə zikr etmişdir. O demişdir (٣): əddəms (الضَّمْس): çeynəməkdir. Əgər belədirsə, o zaman o, əddəmzdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:55.137Z"
+}

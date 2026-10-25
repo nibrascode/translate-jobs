@@ -1,0 +1,17 @@
+{
+ "i": 2176,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شبه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 243,
+  "page_to": 243
+ },
+ "ar": "الشين والباء والهاء أصلٌ واحدٌ يدلُّ على تشابُه الشّئ وتشاكُلِه لوناً ووَصْفا. يقال شِبْه وشَبَه وشَبيه. والشّبَهُ (١) من الجواهر:\nالذى يشبه الذّهَب. والمُشَبِّهَات (٢) من الأمور: المشكلات. واشتبه الأمرانِ، إذا أشْكَلَا.\nومما شذ عن ذلِكَ الشّبَهَانُ (٣).",
+ "az": "«شبه» (şəbəh). Şin, ba və ha hərfləri rəng və vəsif baxımından bir şeyin digərinə bənzəməsinə və uyğun gəlməsinə dəlalət edən tək bir kökdür. Şِبْه (şibh), شَبَه (şəbəh) və شَبيه (şəbih) deyilir. Şَّبَهُ (əş-şəbəh) — qızılın bənzəri olan cövhərdir (tunc, bürünc). İşlərdən المُشَبِّهَات (əş-muşəbbihat) — müşkül (çətin) məsələlərdir. İki iş bir-birinə qarışdıqda: اشتبه الأمرانِ (iştəbəhəl-əmran) — qarışdı (müşkül oldu) deyilər. Bundan istisna olunan söz Şَّبَهَانُ (əş-şəbəhan) (٣) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1972,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سأو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 124,
+  "page_to": 124
+ },
+ "ar": "السين والهمزة والواو كلمةٌ مختلَفٌ فى معناها. قال قوم:\nالسَّأو: الوطن. وقال قوم: السَّأو: الهمّة: قال:\nكأننى من هَوَى خَرقاءَ مُطَّرَفٌ … دامِى الأظَلِّ بعيدُ السَّأوِ مَهيُومُ (١)\nواللّه أعلم بالصواب.",
+ "az": "[سأو] (səv). السين (sin), والهمزة (həmzə) və الواو (vaw) mənası barəsində ixtilaf edilən bir kəlmədir. Bir qrup alim demişdir: السَّأو (əssəv) - vətən (yurd) deməkdir. Başqa qrup isə demişdir: السَّأو (əssəv) - himmət (məqsəd, uca amal) deməkdir. Şair demişdir:\nكأننى من هَوَى خَرقاءَ مُطَّرَفٌ … دامِى الأظَلِّ بعيدُ السَّأوِ مَهيُومُ (١)\n(Sanki mən Xərqanın eşqindən ətraflı örtünmüş, dırnaqları qanayan, məqsədi uca [uzaq] və divanə bir aşiqəm).\nDoğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:50.268Z"
+}

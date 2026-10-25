@@ -1,0 +1,17 @@
+{
+ "i": 1120,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خلو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 204,
+  "page_to": 205
+ },
+ "ar": "الخاء واللام والحرف المعتل أصلٌ واحد يدلُّ على تعرِّى الشَّئ من الشئ. يقال هو خِلْوٌ من كذا، إذا كان عِرْواً منه. وخَلَتِ الدار وغيرُها تخلُو. والخَلِىّ: الخالى من الغَمّ. وامرأةٌ خَلِيَّة: كنايةٌ عن الطَّلاق، لأنّها إذا طُلِّقت فقد خَلَتْ عن بعلها. ويقال خلا لِىَ الشّئُ وأخلى. قال:\nأعاذلَ هل يأتِى القَبَائلَ حظُّها … مِنْ الموتِ أم أخْلَى لنا الموتُ وَحْدَنا (٢)\nوالخَلِيّة: الناقة تُعطَف على غير ولدِها، لأنّها كأنّها خَلَتْ من ولدها الأول. والقرون الخالية: الموَاضى. والمكان الخَلاء: الذى لا شئَ به. ويقال\nما فى الدار أحدٌ خلا زَيْدٍ وزيداً، أى دَع ذِكرَ زيدٍ، إخْلُ من ذكر زيد.\nويقال: افعَلْ ذاكَ وخَلَاك ذَمٌّ، أى عَدَاك وخلَوْت منه وخلا منك.\nومما شذَّ عن الباب الخَلِيَّة: السفينة، وبيت النَّحل. والخلا: الحشيش.\nوربَّما عبَّروا عن الشئ الذى بخُلو من حافِظِه بالخَلاة، فيقولون: هو خَلَاةٌ لكذا (١)، أى هو مِمَّنْ يُطْمَع فيه ولا حافِظَ له. وهو من الباب الأوّل.\nوقال قوم: الخَلْىُ القَطْع، والسيف يَخْتَلِى، أى يقتَطع. فكأنّ الخلا سُمِّى بذلك لأنّه يُخْتَلى، أى يُقْطَع.\nومن الشاذّ عن الباب: خلا به، إذا سَخِر به.",
+ "az": "[خلو] الخاء واللام والحرف المعتل أصلٌ واحد يدلُّ على تعرِّى الشَّئ من الشئ (Hərf-i xa, lam və uzadılma hərfi bir şeyin başqa bir şeydən azad olmasına/boşalmasına dəlalət edən tək bir əsasdır). Deyilir: «هو خِلْوٌ من كذا» — o, bundan xalidirdir (azaddır), əgər ondan məhrumdursa. Və «خَلَتِ الدار وغيرُها تخلُو» — ev və başqaları boşaldı, boşalır. Və «الخَلِيّ» — qəmdən azad olan (qayğısız). Və «امرأةٌ خَلِيَّة» — boşanmanın kinayəsidir, çünki o, boşanarkən ərindən azad olmuşdur (boşanmışdır). Və deyilir: «خلا لِىَ الشّئُ وأخلى» (Mənə şey boş qaldı və boşalttı). (Şair) demişdir:\nأعاذلَ هل يأتِى القَبَائلَ حظُّها … مِنْ الموتِ أم أخْلَى لنا الموتُ وَحْدَنا (٢)\n(Ey qınayan qadın, ölümün payı qəbilələrə gəlirmi, yoxsa ölüm tək bizi boş buraxdı?).\nVə «الخَلِيَّة» — başqa heyvanın balasına öyrəşdirilən dəvədir, çünki sanki o, birinci balasından məhrum olmuşdur (boşalmışdır). Və «القرون الخالية» — keçmiş əsrlər. Və «المكان الخَلاء» — içində heç nə olmayan yer. Və deyilir: «ما فى الدار أحدٌ خلا زَيْدٍ وزيداً» — yəni Zeydin xatırlanmasını tərk et, Zeydin xatırlanmasından azad ol.\nVə deyilir: «افعَلْ ذاكَ وخَلَاك ذَمٌّ» — yəni bunu et və səni heç bir qınaq tərk etməsin/dəyməsin, səndən uzaq olsun.\nVə əsasdan kənara çıxan (şaz) hallardandır: «الخَلِيَّة» — gəmi və arı pənəyi. Və «الخلا» — ot, quru ot.\nVə bəzən qoruyucusu olmayan bir şeyi «الخَلاة» ilə ifadə edirlər, belə ki, deyirlər: «هو خَلَاةٌ لكذا» (١) — yəni o, elə bir kimsədir ki, ona tamah düşər və onu qoruyan yoxdur. Bu da birinci əsasdandır.\nVə bir qrup adam demişdir: «الخَلْىُ» — kəsməkdir, və qılınc «يَخْتَلِى» (kəsir). Deməli, «الخلا» buna görə elə adlandırılmışdır ki, o «يُخْتَلِى» yəni kəsilir.\nVə əsasdan şaz olanlardandır: «خلا به» — ona qarşı istehza etdi, ələ saldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:24.017Z"
+}

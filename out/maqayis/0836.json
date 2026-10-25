@@ -1,0 +1,17 @@
+{
+ "i": 836,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حرز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 38,
+  "page_to": 38
+ },
+ "ar": "الحاء والراء والزاء أصلٌ واحد، وهو من الحِفْظ والتَّحفظ يقال حَرَزْتُه (١) واحترزَ هو، أى تحفَّظَ. وناسٌ يذهبون إلى أنّ هذه الزّاءَ مبدلةٌ مِنْ سين، وأنَّ الأصل الحَرْس وهو وجهٌ. وفى الكتاب الذى للخليل أنّ الحَرَزَ جَوْز محكوكٌ يُلعَب به، والجمع أحْراز. قلنا: وهذا شئ لا يعرَّج عليه ولا مَعْنَى له.",
+ "az": "«حرز» (hərz): Ha, ra və zay hərflərindən ibarət olub tək bir kökdür, o da qorumaq və qorunmaqdır. Deyilir: «حَرَزْتُه» (mən onu qorudum) və o, «احترز» (qorundu), yəni ehtiyat etdi. Bəzi insanlar belə hesab edirlər ki, bu zay hərfi sin hərfini əvəz etmişdir və əsli «الحَرْس» (hərs) sözüdür, bu da bir görüşdür. Xəlilin kitabında vardır ki, «الحَرَزُ» (əl-həraz) — oyun oynanılan sürtülü qozdur, cəmi «أحْراز» (əhraz) gəlir. Biz deyirik: bu, diqqət yetirilməyən və heç bir mənası olmayan bir şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

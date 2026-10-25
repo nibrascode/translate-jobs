@@ -1,0 +1,17 @@
+{
+ "i": 1860,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سعف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 73,
+  "page_to": 73
+ },
+ "ar": "السين والعين والفاء أصلان متباينان، يدلُّ أحدُهما على يُبْس شئٍ وتشعُّثه، والآخر على موَاتاة الشئ.\nفالأوّل السّعف جمع سَعَفَة، وهى أغصان النخلة إذا يبست. فأما الرَّطْب فالشَّطْب. وأمّا قول امرئ القيس فى الفرس:\nكَسَا وجهَهَا سَعَفٌ منتشر (٢)\nفإنّه إنَّما شبّه ناصيتها به. ومن الباب: السَّعْفَة: قروح تخرج برأس الصبىّ.\nومنه قول الكسائىّ: سَعُفِت يدُه، وذلك هو التشعّث حول الأظفار، والشُّقاق.\nويقال ناقةٌ سَعْفاء، وقد سُعِفَتْ سعَفا، وهو داءٌ يتمعّط منه خُرطومها. وذلك فى النُّوق خاصّة.\nوالأصل الثانى: أسْعَفْت الرجل بحاجته، وذلك إذا قضيتَها له. ويقال أسعفته على أمره، إذا أعنتَه.",
+ "az": "[سعف] السين والعين والفاء — sin, ayn və fa hərfləri iki fərqli əsas mənaya dəlalət edir: bunlardan biri bir şeyin qurumasına və pırpızlanmasına, digəri isə bir şeyin uyğunlaşmasına dəlalət edir.\nBirincisi: السّعف (əs-səf) — «سَعَفَة» (səfəh) sözünün cəmi olub, xurma ağacının quru budaqlarıdır. Yaş olanına isə الشَّطْب (əş-şatb) deyilir.\nİmrülqəysin atın təsvirindəki bu sözünə gəldikdə:\nكَسَا وجهَهَا سَعَفٌ منتشر (٢) (Üzünü pırpızlanmış xurma budaqları bürüdü)\nO, burada atın alın saçını xurma budaqlarına bənzەتmişdir.\nBu fəsildəndir: السَّعْفَة (əssəfəh) — oğlan uşağının başına çıxan çibanlar.\nƏl-Kisainin bu sözü dəridəndir: سَعُفِت يدُه (səufit yədühü) — dırnaq ətrafının pırpızlanması və çatlaması.\nDeyilir ki: ناقةٌ سَعْفاء (naqətün səfa) — səfa dəvə, və ona سُعِفَتْ سَعَفا (suifət səfən) deyilmişdir ki, bu, burnunun qabıq verib soyulmasına səbəb olan bir xəstəlikdir. Bu, xüsusilə dəvələrə aid edilir.\nİkinci əsas: أسْعَفْت الرجل بحاجته (əsfətur-rəculə bi-hacətih) — insanın ehtiyacını ödədiyin zaman deyilir. Deyilir ki: أسعفته على أمره (əsfətuhu alə əmrih) — ona işində kömək etdiyin zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.965Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 481,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 361,
+  "page_to": 361
+ },
+ "ar": "التاء والياء والنون ليس أصلاً، إلاَّ التِّين، وهو معروفٌ.\nوالتِّين: جبل. قال:\nصُهْباً ظِمَاءً أتَيْنَ التِّين عن عُرُضٍ … يُزْجِينَ غَيْماً قليلاً ماؤُه شَبِمَا (٢)",
+ "az": "[تين] (t-ي-ن): Ta, ya və nun hərfləri əsas deyil, lakin məlum meyvə olan التِّينُ (ət-tin – əncir) müstəsnadır. وَالتِّينُ (Ət-tin) – dağ adı. Şair demişdir: صُهْباً ظِمَاءً أَتَيْنَ التِّينَ عَنْ عُرُضٍ … يُزْجِينَ غَيْماً قَلِيلًا مَاؤُهُ شَبِمَا (٢) (Susuz, qonur rəngli dəvələr əncir dağına yan tərəfdən gəldilər, suyu az, sərin olan bir bulud qovurdular).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

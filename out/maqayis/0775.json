@@ -1,0 +1,17 @@
+{
+ "i": 775,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "ومن ذلك قولهم للبعير المنتفخ الجنبين (جَحْشَمٌ). فهذا من الجَشِمِ، وهو الجسيم العظيم، يقال: «ألقى علىَّ جُشَمَه»، ومن الجَحْش وقد مضى ذكره، كأنّه شُبِّه فى بعض قوّته بالجَحْش.",
+ "az": "«جحشم» - Və buraya böyrü şişkin olan dəvəyə «جَحْشَمٌ» (cəhşəm) deyilməsi daxildir. Bu, iri və böyük mənasını verən الجَشِم (əl-cəşim) sözündəndir – deyilir: «ألقى علىَّ جُشَمَه» (O, ağır yükünü üzərimə atdı) – və izahı artıq keçmiş olan الجَحْش (əl-cəhş) sözündəndir, sanki o, gücünün bir hissəsində balası (cəhş) ilə bənzədilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

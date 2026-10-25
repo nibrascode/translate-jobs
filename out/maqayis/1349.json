@@ -1,0 +1,17 @@
+{
+ "i": 1349,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دبح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 323,
+  "page_to": 324
+ },
+ "ar": "الدال والباء والحاء أُصَيلٌ، وهو الإقبال على الشَّئ بالجِسْم حتَّى تَحْنُوَ عليه كل الحُنّو. يقال دبَّحَ الرجُل رأسَه، وذلك إذا نكسَه وطأطأه.\nو* نُهِىَ أن يُدَبِّحَ الرّجُل فى الصَّلاة كما يدبِّح الحِمار. والذى يقولون ما بالدَّار\nمِنْ دِبِّيحٍ، فهو من هذا، أى مقيمٍ فى الدَّار مقبلٍ عليها، والحاء فى هذه الكلمة أقيس من الجيم، لما ذَكرناه.",
+ "az": "[دبح] الدال (dal), الباء (ba) və الحاء (ha) hərfləri kiçik bir kökdür, bu da bir şeyə bütün bədənlə yönəlmək və ona tamamilə əyilmək deməkdir. Deyilir: دبَّحَ الرجُل رأسَه (dəbbəhə-r-raculu rə'səhu) - başını aşağı əydikdə və salladıqda. * نُهِىَ أن يُدَبِّحَ الرّجُل فى الصَّلاة كما يدبِّح الحِمار (İnsana namazda eşşəyin əyildiyi kimi əyilmək qadağan edildi). Evdə heç kim yoxdur mənasında işlənən «ما بالدّار مِنْ دِبِّيحٍ» ifadəsi də bu kökdəndir, yəni evdə qalan və ona yönələn kimsə yoxdur. Bu kəlmədəki ح (ha) hərfi, qeyd etdiyimiz səbəbə görə ج (cim) hərfindən daha əsaslıdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

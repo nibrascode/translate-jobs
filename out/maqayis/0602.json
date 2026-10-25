@@ -1,0 +1,17 @@
+{
+ "i": 602,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جخف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 431,
+  "page_to": 431
+ },
+ "ar": "الجيم والخاء والفاء كلمةٌ واحدة، وهو التكبُّر، يقال:\nفلان ذو جَخْفٍ وجَخيفٍ إذا كان متكبِّرًا كثير التوعُّد. يقولون: جَخَفَ النائم إذا نَفَخَ فى نومه. واللّه أعلم.",
+ "az": "[جخف]: الجيم والخاء والفاء كلمةٌ واحدة، وهو التكبُّر، يقال (Cim, xa və fa hərfləri tək bir kəlmədir ki, o da təkəbbürdür, deyilir):\nفلان ذو جَخْفٍ وجَخيفٍ إذا كان متكبِّرًا كثير التوعُّد (Filankəs təkəbbürlü və çox hədələyən olduğu zaman «zü cəxfin və cəxifin» – təkəbbür sahibidir). يقولون: جَخَفَ النائم إذا نَفَخَ فى نومه. واللّه أعلم (Onlar: «Cəxəbən-naimu» – yatan adam yuxusunda üflədi – deyirlər. Ən doğrusunu Allah bilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:06.593Z"
+}

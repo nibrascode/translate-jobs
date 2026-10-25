@@ -1,0 +1,17 @@
+{
+ "i": 243,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بزر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 246,
+  "page_to": 247
+ },
+ "ar": "الباء والزاء والراء أصلان: أحدهما شئ من الحبوب، والأصل الثَّانى من الآلات التى تستعمل عند دقِّ الشئ.\nفأمّا الأوّل فمعروف. قال الدُّرَيدىُّ: وقولُ العامَّة بَزْرُ البَقلِ خطأ، إنّما هو بَذْر. وفى الكتاب الذى للخليل: البَزْر كلُّ حبٍّ يُبذَر، يقال بَذَرتُهُ. وبَزَرْتُ القِدْرَ بأَبزارِها.\nوالأصل الثانى: البَيْزَرَة خشَبة القَصَّار التى يدُقّ بها، ولذا قال أوس:\n* بأيديهم بيازيرُ (٣) *\nويقال بَزَرْته بالعَصَا إذا ضربْتَهُ بها.\n[(باب الباء والسين وما يثلثهما)]",
+ "az": "[بزر] (bəzər) — با (ba), زاء (za) və راء (ra) iki əsas mənadan ibarətdir: birincisi toxumlardan bir şey, ikinci əsas isə bir şeyi döyərkən istifadə olunan alətlərdir. Birincisinə gəldikdə, bu məlumdur. Dureydi demişdir: Avam camaatın «بَزْرُ البَقلِ» (tərəvəz toxumu) deməsi səhvdir, doğrusu «بَذْرُ» (bədr) sözüdür. Xəlilə aid edilən kitabda yazılmışdır: «البَزْرُ» (bəzr) əkilən hər bir toxumdur, «بَذَرْتُهُ» (onu əkdim) deyilir. «بَزَرْتُ القِدْرَ بأَبزارِها» (qazanı ədviyyatları ilə dadlandırdım). İkinci əsas: «البَيْزَرَة» (beyzərə) – paltar döyənin üzəri ilə döydüyü taxtadır, məhz buna görə də Ovs demişdir: * بأيديهم بيازيرُ (٣) * (Onların əllərində beyazirlər var). «بَزَرْته بالعَصَا» – onu əsa ilə vurdun, deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:24.233Z"
+}

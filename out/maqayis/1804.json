@@ -1,0 +1,17 @@
+{
+ "i": 1804,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 40,
+  "page_to": 40
+ },
+ "ar": "الزاء والياء والدال أصلٌ يدلُّ على الفَضْل. يقولون زاد الشئ يزيد، فهو زائد. وهؤلاء قومٌ زَيْد على كذا، أى يزيدون. قال:\nوأنتمُ مَعْشرٌ زَيدٌ على مائةٍ … فأجمِعُوا أمرَكُمْ كيداً فكيدونى (١)\nويقال شئٌ كثير الزَّيايد، أى الزّيادات، وربما قالوا زوائد. ويقولون للأسد: ذو زوائد. قالوا: وهو الذى يتزيد فى زَئِيرِه وصَولته. والناقة تَتَزيَّد فى مِشيتها، إذا تكلفَتْ فوقَ طاقتِها. ويروون:\nفقل [مثل] ما قالُوا ولا تتزَيَّد (٢)\nبالياء، كأنّه أراد التزيّد فى الكلام.",
+ "az": "[زيد] (zid). الزاء (ز) və الياء (ي) və الدال (د) fəzilətə, artığa dəlalət edən bir əsldir. Deyirlər: زاد الشئ يزيد (şey artdı, artır), deməli o, زائد (artıq) olar. Bunlar da فلان زَيْد على كذا (falan filandan artıqdır) tayfasıdır, yəni artırırlar. Şair demişdir: «وأنتمُ مَعْشرٌ زَيدٌ على مائةٍ … فأجمِعُوا أمرَكُمْ كيداً فكيدونى» (1) (Siz yüzdən artıq olan bir tayfasınız... işinizi birləşdirin, hiylə qurun, sonra mənə qarşı hiylə işlədin). Və deyilir: شئٌ كثير الزَّيايد (çoxlu artımları olan şey), yəni artıqlar; bəzən də زوائد (zəvaid - artımlar) deyirlər. Aslana ذو زوائد (artımları olan) deyirlər. Dedilər ki: O, nəriltisində və qəzəbində həddini aşan və artıqlamaq edəndir. Dəvə də gücünün xaricində özünü zorlayaraq yerişində artıqlamaq etdikdə تَتَزيَّد في مِشيتها ( yerişində çətinlik çəkir və ya özünü zorlayır) deyilir. Onlar rəvayət edirlər: «فقل [مثل] ما قالُوا ولا تتزَيَّد» (2) (Onların dedikləri kimi de və artıqlıq etmə) — ya hərfi ilə, sanki o, sözdə artıqlıq etməyi qəsd etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.435Z"
+}

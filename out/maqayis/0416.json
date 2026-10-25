@@ -1,0 +1,17 @@
+{
+ "i": 416,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تكك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 339,
+  "page_to": 339
+ },
+ "ar": "التاء والكاف ليس أصلاً. ويُضْعِف أمرَه قِلّةُ ائتلافِ التاء والكاف فى صَدْر الكلام. وقد جاء التِّكَّة، وتَكَكْتُ الشئَ: وطِئْته. والتّاك:\nالأحْمَق. وما شَاء اللّه ﷻ أنْ يصِحَّ فهو صحيح.",
+ "az": "«تكك» (t-k-k): Tə və kaf əsas deyildir. Sözün əvvəlində tə və kaf hərflərinin birləşməsinin az olması onun işini zəiflədir. التِّكَّة (əttikkə) kəlməsi gəlmişdir, və تَكَكْتُ الشئَ (təkəktuş-şəyə): onu tapdalamışam. Və التّاك (əttak): axmaqdır. Allah-Təalanın səhih olmasını iradə etdiyi hər bir şey səhihdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

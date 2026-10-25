@@ -1,0 +1,17 @@
+{
+ "i": 2127,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شهو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 220,
+  "page_to": 220
+ },
+ "ar": "الشين والهاء والحرف المعتلّ كلمة واحدة، وهى الشّهوة يقال رجلٌ شَهْوانُ، وشئٌ شَهِىّ.",
+ "az": "[شهو] \nالشين والهاء والحرف المعتلّ (şin, hə və uzadılma hərfi) tək bir kəlmədir, o da «الشّهوة» (şəhvət, arzu) sözüdür. Deyilir: «رجلٌ شَهْوانُ» (şəhvətli/ehtiraslı kişi) və «شئٌ شَهِىٌّ» (iştahaaçan, arzulanan şey).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:52:58.865Z"
+}

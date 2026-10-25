@@ -1,0 +1,17 @@
+{
+ "i": 1835,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زرب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 51,
+  "page_to": 51
+ },
+ "ar": "الزاء والراء والباء أصلٌ يدلّ على بعض المأوَى. فالزَّرْب زَرب الغنم، وهى حظيرتها. ويقال الزَّرِيبة الزُّبْية. والزَّريبة: قُتْرَة الصائد.",
+ "az": "[زرب] (zə-rə-bə): Zai, ra və ba hərflərindən ibarət bir kök olub sığınacağın bir hissəsinə dəlalət edir. «الزَّرْب» – qoyun zərbi, yəni onların tövləsidir. Deyilir ki, «الزَّرِيبة» – ovçu quyusudur. Və «الزَّرِيبة» – ovçunun gizləndiyi yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:43.941Z"
+}

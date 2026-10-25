@@ -1,0 +1,17 @@
+{
+ "i": 613,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جذع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 437,
+  "page_to": 437
+ },
+ "ar": "الجيم والذال والعين ثلاثة أصول: أحدها يدلُّ على حدوث السّنّ وطراوته. فالجَذَع من الشَّاءِ: ما أتى له سنتانِ، ومن الإبل الذى أتَتْ له خَمْسُ سنينَ. ويُسَمّى الدّهر الأزْلَمَ الجَذَع، لأنه جديد. قال:\nيا بِشْرُ لو لم أكُنْ منكم بمنزلةٍ … ألقَى علىَّ يديهِ الأزْلَمُ الجَذَعُ (٣)\nوقال قوم: أراد به الأسد.\nويقال: هو فى هذا الأمر جَذَعٌ، إذا كان أخَذَ فيه حديثاً.\nوالأصل الثانى: جِذْع الشَّجرة. والثالث: الجَذع، من قولك جذَعْتُ الشئَ إذا دلكتَه. قال:\n* كأنّه مِنْ طُولِ جَذْع العَفْسِ (٤) *\nوقولهم فى الأمثال: «خُذْ من جِذْع ما أعطاك» فإِنه [اسم رجل (٥)].",
+ "az": "[جذع] (Cim, ذal və eyn): Üç əsas mənaya dəlalət edir: Biri dişin çıxmasına və təravətinə dəlalət edir. «الجَذَع» (cəzəc) — qoyunlardan iki yaşına çatmış olanı, dəvələrdən isə beş yaşına çatmış olanıdır. «الدَّهر الأزْلَم الجَذَع» (əncaməsiz yeni zaman) yenidir deyə adlandırılmışdır. Şair demişdir: «Ey Bişr, əgər mən sizdən bir mərtəbədə olmasaydım... üstümə əllərini atardı əncaməsiz yeni zaman (٣)». Qövm demişdir: Bununla aslanı qsd etmişdir. Deyilir: «هو فى هذا الأمر جَذَعٌ» (O, bu işdə təzədir) – yəni işə yenicə başlayıb. İkinci əsas: Ağacın «جِذْع» (kötüyü). Üçüncü: «الجَذع» (cəzəc), «جذَعْتُ الشئَ» (şeyi ovuşdurdum) sözündəndir; hansı ki, onu ovxalamısan. Şair demişdir: «Sanki o, uzun-uzadı əfvs kötüyündən (4)» Atalar sözündə demişlər: «خُذْ من جِذْع ما أعطاك» (Kötükdən sənə verdiyini götür) – çünki o [bir kişinin adıdır (5)].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:45:27.643Z"
+}

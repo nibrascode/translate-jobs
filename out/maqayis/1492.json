@@ -1,0 +1,17 @@
+{
+ "i": 1492,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رضف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 401,
+  "page_to": 401
+ },
+ "ar": "الراء والضاد والفاء أصلٌ واحد يدلُّ على إطباق شئِ على شئ. فالرَّضْفَة: عظمٌ منطبقٌ على الرُّكبة. فأمّا الرَّضْف فحجارةٌ تُحمَى، يُوغَر بها اللَّبنُ، ولا يكون ذلك بحجرٍ واحد. و\nفى الحديث: «كان يُعجِّل القيامَ كأنَّه على الرَّضْف (٢)». والرَّضيف: الَّلبن يُحلب على الرَّضْف يؤكل. ويقال شِواءٌ مرضوف: يُشوَى على الرَّضْف. فأما قولُ الكميت:\nومَرْضُوفةٍ لمْ تُؤْنِ فى الطَّبْخ طاهياً … عجِلْتُ عَلَى مُحْوَرَّها حِين غَرْغَرَا (٣)\nفإِنَّه يريد القِدْر التى أنضِجَت بالرَّضْف، وهى الحجارة التى مضى ذِكرها.\nذكر ابنُ دريدٍ (٤): رضَفْتُ الوِسادةَ: ثنيتُها؛ فى لغة اليمن.",
+ "az": "[رضف] (rə-zə-fə). Ra, zad və fa – bir əsas olub, bir şeyin digərinin üzərinə qapanmasına dəlalət edir. الرَّضْفَة (ar-razfə) – dizə qapanan sümük. الرَّضْف (ar-razf) isə qızdırılan və südə atılan daşlardır, bu, tək bir daşla olmur. Hədisdə gəlmişdir: «كَانَ يُعَجِّلُ القِيَامَ كَأَنَّهُ عَلَى الرَّضْفِ (٢)» («Elə tələsik qalxardı ki, sanki [qızdırılmış] daşların üzərində [dayanıbmış] kimi»). الرَّضِيف (ar-razif) – razf üzərinə sağılan və yeyilən süddür. Şِواءٌ مَرْضُوفٌ (şivauun mazufun) – razf üzərində bişirilən kabab. Əl-Kumeytin bu sözünə gəldikdə: وَمَرْضُوفَةٍ لَمْ تُؤْنِ فِي الطَّبْخِ طَاهِياً … عَجِلْتُ عَلَى مُحْوَرَّها حِينَ غَرْغَرَا (٣) (Bişmək üçün aşpaz tərəfindən vaxtı çatdırılmamış, qaynayıb qıjıldayan zaman mərkəzinə tələsdiyim razf üzərindəki qazan...); o, bununla razf, yəni zikr olunan daşlarla bişirilən qazanı qəsd edir. İbn Dureyd (٤) zikr etmişdir ki: رَضَفْتُ الْوِسَادَةَ (razaftu əl-visadətə) – yastığı qatladım, – yəmən dilindədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:30.015Z"
+}

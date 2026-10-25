@@ -1,0 +1,17 @@
+{
+ "i": 1721,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 6,
+  "page_to": 6
+ },
+ "ar": "الزاء والتاء كلمةٌ لا قياس لها. يقال زَتَتُّ العروسَ، إذا زيَّنتَها. قال:\nبَنِى تَميمٍ زَهْنِعُوا فتاتَكُمْ … إنَّ فتاةَ الحىِّ بالتّزَتُّتِ (٢)\nوقد تزتَّتَتْ، أى تزيَّنت.",
+ "az": "«زت» — Zae və ta qiyas olunmayan bir kəlmədir. «زَتَتُّ العروسَ» (gəlini bəzədim) deyilir. Şair demişdir: «بَنِى تَميمٍ زَهْنِعُوا فتاتَكُمْ … إنَّ فتاةَ الحىِّ بالتّزَتُّتِ (٢)» (Ey Təmim oğulları, qızınızı bəzəyin, çünki məhəllənin qızı bəzənməklə gözəlləşir). O, artıq bəzənmişdir, yəni «تزتَّتَتْ».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:48.690Z"
+}

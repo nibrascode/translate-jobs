@@ -1,0 +1,17 @@
+{
+ "i": 1276,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دكس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 292,
+  "page_to": 292
+ },
+ "ar": "الدال والكاف والسين أُصَيلٌ يدلُّ على غِشْيان الشّئ بالشئ. قال ابنُ الأعرابىّ. الدُّكاس: ما يَغْشى الإنسانَ من النُّعاس. قال:\nكأنَّه من الكَرَى الدُّكَاسِ … باتَ بِكأسَىْ قَهوةٍ يُحاسِى (١)\nويقال: الدَّوْكس: العدد الكثير. وقال: الدَّكَس: تراكُبُ الشئِ بعضه على بعض. وذُكر عن الخليل أنّ الدَّوْكس الأسد، فإِنْ كان صحيحاً فهو من الباب؛ لجرأته وغِشْيانِهِ * الأهوال.",
+ "az": "«دكس» (dəkus): Dal, kaf və sin bir şeyin digərini bürüməsinə dəlalət edən kiçik bir əsasdır. İbn əl-Ərəbi demişdir: «الدُّكاس» (əd-dukes) — insanı bürüyən mürgü (yuxululuq). O demişdir:\nكأنَّه من الكَرَى الدُّكَاسِ … باتَ بِكأسَىْ قَهوةٍ يُحاسِى (١)\n(Sanki o, mürgü yuxusundan iki qədəh qəhvə içərək gecələdi).\nVə deyilir: «الدَّوْكس» (əd-dövs) — çoxsaylı say. Həmçinin demişdir: «الدَّكَس» (əd-dəbəs/əd-dəbəs) — bir şeyin digərinin üzərinə yığılması. Xəlildən rəvayət olunmuşdur ki, «الدَّوْكس» (əd-dövs) şirdir; əgər bu doğrudursa, onda qorxmazlığına və dəhşətləri bürüməsinə görə bu fəsildəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.147Z"
+}

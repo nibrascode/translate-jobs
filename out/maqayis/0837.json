@@ -1,0 +1,17 @@
+{
+ "i": 837,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 38,
+  "page_to": 39
+ },
+ "ar": "الحاء والراء والسين أصلان: أحدهما الحِفْظ والآخر زمانٌ.\nفالأوّل حَرَسَه يَحْرُسُه حَرْساً. والحَرَس: الحُرَّاس. وأمَّا حَرِيسَة الجَبَل، التى جاءت فى الحديث، فيقال هى الشاة يُدركها اللَّيل قَبْلَ أُوِيِّها إِلى مأواها، فكأنها حُرِسَتْ هناك. وقال أبو عبيدة فى حريسة الجبل: يجعلها بعضهم السَّرِقَة نفسَها؛ يقال حَرَس يَحْرِسُ حَرْساً، إِذا سَرَق. وهذا إِنْ صحَّ فهو قريبٌ من الباب؛ لأنَّ السارق يرقُب الشئ كأنّه يحرُسه حتَّى يتمكَّن منه. والأوّلُ أصحّ.\nوذلك قول أهل اللُّغة إِنّ الحَريسَةَ هى المحروسة. فيقول: «[ليس] فيما يحرس بالجبل قَطْع» لأنّه ليس بموضع * حِرْز.",
+ "az": "«حرس» (hərs): Ha, ra və sin hərflərindən ibarət olub iki kökdür: biri qorumaq, digəri isə zamandır.\nBirincisi: «حَرَسَه يَحْرُسُه حَرْساً» (onu qorudu, qoruyur, qorumaq). Və «الحَرَس» (əl-hərs) — gözətçilərdir. Hədisdə gələn «حَرِيسَة الجَبَل» (dağ hərisəsi) gəldikdə isə, deyilir ki, o, gecə öz sığınacağına qayıtmazdan əvvəl gecənin yaxaladığı qoyundur, elə bil o, orada qorunmuşdur. Əbu Ubeydə dağ hərisəsi barədə demişdir: bəziləri onu oğurluğun özü hesab edirlər; deyilir: «حَرَس يَحْرُسُ حَرْساً» (oğurladı, oğurlayır, oğurluq), oğurladığı zaman. Əgər bu doğrudursa, o zaman bu, fəsilə yaxındır; çünki oğru imkan əldə edənə qədər onu qoruyurmuş kimi şeyə nəzarət edir. Birincisi isə daha doğrudur.\nBu da dil alimlərinin «الحَريسَة»nin (əl-hərisənin) qorunan şey olması barədəki sözüdür. Deyir: «Dağda qorunan şeylərdə əl kəsmək yoxdur» («[ليس] فيما يحرس بالجبل قَطْع»), çünki ora * hərz (qorunan yer) deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 131,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "أمع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 139,
+  "page_to": 139
+ },
+ "ar": "الهمزة والميم والعين، ليس بأصل، والذى جاء فيه رجلٌ إِمَّعَةٌ، وهو الضعيف الرّأى، القائلُ لكلِّ أحدٍ أنا معَك.\nقال ابنُ مسعود:\n«لا يكونَنَّ أحَدُكم إمَّعَةً». والأصل «مع» والألف زائدة.",
+ "az": "[أمع]\n«أمع» (həmzə, mim, əyn) — əsli (kökü) olmayan bir kəlmədir. Bu kəlmədə gələn «رجلٌ إِمَّعَةٌ» (imməə adam) ifadəsidir ki, o da rəyi zəif, hər kəsə «mən səninləyəm» deyən adamdır.\nİbn Məsud demişdir:\n«لا يكونَنَّ أحَدُكم إمَّعَةً» (Sizdən heç kim imməə/iradəsiz olmasın). Kökü «مع» (ilə) sözüdür, əlif isə əlavədir (zaiddir).",
+ "model": "gemini-3.5-flash",
+ "ts": "2026-10-25T00:20:43.297Z"
+}

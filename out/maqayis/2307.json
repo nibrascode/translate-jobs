@@ -1,0 +1,17 @@
+{
+ "i": 2307,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صنج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 314,
+  "page_to": 314
+ },
+ "ar": "الصاد والنون والجيم ليس بشئ. والصَّنْج دَخِيل.",
+ "az": "«صنج» (Sad, nun və cim) - əhəmiyyətli bir şey deyil. «الصَّنْج» (zınqırov, musiqi aləti) isə alınma sözdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:50.745Z"
+}

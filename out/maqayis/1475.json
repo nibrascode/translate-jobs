@@ -1,0 +1,17 @@
+{
+ "i": 1475,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رسب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 395,
+  "page_to": 395
+ },
+ "ar": "الراء والسين والباء أصلٌ واحد، هو ذهابُ الشئ سُفْلاً مِنْ ثِقَلٍ. تقول: رسَبَ الحجَر فى الماء يرسُب. وحكى بعضهم رسَبَتْ عيناه:\nغارَتَا. فإن كان صحيحاً فهو محمولٌ على ما ذكرناهُ، مشبَّهٌ به. والسَّيف الرَّسوب:\nالذى يمضى فى الضَّريبة (٢)، فكأنّه قد رَسَب فيها. وراسِبٌ: حَىٌّ من العَرب.",
+ "az": "«رسب» (Rə-s-b): Ra, sin və ba tək bir əsasdır, o da bir şeyin ağırlıq səbəbindən aşağı getməsidir. Deyirsən: رسَبَ الحجَر فى الماء يرسُب (Daş suda batdı, batır). Bəziləri رسَبَتْ عيناه (Gözləri çökdü) demişlər; əgər bu səhihdirsə, yuxarıda qeyd olunan məna daşınmış və ona bənzədilmişdir. السَّيف الرَّسوب (Kəsici qılınc): Zərbəni keçən qılıncdır, elə bil o, (zərbəyə) batmışdır. وراسِبٌ (Rasib): Ərəb qəbilələrindən bir tayfadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:08.224Z"
+}

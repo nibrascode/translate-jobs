@@ -1,0 +1,17 @@
+{
+ "i": 2508,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 422,
+  "page_to": 422
+ },
+ "ar": "الطاء والميم والنون أُصَيل بزيادة همزة. يقال اطمأنَّ المكان يطمئنّ طُمَأْنِينة. وطامنت مِنه: سَكَّنت.",
+ "az": "«طمن» — الطاء والميم والنون أُصَيل بزيادة همزة (Ta, mim və nun həmmənin artırılması ilə kiçik bir kökdir). يقال اطمأنَّ المكان يطمئنّ طُمَأْنِينة (Məkan itməənnə — arxayınlaşdı, yətməinnu tuməninətən deyilir). وطامنت مِنه: سَكَّنت (Və \"taraməntü minhu\" — ondan bir hissəni sakitləşdirdim, alçaltdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:31.509Z"
+}

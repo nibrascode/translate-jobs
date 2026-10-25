@@ -1,0 +1,17 @@
+{
+ "i": 1116,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خفد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 203,
+  "page_to": 203
+ },
+ "ar": "الخاء والفاء والدال أصلٌ واحد، وهو من الإسراع. يقال خَفَدَ الظّليم: أسرع فى مَرِّه. ولذلك سُمِّى خَفيْدَداً.",
+ "az": "[خفد] الخاء والفاء والدال أصلٌ واحد، وهو من الإسراع (Hərf-i xa, fa və dal tək bir əsasdır və o, tələsməkdir). Deyilir: «خَفَدَ الظّليم» — dəvəquşu qaçışında tələsdi. Buna görə də ona «خَفيْدَد» ad verilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:10:24.017Z"
+}

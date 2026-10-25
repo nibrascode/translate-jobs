@@ -1,0 +1,17 @@
+{
+ "i": 571,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 405,
+  "page_to": 405
+ },
+ "ar": "فى المضاعف. الجيم والحاء يدلُّ على عِظَم الشئ، يقال للسيِّد من الرّجال الجَحْجاح، والجمع جَحاجحُ وجَحاجِحةٌ. قال أمية:\nماذا بَبَدْرٍ فالعَقَنْ … قلِ من مَرازِبةٍ جَحاجِحْ (١)\nومن هذا الباب أجَحَّت الأُنثى إذا حَمَلت وأَقْرَبت، وذلك حين يعظُمُ بَطْنُها لكِبَر وَلَدِها فيه. والجمع مَجَاحُّ (٢). و\nفى الحديث: «أنّهُ مَرّ بامرأةٍ مُجِحٍّ».\nهذا الذى ذَكرَهُ الخليل. وزاد ابنُ دريدٍ بعضَ ما فيه نظرٌ، قال: جَحَّ الشئَ إذا سحَبَه (٣)، ثم اعتذر فقال: «لغة يمانية». والجُحُّ (٤): صغار البِطِّيخ.",
+ "az": "Müdaəf (ikiqat hərfli sözlər) babında. Cim və ha hərfləri bir şeyin böyüklüyünə dəlalət edir; kişilərin ulusuna «الجَحْجاح» (cəhcah) deyilir, cəmi isə «جَحاجحُ» (cəhacih) və «جَحاجِحة» (cəhaciqə) gəlir. Üməyyə demişdir:\nماذا بَبَدْرٍ فالعَقَنْ … قلِ من مَرازِبةٍ جَحاجِحْ (١)\n(Bədr və Əqandə nə qədər də ulu, başçı mərazibələr [fars başçıları] az idi!)\nBu babdandır: Dişi heyvan hamilə qalıb doğmağına az qaldıqda «أجَحَّتِ الأُنثى» (əcəhhatil-ünsə) deyilər, bu, qarnındakı balanın böyüməsindən ötrü qarnının böyüdüyü vaxtdır. Cəmi isə «مَجَاحُّ» (məcahu) gəlir (2).\nHədisdə buyurulmuşdur: «O, hamilə bir qadının yanından keçdi».\nXəlilin zikr etdiyi budur. İbn Dürid isə üzərində düşünməyə ehtiyac olan bəzi şeylər əlavə edərək demişdir: Bir şeyi çəkib apardıqda «جَحَّ الشئَ» (cəhə əş-şəyə) deyilər (3), sonra isə üzr istəyərək «Bu, yəməni lüğətidir» demişdir. «الجُحُّ» (əl-cuhh) isə xırda qarpızlardır (4).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:43:21.035Z"
+}

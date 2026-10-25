@@ -1,0 +1,17 @@
+{
+ "i": 452,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تلو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 351,
+  "page_to": 351
+ },
+ "ar": "التاء واللام والواو أصلٌ واحد، وهو الاتِّباع. يقال: تَلَوْتُه إذا تَبِعْتَه. ومنه تِلاوةُ القُرآن، لأنّه يُتْبِع آيةً بعد آية. فأمّا قوله تلَوْتُ الرّجلَ أتلوه تُلُوًّا (٢) إذا خَذَلْتَه وتركتَه، فإِنْ كان صحيحاً فهو القياس؛ لأنه مُصاحِبُه ومَعَه، فإذا انقَطَعَ عنه وتركه فقد صار خَلْفَه بمنزلة التَّالى.\nومن الباب التّلِيَّة والتُّلَاوَة وهى البقيّة، لأنها تتلو ما تقدَّم منها. قال ابن مُقبل:\nيا حُرّ أمْسَتْ تَليَّاتُ الصِّبَا ذهبَتْ … فلستُ منها على عَينٍ ولا أَثَرِ\nومما يصحّ [فى] هذا ما حكاه الأصمعىّ: بقِيَتْ لى حاجةٌ فأنا أَتَتَلاَّهَا.\nوالتَّلَاءُ الذّمّة، لأنها تُتَّبَع وتُطْلَب، يقال أَتْلَيْتُه ذِمّة. والمُتالِى الذى يُرَادُّ صاحبَه الغِناءَ، سُمّيا بذلك لأنّ كلّ واحدٍ منهما [يتلو] صاحبه. قال الأخطل:\n* … أوْ غِناءُ مُتَالِ (٣) *",
+ "az": "[تلو] (tə-lə-v) - Tə, lam və vav tək bir əsasdır ki, o da tabe olmaq deməkdir. «تَلَوْتُه» (onu izlədim) — yəni ona tabe oldun, deyilir. Quranın «تِلاوة» (tilavət) sözü də bundandır, çünki oxuyan bir ayəni digərinin ardınca gətirir. «تَلَوْتُ الرّجلَ أتلوه تُلُوًّا» sözünə gəldikdə isə, (٢) əgər səni tərk etdim və kimsəsiz qoydum mənasındadırsa, əgər bu səhihdirsə, bu da həmin qisandandır; çünki o, yoldaşdır və birlikdədir, lakin ondan ayrılanda və onu tərk edəndə artıq arxada qalmış olur, sanki izləyəndir. Bu babdəndir: التَّلِيَّة və التُّلَاوَة (qalıq), çünki o, özündən əvvəl gələnin ardınca gəlir. İbn Muqbil demişdir: Ey azad qadın, gəncliyin qalıqları gedəndən sonra axşam açdı... Mən nə onu görə bildim, nə də bir izini tapdım. Buna [səhih olanlar] dən olanlardan biri də Əsməinin rəvayət etdiyidir: Mənim bir ehtiyacım qaldı, mən də onu təqib edirəm (أَتَتَلاَّهَا). التَّلَاءُ (öhdəlik, əhd), çünki o, təqib olunur və tələb edilir, «أَتْلَيْتُه ذِمّة» (ona bir öhdəlik yüklədim) deyilir. الْمُتالِى (müqabilində oxuyan/yarışan) isə dostunun oxumasını (və ya sərvətini) geri istəyəndir, hər ikisi bir-birinin ardınca gəldiyi üçün belə adlandırılmışdır. Əxhtal demişdir: ...və ya mütalinin (yarışanın) oxuması (3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:28.996Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2180,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شتو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 245,
+  "page_to": 245
+ },
+ "ar": "الشين والتاء والحرف المعتلّ أصلٌ واحد لزمانٍ من الأزمنة، وهو الشِّتاء: خلافُ الصَّيف. وهى الشَّتْوة، بفتح الشين. والموضع المَشْتاة والمَشْتَى. قال طَرَفة:\nنَحْنُ فى المشتاةِ ندعُو الجَفَلَى … لا تَرَى الآدِبَ فينا ينتقِرْ\nوقال الخليل: الشِّتاء معروف، والواحد الشَّتوة. وهذا قياسٌ جيِّد، وهو مثل شَكوة وشِكاء. ويقال أشتى القوم، إذا دخَلوا فى الشتاء؛ وشَتَوا، إذا أصابهم الشِّتاء.",
+ "az": "«شتو» (şətu). Şin, ta və uzadılan hərf (üçüncü hərf) zamanlardan bir zamana aid olan tək bir kökdür, o da yazın əksi olan qışdır (الشِّتاء). Şin hərfinin fəthi ilə Şətvə (الشَّتْوة) deyilər. Qışlaq yeri isə المَشْتاة (əl-məştat) və المَشْتَى (əl-məştə) olaraq adlandırılır. Tərəfə demişdir: نَحْنُ فى المشتاةِ ندعُو الجَفَلَى … لا تَرَى الآدِبَ فينا ينتقِرْ (Biz qışlaqda böyük dəvətlə çağırarıq... Qonaqlıq verəni aramızda xəsislik edən görməzsən). Xəlil demişdir: Qış məlumdur, təki isə şətvədir (الشتوة). Bu, gözəl bir qiyasdır, şəkvə (شكوة) və şikə (شِكاء) kimidir. Deyilir: qövl qışa daxil olduqda أشتى القوم (əştəti əl-qövm), qış onlara toxunduqda isə شَتَوا (şətəv) deyilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:28.156Z"
+}

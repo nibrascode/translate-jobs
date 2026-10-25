@@ -1,0 +1,17 @@
+{
+ "i": 787,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جرشع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 512,
+  "page_to": 512
+ },
+ "ar": "ومن ذلك قولهم للعظيم الصدر (جُرْشُعٌ). فهذا من الجَرْش؛ والجَرْش.\nصدر الشئ. يقال جَرْشٌ من اللَّيل، مثل جَرْس. ومن الجَشَع، وهو الحِرص الشديد. فالكلمة أيضاً منحوتة من كلمتين.",
+ "az": "«جرشع» - Və buraya sinəsi böyük olan adama «جُرْشُعٌ» (curşü') deyilməsi daxildir. Bu, الجَرْش (əl-cərş) sözündəndir; جَرْشُ (cərş) bir şeyin sinəsidir. Gecənin əvvəli mənasını verən جَرْشٌ من اللَّيل (cərşün min əl-leyl) deyilir, جَرْس (cərs) kimidir. Həmçinin şiddətli hərislik mənasını verən الجَشَع (əl-cəşə') sözündəndir. Deməli, bu söz də iki sözdən nəht edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

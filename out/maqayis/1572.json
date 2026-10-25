@@ -1,0 +1,17 @@
+{
+ "i": 1572,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رمج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 437,
+  "page_to": 437
+ },
+ "ar": "الراء والميم والجيم ليس أصلاً، وفيه ما يُقبَل ويُعتَمد عليه (٢)، لكنَّهم يقولون: رَمَّجَ الأثَر بالتُّراب (٣)؛ ورمَّج السُّطور: أفسَدَها.",
+ "az": "[رمج] (Rəməc). Ra, mim və cim müstəqil əsas deyil və onda qəbul olunan və etimad edilən bir şey yoxdur, lakin onlar deyirlər: رَمَّجَ الأثَر بالتُّراب (İzi torpaqla örtdü, basdırdı); və رَمَّج السُّطور (Sətirləri xarab etdi, pozdu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:08.692Z"
+}

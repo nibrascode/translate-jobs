@@ -1,0 +1,17 @@
+{
+ "i": 594,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 426,
+  "page_to": 426
+ },
+ "ar": "الجيم والحاء والسين ليس أصلا. وذلك أنّهم قالوا:\nالْجِحاس (٤)، ثم قالوا: السِّين [بدل] الشين. قال ابن دريد: جُحِسَ جلدُه مثل جُحِش، إذا كُدِح",
+ "az": "[جحس] (Cim, ha və sin hərfləri əsas deyildir. Belə ki, onlar الْجِحاس (٤) demiş, sonra sin hərfini şin hərfi [əvəzinə] işlətmişlər. İbn Dürid demişdir: Çızıldığı zaman جُحِسَ جلدُه, جُحِش kimi deyilmişdir.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:44.167Z"
+}

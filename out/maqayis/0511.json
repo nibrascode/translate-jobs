@@ -1,0 +1,17 @@
+{
+ "i": 511,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثرم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 374,
+  "page_to": 374
+ },
+ "ar": "الثاء والراء والميم كلمةٌ واحدة يشتقّ منها، يقال ثَرَمْت لرّجل فثَرِم، وثَرَمْت ثنيّته فانثرمت (١). والثَّرْماء: ماءٌ لكِندة.",
+ "az": "[ثرم] الثاء والراء والميم كلمةٌ واحدة يشتقّ منها (Thə, ra və mim özündən törənilən tək bir kəlmədir), deyilir: ثَرَمْت لرّجل فثَرِم (Bir kişi üçün ثَرَمْتُ - səramtu - etdim, o da ثَرِمَ - sərimə - oldu), və ثَرَمْت ثنيّته فانثرمت (Onun ön dişi üçün ثَرَمْتُ - səramtu - etdim, o da inthərmə oldu) (١). وَالثَّرْماءُ (Əs-sərma): Kində üçün bir su.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:38.075Z"
+}

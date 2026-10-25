@@ -1,0 +1,17 @@
+{
+ "i": 1590,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رنخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 444,
+  "page_to": 444
+ },
+ "ar": "الراء والنون والخاء ليس أصلاً، إلا أَنْ يكون شئ من باب الإبدال يُحمل على الباب الذى قَبْلَه، فيدلُّ على فتور وضعف. يقولون: الرانخ:\nالفاتر الضَّعيف. يقال رَنَخَ، إذا ضَعُف. وربما قالوا رنَّخْتُ الرجلَ ترنيخاً، إذا ذَلَّلْتَه، فهو مرنَّخ.",
+ "az": "[رنخ] (rənəh) - راء، نون və xa hərfləri əsl deyildir, lakin əvəzlənmə (ibdəl) باب-ından olub özündən əvvəlki باب-a həml edilərsə, süstlüyə və zəifliyə dəlalət edər. Deyirlər: «الرانخ» (əl-ranih) - süst, zəif. Deyilir: «رَنَخَ» (rənəhə) - zəiflədi. Bəzən də «رنَّخْتُ الرجلَ ترنيخاً» (rənnəhtu ər-rəculə tərnihən) - deyirlər, yəni onu zəlil etdim, o da «مرنَّخ» (murənnəh) - zəlil olmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:32:28.606Z"
+}

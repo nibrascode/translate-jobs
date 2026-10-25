@@ -1,0 +1,17 @@
+{
+ "i": 286,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بغث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 272,
+  "page_to": 273
+ },
+ "ar": "الباء والغين والثاء أصل واحد، يدلّ على ذلّ الشئ وضعفه.\nمن ذلك بغاث الطّير، وهى التى لا تصيد ولا تمتنع. ثم يقال لأخلاط الناس\nوخشارتهم البغثاء. والأبغث مكان ذو رمل. وهو من ذاك (١) لأنه ليّن غير صلب.",
+ "az": "«بغث» (bağəta). Ба, ğun və sə hərfləri tək bir əslə malik olub, şeyin zəlil və zəif olmasına dəlalət edir. Bunlardan biri «بغاث الطّير» (bəğasüt-teyr) olub, ov etməyən və özünü qoruya bilməyən quşlardır. Sonra camaatın müxtəlif zümrələrinə və alçaqlarına «البغثاء» (əl-bəğəsa) deyilir. «الأبغث» (əl-əbğəb) isə qumlu məkandır. O, bundan (١) irəli gəlir, çünki yumşaqdır, sərt deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:32:05.260Z"
+}

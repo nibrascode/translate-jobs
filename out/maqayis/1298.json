@@ -1,0 +1,17 @@
+{
+ "i": 1298,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دمع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 301,
+  "page_to": 302
+ },
+ "ar": "الدال والميم والعين أصلٌ واحد يدلُّ على ماءِ أو عَبْرةٍ (٢). فمن ذلك الدَّمْع ماءُ العَين، والقَطرةُ دَمْعةٌ. والفِعْل دَمَعَتِ العينُ دَمْعاً ودَمِعَتْ دَمَعاً * ودَمَعَتْ دُمُوعاً أيضاً. وعينٌ دامعةٌ. وجمعُ الدَّمْع دُموع. قال الخليل: المَدْمَع مجتَمَع الدّمع فى نَوَاحى العَين، والجميع المَدامع. ويقال امرأة دَمِعَةٌ: سريعةُ البكاء كثيرةُ الدَّمْع. ويقال شَجَّةٌ دامعةٌ: تسيل دَماً. كذا هو فى كتاب الخليل. والأصحُّ مِنْ هذا أنّ التى تسيلُ دماً هى الدّامِية، فأمّا الدّامعة، فأمْرُها دون ذلك، لأنّها التى كأنّها يَخْرُج منهما ماءٌ أحمرُ رقيق، وذكر اليزيدىُّ أنّ الدُّمَاع أثَرُ الدَّمْع على الخَدّ. وأنشد:\nيا مَنْ لِعَينٍ لا تَنِى تَهْماعَا … قد تَرَك الدّمْعُ بها دِمَاعا (٣)\nويقال دُماعاً. والدُّماع مخفَّف ومثقّل: ما يَسِيل من الكَرْم أيَّامَ الرَّبيع.",
+ "az": "[دمع] (dəm-ع): Dal, mim və eyn hərfləri bir əsas prinsipi göstərir ki, bu da su və ya göz yaşıdır (٢). Bunlardan biri gözün suyu olan «الدَّمْع» (əd-dəmc)-dir, bir damla isə «دَمْعة» (dəmcətün)-dür. Fel olaraq «دَمَعَتِ العينُ دَمْعاً» (dəmَعət əl-eynü dəmCən) və «دَمِعَتْ دَمَعاً» (dəmiəət dəməCən) * həmçinin «دَمَعَتْ دُمُوعاً» (dəmiət dumucan) işlənir. «عينٌ دامعةٌ» (eynün damicətün) — yaşlı göz. «الدَّمْع»-in cəmi «دُموع» (dumuc)-dur. Xəlil demişdir: «المَدْمَع» (əl-məd-mü) gözün kənarlarında göz yaşının yığıldığı yerdir, cəmi isə «المَدامع» (əl-mədəmic)-dir. Deyilir: «امرأة دَمِعَةٌ» (imraətün dəmicətün) — tez ağlayan, göz yaşı çox olan qadın. Deyilir: «شَجَّةٌ دامعةٌ» (şəccətün damicətün) — qan axıdan yara. Xəlil bunu kitabında belə qeyd etmişdir. Bundan daha səhih olanı odur ki, qan axıdan yara «الدّامِية» (əd-damiətü)-dir, «الدّامعة» (əd-damicətü)-yə gəldikdə isə, onun işi bundan daha sadədir, çünki o, guya içindən incə, qırmızı su çıxan yaradır. Yezidi qeyd etmişdir ki, «الدُّمَاع» (əd-dumacu) yanaq üzərindəki göz yaşı izidir. O, bu beyt ilə istinad etmişdir:\nيا مَنْ لِعَينٍ لا تَنِى تَهْماعَا … قد تَرَك الدّمْعُ بها دِمَاعا (٣)\n(Ey dayanmadan ağlayan gözün sahibi! Göz yaşı orada izlər qoydu).\nVə «دُماعاً» (dumacan) da deyilir. «الدُّماع» (əd-dumacu) – həm xəfif, həm də təşdidli şəkildə yazılır – yaz aylarında tənək bitkisindən axan sudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.835Z"
+}

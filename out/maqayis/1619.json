@@ -1,0 +1,17 @@
+{
+ "i": 1619,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "روغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 460,
+  "page_to": 460
+ },
+ "ar": "الراء والواو والغين أصلٌ واحدٌ يدلُّ على مَيْل وقلّة استقرار.\nيقال راغَ الثّعلبُ وغيرُه يَرُوغُ. وطريقٌ رائغٌ: مائل. وراغَ فلانٌ إلى كذا.\nإذا مالَ سِرَّا إليه. وتقول: هو يُدِيرُنى عن أمرى وأَنا أُريعه. قال:\nيدِيرُونَنِى عن سالِمٍ وأُرِيغُهُ … وجلدةُ بَيْنِ العَينِ والأنْفِ سالمُ (١)\nويقال رَوَّغْت اللُّقْمةَ بالسَّمن أروِّغُها ترويغاً، إذا دَسَمْتَها. وهو إذا فعل ذلك أَدارَها فى السَّمْن إِدارة.\nومن الباب: راوغ فلانٌ فلاناً، إذا صارعه؛ لأنَّ كلَّ واحدٍ منهما يُرِيغ الآخَر، أى يُديرُه. ويقال: هذه رِواغة بنى فلان ورِياغتهم: حيث يصطَرِعُون.",
+ "az": "[روغ] (Rə, vau və ğeyn) — meyl etməyə və qərar tutmamağa dəlalət edən tək bir əslidir.\n\nDeyilir: «راغَ الثّعلبُ وغيرُه يَرُوغُ» (tülkü və başqası hiylə işlətdi, yolundan azdı). Yol üçün «طريقٌ رائغٌ» (əyri yol) deyilir. Filankəs gizlicə filan şeyə meyl etdikdə «راغَ فلانٌ إلى كذا» deyilir. Deyirsən: «هو يُدِيرُنى عن أمرى وأَنا أُريعه» (o, məni işimdən yayındırmağa çalışır, mən də onu yayındırıram). Şair demişdir:\nيدِيرُونَنِى عن سالِمٍ وأُرِيغُهُ … وجلدةُ بَيْنِ العَينِ والأنْفِ سالمُ (1)\n\nDeyilir: «رَوَّغْت اللُّقْمةَ بالسَّمن أروِّغُها ترويغاً» — loxmanı yağa buladığın zaman. O, bunu edərkən onu yağın içində fırlatmış olur.\n\nBu fəsildəndir: «راوغ فلانٌ فلاناً» — filankəs filankəslə güləşdi; çünki onların hər biri digərini yönləndirməyə, yəni fırlatmağa çalışır. Deyilir: «هذه رِواغة بنى فلان ورِياغتهم» — bəni-felanın güləşib büküşdükləri yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:33:59.185Z"
+}

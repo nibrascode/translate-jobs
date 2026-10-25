@@ -1,0 +1,17 @@
+{
+ "i": 2347,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صحب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 335,
+  "page_to": 335
+ },
+ "ar": "الصاد والحاء والباء أصلٌ واحد يدلُّ على مقارَنة (١) شئٍ ومقاربته. من ذلك الصَّاحب والجمع الصَّحْب، كما يقال راكب ورَكْبٌ.\nومن الباب: أصحب فلانٌ: إذا انقاد. وأصْحَبَ الرّجُل، إذا بلغ ابنُه. وكلُّ شئٍ لاءم شيئاً فقد استصحبه. ويقال للأديم إذا تُرِك عليه شَعَرُه مُصْحَبٌ.\nويقال أصحب الماءُ، إِذا علاه الطُّحْلَب.",
+ "az": "[صحب] «الصاد» (sad), «Hə» (ha) və «Ba» (ba) bir şeylə yoldaşlıq etməyə və ona yaxınlaşmağa dəlalət edən vahid kökdür. Bunlardan biri «الصَّاحب» (əs-sahib) və cəmi «الصَّحْب» (əs-səhb) — necə ki راكب (rakib) və رَكْب (rakb) deyilir. Bu qapıdandır: أصحب فلانٌ (filankəs boyun əydi) — tabe olduqda. Və أصْحَبَ الرّجُل (kişinin oğlu böyüdü/yetişdi). Hər hansı bir şey başqa bir şeyə uyğun gəldikdə onu özünə yoldaş etmiş sayılır (استصحبه). Üzərində tükləri buraxılmış dəriyə «مُصْحَبٌ» (mus-hab) deyilir. Və deyilir: أصحب الماءُ (su üzərini yosun bürüdü).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

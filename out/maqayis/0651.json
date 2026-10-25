@@ -1,0 +1,17 @@
+{
+ "i": 651,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جشر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 459,
+  "page_to": 460
+ },
+ "ar": "الجيم والشين والراء أصلٌ واحدٌ يدلّ على انتشار الشئ وبُروزه يقال جَشَر الصبح، إذا أنارَ. ومنه قولهم: اصطبَحْنا الجاشِرِيَّة، وهذا اصطباحٌ يكون مع الصبح. وأَصبَحَ بنو فلان جشَراً، إذا تَرَزُوا [و] الحىَّ ثم\nأقامُوا ولم يرجعوا إلى بيوتهم، وكذلك المال الجَشَر، الذى يَرْعى أمام البيوت.\nوالجَشَّار: الذى يأخُذ المالَ إلى الجَشْرَ (١).",
+ "az": "[جشر] Cim, şin və ra: bir kökdür, bir şeyin yayılmasına və aşkar olmasına dəlalət edir. Deyilir ki, جَشَر الصبح (səhər açıldı), yəni işıqlandı. اصطبَحْنا الجاشِرِيَّة (səhər yeməyi yedik) sözü də bundandır, bu, səhər vaxtı edilən yeməkdir. Bəni filan cəşər (جشَراً) oldular, yəni evlərindən çıxıb qaldılar və evlərinə qayıtmadılar. Həmçinin mal-qara cəşərdir (الجَشَر), yəni evlərin önündə otlayan. Cəşşar (الجَشَّار): mal-qaranı cəşrə (otlağa) aparandır (١).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.556Z"
+}

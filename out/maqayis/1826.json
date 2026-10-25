@@ -1,0 +1,17 @@
+{
+ "i": 1826,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زحر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 49,
+  "page_to": 49
+ },
+ "ar": "الزاء والحاء والراء تنفُّسٌ بشدّة ليس إلاّ هذا. يقال زَحَرَ يَزْحَرُ زحيراً، وهو صوتُ نَفَسِه إذا تنفّس بشدة. وزَحَرَت المرأة بولدها عند الولادة.",
+ "az": "[زحر] (zə-hə-ra): şiddətli şəkildə nəfəs almadan ibarətdir, başqa bir şey deyildir. Deyilir: «زَحَرَ يَزْحَرُ زحيراً» (o, şiddətlə nəfəs aldı) — bu, şiddətlə nəfəs alarkən çıxardığı səisdir. Qadın doğuş zamanı uşağı ilə nəfəsini sıxıb ıkındı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

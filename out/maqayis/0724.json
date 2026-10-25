@@ -1,0 +1,17 @@
+{
+ "i": 724,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 495,
+  "page_to": 496
+ },
+ "ar": "الجيم والواو واللام أصلٌ واحد، وهو الدَّوَرَان. يقال جَالَ يجول [جَوْلاً] وجَوَلَاناً، وأجَلْتُه أنا. هذا هو الأصل، ثمّ يشتق منه.\nفالجُول: ناحية البئر، والبئرُ لها جوانِبُ يُدَارُ فيها. قال:\nرَمَانِى بأمْرِ كنتُ منه ووَالِدِى … بَرِيًّا ومِنْ جُولِ الطّوِىّ رمانى (١)\nوالمِجْوَلُ: الغَدير (٢)، وذلك أنّ الماء يَجُول فيه. وربما شُبِّهت الدِّرعُ به لصفاء لونها. والمِجْوَل: التُّرْس. والمِجْوَل: قميصٌ يَجُولُ فيه لابسْه. قال امرؤُ القيس:\n* إذا ما اسبكرَّتْ بَيْنَ دِرْعٍ ومِجْوَلِ (٣) *\nويقال لِصِغار المال جَوَلان، وذلك أنّه يَجُول بين الجِلَّة. وقال الفراء: ما لفلانٍ جُولٌ، أى ما له رأىٌ. وهذا مشتقٌّ من الذى ذكرناه، لأنَّ صاحب الرأى يُدِيرُ رأيَهُ ويُعْمِلُه. فأمَّا الجَوْلانُ فبلدٌ؛ وهو اسمٌ موضوعٌ. قال:\nفآبَ مُضِلُّوهُ بِعَينٍ جَليَّةٍ … وغُودِرَ بالجَوْلانِ حَزْمٌ ونائِلُ (٤)",
+ "az": "[جول] — الجيم (Cim), الواو (Vav) və اللام (Lam) tək bir əslə qayıdır, o da dövr etmək, fırlanmaqdır. Deyilir: جَالَ يجول [جَوْلاً] وجَوَلَاناً (Fırlandı, dolandı), və وَأجَلْتُه أنا (Mən onu fırlatdım). Bu, əsl məbadir, sonra bundan başqa sözlər törədilir. وَالجُول (əl-Cul) — quyunun kənarı, quyunun ətrafında dövr edilən tərəfləri vardır. [Şair] demişdir: رَمَانِى بأمْرِ كنتُ منه ووَالِدِى … بَرِيًّا ومِنْ جُولِ الطّوِىّ رمانى (١) (Məni elə bir işlə vurdu ki, mən və atam bundan uzaq idik, məni quyunun kənarından vurdu). وَالمِجْوَل (əl-Micvəl) — su hövzəsi (٢), səbəbi də odur ki, su onun içində dövr edir. Bəzən zireh rənginin saflığına görə ona (micvələ) bənzədilmişdir. وَالمِجْوَل — qalxan. وَالمِجْوَل — geyinənin içində fırlandığı köynək. İmrül-Qeys demişdir: * إذا ما اسبكرَّتْ بَيْنَ دِرْعٍ ومِجْوَلِ (٣) * (Zirehlə micvəl arasında dikəldiyi zaman). Azmal-mali (kiçik mal-qaraya) cövləstan deyilir, çünki o, böyük mal-qaranın arasında fırlanır, gəzişir. Fəra demişdir: ما لفلانٍ جُولٌ (Filankəsin culu yoxdur), yəni onun rəyi (fikri) yoxdur. Bu, qeyd etdiyimiz məqamdan törəmişdir, çünki fikir sahibi öz fikrini idarə edir və işlədir. وَالجَوْلان (əl-Cövlan) sözünə gəldikdə isə, o, bir ölkədir; qoyulmuş addır. [Şair] demişdir: فآبَ مُضِلُّوهُ بِعَينٍ جَليَّةٍ … وغُودِرَ بالجَوْلانِ حَزْمٌ ونائِلُ (٤) (Onu azdıranlar açıq-aşkar gözlə qayıtdılar, Cövlanda isə əzmkarlıq və lütf qoyuldu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

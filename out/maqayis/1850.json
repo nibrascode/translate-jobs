@@ -1,0 +1,17 @@
+{
+ "i": 1850,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 66,
+  "page_to": 66
+ },
+ "ar": "السين والخاء أصلٌ فيه كلمة واحدة. يقان إِنْ السَّخَاخ الأرض الليِّنة الحُرَّة. وذكروا - إِنْ كان صحيحاً - سَخَّت الجرادة، إذا غرزت بذنبها فى الأرض.",
+ "az": "[سخ] Sin və xai hərfləri içində tək bir kəlmə olan bir əldir. Deyilir ki, «السَّخَاخ» — yumşaq və təmiz torpaqdır. Əgər doğrudursa, qeyd etmişlər ki: «سَخَّت الجرادة» — çəyirtkə quyruğunu yerə sancdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:42:47.277Z"
+}

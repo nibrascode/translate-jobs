@@ -1,0 +1,17 @@
+{
+ "i": 1282,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 294,
+  "page_to": 295
+ },
+ "ar": "الدال واللام والجيم أصلٌ يدلُّ على سَيرٍ ومَجئِ وذَهاب.\nولعلَّ ذلك أكثرَ ما كان فى خِفْيَةٍ. فالدَّلَج: سَيْر اللَّيل. ويقال أَدْلَجَ القومُ، إذا قطعوا الليلَ كلَّه سيراً؛ فإِنْ خرَجُوا مِنْ آخِر الليل فقد ادَّلجوا، بتشديد الدال.\nويقال إنَّ أبا المُدْلِج (٥) القُنْفذ، ويزعُمون أنَّ أكثرَ حركِته باللَّيل. والدَّوْلج:\nالسَّرب. والدَّوْلَج: كِناس الوحشىّ. وهو قياسُ الباب؛ لأنّهما يُستخفَى فيهما.\nثم يُحمَل على الباب، فيقال للذى يأخذ الدَّلومن رأس البئر إلى الحوض: الدَّالج، وذلك المكان المَدْلَج. والفِعل دَلَج يَدْلُجُ دُلُوجا (١). قال:\nكأنَّ رِماحَهُم أَشْطَانُ بِئْرٍ … لها فى كلِّ مَدْلَجةٍ خُدودٌ (٢)\nوأمَّا قولُ السَّمَّاخ:\nوتشكو بعَينٍ ما أكلَّ ركابَها … وقيلَ المَنادِى أصبَحَ القومُ أدْلِجِى (٣)\nفإِنّه حكَى صوتَ المنادِى، أنّه كان مرّةً ينادى: أصبَحَ القَومُ، ومرة ينادى: أدلجى (٤)، يَأمُرُ بذلك.",
+ "az": "«دلج» (dələc): Dal, lam və cim gedişə, gəlişə və gedişata dəlalət edən bir əsasdır. Bəlkə də bu, daha çox gizlinlikdə olur. «الدَّلَج» (əd-dələc) — gecə gedişidir. Deyilir: «أَدْلَجَ القومُ» (ədləcə əl-qövmü) — qövm bütün gecəni yeriyərək qət etdi; əgər gecənin sonundan çıxıblarsa, onda dalı uzadaraq «ادَّلجوا» (əddələqu) deyərlər.\nVə deyilir ki, «أبو المُدْلِج» (Əbu əl-mudlic) kirpidir və güman edirlər ki, onun hərəkətlərinin çoxu gecə olur. «الدَّوْلج» (əd-dövc) — kaha (gizli yeraltı yol). «الدَّوْلَج» (əd-dövc) — vəhşi heyvanın gizləndiyi yuva. Bu da fəslin qiyasındadır; çünki hər ikisində gizlənilir.\nSonra bu, fəslə həmlə olunaraq deyilir: Quyunun başından hovuzadək dəliyi (su qabını) götürən şəxsə «الدَّالج» (əd-dəlic), həmin yerə isə «المَدْلَج» (əl-mədlic) deyilir. Feli isə «دَلج يَدْلُجُ دُلُوجا» (dələcə yadlucu duluqan) olur (1). O demişdir:\nكأنَّ رِماحَهُم أَشْطَانُ بِئْرٍ … لها فى كلِّ مَدْلَجةٍ خُدودٌ (٢)\n(Sanki onların nizələri quyu ipidir ki, hər bir mədlicdə [su çəkən yolda] cizgiləri [izləri] vardır).\nAmma əs-Səmməxın bu sözünə gəlincə:\nوتشكو بعَينٍ ما أكلَّ ركابَها … وقيلَ المَنادِى أصبَحَ القومُ أدْلِجِى (٣)\n(Gözü ilə şikayət edir ki, minibərlərini nə yordu... və carçı dedi: qövm səhərlədi, adlicə [gecə yeriyin]!)\nO, carçının səsini rəvayət etmişdir ki, o, bir dəfə «أصبَحَ القومُ» (qövm səhərlədi), başqa vaxt isə «أدلجى» (gecə yeriyin — buna əmr edərək) deyə səslənirdi (4).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:18.148Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1780,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زنم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 29,
+  "page_to": 29
+ },
+ "ar": "الزاء والنون والميم أصلٌ يدلُّ على تعليق شئ بشئ. من ذلك الزَّنِيم، وهو الدَّعِىُّ. وكذلك المُزَنَّمُ؛ وشُبّه بزنَمَتِى العنز، وهما الّلتان تتعلَّقان من أذُنها. والزَّنَمة: اللَّحمة المتدلِّية فى الحلْق. وقال الشَّاعر فى الزَّنيم:\nزَنيمٌ تَداعاهُ الرِّجالُ زيادةً … كما زِيدَ فى عَرضِ الأديم الأكارعُ (١)\nباب الزاءِ والهاءِ والحرف المعتل",
+ "az": "[زنم] (zənəm): ز (zay), ن (nun) və م (mim) bir şeyin başqa bir şeyə asılmasını (ilişməsini) ifadə edən əsasdır. Bunlardan biri الزَّنِيم (əz-zənim) olub, soyu kənar olan (yad) kimsədir. Həmçinin المُزَنَّم (əl-müzənnəm); bu, keçinin qulağından asılan iki sallantı olan زَنَمَتَانِ (zənəmətan)-ə bənzədilib. Və الزَّنَمَة (əz-zənəmə): boğazdan sallanan ət parçasıdır. Şair əz-zənim haqqında demişdir:\nزَنيمٌ تَداعاهُ الرِّجالُ زيادةً … كما زِيدَ فى عَرضِ الأديم الأكارعُ (١) (Zənimün tədaəhül-ricəlü ziyادətən… kəmə ziidə fi ərdil-ədimil-əkariü)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:39:18.053Z"
+}

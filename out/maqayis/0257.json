@@ -1,0 +1,17 @@
+{
+ "i": 257,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بصل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 253,
+  "page_to": 253
+ },
+ "ar": "الباء والصاد واللام أصلٌ واحدٌ. البصل معروف، وبه شَبَّهَ لَبيدٌ البَيضَ فقال:\nفَخْمَةً ذَفْرَاءَ تُرْتَى بالعُرَى … قُرْدُمانِيًّا وتَرْكاً كالبَصَلْ (٢)",
+ "az": "[بصل] (bəşəl): Ba, sad və lam tək bir əsasdır. «البصل» (əl-bəşəl) – soğan, hamıya məlumdur. Ləbid yumurtanı ona bənzədərək demişdir:\nفَخْمَةً ذَفْرَاءَ تُرْتَى بالعُرَى … قُرْدُمانِيًّا وتَرْكاً كالبَصَلْ (٢)\n(Qalın, qoxulu, ilgəklərlə hörülmüş... qurdumani və soğan kimi tərakətli).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:30:44.619Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 422,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تبب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 341,
+  "page_to": 341
+ },
+ "ar": "التاء والباء كلمةٌ واحدة، وهى التّباب، وهو الخُسْران. وتبًّا للكافر، أى هلاكاً له. وقال اللّه تعالى: ﴿وَما زادُوهُمْ غَيْرَ تَتْبِيبٍ﴾ أى تخسير.\nوقد جاءت فى مقابلتهما كلمةٌ، يقولون استَتَبَّ الأمر إذا تهيّأَ. فإِن كانت صحيحةً فاللباب إذاً وجهان: الخُسْران، والاستِقامة.",
+ "az": "«تبب» (t-b-b): Tə və ba bir kəlmədir, o da التّباب (əttəbab), yəni ziyan deməkdir. Və تبًّا للكافر (təbbən lil-kafir): kafirə lənət olsun, yəni həlak olsun. Və Allah-Təala demişdir: ﴿وَما زادُوهُمْ غَيْرَ تَتْبِيبٍ﴾ (və ma zaduhum ğayrə tə-tbibin - mənaca tərcümə: Onların ziyanını artırmaqdan başqa bir şeyə səbəb olmadılar).\nVə onların qarşılığında başqa bir kəlmə də gəlmişdir, deyirlər: استَتَبَّ الأمر (istətəbbəl-əmr) — iş qaydaya düşüb hazırlıq gördükdə. Əgər bu səhihdirsə, deməli ləbab iki cəhətlidir: ziyan və düzgünlük.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:37:44.115Z"
+}

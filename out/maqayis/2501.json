@@ -1,0 +1,17 @@
+{
+ "i": 2501,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 417,
+  "page_to": 418
+ },
+ "ar": "الطاء واللام والباء أصلٌ واحد يدلُّ على ابتغاء الشَّئ.\nيقال طلبت الشئ أطلبه طلَباً. وهذا مَطْلَبى، وهذه طَلِبَتى. وأَطلبتُ فلاناً بما ابتغاه،\nأى أسعفته به. وربما قالوا أطْلَبْتُه، إذا أحوجتَه إلى الطَّلَب. وأطْلَبَ الكلأ:\nتباعد عن الماء، حتّى طلبه القوم، وهو ماء مُطْلِب. قال ذو الرّمّة:\n[أضَلَّه راعياَ كَلْبيَّةٍ صَدَرَا … عن مُطْلِبٍ قاربٍ وُرَّادُهُ عُصبُ (١)]",
+ "az": "[طلب] الطاء (ta), اللام (lam) və الباء (ba) bir şeyin axtarılmasına dəlalət edən tək bir kökdür. Deyilir ki, طلبت الشئ أطلبه طلَباً (tələbtu-ş-şəy-ə ətlubuhu tələbən). Bu mənim مَطْلَبى (mətləbi - tələbimdir), bu mənim طَلِبَتى (təlibəti - istəyimdir). وأَطلبتُ فلاناً بما ابتغاه (və ətləbtu fulənən bima-btəgah), yəni istədiyində ona kömək etdim. Bəzən deyirlər: أطْلَبْتُه (ətləbtuhu), yəni onu tələb etməyə məcbur etdin. أطْلَبَ الكلأ (ətləbə-l-kələu): otlaq sudan uzaqlaşdı, ta ki insanlar onu axtarana qədər, bu, مَاء مُطْلِب (maun mutlib - axtarılan su) idi. Zu-r-Rumma demişdir: [أضَلَّه راعياَ كَلْبيَّةٍ صَدَرَا … عن مُطْلِبٍ قاربٍ وُرَّادُهُ عُصبُ (1)] (Kəlbi qəbiləsindən olan iki çoban onu itirdi... axtarılan, yaxın bir sudan qayıtdılar, onu içənlər bir dəstə idi).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:09:04.544Z"
+}

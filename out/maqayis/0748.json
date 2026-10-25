@@ -1,0 +1,17 @@
+{
+ "i": 748,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جبى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 503,
+  "page_to": 504
+ },
+ "ar": "الجيم والباء وما بعده من المعتل أصلٌ واحدٌ يدل على جَمْع الشئ والتجمُّع. يقال جَبَيْتُ * المالَ أجْبِيه جِبايةً، وجَبَيْت الماءَ فى الحوض.\nوالحوضُ نَفْسُه جابيةٌ. قال الأعشى:\nتَروحُ على آلِ المُحَلَّق جَفْنَةٌ … كجابية الشَّيخ العراقىِّ تفْهَقُ (٣)\nوالجَبَا، مقصورٌ: ما حولَ البئر. والجِبَا بكسر الجيم: ما جُمِع من الماء\nفى الحوض أو غيره. ويقال له جِبْوَة وجِبَاوة قال الكسائىّ: جَبَيْت الماءَ فى الحوض جِبَىً (١). وجَبَّى يُجَبِّى، إذا سَجَدَ؛ وهو تَجَمُّعٌ.",
+ "az": "«جبى» — جيم, ba və ondan sonra gələn zəif (mötəl) hərflər bir şeyin toplanmasına və birləşməsinə dəlalət edən tək bir əslidir. Deyilir: «جَبَيْتُ المالَ أجْبِيه جِبايةً» (cəbəytü əl-malə əcbiyhu cibayətən) — malı yığdım, «جَبَيْت الماءَ فى الحوض» (cəbəytü əl-məə fi əl-havz) — suyu hovuzda topladım. \nHovuzun özü «جابية» (cabiyə) adlanır. Aşa demişdir: \nتَروحُ على آلِ المُحَلَّق جَفْنَةٌ … كجابية الشَّيخ العراقىِّ تفْهَقُ (٣) \n(Mühəlləq ailəsinin yanına elə bir böyük qab axşamüstü gəlir ki, o, ağzına qədər dolu iraqlı qocanın hovuzuna bənzər.) \nQısa (məqsus) «الْجَبَا» (cəba) — quyunun ətrafıdır. Cim hərfinin kəsrəsi ilə «الْجِبَا» (ciba) — hovuzda və ya başqa yerdə yığılan sudur. Ona «جِبْوَة» (cibvə) və «جِبَاوة» (cibavə) də deyilir. Kəsai demişdir: «جَبَيْت الماءَ فى الحوض جِبَىً» (cəbəytü əl-məə fi əl-havz cibən). «جَبَّى يُجَبِّى» (cəbbə yucəbbi) — səcdə etdikdə; bu da bir növ birləşmədir (bükülməkdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:28.134Z"
+}

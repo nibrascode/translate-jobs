@@ -1,0 +1,17 @@
+{
+ "i": 692,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جنه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "الجيم والنون والهاء ليس أصلا، ولا هو عندى من كلام العرب، إلا أنّ ناساً زعموا أن الجَنَهَ (١) الخيزُران. وأنشدوا:\nفى كَفه جُنَهىٌّ ريحه عَبِقٌ … بكفِّ أَرْوَعَ فى عِرنينِهِ شَمَمُ (٢)",
+ "az": "«جنه» (جيم, نون və هاء) – əsl deyil və mənim yanımda ərəb dilindən də deyildir. Lakin bəzi insanlar iddia etmişlər ki, «الجَنَه» (əل-جənə) – qamışdır (xeyzürandır). Onlar bu beyt ilə dəlil gətirmişlər:\n«فى كَفِّه جُنَهىٌّ ريحه عَبِقٌ … بكفِّ أَرْوَعَ فى عِرنينِهِ شَمَمُ (٤)»\n(Onun ovcunda ətri əsən qamışdan [düzəlmiş nizə] vardır... elə bir igidin əlində ki, burnu dik və ucadır.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:49:12.830Z"
+}

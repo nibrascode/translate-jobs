@@ -1,0 +1,17 @@
+{
+ "i": 2028,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سدح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 151,
+  "page_to": 152
+ },
+ "ar": "السين والدال والحاء أصلٌ واحدٌ يدلُّ على بسطٍ على الأرض، وذلك كسَدْح القِربة المملوءة، إذا طرَحَها بالأرض. وبها يشبَّه القتيل.\nقال أبو النَّجم يصف قتيلا:\nمُشَدّخَ الهامةِ أو مسدُوحا (٤)\nفأما رواية المفضَّل:\nبينَ الأراكِ وبين النّخل تَشدخُهم … زُرق الأسنّة فى أطرافها شَبَمُ (٥)\nفيقال إنَّه تصحيف، وإِنَّما هو «تسدحُهم». والسَّدحُ: الصَّرْع بَطْحاً على الوجه وعلى الظهر، لا يقع قاعداً ولا متكوِّراً.\nوأمّا قولُهم فلانٌ سادحٌ، أى مُخصِب، فهو من هذا أيضاً؛ لأنَّه إذا أخصب انسدحَ مستلقياً. وهو مَثَلٌ.",
+ "az": "«سدح» (sin, dal və ha) yer üzünə yayılmağa dəlalət edən tək bir əslidir, bu da dolu tuluğun «سَدْح»i kimidir, yəni onu yerə yıxdıqda. Öldürülmüş şəxs də ona bənzədilir. Əbu ən-Nəjm ölən birini təsvir edərək demişdir: Kəlləsi əzilən və ya yerə sərələn (4). Məfəddərin rəvayətinə gəlincə: Ərak və xurma ağacları arasında onları əzir … Uclarında soyuq su olan mavi nizələr (5). Deyilir ki, bu təhrifdir, əslində isə «تسدحُهم» (sərir onları) sözüdür. «السَّدح»: üzü üstə və ya arxası üstə yerə sərilib yıxılmaqdır, oturan və ya bükülən halda düşməz. Filankəs «سادح»dir, yəni bolluq içindədir sözünə gəlincə, bu da elə bundandır; çünki o, bol nemət içində olanda uzanıb rahatlanır. Bu bir məsəldir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:49:18.132Z"
+}

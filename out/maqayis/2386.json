@@ -1,0 +1,17 @@
+{
+ "i": 2386,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 361,
+  "page_to": 362
+ },
+ "ar": "الضاد والطاء والراء كلمة تدلُّ على ضِخَم. ويقولون:\nويكون مع ذلك لُؤم. وقال أبو عبيد: الضَّيطر: العظيم، وجمعه ضَيطارُون وضيَاطِرة. وأنشد:\nتعرَّضَ ضَيطارُو فُعَالةَ دوننا … وما خَير ضَيطارٍ يقلِّب * مِسْطَحَا (١)",
+ "az": "[ضطر] «الضاد» (زاد), «الطاء» (ta) və «الراء» (ra) hərfləri böyüklüyə dəlalət edən bir kəlmədir. Və deyirlər ki:\nBununla yanaşı şərəfsizlik də olur. Əbu Übeyd demişdir: «الضَّيطر» (əz-zəytər) — böyük deməkdir, cəmi «ضَيطارُون» (zəytarun) və «ضيَاطِرة» (ziyatirə) gəlir. O şeir oxumuşdur:\nتعرَّضَ ضَيطارُو فُعَالةَ دوننا … وما خَير ضَيطارٍ يقلِّب * مِسْطَحَا (١)\n(Füalənin zəytərləri qarşımıza çıxdı; nə yaxşılığı var elə bir zəytərin ki, səthi çevirir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

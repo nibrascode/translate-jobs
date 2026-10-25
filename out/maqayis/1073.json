@@ -1,0 +1,17 @@
+{
+ "i": 1073,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خزن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 178,
+  "page_to": 179
+ },
+ "ar": "الخاء والزاء والنون أصلٌ يدلُّ على صيانة الشَّئِ. يقال خزَنْتُ الدِّرهَم وغيرَه خَزْناً؛ وخزَنتُ السِّرَّ. قال:\nإذا المرءُ لم يخْزُنْ عليه لِسَانَهُ … فليس على شئِ سِواهُ بخَزَّانِ (٤)\nفأمّا خَزِنَ الّلحمُ: تغيَّرَتْ رائحتُه، فليس من هذا، إنما هذا من المقلوب\nوالأصل خنِزَ. وقد ذُكِر فى موضعه. قال طرَفة فى خزِن:\nثم لا يَخْزَنُ فينا لحمُها … إنَّما يَخْزَنُ لحمُ المُدَّخِرْ (١)",
+ "az": "[خزن] (خ, ز, ن): Bir əsas olub, şeyin qorunmasına dəlalət edir. خَزَنْتُ الدِّرْهَمَ وَغَيْرَهُ خَزْناً (xəzəntü əd-dirhəmə və ğəyrəhu xəznən): dirhəmi və başqa şeyi qorudum (saxladım); və sirləri qorudum - deyilir. Şair demişdir:\nإِذَا المَرْءُ لَمْ يَخْزُنْ عَلَيْهِ لِسَانَهُ … فَلَيْسَ عَلَى شَيْءٍ سِوَاهُ بِخَزَّانِ (٤) \n(Əgər insan dilini qoruhmasa, başqa heç bir şeyə görə xəzinədar/qoruyucu ola bilməz)\nخَزِنَ اللَّحْمُ (xəzinə əl-ləhm) - ətin iyi dəyişdi sözünə gəldikdə, bu, bu əsasdan deyildir, əksinə bu, tərsine çevrilmiş (مقلوب) sözdür. Əsli خَنِزَ (xənizə)-dir. Öz yerində zikr edilmişdir. Tərfə خَزِنَ (xəzinə) haqqında demişdir:\nثُمَّ لَا يَخْزَنُ فِينَا لَحْمُهَا … إِنَّمَا يَخْزَنُ لَحْمُ المُدَّخِرْ (١)\n(Sonra bizim aramızda əti xarab olub qoxumaz, yalnız tədarük edənin əti qoxuyar)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

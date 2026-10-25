@@ -1,0 +1,17 @@
+{
+ "i": 1904,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سلط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 95,
+  "page_to": 95
+ },
+ "ar": "السين واللام والطاء أصلٌ واحد، وهو القوّة والقهر. من ذلك السَّلاطة، من التسلط وهو القَهْر، ولذلك سمِّى السُّلْطان سلطاناً. والسلطان:\nالحُجَّة. والسَّليط من الرجال: الفصيح اللسان الذَّرِب. والسَّليطة: المرأة الصَّخَّابة.\nومما شذ عن الباب السَّلِيط: الزّيت بلغة أهل اليَمَن، وبلغة غيرهم دهن السِّمسِم.",
+ "az": "[سلط] (S-L-T). Sin, lam və ta tək bir kökdür, güc və qəhrdir. «السَّلاطة» (əs-səlatə) bundan gəlir, «التسلط» (təsəllüt) - qəhr etməkdir, buna görə də «السُّلْطان» (əs-sultan) sultan adlandırılmışdır. «السلطان» (əs-sultan) - dəlildir. «السَّليط» (əs-səlit) kişilərdən: dili kəskin və fəsahətli olandır. «السَّليطة» (əs-səlitə) - çox səs-küy salan qadındır. Bu qapıdan kənar olan «السَّلِيط» (əs-səlit) - Yəmən əhlinin dilində yağ, başqalarının dilində isə küncüt yağıdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:46:05.009Z"
+}

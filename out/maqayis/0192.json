@@ -1,0 +1,17 @@
+{
+ "i": 192,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بحت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 203,
+  "page_to": 204
+ },
+ "ar": "الباء والحاء والتاء، يدلُّ على خُلوص الشئ وألاّ يخلِطَه غيرُه. قال الخليل: البَحْت الشئ الخالص، ومِسْك بَحْت. ولا يصغّر ولا يثنّى قال العامرىّ: باحَتَنى الأمرَ، أى جاهَرَنى به وبيَّنَهُ ولم يُخفِه علىَّ. قال الأصمعىّ:\nباحَتَ فلانٌ دابَّتَه بالضَّرِيعِ وغيرِه من النَّبت، أى أطعَمَهَا إيّاه بَحْتا. وقال مالك بن عوف:\nألا مَنَعَتْ ثُمَالَةُ بطنَ وَجّ … بجُرْدٍ لم تُبَاحَتْ بالضَّريعِ (١)\nأى لم تُطعم الضَّريعَ بَحْتاً لا يخلِطه [غيره (٢)]. ويقال ظُلْمٌ بَحْتٌ أى لا يشُوبُه شئٌ. وبَرْدٌ بَحْتٌ ومَحْتٌ أى صادق، وحُبٌّ بَحْتٌ مثله. وعربىٌّ بحتٌ ومَحْضٌ وقلْبٌ. وكذلك الجَمْعُ على لفظ الواحد.",
+ "az": "«بحت» (bəht). Ba, hə və ta hərfləri şeyin xalis olmasına və ona başqa bir şeyin qarışmamasına dəlalət edir. Xəlil demişdir: «البَحْت» (əl-bəht) – xalis şeydir, «مِسْك بَحْت» (xalis müşk) kimi. O, kiçildilmir və ikilik halına gətirilmir. Amiri demişdir: «باحَتَنى الأمرَ» (bahətənil-əmr) – işi mənə aşkar etdi, açıqladı və məndən gizlətmədi. Əsməi demişdir: «باحَتَ فلانٌ دابَّتَه بالضَّرِيعِ» (bahətə fəlanun dabbətəhu biş-zəriği) – filan kəs minik heyvanına zərif və digər otları saf şəkildə yedirtdi. Malik ibn Ovf demişdir: * Ələ mənə’ət sumalətü batnə vaccin … bi-curdin ləm tubahat biş-zəriği (١) * (Məgər Sumalə tayfası Vacc vadisini … zəriq otu saf şəkildə qatılmamış çəkməz [və ya cəld] atlarla qorunmadı?). Yəni zəriq otu başqa bir şeylə qarışdırılmadan saf şəkildə yedirilmədi [başkası (٢)]. Həmçinin «ظُلْمٌ بَحْتٌ» (zülmün bəhtün) – heç bir qarışığı olmayan zülm deməkdir. «بَرْدٌ بَحْتٌ ومَحْتٌ» (bərdün bəhtün və məhtün) – həqiqi soyuq, «حُبٌّ بَحْتٌ» (hübbün bəhtün) də həmçinin. Saf ərəbə «عربىٌّ بحتٌ ومَحْضٌ» (ərəbiyyün bəhtün və məhdün) və qəlbə də həmçinin deyilir. Cəm də tək sözün ləfizində belədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:27:05.781Z"
+}

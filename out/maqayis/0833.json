@@ -1,0 +1,17 @@
+{
+ "i": 833,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حدج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 36,
+  "page_to": 37
+ },
+ "ar": "الحاء والدال والجيم أصلٌ واحد يقرُب من حَدَق بالشئ إِذا أحاط به. فالتَّحديج فى النظر مثل التَّحديق. ومن الباب الحِدْج: مركبٌ من مَراكب النِّساء. يقال حَدَجْتُ البعيرَ، إِذا شددْتَ عليه الحِدج. قال الأعشى:\nألا قُلْ لَميْثاءَ ما بالُهَا … أبِالليل تُحْدَجُ أجْمالُها (١)\nومن الباب الحَدَجُ، وهو الحنظل إِذا اشتدَّ وصَلُب، وإِنما قُلْنا ذلك لأنّه مستدير.",
+ "az": "«حدج» (hədəc): Ha, dal və cim hərflərindən ibarət olub, bir şeyi əhatə etdiyi zaman «حَدَقَ بالشئ» (şeyi əhatə etdi) mənasına yaxın olan tək bir kökdir. Baxışdakı «التَّحديج» (təhdic) — «التَّحديق» (təhdid, bərəltmə) kimidir. Bu fəsildəndir: «الحِدْج» (əl-hidc) — qadınların minik vasitələrindən biridir. Deyilir: «حَدَجْتُ البعيرَ» (dəvəyə hidc bağladım), onun üzərinə hidc bərkitdiyin zaman. Əşəy demişdir:\nألا قُلْ لَميْثاءَ ما بالُهَا … أبِالليل تُحْدَجُ أجْمالُها (١)\n(Xəbərdar ol, Meysaya de ki, onun halı necədir? Gecə vaxtı mı onun dəvələrinə yük bağlanır?)\nVə bu fəsildəndir: «الحَدَجُ» (əl-hədəc), o da yetişib bərkimiş kolxozdur (və ya acı qarpızdır). Biz bunu ona görə dedik ki, o, girdədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

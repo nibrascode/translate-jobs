@@ -1,0 +1,17 @@
+{
+ "i": 1861,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سعل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 73,
+  "page_to": 74
+ },
+ "ar": "السين والعين واللام أصل يدل على صخب وعلوِّ صوت.\nيقال للمرأة الصّخّابة قد استسعَلَت، وذلك مشبّه بالسِّعلاة. والسَّعالى: أخبثُ الغِيلان.\nوالسُّعال، مشتقّ من ذلك أيضاً؛ لأنه شئٌ عالٍ. فأما قول الهذلىّ (١) فى وصف الحمار:\nوأسعلته الأمرُعُ (٢)\nفإِنه يريد نَشّطته الأمرُعُ حتّى صار كالسِّعلاة، فى حركته ونشاطه.",
+ "az": "[سعل] السين والعين واللام — sin, ayn və lam hərfləri hay-küyə və uca səsə dəlalət edən bir əsasdır.\nHay-küy salan qadına استسعَلَت (istəsələt) deyilir ki, bu da «السِّعلاة» (əssiəlah - qulyabani) sözünə bənzədilib. والسَّعالى (əssəali) — qulyabanilərin ən şərrliləridir.\nالسُّعال (əssüal - öskürək) də bundan törəmişdir; çünki o, uca bir səsdir.\nHüzəlinin (١) uzunqulağı təsvir edərkən dediyi sözə gəldikdə (٢):\nوأسعلته الأمرُعُ\nO, bununla nəzərdə tutur ki, sürətli ayaq yolları onu hərəkətləndirib canlandırdı, həm hərəkətində, həm də canlılığında demək olar ki, bir qulyabani halına gəldi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.965Z"
+}

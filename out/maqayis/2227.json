@@ -1,0 +1,17 @@
+{
+ "i": 2227,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 268,
+  "page_to": 268
+ },
+ "ar": "الشين والراء والثاء أصلٌ واحد، وهو الشَّرَث، وهو غِلظ الأصابع والكفّيْن.",
+ "az": "[شرث] (şin, ra və sə) tək bir əsasdır, o da الشَّرَث (eş-şərəth) olub, barmaqların və ovucun qalınlığıdır.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.449Z"
+}

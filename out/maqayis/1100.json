@@ -1,0 +1,17 @@
+{
+ "i": 1100,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خضم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 193,
+  "page_to": 193
+ },
+ "ar": "الخاء والضاد والميم أصلان: جنسٌ من الأكل، والآخَر يدلُّ على كثرةٍ وامتلاء.\nفالأوّل الخَضْم، وهو المصغ بأقصى الأضراس. و\nفى الحديث: «تَخْضِمون ونَقْضَمُ، والموعد اللّه».\nوالأصل الآخَر: الخِضَمُّ: الرجُل الكثير العطيَّة. والخِضَمُّ: الجَمْع الكثير. قال:\n* فاجتَمَع الخِضَمُّ والخِضَمُّ (١) *\nوأما المِسَنّ (٢) فيقال له الخِضَمُّ تشبيهاً، وإنّما ذاك من قياس الباب؛ لأنّه يُسقى ماءً كثيراً. وحُجَّتُه قول أبى وجْزة:\n* على خِضَمٍّ يُسَقَّى الماءَ عَجّاجِ (٣) *\nومن الباب الخُضُمَّة، وهى عَظْمة الذّراع، وهو مُسْتَغْلَظُها. ويقال إنّ مُعظم كلِّ شئ خُضُمَّةٌ.",
+ "az": "[خضم] (Xə-də-m): Xa, dad və mim hərfləri iki əsasdır: bir növ yemək, diğəri isə çoxluğa və dolğunluğa dəlalət edir. Birincisi «الخَضْمُ» (xədm) – arxa azı dişləri ilə çeynəməkdir. Hədisdə: «Siz xədm edirsiniz, biz isə qədm edirik, vəd yerimiz isə Allahdır». Digər əsas: «الخِضَمُّ» (xidamm) – çox bəxşiş verən kişidir. Və xidamm – çoxlu topluluqdur. Demişdir: Xidamm və xidamm toplandı (1). «المِسَنُّ» (məsənn) – yəni su dəyirman daşına oxşadılaraq xidamm deyilir; bu da həmin babın qiyasındandır, çünki ona çox su içirilir. Bunun dəlili Əbu Vəznənin sözüdür: Çoxlu su içirilən hay-küylü xidamm üzərində (3). Bu babdandır «الخُضُمَّةُ» (xudummət) – bu da bazının sümüyünün ucalığı, yəni onun qalınlaşmış yeridir. Deyilir ki, hər bir şeyin əksəriyyəti xudummətdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:43.581Z"
+}

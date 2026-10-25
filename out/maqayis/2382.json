@@ -1,0 +1,17 @@
+{
+ "i": 2382,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 360,
+  "page_to": 360
+ },
+ "ar": "الضاد والخاء ليس بشئ. على أنَّهم يقولون: الضَّخّ: امتداد البَول. والمِضَخَّة: قَصَبَةٌ يرمَى بها الماء فيمتدّ.",
+ "az": "[ضخ] (ض، خ) — Heç bir əsası yoxdur. Lakin deyirlər ki, الضَّخّ (əz-dax) — sidiyin axıb yayılmasıdır. Və المِضَخَّة (əl-midəxxə) — suyun içinə atılıb uzandığı qamışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.778Z"
+}

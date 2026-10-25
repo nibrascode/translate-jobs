@@ -1,0 +1,17 @@
+{
+ "i": 1297,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دمص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 301,
+  "page_to": 301
+ },
+ "ar": "الدال والميم والصاد ليس عندى أصلاً. وقد ذُكِرَتْ على ذك فيه كلماتٌ إنْ صحَّتْ فهى تتقارَبُ فى القياس. يقولون الدَّوْمَصُ: بَيضة الحديد، فهذا يدلّ على مَلاسَةٍ فى الشّئ. ثم يقولون لَمنْ رَقّ حاجبُه أدْمَصُ، وهو قريبٌ من ذلك. ويقال إنّ كل عِرْق من حائطٍ دِمْصٌ. وفى كلِّ ذلك نَظَرٌ.",
+ "az": "[دمص] (dəm-s): Dal, mim və sad hərfləri mənim yanımda əsl deyil. Lakin bu kök altında bəzi kəlmələr zikr olunmuşdur ki, əgər səhihdirsə, onlar qísada bir-birinə yaxındır. Deyirlər: «الدَّوْمَصُ» (əd-dəvmasu) — dəmir dəbilqədir, bu da bir şeyin hamar olmasını göstərir. Sonra qaşı nazik olan kəsə «أدْمَصُ» (ədmasu) deyirlər ki, bu da həmin məna yaxındır. Və deyilir ki, divarın hər bir damarı «دِمْصٌ» (dims)-dür. Bütün bunlarda nəzər (araşdırma) vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.835Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1841,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 57,
+  "page_to": 58
+ },
+ "ar": "السين والفاء أصلٌ واحد، وهو انضمام الشئ إلى الشئ ودنوُّه منه، ثم يُشتقّ منه ما يقاربه.\nمن ذلك أسفَّ الطائرُ، إذا دنا من الأرض فى طيرانه. وأسفَّ الرجل للأمر، إذا قارَبَه. ويقال أسفَّت السحابةُ، إِذا دنت من الأرض. قال أوسٌ يصف السّحاب:\nدانٍ مِسفٌّ فويق الأرض هَيْدَبُه … يكاد يدفعُه مَنْ قام بالرّاحِ (١)\nومن الباب: أسَفَّ الرجل النَّظرَ، إِذا أدامَه. ومنه السَّفْساف: الأمر الحقير.\nوسمِّى يذلك لأنّه مِنْ أسَفَّ الرجل للأمر الدنىّ. ومن ذلك المُسَفْسِفَةُ، وهى الريح التى تجرى فوَيق الأرض. والسِّفّ (٢): الحَيَّة التى تسمَّى الأرقم، وذلك أنّه يلصق بالأرض لُصوقا فى مَرِّهِ. فالقياس فى هذا كلِّه واحد. وأمّا * سفَفت الخُوص والسَّفيف: بِطانٌ يشدُّ به الرَّحْل، فمن هذا؛ لأنَّه إذا نُسِج فقد أدْنِيَتْ كلُّ طاقةٍ منه إلى سائرها.\nومما يجوز أن يُحمَل على الباب ويجوزُ أن يكون شاذًّا، قولك: سفِفْتُ للدواء أسَفّه. ويقال أَسَفَّ وجهَه، إذا ذرَّ عليه الشئ (٣). قال ضابيء (٤) يذكر ثورا:\nشديد بريقِ الحاجبَين كأنّما … أُسِفَّ صَلَى نارٍ فأصبَحَ أكحلا",
+ "az": "[سف] (S-F) Sin və fa hərfləri tək bir kökdür, bu da bir şeyin digərinə birləşməsi və ona yaxınlaşması deməkdir, sonra ondan buna yaxın olan mənalar törədilir. Bundan «أسفَّ الطائرُ» (quş yerə yaxınlaşdı) ifadəsi yaranır, yəni uçarkən yerə yaxınlaşdı. «أسفَّ الرجل للأمر» (kişi işə yaxınlaşdı), yəni ona yaxınlaşdı. Deyilir ki, «أسفَّت السحابةُ» (bulud yaxınlaşdı), yəni yerə yaxınlaşdı. Ovs buludu təsvir edərək deyir: «دانٍ مِسفٌّ فويق الأرض هَيْدَبُه … يكاد يدفعُه مَنْ قام بالرّاحِ» (Yaxın, yerin bir az üzərində sallanan saçaqları ilə yerə yaxınlaşan bulud... az qala ayaq üstə duran onu əli ilə itələyəcək). Bu qapıdan: «أسَفَّ الرجل النَّظرَ» (kişi baxışını yaxınlaşdırdı), yəni baxışını davamlı etdi. Buradan «السَّفْساف» (alçaq, dəyərsiz iş) gəlir. Bu ad ona görə verilmişdir ki, bu, kişinin alçaq işə yaxınlaşmasından (أسَفَّ) gəlir. Buradan «المُسَفْسِفَةُ» (yerə yaxın əsən külək) gəlir, bu, yerin bir az üzərində əsən küləkdir. «السِّفّ» (ilan növü) (٢): «الأرقم» (ərqəm) adlanan ilandır, bu ona görədir ki, o, hərəkət edərkən yerə yapışır. Bütün bunlarda ölçü vahiddir. «سفَفت الخُوص» (xurma yarpaqlarını hörürəm) və «السَّفيف» (yəhər altlığı): yəhəri bağlamaq üçün istifadə olunan kəmər də bundandır; çünki o toxunduqda, onun hər bir lifi digərinə yaxınlaşdırılmış olur. Bu qapıya aid edilməsi mümkün olan və ya şaz (qaydadan kənar) ola bilən ifadələrdən biri də «سفِفْتُ للدواء أسَفّه» (dərman üçün onu yaxınlaşdırdım) deməyindir. Deyilir ki, «أَسَفَّ وجهَه» (onun üzünə yaxınlaşdırdı), yəni üzərinə bir şey səpdi (٣). Dabi (٤) bir öküzü xatırlayaraq deyir: «شديد بريقِ الحاجبَين كأنّما … أُسِفَّ صَلَى نارٍ فأصبَحَ أكحلا» (Qaşlarının parıltısı şiddətlidir, sanki odun istisinə yaxınlaşdırılmış kimi, beləcə sürməli (qara) olmuşdur).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:42:05.729Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1348,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دبج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 323,
+  "page_to": 323
+ },
+ "ar": "الدال والباء والجيم أصلٌ واحد يدلُّ على شئٍ ذى صفحةٍ حَسَنَةٍ. الدّيباجُ معروفٌ. والدِّيباجَتانِ: الخَدّان. وقال ابن مقبل:\n«يَجرِى بديباجَتَيهِ الرَّشْحُ مُرْتَدِعُ (٢) *\nويقال هما اللِّيتان (٣). وأمّا قولهم: «ما بالدّار دِبِّيجٌ» فيقال هو بالحاء، وقد ذُكر فى بابه، وإن كان بالجيم كما قيل فليس من هذا، ولعله أنْ يكون من دِبِّىّ، من الدَّبيب، ثم حُوِّلت ياء النِّسبة جيماً على لغة من يفعل (٤)",
+ "az": "[دبج] الدال (dal), الباء (ba) və الجيم (cim) hərfləri gözəl səthə malik bir şeyə işarə edən tək bir kökdür. الدِّيباج (əd-dibac) məlumdur. الدِّيباجَتان (əd-dibacətan): iki yanaq. İbn Muqbil dedi: «يَجرِى بديباجَتَيهِ الرَّشْحُ مُرْتَدِعُ» (Onun iki yanağından tər axır, lakin geri çəkilir) (٢). Deyilir ki, onlar اللِّيتان (əl-litani) (yanaqların yan tərəfləri)dir (٣). Evdə heç kim yoxdur mənasında işlənən «ما بالدّار دِبِّيجٌ» ifadəsinə gəldikdə, deyilir ki, bu ح (ha) hərfi ilədir və öz babında qeyd olunub. Əgər ج (cim) ilədirsə, bu kökdən deyil, bəlkə də دِبِّىّ (dibbi) sözündəndir, yəni الدَّبيب (əd-dəbib - sürünmə) sözündən, sonra nisbət yası (ya) bu dildə danışanların ləhcəsinə uyğun olaraq ج (cim) hərfinə çevrilmişdir (٤).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

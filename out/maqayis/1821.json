@@ -1,0 +1,17 @@
+{
+ "i": 1821,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زبع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 46,
+  "page_to": 47
+ },
+ "ar": "الزاء والباء والعين قريبٌ من الذى قبله، وهو يدلُّ على\nتغيُّظٍ وعزيمةِ شرّ. يقال تزبّع فلانٌ، إذا تهيَّأ للشر. وتزبّع: تغيَّر. وهو فى شعر متمّم:\nوإنْ تَلقَه فى الشَّرْب لا تَلقَ فاحشاً … من القوم ذا قاذُورة متزبِّعاً (١)\nقال الشيبانىّ: الأزْبَع (٢) الدّاهية، والجمع الأزابعْ. وأنشد:\nوعَدْتَ ولم تُنْجِزْ وقِدْماً وعدتَنى … فأخلفْتَنى وتلك إحدى الأزابعِ\nوهذا إنْ صح فهو من الإبدال، وهو من الباب قبله.\nباب الزاءِ والجيم وما يثلثهما",
+ "az": "[زبع] (zə-ba-eyn): əvvəlkiyə yaxındır və o, qəzəblənməyə və şər məqsədə dəlalət edir. Deyilir: «تزبّع فلانٌ» (filankəs şərə hazırlaşdı) — şərə hazırlaşdığı zaman. «تزبّع» (dəyişdi). Bu, Mutəmmimin şeirindədir: \nوإنْ تَلقَه فى الشَّرْب لا تَلقَ فاحشاً … من القوم ذا قاذُورة متزبِّعاً (١)\n(Əgər onu içki məclisində qarşılasan, qövmün içində əxlaqsız, pis qoxulu və şərə hazırlaşmış halda görməzsən). \nŞeybani demişdir: «الأزْبَع» (əl-əzbə') — bəla, fəlakət, cəmi «الأزابعْ» (əl-əzabi') gəlir. O, bu beyti oxumuşdur: \nوعَدْتَ ولم تُنْجِزْ وقِدْماً وعدتَنى … فأخلفْتَنى وتلك إحدى الأزابعِ\n(Vəd etdin və yerinə yetirmədin, qədimdən mənə vəd etmişdin, sonra vədəxilif oldun, bu isə bəlalardan biridir). \nBu əgər səhihdirsə, əvəzetmədəndir (ibdal) və o, əvvəlki babdandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.662Z"
+}

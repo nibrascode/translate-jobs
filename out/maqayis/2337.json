@@ -1,0 +1,17 @@
+{
+ "i": 2337,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صبغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "الصاد والباء والغين، أصلٌ واحد، وهو تلوين الشَّئ بلونٍ ما.\nتقول: صبغته أصبغه (٣). ويُقال للرُّطَبة: قد صَبَّغَتْ. فأمّا قولُه تعالى: ﴿صِبْغَةَ اَللّهِ﴾ فقال قوم: هى فِطرتُه لخلْقِه. وقال آخرون: كلُّ ما تُقُرِّب به إلى اللّه تعالى صِبغة.\nوالأصبغ: الفرس فى طرف ذَنبِه بياض. وذلك دون الأشكل (٤)، والأوّل مشبَّه بالشئ يُصبَغ طرَفُه.",
+ "az": "[صبغ] «الصاد» (sad), «الباء» (ba) və «الغين» (ğeyn) vahid bir kökdür, o da bir şeyi hər hansı bir rənglə rəngləməkdir. Deyirsən: صبغته أصبغه (onu rənglədim, rəngləyirəm). Kal xurmaya da صَبَّغَتْ (rənglənməyə başladı) deyilir. Uca Allahın ﴿صِبْغَةَ اَللّهِ﴾ (Allahın rəngi/boyası) kəlamına gəldikdə, bir qrup demişdir ki, bu, Onun məxluqatı üçün təyin etdiyi fitrətidir. Başqaları isə demişlər ki, Allah Təalaya yaxınlaşmaq üçün vasitə edilən hər şey صِبغة (sібğə - rəng/boya) deməkdir. «الأصبغ» (əl-əsbəğ) — quyruğunun ucunda ağlığı olan atdır. Bu, «الأشكل» (əl-əşkəl)-dən daha azdır. Birincisi ucu rənglənən şeyə bənzədilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:54.142Z"
+}

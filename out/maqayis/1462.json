@@ -1,0 +1,17 @@
+{
+ "i": 1462,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رزق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 388,
+  "page_to": 388
+ },
+ "ar": "الراء والزاء والقاف أُصَيْلٌ واحدٌ يدلُّ على عَطاءِ لوَقت، ثم يُحمَل عليه غير الموقوت. فالرِّزْق: عَطاء اللّه جلَّ ثناؤُه. ويقال رَزَقه اللّه رَزْقاً، والاسم الرِّزْق. [والرِّزْق] بلغة أزْدِ شُنوءَة: الشُّكر، من قوله جلّ ثناؤه:\n﴿وَتَجْعَلُونَ رِزْقَكُمْ﴾. وفعلتُ ذلك لمَّا رزَقْتَنى، أى لمَّا شكَرْتَنى.",
+ "az": "«رزق» — ra, zay və qaf müəyyən vaxt üçün verilən əta/bəxşişə dəlalət edən kiçik bir kökdür, sonra isə vaxtı təyin olunmamış şeylər də buna şamil edilir. وَالرِّزْق (ir-rizq) — Uca Allahın ətasıdır. Deyilir: رَزَقه اللّه رَزْقاً (Allah ona ruzi verdi), isim olaraq isə الرِّزْقdur. Əzd Şunəuə dilində [və ya ləhcəsində] الرِّزْق (ir-rizq) — şükür deməkdir; Uca Allahın bu kəlamından götürülmüşdür: ﴿وَتَجْعَلُونَ رِزْقَكُمْ﴾ (mənaca tərcümə: «Və ruzinizi [şükrünüzü] yalançılıq edirsiniz?») [Vaqiə, 82]. Mən bunu sənin mənə ruzi verdiyin [şükür etdiyim] zaman etdim, yəni mənə şükür etdiyin zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:24.395Z"
+}

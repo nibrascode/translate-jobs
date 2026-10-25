@@ -1,0 +1,17 @@
+{
+ "i": 2439,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضيك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 383,
+  "page_to": 383
+ },
+ "ar": "الضاد والياء والكاف كلمةٌ لا تتفرَّع. يقولون الضَّيَكانُ:\nمشْى الرّجُل الكثيرِ لحمِ الفخِذين، فهو ربما يتفحَّج. ويقال هذه إبلٌ تَضِيك، أى تفرّج أفخاذها من عِظَم ضُروعها.",
+ "az": "«ضيك»: الضاد, الياء, والكاف (d, y, k) — şaxələnməyən bir kəlmədir. Deyirlər: «الضَّيَكانُ» — bud ətləri çox olan kişinin gəzintisidir, o, bəzən ayaqlarını aralayaraq yeriyər. Deyilir: «هذه إبلٌ تَضِيك» — yəni bu dəvələr döşlərinin böyüklüyündən budlarını aralayırlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.919Z"
+}

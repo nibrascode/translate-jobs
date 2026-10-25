@@ -1,0 +1,17 @@
+{
+ "i": 2286,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صلغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 305,
+  "page_to": 305
+ },
+ "ar": "الصاد واللام والغين ليس بأصلٍ؛ لأنّه من باب الإِبدال.\nيقال للذى تَمَّ سِنُّه من الضّأن فى السّنَة الخامسة: صالغ. وقد صَلَغ صُلُوغاً.",
+ "az": "[صلغ] (s-l-ɣ): Əsas kök deyil, çünki bu, əvəzetmə (ibdal) babındandır. Qoyunlardan beşinci ilində yaşı tamam olana صالغ (salig) deyilər. Və صَلَغ صُلُوغاً (salig oldu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:01:08.475Z"
+}

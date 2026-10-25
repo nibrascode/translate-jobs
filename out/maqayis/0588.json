@@ -1,0 +1,17 @@
+{
+ "i": 588,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جوو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 423,
+  "page_to": 423
+ },
+ "ar": "الجيم والواو شئٌ واحد يحتوى على شئِ من جوانبه.\nفالجوّ جوّ السماء، وهو ما حَنَا على الأرض بأقطارِهِ، وجَوّ البيت من هذا.\nوأما الجؤجؤ، وهو الصّدر، فمهموز، ويجوز أن يكون محمولاً على هذا.",
+ "az": "[جوو] (Cim və vav) tərəflərindən bir şeyi ehtiva edən tək bir şeydir.\nSəmanın havası mənasında olan «الجوّ» (əl-cəvv) — öz qütbləri ilə yerin üzərini bürüyən şeydir, evin həyəti/fəzası «جَوّ البيت» də bundandır.\nSinə mənasında olan «الجؤجؤ» (əl-cu'cu') isə həmzəlidir və bunun üzərinə daşınmış olması da mümkündür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:23.869Z"
+}

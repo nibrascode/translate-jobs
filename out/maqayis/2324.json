@@ -1,0 +1,17 @@
+{
+ "i": 2324,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صوم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 323,
+  "page_to": 323
+ },
+ "ar": "الصاد والواو والميم أصلٌ يدلُّ على إمساكٍ وركودٍ فى مكان.\nمن ذلك صَوم الصَّائم، هو إمساكُه عن مَطعَمِه ومَشربه وسائرِ ما مُنِعَهُ. ويكون الإِمساكُ عن الكلام صوماً، قالوا فى قوله تعالى: ﴿إِنِّي نَذَرْتُ لِلرَّحْمنِ صَوْماً﴾ إنّه الإِمساكُ عن الكلامِ والصّمتُ. وأمَّا الرُّكود فيقال للقائم صائم، قال النابغة:\nخيلٌ صيامٌ وخيلٌ غيرُ صائمةٍ … تحتَ العَجَاج وخيلٌ تَعلُك اللُّجُما (١)\nوالصَّوم: رُكود الرِّيح. والصَّوم: استواء الشَّمس انتصافَ النَّهار، كأنَّها ركدت عند تدويمها (٢). وكذلك يقال صامَ النَّهارُ. قال امرؤ القيس:\nإذا صامَ النّهارُ وَهَجَّرَا (٣)\nومَصَامُ الفَرَس: موقِفه، وكذلك مَصَامَتُه. قال الشَّمّاخ:\nإذا ما استاف منها مَصَامَةً (٤)",
+ "az": "[صوم] (sad, vav və mim) bir yerdə saxlamağa və sükunətə dəlalət edən bir kökdür. Bunlardan صَوم الصَّائم (oruc tutanın orucu) – onun yeməkdən, içəcəkdən və qadağan olunduğu hər şeydən imtina etməsidir. Danışıqdan saxlamaq da oruc ola bilər; uca Allahın bu sözü haqqında demişlər: ﴿إِنِّي نَذَرْتُ لِلرَّحْمنِ صَوْماً﴾ (mənaca tərcümə: Mən Rəhman üçün oruc nəzir etdim) – bu, danışıqdan saxlamaq və susmaqdır. Sükunətə gəldikdə, ayaq üstə durana صائم (sayim - oruc tutan) deyilir, Nabihə demişdir:\nخيلٌ صيامٌ وخيلٌ غيرُ صائمةٍ … تحتَ العَجَاج وخيلٌ تَعلُك اللُّجُما (١)\n(Atlar var oruc tutub, atlar da var oruc tutmayıb toz-tüstü altında, atlar da var cilov çeynəyir)\nVə الصَّوم (söv): küləyin sükunəti. Və الصَّوم (söv): günəşin günorta vaxtı düz dayanması, elə bil o, dövr edərkən sükunətə çarmışdır. Günün صام النَّهارُ (gün oruc tutdu) olması da belədir. İmrül-Qeys demişdir:\nإذا صامَ النّهارُ وَهَجَّرَا (٣)\n(Günorta vaxtı günəş dayandığı və istiləndiyi zaman)\nVə مَصَامُ الفَرَس (atın masamı) – onun dayandığı yer, həmçinin مَصَامَتُه (masamətühu) da belədir. Şəmməx demişdir:\nإذا ما استاف منها مَصَامَةً (٤)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:11.241Z"
+}

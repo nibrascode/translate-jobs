@@ -1,0 +1,17 @@
+{
+ "i": 1082,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خشع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 182,
+  "page_to": 183
+ },
+ "ar": "الخاء والشين والعين أصلٌ واحدٌ، يدلُّ على التَّطامُن.\nيقال خَشْع، إذا تطامَنَ وطَأْطأَ رأسَه، يخشَع خُشوعاً. وهو قريبُ المعنى من الخضوع، إلاّ أنّ الخُضوع فى البدَن والإقرارُ بالاستخذاء، والخشوعَ فى الصَّوتِ والبصر. قال اللّه تعالى: ﴿خاشِعَةً أَبْصارُهُمْ﴾. قال ابنُ دريد: الخاشِع المستكينُ والرَّاكع. يقال اختشعَ فلانٌ، ولا يقال اختَشَع بَصرُه. ويقال: خَشَع خَراشِىَّ صدْرِه، إذا ألْقىُ بزاقاً لزِجاً. والخُشْعَة: قِطعةٌ من الأرض قُفٌّ قد غلبَتْ عليه السُّهولة. يقال قُفٌّ خاشع: لاطِئٌ بالأرض. قال ابنُ الأعرابىّ:\nبلدةٌ خاشعة: مُغْبَرَّة. قال جريرٌ:\nلَمّا أتى خبرُ الزُّبَيْرِ تواضعت … سُورُ المدينةِ والجبالُ الخُشَّعُ (١)\nقال الخليل. خَشَعَ سَنامُ البَعير، إذا ذهَبَ إلاّ أقلُه",
+ "az": "[خشع] (خ, ش, ع): Boyun əyməyə və təvazökarlığa dəlalət edən tək bir əsasdır.\nخَشَعَ (xəşə-ə) - boyun əydi və başını aşağı saldı, خُشُوعاً (xuşuən) xuşu etdi, - deyilir. Bu, خضوع (xudu) ilə mənaca yaxındır, lakin خضوع (xudu) bədəndə və zəilliyi etiraf etməkdə olur, خُشُوع (xuşu) isə səs və baxışda olur. Uca Allah buyurmuşdur: ﴿خاشِعَةً أَبْصارُهُمْ﴾ (mənaca tərcümə: Gözləri aşağı dikilmiş halda). İbn Dürid demişdir: الخَاشِع (əl-xəşiə) - başını aşağı dikən və rüku edəndir. اختشع فلان (ixtəşə əfülan) - filankəs xuşu etdi, - deyilir, lakin اختشع بصره (ixtəşə bəsəruhu) - deyilmir. Və خَشَعَ خَرَاشِيَّ صَدْرِهِ (xəşə-ə xəraşiyyə sədrihi) - özündən yapışqanlı tüpürcək atdığı zaman deyilir. وَالخُشْعَة (əl-xuşə) - üzərində hamarlıq üstün gələn təpəcik olan yer parçasıdır. قُفٌّ خاشِع (quffun xəşiun) - yerə yapışmış yüksəklik - deyilir. İbn əl-Ərəbi demişdir:\nبلدة خاشعة (bəldətün xəşiətün) - tozlu diyar. Cərir demişdir:\nلَمَّا أَتَى خَبَرُ الزُّبَيْرِ تَوَاضَعَتْ … سُورُ المَدِينَةِ وَالجِبَالُ الخُشَّعُ (١)\n(Zübeyrin xəbəri gəldikdə şəhərin divarları və boyun əymiş dağlar təvazökarlıq göstərdi)\nəl-Xəlil demişdir: خَشَعَ سَنَامُ البَعِيرِ (xəşə-ə sənamü əl-bəir) - dəvənin hürgücü azı istisna olmaqla yox oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

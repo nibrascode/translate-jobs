@@ -1,0 +1,17 @@
+{
+ "i": 321,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 306,
+  "page_to": 306
+ },
+ "ar": "الباء والنون والقاف كلمةٌ واحدة، وأراها من الحَوَاشى غير واسطة. وهى البَنيقة، وهو جُرُبَّان القَميص. ويقال: البَنِيقة كلُّ رُقْعةٍ فى الثَّوب كاللَّبِنَةِ ونحوها. على أنّها قد جاءَتْ فى الشِّعر. قال:\nبضمّ إِلىَّ الليلُ أطفالَ حُبِّها … كما ضَمَّ أَزْرارَ القَميصِ البنائقُ (٣)",
+ "az": "[بنق] (bənəq). Ba, nun və qaf bir sözdür, mənə görə o, vasitəsiz olaraq haşiyələrdəndir. Bu, بَنيقة (bəniqə) – köynəyin yaxalığıdır. Deyilir: bəniqə – paltardakı labinə və bənzərləri kimi hər bir yamaqdır. Lakin o, şeirdə də işlədilmişdir. Şair demişdir:\nبضمّ إِلىَّ الليلُ أطفالَ حُبِّها … كما ضَمَّ أَزْرارَ القَميصِ البنائقُ (٣)\n(Gecə sevgisinin uşaqlarını mənə bağrına basdı, köynəyin düymələrini bəniqələr bükdüyü kimi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:54.814Z"
+}

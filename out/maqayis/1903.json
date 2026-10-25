@@ -1,0 +1,17 @@
+{
+ "i": 1903,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سلس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 94,
+  "page_to": 95
+ },
+ "ar": "السين واللام والسين يدلُّ على سهولة فى الشئ. يقال هو سَهلٌ سَلِسٌ والسَّلْس: جنس من الخَرز، ولعلَّه سمِّى بذلك لسلاسته فى نَظْمه.\nقال:\nوقلائدٌ مِنْ حُبْلَةٍ وسُلوسِ (١)",
+ "az": "[سلس] (S-L-S). Sin, lam və sin bir şeydə asanlığa dəlalət edir. «هو سَهلٌ سَلِسٌ» (O, asan və yumşaqdır) deyilir. «السَّلْس» (əs-səls) - bir növ muncuqdur, bəlkə də düzülüşündəki asanlığa görə belə adlandırılmışdır. Şair deyir: «وقلائدٌ مِنْ حُبْلَةٍ وسُلوسِ» (Hüblə və sülusdan olan boyunbağılar) (١).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:46:05.008Z"
+}

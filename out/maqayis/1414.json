@@ -1,0 +1,17 @@
+{
+ "i": 1414,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "الذال والهاء واللام أصلٌ واحد يدلُّ على شغْلٍ عن شئِ بذُعْرٍ أو غيره. ذَهِلْتُ عن الشّى أَذْهَل، إذا نسيتَه أو شُغِلْت. وأذْهَلَنِى عنه كذا. هذا هو الأصل. وحُكى عن اللحيانى: [جاء بَعْدَ (١)] ذُهْلٍ من الليل وذَهْل، كما تقول: مرَّ هُدْءُ من اللّيل. ويجوز أن يكون ذلك لإظلامه وأنّه يُذْهَل فيه عن الأشياء.\nومما شذّ عن الباب قولهم للفرَس الجواد ذُهْلُولٌ.",
+ "az": "[ذهل]\nالذال والهاء واللام أصلٌ واحد يدلُّ على شغْلٍ عن شئِ بذُعْرٍ أو غيره (qorxu və ya başqa səbəbdən bir şeydən məşğul olub başqa yerə yayılma mənasını bildirən tək bir əsl).\nذَهِلْتُ عن الشّى أَذْهَل، إذا نسيتَه أو شُغِلْت (Bir şeyi unutduqda və ya başqa işlə məşğul olduqda «zəhiltü aniş-şey'i əzhəlü» deyilir). وأذْهَلَنِى عنه كذا (Filan şey məni bundan yayındırdı). هذا هو الأصل. وحُكى عن اللحيانى: [جاء بَعْدَ (١)] ذُهْلٍ من الليل وذَهْل، كما تقول: مرَّ هُدْءُ من اللّيل. ويجوز أن يكون ذلك لإظلامه وأنّه يُذْهَل فيه عن الأشياء.\nومما شذّ عن الباب قولهم للفرَس الجواد ذُهْلُولٌ (Bu əslidir. Lihyanidən rəvayət olunmuşdur: gecədən zühl və zəhl gəldi, necə ki deyirsən: gecədən hüdun keçdi. O da olar ki, qaranlıq olduğuna görə gecədə şeylər unudulur. Babdan şaz olan isə sürətli ata «zəhlul» demələridir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:22:56.902Z"
+}

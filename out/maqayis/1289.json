@@ -1,0 +1,17 @@
+{
+ "i": 1289,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دلق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 297,
+  "page_to": 297
+ },
+ "ar": "الدال واللام والقاف أصلٌ واحد مطّرد، يدلُّ على خروج الشئ وتقدُّمه. فالنّاقة الدَّلوق هى التى تَكَسَّرَ أسنانُها فالماء يخرُج من فمها. ويقال اندلَقَ السَّيفُ مِنْ غِمده، إذا خرج من غير أن يُسَلّ. واندلقت أقتابُ بَطْنه، إذا خرجَتْ أمعاؤُه. واندلَقَ السَّيلُ على القَوم، واندلَقَ الجيش. قال طرفة:\nدُلُقٌ فى غارَةٍ مَسْفُوحَةٍ … كرِعَال الطَّيرِ أسراباً تَمُرّ (٢)\nوناقة دُلُقٌ: شديدة الدُّفعة. والاندلاق: التقدُّم. وكان يقال لعُمارةَ بن زيادٍ العبسى أخِى الرّبيع: «دالق» (٣).",
+ "az": "[دلق] (dəl-q): Dal, lam və qaf hərfləri bir əsas prinsipi göstərir ki, bu da bir şeyin çıxması və irəliləməsidir. «النّاقة الدَّلوق» (əl-naqatü əd-dəluq) dişləri qırıldığı üçün ağzından suyu axan dəvədir. Deyirlər ki, «اندلَقَ السَّيفُ مِنْ غِمده» (indələqə əs-səyfü min ġimdih) — qılınc qınından sıyrılmadan çıxdı. «اندلقت أقتابُ بَطْنه» (indələqət uqtabu batnih) — qarnının bağırsaqları bayıra çıxdı. «اندلَقَ السَّيلُ على القَوم» (indələqə əs-səylü alə əl-qəvm) və «اندلَقَ الجيش» (indələqə əl-cəyş). Tərfə demişdir:\nدُلُقٌ فى غارَةٍ مَسْفُوحَةٍ … كرِعَال الطَّيرِ أسراباً تَمُرّ (٢)\n(Geniş yayılan basqında irəliləyən dəstələr quş dəstələri kimi dəstə-dəstə keçirlər).\nVə «ناقة دُلُقٌ» (naqatün dəluq): şiddətli hücum edən. Və «الاندلاق» (əl-indəlaq): irəliləmə. Rəbiin qardaşı Ümarə ibn Ziyada «دالق» (daliq) deyərdilər (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:17:37.834Z"
+}

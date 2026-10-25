@@ -1,0 +1,17 @@
+{
+ "i": 834,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 37,
+  "page_to": 37
+ },
+ "ar": "الحاء والذال والراء أصلٌ واحد، وهو من التحرُّز والتيقُّظ.\nيقال حَذِر يَحْذَر حَذَراً. ورَجُلٌ حَذِرٌ وحَذُورٌ وحِذْرِيانٌ: متيقِّظٌ متحرّز.\nوحَذَارِ، بمعنى احذَرْ. قال:\n* حَذَارِ من أرْماحِنا حَذَارِ (٢) *\nوقرئت: ﴿وَإِنّا لَجَمِيعٌ حاذِرُونَ (٣﴾ قالوا: متأهِّبون. و «(حَذِرُونَ)»:\nخائفون. والمحْذُورة: الفزَع. فأمّا الحِذْرِيَةُ فالمكانُ الغليظ: ويمكن أنْ يكون سُمِّى بذلك لأنه يُحذَر المشْىُ عليه (٤)",
+ "az": "«حذر» (həzər): Ha, zal və ra hərflərindən ibarət olub tək bir kökdür, o da ehtiyat etmək və ayiq olmaqdır.\nDeyilir: «حَذِر يَحْذَر حَذَراً» (ehtiyat etdi, ehtiyat edir, ehtiyat). Və «رَجُلٌ حَذِرٌ» və «حَذُورٌ» və «حِذْرِيانٌ» — ayıq və ehtiyatlı kişi. Və «حَذَارِ» (həzari) — «احذَرْ» (çəkin) mənasındadır. Şair demişdir:\n* حَذَارِ من أرْماحِنا حَذَارِ (٢)\n(Nizələrimizdən çəkinin, çəkinin!)\nVə qiraət olunmuşdur: mənaca tərcümə: «Və biz həqiqətən də tam təchizatlı ehtiyatlılarıq» (﴿وَإِنّا لَجَمِيعٌ حاذِرُونَ (٣﴾). Alimlər demişlər: hazırlaşanlar. Və «حَذِرُونَ» — qorxanlar. Və «المحْذُورة» (əl-məhzurə) — qorxu. «الحِذْرِيَةُ» (əl-hizriyə) gəldikdə isə o, sərt və daşlıq yerdir: o cür adlandırılması mümkündür ki, orada gəzməkdən çəkinilir (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:54:28.558Z"
+}

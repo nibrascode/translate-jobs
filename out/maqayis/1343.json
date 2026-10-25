@@ -1,0 +1,17 @@
+{
+ "i": 1343,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دأث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 321,
+  "page_to": 321
+ },
+ "ar": "الدال والهمزة والثاء ليس أصلاً؛ لأن الدَّأْثاءَ - وهى الأَمَةُ - مقلوبةٌ من الثأْداء. على أنَّهم يقولون: دَأَثْتُ الطّعام: أكلتُه.",
+ "az": "[دأث] الدال (dal), الهمزة (həmzə) və الثاء (sə) hərfləri əsas bir kök deyil; çünki الدَّأْثاء (əd-də'sa') - yəni kəniz - الثأْداء (əs-sə'da') sözünün tərsidir (məqlubdur). Bununla belə, onlar دَأَثْتُ الطّعام (də'əstu-t-ta'am) deyirlər: onu yedim.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T01:20:14.272Z"
+}

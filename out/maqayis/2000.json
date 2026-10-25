@@ -1,0 +1,17 @@
+{
+ "i": 2000,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سحف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 139,
+  "page_to": 139
+ },
+ "ar": "السين والحاء والفاء أصلٌ واحدٌ صحيح، وهو تنحِيَة الشّئ عن الشئ، وكشفُه. من ذلك سَحفْت الشّعرَ عن الجلد، إذا كشطتَه حتّى لا يبقى منه شئ. وهو فى شعر زهير:\nوما سُحِفَتْ فيه المقاديمُ والقَمْلُ (١)\nوالسَّيْحَفُ: نصالٌ عِراض، فى قول الشّنفَرَى:\nلها وفْضَةٌ فيها ثلاثونَ سَيْحَفاً … إذا آنَسَتْ أُولَى العدىِّ اقشعرَّتِ (٢)\nوالسَّحيفة (٣): واحدة السحائف، وهى طرائق الشّحم الملتزقة بالجلد، وناقةٌ سَحوفٌ من ذلك. وسمِّيت بذلك لأنّها تُسحَفُ أى يمكن كشطْها. والسَّحِيفة:\nالمَطْرة تجرُف ما مَرَّت به.",
+ "az": "[سحف] (səhəf): Sin, hə və fa hərfləri səhih vahid bir kökdür; o da bir şeyi digərindən uzaqlaşdırmaq və açmaqdır. Bunlardan biri «سَحفْت الشّعرَ عن الجلد» (səhəftüş-şəhrə ʻanil-cild) – dərinin üzərindən tüpücüyü (tükü) heç nə qalmayana qədər kazıyıb təmizlədim, sözüdür. Bu, Züheyrin şeirində keçir:\nوما سُحِفَتْ فيه المقاديمُ والقَمْلُ (١)\n(Və qabaqkı dişlər və bitlər orada kazınıb təmizlənmədi).\nŞənfərinin sözündəki «السَّيْحَفُ» (əssəyhəf) – enli iti ucluqlardır (qılınc və s.):\nلها وفْضَةٌ فيها ثلاثونَ سَيْحَفاً … إذا آنَسَتْ أُولَى العدىِّ اقشعرَّتِ (٢)\n(Onun otuz dənə səyhəfi olan ox qabı var... düşmənlərin ön dəstəsini görəndə tükləri ürpəşdi).\n«السَّحِيفة» (əssəhifə) – səhifələrin təkidir, bunlar dəriyə yapışan piy zolaqlarıdır. «ناقةٌ سَحوفٌ» (naqətün səhufun) – bundan törəmişdir (piyi kazınan dəvə). O, belə adlandırılmışdır, çünki o, «تُسحَفُ» (tushəf) – yəni dərisi qazına biləndir. «السَّحِيفة» (əssəhifə) – yolüstü rastlaşdığı hər şeyi süpürüb aparan güclü yağışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:35.045Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1713,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 3,
+  "page_to": 3
+ },
+ "ar": "الزاء والعين أصلٌ يدلُّ على اهتزازٍ وحركة. يقال: زَعْزَعْتُ الشيء وتزَعْزَعَ هو، إذا اهتزّ واضطرب. وسيرٌ زعزعٌ: شديد تهتز له الرِّكاب.\nقال الهُذَلىّ (٢):\nوتَرْمَدُّ هَمْلَجَةً زَعْزَعًا … كما انخَرَط الحَبْلُ فوق المَخَالِ",
+ "az": "[زع] الزاء والعين — titrəməyə və hərəkətə dəlalət edən bir əsasdır. Deyilir: زَعْزَعْتُ الشيء وتزَعْزَعَ هو (mən şeyi tərpatdim, silkələdim və o özü də tərpəndi, silkələndi) — o silkələnib qorxduqda və ya titrədikdə. وسيرٌ زعزعٌ (zəlzəc gediş, səyahət) — üzərində cilovların titrədiyi şiddətli gediş.\nHüzəli demişdir (٢):\nوتَرْمَدُّ هَمْلَجَةً زَعْزَعًا … كما انخَرَط الحَبْلُ فوق المَخَالِ\n(O, sürətli və sarsıntılı yerişlə gedir, necə ki ip makaranın üzərindən sürüşüb düşür.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:37:28.607Z"
+}

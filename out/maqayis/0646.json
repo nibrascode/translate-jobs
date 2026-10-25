@@ -1,0 +1,17 @@
+{
+ "i": 646,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جسر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 457,
+  "page_to": 458
+ },
+ "ar": "الجيم والسين والراء يدلُّ على قوّةٍ وجُرْأة. فالجَسْرَة؛ الناقة القوية، ويقال هى الجريئة على السَّير، وصُلْبٌ جَسْرٌ أى قوىّ. قال:\n* موضع رَحْلِها جَسْرٌ (١) *\nوالجَسْرُ معروفٌ. قال ابن دريد: هو بفتح الجيم الذى يسمِّيه العامّة جِسْرًا، وهى القنطرة. والجَسَارَة: الإقدام، ومن ذلك اشتُقَّت جَسْر، وهى قبيلة.\nقال النابغة:\nوحَلَّتْ فى بنى القَيْنِ بن جَسْرٍ … وقد نَبَغَتْ لنا منهم شؤونْ (٢)",
+ "az": "[جسر] Cim, sin və ra: gücə və cəsarətə dəlalət edir. Cəsrə (الجَسْرَة): güclü dəvədir, deyilir ki, o, gedişdə cəsarətlidir. Cəsr (صُلْبٌ جَسْرٌ) - güclü, möhkəm deməkdir. Şair deyir: * موضع رَحْلِها جَسْرٌ (١) * (mənası: Yəhərinin yeri möhkəmdir). Cəsr (الجَسْرُ) məlumdur. İbn Dureyd deyir: Bu, cimin fəthəsi ilədir, avamın cisr (جِسْر) dediyi şeydir, yəni körpüdür. Cəsarət (الجَسَارَة): irəli atılmaqdır, Cəsr (جَسْر) qəbiləsinin adı da buradan götürülmüşdür. Nabigə deyir: وحَلَّتْ فى بنى القَيْنِ بن جَسْرٍ … وقد نَبَغَتْ لنا منهم شؤونْ (٢) (mənası: O, Bəni Qeyn ibn Cəsr qəbiləsində məskunlaşdı, onlardan bizə işlər çıxdı).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:47:48.556Z"
+}

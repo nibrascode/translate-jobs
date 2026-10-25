@@ -1,0 +1,17 @@
+{
+ "i": 1079,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خسل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 181,
+  "page_to": 182
+ },
+ "ar": "الخاء والسين واللام أصلٌ واحدٌ يدلُّ على ضَعْفٍ وقِلّةِ خَطَر. فالمَخْسُول: المرذول. ورجالٌ خُسَّلٌ مثل سُخَّل، وهم الضُّعَفاء.\nوالكواكب المخسولة: المجهولة التى لا أسماءَ لها. قال:\nونحنُ الثُّرَيّا وجوزاؤُها … ونحنُ السّما كانِ والمِرْزَمُ\nوأنتُم كواكبُ مَخْسُولةٌ … تُرَى فى السّماء ولا تُعْلَمُ (١)",
+ "az": "[خسل] (خ, س, ل): Zəifliyə və az dəyərə dəlalət edən tək bir əsasdır. المَخْسُول (əl-məxsul) - alçaq, rəzil edilmişdir. وَرِجَالٌ خُسَّلٌ (və ricalün xüssəl) - سُخَّل (süxxəl) kimi zəif adamlar deməkdir.\nالمخسولة ulduzlar - adları bilinməyən naməlum ulduzlardır. Şair demişdir:\nوَنَحْنُ الثُّرَيَّا وَجَوْزَاؤُهَا … وَنَحْنُ السَّمَا كَانِ وَالمِرْزَمُ\nوَأَنْتُمْ كَوَاكِبُ مَخْسُولَةٌ … تُرَى فِي السَّمَاءِ وَلَا تُعْلَمُ (١)\n(Biz Sürəyyayıq və onun Cövzasıyıq, biz Səmakani və Mirzəmik. Siz isə göydə görünən, lakin tanınmayan məxsulə ulduzlarsınız)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

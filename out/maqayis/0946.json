@@ -1,0 +1,17 @@
+{
+ "i": 946,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حمق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 105,
+  "page_to": 106
+ },
+ "ar": "الحاء والميم والقاف أصلٌ واحدٌ يدلُّ على كَساد الشئ\nوالضّعفِ والنُّقضان. فالحُمْق: نقصان العقل. والعرب تقول: انحمق الثوبُ.\nإذا بَلِى. وانحمقت السُّوق: كسدت.",
+ "az": "[حمق] الحاء والميم والقاف أصلٌ واحدٌ يدلُّ على كَساد الشئ والضّعفِ والنُّقضان («həmq» — ha, mim və qaf hərfləri şeyin kəsada uğramasına, zəifliyə və əskilməyə dəlalət edən tək bir kökdür). فالحُمْق: نقصان العقل (əl-Hümq — ağlın əskilməsidir). والعرب تقول: انحمق الثوبُ (Ərəblər deyirlər: paltar köhnəlib zəiflədi). إذا بَلِى (O, köhnəldiyi zaman). وانحمقت السُّوق: كسدت (Və bazar kəsada uğradı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:22.229Z"
+}

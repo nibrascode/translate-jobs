@@ -1,0 +1,17 @@
+{
+ "i": 2164,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شأو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 238,
+  "page_to": 238
+ },
+ "ar": "الشين والهمزة والواو كلمتان متباعدتان جدًّا.\nفالأول السَّبْق، يقال شأوته أى سبَقْتُه.\nوالكلمة الأخرى الشَّأْوُ: ما يخرج من البئر إذا نُظِّفت. ويقال للزَّبيل الذى يُخرَج به ذلك المِشْآة (٤).",
+ "az": "«شأو»: الشين والهمزة والواو كلمتان متباعدتان جدًّا (Şin, həmzə və vav hərflərindən ibarət olub bir-birindən çox uzaq iki kəlmədir).\nفالأول السَّبْق (Birincisi: yarışda ötmək, qabaqlamaqdır), يقال شأوته أى سبَقْتُه (Deyilir ki: Mən onu qabaqladım, yəni onu ötdüm).\nوالكلمة الأخرى الشَّأْوُ: ما يخرج من البئر إذا نُظِّفت (Digər kəlmə isə əş-şəvdir: quyu təmizləndikdə ondan çıxarılan torpaq və çöküntüdür). ويقال للزَّبيل الذى يُخرَج به ذلك المِشْآة (٤) (Həmin çöküntünün çıxarıldığı səbətə də mişat deyilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:55:06.969Z"
+}

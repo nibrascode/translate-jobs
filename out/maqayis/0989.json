@@ -1,0 +1,17 @@
+{
+ "i": 989,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حبج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 126,
+  "page_to": 126
+ },
+ "ar": "الحاء والباء والجيم ليس عندى أصلا يعوّل عليه ولا يُفَرّع منه، وما أدرى ما صحّة قولهم: حَبَجَ العَلَمُ بَدَا، وحَبَجَت النارُ: بدَتْ بَغْتَةً.\nوحَبِجَت الإبل، إذا أكلت العَرفَج فاشتكت بطونَها، كلُّ ذلك قريبٌ فى الضَّعف بعضُه مِنْ بعض. وأما حَبَجَ بها، فالجيم مبدلةٌ من قاف.",
+ "az": "[حبج] (həbc) - Ha, ba və cim mənim yanımda güvəniləcək və budaqlandırılacaq bir əslə malik deyil. Onların: «حَبَجَ العَلَمُ» (əlamət/dağ göründü), və «حَبَجَت النارُ» (od qəflətən göründü) sözlərinin doğruluğunu bilmirəm. Və «حَبِجَت الإبل» — dəvələr ərfəc bitkisini yeyib qarınlarından şikayətləndikdə (xəstələndikdə). Bütün bunların zəiflikdə bəzisi bəzisinə yaxındır. «حَبَجَ بها» sözünə gəldikdə isə, cim hərfi qaf hərfi əvəzinə dəyişdirilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:49.134Z"
+}

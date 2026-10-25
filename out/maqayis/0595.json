@@ -1,0 +1,17 @@
+{
+ "i": 595,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جحش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 427,
+  "page_to": 427
+ },
+ "ar": "الجيم والحاء والشين متباعدةٌ جدًّا. فالجَحْش معروفٌ.\nوالعرب تقول: «هو جُحَيشُ وَحْدِهِ» فى الذّم، كما يقولون: «نَسِيج وَحْدِه» فى المدح. فهذا أصلٌ\nوكلمةٌ أخرى، يقولون: جُحِش إذا تقشَّر جلده. و\nفى الحديث: «أنه ﵌ سَقَط من فَرَسٍ فجُحِشَ شِقُّهُ».\nوكلمةٌ أخرى: جاحَشْتُ عنه إذا دافَعْتَ عنه. ويقال نَزَل فلانٌ جحيشاً.\nوهذا من الكلمة التى قبله، وذلك إذا نزلَ ناحيةً من الناس. قال الأعشَى:\n* إذا نَزَل الحىُّ حَلَّ الجَحِيشُ (١) *\nوأمَّا الْجَحْوَشُ، وهو الصبىُّ قبل أن يشتدّ، فهذا من باب الجَحْش، وإنَّما زيد فى بنائه لئلا يسمَّى بالْجَحْش، وإلاَّ فالمعنى واحدٌ. قال:\nقَتَلْنَا مَخْلَداً وَابنَىْ خراقٍ … وآخَرَ جَحْوشاً فوق الفَطِيم (٢)",
+ "az": "[جحش] (Cim, ha və şin hərfləri bir-birindən çox uzaqdır. الْجَحْش (cəviz, yaxud dəvə balası) məşhurdur.\nƏrəblər tənqiddə: «هو جُحَيشُ وَحْدِهِ» (O, təkcə cəhisdir) deyirlər, necə ki tərifdə: «نَسِيج وَحْدِه» (Tək toxunmuş parçadır) deyirlər. Bu bir əsasdır.\nBaşqa bir kəlmə: dərisi soyulduqda جُحِش deyilir.\nHədisdə: «O, atdan yıxılıb böyür hissəsi soyuldu (فجُحِشَ شِقُّهُ)» – demişdir.\nBaşqa bir kəlmə: onun üçün müdafiə etdiyim zaman جاحَشْتُ عنه deyilir. Və deyilir ki, filankəs جحيs (tənha) düşdü.\nBu, əvvəlki kəlmədəndir, yəni camaatdan kənarda yerləşdiyi zaman. Əşə Şair demişdir:\n* إذا نَزَل الحىُّ حَلَّ الجَحِيشُ (١) *\n(Qəbilə düşərgə salanda tənha olan kənara çəkilər.)\nالْجَحْوَشُ-ə gəldikdə, o, uşaq güclənməmişdən əvvəlki çağdır, bu da جَحْش kəlməsindən götürülmüşdür, sadəcə olaraq جَحْش adlandırılmasın deyə onun quruluşuna hərf əlavə olunmuşdur, yoxsa məna eynidir. Şair demişdir:\nقَتَلْنَا مَخْلəداً وَابنَىْ خراقٍ … وآخَرَ جَحْوشاً فوق الفَطِيم (٢)\n(Biz Məxlədi, Xərağın iki oğlunu və süddən kəsilmişdən yuxarı olan digər cəhvaşu öldürdük.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:44:44.167Z"
+}

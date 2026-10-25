@@ -1,0 +1,17 @@
+{
+ "i": 1830,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زحف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 49,
+  "page_to": 50
+ },
+ "ar": "الزاء والحاء والفاء أصلٌ واحد يدلّ على الاندفاع والمضىّ قُدُمًا. فالزَّحف: الجماعة يزحَفون إِلى العدوّ. والصبىّ يزحَف على الأرض قبل المشى. والبعير إذا أعيا فجرَّ فِرْسِنَه فهو يزحَف. وهى إبلٌ زواحفُ، الواحدة زاحفة. قال:\nعلى زوَاحف نُزْجِيَهَا مَحَاسِيرِ (١)\nويقال زحَفَ الدَّبَا، إذا مضى قُدُمًا. والزاحف: السهم الذى يقع دون الغَرَض ثم يزحَف. واللّه أعلم بالصواب.\nباب الزاء والخاءِ وما يثلثهما",
+ "az": "[زحف] (zə-hə-fa): irəli atılmağa və irəliləməyə dəlalət edən tək bir əsldir. «الزَّحف» (əz-zəhf): düşmənə doğru irəliləyən dəstə. Körpə yeriməzdən əvvəl yerdə iməkləyir. Dəvə yorulduqda dırnağını sürüyərsə, o zaman zəhf edir (sürünür). Bunlar «زواحفُ» (zəvəhif) dəvələrdir, təkli «زاحفة» (zəhifə) verilir. Şair demişdir: \nعلى زوَاحف نُزْجِيَهَا مَحَاسِيرِ (١)\n(Yorulmuş, sürünən dəvələr üzərində ki, onları qovuruq). \nDeyilir: «زحَفَ الدَّبَا» (çəyirtkələr irəlilədi) — irəli getdikləri zaman. «الزاحف» (əz-zəhif): hədəfdən qabağa düşüb sonra sürünən oxdur. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:25.663Z"
+}

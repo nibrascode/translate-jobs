@@ -1,0 +1,17 @@
+{
+ "i": 1381,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 343,
+  "page_to": 344
+ },
+ "ar": "الذال والراء المشددة أصلٌ واحد يدلُّ على لطافة وانتشار.\nومن ذلك الذَّرُّ: صِغار النَّمل، الواحدة ذَرّةٌ. وذَرَرْتُ المِلْحَ والدّواءَ. والذرِيرة معروفة، وكلُّ ذلك قياسٌ واحد.\nومن الباب: ذرّت الشّمْسُ ذُروراً، إذا طَلَعَتْ، وهو ضوءٌ لطيفٌ منتشر.\nوذلك قولُهم: «لا أفعله ما ذَرَّ شارقٌ»، وما ذَرّ قرنُ الشّمْس. * وحكى عن أبى زيد: ذَرّ البَقْلُ، إذا طلَعَ من الأرض. وهو من الباب؛ لأنّه يكون حينئذٍ صُغَاراً (١) منتشِرًا. فأمَّا قولُهم: ذَارَّتِ النّاقةُ وهى مُذَارٌّ، إذا ساء خُلُقها، فقد قيل إنَّه كذا مثّقل. فإن كان صحيحاً فهو شاذٌّ عن الأصل الذى أصَّلناه. إلا أن الحطيئة قال:\n* ذَارَتْ بأَنْفها (٢) *\nمخفَّفاً. وأراه الصحيح، ويكون حينئذٍ من ذئِرت، إذا تغضَّبت، فيكون على تخفيف الهمزة. [إلاّ] أنّ أبا زيدٍ قال: فى نفسِ فُلانٍ ذِرارٌ، أى إعراضٌ\nغَضَباً، كذِرار النّاقة. وهذا يدلُّ على القول الأول. واللّه أعلم.",
+ "az": "[ذر] (Də-ra-rə). Zəl və şididli ra hərfləri incəliyə və səpələnməyə (yayılmağa) dəlalət edən tək bir təməldir. Bunlardan biri الذَّرُّ (əz-zərru): kiçik qarışqalardır, təkli ذَرَّةٌ (zərrəh) olur. Və دَذَرْتُ المِلْحَ والدّواءَ (duzu və dərmanı səpələdim). الذَّرِيرَةُ (əz-zərirəh) məlumdur, bunların hamısı tək bir qaydadır. Bu fəsildəndir: ذرّت الشّمْسُ ذُروراً (günəş doğdu), yəni incə və yayılmış bir işıqla çıxdıqda. Onların bu sözü də bundandır: «لا أفعله ما ذَرَّ شارقٌ» («Şariq doğduğu müddətcə bunu etməyəcəyəm» — mənaca tərcümə: günəş doğduqca), və ما ذَرّ قرنُ الشّمْس (günəşin buynuzu doğduğu müddətcə). Əbu Zeyddən rəvayət olunmuşdur: ذرّ البَقْلُ (göyərti cücərdi), yerdən çıxdığı zaman. Bu da həmin fəsildəndir; çünki o zaman o, kiçik və səpələnmiş olur. Amma onların: ذَارَّتِ النّاقةُ وهى مُذَارٌّ (dəvə azğınlaşdı və o, müzar oldu), xasiyyəti pisləşdiyi zaman dedikləri sözə gəldikdə, deyilmişdir ki, bu, təşdidli şəkildə belədir. Əgər bu doğrudursa, o zaman bizim qoyduğumuz təməldən kənara çıxan (şaz) bir sözdür. Lakin Hütəyyə demişdir: * ذَارَتْ بأَنْفها (٢) * (Burunu ilə azğınlaşdı) — təffifsiz (yüngülləşdirilmiş) şəkildə. Mənə elə gəlir ki, bu düzgündür, o zaman bu söz ذئِرت (zəirət — qəzəbləndi) sözündəndir və həmzənin yüngülləşdirilməsi üzərində qurulmuşdur. Lakin Əbu Zeyd demişdir: filankəsin nəfsində ذِرارٌ (zirar) vardır, yəni qəzəbdən üz döndərmək, dəvənin zirarəsi kimi. Bu isə birinci sözü təsdiq edir. Və Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:21:05.722Z"
+}

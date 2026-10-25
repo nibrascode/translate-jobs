@@ -1,0 +1,17 @@
+{
+ "i": 1162,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 230,
+  "page_to": 230
+ },
+ "ar": "الخاء والواو والفاء أصلٌ واحد يدلُّ على الذُّعْرِ والفزَع.\nيقال خِفْتُ الشّئَ خوفاً وخِيفةً والياء مبدَلةٌ من واو لمكان الكسرة. ويقال خاوَفَنى فلانٌ فخُفْتُه، أى كنتُ أشدَّ خوفاً منه. فأمّا قولهم تخوَّفْتُ الشَّئَ، أى تنقّصتُه، فهو الصحيح الفصيح، إلا أنّه من الإبدال، والأصلُ النّون من التنقُّص، وقد ذُكِر فى موضعه",
+ "az": "«خوف»: الخاء، الواو və الفاء — qorxuya və vahiməyə dəlalət edən tək bir əsasdır. Deyilir: «خِفْتُ الشّئَ خوفاً وخِيفةً» (şeydən qorxdum, qorxu və xofla), ya hərfi kəsrənin yerinə vav hərfindən əvəz edilmişdir. Deyilir: «خاوَفَنى فلانٌ فخُفْتُه» (filankəs mənimlə qorxuda yarışdı, mən də ondan qorxdum), yəni mən ondan daha çox qorxan idim. «تخوَّفْتُ الشَّئَ» (şeyi əskiltdim) sözlərinə gəldikdə, hərçənd bu düzgün və fəsihdir, lakin bu, hərflərin əvəzlənməsindən irəli gəlir, əsli isə əskiltmək mənasında «nun» hərfidir və öz yerində zikr olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1011,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حثل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 137,
+  "page_to": 137
+ },
+ "ar": "الحاء والثاء واللام أصلٌ واحد يدلُّ على سُوء وحَقَارة.\nفحُثلة البُرِّ: ردِيُّه. وحُثالة الدُّهن وما أشبهه: ثُفْلُهُ. والمُحْثَل: السيِّئ الغِذاء.\nقال متمم:\nوأرْمَلةٍ تمشِى بأشْعَثَ مُحْثَلٍ … كفَرخ الحُبارَى رأسُه قد تَصَوَّعا (٥)\nشبَّهه بفرخ الحُبارَى لأنّه قبيحُ المنظر منَتَّفُ الرِّيش.",
+ "az": "«حثل» — الحاء والثاء واللام أصلٌ واحد يدلُّ على سُوء وحَقَارة. فحُثلة البُرِّ: ردِيُّه. وحُثالة الدُّهن وما أشبهه: ثُفْلُهُ. والمُحْثَل: السيِّئ الغِذاء. قال متمم: وأرْمَلةٍ تمشِى بأشْعَثَ مُحْثَلٍ … كفَرخ الحُبارَى رأسُه قد تَصَوَّعا (٥) شبَّهه بفرخ الحُبارَى لأنّه قبيحُ المنظر منَتَّفُ الرِّيش. (Həft, sə və lam hərfləri tək bir əsas məna olub pisliyə və alçaqlığa dəlalət edir. Buğdanın hüsələsi: onun pisi. Yağın və bənzərlərinin hüsalesi (çöküntüsü): onun dib çöküntüsü. Əl-muhsəl: qidası pis olan. Mutəmmim demişdir: Saçı pırpıqlı, qidası pis, başı toyuqçölü cücəsi kimi lələkləri tökülmüş yetim uşaqla yürüyən bir dul qadın... Onu toyuqçölü cücəsinə bənzətdi, çünki o, görkəmsizdir və lələkləri yolunmuşdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:05:38.624Z"
+}

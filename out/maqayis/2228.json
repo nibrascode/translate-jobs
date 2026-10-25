@@ -1,0 +1,17 @@
+{
+ "i": 2228,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شرج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 268,
+  "page_to": 269
+ },
+ "ar": "الشين والراء والجيم أصلٌ منقاس يدُلُّ على اختلاطٍ ومُداخَلة. من ذلك الشَّرَجُ وهى العُرَى، سُمِّيت بذلك لأنّها تتداخل. ويقال شَرَجْت اللّبِنَ، إذا نضَدْته. ويقال شَرَّجْتُ الشرَاب، إذا مزجتَه. ويقال إنّ الشَّريجة القوسُ يكون عودُها لونَين. ويقال تشَرَّج الّلحمُ بالّلحم، إذا تداخَلَا. هذا هو الأصل. قولهم: أصبَح الناسُ فى هذا الأمر شَرْجَيْنِ، فيُظَنُّ أنّهم أصبحوا فِرْقَين. وهذا كذا يقال، وهو يرجع إلى المعنى الذى ذكرناه؛ لأنهم إذا اختلفوا اختلَطَ * الرّأْىُ والكلامُ وصارت مراجعاتٌ، كما قال زُهير:\nرَدَّ القِيانُ جِمَالَ الحىِّ فاحتملوا … إلى الظهيرة أمرٌ بينهمْ لَبِكُ (١)\nوأمّا شَرَج الوادى فمنفَسَحُه، والجمع أشراج.",
+ "az": "[شرج] (şin, ra və cim) qarışma və daxil olmağa dəlalət edən qanunauyğun bir əsasdır. Bunlardan biri الشَّرَجُ (eş-şərəc) olub, ilgəklərdir, bir-birinə daxil olduqları üçün belə adlandırılmışlardır. Deyilir: شَرَجْت اللّبِنَ (şərəctül-ləbinə) - kərpicləri bir-biri ardınca yığdım. Və deyilir: شَرَّجْتُ الشرَاب (şərrəctüş-şərab) - içkini qarışdırdın. Deyilir ki, الشريجة (eş-şəricə) - taxtası iki rəngli olan yaydır. Və deyilir: تشَرَّج الّلحمُ بالّلحم (təşərrəcəl-ləhmü bil-ləhm) - ət ətlə qarışdı. Bu, əsasdır. Onların sözü: أصبَح الناسُ فى هذا الأمر شَرْجَيْنِ (əsbəhən-nasü fi hədəl-əmri şəryəni) - insanların bu məsələdə iki firqə olduqları güman edilir. Bu belə deyilir və bu, bizim qeyd etdiyimiz mənanın üzərinə qayıdır; çünki onlar ixtilaf etdikdə rəy və söz qarışır, Züheyrin dediyi kimi qarşılıqlı müzakirələr yaranır: رَدَّ القِيانُ جِمَالَ الحىِّ فاحتملوا … إلى الظهيرة أمرٌ بينهمْ لَبِكُ (Cariyələr qəbilənin dəvələrini geri qaytardılar, onlar da köçdülər... Günortaya qədər aralarındakı iş qarışıq idi) (١). Və şərəcül-vadi (شَرَج الوادى) - vadinin genişlənən yeridir, cəmi أشراج (eşrac) gəlir.",
+ "model": "gemini-flash-lite-latest",
+ "ts": "2026-10-25T01:59:18.449Z"
+}

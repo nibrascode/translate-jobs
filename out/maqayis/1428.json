@@ -1,0 +1,17 @@
+{
+ "i": 1428,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذأب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 368,
+  "page_to": 368
+ },
+ "ar": "الذال والهمزة والباء أصلٌ واحد يدلُّ على قِلّةِ استقرارٍ، وألاّ يكونَ للشّئ فى حركته جهةٌ واحدة. من ذلك الذِّئب، سمِّى بذلك لتذَؤُّبِه من غير جهةٍ واحدة. ويقال ذُئِبَ الرّجُل، إذا وقَع فى غنَمه [الذئب]. ويقال تذأَّبت الرِّيح: أتت من كل جانب. وأرض مَذْأَبَةٌ: كثيرة الذئاب. وذَؤُب الرّجُل، إذا صار ذئباً خبيثاً. وجمع الذِّئب أذؤبٌ وذِئاب وذُؤبَانٌ (٢). ويقال تذاءبْتُ النّاقَة تذاؤْباً، على تفاعلْتُ، إذا ظأرتَها على ولدها فتَشَبَّهْتَ لها بالذئب، ليكون أرْأَمَ لها عليه. وقال [قومٌ (٣)]: الإِذْآب: الفِرار. وأُنشِد:\nإنّى إذا ما ليثُ قومٍ أذْأبا … وسقَطَتْ نَخْوتُهُ وهَرَبا (٤)\nهذا أصل الباب، ثمّ يشبَّه الشَّئُ بالذِّئب. فالذِّئبة من القَتَب: ما تحت مُلْتَقى الحِنْوَين، وهو يقع على المِنْسَج.",
+ "az": "[ذأب] \n\nذال، həmzə və ba hərfi sabitliyin azlığına və hərəkətində şeyin tək bir istiqamətinin olmamasına dəlalət edən tək bir əsasdır. Bunlardan biri də الذِّئب (qurd) sözüdür, o, müxtəlif tərəflərdən hərəkət etdiyinə görə belə adlandırılmışdır. Və deyilir ذُئِبَ الرّجُل (kişinin qoyun sürüsünə qurd düşdü). Və deyirlər: تذأَّبت الرِّيح (külək hər tərəfdən əsdi). Və أرض مَذْأَبَةٌ (qurdları çox olan torpaq). Və ذَؤُب الرّجُل (kişi hiyləgər və qurd xasiyyətli oldu). Qurdun cəmi أذؤبٌ, ذِئاب və ذُؤبَانٌ gəlir (2). Və deyirlər: تذاءبْتُ النّاقَة تذاؤْباً (dəvəni məcbur etdim ki, balasını qəbul etsin və özünü qurda oxşatdın ki, ana balasına daha çox meyl etsin). [Bir qrup] demişdir: İdhaab – qaçmaqdır. Şeirdə söylənilmişdir:\nإنّى إذا ما ليثُ قومٍ أذْأبا … وسقَطَتْ نَخْوتُهُ وهَرَبا (4)\n(Həqiqətən mən, tayfanın şiri qaçdıqda... və təkəbbürü sökülüb qaçdıqda)\nBu, bölmənin əslidir, sonra bir şey qurda bənzədilir. Palanın altındakı ذئبة (zeybə) – hər iki qövsün birləşdiyi yerdə olan hissədir ki, o da belə düşür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:23:18.657Z"
+}

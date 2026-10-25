@@ -1,0 +1,17 @@
+{
+ "i": 1547,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رقن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 426,
+  "page_to": 426
+ },
+ "ar": "الراء والقاف والنون بابٌ يقرب من الباب الذى قبله.\nيقال رَقّنْت الكتاب: قاربتُ بينَ سُطوره. وترقَّنت المرأةُ: تلطَّخت بالزَّعفران.\nوالرَّقون والرِّقان: الزَّعفران. والمرقون: المنقوش. ويقال للمرأة الحسنة اللَّون الناعمة: راقنة.",
+ "az": "[رقن] (Rəqən): Ra, qaf və nun hərfləri əvvəlki fəsilə yaxın bir babdır. \nرَقّنْتُ الكتاب (rəqqəntul-kitab): kitabın sətirlərini bir-birinə yaxınlaşdırdım. وَتَرَقَّنَتِ المَرْأَةُ (və tərəqqəatil-məraə): qadın özünü zəfəranla boyadı. \nوالرَّقُون والرِّقان (ər-raqûn və ər-riqan): zəfəran. والمرقون (əl-mərqun): naxışlanmış. Gözəl rəngli, zərif qadına راقنة (raqinə) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:30:52.453Z"
+}

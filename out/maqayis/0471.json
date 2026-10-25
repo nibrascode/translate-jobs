@@ -1,0 +1,17 @@
+{
+ "i": 471,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "توق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 358,
+  "page_to": 358
+ },
+ "ar": "التاء والواو والقاف أصلٌ واحدٌ، وهو نِزَاعُ النَّفْس. ثم يُحمَل عليه غيرُه. يقال تاقَ الرّجُل يَتُوق. والتَّوْقُ نِزَاعُ النَّفْسِ إلى الشئ؛ وهو التُّوُوق. ونفس تائقةٌ مُشتاقَةٌ.\nقال ابن السّكّيت: تُقْتُ وتئِقْتُ: اشتَقْت.\nابنُ الأعرابىّ: تَاقَ يَتُوق إذا جادَ بنَفْسه (٣). ومثله رَاق يَرِيقُ، وفَاق يَفِيقُ أو يَفوق.",
+ "az": "[توق] (t-v-q): Ta, vaf və qaf hərfləri tək bir əsasdır, o da nəfsin bir şeyə can atmasıdır. Sonra başqa şeylər də buna şamil edilir. Deyilir ki, تَاقَ الرّجُل يَتُوق (kişi can atdı, atır). التَّوْقُ (tövq) nəfsin bir şeyə can atmasıdır; bu, həm də التُّوُوق (tüvuq) adlanır. نَفْسٌ تَائِقَةٌ (taiqə nəfs) həsrət çəkən deməkdir. İbn əs-Sikkit demişdir: تُقْتُ وَتَئِقْتُ (tuqtu və təiqtu) – həsrət çəkdim. İbn əl-Ərəbi demişdir: تَاقَ يَتُوق (taqə yətūqu) – canı ilə səxavət göstərdi, yaxud canını fəda etdi (٣). Buna bənzər olaraq رَاق يَرِيقُ (raqə yəriqu), və فَاق يَفِيقُ أَوْ يَفُوقُ (faqə yəfiqu və ya yəfuqu) denilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.836Z"
+}

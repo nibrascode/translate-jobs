@@ -1,0 +1,17 @@
+{
+ "i": 1036,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 158,
+  "page_to": 158
+ },
+ "ar": "الخاء والتاء ليس أصلاً؛ لأنّ تاءه مبدلةٌ من سين. يقال خَتِيتٌ: أى خسيس. وأَخَتّ اللّه حَظَّه، أى أخَسَّه. وهذا فى لغة مَنْ يقول:\nمررت بالنَّات، يريد بالناس. وذكروا أنَّهم يقولون: أخَتَ فلانٌ: استَحْيا.\nفإن كان صحيحاً فمعناه أنه أتَى بشئ ختيتٍ يستحيِى منه. وأنشدوا:\nفمَنْ يكُ مِنْ أوائلِهِ مُخِتًّا … فإنّكَ يا وليدُ بهم فخورُ (٤)\nأى لا تأتى أنت من أوائِلك بخَتيت.",
+ "az": "[خت] الخاء والتاء ليس أصلاً (Xar və ta əsas deyildir); لأنّ تاءه مبدلةٌ من سين (çünki onun ta hərfi sindən əvəz edilmişdir). يقال خَتِيتٌ (Dezilər ki, xətitun): أى خسيس (yəni alçaqdır). وأَخَتّ اللّه حَظَّه (Və Allah onun nəsibini əxətt etdi), أى أخَسَّه (yəni onu alçaltdı). وهذا فى لغة مَنْ يقول (Və bu, belə deyənin dilindədir): مررت بالنَّات (nattdən keçdim), يريد بالناس (insanları nəzərdə tutur). وذكروا أنَّهم يقولون (Və qeyd etdilər ki, onlar deyirlər): أخَتَ فلانٌ (filankəs əxətə etdi): استَحْيا (utandı). فإن كان صحيحاً (Əgər bu səhihdirsə), فمعناه أنه أتَى بشئ ختيتٍ يستحيِى منه (məası odur ki, o, utandığı xətit bir şey etmişdir). وأنشدُوا (Və şeir söylədilər): فمَنْ يكُ مِنْ أوائلِهِ مُخِتًّا … فإنّكَ يا وليدُ بهم فخورُ (٤) (Kim əcdadından muxitt olarsa... ey Vəlid, sənsən onlarla öyünən) أى لا تأتى أنت من أوائِلك بخَتيت (yəni sən əcdadlarından xətit bir şey gətirmə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:32.375Z"
+}

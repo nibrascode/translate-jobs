@@ -1,0 +1,17 @@
+{
+ "i": 540,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثلغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 386,
+  "page_to": 386
+ },
+ "ar": "الثاء واللام والغين كلمةٌ واحدة، وهو شَدْخُ الشئ. يقال ثَلَغْت رأسَه أى شدَخْته. ويقولون لما سقط من الرُّطَبِ فانشدخ مثَلَّغ.",
+ "az": "[ثلغ] (Sə, lam və ğın) bir şeyin əzilməsi (partlaması) demək olan tək bir kəlmədir. Deyilir: ثَلَغْت رأسَه (mən onun başını əzdim) – sən onu əzdiyin zaman. Xurmadan düşüb əzilən şeyə مثَلَّغ (əzilmiş) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.493Z"
+}

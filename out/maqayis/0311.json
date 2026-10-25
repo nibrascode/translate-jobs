@@ -1,0 +1,17 @@
+{
+ "i": 311,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 300,
+  "page_to": 300
+ },
+ "ar": "الباء واللام والصاد، فيه كلماتٌ أكثرُ ظَنِّى أن لا مُعوَّلَ على مثلها، وهى مع ذلك تتقارب. يقولون بلَّصتِ الغنم إذا قلّت ألبانها، وتبلَّصت الغَنَمُ الأرضَ إذا لم تدَعْ فيها شيئاً إلاّ رَعَتْه.\nوتبلَّصتُ الشئَ، إذا طلِبْتَه فى خَفاءِ (٣). وفى ذلك عندى نَظَر.",
+ "az": "«بلص» (bələs): الباء واللام والصاد — zənnimcə, belələrinə etibar olunmayan bəzi sözlər var, bununla belə onlar bir-birinə yaxındır. Deyirlər: sürünün südü azaldıqda «bəlləsətin-ğənəmu» deyilər; sürünün yeri otlayıb heç nə qoymadığı vaxt «təbəlləsətin-ğənəmu-l-arda» deyilər. Bir şeyi gizlicə axtardığımda «təbəlləsətüş-şeyə» deyilər (٣). Məncə, bunda da araşdırma vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:37.148Z"
+}

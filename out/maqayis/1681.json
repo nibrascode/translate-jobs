@@ -1,0 +1,17 @@
+{
+ "i": 1681,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رجى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 494,
+  "page_to": 495
+ },
+ "ar": "الراء والجيم والحرف المعتلّ أصلان متباينان، يدلُّ أحدُهما على الأمَل، والآخَر على ناحية الشئ\nفالأول الرَّجاءِ، وهو الأمل. يقال رجَوت الأمْرَ أَرجُوه رجاءً. ثم يتَسع فى ذلك، فربما عُبِّر عن الخوف بالرَّجاء. قال اللّه تعالى: ﴿ما لَكُمْ لا تَرْجُونَ لِلّهِ وَقاراً﴾ أى لا تخافون له عَظَمَةً. وناسٌ يقولون: ما أرجو، أى ما أبالى. وفسَّروا الآية على هذا، وذكروا قول القائل:\nإذا لَسَعَته النحلُ لم يَرْجُ لَسْعَها … وخالَفَها فى بيت نَوبٍ عَوَامِلِ (١)\nقالوا: معناه لم يكترِثْ. ويقال للفرَس إذا دنا نِتاجها: قد أرْجَتْ تُرْجِى إرجاءً\nوأمَّا الآخَر فالرَّجَا، مقصور: النَّاحية من البئر؛ وكل ناحيةٍ رَجاً. قال اللّه ﷻ: ﴿وَاَلْمَلَكُ عَلى أَرْجائِها﴾. والتثنيةُ الرَّجَوَانِ. قال:\nفلا يُرْمَى بىَ الرَّجَوَانِ إنِّى … أقَلُّ الناس مَنْ يُغنى غَنَائِى (٢)\nوأما المهموز فإِنّه يدلُّ على التأخير. يقال أرجأْتُ الشئَ: أخّرته. قال اللّه جلّ ثناؤُه: ﴿تُرْجِي مَنْ تَشاءُ مِنْهُنَّ﴾؛ ومنه سمِّيت المُرْجئة.\nقال الشيبانىّ: أَرْجَأَتْ (٣)",
+ "az": "[رجى] (rəcə): راء، جيم və uzadılma hərfi (hərfu-l-mütəll) iki fərqli əsas mənanı bildirir; bunlardan biri ümidə, digəri isə şeyin tərəfinə və ya kənarına dəlalət edir.\nBirincisi, ümid mənasını verən الرَّجاء (ur-rəca) sözüdür. Deyilir: رجَوت الأمْرَ أَرجُوه رجاءً (işə ümid etdim, ümid edirəm, ümid etmək). Sonra bu məna genişlənir və bəzən ümid sözü ilə qorxudan bəhs olunur. Uca Allah buyurur: ﴿ما لَكُمْ لا تَرْجُونَ لِلّهِ وَقاراً﴾ (Məyər siz Allahın əzəmətindən qorxmurşunuzmu? [mənaca tərcümə: Nə olub sizə ki, Allahın əzəmətini ümid etmirsiniz?]) – yəni Onun əzəmətindən qorxmurşunuz. Bəzi insanlar «ما أرجو» (ümumiyyətsizəm / əhəmiyyət vermirəm) – yəni «saymıram» deyirlər. Ayəni də bu cür izah etmişlər və şairin bu sözünü xatırlatmışlar:\nإذا لَسَعَتْه النحلُ لم يَرْجُ لَسْعَها … وخالَفَها فى بيت نَوبٍ عَوَامِلِ (١)\n(Əgər arılar onu sancdısa, o, onların sancmasına əhəmiyyət vermədi və işləyən şan evində onlara müxalif çıxdı).\nDedilər ki, bunun mənası «saymadı, eyninə almadı» deməkdir. Doğuş vaxtı yaxınlaşan dişi dəvəyə devilər: قد أرْجَتْ تُرْجِى إرجاءً (artıq doğuş vaxtı yaxınlaşıb).\nİkincisi isə qısa yazılan الرَّجَا (ur-rəca) sözüdür: quyunun kənarı; hər bir tərəf رَجاً (rəca) adlanır. Uca Allah buyurur: ﴿وَاَلْمَلَكُ عَلى أَرْجائِها﴾ (Mələklər də onun ətrafındadır [mənaca tərcümə: və mələk onun kənarlarındadır]). İkilik halı الرَّجَوَانِ (ur-racəvan)ur. Şair demişdir:\nفلا يُرْمَى بىَ الرَّجَوَانِ إنِّى … أقَلُّ الناس مَنْ يُغنى غَنَائِى (٢)\n(Məni kənarlara atmayın, çünki mən insanların ən az ehtiyac duyulanıyam).\nHəmzəli olan (ئ)isə təxirə salmağa dəlalət edir. Deyilir: أرجأْتُ الشئَ (şeyin vaxtını gecikdirdim, təxirə saldım). Uca Allah buyurur: ﴿تُرْجِي مَنْ تَشاءُ مِنْهُنَّ﴾ (Onlardan dilədiyini təxirə salırsan [mənaca tərcümə]). Mürciə firqəsinin adı buradan götürülmüşdür.\nŞeybani demişdir: أَرْجَأَتْ (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:36:40.586Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2268,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صفح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 293,
+  "page_to": 293
+ },
+ "ar": "الصاد والفاء والحاء أصلٌ صحيحٌ مطَّرد يدلُّ على عَرْض وعِرَض. من ذلك صَفْح الشَّئ: عُرْضُه. ويقال رأس مُصْفَحٌ: عريض.\nوالصفيحة: كلُّ سيفٍ عريض. وصَفحتا السَّيف: وَجْهاه. وكلُّ حجرٍ عريضٍ صفيحةٌ، والجمع صفائِح. والصُّفَّاح: كلُّ حجرٍ عريض. قال النَّابغة:\nتقدُّ السَّلوقىَّ المضاعفَ تسجُه … ويُوقِدْن بالصُّفّاح نارَ الحُباحبِ (١)\nومن الباب: المصافحةُ باليد، كأنَّه ألصق يدَه بصَفحةِ يدِ ذاك. والصَّفْح:\nالجنْب. وصَفحا كلِّ شئ: جانِباه. فأمّا قولهم: صفَحَ عنه، وذلك إعراضاً عن ذنْبه، فهو من الباب؛ لأنَّه إذا أعرض عنه فكأنه قد ولاَّه صَفحتَه وصُفحه، أى عُرضه وجانِبَه، وهو مَثَلٌ.\nومن الباب: صفَحت الرّجلَ وأصفحتُه، إذا سألك فمنعتَه (٢). وهو من أنّك أريتَه صَفحتَك مُعْرِضاً عنه. ويقال: صفحتُ الإِبلَ على الحوض، إذا أمررتَها عليه، وكأَنَّك أريتَ الحوضَ صَفَحاتِها، وهى جُنوبُها.\nومما شذّ عن الباب قولُهم: صفحت الرجل صفحاً، إذا سقيتَه أىَّ شرابٍ كان ومتى كان.",
+ "az": "[صفح] (S-F-H) — Sadiq, səhih və müntəzəm bir kök olub, en və genişlik mənasını bildirir. Bunlardan biri صَفْح الشَّئ (bir şeyin səhifəsi, üzü): onun enidir. الرأس مُصْفَحٌ (enli baş) deyilir.\n\nالصفيحة (səfiqə): hər enli qılınc. وصَفحتا السَّيف (qılıncın iki səhifəsi): onun iki üzüdür. Hər enli daş səfiqədir, cəmi صفائح (səfaih) gəlir. الصُّفَّاح (suffah): hər enli daş. Nadir (Nəbigə) demişdir:\nتقدُّ السَّلوقىَّ المضاعفَ تسجُه … ويُوقِدْن بالصُّفّاح نارَ الحُباحبِ (١)\n(O, qat-qat səhləbi [zirəh] parçalayır, sürətlə gedir... və onlar suffah daşının üzərində hubahib odunu yandırırlar).\n\nBu babdandır: əl ilə المصافحة (müsafihə) — sanki əlini o adamın əlinin üzünə yapışdırdı. الصَّفْح (səfh): böür, yan. وصَفحا كلِّ شئ (hər şeyin iki səhifəsi): onun iki yanıdır. Onların «صفَحَ عنه» (ondan üz çevirdi, bağışladı) sözünə gəldikdə, bu, günahından üz çevirmək mənasındadır və bu babdandır; çünki o, [günahkardan] üz çevirdikdə sanki ona öz səhifəsini və səhfini, yəni enini və tərəfini döndərmiş olur. Bu, bir məsəldir.\n\nBu babdandır: صفحت الرّجلَ وأصفحتُه (adamdan üz çevirdim və ona üzümü göstərmədim) — o səndən bir şey istədikdə sən onu qadağan etdin (٢). Bu, sənin ondan üz çevirmiş halda ona öz səhifəni göstərməyindən irəli gəlir. Deyilir: صفحت الإِبلَ على الحوض (dəvələri hovuzun yanından keçirdin) — sanki sən hovuza onların səhifələrini, yəni böürlərini göstərdin.\n\nBu babdan şaz (qaydadan kənar) olan isə onların صفحت الرجل صفحاً (adamı istənilən vaxt və istənilən içki ilə suvarmağın) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:00:47.388Z"
+}

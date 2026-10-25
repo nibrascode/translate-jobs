@@ -1,0 +1,17 @@
+{
+ "i": 1268,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "دقم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 290,
+  "page_to": 290
+ },
+ "ar": "الدال والقاف والميم أُصَيل فيه كلمة. يقال: دَقَم أسنانَه:\nكَسرها.",
+ "az": "«دقم» (د-ق-م): dal, qaf və mim hərfləri içində tək bir kəlmə olan kiçik bir əsasdır. Deyilir: «دَقَم أسنانَه» – onun dişlərini qırdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:16:56.300Z"
+}

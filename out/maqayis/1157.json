@@ -1,0 +1,17 @@
+{
+ "i": 1157,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خوش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 228,
+  "page_to": 228
+ },
+ "ar": "الخاء والواو والشين أصلٌ يدلُّ على ضمْر وشِبهه.\nفالمتخوِّش: الظامر، ولذلك تسمَّى الخاصِرتان الخَوْشَينِ.",
+ "az": "«خوش»: الخاء، الواو və الشين — arıqlığa və ona bənzər şeyə dəlalət edən bir əsasdır. «المتخوِّش» (əl-mətəxəvviş) — arıq deməkdir, məhz buna görə bədənin iki böyür tərəfinə «الخَوْشَينِ» (əl-xəuşeyn) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:33.573Z"
+}

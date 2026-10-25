@@ -1,0 +1,17 @@
+{
+ "i": 505,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثحج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 372,
+  "page_to": 372
+ },
+ "ar": "الثاء والحاء والجيم. ذكر ابن دريد فى الثاء والحاء والجيم كلمة زَعَم أنها لمَهْرَةَ بنِ حَيْدان (١). يقولون ثَحجه برجله، إذا ضَرَبه بها. وقد أبعد أبو بكرٍ شاهدَه ما استطاع.",
+ "az": "«ثحج»: الثاء, Ha və Cim. İbn Dürid «əs-Sə və əl-Ha və əl-Cim» bölməsində Məhْرə bin Heydana aid etdiyini iddia etdiyi bir kəlimə qeyd etmişdir (١). Deyirlər: ثَحجه برجله — onu ayağı ilə vurdu. Əbu Bəkr dəlili bacardığı qədər uzaqlaşdırmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:16.273Z"
+}

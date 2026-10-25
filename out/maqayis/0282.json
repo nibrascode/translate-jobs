@@ -1,0 +1,17 @@
+{
+ "i": 282,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 271,
+  "page_to": 271
+ },
+ "ar": "الباء والغين والميم أصل يسير، وهو صوت وشبيه به لا يتحصّل فالبغام صوت النّاقة تردّده، وصوت الظّبية بغام أيضا. وظبية بغوم. قال الشاعر (١) فى النّاقة:\nحسبت بغام راحلتى عناقا … وما هى ويب غيرك بالعناق\nومما يحمل عليه قولهم بغمت للرّجل بالحديث إذا لم تفسّره له.",
+ "az": "[بغم] الباء، الغين və الميم — sadə bir əsas kökdür, o da mənasız səs və ya ona bənzər səslərdir. «البغام» — dəvənin təkrarladığı səsdir, ceyranın səsi də «بغام» adlanır. «ظبية بغوم» — səslənən ceyran deməkdir. Şair dəvə haqqında demişdir (١): Minik heyvanımın səslənməsini oğlaq səsi sandım… Və o, ey vədi, səndən başqa bir oğlaq deyil. Buna əsaslandırılan sözlərdən biri də onların: «بغمت للرّجل بالحديث» (filankəsə hədisi izah etmədiyin zaman ona səslənməyin) demələridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:31:47.354Z"
+}

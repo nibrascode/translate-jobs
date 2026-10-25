@@ -1,0 +1,17 @@
+{
+ "i": 2388,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضعو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 362,
+  "page_to": 362
+ },
+ "ar": "الضاد والعين والواو كلمةٌ واحدة، وهى الضَّعة: شجرة، حُذفت واوُها؛ والجمع ضَعَوات. قال:\nمتّخِذاً فى ضَعَواتِ تَوْلجا (٢)",
+ "az": "[ضعو] «الضاد» (زاد), «العين» (eyn) və «الواو» (vav) hərflərindən ibarət tək bir kəlmədir: o da «الضَّعَة» (əz-zəhə) — vav hərfi düşmüş bir ağacdır; cəmi «ضَعَوات» (zəhəvat) gəlir. O demişdir:\nمتّخِذاً فى ضَعَواتِ تَوْلجا (٢)\n(Zəhəvat ağacları arasında gizlənmə yeri edinərək).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:29.496Z"
+}

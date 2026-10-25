@@ -1,0 +1,17 @@
+{
+ "i": 684,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جمخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "الجيم والميم والخاء كلمة واحدة لعلَّها فى باب الإبدال. يقولون جامَخْت الرجل فاخَرْتُه. وإنَّما قلنا إنَّها من باب الإبدال لأنَّ الميم يجوز أن يكون منقلبةً عن فاء، وهو الجَفْخُ والجخف بمعنىً.",
+ "az": "«جمخ» — جيم، ميم və خاء hərfləri bəlkə də hərflərin əvəzlənməsi (ibdal) بابından olan tək bir sözdür. Deyirlər: جامَخْتُ الرَّجل (kişi ilə lovğalandım, fəxr etdim). Biz bunun ibdal بابından olduğunu ona görə dedik ki, mim hərfinin fə hərfindən dəyişməsi də caizdir, çünki جَفْخ (cəfx) və جخف (cəxəf) eyni mənanı verir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:48:50.350Z"
+}

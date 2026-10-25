@@ -1,0 +1,17 @@
+{
+ "i": 1045,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 163,
+  "page_to": 163
+ },
+ "ar": "الخاء والدال والنون أصلٌ واحد، وهو المصاحَبَة.\nفالخِدْن: الصّاحب. يقال: خادنْتُ الرّجُلَ مخادنَةً. وخِدْنُ الجارية محدِّثُها.\nقال أبو زيد: خادنت الرّجلَ صادقته. ورجل خُدَنةٌ: كثير الأخْدان.",
+ "az": "«خدن» (خ، د، ن) — tək bir əsas prinsipdir, o da yoldaşlıq etməkdir. الْخِدْنُ (əl-xidn) — dost, yoldaş. Deyilir: خادَنْتُ الرّجُلَ مُخادَنَةً (xadəntü əl-riculə muxadənətün) — kişi ilə dostluq etdim. Və qızın خِدْنُ (xidn) — onun söhbətcəsidir. Əbu Zeyd demişdir: Kişi ilə səmimi dostluq etdim. Və رَجُل خُدَنةٌ (xudənətün kişi) — çoxlu dostları olan deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

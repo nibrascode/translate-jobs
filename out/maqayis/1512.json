@@ -1,0 +1,17 @@
+{
+ "i": 1512,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 409,
+  "page_to": 410
+ },
+ "ar": "الراء والعين والباء أصولٌ ثلاثة: أحدها الخوف، والثانى المَلْ ء، والآخر القَطْع.\nفالأول الرَّعْب وهو الخَوف، رَعَبْتُه رَعْباً، والاسم الرُّعْب. ويقال إنّ الرَّعْبَ رقْيةٌ، يزعمون أنهم يرْعَبون ذا السِّحْر بكلامٍ (١)، أى يُفْزِعونه. وفاعله راعبٌ ورَعَّاب.\nوالأصل الآخر قولهم: سيلٌ راعبٌ، إذا ملَأَ الوادىَ. ورعَبْتُ الحوضَ إذا ملأتَه.\nوالثالث قولهم للشَّى المقَطَّع: مُرَعَّب. ويقال للقِطعة من السَّنام رُعْبوبة.\nوتسمَّى الشَّطْبَة من النِّساء رُعبوبةً؛ تشبيهاً لها بقِطعة السنام. ويقال سَنامٌ مرعوبٌ إذا كان يقطُر دَسما.",
+ "az": "[رعب] (ra, ayn, ba) — üç əsas mənası vardır: biri qorxu, ikincisi doluluq, üçüncüsü kəsmək. Birincisi: الرَّعْب (rəb) – qorxu, رَعَبْتُه رَعْباً (rəabtühu rəbən), ismi də الرُّعْب (urub). Deyilir ki, رَعْب (rəb) – əfsundur, onlar güman edirlər ki, sehrlənmiş adamı bir sözlə رَعْب edirlər (١), yəni qorxudurlar. Onun etedici isə راعبٌ (raib) və رَعَّاب (rəabb) olar. Digər əsas onların sözüdür: سيلٌ راعبٌ (seylun raib) – vadini dolduran sel. Və رعَبْتُ الحوضَ (rəabtü l-hovz) – hovuzu doldurdun. Üçüncüsü isə kəsilmiş şeyə مُرَعَّب (murəbb) demələridir. Həmçinin dəvə hürgücünün parçasına رُعْبوبة (rububə) denilir. Qadınların incə və zərifinə də hürgüc parçasına bənzədilərək رُعْبوبة (rububə) denilir. Həmçinin yağ damcılayan dəvə hürgücünə سَنامٌ مرعوبٌ (sənamun murub) denilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:29:50.330Z"
+}

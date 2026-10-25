@@ -1,0 +1,17 @@
+{
+ "i": 897,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حظر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 80,
+  "page_to": 81
+ },
+ "ar": "الحاء والظاء والراء أصلٌ واحدٌ يدلُّ على المنْع. يقال حظرت الشئ أحْظُرُه حَظْراً، فأنا حاظِرٌ والشئ محظور. قال اللّه تعالى: ﴿وَما كانَ عَطاءُ رَبِّكَ مَحْظُوراً﴾. والحِظَارُ: ما حُظِر على غنمٍ أو غيرها بأغصانٍ أو شئِ من رَطْبٍ\nشجر أو يابس، ولا يكاد يفعل ذلك إلاّ بالرَّطْب منه ثم ييْبس وفاعل ذلك المحتَظِرُ. قال اللّه تعالى: ﴿فَكانُوا كَهَشِيمِ اَلْمُحْتَظِرِ﴾، أى الذى يعمل الحظيرةَ للغنم، ثم ييبَس ذلك فيتهشَّم. ويقال جاء فلان بالحَظِر الرَّطْب، إذا جاء بالكَذِبِ المستشنَع. ويقال هو بوقد فى الحَظر، إذا كان يَنِمُّ. وقد مضى شاهده (١)",
+ "az": "«حظر» (H-Z-R): hə, zai və ra hərfləri qadağan etməyə (mən etməyə) dəlalət edən tək bir əsas mənadır. Deyilir: «حظرت الشئ أحْظُرُه حَظْراً» — mən o şeyi qadağan etdim, deməli mən حاظِرٌ (hazir), o şey isə محظور (mahdur - qadağan olunmuş)dur. Uca Allah demişdir: ﴿وَما كانَ عَطاءُ رَبِّكَ مَحْظُوراً﴾ (mənaca tərcümə: «Rəbbinin bəxşişi qadağan olunmamışdır»). الحِظَار (hidar) — qoyunlar və ya başqa heyvanlar üçün yaş və ya quru ağac budaqları ilə çəkilən çəpərdir, adətən bu, yalnız yaş budaqlarla edilir, sonra quruyur. Bunu edən isə مُحْتَظِر (muhtazir) adlanır. Uca Allah demişdir: ﴿فَكانُوا كَهَشِيمِ اَلْمُحْتَظِرِ﴾ (mənaca tərcümə: «Onlar çəpər çəkənin quru qırıntıları kimi oldular»), yəni qoyunlar üçün çəpər düzəldən, sonra o quruyaq qırılıb ufalanan kəs kimi. Deyilir ki, filankəs pis, çirkin yalanla gəldikdə: «جاء فلان بالحَظِر الرَّطْب» (filankəs yaş çəpərlə gəldi) dedi. Həmçinin, o, söz gəzdirdiyi (qeybət etdiyi) zaman «هو يوقد فى الحَظر» (o, çəpərdə od yandırır) deyilir. Bunun şahidi artıq ötmüşdür (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:55.260Z"
+}

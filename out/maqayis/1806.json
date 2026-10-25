@@ -1,0 +1,17 @@
+{
+ "i": 1806,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زيغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 40,
+  "page_to": 41
+ },
+ "ar": "الزاء والياء والغين أصلٌ يدل على مَيَل الشئ. يقال زاغ\nيَزيغُ زَيْغا. والتَّزَيُّغ: التَّمايُل (١)، وقوم زاغَةٌ، أى زائغون. وزاغَت الشمس، وذلك إذا مالت وفاء الفئ (٢). وقال اللّه جلّ ثناؤه: ﴿فَلَمّا زاغُوا أَزاغَ اَللّهُ قُلُوبَهُمْ﴾. فأمّا قولهم: تزيّغت المرأةُ، فهذا من باب الإبدال، وهى نونٌ أبدلت غَينا.",
+ "az": "[زيغ] (zig). الزاء (ز) və الياء (ي) və الغين (غ) bir şeyin meyl etməsinə (əyilməsinə) dəlalət edən bir əsldir. Deyilir: زاغ يَزيغُ زَيْغا (meyl etdi, meyl edir, meyl). وَالتَّزَيُّغُ (təzəyyüğ) — əyilmək, meyl etməkdir (1), قوم زاغَةٌ (zağə tayfası) — yəni haqq yolundan azanlar, meyl edənlər. Günəş زاغَتْ (meyl etdi), bu, günəş meyl etdikdə və kölgə döndükdə olur (2). Uca Allah buyurmuşdur: ﴿فَلَمّا زاغُوا أَزاغَ اَللّهُ قُلُوبَهُمْ﴾ (mənaca tərcümə: Onlar haqq yoldan azdıqda Allah da onların qəlblərini azdırdı). Qadının تزيّغت المرأة (özünü əyməsi, nazlanması) sözünə gəlincə, bu, nün hərfinin ğayın hərfi ilə əvəz olunduğu ibdəldən (əvəzetmədən) ibarətdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.436Z"
+}

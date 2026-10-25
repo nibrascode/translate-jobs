@@ -1,0 +1,17 @@
+{
+ "i": 945,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حمط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 105,
+  "page_to": 105
+ },
+ "ar": "الحاء والميم والطاء ليس أصلاً ولا فرعا، ولا فيه لغةٌ صحيحة، إلا شئ من النّبت أو الشجر. يقال لجنسٍ من الحيَّات شيطان الحَمَاطِ. من المحمول عليه قولهم: أصبْتُ حَماطةَ قلبِه، أى سواد قلبه، كما يقولون حبَّة قلبه.\nوالحماطة، فيما يقال: وجَعٌ فى الحلْق. وليس بذلك الصحيح. فإنْ صحَّ فهو محمولٌ على نبت لعلَّ له طعماً حامزاً.\nفأما قولهم الحِمَطيط والحِمْطاط، فالأوَّل نبت، والثانى دودٌ يكون فى العُشب منقوشٌ بألوان، فمما لا معنى لذكرِه.",
+ "az": "[حمط] الحاء والميم والطاء ليس أصلاً ولا فرعا، ولا فيه لغةٌ صحيحة، إلا شئ من النّبت أو الشجر («həmt» — ha, mim və ṭa hərfləri nə kökdür, nə də fərcdir, onda səhih bir lüğət də yoxdur, yalnız bitki və ya ağacdan bir şey istisnadır). يقال لجنسٍ من الحيَّات شيطان الحَمَاطِ (İlanların bir növünə şeytanul-həmat deyilir). من المحمول عليه قولهم: أصبْتُ حَماطةَ قلبِه، أى سواد قلبه، كما يقولون حبَّة قلبه (Buna həml olunanlardan biri də onların bu sözüdür: asəbtu həmatə qolbihi — qəlbinin qarasını, necə ki qəlbinin dənəsi deyirlər, tapdım). والحماطة، فيما يقال: وجَعٌ فى الحلْق (Və həmatə, deyildiyinə görə, boğazda ağrıdır). وليس بذلك الصحيح (Bu isə o qədər də səhih deyildir). فإنْ صحَّ فهو محمولٌ على نبت لعلَّ له طعماً حامزاً (Əgər səhihdirsə, o zaman bəlkə də acı dadı olan bir bitkiyə həml edilmişdir). فأما قولهم الحِمَطيط والحِمْطاط، فالأوَّل نبت، والثانى دودٌ يكون فى العُشب منقوشٌ بألوان، فمما لا معنى لذكرِه (Amma onların əl-həmitit və əl-həmtat demələrinə gəlincə, birincisi bitki, ikincisi isə otlaqda rənglərlə naxışlanmış qurd növüdür ki, bunları zikr etməyin mənası yoxdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:03:22.229Z"
+}

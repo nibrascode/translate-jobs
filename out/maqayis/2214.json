@@ -1,0 +1,17 @@
+{
+ "i": 2214,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شذى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 258,
+  "page_to": 258
+ },
+ "ar": "الشين والذال والحرف المعتل أصلٌ واحد، وهو يدلُّ على الحَدّ والحِدّة. يقال إنّ فيه شَذَاةً، أى حِدّةً وجُرأة. وقال الخليل: يقال للجائع إذا اشتد جُوعه: ضَرِم شَذاهُ (١). والشَّذَى: الأذى والشّرّ. ويقال إنّ الشَّذَا ذُباب الكَلْب. والشَّذَا: كِسَرُ العُود، وأحسِبَه سمِّى بذلك لحِدّة رائحته.\nقال الشّاعر:\nإذا ما مشَت نَادَى بما فى ثيابِها … رياحُ الشَّذا والمَنْدَلىُّ المطَيَّرُ (٢)\nفأمّا الذى من السُّفُن يُعرف بالشَّذَا فما أُراه عربيًّا.",
+ "az": "«شذى» (şəzə). Şin, zal və zəif hərf köklü tək bir əsas olub, sərtliyə və itiliyə dəlalət edir. Deyilir ki, onda «شَذَاةٌ» (şəzat) yəni itilik və cürət vardır. Xəlil demişdir: Ac adamın aclığı şiddətləndiyi zaman «ضَرِمَ شَذاهُ» (1) (onun aclıq itiliyi şiddətləndi) denilər. «الشَّذَى» (əş-şəzə) – əziyyət və şər deməkdir. Həmçinin deyirlər ki, «əş-şəzə» it birəsidir. «الشَّذَى» həm də – udi ağacının qırıntılarıdır; güman edirəm ki, o, qoxusunun kəskinliyinə görə belə adlandırılmışdır. \nŞair demişdir: \n«إذا ما مشَت نَادَى بما فى ثيابِها … رياحُ الشَّذا والمَنْدَلىُّ المطَيَّرُ» (2) \n(O yerə gedəndə libasının içindəki ətirlərin qoxusu — səzə qoxusu və ətirlənmiş məndəl udu – hər tərəfə yayılıb hay saldı.) \nGəmilərdən «الشَّذَا» (əş-şəzə) adı ilə tanınan şeyə gəldikdə isə, mən onun ərəb sözü olduğunu güman etmirəm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:56:06.964Z"
+}

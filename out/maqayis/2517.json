@@ -1,0 +1,17 @@
+{
+ "i": 2517,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طنى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 425,
+  "page_to": 426
+ },
+ "ar": "الطاء والنون والحرف المعتل كلمة تدلُّ على مرضٍ من أمراض الإبل. يقال طَنِىَ البعير، إذا التصقت رئتُه بجنْبه فمات، يَطْنَى طَنَى. ويقال ما طَنِيتُ بهذا الأمر، أى ما تعرَّضْتُ له، كأنّه يقول: ما لصق بى ولا تلطَّخت به.\nوأمّا المهمور فليس من الباب فى البناء، لكنه فى المعنى متقارب. يقولون: إنّ الطِّنْ ءَ: الرِّببة. قال:\nكأنّ على ذى الطِّنْ ءِ عَيْناً رقيبة … بمقْعَده أو منظرٍ وهو ناظرُ (١)\nوإنما سميت بذلك لأنّ الريبة مما يلطَّخ ويتلطَّخ به.\nومما شذّ عن الباب الطنْ ء: المنزل، وقد يهمز (٢)، وهو يبعد عن الذى ذكرناه بعداً.\nومما شذّ أيضاً قولهم: تركته بِطنْئِه، أى بحُشاشةِ نفسِه.",
+ "az": "[طنى] (Tə, nun və hərf-i müətil) dəvə xəstəliklərindən bir xəstəliyə dəlalət edən bir sözdür. «طَنِىَ البعير» (təniyəl-bəiru) – dəvənin ağciyəri böyrünə yapışıb öləndə deyilir, يَطْنَى طَنَى (yətnə tənə). «ما طَنِيتُ بهذا الأمر» (mə tənịtu bihəzəl-əmr) – yəni mən bu işə qarışmadım, elə bil o, mənə yapışmadı və mən onunla ləkələnmədim. Həmzəli formasına gəldikdə, bina baxımından bu babdan deyil, lakin məna cəhətdən yaxındır. Deyirlər ki, الطِّنْءُ (ət-tinü) – şübhə, töhmət deməkdir. Şair demişdir: كأنّ على ذى الطِّنْ ءِ عَيْناً رقيبة … بمقْعَده أو منظرٍ وهو ناظرُ (١) (Elə bil şübhə sahibinin üzərində oturduğu yerdə və ya baxdığı mənzərədə güdən bir göz var). Bu, yalnız ona görə belə adlandırılmışdır ki, şübhə insanın ləkələndiyi və ləkə yaxdığı şeydir. Bu babdan istisna olan الطِّنْءُ (ət-tinü) – ev deməkdir, bəzən həmzələnir də (٢), və bu, bizim qeyd etdiyimizdən çox uzaqdır. Həmçinin istisna olan onların «تركته بِطنْئِه» (tərəktühu bitin'ihi) sözüdür, yəni onu canının qalıntısı (son nəfəsi) ilə tərk etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.399Z"
+}

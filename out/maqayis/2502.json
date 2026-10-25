@@ -1,0 +1,17 @@
+{
+ "i": 2502,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طلح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 418,
+  "page_to": 418
+ },
+ "ar": "الطاء واللام والحاء أصلانِ صحيحان، أحدهما جنس من الشجر، والآخر بابٌ من الهزال وما أشبهه.\nفالأوّل الطَّلْح، وهو شجرٌ معروف، الواحدةُ طلحة. وذو طُلُوحٍ: مكان، ولعلَّ به طَلْحاً. ويقال إبلٌ طَلَاحَى وطَلِحة، إذا شكَتْ عن أكل الطَّلْح.\nوالثانى: قولهم ناقةٌ طِلْح أسفارٍ، إذا جهَدها السَّير وهَزَلَها؛ وقد طَلِحَتْ.\nوالطِّلْح: المهزول من القِرْدان. قال:\nإذا نام طِلْحٌ أشعثُ الرّأس خلفَها … هداه لها أنفاسها وزفيرُها (٢)\nومن الباب الطَّلاح: ضدُّ الصَّلاح، وكأنَّه من سوء الحال والهُزَال.",
+ "az": "[طلح] الطاء (ta), اللام (lam) və الحاء (ha) iki düzgün kökdür, onlardan biri ağac növüdür, digəri isə arıqlıq və ona bənzər qapıdır. Birincisi: الطَّلْح (ət-təlh), bu, məlum bir ağacdır, təkliyi طلحة (təlhə) gəlir. ذو طُلُوحٍ (zu tuluh): bir məkandır, bəlkə də orada təlh ağacı var. Deyilir ki, إبلٌ طَلَاحَى وطَلِحة (ibilun təlahə və təlihə), əgər təlh yeməkdən şikayətlənərsə. İkincisi: onların ناقةٌ طِلْح أسفارٍ (naqatun tilhu əsfarin) demələri, əgər gediş onu yorub arıqladıbsa; o, طَلِحَتْ (təlihət) etmişdir. الطِّلْح (ət-tilh): arıqlamış gənədir. Demişdir: إذا نام طِلْحٌ أشعثُ الرّأس خلفَها … هداه لها أنفاسها وزفيرُها (2) (Arxasında saçı dağınıq bir tilh (arıq) yatdıqda... onun nəfəsi və ahı onu ona tərəf yönəltdi). Bu qapıdan الطَّلاح (ət-təlah): ət-səlahın (yaxşılığın) əksidir, sanki bu, pis hal və arıqlıqdandır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:09:04.544Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 537,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ثلث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 385,
+  "page_to": 385
+ },
+ "ar": "الثاء واللام والثاء كلمةٌ واحدة، وهى فى العدد، يقال اثنانِ وثلاثة. والثُّلَاثاءِ من الأيام. قال:\n[قالوا] ثَلاثاؤهُ مالٌ ومَأدُبَةٌ … وكلُّ أيّامِه يومُ الثُّلَاثاءِ (٣)\nوثالثة الأثافِى: الحَيْدُ النّادِر من الجبل، يجمع إليه صخرتانِ ثم تُنْصَبُ عليها القِدْر. وهو الذى أراده الشماخُ:\nأقامتْ على رَبْعَيهما جارتَا صَفاً … كُمَيْتَا الأعالِى جَوْنَتَا مُصْطَلاهما (٤)\nوالثَّلُوث من الإبل: التى تملأ ثلاثةَ آنِية إذا حُلِبت. والمثلوثة: المزادة تكون من ثلاثة جُلودٍ. وحَبْلٌ مَثْلوثٌ، إذا كان على ثلاثِ قُوىً.",
+ "az": "[ثلث] (Sə, lam və sə) sayda işlənən tək bir kəlmədir, deyilir: اثنانِ وثلاثة (iki və üç). Və günlərdən الثُّلَاثاءِ (çərşənbə axşamı). (Şair) demişdir:\n[قالوا] ثَلاثاؤهُ مالٌ ومَأدُبَةٌ … وكلُّ أيّامِه يومُ الثُّلَاثاءِ (٣)\n(Mənanın tərcüməsi: Dedilər ki, onun çərşənbə axşamı mal-dövlət və ziyafətdir; onun bütün günləri çərşənbə axşamı günüdür.)\nVə üçüncü ocaq daşı: Dağın qabarıq çıxıntısıdır ki, yanına iki qaya yığılır, sonra üzərinə qazan qoyulur. Şəmmaxtakinin qəsd etdiyi də budur:\nأقامتْ على رَبْعَيهما جارتَا صَفاً … كُمَيْتَا الأعالِى جَوْنَتَا مُصْطَلاهما (٤)\n(Mənanın tərcüməsi: Onların iki yurdunun üzərində sərt qayanın iki qonşusu dayandı; onların zirvələri qonur, ocaqlarının yeri isə tünd rəngdədir.)\nVə الثَّلُوث (əssəluf) dəvələrdən: Sağıldığı zaman üç qabı doldurandır. Və المثلوثة (məslusə) – üç dərindən düzəldilmiş su qabıdır. Və حَبْلٌ مَثْلوثٌ (üçqat ip) – üçqat burulmuş olduğu zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:39:59.493Z"
+}

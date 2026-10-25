@@ -1,0 +1,17 @@
+{
+ "i": 1418,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ذوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 364,
+  "page_to": 365
+ },
+ "ar": "الذال والواو والقاف أصلٌ واحد، وهو اختبار الشئ من جِهَةِ تَطَعُّمٍ، ثم يشتق منه مجازاً فيقال: ذُقْت المأكولَ أذُوقه ذَوْقاً. وذُقْت ما عند فلانٍ: اختبرتُه. وفى كتاب الخليل: كلُّ ما نزَلَ بإنسانٍ مِنْ مكروه فقد ذَاقَه (٣). ويقال ذاقَ القوسَ، إذا نظَرَ ما مقدارُ إعطائها وكيف قُوّتُها. قال:\nفذَاق فأعطَتْهُ من اللَّينِ جانبا … كَفَى، ولَهَا أن يُغْرِق السَّهْمُ حاجزُ (١)",
+ "az": "[ذوق]\nالذال والواو والقاف أصلٌ واحد، وهو اختبار الشئ من جِهَةِ تَطَعُّمٍ، ثم يشتق منه مجازاً (dadına baxmaq yolu ilə bir şeyi imtahan etməyi bildirən tək bir əsl olub, sonra ondan məcazi olaraq törədilir):\nفيقال: ذُقْت المأكولَ أذُوقه ذَوْقاً (Yeməyin dadına baxdım – əzuhu zəubən). وذُقْت ما عند فلانٍ: اختبرتُه (Filankəsin yanında olanı daddım, yəni imtahan etdim). وفى كتاب الخليل: كلُّ ما نزَلَ بإنسانٍ مِنْ مكروه فقد ذَاقَه (٣) (Xəlilin kitabında yazılmışdır: Hər bir insanın başına gələn xoşagəlməz şey onu zövq etmişdir, yəni dadmışdır).\nويقال ذاقَ القوسَ، إذا نظَرَ ما مقدارُ إعطائها وكيف قُوّتُها. قال:\nفذَاق فأعطَتْهُ من اللَّينِ جانبا … كَفَى، ولَهَا أن يُغْرِق السَّهْمُ حاجزُ (١)\n(Və deyilir: yayını daddı, yəni onun gücünün və dartılmasının miqdarına baxdı. Şair demişdir: O daddı, yay ona yumşaqlıq tərəfini verdi, oxu batıran maneə isə kifayət etdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:22:56.903Z"
+}

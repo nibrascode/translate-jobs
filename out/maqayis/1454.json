@@ -1,0 +1,17 @@
+{
+ "i": 1454,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الراء والثاء أصلٌ واحد يدلُّ على إخلاقٍ وسقوط. فالرَّثُّ:\nالخَلَق البالى. يقال حَبْلٌ (١) رثٌّ، وثوبٌ رثٌّ، ورجلٌ رثّ الهَيئة. وقد رَثّ يَرِثُّ رَثاثَةً ورُثوثةً. والرِّثَّة: أسقاط البيت * من الخُلقْانِ، والجمع رِثَثٌ وأمَّا قولهم ارتُثَّ فى المعركة، فهو من هذا، وذلك أنَّ الجريح يسقُط كما تسقط الرِّثَّة ثم يُحمَل وهو رِثيثٌ.\nومن الباب [الرِّثَّةُ (٢)]، وهم الضعفاء من الناس. ويقال الرِّثَّة: المرأةُ الحمقاء. فإِن صحّ ذلك فهو من الباب.",
+ "az": "«رث» — ra və sə bir əslə malik olub köhnəlməyə və düşməyə dəlalət edir. الرَّثُّ (ərt) — köhnə və çürümüş [şey]. Deyilir: حَبْلٌ (١) رثٌّ (rəss ip), وثوبٌ رثٌّ (köhnə paltar), ورجلٌ رثّ الهَيئة (görkəmi səfil olan kişi). رَثَّ يَرِثُّ رَثاثَةً وَرُثوثَةً [feili] olub. وَالرِّثَّة (irrissə) — ev əşyalarının köhnəlmiş qırıntılarıdır, cəmi رِثَثٌ (risəs) gəlir. Döyüşdə yaralanıb yıxılmağa gəldikdə isə, ارتُثَّ (urtussə) buradan götürülmüşdür; bu ona görədir ki, yaralı şəxs məhz irrişə kimi yerə düşür, sonra isə yaralı halda daşınır. Bu qəbildəndir: الرِّثَّةُ (٢) — insanlardan olan zəif-acizlər. Deyilir ki, الرِّثَّة — axmaq qadındır. Əgər bu səhihdirsə, deməli, həmin kökəndəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:24.395Z"
+}

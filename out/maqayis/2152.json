@@ -1,0 +1,17 @@
+{
+ "i": 2152,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 234,
+  "page_to": 234
+ },
+ "ar": "الشين والياء والدال أصلٌ واحدٌ يدلُّ على رفعِ الشّئ.\nيقال شِدْت القَصر أشِيدُه شَيْداً. وهو قصر مَشِيدٌ، أى معمولٌ بالشِّيد. وسمِّى شِيداً لأنَّ به يُرفَع البناء. يقال قَصرٌ مَشِيدٌ أى مُطَوَّل. والإشادة: رفْع الصَّوت والتنويه.",
+ "az": "[شيد] (şid) — شين (şin), ياء (yə) və دال (dal) bir şeyin ucaldılmasına dəlalət edən tək bir əsasdır. Deyilir: «شِدْت القَصر أشِيدُه شَيْداً» (şidtu-l qəsrə əşiduhu şəyda) — mən qəsri tikdim/ucaltdım. O, məşid qəsridir (قصر مَشِيدٌ), yəni şid (əhəng/suvaq) ilə tikilmişdir. O, ona görə şid adlanmışdır ki, tikinti onunla ucaldılır. Deyilir: «قَصرٌ مَشِيدٌ» (qəsrun məşidun) — yəni ucaldılmış/uzadılmış qəsr. Əl-işadət (الإشادة): səsi ucaltmaq və tanıtdırmaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:54:39.212Z"
+}

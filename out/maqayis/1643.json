@@ -1,0 +1,17 @@
+{
+ "i": 1643,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رأل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 472,
+  "page_to": 472
+ },
+ "ar": "الراء والهمزة واللام كلمةٌ واحدة تدلُّ على فِراخ النعام وهى الرَّأْل، والجمع رئَال، والأنثى رألَةٌ. واسْتَرْأل النّبات، إذا طال وصار كأعناق الرِّئال. وذات الرِّئال: روضة. والرِّئال: كواكب (٢).",
+ "az": "«رأل»: (Ra, Həmzə, Lam) dəvəquşu balalarına dəlalət edən tək bir kəlmədir: الرَّأْل (ər-rəl), cəmi رِئَال (rial), dişi isə رَأْلَةٌ (rələş) olur. وَاسْتَرْأَلَ النَّبَاتُ (bitki uzandı və rial boyunlarına bənzədi). ذَاتُ الرِّئَالِ (Zatür-rial): bir bağçanın adı. الرِّئَال (rial): ulduzlar (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:34:52.917Z"
+}

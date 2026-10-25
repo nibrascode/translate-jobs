@@ -1,0 +1,17 @@
+{
+ "i": 310,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 299,
+  "page_to": 300
+ },
+ "ar": "الباء واللام والسين أصلٌ واحد، وما بَعْدَه فلا معوَّلَ عليه.\nفالأصلُ اليَأْسُ، يقال أَبْلَسَ إذا يَئِسَ. قال اللّه تعالى: ﴿إِذا هُمْ فِيهِ مُبْلِسُونَ (١﴾ قالوا: ومن ذلك اشتُقّ اسم إِبْليس، كأَنَّهُ يَئِسَ مِنْ رحمة اللّه.\nومن هذا الباب أبْلَسَ الرجُلُ سَكَتْ، ومنه أبْلَسَتِ النّاقة، وهى مِبْلَاسٌ، إذا لم تَرْغُ (٢) مِنْ شِدَّةِ الضَّبَعَة: فأما قولُ ابنِ أحمر:\nعُوجى ابنَةَ البَلَسِ الظَّنُونِ فقد … يَرْبُو الصَّغِيرُ ويُجْبَرُ الكسْرُ\nفيقال إِنَّ البَلَسَ الواجم.",
+ "az": "«بلس» (bələs): الباء واللام والسين — tək bir əsasdır, ondan sonrakına isə etibar yoxdur. Əsası ümidsizlikdir, «əbləsə» (أَبْلَسَ) — ümidsiz oldu, deyilər. Uca Allah buyurmuşdur: mənaca tərcümə: «O zaman onlar orada ümidsiz qalacaqlar (ümidsizliyə qapılacaqlar)» (١). Dedilər ki, İblis adı da buradan götürülmüşdür, guya o, Allahın rəhmətindən ümidsiz olmuşdur. Bu fəsildəndir: «Əbləsər-raculu» — susdu; həmçinin «əbləsətin-naqatu» — o, həddindən artıq cütləşmək həvəsindən (qızışmadan) səsini çıxarmadıqda o, «miblason» (مِبْلَاسٌ) olar (٢). İbn Əhmərin sözünə gəldikdə: Ey şübhəli bələsin qızı, dön, çünki kiçik böyüyür və sınıq birləşdirilir. Deyilir ki, «bələs» — heyrətindən donub qalan deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:33:37.148Z"
+}

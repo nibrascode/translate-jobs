@@ -1,0 +1,17 @@
+{
+ "i": 2570,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طرب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 454,
+  "page_to": 454
+ },
+ "ar": "الطاء والراء والباء أصَيلٌ صحيح. يقولون: إنَّ الطَّرَب خِفّة تُصِيب الرَّجلَ من شدةِ سرورٍ أو غيره. ويُنشدون:\nوقالوا قد طِربْتَ فقلتُ كلاَّ … وهل يبكى من الطَّرَب الجليدُ\nوقال نابغة بنى جعدة:\nوأُرانى طَرِباً فى إثرهِمْ … طرَبَ الوالهِ أو كالمُخْتَبَلْ (١)\nقالوا: وطرَّب فى صوته، إذا مدَّه. وهو من الأوّل. والكريم طَروبٌ ومما شذَّ عن هذا الباب المَطَارِب، وهى طرقٌ ضيِّقة متفرِّقة. وأراها (٢) من باب الإبدال، كأنّها مدارب، مشتقة من الدَّرْب.\nوأمّا قولهم فى الطُّرْطُبّ، إنَّه الثَّدى المسترخِى، وكذلك الطَّرْطَبَة: صوت الحالب بالمِعزَى، فكلُّه وما أشبهه كلام.",
+ "az": "[طرب] Ta, ra və ba hərfləri səhih bir kökdür. Deyirlər ki, «الطَّرَب» (tərəb) – şiddətli sevgidən və ya başqa səbəbdən insana gələn yüngülhərevlik halıdır. Beyt oxuyurlar: وقالوا قد طِربْتَ فقلتُ كلاَّ … وهل يبكى من الطَّرَب الجليدُ (Dedilər: sən tərəbləndin (şadlandın), dedim: xeyr... Məgər səbirli adam tərəbdən ağlayarmı?). Nəbighə ibn Cədədən demişdir: وأُرانى طَرِباً فى إثرهِمْ … طرَبَ الوالهِ أو كالمُخْتَبَلْ (Görürəm ki, mən onların ardınca tərəblənmişəm... ağılsız və ya sərxoş adamın tərəbi kimi). Dedilər: «طرَّب فى صوته» (səsini uzatdı), o da birincidəndir. Kərim (səxavətli) insan «طَروب» (tərəbli, şadlanan) olur. Bu fəsildən kənara çıxan «المَطَارِب»dir, o da dar və dağınıq yollardır. Mən hesab edirəm ki, o, əvəzlənmə fəslindəndir, sanki «مدارب» (medarib) sözündəndir, «الدَّرْب» (dərb) sözündən törəmişdir. Amma onların «الطُّرْطُبّ» haqqında dediklərinə gəldikdə, o, sallanan döşdür, həmçinin «الطَّرْطَبَة» – sağıcının keçi sağarkən çıxardığı səsdir; bunların hamısı və bənzərləri söz-söhbətdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:13:33.432Z"
+}

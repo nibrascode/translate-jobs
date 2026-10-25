@@ -1,0 +1,17 @@
+{
+ "i": 1982,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سبق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 129,
+  "page_to": 129
+ },
+ "ar": "السين والباء والقاف أصل واحد صحيح يدل على التقديم.\nيقال سَبَقَ يَسْبِق سَبْقاً. فأما السَّبَق فهو الخَطَر الذى يأخذه السَّابق.",
+ "az": "«سبق» (sin, ba, qaf). Ötüb keçməyə dəlalət edən səhih bir tək əsldir. «Ötdü, ötür, ötmək» mənasında «سَبَقَ يَسْبِق سَبْقاً» (səbəqə yəsbiqu səbqən) deyilir. «السَّبَق» (əs-səbəq) isə yarışda qalibin aldığı mükafatdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:48:11.742Z"
+}

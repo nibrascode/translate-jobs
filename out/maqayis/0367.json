@@ -1,0 +1,17 @@
+{
+ "i": 367,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بحتر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 329,
+  "page_to": 329
+ },
+ "ar": "ومن ذلك (بُحْتُرٌ) وهو القصير المجتمِع الخَلْق. فهذا منحوتٌ من كلمتين، من الباء والتاء والراء، وهو من بترتُه فبُتِر، كأنّه حُرِم الطُّولَ فبُتِر خَلْقه.\nوالكلمة الثانية الحاء والتاء والراء، هو من حَتَرتُ وأَحْتَرت، وذلك أنْ لا تُفْضِلَ على أحدٍ. يقال أَحْتَرَ على نَفْسِه [وعِياله] أى ضيِّق عليهم. فقد صار هذا المعنى فى القصير لأنّه لم يُعْطَ ما أُعْطِيَه الطَّويلُ.",
+ "az": "[بحتر] (Bə-ha-tə-ra) Buradan «بُحْتُرٌ» (buhtur) kəlməsi gəlir ki, bu da qısa boylu, bədən quruluşu yığcam olan deməkdir. Bu, iki kəlmədən nəht edilmişdir: «ب» (bə), «ت» (tə) və «ر» (ra) hərflərindən, bu da «بترتُه» (bətərtuhu - onu kəsdim) kəlməsindəndir, sanki boyu kəsildiyi üçün bədən quruluşu da kəsik (qısa) olmuşdur. İkinci kəlmə «ح» (ha), «ت» (tə) və «ر» (ra) hərfləridir, bu da «حَتَرتُ» (hətərtu) və «أَحْتَرْتُ» (əhtərtu) kəlməsindəndir, yəni heç kəsə üstünlük verməmək. Deyilir ki, «أَحْتَرَ على نَفْسِه» (əhtərə alə nəfsihi - özünə və ailəsinə qarşı xəsislik etdi, yəni onları sıxdı). Bu məna qısa boylu üçün də keçərlidir, çünki ona uzun boyluya verilən (boy) verilməmişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.769Z"
+}

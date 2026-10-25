@@ -1,0 +1,17 @@
+{
+ "i": 1686,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 497,
+  "page_to": 498
+ },
+ "ar": "الراء والحاء واللام أصلٌ واحدٌ يدلُّ على مُضىٍّ فى سفَر.\nيقال: رَحَل يَرْحَل رِحْلَة. وجملٌ رحِيل: ذو رِحْلة (١)، إذا كان قويًّا على الرِّحلة. والرِّحلة: الارتحال. فأمّا الرَّحْل فى قولك: هذا رَحْلُ الرّجلِ، لِمَنزِلهِ ومأواهُ، فهو من هذا، لأنّ ذلك إنّما يقال فى السَّفَر لأسبابه التى إذا سافر كانت معه، يرتحل بها وإليها عند النزول. هذا هو الأصل، ثمَّ قيل لمأوَى الرّجل فى حَضَرِه هو رحْلُه. فأمّا قولهم لِما ابيضَّ ظَهرُه من الدوابّ: أرحَلُ، فهو من هذا أيضاً؛ لأنّه يُشبَّه بالدابة التى على ظهرها رِحالة. والرِّحالة: السَّرج. ويقال فى الاستعارة إن فلاناً يَرْحَلُ فُلاناً بما يكره (٢). والمُرَحَّل: ضَربٌ من بُرود اليمن؛ وتكون عليه صُوَرُ الرِّحال. ويقال أرْحَلَت الإبلُ: سَمِنت بعد هُزالٍ فأطاقَت الرِّحْلة.\nوالرِّحال: الطّنَافس الحِيرِيّة. قال:\n* نَشَرَتْ عليه بُرودَها ورِحالَها (٣) *\nوالرَّاحلة: المَرْكَب من الإبل، ذكراً كان أو أنثى. ويقال رَاحَلَ فلانٌ فلاناً إذا عاوَنَه على رِحْلته. ورَحَّله، إذا أظْعَنَه مِنْ مكانه. وأرْحَلَه: أعطاه\nراحِلة. ورجل مُرْحِل: كثير الرّواحِل. ويقولون فى القَذْف: «يا ابنَ مُلْقَى أرحُلِ الرُّكْبان»، يشيرون به إلى أمْرٍ قبيح.",
+ "az": "[رحل] (rəhəl): راء، حاء və lam hərfləri səfərdə irəliləməyə dəlalət edən tək bir əsas kökdür.\nDeyilir: رَحَل yَرْحَل رِحْلَة (səfər etdi, səfər edir, səfər). جملٌ رحِيل (rəhil dəvə): səfərə gücü çatan, səfəri sevən dəvə. الرِّحْلَة (ir-rihlə) – səfərə çıxmaq. İnsanın məskəni və yurdu mənasında işlənən الرَّحْل (ur-rəhl) sözünə gəldikdə isə, bu da bundandır, çünki bu söz yalnız səfərdə özü ilə götürdüyü, düşərkən yanına və ya özünə tərəf köçdüyü səbəblər üçün işlədilir. Bu, əsl mənadır, sonra isə insanın öz diyarındakı məskəninə də rəhl [ur-rəhl] deyildi. Minik heyvanlarının belinin ağarmış yerinə أرحَلُ (ərhəl) deyilməsi də bundandır; çünki o, belində səhərgahı olan minik heyvanına bənzədilir. الرِّحالة (ir-ricalə) – yəhər. Məcazi mənada deyilir ki, filankəs başqasına xoşuna gəlməyən şeylərlə səfər edir [yəni hücum çəkir] (٢). المُرَحَّل (mürəhhəl) – Yəmən bürdələrinin bir növüdür; üzərində səhərgahların [rəhal] şəkilləri olur. Deyilir: أرْحَلَت İbərlər arıqladıqdan sonra kökəldi və səfərə gücü çatdı.\nالرِّحال (ir-rihal) – Hiri [Hirə şəhərinə aid] döşəklərdir. Şair demişdir:\n* نَشَرَتْ عليه بُرودَها ورِحالَها (٣) *\n(Üzərinə bürdələrini və döşəklərini sərdi).\nالرَّاحلة (ur-rahilə) – istər erkək, istərsə də dişi olsun, minik dəvəsidir. Deyilir: رَاحَلَ فلانٌ فلاناً (filankəs səfərində başqasına kömək etdi). رَحَّله (rəhhələ) – onu yerindən köçürdü. وأرْحَلَه (ərhələhü) – ona minik dəvəsi verdi. رجل مُرْحِل (mürhil kişi) – minik dəvələri çox olan. Söyüş söyərkən deyirlər: «يا ابنَ مُلْقَى أرحُلِ الرُّكْبان» (Ey karvanların səhərgahlarının atıldığı uşaq), bununla pis bir işə işarə edirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:36:40.587Z"
+}

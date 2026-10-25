@@ -1,0 +1,17 @@
+{
+ "i": 472,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "توع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 358,
+  "page_to": 359
+ },
+ "ar": "التاء والواو والعين كلمةٌ واحدة. قال أبو عبيدٍ عن أبى زيد:\nأتاع الرّجُل إتاعةً، إذا قاءَ. ومنه قول القُطَامىّ:\n* تمجُّ عُرُوقُها عَلقاً مُتَاعَا (٤) *\nوذكر الخليل كلمةً غيرَها أصحَّ منها. قال: التَّوْعُ كَسْرُكَ لِبَأً أو سَمْناً بِكسْرةِ خُبزٍ تَرفَعُه بها.",
+ "az": "[توع] (t-v-ayin): Ta, vaf və əyn hərfləri tək bir kəlmədir. Əbu Übeyd Əbu Zeyddən rəvayət edərək demişdir: أَتَاعَ الرَّجُلُ إِتَاعَةً (ataə ər-racülu itaətən) – kişi qustuğu zaman. Qutaminin bu sözü də bundandır: * تَمُجُّ عُرُوقُها عَلَقاً مُتَاعَا (٤) * (Damarları qusulan qatı qanı püskürür). Xəlil bundan başqa, ondan daha səhih olan bir kəlmə də zikr etmişdir. O demişdir: التَّوْعُ (ət-tövc) – südün qatığını və ya yağı çörək qırıntısı ilə qırıb onu qaldırmağındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.836Z"
+}

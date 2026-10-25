@@ -1,0 +1,17 @@
+{
+ "i": 1865,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سعد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 75,
+  "page_to": 75
+ },
+ "ar": "السين والعين والدال أصلٌ يدل على خير وسرور، خلاف النَّحْس. فالسَّعْد: اليُمْن فى الأمر. والسَّعْدان: نبات من أفضل المرعى.\nيقولون فى أمثالهم: «مرعى ولا كالسَّعدان». وسعود النجم عشرة (١): مثل سعد بُلَعَ، وسعد الذابح. وسمِّيت سُعوداً ليُمنها. هذا هو الأصل، ثم قالوا لساعد الإنسان ساعد، لأنه يتقوّى به على أموره. ولهذا يقال ساعده على أمره، إذا عاونَه، كأنه ضم ساعده إلى ساعِده. وقال بعضهم: المساعدة المعاونة فى كل شئ، والإسعاد لا يكون إلاّ فى البكاء. فأما السَّعْدانة، الّتى هى كِركِرة البعير، فإنما سمِّيت بذلك تشبيهاً لها فى انبساطها على الأرض بالسَّعْدان الذى ينبسط على الأرض فى منبِته (٢). والسَّعْدانة عقدة الشِّسْع (٣) التى تلى الأرض. والسَّعْدانات: العقَد التى تكون فى كِفّة الميزان. وسُعْد: موضع. قال جرير:\nألَا حَىِّ الدِّيار بسُعْد إنِّى … أحبُّ لحبِّ فاطمةَ الدِّيارا (٤)\nويقال إنَّ السَّعدانة: الحمامة الأنْثي، وهو مشتقٌّ من السَّعْد.",
+ "az": "[سعد] السين والعين والدال — sin, ayn və dal hərfləri uğursuzluğun əksi olaraq xeyir və sevincə dəlalət edən bir əsasdır. فَالسَّعْد (əssəd) — işdə uğur, xeyir-bərəkət. والسَّعْدان (əssədan) — ən yaxşı otlaqlardan biri.\nMəsəllərində deyirlər: «مرعى ولا كالسَّعدان» («Otlaq var, lakin sədan kimi deyil»). Ulduzun səudları (سعود النجم) onda fondur (١): سعد بُلَعَ (Səd Bulə - Bula ulduzu) və سعد الذابح (Səd əz-Zabih) kimi. Onlara uğurlu olduqları üçün سُعود (səud - uğurlar) adı verilmişdir. Bu, əsl mənadır, sonra insanın qoluna ساعد (said - qol) demişlər, çünki o, işlərində onunla güc alır. Buna görə də ساعده على أمره (səidəhu alə əmrih) – ona işində yardım etdi, deyilir, sanki o, öz qolunu onun qoluna birləşdirmişdir. Bəziləri demişdir: Məsəid (yardımlaşma) hər şeydə kömək etməkdir, İsəd (isad) isə yalnız ağlamada olur. Sədanəyə (السَّعْدانة) gəldikdə, o, dəvənin döş qəfəsindəki sümükdür (qəlibidir), o, yer üzünə sərilməsində bitdiyi yerdə yerə yayılan sədan bitkisinə bənzədildiyi üçün belə adlandırılmışdır (٢). Sədanə — ayaqqabının yerə yaxın olan bağcığının düyünüdür (٣). والسَّعْدانات (əssədانات) — tərəzi gözündə olan düyünlərdir. وسُعْد (Sü-d) — bir yerin adıdır. Cərir demişdir:\nألَا حَىِّ الدِّيار بسُعْد إنِّى … أحبُّ لحبِّ فاطمةَ الدِّيارا (٤)\nDeyirlər ki, sədanə — dişi göyərçindir və bu, səsdən törəmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:43:29.965Z"
+}

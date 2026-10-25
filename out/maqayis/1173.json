@@ -1,0 +1,17 @@
+{
+ "i": 1173,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خيم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 236,
+  "page_to": 237
+ },
+ "ar": "الخاء والياء والميم أصلٌ واحد يدلُّ على الإقامة والثَّبات فالخَيْمة معروفة؛ والخَيْم: عيدانٌ تُبنَى عليها الخَيْمة. قال:\n* فلم يَبْقَ إلاّ آلُ خيْمٍ مُنَضَّدٍ (٦) *\nويقال خَيَّمَ بالمكان: أقامَ به. ولذلك سمَّيت الخَيْمة. والخِيم: السجِيَّة، بكسر الخاء، لأنّ الإنسانَ يُبنَى عليها ويكون مرجعُه أبداً إليها.\nومن الباب قولُهم للجبان خَائِم، لأنَّه من جُبْنِه لا حَرَاك به. ويقال قد خَامَ يَخِيمُ. فأمّا قولُه:\nرَأَوْا فَتْرَةً بالسَّاقِ مِنِّى فحاوَلُوا … جُبُورِىَ لما أنْ رأَوْنِى أَخِيمُهَا (١)\nفإنّه أرادَ رَفْعها، فكأنّه شبّهها بالخَيْم، وهى عِيدانُ الخَيْمة.\nفأمّا الألف التى تجئ بعد الخاء فى هذا الباب، فإنّها لا تخلو من أن تكون من ذوات الواو [أو] من [ذوات] الياء. فالخَال الذى بالوجه هو من التلوُّن الذى ذكرناه. يقال منه رجل مَخِيلٌ ومخُول. وتصغير الخَالُ خُيَيْلٌ فيمن قال مَخِيل، وخُوَيْلٌ فيمن قال مَخُول. وأمّا خَالُ الرَّجُل أخو أُمِّه فهو من قولك خَائل مالٍ، إذا كان يتعهَّدُه. وخالُ الجيش: لواؤه، وهو إمّا من تغيُّرِ الألوان، وإمّا أن الجيشَ يُراعونَه وينظُرون إليه كالذى يتعهَّد الشئ. والخال:\nالجبل الأسود فيما يقال، فهو من باب الإِبدال.",
+ "az": "[خيم] الخاء والياء والميم ( x, y, m ) — iqamətə və sabitliyə dəlalət edən tək bir əsasdır. «الخَيْمة» (çadır) məlumdur; «الخَيْم» isə üzərində çadır qurulan ağac çubuqlardır. [Şair] demişdir: Səliqə ilə düzülmüş çadır ağaclarının ailəsindən başqa heç nə qalmadı (٦). Deyilir: «خَيَّمَ بالمكان» — o yerdə qaldı. Çadır məhz buna görə «خَيْمة» adlandırılmışdır. «الخِيم» — xəstəlik, xasiyyətdir (xa kəsrəsi ilə), çünki insan onun üzərində bina olunur və hər zaman ona qayıdır. Bu babdandır onların qorxaq insana «خَائِم» demələri, çünki o qorxaqlığından heç tərpənmir. Deyilir ki, «خَامَ يَخِيمُ». Onun bu sözünə gəlincə: Mənim ساق (baldırım) tərəfimdə süstlük gördülər, ona görə də mənə tərəf gələndə məni onu düzəltməyə çalışdılar (١). O, bunu qaldırmağı qəsd etmişdi, sanki onu çadır ağacları olan «الخَيْم»ə bənzətmişdir. Xadan sonra gələn əlifə gəlincə, o, ya «واو» köklü, ya da «ياء» köklü olur. Üzərdəki «الخال» (xal) zikr etdiyimiz rəng dəyişkənliyindən ibarətdir. Ondan «رجل مَخِيلٌ» və «مخُول» düzəlir. «مَخِيل» deyənə görə «الخَال»ün kiçiltmə forması «خُيَيْل»dir, «مخُول» deyənə görə isə «خُوَيْل»dir. İnsanın dayısı olan «خال» isə malın qayğısına qalan mənasındakı «خَائل مالٍ» sözündəndir. Ordunun bayrağı olan «خال الجيش» isə ya rənglərin dəyişməsindən irəli gəlir, ya da ordunun məhz hər şeyi qoruyan kimi ona baxıb nəzarət etməsindən irəli gəlir. Deyilənə görə «الخال» — qara dağdır, bu da əvəzetmə babındandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:13:52.484Z"
+}

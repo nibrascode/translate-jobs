@@ -1,0 +1,17 @@
+{
+ "i": 482,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تيه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 361,
+  "page_to": 361
+ },
+ "ar": "التاء والياء والهاء، كلمة صحيحة، وهى جِنسٌ من الحَيْرَة. والتِّيه والتّيهاء: المفازة يَتيه فيها الإنْسان.\nباب التاء والهمزة وما يثلثهما (٣)",
+ "az": "[تيه] (t-y-h): Ta, ya və hə hərfləri səhih bir kəlmədir, o da bir növ heyranlıqdır. التِّيهُ (ət-tih) və التِّيَهَاءُ (ət-tiyəh) – insanın içində azıb qaldığı səhradır. Ta və həmzə hərflərinin babı və onların üçlüyü (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}

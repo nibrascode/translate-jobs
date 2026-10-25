@@ -1,0 +1,17 @@
+{
+ "i": 1211,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ده",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 261,
+  "page_to": 262
+ },
+ "ar": "الدال والهاء ليس أصلاً يُقاس عليه ولا يُفرَّع منه، وإنّما يجئ فى قولهم تَدَهْدَهَ الشئُ، إذا تدحرَج؛ فكأنَ الدَّهْدَهَةُ الصَّوتُ التى يكون منه هناك. وقد قلنا إنَّ الأصواتَ لا يُقاس عليها.\nويقولون. ما أدرِى أىُّ الدَّهْدَاءِ (٤) هو، أيْ أىُّ الناس هو؟ والدَّهْدَاه:\nالصّغار من الإبل. ويقال الدَّهْدَهانُ: الكثيرُ من الإبل.\nوممّا يدلُّ على ما قُلناه أنّ هذا ليس أصلاً، قول الخليل فى كتابه:\nوأمّا قول رؤبة:\n* وقُوَّلٌ إلاّدَهٍ فَلَادَهِ (١) *\nفإنّه يقال إنّها فارسية، حَكَى قولَ دايَتِه (٢). والذى قاله الخليل فعلى ما تراه، بعد قوله فى أول الباب: دَهٍ كلمةٌ كانت العرب تتكلّم بها، إذا رأى أحدُهم ثَأرَه يقول له «يا فلانُ إلاّدَهٍ فلا * دَهٍ»، أى إنّك إنْ لم تَثْأَرْ به الآن لم تثأَرْ به أبداً وفى نحو ذلك من الأمر. وهذا كله مما يدلُّ على ما قلناه.",
+ "az": "[ده] (Də və hə) üzərində ölçü aparılan və ya budaqlanan bir əsas deyil, o ancaq onların «tədəhdəhə əş-şeyu» (تَدَهْدَهَ الشئُ) – yuvarlandığı zaman dediyi sözlərdə gəlir; sanki dəhdəhə orada baş verən səisdir. Biz dedik ki, səslər üzərində ölçü aparılmır. Deyirlər: Mə ədri ayyu əl-dəhdai huvə (ما أدرِى أُّ الدَّهْدَاءِ هو), yəni o hansı insandır? əl-Dəhdah (الدَّهْدَاه) – dəvə balaları. Deyilir ki, əl-dəhdəhan (الدَّهْدَهانُ) – çoxlu dəvələr. Bunun əsas olmadığını dediyimizə dəlalət edən şeylərdən biri də Xəlil öz kitabında dediyidir: Rübənin bu sözünə gəldikdə: * وقُوَّلٌ إلاّدَهٍ فَلَادَهِ (1) * deyilir ki, bu fars dilindədir, dayəsinin dediyini rəvayət etmişdir. Xəlilin dediyi isə gördüyün kimidir, بابın əvvəlində dediyindən sonra: Dəh (دَهٍ) ərəblərin danışdığı bir söz idi, onlardan biri öz qisasını gördükdə deyərdi: «Ya fəlanu illadəhi fəla dəhi» (يا فلانُ إلاّدَهٍ فلا * دَهٍ), yəni əgər sən indi onun qisasını almasan, əsla ala bilməzsən və bu kimi işlərdə. Bütün bunlar dediyimizə dəlalət edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:14:59.920Z"
+}

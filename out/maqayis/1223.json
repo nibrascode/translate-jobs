@@ -1,0 +1,17 @@
+{
+ "i": 1223,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "درق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 269,
+  "page_to": 269
+ },
+ "ar": "الدال والراء والقاف ليس هو عندى أصلاً يُقاس عليه.\nلكن الدَّرَقَة معروفة، والجمع دَرَق وأدْراق. قال رؤبة:\n* لو صَفَّ أدْرَاقاً مَضَى من الدّرَقْ (٢) *\nوالدَّرْدَق: صِغار الإبل، وأطفالُ الوِلْدان.",
+ "az": "[درق] الدال والراء والقاف (dal, ra və qaf hərfləri) mənim yanımda qiyas edilən bir əsas deyildir.\nLakin الدَّرَقَة (əd-dərağə – dəri qalxan) məlumdur, cəmi دَرَق (daraq) və أدْراق (ədraq) gəlir. Rübə demişdir:\n* لو صَفَّ أدْرَاقاً مَضَى من الدّرَقْ (٢) *\n(Əgər dəri qalxanları səssəydi, qalxanlardan keçib gedərdi)\n\nVə الدَّرْدَق (əd-dərdəq) – kiçik dəvələr və körpə uşaqlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:15:22.589Z"
+}

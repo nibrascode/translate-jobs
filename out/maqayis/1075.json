@@ -1,0 +1,17 @@
+{
+ "i": 1075,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خزب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 179,
+  "page_to": 179
+ },
+ "ar": "الخاء والزاء والباء يدلُّ على وَرَم ونتُوّ فى الّلحم. يقال خَزِبَت الناقةُ خَزَباً، وذلك إذا وَرِم ضَرْعُها. والأصل قولهم لحمٌ خزِبٌ:\nرَخْصٌ. وكلُّ لحمةٍ رَخْصَةٍ خَزِبَة.",
+ "az": "[خزب] (خ, ز, ب): Ətdə şişməyə və qabarmaya dəlalət edir. خَزِبَتِ النَّاقَةُ خَزَباً (xəzibəti əd-naqətu xəzəbən) - dəvənin yeli şişdiyi zaman deyilir. Əsli onların لحمٌ خزِبٌ (ləhmun xəzibun) - yumşaq ət sözüdür. Hər yumşaq ət خَزِبَة (xəzibə) - şişkin/yumşaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:09:01.279Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 1026,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 152,
+  "page_to": 153
+ },
+ "ar": "الخاء والصاد أصلٌ مطّرد منقاس، وهو يدلُّ على الفُرْجة والثّلمة. فالخَصَاص الفُرَج بين الأثافىّ. ويقال للقمر: بدا من خَصَاصة السّحاب.\nقال ذو الرُّمّة:\nأصَابَ خَصَاصَهُ فبَدَا كليلاً … كَلَا وانغلَّ سائِرُه انغِلالا (١)\nوالخَصَاصة: الإملاق. والثُّلْمة فى الحال.\nومن الباب خَصَصْت فلاناً بشئٍ خَصُوصِيَّةً، بفتح الخاء (٢)، وهو القياس لأنّه * إذا أُفرِد واحدٌ فقد أوقَع فُرْجَةً بينه وبين غيره، والعموم بخلاف ذلك والخِصِّيصى: الخَصوصية.",
+ "az": "«خص» (xa-sad): Xa və sad mütərrəd, qıyaslı bir əsl olub, boşluğa və yarığa dəlalət edir. الخَصَاص (əl-xəsas) — üç daş (ocaq daşları) arasındakı boşluqlardır. Aya deyilir: بدا من خَصَاصة السّحاب (bəda min xəsasətis-səhab) — buludun boşluğundan göründü.\n\nZüəl-Rummə demişdir:\nأصَابَ خَصَاصَهُ فبَدَا كليلاً … كَلَا وانغلَّ سائِرُه انغِلالا (١)\n(Onun boşluğuna dəydi, sonra zəif göründü, qalanı isə tamamilə sarınıb örtüldü.)\n\nVə الخَصَاصة (əl-xəsasə) — yoxsulluq, ehtiyacdır. Və halda olan yarıqdır.\n\nVə bu fəsildəndir: خَصَصْت فلاناً بشئٍ خَصُوصِيَّةً (xaсaştü fülənən bi-şeyin xususiyyətən), xa hərfinin fəthəsi ilə (2), və bu qiyasdır; çünki bir kəs xüsusilə ayrıldıqda, onunla başqaları arasında bir boşluq əmələ gətirmiş olur, ümumilik isə bunun əksidir. Və الخِصِّيصى (əl-xi-sisi) — xüsusilik deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:06:36.723Z"
+}

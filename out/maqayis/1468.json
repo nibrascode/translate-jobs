@@ -1,0 +1,17 @@
+{
+ "i": 1468,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "رسع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 391,
+  "page_to": 391
+ },
+ "ar": "الراء والسين والعين أصلٌ يدلُّ على فَسادٍ. يقولون الرَّسَعُ: فَساد العَين. يقال رسَّعَ الرّجلُ فهو مُرَسِّع. ويقال رسَّعَتْ أعضاؤُه، إذا فَسَدَتْ.",
+ "az": "[رسع] (Rə, sin və ayn) fəsada (pozulmaya) dəlalət edən bir əsasdır. Deyirlər: ər-rasə — gözün xəstələnməsi/pozulması. Deyilir: rəssəbər-ricülü, fehüvə mürəssic. Həmçinin deyilir ki, rəssəbət ə’dauhu — onun üzvləri zəiflədi/pozuldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:28:45.682Z"
+}

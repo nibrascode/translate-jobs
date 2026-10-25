@@ -1,0 +1,17 @@
+{
+ "i": 1799,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "زون",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 38,
+  "page_to": 39
+ },
+ "ar": "الزاء والواو والنون ليس هو عندى أصلاً على أنّهم يقولون: الزَّون: الصّنَم. ومرّة يقولون: الزَّوْن بيت الأصنام. وربما قالوا (٤) زانَه يَزُونه بمعنى يَزِينه (٥).\nومن الباب الزِّوَنَّة: القصيرة من النِّساء. والرجل زِوَنّ. وربما قالوا: الزَّوَنْزَى:\nالقصير. وكله كلام.",
+ "az": "[زون] (zun). الزاء (ز) və الواو (و) və النون (ن) mənim yanımda əsl deyildir, lakin onlar deyirlər ki: الزَّون (zun) — büt deməkdir. Bəzən deyirlər ki, الزَّوْن — bütlər evi, məbəddir. Bəzən də (4) زانَه يَزُونه (bəzədi) felini يَزِine mənasında işlədirlər (5). Bu fəsildəndir: الزِّوَنَّة (zivənnə) — qadınlardan qısa boylu olanı. Və kişi üçün زِوَنّ (zivənn) deyilir. Bəzən də الزَّوَنْزَى (zəvənza) — qısa boylu, deyirlər. Bunların hamısı sadəcə danışıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:40:03.435Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 885,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حصد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 71,
+  "page_to": 71
+ },
+ "ar": "الحاء والصاد والدال أصلان: [أحدهما] قطْع الشئ، والآخر إحكامه. وهما متفاوتان.\nفالأول حصدتُ الزّرعَ وغيرَه حَصْدا. وهذا زمَنُ الحَصاد والحِصاد.\nو\nفى الحديث: «وهَلْ يكُبُّ الناسَ على مَناخِرِهم فى النار إلا حصائدُ ألسنتهم».\nفإن الحصائد جمع حَصِيدة، وهو كلُّ شئٍ قيل فى الناس باللِّسان وقُطِع به عليهم.\nويقال حَصَدْتُ واحتصَدْت، والرجل محتصِد. قال:\nإنما نحنُ مِثلُ خامةِ زَرْعٍ … فمتى بَأْنِ يَأْتِ محتصِدْ (٢)\nوالأصل الآخَر قولهم حَبْلٌ مُحْصَدٌ، أى مُمَرٌّ مفتول.\nومن الباب شجرةٌ حَصْداء، أى كثيرة الورق؛ ودِرْع حصداء: مُحْكمَة؛ واستحصدَ القومُ، إذا اجتَمَعوا.",
+ "az": "[حصد] (Hə, sad və dal) iki əsasdır: [biri] bir şeyi kəsmək, digəri isə onu möhkəmlətməkdir. Bunlar bir-indən fərqlidir.\nBirincisi: «حصدتُ الزّرعَ وغيرَه حَصْدا» (Əkini və başqa şeyi biçdim – həsda). Və bu, biçin vaxtıdır: الحَصاد və الحِصاد.\nHədisdə demişdir: «وهَلْ يكُبُّ الناسَ على مَناخِرِهم فى النار إلا حصائدُ ألسنتهم» (İnsanları burnۇüstə oda sərilməyə qoyan ancaq dillərinin biçdikləridir).\nÇünki الحصائد (həsaid) – حَصِيدة (həsidə) sözünün cəmimidir, bu da insanlar haqqında dillə deyilən və onlar əleyhinə kəsilən (hökm olunan) hər bir şeydir.\n«حَصَدْتُ واحتصَدْت» (Biçdim və biçib yığdım) deyilir, kişi isə محتصِد (məhtəsid) olar. Şair demişdir:\nإنما نحنُ مِثلُ خامةِ زَرْعٍ … فمتى بَأْنِ يَأْتِ محتصِدْ (٢)\n(Biz ancaq əkin çubuğu kimiyik, nə zaman vaxtı gəlsə, biçən gələr).\nDigər əsas isə onların «حَبْلٌ مُحْصَدٌ» (mühəsd kəndir) sözüdür, yəni bərkidilmiş, hörülmüş kəndir.\nBu fəsildəndir: şücəratün حَصْداء (həsda ağac) – yarpağı çox olan ağac; dircun həsda – möhkəm zireh; «استحصد القوم» (qövm möhkəmləndi) – birləşdilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:58:29.377Z"
+}

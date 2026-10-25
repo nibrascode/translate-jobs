@@ -1,0 +1,17 @@
+{
+ "i": 2083,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "شغب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 196,
+  "page_to": 196
+ },
+ "ar": "الشين والغين والباء أصلٌ صحيح يدل على تهييج الشر، لا يكون فى خير. قال الخليل: الشَّغْبَ: تهييج الشرّ، يقال للأتان إذا وَحِمَتْ (١) واستعصَتْ على الجَأْب: إنّها لذات شَغْب وضِغْن. قال أبو عبيد: يقال شَغَبْت على القوم وشغَبْتُهم وشغَبْتُ بهم.",
+ "az": "[شغب] (şəğəb) — Şin, ğayn və ba — şərri qızışdırmağa dəlalət edən səhih bir kökdür, xeyirdə olmur. Xəlil dedi: «الشَّغْب» (əş-şəğb) — şərri qızışdırmaqdır, dişi ulağa həkim (və ya iştahla hamilə) olduğu (١) və erkək ulağa tabe olmadıqda deyilir: «إنّها لذات شَğْب وضِğْن» (şübhəsiz o, şər və kin sahibidir). Əbu Übeyd demişdir: «شَğَبْتُ على القوم» (qövmə qarşı şər qızışdırdım), «وشغَبْتُهم» (və onları qızışdırdım) və «وشغَبْتُ بهم» (və onlar vasitəsilə qızışdırdım) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:51:46.481Z"
+}

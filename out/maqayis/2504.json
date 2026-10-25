@@ -1,0 +1,17 @@
+{
+ "i": 2504,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طلس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 418,
+  "page_to": 419
+ },
+ "ar": "الطاء واللام والسين أصل صحيح، كأنَّه يدلُّ على ملاسة.\nيقال لفخِذ البعير إذا تساقط عنه شعره: طِلْس. ومنه طَلسْت الكتابَ (٤)، إذا\nمحوته، كأنّك قد مَلّسته (١). فأمَّا الذِّئب الأطلس فيقولون الأغبر، والقياس يدلُّ على أنَّه الذى قد تمعَّط شعره. فإِنْ كان ما يقولونه صحيحاً فكأنَّه من غُبْرته قد ألبس طيلساناً. والطَّيْلَسان بفتح اللام صحيح (٢)، وفيه يقول الشاعر:\nوليلٍ فيه يُحسَبُ كلّ نجمٍ … بدَالك من خَصَاصة طَيْلسانِ (٣)",
+ "az": "[طلس] الطاء (ta), اللام (lam) və السين (sin) düzgün bir kökdür, sanki hamarlığa dəlalət edir. Dəvənin buduna, əgər tükü tökülübsə, طِلْس (tils) deyilir. Bundan طَلسْت الكتابَ (tələstu-l-kitabə), yəni onu sildin, sanki onu hamarladın (1). الذِّئب الأطلس (əz-zi-bu-l-ətləs) gəldikdə, deyirlər ki, o, boz rənglidir, qiyas göstərir ki, o, tükü tökülmüş olandır. Əgər dedikləri düzdürsə, sanki bozluğundan ona taylasan (bir növ üst geyimi) geyindirilmişdir. الطَّيْلَسان (ət-tayləsan) fəthəli lam ilə düzgündür (2), şair onun haqqında deyir: وليلٍ فيه يُحسَبُ كلّ نجمٍ … بدَالك من خَصَاصة طَيْلسانِ (3) (Və bir gecə ki, onda hər ulduz... taylasan boşluğundan sənə görünür).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T02:09:04.544Z"
+}

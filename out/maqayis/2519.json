@@ -1,0 +1,17 @@
+{
+ "i": 2519,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "طنخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 426,
+  "page_to": 426
+ },
+ "ar": "الطاء والنون والخاء كلمةٌ إن صحت. يقولون طَنِخ، إذا بَشِم، ويقال إذا سَمِن.",
+ "az": "[طنخ] (Tə, nun və xa) əgər səhihdirsə, bir sözdür. Deyirlər: طَنِخ (tənihə) – həddindən artıq yedikdə (mədəsi dolub gəyirmə halları yaşandıqda) və bəziləri kökəldikdə deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:09:52.399Z"
+}

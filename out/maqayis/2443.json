@@ -1,0 +1,17 @@
+{
+ "i": 2443,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضأن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "الضاد والهمزة والنون أُصَيل صحيح، وهو بعض الأنعام.\nمن ذلك الضأن. يقال أضْأنَ الرجلُ، إذا كثُرَ ضأنُه. والضائنة الواحدة من الضأن. وحكى بعضُهم: فلان ضائن البطنِ: مسترخِيهِ.",
+ "az": "«ضأن»: الضاد, الهمزة, والنون (d, həmzə, n) — məvatidən (davar növündən) olan səhih kiçik bir kökdür. Bunlardan biri «الضأن» (qoyunlar) sözüdür. Deyilir: «أضْأنَ الرجلُ» — kişinin qoyunları çoxaldı. «الضائنة» — qoyunlardan tək olan (dişi qoyun). Bəziləri rəvayət etmişdir: filankəsin qarnı sallaqdır («ضائن البطن»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

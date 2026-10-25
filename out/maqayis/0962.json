@@ -1,0 +1,17 @@
+{
+ "i": 962,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "حوث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 114,
+  "page_to": 114
+ },
+ "ar": "الحاء والواو والثاء قِيلٌ غيرُ مطّردٍ ولا متفرّع. يقولون:\nإنّ الحَوْثَاءَ الكبدُ وما يليها. وينشدون:\n* الكِرْشَ والحَوْثاء والمَرِيّا (٢) *\nوجاريةٌ حَوْثاء: سمينة. قال:\n* وهىَ بِكْرٌ غريرةٌ حَوْثاء *\nوتركهم حَوْثاً بَوْثاً. إذا فرَّقَهم. وكل هذا متقاربٌ فى الضّعف والقِلّة.\nويقولون اسْتبَثْتُ الشئَ واستحَثَّته، إذا ضاع فى تراب فطلبتَه.",
+ "az": "[حوث] «الحاء» (ح), «الواو» (و) və «الثاء» (ث) hərfləri ardıcıl və budaqlanan olmayan bir sözdür. Deyirlər ki: «الحَوْثاء» (əl-husa) – qaraciyər və ona bitişik olan hissədir. Onlar şeir söyləyirlər: * الكِرْشَ والحَوْثاء والمَرِيّا (٢) * (Qarınqulu, husanı və qida borusunu). «جاريةٌ حَوْثاء» (kök qız) – ətli qız. Şair demişdir: * وهىَ بِكْرٌ غريرةٌ حَوْثاء * (O, təmiz, sadəlövh və kök bir qızdır). Onların «تركهم حَوْثاً بَوْثاً» (onları pərən-pərən saldılar) sözü – onları dağıtdıqları zaman işlədilir. Bunların hamısı zəiflik və azlıqda bir-birinə yaxındır. Onlar deyirlər: «اسْتبَثْتُ الشئَ واستحَثَّته» (bir şeyi torpaqda itirdim və onu axtardım) – o, torpaqda itib sanki sən onu axtardın.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:04:04.862Z"
+}

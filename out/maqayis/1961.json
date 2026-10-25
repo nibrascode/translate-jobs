@@ -1,0 +1,17 @@
+{
+ "i": 1961,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 119,
+  "page_to": 119
+ },
+ "ar": "السين والواو والسين أصلان: أحدهما فسادٌ فى شئ، والآخر جِبلّة وخليقة. فالأوّل ساس الطّعامُ يَسَاسُ، وأَسَاسَ يُسِيسُ، إذا فسَدَ بشئ يقال له سُوس. وسَاسَت الشّاة تَسَاسُ، إذا كثر قَمْلها. ويقال إنّ السَّوَسَ داءٌ يصيب الخيل فى أعجازها.\nوأمّا الكلمة الأخرى فالسُّوس وهو الطّبع. ويقال: هذا من سُوس فلان، أى طبعه.\nوأمّا قولهم سُسْتُه أسُوسُه فهو محتملٌ أن يكون من هذا، كأنه يدلُّه على الطبع الكريم ويَحمِله عليه.\nوالسِّيساء (١): مُنتَظَم فَقَار الظهر. وماء مَسُوسٌ وكلأٌ مَسُوسٌ (٢)، إذا كان نافعاً فى المال (٣)، وهى الإبل والغنم. واللّه أعلم بالصواب.",
+ "az": "[سوس] Sin, vaf və sin hərfləri iki əsli ehtiva edir: Biri bir şeydə Fəsad/korlanma, digəri isə təbiət və xislətdir. Birincisi: «ساس الطّعامُ يَسَاسُ» və «أَسَاسَ يُسِيسُ» (yediyi şey qurd düşüb xarab oldu), əgər ona qurd (سُوس) düşüb korlandısa. Və «سَاسَت الشّاة تَسَاسُ» (qoyunun qılbitləri çoxaldı). Deyilir ki, «السَّوَس» (səvəs) atların oynaqlarında/arxalarında olan bir xəstəlikdir.\nDigər kəlməyə gəlincə, o da «السُّوس» (təbiət, xasiyyət) deməkdir. Deyilir: «هذا من سُوس فلان» (bu, filankəsin xislətindəndir), yəni təbiətindəndir.\nAmma onların «سُسْتُه أسُوسُه» (mən ona rəhbərlik etdim/idarə etdim) demələrinə gəlincə, bu, ehtimal ki, elə həmin mənadandır; sanki o, bunu ona nəcib təbiətə görə istiqamətləndirir və ona sövq edir.\n«السِّيساء» (sisə): bel fəqərələrinin düzülüşü/sırası (١). «ماء مَسُوسٌ» və «كلأٌ مَسُوسٌ» (2), əgər mal-dövlət (dəvə və qoyunlar) üçün faydalıdırsa (3). Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:28.805Z"
+}

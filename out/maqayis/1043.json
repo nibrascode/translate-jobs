@@ -1,0 +1,17 @@
+{
+ "i": 1043,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "خدل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "2",
+  "page_from": 162,
+  "page_to": 162
+ },
+ "ar": "الخاء والدال واللام أصلٌ واحدٌ يدلُّ على الدِّفَّة واللِّين يقال امرأة خَدْلَةٌ، أى دقيقةُ العِظام وفى لحمها امتلاء، وهى بَيِّنَة الخَدَل والخَدَالة.\nوذُكر عن السِّجستانى عِنَبَة خَدْلةٌ، أى ضَئِيلة (٣).",
+ "az": "«خدل» (خ، د، ل) — dolğunluğa və yumşaqlığa dəlalət edən tək bir əsas prinsipdir. Deyilir: امرأة خَدْلَةٌ (imraətün xadlətün) — yəni sümükləri incə, əti isə dolğun olan qadın, və onda açıq-aydın خَدَل (xədəl) və خَدَالَة (xədələ) vardır. Sicistandan rəvayət olunmuşdur ki, عِنَبَة خَدْلَةٌ (inəbətün xadlətün) — yəni kiçik, xırda üzüm salxımı deməkdir (3).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:07:57.787Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 780,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جلدح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "ومن ذلك قولهم لِلثَّقيل الوَخِم (جَلَنْدَحٌ (٣)). فهذا من الجَلْح (٤) والجَدْع، والنون زائدة. وقد مضى تفسير الكلمتين.",
+ "az": "«جلدح» - Və buraya ağır, zəhmli və pis xasiyyətli adama «جَلَنْدَحٌ» (cələndəh) deyilməsi daxildir. Bu, الجَلْح (əl-cəlh) və الجَدْع (əl-cəd') sözlərindən ibarətdir, nun isə artıqdır (zayiddir). Həmin iki sözün izahı artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:51.218Z"
+}

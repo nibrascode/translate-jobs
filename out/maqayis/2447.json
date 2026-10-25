@@ -1,0 +1,17 @@
+{
+ "i": 2447,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضبر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 386,
+  "page_to": 386
+ },
+ "ar": "الضاد والباء والراء أصلٌ صحيح واحدٌ يدل على جمعٍ وقُوّة.\nيقال ضَبَر الشّئَ: جمَعَه، وضبَر الفرسُ قوائمَه، إذا جمعَها ليَثِب. وفرسٌ ضِبِرٌّ من ذلك. وإِضبارة الكُتُب (١) من ذلك. واشتقاق ضَبَارةَ منه، وهو أبو عامر ابن ضَبَارة. وناقة * مضبَّرةٌ ومضبورةُ الخَلْق، أى شديدة. وقال فى صفة فرس:\nمُضَبَّرٌ خَلْقها تضبيراً … ينشقُّ عن وجهها السَّبيبُ (٢)\nوالضَّبْر: الجماعة. قال الهُذَلىّ:\nضَبْرٌ لباسُهم القَتير مؤلَّبُ (٣)\nوأمّا الرُّمّان الجبلىّ فيقال إنّهم يسمونه الضَّبْر. وقد قلنا إنّ النّباتَ والأماكنَ لا تكاد تنقاس.",
+ "az": "«ضبر»: الضاد, الباء, والراء (d, b, r) — toplamağa və gücə dəlalət edən tək, səhih bir əsldir. Deyilir: «ضَبَر الشّئَ» — şeyi topladı; «ضبَر الفرسُ قوائمَه» — at tullanmaq üçün ayaqlarını yığdı. «فرسٌ ضِبِرٌّ» (güclü at) bundan alınmışdır. «إضبارة الكُتُب» (kitab dəstəsi) də bundandır. «ضَبَارة» sözünün kökü də buradandır, o, Əbu Amir ibn Zabaradır. «ناقة مضبَّرةٌ ومضبورةُ الخَلْق» — yəni bərk, möhkəm dişi dəvə. Atın vəsfində demişdir: مُضَبَّرٌ خَلْقها تضبيراً … ينشقُّ عن وجهها السَّبيبُ (2) (Yaradılışı çox möhkəm edilmişdir... yalları üzündən aralanır). «الضَّبْر» — camaat, dəstə. Hüzəli demişdir: ضَبْرٌ لباسُهم القَتير مؤلَّبُ (3) (Bir dəstə ki, geyimləri dəmir zirehdir, toplanmışlar). Dağ narını «الضَّبْر» adlandırdıqları deyilir. Biz isə artıq demişik ki, bitkilər və məkanlar qaydaya tabe olmurlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:03.920Z"
+}

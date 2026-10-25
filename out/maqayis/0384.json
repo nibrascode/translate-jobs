@@ -1,0 +1,17 @@
+{
+ "i": 384,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "برجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "ومن ذلك (البَرْجَمَةُ) غِلَظُ الكَلام: فالراء زائدةٌ، وإنَّما الأصل البَجْم.",
+ "az": "[برجم] (Bə-ra-cim-mim) Buradan «البَرْجَمَةُ» (əl-bərcəmə) gəlir, yəni sözün kobudluğu. «ر» (ra) hərfi artıqdır, əsli «البَجْم» (əl-bəcm) kəlməsidir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

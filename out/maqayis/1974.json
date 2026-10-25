@@ -1,0 +1,17 @@
+{
+ "i": 1974,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "سبج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 125,
+  "page_to": 125
+ },
+ "ar": "السين والباء والجيم ليس بشئٍ ولا له فى اللغة العربيَّة أصلٌ.\nيقولون السُّبْجة: قميصٌ له جَيب. قالوا: وهو بالفارسية «شَبِى (١)». والسَّبج:\nأيضاً ليس بشئ. وكذلك قولهم إنَّ السَّبَج حجارةُ الفضّة. وفى كل ذلك نظر.",
+ "az": "[سبج] (səbc). السين (sin), والباء (ba) və الجيم (cim) heç bir şey deyildir və ərəb dilində heç bir əsli yoxdur. Onlar deyirlər: السُّبْجة (əssubcət) - yaxası olan köynəkdir. Dedilər ki, bu, fars dilində «şəbi» deməkdir (١). السَّبج (əssəbc) də həmçinin heç bir şey deyildir. Eləcə də onların «əssəbc gümüş daşlarıdır» demələri də belədir. Bütün bunlarda nəzər (araşdırma) tələb olunan məqamlar vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T01:47:50.269Z"
+}

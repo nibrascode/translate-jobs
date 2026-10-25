@@ -1,0 +1,17 @@
+{
+ "i": 2323,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "صوك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 323,
+  "page_to": 323
+ },
+ "ar": "الصاد والواو والكاف كلمةٌ واحدة. يقال: لقيتُه أوَّل صَوْكٍ، أى أوّلَ وَهْلة.",
+ "az": "[صوك] (sad, vav və kaf) tək bir kəlmədir. Deyilir: لقيتُه أوَّل صَوْكٍ (mən onunla ilk sökdə - ilk anda rastlaşdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:02:11.241Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 389,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بلذم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "ومن ذلك (بلذَمَ (٤)) إذا فَرِقَ فسَكَتَ. والباء زائدة، وإنَّما هو من لَذِمَ، إذا لَزِمَ بمكانه فَرِقاً لا يتحرَّك.",
+ "az": "[بلذم] (Bə-lam-zal-mim) Buradan «بلذَمَ» (bəlzəmə) gəlir, yəni qorxub susdu. «ب» (bə) hərfi artıqdır, bu «لَذِمَ» (ləzimə) kəlməsindəndir, yəni qorxudan yerindən tərpənməyərək orada qaldı.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-25T00:37:20.770Z"
+}

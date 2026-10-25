@@ -1,0 +1,17 @@
+{
+ "i": 2457,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 391,
+  "page_to": 391
+ },
+ "ar": "الضاد والجيم والنون، ليس بشئ، إلاّ أنَّهم يقولون:\n[الضَّجَن]: جبلٌ معروف. وقد قلنا فى هذا. وقال الأعشى:\nكخَلْقاءَ مِنْ هَضَبات الضَّجَنْ (١)\nوضَجْنانُ: جبلٌ بتهامة.",
+ "az": "[ضجن] (Dad, cim və nun) əhəmiyyətli bir şey deyil, lakin onlar [الضَّجَن] (ad-dajan) – məlum bir dağdır, demişlər. Biz bu haqda dedik. Əşə salır demişdir: كخَلْقاءَ مِنْ هَضَبات الضَّجَنْ (١) (Dajan dağ silsilələrinin hamar qayası kimi). Və ضَجْنانُ (Dajnan) – Tihamədə bir dağdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:06:29.015Z"
+}

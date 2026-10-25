@@ -1,0 +1,17 @@
+{
+ "i": 2376,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ضم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "3",
+  "page_from": 357,
+  "page_to": 357
+ },
+ "ar": "الضاد والميم أصلٌ واحد يدلُّ على مُلاءَمةٍ بين شيئين. يقال ضَمَمت الشّئ إلى الشئ فأنا أضُمُّه ضمًّا. وهذه إضْمامةٌ من خَيل، أى جماعة.\nوفرسٌ سَبّاق الأضاميم، أى الجماعات. وإضمامةٌ من كُتُب مثل إضْبارة.\nومن الباب: أسد ضَمْضَم وضُماضِمٌ: يضمُّ كلَّ شئ.",
+ "az": "[ضم] (ض، م) — İki şey arasında uyğunluğa dəlalət edən tək bir əsasdır. Deyilir: ضَمَمت الشّئ إلى الشئ فأنا أضُمُّه ضمًّا (Mən bir şeyi digərinə birləşdirdim, mən onu birləşdirirəm). Və إضْمامةٌ من خَيل (bir dəstə atlı, yəni camaat). Və فرسٌ سَبّاق الأضاميم (dəstələri qabaqlayan yarış atı). Və إضمامةٌ من كُتُب (bir dəstə kitab) إضبارة (dəstə, paket) kimi.\nBu qapıdandır: أسد ضَمْضَم və ضُماضِمٌ (hər şeyi qoynuna alan, birləşdirən şir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T02:04:02.777Z"
+}

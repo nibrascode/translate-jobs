@@ -1,0 +1,17 @@
+{
+ "i": 359,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "بيض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 326,
+  "page_to": 327
+ },
+ "ar": "الباء والياء والضاد أصلٌ، ومشتقٌّ منه، ومشبَّه بالمشتقّ.\nفالأصل البَيَاض من الألوان. يقال ابيضَّ الشَّئُ. وأمّا المشتقُّ منه فالبَيْضَة للدَّجاجةِ وغيْرِها، والجمع البَيْض، والمشبَّه بذلك بَيْضَة الحديد.\nومن الاستعارة قولهم للعزيز فى مَكَانِه: هو بَيضَة البلَد، أى يُحفَظ ويُحصَّن كما تُحفَظ البَيضة. يقالَ حَمَى بَيْضَة الإسلام والدِّين. فإذا عَبَّرُوا عن الذَّليل المستضعف (٤) بأنّه بَيْضَة البلَد، يريدون أنّه مَتروكٌ مُفرَدٌ كالبيضة المتْروكة بالعَراء. ولذلك تُسمَّى البَيْضَة الترِيكة. وقد فُسِّرتْ فى موضِعِها.\nويقال * باضَت البُهْمَى إذا سَقَطَتْ نِصالُها. وباضَ الحَرُّ اشتَدَّ؛ ويراد بذلك أنَّه تمكَّنَ كأنَّه باضَ وفَرَّخ وتَوَطَّنَ.",
+ "az": "«بيض» (beyd): باء، ya və dad hərfləri tək bir əsas kökdir, ondan törəmələr düzəldilmişdir və törəməyə bənzədilmişdir.\nƏsas kök rənglərdən olan «البَيَاض» (əl-bəyaz - ağlıq) dör. Deyilir: «ابْيَضَّ الشَّىْءُ» (İbyəddaş-şeyu - şey ağardı). Törəməsinə gəldikdə, bu, toyuq və digər quşların yumurtası olan «البَيْضَة» (əl-bəydə) sözüdür, cəmi isə «البَيْض» (əl-bəyd) gəlir. Buna bənzədilən isə dəmir zirehli dəbilqədir («بَيْضَة الْحَدِيد»).\nMəcazi mənalarından biri də onların əziz, mötəbər kimsə haqqında «هُوَ بَيْضَةُ الْبَلَدِ» (O, məmləkətin yumurtasıdır) demələridir, yəni yumurta necə qorunub mühafizə olunursa, o da elə qorunur. Deyilir: «حَمَى بَيْضَةَ الْإِسْلَامِ وَالدِّينِ» (İslamın və dinin mərkəzini/dəbilqəsini qorudu). Zəlil və zəif düşmüş kimsəni «بَيْضَةُ الْبَلَدِ» (məmləkətin yumurtası) adlandırdıqda isə, onlar çöldə tək qoyulmuş yumurta kimi onun tərk edilmiş və tənha olduğunu qəsd edirlər. Məhz buna görə də tərk edilmiş yumurtaya «التَّرِيكَة» (ət-tərikə) deyilir. Bu, öz yerində izah edilmişdir.\nHəmçinin deyilir: «بَاضَتِ الْبَهْمَى» (badiyil-bəhmə) — quşqonmaz bitkisinin qını düşdükdə. «بَاضَ الْحَرُّ» (badəl-hərru) — istilik şiddətləndi; bununla da istinin elə bərkidiyi qəsd edilir ki, sanki yumurtlayıb balalamış və orada məskən salmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:35:28.171Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 721,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "جوظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 495,
+  "page_to": 495
+ },
+ "ar": "الجيم والواو والظاء أصلٌ واحدٌ لنعتٍ قبيح لا يُمْدَح به.\nقال قوم: الجَوَّاظ الكثير اللَّحْمِ المختالُ فى مِشْيته. يقال: جَاظَ يَجُوظُ جَوَظَاناً.\nقال:\n* يعلو به ذا العَضَلِ الجَوَّاظَا (١) *\nويقال: الجوّاظ الأكولُ، ويقال الفاجر.",
+ "az": "[جوظ] — الجيم (Cim), الواو (Vav) və الظاء (Zı) – mədh olunmayan çirkin bir xüsusiyyəti bildirən tək bir əslə qayıdır. Bir qrup demişdir: الجَوَّاظ (əl-Cəvraz/əl-Cəvvat) — əti çox olan, yerişində təkəbbür göstərən kəsdir. Deyilir: جَاظَ يَجُوظُ جَوَظَاناً (Təkəbbürləndi). [Şair] demişdir: * يعلو به ذا العَضَلِ الجَوَّاظَا (١) * (Əzələli, təkəbbürlü kəsi onunla üstələyir). Həmçinin deyilir ki, əl-Cəvvaz çox yeyən kəsdir, həmçinin fasiq mənasında da işlədilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:50:03.100Z"
+}

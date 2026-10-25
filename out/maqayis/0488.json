@@ -1,0 +1,17 @@
+{
+ "i": 488,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "تلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "1",
+  "page_from": 364,
+  "page_to": 364
+ },
+ "ar": "(التَّولب): ولد البقرة. والقياس يوجب أن يكون التاء مبدلة من واو، الواو بعده زائدة، كأنّه فَوْعَلَ من وَلَب إذا رجع. فقياسه قياس التَّبيع. فإنْ ذهَبَ ذاهبٌ إلى هذا الوجه لم يُبْعِدْ.",
+ "az": "[تلب] (t-l-b): (التَّوْلَبُ – ət-töuləb): Vəhşi öküzünün balasıdır. Qiyas tələb edir ki, ta hərfi vaf hərfindən dəyişdirilmiş olsun, ondan sonrakı vaf isə uzadıcıdır, sanki o, geri qayıtdığı zaman vələb (وَلَبَ) feilindən föv‘ələ (فَوْعَلَ) vəznindədir. Buna görə də onun qiyas məntiqi ət-təbi‘ (التَّبِيع) qiyasındandır. Əgər kimsə bu tərəfə meyillənsə, uzağa getməmiş olar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-25T00:38:53.837Z"
+}
