@@ -1,0 +1,17 @@
+{
+ "i": 4659,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ونى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 146,
+  "page_to": 146
+ },
+ "ar": "الواو والنون والحرف المعتلّ. يدلُّ على ضَعْف. يقال: وَنَى يَنِى وَنْياً. والوانى: الضَّعيف (١). قال اللّه تعالى: ﴿وَلا تَنِيا فِي ذِكْرِي﴾.\nوالوَنَى: التَّعَب. يقال: أَوْنَيْتُه: أتْعَبتُه. وناقةٌ وانيةٌ. ولا يَنى يَفعلُ، كما يقال لا يزال. وامرأةٌ وَناةٌ، إذا كان فيها فُتورٌ عند القِيام.",
+ "az": "«ونى» (vəna). Vəv, nun və zəif hərf. Zəifliyə dəlalət edir. Deyilir: وَنَى يَنِى وَنْياً (vəna yəni vənyən). اَلْوَانِى (vani) — zəifdir (١). Uca Allah buyurmuşdur: ﴿وَلا تَنِيا فِي ذِكْرِي﴾ (mənaca tərcümə: «Məni zikr etməkdə zəiflik etməyin»). اَلْوَنَى (vəna) — yorğunluqdur. Deyilir: أَوْنَيْتُهُ (əvnəytühü) — onu yorğun etdim. نَاقَةٌ وَانِيَةٌ (naqatün vaniyətün) — yorğun dəvə. وَلَا يَنَى يَفْعَلُ (və la yəni yəf'əlü) — daim edir kimi deyilir. رَجُلٌ وَنَاةٌ (raculün vanatün) — ayağa qalxarkən onda süstlük olan qadın.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3817,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مخط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 304,
+  "page_to": 304
+ },
+ "ar": "الميم والخاء والطاء أُصَيلٌ، يدلُّ على بُروزِ شيءٍ من كِنِّه، صحيحٌ. وامتَخَط السَّيفَ: انتضاه. وأمْخَطَ السَّهمَ (١): أنفَذَه إمخاطًا. وربَّما قالوا:\nامتخَطَ ما في يده: اختَلَسه.",
+ "az": "[مخط] (Mim, xə və ta): Bir şeyin qınından, örtüyündən üzə çıxmasına dəlalət edən kiçik, lakin səhih bir əsldir. «امتَخَط السَّيفَ» (imtəhətis-səyfə): qılıncı qınından sıyırıb çıxardı. «أمْخَطَ السَّهمَ» (əmhəatis-səhmə): oxu hədəfdən keçirib o tərəfə çıxardı. Bəzən də belə deyirlər: «امتخَطَ ما في يده» (imtəhətə mə fi yadihi): əlində olanı qamçılayıb (və ya çəkib) qاپdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

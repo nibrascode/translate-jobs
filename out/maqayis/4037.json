@@ -1,0 +1,17 @@
+{
+ "i": 4037,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 384,
+  "page_to": 384
+ },
+ "ar": "النون والباء والهاء أصلٌ صحيح يدلُّ على ارتفاع وسمُوّ. ومنه النُّبْه والانتباه، وهو اليَقَظة والارتفاع من النَّوم. ونَبَّهْته وأنْبهتُه. ومنه رجلٌ نَبِيه، أي شَرِيف. وقولهم: إنَّ النَّبَه من الأضداد، يقال للضَّائع نَبَهٌ وللموجود نَبَه، فهو عندنا صحيحٌ؛ لأنَّه إذا ضاع انتُبِه له وإذا وُجِد انتُبِه له (٢). قال أهلُ اللُّغة:\nالنَّبَه: الضَّالَّة تُوجَد عن غفلة. تقول: وجدتُ هذا الشَّيءَ نَبَهاً وأضلَلْتُه نَبَها، إذا (٣) لم يعلم متى ضلّ. والقياس في الباب ما ذكرناه. قال:\nكأنَّه دُمْلُجٌ من فِضَّةٍ نَبَه … في مَلْعَبٍ من عَذَارَى الحىِّ مفصوم (٤)",
+ "az": "[نبه] (nəbəh): Nun, ba və ha – ucalıq və ulu olmağa dəlalət edən səhih bir kökdür. Bunlardan biri «النُّبْه» (ən-nubə) və «الانتباه» (əl-intibah) olub yuxudan oyanmaq və ucalmaq deməkdir. «نَبَّهْته وأنْبهتُه» (nəbbəhtuhu və ənbəhtuhu). Eynilə «رجلٌ نَبِيه» (rəcülün nəbih), yəni şərəfli deməkdir. Onların «النَّبَه» (ən-nəbəh) sözünün əzdan (əks mənalı) olması barədəki sözlərinə gəlincə, itmiş şeyə də «نَبَه» (nəbəh), tapılmış şeyə də «نَبَه» (nəbəh) deyilir ki, bu bizə görə səhihdir; çünki o itdikdə onun üçün oyanılar (axtarılar), tapıldıqda da onun üçün oyanılar (hiss edilər) (٢). Dilçilər demişlər:\n«النَّبَه» (ən-nəbəh): qəflətən tapılan azmış heyvandır. Deyirsən: «وجدتُ هذا الشَّيءَ نَبَهًافأضلَلْتُه نَبَهًافإذا» (vəcədtü həzəl-şəyyə nəbəhən və ədlaltuhu nəbəhən izə) nə vaxt itdiyi bilinmədikdə. Fəsildəki qiyas qeyd etdiyimiz kimidir. Belə demişdir:\nكأنَّه دُمْلُجٌ من فِضَّةٍ نَبَه … في مَلْعَبٍ من عَذَارَى الحىِّ مفصوم (٤)\n(Sanki o gümüşdən bir bazubənddir, itmişdir... qəbilə qızlarının oyun yerində qırılmış)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

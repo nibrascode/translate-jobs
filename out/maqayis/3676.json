@@ -1,0 +1,17 @@
+{
+ "i": 3676,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لسد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 248,
+  "page_to": 248
+ },
+ "ar": "اللام والسين والدال. يقولون: لَسِدَ العَسلَ: لَعِقَه.",
+ "az": "[لسد] (ləsəd) — lam, sin və dal. Deyirlər: لَسِدَ العَسلَ (balı yalamaq) — onu yaladı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

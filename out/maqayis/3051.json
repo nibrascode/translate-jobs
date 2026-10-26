@@ -1,0 +1,17 @@
+{
+ "i": 3051,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فأو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 468,
+  "page_to": 468
+ },
+ "ar": "الفاء والألف والواو أصلٌ صحيح يدلُّ على انفراجٍ فى شئ. يقال: فَأوت رأسَه بالسَّيف فأْواً، أى فلَقته. والفَأْو: فُرجةُ ما بين الجبلَين. قال:\nحتَّى انْفَأى الفَأْوُ عن أعناقها سحراً … وقد نَشَحن فلا رىٌّ ولا هِيمُ (٣)",
+ "az": "[فأو] (f-ə-v): Fə, əlif və vav hərflərindən ibarət səhih bir kök olub, bir şeydə aralanmaya dəlalət edir. Deyilir: «فَأَوْتُ رَأْسَهُ بِالسَّيْفِ فَأْواً» (qılıncla onun başını yarıb açdım), yəni yardın. «الفَأْو» (fəv) — iki dağ arasındakı boşluqdur. Şair demişdir: «حَتَّى انْفَأَى الفَأْوُ عَنْ أَعْنَاقِهَا سَحَراً … وَقَدْ نَشَحْنَ فَلا رَيٌّ وَلا هِيمُ» (٣) (Səhər çağı o boşluq onların boyunlarından aralanıb açılana qədər... onlar [su] içmişdilər, nə susuzluqdan ölən [susuz] var, nə də suya doyan [suvarılmış]).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

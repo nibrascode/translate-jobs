@@ -1,0 +1,17 @@
+{
+ "i": 3272,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قحو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 61,
+  "page_to": 62
+ },
+ "ar": "القاف والحاء والواو كلمةٌ واحدة. يقولون: القَحْو تأسيس\nالأُقحُوان، وتقديره أُفْعُلَان، ولو جعل في دواءٍ لقيل مَقْحُوٌّ، وجمعه الأَقَاحِي (١).\nوالأُقحُوانة: موضع.",
+ "az": "[قحو] «قاف», «حاء» və «واو» tək bir kəlmədir. Deyirlər: «القَحْو» — zəfəran (və ya nərgiz növü olan üqküvan) gülünün əsasıdır, çəkisi «أُفْعُلَان» kimidir, əgər dərmana qatılarsa مَقْحُوٌّ denilər, cəmi isə «الأَقَاحِي»-dir (bir). Və «الأُقحُوانة» — bir yerin adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:48.341Z"
+}

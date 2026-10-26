@@ -1,0 +1,17 @@
+{
+ "i": 4622,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وقذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 132,
+  "page_to": 132
+ },
+ "ar": "الواو والقاف والذال: كلمةٌ تدلُّ على ضَربٍ بخَشَب. منه الوَقْذ: الإيلام بالضَّرب. وشاةٌ موقوذة: ضُرِبت بالخشَب حتَّى ماتت.\nومما ليس من هذا القياس وُقِذَت النّاقةُ: دَرَّتْ على كَرْهٍ فقَلّ لبنُها.",
+ "az": "[وقذ] (vəqəz) — الواو والقاف والذال: كلمةٌ تدلُّ على ضَربٍ بخَشَب (vav, qaf və ذal: taxta ilə vurmağa dəlalət edən bir kəlmədir). منه الوَقْذ: الإيلام بالضَّرب (vəqiz — zərbə ilə ağrıtmaq bundandır). وشاةٌ موقوذة: ضُرِبت بالخشَب حتَّى ماتت (moquz qoyun — taxta ilə vurularaq öldürülən qoyundur). ومما ليس من هذا القياس وُقِذَت النّاقةُ: دَرَّتْ على كَرْهٍ فقَلّ لبنُها (Bu qiyasdan olmayan isə vəqizətun-naqədir: dəvə istəməyərəkdən süd verdi və südü azaldı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:25.984Z"
+}

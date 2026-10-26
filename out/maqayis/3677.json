@@ -1,0 +1,17 @@
+{
+ "i": 3677,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لسق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 248,
+  "page_to": 248
+ },
+ "ar": "اللام والسين والقاف ليس أصلاً، وأصله الصاد. يقال اللَّسَق: اللَّوَى (٣). وإذا التزقت الرِّئة بالجَنْب قيل لَسِقَ لَسَقاً. والأصل لصق.\nقال رؤبة:\n* وبَلَّ بَردُ الماءِ أعضادَ اللّسَقْ (٤) *",
+ "az": "[لسق] (ləsəq) — lam, sin və qaf əsl deyil, əsli sad hərfidir. Deyilir ki, اللَّسَق (əlləsəq) — əyrilikdir (٣). Ağciyər böyrəyə yapışdıqda لَسِقَ لَسَقاً (ləsəqə ləsəqən) deylər. Əsli isə لصق (ləsəqə) sözüdür.\nRüəbə demişdir:\n* وبَلَّ بَردُ الماءِ أعضadَ اللّسَقْ (٤) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

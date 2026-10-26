@@ -1,0 +1,17 @@
+{
+ "i": 3639,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لجب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 236,
+  "page_to": 236
+ },
+ "ar": "اللام والجيم والباء كلمتان متباينتان جدًّا.\nفالأولى اللَّجَب: الْجَلَبة. يقال جيشٌ ذو لَجَب، وبحرٌ ذو لَجَب، إذا سُمِع اضطرابُ أمواجه.\nوالكلمة الأخرى: عَنْزٌ لَجْبَة، والجمع لِجَابٌ (٢)، وهي التي ارتفع لبنُها. قال:\nعَجِبَتْ أبناؤُنا من فِعلِنا … إذْ [نَبِيعُ] الخيل بالمِعزَى اللِّجابِ (٣)",
+ "az": "[لجب] (ləcəb) — lam, cim və ba bir-birindən tamamilə fərqli iki sözdür.\nBirincisi: اّللَّجَب (əlləcəb) — səs-küy, hay-küy. جيشٌ ذو لَجَب (cəyşün zü ləcəb) — gurultulu qoşun, və بحرٌ ذو لَجَب (bəhrün zü ləcəb) — dalğalarının səsi eşidilən dəniz, deyilir.\nDigər söz: عَنْزٌ لَجْبَة (ənzün ləcbəh), cəmi لِجَابٌ (licab) (٢) — südü bol olan keçi. Şair demişdir:\nعَجِبَتْ أبناؤُنا من فِعلِنا … إذْ [نَبِيعُ] الخيل بالمِعزَى اللِّجابِ (٣)\n(Övladlarımız gördüyümüz işə təəccübləndilər, biz atları südverən keçilərə satanda)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

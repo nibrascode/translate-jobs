@@ -1,0 +1,17 @@
+{
+ "i": 4420,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "همك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 67,
+  "page_to": 67
+ },
+ "ar": "الهاء والميم والكاف: كلمةٌ واحدة. انهمَكَ فى الأمر:\nجَدَّ ولَجّ.",
+ "az": "«همك» (həmək): Hə, mim və kaf hərfləri tək bir kəlmədir. انهمَكَ فى الأمر (işə qərq oldu): səy göstərdi və israrlı oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

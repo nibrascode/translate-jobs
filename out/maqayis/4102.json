@@ -1,0 +1,17 @@
+{
+ "i": 4102,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 414,
+  "page_to": 414
+ },
+ "ar": "النون والذال والراء كلمةٌ تدل على تخويف أو تخوُّف. منه الإنذار: الإبلاغ؛ ولا يكاد يكون إلاَّ في التَّخويف. وتناذَرُوا: خَوَّفَ بعضُهم بعضاً. ومنه النَّذْر، وهو أنّه يَخافُ إذا أخَلَفَ. قال ثعلب: نَذِرْتُ بهم فاستعدَدت لهم وحَذِرتُ منهم. والنّذِير: المُنْذِر، والجمع النُّذُر. والنَّذْر (٢) أيضًا: ما يجب، كأنّه نُذِر، أي أُوجِب. ونَذْر المُوضِحة في الحديث منه (٣).",
+ "az": "[نذر] النون والذال والراء (n, dh, r) — qorxutmağa və ya qorxmağa dəlalət edən kəlmədir. Bunlardan biri «الإنذار» (əl-inzar) — xəbərdarlıq etməkdir; bu, demək olar ki, yalnız qorxutmaq mənasında olur. «تناذَرُوا» (tənazəru) — bir-birini qorxuttular. Həmçinin «النَّذْر» (ən-nəzr) — verilən söz yerinə yetirilmədikdə qorxuya düşülən nəzir. Səsləb demişdir: «نَذِرْتُ بهم» (nədirtü bihim) — onları hiss edib qorxdum və onlara qarşı hazıralqlıqlı oldum. «النّذِير» (ən-nəzir) — xəbərdarlıq edən (mənzil), cəmi «النُّذُر» (ən-nuzur). «النَّذْر» (ən-nəzr) — həmçinin vacib olan şeydir, elə bil o, nəzir edilib, yəni vacib qılınıb. Hədisdəki «نَذْر المُوضِحة» (nəzrul-mudihə) sözü də bundandır (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

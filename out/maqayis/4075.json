@@ -1,0 +1,17 @@
+{
+ "i": 4075,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "النون والحاء والفاء كلمةٌ تدلُّ على دِقّة وذُبول. نحو (٢) نَحُف الرّجُل نحافةً فهو نحيف، إذا قلَّ لحمُه وهُزِل. وهُمْ نِحافٌ.",
+ "az": "[نحف] (n-h-f) - Nün, ha və fa hərfləri incəliyə və zəifliyə dəlalət edən kəlmədir. Necə ki, نَحُف الرّجُل نحافةً فهو نحيف (kişi arıqladı, deməli o, arıqdır) — əti azaldıqda və arıqladıqda. Onlar da وُهُمْ نِحافٌ (nihafdirlər - arıqlardırlar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4657,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ومض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 146,
+  "page_to": 146
+ },
+ "ar": "الواو والميم والضاد: كلمةٌ تدلُّ على لَمَعانِ شئ. يقال:\nوَمَض البَرقُ وَمِيضاً، وأوْمَضَ إيماضاً. وأوْمَضَ بعينِه من هذا.",
+ "az": "«ومض» (vəməz/vəmədh - ض). Vəv, mim və dad: bir şeyin parıldamasına dəlalət edən bir kəlmədir. Deyilir: وَمَضَ الْبَرْقُ وَمِيضاً (vəməzəl-barqu vəmiðan) və أَوْمَضَ إِيمَاضاً (əvməzə imazan). Gözü ilə إِيمَاضٌ (imaz) etməsi də bundandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

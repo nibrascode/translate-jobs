@@ -1,0 +1,17 @@
+{
+ "i": 3556,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 206,
+  "page_to": 206
+ },
+ "ar": "اللام والظاء أصلٌ صحيحٌ يدلُّ على ملازَمَة. يقال: ألظَّ الرّجلُ بالشّيء، إذا لازَمَه. و\nفي الحديث: «ألِظُّوا بيا ذَا الجلالِ والإكرام». أي الزَموا هذا وأكثِرُوا منه في دعائكم. ويقال: ألَظَّ المطرُ: دام. ويقولون:\nالإلظاظ: الإشفاق على الشَّيء؛ وليس ببعيد القياسِ من الباب.",
+ "az": "«لظ» - لام və za yapışmağa dəlalət edən səhih bir əsasdır. Deyilir: «ألظَّ الرّجلُ بالشّيء» (ələttar-rəcülüsü biş-şəyi) - kişi o şeyə yapışdı. Hədisdə buyurulmuşdur: «ألِظُّوا بيا ذَا الجلالِ والإكرام» (Əlizzu bi ya zəl-cəlali vəl-ikram) - yəni buna yapışın və duanızda bunu çoxaldın. Deyilir: «ألَظَّ المطرُ» (ələttəl-matəru) - yağış yağmaqda davam etdi. Deyirlər: «الإلظاظ» (əl-ilzaz) - bir şeyə görə ürəyianlıq və ya şəfqət etməkdir; bu da bu babın qiyasından uzaq deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

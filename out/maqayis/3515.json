@@ -1,0 +1,17 @@
+{
+ "i": 3515,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كسد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 180,
+  "page_to": 180
+ },
+ "ar": "الكاف والسين والدال أصلٌ صحيح يدلُّ على الشَّيء الدُّون لا يُرغَب فيه. من ذلك: كَسَد الشّيءُ كَساداً فهو كاسد وكَسِيد. وكلُّ دونٍ كَسِيد. قال:\n* فماجدٌ وكسيدُ (٢) *",
+ "az": "[كسد] (kə-sə-də). Kaf, sin və dal hərfləri dəyərsiz, rəğbət bəslənməyən şeyə dəlalət edən səhih bir əsldir. Bunlardandır: «كَسَد الشّيءُ كَساداً» (Şey kasadlaşdı, dəyərdən düşdü), o, «كاسد» (kasad) və «كَسِيد» (dəyərsiz) olar. Hər bir dəyərsiz şey kasiddir. Şair demişdir: * Və macidün və kəsidü (²) * (Həm uca şəxs, həm də dəyərsiz/kasad şey).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

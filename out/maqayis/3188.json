@@ -1,0 +1,17 @@
+{
+ "i": 3188,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 23,
+  "page_to": 23
+ },
+ "ar": "القاف واللام والفاء أصلٌ صحيح يدلُّ على كَشْط شئٍ عن شئ. يقال: قَلَفْت الشَّجرةَ، إذا نحَّيْتَ عنها لِحاءَها. وقَلَفْتَ الدَّنَّ: فَضضتُ عنه طِينَه. وقَلَفَ الخاتنُ غُرْلة الصبىِّ، وهى القُلْفة، إذا قَطَعها.",
+ "az": "[قلف] \nالقاف واللام والفاء (قاف, lam və fə) — bir şeyin qabığını soyub çıxarmağa dəlalət edən səhih bir kökdür. Deyirsən: قَلَفْت الشَّجرةَ — ağacın qabığını soyub kənarlaşdırdım. قَلَفْتَ الدَّنَّ — küpün gilini qopardım. \nSünnət edən uşağın dərisini kəsdi, bu, قُلْفة (sünnət dərisi) adlanır, yəni onu kəsdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:44.429Z"
+}

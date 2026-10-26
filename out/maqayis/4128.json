@@ -1,0 +1,17 @@
+{
+ "i": 4128,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 426,
+  "page_to": 427
+ },
+ "ar": "النون والشين والطاء: أصلٌ صحيح يدلُّ على اهتزازٍ وحركة.\nمنه النّشاط معروفٌ وهو لما فيه من الحركة والاهتزاز والتَّفتُّح. يقال نَشِطَ ينشَط.\nوأنْشَط القومُ: كانت دوابُّهُم نَشِيطة. والثَّور ناشط، لأنّهُ يَنْشِطُ من بلدٍ إلى بلد. قال ذو الرُّمَّة:\nأذاكَ أم نَمِشٌ بالوَشْي أكرُعُه … مسفَّعُ الخَدِّ هادٍ ناشِطٌ شَبَبُ (٢)\nونَشَطْتُ الشَّيءَ: قشرتُه، كأنَّهُ لما قُشِرَ أُخرِجَ من جِلده. وطريقٌ ناشط:\nيَنْشِطُ في الطَّريق الأعظم يَمنةً [ويَسْرَة (٣)]. ونَشَطت (٤) النّاقةُ في سيرها، إذا شَدَّت. والأُنْشُوطة: العُقدة مثل عُقدة السَّراويل ونَشَطْتُه بأُنشوطة. وأنْشَطتُ العِقال: مَدَدْت أُنشوطتَه فانحلَّت. وقال قوم: الإنشاط: الْحَلُّ، والتَّنشيط:\nالعَقْد. وبئر أنشاط: قَريبة القَعر يَخرُج دلوُها بجَذْبَةٍ. ونَشَطْتُ الدَّلْوَ من البئرِ بغير قامة. والنَّشِيطة من الإبل: أن تُوجَد فتُسَاقَ (٥) من غير أنْ يُعْمَدَ لها.\nوقال قوم: هو الذي يصيبه القومُ قبل أن يَصِلوا إلى الحىِّ الذي يريدون الإغارة عليه، فيَنْشِطُه الرّئيسُ من بين أيديهم. قال:\nلك المِرباعُ منها والصَّفايا … وحُكمُك والنَّشِيطةُ والفُضُولُ (١)",
+ "az": "[نشط] (nəşt) — Nun, şin və ta: titrəməyə və hərəkətə dəlalət edən səhih bir əsasdır.\n\nOndandır məşhur olan النَّشاط (ən-nəşat / fəallıq, şövq), bu da onda olan hərəkət, titrəmə və açılma üçündür. Deyilir: نَشِطَ ينشَط (fəal oldu, fəal olur).\n\nVə أنْشَط القومُ (Qövmün minik heyvanları fəal oldu). Və الثَّور ناشط (Öküz fəaldır), çünki o, bir ölkədən başqa ölkəyə hərəkət edir. Zü ə-Rummə demişdir:\nأذاكَ أم نَمِشٌ بالوَشْي أكرُعُه … مسفَّعُ الخَدِّ هادٍ ناشِطٌ شَبَبُ (٢)\n(Odurmu, yoxsa ayaqları naxışlı nəməndədir, yanaqları qara, başçı, fəal, cavan...)\n\nVə نَشَطْتُ الشَّيءَ (Mən şeyi soydum), guya o soyulduqda dərisindən çıxarılmışdır. Və طريقٌ ناشط (Fəal yol): əsas yolda sağa [və sola (٣)] çıxan yoldur. Və نَشَطت النّاقةُ في سيرها (Dəvə gedişində sürətləndi), əgər o, möhkəm qaçdısa. Və الأُنْشُوطة (əl-unşutə): şalvar düyünü kimi bir düyündür və نَشَطْتُه بأُنشوطة (mən onu düyünlə bağladım). Və أنْشَطتُ العِقال (Mən cilovun düyününü uzatdım və o açıldı). Bir qrup adam demişdir: əl-inşat (إنشاط) — açmaqdır, ət-tənşit (التنشيط) isə — düyünləməkdir. Və bəirun ənşat (قَريبة القَعر): dayaz quyudur, onun dəvəsi bir dartı ilə çıxarılır. Və نَشَطْتُ الدَّلْوَ من البئرِ (Mən qovunu quyudan qamsız dartıb çıxardım). Və النَّشِيطة (ən-nəşitə) dəvələrdən odur ki, tapılıb qabağa qatılır, halbuki onu əvvəlcədən güdməyiblər.\n\nBir qrup adam demişdir: O, elə şeydir ki, qövm basqın etmək istədikləri tayfaya çatmamış əldə edirlər və başçı onu onların əlindən götürüb sürür. Şair demişdir:\nلك المِرباعُ منها والصَّفايا … وحُكمُك والنَّشِيطةُ والفُضُولُ (١)\n(Onların dörddə biri, saf seçilmişləri və sənin hökmün, ən-nəşitə və artığı sənindir...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:38.830Z"
+}

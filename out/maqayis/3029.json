@@ -1,0 +1,17 @@
+{
+ "i": 3029,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فوغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 460,
+  "page_to": 460
+ },
+ "ar": "الفاء والواو والغين كلمةٌ إن صحَّت. يقولون: إن الفَوغ (٤):\nالضَّخم. يقال: امرأة فَوغاء.",
+ "az": "«فوغ» (fəwəğ): Fə, vau və ğeyn hərfləri əgər düzgündürsə, bir sözdür. Deyirlər ki, «الفَوغ» (fəwğ) — iri, böyük deməkdir. Deyilir: «امرأة فَوغاءُ» (imrəatun fəwğau) — iri qadın.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3235,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قيأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 44,
+  "page_to": 44
+ },
+ "ar": "القاف والياء والهمزة كلمةٌ واحدة. قَاءَ يَقِيءُ قَيْئاً، واسْتَقَاءَ استفعل من القَيء. ويقولون للثَّوب المُشْبَع الصِّبغ: هو يَقِيء الصِّبْغ.",
+ "az": "[قيأ] «القاف» (قاف), «الياء» (ياء) və «الهمزة» (həmzə) — tək bir kəlmədir. «قَاءَ يَقِيءُ قَيْئاً» (qusdu, qusur, qusmaq), «اسْتَقَاءَ» (qusmağa çalışdı) isə «قَيء» (qəy) sözündən istif'al بابıdır. Boyası bolca hopdurulmuş paltara deyirlər: O, boyanı qusur (boyası axır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:47.283Z"
+}

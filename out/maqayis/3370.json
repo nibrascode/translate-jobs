@@ -1,0 +1,17 @@
+{
+ "i": 3370,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "الكاف والهاء ليس فيه من اللغة شيءٌ إلا ما يُشبه الحكاية، يقال كَهَّ السَّكرانُ، إذا استنكَهْتَه فكَهَّ في وجهك. وليس هذا بشيء.\nويقولون: كهكه الأسدُ في زئيره. ثم يقولون: الكَهكاهُ من الرِّجال: الضعيف.\nوينشدون:\nولا كَهْكَاهة بَرَمٌ … إذا ما اشتدَّتِ الحِقَبُ (٣)\nولا معنى عندي لقولهم إنّه الضعيف. وهذا كالتجوُّز، وإنما يراد أنّه يَكُهُّ في وجه سائلِه. والباب كلُّه واحد.",
+ "az": "[كه] الكاف والهاء ليس فيه من اللغة شيءٌ إلا ما يُشبه الحكاية، (Kaf və hə hərflərindən ibarət kökdə təqlidə bənzəyəndən başqa dildən heç bir şey yoxdur), يقال كَهَّ السَّكرانُ، (deyilir ki, sərxoş adam kəh-kəh elədi), إذا استنكَهْتَه فكَهَّ في وجهك. (nəfəsini iylədikdə üzünə üfürdü). وليس هذا بشيء. (Və bu heç bir şey deyil). ويقولون: كهكه الأسدُ في زئيره. (Və deyirlər ki: şir nəriltisində kəhkəhə çəkdi). ثم يقولون: الكَهكاهُ من الرِّجال: الضعيف. (Sonra deyirlər ki: kişilərdən əl-kəhkah — zəif deməkdir). وينشدون: ولا كَهْكَاهة بَرَمٌ … إذا ما اشتدَّتِ الحِقَبُ (٣) (Və şeir oxuyurlar: Zəif və darıxdırıcı deyildir... zamanlar şiddətləndiyi zaman). ولا معنى عندي لقولهم إنّه الضعيف. (Və mənim yanımda onların onun zəif olması barədə dediklərinin heç bir mənası yoxdur). وهذا كالتجوُّز، (Və bu məcaza bənzəyir), وإنما يراد أنّه يَكُهُّ في وجه سائلِه. (və yalnız o nəzərdə tutulur ki, o, istəyənin üzünə üfürür). والباب كلُّه واحد. (Və qapı tamamilə birdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:12.476Z"
+}

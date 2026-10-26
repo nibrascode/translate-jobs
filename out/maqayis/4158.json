@@ -1,0 +1,17 @@
+{
+ "i": 4158,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نطع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 440,
+  "page_to": 440
+ },
+ "ar": "النون والطاء والعين أصلٌ يدلُّ على بَسطٍ في شيء ومَلَاسَة.\nمنه النِّطْع، ويقال له النَّطْع (١)، وهو مبسوطٌ أملس. والنَّطع (٢): ما ظهر من غار الفَمِ الأعلى. وهو كذلك. والتنطُّع في الكلام: التعمُّق، وهو قياسُه لأنّه يتبسَّط فيه. ويُستعار فيقال: تنَطّع الصانعُ في صنعته: أظهَرَ حِذْقَه.",
+ "az": "[نطع] (nun, ta və eyn) – bir şeydə səpələnməyə, yayılmağa və hamarlığa delalət edən bir kökdür. Bunlardan biri النِّطْع (ən-nit) – buna النَّطْع (ən-nit) də deyilir (١), yayılmış və hamar şeydir. Və النَّطع (ən-nit) (٢) – ağız boşluğunun üst damğından görünən hissədir. O, da belədir. Sözdə التنطُّع (ət-təntü-tü) – dərindən və artıq getməkdir, bu onun ölçüsüdür, çünki orada insan özünü sərbəst buraxır. Məcazi olaraq deyilir: تنَطّع الصانعُ في صنعته (tənəttəə-s-saniu fi sənətihi) – sənətkar öz sənətində mahirliyini göstərdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

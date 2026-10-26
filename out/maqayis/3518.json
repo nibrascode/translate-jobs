@@ -1,0 +1,17 @@
+{
+ "i": 3518,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 182,
+  "page_to": 182
+ },
+ "ar": "الكاف والشين والميم أُصَيلٌ يدلُّ على قَطْع شيء أو قِصره.\nمن ذلك الأكشم: النَّاقص الخَلْق، ويكون ذلك في الحسب الناقص أيضاً. قال:\n* له جانبٌ وافٍ وآخرُ أكشمُ (٤) *\nوالكَشْم: قَطع الأنف باستئصال.",
+ "az": "[كشم] (kə-şə-mə). Kaf, şin və mim hərfləri kiçik bir kök olub, bir şeyin kəsilməsinə və ya qısa olmasına dəlalət edir. Bunlardandır: «الأكشم» (qüsurlu/əksik): yaradılışı əksik olan, bu, həmçinin əsli-nəsəbi əksik olanlar üçün də işlədilir. Şair demişdir: * Ləhu canibun vafun və axəru əkşəmü (⁴) * (Onun bir tərəfi tam, digər tərəfi isə qüsurludur). «الكشْم» (kəsmə): burunu kökündən kəsmək.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

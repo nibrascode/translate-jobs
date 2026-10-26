@@ -1,0 +1,17 @@
+{
+ "i": 4391,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هقل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 58,
+  "page_to": 58
+ },
+ "ar": "الهاء والقاف واللام ليس فيه إلاَّ الهِقْل، وهو الفتِىُّ من النَّعام. ويقولون: التَّهقُّل (١): المَشْىُ البطئ.",
+ "az": "[هقل] (hə-qə-lə): Hə, qaf və lam hərflərində yalnız «الهِقْل» (əl-hiql) sözü vardır ki, o da cavan dəvəquşudur. Deyirlər: «التَّهقُّل» (ət-təhəqqül) — yavaş yerişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

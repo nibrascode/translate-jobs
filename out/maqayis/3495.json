@@ -1,0 +1,17 @@
+{
+ "i": 3495,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 170,
+  "page_to": 171
+ },
+ "ar": "الكاف والراء والضاد كلمةٌ واحدةٌ صحيحة مُختلف في تأويلها، وهي الكِرَاض. قال قوم: هو ماء الفحل تُلقِيه النّاقةُ بعد ما قَبِلته.\nيقال: كَرَضَتِ الناقةُ ماءَ الفحل تَكْرُضُه. ويقولون: الكِرَاضُ: مَنِيُّ الرّجُل.\nقال الطرِمَّاح:\nسوفَ تُدنيك من لَمِيسَ سَبَنْتا … ةٌ أمَارتْ بالبَول ماءَ الكِرَاضِ (١)\nوقال ابن دريد (٢): الكِراض: حَلَقُ الرَّحِم (٣). قال الأصمعي: لا واحدَ لها.\nوقال غيره: واحدها كَرْض (١).",
+ "az": "[كرض]. Kaf, ra və dad düzgün, tək bir kəlmədir, onun yozumunda ixtilaf edilmişdir, o da əl-kiraddır. Bir qrup demişdir: O, erkək dəvənin suyu olub, dəvə onu qəbul etdikdən sonra bayıra atdığı sudur. Deyilir: كَرَضَتِ الناقةُ ماءَ الفحل تَكْرُضُه (dəvə erkəyin suyunu atdı). Və deyirlər ki, əl-kirad: kişinin mənisidir. Tirimmah demişdir: سوفَ تُدنيك من لَمِيسَ سَبَنْتا … ةٌ أمَارتْ بالبَول ماءَ الكِرَاضِ (١) (Səni Ləmisə yaxınlaşdıracaqdır sidiklə kirad suyunu hərəkətə gətirən səbənta dişi dəvə). İbn Dürid demişdir (٢): Əl-kirad: rəhmin halqalarıdır (٣). Əsməti demişdir: Onun tək forması yoxdur. Başqası demişdir: Tək forması kərzdir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

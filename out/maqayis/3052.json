@@ -1,0 +1,17 @@
+{
+ "i": 3052,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فأد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 469,
+  "page_to": 469
+ },
+ "ar": "الفاء والألف والدال هذا أصلٌ صحيح يدلُّ على حُمَّى وشِدّةِ حرارة. من ذلك: فأَدْتُ اللَّحمَ: شويته. وهذا فَئِيدٌ، أى مشوىّ. والمِفْأد:\nالسَّفُود. والمُفتأَد: الموضِع يُشوَى فيه. قال:\nكأنَّه خارجاً من جَنْبِ صفحته … سَفُّود شَرْبٍ نسُوه عنده مُفتَأدِ (١)\nومما هو مِنْ قياس الباب عندنا: الفُؤاد، سمِّى بذلك لحرارته. والفأد: مصدر فأدتُه، إذا أصبتَ فؤاده. ويقولون: فأَدْتُ المَلَّةَ، إذا مَلَلْتَها.",
+ "az": "[فأد] (f-ə-d): Fə, əlif və dal hərfləri olub, bu da qızdırmaya və şiddətli hərarətə dəlalət edən səhih bir kökdür. Bunlardan biri: «فَأَدْتُ اللَّحْمَ» (əti qızardaraq bişirdim) — onu qızartdım. Bu isə «فَئِيدٌ» (fəid), yəni qızardılmış deməkdir. «المِفْأَد» (mifəd) — şişdir. «المُفْتَأَد» (müftəd) — ətin qızardıldığı yerdir. Şair demişdir: «كَأَنَّهُ خَارِجاً مِنْ جَنْبِ صَفْحَتِهِ … سَفُّودُ شَرْبٍ نَسُوهُ عِنْدَهُ مُفْتَأَدِ» (١) (Sanki onun böyrünün səthindən çıxmış kimi... bir dəstə içki düşkününün yanında unutduğu, orada qızardıldığı şişdir). Bu babın ölçüsünə aid olan başqa bir şey: «الفُؤَاد» (fuad – ürək), hərarətinə görə belə adlandırılmışdır. «الفأد» (fəd) — «فَأَدْتُهُ» (ürəyinə toxundum) sözünün məsdəridir, bir kəsin ürəyinə toxunduğun zaman işlədilir. Deyirlər: «فَأَدْتُ المَلَّةَ» (isti küldə çörək bişirdim), yəni onu isti küldə örtdün).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

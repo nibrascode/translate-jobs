@@ -1,0 +1,17 @@
+{
+ "i": 4212,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 464,
+  "page_to": 464
+ },
+ "ar": "النون والقاف والهاء كلمةٌ تدلُّ على البُرْء من المرض، ثم يستعار.\nونَقَهَ من المَرَض نُقُوهاً: أفاق، فهو نَاقِهٌ. ويقولون: نَقِهَ الحديثَ مثل فهم، بكسر القاف، فرقا بينه وبين الأوّل. والقياس واحد، لأنَّه إذا نَقِهَه فقد برِئَ من الشّكِّ فيه. قال اللِّحياني: يقال: أنْقِهْ لي سَمْعكَ، أي أرْعِنِيهِ، كأنَّه يقول: حتّى تفْهمَ ما أقول. وبَلَغنا أنّ أهل المدينة يسمُّون الاستفهام:\nالاستِنْقاه.",
+ "az": "[نقه] Nun, qaf və ha xəstəlikdən sağalmalara dəlalət edən bir kəlmədir, sonra məcazi mənada işlədilir. وَنَقَهَ من المَرَض نُقُوهاً: sağaldı, o, نَاقِهٌ (sağalan) deməkdir. Deyirlər ki: نَقِهَ الحديثَ – anlamaq kimi qaf hərfi kəsrə ilə derilmişdir ki, birinci ilə fərqlənsin. Qayda eynidir, çünki o, sözü anlamışsa, demək, artıq ona şübhə etməkdən qurtulmuşdur. Lihyani demişdir: Deyilir: أنْقِهْ لي سَمْعكَ, yəni qulağını mənə tərəf tut, elə bil o, deyir ki: söylədiklərimi anlayana qədər. Bizə çatmışdır ki, Mədinə əhli sual verməyi الاستِنْقاه adlandırırlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:21.983Z"
+}

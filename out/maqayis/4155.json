@@ -1,0 +1,17 @@
+{
+ "i": 4155,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نضخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 438,
+  "page_to": 438
+ },
+ "ar": "النون والضاد والخاء قريبٌ من الذي قبله، إلاّ أنّه أكثر منه (٣). يقولون: النَّضْخ كاللّطْخ من الشّيء يبقى له أثَر. ونَضَخ ثوبَه بالطِّيب.\nوغَيثٌ نضّاخٌ: غزير. وعينٌ نضّاخة: كثيرة الماء.",
+ "az": "«نضخ» (ن - ض - خ): Nun, dad və ha – əvvəlkindən yaxındır, lakin ondan daha güclüdür. Deyirlər ki, «النَّضْخ» (nədħ) – bir şeydən qalan və izi görünən ləkə kimidir. «ونَضَخ ثوبَه بالطِّيب» (və nədaħ səvbəhu bit-tib) – paltarına ətir səpdi (ləkələdi). «وغَيثٌ نضّاخٌ» (və ğaysün naddahun) – bol yağışlı. «وعينٌ نضّاخة» (və aynün naddahətün) – suyu bol olan bulaq.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:27.147Z"
+}

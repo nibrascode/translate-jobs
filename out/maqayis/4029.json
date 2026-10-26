@@ -1,0 +1,17 @@
+{
+ "i": 4029,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 381,
+  "page_to": 381
+ },
+ "ar": "النون والباء والصاد. يقولون: نَبَص الغلامُ بالكَلْبِ.\nونَبَص الطائر: صَوَّت.",
+ "az": "[نبص] (nəbəs): Nun, ba və sad. Deyirlər ki: «نَبَص الغلامُ بالكَلْبِ» (nəbəşal-ğulamu bil-kəlbi).\nVə «نَبَص الطائر» (nəbəşət-tairu): səs çıxardı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

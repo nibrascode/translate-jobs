@@ -1,0 +1,17 @@
+{
+ "i": 4410,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "همج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 64,
+  "page_to": 65
+ },
+ "ar": "الهاء والميم والجيم: أصلٌ يدلُّ على اختلاطٍ واضطراب.\nفالهامج: المتروك يموجُ بعضُهُ فى بعض. قال:\n* يَعيثُ فيه هَمَجٌ هامجُ (٢) *\nوقول أبى ذؤيب:\n* موَلَّعة بالطُّرَّنينِ هَمِيجُ (٣) *\nفيقال: الهميج: كلُّ لونينِ اختَلَطا.\nومن الباب الهَمَج: البَعوض، ويقال لرُذَالِ النَّاس الهَمَج تشبيهاً. والهَمَجُ:\nالدَّبَا من الجراد. [و] يقال: أهْمَجَ الفرسُ إهماجاً: اضطرَبَ فى جَريِه. والهَمَج:\nالْجُوع، لما يعترى صاحبَه من الاختلاط والاضطراب. قال:\n* قد هَلكَتْ جارتُنا من الهَمَجْ (٤) *\nوهَمجَت الإبل، ورَدَت الماءَ فَشرِبَتْ منه. ويقال: الهَمَجَة: الشَّاة المهزولة، كأنها شُبِّهت بالبَعوضة.",
+ "az": "«همج» (həməc): Hə, mim və cim hərfləri qarışıqlığa və iztiraba dəlalət edən bir əsldir. Fə الهامج (əl-hamic) — bir hissəsi digər hissəsinin üzərində dalğalanan halda tərk edilmiş (başlı-başına buraxılmış) şeydir. Şair demişdir: * يَعيثُ فيه هَمَجٌ هامجُ (٢) * (Qarışıq və dalğalanan hamic orada fəsad törədir). Əbu Züəibin sözü: * موَلَّعة بالطُّرَّنينِ هَمِيجُ (٣) * (Hər iki tərəfi alacalı olan hamic). Deyilir ki, əl-həmic — hər hansı iki rəngin bir-birinə qarışmasıdır. Bu fəsildən olan الهَمَج (əl-həməc) — ağcaqanadlardır. İnsanların alçaqlarına da bənzətmə yolu ilə həmac deyilir. والهَمَج (əl-həməc) — çəyirtkə növlərindən olan dəbadır. [Və] deyilir ki: أهْمَجَ الفرسُ إهماجاً (at bərk qaçışda iztirab içində oldu): qaçışında iztirab içində oldu. والهَمَج (əl-həməc) — aclıqdır, çünki o, sahibində qarışıqlıq və iztirab törədir. Şair demişdir: * قد هَلكَتْ جارتُنا من الهَمَجْ (٤) * (Qonşumuz aclıqdan həlak oldu). Və həməcəti əl-ibl — dəvələr suya gəlib ondan içdilər. Deyilir ki: الهَمَجَة (əl-həməcə) — arıq qoyundur, sanki ağcaqanada bənzədilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

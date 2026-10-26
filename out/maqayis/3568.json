@@ -1,0 +1,17 @@
+{
+ "i": 3568,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لمظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 210,
+  "page_to": 211
+ },
+ "ar": "اللام والميم والظاء أُصَيلٌ بدلُّ على نُكتةِ بَياض. يقال: به\nلُمْظة، أي نُكتةُ بياضٍ. و\nفي الحديث: «إنَّ الإيمانَ يبدو لُمْظَةً في القَلب، كلَّما ازداد الإيمان ازدادت اللُّمْظة». واللُّمْظة بالفَرَس: بياضٌ يكون بإحدى جَحفَلَتَيه.\nفأمَّا التلمُّظُ فإخراجُ بعضِ اللِّسان. يقال: تَلَمَّظَ الحيّةُ، إذا أخرج لسانَه كتلمُّظِ الآكِل. وإنّما سمِّي تلمُّظاً لأنَّ الذي يبدو من اللسان فيه يسيرٌ، كاللُّمْظة.\nويقولون: شَرِب الماء لَمَاظًا، إذا ذاقَه بطرَف لسانِه.",
+ "az": "[لمظ] «اللام والميم والظاء» (lam, mim və zə) — kiçik bir kök olub ağardığı nöqtəyə dəlalət edir. Deyilir: «به لُمْظَةٌ» (onda lumzə vardır), yəni kiçik ağlıq nöqtəsi. Və hədisdə: «إنَّ الإيمانَ يبدو لُمْظَةً في القَلب، كلَّما ازداد الإيمان ازدادت اللُّمْظَة» (Həqiqətən, iman qəlbdə bir ağlıq nöqtəsi kimi zühur edər; iman artdıqca həmin ağlıq nöqtəsi də artar). Və atdakı «اللُّمْظَة» (lumzə): onun dodaqlarının birində olan ağlıq. Amma «التلمُّظ» (təllamüz) isə dilin bir hissəsini bayıra çıxarmaqdır. Deyilir: «تَلَمَّظَ الحيّةُ» (ilan tələmmüz etdi), əgər yeyən şəxsin tələmmüzü kimi dilini bayıra çıxardısa. Bu, yalnız ona görə tələmmüz adlandırılmışdır ki, dildən bayıra çıxan şey azdır, tıpkı lumzə kimi. Və deyirlər: «شَرِب الماء لَمَاظًا» (suyu ləmazən içdi), əgər onu dilinin ucu ilə dadıbsa.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:11.522Z"
+}

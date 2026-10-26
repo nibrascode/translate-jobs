@@ -1,0 +1,17 @@
+{
+ "i": 3995,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 369,
+  "page_to": 369
+ },
+ "ar": "النون والواو والصاد أصلٌ صحيح يدلُّ على تردُّدٍ ومجيء وذهاب *. وناص عن قرنه يَنُوص نَوْصًا. والمَنَاص المصدر، والمَلْجأ أيضًا. قال سبحانه: ﴿وَلاتَ حِينَ مَناصٍ﴾. ويقولون: النَّوْص: الحِمار الوحشىّ لا يزالُ نائصًا: رافعًا رأسَه، يتردَّد كالجامح. وناوصَ الجَرَّة: مارَسَها. ومرّ تفسيرُه في باب الجيم (٤).",
+ "az": "[نوص] (nus) - nun, vav və sad tərəddüdə, gəlib-getməyə dəlalət edən səhih bir kökdür *. وناص عن قرنه يَنُوص نَوْصًا (nəsə ən qarnihi yənusu nəvsən - tayından qaçdı/çəkindiyini bildirdi). Və المَنَاص (əl-mənas) — məsdərdir, həmçinin sığınacaqdır. Uca Allah buyurmuşdur: ﴿وَلاتَ حِينَ مَناصٍ﴾ (mənaca tərcümə: Bu, qaçıb xilas olma zamanı deyil!) [Sad, 3]. Və deyirlər: النَّوْص (ən-nəvs) — ceyrandır (və ya çöl eşşəyidir), daim نائص (nəis) olur: başını qaldırır, dəli kimi tərəddüd edir. وناوصَ الجَرَّة (nəvəsəl-cərrətə) — küpə ilə əlləşdi/məşğul oldu. Onun izahı «Cim» babında keçmişdir (4).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

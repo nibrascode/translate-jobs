@@ -1,0 +1,17 @@
+{
+ "i": 3577,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لهز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 216,
+  "page_to": 216
+ },
+ "ar": "اللام والهاء والزاء أصلٌ صحيح يدلُّ على دَفْعٍ بيَدِ أو غيرِها أو رمىٍ بوَتَر. قالوا: لهَزْتُ فلاناً: دفعتُه. ويقولون: الّلهْز: الضّرْب بجُمْع اليدِ (٢) في الصَّدر. ويقولون: لَهَزَهُ القَتِير: فَشَا فِيه. ولَهزْتُه بالرُّمح في صَدرِه: طعنتُه.\nولَهَزَ الفَصِيلُ ضَرْعَ أمِّه، إذا ضَرَبه برأسِه عند الرَّضاع. ويقال: بعيرٌ ملهوزٌ، إذا كان قد وُسِم في لِهزِمَتِه. قال:\nمَرَّتْ براكبِ مَلهوزٍ فقال لها … ضُرِّي الجُميحَ ومَسِّيهِ بتعذيبِ (٣)\nفأمّا قولُهم: فرسٌ مَلهوزٌ، أي مُضَبَّر الخَلْق، فهو صحيحٌ على هذا القياس، كأنَّ لحمَه رُفِع مِنْ جوانبه حتَّى تداخَلَ. ودائرة اللاهِزِ: دائرةٌ في اللِّهزِمَة.",
+ "az": "[لهز] (ləhəz) - Lam, ha və zay hərfləri əllə və ya başqa şeylə itələməyə və ya ox atmağa dəlalət edən səhih bir kökdür. Dedilər: لهَزْتُ فلاناً (ləhəztü fülənan) — «filkəsə daş atdım, itələdim». Deyirlər: الّلهْز (əl-ləhz): əlin yumruğu ilə sinəyə vurmaqdır (٢). Deyirlər: لَهَزَهُ القَتِير (ləhəzəhü əl-qatir): içində yayıldı. Və لَهزْتُه بالرُّمح في صَدرِه (ləhəztühü bi-r-rumhi fi sadrihi): onu sinəsindən nizə ilə vurdum. Və لَهَزَ الفَصِيلُ ضَرْعَ أمِّه (ləhəzə əl-fasilü dar’a ummihi): bala əmizdirmə zamanı başı ilə anasının məməsinə vurduqda. Deyilir: بعيرٌ ملهوزٌ (bəirün məlhuz) — əgər yanağında (lihzimətih) dağlanmışamsa. O demişdir: مَرَّتْ براكبِ مَلهوزٍ فقال لها … ضُرِّي الجُميحَ ومَسِّيهِ بتعذيبِ (٣) (Məlhuz olan bir süvarinin yanından keçdi, o da ona dedi: Cumeyhə zərər ver və əzabla toxun ona). Qaldı ki, onların فرسٌ مَلهوزٌ (fərisün məlhuz) — yəni xilqəti möhkəm, bərkidilmiş deməkdir sözü, bu da bu qisasa əsasən səhihdir, elə bil ki, onun əti yanlarından qaldırılıb bir-birinə qarışmışdır. Və دائرة اللاهِزِ (dairətü əl-ləhiz): yanaqdakı (lihzimə) dairədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

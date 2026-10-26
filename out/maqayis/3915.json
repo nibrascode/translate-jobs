@@ -1,0 +1,17 @@
+{
+ "i": 3915,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مغر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 339,
+  "page_to": 339
+ },
+ "ar": "الميم والغين والراء * أصلٌ يدلُّ على حُمرةٍ في شَيء، وأصلٌ آخر يدلُّ على ضَربٍ من السَّير.\nفالأوَّل المَغْرَة: الطِّين الأحمر. والأمْغَر: الرّجُل الأحمر الشَّعر والجِلد. والأمْغَر في الخيل: الأشقر ومنه أمْغَرَت الشَّاةُ، إذا حُلِبَت فخرَجَ مع لبنها دمٌ، فإن كانت تلك عادتَها فهي مِمْغار.\nوالأخرى روَى ابنُ السِّكِّيت: مَغَر في البلاد: ذَهَبَ وأسْرع. ورأيته يَمْغَرُ به بعيرُه.\nومما شذَّ من البابين قولهم: مَغَرَتْ في الأرضِ مَغْرَةٌ، وهي مَطْرة صالحة و\nقولُ عبدِ الملك لجرير: «مغِّرْنا (١) يا جرير». أي أنشِدْنا كَلِمَةَ ابنِ مَغْراء، أحدِ شعراءٍ مضر (٢). ومَغْراء: تأنيثُ أمْغَر.",
+ "az": "[مغر] \nMim, ğayn və ra — bir şeydə qırmızılığa, digər bir əsas isə bir növ gedişə dəlalət edən kökdür.\nBirincisi: المَغْرَة (əl-mağrah) — qırmızı gildir. والأمْغَر (əl-amğar) — saçının və dərisinin rəngi qırmızı olan kişidir. Və atlarda الأمْغَر (əl-amğar) — əşqər (al) rəngli deməkdir. Həmçinin أمْغَرَت الشَّاةُ (əmğarat iş-şah) — qoyun sağulduqda südü ilə birlikdə qan çıxması mənasında işlənir, əgər bu onun adətidirsə, o zaman مِمْغار (mimğar) adlanır.\nDigərinə gəldikdə, İbn əs-Sikkit rəvayət etmişdir: مَغَر في البلاد (mağara fi-l-bilad) — getdi və tələsdi. Və mən gördüm ki, onun dəvəsi يَمْغَرُ به (yamğaru bihi) [ilə gedir].\nBu iki باب (qapıdan) istisna olunanlardandır: مَغَرَتْ في الأرضِ مَغْرَةٌ (mağarat fi-l-ərdi mağratun) — bu, yaxşı yağış deməkdir. Və Əbdülməlikin Cərirə dediyi söz: «مغِّرْنا (١) يا جرير» («Bizə oxu, ey Cərir!») — yəni Mudar şairlərindən biri olan İbn Mağranın sözünü bizə oxu (٢). Və مَغْرَاء (Mağraə) — أمْغَر (əl-amğar) sözünün müənnəsidir (qadın cinsində olan formasıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

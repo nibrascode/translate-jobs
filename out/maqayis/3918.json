@@ -1,0 +1,17 @@
+{
+ "i": 3918,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مغل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 340,
+  "page_to": 340
+ },
+ "ar": "الميم والغين واللام أصلانِ صحيحان، أحدهما يدلُّ على داءٍ وفساد، والآخَر ضربٌ من النِّتاج.\nالأوَّل المَغَل: وجعُ البطن، ويكون في الدَّوابِّ عن أَكلِ التُّراب وأمْغَلُوا:\nأصابَ إبلَهم ذلك الدّاء.\nومن الباب الإمغال: إفسادٌ بين النّاس، والوِشاية؛ وهو المَغْل أيضا. ويقال إنَّه صاحب مَغَالَةٍ، إذا فَعَل ذلك.\nوالأصل الآخَر الإمغال في الغنم وغيرِها، وهو أن تُنتَج في السَّنة مرّتين.\nيقال: عَنْزٌ مَغْلة من ذلك، وغَنَم مِغال. ويقال المُمْغِل من النِّساء: التي تَحمل قبلَ فِطام الصَّبي. واللّه أعلَم بالصَّواب.",
+ "az": "[مغل] \nMim, ğayn və lam — iki səhih kökdür, bunlardan biri xəstəliyə və fəsad, digəri isə bir növ nəslə (törəməyə) dəlalət edir.\nBirincisi: المَغَل (əl-mağal) — qarın ağrısıdır, heyvanlarda torpaq yeməkdən baş verir. Və أمْغَلُوا (əmğalu) — onların dəvələrinə həmin xəstəlik üz verdi.\nBu qbildəndir: الإمغال (əl-imğal) — insanlar arasında fitnə-fəsad törətmək və xəbərçilik etmək; bu həm də المَغْل (əl-mağl) adlanır. Deyilir ki, o, مَغَالَة (mağalə) sahibidir, əgər bunu edərsə.\nDigər kök isə qoyunlarda və başqalarında İmsaldır (الإمغال), yəni ildə iki dəfə balalamalarıdır.\nDeyilir: عَنْزٌ مَغْلة (änzün mağluhatun) — bu səbəbdən [ilə] keçi, və qoyunlara مِغال (miğal) deyilir. Və deyilir ki, qadınlardan المُمْغِل (əl-mumğil) — uşağın südəmərlik dövrü qurtarmamışdan əvvəl hamilə qalandır. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

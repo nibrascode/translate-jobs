@@ -1,0 +1,17 @@
+{
+ "i": 3215,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 34,
+  "page_to": 34
+ },
+ "ar": "القاف والهاء والباء أُصَيلٌ يدلُّ على لونٍ من الألوان.\nيقولون: القُهْبَةُ: بياضٌ تعلوهُ حُمْرة. والقَهْبُ من ولد البقرة ما يكون لونُه كذا والقَهْب: الجَبَل العظيم. والأقهبان: الفيلُ والجاموس، وكلُّ ذلك متقارِب.",
+ "az": "[قهب] Qaf, hə və ba rənglərdən bir rəngə dəlalət edən kiçik bir əldir.\nDeyirlər: əl-quhbə (القُهْبَة): üzərinə qırmızılıq çökən ağlıq. Və əl-qəhb (القَهْب) isə inək balasından rəngi belə olanlara deyilir. Və əl-qəhb (القَهْب): böyük dağ. Və əl-qəhban (الأقهبان): fil və camış; bütün bunlar bir-birinə yaxındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.256Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3062,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فثج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 474,
+  "page_to": 474
+ },
+ "ar": "الفاء والثاء والجيم أُصَيل يدلُّ على انقطاعٍ فى شئ ماءٍ أو غيرِه. عَدَا الرّجُل حتى أفثج، أى أعيا (٣). ويقال: بئر لا تُفْثَج، أى لا تُنزَح وقيل ذلك لما قلنا، فلا تُفْثَج أى لا ينقطع ماؤها. ويقال: فَثَجَت النّاقةُ، إذا حالت فلم تَحمِل.",
+ "az": "[فثج] (f-s-j): Fə, sa və cim hərflərindən ibarət kiçik bir kök olub, suda və ya başqa bir şeydə kəsilməyə dəlalət edir. «عَدَا الرّجُل حتى أفثج» (kişi yorulana qədər qaçdı), yəni taqətdən düşdü. Deyilir: «بئر لا تُفْثَج» (suyu tükənməyən quyu), yəni suyu çəkilib qurtarmayan. Dediyimiz səbəbə görə belə deyilmişdir, yəni «لا تُفْثَج» — suyu kəsilməz deməkdir. Deyilir: «فَثَجَت النّاقةُ» (dişi dəvə qısırdıqdan sonra hamilə qalmadı), yəni boğaz olmadı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

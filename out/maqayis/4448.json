@@ -1,0 +1,17 @@
+{
+ "i": 4448,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وأم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 80,
+  "page_to": 80
+ },
+ "ar": "الواو والهمزة والميم. كلمةٌ تدلُّ على موافَقَة ومقاربة. يقولون:\nالوِئام: الموافَقة؛ * ووَاءَمْتُه. ومَثَلُهم:\n* لولا الوئامُ هَلَكَ الأنامُ (١) *",
+ "az": "[وأم] (və-həmzə-mim). Razılığa və yaxınlığa dəlalət edən sözdür. Deyirlər: «الِوئام» (uliam) — razılıq, uyuşma; «وَاءَمْتُه» (mən onunla uyuşdum). Onların məsəli: * «لولا الوئامُ هَلَكَ الأنامُ» (١) * (Əgər qarşılıqlı uyuşma olmasaydı, məxluqat həlak olardı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.748Z"
+}

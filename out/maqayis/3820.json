@@ -1,0 +1,17 @@
+{
+ "i": 3820,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مخج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 305,
+  "page_to": 305
+ },
+ "ar": "الميم والخاء والجيم كلمةٌ واحدة. يقولون: مَخَج البئرَ، إذا خَضْخَضَها. قال:\n* يَزيدُها مَخْجُ الدِّلا جُموما (١) *\nويَكنون به عن البِضاع، فيقال: مَخَجَها. واللّه أعلم بالصَّواب.",
+ "az": "[مخج] (Mim, xə və cim): Bir tək sözdür. Deyirlər ki: «مَخَج البئرَ» (məhəcəl-biəra): quyunu bulandırıb çalxaladı. Şair demişdir:\n* يَزيدُها مَخْجُ الدِّلا جُموما (١) *\nVə bunu cinsi əlaqəyə kinayə olaraq işlədirlər, belə ki, «مَخَجَها» (məhəcəhə) – deyilir. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

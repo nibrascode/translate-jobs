@@ -1,0 +1,17 @@
+{
+ "i": 3688,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لطخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 251,
+  "page_to": 252
+ },
+ "ar": "اللام والطاء والخاء أُصَيلٌ واحدٌ يدلُّ على عَرِّ شيءٍ بشيءٍ.\nمنه يقال: لَطَخْتُ الشَّيءَ بالشيء. وسَكرانُ مُلْطَخٌّ (١)، أي مختلط. وفي السماء لَطْخٌ من السَّحاب، أي قليل. ولُطِخ فلانٌ بشيءٍ: عِيبَ به. قال ابن دُريد (٢):\nوهو ملطوخٌ بالشّرّ وملطوخُ العِرْض. واللّه أعلم بالصَّواب.",
+ "az": "[لطخ] (lətəh) — lam, ta və xa bir şeyin başqa bir şeyə bulaşmasına dəlalət edən kiçik bir kökdür.\nOndandır: لَطَخْتُ الشَّيءَ بالشيء (Mən şeyə başqa şeyi bulaşdırdım). Və سَكرانُ مُلْطَخٌّ (mast olunmuş, sərxoş adam), yəni qarışıq. Göydə لَطْخٌ من السَّحاب (az miqdarda bulud ləkəsi) vardır. Və لُطِف فلانٌ بشيءٍ (filankəs bir şeylə qınandı, eyibləndi). İbn Dürid demişdir (٢): O, şər ilə ləkələnmişdir və abırlı-həyası ləkələnmişdir. Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

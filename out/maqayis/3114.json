@@ -1,0 +1,17 @@
+{
+ "i": 3114,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فرخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 500,
+  "page_to": 500
+ },
+ "ar": "الفاء والراء والخاء كلمةٌ واحدة، ويقاس عليها. فالفَرْخ:\nوَلَد الطَّائر. يقال: أفرَخَ الطَّائر: ويُقاس فيقال: أفْرَخَ الرُّوع: سَكَن.\nوليُفْرِخ رُوعك، قالوا: معناه ليخرج عنك رَوْعُك وليفارقْك، كما يَخرُج الفَرخ عن البيضة. ويقولون: أفرَخَ الأمر: استبانَ بعد اشتِباه. والفُرَيْخ: قينٌ كان فى الجاهليَّة، يُنسَب إليه النِّصال أو السِّهام. قال:\nومقذُوذَين من بُرْى الفُرَيْخ (٢)",
+ "az": "[فرخ] الفاء والراء والخاء كلمةٌ واحدة، ويقاس عليها (Fay, ra və xı tək sözdür və ona qiyas edilir). فَرْخ: وََلَد الطَّائر (Fərx — quş balasıdır). يقال: أفرَخَ الطَّائر (Deyilir: «əfrəxə et-tair» — quş balaladı). ويُقاس فيقال: أفْرَخَ الرُّوع: سَكَن (Və qiyas olunaraq deyilir: «əfrəxə er-ruu» — qorxu səngidi). وليُفْرِخ رُوعك، قالوا: معناه ليخرج عنك رَوْعُك وليفارقْك، كما يَخرُج الفَرخ عن البيضة (Və «liyufrih ruuk» — qorxun səngisin, dedilər: Mənası odur ki, qorxun səndən çıxsın və balanın yumurtadan çıxdığı kimi səni tərk etsin). ويقولون: أفرَخَ الأمر: استبانَ بعد اشتِباه (Və deyirlər: «əfrəxə el-əmər» — iş şübhədən sonra üzə çıxdı). والفُرَيْخ: قينٌ كان فى الجاهليَّة، يُنسَب إليه النِّصال أو السِّهام (Və «əl-furayx» — cahiliyyə dövründə dəmirçi olub, ucluqlar və oxlar ona nisbət edilən kimsədir). قال (Şair demişdir): ومقذُوذَين من بُرْى الفُرَيْخ (٢) (Və Furayxın yonulmasından iki lələklənmiş ox).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:27:33.580Z"
+}

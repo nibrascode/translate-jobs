@@ -1,0 +1,17 @@
+{
+ "i": 4093,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 410,
+  "page_to": 410
+ },
+ "ar": "النون والدال والصاد كلمةٌ إن صحّت. يقولون: نَدَصَتْ عَينُه: جَحَظت ونَدَرت.",
+ "az": "[ندص] (N-D-S) Nun, dal və sad, əgər doğrudursa, bir kəlmədir. Deyirlər: «نَدَصَتْ عَينُه» (gözü nədas oldu), yəni bərəldi və yerindən çıxdı.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

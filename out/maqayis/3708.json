@@ -1,0 +1,17 @@
+{
+ "i": 3708,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لفظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 259,
+  "page_to": 259
+ },
+ "ar": "اللام والفاء والظاء كلمةٌ صحيحة تدلُّ على طرْح الشَّيء؛ وغالب ذلك أن يكون من الفم. تقول: لَفَظ بالكلام يَلْفِظ لَفْظا. ولفظتُ الشّيءَ من فمي. واللاَّفِظَة: الدِّيك، ويقال الرَّحَى، والبحر. وعلى ذلك يفسَّر قوله:\nفأمّا التي سَيْبُها يُرْتَجى … فأجْوَدُ جُوداً من الّلافظهْ (٣)\nوهو شيءٌ ملفوظٌ ولَفِيظ.",
+ "az": "«لفظ» — lam, fa və zai bir şeyi tullamağa dəlalət edən səhih sözdür; bunun da əksəriyyəti ağızdan çıxmağa aid olur. Deyirsən: «لَفَظ بالكلام يَلْفِظ لَفْظا» (lafaża bi-alkalami yalfiżu lafzan). «ولفظتُ الشّيءَ من فمي» (lafażtü ash-shai'a min fami) — şeyi ağzımdan tulladım/çıxardım. «اللاَّفِظَة» (al-lafiżah) — xoruz, həmçinin dəyirman daşı və dəniz mənasında da deyilir. Buna əsasən şu şeir təfsir olunur:\nفأمّا التي سَيْبُها يُرْتَجى … فأجْوَدُ جُوداً من الّلافظهْ (٣)\nVə bu, «ملفوظ» (malfuż) və «لَفِيظ» (lafiż) olunmuş bir şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.564Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3513,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كسب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 179,
+  "page_to": 179
+ },
+ "ar": "الكاف والسين والباء أصلٌ صحيحٌ، وهو يدلُّ على ابتغاء وطلبٍ وإصابة. فالكَسب من ذلك. ويقال كَسَب أهْلَه خيراً، وكسَبْت الرّجلَ مالاً فكَسَبه. وهذا مما جاء على فَعَلْته فَفَعل. وكَسَابِ: اسمُ كَلْبة.",
+ "az": "[كسب] \nКаф, sin və ba – səhih bir kök olub, axtarmağa, tələb etməyə və əldə etməyə dəlalət edir. «الكسب» (əl-kəsb – qazanc) də bundandır. Deyilir: «كَسَب أهْلَه خيراً» (kəsəbə əhləhü xayran – ailəsinə xeyir qazandırdı), «كَسَبْت الرّجُل مالاً فكَسَبه» (kəsəbTür-racülə malən fəkəsəbəhü – kişiyə mal qazandırdım, o da onu qazandı). Bu, «فَعَلْته فَفَعل» (fəəltühü fəfəalə) qibləsindən gələn sözlərdəndir. «كَسَابِ» (kəsabi) – dişi itin adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

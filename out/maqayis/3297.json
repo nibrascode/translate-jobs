@@ -1,0 +1,17 @@
+{
+ "i": 3297,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قره",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 78,
+  "page_to": 78
+ },
+ "ar": "القاف والراء والهاء كلمةٌ إن صحَّت. يقولون: القَرَه في الجلد كالقَلَح في الأسنان، وهو الوَسَخ. يقال: رجلٌ أقْرَهُ وامرأةٌ قَرْهَاء.",
+ "az": "[قره] \nقاف, راء və hə – əgər səhihdirsə, tək bir kəlmədir. Deyirlər ki, dəridəki «القَرَه» (əl-qərəh) dişlərdəki «qələh» kimidir, bu da çirkdir. Deyilir: «رجلٌ أقْرَهُ» (rəcülün əqrəh) – qərəhli kişi və «امرأةٌ قَرْهَاء» (imrətün qərhə) – qərəhli qadın.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:35:15.763Z"
+}

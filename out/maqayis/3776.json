@@ -1,0 +1,17 @@
+{
+ "i": 3776,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ميط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 289,
+  "page_to": 290
+ },
+ "ar": "الميم والياء والطاء كلمةٌ صحيحة تدلُّ على دفع ومدافَعة. ومَاطَه عنه: دَفَعه. ومِطتُ الأذَى عن الطريق. يقال أَمَاطه إماطَةً. ولذلك يقال:\n«هم في هِياطٍ ومِياط». الهِيَاط: الصِّياح، والمِياط: الدَّفْع. وقال الفرّاء:\nتمايَطُوا: تباعدوا وفَسَدَ ما بينهم، تَمَايُطاً.",
+ "az": "[ميط] (mim, ya və ta) — dəf etməyə və müdafiə olunmağa dəlalət edən səhih kəlmədir. مَاطَه عنه (matahu anhu) — onu ondan uzaqlaşdırdı, dəf etdi. مِطتُ الأذَى عن الطريق (mitul-əza anit-tariq) — əziyyəti yoldan kənarlaşdırdım. Deyilir ki, أَمَاطَه إماطَةً (amatahu imatan). Buna görə də deyirlər: «هم في هِياطٍ ومِياط» (onlar hay-küy və çəkişmə içindədirlər). الهِيَاط (əl-hiyat): səslənmək, bağırmaq; المِياط (əl-miyat): dəf etmək, uzaqlaşdırmaqdır. Fəra demişdir: تمايَطُوا (tamayatu) — bir-birlərindən uzaqlaşdılar və aralarındakı münasibət pozuldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

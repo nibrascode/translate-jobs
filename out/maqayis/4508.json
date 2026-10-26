@@ -1,0 +1,17 @@
+{
+ "i": 4508,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وده",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 97,
+  "page_to": 97
+ },
+ "ar": "الواو والدال والهاء: كلمةٌ واحدةٌ. استَوْدَهَت الإبلُ واسْتَيْدَهَت، إذا اجتمعَتْ وانساقت. قال أبو بكر: وَدَهَنى (٤) عن كذا، أى صدَّنى عنه.",
+ "az": "[وده] (və-də-hə): Vov, dal və ha hərfləri tək bir sözdür. استَوْدَهَت الإبلُ واسْتَيْدَهَت (istəvdəhətil-ibəlu və istəydəhət) – dəvələr toplaşıb sürü halında getdikdə. Əbu Bəkr demişdir: وَدَهَنى عن كذا (vədəhəni ‘an kezə) – yəni məni bundan yayındırdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

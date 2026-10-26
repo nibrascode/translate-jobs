@@ -1,0 +1,17 @@
+{
+ "i": 4185,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 452,
+  "page_to": 452
+ },
+ "ar": "النون والغين والميم ليس إلاَّ النَّغْمة: جَرْس الكَلام وحُسْن الصَّوت بالقِراءةِ وغيرها. وهو النَّغْم (١). وتَنَغّم الإنسانُ بالغِناء ونحوِه.",
+ "az": "[نغم] (ن، غ، م) — yalnız النَّغْمة (ən-nəğmə): sözün ahəngi, qiraət və digər işlərdə səsin gözəlliyi deməkdir. Bu, النَّغْم (١) (ən-nəğm) də adlanır. İnsanın mahnı oxumaqla və ya bu kimi şeylərlə səsinə ahəng verməsi تَنَغّم (tənəğğüm) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

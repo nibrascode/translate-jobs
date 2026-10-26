@@ -1,0 +1,17 @@
+{
+ "i": 4484,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 89,
+  "page_to": 89
+ },
+ "ar": "الواو والجيم والحرف المعتلّ: يقولون: تركتُه وما فى قلبى منه أوْجَى، أى يَئِسْت منه. ويقولون: سألتُه فأوجَى علىَّ، أى بَخِلَ عَلَىّ.",
+ "az": "[وجى] الواو والجيم والحرف المعتل (və, cim və zəif hərf) — deyirlər: تَرَكْتُهُ وَمَا فِي قَلْبِهِ مِنْهُ أَوْجَى (onu tərk etdim və qəlbimdə ondan heç bir ümid qalmadı), yəni ümidsizləşdim. Deyirlər: سَأَلْتُهُ فَأَوْجَى عَلَيَّ (ondan istədim, o da mənə xəsislik etdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

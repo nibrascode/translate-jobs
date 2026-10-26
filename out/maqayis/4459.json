@@ -1,0 +1,17 @@
+{
+ "i": 4459,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وبأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 83,
+  "page_to": 83
+ },
+ "ar": "الواو والباء والهمزة كلمةٌ واحدة. هى الوَبَاء. وأرضٌ وَبِئَةٌ على فَعِلة وقد وَبِئَت، وموبوءةٌ وقد وُبِئَتْ. وقولهم: وَبأْتُ إليه وأوبَأْتُ، أى أشرتُ، من باب الإبدال، والأصل الميم. وقد أنشدوا بالباء:\nتَرَىَ النَّاسَ ماسِرنا يَسيُرون خَلْفَنَا … وإنْ نحنُ أوْبأْنا إلى النَّاس وقَّفُوا (١)",
+ "az": "[وبأ] (və-ba-həmzə) tək bir sözdür. O da «الوَبَاء» (vəba - taun, yoluxucu xəstəlik) kəlməsidir. «أرضٌ وَبِئَةٌ» (vəbalı torpaq) «فَعِلة» vəznindədir, artıq «وَبِئَت» (vəbalı oldu) və «موبوءةٌ» (vəbaya yoluxmuş) olmuşdur, «وُبِئَتْ» də deyilir. Onların sözü: «وَبأْتُ إليه وأوبَأْتُ» (ona işarə etdim) — yəni işarə etdim, hərfi əvəzetmə qapısındandır, əsli isə mim hərfidir. Onlar ba hərfi ilə şeir də söyləmişlər: * «تَرَىَ النَّاسَ ماسِرنا يَسيُرون خَلْفَنَا … وإنْ نحنُ أوْبأْنا إلى النَّاس وقَّفُوا» (١) * (Görürsən ki, biz gedərkən insanlar arxamızca yeriyirlər... Əgər biz insanlara işarə etsək, dərhal dayanarlar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

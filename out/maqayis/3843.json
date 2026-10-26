@@ -1,0 +1,17 @@
+{
+ "i": 3843,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 312,
+  "page_to": 312
+ },
+ "ar": "الميم والراء والعين أصلٌ صحيح يدلُّ على خِصْب وخَير. ومَرَعَ المكانُ. وأمْرَعَ القومُ: أصابوه مَرِيعاً. وأمْرَعَ الوادِي: أكلَأَ.",
+ "az": "«مرع» (mim, ra və əyn) — bol bolluğa və xeyirə dəlalət edən səhih bir kökdür. مَرَعَ المَكانُ (marəal-makan) — yer bol otlaqlı oldu. وأمْرَعَ القومُ (əmraəal-qavmu) — bolçuluqla rastlaşdılar. وأمْرَعَ الوادِي (əmraəal-vadi) — vadidə ot bitdi, heyvanlar yedi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

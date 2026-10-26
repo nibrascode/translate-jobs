@@ -1,0 +1,17 @@
+{
+ "i": 3108,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فره",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 496,
+  "page_to": 496
+ },
+ "ar": "الفاء والراء والهاء كلمةٌ تدلُّ على أَشَرٍ وحِذْق. من ذلك الفارِه الحاذِقُ بالشئ. والفَرِه: الأشِر. والفارهة: القينة. وناقةٌ مُفْرِهٌ ومُفْرِهَةٌ، إذا كانت تُنتَجُ الفُرْه.",
+ "az": "[فره] الفاء والراء والهاء كلمةٌ تدلُّ على أَشَرٍ وحِذْق (Fay, ra və hə tək söz olub azğınlığı və mahirliyi göstərir). من ذلك الفارِه الحاذِقُ بالشئ (Ondandır: «farih» — bir işdə mahir olan). والفَرِه: الأشِر (Və «fərih» — azğın, şıltaq). والفارهة: القينة (Və «farihə» — cariyə musiqiçi qız). وناقةٌ مُفْرِهٌ ومُفْرِهَةٌ، إذا كانت تُنتَجُ الفُرْه (Və «mufrih» və «mufrihə» dəvəsi — «furh» — gözəllik və fəallıq verən balalar doğan deməkdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:27:33.580Z"
+}

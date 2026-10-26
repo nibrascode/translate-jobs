@@ -1,0 +1,17 @@
+{
+ "i": 4424,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هنب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 68,
+  "page_to": 68
+ },
+ "ar": "الهاء والنون والباء، ليس فيه إلاَّ هِنْبٌ: اسمُ رجلٍ. وذكر ابن دريد أن الهَنَب: الوَخامَة والثِّقَل (٤). يقال امرأة هَنْبَاء: بلهاء. قال:\n* مجنونةٌ هُنَّبَاءٌ بنتُ مجنونِ (٥) *",
+ "az": "«هنب» (hənəb): Hə, nun və ba hərflərində yalnız هِنْبٌ (hinb) sözü vardır ki, bu da bir kişinin adıdır. İbn Dürid zikr etmişdir ki, الهَنَب (əl-hənəb) — ağırlıq və tənbəllikdir (٤). Deyilir ki: امرأة هَنْبَاء (hənba qadın) — ağılsız, səfeh qadındır. Şair demişdir: * مجنونةٌ هُنَّبَاءٌ بنتُ مجنونِ (٥) * (Dəli bir dəlinin qızı olan hünbəa qız).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

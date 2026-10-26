@@ -1,0 +1,17 @@
+{
+ "i": 4680,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 152,
+  "page_to": 153
+ },
+ "ar": "الياء والميم: كلمةٌ تدلُّ على قَصْدِ الشئِ وتعمُّده وقصده (٣). ومنه قوله تعالى: ﴿فَتَيَمَّمُوا صَعِيداً طَيِّباً﴾. قال الخليل: يقال تَيمَّمْتُ فلاناً بسَهمِى ورُمْحى، إذا قَصَدته دون مَنْ سِواه. وأنشد:\nيَمَّمْته الرُّمْحَ شَزْراً ثم قلتُ له … هذى البَسَالةُ لا لِعْبُ الزّحاليقِ (٤)\nقال الخليل: ومن قال فى هذا البيت أمَّمته فقد أخطأ، لأنَّه قال «شَزْراً» ولا يكون الشَّزْرُ إلاّ من ناحية، وهو لم يقصد به أَمامَه فيقول أمَّمْته. وحكى الشَّيبانىُّ: رجلٌ مُيَمَّمٌ، إذا كان يَظفَر بكلِّ ما طَلَب (١). وأنشد:\nإنا وَجَدْنا أعصُرَ بن سَعْدِ … مُيَمَّمَ البيت رفيع الْجَدِّ (٢)\nوهذا كأنّه يُقصَد بالخَير. فأمَّا البحر فليس من هذا القياس. وحكىَ الخليلُ:\nيُمَّ الرّجُل فهو ميمومٌ، إذا وَقَعَ فى اليَمِّ فَغرِقَ. واليمام طائر، يقال: إنَّه الطَّير الذى يُسْتَفْرَخ فى البُيوت.",
+ "az": "[يم] Ya və Mim: bir şeyi qəsd etməyə, niyrət etməyə və hədəfləməyə dəlalət edən sözdür (3). Uca Allahın bu buyruğu buna misaldır: ﴿فَتَيَمَّمُوا صَعِيداً طَيِّباً﴾ (mənaca tərcümə: təmiz torpaqla təyyəm edin [dəstəmaz və ya qüsl əvəzi təcəssüm edin]). Xəlil demişdir: Deyilir: تَيَمَّمْتُ فُلَانً بِسَهْمِي وَرُمْحِي (Filankəsi oxumla və nizəmlə nişan aldım, hədəflədim), o zaman ki, başqasını deyil, məhz onu qəsd etdin. Şair şeir söyləmişdir: يَمَّمْتُهُ الرُّمْحَ شَزْراً ثُمَّ قُلْتُ لَهُ … هَذَى الْبَسَالَةُ لَا لِعْبُ الزَّحَالِيقِ (4) (Nizəni çəpəki olaraq ona tərəf yönəltdim, sonra ona dedim: budur igidlik, uşaq oyuncağı deyil!). Xəlil demişdir: Kim bu beyt barəsində «أَمَّمْتُهُ» (əmmətuhu) desə, səhvə yol vermişdir; çünki şair «شَزْراً» (çəpəki) demişdir, çəpəki olmaq isə yalnız bir tərəfdən olur. Şair isə onu qarşısındakı kimi qəsd etməmişdir ki, «əmmətuhu» desin. Şeybani rəvayət etmişdir: رَجُلٌ مُيَمَّمٌ (müfəvvəq kişi) — istədiyi hər şeyi əldə edən şəxs (1). Şair demişdir: إِنَّا وَجَدْنَا أَعْصُرَ بْنَ سَعْدِ … مُيَمَّمَ الْبَيْتِ رَفِيعَ الْجَدِّ (2) (Biz A'sur ibn Səddi evin hədəfi seçilmiş, uca ulduzlu [bəxtəvər] tapdıq). Bu, sanki xeyirlə hədəflənən kimidir. Dənizə (əl-yəmm) gəldikdə isə, o, bu qaydaya aid deyil. Xəlil rəvayət etmişdir: يُمَّ الرَّجُلُ فَهُوَ مَيْمُومٌ (Kişi dənizə düşdü, o, dənizdə boğuldu). Əl-yimam isə quşdur, deyilənə görə o, evlərdə bəslənən quşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.329Z"
+}

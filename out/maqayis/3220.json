@@ -1,0 +1,17 @@
+{
+ "i": 3220,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 36,
+  "page_to": 36
+ },
+ "ar": "القاف والهاء واللام كلمةٌ تدلُّ على قَشَف وسُوءِ حال. من ذلك القَهَلُ، وهو التقشُّف. ورجلٌ متقهِّلٌ: لا يتعهَّد جَسدَه بنظافةٍ. ومن الباب أو قريبٍ منه: القَهْل: كُفران الإحسان واستقلالُ النِّعمة. وأَقْهَلَ الرَّجلُ نَفْسَهُ:\nدَنَّسها بما لا يَعْنِيه. والتَّقَهُّل: شَكْوَى الحاجة. قال:\n* لَعْواً متى لاقيتَه تَقَهَّلَا (٢) *\nويقولون: انْقَهَلَ، إذا سَقَط وضَعُف. ويقولون: قَهَلْتُ الرّجُلَ قَهْلاً، إذا أثْنَيْتَ عليه ثناءً قبيحاً.\nومما شذَّ عن هذا وما أدرِى كيف صحَّتُه، يقولون: القَيْهَلة: الطَّلْعة. يقال:\nحَيَّا اللّه قَيْهَلَتَه. وليست بكلمةٍ عَذْبة.",
+ "az": "[قهل] Qaf, hə və lam çirkinliyə və pis hala dəlalət edən bir kəlmədir. Bunlardandır əl-qəhəl (القَهَلُ), o da sərtlik və baxımsızlıqdır. Və kişi «متقهِّلٌ» (mətqəll) olarsa: bədəninə təmizliklə qulluq etməz. Və bu fəsildən və ya ona yaxındır: əl-qəhl (القَهْل): ehsanı danmaq və neməti az hesab etmək. Və «أَقْهَلَ الرَّجلُ نَفْسَهُ» — nəfsini özünə aid olmayan şeylərlə çirkləndirdi. Və ət-təqəhhül (التَّقَهُّل): ehtiyacdan şikayətlənmək. (Şair) demişdir:\n* لَعْواً متى لاقيتَه تَقَهَّلَا (٢) *\nVə deyirlər: «انْقَهَلَ» — yıxıldıqda və zəiflədikdə. Və deyirlər: «قَهَلْتُ الرّجُلَ قَهْلاً» — kişiyə pis təriflə tərif dedikdə.\nVə bundan şaz olanlar və onun səhihliyini necə bildiyim kəlmələrdəndir, deyirlər: əl-qəyhələ (القَيْهَلة): çıxış (və ya ilk çıxan şey). Deyilir: Allah onun qəyhələsini sağ etsin! Bu, şirin (xoş) kəlmə deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.257Z"
+}

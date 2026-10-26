@@ -1,0 +1,17 @@
+{
+ "i": 3266,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قحر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 60,
+  "page_to": 60
+ },
+ "ar": "القاف والحاء والراء كلمةٌ واحدة، وهي القَحْر، يقال إنَّه الفحلُ المُسِنُّ على بقيّةٍ فيه وجَلَد. وقد يقال للرَّجُل. والقُحارِيَةُ مثل القَحْر.\nوامرأة قَحْرةٌ: مُسِنَّة.",
+ "az": "[qحر] «قاف», «حاء» və «راء» tək bir kəlmədir, o da «القَحْر»-dür, deyilir ki, o, özündə qalan gücü və igidliyi olan yaşlı erkəkdir. Həmçinin kişiyə də deyilir. «القُحارِيَة» də «القَحْر» kimidir. Və امرأة قَحْرةٌ (yaşlı, qoca qadın).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:48.341Z"
+}

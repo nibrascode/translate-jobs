@@ -1,8 +1,8 @@
 {
  "book": "maqayis",
  "total": 4703,
- "next": 2981,
- "done": 2981,
+ "next": 4703,
+ "done": 4703,
  "runs": [
   {
    "date": "2026-10-24T18:20:46.829Z",
@@ -68,6 +68,19 @@
    },
    "stop": "quota",
    "to": 2981
+  },
+  {
+   "date": "2026-10-26T00:21:26.378Z",
+   "from": 2981,
+   "entries": 1722,
+   "calls": 110,
+   "models": {
+    "gemini-flash-latest": 1,
+    "gemini-3.5-flash-lite": 105,
+    "gemini-3.1-flash-lite": 4
+   },
+   "stop": "finished",
+   "to": 4703
   }
  ]
 }

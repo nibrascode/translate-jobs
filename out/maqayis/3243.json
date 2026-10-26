@@ -1,0 +1,17 @@
+{
+ "i": 3243,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قاه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 46,
+  "page_to": 46
+ },
+ "ar": "القاف والألف والهاء كلمةٌ. يقولون: القَاه: الطاعةُ والجاه ويُنْشِدون:\n* لَمَا رأَيْنَا لأميرٍ قَاهَا (٢) *",
+ "az": "[قاه] (qah). Qaf, əlif və ha tək bir kəlmədir. Onlar deyirlər: القَاه (əl-qah) — itaət və hörmət (və ya şöhrət/cah). Onlar şeir söyləyirlər:\n* لَمَا رأَيْنَا لأميرٍ قَاهَا (٢) *\n(Biz nə zaman bir əmir üçün onun qahını gördük).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

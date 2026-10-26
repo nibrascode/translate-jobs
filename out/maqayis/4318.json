@@ -1,0 +1,17 @@
+{
+ "i": 4318,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 31,
+  "page_to": 31
+ },
+ "ar": "الهاء والباء والحرف المعتلّ: كلمةٌ تدلُّ على غَبَرة ورقَّة فيها.\nمنه الهَبْوة: الغَبَرة. وهبا الغُبارُ يَهبو فهو هابٍ: سَطع. والهَبَاء: دُقَاق التُّراب.\nقال:\nتَرَوَّد منا بينَ أُذْناهُ ضَربةً … دعَتْه إلى هابِى الترابِ عقِيم (٤)\nوهَبَا الرَّمادُ: اختَلَطَ بالتُّراب وهَمَد. والشَّئُ المنبثُّ الذى راه فى ضوء الشئ: هَباءٌ.",
+ "az": "[هبو] (hə-bu-və): Hə, ba və uzadılan hərf: tozlanmaya və onda olan zəifliyə dəlalət edən kəlmədir.\nOndan الهَبْوة (əl-həbvəh): toz. هبا الغُبارُ يَهبو فهو هابٍ (həba əl-ğubaru yahbu fəhuva habin): toz qopdu, qalxdı. الهَبَاء (əl-həba): xırda toz. Şair demişdir:\nتَرَوَّد منا بينَ أُذْناهُ ضَربةً … دعَتْه إلى هابِى الترابِ عقِيم (٤)\n(Mənası: Bizdən onun iki qulağı arasında bir zərbə istədi ki… onu sonsuz və uçuşan tozun yanına çağırdı).\nهَبَا الرَّمادُ (həba əl-ramad): kül torpaqla qarışdı və sönüldü. Bir şeyin işıqda görünən səpələnmiş zərrəcikləri هَبَاء (həba) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

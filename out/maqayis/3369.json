@@ -1,0 +1,17 @@
+{
+ "i": 3369,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "الكاف والنون أصلٌ واحدٌ يدلُّ على سَتْرٍ أو صون. يقال كنَنْتُ الشيءَ في كِنِّهِ، إذا جعلتَه فيه وصُنتَه. وأكننتُ الشّيءَ: أخفيتُه والكِنانة المعروفة، وهي القياس. ومن الباب الكُنَّة، كالجناح يُخرِجه الرّجل من حائِطِه، وهو كالسُّتْرة. ومن الباب الكَانُون، لأنَّه يستُر ما تحتَه. وربما سمَّوا الرَّجُلَ الثقيلَ كانوناً. قال الحطيئة:\nأغِرْ بالاً إذا استُودِعْتِ سِرًّا … وكانوناً على المتحدِّثينا (١)\nفأمَّا الكَنَّةُ فشاذّةٌ عن هذا الأصل، ويقال إنَّها امرأة الابن. قال:\nإن لنا لَكَنَّهْ … سِمْعَنَّةً نِظْرَنَّهْ (٢)",
+ "az": "[كن] Kaf və nun bir kökdür, örtməyə və ya qorumağa dəlalət edir. «Kənəntuş-şeyə fi kinnihi» (şeyi öz qabında/yerində gizlədim) deyilir, onu oraya qoyub qoruduqda belə deyilir. «Əknəntuş-şeyə»: onu gizlətdim. «Kinana» (ox qabı) məşhurdur və bu kökün ölçüsüdür. Bu qapıdan «kunnə»: insanın divarından çıxardığı qanad kimi bir şeydir, bir növ örtükdür. Bu qapıdan «kanun» (soba), çünki altındakını örtür. Bəzən ağır təbiətli adama da kanun deyirlər. Huteys demişdir: «Sənə sirr əmanət edildikdə qapalı ol, danışanlar üçün isə kanun (örtük) ol (١)». «Kənnə» (gəlin) isə bu kökdən kənarlaşır, deyirlər ki, o, oğulun arvadıdır. O demişdir: «Bizim bir kənnəmiz var... eşidən və baxan (٢)».",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.649Z"
+}

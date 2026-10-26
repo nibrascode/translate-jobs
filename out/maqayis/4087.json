@@ -1,0 +1,17 @@
+{
+ "i": 4087,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 407,
+  "page_to": 407
+ },
+ "ar": "النون والخاء واللام: كلمةٌ تدلُّ على انتقاء الشَّيء واختياره.\nوانتخلته: استقصيت حَتّى أخذتُ أفضلَه. وعندنا أنَّ النَّخلَ سمِّي به لأنَّه أشرف كلِّ شجرٍ ذي ساق، الواحدة نَخْلة، والنَّخْل: نَخلك الدَّقيق بالمُنْخُل، وما سقَطَ منه فهو نُخَالة (٢). والنَّخْل: ضربٌ من الحَلْي على صورة النَّخْل. قال:\n* قد اكتَسَتْ من أرنَبٍ ونَخْلِ (٣) *",
+ "az": "[نخل] (N-X-L) Nun, xa və lam: Bir şeyi seçib ayırmağa dəlalət edən kəlmədir. «انتخلته» (onu intəxə etdim) - ən yaxşısını alana qədər araşdırdım. Bizim yanımızda «النَّخل» (ən-nəxl - xurma ağacı) ona görə belə adlanmışdır ki, o, gövdəli ağacların ən şərəflisidir, təkli «نَخْلة» (nəxlə)dir. «النَّخل» (ən-nəxl) - unu ələklə ələməyindir, ondan düşənə «نُخَالة» (nuhalə - kəpək) deyilir. «النَّخل» (ən-nəxl) - xurma ağacı şəklində olan bir növ bəzəkdir. Şair demişdir: * قد اكتَسَتْ من أرنَبٍ ونَخْلِ (٣) * (O, ərnəb və nəxl (bəzəkləri) ilə bəzənmişdir).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

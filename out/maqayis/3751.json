@@ -1,0 +1,17 @@
+{
+ "i": 3751,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 281,
+  "page_to": 281
+ },
+ "ar": "الميم والهاء والراء أصلانِ يدلُّ أحدُهما على أجرٍ في شيءٍ خاص، والآخر شَيء من الحيوان.\nفالأوّل المَهْر: مَهرُ المرأةِ أجرُها، تقول: مَهَرْتها بغير ألِفٍ، فإذا زوَّجتَها من رجلٍ على مَهْرٍ قلت: أمْهرتُها. قال:\nأُمُّكم ناكحة ضُرَيْسَا … قد أمهَرُوها أعْنُزًا وتَيسا\nوامرأةٌ مَهِيرة ونساءٌ مهائر.\nوالأصل الآخر المُمْهِر: الفرسُ ذات المُهْر. [والمُهْر (١)]: عظم في زَوْر الفَرَس، وهذا تشبيهٌ. قال:\n* جافي اليدينِ عن مُشَاشِ المُهرِ (٢) *",
+ "az": "[مهر] (M-h-r): Mim, hə və ra iki əsas mənanı ifadə edir: bunlardan biri müəyyən bir şey üçün verilən haqq (əcr), diğəri isə heyvan növüdür.\nBirincisi — مَهْر (məhr): qadının məhridir, yəni haqqıdır. Deyirsən: مَهْرْتُهَا (məhərtüha – əlif olmadan). Əgər onu bir kişiyə məhr qarşılığında nikahlasan, أمْهرتُهَا (əmhərtüha) deyərsən. Şair demişdir:\nأُمُّكم ناكحة ضُرَيْسَا … قد أمهَرُوها أعْنُزًا وتَيسا\n(Ananız ُّDürəysə ərə gedir... Ona məhr olaraq keçilər və təkə verdilər).\nوامرأةٌ مَهِيرة (məhirə qadın) və نساءٌ مهائر (məhair qadınlar).\nDigər əsas isə المُمْهِر (əl-mumhir): balası (مُهْر) olan dişi at. [والمُهْر (١)] (vəl-muhr): atın sinəsindəki sümükdür və bu, bir bənzətmədir. Şair demişdir:\n* جافي اليدينِ عن مُشáشِ المُهرِ (٢) *\n(Əlləri cibit-cirov kimi at balasının oynağından uzaq olan...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.990Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3927,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مقع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 343,
+  "page_to": 343
+ },
+ "ar": "الميم والقاف والعين كلمةٌ تدلُّ على نوعٍ من الضَّربِ والرَّمْي.\nومُقِع فلانٌ بالشَّيءِ رُمِيَ به. والمَقْع: أشدُّ الشُّرب. والفصيل يمقَع أُمَّه، إذا رَضِعها. ومن الباب: امتُقِع لونُه: تغيَّر، كأنَّه ضُرِب بشيء حَتَّى يتغيَّر؛ وكذا انتُقِعَ، وسيأتي. واللّه أعلم.",
+ "az": "[مقع] \nMim, qaf və eyn — bir növ zərbəyə və atmağa dəlalət edən kəlmədir.\nVə مُقِع فلانٌ بالشَّيءِ (muqiə fulanun bi-ş-şəyi) — bir şeylə vuruldu/atıldı. Və المَقْع (əl-maqə) — şiddətli içməkdir. Körpə dəvə anasını əmərkən يمقَع أُمَّه (yamqa`u ummah) [edir]. Bu qbildəndir: امتُقِع لونُه (imtuqiə lownuhu) — rəngi dəyişdi, elə bil bir şeylə vurulmuş kimi rəngi dəyişdi; həmçinin انتُقِعَ (intuqiə) də belədir, o da gələcək. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.515Z"
+}

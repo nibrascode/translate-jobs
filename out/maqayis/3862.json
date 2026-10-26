@@ -1,0 +1,17 @@
+{
+ "i": 3862,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مزر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 319,
+  "page_to": 319
+ },
+ "ar": "الميم والزاء والراء كلمتان: الأولى المَزِير: الرّجُل القوِيّ. قال:\nتَرَى الرّجُلَ النَّحِيفَ فتزدريهِ … وفي أثوابِهِ أسدٌ مَزيرُ (٣)\nوالثانية المَزْر: الذوق والشُّرْب القليل، وكذا التمزُّر. وقال:\nتكون بَعدَ الحَسْوِ والتمزُّرِ … في فمِهِ مثلَ عصير السُّكّرِ (٤)\nويقولون: المِزْر: نَبيذ الشَّعير. وإن صحَّ فهو من الباب.",
+ "az": "[مزر] (Məzər) Mim, zay və ra hərfləri iki sözdür: Birincisi: المَزِير (əl-məzir) — güclü kişi. Şair demişdir: تَرَى الرّجُلَ النَّحِيفَ فتزدريهِ … وفي أثوابِهِ أسدٌ مَزيرُ (3) (Arıq kişini görürsən və onu kiçik sayırsan... Halbuki paltarının içində güclü bir şir var). İkincisi: المَزْر (əl-məzr) — dadmaq və az içmək, həmçinin ət-təməzzür (التمزُّر). Şair demişdir: تكون بَعدَ الحَسْوِ والتمزُّرِ … في فمِهِ مثلَ عصير السُّكّرِ (4) (Qurtumlamaqdan və az-az içməkdən sonra onun ağzında şəkər şirəsi kimi olar). Deyirlər ki: المِزْر (əl-mizr) — arpa nəbididir (şərabıdır). Əgər bu səhihdirsə, deməli, buqəbildəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

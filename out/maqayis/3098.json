@@ -1,0 +1,17 @@
+{
+ "i": 3098,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 485,
+  "page_to": 486
+ },
+ "ar": "الفاء والراء والسين أُصَيل يدلُّ على وطءِ الشَّئ ودقِّه.\nيقولون: فَرَسَ عنقَه، إذا دقَّها. ويكون ذلك من دقِّ العُنق (٤) من الذَّبيحة.\nثم صيِّر كلُّ قتلٍ فَرْسا، يقال: فرَسَ الأسدُ فريستَه. وأبو فِراسٍ: الأسد.\nوممكنٌ أن يكون الفَرَس من هذا القياسِ، لركلِهِ الأرضَ بقوائمه ووَطْئِه إيَّاها،\nثمَّ سمِّىَ راكبُه فارساً. يقولون: هو حسَنُ الفُروسيَّة (١) والفَراسة (٢). ومن الباب: التفرُّس فى الشَّئ، كإصابة النَّظر فيه. وقياسه صحيح.",
+ "az": "[فرس] (fərs). Fə, ra və sin hərflərindən ibarət kiçik kök olub bir şeyin üzərinə basmağa və onu əzməyə dəlalət edir. Deyirlər: فَرَسَ عنقَه (boynunu qırdı/əezdi), yəni onu əzdi. Bu, kəsilən heyvanın boynunun qırılmasından ola bilər (٤). Sonra hər bir öldürmə əməli فَرْس (fərs - ovlamaq/öldürmək) adlandırılmışdır, deyilir: فَرَسَ الأسدُ فريستَه (şir ovunu ovladı). أبو فِras (Əbu Firas): şirdir. Mümkündür ki, الْفَرَس (fəras - at) sözü də bu qəbildən olsun, çünki o, ayaqları ilə yeri döyür və tapdalayır, sonra onun minicisinə فارِس (faris - atlı) adı verilmişdir. Deyirlər: o, حَسَنُ الفُروسيَّة (١) (gözəl atçılıq bacarığına malikdir) və حَراسة/فراسة (fərasət) sahibidir (٢). Bu بابdan (bölmədən) biri də: bir şeyi التفرُّس (təfərrüs etmək), yəni baxışda isabətli olmaqdır. Onun ölçüsü səhihdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

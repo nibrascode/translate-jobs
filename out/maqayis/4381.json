@@ -1,0 +1,17 @@
+{
+ "i": 4381,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هصر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 54,
+  "page_to": 54
+ },
+ "ar": "الهاء والصاد والراء: يدلُّ على قَبضٍ على شَئٍ وإمالتِه.\nوهَصَرتُ العُود، إذا أخذْتَه برأسِهِ فأمَلْتَه إليك. قال:\n* هَصَرْتُ بغصنٍ ذِى شَمارِيخَ ميّالِ (٤) *\nوبذلك سمِّى الأسَدُ هَصوراً وهَيْصراً وهَصَّاراً (٥).",
+ "az": "[هصر] (hə-sə-rə): Hə, sad və ra hərfləri bir şeyi tutmağa və onu əyməyə dəlalət edir. «هَصَرتُ العُود» (həsortul-udu) — onu başından tutub özünə tərəf əydiyin zaman deyilir. Şair demişdir: * هَصْتُ بغصنٍ ذِى شَمارِيخَ ميّالِ * (Budaxlı və sallanan bir budaq əydim). Buna görə də aslana «هصور» (həsur), «هَيْصر» (həysər) və «هَصَّار» (həssar) adları verilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

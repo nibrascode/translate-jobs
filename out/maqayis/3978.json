@@ -1,0 +1,17 @@
+{
+ "i": 3978,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "النون والهاء والسين كلمة تدلّ على عضّ على شيء. ونَهَسَ اللّحمَ: قبض عليه ونتره (٢) عند أكله إيّاه. ومنه نَهَسَتْه (٣) الحية.",
+ "az": "[نهس] (NUN, HƏ və SİN) - bir şeyi dişləməyə dəlalət edən sözdür. «نَهَسَ اللّحمَ» - əti yeyərkən onu tutub dartdı. İlanın sancması da bundandır («نَهَسَتْه الحية») (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

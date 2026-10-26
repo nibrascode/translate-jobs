@@ -1,0 +1,17 @@
+{
+ "i": 3076,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 479,
+  "page_to": 479
+ },
+ "ar": "الفاء والحاء والميم أصلانِ، يدلُّ أحدُهما على سوادٍ والآخر على انقطاع.\nفالأوَّل الفحْم ويقال الفَحَم، وهو معروف. قال:\nكالهَبْرَقِىِّ تَنَحَّى ينفُخ الفَحَما (٢)\nويقال: فحَّمَ وجهَه، إذا سوّده. وشعرٌ فاحم: أسود. وفَحمة العِشاء:\nسَواد الظَّلام.\nوالأصل الآخر: بكى الصَّبىّ حتَّى فَحُم (٣)، أى انقطع صوتُه من البُكاء.\nويقال: كلَّمتُه حتى أفحمتُه. وشاعرٌ مُفحَم: أى انقطَعَ عن قول الشَّعْر.",
+ "az": "«فحم» (fə-h-m): Fə, ha və mim hərfləri iki əsasdan ibarətdir; bunlardan biri qaralığa, diğəri isə kəsilməyə dəlalət edir. Birincisi «الفحْم» (fəhm) və ya «الفَحَم» (fəhəm) olub, məlumdur. O demişdir: «Kəl-həbrəqiyyi tənəhhə yənfuful-fəhəmə» (Həbrəqiyi xatırladan kəs kənara çəkilib kömür üfürürdü) (٢). Deyilir: «فَحَّمَ وجهَه» (fəhhəmə vəchəh) - onun üzünü qaraltdı. «شعرٌ فاحم» (şərun fəhim) - qara saç. «فحمة العِشاء» (fəhmatul-işa) - qaranlığın zülməti. Digər əsas: «بكى الصَّبىّ حتَّى فَحُم» (bəkəs-səbiyyu hətta fuhumə) - uşaq ağladı ki, axırda ağlamaqdan səsi kəsildi. Deyilir: «كلَّمتُه حتى أفحمتُه» (Onunla elə danışdım ki, lal etdim / sözünü kəsdim). «شاعرٌ مُفحَم» (şairun mufhəm) - yəni şeir deməkdən səsi və ya sözü kəsilmiş şair.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

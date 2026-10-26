@@ -1,0 +1,17 @@
+{
+ "i": 4651,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 144,
+  "page_to": 144
+ },
+ "ar": "الواو واللام والسين: كلمةٌ تدلُّ على ضَربٍ من السَّير.\nالوَلَسَان: العَنَق (١) فى السَّير.",
+ "az": "«ولس» (vələs). Vəv, lam və sin: bir növ gedişə dəlalət edən bir kəlmədir. اَلْوَلَسَانُ (vələsan) — gedişdə اَلْعَنَقُ (anəq - dəvənin xüsusi yerimə tərzi) dir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

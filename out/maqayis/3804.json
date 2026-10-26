@@ -1,0 +1,17 @@
+{
+ "i": 3804,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 299,
+  "page_to": 299
+ },
+ "ar": "الميم والحاء والزاء ليس بشيء، على أنهم يقولون: المَحْز:\nالنِّكاح، ومَحَزَها مَحْزا.",
+ "az": "[محز] (Mim, ha və zay): Əhəmiyyətli bir şey deyil, bircə onu deyirlər ki, «المَحْز» (əl-məhz): cinsi əlaqədir, «مَحَزَها مَحْزًا» (məhəzəhə məhzən) – yəni onunla yaxınlıq etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

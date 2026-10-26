@@ -1,0 +1,17 @@
+{
+ "i": 3647,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 238,
+  "page_to": 238
+ },
+ "ar": "اللام والحاء والكاف أصلٌ يدلُّ على مُلاءَمة (٣) ومُداخَلة.\nيقال: لُوحِكَ فَقَار النّاقة، فهو مُلاحَكٌ، إذا دَخَل (٤) بعضُه في بعض. ويقال ذلك في البُنْيان أيضاً.",
+ "az": "[لحك] (ləhək) — lam, ha və kaf uyğunlaşmağı və bir-birinə girməyi bildirən əsas kökdür (٣). لُوحِكَ فَقَار النّاقة، فهو مُلاحَكٌ (luvhikə fəqarün-naqəh, fəhüvə mulahək) — dəvənin bel sümükləri bir-birinə keçdi, deməli o, bir-birinə keçmişdir, çünki onların bəzisi digərinin evinə daxil olmuşdur (٤). Bu söz tikintiyə də şamil edilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

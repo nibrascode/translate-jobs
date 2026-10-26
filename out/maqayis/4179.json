@@ -1,0 +1,17 @@
+{
+ "i": 4179,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نعش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 450,
+  "page_to": 451
+ },
+ "ar": "النون والعين والشين أصلٌ صحيح يدلُّ على رَفعٍ وارتفاع.\nقال الخليل: النَّعْش: سَرير الميّت، كذا تعرفه العرب. وميِّتٌ منعوشٌ: محمولٌ على النَّعش. وانتَعَش الطّائر: نهض عن عَثرته. يقال: نَعَشَه اللّهُ وأنعَشَه. قال ابن السِّكِّيت: لا يقال أنْعَشَه. وبناتُ نعشٍ: كواكب. وهذا تشبيه. قال:\nأبو بكر (٣): النَّعش شبه مِحَفَّةٍ يُحمَل عليه المَلِك إذا مَرِض، ليس بنَعْشِ الميّت.\nوأَنْشَد:\nألَمْ ترَ خيرَ النَّاسِ أصبَحَ نعشُه … على فِتيةٍ قد جاوَزَ الحىَّ سائرا (٤)\nثمَّ يقول:\n* ونحن لديه نسألُ اللّهَ خُلْدَه (١) *\nفهذل يدلُّ على أنَّه ليس بميِّت.",
+ "az": "«نعş» (nəş): Nun, eyn və şin hərfləri ucaltmağa və hündürlüyə dəlalət edən səhih bir kökdür. Xəlil demişdir: «النَّعْش» (nəş) – meyit çarpayısıdır, ərəblər onu belə tanıyırlar. «ميِّتٌ منعوشٌ» (məyyitün mən-uşün) – cənazə zənbilində/tabutda daşınan ölüdür. «انتَعَش الطّائر» (intəəş əl-tair) – quş büdrəməsindən qalxdı. Deyilir: «نَعَشَه اللّهُ وأنعَشَه» (Allah onu ucaltdı və qaldırdı). İbn əs-Sikkit demişdir: «أنْعَشَه» (əncəşə) deyilməz. «بناتُ نعشٍ» (bənatu nəş) – ulduzlardır. Bu, bənzətmədir. Əbu Bəkr demişdir: «النَّعْش» – hökmdar xəstələndikdə üzərində daşındığı səbətəbənzər bir şeydir, meyit tabutu deyildir. Və şeir söylədi: «ألَمْ ترَ خيرَ النَّاسِ أصبَحَ نعشُه … على فِتيةٍ قد جاوَزَ الحىَّ سائرا» (Görmədinmi ki, insanların ən xeyirlisinin cənazəsi... qəbiləni keçib gedən gənclərin çiyinlərindədir). Sonra deyir: «ونحن لديه نسألُ اللّهَ خُلْدَه» (Biz də onun yanında Allahdan onun əbədiyyətini diləyirik). Bu da onun ölü olmadığını göstərir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:16.219Z"
+}

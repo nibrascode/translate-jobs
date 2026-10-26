@@ -1,0 +1,17 @@
+{
+ "i": 3001,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فلذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 450,
+  "page_to": 451
+ },
+ "ar": "الفاء واللام والذال أُصَيلٌ يدلُّ على قَطْع شئٍ من شئ. من ذلك الفِلْذة: القِطْعة من الكَبِد، والجمع فِلْذ. قال:\nتكفيه حُزَّةُ فِلْذٍ إنْ أَلَمّ بها … من الشِّواء ويُروى شربَه الغُمَرُ (٣)\nفالقِطْعة من المال فِلْذةٌ أيضاً. يقال فَلَذْتُ له من مالى، أى قطعت له فِلْدةً منه.",
+ "az": "[فلذ] (fə-lə-ذ). Fə, lam və zal hərfi kiçik əsas olub, bir şeydən başqa bir şeyi kəsib qoparmağa dəlalət edir. Bunlardan biri «الفِلْذة» — ciyər tikəsidir, cəmi «فِلْذ» gəlir. Şair demişdir:\nتكفيه حُزَّةُ فِلْذٍ إنْ أَلَمّ بها … من الشِّواء ويُروى شربَه الغُمَرُ (3)\\nMal-dövlətdən olan hissə də «فِلْذة» adlanır. «فَلَذْتُ له من مالى» — yəni malımdan ona bir tikə kəsdim, verdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:24:42.634Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3532,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كعس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 186,
+  "page_to": 186
+ },
+ "ar": "الكاف والعين والسين. يقولون: الكَعْس: عَظْم في السُّلامي. والجمع كِعاسٌ.",
+ "az": "[كعس] (kə-ِcə-sə). Kaf, ayn və sin hərfləri. Deyirlər: «الكَعْس» (əl-Kəsl/əl-Kəb): barmaq sümüklərində olan sümük. Cəmi «كِعاسٌ» (kəslər) gələr.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

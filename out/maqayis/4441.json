@@ -1,0 +1,17 @@
+{
+ "i": 4441,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ويح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 77,
+  "page_to": 77
+ },
+ "ar": "الواو والياء والحاء. يقال وَيْح (٥): كلمةُ رحمةٍ لمن تنزل به بَليّة. قال الخليل: لم يسمع على بنائه إلاَّ وَيْح، وَوَيْس، وَوَيْه، وَوَيْل، وَوَيْب.\nوهى متقارِبة المعنى.",
+ "az": "[ويح] (Vav, ya və hə). Deyilir ki, vəyh (وَيْح) (٥) — müsibət üz verən kəs üçün mərhəmət kəlməsidir. Xəlil demişdir: Onun binasında yalnız vəyh (وَيْح), vəys (وَيْس), vəyh (وَيْه), vəyl (وَيْل), vəyb (وَيْب) eşidilmişdir.\nVə onlar mənaca bir-birinə yaxındır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

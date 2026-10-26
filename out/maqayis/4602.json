@@ -1,0 +1,17 @@
+{
+ "i": 4602,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وغا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 127,
+  "page_to": 127
+ },
+ "ar": "الواو والغين والحرف المعتلُّ. الصحيحُ منه الوَغَى: الْجَلَبَة والأصوات. وكلمةٌ يقال إنَّ الأواغِى (٢): مَفاجِرُ الدِّبَار فى المَزَارع.",
+ "az": "[وغا] الواو والغين və uzanan hərf. Bunlardan səhih olanı الوَغَى (əl-vəğə): səs-küy və qışqırıqdır. Və bir söz də var ki, deyirlər: الأواغِى (əl-əvaği): əkin sahələrində suyun axdığı mənbələrdir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

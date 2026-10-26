@@ -1,0 +1,17 @@
+{
+ "i": 4142,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نصع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 431,
+  "page_to": 431
+ },
+ "ar": "النون والصاد والعين أصلٌ يدلُّ على خلوص ولين في الشَّيء. منه النَّاصع: الحَسَن اللَّون الشَّديد * البَياض. والنِّصْع: ضربٌ من الثِّياب شديد البَيَاض. ونَصَع الحقُّ: وضَح.\nومن بابِ السُّهولة واللِّين، وهو القياس الذى ذكرناه، أنْصَعَت النَّاقةُ للفَحل:\nأقرَّتْ له. ويقال: قَبَحَ اللّهُ أُمَّا نَصَعَتْ [به (١)]، أي ولدَتْه، حكاه ابنُ السِّكِّيت.\nوالمَنَاصِع: المجالس: سمِّيت بها لأنَّها في أسهل المواضع وأمْكَنِها.\nوشذَّ عن هذا قولُهم: أنْصَعَ: اقشعرَّ. قال:\n* حتَّى اقشعَرَّ جِلْدُه وأنْصَعا (٢) *",
+ "az": "«نصع» (نصع): Nun, Sad və Eyn bir şeyin saf və yumşaq olmasına dəlalət edən bir kökdür. Bunlardandır: «النَّاصع» (ən-nasic): rəngi gözəl və çox ağ olan. «النِّصْع» (ən-nis': ağ rəngli parçaların bir növü. «نَصَع الحقُّ» (nəşəyə əl-həqqu): həqiqət aşkar oldu. Asanlıq və yumşaqlıq babından — ki, bu da qeyd etdiyimiz qaydadır — «أنْصَعَت النَّاقةُ للفَحل» (ənşəhət əl-naqətu li əl-fəhli): dişi dəvə erkək dəvəyə boyun əydi, təslim oldu. Deyilir: «قَبَحَ اللّهُ أُمَّا نَصَعَتْ [به]» (qabahə Allahü ummən nəşəhət bihi), yəni onu doğan ana qandaxsın, bunu İbn əs-Sikkit rəvayət etmişdir. «المَنَاصِع» (əl-manasi': məclislər; ona görə belə adlandırılmışdır ki, onlar ən asan və ən əlverişli yerlərdədir. Bunlardan istisna olaraq deyilmişdir: «أنْصَعَ» (ənşəhə): qorxudan tükləri ürpəşdi. Şair demişdir: * حتَّى اقشعَرَّ جِلْدُه وأنْصَعا * (Həttə iqşərrə cildühü və ənşəhə - ta ki dərisi ürpəşdi və titrədi) (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.782Z"
+}

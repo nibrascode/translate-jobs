@@ -1,0 +1,17 @@
+{
+ "i": 4294,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 24,
+  "page_to": 24
+ },
+ "ar": "الهاء والياء والضاد كلمةٌ واحدةٌ تدلُّ على كَسرِ شئٍ، وما أشبَهَه. يقال: هاضَ عَظْمَه: كَسَرَه بعد الجَبْر. وكذا هِيضَ الإنسانُ: نُكِسَ فى مرضه بعد البُرْء. و\nفى حديث أبى بكر: «إنَّ هذا يَهِيضُك (٣)».",
+ "az": "[هيض] (Heyd): Hə, ya və dad bir şeyin sınmasına və ona bənzər hallara dəlalət edən tək bir sözdür. Deyilir: هاضَ عَظْمَه (ha-a azməhu): sümüyünü sındırdı (qırılandan sonra). Həmçinin هِيضَ الإنسانُ (hi-azə-l-insanu): insan sağaldıqdan sonra xəstəliyi yenidən şiddətləndi. Əbu Bəkrin hədisində gəlmişdir:\n\n«إنَّ هذا يَهِيضُك (3)» (Şübhəsiz ki, bu sənin xəstəliyini qızışdıracaq/yenidən şiddətləndirəcək).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

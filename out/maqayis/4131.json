@@ -1,0 +1,17 @@
+{
+ "i": 4131,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 427,
+  "page_to": 427
+ },
+ "ar": "النون والشين والفاء: أصلٌ صحيح يدلُّ على ولوج ندًى في شيءٍ يأخذه. منه النَّشْف: دخولُ الماءِ في الثَّوب والأرضِ حتى ينتَشِفاهُ. والنَّشْفة:\nحجرٌ، سمِّيت لانتشافها الوسَخ عن مواضعه (٣). والجمع النِّشَف. [ويقال: إنَّ النَّشْف (٤)] في الحياض كالنَّزْح في الرّكايا. والنّاقةُ تُدِرُّ قبل نِتاجها ثم تذهب دِرّتُها. مِنْشَافٌ ونَشُوف.",
+ "az": "«نشف» (ن ش ف): النون, الشين və Fa — bir şeyin özünə çəkdiyi nəmliyin (rütubətin) içəri girməsinə dəlalət edən səhih bir kökdür. «النَّشْف» (nəşf): paltarın və yerin suyu udub özünə çəkməsi, nəticədə onların suyu udmasıdır. «النَّشْفَة» (nəşfə): daş parçasıdır, yerindən kirin-pasın udulması (təmizlənməsi) üçün bu ad verilmişdir (٣). Cəmi: «النِّشَف» (nişəf). [De edilir ki, حياض - su hövzələrindəki «النَّشْف» (nəşf)] ركايا - quyulardakı «النَّزْح» (nəzh - suyu çəkib qurtarmaq) kimidir. Dişi dəvə balalamazdan əvvəl süd verər, sonra südü kəsilər. «مِنْشَاف» (minşaf) və «نَشُوف» (nəşuf).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.781Z"
+}

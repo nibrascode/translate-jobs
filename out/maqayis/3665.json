@@ -1,0 +1,17 @@
+{
+ "i": 3665,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لزق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "اللام والزاء والقاف ليس بأصلٍ، لأنَّه من باب الإبدال.\nيقال لَزِق الشّيء بالشّيء يلزَق، مثل لَصِق.",
+ "az": "[لزق] (Ləzəqə) — Lam, zai və qaf əsas deyil, çünki bu, hərflərin əvəzlənməsi (ibdal) qapısındandır. Deyilir: «لَزِق الشّيء بالشّيء يلزَق» (ləziqeş-şəyü biş-şəyri yəlzəqu) — لَصِق (ləsiqə) kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

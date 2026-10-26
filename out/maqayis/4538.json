@@ -1,0 +1,17 @@
+{
+ "i": 4538,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وسط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 108,
+  "page_to": 108
+ },
+ "ar": "الواو والسين والطاء: بناءٌ صحيح يدلُّ على العَدل والنِّصف.\nوأعْدلُ الشَّئِ: أوسَطُه ووَسَطُه. قال اللّه ﷿: ﴿أُمَّةً وَسَطاً﴾. ويقولون:\nضربتُ وَسَط رأسِه بفتح السين، ووَسْطَ القوم بسكونها. وهو أوسَطُهم حَسَباً، إذا كان فى واسطة قومه وأرفعِهِم محلاًّ. والوَسُوط: بيتٌ من بيوت الشَّعَر أكبرُ من المِظَلَّة. ويقال الوَسُوط من النُّوق كالصَّفوف تَملأُ الإناء.",
+ "az": "«وسط» الواو والسين والطاء (vav, sin və ta): ədalətə və yarıya (orta) dəlalət edən səhih binadır. Bir şeyin ən ədalətlisi - أوسَطُه (əvsətuhu) və وَسَطُه (vəsətuhu)-dur. Uca Allah ﷿ buyurmuşdur: mənaca tərcümə: ﴿أُمَّةً وَسَطاً﴾ (Orta bir ümmət). Deyirlər: ضربتُ وَسَط رأسِه (ḍərəbtü vəsəfə ra’sihi) - sin hərfinin fəthi ilə, və وَسْطَ القوم (vəstə əl-qəvm) - sin hərfinin sükunu ilə. O, öz qovmunun mərkəzində və ən uca məqamında olduqda أوسَطُهم حَسəباً (əvsətuhum həsəbən) - nəcabət baxımından onların ən ortasıdır (orta səviyyəlisidir). الوَسُوط (əl-vəsut) - çadır növlərindən biri olub مِظَلَّة (kölgəlikdən) daha böyükdür. Deyilir ki, dəvələrdən olan وَسُوط (vəsut) qabı dolduran صَفُوف (safuf) kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

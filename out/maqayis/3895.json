@@ -1,0 +1,17 @@
+{
+ "i": 3895,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 332,
+  "page_to": 333
+ },
+ "ar": "الميم والطاء والراء أصلٌ صحيحٌ فيه معنيان: أحدهما الغَيث النّازل من السَّماء، والآخر جِنْسٌ من العَدْو.\nفالأوّل المطَر، ومُطِرْنا مَطراً. وقال ناسٌ: لا يقال أُمْطِرَ إلاّ في العَذاب.\nقال اللّه تعالى: ﴿أُمْطِرَتْ مَطَرَ اَلسَّوْءِ﴾. وتَمَطَّرَ (١) الرَّجُل: تعرَّض للمطَر.\nومنه المستمطِر: طالب الخير.\nوالثاني قولُهم: تمطَّرَ الرَّجُل في الأرض، إذا ذَهَب. والمتمطِّر: الرّاكب الفرس يجري به. وتمطَّرَتْ به فرسُه: جَرَتْ.",
+ "az": "[مطر] \nMim, ta və ra hərfləri iki mənanı ehtiva edən səhih bir kökdür: biri göydən enən yağış, diğəri isə qaçış növüdür.\nBirincisi: المطَر (yağış) — bizə yağış yağdı: مُطِرْنا مَطْراً. Bəzi adamlar demişlər: «أُمْطِرَ» (yağış yağdırıldı) sözü yalnız əzab haqqında işlədilir.\nUca Allah buyurmuşdur: ﴿أُمْطِرَتْ مَطَرَ اَلسَّوْءِ﴾ mənaca tərcümə: «Onlara pislik yağmuru yağdırılmışdı». Və كِتَمانُ (١) — kişi yağışa məruz qaldı.\nOndandır: المستمطِر — xeyir axtaran.\nİkincisi: onların «تمطَّرَ الرَّجُل في الأرض» sözüdür, yəni yer üzündə gedib çıxdı. Və المتمطِّر — atlı, at onu qaçırır. Və «تمطَّرَتْ به فرسُه» — atı onu qaçırdı (çapdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

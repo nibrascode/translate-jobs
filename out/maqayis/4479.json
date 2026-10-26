@@ -1,0 +1,17 @@
+{
+ "i": 4479,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 87,
+  "page_to": 87
+ },
+ "ar": "الواو والجيم والسين: كلمةٌ تدلُّ على إحساس بشئٍ وتسمُّعٍ له. تَوَجَّسَ الشَّئَ: أحَسَّ به فتسمَّعَ له. قال اللّه تعالى: ﴿فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُوسى﴾، ثمَّ قال ذو الرُّمَّة:\n* إذا توجَّسَ (٤) *\nومما شَذَّ عن هذا وهو من الكلام المُشِكل: قولهم: لا أَفعَلُه سَجِيسَ الأوْجَسِ: الدَّهْر. وما ذُقْتُ عِنده أوجَسَ، أى شيئاً من الطَّعام.",
+ "az": "[وجس] الواو والجيم والسين (və, cim və sin) — bir şeyin hiss edilməsinə və ona qulaq asılmasına dəlalət edən sözdür. تَوَجَّسَ الشَّيْءَ (şeyi hiss etdi): onu hiss edib qulaq asdı. Uca Allah buyurmuşdur: ﴿فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُوسى﴾ مənaca tərcümə: «Musa ürəyində bir qorxu hiss etdi». Sonra Züр-Rümf demişdir: * إِذَا تَوَجَّسَ (٤) * (qulaq asıb hiss etdikdə). Bundan istisna olunan və çətin anlaşılan sözlərdən biri də onların: لَا أَفْعَلُهُ سَجِيسَ الْأَوْجَسِ (bunu əsla etməyəcəyəm) — yəni «əbədiyyən» deməsidir. Və وَمَا ذُقْتُ عِنْدَهُ أَوْجَسَ (mən onun yanında heç bir şey dadmadım) — yəni yeməkdən heç bir şey (dadmadım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

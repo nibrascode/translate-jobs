@@ -1,0 +1,17 @@
+{
+ "i": 3027,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فوض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 460,
+  "page_to": 460
+ },
+ "ar": "الفاء والواو والضاد أصلٌ صحيحٌ يدلُّ على اتّكال فى الأمر على آخَر وردِّه عليه، ثم يفرَّع فيردّ إليه ما يُشبهه. من ذلك فوَّضَ إليه أمرَه، إذا ردَّه. قال اللّه تعالى فى قصّةِ من قال: ﴿وَأُفَوِّضُ أَمْرِي إِلَى اَللّهِ﴾.\nومن ذلك قولُهم: باتوا فَوْضَى (١)، أى مختلطين، ومعناه أنّ كلاًّ فوَّض أمرَه إلى الآخَر. قال:\nطعامُهم فوضَى فَضاً فى رحالِهِمْ … ولا يُحْسِنون السِّرَّ إلا تنادِيا (٢)\nويقال: مالُهم فوضَى بينهم، إذا لم يخالِفْ أحدُهم الآخَر. وتفاوَضَ الشَّريكان فى المال، إذا اشتركا ففوَّض كلٌّ أمرَه إلى صاحبه (٣)، هذا راضٍ بما صنع ذاك وذاك راضٍ بما صنع هذا، ممَّا أجازته الشَّريعة.",
+ "az": "«فوض» (fəwəd): Fə, vau və dad hərfləri bir işdə başqasına güvənməyə və işi ona həvalə etməyə dəlalət edən səhih bir əsasdır, sonra buradan bənzər işləri də ona qaytarmaq mənası törədilmişdir. Bunlardan biri «فوَّضَ إليه أمرَه» (fəwwədə ileyhi əmrəh) — işini ona həvalə etdi, sözüdür. Uca Allah bu haqda buyurmuşdur: ﴿وَأُفَوِّضُ أَمْرِي إِلَى اَللّهِ﴾ (Və mən işimi Allaha həvalə edirəm).\nHəmçinin onların bu sözüdür: «باتوا فَوْضَى» (batu fəwda) — yəni qarışıq halda gecələdilər, mənası budur ki, hər biri öz işini digərinə tapşırmışdı. Şair demişdir:\nTəamühüm fəwdən fadən fi rihalihim … və la yühsinun əs-sirrə illə tənadiyə (٢)\n(Yeməkləri yük yerlərində səpələnmiş və qarışıqdır, onlar nidadan başqa sirr saxlamağı bacarmazlar...)\nDeyilir: «مالُهم فوضَى بينهم» (malühüm fəwdən beynəhüm) — malları aralarında bərabər və ortaqdır, heç biri digərinə qarşı çıxmaz. İki tərəfdaş malda «تفاوَضَ الشَّريكان» (təfawadə əş-şərikan) etdikdə, yəni ortaq olub hər biri öz işini digərinə həvalə etdikdə, o, o birinin etdiyindən razıdır, bu da bunun etdiyindən razıdır — şəriətin icazə verdiyi budur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

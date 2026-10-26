@@ -1,0 +1,17 @@
+{
+ "i": 3416,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كنع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 142,
+  "page_to": 142
+ },
+ "ar": "الكاف والنون والعين أصلٌ صحيح يدلُّ على تشنُّجٍ وتقبّض وتجمُّع. من ذلك الكَنَع في الأصابع، وهو تشنُّج وتقبُّض. يقال: كَنِعَتْ أصابعُه تَكنع كَنَعاً. ومنه تكنع فلانٌ بفلانٍ، إذا ضَبِث به. وكَنَعَت العُقاب إذا ضمَّت جناحَها للانقضاض. واكتَنَع القومُ، إذا مالوا (١). [و] كَنَع الأمرُ:\nقرُب. ويقولون: كَنَع الرّجلُ وأكنَع، إذا لان. وهذا من الباب لأنه يتقبَّض ويتجمَّع. و\nفى الحديث: «أعوذُ بك من الكُنُوع (٢)». فهذا من كَنَع.",
+ "az": "[كنع] Kaf, nun və eyn büzüşməyə, yığılmağa və toplanmağa dəlalət edən səhih bir kökdür. Bunlardan biri də barmaqlardakı «الكَنَع» (kənəc) olub, barmaqların büzüşməsi və yığılmasıdır. Deyilir: «كَنِعَتْ أصابعُه تَكنع كَنَعاً» (barmaqları büzüşdü). Həmçinin «تكنع فلانٌ بفلانٍ» — filankəs filankəsə möhkəm yapışdı. «كَنعَت العُقاب» — qartal şığımaq üçün qanadlarını yığdı. «اكتَنَع القومُ» — qövm yana əyildi. [Və] «كَنَع الأمرُ» — iş yaxınlaşdı. Deyirlər: «كَنَع الرّجلُ وأكنَع» (kişi yumşaldı). Bu da həmin babdəndir, çünki o, büzüşür və yığcamlaşır. Hədisdə gəlmişdir: «أعوذُ بك من الكُنُوع (٢)» (Mən Kənucdan Sənə sığınıram). Bu da كَنَع (kənəc) sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.166Z"
+}

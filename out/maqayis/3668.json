@@ -1,0 +1,17 @@
+{
+ "i": 3668,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لزن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 245,
+  "page_to": 245
+ },
+ "ar": "اللام والزاء والنون يدلُّ على ضِيقٍ في شيء أو تضايُقٍ.\nيقال: عَيْشٌ لَزْنٌ، أي ضيِّق. واللَّزَن: اجتماع القوم على البئر مزدحمين. يقال:\nمَشْرَبٌ لزِنٌ، إذا ازدُحِمَ عليه. واللّه أعلم بالصَّواب.",
+ "az": "[لزن] (Ləzənə) — Lam, zai və nun bir şeydə sıxlığa və ya daralmaya dəlalət edir. Deyilir: «عَيْشٌ لَزْنٌ» (ayşun ləznun) — yəni dar və sıxıntılı həyat. وَاللَّزَن (əl-ləzən) — insanların quyu ətrafında sıxlaşaraq toplaşmasıdır. Deyilir: «مَشْرَبٌ لزِنٌ» (məşrabun ləzinun) — ətrafında basabas olan su mənbəyi.\nƏn doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3900,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "الميم والعين والكاف أصلٌ صحيحٌ يدلُّ على دَلْك الشيء وَليِّه. ومَعَكْتُ الأديم مَعْكاً. ثم يسمّون المِطَالَ واللَّىَّ مَعْكا، والرّجُلَ المَطول مَعِكاً. قال زهير:\nلا … تَمعَكْ بعرضك إنَّ الغادِرَ المَعِكُ (٣)\nقال الخليل: رجل مَعْكٌ: شديد الخُصومة. وقولهم: وقَعَ في معكوكاء شيء، يجوز أن يكون الإبدال والأصل بعكوكاء.",
+ "az": "[معك] \nMim, eyn və kaf hərfləri bir şeyi ovuşdurmağa və yumşaltmağa dəlalət edən səhih bir kökdür. Və مَعَكْتُ الأديم مَعْكاً (Dərini ovuşdurub yumşaltdım). Sonra borcu yubatmağı və inadkarlığı معك adlandırırlar, çox yubadan kişiyə isə مَعِك (məkik/inadkar) deyirlər. Züheyr demişdir:\nلا … تَمعَكْ بعرضك إنَّ الغادِرَ المَعِكُ (٣)\nmənası: «Namusunla oynama (ləkələmə), çünki xain inadkardır». \nXəlil demişdir: رجل مَعْكٌ — düşmənçiliyində şiddətli olan kişi. Və onların «وقَعَ في معكوكاء شيء» sözü — mümkündür ki, hərf dəyişməsi olsun, əsli isə بعكوكاء-dır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

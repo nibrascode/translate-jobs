@@ -1,0 +1,17 @@
+{
+ "i": 3089,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "الفاء والدال والميم أصلٌ صحيح يدلُّ على خُثورة وثِقَلٍ وقِلّة.\nكلامٍ فى عِىٍّ. من ذلك قولُهم: صِبْغٌ مُفَدَّم (٥)، أى خاثر مشبّع. قالوا: ومن قياسِه الرّجلُ الفَدْم، وهو القليل الكلام مِنْ عِىّ. وهو بيِّنُ الفُدُومة والفَدامة وهذا كلُّه قياسُه الفِدام: الذى تُفَدُّم به الأباريقُ لتصفية ما فيها من شَراب.",
+ "az": "«فدم» (fə-d-m): Fə, dal və mim hərfləri qatı olmağa, ağırçəkiliyə və sözün azlığına dəlalət edən səhih bir əsasdır. Bunlardan biri də onların «صِبْغٌ مُفَدَّم» (sibğun mufəddəm) - yəni qatılaşdırılmış, boyası tam hopdurulmuş boya sözüdür. Onlar demişlər: Bu qiyasdandır «الرّجلُ الفَدْم» (ər-rəculul-fədm), yəni dili tutulduğundan az danışan adamdır. Onun «الفُدُومة» (fudumə) və «الفَدامة» (fədamə) [lal və ya kütbeyin olması] açıq-aydındır. Bütün bunların qiyasının kökü «الفِدام» (fidam) - içindəki içkini süzmək üçün küplərin ağzına bağlanan süzgəcdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.849Z"
+}

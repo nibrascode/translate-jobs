@@ -1,0 +1,17 @@
+{
+ "i": 4296,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 25,
+  "page_to": 25
+ },
+ "ar": "الهاء والياء والعين كلمةٌ واحدة، وهى الهَيْعَة: الصَّوْت الذى.\nيُفْزَع منه ويُخاف. يقال: رجلٌ هاعٌ وهائِع. و\nفى الحديث: «كلما سمعَ هَيْعَةً طار إليها». وقد هَاعَ يَهِيعُ. قال الطرِمَّاحُ:\nأنا ابنُ حماةِ المجدِ مِنْ آلِ مالكٍ … إذا جعلَتْ خُور الرِّجال تَهِيعُ (١)\nأى تَجْبُن.\nويحتمل أنَّ أصلَ الباب الانبساط والاسترسال. والمَهْيَعُ: الطَّرِيق الواسع الواضح. والهَيْعة: سَيَلان الشّئ المصبوب على وَجْه الأرض، أى يَنْبَسط.\nقال الخليل: وأرض هَيْعة: واسعةٌ مبسوطة. متهيِّع: حائر هائع. وكلُّ ذلك من ذلك الأصل.",
+ "az": "[هيع] (Hey-ə): Hə, ya və eyn tək bir sözdür, o da الهَيْعَة (əl-həyə): qorxuducu və vahimə salan səs. Deyilir: رجلٌ هاعٌ وهائِع (raculun haun və haiun). Və hədisdə:\n\n«كلما سمعَ هَيْعَةً طار إليها» (Hər nə vaxt bir həyə – qorxulu səs eşitsəydi, dərhal ora uçardı).\n\nVə o, هَاعَ يَهِيعُ (hə-a yəhiu) felidir. Tərimmah demişdir:\n\nأنا ابنُ حماةِ المجدِ مِنْ آلِ مالكٍ … إذا جعلَتْ خُور الرِّجال تَهِيعُ (1)\n(Mən Malik nəslindən olan şərəf müdafiəçilərinin oğluyam… zəif kişilər qorxub qaçmağa başladığı zaman).\n\nEhtimal olunur ki, bu babın əsli genişlənmək və sərbəst axmaqdır. والمَهْيَعُ (əl-məhyə-u): geniş, açıq yol. والهَيْعَة (əl-həyə): yer üzünə tökülmüş şeyin axması, yəni yayılması.\n\nXəlil demişdir: أرض هَيْعة (ardun həyətün): geniş, yayılmış torpaq. متهيِّع (mətəyyic): çaşqın, qorxmuş. Bütün bunlar həmin əsldəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

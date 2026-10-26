@@ -1,0 +1,17 @@
+{
+ "i": 4398,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هكع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 60,
+  "page_to": 60
+ },
+ "ar": "الهاء والكاف والعين يدلُّ على تطامُنٍ وخُضوع. وهَكَعت البقَرُ تحتَ ظلِّ الشْجر من شِدَّة الحرِّ: سكنَتْ. ويقال للعَظْم إذا انكَسَر بعد جَبْرٍ: قد هَكَع واهتكَع الرّجُل: خَشَع. وهكع اللّيلُ: أرخَى سدولَه.\nوذَهَب فما يُدْرَى أينَ هَكَع، كأنَّه استَخْفَى وتَوارَى، كما تهقع البقر.\nوالهَكْعَة (١): الرّجُل العاجز يَهْكَع لكلٍّ، أى يَخشَع. ويقولون:\nالهُكَاع: السَّعال. هَكَع يَهْكَعُ هُكاعاً: سَعَلَ.",
+ "az": "[هكع] (hə-kə-ə): Hə, kaf və eyn hərfləri alçalmağa və xəcalətə, itaətə dəlalət edir. «هَكَعت البقَرُ تحتَ ظلِّ الشْجر من شِدَّة الحرِّ» (həkətil-bəqaru təhtə zilliş-şəcəri min şiddətil-hərr) — inəklər istinin şiddətindən ağacın kölgəsi altında sakitləşdilər. Sınıqdan sonra bitişən sümük haqqında deyilir: «قد هَكَع واهتكَع الرّجُل» (qəd həкә və ihtəkar-racülü) — kişi itaət etdi, boyun əydi. «وهكع اللّيلُ» (və həcəl-ləylü) — gecə pərdələrini saldı. Getdi və harada gizləndiyi bilinmədi, sanki inəklərin gizləndiyi kimi gizləndi və gözə dəymədi. «الهَكْعَة» (əl-həkcə) — hər kəsə boyun əyən, itaət edən aciz adamdır. Deyirlər: «الهُكَاع» (əl-hukac) — öskürəkdir. «هَكَع يَهْكَعُ هُكَاعاً» (həkə yəh’əu hukacən) — öskürdü.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

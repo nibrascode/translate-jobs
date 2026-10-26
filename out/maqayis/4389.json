@@ -1,0 +1,17 @@
+{
+ "i": 4389,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هفا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 57,
+  "page_to": 57
+ },
+ "ar": "الهاء والفاء والحرف المعتل: أصلّ يدلُّ على ذَهاب شئٍ فى خِفّة وسُرعة. وهَفَا الشّئُ فى الهَواءِ يهفُو، إذا ذَهَب، كالصُّوفةِ ونَحوِها. وهفَا الظَّليمُ: عَدَا. وهَفَا القلبُ فى إثْرِ الشَّئ. وهَوَافِى النَّعَم (١): ضُلاَّلُه. وهفا الإنسانُ يُهفُو: زَلَّ وذَهبَ عن الصَّواب، وكذلك هفا، إذا جاعَ. والهَفْوة: الزَّلَّة.",
+ "az": "[هفا] (hə-fə): Hə, fa və mötəbər hərf (uzanan hərf): bir şeyin yüngüllüklə və sürətlə yox olmasına dəlalət edən əsasdır. «وهَفَا الشّئُ فى الهَواءِ يهفُو» (və həfas-şəyü fil-həvai yəhfü) — pambıq və bənzəri şeylər kimi havada gedib yox oldu. «وهفَا الظَّليمُ» (və həfaz-zalimü) — erkən dəvəquşu qaçdı. «وهَفَا القلبُ فى إثْرِ الشَّئ» (və həfal-qalbü fi əsriş-şəy) — qəribə bir şəkildə bir şeyin arxasınca düşdü. «وهَوَافِى النَّعَم» (və həvafin-nəəm) — azmış mal-qara. «وهفا الإنسانُ يُهفُو» (və həfal-insanü yəhfü) — xəta etdi və haqq yoldan uzaqlaşdı, həmçinin acdığı zaman da «həfa» deyilmişdir. «الهَفْوة» (əl-həfvə) — xəta, səhv.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

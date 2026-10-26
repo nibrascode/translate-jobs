@@ -1,0 +1,17 @@
+{
+ "i": 4116,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 419,
+  "page_to": 419
+ },
+ "ar": "النون والسين والغين أصلٌ يدلُّ على غَرْزِ شيء بشيء ونَسغَ الخُبْزةَ: غرزَها بريش الطّائر: وهي المِنْسَغة. ونَسغَت الواشمةُ: غرزَتِ اليدَ بالإبرة. ثم يقولون: نسَغْت الدّابّةَ برِجلي ليثُور. ويتوسَّعون فيه فيقولون:\nنسَغْتُ اللَّبَن بالماء: مَذَقْتُه. ونَسَغَه بالعصا: ضَرَبه.",
+ "az": "[نسغ] (nəsigə): Nun, sin və ğın bir şeyi başqa bir şeyə sancmağa dəlalət edən əsldir. Nəsəğəl-xubzətə (çörəyi quş lələyi ilə sancdı): o, əl-minsəğədir. Nəsəğətil-vaşimə (döymə vuran qadın əli iynə ilə sancdı). Sonra deyirlər: nəsəğtüd-dabbətə biricli liyəsurə (miniyi qovmaq üçün ayağımla vurdum). Və bunu geniş mənada işlədərək deyirlər: nəsəğtül-ləbən bil-mai (südlə suyu qarışdırdım - mədəqətuhu). Və nəsəğəhu bil-asa (onu əsa ilə vurdu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

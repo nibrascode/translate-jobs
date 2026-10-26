@@ -1,0 +1,17 @@
+{
+ "i": 4061,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 394,
+  "page_to": 394
+ },
+ "ar": "النون والجيم والشين أصلٌ صحيح يدلُّ على إثارة شيء.\nمنه النَّجْش: أن تُزايِد فى المبيع بثمنٍ كثير لينظر إليك الناظرُ فيقعَ فيه، وهو الذى جاء\nفي الحديث: «لا تَناجَشُوا». كأنَّ النَّاجشَ استَثارَ تلك الزيادة.\nوالناجش: الذي يُثِير (٤) الصَّيد. ونجَشْتُ الصَّيد: استثرته. وكذا نَجَشَ الإبلَ بنجُشها: جمعها بعد تَفرُّق. قال:\n* غَيرَ السُّرى والسَّائِق النَّجَّاشِ (٥) *\nومن الباب النِّجَاشة: سُرعة المشي. ومرَّ يَنْجُشُ نجيشا (٦). وكأنّه يراد به يُثِير التُّراب في مَشيِه. ويقال إنّ اسمَ النَّجاشِيَّ مشتقٌّ منه.",
+ "az": "«نجش» (n-j-ش): nun, cim və şin hərfidir, bir şeyi hərəkətə gətirməyə, oyatmağa dəlalət edən səhih əsasdır. Bunlardan biri «النَّجْş» (ən-nəcş) – satılan malın qiymətini baxan şəxs aldatmaq üçün yüksək qiymətlə artırmağındır ki, həmin malda aldanıb qalsın. Hədisdə gələn də elə budur: «لا تَناجَشُوا» («Bir-birinizə nəcş etməyin/qiymət qaldırıb aldatmayın»). Guya «النَّاجِش» (ən-naciş) həmin artımı hərəkətə gətirmişdir. «النَّاجِش» (ən-naciş) – ovlayan/qovub çıxarandır (٤). «نجَشْتُ الصَّيد» (nəcəştü əs-seyd) – ovu qovub çıxardım. Həmçinin «نجَشَ الإبلَ» (nəcəşə əl-ibl) – dəvələri səpələnəndən sonra topladı. O demişdir: Gecə səyahətindən və sürücü nəccaşdan başqa (٥). Bu fəsildəndir «النِّجَاشَة» (ən-nicəşə) – gedişin sürəti. «مرَّ يَنْجُشُ نجيشا» (O, nəcış edərək sürətlə keçdi) (٦). Guya bununla gedişində torpağı qaldırıb hərəkətə gətirməsi qəsd olunur. Deyilir ki, «النَّجَاشِيُّ» (ən-Nəkaşi/Nəcaşi) adı buradan götürülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:41.627Z"
+}

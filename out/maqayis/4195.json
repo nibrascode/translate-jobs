@@ -1,0 +1,17 @@
+{
+ "i": 4195,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 456,
+  "page_to": 457
+ },
+ "ar": "النون والفاء والحرف المعتلّ أُصَيلٌ يدلُّ على تعْرِية (٣) شيء من شيءٍ وإبعاده منه. ونَفَيتُ الشّيءَ أُنفيه نفيًا، وانتفى هو انتفاء. والنُّفَاية:\nالرَّدِىُّ يُنفَى. ونَفِيُّ الرِّيحِ: ما تَنفيه من التُّرابِ حتى يصيرَ في أُصولِ الحِيطان.\nونَفِيُّ المطر: ما تنفيه الرِّيحُ أو ترُشُّه. ونَفِيُّ الماء: ما تطاير من الرِّشاءِ على ظهر المائح. قال:\n* على تِلك الجِفَارِ من النّفيِّ *\n***\nوالمهموز منه كلمةٌ واحدة، هي النُّفأُ: قطعٌ من الكلأ متفرّقة من (٤) عُظْم الكلأ، الواحدة نُفَأَة. قال:\nجَادَتْ سوارِيه وآزَرَ نَبتَهُ … نُفَأٌ من الصَّفراءِ والزُّبَّادِ (١)",
+ "az": "[نفي] (ن، ف və hərfi-mötəl) — bir şeyi başqa bir şeydən təmizləməyə və uzaqlaşdırmağa dəlalət edən kiçik bir əsldir. نَفَيتُ الشّيءَ أُنفيه نفيًا (Şeyi uzaqlaşdırdım, uzaqlaşdırıram, uzaqlaşdırma), və انتفى هو انتفاء (O da uzaqlaşdı). وَالنُّفَاية (ən-nufayət): uzaqlaşdırılan pis şey, tullantıdır. وَنَفِيُّ الرِّيحِ (küləyin qovub divarların dibinə topladığı torpaq). وَنَفِيُّ المطر (küləyin uçurduğu və ya səpdiyi yağış damcıları). وَنَفِيُّ الماء (su çəkənin ipindən belinə və ya yerə səpələnən su damcıları). Şair demişdir: * على تِلك الجِفَارِ من النّفيِّ * (* Həmin su hövzələrinin üzərində su səpintiləri var *). Və bu kökdən gələn həmzəli tək söz النُّفأُ (ən-nüfə): əsas otlaqdan ayrı düşmüş ot parçalarıdır, təkliyi نُفَأَة (nüfəət) gələr. Şair demişdir: جَادَتْ سوارِيه وآزَرَ نَبتَهُ … نُفَأٌ من الصَّفراءِ والزُّبَّادِ (١) (...Onun yağmurlu buludları bol yağdı, bitkisini sarı ot və zübbad bitkisinin qırıntıları gücləndirdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

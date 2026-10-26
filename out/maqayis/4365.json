@@ -1,0 +1,17 @@
+{
+ "i": 4365,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 49,
+  "page_to": 50
+ },
+ "ar": "الهاء والراء والدال كلماتٌ تدلُّ على معالجةِ شئِ بصِبْغ أو ما\nأشبَهَه. وثوبٌ مَهرودٌ: صُبِغَ أصْفَرَ. وهَرَّدْتُ الثّوبَ شققته. وهَرَدْت عِرضَه: ثَلَبتُه. وهَرّدْتُ اللّحمَ: أنضجتُه شيئاً، تهريداً.",
+ "az": "«هرد» — الهاء والراء والدال (hə, ra və dal) bir şeyi boyaqla və ya ona bənzər şeylə müalicə etməyə dəlalət edən kəlmələrdir. وثوبٌ مَهرودٌ (sarıya boyanmış paltar). وهَرَّدْتُ الثّوبَ (paltarı parça-parça cırdım). وهَرَدْت عِرضَه (onun namusuna toxundum, ləkələdim). وهَرّدْتُ اللّحمَ (əti bir qədər bişirib yumşaltdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

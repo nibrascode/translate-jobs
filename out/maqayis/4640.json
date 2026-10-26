@@ -1,0 +1,17 @@
+{
+ "i": 4640,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وكف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 139,
+  "page_to": 140
+ },
+ "ar": "الواو والكاف والفاء: أصلٌ صحيح ليست كلِمهُ على قياسٍ واحد. فالوَكْفُ وَكْفُ البيت، وهو الوَكيف أيضا (٤). واستَوْكَف: استَقْطَر.\nوالوِكاف لغةٌ فى الإكاف. والوَكَف: الإثْم والعَيب. والتوكُّف: التَّوقُّع، ولعلّه أصلُه انتظار الوكف. والوَكَفُ: مطمِئنٌّ من الأرض. ووَكَفُ الجبَل:\nأَسافِله قال:\n* يَعلُو دكاكيك ويعلو وَكَفا (١) *\nوالوَكْف * النِّطْع. وليس فى هذا الأمر وَكَفٌ، أى فسادٌ وضَعْف.",
+ "az": "«وكف» (vəkaf). Vəv, kaf və fa: vahid bir ölçüyə dayanmayan səhih bir kökdür. اَلْوَكْفُ (vəkf) — evindamcısıdır, həmçinin اَلْوَكِيفُ (vəKif) də deyilir (٤). اِسْتَوْكَفَ (istəvkəf) — damladı, qətrə-qətrə axıtdı. اَلْوِكَافُ (vikaf) — اِلْكَافُ (ikaf) sözünün ləhcə variantıdır. اَلْوَكَفُ (vəkəf) — günah və eyibdir. اَلتَّوَكُّفُ (təvəkküf) — gözləmək, ehtimalla onun əsli vəkfin gözlənilməsidir. اَلْوَكَفُ (vəkəf) — yerin hamar, alçaq hissəsidir. وَكَفُ الْجَبَلِ (vəkəhul-cəbəl) — dağın ətəkləridir. Şair demişdir: «يَعْلُو دَكَاكِيكَ وَيَعْلُو وَكَفَا» («O,цdüb-təpələri, həm də dağ ətəklərini aşaraq ucalır») (١). اَلْوَكْفُ (vəkf) — dəri süfrədir. اِلَيْكَ فِى هَذَا الْأَمْرِ وَكْفٌ (ləysə fi həzəl-əmr vəkfün) — bu işdə heç bir fəsad və zəiflik yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.059Z"
+}

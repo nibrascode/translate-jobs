@@ -1,0 +1,17 @@
+{
+ "i": 4284,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هوم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 21,
+  "page_to": 21
+ },
+ "ar": "الهاء والواو والميم كلمة. يقولون: هَوَّمَ الرّجُل، إذا هزَّ رأسَه من النُّعاس. وقد هَوَّمْنا. قال:\n* ما تَطعم العينُ نوماً غيرَ تَهويمِ (١) *",
+ "az": "[هوم] (Hom): Hə, vav və mim bir sözdür. Deyirlər ki, هَوَّمَ الرّجُلُ (həvvəmə-r-raculu): kişi yuxulamaqdan başını tərpətdi. Və biz də yuxuladıq. Şair demişdir:\n\n* ما تَطعم العينُ نوماً غيرَ تَهويمِ (1) *\n(Göz təhovimdən – mürgüləməkdən başqa bir yuxu dadmaz).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4127,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 425,
+  "page_to": 426
+ },
+ "ar": "النون والشين والصاد: أصلٌ يدلُّ على ارتفاعٍ في شيء وسموّ. ونَشَصَ السحابُ: ارتفَع. والسَّحابة المرتفِعة البيضاء: النَّشَاصة (٣)، وجمعها نَشَاص (٤). قال امرؤ القيس:\nأضدَّ نَشَاصَ ذي القرنين حَتَّى … تَوَلى عَارِضُ الملِكِ الهمامِ (١)\nونَشَص الوبرُ: ارتفَع. ونَشَصْنا من بلدٍ إلى بلدٍ: ارتفَعْنا. ونَشَصت المرأةُ مثل نَشَزَت. ونَشَصت ثَنِيَّتُه: تحرَّكت وارتفَعتْ من موضعها.",
+ "az": "[نشص] (nəşs) — Nun, şin və sad: bir şeydə hündürlüyə və ucalığa dəlalət edən bir əsasdır. نَشَص السحابُ (Bulud ucaldı). Hündür ağ bulud: النَّشَاصة (ən-nəşasə), cəmi isə نَشَاص (nəşas) olur. İmru əl-Qeys demişdir:\nأضدَّ نَشَاصَ ذي القرنين حَتَّى … تَوَلى عَارِضُ الملِكِ الهمامِ (١)\n(Zül-Qərneynin buludunun ucalığını dəf etdim, ta ki uca və qüdrətli padşahın buludu çəkilib getdi...)\n\nVə نَشَص الوبرُ (Tük ucaldı / qalxdı). نَشَصْنا من بلدٍ إلى بلدٍ (Bir ölkədən başqa ölkəyə yüksəldik / köçdük). Qadın نَشَصت (nəşasət) — نَشَزَت (nəşəzət) kimi. Və نَشَصت ثَنِيَّتُه (Onun ön dişi tərpəndi və yerindən qalxdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:38.830Z"
+}

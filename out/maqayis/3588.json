@@ -1,0 +1,17 @@
+{
+ "i": 3588,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لوث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 219,
+  "page_to": 219
+ },
+ "ar": "اللام والواو والثاء أصلٌ صحيح، يدلُّ على التواءِ واسترخاءِ ولَىِّ الشّيءِ على الشّيء. يقال: لاثَ العِمامةَ يَلُوثها لَوثاً. ويقولون: إنَّ اللُّوثة:\nالاسترخاء، ويقولون: مَسٌّ من الجنون. قال:\nإذاً لَقَامَ بنصري مَعشرٌ خُشُنٌ … عند الحفيظة إنْ ذو لُوثةٍ لانا (٢)\nوالمَلَاثُ: الشَّيء الذي يُلَاث عليه الثَّوب. ويقولون: ناقةٌ ذاتُ لَوْثَة، أي كثيرة اللَّحمِ ضخمة الجِسم. وديمةٌ لَوثاءُ: تَلُوث النَّباتَ بعضَه على بعض. وقولهم:\nالثَاتَ في عمله: أبطأ، من هذا، كأنَّه التوَى واعوجَّ. والمَلَاثُ: الرّجُل الجليل تُلاثُ به الأمور، والجمع مَلَاوِث. قال:\nهلاّ بكيت مَلاوِثاً … من آلِ عبد مناف (٣)\nويقال: إنَّ اللَّويثة: الجماعةُ من النّاس من قبائلَ شتَّى، والمعنى (٤) أنّهم التاثَ بعضُهم إلى بعض، أي مال.",
+ "az": "[لوث] (luv) - Lam, vav və sa hərfləri əyilməyə, boşalmağa və bir şeyi digərinin üzərinə bükməyə dəlalət edən səhih bir kökdür. Deyilir: لاثَ العِمامةَ يَلُوثها لَوثاً (lâbə əl-imâmətə yəluvhə ləvsən) — əamməni başına sardı, bükdü. Deyirlər ki, اللَّوثة (əl-lüvsə): boşalma deməkdir, həmçinin dəliliyin bir əlaməti mənasında da işlədirlər. O demişdir: إذاً لَقَامَ بنصري مَعشرٌ خُشُنٌ … عند الحفيظة إنْ ذو لُوثةٍ لانا (٢) (O halda sərt bir tayfa mənim köməyimə qalxardı... qəzəb vaxtı, əgər lüvsə sahibi yumşalsaydı). Və المَلَاثُ (əl-mələs): paltarın üzərinə büküldüyü şeydir. Deyirlər: ناقةٌ ذاتُ لَوْثَة (nâqatün zâtu ləvsətin) — yəni əti çox, cismi böyük olan dəvə. Və ديمةٌ لَوثاءُ (dimətün ləvsâ-’): bitkiləri bir-birinin üstünə sarıyan səpələnmiş yağış. Və onların الثَاتَ في عمله (əlsâtə fi ‘amalihi): tənbəllik etdi, yubandı sözü də bundandır, sanki büküldü və əyildi. Və المَلَاثُ (əl-mələs): işlərin üzərinə sarıldığı uca kişi, cəmi مَلَاوِثُ (mələvis) olur. O demişdir: هلاّ بكيت مَلاوِثاً … من آلِ عبد مناf (3) (Niyə ağlamadın Əbdü Manaf nəslindən olan mələvislərə...). Deyilir ki, اللَّويثة (əl-lüveysə): müxtəlif qəbilələrdən olan insan qrupudur, mənası odur ki, onlar bir-birinə sarılmış, yəni meyl etmişlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

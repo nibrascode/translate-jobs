@@ -1,0 +1,17 @@
+{
+ "i": 3509,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كسف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 177,
+  "page_to": 178
+ },
+ "ar": "الكاف والسين والفاء أصلٌ يدلُّ على تغيُّر في حالِ الشيء إلى ما لا يُحَبّ، وعلى قطع شيء من شيء. من ذلك كُسُوف القَمر، وهو زوالُ\nضوئه. ويقال: رجلٌ كاسِفُ الوجه، إذا كان عابسا. وهو كاسف البال، أي سيِّئُ الحال.\nوأمَّا القَطْع فيقال: كَسَفَ العُرقوبَ بالسّيف كَسْفًا يكسِفُهُ. والكِسْفة:\nالطَّائفة من الثَّوب، يقال: أعطِنِي كِسفةً من ثوبك. والكِسْفة: القِطعة من الغَيم، قال اللّه * تعالى: ﴿وَإِنْ يَرَوْا كِسْفاً مِنَ اَلسَّماءِ ساقِطاً﴾.",
+ "az": "[كسف] \nКаф, sin və fa – bir şeyin halının xoşagəlməz bir hala dəyişməsinə və bir şeydən digər bir şeyin kəsilməsinə dəlalət edən kökdür. Bunlardandır ayın tutulması mənasında olan «كُسُوف القَمر» (küsufül-qamər) – yəni onun işıqlılığının zail olması. Deyilir: «رجلٌ كاسِفُ الوجه» (rəcülün kasifül-vəch) – qaşqabaqlı, sifəti tutqun olan kişi. «وهو كاسف البال» (və hüvə kasifül-bal) – yəni halı pis olan.\nKəsməyə gəldikdə isə deyilir: «كَسَفَ العُرقوبَ بالسّيف كَسْفًا يكسِفُهُ» (kəsəfəl-urqubə bis-seyfi kəsfən yəksifuhu) – qılıncla vətəri kəsdi. «الكِسْفة» (əl-kisvə) – parça dəstəsi, deyilir: «أعطِنِي كِسفةً من ثوبك» (mənə paltarından bir parça ver). «الكِسْفة» (əl-kisvə) – bulud parcası, Uca Allah buyurmuşdur: ﴿وَإِنْ يَرَوْا كِسْفاً مِنَ اَلسَّماءِ ساقِطاً﴾ (mənaca tərcümə: Əgər göydən bir parça düşdüyünü görsələr).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

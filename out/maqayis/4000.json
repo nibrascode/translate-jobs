@@ -1,0 +1,17 @@
+{
+ "i": 4000,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 371,
+  "page_to": 372
+ },
+ "ar": "النون والواو والقاف أصلٌ يدل على سموٍّ وارتفاع. وأرْفَعُ موضعٍ في الجبل نِيقٌ، والأصل الواو، وحوّلت ياءً للكسرة التي قبلها. وممكنٌ أن يكون النَّاقةُ من هذا القياس، لارتفاع خَلْقِها. وناقةٌ ونُوق (٣). و «استَنْوَق الجملُ» تشبيهٌ بها، ويضرب مثلاً لمن ذَلَّ بعد عِزّ. والنَّاقة: كواكبُ على هيئة النّاقة (٤). وقولهم: تنوَّقَ في الأمر، إذا بالَغَ فيه، فعندنا أنَّه منه، وهم يشبِّهون الشيءَ بما يستحسنونه، وكأنَّ تنوَّق مقيسٌ على اسم الناقة، وهي عندهم من أحْسَنِ أموالهم. ومن قال تنَوَّق خطأٌ فقد غَلِط (٥)، وقياسه ما ذكرناه. والنِّيقة\nلا تكون إلاّ من تَنوّق. يقولون مثلاً: «خَرْقاءُ ذات نِيقَة»، يُضرَب للجاهل بالشَّيء يدَّعى المعرفة به.",
+ "az": "[نوق] (nuq) - nun, vav və qaf ucalığa və yüksəkliyə dəlalət edən kökdür. Dağın ən yüksək nöqtəsi نِيقٌ (niyqun)dur, əsli vav hərfi ilədir, lakin əvvəlindəki kəsrəyə görə ya hərfiniə çevrilmişdir. Və ola bilər ki, الناقة (ən-naqəh - dəvə) bu ölçüdəndir, çünki onun yaradılışı ucadır. ناقة (naqəh) və نُوق (nuqun) (3). Və «استَنْوَق الجملُ» (dəvə özünü dişi dəvəyə bənzətdi) — ona bənzətmədir, izzətdən sonra zəlil olan kəsə məsəl çəkilir. Və الناقة (ən-naqəh) — dəvə şəklində olan ulduzlardır (4). Və onların تنوَّقَ في الأمر (tənəvvəqə fil-əmri) — işdə həddindən artıq diqqətli və səliqəli olmağı, onu gözəl etməyi tətbiq etməsi sözüdür, bizə görə bu, elə həmin kökdəndir; onlar bəyəndikləri şeyi bir-birinə bənzədirlər, və sanki تنوَّق (tənəvvəq) dəvənin adına əsasən ölçülmüşdür, çünki o, onların ən dəyərli mallarındandır. Kim ki تنَوَّق (tənəvvaqa - təşdidsiz) desə, xəta etmişdir, yanılmışdır (5), onun qaydası isə qeyd etdiyimiz kimidir. Və النِّيقة (ən-niqəh) — yalnız تنوّق (tənəvvüq) nəticəsində olur. Məsələn, məsəl çəkirlər: «خَرْقاءُ ذات نِيقَة» (Zövq və səliqəsi olan səfeh qadın) — bu, bir şeyi bilməyib onu bildiyini iddia edən cahil haqqında məsəl çəkilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

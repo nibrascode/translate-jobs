@@ -1,0 +1,17 @@
+{
+ "i": 3690,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لعن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 252,
+  "page_to": 253
+ },
+ "ar": "اللام والعين والنون أصلٌ صحيحٌ يدلُّ على إبعادٍ وإطرادٍ.\nولَعَنَ اللّهُ الشيطانَ: أبعدَه عن الخير والجَنّة. ويقال للذِّئب لعين، والرّجُل الطَّريد\nلعين. ورجل لُعْنة بالسُّكون: يلعنه النّاس، [ولُعَنة (١)]: كثير اللَّعن. واللِّعان:\nالملاعَنَة. وقال في الطَّرِيد:\nذَعرتُ به القَطَا ونفَيتُ عنه … مَقامَ الذِّئبِ كالرّجُلِ اللّعينِ (٢)",
+ "az": "[لعن] (ləən) — lam, eyn və nun uzaqlaşdırma və qovulmaya dəlalət edən səhih kökdür.\nلَعَنَ اللّهُ الشيطانَ (Allah şeytana lənət etdi) — onu xeyirdən və cənnətdən uzaqlaşdırdı. Canavara لعين (ləin - lənətlənmiş), qovulmuş kişiyə لعين (ləin) deylər. Sükunla رُجُل لُعْنة (lünə) — insanların lənətlədiyi kişi, [ولُعَنة (lünə)]: çox lənətləyən. اللَّعان (əlləən) — qarşılıqlı lənətləşmə (lian). Qovulmuş haqqında demişdir:\nذَعرتُ به القَطَا ونفَيتُ عنه … مَقامَ الذِّئبِ كالرّجُلِ اللّعينِ (٢)\n(Onunla çöl quşlarını qorxutdum və uzaqlaşdırdım... lənətlənmiş kişi kimi canavarın durduğu yeri ondan uzaqlaşdırdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

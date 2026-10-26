@@ -1,0 +1,17 @@
+{
+ "i": 4545,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وسب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 111,
+  "page_to": 111
+ },
+ "ar": "الواو والسين والباء. يقولون: * أوْسَبتِ الأرضُ:\nأعشبَتْ. والنَّبات وِسْبٌ. وكبش مُوَسَّبٌ (١): كثير الصُّوف. حكاه أبو بكر.",
+ "az": "«وسب» الواو والسين والباء (vav, sin və ba). Deyirlər: أوْسَبتِ الأرضُ (əvsəbati əl-ardü) - yer otlaqlı oldu. النبات وِسْبٌ (ən-nəbatu visbün) - bitki isə yaşıl otlaqlıdır. كبش مُوَسَّبٌ (kəbşün müvəssəbün) - yunluqoç (١): çox yunu olan. Bunu Əbu Bəkr rəvayət etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

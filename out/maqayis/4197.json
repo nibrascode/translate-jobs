@@ -1,0 +1,17 @@
+{
+ "i": 4197,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 457,
+  "page_to": 457
+ },
+ "ar": "النون والفاء والثاء أصلٌ صحيح يدلُّ على خروج شيءٍ من فمٍ أو غيره بأدنَى جَرْس. منه نَفَثَ الرّاقِي رِيقَه، وهو أقلُّ من التَّفْل. والساحرة تَنْفُثُ السمّ. و\n«لا بدَّ للمصدور أن يَنْفُث (٢)»\nمثَل. و «لو سألني نُفَاثَةَ سِوَاكٍ ما أعطيته»، وهو ما بقي في أسنانه فنفَثَه. ودمٌ نفيثٌ: نَفَثَهُ الجُرحُ، أي أظهَرَه.",
+ "az": "[نفث] (ن، ف، ث) — ağızdan və ya başqa yerdən azacıq səs çıxararaq bir şeyin bayıra çıxmasına dəlalət edən səhih kökdir. Bunlardan biri نَفَثَ الرّاقِي رِيقَه (ruقية edən, dua oxuyan şəxsin tüpürcəyini üfürməsidir), bu, tüpürməkdən (التَّفْل) daha az miqdardadır. Sehrbaz qadın zəhər üfürür. Və «لا بدَّ للمصدور أن يَنْفُث» («Köksü sıxılan adam mütləq dərdini biruzə verməlidir») məsəldir. Həmçinin «لو سألني نُفَاثَةَ سِوَاكٍ ما أعطيته» («Əgər o məndən misvakın ağızda qalan qırıntısını istəsəydi belə, ona verməzdim»); burada نُفاثة dişlərin arasında qalıb tüpürülən şeydir. وَدمٌ نفيثٌ (nəfiq qan): yaranın bayıra çıxartdığı, üzə çıxardığı qandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3072,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فحص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "الفاء والحاء والصاد أصلٌ صحيح، وهو كالبحث عن الشئ. يقال: فحصت عن الأمر فحصاً. وأُفحوص القَطا: موضِعُها فى الأرض، لأنَّها تفحصه. و\nفى الحديث: «فَحَصُوا عن رءوسهم». كأنَّهم تركوها مثلَ أفاحِيص القَطا فلم يَحلِقُوا * عنها (٥). وفَحَصَ المطرُ التُّرَاب، إذا قلَبَه.",
+ "az": "«فحص» (fə-h-s): Fə, ha və sad hərfləri səhih bir əsas olub, bir şeyi araşdırmağa bənzəyir. Deyilir: «فحصت عن الأمر فحصاً» (məsələni dərindən araşdırdım). «أفحوص القَطا» (əfhusul-qata) - qum cücəsinin yerdəki yuvasıdır, çünki o, oranı dimdiyi ilə qazıb açır. Hədisdə demişdir: «فَحَصُوا عن رءوسهم» (Onlar başlarını qazıb açdılar) - elə bil onları qata quşunun yuvaları kimi tərk etdilər və oradan tüklərini qırxmadılar (٥). Və «فَحَصَ المطرُ التُّرَاب» (yağış torpağı alt-üst etdi) - onu çevirdi demək.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

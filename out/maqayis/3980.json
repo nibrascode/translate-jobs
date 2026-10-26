@@ -1,0 +1,17 @@
+{
+ "i": 3980,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 363,
+  "page_to": 364
+ },
+ "ar": "النون والهاء والضاد أصل يدلّ على حركة في علو. ونهّض من مكانه: قام. وماله ناهِضَة، أي قوم ينهضون في أمره ويقومون به. ويقولون:\nناهضة الرّجل: بنو أبيه الذي يغضبون له. ونَهَضَ النّبتُ: استوى والنّاهض:\nالطائر الذي وَفَرَ جناحاهُ وتهيَّأ للنّهُوضِ والطَّيَران. ونِهاضُ الطّرُق (١): صُعُدها وعَتَبها، الواحدة نهضة. وأنْهُض البَعيرِ (٢): ما بين كَتِفِهِ إلى صُلْبه.",
+ "az": "[نهض] (NUN, HƏ və DAD) - yuxarıya doğru hərəkətə dəlalət edən kökdür. «نهّض من مكانه» - yerindən qalxdı. «وحده ناهِضَة» - yəni onun işində ayağa qalxan və onu yerinə yetirən qövmü. Deyirlər: «ناهضة الرّجل» - onun üçün qəzəblənən atasının oğulları. «ونَهَضَ النّبتُ» - bitki dikəldi. «النّاهض» - qanadları inkişaf etmiş və uçmağa hazılaşan quş. «ونِهاضُ الطّرُق (١)» - yolların yoxuşları və pillələri, təkli «نهضة» gəlir. «وأنهُض البَعيرِ (٢)» - dəvənin çiynindən belinə qədər olan hissəsi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

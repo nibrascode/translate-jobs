@@ -1,0 +1,17 @@
+{
+ "i": 4089,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 408,
+  "page_to": 408
+ },
+ "ar": "النون والخاء والباء كلمةٌ تدلُّ على تَعظُّم (١) يقال أحدهما على خيار شيء، والآخَر على ثَقْبٍ وهَزْم في شيء.\nفالأوَّل النُّخْبة: خيارُ الشَّيء ونُخَبتُه. وانتخبته، وهو مُنتَخَبٌ أي مختار.\nقال أبو زيد: النَّخبة (٢): الشَّربة العظيمة.\nوالأصل الآخر النُّخبة: خَرق الثَّفْر (٣). ومنه نَخَبها: باضَعَها. واستَنْخَبَت المرأةُ، إذا أرادت البِضاع. والرَّجلُ النَّخْب: الذي لا فؤادَ له. والنَّخِيب:\nالذاهب العقل. وهذا محتملٌ أن يكون من الأوَّل، كأنّه حُرِم النُّخبة، أي خيار ما في الإنسان.",
+ "az": "[نخب] (N-X-B) Nun, xa və ba bir kəlmədir ki, böyüklüyə dəlalət edir; deyilir ki, biri bir şeyin xeyirlisinə, digəri isə bir şeydəki deşiyə və çuxura dəlalət edir. Birincisi «النُّخْبة» (ən-nuxbə) - bir şeyin xeyirlisi və seçilmişidir. «انتخبته» (onu intəxəb etdim), o «مُنتَخَب» (muntəxəb)dir, yəni seçilmişdir. Əbu Zeyd demişdir: «النَّخبة» (ən-nuxbə) - böyük bir içimlikdir. Digər əsas «النُّخبة» (ən-nuxbə) - arxa dəliyinin (səfr) deşiyidir. «نَخَبها» (nəxəbəha) - onunla cinsi əlaqədə oldu. «استَنْخَبَت المرأةُ» (qadın istənxəb etdi) - cinsi əlaqə istədikdə. «الرّجلُ النَّخْب» (nəxb kişi) - qəlbi olmayan, qorxaq kimsədir. «النَّخِيب» (ən-nəxib) - ağlı getmiş kimsədir. Bu, birincidən olması mümkündür, sanki o, «نُّخبة» (nuxbə)dən, yəni insanda olan ən xeyirli şeydən məhrum edilmişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

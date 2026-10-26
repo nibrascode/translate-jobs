@@ -1,0 +1,17 @@
+{
+ "i": 4669,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وهص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 148,
+  "page_to": 148
+ },
+ "ar": "الواو والهاء والصاد: كلماتٌ متقاربة، وهى الوهص:\nشِدَّة الوطْءِ للشَّئ (٢) بالقَدَم. يقال: وَهَصَ يَهِصُ. ورجلٌ موهوصُ الخَلْق:\nتَداخَلَتْ عِظامُه. ووَهَصْتُ الشَّئَ: كسَرتُه.",
+ "az": "[وهص] الواو والهاء والصاد (v-h-ص): yaxın mənalı sözlərdir, onlar da vəhsdir: bir şeyin üzərinə ayaqla şiddətlə basmaq (2). Deyilir: وَهَصَ يَهِصُ (basdı, basar). وَرجلٌ مَوْهُوصُ الخَلْق (Süm патоlqiyası bir-birinə keçmiş, bədən quruluşu qarışıq olan kişi). وَوَهَصْتُ الشَّئَ (Mən əşyanı sındırdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

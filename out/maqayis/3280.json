@@ -1,0 +1,17 @@
+{
+ "i": 3280,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قدح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 67,
+  "page_to": 68
+ },
+ "ar": "القاف والدّال والحاء أصلانِ صحيحان، يدلُّ أحدُهما على شيء كالهَزْم في الشيء، والآخر يدلُّ على غَرْفِ شيء.\nفالأوَّل القَدْح: فِعْلُك إذا قَدَحْت الشيء. والقَدْح: تأكُّلٌ يقع في الشَّجر والأسنان. والقَادِحة: الدُّودة تأكل الشَّجرة. ومنه قولُهم: قَدَحَ في نَسَبه: طَعَن.\nوقال في تأكُّل الأسنان:\nرمَى اللّه في عينَيْ بُثينةَ بالقَذَى … وفي الغُرِّ من أنيابها بالقوادحِ (٢)\nومن الباب القِدْح، وهو السَّهْم بلا نَصلٍ ولا قذَذ؛ وكأنَّه سمِّي بذلك يُقْدح به أو يمكنُ القَدْح به. والقِدح: الواحدُ من قِداح الميسر، وهذا على التَّشبيه ومن الباب: قُدِّح الفرسُ تَقْدِيحا، إذا ضمِّر حتى يصير مثل القِدح. ومن الباب:\nقَدَّحَتِ العينُ: غارت. ويقال قَدَحَتْ. وقَدَحْتُ النَّار، وقدحتُ العين:\nأخرجتُ ماءَها الفاسد.\nوالأصل الآخر القَدِيح: ما يبقى في أسفل القِدْر فيُغرَف بجُهْد. قال:\nفظلَّ الإماءُ يبتدِرْن قديحَها … كما ابتدرتْ كلبٌ مياهَ قُرَاقِرِ (١)\nوقَدَحْتُ القِدر: غرفتُ ما فيها. وركيٌّ قَدُوح (٢): تُغْرَف باليد. والقَدَح من الآنية من هذا، لأنّ به يُغْرَف الشيء.",
+ "az": "«قدح» — قاف، دال və hə mənşəli iki səhih əlsə malikdir; bunlardan biri şeydə çuxur kimi bir şeyə, digəri isə bir şeyi qaba, qabdan qovzamağa (götürməyə) dəlalət edir. Birincisi «القَدْح» (əl-qədh) — bir şeyi qazdığın (və ya ləkələdiyin) zaman etdiyin əməldir. «القَدْح» (əl-qədh) — ağaclarda və dişlərdə baş verən yeyilmə (çürümə). «القَادِحة» (əl-qadihə) — ağacı yeyən qurddur. Buradan onların «قَدَحَ في نَسَبه: طَعَن» (nəsbinə qədəhə: tənə etdi) sözü gəlir. Dişlərin yeyilməsi haqqında (şair) demişdir: رمَى اللّه في عينَيْ بُثينةَ بالقَذَى … وفي الغِّر من أنيابها بالقوادحِ (٢) (Allah Büteynənin gözlərinə qəza, ağ dişlərinə isə qadıh-qurdlar atsın). Bu qapıdan olan «القِدْح» (əl-qidh) — ucluğu (nizə ucu) və lələkləri olmayan oxdur; sanki onunla qazıldığı və ya onunla qazmaq mümkün olduğu üçün belə adlandırılmışdır. «القِدح» (əl-qidhc) — maysir (qumar) oxlarından hər biri olub, bu, bənzətmə yoluylatdır. Bu qapıdandır: «قُدِّح الفرسُ تَقْدِيحا» (at tənqid edildi), yəni ox kimi olana qədər arıqladıldı. Bu qapıdandır: «قَدَّحَتِ العينُ» (göz çökdü). Deyilir: «قَدَحَتْ» (qədəhət). «قَدَحْتُ النَّار» ( odu yandırdım) və «قَدَحْت العين» — onun xarab suyunu çıxardım. Digər əl «القَدِيح» (əl-qadih) — qazanın dibində qalan və böyük zəhmətlə qaşınan şeydir. (Şair) demişdir: فظلَّ الإماءُ يبتدِرْن قديحَها … كما ابتدرتْ كلبٌ مياهَ قُرَاقِرِ (١) (Kənizlər onun qədiyini qabaqlamağa başladılar, necə ki Kəlb qəbiləsi Quraqır sularına tələsirdi). «قَدَحْتُ القِدر» — qazandakı şeyi qovzdum (götürdüm). «ركيٌّ قَدُوح» (qəduh quyu) — əllə sudan götürülən quyu. Qablardan olan «القَدَح» (əl-qədəh — kasa) bundan, çünki onunla bir şey götürülür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:34:11.297Z"
+}

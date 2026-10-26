@@ -1,0 +1,17 @@
+{
+ "i": 4444,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وأر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 79,
+  "page_to": 79
+ },
+ "ar": "الواو والهمزة والراء. يقولون: استَوْأرَت الإبلُ: تتابعت.\nوذهب أبو إسحاقَ الزَّجّاجُ إلى أنَّ أصل الباب شِدَّة الحرّ. قال: وَوَئِرَ يومُنا:\nاشتَدّ حرّه وَأَراً (١). [و] يومٌ وئِرٌ. قال: ومنه الْإرةُ: حفرةٌ تكون لمُستَوْقَد النّار. وَوَأَر المكانَ: اتَّخَذَ حفرةً للنّار. قال: والوَأْر: شِدّة الفزَع، كأنَّه فزَعٌ يُحرِق من شِدّته. ووأَرْتُه أَثِرُهُ وَأْراً: أفزَعْته. ووُئِرَ زَيدٌ: ذُعِر.",
+ "az": "[وأر] (Vav, həmzə və ra). Deyirlər: Dəvələr bir-inin ardınca getdi (استَوْأرَت الإبلُ).\nVə Əbu İshaq əz-Zəccaj qənaətə gəlmişdir ki, babın əsli istinin şiddətidir. O demişdir: Günümüz çox qızdı (وَوَئِرَ يومُنا), onun istisi şiddətləndi (وَأَراً) (١). Və isti gün (يومٌ وئِرٌ). O demişdir: Və onlardandır əl-irə (الْإرةُ) — odda isinmək üçün qazılan çuxur. O, çuxur düzəltdi (وَأَر المكانَ). O demişdir: Və əl-vər (الوَأْر) — qorxunun şiddətidir, sanki o şiddətindən yandran bir qorxudur. Mən onu qorxutdum (وأَرْتُه أَثِرُهُ وَأْراً). Və Zeyd qorxutuldu (وُئِرَ زَيدٌ).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

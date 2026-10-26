@@ -1,0 +1,17 @@
+{
+ "i": 4471,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وثن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 85,
+  "page_to": 85
+ },
+ "ar": "الواو والثاء والنون. كلمةٌ واحدة، هى الوَثَن واحد الأوثان:\nحِجارةٌ كانت تُعْبَد. وأصلها قولهم استَوْثَنَ الشّئُ: قَوِىَ. وأوْثَنَ فلانٌ الحِمْلَ: كَثَّره. وأَوثَنْتُ له: أعطيتُه جزيلاً.",
+ "az": "[وثن] (və-sa-nun). Tək bir sözdür, o da «الوَثَن» (vəhən - büt), «الأوثان» (bütlər) sözünün təki: ibadət edilən daşlar. Onun əsli onların bu sözüdür: «استَوْثَنَ الشّئُ» (şey gücləndi) — qüvvətləndi. «أوْثَنَ فلانٌ الحِمْلَ» (filankəs yükü artırdı) — onu çoxaltdı. «أَوثَنْتُ له» (ona çoxlu verdim) — ona bol bəxşiş etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

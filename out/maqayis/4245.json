@@ -1,0 +1,17 @@
+{
+ "i": 4245,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نمس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 480,
+  "page_to": 481
+ },
+ "ar": "النون والميم والسين ثلاثُ كلمات: إحداها تدلُّ على سَتْرٍ شيء، والأُخرى على لونٍ من الألوان، والثالثة على فسادِ شيء من الأشياء.\nفالأولى النَّاموس: وهو صاحب سِرِّ الإنسان. ونَمَسَ: قال: حديثاً في سِرّ\nوستر. والنَّاموس: قُتْرَة الصَّائد. وفي مُصَنَّف الغريب: النَّاموس جَبْرَئِيل ﵇. والأصل كلُّه واحد. ونامَسْتُ فلاناً منامسةً: سارَرْته وجعلتُه موضعاً لسِرِّي. قال ابن دُرَيد: وكلُّ شيءٍ سترتَ به (١) شيئاً فهو ناموسٌ له.\nوالثالثة * النَّمَس: الكَدَر (٢) في اللَّون. يقال القطا النُّمْس، لأنَّ في لونها كُدْرة. والنَّمَس: فسادُ السَّمْنِ والغالية وكلِّ طِيب. والنِّمْس: دُوَيْبَّة، سمِّيت للونها. فأمّا قول حميد (٣):\n* كتَواهُقِ النِّمْسِ *\nفيقال: إنّه أراد هذه الدّوابّ. ورواه أبو سَعِيد: «النُّمْس»، قال: وهي القَطَا جمع أنْمَس.",
+ "az": "[نمس] (sirr saxlamaq, gizlətmək) Nun, mim və sin üç kəlmədir: biri bir şeyi gizlətməyə, digəri rənglərdən birinə, üçüncüsü isə şeylərin bəzilərinin xarab olmasına dəlalət edir. Birincisi النَّاموس (sirdaş): insanın sirr sahibidir. Və نَمَسَ (gizli danışdı): sirr və pərdə içində bir hədis danışdı. Və النَّاموس (ovçunun gizləndiyi yer): ovçunun pusqu yeri. «əl-Müsənnəf əl-Qərib» kitabında: النَّاموس (namus, vəhy mələyi) Cəbraildir əleyhissəlam. Və əsasların hamısı birdir. Və نامَسْتُ فلاناً منامسةً (filankəslə sirr danışdım): ona pıçıldadım və onu sirrimə məhrəm etdim. İbn Dürid demişdir: Bir şeyi gizlətdiyin hər bir şey onun üçün bir ناموس (namus, pərdə) olar. Və üçüncüsü النَّمَس (bulanq rəng): rəngdəki bulanqlıq. Deyilir القطا النُّمْس (bulanq rəngli çöl qartalları), çünki onların rəngində bulanqlıq var. Və النَّمَس (yağın xarab olması): yağın, ətrin və hər cür qoxunun xarab olması. Və النِّمْس (dağsiçanı, mongoose): rənginə görə adlandırılmış kiçik bir heyvandır. Hümeydinin sözünə gəldikdə: * كتَواهُقِ النِّمْسِ * Deyilir ki, o, bu heyvanları nəzərdə tutmuşdur. Əbu Səid isə onu belə rəvayət etmişdir: «النُّمْس», dedi: Onlar أنْمَس (anmas - rəngi bulanıq olan) sözünün cəmi olan çöl qartallarıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4361,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 48,
+  "page_to": 49
+ },
+ "ar": "الهاء والراء والحرف المعتلّ والمهموز، بابٌ لم يُوضَع على قِياسٍ، وأُصولُ كَلمه متباينة وممَّا جاء منه: هَرَوْتَهُ بالهرَاوة: ضربتُه بها. وهَرَّيتُ العمامةَ:\nصَفَّرْتُها. قال ابنُ دريد (٦): الهَرْوُ لا أصْلَ له فى العربيَّة، إلاَّ أنَّ أبا مالكٍ جاء بحرفٍ أنكره أهلُ اللُّغة. قال: هَرَوْتُ اللّحمَ: أنضَجْتُه. وإنما هو هَرَأْته.\n***\nومن المهموز الهُرَاء: المَنْطِق الفاسِد. يقال: أهْرَأَ الرّجُل فى مَنطِقِه. قال:\nلها بَشَرٌ مثل الحرير ومنطِقٌ … رخيمُ الحواشِى لا هُراءٌ ولا نَزْرُ (١)\nوتهرَّأَ اللّحمُ: طُبِخَ حتى يتساقَطَ عن العظْم. وهَرَأَه البَردُ: أصابَتْهُ شِدَّتُه، وكذا أهرأه.",
+ "az": "«هرو» — الهاء والراء (hə, ra), həmçinin zəif və məhmuz hərf; bu qanunauyğunluq üzərində qurulmamış bir babdır, kəlmələrinin kökləri müxtəlifdir. Oradan gələnlərdən biri: هَرَوْتَهُ بالهرَاوة (onu çomaqla vurdum). وهَرَّيتُ العمامةَ (əmmaməni sarı rəngə boyadım). İbn Dureyd demişdir: الهَرْو (hərv) ərəb dilində əsasa malik deyil, lakin Əbu Malik dilçilərin inkar etdiyi bir kəlmə gətirmişdir. O demişdir: هَرَوْتُ اللّحمَ (əti bişirib yumşalttım). Bu isə əslində هَرَأْته (haraətuhu) kəlməsidir. Məhmuz olanlardan isə: الهُرَاء (huraə) — batil və yaramaz söz. Deyilir: أهْرَأَ الرّجُل فى مَنطِقِه (adam danışığında səhvə və batilə yol verdi). O demişdir: لها بَشَرٌ مثل الحرير ومنطِقٌ … رخيمُ الحواشِى لا هُراءٌ ولا نَزْرُ (Onun ipək kimi dəmisi, zərif kənarlı danışığı var, nə batil sözdür, nə də az). وتهرَّأَ اللّحمُ (ət sümükdən tökülənə qədər bişdi). وهَرَأَه البَردُ (soyuğun şiddəti ona toxundu), həmçinin أهرأه (əhrəahu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

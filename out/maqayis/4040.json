@@ -1,0 +1,17 @@
+{
+ "i": 4040,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 386,
+  "page_to": 386
+ },
+ "ar": "النون والتاء والجيم كلمةٌ واحدة، هي النّتاج (١). ونُتِجت النّاقةُ؛ ونَتَجها أهلُها. وفرسٌ نَتُوجٌ: استبانَ نتاجها.",
+ "az": "[نتج] (nətəc): Nun, ta və cim – tək bir kəlmədir, o da «النّتاج» (ən-nitac) – doğulmadır. «نُتِجت النّاقةُ» (nuticət-nəqatu): dişi dəvə balaladı; «ونَتَجها أهلُها» (və nətəcəhə əhluhə): ailəsi onu doğurtdu. «فرسٌ نَتُوجٌ» (fərasun nətuqun): doğması bəlli olan dişi at.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

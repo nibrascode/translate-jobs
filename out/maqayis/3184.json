@@ -1,0 +1,17 @@
+{
+ "i": 3184,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قلس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 20,
+  "page_to": 21
+ },
+ "ar": "القاف واللام والسين كلمتان: أحدهما رَمْىُ السَّحابة النَّدَى من غير مطر، ومنه قَلَس الإنسانُ، إذا قاءَ، فهو قالس. وأمّا التَّقليس فيقال:\nهو الضَّرب ببعض الملاهى (٥). وهى الكلمة الأخرى (٦).\nوقال أبو بكرٍ ابنُ دريد: القَلْس من الحِبال (١)، ما أدرى ما صحّتُه.",
+ "az": "[قلس] (qلس) (qaf, lam və sin) iki kəlmədir: biri buludun yağmursuz şeh atmasıdır, o cümlədəndir ki, insan qələs etdi, yəni qusdu, o da قالس (qalis) olar. Təqlisə gəlincə, deyilir: o, bəzi oyun alətləri ilə çalmaqdır (٥). Bu da digər kəlmədir (٦). Əbu Bəkr ibn Dürid demişdir: İplərdən olan القَلْسُ (əl-qəls) — bunun nə dərəcədə səhih olduğunu bilmirəm (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:25.025Z"
+}

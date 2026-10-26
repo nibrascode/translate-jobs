@@ -1,0 +1,17 @@
+{
+ "i": 3239,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 45,
+  "page_to": 45
+ },
+ "ar": "القاف والياء والنون أصلٌ صحيح يدلُّ على إصلاحٍ وتزيين.\nمن ذلك القَيْن: الحَدَّاد، لأنَّه يُصلِحُ الأشياءَ ويَلُمُّها؛ وجمعه قُيُون. وقِنْتُ الشَّئَ أَقِينُه قَيْنًا: لَمَمْتُه. قال:\nولي كبدٌ مقروحةٌ قد بَدا بِها … صُدوعُ الهوى لو كان قينٌ يَقِينُها (٢)\nويقولون: التَّقيين: التَّزيين. واقْتَانَتِ الرَّوضةُ: أخذَتْ زُخْرُفَها. ومنه يقال للمرأَة مُقَيِّنة، وهى التى تُزيِّن النِّساءِ. ويقال: إنَّ القَيْنةَ: الأَمةُ، مغنِّيةً كانت أو غَيْرَها. وقال قومٌ: إنّما سمِّيت بذلك لأنَّها قد تُعَدُّ للغِناء. وهذا جيِّد.\nوالقَيْنُ: العَبْد.\nومما شذَّ عن هذا الباب القَيْنُ: عَظْم السَّاق، وهما قَيْنانِ. قال ذو الرُّمَّة:\n* قَيْنَيْهِ وانحسَرَتْ عنه الأناعيم (٣) *",
+ "az": "[قين] (qin). Qaf, ya və nun hərfləri islah və bəzəyə dəlalət edən səhih bir əsasdır. \nBunlardan biri: القَيْن (əl-qeyn) — dəmirçi, çünki o, şeyləri islah edir, düzəldir və birləşdirir; cəmi qüyun (قُيُون) gəlir. وَقِنْتُ الشَّئَ أَقِينُه قَيْنًا (qintüş-şəyə əqinuhu qeynən) — onu birləşdirdim, düzəltdim. (Şair) demişdir:\n ولي كبدٌ مقروحةٌ قد بَدا بِها … صُدوعُ الهوى لو كان قينٌ يَقِينُها (٢)\n(Mənim yaralı bir qaraciyərim var ki, onda eşqin yarıqları zahir olmuşdur, kaş bir dəmirçi onu sağalt/birləşdirərdi).\n\nOnlar deyirlər: التَّقيين (ət-təqyin) — bəzəmək. وَاْقْتَانَتِ الرَّوضةُ (əqtənətil-rəvdətu) — çəmənlik öz bəzəyini aldı. Bundan irəli gələrək qadına مُقَيِّنة (muqəyyinə) deyilir, o da qadınları bəzəyən qadındır. Deyilir ki: القَيْنة (əl-qeynə) — mahnı oxuyan olsun və ya başqası olsun, cariyədir. Bir qövm demişdir ki, o, məhz buna görə belə adlandırılmışdır, çünki o, mahnı oxumaq üçün hazırlanır. Bu, gözəl bir izahdır. \nوَالقَيْنُ (əl-qeyn) — qul. \n\nVə bu fəsildən istisna olan (şaz): القَيْنُ (əl-qeyn) — baldır sümüyü, onlar iki baldır sümüyüdür (قَيْنانِ). Zü əd-Rummə demişdir:\n* قَيْنَيْهِ وانحسَرَتْ عنه الأناعيم (٣) *\n(Onun iki baldır sümüyündən... və ənamlar ondan çəkildi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

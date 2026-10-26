@@ -1,0 +1,17 @@
+{
+ "i": 3053,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فتح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 469,
+  "page_to": 470
+ },
+ "ar": "الفاء والتاء والحاء أصلٌ صحيح يدلُّ على خلافِ الإغلاق.\nيقال: فتحت البابَ وغيرَه فتحاً. ثمَّ يحمل على هذا سائرُ ما فى هذا البناء.\nفالفَتْح والفِتاحة: الحُكْم. واللّه تعالى الفاتح، أى الحاكم. قال الشَّاعر (٢) فى الفِتاحة:\nألَا أبْلِغْ بنى عوفٍ رسولاً … بأنِّى عن فتاحتكم غنىُّ (٣)\nوالفَتح: الماء يَخرُج من عينٍ أو غيرها. والفَتْح: النَّصر والإظفار.\nواستفتحت: استَنْصَرت. و\nفى الحديث: أنَّه ﷺ كان يَستفتحُ\nبصَعاليك المهاجرين والأنصار. وفَواتحُ القُرآنِ: أوائل السُّوَر. وبابٌ فُتُحٌ، أى واسع مفتوح.",
+ "az": "[فتح] (f-t-h): Fə, ta və hə hərflərindən ibarət səhih bir kök olub, qapanmağın əksinə (açılmağa) dəlalət edir. Deyilir: «فَتَحْتُ البَابَ وَغَيْرَهُ فَتْحاً» (qapını və başqa bir şeyi açdım). Sonra bu binadan olan digər mənalar da buna şamil edilir. «الفَتْح» (fəth) və «الفِتاحة» (fitahə) — hökm deməkdir. Uca Allah «الفاتح» (əl-Fatih) yəni hökm edəndir. Şair (2) «الفِتاحة» (fitahə) haqqında demişdir: «أَلا أَبْلِغْ بَنِي عَوْفٍ رَسُولاً … بِأَنِّي عَنْ فِتَاحَتِكُمْ غَنِيُّ» (3) (Həqiqətən, Beni-Oufa elçi ilə çatdır ki... mən sizin hökmünüzdən ehtiyacsızam). «الفَتح» (fəth) — bulaqdan və ya başqa yerdən çıxan sudur. «الفَتح» (fəth) — zəfər və qələbədir. «واستفتحت» (istəftəhətu) — kömək istədim deməkdir. Hədisdə gəlmişdir ki, o (sallallahu aleyhi və səlləm) mühacir və ənsarın kasıbları ilə kömək istəyərdi (istəftəhu). «فَواتحُ القُرآنِ» (fəvatiqul-Quran) — surələrin əvvəlləri deməkdir. «بابٌ فُتُحٌ» (bəbun futuh) — geniş, açıq qapı deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

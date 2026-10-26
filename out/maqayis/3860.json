@@ -1,0 +1,17 @@
+{
+ "i": 3860,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مزج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 319,
+  "page_to": 319
+ },
+ "ar": "الميم والزاء والجيم أصلٌ صحيح يدلُّ على خَلْطِ الشيء بغيره.\nومزَجَ الشّرابَ يَمْزُجُه مَزْجاً. وكأنَّ العَسَلَ يسمَّى المِزْج قالوا: لأنَّه كانَ يُمزَج به كلُّ شراب. قال أبو ذؤيب:\nفجاءَ بِمَزْجٍ لم يَرَ الناسُ مِثلَه … هو الضَّحْكُ إلاّ أنّه عملُ النّحلِ (١)\nوكلُّ نوعٍ من شيئينِ مِزاجٌ لصاحبِه.",
+ "az": "[مزج] (Məzəc) Mim, zay və cim hərfləri bir şeyi başqası ilə qarışdırmağa dəlalət edən səhih kökdür. مَزَجَ الشّرابَ يَمْزُجُه مَزْجاً (məzəcə əş-şərabə yəmzucuhu məzçən) — şərabı qarışdırdı. Guya bal «əl-mizc» (المِزْج) adlanır, çünki onunla hər bir içkinin qarışdırıldığı söylənir. Əbu Züəyb demişdir: فجاءَ بِمَزْجٍ لم يَرَ الناسُ مِثلَه … هو الضَّحْكُ إلاّ أنّه عملُ النّحلِ (1) (Özü də insanların bənzərini görmədiyi bir qarışıq gətirdi... O gülüşdür, lakin arının əməyidir). İki şeyin hər bir növü digəri üçün bir «mizac» (مِزاج) sayılır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

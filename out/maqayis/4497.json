@@ -1,0 +1,17 @@
+{
+ "i": 4497,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وخط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 94,
+  "page_to": 94
+ },
+ "ar": "الواو والخاء والطاء: كلمتان: إحداهما وَخَطَ الشَّيْبُ (٣) فى * رأسه. والأخرى: الوخْط: الطَّعن. وَوَخَطه بالسَّيف: تناوَلَه مِنْ بعيد.\nوذكروا كلمةً ثالثة، قالوا: مرَّ يَخِطُ، وهو (٤) مَشْىٌ فوق العَنَق.",
+ "az": "[وخط] (və-xa-ta): Vov, xain və ta hərfləri iki sözdür: Biri وَخَطَ الشَّيْبُ (٣) فى رأسه (vəxətəş-şeybu fi rəsi) – ağ saç başını bürüdü (və ya ağardı). Digəri: الوَخْط (əl-vəxt) – nizə zərbəsi. وَوَخَطه بالسَّيف (vəxətəhu bis-seyfi) – onu uzaqdan qılıncla vurdu. Üçüncü bir söz də qeyd etmişlər, demişlər: مرَّ يَخِطُ (mərra yaxi-tu), bu da (٤) ənəq (dəvənin orta sürəti) sürətindən yuxarı yeriməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

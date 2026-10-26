@@ -1,0 +1,17 @@
+{
+ "i": 3118,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فسط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 502,
+  "page_to": 502
+ },
+ "ar": "الفاء والسين والطاء كلمتانِ متباينتان. فالفَسِيط: ثُفْرُوق التَّمرة، ويقال قُلامة الظُّفر. والفُسطاط: الجماعة. و\nفى الحديث: «إنَّ يدَ اللّه تعالى عَلَى الفُسطاط». وبذلك سمِّى الفُسطاط فُسطاطاً.",
+ "az": "[فسط] الفاء والسين والطاء كلمتانِ متباينتان (Fə, sin və ta hərfləri bir-birindən fərqli iki sözdür). فالفَسِيط: ثُفْرُوق التَّمرة (Fəsit — xurmanın qıfı / çanaqcığı), ويقال قُلامة الظُّفر (və dırnaq qırıntısı da deyilir). والفُسطاط: الجماعة (Vüstat — camaat, dəstə). وفي الحديث: «إنَّ يدَ اللّه تعالى عَلَى الفُسطاط» (Hədisdə gəlmişdir: «Həqiqətən, Allah Təalanın əli camaatın üzərindədir»). وبذلك سمِّى الفُسطاط فُسطاطاً (Məhz buna görə Füstat şəhəri Füstat adlandırılmışdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.151Z"
+}

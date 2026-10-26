@@ -1,0 +1,17 @@
+{
+ "i": 4201,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "النون والفاء والدال: أصلٌ صحيحٌ يدلُّ على انقطاعِ شيء وفَنائِه. ونفِدَ الشّيءُ يَنفَد نَفاداً: وأنفَدُوا: فَنِيَ زادُهم. ويقال للخَصْم مُنافِدٌ، وذلك أن يَتخاصمَ الرَّجُلانِ يريد كلٌّ منهما إنفادَ حجَّةِ صاحِبه. و\nفي الحديث:\n«إنْ نافَدْتَهم نافَدُوك». أي إنْ قلتَ لهم قالوا لك.",
+ "az": "[نفد] (nəfəd): Nun, fa və dal hərfləri bir şeyin kəsilməsinə və tükənməsinə dəlalət edən səhih bir əsldir. نفِدَ الشّيءُ يَنفَد نَفاداً (nəfidəl-şəyyü yənfədü nəfadan) – şey tükəndi. وأنفَدُوا (və ənfədü) – azuqələri tükəndi. Rəqibə مُنافِدٌ (münafid) deyilir, bu da iki kişinin hər birinin digərinin dəlilini tükəltmək istəyərək bir-biri ilə çəkişməsinə görədir. Hədisdə gəlmişdir: «إنْ نافَدْتَهم نافَدُوك» (İn nafadْتəhüm nafaduk) – yəni, əgər siz onlarla mübahisə etsəniz, onlar da sizinlə mübahisə edərlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.385Z"
+}

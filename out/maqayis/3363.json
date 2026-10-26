@@ -1,0 +1,17 @@
+{
+ "i": 3363,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 115,
+  "page_to": 115
+ },
+ "ar": "القاف والفاء والشين. فيه طريفَة ابنِ دريد (٢): قفش: جمع.",
+ "az": "[قفش] Qaf, fa və şin. İbn Dureydin (٢) qəribəliklərində vardır: «qəfəşə»: toplamaqdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.648Z"
+}

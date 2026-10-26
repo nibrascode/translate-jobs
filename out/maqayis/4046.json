@@ -1,0 +1,17 @@
+{
+ "i": 4046,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 387,
+  "page_to": 388
+ },
+ "ar": "النون والتاء والقاف أصلٌ يدلُّ على جَذْب شيءٍ وزَعزَعَتِه وقَلْعِه من أصله. تقول العرب: نَتَقْتُ الغَرْبَ من البِئر: جَذَبْتُه. والبعير إذا تَزَعْزَع حِملُه نتَقَ عُرَى حِبالِه، وذلك جَذْبُه إيّاها فتَسترخِي. وامرأةٌ ناتقٌ: كثُرَ أولادُها. وهذا قياس الباب، كأنَّهم نُتِقُوا مِنْها نتقًا. قال (٣):\nلم يُحرَموا حُسْنَ الغِذاءِ وأمُّهُمْ … دَحَقَتْ عليك بناتقٍ مذكارِ (٤)\nو\nفي الحديث: «علَيكم بالأبكار فإنَّهنَّ أنْتَقُ أرحاماً». وزَنْدٌ ناتقٌ: وارٍ؛ وهو القياس.",
+ "az": "«نتق» (nətəq) — Nun, ta və qaf hərfləri bir şeyi dartmağa, silkələməyə və kökündən qoparmağa dəlalət edən bir əsasdır. Ərəblər deyirlər: نَتَقْتُ الغَرْبَ من البِئر (quyudan dəvə dərisindən qabı çəkib çıxartdım). Dəvənin yükü silkələndiyi zaman ipinin düyünlərini nətəq edər, bu da onun ipi dartması və nəticədə iplərin boşalmasıdır. وَامرأةٌ ناتقٌ (natiq qadın): övladı çox olan. Bu da bu بابın (bölmənin) qiyasındandır, sanki onlar ondan bir nətəq etməklə (qoparmaqla) çıxarılmışlar. (3) demişdir:\nلم يُحرَموا حُسْنَ الغِذاءِ وأمُّهُمْ … دَحَقَتْ عليك بناتقٍ مذكارِ (٤)\n(Onlar gözəl qidalanmadan məhrum edilməmişdilər, anaları isə sizi erkək doğan natiq qadınla qovub qabağa salmışdı).\n\nVə hədisdə: «علَيكم بالأبكار فإنَّهنَّ أنْتَقُ أرحاماً» (Azərlərə [bakirələrə] üstünlük verin, çünki onların rəhmləri daha çox uşaq doğanlar, dölü bol olanlardır). وَزَنْدٌ ناتقٌ (alovlanan od çaxmağı); bu da həmin qiyasdandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

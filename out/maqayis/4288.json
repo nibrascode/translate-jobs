@@ -1,0 +1,17 @@
+{
+ "i": 4288,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 22,
+  "page_to": 22
+ },
+ "ar": "الهاء والياء والباء كلمةُ إجلالٍ ومخافة. من ذلك هابَه يَهابُه هَيْبةً. ورجلٌ هَيُوبٌ: يَهاب كلَّ شئ. وهَيُوبٌ: مَهِيبٌ (٢). وقولهم: «الإيمانُ هَيوبٌ»، قال قوم: مَهيبٌ، وقال قوم: إنَّ المؤمنَ يَهاب الانقِحامَ فيما يسرِعُ إليه غيرُه. وتهيَّبْت الشَّئَ: خِفتُه. وتَهَيَّبِنى الشّئُ، كأنَّه أخافَنى. قال:\n* ولَا تَهَيَّبُنى المَوْماةُ أركبُها (٣) *\nوالهَيَّبَانُ: الجَبَان. وأمّا قولهم: أهابَ بِهِ، إذا صاح به، يُهِيبُ كما يُهيب الرّاعِى بغنمِه لتقِفَ أو تَرجِع، فهو من القياس، لأنَّه كأنَّه يُفْزِعه.\nومما ليس من الباب ولا أعلم كيفَ صِحّتُه، قولُهم: الهَيَّبَان: لُغَامُ البَعير.",
+ "az": "[هيب] (Həyb): Hə, ya və ba ucalıq və qorxu ifadə edən sözdür. Bunlardan biri: هابَه يَهابُه هَيْبةً (habəhu yəhabuhu həybətən). ورجلٌ هَيُوبٌ (raculun həyubun): hər şeydən qorxan. Və هَيُوبٌ (həyub) həm də مَهِيبٌ (məhib - qorxulan) deməkdir. Onların «الإيمانُ هَيوبٌ» (İman həyubdur) sözünə gəlincə, bir qrup demişdir ki, o, «məhib» (qorxulan) deməkdir; başqa bir qrup isə demişdir ki, mömin başqalarının tələsik atıldığı işlərə atılmaqdan qorxar. وتهيَّبْت الشَّئَ (təhəyyəbtüş-şəyə): ondan qorxdum. وتَهَيَّبِنى الشّئُ (təhəyyəbəni-ş-şəyü): sanki o məni qorxutdu. Şair demişdir:\n\n* ولَا تَهَيَّبُنى المَوْماةُ أركبُها (3) *\n(Minib səyahət etdiyim səhra məni qorxutmur).\n\nوَالهَيَّبَانُ (əl-həyyəban): qorxaq. Onların «أهابَ بِهِ» (əhabə bihi) sözünə gəlincə, bu, qışqırdı deməkdir; çoban qoyunları dayansın və ya geri qayıtsın deyə qışqırdığı kimi o da səsləyər. Bu, qiyasdandır, çünki sanki onu qorxudur.\n\nBu fəsildən olmayan və doğruluğunu bilmədiyim şeylərdən biri də onların «الهَيَّبَان» (əl-həyyəban) sözünü dəvənin ağız köpüyü mənasında işlətmələridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

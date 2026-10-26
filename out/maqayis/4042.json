@@ -1,0 +1,17 @@
+{
+ "i": 4042,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 386,
+  "page_to": 386
+ },
+ "ar": "النون والتاء والخاء كلمةٌ تدلُّ على استخراج الشَّيء من الشّيء.\nونتخ الشَّوكَةَ مِنَ الرِّجل بالمِنْتاخ، أي المنقاش. ونَتَخ البازِي اللحمَ بمِنْسرِه، ونَتَخَ ضِرسَه: انتزعَه. قال زُهير:\nتَتركُ أفلاءَها فى كلِّ مَنزِلةٍ … تَنْتَخُ أعْيُنَها العِقبانُ والرَّخَمُ (٢)\nويقولون: المتَنَتِّخُ (٣): المتفلِّي. والبِساط المنتوخ بالذَّهب: المنسوج به. والنَّتْخ:\nالنَّسْج، عن ابن الأعرابىّ.",
+ "az": "«نتخ» (nətəx) — Nun, ta və xa hərflərindən ibarət olub bir şeyi başqa bir şeydən çıxarmağa dəlalət edən bir köndür.\n\nنَتَخَ الشَّوكَةَ مِنَ الرِّجل بالمِنْتاخ (ayaqdan tikanı mintax, yəni kəlbətin ilə çıxartdı). وَنَتَخَ البازِي اللحمَ بمِنْسرِه (şahin əti dimdiyi ilə qopardı). وَنَتَخَ ضِرسَه (dişini qoparıb çıxartdı). Züheyr demişdir:\nتَتركُ أفلاءَها فى كلِّ مَنزِلةٍ … تَنْتَخُ أعْيُنَها العِقبانُ والرَّخَمُ (٢)\n(Balalarını hər mənzildə buraxırlar... quzğunlar və kərkəzlər onların gözlərini qoparıb çıxarırlar).\n\nVə deyirlər: المتَنَتِّخُ (٣) (bit ayıklayan). والبِساط المنتوخ بالذَّهب (qızıldan toxunmuş xalça). وَالنَّتْخُ: النَّسْج (toxumaq), İbn əl-Ərabidən rəvayət olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.745Z"
+}

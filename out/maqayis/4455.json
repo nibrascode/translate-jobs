@@ -1,0 +1,17 @@
+{
+ "i": 4455,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وبص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 81,
+  "page_to": 82
+ },
+ "ar": "الواو والباء والصاد: يدلُّ على ظُهورِ شئٍ فى بَريق وَبَصَ يَبِص: بَرَق. وقد أوبَصْتُ نارى (٤). ووَبَّصَ الجِرُو: فتح عينَيه. وأوبَصَتِ الأرضُ: ظَهَر نباتُها، كأنَّه يَلمَعُ.\nومما شذ عن هذا: إنَّ فُلاناً لَوابِصَةُ سَمعٍ، إذا كان يَسمعُ الكلامَ فيعتمدُه ويظنُّه.",
+ "az": "[وبص] (və-ba-sad): Bir şeyin parıltı içində üzə çıxmasına dəlalət edər. «وَبَصَ يَبِص» (parıldadı) — parıldadı. «وقد أوبَصْتُ نارى» (odumu parlatdım) (٤). «ووَبَّصَ الجِرُو» (küçük gözlərini açdı) — gözlərini açdı. «وأوبَصَتِ الأرضُ» (yer bitki bitirdi) — bitkiləri parıldayırmış kimi üzə çıxdı. Bundan istisna olan budur: «إن فُلاناً لَوابِصَةُ سَمعٍ» (filankəs dinləməyə həvəslidir) — sözü eşidib ona güvəndiyi və zənn etdiyi zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

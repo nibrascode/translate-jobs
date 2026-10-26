@@ -1,0 +1,17 @@
+{
+ "i": 4114,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 418,
+  "page_to": 418
+ },
+ "ar": "النون والزاء والحاء كلمةٌ تدلُّ على بُعد. ونَزَحت الدّار نُزُوحاً: بَعُدت. وبلدٌ نازح. ومنه نَزْحُ الماء، كأنَّه يُباعَد به عن قَعر البئر.\nيقال: نَزَحتُ البِئر: استقَيتُ ماءَها كلَّه. وبئر نَزُوحٌ: قليلةُ الماء.\nوآبارٌ نُزُح.",
+ "az": "[نزح] (nəzəhə): Nun, zay və hə sözü uzaqlığa dəlalət edir. Nəzəhətid-daru nüzuhan (ev uzaqlaşdı). Biladun nazihun (uzaq ölkə). Həmçinin sudan nəzh (suyu çəkib qurtarmaq), sanki o, quyunun dibindən uzaqlaşdırılır.\n\nDeyilir ki: nəzəh-tül-bi-rə (quyunun bütün suyunu çəkib çıxardım). Bi-run nəzuhun (suyu az olan quyu).\n\nAbidun nuzuh (suları az olan quyular).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

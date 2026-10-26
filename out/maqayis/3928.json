@@ -1,0 +1,17 @@
+{
+ "i": 3928,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مكل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 343,
+  "page_to": 343
+ },
+ "ar": "الميم والكاف واللام كلمةٌ تدل على اجتماعِ ماء. ومَكَلَت البئرُ: اجتمعَ ماؤُها في وَسَطها. ومجتمع الماء مَكْلَة. وبئر مَكُول، والجمع مُكُل.",
+ "az": "[مكل] \nMim, kaf və lam — suyun yığılmasına dəlalət edən kəlmədir. Quyunun suyu ortasında yığıldı (مَكَلَت البئرُ). Suyun yığılan yeri مَكْلَة (maklətün) olur. Və quyu مَكُول (makul), cəmi isə مُكُل (mukul) olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.515Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3153,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 512,
+  "page_to": 512
+ },
+ "ar": "الفاء والغين والميم كلمتان، إحداهما تدلُّ على فَتْح شئٍ أو تفتُّحه، ولا يكون إلاّ طيّباً. والأخرى تدلُّ على الوَلُوع بالشَّئ. فالأولى: فَغَمَ الوردُ: تفتَّح. والرِّيح الطيِّبةُ تَفْغَم، أى تصير فى الأنف تَفتح السُّدَّة. وأفْغَمَ المِسكُ المكانَ: ملأه برائحته.\nالكلمة الأخرى: فَغِم بكذا: أُولِعَ به وحَرَصَ عليه: قال الأعشى:\n[تؤمُّ ديارَ بنِى عامرٍ … وأنتَ بآل عَقيل فَغِمْ (٢)]",
+ "az": "[فغم] (F-Ğ-M) Fə, ğin və mim hərfləri iki kəlmədir, onlardan biri bir şeyin açılmasına və ya çiçəklənməsinə dəlalət edir və bu yalnız xoş şeylər üçün olur. Digəri isə bir şeyə həvəsli olmağa dəlalət edir. Birincisi: «فَغَمَ الوردُ» (qızılgül açıldı). Xoş qoxu «تَفْغَم» (təfğəm), yəni buruna girib tıxanıqlığı açır. «أفْغَمَ المِسكُ المكانَ» (müşk məkanı ətri ilə doldurdu): onu qoxusu ilə doldurdu. Digər kəlmə: «فَغِم بكذا» (buna həvəs göstərdi): ona vuruldu və ona həris oldu. Əl-Əşa demişdir: [«تؤمُّ ديارَ بنِى عامرٍ … وأنتَ بآل عَقيل فَغِمْ» (Bəni Amir yurduna üz tutursan, sən isə Aqil ailəsinə vurğun olmusan (٢))].",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

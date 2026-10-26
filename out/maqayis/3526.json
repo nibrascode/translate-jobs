@@ -1,0 +1,17 @@
+{
+ "i": 3526,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 185,
+  "page_to": 185
+ },
+ "ar": "الكاف والعين والميم أصلٌ صحيح يدلُّ على سَدِّ شيء بشيء وإمساك. فالكِعَام: شيءٌ يُجعَل في فم البعير فلا يَرغُو. ويقال: كَعَمه فهو مكعوم. وتقول: كَعَمه الخَوفُ فلا يَنطِق. قال ذو الرُّمَّة:\n* يَهْمَاءَ خابطها بالخَوْف مكعومُ (١) *\nومن الباب: كَعَم الرّجلُ المرأةَ، إذا قبَّلَها ملتقمًا فاها، كأنَّه سدّ فاها يقية.\nوالكِعْم: وعاءٌ من الأوعية (٢).",
+ "az": "[كعم] (kə-ə-mə). Kaf, ayn və mim hərfləri bir şeyi başqa bir şeylə qapamağa və saxlamağa dəlalət edən səhih bir əsldir. «الكِعَام» (ağızlıq): dəvənin ağzına taxılan şeydir ki, nərə çəkməsin. Və deyilir: «كَعَمه فهو مكعوم» (Onun ağzını bağladı, o da ağzıbağlıdır). Deyirsən: «كَعَمه الخَوفُ فلا يَنطِق» (Qorxu onun dilini dondurdu / ağzını qapadı ki, danışa bilməsin). Zü-r-Rummə demişdir: * Yəhma-i xabithu bil-xawfi makcumü (¹) * (Qorxudan ağzı bağlanmış kəsin səhrada addımladığı). Bu fəsildəndir: «كَعَم الرّجلُ المرأةَ» (Kişi qadının ağzından öpdü), qadının ağzını dodaqları ilə alaraq öpdüyü zaman, elə bil o, qorxudan qadının ağzını qapamışdı. «الكِعْم» (qab): qablardan biri (²).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

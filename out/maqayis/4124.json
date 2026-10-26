@@ -1,0 +1,17 @@
+{
+ "i": 4124,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 424,
+  "page_to": 424
+ },
+ "ar": "النون والسين والجيم أصلٌ واحدٌ يدلُّ على وَصلِ شيءٍ بشيء في أدنى عرض. ونَسَج الثَّوب يَنْسِجُه. وضربت الرِّيح الماءَ فانتسجت له الطرائِق (٢). والشاعر ينسُج الشّعر. وقال قوم: بل قياس الباب الاضطراب دون ما ذكرناه. والنَّاقة النّسُوج: [التي (٣)] يضطرب حِمْلُها عليها. وكذلك اشتُقّ مِنسج الفرس (٤)، لأنه يتحرَّك أَبدا. والمِنسج: كاثبِة الفَرَس.\nومن الباب: هو نسيجُ وحدِه، لانفراده بخصاله. قال ابن قتيبة: وذلك أنّ الثَّوب الرّفيع النفيسَ لا يُنسَج على مِنْواله غيرُه، وإذا لم يكن رفيعا عُمِل على منواله سَدَى عِدّةِ أثواب.",
+ "az": "[نسج] (nəsy) — Nun, sin və cim bir əsasdır ki, ən qısa enində bir şeyi digər şeyə birləşdirməyə dəlalət edir. نَسَج الثَّوب يَنْسِجُه (Paltarı toxudu, toxuyur). Külək suyu vurdu və onun üçün cığırlar əmələ gəldi (antəsəcat ət-təraiq) (٢). Şair şeir toxuyur. Bir qrup adam demişdir: əksinə, bu بابın (bölmənin) qiyasəti qeyd etdiyimizdən başqa, çaxnaşma və titrəməkdir. Və النَّاقة النّسُوج (ən-naqətu ən-nəsug): [O dəvədir ki, (٣)] üzərindəki yükü silkələnir. Fərsətin (atın) əl-minsəci də (٤) bundan götürülmüşdür, çünki o, həmişə hərəkətdədir. Və əl-minsəc (əl-minsəc): atın kürəyinin hündür yeridir.\n\nBu babdandır: o, نسيجُ وحدِه (tək-tənha, bənzərsizdir), öz xüsusiyyətlərində tək olduğuna görə. İbn Quteybə demişdir: Çünki incə, qiymətli parçanın əl-minvalı (toxuculuq dəzgahı) üzərində başqa heç nə toxunmur, əgər o, incə deyilsə, onun dəzgahında bir neçə parçanın arğacı işlənir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:38.830Z"
+}

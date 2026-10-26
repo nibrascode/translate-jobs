@@ -1,0 +1,17 @@
+{
+ "i": 4674,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 149,
+  "page_to": 149
+ },
+ "ar": "الواو والهاء والميم: كلماتٌ لا تنقاس، بل أفراد. منها الوَهْم، وهو البَعير العَظيم. والوَهْم: الطَّريق. والوَهْم: وَهْمُ القَلْب. يقال: وَهَمْتُ أَهِمُ وَهْمًا، إذا ذَهَبَ وهْمى إليه. ومنه قياس التُّهمَةِ. وأَوْهَمْتُ فى الحِساب، إذا تركت منه شيئاً. ووَهِمْتُ: غَلِطْت، أَوْهَم وَهَماً.",
+ "az": "[وهم] الواو والهاء والميم (v-h-م): müqayisə olunmayan, əksinə tək olan sözlərdir. Onlardan biri الوَهْم (əl-vəhm) — böyük dəvədir. وَالوَهْم: yol. وَالوَهْم: qəlbin vəhmi (təsəvvür). Deyilir: وَهَمْتُ أَهِمُ وَهْمًا (vəhm etdim, edərəm, vəhm ilə), o zaman ki, vəhmim ona tərəf getdi. Töhümə (ittiham) sözünün kökü də bundan qaynaqlanır. وَأَوْهَمْتُ فى الحِساب (Mən hesabda bir şey buraxıb unutdum). وَوَهِمْتُ (Mən yanıldım), أَوْهَم وَهَماً (yanıldı, yanılmaqla).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

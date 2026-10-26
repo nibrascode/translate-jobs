@@ -1,0 +1,17 @@
+{
+ "i": 4511,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 98,
+  "page_to": 98
+ },
+ "ar": "الواو والذال والراء كلمتانِ: إحداهما الوَذَرةُ، وهى الفِدْرَة من اللحم. والتَّوْذير: أن يُشْرَطَ الجُرح فيقال: وذّرْتُه. و\nفى الحديث: أنَّ رجلاً قال لآخر: «يا ابن شَامَّة الوَذَر» فحُدّ. كأنَّه عَرَّض لها بأعضاء الرِّجال.\nوالأخرى قولهم: ذَرْذَا. قال أهل اللُّغة: أماتت العرب الفِعل من ذَرْ فى الماضى، فلا يقولون وَذَرْتُه.",
+ "az": "[وذر] (və-zə-rə): Vov, zal və ra hərfləri iki sözdür: Biri الوَذَرة (əl-vəzərəh) – ət tikəsi. التَّوْذير (ət-təvzir) – yaranın kəsilməsi, deyilir: وذّرْتُه (vəzzərtuhu). Hədisdə: Bir kişiyə digərinin belə dediyi rəvayət olunur: «يا ابن شَامَّة الوَذَر» (yə ibnə şəmmətil-vəzər) – buna görə ona cəza verildi. Elə bil o, kişilərin üzvlərinə işarə etmişdi. Digəri isə onların ذَرْذَا sözüdür. Dil alimləri demişlər: Ərəblər (ذَرْ) felinin keçmiş zamanını işlətməmişlər, ona görə də vəzərtuhu (وَذَرْتُه) demirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

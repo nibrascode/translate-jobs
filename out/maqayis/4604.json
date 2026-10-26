@@ -1,0 +1,17 @@
+{
+ "i": 4604,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وغد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 128,
+  "page_to": 128
+ },
+ "ar": "الواو والغين والدال: كلمةٌ تدلُّ على دَناءةٍ. ورجلٌ وَغْدُ وهو الدَّنىّ، من قولك وغَدْتُهم أَغِدُهُم، إذا خَدَمْتُهم. والأصل الوَغْد: قِدْحٌ لا حَظَّ له.\nومما شذَّ عن ذلك قولُهم: المُواغَدَة فى السَّير: سَيرٌ ليس بالشَّديد.",
+ "az": "[وغد] (vəğəd) — الواو والغين والدال: كلمةٌ تدلُّ على دَناءةٍ (vav, ğeyn və dəl: alçaqlığa dəlalət edən bir kəlmədir). ورجلٌ وَغْدُ وهو الدَّنىّ (və vəğd kişi — alçaq deməkdir), من قولك وغَدْتُهم أَغِدُهُم، إذا خَدَمْتُهم (sənin «vəğədtühüm əğidühüm» deməyindən götürülüb ki, mən onlara xidmət etdim). والأصل الوَغْد: قِدْحٌ لا حَظَّ له (və əsli-vəğd: heç bir payı olmayan oxdur). ومما شذَّ عن ذلك قولُهم: المُواغَدَة فى السَّير: سَيرٌ ليس بالشَّديد (Bunlardan istisna olunan isə onların bu sözüdür: müvəğədətun fis-seyr — şiddətli olmayan gediş).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:25.983Z"
+}

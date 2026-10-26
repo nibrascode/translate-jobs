@@ -1,0 +1,17 @@
+{
+ "i": 3660,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لدغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 243,
+  "page_to": 243
+ },
+ "ar": "اللام والدال والغين كلمة واحدة. يقال لُدِغ يُلْدَغ، وهو ملدوغ ولديغ. ولدَغْتُه بكلمةٍ، إذا نزَغْتَه (٢) بها.",
+ "az": "[لدغ] (Lədəğə) — Lam, dal və ğayn tək bir kəlmədir. «لُدِغ يُلْدَغ» (ludiğa yuldəğu) — sancıldı, sancılır, o, مَلْدُوغ (maldūğ) və لَدِيغ (lədiğ) adlanır. «لدَغْتُه بكلمةٍ» (lədəğtuhu bikelimətin) — onu bir kəlmə ilə sancıldığın (şübhə saldığın, incitdiyin) zaman deyilir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

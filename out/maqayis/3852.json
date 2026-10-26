@@ -1,0 +1,17 @@
+{
+ "i": 3852,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 315,
+  "page_to": 316
+ },
+ "ar": "الميم والراء والجيم أصلٌ صحيح يدلُّ على مجيء وذَهابٍ واضطراب.\nومَرِج الخاتَم في الإصبع: قَلِقَ. وقياس البابِ كلِّه منه. ومَرِجَت أماناتُ القوم وعُهودُهم: اضطربت واختلطت. والمَرْج: أصلُه (١) أرضٌ ذاتُ نباتٍ تَمْرُجُ فيها الدّوابُّ. [و] قولُه تعالى: ﴿مَرَجَ اَلْبَحْرَيْنِ يَلْتَقِيانِ﴾، كأنَّه جلّ\nثناؤه أرسَلَهما فَمرِجا. وقال: ﴿هُوَ اَلَّذِي مَرَجَ اَلْبَحْرَيْنِ﴾.",
+ "az": "«مرج» (marağa) — mim, ra və cim hərflərindən ibarət səhih bir kök olub gediş-gəlişə və iztiraba dəlalət edir. مَرِجَ الخَاتَمُ فِي الإصْبَعِ (marija al-xatamu fi al-isba'i): üzük barmaqda oynaqladı (sürüşdü). Qapının bütün qaydası bundan ibarətdir. مَرِجَتْ أَمَانَاتُ القَوْمِ وَعُهُودُهُمْ (marijat amanatu al-qawmi wa 'uhuduhum): qövmün əmanətləri və əhdləri pozuldu və qarışdı. اَلمَرْجُ (al-marj): əsli (١) heyvanların otladığı bitki bitən yerdir. [Və] Uca Allahın buyuruğu: ﴿مَرَجَ اَلْبَحْرَيْنِ يَلْتَقِيانِ﴾ (mənaca tərcümə: İki dənizi qovuşmaq üçün bir-birinə buraxdı), elə bil o, izzəti-şənin uca olsun, onları sərbəst buraxdı, onlar da qarışdılar. Həmçinin buyurdu: ﴿هُوَ اَلَّذِي مَرَجَ اَلْبَحْرَيْنِ﴾ (mənaca tərcümə: İki dənizi bir-birinə qovuşmaq üçün buraxan Odur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

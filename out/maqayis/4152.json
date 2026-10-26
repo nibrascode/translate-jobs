@@ -1,0 +1,17 @@
+{
+ "i": 4152,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نضب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 437,
+  "page_to": 437
+ },
+ "ar": "النون والضاد والباء كلمةٌ تدلُّ على انكشاف شيء * وذهابه.\nونضب الماءُ: بَعُدَ، نضوباً. ونَضَبت المفازةُ، كأنَّها انجردت. وخَرْقٌ ناضب:\nبعيد.\nوشذَّ عنه التَّنْضَب: شَجَر.",
+ "az": "«نضب» (ن - ض - ب): Nun, dad və ba – bir şeyin üzə çıxmasına və yox olmasına dəlalət edən kəlmədir. «ونضب الماءُ» (və nədibül-mau) – su çəkildi, uzaqlaşdı, «نضوباً» (nüsubən). «ونَضَبت المفازةُ» (və nəbət-məfazatü) – səhra sanki (suvarmadan) soyulub quru qaldı. «وخَرْقٌ ناضب» (və harqun nadib) – uzaq səhra. Bunlardan kənarda qalaraq tək işlənən: «التَّنْضَب» (təndəb) – bir ağac növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:27.147Z"
+}

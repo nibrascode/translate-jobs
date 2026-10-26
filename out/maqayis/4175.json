@@ -1,0 +1,17 @@
+{
+ "i": 4175,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نعت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 448,
+  "page_to": 448
+ },
+ "ar": "النون والعين والتاء: كلمةٌ واحدة، وهي النَّعْت، وهو وَصْفُك الشيءَ بما فيه من حُسْن. كذا قاله الخليل، إلاَّ أن يتكلَّفَ متكلِّف فيقول: ذا نَعْتُ سَوءٍ. قال: وكلُّ شيءٍ جيِّدٍ بالغٍ نعتٌ. وناعِتُونَ: مكانٌ (٢).",
+ "az": "«نعت» (nəət): Nun, eyn və ta hərflərindən ibarət tək bir sözdür, o da «النَّعْت» (nəət) – yəni bir şeyi onda olan gözəlliklərlə vəsf etməyindir. Xəlil belə demişdir, məgər ki, kimsə özünü çətinə salıb «ذا نَعْتُ سَوءٍ» (bu, pis vəsftir) desin. O demişdir: Hər bir mükəmməl və gözəl şey «نعت» (nəət) sayılır. «ناعِتُونَ» (naitun) – bir yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:16.219Z"
+}

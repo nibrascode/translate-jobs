@@ -1,0 +1,17 @@
+{
+ "i": 3368,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 122,
+  "page_to": 122
+ },
+ "ar": "الكاف والميم أصلٌ واحدٌ يدلُّ على غِشاء وغِطاء. من ذلك الكُمَّة، وهي القلنسوة، ويقال منها: تكمَّمَ الرَّجل، وتكمكم. ومن ذلك\nالحديث: «أنَّ عمر رأى جاريةً مُتَكَمْكِمَةً». والكُمّ: كُمّ القميص، يقال منه كَمَمْتُهُ (٣)، أي جعلت له كُمَّيْن. والكِمَّ: وِعاء الطَّلع، والجمع الأَكْمَام.\nقال اللّه سبحانه: ﴿وَاَلنَّخْلُ ذاتُ اَلْأَكْمامِ﴾ قال أبو عبيد: وأكِمَّةٌ وأَكامِيم.\nويقال: كَمّ الفَسيلَ، إذا أشفَقَ عليه فَسُتِرَ حتى يَقْوَى. والأَكَامِيم: أغطيةُ النَّور.\nومن الباب: الكَمكام: المجتمِع الخَلْق.",
+ "az": "[كم] Kaf və mim bir kökdür, örtük və qaba dəlalət edir. Buna «kummə» (papaq) daxildir, «təkəmməl-rəcul» və «təkəmkəmə» deyilir. Hədisdə: «Ömər bir qadını örtünmüş (mutəkəmkimə) halda gördü». «Kumm»: köynəyin qolu, «kəməmtuhu» (ona qol tikdim) deyilir. «Kimm»: xurma çiçəyinin qabı, cəmi «əkmam»dır. Allah təala buyurur: «Xurma ağacları ki, onların qabıqları (əkmam) vardır». Əbu Ubeyd deyir: «Əkimmə» və «əkamim» də deyilir. «Kəmməl-fəsilə» (xurma fidanını qorudu) deyilir, ona şəfqət göstərib güclənənə qədər örtüldükdə belə deyilir. «Əkamim»: çiçəyin örtükləridir. Bu qapıdan: «Kəmkam»: xilqəti (yaradılışı) tam olan şəxs.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.649Z"
+}

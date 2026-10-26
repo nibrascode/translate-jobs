@@ -1,0 +1,17 @@
+{
+ "i": 3938,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ملج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 347,
+  "page_to": 347
+ },
+ "ar": "الميم واللام والجيم كلمة. يقال: مَلَجَ الصِبىُّ: تناولَ الثَّدي للِرَّضاع بأدنى فمه. و\nفي الحديث: «لا تُحرِّم الإملاجةُ والإملاجَتانِ». وهي أن تُمِصَّه لَبَنَهَا مرَّةً أو مرّتين.",
+ "az": "«ملج» — الميم واللام والجيم (mim, lam və cim) bir sözdür. Deyilir: «ملج الصّبي» — uşaq əmzikliyi ağzının ucu ilə tutdu. Hədisdə: «لا تحرِّم الإملاجة والإملاجتان» (Bir və ya iki dəfə əmizdirmək haram etməz). Bu, onun südünü bir və ya iki dəfə əmməndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:03.921Z"
+}

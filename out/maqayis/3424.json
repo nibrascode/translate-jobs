@@ -1,0 +1,17 @@
+{
+ "i": 3424,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 145,
+  "page_to": 145
+ },
+ "ar": "الكاف والهاء والميم أُصَيلٌ يدلُّ على كَلالٍ وبُطْء. من ذلك الفَرس الكَهَام: البَطيء. والسَّيف الكَهام: الكليل. واللِّسان الكَهام:\nالعييّ. ثم يقولون للمُسِنّ كَهْكَمٌ. ويقولون: أكْهَمَ بَصرُه، إذا رَقّ.",
+ "az": "[كهم] Kaf, ha və mim zəif bir əsas olub acizliyə və yavaşlığa dəlalət edir. Bunlardandır: الفَرس الكَهَام (əl-fərsul-kəham) — yavaş at. والسَّيف الكَهام (əs-seiful-kəham) — küt qılınc. واللِّسان الكَهام (əl-lisanul-kəham) — dili tutulan (lal). Sonra yaşlı adama كَهْكَمٌ (kəhkəm) deyirlər. Və deyirlər: أكْهَمَ بَصرُه (əkhəmə bəsarühü) — gözü zəiflədiyi zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3787,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "متح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 293,
+  "page_to": 293
+ },
+ "ar": "الميم والتاء والحاء أُصَيلٌ يدلُّ على مَدِّ الشّيءِ وإطالته. ومَتَح النّهارُ: امتدَّ. وليلٌ مَتَّاح: طويل. ومنه المَتْح وهو الاستقاء؛ مَتَح يمتَح مَتْحا، وهو ماتح ومَتُوحٌ. وإنما قيل ذلك لمدِّ الرشاء. وبِئر مَتوحٌ: قريبةُ المَنزَع.",
+ "az": "[متح] (mim, ta və hə) — bir şeyi uzatmağa və boyatmağa dəlalət edən kiçik bir əsasdır. مَتَح النّهارُ (matahan-naharu): gün uzandı. وليلٌ مَتَّاح (laylun mattah): uzun gecə. Həmçinin المَتْح (əl-math) də bundandır ki, quyudan su çəkmək deməkdir; مَتَح يمتَح مَتْحا (matah yamtahu mathan), o, ماتح (matic) və مَتُوحٌ (matuh) adlanır. Bu sözün belə adlandırılması ipi uzatdıqlarına görədir. وبِئر مَتوحٌ (bi-run matuhun): suyu yaxından (asanlıqla) çəkilən quyudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4084,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 406,
+  "page_to": 406
+ },
+ "ar": "النون والخاء والطاء يقولون: انتَخَط من أنْفه رمَي به، وكأنّه من الإبدال والأصل الميم. قال:\n* نَخَطْن بذِبَّانِ المَصِيف الأزارِقِ (١) *\nوما أدرِي أيُّ النّخْط هو (٢)، منه، أي أيّ من انتَخَط.",
+ "az": "[نخط] (N-X-T) Nun, xa və ta. Deyirlər: «انتَخَط من أنْفه» (Burnundan sümkürdü), yəni onu kənara atdı. Sanki bu, hərflərin əvəzlənməsindəndir və əsli «mim» hərfidir. Şair demişdir: * نَخَطْن بذِبَّانِ المَصِيف الأزارِقِ (١) * (Onlar yay milçəkləri ilə göy rəngli paltarları sümkürdülər). «وما أدرِي أيُّ النّخْط هو» (Bilmirəm o hansı nuxdur), yəni «انتَخَط» (sümkürən) kəslərin hansıdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

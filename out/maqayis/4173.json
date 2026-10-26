@@ -1,0 +1,17 @@
+{
+ "i": 4173,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نعي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 447,
+  "page_to": 448
+ },
+ "ar": "النون والعين والحرف المعتلّ: أصلٌ صحيح يدلُّ على إشاعةِ شيء. منه النَّعِيُّ: خبَرُ الموت (٣)، وكذا الآتى بخَبرِ المَوْت يقال له نَعِيٌّ أيضًا.\nويقال: نَعَاءِ فلانًا، أي انْعَه. قال:\nنَعَاء جُذامًا غير موتٍ ولا قَتْلِ … ولكنْ فراقًا للدَّعائمِ والأصلِ (٤)\nومن الباب: هو يَنْعَى على فلانٍ، إذا وبَّخَه، كأنَّه يُشِيعُ عليه ذنوبَه. وهو يستَنْعي الظِّباء: يدعوها، يتقدَّمُها فَتَتْبعُه. واستنعَيتُ القوم، إذا تقدّمتَهم ليتْبَعوك، وهذا على إشاعة الصَّوت بالدُّعاء. ويقال: شاعَ ذِكرُ فلانٍ واستَنْعَى بمعنًى. قال الأصمعىّ: استَنْعَى، بفلانٍ الشَّرّ، أي تَتابَعَ به الشّرّ. واستَنْعَى به\n[حُبُّ] الخَمْر (١): تمادَى به. ومعنى هذا أنَّ الخمر كأنَّها دعَتْه وصوَّتَتْ به فتبِعَها.",
+ "az": "«نعي» (nəyi): Nun, eyn və uzanan hərf səhih bir kök olub bir şeyin yayılmasına və şayə olmasına dəlalət edir. Bunlardan biri «النَّعِيُّ» (nəiyyü) – ölüm xəbəridir, həmçinin ölüm xəbərini gətirən şəxsə də «نَعِيٌّ» (nəiyyün) deyilir. Deyirlər: «نَعَاءِ فلانًا» (filankəsin ölümünü xəbər ver), yəni «انْعَه» (onun ölümünü elan et). Şair demişdir: «نَعَاء جُذامًا غير موتٍ ولا قَتْلِ … ولكنْ فراقًا للدَّعائمِ والأصلِ» (Ölüm deyil, qətl deyil, Cüzam qəbiləsinin xəbərini ver... lakin sütunların və əslin ayrılmasıdır). Bu fəsildən: «هو يَنْعَى على فلانٍ» (o, filankəsi qınayır), yəni onu danlayır, sanki onun günahlarını hamı arasında yayır. «وهو يستَنْعي الظِّباء» – ceyranları çağırır, onların qabağına düşür və onlar da ona tabe olub ardınca gedirlər. «استنعَيتُ القوم» – qövmün qabağına düşdün ki, sənə tabe olub ardınca gəlsinlər, bu da səsini ucaldıb çağırmaqla yayılmaq mənasındadır. Deyirlər: «شاعَ ذِكرُ فلانٍ واستَنْعَى» (filankəsin adı yayıldı və məşhurlaşdı) – eyni mənadadır. Əsməi demişdir: «استَنْعَى بفلانٍ الشَّرّ» – filankəsi pislik bürüdü, ardıcıl olaraq ona pislik gəldi. «واستَنْعَى به حُبُّ الخَمْر» (şərab sevgisi onu davamlı olaraq apardı) – uzandı, davam etdi. Bunun mənası odur ki, sanki şərab onu çağırmış və səsləmiş, o da onun ardınca getmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:16.219Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3403,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 138,
+  "page_to": 138
+ },
+ "ar": "الكاف والميم والراء كلمةٌ، يقولون: رجلٌ مكمور، وهو الذي يُصِيب الخاتِنُ طرَف كَمَرتِه.",
+ "az": "[كمر] Kaf, mim və ra bir sözdür, deyirlər: «رجلٌ مكمور» (məkmur kişi) — xətnə edənin sünnət ucluğuna toxunduğu kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4213,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 464,
+  "page_to": 465
+ },
+ "ar": "النون والقاف والحرف المعتلّ أصلٌ يدلُّ على نظافةٍ وخلوص.\nمنه نَقَّيْتُ الشّيءَ: خلّصتُه ممّا يشوبُه تنقيةً. وكذلك يقال: انتقَيت الشيءَ.\nكأنَّك أخَذتَ أفضلَه وأخلَصَه. والنُّقاوة: أفضَلُ ما انتقَيْت من شيء. والنَّقَاة:\nالرّدىُّ فيما يقال، كأنَّه الذي انتُقِيَ فطُرِح وقال بعضهم: نَقاة كلِّ شيء: ردِيُّه إلا التَّمْر، فإنَّ نَقَاتَه خِيارُه.\nوفي الباب النِّقْيُ: مُخُّ العظام، سمِّىَ لخُلوصه ونظافته. ويقال لشَحْمة العَين من الشَّاة السَّمينة وغيرِها: النِّقْي. وناقةٌ لا تُنْقِي. قال:\nحاموا على أضيافهم فشوَوْا لهم … من لحم مُنْقيةٍ ومن أكبادِ\nوأمَّا الفرّاء فزعَم أنّ الأنقاء: كلُّ عظمٍ ذي مُخّ. وهذا إنْ صحَّ فهو على تسمية العرب الشَّيءَ باسم غيرِه إذا كان مُجاوراً له.",
+ "az": "[نقي] Nun, qaf və uzanan hərf təmizliyə və xalisliyə dəlalət edən bir əslə malikdir. Bunlardandır: نَقَّيْتُ الشّيءَ – əşyanı ona qarışan şeylərdən təmizlədim (تَنقِيَةً). Eləcə də deyilir: انتقَيت الشيءَ. Elə bil sən onun ən yaxşısını və ən xalisini götürdün. وَالنُّقاوة: hər hansı bir şeydən seçdiyin ən yaxşı şey. وَالنَّقَاة: deyilənlərə görə pis şeydir, elə bil o, seçilib kənara atılmış şeydir. Bəziləri demişdir: hər bir şeyin نَقَاة-sı, xurmadan başqa, onun pis hissəsidir, çünki xurmanın نَقَاة-sı onun ən yaxşısıdır. Bu fəsildəndir: النِّقْيُ – sümük iliyi, xalisliyinə və təmizliyinə görə belə adlandırılmışdır. Kök qoyundan və başqalarından olan piy qatına النِّقْي deyilir. Və elə dəvəyə ناقةٌ لا تُنْقِي deyilir. Şair demişdir: حاموا على أضيافهم فشوَوْا لهم … من لحم مُنْقيةٍ ومن أكبادِ (Qonaqlarının müdafiəsinə qalxdılar və onlar üçün yağlı ətdən və ciyərlərdən kabab etdilər). Fəra isə zənn etmişdir ki, الأنقاء – iliyi olan hər bir sümükdür. Əgər bu doğrudursa, bu, ərəblərin bir şeyi qonşu olduğuna görə başqa adla adlandırması qəbilindədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:21.983Z"
+}

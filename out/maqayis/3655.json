@@ -1,0 +1,17 @@
+{
+ "i": 3655,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لخم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 241,
+  "page_to": 241
+ },
+ "ar": "اللام والخاء والميم كلمةٌ واحدة، وهي لَخْمٌ: قبيلةٌ من اليمن.\nقال ابن دريد (٢): اشتقاقُه من لَخُمَ وجهُ الرّجُل، إذا كثُر لَحمُه وغلُظ. قال:\nوهو فعلٌ ممات لا يكادون يتكلَّمون به. واللُّخْم: سمكة.",
+ "az": "[لخم] (Ləhəmə) — Lam, xə və mim tək bir kəlmədir, o da لَخْم (ləhm) — Yəməndən olan bir qəbilədir.\nİbn Dürid demişdir (٢): Onun kökü «لَخُمَ وجهُ الرّجُل» (ləxumə vəchur-racul) — kişinin üzü ətli və yoğun oldu, sözündən götürülmüşdür. O demişdir: Bu, artıq işlənməyən (mümات) bir feldir, demək olar ki, heç danışmırlar. وَاللُّخْم (əl-luxm) — bir balıq növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

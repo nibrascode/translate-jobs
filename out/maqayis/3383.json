@@ -1,0 +1,17 @@
+{
+ "i": 3383,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 128,
+  "page_to": 128
+ },
+ "ar": "الكاف والضاد. يقولون: إنَّ الكَضكضة: سرعةُ المَشْي.",
+ "az": "[كض] الكاف والضاد. يقولون: إنَّ الكَضكضة: سرعةُ المَشْي. (Kaf və dad hərfləri. Deyirlər ki: əl-kədkəxə — gedişin sürətidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:12.477Z"
+}

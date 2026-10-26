@@ -1,0 +1,17 @@
+{
+ "i": 3443,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 151,
+  "page_to": 151
+ },
+ "ar": "الكاف والياء والنون شيءٌ يقولون إنَّه في عضوٍ من أعضاء المرأة يَضِيق به، والجمع كُيون. قال جرير:\nغَمَزَ ابنُ مرّةَ يا فرزدقُ كَيْنَها … غَمْزَ الطبيبِ نَغانِغَ المعذورِ (٢)\nفأمّا الكِينة، في قولهم: بات فُلانٌ بكِينةِ سَوْءِ، أي بحال سوء، فأصله الكَوْن فِعلَة من الكون.",
+ "az": "[كين] (Kaf, ya və nun) — qadının orqanlarından birində olan, onunla daralan bir şeydir, cəmi كُيون (kuyun) gəlir. Cərir demişdir: غَمَزَ ابنُ مرّةَ يا فرزدقُ كَيْنَها … غَمْزَ الطبيبِ نَغانِغَ المعذورِ (٢) (mənası: Mərrənin oğlu, ey Fərzədaq, onun cinsiyyət üzvünü sıxdı... təbibin üzrlü xəstənin boğaz ətlərini sıxması kimi). الكِينة (əl-kinə) sözünə gəlincə, onların «بات فُلانٌ بكِينةِ سَوْءِ» (batə fulanun bi-kinəti səv'in) sözündə olduğu kimi, yəni pis halda, onun əsli الكَوْن (əl-kəvn) sözündəndir, köndən törəmə bir isimdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

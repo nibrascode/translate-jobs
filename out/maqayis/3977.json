@@ -1,0 +1,17 @@
+{
+ "i": 3977,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "النون والهاء والزاء أصل صحيح يدلّ على حركة ونهوض وتحريك الشّيء. فالنّهز النّهوض لتناول الشيء؛ ومنه انتهاز الفرصة. والنّهزة:\nكلّ ما أمكنك انتهازه. يقال قد أعرض فانتهز (١). ونَهَزَت النّاقةُ بصدرها:\nنهضت للسّير. ونهزت الدّابة برأسها: دفعت عن نفسها.\nومن الباب ناهَزَ الصبىُّ البلوغَ، إذا داناه، كأنّه نهض له وتحرّك. ونهزت ضرع النّاقة عند حلبها لتدرّ، إذا ضربته بيدك. ونهزت ماء الدّلو بالماء: ضربته لتمتلئ الدّلو.",
+ "az": "[نهز] (NUN, HƏ və ZAY) - hərəkətə, ayağa qalxmağa və bir şeyi hərəkət etdirməyə dəlalət edən səhih bir kökdür. «النّهز» - bir şeyi ələ keçirmək üçün qalxmaqdır; «انتهاز الفرصة» (fürsəti qənimət bilmək) bundandır. «النّهزة» - ələ keçirməyin mümkün olduğu hər bir fürsət. Deyilir: «قد أعرض فانتهز (١)» (O, üz döndərdi, elə isə fürsəti qənimət bil). «نَهَزَت النّاقةُ بصدرها» - dəvə səfərə çıxmaq üçün qalxdı. «ونهزت الدّابة برأسها» - minik heyvanı başı ilə özündən dəf etdi. Bu babdandır: «ناهَزَ الصبىُّ البلوغَ» - oğlan uşağı həddi-buluğa yaxınlaşdı, sanki onun üçün qalxır və hərəkət edirdi. «ونهزت ضرع النّاقة عند حلبها لترد» - südünü sağan zaman süd gəlməsi üçün dəvənin əmcəyini əlinlə vurdun. «ونهزت ماء الدّلو بالماء» - kovanın dolması üçün suyu su ilə vurdun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

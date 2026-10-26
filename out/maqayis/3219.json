@@ -1,0 +1,17 @@
+{
+ "i": 3219,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قهس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 36,
+  "page_to": 36
+ },
+ "ar": "القاف والهاء والسين كلماتٌ إن صَحَّت. يقولون: جاء يَتَقَهْوَس، إذا جاء مُنْحَنِياً (١) يَضْطرب. وهذا ممكنٌ أن يكون هاؤه زائدة، كأنَّه يَتقوس. ويقولون: القَهْوَسة: السُّرعة. والقَهْوَس: الرَّجُل الطويل.",
+ "az": "[قهس] Qaf, hə və sin kəlmələrdir, əgər səhihdirllərsə. Deyirlər: «جاء يَتَقَهْوَس» — əyilərək, sarsılaraq (tərəddüd edərək) gəldi (١). Və bu mümkündür ki, həsi artıq olsun, sanki o, belini bükür. Və deyirlər: əl-qəhvəsə (القَهْوَسَة): sürət. Və əl-qəhvəs (القَهْوَس): uzun boylu kişi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.257Z"
+}

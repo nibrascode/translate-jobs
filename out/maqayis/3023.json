@@ -1,0 +1,17 @@
+{
+ "i": 3023,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "الفاء والواو والدال كلمةٌ واحدة، ثمَّ تستعار. فالفَوْد:\nمُعظَم شعرِ اللِّمَّة ممَّا يلى الأذُنين ثم يقولون استعارةً لجناحَىِ العُقّاب:\nفَوْدان.\nوممَّا ليس منه قولُهم: فاد يفود، إذا مات، والأصل فى هذا الياء، وقد ذكر.",
+ "az": "«فود» (fəwd): Fə, vau və dəl hərflərindən ibarət tək bir sözdür, sonra məcazi olaraq işlədilir. «الفَوْد» (fəwd) — qulaqlara yaxın olan saçın əsas hissəsidir. Sonra bunu məcazi olaraq qartalın qanadlarına da şamil edib «فَوْدان» (fəwdan) demişlər.\nBuradan olmayan digər söz isə onların «فاد يفود» (fad yəfud) – yəni ölü, ifadəsidir; bunun əsli ya hərfidir ki, artıq zikr olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

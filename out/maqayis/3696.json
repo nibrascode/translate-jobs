@@ -1,0 +1,17 @@
+{
+ "i": 3696,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لعط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 254,
+  "page_to": 255
+ },
+ "ar": "اللام والعين والطاء. الصَّحيح منه لونٌ من الألوان. قال ابن دريد: اللُّعْطَة: خَطٌّ بسواد (٣). ولعْطَةُ الصَّقْرِ: السُّفْعة في وجْههٍ».\nويقال اللُّعْطة: سوادٌ في عنق الشاة. وذكر بعضهم: لَعَطَه بحقِّة: اتّقاه به (١).\nومرَّ فلانٌ لاعِطاً، أي مَرَّ معارِضاً إلى جنبِ حائط.",
+ "az": "«لعط» — lam, ayn və ta. Burada səhih olan rəng növlərindən biridir. İbn Dürid demişdir: «اللُّعْطَة» (al-lu'tah) — qara xətt (٣). «لعْطَةُ الصَّقْرِ» (la'tat as-saqr) — şahin üzündəki qaraltı/ləkə.\nVə deyilir: «اللُّعْطة» (al-lu'tah) — qoyunun boynundakı qaraltı. Bəziləri qeyd etmişdir: «لَعَطَه بحقِّة» (la'atahu bi-haqqih) — onunla özünü qorudu (١).\nVə filankəs «لاعِطاً» (la'itan) keçdi, yəni divarın yanında əyri şəkildə keçdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

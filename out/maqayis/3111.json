@@ -1,0 +1,17 @@
+{
+ "i": 3111,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فرث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 498,
+  "page_to": 498
+ },
+ "ar": "الفاء والراء والثاء أُصَيلٌ يدلُّ على شئ متفتِّت. يقال فَرَثَ كَبِدَه: فَتَّها. والفَرْث: ما فى الكَرِش. ويقال على معنى الاستعارة:\nأفْرَثَ فلانٌ أصحابه، إذا سَعَى بهم وألقاهم فى بَليَّة.",
+ "az": "[فرث] الفاء والراء والثاء أُصَيلٌ يدلُّ على شئ متفتِّت (Fay, ra və sə kiçik kök olub ovulmuş bir şeyi göstərir). يقال فَرَثَ كَبِدَه: فَتَّها (Deyilir: «fərəthə kibidəhu» — onun qaraciyərini parça-parça etdi). والفَرْث: ما فى الكَرِش (Və «əl-fərs» — işgənbənin içindəki yemək qalıqlarıdır). ويقال على معنى الاستعارة: أفْرَثَ فلانٌ أصحابه، إذا سَعَى بهم وألقاهم فى بَليَّة (Məcazi mənada deyilir: Filankəs yoldaşlarını «əfrəbə» — onlardan çuğulluq edib bəlaya atdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:27:33.580Z"
+}

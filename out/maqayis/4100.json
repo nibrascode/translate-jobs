@@ -1,0 +1,17 @@
+{
+ "i": 4100,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 413,
+  "page_to": 413
+ },
+ "ar": "النون والدال والباء ثلاثُ كلماتٍ: إحداها الأثَر، والثانية الْخَطَر، والثالثة تدلُّ على خفّةٍ * في شيء.\nفالأوّل النَّدَب: أثَر الجُرْح، والجمع أنداب، وذلك إذا لم يرتفع عن الجلد.\nوالثاني: النَّدَب: الخَطَر. وأنْدَبَ نَفْسَه: خاطَرَ بها. قال:\nولم أَقُمْ … على نَدَبٍ يوماً ولي نفس مُخْطِرِ (٢)\nوالأصل الثالث رجلٌ نَدْبٌ: خفيف. والنَّدْب: الفَرَس الماضي. وعندنا أنَّ النَّدْبَ في الأمر قريبٌ من هذا؛ لأنَّ الفقهاء يقولون: إنّ النَّدْب ما ليس بفرض. وإن كان هذا صحيحاً فلأن الحال فيه خفيفة.\nومما ليس من هذا الباب نَدْبُ النّادِبةِ الميتَ بحُسْن الثَّناء عليه. والنَّدْبُ:\nأن تدعُوَ القومَ إلى الأمر، فانتَدَبوا هم.",
+ "az": "[ندب] النون والدال والباء (n, d, b) — üç kəlmədir: birincisi iz, ikincisi təhlükə, üçüncüsü isə bir işdə yüngüllüyə (cəldliyə) dəlalət edir.\nBirincisi: «النَّدَب» (ən-nədəb) — yara izi, cəmi «أنداب» (əndab), bu, (yara izi) dəri səviyyəsindən yuxarı qalxmadığı zaman olur.\nİkincisi: «النَّدَب» (ən-nədəb) — təhlükə. «أنْدَبَ نَفْسَه» (əndəbə nəfsəh) — öz nəfsini təhlükəyə atdı. Şair demişdir:\nولم أَقُمْ … على نَدَبٍ يوماً ولي نفس مُخْطِرِ (٢)\n(Mən bir gün belə təhlükə üzərində dayanmadım, halbuki mənim təhlükəli nəfsim var idi)\nÜçüncü əsas: «رجل نَدْبٌ» (raculun nədbun) — cəld, yüngülvari kişi. «النَّدْب» (ən-nədb) — sürətli gedən at. Bizim fikrimizcə, buradakı «ən-nədb» sözü işdə (şəriətdə) buna yaxındır; çünki fəqihlər deyirlər ki, «ən-nədb» vacib olmayan (müstəhəb) şeydir. Əgər bu səhihdirsə, deməli, onun hökmündə yüngüllük olduğu üçündür.\nBu fəsildən olmayanlar: «ندب النّادِبة الميت» (nədün-nadibətil-miyyət) — ağlayan qadının ölünü gözəl təriflərlə yad etməsi. «النَّدْب» (ən-nədb) — tayfanı bir işə çağırmağın, onların da dərhal bu işə qoşulmasının adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

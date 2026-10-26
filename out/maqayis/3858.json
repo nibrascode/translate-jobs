@@ -1,0 +1,17 @@
+{
+ "i": 3858,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مزن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 318,
+  "page_to": 319
+ },
+ "ar": "الميم والزاء والنون أصلٌ صحيح فيه ثلاث كلمات متباينةِ القياس:\nفالأولى: المُزْن: السَّحاب، والقطعة مُزْنَة. ويقال في قول القائل وأظنُّه مصنوعاً:\nكأنَّ ابن مُزْنتها جانِجاً … فَسِيط لدى الأُفق من خِنْصرِ (١)\nإنّ ابن المُزْنة: الهِلال.\nوالثانية المازن: بَيض النَّمل.\nوالثالثة: مَزَنَ قِربَته: مَلأَها. وهو يتمزَّنُ على أصحابه، أي يتفضّل\nعليهم، كأنّه يتشبَّه بالمَزنِ سَخاءً. ولعل المُزْن هو الأصل في الباب، وما سواه فمفرَّعٌ عليه.",
+ "az": "[مزن] (Mizn) Mim, zay və nun hərflərindən ibarət səhih bir kök olub, ölçüsü fərqli olan üç sözü ehtiva edir: Birincisi: المُزْن (əl-muzn) — bulud, parçası isə مُزْنَة (muznə) adlanır. Şairin aşağıdakı sözündə — ki, mən onun uydurma olduğunu güman edirəm — belə deyilmişdir: كأنَّ ابن مُزْنتها جانِجاً … فَسِيط لدى الأُفق من خِنْصرِ (1) (Elə bil onun muznəsinin oğlu qanadını gərmişdir... və uzaqda sərçə barmağından qatışdırılmışdır). Şübhəsiz ki, «ibn əl-muznə» — hilal (təzə ay) deməkdir. İkincisi: المازن (əl-mazin) — qarışqa yumurtası. Üçüncüsü: مَزَنَ قِربَته (məzənə qirbətahu) — tuluğunu doldurdu. O, öz yoldaşlarına qarşı «təməzzün» edir, yəni onlara lütf göstərir, səxavətdə özünü buluda oxşadır. Ola bilsin ki, «əl-muzn» bu بابın (bölmənin) əslidir, başqaları isə ondan törəmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

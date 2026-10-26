@@ -1,0 +1,17 @@
+{
+ "i": 3835,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مذي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 309,
+  "page_to": 310
+ },
+ "ar": "الميم والذال والحرف المعتلّ يدلُّ على سهولةٍ في جريانِ شيءٍ مائع. منه المَذْي، وهو أرَقُّ ما يكون من النُّطفة، والفِعل منه مَذَيْتُ وَأمْذَيْتُ، [و] فيه الوضوء.\nومن هذا القياس المِذَاء: أن يجمع الرّجلُ بين نساء ورجال يُخَلِّيهم يُماذي بعضُهم بعضاً: و\nفي الحديث: «الغَيْرَة من الإيمان، والمِذَاء من النِّفاق».\nويقولون: إنَّ ماذِيَّ العسل أبيَضُهُ. وقياس الباب أنَّ الماذِيَّ السَّهلُ الجِرْية اللَّيِّن. وكذا الدُّروعُ (١) الماذِيَّة: السَّلِسَة. والخَمْر ماذِيَّة، إذا سُهلت في حَلْقِ شارِبِها.",
+ "az": "«مذي» (mim, zal və zəif hərf) — axıcı bir şeyin axmasında asanlığa dəlalət edir. Bunlardan biri مَذْي (məzy) — nütfənin ən duru hissəsidir, feli مَذَيْتُ وَأمْذَيْتُ (məzəytü və əmzəytü), [və] onda dəstəmaz almaq lazımdır. Bu ölçüdən olan Miza (المِذَاء): kişinin qadınlarla kişiləri bir yerə yığıb, bir-birləri ilə oynaşmalarına icazə verməsidir: Hədisdə buyurulmuşdur: «Qeyrət imandandır, mizap isə nifaqdandır». Deyirlər ki, balın ماذِيّ (mazi) növü ən ağ olanıdır. Bu fəslin qanunauyğunluğuna görə ماذِيّ (maziy) — axını asan və yumşaq olan deməkdir. Həmçinin ماذِيَّة (maziyyə) zirehləri də belədir: yumşaq və axıcı. Şərab da boğazdan eləcə asanlıqla keçdikdə ماذِيَّة (maziyyə) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

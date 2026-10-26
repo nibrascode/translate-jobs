@@ -1,0 +1,17 @@
+{
+ "i": 4366,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هزع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 50,
+  "page_to": 50
+ },
+ "ar": "الهاء والزاء والعين أصلانِ يدلُّ أحدهما على وَخشَة، والآخر على اضطرابِ وكَسْر.\nالأوَّل قولهم: مَضَى هَزِيعٌ من الليل، أى طائفةٌ منه. وتهزَّعَ فلانٌ لفلان: تنكَّرَ. قال الخليل: هو من هزيع اللّيل، لأنَّ تلكَ ساعةُ وَحْشةٍ.\nوالآخر قولهم: تهَزَّعت القناةُ: اضطربَتْ. وتهَزَّعَت المرأة. نثَنَّتْ. قال:\n* مِثْلَ القَطاةِ لَدْنَةَ التَّهَزُّعِ (١) *\nوتهزَّعَ السَّيْفُ: اضطَرَب. وتَهَزَّعت الإبلُ فى سَيرِها: اهتزَّتْ.\nوهَزَعتُ العَظمَ: كسرتُه. والمِهْزَع: الأسدُ الحَطُوم قال:\nكأنَّهُمُ يَخشَونَ مِنْكَ مذرَّباً … بحَلْيَةَ مشبوحَ الذِّرَاعينِ مِهزَعا (٢)\nومما شذَّ عن البابين الأهْزَع: السَّهم يَبقى فى الكِنانة، لأنَّه أردَؤُها، وقيل يكون أجودَها. ويقولون: مالَهُ أهْزَعُ، أى ما له شئ.",
+ "az": "«هزع» — الهاء والزاء والعين (hə, zay və eyn) iki əsasdır ki, bunlardan biri qorxuya, digəri isə iztirab və sınmağa dəlalət edir. Birincisi, onların sözüdür: مَضَى هَزِيعٌ من الليل (gecənin bir hissəsi keçdi). وتهزَّعَ فلانٌ لفلان (filankəs filankəsə qarşı dəyişdi, yad münasibət bəslədi). Xəlil demişdir: Bu, gecənin heziyindən götürülüb, çünki o saat qorxulu saatdır. Digəri isə onların sözüdür: تهَزَّعت القناةُ (nizə titrədi). وتهَزَّعت المرأة (qadın qıvrıldı, zərifləşdi). O demişdir: * مِثْلَ القَطاةِ لَدْنَةَ التَّهَزُّعِ * (Qata quşu kimi zərif qıvrılan). وتهزَّعَ السَّيْفُ (qılınc titrədi). وتَهَزَّعت الإبلُ فى سَيرِها (dəvələr gedişlərində titrədi, yırğalandı). وهَزَعتُ العَظمَ (sümüyü sındırdım). والمِهْزَع (mihzəc) — sındıran şir. O demişdir: كأنَّهُمُ يَخشَونَ مِنْكَ مذرَّباً … بحَلْيَةَ مشبوحَ الذِّرَاعينِ مِهزَعا (Sanki onlar səndən Həlyədə iti uclu, qolları açılmış, şirləri qorxudan birini gözləyirlər). Bu iki babdan istisna olan: الأهْزَع (əhzəc) — kinayedə qalan oxdur, çünki o oxların ən pisidir, lakin onun ən yaxşısı olduğu da deyilmişdir. Deyirlər: مالَهُ أهْزَعُ (onun heç nəsi yoxdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

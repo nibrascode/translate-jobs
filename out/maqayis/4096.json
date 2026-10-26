@@ -1,0 +1,17 @@
+{
+ "i": 4096,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 410,
+  "page_to": 411
+ },
+ "ar": "النون والدال واللام أصلٌ صحيح يدلُّ على نَقْلٍ واضطراب.\nيقولون: نَدَلتُ الشيءَ ندلاً، إذا نَقلتَه. قالوا: واشتقاق المِنديل منه. ويقولون:\nالنَّدْل: الاختلاس. قال:\n* فَنَدْلاً زُرَيْقُ المالَ ندلَ الثَّعالبِ (١) *\nوالمُنَوْدِل: الشيخ الكبير، سمِّي بذلك لاضطرابه. ونَوْدَلَتْ خُصياه:\nاسترخَتا.\nومما شذَّ عن الباب إن صحَّ: النَّدْل، يقال إنَّه الوسَخ: ولا يُبنَى منه فِعل.",
+ "az": "[ندل] النون والدال واللام (n, d, l) — kök olub, bir yerdən başqa yerə daşınmaya və sarsıntıya dəlalət edən səhih bir əsasdır. Deyirlər: «ندلت الشيء ندلا» (nədaltüş-şəy'ə nədlən) — bir şeyi daşıdığın zaman. Dedilər ki, «المينديل» (əl-mindil - dəsmal) sözünün kökü də bundandır. Deyirlər: «النَّدْل» (ən-nədl) — oğurlayıb aradan çıxmaqdır. Şair demişdir:\n* فَنَدْلاً زُرَيْقُ المالَ ندلَ الثَّعالبِ (١) *\n(Ey Züreyq, tülkülərin apardığı kimi malı dərhal apar!)\n«المُنَوْدِل» (əl-munovdil) — qocalığından əsən və titrəyən yaşlı kişi; sarsıntısı olduğuna görə belə adlandırılmışdır. «نَوْدَلَتْ خُصياه» (novdələt xusyahu) — (qocanın) xayaları sallandı.\nBu fəsildən istisna olan (əgər səhihdirsə) «النَّدْل» (ən-nədl) sözüdür, bunun kir mənasında olduğu deyilir: bundan feli düzəldilmir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

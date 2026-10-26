@@ -1,0 +1,17 @@
+{
+ "i": 3500,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كره",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 172,
+  "page_to": 173
+ },
+ "ar": "الكاف والراء والهاء أصلٌ صحيحٌ واحد، يدلُّ على خلاف الرِّضا والمحبّة. يقال: كرِهتُ الشَّيءَ أكرَهُه كَرْها. والكُرْه الاسم. ويقال:\nبل الكُرْه: المشقّة، والكَرْه: أن تكلَّف الشيءَ فتعملَه كارهاً. ويقال من الكُره\nالكَرَاهِيَة والكَرَاهيّة. والكَرِيهة: الشِّدة في الحرب (١). ويقال للسَّيف الماضِي في الضّرائب: ذُو الكريهة (٢). ويقولون: إنّ الكَرْه: الجَمَل الشَّديد الرأس، كأنّه يكره الانقياد.",
+ "az": "[كره]. Kaf, ra və hə tək və düzgün kök olub, razılıq və məhəbbətin əksinə dəlalət edir. Deyilir: كرِهتُ الشَّيءَ أكرَهُه كَرْها (Bir şeyə nifrət etdim, ona nifrət edirəm kərh olaraq). Əl-kürh isə isimdir. Deyilir: Bəlkə də əl-kürh məşəqqətdir, əl-kərh isə bir şeyə məcbur edilməyin və onu istəməyərək yerinə yetirməyindir. Kürhdən əl-kərahiyyə və əl-kərahiyyət düzəlir. Əl-kərihə: müharibədəki şücaət və şiddətdir (١). Və zərbələrdə keçərli olan qılınca ذُو الكريهة (şiddət sahibi) deyilir. Və deyirlər ki, əl-kərh: başı sərt olan dəvədir, sanki o, boyun əyməyə nifrət edir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

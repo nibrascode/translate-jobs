@@ -1,0 +1,17 @@
+{
+ "i": 4544,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وسن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 111,
+  "page_to": 111
+ },
+ "ar": "الواو والسين والنون: كلمتانِ متقاربتان. الوَسَنُ:\nالنُّعاس، وكذا السِّنَة. ورجلٌ وَسْنانُ. وتوسَّنَ الفحلُ أُنثاه: أتاها نائمة.\nوالكلمة الأخرى قولهم: دَعْ هذا الأمَر فلا يكونَنَّ لك وَسَناً، أى لا تطلبْه ولا يكونَنَّ من همِّك.",
+ "az": "«وسن» الواو والسين والنون (vav, sin və nun): bir-birinə yaxın iki kəlmədir. الوَسَنُ (əl-vəsən) - mürgü, eləcə də السِّنَة (əssinə) də belədir. وَسْنانُ (vəsnən) - mürgüləyən kişi. Və dişi dəvənin yanına gəldikdə توسَّنَ الفحلُ أُنثاه (təvəssənə əl-fəhlü ünsahu) - onu yuxulu halda haqladı. Digər kəlmə isə onların bu sözüdür: دَعْ هذا الأمَر فلا يكونَنَّ لك وَسَناً (də’ həzə əl-əmrə fə lə yekunənne lək vəsənən) - bu işi tərk et, qoy o sənin üçün dərdi-sərin olmasın, yəni onu tələb etmə və o sənin qayğında olmasın.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

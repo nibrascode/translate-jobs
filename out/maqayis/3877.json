@@ -1,0 +1,17 @@
+{
+ "i": 3877,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مشج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 326,
+  "page_to": 326
+ },
+ "ar": "الميم والشين والجيم أصلٌ صحيح، وهو الخَلْط. ونُطفةٌ أمشاجٌ، وذلك اختلاط الماء والدّم. ويقال إن الواحد مَشْجٌ ومَشِج (١) ومَشيج.\nقال الشاعر (٢):\nكأنَّ النَّصلَ والفُوقَينِ منه … خلافَ الصَّدر سِيطَ به مشيجُ (٣)",
+ "az": "«مشج» (məşəc) — mim, şin və cim hərfləri qarışmaq mənasını verən səhih bir kökdür. Və نُطفةٌ أمشاجٌ (nutfətün əməşacün) — bu, su ilə qanın qarışmasıdır. Deyirlər ki, tək halı مَشْجٌ (məşcün), مَشِجٌ (məşicün) (١) və مَشيجٌ (məşiyün) kimidir. Şair demişdir (٢): «Sanki onun nizə ucu ilə ox dəmirləri… sinədən başqa bir şəkildə qarışıq idi (٣)».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

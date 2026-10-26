@@ -1,0 +1,17 @@
+{
+ "i": 4689,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 156,
+  "page_to": 156
+ },
+ "ar": "الياء والعين والراء. يقال: اليَعْر: الْجَدْى. قال:\n* كما رُبِط اليَعْرُ (٣) *\n[أى كما رُبِط (٤)] عند الزُّبْيَة للذِّئب. واليُعَار: صوت الشَّاء. يقال يَعَرَت تَيْعِرَ (٥) يُعَاراً.",
+ "az": "«يعر» (Y-Ə-R): Deyilir ki, اليَعْرُ (əl-yər) – keçi balasıdır. Şair demişdir: * Necə ki, yər bağlandı (3) * [Yəni necə ki, bağlandı (4)] quyunun kənarında canavar üçün. وَاليُعَارُ (əl-yüar) – qoyun-keçinin səsi. Deyilir: «يَعَرَت تَيْعِرَ (5) يُعَاراً» (mələrəz etdi, mələdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

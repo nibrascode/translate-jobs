@@ -1,0 +1,17 @@
+{
+ "i": 3869,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مسد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 323,
+  "page_to": 323
+ },
+ "ar": "الميم والسين والدال أصلٌ صحيحٌ يدلُّ على جَدْل شَيء وطَيِّه. فالمَسَد: لِيفٌ يُتَّخذ من جريد النَّخل. والمَسَدُ: حبلٌ يتَّخذ من أوبار الإبل. قال:\n* ومَسَدٍ أُمِرَّ من أيَانِقِ (٣) *\nوامرأةٌ ممسودةٌ: مجدولة الخَلق، كالحبل الممسود، غير مسترخية. وعبارةُ بعضهم فى أصله أنَّه الفَتْل. والمَسَد: اللِّيف، لأنَّ من شأنه أن يفتَلَ للحَبْل.",
+ "az": "[مسد] (Məsəd) Mim, sin və dal hərfləri bir şeyi hörüşdürməyə və bükməyə dəlalət edən səhih kökdür. Əl-məsəd (المَسَد) — xurma budaqlarının lifindən düzəldilən ipdir. Əl-məsəd — dəvə yunundan düzəldilən ipdir. Şair demişdir: * ومَسَدٍ أُمِرَّ من أيَانِقِ (3) * (Və dəvə yundan bükülüb hazırlanmış ipdən). İmrəətün məmsudətün (امرأةٌ ممسودةٌ) — bədəni ip kimi bərk hörülmüş, boşalmamış qadın. Bəzilərinin onun əsli haqqında ifadəsi budur ki, o, əl-fətl (bükmə) deməkdir. Əl-məsəd — lifdir, çünki onun xüsusiyyəti ip üçün bükülməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

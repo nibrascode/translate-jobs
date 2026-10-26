@@ -1,0 +1,17 @@
+{
+ "i": 3226,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قوز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 39,
+  "page_to": 40
+ },
+ "ar": "القاف والواو والزاء كلمةٌ واحدة، وهى القَوز: الكثيب، وجمعه أقوازٌ وقِيزان. قال:\nوأُشْرِفُ بالقَوزِ اليَفَاعِ لَعلَّنى … أرَى نَارَ ليلَى أو يَرانِى بَصِيرُها (١)",
+ "az": "[قوز] «القاف» (قاف), «الواو» (واو) və «الزاء» (zai) — tək bir kəlmədir, o da «القَوز» (əl-qavz) — qum təpəsidir, cəmi «أقواز» (əqvaiz) və «قِيزان» (qizan) gəlir. Şair demişdir:\nوأُشْرِفُ بالقَوزِ اليَفَاعِ لَعلَّنى … أرَى نَارَ ليلَى أو يَرانِى بَصِيرُها (١)\n(Uca qum təpəsində ucalıram ki, bəlkə Leylanın odunu görüm və ya onun görkəmini görən məni görsün).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:47.283Z"
+}

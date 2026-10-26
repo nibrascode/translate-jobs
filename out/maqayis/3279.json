@@ -1,0 +1,17 @@
+{
+ "i": 3279,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قدو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 66,
+  "page_to": 67
+ },
+ "ar": "القاف والدال والحرف المعتلّ أصلٌ صحيح يدلُّ على اقتباسٍ بالشَّيء واهتداء، ومُقادَرة في الشيء حتى يأتي به مساوياً لغيره.\nمن ذلك قولهم: هذا قِدَى رُمْحٍ، أي قيسُه. وفلان قُدوةٌ (٥): يُقتدَى به.\nويقولون: إنَّ القَدْوَ: الأصل الذي يتشعَّب منه الفروع.\nومن الباب: فلانٌ يَقْدُو به فرسُه، إذا لزم سَنَن السِّيرة. وإنما سمِّي ذلك قدْواً لأنَّه تقديرٌ في السِّير. وتقدَّى فُلانٌ على دابَّته، إذا سار سِيرةً على استقامة. ويقال:\nأتتْنا قادِيَةٌ من النَّاس، وهم أوَّل مَنْ يطرأ * عليك. وقد قدَتْ تَقدِي. وكلُّ ذلك من تقدير السَّير.\nومما شذَّ عن هذا الباب القَدْو: مصدر قَدَا اللَّحْمُ يَقْدُو [قَدْواً (١)] ويَقْدِي قَدْيًا، إذا شمِعتَ له رائحةً طيّبة. ويقولون: رجلٌ قِنْدَأْوٌ: شديد الظَّهر قصير العُنق.",
+ "az": "«قدو» — قاف، dal və müəll hərf (üçüncü hərf illətli) əsli səhih olub, bir şeydən nümunə götürməyə (iqtibas etməyə), hidayətə (doğru yola) və bir şeydə digərinə bərabər gələnə qədər ölçüb-biçməyə dəlalət edir. Bunlardan biri onların «هذا قِدَى رُمْحٍ» (həza qidə rumhin) sözüdür, yəni nizə boyu ölçüsündədir. Filankəs «قُدوةٌ» (qudvətün) — ardınca gedilən (nümunə götürülən) kəsdir. Deyirlər ki, «القَدْو» (əl-qədv) — budaqların şaxələndiyi əsl (kök)dür. Bu qapıdan: filankəsin atı «يَقْدُو به» (yaqdu bihi), əgər gedişat yoluna sadiq qalırsa. Bu, məhz qədv adlanmışdır, çünki o, gedişatda təqdir (ölçü) etməkdir. Filankəs minik heyvanı üzərində «تقدَّى» (təqaddə) etdi, yəni düz yolla getdi. Deyilir ki, bizə insanlardan «قادِيَةٌ» (qadiyətün) gəldi, onlar sənin üzərinə ilk gəlib çıxanlardır. «وقد قدَتْ تَقدِي» (və qəd qədət təqdi). Bütün bunlar gedişatın təqdir edilməsindən ibarətdir. Bu qapıdan kənara çıxan (şaz olan) «القَدْو» (əl-qədv) sözüdür: «قَدَا اللَّحْمُ يَقْدُو قَدْواً ويَقْدِي قَدْيًا» (ət qədə yaqdu qədvən və yaqdi qədyən) — ətin xoş qoxusunu eşitdiyin zaman (işlədilir). Deyirlər: «رجلٌ قِنْدَأْوٌ» (qindəvun kişi) — beli möhkəm, boynu qısa olan kəs.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:34:11.297Z"
+}

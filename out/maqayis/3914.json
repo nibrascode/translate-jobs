@@ -1,0 +1,17 @@
+{
+ "i": 3914,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مغد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 338,
+  "page_to": 339
+ },
+ "ar": "الميم والغين والدال، يقولون إنّه أصلٌ يدلُّ على نَعْمةٍ في الشَّيء. يقولون: المَغْد: الشَّابُّ الناعم. قال:\n* وكان قد شَبَّ شَباباً مَغْدا (٥) *\nوأمْغَدَ الرّجُل: أطالَ الشَّرابَ إمغاداً. ومَغَدَ الفصيلُ الضّرعَ مغداً: تناوَلَه ليشربَ اللَّبَن. واللَّبَنُ أنعَمُ ما يكون من الغِذاء وأليَنُه. والمَغْد في غُرَّةِ الخيل كأنَّها وارمة، وذلك أنّ الشعر يُنتَف ثم يَنبُتُ فيكون ليِّناً ناعمًا. ويقولون المَغْد:\nالباذَنْجَان.",
+ "az": "[مغد] \nMim, ğein və dal hərfləri, onların deməsinə görə, bir şeydə yumşaqlığa və tər-təzəliyə (nəzakətə) dəlalət edən bir kökdür. Deyirlər: المَغْد — tər-təzə cavan. O demişdir:\n* وكان قد شَبَّ شَباباً مَغْدا (٥) *\nmənası: «O, tər-təzə bir cavanlıqla böyümüşdü».\nVə أмْغَدَ الرّجُل: çoxlu şərab içdi. Və مَغَدَ الفصيلُ الضّرعَ مغدًا: süd içmək üçün onu ağzına aldı. Süddür ki, qidaların ən ləzzətlisi və ən yumşağıdır. Və atların alınlarındakı ağ ləkəyə المَغْد deyilir, sanki şişkindir, bu da tükün yolunub yenidən çıxması və yumşaq, tər-təzə olması səbəbindəndir. Və deyirlər ki, المَغْد — badımcandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

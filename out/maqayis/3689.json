@@ -1,0 +1,17 @@
+{
+ "i": 3689,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لعق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 252,
+  "page_to": 252
+ },
+ "ar": "اللام والعين والقاف أصلٌ يدلُّ على لَسْبِ شيء بإصبعٍ أو غيرها. يقال: لَعِقْتُ الشيء ألْعَقُهُ. ولَعَقة الدّمِ: قومٌ تحالَفُوا على حرب ثم نَحرُوا جَزُوراً فَلعِقُوا دمها. واللَّعُوق: اسمُ ما يُلعَق. واللُّعْقة: ما تأخذه المِلعقة. واللَّعْقة المرّةُ الواحدة. واللَّعْوَقة: سرعة الإنسان فيما أخَذَ (٣) فيه من عمل في خِفّة ونَزَق.\nورجل لَعْوَقٌ: خفيف، كأنّه شُبِّهَ بلَعقةٍ واحدةٍ في سُرعتها وخِفّتها. قال بعضهم:\nيقال ما بالأرض لَعْقَةٌ من ربيع، ليس إلاّ [في (٤)] الرُّطْب يلعقها المال. قال ويقال:\nلَعِقَ فلانٌ إصبَعَه، إذا مات، واللَّعُوقُ: أقلُّ الزاد. يقال: ما مَعَنا إلاَّ لَعُوق.\nوالمِلْعَقة: ما يُلْعَقُ به. قال الخليل: واللُّعَاق: ما بَقِيَ في فيه، بقيَّةً مما ابتَلع.",
+ "az": "[لعق] (ləəq) — lam, eyn və qaf barmaqla və ya başqa şeylə bir şeyi yalamağa dəlalət edən kökdür. Deyilir: لَعِقْتُ الشيء ألْعَقُهُ (Mən şeyi yaladım, yalayaram). Və لَعَقة الدّمِ (qan yalayanlar) — bir dəvə kəsib qanını yalamaq üçün müharibəyə görə əhd bağlayan tayfadır. اللَّعُوق (əlləuq) — yalanan şeyin adıdır. اللَّعْقَة (əlləqə) — qaşıqla götürdüyün miqdar. اللَّعْقَة (əlləqə) — bir dəfə yalamaq. اللَّعْوَقَة (əlləuqə) — insanın yüngüllük və səbirsizliklə gördüyü işə sürətlə başlamasıdır (٣).\nVə kişi لَعْوَقٌ (ləuq) — yüngül, sanki sürət və yüngüllükdə tək bir yalamağa bənzədilmişdir. Bəziləri demişdir: Deyilir ki, yerdə yaz yağışından لَعْقَةٌ (ləqə) yoxdur, mal-qaranın yaladığı təzə otlardan başqa heç nə yoxdur (٤). Həmçinin deyilir: لَعِقَ فلانٌ إصبَعَه (filankəs barmağını yaladı) — öldüyü zaman. اللَّعُوق (əlləuq) — az azuqədir. Deyilir: Bizdə yalnız ləuq vardır. Və المِلْعَقة (əlmiləqə) — yalanan alət, qaşıq. Xəlil demişdir: اللَّعَاق (əlləqə) — udduğu şeydən ağzında qalan artıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3070,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "الفاء والجيم والميم. زعم ابنُ دريد: تفجَّم الوادِى وانفجم، إذا اتّسع. وهذه فُجْمَة الوادِى، أى متَّسَعُه (٣).",
+ "az": "«فجم» (fə-c-m): Fə, cim və mim hərfləri. İbn Dürid iddia etmişdir ki, «تفجَّم الوادِى وانفجم» (təfəccəməl-vadi və infəcəmə) - vadi genəldi və genişləndi deməkdir. Bu, «فُجْمَة الوادِى» (fucmatul-vadi), yəni onun geniş yeri deməkdir (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

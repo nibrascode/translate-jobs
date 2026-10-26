@@ -1,0 +1,17 @@
+{
+ "i": 3866,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مسي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 321,
+  "page_to": 322
+ },
+ "ar": "الميم والسين والحرف المعتلّ كلمتانِ متباينتان جدا.\nالأولى زمانٌ من الأزمنة، وهو خلاف الإصباح. يقال أصبَحْنا وأمسَيْنا، وأتانا لمُسْيِ خامسةٍ ومِسْي خامسة. والمَسَاء: خِلاف الصَّباح.\nوالكلمة الأخرى المَسْي: أن يُدخِل الرّاعِي يَدَه في رَحِم النّاقة يَمسُطُ ماءَ الفَحل من رحِمِها كراهَةَ أن يَحمِل. ويقال إن المَاسِيَ: الماجِن، وهذا من باب\nالمهموز، يقال مَسَأ، إذا مَجَنَ. وقال ابن دريد (١) مَسَأَ الرّجلُ: مَرَن على الشَّيء.",
+ "az": "[مسي] (Məsi) Mim, sin və uzویان hərf olub bir-birindən çox fərqlənən iki sözdür. Birincisi: zamanlardan bir zamandır, səhərləməyin (إصباح) əksidir. Deyilir: səhərlədik «əsbəhna», axşamladıq «əmsəna», və o, bizə beşinci günün müsiyində (لمُسْيِ خامسة) və misixtə (مِسْي خامسة) gəldi. Əl-məsa (المَسَاء) — səhərin əksidir. Digər söz isə əl-məsy (المَسْي) — çobanın dişi dəvənin rəhmə əlini salıb, balalamasını istəmədiyi üçün erkəyin suyunu oradan sıxıb çıxarmasıdır. Deyilir ki, əl-masi (المَاسِي) — əxlaqsız, şıltaq adamdır, bu isə həmzəli sözlər babındandır, deyirlər: məsəə (مَسَأ), yəni şıltaqlıq etdi. İbn Dürid (1) demişdir ki, kişi məsəə (مَسَأَ الرّجُلُ) — bir işə alışdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

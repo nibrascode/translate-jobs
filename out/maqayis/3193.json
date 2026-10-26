@@ -1,0 +1,17 @@
+{
+ "i": 3193,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قمح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 24,
+  "page_to": 25
+ },
+ "ar": "القاف والميم والحاء أُصَيلٌ يدلُّ على صفةٍ تكون عند شُرب الماء من الشَّارب، وهو رَفْعُهُ رأسَه. من ذلك القامح، وهو الرَّافع رأسَه من الإبل عند الشُّرب امتناعا منه. وإبلٌ قِماح. قال:\nونحنُ على جوانبِها قُعودٌ … نَغضُّ الطَّرفَ كالإبِل القِمَاحِ (٣)\nويقولون: رَوِيَتْ حَتَّى انقَمَحَتْ، أى تركت الشُّرب رِيَّا. وشَهْرا قِمَاحٍ:\nأشدُّ ما يكون من البَرْدِ، وسمِّيا بذلك لأنّ الإبلَ إذا وردت آذاها بَردُ الماء فَقَامَحَتْ، أى رفَعَتْ رءوسَها.\nومما شذَّ عن هذا الأصل القَمْح، وهو البُرّ. ويقولون - ولعله أن يكون\nصحيحاً: اقتَمَحْتُ السَّويقَ وقَمَحتُه، إذا ألقيتَه فى فمك براحَتِك. قال ابن دريد (١):\nالقُمْحة من الماء: ما ملَأَ فاكَ منه. والقُمَّحات: الوَرْس، أو الزَّعفران، أو الذَّرِيرة، كلُّ ذلك يُقال.",
+ "az": "[قمح] \nالقاف والميم والحاء (قاف, mim və hə) — su içən şəxsin su içərkən etdiyi sifətə, yəni başını qaldırmasına dəlalət edən kiçik bir kökdür. Bunlardan biri القامح-dir, o da su içərkən sudan imtina edərək başını qaldıran dəvədir. Və إبلٌ قِماح (başını qaldıran dəvələr). O demişdir:\nونحنُ على جوانبِها قُعودٌ … نَغضُّ الطَّرفَ كالإبِل القِمَاحِ (٣)\n\nVə deyirlər: رَوِيَتْ حَتَّى انقَمَحَتْ (Doyunca su içdilər, hətda başlarını qaldırıb içməyi tərk etdilər). \nŞəhra qimahin (قِمَاح): Soyuğunn ən şiddətli vaxtı, ona bu ad ona görə verilmişdir ki, dəvələrə su gəlib çatanda suyun soyuqluğu onlara əziyyət verir və başlarını qaldırırlar (قامَحَتْ).\n\nVə bu əsldən istisna olan القَمْح (buğda) sözüdür. Deyirlər — və ola bilsin ki, bu səhih olsun: اقتَمَحْتُ السَّويقَ və قَمَحْتُه — əlinin içi ilə onu ağzına atdığın zaman. İbn Dürəyd (١) demişdir: \nالقُمْحَة من الماء: Ağzını dolduran su miqdarı.\nالقُمَّحات: Vərs (bitki növü), zəfəran və ya zərirə; bütün bunlara belə deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:44.429Z"
+}

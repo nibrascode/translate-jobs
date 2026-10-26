@@ -1,0 +1,17 @@
+{
+ "i": 3412,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 140,
+  "page_to": 141
+ },
+ "ar": "الكاف والنون والدال أصلٌ صحيحٌ واحد يدلُّ على القَطْع.\nيقال كَندَ الحبْلَ يكنُده كَنْداً. والكَنُود: الكفور للنِّعمة. وهو من الأوّل، لأنَّه يكنُد الشكر، أي يقطعُه. ومن الباب: الأرضُ الكَنود، وهي التي لا تُنبِت. وقال الأعشى:\nأَمِيطِى تُمِيطى بصُلْبِ الفُؤادِ … وَصُولِ حِبالٍ وكنَّادِها (٥)\nوسمِّي كِندةُ فيما زعموا لأنَّه كَنَد أباه، أي فارَقَه ولَحِقَ بأخواله ورأَسَهُم (١) فقال له أبوه: كَندْتَ.",
+ "az": "[كند] Kaf, nun və dal kəsməyə dəlalət edən yeganə səhih bir kökdür. Deyilir: «كَندَ الحبْلَ يكنُده كَنْداً» (ipiş kəsdi). «الكَنُود» (kənud) — nemətə nankorluq edən. Bu, birinci mənadandır, çünki o, şükrü kəsir, yəni onu kəsib üzür. Bu babdəndir: «الأرضُ الكَنود» (kənud torpaq) — bitki bitirməyən yer. Əşəy demişdir: «أَمِيطِى تُمِيطى بصُلْبِ الفُؤادِ … وَصُولِ حِبالٍ وكنَّادِها» (٥) (Ürəyin təmizliyi ilə rəftar et, ipləri birləşdirən və onları kəsənlə...). Zənn edirlər ki, «كِندة» (Kində) ona görə belə adlandırılmışdır ki, o, atasına nankorluq etmiş, yəni ondan ayrılmış, dayılarının yanına gedib onlara başçılıq etmişdir (١). Atası ona demişdi: «كَندْتَ» (kəndə, yəni əlaqəni kəsdin).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

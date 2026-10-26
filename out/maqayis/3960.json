@@ -1,0 +1,17 @@
+{
+ "i": 3960,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 355,
+  "page_to": 356
+ },
+ "ar": "النون والسين أصل صحيح له معنيان: أحدهما نوع من السّوق، والآخر قلّة في الشيء ويختصّ به الماء.\nفالأوَّل نَسَّ إبلَه ينُسُّها نَسًّا: ساقها.\nوالثاني قولهم: نسَّت القطاةُ: عَطِشت. ويقال لمَكَّة النّاسَّة، لقلّة الماءِ بها.\nونَسَّتِ الخُبْزةُ نَسًّا: يبست. ونسّت الجُمَّة: تشعَّثَت (١)، وذلك لقِلّة الدُّهن فيها.\nويقال للبلَل الذي يكون برأس العود إذا أُوقِدَ: النَّسِيسة، وبه تُشَبَّهُ بقيّةُ النّفْس.\nقال: ويقال له النَّسيس.",
+ "az": "[نس] Nun və sin - iki mənası olan səhih kökdür: biri bir növ qovub aparmaq (sürmək), digəri isə bir şeydə (xüsusən də suda) azlıqdır.\nBirincisi: «نَسَّ إبلَه ينُسُّها نَسًّا» — dəvələrini qovdu (sürdü).\nİkincisi: onların «نسّت القطاةُ: عَطِشت» sözüdür (bağrıqara quşu susadı). Su azlığına görə Məkkəyə «النّاسَّة» deyilir.\n«ونسّتِ الخُبْزةُ نَسًّا» — çörək qurudu. «ونسّت الجُمَّة» — saç hörüyü pırtlaşıq (pərişan) oldu (١), bu da içindəki yağı az olduğuna görədir.\nOd yandırıldıqda odun başındakı rütubətə «النَّسِيسة» deyilir, nəfsin qalan hissəsi də buna bənzədilir. O demişdir: Və ona «النَّسيس» də deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

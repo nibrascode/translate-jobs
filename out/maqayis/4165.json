@@ -1,0 +1,17 @@
+{
+ "i": 4165,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نطش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 443,
+  "page_to": 443
+ },
+ "ar": "النون والطاء والشين أصلٌ يدلُّ على حركةٍ وقُوّة. يقولون:\nالنَّطْش: شِدَّة الْجَبْلَة. وما به نَطِيشٌ، أي قُوّة. قال ابنُ دريد (٢): قولهم:\nعَطْشانُ نَطْشان، من قولهم: ما به نَطِيش، أي حَرَكة.",
+ "az": "[نطش] (nun, ta və şin) – hərəkətə və qüvvəyə delalət edən bir kökdür. Deyirlər: النَّطْش (ən-natş) – xilqətin (təbiətin) gücü. وَما به نَطِيشٌ (və ma bihi natışun) – yəni onda heç bir güc yoxdur. İbn Dureyd (٢) demişdir: Onların: عَطْشانُ نَطْشان (atşanun natşan) sözü ما به نَطِيش (ma bihi natış), yəni hərəkət yoxdur ifadəsindən götürülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

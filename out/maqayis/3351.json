@@ -1,0 +1,17 @@
+{
+ "i": 3351,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 111,
+  "page_to": 111
+ },
+ "ar": "القاف والعين والضاد كلمةٌ تدلُّ على عَطْف شيء وحَنْيِه.\nمن ذلك القَعْض: عطفُك رأسَ الخشبة، كما تُعطَف عروش الكَرْم. وهو قولُه:\n* أطرَ الصَّنَاعَين [العريشَ] القَعْضا (١) *",
+ "az": "[قعض] (qə-ə-d): Qaf, eyn və dad bir şeyi əyməyə və bükməyə dəlalət edən sözdür. Bunlardan biri «القَعْض» (əl-qəd): taxtanın başını əyməyin, necə ki üzüm tənəklərinin çardaqları əyilir. Bu, onun (şairin) sözüdür: «* أطرَ الصَّنَاعَين [العريشَ] القَعْضا *» (١) (Sənaye, yəni sənətkar qadınların düzəltdiyi əyilmiş çardağı bükdü).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

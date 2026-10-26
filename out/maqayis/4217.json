@@ -1,0 +1,17 @@
+{
+ "i": 4217,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 467,
+  "page_to": 467
+ },
+ "ar": "النون والقاف والخاء كلمةٌ تدلُّ على قَرْع شيء. وماءٌ نُقَاخٌ:\nبارد عذب، كأنَّه ينقَخ العطشَ ببَردِه، أي يقرَعُه. والنَّقْخ: نَقْب الرَّأْس عن الدِّماغ.",
+ "az": "[نقخ] Nun, qaf və xa bir şeyi döyməyə dəlalət edən bir kəlmədir. وَماءٌ نُقَاخٌ: soyuq və şirin su, elə bil o, öz soyuqluğu ilə susuzluğu kəsir, yəni onu vurur. وَالنَّقْخ: başı beyindən dəşmək.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:21.983Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4292,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 24,
+  "page_to": 24
+ },
+ "ar": "الهاء والياء والسين. يقولون: الهَيْسُ: السَّيْرُ. قال:\n* إحدَى لياليكِ فهِيِسى هِيسِى (٢) *",
+ "az": "[هيس] (Heys): Hə, ya və sin. Deyirlər ki, الهَيْسُ (əl-heys): gediş, səyahət. Şair demişdir:\n\n* إحدَى لياليكِ فهِيِسى هِيسِى (2) *\n(Gecələrindən biri budur, gəz, hərəkət et!).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

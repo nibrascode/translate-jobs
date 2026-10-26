@@ -1,0 +1,17 @@
+{
+ "i": 4160,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نطق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 440,
+  "page_to": 441
+ },
+ "ar": "النون والطاء والقاف أصلانِ صحيحان: أحدهما كلام أو ما أشبهه، والآخَر جنسٌ من اللِّباس.\nالأوَّل المَنْطِق، ونَطَق يَنطِق نُطْقًا. ويكون هذا لما لا نفهمه نحن. قال اللّه تعالى في قِصّة سليمان: ﴿عُلِّمْنا مَنْطِقَ اَلطَّيْرِ﴾.\nوالآخَر النِّطاق: إزارٌ فيه تِكَّة. وتسمَّى الخاصرة: الناطقة، لأنَّها بموضع النِّطاق. ويقال للشَّاة التي يُعْلَمُ عليها في موضِع النِّطاق بحُمْرَة: منَطَّقة. وذات النِّطاق: أكَمَةٌ لهم. والمِنْطَق: كلُّ ما شَدَدتَ به وَسَطك. والمِنْطَقة: اسمٌ لشيء بعينه. وجاء فلانٌ منتطِقًا فرسَه، إذا جانَبَه ولم يركبْه، كأنّه عِنْدَ النِّطاق منه، إذْ كان بجَنْبه. فأمَّا قولُه:\nأبْرَحُ ما أدَامَ اللّهُ قَومي … على الأعداءِ منتطقًا مُجِيدا (١)\nفقد قال قومٌ: أراد به هذا، وأنَّه لا يزال يَجنُبُ فرساً جوادا. ويقال هو من الباب الأوَّل، أي منتطقٌ قائلٌ مَنْطِقًا في الثَّناء على قومى.\nويقولون - وهو من الثَّانى -\n«منْ يَطُلْ ذَيلُ أبيه ينتطِقْ به (٢)». وهو مثلٌ، أي من كَثُر بنو أبيه أعانُوه.",
+ "az": "[نطق] (nun, ta və qaf) – iki səhih kökdür: biri danışıq və ya ona bənzər şey, digəri isə paltar növüdür. Birincisi: المَنْطِق (əl-mən-tiq), نَطَق يَنطِق نُطْقًا (nətəqə yən-tiqu nutqən). Bu, bizim anlamadığımız şeylər üçün də olur. Uca Allah Süleymanın əhvalatında buyurmuşdur: ﴿عُلِّمْنا مَنْطِقَ اَلطَّيْرِ﴾ (mənaca tərcümə: «Bizə quşların dili öyrədildi»). Digəri isə: النِّطاق (ən-nitaq) – içində kəməri olan izardır (belbağlı paltar). Böyür الناطقة (ən-natıqə) adlanır, çünki o, nitaqın yerindədir. Nitaq yerində qırmızı işarə qoyulmuş qoyuna منَطَّقة (mənəttəqə) deyilir. وَذات النِّطاق (və zatun-nitaq) – onlar üçün bir təpədir. وَالمِنْطَق (əl-mintiq) – belinə bağladığın hər bir şeydir. وَالمِنْطَقَة (əl-mintəqə) – müəyyən bir şeyin adıdır. Fulan gəldi: منتطِقًا فرسَه (müntətiqan fərasəh) – atı yanına alaraq ona minmədi, sanki atın nitaqı (kəməri) yanındaymış kimi onun yanında idi. Onun bu sözünə gəldikdə: أبْرَحُ ما أدَامَ اللّهُ قَومي … على الأعداءِ منتطقًا مُجِيدا (١) («Allah qövmümü daimi etdikcə, mən düşmənlərə qarşı səxavətli və belim kəmərli olaraq [hazır vəziyyətdə] ən çox ayrılmayan olacağam»); bir qrup insan demişdir: O, bununla bunu qəsd etmişdir, yəni o, həmişə yaxşı atı yanında aparır. Deyilir ki, bu, birinci fəsildəndir, yəni qövmünü tərifləməkdə söz söyləyən, kəmər bağlayandır. Onlar deyirlər – və bu ikincidəndir – «منْ يَطُلْ ذَيلُ أبيه ينتطِقْ به (٢)» («Atasının ətəyi uzun olan kəs onunla kəmər bağlayar»). Bu bir məsəldir, yəni atasının oğulları çox olan kəsə onlar kömək edərlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3406,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 138,
+  "page_to": 139
+ },
+ "ar": "الكاف والميم والعين أصلٌ صحيح يدلُّ على اطمئنان وسكون. زعموا أنَّ الكِمْع: البيت؛ يقال هو في كِمْعه أي بَيتِه. وسُمِّي كمعًا لأنّه يُسكَن. ومن الباب الكميع، وهو الضَّجيع، يقال كامَعَها، إذا ضاجَعَها. والمُكامَعة التي في الحديث، وقد نُهي عنها: أن يُضاجِع الرّجُلُ الرّجُلَ لا سِتْرَ بينهما (٣).\nوقال في الكميع:\nوَهَبَّت الشَّمْأَلُ البليلُ وإذْ … باتَ كميعُ الفَتاة مُلتفِعا (٤)\nوالكِمْع: المطمئنُّ من الأرض.",
+ "az": "[كمع] Kaf, mim və eyn rahatlığa və sükunətə dəlalət edən səhih bir kökdür. Zənn edirlər ki, «الكِمْع» (kimə) — ev deməkdir; deyilir: o, öz «كِمْع»indədir, yəni evindədir. O, kime adlanmışdır, çünki orada sakin olunur. Bu babdəndir «الكميع» (əl-kəmi- döşək yoldaşı), deyilir: «كامَعَها» (kəməəha - onunla döşəyi bölüşdü). Hədisdə qadağan olunmuş «المُكامَعة» (mükaməə) — kişinin başqa bir kişi ilə aralarında heç bir örtük olmadan bir yerdə yatmasıdır (٣). «الكميع» barədə demişdir: وَهَبَّت الشَّمْأَلُ البليلُ وإذْ … باتَ كميعُ الفَتاة مُلتفِعا (٤) (Şimalın sərin küləyi əsdiyi və qızın döşək yoldaşının bürünüb gecələdiyi vaxt...). Və «الكِمْع» (kimə) — yerin düz və rahat sahəsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

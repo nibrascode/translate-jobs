@@ -1,0 +1,17 @@
+{
+ "i": 4579,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وطح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 121,
+  "page_to": 121
+ },
+ "ar": "الواو والطاء والحاء: كلمةٌ تدلُّ على مُزاحَمةٍ ومُداوَلة. يقال:\nتَواطَحَ على الماء وِرْدٌ كثير، أى ازدَحَم. وتَواطحُوا (١) على الشَّئ: تداوَلُوه.\nويقولون: الوَطَح: ما تعلَّق بالأظلافِ ومَخَالِب الطَّير من طِينٍ وعُرِّ (٢).",
+ "az": "[وطح] الواو والطاء والحاء: bir-birini sıxışdırmağa və növbə ilə görməyə dəlalət edən bir sözdür. Deyirlər: تَواطَحَ على الماء وِرْدٌ كثير (Su başında çoxlu gələn heyvanlar bir-birini sıxışdırdı), yəni sıxlaşdılar. Və تَواطَحُوا على الشَّئ (Onlar bir şey üstündə mübahisə edib növbə ilə aldılar). Və deyirlər: الوَطَح (əl-vatah): heyvan dırnaqlarına və quş caynaqlarına yapışan palçıq və çirkdir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.841Z"
+}

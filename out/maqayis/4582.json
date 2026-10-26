@@ -1,0 +1,17 @@
+{
+ "i": 4582,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وطس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 122,
+  "page_to": 122
+ },
+ "ar": "الواو والطاء والسين: كلمةٌ واحدة تدلُّ على وَطْءِ شئٍ حتَّى ينهزم. ويقال: وَطَسْتُ الأرضَ برِجْلِى أَطِسُها وطْساً، أى هزَمْتُ فيها هزمةً.\nوالوَطِيس: التَّنُّور، منه لأنّه كالهَزْم فى الأرضِ. وبعبَّر [به] عن الأمر الشّديد.",
+ "az": "[وطس] الواو والطاء والسين: bir şeyin məğlub olana qədər tapdalanmasına dəlalət edən tək bir sözdür. Deyirlər: وَطَسْتُ الأرضَ برِجْلِى أَطِسُها وطْساً (Ayağımla yeri tapdaladım), yəni orada bir çökəklik əmələ gətirdim. Və الوَطِيس (əl-vatis): təndirdir, yer üzərindəki çökəkliyə bənzədiyi üçün belə adlandırılmışdır. Bununla şiddətli iş nəzərdə tutulur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.841Z"
+}

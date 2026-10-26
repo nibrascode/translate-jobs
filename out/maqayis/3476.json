@@ -1,0 +1,17 @@
+{
+ "i": 3476,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كثو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 162,
+  "page_to": 162
+ },
+ "ar": "الكاف والثاء والواو كلمةٌ واحدة. وهي الكَوْثَلُ للسَّفينة، وربَّما شُدِّد.\nكثا الكاف والثاء والحرف المعتلّ أو المهموز أصلٌ صحيح، وَصْفٌ من صِفات اللَّبن ثم يُشَبَّه به. ويقولون: الكُثْوة: القليل من اللَّبنِ الحليب. ومنه اشتقاق كُثْوةَ (٢) الشَّاعر. وقالوا أيضاً: لبنٌ مُكْثٍ، إذا كانت له رِغوةٌ.\nوربَّما حَمَلوا المهموز عليه، فيقال: كَثَأَت القِدرُ، إذا أزْبَدَت للغَلْى. وكَثَأ النَّبتُ: طَلَع. وكَثَأت اللِّحيةُ من هذا.",
+ "az": "[كثو] (Kəf, Sə, Vav) tək bir kəlmədir. Gəmi üçün «الكَوْثَل» (gəmi sükanı) deyilir, bəzən şüddəli (kəthəl) də deyilir. [كثا] (Kəf, Sə və həmzəli və ya əlil hərf) düzgün bir kökdür, südün sifətlərindən biridir və ona bənzədilir. Deyirlər ki, «الكُثْوة» (az miqdarda süd). Şairin «كثوة» (٢) ifadəsi də buradan törəmişdir. Həmçinin deyiblər ki, «لبن مكث» (köpüklü süd). Bəzən həmzəli formanı da buna aid edirlər: «كثأت القدر» (qazan qaynadıqda köpükləndi). «كثأ النبت» (bitki cücərdi). «كثأت اللحية» (saqqalın sıxlaşması) da buradan gəlir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

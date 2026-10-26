@@ -1,0 +1,17 @@
+{
+ "i": 3575,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لهج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 214,
+  "page_to": 215
+ },
+ "ar": "اللام والهاء والجيم أصلٌ صحيح يدلُّ على المثابَرَة على الشَّيء وملازمتِه، وأصلٌ آخرُ يدلُّ على اختلاطٍ في أمرٍ.\nيقال: لَهِجَ بالشَّيء، إذا أُغرِيَ به وثابَرَ عليه، وهو لَهِجٌ. والمُلْهِج:\nالذي لَهِجتْ فِصالُه برَضَاعِ أُمَّهاتِها فيَصْنَعُ لذلك أخِلّةً يشدُّها في خِلْفِ\nأمِّ الفَصيل، لئلاَّ يَرتضِعَ الفصيل، لأنّ ذلك يؤلِمُ أنْفَه. وإيّاهُ أراد القائل (١):\nرَعَى بارِضَ الوَسمىِّ حتَّى كأنّما … يَرَى بسَفَى البُهْمَى أخِلّةَ مُلْهِجِ\nوقولهم: هو فصيح اللَّهجة (٢) واللَّهَجَة: اللِّسانِ، بما ينطق به من الكلام.\nوسمِّيت لهجةً لأنّ كلاًّ يلهَجُ بلُغتِه وكلامه.\nوالأصل الآخَر قولُهم: لَهْوَجْتُ عليه أمرَه، إذا خلطتَه. وأصلُه من اللَّبَن المُلْهَاجِّ، وهو الخاثر الذي يكادُ يَرُوب. ويقولون: أمْرُهُم مُلْهاجٌّ. ومن الباب:\nلَهْوَجْتُ اللّحمَ، إذا لم تُنضِجْه شيئاً، فكأنّه مختلِطٌ بين النِّىِّ والنَّضيج. فأمّا قولهم: لَهَّجْتُ القومَ، مثل لَهَّنْتُهم، فممكنٌ أن يكون من الإبدال، كأنَّ الجيمَ بدلٌ من النُّون.",
+ "az": "[لهج] (ləhəc) - Lam, ha və cim hərflərindən ibarət səhih bir kök olub, bir işdə səy göstərməyə və ona bağlı olmağa dəlalət edir; digər bir kök isə bir işdə qarışıqlığa dəlalət edir. Deyilir: لَهِجَ بالشَّيء (ləhicə bi-ş-şey) — bir şeyə həvəs göstərdi və ona sədaqətlə bağlandı, o isə لَهِجٌ (ləhic) adlanır. المُلْهِج (əl-mulhic): balaları analarının südünü əməkliyinə adətkerdə olan kimsədir ki, buna görə də balanın əməməsi üçün ana dəvənin döşünün arxasına bağladığı çubuqlar (əhillə) düzəldir, çünki bu, balanın burnunu ağrıdır. Danışanın (١) qəsd etdiyi də elə budur: رَعَى بارِضَ الوَسمىِّ حتَّى كأنّما … يَرَى بسَفَى البُهْمَى أخِلّةَ مُلْهِجِ (Yaz yağmurlarının cücərməyə başlayan otlarını otladı, az qala... buhmanın qılçıqlarında mulhicin çubuqlarını görür). Onların: هو فصيح اللَّهجة (2) (huvə fəsihul-ləhəcə) — «o, sözlə danışdığı şeydə dili fəsihdir» sözü; اللَّهجَة (əl-ləhəcə) isə dil deməkdir. Ləhəcə adlandırılmışdır, çünki hər kəs öz dilinə və danışığına adət edir (yilhəcu). Digər kök isə onların: لَهْوَجْتُ عليه أمرَه (ləhvəgtü aleyhi əmərahü) — «işini qarışdırdım» sözüdür. Onun əsli qatılaşmaq üzrə olan qatı süddən (əl-mulhac) gəlir. Deyirlər: أمْرُهُم مُلْهاجٌّ (əmrühüm mulhaccün). Bu fəsildəndir: لَهْوَجْتُ اللّحمَ (ləhvəgtü əl-ləhmə) — əti azacıq bişirmədikdə, elə bil çiy ilə bişmiş arasında qarışıq qalar. Qaldı ki, onların لَهَّجْتُ القومَ (ləhhəgtü əl-qavmə) — لَهَّنْتُهم (ləhhəntühüm) kimi deməsi, bu, hərflərin əvəzlənməsi ehtimalından ola bilər, sanki cim hərfi nun hərfini əvəz etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.399Z"
+}

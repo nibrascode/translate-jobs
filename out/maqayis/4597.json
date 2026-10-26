@@ -1,0 +1,17 @@
+{
+ "i": 4597,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 126,
+  "page_to": 126
+ },
+ "ar": "الواو والعين والظاء: كلمةٌ واحدة. فالوَعْظ: التخويف.\nوالعِظَة الاسمُ منه؛ قال الخليل: هو التَّذكير بالخير وما يرقُّ له قلبُه (٢).",
+ "az": "[وعظ] الواو والعين والظاء: tək sözdür. الوَعْظ (əl-vəz): qorxutmaqdır. العِظَة (əl-izə) isə ondan düzələn isimdir; Xəlil demişdir: O, xeyirlə xatırlatmaq və qəlbin yumşaldığı şeydir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

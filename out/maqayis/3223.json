@@ -1,0 +1,17 @@
+{
+ "i": 3223,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قوت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 38,
+  "page_to": 38
+ },
+ "ar": "القاف والواو والتاء أصلٌ صحيحٌ يدلُّ على إمساكٍ وحفظٍ وقُدرةٍ على الشَّئ. من ذلك قولُه تعالى: ﴿وَكانَ اَللّهُ عَلى كُلِّ شَيْ ءٍ مُقِيتاً﴾، أى حافظاً له شاهداً عليه، وقادراً على ما أراد. وقال:\nوذى ضِغْنٍ كَفَفْتُ النَّفْسَ عنه … وكنتُ على إساءته مُقِيتَا (١)\nومن الباب: القُوت ما يُمْسِكُ الرَّمَق؛ وإنَّما سُمِّى قُوتاً لأنَّه مِساكُ البَدَن وقُوَّتُه. والقَوْت: العَوْل. يقال: قُتُّه قَوْتاً، والاسم القُوت. ويقال: اقتَتْ لنارك قِيتةً، أى أطعِمْها الحَطَب. قال ذو الرُّمَّة:\nفقلتُ له ارْفَعْهَا إليكَ وأَحْيِها … برُوحِكَ واقْتَتْهُ لها قِيتةً قَدْرا (٢)",
+ "az": "[قوت] Qaf, vav və ta bir şeyə sahib olmağa, qorumağa və güc çatmağa dəlalət edən səhih bir əldir. Bunlardandır Uca Allahın bu sözü: mənaca tərcümə: «Allah hər şeyə qadirdir (və ya hər şeyi qoruyandır)» (Nisa surəsi, 85), yəni onu qoruyan, ona şahid olan və istədiyinə qadir olan deməkdir. Və (şair) demişdir:\nوذى ضِغْنٍ كَفَفْتُ النَّفْسَ عنه … وكنتُ على إساءته مُقِيتَا (١)\n(Kinin sahibindən nəfsimi çəkindirdim və onun pisliyinə qarşı qoruyucu [və ya gücü çatan] oldum.)\nVə bu fəsildəndir: əl-qut (القُوت) canı qoruyan azuqədir; qut adlandırılmışdır, çünki o, bədənin dayağı və qüvvəsidir. Və əl-qəut (القَوْت): ailənin dolanışığını təmin etmək. Deyilir: «قُتُّه قَوْتاً» (Ona azuqə verdim), ismi isə əl-qut (القُوت) olur. Və deyirlər: «اقتَتْ لنارك قِيتةً» — yəni odununa odun yedirt (odun at). Züu r-Rummə demişdir:\nفقلتُ له ارْفَعْهَا إليكَ وأَحْيِها … برُوحِكَ واقْتَتْهُ لها قِيتةً قَدْرا (٢)\n(Mən ona dedim: Onu özünə tərəf qaldır və ruhunla onu dirilt, ona uyğun ölçüdə azuqə ver.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.257Z"
+}

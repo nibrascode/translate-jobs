@@ -1,0 +1,17 @@
+{
+ "i": 2989,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فقص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 445,
+  "page_to": 445
+ },
+ "ar": "الفاء والقاف والصاد ليس بشئ، إلا أنَّهم يقولون: فُقِصَت البيضةُ عن الفَرْخ.",
+ "az": "[فقص]\nFə, qaf və sad heç bir əhəmiyyət kəsb etmir; ancaq belə deyirlər: «فُقِصَت البيضةُ عن الفَرْخ» (yumurta yarıldı və cücə çıxdı).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

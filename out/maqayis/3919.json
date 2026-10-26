@@ -1,0 +1,17 @@
+{
+ "i": 3919,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مقل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 341,
+  "page_to": 341
+ },
+ "ar": "الميم والقاف واللام ثلاثُ كلماتٍ غيرِ مُنقاسة. قالوا: مُقْلة العَين، وهي ناظِرُها. ومَقَلْتُه: نظرتُ إليها.\nوالكلمة الأُخْرى المَقْلة: الحصاة تُلقِيها في الماء تعرِف قَدْرَه. قال:\nقَذَفُوا سَيِّدَهُمْ في ورطةٍ … قذْفَكَ المَقْلةَ وَسْطَ المُعْتَرَكْ (١)\nويقال: هي الحصاة التي يُقْسَم عليها الماءُ في المَفَاوز. ومَقَلهُ في الماء: غَوَّصَه فيه.\nوتماقَلَا: تغَاوَصا.\nوالكلمة الأخرى المُقْل: حَمْل الدَّوْم.",
+ "az": "[مقل] \nMim, قاف (qaf) və lam — qiyas olunmayan üç kəlmədir. Dedilər: مُقْلة العَين (muqlat əl-eyn) — gözün bəbəyidir. Və مَقَلْتُه (maqaltuhu) — ona baxdım.\nDigər kəlmə: المَقْلة (əl-maqlat) — suyun miqdarını bilmək üçün suya atdığın kiçik daşdır. Şair demişdir:\nقَذَفُوا سَيِّدَهُمْ في ورطةٍ … قَذْفَكَ المَقْلةَ وَسْطَ المُعْتَرَكْ (١)\n(Onlar öz ağalarını çıxılmaz girdaba atdılar... daşı döyüşün ortasına atdığın kimi)\nVə deyilir: o, səhralarda suyu bölmək üçün istifadə olunan daşdır. Və onu suda batırdı (مَقَلهُ في الماء).\nİkisi bir-birinə sualtı baş vurdular (تماقَلَا).\nDigər kəlmə: المُقْل (əl-muql) — xurma ağacının (دوم) meyvəsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4140,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 430,
+  "page_to": 431
+ },
+ "ar": "النون والشين والزاء أصلٌ صحيح يدلُّ على ارتفاعٍ وعُلوّ. والنّشَز: المكان العالي المرتفِع. والنّشْز والنُّشُوز: الارتفاع، ثم\nاستعير فقيل نَشَزَت المرأةُ: استَصعَبتْ على بَعلِها، وكذلك نَشَزَ بعلُها:\nجفاها وضرَبَها.",
+ "az": "«نشز» (ن ش ز): النون, Şin və Zay yüksəlməyə və ucalığa dəlalət edən səhih bir kökdür. «النّشَز» (ən-nəşəz): uca, hündür yer. «النّشْز» (ən-nəşz) və «النُّشُوز» (ən-nuşuz): hündürlük, yüksəklik. Sonra bu söz məcazi mənada işlədilmişdir: «نَشَزَت المرأةُ» (nəşəcət əl-məraəti) — qadın ərinə qarşı itaətsizlik etdi, təkəbbür göstərdi; eləcə də «نَشَزَ بعلُها» (نَشَزَ بعلُها) — əri ondan üz döndərdi və onu döydü.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.782Z"
+}

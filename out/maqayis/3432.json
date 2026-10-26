@@ -1,0 +1,17 @@
+{
+ "i": 3432,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كوع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 147,
+  "page_to": 147
+ },
+ "ar": "الكاف والواو والعين كلمةٌ واحدة، وهي الكُوع، وهو طرَف الزَّنْد مما يلي الإبهام. والكَوَعُ: خُروجُه ونُتوُّه وعِظَمُه. رجلٌ أكوعُ (٢). ويقال الكَوَع: إقبال الرُّسغين على المنْكِبين. وكوَّعَه بالسَّيف:\nضَربَه. ولعلّه بمعنى أن يُصِيبَ كوعَه.",
+ "az": "[كوع] Kaf, vau və eyn tək bir sözdür, o da الكُوع (əl-kuc) — baş barmaq tərəfdən dirsəyin (və ya biləyin) ucudur. Və الكَوَع (əl-kəvə) — onun çıxıntılı, qabarıq və böyük olmasıdır. أكوعُ (əkvə) kişi. Deyilir ki, الكَوَع (əl-kəvə) — biləklərin çiyinlərə tərəf gəlməsidir. Və كوَّعَه بالسَّيف (kəvvə-əhü bis-seif) — onu qılıncla vurdu. Ola bilsin ki, bu, onun biləyinə toxunmaq mənasındadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

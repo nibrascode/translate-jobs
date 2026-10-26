@@ -1,0 +1,17 @@
+{
+ "i": 3642,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 237,
+  "page_to": 237
+ },
+ "ar": "اللام والحاء والسين كلمةٌ تدلُّ على أخْذِ شيءِ باللسان.\nيقال: لَحِسَ الشّيءَ بلسانه لَحْسًا. ويقولون: ألْحَسَتِ الأرض: أنبتت. وهذا إنما يكون في أوَّل النّبات الذي لا يمكِن السّائمةَ جَزُّه، فكأنها تلْحسُه. ويقولون:\nرجل مِلْحَسٌ: يأخذ كلَّ ما قدَرَ عليه من حِرصه. وفي كلامهم: «ألدُّ ألْيَسُ مِلْحَس (٣)». ويقولون: «أسرع مِنْ لَحْس الكلب أنفَه». ويقولون: «تركْتُ فلاناً بمَلَاحِسِ البَقرِ أولادَها (٤)».",
+ "az": "[لحس] (ləhəs) — lam, ha və sin dili ilə bir şeyi götürməyi bildirən sözdür. لَحِسَ الشّيءَ بلسانه لَحْسًا (ləhəsəş-şəy’ə bi-lisanihi ləhsən) — şeyi dili ilə yaladı, deyilir. ألْحَسَتِ الأرض (əlhəsatil-ard) — yer bitki bitirdi, deyirlər. Bu yalnız mal-qaranın biçə bilmədiyi ilk bitki dövrünə aid olur, sanki onu yalayırlar. رجل مِلْحَسٌ (rəcülün milsəs) — tamahkarlığı üzündən gücü çatdığı hər şeyi mənimsəyən adam. Onların kəlamında vardır: «ألدُّ ألْيَسُ مِلْحَس» («əlddün əlyəsü milsəs») (٣). «أسرع مِنْ لَحْس الكلب أنفَه» («əsrəu min ləhsıl-kəlbi ənfəh» - itin burnunu yalamasından daha sürətli) deyirlər. Və «تركْتُ فلاناً بمَلَاحِسِ البَقرِ أولادَها» («təraktü fələnən bi-məlahişil-bəqri əvladəh» - filankəsi inəklərin balalarını yaladığı yerlərdə qoydum) deyirlər (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

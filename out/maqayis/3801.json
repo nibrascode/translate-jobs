@@ -1,0 +1,17 @@
+{
+ "i": 3801,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مجع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 298,
+  "page_to": 298
+ },
+ "ar": "الميم والجيم والعين كلمتان متباينتان.\nفالأولى المَجْع: أكْل التَّمر باللَّبَن، وذلك هو المَجِيع. والمَجَّاعة (١):\nالمُكْثِر منه. ومجَاعَة التَّمر واللَّبن: بقِيَّتُه (٢). وشَرِبَ المجَاعَة.\nوالأخرى تدلُّ على رداءةِ الشَّيء وقلة خيره. يقال لكلِّ شيءٍ رديءِ مِجْع.\nوربما قالوا للماجن مَجِعٌ. وامرأةٌ مَجِعَةٌ: تَكَلّمُ بالفُحْش. وفي نِساءِ بني فلانٍ مَجَاعةٌ، وهي أن يصرِّحْن بما يُكنَى عنه من الرَّفَث.",
+ "az": "[مجع] الميم والجيم والعين bir-birindən fərqli iki sözdür.\nBirincisi «المَجْع» (məc): xurmanın süd ilə yeyilməsidir, məhz bu «المَجِيع» (məci)-dir. «المَجَّاعة» (məccaə) (١): bunu çox yeyən. Xurma və südün «مجَاعَة» (məcaə)-si: onun qalıntısıdır (٢). O, məcaəni içdi.\nDigəri isə şeyin pisliyinə və xeyrinin azlığına dəlalət edir. Hər pis şeyə «مِجْع» (mic) deyilir. Bəzən zarafatcıl adama «مَجِعٌ» (məci) deyirlər. «امرأةٌ مَجِعَةٌ» (məciə qadın): əxlaqsız danışan qadın. Filan qəbilənin qadınlarında «مَجَاعةٌ» (məcaəh) vardır, bu da onların kinayə edilən biədəb sözləri açıq-aydın demələridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:09.385Z"
+}

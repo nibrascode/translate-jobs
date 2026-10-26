@@ -1,0 +1,17 @@
+{
+ "i": 3421,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 144,
+  "page_to": 144
+ },
+ "ar": "الكاف والهاء والراء كلمتانِ متباعدتانِ جداً: الأولى الانتهار، يقال كَهَرَهُ يَكْهَرُه كَهْرًا. و\nفي الحديث: «بأبي وأُمي ما كَهَرَني ولا شَتَمنِي».\nوقرأ ناسٌ: «فأمَّا اليَتِيمَ فَلَا تَكْهَرْ (١)».\nوالأصل الآخَر: كَهْرُ النَّهارِ، وهو ارتفاعُه، يقال كَهَرَ يَكْهَرُ. قال:\n* وإذا العانة في كَهْر الضُّحى (٢) *",
+ "az": "[كهر] Kaf, ha və ra bir-birindən çox uzaq olan iki sözdür: Birincisi: sərt danışmaq (əl-intihar), deyilir ki كَهَرَهُ يَكْهَرُه كَهْرًا (kəhəruhü yəkhəruhü kəhrən). \nHədisdə: «بأبي وأُمي ما كَهَرَني ولا شَتَمنِي» («Atam-anam fəda olsun, o mənə sərt danışmadı və söymədi»). \nBəzi adamlar oxudular: «فأمَّا اليَتِيمَ فَلَا تَكْهَرْ (١)» («Amma yetimə sərt davranma»). \nVə digər əsas: كَهْرُ النَّهارِ (kəhrun-nəhar) — günün yüksəlməsi, deyilir كَهَرَ يَكْهَرُ (kəhərə yəkhəru). O demişdir:\n* وإذا العانة في كَهْر الضُّحى (٢) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

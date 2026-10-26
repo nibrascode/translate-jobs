@@ -1,0 +1,17 @@
+{
+ "i": 4018,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نأم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 377,
+  "page_to": 377
+ },
+ "ar": "النون والهمزة والميم أُصَيلٌ يدلُّ على صوت. النئيم: [صوتٌ (٢)] فيه ضعفٌ كالأنين. ونَأَم الأسدُ يَنْئِمُ (٣). وسمعتُ له نَأْمةً واحدة. ونأمت القوس نئيما.",
+ "az": "«نأم»: النون، الهمزة والميم أُصَيلٌ يدلُّ على صوت (Kiçik bir kök olub səsə dəlalət edir). النئيم («Nəim»): [صوتٌ (٢)] فيه ضعفٌ كالأنين ([elə bir səsdir ki] onda iniltiyə bənzər zəiflik var). ونَأَم الأسدُ يَنْئِمُ (٣) (Şir nərildədi, nərildəyir). وسمعتُ له نَأْمةً واحدة (Və mən ondan tək bir inilti/səs eşitdim). ونأمت القوس نئيما (Və kaman inilti səsi çıxardı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:36.143Z"
+}

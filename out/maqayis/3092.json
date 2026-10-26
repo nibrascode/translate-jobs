@@ -1,0 +1,17 @@
+{
+ "i": 3092,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 483,
+  "page_to": 484
+ },
+ "ar": "الفاء والدال والحرف المعتل كلمتانِ متباينتان جدَّا. فالأولى:\nأنْ يُجعلَ شئٌ مكانَ شئ حِمًى له، والأُخْرى شئٌ من الطَّعام.\nفالأولى قولك: فديتُه أَفدِيه، كأنَّك تحميه بنفسك أو بشئٍ يعوِّض عنه.\nيقولون: [هو (٢)] فِداؤك، إذا كسرتَ مددت، وإذا فتحت قصرت، يقال هو فَدَاك. قال:\nفَدًى لكما رجلىَّ أمِّى وخالتى … غداةَ الكُلاب إذْ تحزُّ الدوابِرُ (٣)\nوقال فى الممدود:\nمهلاً فِداءً لك الأقوامُ كلُّهم … وما أثمِّرُ من مالٍ ومن وَلَدٍ (٤)\nويقال: تفادَى من الشَّئ، إذا تحاماه وانزَوَى عنه. والأصل فى هذه الكلمةِ ما ذكرناه، وهو التَّفادِى: أن يَتَّقىَ النّاسُ بعضُهم ببعض، كأنَّه يجعل صاحبَه فداءَ نفسِه. قال:\nتفَادَى الأُسودُ الغُلبُ منه تفاديا (١)\nوالكلمة الأخرى الفَدَاء ممدود، وهو مَسْطَح التَّمر بلغة عبد القيس، حكاه ابن دُريد (٢). وقال أبو عمرو: الفَداء: جماعة الطَّعام من الشَّعير والتَّمر ونحوِها. قال:\nكأنّ فَدَاءَها إذْ جرّدُوه … وَطافوا حولَه سُلَكٌ يتيمُ (٣)",
+ "az": "[فدى] (fəda). Fə, dal və uzanan hərf (mötəl hərf) tamamilə fərqli iki kəlmədir. Birincisi: bir şeyin başqa bir şeyin yerinə onu qorumaq üçün qoyulması, digəri isə yemək növüdür. Birincisi sənin «فديتُه أَفدِيه» (mən ona fəda olaram, fəda oluram) deməyindir; elə bil onu öz canınla və ya əvəzində olan bir şeylə qoruyursan. Deyirlər: [هو (٢)] فِداؤك (o sənin fədaindir), əgər kəsrə ilə desən, uzadarsan (مد), əgər fəthə ilə desən, qısaldarsan (قصر), belə deyilir: هو فَدَاك (o sənə fəda olsun). Şair demişdir: فَدًى لكما رجلىَّ أمِّى وخالتى … غداةَ الكُلاب إذْ تحزُّ الدوابِرُ (٣) (Anamın və xalamın ayaqları ikinizə də fəda olsun… Külab günü, o zaman ki, dabanları kəsirlər). Məddli (uzadılan) formada demişdir: مهلاً فِداءً لك الأقوامُ كلُّهم … وما أثمِّرُ من مالٍ ومن وَلَدٍ (٤) (Yavaş ol, bütün qovmlər sənə fəda olsun… və mal-dövlətdən, övladlardan qazandıqlarım da). Deyilir: تفادَى من الشَّئ (bir şeydən qorunub çəkindiyində), yəni ondan ehtiyat edib kənara çəkildi. Bu kəlmənin əsli qeyd etdiyimiz mənadır, o da التَّفادِى (qarşılıqlı qorunmaq)dir: İnsanların bəisinin bəziləri ilə qorunmasıdır, elə bil öz sahibini nəfsinə fəda edir. Şair demişdir: تفَادَى الأُسودُ الغُلبُ منه تفاديا (١) (Məğrur, güclü şirlər ondan qorunaraq çəkinirdilər). Digər kəlmə isə məkşud (uzadılmış) olan الْفَدَاء (fəda) sözüdür, Əbdülqeys ləhcəsində xurma xırmanı deməkdir, bunu İbn Dürid rəvayət etmişdir (٢). Əbu Əmr demişdir: الْفَدَاء (fəda) arpa, xurma və bənzəri şeylərdən ibarət ərzaq qrupudur. Şair demişdir: كأنّ فَدَاءَها إذْ جرّدُوه … وَطافوا حولَه سُلَكٌ يتيمُ (٣) (Elə bil ki, onun ərzağını təmizlədikləri və ətrafına dolandıqları zaman o, tənha bir sülək (qurd növü) idi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

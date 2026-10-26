@@ -1,0 +1,17 @@
+{
+ "i": 3520,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كشح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 183,
+  "page_to": 184
+ },
+ "ar": "الكاف والشين والحاء أصلٌ صحيح، وهو بَعضُ خَلْقِ الحيوان. فالكَشْح: الخصر. والكَشَح: داءٌ يصيب الإنسانَ في كَشْحِه.\nقال الأعشى:\n* كُلَّ ما يَحْسِمْنَ من داء الكَشَحْ (٢) *\nويُكوَى. ومن ذلك الرَّجُل (٣) مكشوحٌ المُرادىّ. وأمَّا الكاشِح فالذي يَطْوِي على العداوة كَشْحَه. ويقال: طويتُ كَشْحِي على الأمر، إذا أضمرتَه وستَرته. قال:\n* أخٌ قد طَوَى كَشْحاً وأبَّ ليذهَبَا (٤) *\nوقال قومٌ: بل الكاشح: الذي يتباعَد عنك، من قولك: كَشَح القومُ عن الماء، إذا تفرَّقوا. قال:\n* شِلْوَ حمارٍ كَشَحَتْ عنه الحُمُرْ *\nوإنّما يقال للذاهب كَشَح لأنَّه يَمضِي مبدياً كَشْحَه إعراضاً عن المذهوب عنه. ألا تراهم يقولون: طوَى كَشْحَه للبَين والذَّهاب. وهو في شعرِهم كثير.",
+ "az": "[كشح] (kə-şə-hə). Kaf, şin və ha hərfləri səhih bir əsl olub, heyvanın bədəninin bir hissəsidir. «الكشْح» (böyrür, qabırğaaltı): belin yan tərəfi. «الكشَح» (kəşəh xəstəliyi): insanın böyründə əmələ gələn xəstəlik. Əş-Şair Əşə-şair demişdir: * Kullə ma yahsimnə min da-i-l-kəşəh (²) * (Kəşəh xəstəliyinin bütün dərdlərini kəsib aparan şeylər). Və o dağlanır. Bunlardandır: «الرَّجُل مكشوحٌ المُرادىّ» (Məhkum edilmiş, böyrü dağlanmış kişi). «الكاشِح» (gizli düşmən): düşmənçiliyi ürəyində büküb saxlayan kəs. Deyilir: «طويتُ كَشْحِي على الأمر» (İş barədə ürəyimdə niyyət tutub gizlədim), onu gizlədib içində saxladığın zaman deyilir. Şair demişdir: * Axun qad tawa kəşhən və əbbə liyəzhəbə (³) * (Bir qardaş ki, böyrünü büküb getməyə azm etdi). Bəzi qövmlər demişlər: Əksinə, «الكاشِح» səndən uzaqlaşan kəsdir; «كَشَح القومُ عن الماء» (Qövm sudan uzaqlaşıb dağıldı) sözündən götürülmüşdür, yəni onlar dağıldılar. Şair demişdir: * Şilwi himarin kəşəhəthənə-l-humuru * (Dəvə və ya eşşəklərin uzaqlaşdığı bir eşşək cəsədi). Həqiqətən, gedən adama «كَشَح» denilməsi ona görədir ki, o, gedilən tərəfdən üz çevirərək böyrünü göstərib gedir. Məgər görmürsən ki, onlar deyirlər: «طوَى كَشْحَه للبَين والذَّهاب» (Uzaqlaşmaq və getmək üçün böyrünü bükdü / səfərə hazırlaşdı). Bu, şeirlərində çox işlənir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

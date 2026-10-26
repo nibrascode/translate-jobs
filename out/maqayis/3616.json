@@ -1,0 +1,17 @@
+{
+ "i": 3616,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لبخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 228,
+  "page_to": 228
+ },
+ "ar": "اللام والباء والخاء. يقولون: اللُّبَاخِيّة: المرأة التامّة الخَلْق.\nقال الأعشى:\nعبْهَرة الخَلْق لُباخِيّة … تَزِينه بالخُلُق الطاهرِ (٤)",
+ "az": "«لبخ» (Lam, ba və xa). Deyirlər: اللَّبَاخِيّة (əl-ləbaxiyyə) — xilqəti tam olan qadındır. Əşa demişdir: «Xilqəti təmiz, ləbaxiyyə qadın, onu pak əxlaqla bəzəyir» (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3711,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لقن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 260,
+  "page_to": 260
+ },
+ "ar": "اللام والقاف والنون كلمةٌ صحيحة تدلُّ على أخْذِ علمٍ وفَهْمِه.\nولَقِن الشّيءَ لَقَناً: أخذه وفهمه. ولقَّنْتُه تلقينا: فهَّمته. وغُلامٌ لقِنٌ: سريع الفَهْم واللَّقانة.",
+ "az": "[لقن] «اللام والقاف والنون كلمةٌ صحيحة تدلُّ على أخْذِ علمٍ وفَهْمِه» (Lam, qaf və nun hərfləri elm almağa və onu anlamaya dəlalət edən səhih kəlmədir). ولَقِن الشّيءَ لَقَناً (Bir şeyi asanlıqla mənimsədi): أخذه وفهمه (Onu götürüb anladı). ولقَّنْتُه تلقينا (Ona təliqın etdim, öyrətdim): فهَّمته (Ona anladdım). وغُلامٌ لقِنٌ (İstedadlı oğlan): سريع الفَهْم واللَّقانة (Anlamaqda və zekada sürətli).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:15.889Z"
+}

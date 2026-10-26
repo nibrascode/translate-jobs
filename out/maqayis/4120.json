@@ -1,0 +1,17 @@
+{
+ "i": 4120,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 420,
+  "page_to": 421
+ },
+ "ar": "النون والسين واللام أصلٌ صحيح يدلُّ على سَلِّ شيءٍ وانسلاله.\nوالنَّسْل: الولَد. لأنّه يُنْسل من والدته. وتناسَلُوا: ولد بعضُهم من بعض (٣).\nومنه النَّسَلان: مِشية الذِّئب إذا أعْنَقَ وأسْرَع. والماشي يَنْسِلُ، إذا أسرع.\nقال اللّه عزّ وعلا: ﴿وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ﴾. والنُّسَالة: شَعر الدابّة إذا سقَطَ عن جَسدِه قِطَعا. ونُسَال الطَّير: ما تحاتَّ من أَرياشها. قال:\n* وتجلو سَبِيخَ جُفالِ النُّساَلِ (١) *\nوقد أنسَلتِ الإبلُ: حانَ لها أن تُنْسِلَ وبَرَها. ونَسلَ الثَّوبُ عن الرّجل:\nسَقَط. ويقولون: النّسيل: العسلُ إذا ذابَ، كأنّه نَسلَ عن شَمَعِه وفارَقَه.\nوأنسلْتُ القَوم: تقدَّمتُهم.",
+ "az": "[نسل] (nəslə): Nun, sin və lam bir şeyi çəkib çıxarmağa və sıyrılıb düşməyə dəlalət edən səhih əsldir.\n\nƏn-nəsl (övlad): çünki o, anasından çıxarılır (törənir). Tənasəlu (biri digərindən törədi) (٣).\n\nBunlardan biri də ən-nəsəlândır (canavarın qaçarkən sürətli yeriməsi). Yürüyən adam yənsil (sürətlə yeridi). Uca Allah buyurmuşdur: mən kulli hədəbin yənsilun (mənaca tərcümə: və onlar hər yüksəklikdən sürətlə axışıb gələrlər). Ən-nüsalə: heyvanın bədənindən parça-parça düşən tükləri. Quşların nusalı: lələklərindən tökülənlər. Şair demişdir:\n* وتجلو سَبِيخَ جُفالِ النُّساَلِ *\n(Və tökülən tiftik parçalarının tozunu təmizləyir.)\n\nVə dəvələr ünsələt (tüklərini tökmək vaxtı gəldi). Nəsləs-səvbu anir-rəcül (paltar kişidən düşdü). Deyirlər ki: əns-səil: bal əriyəndə mumundan ayrılıb süzüldüyü zaman belə adlanır.\n\nVə ənsəltül-qovmə (qövmdən irəli keçdim).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

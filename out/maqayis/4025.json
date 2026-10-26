@@ -1,0 +1,17 @@
+{
+ "i": 4025,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 380,
+  "page_to": 380
+ },
+ "ar": "النون والباء والذال أصلٌ صحيح يدلُّ على طرحٍ وإلقاء. ونَبَذْتُ الشَّيءَ أَنبِذُه نبذاً: ألقيتُه من يدي. والنَّبِيذُ: التَّمر يُلقَى في الآنيةِ ويُصَبُّ عليه الماء. يقال: نبذتُ أَنْبِذُ. والصَّبي المنبوذ: الذي تُلقِيه أمُّه. ويقال: بأرضِ كذا نَبْذٌ من مالٍ، أي شيءٌ يسير. وفي رأسه نَبْذٌ من الشَّيب، أي يسير، كأنّه الذي يُنْبَذُ لقِلّته وصِغَره. وكذلك النَّبْذُ من المَطَر.",
+ "az": "[نبذ] (nəbəz): Nun, ba və zal – atma və tullamağa dəlalət edən səhih bir kökdür. «نَبَذْتُ الشَّيءَ أَنبِذُه نبذاً» (nəbəztüş-şəyyə ənbizuhu nəbzan): Onu əlimdən tulladım, atdım. «النَّبِيذُ» (ən-nəbiz): Qaba atılan və üzərinə su tökülən xurmadır. Deyilir ki: «نبذتُ أَنْبِذُ» (nəbəztü ənbizu). «الصَّبي المنبوذ» (əs-səbiyyun-manbuuz): Anasının atdığı uşaq. Deyilir ki: «بأرضِ كذا نَبْذٌ من مالٍ» (bi-ərzi kəzə nəbzun min məlin), yəni az bir şey. «وفي رأسه نَبْذٌ من الشَّيب» (və fi ra'sihi nəbzun minəş-şəyb), yəni azacıq, sanki azlığına və kiçikliyinə görə bir tərəfə atılan şey kimidir. Eynilə yağışdan olan «النَّبْذُ» (ən-nəbz) də belədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.657Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3603,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ليغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 224,
+  "page_to": 224
+ },
+ "ar": "اللام والياء والغين كلمة، يقولون: الألْيَغ: الذي لا يُبِين الكَلام. وأمّا قولهم: هو سَيِّغٌ ليِّغ، فإتباعٌ، للشَّيء السَّهل المنساغ.",
+ "az": "«ليغ» (ليغ): اللام والياء والغين كلمة، يقولون: الأليغ: الذي لا يبين الكلام (Lam, yə və ğayn bir kəlmədir, deyirlər: əl-əlyəğ - sözü aydın danışmayan kimsə). وأما قولهم: هو سَيِّغٌ ليِّغ، فإتباع، للشَّيْء السهل المنساغ (Və onların «o, səyyiğun liyyiğun» sözlərinə gəldikdə, bu, asan və boğazdan rahat keçən şey üçün təqibdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.900Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4276,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هوذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 18,
+  "page_to": 18
+ },
+ "ar": "الهاء والواو والذال: كلمةٌ واحدة، هى هَوْذَةُ: القَطاةُ، وبها سمِّي الرجل هَوْذَة.",
+ "az": "[هوذ] الهاء والواو والذال: كلمةٌ واحدة، هى هَوْذَةُ: القَطاةُ، وبها سمِّي الرجل هَوْذَة. (Hə, vav və zal hərfləri: tək bir kəlmədir, o da həvdədir: səhra çöl qartalı, kişi onunla həvdə adlandırılmışdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:47.136Z"
+}

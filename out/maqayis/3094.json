@@ -1,0 +1,17 @@
+{
+ "i": 3094,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 484,
+  "page_to": 484
+ },
+ "ar": "الفاء والدال والحاء كلمة. فَدَحَه الأمر، إذا عالَه وأثقله، فَدْحاً. وهو أمرٌ فادح.",
+ "az": "[فدح] (fədəh). Fə, dal və hə kəlməsidir. فَدَحَه الأمر (iş onu ağırlaşdırdı, ona yük oldu), fədhan (فدحاً). Bu, ağır bir işdir (أمر فادح).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

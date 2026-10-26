@@ -1,0 +1,17 @@
+{
+ "i": 4248,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نمط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "النون والميم والطاء كلمةٌ تدلُّ على اجتماع. والنَّمَط: جماعةٌ من الناس. و\nفي الحديث (١): «خير هذه الأمَّة النَّمَط الأوسط، يَلْحَقُ بهم (٢) التَّالي ويرجع إليهم الغالي».",
+ "az": "«نمط» (النون والميم والطاء): نون، mim və ta hərflərindən ibarət olub bir yerə toplanmağa dəlalət edən bir kökdür. النَّمَط (nəmət): bir dəstə insan. Hədisdə (١) gəlmişdir: «خير هذه الأمَّة النَّمَط الأوسط، يَلْحَقُ بهم (٢) التَّالي ويرجع إليهم الغالي» (Bu ümmətin ən xeyirlisi orta zümrədir [nəmət]; onlara arxasınca gələn yetişər, həddi aşan da onlara qayıdar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:59.926Z"
+}

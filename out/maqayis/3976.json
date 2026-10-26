@@ -1,0 +1,17 @@
+{
+ "i": 3976,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 362,
+  "page_to": 362
+ },
+ "ar": "النون والهاء والراء أصل صحيح يدلّ على تفتّح شيء أو فتحه. وأنهَرْتُ الدّم: فتحته وأرسلته. وسمّي النّهر لأنّه ينهر الأرض أي يشقّها.\nوالمَنْهَرة: فضاء يكون بين بيوت القوم يلقون فيها كناستهم. وجمع النّهر أنهار ونُهُر. واسْتَنْهَرَ (١) النَّهرُ: أخذ مجراه. وأنْهَر الماء (٢): جرى. ونهر نهر: كثير الماء. قال أبو ذؤيب:\nأقامت به فابتنت خيمة … على قصب وفرات نَهِر (٣)\nومنه النَّهار: انفتاح الظّلمة عن الضّياء ما بين طلوع الفجر إلى غروب الشّمس.\nويقولون: إنّ النّهار يجمع على نُهُر (٤). ورجل نَهِر: صاحب نهار كأنّه لا ينبعث ليلا. قال:\n* لست بليلىّ ولكنّي نهر (٥) *\nوأمّا قولهم: النهار: فَرخ بعض الطّير، فهو مما [لا] يعرّج على مثله، ولا معنى له.",
+ "az": "[نههر] (NUN, HƏ və RA) - bir şeyin açılmasına və ya yarılmasına dəlalət edən səhih bir kökdür. «وأنهَرْتُ الدّم» - qanı axıdıb açdım. Çay «النّهر» ona görə belə adlanmışdır ki, o, yeri yarır, yəni açır. «المَنْهَرة» - tayfaların evləri arasında olan, süprüntülərini atdıqları açıqlıq sahə. Çayın cəmi «أنهار» və «نُهُر» gəlir. «اسْتَنْهَرَ (١) النَّهرُ» - çay öz yatağını aldı. «وأنْهَر الماء (٢)» - su axdı. «نهر نهر» - suyu bol olan. Əbu Züeyb demişdir: «أقامت به فابتنت خيمة … على قصب وفرات نَهِر (٣)» (Orada qalıb qamışdan və bol sulu Fərat kənarında bir çadır tikdi). Və bundandır: «النَّهار» - zülmətin işıqla açılması, sübh açılışından günəş batana qədər olan vaxt. Deyirlər ki, «النّهار» sözünün cəmi «نُهُر (٤)» gəlir. «رجل نَهِر» - gündüz adamı, sanki o, gecələr səfərə çıxmr. Şair demişdir: «* لست بليلىّ ولكنّي نهر (٥) *» (Mən gecə adamı deyiləm, lakin gündüz adamıyam). Qaldı ki, onların «النّهار: فَرخ بعض الطّير» (gündüz: bəzi quşların balasıdır) sözü, bu, heç bir dəyəri və mənası olmayan uydurmalardan biridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

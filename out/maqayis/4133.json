@@ -1,0 +1,17 @@
+{
+ "i": 4133,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 428,
+  "page_to": 428
+ },
+ "ar": "النون والشين واللام كلمةٌ تدلُّ على رفْع بِضْعةٍ من قدْرٍ.\nونَشَلَ اللَّحْمَ من القِدْرِ بالمِنْشَل، وهو النَّشِيل (٢). وفخذٌ ناشلة: قليلةُ اللَّحم؛ والمِنْشَل والمِنْشال: ما يُنْشَلُ به *. ويقولون، وما أدرِي كيف صحّته: المَنْشَلة:\nموضع الخاتَم من الخِنصَر.",
+ "az": "«نشل» (ن ش ل): النون, Şin və Lam qazandan bir tikə ət qaldırmağa dəlalət edən bir kəlmədir. «نَشَلَ اللَّحْمَ من القِدْرِ بالمِنْشَل» (nəşələ əl-ləhmə min əl-qidri bi əl-minşəl): əti qazandan minşəl (çömçə, ətqaldıran alət) ilə çıxardı; bu alət «النَّشِيل» (nəşil) adlanır (٢). «فخذٌ ناشلة» (fəxizün naşilətün): əti az olan bud; «المِنْشَل» (minşəl) və «المِنْشال» (minşal): vasitəsilə ət çıxarılan alətdir *. Deyirlər — bunun nə dərəcədə doğru olduğunu bilmirəm — «المَنْشَلة» (mənşələ): üzüyün çeçələ barmaqdakı yeridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.782Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4510,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ودج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 98,
+  "page_to": 98
+ },
+ "ar": "الواو والدال والجيم: * كلمة واحدة: الوَدَجَانِ: عِرْقانِ فى الأخدَعَين. ثم يشبَّه بذلك، فيقال للأخوين: وَدَجانِ. قال:\nفقُبِّحْتُما من وافِدَينِ اصطُفيتُما … ومن وَدَجَىْ حَربٍ تَلَقَّحُ حائلِ (٣)\nوَوَدَجْتُ بين القَوم: أصلحتُ بينهم، مأخوذٌ من الودَجين، أى اتَّفَقوا كاتِّفاق الوَدَجَيْن.",
+ "az": "[ودج] (və-də-cə): Vov, dal və cim hərfləri: * Tək bir söz: الوَدَجَانِ (əl-vədəcāni) – boyundakı iki şah damar. Sonra buna bənzadılaraq iki qardaşa vədəcani (وَدَجانِ) deyilir. Şair demişdir: فقُبِّحْتُما من وافِدَينِ اصطُفيتُما … ومن وَدَجَىْ حَربٍ تَلَقَّحُ حائلِ (٣) (fə-qubbiḥtumə min vəfidəyni iṣṭufiytumə... və min vədəcəy ḥarbin təlaqqahu ḥailin). وَوَدَجْتُ بين القَوم (vəvədəctu beynəl-qavmi) – qövmün arasını düzəltdim, iki şah damardan götürülmüşdür, yəni iki şah damarın uyğunluğu kimi razılaşdılar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

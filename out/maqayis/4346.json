@@ -1,0 +1,17 @@
+{
+ "i": 4346,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 45,
+  "page_to": 45
+ },
+ "ar": "الهاء والذال والراء: كلمةٌ واحدة هى الهَذَر، وهو الهَذَيان.\nورجلٌ مِهذارٌ وهذَرَه وهِذْرِيانٌ، أى كثير الكلامِ فى خَطَل.",
+ "az": "[هذر] (hə-zə-rə): Hə, zal və ra – yalnız bir kəlmədir, o da الهَذَر (əl-həzər) – sərsəmləmək, boşboğazlıqdır.\nVə kişi üçün مِهذارٌ (mihzar), هَذَرَة (həzərə) və هِذْرِيانٌ (hizriyan) deyilir – yəni xəta ilə çox danışan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

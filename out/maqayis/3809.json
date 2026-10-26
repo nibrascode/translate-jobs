@@ -1,0 +1,17 @@
+{
+ "i": 3809,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 301,
+  "page_to": 301
+ },
+ "ar": "الميم والحاء والكاف كلمةٌ واحدة. المَحْكُ: التَّمادي واللَّجاج. وتماحَكَ الخصمانِ: تلاجَّا. وهو مَحِكٌ.",
+ "az": "[محك] (Mim, ha və kaf): Tək bir sözdür. «المَحْكُ» (əl-məhku): inad etmək və israrlı olmaq. «تماحَكَ الخصمانِ» (təməhəkəl-xəsman): iki müxalif (düşmən) bir-biri ilə inadlaşdı. O, «مَحِكٌ» (məhicün) – inadkardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

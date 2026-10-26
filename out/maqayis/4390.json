@@ -1,0 +1,17 @@
+{
+ "i": 4390,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هفت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 57,
+  "page_to": 57
+ },
+ "ar": "الهاء والفاء والتاء: كلمةٌ تدلُّ على سُقوطِ شئِ. وتهافُت الشَّئِ:\nتَساقُطُه (٢) قطعةً [قطعة (٣)]. والهَفْت (٤): قطع الدَّم المتهافِتة. وتهافَتَ الفَراشُ فى النَّار: تساقَطَ. وكلُّ شئِ انخَفَضَ واتَّضَع فقد هَفَت وانهَفَت. ووردَتْ هَفِيتةٌ من النَّاس، وهى التى أقْحمتْهم السّنةُ، فهُمْ ساقِطةٌ. واللّه أعلَم.",
+ "az": "[هفت] (hə-fə-tə): Hə, fa və ta hərfləri bir şeyin düşməsinə dəlalət edən kəlmədir. «تهافُت الشَّئِ» (təhafutüş-şəyi) — bir şeyin [parça-parça] tökülməsi. «الهَفْت» (əl-həft) — tökülən qan parçaları. «تهافَتَ الفَراشُ فى النَّار» (təhafətəl-fəraşu fin-nar) — pərvanələr atəşə düşüb töküldü. Aşağı düşən və alçalan hər bir şey «هَفَت» (həfat) və «انهَفَت» (inhəfat) oldu. Insanlardan «هَفِيتة» (həfitətün) gəldi — bunlar illərin qıtlığı onları məcbur edib gətirənlərdir, onlar düşkün kəslərdir. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

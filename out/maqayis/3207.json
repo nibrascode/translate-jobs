@@ -1,0 +1,17 @@
+{
+ "i": 3207,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قنر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 31,
+  "page_to": 31
+ },
+ "ar": "القاف والنون والراء كلمة: القَنَوَّر: الضَّخْم الرَّأْس.",
+ "az": "«قنر» — قاف، نun və ra hərfləri bir kəlmədir: «القَنَوَّرُ» (əl-qanəvvər) — böyük başlı deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:04.973Z"
+}

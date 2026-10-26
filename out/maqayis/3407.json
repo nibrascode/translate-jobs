@@ -1,0 +1,17 @@
+{
+ "i": 3407,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 139,
+  "page_to": 139
+ },
+ "ar": "الكاف والميم واللام أصلٌ صحيح يدلُّ على تمام الشيء. يقال:\nكَمَل الشيءُ وكَمُل فهو كاملٌ، أي تامّ. وأكملتُه أنا. قال اللّه تعالى: ﴿اَلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ﴾.",
+ "az": "[كمل] Kaf, mim və lam bir şeyin tamlığına dəlalət edən səhih bir kökdür. Deyilir: «كَمَلَ الشيءُ وكَمُلَ فهو كاملٌ» (şey tam oldu, deməli o kamil, yəni tamdır). Və mən onu tamamladım: «أكملتُه». Uca Allah buyurmuşdur: ﴿اَلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ﴾ (mənaca tərcümə: «Bu gün sizin üçün dininizi kamil etdim»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

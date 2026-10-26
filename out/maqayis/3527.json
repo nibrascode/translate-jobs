@@ -1,0 +1,17 @@
+{
+ "i": 3527,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كعظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 185,
+  "page_to": 185
+ },
+ "ar": "الكاف والعين والظاء. يقولون: الكَعِيظ: الرّجل القصير الضَّخْم.",
+ "az": "[كعظ] (kə-ə-zə). Kaf, ayn və zai hərfləri. Deyirlər: «الكَعِيظ» (əl-kəiz): qısa və yoğun kişi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

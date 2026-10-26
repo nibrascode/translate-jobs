@@ -1,0 +1,17 @@
+{
+ "i": 4250,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نمق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "النون والميم والقاف أُصَيْلٌ يدلُّ على تحسينِ شيءٍ وتجويده.\nونَمَقْتُ الكتاب ونَمَّقْتُه: نقَشتُه وصَوَّرْتُه. قال:\nكأنَّ مَجَرَّ الرّامساتِ ذيولَها … عليه قَضيمٌ نمَّقته الصَّوَانعُ (٣)",
+ "az": "«نمق» (النون والميم والقاف): nун, mim və qaf hərflərindən ibarət kiçik bir kök olub bir şeyi gözəlləşdirməyə və kamil etməyə dəlalət edər. نَمَقْتُ الكتاب ونَمَّقْتُه (nəməqtül-kitabə və nəmməqtüh): kitabı nəqş etdim və gözəl şəkildə yazdım/şəkilləndirdim. Şair demişdir: كأنَّ مَجَرَّ الرّامساتِ ذيولَها … عليه قَضيمٌ نمَّقته الصَّوَانعُ (٣) (Guya küləklərin sürüyüb apardığı ətəklərin izi… üzərində sənətkarların naxışladığı [bəzədiyi] ağ dəridir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:59.927Z"
+}

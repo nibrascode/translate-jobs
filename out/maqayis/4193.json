@@ -1,0 +1,17 @@
+{
+ "i": 4193,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 455,
+  "page_to": 456
+ },
+ "ar": "النون والفاء واللام أصلٌ صحيح يدلُّ على عَطاء وإعطاء.\nمنه النَّافلة: عَطِيَّة الطَّوْعِ من حيثُ لا تَجِب. ومنه نافلة الصَّلاة. والنَّوْفل:\nالرّجُل الكثيرُ العطاء. قال:\n* يأبَى الظُّلامةَ منه النَّوفلُ الزُّفَر (٢) *\nومن الباب النفَل: الغُنْم. والجمع أنفال، وذلك أن الإمام ينفِّل المحارِبِين،\nأي يُعطِيهم ما غَنِموه. يقال: نفَّلتُك: أعطيتُك نَفَلا. وقولهم: انتَفَلَ من الشَّيء انتفى منه، فمن الإبدال، واللام بدل من الياء. قال المتلمِّس:\nأَمُنْتِفلاً من نَصْر بُهْثة خِلْتَني … أَلَا إنَّني منهم وإن كنتُ أيْنَما (١)",
+ "az": "[نفل] (ن، ف، ل) — bəxşişə və əta etməyə dəlalət edən səhih bir kökdür. Bunlardan biri النَّافِلة (ən-nafilə): vacib olmadan könüllü olaraq verilən hədiyyədir. Nafilə namazı da buradan götürülmüşdür. وَالنَّوْفل (ən-növfəl): çox bəxşiş verən səxavətli kişidir. Şair demişdir: * يأبَى الظُّلامةَ منه النَّوفلُ الزُّفَر (٢) * (* Səxavətli və igid olan o kəs heç vaxt zülmə göz yummaz *). Bu babdandır: النفَل (ən-nəfəl): qənimət. Cəmi أنفال (ənfal) gələr, çünki imam döyüşçülərə qənimət olaraq əldə etdiklərini bağışlayır. Deyilir: نَفَّلتُك (Sənə qənimət bəxş etdim). Onların انتَفَلَ من الشَّيء انتفى منه (O şeydən uzaqlaşdı, imtina etdi) sözü hərf dəyişikliyi (ibdal) yolu ilə yaranmışdır, burada lam hərfi ya hərfinin əvəzinə işlənmişdir. Mütəvəmmis demişdir: أَمُنْتِفلاً من نَصْر بُهْثة خِلْتَني … أَلَا إنَّني منهم وإن كنتُ أيْنَما (١) (Məni Bühtə qəbiləsinə yardım etməkdən imtina etmiş biri kimi zənn etdin? Bil ki, mən harada olmasam da, onlardanam).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4130,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 427,
+  "page_to": 427
+ },
+ "ar": "النون والشين والغين ثلاثُ كلماتٍ متباينةٍ، ليس قياسها واحداً.\nالأولى النَّشغ، كالشَّهِيق عند الشَّوق.\nالثانية الناشغ: الذي يَحيا بعد جَهْد.\nالثالثة النَّواشِغ: أعالي الوادي، الواحدة ناشغة.",
+ "az": "[نشغ] (nəşğ) — Nun, şin və ğeyn bir-birindən fərqli üç kəlmədir, onların qiyasəti eyni deyil.\n\nBirincisi: النَّشغ (ən-nəşğ) — həsrət zamanı olan şehiq (hönkürtü) kimidir.\nİkincisi: الناشغ (ən-nəşiğ): əziyyətdən sonra dirilən şəxsdir.\nÜçüncüsü: النَّواشِغ (ən-nəvəşiğ): vadinin yuxarı hissələridir, təkliyi ناشغة (nəşiğə) olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:38.830Z"
+}

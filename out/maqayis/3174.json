@@ -1,0 +1,17 @@
+{
+ "i": 3174,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 15,
+  "page_to": 15
+ },
+ "ar": "القاف والفاء أصلٌ صحيحٌ يدلُّ على جَمْع وتجمُّع وتقبُّض.\nمن ذلك القُفَّة: شَئٌ كهيئة اليقطينة تُتَّخَذ من خُوط أو خُوص. يقال للشَّيخ (١) إذا تقبَّضَ من هَرَمه: كأنَّه قُفَّة. وقد استَقفّ، إذا تشنَّج. ومنه أَقَفَّتِ الدَّجاجةُ، إذا كَفَّت عن البَيض. والقَفُّ: جنسٌ من الاعتراض للسَّرَق، وقيل ذلك لأنَّه يقُفُّ الشَّئَ إلى نفسه. فأمَّا قولُهم: قَفْقَف الصَّرِدُ، إذا ارتَعَد، فذلك عندنا من التقبُّض الذى يأخذُه عند البرد. قال:\nنِعْمَ شِعارُ الفَتَى إذا بَرَدَ ال … ليلُ سُحيْراً وقَفْقَفَ الصَّرِدُ (٢)\nولا يكون هذا من الارتعاد وحدَه.\nومن الباب القُفّ، وهو شئٌ يرتفع من مَتْن الأرض كأنّه متجمِّع، والجمع قِفاف. واللّه أعلم.",
+ "az": "[قف] \nقاف və fa hərfləri toplamaq, toplanmaq və yığılmaq mənalarına dəlalət edən səhih bir əsasdır.\nBunlardan biri «القُفَّة» — balqabaq şəklində olan, çubuqdan və ya xurma yarpağından hörülən bir şeydir. Qocalıqdan büzüşüb qalan qocaya deyilir: «كأنَّه قُفَّة» (sanki səbətdir). Dəri qırışdıqda «استَقَفّ» deyilər. Toyuq yumurtlamaqdan əl çəkdikdə «أَقَفَّتِ الدَّجاجةُ» deyilməsi də bundandır. «القَفُّ» — oğurluq üçün qarşısını kəsmək növüdür, ona belə deyilmişdir ki, çünki o, şeyi özünə tərəf yığır. «قَفْقَف الصَّرِدُ» (soyuqdan titrədi) sözünə gəldikdə isə, bizə görə bu, soyuq dəyərkən insanı bürüyən yığılma/büzüşmədəndir. Şair demişdir:\nنِعْمَ شِعارُ الفَتَى إذا بَرَدَ ال … ليلُ سُحيْراً وقَفْقَفَ الصَّرِدُ (٢)\n(Gecənin sonuna yaxın soyuq düşəndə və soyuqdan titrəyən adamın büründüyü paltar nə gözəldir)\nBu, təkcə titrəməkdən ibarət deyildir.\nBu fəsildəndir: «القُفّ» — yer səthindən yuxarı qalxan, sanki toplanmış kimi görünən şeydir, cəmi «قِفاف» gəlir. Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:04.334Z"
+}

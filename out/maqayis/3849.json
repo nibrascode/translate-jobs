@@ -1,0 +1,17 @@
+{
+ "i": 3849,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 315,
+  "page_to": 315
+ },
+ "ar": "الميم والراء والهمزة. وإذا هُمِز خَرَج عن القياس وصارت فيه كلماتٌ لا تنقاس. يقال امْرُؤٌ وامرآنِ، وقوم امرئٍ. وامرأةٌ تأنيث امرئٍ.\nوالمُرُوَّة: كمال الرُّجُوليّة، وهي مهموزة مشدَّدة، ولا يُبنَى منه فِعل. والمَرَاءَة:\nمصدرُ الشيء المَريء الذي يُستَمرَأ، ويقال مَرَأني الطَّعامُ وأمرأَني. والمَرِيء:\nرأس المَعِدَة والكَرِش اللازقُ بالْحُلقوم.",
+ "az": "«مرأ» (mara'a) — mim, ra və həmzə. Həmzəli olduqda qaydadan çıxır və orada qaydaya sığmayan sözlər əmələ gəlir. Deyilir: اِمْرُؤٌ (imru'un), اِمْرَآنِ (imra'ani) və قَوْمُ امْرِئٍ (qawmu imri'in). اِمْرَأَةٌ (imra'atun) — imru' sözünün müənnəsidir. اَلْمُرُوَّةُ (al-muruwwatu): kişiliyin kamil olmasıdır, həmzəli və şeşdlidir, bundan feil düzəlinməz. اَلْمَرَاءَةُ (al-mara'atu): həzm olunan və ləzzətli olan مَرِيء (mari') sözünün məsdəridir. مَرَأَنِي الطَّعَامُ وَأَمْرَأَنِي (mara'ani at-ta'amu wa amra'ani): yemək mənə xoş gəldi və həzm olundu. اَلْمَرِيءُ (al-mari'): mədənin başı və qırtlağa bitişik olan işgənbədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

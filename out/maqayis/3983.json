@@ -1,0 +1,17 @@
+{
+ "i": 3983,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 364,
+  "page_to": 364
+ },
+ "ar": "النون والهاء والقاف أصلٌ صحيح يدلُّ على صوتٍ من الأصوات.\nفالنّهيق والنُّهاق: صوت الحمار. ونَوَاهِقُه: مخارج نَهاقِهِ من حَلْقِه ونَوَاهق الدّابة:\nعروقٌ اكتنفتْ خياشيمَه، الواحدة ناهقة.",
+ "az": "[نهق] (NUN, HƏ və QAF) - səslərdən bir səsə dəlalət edən səhih bir kökdür. «النّهيق» və «النُّهاق» - uzunqulağın səsidir. «ونَوَاهِقُه» - onun boğazından səsin çıxış yerləri. Minik heyvanının «نَوَاهق» -i isə burnunun hər iki tərəfindəki damarlardır, təkli «ناهقة» gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

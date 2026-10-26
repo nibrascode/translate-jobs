@@ -1,0 +1,17 @@
+{
+ "i": 4079,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 404,
+  "page_to": 404
+ },
+ "ar": "النون والحاء والباء أصلانِ: أحدهما يدلُّ على نَذْرٍ وما أشبَهَه من خَطَر أو إخطار شيء، والآخر على صوتٍ من الأصوات.\nفالأوّل: النَّحْب: النَّذْر. وسار فلانٌ على نَحْبٍ، إذا جهد، فكأنَّه خاطَرَ على شيءٍ فَجدَّ. قال:\n* كما سار عن إحدى يديه المُنَحِّبُ (١) *\nأي المُخاطِر. وقد كان التَّنْحِيب (٢) في العرب، وهو كالمخاطَرة، تقول: إن كان كذا فلك علىَّ كذا وإلاَّ فلي عليك. وجاء الإسلامُ بالنَّهْي عنه. ومنه ناحَبْتُه إلى فلانٍ، إذا حاكمتَه. والقياسُ فيهما واحد. وكذا النَّحْب: الموت، كأنَّه نذْرٌ ينِذُرُهُ الإنسان يَلزَمُه الوفاءُ به، ولا بُدَّ له منه.\nوالأصل الآخر النَّحيب: [نحيبُ] الباكِى، وهو بكاؤُه مع صوتٍ وإعوال.\nومنه النُّحَاب: سُعال الإبل. ونَحَب البعيرُ يَنْحَب.",
+ "az": "[نحب] (N-H-B) Nun, ha və ba iki əsas mənaya dəlalət edir: Biri nəzirə və ya ona bənzər təhlükəyə, yaxud bir şeyi təhlükəyə atmağa; digəri isə səslərdən bir səsə. Birincisi: «النَّحْب» (ən-nəhb) - nəzir. «سار فلانٌ على نَحْبٍ» (filankəs bir nəhb üzrə getdi) deyildikdə, o, çətinliyə düşdü deməkdir, sanki bir şey üçün özünü təhlükəyə atıb cəhd etmişdir. Şair demişdir: * كما سار عن إحدى يديه المُنَحِّبُ (١) * (Necə ki, öz əllərindən biri ilə təhlükəyə atılan getdi). Yəni özünü təhlükəyə atan. Ərəblərdə «التَّنْحِيب» (ət-tənhib) var idi ki, bu da bir növ təhlükəyə atılmaq (müxatarə) kimidir; deyirsən: «Əgər belə olsa, mənim sənə borcum budur, yoxsa sənin mənə borcun budur». İslam gəldikdə bunu qadağan etdi. «ناحَبْتُه إلى فلانٍ» (onu filankəsin yanına hakimliyə çəkdim) ifadəsi də buradandır. Hər ikisində qiyas birdir. Həmçinin «النَّحْب» (ən-nəhb) - ölüm deməkdir, sanki insanın öz üzərinə götürdüyü və yerinə yetirməli olduğu, ondan qaçışın mümkün olmadığı bir nəzirdir. Digər əsas isə «النَّحيب» (ən-nəhib) - ağlayanın nidası, yəni onun səs və fəryadla ağlamasıdır. «النُّحَاب» (ən-nuhab) da buradandır: dəvələrin öskürəyi. «نَحَب البعيرُ يَنْحَب» (dəvə öskürdü, öskürür) deyilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

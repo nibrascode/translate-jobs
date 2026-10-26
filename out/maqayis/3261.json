@@ -1,0 +1,17 @@
+{
+ "i": 3261,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قتب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 59,
+  "page_to": 59
+ },
+ "ar": "القاف والتاء والباء أصلٌ صحيحٌ يدلُّ على آلة من آلات الرِّحال أو غيرها. فالقَتَب للجمل معروفٌ. ويقال للإِبل تُوضَع عليها أحمالها:\nقَتُوبة. قال ابنُ دريد: [القَتَب (١)]: قَتَب البعير، إذا كان ممَّا يحمل عليه، فإنْ كان من آلة السّانية فهو قِتْب بكسر القاف. وأمَّا الأقتابُ فهي الأمعاء، واحدها قتب (٢)، وتصغيرها قُتَيْبة، وذلك على معنى التّشبيهِ بأقتاب الرِّحال.",
+ "az": "[قتب] «قاف», «تاء» və «با» hərfləri səyahət və digər alətlərdən bir alətə dəlalət edən səhih bir kökdür. Dəvənin «القَتَب»-i məlumdur. Üzərinə yüklər qoyulan dəvələrə «قَتُوبة» denilir. İbn Dürid demişdir: [القَتَب (bir)]: Dəvənin qətəbi, əgər üzərinə yük daşınanlardandırsa; əgər suçəkən çarxın alətindən olarsa, «قاف»-ın kəsri ilə «قِتْب» olar. «الأقتاب» isə bağırsaqlardır, təkli «قتب»-dir (iki), kiçiltmə forması «قُتَيْبة»-dir, bu da səyahət palançalarının qətəblərinə bənzədilmə mənasındadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:48.340Z"
+}

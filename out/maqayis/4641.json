@@ -1,0 +1,17 @@
+{
+ "i": 4641,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 140,
+  "page_to": 140
+ },
+ "ar": "الواو واللام والميم، فيه كلماتٌ تتشاكل. يقولون: الوَلْم:\nالحِزَام. والوَلم: حبلٌ يُشَدُّ بين التَّصدير والسَّفيف (٢) لئلاَّ يَقْلَقا. ويقال الوَلْم:\nكلُّ خيطٍ شَددتَ به شيئاً. وليس ببعد أن يكون اشتقاقُ الوَلِيمة من هذا، لأنه يكون عند عقد النِّكاح. وأهل للُّغة يقولون: طَعام العُرْس وَليمة.",
+ "az": "«ولم» (vələm). Vəv, lam və mim: burada bir-birinə bənzər kəlmələr vardır. Deyirlər ki, اَلْوَلْمُ (vəlm) — kəmərdir. اَلْوَلْمُ (vəlm) — təkəssür (səhəngin və ya yükün alt ipi) ilə səfif (enli ip) arasında bağlanan ipdir ki, (yük) tərpənib sarsılmasın. Deyilir ki, اَلْوَلْمُ (vəlm) — bir şeyi bağladığın hər hansı bir sapdır. وَلِيمَة (vəlimə) sözünün bundan törəməsi uzaq ehtimal deyil, çünki o, nikah bağlandığı zaman olur. Dilçilər deyirlər ki, toy yeməyi vəlimədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.059Z"
+}

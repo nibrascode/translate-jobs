@@ -1,0 +1,17 @@
+{
+ "i": 3440,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كيص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 150,
+  "page_to": 150
+ },
+ "ar": "الكاف والياء والصاد إنْ صحَّ فهو يدلُّ على انقباضٍ وضِيق. ويقولون: كاصَ يَكيص، مثل كَاعَ (٣). ويقولون: إنَّ الكِيصَ:\nالرجُل الضيِّق الخُلُق. وحُكِيت كلمةٌ أنا أرتاب بها، يقولون: كِصْنَا عند فُلانٍ ما شِئْنا، [أي] أكلنا.",
+ "az": "[كيص] (Kaf, ya və sad) — əgər səhihdirsə, daralmaya və sıxıntıya dəlalət edir. Deyirlər: كاصَ يَكيص (kasa yekisu) — كَاعَ (kaə) kimi. Deyirlər ki, الكِيص (əl-kiys) — xasiyyəti dar, sərt adamdır. Haqqında şübhə etdiyim bir söz də nəql olunmuşdur, deyirlər: كِصْنَا عند فُلانٍ ما شِئْنا (kisna ində fulanin ma şi'na) — yəni yedik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

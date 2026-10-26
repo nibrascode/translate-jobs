@@ -1,0 +1,17 @@
+{
+ "i": 3459,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كبل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 155,
+  "page_to": 155
+ },
+ "ar": "الكاف والباء واللام أصلٌ صحيحٌ يدلُّ على حَبْسٍ ومنْع.\nمن ذلك الكِبْل: القَيد الضَّخم. يقال: كَبَلْتُ الأسيرَ وكَبَّلتُه. ويقولون: إنَّ الكابُول: حِبالةُ الصَّائد. فأمَّا المكَابَلة فهو من هذا أيضاً، وهو التَّأْخير في الدَّين، يقال: كَبَلْتُك دينَك؛ وذلك من الحبس أيضاً. ومن الباب أيضاً المكابَلة: أن تُباعَ الدَّارُ إلى جنب دارِك وأنت محتاجٌ إليها فتؤخَر شراءها ليشتريَها غيرُك ثم تأخذَها بالشُّفعة. وقد كُرِه ذلك",
+ "az": "[كبل] (Kəbələ). Kaf, ba və lam (الكاف والباء واللام) həqiqi bir kök olub, həbs etməyə və qadağan etməyə dəlalət edir. Bunlardan biri الكِبْل (əl-kibl) – ağır buxovdur. كَبْلْتُ الأسيرَ وكَبَّلتُه (əsirə buxov vurdum və onu bağladım) deyilir. Deyirlər ki, الكابُول (əl-kabun) – ovçunun ipidir. Məqabləyə (المكَابَلة) gəldikdə, o da bundan törəmişdir; bu, borcu yubatmaqdır: كَبَلْتُك دينَك (sənin borcunu yubatdım) deyilir; bu da həbs etmək mənasındandır. Həmçinin bu fəsildəndir: əl-məkablə (المكابَلة) – evinin yanında bir ev satıldıqda və sənin ona ehtiyacın olduğu halda, başqası alıb sonra onu şəfa hüququ ilə alasın deyə sənin alışını yubatmasıdır. Bu, bəyənilməmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:41:04.625Z"
+}

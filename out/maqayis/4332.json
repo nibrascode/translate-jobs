@@ -1,0 +1,17 @@
+{
+ "i": 4332,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هجف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 36,
+  "page_to": 36
+ },
+ "ar": "الهاء والجيم والفاء. يقولون: الهِجْفة، هى النَّاحية (٦).\nوفى ذلك نظر. فأمّا الهِجَفُّ فالظَّلِيم المُسِنّ، وأظنُّه من الباب الذى زيدت فيه الهاء وأُبدلت زاؤه جيماً، وهو من الزِّفِّ، وهو رِيشُه.",
+ "az": "[هجف] الهاء والجيم والفاء (Hə, cim və fa). يقولون: الهِجْفة، هى النَّاحية (٦) (Deyirlər: əl-hicfə, tərəfdir, istiqamətdir). وفى ذلك نظر (Və bunda nəzər [müzakirə] vardır). فأمَّا الهِجَفُّ فالظَّلِيم المُسِنّ (Lakin əl-hicəff isə yaşlı dəvəquşudur), وأظنُّه من الباب الذى زيدت فيه الهاء وأُبدلت زاؤه جيماً (və zənn edirəm ki, o, hərfinin artırıldığı və zay hərfini cim ilə əvəz edildiyi fəsildəndir), وهو من الزِّفِّ، وهو رِيشُه (və o, əz-ziffdəndir ki, o da onun lələyidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:57.624Z"
+}

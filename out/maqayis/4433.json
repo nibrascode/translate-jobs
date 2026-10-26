@@ -1,0 +1,17 @@
+{
+ "i": 4433,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 76,
+  "page_to": 76
+ },
+ "ar": "الواو والزاء: حرفٌ [يدلُّ على] خِفَّة وسُرعة. ورجلٌ وَزْوازٌ: خفيف. قال أبو بكر (١): الوَزْوَزة: الخِفّة والسُّرعة.",
+ "az": "[وز] (Vav və zay): Yüngüllüyə və sürətə [dəlalət edən] hərfdir. Və kişi (وَزْوازٌ) (vəzvaz) — yüngüldür. Əbu Bəkr (١) demişdir: Əl-vəzvəzə (الْوَزْوَزَة) — yüngüllük və sürətdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

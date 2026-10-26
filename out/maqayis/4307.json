@@ -1,0 +1,17 @@
+{
+ "i": 4307,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 28,
+  "page_to": 28
+ },
+ "ar": "الهاء والباء والخاء. الهَبَيَّخَة: الجارية تمشِى مُتَبَخْتِرَة.",
+ "az": "[هبخ] (hə-bə-xə): Hə, ba və xa. الهَبَيَّخَة (əl-həbəyyəxəh): lovğa-lovğa yeriyən cariyədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

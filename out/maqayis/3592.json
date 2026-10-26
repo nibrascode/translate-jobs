@@ -1,0 +1,17 @@
+{
+ "i": 3592,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 221,
+  "page_to": 221
+ },
+ "ar": "اللام والواو والسين كلمةٌ تدلُّ على شيء من التطَعُّم. قالوا:\nاللَّوْس أن يَتتَبَّع (١) الإنسانُ المآكِل. يقال: لاسَ يَلُوسُ لَوْسًا. ويقولون:\nاللَّوَاسة: اللُّقْمَة. قال ابن دريد: لُسْتُ الشّيءَ في فمي، إذا أدَرْتَه بلسانك (٢).",
+ "az": "«لوس» (لوس): اللام، الواو والسين كلمة تدل على شيء من التَطَعُّم (Lam, vav və sin bir kəlmə olub, dadmağın bir növünə dəlalət edir). قالوا: اللوس أن يتتبع الإنسان المآكل (Dedilər ki, əl-ləvs insanın yeməkləri izləməsidir). يقال: لاس يلوست لَوْسا (Deyilir: lâsa yilûsu lavsən). ويقولون: اللواسة: اللقمة (Və deyirlər: əl-ləvəsə - loxmadır). قال ابن دريد: لُست الشيء في فمي، إذا أدرته بلسانك (٢) (İbn Düreyd demişdir: lüstüş-şeyə fi fami - bir şeyi ağzımda dolandırdığım zaman, əgər onu dilinlə fırlatsan).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.900Z"
+}

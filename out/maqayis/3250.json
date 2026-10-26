@@ -1,0 +1,17 @@
+{
+ "i": 3250,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قبع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 51,
+  "page_to": 51
+ },
+ "ar": "القاف والباء والعين أصلٌ صحيحٌ يدلُّ على شبه أنْ يَخْتَبِئ الإنسانُ أو غيرُه. يقال: [قَبَع] الخنزيرُ والقنفذُ، إذا أدْخَلَ رأسَه في عُنقه، قَبْعاً. وجارية قُبَعَة طُلَعة، إذا تخبَّأت تارةً وتطلَّعَتْ تارة. والقُبَعة: خِرقة كالبُرنُس، تسمِّيها العامة: القُنْبُعَة (٢). والقُبَاع: مكيالٌ واسعٌ، كأَنَّه سمِّي قُباعاً لما يَقْبَعُ فيه من شيء. وقَبَع الرّجُلُ: أعيا وانبَهَر وسُمِّي قابعاً لأنَّه يَتقبض عند إعيائه عن الحركة.\nومما شذَّ عن هذا الباب قَبِيعةُ السَّيف، وهي التي على طَرَف قائِمِه من حديدٍ أو فِضَّة.",
+ "az": "[قبع] (qəbə-ə): Qaf, ba və eyn – insanın və ya başqasının gizlənməsinə bənzərliyi bildirən səhih bir kökdür. Deyilir ki: [قَبَع] (qəbəə) – donuz və kirpi başını boynunun evinə daxil etdi, qəbəən. [وجارية قُبَعَة طُلَعة] (və cariyətun qubə-ətun tulə-ətun) – bəzən gizlənən, bəzən də başını qaldırıb baxan cariyə. [القُبَعة] (əl-qubə-ə) – Burnus kimi parça, avam xalq ona [القُنْبُعَة] (əl-qunbuqə) deyir (٢). [والقُبَاع] (və əl-qubə-c) – genis ölçü qabı, sanki ona hər hansı bir şey yığdığı (və ya çəkildiyi) üçün qubac adı verilmişdir. [وقَبَع الرّجُلُ] (və qəbəə ər-raculu) – yoruldu və nəfəsi kəsildi, qabic adlandırıldı, çünki o, yorulduğundan hərəkətdən qapanır, büzüşür. Bu fəsildən kənara çıxan (şaz) söz: [قَبِيعةُ السَّيف] (qəbi-ətus-seyf) – qılıncın dəstəyinin ucunda olan dəmirdən və ya gümüşdən olan hissədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:30.095Z"
+}

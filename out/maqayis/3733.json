@@ -1,0 +1,17 @@
+{
+ "i": 3733,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 271,
+  "page_to": 271
+ },
+ "ar": "الميم والزاء أصلانِ: أحدهما طعمٌ من الطعوم، والآخر [يدلُّ] على مزيّةٍ وفضل.\nفالأول: المُزُّ: الشّيءُ بين الحامض والحُلْو. ويقولون: سمِّيت الخمر مُزَّاءً (١) من هذا، وقيل بل هو من القياس الآخر.\nوالأصل الآخر الفضل. وله عليه مِزٌّ (٢)، أي فَضْل. والمُزَّاء منه؛ يقولون:\nهذا الشراب أمزُّ من هذا، أي أفضل. قالوا: والمُزّاء اسم، ولو كان نعتاً لقيل مَزَّاءُ. والتمزُّز: تمصُّص الشَّرابِ قليلاً قليلا. ويمكن أن يكون هذا من الأول.",
+ "az": "«مز» (məzə) — Mim və zay hərfləri iki əslidir: bunlardan biri dad növlərindən biridir, digəri isə üstünlük və fəzilətə dəlalət edir. Birincisi: «المُزُّ» (əl-müzz) — turş və şirin arasında olan dad. Deyirlər ki, şərabın «مُزَّاء» (müzə'an) adlandırılması da bundandır (١), lakin bunun digər qiyasa aid olduğu da söylənilmişdir. Digər əsl isə fəzilətdir. «وله عليه مِزٌّ» (və ləhû aləyhi mizzün) — onun üzərində üstünlüyü var (٢). «المُزَّاء» (əl-müzə'ü) də bundandır; deyirlər: «هذا الشراب أمزُّ من هذا» (həzəş-şərabü əmzzü min həzə - bu şərab bundan daha üstündür). Dedilər ki, «المُزَّاء» isimdir, əgər sifət olsaydı «مَزَّاءُ» (məzzə'ü) deyilərdi. «والتمزُّز» (ət-təməzzüz) — şərabı az-az dadmaq, sormaq. Mümkündür ki, bu da birincidən olsun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

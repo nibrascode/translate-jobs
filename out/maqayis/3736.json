@@ -1,0 +1,17 @@
+{
+ "i": 3736,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 272,
+  "page_to": 272
+ },
+ "ar": "الميم والصاد أصلٌ صحيح يدلُّ على شِبه التذوُّق للشّيء وأخْذِ خَالِصِه. من ذلك مَصِصْتُ الشيء أمَصُّه، وامْتَصَصْته أمتصُّه. والمَصْمَصة:\nخلاف المَضمضة، لأنَّ المَصْمَصَة بالصاد يكون بطرف اللِّسان. ومنه مُصاص الشيء:\nخالصه، وهو مقيسٌ من امْتَصَصْت الشّيء، فهو الخالص الذي يُمتصّ. وفرس مُصامِصٌ: خالص العربية.",
+ "az": "«مص» (məsa) — Mim və sad hərfləri bir şeyi dadmağa bənzəyən və onun xalisini almağa dəlalət edən səhih bir əslidir. Bunlardan biri «مَصِصْتُ الشيء أمَصُّه، وامْتَصَصْته أمتصُّه» (məsisthüş-şəy'ə əmuccühû, və imtasasthü əmtuccühû) — mən şeyi sordum, soruram. «والمَصْمَصَة» (əl-masmasə) — «المَضمضة» (əl-mazmazə)-nin ziddidir, çünki sad hərfi ilə olan masmasə dilin ucu ilə edilir. Və bundandır: «مُصاص الشيء» (musasüş-şəy' - şeyin xalis hissəsi), bu da «امْتَصَصْت الشَّيء» (imtasasthüş-şəy' - sormuş olduğun şey) sözündən qiyas edilmişdir, o sorulan xalis şeydir. «فرس مُصامِصٌ» (fərasün musamisün) — saf ərəb cinsli at.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

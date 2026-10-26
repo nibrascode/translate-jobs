@@ -1,0 +1,17 @@
+{
+ "i": 4286,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هوه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 21,
+  "page_to": 21
+ },
+ "ar": "الهاء والواو والهاء. يقولون: الهَوْهَاء (٣): الأحمق. ويقولون:\nالهواهِى: الباطل. قال ابنُ أحمر:\nفى كل يوم يَدْعُوانِ أطِبَّةً … إلىَّ وما يُجْدُونَ إلاّ الهَواهِيا (٤)\nقال الخليل: وبئرٌ هوهاءُ، على زنة حمراءَ: كثيرةُ الماء.",
+ "az": "[هوه] (Hovh): Hə, vav və hə. Deyirlər ki, الهَوْهَاء (əl-həvhə-u): axmaq. Və deyirlər:\n\nالهواهِى (əl-həvahi): batil, puç şey. İbn Əhmər demişdir:\n\nفى كل يوم يَدْعُوانِ أطِبَّةً … إليَّ وما يُجْدُونَ إلاّ الهَواهِيا (4)\n(Hər gün iki təbib çağırırlar yanıma… və onlar batil şeylərdən başqa bir fayda vermirlər).\n\nXəlil demişdir: «حمراء» (həmra) vəznində olan bئر هوهاء (biurun həvhə-u) çox sulu quyu deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

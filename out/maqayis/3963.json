@@ -1,0 +1,17 @@
+{
+ "i": 3963,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 357,
+  "page_to": 357
+ },
+ "ar": "النون والضاد أصلانِ صحيحان أحدُهما يدلُّ على تيسيرِ الشَّيء وظُهورِه، والثاني على جنسٍ من الحركة.\nالأوّل: قولُ العرب: خذ ما نضَّ لك من دَينٍ، أي تَيَّسر. وفلانٌ يستنضُّ مال فلانٍ، أي يأخذه كما تيَّسر. والنَّضيض من الماء: القَليل. فأمَّا النَّاضُّ من المال فيقال: هو ما له مادَّةٌ وبقاء، ويقال بل هو ما كان عَيناً. وإلى هذا يذهب الفُقهاءُ في النضّ.",
+ "az": "[نض] Nun və dad - iki səhih kökdür: biri bir şeyin asanlaşmasına və üzə çıxmasına, ikincisi isə bir növ hərəkətə dəlalət edir.\nBirincisi: Ərəblərin «خذ ما نضَّ لك من دَينٍ» sözüdür, yəni borcundan sənə nə asanlaşdısa (əldə olunduysa) onu götür. «وفلانٌ يستنضُّ مال فلانٍ» — filankəs filankəsin malını asanlaşdığı kimi götürür. «النَّضيض» — sudan az olan hissədir. Malın «النَّاضُّ» olmasına gəldikdə, deyilir ki, o, əsası və qalıcılığı olan maldır; başqaları isə bunun nəğd pul (əyn) olduğunu deyirlər. Fəqihlər də «نضّ» sözündə bu mənanı əsas tuturlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

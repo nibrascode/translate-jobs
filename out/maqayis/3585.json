@@ -1,0 +1,17 @@
+{
+ "i": 3585,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لوي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 218,
+  "page_to": 218
+ },
+ "ar": "اللام والواو والياء أصلٌ صحيح، يدلُّ على إمالةٍ للشيء.\nيقال: لوَى يدَه يَلويها. ولَوَى برأسِه: أمَالَه. واللَّوِيُّ: ما ذَبَل من البَقْل، وسمِّي لَوِيًّا لأنّه إذا ذَبَل التوَى ومال. واللِّواء معروفٌ، وسمِّي لأنّه يُلوَى على رُمْحه. واللَّوِيَّة: ما ذُخِرَ من طعامٍ لغير الحاضِرِين، كأنّه أُميل عنهم إلى غيرهم.\nوأَلْوَى بالشَّيء، إذا أشار به كاليد ونحوه. وألْوَى بالشَّيء: ذهبَ به، وكأنه أماله إلى نَفْسه. والألْوَى: الرّجُل المجتنِب المنفرِد، لا يزال كذلك، كأنَّه مالَ عن الجلساء إلى الوُحْدة. واللَّيَّاءُ: الأرض البعيدة من الماء، وسمِّيت بذلك لأنَّها كأنها مالت عن نَهْج الماء. ولواه دَيْنَه يَلوِيه لَيًّا ولَيَّانًا؛ وهو الباب. قال:\nتُطِيلِينَ لَيَّانِي وأنت مَلِيَّةٌ … وأُحْسِنُ يا ذاتَ الوشاح التّقاضيا (١)\nولِوَى الرَّمْل: مُنْقَطَعُه. وألوَى القومُ، إذا بلغَوا لِوَى الرّمل. وسمّي بذلك لأنّ الريح تَلويه كيف شاءت. ويقولون: * أكثرتَ من الحيِّ واللّيّ (٢). قالوا:\nفالحيّ: الواضح من الكلام، و [الليّ]: الذي لا يُهْتَدى له.",
+ "az": "[لوي] (ləvi) - Lam, vav və ya hərfləri bir şeyi əyməyə dəlalət edən səhih bir kökdür. Deyilir: لوَى يدَه يَلويها (ləvə yadəhü yəluvihə) — əlini əydi, bükdü. Və لَوَى برأسِه (ləvə bi-rəsihi): başını əydi. Və اللَّوِيُّ (əl-ləviyy): otlardan qurumuş olan şeydir, ləviyy adlanmışdır, çünki quruduqda bükülür və əyilir. Və اللَّواء (əl-livə) məlumdur, ona görə livə adlanmışdır ki, nizənin üzərinə bükülür. Və اللَّوِيَّة (əl-ləviyyə): hazır olmayanlar üçün ehtiyatda saxlanılan azuqədir, sanki onlardan başqasına tərəf yönəldilmişdir. Və أَلْوَى بالشَّيء (əlvə bi-ş-şey’i): əli ilə və ya bu kimi şeylə işarə etdi. Və أْلْوَى بالشَّيء (əlvə bi-ş-şey’i): onu aparıb yox etdi, sanki onu özünə tərəf meyl etdirdi. Və الألْوَى (əl-əlvə): tək qalaraq camaatdan uzaq gəzən kişi, həmişə belə olar, sanki oturanlardan tənha qalmağa meyl etmişdir. Və اللَّيَّاءُ (əl-ləyyə-u): sudan uzaq olan yer, bu adla adlanmışdır, çünki sanki su yolundan kənara meyl etmişdir. Və لواه دَيْنَه يَلوِيه لَيًّا ولَيَّانًا (ləvəhü dəynəhü yəluvihi ləyyən və ləyyənan); bu da bu fəsildəndir. O demişdir: تُطِيلِينَ لَيَّانِي وأنت مَلِيَّةٌ … وأُحْسِنُ يا ذاتَ الوشاح التّقاضيا (١) (Sən borcumu ödəməyi uzadırsan, halbuki sən imkanlısan... mən isə yaxşı tələb edirəm, ey bəzəkli qadın). Və لِوَى الرَّمْل (livə əl-raml): qumun qurtaracağı. Və ألوَى القومُ (əlvə əl-qavm): qumun qurtaracağına çatdılar. Ona görə belə adlanmışdır ki, külək onu istədiyi kimi əyir. Deyirlər: * أكثرتَ من الحيِّ واللّيّ (2). Dedilər: Əl-həyy: danışıqda aydın olan, [əl-liyy] isə yolu tapılmayan şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

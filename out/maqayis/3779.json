@@ -1,0 +1,17 @@
+{
+ "i": 3779,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 290,
+  "page_to": 290
+ },
+ "ar": "الميم والياء والنون كلمةٌ واحدة، هي المَيْن: الكَذِب. ومانَ يَمِين. قال:\nوزعمتَ أنَّكَ قد قَتَلْ … تَ سَرَاتَنا كذِباً ومَيْنا (٣)",
+ "az": "[مين] (mim, ya və nun) — tək bir kəlmədir, o da المَيْن (əl-mayn): yalandır. ومانَ يَمِين (mana yaminu). Şair demişdir: ووزعمتَ أنَّكَ قد قَتَلْ … تَ سَرَاتَنا كذِباً ومَيْنا (٣) (Sən iddia etdin ki, başçılarımızı yalan və iftira ilə öldürmüsən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

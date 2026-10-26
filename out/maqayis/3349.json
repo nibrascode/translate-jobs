@@ -1,0 +1,17 @@
+{
+ "i": 3349,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 110,
+  "page_to": 110
+ },
+ "ar": "القاف والعين والشين أُصَيلٌ يدلُّ على انحناءِ في شَيء.\nيقال قَعشْتُ رأسَ الخشبة كَيمَا تُعطَف إليك (*). وقَعَشت الشّيءَ: جمعتُه. وهو ذلك القياس، لأنَّك، تَعطِفُ بعضَه على بعض. وتَقَعْوَشَ الرّجلُ، إذا انحنَى.\nوكذلك الجِذع. والقُعُوشُ: مراكب النساء، الواحد قَعْشٌ.",
+ "az": "[قعش] (qə-ə-ş): Qaf, eyn və şin bir şeydə olan əyiliyə dəlalət edən kiçik bir əsasdır. Deyilir: «قعشْتُ رأسَ الخشبة كَيمَا تُعطَف إليك» (*): Taxtanın başını əydim ki, sənin tərəfinə tərəf bükülsün. Və «قعَشت الشّيءَ» (qəştü əl-şeyə): mən onu topladım. Bu da həmin qisadandır, çünki sən onun bir hissəsini digər hissəsinə tərəf bükürsən. Və «تَقَعْوَشَ الرّجلُ» (təqəvəşə ər-racülü) — kişi belini büküb əyildikdə deyilir. Həmçinin kötük də belə olur. Və «القُعُوشُ» (əl-ququş): qadınların minikləri (həvdəcləri), təkiri «قَعْشٌ» (qəş) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

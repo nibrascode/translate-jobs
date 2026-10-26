@@ -1,0 +1,17 @@
+{
+ "i": 3857,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مزق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 318,
+  "page_to": 318
+ },
+ "ar": "الميم والزاء والقاف أصلٌ صحيح يدلُّ على تخرُّقٍ في شَيء ومَزَقه يَمْزِقُه، ومزَّقَه يمزِّقه. والمِزَق: قطاع الثّوب الممزوق. وناقةٌ مِزَاقٌ:\nسريعةٌ جدًّا يكاد يتمزَّق عنها جِلدُها. ومَزَق الطَّائرُ بذَرْقِهِ: رمى به. ومزَّقت القومَ: فرّقتهم فتمزَّقُوا.",
+ "az": "«مزق» (mazaqa) — mim, zay və qaf hərflərindən ibarət səhih bir kök olub bir şeyin cırılmasına dəlalət edir. مَزَقَهُ يَمْزِقُهُ (mazaqahu yamziquhu) və مَزَّقَهُ يُمَزِّقُهُ (marraqahu yumazziquhu). اَلْمِزَقُ (al-mizaqu): cırılmış paltar parşaları. نَاقَةٌ مِزَاقٌ (naqatun mizaqun): dərisi üstündən cırılacaq qədər çox sürətli dəvə. مَزَقَ الطَّائِرُ بِذَرْقِهِ (mazaqa aṭ-ṭa'iru bi-żarqihi): quş peyvəndini/nəcisini atdı. مَزَّقْتُ القَوْمَ فَتَمَزَّقُوا (marraqtu al-qawma fatamarraqu): qövmü dağıtdım, onlar da dağılışdılar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

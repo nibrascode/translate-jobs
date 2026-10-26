@@ -1,0 +1,17 @@
+{
+ "i": 3149,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فظع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 511,
+  "page_to": 511
+ },
+ "ar": "الفاء والظاء والعين كلمةٌ واحدة. أفْظَع الأمرُ وفَظُع: اشتدَّ.\nوهو مُفْظِعٌ وفظيع. واللّه أعلم.",
+ "az": "[فظع] (F-Z-Ə) Fə, za və ayn hərfləri tək bir kəlmədir. «أفْظَع الأمرُ وفَظُع» (iş şiddətləndi və ağırlaşdı). O, «مُفْظِعٌ» (ağır) və «فظيع» (dəhşətli) olur. Allah daha yaxşı bilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

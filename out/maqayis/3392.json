@@ -1,0 +1,17 @@
+{
+ "i": 3392,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كلح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 134,
+  "page_to": 135
+ },
+ "ar": "الكاف واللام والحاء أصلٌ يدلُّ على عُبوس وشَتامةٍ في الوجه. من ذلك الكُلوح، وهو العبوس. يقال كَلَح الرَّجُل، [و] دهرٌ كالِحٌ.\nقال اللّه تعالى: ﴿تَلْفَحُ وُجُوهَهُمُ اَلنّارُ وَهُمْ فِيها كالِحُونَ﴾. وربما قالوا للسَّنَة المُجْدِبة: كَلَاحِ. وما أقْبَح كَلَحَته، أي إذا كلَحَ فَقُبح فُمه وما حوالَيه.",
+ "az": "[كلح] (Kaf, lam və ha) — üzdəki turşumaya və eybəcərliyə dəlalət edən bir əsasdır. Bunlardan biri üz turşutmaq mənasını verən «الكُلوح»dür. Deyilir: «كَلَح الرَّجُل» (kişi qaşqabağını tökdü), [və] «دهر كالِحٌ» (qəmli, sərt zaman).\nUca Allah buyurmuşdur: ﴿تَلْفَحُ وُجُوهَهُمُ اَلنّارُ وَهُمْ فِيها كالِحُونَ﴾ (mənaca tərcümə: Od onların üzlərini yandırar və onlar orada (üzləri turşumuş halda) qaşqabaqlı olarlar). Bəzən qıtlıq ilinə «كَلاَحِ» deyirlər. Və «ما أقْبَح كَلَحَته» — o, sifətini turşutduğu və ağzı ilə ətrafı çirkin göründüyü zaman nə qədər də çirkindir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:33.629Z"
+}

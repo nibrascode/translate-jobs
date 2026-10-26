@@ -1,0 +1,17 @@
+{
+ "i": 3446,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كاذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 152,
+  "page_to": 152
+ },
+ "ar": "الكاف والألف والذال كلمة، وهي الكَاذَة: لحمُ أعالى الفَخِذين",
+ "az": "[كاذ] (Kaf, əlif və zal) hərf bir kəlmədir, o da الكَاذَة (əl-kazə) — budun yuxarı hissəsinin ətidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

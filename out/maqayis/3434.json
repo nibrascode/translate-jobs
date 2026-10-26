@@ -1,0 +1,17 @@
+{
+ "i": 3434,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كون",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 148,
+  "page_to": 148
+ },
+ "ar": "الكاف والواو والنون أصلٌ يدلُّ على الإخبار عن حدوثِ شيء، إمَّا في زمانٍ ماضٍ أو زمان راهن. يقولون: كان الشيءُ يكونُ كَونا، إذا وَقَعَ وحضر. قال اللّه تعالى: ﴿وَإِنْ كانَ ذُو عُسْرَةٍ﴾، أي حَضَر وجاء.\nويقولون: قد كان الشِّتاءُ، أي جاء وَحَضَر. وأمَّا الماضي فقولنا: كان زيدٌ أميراً، يريد أنَّ ذلك كان في زمان سالف. وقال قوم: المكانُ اشتقاقه مِنْ كَانَ يَكُونُ، فلمّا كثُر * تُوُهِّمت الميمُ أصليّةً فقيل تمكّن، كما قالوا من المِسكين تَمَسْكَنَ.\nوفي الباب كلمةٌ لعلَّها أن تكون من الكلام الذي دَرَج بدُروج مَنْ عَلِمه.\nيقولون: كُنْت على فلان أَكُونُ عليه، وذلك إذا كَفَلت به. واكتَنْت أيضاً اكتِيَاناً. وهي غَرِيبة.",
+ "az": "[كون] Kaf, vau və nun keçmiş və ya indiki zamanda bir şeyin baş verməsi haqqında xəbər verməyə dəlalət edən bir əsasdır. Deyirlər: كان الشيءُ يكونُ كَونا (كان الشيءُ يكونُ كَوْناً), baş verdiyi və gəldiyi zaman. Uca Allah buyurdu: ﴿وَإِنْ كانَ ذُو عُسْرَةٍ﴾ (Mənaca tərcümə: «Əgər çətinlik içində olan biri varsa» / yəni gəlib çatdı).\nVə deyirlər: قد كان الشِّتاءُ (qəddə kanəş-şitəu), yəni qış gəldi və yetişdi. Keçmiş zamana gəldikdə isə bizim كان زيدٌ أميراً (kənə zeydun əmirən) sözümüzdür, yəni bunun keçmiş zamanda olduğunu bildirir. Bir qrup adam demişdir: المكان (əl-mekan) sözü كان يَكُونُ (kənə yəkuqu) sözündən törəmişdir, mim hərfi çox işlədildiyindən əsl hərf zənn edilmişdir və تمكّن (təməkkənə) deyilmişdir, necə ki Miskindən (المسكين) تمَسْكَنَ (təməskənə) demişlər.\nBu fəsildə bəlkə də onu bilənlərin gedişi ilə yoxa çıxan sözlərdən biri də vardır. Deyirlər: كُنْت على فلان أَكُونُ عليه (küntü ələ fülənin əkunu əleyhi), bu, ona zamin olduğun zaman olur. Və اكتَنْت (iktəntü) həmçinin اكتِيَاناً (iktiyənən). Bu, qəribədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4238,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "النون والكاف والشين كلمةٌ تدلُّ على الأَتْىِ على الشَّيء.\nيقال: أتَوا على عُشب فنكَشُوه. ويقولون: هو بحرٌ لا يُنكَش، كما يقولون:\nلا يُنزَف",
+ "az": "[نكش] (eşmək, qazmaq) Nun, kaf və şin bir şeyin üzərinə gəlməyə (ona yetişməyə) dəlalət edən kəlmədir. Deyilir: أتَوا على عُشب فنكَشُوه (bir otlağa gəldilər və onu eşdilər). Və deyirlər: o, tükənməz bir dənizdir (بحرٌ لا يُنكَش), necə ki deyirlər: لا يُنزَف (tükənməz).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

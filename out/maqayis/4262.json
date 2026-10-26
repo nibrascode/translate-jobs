@@ -1,0 +1,17 @@
+{
+ "i": 4262,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 9,
+  "page_to": 9
+ },
+ "ar": "الهاء والسين: أُصَيلٌ يدلُّ على أصواتٍ واختلاط، كالهَسِيس. وهَسَاهِسُ الجنِّ مثل هَثَاهِثِهم. وقولهم: راعٍ هَسْهاسٌ، من باب الإبدال، مثل قَسْقاس، إذا رَعى الغَنمَ اللَّيلَ كلَّه.",
+ "az": "[هس] (هاء və sin): əsis (الهَسِيس) kimi səslərə və qarışıqlığa dəlalət edən kiçik bir kökdür. Və cinlərin həsahisi (هَسَاهِسُ الجنِّ) onların həthəhisinə (هَثَاهِثِهم) bənzər. Və onların: ra'in həshasun (راعٍ هَسْهاسٌ) demələri - qoyunları gecə boyu otarana qəsqas (قَسْقاس) deyildiyi kimi, əvəzetmə (إبدال) babındandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:23.332Z"
+}

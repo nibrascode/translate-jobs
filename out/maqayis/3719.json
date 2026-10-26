@@ -1,0 +1,17 @@
+{
+ "i": 3719,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لكم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 264,
+  "page_to": 264
+ },
+ "ar": "اللام والكاف والميم كلمة واحدةٌ، هي اللَّكْم: الضرب باليد مجموعةً. قالوا: وقياسه من الخُفِّ الملَكَّم، وهو الصَّلْب الشَّديد.",
+ "az": "[لكم] «اللام والكاف والميم كلمة واحدةٌ، هي اللَّكْم: الضرب باليد مجموعةً» (Lam, kaf və mim bir kəlmədir, o da ləkm - yumruqla vurmaqdır). قالوا: وقياسه من الخُفِّ الملَكَّم (Dedilər ki: bunun ölçüsü tikilib bərkidilmiş məstdəndir), وهو الصَّلْب الشَّديد (və o, qatı və bərk olan şeydir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:15.889Z"
+}

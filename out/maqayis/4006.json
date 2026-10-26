@@ -1,0 +1,17 @@
+{
+ "i": 4006,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نيح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 373,
+  "page_to": 374
+ },
+ "ar": "النون والياء والحاء كلمة صحيحة تدل على خَيْرٍ وخيرِ حال.\nونَيَّحه اللّه بخَيرٍ: أعطاه إيّاه. وقال الخليل: النَّيْح: اشتداد العَظْم بعد رُطوبَتِه.\nونَاح يَنِيح نَيْحا. ونَيَّح اللّهُ عِظامَه، تدعو له. وذُكِرت كلمةٌ أخرى إنْ صحَّتْ\nفهي قريبةٌ من هذا الباب، قالوا: ناحَ الغصنُ يَنيح نَيْحًا: تمايَلَ. حكاه أبو بكر عن أبى مالك (١).",
+ "az": "«نيح»: النون، الياء والحاء كلمة صحيحة تدل على خَيْر وخيرِ حال (xeyrə və xeyirli hala dəlalət edən səhih kəlmədir). ونَيَّحه اللّهُ بخَيرٍ (Allah onu xeyirlə mükafatlandırdı): أعطاه إيّاه (onu ona verdi). وقال الخليل (Xəlil demişdir): النَّيْح (sümüyün bərkiməsi): اشتداد العَظْم بعد رُطوبَتِه (nəmliyindən sonra sümüyün bərkiməsi). ونَاح يَنِيح نَيْحا (inlədi, inləyir, inilti). ونَيَّح اللّهُ عِظامَه (Allah onun sümüklərini möhkəmlەتsin -ona dua edərkən deylir)، تدعو له. وذُكِرت كلمةٌ أخرى إنْ صحَّتْ فهي قريبةٌ من هذا الباب (Və əgər səhihdirsə, bu qapıya yaxın olan başqa bir kəlmə də zikr edilmişdir)، قالوا: ناحَ الغصنُ يَنيح نَيْحًا (budaq əyildi, yelləndi): تمايَلَ. حكاه أبو بكر عن أبى مالك (١) (Bunu Əbu Bəkr Əbu Malikdən rəvayət etmişdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:36.143Z"
+}

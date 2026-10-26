@@ -1,0 +1,17 @@
+{
+ "i": 4570,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وضم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 118,
+  "page_to": 118
+ },
+ "ar": "الواو والضاد والميم: كلمة واحدة، هى الوَضَمُ: كلُّ شئٍ يُوضَع عليه اللَّحمُ من خشبٍ وحجر. وَضَمْتُ اللّحْمَ: اتَّخَذْتُ له وَضَماً. وأوضَمْتُه:\nجعلتُه على الوَضَم. ويقال: استَوْضَمْتُ الرّجُلَ، أى استضَمْتُه وجعلتُه تَحْتِى كالوَضَم. وتوضّمَ الرّجُل المرأةَ: وقَعَ عليها. والوَّضيمة: القوم يَقلُّ عددُهم، يَنزِلُون على القَوم فيُحسِنون إليهم.",
+ "az": "[وضم] (Vəzəm): الواو والصاد والميم (vav, sad və mim): üzərinə ət qoyulan taxta və daş kimi hər bir şeyə deyilən الوَضَمُ (əl-vəzəm) sözüdür. وَضَمْتُ اللّحْمَ (vəzəmtul-ləhmə): onun üçün vəzəm düzəltdim. وأوضَمْتُه (övzəmtuhu): onu vəzəmin üzərinə qoydum. Deyilir: استَوْضَمْتُ الرّجُلَ (istəvzəmtur-rəculə), yəni onu özümə vəzəm kimi qəbul etdim və altımda saxladım. Vəzəmə (توضّمَ) kişi qadını — onun üzərinə çıxdı (cima etdi). الوَّضيمة (əl-vəzիմə): azsaylı olub bir qövmün yanına enən, onların da yaxşı davranıb ehtiram göstərdiyi dəstə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

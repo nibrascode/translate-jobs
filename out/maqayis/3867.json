@@ -1,0 +1,17 @@
+{
+ "i": 3867,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مسح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 322,
+  "page_to": 323
+ },
+ "ar": "الميم والسين والحاء أصلٌ صحيح، وهو إمرارُ الشَّيءِ على الشيء بسطًا. ومَسَحْته بيدي مسحًا. ثم يستعار فيقولون: مَسَحَها: جَامَعَها.\nوالمَسِيح: الذي أحَدُ شِقَّيْ وجهِه ممسوحٌ، لا عينَ له ولا حاجبَ. ومنه سُمِّي الدَّجّال مَسيحاً، لأنه مَمسوحُ العين. والمَسيح: العَرق، وإنَّما سُمي به لأنه يُمْسَح.\nوالمَسِيح: الدِّرهم الأطلَس، كأنَّ نَقْشَه قد مُسِح. والأمْسَح: المكانُ المستوِي كأنَّه قد مُسِح. والمَسْح يكون بالسَّيف أيضاً على جهة الاستعارة. ومَسَحَ يَدَه بالسَّيف: قَطَعها.\nومن الاستعارة: مَسَحت الإبلُ يومَها: سارت. والمَسْحاء: المرأة الرَّسحاء، كأنَّها مُسِح اللحمُ عنها. وعلى فلان مَسْحةٌ من جمال، كأنَّ وجهه مُسِح بالجمال مَسْحًا. ولذلك سمِّي المسيحُ ﵇ مسيحاً، كأنَّ عليه مَسحةً من جمال، ويقولون: كأنَّ عليه مَسحةَ مَلَك. والمسائح: الذَّوائِب، واحدتها مَسِيحة، لأنّها تُمسَح بالدُّهن. فأمَّا القِسىُّ فهي المسائح، واحدتها مسيحة، لأنَّها [تُمسَح] عند التَّليين. قال:\nله مسائِحُ زُورٌ، في مَراكِضِها … لينٌ، وليس بها وهْىٌ ولا رَقَقُ (٢)\nومما شذَّ عن الباب قولهم: رجل تِمْسَحٌ: مارِدٌ خبيث. وممكن أن يكون هذا تشبيهاً بالذي يسمَّى التِّمساح.",
+ "az": "[مسح] (Məsəh) Mim, sin və ha hərfləri səhih bir kök olub, bir şeyi səthi olaraq digərinin üzərindən keçirməkdir. «Məsəhtuhu bi yedi məshən» (مَسَحْته يدي مسحًا) — onu əlimlə sığalladım (silə-silə keçdim). Sonra məcazi olaraq deyirlər: «Məsəhəha» (مَسَحَها) — onunla cinsi əlaqədə oldu. Əl-məsh (المَسِيح) — üzünün iki tərəfindən biri silinmiş, gözü və qaşı olmayan kəsdir. Dəccalın məsh edilməsi (gözünün silinmiş olması) səbəbilə «Məsih» adlandırılması da bundan götürülmüşdür. Əl-məsh — tərdir, yalnız silindiyi üçün belə adlandırılmışdır. Əl-məsh — naxışı silinmiş kimi görünən atlas dirhəmdir. Əmsəh (الأمْسَح) — elə hamar yerdir ki, sanki silinib düzəldilmişdir. Əl-məsh həmçinin məcazi olaraq qılıncla da olur. «Məsəhə yədəhu bi əs-səyf» (مَسَحَ يَدَه بالسَّيف) — əlini qılıncla kəsdi. Məcazi mənalardan biri də budur: «Məsəhəti əl-ibl yəvməha» (مَسَحَت الإبلُ يومَها) — dəvələr günlərini yol yeriməklə keçirdilər. Əl-məshaa (المَسْحاء) — ətindən məhrum edilmiş kimi arıq, ombası batıq qadındır. Filankəsin üzərində gözəllikdən bir əlamət («məshə») vardır — sanki onun üzü gözəlliklə silinib. Buna görə də İsa Məsih əleyhissalam Məsih adlandırılmışdır, sanki onun üzərində gözəllikdən bir əlamət vardır, və deyirlər: sanki onun üzərində mələk əlaməti var. Əl-məsaix (المسائح) — saç örükləridir, təkliyi məsihədir (مَسِيحة), çünki onlar yağla sığallanır. Yaylara gəldikdə isə, onlar da əl-məsaixdir, təkliyi məsihədir, çünki yumşaldılanda [onlar silinir/sığallanır]. Şair demişdir: له مسائِحُ زُورٌ، في مَراكِضِها … لينٌ، وليس بها وهْىٌ ولا رَقَقُ (2) (Onun qaçış yerlərində yumşaqlıq olan yalançı örükləri vardır, nə zəifliyi var, nə də nazikliyi). Bu babdan şaz olan (fərqli) bir söz də onların «rəcül timsəh» (رجل تِمْسَحٌ) — nadinc, xəsis, pis adam deməsidir. Ola bilər ki, bu, «timsah» adlanan məxluqa bənzətmədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

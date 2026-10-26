@@ -1,0 +1,17 @@
+{
+ "i": 3560,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 207,
+  "page_to": 207
+ },
+ "ar": "اللام والقاف أصلٌ صحيح يدلُّ على صِياح وجَلَبة. من ذلك اللَّقلَقَة: الصِّياح. وَكذلك اللَّقلاق. واللَّقلَق: اللِّسان. و\nفي الحديث: «من وُقِيَ شَرَّ لَقْلَقِه وقَبقَبِه وذبذبه فقد وُقِيَ شِرَّةَ الشَّبابِ كلَّها». ولَقَّ عينَه، إذا ضرَبَها بيده، ولعلَّ ذلك للوَقْع (٢) يُسْمَع. وأمَّا اللَّقْلَقَة فالاضطراب، وهو قريبٌ من المقلوب، كأنّه مُقَلقَل، وهو الذي لا يَقِرُّ مكانَه. قال امرؤ القيس:\n* بطرفٍ مُلَقْلَقِ (٣) *",
+ "az": "«لق» - لام və qaf səs-küyə və hay-küyə dəlalət edən səhih bir əsasdır. Bunlardan biri «اللَّقلَقَة» (əl-ləqləqə) - səsdir. Həmçinin «اللَّقلاق» (əl-ləqlaq) də belədir. Və «اللَّقْلَق» (əl-ləqləq) - dildir. Hədisdə buyurulmuşdur: «من وُقِيَ شَرَّ لَقْلَقِه وقَبقَبِه وذبذبه فقد وُقِيَ شِرَّةَ الشَّبابِ كلَّها» (Kim dilinin, qarınqululuğunun və cinsiyyət orqanının şərindən qorunarsa, gəncliyin bütün şərindən qorunmuş olar). «ولَقَّ عينَه» (və ləqqə əynəhə) - əli ilə gözünə vurdu, ola bilsin ki, bu, eşidilən zərbə səsinə (وَّقْع) görədir. Amma «اللَّقْلَقَة» (əl-ləqləqə) - sarsıntı, təlatümdür, bu da tərs çevrilmiş sözə yaxındır, sanki o, «مُقَلقَل» (müqəlsəl) kimidir, yəni öz yerində qərar tutmayandır. İmrul-Qeys demişdir: * «بطرفٍ مُلَقْلَقِ» (٣) * (Tərəddüd edən/qərar tutmayan gözlə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

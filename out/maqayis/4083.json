@@ -1,0 +1,17 @@
+{
+ "i": 4083,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 405,
+  "page_to": 405
+ },
+ "ar": "النون والخاء والشين. يقولون: نُخِشَ فهو منخوشٌ، أي هُزِلَ",
+ "az": "[نخش] (N-X-Ş) Nun, xa və şin. Deyirlər: «نُخِشَ فهو منخوشٌ» (Ona xəsarət yetirildi, o, xəsarət görmüşdür), yəni arıqladı.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

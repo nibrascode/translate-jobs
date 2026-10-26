@@ -1,0 +1,17 @@
+{
+ "i": 4259,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 8,
+  "page_to": 8
+ },
+ "ar": "الهاء والذال: أُصَيل يدلُّ على قَطْع. وهَذَّه: قَطَعه.\nوسكِّينٌ هَذُوذ. وهَذَاذَيْكَ من الهَذِّ: سُرعةِ القَطع، كأنَّه يقول: أحكِم الأمرَ واقطَعْه.",
+ "az": "[هذ] (هاء və zal): kəsməyə dəlalət edən kiçik bir kökdür. Həzzəhu (هَذَّه): onu kəsdi.\nVə sikkun həzuz (سكِّينٌ هَذُوذ) – kəsici bıçaq. Və həzazeykə min əl-həzz (هَذَاذَيْكَ من الهَذِّ): kəsmənin sürəti, sanki o deyir ki: «İşi möhkəm tut və onu kəs».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:23.332Z"
+}

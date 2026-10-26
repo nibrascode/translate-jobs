@@ -1,0 +1,17 @@
+{
+ "i": 3077,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فحو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 480,
+  "page_to": 480
+ },
+ "ar": "الفاء والحاء والحرف المعتلّ كلمةٌ واحدة. منها الفَحَا:\nأبزارُ القدر. يقال: فحِّ قِدرَك. فأمَّا فَحوَى الكلامِ فهو ما ظَهَرَ للفهم من مَطَاوِى الكلام ظهورَ رائحة الفحاء من القدر، كفَهْم الضَّرب من الأفّ.",
+ "az": "«فحو» (fə-h-v): Fə, ha və uzadılma hərfi tək bir kəlmədir. Bunlardan biri də «الفَحَا» (fəha) - qazanın ədviyyatlarıdır. Deyilir: «فحِّ قِدرَك» (qazanın ədviyyatını tök). «فَحوَى الكلامِ» (fəhvaul-kəlam) - qazanın ədviyyatının qoxusunun qazandan üzə çıxması kimi, sözün qat-qat arxasından anlama aşkar olan məna deməkdir, sanki [gizli olan] zərb-məsəli başa düşmək kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

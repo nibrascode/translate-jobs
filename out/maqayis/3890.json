@@ -1,0 +1,17 @@
+{
+ "i": 3890,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مضر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "الميم والضاد والراء أصلٌ صحيح قليلُ الفروع. فالمَضْر بناء قولِك لبن مَضِرٌ وماضِر: شديد الحُموضة. ويقال: اشتقاق مُضَرَ منه.\nوالتمضُّر: التعصُّب لِمضر. وقولهم: ذهب دَمُه خِضْرًا مِضْراً، أي باطلاً، إتْباعٌ وليسَ من الباب.",
+ "az": "«مضر» (məzər) — mim, dad və ra hərfləri az budaqlı səhih bir kökdür. Və المَضْر (əl-məzr) sözünə əsasən dediyin لبنٌ مَضِرٌ və ماضِرٌ (ləbnün məzirün və mazirün) — şiddətli turşuykən deməkdir. Deyirlər ki, Müdər (قبيلة مضر) sözünün kökü buradan götürülmüşdür. Və التَمضُّر (ət-təməzzür) — Müdər qəbiləsinə tərəfdar çıxmaqdır. Onların «ذهب دَمُه خِضْرًا مِضْراً» (zəhəbə dəmühü xidran mızran) — yəni qanı hədər (batal) getdi sözü isə təqibidir (vəznə uyğunlaşdırmadır), bu fəsildən deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4426,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هنع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 69,
+  "page_to": 69
+ },
+ "ar": "الهاء والنون والعين: كلمةٌ تدلُّ على تطامُنٍ فى شئ. فالهَنَع:\nتطامُنٌ فى العُنُق. وأكَمَةٌ هَنْعاءُ: قصيرة. وظَلِيمٌ أهنَعُ: فى عُنُقِهِ تطامُن والهَنْعَةُ: سِمَةٌ فى مُنخَفَض العُنُق. والهَنْعة: كوكب.",
+ "az": "«هنع» (hənəc): Hə, nun və eyn hərfləri bir şeydə boyun əyməyə və alçalmağa dəlalət edən bir kəlmədir. فالهَنَع (əl-hənəc) — boyunda olan alçalmadır. وأكَمَةٌ هَنْعاءُ (hənəa təpəcik) — qısa təpəcikdir. وظَلِيمٌ أهنَعُ (əhnəc dəvəquşu) — boynunda alçalma olan dəvəquşudur. والهَنْعَةُ (əl-hənəcə) — boyunun aşağı hissəsində olan nişandır. والهَنْعَة (əl-hənəc) — ulduz adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

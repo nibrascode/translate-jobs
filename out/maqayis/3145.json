@@ -1,0 +1,17 @@
+{
+ "i": 3145,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فطأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "الفاء والطاء والهمزة كلمةٌ واحدةٌ تدلُّ على تطامُنٍ. يقال للرَّجُل الأفطس: الأفْطَأ. ويقولون: فَطِئَ البعيرُ، إذا تطامَنَ ظهره خِلْقةً.",
+ "az": "[فطأ] (F-T-Ə) Fə, ta və həmzə hərfləri aşağı əyilməyə dəlalət edən tək bir kəlmədir. Basıq burunlu adama «الأفْطَأ» (əl-fətə) deyilir. Deyirlər: «فَطِئَ البعيرُ» (dəvənin beli çökdü), bu o zaman deyilir ki, onun beli xilqətən (yaradılışdan) aşağı əyilmiş olur.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3552,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 205,
+  "page_to": 205
+ },
+ "ar": "اللام والسين أُصيل يدلُّ على لحس الشَّيء. قال ابنُ الأعرابىّ:\nاللَّسُّ: اللحس. ويقال: ألَسَّتِ الأرضُ، إذا طلعَ أوّلُ نباتِها. قال: وسمِّي بذلك لأنَّ المال يَلُسُّه. ولسَّتِ الدابّةُ الخَلَا بلسانها تَلُسُّه لَسًّا. قال:\n* قد اخضَرَّ من لسِّ الغَميرِ جحافُله (١) *\nويقال لذلك النَّبات اللُّساسُ أيضاً. قال:\n* في باقِلِ الرِّمثِ وفي اللُّساسِ (٢) *",
+ "az": "«لس» - لام və sin şeyin yalanmasına (yalamağa) dəlalət edən kiçik bir əsasdır. İbn əl-Ərəbi demişdir: «اللَّسُّ» (əl-ləssü) - yalamaqdır. Deyilir: «ألَسَّتِ الأرضُ» (ələssətil-ə_rdü) - torpağın ilk bitkisi çıxdı. O demişdir: buna ona görə belə ad verilmişdir ki, dördayaqlı heyvan onu yalayıb yeyir. Və minik heyvanı dili ilə xəlanı (təzə otu) yalayaraq yedi, «تَلُسُّهُ لَسًّا» (təlüssühü ləssən). O demişdir: * «قد اخضَرَّ من لسِّ الغَميرِ جحافُله» (١) * (Qəmir otunun yalanmasından onun dodaqları yaşıllaşdı). Həmçinin həmin bitkiyə «اللُّساسُ» (əl-lüsas) da deyilir. O demişdir: * «في باقِلِ الرِّمثِ وفي اللُّساسِ» (٢) * (Rimth bitkisinin paxlasında və lüsasda).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3271,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 61,
+  "page_to": 61
+ },
+ "ar": "القاف والحاء والميم أصلٌ صحيحٌ يدلُّ على تورُّدِ الشيءِ بأدنى جفاء وإقدام. يقال: قَحَمَ في الأمور قُحُوماً: رمَى بنفسه فيها من غير دُرْبة. وقُحَمُ [الطَّرِيق (٢)]: مصاعبه. ويقال: إنَّ المَقاحِيمَ من الإبل: التي تَقْتَحِمُ الشَّوْلَ من غير إرسال. والقَحْم: البَعير يُثْنِي ويُرْبِعُ في سنةٍ واحدة، فيُقْحِم سِنًّا على سنّ.\nوقَحَّم الفَرَسُ فارسَه على وجهه، إذا رَماه. ويقولون: «إنَّ للخُصومة قُحَماً» أي إنَّها تقحِّم بصاحبها على ما لا يَهواه. والقُحْمة: السَّنة تُقحِم الأعرابَ بلادَ الرِّيف.",
+ "az": "[قحم] «قاف», «حاء» və «ميم» azacıq kobudluq və cəsarətlə bir işə girişməyə dəlalət edən səhih bir kökdür. Deyilir: قَحَمَ في الأمور قُحُوماً (təcrübəsiz olaraq işlərə özünü atdı). Qücəmü [الطَّرِيق (iki)] — yolun çətinlikləri. Deyilir ki, dəvələrdən olan «المَقاحِيم» — otlağa buraxılmadan şöul dəvələrinin üzərinə soxulanlardır. «القَحْم» — bir ildə iki və dörd dişini çıxarıb bir yaşı digərinə qatan dəvədir. Və قَحَّم الفَرَسُ فارسَه على وجهه (at minicisini üzüstə yerə atdı). Və deyirlər: «إنَّ للخُصومة قُحَماً» (həqiqətən, mübahisənin çətinlikləri vardır), yəni o, sahibini istəmədiyi şeylərə sürükləyir. «القُحْمة» — bədəvi arablarını çöl, məhsuldar torpaqların diyarlarına soxuşduran il.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:48.341Z"
+}

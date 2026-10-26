@@ -1,0 +1,17 @@
+{
+ "i": 3397,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 136,
+  "page_to": 136
+ },
+ "ar": "الكاف واللام والفاء أصلٌ صحيح يدلُّ على إيلاعٍ بالشيء وتعلُّقٍ به. من ذلك الكَلَف، تقول: قد كَلِف بالأمر يَكْلَفُ كَلَفاً. ويقولون:\n«لا يَكُنْ حُبُّكَ كَلَفًا، ولا بُغْضُكَ تَلَفًا». والكُلْفة: ما يُتَكلَّفُ من نائبةٍ أو حقٍّ. والمتكلِّف: العِرِّيض لما لا يَعنيه. قال اللّه سبحانه: ﴿قُلْ ما أَسْئَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَما أَنَا مِنَ اَلْمُتَكَلِّفِينَ﴾. ومن الباب الكَلَف: شيءٌ يعلو الوجهَ فيغيِّر بشرتَه.",
+ "az": "[كلف] Kaf, lam və fa bir əsas kök olub, bir şeyə aludə olmağa və ona bağlanmağa dəlalət edir. Bunlardan biri də «الكَلَف» (kələf - ləkə) sözüdür. Deyirsən: كَلِفَ بالأمر يَكْلَفُ كَلَفاً (bir işə bağlandı, aludə oldu). Həmçinin deyirlər: «لا يَكُنْ حُبُّكَ كَلَفًا، ولا بُغْضُكَ تَلَفًا» (Məhəbbətin aludəçilik səviyyəsində olmasın, nifrətin də məhvedici olmasın). «الكُلْفə» (küvfə) — müsibətdən və ya haqq olan bir şeydən üzərimizə düşən yük, zəhmət. «المتكلِّف» (mütəkəllif) — özünə aid olmayan işlərə qulaq asan, müdaxilə edən kəs. Uca Allah buyurmuşdur: ﴿قُلْ ما أَسْئَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَما أَنَا مِنَ اَلْمُتَكَلِّفِينَ﴾ مənaca tərcümə: «De: mən buna görə sizdən bir ödəniş istəmirəm və mən özünü təkəllüfə (əziyyətə) salanlardan deyiləm». Bu باب-dən (bölmədən) olan «الكَلَف» (kələf) — üzü örtən və dərinin rəngini dəyişən bir şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

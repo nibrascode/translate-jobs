@@ -1,0 +1,17 @@
+{
+ "i": 3503,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 175,
+  "page_to": 175
+ },
+ "ar": "الكاف والراء والتاء، ليس فيه إلاّ قولهم: عامٌ كَرِيت.",
+ "az": "[كرت] \nКаф, ra və ta hərflərində yalnız onların «عامٌ كَرِيت» (quraqlıq və məşəqqətli il) sözü vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

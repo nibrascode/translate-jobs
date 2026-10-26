@@ -1,0 +1,17 @@
+{
+ "i": 3778,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ميل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 290,
+  "page_to": 290
+ },
+ "ar": "الميم والياء واللام كلمةٌ صحيحة تدلُّ على انحرافٍ في الشيء إلى جانب منه. مال يَميل مَيْلا. فإنْ كان خِلقةً في الشَّيء فَمَيَلٌ. يقال مال يميل مَيَلا. والمَيْلاء من الرَّمل: عقدة ضخمة تعتزل وتميل ناحيةً. والمَيْلاء: الشَّجرة الكثيرة الفروع، وهي من قياس الباب. والأمْيَل من الرِّجال، يقال إنَّه الذي لا يثبت على الفرس. وإن كان كذا فلأنّه يَمِيل عَنْ سَرْجِه. ويقال الذي لا رُمْح معه. وإن كان كذا فشاذٌّ عن الباب. وجمع الأَمْيَلِ مِيل. * قال:\nغَيْرُ مِيلٍ ولا عَواوِيرَ في الهَيْ … جا ولا عُزّل ولا أكفالِ (٢)",
+ "az": "[ميل] (mim, ya və lam) — bir şeyin bir tərəfə doğru meyillənməsinə, əyilməsinə dəlalət edən səhih kəlmədir. مال يَميل مَيْلا (mala yamilu maylan). Əgər bu, şeyin xilqətində (təbiətində) varsa, فَمَيَلٌ (fəyal) adlanır. Deyilir: مال يَميل مَيَلا (mala yamilu mayalan). والمَيْلاء (əl-mayla): tərəfə çəkilən və bir kənara meyillənən böyük qum təpəsidir. والمَيْلاء (əl-mayla): budaqları çox olan ağacdır, bu da bu qapının (bölmənin) qiyasındandır. Kişilərdən olan الأَمْيَل (əl-əmyal) isə at üzərində dayana bilməyən kəsə deyilir. Əgər belədirsə, çünki o, yəhərindən yana əyilir. Həmçinin yanında nizəsi olmayan kəsə də deyildiyi bildirilir. Əgər belədirsə, bu, babın qaydasından kənara çıxan (şaz) bir haldır. الأَمْيَل (əl-əmyal)-in cəmi مِيل (mil) gəlir. * Şair demişdir: غَيْرُ مِيلٍ ولا عَواوِيرَ في الهَيْ … جا ولا عُزّل ولا أكفالِ (٢) (Onlar nə əyri kişilərdir, nə də döyüş meydanında qorxaqlar, nə silahsızlar, nə də arxayın oturanlar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

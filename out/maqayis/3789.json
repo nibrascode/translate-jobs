@@ -1,0 +1,17 @@
+{
+ "i": 3789,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "متس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 293,
+  "page_to": 293
+ },
+ "ar": "الميم والتاء والسين فيه كلمةٌ حكاها ابن دريد (٢)، هي مَتَسه يَمْتِسُه مَتْسًا: أراغَه لينتزِعَه من بيتٍ أو غيره.",
+ "az": "[متس] (mim, ta və sin) — İbn Dureydin (٢) nəql etdiyi bir kəlmə burada yer alır: مَتَسه يَمْتِسُه مَتْسًا (matasahu yamtisuhu matsən): onu evdən və ya başqa yerdən çıxarıb almaq üçün zorla dartışdı, çəkdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

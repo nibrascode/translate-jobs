@@ -1,0 +1,17 @@
+{
+ "i": 3452,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كبث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 153,
+  "page_to": 153
+ },
+ "ar": "الكاف والباء والثاء كلمةٌ، وهي الكَبَاث، يقال: إنّه حَمْل الأَراك. وحَكَوْا عن الشَّيباني: كَبِثَ اللَّحمُ: تغيَّرَ وأرْوَحَ. قال:\nأصبَحَ عمّارٌ نَشِيطًا أبِثَا … يأكُلُ لحمًا بائتًا قد كَبِثَا (١)",
+ "az": "[كبث] (Kaf, ba və sə) — bir kəlmədir, o da الكَبَاث (əl-kəbas) — araq ağacının meyvəsidir. Şeybanidən nəql etmişlər: كَبِثَ اللَّحمُ (kəbitəl-ləhmu) — ət dəyişdi və üfunət iqisi verdi. [Şeir] أصبَحَ عمّارٌ نَشِيطًا أبِثَا … يأكُلُ لحمًا بائتًا قد كَبِثَا (١) (mənası: Əmmar aktiv və çevik səhəradı... artıq qalmış, xarab olub qoxumuş əti yeyir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

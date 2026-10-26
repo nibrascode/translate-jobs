@@ -1,0 +1,17 @@
+{
+ "i": 3026,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فوص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 460,
+  "page_to": 460
+ },
+ "ar": "الفاء والواو والصاد كلمةٌ تدلُّ على خُلوصٍ أو خَلَاصٍ من شئ. يقال: قَبَضت على ذَنَبِ الضّبِّ فأفاصَ من يدى، أى خلَّصَ ذنبَه.\nوالمَفَاوَصَة فى الحديث: الإبانة. وما يُفِيص بها لسانُه، أى يُبين.",
+ "az": "«فوص» (fowəç): Fə, vau və sad hərfləri bir şeydən xalis olmağa və ya xilas olmağa dəlalət edən sözdür. Deyilir: «قَبَضت على ذَنَبِ الضّبِّ فأفاصَ من يدى» (qabadtü alə zənəbi əl-dubbə fə-əfasə min yədi) — kərtənkələnin quyruğundan tutdum, o da əlimdən qurtulub xilas oldu.\nHədisdəki «المَفَاوَصَة» (məfawasa) — açıq-aydın izah etmək deməkdir. Və «وما يُفِيص بها لسانُه» (və ma yüfisu bihə lisanüh) — yəni dilinin açıq-aydın bəyan etdiyi şey.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

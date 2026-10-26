@@ -1,0 +1,17 @@
+{
+ "i": 3467,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كتن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 158,
+  "page_to": 158
+ },
+ "ar": "الكاف والتاء والنون أصلٌ يدلُّ على لطخٍ ودَرَن. يقال الكَتَن: لَطخ الدُّخانِ البيتَ. ويقال: كَتِنَتْ جَحافِل الدّابة: اسوَدَّت من أكل الدَّرِين. وكَتن السِّقاءُ، إذا لَصِق به اللَّبَنُ من خارج فَغلظ. والكَتَّان معروف، وزعموا أنَّ نُونَه أصليّة. وَسَمَّاه الأعشى الكَتَن (١). قال ابن دريد: هو عربىٌّ * معروف، وإِنَّما سمي بذلك لأنه يلقَى بعضُه على بعضٍ (٢) حَتَّى يَكْتِن.",
+ "az": "[كتن] (Kətənə). Kaf, ta və nun (الكاف والتّاء والنون) ləkə və kirə dəlalət edən bir kökdür. Deyilir: əl-kətən (الكَتَن) – evin üzərinə tüstünün çökdüyü ləkə. كَتِنَتْ جَحافِل الدّابة (heyvanın dodaqları qareləndi) – qurumuş otları yeməkdən qaraldı, deyilir. كَتن السِّقاءُ (tuluq qatılaşdı) – süd kənardan ona yapışıb qalınlaşdıqda. Əl-kəttan (الكَتَّان) məlumdur, güman edirlər ki, onun nun hərfi əslidir. Əşə-Şair onu əl-kətən (الكَتَن) adlandırmışdır (١). İbn Dürid demişdir: O, məlum ərəb sözüdür (٢), yalnız ona görə belə adlandırılmışdır ki, bəzisi digərinin üzərinə atılır ki, kətən etsin (qatılaşsın).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:41:04.625Z"
+}

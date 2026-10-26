@@ -1,0 +1,17 @@
+{
+ "i": 4600,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وغل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 127,
+  "page_to": 127
+ },
+ "ar": "الواو والغين واللام: كلمةٌ تدلُّ على تقحُّمٍ فى سَيرٍ وما أشْبَه ذلك. وأوْغَلَ القَوْمُ: أمْعَنوا فى مَسيرهم ومن التَّقَحُّم الوَاغِلُ: الذى يَدْخُلُ على القوم يَشْرَبونَ ولم يُدْعَ؛ وذلك الشَّراب الوَغْل. قال:\nفاليوم أَشْرَبْ غيرَ مُستَحْقِبٍ … إثماً من اللّهِ ولا وَاغِلِ (١)\nويقال: وَغَلَ يَغِلُ، إذا تَوَارَى فى الشَّجَر. ويقال: الوَغْل: الرجلُ لا يَصلُح لشئٍ، كأنَّه خَفِىَ. والوَغْل: السيِّىُّ الغِذاء.",
+ "az": "[وغل] الواو والغين واللام: gedişdə və buna bənzər şeylərdə irəli atılmağa dəlalət edən sözdür. وأوْغَلَ القَوْمُ (Qövm irəlilədi) – yəni səfərlərində dərinə getdilər. İrəli atılmağın bir növü də الوَاغِلُ (əl-vağil): dəvət olunmadığı halda içki içən qövmün yanına daxil olan kimsədir; həmin içki də الوَغْل (əl-vəğl) adlanır. Demişdir: Fəyəvun əşrəbu ğayra mustəhqibin ... isman minallahi və la vağilin (١). Və deyirlər: وَغَلَ يَغِلُ (gizləndi) – ağaclar arasında gizləndiyi zaman. Və deyirlər: الوَغْل (əl-vəğl): heç bir işə yaramayan, sanki gizli qalan kimsədir. Və الوَغْل (əl-vəğl): qidası pis olan kimsədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

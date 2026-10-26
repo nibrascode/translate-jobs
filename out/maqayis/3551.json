@@ -1,0 +1,17 @@
+{
+ "i": 3551,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 204,
+  "page_to": 205
+ },
+ "ar": "اللام والزاء أصلٌ صحيح يدلُّ على ملازمة ومُلاصَقة. يقال:\nلُزَّ به، إذا لَصِق به لَزًّا ولَزَازاً. ولازَزْتُه: لاصقته. ورجلٌ لِزَازُ خَصمٍ، إذا كان يُلازُّه ولا يَكِعُّ عنه. والملزَّزُ: المجتمِعُ الْخَلْق. واللَّزّ: الطَّعن. وهو من قياس الباب. واللَّزائز: ما اجتمع من اللَّحم في الزَّور مما يَلِي المِلاط. قال:\n* ذى مِرفقٍ بانَ عن اللَّزَائزِ (٣) *\nومن الباب كَزٌّ لَزٌّ، ويجوز أن يكون لَزٌّ إتباعاً.",
+ "az": "«لز» - لام və zay birləşməyə və yapışmağa dəlalət edən səhih bir əsasdır. Deyilir: «لُزَّ به» (lüzzə bihə) - ona yapışdı, «لَزًّا ولَزَازاً» (ləzzən və ləzazan) yapışdı. «لازَزْتُه» (lazəztühü) - ona yapışdım. «رجل لِزَازُ خَصمٍ» (rəcülün lizazu xəsmim) - düşmənə yapışan və ondan qorxmayan kişidir. «المُلزَّز» (əl-müləzzəz) - bədəni yığcam olan. «اللَّزّ» (əl-ləzz) - sancmaq, vurmaq. Bu da bu babın qiyasındandır. «اللَّزائز» (əl-ləzaiz) - döşdə milata yaxın yerdə yığılmış ətdir. O demişdir: * «ذى مِرفقٍ بانَ عن اللَّزَائزِ» (٣) * (Dirsəyi ləzaizdən aralanmış). Bu fəsildəndir «كَزٌّ لَزٌّ» (kəzzün ləzzün), həm də mümkündür ki, «لَزٌّ» (ləzzün) sözü təbii uyğunluq (itba) olsun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

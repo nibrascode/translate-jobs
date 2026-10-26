@@ -1,0 +1,17 @@
+{
+ "i": 4225,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 470,
+  "page_to": 471
+ },
+ "ar": "النون والقاف والضاد أصلٌ صحيح يدلُّ على نَكْثِ شَيءِ،\nوربما دلَّ على معنًى من المعانى على جنسٍ من الصَّوت. ونَقَضْتُ الحبلَ والبِناء.\nوالنَّقيض: المنقوض، ولذلك يقال للبعير المهزول نِقْضٌ، كأنَّ الأسفارَ نَقَضَتْه؛ وجمعه أنقاض. والمنَاقَضَة في الشِّعر من هذا، كَأنَّه يريد أن ينقُضَ ما أَرَّبَهُ صاحبُه.\nونَقْضُ العَهدِ منه أيضا. والنِّقْض: مُنْتَقَضُ الكمأة من الأرض (١) إذا أردتَ أن تُخرِجَها. نَقضْتُها نقضاً. وانتقضت القَرْحة، كأنَّها كانت تلاءمت ثم انتقَضَت.\nأمَّا الصَّوت فيقال لصوتِ المَفاصل نَقِيضها؛ وهو قريبٌ من الأوّل، لأنَّها كأنّها تَنْتَقِض فيسمع لها صوتٌ عند ذلك. وأنقَضَت الدَّجاجة: صوَّتت.\nوالإنقاض: زجر القَعود. قال:\nربَّ عجوزٍ من أُناسٍ شَهْبَرَهْ (٢) … عَلَّمْتُها الإنقاضَ بَعْدَ القَرْقَرَهْ (٣)\nيقول: سَرَقتُ بعيرَها التى كانت تُقرقِر به وتركتُ لها بَكْراً تُنْقِضُ به.",
+ "az": "[نقض] النون والقاف والضاد (n, q, d) hərfləri düzgün bir əsas olub bir şeyi söküb-dağıtmağı (nəkt etməyi) bildirir, bəzən də hər hansı bir səs növünə aid mənaya dəlalət edir. «نَقَضْتُ الحبلَ والبِناءَ» (ip və tikili sökdüm). «النَّقيض» – sökülmüş şeydir, məhz buna görə də arıqlamış dəvəyə «نِقْضٌ» (sökülmüş, taqətdən düşmüş) deyilir, elə bil səfərlər onu əldən salmışdır; cəmi «أنقاض» (anqad) gəlir. Şeirdəki «المَنَاقَضَة» (deyişmə, tənqid) dəbundəndir, guya o, dostunun qurduğu şeyi pozmaq istəyir. Əhdin pozulması da bundandır. «النِّقْض» – çıxarmaq istədiyin zaman yerdən qazılıb çıxarılan göbələkdir; «نقضْتُها نقضاً» (onu çıxartdım). Yara yenidən qopdu: «انتقضت القَرْحة», guya sağalmışkən yenə açıldı. Səsə gəldikdə, oynaqların səsinə «نَقِيضها» (çatırtısı) deyilir; bu, birinciyə yaxındır, çünki onlar sanki sökülür və bu zaman səs eşidilir. «أنقَضَت الدَّجاجة» – toyuq səs çıxartdı. «الإنقاض» – dəvəni (قعود) hədələyib səsləmək. Şair demişdir: «ربَّ عجوزٍ من أُناسٍ شَهْبَرَهْ … عَلَّمْتُها الإنقاضَ بَعْدَ القَرْقَرَهْ» (Mən elə bir qövmə mənsub qoca arvadı öyrətdim ki... dəvəni gurultulu səslə səsləməkdən sonra inquz səsi ilə idarə etməyi öyrətdim). Deyir ki, mən onun gurultu səsi çıxaran dəvəsini oğurladım və ona inquz səsi çıxaran balaca dəvə (bəkr) buraxdım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:43.035Z"
+}

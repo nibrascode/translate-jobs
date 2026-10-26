@@ -1,0 +1,17 @@
+{
+ "i": 3277,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قدف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 65,
+  "page_to": 65
+ },
+ "ar": "القاف والدال والفاء. يقولون: القَدْف: غَرفُ الماء من الحوض. وقيل القُدَاف: جَرَّةٌ من فَخَّار.",
+ "az": "«قدف» — قاف، دال və fa. Deyirlər: «القَدْف» (əl-qədf) — hovuzdan su götürməkdir. Deyilmişdir ki, «القُدَاف» (əl-qudaf) — saxsı küpdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:34:11.297Z"
+}

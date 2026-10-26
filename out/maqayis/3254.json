@@ -1,0 +1,17 @@
+{
+ "i": 3254,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قتد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 54,
+  "page_to": 55
+ },
+ "ar": "القاف والتاء والدال أصلٌ صحيح، وَهو كلمتان: القَتَد:\nخشَبُ الرَّحْل، وجمعه أقتادٌ وقُتود. وَالكلمة لأخرى القَتَاد: ضربٌ من العِضاهِ،\nليس فيه غير هذا. ويقولون: قُتَائِد (١): مكان.",
+ "az": "[قتد] (qət-əd): Qaf, taya və dal – səhih bir kökdür, iki kəlmədir: [القَتَد] (əl-qətəd) – yük yəhərinin taxtasıdır, cəmi [أقتاد] (əqtəd) və [قُتود] (qudud) gəlir. Digər kəlmə isə: [القَتَاد] (əl-qətəd) – tikanlı ağacların bir növüdür, bundan başqa heç nə yoxdur. Deyirlər: [قُتَائِد] (qutəid) (١) – bir yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:30.096Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3522,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كشد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 184,
+  "page_to": 184
+ },
+ "ar": "الكاف والشين والدال. يقال الكَشْد: ضرب من الحَلْب (١). واللّه أعلمُ بالصَّواب.",
+ "az": "[كشد] (kə-şə-də). Kaf, şin və dal hərfləri. Deyilir: «الكَشْد» (əl-kəşd): bir növ sağım (¹) (süddür). Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

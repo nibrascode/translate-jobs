@@ -1,0 +1,17 @@
+{
+ "i": 4467,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وثر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 85,
+  "page_to": 85
+ },
+ "ar": "الواو والثاء والراء: كلمةٌ تدلُّ على وَطَاءةٍ فى شَيء. وفِراشٌ وَثْرٌ ووَثِيرٌ: وطِىٌّ. والمَيَاثِر: ثيابٌ حمرٌ تكون فى مراكب الأعاجم. وقولهم:\nوثَرَ الجملُ النَّاقةَ: ضرَبَها، كأنَّها له فراشٌ وثير.",
+ "az": "[وثر] (və-sa-ra): Bir şeydə yumşaqlığa dəlalət edən sözdür. «فِرَشٌ وَثْرٌ ووَثِيرٌ» (vəsr və vəsir döşək) — yumşaq döşək. «المَيَاثِر» (məyasir) — əcəmlərin minik vasitələrində olan qırmızı örtüklər. Onların sözü: «وثَرَ الجملُ النَّاقةَ» (dəvə dişi dəvəni döydü) — onu döydü, sanki o dişi dəvə onun üçün yumşaq bir döşək idi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

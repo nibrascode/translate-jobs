@@ -1,0 +1,17 @@
+{
+ "i": 3618,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لبز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 229,
+  "page_to": 229
+ },
+ "ar": "اللام والباء والزاء كلمتان متقاربتا القياس. فاللبْز: ضربُ النَّاقة بجميع خُفِّها. قال:\n* خبطاً بأخفافٍ ثِقالِ اللَّبْزِ (٣) *\nواللَّبْز: الأكل الجيِّد.",
+ "az": "«لبز» (Lam, ba və zə) qiyasda bir-birinə yaxın iki sözdür. اللَّبْز (əl-ləbz): dəvənin bütün dırnağı ilə vurmasıdır. (Şair) demişdir: * خبطاً بأخفافٍ ثِقالِ اللَّبْزِ * (Ağır zərbəli dırnaqlarla vuraraq). Və اللَّبْز (əl-ləbz): yaxşı yeməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

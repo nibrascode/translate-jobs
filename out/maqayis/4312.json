@@ -1,0 +1,17 @@
+{
+ "i": 4312,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 29,
+  "page_to": 29
+ },
+ "ar": "الهاء والباء والشين: كلمةٌ واحدة. يقال هو يَتهَبَّش، أىْ بتكسَّب. والهُبَاشَة: الكَسْب. قال:\nلولا هُباشاتٌ من التَّهبِيش … لِصِبْيَةٍ كأفْرُخ العُشوشِ (٥)\nوهو يتهَبَّش لأهلِه.",
+ "az": "[هبş] (hə-bə-şə): Hə, ba və şin: tək kəlmədir. Deyilir ki, o, يَتهَبَّş (yətəhəbbəş), yəni qazanc əldə etməyə çalışır. الهُبَاشَة (əl-hubaşəh): qazancdır. Şair demişdir:\nلولا هُباشاتٌ من التَّهبِيش … لِصِبْيَةٍ كأفْرُخ العُشوشِ (٥)\n(Mənası: Yuvadakı cücələr kimi balalar üçün qazancqırıntıları olmasaydı…). O, ailəsi üçün qazanc dalısındadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

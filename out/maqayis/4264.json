@@ -1,0 +1,17 @@
+{
+ "i": 4264,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 10,
+  "page_to": 10
+ },
+ "ar": "الهاء والصاد كلمةٌ تدلُّ على غَمْز الشَّئ. يقولون للذِّئب:\nهُصْهُص (١) وهَصْهَصْتُ (٢) الشئَ: غَمَزته. ويقولون، وما أدرى كيف هو: إنَّ الهاصَّةَ (٣): عَينُ الفِيل، وهو عندى مما يُسمَع.",
+ "az": "[هص] (هاء və sad): bir şeyi sıxmağa (əzməyə) dəlalət edən bir kəlmədir. Canavara deyirlər: hushuş (هُصْهُص) və həshəştu əl-şey'ə (وهَصْهَصْتُ الشئَ): şeyi sıxdım. Və deyirlər – bunun necə olduğunu bilmirəm – ki, əl-hascah (الهاصَّة): filin gözüdür, bu da mənim yanımda eşidilən (qəbul olunan) şeylərdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:23.333Z"
+}

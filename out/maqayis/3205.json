@@ -1,0 +1,17 @@
+{
+ "i": 3205,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قنح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 31,
+  "page_to": 31
+ },
+ "ar": "القاف والنون والحاء ليس هو عندنا أصلاً. على أنَّهم يقولون:\nقَنَحَ الشَّارِبُ، إذا رَوِىَ فرَفَعَ رأسَه رِيًّا. وهذا من قَمَحَ من باب الإبدال، وقد مرَّ ذِكرُه.\nومن طرائف ابن دُريد (١): قَنَحْتُ العُود قَنْحاً: عطفتُه. قال: والقُنَّاح:\nالمِحجَن بلغة أهل اليمن.",
+ "az": "«قنح» — قاف، نun və ha hərfləri bizə görə əsl kök deyil. Lakin onlar deyirlər: «قَنَحَ الشَّارِبُ» (qanəhəş-şarib) — su içən adam doyub başını qaldırdığı zaman deyilir. Bu, əvəzetmə (ibdal) qolundan olan «قَمَحَ» sözündəndir və onun zikrindən keçmişdir.\nİbn Düridin qəribə lüğətlərindən biridir: «قَنَحْتُ العُود قَنْحاً» (qanəhtül-uda qanhən) — oduncağı əydim. O demişdir: «القُنَّاح» (əl-qunnah) — Yəmən əhlinin dilində əyri əasa (mıxqarmaq) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:04.973Z"
+}

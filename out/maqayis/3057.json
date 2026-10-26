@@ -1,0 +1,17 @@
+{
+ "i": 3057,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فتق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 471,
+  "page_to": 471
+ },
+ "ar": "الفاء والتاء والقاف أصلٌ صحيح يدلُّ على فتحٍ فى شئ.\nمن ذلك: فتَقت الشّئ فتْقاً. والفَتْق: شقُّ عصا الجماعة. والفَتْق: الصُّبح. وأعوام الفَتَق: أعوام الخِصْب. قال:\nلم تَرْجُ رِسْلاً بعد أعوامِ الفَتَق (١)\nويقال: أفتَقَ القمر، إذا صادَفَ فَتقاً من سَحابٍ وطَلَع منه. وأفْتَق القومُ، إذا انفتَقَ عنهم الغَيم.\nقال الأصمعىّ: جملٌ فتيق، إذا تفتَّقَ سِمَنا. ويقال: فَتِقَ يَفْتَق فَتَقاً.\nوالفَيْتق: النَّجَّار، فى قول الأعشى:\nفى الباب فَيْتَقُ (٢)",
+ "az": "[فتق] (f-t-q): Fə, ta və qaf hərflərindən ibarət səhih bir kök olub, bir şeydə açılışa dəlalət edir. Bunlardan biri: «فتَقت الشّئ فتْقاً» (bir şeyi yardın/açdın). «الفَتْق» (fətg) — cəmiyyətin birliyini (əsanı) parçalamaqdır. «الفَتْق» (fətg) — sübh açılmasıdır. «أعوام الفَتَق» (fətəq illəri) — bolluq illəridir. Şair demişdir: «لم تَرْجُ رِسْلاً بعد أعوامِ الفَتَق» (1) (Bolluq illərindən sonra süd ümid etmədi). Deyilir: «أفتَقَ القمر» (ay buluddakı yarıqdan çıxdı), ay buluddakı bir yarığa rast gəlib ondan parıldadıqda. «أفْتَق القومُ» (qövmün üzərindən bulud dağıldı), duman onların üstündən açılanda. Əsməi demişdir: «جملٌ فتيق» (fətiq dəvə) — kökəlib əti açılmış dəvədir. Həmçinin deyilir: «فَتِقَ يَفْتَق فَتَقاً». «الفَيْتق» (fəytəq) — dülgər deməkdir, Əşanın bu sözündə: «فى الباب فَيْتَقُ» (2) (Qapıda dülgər var).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

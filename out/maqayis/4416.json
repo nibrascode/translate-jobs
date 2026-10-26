@@ -1,0 +1,17 @@
+{
+ "i": 4416,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "همش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 66,
+  "page_to": 66
+ },
+ "ar": "الهاء والميم والشين: أصلٌ يدلُّ على سرعةِ عملٍ أو كلام.\nيقولون: الهَمِش (٤): السّريع العَمَلِ بأصابِعِه. وامرأةٌ هَمَشَى الحديثِ، إذا تسرَّعَتْ فيه. قال:\nأيَّام زينب لا خفيفٌ حِلْمُها … هَمَشَى الحديثِ ولا رَوَادٌ سَلْفَعُ\nوالهَمْش: حلبٌ بسَرعة. والهَمش: الصَّوتِ والجَلَبة.",
+ "az": "«همش» (həməş): Hə, mim və şin hərfləri işdə və ya sözdə sürətə dəlalət edən bir əsldir. Deyirlər ki: الهَمِش (əl-həmiç) — barmaqları ilə işi sürətli görən kəsdir. وامرأةٌ هَمَشَى الحديثِ (həməşi-əl-hədis qadın) — söhbətdə tələsən qadındır. Şair demişdir: أيَّام زينب لا خفيفٌ حِلْمُها … هَمَشَى الحديثِ ولا رَوَادٌ سَلْفَعُ (Zeynəbin günləri; nə onun təmkinli ağlı yüngüldür, nə həmişə danışan həmişə danışandır, nə də həyasız vəzir). والهَمْش (əl-həmq) — sürətlə sağım etməkdir. والهَمش (əl-həmq) — səs və hay-küydür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

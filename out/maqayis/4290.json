@@ -1,0 +1,17 @@
+{
+ "i": 4290,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 23,
+  "page_to": 23
+ },
+ "ar": "الهاء والياء والجيم أصلان صحيحان: أحدهما يدلُّ على ثَوَرَان شئ، والآخر على يُبْس نَبَات. فالأوّل: هاجَ الفحلُ هَيْجاً وهِياجاً. وكذلك الدَّم: والهَيْجاء تمدُّ وتقصر. وهِجت (٢) الشَّرَّ وهيَّجْته. وهيَّجْتُ النّاقَة فانبعثَتْ. ويقال للنَّاقةِ النَّزوع إلى وَطَنِها: مِهياج.\nوالآخَر قولهم: هاجَ البقلُ، إذا اصفرَّ ليَيْبَسَ. وأرضٌ هائجة: يَبِس بقلها.\nوأهْيَجْتُ الأرضَ: صادفتُ نباتَها هائجاً قد ذَوَى. قال رؤبة:\n* وَأَهْيَجَ الخَلصَاءَ من ذات البُرَقْ (٣) *",
+ "az": "[هيج] (Heyc): Hə, ya və cim iki səhih əsasdır: bunlardan biri bir şeyin coşub-daşmasına, diğəri isə bitkinin qurumasına dəlalət edir.\n\nBirincisi: هاجَ الفحلُ هَيْجاً وهِياجاً (hacağ-fəhlu həycan və hiyacan - erkək dəvə coşdu). Həmçinin qan haqqında da belə deyilir: الهَيْجاء (əl-həyca - döyüş) sözü həm uzadılaraq (məd ilə), həm də qısaldılaraq oxunur. Və هِجتُ الشَّرَّ وهيَّجْته (hicitüş-şərrə və həyyəftühü - şəri qızışdırdım və təhrik etdim). وهَيَّجْتُ النّاقَة فانبعثَتْ (Həyyətu-n-naqətə fə-nbəasət - dəvəni təhrik etdim, o da hərəkətə gəldi). Vətəninə həsrət çəkən dəvəyə مِهياج (mihyac) deyilir.\n\nDiğəri isə onların هاجَ البقلُ (hacağ-bəqlu) sözüdür, yəni bitki saralıb qurudu. Və أرضٌ هائجة (ardun haiqətun): bitkisi qurumuş torpaq.\n\nVə أهْيَجْتُ الأرضَ (əhyəgtü-l-ardə): bitkisini saralıb solmuş halda tapdım. Rübə demişdir:\n\n* وَأَهْيَجَ الخَلصَاءَ من ذات البُرَقْ (3) *\n(Zatül-buraqdan olan xalsanı qurumuş halda tapdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

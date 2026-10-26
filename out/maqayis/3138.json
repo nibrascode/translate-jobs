@@ -1,0 +1,17 @@
+{
+ "i": 3138,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فصع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 507,
+  "page_to": 507
+ },
+ "ar": "الفاء والصاد والعين يدلُّ على خروجِ شئ عن شئ. يقال:\nفَصَع الرُّطَبة، إذا قَشَرَها. ويقولون: الفُصْعة: غُلْفة الصبىّ إذا اتَّسعت حتَّى تبدوَ حَشَفتُه.",
+ "az": "[فصع] الفاء والصاد والعين يدلُّ على خروجِ شئ عن شئ (Fə, sad və eyn bir şeyin digər şeydən çıxmasına dəlalət edir). يقال (Deyilir): فَصَع الرُّطَبة (yaş xurmanı soydu): إذا قَشَرَها (qabığını soyduğu zaman). ويقولون (Və deyirlər): الفُصْعة (əl-füsə): غُلْفة الصبىّ إذا اتَّسعت حتَّى تبدوَ حَشَفتُه (uşağın sünrəti genişlənib baş hissəsi görünənə qədər olan halıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.152Z"
+}

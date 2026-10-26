@@ -1,0 +1,17 @@
+{
+ "i": 3886,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مصر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 329,
+  "page_to": 330
+ },
+ "ar": "الميم والصاد والراء أصلٌ صحيح له ثلاثة معان.\nالأوّل جنسٌ من الحَلْب، والثاني تحديدٌ في شيء، والثالث عُضوٌ من الأعضاء.\nفالأوّل: المَصْر: الْحَلْب بأطراف الأصابع. وناقةٌ مَصورٌ: لبنُها بطيء الخروج لا تُحلَب إلاّ مَصْراً.\nقال ابن السكِّيت: المَصْر: حلب ما في الضَّرع. ويقال التمصُّر: حلب بقايَا\nاللَّبَن في الضّرع. وبقيّةُ اللبن: المَصْر (١). ومصَّرت عليه الشَّيءَ: أعطيتُه إيّاه قليلاً قليلا.\nوالثاني: المِصْر، وهو الحدُّ؛ يقال إنّ أهل هَجَرَ يكتُبون في شُروطهم:\n«اشترى فلانُ الدَّارَ بمُصورها»، أي حدودها. قال عدي (٢):\nوجاعل الشَّمس مِصراً لا خفاء به … بين النَّهار وبين اللَّيل قد فَصَلا (٣)\nوالمِصْر: كلُّ كُورةٍ يقسم فيها الفَيء والصَّدَقات.\nوالثالث المَصِير، وهو المِعَى، والجمع مُصْران ثم مصارين. ومُصْران الفأرة:\nضربٌ من ردىّ التَّمر.",
+ "az": "«مصر» (məsər) — mim, sad və ra hərfləri üç mənaya malik səhih bir kökdür. Birincisi sağımın bir növüdür, ikincisi bir şeyin sərhədidir, üçüncüsü isə bədən üzvlərindən biridir. Birincisi: المَصْر (əl-məsr) — barmaq ucları ilə sağmaqdır. Və ناقةٌ مَصُورٌ (naqatün məsurün) — südü çətinliklə çıxan, ancaq məsr (barmaqla) ilə sağılan dəvədir. İbn əs-Sikkit demişdir: المَصْر (əl-məsr) — əmçəkdə qalan südü sağmaqdır. Və deyilir ki, التمصُّر (ət-təməssür) — əmçəkdə qalan süd qırıntılarını sağmaqdır. Və südün qalıntısı: المَصْر (əl-məsr) — adlanır. Və مَصَّرتُ عليه الشَّيءَ (məşşərtü əleyhi-şəyyə) — onu ona az-az verdim. İkincisi: المِصْر (əl-misr) — sərhəddir; deyirlər ki, Həcər əhli öz şərtlərində yazırlar: «Fulan evi öz müsuru ilə (yəni sərhədləri ilə) aldı». Ədiy demişdir: «Günü aydın şəkildə gündüzlə gecə arasında fasilə edən bir sərhəd edən (3)». Və المِصْر (əl-misr) — qənimət və sədəqlərin bölüşdürüldükləri hər bir vilayətdir. Üçüncüsü المَصِير (əl-məsir) — bağırsaqdır, cəmi مُصْران (musran), sonra مَصارين (masarin) gəlir. Və سِعان الفأرة (si'anul-fərəti) — xarab xurma növlərindən biridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

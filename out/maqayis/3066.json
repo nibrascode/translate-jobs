@@ -1,0 +1,17 @@
+{
+ "i": 3066,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فجس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 476,
+  "page_to": 476
+ },
+ "ar": "الفاء والجيم والسين كلمة إنْ صحَّت. يقولون: الفَجْس:\nالتكبُّر والتعظُّم. يقال منه: تَفَجَّسَ.",
+ "az": "«فجس» (fə-c-s): Fə, cim və sin hərfləri əgər səhihdirsə, bir kəlmədir. Deyirlər ki, «الفَجْس» (fəcs) - təkəbbürlük və ululanmaqdır. Bundan «تَفَجَّسَ» (təfəccəsə) feili düzəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

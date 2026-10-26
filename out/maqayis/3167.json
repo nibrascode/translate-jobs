@@ -1,0 +1,17 @@
+{
+ "i": 3167,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 9,
+  "page_to": 9
+ },
+ "ar": "القاف والزاء كلمةٌ واحدة، تدلُّ على قِلَّةِ سُكونٍ إلى الشَّئ (١)، من ذلك القزّ، وهو الوَثْب. ومنه التقزُّز، وهو التنطُّس. ورجلٌ قَزٌّ، وهو لا يسكن إلى كلِّ شئ.",
+ "az": "«قز»: القاف والزاء كلمةٌ واحدة، تدلُّ على قِلَّةِ سُكونٍ إلى الشَّئ (١) (bir şeyə az sükun etməyə, aram olmamağa dəlalət edir)، من ذلك القزّ (onlardandır əl-qəzz): وهو الوَثْب (tullanmaq). ومنه التقزُّز (və onlardandır ət-təqəzzüz): وهو التنطُّس (təntüs - həddindən artıq diqqətli olmaq, tələbkarlıq). ورجلٌ قَزٌّ (və kişi qəzzdir): وهو لا يسكن إلى كلِّ شئ (o, hər şeyə aram olmur, səbirsizdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:30:45.912Z"
+}

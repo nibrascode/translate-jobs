@@ -1,0 +1,17 @@
+{
+ "i": 3411,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كنت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 140,
+  "page_to": 140
+ },
+ "ar": "الكاف والنون والتاء كلمةٌ إن صحّتْ. يقولون: كَنَتَ، واكْتَنَتَ (٣)، إذا لزِمَ وقَنِع. وقال عديّ (٤).",
+ "az": "[كنت] Kaf, nun və ta əgər səhihdirsə, bir sözdür. Deyirlər: «كَنَتَ، واكْتَنَتَ» (٣) (sabit qaldı, qane oldu). Ədiy demişdir (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

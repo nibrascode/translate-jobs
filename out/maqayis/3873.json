@@ -1,0 +1,17 @@
+{
+ "i": 3873,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مشغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 324,
+  "page_to": 324
+ },
+ "ar": "الميم والشين والغين كلمةٌ واحدة، مَشَّغه بالقبيح: لطّخه.\nقال:\nأعلُو وعِرضي ليس بالممشَّغِ (١) *",
+ "az": "[مشغ] (Məşəğ) Mim, şın və ğayn hərfləri bir sözdür, «məşşəğəhu bi əl-qabih» (مَشَّغه بالقبيح) — onu pis işlə ləkələdi. Şair demişdir: أعلُو وعِرضي ليس بالممشَّغِ (1) (Mən ucalıram, namusumsa ləkələnmiş deyil).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3566,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لمز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 209,
+  "page_to": 209
+ },
+ "ar": "اللام والميم والزاء كلمةٌ واحدة، وهي اللَّمْز، وهو العَيب. يقال لَمَزَ يَلمِزُ لَمْزاً. قال اللّه تعالى: ﴿وَمِنْهُمْ مَنْ يَلْمِزُكَ فِي اَلصَّدَقاتِ﴾ ورجل لَمَّازٌ ولُمَزَة، أي عَيَّاب.",
+ "az": "[لمز] «اللام والميم والزاء» (lam, mim və zay) — tək bir köydür, o da «اللَّمْز» (ləmz) olub eyib tutmaq deməkdir. «لَمَزَ يَلمِزُ لَمْزاً» (eyib tutdu, eyib tutur, eyib tutmaq) deyilir. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿وَمِنْهُمْ مَنْ يَلْمِزُكَ فِي اَلصَّدَقاتِ﴾ (Və onların içində sədəqlər hususunda sənə irad tutanlar da var). «رجل لَمَّازٌ ولُمَزَة» (ləmmaz və luməz kişi) — yəni çox eyib tutan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:11.522Z"
+}

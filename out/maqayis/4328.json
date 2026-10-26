@@ -1,0 +1,17 @@
+{
+ "i": 4328,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هجد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 34,
+  "page_to": 34
+ },
+ "ar": "الهاء والجيم والدال أُصَيْلٌ يدلُّ على ركودٍ فى مكان.\nيقال: هَجَد، إذا نامَ، هُجُوداً. والهاجد: النَّائم؛ وإن صلَّى ليلاً فهو متهجِّد، كأنَّه بصلاته تركَ الهجودَ عنه. وهذا قياسٌ مستعمَل، كما يقال رجلٌ آثم؛ فإذا كَرِهَ الإِثمَ وانتَفَى منه قيل متأثِّم. والعرب تقول: أَهْجَدَ البعيرُ: ألقَى جِرانَهُ بالأرض.",
+ "az": "[هجد] الهاء والجيم والدال أُصَيْلٌ (kiçik bir kök) يدلُّ على ركودٍ فى مكان (bir yerdə sükunətə, hərəkətsizliyə dəlalət edir). يقال: هَجَد، إذا نامَ، هُجُوداً (yatdıqda «həcədə, hucudan» denilir). والهاجد: النَّائم (və əl-hacid: yatan şəxsdir); وإن صلَّى ليلاً فهو متهجِّد (əgər gecə namaz qılarsa, o, mütəhəcciddir), كأنَّه بصلاته تركَ الهجودَ عنه (sanki o, namazı ilə yuxunu özündən tərk etmişdir). وهذا قيasٌ مستعمَل (və bu, işlək bir qiyasdır), كما يقال رجلٌ آثم (necə ki, günahkar adam deyilir); فإذا كَرِهَ الإِثمَ وانتَفَى منه قيل متأثِّم (və əgər günahı sevməzsə və ondan uzaqlaşarsa, mütəəssim – günahdan çəkinən denilir). والعرب تقول: أَهْجَدَ البعيرُ: ألقَى جِرانَهُ بالأرض (Və ərəblər deyirlər: dəvə başını və sinəsini yerə qoydu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:57.623Z"
+}

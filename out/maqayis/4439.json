@@ -1,0 +1,17 @@
+{
+ "i": 4439,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 77,
+  "page_to": 77
+ },
+ "ar": "الواو واللام (٣). والولولة: الإعوالُ وأصواتُ النِّساء بالبكاء.",
+ "az": "[ول] (Vav və lam) (٣). Və əl-vəlvələ (الْوَلْوَلَة) — nalə çəkmək və qadınların ağlayarkən çıxardıqları səslərdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

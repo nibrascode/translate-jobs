@@ -1,0 +1,17 @@
+{
+ "i": 3872,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مشع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 324,
+  "page_to": 324
+ },
+ "ar": "الميم والشين والعين فيه كلماتٌ على غير قياس. يقولون المَشْع:\nضربٌ من الأكل، كأكلِكَ القِثَّاءَ إذا مضغتَها. ويقولون التمشُّع: الاستنجاء.\nو\nذكروا حديثا: «لا تَمَشَّعْ بروثٍ ولا عَظْم». أي لا تَستَنج بهما. وحُكِي عن ابن الأعرابىّ: امتَشَع الرّجُل ثوبَ صاحِبِه واختَلَسه. وذئب مَشُوعٌ.\nويقولون مَشَعْتُ الغَنَم: حَلَبْتُها. ومَشَع: كَسَب وجَمَع.",
+ "az": "[مشع] (Məşə) Mim, şın və eyn hərfləri olub, qeyd-şərtsiz (qaydasız) olaraq müəyyən sözlərdən ibarətdir. Deyirlər: Əl-məş (المَشْع) — yemək növlərindən biridir, məsələn, xiyarı çeynədiyiniz kimi yemək. Həmçinin ət-təməşşüç (التمشُّع) — istincə etmək (təharet almaq) deməkdir. Və bir hədis zikr etmişlər: «لا تَمَشَّعْ بروثٍ ولا عَظْم» (Pəyə və ya sümüklə istincə etməyin). Yəni onlarla təmizlənməyin. İbn Ərabidən rəvayət olunmuşdur ki, kişi öz yoldaşının paltarını «imtəşəə» (امتَشَع) — yəni oğurladı, mənimsədi. Və «zibvun məşuu» (ذئب مَشُوعٌ) — acgöz qurd. Deyirlər: «Məşətu əl-ğənəm» (مَشَعْتُ الغَنَم) — qoyunları sağdım. Və «məşə» — qazandı və topladı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

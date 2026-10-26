@@ -1,0 +1,17 @@
+{
+ "i": 3514,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كسح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 179,
+  "page_to": 180
+ },
+ "ar": "الكاف والسين والحاء له معنيانِ صحيحان: أحدهما تنقيةُ الشيء، والمعنى الآخر عَيْب في الخِلْقة.\nفالأوَّل الكَسْح. يقال: كَسَحْتُ البيتَ، وكَسَحَتِ الرِّيحُ الأرضَ:\nقَشَرت عنها التُّراب. والكُسَاحة: ما يُكسَح. ويقال: أغارُوا على بني فلانٍ فاكتَسَحوهم، أي أخذوا ما لَهم كلَّه.\nوالثاني الكَسَح، وهو العَرَج. والأكْسَح: الأعرج. قال الأعشى:\n* وخَذُولِ الرّجلِ من غير كَسَحْ (٢) *\nوجمع الأكسح كُسْحان. و\nفي الحديث: «الصَّدَقة مال الكُسْحانِ والعُوران (١)».",
+ "az": "[كسح] (kə-sə-hə). Kaf, sin və ha hərflərinin iki səhih mənası vardır: Biri bir şeyi təmizləmək, o biri isə xilqətdə (yaradılışda) olan qüsur. Birincisi «الكَسْح» (təmizləmə, süpürmə). Deyilir: «كَسَحْتُ البيتَ» (Evi süpürdüm) və «كَسَحَتِ الرِّيحُ الأرضَ» (Külək yeri təmizlədi/torpağını qopardı): torpağı onun üzərindən qopardı. «الكُسَاحة» (təmizlənmiş süprüntü): süpürülüb təmizlənən şey. Deyilir: «أغارُوا على بني فلانٍ فاكتَسəحوهم» (Filançıoğullarının üzərinə basqın edib hamısını kökündən aldılar), yəni onların bütün malını götürdülər. İkincisi «الكَسَح» (axsaqlıq), hansı ki, o, çəpliyə bənzər axsaqlıqdır. «الأكْسَح» (axsaq). Əş-Şair Əşə-şair (əl-Əşə) demişdir: * Vəxəzuli-r-ricli min ğayri kəsəh (²) * (Ayağı zəif və çətin hərəkət edən - lakin axsaqlıqdan deyil). «الأكسح» sözünün cəmi «كُسْحان» (axsaqlar) gələr. Hədisdə: «الصَّدَقة مال الكُسْحانِ والعُوران (¹)» (Sədəqə axsaqların və çəplərin/gözsüzlərin malıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.390Z"
+}

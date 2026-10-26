@@ -1,0 +1,17 @@
+{
+ "i": 4302,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 26,
+  "page_to": 26
+ },
+ "ar": "الهاء والياء والنون: الهَيْن: الأمر الهيِّن، وهو من الواو، وقد مَرَّ.",
+ "az": "[هين] (Heyn): Hə, ya və nun: الهَيْن (əl-heyn): asan iş deməkdir, o isə vav hərfindəndir və artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

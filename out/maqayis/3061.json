@@ -1,0 +1,17 @@
+{
+ "i": 3061,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فتى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 473,
+  "page_to": 474
+ },
+ "ar": "الفاء والتاء والحرف المعتل أصلانِ: أحدهما يدلُّ على طَرَاوة وجِدّة، والآخر على تبيين حكم.\nالفَتىّ: الطَّرِىّ من الإبل، والفَتَى من الناس: واحد الفِتْيان. والفَتاء (١):\nالشباب، يقال فتًى بيِّن الفَتاء. قال:\nإذا عاشَ الفتى مِائَتين عاماً … فقد ذهبَ البشاشةُ والفَتاء (٢)\nوالأصل الآخر الفُتْيا. يقال: أفتى الفقيه فى المسألةِ، إذا بيَّن حكمَها.\nواستفتَيت، إذا سألتَ عن الحكم، قال اللّه تعالى: ﴿يَسْتَفْتُونَكَ قُلِ اَللّهُ يُفْتِيكُمْ فِي اَلْكَلالَةِ﴾ ويقال منه فَتْوى وفُتْيا.\nوإذا هُمِز خَرَج عن البابين جميعا. يقال ما فَتئْتُ وفَتَأتُ أذكرُه، أى ما زِلت.\nقال اللّه تعالى: ﴿قالُوا تَاللّهِ تَفْتَؤُا تَذْكُرُ يُوسُفَ﴾، أى لا تزالُ تَذكُر.",
+ "az": "[فتى] (f-t-y): Fə, ta və uzanan hərf (y) olmaqla iki kökə malikdir: Biri təravətə və təzəliyə, diğəri isə hökmü bəyan etməyə dəlalət edir. «الفَتىّ» (fətiy) — dəvənin təzə/cavan olanı, insanlardan isə «الفَتَى» (fəta) — «الفِتْيان» (fityan) sözünün təkidir. «الفَتاء» (fətaə) — gənclikdir, deyilir: «فتًى بيِّن الفَتاء» (gəncliyi aşkar olan gənc). Şair demişdir: «إذا عاشَ الفتى مِائَتين عاماً … فقد ذهبَ البشاشةُ والفَتاء» (2) (Gənc iki yüz il yaşasa... onda sevinc və gənclik gedib çatıb). Digər kök isə «الفُتْيا» (futya) sözüdür. Deyilir: «أفتى الفقيه فى المسألةِ» (fəqih məsələ barəsində fətva verdi), onun hökmünü bəyan etdiyi zaman. «واستفتَيت» (istəftəytu) — hökmü soruşduğun zaman, Uca Allah buyurmuşdur: ﴿يَسْتَفْتُونَكَ قُلِ اَللّهُ يُفْتِيكُمْ فِي اَلْكَلالَةِ﴾ (Onlar səndən fətva istəyirlər, de: Allah kəlalə barəsində sizə fətva verir). Ondan «فَتْوى» (fətva) və «فُتْيا» (futya) düzəlir. Həmzələndikdə isə hər iki babdan kənara çıxır. Deyilir: «ما فَتئْتُ وفَتَأتُ أذكرُه» (mən onu xatırlamaqdan əl çəkmədim), yəni davam etdim. Uca Allah buyurmuşdur: ﴿قالُوا تَاللّهِ تَفْتَؤُا تَذْكُرُ يُوسُفَ﴾ (Dedilər: Allaha yəqin olsun ki, sən hələ də Yusifi xatırlayırsan), yəni sən onu xatırlamaqdan əl çəkmirsən.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

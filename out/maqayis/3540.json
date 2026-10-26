@@ -1,0 +1,17 @@
+{
+ "i": 3540,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 198,
+  "page_to": 198
+ },
+ "ar": "اللام والنون. كلمةٌ أداة، وهي لن، تنفي الفعل * المستقبل وذكر عن الخليل أنّ أصل لنْ لا أَنْ.",
+ "az": "«لن»\nاللام والنون. كلمةٌ أداة، وهي لن، تنفي الفعل * المستقبل وذكر عن الخليل أنّ أصل لنْ لا أَنْ.\nLam və nun. Ədat kəlməsidir, o da لَنْ (lən) olub, gələcək zaman feilini inkarda işlədilir. Xəlildən rəvayət olunmuşdur ki, «لَنْ» kəsiminin əsli «لَا أَنْ» (lə ənt) ifadəsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:21.969Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3218,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قهز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 35,
+  "page_to": 35
+ },
+ "ar": "القاف والهاء والزاء كلمةٌ. يقولون: القهْزُ (٥): ثيابُ مِرْعِزَّى يُخالِطُها حرير، وبها يشبَّه الشَّعر الليِّن. قال:\n* من القِهَزْ والقُوهِىّ (٦) *",
+ "az": "[قهز] Qaf, hə və zə bir kəlmədir. Deyirlər: əl-qəhz (القهْزُ) (٥): ipəklə qarışdırılmış keçi tükündən (mirəzzə) olan paltarlardır, yumşaq tük də buna bənzədilir. (Şair) demişdir:\n* من القِهَزْ والثُّوهِىّ (٦) *\n(Qəhəz və Tuhi paltarlarından...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.257Z"
+}

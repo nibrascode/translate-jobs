@@ -1,0 +1,17 @@
+{
+ "i": 3508,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كسع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 177,
+  "page_to": 177
+ },
+ "ar": "الكاف والسين والعين أصلٌ صحيح يدلُّ على نوع من الضَّرب. يقال: كسعه، إذا ضرِبَ برِجله على مؤخَّره أو بيده. ويقال: اتَّبَعَ أدبارَهم يَكسَعُهم بسَيفه. وكَسَعْت الرّجُل بما سَاءه، إذا تكلَّمْت فى أثره. وكَسعتُ النّاقةَ بغُبْرها، إذا تركتَ بقيَّةً من اللَّبن فى خِلْفها تريد تغزيرها. ومعنى هذا أنَّه يخلِّيها بعد أن يُحلَب بعضُ لبنِها ويضربُ بيدِه على مؤخّرها لتمضِىَ. قال:\nلا تَكْسَع الشَّولَ بأَغْبَارِها … إنك لا تَدرِى مَنْ النّاتجُ (١)\nومن الباب رجلٌ مُكَسَّعٌ بغُبْرِه، إذا لم يتزوَّج، كأنَّ ماءه قد تبقَّى كما تَبقَّى لبنُ الشّاةِ المكَسَّعة. قال:\nواللّه لا يخرجُها من قَعرِه … إلاّ فتًى مكسَّع بغُبْره (٢)\nوالكُسْعَة: الحمير، سمِّيت لأنَّها تُضرَب أبداً على مؤخّرها في السَّوْق.",
+ "az": "[كسع] \nКаф, sin və eyn – bir növ zərbə vurmağa dəlalət edən səhih bir kökdür. Deyilir: «كسعه» (kəsəhü) – onu ayağı ilə arxa tərəfindən və ya əli ilə vurdu. Deyilir: «اتَّبَعَ أدبارَهم يَكسَعُهم بسَيفه» (izlədi onların ardınca, qılıncı ilə arxalarından vururdu). «كَسَعْت الرّجُل بما سَاءه» (kəsətür-racülə bima sə-əhü) – bir kəsi narahat edəcək sözü arxasınca danışdım. «كَسعتُ النّاقةَ بغُبْرها» (kəsətün-naqətə bi-ğubriha) – dişi dəvənin döşündə südün bir qismini saxladın, bununla onun südünü artırmaq istəyirsən. Bunun mənası odur ki, südünün bir hissəsi sağıldıqdan sonra onu buraxır və gedib çatması üçün arxa tərəfindən əli ilə vurur. Şair demişdir:\nلا تَكْسَع الشَّولَ بأَغْبَارِها … إنك لا تَدرِى مَنْ النّاتجُ (١)\n(Südü azalmış dəvələri qalıq südü ilə arxadan vurub qovma, çünki sən bilmirsən balanı kim doğacaq).\nBu qbildəndir: «رجلٌ مُكَسَّعٌ بغُبْرِه» (rəcülün mükəssəün bi-ğubrihi) – evlənməmiş kişi, sanki onun suyu südü sağılan qoyunun südü kimi qalmışdır. Şair demişdir:\nواللّه لا يخرجُها من قَعرِه … إلاّ فتًى مكسَّع بغُبْره (٢)\n(And olsun Allaha ki, onu öz yerindən çıxarmaz... qalıq südü ilə vurulub saxlanılmış gəncdən başqa).\n«الكُسْعَة» (əl-küsqə) – eşşəklər, ona görə belə adlandırılmışdır ki, onları qovarkən həmişə arxalarından vururlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3519,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كشي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 182,
+  "page_to": 183
+ },
+ "ar": "الكاف والشين والحرف المعتلّ أو المهموز. أمّا ما ليس بمهموزٍ فكلمة واحدة، وهي شحمةٌ مستطيلة في عُنق الضّبّ إلى فخذه، والجمع الكُشَى. قال:\nوأنتَ لو ذُقتَ الكُشَى بالأكبادْ … لَمَا تَركتَ الضَّبَّ يَعدُو بالوادْ (١)\nوأمّا المهموز فكلماتٌ لعلَّها أن تكون صحيحة. يقولون: يتكشَّأُ اللحمَ، أي يأكله وهو يابس. وكَشَأْتُ وجهَه بالسَّيف، أي ضربته. وكَشِئَ من الطعام: امتَلَأ.",
+ "az": "[كشي] (kə-şə-yə). Kaf, şin və uzanan yaxud həmzəli hərf. Həmzəli olmayan sözlərə gəldikdə, bu, tək bir kəlmədir: kələtin boynundan buduna qədər uzanan piy qatı, cəmi «الكُشَى» (əl-küşa) gələr. Şair demişdir: Və əntə ləv zuqtə-l-küşə bil-əkbadi ... ləmə tərəktə-l-zəbbə yədû bil-vadi (¹) (Əgər sən ciyərlərdəki o piy qatının dadını bilsəydin... kələtin dərədə qaçmasına imkan verməzdin). Həmzəli olan sözlərə gəldikdə isə, bəlkə də səhih olan bir neçə kəlmədir. Deyirlər: «يتكشَّأُ اللحمَ» (Əti yeyir), yəni onu quru halda yeyir. «كَشَأْتُ وجهَه بالسَّيف» (Üzr istəyirəm, qılıncla onun üzünə vurdum), yəni qılıncla vurdum. «كَشِئَ من الطعام» (Yeməkdən doydu), yəni doqquzacan yeyib doydu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

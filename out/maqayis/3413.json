@@ -1,0 +1,17 @@
+{
+ "i": 3413,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كنر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 141,
+  "page_to": 141
+ },
+ "ar": "الكاف والنون والراء ليس هو عندنا أصلاً، وفيه كلمتان أظنُّهما فارسيَّتين. يقال الكِنَّار: الشُّقَّة من الثِّيَابِ الكَتَّانِ. ويقولون:\nالكِنَّارات: العِيدان أو الدُّفوف، تفتح كافها وتكسر.",
+ "az": "[كنر] Kaf, nun və ra bizə görə əsas deyil, onda məncə fars dilindən alınmış iki söz var. Deyilir: «الكِنَّار» (kinnar) — kətan parça parçası. Həmçinin deyirlər: «الكِنَّارات» (kinnarat) — udlar və ya dəflərdir, kaf hərfi həm fəthə, həm də kəsrə ilə oxunur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

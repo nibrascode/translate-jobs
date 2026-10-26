@@ -1,0 +1,17 @@
+{
+ "i": 3435,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كوم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 148,
+  "page_to": 148
+ },
+ "ar": "الكاف والواو والميم أصلٌ صحيحٌ يدلُّ على تجمُّع في شيء مع ارتفاع فيه. من ذلك الكَوْماء، وهي النَّاقة الطَّويلة السَّنام. والكَوْم:\nالقِطعة من الإبل. والكَوْمة: الصُّبْرة من الطَّعام وغيرِه. وربّما قالوا: كامَ الفرسُ أُنثاه يَكُومها، وذاك نَفْس التجمُّع.",
+ "az": "[كوم] Kaf, vau və mim yüksəkliklə birlikdə bir şeydə toplanmağa dəlalət edən səhih bir əsasdır. Bunlardandır: الكَوْماء (əl-kovməh) — hürgücü uzun olan dəvə. Və الكَوْم (əl-kovm) — dəvə dəstəsi. Və الكَوْمة (əl-kovməh) — ərzaq və digər şeylərin təpəsi (yığını). Bəzən deyirlər: كامَ الفرسُ أُنثاه يَكُومها (kəməl-fərsü ünsəhu yəkumuhə), bu da eynilə toplanmaq deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

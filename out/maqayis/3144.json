@@ -1,0 +1,17 @@
+{
+ "i": 3144,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فطن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "الفاء والطاء والنون كلمةٌ واحدةٌ تدل على ذكاء وعلم بشئ.\nيقال: رجلٌ فَطِنٌ وفَطُنٌ، وهى الفِطْنَة والفَطَانة (١).",
+ "az": "[فطن] (F-T-N) Fə, ta və nun hərfləri zəkaya və bir şeyi bilməyə dəlalət edən tək bir kəlmədir. Deyilir: «رجلٌ فَطِنٌ وفَطُنٌ» (anlayışlı və zəkalı kişi), bu da «الفِطْنَة» və «الفَطَانة» (zəka, fərasət) adlanır (١).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

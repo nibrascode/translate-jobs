@@ -1,0 +1,17 @@
+{
+ "i": 4052,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نثل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 390,
+  "page_to": 390
+ },
+ "ar": "النون والثاء واللام أصلٌ يدلُّ على استخراج شيءٍ من شيء أو خروجه منه. منه نثَلْتُ كِنانَتي: أخرَجْتُ ما فيها من نَبْلٍ نَثْلا. ونثَلتُ البِئر: استخرجت تُرابَها. والنَّثِيل: الرَّوْث. والنَّثيلة: تُراب البِئر، والقياس واحد.",
+ "az": "«نثل» (nəthəl) — Nun, sə və lam hərfləri bir şeydən başqa bir şeyi çıxarmağa və ya onun içindən çıxmasına dəlalət edən səhih bir əsasdır. Bunlardandır: نثَلْتُ كِنانَتي (oxdanlığımı boşaltdım, içindəki oxları çölə çıxartdım). وَنثَلتُ البِئر (quyunu təmizlədim, torpağını çıxartdım). وَالنَّثِيل (nəthil): peyin. وَالنَّثيلة (nəthilə): quyunun torpağı. Qiyas eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

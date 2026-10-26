@@ -1,0 +1,17 @@
+{
+ "i": 3322,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قصم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 93,
+  "page_to": 93
+ },
+ "ar": "القاف والصاد والميم أصلٌ صحيحٌ يدلُّ على الكسر. يقال:\nقَصَمْت الشيء قَصْماً. والقُصَم: الرّجُل يَحطِم ما لَقِيَ. وقال اللّه تعالى: ﴿وَكَمْ قَصَمْنا مِنْ قَرْيَةٍ كانَتْ ظالِمَةً﴾ أراد - واللّه أعلمُ - إهلاكَه إيّاهم، فعبَّر عنه بالكسر. والقَصِيمة والقَيْصوم: نبتان.",
+ "az": "«قصم»: القاف, Sad və Mim qırılmağa dəlalət edən səhih bir kökdür. Deyilir: «قَصَمْت الشيء قَصْماً» (Mən o şeyi qırdım). «القُصَم» — qarşısına çıxan hər şeyi dağıdan kişidir. Uca Allah buyurmuşdur: ﴿وَكَمْ قَصَمْنا مِنْ قَرْيَةٍ كانَتْ ظالِمَةً﴾ (mənaca tərcümə: Biz zümre olan neçə-neçə zalımlıq etmiş qəsəbəni məhv etdik) — Allah daha yaxşı bilir — O bununla onların məhv edilməsini iradə etmiş, bunu qırılma (dağıtma) sözü ilə ifadə etmişdir. «القَصِيمة» və «القَيْصوم» — iki növ bitkidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:36:22.598Z"
+}

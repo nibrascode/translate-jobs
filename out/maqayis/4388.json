@@ -1,0 +1,17 @@
+{
+ "i": 4388,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 56,
+  "page_to": 56
+ },
+ "ar": "الهاء والعين والراء وهذا لا يكون إلاَّ بدخيل (٣). يقولون:\nالهَيْعَرَة: النزِقة من النِّساء. والهَيعَرة: الغُول. والهَيْعَرُور: الدَّاهية.",
+ "az": "[هعر] (hə-ə-ra): Hə, eyn və ra hərfləri, bu da ancaq başqa dildən gəlmə (dəxil) ola bilər. Deyirlər: «الهَيْعَرَة» (əl-həyərə) — yüngülxasiyyət qadın. «الهَيعَرة» (əl-həyərə) — qulyabanı. «الهَيْعَرُور» (əl-həyərur) — fəlakət, böyük bəla.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

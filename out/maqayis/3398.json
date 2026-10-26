@@ -1,0 +1,17 @@
+{
+ "i": 3398,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 136,
+  "page_to": 136
+ },
+ "ar": "الكاف والميم والنون أُصَيلٌ يدلُّ على استخفاءِ. يقال:\nكَمَنَ الشَّيءُ كُمونًا. واشتقاقُ الكَمِين في الحرب من هذا. وزعم ناسٌ أنّ النّاقةَ الكَمُونَ: الكَتُومُ اللِّقاح، وهي إذا لَقِحَت لم تَشُل بذَنبها. وحُزْنٌ مُكتمِنٌ في القلب كأنّه مُستَخفٍ. والكُمْنة: داءٌ في العين من بَقِيَّة رمَد.",
+ "az": "[كمن] Kaf, mim və nun kiçik bir kök olub gizlənməyə dəlalət edir. Deyilir: كَمَنَ الشَّيءُ كُمونًا (şey gizləndi, pusquda durdu). Müharibədəki «الكَمِين» (kəmin - pusqu) sözünün etimologiyası da bundan götürülmüşdür. Bəzi adamlar iddia etmişlər ki, «النّاقةَ الكَمُونُ» (əl-nəqətül-kəmun) — cütləşmədiyini gizlədən dişi dəvədir; o, cütləşdiyi zaman quyruğunu qımıldatmaz. Ürəkdəki «حُزْنٌ مُكْتَمِنٌ» (müktəmin kədər) də sanki gizlənmiş kədər deməkdir. «الكُمْنة» (kümnə) — gözün arpadan qalmış qalıq xəstəliyidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

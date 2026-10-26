@@ -1,0 +1,17 @@
+{
+ "i": 3088,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "الفاء والدّال والغين. زعم ابنُ دريد (٣) أن الفَدْغ: الشَّدخ.\nوذَكَر\nالحديث: «إذاً تَفْدَغَ قُرَيشٌ رأسى (٤)». وهذا صحيح.",
+ "az": "«فدغ» (fə-d-ğ): Fə, dal və ğayn hərfləri. İbn Dürid (٣) iddia etmişdir ki, «الفَدْغ» (fədğ) - əzməkdir. Hədisi qeyd etmişdir: «إذاً تَفْدَغَ قُرَيشٌ رأسى» (O zaman Qureyş mənim başımı əzərdi) (٤). Bu səhihdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.849Z"
+}

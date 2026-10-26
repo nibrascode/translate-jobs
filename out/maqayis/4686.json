@@ -1,0 +1,17 @@
+{
+ "i": 4686,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يدع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 155,
+  "page_to": 155
+ },
+ "ar": "الياء والدال والعين: كلمتان متباينتان، إحداهما الأيْدَع:\nصِبْغٌ أحمر. ويقال منه يَدَّعْتُ الشَّئ أُيَدِّعُه تَيدِيعا.\nوالأخرى يقولون: أيْدَعَ الحَجَّ على نَفْسِه: أَوْجَبَه. قال جرير:\n[ورَبِّ الراقصاتِ إلى الثَّنايا … بشُعْثٍ أَيْدَعُوا حَجًّا تَماما (١)]",
+ "az": "«يدع» (Y-D-C): İki fərqli sözdür. Biri الأيْدَعُ (əydəc): qırmızı boyadır. Ondan «يدَّعْتُ الشَّئ أُيَدِّعُه تَيدِيعا» (şeyi boyadım) de­yilir. Digəri isə belə deyirlər: «أيْدَعَ الحَجَّ على نَفْسِه» (həcci özünə vacib etdi). Cərir demişdir: Və hündür dağlara sarı çapıb gedənlərin Rəbbinə and olsun ki, saçı-saqqalı pırtlaşıq halda həcci tam şəkildə vacib edənlərlə (birgə) (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

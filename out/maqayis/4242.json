@@ -1,0 +1,17 @@
+{
+ "i": 4242,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 478,
+  "page_to": 479
+ },
+ "ar": "النون والكاف والفاء أصلان: أحدُهما يدلُّ على قطع شيء وتنحيته، والآخر على عضوٍ من الأعضاء، ثم يقاس عليه.\nفالأوّل النَّكْف: تنحِيتُك الدُّموعَ عن خدِّكَ بإصبعك. ويقولون: رأينا غيثاً ما نكَفَه أحدٌ سار يوماً ولا يومين. يقول: ما قَطَعه. وبَحرٌ لا يُنْكَف،\nمثل لا يُنزَح. والانتكاف: خُروجٌ من أرضٍ، إلى أرض، أو أمرٍ إلى أمر تقول: أراد هذا وانتكَفَ فأراد هذا، كأنَّه قطع عزْمَه الأوّل وانتكف الأثرَ وجَدَه.\nوالأصل الآخر النَّكَف: جمع نَكفَة، وهي غُدّةٌ في أصل اللَّحْى. يقال:\nإبلٌ مُنكِّفة: ظهرت نَكَفاتُها.\nثم قِيسَ على هذا فقيل: نِكَف من الأمر (١) واستنكف، إذا أنِفَ منه.\nمعنى القِياس في هذا أنَّه لما أنِفَ أَعْرَضَ عنه وأراهُ أصل لَحْيِه؛ كما يقال أعْرضَ إذا ولاَّه عارِضَه وتركَ مواجَهَتَه. والأَنِفُ من هذا، كأنَّه شَمَخَ بأنْفِه دُونَه.\nوالقياس في جميع هذا واحد. واللّه أعلمُ بالصَّواب.",
+ "az": "[نكف] (təmizləmək, ikrah etmək) Nun, kaf və fa iki əsasdır: biri bir şeyi kəsmək və uzaqlaşdırmağa, digəri isə bədən üzvlərindən birinə dəlalət edir, sonra ona qiyas edilir. Birincisi النَّكْف (silmək): barmağınla göz yaşlarını yanağından təmizləmən. Və deyirlər: bir gün və ya iki gün gedən heç kəsin kəsmədiyi bir yağış gördük. Deyir: onu kəsmədi. Və بَحرٌ لا يُنْكَف (tükənməz dəniz), لا يُنزَح (tükənməz) kimidir. Və الانتكاف (çıxmaq, keçmək): bir yerdən başqa yerə və ya bir işdən başqa işə çıxmaq. Deyirsən: bunu istədi və intikaf etdi, yəni bunu istədi, sanki əvvəlki əzmini kəsdi və izi tapıb başqasına keçdi. Və digər əsas النَّكَف (vəzi): نكفَة (vəzi) sözünün cəmi olub çənə sümüyünün əsasındakı vəzidir. Deyilir: إبلٌ مُنكِّفة (vəziləri şişmiş dəvələr): vəziləri üzə çıxmışdır. Sonra buna qiyas edilərək deyilmişdir: نِكَف من الأمر (bir işdən çəkindim) və استنكف (ikrah etdi), ondan ar etdiyi zaman. Bu qiyasın mənası odur ki, o, ar etdikdə ondan üz döndərdi və çənə sümüyünün əsasını göstərdi; necə ki, üz döndərdiyi zaman üzünü çevirib qarşılaşmağı tərk etdiyi deyilir. Və bundan olan الأَنِف (ar edən), sanki bunun qarşısında burun qaldırmış kimidir. Və bütün bunlarda qiyas birdir. Və Allah doöru olanı daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

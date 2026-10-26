@@ -1,0 +1,17 @@
+{
+ "i": 4559,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 114,
+  "page_to": 114
+ },
+ "ar": "الواو والشين والراء: كلمة واحدة. الوَشْر والتَّوشير (٣):\nأن تُحدِّد * المرأةُ أسنانَها. والميشار بلا همزٍ من هذا.",
+ "az": "[وشر] (Vəşər): الواو والشين والراء (vav, şin və ra): bir kəlmədir. الوَشْر və التَّوشير (٣) (əl-vəşr və ət-təvşir): qadının dişlərinin uclarını itiləməsidir. والميشار (əl-mişar) həmtəzsiz olaraq bundan götürülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

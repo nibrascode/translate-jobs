@@ -1,0 +1,17 @@
+{
+ "i": 3442,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كيل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 150,
+  "page_to": 151
+ },
+ "ar": "الكاف والياء واللام ثلاثُ كلماتٍ لا يُشْبِهُ بعضُها بعضاً.\nفالأولى: الكَيل: كَيْل الطعام. يقال: كِلْتُ فلاناً أعطيته. واكتَلْتُ عليه:\nأخَذْتُ منه. قال اللّه سبحانه: ﴿وَيْلٌ لِلْمُطَفِّفِينَ. * اَلَّذِينَ إِذَا اِكْتالُوا عَلَى اَلنّاسِ يَسْتَوْفُونَ. * وَإِذا كالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ﴾.\nوالكلمة الثانية: كالَ الزَّنْدُ يَكِيلُ، إذا لم يُخرِجْ ناراً.\nوالكلمة الثالثة: الكَيُّول: مُؤخَّر الصَّفِّ في الحرب. قال:\nإنِّي امْرُؤٌ عاهَدَني خليلي … ألاَّ أَقُومَ الدَّهْرَ في الكَيُّولِ (١)",
+ "az": "[كيل] (Kaf, ya və lam) — bir-birinə bənzəməyən üç kəlmədir. Birincisi: الكَيل (əl-keyl) — ərzağın çəkilməsi (ölçülməsi). Deyilir: كِلْتُ فلاناً (kiltu fulanən) — ona verdim. واكتَلْتُ عليه (va-ktəltu aleyhi) — ondan aldım. Uca Allah buyurmuşdur: ﴿وَيْلٌ لِلْمُطَفِّفِينَ. * اَلَّذِينَ إِذَا اِكْتالُوا عَلَى اَلنّاسِ يَسْتَوْفُونَ. * وَإِذا كالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ﴾ (mənaca tərcümə: Vay halına çəkidə aldatdıqların! O kəslər ki, insanlardan nəsə ölçüb alanda tam alırlar, lakin özləri başqalarına ölçüb və ya çəkib verəndə əskiltərərlər). İkinci kəlmə: كالَ الزَّنْدُ يَكِيلُ (kala əz-zandu yekilu) — çaxmaq daşı od çıxarmadığı zaman. Üçüncü kəlmə: الكَيُّول (əl-keyyul) — müharibədə dəstənin, səfin arxa hissəsi. [Şeir] إنِّي امْرُؤٌ عاهَدَني خليلي … ألاَّ أَقُومَ الدَّهْرَ في الكَيُّولِ (١) (mənası: Həqiqətən, mən elə bir adamam ki, dostum mənə əhd etmişdir... ki, heç vaxt döyüşdə arxa səfdə dayanmayım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

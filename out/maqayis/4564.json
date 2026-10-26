@@ -1,0 +1,17 @@
+{
+ "i": 4564,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وصم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 116,
+  "page_to": 116
+ },
+ "ar": "الواو والصاد والميم: أصلٌ صحيح يدلُّ على كَسْر وضَعْف.\nووجد توصيماً فى جَسدِه، أى تكسيراً وفَترةً وكَسَلا. قال:\nوإذا رُمْتَ رحيلاً فارتحِلْ … واعصِ ما يأمُرُ توصيمُ الكَسَلْ (٢)\nوالوَصْم: الصَّدعُ غَير بائن. يقال: أصابَ القناةَ وَصْمٌ.\nويُحمَل على هذا فيقال للعار والعَيب: وَصْم. قال:\nفإنْ تك جَرْمٌ ذاتَ وصمٍ فإِنّنا … دَلَفْنا إلى جرمٍ بِألأَمَ من جَرمِ (٣)",
+ "az": "[وصم] (Vəsm): الواو والصاد والميم (vav, sad və mim): qırılma və zəifliyə dəlalət edən səhih bir kökdür. Bədənində توصيم (təvsim), yəni sümüklərin qırılması, taqətsizlik və tənbəllik tapdı. Şair demişdir: وَإِذَا رُمْتَ رحيلاً فارتحِلْ … واعصِ ما يأمُرُ توصيمُ الكَسَلْ (٢) (Əgər köçmək istəsənsə, köç … və tənbəlliyin təvsiminin əmr etdiyinə asi ol). Vəsm — tam ayrılmamış çatlar, yarıqlar. Deyilir: أصابَ القناةَ وَصْمٌ (əsabəl-qənatə vəsmun — nizəyə bir çatlar dəydi). Buna əsaslanaraq rüsvayçılıq və eybə də vəsm deyilir. Şair demişdir: فَإِنْ تك جَرْمٌ ذاتَ وصمٍ فإِنّنا … دَلَفْنا إلى جرمٍ بِألأَمَ من جَرمِ (٣) (Əgər Cərm qəbiləsinin eybi varsa, şübhəsiz ki, biz … Cərmə, Cərmdən daha alçaq bir şəkildə yaxınlaşdıq).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

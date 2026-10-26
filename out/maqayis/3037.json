@@ -1,0 +1,17 @@
+{
+ "i": 3037,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فيخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 463,
+  "page_to": 463
+ },
+ "ar": "الفاء والياء والخاء كلمة. يقولون: أفاخ يُفيخ بِرِيحه. و\nفى الحديث: «كل بائلةٍ تُفيخ». ويقولون - وما أُراها صحيحةً - إنَّ الفَيْخَة:\nالسُّكُرُّجَة.",
+ "az": "[فيخ] \nالفاء والياء والخاء كلمة. يقولون: أفاخ يُفيخ بِرِيحه. و\nفى الحديث: «كل بائلةٍ تُفيخ». ويقولون - وما أُراها صحيحةً - إنَّ الفَيْخَة:\nالسُّكُرُّجَة.\n\nFə, ya və xa hərfləri bir kəlmədir. Deyirlər: «أفاخ يُفيخ بِرِيحه» — yeli ilə səsləndi. Və hədisdə: «كل بائلةٍ تُفيخ» — sidik buraxan hər bir heyvan səslənir. Deyirlər — və mən bunun səhih olduğunu güman etmirəm — ki, «الفَيْخَة» (fəyxə) — kiçik qab, kasa (sükürrüğə) deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:34.476Z"
+}

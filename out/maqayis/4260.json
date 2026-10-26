@@ -1,0 +1,17 @@
+{
+ "i": 4260,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 8,
+  "page_to": 9
+ },
+ "ar": "الهاء والراء: أُصَيلٌ صحيح يدلُّ على صوتٍ من الأصوات، ويقاس عليه. يقولون: الهِرُّ: دُعاء الغنم. وذلك قولهم: «لا يَعرف هِرًّا من بِرٍّ». والبِرُّ: سَوْقُ الغَنَم. والهِرَّة: السِّنَّوْرة، وكأنَّها سمِّيت لصوتها إذا هَرَّت.\n[وهَرَّ الشَّوْك، إذا اشتَدَّ يُبْسُه (٢)، وله حينئذ هريرٌ] وزَجَل. قال:\nرَعَيْنَ الشَبْرِقَ الرَّيّانَ حَتَّى … إذا ما هَرّ وامتَنَعَ المَذَاقا (٣)\nقال: والهُرْهُور: الماء الكثير الذى إذا جَرَى سمِعتَ له هَرْهَرَة. ويقولون:\nهَرَّ فلانٌ (٤) الكأس: كرِهَها، ولعلّه أن يكون قِيل ذاك لأنَّه يَهِرُّ فى وجْه مَنْ يسقيه.\nومما ليس من الباب الهُرَار: داءٌ يأخذ الإبل، ناقة مهرورة. ورأسُ هِرّ:\nمكان.",
+ "az": "[هر] (هاء və ra): səslərdən bir səsə dəlalət edən və onunla ölçülən səhih kiçik bir kökdür. Deyirlər ki: əl-hirr (الهِرُّ): qoyunları çağırmaqdır. Bu da onların «La ya'rifu hirran min birrin» (لا يَعرف هِرًّا من بِرٍّ – O, hirri birdən ayırd edə bilmir) məsəlidir. Əl-birr (البِرُّ): qoyunları qovmaqdır. Əl-hirrah (الهِرَّة): pişiyi (سنَّوْرة), sanki o, hərrah (hırıltı) etdiyi vaxt çıxardığı səsə görə belə adlandırılmışdır.\n[Və hərrə əş-şövk, iza iştədda yubsuhu (وهَرَّ الشَّوْك، إذا اشتَدَّ يُبْسُه), və ləhu hinəizin harirun (وله حينئذ هريرٌ)] və səs-küy. O dedi:\nرَعَيْنَ الشَبْرِقَ الرَّيّانَ حَتَّى … إذا ما هَرّ وامتَنَعَ المَذَاقا (٣)\n(Onlar şabırıq bitkisini o vaxtadək otladılar ki… nə zaman ki o qurudu və dadı qadağan/əlçatmaz oldu).\nO dedi: əl-hurhur (الهُرْهُور): çoxlu sudur ki, o axarkən hərhərə (هَرْهَرَة) səsi eşidirsən. Və deyirlər:\nHərrə fulanun (هَرَّ فلانٌ) kasəni: ondan xoşu gəlmədi, bəlkə də bu ona görə deyilmişdir ki, o, su içizdirdiyi şəxsin üzünə (qıyqacı/sərt) baxır.\nFəsildən olmayanlar arasında əl-hurar (الهُرَار): dəvələri tutan bir xəstəlikdir, nahiyətun mahrurah (ناقة مهرورة). Hirrin başı (رأسُ هِرّ): bir yerin adı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:23.332Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4491,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 93,
+  "page_to": 93
+ },
+ "ar": "الواو والحاء والميم: كلمتان. الوَحَم والوِحَام. والوَحَم:\nشهوةُ المرأة للشئ على الحَبَل. وامرأةٌ وَحْمَى، وقد وحَّمْناها. قال:\n* أيّامَ ليلَى عامَ لَيْلَى وَحَمِى (١) *\nأى شَهوتى وغايتى (٢) وَطَلِبَتى.\nومن هذا الاشتقاق: وحمْتُ وَحْمَهُ، كأنَّك اشتهيتَ ما اشتهاه.\nوأمّا الَوَحَامُ فيقال: الأنثى إذا حَمَلَتْ استعصَتْ، فيقال وَحِمَتْ.",
+ "az": "[وحم] الواو والحاء والميم (və, ha və mim) — iki sözdür. الْوَحَمُ və الْوِحَامُ. الْوَحَمُ (hamilə qadının aşerdiyi istək): qadının hamilə zamanı müəyyən bir şeyi istəməsidir. امْرَأَةٌ وَحْمَى (aşeren qadın), və وَحَّمْنَاهَا (biz onu aşertdirdik). Şair demişdir: * أَيَّامَ لَيْلَى عَامَ لَيْلَى وَحَمِي (١) * (Leylanın günlərində, Leylanın ilində mənim istəyim) — yəni arzum, məqsədim və tələbim. Bu kökdəndir: وَحَمْتُ وَحْمَهُ (onun istədiyi kimi mən də istədim) — sanki sən də onun istədiyini arzulamış kimi. الْوِحَامُ (vəham) gəlincə, deyilir: dişi heyvan hamilə qaldıqda inad edər, bu zaman وَحِمَتْ (istək göstərdi) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

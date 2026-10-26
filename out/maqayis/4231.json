@@ -1,0 +1,17 @@
+{
+ "i": 4231,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 475,
+  "page_to": 475
+ },
+ "ar": "النون والكاف والتاء أصلٌ واحد يدلُّ على تأثيرٍ يسيرٍ في الشيء * كالنُّكتة ونحوِها ونكت في الأرض بقَضِيبِهِ ينكُت، إذا أثَّر فيها. وكلُّ نُقطةٍ نُكْتَة.\nومن الباب رُطَبةٌ مَنكِّتة: بدأ الإرطاب فيها، كأنَّ ذلك كالنُّقَط.\nوالنّاكِت بالبَعير: شِبه الحازِّ، وهو أنْ ينكُت مِرْفَقُه حرفَ كِركِرته.\nومما يقاس على هذا قولهم: نكَتُّه، إذا ألقيتَه على رأسه فانتكَتَ، ولعل ذاك من أثرٍ يؤثِّره في الأرض.",
+ "az": "[نكت] النون والكاف والتاء (n, k, t) bir şeydə – nöqtə və s. kimi – yüngül bir təsirə dəlalət edən tək bir əsasdır. «نكت في الأرض بقَضِيبِهِ ينكُت» – çubuğu ilə yerdə iz saldıqda deyilir. Hər bir nöqtə bir «نُكْتَة»-dir. Bu babdandır: «رُطَبةٌ مَنكِّتة» – xurmanın yetişməyə başlayan vaxtı, sanki bu, nöqtələr kimidir. «النّاكِت بالبَعير» – dəvənin dirsəyi döş sümüyünün kənarına toxunarkən baş verən sürtünməyə bənzər şeydir. Buna qiyas edilən digər sözləri: «نكَتُّه» – onu başı üstə elə yıxdın ki, o tərs çevrildi; ehtimal ki, bu, yerdə buraxdığı izlə əlaqədardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:43.035Z"
+}

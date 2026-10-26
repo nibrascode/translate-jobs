@@ -1,0 +1,17 @@
+{
+ "i": 4578,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وطب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 121,
+  "page_to": 121
+ },
+ "ar": "الواو والطاء والباء: كلمةٌ واحدة، هى وَطْب اللّبَن:\nسِقاؤه. ويشبَّه به المرأةُ العظيمة الثّدْى، فيقال وَطْباء. والوَطْب: الرّجُل الجافِى؛ وهذا أيضاً من التَّشبيه.",
+ "az": "[وطب] (Vətəb): الواو والطاء والباء (vav, tə və ba): tək bir kəlmədir, o da وَطْب اللّبَن (vətbul-ləbən): süd tuluğudur. Böyük sinəli qadına da bundan bənzətilərək vətbə (وَطْباء) deyilir. Vətb — kobud, sərt kişi; bu da yenə bənzətmədəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

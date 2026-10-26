@@ -1,0 +1,17 @@
+{
+ "i": 3743,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 274,
+  "page_to": 275
+ },
+ "ar": "الميم والكاف أصلٌ صحيح يدلُّ على انتقاء العَظْم، ثم يقاس على ذلك. يقولون: تمكَّكت العظم: أخرجت مُخَّه. وامتَكَّ الفصيلُ ما في ضَرع أُمِّه: شربه. والتمكّك: الاستقصاء. و\nفي الحديث: «لا تُمَكِّكُوا على\nغرمائكم (١)». ويقال: سمِّيت مكّة لقلّة الماء بها، كأنّ ماءها قد امتُكَّ.\nوقيل سمِّيت لأنها تمُكُّ مَنْ ظَلَمَ فيها، أي تُهلِكه وتَقْصِمُه كما يمكُّ العظم.\nوينشدون:\n* يا مَكَّةُ الفَاجِرَ مُكِّي مَكَّا (٢) *",
+ "az": "[مك]\nالميم والكاف (mim və kaf) sümüyün seçilməsinə dəlalət edən səhih əslidir, sonra buna qiyas edilir. Deyirlər: تمكَّكت العظم (sümüyü təməkkət etdim): onun iliyini çıxartdım. Və امتَكَّ الفصيلُ ما في ضَرع أُمِّه (fəsil anasının məməsindəkini imtəkək etdi): onu içdi. Və التَّمَكُّك (təməkkük): dərindən araşdırmaq.\nVə hədisdə: «لا تُمَكِّكُوا على غرمائكم (١)» («Borclularınıza qarşı iliyi çıxarmağa çalışmayın / onları sıxışdırmayın»). Və deyilir: Məkkə (مكّة) orada suyun azlığından belə adlandırılmışdır, sanki onun suyu iliyi çıxarılmış kimidir (امتُكَّ).\nVə deyilmişdir ki, orada zülm edən hər kəsi məkk etdiyi üçün belə adlandırılmışdır, yəni sümüyü iliyindən çıkardığı kimi onu məhv edər və sındırar.\nVə bu beyti oxuyurlar:\n* يا مَكَّةُ الفَاجِرَ مُكِّي مَكَّا (٢) *\n(Ey Məkkə, fasiqi əz-büz məkk et!)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:01.672Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3868,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مسخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 323,
+  "page_to": 323
+ },
+ "ar": "الميم والسين والخاء كلمتانِ: إحداهما المَسخ، وهو يدلُّ على تشويهٍ وقِلّة طَعْم الشَّيء ومَسَخَه اللّه: شوَّهَ خَلْقَه من صورةٍ حسنةٍ إلى قبيحة.\nورجل مَسيخٌ: لا ملاحةَ له. وطعامٌ مَسيخٌ: لا مِلح له ولا طَعم. قال:\nوأنت مسيخٌ كلَحْم الحُوارِ … فَلَا أنتَ حُلوٌ ولا أنتَ مُرّ (١)\nويقولون: مَسَخْتُ النّاقَة، إذا أدبَرْتَها بالإنعاب.\nوالكلمة الأخرى: القِسِىُّ الماسِخيّة، تنسب إلى ماسِخةَ: رجلٍ من الأَسْد. قال:\nفقرَّبَّتُ مُبْراةً تخالُ ضُلوعَها … مِنْ الماسخيّاتِ القِسِىَّ المُوَتَّرا (٢)",
+ "az": "[مسخ] (Məsəh) Mim, sin və xa hərfləri iki sözdür: Biri əl-məsh (المَسْخ) olub, sifətin pozulmasına və şeyin dadının azlığına dəlalət edir. «Məsəhahu Allahu» (مَسَخَه اللّه) — Allah onun xilqətini gözəl surətdən çirkin surətə dəyişdi (şəklini pozdu). Rəcül məsixun (رجل مَسيخٌ) — heç bir cazibəsi, duzu olmayan adam. Təamun məsixun (طعامٌ مَسيخٌ) — nə duzu, nə də dadı olan yemək. Şair demişdir: وأنت مسيخٌ كلَحْم الحُوارِ … فَلَا أنتَ حُلوٌ ولا أنتَ مُرّ (1) (Sən balaca dəvənin əti kimi dadsızsan... nə şirinsən, nə də acı). Deyirlər: «Məsəhtu ən-naqətə» (مَسَخْتُ النّاقَة) — dəvəni tez-tez qovmaqla arıqlatdın, taqətdən saldın. Digər söz isə: əl-qisi əl-masixiyyə (القِسِىُّ الماسِخيّة) — Əsd qəbiləsindən olan Məsi-xə (ماسِخة) adlı kişiyə nisbət edilən yaylardır. Şair demişdir: فقرَّبَّتُ مُبْراةً تخالُ ضُلوعَها … مِنْ الماسخيّاتِ القِسِىَّ المُوَتّرا (2) (O, elə bir yonulmuş yay yaxınlaşdırdı ki, onun qabırğalarını masixiyyət yayları kimi zərlənmiş ox yayları zənn edərsən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3212,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 34,
+  "page_to": 34
+ },
+ "ar": "القاف والنون والفاء أُصَيلٌ يدلُّ على تجمُّعٍ فى شئ. من ذلك القَنِيف: الجَمَاعة من النَّاس. والقَنِيف، فيما ذكره ابن دريد (١): القِطعة من اللَّيْل. يقال: مرَّ قَنِيفٌ من اللَّيل.\nومن الباب: القَنَف: صِغَرُ الأُذُنَين وغِلَظُهما. وهو ذلك القياس، وكذلك القِنَاف، وهو الغليظ الأَنْف.",
+ "az": "[قنف] Qaf, nun və fa kiçik bir əldir, bir şeydə toplanmağa dəlalət edir. Bunlardandır əl-qənif (القَنِيف): insanlardan ibarət qrup. Və əl-qənif (القَنِيف), İbn Dureydin qeyd etdiyi kimi (١): gecənin bir hissəsi. Deyilir: «مرَّ قَنِيفٌ من اللَّيل» (Gecənin bir hissəsi keçdi).\nVə bu fəsildəndir: əl-qanəf (القَنَف): qulaqların kiçikliyi və yoğunluğu. Bu da həmin qiyasdandır, həmçinin əl-qinaf (القِنَاف) də buradandır, o da burnu yoğun olandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.256Z"
+}

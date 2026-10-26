@@ -1,0 +1,17 @@
+{
+ "i": 3126,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فسر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 504,
+  "page_to": 504
+ },
+ "ar": "الفاء والسين والراء كلمة واحدة تدلُّ على بيانِ شئ وإيضاحِه.\nمن ذلك الفَسْرُ، يقال: فَسَرْتُ الشَّئ وفسَّرتُه. والفَسْر والتَّفسِرَة: نظَر الطَّبيب إلى الماء وحُكمهُ فيه. واللّه أعلم بالصَّواب.",
+ "az": "[فسر] الفاء والسين والراء كلمة واحدة تدلُّ على بيانِ شئ وإيضاحِه (Fə, sin və ra tək bir söz olub bir şeyin bəyan edilməsinə və izah olunmasına dəlalət edir). من ذلك الفَسْرُ (Ondandır əl-fəsr): يقال (deyilir): فَسَرْتُ الشَّئ وفسَّرتُه (mən şeyi fəsrtim və fəssərtüm — izah etdim). والفَسْر والتَّفسِرَة (Və əl-fəsr və ət-təfsirə): نظَر الطَّبيب إلى الماء والحُكم فيه (həkimin sidiyə baxıb onun barəsində hökm verməsidir). واللّه أعلم بالصَّواب (Ən doğrusunu Allah bilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.151Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3698,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لغو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 255,
+  "page_to": 256
+ },
+ "ar": "اللام والغين والحرف المعتلّ أصلانِ صحيحان، أحدهما يدلُّ على الشَّيءِ لا يُعتدُّ به، والآخَر على اللَّهَج بالشَّيء.\nفالأوَّل اللَّغْو: ما لا يُعْتَدُّ به من أولادِ الإبِل في الدِّيَة. قال الغبدىّ (٤):\nأو مائةٍ تُجعَلُ أولادها … لَغْوًا وعُرْضَ المائةِ الْجَلمدِ (٥)\nيقال منه لغَا يلْغُو لَغْوًا. وذلك في لَغْو الأيمان. واللَّغا هو اللَّغو (٦) بعينهِ. قال اللّه تعالى: ﴿لا يُؤاخِذُكُمُ اَللّهُ بِاللَّغْوِ فِي أَيْمانِكُمْ﴾، أي ما لم تَعقِدوه بقلوبكم.\nوالفقهاء يقولون: هو قولُ الرّجل لا واللّه، وبَلى واللّه. وقوم يقولون: هو قولُ\nالرّجُل لسوادٍ مُقْبِلاً: واللّه إنّ هذا فلانٌ، يظنُّه إياه، ثم لا يكون كما ظنّ. قالوا:\nفيمينه لغوٌ، لأنّه لم يتعمَّد الكذِب.\nوالثاني قولهم: لَغِيَ بالأمر، إذا لَهِجَ به. ويقال إنّ اشتقاق اللُّغة منه، أي يَلْهَجُ صاحبُها بها.",
+ "az": "«لغو» — lam, ğayn və zəif hərf iki səhih əslə malikdir: biri əhəmiyyət verilməyən şeyə, digəri isə bir şeyə düşkün olmağa dəlalət edir.\n\nBirincisi, «اللَّغْو» (al-lağw) — diyə (qan pulu) məsələsində dəvə balalarından hesaba alınmayanlar. Qəbdi (٤) demişdir:\nأو مائةٍ تُجعَلُ أولادها … لَغْوًا وعُرْضَ المائةِ الْجَلمدِ (٥)\n(Və ya yüz dəvə ki, onların balaları heç saullanılmasın və sərt yüzlüyün arasında heç sayılmasın).\nOndan «لغَا يلْغُو لَغْوًا» (lağa yalğu lağwan) deyilir. Bu, «لَغْو الأيمان» (lağw al-ayman) — faydasız andlarda olur. «اللَّغا» (al-lağa) eynilə «اللَّغو» (al-lağw) deməkdir. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿Allah sizi andlarınızdakı lağvə [boş yerə edilən andlara] görə məsuliyyətə cəlb etməz﴾ (Qurani-Kərim, 2:225), yəni qəlblərinizlə bağlamadığınız [niyyət etmədiyiniz] andlara görə.\n\nFəqihlər deyirlər ki, bu, kişinin «Yox, Allaha and olsun» və «Bəli, Allaha and olsun» deməsidir. Bəzi qövmlər deyirlər ki, bu, kişinin yaxınlaşan qaraltıya baxıb: «Allaha and olsun ki, bu filankəsdir» - deyərək onun elə olduğunu zənn etməsi, sonra isə zənn etdiyi kimi çıxmamasıdır. Onlar demişlər ki, onun andı lağvdir [hökmsüzdür], çünki o, yalan danışmaq niyyətində olmamışdır.\n\nİkincisi, onların «لَغِيَ بالأمر» (laġiya bi-al-amr) sözüdür, yəni ona düşkün oldu, bağlandı. Deyilir ki, «اللُّغة» (al-luġah) sözünün kökü də elə bundandır, yəni sahibinin ona düşkün olması.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

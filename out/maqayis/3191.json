@@ -1,0 +1,17 @@
+{
+ "i": 3191,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قمه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 23,
+  "page_to": 24
+ },
+ "ar": "القاف والميم والهاء فيه كلماتٌ ليست بأصليَّة. يقولون: قَمَهَ الشّئُ، إذا انْغَمَس فى الماء فارتفَعَ حيناً وغابَ حيناً. وقِفاف قُمَّه. تَغيبُ فى السَّراب وتظهر. وهذا فى الإبدال، وأصله قُمَّس. ويقولون: قَمَهَ البعيرُ مثل قَمَحَ، إذا رفَعَ رأسَه ولم يشرب الماءَ، هو من الإبدال.\nوكلمةٌ أخرى من المقلوب، قال ابن دُرَيْد (١): القَمَه مثل القَهَم، وهو قِلّةُ الشَّهوة للطّعام، قَهِمَ وقَمِه.",
+ "az": "[قمه] \nالقاف والميم والهاء (قاف, mim və hər) — burada əsli olmayan bəzi kəlmələr vardır. Deyirlər: قَمَهَ الشّئُ — şey suya batıb gah üzə çıxdı, gah da batdı. \nQifaf qummə (سراب - səhra ilğımında itib-batan təpələr). Səhra ilğımında batır və üzə çıxır. Bu, hərf dəyişməsi (ibdal) yoluyladır, əsli isə قُمَّس-dir. \nDeyirlər: قَمَهَ البعيرُ (dəvə başını qaldırdı) قَمَحَ kimidir, başını qaldırıb su içmədi, bu da ibdaldandır.\n\nBaşqa bir söz isə tərs çevrilmək (mqlub) yoluyladır, İbn Dürəyd (١) demişdir: \nالقَمَه — القَهَم kimidir, bu da yeməyə iştahsızlıqdır, قَهِمَ və قَمِه.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:44.429Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4488,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وحش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 91,
+  "page_to": 92
+ },
+ "ar": "الواو والحاء والشين: كلمةٌ تدلُّ على خلاف الأنس.\nتوحَّش: فارَقَ الأنيس. والوَحْش: خلاف الإنس. وأرضٌ مُوحِشَةٌ، من الوَحْش. ووَحشىُّ القَوس: ظَهْرُها؛ وإنسيُّها: ما أقبَلَ عليك. ووَحْشِىُّ الدَّابّة فى قول الأصمعىّ: الجانبُ الذى يَرْكَب منه الرَّاكبُ ويحتلِبُ الحالب. قال:\nوإنَّمَا قالوا:\n* فجال على وحشيِّه (٢) *\nو:\n* انصاع جانُبه الوَحشىُّ (٣) *\nلأنّه لا يُؤتَى فى الرُّكوب والْحَلَب والمعالجة إلاَّ منه، فإنَّما خوفُه منه، والإنسىّ: الجانِب الآخَر.\nويقولون: لقيتُ فلاناً بوحْشِ إِصْمِتَ، أى ببلدٍ قَفْر. ويقال: وَحَش بثَوْبه (١) رمى به. وبات الوَحْشَ (٢)، أى جائعاً: كأنَّه كان بأرضٍ وَحْش لا يجد ما يأكلُه.",
+ "az": "[وحش] الواو والحاء والشين (və, ha və şin) — ünsiyyətin ziddinə dəlalət edən sözdür. تَوَحَّشَ (vəhşiləşdi): ünsiyyətli olandan ayrıdı. الْوَحْشُ (vəhşi) — ünsiyyətin ziddidir. أَرْضٌ مُوحِشَةٌ (vəhşi və qorxunc yer), vəhşidən götürülüb. وَحْشِيُّ الْقَوْسِ (yayın vəhşi tərəfi): onun arxasıdır; İNSİYYÜHƏ (ünsiyyətli tərəfi) isə sənə tərəf baxan tərəfidir. Əsməiyə görə heyvanın وَحْشِيُّ (vəhşi tərəfi): minicinin mindiyi və sağıcının sağdığı tərəfdir. O demişdir: Və ona görə də demişlər: * فَجَالَ عَلَى وَحْشِيِّهِ (٢) * (Vəhşi tərəfi üzərində fırlandı) və * انْصَاعَ جَانِبُهُ الْوَحْشِيُّ (٣) * (Onun vəhşi tərəfi uzaqlaşdı), çünki minikdə, sağıımda və digər işlərdə məhz həmin tərəfdən yanaşılır, buna görə də onun qorxusu məhz ordandır, insi tərəfi isə digər tərəfdir. Deyirlər: لَقِيتُ فُلَانًا بِوَحْشِ إِصْمِتَ (filankəslə İsmit çölündə, yalqız yerdə qarşılaşdım) — yəni susuz və səhra bir ölkədə. Deyilir: وَحَشَ بِثَوْبِهِ (١) (paltarını ata tulladı) — onu tulladı. وَبَاتَ الْوَحْشَ (٢) (ac yatdı) — sanki o, yeyəcək heç nə tapmadığı vəhşi bir yerdə gecələmiş kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

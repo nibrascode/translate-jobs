@@ -1,0 +1,17 @@
+{
+ "i": 4058,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 393,
+  "page_to": 393
+ },
+ "ar": "النون والجيم والراء أصلان: أحدهما تسويةُ الشّيء وإصلاحُ قَدرِه، والآخر جِنسٌ من الأدواء.\nالأوّل نَجْر الخشبِ، ونَجَره نَجْرًا، وفاعله النَّجَّار، وهو منه، كأنّه شيء سُوِّي (١). نَجَره نجراً. وكذا النَّجْر: الطَّبْع. ويقولون - وما أدري كيف صِحّته -:\nإنَّ نَجْران البابِ: الخشَبة الذي يدور فيها.\nوالأصل الآخر النَّجَر، قالوا: نَجِرَت الإبلُ: عَطِشَت، ويقال مَجرت (٢)، هو أن تَشرَب فلا تَرْوَى، وذلك يكون من أكل الحِبَّة. وحكى الخليلُ النّجْران:\nالعَطشان. قالوا: وشهرُ ناجرٍ من هذا، لأنَّ الإبل تَنْجَر فيه. قال ابنُ السِّكِّيت:\nالنَّجَر: أن يشرَبَ الإنسانُ اللّبَنَ الحامِضَ فلا يَرْوَى من الماء.",
+ "az": "«نجر» (n-j-r): nun, cim və ra hərfidir, iki əsas mənaya malikdir: biri bir şeyin düzəldilməsi və səviyyəsinin (ölçüsünün) qaydaya salınması, digəri isə xəstəliklər növüdür. Birincisi – taxtanı «نَجْر» (nəhr etmək, yoncmaq), onu «نَجَرَهُ نَجْرًا» (yoncaqla yoncdu), onun icraçısı isə «النَّجَّار» (nəccar, dülgər) adlanır. Bu da həmin mənadandır, guya səliqəyə salınmış bir şeydir (١). Onu yoncdu. Həmçinin «النَّجْر» (ən-nəhr) – təbiət, xislət deməkdir. Belə deyirlər – və bunun nə dərəcədə səhih olduğunu bilmirəm: Qapının «نَجْرَان» (nəcranı) – içərisində fırlandığı taxtadır. Digər əsas isə «النَّجَر» (ən-nəcər) sözüdür. Belə demişlər: «نَجِرَت الإبلُ» (nəcirət əl-ibl) – dəvələr susadı, həmçinin «مَجَرَت» (məcirət) də deyilir (٢). Bu odur ki, dəvə su içir, lakin doymur, bu da «حِبَّة» (həbbə) otunu yeməkdən baş verir. Xəlil «النَّجْرَان» (ən-nəcran) sözünü susamış mənasında rəvayət etmişdir. Həmçinin demişlər ki, «ناجر» (nəcir) ayı bundan götürülmüşdür, çünki dəvələr həmin ayda susayırlar («تَنْجَر»). İbn əs-Sikkit demişdir: «النَّجَر» (ən-nəcər) – insanın turş süd içməklə sudan doymamasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:41.627Z"
+}

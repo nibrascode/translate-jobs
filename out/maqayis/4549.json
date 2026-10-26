@@ -1,0 +1,17 @@
+{
+ "i": 4549,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 112,
+  "page_to": 112
+ },
+ "ar": "الواو والشين والظاء: قياسٌ واحد، وهو إلصاقُ شئِ بشئٍ ليس منه. والوَشِيظ: عُظَيم يكون زيادةً فى العَظْم الصَّميم، ولذلك يقال لمن انتَمَى (٢) إلى قومٍ ليس منهم: وَشِيظ. وَشَظْتُ الفَأسَ أشِظُها: ضَيَّقْت خُرْتَها من عَيْر (٣) نِصابها. واللّه أعلم بالصواب.",
+ "az": "«وشظ» الواو والشين والظاء (vav, şin və za): bir şeyə aid olmayanı ona yapışdırmaq mənasında tək bir qiyasdır. الوَشِيظ (əl-vəşiz) - əsl sümükdəartıq olan kiçik sümükdür. Məhz buna görə özlərindən olmayan bir qövmə nisbət olunan kəsə وَشِيظ (vəşiz) deyilir. وَشَظْتُ الفَأسَ أشِظُها (vəşəztü əl-fə’sə əşizuhə) - balta sapının gözündən (deşiyindən) baltanın gözünü daraltdım (٣). Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

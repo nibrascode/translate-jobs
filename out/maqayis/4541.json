@@ -1,0 +1,17 @@
+{
+ "i": 4541,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وسق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 109,
+  "page_to": 109
+ },
+ "ar": "الواو والسين والقاف: كلمةٌ تدلُّ على حَمْل الشئ. ووَسَقَتِ العينُ الماءَ: حَمَلَتْه (١). قال اللّه سبحانه: ﴿وَاَللَّيْلِ وَما وَسَقَ﴾، أى جَمَعَ وحَمل.\nوقال فى حَمْل الماء:\nوإنِّى وإيَّاهم وشَوقاً إليهُم … كقابِضِ ماء لم تَسِقْهُ أناملُه (٢)\nومنه الوَسْق، وهو سِتون صاعا. وأوسَقْت البعير: حَمَّلُته حِمْلَه. قال:\n* وأينَ وَسْقُ النَّاقةِ المُطَّبَعهْ (٣) *\nومما شذَّ عنه طائرٌ مِيساقٌ، وهو ما يصفِّق بجناحَيه إذا طار. وقد يُهَمز وقد ذكرناه (٤).",
+ "az": "«وسق» الواو والسين والقاف (vav, sin və qaf): bir şeyi daşımağa dəlalət edən kəlmədir. وَسَقَتِ العينُ الماءَ (vəsəqəti əl-aynu əl-māə) - göz suyu daşıdı (yığdı) (١). Uca Allah Sübhənəhu buyurmuşdur: mənaca tərcümə: ﴿وَاَللَّيْلِ وَما وَسَقَ﴾ (And olsun gecəyə və onun topladığına və ya daşıdığına). Suyun daşınması barəsində demişdir:\nوإنِّى وإيَّاهم وشَوقاً إليهُم … كقابِضِ ماء لم تَسِقْهُ أناملُه (٢)\n(Həqiqətən, mən və onlar, həmçinin onlara olan həsrətlə… barmaqlarının saxlaya bilmədiyi suyu ovcunda tutan kimsə kimi)\nBundandır الوَسْق (əl-vəsq) - o da altmış sazdır. أوسَقْتُ البعيرَ (əvsəqtü əl-bə’irə) - dəvəyə yükünü yüklədim. O demişdir:\n* وأينَ وَسْقُ النَّاقةِ المُطَّبَعهْ (٣) *\n(Haradadır adətlənmiş dəvənin yükü?)\nBuna uyğun gəlməyən (şaz olan): مِيساقٌ (mīsāq) quşudur; bu da uçarkən qanadlarını çırpan quşdur. Bəzən həmzələnər də, bunu artıq zikr etmişik (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

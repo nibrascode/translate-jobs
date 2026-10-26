@@ -1,0 +1,17 @@
+{
+ "i": 3863,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مسط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 320,
+  "page_to": 320
+ },
+ "ar": "الميم والسين والطاء أصلٌ صحيح يدلُّ على خَرْط شيءٍ رطْبٍ (١)، وعلى امتدادهِ من تِلقاءِ نَفْسه.\nيقال إنَّ المَسيطَةَ (٢): ما يبقى في الحوض من الماء بكُدورةٍ قليلة. قال الأصمعىّ بئر ضَغِيط، وهو الرَّكِىُّ إلى جَنْبِهِ ركىٌّ آخر فيَحمأُ فيُنْتن فيسيلُ في الماء العذب فلا يُشرب، فالبئر ضَغيط، وذلك الماء مَسِيط. قال:\nيَشْرَبْنَ ماءَ الآجِنِ الضَّغيطِ … ولا يَعَفْنَ كَدَر المَسِيط (٣)\nومن الباب المَسْط: أن تَخرِطَ في السِّقاء من لبنٍ خاثرٍ بأصابعك ليخثُر",
+ "az": "[مسط] (Məsət) Mim, sin və ta hərfləri nəm bir şeyi sıxıb suyunu çıxarmağa (1) və onun öz-özünə uzanmasına dəlalət edən səhih kökdür. Deyilir ki, المَسيطَة (əl-məsitə) — hovuzda azacıq bulanıqlıqla qalan sudur. Əsməi demişdir: «biyr zəğit» (بئر ضَغِيط) — elə quyudur ki, onun yanında başqa bir quyu olur, nəticədə su qıcqırır, üfunət iy verir, şirin suya axır və o su içilməz olur; beləliklə, quyu zəğit, həmin su isə məsit olur. O demişdir: يَشْرَبْنَ ماءَ الآجِنِ الضَّغيطِ … ولا يَعَفْنَ كَدَر المَسِيط (3) (Onlar üfunətli və zəğit su içirlər... və məsitin bulanıqlığına diksinmirlər). Bu babdandır: مَسْط (əl-məst) — qatıqdan qatı südü barmaqlarınızla sıxıb çıxarırsınız ki, daha da qatılaşsın.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

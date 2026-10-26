@@ -1,0 +1,17 @@
+{
+ "i": 4585,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وظب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "الواو والظاء والباء: كلمةٌ تدلُّ على مداوَمَة. يقال وَظَبَ يَظِبُ وَظْباً. ووَاظَبْتُ على الشَّئ مُواظَبةً، وهى المداوَمَة. ويقال: أرضٌ مَوظوبةٌ، أى استقْصَتْ الرّاعية رَعْيَها (١)، وهى من القياس الذى ذكرناه. واللّه أعلمُ بالصَّواب",
+ "az": "[وظب] الواو والظاء والباء: davamlılığa dəlalət edən tək sözdür. Deyirlər: وَظَبَ يَظِبُ وَظْباً (Davamlı oldu). Və مُواظَبَةً ilə وَاظَبْتُ على الشَّئ (Bir şeyə davam etdim), bu da ardıcıl olmaq deməkdir. Və deyirlər: أرضٌ مَوظوبةٌ (Otlaq heyvanları tərəfindən tam otlanılmış yer) (١), bu da qeyd etdiyimiz qiyasdandır. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.841Z"
+}

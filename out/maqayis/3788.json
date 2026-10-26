@@ -1,0 +1,17 @@
+{
+ "i": 3788,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "متر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 293,
+  "page_to": 293
+ },
+ "ar": "الميم والتاء والراء. يقولون، وما أدري ما هو: مَتَرْتُ الشَّيءَ:\nقطعته؛ ولعله من الإبدال. وقال ابن دريد (١): مَتَرْتُه مَتْراً. وامْتَرَّ الحبلُ: امتدَّ.",
+ "az": "[متر] (mim, ta və ra). Onlar deyirlər, lakin bunun nə olduğunu bilmirəm: مَتَرْتُ الشَّيءَ (matertul-şeyə): onu kəsdim; ola bilər ki, bu hərf əvəzlənməsindən (ibdaldan) irəli gəlsin. İbn Dureyd (١) demişdir: مَتَرْتُه مَتْراً (matertuhu matran). Və امْتَرَّ الحبلُ (imtarral-hablu): ip uzandı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

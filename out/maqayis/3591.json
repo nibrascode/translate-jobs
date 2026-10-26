@@ -1,0 +1,17 @@
+{
+ "i": 3591,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لوز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 221,
+  "page_to": 221
+ },
+ "ar": "اللام والواو والزاء كلمةٌ، وهي اللَّوْز.",
+ "az": "«لوز» (لوز): اللام والواو والزاء كلمة، وهي اللوز (Lam, vav və zay bir kəlmədir ki, o da «əl-ləvz» - badamdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.899Z"
+}

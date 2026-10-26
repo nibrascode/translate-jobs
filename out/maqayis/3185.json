@@ -1,0 +1,17 @@
+{
+ "i": 3185,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قلص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 21,
+  "page_to": 21
+ },
+ "ar": "القاف واللام والصاد أصلٌ صحيحٌ يدلُّ على انضمامِ شئ يعضِه إلى بعض. يقال: تقلَّصَ الشَّئُ، إذا انضمَّ. وشَفَةٌ قالِصَة. وظلٌّ قالصٌ، إذا نَقَصَ، وكأنَّه تضامَّ. قال تعالى (٢): ﴿ثُمَّ قَبَضْناهُ إِلَيْنا قَبْضاً يَسِيراً﴾. وأمَّا قَلَصَةُ الماءِ فهو الذى يَجِمُّ فى البئر منه حتى يرتفع، كأنه تقلّص من جوانبه. وهو ماء قليص. وجَمْعُ القَلَصَة قَلَصَات. ويقولون: قَلَصَتْ نَفْسُه: غَثَتْ. وقياسُه قريب.\nفأمَّا القَلُوصُ، فهى الأُنثى من رِئال النَّعام. وعندى أنَّها سُمِّيت قَلوصاً لتجمُّع خَلْقِها، كأنَّها تقلَّصَتْ من أطرافها حتَّى تجمَّعت. وكذلك أُنثى الْحُبارَى. وبها سمِّيَت القَلُوصُ من الإبل، وهى الفتيَّة المجتمعة الخَلق. ويقال: قَلَصَ الغدير (٣)، إذا ذَهَبَ أكثرُ مائِه.",
+ "az": "[قلص] (qaf, lam və sad) — bir şeyin bəzi hissələrinin digərinə qapanmasına dəlalət edən səhih bir kökdür. Deyilir: تقلَّصَ الشَّىءُ (şey təqəlləs etdi), o zaman ki, qapandı (yığıldı). وَشَفَةٌ قالِصَةٌ (şəfatun qalisətun - yığılmış dodaq). وَظِلٌّ قالِصٌ (zillun qalisun) — azalan kölgə, o sanki bir-birinə yığılmışdır. Təala demişdir (٢): ﴿ثُمَّ قَبَضْناهُ إِلَيْنا قَبْضاً يَسِيراً﴾ (mənaca tərcümə: «Sonra onu yüngülcə Özümüzə tərəf yığdıq»). Su qələsətünə gəlincə (قَلَصَةُ الماءِ), o, quyuda yığılıb yüksələn sudur, sanki kənarlarından yığılmışdır. O, قليص (qəlis) sudur. Qaləsətin cəmi قَلَصَاتٌ (qələsat) gəlir. Deyirlər: قَلَصَتْ نَفْسُهُ (nəfsuhu qələsət): ürəyi bulandı. Onun qiyası yaxındır. القَلُوصُ (əl-qaluçu) gəlincə, o, dişi dəvəquşudur. Məncə o, xilqətinin toplanmasına görə qaluç adlanmışdır, sanki o, tərəflərindən yığılaraq bir yerə toplanmışdır. Eləcə də dişi hübəra quşu. Dəvələrdən olan القَلُوص (əl-qaluç) da bununla adlanmışdır, o da xilqəti bir yerə yığılmış cavan dişi dəvədir. Deyilir: قَلَصَ الغَديرُ (qələşal-ğadir), o zaman ki, suyunun çoxu getdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:25.025Z"
+}

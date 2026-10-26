@@ -1,0 +1,17 @@
+{
+ "i": 3991,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 368,
+  "page_to": 368
+ },
+ "ar": "النون والواو والخاء كلمةٌ واحدة، وهي أنَخْتُ الجَمَل. فأمَّا فِعل المطاوَعة منه فقالوا: أنَخْتُه فبَرَك، وقال آخرون: استناخ. وجاء\nفي الحديث:\n«وإن أُنيخَ على صخرةٍ استناخ». وقال الأصمعىّ أنختُه فتَنَوَّخ.",
+ "az": "[نوخ] (nuh) - nun, vav və xa tək bir kəlmədir, o da أنَخْتُ الجَمَل (ənəhtul-cəməl - dəvəni çökdürdüm) sözüdür. Onun tabe olma (mütavəh) feilinə gəldikdə isə, demişlər: أنَخْتُه فبَرَك (Mən onu çökdürdüm, o da diz çökdü), başqaları isə استناخ (istənəhə) demişlər. Və hədisdə gəlmişdir: «وإن أُنيخَ على صخرةٍ استناخ» (Əgər qayanın üzərində çökdürülərsə, diz çökər). Əsməi demişdir: أنختُه فتَنَوَّخ (Mən onu çökdürdüm, o da diz çökdü).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3658,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لخج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 242,
+  "page_to": 242
+ },
+ "ar": "اللام والخاء والجيم. يقولون: لَخِجَتْ عينه، إذا التزقت.\nواللَّخَج: أسْوَأ الغَمَص، وليس هذا عندي مُشْبِهاً كلام العرب.",
+ "az": "[لخج] (Ləhəcə) — Lam, xə və cim. Deyirlər: «لَخِجَتْ عينه» (ləhicət eynuhu) — onun gözü yapışdı. وَاللَّخَج (əl-ləhəc) — çirkli qırğın ən pisidir. Bu isə mənə görə ərəblərin kəlamına bənzəmir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

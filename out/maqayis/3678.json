@@ -1,0 +1,17 @@
+{
+ "i": 3678,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لصغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 248,
+  "page_to": 248
+ },
+ "ar": "اللام والصاد والغين ليس بشيء. على أنّهم يقولون لَصَغ الجِلد (٥): يَبِس على العَظْم عَجَفًا (٦).",
+ "az": "[لصغ] (ləsəğ) — lam, sad və ğayn heç bir şey deyil. Lakin onlar dərinin arıqlıqdan sümüyə yapışıb qurumasını bildirmək üçün لَصَغ الجِلد (ləsəğə əlcild) (٥) (٦) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

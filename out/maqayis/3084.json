@@ -1,0 +1,17 @@
+{
+ "i": 3084,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فخذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 481,
+  "page_to": 481
+ },
+ "ar": "الفاء والخاء والذال كلمةٌ واحدة، وهى الفَخِذ من الإنسان، معروفة، واستعير * فقيل الفَخْذ بسكون الخاء، دون القَبِيلة وفوق البَطْن، والجمع أفخاذ.",
+ "az": "«فخذ» (fə-x-ذ): Fə, xə və ðal hərfləri tək bir kəlmədir, o da insandakı məlum «الفَخِذ» (fəxid) - buddur, [məcazi olaraq] ondan törəmişdir, x-ı sukunla «فَخْذ» (fəxd) - qəbilədən kiçik, qarın bölgəsindən yuxarı olan soy qolu mənasında işlənir, cəmi isə «أفخاذ» (əfxad) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.849Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4304,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 27,
+  "page_to": 28
+ },
+ "ar": "الهاء والباء والتاء كلمةٌ تدلُّ على ضَربِ متتابع. وهُبِتَ الرَّجل يُهْبَتُ. وفلانٌ مهبوتٌ، أى لا عقلَ له، ثمَّ سمِّى الجبانُ الضَّعيف هَبيتاً، كأنه قد هُبِتَ. قال طَرَفة:\nفالهَبِيتُ لا فؤادَ له … والثبيتُ ثَبْتُهُ فَهَمُه (١)",
+ "az": "[هبت] (hə-bə-tə): Hə, ba və ta ardıcıl vurmağa dəlalət edən kəlmədir. هُبِتَ الرَّجل يُهْبَتُ (hübita ər-racü lü yühbətu) – kişi əzilərək döyüldü. فلانٌ مهبوتٌ (fəlanün məhbutün) – yəni, ağlı yoxdur. Sonra zəif, qorxaq adam هَبِit (həbit) adlandırılmışdır, elə bil o döyülüb əzilmidi. Tərəfə demişdir:\nفَالهَبِيتُ لَا فُؤَادَ لَهُ … وَالثَّبِيتُ ثَبْتُهُ فَهَمُهُ (١)\n(Mənası: Qorxaq və zəifin qəlbi yoxdur, səbatlı isə öz yerində sabit və anlayışlıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

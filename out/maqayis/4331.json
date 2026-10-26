@@ -1,0 +1,17 @@
+{
+ "i": 4331,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هجع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 36,
+  "page_to": 36
+ },
+ "ar": "الهاء والجيم والعين: كلمةٌ تدلُّ على نَوم وهَجَع هُجوعاً:\nنام ليلاً. ولقيتُه بعد هَجعةٍ.\nومما قِيسَ على هذا: رجلٌ هجع (٥)، أى أحمقُ مُستَنِيمٌ إلى كُلٍّ.",
+ "az": "[هجع] الهاء والجيم والعين: كلمةٌ تدلُّ على نَوم (Hə, cim və ayn: yuxuya dəlalət edən bir kəlmədir) وهَجَع هُجوعاً: نام ليلاً (və həcəcə hucuen: gecə yatdı). ولقيتُه بعد هَجعةٍ (Və mən ona bir müddət yuxudan [gecənin bir hissəsindən] sonra rast gəldim). ومما قِيسَ على هذا: رجلٌ هجع (٥) (Və buna qiyas edilənlərdəndir: həcə - yuxulu adam), أى أحمقُ مُستَنِيمٌ إلى كُلٍّ (yəni hər kəsə inanan axmaq).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:57.624Z"
+}

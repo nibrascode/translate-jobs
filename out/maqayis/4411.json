@@ -1,0 +1,17 @@
+{
+ "i": 4411,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "همد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 65,
+  "page_to": 65
+ },
+ "ar": "الهاء والميم والدال: أصلٌ يدلُّ على خمودِ شئ. وهَمَدت النار:\nطَفِئَتْ البَتّة. وأرضٌ هامدة: لا نباتَ بها (١). ونباتٌ هامد: يابس.\nوالإهماد: الإفامة بالمكان.\nومما شذَّ عن هذا الباب قول من قال: إنَّ الإهماد: السُّرعة فى المَشْى.\nقال:\n* ما كانَ إلاَّ طَلَقُ الإهمادِ (٢) *",
+ "az": "«همد» (həməd): Hə, mim və dal hərfləri bir şeyin sönməsinə dəlalət edən bir əsldir. وهَمَدت النار (od söndü): tamamilə söndü. وأرضٌ هامدة (bitkisiz torpaq): üzərində bitki olmayan torpaq (١). ونباتٌ هامد (qurumuş bitki): quru bitki. والإهماد (əl-ihmad): bir yerdə qərar tutmaq. Bu fəsildən istisna olaraq gələn söz isə İhmadın — səs-küydə və gəzintidə sürətli olmaq mənasını verdiyini söyləyənin sözüdür. Şair demişdir: * ما كانَ إلاَّ طَلَقُ الإهمادِ (٢) * (Bu, yalnız sürətli gedişin buraxılması idi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

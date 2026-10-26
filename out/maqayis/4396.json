@@ -1,0 +1,17 @@
+{
+ "i": 4396,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هكم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 59,
+  "page_to": 59
+ },
+ "ar": "الهاء والكاف والميم تدلُّ على تفحُّمٍ وتهدُّم. وهَكَم هَكْماً:\nتقَحَّمَ على النَّاس وتعرَّضَهم بشَرّ. والتهكُّم: التَّهزُّؤ: وتهكَّمَتِ البِئرُ: تهدَّمت.",
+ "az": "[هكم] (hə-kə-mə): Hə, kaf və mim hərfləri kömürləşməyə və dağılmağa dəlalət edir. «هَكَم هَكْماً» (həkəm həkmən) — insanların üzərinə hücum etdi və onlara şər ilə toxundu. «التهكُّم» (ət-təhəkküm) — istehza etmək. «تهكَّمَتِ البِئرُ» (təhəkkəmətil-biirü) — quyu uçuldu, dağıldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

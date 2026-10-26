@@ -1,0 +1,17 @@
+{
+ "i": 4209,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 463,
+  "page_to": 463
+ },
+ "ar": "النون والفاء والطاء: ثلاثُ كلماتٍ: النِّفط معروف، مكسور النون. والنَّفَط: قَرْحٌ يخرج في اليَدِ من العمل. ونَفَطَ الصَّبِيُّ نَفِيطًا:\nصَوّت. وما له عافطَةٌ ولا نافطة. فالنّافطة: الشاة تَنْفِط من أنْفها.",
+ "az": "[نفط] (nəfət): Nun, fa və ta hərfləri üç kəlmədən ibarətdir: النِّفط (ənnifd) – məlumdur, nun hərfi kəsrəlidir. النَّفَط (ənnəfəd) – əməkdən əllərdə əmələ gələn qabarcıq yaralardır. نَفَطَ الصَّبِيُّ نَفِيطًا (nəfətəs-səbiyü nəfi-tan) – uşaq səs çıxarıb ağladı. Onun nə عافطَةٌ (əfiətün) nə də نافطة (nəfi-tətün) vardır. النّافطة (Ənnəfi-tətü) – burun səsi çıxaran qoyundur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.386Z"
+}

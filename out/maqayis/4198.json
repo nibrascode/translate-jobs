@@ -1,0 +1,17 @@
+{
+ "i": 4198,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 457,
+  "page_to": 457
+ },
+ "ar": "النون والفاء والجيم: أصلٌ يدلُّ على ثُؤُورِ شيءٍ وارتفاعِه.\nونفجَ اليَربوعُ: ثار. وأنْفَجَه صائدُه. ونَفَجَت الفَرُّوجة من بَيضها: خرجَتْ.\nوانْتَفَجَ جَنْبَا البعيرِ: ارتفعا. والنَّوَافج: مؤخَّرات الضُّلوع، واحدتها نافجة (٣).\nوالنَّفّاج: المفتخر بما ليس عنده. ونَفَجَتِ الرِّيح: جاءت بقُوَّة. والنَّفِيجة:\nالشّطبية من النَّبْع تُتَّخذ قوساً، كأنّها تنتفج على الشّجرة.",
+ "az": "[نفج] (ن، ف، ج) — bir şeyin qəfildən qabarub qalxmasına dəlalət edən əsl kökdür. نَفجَ اليَربوعُ (Səhrа siçanı yuvasından qəfildən sıçrayıb çıxdı). Və آنْفَجَه صائدُه (Ovçusu onu qorxudub qaçırtdı). نَفَجَت الفَرُّوجة من بَيضها (Cücə yumurtasından çıxdı). وَانْتَفَجَ جَنْبَا البعيرِ (Dəvənin hər iki böyrü şişib qalxdı). وَالنَّوَافج (ən-nəvafic): arxa qabırğalardır, təkliyi نافجة (naficə) olur. وَالنَّفّاج (ən-nəffac): özündə olmayan şeylərlə lovğalanan kəsdir. نَفَجَتِ الرِّيح (Külək şiddətlə əsdi). وَالنَّفِيجة (ən-nəfiycət): nəbc ağacından düzəldilən və sanki ağacın gövdəsindən qabarıb çıxmış kimi görünən yaydır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

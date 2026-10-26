@@ -1,0 +1,17 @@
+{
+ "i": 4054,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 390,
+  "page_to": 390
+ },
+ "ar": "النون والجيم والحاء أصلٌ يدلُّ على ظَفَرٍ وصِدْق وخيرٍ.\nمنه النَّجاح في الحوائج: الظَّفَر بها. وسَيْرٌ نَجِيحٌ: وشيك. ورأىٌ نجيح: صواب.\nوتناجَحَتْ أحلامهم: تتابَعتْ بصدق. وأنجَحَ اللّه طَلِبَتَك: أسعَفَك بإدراكها.",
+ "az": "«نجح» (nəcəh) — Nun, cim və hə hərfləri zəfərə, doğruluğa və xeyrə dəlalət edən bir əsasdır.\n\nBunlardandır: النَّجاح في الحوائج (hacətlərdə, ehtiyaclarda müvəffəqiyyət və zəfər qazanmaq). وَسَيْرٌ نَجِيحٌ (cəld və sürətli gediş). وَرأىٌ نجيح (doğru rəy, düzgün fikir). وَتناجَحَتْ أحلامهم (yuxuları ardıcıl və doğru çıxdı). وَأنجَحَ اللّه طَلِبَتَك (Allah istədiyini verməklə sənə kömək etdi, hacətini uğurlu etdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

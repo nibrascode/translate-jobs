@@ -1,0 +1,17 @@
+{
+ "i": 3672,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لسع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 246,
+  "page_to": 246
+ },
+ "ar": "اللام والسين والعين كلمةٌ واحدة. يقال: لَسَعَتْه الحيّةُ تَلْسَعُه لَسْعاً ويستعار فيقال: لسَعَه بلسانِه.",
+ "az": "[لسع] (Ləsəə) — Lam, sin və eyn tək bir kəlmədir. Deyilir: «لَسَعَتْه الحيّةُ تَلْسَعُه لَسْعاً» (ləsətil-hayyətu təlsəuhu ləsən) — ilan onu sancdı. Məcazi olaraq da işlənilir: «لسَعَه بلسانِه» (ləsəhuhu bilisəni) — onu dili ilə sancdı (incitdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

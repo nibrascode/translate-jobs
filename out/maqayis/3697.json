@@ -1,0 +1,17 @@
+{
+ "i": 3697,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 255,
+  "page_to": 255
+ },
+ "ar": "اللام والغين والميم كلمةٌ واحدة صحيحة، وهي المَلَاغم: ما حَوْلَ الفم. ومنه قولهم: تلغَّمت بالطِّيب (٢): جعلته هناك. قال ابن دريد: تلَغَّم بالطِّيب:\nتلطّخ (٣). فأمّا قولهم: لَغَمْتُ ألغَم لَغْماً، إذا أخبرتَ صاحبَك بشيءِ لا يَسْتَيْقِنُهُ، فهو من الإبدال، إنّما هو نَغَمْتُ بالنون. قال الخليل: لَغَمَ البعيرُ لُغامَهُ: رمَى به.",
+ "az": "«لغم» — lam, ğayn və mim tək bir səhih sözdür, o da «المَلَاغم» (al-mala'im) — ağız ətrafıdır. Və onların bu sözü buradan götürülmüşdür: «تلَغَّمت بالطِّيب» (talaqqamtu bi-at-tiyb) — ətri ora çəkdim, sürtdüm. İbn Dürid demişdir: «تلَغَّم بالطِّيب» (talaqqama bi-at-tiyb) — ətirlə bulaşdı (٣). Amma onların «لَغْتُ ألغَم لَغْماً» (lağtu alğamu lağman) sözünə gəldikdə, əgər sahibinə dəqiq bilmədiyi bir şeydən xəbər versən, bu, hərflərin əvəzlənməsidir, əslində «نغمت» (nağamtu) nun hərfi ilədir. Xəlil demişdir: «لَغَمَ البعيرُ لُغامَهُ» (lağama al-ba'iru luğamahu) — dəvə köpüyünü tulladı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4695,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 158,
+  "page_to": 158
+ },
+ "ar": "الياء واللام والباء: كلمةٌ واحدة قد اختُلِفَ فى معناها. وهى اليَلَبُ، قال قومٌ: اليَلَب: البَيْضُ من جُلودِ الإبل. وقال قومٌ: اليَلَب:\nالتُّرْس. وأنشدوا.\nعَليْهمْ كلُّ سابغَةٍ دِلاصٍ … وفى أيديهم اليَلَبُ المُدَارُ (١)\nوقال الخليل: اليَلَب: الفُولاذ. [قال]:\n* ومِحْوَرٍ أُخْلِصَ مِنْ ماءِ اليَلَب (٢) *",
+ "az": "«يلب» (Y-L-B): Mənasında ixtilaf edilmiş tək bir sözdür. Bu, اليَلَبُ (əl-yələb) sözüdür. Bəzi alimlər demişlər: El-yələb – dəvə dərisindən hazırlanmış zireh, dəbilqədir. Başqa alimlər demişlər: El-yələb – qalandır. Və belə şeir söyləmişlər: Onların üzərində hər bir tam, hamar zireh vardır və əllərində fırladılan qalxanlar var (1). Xəlil demişdir: El-yələb – poladdır. [O demişdir]: * Və elə ox oxu ki, eləb suyundan xalis çıxarılmışdır (2) *.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

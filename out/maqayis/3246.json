@@ -1,0 +1,17 @@
+{
+ "i": 3246,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قبس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 48,
+  "page_to": 48
+ },
+ "ar": "القاف والباء والسين أصلٌ صحيحٌ يدلُّ على صفةٍ من صفات النَّار، ثمَّ يستعار. من ذلك القَبَس: شُعْلَةُ النَّار. قال اللّه تعالى فى قِصَّة موسى ﵇: ﴿لَعَلِّي آتِيكُمْ مِنْها بِقَبَسٍ﴾. ويقولون: أَقْبَسْتُ الرّجُلَ عِلماً، وقَبَسْتُه ناراً.\nقال ابنُ دريد (٢): قَبَسْتُ من فلانٍ ناراً، واقتَبَسْتُ منه علماً، وأَقْبَسَنِي قَبَساً.\nومن هذا القياس قولهم: فَحْلٌ قَبِيسٌ، وذلك إذا كان سريعَ الإلقاح، كأنَّهُ شُبِّهَ بِشُعْلَةِ النّار. قال:\n* فَأُمٌّ لَقْوَةٌ وأبٌ قَبِيسُ (٣) *\nفأمَّا القِبْس فيقال إنّه الأصل.",
+ "az": "[قبس] (qəbəs). Qaf, ba və sin hərfləri od sifətlərindən bir sifətə dəlalət edən, daha sonra isə məcazi mənada işlənən səhih bir əsasdır. \nBunlardan biri القَبَس (əl-qəbəs) — alov şöləsi. Uca Allah Musa əleyhissalamın qissəsində buyurmuşdur: مənaca tərcümə: ﴿لَعَلِّي آتِيكُمْ مِنْها بِقَبَسٍ﴾ (Bəlkə mən sizə ondan bir şölə gətirərəm). Onlar deyirlər: أَقْبَسْتُ الرَّجُلَ عِلْمًا (əqbəstur-raculə ilmən) — kişiyə elm öyrətdim (öqtəbəs etdirdim), وَقَبَسْتُهُ نَارًا (və qəbəstuhu naran) — ona od verdim/yandırdım.\nİbn Dürəyd (٢) demişdir: Falandan od götürdüm (قَبَسْتُ), ondan elm əldə etdim (اقتَبَسْتُ) və o mənə od şöləsi verdi (أَقْبَسَنِي قَبَسًا).\n\nVə bu qiyasdandır onların: فَحْلٌ قَبِيسٌ (fəhlun qəbisun) — bu o zaman olur ki, o, od şöləsinə bənzədilmiş kimi sürətlə mayalandıran (damazlıq) olsun. (Şair) demişdir:\n* فَأُمٌّ لَقْوَةٌ وأبٌ قَبِيسُ (٣) *\n(Ana ləqvə, ata isə qəbisdir).\n\nQİBS (القِبْس) kəlməsinə gəldikdə isə, deyilir ki, o, əslidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

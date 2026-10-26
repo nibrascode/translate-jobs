@@ -1,0 +1,17 @@
+{
+ "i": 4353,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 46,
+  "page_to": 47
+ },
+ "ar": "الهاء والراء والشين: كلمةٌ واحدة، هى مُهارَشَة الكلابِ:\nتحريش بعضها على بعض. ومنه يُقاس التَّهريش، وهو الإفساد بين النّاس.\nومما ليس من هذا الباب هَرْشَى: هَضْبَةٌ معروفة. قال.\nخُذُوا صدرَ هَرْشَى [أو قَفَاهَا فَإنَّه … كِلَا جَانِبَىْ هَرْشَى] لهُنَّ طرِيقُ (١)",
+ "az": "[هرش] (hə-rə-şa): Hə, ra və şin – tək bir kəlmədir, o da مُهارَشَة الكلابِ (İtlərin bir-birinin üstünə qızışdırılması, dalaşdırılması). Və buradan müqayisə edilir: التَّهريش (əl-təhriş) – insanların arasını vurmaq, fitnə salmaq.\nVə bu fəsildən olmayan: هَرْشَى (Hərşa) – məşhur bir daşlıq təpə. Şair demişdir:\nخُذُوا صدرَ هَرْشَى [أو قَفَاهَا فَإنَّه … كِلَا جَانِبَىْ هَرْشَى] لهُنَّ طرِيقُ (١)\n(Hərşanın sinəsini götürün [və ya arxasını, çünki Hərşanın hər iki tərəfi də] onlar üçün yoldur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

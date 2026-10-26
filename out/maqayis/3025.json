@@ -1,0 +1,17 @@
+{
+ "i": 3025,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فوز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 459,
+  "page_to": 459
+ },
+ "ar": "الفاء والواو والزاء كلمتانِ متضادّتان. فالأولى النَّجَاة والأُخرى الهَلكة.\nفالأولى قولهم: فازَ يفوز، إذا نجا، وهو فائز. وفاز بالأمر، إذا ذهب به وخَلَص. وكان الرجلُ يقول لامرأته إذا طلّقها: فُوزِى بأمرك (١)، كما يقال:\nأمرُكِ بيدك. ويقال لمن ظَفِر بخيرٍ وذهب به. قال اللّه تعالى: ﴿فَمَنْ زُحْزِحَ عَنِ اَلنّارِ وَأُدْخِلَ اَلْجَنَّةَ فَقَدْ فازَ﴾.\nوالكلمة الأخرى قولهم: فَوِّزَ الرَّجُل، إذا مات. قال الكُميت:\nفما ضرَّها أنَّ كعباً ثَوَى … وفوّز مِنْ بعدِه جَدْوَلُ (٢)\nثم اختُلِف فى المَفَازَة، فقال قومٌ: سمِّيَتْ بذلك تفاؤلاً لراكبها بالسَّلامة والنَّجاة. والمَفَازَة: المَنْجَاة. قال اللّه عزّ وعلا: ﴿بِمَفازَةٍ مِنَ اَلْعَذابِ﴾. وقال آخرون: هى من الكلمة الثَّانية، فَوَّزَ، إذا هلَكَ. ثم يقال: فوَّز الرَّجُل، إذا ركب المَفَازَة. قال:\nفوّزَ من قُرَاقِرٍ إلى سُوَى (٣)",
+ "az": "«فوز» (fəwc/fəwz): Fə, vau və zay hərflərindən ibarət iki zidd mənalı sözdür. Birincisi nicat tapmaq, digəri isə həlak olmaqdır.\nBirincisi onların «فازَ يفوز» (fazə yefuzu) – yəni nicat tapdı, o, xilas olandar, sözüdür. «فاز بالأمر» (fazə bi əl-əmr) — işi əldə edib ona nail oldu. Kişi zövcəsini boşayarkən ona belə deyərdi: «فُوزِى بأمرك» (fuzi bi əmrik) — yəni işin öz əlində olsun, necə ki «işin sənin əlindədir» deyilir. Xeyir əldə edib onu aparan kimsəyə də bu de 서버ilir. Uca Allah buyurmuşdur: ﴿فَمَنْ زُحْزِحَ عَنِ اَلنّارِ وَأُدْخِلَ اَلْجَنَّةَ فَقَدْ فازَ﴾ (Kim oddan uzaqlaşdırılıb cənnətə daxil edilərsə, o, həqiqətən qurtuluşa – nicata çatmışdır).\nDigər söz isə onların «فَوِّزَ الرَّجُل» (fəwwizə ər-racül) – yəni kişi öldü, sözüdür. Kümeýt demişdir:\nFəmə ğərrəhə ənnə kabən thəwə … və fəwwizə min ba’dihi cədwəlü (٢)\n(Kəbənin həlak olması və ondan sonra Cədvəlin ölməsi ona heç bir zərər vermədi...)\nSonra «المَفَازَة» (məfazə) sözünün mənşəyi barəsində ixtilaf etmişlər. Bir qrup demişdir: O, bu adla ora girən səyyahın salamatlıq və nicat tapmasına xoş niyyət (uğurlu fal) olaraq adlandırılmışdır. «المَفَازَة» (məfazə) — nicat yeri deməkdir. Uca Allah buyurmuşdur: ﴿بِمَفازَةٍ مِنَ اَلْعَذابِ﴾ (əzabdan qurtuluş yerində). Başqaları isə demişdir: O, ikinci sözdən – həlak olmaq mənasındakı «فَوِّزَ» (fəwwizə) sözündəndir. Sonra deyilir: «فوَّزَ الرَّجُل» (fəwwizə ər-racül) — kişi səhraya (məfazəyə) daxil oldu. Şair demişdir:\nFəwwizə min quraqirin ilə suwə (٣)\n(Quraqirdən Suvaya qədər səhradan keçdi...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

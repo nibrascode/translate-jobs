@@ -1,0 +1,17 @@
+{
+ "i": 3606,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ليل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 225,
+  "page_to": 225
+ },
+ "ar": "اللام والياء واللام كلمة، وهي اللَّيل: خِلافُ النهار. يقال ليلةٌ ولَيْلات. وأمَّا اللَّيالي (١).",
+ "az": "«ليل» (ليل): اللام والياء واللام كلمة، وهي الليل: خلاف النهار (Lam, yə və lam bir kəlmədir, o da əl-leyl - gündüzün ziddi olan gecədir). يقال ليلة وليلّات (Leylə və leylat deyilir). وأما الليالي (١) (Və əl-ləyəliyə gəldikdə...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.900Z"
+}

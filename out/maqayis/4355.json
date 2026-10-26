@@ -1,0 +1,17 @@
+{
+ "i": 4355,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 47,
+  "page_to": 47
+ },
+ "ar": "الهاء والراء والضاد، سبيله سبيلُ ما قبلَه، إلاّ أنَّ أبا بكرٍ (٢) زعَم أن الهَرَض: الحَصَفُ يخرُج بالإنسان من الحَرّ. قال. وَهَرَضْتُ الثَّوْبَ: مَزَّقتُه.",
+ "az": "[هرض] (hə-rə-zə): Hə, ra və zad – hökmü özündən əvvəlki kimidir, lakin Əbu Bəkr (٢) iddia etmişdir ki, الهَرَض (əl-hərəz) – istidən insanın bədənində çıxan səpgidir. Şair demişdir. وَهَرَضْتُ الثَّوْبَ (Paltarı cırğaladım, parça-parça etdim).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

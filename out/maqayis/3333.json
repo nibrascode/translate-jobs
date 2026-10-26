@@ -1,0 +1,17 @@
+{
+ "i": 3333,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قطف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 103,
+  "page_to": 103
+ },
+ "ar": "القاف والطاء والفاء أصلٌ صحيح يدلُّ على أخْذِ ثمرةٍ من شجرة، ثم يستعار ذلك، فتقول: قَطَفت الثمرة أقْطِفُها قَطْفاً. والقِطْف: العُنقود.\nويقال: أقطَفَ الكَرْم: دنا قِطافُه. والقُطاَفة: ما يسقُط من القُطوف. ويستعار ذلك فيقال: قَطَف الدّابَّةُ يَقطِف قَطْفاً، وهو قَطوفٌ، كأنَّه من سرعة نَقْلِه قوائمَه يقطِفُ من الأرض شيئاً. وقد يقال للخَدْشِ: قَطْف؛ والمعنى قريب. [قال]:\n* ولكن وجْهَ مولاك تقطِفُ (٢) *",
+ "az": "[قطف] (qət-əf): Qaf, ta və fa hərfləri tək, səhih bir kök olub, ağacdan meyvə dərilib götürülməsini bildirir, sonra bu söz məcazi mənada işlədilir. Deyirsən: «قطفت الثمرة أقْطِفُها قطفا» (Mən meyvəni dərdim, onu dərirəm, dərmək). «القِطْف» (əl-qitf): salxım. Deyilir: «أقطف الكرم» (Tənəyin dəriləcək vaxtı yaxınlaşdı). «القُطافة» (əl-qutafə): salxımlardan tökülən meyvə qırıntılarıdır. Bu söz məcazi olaraq heyvan haqqında da işlədilir: «قطف الدابة يقطف قطفا، وهو قطوف» (Minik heyvanı yerişi zamanı addımlarını qısa atdı, o, addımları qısa olan heyvandır), sanki o, ayaqlarını sürətlə yerə qoyaraq yerdən bir şey dərirdi. Bəzən cızığa, cırmağa da «قطف» (qatf) deyilir; məna yaxındır. [Şair demişdir]: [«ولكن وجه مولاك تقطف» (Lakin sən mövlanın üzünü cırırsan)].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:04.684Z"
+}

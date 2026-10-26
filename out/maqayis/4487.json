@@ -1,0 +1,17 @@
+{
+ "i": 4487,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وحر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 91,
+  "page_to": 91
+ },
+ "ar": "الواو والحاء والراء: كلمة واحدة، هى الوَحَرة: دُوَيبَّةٌ شبه العَظَاية إِذا دبَّتْ على اللحم وَحِر، ثم شبِّه الغِلُّ فى الصَّدر بها، فيقال وَحِرَ صدره. و\nفى الحديث: «يذهب وَحَرُ صدرهِ».",
+ "az": "[وحر] الواو والحاء والراء (və, ha və ra) — tək bir sözdür, o da الْوَحَرَةُ (vəhərə)dir: ətin üzərində gəzəndə əti qıcıqlandıran kərtənkələyə bənzər kiçik bir canlıdır, sonra sinədəki kin buna bənzədilmişdir və وَحِرَ صَدْرُهُ (sinəsi kinlə doldu) deyilir. Hədisdə gəlmişdir: «يَذْهَبُ وَحَرُ صَدْرِهِ» («Sinəsinin kini gedər»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

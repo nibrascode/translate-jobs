@@ -1,0 +1,17 @@
+{
+ "i": 3423,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 144,
+  "page_to": 144
+ },
+ "ar": "الكاف والهاء واللام أصلٌ يدلُّ على قُوَّة في الشَّيء أو اجتماع جِبِلَّة. من ذلك الكَاهل: ما بين الكِتفين: سمِّي بذلك لقُوّته. ويقولون للرَّجُل المجتمِع إذا وَخَطه الشَّيب: كَهْل، وامرأة كَهْلة. قال:\nولا أعود بَعدَها كَرِيَّا … أُمارِسُ الكَهلة والصَّبِيَّا (٣)\nوأمّا قولُهم للنَّبات: اكتَهَل، فإنما [هو] تشبيه بالرّجُل الكهل. واكتهالُ الروضة: أن يعمَّها النَّوْر. قال الأعشى:\n* مُؤزَّر بعَميم النبتِ مكتهلُ (٤) *",
+ "az": "[كهل] Kaf, ha və lam bir şeydə gücə və ya təbiətin bir araya gəlməsinə dəlalət edən bir əsasdır. Bunlardandır: الكَاهل (əl-kahil) — iki çiyin arası: gücünə görə belə adlandırılmışdır. Yetkin kişiyə ağarmalar (düşdükdə) كَهْل (kəhl), qadına isə كَهْلة (kəhləh) deyirlər. O demişdir:\nولا أعود بَعدَها كَرِيَّا … أُمارِسُ الكَهلة والصَّبِيَّا (٣)\n(Bundan sonra mən kəriyy olmayacağam... Yetkin qadınla uşağı idarə edən...) \nBitkiyə اكتَهَل (iktəhəl) demələrinə gəldikdə, bu, yalnız kəhl kişiyə bənzətməkdir. Çəmənliyin اكتهال (iktihalu) — çiçəklərin onu bürüməsidir. Əşə demişdir:\n* مُؤزَّر بعَميم النبتِ مكتهلُ (٤) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

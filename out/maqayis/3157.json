@@ -1,0 +1,17 @@
+{
+ "i": 3157,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 4,
+  "page_to": 4
+ },
+ "ar": "القاف والميم أصلٌ واحد يدلُّ على جَمْع الشَّئ. من ذلك: قَمْقَمَ اللّه عَصَبه، أىْ جَمَعه. والقَمْقام: البحر، لأنَّه مُجتَمَع للماء. والقَمقام: العدد الكثير، ثمَّ يشبَّه به السيِّد الجامع للِسِّيادة الواسعُ الخير\nومن ذلك قُمَّ البيتُ، أى كُنِس. والقُمامَة: ما يُكنَس؛ وهو يُجمَع. ويقال من هذا: أقمَّ الفَحلُ الإبلَ، إذا ألقَحَها كلَّها. ومِقَمَّة الشّاة: مِرَمَّتها (١)، وسمِّيت بذلك لأنها تقمُّ بها النَّباتَ فى فيها. ويقال لأعلى كلِّ شئٍ: القِمَّة، وذلك لأنَّه مُجتَمعُه الذى به قِوَامُه.\nومما شذَّ عن هذا الباب القَمقام: صغار القِرْدان.",
+ "az": "[قم] (Q-M) Qaf və mim hərfləri bir şeyi toplamağa dəlalət edən tək bir kökdür. O cümlədən: «قَمْقَمَ اللّه عَصَبه» (Allah onun əsəblərini topladı), yəni onları bir araya gətirdi. «القَمْقام» (əl-qəm-qam): dənizdir, çünki o, suyun toplanma yeridir. «القَمْقام» (əl-qəm-qam): çoxlu saydır, sonra ağalıq və geniş xeyirxahlıq toplayan ağa buna bənzədilir. O cümlədən «قُمَّ البيتُ» (ev süpürüldü), yəni süpürüldü. «القُمامَة» (əl-qumamə): süpürülən şeydir; o, toplanır. Bundan deyilir: «أقمَّ الفَحلُ الإبلَ» (erkək dəvə dəvələri mayaladı), o zaman ki, onların hamısını mayaladı. «مِقَمَّة الشّاة» (qoyunun ağzı): onun yem yığdığı yerdir (١), ona görə belə adlanıb ki, o, bununla bitkini ağzına yığır. Hər şeyin ən yüksək nöqtəsinə «القِمَّة» (əl-qimmə) deyilir, çünki o, onun dayanıqlı olduğu toplanma yeridir. Bu bölümdən kənara çıxan «القَمْقام» (əl-qəm-qam): kiçik birə növüdür.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

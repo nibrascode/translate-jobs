@@ -1,0 +1,17 @@
+{
+ "i": 3902,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 335,
+  "page_to": 335
+ },
+ "ar": "الميم والعين والنون أصلٌ يدلُّ على سهولةٍ في جريان أو جري أو غير ذلك. ومَعَن الماءُ: جَرَى. وماءٌ معينٌ. ومجارِي الماء في الوادي مُعْنانٌ، كذا قال أبو بكر (١). والمَعْنة: ماءٌ قليل يجري. ومن الباب أمعَنَ الفرسُ في عَدْوِه. وأمْعَنَ بحقِّي: ذهَبَ به. ورجل مَعْنٌ في حاجته: سَهْل. وأمعنت الأرضُ: رَوِيَتْ. وكلأ مَمْعونٌ: جَرَى فيه الماء. وقول النَّمْر:\nولا ضيّعْتُه فأُلَامَ فيه … فإنَّ ضَيَاعَ مالِكَ غيرُ مَعْنِ (٢)\nمعناه غير سهل. ويقولون: «ما له سَعْنَةٌ ولا مَعْنَةٌ» وهو من الإتباع، ويجوز أن يكون من الباب، أي ماله كثيرٌ ولا قليل يسهل خَطَره. وقولهم للمنزل مَعَانٌ، وزنه فعَال، وجمعه مُعُنٌ. ومَعَن الوادي: كثُر فيه الماء المَعين.",
+ "az": "[معن] \nMim, eyn və nun hərfləri axında, hərəkətdə və ya başqa şeylərdə rahatlığa (asanlığa) dəlalət edən bir kökdür. Və مَعَن الماءُ: su axdı. Və maun məin (axar su). Və vadidə suyun axarları مُعْنانٌ-dır, Əbu Bəkr belə demişdir (١). Və المَعْنة: axan az sudur. Bu babdandır: أمعَنَ الفرسُ في عَدْوِه (At qaçışında irəlilədi/çoxdu). Və أْمْعَنَ بحقِّي: haqqımı götürüb getdi. Və رجل مَعْنٌ في حاجته: ehtiyacında asan olan (çətinlik çıxarmayan) kişi. Və أمعنت الأرضُ: torpaq suya doydu. Və كلأ مَمْعونٌ: içindən su axmış otlaq. Və Nəmr-in sözü:\nولا ضيّعْتُه فأُلَامَ فيه … فإنَّ ضَيَاعَ مالِكَ غيرُ مَعْنِ (٢)\nmənası: «Onu zay etmədim ki, buna görə qınanılım, çünki sənin malının itkisi asan (dəyərsiz) deyil». \nOnun mənası asan deyil deməkdir. Və deyirlər: «ما له سَعْنَةٌ ولا مَعْنَةٌ» (onun nə səhnəsi, nə də məhnəsi var) — bu tabeçilik (qoşa söz) kəlmələrindəndir, həmçinin bu babdan olması da mümkündür, yəni qiyməti asan olan nə çoxu, nə də azı vardır. Və onların evə məan (معان) deməkləri — fəal (فعَال) çəkisindədir, cəmi isə müun (مُعُن) gəlir. Və مَعَن الوادي: vadidə axar su çoxaldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

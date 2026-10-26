@@ -1,0 +1,17 @@
+{
+ "i": 3091,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 483,
+  "page_to": 483
+ },
+ "ar": "الفاء والدال والنون كلمةٌ واحدة، وهى الفَدَن، يقولون:\nإنَّه القَصْر.",
+ "az": "[فدن] (fədən). Fə, dal və nun bir kəlmədir; o da الْفَدَن (fədən)dir, deyirlər ki: o, saraydır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

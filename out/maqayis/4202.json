@@ -1,0 +1,17 @@
+{
+ "i": 4202,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "النون والفاء والذال: أصلٌ صحيح يدلُّ على مَضاء في أمْرٍ وغيرِه. ونَفذ السَّهمُ الرمية نَفاذاً (٢). وأنْفذْتُه أنا. وهو نافذٌ: ماضٍ في أمره.",
+ "az": "[نفذ] (nəfəz): Nun, fa və zal hərfləri işdə və digər şeylərdə irəliləməyə (keçməyə) dəlalət edən səhih bir əsldir. نَفذ السَّهمُ الرمية نَفاذاً (nəfəzəs-səhmür-ləmyətə nəfazan) (٢). وأنفذْتُه أنا (və ənfəztühü ənə - və mən onu keçirdim). O نافذٌ (naﬁz) – öz işində irəliləyəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.385Z"
+}

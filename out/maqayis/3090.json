@@ -1,0 +1,17 @@
+{
+ "i": 3090,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 483,
+  "page_to": 483
+ },
+ "ar": "الفاء والدال والكاف كلمةٌ واحدة، وهى فَدَك: بلد.\nومن طرائف ابن دريد: فَدَكْتُ القطن (١): نفشتُه. قال: وهى لغةٌ أزْديَّة.",
+ "az": "[فدك] (fədək). Fə, dal və kaf bir kəlmədir; o da فَدَك (Fədək): bir məskəndir. İbn Düridin nadir lüğət məlumatlarındandır: فَدَكْتُ القطن (١) (pambığı döydüm): onu pərən-pərən etdim. O dedi ki, bu, Əzd qəbiləsinin ləhcəsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

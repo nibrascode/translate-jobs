@@ -1,0 +1,17 @@
+{
+ "i": 3449,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كأب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 152,
+  "page_to": 152
+ },
+ "ar": "الكاف والهمزة والباء كلمةٌ تدلُّ على انكسارٍ وسوءِ حال. من ذلك الكآبة. يقال كَأْبة وكَآبة، ورجلٌ كَئِيب.",
+ "az": "[كأب] (Kaf, həmzə və ba) — sınıqlığa və pis hala dəlalət edən bir kəlmədir. Bunlardan biri الكآبة (əl-kəabə) — qəm-qüssədir. كَأْبة (kə'bə) və كَآبة (kəabə) deyilir, kişi isə كَئِيب (kəiyl) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

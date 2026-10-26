@@ -1,0 +1,17 @@
+{
+ "i": 3071,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "الفاء والجيم والنون. يقولون: إنَّ السَّذَاب يقال له الفَيْجَن (٤).",
+ "az": "«فجن» (fə-c-n): Fə, cim və nun hərfləri. Deyirlər ki, sədəb otuna «الفَيْجَن» (feycən) deyilir (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3385,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 129,
+  "page_to": 129
+ },
+ "ar": "الكاف والعين أصلٌ صحيحٌ يدلُّ على حَبسٍ واحتباس.\nيقال رجلٌ كَعٌّ، وكاعٌّ، أي جبانٌ. وقد أكَعَّه الفَرَق عن الأمر. [قال ابن دريد: لا يقال كاعَ، وإنْ كانت العامّة تقوله (٢)]، إنَّما يقال كَعَّ. قال:\n* كعكعهُ حائره عن الدَّقَقْ (٣) *",
+ "az": "[كع] الكاف والعين أصلٌ صحيحٌ يدلُّ على حَبسٍ واحتباس. (Kaf və eyn hərfləri saxlamağa və tutulmağa dəlalət edən səhih kökdür). يقال رجلٌ كَعٌّ، وكاعٌّ، أي جبانٌ. (Deyilir ki, kənn kişi və ka'n, yəni qorxaqdır). وقد أكَعَّه الفَرَق عن الأمر. (Və qorxu onu işdən çəkindirdi). [قال ابن دريد: لا يقال كاعَ، وإنْ كانت العامّة تقوله (٢)], (İbn Dürid dedi: ka'ə deyilmir, hətta avam camaat bunu desə belə), إنَّما يقال كَعَّ. (ancaq kə'ə deyilir). قال: * كعكعهُ حائره عن الدَّقَقْ (٣) * (O dedi: Onun çaşqınlığı onu xırdadan saxladı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:12.477Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4203,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 459,
+  "page_to": 459
+ },
+ "ar": "النون والفاء والراء: أصلٌ صحيح يدلُّ على تجافٍ وتباعد.\nمنه نَفر الدّابّةُ وغيرُه نِفاراً، وذلك تَجافِيهِ وتباعُدُه عن مكانِه ومَقرِّه. ونَفَر جلدُه: وَرِمَ. و\nفي الحديث: «أنَّ رجلاً تخلَّلَ بالقَصَب فنَفَرَ فَمُه». أي وَرم.\nقال أبو عبيد: وإنّما هو من نِفَار الشّيءِ عن الشّيءِ وتَجافِيهِ عنه؛ لأنّ الجلد يَنفِر عن اللَّحم للدَّاء الحادِثِ بينهما. ويَوم النَّفْر: يومَ يَنفِر النّاسُ عن مِنًى. ويقولون:\nلقيته قبل صَيحٍ ونَفْرٍ، أي قبلَ كلِّ صائح ونافر. والمنافرة: المحاكمة إلى القاضي بين اثنَين، قالوا: معناه أنَّ المُبتغَى تفضيلُ نَفرٍ عَلَى نفرٍ (١). وأنفرت أحدَهما على الآخر. والنَّفَر أيضاً من قياس الباب لأنَّهم يَنفِرون للنُّصْرة. والنَّفير: النَّفَر، وكذا النَّفْر والنَّفْرة، كلُّ ذلك قياسُه واحد. وأنشَدَ الفرّاء في النَّفْرة:\nحَيَّتْكَ ثُمَّتَ قالتْ إنَّ نَفْرَتَنا … اليومَ كلّهُمُ يا عُرْوَ مشتَغِلُ (٢)\nوتقول العرب: نَفَّرْتُ عن الصَّبىِّ، أي لقَّبتُه لَقَبا، كأنَّه عِندهم تنفيرٌ للجِنّ عنه وللعَيْن. قال أعرابىّ: قيل لأبِي لما وُلِدْت: نَفِّرْ عن ابنك! فسمَّاني قُنفُذا، وكَنَّاني أبا العَدّاء.",
+ "az": "[نفْر] (nəfər): Nun, fa və ra hərfləri uzaqlaşmağa və qaçmağa dəlalət edən səhih bir əsldir. Ondan نَفر الدّابّةُ وغيرُه نِفاراً (nəfərəd-dabbətü və ğayruhü nifaran) – heyvanın və başqasının öz yerindən və məskənindən uzaqlaşması gəlir. نَفَر جلدُه (nəfərə cildüهُ) – dərisi şişdi. Hədisdə: «أنَّ رجلاً تخلَّلَ بالقَصَب فنَفَرَ فَمُه» (ənnə raculən təxəllələ bil-qasəbi fənəfərə fəmühü) – yəni, ağzı şişdi. Əbu Ubeyd demişdir: Bu yalnız şeyin digər şeydən qaçması və uzaqlaşması mənasındadır, çünki dəri aralarında baş verən xəstəliyə görə ətdən aralanır. يَوْم النَّفْر (Yəvüm-nəfr) – insanların Minadan dağılışdığı gün. Deyirlər: لقيته قبل صَيحٍ ونَفْرٍ (ləqaytühü qəbْلə sayhin və nəfrin) – yəni hər bir qışqırandan və qaçandan əvvəl. المنافرة (Əlmünafirə) – iki nəfər arasında hakimə müraciət edib mühakimə olunmaqdır, demişlər: bunun mənası bir dəstəni digər dəstədən üstün tutmağı istəməkdir (١). وأنفرت أحدَهما على الآخر (Və ənfərtü əhədəhümə aləl-axər - Mən onların birini digərinə qarşı qaçırtdım/üstün tutdum). نَفَر (Nəfər) də bu باب (bölmənin) qiyasındandır, çünki onlar kömək üçün qaçıb toplaşırlar. النَّفير (Ənnəfir) – نَفَر (nəfər) kimidir, həmçinin النَّفْر (ənnəfr) və النَّفْرَة (ənnəfrə) də belədir, bunların hamısının qiyasları birdir. Fəra نَفْرَة (nəfrə) haqqında bu beytə istinad etmişdir: حَيَّتْكَ ثُمَّتَ قالتْ إنَّ نَفْرَتَنا … اليومَ كلّهُمُ يا عُرْوَ مشتَغِلُ (2) (Həyyətkə thümmə qələt innə nəfrətənə... əlyəvmə küllühümü ya Urvə muştəğilü). Ərəblər deyirlər: نَفَّرْتُ عن الصَّبىِّ (nəffərtü anis-səbiyyi) – yəni uşağa ləqəb qoydum, sanki bu, cinləri və nəzəri ondan uzaqlaşdırmaq (tənfir etmək) deməkdir. Bir bədəvi demişdir: Mən doğulanda atama dedilər: Oğlundan ötrü (cinləri) qaçır! O da məni Qunfuz adlandırdı və Əbu əl-Ədda künyəsini verdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.385Z"
+}

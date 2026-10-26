@@ -1,0 +1,17 @@
+{
+ "i": 4345,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هدج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 44,
+  "page_to": 45
+ },
+ "ar": "الهاء والدال والجيم: أصلٌ صحيح يدلُّ على ضربٍ من المَشْىِ والحركة. منه الهَدَجَان: مِشْيةُ الشَّيخ، يقال هَدَجَ. وأهْدَجَ الظَّليمُ: مَشَى فى ارتعاش، وهو هَدَّاجٌ وهَدَجْدَجٌ. وتهدَّجت النّاقةُ: مشَتْ نحوَ ولدِها عاطفة عليه. وهَدَجَتْ الرِّيح: هبَّت بحَنين.\nوالهَوْدَج عندنا من هذا القياس، لأنَّه يضطرب على ظَهر البَعير، ثم يشبَّه به فيقال: هَوْدَجَتْ النّاقةُ، إذا ارتفَعَ سَنامُها كأنَّه الهَوْدَج.\nومما شذَّ عن هذا الأصل التهدُّج: تقطع الصَّوت.\nباب الهاءِ والذال وما يثلثهما",
+ "az": "[هدج] (hə-də-cə): Hə, dal və cim – yerimə və hərəkət növünə dəlalət edən səhih bir əsasdır. Bunlardan biri: الهَدَجَان (əl-hədəcan) – qocanın yerişi, هَدَجَ (yeridi) deyilir. وأهْدَجَ الظَّليمُ (Dəvəquşu titrəyərək yerişi), o هَدَّاجٌ (həddac) və هَدَجْدَجٌ (hədəgdəc)-dir. وتهدَّجت النّاقةُ (Dəvə balasına həsrətlə meyil edərək yeridi). وهَدَت الرِّيح (Külək həzin səslə əsdi).\nBizə görə هَوْدَج (həvdəc) bu ölçüdəndir, çünki o, dəvənin belində tərpənir, sonra ona bənzədilərək deyilir: هَوْدَجَتْ النّاقةُ (Dəvənin hürgücü həvdəc kimi ucaldı).\nBu əsasdan istisna olunan: التهدُّج (əl-təhəddüc) – səsin titrəməsi və kəsilməsi.\nHə və zal hərfləri və onlarla üçlənən sözlər fəsli",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

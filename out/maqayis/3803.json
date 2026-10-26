@@ -1,0 +1,17 @@
+{
+ "i": 3803,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مجن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 299,
+  "page_to": 299
+ },
+ "ar": "الميم والجيم والنون كلمةٌ واحدة، هي مجن، يقال: إنّ المُجونَ: ألاَّ يُبَالِيَ الإنسانُ ما صَنَع. قالوا: وقياسه مِنَ (٢) النَّاقة المُماجِن، وهي التي يَنْزُو عليها غيرُ واحدٍ من الفُحُولة، فلا تكاد تلقح. والمَجَّان، هو عَطِيّة الرّجل شيئاً بلا ثمن.",
+ "az": "[مجن] (Mim, cim və nun): Bir tək sözdür, o da «مجن» (məcənə). Deyirlər ki, «المُجون» (əl-mucun): insanın etdiyi əmələ görə əhəmiyyət verməməsi, utanç duymamasıdır. Dedilər ki: bunun qiyası (əası) «النَّاقة المُماجِن» (ən-naqətül-muməcin) sözündəndir, o da elə bir dəvədir ki, ona bir deyil, bir çox erkək dəvə üst çıxar (cütləşər), o da demək olar ki, hamilə qalmaz. «المَجَّان» (əl-məccən) isə, bir kimseye qarşılıqsız (pulsuz) olaraq verilən hədiyyədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

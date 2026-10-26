@@ -1,0 +1,17 @@
+{
+ "i": 4414,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "همز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 65,
+  "page_to": 66
+ },
+ "ar": "الهاء والميم والزاء كلمةٌ تدلُّ على ضَغْطٍ وعَصْر. وهَمزْت الشَّئَ فى كفِّى. ومنه الهَمز فى الكلام، كأنَّه يَضْغَط الحرف. ويقولون: همزَ بِهِ\nالأرض (١). وقوسٌ هَمَزَى: شديدةُ الدَّفعِ للسَّهم. والهمَّاز: العَيَّاب، وكذا الهُمَزَة. قال:\nتُدْلِى بوُدِّىَ إذْ لاقَيتَنِى كذِباً … وإنْ أُغيَّبْ فأنت الهامزُ اللُّمَزَهْ (٢)\nوَهمْزُ الشَّيطان كالمُوتَة تَغلِبُ على قَلْب الإنسان تَذهب به.",
+ "az": "«همز» (həməz): Hə, mim və zay hərfləri sıxmağa və saxlamağa dəlalət edən bir kəlmədir. وهَمزْت الشَّئَ فى كفِّى (şeyi ovcumda sıxdım). Buradan da danışıqdakı həmz gəlir, sanki hərfi sıxır. Deyirlər ki: همزَ بِهِ الأرض (onu yerə vurdu). وقوسٌ هَمَزَى (həməzi yay): oxu şiddətli atan yaydır. والهمَّاز (əl-həmmaz) — eyb axtaran, həmçinin الهُمَزَة (əl-huməzə) də belədir. Şair demişdir: تُدْلِى بوُدِّىَ إذْ لاقَيتَنِى كذِباً … وإنْ أُغيَّبْ فأنت الهامزُ اللُّمَزَهْ (١) (Məni qarşılayarkən yalanla məhəbbətimə bağlanırsan, əgər gözdən iraq düşsəm, onda sən eyb axtaran və qınayansan). وَهمْزُ الشَّيطان (şeytanın həhmi) — insanın qəlbinə qalib gələn və onu aparan ölümcül hal kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

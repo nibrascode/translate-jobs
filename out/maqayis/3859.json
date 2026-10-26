@@ -1,0 +1,17 @@
+{
+ "i": 3859,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مزي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 319,
+  "page_to": 319
+ },
+ "ar": "الميم والزاء والياء. يقولون: المزِيَّة في كلِّ شيء: التمام والكمال.\nولك عندي مزِيَّةٌ. ولا يُبنَى منه فِعل.",
+ "az": "[مزي] (Mizi) Mim, zay və ya hərfləri. Deyirlər: Hər bir şeydə əl-məziyyə (المزيَّة) — tamlıq və kamillik deməkdir. «Və ləkə ُّindiyə miziyyətün» (ولك عندي مزِيَّةٌ) — mənim yanında sənin bir üstünlüyün (məziyyətin) var. Bundan heç bir fel düzəldilmir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

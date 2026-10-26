@@ -1,0 +1,17 @@
+{
+ "i": 3875,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مشن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 325,
+  "page_to": 325
+ },
+ "ar": "الميم والشين والنون أصلٌ يدلُّ على تناوُل الشّيءِ بضربٍ واستلالٍ وما أشبَهَ ذلك. فالمَشْن: الضَّرب بالسَّوط، ومَشَنه. وامتشَنَ السَّيفَ:\nاستلَّه. وامتشَنَ الشَّيء: اقتَطَعه. ومشَنَ الجِلدَ: سلخه. وممَّا يحمل على هذا مَشَّنَت النّاقةُ: دَرَّتْ كارهةً.",
+ "az": "«مشن» (məşən) — mim, şin və nun hərfləri qamçı ilə vurmaq, çəkib çıxarmaq və buna bənzər tərzdə bir şeyi ələ keçirməyə dəlalət edən kökdür. Fəqət المَشْن (əl-məşn) — qamçı ilə vurmaqdır, مَشَنَهُ (məşənəhu) — onu qamçıladı. Və امتشَنَ السَّيفَ (imtəşəq-səyfə) — qılıncı qınından sıyırıb çıxardı. Və امتشَنَ الشَّيءَ (imtəşəq-şəyyə) — onu qoparıb aldı. Və مشَنَ الجِلدَ (məşənəl-cildə) — dərisini soydu. Buna bənzər olaraq da demişlər: مَشَّنَت النّاقةُ (məşşənətin-naqətu) — dəvə istəməyərəkdən süd verdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

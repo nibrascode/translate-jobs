@@ -1,0 +1,17 @@
+{
+ "i": 4380,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هصم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 54,
+  "page_to": 54
+ },
+ "ar": "الهاء والصاد والميم: كلمةٌ تدلُّ على الكسر. هَصَمْتُ الشّئَ:\nكسَرتُه. وبه سمِّى الأسد هَيْصَما. واللّه أعلم.",
+ "az": "«هصم» — الهاء والصاد والميم (hə, sad və mim): sındırmağa dəlalət edən bir kəlmədir. هَصَمْتُ الشّئَ (şeyi sındırdım). Şir buna görə هَيْصَم (heysəm) adlandırılmışdır. Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

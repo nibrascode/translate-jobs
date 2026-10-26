@@ -1,0 +1,17 @@
+{
+ "i": 3159,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 5,
+  "page_to": 5
+ },
+ "ar": "القاف والهاء ليس فيه إلاّ حكاية القَهْقَهة: الإغراب فى الضحك.\nيقال: قَهٌّ وقهقَهةٌ، وقد يخفَّف. قال:\n* فهنَّ فى تَهَانُفٍ وفى قَهِ (١) *\nويقولون: القَهقهة: قَرَبُ الوِرد (٢)",
+ "az": "[قه] (Q-H) Qaf və ha hərflərində yalnız «القَهْقَهة» (qəhqəhə) hekayəsi var: gülüşdə ifrata varmaq. Deyilir: «قَهٌّ وقهقَهةٌ» (qəh və qəhqəhə), bəzən də yüngülləşdirilir. O dedi: «* فهنَّ فى تَهَانُفٍ وفى قَهِ (١) *» (Onlar gülüş və qəhqəhə içindədirlər). Deyirlər: «القَهقهة» (əl-qəhqəhə): suvarma yaxınlığıdır (٢).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

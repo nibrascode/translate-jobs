@@ -1,0 +1,17 @@
+{
+ "i": 3005,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فلط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 451,
+  "page_to": 451
+ },
+ "ar": "الفاء واللام والطاء ليس بأصل، لأنَّه من باب الإبدال، والأصل الراء. ويقولون: أفْلَطَه الأمرُ: فاجَأَه. وتكلَّمَ فلانٌ فِلاطاً، إذا فاجَأَ (٢) بقولِهِ. والأصل الراء فرط، وقد ذُكِر فى بابه.",
+ "az": "[فلط] (fə-lə-t). Fə, lam və ta əsas deyil, çünki bu, ibdal (əvəzlənmə) babındandır və əsli ra hərfi ilədir. Deyirlər: «أفْلَطَه الأمرُ» — iş ona qəflətən gəldi. «تكلَّمَ فلانٌ فِلاطاً» — filankəs sözü ilə qəflətən hücum etdikdə deyilir (2). Əsli «فرط» (fərt) kökündəndir və öz babında qeyd olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:24:42.634Z"
+}

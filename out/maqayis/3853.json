@@ -1,0 +1,17 @@
+{
+ "i": 3853,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 316,
+  "page_to": 316
+ },
+ "ar": "الميم والراء والحاء أصلٌ يدلُّ على مَسَرَّةٍ لا يكاد يستقرُّ معها طرباً. ومَرِحَ يَمْرَحُ. وفرسٌ مِمْرَاحٌ ومَرُوح. قال اللّه تعالى: ﴿وَبِما كُنْتُمْ تَمْرَحُونَ﴾. ومنه المِراح، وقد ذكرناه. قال:\nيقولُ العاذِلاتُ علاكَ شيبٌ … أهذا الشَّيب يمنعني مِرَاحِي\nوقوسٌ مَرُوحٌ: يمرَح مَنْ رآها عجبًا بها، ويقال بل التي كأنَّ بها مَرَحاً من حسن إرسالها السَّهم. ويقولون: عينٌ مِمْرَاحٌ: غزيرةُ الدَّمع. وهذا بعضُ قياس الباب، لأنَّهم ذهبوا فيه إلى ما قلناه من قِلّهِ الاستقرار. وكذلك مرَّحْتُ المَزَادةَ: ملأتها لتتسرَّبَ وتسيل. ومَرِحَت العَينُ مَرَحاناً (١). قال:\nكأنَّ قَذًى في العَين قد مَرِحَتْ بهِ … وما حاجةُ الأُخرى إلى المَرَحَانِ (٢)\nومَرْحَى: كلمةُ تعجُّبٍ وإعجاب. يقال للرَّامي إذا أصابَ: مَرْحَى له.\nوقال ابنُ دريد (٣): وإذا أخطأ قالوا بَرْحَى. قال:\nمَرْحَى وأَيْحَى إذا ما يُوالِى (٤) *",
+ "az": "«مرح» (maraha) — mim, ra və hə hərflərindən ibarət bir kök olub, demək olar ki, sevincindən yerində dura bilməyəcək dərəcədə olan şadlığa dəlalət edir. مَرِحَ يَمْرَحُ (mariha yamrahu). فَرَسٌ مِمْرَاحٌ وَمَرُوحٌ (farasun mimrahun wa maruhun). Uca Allah buyurmuşdur: ﴿وَبِما كُنْتُمْ تَمْرَحُونَ﴾ (mənaca tərcümə: Çünki siz sevinib şadlanırdınız). Buradan اَلْمِرَاح (al-mirah) gəlir, biz onu zikr etmişik. O demişdir: يَقُولُ العَاذِلَاتُ عَلَاكَ شَيْبٌ … أَهَذَا الشَّيْبُ يَمْنَعُنِي مِرَاحِي (yaqulu al-'adzilatu 'alaka şaybun... ahadža al-şaybu yamnanani mirahi). وَقَوْسٌ مَرُوحٌ (qawsun maruhun): görənlərin heyranlıqla sevincək olduğu yay, yaxud oxu elə gözəl buraxır ki, elə bil onda sevinc var. Deyirlər: عَيْنٌ مِمْرَاحٌ (‘aynun mimrahun): yaşı bol olan göz. Bu, bölmənin qaydasının bir hissəsidir, çünki onlar burada sarsılmazlığın azlığına işarə etmişlər. Həmçinin مَرَّحْتُ المَزَادَةَ (marrahtu al-mazadata): su sızıb axsın deyə su qırxılığını doldurdum. مَرِحَتِ العَيْنُ مَرَحاناً (marihat al-'aynu marahanan) (١). O demişdir: كَأَنَّ قَذًى فِي العَيْنِ قَدْ مَرِحَتْ بِهِ … وَمَا حَاجَةُ الأُخْرَى إِلَى المَرَحَانِ (٢) (ka'anna qadən fi al-‘ayni qad marihat bihi... wa ma hajat al-uxra ila al-marahani). وَمَرْحَى (marha): təəccüb və heyranlıq kəlməsidir. Oxatan hədəfə vurduqda ona deyilir: مَرْحَى لَهُ (marha lahu). İbn Dureyd demişdir (٣): Əgər səhv etsə, بَرْحَى (barha) deyərlər. O demişdir: مَرْحَى وَأَيْحَى إِذَا مَا يُوالَى (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

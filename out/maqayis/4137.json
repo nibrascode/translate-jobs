@@ -1,0 +1,17 @@
+{
+ "i": 4137,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 429,
+  "page_to": 429
+ },
+ "ar": "النون والشين والحاء: أصلٌ صحيحٌ، إلاّ أنَّه مختلَفٌ في تفسيره على التَّضادّ، فقال قوم: نَشَحَ الشَّاربُ، إذا شرِب حتَّى امتلأ. وسِقَاءٌ نَشَّاحٌ: ممتلِئ. وقال آخرون: النُّشوحُ: شربٌ دون الرِّىّ.",
+ "az": "«نشح» (ن ش ح): النون, Şin və Ha: səhih bir kökdür, lakin təfsirində ziddiyyət baxımından ixtilaf edilmişdir. Bir qrup demişdir: «نَشَحَ الشَّاربُ» (nəşəhə əş-şaribü) — içən şəxs doyub dolana qədər içdi. «سِقَاءٌ نَشَّاحٌ» (siqəün nəşşahun): dolub daşan tuluq. Başqaları demişdir: «النُّشوحُ» (ən-nuşuh): doyunca içmək deyil, az içməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.782Z"
+}

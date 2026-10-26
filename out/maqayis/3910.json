@@ -1,0 +1,17 @@
+{
+ "i": 3910,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 337,
+  "page_to": 337
+ },
+ "ar": "الميم والعين والصاد ليس بشيءٍ، إلاّ أنّ ناساً ذكروا مَعَصَ الرّجُل: حَجَل في مِشْيته. وقال ابنُ دُريد (٤): المَعَص: وجعٌ يصيب الإنسان في عَصَبِه من كَثْرة المَشْي.",
+ "az": "[معص] \nMim, eyn və sad hərfləri bir şey deyildir, lakin bəzi adamlar qeyd etmişlər ki: مَعَصَ الرّجُل — gəzişində hoppandı/axsadı. İbn Dürid demişdir (٤): المَعَص — çox yeriməkdən insanın sinirlərində əmələ gələn ağrıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

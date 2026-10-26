@@ -1,0 +1,17 @@
+{
+ "i": 3028,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فوع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 460,
+  "page_to": 460
+ },
+ "ar": "الفاء والواو والعين يدلُّ على ثَوْرٍ فى شئ. يقال لخِمْرة الطَّيب وما ثار من ريحه: فَوْعة. ويقال لارتفاع النهار: فَوعة.",
+ "az": "«فوع» (fəwc/fəwəh): Fə, vau və eyn hərfləri bir şeydə coşmağa dəlalət edir. Ətrin qoxusuna və onun yayılmış ətrinə «فَوْعة» (fəwçə) deyilir. Gündüzün isti vaxtının yüksəlməsinə də «فَوْعة» (fəwçə) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

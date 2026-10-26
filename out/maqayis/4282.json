@@ -1,0 +1,17 @@
+{
+ "i": 4282,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هوك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 20,
+  "page_to": 20
+ },
+ "ar": "الهاء والواو والكاف: كلمةٌ تدلُّ على حُمقٍ ووقوع فى الشئ على غَير بصيرة. فالهَوَك: اُلْحْمق. وتهوَّكَ الرجلُ: وقع فى الشَّئ. و\nفى الحديث:\n«أمُتَهَوِّكُونَ أنتم كما تهوَّكَت اليهودُ والنَّصارى (١)».",
+ "az": "[هوك] (Hok): Hə, vav və kaf: axmaqlığa və bir işə bəsirətsiz şəkildə baş vurmağa dəlalət edən bir sözdür. الهَوَك (ə-həvək): axmaqlıq. وتهوَّكَ الرجلُ (təhəvvəkə-r-raculu): bir işə baş vurdu. \n\n Hədisdə gəlmişdir:\n\n«أمُتَهَوِّكُونَ أنتم كما تهوَّكَت اليهودُ والنَّصارى (1)» (Yəhudi və xristianların çaşdığı kimi, siz də çaşqınlıqmı içindəsiniz?).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

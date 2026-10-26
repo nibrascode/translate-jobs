@@ -1,0 +1,17 @@
+{
+ "i": 3152,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فعى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 512,
+  "page_to": 512
+ },
+ "ar": "الفاء والعين والحرف المعتلّ كلمة واحدة، وهى الأفعَى:\nحيَّة [وحَكى ناسٌ: تفعَّى الرّجل، إذا ساءَ (١)] خُلقُه، مشتقٌّ من الأفعى.\nواللّه أعلم.",
+ "az": "[فعى] (F-Ə-Y) Fə, ayn və əlil hərf (y) tək bir kəlmədir, o da «الأفعَى» (əl-əfə): ilandır. [Bəzi insanlar deyib ki: «تفعَّى الرّجُل» (adamın xasiyyəti pisləşdi), bu, əfə (ilan) sözündən törəmişdir (١)]. Allah daha yaxşı bilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

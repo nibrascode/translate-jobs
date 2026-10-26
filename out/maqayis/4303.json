@@ -1,0 +1,17 @@
+{
+ "i": 4303,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هام",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 27,
+  "page_to": 27
+ },
+ "ar": "الهاء والألف والميم أصلٌ صحيح يدلُّ على عُلُوٍّ فى بعض الأعضاء، ثم يستعار. فالهامة: الرَّأْس، والجمع هامٌ وهامات. وسيِّد * القومِ: هامةٌ، على معنى التَّشبيه. وأمَّا الهامَة فى الطَّير فليست فى الحقيقة طيرا، إنما هو شئٌ كما كانت العرب تقوله، كانوا يقولون: إنّ رُوحَ القَتيل الذى لا يُدرَك بثأره تَصِيرُ هامةً فتَزْقُو تقول: اسقونى، اسقُونى! فإذا أُدْرِكَ بثأره طارت وهو الذى أراده جريرٌ بقوله:\nومِنَّا الذى أبْلَى صُدَىَّ بنَ مالكٍ … ونَفَّرَ طيراً عن جُعَادة وُقَّعا (١)\nيقول: [قَتَل (٢)] قاتلَه فنَفَّرَ الهامة عن قبره.",
+ "az": "[هام] (həm-ə-m): Həmzə, əlif və mim bəzi üzvlərdə ucalığa dəlalət edən səhih kökdür, sonra məcazi işlənir. فَالهَامَة (əh-həməh): baş, cəmi هام (ham) və هَامات (hamat) gəlir. Qövmün * səddi * başçısı da bənzətmə mənasında هَامَة (haməh) adlanır. Quşlara gəldikdə, هَامَة (haməh) həqiqətdə quş deyil, sadəcə ərəblərin dediyi kimi bir şeydir; deyərdilər ki, qisası alınmadan öldürülənin ruhu هَامَة (haməh) olub qayıdar, nərə çəkib deyərdi: «Məni suvarın, məni suvarın!». Qisası alınanda isə uçub gedərdi. Cəririn aşağıdakı beytində qəsd etdiyi də budur:\nوَمِنَّا الَّذِي أَبْلَى صُدَىَّ بنَ مالِكٍ … وَنَفَّرَ طَيْراً عَنْ جُعَادَةَ وُقَّعَا (١)\n(Mənasından: Bizdən odur ki, Südaye ibn Maliki imtahana çəkdi… və Cuadənin üzərinə qonan quşları qaçırdı).\nDemək istəyir ki, [öldürdü (٢)] onun qatilini və bununla da məzarının üzərindəki هَامَة (haməh) quşunu qaçırdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

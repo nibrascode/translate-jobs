@@ -1,0 +1,17 @@
+{
+ "i": 3634,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لجذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 235,
+  "page_to": 235
+ },
+ "ar": "اللام والجيم والذال. يقولون: لَجِذَ الكلب الإناء: لَحِسَه.",
+ "az": "[لجذ] (ləcəð) — lam, cim və zal. Deyirlər: لَجِذَ الكلب الإناء (ləciðəl-kəlbul-inəə) — it qabı yaladı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

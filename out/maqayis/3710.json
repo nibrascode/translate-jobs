@@ -1,0 +1,17 @@
+{
+ "i": 3710,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لقم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 260,
+  "page_to": 260
+ },
+ "ar": "اللام والقاف والميم أصلٌ صحيح، يدلُّ على تناوُلِ طعامٍ باليد للفَم، ثم يقاس عليه. ولَقِمْتُ الطّعامَ ألقَمُه، وتلقّمته والتقَمته. ورجلٌ تِلْقَامةٌ:\nكثير اللَّقْم (١). ومن الباب اللَّقَم: مَنْهَج الطَّريق، على التشبيه، كأنّه لَقِم من مرَّ فيه، كما ذكرناه في السِّراط، وقد مَضى.",
+ "az": "[لقم] «اللام والقاف والميم أصلٌ صحيح، يدلُّ على تناوُلِ طعامٍ باليد للفَم، ثم يقاس عليه» (Lam, qaf və mim hərfləri əllə ağzınıza yemək götürməyə dəlalət edən, daha sonra buna əsasən bənzədilən səhih kökdür). ولَقِمْتُ الطّعامَ ألقَمه (Yeməyi udub boğazıma atdım): وتلقّمته والتقَمته (Onu tikə-tikə udub udqundum). ورجلٌ تِلْقَامةٌ (Tilqamə kişi): كثير اللَّقْم (١) (Çox tikə udan). ومن الباب اللَّقَم (Bu qapıdandır - ləqəm): مَنْهَج الطَّريق (Yolun açıq və aydınistiqaməti), على التشبيه (bənzətmə yolu ilə), كأنّه لَقِم من مرَّ فيه (Sanki ondan keçəni udmuşdur), كما ذكرناه في السِّراط (Necə ki sirat barəsində qeyd etdik), وقد مَضى (və artıq keçdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:15.889Z"
+}

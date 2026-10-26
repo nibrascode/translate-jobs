@@ -1,0 +1,17 @@
+{
+ "i": 4461,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وتد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 83,
+  "page_to": 83
+ },
+ "ar": "الواو والتاء والدال: كلمةٌ واحدة، هى الوَتِد، يقال: وَتَدَهُ، وتِدْ وتِدَكَ. ويقال وَتْد أيضاً (٤). ووَتِد الأذن: الذى فى باطِنِها كأنَّه وَتِد.",
+ "az": "[وتد] (və-ta-dal): Tək bir sözdür, o da «الوَتِد» (vətid - paya, mıx), «وَتَدَهُ، وتِدْ وتِدَكَ» (onu mıxla, payanı vur) deyilir. Həmçinin «وَتْد» (vəd) də deyilir. «وَتْد الأذن» (qulağın vətidi) — qulağın daxilində paya bənzər çıxıntı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

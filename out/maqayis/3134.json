@@ -1,0 +1,17 @@
+{
+ "i": 3134,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فصم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 506,
+  "page_to": 506
+ },
+ "ar": "الفاء والصاد والميم أصلٌ صحيح يدلُّ على انصداعِ شئٍ من غير بَيْنُونة. من ذلك الفَصْم، وهو أن ينصَدِع الشَّئُ من غير أن يَبين. وكلُّ منحنٍ من خَشَبَةٍ وغيرها فهو مفصوم. قال:\nكأنَّه دُمْلُجٌ من فِضّةٍ نَبَهٌ … فى مَلْعبٍ من عَذَارى الحىِّ مفصومُ (٢)",
+ "az": "[فصم] الفاء والصاد والميم أصلٌ صحيح يدلُّ على انصداعِ شئٍ من غير بَيْنُونة (Fə, sad və mim, tam ayrılmadan bir şeyin çatlamasına dəlalət edən səhih kökdür). من ذلك الفَصْم (Ondandır əl-fəsm), وهو أن ينصَدِع الشَّئُ من غير أن يَبين (və o, bir şeyin tam qopub ayrılmadan çatlamasıdır). وكلُّ منحنٍ من خَشَبَةٍ وغيرها فهو مفصوم (Taxtadan və digər materiallardan olan hər bir əyri şey məfsumdur — çatlamışdır). قال (Şair demişdir): كأنَّه دُمْلُجٌ من فِضّةٍ نَبَهٌ … فى مَلْعبٍ من عَذَارى الحىِّ مفصومُ (٢) (Guya o, qəbilənin qızlarının oyun yerində parıldayan gümüş bilərzikdir ki, çatlamışdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.152Z"
+}

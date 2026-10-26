@@ -1,0 +1,17 @@
+{
+ "i": 4118,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 420,
+  "page_to": 420
+ },
+ "ar": "النون والسين والقاف أصلٌ صحيح يدلُّ على تتابُعٍ في الشَّيء.\nوكلامٌ نَسَقٌ: جاءَ على نظامٍ واحد قد عُطِف بعضُه على بعض. وأصله قولهم:\nثَغْرٌ نَسَق، إذا كانت الأسنانُ متناسقةً متساوية. وخَرَزٌ نَسَق: منظَّم قال أبو زُبَيد:\nبجيدِ رِيَمٍ كريمٍ زانَهُ نَسَقٌ … يكاد يُلهِبُه الياقوتُ إلهابا (١)",
+ "az": "[نسق] (nəsəqə): Nun, sin və qaf bir şeydə ardıcıllığa dəlalət edən səhih əsldir.\n\nKəlamun nəsəqun (ardıcıl kəlam): bir nizam üzrə gəlmiş, bir hissəsi digərinə bağlanmış söz. Onun əsli onların “səğrun nəsəqun (dişlər mütənasib və bərabər olduğu zaman)” sözüdür. Xərəzün nəsəq (sıralanmış muncuq). Əbu Zübeyd demişdir:\nبجيدِ رِيَمٍ كريمٍ زانَهُ نَسَقٌ … يكاد يُلهِبُه الياقوتُ إلهابا (١)\n(Kərim ceyranın boynundakı elə bir nizam zinətləndirmişdir ki, yaqut az qala onu alovlandırsın.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

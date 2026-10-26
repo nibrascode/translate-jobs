@@ -1,0 +1,17 @@
+{
+ "i": 4520,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ورف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 101,
+  "page_to": 101
+ },
+ "ar": "الواو والراء والفاء: أصلٌ يدلُّ على رقَّة ونَضْرة. ونَباتٌ وارِفٌ. وَرَفَ وَرِيفاً، إذا رأيتَ له من رِيِّه بَهجةً. وظلٌّ وارف: ممدود. وما رقَّ من نَواحِى الكبد: الوَرْف (٢). ويقال إن الرُّفَة: التِّبْن. وأظنُّ أنَّ الناقص من أوّلها واو (٣).",
+ "az": "[ورف] (və-ra-fə): Vov, ra və fa hərfləri incəliyə və təravətə dəlalət edən əsasdır. نَباتٌ وارِفٌ (nəbətun vərifun). وَرَفَ وَرِيفاً (vərəfə vərifan) – onun şirəsindən parlaqlıq gördüyün zaman. ظلٌّ وارف (ẓillun vərifun) – uzanan kölgə. Qaraciyərin ətrafından incə olan yer: الوَرْف (əl-varf). Deyilir ki, er-rufah (الرُّفَة) – saman deməkdir. Güman edirəm ki, başlanğıcındakı hərf vovdur (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4551,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 112,
+  "page_to": 112
+ },
+ "ar": "الواو والشين والقاف: كلمة واحدة، هى الوَشِيقة: لحمٌ يقدَّد. يقال وَشَقْت وَاتَّشَقْتُ (٤). قال:\nإذا عَرَضَتْ منها كَهاةٌ سَمينةٌ … فلا تُهْدِ منها واتَّشِق وتَجَبْجَبِ (٥)\nوواشق: اسمُ كلْب.",
+ "az": "«وشق» الواو والشين والقاف (vav, şin və qaf): tək bir kəlmədir, o da الوَشِيقة (əl-vəşi-qə) - dilimlənib qurutulmuş ətdir. Deyilir: وَشَقْتُ وَاتَّشَقْتُ (vəşəttü vəttəşəttü) (٤). O demişdir:\nإذا عَرَضَتْ منها كهاةٌ سَمينةٌ … فلا تُهْدِ منها واتَّشِق وتَجَبْجَبِ (٥)\n(Ondan kök yaşlı dişi dəvə təklif olunduqda… ondan hədiyyə etmə, qurut və doyana qədər ye)\nVə Vāşiq (واشق) - it adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

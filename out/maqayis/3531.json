@@ -1,0 +1,17 @@
+{
+ "i": 3531,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 186,
+  "page_to": 186
+ },
+ "ar": "الكاف والعين والراء يقولون: الكَعَر: أن يمتلئ البطنُ من الأكل. وأكعَرَ البعيرُ: عظُم سَنامُه.",
+ "az": "[كعر] (kə-ِcə-rə). Kaf, ayn və ra hərfləri. Deyirlər: «الكَعَر» (əlkəər): qarın yeməkdən dolması. Və «أكعَرَ البعيرُ» (Dəvənin hürgücü böyüdü): dəvənin hürgücü böyük oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

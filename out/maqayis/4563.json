@@ -1,0 +1,17 @@
+{
+ "i": 4563,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وصل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 115,
+  "page_to": 116
+ },
+ "ar": "الواو والصاد واللام: أصلٌ واحد يدلُّ على ضمِّ شئٍ إلى شئِ حَتَّى يَعْلَقَه. ووَصَلْتُه به وَصلاً. والوَصل: ضِدّ الهِجْران. ومَوْصِلُ البعير:\nما بين عَجُزِه وفَخذه. والواصِلَة فى الحديث: التى تَصِلُ شَعْرَها بشعرٍ آخَرَ زُوراً.\nويقول وصَلْتُ الشّئَ وصلاً، والموصول به وِصْلٌ بكسر الواو.\nومن الباب الوَصِيلة: العِمارة والخِصْب، لأنَّها تَصِلُ النّاسَ بعضَهم ببعض، وإذا أجْدَبوا تَفَرَّقُوا. والوَصيلة: الأرض الواسعة، كأنَّها وُصِلَت فلا تَنقطِع.\nأمَّا الوَصِيلة من الغَنَم فى قوله تعالى: ﴿وَلا وَصِيلَةٍ وَلا حامٍ﴾. (١).",
+ "az": "[وصل] (Vəsl): الواو والصاد واللام (vav, sad və lam): bir şeyi digərinə birləşdirərək onunla bağlanmasına dəlalət edən tək təməl kökdür. ووَصَلْتُه به وَصلاً (vəsəltuhu bihi vəslən). Vəsl — hiçranın (ayrılığın) əksidir. ومَوْصِلُ البعير (məvsilul-bə'ir): dəvənin sağrısı ilə budu arasındakı yer. Hədisdəki الواصِلَة (əl-vasilə): saçını yalandan başqa bir saça birləşdirən qadındır. Deyirəm: وصَلْتُ الشّئَ وصلاً (vəsəltuş-şəy'ə vəslən), birləşdirilən şey isə vavın kəsrəsi ilə وِصْلٌ (visl) olandır. Bu fəsildəndir: الوَصِيلة (əl-vasilə): abadlıq və bolluq, çünki o, insanları bir-birinə bağlayır, qıtlıq olduqda isə parça-parça olub dağılırlar. Vəsilə: sanki birləşdirilmiş və heç kəsilməyən gen-bol yerdir. Qoyunlardakı الوَصِيلة (əl-vasilə)-yə gəlincə, Uca Allahın bu kəlamındadır: ﴿وَلا وَصِيلَةٍ وَلا حامٍ﴾ (١) (mənaca tərcümə: Nə vəsiləyə, nə də hamiyə [haqq qazandırılmışdır]).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4568,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وصر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 117,
+  "page_to": 117
+ },
+ "ar": "الواو والصاد والراء: كلمةٌ واحدة. قال الخليل: الوَصِيرة:\nالصَّكّ. ويقال الوِصْر: السِّجِلُّ يكتُبه الملك لِمَنْ يُقْطِعُه (١). و\nفى بعض الحديث:\n«إنَّ هذا اشتَرَى مِنِّى أرضاً وقَبَضَ مِنِّى وِصْرَها، فلا هو يردُّ (٢) عَلَىَّ الْوِصْر ولا يعطينى الثمن».",
+ "az": "[وصر] (Vəsir): الواو والصاد والراء (vav, sad və ra): tək bir kəlmədir. Xəlil demişdir: الوَصِيرة (əl-vəsirə): sənəd, qaimə. Həmçinin deyilir ki, الوِصْر (əl-visr): hökmdarın torpaq bağışladığı kəsə yazdığı yazılı fərmandır (١). Bəzi hədislərdə gəlmişdir: «إنَّ هذا اشتَرَى مِنِّى أرضاً وقَبَضَ مِنِّى وِصْرَها، فلا هو يردُّ (٢) عَلَىَّ الْوِصْر ولا يعطينى الثمن» (Həqiqətən, bu adam məndən torpaq aldı və məndən onun sənədini təhvil aldı; nə o sənədi mənə qaytarır, nə də mənə pulunu verir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

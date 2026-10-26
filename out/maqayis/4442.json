@@ -1,0 +1,17 @@
+{
+ "i": 4442,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وأب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 78,
+  "page_to": 78
+ },
+ "ar": "الواو والهمزة والباء: كلمتانِ تدلُّ إحداهما على تقعير شئ، والأخرى على غَضَب.\nفالأولى: الحافر الوأْب: المُقعَّب. والوَأْبة: نُقَيرةٌ (١) فى صَخرةٍ تُمسِك الماء.\nوالكلمة الأخرى أَوْأَبْتُ فلاناً: أغضَبْتُه. ويقال إنَّ الإبَةَ منه (٢)",
+ "az": "[وأب] (Vav, həmzə və ba): İki kəlmədir, biri bir şeyin oyulmasına, diğəri isə qəzəbə dəlalət edir.\nBirincisi: Dəvə dırnağının çökək olması (الحافر الوأْب). Və əl-vəbə (الوَأْبة) — su tutan qayadakı kiçik çuxur (١).\nVə digər kəlmə isə: Filankəsi qəzəbləndirdim (أَوْأَبْتُ فلاناً). Deyilir ki, əl-ibə (الإبَةُ) bundan götürülmüşdür (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4460,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وتح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 83,
+  "page_to": 83
+ },
+ "ar": "الواو والتاء والحاء: كلمةٌ تدلُّ على قِلَّة فى شئ. فالوتْح والوتِح (٢) القليل. يقال وَتَحَ العَطِيَّةَ (٣). وتوتَّحْتُ من الشراب: شربت منه قليلاً. وأوتَحْتُ حَظَّه: أقلَلْتُه.",
+ "az": "[وتح] (və-ta-ha): Bir şeydə azlığa dəlalət edən sözdür. «الوتْح» və «الوتِح» (vəth və vətih) — az şey. Deyilir: «وَتَحَ العَطِيَّةَ» (hədiyyəni az etdi) (٣). «وتوتَّحْتُ من الشراب» (içkidən azca içdim) — ondan azacıq içdim. «وأوتَحْتُ حَظَّه» (payını azaltdım) — onun payını az etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

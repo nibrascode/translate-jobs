@@ -1,0 +1,17 @@
+{
+ "i": 4035,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 382,
+  "page_to": 382
+ },
+ "ar": "النون والباء والكاف كلمةٌ تدلُّ على ارتفاعٍ وهبوطٍ في الأرض. يقال نَبَكَةٌ، والجمع نِبَاكٌ.",
+ "az": "[نبك] (nəbək): Nun, ba və kaf – yerdə ucalığa və enişə dəlalət edən kəlmədir. «نَبَكَةٌ» (nəbəkətun) deyilir, cəmi «نِبَاكٌ» (nibakun) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4063,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 395,
+  "page_to": 396
+ },
+ "ar": "النون والجيم والفاء أصلانِ صحيحان: أحدُهما يدلُّ على تبسُّطٍ في شَيءٍ مكانٍ أو غيره، والآخَر يدلُّ على استخراج شيء.\nفالأوَّل النَّجَف: مكانٌ مستطيل منقادٌ ولا يعلوه الماءُ، والجمع نِجَاف. ويقال هي بطونٌ من الأرض في أسافِلِها سُهولةٌ تنقاد في الأرض، لها أوديةٌ تنصبُّ إلى لينٍ من الأرض. ويقال لإبِطِ الكثيب: نَجَفَةُ الكَثِيب.\nومن الباب النَّجِيف [من (٢)] السِّهام: العَرِيض. ونَجَفْتُ السَّهمَ: بَرَيْتُه كذلك وأصلحتُه، وسهمٌ منجوفٌ ونَجيف. وغارٌ منجوفٌ: واسع.\nوالثاني: تيسٌ منجوف، وهو أن يُعَصَّبَ قضيبُه ولا يقدِرَ على السِّفاد، وكأنَّه قد قُطِع عنه ماءٌ واسْتُخْرِج. والانتجاف: استخراجُ ما في الضَّرعِ من اللبن.\nوالمَنجوف: المنْقَطع عن النِّكاح. وانتَجَفَت الرِّيحُ السَّحَابَ: مَرتْه واستَفرغَتْه.",
+ "az": "«نجف» (n-j-f): nun, cim və fa hərfidir, iki səhih əsasdır: biri bir yerdə və ya başqa yerdə genişliyə dəlalət edir, digəri isə bir şeyi çıxarmağa dəlalət edir. Birincisi – «النَّجَف» (ən-nəcəf): suyun çıxmadığı uzunsov idarə olunan yer, cəmi «نِجَاف» (nicaf) gəlir. Deyilir ki, bunlar yerin aşağılarında axarlı düzənliklərdir, yerin yumşaq hissəsinə axan dərələrə malikdir. Təpənin qoltuğuna «نَجَفَةُ الكَثِيب» (nəcəfət əl-kəsib) deyilir. Bu fəsildəndir oxların «النَّجِيف» (ən-nəcif) [sözü] – enli. «ونجَفْتُ السَّهمَ» (Nəcəftü əs-səhmə) – oxu elə yondum və düzəltdim, «منجوف» (mənquf/məncuf) və «نَجِيف» (nəcif) ox. «غارٌ منجوفٌ» (Gârun məncufun) – geniş mağara. İkincisi: «تيسٌ منجوفٌ» (tysun məncufun) – cinsi orqanı bağlanmış və cütləşməyə gücü çatmayan təkədir, guya ondan su kəsilmiş və çıxarılmış kimidir. «الانتجاف» (əl-inticəf) – əmçəkdə olan südün hamısını çıxarmaq. «المَنجوف» (əl-məncuf) – nikahdan kəsilmiş. «وانتَجَفَت الرِّيحُ السَّحَابَ» (İntəcəfəti ər-rihü əs-səhabə) – külək buludu keçdi və onu boşaltdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:41.628Z"
+}

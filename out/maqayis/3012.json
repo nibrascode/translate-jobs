@@ -1,0 +1,17 @@
+{
+ "i": 3012,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 454,
+  "page_to": 454
+ },
+ "ar": "الفاء والنون والقاف أُصَيْلٌ يدلُّ على كَرَم ونَعْمة. من ذلك الفَنِيق: الفَحْل المكْرَم لا يُؤذَى لكرامته. ويقال الفُنَقُ: الجارية المنعَّمة.\nوالمفنّق: * المنعّم.",
+ "az": "«فنق» (fənəq): Fə, nun və qaf hərfləri kərəmə (nəcibliyə) və nemətə dəlalət edən əsas sözdür. Bunlardan biri «الفَنِيق» (fəniq) sözüdür: ehtiram olunan, kəramətinə görə əziyyət verilməyən hörmətli erkək dəvə. Deyilir ki, «الفُنَقُ» (fünəq) — nemət içində böyüdülmüş cariyədir.\n«المفنّق» (müfənnəq) — nemət içində, rahat yaşayan deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.105Z"
+}

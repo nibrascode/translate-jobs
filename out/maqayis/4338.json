@@ -1,0 +1,17 @@
+{
+ "i": 4338,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هدق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 40,
+  "page_to": 40
+ },
+ "ar": "الهاء والدال والقاف. فيه من طرائف ابن دريد (٣):\nالهَدْق: الكَسْر.",
+ "az": "[هدق] الهاء والدال والقاف (Hə, dal və qaf). فيه من طرائف ابن دريد (٣): الهَدْق: الكَسْر (İbn Dureydin qəribəliklərindən bunda var: əl-hədq: qırıq, sınma).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:57.624Z"
+}

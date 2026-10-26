@@ -1,0 +1,17 @@
+{
+ "i": 4186,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نغي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 452,
+  "page_to": 452
+ },
+ "ar": "النون والغين والحرف المعتلّ كلمةٌ تدلُّ على كلامٍ طيّب.\nيقولون: هو ينَاغِي الصّبِىَّ: يكلِّمهُ بما يسرُّه ويُجْذِلُه من الكلام. ومنه:\nكلَّمته فَمَا نَغَى بحرف. وسمِعْت نَغْية. قال:\n* لما أتانِي نَغْيةٌ كالشُّهدِ (٢) *\nومنه جبلٌ يناغِي السَّماء، كأنَّه داناها فهو يكلِّمها. والمُناغاة المُغازَلة.",
+ "az": "[نغي] (ن، غ və hərfi-mötəl) — gözəl sözə dəlalət edən bir kökdür. Deyirlər: o, uşaqla يناغِي (yinəği — şirin-şirin danışır): ona xoş gələn və könlünü oxşayan sözlər danışır. Bunlardan biri də budur: كلَّمته فَمَا نَغَى بحرف (Onunla danışdım, lakin o, bir hərf belə dillənmədi). Və سمِعْت نَغْية (Bir səs-küy eşitdim). Şair demişdir: * لما أتانِي نَغْيةٌ كالشُّهدِ (٢) * (* Mənə bal kimi şirin bir səs gəlib çatdıqda *). Həmçinin جبلٌ يناغِي السَّماء (səmlə danışan, səmi qucaqlayan dağ) ifadəsi də bundandır; sanki dağ gölə yaxınlaşmış və onunla danışır. المُناغاة (əl-münəğat) — şirin-şirin danışmaq, nazlanmaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

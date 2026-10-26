@@ -1,0 +1,17 @@
+{
+ "i": 3734,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 271,
+  "page_to": 271
+ },
+ "ar": "الميم والسين أصلٌ صحيح واحد يدلُّ على جَسِّ الشّيء باليد.\nومَسِسْتُه أَمَسُّهُ. وربَّما قالوا: مَسَسْتُ أَمُسُّ. والممسُوس: الذي به مَسٌّ.\nكأنّ الجِنّ مسَّتْه. والمَسُوس من الماء: ما نالته الأيدي. قال:\nلو كنت ماءً كنت لا … عذبَ المذاقٍ ولا مَسُوسا (٣)",
+ "az": "«مس» (məsə) — Mim və sin hərfləri bir şeyi əllə yoxlamağa (toxunmağa) dəlalət edən tək səhih bir əslidir. «مَسِسْتُه أَمَسُّهُ» (məsisthû əməssühû) — ona toxundum, toxunuram. Bəzən də «مَسَسْتُ أَمُسُّ» (məsisthû əmüssü) deyirlər. «والممسُوس» (əl-məmsûs) — məruz qalmış, xəstə, sanki cin toxunmuş adam. «والمَسُوس» (əl-məsus) — əllərin çatdığı su. Şair demişdir: \nلو كنت ماءً كنت لا … عذبَ المذاقٍ ولا مَسُوسا \n(Əgər su olsaydın, nə dadı şirin, nə də əllərin çatdığı olardın) (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

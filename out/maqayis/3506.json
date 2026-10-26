@@ -1,0 +1,17 @@
+{
+ "i": 3506,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 176,
+  "page_to": 176
+ },
+ "ar": "الكاف والراء والدال أصلٌ صحيح يدلُّ على مُدافَعةٍ وإطْراد. يقال: هو يَكرُدُهم، أي يدفعهم ويطردُهم. ويزعمون أنّ الكُرْدَ، هؤلاء القَومَ، مشتقٌّ من المُكارَدَة، وهي المطاردة. قال:\n* ألا إنَّ أهل الغَدْرِ آباؤك الكُرْدُ *\nفأمَّا الكَرْد فالعُنُق، قالوا: هو معرَّب.\nومِمَّا فيه ولا يُعلَم صحّته، قولُهم: إنّ الكِرْدِيدة: القطعة من التَّمر. ويُنشِدون:\nطُوبَى لمن كانت له كِرْدِيدهْ … يأكلُ منها وهو ثانٍ جيدَهْ (٢)\nوما أبْعَدَ هذا وشِبهَهُ من الصحّة. واللّه أعلم.",
+ "az": "[kərd] \nКаф, ra və dal – müdafiə olunmağa və qovub uzaqlaşdırmağa dəlalət edən səhih bir kökdür. Deyilir: «هو يَكرُدُهم» (həüə yəkrudühüm) – yəni o, onları dəf edir və qovub uzaqlaşdırır. Güman edirlər ki, «الكُرْد» (əl-kürd) – yəni bu qovum «المُكارَدَة» (əlmükaradə) – yəni qovub qovvalamaq sözündən törəmişdir. Şair demişdir:\n* ألا إنَّ أهل الغَدْرِ آباؤك الكُرْدُ *\n(Bilin ki, xainlərin ataları kürdlərdir)\nQaldı ki, «الكَرْد» (əl-kərd) – boyundur, dedilər ki, bu, ərəbləşdirilmiş sözdür.\nSəhihliyi dəqiq bilinməyən sözlərdən biri də onların «الكِرْدِيدة» (əl-kirdidə) – bir tikə xurma deməsidir. Onlar bu beyti dəlil gətirirlər:\nطُوبَى لمن كانت له كِرْدِيدهْ … يأكلُ منها وهو ثانٍ جيدَهْ (٢)\n(Nə o kəsə ki, bir tikə xurması ola... boynunu əyərək ondan yeyə)\nBu və buna bənzər sözlərin səhihlikdən nə qədər uzaq olduğunu bir Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

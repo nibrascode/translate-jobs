@@ -1,0 +1,17 @@
+{
+ "i": 3555,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 206,
+  "page_to": 206
+ },
+ "ar": "اللام والطاء أُصَيلٌ صحيح، يدلُّ على مقارَبة ومُلازَمَة وإلحاح من ذلك قولهم: ألَطَّ الرّجل، إذا اشتدَّ في الأمر. ويقال لطّ به: لَزِمه. وكلُّ شيءٍ سُتِرَ بشيءٍ فقد لُطَّ به. ولَطَّت النّاقةُ بذَنبِها، إذا جعلَتْه بين فخِذَيْها في مَسِيرِها. واللَّطُّ: قِلادةٌ من حَنْظلٍ، وسُمِّيت لَطًّا لملازمتِها النَّحر. والجمع لِطَاط.\nواللِّطَاط: حرف الجبل. ومِلطاط البعير: حرفٌ في وسَط رأسِه. والمِلْطَاط: حافَة الوادِي، وسمِّي كلُّ ذلك لأنَّه ملازِمٌ لا يُفارِق. واللِّطْلِط: العجوز الكبيرة، لأنها ملازمةٌ لمكانها لا تكاد تبرح.",
+ "az": "«لط» - لام və ta yaxınlaşmağa, yapışmağa və israra dəlalət edən kiçik bir səhih əsasdır. Bunlardan biri onların bu sözüdür: «ألَطَّ الرّجل» (ələttar-rəcül) - kişi işdə şiddət göstərdi. Həmçinin «لطّ به» (ləttə bihə) - ona yapışdı, deyilir. Hər hansı bir şeylə örtülən hər bir şeyə «لُطَّ به» (lüttə bihə) deyilmişdir. Və «لَطَّت النّاقةُ بذَنبِها» (ləttətin-naqətü bizənbihə) - dəvə gedişində quyruğunu budlarının arxasına qoydu. «اللَّطُّ» (əl-lətt) - hənzəl bitkisindən (çöl qovunundan) olan boyunbağıdır, boğazına yapışdığı üçün ona «lətt» adı verilmişdir. Cəmi «لِطَاط» (litat) olur. Və «اللِّطَاط» (əl-litat) - dağın sərt ucu (kənarı). Və dəvənin «مِلطاط» (miltat) - başının ortasındakı çıxıntıdır. Və «المِلْطَاط» (əl-miltat) - vadinin kənarıdır, bütün bunlara ona görə belə ad verilmişdir ki, onlar yapışıb ayrılmırlar. Və «اللِّطْلِط» (əl-litlit) - qoca nənədir, çünki o, yerindən tərpənməyərək öz yerinə yapışıb qalır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

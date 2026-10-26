@@ -1,0 +1,17 @@
+{
+ "i": 3350,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 110,
+  "page_to": 110
+ },
+ "ar": "القاف والعين والصاد أصلٌ صحيح يدلُّ على داء يدعو إلى الموت. يقال: ضربَه فأقْعَصَه، أي قَتلَه مكانَه. والقَعَص: الموت الوَحيّ. ومات فلانٌ قَعْصاً. والقُعَاص: داءٌ يأخذ في الصَّدر كأنَّه يكسِر العنُق، يقال قُعِصت فهي مقْعُوصة.",
+ "az": "[قعص] (qə-ə-s): Qaf, eyn və sad ölümlə nəticələnən xəstəliyə dəlalət edən doğru bir əsasdır. Deyilir: «ضربَه فأقْعَصَه» (darabəhü fəəqə-əsəhü) — yəni onu vurub elə yerindəcə öldürdü. Və «القَعَص» (əl-qəs): ani ölüm. Və filankəs «مات فلانٌ قَعْصاً» (mətə fülanün qəsrən) — qəfil ölümlə öldü. Və «القُعَاص» (əl-quəs): sinəni tutan və boynu sındıran kimi olan bir xəstəlikdir. Deyilir: «قُعِصت فهي مقْعُوصة» (qu-isət fəhi məquusətün).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

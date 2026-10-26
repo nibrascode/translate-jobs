@@ -1,0 +1,17 @@
+{
+ "i": 4687,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يزن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 155,
+  "page_to": 155
+ },
+ "ar": "الياء والزاء والنون. ليس فيه إلا ذو يَزَن، من ملوك حِمْيَرَ، ينسب إليه الرِّماح، فيقال يَزَنيّة وأَزَنيَّة.",
+ "az": "«يزن» (Y-Z-N): Burada yalnız Həmin-yön krallarından olan ذو يَزَن (Zü-Yəzən) vardır; nizələr ona nisbət edilir, buna görə də «يَزَنيّة» (yəzəniyyə) və «أَزَنيَّة» (əzəniyyə) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

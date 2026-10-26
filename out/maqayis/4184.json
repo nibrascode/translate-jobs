@@ -1,0 +1,17 @@
+{
+ "i": 4184,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نغل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 451,
+  "page_to": 451
+ },
+ "ar": "النون والغين واللام كلمةٌ تدلُّ على فسادٍ وإفساد. النَّغِل:\nالأديم الفاسد. يقولون: «وقد يُرْقَع النَّغِل». يقال إن النَّغَل (٤): الإفساد بين القوم والنَّميمةُ.",
+ "az": "[نغل] (ن، غ، ل) — fəsad və fitnə-fəsada dəlalət edən bir sözdür. النَّغِل (ən-nəğil): çürümüş, xarab olmuş dəri. Deyirlər: «وقد يُرْقَع النَّغِل» («Hətta çürümüş dəri də yamana bilər»). Deyilir ki, النَّغَل (٤) (ən-nəğəl): insanlar arasında fitnə-fəsad törətmək və sözgəzdirməkdir (qeybətdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

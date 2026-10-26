@@ -1,0 +1,17 @@
+{
+ "i": 3601,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ليت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 223,
+  "page_to": 223
+ },
+ "ar": "اللام والياء والتاء كلمتانِ لا تنقاسان (١): إحداهما: اللِّيت:\nصَفْحة العُنق، وهما لِيتانِ. والأخرى اللَّيْت، وهو النَّقْص. يقال: لاتَه يَلِيتُه:\nنَقَصه. قال اللّه تعالى: ﴿لا يَلِتْكُمْ مِنْ أَعْمالِكُمْ شَيْئاً﴾. واللّيْت: الصَّرف، يقال لاتَهُ يَلِيته. قال:\nوليلةٍ ذاتِ دُحًى سريتُ … ولم يَلِتْني عن سُراها ليتُ (٢)\nولَيْت: كلمة التَّمنِّي",
+ "az": "«ليت» (ليت): اللام والياء والتاء كلمتان لا تنقاسان (١) (Lam, yə və tər qiyas olunmayan iki kəlmədir): إحداهما: اللِّيت: صفحة العُنق، وهما ليتان (Birincisi: əl-lit - boyun səthi, və onlar iki litdir). والأخرى الليمت، وهو النقص (Və digəri əl-ləyt - əskilməkdir). يقال: لاتَه يَلِيتُه: نقصه (Deyilir: lâtəhu yalituhu: onu əskiltdi). قال الله تعالى (Uca Allah mənaca tərcümə: «لا يَلِتْكُمْ مِنْ أَعْمالِكُمْ شَيْئاً» - «...əməllərinizdən heç bir şeyi əskiltməz» (əl-Hucurat, 14)). والليت: الصرف، يقال لاتَه يَلِيتُه (Və əl-ləyt - dönmək, deyilir: lâtəhu yalituhu). قال (şair demişdir): ويلة ذات دُحًى سريتُ … ولم يلتني عن سراها ليتُ (٢) (Qaranlıq gecədə səyahət etdim və heç bir şey məni onun gedişindən yayındırmadı). وليت: كلمة التمني (Və leyt: arzu kəlməsidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.900Z"
+}

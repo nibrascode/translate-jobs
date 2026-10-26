@@ -1,0 +1,17 @@
+{
+ "i": 3806,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 300,
+  "page_to": 300
+ },
+ "ar": "الميم والحاءُ والصَّاد أصلٌ واحد صحيح يدلُّ على تخليصِ * شيء وتنقيته. ومَحَصَه مَحْصاً: خلَّصَه من كل عيبٍ. [و] مَحَصَ اللّه العبدَ من الذَّنْب: طهَّرَه منه ونقّاه، ومَحَّصَهُ (٢). قال اللّه تعالى: ﴿وَلِيُمَحِّصَ اَللّهُ اَلَّذِينَ آمَنُوا﴾. ومَحّصْتُ الذّهبَ بالنّار: خلّصته من الشَّوب. وقولهم: فرسٌ مُمَحَّص يقولون: إنّه الشديد الخَلْق وقياسُه عندنا أنّه البرِيء من العيوب. وكذلك المَحِص من الحِبال والأوتار (٣): ما مُحِص حتى ذهب زئبِرهُ ولانَ. قال الهُذَلي (٤):\nلها مَحِصٌ غيرُ جافِي القوَى … إذا مُطْيَ حنّ بِوَرْكِ حُدَالِ (٥)",
+ "az": "[محص] (Mim, ha və sad): Bir şeyi xalis etməyə və təmizləməyə dəlalət edən səhih tək bir əsldir. «مَحَصَه مَحْصاً» (məhəcəhu məhzən): onu hər bir eyb və qüsurdan xalis etdi, təmizlədi. [وَ] «مَحَصَ اللّه العبدَ من الذَّنْب» (məhəcəlləhül-abdə minəz-zənb): Allah bəndəni günahdan təmizlədi, pak etdi, həmçinin «مَحَّصَهُ» (məhhasəhü) demişlər (٢). Uca Allah buyurmuşdur mənaca tərcümə: «Və Allah iman gətirənləri təmizləsin (günahlardan pak etsin)» (﴿وَلِيُمَحِّصَ اَللّهُ اَلَّذِينَ آمَنُوا﴾). «مَحّصْتُ الذّهبَ بالنّار» (məhһaştüz-zəhəbə bin-nar): Qızılı odla xalis etdim, onu qatışıqdan təmizlədim. Onların «فرسٌ مُمَحَّص» (fərisün muməhhəS) sözünə gəldikdə, deyirlər ki, o, xilqətcə möhkəm olan deməkdir, bizə görə isə bunun qiyası – eyiblərdən uzaq olan deməkdir. İplərdən və ox kaman tellərindən olan «المَحِص» (əl-məhic) də belədir (٣): tüklü səthi gedib hamarlaşana qədər təmizlənmiş və safardılmış ip. Hüzəli şair demişdir (٤):\nلها مَحِصٌ غيرُ جافِي القوَى … إذا مُطْيَ حنّ بِوَرْكِ حُدَالِ (٥)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

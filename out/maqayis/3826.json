@@ -1,0 +1,17 @@
+{
+ "i": 3826,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 306,
+  "page_to": 306
+ },
+ "ar": "الميم والدال والنون ليس فيه إلاّ مدينة، إن كانت على فعيلة، ويجمعونها مُدُنًا. ومدَّنْتُ مَدينةً.",
+ "az": "«مدن» (mim, dal və nun) — burada yalnız مَدينة (şəhər) sözü vardır, əgər فعيلة (fəilə) qəlibindədirsə, onu مُّدُنًا (mədun - şəhərlər) olaraq cəmləyirlər. Və مَدَّنْتُ مَدينةً (şəhər saldım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

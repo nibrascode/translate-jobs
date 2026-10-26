@@ -1,0 +1,17 @@
+{
+ "i": 3553,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 205,
+  "page_to": 205
+ },
+ "ar": "اللام والصاد أُصيلٌ صحيحٌ يدلُّ على ملازَّةٍ ومقارَبَةٍ. من ذلك اللَّصَص، وهو تقارُب المَنْكِبَين، يكادان يمسَّان الأذُنين: والألَصُّ: المتقارب الأضراس أيضاً. ويقال لُصِّصَ البُنيانُ مثل رُصِّص. ويقال إنَّ الجَبْهة الضيِّقة اللَّصَّاء. واللَّصَّاء من الغنم: التي أقبَلَ أحد قرنَيها على الوجه. ومن الباب اللِّصُّ، لأنّه يلصَق بالشَّيء يريد أخْذَه. وفِعلُه اللَّصُوصية بفتح اللام (٣) * ويقال أرضٌ مَلَصَّةٌ: كثيرة اللُّصوص.",
+ "az": "«لص» - لام və sad birləşməyə və yaxınlaşmağa dəlalət edən kiçik bir səhih əsasdır. Bunlardan biri «اللَّصَص» (əl-ləsəs) - qulaqlara demək olar ki toxunacaq dərəcədə çiyinlərin yaxın olmasıdır. «الألَصُّ» (əl-ələss) - azı dişləri bir-birinə yaxın olan. Həmçinin tikiliyə «لُصِّصَ البُنيانُ» (lüssisəl-bünyanü) - «رُصِّص» (rüssisə) kimi möhkəmlədildi, deyilir. Deyilir ki, dar alına «اللَّصَّاء» (əl-ləssa) deyilir. Qoyunlardan «اللَّصَّاء» (əl-ləssa) - buynuzlarından biri üzünə tərəf əyilənidir. Bu babdandır «اللِّصُّ» (əl-liss) - oğru, çünki o, almaq istədiyi şeyə yapışır. Onun feli «اللَّصُوصية» (əl-ləsususiyyə) - ləmin fəthi ilədir (٣). * Deyilir ki, «أرض مَلَصَّةٌ» (ərdün mələssətün) - oğruları çox olan torpaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

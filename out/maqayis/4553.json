@@ -1,0 +1,17 @@
+{
+ "i": 4553,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 113,
+  "page_to": 113
+ },
+ "ar": "الواو والشين واللام، يدلُّ على سَيلَانِ ماءٍ قليل. فالوَشَل:\nالماء القليل، وجمعُه أوشال. وجبلٌ واشلٌ: يقطُر منه الماء. وهو واشِلُ الحظِّ:\nناقِصُه. والوُشُول: قلّة الغَناء والضَّعفُ. وناقةٌ وَشُولٌ: يسيل ضَرعُها، وذلك من كَثْرة اللَّبَن.",
+ "az": "«وشل» الواو والشين واللام (vav, şin və lam), az suyun axmasına dəlalət edir. الوَشَل (əl-vəşəl) - az su, cəmi أوشال (əvşal) gələr. جبلٌ واشلٌ (cəbəlün vəşilün) - suyundan damcı axan dağ. وهو واشِلُ الحظِّ (və vāşilü əl-hazzİ) - nəsibində az olan. الوُشُول (əl-vüşül) - nemətin az olması və zəiflik. ناقةٌ وَشُولٌ (nəqatün vəşülün) - əmçəyindən süd axan dəvə, bu da südün çoxluğundandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

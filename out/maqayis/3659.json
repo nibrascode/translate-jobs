@@ -1,0 +1,17 @@
+{
+ "i": 3659,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لدس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 242,
+  "page_to": 243
+ },
+ "ar": "اللام والدال والسين كلماتٌ تدلُّ على لُصوق شيء بشيء حتَّى يأخذَ منه. يقال: لَدَس المالُ النّباتَ، أي لَحِسه. ويقال لأوَّلِ ما يَطلُع مِنْ النَّبات اللَّدِيس، لأنَّ المال يلدُسه. ولُدِست النّاقةُ، أي رميت باللَّحم، كأنَّ السِّمَن لَمَّا لزِمَها كان كالشَّيء يَلصَق بالشَّيء. ولَدَسْتُ البعيرَ، إذا أنعَلْتَه. ويقال\nللفحولِ الشِّداد مَلَادِس، لأنَّ كلَّ واحد منها يُلدَس بالآخر: يُعرَك (١).\nواللّه أعلم بالصَّواب.",
+ "az": "[لدس] (Lədəsə) — Lam, dal və sin kəlmələridir, bir şeyin digər bir şeyə ondan yapışana qədər yapışmasına dəlalət edir. Deyilir: «لَدَس المالُ النّباتَ» (lədəsəl-məlun-nəbətə) — yəni heyvan bitkini yaladı. Bitkinin ilk çıxan hissəsinə اللَّدِيس (əl-lədis) deyilir, çünki heyvan onu yalayır. «لُدِست النّاقةُ» (ludisət-nəqətu) — yəni ona ət atıldı, sanki kökəklik ona yapışanda bir şeyin digər bir şeyə yapışması kimi idi. «لَدَسْتُ البعيرَ» (lədəstul-bəirə) — dəvəyə nal vurduğun zaman deyilir. Güclü erkək dəvələrə مَلَادِس (mələdis) deyilir, çünki onların hər biri digəri ilə sürrtünür, ovuşdurulur (١).\nƏn doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

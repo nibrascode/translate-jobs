@@ -1,0 +1,17 @@
+{
+ "i": 3967,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 358,
+  "page_to": 358
+ },
+ "ar": "النون والفاء كلمة واحدة، هي النَّفنَف: الهواء. وكلّ مهوّى بين شيئين نفنف. قال الشّاعر (٢):\nتعلّق في مثل السّواري سيوفنا … وما بينها والكعب غوط نفانف (٣)",
+ "az": "[نف] Nun və fa - tək bir kəlmədir, o da «النَّفنَف» — havadır (boşluqdur). İki şey arasındakı hər bir boşluq nəfnəfdir. Şair demişdir (٢):\n«تعلّق في مثل السّواري سيوفنا … وما بينها والكعب غوط نفانف (٣)»\n(Sütunlar kimi asıldı qılınclarımız... və onların arası ilə topuq arasında dərin boşluqlar var)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

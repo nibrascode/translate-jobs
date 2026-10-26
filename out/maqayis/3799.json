@@ -1,0 +1,17 @@
+{
+ "i": 3799,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 297,
+  "page_to": 298
+ },
+ "ar": "الميم والجيم والراء ثلاثُ كلماتٍ لا تنقاس.\nفالأولى المَجْر، وهو الدَّهْم، الكَثِير.\nوالثانية المَجْر: أن يُبَاعَ الشّيءُ بما في بَطْنِ الناقة. و\nنهى رسولُ اللّه صلى اللّه عليه وآله عن المَجْر. وكانت [العرب] في الجاهلية تفعله.\nوالثالثة المَجَر بفتح الجيم، وهو ما يكون في بطون الإِبل والشّاء من داءِ.\nوشاةٌ مُمْجِرٌ ومِمجارٌ، إذا حملت فُهزِلت فلم تستطع القيام إلاَّ بمن يُقِيمها، وقَلَّمَا تسلُم منه قال رجلٌ من العرب: «الضأنُ مالُ صِدْق إذا أفلتَتْ من المجَر».",
+ "az": "[مجر] الميم والجيم والراء üç sözdür ki, qanuna tabe deyildir.\nBirincisi «المَجْر» (məcr)-dir, yəni çoxluq, sel kimi axın.\nİkincisi «المَجْر» (məcr): bir şeyin dəvənin bətnindəki ilə satılmasıdır. Rəsulullah sallallahu aləhi və alih mərdən (məcr satışından) qadağan etmişdir. [Ərəblər] cahiliyyə dövründə bunu edərdilər.\nÜçüncüsü cimi açıqla «المَجَر» (məcər)-dir, bu, dəvələrin və qoyunların bətnində olan bir xəstəlikdir. Və «شاةٌ مُمْجِرٌ» (mumcir) və «مِمجارٌ» (mimcar) qoyun — hamilə olub arıqlayan, başqası qaldırmasa ayağa dura bilməyən və bundan salamat qurtulması nadir olan qoyundur. Ərəblərdən biri demişdir: «الضأنُ مالُ صِدْق إذا أفلتَتْ من المجَر» (Qoyun xəstəlikdən xilas olarsa düzgün maldır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:09.385Z"
+}

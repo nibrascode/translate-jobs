@@ -1,0 +1,17 @@
+{
+ "i": 3612,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لاه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 227,
+  "page_to": 227
+ },
+ "ar": "اللام والألف والهاء. لاه اسمُ اللّه تعالى، ثم أدخلت الألف واللام للتعظيم. قال:\nلَاهِ ابنُ عمِّكَ لا أَفْضَلْتَ فى حَسَبٍ … عنِّي ولا أنتَ دَيَّانِي فتَخزوني (٣)",
+ "az": "«لاه» (لال və həmzə). لاه (Ləh) Uca Allahın adıdır, sonra təzim üçün əlif və lam əlavə olunmuşdur. (Şair) demişdir: «Lahi ibn amməkə...» (Ey əmin oğlu Lah, nə əsl-nəcabətdə mənə üstün gəldin, nə də mənim hökmdarımsan ki, məni cəzalandırasan!) (٣)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.832Z"
+}

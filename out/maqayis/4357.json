@@ -1,0 +1,17 @@
+{
+ "i": 4357,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 47,
+  "page_to": 48
+ },
+ "ar": "الهاء والراء والعين: أصلٌ صحيحٌ يدلُّ على حركةٍ واضطراب.\nوأُهْرِعَ الرّجُلُ: ارتَعَدَ فَرَقاً. وسمِّىَ الأحمقُ هَيْرَعاً لاضطرابِ رائِهِ. ويمكن أنَّ الهاء فيه زائدة، فيكون من باب يَرَع. ويقال الهِرْياع: سَفِير الشَّجرِ، لأنَّه مضطرِبٌ تحمِلُهُ الرِّيحُ من موضعٍ إلى موضع.\nومن الباب: الهَرِع: الدَّمعُ أو الدّمُ الجارِى. وتَهَرَّعَتِ الرِّماحُ: أقبلَتْ شوارِعَ. وهم يُهْرَعُون إليه، أى يُساقُون.\nومما ليس من الباب الهَرْعة (١): دُوَيْبَّة. يقال لها هَرِيعٌ (٢) وهريع (٣).",
+ "az": "«هرع» — الهاء والراء والعين (hə, ra və eyn): hərəkətə və iztiraba dəlalət edən səhih bir kökdür. أُهْرِعَ الرّجُلُ (adam qorxudan titrədi). Axmaq adam titrək rəyinə görə هَيْرَع (heyrə) adlandırıldı. Ola bilər ki, həmzə (və ya hə) hərfi burada artıqdır, beləliklə də يَرَع (yərə) babından olar. Deyirlər ki, الهِرْياع (hiryac) — ağacların səfiri, yəni küləyin birிகi yerdən başqa yerə daşıdığı səssiz hərəkət edən budaqdır. Bu babdandır: الهَرِع (haric) — axan göz yaşı və ya qan. وتَهَرَّعَتِ الرِّماحُ (nizələr ucları irəlidə vəziyyətdə yönəldi). وهم يُهْرَعُون إليه (və onlar ona tərəf sürüklənirlər, yəni aparılırlar). Bu babdan olmayan: الهَرْعَة (hərcə) — kiçik bir böcəkdir. Ona هَرِيعٌ (hari) və هريع (hari) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.864Z"
+}

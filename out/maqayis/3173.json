@@ -1,0 +1,17 @@
+{
+ "i": 3173,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 14,
+  "page_to": 14
+ },
+ "ar": "القاف والعين أصلٌ صحيح يدلُّ على حكاياتِ صوتٍ. من ذلك القَعقَعة: حكايةُ أصوات التِّرَسةِ وغيرها. والمُقَعقِع: الذى يُجيل القِداح.\nويكون للقِداح عند ذلك أدنَى صوت. ويقال رجلٌ قَعقعانىٌّ، إذا مَشَى سمِعتَ لمفاصله قَعقَعةً. قال:\n* قَعْقعَةَ المِحوَرِ خُطَّافَ العَلَقْ (٤) *\nوحِمارٌ قَعقعانىٌّ، وهو الذى إذا حَمَلَ على العانة صَكَّ لَحْيَيْه. ويقال: قَرَبُ قَعْقاعٌ: حثيث، سمِّى بذلك لما يكون عندهُ من حركات السَّير وقَعْقَعته. وطريقٌ قعقاعٌ: لا يُسلَك إلاَّ بمشقَّة. فأمَّا القُعَاعُ فالماء المُرُّ الغليظ. يقال: أَقَعُّوا، إذا أنْبَطُوا قُعَاعاً. فهذا ممكنٌ أنْ يكون شاذَّا عن الأصل الذى ذكرناه، وممكن أن يكون مقلوباً من عَقَّ، وقد مضى ذِكره. ويقولون: قَعْقَع فى الأرض: ذَهَب.\nوهذا من قياس الباب، لما يكون له عند سَيرِه من حركةٍ وقَعقعة.",
+ "az": "[قع] \nقاف və eyn hərfləri səslərin təqlidinə dəlalət edən səhih bir əsasdır. Bunlardan biri «القَعْقَعَة» — qalxanların və digər şeylərin çıxartdığı səslərin təqlididir. «المُقَعقِع» — oxları (qumar oxlarını) hərəkət etdirən şəxsdir.\nBu zaman oxlar zəif bir səs çıxarır. Deyilir ki, filankəs «رجلٌ قَعقعانىٌّ»-dir (yəni yerişən zaman oynaqlarının səsi eşidilir). Şair demişdir:\n* قَعْقَعَةَ المِحوَرِ خُطَّافَ العَلَقْ (٤) *\n(Suluyalan çəngəlin oxunun xırçıltısı kimi)\n«حِمارٌ قَعقعانىٌّ» — elə bir eşşəkdir ki, dişi eşşəyə hücum edərkən çənələrini bir-birinə vurur. Deyilir: «قَرَبُ قَعْقاعٌ» — sürətli yerişdir, gediş-gəliş hərəkətləri və çıxartdığı səbəbdən belə adlandırılmışdır. «طريقٌ قعقاعٌ» — ancaq məşəqqətlə gedilən yoldur. «القُعَاعُ» gəldikdə isə, o, acı və qatı sudur. Deyirlər: «أَقَعُّوا» (acı su çıxardılar). Bu, qeyd etdiyimiz əsasdan istisna (şaz) ola bilər, həmçinin «عَقَّ» sözündən tərs çevrilmiş (məklob) olması da mümkündür, bunun zikr olunmuşdu. Onlar deyirlər: «قَعْقَع فى الأرض» (yerdə getdi, gəzdi).\nBu da səyahət zamanı etdiyi hərəkət və səsə görə fəslin qanunauyğunluğundandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:04.334Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4223,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 470,
+  "page_to": 470
+ },
+ "ar": "النون والقاف والشين أصلٌ صحيحٌ يدلُّ على استخراج شيء واستيعابِه حَتَّى لا يُتركَ منه شيء؛ ثم يقاس ما يقاربه. منه نَقْش الشَّعَرْ بالمِنقاش وهو نَتْفُه. ومنه المناقَشة: الاستقصاء في الحساب حَتَّى لا يُتركَ منه شيء. و\nفي الحديث: «مَنْ نُوقِشَ في الحساب عُذِّبَ». ويقال: شَجَّةٌ متقوشةٌ: تنقش منها العظام، أي تُستَخرَج. ويقال: نقَشْتُ مَرْبِضَ الغَنَم: نقَّيْته من الشَّوْك.\nوالنَّقيش: المتاع المتفرِّق، كأنّه انتُقِشَ بعضُه من بعض، أي فارق بعضُه بعضاً.\nومن الباب: نقْشُ الشَّيء: تحسينه، كأنّه ينقُشُه، أي يَنفِي عنه معايِبَه ويحسِّنُه.\nثم يستعار هذا فيقال: نقشت العِذْق (١). وهو أنْ تَضرِبَه بالشَّوك حتى يُرْطِبَ. ويقولون: جادَ ما انتَقَشْتَ هذا، أي ما اختَرْتَه. وهذا نَقِيشُ هذا، أي مثلُه. وما لِلّهِ (٢) ضِدٌّ ولا نَقِيش، أي ما له مَنْ يماثِلُه في صورتِه ونَقشِه.",
+ "az": "[نقش] النون والقاف والشين (n, q, ş) hərfləri bir əsas kök olub, bir şeyin çıxardılmasını və heç nə buraxılmamaq şərtilə tam əhatə olunmasını bildirir; sonra buna yaxın olan mənalar müqayisə edilir. Bunlardan biri «نَقْش الشَّعَرْ بالمِنقاش» – tükü cımbızla yolmaqdır. Həmçinin «المناقَشة» – hesabda heç bir şey buraxılmayana qədər dərindən araşdırma aparmaqdır. Hədisdə demişlər: «مَنْ نُوقِشَ في الحساب عُذِّبَ» (mənaca tərcümə: Kimin hesabı incəliklə yoxlanılarsa, əzab çəkər). Deyilir: «شَجَّةٌ متقوشةٌ» – sümükləri oradan çıxarılan, yəni xaric edilən yara. Deyilir: «نقَشْتُ مَرْبِضَ الغَنَم» – qoyun yatağını tikanlardan təmizlədim. «النَّقيش» – biri digərindən ayrılmış kimi, yəni bir-indən fərqlənmiş səpələnmiş mal-mülk. Bu باب (fəsil / bölgə)-dən olan digər məna: «نقْشُ الشَّيء» – bir şeyi gözəlləşdirmək; elə bil onu nəqş edir, yəni ayıblarını yuyub gözəlləşdirir. Sonra bu söz məcazi mənada işlənərək «نقشت العِذْق (١)» (xurma salxımını tikanla döymək, o yetişənə qədər) deyilmişdir. Deyirlər: «جادَ ما انتَقَستَ هذا» – yəni bunu nə gözəl seçmisən. «هذا نَقِيشُ هذا» – yəni bu, bunun tayıdır. «وما لِلّهِ (٢) ضِدٌّ ولا نَقِيش» – yəni Allahın surətində və nəqşində Ona bənzəri yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:43.034Z"
+}

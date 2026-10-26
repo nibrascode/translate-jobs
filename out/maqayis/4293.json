@@ -1,0 +1,17 @@
+{
+ "i": 4293,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 24,
+  "page_to": 24
+ },
+ "ar": "الهاء والياء والشين. الهَيْش: الْحَلْب الرُّوَيْد. والهَيْش:\nالحرَكة. قال: وهاشَ فى القَوم يَهِيش: أفْسَدَ وعاثَ.",
+ "az": "[هيش] (Heyş): Hə, ya və şin. الهَيْش (əl-heyş): aramla süd sağmaq. Və الهَيْش (əl-heyş): hərəkət. Deyilir ki, وهاشَ فى القَوم يَهِيش (haşa fi-l-qavmi yəhiş): fəsad töratdi və azğınlıq etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

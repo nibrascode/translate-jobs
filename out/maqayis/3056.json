@@ -1,0 +1,17 @@
+{
+ "i": 3056,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فتش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 471,
+  "page_to": 471
+ },
+ "ar": "الفاء والتاء والشين كلمةٌ واحدة تدلُّ على بحثٍ عن شئ.\nتقول: فتَشْت فَتْشا، وفَتْشت تفتيشا.",
+ "az": "[فتش] (f-t-ş): Fə, ta və şin hərflərindən ibarət tək bir söz olub, bir şeyi axtarmağa dəlalət edir. Deyirsən: «فتَشْت فَتْشا، وفَتْشت تفتيشا» (axtardım axtarışla, təftiş etdim təftişlə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

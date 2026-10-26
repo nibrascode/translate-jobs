@@ -1,0 +1,17 @@
+{
+ "i": 3269,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قحف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 61,
+  "page_to": 61
+ },
+ "ar": "القاف والحاء والفاء أصلٌ صحيحٌ يدلُّ على شدّةٍ في شيء وصلابة. يقال: القَحْف: شِدَّةُ الشُّرب. ويقولون: «اليومَ قِحافٌ وغَداً نِقافٌ (١)». والقَاحِف من المطر: الشَّديد يَقْحَفُ كلَّ شيء.\nومن الباب القِحْف: العظم فوقَ الدِّماغ، والجمع أقحاف. وقحفتُه: ضرَبْتُ قِحفَه.",
+ "az": "[قحف] «قاف», «حاء» və «فا» bir şeydə şiddətə və möhkəmliyə dəlalət edən səhih bir kökdür. Deyilir: «القَحْف» — çoxlu içmək. Və deyirlər: «اليومَ قِحافٌ وغَداً نِقافٌ (bir)» (Bu gün içmək, sabah isə vuruşmaqdır). Yağışdan olan «القَاحِف» — hər şeyi qoparıb aparan şiddətli yağış. Bu babdandır: «القِحْف» — beynin üzərindəki sümük, cəmi «أقحاف»-dır. Qəhfütuhu (onun kəllə sümüyünə vurdum).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:48.341Z"
+}

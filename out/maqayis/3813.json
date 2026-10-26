@@ -1,0 +1,17 @@
+{
+ "i": 3813,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 303,
+  "page_to": 303
+ },
+ "ar": "الميم والحاء والتاء ليس بأصل، إنّما هو مقلوب. يقولون:\nالمَحْت: الشَّديد من كلِّ شيء. ويومٌ مَحْتٌ: شديدُ الحر. والأصل الحَمْتُ.",
+ "az": "[محت] (Mim, ha və ta): Əsl deyildir, əksinə məqlubdur (tərsinə çevrilmişdir). Deyirlər ki: «المَحْت» (əl-məht): hər bir şeyin şiddətlisi, güclüsü. «يومٌ مَحْتٌ» (yevmün məhtün): şiddətli isti gün. Əsli isə «الحَمْت» (əl-həmt)-dir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

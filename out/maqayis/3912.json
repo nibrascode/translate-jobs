@@ -1,0 +1,17 @@
+{
+ "i": 3912,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 337,
+  "page_to": 338
+ },
+ "ar": "الميم والعين والطاء أصلٌ يدلُّ على تجرُّدِ الشَّيء وتجريده ومَعِطَ\nتمرَّطَ شَعره. ومَعَطْت السَّيفَ من قِرابِهِ: جَرَّدتُه. ويكون من الباب مَعَطَ في القَوس: نَزَع.",
+ "az": "[معط] \nMim, eyn və ta hərfləri bir şeyin soyulmasına və təmizlənməsinə dəlalət edən kökdür. Və مَعِطَ — tükləri töküldü, soyuldu. Və مَعَطْتُ السَّيفَ من قِرابِهِ: qılıncı qınından sıyırıb çıxardım. Və bu babdandır: مَعَطَ في القَوس — oxu yaydan çəkib buraxdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

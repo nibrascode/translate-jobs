@@ -1,0 +1,17 @@
+{
+ "i": 3085,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 481,
+  "page_to": 482
+ },
+ "ar": "الفاء والدال والراء أصلٌ صحيح يدلُّ على قَطْعٍ وانقطاع.\nمن ذلك الفِدْرَة: القِطعةُ من اللَّحم؛ ولست أدرِى أُبنِىَ منها فعلٌ أم لا.\nويقولون: فَدَرَ الفحلُ، إذا عَجَز عن الضِّراب، وهو فادر. وسمِّى لأنَّه إذا عَجَز فقد قَطَعه. وجمع فادر فوادر.\nوقال ابن دريد (١): هذا مما نَدَر فجاء منه فاعل على فواعل. والمَفْدَرة:\nمكان الوُعول الفُدْر.",
+ "az": "«فدر» (fə-d-r): Fə, dal və ra hərfləri kəsilməyə və qırılmağa dəlalət edən səhih bir əsasdır. Bunlardan biri də «الفِدْرَة» (fidrə) - ət parçasıdır; mən bilmirəm bundan hər hansı bir feil düzəlib, ya yox. Deyirlər: «فَدَرَ الفحلُ» (fədarəl-fəhl) - damazlıq erkək dəvə cütləşməkdən aciz qaldı, o, «فادر» (fadir) adlanır. Belə adlandırılmışdır, çünki o, aciz qaldıqda [bu işdən] kəsilmişdir. Fadirin cəmi isə «فوادر» (fəvadir) gəlir. İbn Dürid (١) demişdir: Bu, nadir hallarda gələn sözlərdəndir ki, fəal qəlibində olan söz fəvəil qəlibində cəmlənmişdir. «المَفْدَرة» (məfdərə) - dağ keçilərinin [fudr] məskunlaşdığı yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.849Z"
+}

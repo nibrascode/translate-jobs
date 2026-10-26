@@ -1,0 +1,17 @@
+{
+ "i": 3035,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فيج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 463,
+  "page_to": 463
+ },
+ "ar": "الفاء والياء والجيم يدلُّ على الإسراع. ومن ذلك الفَيْج وقد مضى ذكره، ويقال أصله الواو. والفائجة فى الأرض: [متَّسع ما بين كلِّ مرتفعين من غِلظٍ أو رمل (١)].",
+ "az": "[فيج] \nالفاء والياء والجيم يدلُّ على الإسراع. ومن ذلك الفَيْج وقد مضى ذكره، ويقال أصله الواو. والفائجة فى الأرض: [متَّسع ما بين كلِّ مرتفعين من غِلظٍ أو رمل (١)].\n\nFə, ya və cim hərfləri sürətlənməyə dəlalət edir. Bunlardan biri «الفَيْج» (fəyc)-dir ki, zikr olunmuşdur, deyilir ki, onun əsli vaf hərfidir. Yer üzündəki «الفائجة» (faiqə) — hər iki hündürlük (qalınlıq və ya qum təpəsi) arasındakı genişlikdir (1).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:34.476Z"
+}

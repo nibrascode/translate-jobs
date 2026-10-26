@@ -1,0 +1,17 @@
+{
+ "i": 3934,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مكس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 345,
+  "page_to": 346
+ },
+ "ar": "الميم والكاف والسين كلمةٌ تدلُّ على جَبْىِ مالٍ وانتقاصٍ من الشيء. ومَكَس، إذا جَبَى. والمَكْسُ: الجِباية قال زُهير (٣):\nوفي كلِّ أسواقِ العراقِ إتاوةٌ … وفي كلِّ ما باعَ امرؤٌ مَكْسُ دِرهم (١)\nواللّه أعلمُ بالصَّواب.",
+ "az": "[مكس] \nMim, kaf və sin — vergi yığmağa və bir şeydən əskiltməyə dəlalət edən kəlmədir. Məkəsə (مَكَسَ) — vergi yığdıqda. Və المَكْسُ (əl-maks) — vergi yığımıdır. Züheyr demişdir (٣):\nوفي كلِّ أسواقِ العراقِ إتاوةٌ … وفي كلِّ ما باعَ امرؤٌ مَكْسُ دِرهم (١)\n(İraqın bütün bazarlarında xərac vardır... və hər bir insanın satdığı şeydə bir dirhəm vergi vardır)\nDoğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.515Z"
+}

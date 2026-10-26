@@ -1,0 +1,17 @@
+{
+ "i": 4298,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 25,
+  "page_to": 26
+ },
+ "ar": "الهاء والياء والفاء أصلٌ صحيح يدلُّ على حرارةٍ وعطش، ثم يستعار ذلك. فالهَيْف: ريحٌ حارَّة تجئ فى قُبُل الصَّيف، تُعطِش المالَ وتُوبِسُ الرُّطْبَ. ورجلٌ مِهيافٌ: لا يصيِرُ عن الماء. وأَهَافُوا: عَطِشت إبلَهم. واستُعِير\nفقِيل لمَن دَقَّ خَصرُه: أهْيَف، كأَنَّ ثَمَّ عطَشا؛ والجمع هِيفٌ. وفَرَسٌ هَيْفاء: ضامرة.",
+ "az": "[هيف] (Heyf): Hə, ya və fa istilik və susuzluğa dəlalət edən səhih bir əsldir, daha sonra bu məcazi məna da daşımışdır. الهَيْف (əl-heyf): yayın əvvəlində gələn, mal-qaranı susuzladan və yaş meyvəni qurudan isti külək. ورجلٌ مِهيافٌ (raculun mihyafün): sudan ayrılmayan. وأهَافُوا (əhafu): dəvələri susuzladı.\n\nBu söz məcazi olaraq incəbelli insana da işlədilmişdir və أهْيَف (əhyəf) deyilmişdir, sanki orada bir susuzluq vardır; cəmi هِيفٌ (hifün). وفَرَسٌ هَيْفاء (fərasun həyfa-u): qarın nayihəsi incə olan at.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

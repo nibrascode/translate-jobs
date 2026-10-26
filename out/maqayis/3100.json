@@ -1,0 +1,17 @@
+{
+ "i": 3100,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فرص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 488,
+  "page_to": 488
+ },
+ "ar": "الفاء والراء والصاد أصلٌ صحيحٌ يدلُّ على اقتطاع شئٍ عن شئ. من ذلك الفُرصة: القِطعة من الصُّوفِ أو القُطن. وهو مِنْ فَرَصت الشّئ، أى قطعتُه. ولذلك قيل للحديدة: التى تُقْطَع بها الفِضّة: مِفْراص.\nقال الأعشى:\nوأدفعُ عن أعراضكم وأُعِيرُكمْ … لِساناً كمِفراص الخَفَاجىِّ مِلحَبا (١)\nثم يقال للنُّهزة فُرصة، لأنَّها خِلْسة، كأنَّها اقتطاعُ شئٍ بعَجَلة.\nومن الباب: الفريصة: اللَّحمة عند ناغِضِ الكَتِف من وسط الجَنْب.\nويقال: إنَّ فَرِيص العنُق: عُروقُها. وهذا من الباب، كأنَّه فُرِص، أى مُيِّز عن الشَّئ.\nومن الباب: الفُرافِص من النَّاس: الشَّديد البطش. وهو من الفُرافِصة، وهو الأسد، كأنَّه يفترص الأشياء، أى يقتطعُها. والقومُ يتفارصون الماءَ، وذلك إذا شربوه نَوبةً نَوبة، كأنَّ كلَّ شَرْبةٍ من ذلك مُفتَرَصة، أى مقْتَطَعة.\nوالفُرصة: الشِّرب، والنَّوبة. والفريص: الذى يُفارِصك هذه الفُرْصة.",
+ "az": "[فرص] (fərc - ص). Fə, ra və sad səhih kök olub bir şeydən digərini kəsib ayırmağa dəlalət edir. O cümlədəndir: الْفُرْصَة (fursə): yun və ya pambıq parçası. Bu, فَرَصت الشّئ (şeyi kəsdim) sözündəndir. Məhz buna görə gümüşü kəsən dəmir alət مِفْراص (mifras) adlandırılmışdır. Əşə a demişdir: وأدفعُ عن أعراضكم وأُعِيرُكمْ … لِساناً كمِفراص الخَفَاجىِّ مِلحَبا (١) (Mən sizin abır-həyanızı qoruyuram və Xəfəcilinin iti mifrasına bənzər kəsici bir dili sizə ödünc verirəm). Sonra fürsətə فُرْصة (fürsə) deyilir, çünki o, qənimətdir, sanki tələm-tələsik bir şeyi qoparıb götürməkdir. Bu babdandır: الْفَرِيصَة (fəriisə): çiyin oynağının yanındakı, böyrəyin ortasında olan ət parçası. Deyilir ki, فَرِيص العنُq (boynun fərişəsi): onun damarlarıdır. Bu da bu babdandır, elə bil o, فُرِصَ (kəsilib ayrılmışdır), yəni şeydən seçilmişdir. Bu babdandır: النّاسِ الفُرافِصُ (insanlardan fufafis): sərt gücə malik olan. Bu, şiri ifadə edən فُرافِصة (fufafisə) sözündəndir, sanki o, şeyləri ovlayır, yəni parçalayıb ayırır. Qövm suyu növbə ilə içdikdə تفارصون الماء (suyu növbələşirlər) deyilir, sanki hər bir içim növbə ilə ayrılmış, yəni qoparılmışdır. الْفُرْصة (fürsə): su içmə növbəsi və payıdır. الْفَرِيص (fəris): səninlə bu fürsəti bölüşən kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

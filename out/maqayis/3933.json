@@ -1,0 +1,17 @@
+{
+ "i": 3933,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مكر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 345,
+  "page_to": 345
+ },
+ "ar": "الميم والكاف والراء كلمتانِ متباينتان: إحداهما المَكْر:\nالاحتيال والخِداع. ومَكَرَ به يمكُر. والأخرى المَكْر: خَدَالة السَّاق. وامرأةٌ ممكورة السَّاقَين.",
+ "az": "[مكر] \nMim, kaf və ra — bir-birindən fərqlənən iki kəlmədir: bunlardan biri المَكْر (əl-makr) — hiylə qurmaq və aldatmaqdır. Məkərə bihi yamkuru (مَكَرَ به يمكُر). Digəri isə المَكْر (əl-makr) — baldırın ətli və dolğun olmasıdır. Baldırları ətli qadın (امرأةٌ ممكورة السَّاقَين).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.515Z"
+}

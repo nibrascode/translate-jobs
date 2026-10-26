@@ -1,0 +1,17 @@
+{
+ "i": 4588,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "الواو والعين واللام كلمتان: إحداهما الوَعْلِ (٢): ذكَر الأرْوَى. [و] على التشبيه قيل لِكِبار الناس وُعُول. و\nفى الحديث: «تَظْهَر التُّحُوت و [تذهب (٣)] الوُعُول». التُّحوت: الدُّون. والوُعول: الأشراف.\nوالثانية قولهم: لا وَعْلَ عنه، أى لا مَلْجَأ.",
+ "az": "[وعل] الواو والعين واللام: iki sözdür: Biri الوَعْلِ (əl-vəl): dağ keçisinin erkəyi (٢). [Və] bənzətmə yolu ilə böyük insanlara وُعُول (vüul - dağ keçiləri) deyilmişdir. Hədisdə buyurulur: «تَظْهَر التُّحُوت و [تذهب (٣)] الوُعُول» (Az dəyərli insanlar üzə çıxacaq və uca insanlar gedəcək). التُّحوت (ət-tuhut): alçaq, dəyərsiz adamlar. والوُعول (vüul): uca şəxslər. İkincisi isə onların: لا وَعْلَ عنه (Ondan qaçıb sığınacaq yer yoxdur), yəni sığınacaq yoxdur deməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.841Z"
+}

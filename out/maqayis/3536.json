@@ -1,0 +1,17 @@
+{
+ "i": 3536,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 190,
+  "page_to": 190
+ },
+ "ar": "الكاف والفاء والنون أصلٌ، فيه الكَفَن، وهو معروف.\nوالكَفْن: غَزْل الصُّوف. يقال كَفَنَ يَكفُنُ (٢). قال الرَّاعي:\n* ويكْفُنُ الدَّهرَ إلاَّ ريْثَ يَهتبِدُ (٣) *",
+ "az": "«كفن» (k-f-n). Kaf, fa və nun bir əsl olub, məlum olan kəfən sözüdür. Və «الكَفْن» (kəfn) — yun əyirməkdir. Deyilir: كَفَنَ يَكفُنُ (əyirdi, əyir) (٢). Rəi demişdir: * ويكْفُنُ الدَّهرَ إلاَّ ريْثَ يَهتبِدُ (Və o, ovlamasının ləngiməsi müddəti istisna olmaqla, zamanı əyir) (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:34.060Z"
+}

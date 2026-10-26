@@ -1,0 +1,17 @@
+{
+ "i": 3648,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 238,
+  "page_to": 239
+ },
+ "ar": "اللام والحاء والميم أصلٌ صحيح يدلُّ على تداخُل، كاللَّحمِ الذي هو متداخِلٌ بعضُه في بعض. من ذلك اللَّحْم. وسمِّيت الحربُ مَلْحَمةً لمعنيين:\nأحدهما تَلَاحُمُ الناس: تداخُلُهم بعضِهم في بعض. والآخر أنَّ القتلى كاللَّحْمِ الملْقَى.\nواللَّحيم: القتيل. قال الهُذَلىّ (١):\nفقالوا تَركنا القومَ قد حَصِرُوا به … فلا ريب أنْ قد كان ثَمَّ لَحِيمُ\nولَحْمة البازِي (٢): ما أُطعم إذا صاد، وهي لُحْمته. ولحمة الثَّوب بالضم ولَحمتُه أيضاً. ورجلٌ لَحِيم: كثير اللَّحم؛ ولاحِمٌ، إذا كان عنده لحم، كما يقال تامِر.\nوألْحَمْتُك عِرضَ فُلانٍ، إذا مكَّنتَه منه بشَتْمِه، كأنَّك جعلتَ له لُحمةً يأكلها ويقال: لاحَمْتُ بين الشَّيئين ولاءمت بمعنًى. ورجلٌ لَحِمٌ: مشتهِي اللَّحم؛ ومُلحِمٌ، إذا كان مُطعِمَ اللَّحم. والشَّجَّة المُتَلَاحِمَة: التي بلغَتْ اللَّحم. ويقال للزَّرْعِ إذا خُلِق فيه القَمح: مُلْحِم. ويقال لَحَمْتُ اللّحمَ عن العظم: قشرتُه. وحَبْلٌ مُلاحَمٌ:\nشديدُ الفَتل.",
+ "az": "[لحم] (ləhəm) — lam, ha və mim bir-birinə qarışmağı bildirən səhih kökdür, necə ki bədənin əti bir-birinə qarışmışdır. Bunlardan biri اّللَّحْم (əlləhm) - ətdir. Müharibəyə مَلْحَمَة (məlhəməh) deyilməsi iki səbəbdəndir:\nBirincisi, insanların تَلَاحُم (təlahum) etməsi, yəni bir-birinin evinə və ya içinə qarışması. İkincisi isə ölən adamların yerə atılmış ətə bənzəməsidir.\nاّللَّحِيم (əlləhim) — öldürülmüş şəxs. Hüzəli şair demişdir (١):\nفقالوا تَركنا القومَ قد حَصِرُوا به … فلا ريب أنْ قد كان ثَمَّ لَحِيمُ\n(Dedilər ki, qövmü elə vəziyyətdə qoyduq ki, çarəsiz qaldılar, şübhə yoxdur ki, orada ölən var idi)\nVə لَحْمة البازِي (ləhmətül-bazi) (٢) — qırğı ov edəndə ona yedizdirilən yemdir. Zeytun və parça üçün də ضَم (zəmm) hərfi ilə لُحْمة (luhməh) və ya لَحْمتُه (ləhmətüh) işlədilir. رجلٌ لَحِيم (rəcülün ləhim) — əti çox olan; لاحِمٌ (lahim) — yanında əti olan, تامر (támir - xurması olan) deyildiyi kimi. \nVə ألْحَمْتُك عِرضَ فُلانٍ (əlhəmtüukə irdə fülən) — onu söyməklə filankəsin abırını sənə həvalə etdim, sanki ona yeyəcək bir ət tikəsi verdin, deməkdir. لاحَمْتُ بين الشَّيئين (ləhəmtü bəynəş-şəy’əyn) — iki şeyi bir-birinə uyğunlaşdırdım, mənaları eynidir. رجلٌ لَحِمٌ (rəcülün ləhim) — ət arzulayan; مُلحِمٌ (mulhım) — ət yedizdirən. Şəcceyi-mütəl-ləhimə (الشَّجَّة المُتَلَاحِمَة) — ətə qədər çatan yaradır. Taxılda buğda əmələ gəldikdə مُلْحِم (mulhım) deyilir. لَحَمْتُ اللّحمَ عن العظم (ləhəmtül-ləhmə anil-azm) — əti sümükdən qopardım, qabıq kimi soydum. حَبْلٌ مُلاحَمٌ (həblün mulahəm) — sıx və möhkəm hörülmüş ip.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

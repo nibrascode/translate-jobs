@@ -1,0 +1,17 @@
+{
+ "i": 3450,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كأد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 152,
+  "page_to": 152
+ },
+ "ar": "الكاف والألف والدال يدلُّ على شِدَّة ومَشَقّة. يقولون:\nتكَاءَده الأمرُ، إذا صعُب عليه. والعَقَبة الكَؤُود: الصَّعبة.",
+ "az": "[كأد] (Kaf, əlif və dal) — şiddət və məşəqqətə dəlalət edir. Deyirlər: تكَاءَده الأمرُ (tekəədəhül-əhəru) — iş ona çətin gəldiyi zaman. Və العَقَبة الكَؤُود (əl-əqəbə əl-kəud) — çətin yoxuş.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4028,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 380,
+  "page_to": 381
+ },
+ "ar": "النون والباء والشين أصلٌ وكلمةٌ واحدة تدلُّ على إبرازِ شيءٍ مستور. ونَبَشَ القَبْرَ، وهو نَبَّاشٌ يَنْبُشُه (٣). ومن قياسه أنابِيش الكَلَأ:\nالقطاع (١) المتفرِّقة تبرُزُ على وجه الأرض.",
+ "az": "[نبش] (nəbəş): Nun, ba və şin – örtülü bir şeyi üzə çıxarmağa dəlalət edən əsas və tək bir kəlmədir. «نَبَشَ القَبْرَ» (nəbəşəl-qəbrə) – o, bunu edəndə «نَبَّاشٌ يَنْبُuşُه» (nəbbəşun yənbuşuhu) olar (٣). Buna qiyas olunanlardan biri də «أنابِيش الكَلَأ» (ənəbişul-kələə): yerin üzünə çıxan səpələnmiş ot parça-parçalarıdır (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

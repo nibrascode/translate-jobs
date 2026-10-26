@@ -1,0 +1,17 @@
+{
+ "i": 4200,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "النون والفاء والخاء: أصلٌ صحيح يدلُّ على انتفاخٍ وعلوّ.\nمنه انتفَخَ الشّيءُ انتفاخاً. ويقال انتفَخَ النَّهار: علا. ونَفْخَة الرَّبيع: إعْشابه (١)؛ لأنَّ الأرضَ تربو فيه وتنتفِخ. والمنْفُوخ: الرَّجل السَّمين. والنَّفْخاء من الأرض مثلُ النَّبْخاء؛ وقد مَضَى.",
+ "az": "[نفخ] (nəfəh): Nun, fa və xa hərfləri şişməyə və ucalığa dəlalət edən səhih bir əsldir. Ondan انتفَخَ الشّيءُ انتفاخاً (intəfəxəl-şəyyü intifaxan – şey şişdi) gəlmişdir. انتفَخَ النَّهار (intəfəxən-nəhar) – gündüz yüksəldi, devilir. نَفْخَة الرَّبيع (nəfxətür-rəbiə) – yazın ot bitirməsidir (١), çünki yer onda qabarır və şişir. المنْفُوخ (əlmənfux) – kök adam. الأرض النَّفْخاء (ənnəfxau minəl-ardı) النَّبْخاء (ənnəbxau) kimidir; bu artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.385Z"
+}

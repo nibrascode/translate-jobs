@@ -1,0 +1,17 @@
+{
+ "i": 4003,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 372,
+  "page_to": 373
+ },
+ "ar": "النون والواو والميم أصلٌ صحيح يدلُّ على جُمودٍ وسكونِ حركة. منه النَّوم. نامَ ينام نَوْماً ومَناما. وهو نَؤُومٌ ونُوَمَة (٥): كثير النَّوم.\nورجل نومةٌ (١): خاملٌ لا يُؤبَه له. ومنه استَنامَ لي فلانٌ، إذا اطمأنَّ إليه وسكَنَ. والمَنَامة: القطيفة، لأنَّه يُنامُ فيها.\nويستعيرون منه: نامت السُّوق: كَسَدت. ونامَ الثَّوبُ: أخْلَقَ.",
+ "az": "«نوم»: النون، الواو والميم أصل صحيح يدل على جُمود وسكون حركة (hərəkətin donmasına və sükunətinə dəlalət edən səhih bir kökdür). منه النَّوم (Yuxu bundandır). نامَ ينام نَوْماً ومَناما (yatdı, yatır, yuxu və yataq). وهو نَؤُومٌ ونُوَمَة (٥) (O, çox yatan biridir): كثير النَّوم. ورجل نومةٌ (١) (Laqeyd və tənbəl adam): خاملٌ لا يُؤبَه له (şöhrətsiz, sayılmayan adam). ومنه استَنامَ لي فلانٌ (Və buradan «filankəs mənə arxayın oldu» ifadəsi götürülüb)، إذا اطمأنَّ إليه وسكَنَ (ona güvənib rahatlıq tapdıqda). والمَنَامة (məxmər, yataqlıq parça): القطيفة، لأنَّه يُنامُ فيها (çünki onun içində yatılır). ويستعيرون منه (Və bundan məcazi şəkildə istifadə edirlər): نامت السُّوق (bazar cansıxıcı oldu / ticarət zəiflədi): كَسَدت. ونامَ الثَّوبُ (paltar köhnəldi): أخْلَقَ.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:36.143Z"
+}

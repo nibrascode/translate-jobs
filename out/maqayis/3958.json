@@ -1,0 +1,17 @@
+{
+ "i": 3958,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 355,
+  "page_to": 355
+ },
+ "ar": "النون والدال أصل صحيح يدلّ على شرود وفراق. ونَدَّ البعير نَدّا ونُدودا: ذهب على وجهه شارداً. ومن الباب الندُّ والنّديد: الذي ينادُّ في الأمر، أي يأتي برأي غيرِ رأي صاحبه. قال:\nلئلاّ يكون السَّندرِىُّ نديدتي … وأشْتُمَ أعماماً عُموما عَماعِما (٣)\nوالنّدّ فيما ذكر ابن دريد: التّلُّ المرتفِع في السماء (٤)، ويكون هذا قريبا من قياسه. والنِّدُّ من الطّيب ليس عربيّا.",
+ "az": "[ند] Nun və dal - qaçmağa və ayrılığa dəlalət edən səhih bir kökdür. «نَدَّ البعير نَدّا ونُدودا» — dəvə ürkərək başı götürüb qaçdı. Bu qbildəndir: «الندّ» və «النّديد» — hər hansı bir məsələdə əks tərəfə çıxan, yəni yoldaşının rəyindən başqa bir rəy gətirən kimsə. O demişdir:\n«لئلاّ يكون السَّندرِىُّ نديدتي … وأشْتُمَ أعماماً عُموما عَماعِما (٣)»\n(Ötrü ki, Səndəri tayım olmasın, və ümumi əmiləri söyməyim...)\nİbn Düreydin qeyd etdiyinə görə «النّدّ» — göyə ucalan hündür təpədir (٤), bu da onun qiyasına yaxındır. Ətirdən olan «النِّدّ» isə ərəb sözü deyildir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

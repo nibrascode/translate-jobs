@@ -1,0 +1,17 @@
+{
+ "i": 3812,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 302,
+  "page_to": 302
+ },
+ "ar": "الميم والحاء والحرف المعتل أصلٌ صحيح يدلُّ على الذَّهاب بالشيء. ومَحَتِ الرِّيحُ السحابَ: ذهبَتْ به. وتسمَّى الشّمالُ مَحْوَةَ، لأَنها تَمحو السَّحاب. ومَحَوْت الكتابَ (١) أَمْحُوه مَحْواً. وامَّحَى الشّيءُ: ذهب أثرُه، كذلك امْتَحَى.",
+ "az": "[محو] (Mim, ha və uzadılan hərf): Bir şeyi yox edib aparmağa dəlalət edən səhih bir əsldir. «مَحَتِ الرِّيحُ السحابَ» (məhətin-rihus-səhəbə): külək buludu aparıb yox etdi. Şimal küləyinə «مَحْوَة» (məhvətün) adı verilir, çünki o, buludları yox edir. «مَحَوْت الكتابَ أَمْحُوه مَحْواً» (məhavtül-kitəbə əmhuhu məhvən): kitabı silib yox etdim. «وامَّحَى الشّيءُ» (vəmməhəş-şey): şeyin izi yox oldu, həmçinin «امْتَحَى» (imtəhə) də belədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

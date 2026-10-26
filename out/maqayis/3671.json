@@ -1,0 +1,17 @@
+{
+ "i": 3671,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لزج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 246,
+  "page_to": 246
+ },
+ "ar": "اللام والزاء والجيم قريبٌ من الباب الذي قبله. يقال:\nلَزِجَ به، إذا غَرِيَ به ولازَمَه. والتلزُّج: تتبُّع البقولِ والرِّعْي القليل.",
+ "az": "[لزج] (Ləzəcə) — Lam, zai və cim əvvəlki fəslə yaxındır. Deyilir: «لَزِجَ به» (ləziqə bihi) — ona vurulduqda və ayrılmadıqda deyilir. وَالتَّلَزُّج (at-təlazzuju) — otları və az otlağı izləməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

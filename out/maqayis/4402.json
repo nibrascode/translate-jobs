@@ -1,0 +1,17 @@
+{
+ "i": 4402,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هلت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 61,
+  "page_to": 61
+ },
+ "ar": "الهاء واللام والتاء. ليس بشئٍ، إلاَّ أنهم يقولون: الهَلْت:\nالجماعة (٢). [والهُلَات (٣)]: الاستِرخاء.",
+ "az": "[هلت] (hə-lə-tə): Hə, lam və ta. Heç bir əsası yoxdur, lakin deyirlər ki, «الهَلْت» (əl-həlt) — dəstədir. [والهُلَات] (vəl-hulat) — boşalmaq, süstləşmək.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

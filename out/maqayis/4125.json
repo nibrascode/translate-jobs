@@ -1,0 +1,17 @@
+{
+ "i": 4125,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 424,
+  "page_to": 425
+ },
+ "ar": "النون والسين والخاء أصلٌ واحد، إلاّ أنّه مختلفٌ في قياسِه.\nقال قوم: قياسُه رفْعُ شيءٍ وإثباتُ غيرِه مكانَه. وقال آخرون: قياسُه تحويلُ شيءٍ إلى شيءٍ. قالوا: النَّسْخ: نَسْخ الكِتاب. والنَّسْخ: أمرٌ كان يُعمَل به من قبلُ ثم يُنسَخ بحادثٍ غيرِه، كالآية ينزل فيها أمرٌ ثم تُنسَخ بآيةٍ أخرى.\nوكلُّ شيءٍ خَلَفَ شيئاً فقد انتَسخَه. وانتسخت الشَّمسُ الظِّلّ، والشّيبُ الشبابَ.\nوتناسُخُ الورَثةِ: أن يموتَ ورثةٌ بعد ورثةٍ وأصلُ الإرث قائم لم يُقَسَّم. ومنه\nتناسُخُ الأزمنة والقُرون. قال السجستانىّ (١) النَّسْخ: أن تحوّل ما في الخليَّة من العَسَل والنَّحْل في أُخرى. قال: ومنه نَسْخُ الكتاب.",
+ "az": "[نسخ] (nəsx) — Nun, sin və xa tək bir əsasdır, lakin onun qiyasətində fikir ayrılığı vardır.\n\nBir qrup demişdir: Onun qiyasəti bir şeyi qaldırıb yerində başqasını sabit etməkdir. Başqaları demişdir: Onun qiyasəti bir şeyi başqa şeyə çevirməkdir. Onlar demişdir: النَّسْخ (ən-nəsx) — kitabın nüsxəsini çıxarmaqdır. Və النَّسْخ (ən-nəsx) — əvvəllər edilən, sonra isə başqa bir hadisə ilə ləğv edilən bir əmrdir, məsələn, bir ayənin nazil olması, onda bir əmrin verilməsi, sonra isə başqa bir ayə ilə ləğv edilməsi kimi.\n\nBir şeyin yerini tutan hər bir şey onu əvəz etmişdir (əntəsəxəhu). Və انتسخت الشَّمسُ الظِّلّ (günəş kölgəni əvəz etdi), və şiyb (ağappaq saç) cavanlığı əvəz etdi.\n\nVə ورثةِ تناسُخُ (vərislərin bir-birini əvəz etməsi): Miras bölünməmişdən əvvəl varislərin ard-arda ölməsidir və mirasın əsli hələ də qalır. Zamanların və əsrlərin تناسُخُ (bir-birini əvəz etməsi) də bundandır. Sistani demişdir: النَّسْخ (ən-nəsx) — pətəkdəki bal və arıları başqa pətəyə köçürməkdir. O demişdir: Kitabın nüsxəsini çıxarmaq (nəsx etmək) də bundandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:38.830Z"
+}

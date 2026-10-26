@@ -1,0 +1,17 @@
+{
+ "i": 4500,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وخى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 95,
+  "page_to": 95
+ },
+ "ar": "الواو والخاء والحرف المعتلّ: كلمةٌ تدلُّ على سَيْرٍ وقصد.\nيقال: وخَت النّاقة تَخِى وَخْياً. قال:\n* يتْبَعْنَ وَخْىَ عَيْهَلٍ نِيافِ (١) *\nوهذا وَخْىُ فُلانٍ، أى سَمْتُه. وما أدرِى أيْنَ وخى، أى توجَّهَ (٢).",
+ "az": "[وخى] (və-xa və zəif hərf): Gedişə və qəsdə dəlalət edən sözdür. Deyilir: وخَت النّاقة تَخِى وَخْياً (vəxətin-nəqə təxi vəxyən). Şair demişdir: يتْبَعْنَ وَخْىَ عَيْهَلٍ نِيافِ (١) (yətbə‘nə vəxْyə ‘əyhəlin niyəfin) – uca dəvənin gedişini izləyirlər. Bu, فُلانٍ وَخْىُ (vəxyu fulənin) – filankəsin istiqamətidir. وما أدرِى أيْنَ وخى (və mə ədri eynə vəxə) – bilmirəm hara yönəldi (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

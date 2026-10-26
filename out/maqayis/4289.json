@@ -1,0 +1,17 @@
+{
+ "i": 4289,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 22,
+  "page_to": 23
+ },
+ "ar": "الهاء والياء والتاء كلمة تدلُّ على الصَّيحة. يقولون: هيَّتَ به، إذا صاح. قال:\n* لو كانَ مَعْنِيًّا بِها لَهَيَّتا (١) *\nويقولون فى معنى هَيْت لك: هَلُمَّ.",
+ "az": "[هيت] (Heyt): Hə, ya və ta qışqırığa dəlalət edən sözdür. Deyirlər: هيَّتَ به (həyyətə bihi), yəni qışqırdı. Şair demişdir:\n\n* لو كانَ مَعْنِيًّا بِها لَهَيَّتا (1) *\n(Əgər o, bununla qəsd olunsaydı, mütləq hayqırardı).\n\nVə onlar «هَيْتَ لَكَ» (heytə ləkə - gəl!) mənasında işlədirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

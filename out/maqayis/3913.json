@@ -1,0 +1,17 @@
+{
+ "i": 3913,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مغث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 338,
+  "page_to": 338
+ },
+ "ar": "الميم والغين والثاء أصلٌ صحيح يدلُّ على مَرْسِ شيء ومَرثِهِ. يقولون: مَغَثْت الدَّواءَ في الماء: مَرَثْته. ومَغَثَ بنو فلانٍ فلاناً، إذا ضربوه ضرباً ليس بالشَّديد. ورجل مَغِثٌ (٢): مُصارِعٌ شديد العلاج. ومُغِثَتْ أعراضُهم: مُضِغت (٣). قال:\n* مَمغوثةٌ أعراضُهم مُمَرْطلَهْ (٤) *\nوكلأ مَمْغُوث ومَغِيثٌ: أصابه المَطرُ وصَرَعه، والميم أصليّة.",
+ "az": "[مغث] \nMim, ğein və sə hərfləri bir şeyi əzməyə və qarışdırmağa (və ya ovuşdurmağa) dəlalət edən səhih bir kökdür. Deyirlər: مَغَثْت الدَّواءَ في الماء: dərmanı suda əzib qarışdırdım. Və مَغَثَ بنو فلانٍ فلanaً: filankəsi şiddətli olmayan şəkildə vurdular. Və رجل مَغِثٌ (٢): mübarizədə güclü, sərt güləşçi. Və مُغِثَتْ أعراضُهم: onların namusları çeynəndi (٣). O demişdir:\n* مَمغوثةٌ أعراضُهم مُمَرْطلَهْ (٤) *\nmənası: «Namusları çeynənmiş, bulandırılmışdır». \nVə كلأ مَمْغُوث və مَغِيثٌ: yağışın yağıb onu yıxdığı (əzdiyi) otlaqdır, mim hərfi isə əslidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4662,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 147,
+  "page_to": 147
+ },
+ "ar": "الواو والهاء والباء: كلماتٌ لا ينقاس بعضُها على بعض تقول: وهَبْتُ الشَّئ أَهَبُهُ هِبَةً ومَوْهِباً. واتَّهَبْتُ الهبةَ: قَبِلتُها. والمَوْهِبَة (١):\nقَلْتٌ يَسْتنقِعُ فيه الماء؛ والجمع مَواهب. ويقال أَوْهَبَ إلىَّ من المال كذا، أى ارتفع. وأصبح فَلانٌ مُوهَباً لكذا، أى مُعَدًّا له.",
+ "az": "[وهب] الواو والهاء والباء (v-h-b): bəzi hissələri digərilərlə müqayisə olunmayan sözlərdir. Deyirlər: وَهَبْتُ الشَّئ أَهَبُهُ هِبَةً وَمَوْهِباً (Mən əşyanı bağışladım, bağışlayaram, bağışlamaq və bəxşiş). وَاتَّهَبْتُ الهِبةَ (Hədiyyəni qəbul etdim). وَالمَوْهِبَة (1) — su yığılan kiçik çuxur; cəmi مَواهب (məvəhib). Deyilir: أَوْهَبَ إلىَّ من المال كذا (Mənə maldan filan qədər verildi, yəni artdı). وَأَصْبَحَ فَلانٌ مُوهَباً لكذا (Filankəs belə bir şey üçün hazır hala gəldi, yəni ona hazırlanmış oldu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

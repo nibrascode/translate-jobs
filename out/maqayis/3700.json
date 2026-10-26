@@ -1,0 +1,17 @@
+{
+ "i": 3700,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لغد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 257,
+  "page_to": 257
+ },
+ "ar": "اللام والغين والدال كلمةٌ واحدة. اللَّغاديد: لَحَماتٌ تكون في اللّهَوات، واحدها لُغْدُود؛ ويقال لُغْدٌ وألغاد. وجاء فلانٌ متلغِّداً، أي متغَيِّظاً؛ وهذا كأنّه بلغ الغَيْظ ألغادَه.",
+ "az": "«لغد» — lam, ğayn və dal tək bir sözdür. «اللَّغاديد» (al-lağadid) — damaqdakı ət parçalarıdır, təki «لُغْدُود» (luğdud); həmçinin «لُغْد» (luğd) və «ألغاد» (alğad) deyilir. «جاء فلانٌ متلغِّداً» (ja'a fulanun mutalağqidan) — yəni qəzəblənmiş halda gəldi; bu, sanki qəzəbin onun boğazına/ətli yerlərinə çatması kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

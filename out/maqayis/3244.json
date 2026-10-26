@@ -1,0 +1,17 @@
+{
+ "i": 3244,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قبح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 47,
+  "page_to": 47
+ },
+ "ar": "القاف والباء والحاء كلمةٌ واحدة تدلُّ على خلاف الحُسْن، وهو القُبْح. يقال قَبحَه اللّه، وهذا مقبوحٌ وقَبيح. وزعم ناسٌ أنَّ المعنى في قَبَحه: نحّاهُ وأبعدَه. [ومنه] قولُه تعالى: ﴿وَيَوْمَ اَلْقِيامَةِ هُمْ مِنَ اَلْمَقْبُوحِينَ﴾.\nومما شذَّ عن الأصل وأحسَبُه من الكلام الذى ذَهَبَ مَنْ كان يُحْسِنُه، قولُهم كِسْرُ قَبيحٍ، وهو عَظْمُ السَّاعد، النِّصف الذى يلى المِرْفَق. قال:\nلو كنتَ عَيْرًا كنتَ عَيْرَ مَذَلَّةٍ … ولو كنتَ كِسْرًا كُنْتَ كِسْرَ قَبِيحِ (١)",
+ "az": "[قبح] (qəbəh). Qaf, ba və ha tək bir kəlmə olub gözəlliyin ziddinə dəlalət edir, o da القُبْح (əl-qubh) — çirkinlikdir. Deyilir ki, قَبَحَهُ اللَّهُ (qəbəhəhullah) — Allah onu çirkin etsin, bu söz isə مَقْبُوح (maqbuh) və قَبِيح (qəbih) adlanır. Bir qrup adam iddia etmişdir ki, onun قَبَحَهُ (qəbəhə) sözündəki mənası: onu uzaqlaşdırdı və kənarlaşdırdı, deməkdir. [Və bundan] Uca Allahın buyuruğudur: مənaca tərcümə: ﴿وَيَوْمَ اَلْقِيامَةِ هُمْ مِنَ اَلْمَقْبُوحِينَ﴾ (Və Qiyamət günü onlar uzaqlaşdırılmışlardandır [çirkinləşdirilmişlərdəndir]).\n\nVə əsasdan istisna olan və zənn edirəm ki, o sözlərdəndir ki, onu gözəl bilən kəs artıq gedib (itib), onların: كِسْرُ قَبِيحٍ (kisru qəbihin) — bilək sümüyü, dirsəyə bitişik olan yarı hissə, deməsidir. (Şair) demişdir:\nلو كنتَ عَيْرًا كنتَ عَيْرَ مَذَلَّةٍ … ولو كنتَ كِسْرًا كُنْتَ كِسْرَ قَبِيحِ (١)\n(Əgər sən uzunqulaq olsaydın, zillət uzunqulağı olardın... Əgər sən sümük/parça olsaydın, qəbihin parçası olardın).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

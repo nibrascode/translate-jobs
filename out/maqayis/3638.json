@@ -1,0 +1,17 @@
+{
+ "i": 3638,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لجأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 235,
+  "page_to": 236
+ },
+ "ar": "اللام والجيم والهمزة كلمة واحدة، وهي اللَّجَأ والملجأ: المكان يُلتجَأ إليه. يقال: لجأت والتجأت. وقال في اللَّجَأ:\nجاءَ الشِّتاءُ وَلمَّا اتَّخِذْ لَجَأَ … يا حَرَّ كَفَّىَّ من حَفْر القراميصِ (١)",
+ "az": "[لجأ] (ləcəə) — lam, cim və həmzə tək bir sözdür, o da اّللَّجَأ (əlləcəə) və اّلْمَلْجَأ (əlməlcəə) — sığınılan yer. لجأت (ləcətu) və التجأت (iltəcətu) — sığındım, deyilir. اللَّجَأ (əlləcəə) haqqında demişdir:\nجاءَ الشِّتاءُ وَلمَّا اتَّخِذْ لَجَأَ … يا حَرَّ كَفَّىَّ من حَفْر القراميصِ (١)\n(Qış gəldi, amma hələ bir sığınacaq əldə etmədim. Qaramis quyularını qazmaqdan əllərimin istisi nə yaman oldu!)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3016,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فهد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 455,
+  "page_to": 456
+ },
+ "ar": "الفاء والهاء والدال يدلُّ على جِنْس من الحيوان، ثم يُستعار.\nفالفهد معروف، والجمع فُهود. ويقال فَهِدَ الرَّجُل: غَفَل عن الأمور، شُبِّه بالفَهد.\nوفى حديث أمِّ زَرع (١): «إنْ دخَل فَهِدَ، وإنْ خرجَ أَسِدَ». ويقولون هذا لأنَّ الفَهد نَؤُوم.\nوالمستعار الفَهْدتان: لحمتا زَور الفَرس. ويقولون: الفهد: مِسمارٌ فى واسطة الرَّحْل.",
+ "az": "«فهد» (fəhəd): Fə, hə və dəl hərfləri bir heyvan növünə dəlalət edir, sonra isə məcazi olaraq işlədilir.\n«الفهد» (fəhəd) məlumdur, cəmi «فُهود» (fuhud) gəlir. Deyilir ki, «فَهِدَ الرَّجُل» (fəhidə ər-racül): işlərdən qafil oldu, fəhədə (leoparda) bənzədildi.\nÜmmü Zər ədisində (١) belə gəlmişdir: «İçəri girəndə fəhəd kimidir, bayıra çıxanda isə şir kimidir». Bunu ona görə deyirlər ki, fəhəd çox yatan bir heyvandır.\nMəcazi mənada olan «الفَهْدتان» (fəhədətan): atın döş əzələləridir. Həmçinin deyirlər: «الفهد» (fəhəd) — yəhərin ortasındakı mismardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

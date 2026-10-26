@@ -1,0 +1,17 @@
+{
+ "i": 4483,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 88,
+  "page_to": 89
+ },
+ "ar": "الواو والجيم والهاء: أصلٌ واحد يدلُّ على مقابلةٍ لشئ.\nوالوجه مستقبِلٌ لكلِّ شئ. يقال وَجْه الرّجلِ وغَيره. وربَّما غُبِّر عن الذات بالوَجْه. [و] تقول: وَجْهى إليك. قال:\nأستغفِرُ اللّهَ ذَنْباً لستُ مُحْصِيَهُ … ربَّ العِبادِ إليه الوَجْهُ والعَمَلُ (١)\nوواجهتُ فلاناً: جعلتُ وجهِى تِلقاءَ وجهِه.\nومن الباب قولُهم: هو وجيةٌ بيِّنُ الجاه. والجاه مقلوبٌ. والوِجهة: كلُّ موضعٍ استقبلتَه. قال اللّه تعالى: ﴿وَلِكُلٍّ وِجْهَةٌ﴾. ووجَّهت الشّئَ: جعلتُه على جهة (٢). وأصل جِهَتِه وِجْهَته. والتَّوجيه: أن تَحفِر تحت القِثَّاءَة أو البِطِّيخة ثم تُضجِعَها. وتَوجَّهَ الشَّيْخُ: ولَّى وأدْبرَ، كأنَّه أقْبَلَ بوجهه على الآخر. ويقال للمُهْر إذا خَرَجَتْ يداه من الرّحم: وَجِيهٌ.",
+ "az": "[وجه] الواو والجيم والهاء (və, cim və ha) — bir şeylə qarşı-qarşıya durmağa dəlalət edən tək bir əsasdır. Üz (الْوَجْه) hər bir şeyə qarşı durandır. İnsanın üzü və başqasının üzü deyilir. Bəzən üz sözü ilə zatın özü ifadə olunur. [و] Deyirsən: وَجْهِي إِلَيْكَ (üzüm sənə tərəfdir). Şair demişdir: أَسْتَغْفِرُ اللَّهَ ذَنْباً لَسْتُ مُحْصِيَهُ … رَبَّ الْعِبَادِ إِلَيْهِ الْوَجْهُ وَالْعَمَلُ (١) (Sayını bilmədiyim günahdan Allaha istiğfar edirəm... Qullar Rəbbi ki, Ona tərəfdir üz və əməl). وَاجَهْتُ فُلَانًأ (filankəslə üzbəüz durdum): üzümü onun üzünə qarşı qoydum. Bu fəsildəndir onların: هُوَ وَجِيهٌ بَيِّنُ الْجَاهِ (o, məqam və hörməti bəlli olan abırlı birisidir) sözü. الْجَاه (məqam) sözü tərsini çevirməkdir (müqəddəs olaraq məna dəyişib). الْوِجْهَةُ (istiqamət) — qarşıladığın hər bir məkandır. Uca Allah buyurmuşdur: ﴿وَلِكُلٍّ وِجْهَةٌ﴾ (Hər birinizin bir istiqaməti vardır). وَجَّهْتُ الشَّيْءَ (şeyi istiqamətləndirdim): onu bir istiqamətə qoydum (٢). Onun əsl cəhəti وِجْهَة (istiqamət)dir. التَّوْجِيه (tovcih) — balqabağın və ya qarpızın altını qazıb sonra onu uzandırmaqdır. وَتَوَجَّهَ الشَّيْخُ (qoca yaşlandı və zəiflədi) — arxaya çəkilib döndü, sanki üzü ilə o birisinə tərəf yönəldi. Doğuş zamanı əlləri ana bətnindən çıxan bala dəvəyə وَجِيهٌ (vəcih) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

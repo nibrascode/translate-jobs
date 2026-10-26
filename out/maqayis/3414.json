@@ -1,0 +1,17 @@
+{
+ "i": 3414,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كنز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 141,
+  "page_to": 141
+ },
+ "ar": "الكاف والنون والزاء أُصَيْلٌ صحيح يدلُّ على تجمُّع في شيء.\nمن ذلك ناقة كِنَازُ اللَّحم، أي مجتمِعة. وكَنزت التَّمْرَ في وعائه أكنِزُه. وكنَزت الكنْزَ أكنزِه. ويقولون في كَنْز التَّمر: هو زمن الكَنَاز. قال ابن السِّكِّيت:\nلم يُسمَع هذا إلاَّ بالفتح، أي إنَّه ليس هذا مما جاء على فعال وفَعال كجِداد وجَداد.",
+ "az": "[كنز] Kaf, nun və zay bir şeydə toplanmağa dəlalət edən kiçik səhih bir kökdür. Bunlardan biri də «ناقة كِنَازُ اللَّحم» (ətli, bədəni yığcam dəvə) — yəni əti bir-yerdə toplanmışdır. «كَنزت التَّمْرَ في وعائه أكنِزُه» (xurmanı qabına yığıb doldurdum). Və «كنَزت الكنْزَ أكنزِه» (xəzinəni yığıb gizlətdim). Xurmanın yığılması barədə deyirlər: «هو زمن الكَنَاز» (bu, kənaz zamanıdır). İbn əs-Sikkit demişdir: «Bu söz yalnız fəthə ilə eşidilmişdir», yəni bu, «فِعال» və «فَعال» (cidad və jadad) kimi gələn sözlərdən deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

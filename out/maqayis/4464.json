@@ -1,0 +1,17 @@
+{
+ "i": 4464,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وتغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 84,
+  "page_to": 84
+ },
+ "ar": "الواو والتاء والغين: كلمةٌ تدلُّ على إثمِ وَبليَّة. فالوَتَغ:\nالإثم. وأوْتغَه: ألقاه فى بَليَّة. ووتِغَ وَتَغاً: هلَكَ. وأوتَغَه: أهلكه.",
+ "az": "[وتغ] (və-ta-ğyn): Günah və bəlaya dəlalət edən sözdür. «الوَتَغ» (vətəğ) — günah. «وأوْتغَه» (onu bəlaya saldı) — onu bəlaya atdı. «وتِغَ وَتَغاً» (günah işlətdi / həlak oldu) — həlak oldu. «وأوتَغَه» (onu həlak etdi) — onu məhv etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

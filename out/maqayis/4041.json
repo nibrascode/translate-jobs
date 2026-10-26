@@ -1,0 +1,17 @@
+{
+ "i": 4041,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 386,
+  "page_to": 386
+ },
+ "ar": "النون والتاء والحاء. ونَتَحَ العَرَقُ: رشَح. ومَنَاتح العَرَق:\nمخارجه. ونَتَح النِّحْيُ: رشَح أيضاً.",
+ "az": "[نتح] (nətəh): Nun, ta və hə. «نَتَحَ العَرَقُ» (nətəhəl-ərəqu): tər süzüldü. «مَنَاتح العَرَق» (mənatihul-ərəq): tərin çıxış yerləri. «نَتَح النِّحْيُ» (nətəhən-nihyu): tuluq da həmçinin tər süzdü.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

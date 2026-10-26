@@ -1,0 +1,17 @@
+{
+ "i": 3848,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مري",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 314,
+  "page_to": 315
+ },
+ "ar": "الميم والراء والحرف المعتل أصلانِ صحيحان يدلُّ [أحدُهما] على مسحِ شيءٍ واستِدرار، والآخر على صلابةٍ في شيء.\nفالأوَّل المَرْيُ: مَرْيُ الناقة، وذلك إذا مُسِحَتْ للحَلْب، يقال مَرَيْتُها أمْرِيها مَرْياً. ومما يشبَّه بهذا: مَرَى الفرسُ بيدِهِ، إذا حرَّكها على الأرض كالعابث، وكأنَّه يشبَّه بمنْ يَمرِي الضَّرْعَ بيدِه. والمَرايا: العُروق التي تمتلئ وتَدِرَّ باللبن. قال ابن دريد (٣): مُرْيَةُ النّاقة: أن تُستدرَّ بالمَرْيِ، بضمّ الميم هي الفصيحة، وقد يقال بالكسر (٤).\nوالأصل الآخر * المَرْو: جمع مَرْوَة، وهي حجارةٌ تبرُق. قال:\nحتَّى كأنِّي للحوادِثِ مَروةٌ … بصَفَا المشَرَّقِ كلَّ حينٍ تقرَعُ (٥)\nوعندنا أنَّ المِراءَ ممَّا يتمارَى فيه الرّجُلانِ من هذا، لأنَّه كلامٌ فيه بعضُ الشدّة. ويقال: ما رَاهُ مِراءً ومُماراةً.\nومما شذَّ منهما المِرْية: الشَّكّ.",
+ "az": "«مري» (mara'a) — mim, ra və səslİ hərfdən ibarət iki səhih kök olub, bunlardan biri bir şeyi ovuşdurmağa və süd sağmağa, digər kök isə bir şeydə sərtliyə dəlalət edir. Birincisi: اَلمَرْيُ (al-mary) — dəvəni sağmaq üçün ovuşdurmaqdır, مَرَيْتُهَا أَمْرِيهَا مَرْياً (maraytuhu amriha maryan) deyilir. Buna bənzədilən: مَرَى الفَرَسُ بِيَدِهِ (mara al-farasu biyadihi) — at əlini oyun oynayarmış kimi yerə sürtərkən baş verir, elə bil o, əli ilə məməciyi ovuşduran kəsə bənzədilir. اَلمَرَايَا (al-maraya): dolan və süd axıdan damarlar. İbn Dureyd demişdir (٣): مُرْيَةُ النَّاقَةِ (muryatu an-naqati): məry (ovuşdurma) vasitəsilə südünün sağılmasıdır, mim hərfinin zəmməsi ilə olanı fasiihdir, lakin kəsrə ilə də deyilir (٤). Digər kök isə اَلمَرْو (al-marw) — مَرْوَة (marwatun) sözünün cəmidir ki, parıldayan daşlardır. O demişdir: حَتَّى كَأَنِّي لِلْحَوَادِثِ مَرْوَةٌ … بِصَفَا المُشَرَّقِ كُلَّ حِينٍ تُقْرَعُ (٥). Bizə görə iki kişinin barəsində mübahisə etdikləri اَلْمِرَاء (al-mira') bundanlıdır, çünki bu, içində bir qədər sərtlik olan sözdür. Deyilir: مَارَاهُ مِرَاءً وَمُمَارَاةً (marahu miran wa mumaratan). Bunlardan şaz (qaydadan kənar) olan: اَلْمِرْيَةُ (al-miryatu) — şəkk.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

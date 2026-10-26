@@ -1,0 +1,17 @@
+{
+ "i": 3770,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ميح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 287,
+  "page_to": 287
+ },
+ "ar": "الميم والياء والحاء أصلٌ صحيح يدلُّ على إعطاء. وأصله في الاستسقاء. وماح يَميحُ: انحدَرَ في الرَّكىِّ فملأ الدَّلْو. قال:\n* يأيُّها المائحُ دَلوِي دُونَكا (٤) *\nومِحتُه ميحا: أعطيته.\nوقولهم: تَمايَحَ السّكرانُ: تَمَايل، والعودُ أيضاً وكذا الغُصْن - ليس من الباب (٥).",
+ "az": "[ميح] (mim, ya və hə) — verilmiş əsas söz olub bəxş etməyə, verməyə dəlalət edir. Onun əsli su istəmək (və ya su çıxarmaq) ilə bağlıdır. ماح يَميحُ (maha yamihu) — quyuya enib qovunu doldurdu. Şair demişdir: * يأيُّها المائحُ دَلوِي دُونَكا (٤) * (Ey qovunu quyudan çəkən, mənim dəvəm, vedrəm sənə qismət olsun!). مِحتُه مَيْحاً (mihtuhu mayhan) — ona verdim, bəxş etdim. Onların: تَمايَحَ السّكرانُ (tamayəhas-sakranu) — sərxoş səssiz yelləndi, eləcə də عود (ud ağacı) və budaq haqqında işlətdikləri söz bu qapıdan (bu bölmədən) deyil (٥).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

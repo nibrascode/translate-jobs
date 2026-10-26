@@ -1,0 +1,17 @@
+{
+ "i": 4043,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 386,
+  "page_to": 387
+ },
+ "ar": "النون والتاء والراء كلمةٌ تدلُّ على جَذْب شيءٍ. والنَّتْر: جذْبٌ فيه جَفْوة. والطَّعْنُ النَّتْر، مثل الخَلْس. والنَّواتِر: القِسِيّ. وقولهم: إنَّ النَّتَر:\nالفَساد والضَّياع، وإنشادهم:\n* أمْرَكَ هذا فاحتفِظْ فيه النَّتَرْ (١) *\nفالأصل فيه ما ذكرناه، كأنّه أمرٌ جُذِبَ عن الصِّحَّة.",
+ "az": "«نتر» (nətər) — Nun, ta və ra hərflərindən ibarət olub bir şeyi çəkib qoparmağa dəlalət edən bir köndür. وَالنَّتْر (nətr): sərtliklə çəkib qoparmaq. وَالطَّعْنُ النَّتْر (nətr tipli zərbə), xəls (sürətli qamarlama) kimidir. وَالنَّواتِر (nəvatir): yaylar. Və onların «إنَّ النَّتَر: الفَساد والضَّياع» (həqiqətən nətər - fəsad və zay olmaqdır) demələri və bu beyti oxumaları:\n* أمْرَكَ هذا فاحتفِظْ فيه النَّتَرْ (١) *\n(Bu işini qoru, onda fəsad baş verməsin)\n\nBunun əsri qeyd etdiyimiz mənadır, sanki o, səhihlikdən dartılıb çıxarılmış bir işdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

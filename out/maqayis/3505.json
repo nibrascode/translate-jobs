@@ -1,0 +1,17 @@
+{
+ "i": 3505,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 176,
+  "page_to": 176
+ },
+ "ar": "الكاف والراء والجيم ليس بشيء. إنّما هو الكُرَّج، وهو الذي ذكرناه في الكُرَّة. وذكره جريرٌ فقال:\nلَبِستُ سِلاحي والفَرزدقُ لُعبةٌ … عليه وِشاحا كُرَّجٍ وجلاجلُه (١)",
+ "az": "[كرج] \nКаф, ra və cim hərflərinin birləşməsi heç bir əsasa malik deyil. O, sadəcə olaraq «الكُرَّج» (əl-kürrəc) sözüdür ki, bunu biz «الكُرَّة» (əl-kürrə) bəhsində zikr etmişik. Cərir bunu qeyd edərək demişdir:\nلَبِستُ سِلاحي والفَرزدقُ لُعبةٌ … عليه وِشاحا كُرَّجٍ وجلاجلُه (١)\n(Silahımı geyindim, Fərəzdəq isə əyləncə idi... üzərində kürrəc qurşaqları və zınqırovları vardı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

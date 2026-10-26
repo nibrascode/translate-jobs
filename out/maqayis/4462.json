@@ -1,0 +1,17 @@
+{
+ "i": 4462,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وتر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 83,
+  "page_to": 84
+ },
+ "ar": "الواو والتاء والراء: باب * لم تَجِئْ كلمُهُ على قياسٍ واحد، بل هى مفرداتٌ لا تتشابَه. فالوَتِيرة: غُرَّة الفَرَس مستديرةً. والوَتِيرة: شَئُ يُتَعلَّم عليه\nالطَّعن. والوَتيرة: المداوَمَة على الشَّئ، يقال: هو على وتيرة. والوَتر: الذَّحْل (١)، يقال وَتَرْتُه أَتِرُهُ وَتْراً. والوِتر والوَتْر: الفَرد. ووَترُ القَوسِ معروفٌ. يقال وَتَرْتها وأوْتَرُتها. والوَتَرة: طرَفُ الأنف.\nأمَّا المواتَرَة فى الأشياء فقال اللِّحيانىّ: لا تكون مواترةً إلا إذا وقعت بينهما فَترة، وإلاَّ فهى مُدارَكَة. ويقال: ناقَةٌ مُواتِرةٌ: تضَعُ ركبتَها، ثمَّ تمسكُث ثمّ تضَعُ الأخرى.",
+ "az": "[وتر] (və-ta-ra): Sözləri tək bir qayda üzrə gəlməyən, əksinə bir-birinə bənzəməyən tək-tək sözlər qapısıdır. «الوَتِيرة» (vətirə) — atın alnındakı dairəvi ağ ləkə. «الوَتِيرة» (vətirə) — üzərində nizə sancmaq öyrənilən şey. «الوَتِيرة» (vətirə) — bir şeyə davam etmək, «هو على وتيرة» (o, bir üsul/davamlılıq üzrədir) deyilir. «الوَتر» (vətr) — qisas, intiqam (١), «وَتَرْتُه أَتِرُهُ وَتْراً» (ondan qisas aldım) deyilir. «الِوتر» və «الوَتْر» (vtr və vətr) — tək (cüt olmayan). Kamanın «وَترُ القَوسِ» (kaman çilləsi) məlumdur. «وَتَرْتها وأوْتَرُتها» (kamanı çillədim) deyilir. «الوَتَرة» (vətərə) — burun ucudur. İşlərdəki «المواتَرَة» (mövatərə - fasiləsizlik) gəldikdə, Lihyani demişdir: İki şeyin arasında bir fasilə (müddət) olmadıqca «mövatərə» sayılmaz, əks halda o, «مُدارَكَة» (ardarda gəlmək) olar. Deyilir: «ناقَةٌ مُواتِرةٌ» (fasilə ilə addımlayan dişi dəvə) — dizini qoyur, sonra gözləyir, sonra digərini qoyur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

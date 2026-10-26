@@ -1,0 +1,17 @@
+{
+ "i": 3210,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قنط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 32,
+  "page_to": 32
+ },
+ "ar": "القاف والنون والطاء كلمةٌ صحيحة تدلُّ على اليأس من الشَّئ. يقال: قَنَط يَقْنِط، وقَنِط يَقْنَط. قال اللّه تعالى: ﴿وَمَنْ يَقْنَطُ مِنْ رَحْمَةِ رَبِّهِ إِلاَّ اَلضّالُّونَ﴾ (٣).",
+ "az": "«قنط» — قاف، نun və طa hərfləri bir şeydən ümidini üzməyə dəlalət edən səhih bir kəlmədir. Deyilir: «قَنَط يَقْنِط» (qanətə yaqnitü) və «قَنِى يَقْنَط» (qaniətə yaqnatu). Uca Allah buyurmuşdur: mənaca tərcümə: «Rəbbinin mərhəmətindən ancaq zəlalətə düşənlər ümidini üzərlər (yəqnətu)».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:04.973Z"
+}

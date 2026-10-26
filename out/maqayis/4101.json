@@ -1,0 +1,17 @@
+{
+ "i": 4101,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 413,
+  "page_to": 414
+ },
+ "ar": "النون والدال والحاء كلمةٌ تدلُّ على سَعَةٍ في الشَّيء. من ذلك النَّدْح: الأرض الواسعة، والجمع أنداح. ومنها قولهم: لك عنه مندوحةٌ، أي\nسَعَة وفُسْحة. قال الخليل: وأرض مندوحة: بعيدةٌ واسعة. وإنَّه لفي نُدْحَةٍ (١) من الأرض، أي سَعَة وفُسْحَة. واللّه أعلم بالصواب.",
+ "az": "[ندح] النون والدال والحاء (n, d, h) — bir şeydə genişliyə dəlalət edən kəlmədir. Bunlardan biri «النَّدْح» (ən-nədh) — geniş yer, cəmi «أنداح» (əndah). Həmçinin onların bu sözü: «لك عنه مندوحة» (ləkə anhü mənduhətün) — yəni sənin üçün orada genişlik və fəraqlıq vardır. Xəlil demişdir: «أرض مندوحة» (ərdun mənduhətün) — uzaq və geniş yer. «وإنه لفي نُدْحَة من الأرض» (və innəhu ləfi nudhətin minəl-ərd) — həqiqətən o, yerin geniş və fəraqlı hissəsindədir. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

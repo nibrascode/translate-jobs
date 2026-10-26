@@ -1,0 +1,17 @@
+{
+ "i": 4094,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 410,
+  "page_to": 410
+ },
+ "ar": "النون والدال والغين كلمةٌ إنْ صحّت فإنها تدلُّ على شِبْه الطَّعن والنَّخس. يقال: ندَغَه: طعنه. وندَغْتُ الصبىَّ: دغْدَغْته. ويقولون:\nالنُّدْغَة: البياض في آخِر الظّفر، وكأنَّه شيءٌ أثَّر في شيء.",
+ "az": "[ندغ] (N-D-Ğ) Nun, dal və ğayn, əgər doğrudursa, bir kəlmədir ki, nizə ilə vurmağa və deşməyə bənzər bir şeyə dəlalət edir. Deyilir: «ندَغَه» (onu nədəğə etdi), yəni onu vurdu. «ندَغْتُ الصبىَّ» (uşağı nədəğ etdim), yəni onu gıdıqladım. Deyirlər: «النُّدْغَة» (ən-nudğə) - dırnağın sonundakı ağlıqdır, sanki bir şeyin başqa bir şeyə təsir etdiyi bir şeydir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

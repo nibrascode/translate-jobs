@@ -1,0 +1,17 @@
+{
+ "i": 4400,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هلا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 60,
+  "page_to": 60
+ },
+ "ar": "الهاء واللام والحرف المعتلّ. يقولون: هَلَا: كلمةٌ تسكَّنُ بها الإناث عند مقارنةِ الفحل إيَّاها. قال:\n* ألَا حيِّيا لَيلَى وقُولَا لها هَلَا (٢) *\nويقال: ذهَبَ بذى هِلِيَّان، أى حيث لا يُدرَى.",
+ "az": "[هلا] (hə-lâ): Hə, lam və mötəbər hərf. Deyirlər: «هَلَا» (həlâ) — dişi dəvə erkək dəvə ilə yaxınlaşarkən dişilərin sakitləşməsi üçün deyilən kəlmədir. Şair demişdir: * ألَا حيِّيا لَيلَى وقُولَا لها هَلَا * (Agah olun, Leylanı salamlayın və ona həla deyin). Deyirlər: «ذهب بذى هِلِيَّان» (zəhəbə bi-zi hiliyyan) — yəni heç bilinməyən bir yerə getdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

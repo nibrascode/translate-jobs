@@ -1,0 +1,17 @@
+{
+ "i": 4285,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هون",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 21,
+  "page_to": 21
+ },
+ "ar": "الهاء والواو والنون أُصَيلٌ يدلُّ على سكون أو سكينة (٢) أو ذلّ. من ذلك الهَوْن: السَّكينة والوَقار. قال اللّه سبحانه: ﴿يَمْشُونَ عَلَى اَلْأَرْضِ هَوْناً﴾. والهُون: الهَوان. قال ﷿: ﴿أَيُمْسِكُهُ عَلى هُونٍ﴾.\nوالهَاوُون، لِلذى يُدقُّ به عربىٌّ صحيح، كأنّه فاعول من الهَوْن.",
+ "az": "[هون] (Hon): Hə, vav və nun: sükunətə, aramlığa və ya zillətə dəlalət edən kiçik bir kökdür. Bunlardan biri: الْهَوْن (əl-həvn): aramlıq və ləyaqət. Uca Allah buyurmuşdur: ﴿يَمْشُونَ عَلَى اَلْأَرْضِ هَوْناً﴾ (mənaca tərcümə: Onlar yer üzündə təmkinlə – aramla gəzişərlər). Və الْهُون (əl-hun): zillət. Uca Allah buyurmuşdur: ﴿أَيُمْسِكُهُ عَلَى هُونٍ﴾ (mənaca tərcümə: Onu zillət içində saxlasın?).\n\nÜzərində bir şey döyülən الْهَاوُون (əl-havun – həvəngdəstə) əsl ərəb sözüdür, sanki «هَوْن» (həvn) sözündən «فَاعُول» (fail) vəznindədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

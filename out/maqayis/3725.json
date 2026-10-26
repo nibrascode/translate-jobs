@@ -1,0 +1,17 @@
+{
+ "i": 3725,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 267,
+  "page_to": 268
+ },
+ "ar": "الميم والهاء كلمتان تدلُّ إحداهما على زَجْر، والأخرى على مَنْظَرٍ ولَذَّةٍ.\nفالأولَى قولهم: مَهْ (٢). ومهمه به: زَجره بقوله له ذلك. والمَهْمَه: الخرق الأملس الواسع.\nوالأخرى قولهم: ليس له مَهَهٌ، إذا لم يكن جميلا. ويقولون: «كل شيء مَهَهٌ ومَهَاهٌ إلاّ النِّساء وذكرَهُنّ (١)» والمَهاهُ: اللّذَّة. أنشدنا القَطّان عن ثعلب:\nوليس لعيشنا هذا مَهَاهٌ … وليست دارنا الدُّنيا بدارِ (٢)",
+ "az": "«مه» (məh) — Mim və hə hərfləri iki kəlməyə dəlalət edir; bunlardan biri qadağaya, digəri isə mənzərəyə və ləzzətə aiddir. Birincisi onların «مَهْ» (məh - kifayətdir, bəsdir) sözüdür (٢). «مهمه به» (məhəməhû) — ona bu sözü deyərək qadağan etdi. «المهمه» (əl-məhməh) — hamar və geniş səhra. Digəri isə onların gözəl olmadıqda «ليس له مَهَهٌ» (ləysə ləhû məhəhün - onun gözəlliyi yoxdur) deməsidir. Onlar deyirlər: «كل شيء مَهَهٌ ومَهَاهٌ إلاّ النِّساء وذكرَهُنّ» (Qadınlar və onların xatırlanması istisna olmaqla, hər şey məhəh və məhahdır) (١). «المهاه» (əl-məhah) — ləzzət. əl-Qəttan bizə Sələbdən nəql edərək oxudu: \nوليس لعيشنا هذا مَهَهٌ … وليست دارنا الدُّنيا بدارِ \n(Bu yaşayışımızın ləzzəti yoxdur... və dünya evimiz əsl ev deyil) (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3475,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 162,
+  "page_to": 162
+ },
+ "ar": "الكاف والثاء والميم أُصَيلٌ يدلُّ على امتلاءِ وسَعة. يقال للشَّبعان: الأَكْثَم. ويقال للعظيم البطن: أكْثَم. ويقولون: أكْثَمَ قِربتَه، إذا ملَأَها. والأَكْثَم: الطَّريق الواسع. ويقال أكْثَمَ فَمَه (١)، إذا أدْخَلَ فيه القِثّاءَ ونحوَه ثمّ كَسَره.",
+ "az": "[كثم] (Kəf, Sə, Mim) dolğunluğa və genişliyə dəlalət edən kiçik bir kökdür. Tox olan şəxsə «الأكثم» (çox yeyən, tox) deyilir. Qarnı böyük olana da «أكثم» deyilir. Deyirlər ki, «أكثم قربته» (tuluğunu doldurdu). «الأكثم» (geniş yol). Həmçinin «أكثم فمه» (١) (ağzına xiyar və bənzərini qoyub onu sındırdı) ifadəsi işlədilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

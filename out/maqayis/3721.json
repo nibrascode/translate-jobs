@@ -1,0 +1,17 @@
+{
+ "i": 3721,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لكي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 264,
+  "page_to": 264
+ },
+ "ar": "اللام والكاف والحرف المعتل أو المهموز، يدلُّ على لزوم مكانٍ وتباطؤ. ولَكِيت بفُلانٍ لَكًى مقصور، إذا لزِمْتَه. وقال أبوبكر: لَكِيَ بالمكان، إذا أقَامَ به، يهمز ولا يهمز (٢). وتلَكَّأَ الرّجُل تلكُّؤًا: تباطَأَ عن الشيء ويقال: لَكأْتُ * الرجُلَ لَكأً: جلَدْتُه بالسَّوط.",
+ "az": "[لكي] «اللام والكاف والحرف المعتل أو المهموز، يدلُّ على لزوم مكانٍ وتباطؤ» (Lam, kaf və zəif yaxud həmzəli hərf bir yerdə sabit qalmağa və ləngiməyə dəlalət edir). ولَكِيت بفُلانٍ لَكًى مقصور (Filankəsin yanında ləkan - mənsur olaraq qaldım): إذا لزِمْتَه (əgər ona yapışdınsa). وقال أبوبكر (Əbu Bəkr demişdir): لَكِيَ بالمكان (Məkanda ləkiyə etdi): إذا أقَامَ به، يهمز ولا يهمز (٢) (orada qaldı, həmzəli də, həmzəsiz də işlədilir). وتلَكَّأَ الرّجُل تلكُّؤًا (Kişi ləngidi): تباطَأَ عن الشيء (bir işdən yavaşıdı, tənbəllik etdi) ويقال: لَكأْتُ * الرجُلَ لَكأً (Və deyilir: Kişiyə ləkə etdim): جلَدْتُه بالسَّوط (onu qamçı ilə vurdum).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:15.889Z"
+}

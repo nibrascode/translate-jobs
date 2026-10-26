@@ -1,0 +1,17 @@
+{
+ "i": 3641,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 236,
+  "page_to": 237
+ },
+ "ar": "اللام والحاء والزاء كلمةٌ تدلُّ على ضِيقٍ في الشَّيء. من ذلك\nالمَلَاحِز، وهي المَضَايق * ويقال: تلاحَزَ القومُ في القول، إذا تعاوصوا (١). واللَّحِز:\nالرَّجل الضيِّق الخُلُق. قال:\nترى اللَّحِزَ الشّحيحَ إذا أُمِرَّت … عليه لمالِهِ فيها مُهِينا (٢)",
+ "az": "[لحز] (ləhəz) — lam, ha və zai bir şeydə darlıq mənasını bildirən sözdür. Bunlardan biri اّلْمَلَاحِز (əlməlahiə) — dar yerlərdir. تلاحَزَ القومُ في القول (təlahaəzəl-qavmu fil-qavl) — qövm sözdə mübahisə edib çətinliyə düşdülər (١), deyilir. اّللَّحِز (əللəhiz) — xasiyyəti dar, xəsis kişi. Şair demişdir:\nترى اللَّحِزَ الشّحيحَ إذا أُمِرَّت … عليه لمالِهِ فيها مُهِينا (٢)\n(Görərsən ki, xəsis və dar xasiyyətli adam malının üzərinə bəla gələndə onu xərcləməkdə səxavətsizdir)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3361,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 115,
+  "page_to": 115
+ },
+ "ar": "القاف والفاء والزاء أصلانِ يدلُّ [أحدهما] على شبه الوَثْب، والآخر على شيءِ يُلبَس.\nفالأوّل القَفَزان: مصدر قَفَز. ويقال للضَّفادع: القَوافز. والآخر القُفَّاز:\nوهو ضربٌ من الحَلْي تتَّخذه المرأةُ في يديها ورجليها. ويقولون على التشبيه بهذا:\nفرسٌ مقفَّز، إذا استدار تحجيلُه بقوائمه ولم يجاوز الأشاعر نَحْوَ المنعَّل. فأمَّا القَفِيز فمعرَّب.",
+ "az": "[قفز] Qaf, fa və za. İki kökdür; biri tullanmağa, digəri isə geyilən bir şeyə dəlalət edir. Birincisi «qəfəzan»: «qəfəzə» (tullandı) sözünün məsdəridir. Qurbağalara «qəvəfiz» (tullananlar) deyilir. İkincisi «quffaz»: qadının əllərinə və ayaqlarına taxdığı bir növ bəzək əşyasıdır. Buna bənzədərək deyirlər: «Fərəsun muqəffəz», yəni ayaqlarındakı ağlıq (nişan) dairəvi olub, ayaqqabı geyinmiş kimi dırnaqların üstündən keçmədikdə deyilir. «Qəfiz» isə ərəbləşdirilmiş bir sözdür.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.648Z"
+}

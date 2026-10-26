@@ -1,0 +1,17 @@
+{
+ "i": 4472,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وثأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 86,
+  "page_to": 86
+ },
+ "ar": "الواو والثَّاء والهمزة، ليس فيه إلاَّ وُثِئَتْ يدُه، وهى موثوءة.",
+ "az": "[وثأ] (və-sa-həmzə), bunda yalnız «وُثِئَتْ يدُه» (əli burxuldu) kəlməsi var, o, «موثوءة» (burxulmuş)dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

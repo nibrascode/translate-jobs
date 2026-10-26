@@ -1,0 +1,17 @@
+{
+ "i": 3879,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مصع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 327,
+  "page_to": 327
+ },
+ "ar": "الميم والصاد والعين أصلٌ صحيح يدلُّ على معنيين: أحدهما لَمعٌ في الشَّيء وحركة، والآخر ذَهاب الشيء وتولِّيه.\nفالأوَّل مَصَعَ البرقُ: أومَضَ. ثم يقال: مَصَعَ الرّجل: ضَرَب بالسَّيف.\nومنه المُماصَعة: المجالدة. ويُقاس عليه، فيقال رجل مَصِعٌ: شديد. ومَصَعَ ضَرع النّاقةِ بالماء: ضَربَه. ومَصَعَتِ الأمُّ بالولد: رمت به. ويقال: إنَّ المَصْعَ:\nالمشْي. قال:\nيَمْصَعُ في قِطعةِ طيلسانْ … مَصعاً كمصع ذَكَر الوِرْلانْ (١)\nوالآخر مَصَعَ الشَّيء: ولَّى وذَهَب، وذلك في كلِّ شيء، فهو ماصعٌ.\nومَصَعَتِ الإبلُ: نَقَصَتْ ألبانُها.\nومما شذَّ عن هذين المعنيين المُصَع: ثَمر العَوسج.",
+ "az": "«مصع» (məsəv) — mim, sad və eyn hərfləri iki mənaya dəlalət edən səhih bir kökdür: bunlardan biri bir şeydə parıltı və hərəkət, diğəri isə bir şeyin gedib yox olmasıdır. Birincisi: مَصَعَ البرقُ (məsəəl-bərqu) — şimşək çaxdı. Sonra deyirlər: مَصَعَ الرّجلُ (məsəər-raculu) — qılıncla vurdu. Və bundan المُماصَعةُ (əl-mumasəətü) — qılınclaşmaq. Buna əsasən deyilir: رجلٌ مَصِعٌ (racülün məsiün) — güclü, şiddətli. Və مَصَعَ ضَرع النّاقةِ بالماءِ (məsəə darə-n-naqəti bil-mài) — dəvənin əmcəyini su ilə vurdu. Və مَصَعَتِ الأمُّ بالولدِ (məsəətil-ümmü bil-vələdi) — uşağı atdı (doğdu). Və deyirlər ki, المَصْعُ (əl-məsü) — yeriməkdir. Şair demişdir: «Kətan parçası içərisində yeriyir… kərtənkələ balasının yeriməsi kimi (١)». Digəri isə: مَصَعَ الشَّيءُ (məsəəş-şəyyü) — dönüb getdi, yox oldu; bu, hər şeydə belədir, o, ماصِعٌ (masiun) — gedicidir. Və مَصَعَتِ الإبلُ (məsəətil-ibilü) — dəvələrin südü azaldı. Bu iki mənadan istisna olunan isə المُصَعُ (əl-musəu) — yovşan (və ya tikanlı kolların) meyvəsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

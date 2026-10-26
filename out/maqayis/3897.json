@@ -1,0 +1,17 @@
+{
+ "i": 3897,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مطق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "الميم والطاء والقاف. التمطُّق: أن يُلصِق الإنسانُ لِسانَه بالغَارِ الأعلى فتَسمع له صوتاً، وذلك إذا استطابَ ما يأكل. قال الأعشى:\nتُرِيكَ القَذَى من دونها وهي دُونَه … إذا ذاقَها مَنْ ذاقَها يتمطَّق (٤)\nواللّه أعلم بالصواب.",
+ "az": "[مطق] \nMim, ta və qaf hərfləri. التمطُّق: insanın dilini damağın yuxarı hissəsinə yapışdırması və bunun üçün səs eşidilməsidir, bu isə yediyi şeyi xoş və ləzzətli bildikdə olur. Əşə-şair demişdir:\nتُرِيكَ القَذَى من دونها وهي دُونَه … إذا ذاقَها مَنْ ذاقَها يتمطَّق (٤)\nmənası: «O (qadın və ya şərab) toz-torpağı səninlə onun arasında göstərir, halbuki o ondadır... Onu dadan hər kəs dadarkən damağını şappıldadır». \nDoğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3693,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لعج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 254,
+  "page_to": 254
+ },
+ "ar": "اللام والعين والجيم أصلٌ واحد، هو حَرارَةٌ في القَلْبِ.\n[و] منه اللَّعْج: حرارة الْحُبِّ في الفؤاد. ولَعَج يَلْعَجُ. قال أبو عبيد: لَعَجَ الضَّربُ الجِلدَ: أحرَقَه. قال الهذلىّ (٢):\nإذا تَجَرَّدَ نَوحٌ قامتَا معه … ضَرْباً ألِيماً بسِبْتٍ يَلْعَجُ الجِلِدا\nولَعَجه الأمر: اشتدَّ عليه.",
+ "az": "«لعج» — lam, ayn və cim tək bir əslə malikdir, o da qəlbdə olan hərarətdir.\nVə ondan: «اللَّعْج» (al-la'j) — ürəkdə eşqin hərarəti. «لَعَج يَلْعَجُ» (la'aja yal'aju). Əbu Üبەyd demişdir: «لَعَجَ الضَّربُ الجِلدَ» (la'aja ad-darbu al-jilda) — zərbə dərini yandırdı. Hüzəli (٢) demişdir:\nإذا تَجَرَّدَ نَوحٌ قامتَا معه … ضَرْباً ألِيماً بسِبْتٍ يَلْعَجُ الجِلِدا\n(Nuh [şəxs və ya qəbilə adı] soyunanda ikisi də onunla birlikdə ayağa qalxardı, dəri yandıran qayışla şiddətli zərbə ilə).\nVə «لَعَجه الأمر» (la'ajahu al-amr) — iş ona ağır gəldi, şiddətləndi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

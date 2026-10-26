@@ -1,0 +1,17 @@
+{
+ "i": 3482,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كدش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 165,
+  "page_to": 165
+ },
+ "ar": "الكاف والدال والشين ليس بناءً يشبه * كلام العرب، لعلّه أن يكون شيئاً يقارب الإبدال. يقال كَدَس وخَدَش بمعنىً. وكَدَشَ وكَدَح أي كَسَبَ. وكَدَش الشّيءَ بأسنانه: قطعه. وكلُّ هذا شيءٌ واحدٌ في الضَّعف.",
+ "az": "[كدش] (Kəf, Dal, Şin) ərəb kəlamına bənzəyən bir quruluş deyildir, bəlkə də əvəzləməyə yaxın bir şeydir. Deyilir ki, «كدس» və «خدش» eyni mənadadır. «كدش» və «كدح» (qazandı). «كدش الشيء بأسنانه» (dişləri ilə kəsdi). Bütün bunlar zəiflik baxımından eyni şeydir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

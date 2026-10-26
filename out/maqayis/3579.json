@@ -1,0 +1,17 @@
+{
+ "i": 3579,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لهط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 216,
+  "page_to": 216
+ },
+ "ar": "اللام والهاء والطاء كلمةٌ. يقولون: لَهَطه بسهمٍ: رماه.\nولَهَطَتِ المرأةُ فَرجَها بالماء: ضَرَبَتْه.",
+ "az": "[لهط] (ləhət) - Lam, ha və ta hərfləri bir kəlmədir. Deyirlər: لَهَطه بسهمٍ (ləhətəhü bi-səhmin): onu oxla vurdu. Və لَهَطَتِ المرأةُ فَرجَها بالماء (ləhətəti əl-mər’ətu fərcəhə bi-l-mâ’): qadın örpəyini su ilə vurdu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

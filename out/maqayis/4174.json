@@ -1,0 +1,17 @@
+{
+ "i": 4174,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نعب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 448,
+  "page_to": 448
+ },
+ "ar": "النون والعين والباء: أصلان صحيحان: أحدُهما يدلُّ على صوتٍ، والآخرُ على حركةٍ من الحركات.\nفالأوَّل نَعَبَ الغراب: صَوَّتَ، نَعْبًا ونَعيبًا ونَعَبَانًا.\nوالآخر فَرسٌ مِنْعَبٌ: جواد. وناقة نَعّابة: سريعة. ويقال: النَّعْب: أن تحرِّكَ رأسَها في مَشيها إلى قُدّامِها. وهي ناقَةٌ نَعُوب.",
+ "az": "«نعب» (nəəb): Nun, eyn və ba hərfləri iki səhih kökdür: biri səsə, diğeri isə hərəkətlərdən birinə dəlalət edir. Birincisi: «نَعَبَ الغراب» (qarğa caqqıldadı) – səs çıxartdı, «نَعْبًا» (nəbən), «ونَعيبًا» (və nəyibən) və «ونَعَبَانًا» (və nəəbanən). Digəri: «فَرسٌ مِنْعَبٌ» (minçəb at) – celd at. «ناقة نَعّابة» (nəəbab dişi dəvə) – sürətli dişi dəvə. Deyirlər: «النَّعْب» (nəb) – dişi dəvənin gəzərkən başını irəliyə doğru hərəkət etdirməsidir. O, «ناقَةٌ نَعُوبٌ» (nəub dişi dəvə) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:16.219Z"
+}

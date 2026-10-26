@@ -1,0 +1,17 @@
+{
+ "i": 4319,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هتر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 32,
+  "page_to": 32
+ },
+ "ar": "الهاء والتاء والراء: أُصَيل يدلُّ على باطلٍ وسَيِّئٍ من القول:\nوأُهْتِرَ الرّجُل: خَرِف من الكِبَر. ومعنى هذا [أنّه] يتكلّم بالهِتْرِ، وهو السَّقَط من القَول. والأصل فيه هذا، ثمَّ يقال رجل مُستَهْتِرٌ: لا يُبالِى ما قِيلَ له، أى كلُّ الكلامِ عنده ساقط. وتَهاتَرَ الرّجُلانِ ادّعى كلُّ واحدٍ منهما على صاحبه باطلاً. وهَتَرَهُ: مزَّقَ عِرضَه بباطلٍ هَتْراً، وهتَّره تهتيراً أيضاً. وقولهم للدَّاهية والأمر العَجَب: هِتْرٌ، هو من الإبدال، والأصل هِكْرٌ، وقد ذكرناه.",
+ "az": "[هتر] (hə-tə-rə): Hə, ta və ra: batil və pis sözə dəlalət edən kökdür:\nوَأُهْتِرَ الرّجُل (uhtira ər-racü l): qocalıqdan huşunu itirdi. Bunun mənası [odur ki,] o, هِتْر (hitr) ilə danışır, bu da mənasız, boş söz deməkdir. Əsli bundandır, sonra مُسْتَهْتَرٌ (müstəhtərun) kişiyə deyilir: deyilənlərə əhəmiyyət verməyən, yəni onun yanından hər söz batildir. تَهاتَرَ الرّجُلانِ (təhatərə ər-racülani): hər biri digərinə qarşı batil iddia irəli sürdü. هَتَرَهُ (hətərah): batil şəkildə onun namusunu ləkələdi, parçaladı هَتْراً (hətran), həmçinin هَتَّرَهُ تَهْتِيراً (həttərəhu təhtiran) da deyilir. Fəlakət və təəccüblü işə هِتْرٌ (hitr) demələri isə hərflərin dəyişməsi yoluyladır, əsli هِكْرٌ (hikr) kəlməsidir, bunu artıq qeyd etmişik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

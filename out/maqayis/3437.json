@@ -1,0 +1,17 @@
+{
+ "i": 3437,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 149,
+  "page_to": 149
+ },
+ "ar": "الكاف والياء والدال أصلٌ يدلُّ على معالجةٍ لشيء بشدّة، ثم يتَّسع الباب، وكلّه راجعٌ إلى هذا الأصل. قال أهلُ اللُّغة: الكَيد:\nالمُعالجة. قالوا: وكلُّ شيءٍ تُعالِجُه فأنت تَكِيدُه. هذا هو الأصل في الباب، ثم يسمُّون المَكر كَيدا. قال اللّه تعالى: ﴿أَمْ يُرِيدُونَ كَيْداً﴾. ويقولون: هو يَكِيدُ بِنَفْسِه، أي يجودُ بها، كأنَّه يُعالِجها لتخرُج. والكَيْد: صِياح الغراب بجَهْدٍ.\nوالكَيد: أن يُخرِج الزّندُ النّار ببطءٍ وشدة. والكَيد: القَيء، وربَّما سمَّوا الحَيض كيداً. والكَيد: الحرب، يقال: خرجوا ولم يلقَوْا كَيداً، أي حربًا.",
+ "az": "[كيد] (Kaf, ya və dal) — bir işi şiddətlə, səy göstərərək görməyə, müalicə və ya tədbir görməyə dəlalət edən bir əsasdır. Sonradan sahəsi genişlənmişdir və hamısı bu əsərə qayıdır. Dilçilər demişlər: الكَيد (keid) — məşğul olma, tədbir görmə, səy göstərmə. Dedilər ki: Hər hansı bir işlə məşğul olsan, sən onu كيد tərbiyə edirsən (tədbir görürsən). Bu, bu babda əsasdır, sonra hiyləni كَيْد (keid) adlandırırlar. Uca Allah buyurmuşdur: ﴿أَمْ يُرِيدُونَ كَيْداً﴾ (mənaca tərcümə: Yoxsa [Peyğəmbərə qarşı] bir hiylə qurmaq istəyirlər?). Deyirlər: O, يَكِيدُ بِنَفْسِه (yekidu binəfsihi) — yəni can verir, elə bil ki, [canının] çıxması üçün ona əziyyət verir, səy göstərir. Və الكَيْد (keid) — qarğanın çətinliklə qışqırmasıdır. Və الكَيْد (keid) — çaxmaq daşının (الزّند) yavaş-yavaş və şiddətlə od çıxarmasıdır. Və الكَيْد (keid) — qusuntudur, bəzən heyzi də keid adlandırırlar. Və الكَيْد (keid) — müharibədir, deyilir: Onlar çıxdılar və heç bir كَيْد (keid) ilə qarşılaşmadılar, yəni müharibə görmədilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

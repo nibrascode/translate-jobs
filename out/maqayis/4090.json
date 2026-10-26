@@ -1,0 +1,17 @@
+{
+ "i": 4090,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 408,
+  "page_to": 408
+ },
+ "ar": "النون والخاء والجيم كلمةٌ واحدة. يقولون: النَّخْج:\nالسَّيْل [ينخج (٤)] في سَنَد الوادي حتّى يَجرُف. ويُقاس على هذا فيقال:\nناخَجَها، إذا جامَعَها.",
+ "az": "[نخج] (N-X-C) Nun, xa və cim tək bir kəlmədir. Deyirlər: «النَّخْج» (ən-nəxc) - selin vadinin yamacında onu yuyub aparana qədər «ينخج» (yənxəc - axması)dır. Buna qiyasən deyilir: «ناخَجَها» (naxəcəha), yəni onunla cinsi əlaqədə oldu.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

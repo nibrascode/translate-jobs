@@ -1,0 +1,17 @@
+{
+ "i": 4397,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هكر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 59,
+  "page_to": 59
+ },
+ "ar": "الهاء والكاف والراء كلمتان: الهَكْر: العَجَب. قال:\n* فاعجَبْ لذلكَ رَيْبَ دَهرٍ وَاهْكَرِ (٣) *\nقال الخليل: تقول هَكْراً لَكَ.\nوالكلمة الأخرى: * اعتراءُ النُّعاس. قال: وهَكِر الرّجُل: اعتراه نُعاس وكَلَّ، واستَرخَتْ عِظامُه ومَفاصِلُه.",
+ "az": "[هكر] (hə-كَ-ra): Hə, kaf və ra iki kəlmədir: «الهَكْر» (əl-həkr) — təəccüb. Şair demişdir: * فاعجَبْ لذلكَ رَيْبَ دَهرٍ وَاهْكَرِ * (Zəmanənin gərdişinə və bu təəccüblü işə təəccüb et!). Xəlil demişdir: «هَكْراً لَكَ» (həkrən ləkə) deyirsən. Digər kəlmə: * موروq yuxunun gəlməsi. Şair demişdir: «وهَكِر الرّجُل» (və həkirar-racülü) — kişiyə yuxululuq və yorğunluq gəldi, sümükləri və oynaqları boşaldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

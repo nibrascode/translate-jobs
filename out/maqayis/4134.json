@@ -1,0 +1,17 @@
+{
+ "i": 4134,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 428,
+  "page_to": 428
+ },
+ "ar": "النون والشين والميم يدلُّ على نُشُوبٍ شيء. ونَشَّمُوا في الأمر:\nأخَذُوا فيه. ويقال لا يكون ذلك إلاَّ في الشَّرّ. و\nفي الحديث: «لما نَشَّمَ النّاسُ في أمر عثمان». أي أخَذُوا فيه ونالوا منه. ونَشَّمَ اللَّحمُ (٣) تنشيماً، أي ابتدأت فيه رائحة.\nوشذَّ عنه النَّشَم: شجرٌ يُتَّخَذ منه القِسِىّ.",
+ "az": "«نشم» (ن ش م): النون, Şin və Mim bir şeyin ilişməsinə (nüşub) dəlalət edir. «نَشَّمُوا في الأمر» (nəşşəmü fi əl-əmr): işə girişdilər. Deyilir ki, bu, yalnız şər işdə olur. Hədisdə demişlər: «لما نَشَّمَ النّاسُ في أمر عثمان» (Ləmə nəşşəmə əl-nəsu fi əmri Usmanın) — yəni insanlar onun işinə girişdilər və ona dil uzatdılar (tənqid etdilər). «نَشَّمَ اللَّحمُ» (nəşşəmə əl-ləhmü) tənşiman: ətdə qoxu əmələ gəlməyə başladı. Bunlardan istisna olaraq «النَّشَم» (nəşəm): ox yayları düzəldilən bir ağac növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.782Z"
+}

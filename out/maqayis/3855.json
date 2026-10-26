@@ -1,0 +1,17 @@
+{
+ "i": 3855,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 317,
+  "page_to": 317
+ },
+ "ar": "الميم والراء والدال أصلٌ صحيح يدلُّ على تَجريدِ الشَّيء من قِشْرِه أو ما يعلوه من شَعَرِه. والأمرد: الشّابُّ لم تَبدُ لحِيتُه. ومَرِدَ يَمْرَدُ. ومرَّدَ الغُصن تمريداً: ألقَى عنه لِحاءه فتركَهُ أمْرَد، ومنه شجرةٌ مَرْداء. والمَرْداء:\nرملةٌ منبطِحةٌ لا نَبْتَ فيها، والجمع مَرادَى (٤). والمارد: العاتي، وكذا المَرِيد، كأنَّه تجرّد من الخير. والأمْرد من الخيل: الذي لا شَعر على ثُنَّتِه. والمُمَرَّد: البناء الطَّويل، وهو قياسُ الباب، لأنَّه كأنَّه مجرّد يشبه الشَّجرةَ المَرداء. ويقولون:\nالمَرَاد: العُنق، وهو القياس إن صحّ. وتمرَّد فلانٌ زماناً: بقي أمرد. وقولهم: مَرَدَ الطَّعامَ يَمرُدُه مرداً: ماثَهُ حتَّى يَلِين، هو من الإبدال، والأصل مَرَسَ؛ فأُقِيمت الدال مقامَ السِّين. وكذا * مَرَدَ الصَّبِىُّ ثديَ أمِّه يَمْرُدُهُ. وكذا المَرِيد: التَّمر يُنقَع في اللَّبَن، كلّ ذلك معناه واحدٌ، والأصل السين.",
+ "az": "«مرد» (marada) — mim, ra və dal hərflərindən ibarət səhih bir kök olub bir şeyi qabığından və ya üzərindəki tükdən təmizləməyə dəlalət edir. اَلأَمْرَدُ (al-amradu): saqqalı çıxmamış gənc. مَرِدَ يَمْرَدُ (marida yamradu). مَرَّدَ الغُصْنَ تْمْرِيداً (marrada al-ğuṣna tamridan): qabığını soyub onu amrad (tüysüz/qabığı qopmuş) vəziyyətdə tərk etdi, bundan şöhrət tapmış شَجَرَةٌ مَرْدَاءُ (şajaratun marda'u) gəlir. اَلْمَرْدَاءُ (al-marda'u): bitkisi olmayan hamar qumluq, cəmi مَرَادَى (marada). اَلْمَارِدُ (al-maridu): azğın, həmçinin اَلْمَرِيدُ (al-maridu) da belədir, elə bil xeyirdən məhrum olub soyulmuşdur. Atların اَلأَمْرَد (al-amrad) olanı: dodağının üzərində tükü olmayan. اَلْمُمَرَّد (al-mumarradu): uzun bina, bu, bölmənin qaydasıdır, çünki o, elə bil soyulmuş marda ağacına bənzədilərək ucaldılmışdır. Deyirlər: اَلْمَرَادُ (al-maradu): boyun, əgər səhihdirsə bu da həmin qaydandandır. فُلَانٌ تَمَرَّدَ زَمَانًا (fulanun tamarrada zamanan): bir müddət amrad (tüysüz gənc) qaldı. Onların مَرَدَ الطَّعَامَ يَمْرُدُهُ مَرْداً (marada at-ta'ama yamruduhu mardan) sözü — yəni yumşalana qədər onu əzmək — əvəzlənmədəndir (ibdal), əsli مَرَسَ (marasa) olub sin hərfinin yerinə dal qoyulmuşdur. Həmçinin مَرَدَ الصَّبِيُّ ثَدْيَ أُمِّهِ يَمْرُدُهُ (marada aṣ-ṣabiyyu thadya ummihi yamruduhu). Həmçinin اَلْمَرِيدُ (al-maridu): südə qoyulmuş xurma, bunların hamısının mənası birdir və əsli sin ilədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

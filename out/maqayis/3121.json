@@ -1,0 +1,17 @@
+{
+ "i": 3121,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فسأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 503,
+  "page_to": 503
+ },
+ "ar": "الفاء والسين والهمزة. يقال فيه: تفسَّأ الثَّوبُ، إذا بَلِىَ.\nوفَسَأْته أنا: مدَدْتُه حتى تفزَّر. ويقولون: فَسَأه بالعصا: ضربه. ويقولون فى غير المهموز: تفاسَى الرَّجُل تفاسِياً، إذا أخْرَجَ عَجِيزتَه.",
+ "az": "[فسأ] الفاء والسين والهمزة (Fə, sin və həmzə). يقال فيه (Bu barədə deyilir): تفسَّأ الثَّوبُ (paltar cırılıb dağıldı): إذا بَلِىَ (köhnəldiyi zaman). وفَسَأْته أنا (Və mən onu fəsətu): مدَدْتُه حتى تفزَّر (dartıb parçalanana qədər uzatdım). ويقولون (Və deyirlər): فَسَأه بالعصا (onu əsa ilə vurdu): ضربه (vurdu). ويقولون فى غير المهموز (Və həmzəsiz olan variantda deyirlər): تفاسَى الرَّجُل تفاسِياً (kişi təkəbbürlənmək üçün arxasını irəli verdi): إذا أخْرَجَ عَجِيزتَه (oma hissəsini çıxardığı zaman).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.151Z"
+}

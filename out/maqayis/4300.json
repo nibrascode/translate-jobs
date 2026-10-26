@@ -1,0 +1,17 @@
+{
+ "i": 4300,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 26,
+  "page_to": 26
+ },
+ "ar": "الهاء والياء واللام كلمةٌ واحدةٌ تَدُلُّ على دَفْعِ شئٍ يمكن كَيْلُه دفعاً من غير كَيْل. وهِلْتُ الطَّعامَ أَهِيلُه هَيْلاً: أرسَلْتُه. قال اللّه سبحانه:\n﴿وَكانَتِ اَلْجِبالُ كَثِيباً مَهِيلاً﴾. ومنه قولُهم: «جاءَ بالهَيْل والهَيْلَمُاَن»، أى الشَّئ الكثير.",
+ "az": "[هيل] (Heyl): Hə, ya və lam çəkilə bilən bir şeyi ölçmədən itələyib tökməyə dəlalət edən tək bir sözdür. Və هِلْتُ الطَّعامَ أَهِيلُه هَيْلاً (hiltüş-təamə əhiluhu heylən): taxılı tökdüm. Uca Allah buyurmuşdur:\n\n﴿وَكانَتِ اَلْجِبالُ كَثِيباً مَهِيلاً﴾ (mənaca tərcümə: Dağlarsa səpələnmiş qum təpəsinə dönəcəkdir). \n\nOndandır ki, onların «جاءَ بالهَيْل والهَيْلَمُاَن» (Cəə bil-heyli və-l-heyləman) sözü işlədilir, yəni bol, çoxlu şeylə gəldi deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

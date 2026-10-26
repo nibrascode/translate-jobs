@@ -1,0 +1,17 @@
+{
+ "i": 4399,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 60,
+  "page_to": 60
+ },
+ "ar": "الهاء واللام والميم ليس فيه إلاّ قولهم هَلُمَّ: كلمة دعوة إلى شَئ.\nقالوا: وأصلها هَلْ أَؤُمُّ، كلامُ مَنْ يريد إتيان الطعام، ثمَّ كثُرت حتَّى تكلَّم بها الدَّاعى، مثل قولهم: تَعَالَ، أى اعْلُ، ثمَّ كثُرت حتّى قالها مَنْ كان أسفَلَ لمن كان فَوق. ويحتمل أنْ يكون معناها هلْ لك فى الطَّعام أُمَّ، أى اقصِدْ.\nوالذى عندنا فى ذلك أنَّه من الكلام المُشكِل. وقد مرَّ مِثلُه.",
+ "az": "[هلم] (hə-lə-mə): Hə, lam və mim hərflərində yalnız «هَلُمَّ» (həlümmə) sözü var ki, bu da bir şeyə dəvət kəlməsidir. Dedilər ki, onun əsli «هَلْ أَؤُمُّ» (həl əümmü) sözüdür, yeməyə gəlmək istəyənin sözüdür, sonra o qədər işləndi ki, dəvət edən hər kəs tərəfindən «gəl» mənasında istifadə olundu, necə ki «تَعَالَ» (təalə) yəni ucal deyirlər, sonra o qədər işləndi ki, hətta aşağıda olan kəs yuxarıda olan kəsə də bunu dedi. Həmçinin ola bilər ki, mənası «yeməyə gəlmək istəyirsənmi, məqsədin odurmu?» deməkdir. Bizim yanımızda olan budur ki, bu, müşkül sözlərdəndir. Bunun bənzəri də keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

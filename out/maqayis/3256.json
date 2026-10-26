@@ -1,0 +1,17 @@
+{
+ "i": 3256,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قتع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 56,
+  "page_to": 56
+ },
+ "ar": "القاف والتاء والعين كلمةٌ. يقال: إنَّ القَتَع: دودٌ حُمرٌ (١) يأكل الخشَب، واحدتها قَتعَة قال:\n* خُشْبٌ تَقصَّعُ في أجوافها القَتَعُ (٢) *\nوحكى ابنُ دريد (٣): قَتَعَ الرّجُل قتُوعاً، إذا انقمَعَ من ذُلّ.",
+ "az": "[قتع] (qət-ə): Qaf, taya və eyn – bir kəlmədir. Deyilir ki: [القَتَع] (əl-qətə) – taxta yeyən qırmızı qurdlar, tək forması [قَتعَة] (qətəətün) olaraq deyilir: «Ağaclar ki, onların daxilində qətə qurdları parçalanıb (yeyir)» (٢). İbn Dureyd hekayət etmişdir (٣): [قَتَعَ الرّجُل قتُوعاً] (qətəə ər-raculu qutu-an) – kişi zillətdən qorxub başını aşağı dikdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:30.096Z"
+}

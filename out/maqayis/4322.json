@@ -1,0 +1,17 @@
+{
+ "i": 4322,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هتك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 32,
+  "page_to": 32
+ },
+ "ar": "الهاء والتاء والكاف: أصلٌ يدلُّ على شَقٍّ فى شَئ.\nوالهَتْك: شَقُّ السِّترِ عمَّا وراءَه. وهُتِكَ عَرشُ فلانٍ: هُدَّ وشُقّ. وسِرنَا هُتْكةً من اللَّيل، أى ساعةً. وهاتَكْناها: سِرْنا فى دُجاها. والمعنى أنَّا شَقَقْنا الظلاَّم.",
+ "az": "[هتك] (hə-tə-kə): Hə, ta və kaf: bir şeydə yarığa (cırıqlığa) dəlalət edən kökdür.\nالهَتْك (əl-hətk): pərdənin arxasındakı şeyi açmaq, cırmaqdır. هُتِكَ عَرشُ فلانٍ (hutikə arşu fəlani): dağıldı və yarıldı. Biz gecənin هُتْكةً (hutkətən) – yəni bir saatı – qədər yol getdik. وَهَاتَكْناها (və hatəknaha): onun qaranlıqlarında yol getdik. Mənası odur ki, biz qaranlığı yarıb keçdik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

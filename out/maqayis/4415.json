@@ -1,0 +1,17 @@
+{
+ "i": 4415,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "همس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 66,
+  "page_to": 66
+ },
+ "ar": "الهاء والميم والسين يدلُّ على خَفاءِ صَوتٍ وحِسٍّ. منه الهَمْس: الصَّوت الخفِىّ. وهَمْسُ الأقدام أخَفَى ما يكونُ من وطءِ القدَم.\nوأمَّا قولهُم الهَمَّاس: الأسَد الشَّديد، فمِنْ هذا عندنا أيضاً، لأنّه إنَّما يُراد به هَمْسُه إمَّا فى وَطْئه وإمَّا فى عَضِّه. قال:\n* عادتُه خَبْطٌ وعضٌّ هَمّاسْ (٣) *",
+ "az": "«همس» (həməs): Hə, mim və sin hərfləri səsin və səsin xırıltısının gizli olmasına dəlalət edir. Bunlardan biri الهَمْس (əl-həms) — gizli səsdir. وهَمْسُ الأقدام (ayaq səsləri) — ayaq basmağın ən gizli olanıdır. Onların الهَمَّاس (əl-həmmas) — şiddətli aslan sözünə gəldikdə, bu da bizə görə məhz bundandır, çünki bundan məqsəd ya onun addım atarkən, ya da dişləyərkən etdiyi gizli səsdir. Şair demişdir: * عادتُه خَبْطٌ وعضٌّ هَمّاسْ (٣) * (Onun adəti dayamaq və həmmas dişləməkdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3774,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ميس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 289,
+  "page_to": 289
+ },
+ "ar": "الميم والياء والسين كلمةٌ تدلُّ على مَيَلان. ومَاسَ مَيَسانًا (٢):\nتبختر. وماس الغصن أيضاً. والمَيْس: شجرٌ يقال إنّه أجودُ خَشَب.",
+ "az": "[ميس] (mim, ya və sin) — meyl etməyə dəlalət edən kəlmədir. مَاسَ مَيَسانًا (masa mayasanan) — təkəbbürlə, lovğa yerişlə yeridi. Həmçinin budaq da yelləndi. والمَيْس (əl-mays): ən yaxşı taxta olduğu söylənilən bir ağac növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4697,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 158,
+  "page_to": 159
+ },
+ "ar": "الياء والميم والنون: كلماتٌ من قياسٍ واحد. فاليَمين: يَمين اليَدِ. [و] يقال: اليَمِين: القُوَّة وقال الأصمعىُّ فى قول الشَّماخ:\nإذا ما رايةٌ رُفِعَتْ لمَجْدٍ … تلقَّاها عَرَابةُ باليَمِين (٥)\nأراد اليَدَ اليُمْنَى. واليُمْن: البَرَكة، وهو ميمونٌ. واليمين: الْحَلِف، وكلُّ ذلك من اليد اليُمْنى. وكذلك اليَمَنُ، وهو بلدٌ. يقال: رجلٌ يَمانٍ، وسيفٌ يَمانٍ.\nوسمِّى الحَلِف يميناً لأنَّ المتحالِفَينِ كأنَّ أحدَهما يَصْفِقُ بيمينه على يمينِ صاحبه.\nينف *\nالياء والنون والفاء. يَنُوفُ فى شعر امرئ القيس (١):\nهَضْبةٌ فى جبَلَىْ طَىّ.",
+ "az": "«يمن» (Y-M-N): Bir qiyas üzrə olan sözlərdir. اليَمِينُ (əl-yəmin) – sağ əldir. [Və] deyilir: اليَمِينُ – qüvvədir. Əsməi Şəmmağın bu sözü haqqında demişdir: Şərəf üçün nə zaman bir bayraq qaldırılsa, Ərəbə onu sağ əli ilə qarşılayar (5). O, sağ əli nəzərdə tutmuşdur. وَاليُمْنُ (əl-yümn) – bərəkət, o, «ميمون» (müğmun - mübarək) adlanır. وَاليَمِينُ (əl-yəmin) – anda deməkdir, bunların hamısı sağ əldən götürülmüşdür. Eləcə də اليَمَنُ (əl-yəmən) – bir ölkədir. Deyilir: «رجل يَمانٍ» (yəmənli kişi), «سيف يَمانٍ» (yəmənli qılınc). And içmək «yəmin» adlandırılmışdır, çünki and içən iki nəfərdən hər biri sanki öz sağ əlini yoldaşının sağ əlinə vurur (toxundurur). يَنُوف (Y-N-F): Əmrülqeysin şeirindəki «ينوف» (ynuf) sözü (1): Tay qəbiləsinin dağlarında bir təpədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

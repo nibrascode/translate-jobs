@@ -1,0 +1,17 @@
+{
+ "i": 4147,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نصت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 434,
+  "page_to": 434
+ },
+ "ar": "النون والصاد والتاء كلمةٌ واحدة تدلُّ على السُّكوت.\nوأَنصَتَ لاستماعِ الحديث، ونَصَتَ يَنْصِت. وفي كتاب اللّه تعالى: ﴿وَأَنْصِتُوا﴾.",
+ "az": "«نصت» (nə-sə-tə): Nun, sad və ta səssizliyə, sükuta dəlalət edən tək bir kəlmədir. «وأَنصَتَ لاستماعِ الحديث» (və ənsətə listimail-hədis) – söhbəti dinləmək üçün susdu, «نَصَتَ يَنْصِت» (nəsətə yənσιt). Uca Allahın kitabında: ﴿وَأَنْصِتُوا﴾ (mənaca tərcümə: Və susub qulaq asın!)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:27.146Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4470,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 85,
+  "page_to": 85
+ },
+ "ar": "الواو والثاء والميم: أصلٌ يدلُّ على جَمعٍ وتجمُّع. والأصل الوَثِيمة: الحَجَر. يقولون: والذِى أخرَجَ النّارَ من الوثيمة. ثمّ يقال للحُزْمة من الحَشيش وَثِيمة. يقال ثِمْ، أى اجْمَعْ والوَثِيم: المكتنِزُ لحماً.",
+ "az": "[وثم] (və-sa-mim): Toplamağa və toplanmağa dəlalət edən əsl. Əsli «الوَثِيمة» (vəsimə) — daşdır. Deyirlər: «والذِى أخرَجَ النَّارَ من الوثيمة» (Odları daşdan çıxaran Allaha and olsun ki). Sonra ot dəstəsinə «وَثِيمة» (vəsimə) deyilir. «ثِمْ» (topla) — yəni topla, deməkdir. «الوَثِيم» (vəsim) — əti bərk olan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

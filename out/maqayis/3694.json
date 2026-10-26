@@ -1,0 +1,17 @@
+{
+ "i": 3694,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لعس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 254,
+  "page_to": 254
+ },
+ "ar": "اللام والعين والسين كلمتانِ متباينتان: الأولى اللَّعَس، * سوادٌ في باطن الشَّفَة. امرأةٌ لعساءُ. ونباتٌ ألْعَس: كثير، لأنّه من رِيِّه يضرِب إلى السَّواد.\nوالأخرى اللَّعْوس: الأكول الحريص، والذئب لَعْوَسٌ. قال الخليل: رجلٌ متلعِّس: شديد الأكْل.",
+ "az": "«لعس» — lam, ayn və sin iki fərqli sözdür: Birincisi, «اللَّعَس» (al-la'as) — dodağın iç hissəsindəki qəhvəyi-qara rəng. Qadın «لعساءُ» (la'sa') — dodağında belə qaraltı olan. «نباتٌ ألْعَس» (nabatun al'as) — çoxlu bitki, çünki suyunun çoxluğundan qaraltıya çalır.\n\nDigəri isə «اللَّعْوس» (al-la'wus) — çox yeyən, tamahkar; canavara «لَعْوَسٌ» (la'wus) deyilir. Xəlil demişdir: «رجلٌ متلعِّس» (rajulun mutala'is) — çox yeyən,acgöz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

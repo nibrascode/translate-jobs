@@ -1,0 +1,17 @@
+{
+ "i": 4436,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 76,
+  "page_to": 76
+ },
+ "ar": "الواو والصاد: كلمةٌ تدلُّ على نَظَرٍ من خَرْق، أو خَرْق يُنظَر منه. الوَصْواص: البُرْقع. وَوَصْوَص الْجَرو: فَتَّح عينيه. ووصْوصَ فلانٌ: نَظَر بعينيه يصغِّرهما. وحجارة الأياديمِ، أى متونِ الأرض: وَصاوِصُ على التَّشبيه، لأنَّها تبرُق كالعُيون. قال:\n* بِصُلَّبَاتٍ تَقِصُ الوَصاوِصا (٣) *",
+ "az": "[وص] (Vav və sad): Dəlikdən baxışa və ya içindən baxılan dəliyə dəlalət edən kəlmədir. Əl-vəsvas (الْوَصْواص) — niqab. Və bala it gözlərini açdı (وَصْوَص الْجَرو). Və filankəs gözlərini qıyaraq baxdı (وَصْوَصَ فلانٌ). Və yerin səthinin daşları — bənzətmə olaraq (وَصاوِصُ) (vəsavis) (adlanır), çünki onlar gözlər kimi parıldayır. O demişdir:\n* بِصُلَّبَاتٍ تَقِصُ الوَصاوِصا (٣) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

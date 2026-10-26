@@ -1,0 +1,17 @@
+{
+ "i": 4240,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 477,
+  "page_to": 478
+ },
+ "ar": "النون والكاف والظاء كلمة واحدة. يقال النَّكظ: الدَّفع والعَجَلة. قال:\n[قد] تجاوزتُها على نَكَظِ المَي … طِ إذا خَبَّ لامعاتُ الآلِ (١)\nقال ابن دريد: أنكَظَته (٢) إنكاظاً، ونَكَظْتُه نكظا، إذا أعجلتَه.",
+ "az": "[نكظ] (tələsdirmək, itələmək) Nun, kaf və zay tək bir kəlmədir. Deyilir: النَّكظ (itələmə və tələsmə). (Şair) demişdir: Mirbadın tələsik vaxtında onu keçdim... ilğım parıldayarkən sərt şəkildə qaçdıqda (١). İbn Dürid demişdir: أنكَظَته إنكاظاً (onu tələdirdin) və نَكَصْتُه نكظا (onu tələdirdim), onu tələdirdiyin zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

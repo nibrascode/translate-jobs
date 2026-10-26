@@ -1,0 +1,17 @@
+{
+ "i": 4236,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 476,
+  "page_to": 477
+ },
+ "ar": "النون والكاف والزاء أُصَيلٌ يدلُّ على غرْزِ شيء ممدَّد في شي. يقال: نكَزْتُه بالحديد أنكُزُه وذلك كالغَرْز. ونَكَزَت الحيّةُ بأنْفِها.\nومنه: نكزَ الماءُ: غاضَ، كأنَّه كالشَّيء يدخُل في الأرض. وبئرٌ ناكزٌ: غارَ\nماؤُها. وأنكَزَها أصحابُها وهذا على المعنى، كأنَّهم لمّا استقَوْا ماءها ظُنَّ أنَّ ماءها غارَ ونكَزَ في الأرض. قال ذو الرُّمّة:\nعلى حِمْيَرِيّاتٍ كأنَّ عيونَها … ذِمام الرَّكايا أنكزَتْها المواتحُ (١)",
+ "az": "[نكز] (dürtmək, batırmaq) Nun, kaf və zay uzadılmış bir şeyin başqa bir şeyə batırılmasını göstərən kiçik bir əsasdır. Deyilir: نكَزْتُه بالحديد أنكُزُه (onu dəmirlə dürtdüm, dürtürəm) və bu, batırmağa bənzər. Və ilan نَكَزَت الحيّةُ بأنْفِها (burunu ilə sancdı). Və ondan: نكزَ الماءُ (su çəkildi): batdı, sanki yerə girən bir şey kimidir. Və quyu نَكِزٌ (suyu çəkilmiş): suyu batmışdır. Və صاحَبُها وأنكَزَها (sahibləri onun suyunu batırdılar) və bu məna üzrədir, elə bil onlar onun suyunu çəkdikdə, onun suyunun batdığı və yerə nüfuz etdiyi zənn edildi. Züə-Rümmə demişdir: Dəvələr üstündə ki, onların gözləri... quyuların hövzələri ki, su çıxaranlar onları qurutdu (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

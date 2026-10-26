@@ -1,0 +1,17 @@
+{
+ "i": 3916,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مغص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 339,
+  "page_to": 340
+ },
+ "ar": "الميم والغين والصاد كلمتان متباينتانِ جدًّا.\nفالأولَى المَغَصُ: تقطيعٌ في المِعَى ووَجَع. والأخرى المَغْصَ يقال هو الخِيار من الإبل. قال:\nأنت وهبتَ هَجْمةً جُرْجُورا … أُدْماً وحُمْراً مَغَصاً خُبورا (١)\nقال ابنُ دُريد: إبلٌ أَمْغاصٌ وأمْعَاص (٢)، وهي خيار الإبل، لا واحد لها ويقال فلان مَغِصٌ، إذا كان ثقيلاً بغيضا؛ وهو من الأوَّل.",
+ "az": "[مغص] \nMim, ğayn və sad hərfləri bir-birindən çox fərqlənən iki kəlmədir.\nBirincisi: المَغَصُ (əl-mağas) — bağırsaqlarda kəsici ağrı və sancıdır. Digəri isə: المَغْص (əl-mağs) — dəvələrin seçilmiş, yaxşı növü deyilir. Şair demişdir:\nأنت وهبتَ هَجْمةً جُرْجُورا … أُدْماً وحُمْراً مَغَصاً خُبورا (١)\n(Sən böyük bir dəvə sürücüyü hədiyyə etdin... qonur, qırmızı, seçilmiş və təcrübəli dəvələr)\nİbn Duraid demişdir: dəvələrə أمْغاصٌ (əmğas) və أمْعَاصٌ (əməas) deyilir (٢), bunlar dəvələrin seçilmişləridir, tək forması yoxdur. Və deyilir ki, filankəs مَغِصٌ (mağis) — ağırxasiyyət, nifrət doğuran olanda; bu da birinci mənadandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

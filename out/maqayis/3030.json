@@ -1,0 +1,17 @@
+{
+ "i": 3030,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فوف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 461,
+  "page_to": 461
+ },
+ "ar": "الفاء والواو والفاء كلمةٌ واحدة. يقولون: الفُوف: القُطن.\nثم يقال للبياض يُرَى فى أظفار الأحداث: الفُوف. ومن ذلك يقال: بُرْدٌ مفَوَّف.",
+ "az": "«فوف» (fəwf): Fə, vau və fə hərflərindən ibarət tək bir sözdür. Deyirlər ki, «الفُوف» (fuf) — pambıqdır.\nSonra gənclərin dırnaqlarında görünən ağlığa da «الفُوف» (fuf) deyilir. Eləcə də buna görə «بُرْدٌ مفَوَّف» (bürdün müfəwwaf) — zolaqlı (ağ xətləri olan) parçaya deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

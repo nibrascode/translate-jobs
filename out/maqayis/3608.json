@@ -1,0 +1,17 @@
+{
+ "i": 3608,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لين",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 225,
+  "page_to": 225
+ },
+ "ar": "اللام والياء والنون كلمةٌ واحدة، وهي اللِّين: ضدُّ الخُشُونَة.\nويقال: هو في لَيَانٍ من عَيش، أي نَعْمةٍ. وفلانٌ مَلْيَنَة، أي ليِّن الجانب.",
+ "az": "«لين» (لين): اللام والياء والنون كلمة واحدة، وهي اللين: ضد الخشونة (Lam, yə və nun tək bir kəlmədir, o da əl-lin - sərtliyin ziddi olan yumşaqlıqdır). ويقال: هو في ليان من عيش، أي نعمة (Və deyilir: o, yaşayışın ləyanındadır, yəni nemət içindədir). وفلان ملينة، أي لين الجانب (Və filankəs məlinədir, yəni yumşaq təbiətlidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.900Z"
+}

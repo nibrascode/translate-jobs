@@ -1,0 +1,17 @@
+{
+ "i": 3923,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مقد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 342,
+  "page_to": 342
+ },
+ "ar": "الميم والقاف والدال لا نَعرِف فيه شيئاً، إلاّ أنَّ المَقدِّىَّ:\nشرابٌ منسوبٌ إلى قريةٍ بالشَّام، يتَّخَذُ من العَسَل.",
+ "az": "[مقد] \nMim, qaf və dal — burada baldan düzəldilən, Şam torpağındakı bir kəndə nisbət edilən مَقِّدِيّ (əl-maqiddiyy) adlı içkidən başqa heç bir şey bilmirik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

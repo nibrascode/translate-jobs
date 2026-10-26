@@ -1,0 +1,17 @@
+{
+ "i": 4314,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 30,
+  "page_to": 30
+ },
+ "ar": "الهاء والباء والطاء: كلمةٌ تدلُّ على انحدار. وهَبَط هُبوطاً.\nالهَبُوط: الحُدور. وهَبَطتُ أنا وهَبَطْتُ غَيرِى، وهَبَط المرضُ لحمَ العَليل.\nوالهَبِيط: الضَّامر من الإبل.",
+ "az": "[هبط] (hə-bə-tə): Hə, ba və ta: enməyə dəlalət edən kəlmədir. هَبَط هُبوطاً (həbəcə hubutan).\nالهَبُوط (əl-həbut): aşağı enməkdir. هَبَطتُ أنا və هَبَطْتُ غَيرِى (həbatü ana və həbatü ğayri), xəstənin əti (çəkisi) xəstəlikdən azaldı.\nالهَبِيط (əl-həbit): arıqlamış, cılızlaşmış dəvə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

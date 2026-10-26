@@ -1,0 +1,17 @@
+{
+ "i": 3681,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لصب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 249,
+  "page_to": 249
+ },
+ "ar": "اللام والصاد والباء أصلٌ صحيح يدلُّ على ضيقٍ وتضايق.\nفاللِّصْب: مَضِيقُ الوادي. ويقال لَصِبَ الجلدُ باللَّحمِ يَلْصَب، إذا لَزِق به.\nوفلان لَحِزٌ لَصِبٌ: لا يكاد يُعطِي شيئا. ولَصِب الحاتَم في الإصبع: ضِدُّ قَلِقَ.\nويقال إنَّ اللَّوَاصب: الآبار الضيِّقة البعيدة القَمْر. قال كثِّير:\nلواصب قد أصبحت وانطَوَتْ … وقد طَوَّل الحىّ عنها لَبَاثا (٣)",
+ "az": "[لصب] (ləsəb) — lam, sad və ba darlıq və sıxlığa dəlalət edən səhih kökdür.\nO cümlədən: اللَّصْب (əlləsəb) — vadinin dar yeri. Və لَصِبَ الجلدُ باللَّحمِ يَلْصَب (dəri ətə yapışdı, yapışır) — ona yapışdığı zaman deylər.\nVə filankəs لَحِزٌ لَصِبٌ (xəsis, simic) — demək olar ki, heç nə verməz. Və لَصِب الحاتَم في الإصبع (üzük barmağa sıx oturdu) — qəlِقَ (tərpəndi, boş oldu) sözünün ziddidir.\nVə deyirlər ki, اللَّوَاصب (əlləvasib) — dar, dərinliyi çətin ölçülən quyulardır. Kəsir demişdir:\nلواصب قد أصبحت وانطَوَتْ … وقد طَوَّل الحىّ عنها لَبَاثا (٣)\n(Sıx və dərin quyular artıq səhərlədi və büküldü... Qəbilə isə oradan uzaqlaşmağı uzatdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

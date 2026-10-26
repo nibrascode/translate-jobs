@@ -1,0 +1,17 @@
+{
+ "i": 4091,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 408,
+  "page_to": 409
+ },
+ "ar": "النون والدال والراء أصلٌ صحيح يدلُّ على سُقوط شيء أو إسقاطه. ونَدَر الشّيءُ: سقط. قال الهُذَلي (٥):\nوإذا الكُماةُ تَنادَرُوا طعنَ الكُلَى … نَدْرَ البِكَارةِ في الجزاء المُضْعَفِ (١)\nأي أُهدِرت دماؤُهم كما تُنْدَر البِكارة في الدِّية.\nوأنا ألقى فلاناً في النَّدْرة والنَّدَرة (٢)، إذا كنت تلقاه في الأيام، فكأنَّ تلك اللقاءة كانت ندرت، أي سقطتْ. وضَربَه على رأْسه فندَرَتْ عينُه، أي خرجَتْ من موضِعها. وقولهم: الأندريّ، ما نُراه عربيًّا، لكنَّهم يقولون: الأندْرَون:\nالفتيان يجتمعون من مَواضِعَ شتّى. ويُنشِدون قولَ عمرو:\n* ولا تُبقِي خُمورَ الأندرينا (٣) *\nوقال قوم: الأندرِين: قرية. ويقولون: الأندرِيّ: الحَبْل (٤).\nوأنشد:\n* كأنَّه أندريٌّ مسَّهُ بللُ *\nوالأندر: البَيدر، قاله الخليل.",
+ "az": "[ندر] (N-D-R) Nun, dal və ra bir şeyin düşməsinə və ya atılmasına dəlalət edən səhih bir əsasdır. «نَدَر الشّيءُ» (şey nədar oldu) - düşdü. Hüzəli demişdir: * وإذا الكُماةُ تَنادَرُوا طعنَ الكُلَى … نَدْرَ البِكَارةِ في الجزاء المُضْعَفِ (١) * (İgidlər böyrək sancmağı ilə bir-birini vurduqda... ikiqat cəzada bakirəliyin düşməsi kimi). Yəni onların qanları, ikiqat qanbahasında bakirəliyin düşməsi kimi hədər oldu. «أنا ألقى فلاناً في النَّدْرة والنَّدَرة» (Mən filankəslə nadirən görüşürəm), yəni günlərlə görüşdükdə, sanki o görüş nadir olmuş, yəni düşmüşdür. «ضَربَه على رأْسه فندَرَتْ عينُه» (Başından vurdu və gözü nədar oldu), yəni yerindən çıxdı. Onların «الأندريّ» (əl-əndəriyy) demələri, bizcə ərəbcə deyil, lakin deyirlər: «الأندْرَون» (əl-əndərun) - müxtəlif yerlərdən toplanan gənclərdir. Əmr ibn Külsumun sözünü oxuyurlar: * ولا تُبقِي خُمورَ الأندرينا (٣) * (Və əndərin şərablarını saxlamır). Bir qövm dedi: «الأندرِين» (əl-əndərin) - bir kənddir. Deyirlər: «الأندرِيّ» (əl-əndəriyy) - kəndirdir. Oxuyurlar: * كأنَّه أندريٌّ مسَّهُ بللُ * (Sanki o, nəm dəymiş bir kəndirdir). «الأندر» (əl-əndər) - xırmandır, bunu Xəlil demişdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

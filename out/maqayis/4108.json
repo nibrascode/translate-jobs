@@ -1,0 +1,17 @@
+{
+ "i": 4108,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 416,
+  "page_to": 416
+ },
+ "ar": "النون والزاء والقاف كلمةٌ تدلُّ على عَجَلة. من ذلك النَّزَق:\nالخِفّة والعَجَل. ونَزَّقْت الفَرَسَ فنَزِق. ويقولون: أنْزَقَ فلانٌ بالضّحِك.",
+ "az": "[نزق] النون والزاء والقاف (n, z, q) — tələskənliyə dəlalət edən kəlmədir. Bunlardan biri «النَّزَق» (ən-nəzəq) — yüngüllük və tələskənlikdir. «نَزَّقْت الفَرَسَ فنَزِق» (nəzzəqtul-fərasə fə-nəziq) — atı hərəkətləndirdim, o da coşdu, oynadı. Deyirlər: «أنْزَقَ فلانٌ بالضّحِك» (ənzəqə fulanun bid-dihik) — filankəs gülməkdən özünü saxlaya bilməyib səbirsizlik etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

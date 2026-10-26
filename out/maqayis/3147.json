@@ -1,0 +1,17 @@
+{
+ "i": 3147,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "الفاء والطاء والراء أصلٌ صحيحٌ يدلُّ على فَتْح شئ وإبرازِه من ذلك الفِطْرُ من الصَّوم. يقال: أَفْطَرَ إفطاراً. وقومٌ فِطْرٌ (٢) أى مُفْطِرُون.\nومنه الفَطْر، بفتح الفاء، وهو مصدرُ فطَرْتُ الشاةَ فَطراً، إذا حلَبْتَها. ويقولون:\nالفَطْر يكون الحلبَ بإصبَعين. والفِطْرَة: [الخِلْقة (٣)].",
+ "az": "[فطر] (F-T-R) Fə, ta və ra hərfləri bir şeyi açmağa və onu üzə çıxarmağa dəlalət edən doğru bir kökdür. O cümlədən orucun açılması («الفِطْرُ»): «أَفْطَرَ إفطاراً» (orucunu açdı) deyilir. «قومٌ فِطْرٌ» (orucunu açmış bir qövm) yəni oruc tutmayanlar (٢). Fə hərfinin fəthəsi ilə «الفَطْر» (əl-fətr) də bu mənadandır və bu, «فطَرْتُ الشاةَ فَطراً» (qoyunu sağdım) sözünün məsdəridir, yəni onu sağdın. Deyirlər: «الفَطْر» (əl-fətr) iki barmaqla sağmaqdır. «الفِطْرَة» (əl-fitrə): [xilqət, yaradılış (٣)].",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

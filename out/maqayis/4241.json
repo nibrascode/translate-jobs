@@ -1,0 +1,17 @@
+{
+ "i": 4241,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 478,
+  "page_to": 478
+ },
+ "ar": "النون والكاف والعين أصلانِ: أحدهما يدلُّ على لونٍ من الألوان، والآخر على * حَبْسٍ وردّ.\nفالأوّل: الأنكع: الأحمر المتقشِّر الأنف. يقال منه نَكِع. ونَكَعَة الطُّرْثُوت من أعلاه إلى قدر إصبع، عليه قِشره حمراء. وشَفَة (٣) نَكِعة:\nشديدة الحمرة.\nومن الأصل الآخر: نكعَهُ حَقَّه، إذا حَبَسه (٤) عنه. ونكَعه عنه: دَفَعه.\nونكعتُه بالسَّيف وغيره: دفعتُه. ونكَعْتُه عن حاجته رددتُه عنها. ومنه نكعته الشيء مثل نَقَصْتُه، كأنَّك دفعتَه عن إكماله أكلاً وشُرْباً.\nومن الباب النَّكُوع: المرأة القصيرة، والجمع نُكُع، كأنَّها حُبِست عن أن تطول. ورجلٌ هُكعَة نُكعَة: يثبت مكانَه لا يبرح، وهو من الحَبْس أيضاً.",
+ "az": "[نكع] (qırmızı olmaq, saxlamaq) Nun, kaf və eyn iki əsasdır: biri rənglərdən birinə, digəri isə saxlamaq və qaytarmağa dəlalət edir. Birincisi: الأنكع (qabıq verən qırmızı burunlu). Ondan نَكِع (qızardı və qabıq verdi) deyilir. Və نَكَعَة الطُّرْثُوت (türtsut bitkisinin uc hissəsi) yuxarısından bir barmaq miqdarında üzərində qırmızı qabığı olar. Və شَفَةٌ نَكِعَة (qırmızı dodaq): şiddətli qırmızı. Və digər əsərdən: نكعَهُ حَقَّه (haqqını ona saxladı), ondan saxladığı zaman. Və نكَعه عنه (ondan uzaqlaşdırdı): dəf etdi. Və نكعتُه بالسَّيف وغيره (onu qılınc və başqa şeylərlə dəf etdim): onu uzaqlaşdırdım. Və نكَعْتُه عن حاجته (ehtiyacından geri qaytardım) onu ondan geri qaytardım. Və ondan نكعته الشيء (məsələn: əskiltdim) onu əskiltdiyim kimi, sanki yemək və içməkdə onu tamamlamaqdan uzaqlaşdırdın. Və bu fəsildəndir النَّكُوع (qısa boylu qadın), cəmi نُكُع, sanki o, uzanmaqdan saxlanılmışdır. Və kişi هُكعَة نُكعَة (yerində sabit qalan): yerində sabit durar, tərpənməz, bu da saxlamaqdadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

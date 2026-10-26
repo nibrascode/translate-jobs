@@ -1,0 +1,17 @@
+{
+ "i": 2988,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فقس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 444,
+  "page_to": 444
+ },
+ "ar": "الفاء والقاف والسين. يقولون: فَقسَ: مات (٦).",
+ "az": "[فقس]\nFə, qaf və sin. Deyirlər: «فَقسَ» (fəqəsə) — öldü (٦).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

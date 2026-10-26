@@ -1,0 +1,17 @@
+{
+ "i": 4377,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 53,
+  "page_to": 54
+ },
+ "ar": "الهاء والشين والميم أصلٌ يدلُّ على كسْر الشَّئ الأجوفِ وغيرِ الأجوف وهَشمْتُهُ هَشْماً. والهاشِمَة الشَّجَّة تَهْشِمُ عظمَ الرَّأْس. ومُجْمَعٌ على أن هاشماً سمِّى به لأنَّه هَشَمَ الثرِبد، واسمه عَمرو. والهشيم من النَّبات: اليابس المتكسِّر.\nورجلٌ هشِيمٌ: ضعيف البَدَن. وربما قالوا: تهشَّمَ فلانٌ على فلان، أى تعطَّفَ.\nوهو من الباب. واهتَشَمَ ما فى ضَرع النّاقة: احتَلَبَه (١)، وهو القياس.",
+ "az": "«هشم» — الهاء والشين والميم (hə, şin və mim) içi boş olan və ya olmayan bir şeyi sındırmağa dəlalət edən bir kökdür. وهَشمْتُهُ هَشْماً (onu sındırdım). والهاشِمَة (haşimə) — baş sümüyünü sındıran yara. Hamişin Hashim adlandırılması onun sərid (etdiyi əzməli yemək) əzməsi ilə bağlı olması üzərində icma vardır, onun adı Əmrdir. والهشيم (həşim) — bitkinin quru və sınmış hissəsidir. ورجلٌ هشِيمٌ (zəif bədənli adam). Bəzən deyirlər: تهشَّمَ فلانٌ على فلان (filankəs filankəsə qarşı şəfqət göstərdi). Bu da həmin babdandır. واهتَشَمَ ما فى ضَرع النّاقة (dəvənin döşündə nə qədər süd varsa sağdı), bu da qiyasdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

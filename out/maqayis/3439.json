@@ -1,0 +1,17 @@
+{
+ "i": 3439,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كيس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 149,
+  "page_to": 150
+ },
+ "ar": "الكاف والياء والسين أصيلٌ يدلُّ على ضمٍّ وجمع. من ذلك الكِيس، سمِّي لِمَا أنَّه يَضُمُّ الشيء ويجمعُه. ومن بابه الكَيْس في الإنسان:\nخلاف الخُرْق، لأنَّه مجتَمَع الرّأي والعقل. يقال رجلٌ كَيِّس ورجالٌ أَكْيَاس.\nوأكْيَسَ الرّجلُ وأكاسَ، إذا وُلِد له أكياسٌ من الوَلَد. قال:\nفلو كُنْتم لكَيِّسةٍ أَكَاست … وَكَيْسُ الأمِّ أَكْيَسُ للبنينا (١)\nولعلَّ كَيسان فَعلان من أكْيَس. وكانت بنو فَهمٍ تسمِّي الغَدْرَ كيسان. قال:\nإذا ما دَعَوا كيسان كانت كهولُهم … إلى الغدر أدنى من شَبابهم المُرْدِ (٢)",
+ "az": "[كيس] (Kaf, ya və sin) — bir şeyin qapanmasına və toplanmasına dəlalət edən təməl bir kökdür. Bunlardan biri الكِيس (əl-kis) — torbadır, ona görə belə adlandırılmışdır ki, o, bir şeyi içinə alır və toplayır. Bu babdandır insandakı الكَيْس (əl-keys) — ağılsızlığın və səfehliyin (الخُرْق) əksidir, çünki o, rəy və ağıl topluluğudur. Deyilir: كَيِّس (kayyis) kişi və أَكْيَاس (əkyas) kişilər. Kişi أَكْيَسَ (əkyəsə) və أكَاسَ (əkase) etdi — o zaman ki, onun ağıllı övladları dünyaya gəldi. [Şeir] فلو كُنْتم لكَيِّسةٍ أَكَاست … وَكَيْسُ الأمِّ أَكْيَسُ للبنينا (١) (mənası: Əgər siz ağıllı bir qadının övladları olsaydınız... Ananın zəkası oğullar üçün daha ağıllı olar). Bəlkə də كيسان (Keysan) — أَكْيَس (əkyəs) sözündən fəlan vəznindədir. Fəhm qəbiləsi xəyanəti Keysan adlandırardı. [Şeir] إذا ما دَعَوا كيسان كانت كهولُهم … إلى الغدر أدنى من شَبابهم المُرْدِ (٢) (mənası: Onlar Keysana çağırdıqları zaman onların ahılları... xəyanətə öz yeniyetmə cavanlarından daha yaxın olardı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

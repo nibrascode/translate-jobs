@@ -1,0 +1,17 @@
+{
+ "i": 4678,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 152,
+  "page_to": 152
+ },
+ "ar": "الياء والراء. يقولون: الحجر الأَبَرُّ: الصُّلْب. والمصدر اليَرَر.\nويقولون: حارٌّ يارٌّ، إتباع.",
+ "az": "[ير] Ya və Ra. Deyirlər: الْحَجَرُ الْأَبَرُّ (əl-həcərul-əbərr): sərt daş. Məsdəri isə الْيَرَرُ (əl-yərər) kimidir. Həmçinin deyirlər: حَارٌّ يَارٌّ (isti, qızmar) — təkiid üçündür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.329Z"
+}

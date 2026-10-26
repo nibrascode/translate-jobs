@@ -1,0 +1,17 @@
+{
+ "i": 4569,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وضع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 117,
+  "page_to": 118
+ },
+ "ar": "الواو والضاد والعين: أصلٌ واحد يدلُّ على الخَفْض [للشئ] وحَطِّه. وَوَضَعتُه بالأرض وضعاً، ووضَعت المرأة ولدَها. [و] وُضِع فى تِجَارته يُوضَع: خَسِر. والوضائع: قومٌ ينقَلون من أرضٍ إلى أرضٍ يسكنون بها.\nالوَضيع: الرّجُل الدنِىّ. والدّابّةُ تَضَع فى سَيْرِها وَضْعاً، وهو سَيْرٌ سهلٌ يخالف المرفوع. قال:\nمَرفوعها زَوْلٌ ومَوضوعُها … كَمِّر صَوْبٍ لجِبٍ وَسْطَ رِيحْ (١)\nيقال! منه: إنَّها لَحَسَنَة الموضوع. وقد أوْضَعَها راكِبُها. ووَضَعَ (٢) الرّجلُ:\nسار ذلك السّير. وذُكِرَ أنَّ [الواضِعات (٣)]: الإبل تأكل الخلّة. وأنشَدُوا:\nرأى صاحِبِى فى الواضعات نجيبةً … وأمثالهَا فى الغادياتِ القوامِسِ (٤)\nوالرجل المُوَضَّع: الذى ليس بمستحكمِ الأمر.",
+ "az": "[وضع] (Vəzə': vav, dad və ayn): bir şeyi alçaltmağa və yerə qoymağa dəlalət edən tək təməl kökdür. وَوَضَعتُه بالأرض وضعاً (vəzə'tuhu bil-ərzi vəz'ən), qadın övladını dünyaya gətirdi. تجارتində خسرona وُضِع فى تِجَارته يُوضَع (vuzi'ə fi ticaratihi yuva'u) deyilir. الوضائع (əl-vədai'): bir yerdən başqa yerə köçüb orada məskunlaşan tayfalar. الوضيع (əl-vədi'): alçaq insan. Minik heyvanı gedişində vəz' edir, bu da uca gedişdən fərqli olan asan bir gedişdir. Şair demişdir: مَرفوعها زَوْلٌ ومَوضوعُها … كَمِّر صَوْبٍ لجِبٍ وَسْطَ رِيحْ (١) (Onun uca gedişi cəld, vəz' gedişi isə … küləyin ortasında gurultulu bol yağış buludunun yağması kimidir). Ondan deyilir: إِنَّها لَحَسَنَة الموضوع (inنəhə ləhəsnətul-məvzu'). Onun minicisi onu sürətləndirmişdir (أَوْضَعَها — övşəhəha). Vəzə' (وَضَعَ) kişi — həmin gedişlə yeridi. Qeyd olunmuşdur ki, الواضِعات (əl-vəziqat) — xallə (çöl bitkisi) yeyən dəvələrdir. Və şeir söyləmişlər: رأى صاحِبِى فى الواضعات نجيبةً … وأمثالهَا فى الغادياتِ القوامِسِ (٤) (Dostum vəziqat [dəvələr] içində nəcabətli bir dəvə gördü … və onların bənzərlərini səhər erkən gedən, suya dalan dəvlər içində də gördü). Və Müvəssə (المُوَضَّع) kişi — işində möhkəm olmayan kəsdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

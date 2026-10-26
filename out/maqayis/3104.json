@@ -1,0 +1,17 @@
+{
+ "i": 3104,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فرغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 493,
+  "page_to": 493
+ },
+ "ar": "الفاء والراء والغين أصلٌ صحيح يدلُّ على خُلوٍّ [وَسَعَةِ] ذَرْع. من ذلك الفَرَاغ: خِلاف الشُّغل. يقال: فَرَغ فَراغاً وفُروغاً، وفرِغَ أيضاً. ومن الباب الفَرْغ: مَفْرَغ الدَّلْو الذى ينصبُّ منه الماء. وأفرَغْتُ الماءَ:\nصببتُه. وافترغْتُ، إذا صببتَ الماءَ على نفسك. وذهب دَمُه فَرْغاً، أى باطلا لم يُطلَبْ به. وفَرسٌ فَرِيغٌ (١)، أى واسع المَشْى، وسمِّى بذلك لأنَّه كأنَّه خالٍ من كلِّ شئ فخَفَّ عَدْوُه ومَشْيُه. وضَربةٌ فريغٌ: واسِعَة، وطعنةٌ أيضاً. وحَلْقةٌ مُفْرَغَة، لأنَّه شئٌ يصبُّ ضَبًّا. وطريق فريغ: واسع. قال:\nفأجَزْتَه بأَفَلَّ تَحسِب إثْرَه … نَهْجاً أبَانَ بذى فَريغٍ مَخْرَفِ (٢)\nفأمَّا قولُه تعالى: ﴿سَنَفْرُغُ لَكُمْ أَيُّهَ اَلثَّقَلانِ﴾، فهو مجازٌ، واللّه تعالى لا يَشغَلُه شأنٌ عن شأن. قال أهل التّفسير: سنفرغ، أى نَعْمِد، يقال: فَرَغت إلى أمر كذا (٣)، أى عَمَدْتُ له.",
+ "az": "[فرغ] (fə-ra-ğ): Fə, ra və ğayn hərflərindən ibarət olub boşluğa və sinənin genişliyinə dəlalət edən səhih bir kökdür. Bunlardan biri «الفَرَاغ» (əl-fərağ) — məşğuliyyətin ziddi olan boş vaxtdır. «فَرَغ فَراغاً وفُروغاً» (fərəğa fərağan və furuğan), həmçinin «فرِغَ» (fərigə) deyilir. Bu fəsildəndir: «الفَرْغ» (əl-fərc) — suyun axdığı dəvənin su qabının ağzı. «أفرَغْتُ الماءَ» (əfrəgtü-l-maə) — suyu tökdüm. «افترغْتُ» (iftərağtü) — suyu öz üzərinə tökdüyün zaman. «ذهب دَمُه فَرْغاً» (ðəhəbə dəmü-hü fərcan) — yəni onun qanı heçə getdi, qisası alınmadı. «فَرسٌ فَرِيغٌ» (fərasün fərigün) — gedişi geniş olan at, bu ad ona verilmişdir çünki o, hər şeydən xali (boş) kimi idi, qaçışı və yerişi yüngülləşmişdi. «ضَربةٌ فريغٌ» (darbətün fərigün) — geniş zərbə, həmçinin nizə yarası da belədir. «حَلْقةٌ مُفْرَغَة» (həlqatün müfrəğətün) — çünki o, qəlibə tökülərək düzəldilmiş bir şeydir. «طريق فريغ» (tariqun fərigün) — geniş yol. Şair demişdir: فَأجَزْتَه بأَفَلَّ تَحسِب إثْرَه … نَهْجاً أبَانَ بذى فَريغٍ مَخْرَفِ (٢) (Sən onu iti ucu sınmış qılıncla keçdin, elə zənn edirsən ki, onun arxasınca geniş məkanlı, rahat bir yol açılıb). Uca Allahın ﴿سَنَفْرُغُ لَكُمْ أَيُّهَ اَلثَّقَلانِ﴾ (mənaca tərcümə: ey hər iki cins – insan və cinlər, tezliklə sizin hesabınıza baxacağıq [işinizlə məşğul olacağıq]) ayəsinə gəldikdə, bu məcazdır, Uca Allahı heç bir iş digər işdən yayşındırmır. Təfsir əhli demişdir: «سنفرغ» (sənəfruğu) — yəni qəsd edəcəyik, deyilir: «فَرَغت إلى أمر كذا» (fərəğtü ilə əmri kəða) — yəni filan işi qəsd etdim, yönəldim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:27:07.355Z"
+}

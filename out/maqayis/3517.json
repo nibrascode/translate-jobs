@@ -1,0 +1,17 @@
+{
+ "i": 3517,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كشف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 181,
+  "page_to": 182
+ },
+ "ar": "الكاف والشين والفاء أصلٌ صحيح يدلُّ على سَرْوِ الشَّيء عن الشَّيء، كالثَّوب يُسْرَى عن البدن. ويقال كَشَفْتُ الثوب وغيرَه أكْشِفه.\nوالكَشَف: دائرةٌ في قُصَاص النّاصية، كأنَّ بعضَ ذلك الشَّعْر ينكشف عن مَغْرِزِهِ (٣) وَمَنْبِته. وذلك يكون في الخيل التواءً يكون في عَسيب الذَّنب. والأكشف:\nالرجل الذي لا تُرْسَ معه في الحرب. ويقال: تكشَّفَ البرقُ، إذا ملَأ * السَّماء. والمعنى صحيحٌ، لأنَّ المتكشِّف بارز. والكِشَاف: نِتاج في [إثر] (١) نتاج. [قال ابن دريد:\nالكِشاف (٢)]: أن تبقى الأنثى سنتين أو ثلاثاً لا يُحمَل عليها. قال الشاعر (٣):",
+ "az": "[كشف] (kə-şə-fə). Kaf, şin və fa hərfləri bir şeyin üzərindən başqa bir şeyi çəkib açmağa dəlalət edən səhih bir əsldir, bədənin üzərindən paltarın sıyrılıb açılması kimi. Deyilir: «كَشَفْتُ الثوب وغيرَه أكْشِفه» (Paltarı və başqa şeyi açdım, açıram). «الكشَف» (keçəllik/açıqlıq): alın saçının bitdiyi yerdə dairə, elə bil həmin saçın bir qismi onun kökündən və bitdiyi yerdən açılır. Bu, atların quyruq kökündəki burulğanda da olur. «الأكشف» (qalxanı olmayan): müharibədə yanında qalxanı olmayan kişi. Deyilir: «تكشَّفَ البرقُ» (Şimşək çaxıb ətrafa yayıldı), yəni göyü doldurdu. Mənası səhihdir, çünki üzə çıxan (açılan) şey aşkar olandır. «الكِشاف» (ardıcıl törəmə): [ardınca] (¹) gələn nəsil. [İbn Dürid demişdir: الكِشاف (²)] dişi heyvanın iki-üç il boğazlanmaması, üzərinə erkək buraxılmamasıdır. Şair demişdir (³):",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

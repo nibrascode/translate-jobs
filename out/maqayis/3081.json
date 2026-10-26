@@ -1,0 +1,17 @@
+{
+ "i": 3081,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فخل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 481,
+  "page_to": 481
+ },
+ "ar": "الفاء والخاء واللام ليس فيه شئٌ. غير أنَّ ابنَ دريد (١) زعم أنَّه يقال: تفخّل الرجل، إذا أظهَرَ الوقار والحِلْمَ. وتفخَّل أيضاً، إذا تهيَّأ ولَبِسَ أحسنَ ثيابِه.",
+ "az": "«فخل» (fə-x-l): Fə, xə və lam hərflərində heç bir şey yoxdur. Lakin İbn Dürid (١) iddia etmişdir ki, «تفخّل الرجل» (təfəxxələr-rəcul) - kişi təmkin və həlimlik izhar etdi deməkdir. Həmçinin «تفخَّل» (təfəxxələ) - hazırlaşdı və ən gözəl paltarlarını geyindi mənasında da işlənir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.849Z"
+}

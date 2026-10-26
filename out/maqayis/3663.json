@@ -1,0 +1,17 @@
+{
+ "i": 3663,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لذع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "اللام والذال والعين يدلُّ على أصلٍ واحد، وهو الإحراق والحرارة. من ذلك اللَّذْع: لَذْع النّار، وهو إحراقها الشَّي ويستعار ذلك فيقال:\nلذَعْتُه بلسانِي، إذا آذيتَه أذًى يسيراً. ومنه قولهم جاء فلانٌ يتلذَّع، أي يتلفَّت يميناً وشِمالا، كأنَّ شيئاً يُقلِقُه ويُحرِقه.\nومن الباب اللوذَعِىُّ: الظَّريف، أي كأنَّه من حركته وكَيْسِه يُلْذَع والتَذَعت القَرْحة: فاحت (١)، لأنّها تَلتذِع وتلذَعُ صاحبَها.",
+ "az": "[لذع] (Ləzəə) — Lam, ذ (zəl) və eyn tək bir əsərə, yəni yanmağa və hərarətə dəlalət edir. Bunlardan biri اللَّذْع (əl-ləzə) — odun yandırması və qızdırmasıdır. Bu, məcazi olaraq da işlənilir: «لذَعْتُه بلسانِي» (ləzətuhu bilisəni) — ona yüngül bir əziyyət verdiyin zaman deyilir. Onların «جاء فلانٌ يتلذَّع» (cəə fulanun yətəlləzəu) sözü də bundandır, yəni sağa-sola baxaraq gəldi, sanki bir şey onu narahat edir və yandırır.\nBu fəsildəndir: اللوذَعِىُّ (əl-ləuzəiyyu) — zarafatcıl, ağıllı və zirək; sanki hərəkəti və zəkası ilə o yandırılır. وَالْتَذَعت القَرْحة (vəltəzətil-qarhə) — yara qoxudu (١), çünki o, yanır və sahibini yandırır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

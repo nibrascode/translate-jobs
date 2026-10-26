@@ -1,0 +1,17 @@
+{
+ "i": 3544,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 200,
+  "page_to": 200
+ },
+ "ar": "اللام والتاء كلمةٌ واحدة. يقال. لتَّ السّويقَ بالسَّمْن يلُتّه لَتًّا، والفاعل لاتٌّ. وذُكر عن ابن الأعرابيّ: لُتَّ فلانٌ بفلانٍ، إذا قُرِن به.\nفإن صح فهو من باب الإبدال، كأنّ التاء مبدَلة من زاء.",
+ "az": "«لت»\nاللام والتاء كلمةٌ واحدة. يقال. لتَّ السّويقَ بالسَّمْن يلُتّه لَتًّا، والفاعل لاتٌّ. وذُكر عن ابن الأعرابيّ: لُتَّ فلانٌ بفلانٍ، إذا قُرِن به.\nفإن صح فهو من باب الإبدال، كأنّ التاء مبدَلة من زاء.\nLam və ta tək bir kəlmədir. Belə deyilir: لَتَّ السّويقَ بالسَّمْن يلُتّه لَتًّا (o, səviqi (qovut məmulatını) yağla qarışdırıb yoğurdu), faili isə لَاتٌّ (latt) kəlməsidir. İbn əl-Ərabidən rəvayət olunmuşdur: لُتَّ فلانٌ بفلانٍ (filankəs filankəs ilə birləşdirildi/qarışdırıldı), əgər bu qoşulubsa. Əgər bu səhihdirsə, o, əvəzetmə (ibdal) babındandır, sanki ta hərfi za hərfini əvəz etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:21.969Z"
+}

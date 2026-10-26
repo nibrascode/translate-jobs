@@ -1,0 +1,17 @@
+{
+ "i": 3338,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قطب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 105,
+  "page_to": 105
+ },
+ "ar": "القاف والطاء والباء أصلٌ صحيح يدلُّ على الجمع. يقال:\nجاءت العربُ قاطبةً، إذا جاءت بأجمعِها. ويقال قطَبْتُ الكأسَ أقطِبُها قطباً، إذا مزجتَها. والقِطَاب: المِزاج. ومنه قولهم: قَطَب الرّجُلُ ما بين عينَيه.\nوالقَطِيبة: ألوان الإبل والغنم يُخلَطان.\nومن الباب القُطب: قُطب الرَّحَى؛ لأنَّه يجمع أمرَها إذْ كان دَوْرُه عليها.\nومنه قُطْبُ السَّماء، ويقال إنَّه نجمٌ يدور عليه الفَلَك. ويستعار هذا فيقال: فلانٌ قطبُ بني فلانٍ، أي سيِّدُهم الذي يلوذون به.\nومما شذَّ عن هذا الباب القُطْبة: نَصْلٌ صغير تُرمَى به الأغراض. فأمَّا قولُهم:\nقَطَبت الشَّيءَ، إذا قطعتَه، فليس من هذا، إنَّما هو من باب الإبدال، والأصل الضّادُ قضبت، وقد فسّرناه.",
+ "az": "[قطب] (qət-əb): Qaf, ta və ba hərfləri tək, səhih bir kök olub, toplamaq mənasını bildirir. Deyilir: «جاءت العرب قاطبة» (Ərəblər hamısı birlikdə gəldi), yəni hamısı bir yerə gəldi. Deyilir: «قطبت الكأس أقطبها قطبا» (Mən qədəhə su qataraq qarışdırdım). «القطاب» (əl-qitab): qarışıq. Buradandır onların ifadəsi: «قطب الرجل ما بين عينيه» (Kişi qaşlarını qısqıdı). «القطيبة» (əl-quteybə): dəvə və qoyunların müxtəlif rənglərinin bir-birinə qarışdırılması. Bu fəsildəndir: «القُطب» (əl-qutb): dəyirman daşının oxu; çünki onun hərəkəti onun ətrafında fırlandığı üçün dəyirmanın işini bir yerə yığır. Həmçinin «قُطْبُ السَّماء» (səmanın qütbü) də bundandır, deyilir ki, bu, fələyin ətrafında fırlandığı ulduzdur. Bu söz məcazi olaraq işlədilir: «فلان قطب بني فلان» (Fulan filankəslərin qütbüdür), yəni onların sığınacağı olan başçısıdır. Bu fəsildən kənara çıxan (şaz) sözlərdən biri də «القُطْبة» (əl-qutbə): hədəflərə atılan kiçik ox ucluğudur. Amma onların «قطبت الشيء، إذا قطعته» (Mən şeyi kəsdim, yəni onu kəsdim) demələrinə gəldikdə, bu, bu fəsildən deyil, əksinə, hərf əvəzlənməsi (ibdal) باب-ındandır, əsli isə «قضبت» (qadabtu) şəklindədir və biz bunu izah etmişik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:04.684Z"
+}

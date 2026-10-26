@@ -1,0 +1,17 @@
+{
+ "i": 3782,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مأق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 291,
+  "page_to": 291
+ },
+ "ar": "الميم والهمزة والقاف أصلٌ يدلُّ على صِفةٍ تعتري بعد البُكاء، [و] على أنَفَة.\nفالأوّل المَأق: ما يعتري الإنسانَ بعد البكاء. تقول: مَئق يَمْأَقُ، فهو مَئِقٌ. ويقال إنّ المَأْقة: شِدّة البُكاء.\nوالآخَر قولهم: أمْأَقَ: إذا دَخَل في المَأْقة، وهي الأنَفة. و\nفي الحديث: «ما لم تُضْمرُوا الإمَاق (٢)». أي لم تُضمِروا أنفةً مما يلزمكم من صَدَقةٍ.",
+ "az": "[مأق] (mim, həmzə və qaf) — ağladıqdan sonra insanda baş verən hala [və] qürura (təkəbbürə/qeyrətə) dəlalət edən əsasdır. Birincisi المَأق (əl-ma-q): ağladıqdan sonra insanda yaranan haldır. Deyirsən: مَئِق يَمْأَقُ، فهو مَئِقٌ (ma-iqa yam-aqu, fəhuva ma-iqu). Həmçinin deyilir ki, المَأْقَة (əl-maqə): şiddətli ağlamaqdır. Digəri isə onların أمْأَقَ (əm-aqa) sözüdür: məqə (qürura/təbii qeyrətə) girmək deməkdir. Hədisdə demişdir: «ما لم تُضْمرُوا الإمَاقَ (٢)» (Hələ ki, boynunuza düşən sədəqədən ötəri içinizdə bir təkəbbür və ya qürur gizlətməmisiniz).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3402,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 137,
+  "page_to": 138
+ },
+ "ar": "الكاف والميم والحاء كلماتٌ لا تنقاس، وفي بعضها شكّ، غير أنَّا ذكرنا ما ذكروه. قالوا: أكْمَحَ الكَرْمُ، إذا تحرّك للإِيراق. وقالوا:\nرجلٌ كَوْمَح: عظيم الأليَتَين. ويقولون: كَمَح الفرسَ، إذا كبَحَه.",
+ "az": "[كمح] Kaf, mim və ha qiyas olunmayan (qaydaya tabe olmayan) sözlərdir, bəzilərində şübhə də var, lakin onların qeyd etdiklərini biz də qeyd etdik. Dedilər: «أَكْمَحَ الكَرْمُ» (tənək yarpaqlamağa başladı). Dedilər: «رجلٌ كَوْمَح» (kəvmah kişi - sağrıları böyük olan). Həmçinin deyirlər: «كَمَحَ الفرسَ» (atı cilovladı, onu dayandırdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

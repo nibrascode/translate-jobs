@@ -1,0 +1,17 @@
+{
+ "i": 4255,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 5,
+  "page_to": 6
+ },
+ "ar": "الهاء والتاء يدلُّ على حكايةِ صوت، ليست فيه لغةٌ أصليّة.\nيقال: هَتَّ البَكْرُ فى صوته: عَصَر صوته (٣). وهَتَتُّ الكلمة. والهَتِيت:\nمتابَعَةٌ ومداركة. يقال: هَتَّ هَتَّا وهتيتاً. ويقولون: رجلٌ مِهَتٌّ: خفيف فى العَمَل. والهَتْهَتةُ: التواءُ الكلام. والهَتُّ: تمزيقُ الثَّوْب. والهَتُّ: الكَسْر.\nويقولون: سَمِعتُ هَتَّ قوائمِ البعير عند وقعها بالأرض. والأصل فى ذلك كلِّه واحد، ولولا أنَّ العلماء ذكروه لما رأيتُ لذكرِهِ وجهاً.",
+ "az": "«هت» (الهاء والتاء): hə və ta hərfləri səsin təqlidinə (hikayətinə) dəlalət edir, onda əsl (orijinal) dilçilik kökü yoxdur.\nDeyilir: هَتَّ البَكْرُ فى صوته (həttəl-bəkru fi sovtihi) – cavan dəvə səsləndi, səsinin surətini sıxdı (3). Və هَتَتُّ الكلمة (hətəttül-kilmətə). Və الهَتِيت (əl-hətit): ardıcıl olmaq və yetişmək. Deyilir: هَتَّ هَتَّا وهتيتاً (həttə həttən və hətiitən). Və deyirlər: رجلٌ مِهَتٌّ (raculun mihattun) – işdə yüngül/çevik kişi. Və الهَتْهَتة (əl-həthətə): sözün dolaşıq olması. Və الهَتّ (əl-hətt): paltarı cırmaq. Və الهَتّ (əl-hətt): sındırmaq, qırmaq. \nVə deyirlər: سَمِعتُ هَتَّ قوائمِ البعير عند وقعها بالأرض (səmi-tu həttə qəvəimil-bəiri ində vəqiihə bil-ərd) – dəvənin ayaqları yerə dəyərkən çıxardığı səsini eşitdim. Bunların hamısında əsl birdir, əgər alimlər bunu qeyd etməsəydilər, mən bunu qeyd etməkdə heç bir məna görməzdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:59.927Z"
+}

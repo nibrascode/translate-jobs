@@ -1,0 +1,17 @@
+{
+ "i": 3768,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "موه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 286,
+  "page_to": 287
+ },
+ "ar": "الميم والواو والهاء أصلٌ صحيح واحد، ومنه يتفرّع كَلِمُه، وهي المَوَه أصل بناء الماء، وتصغيرهُ مُوَيْه، قالوا: وهذا دليلٌ على أنّ الهمزة في الماء بدل من هاء. ويقال: مَوَّهْتُ الشّيءَ، كأنّك سقيته الماء. ومَوَّهت الشّيءَ:\nطَلَيْتُه بفِضَّةٍ أو ذهب، كأنَّهم يجعلون ذلك بمنزلةِ ما يُسقَاه. وقالوا: ما أحسَنَ مُوهَةَ وجهِه، أي تَرقرُقَ ماءِ الشَّباب فيه.\nومن الباب الماوِيّة: حجر البِلَّور، وكذلك الماوية: [المِرآة]. قال طرَفة:\nوعينانِ كالماويَّتينِ استكنَّتا … بكهفَىْ حَجاجَيْ صخرةٍ قَلْتِ مَوْرِدِ (٣)\nيقال مَاهت السّفينةُ تَمُوه وتَمَاه. دَخَل فيها الماء. وأماهَتِ الأرضُ: ظهَرَ فيها نَزٌّ. وأمَاهَ الفحلُ: ألقَى ماءَه في رَحِم الأُنْثى. ورجلٌ ماهُ القَلب (١)، أي كثير ماءِ القلب. قال الراجز:\n* إنّك يا جَهضَمُ ماهُ القَلْبِ (٢) *\nقالوا: ويكون صاحب ذلك بليداً، أُخرِج ماهٌ مُخْرَج مال. وأمَهتُ السِّكّين وأمْهَيْتُه: سقيته. ويقال في النسبة إلى ماه ماهِيٌّ ومائيٌّ، وإلى ماءٍ مائيٌّ * وماوِيٌّ.",
+ "az": "[موه] (M-v-h): Mim, vau və hə tək bir səhih əsasdır ki, sözlər ondan şaxələnir. المَوَه (əl-məvəh) su binasının əslidir, kiçildilmiş forması مُوَيْه (muveyh) gəlir. Dedilər ki: Bu, sudakı həmzənin hə hərfini əvəz etdiyinə dəlildir. Deyilir: مَوَّهْتُ الشّيءَ (məvvəhtüş-şəy-ə) — elə bil onu su ilə suvardın. Və مَوَّهت الشّيءَ: onu gümüş və ya qızıl ilə üzlədin, elə bil onu suvarılan şeyin dərəcəsində edirlər. Dedilər: ما أحسَنَ مُوهَةَ وجهِه (mə əhsənə muhətə vəçihi) — yəni onun üzünün gənclik suyum-suyum axmasının gözəlliyini bax!..\nVə bu qapıdandır: الماوِيّة (əl-maviyyə) — büllur daş, eynilə الماوية (əl-maviyyə) — [güzgü] də belədir. Tərfə demişdir:\nوعينانِ كالماويَّتينِ استكنَّتا … بكهفَىْ حَجاجَيْ صخرةٍ قَلْتِ مَوْرِدِ (٣)\nDeyilir: مَاهت السّفينةُ تَمُوه وتَمَاه (mahətis-səfinətu təmuhu və təmah) — gəmiyə su girdi. Və أماهَتِ الأرضُ (əməhətil-ard): yerdə rütubət (nəmlik) zahir oldu. Və أماهَ الفحلُ (əməhəl-fəhl): erkək heyvan öz suyunu dişi rəhminə tökdü. Və رجلٌ ماهُ القَلب (raculun mahul-qalb) — yəni qəlbinin suyu çox olan kişi (١). Raciz demişdir:\n* إنّك يا جَهضَمُ ماهُ القَلْبِ (٢) *\nDedilər: Bunun sahibi kütbeyin olur, ماه (mah) sözü مال (mal) sözünün çıxış yerinə uyğun olaraq çıxarılmışdır. Və أماهتُ السِّكّين وأمْهَيْتُه (əməhtüs-səkkين və əmhəytuh): onu suvardım. Və ماه (mah) sözünə nisbət verilərkən ماهِيٌّ və مائيٌّ (mahiyy və maiyy), وماء (ma) sözünə isə مائيٌّ və * ماوِيٌّ (maiyy və maviyy) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

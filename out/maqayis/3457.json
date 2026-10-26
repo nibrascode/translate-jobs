@@ -1,0 +1,17 @@
+{
+ "i": 3457,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كبش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 154,
+  "page_to": 154
+ },
+ "ar": "الكاف والباء والشين كلمةٌ واحدة، وهي الكَبْش، وهو معروف. وكبْشُ الكتيبةِ: عظيمُها ورئيسُها. قال:\nثمَّ ما هابُوا ولكن قدّموا … كبشَ غاراتٍ إذا لاقى نَطَح (٢)",
+ "az": "[كبش] (Kaf, ba və şin) — tək bir kəlmədir, o da الكَبْش (əl-kebş) — qoçdur, məlumdur. كبْشُ الكتيبة (kebşu əl-katibə) — qoşunun başçısı, böyüyüdür. [Şeir] ثمَّ ما هابُوا ولكن قدّموا … كبشَ غاراتٍ إذا لاقى نَطَح (٢) (mənası: Sonra qorxmadılar, əksinə, irəli çəkdilər... basqınlar qoçunu, qarşılaşanda vuruşan başçını).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

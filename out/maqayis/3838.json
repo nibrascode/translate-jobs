@@ -1,0 +1,17 @@
+{
+ "i": 3838,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 310,
+  "page_to": 311
+ },
+ "ar": "الميم والراء والسين أصلٌ صحيح يدلُّ على مُضامَّةِ شيءٍ لشيءٍ بشِدّةٍ وقُوّة.\nمنه المَرَس: الحَبْل، سمِّيَ لتمرُّسِ قُواهُ بعضِها ببعض، والجمع أَمْراس ومَرِسَ الحبلُ يَمرَسُ مَرَسًا: وقع بين الخُطّاف والبَكْرة، فأنت تُعالِجُه أن تُخرِجَه.\nورجلٌ مَرِسٌ: ذو جَلَد. وفحل مَرّاسٌ: ذو مِرَاسٍ شديد. يقال: امتَرَستِ الألسُنُ\nفي الخصومات: أخَذَ بعضها بعضا. ومنه الامتراس: اللُّزوق بالشَّيءِ وملازمتُه.\nقال:\nفَنكِرْنَه فنَفَرن وامتَرَستْ به … هَوْجاءُ هادِيةٌ وهادٍ جُرْشُعُ (١)\nومنه تمرَّسَ فلانٌ بالشَّيء: احتَكَّ به (٢). والمَرْمريس: الدَّاهية.",
+ "az": "«مرس» (mim, ra və sin) — bir şeyin digərinə şiddət və qüvvə ilə sıx birləşməsinə dəlalət edən səhih kökdür. Bunlardan biri المَرَس (maras) — ipdir, qüvvətlərinin bir-birinə sarılması səbəbindən belə adlandırılmışdır, cəmi أَمْراس (ərmas) gəlir. İp çarxqulu ilə diyircək arasında sıxışdıqda مَرِسَ الحبلُ يَمرَسُ مَرَسًا olur və sən onu çıxarmağa çalışırsan. Kişi مَرِسٌ (maris) — dözümlü olar. İigid erkək dəvə مَرّاسٌ (mərras) — güclü gücə sahib olar. Deyilir: امتَرَستِ الألسُنُ في الخصومات (mübahisələrdə dillər bir-birinə qarışdı, mübarizə apardı). Bunlardan biri də الامتراس (imtiras) — bir şeyə yapışmaq və onu tərk etməməkdir. Şair demişdir: «Onu tanımadılar, qaçdılar və ona sərt, qabaqcıl və uca bir külək sarıldı» (٢). Həmçinin تمرَّسَ فلانٌ بالشَّيءِ (filankəs şeylə məşğul oldu, toxundu) (٢). والمَرْمريس (marməris) — böyük bəla, fəlakət.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

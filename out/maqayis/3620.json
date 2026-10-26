@@ -1,0 +1,17 @@
+{
+ "i": 3620,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لبط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 230,
+  "page_to": 230
+ },
+ "ar": "اللام والباء والطاء أُصَيلٌ صحيح يدلُّ على سُقوط وصَرْع.\nيقال: لُبِط به، إذا صُرِع. ولَبَطَة: اسمُ رجل من هذا. والتَبَطَ الفرسُ، إذا جَمَع قوائمه. والتَبَط الرّجلُ في أمره وتلبَّط، إذا تحيَّر. قال:\nذو مَناديحَ وذو مُلتَبَطٍ … ورِكابي حيثُ وَجَّهتُ ذُلُلْ",
+ "az": "«لبط» (Lam, ba və ta) yıxılmağa və yerə vurulmağa dəlalət edən kiçik və səhih bir əsldir. Deyilir: لُبِط به (lubitə bih) — yıxıldıqda (düşdükdə) deyilir. Və لَبَطَة (Ləbətə): bu kökdən olan bir kişinin adıdır. Və التَبَطَ الفرسُ (əltəbətəl-fərs) — at ayaqlarını bir yerə topladıqda. Və التَبَطَ الرّجلُ في أمره وتلبَّط (əltəbətər-raculu fi əmrihi və təlləbət) — kişi işində heyrətə düşdükdə. (Şair) demişdir: «Genişlikləri və qarışıq yolu olan, dəvələrim isə hara yönəltsəm baş əyənlərdir».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

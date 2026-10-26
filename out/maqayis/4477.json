@@ -1,0 +1,17 @@
+{
+ "i": 4477,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 87,
+  "page_to": 87
+ },
+ "ar": "الواو والجيم * والراء كلمةٌ تدلُّ على جنسٍ من السَّقْى. ووَجَرْت الصَّبىَّ الدَّواءَ وأوجرتُه. ويستعيرونه فيقولون، أوْجَرْتُه الرُّمحَ، إذا طعنتَه فى صَدرِه:\nوالوِجار، سَرَبُ الضَّبُع، لأنَّها تَغِيب فيه كما يغيب المشروب فى الحَلْق.",
+ "az": "[وجر] الواو والجيم والراء (və, cim və ra) — cins bir suvarma növünə dəlalət edən sözdür. وَجَرْتُ الصَّبِيَّ الدَّوَاءَ (uşağa dərmanı boğazından tökdüm) və أَوْجَرْتُهُ (ona içirtdim). Bunu məcazi mənada da işlədirlər və deyirlər: أَوْجَرْتُهُ الرُّمْحَ (ona sünцəni sinəsindən vurdum) – onu sinəsindən nizə ilə vurduğun zaman. وَالْوِجَارُ (vixar) — çöl donuzunun və ya kaftarın yuvası, çünki içində içki boğazda yoxa çıxdığı kimi o da orada gizlənir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

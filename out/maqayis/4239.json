@@ -1,0 +1,17 @@
+{
+ "i": 4239,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "النون والكاف والصاد كلمةٌ. يقال: نكَصَ في عقِبَيه، إذا أحجَمَ عن الشَّيء خوفاً وجُبنا. قال ابن دريد (٢): ﴿نَكَصَ عَلى عَقِبَيْهِ﴾: رجَع عمَّا كان عليه من خَير، لا يقال ذلك إلاّ في الرُّجوع عن الخَير",
+ "az": "[نكص] (geri çəkilmək) Nun, kaf və sad kəlmədir. Deyilir: نكَصَ في عقِبَيه (dabanı üzrə geri çəkildi), qorxudan və qorxaqlıqdan bir işdən əl çəkdikdə. İbn Dürid demişdir (٢): نَكَصَ عَلى عَقِبَيْهِ (dabanı üstə geri döndü): olduğu xeyirdən geri döndü, bu söz yalnız xeyirdən geri döndükdə deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

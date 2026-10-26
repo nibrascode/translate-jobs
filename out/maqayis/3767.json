@@ -1,0 +1,17 @@
+{
+ "i": 3767,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مون",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 286,
+  "page_to": 286
+ },
+ "ar": "الميم والواو والنون كلمةٌ واحدة وهي المَوْن: أن تَمُونَ عيالَك (٢)، أي تَقوم بكفايتهم وتتحمل مَؤُونتهم. و [أمّا] المؤونة فمن المَوْن والأصل فيها مَوونة بغير همزة.",
+ "az": "[مون] (M-v-n): Mim, vau və nun tək bir kəlmədir, o da المَوْن (əl-movn): ailənin dolanışığını təmin etmək (أن تَمُونَ عيالَك), yəni onların kifayətini ödəmək və xərcini (məunəsini) üzərinə götürməkdir. [أمّا] المؤونة (əl-məunə) isə məundəndir və əsli həmsəsiz olaraq مَوونة (məunə) şəklindədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

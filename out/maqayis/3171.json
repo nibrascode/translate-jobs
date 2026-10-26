@@ -1,0 +1,17 @@
+{
+ "i": 3171,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 12,
+  "page_to": 12
+ },
+ "ar": "القاف والضاد أصول ثلاثة: أحدُها هُوِىُّ الشَّئ، والآخَر خُشونةٌ فى الشَّئ، والآخِر ثَقْبٌ فى الشَّئ.\nفالأوَّل قولُهم: انقَضَّ الحائطُ: وقع. ومنه انقضاضُ الطّائِر: هُوِيُّه فى طَيَرانه.\nوالثانى قولهم: دِرع قَضّاءُ: خشِنة المَسِّ لم تنسَحِقْ بعدُ. وأصلُه القِضّة، وهى أرضٌ منخفِضةٌ ترابُها رملٌ، وإلى جانبها مَتْن. والقَضَضُ: كِسَرُ الحِجارة.\nومنه القَضْقَضة: كَسْرُ العِظام. يقال أسدٌ قضقاضٌ. والقَضُّ (١): ترابٌ يعلو الفِراش. يقال أقضَّ عليه مضجَعُه. قال أبو ذُؤيب:\nأم ما لِجسمِكَ لا يلائمُ مَضْجعاً … إلا أَقَضَّ عليكَ ذاك المضجع (٢)\nويقال لحمٌ قَضٌّ، إذا تَرِبَ عند الشَّىّ. ومن الباب عندى قولُهم: جاءوا بقَضِّهم وقضيضهم (٣)، أى بالجماعة الكثيرة الخشِنة. قال أوس:\nوجاءت جِحاشٌ قَضَّها بقَضيضِها … كأكثَرِ ما كانوا عديداً وأوكَعُوا (٤)\nوالأصل الثالث قولهم: قَضَضت اللُّؤلؤةَ أقُضُّها قَضَّا، إذا ثقَبْتَها. ومنه اقتِضاض البِكْر. قاله الشّيبانى.",
+ "az": "[قض] \nقاف və ضاد hərfləri üç əsas mənaya dəlalət edir: bunlardan biri şeyin mahiyyəti, digəri şeydə olan sərtlik, üçüncüsü isə şeydəki dəlikdir.\nBirincisi, ərəblərin «انقَضَّ الحائطُ» (divar uçdu — yıxıldı) sözüdür. Quşun «انقضاض» etməsi də buradan olub, onun uçuş zamanı aşağı enməsi deməkdir.\nİkincisi, ərəblərin «دِرع قَضّاءُ» (toxunulmamış, hələ əzilib yumşalmamış sərt zireh) sözüdür. Bunun əsli «القِضّة» olub, torpağı qumlu, yanında isə sərt yer (متن) olan çökək yerdir. «القَضَضُ» isə daş qırıntılarıdır.\n«القَضْقَضة» (sümüklərin qırılması) da bundandır. Deyilənə görə, «أَسَدٌ قضقاضٌ» (sümükqıran aslan) olur. «القَضُّ» (١) — döşəyin üstünü örtən torpaqdır. Deyirlər ki, «أقضَّ عليه مضجَعُه» (yatağı ona dar gəldi, narahat etdi). Əbu Züeys demişdir:\nأم ما لِجسمِكَ لا يلائمُ مَضْجعاً … إلا أَقَضَّ عليكَ ذاك المضجع (٢)\n(Bədəninə nə olub ki, heç bir yatağa uyğun gəlmir... məgər o yataq səni narahat etdimi?)\nƏgər kabab bişərkən ət torpaqlanarsa, «لحمٌ قَضٌّ» deyilər. Mənim yanımda bu fəsildən olan sözlərdən biri də onların «جاءوا بقَضِّهم وقضيضهم» (٣) (hamısı birlikdə, bütünlüklə, böyük bir camaatla gəldilər) ifadəsidir, yəni çoxsaylı və sərt topluluqla gəldilər. Avs demişdir:\nوجاءت جِحاشٌ قَضَّها بقَضيضِها … كأكثَرِ ما كانوا عديداً وأوكَعُوا (٤)\n(Onların ən çox sayda və möhkəm şəkildə olduqları kimi, ulaq balaları da bütünlüklə gəldilər...)\nÜçüncü əsas məna isə onların «قَضَضت اللُّؤلؤةَ أقُضُّها قَضَّا» (mircanı deşdim) sözüdür. Qızın bakirəliyini pozmağa da «اقتِضاض» deyilir. Bunu Şeybani demişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:04.334Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3632,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لثي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 234,
+  "page_to": 234
+ },
+ "ar": "اللام والثاء والحرف المعتل كلماتٌ تدلُّ على تولُّد شيء. من ذلك اللَّثَى، وهي صَمغةٌ. ويقال للوسخ اللَّثَى. ويقولون: اللَّثَى: وطْءُ الأخفاف إذا كان مع ذلك نَدًى من ماءٍ أو دم. قال:\n* بِهِ مِنْ لَثَى أخفافِهنَّ نجيعُ (٣) *",
+ "az": "[لثي] (ləsi) — lam, sa və hərfi-mötəl (uzadılma hərfi) bir şeyin əmələ gəlməsini bildirən sözlərdir. Bunlardan biri اّللَّثَى (əlləsa) olub bir saqqız növüdür. Çirkə də لثى (ləsa) deyilir. Deyirlər ki, اّللَّثَى (əlləsa) — üzərində su və ya qan nəmliyi olan dırnaqların basılmasıdır. Şair demişdir:\n* بِهِ مِنْ لَثَى أخفاقِهنَّ نجيعُ (٣) *\n(Onların ayaq izlərinin nəmliyindən qan axır)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

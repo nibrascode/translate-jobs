@@ -1,0 +1,17 @@
+{
+ "i": 3896,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مطع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 333,
+  "page_to": 333
+ },
+ "ar": "الميم والطاء والعين. قال: هو مَطَعَ (٣) في الأرض مَطْعاً ومُطُوعاً، إذا ذهب فلم يُوجَدْ ذِكْرُه.",
+ "az": "[مطع] \nMim, ta və eyn hərfləri. O demişdir: O, yer üzündə mətən (٣) olaraq getdi, mətən və mutuuən — yəni gedib adı-sânı tapılmadı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

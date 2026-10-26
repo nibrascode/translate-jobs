@@ -1,0 +1,17 @@
+{
+ "i": 3410,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كنب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 140,
+  "page_to": 140
+ },
+ "ar": "الكاف والنون والباء كلمةٌ واحدةٌ لا تُفرّع. قالوا: الكَنَب:\nغِلَظٌ يعلو اليدينِ من العَمَل إذا مَجِلَتَا. قال:\n* قد أكنَبَتْ يدايَ بعدَ لينِ (١) *\nقال الأصمعىّ: أكنبَتْ يدُه، ولا يقال كَنِبت. وممّا ليس من هذا.\nالكَنِب، وهو نبتٌ. قال الطرِمَّاح:\nمُعاليات عن الأرياف مسكنُها … أطرافُ نجدٍ بأرض الطَّلح والكَنِبِ (٢)",
+ "az": "[كنب] Kaf, nun və ba şaxələnməyən tək bir sözdür. Dedilər: «الكَنَب» (kənəb) — əllərdə işləməkdən sərtləşən və qabarlaşan qalınlıqdır. Şair demişdir: «* قد أكنَبَتْ يدايَ بعدَ لينِ (١) *» (Yumşaq olduqdan sonra əllərim qabardadı). Əsməi demişdir: «أكنَبَتْ يدُه» (əli qabardadı), lakin «كَنِبت» deyilməz. Bununla əlaqəsi olmayanlardan: «الكَنِب» (kənib) — bir bitkidir. Tirimmah demişdir: «مُعاليات عن الأرياف مسكنُها … أطرافُ نجدٍ بأرض الطَّلح والكَنِبِ» (٢) (Kənd yerlərindən uca olan, məskəni Nəcdin kənarları, səhl və kənib bitən torpaqlar olan...).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

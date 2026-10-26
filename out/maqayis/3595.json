@@ -1,0 +1,17 @@
+{
+ "i": 3595,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لوغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 222,
+  "page_to": 222
+ },
+ "ar": "اللام والواو والعين. ذكر ابنُ دريدٍ (١) أن اللوْغ: أن تُدِير الشيءَ في فمك. يقال: لاغَه لَوْغا.",
+ "az": "«لوغ» (لوغ): اللام، الواو والعين (Lam, vav və ayn). ذكر ابن دريد (١) أن اللوغ: أن تدير الشيء في فمك (İbn Düreyd qeyd etmişdir ki, əl-lüvğ - bir şeyi ağzında dolandırmağındır). يقال: لاغه لَوْغا (Deyilir: lâğuhu lavğən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.900Z"
+}

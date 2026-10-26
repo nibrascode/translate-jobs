@@ -1,0 +1,17 @@
+{
+ "i": 4447,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وأل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 79,
+  "page_to": 79
+ },
+ "ar": "الواو والهمزة واللام: كلمةٌ تدلُّ على تجمُّع والتجاء. يقال استوأَلَتِ الإبلُ: اجتَمَعتْ. والمَوْئِل: الملجأء مِنْ وأَلَ إليه يَئِلُ. والوَأْلَة: البَنَّة من البَعر المتجمِّع.",
+ "az": "[وأل] (və-həmzə-lam): Bir yerə toplanmağa və sığınmağa dəlalət edən bir sözdür. «استوأَلَتِ الإبلُ» (dəvələr toplandı) deyilir. «المَوْئِل» (məvil) — «وأل إليه يَئِلُ» (sığındı, qaçıb pənah apardı) kəlməsindən sığınacaq deməkdir. «الوَأْلَة» (vəhlə) — yığılıb qalan heyvan peyininin üfunəti, iyi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.748Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4194,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 456,
+  "page_to": 456
+ },
+ "ar": "النون والفاء والهاء أصلٌ واحد يدلُّ على إعياءٍ وضعف. منه نَفِهت النَّفسُ: أَعْيَتْ وكَلَّت: وهو نافِهٌ ونُفَّهٌ. قال:\n* بنا حَرَاجِيجُ المَهَارِىَ النُّفَّهِ (٢) *\nوهو مُنَفَّهٌ ومَنْفُوهٌ: ضعيفٌ جَبان.",
+ "az": "[نفه] (ن، ف، ه) — yorğunluğa və zəifliyə dəlalət edən tək bir əsl kökdür. Bunlardan biri نَفِهت النَّفسُ (nəfihət-in-nəfs): nəfs yoruldu və taqətdən düşdü. O, نافِه (nafin) və نُفَّه (nüffəh) adlanır. Şair demişdir: * بنا حَرَاجِيجُ المَهَارِىَ النُّفَّهِ (٢) * (* Bizimlə birlikdə yorğun və arıq səhra dəvələri var *). Və o, مُنَفَّه (münəffəh) və مَنْفُوه (manfuh) adlanır: zəif və qorxaq deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3691,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لعو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 253,
+  "page_to": 253
+ },
+ "ar": "اللام والعين والحرف المعتلّ كلماتٌ غير راجعةٍ إلى قياسٍ واحد. وقد كتبت (٣) الكلبة (٤) اللّعوة: الحريصة. والرجُل اللّعْو: السيِّئُ الْخُلُق.\nواللُّعْوة (٥): السَّواد حولَ حَلَمةَ الثَّدي. ويقولون: تَلَعَّى العَسَل: تعَقَّد. ويقولون للعاثر: لعاً لَكَ، دعاء أن ينتعش. قال:\nبذاتِ لَوْثٍ عَفَرْناة إذا عَثَرَتْ … فالتَّعْسُ أدنَى لها من أن أقولَ لَعا (٦)\nويقال: ما بها لَاعِي قَرْوٍ، أي مَنْ يلحَس عُسًّا.",
+ "az": "«لعو» — lam, ayn və zəif hərf vahid qaydaya qayıtmayan sözlərdir. (٣) İbn Dürid (٤) yazmışdır: «اللَّعوة» (al-la'wah) — tamahkar dişi it. «الرجُل اللّعْو» (ar-rajul al-la'w) — pis xasiyyətli kişi.\n\nVə «اللُّعْوة» (al-lu'wah) — döş giləsinin ətrafındakı qara yer. Deyirlər: «تَلَعَّى العَسَل» (tala' 'al-asal) — bal qatılaşdı. Büdrəyən şəxsə «لعاً لَكَ» (la'an laka) deyirlər, bu, onun ayağa qalxması üçün duadır. Şair demişdir:\nبذاتِ لَوْثٍ عَفَرْناة إذا عَثَرَتْ … فالتَّعْسُ أدنَى لها من أن أقولَ لَعا (٦)\n(Güclü, möhkəm və zirək dəvə ilə ki, əgər o büdrəsə, bədbəxtlik ona mənim \"la'a\" [qalx] deməyimdən daha yaxındır).\nVə deyilir: «ما بها لَاعِي قَرْوٍ» (ma biha la'i qarw), yəni saxsı qabı yalayan kimsə yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

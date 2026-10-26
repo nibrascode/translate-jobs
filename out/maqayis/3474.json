@@ -1,0 +1,17 @@
+{
+ "i": 3474,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كثع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 161,
+  "page_to": 161
+ },
+ "ar": "الكاف والثاء والعين قريبُ المعنى من الذي قبله. يقال شفَةٌ كاثِعةٌ، إذا كَثُر دَمُها. وكَثَع اللّبنُ (٥): علا دَسَمُه. وكَثَّعَتْ لحِيتُه: طالت وكَثُرت.",
+ "az": "[كثع] (Kəf, Sə, Ayn) mənaca əvvəlki kökə yaxındır. Deyilir ki, «شفة كاثعة» (qanı çox olan dodaq) ifadəsi işlədilir. «كثع اللبن» (٥) (südün yağı üstdə toplandı). «كثعت لحيته» (saqqalı uzandı və sıxlaşdı).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4070,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 401,
+  "page_to": 401
+ },
+ "ar": "النون والحاء والزاء أصلانِ صحيحان، يدلُّ أحدهما على معنَى النَّخس والدّقّ، والآخر على امتدادٍ في شيء.\nفالأول النَّحْز: النَّخْس. ونَحَزه نَحْزًا. والراكب يَنْحَزُ بصدره واسِطةَ الرَّحْل.\nونحَزْتُ النّاقةَ برِجلي: ركلتُها. والنَّاحز: أن يصيب المِرفَقُ كركرةَ البعير، يقال به ناحِز. والنُّحَاز: داءٌ يأخذ الإبل في رِئاتها. والقياس فيهما واحد.\nومن الباب نَحَز الشَّيءَ: دقَّه. والمِنحاز: شيءٌ يُدَقُّ فيه الأشياء.\nوالأصل الآخر: النَّحِيزة: طِبَّةٌ تكونُ في الأرض ممتدة كالفَرسَخ. والنّحائز:\nنَسائِجُ كالحُزُم والشُّقَق العريضة، تكون للرِّحال. ويقولون: النَّحيزة: طبيعة الإنسان. والذي نقوله (١) أنَّ النَّحيزة على معنى التَّشبيه، وإنَّما يُراد بها الحال التي كأنّه نُسِجَ عليها، فيقولون: هو ضعيفُ النَّحيزة، أي هذه الحالُ منه ضعيفة.",
+ "az": "[نحز] (n-h-z) - Nün, ha və zay hərfləri iki səhih kökdür, bunlardan biri sancma və döymə mənasına, digəri isə bir şeydə uzanmağa dəlalət edir.\nBirincisi: النَّحْز (ən-nəhz): sancma. وَنَحَزه نَحْزًا (onu sancdı). Süvari sinəsi ilə yəhərin ortasını sancır.\nوَنحَزْتُ النّاقةَ برِجلي (dəvəni ayağımla vurdum): onu təpiklədim. وَالنَّاحِز (ən-nahiz): dirsəyin dəvənin döş sümüyünə toxunması, deyilir ki, onda nahiz var. وَالنُّحَاز (ən-nuhaz): dəvələrin ağciyərlərini tutan bir xəstəlik. Hər ikisində qiyas birdir.\nBu fəsildəndir: نَحَز الشَّيءَ (şeyi döydü): onu döydü. وَالمِنْحَاز (əl-minhaz): içində şeylər döyülən alət (həvəngdəstə).\nDigər kök: النَّحِيزَة (ən-nəhizə): fərsəx uzunluğunda yerdə uzanan təbii damar və ya zolaq. وَالنَّحَائِز (ən-nəhaiz): yəhərlər üçün olan kəmərlər və enli zolaqlar kimi toxumalar. Deyirlər: النَّحِيزَة (ən-nəhizə): insanın təbiəti. Bizim dediyimiz odur ki (١), nəhizə bənzətmə mənasındadır, bununla da onun üzərində toxunulduğu hal nəzərdə tutulur, buna görə də deyirlər: هو ضعيفُ النَّحِيزَة (onun təbiəti/xarakteri zəifdir), yəni onun bu halı zəifdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

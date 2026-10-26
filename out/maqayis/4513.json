@@ -1,0 +1,17 @@
+{
+ "i": 4513,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وذل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 99,
+  "page_to": 99
+ },
+ "ar": "الواو والذال واللام: كلمتان إحداهما مشهورةٌ قد قِيلَت، الوَذيلة، وهى المِرآة. والأخرى: الِوَذَالة (١): ما يقطع الْجَزَّار من اللَّحم بغير قَسْمٍ، يقال: توذَّلُوا منه شيئاً.",
+ "az": "[وذل] (və-zə-lə): Vov, zal və lam hərfləri iki sözdür: Biri məşhur olan və deyilən الوَذيلة (əl-vəziləh) – güzgüdür. Digəri: الِوَذَالة (١) (əl-vizələh) – qəssabın bölgü aparmadan kəsdiyi ət parçası, deyilir: توذَّلُوا منه شيئاً (təvəzzəlu minhu şəyən) – ondan bir şey aldılar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

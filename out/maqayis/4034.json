@@ -1,0 +1,17 @@
+{
+ "i": 4034,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 382,
+  "page_to": 382
+ },
+ "ar": "النون والباء والقاف كلمةٌ تدلُّ على تسويةٍ وتهذيب. والنخل إذا كان غِرَاسُه على استواءٍ منبَّق (٥). وقد نَبَّقه صاحبُه. وكذلك كلُّ شيءٍ مستوٍ مهذَّب. قال:\nوحدِّثْ بأنْ زالت بلَيلٍ حُمولُهمْ … كنخلٍ من الأعراض غير منبَّقِ (٦)\nولعل النَّبق (٧)، وهو حَمْلُ السِّدْر من هذا. ويقال - وهو شاذٌّ عن هذا:\nأَنبَقَ الرّجُلُ، إذا حَصَمَ (٨) بها غيرَ شديدةٍ.",
+ "az": "[نبق] (nəbəq): Nun, ba və qaf – düzəltmə və səliqəyə salmağa dəlalət edən kəlmədir. Xurma ağacları düz və bərabər əkildikdə «منبَّق» (munəbbəq) olar. Sahib onu «نَبَّقه» (nəbbəqahu) etmişdir. Eynilə hər bir düz və səliqəyə salınmış şey də belədir. Belə demişdir:\nوحدِّثْ بأنْ زالت بلَيلٍ حُمولُهمْ … كنخلٍ من الأعراض غير منبَّقِ (٦)\n(Danış ki, gecəylə köçləri yox oldu... Ərazinin səliqəyə salınmamış xurma ağacları kimi)\nEhtimal ki, sidr ağacının meyvəsi olan «النَّبق» (ən-nəbəq) də bundandır. Deyilir – və bu, bundan istisnadır: «أَنبَقَ الرّجُلُ» (ənbəqəl-rəculu) – o, bunu zəif şəkildə kəsdikdə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

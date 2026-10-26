@@ -1,0 +1,17 @@
+{
+ "i": 3888,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مضي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "الميم والضاد والحرف المعتلّ أصلٌ صحيح يدلُّ على نَفاذٍ ومُرورٍ. ومَضَى يَمضِي مُضِيًّا. والمَضَاء: النَّفاذ في الأمر. والمُضَوَاء: التقدُّم.\nقال القَطامي:\n* فإذا خَنَسْنَ مَضَى على مُضَوائِهِ (١) *",
+ "az": "«مضي» (məziy) — mim, dad və hərfi-illə yerinə yetməyə və keçib getməyə dəlalət edən səhih bir kökdür. Və مَضَى يَمضِي مُضِيًّا (məzə yəmşi muziyyən). Və المَضَاء (əl-məzau) — işdə sona qədər getməkdir. Və المُضَوَاء (əl-muzavau) — irəliləməkdir. Qətami demişdir: «Onlar çəkiləndə o, öz irəliləməyi üzrə davam etdi (1)».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

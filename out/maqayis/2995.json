@@ -1,0 +1,17 @@
+{
+ "i": 2995,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 446,
+  "page_to": 447
+ },
+ "ar": "الفاء واللام والميم كلمةٌ. يقولون الفَيْلم: العظيم من الرَّجال. وفى ذكر الدَّجَّال: «رأيتُه فَيْلَمَانِيَّا». وقال الشَّاعر (٣):\nويَحمِى المُضافَ إذا ما دَعا … إذا فرَّ ذُو اللِّمَّةِ الفَيْلَمُ\nويقولون: الفَيْلَم: المُشْط (١). وليس بشئ.",
+ "az": "[فلم]\nFə, lam və mim bir kəlmədir. Deyirlər ki: «الفَيْلم» (əl-feyləm) — kişilərin cüssəli, iri gövdəli olanıdır. Dəccalın zikrində deyilmişdir: «رأيتُه فَيْلَمَانِيَّا» (Onu irigövdəli, cüssəli gördüm). Şair demişdir (٣):\nويَحمِى المُضافَ إذا ما دَعا … إذا فرَّ ذُو اللِّمَّةِ الفَيْلَمُ\n(Qorxu içində olan kəs çağırdıqda, onu qoruyar; o zaman ki, iri bədənli, saçlı-saqqallı kimsə belə qaçıb aradan çıxar).\nDeyirlər ki: «الفَيْلَم» (əl-feyləm) — daraqdır (١). Lakin bu, əsassızdır (heç bir şey deyildir).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.923Z"
+}

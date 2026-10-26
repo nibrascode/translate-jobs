@@ -1,0 +1,17 @@
+{
+ "i": 3816,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مخض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 304,
+  "page_to": 304
+ },
+ "ar": "الميم والخاء والضاد أصلٌ صحيح يدلُّ على اضطرابِ شيء في وِعائه مائعٍ، ثم يستعار. ومَخَضت اللَّبَن أمخضه مَخْضا. والمَخْض: هدر البَعير، وهو على التَّشبيه، كأنّه يمخض في شِقْشِقته شيئاً. والماخِض: الحامل إذا ضَرَبها الطَّلْق. وهذا أيضاً على معنى التَّشبيه، كأنَّ الذي في جوفها شيءٌ مائع يتمخَّض.\nوالمَخَاض: النُّوق الحوامل، واحدتها خَلِفة. ويقال لولد النَّاقة إذا أُرسِل الفحلُ في الإبل التي فيها أمُّه: ابنُ مَخَاضٍ، لَقِحت أُمُّه أمْ لا.",
+ "az": "[مخض] (Mim, xə və dad): Maye halında olan bir şeyin qabında çalxalanmasına, sonra da başqa mənalarda məcazən işlənməsinə dəlalət edən səhih bir əsldir. «مَخَضت اللَّبَن أمخضه مَخْضا» (məhəçtül-ləbənə əmhıduhu məhzən): südü çalxaladım. «المَخْض» (əl-məhd): dəvənin səsinin boğazından çıxması (gurultusu)dur, bu da oxşatma yoluyladır, sanki o, boğazındakı səs kisəsində (şiqşiqəsində) hansısa maye bir şeyi çalxalayır. «الماخِض» (əl-maxid): doğuş sancıları tutmuş hamilə qadın (və ya heyvan) deməkdir. Bu da oxşatma mənasındadır, sanki onun daxilində olan şey çalxalanan maye kimidir.\n«المَخَاض» (əl-məhad): hamilə dəvələrdir, təkli «خَلِفة» (xəlifə)-dir. Dəvə balasına deyilir ki, əgər erkək dəvə anasının olduğu dəvə sürüsünə buraxılarsa, anası hamilə olsun, ya olmasın, həmin balaya «ابنُ مَخاضٍ» (ibnu məhadin) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

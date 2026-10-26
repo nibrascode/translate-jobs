@@ -1,0 +1,17 @@
+{
+ "i": 3587,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لوت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 219,
+  "page_to": 219
+ },
+ "ar": "اللام والواو والتاء لست أَحُقُّ صحَّتَه، وليس هو من كلامهم عندي، لكنَّ ناساً زعموا أنّه يقال: لاتَ يَلُوتُ، إذا أخبَرَ بغير ما سُئِل عنه.\nويقولون: اللَّوْت: الكِتمان. وفيهما نظر.",
+ "az": "[لوت] (lut) - Lam, vav və ta hərflərinin səhihliyinə əmin deyiləm, məncə bu, onların sözlərindən deyil, lakin bəzi insanlar iddia ediblər ki, لاتَ يَلُوتُ (lâtə yəlutü) — soruşulandan başqa bir şey xəbər verdi mənasında işlədilir. Deyirlər: اللَّوْت (əl-ləvt): gizlətmək. Bunlarda baxış vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

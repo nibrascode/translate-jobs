@@ -1,0 +1,17 @@
+{
+ "i": 4554,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 113,
+  "page_to": 113
+ },
+ "ar": "الواو والشين والميم: كلمةٌ واحدةٌ تدلُّ على تأثيرٍ فى شئٍ تزييناً له. منه وَشْم اليَد، إذا نُقِشَت وغُرِزَتْ. وأوشمَت الأرضُ: ظَهَرَ نباتُها.\nوأوْشَمَ البرقُ: لمعَ لمْعاً خفِيفاً. ويتَّسعون فى هذا فيقولون: ما أصابَتنا العامَ وَشْمة، أى قَطْرةٌ من مَطَر، وذلك لأنَّ بالقَطر تُوشَم الأرض. وربَّما قالوا:\nكانت: بينى وبينَه وشِيمةٌ، أى كلام. ولا يكون ذلك إلا فى كلامِ عداوةٍ.\nوهذا تمثيلٌ. وأوْشَمَ: نظر إلى الشَّئِ، كأنَّه نَظَرَ وتأمَّلَ وَشْمَه.",
+ "az": "«وشم» الواو والشين والميم (vav, sin və mim): bir şeyi bəzəmək məqsədilə onda iz qoymağa dəlalət edən tək bir kəlmədir. Bunlardandır əlin naxışlanıb deşilməsi ilə olan وَشْم اليَد (vəşm əl-yəd) - əl döyməsi. وأوشمَت الأرضُ (əvşəməti əl-ardü) - yerin bitkisi üzə çıxdı. وأوْشَمَ البرقُ (əvşəmə əl-bərqu) - ildırım zəif şəkildə çaxdı. Onlar bunu genişləndirərək deyirlər: ما أصابَتنا العامَ وَشْمةٌ (mā əsābatnə əl-āmə vəşmətün) - bu il bizə bir damcı belə yağış düşmədi, bu da məhz damcı ilə yerin naxışlanmasına görədir. Bəzən də deyirlər: كانت بينى وبينه وشِيمةٌ (kāntə beynī və beynehu vəşimətün) - yəni aramverici söz. Bu isə yalnız düşmənçilik sözlərində olur. Bu da bir bənzətmədir. وأوْشَمَ (əvşəmə) - bir şeyə baxdı, sanki onun izini görüb təfəkkür etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

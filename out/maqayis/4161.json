@@ -1,0 +1,17 @@
+{
+ "i": 4161,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نطل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 441,
+  "page_to": 442
+ },
+ "ar": "النون والطاء واللام كلمةٌ واحدة. يقولون: النَّاطِل: مكيالُ من مَكاييل الخمر. ويقال: بل النَّاطِل: الفَضْلةُ تَبقَى في الإناء من الشَّراب.\nوهو أشْبَهُ بقوله:\nولو أنَّ ما عندَ ابن بُجْرَةَ عندها … من الخمر لم تَبْلُلْ لَهَاتِى بناطلِ (١)\nويقولون إن كان صحيحًا: إن النَّيْطَل: الدَّلو، والدَّاهية.",
+ "az": "[نطل] (nun, ta və lam) – tək bir kəlmədir. Deyirlər: النَّاطِل (ən-natil) – şərab ölçülərindən bir ölçüdür. Deyirlər: əksinə, النَّاطِل (ən-natil) – şərab qabında qalan artıq hissədir. Bu, onun bu sözünə daha çox uyğundur: ولو أنَّ ما عندَ ابن بُجْرَةَ عندها … من الخمر لم تَبْلُلْ لَهَاتِى بناطلِ (١) («Əgər İbn Bücrənin yanında ondan olan şərab olsaydı, o, mənim damağımı natillə islatmazdı»). Əgər səhihdirsə, deyirlər ki: النَّيْطَل (ən-neytəl) – su qabı (dələ) və bəladır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

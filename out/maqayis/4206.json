@@ -1,0 +1,17 @@
+{
+ "i": 4206,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 461,
+  "page_to": 461
+ },
+ "ar": "النون والفاء والشين أصلٌ صحيح يدلُّ على انتشار. من ذلك نَفْش الصُّوف، وهو أن يُطْرَق حَتَّى يتنفّش. ونَفَش الطّائرُ جناحَيه. ونَفَشَت الإبلُ: تردَّدَتْ وانتشرَتْ بلا راع. وفِعْلُها النَّفْش؛ وإبلٌ نُفّاشٌ ونَوافش.",
+ "az": "[نفش] (nəfəş): Nun, fa və şin hərfləri yayılmağa dəlalət edən səhih bir əsldir. Bunlardan biri صوف نَفْش (nəfşus-suf) – yun toxunub pırtlaşıq hala gələnə qədər döyülməsidir. نَفَش الطّائرُ جناحَيه (nəfəşət-tairü cənəhəyhü) – quş qanadlarını qabartdı. نَفَشَت الإبلُ (nəfəşətil-iblü) – dəvələr çoban olmadan səpələnib yayıldı. Onun feli نَفْش (nəfş) adlanır; نُفّاش (nüffaş) və نَوافش (nəvafiş) – səpələnmiş dəvələr.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.386Z"
+}

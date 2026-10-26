@@ -1,0 +1,17 @@
+{
+ "i": 3737,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 272,
+  "page_to": 273
+ },
+ "ar": "الميم والضاد أصلٌ صحيح يدلُّ على ضَغْط الشَّيء للشيء.\nمنه مضَّنِي الشَّيءُ وأمضَّنِي: بلغ منِّي المشقّة، كأنّه قد ضغطك. والمَضْمَضَة: تحريك الماء في الفَم وضغطه. والكحلُ يمضُّ العين، إذا كانت له حُرْقة. ومَضِيضُه:\nحُرقَته. ويقولون: مِضِّ (١)، وهي حكايةٌ لشيءٍ يفعله الإنسان بشفته إذا أَطمَعَ في الشيء (٢). يقولون للرّجُلِ إذا أقرَّ بحقٍّ عليه: مِضِّ. ومثلٌ من أمثالهم:\n«إنَّ في مِضِّ لطَمَعا»، قالوا: وذلك إذا سُئِل حاجةً فكسر شفَتَيه.",
+ "az": "«مض» (məzə) — Mim və dad hərfləri bir şeyin başqa bir şeyi sıxmasına dəlalət edən səhih bir əslidir. Bunlardan biri «مضَّنِي الشَّيءُ وأمضَّنِي» (mazzənış-şəy'ü və əmazzənî) — şey mənə əziyyət verdi, güc gəldi, sanki səni sıxmış kimi. «والمَضْمَضَة» (əl-mazmazə) — suyu ağızda hərəkət etdirmək və sıxmaq. Gözə acı verən göz sürməsi üçün «الكحلُ يمضُّ العين» (əl-kuhlü yamuzzül-eyn) deyilir, əgər onun yanğısı varsa. «ومَضِيضُه» (və mazîduh) — onun yanğısı. Deyirlər: «مِضِّ» (mizz), bu, insanın bir şeyə ümid bəslədikdə dodaqları ilə etdiyi hərəkətin təqlididir (٢). Haqqını etiraf edən adama deyirlər: «مِضِّ» (mizz). Atalar sözlərində belə deyilmişdir: «إنَّ في مِضِّ لطَمَعا» (Həqiqətən, mizdə ümid var), dedilər ki, bu, birindən bir hacət istənildikdə dodaqlarını büzdüyü zaman baş verir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

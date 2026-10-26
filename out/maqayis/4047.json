@@ -1,0 +1,17 @@
+{
+ "i": 4047,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 388,
+  "page_to": 388
+ },
+ "ar": "النون والتاء والكاف. النَّتْك (١)]، هي من يمانيَّات أبي بكر (٢). قال: وهي شَبِيهٌ بالنَّتْف.",
+ "az": "«نتك» (nətək) — Nun, ta və kaf hərfləri. النَّتْك (١) (nətk), Əbu Bəkrin yəmənli lüğətlərindəndir (2). O demişdir: O, nətfə bənzər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

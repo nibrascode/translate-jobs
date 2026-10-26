@@ -1,0 +1,17 @@
+{
+ "i": 4252,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 3,
+  "page_to": 3
+ },
+ "ar": "الهاء والواو ليست من شرط اللُّغة (٢)، وهى من العربية، والأصل هاء ضُمّت إليه واوٌ. من العرب من يثقِّلها فيقول: هُوَّ (٣). ومنهم مَنْ يقول هُوْ (٤).",
+ "az": "﷽\n«هو» (الهاء والواو): hə və vav hərfləri dilçilik şərtlərindən deyildir (٢), lakin ərəb dilində mövcuddur; əsli hə hərfi olub, ona vav hərfi qoşulmuşdur. Ərəblərdən onu təşdid edən vardır ki, هُوَّ (huvvə) deyirlər (٣). Onlardan هُوْ (huu) deyənlər də vardır (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:59.927Z"
+}

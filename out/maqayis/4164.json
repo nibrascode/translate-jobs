@@ -1,0 +1,17 @@
+{
+ "i": 4164,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نطس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 443,
+  "page_to": 443
+ },
+ "ar": "النون والطاء والسين كلمتانِ متباينتان لا يرجعانِ إلى قياسٍ واحد. التَّنطُّس، وهو التقذُّر والتقزُّز. ومنه\nحديث عمر: لما خَرجَ من الخلاء، قيل له: ألا تتوضّأ؟ فقال: «لولا التَّنَطُّس ما باليتُ ألاّ أَغْسِلَ يَدىَّ».\nوالكلمةُ الأخرى النَّطِيس (١) والنِّطاسيّ: العالم. وتَنَطَّسْتُ الأخبار:\nتجَسَّستُها.",
+ "az": "[نطس] (nun, ta və sin) – heç bir ümumi ölçüyə qayıtmayan iki fərqli kəlmədir. التَّنطُّس (ət-təntüs) – özünü təmizləməyə çalışmaq və mkrəh görmək. Ömərin hədisi bundandır: O, ayaqyolundan çıxanda ona deyildi: Məgər dəstəmaz almırsan? O dedi: «لولا التَّنَطُّس ما باليتُ ألاّ أَغْسِلَ يَدىَّ» («Əgər bu tənəttüs [həddindən artıq təmizlik iddiası] olmasaydı, əllərimi yumamamağım vecinə belə olmazdı»). Digər kəlmə isə النَّطِيس (ən-natis) (١) və النِّطاسيّ (ən-nitasiy) – alim deməkdir. وَتَنَطَّسْتُ الأخبار (tənəttəstül-əxbar) – xəbərləri casusluqla araşdırdım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

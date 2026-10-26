@@ -1,0 +1,17 @@
+{
+ "i": 3850,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 315,
+  "page_to": 315
+ },
+ "ar": "الميم والراء والتاء كلمةٌ واحدة، هي المَرْتُ: الفلاةُ القَفْر.\nومكانٌ مَرْتٌ: بيِّنُ المُروتةِ، إذا لم يكن فيه خَير. وجَمعُ مَرتٍ أمراتٌ ومُرُوت.\nوبلَغَنا أنَّ اشتِقاق مَارُوتَ منه. ويقال المَرْت: أرضٌ لا يجفُّ ثَرَاها ولا ينبتُ مَرعاها.",
+ "az": "«مرت» (marata) — mim, ra və ta hərflərindən ibarət tək bir kəlmədir: اَلمَرْتُ (al-mart) — bitkisiz, boş səhra. مَكَانٌ مَرْتٌ (makanun martun): xeyri olmayan, aydın şəkildə bitkisiz yer. مَرْت (mart) sözünün cəmi أَمْرَات (amratun) və مُرُوت (murutun) gəlir. Bizə çatmışdır ki, مَارُوت (Marut) adının kökü bundan götürülmüşdür. Deyilir ki, al-mart — rütubəti qurumayan və otlağı bitməyən yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3653,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لخع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 241,
+  "page_to": 241
+ },
+ "ar": "اللام والخاء والعين كلمةٌ واحدة. قال ابن دريد: اللَّخَع:\nاسترخاءٌ في الجِسْم (١).",
+ "az": "[لخع] (Ləhəə) — Lam, xə və eyn tək bir kəlmədir. İbn Dürid demişdir: اللَّخَع (əl-ləhəə) — bədəndə olan boşluqdur (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

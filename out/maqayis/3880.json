@@ -1,0 +1,17 @@
+{
+ "i": 3880,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مصل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 327,
+  "page_to": 328
+ },
+ "ar": "الميم والصاد واللام أصلٌ صحيح يدلُّ على تحلُّب شيء وقَطْره. منه المَصْل: ماء الأقِط. وشاةٌ مُمْصِل، وذلك إذا تزَيَّلَ لبنُها في العُلبة قبل أن يُحقن: وهي مِمصالٌ أيضاً. ومَصَل الجرحُ: سال منه شيءٌ يسير. ويستعار فيقال أعطاه عطاءً ماصِلاً: قليلا. والمُمْصِل: المرأة تُلقِي ولدَها وهو مُضْغة. يقال:\nأمصلَتْ. وأمصَلَ الرّاعي الغَنَم: حَلَبها فاستوعَبَ ما فيها. وأمْصَل بِضاعَتَه:\nأهلكَها وصَرَفها فيما لا خيرَ فيه. أنشد ابن السِّكِّيت:\n* أمْصَلت مالي كلَّه ونَقَصْته (١) *\nوالمُصَالة: قُطارة الحُبِّ (٢).",
+ "az": "«مصل» (məsəl) — mim, sad və lam hərfləri bir şeyin süzülməsinə və damlamasına dəlalət edən səhih bir kökdür. Bunlardan biri المَصْل (əl-məsl) — qurut suudur. Və şahın südü qaba yığılmadan əvvəl qatılığından ayrıldıqda şatün مُمْصِلٌ (mumsilün) deyilir, o həm də مِمصالٌ (mimsalun) adlanır. Və مَصَل الجرحُ (məsələl-cərhu) — yaradan az bir şey axdı. Məcazi olaraq işlədilərək deyilir: أعطاه عطاءً ماصِلاً (ə'tahu ətāən māsilan) — ona az bəxşiş verdi. Və المُمْصِلُ (əl-mumsil) — bətnindəki uşağı hələ ət parıltısı (müdqə) ikən atan qadındır, deyilir: أمْصَلَتْ (əmsələt). Və أمْصَلَ الرّاعي الغَنَمَ (əmsələr-rāiy-ğənəmə) — çoban qoyunları sağdı və içindəki südü tamamilə aldı. Və أمْصَل بِضاعَتَه (əmsələ bidāətəhu) — malını məhv etdi və xeyri olmayan bir şeyə xərclədi. İbn əs-Sikkit bunu şeirlə ifadə etmişdir: «Bütün malımı məhv etdin və azaltdın (١)». Və المُصَالةُ (əl-musalətü) — sevginin süzüntüsüdür (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

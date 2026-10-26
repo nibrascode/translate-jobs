@@ -1,0 +1,17 @@
+{
+ "i": 3615,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لبج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 228,
+  "page_to": 228
+ },
+ "ar": "اللام والباء والجيم كلمتانِ لا تنقاسان. فالأولى قولهم: لُبِجَ به، إذا صُرِع: وحَىٌّ لَبِيجٌ، للحىِّ إذا نَزَل واستقرَّ مكانَه. قال:\nكأن ثِقالَ المُزْنِ بين تُضارعٍ … وشَابَةَ بَرْكٌ من جُذامَ لبيجُ (٢)\nوالأخرى اللُّبْجَة (٣): حديدة ذات شُعَب، كأنّها كفٌّ بأصابعها.",
+ "az": "«لبج» (Lam, ba və cim) qaydaya uyğun gəlməyən iki sözdür. Birincisi, onların «لُبِجَ به» (lubicə bih) sözüdür, o yıxıldıqda deyilir: وَحَىٌّ لَبِيجٌ (və-həyyun ləbicün) — qəbiləna düşüb yerləşdikdə və qərar tutduqda işlədilir. (Şair) demişdir: «Sanki Tüzari və Şabə arasındakı buludların ağırlığı Cüzam qəbiləsinin çökdüyü yağışlı yerdir» (٢). Digəri isə: اللَّبْجَة (əl-lubcə) (٣): bir neçə şaxəsi olan dəmir alətdir, sanki barmaqları olan bir ovuc kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

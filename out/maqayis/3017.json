@@ -1,0 +1,17 @@
+{
+ "i": 3017,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 456,
+  "page_to": 456
+ },
+ "ar": "الفاء والهاء والراء ليس فيه من اللُّغة الأصلية شئٌ [إلاّ] كلمةٌ واحدة، وهى الفِهر، مؤنَّثة، وهى الحجر من الحجارة. ويقولون: إنّ الفَهْر: أنْ يُجامِع الرّجلُ المرأةَ ويُفرِغَ فى غيرها. وقد جاء فيه. ويقال تفَهَّرَ فى المال: اتَّسعَ فيه. يقولون: ناقةٌ فَيْهَرَةٌ: شديدة. وكلُّ هذا قريبٌ بعضُه فى الضعف (٢) مِنْ بَعض.",
+ "az": "«فهر» (fəhər): Fə, hə və ra hərflərində əsas lüğətdən heç bir şey yoxdur [ancaq] bir söz istisnadır, o da qadın cinsində işlənən «الفِهر» (fihr) sözüdür ki, daşlardan bir daş növüdür. Deyirlər ki, «الفَهْر» (fəhr) — kişinin qadınla cinsi əlaqədə olub toxumunu başqa yerə axıtmasıdır. Bu barədə də məlumat gəlmişdir. Deyilir ki, «تفَهَّرَ فى المال» (təfəhhərə fi əl-mal): mal içində bol yaşadı, genişlik gördü. Deyirlər ki, «ناقةٌ فَيْهَرَةٌ» (naqatun fəyhəratun): güclü, sərt dəvədir. Bunların hamısı zəiflik baxımından bir-birinə yaxındır (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

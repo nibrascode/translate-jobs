@@ -1,0 +1,17 @@
+{
+ "i": 4370,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هزم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 51,
+  "page_to": 52
+ },
+ "ar": "الهاء والزاء والميم أصلٌ صحيحٌ يدلُّ على غَمْز وكَسْر. فالهَزْم:\nأن تَغْمِزَ الشئَ بيدك فيَنْهَزمَ إلى داخل، كالقِثّاءةِ والبِطِّيخة. ومنه الهَزِيمة فى الْحَرْب. وغيثٌ هَزِيم: متبعِّق. وهَزِيم الرَّعدِ: صوتُه، كأنّه يتكسَّر، من قولهم: تهزَّمَ السِّقاء: يَبِسَ فتشَقَّقَ.\nومن الباب اهتَزَمْتُ الشَّاةَ: ذبحتُها. والهَزْمة: ما تطامَنَ مِنَ الأرض.\nومما ليس من هذا القياس المِهزام: عُودٌ يُجعلُ فى رأسه نارٌ، تلعب به صِبيانُ الأعراب. قال جرير:\n* وتَلْعَبُ المِهزاما (١) *",
+ "az": "«هزم» — الهاء والزاء والميم (hə, zay və mim) basmağa və sındırmağa dəlalət edən səhih bir kökdür. الهَزْم (həzm) — bir şeyi əlinlə basaraq içəriyə doğru batırmandır, xiyar və qarpızda olduğu kimi. Müharibədəki məğlubiyyət də buradan götürülüb. وغيثٌ هَزِيم (bol yağış yağdıran bulud). وهَزِيم الرَّعد (ildırımın səsi) — onun sanki qırılan səsidir, onların تهزَّمَ السِّقاء (tuluq quruyub çartladı) sözündən gəlir. Bu babdandır: اهتَزَمْتُ الشَّاةَ (qoyunu kəsdim). والهَزْمة (həzmə) — yerin çökək yeri. Bu qiyasdan olmayan: المِهزام (mihzam) — ərəb uşaqlarının oynadığı, ucuna od qoyulan çubuqdur. Cərir demişdir: * وتَلْعَبُ المِهزاما * (Və mizamı oynayırsınız).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

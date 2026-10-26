@@ -1,0 +1,17 @@
+{
+ "i": 3189,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قلق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 23,
+  "page_to": 23
+ },
+ "ar": "القاف واللام والقاف كلمةٌ تدلُّ على الانزعاج. يقال: قَلِق يَقْلَق قَلَقاً.",
+ "az": "[قلق] \nالقاف واللام والقاف (قاف, lam və قاف) — narahatlığa dəlalət edən bir kəlmədir. Deyilir: قَلِق يَقْلَق قَلَقاً (narahat oldu, narahat olur, narahatlıq).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:44.429Z"
+}

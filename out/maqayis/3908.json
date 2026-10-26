@@ -1,0 +1,17 @@
+{
+ "i": 3908,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 337,
+  "page_to": 337
+ },
+ "ar": "الميم والعين والزاء أصلٌ صحيح يدلُّ على شِدَّةٍ في الشَّيء وصلابَة. منه الأمْعَز والمَعْزاء: الحَزْن الغَلِيظ من الأماكن قال أبو بكر (١): رجلٌ مَاعِزٌ: شَدِيد عَصْبِ الخَلْق ومنه المَعْز المعروف، والمَعِيز: جماعةٌ كضَئِين (٢)، وذلك لشدّةٍ وصَلابةٍ فيها لا تكون في الضَّأْن. ويقال لجماعةِ الأوعال والثَّياتِل مُعُوزٌ.\nقال أبو بكر (٣): استمْعَزَ الرّجُل في أمرِه: جَدَّ.",
+ "az": "[معز] \nMim, eyn və zay hərfləri bir şeydə şiddətə və sərtliyə dəlalət edən səhih bir kökdür. Ondandır: الأمْعَز və المَعْزاء — çətin, daşlıq və sərt yerlər. Əbu Bəkr demişdir (١): رجل مَاعِزٌ — bədəninin əzələləri sərt və güclü olan kişi. Və məşhur keçi (المَعْز) bundandır, və المَعِيز — qoyun sürüsü (كضَئِين) kimi bir qrupdur (٢), bu da qoyunlarda olmayan bir sərtlik və möhkəmliyə görədir. Və dağ keçilərinin vəhşi növlərinin sürüsünə مُعُوزٌ deyilir.\nƏbu Bəkr demişdir (٣): استمْعَزَ الرّجُل في أمرِه: o, işində səy göstərdi, çalışdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

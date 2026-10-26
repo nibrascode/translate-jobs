@@ -1,0 +1,17 @@
+{
+ "i": 3055,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فتر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 470,
+  "page_to": 470
+ },
+ "ar": "الفاء والتاء والراء أصلٌ صحيح يدلُّ على ضَعفٍ فى الشَّئ.\nمن ذلك: فَتَر الشّئ يَفْتُر فُتُوراً. والطّرْف الفاتر: الذى ليس بحديدٍ شَزْر.\nوفَتَّرت الشَّئَ وأفْتَرته. قال اللّه تعالى: ﴿لا يُفَتَّرُ عَنْهُمْ﴾، أى لا يُضْعَف.\nومما شذَّ عن هذا الباب: الفِتْر: ما بين طَرَف الإبهام وطرَف السّبّابة إذا فتحتَهما. وفَتْر (٢): اسم امرأة، فى قوله:\nأصَرَمْتَ حَبْلَ الوُدِّ من فِتْر (٣)",
+ "az": "[فتر] (f-t-r): Fə, ta və ra hərflərindən ibarət səhih bir kök olub, bir şeydə zəifliyə dəlalət edir. Bunlardan biri: «فَتَرَ الشّئ يَفْتُر فُتُوراً» (bir şey zəiflədi, zəifləyir). «الطّرْف الفاتر» (zəif baxış) — iti və kəskin olmayan baxışdır. «فَتَّرت الشَّئَ وأفْتَرته» (bir şeyi zəiflətdim). Uca Allah buyurmuşdur: ﴿لا يُفَتَّرُ عَنْهُمْ﴾ (1), yəni onlara zəiflik edilməz. Bu babdan istisna olunan: «الفِتْر» (fitr) — baş barmağın ucu ilə şəhadət barmağının ucu arasında olan məsafədir (qarış). «فَتْرٌ» (Fətr) (2) — bir qadının adıdır, şairin bu sözündə olduğu kimi: «أصَرَمْتَ حَبْلَ الوُدِّ من فِتْر» (3) (Fətrdən sevgi ipini kəsdinmi?).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

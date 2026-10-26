@@ -1,0 +1,17 @@
+{
+ "i": 4375,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هزر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 53,
+  "page_to": 53
+ },
+ "ar": "الهاء والزاء والراء يدلُّ على غمزٍ وكسرٍ وضَرْبٍ. وهَزَره بعصاه هَزَرَاتٍ: ضربَه. وهَزَرَه: غَمَزَه (٢). وإنّ فلاناً لذُو هَزَراتٍ وكَسَرَاتٍ، إذا كان يُغْبَن فى كلِّ شَئ. قال.\nإلاّ تَدَعْ هَزَرَاتٍ لسْتَ تَارِكَها … تُخْلَعْ ثِيابُكَ لا ضأنٌ ولا إبلُ (٣)\nواللّه أعلم.",
+ "az": "«هزر» — الهاء والزاء والراء (hə, zay və ra) basmağa, sındırmağa və vurmağa dəlalət edir. وهَزَره بعصاه هَزَرَاتٍ (onu əasası ilə bir neçə dəfə vurdu). وهَزَرَه (onu basdı). Həqiqətən də, filankəs hər şeydə aldadıldığı zaman هَزَرَاتٌ və كَسَرَاتٌ (zərərlər və sarsıntılar) sahibidir. O demişdir: إلاّ تَدَعْ هَزَرَاتٍ لسْتَ تَارِكَها … تُخْلَعْ ثِيابُكَ لا ضأنٌ ولا إبلُ (Əgər tərk etmədiyin o zərərləri buraxmasan, paltarların soyundurular, nə qoyun qalar, nə də dəvə). Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3940,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ملخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 349,
+  "page_to": 349
+ },
+ "ar": "الميم واللام والخاء أصلٌ صحيح يدلُّ على إخراج شيء من وعائه أو من غيره. وامتَلَخَت العُقَاب عينه: أخرجَتْها. وامتلَخْتُ اللِّجامَ من رأس الدابَّة. والمليخ: اللَّحمُ لا طَعمَ له. و [المَلاَّخ: الملاّق (٣)] لأنَّه يستخرج الإنسان أو ما عنده بملَفِه. قال رؤبة:\n* ملاّخُ المَلَقْ (٤) *\nو [منه]\nقول الحسن: «يَمْلَخُ في الباطل».",
+ "az": "«ملخ» — الميم واللام والخاء (mim, lam və xə) bir şeyin qabından və ya başqa yerdən çıxarılmasına dəlalət edən əsli səhihdir. «امتَلَخَت العُقَاب عينه» — qartal onun gözünü çıxartdı. «امتلخْت اللِّجام من رأس الدابَّة» — cilovu heyvanın başından çıxartdım. «المليخ» — dadsız ət. Və [الملاَّخ: الملاّق (٣)] (çaplayaq, yaltaq), çünki o, insanı və ya onun yanında olanı öz məlağı (dilbəzliyi) ilə çıxardır. Rubə demişdir:\n* ملاّخُ المَلَقْ (٤) *\nVə [bundandır] Həsənin sözü: «يملخ في الباطل» (batildə sürətlə gedir/iş görür).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:03.921Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3856,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مزع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 318,
+  "page_to": 318
+ },
+ "ar": "الميم والزاء والعين أصلٌ صحيح يدلُّ على قطع وتَقطُّع.\nوالقِطعَة من اللحم مُزْعة، وقد تكسر الميم. والمُزْعة: الجُرعة في الإناء من الماء.\nوفلان يتمزَّعُ من الغَيظ، أي يكاد يتقطّع. ومنه مَزَع الظّبْي مَزْعاً: أسرع، كأنَّه ينقدّ من شدة عَدْوِه؛ وقد يقال للفَرَس.",
+ "az": "«مزع» (maza'a) — mim, zay və eyn hərflərindən ibarət səhih bir kök olub kəsməyə və parça-parça olmağa dəlalət edir. Ətdən olan parça مُزْعَةٌ (muz'atun), mim hərfi kəsrə ilə də oxunur. اَلْمُزْعَةُ (al-muz'atu): qabın içindəki suyun bir qurtumu. فُلَانٌ يَتَمَزَّعُ مِنَ الغَيْظِ (fulanun yatamazza'u min al-ğayzi): filankəs qəzəbdən çartlayır (parçalanmaq üzrədir). Bundan: مَزَعَ الظَّبْيُ مَزْعاً (maza'a aẓ-ẓabyu maza'an): ceyran qaçışının şiddətindən az qala parça-parça olacaqmış kimi qaçdı; bu söz at üçün də deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

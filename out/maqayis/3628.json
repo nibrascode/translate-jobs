@@ -1,0 +1,17 @@
+{
+ "i": 3628,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لتب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 233,
+  "page_to": 233
+ },
+ "ar": "اللام والتاء والباء كلمةٌ تدلُّ على ملازَمةٍ ومخالطة. يقولون:\nلَتَبَ ثوبَه: لَبِسه. واللاتِب: المُلازِم للشَّيء لا يفارقُه. ويقولون: لَتَبَ في سَبَلَةِ الناقة، إذا وجأ.",
+ "az": "[لتب] (lətəb) — lam, ta və ba bir şeyə bağlı olmağı və qarışmağı bildirən sözdür. Deyirlər: لَتَبَ ثوبَه (lətəbə səvbəh) — paltarını geyindi. اّللاتِب (əllatib) — bir şeydən ayrılmayaraq ona bağlanan. Deyirlər: لَتَبَ في سَبَلَةِ الناقة (lətəbə fi səbələtin-naqəh) — dəvənin bığcığına vurdu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.972Z"
+}

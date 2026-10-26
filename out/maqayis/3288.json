@@ -1,0 +1,17 @@
+{
+ "i": 3288,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قرش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 70,
+  "page_to": 71
+ },
+ "ar": "القاف والراء والشين أصلٌ صحيح يدلُّ على الجمع والتجمُّع.\nفالقَرْش: الجمع، يقال تَقَرَّشُوا، إذا تجمَّعوا. ويقولون: إنَّ قُريشاً سمِّيت بذلك.\nوالمُقَرِّشة: السَّنة المَحْل، لأنَّ النّاسَ يضمُّون مواشِيَهم. ويقال: تقارَشَت الرِّماح\nفى الحَرْب، إذا تداخَلَ بعضُها في بعض. ويقولون: إنَّ قريشاً: دابَّةٌ تسكن البحر تَغلِبُ سائرَ الدَّوابّ. قال:\nوقريشٌ هي التي تَسْكُن البحر … وبها سمِّيت قريشٌ قُرَيشاً (١)",
+ "az": "[قرش] (قرش). القاف والراء والشين أصلٌ صحيح يدلُّ على الجمع والتجمُّع (toplanmağa və bir araya gəlməyə dəlalət edən səhih kökdür). فالقَرْش (fəl-qərşu): الجمع (toplanmaq), يقال تَقَرَّشُوا (deyilir: təqərrəşuu), إذا تجمَّعوا (bir araya gəldikləri zaman). ويقولون (və deyirlər ki): إنَّ قُريشاً سمِّيت بذلك (Qureyşin belə adlandırılması bununla bağlıdır). والمُقَرِّشة (və əl-muqərrişətu): السَّنة المَحْل (quraqlıq ili), لأنَّ النّاسَ يضمُّون مواشِيَهم (çünki insanlar mal-qaralarını bir yerə yığırlar). ويقال (və deyilir): تقارَشَت الرِّماح فى الحَرْب (təqaraşəti rimaçu fil-hərb), إذا تداخَلَ بعضُها في بعض (müharibədə nizələr bir-birinə qarışdıqda). ويقولون (və deyirlər ki): إنَّ قريشاً (inنə qureyşən): دابَّةٌ تسكن البحر تَغلِبُ سائرَ الدَّوابّ (dənizdə yaşayan və digər heyvanlara qalib gələn bir canlıdır). قال (şair dedi): وقريشٌ هي التي تَسْكُن البحر … وبها سمِّيت قريشٌ قُرَيشاً (١) (Dənizdə məskunlaşan məhz Qureyşdir, məhz ona görə Qureyş Qureyş adlandırılmışdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:34:58.103Z"
+}

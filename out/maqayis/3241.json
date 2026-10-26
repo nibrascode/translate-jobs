@@ -1,0 +1,17 @@
+{
+ "i": 3241,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قاق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 46,
+  "page_to": 46
+ },
+ "ar": "القاف والألف والقاف كلمةٌ واحدة، وهى القَاقُ:\nالرّجُل الطَّويل.",
+ "az": "[قاق] (qaq). Qaf, əlif və qaf tək bir kəlmədir, o da القَاق (əl-qaq) — hündürboylu kişi deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

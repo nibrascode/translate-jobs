@@ -1,0 +1,17 @@
+{
+ "i": 4237,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "النون والكاف والسين أصلٌ يدلُّ على قَلْب الشّيء.\nمنه النَّكْس: قلبُك شيئاً على رأسه. والوِلاد المنكوس: أن يَخرُج رجلاهُ قَبْلَ رأسِه. والنِّكْسُ: السَّهم الذي ينكسر فُوقُه، فيُجعلُ أعلاه أسفَله. ويقال للمائق: إنَّه لنِكْسٌ، تشبيهاً بذلك. والمُنَكِّس من الخيل: الذي إذا جرى لم يَسْمُ برأسِه ولا هادِيهِ من ضَعفه.",
+ "az": "[نكس] (baş aşağı çevirmək) Nun, kaf və sin bir şeyi çevirməyə dəlalət edən əsasdır. Ondan النَّكْس (tərsinə çevirmə): bir şeyi başı üzərində çevirməyin. Və المنكوس (tərsinə doğulan uşaq): başından əvvəl ayaqlarının çıxması. Və النِّكْسُ (sınıq ox): uc hissəsi sınan və aşağısı yuxarı edilən ox. Və ağılsız adama نِكْسٌ (zəif, səfeh) deyilir, bununla bənzədilərək. Və atlardan المُنَكِّس (başını aşağı tutan at): elə bir atdır ki, qaçarkən zəifliyindən başını və boynunu yuxarı qaldırmaz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

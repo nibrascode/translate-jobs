@@ -1,0 +1,17 @@
+{
+ "i": 3800,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مجس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 298,
+  "page_to": 298
+ },
+ "ar": "الميم والجيم والسين كلمةٌ ما نَعرِفُ لها قياساً، وأظنُّها فارسيَّة، وهي قولنا هؤلاء المجوس. يقال: تَمَجَّسَ الرّجُل، إذا صارَ منهم.",
+ "az": "[مجس] الميم والجيم والسين bir sözdür ki, onun üçün bir ölçü bilmirik, zənnimcə o fars dilindədir, o da bizim «هؤلاء المجوس» (bu məcusilər) dediyimiz sözdür. Deyilir: «تَمَجَّسَ الرّجُل» (kişi məcusi oldu), onlardan biri olduqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:09.385Z"
+}

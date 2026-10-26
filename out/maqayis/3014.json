@@ -1,0 +1,17 @@
+{
+ "i": 3014,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فنح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 455,
+  "page_to": 455
+ },
+ "ar": "الفاء والنون والحاء كلمة واحدة. يقولون: فَنَحَ الفرسُ من الماء، إذا شرب دونَ الرِّىّ. قال:\nوالأخْذ بالغَبوق والصَّبُوح … مُبرِّداً لمِقْأبٍ فَنُوحِ (١)\nالمِقأب: الكثير الشّرب للماء واللَّبَن. ورواها آخرون: «لمِصْأَبٍ»، وهو الذى يشرب دونَ الرّىّ. واللّه أعلم بالصَّواب.",
+ "az": "«فنح» (fənəh): Fə, nun və hə hərflərindən ibarət tək bir sözdür. Deyirlər ki, «فَنَحَ» (fənəhə) at sudan doymadan içdi, deməkdir. Şair demişdir:\nوالأخْذ بالغَبوق والصَّبُوح … مُبرِّداً لمِقْأبٍ فَنُوحِ (١)\n(Axşam və səhər südünü içmək… çox içən susuz birini sərinlədərək…)\n«المِقأب» (miqəb) — suyu və südü çox içən deməkdir. Başqaları bunu «لمِصْأَبٍ» (misməb) – yəni sudan doymadan içən kimsə olaraq rəvayət etmişlər. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

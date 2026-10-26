@@ -1,0 +1,17 @@
+{
+ "i": 3493,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 170,
+  "page_to": 170
+ },
+ "ar": "الكاف والراء والشين أصلٌ صحيح يدلُّ على تجمُّع وجَمْع.\nمن ذلك الكَرِش. سمِّيت لجَمْعها ما فيها. ثم يُشتقّ من ذلك، فيقال للجماعة من الناس كَرِش.\nقال رسول اللّه ﵌: «الأنصارُ كَرِشِي وعَيْبتي».\nوكَرِش الرجُل: عيالُه وصغارُ ولدِه. ويقال للأَتَان الضَّخمة الخاصِرَتَين: كَرْشَاء.\nوتكرَّشَ وجههُ: تَقَبَّض فصار كالكرش. والكَرْشاء: القدم التي قَصُرَتْ واستوى أخمَصُها.",
+ "az": "[كرş]. Kaf, ra və şin düzgün kök olub, toplanmağa və cəm olmağa dəlalət edir. Bunlardan biri də əl-kərisdir (mədə). O, özündə olanları topladığı üçün belə adlandırılmışdır. Sonra bundan törədilərək insanların cəminə də kəris deyilir. Allahın Elçisi sallallahu əleyhi və səlləm demişdir ﵌: «الأنصارُ كَرِشِي وعَيْبتي» («Ənsar mənim mədəmdir və sirr saxladığım yeqanamdır»). Kişinin kərisi: onun ailəsi və balaca övladlarıdır. Böyük böyürlü dişi eşşəyə كَرْشَاء (kərşa) deyilir. Üzü qırışdı: yığılıb mədə kimi oldu. Əl-kərşa: ayağın altı çuxur olmayıb hamar olan ayaq növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4466,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وثج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 84,
+  "page_to": 85
+ },
+ "ar": "الواو والثاء والجيم يدلُّ على اكتنازٍ. ووَثُجَ الفَرسُ وَثَاجةً:\nاكتنَزَ لحمُه، وهو وَثيجٌ. واستَوْثَجَ نَبْتُ الأرضِ: عَلِقَ بعضُه بعضاً. وأرضٌ مُؤتِثجةٌ (١): كثيرة الكلأ.",
+ "az": "[وثج] (və-sa-ca) ətlənməyə dəlalət edir. «وَثُجَ الفَرسُ وَثَاجةً» (atın əti bərkidi) — əti bərkidi, o, «وَثيجٌ» (vəsig - ətli, güclü) olar. «استَوْثَجَ نَبْتُ الأرضِ» (yerin bitkiləri bir-birinə sarıldı) — bir-birinə dolaşdı. «أرضٌ مُؤتِثجةٌ» (١) (bitki ilə dolu torpaq) — ot-ələfi çox olan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

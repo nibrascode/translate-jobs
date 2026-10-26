@@ -1,0 +1,17 @@
+{
+ "i": 3377,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 126,
+  "page_to": 126
+ },
+ "ar": "الكاف والذال كلمةٌ واحدة، وهي الكَذَّانُ: حجارةٌ رِخوة كأنّها مَدَر.",
+ "az": "[كذ] الكاف والذال كلمةٌ واحدة، (Kaf və zal hərfləri tək bir kəlmədir), وهي الكَذَّانُ: حجارةٌ رِخوة كأنّها مَدَر. (və o, əl-kəzzandır: kəsək kimi yumşaq daşlardır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:12.477Z"
+}

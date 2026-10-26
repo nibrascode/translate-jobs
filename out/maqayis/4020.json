@@ -1,0 +1,17 @@
+{
+ "i": 4020,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 378,
+  "page_to": 378
+ },
+ "ar": "النون والباء والتاء أصلٌ واحدٌ يدلُّ على نماءٍ في مزروع، ثم يستعار. فالنَّبت معروفٌ، يقال نَبَت. وأنْبَتَتِ الأرض. ونَبَّتُّ الشَّجرَ:\nغَرستُه. ويقال: إنَّ [في (٤)] بني فلانٍ لَنابِتَةَ شرّ. ونبَتَتْ لبني فلانٍ نابتةٌ، إذا نشَأ لهم نَشْ ءٌ صِغار من الوَلَد. والنَّبيت: حىٌّ من اليمن. وما أحسَنَ نِبتةَ هذا الشَّجر. وهو في مَنبِتِ صدقٍ، أي أصلٍ كريم.",
+ "az": "«نبت»: النون، الباء والتاء أصلٌ واحدٌ يدلُّ على نماءٍ في مزروع (Bitkidə inkişafa dəlalət edən tək bir kökdür), ثم يستعار (sonra məcazi mənada işlədilir). فالنَّبت معروفٌ (Bitki tanınmışdır), يقال نَبَت (deyilir: bitdi). وأنْبَتَتِ الأرض (Yer bitki bitirdi). ونَبَّتُّ الشَّجرَ (Mən ağacı əkdim): غَرستُه (onu basdırdım). ويقال: إنَّ [في (٤)] بني فلانٍ لَنابِتَةَ شرّ (Və deyilir: Filankəsin qəbiləsində mütləq şər nəslindən olanlar var). ونَبَتَتْ لبني فلانٍ نابتةٌ (Filankəsin qəbiləsində yeni nəsil törədi), إذا نشَأ لهم نَشْ ءٌ صِغار من الوَلَد (onlar üçün uşaqlardan kiçik bir nəsil böyüdükdə). والنَّبيت (Nəbit): حىٌّ من اليمن (Yəməndən bir tayfadır). وما أحسَنَ نِبتةَ هذا الشَّجر (Bu ağacların bitişi nə gözəldir!). وهو في مَنبِتِ صدقٍ (Və o, doğru/şərəfli bir bitmə yerindədir), أي أصلٍ كريم (yəni şərəfli kökdədir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:36.143Z"
+}

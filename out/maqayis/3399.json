@@ -1,0 +1,17 @@
+{
+ "i": 3399,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 136,
+  "page_to": 137
+ },
+ "ar": "الكاف والميم والهاء كلمةٌ واحدة، وهو الكَمَه، وهو العَمَى يُولَدُ به الإنسان، وقد يكون من عَرَض يَعرِضُ. قال سُويد:\nكَمِهَتْ عيناهُ حتى ابيضَّتا … وهو يَلْحَى نَفسَه لمّا نَزَعْ (١)",
+ "az": "[كمه] Kaf, mim və ha bir sözdən ibarətdir: o da «الكَمَه» (kəməh - anadangəlmə korluq) olub, insanın anadangəlmə kor olmasıdır; həmçinin sonradan gələn hər hansı bir ərizədən (səbəbdən) də ola bilər. Suveyd demişdir: كَمِهَتْ عيناهُ حتى ابيضَّتا … وهو يَلْحَى نَفسَه لمّا نَزَعْ (١) (Gözləri ağarana qədər kor oldu... və o, əl çəkdikdə özünü qınayırdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3429,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كور",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 146,
+  "page_to": 146
+ },
+ "ar": "الكاف والواو والراء أصلٌ صحيحٌ يدلُّ على دَوْرٍ وتجمُّع.\nمن ذلك الكوْر: الدَّور. يقال كار يَكُورُ، إذا دار. وكَوْرُ العمامة: دَوْرُها:\nوالكُورَةُ: الصُّقْع، لأنَّه يدُور على ما فيه من قُرًى. ويقال طعَنَه فكَوَّرَه، إذا ألقاه مجتمِعا. ومنه قولُه تعالى: ﴿إِذَا اَلشَّمْسُ كُوِّرَتْ﴾، كأنَّها جُمِعَت جَمْعا.\nوالكُور: الرَّحْل؛ لأنَّه يدور بِغارِب البَعير؛ والجمع أكوار. فأمّا قولهم: «الحَوْر بَعْدَ الكَور»، فالصحيح عندهم: «الحَوْر بعد الكَوْن»، ومعناه حار، أي رجع ونَقَص بعد ما كان. ومن قال بالراء فليس يبعُد، أي كان أمرُه متجمِّعاً ثم حار ونَقَص. وقوله تعالى: ﴿يُكَوِّرُ اَللَّيْلَ عَلَى اَلنَّهارِ﴾، أي يُدير هذا على ذاك، ويدير ذاك على هذا، كما جاء في التفسير: زِيد في هذا من ذلك، وفي ذاك [من هذا]. والكَوْر: قِطعةٌ من الإبل كأنَّها خمسون ومائة. وليس قياسُه بعيداً، لأنها إذا اجتمعت استدارت في مَبْرَكها. وكُوَّارة النَّحل معروفة.\nومما يشِذُّ عن هذا الباب قولهم: اكتارَ الفَرسُ، إذا رفَعَ ذَنَبه في حُضْرِه.",
+ "az": "[كور] Kaf, vau və ra dövr etməyə və yığılmağa dəlalət edən səhih bir əsasdır. Bunlardandır: الكوْر (əl-kovr) — dövr etmək. Deyilir كار يَكُورُ (kāra yəkuqu), dövr etdiyi zaman. Və كَوْرُ العمامة (kovrul-iməməh) — sarığı dolamaq. والكُورَةُ (əl-kurəh) — mahal, bölgə, çünki o, özündə olan kəndlərin ətrafında dövr edir. Deyilir طعَنَه فكَوَّرَه (təənahü fə-kəvvərahü) — onu vurub bir yerə yığdı. Və bundan Uca Allahın buyuruğudur: ﴿إِذَا اَلشَّمْسُ كُوِّرَتْ﴾ (Mənaca tərcümə: «Günəş bükülüb yuvarlandığı (və ya qaraldığı) zaman»), sanki o, toplanıb yığılmışdır. \nVə الكُور (əl-kur) — dəvə yəhəridir; çünki o, dəvənin hürgücü ətrafında dövr edir; cəmi أكوار (əkvər). الحَوْر بَعْدَ الكَور (əl-hauru bədəl-kəvr) sözlərinə gəldikdə, onlara görə ən səhih olanı: «الحَوْر بعد الكَوْن» («Olunduqdan sonra azalmaq») ifadəsidir, mənası حار (har) deməkdir, yəni olub bitdikdən sonra qayıtdı və azaldı. Ra hərfi ilə deyən də uzaq deyildir, yəni işi toplandı, sonra dönüb azaldı. Uca Allahın buyuruğu: ﴿يُكَوِّرُ اَللَّيْلَ عَلَى اَلنَّهارِ﴾ (Mənaca tərcümə: «Gecəni gündüzə bükür» / «Gecəni gündüzə dolayır»), yəni bunu bunun üzərinə, bunu da onun üzərinə dolayır, təfsirdə gəldiyi kimi: bundan ona, o biri də bundan əlavə olundu. Və الكَوْر (əl-kovr) — təxminən yüz əlli dəvədən ibarət qrupdur. Onun qiyası uzaq deyil, çünki onlar toplaşanda yataqlarında dairəvi olurlar. Və كُوَّارَة النَّحل (kuvvəratun-nəhl) — arı pətəyi məlumdur.\nBu fəsildən kənara çıxan sözlərdən biri də onların اكتارَ الفَرسُ (iktəral-fərs) — at qaçarkən quyruğunu qaldırdığı zaman, deməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

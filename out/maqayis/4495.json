@@ -1,0 +1,17 @@
+{
+ "i": 4495,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وخش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 94,
+  "page_to": 94
+ },
+ "ar": "الواو والخاء والشين: كلمةٌ واحدة هى الوَخْش: الدُّنَاةُ من الرِّجال والأخلاطُ. ويقال: أوْخَشُوا الشَّئ: خَلَطوه. قال:\n* وألقيتُ سهمى بينهم حينَ أَوْخَشُوا (١) *\nقال أبو بكر (٢): الوَخْش: الردىُّ من كلِّ شَئ.",
+ "az": "[وخش] الواو والخاء والشين (və, xa və şin) — tək bir sözdür, o da الْوَخْشُ (vəxş)dir: alçaq insanlar və müxtəlif tayfalar. Deyilir: أَوْخَشُوا الشَّيْءَ (şeyi qarışdırdılar): onu qatışdırdılar. Şair demişdir: * وَأَلْقَيْتُ سَهْمِي بَيْنَهُمْ حِينَ أَوْخَشُوا (١) * (Onlar qarışdırdıqları zaman oxumu onların arasına atdım). Əbu Bəkr demişdir (٢): الْوَخْشُ (vəxş) — hər bir şeyin pisi, alçağıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

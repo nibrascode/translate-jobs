@@ -1,0 +1,17 @@
+{
+ "i": 3491,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 168,
+  "page_to": 169
+ },
+ "ar": "الكاف والراء والزاء أصلٌ صحيحٌ يدلُّ على اختباء وتستُّر لواذ. يقال: كارَزَ إلى المكان، إذا مال إليه واختبأ فيه. وأنشد:\n* إلى جَنْب الشَّريعة كارزُ (١) *\nوكارَزَ [عن (٢)] فلانٍ، إذا فرّ عنه واختبأ منه. وأمَّا الكُرْز فهو الجُوَالِق؛ وسمِّي بذلك لأنّه يُخْبأ فيه الشيء. وقول رؤبة:\n* كَالكُرَّزِ المربوطِ بينَ الأوتادْ (٣) *\nفهذا فارسيٌّ معرب. يقولون: الكُرَّز: البازِي في سنته الثانية. والكَرَّاز:\nكبشٌ يعلِّق عليه الراعي كُرْزَه، وهو شيءٌ له كالجُوَالِق. فأمَّا الكَرِيز (٤) وهو الأَقِط، فليس من الباب، لأنه من الإبدال والأصل فيه الصاد.",
+ "az": "[كرز]. Kaf, ra və zay düzgün kök olub, gizlənməyə, örtünməyə və arxayınlaşmağa dəlalət edir. Deyilir: كارَزَ إلى المكان (bir yerə meyil etdi və orada gizləndi). Və bu beyt nəql olunmuşdur: * إلى جَنْب الشَّريعة كارزُ (١) * (Şəriətin yanına sığınaraq gizlənən). Və كارَزَ [عن (٢)] فلانٍ (filankəsdən qaçdı və ondan gizləndi). Kürzə gəldikdə, o, böyük torbadır; ona bu ad ona görə verilmişdir ki, onda nəsə gizlədilir. Rubənin sözü: * كَالكُرَّزِ المربوطِ بينَ الأوتادْ (٣) * (Payalar arasında bağlanmışürz kimi) – bu, ərəbləşdirilmiş fars sözüdür. Deyirlər ki, əl-kürrəz: ikinci ilində olan şahin quşudur. Əl-kəraz: çobanın üzərinə öz kürzünü (torbasını) asdığı qoçdur, kürz isə cuvalıqa bənzər bir şeydir. Əl-kərizə (٤) gəldikdə isə, o, qurudulmuş qatıqdır (əqit), bu fəsildən deyil, çünki o, əvəzlənmədəndir və əsli sad hərfidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

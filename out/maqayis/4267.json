@@ -1,0 +1,17 @@
+{
+ "i": 4267,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 11,
+  "page_to": 11
+ },
+ "ar": "الهاء والكاف أُصَيلٌ يدلُّ على انفراجٍ فى شئ أو شَقّ.\nيقال انهكَّ صَلَا المرأةِ انهِكاكاً: انفَرَجَ عند الوِلادِ. ويقولون: هكَّه بالسَّيف:\nضَرَبه. والهَكَّ: المطَر الشديد، لأنّه يَهُكَّ الأرض (١). وانهكَّت البِئرُ:\nتهَوَّرت.",
+ "az": "[هك] (هاء və kaf): bir şeydə açılmağa və ya yarığa dəlalət edən kiçik bir kökdür.\nDeyilir ki: İnhakkə sala əl-مرأة inhikakan (انهكَّ صَلَا المرأةِ انهِكاكاً): doğuş zamanı qadının oma sümüyü açıldı. Və deyirlər: həkkəhu bi-əl-səyf (هكَّه بالسَّيف): onu qılıncla vurdu. Və əl-həkk (الهَكَّ): şiddətli yağış, çünki o, yeri əzir (dağıdır) (١). Və inhakkət əl-bi'r (انهكَّت البِئرُ): quyu uçub dağıldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:23.333Z"
+}

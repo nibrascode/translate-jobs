@@ -1,0 +1,17 @@
+{
+ "i": 3059,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فتل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 472,
+  "page_to": 472
+ },
+ "ar": "الفاء والتاء واللام أصلٌ صحيح يدلُّ على لىّ شئ. من ذلك: فتَلت الحبلَ وغيرَه. والفَتيل: ما يكون فى شِقِّ النَّواة كأنّه قد فُتِل. قال:\nيَجمع الجَيش ذا الألوفِ ويَغزُو … ثمَّ لا يرزَأ العدوَّ فَتِيلا (٢)\nويقال: بل الفَتيل ما يُفتَل بين الإصبَعَين. والفَتَل: تباعُد الذِّراعين عن جنْبَىِ البعير، كأنَّهما لُوِيَا لَيَّا وفُتِلا حتى لُوِيا. قال طَرَفة:\nلها عَضُدانِ أفْتَلَانِ كأنَّها … تمرُّ بسَلْمَىْ دالجٍ متشدِّدِ (٣)\nومن أمثالهم: «فلان يَفْتِل فى ذِرْوةِ فُلانٍ»، أى يدور من وراءِ خَديعته.",
+ "az": "[فتل] (f-t-l): Fə, ta və lam hərflərindən ibarət səhih bir kök olub, bir şeyi burmağa dəlalət edir. Bunlardan biri: «فتَلت الحبلَ وغيرَه» (ipİ və başqa şeyi burdum). «الفَتيل» (fətil) — çəyirdəyin yarığında burulmuşa bənzər olan şeydir. Şair demişdir: «يَجمع الجَيش ذا الألوفِ ويَغزُو … ثمَّ لا يرزَأ العدوَّ فَتِيلا» (2) (Minlərlə əsgərdən ibarət ordunu toplar və yürüş edər... sonra düşmənə bir fitil qədər də zərər verməz). Həmçinin deyilir ki, «الفَتيل» (fətil) — iki barmaq arasında burulan şeydir. «الفَتَل» (fətəl) — dəvənin bazu sümüklərinin böyründən uzaq olmasıdır, sanki onlar burulmuş və bükülmüş kimi yana bükülüblər. Tərəfə demişdir: «لها عَضُدانِ أفْتَلَانِ كأنَّها … تمرُّ بسَلْمَىْ دالجٍ متشدِّدِ» (3) (Onun iki burulmuş bazusu vardır, sanki o, əzmlə səfər edən gecə yolçusunun iki ipindən keçir). Onların məsəllərindən biridir: «فلان يَفْتِل فى ذِرْوةِ فُلانٍ» (filankəs filankəsin belinə/zirvəsinə ip burur), yəni onun hiyləsinin arxasından dolanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

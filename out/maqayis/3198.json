@@ -1,0 +1,17 @@
+{
+ "i": 3198,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قمص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 27,
+  "page_to": 27
+ },
+ "ar": "القاف والميم والصاد أصلان: أحدهما يدل على لُبس شئ والانشِيامِ فيه، والآخَر على نَزْوِ شئٍ وحركة.\nفالأوَّل القَميص للإِنسان (٢) معروف. يقال: تَقَمَّصَه، إذا لَبِسه. ثم يُستعار ذلك فى كلِّ شئ دخل فيه الإنسان، فيقال: تقمَّصَ الإمارَةَ، وتقمَّص الوِلاية.\nوجَمْع القميص أَقْمِصَةٌ، وقُمُص.\nوالأصل الآخر القمْص، من قولهم: قَمَصَ البعير ويَقمُص قَمصاً وقِمَاصاً، وهو أن يرفع يدَيه ثم يطرحَهما معاً ويَعجِنَ برجليه. وفى الحديث (٣) ذكر القَامِصَة، وهو من هذا. يقال قَمَص البحر بالسَّفينة، إذا حَرّكَها بالموج، فكأنَّها بعيرٌ يقمِصُ.",
+ "az": "[قمص] \nالقاف والميم والصاد (قاف, mim və sad) iki əsas kökə malikdir: \nBiri: bir şeyi geyinmək və onun evinə (içinə) girmək. \nDigəri: bir şeyin tullanması və hərəkəti.\n\nBirincisi: İnsan üçün olan القَمِيس (köynək) məlumdur. Deyilir: تَقَمَّصَه — onu geyindi. Sonra bu, insanın daxil olduğu hər bir şeyə məcazi olaraq işlədilir, deyilir: تقمَّصَ الإمارَةَ (əmirliyi əyninə geyindi), تقمَّص الوِلاية (vilayəti əyninə geyindi).\nKöynəyin cəmi أَقْمِصَةٌ və قُمُص gəlir.\n\nVə digər əsas: القمْص, onların قَمَصَ البعير ويَقمُص قَمصاً وقِمَاصاً sözündəndir, bu da dəvənin ön ayaqlarını qaldırıb sonra onları birlikdə yerə çırpması və arxa ayaqları ilə hərəkət etməsidir. \nHədisdə (٣) القَامِصَة (tullanan, sıçrayan) zikr olunmuşdur ki, bu da eləvandandır. Deyilir: قَمَص البحر بالسَّفينة — dəniz gəmini dalğalarla hərəkət etdirdi, elə bil o, sıçrayan dəvə kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:44.429Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4344,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هدب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 43,
+  "page_to": 44
+ },
+ "ar": "الهاء والدال والباء: أصلٌ صحيح يدلُّ على طُرَّةِ شئٍ أو\nأغصانٍ تُشبِه الطُّرّة. منه الهُدْب: طُرَّة الثَّوب. والهَدَب: أغصان الأرْطَى، وهى الهُدَّاب. قال:\nفظَلَّ العَذارَى يَرتمينَ بلحمِها … وشَحمٍ كهُدَّابِ الدِّمَقسِ المفتَّلِ (١)\nويقال: الهَدَب من ورق الشَّجَر: ما لم يكن له عَيْر. وهَيْدَبُ السَّحابِ:\nما تهدَّبَ منه إذا أرادَ الوَدْقَ، كأنّه خيوطُ. ورجلٌ أهْدب: كثيرُ أشفار العَين. وهَدَبَ التَّمرةَ، إذا اجتَناها، يَهْدِبُها (٢) هَدْباً، كأنَّه أخَذَ هُدْبَ الشَّجرة.\nوتستعار هذه الكلمة فيقال: هَدَب النَّاقة، إذا حلبَها (٣).",
+ "az": "[هدب] (hə-də-bə): Hə, dal və ba – hər hansı bir şeyin saçağına və ya saçağa bənzəyən budaqlarına dəlalət edən səhih bir əsasdır. Bunlardan biri: الهُدْب (əl-hudb) – paltarın saçağı. والهَدَب (əl-hədəb) – ərtə ağacının budaqlarıdır, bunlar هُدَّاب (huddab) adlanır. Şair demişdir:\nفظَلَّ العَذارَى يَرتمينَ بلحمِها … وشَحمٍ كهُدَّابِ الدِّمَقسِ المفتَّلِ (١)\n(Bakirələr onun əti ilə dobqa-dobqa atışmağa başladılar, burulmuş ipək saçaqlarına bənzər piy ilə).\nVə deyilir: ağac yarpaqlarından olan əd-hədəb – gözü (tikişi və ya qulpcuğu) olmayan şeydir. وهَيْدَبُ السَّحابِ (Buludun heydəbi) – yağış yağdırmaq istədikdə ondan sallanan hissələrdir, elə bil saplardır. Və kişiyə أهْدب (əhdəb) deyilir – göz kirpikləri çox olan. Və هَدَبَ التَّمرةَ (Xurmanı dərdi), onu yığdıqda هَدْبًا (hədb) deyilir, sanki ağacın saçağını almış kimi.\nBu söz məcazi olaraq işlədilir və deyilir: هَدَب النَّاقة (Dəvəni sağdıqda).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

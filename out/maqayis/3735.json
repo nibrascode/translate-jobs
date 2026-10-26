@@ -1,0 +1,17 @@
+{
+ "i": 3735,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 271,
+  "page_to": 272
+ },
+ "ar": "الميم والشين أصلٌ صحيح يدلُّ على لِينٍ في الشَّيء وسهولةٍ ولُطف. منه المُشَاش، وهي العظام اللَّيِّنة، يقال مششتها أمُشُّها. قال:\nلَحَا اللّهُ صُعلوكًا إذا جَنّ ليلُهُ … مَضَى في المُشاشِ آلفًا كلَّ مَجزِرِ (٤)\nوالمشاش: الطِّينة اللَّيِّنة تُغرس فيها النخلة. قال:\n* راسِي العُروقِ في المُشاشِ البجباجْ (١) *\nوهو طيِّب المُشاش، إذا كان بَرًّا طيّبا. ويقولون: فلانٌ يُمشُّ مالَ فلانٍ، إذا أخَذَ منه الشَّيءَ بعد الشَّيء. ومنه مَشُّ اليد، إذا مُسِحت بمنديلٍ، لا يكون ذلك إلاّ بسهولة ولين. والمَشُوش، هو المِنديل. ومَشَشت النّاقة: حلَبتُها وتركتُ في الضَّرعِ بعضَ اللَّبن. ومَشَّ الشَّيءَ: دافه في ماءٍ حتَّى يلينَ ويذوب. ويقال:\nمات ابنٌ لأمِّ الهَيثَم (٢) فسألناها فقالت: «ما زلت أَمُشُّ له الأشْفِيَة (٣) ألدُّه تارةً وأُوجِره * أخرى، فأبى قضاءَ اللّه تعالى». ومن الباب المَشَش: كلُّ ما شخَص من عظمٍ وكان له حَجْم، ويكون ذلك من عيبٍ يُصِيب العَظْم.",
+ "az": "«مش» (məşə) — Mim və şin hərfləri bir şeydə yumşaqlığa, asanlığa və lətafətə dəlalət edən səhih bir əslidir. Bunlardan biri yumşaq sümüklər olan «المُشَاش» (əl-muşəş)-dir, deyilir: «مششتها أمُشُّ» (məşəsthə əmuşşü). Şair demişdir: \nلَحَا اللّهُ صُعلوكًا إذا جَنّ ليلُهُ … مَضَى في المُشاشِ آلفًا كلَّ مَجزِرِ \n(Gecə düşəndə hər kəsşi laqeyd yanaşan, səfillik edən, hər qəssabxananı adət edərək yumşaq sümükləri yeyən səfili Allah lənətləsin!) (٤). «والمشاش» (əl-muşəş) — xurma ağacının əkildiyi yumşaq torpaq. Şair demişdir: \n* راسِي العُروقِ في المُشاشِ البجباجْ * \n(Kökü yumşaq və bol sulu torpaqda dərinə işləmiş) (١). Əgər yaxşı yerdədirsə, «هو طيِّب المُشاش» (huvə tayyibül-muşəş) deyilir. Deyirlər: «فلانٌ يُمشُّ مالَ فلانٍ» (fülânün yumüşşu mələ fülənin) — filankəs filankəsin malını az-az alır. Və bundandır «مَشُّ اليد» (məşşül-yəd) — əlin dəsmalla silinməsi, bu da yalnız asanlıqla və yumşaqlıqla olur. «والمَشُوش» (əl-məşûş) — dəsmaldır. «ومَشَشت النّاقة» (məşəttün-nəqə) — dəvəni sağdım və məməcisində bir az süd saxladım. «ومَشَّ الشَّيءَ» (məşşəş-şəy'ə) — yumşalsın və ərisin deyə onu suda həll etdi. Deyilir: Ummül-Heysəmin oğlu vəfat etdi (٢), biz ondan soruşduqda dedi: «ما زلت أَمُشُّ له الأشْفِيَة ألدُّه تارةً وأُوجِره أخرى، فأبى قضاءَ اللّه تعالى» (Mən onun üçün dərmanları suda əzməkdən əl çəkmədim, bir dəfə içirdir, digər dəfə boğazından tökürdüm, lakin o, Uca Allahın hökmünə təslim oldu, dəyişmədi) (٣). Bu əsldən olan «المَشَش» (əl-məşəş) — sümükdən çıxan və həcmi olan, sümüyə gələn qüsurdan qaynaqlanan hər bir qabarıqlıqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

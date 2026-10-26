@@ -1,0 +1,17 @@
+{
+ "i": 4301,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 26,
+  "page_to": 26
+ },
+ "ar": "الهاء والياء والميم كلمةٌ تدلُّ على عطَشٍ شديد. فالهَيَمان:\nالعَطَش. والهِيمُ: الإبل العِطاش، والهِيمُ: الرِّمال التى تَبْتَلِع الماء. والهُيام:\nداءٌ يأخذُ الإبلَ عند عطَشِها فتَهِيم فى الأرض لا تَرعَوِى. وبه سمِّى العاشق الهَيْمَانَ، كأنَّه جُنَّ من العِشْق فذَهَب على وجهه [على] غير قصد. والهَيْماء:\nالمَفَازةُ لا ماءَ بها.",
+ "az": "[هيم] (Heym): Hə, ya və mim şiddətli susuzluğa dəlalət edən bir sözdür. الهَيَمان (əl-həyaman): susuzluq. والهِيم (əl-him): susamış dəvələr, والهِيم (əl-him): suyu udan qumlar. والهُيام (əl-huvam): dəvələri susuzluq zamanı yaxalayan, onları yer üzündə başıpozuq, heç bir şeyə məhəl qoymadan dolaşdıran bir xəstəlik. Eşqə məptub olan kəsə məhz buna görə الْهَيْمَان (əl-həyman) – eşqdən divanə düşmüş, məqsədsiz şəkildə başıpozuq gəzən deyilmişdir. والهَيْماء (əl-həyma-u): içində suyu olmayan səhra.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

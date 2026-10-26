@@ -1,0 +1,17 @@
+{
+ "i": 4499,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وخم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 95,
+  "page_to": 95
+ },
+ "ar": "الواو والخاء والميم: كلمةٌ واحدة، هى الوَخْمِ: الوَبِىُّ من الشَّئ. واستوخَمْتُ البِلادَ، وبلادٌ وَخِمَةٌ ووخيمة: لا تُوافِق ساكنَها. ورجل وَخِم ووخيم: ثَقيل. والتُّخَمة من هذا، والتاء فى الأصل واو.",
+ "az": "[وخم] (və-xa-mə): Vov, xain və mim hərfləri tək bir sözdür: الوَخْم (əl-vəxm) – zərərli və ağır şey. استوخَمْتُ البِلادَ (istəvxəmtul-biləd) – diyarı ağır (özümə uyğun olmayan) hesab etdim, vəladun vəximun və vəximətun (بلادٌ وَخِمَةٌ ووخيمة) – sakininə uyğun gəlməyən diyar. Raculun vəximun və vəximun (رجل وَخِم ووخيم) – ağır adam. التُّخَمة (ət-tuxməh) – bu köktəndir, ta hərfi əslində vovdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

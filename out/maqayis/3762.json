@@ -1,0 +1,17 @@
+{
+ "i": 3762,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "موص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 285,
+  "page_to": 285
+ },
+ "ar": "الميم والواو والصاد كلمةٌ واحدة، هو المَوْص: غَسْل الثَّوْب.\nيقال مُصْتُه أمُوصُه. والمُوَاصَة: الغُسالة. قال امرؤ القيس:\nبِأَسودَ ملتفِّ الغدائِرِ واردِ … وذي أُشَرٍ تَشُوصُه وتَمُوصُ (٢)",
+ "az": "[موص] (M-v-s): Mim, vau və sad tək bir kəlmədir, o da المَوْص (əl-movs) — paltarı yumaqdır.\nDeyilir: مُصْتُه أمُوصُه (mustuhü əmuSuhu). والمُوَاصَة (əl-muvasə): yumaq suyu. İmrül-Qeys demişdir:\nبِأَسودَ ملتفِّ الغدائِرِ واردِ … وذي أُشَرٍ تَشُوصُه وتَمُوصُ (٢)\n(Qara, hörıükləri bükülmüş, suya gedən... və dişləri səliqəli olan, sənin onu yuyub təmizlədiyin... ilə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

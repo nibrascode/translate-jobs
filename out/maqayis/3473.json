@@ -1,0 +1,17 @@
+{
+ "i": 3473,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كثف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 161,
+  "page_to": 161
+ },
+ "ar": "الكاف والثاء والفاء أصلٌ صحيح يدلُّ على تراكُبِ شيء على شيء وتجمّع. يقال: هذا شيءٌ كثيف. وسحابٌ كثيف * وشجر كثيف.",
+ "az": "[كثف] (Kəf, Sə, Fə) düzgün bir kökdür, bir şeyin digərinin üzərinə yığılmasına və toplanmasına dəlalət edir. Deyilir ki, bu, «كثيف» (sıx, qatı) bir şeydir. Həmçinin «سحاب كثيف» (sıx bulud) və «شجر كثيف» (sıx ağaclar) ifadələri işlədilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.344Z"
+}

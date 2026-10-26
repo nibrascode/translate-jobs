@@ -1,0 +1,17 @@
+{
+ "i": 4452,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وبد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 81,
+  "page_to": 81
+ },
+ "ar": "الواو والباء والدال كلمةٌ تدل على سُوءِ حال. يقال: أرضٌ وَبِدةٌ، إذا ساءت حالُ أهلِها. ويقولون: الوَبْد: نُقرةٌ فى صخرة. ورجُلٌ مُسْتَوْبِدُ المكان (١): جاهلٌ به.",
+ "az": "[وبد] (və-ba-dal) pis vəziyyətə dəlalət edən sözdür. Deyilir: «أرضٌ وَبِدةٌ» (vəbid torpaq) — sakinlərin durumu pisləşdiyi zaman. Deyirlər: «الوَبْد» (vəbd) — qayadakı kiçik çuxur. «رجُلٌ مُسْتَوْبِدُ المكان» (١) (məkanı bilməyən, yad olan adam) — oraya bələd olmayan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

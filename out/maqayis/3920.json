@@ -1,0 +1,17 @@
+{
+ "i": 3920,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مقه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 341,
+  "page_to": 341
+ },
+ "ar": "الميم والقاف والهاء كلمةٌ تدل على لون. يقولون: المَقَهُ: بياضٌ في زرقة. وامرأة مَقهاءُ وشرَابٌ أمْقَهُ. قال:\nإذا خفَقَت بأمْقَه صَحصحانٍ … رءُوسُ القَوم والتَزَموا الرِّحالا (٢)",
+ "az": "[مقه] \nMim, قاف (qaf) və hə — rəngə dəlalət edən kəlmədir. Deyirlər: المَقَهُ (əl-maqahu) — mavilik qarışıq ağlıqdır. Qadına مَقهاءُ (maqhaə) və içkiyə أمْقَهُ (amquh) deyilir. Şair demişdir:\nإذا خفَقَت بأمْقَه صَحصحانٍ … رءُوسُ القَوم والتَزَموا الرِّحالا (٢)\n(Geniş səhrada mavi-ağrılı [gözlərlə] adamların başları yırğalandığı və onlar yüklərinə sarıldıqları zaman)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

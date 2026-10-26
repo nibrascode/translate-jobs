@@ -1,0 +1,17 @@
+{
+ "i": 3964,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 357,
+  "page_to": 357
+ },
+ "ar": "النون والطاء. يقولون النّطانِط من الرِّجال: الطِّوال، الواحد نَطْنَاط. ونطنطت الشَّيء: مددتُه.",
+ "az": "[نط] Nun və ta. Deyirlər ki, kişilərdən «النّطانِط» — hündürboylu olanlardır, təkliyi «نَطْنَاط»-dır. «نطنطت الشَّيء» — mən o şeyi uzatdım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

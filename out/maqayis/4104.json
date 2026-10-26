@@ -1,0 +1,17 @@
+{
+ "i": 4104,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نرب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 414,
+  "page_to": 414
+ },
+ "ar": "النون والراء والباء لا يأتلفان، وقد يكون بينهما دخيل.\nفمن ذلك النَّيرَب: النَّميمة، وهو نَيرَبٌ أي نَمَّام، كأنّه ذو نَيرب. واللّه أعلم بالصواب.",
+ "az": "[نرب] النون والراء والباء (n, r, b) — bir-biri ilə uzlaşmır, lakin aralarında daxil olan (başqa kökdən gələn) bir şey ola bilər. Bunlardan biri «النَّيَرْب» (ən-nəyərb) — dedi-qodu, sözgəzdirmədir. «هو نَيرب» (huvə nəyərb) — yəni sözgəzdirən, dedi-qoduçudur, elə bil o, sözgəzdirmək xislətlidir. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

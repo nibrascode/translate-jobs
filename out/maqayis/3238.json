@@ -1,0 +1,17 @@
+{
+ "i": 3238,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قيل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 44,
+  "page_to": 45
+ },
+ "ar": "القاف والياء واللام أصْلُ كَلِمِهِ الواو، وإنّما كُتِب هاهنا لِلَّفْظ. فالقَيْل: الملكُ من مُلوكِ حِمْيرَ، وجَمْعُه أَقْيَال. ومَنْ جَمَعه على الأَقْوال فواحدهم قَيِّل بتشديد الياء. والقيلُ والقَال، قال ابن السِّكِّيت: هما اسمانِ لا مصدران. واقْتَالَ عَلَى فُلانٍ (٤)؛ إذا تَحكَّم. ومعناه عندنا أنَّه يُشبَّه بالملك الذى هو قَيْلٌ. قال:\nوماءُ سَماءِ كانَ غَيْرَ مَحَمَّةٍ … وما اقتالَ فى حُكْمٍ عليَّ طبيبُ (١)\nومما شَذَّ عن هذا الأصل القَيْل: شُرْبُ نصفِ النَّهار. والقَائِلة: نومُ نِصف النّهار. وقولهم: تقيَّلَ فلانٌ أباه: أشْبَهَه، إنّما الأصل تَقَيَّضَ، واللام مُبدَلةٌ من ضاد، ومعناه أنَّهما كانا فى الشَّبَه قَيْضَيْنِ.",
+ "az": "[قيل] (qil). Qaf, ya və lam hərfləri sözün əsasının vav olduğuna dəlalət edir və yalnız tələffüzə görə burada yazılmışdır. فَالقَيْل (əl-qeyl): Həmirə krallarından bir kral, cəmi isə أَقْيَال (əqyal) gəlir. Kim onu أَقْوَال (əqval) formasında cəmləşdiribsə, onda onların tək forması ya hərfinin şidşəti (təşdid) ilə قَيِّل (qəyyil) olar. وَالقَيْلُ وَالقَال (əl-qeylu vəl-qal): İbn əs-Sikkit demişdir ki, bunlar məsdər deyil, iki isimdir. وَاْقْتَالَ عَلَى فُلَانٍ (vaqtalə alə fulan) — (٤) başqasının üzərinə hakim kəsildikdə (hökmranlıq etdikdə) işlədilir. Bizə görə bunun mənası odur ki, o, qeyl olan krala bənzədilir. O (şair) demişdir: \n وماءُ سَماءِ كانَ غَيْرَ مَحَمَّةٍ … وما اقتالَ فى حُكْمٍ عليَّ طبيبُ (١)\n(Səma suyu deyilmişdir ki, heç bir xəstəliyi yox idi... Və heç bir həkim mənim barəmdə hökmdarlıq etmədi). \n\nVə bu əsasdan istisna olan (şaz) söz: القَيْل (əl-qeyl) — günortada su içmək. وَالقَائِلة (əl-qailə) — günorta yuxusu. Onların «تَقَيَّلَ فُلَانٌ أَبَاهُ (təqəyyələ fulan əbah)» sözü — ona oxşadı, deməkdir; əslində isə təqəyyəzə (تَقَيَّضَ) kəlməsidir, lam hərfi isə dad hərfi əvəzinə əvəzlənmişdir və mənası odur ki, onlar oxşarlıqda iki qeyz (قَيْضَيْنِ) idilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.324Z"
+}

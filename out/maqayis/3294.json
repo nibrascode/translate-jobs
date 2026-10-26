@@ -1,0 +1,17 @@
+{
+ "i": 3294,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قرق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 75,
+  "page_to": 75
+ },
+ "ar": "القاف والراء والقاف كلمةٌ واحدة. يقولون: القَرِق: القاع الأملس. قال:\nكأنَّ أيديهنَّ بالقاعِ القَرِقْ … أيدى جوَارٍ يتعاطَيْنَ الوَرِقْ (٢)",
+ "az": "[قرق] \nقاف, راء və قاف – tək bir kəlmədir. Deyirlər ki, «القَرِق» (əl-qəriq) – hamar düzənlikdir. (Şair) demişdir:\nكأنَّ أيديهنَّ بالقاعِ القَرِقْ … أيدى جوَارٍ يتعاطَيْنَ الوَرِقْ (٢)\n(Sanki onların əlləri hamar düzənlikdə gümüş alıb-verən gənc qızların əlləri kimidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:35:15.763Z"
+}

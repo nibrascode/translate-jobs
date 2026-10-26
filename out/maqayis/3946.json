@@ -1,0 +1,17 @@
+{
+ "i": 3946,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ملع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 351,
+  "page_to": 351
+ },
+ "ar": "الميم واللام والعين أُصَيْلٌ يدلُّ على سرعةٍ وخِفّةٍ. ومَلَعْت النّاقةُ في سَيرها وناقةٌ مَيْلَع فَيْعَلٌ منه. والمَلْع: السُّرْعة في المرور والاختطاف.\nومن الباب المَلِيع: الأرضُ لا نباتَ بها.",
+ "az": "«ملع» — الميم واللام والعين (mim, lam və ayn) sürətə və yüngüllüyə dəlalət edən kiçik bir əsldir. «ملعَت النّاقة في سيرها» — dəvə gedişində sürətli oldu; «ناقة ميلع» — feyəl vəznində bundan alınmadır. «الملْع» — keçib getməkdə və qapıb-qaçmaqda sürət.\nBu babdandır: «المَلِيع» — bitkisi olmayan yer.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:03.921Z"
+}

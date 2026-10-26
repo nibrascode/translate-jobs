@@ -1,0 +1,17 @@
+{
+ "i": 3842,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 312,
+  "page_to": 312
+ },
+ "ar": "الميم والراء والطاء أصلٌ صحيح يدلُّ على تحاتِّ الشيءِ أو حَتِّه.\nوتمرَّط الشَّعر: تحاتَّ، ومَرَطتُه. والأمرط من السِّهام: الساقط قُذَذُه. والأمْرَط:\nالفرس لا شَعرَ على أشاعِرِه. والمُرَيْطاء: ما بين الصَّدر إلى العانة من البَطْن، وهي أقَلُّ من ذلك شَعراً. والمَرَطَى: سُرعة العَدْو، كأنَّه من سُرعتِه يتمرَّط عنه شَعرُه. وناقة مِمْرَطةٌ (٢): سريعة.",
+ "az": "«مرط» (mim, ra və ta) — bir şeyin tökülməsinə və ya qopmasına dəlalət edən səhih kökdür. وتمرَّط الشَّعر (təmarrətəş-şəhru) — tük töküldü, mərətutuhu (مَرَطْتُه) mən onu qopardım. والأمرط (əl-amrat) — lələkləri tökülmüş ox. والأمْرَط (əl-amrat) — dərisinin üzərində tükü olmayan at. والمُرَيْطاء (mürayta) — döşdən qasığa qədər olan qarın nahiyəsidir, burada tüklər daha az olur. والمَرَطَى (marata) — sürətli qaçış, elə bil sürətindən tükləri üzərindən qopur. وناقة مِمْرَطةٌ (mimratun naqə) — sürətli dəvə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

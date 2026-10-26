@@ -1,0 +1,17 @@
+{
+ "i": 3036,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فيح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 463,
+  "page_to": 463
+ },
+ "ar": "الفاء والياء والحاء كلمةٌ واحدة. فاح يفيح، إذا ثار. يقال ذلك فى الرِّيح وغيرها. و\nفى الحديث: «الحمَّى من فَيح جهنم (٢)». ويقال أصلُه الواو، وقد مضى.",
+ "az": "[فيح] \nالفاء والياء والحاء كلمةٌ واحدة. فاح يفيح، إذا ثار. يقال ذلك فى الرِّيح وغيرها. و\nفى الحديث: «الحمَّى من فَيح جهنم (٢)». ويقال أصلُه الواو، وقد مضى.\n\nFə, ya və hə hərfləri tək bir kəlmədir. «فاح يفيح» — qalxdı, coşdu. Bu, külək və digərləri haqqında deyilir. Və hədisdə: «الحمَّى من فَيح جهنم (2)» — mənaca tərcümə: Qızdırma cəhənnəmin istisindəndir. Deyilir ki, onun əsli vaf hərfidir və bu, artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:34.476Z"
+}

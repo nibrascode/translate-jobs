@@ -1,0 +1,17 @@
+{
+ "i": 4571,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وضأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 119,
+  "page_to": 119
+ },
+ "ar": "الواو والضاد والهمزة: كلمةٌ واحدةٌ تدلُّ على حُسنٍ ونَظافة.\nوَضُؤَ (١) الرّجُلُ يَوْضَؤُ، وهو وضئٌ. والوَضُوء: الماء الذى يُتَوَضَّأ به.\nوالوُضوء فِعلُك إذا توضأْت، من الوَضَاءَة، وهى الحُسنُ والنَّظافة، كأنَّ الغاسِل وجهَه وضَّأَه، أى حسَّنَه.",
+ "az": "[وضأ] (Vəzə): الواو والصاد والهمزة (vav, sad və həmzə): gözəlliyə və təmizliyə dəlalət edən tək kəlmədir. وَضُؤَ (vəzuə) kişi يَوْضَؤُ (yəvzuu), o, وضئٌ (vəziun) [gözəl və təmizdir]. الوَضُوء (əl-vəzu): dəstəmaz alınan su. Vəhudu (الوُضوء) — dəstəmaz aldığın zamankı əməlin; bu da gözəllik və təmizlik mənasını verən الوَضَاءَة (əl-vəzaətdən) götürülüb, sanki üzünü yuyan kəs onu gözəlləşdirmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

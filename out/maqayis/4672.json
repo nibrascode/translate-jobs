@@ -1,0 +1,17 @@
+{
+ "i": 4672,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وهق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 148,
+  "page_to": 149
+ },
+ "ar": "الواو والهاء والقاف: كلمتان. إحداهما الوَهَق، وأظنُّه فارسيًّا معرَّباً.\nوالأخرى عربيّة صحيحة، وهى المُوَاهَقة: مَدُّ الأعناقِ فى السَّير. ويقال:\nتَوَاهَقَت الرِّكاب. أمّا قولهم تَوَهَّقَ الحَصَى، إذا اشتدَّ حَرُّه، فهو من باب الإبدال، إنَّما هو تَوهَّج. وأنشد:\n* حتَّى إذا حَامِى الحَصَى تَوهَّقا (١) *",
+ "az": "[وهق] الواو والهاء والقاف (v-h-q): iki sözdür. Biri الوَهَق (əl-vəhəq) — ipdir, zənnimcə fars dilindən ərəbiləşdirilmişdir. Digəri isə səhih ərəb sözüdür, o da المُوَاهَقة (əl-muvəhəqə): gedişdə boyunları uzatmaqdır. Deyilir: تَوَاهَقَت الرِّكاب (Dəvə dəstələri boyunlarını uzatdılar). Amma onların تَوَهَّقَ الحَصَى (çınqıl daşları qızdı) sözünə gəldikdə, bu, hərflərin əvəzlənməsi qapısındandır, əslində isə تَوهَّج (təvəhhəcə — alovlandı) olmalıdır. Şair şeir söyləmişdir: * حتَّى إذا حَامِى الحَصَى تَوهَّقا (1) * (Hətta çınqılların qızmarı od saçanadək).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

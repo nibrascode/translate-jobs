@@ -1,0 +1,17 @@
+{
+ "i": 3972,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 360,
+  "page_to": 360
+ },
+ "ar": "النون والهاء والباء أصلٌ صحيح يدلُّ على توزع شيءٍ في اختلاسٍ لا عن مساواة. منه انتهابُ المالِ وغيرِه. والنُّهْبى: اسم ما اتُهِب. ومنه المُناهَبة: أنْ يتبارى الفَرَسانِ في حُضْرِهما. يقال: ناهب الفَرسُ [الفرسَ (٥)]، كأنهما يتناهبان الحُضْر والسَّبَق ويقال نَهَبَ النّاسُ فلاناً بكلامهم: تناوَلُوه به والقياسُ واحد.",
+ "az": "[نهب] (NUN, HƏ və BƏ) - malın və ya başqa bir şeyin bərabərlik olmadan qarət edilərək paylanmasına dəlalət edən səhih bir kökdür. Bunlardan biri malın və başqasının qarət olunmasıdır («انتهاب»). «النُّهْبى» - qarət olunan şeyin adıdır. Və həmçinin «المُناهَبة» - iki atın qaçışda bir-biri ilə yarışmasıdır. Deyilir: «ناهب الفَرسُ [الفرسَ (٥)]» - sanki onların hər ikisi sürəti və ötüşməyi bir-birindən qoparıb alırlar. Deyilir ki, «نَهَبَ النّاسُ فلاناً بكلامهم» - insanlar filankəsi sözləri ilə tutdular, hücum etdilər. Ölçü (qiyas) birdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

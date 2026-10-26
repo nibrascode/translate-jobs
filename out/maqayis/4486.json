@@ -1,0 +1,17 @@
+{
+ "i": 4486,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وحد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 90,
+  "page_to": 91
+ },
+ "ar": "الواو والحاء والدال: أصلٌ واحد يدلُّ على الانفراد. من ذلك الوَحْدَة (٢). وهو وَاحدُ * قبيلتِه، إذا لم يكنْ فيهم مثلُه. قال:\nيا واحدَ العُرْبِ الذى … ما فى الأنامِ له نَظِير (٣)\nولقيتُ القَومَ مَوحَدَ مَوْحَدَ. ولقيتُه وَحْدَه. ولا يُضاف (٤) إلاَّ فى قولهم: نَسيجُ\nوَحْدِه، وعُيَيْرُ وَحِده، وجُحَيْش وَحده، ونَسيجُ وحدِه، أى لا يُنسَج غيره لنفاسته، وهو مَثَل. والواحد: المنفرد. وقول عَبِيد:\nواللّهِ لو مِتُّ ما ضَرَّنى … وما أنا إن عشت فى واحِدَه (١)\nيريد: ما أنا إن عِشت فى خَلّة واحدة تدوم، لأنه لا بدَّ لكلِّ شئ من انقضاء.",
+ "az": "[وحد] الواو والحاء والدال (və, ha və dal) — təkliyə dəlalət edən tək bir əsasdır. Bunlardan biri də الْوَحْدَةُ (təklik)dir. O, öz qəbiləsinin وَاحِد (vahid, tək) adamıdır, əgər onların arasında onun kimi biri yoxdursa. Şair demişdir: يَا وَاحِدَ الْعُرْبِ الَّذِي … مَا فِي الْأَنَامِ له نَظِيرُ (Ey ərəblərin tək insanı ki, xalq arasında onun bənzəri yoxdur). وَلَقِيتُ الْقَوْمَ مَوْحَدَ مَوْحَدَ (Qövm ilə tək-tək qarşılaşdım). وَلَقِيتُهُ وَحْدَهُ (Onunla tək halda qarşılaşdım). O, ancaq bu ifadələrdə izafət olunur: نَسِيجُ وَحْدِهِ (öz zamanının tək toxunmuşu), عُيَيْرُ وَحْدِهِ (tək eşşəyi), جُحَيْشُ وَحْدِهِ (tək kiçik uzunqulağı), نَسِيجُ وَحْدِهِ — yəni dəyərli olduğundan başqası onun kimi toxunmur, bu da bir məsəldir. الْوَاحِدُ (vahid) — tək olan. Əbidin bu sözü: وَاللَّهِ لَوْ مِتُّ مَا ضَرَّنِي … وَمَا أَنَا إِنْ عِشْتُ فِي وَاحِدَةٍ (١) (And olsun Allaha, əgər ölsəydim bu mənə zərər verməzdi... Və mən əgər tək bir halda yaşasaydım belə) — yəni mən əgər daimi olan tək bir xislətdə yaşamasaydım (fərq etməzdi), çünki hər bir şeyin sona çatması labüddür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

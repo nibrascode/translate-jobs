@@ -1,0 +1,17 @@
+{
+ "i": 4235,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 476,
+  "page_to": 476
+ },
+ "ar": "النون والكاف والراء أصلٌ صحيح يدلُّ على خلاف المعرفة التي يَسكُن إليها القَلب. ونَكِرَ الشَّيء وأنكَره: لم يَقْبَلْه قلبُه ولم يعترِفْ به لسانُه: قال:\nوأنكرَتْنِي وما كانَ الَّذِي نَكِرَتْ … مِنَ الحوادثِ إلاَّ الشَّيبَ والصَّلَعا (٣)\nوالباب كلُّه راجعٌ إلى هذا. فالنُّكْر: الدَّهْي. والنَّكْراء: الأمر الصعب الشَّديد. ونَكُرَ الأمرُ نَكَارةً. والإنكار: خِلاف الاعتراف. والتنكر:\nالتَّنقُّل من حالٍ تَسُرُّ (٤) إلى أخرى تُكْرَه. ويقولون لما يخرج من الحُوَلاءِ (٥) [من (٦)] دمٍ وما أشبهه: نَكِرَة.",
+ "az": "[نكر] (inkar etmək, tanımamaq) Nun, kaf və ra qəlbin rahat olduğu tanıdışlığın ziddini göstərən səhih bir əsasdır. Bir şeyi نَكِرَ وأنكَره (tanımadı və inkar etdi): qəlbi onu qəbul etmədi və dili onu etiraf etmədi. Şair demişdir: Və məni inkar etdi, və hadisələrdən inkar etdiyi şeydən başqa ağarma və keçəllikdən başqa bir şey yox idi (٣). Və bütün bu fəsil buna qayıdır. النُّكْر (inkar olunan iş): dəhşət. Və النَّكْراء (çətin iş): çətin, ağır iş. Və iş نَكُرَ الأمرُ نَكَارةً (çətin və mürəkkəb oldu). Və الإنكار (inkar): etirafın ziddi. Və التنكر (şəxsiyyət dəyişdirmək, haldan hala düşmək): sevindirən bir haldan (٤) xoşagəlməz başqa bir hala keçmək. Və həvədən (٥) [və ya] qan və ona bənzər şeylərdən çıxan şeyə نَكِرَة (naməlum, yad) deyirlər [(٦)].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

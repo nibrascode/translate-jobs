@@ -1,0 +1,17 @@
+{
+ "i": 3206,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 31,
+  "page_to": 31
+ },
+ "ar": "القاف والنون والدال كلمتانِ زعَمُوا أنهما صحيحتان. قالوا:\nالقَنْد عربىٌّ. يقولون: سَوِيقٌ مَقْنُود ومُقَنَّد. والكلمةُ الأخرى القِنْدأوَة، قالوا:\nهو السيِّئ الخُلْقُ.",
+ "az": "«قند» — قاف، نun və dal hərfləri onların səhih olduğunu iddia etdiyi iki kəlmədir. Dedilər: «القَنْد» (əl-qand) ərəbcədir. Deyirlər: «سَوِيقٌ مَقْنُود ومُقَنَّد» (Məqnud və muqənnəd səviq - şəkər qatılmış un yeməyi). Digər kəlmə isə «القِنْدأوَة» (əl-qindaəh) sözüdür, dedilər: O, xasiyyəti pis olan adamdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:04.973Z"
+}

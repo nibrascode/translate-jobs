@@ -1,0 +1,17 @@
+{
+ "i": 3785,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مأي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 292,
+  "page_to": 292
+ },
+ "ar": "الميم والهمزة والياء كلمةٌ. يقال: المَأْي: النَّميمة والإفساد بين القوم. يقال مأيْتُ بينهم. قال:\n* ومأى بينهم أخُو نُكُراتٍ (٣) *\nوإما المائة فيقولون: أمْأَيْتُ الدّراهِم: جعلتُها مائة.",
+ "az": "[مأي] (mim, həmzə və ya) kəlməsidir. Deyilir: المَأْي (əl-may): dedi-qodu, qeybət və insanlar arasında fitnə-fəsad törətməkdir. Deyilir مأيْتُ بينهم (ma-ytu baynahum). Şair demişdir: * ومأى بينهم أخُو نُكُراتٍ (٣) * (Məkli və hiyləgər qardaş onların arasında fitnə saldı). Yüz (عدد مائة) rəqəminə gəldikdə isə deyirlər: أمْأَيْتُ الدّراهِم (əm-aytud-darahim): dirəmləri yüzə çatdırdım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

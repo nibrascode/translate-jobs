@@ -1,0 +1,17 @@
+{
+ "i": 3975,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 361,
+  "page_to": 362
+ },
+ "ar": "النون والهاء والدال أصلٌ صحيح يدلُّ على إشراف شيءٍ وارتفاعِه. وفرَسٌ نَهْدٌ: مُشْرِفٌ جَسِيم. ونَهَدَ ثَديُ المرأة: أشرَفَ وكَعَب؛ وهي ناهد. ويقولون للزُّبدة الضّخمةِ نَهِيدة.\nومن الباب المناهَدةُ في الحروب، كالمناهَضَة، لأنّ كلاًّ ينْهَد إلى كلّ قالوا:\nغير أنَّ الهوضَ يكون عَنْ قعود (٤)، والنهود كيف كان. ورجلٌ نَهْدٌ: كريمٌ يَنْهَد إلى معالى الأمور. والنّهْداء: رملة كريمة تُنبت كِرامَ البَقْل. ويقال أنْهَدْتُ\nالحوض: ملاته، وهو حوض نهدان. ويقولون - وما أدرى كيف صحّته -: إنّ التّناهد: إخراج كلّ واحد من الرّفقاء نفقة على قدر نفقة صاحبه.",
+ "az": "[نهد] (NUN, HƏ və DAL) - bir şeyin ucalmasına və hündürə qalxmasına dəlalət edən səhih bir kökdür. «فرَسٌ نَهْدٌ» - uca və iri at. «ونَهَدَ ثَديُ المرأة» - qadının döşü qabardı və ucaldı; o, «ناهيد» (qabaran döşlü qadın) adlanır. İri kərə yağına «نَهِيدة» deyirlər. Bu babdandır: Müharibələrdə «المناهَدة» - «المناهَضَة» (hücum edib duruş gətirmək) kimidir, çünki hər biri digərinə tərəf qalxır. Dedilər ki, lakin «الهوض» oturmuş haldan qalxmağa aid olur, «النهود» isə hər necə olursa-olsun (qalxmaqdır). «رجل نَهْدٌ» - uca məqamlara can atan səxavətli kişi. «النّهْداء» - dəyərli bitkilər bitirən dəyərli qumluq sahə. Deyilir ki, «أنْهَدْتُ الحوض» - hovuzu doldurdum, bu, «حوض نهدان» (dolu hovuz) adlanır. Və deyirlər - və mən bunun nə dərəcədə doğru olduğunu bilmirəm: «التّناهد» - yoldaşlardan hər birinin digərinin xərci qədər xərc çıxarmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

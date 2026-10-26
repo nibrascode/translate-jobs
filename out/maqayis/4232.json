@@ -1,0 +1,17 @@
+{
+ "i": 4232,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 475,
+  "page_to": 475
+ },
+ "ar": "النون والكاف والثاء أصلٌ صحيح يدلُّ على نقض شيء.\nونكثَ العهد ينكُثُه نَكْثاً. وانتَكَثَ الشّيء: انتَقَض. وقال قولاً لا نَكِيثَةَ فيه، أي لا خُلْف. ومنه: طَلَب حاجةً ثم انتكثَ لِأُخْرَى، كأنّه نقض عَزْمَه الأوّل. والنِّكْث: أن تُنقَضَ أخلاقُ الأكسية وتُغْزَلَ ثانية، وبها سمِّي الرَّجلُ نِكْثا. والنَّكيثَةُ: خُطَّةٌ صَعبة يَنْكُثُ فيها القَومُ. قال طرفة:\nمَتَى يَكُ أمرٌ للنَّكيثةِ أَشْهَدِ (١)",
+ "az": "[نكث] النون والكاف والثاء (n, k, th) bir şeyin pozulmasına dəlalət edən səhih bir kökdür. «نكثَ العهد ينكُثُه نَكْثاً» – əhdi pozdu. «انتَكَثَ الشّيء» – şey pozuldu. «وقال قولاً لا نَكِيثَةَ فيه» – yəni heç bir ziddiyyəti (pozuntusu) olmayan söz dedi. Həmçinin: bir hacət istəyib sonra başqasına görə əhdi pozdu, sanki əvvəlki əzmini pozdu. «النِّكْث» – köhnə paltarların sökülüb yenidən əyrilməsidir, insan da məhz buna görə «نِكْث» adlandırılmışdır. «النَّكيثَةُ» – qövmün içində əhdi pozduğu çətin bir işdir. Tərfə demişdir: «مَتَى يَكُ أمرٌ للنَّكيثةِ أَشْهَدِ» (Nə zaman çətin bir iş/məsələ olar, mən orada olaram).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:43.035Z"
+}

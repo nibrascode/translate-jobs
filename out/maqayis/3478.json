@@ -1,0 +1,17 @@
+{
+ "i": 3478,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 163,
+  "page_to": 164
+ },
+ "ar": "الكاف والحاء واللام أصلٌ واحد يدلُّ على لونٍ من الألوان. والكَحَلُ: سوادُ هُدْب العَين خِلقةً. يقال كَحِلَتْ عينُه كَحَلاً، وهي كَحِيل، والرّجُل أكْحَلُ. ويقال للْمُلْمُول الذي يُكتحل به: المِكْحال.\nومما شذَّ عن هذا الباب: الكُحَيْل: الخضخاض الذي يُهْنأ به، بني على التَّصغير. والمِكْحَالان: عظما الوَرِكين من الفَرَس، ويقال بل هما عظْما الذِّراعين.\nوالأكْحَل: عرقٌ. وكَحْلُ: اسمٌ للسّنَة المجدِبة. ومن أمثالهم: «باءت عَرارِ\nبكَحْل»، إذا قُتِل القاتلُ بمقتولِه. ويقال: كانتا بقرتَينِ قتلت إحداهما الأُخرى فقُتِلَتْ بها.",
+ "az": "[كحل] (Kəf, Ha, Lam) rənglərdən birinə dəlalət edən tək bir kökdür. «الكحل» (göz qapaqlarının təbii olaraq qara olması). Deyilir ki, «كحلت عينه كحلا» (gözü sürməli oldu), o «كحيل»-dir, kişi isə «أكحل»-dir. Sürmə çəkilən alətə «المكحال» deyilir. Bu babdan kənar olanlar: «الكحيل» (sürtülən boya), kiçiltmə formasında qurulmuşdur. «المكحالان» (atın omba sümükləri, bəziləri isə qol sümükləri olduğunu deyir). «الأكحل» (bir damar). «كحل» (quraqlıq ili üçün ad). Məsəllərində deyilir: «باءت عرار بكحل» (Ərar Kuhl ilə əvəz olundu), yəni qatil öldürülənin əvəzinə öldürüldükdə. Deyilir ki, bunlar iki inək idi, biri digərini öldürdü, o da onun əvəzinə öldürüldü.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

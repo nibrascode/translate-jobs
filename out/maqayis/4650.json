@@ -1,0 +1,17 @@
+{
+ "i": 4650,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 143,
+  "page_to": 143
+ },
+ "ar": "الواو واللام والذال. من غرائب ابن دريد (٦): الوَلْذ:\nسرعةٌ فى المَشْىِ والحرَكة، ووَلَذ يَلِذ.",
+ "az": "«ولذ» (vələz). Vəv, lam və zəl. İbn Düridə məxsus qəriblərdəndir (٦): اَلْوَلْذُ (vəlz) — gedişdə və hərəkətdə sürətdir, وَلَذَ يَلِذُ (vələzə yəliżu) (dedi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

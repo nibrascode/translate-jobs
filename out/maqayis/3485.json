@@ -1,0 +1,17 @@
+{
+ "i": 3485,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 166,
+  "page_to": 166
+ },
+ "ar": "الكاف والدال والنون أصلٌ صحيح يدلُّ على توطئةٍ في شيءٍ متجمِّع. من ذلك الكُدُون: شيءٌ توطِّئ به المرأةُ لنفسها في الهَوْدَج.\nثم يقال امرأةٌ كَدِنةٌ: ذاتُ لحمٍ كثير. وبعير ذو كُدْنةٍ، إذا عظُمَ سَنامُه.\nواشتقاق الكَوْدَن (١) من هذا، لأنَّه يكون ذا لحمٍ وغِلَظ جِسم. يقولون:\nما أبْيَنَ الكَدَانة فيه، أي الهُجْنة. والكَدَنُ: ما يبقى في أسفل الماء من الطِّين المتلجِّن. وهو من هذا القياس. فأمّا الكِدْيَوْن فيقال إنّه دُقاق التُّراب والسِّرجينِ يُجمعانِ ويُجلَى به الدُّروع. قال النابغة:\nعُلِينَ بِكِدْيَوْنٍ وأُبْطِنَّ كُرَّةً … فهُنَّ إضاءٌ ضافياتُ الغلائل (٢)",
+ "az": "[كدن] (Kəf, Dal, Nun) toplanmış bir şeydə yerləşməyə dəlalət edən düzgün bir kökdür. Buradan «الكُدُون» (qadının kəvəcdə özü üçün düzəltdiyi yer) gəlir. Sonra «امرأة كدنة» (çox ətli qadın) deyilir. «بعير ذو كدنة» (hörgücü böyük olan dəvə). «الكَوْدن» (١) (yük atı) sözünün kökü də buradan gəlir, çünki o, ətli və iri cüssəli olur. Deyirlər ki, «ما أبين الكدانة فيه» (onda kobudluq necə də aydındır). «الكَدَنُ» (suyun dibində qalan palçıq). Bu da həmin ölçüdəndir. «الكِدْيَوْن»-a gəlincə, deyilir ki, bu, zirehləri cilalamaq üçün yığılan xırda torpaq və peyindir. Nəbigə demişdir: «علين بكديون وأبطن كرة ... فهن إضاء ضافيات الغلائل» (٢) (Onlar kidyon ilə cilalanmış və içləri kura ilə örtülmüşdür ... onlar parlaq və geniş geyimlidirlər).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

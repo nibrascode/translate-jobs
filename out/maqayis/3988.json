@@ -1,0 +1,17 @@
+{
+ "i": 3988,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 367,
+  "page_to": 367
+ },
+ "ar": "النون والواو والباء كلمة واحدة تدلّ على اعتياد مكان (١) ورجوع إليه. وناب ينوب، وانتاب ينتاب. ويقال إنّ النّوب: النّحل، قالوا:\nوسمّيت به لرعيها ونويها إلى مكانها. وقد قيل إنّه جمع نائب. وقول أبي ذؤيب:\nأرقت لذكره من غير نوب … كما يهتاج موشىّ قشيب (٢)",
+ "az": "[نوب] (nub) - nun, vav və ba bir kəlmə olub, bir məkana adət etməyə (1) və ora qayıtmağa dəlalət edir. وناب ينوب (nəbə yənubu) və انتاب ينتاب (intəbə yəntubu). Deyilir ki, النّوب (ən-nub) — arılardır, demişlər: Onlar bu adla otlaqlarına və öz məkanlarına qayıtdıqlarına görə adlandırılmışlar. Həmçinin deyilmişdir ki, o, نائب (nəib) sözünün cəmidir. Əbu Züeybin sözü: أرقت لذكره من غير نوب … كما يهتاج موشىّ قشيب (O(nun) xatirinə heç bir səbəb olmadan yuxusuz qaldım... necə ki, təzə naxışlı parça həyəcanlandırır) (2).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

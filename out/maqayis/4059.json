@@ -1,0 +1,17 @@
+{
+ "i": 4059,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 393,
+  "page_to": 393
+ },
+ "ar": "النون والجيم والزاء أصلٌ صحيح يدلُّ على كمالِ شيءٍ في عَجلةٍ من غير بُطْء. يقال: نَجَزَ الوعدُ يَنْجُز (٣). وأنجزْتُه أنا: أعجلتُه. وأعطيته ما عِندي حتَّى نَجَزَ آخِرُه، أي وصل إليه آخرُه. وبِعْهُ ناجزاً بناجز، كقولهم يداً بيد: تعجيلاً بتعجيل. والمناجَزَة في الحرب: أن يتبارَزَ الفارسان، أي يُعجِّلانِ القتالَ لا يتوقفان (٤).",
+ "az": "«نجز» (n-j-z): nun, cim və zay hərfidir, gecikmədən tələsik bir şeyin kamil olmasına dəlalət edən səhih əsasdır. Deyilir: «نَجَزَ الوعدُ يَنْجُزُ» (vəd yerinə yetdi, yetəcək) (٣). «وأنجزْتُه أنا» (Mən onu yerinə yetirdim) – yəni onu tələdirdim. Ona məndə olanı sonu «نَجَزَ» (nəcəzə) olana qədər verdim, yəni sonu ona yetişdi. «وبِعْهُ ناجزاً بناجز» (Onu nağd olaraq nağd pula sat) – necə ki, «əldən-ələ» deyirlər: təcili olaraq təcili ilə. Müharibədə «المناجَزَة» (əl-munacəzə) – iki süvarinin təkbətək döyüşməsi, yəni döyüşü ləngitməyib tələdirmələridir (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:41.627Z"
+}

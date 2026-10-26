@@ -1,0 +1,17 @@
+{
+ "i": 4394,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هقع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 58,
+  "page_to": 59
+ },
+ "ar": "الهاء والقاف والعين. فيه ثلاث كلمات: الهَقْعَة: نجمٌ من منازل القَمَر.\nوالكلمة الأخرى الهَقْعة: دائرة تكون بزَور الفرَس. قال:\nوقد يَركبُ المهقوعَ مَنْ لَسْتَ مثلَه … وقد يركب المهقوع زَوجُ حَصانِ (١)\nوالكلمة الأخرى: اهتُقِعَ لونُه، مثل امتُقِعَ.",
+ "az": "[هقع] (hə-qə-ə): Hə, qaf və eyn. Burada üç kəlmə vardır: «الهَقْعَة» (əl-həqə ay): ay mənzillərindən bir ulduz. Digər kəlmə «الهَقْعة» (əl-həqə): atın döşündəki dairə. Şair demişdir: وقد يَركبُ المهقوعَ مَنْ لَسْتَ مثلَه … وقد يركب المهقوع زَوجُ حَصانِ (Sənin kimi olmayan kəs başıbəlalı atı minər... Və əsilzadə qadının əri də başıbəlalı atı minər). Digər kəlmə: «اهتُقِعَ لونُه» (ihtuqiə lônuhu) — «امتُقِعَ» (imtuqiə) kimi rəngi saraldı, dəyişdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

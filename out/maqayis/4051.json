@@ -1,0 +1,17 @@
+{
+ "i": 4051,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نثر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 389,
+  "page_to": 390
+ },
+ "ar": "النون والثاء والراء أصلٌ صحيح يدلُّ على إلْقاء شيءٍ متفرِّق.\nونَثَر الدّراهِمَ وغيرَها. ونَثَرت الشّاةُ: طرحت من أنْفِها (٤) الأذَى. وسمِّي الأنْف النَّثْرةَ من هذا، لأنه يَنْثُر ما فيه من الأذى. وجاء\nفي الحديث: «إذا توضَّأْت فانْتَثِرْ» أو «فانْثِرْ (٥)». معناه اجعَل الماءَ في نَثْرتك. [و] النَّثْرة: نجمٌ\nيقال إنَّه أنف الأسَد يَنْزِلُه القَمر. وطَعَنه فأنْثَرَه: ألقاه على خَيْشُومِه. وهذا هو القياس. قال:\nإنَّ عليها فارساً كعَشَرهْ … إذا رأى فارِسَ قومٍ أنْثَرَه (١)\n[ويقال: أنثَره (٢)]: أرْعَفَه الدَّم. والنَّثْرة: الدِّرع، وهذا ممكنٌ أن يكون شاذًّا من الأصل الذي ذكرنا.",
+ "az": "«نثر» (nəthər) — Nun, sə və ra hərfləri səpələnmiş bir şeyi yerə atmağa dəlalət edən səhih bir əsasdır.\n\nوَنَثَرَ الدّراهِمَ وغيرَها (dirəmləri və başqa şeyləri səpələdi). وَنَثَرت الشّاةُ (qoyun burunundakı əksiklikləri, kiri üfürüb çölə atdı). Buruna bu səbəbdən نَثْرَة (nəthrə) demişlər, çünki o, içindəki əksikliyi bayıra tullayır. Və hədisdə gəlmişdir: «إذا توضَّأْت فانْتَثِرْ» və ya «فانْثِرْ» (Dəstəmaz aldığın zaman burun-boğazını yuyub suyunu üfürüb təmizlə) (5). Mənası odur ki, suyu burun dəliyinə al. [Və] النَّثْرَة (nəthrə): Ayın üzərinə düşdüyü şir bürcünün burnu deyilən bir ulduzdur. Və onu nizə ilə vuran zaman أنْثَرَه (üzünə, xüsusən burun nahiyəsinə vurub yerə sərdi). Budur qiyas. Demişdir:\nإنَّ عليها فارساً كعَشَرهْ … إذا رأى فارِسَ قومٍ أنْثَرَه (١)\n([O dəvənin] üzərində on nəfərə bərabər bir süvari vardır... Qövmün süvarisini görən kimi onu yerə sərər).\n\n[Və deyilir: أنثَره (2)]: ona burun qanaması verdi. وَالنَّثْرَة (nəthrə): zireh. Bunun qeyd etdiyimiz əsasdan şaz (istisna) olması mümkündür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

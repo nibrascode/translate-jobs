@@ -1,0 +1,17 @@
+{
+ "i": 3924,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مقر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 342,
+  "page_to": 342
+ },
+ "ar": "الميم والقاف والراء كلمةٌ واحدة، هي المَقِر (١): شِبْه الصَّبِر.\nوأمْقَرَ الشَّيءُ: أمَرَّ. واللَّبنُ الحامضُ مُمْقِر. ومن هذا قولهم: سَمَكٌ مَمْقُورٌ.\nوالمَقْر: إنْقاع (٢) السَّمَك المالح في الماء. وقال ابن دريد (٣): أمقرتُ لفلانٍ الشَّرَابَ:\nأمْررتُه له.",
+ "az": "[مقر] \nMim, qaf və ra — tək bir kəlmədir, o da المَقِر (əl-maqir) — əsrar (səbir otu) bənzəridir.\nVə أمْقَرَ الشَّيءُ (əmqarə əs-şəy'u) — şey acılaşdı. Və turş süd مُمْقِر (mumqir) olur. Bunundandır onların sözü: سَمَكٌ مَمْقُورٌ (samakun mamqurun) — duzlu balıq.\nVə المَقْر (əl-maqr) — duzlu balığı suda islatmaqdır (إنْقاع). İbn Duraid demişdir (٣): أمقرتُ لفلانٍ الشَّرَابَ (əmqartu lifulani əş-şərabə) — içkini onun üçün acılaşdırdım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

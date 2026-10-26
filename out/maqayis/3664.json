@@ -1,0 +1,17 @@
+{
+ "i": 3664,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لذم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 244,
+  "page_to": 244
+ },
+ "ar": "اللام والذال والميم كلمةٌ تدلُّ على ملازمة شيءٍ لشيء. يقال لذِمْتُ الرّجل لَذْماً: لزمته. والمُلْذَمُ (٢): الرّجل المُولَع بالشَّيء. قال الهذلىّ (٣):",
+ "az": "[لذم] (Ləzəmə) — Lam, ذ (zəl) və mim bir şeyin digər bir şeyə davamlı olaraq bağlanmasına dəlalət edən bir kəlmədir. «لذِمْتُ الرّجل لَذْماً» (ləzimtUr-raculə ləzmən) — kişiyə bağlandım, onu buraxmadım. الْمُلْذَمُ (əl-mulzəm) — bir şeyə həddən artıq bağlı olan (vələmli) kişidir. Hüzəli demişdir (٣):",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

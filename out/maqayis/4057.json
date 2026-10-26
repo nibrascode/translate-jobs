@@ -1,0 +1,17 @@
+{
+ "i": 4057,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 392,
+  "page_to": 392
+ },
+ "ar": "النون والجيم والذال كلمةٌ واحدة. النّاجِذ، وهو السِّنُّ بين الناب والأضراس. ثم يستعار فيقال للرّجُل: المنجَّذ، وهو المجرَّب. وبدت نواجِذُه في ضحكه. ويقولون: إنّ الأضراس كلَّها نواجذ. وهذا عندنا هو الصَّحيح، لقول الشَّماخ:\n* نواجِذُهنَّ كالحِدَأ الوَقيعِ (٣) *\nولأنَّهم يقولون: ضَحِكَ حتَّى بدا ناجذُه، فلو كان السِّنَّ الذي بين النّاب والأضراس لم يُقَلْ فيه هذا، لأنَّ ذاك بادٍ من أدنى ضَحِك.",
+ "az": "«نجذ» (nəcəð) — Nun, cim və zal hərflərindən ibarət tək bir kəlmədir. النّاجِذ (nəciz): köpək dişi ilə azı dişləri arasındakı dişdir. Sonra bu söz məcazi olaraq kişiyə aid işlədilir və المنجَّذ (mənəccəð) — təcrübəli kişi deməkdir. Gülərkən onun ناِجذ (nəcizləri) dişləri göründü. Və deyirlər ki, azı dişlərinin hamısı nacizdir. Bizə görə səhih olan da budur, Şəmmağın bu beytinə əsasən:\n* نواجِذُهنَّ كالحِدَأ الوَقيعِ (٣)\n(Onların nacizləri iti qırğılar kimidir)\n\nVə həmçinin ona görə ki, «Güləndə hətta nacizi göründü» deyirlər. Əgər o, köpək dişi ilə azı dişləri arasında olan tək bir diş olsaydı, bu ifadə haqqında işlədilməzdi, çünki o diş azacıq gülüşlə də görünür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

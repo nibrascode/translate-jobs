@@ -1,0 +1,17 @@
+{
+ "i": 4428,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هنق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 69,
+  "page_to": 70
+ },
+ "ar": "الهاء والنون والقاف. حكى ابنُ دريد (٣): الهَنَق: شبه الضَّجَرِ يعترِى الإنسان. وأنشد:\n* أهنَقَنى اليومَ وَفَوْق الإهْناقْ (١) *",
+ "az": "«هنق» (hənəq): Hə, nun və qaf hərfləri. İbn Dürid rəvayət etmişdir (٣): الهَنَق (əl-hənəq) — insana gələn sıxıntıya bənzər bir haldır. O, bu beytini oxumuşdur: * أهنَقَنى اليومَ وَفَوْق الإهْناقْ (١) * (Bu gün o məni hənəq etdi və hənəqin də ötesinə keçdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3775,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ميش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 289,
+  "page_to": 289
+ },
+ "ar": "الميم والياء والشين أصلٌ يدلُّ على خلطِ شيءٍ بشيء ونَفْشه.\nوماشَتِ المرأةُ القُطنَ بيدِها بعد الحلج. ومنه قولهم للرّجُل إذا أخبر ببعض الحديث وكتَمَ بعضا: قد ماش يَميش. وهو مأخوذٌ من مَيْش النّاقة، أن يَحلُب بعضَ ما في الضرع ويَدَعَ بعضا؛ فإذا جاوز الحَلب النِّصف فليس بمَيش.",
+ "az": "[ميش] (mim, ya və şin) — bir şeyi başqa bir şeylə qarışdırmağa və onu dağıtmağa dəlalət edən əsasdır. ماشَتِ المرأةُ القُطنَ بيدِها (maşatil-mar'atul-qutna biyadiha) — qadın pambığı ələyərək əli ilə qarışdırdı (təmizlədi). İnsanın hədisin (xəbərin) bir hissəsini danışıb, digər hissəsini gizlətdiyi zaman deyilən مَاشَ يَمِيشُ (maşa yamişu) sözü də buradan götürülmüşdür. Bu, dəvənin sağılmasına bənzədilmişdir: sağan südün bir hissəsini sağır, digərini saxlayır; lakin sağım yarıdan çox keçərsə, bu, miş (qarışıq/yarımçıq sağılmış) adlanmaz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

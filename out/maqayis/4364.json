@@ -1,0 +1,17 @@
+{
+ "i": 4364,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 49,
+  "page_to": 49
+ },
+ "ar": "الهاء الراء والجيم أصلٌ صحيح يدلُّ على اختلاطٍ وتخليط.\nمنه هَرَّجَ الرَّجُل فى حَدِيثه: خَلَّط. ويقاس على هذا فيقال لِلْقَتْل هَرْج، بسكون الراء. قال:\nليتَ شِعرِى أَأَوَّلُ الهَرْج هذا … أم زمانٌ من فِتْنَةٍ غيرِ هَرْجِ (٢)\nوالهَرَج بفتح الراء: أن تُظْلِمَ عينُ البَعِيرِ من شِدَّةِ الحر. والهَرْج: عَدْوُ الفرسِ بِسُرْعة، مرَّ يَهْرِجُ. والأرض المِهراجُ: اَلْحَسَنَة النَّباتِ التفَّ بعضُه ببعض.\nومما ليس من هذا بعيداً منه: هَرّجْتُ السَّبُعَ (٣): صِحْت به.",
+ "az": "«هرج» — الهاء والراء والجيم (hə, ra və cim) qarışıqlığa və səliqəsizliyə dəlalət edən səhih bir kökdür. Buradan: هَرَّجَ الرَّجُل فى حَدِيثه (adam sözündə qarışıqlığa yol verdi, batil danışdı). Buna qiyasən ra hərfi sükun ilə qətlə هَرْج (hərc) deyilir. O demişdir: ليتَ شِعرِى أَأَوَّلُ الهَرْج هذا … أم زمانٌ من فِتْنَةٍ غيرِ هَرْجِ (Kaş bilərdim, bu, hərclərin (qarışıqlığın) ilkidirmi, yoxsa hərc-mərclik olmayan fitnə zamanıdır?). الهَرَج (harac) — ra hərfinin fəthəsi ilə — istinin şiddətindən dəvənin gözünün qaralmasıdır. الهَرْج (hərc) — atın sürətlə qaçmasıdır, مرَّ يَهْرِجُ (qaçaraq keçdi). الأرض المِهراجُ (əl-mihraj torpağı) — bitkiləri bir-irinə sarılmış gözəl torpaq. Bundan uzaq olmayan: هَرّجْتُ السَّبُعَ (vəhşi heyvana qışqırdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

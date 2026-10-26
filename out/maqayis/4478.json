@@ -1,0 +1,17 @@
+{
+ "i": 4478,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 87,
+  "page_to": 87
+ },
+ "ar": "الواو والجيم والزاء كلمةٌ واحدة. يقال كَلامٌ وَجْزٌ ووجيز.\nوربَّما قالوا: توجَّزْتُ الشَّئَ، مثل تنجَّزْت.",
+ "az": "[وجز] الواو والجيم والزاء (və, cim və zay) — tək bir sözdür. كَلَامٌ وَجْزٌ وَوَجِيزٌ (qısa və yığcam söz) deyilir. Bəzən توَجَّزْتُ الشَّيْءَ (şeyi qısa, müxtəsər etdim) deyirlər, تَنَجَّزْتُ (yerinə yetirilməsini tələb etdim) kəlməsi kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

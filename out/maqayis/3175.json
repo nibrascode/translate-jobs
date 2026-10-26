@@ -1,0 +1,17 @@
+{
+ "i": 3175,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قلم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 15,
+  "page_to": 16
+ },
+ "ar": "القاف واللام والميم أصلٌ صحيح يدلُّ على تسويةٍ شئ عند بَرْيه وإصلاحه. من ذلك: قَلَمْتُ الظُّفُر وقلَّمْته. ويقال للضَّعيف: هو مَقلُوم الأظفار. والقُلَامَة: ما يسقُط من الظُّفُر إذا قُلِم. ومن هذا الباب سمِّى القلمُ قَلَماً،\nقالوا: سمِّى به لأنَّه يُقْلَم منه كما يُقْلَمُ من الظُّفر، ثمَّ شُبِّه القِدْح به فقيل: قلم.\nويمكن أن يكون القِدحُ سُمِّى قلَماً لما ذكرناه من تسويته وبَرْيه. قال اللّه تعالى:\n﴿وَما كُنْتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلامَهُمْ﴾. ومن الباب المِقْلَم: طَرَف قُنْب البعير، كأنَّه قد قُلِم، ويقال إنّ مَقَالم الرُّمح: كُعوبه.\nومما شذَّ عن هذا الأصل القُلاَّم، وهو نبتٌ. قال:\nأتَوْنى بِقُلاَّمٍ فقالوا تَعَشّهُ … وهل يأكُلُ القُلاَّمَ إلا الأباعرُ (١)",
+ "az": "[قلم] \nقاف, لام və mim hərfləri yonulub düzəldilərkən bir şeyi səliqəyə salmağa dəlalət edən səhih bir əsasdır. Bunlardan biri: «قَلَمْتُ الظُّفُر وقلَّمْته» (dırnaq kəsdim). Zəif adama «مَقْلُوم الأظفار» (dırnaqları kəsilmiş) deyilir. «القُلَامَة» — dırnaq kəsilərkən düşən parça/töküntüdür. Qələmin «قلم» adlandırılması da bu fəsildəndir.\nDeyirlər ki, o, dırnaq kəsildiyi kimi ondan yonulduğu üçün belə adlandırılmışdır, daha sonra ox (qədəh) ona bənzadilib qələm adlandırılmışdır.\nOxun qələm adlandırılması da qeyd etdiyimiz kimi onun düzəldilməsi və yonulması səbəbindən olması mümkündür. Uca Allah buyurmuşdur:\n﴿وَما كُنْتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلامَهُمْ﴾ (mənaca tərcümə: Sən onların yanından deyildin ki, qələmlərini (oxlarını) atsınlar). Bu fəsildəndir: «المِقْلَم» — dəvənin döşünün ucu, sanki kəsilmiş kimidir, deyirlər ki, «مَقَالم الرُّمح» — nizənin buğumlarıdır.\nBu əsasdan istisna olan «القُلاَّم» — bir bitkidir. Şair demişdir:\nأتَوْنى بِقُلاَّمٍ فقالوا تَعَشّهُ … وهل يأكُلُ القُلاَّمَ إلا الأباعرُ (١)\n(Mənə qullam bitkisi gətirib dedilər ki, şam yeməyi olaraq ye; qullamı dəvələrdən başqa kim yeyər?)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:04.334Z"
+}

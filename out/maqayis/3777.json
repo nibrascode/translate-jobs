@@ -1,0 +1,17 @@
+{
+ "i": 3777,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ميع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 290,
+  "page_to": 290
+ },
+ "ar": "الميم والياء والعين كلمةٌ صحيحة تدلُّ على جريانِ شيءٍ واضطرابِ شيء وحركتِه. وماعَ الشّيء يَمِيع: جَرَى على وجه الأرض. والمائع كلُّ شيءٍ ذائب (١). ومنه المَيْعة والنشاط، وذلك للحركة. والمَيْعة: أوّل الشَّباب، وذلك إذا ترعرعَ وتحرَّك.",
+ "az": "[ميع] (mim, ya və eyn) — bir şeyin axmasına, titrəməsinə və hərəkət etməsinə dəlalət edən səhih kəlmədir. وماعَ الشّيء يَمِيع (ma aş-şeyu yamicu) — yer üzündə axdı. والمائع (əl-mayiu): əriyən hər bir şeydir (١). Həmçinin المَيْعة (əl-mayca) və fəallıq, hərəkətlilik də bundandır. والمَيْعة (əl-mayca): gəncliyin əvvəli, çiçəkləndiyi və hərəkətə gəldiyi dövrdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

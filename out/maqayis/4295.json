@@ -1,0 +1,17 @@
+{
+ "i": 4295,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 24,
+  "page_to": 24
+ },
+ "ar": "الهاء والياء والطاء كلمتانِ: إحداهما [الهِيَاط (٤)]: الصِّياح:\nوالأخرى كلمةٌ حكاها الفَرّاء: تَهَايَطَ القومُ: اجتَمَعُوا لإصلاحِ ما بينَهُم.",
+ "az": "[هيط] (Heyt): Hə, ya və ta iki sözdür: bunlardan biri الهِيَاط (əl-hiyat): qışqırıq-bağartı; diğəri isə Fərranın rəvayət etdiyi bir sözdür: تَهَايَطَ القومُ (təhayatə-l-qavmu): aralarındakı işi düzəltmək üçün toplandılar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4576,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وطن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 120,
+  "page_to": 120
+ },
+ "ar": "الواو والطاء والنون: كلمةُ صحيحة. فالوَطَن: مَحَلُّ الإنسان.\nوأوطان الغَنَم: مَرَابضها (٣). وأَوْطَنْتُ الأرضَ: اتَّخَذتُها وَطَناً. والمِيطانُ: الغابة (٤).",
+ "az": "[وطن] (Vətən): الواو والطاء والنون (vav, tə və nun): səhih bir kəlmədir. Vətən — insanın yaşadığı yerdir. Qoyunların vətənləri (أوطان الغَنَم) — onların yatacaq yerləridir. أَوْطَنْتُ الأرضَ (övtəntul-ərdə): onu vətən etdim. Mitan (المِيطانُ) — meşə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

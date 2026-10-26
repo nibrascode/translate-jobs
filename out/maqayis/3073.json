@@ -1,0 +1,17 @@
+{
+ "i": 3073,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فحس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 478,
+  "page_to": 478
+ },
+ "ar": "الفاء والحاء والسين. يقولون: الفَحْس: لَحْسُك (١) الشئَ بلسانك عن يَدِك.",
+ "az": "«فحس» (fə-h-s): Fə, ha və sin hərfləri. Deyirlər ki, «الفَحْس» (fəhs) - əlinin üstündə olan bir şeyi dilinlə yalamaqdır (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

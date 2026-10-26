@@ -1,0 +1,17 @@
+{
+ "i": 3906,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "الميم والعين والدال أصلٌ صحيح يدلُّ على غِلَظ في الشّيء قال ابن دريد (١) المَعْد: الغِلَظ. قال: ومنه المَعِدَة. وتَمَعْدَدَ الصّبِىُّ:\nغَلُظَ.\nويكون في هذا الباب المَعْدُ دَالاًّ على جَذْب الشَّيءِ وانجذاب. ومَعَدت الشَّيءَ: جذبتُه. قال:\nهل يُرْوِيَنْ ذَوْدَك نَزعٌ مَعْدُ (٢) *\nومما شذَّ عن الباب المَعْد، يقولون: الغَضُّ من التَّمْر.",
+ "az": "[معد] \nMim, eyn və dal hərfləri bir şeydə yoğunluğa dəlalət edən səhih bir kökdür. İbn Dürid demişdir (١): المَعْد — yoğunluqdur. O demişdir: Mədə (المَعِدَة) də bundandır. Və تَمَعْدَدَ الصّبِىُّ: oğlan uşağı yoğunlaşdı (böyüdü).\nVə bu babda المَعْد sözü bir şeyi çəkib qoparmağa və dartılmağa dəlalət edən ola bilər. Və مَعَدت الشَّيءَ: onu çəkdim. O demişdir:\nهل يُرْوِيَنْ ذَوْدَك نَزعٌ مَعْدُ (٢) *\nVə bu babdan şaz (qaydadan kənar) çıxmışdır: المَعْد — təzə (yeni) xurma.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

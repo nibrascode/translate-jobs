@@ -1,0 +1,17 @@
+{
+ "i": 4509,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ودى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 97,
+  "page_to": 98
+ },
+ "ar": "الواو والدال والحرف المعتل: ثلاثُ كلماتٍ غيرِ منقاسة:\nالأولى وَدَى الفرسُ ليَضرِبَ أو يبول، إذا أدْلَى. ومنه الوَدْى: ماءٌ يخرج من الإنسان كالمَذْى.\nوالثانية: وَدَيْتُ الرّجلَ أدِيهِ دِيةً.\nوالثالثة: الوَدِىُّ: صِغار الفُسلان.\n***\nوإذا هُمز تغيَّرَ المعنى وصار إلى بابٍ من الهَلاك والضَّياع. يقولون:\nالمُوَدَّاة (١): المَهْلَكة، وهى على لفظ المفعول به. ويقولون: ودّأْتُ عليه الأرضَ، إذا دَفَنْتَه. ووَدَّأ بالقوم، إذا أرْدَاهم (٢).",
+ "az": "[ودى] (və-də və zəif hərf): Qaydaya uyğun gəlməyən üç sözdür: Birincisi: وَدَى الفرسُ (vədəl-farsu) – at cütləşmək və ya sidiyə getmək üçün cinsiyyət orqanını uzatdıqda. الوَدْى (əl-vədy) – məzy kimi insanquruluşundan çıxan su. İkincisi: وَدَيْتُ الرّجلَ أدِيهِ دِيةً (vədəytur-raculə ədihi diyətən) – mən o kişiyə diyə ödədim. Üçüncüsü: الوَدِىُّ (əl-vədiyyu) – xırda xurma pöhrələri. Həmzəli olduqda məna dəyişər və həlak ilə zay olma babına keçər. Deyirlər: المُوَدَّاة (١) (əl-muvaddəəh) – məhv olunan yer, məful əmi ləfzi üzrədir. Deyirlər: ودّأْتُ عليه الأرضَ (vədda'tu ‘aleyhil-ərzə) – onu torpağa basdırdığın zaman. ووَدَّأ بالقوم (vədda'a bil-qavmi) – onları həlak etdi (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

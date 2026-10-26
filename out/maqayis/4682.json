@@ -1,0 +1,17 @@
+{
+ "i": 4682,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يأس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 153,
+  "page_to": 154
+ },
+ "ar": "الياء والهمزة والسين. كلمتان: إحداهما اليأس: قَطْعُ الرَّجاء.\nويقال إنَّه ليست ياءٌ فى صَدرِ كلمةٍ بعدها همزة إلاّ هذه. يقال منه: يَئِس يَيْأَس ويَيْئِس، على يَفْعَل ويَفْعِل.\nوالكلمة الأخرى: ألم تَيْأَس، أى ألم تَعْلَم. وقالوا فى قوله تعالى: ﴿أَفَلَمْ يَيْأَسِ اَلَّذِينَ آمَنُوا﴾، أى أفلم يَعلَمْ. وأنشدوا:\nأقولُ لَهُمْ بالشِّعْبِ إذَ يأسِرُونَنى … ألم تَيأَسُوا أنِّى ابنُ فارِسِ زَهْدَمِ (١)",
+ "az": "[يأس] Ya, Həmzə və Sin. İki sözdür: Biri الْيَأْسُ (əl-yəsu): ümidini üzməkdir. Deyilir ki, kəlmə başlanğıcında həmzədən əvvəl gələn ya hərfi yalnız bu sözdədir. Ondan fel düzəlir: يَئِسَ يَيْأَسُ وَيَيْئِسُ (ümidini üzdü, ümidini üzər), «yaf'alu» və «yaf'ilu» vəznində. Digər söz: أَلَمْ تَيْأَسْ (məgər bilmədinmi?). Uca Allahın bu buyruğunda da belə demişlər: ﴿أَفَلَمْ يَيْأَسِ الَّذِينَ آمَنُوا﴾ (mənaca tərcümə: Məgər iman gətirənlər hələ də bilmədilərmi?). Şair şeir söyləmişdir: أَقُولُ لَهُمْ بِالشِّعْبِ إِذْ يَأْسِرُونَنِي … أَلَمْ تَيْأَسُوا أَنِّي ابْنُ فَارِسِ زَهْدَمِ (1) (Dərə daxilində məni əsir götürərkən onlara dedim: Məgər bilmədinizmi ki, mən Faris Zəhdəmin oğluyam?).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.329Z"
+}

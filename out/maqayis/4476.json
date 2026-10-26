@@ -1,0 +1,17 @@
+{
+ "i": 4476,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 87,
+  "page_to": 87
+ },
+ "ar": "الواو والجيم والذال. كلمةٌ صحيحة، هى الوَجْذ، نُقرة فى الصَّخرة (٢)، والجمع وِ جاذ (٣). وبلغنا أنَّه يقال، أوجَذَه على الأمر، أكْرَهَه.",
+ "az": "[وجذ] (və-im-zal). Səhih bir sözdür, o da «الوَجْذ» (vəc - qayada çuxur) — qayadakı çuxurdur (٢), cəmi «وِ جاذ» (vijaz) (٣). Bizə çatmışdır ki, «أوجَذَه على الأمر» (onu işə məcbur etdi) — yəni onu o işə məcbur etdi, deyilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

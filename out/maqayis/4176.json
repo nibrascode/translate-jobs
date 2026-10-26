@@ -1,0 +1,17 @@
+{
+ "i": 4176,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نعج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 448,
+  "page_to": 449
+ },
+ "ar": "النون والعين والجيم: أصلٌ صحيح يدلُّ على لونٍ من الألوان.\nمنه النَّعَج: البَياضُ الخالص. وجَملٌ ناعج؛ حسنُ اللَّون كريم. ومنه النَّعْجة من الضَّأن، ويكون من بَقَر الوحش ومِنْ شاءِ الجَبَل. يقال لإناثِ هذه الأجناس نِعَاج. ونعاجُ الرّمْلِ: البَقَر. ونَعِجَ الرَّجُل: أكل لحمَ نعجةٍ فأُتْخِمَ عنه. قال:\nكأنَّ القَومَ عُشّوا لحمَ ضانٍ … فهُمْ نَعِجُون قد مالت طُلاهمْ (٣)\nوأنعَجُوا: سمِنَت نِعاجُهم. أمّا نَوَاعج الإبل، فيقال هي السِّراع. وعندنا\nأنَّها الكرائم، لما ذكرناه من القياس. وامرأةٌ ناعجة: حسنة اللَّون. والنَّاعجة من الأرض: السَّهلة المستوِية، وهي مَكْرُمَة للنَّبات، تُنبِت الرِّمث وأطَايبَ العُشْب.",
+ "az": "«نعج» (nəəc): Nun, eyn və cim hərfləri rənglərdən birinə dəlalət edən səhih bir kökdür. Bunlardan biri «النَّعَج» (nəəc) – xalis ağlıqdır. «جملٌ ناعج» (naec dəvə) – gözəl rəngli, soy-kökü təmiz dəvədir. Buradan qoyun növündən olan «النَّعْجة» (nəəcə - dişi qoyun) gəlir, o, həmçinin vəhşi öküzlərdən və dağ keçi-qoyunlarından da olur. Bu cinslərin dişilərinə «نِعَاج» (niac) deyilir. «نعاجُ الرّمْلِ» (qum dişi qoyunları) – vəhşi öküzlərdir. «نَعِجَ الرَّجُل» (nəicə ər-racül) – kişi dişi qoyun əti yedi və bundan mədəsi ağırlaşdı. Şair demişdir: «كأنَّ القَومَ عُشّوا لحمَ ضانٍ … فهُمْ نَعِجُون قد مالت طُلاهمْ» (Sanki qövmə axşam yeməyi olaraq qoyun əti yedizdirilib... buna görə də onların boyunları əyilərək mədələri ağırlaşıb). «وأنعَجُوا» (və əncəyü) – onların dişi qoyunları kökəldi. «نَوَاعج الإبل» (nəvaic əl-ibil) dişi dəvələrə gəldikdə, onların sürətli dişi dəvələr olduğu söylənir. Bizə görə isə onlar yuxarıda qeyd etdiyimiz qiyasa əsasən soylu və dəyərli dəvələrdir. «امرأةٌ ناعجة» (naicə qadın) – gözəl rəngli qadın. «النَّاعجة من الأرض» (əlnəicə min əl-ərd) – bitki üçün xeyirli olan, rimth bitkisi və gözəl otlar bitirən hamar, düzənlik yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:16.219Z"
+}

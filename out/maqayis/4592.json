@@ -1,0 +1,17 @@
+{
+ "i": 4592,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 124,
+  "page_to": 125
+ },
+ "ar": "الواو والعين والثاء: كلمةٌ تدلُّ على سُهولةٍ فى الشَّئ ورَخاوَة.\nومكانٌ أوْعَثُ. قال الخليل: الوَعْثُ من الرَّمْل: ما غابَتْ فيه القوائم. وامرأةٌ وَعْثةٌ: كثيرة اللَّحم. ووَعِثَ لِسانُه: التَاثَ فلم يُبَيِّنْ، كأنَّه استَرْخَى ولانَ.\nفإنْ قيل: فكيف قال:\n«أعوذُ بك من وَعْثاء السّفَر». وقد زعمتم أنَّ ذلك دالٌّ على السهولة؟ قيل: المعنى الذى ذهبنا إليه صحيح، وإنما الرَّمْل إذا غابت فيه القوائم فإنَّه يدعُو إلى المشقَّة، فلذلك قيل: نعوذ بك من وَعْثاء السفر.\nوالمعنيان صحيحان.",
+ "az": "[وعث] الواو والعين والثاء: bir şeydə yumşaqlığa və süstlüyə dəlalət edən sözdür. المكان الأَوْعَثُ (sərt olmayan, yumşaq yer). Xəlil demişdir: الوَعْث (əl-vət) qumdan elə yerdir ki, ayaqlar ona batır. Və امرأةٌ وَعْثةٌ (ətli-qanlı qadın). ووَعِثَ لِسانُه (Onun dili dolaşdı və aydın danışa bilmədi), sanki boşalmış və yumşalmışdı. Əgər deyilərsə: Onda niyə «أعوذُ بك من وَعْثاء السّفَر» (Səfərin çətinliyindən Sənə sığınıram) deyilmişdir? Halbuki siz iddia etdiniz ki, bu, yumşaqlığa dəlalət edir? Cavab verilir ki, getdiyimiz məna düzgündür, lakin qum elədir ki, ayaqlar ona batdıqda bu, məşəqqətə səbəb olur, ona görə də: «Səfərin məşəqqətindən Sənə sığınıram» deyilmişdir. Hər iki məna doğrudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

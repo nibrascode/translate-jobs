@@ -1,0 +1,17 @@
+{
+ "i": 4327,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 33,
+  "page_to": 34
+ },
+ "ar": "الهاء والتاء والميم ليس فى هذا الباب عندنا إلاَّ الهَيْثَم، يقال:\nهو فَرْخ العُقَاب. ويقال الهَيْثم: الكَثِيب الأحمر. وحكى عن ابن الأعرابى:\nهَثَم من مالِهِ، مثل قَسَم، وقد مَرّ وقال ابن دريد (١) الهَثم: دقُّ الشَّئِ حتى يَنسَحِق، وهشمتُه (٢) أَهْثِمه.",
+ "az": "[هثم] (hə-sə-mə): Hə, ta və mim bu بابda bizdə yalnız الهَيْثَم (əl-heysəm) kəlməsi var, deyilir ki: o, qartal balasıdır. Həmçinin الهَيْثم (əl-heysəm): qırmızı təpədir. İbn əl-Ərəbidən rəvayət edilmişdir: هَثَم من مالِهِ (həsəmə min malihi), qəsamə (bölüşdürdü) kimidir, artıq keçmişdir. İbn Dürəyd demişdir (١): الهَثم (əl-həsm): bir şeyi əzilib toz halına gələnə qədər döyməkdir, və men اسے هشمتُه أَهْثِمه (həşəmtühu ahsimuhu) demişəm (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

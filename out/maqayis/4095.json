@@ -1,0 +1,17 @@
+{
+ "i": 4095,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 410,
+  "page_to": 410
+ },
+ "ar": "النون والدال والفاء كلمةٌ صحيحة، وهي شِبهُ النَّفْش للشَّيء بآلة. وندفتُ القُطنَ بالمِندف. ويُحمل عليها فيقال: ندفتِ الدّابَّةُ في سيرِها ندفًا، وهو سرعةُ رَجْعِ يديها. والنَّدْف في الحَلب: أن تفطُرَ (٣) الضَّرَّةَ بإِصبعك. ونَدفَت السّماء بمطرٍ مثل نَطَفت. والنُّدفة: القليل من اللَّبَن، كأنَّه قُطنةٌ قد نُدِفَت.",
+ "az": "[ندف] (N-D-F) Nun, dal və fa səhih bir kəlmədir, bir şeyi alətlə didməyə (nəfş) bənzəyir. «ندفتُ القُطنَ بالمِندف» (pambığı didənlə diddim). Buna əsasən deyilir: «ندفتِ الدّابَّةُ في سيرِها ندفًا» (heyvan gedişində nədf etdi), bu, onun əllərini sürətlə geri çəkməsidir. Sağımda «النَّدْف» (ən-nədf) - əlinlə döşü (heyvanın) qıdıqlamağındır. «ندفت السّماء بمطرٍ» (səma yağışla nədf etdi), «نطفت» (nətəfət - damcıladı) kimidir. «النُّدفة» (ən-nudfə) - az miqdarda süddür, sanki didilmiş bir pambıq kimidir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4168,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نظر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 444,
+  "page_to": 444
+ },
+ "ar": "النون والظاء والراء أصلٌ صحيح يرجع فروعُه إلى معنًى واحد وهو تأمُّلُ الشّيْ ءِ ومعاينتُه، ثم يُستعار ويُتَّسَع فيه. فيقال: نظرت إلى الشّيءِ أنظُر إليه، إذا عاينْتَه. وحَىٌّ حِلَالٌ نَظَرٌ: متجاوِرون ينظُرُ بعضُهم إلى بعض.\nويقولون: نَظَرتُه، أي انتظرته. وهو ذلك القياس، كأنّه ينظر إلى الوقت الذي يأتي فيه. قال:\nفإنّكُما إن تَنْظُرَانِي ليلةً … من الدَّهر ينفَعْني لدى أمِّ جُندَبِ (١)\nومن باب المجاز والاتِّساع قولُهم: نظَرَتِ الأرضُ: أرَتْ نَباتَها (٢). وهذا هو [القياس. و] يقولون: نَظَرَت بعَينٍ. ومنه نَظرَ الدهرُ إلى بني فلانٍ فأهلكَهم. [و] هذا نظيرُ هذا، من هذا القياس؛ أي إنّه إذا نُظِرَ إليه وإلى نَظِيرِهِ كانا سواءً. وبه نَظْرَةٌ، أي شُحوب، كأنّه شيءٌ نُظِرَ إليه فشَحَب لونُه. واللّه أعلمُ بالصَّواب.",
+ "az": "[نظر] (nun, zə və ra) – budaqları tək bir mənaya, yəni bir şeyi dərindən düşünməyə və ona baxmağa qayıdan, sonra məcazi olaraq genişləndirilən səhih bir kökdür. Deyilir: نظرت إلى الشّيءِ أنظُر إليه (nəzərtü ilə-ş-şeyli ənzuru iləyhi) – onu müşahidə etdiyin zaman. حَىٌّ حِلَالٌ نَظَرٌ (həyyün hilalün nəzərun) – bir-birinə baxan, qonşu olan tayfalar. Deyirlər: نَظَرتُه (nəzərtühu) – yəni onu gözlədim. Bu da həmin ölçüdəndir, sanki o, gələcəyi vaxtı gözləyir. Şair demişdir: فإنّكُما إن تَنْظُرَانِي ليلةً … من الدَّهر ينفَعْني لدى أمِّ جُندَبِ (١) («Şübhəsiz ki, əgər siz məni zamanın bir gecəsində gözləsəniz, [bu] Ummü Cündəbin yanında mənə fayda verəcəkdir»). Məcaz və genişləndirmə بابından onların bu sözüdür: نظَرَتِ الأرضُ (nəzərəti-l-ard) – yer bitkisini göstərdi (٢). Bu da [həmin ölçüdəndir. Və] deyirlər: نَظَرَت بعَينٍ (nəzərə-b-əynin) – gözlə baxdı. Zamanın filan oğullarına baxıb onları məhv etməsi də bundandır (نَظَرَ الدهرُ). [Və] bu, bunun bənzəridir, bu ölçüdəndir; yəni ona və onun tayına baxıldıqda onlar eyni olurlar. Və onda نَظْرَةٌ (nəzratün) vardır – yəni solğunluq, sanki o, baxılmış və rəngi solmuş bir şeydir. Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

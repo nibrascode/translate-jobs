@@ -1,0 +1,17 @@
+{
+ "i": 3646,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 238,
+  "page_to": 238
+ },
+ "ar": "اللام والحاء والقاف أصلٌ يدلُّ على إدراكِ شيءٍ وبُلوغه إلى غيره. يقال: لَحِقَ فلانٌ فلاناً فهو لاحق. وألْحَقَ بمعناه. و\nفي الدعاء: «إن عَذَابَكَ بالكُفَّار مُلْحِقٌ (١)». قالوا: معناه لاحق. وربما قالوا: لَحِقْتُه: اتَّبَعْتُه، وألحقتُه: وصلت إليه. والمُلْحَق: الدعىُّ المُلصَق. واللَّحَق في التَّمرِ: [داءٌ يُصِيبُه (٢)]",
+ "az": "[لحق] (ləhəq) — lam, ha və qaf bir şeyə yetişməyi və başqasına çatmağı bildirən əsas kökdür. لَحِقَ فلانٌ فلاناً فهو لاحق (ləhıqə fəlün fələnən fəhüvə lahıq) — filankəs filankəsə yetişdi, deməli o, yetişəndir. Və ألْحَقَ بمعناه (əlhəqə bi-mənāh) — onun mənasına çatdı. Dua mətnində: «إن عَذَابَكَ بالكُفَّار مُلْحِقٌ» («innə əzəbəkə bil-küffari mulhıq») (١). Alimlər demişlər ki, mənası «çatandır» deməkdir. Bəzən də لَحِقْتُه (ləhıqtüüh) — ardınca düşdüm, ألحقتُه (əlhəqtüüh) — ona çatdım, deyirlər. اّلْمُلْحَق (əlmulhıq) — sonradan qoşulmuş, övladlığa götürülmüş. اّللَّحَق (əlləhəq) — xurmaya gələn xəstəlikdir [(٢)].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

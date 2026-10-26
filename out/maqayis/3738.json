@@ -1,0 +1,17 @@
+{
+ "i": 3738,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 273,
+  "page_to": 273
+ },
+ "ar": "الميم والطاء أصلٌ صحيحٌ يدلُّ على مدِّ الشيء. ومَطُّه: مَدُّه.\nوالقياس فيه وفي المُطَيطاء واحدٌ، وهو المشي بتبختُر، لأنّه إذا فعل مَطّ أطرافَه.\nقال اللّه تعالى: ﴿ثُمَّ ذَهَبَ إِلى أَهْلِهِ يَتَمَطّى﴾، قالوا: أصله يتمطَّط، فجعلت الطاء الثالثة ياءً للتخفيف. ومطّ حاجِبَيه: تكبَّر، وهو منه. ومنه المَطِيطة: الماء المختلِط بالطِّين؛ وهذا يكون إذا مدّ الماءَ مياهُ سيلٍ كدرة.",
+ "az": "«مط» (matə) — Mim və tə hərfləri bir şeyi uzatmağa dəlalət edən səhih bir əslidir. «ومَطُّه» (və mattühû) — onu uzatdı. Burada və «المُطَيطاء» (əl-mutaytə') sözündə qiyas eynidir, o da lovğalanaraq yeriməkdir, çünki bunu etdikdə uclarda uzanma baş verir. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿ثُمَّ ذَهَبَ إِلى أَهْلِهِ يَتَمَطّى﴾ (Sonra təkəbbürlə gəzişərək ailəsinin yanına getdi). Alimlər demişlər: əsli «يتمطَّط» (yَتəmatatatü)-dür, təffif üçün üçüncü tə hərf yə əvəz edilmişdir. «ومطّ حاجِبَيه» (və matta hacibəyh) — təkəbbürlük etdi, bu da bundandır. Və bundandır «المَطِيطة» (əl-matitə) — palçıqla qarışmış su; bu, sel suyu bulanıq suyu artırdıqda baş verir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

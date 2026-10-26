@@ -1,0 +1,17 @@
+{
+ "i": 4048,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 388,
+  "page_to": 388
+ },
+ "ar": "النون والتاء واللام أصلٌ صحيح يدلُّ على تقدُّم وسَبْق.\nيقال استَنْتَل الرّجلُ: تقدَّمَ أصحابَه. وسمِّي الرَّجلُ به نَاتلا. ونَتَلته: جذبْتُه إلى قُدُم. وتَنَاتَلَ النّبتُ: لم يستقِمْ نباتُه وكان بعضُه أطوَلَ مِنْ بعض، كأنَّ الأطولَ تقدَّمَ ما هو أقصَرُ منه فسَبَق. وقولهم: النَّتَلُ العَبْد الضَّخم، تفسيره أنَّه يقوى من التقدُّم [على] ما يعجِزُ عنه غيرُه. ألا ترى إلى قول الرّاجز (٣):\n* يَطُفْنَ حولَ نَتَلٍ وَزْوازِ *\nفوصَفَه بوَزْوازٍ، وهو الخفيف.",
+ "az": "«نتل» (nətəl) — Nun, ta və lam hərfləri irəliləməyə və ötməyə dəlalət edən səhih bir əsasdır.\n\nDezirlər: استَنْتَل الرّجلُ (kişi yoldaşlarını qabaqladı, irəli keçdi). Və bu səbəbdən həmin kişiyə ناتل (natil) deyilmişdir. وَنَتلتُه (onu irəliyə doğru dartdım). وَتَنَاتَلَ النّبتُ (bitki bərabər bitmədi, bəziləri digərlərindən daha uzun oldu), sanki daha uzun olan özündən qısa olanı qabaqlayıb ötdü. Və onların النَّتَلُ العَبْد الضَّخم (nətəl — iri bədənli qul) demələrinin izahı budur ki, o, başqasının aciz qaldığı irəliyə keçmək işində qüvvətli olur. Rocəzin (3) bu sözünə baxmırsanmı:\n* يَطُفْنَ حولَ نَتَلٍ وَزْوازِ *\n(Onlar iri bədənli, çevik natilin ətrafında dolanırlar)\n\nVə onu vəzvaş ilə vəsf etmişdir, o da yüngül, çevik deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

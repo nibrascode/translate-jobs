@@ -1,0 +1,17 @@
+{
+ "i": 4694,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يقه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 157,
+  "page_to": 157
+ },
+ "ar": "الياء والقاف والهاء. سمعت علىَّ بن إبراهيمَ القَطَّانَ يقول:\nسمعت ثعلباً يقول: أيْقَه يُوقِهُ إيقاهاً، إذا فَهِمَ. يقال أيْقِهْ لهذا، أى افْهَمْه.\nويقال بل ذلك من الطَّاعة. قال:\n* واستيقَهوا للمُحَلِّمِ (٤) *",
+ "az": "«يقه» (Y-Q-H): Əli ibn İbrahim əl-Qatṭanın belə dediyini eşitdim: Sə`ləbin belə dediyini eşitdim: «أَيْقَه يُوقِهُ إيقاهاً» – başa düşdü, anladı. Deyilir: «أَيْقِهْ لهذا» – yəni bunu anla. Həmçinin deyilir ki, bəlkə bu, itaətdəndir. (Şair) demişdir: * Və ağıllı, təmkinli adam üçün boyun əydilər (4) *.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

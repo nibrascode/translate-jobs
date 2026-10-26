@@ -1,0 +1,17 @@
+{
+ "i": 3490,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كذب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 167,
+  "page_to": 168
+ },
+ "ar": "الكاف والذال والباء أصلٌ صحيح يدلُّ على خلاف الصِّدق. وتلخيصه أنّه لا يبلُغ نهايةَ الكلامِ في الصِّدق. من ذلك الكَذِب خِلاف الصِّدق. كَذَبَ كَذِباً (٣). وكَذَّبْتُ فلاناً نسبتُه إلى الكَذِب، وأَكْذَبْتُه:\nوجدتُه كَاذِباً. ورجل كَذَّابٌ وكُذَبَةٌ. ثم يقال: حَمَلَ فلانٌ ثم كَذَبَ وكَذَّبَ، أي لَم يصدُق في الحَمْلة. وقال أبو دُواد:\nقلتُ لَمَّا نَصَلَا من قُنَّةٍ … كَذَب العَيْرُ وإن كان بَرَحْ (١)\nوزعموا أنّه يقال كَذَب لبنُ الناقة: ذهب. وفيه نظر، وقياسُه صحيح. ويقولون ما كذَّبَ فلانٌ أن فَعَل كذا، أي ما لبث، وكلُّ هذا من أصلٍ واحد. فأمّا قول العرب: كَذَبَ عليكَ كذا، وكذبَكَ كَذا، بمعنى الاغراء، أي عليك به، أو قد وجب عليك، كما\nجاء في الحديث: «كَذَبَ عليكم الحَجُّ». أي وجب - فكذا جاء عن العرب. ويُنشِدون في ذلك شعرًا * كثيراً منه قوله:\nوذُبْيانيَّةٍ وصَّتْ بنيها … بأنْ كَذَبَ القَرَاطِفُ والقُرُوف (٢)\nوقول الآخر (٣):\nكذَبتُ عليكم أَوعِدُوني وعلِّلوا … بي الأرضَ والأقوامَ قِردانَ مَوظَبا\nوما أحسِب ملخّصَ هذا وأظنُّه [إلاّ] من الكلام الذي درَجَ ودرجَ أهلُه ومن كان يعلمه.",
+ "az": "[كذب]. Kaf, zal və ba düzgün bir kök olub, siddﻘin (doğruluğun) əksinə dəlalət edir. Bunun xülasəsi budur ki, sözdə siddiqin son həddinə çatmaz. Bunlardan biri də siddiqin əksi olan əl-kəzibdir (yalan). كَذَبَ كَذِباً (yalan danışdı - ٣). وَكَذَّبْتُ فلana (filankəsi yalançı saydım) onu yalana nisbət etdim. وَأَكْذَبْتُه: onu yalançı tapdım. Və kişi كَذَّابٌ (çox yalan danışan) və كُزَبَةٌ-dir (çox yalan danışan adam). Sonra deyilir: حَمَلَ فلانٌ ثم كَذَبَ وَكَذَّبَ, yəni hücumda doğru danışmadı. Əbu Duvad demişdir: قلتُ لَمَّا نَصَلَا من قُنَّةٍ … كَذَب العَيْرُ وإن كان بَرَحْ (١) (Dedim ki, onlar dağ başından uzaqlaşanda … eşşək yalan çıxdı, fəqərətən o böyük idi). Güman edirlər ki, كَذَبَ لَبَنُ الناقةِ (dəvənin südü kəsildi) – yəni getdi, deylilir. Bunda nəzər vardır, lakin qiyası düzgündür. Deyirlər ki, مََا كَذَّبَ فلانٌ أن فَعَل كذا (filankəs elə etməyə tələsdi / gecikmədi), yəni ləngimədi; bunların hamısı bir kökə gedib çıxır. Ərəblərin كَذَبَ عَلَيْكَ كَذَا və كَذَبَكَ كَذَا sözlərinə gəldikdə, bu, təşviq mənasındadır, yəni \"ona sarıl\" və ya \"sənə vacib oldu\". Necə ki, hədisdə gəlmişdir: «كَذَبَ عليكم الحَجُّ» – yəni vacib oldu, məhz beləcə ərəblərdən rəvayət olunmuşdur. Bunun haqqında çoxlu şeir nəql edirlər, o cümlədən bu sözlərdir: وَذُبْيانيَّةٍ وصَّتْ بنيها … بأنْ كَذَبَ القَرَاطِفُ والقُرُوف (٢) (Və Zübyanlı bir qadın oğullarına vəsiyyət etdi ki, … qəratif və qüruf yalandır) və digər birinin sözü (٣): كذَبتُ عليكم أَوعِدُوني وعلِّلوا … بي الأرضَ والأقوامَ قِردانَ مَوظَبا (Mən sizə yalan danışdım, məni hədələyin və mənimlə … yer üzünü və tayfaları ovutun). Güman etmirəm və zənn etmirəm ki, bunun xülasəsi [ancaq] o sözlərdəndir ki, keçmiş və onun əhli, onu bilənlər keçib getmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.463Z"
+}

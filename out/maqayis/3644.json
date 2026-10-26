@@ -1,0 +1,17 @@
+{
+ "i": 3644,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحظ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 237,
+  "page_to": 238
+ },
+ "ar": "اللام والحاء والظاء كلمتان متباينتان.\nفاللَّحْظ: لحظُ العَين؛ ولِحَاظُها: مُؤْخِرُها عند الصُّدْغ.\nوالكلمة الأخرى اللِّحاظ: ما يَنْسَحِي مع الرِّيش إذا سُحِيَ مع الجَنَاح.",
+ "az": "[لحظ] (ləhəz) — lam, ha və za fərqli iki sözdür.\nBirincisi اّللَّحْظ (əlləhz) — gözlə baxmaqdır; اّلْلِحَاظ (əllihaz) isə gözün gicgah tərəfindəki küncüdür.\nİkinci söz isə اّلْلِحاظ (əllihaz) — qanadın tükü çəkilərkən onunla birlikdə sıyrılıb çıxan hissələrdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

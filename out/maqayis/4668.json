@@ -1,0 +1,17 @@
+{
+ "i": 4668,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وهس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 147,
+  "page_to": 148
+ },
+ "ar": "الواو والهاء والسين: كلمتان: إحداهما الشِّدة فى الأمور، والثانية من السِّرَار.\nفالأولى الوَهْس: شِدَّة السَّير. والوَهْس: شِدَّة الأَكْل. والوَهْس: شِدَّة الوَطْء. وقال حميد:\n* بِتَنَقُّص الأعراضِ والوَهْسِ (١) *\nفهذا من التَّوهُّس، وهو التشدُّدُ والتَّطاوُل على العشيرة.\nوالكلمة الأخرى: الوَهْس السِّرار. والوَهْس: الميَّمة.",
+ "az": "[وهس] الواو والهاء والسين (v-h-s): iki sözdür: biri işlərdə sərtlik, digəri isə gizli danışıq (sirar) mənasındadır. Birincisi: الوَهْس (əl-vəhs): gedişdə sərtlik. وَالوَهْس: yeməkdə şiddət. وَالوَهْس: ayaq basmaqda sərtlik. Hümeyd demişdir: * بِتَنَقُّص الأعراضِ والوَهْسِ (1) * (Namuslara toxunmaqla və sərt basmaqla). Bu, təvəhhüsdəndir ki, o da qəbiləyə qarşı sərtlik göstərmək və təkəbbürlənməkdir. Digər söz: الوَهْس (əl-vəhs): gizli danışıq. وَالوَهْس: meyilli olan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

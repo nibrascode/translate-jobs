@@ -1,0 +1,17 @@
+{
+ "i": 3483,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كدع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 165,
+  "page_to": 165
+ },
+ "ar": "الكاف والدال والعين ليس بشيءٍ، غير أنَّ ابنُ دريدٍ ذكر أن الكَدْع: الدَّفْع الشَّديد (٣).",
+ "az": "[كدع] (Kəf, Dal, Ayn) heç bir şey deyildir, lakin İbn Dureyd «الكَدْع»-in «الدَّفْع الشَّديد» (şiddətli itələmə) olduğunu qeyd etmişdir (٣).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

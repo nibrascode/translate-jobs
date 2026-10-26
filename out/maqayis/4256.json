@@ -1,0 +1,17 @@
+{
+ "i": 4256,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 6,
+  "page_to": 6
+ },
+ "ar": "الهاء والثاء قريبٌ من الذى قبلَه، ومعظمه الاختلاط.\n* يقولون: الهثْهثَة: الاختلاط. وهَثْهَثَتِ السّحابةُ بثَلْجِها وقَطْرها: أرسلَتْه بسرعة:\nوهَثْهَثَ الوالى: ظَلَمَ قال:\n* وَهَثْهَثُوا فكثُرَ الهَثْهَاثُ (١) *",
+ "az": "«هث» (الهاء والثاء): hə və sə hərfləri əvvəlki kökə yaxındır və onun əsas mahiyyəti qarışıqlıqdır.\n* Deyirlər: الهثْهثَة (əl-həthəthə): qarışıqlıq. وهَثْهَثَتِ السّحابةُ بثَلْجِها وقَطْرها (və həthəthətis-səhabətu bisəlcihi və qətrihə): bulud qarını və yağışını sürətlə göndərdi. Və هَثْهَثَ الوالى (və həthəthəl-vali): vali zülm etdi. Şair demişdir:\n* وَهَثْهَثُوا فكثُرَ الهَثْهَاثُ (١) *\n(Və onlar zülm/qarışıqlıq etdilər, nəticədə həthas çoxaldı)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:59.927Z"
+}

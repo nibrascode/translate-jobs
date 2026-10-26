@@ -1,0 +1,17 @@
+{
+ "i": 3273,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قحب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 62,
+  "page_to": 62
+ },
+ "ar": "القاف والحاء والباء كلمةٌ تدلُّ على سُعَال الخيل والإبل، وربما جُعِل للنَّاس",
+ "az": "[قحب] «قاف», «حاء» və «با» atların və dəvələrin öskürəyinə dəlalət edən kəlmədir, bəzən insanlar üçün də işlədilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:48.341Z"
+}

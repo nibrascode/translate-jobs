@@ -1,0 +1,17 @@
+{
+ "i": 3095,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 485,
+  "page_to": 485
+ },
+ "ar": "الفاء والدال والخاء ليس فيه إلاَّ طريفة ابنِ دريد: فدَخْتُ الشَّئ، مثل شَدخَته (١).",
+ "az": "[فدخ] (fədəh - x). Fə, dal və xə hərflərindən ibarətdir, burada İbn Düridin nadir ifadəsindən başqa bir şey yoxdur: فدَخْتُ الشَّئ (şeyi əzdim), şədəxtuhu (شَدخَته) kimidir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4505,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ودق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 96,
+  "page_to": 97
+ },
+ "ar": "الواو والدال والقاف: كلمةٌ تدلُّ على إتيانٍ وأَنَسَة. يقال وَدَقْتُ به، إذا أنِسْتَ به وَدْقاً. والمَوْدِق: المأتَى والمكان الذى تَقِفُ فيه آنِساً.\nومَوْدِق الظَّبْى: المكان يَقِف فيه إذا تناوَلَ الشَّجرة. ومنه قوله:\n* نُعفِّى بذيل المِرْط إذ جئتُ مَوْدِقِى (٣) *\nومنه أتَانٌ وَدِيقٌ، إذا أرادت الفحل، وبها وِدَاقٌ كأنَّها تأنس إليه وتستأنسه. والوَدْق: المَطَر، لأنَّه يَدِقُ، أى يجئ من السَّماء.\nومما شذَّ عن الباب الوَدَق: نُقَطٌ حُمر تخرجُ فى العين، الواحدة وَدَقة.",
+ "az": "[ودق] (və-də-qə): Vov, dal və qaf hərfləri gəlişə və ünsiyyətə dəlalət edən sözdür. Deyilir: وَدَقْتُ به (vədəqtu bihi), nə vaxt ki ona ünsiyyət bağladın, vədqən (وَدْقاً). المَوْدِق (əl-məvdiq) – gəlinən yer və ünsiyyət taparaq dayandığın yer. مَوْدِق الظَّبْى (məvdiquz-zabyi) – ceyranın ağacdan yığarkən dayandığı yer. Onun bu sözü də bundandır: * نُعفِّى بذيل المِرْط إذ جئتُ مَوْدِقِى (٣) * (nu‘affi bi-zəyil-mirṭi iz ci‘tu məvdiqi) – mürdək ətəyimizlə silirik mənim məvdiqimə gəldiyin zaman. Ətanun vədiqun (أتَانٌ وَدِيقٌ) – dişi eşşək təkə istədikdə, vədiqahun (بها وِدَاقٌ) – elə bil ona ünsiyyət bağlayır və alışır. الوَدْق (əl-vədq) – yağış, çünki o yedikə (يَدِقُ), yəni göydən gəlir. Babsına uyğun gəlməyən isə el-vədq (الوَدَق): gözdə çıxan qırmızı nöqtələrdir, təkliyi vədəqədir (وَدَقة).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

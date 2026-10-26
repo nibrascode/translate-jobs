@@ -1,0 +1,17 @@
+{
+ "i": 3584,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لهن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 217,
+  "page_to": 217
+ },
+ "ar": "اللام والهاء والنون كلمةٌ واحدة، اللُّهْنَةُ: ما يتعجَّله الرّجُل قبل غَدَائه. وقد تَلهَّن. ويقال بل اللُّهْنة: ما يُهديه الرّجلُ إذا قَدِم من سَفَره.",
+ "az": "[لهن] (ləhən) - Lam, ha və nun hərfləri tək bir kəlmədir. اللَّهْنَةُ (əl-ləhnətü): kişinin nahardan əvvəl tələsik yediyi şeydir. O, تلهَّن (tələhhən) etmişdir. Deyirlər bəlkə də əlləhnə: kişinin səfərdən qayıdarkən hədiyyə gətirdiyi şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

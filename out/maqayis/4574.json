@@ -1,0 +1,17 @@
+{
+ "i": 4574,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وضر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 120,
+  "page_to": 120
+ },
+ "ar": "الواو والضاد والراء (١)]: كلمة واحدة تدلُّ على لَطْخِ شئٍ بشئ. فالوَضَر مثل الدَّرَن والزَّهَم. قال:\n* أبارِيقُ لم يَعْلَقْ بها وَضَرُ الزُّبدِ (٢) *\nقال أبو عبيدة: يقال لبقيَّةِ الشَّئ على الشَّئ: الوضَر، كبقيّة الهِناء على البعير",
+ "az": "[وضر] (Vəzər): الواو والصاد والراء (vav, sad və ra): bir şeyi başqa bir şeylə bulandırmağa və ya ləkələməyə dəlalət edən tək kəlmədir. Vəzər (الوَضَر) — çirk və yağ kimidir. Şair demişdir: * أبارِيقُ لم يَعْلَقْ بها وَضَرُ الزُّبدِ (٢) * (...İbriklər ki, üzərinə kərə yağının çirkliyi yapışmamışdır). Əbu Ubeydə demişdir: Bir şeyin üzərində qalan artıq qismə vəzər deyilir, dəvənin üzərində qalan qətran (və ya məlhəm)artığı kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

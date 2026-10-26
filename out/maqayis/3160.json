@@ -1,0 +1,17 @@
+{
+ "i": 3160,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 5,
+  "page_to": 5
+ },
+ "ar": "القاف والباء أصلٌ صحيح يدلُّ على جمعٍ وتجمُّع. من ذلك القُبَّة، وهى معروفة، وسمِّيت لتجمُّعها. والقَبقَب: البطن، لأنَّه مجتَمع الطَّعام.\nوالقَبُّ فى البَكَرة (٣). وأمَّا قولُهم: إنَّ القَبَب: دِقَّة الْخَصْر فإنما معناه تجمُّعُه حتَّى يُرَى أنّه دقيق. وكذلك الخيلُ القُبّ، هى الضَّوامر، وليس ذلك [إلاَّ] لذَهابِ لُحُومِها والصَّلابةِ التى فيها. وأمَّا القَابّة فقال ابنُ السِّكِّيت: القَابّة: القَطْرة من المَطَر. قال: وكان الأصمعى يصحِّف ويقول: هى الرَّعد. والذى قاله ابنُ السِّكيت أصحُّ وأقْيَس؛ لأنَّها تَقُبُّ التُّرْبَ أى تجمعه.\nومما شذَّ عن هذا الباب تسميتُهم العام الثالث القُبَاقِب، فيقولون عامٌ، وقابلٌ، وقُبَاقِب (٤).\nومما شذَّ أيضاً قولُهم: اقتبَّ يدَه، إذا قَطعَها.",
+ "az": "[قب] (Q-B) Qaf və ba hərfləri toplamağa və toplanmağa dəlalət edən doğru bir kökdür. O cümlədən «القُبَّة» (əl-qubbə): məlumdur və toplanmasına görə belə adlanıb. «القَبقَب» (əl-qəbqəb): qarın, çünki o, yeməyin toplanma yeridir. «القَبُّ» (əl-qab): çarxda (٣). Onların «القَبَب» (əl-qəbəb): belin incəliyi demələrinə gəldikdə, bunun mənası onun toplanmasıdır ki, incə görünsün. Həmçinin «الخيلُ القُبّ» (incəbelli atlar): arıq atlardır, bu da onların ətinin getməsi və sahib olduqları möhkəmlikdən başqa bir şey [deyil]. «القَابّة» (əl-qabbə)-yə gəldikdə, İbn əs-Sikkit dedi: «القَابّة» (əl-qabbə): yağış damlasıdır. Dedi: Əl-Əsməi səhv edir və deyir ki, o, ildırımdır. İbn əs-Sikkitin dediyi daha doğru və daha ölçülüdür; çünki o, torpağı «təqubbu» (yəni toplayır). Bu bölümdən kənara çıxan üçüncü ilə «القُبَاقِب» (əl-qubaqib) demələridir, deyirlər: il, gələn il və «qubaqib» (٤). Həmçinin kənara çıxan onların «اقتبَّ يدَه» (əli kəsildi) demələridir, o zaman ki, onu kəsdi.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

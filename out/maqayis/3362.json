@@ -1,0 +1,17 @@
+{
+ "i": 3362,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 115,
+  "page_to": 115
+ },
+ "ar": "القاف والفاء والسين. يقولون: القَفَس: الغضب.",
+ "az": "[قفس] Qaf, fa və sin. Deyirlər ki, «qəfəs»: qəzəbdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.648Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4081,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 405,
+  "page_to": 405
+ },
+ "ar": "النون والخاء والراء أصلٌ صحيح يدلُّ عَلَى صوتٍ من الأصوات ثم يفرَّع منه. النخير: صوتٌ يخرج من المَنْخِرين، وسمِّي المَنخِران من جهة النَّخير الخارجِ منهما. وفُرِّع منه فقيل لخَرقَيِ الأنف النُّخرتان. والنَّخُور: الناقة لا تدرُّ حتَّى تُدخِل الإصبع في مَنْخِرها. ويقولون: النُّخْرة: الأنف نفسُه. ويقولون لهُبوب الرِّيح: نُخْرة. فأمَّا الشَّجَرة النَّخِرةُ والعظم النَّخر فمن هذا أيضاً؛ لأن ذلك يتجوَّف فتدخلُه الرِّيح، ويكون لها عند ذلك نُخْرةٌ، أي صوت. ويقولون:\nالنَّخِر: البالي. والناحر: الذي تدخل فيه الريح وتخرج منه ولها نَخِير. والقياس في كلِّه واحدٌ عندنا. وما بها ناخِرٌ، أي أحد، يراد بها مصوِّت.\nوممَّا يقارب هذا: النَّخْوَريّ: الواسع الإحليل، وذلك كأنَّه شيء يدخله الرِّيحُ بنُخْرة.",
+ "az": "[نخر] (N-X-R) Nun, xa və ra səslərdən birinə dəlalət edən səhih bir əsasdır, sonra ondan budaqlanır. «النخير» (ən-nəxir) - burun dəliklərindən çıxan səsdir, «المَنخِران» (əl-mənxiran - burun dəlikləri) də ondan çıxan səsə görə belə adlandırılmışdır. Ondan budaqlanaraq burun dəliklərinə «النُّخرتان» (ən-nuxrətan) deyilmişdir. «النَّخُور» (ən-nəxur) - barmağını burun dəliyinə soxmayana qədər süd verməyən dəvədir. Deyirlər ki, «النُّخْرة» (ən-nuxrə) - burunun özüdür. Küləyin əsməsinə də «نُخْرة» (nuxrə) deyirlər. «الشَّجَرة النَّخِرةُ» (çürük ağac) və «العظم النَّخر» (çürük sümük) də bu mənadandır; çünki o, içərisi boşaldıqda külək ona daxil olur və bu zaman onun bir «نُخْرة» (nuxrə), yəni səsi olur. Deyirlər: «النَّخِر» (ən-nəxir) - çürümüşdür. «الناحر» (ən-nahir) - küləyin daxil olub çıxdığı və səs (nəxir) çıxardığı şeydir. Bizim yanımızda bunların hamısında qiyas birdir. «وما بها ناخِرٌ» (orada heç bir səs çıxaran yoxdur), yəni heç kəs yoxdur, burada səs çıxaran nəzərdə tutulur. Buna yaxın olan: «النَّخْوَريّ» (ən-nəxvəriyy) - geniş burunlu, sanki küləyin səs çıxararaq daxil olduğu bir şey kimidir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

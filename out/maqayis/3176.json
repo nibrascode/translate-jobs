@@ -1,0 +1,17 @@
+{
+ "i": 3176,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قله",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 16,
+  "page_to": 16
+ },
+ "ar": "القاف واللام والهاء لا أحفَظُ فيه شيئاً، غير أنّ غَديرَ قَلَهَى: موضع.",
+ "az": "[قله] \nقاف, لام və hə hərfləri ilə başlanandan yadımda heç nə yoxdur, lakin «غَديرَ قَلَهَى» — bir yer adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:04.334Z"
+}

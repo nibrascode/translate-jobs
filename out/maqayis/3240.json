@@ -1,0 +1,17 @@
+{
+ "i": 3240,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قاب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 46,
+  "page_to": 46
+ },
+ "ar": "القاف والألف والباء. القابُ: القَدْر. وعندنا أنّ الكلمةَ فيها معنيان: إبدالٌ، وقَلْبٌ. فأمّا الإبدال فالباء مبدلة من دال، والألف منقلبة من ياء، والأصل * القِيدُ. قال اللّه تعالى ﴿فَكانَ قابَ قَوْسَيْنِ﴾. ويقال:\nالقَابُ: ما بين المَقْبِض والسِّيَة. ولكلِّ قوسٍ قابَانِ.\nومما ليس من هذا الباب ولكنِّه مهموز، قولهم: قَئِبَ من الشَّراب، إذا امتلَأَ.",
+ "az": "[قاب] (qab). Qaf, əlif və ba. القَابُ (əl-qab) — miqdar, ölçü. Bizə görə kəlmədə iki məna var: əvəzlənmə və təhrif (qəlb). Əvəzlənməyə gəldikdə, ba hərfi dal hərfi ilə əvəzlənmiş, əlif isə ya hərfindən çevrilmişdir və əsli * القِيد (əl-qid) kəlməsidir. Uca Allah buyurmuşdur: مənaca tərcümə: ﴿فَكانَ قابَ قَوْسَيْنِ﴾ (Və o, iki yay məsafəsində oldu). \nDe سلسلےr ki: \nالقَابُ (əl-qab) — tutacaqla yayın ucu (siyə) arasındakı məsafədir. Hər bir yayın iki qabı var.\n\nVə bu fəsildən olmayan, lakin həmzəli olan söz onların: قَئِبَ مِنَ الشَّرَابِ (qəibə min əş-şərab) — içkidən doyub doldurdu, - demələridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

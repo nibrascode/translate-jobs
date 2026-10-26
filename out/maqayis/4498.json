@@ -1,0 +1,17 @@
+{
+ "i": 4498,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وخف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 95,
+  "page_to": 95
+ },
+ "ar": "الواو والخاء والفاء: كلمةٌ، هى الوَخيف: ضَرْبُك الخَطْمىَّ فى الطَّسْت، تُوخِفُه ليختلط.",
+ "az": "[وخف] (və-xa-fə): Vov, xain və fa hərfləri bir sözdən ibarətdir: الوَخيف (əl-vəxif) – xətmini (güləvəri) həvəngdəstədə döyməyin, qarışması üçün onu توخِفُه (tuxifuhu) – əzməyin.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

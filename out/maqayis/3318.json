@@ -1,0 +1,17 @@
+{
+ "i": 3318,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قشم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 91,
+  "page_to": 91
+ },
+ "ar": "القاف والشين والميم أُصَيلٌ إن صحّ فهو من الأكل وما ضاهاه من المأكول. قالوا: القَشْم: الأكل. والقُشَام: ما يُؤكَل. وقال ابن دريد:\n«قُشَام المائدة: ما نُفِض منها من باقي خُبزٍ وغيرِه (٥)». ويقال: ما أصابت الإبِلُ مَقْشَما، أي لم تُصِب ما ترعاه.\nومما شذَّ من هذا الباب إنْ صحَّ قولُهم: قَشَمت الخُوصَ، إذا شقَقتَه، لتَسفَّهُ. وكلُّ ما شُقَّ منه فهو قُشَام.",
+ "az": "«قشم»: القاف, Şin və Mim kiçik bir kökdür, əgər səhihdirsə, o, yemək və yeyilən şeylərdən ona bənzər şeylər haqqındadır. Dedilər ki, «القَشْم» — yeməkdir. «القُشَام» — yeyilən şeydir. İbn Dureyd demişdir:\n«Stolüstü «قُشَام»: çörək və digər şeylərdən oradan tökülən qırıntılardır (٥)». Deyilir: «ما أصابت الإبِلُ مَقْشَما» (Dəvələr otlaq tapmadı), yəni otlayacaqları bir şey əldə etmədilər.\n\nBu fəsildən qaydadan kənara çıxan (şəzz) – əgər doğru olarsa – onların şu sözüdür: «قَشَمْت الخُوصَ» (Xovs çubuqlarını yardın), yəni onu hörmək üçün yardın. Undan yarılan hər bir şey «قُشَام» adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:36:22.598Z"
+}

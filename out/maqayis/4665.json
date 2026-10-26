@@ -1,0 +1,17 @@
+{
+ "i": 4665,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وهج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 147,
+  "page_to": 147
+ },
+ "ar": "الواو والهاء والجيم: كلمةٌ واحدة، وهى الوَهَج: حَرُّ النَّار وتوَقُّدُها. ويُستعار ذلك فيقال: تَوهَّجَ * الجوهرُ: تلألأ. وتوهَّجَتْ رائحةُ الطِّيب ووَهَج الطِّيب: أرَجُه ورائحتُه. وسراجٌ وَهَّاجٌ: وَقّادٌ. وكذلك نَجْمٌ وَهَّاج.",
+ "az": "[وهج] الواو والهاء والجيم (v-h-j): tək bir sözdür, o da الوَهَج (əl-vəhəc): odun hərarəti və alovlanmasıdır. Bu, məcazi olaraq da işlədilir, belə ki, deyilir: تَوَهَّجَ الجوهرُ (Cəvahirat parıldadı). وَتَوَهَّجَتْ رائحةُ الطِّيب وَوَهَج الطِّيب (Ətrin qoxusu yayıldı və ətrin alovu: onun ətri və qoxusu). وَسراجٌ وَهَّاجٌ (çox yanan, şölələnən lampa). Həmçinin نَجْمٌ وَهَّاج (parıldayan ulduz).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4494,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وخز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 94,
+  "page_to": 94
+ },
+ "ar": "الواو والخاء والزاء: كلمةٌ واحدة، هى الوَخْز: الطَّعن بالرمح وغيره، ولا يكون نافذاً.",
+ "az": "[وخز] الواو والخاء والزاء (və, xa və zay) — tək bir sözdür, o da الْوَخْزُ (vəxz)dir: nizə və s. ilə dərindən deşmədən vurmaq, sancmaq.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

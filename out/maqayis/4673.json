@@ -1,0 +1,17 @@
+{
+ "i": 4673,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 149,
+  "page_to": 149
+ },
+ "ar": "الواو والهاء واللام كلماتٌ لا تنقاس، وهى الوَهَل: الفَزَع.\nيقال: وَهِلَ يَوْهَلُ. قال أبو زيد: وَهَلْتُ عن الشَّئِ: نَسِيته. ووَهَلْتُ إليه:\nذَهَب وَهْمِى إليه. ولقينُه أوَّلَ وَهْلَةٍ، أى قبلَ كلِّ شَئ.",
+ "az": "[وهل] الواو والهاء واللام (v-h-l): müqayisə olunmayan sözlərdir, onlar da الوَهَل (əl-vəhəl): qorxudur. Deyilir: وَهِلَ يَوْهَلُ (qorxdu, qorxar). Əbu Zeyd demişdir: وَهَلْتُ عن الشَّئِ (Mən o şeyi unutdum). وَهَلْتُ إليه (Vəhmim, xəyalım ona tərəf getdi). وَلَقينُه أوَّلَ وَهْلَةٍ (Onunla ilk baxışdan, hər şeydən əvvəl qarşılaşdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

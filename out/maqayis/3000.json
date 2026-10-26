@@ -1,0 +1,17 @@
+{
+ "i": 3000,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فلح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 450,
+  "page_to": 450
+ },
+ "ar": "الفاء واللام والحاء أصلان صحيحان، أحدُهما يدلُّ على شَقٍّ، والآخر على فَوْزٍ وبَقاء.\nفالأوَّل: فَلَحتُ الأرضَ: شَقَقتُها. والعرب تقول: «الحديد بالحديد يُفْلَح». ولذلك سمِّى الأكّار فَلاَّحا. ويقال للمشقوق الشَّفةِ السُّفلى: أفْلَحُ، وهو بيِّن الفَلَحَة. وكان عنترةُ العبسىُّ يلقَّب «الفَلْحاء» لَفلَحةٍ كانت به. قال:\nوعَغْترةُ الفَلحاءُ جاء مُلَأَّماً … كأنَّك فنِدٌ من عَمَايةَ أسودُ (١)\nوالأصل الثّانى الفَلَاح: البقاء والفَوْز. وقولُ الرّجُل لامرأته: «استَفلِحِى بأمرِك»، معناه فُوزِى بأمرك. والفَلَاح: السَّحُور. قالوا: سمِّى فَلَاحاً لأنَّ الإنسانَ تبقى معه قُوّتُه على الصَّوم. و\nفى الحديث: «صلّينا مع رسول اللّه صلّى اللّه عليه وآله حتَّى خنْنا أنْ يَفوتَنا الفَلَاح». قال الشَّاعر:\nلكلِّ همٍّ من الهُمومِ سَعَهْ … والمُسْى والصُّبْحُ لا فَلَاح مَعَهْ (٢)",
+ "az": "[فلح] (fə-lə-h). Fə, lam və ha iki səhih əsasdır, biri yarmağa, diğəri zəfər və qalıcılığa dəlalət edir.\nBirincisi: «فَلَحتُ الأرضَ» — torpağı yardığımı (şumladığımı) bildirir. Ərəblər deyirlər: «الحديد بالحديد يُفْلَح» (Dəmir dəmirlə şumlanar). Buna görə də əkinçiyə «فَلاَّح» (fallah) deyilir. Alt dodağı yarıq olan kəsə «أفْلَح» (əfləh) deyilir və onda «فَلَحَة» (fələhə) aşkar olur. Antərə əl-Əbsi aşağıdakı yarığına görə «الفَلْحاء» (Fəlha) ləqəbi ilə çağrılırdı. O demişdir:\nوعَغْترةُ الفَلحاءُ جاء مُلَأَّماً … كأنَّك فنِدٌ من عَمَايةَ أسودُ (1)\nİkinci əsas «الفَلَاح» (fəlah) — qalıcılıq və zəfərdir. Kişinin zövcəsinə «استَفلِحِى بأمرِك» (Öz işinlə zəfər çal) deməsi bu mənanı verir. «الفَلَاح» — səhər yeməyidir (səhur). Alimlər demişlər ki, bu, ona görə fəlah adlanmışdır ki, insan bununla oruc tutmaq üçün qüvvəsini qoruyub saxlayır. Hədisdə gəlmişdir: «صلّينا مع رسول اللّه صلّى اللّه عليه وآله حتَّى خنْنا أنْ يَفوتَنا الفَلَاح» (Biz Allahın Rəsulu - sallallahu aleyhi və alih - ilə elə namaz qıldıq ki, az qala səhurumuz (və ya fəlahımız) əldən gedəcəkdi). Şair demişdir:\nلكلِّ همٍّ من الهُمومِ سَعَهْ … والمُسْى والصُّبْحُ لا فَلَاح مَعَهْ (2)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:24:42.634Z"
+}

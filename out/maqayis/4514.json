@@ -1,0 +1,17 @@
+{
+ "i": 4514,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وذم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 99,
+  "page_to": 99
+ },
+ "ar": "الواو والذال والميم: كلمةٌ تدلُّ على تعليق شئٍ بشئ. منهُ قولُهم: وذَّمْتُ الكلبَ، إذا جعلتَ له قِلادة. والوَذَمة: الحُزَّة من الكَرِش المعلَّقة، والجمع وِذام. والوَذَم: جمع وَذَمَة، وهى سيورٌ تشدُّ بعَرقُوَةِ الدَّلو.\n[و] وَذِمت الدّلوُ: انقطَعَ وَذَمُها. أمَّا وذائمُ الأموال فهى التى نُذِرَت فيها النُّذور. والقياس واحد كأنَّها ليست من خالص المال الذى يجوز التصرُّف فيه، بل هى معلَّقة على المال. ويقال: بل الوذيمة: الهَدْى يُهْدَى للنُّسُك. وقولهم: وَذَّمَ فلانٌ على المائة: زادَ، من هذا أيضاً، كأنَّ الزّيادة معلَّقة بالمائة.",
+ "az": "[وذم] (və-zə-mə): Vov, zal və mim hərfləri bir şeyin başqa bir şeydən asılmasına dəlalət edən sözdür. Onların bu sözü bundandır: وذَّمْتُ الكلبَ (vəzzəmtul-كalbə) – itdən boyunbağı asdığın zaman. والوَذَمة (əl-vəzəməh) – işgəmbədən asılan ət parçası, cəmi vizam (وِذام) gəlir. الوَذَم (əl-vəzəm) – vəzəməh sözünün cəmidir, o da su qabının ağacına bağlanan qayışlardır. [و] وَذِمت الدّلوُ (vəzimətul-dəlu) – qabın qayışı qopdu. Vəzəimul-əmval (وذائم الأموال) isə haqqında nəzir deyilmiş maldır. Qayda eynidir, sanki o sərbəst tasarruf edilən xalis mal deyil, mala bağlanmışdır. Deyilir: Bəlkə vəziməh (الوذيمة) – ibadət üçün hədiyyə edilən qurbandır. Onların فلانٌ على المائة وذَّمَ (vəzzəmə fulənun ‘aləl-miəh) sözü: artırdı, bu da bundandır, sanki artım yüzə bağlanmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4119,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 420,
+  "page_to": 420
+ },
+ "ar": "النون والسين والكاف أصلٌ صحيح يدلُّ على عِبادةٍ وتقرُّب إلى اللّه تعالى. ورجلٌ ناسك. والذَّبيحة التي تَتَقرَّب بها إلى اللّه نَسِيكة.\nوالمَنْسَك: الموضع يذبَح فيه النَّسائِك، ولا يكون ذلك إلاّ في القُرْبان. وزعم ناسٌ أنَّ المَنْسَك (٢): المكان يألفه. وفيه نظر.",
+ "az": "[نسك] (nəsəkə): Nun, sin və kaf ibadətə və Uca Allaha yaxınlaşmağa dəlalət edən səhih əsldir. Rəcülun nasik (abid kişi). Allaha yaxınlaşmaq üçün kəsdiyin qurban ən-nəsikə (qurbanlıq).\n\nƏl-mənسək (mənsək): qurbanların kəsildiyi yer, bu da yalnız Allaha yaxınlaşmaq (qürban) məqsədilə olur. Bəzi adamlar iddia etmişlər ki, əl-mənسək (٢) alışdığı məkandır. Bunda nəzər (araşdırma) vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 2982,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فقم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 442,
+  "page_to": 442
+ },
+ "ar": "الفاء والقاف والميم أصلٌ صحيحٌ يدلُّ على اعوجاج وقلّة استقامة. من ذلك الأمْرُ الأفْقَمُ، هو الأعوج. والفَقَم: أن تتقدَّمَ الثَّنايا السُّفلى فلا تقَعَ عليها العُليا. وهذا هو أصل الباب: وزعم أبو بكر (١): أنَّ الفَقَم الامتلاء. يقال: أصاب من الماء حَتَّى فَقِمَ، هو أصل الباب. فإن كان هذا صحيحاً فهو أيضاً من قياسه.",
+ "az": "[فقم]\nFə, qaf və mim hərfləri əyriliyə və düzlüyün azlığına dəlalət edən səhih bir əsldir. Bu qəbildəndir: «الأمْرُ الأفْقَمُ» (əl-əmru-l-əfqəm) — əyri, dolaşıq işdir. «الفَقَم» (əl-fəqam) — alt kəsici dişlərin qabağa çıxması və üst dişlərin onların üstünə oturmamağıdır. Bu babın əsli budur. Əbu Bəkr (١) isə iddia etmişdir ki, «الفَقَم» (əl-fəqəm) dolmaq, toxluq deməkdir. Deyilir: «أصاب من الماء حَتَّى فَقِمَ» (suya nail oldu, hətta doyunca içib doldu). Əgər bu səhihdirsə, o da bu qiyasdandır.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3948,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ملق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 351,
+  "page_to": 351
+ },
+ "ar": "الميم واللام والقاف أصلٌ صحيحٌ يدلُّ على [تجرُّد] في الشيء ولين. قال ابن السكِّيت: المَلَق من التملُّق، وأصله التَّليين. والمَلَقَة: الصَّفاة المَلْسَاء. ويقال الإملاق: إتلافُ المال حَتَّى يُحوِج. والقياس واحد، كأنَّه تجرَّدَ عن المال. وانْمَلَقَ ساعدُ الرجل: انسحَجَ من حَمْل الأحمال. قال:\nوحَوْفَلٌ ساعدُه قد انْمَلَقْ … يقول قَطْبًا ونعِمَّا إن سَلَق (٢)\nوالمَلَقَة: الأرض لا يكاد يَبِين فيها أثر، والجمع المَلَق والمَلَقَات. ومَلَقْتُ الثوب: غَسَلتُه، لأنَّك تجرِّده عن الوسَخ.",
+ "az": "«ملق» — الميم واللام والقاف (mim, lam və qaf) bir şeydə [soyulmağa] və yumşaqlığa dəlalət edən əsli səhihdir. İbn əs-Sikkit demişdir: «الملق» — yaltaqlıqdan (التملّق) gəlir, əsli isə yumşaltmaqdır. «الملقة» — hamar daş. Deyilir: «الإملاق» — insanı ehtiyaclı vəziyyətə salana qədər malı israf etmək. Qiyas eynidir, sanki maldan soyulmuşdur. «انْمَلَق ساعد الرجل» — kişinin qolu yük daşımaqdan sürtülüb soyuldu. O demişdir:\nوحَوْفَلٌ ساعدُه قد انْمَلَقْ … يقول قَطْبًا ونعِمَّا إن سَلَق (٢)\nVə «الملقة» — üzərində heç bir iz bilinməyən yer; cəmi «المَلَق» və «المَلَقَات». «ملَقْت الثوب» — paltarı yudum, çünki sən onu çirkdən təmizləyib soyursan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:03.921Z"
+}

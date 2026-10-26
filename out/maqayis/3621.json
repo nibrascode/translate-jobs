@@ -1,0 +1,17 @@
+{
+ "i": 3621,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لبق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 231,
+  "page_to": 231
+ },
+ "ar": "اللام والباء والقاف أصلٌ صحيحٌ يدلُّ على خَلْط شيء لتطييبه. يقال لبَقْتُ الطعام ولبَّقته، إذا ليّنتَه وطيَّبتَه. ومن الباب اللَّبِق:\nالحاذِق بالشيء يَعملُه. ورجلٌ لبِقٌ ولَبِيق. والمصدر اللَّبَاقة. قال الشَّاعر (١):\n* لبيقاً بتصريف القناة بنانيا (٢) *",
+ "az": "«لبق» (Lam, ba və qaf) bir şeyi gözəlləşdirmək üçün qarışdırmağa dəlalət edən səhih bir əsldir. Deyilir: لبَقْتُ الطعام ولبَّقته (ləbəqtut-təamə və ləbbəqtuh) — yeməyi yumşaltdın və gözəlləşdirdin. Bu babdandır: اللَّبِق (əl-ləbiq): bir şeyi edən mahir adam. Və kişi لَبِقٌ (ləbiqün) və لَبِيق (ləbiqün). Və məsdər اللَّبَاقة (əl-ləbaqə) — bacarıqlılıqdır. Şair demişdir (١): * لبيقاً بتصريف القناة بنانيا (٢) * (Nəzmləri usta surətdə çevirməkdə mahir, barmaqları incə olan...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

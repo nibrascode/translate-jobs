@@ -1,0 +1,17 @@
+{
+ "i": 3726,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 268,
+  "page_to": 268
+ },
+ "ar": "الميم والتاء أُصيل يدلُّ على مدٍّ ونَزْع في الشيء. يقال مَتَتُّ ومدَدْتُ ومنه قولهم يَمُتّ بكذا، إذا توصَّل بقرابةٍ وما أشبهها. ومنه المَتُّ: النَّزْع من البِئر على غير بَكَرة.",
+ "az": "«مت» (mətə) — Mim və tə hərfləri bir əsl olub, bir şeydə uzatmağa və çəkməyə dəlalət edir. «متَتُّ ومدَدْتُ» (mətəttü və mədədtü) — uzatdım və çəkdim, deməkdir. Eynilə onların «يَمُتّ بكذا» (yəmüttu bi-kəzə) sözü də bundandır; qohumluq və bu kimi şeylərlə vasitə əldə etdikdə deyilir. Həmçinin «المت» (əl-mət) — çarx olmadan quyudan su çəkmək.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

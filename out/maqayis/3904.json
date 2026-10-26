@@ -1,0 +1,17 @@
+{
+ "i": 3904,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 335,
+  "page_to": 335
+ },
+ "ar": "الميم والعين والتاء. قال أبو بكر (٤): المَعْت: الدَّلْك ومَعتُّ الأديمَ: دلكتُه. وهو عند الخليل مُهمَل.",
+ "az": "[معت] \nMim, eyn və ta hərfləri. Əbu Bəkr demişdir (٤): المَعْت — ovuşdurmaqdır, معتُّ الأديمَ: dərini ovuşdurub yumşaltdım. Bu, Xəlilə görə ihmal olunmuşdur (işlədilməmişdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

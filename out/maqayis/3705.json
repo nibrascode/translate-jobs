@@ -1,0 +1,17 @@
+{
+ "i": 3705,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لفت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 258,
+  "page_to": 258
+ },
+ "ar": "اللام والفاء والتاء كلمةٌ واحدة تدلُّ على اللَّيِّ وصرف الشيء عن جهتهِ المستقيمةِ. منه لَفَتُّ الشّيءَ: لوَيْتُه. ولفَتُّ فلاناً عن رأيه: صرفْتُه.\nوالألْفَتُ: الرّجل الأعسَر. وهو قياس الباب: واللَّفِيتة: الغَليظة من العَصائد، لأنّها تُلفَت، أي تُلْوى. وامرأةٌ لَفوت: لها زوجٌ ولها ولدٌ من غيره فهي تلفتُ إلى ولدِها. ومنه الالتفات، وهو أن تَعدِل بوجهك، وكذا التلفّت. قال أبوبكر:\nولفَتُّ اللِّحاء عن الشَّجرة: قَشَرته (٢).",
+ "az": "«لفت» — lam, fa və ta əyməyə və bir şeyi düz istiqamətindən döndərməyə dəlalət edən tək bir sözdür. Ondandır: «لَفَتُّ الشّيءَ» (lafattou ash-shai'a) — onu əydim. «ولفَتُّ فلاناً عن رأيه» (walafattou fulanan 'an ra'yihi) — filankəsi rəyindən döndərdim.\nVə «الألْفَتُ» (al-alfat) — solaxay kişi. Bu, bölmənin qaydasına uyğundur: «واللَّفِيتة» (al-lafiytah) — qatı sıyıq növüdür, çünki o, «تُلْفَتُ» (tulfa-tu), yəni qarışdırılıb əyilir/döndərilir. «امرأةٌ لَفوت» (imra'atun lafout) — elə qadındır ki, ərə gedib başqasından da övladı var, ona görə də tez-tez övladına tərəf boylanır. Ondandır «الالتفات» (al-iltifat) — üzünü yana çevirmək, həmçinin «التلفّت» (at-talaffat) də belədir. Əbu Bəkr demişdir:\n«ولفَتُّ اللِّحاء عن الشَّجرة» (walafattou al-liha'a 'an ash-shajarah) — ağacın qabığını soyub çıxardım (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.564Z"
+}

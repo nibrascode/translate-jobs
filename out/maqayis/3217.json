@@ -1,0 +1,17 @@
+{
+ "i": 3217,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قهر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 35,
+  "page_to": 35
+ },
+ "ar": "القاف والهاء والراء كلمةٌ صحيحةٌ تدلُّ على غَلَبة وعُلُوّ. يقال:\nقَهَرَه يَقهره قَهْراً. والقاهر: الغالب. وأقْهَرَ الرّجُل، إذا صُيِّر فى حالٍ يذلُّ فيها. قال:\nتَمَنّى حُصَيْنٌ أنْ يَسُودَ جذاعَهُ … فأمسى حُصينٌ قد أذَلَّ وأَقْهَرا (١)\nوقُهِر، إذا غُلِبَ. ومن الباب: قُهِرَ اللَّحمُ: طبِخ حَتَّى يسيل ماؤُه.\nوالقهقر، فيما يقال: التَّيْس (٢). فإنْ كان صحيحاً فلعلَّه من القياس الذى ذكرناه.\nوالقَهْقَر (٣): الحجر الصُّلب. وليس يبعد عن الأصل الذى بُنِىَ عليه الباب.\nومما شذَّ عن ذلك: [رَجَع (٤)] القَهْقَرَى، إذا رجع إلى خَلْفِه.",
+ "az": "[قهر] Qaf, hə və ra qələbəyə və ucalığa dəlalət edən səhih bir kəlmədir. Deyilir: «قَهَرَه يَقهره قَهْراً» (Ona qalib gəldi, qəhr etdi). Və əl-qahir (القاهر): qalib gələn. Və «أَقْهَر الرّجُل» — kişi zəlil olacağı bir hala salındıqda. (Şair) demişdir:\nتَمَنّى حُصَيْنٌ أنْ يَسُودَ جذاعَهُ … فأمسى حُصينٌ قد أذَلَّ وأَقْهَرا (١)\n(Hüseyn istədi ki, gənc dəvələrə ağalıq etsin, lakin Hüseyn zəlil edilmiş və məğlub edilmiş hala düşdü.)\nVə «قُهِر» — məğlub olduqda. Və bu fəsildəndir: «قُهِرَ اللَّحمُ» — suyu axana qədər bişirildi.\nVə əl-qəhqər (القهقر), deyilənlərə görə: təkədir (٢). Əgər bu səhihdirsə, bəlkə də qeyd etdiyimiz qiyasdandır.\nVə əl-qəhqər (القَهْقَر) (٣): sərt daş. Və bu, fəslin qurulduğu əldən uzaq deyil.\nVə bundan şaz olan (kənara çıxan) mərhələlərdəndir: «رَجَع القَهْقَرَى» — geriyə doğru qayıtdıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.257Z"
+}

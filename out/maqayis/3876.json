@@ -1,0 +1,17 @@
+{
+ "i": 3876,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مشي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 325,
+  "page_to": 325
+ },
+ "ar": "الميم والشين والحرف المعتل أصلانِ صحيحان، أحدهما يدلُّ على حركة الإنسان وغيره، والآخَر النَّماء والزيادة.\nوالأوّل مَشَى يمشِي مَشْيا. وشرِبْتُ مَشُوًّا ومَشِيًّا، وهو الدَّواء الذي يُمْشِي.\nوالآخر المَشَاء، وهو النِّتاج الكثير، وبه سمِّيت الماشية. وامرأةٌ ماشية: كثُر ولدُها. وأمْشَى الرّجُل: كثُرت ماشيتُه.",
+ "az": "«مشي» (məşy) — mim, şin və hərfi-illə (uzunluq hərfi) iki səhih kökə malikdir; bunlardan biri insanın və başqasının hərəkətinə, diğəri isə inkişafa və artıma dəlalət edir. Birincisi: مَشَى يمشِي مَشْيا (məşə yəmşi məşyən) — yeridi, yeriyir. Və şiribtu مَشُوًّا və مَشِيًّا (məşüvvən və məşiyyən) — içdim, bu, yürüdən (işlədən) dərmandır. Digəri isə المَشَاء (əl-məşəu) — çoxlu nəsil, törəmədir, «ماشية» (maşiyə - mal-qara) sözü də bundan adlanmışdır. Və امْرَأةٌ ماشيةٌ (imratün maşiyətün) — övladı çox olan qadın. Və أمْشَى الرّجُل (əmşər-raculu) — mal-qarası çoxaldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3065,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فجر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 475,
+  "page_to": 476
+ },
+ "ar": "الفاء والجيم والراء أصلٌ واحدٌ، وهو التفتح فى الشَّئ. من ذلك الفَجْر: انفِجار الظُّلمة عن الصُّبح. ومنه: انفجَرَ الماء انفجاراً: تفتَّحَ.\nوالفُجْرَة: موضع تفتُّح الماء. ثمَّ كثُر هذا حتَّى صار الانبعاثُ والتفتُّح فى المعاصى فُجورا ولذلك سمِّى الكَذِب فجوراً. ثم كثُر هذا حتَّى سمِّى كلُّ مائلٍ عن الحقِّ فاجرا. وكلُّ مائلٍ عندَهم. فاجر. قال لبيد:\nفإنْ تتقدَّمْ تَغْشَ منها مقدَّما … غليظاً وإن أخَّرتَ فالكِفل [فاجرُ (٢)]\nومن الباب الفَجَر، وهو الكرم والتفجُّر بالخير. ومَفَاجِر الوادى: مَرافِضُه، ولعلَّها سمِّيت مفاجرَ لانفجار الماء فيها. قال:\nبجَنْبِ العَلَنْدَى حيث نام المَفاجِرُ (١)\nومُنْفجر الرمل (٢): طريق يكون فيه. ويوم الفِجارِ (٣). يومٌ للعرب استُحِلّتْ فيه الحُرمة.",
+ "az": "«فجر» (fə-c-r): Fə, cim və ra hərfləri tək bir əsas mənanı göstərir ki, o da bir şeyin açılmasıdır. Bunlardan biri də «الفَجْر» (fəcr) - zülmətin sübh ilə açılmasıdır. Həmçinin «انفجَرَ الماء انفجاراً» (su coşub axdı, yarıldı) - açıldı deməkdir. «الفُجْرَة» (fuçrə) - suyun açılıb axdığı yerdir. Sonra bu məna genişlənərək günahlarda sərhədi aşmaq və haqq yolundan açılıb çıxmaq mənasında «فجور» (fucur) adlandırılmışdır, məhz buna görə yalan da fəcur (günah) adlanmışdır. Sonra bu, o həddə çatdı ki, hər bir haqqdan azan kəs «فاجر» (fagir) adlandırıldı. Onlara görə hər azan kəs fagirdir. Ləbid demişdir: «İn təqaddəm təğşə minha muqəddəman ğalizan və in əhhərtə fəl-kiflu fagirü» (Əgər irəli keçsən, oradan sərt bir ön hissə ilə qarşılaşarsan, yox əgər geri qalsan, yükü daşıyan hissə də azğındır / fagirdir) (٢). Bu qrupdandır «الفَجَر» (fəcər), o da səxavət və xeyirlə coşub-daşmaqdır. «مَفَاجِر الوادى» (məfəcirül-vadi) - vadinin su axarlarıdır, ehtimala görə ora su coşub axdığı üçün məfəcir adlandırılmışdır. O demişdir: «Bi-cənbiil-ələndai həysu naməl-məfəciru» (Ələndə dağının yanında, su axarlarının yatdığı yerdə) (١). Və «منفجر الرمل» (munfəcirur-rəml) - içindən yol keçən qumluqdur. «يوم الفِجارِ» (Yəumul-ficar) (٣) - ərəblərin haramın halal sayıldığı günüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

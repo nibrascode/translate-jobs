@@ -1,0 +1,17 @@
+{
+ "i": 4215,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 466,
+  "page_to": 467
+ },
+ "ar": "النون والقاف والثاء كلمةٌ صحيحة تدلُّ على خَلْطِ شيءٍ بشيء ونَقْلِه. ونَقَثَ ما في منزلي أجْمَع: نقلَه كلّه. ونَقّثوا حديثَهم: خلَطوه، كما ينقّث\nالطَّعام. وخرج ينقِّث: يُسرع في نقل قوائمه. ونَقَثت العظمَ أنْقُثُه: استخرجتُ ما فيه من لُخّ؟.",
+ "az": "[نقث] Nun, qaf və sə kəlməsi bir şeyi başqa bir şeyə qarışdırmağa və daşımağa dəlalət edən səhih bir kəlmədir. ونَقَثَ ما في منزلي أجْمَع: evimdə olan hər şeyi daşıdı. ونَقّثوا حديثَهم: sözlərini yeməyi qarışdırdıqları kimi qarışdırdılar. Və o, ينقِّث şəklində çıxdı: ayaqlarını daşımaqda tələsir. ونَقَثت العظمَ أنْقُثُه: sümükdə olan iliyi çıxardım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:21.983Z"
+}

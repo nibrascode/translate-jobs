@@ -1,0 +1,17 @@
+{
+ "i": 3464,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كتع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 157,
+  "page_to": 157
+ },
+ "ar": "الكاف والتاء والعين كلماتٌ غير موضوعةٍ على قياس، وليست من الكلام الأصِيل. يقولون الكُتَع: الرّجُل اللَّئيم. ويقولون كَتَع بالشيء:\nذَهَب به. وما بالدّارِ كتيعٌ، أي ما فيها أحد. وكَتَع فلانٌ في أمره: شَمَّر. وجاء القومُ أجمعون أكتَعُون على الإتباع",
+ "az": "[كتع] (Kətəə). Kaf, ta və eyn (الكاف والتّاء والعين) – qaydaya uyğun qoyulmamış və əsl kəlamdan olmayan sözlərdir. Deyirlər ki, əl-kutə (الكُتَع) – alçaq kişidir. Deyirlər: كَتَع بالشيء (şeylə birlikdə getdi) – onu götürüb apardı. وما بالدّارِ كتيعٌ (evdə kətiy yoxdur) – yəni orada heç kəs yoxdur. كَتَع فلانٌ في أمره (filankəs işində şəmər açdı) – səy göstərdi. Qövm gəldi: أجمعون أكتَعُون (hamısı birlikdə, bütünlüklə) təqib olaraq işlədildi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:41:04.625Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3058,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فتك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 471,
+  "page_to": 472
+ },
+ "ar": "الفاء والتاء والكاف كلمةٌ تدلُّ على خلاف النُّسك الصَّلاح.\nمن ذلك الفَتْك، وهو الغَدْر، وهو الفِتْك أيضا (٣). يقال: فتَكَ به: اغتاله. و\nفى الحديث: «الإيمان قَيْد الفَتْك». وقال الشَّاعر (٤):\nلا مَهْرَ أغلَى من علىٍّ وإنْ غَلَا … ولا فَتْكَ إلاّ دُونَ فتكِ ابن مُلْجِم (١)",
+ "az": "[فتك] (f-t-k): Fə, ta və kaf hərflərindən ibarət bir söz olub, itaətkarlığın və səlahın əksinə dəlalət edir. Bunlardan biri «الفَتْك» (fətk) sözüdür ki, xəyanət etmək deməkdir, o həm də «الفِتْك» (fitk) adlanır (3). Deyilir: «فتَكَ به» (ona xəyanət edərək öldürdü / qətlə yetirdi). Hədisdə gəlmişdir: «الإيمان قَيْد الفَتْك» (İman qəfil qətlin (və ya xəyanətin) buxovudur). Şair demişdir (4): «لا مَهْرَ أغلَى من علىٍّ وإنْ غَلَا … ولا فَتْكَ إلاّ دُونَ فتكِ ابن مُلْجِم» (1) (Hətta bahalı olsa belə, Əlidən daha bahalı mehr yoxdur... İbn Mülcəmin xəyanətindən başqa bir xəyanət yoxdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

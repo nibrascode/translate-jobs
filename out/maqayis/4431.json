@@ -1,0 +1,17 @@
+{
+ "i": 4431,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 75,
+  "page_to": 75
+ },
+ "ar": "الواو والخاء. يدلُّ على اختلاطٍ واضطراب. ورجلٌ وَخْواخٌ مختاطٌ ضعيف. قال:\n* لم أَكُ فى قومِى امرأً وَخْواخَا (٣) *",
+ "az": "[وخ] (Vav və xa). Qarışıqlığa və iztiraba dəlalət edir. Və kişi (وَخْواخٌ) (vəxvax) — qarışıq, zəifdir. O demişdir:\n* لم أَكُ فى قومِى امرأً وَخْواخَا (٣) *\n(Mən qövmüm içində zəif bir kişi olmamışam)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4349,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هذم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 45,
+  "page_to": 45
+ },
+ "ar": "الهاء والذال والميم: كلمةٌ صحيحة، تدلُّ على قَطعٍ لشئٍ.\nوهَذْم السَّيف: قَطْعُه. وسَيفٌ مِهْذَمٌ وهُذَامٌ وهَيْذامٌ. ويسمَّى الشُّجاع هَيذاماً، تشبيهاً له بهذا السَّيف.",
+ "az": "[هذم] (hə-zə-mə): Hə, zal və mim – bir şeyi kəsməyə dəlalət edən səhih bir kəlmədir.\nوهَذْم السَّيف (Qılıncın kəsməsi). Və سَيفٌ مِهْذَمٌ (mihðəm), هُذَامٌ (hüzam) və هَيْذامٌ (heyzam). Cəsur kişiyə هَيْذامٌ (heyzam) deyilir, bu qılınca bənzədilərək adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

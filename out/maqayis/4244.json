@@ -1,0 +1,17 @@
+{
+ "i": 4244,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نمر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 480,
+  "page_to": 480
+ },
+ "ar": "النون والميم والراء أصلانِ: أحدهما لونٌ من الألوان، والآخر يدلُّ على نُجوعِ شراب\nفالأوَّل النَّمِر، معروف، من اختلاط السَّواد والبياض في لونِه، غير أنّ البياضَ أكثر. ومن النّمر اشتُقَّ لون السَّحاب النُّمْر، وكذلك النَّعَم النُّمْر فيها سواد وبياض.\nوكذلك النَّمِرَة، إنما هي كساءٌ ملوَّن مخطَّط. وتنمَّر لي فلانٌ: تهدَّدني. وتحقيقُه لَبِس لي جلد النَّمِر.\nوالأصل الآخر النَّمير، وهو الماء العَذْبُ النّامِي في الجسدِ الناجعُ. ثم يستعار فيقال [حَسَبٌ (٢)] نَمِيرٌ، أي زاكٍ.",
+ "az": "[نمر] (qaplan, xallı dəri) Nun, mim və ra iki əsasdır: biri rənglərdən bir rəng, digəri isə içkinin həzm olunub bədənə fayda verməsinə dəlalət edir. Birincisi النَّمِر (qaplan), məlumdur, ağ rəngin içində qara və ağın qarışmasından ibarətdir, lakin ağlıq daha çoxdur. Və qaplandan buludun rəngi olan نُمْر (ala-bəzək bulud) rəngi götürülmüşdür, həmçinin içində qara və ağ olan نُمْر (alacalı) qoyunlar da belədir. Həmçinin النَّمِرَة (xallı paltar), sadəcə olaraq zolaqlı rəngli paltardır. Və تنمَّر لي فلانٌ (filankəs mənə hədələdi): mənə həd-qorxu gəldi. Onun təhqiqi mənə qaplan dərisi geyindi deməkdir. Və digər əsas النَّمير (şirin su), bədəndə inkişaf edən və fayda verən şirin su. Sonra bu məcazən işlədilərək [حَسَبٌ] نَمِيرٌ (təmiz, uca nəcabət) deyilir, yəni pak.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

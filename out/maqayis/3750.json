@@ -1,0 +1,17 @@
+{
+ "i": 3750,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مهد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 280,
+  "page_to": 281
+ },
+ "ar": "الميم والهاء والدال كلمةٌ تدلُّ على توطئةٍ وتسهيلٍ للشَّيء.\nومنه المهد ومهّدْتُ الأمرَ: وطَّأته. وتمَهَّد: تَوطَّأ والمِهاد: الوِطاء من كلِّ شيء.\nوامْتَهَدَ سَنامُ البعير وغيرِه: ارتفع. قال أبو النَّجم:\n* وامتَهَدَ الغاربُ فِعلَ الدُّمَّلِ (٤) *\nأي ارتفع وتَوَّى وصار كالمِهادِ. وجمع المهاد مُهُدٌ.",
+ "az": "[مهد]\nالميم والهاء والدال (mim, hə və dal) bir şey üçün döşəməyə və asanlaşdırmağa dəlalət edən kəlmədir.\nOndandır: المهد (əl-məhd) və مهّدْتُ الأمرَ (mühhədtul-əmrə): onu döşədim/asanlaşdırdım. Və تَمَهَّد (təməhhədə): döşəndi. Və المِهاد (əl-mihad): hər bir şeyin döşəyi.\nVə امتَهَدَ سَنامُ البعير وغيرِه (imtəhədə sənamul-bəiri və ğayruhu): dəvənin hörgücü və başqası ucaldı. Əbu Nəjm demişdir:\n* وامتَهَدَ الغاربُ فِعلَ الدُّمَّلِ (٤) *\nYəni ucaldı, qabardı və döşək kimi oldu. Və mihadın cəmi مُهُدٌ (muhud)-dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:01.672Z"
+}

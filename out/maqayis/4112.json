@@ -1,0 +1,17 @@
+{
+ "i": 4112,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 418,
+  "page_to": 418
+ },
+ "ar": "النون والزاء والحرف المعتلّ أصلٌ صحيح يرجِع إلى معنى واحد، هو الوَثَبانُ والارتفاع والسمُوّ. من ذلك النَّزْو. نَزَا ينزُو: وثَبَ.\nونُزَاءُ الذَّكرِ على أنثاه. وهو يَنزو إلى كذا، إذا نازَع إلَيْه، كأنّه سَمَا له.\nوالتَّنَزِّي مثلُ النَّزو.\nومن المهموز: نزَأْت بينَهم: حرَّشْتُ بينهم. قال ابنُ الأعرابي: يقال ما نَزأَك على كذا: ما حملك عليه. ورجلٌ منزوءٌ بكذا: مولَع.",
+ "az": "[نزو] (nəzəvə): Nun, zay və uzanan hərf tək bir mənaya qayıdan səhih əsl olub, o da sıçrayış, ucalma və yüksəklikdir. Bunlardan biri də ən-nəzvdir. Nəza, yənzu (sıçradı).\n\nErkəyin dişi üzərinə nuzauhu (sıçraması). O, fəlan şeyə yənzu (meyl edər, can atar), sanki ona ucalmış kimidir.\n\nət-Tənəzzi də nəzu kimidir.\n\nHəmzəli olanlardan: nəzəətu beynəhüm (aralarında fitnə saldım, qızışdırdım). İbn əl-Ərəbi demişdir: “Səni fəlan şeyə nəzəə (nə vadar etdi, nə daşıdı)” deyilir. Və qəylən kishi menzuun bikəz (fəlan şeyə mübtəla, vurğun).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

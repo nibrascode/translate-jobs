@@ -1,0 +1,17 @@
+{
+ "i": 4369,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هزل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 51,
+  "page_to": 51
+ },
+ "ar": "الهاء والزاء واللام كلمتانِ فى قياسٍ واحد، يدُلاّنِ على.\nضَعف. فالهَزْل: نقيض الجِدّ. والهُزَال: خِلَاف السِّمَن. يقال: هَزَلْتُ دابّتى وقد هُزِلت. وهَزَلَ فى مَنطِقِه. وأهْزَل: وقع فى ماله الهُزَال.",
+ "az": "«هزل» — الهاء والزاء واللام (hə, zay və lam) zəifliyə dəlalət edən bir qiyasda olan iki kəlmədir. الهَزْل (həzl) — ciddinin əksidir. والهُزَال (huzal) — arıqlığın əksidir. Deyilir: هَزَلْتُ دابّتى وقد هُزِلت (minik heyvanımı arıqlatdım və o arıqladı). وهَزَلَ فى مَنطِقِه (danışığında zarafat etdi). وأهْزَل (malına arıqlıq gəldi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

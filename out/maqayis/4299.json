@@ -1,0 +1,17 @@
+{
+ "i": 4299,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 26,
+  "page_to": 26
+ },
+ "ar": "الهاء والياء والقاف كلمة واحدة، وهى الهَيْق: الظَّليم.\nويقال لكلَّ طويلٍ دقيقٍ: هَيْقٌ، نشبيهاً.",
+ "az": "[هيق] (Heyq): Hə, ya və qaf tək bir sözdür, o da الهَيْق (əl-heyq): erkək dəvəquşu. Bənzətmə olaraq hər bir uzun və incə adama هَيْق (heyq) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

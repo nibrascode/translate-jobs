@@ -1,0 +1,17 @@
+{
+ "i": 3327,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قضع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 98,
+  "page_to": 98
+ },
+ "ar": "القاف والضاد والعين أصلٌ صحيح، وقياسه القهر والغلَبة.\nقالوا: القَضْع: القَهْر. قال الخليل: وبذلك سمِّيت قُضاعة. وذكر ناسٌ أنّ قُضاعة سمِّي بذلك لأنَّه انقضع عن قومِه، أي انقطع. فإن كان هذا صحيحاً فهو من باب الإبدال، تكون الضّاد مبدلةً من طاء. وقال ابن دريد: «تقضَّع القومُ:\nتفرّقوا (٣)». وهذا من الإبدال أيضًا.",
+ "az": "[قضع] (qəzəə). Qaf, dad və eyn hərfləri səhih bir əsas olub, onun qiyasəti qəhr etmək və üstün gəlməkdir.\nDeyirlər: القَضْع (əl-qəzə) – qəhr etmək. Xəlil demişdir: Qudaə (قُضاعة) buna görə belə adlandırılmışdır. Bir dəstə insan qeyd etmişdir ki, Qudaə belə adlandırılmışdır, çünki o, öz qövmündən انقضع (inqəzə), yəni ayrıldı. Əgər bu doğrudursa, onda bu, hərflərin əvəzlənməsi (ibdal) babındandır, burada dad hərfi ta hərfi ilə əvəzlənmişdir. İbn Dürid demişdir: «تقضَّع القومُ (təqəzzə əl-qövm) – onlar dağılışdılar» (٣). Bu da əvəzlənmədəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:36:41.564Z"
+}

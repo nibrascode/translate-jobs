@@ -1,0 +1,17 @@
+{
+ "i": 3651,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 240,
+  "page_to": 240
+ },
+ "ar": "اللام والحاء والجيم أصلٌ صحيح يدلُّ على تضايق ونشوب.\nيقال لَحِجَ بالمكان، إذا نَشِبَ فيه ولزِمه. والمَلَاحِج المَضَايق. ومنه لَحْوَجْتُ الخبَرَ عليه، إذا خلطتَه ولَحَّجْته مثل لَحْوجته، وذلك أن يُظهِرَ له غير ما في نفسه ومن الباب المُلْتَحَج: الملجأ. قال الهذلىّ (٤):\n[حُبَّ الضَّريكِ تلادَ المالِ زرَّمَه … فقرٌ ولم يتَّخِذْ فى الناس مُلْتَحَجا (٥)]",
+ "az": "[لحج] (Ləhəcə) — Lam, hə və cim daralmaya və bir yerdə qalıb sıxışmağa dəlalət edən səhih bir əsasdır.\n«لَحِجَ بالمكان» (ləhicə bil-məkən) — orada qalıb sıxışdıqda və ona bağlandıqda deyilir. المَلَاحِج (əl-mələhic) — dar yerlərdir. Həmçinin «لَحْوَجْتُ الخبَرَ عليه» (ləhوَcənul-xəbərə aləyhi) — xəbəri ona qarışdırdığın və «لَحَّجْتُه» (ləhhəctuhu) «لَحْوجته» (ləhəctuhu) kimi etdiyin zaman deyilir; bu da insanın ürəyindəkindən başqasını ona göstərməsidir. Bu fəsildəndir: المُلْتَحَج (əl-multəhac) — sığınacaq. Hüzəli demişdir (٤):\n[حُبَّ الضَّريكِ تلادَ المالِ زرَّمَه … فقرٌ ولم يتَّخِذْ فى الناس مُلْتَحَجا (٥)]\n(Mənası: Zəiflik qoca dəvəni və qədim sərvəti məhv etdi... yoxsulluq onu haqladı və o, insanlar arasında bir sığınacaq əldə etmədi.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.169Z"
+}

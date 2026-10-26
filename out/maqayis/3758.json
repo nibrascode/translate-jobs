@@ -1,0 +1,17 @@
+{
+ "i": 3758,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "موث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 284,
+  "page_to": 284
+ },
+ "ar": "الميم والواو والثاء كلمة، يقولون: مُثْتُ الشيء في الماء:\nمَرَسْتُه بيدي، أمُوثُه مَوثًا. ومِثْتُه أَمِيثُهُ مَيْثاً كذلك.",
+ "az": "[موث] (M-v-s): Mim, vau və sə bir kəlmədir. Deyirlər: مُثْتُ الشيء في الماء (müstüş-şəy-ə fil-ma) — onu əlimlə suda əzdim, أمُوثُه مَوثًا (əmuthu məvsən). Eynilə مِثْتُه أَمِيثُهُ مَيْثاً (mit-hə əmi-tuhu məysən) də belədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

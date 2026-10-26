@@ -1,0 +1,17 @@
+{
+ "i": 4113,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 418,
+  "page_to": 418
+ },
+ "ar": "النون والزاء والباء كلمةٌ. يقال: نَزَبَ الظَّبْي نَزِيباً، وهو صوتُه عند السِّفاد.",
+ "az": "[نزب] (nəzəbə): Nun, zay və ba bir sözdür. Deyilir ki, nəzəbəz-zəbyu nəziban (ceyran səsləndi), bu da cütləşmə zamanı onun səsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

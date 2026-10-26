@@ -1,0 +1,17 @@
+{
+ "i": 4281,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هوف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 19,
+  "page_to": 20
+ },
+ "ar": "الهاء والواو والفاء: كلمةٌ واحدة تدلُّ على خِفّة. يقال الهُوفُ (٣): الرِّيح تأتى من قِبَلِ اليمن. قالت * أمُّ تأبَّطَ شرًّا تؤبِّنُه: «ما هُو بِهُلفوف، تلفُّه هُوف». وبذلك يشبَّه الأحمق، فيقال له هُوف. قال أبو بكر (٤):\nورجلٌ هُوفٌ، إذا كان خاوياً لا خَيرَ عنده.",
+ "az": "[هوف] (Hof): Hə, vav və fa: yüngüllüyə dəlalət edən tək bir sözdür. Deyilir ki, الْهُوفُ (3): Yəmən tərəfdən gələn küləkdir. Təəbbətə Şərrin anası ona mütəəssir olaraq demişdir: «ما هُو بِهُلفوف، تلفُّه هُوف» (O, yüngülqarın deyildir, onu şiddətli külək bürüyür). Bununla axmaq insan oxşadılır və ona \"huf\" deyilir. Əbu Bəkr (4) demişdir: \n\nKimsə xavuri (içi boş), yanında heç bir xeyir olmayan kimsə olduqda «رجلٌ هُوفٌ» (huf kişi) deyilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.935Z"
+}

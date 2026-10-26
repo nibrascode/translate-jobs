@@ -1,0 +1,17 @@
+{
+ "i": 3018,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فهق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 456,
+  "page_to": 457
+ },
+ "ar": "الفاء والهاء والقاف أصلٌ صحيح يدلُّ على سَعَةٍ وامتلاء.\nمن ذلك الفَهْق: الامتلاء. يقال: أفهَقْت الكأسَ، إذا ملأتَها. و\nفى الحديث:\n«إن أبغضَكم إلىَّ الثّرثارُون المتفيهِقُون». واحدهم مُتفيهِق. وفى الذى يفهق كلامه ويَملأُ به فمَه قال الأعشى:\nتَروحُ على آلِ المُحلِّق جَفنةٌ … كجابيةِ الشَّيخ العراقىِّ تَفهقُ (٣)\nقال الخليل: الفَيْهق: الواسعُ من كلِّ شئ، حتى يقالُ مفازةٌ فيهق قال:\nومُنفَهق الوادى: متَّسَعه.\nومما شذَّ عن هذا الأصل: الفَهْقَة: عظمٌ عند فائق الرَّأس (١) مشرفٌ على اللَّهاة.",
+ "az": "«فهق» (fəhəq): Fə, hə və qaf hərfləri genişliyə və dolğunluğa dəlalət edən səhih bir əsasdır.\nBunlardan biri «الفَهْق» (fəhəq) — doluluqdur. Deyilir: «أفهَقْت الكأسَ» (əfhəqtü əl-kəqsə), yəni qədəhi doldurdun.\nHədisdə belə gəlmişdir:\n«إن أبغضَكم إلىَّ الثّرثارُون المتفيهِقُون» (Sənin yanınızda mənə ən mənfur olanlar sözü uzadanlar və təkəbbürlə danışanlardır).\nBunların təkli «مُتفيهِق» (mütəfihiq) verir. Danışarkən ağzını doldurub şişirdən kimsə haqqında Əşəy şeir demişdir:\nTəruhu alə ali əl-mühəlliqi cəfnatun … kə-cabiyati əş-şeyhi əl-iraqiyyi təfhəqu (٣)\n(Mühəlliq ailəsinə elə bir böyük kasa gəlir ki, dolub-daşan iraqlı qocanın hovuzu kimidir...)\nXəlil demişdir: «الفَيْهق» (fəyhəq) — hər şeyin genişi deməkdir, hətta «مفازَةٌ فيهق» (məfazatun fəyhəq) – geniş səhra deyilir. O dedi:\nVə «مُنفَهق الوادى» (münfəhəq əl-vadi): vadinin genişlənən yeri.\nBu əsasdan istisna olan sözlərdən biri: «الفَهْقَة» (fəhəqə) — başın uca nöqtəsində (١), kiçik dilin üzərində ucalan sümükdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

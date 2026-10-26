@@ -1,0 +1,17 @@
+{
+ "i": 4501,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ودس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 95,
+  "page_to": 95
+ },
+ "ar": "الواو والدال والسين: كلمتان:\nالأولى الوديس: النبات، يقال أودَسَت الأرضُ: أخرجَتْ نَبْتَها.\nوالأخرى: وَدَسَ الشّئَ: خَبَّأه. وما أدرِى أين وَدَسَ، أى ذَهَب.",
+ "az": "[ودس] (və-də-sə): Vov, dal və sin hərfləri iki sözdür: Birincisi: الوَدِيس (əl-vədis) – bitki, deyilir: أودَسَت الأرضُ (əvdəsətil-ərzü) – yer bitkisini çıxardı. İkincisi: وَدَسَ الشّئَ (vədəsəş-şəyə) – onu gizlətdi. وما أدرِى أين وَدَسَ (və mə ədri eynə vədəsa) – bilmirəm hara getdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

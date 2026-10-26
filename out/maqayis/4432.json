@@ -1,0 +1,17 @@
+{
+ "i": 4432,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 75,
+  "page_to": 76
+ },
+ "ar": "الواو والدال: كلمةٌ تدلُّ على مَحَبَّةٍ. وَدِدْتُه (٤): أحببته.\nووَدِدْتُ أنَّ ذاك كان، إِذا تمنَّيْتَه، أَوَدُّ فيهما جميعاً. وفى المحبَّة الوُدُّ، وفى التَّمنِّى الوَدَادة. وهو وَديدُ فلانٍ، أى يُحِبُّه.\nفأمَّا الوَدُّ: [ف] الوَتِد وقد ذكر.",
+ "az": "[ود] (Vav və dal): Məhəbbətə dəlalət edən kəlmədir. (وَوَدِدْتُه) (vədidtuhu): Onu sevdim.\nVə (ووَدِدْتُ أنَّ ذاك كان) (vədidtu ənnə zəkə kanə) — sən bunu arzuladığın zaman, hər ikisində də eynidir. Məhəbbətdə əl-vüdd (الْوُدُّ), arzuda isə əl-vədadə (الْوَدَادَة). Və o, filankəsin vədidir (وَديَدُ فلانٍ), yəni onu sevir.\nAmma əl-vüdd (الْوُدُّ)isə: [o] əl-vətid -dir (الْوَتِد) və bu artıq qeyd olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

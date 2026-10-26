@@ -1,0 +1,17 @@
+{
+ "i": 3746,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "منح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 278,
+  "page_to": 278
+ },
+ "ar": "الميم والنون والحاء أصلٌ صحيح يدلُّ على عَطِيّة. قال الأصمعي:\nيقال امتُنِحْتُ المالَ، أي رُزِقْتُه (١). قال ذو الرُّمّة:\nنَبَتْ عيناكَ عن طللٍ بِحُزْوَى … مَحته الرّيحُ وامتُنِحَ القِطارا (٢)\nوالمنيحة: مَنِيحة اللبن (٣)، كالنَّاقة أو الشَّاةِ يُعطِيها الرَّجلُ آخَرَ يحتلبُها ثم يردُّها. والناقة المُمانِحُ: التي يبقى لبنُها بعد ذهابِ ألبان [الإبل (٤)]، وهي المَنُوح أيضاً. والمَنيح: القِدْح (٥) لا حَظَّ له في القَسْم إلاَّ أن يُمنحَ شيئا، أي يُعطاه. ويقال المنيح أيضا: الذي لا يُعتدُّ به، وقيل هو الثّامن من سِهام المَيسِر.",
+ "az": "[منح]\nالميم والنون والحاء (mim, nun və hə) əta (bəxşiş) etməyə dəlalət edən səhih əslidir. Əsməi demişdir: Deyilir: امتُنِحْتُ المالَ (imlunıhtul-malə), yəni mənə mal ruzi olundu (١). Zü əd-Rummə demişdir:\nنَبَتْ عيناكَ عن طللٍ بِحُزْوَى … مَحته الرّيحُ وامتُنِحَ القِطارا (٢)\nVə المَنيحة (əl-manihə): süd mənihəsidir (٣), bir nəfərin başqasına sağması üçün verdiyi, sonra geri aldığı dəvə və ya qoyun kimidir. Və المَمانِح (əl-mamanih) dəvə: [dəvələrin] südü gedəndən sonra südü qalan dəvədir, o həm də المَنُوح (əl-manuh) adlanır. Və المَنيح (əl-manih): bölgüdə heç bir payı olmayan, lakin ona bir şey əta edilən (münih edilən) qədək çubuğudur (٥). Həmçinin o da deyilir ki, əhəmiyyət verilməyən mənihdir, deyilmişdir ki, o, məysir oxlarının səkkizincisidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:01.672Z"
+}

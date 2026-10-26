@@ -1,0 +1,17 @@
+{
+ "i": 4492,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وحى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 93,
+  "page_to": 93
+ },
+ "ar": "الواو والحاء والحرف المعتلّ: أصلٌ يدلُّ على إلقاء عِلْمٍ فى إخفاء أو غيره (٣) إلى غيرك. فالوَحْىُ: الإشارة. والوَحْى: الكتابُ والرِّسالة.\nوكلُّ ما ألقيتَه إلى غيرك حتَّى عِلمَهُ فهو وَحىٌ كيف كان. وأوْحَى اللّه تعالى ووَحَى. قال:\n* ووَحَى لها القرارَ فاستقَرَّتِ (٤) *\nوكل ما فى باب الوحى فراجعٌ إلى هذا الأصل الذى ذكرناه. والوَحِىّ:\nالسَّريع. والوَحَى: الصَّوت. واللّه أعلم.",
+ "az": "[وحى] الواو والحاء والحرف المعتل (və, ha və zəif hərf) — gizli və ya aşkar şəkildə başqasına elm atmağa dəlalət edən bir əsasdır. الْوَحْيُ (vəhy) — işarədir. الْوَحْيُ — kitab və elçilikdir. Başqasına bildirmək üçün ona atdığın hər şey vəhydir, necə olursa olsun. وَأَوْحَى اللَّهُ تَعَالَى وَوَحَى (Uca Allah vəhy etdi). Şair demişdir: * وَوَحَى لَهَا الْقَرَارَ فَاسْتَقَرَّتِ (٤) * (Ona qərar tutmağı əmr etdi, o da qərar tutdu). Vəhy fəslinə aid olan hər şey qeyd etdiyimiz bu əsərə qayıdır. الْوَحِيُّ (vəhiy) — sürətli. الْوَحَى (vəha) — səs. Ən yaxşısını Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

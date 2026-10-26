@@ -1,0 +1,17 @@
+{
+ "i": 3998,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 370,
+  "page_to": 371
+ },
+ "ar": "النون والواو والعين كلمتانِ، إحداهما تدلُّ على طائفةٍ من الشيء مماثلةٍ له، والثانية ضربٌ من الْحَرَكة.\nالأوّل النَّوع من الشيء: الضَّرْب منه. وليس هذا من نَوْعِ ذاك.\nوالثاني: قولهم: ناعَ الغُصن يَنوعُ، إذا تمايَلَ، فهو نائع. وقال بعضهم:\nلذلك يقال جائع نائع، أي مضطرب من شِدَّة جُوعه مُتمايِل. ويَدْعُون على الإنسان فيقولون: جُوعًا له ونُوعًا له.",
+ "az": "[نوع] (nu' - nəv') - nun, vav və eyn hərflərindən ibarət olub iki kəlmədir: Biri bir şeyin ona bənzər olan hissəsinə, dəstəsinə, digəri isə hərəkət növünə dəlalət edir. Birincisi: النَّوع من الشيء (ən-nəv'u minəş-şəy') — onun növü, hissəsidir. ليس هذا من نَوْعِ ذاك (Bu, o birinin növündən deyil). İkincisi isə onların: ناعَ الغُصن يَنوعُ (nə'əl-ğusnu yənucu) — budaq əyilib yelləndiyi zaman işlətdikləri sözdür, o نائع (nəi') olur. Bəziləri demişlər: Buna görə də جائع نائع (cai'un nəi') — yəni şiddətli aclıqdan səssizləşən, tərəddüd edən, yellənən kəsə deyilir. İnsanlara bəddua edərək deyirlər: جُوعًا له ونُوعًا له (cu'an ləhu və nu'an ləhu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

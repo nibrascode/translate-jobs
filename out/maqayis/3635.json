@@ -1,0 +1,17 @@
+{
+ "i": 3635,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لجف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 235,
+  "page_to": 235
+ },
+ "ar": "اللام والجيم والفاء كلمةٌ تدلُّ على هَزْمٍ في الشّيء. يقال:\nتلجَّفت البِثرُ، إذا انخسَفَ أسفلُها. قال: واللَّجَف: سُرّة الوادِي، وتشبَّه الشَّجّة لمنْفَهِقَة بذلك. قال:\n* يَحجُّ مأمومةً في قَعْرِها [لَجَفٌ] (١) *",
+ "az": "[لجف] (ləcəf) — lam, cim və fa bir şeydə çökəklik olmasını bildirən sözdür. Deyilir: تلجَّفت البِثرُ (təcəffətil-bisru) — səpginin altı çökdü. Şair demişdir ki, اّللَّجَف (əlləcəf) — dərənin göbəyidir və açıq yarıq bu cür bənzədilir. Şair demişdir:\n* يَحجُّ مأمومةً في قَعْرِها [لَجَفٌ] (١) *\n(Kəllənin dərinliyində ləcəf olan mamumə yarasına yönəlir)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

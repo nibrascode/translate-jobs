@@ -1,0 +1,17 @@
+{
+ "i": 3773,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ميز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 289,
+  "page_to": 289
+ },
+ "ar": "الميم والياء والزاء أصلٌ صحيح يدلُّ على تزيُّلِ شيءٍ من شيء وتَزييله. وميَّزته تمييزاً ومِزْتُه مَيْزا. وامتازُوا: تميَّزَ بعضهم من بعض.\nويكاد يَتَمَيَّز غيظا، أي يتقَطَّع. وانمازَ الشّيء: انفَصَل عن الشيء. قال يصف حيّة:\nقَرَى السُّمَّ حتَّى انمازَ فروةُ رأسِهِ … عن العَظْمِ صِلٌّ فاتِكُ اللَّسْعِ مارِدُ",
+ "az": "[ميز] (mim, ya və zay) — bir şeyin başqa bir şeydən ayrıılmasına və ayrılıq təşkil etməsinə dəlalət edən səhih bir əsasdır. میَّزته تمييزاً (meyyəztuhu təmyizan) və مِزْتُه مَيْزا (miztuhu mayzan). وامتازُوا (imtazu): onların bəzisi digərindən ayrıldı. ويكاد يَتَمَيَّز غيظا (wayəkadu yataməyyazu ğayzan) — yəni qəzəbdən parça-parça olur. وانمازَ الشّيء (wanamazal-şeyu): şey şeydən ayrıldı. O, ilan təsvir edərkən demişdir: قَرَى السُّمَّ حتَّى انمازَ فروةُ رأسِهِ … عن العَظْمِ صِلٌّ فاتِكُ اللَّسْعِ مارِدُ (O, zəhəri o qədər uddu ki, başının dərisi sümüyündən ayrıldı; o, sancması ölümcül, inadkar və zəhərli bir gürzədir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

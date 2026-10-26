@@ -1,0 +1,17 @@
+{
+ "i": 3973,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 361,
+  "page_to": 361
+ },
+ "ar": "النون والهاء والتاء كلمةٌ تدلُّ على حكايةِ صوت. فالنهِيتُ:\nدُونَ الزَّئير. وأسَدٌ نَهَّات. ونَهت الرجُل: زحَرَ وحِمارٌ نهّات.",
+ "az": "[نهت] (NUN, HƏ və TƏ) - səs çıxarmağa dəlalət edən bir sözdür. «النهِيت» - nəriltidən aşağı olan səs. «أسَدٌ نَهَّات» - nərildəyən şir. «نَهت الرجُل» - boğuq səslə nəfəs aldı (zəhər verdi/boğazdan səs çıxardı). «حمار نهّات» - səsi gurlayan uzunqulaq.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

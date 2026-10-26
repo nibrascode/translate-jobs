@@ -1,0 +1,17 @@
+{
+ "i": 4653,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 144,
+  "page_to": 145
+ },
+ "ar": "الواو واللام والغين: كلمةٌ واحدة، وهى قولُهم: وَلغَ الكَلْبُ فى الإناء يَلَغُ، ويُولَغ إذا أَوْلَغَه صاحبُه. أنشدنا علىُّ بن إبراهيمَ القَطّانُ قال:\nأنشدنا ثعلب:\nما مَرَّ يومٌ إلاَّ وعِندهُما … لَحمُ رجالٍ أو يُولَغَانِ دما (٤)\nورجلٌ مُستَولِغٌ: لا يبالى ذمّاً ولا عاراً.",
+ "az": "«ولغ» (vələğ). Vəv, lam və ğın: tək bir kəlmədir, o da onların sözüdür: وَلَغَ الْكَلْبُ فَى الْإِنَاءِ يَلَغُ (vələğəl-kəlbü fil-inai yələğ) — it qaba dilini batırıb içdi, sahibinin əməli ilə أُولِغَ (ulığə) olar. Əli ibn İbrahim əl-Qəttan bizə söyləyib dedi: Səsləb bizə söylədi: «مَا مَرَّ يَوْمٌ إِلَّا وَعِنْدَهُمَا … لَحْمُ رِجَالٍ أَوْ يُولَغَانِ دَمَا» («Elə bir gün keçməz ki, onların yanında kişilərin əti olmasın, yaxud da qan içməsinlər») (٤). رَجُلٌ مُسْتَوْلِغٌ (raculün müstəvliğ) — qınama və ayıbdan qorxmayan kimsədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

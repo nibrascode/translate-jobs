@@ -1,0 +1,17 @@
+{
+ "i": 3661,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 243,
+  "page_to": 243
+ },
+ "ar": "اللام والدال والميم أصلٌ يدلُّ على إلصاق شيءٍ بشيءٍ، ضربا أو غيره. فاللَّدْم: ضرب الحجَر بالحجَر. قال:\nولِلفؤادِ وَجِيبٌ تحتَ أبهَرِهِ … لَدْمَ الغلامِ وراءَ الغيْب بالحجَرِ (٣)\nوالْتَدم النساءُ: ضرَبْنَ وجوهَهنَّ وصُدورهنَّ في المَنَاحة. واللّدْم: ضربُكَ خُبْز المَلَّة. والمَلَادِيم: المَرَاضيخُ يرضَخُ بها النَّوَى. والتدَمَتْ عليه الحُمَّى: لازمته.\nولذلك يقال للحُمَّى: أمّ مِلْدَم. ويقولون: المُلَدَّم (٤) من الرِّجال: الأحمق. واللام في هذا مبدلةٌ من راء، [كأنّه] كان متخرِّقا فرُدِّم، أي رُقَع.",
+ "az": "[لدم] (Lədəmə) — Lam, dal və mim bir şeyin digər bir şeyə zərbə ilə və ya başqa şəkildə yapışmasına dəlalət edən bir əsasdır. اللَّدْم (əl-lədm) — daşın daşa vurulmasıdır. O demişdir:\nوَلِلفؤادِ وَجِيبٌ تحتَ أبهَرِهِ … لَدْمَ الغلامِ وراءَ الغيْب بالحجَرِ (٣)\n(Mənası: Ürəyin əbhər damarının altında döyüntüsü var... oğlanın gizlində daşla vurduğu kimi.)\nوَالْتَدم النساءُ (vəltəhəmən-nisəu) — qadınlar yas mərasimində üzlərini və sinələrini döydülər. اللَّدْم (əl-lədm) — kül çörəyini döyməyindir. الْمَلَادِيم (əl-mələdim) — çəyirdəyi döyüb əzmək üçün istifadə olunan ağır daşlardır. وَالْتَدَمَتْ عليه الحُمَّى (vəltədəmət aləyhil-hummə) — qızdırma onu bürüdü, ayrılmadı. Buna görə də qızdırmaya أمّ مِلْدَم (umm mildəm) deyilir. Onlar deyirlər: kişilərdən الْمُلَدَّم (əl-muləddəm) — axmaqdır. Buradakı lam hərfi ra hərfindən əvəz edilmişdir, [sanki] o, yırtılmışdı, sonra isə yamandı, yəni tikildi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

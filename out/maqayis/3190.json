@@ -1,0 +1,17 @@
+{
+ "i": 3190,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قمن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 23,
+  "page_to": 23
+ },
+ "ar": "القاف والميم والنون كلمةٌ واحدة. يقال: هو قَمَنٌ أَنْ يفعَل كذا، لا يثنى * ولا يُجمَع إذا فتحتَ ميمه، فإن كَسَرتَ أو قُلْت قَمينٌ ثنَّيت وجَمَعت. ومعنى قَمِينٍ: خَليقٌ.",
+ "az": "[قمن] \nالقاف والميم والنون (قاف, mim və nun) — tək bir kəlmədir. Deyilir: هو قَمَنٌ أَنْ يفعَل كذا (O, belə etməyə layiqdir / uyğundur), mim hərfi fəthəli olduqda ikilənməz və cəmlənməz, lakin kəsrəli etsən və ya qَمينٌ desən, onda ikiləşdirə və cəmləyə bilərsən. Qəminin mənası: layiq, uyğun deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:44.429Z"
+}

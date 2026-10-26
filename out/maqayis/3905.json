@@ -1,0 +1,17 @@
+{
+ "i": 3905,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "الميم والعين والجيم أصلٌ صحيح يدلُّ على تقلُّبٍ وسُرعة في شيء. ومعج الحِمارُ مَعْجاً: تقلَّب في جريه. ويقولون قياساً على هذا: مَعَجَ الفَصِيلُ ضَرعَ أمِّه: ضربه برأسه عند الرَّضاع.",
+ "az": "[معج] \nMim, eyn və cim hərfləri bir şeydə çırpınmağa və sürətə dəlalət edən səhih bir kökdür. Və معج الحِمارُ مَعْجاً: eşşək qaçışında çırpındı (oynayıb sıçradı). Buna qiyasən deyirlər: مَعَجَ الفَصِيلُ ضَرعَ أمِّه: süd əmərkən başı ilə ana dəvənin əmcəyinə vurdu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

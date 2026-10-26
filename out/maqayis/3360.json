@@ -1,0 +1,17 @@
+{
+ "i": 3360,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 114,
+  "page_to": 115
+ },
+ "ar": "القاف والفاء والراء أصلٌ يدلُّ على خُلوٍّ من خَير. من ذلك القَفْر: الأرض الخالية. ومنه القَفَار: الطَّعام ولا أُدْمَ معه. و\nفى الحديث:\n«ما أقْفَرَ بيتٌ فيه خَلّ». وامرأةٌ قَفرة: قليلةُ اللّحم.\nومما شذَّ عن هذا الأصل، وهو من باب الإبدال، يقولون: اقتَفَرْت الأثَرَ واقتفيتُه، وتفقَّر مثلُه. قال صخر (١):\n* فإنِّى عن تفقُّركم مكيثُ (٢) *\nوأمَّا القَفُّور فنَبت. قال ابنُ أحمر:\nتَرعَى القَطاةُ الخِمسَ قَفُّورَها (٣) … ثم تَعُرُّ الماءَ فيمن يَعُرّ\nومن القياس الأوّل قولهم: نزلْنا ببني فلان فبتْنا القَفْرَ، إذا لم يَقرُونا وقال ابن دريد (٤) - وليس من البابين -: القفَر: الشَّعر. وأنشد:\nقد عَلِمَتْ خَودٌ بساقَيْها القَفَر … لتُروَين أو لتُبيدَنَّ الشُّجُرْ (١)\nجمع شِجار وهو خَشَب البِئْر.",
+ "az": "[قفر] Qaf, fa və ra. Xeyirdən məhrum olmağa dəlalət edən bir kökdür. Buna «qəfr» (boş, səhra torpaq) daxildir. «Qəfar» da buradan gəlir: yanında qatığı olmayan yemək. Hədisdə deyilir: «İçində sirkə olan ev heç vaxt qəfr (yoxsul) olmaz». «Qəfrə» qadın: əti az olan qadın. Bu kökdən kənarlaşan və əvəzetmə qapısından olan bir məsələ: «İqtəfərtul-əsərə» və «iqtəfəytuhu» (izini izlədim) deyirlər, «təfəqqərə» də eyni mənadadır. Səxr (١) demişdir: «Mən sizin təfəqqürünüzdən (izləməyinizdən) uzağam (٢)». «Qəffur» isə bir bitkidir. İbn Əhmər demişdir: «Qəta quşu beşinci gün qəffurunu otlayar (٣)... sonra suyun yanından keçənlərlə birlikdə suya gedər». Birinci qaydadan olan ifadə: «Filankəsgilə endik və qəfr (yeməksiz) gecələdik», yəni bizə qonaqlıq vermədilər. İbn Dureyd (٤) - bu iki qapıdan olmayan - deyir: «Qəfər: saçdır». Və bu beyti gətirir: «Gənc qadın ayaqlarındakı qəfəri (saçı) bildi... ya suvarılacaq, ya da ağaclar məhv olacaq (١)». «Şicar»ın cəmidir, quyunun taxtaları deməkdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.648Z"
+}

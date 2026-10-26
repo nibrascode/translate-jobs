@@ -1,0 +1,17 @@
+{
+ "i": 3216,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قهد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 35,
+  "page_to": 35
+ },
+ "ar": "القاف والهاء والدال كلمةٌ واحدة. يقولون: القَهْد من ولد الضَّأن يضرب لونه إلى البَيَاض.",
+ "az": "[قهد] Qaf, hə və dal tək bir kəlmədir. Deyirlər: əl-qəhd (القَهْد) quzu balasından rəngi ağlığa çalanına deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.256Z"
+}

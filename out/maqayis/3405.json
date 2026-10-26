@@ -1,0 +1,17 @@
+{
+ "i": 3405,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 138,
+  "page_to": 138
+ },
+ "ar": "الكاف والميم والشين أصلٌ صحيح يدلُّ على لَطافةٍ وصِغَر. يقولون * للشّاة الصّغيرة الضَّرع كَمْشَة. وفرسٌ كَمِيشٌ: صغير الجُرْدان.\nثمَّ يقال للرّجُل العَزُومِ الماضي: كَمْشٌ، ينسَبُ في ذلك إلى لطافةٍ وخِفّة.\nيقال كَمُشَ كَماشَةً (١). وربَّما قالوا: كَمَشه بالسَّيف، إذا قَطع أطرافه (٢).",
+ "az": "[كمش] Kaf, mim və şin kiçikliyə və incəliyə dəlalət edən səhih bir kökdür. Deyirlər * məməsi kiçik olan qoyuna «كَمْشَة» (kəmdə) deyilir. «فرسٌ كَمِيشٌ» (kəmiş at) — cinsiyyət orqanı kiçik olan at. Sonra əzmkar və işinin ardınca gedən kişiyə «كَمْشٌ» (kəmiş) deyilir, bu da incəliyə və yüngüllüyə nisbət edilir. Deyilir: «كَمُشَ كَماشَةً» (١) (cəld və yüngül oldu). Bəzən də deyirlər: «كَمَشه بالسَّيف» (qılıncla onun uclarını kəsdi) (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

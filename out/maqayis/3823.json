@@ -1,0 +1,17 @@
+{
+ "i": 3823,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مدش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 306,
+  "page_to": 306
+ },
+ "ar": "الميم والدال والشين. يقولون مَدْشاء: لا لحمَ على يدَيْها (٢).\nوقال أبو بكرٍ (٣): مَدِشَتْ عينُه: أظلَمَتْ، والرجُل مَدِشٌ.",
+ "az": "«مدش» (mim, dal və şin). Deyirlər: مَدْشاء (mədşa) — əllərində ət olmayan qadın (٢). Əbu Bəkr demişdir (٣): مَدِşَتْ عَيْنُهُ (gözü mədiş oldu) — qaraldı; kişi isə مَدِشٌ (mədiş) olar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

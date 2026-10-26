@@ -1,0 +1,17 @@
+{
+ "i": 3583,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 217,
+  "page_to": 217
+ },
+ "ar": "اللام والهاء والميم أصلٌ صحيحٌ يدلُّ على ابتلاعِ شيءِ، ثم يقاس عليه. تقول العرب: التَهَمَ الشَّيءَ: التَقَمه. ومن هذا الباب الإلهام، كأنَّه شيءٌ أُلقِي في الرُّوع فالتَهَمَه. قال اللّه تعالى: ﴿فَأَلْهَمَها فُجُورَها وَتَقْواها﴾.\nوالتَهَم الفصيلُ ما في ضَرع أُمِّه: استوفاه. وفرسٌ لهِمٌّ: سَبَّاق، كأنَّه يلتهم الأرض.\nواللُّهَيْم: الدَّاهية، وكذلك أمُّ اللُّهيمْ، وسمِّيت لِعِظمها كأنَّها تَلْهَمُ ما تلقى. ويقولون للعظِيم الكافي: اللِّهَمّ ومن الباب اللُّهمُوم: الرّجُل الجَواد، وهذا على العِظَم والسَّعة.",
+ "az": "[لهم] (ləhəm) - Lam, ha və mim hərfləri bir şeyi udmağa dəlalət edən səhih bir kökdür, sonra ona qiyas edilir. Ərəblər deyirlər: التَهَمَ الشَّيءَ (əltəhəmə əş-şey’ə): onu uddu, udqunaraq yedi. Bu fəsildəndir إلهام (ilham) — sanki ürəyə atılan və onun udduğu bir şeydir. Uca Allah buyurmuşdur: مَنaca tərcümə: ﴿فَأَلْهَمَها فُجُورَها وَتَقْواها﴾ (Sonra da ona günahlarını və qorxub çəkinmə يولunu ilham etdi). Və التَهَم الفصيلُ ما في ضَرع أُمِّه (əltəhəmə əl-fasilü mâ fi dar’i ummihi): bala anasının döşündə olanları tamamilə əmdi. Və فرسٌ لهِمٌّ (fərisün ləhim): sürətli at, elə bil yeri udur. Və اللَّهَيْم (əl-ləhəym): fəlakət, həmçinin أمُّ اللُّهيمْ (Ummul-lüheym), böyüklüyünə görə adlandırılmışdır, sanki qarşılaşdığı hər şeyi udur. Böyük və kifayət edən kimsəyə deyirlər: اللَّهَمّ (əl-ləhəm). Bu fəsildəndir: اللَّهمُوم (əl-ləhûmum): səxavətli kişi, bu da böyüklük və genişlik mənasındadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

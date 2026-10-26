@@ -1,0 +1,17 @@
+{
+ "i": 3201,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قمل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 29,
+  "page_to": 29
+ },
+ "ar": "القاف والميم واللام كلماتٌ تدلُّ على حَقارةٍ وقماءة. رجلٌ قَمَليٌّ، أى حقير. والقُمَّل: صِغار الدَّبا. وأقْمَلَ الرِّمْث، إِذا بدا ورقُه صغاراً، كأنَّ ذلك شبِّه بالقُمَّل.",
+ "az": "«قمل» — قاف، ميم və lam hərfləri alçaqlıq və zəifliyə dəlalət edən sözlərdir. «رجلٌ قَمَليٌّ» (qəməliyyun kişisi) — alçaq, dəyərsiz deməkdir. «القُمَّلُ» (əl-qumməl) — kiçik çəyirtkələrdir. «أقْمَلَ الرِّمْث» (əqmələr-rimθ) — yarpaqları kiçik-kiçik göründüyü zaman rimt bitkisi cücərdi, elə bil bu, kiçik çəyirtkələrə bənzədildi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:04.973Z"
+}

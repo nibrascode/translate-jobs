@@ -1,0 +1,17 @@
+{
+ "i": 4039,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 385,
+  "page_to": 385
+ },
+ "ar": "النون والباء والهمزة قياسه الإتيانُ من مكانٍ إلى مكان. يقال للذى يَنْبأ من أرض إلى أرضٍ نابئٌ. وسيلٌ نابئ: أتَى من بلدٍ إلى بلد ورجل نابئ مثله. قال:\nولكن قَذَاها كلُّ أشعَثَ نابئٍ … أتَتْنا به الأقدار من حيث لا ندرِي (٢)\nومن هذا القياس النَّبَأ: الخبر، لأنّه يأتي من مكانٍ إلى مكان. والمُنبئ:\nالمُخْبِر. وأنبأته ونَبّأته. ورَمَى الرّامِي فأنَبأ، إذا لم يَشْرِمْ (٣)، كأنَّ سَهَمه عَدَل عن الخَدْشِ وسَقَط مكاناً آخَرَ. والنَّبْأة: الصَّوت. وهذا هو القياس، لأنَّ الصوتَ يجيءُ من مكانٍ إلى مكان. قال ذو الرمة:\nوقد توحَّس رِكزاً مُقْفِرٌ نَدُسٌ … بنبْأةِ الصوتِ ما في سمعِهِ كذبُ (٤)\nومن هَمَز النبيَّ فلأنه أنبأ عن اللّه تعالى. واللّه أعلم بالصواب.",
+ "az": "[نبأ] (nəbəə): Nun, ba və həmzə – qiyas baxımından bir yerdən digər yerə gəlmək deməkdir. Bir yerdən digər yerə köçən şəxsə «نابئٌ» (nabin) deyilir. «سيلٌ نابئ» (sylun nabin): bir ölkədən başqa ölkəyə gələn sel, «رجل نابئ» (rəculun nabin) də onun kimidir. Belə demişdir:\nولكن قَذَاها كلُّ أشعَثَ نابئٍ … أتَتْنا به الأقدار من حيث لا ندرِي (٢)\n(Lakin onun tozunu hər dağınıq saçlı, qərib... taleyin haradan gətirdiyini bilmədiyimiz kimsə atdı)\nBu qiyasdandır: «النَّبَأ» (ən-nəbə): xəbər, çünki o, bir yerdən digər yerə gəlir. «المُنبئ» (əl-munbiu): xəbər verən. «أنبأته ونَبّأته» (ənbətuhu və nəbbətuhu). Oxatan ox atıb dəymədikdə «فأنَبأ» (fə-ənbəə) olar, sanki onun oxu cızmaqdan yayınıb başqa bir yerə düşmüşdür. «النَّبْأة» (ən-nəbvə): səs. Bu da qiyasdandır, çünki səs bir yerdən digər yerə gəlir. Zül-Rumə demişdir:\nوقد توحَّس رِكزاً مُقْفِرٌ نَدُسٌ … بنبْأةِ الصوتِ ما في سمعِهِ كذبُ (٤)\nKim həmzə ilə «النبي» (ən-nəbiy) desə, o deməkdir ki, o, uca Allahdan xəbər vermişdir. Ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4098,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نده",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 411,
+  "page_to": 411
+ },
+ "ar": "النون والدال والهاء كلمةٌ تدلُّ على زَجْر ومنع. يقال: نَدَهْتُ البعيرَ عن الحوض، أي زجَرتُه. ونَدَهتُ الإبلَ: سُقْتُها مجتمعة. ويقولون للمطَلَّقة: اذهَبِي فلا أنْدَهُ سَرْبَكِ (٤).\nوشذَّ عنه النُّدْهة (٥): كثرة المال. قال:\n* ولا مالُهم ذو نَدْهَة فَيَدُونِي (٦) *",
+ "az": "[نده] النون والدال والهاء (n, d, h) — qadağan etməyə və uzaqlaşdırmağa dəlalət edən bir kəlmədir. Deyirlər: «ندهت البعير عن الحوض» (nadəhtul-bəirə anis-hovd) — yəni dəvəni su hövzəsindən qovdum, uzaqlaşdırdım. «ندهت الإبل» (nadəhtul-ibl) — dəvələri sürü halında qabağıma qatıb apardım. Boşanmış qadına deyirlər: «اذهَبِي فلا أنْدَهُ سَرْبَكِ» (izhəbi fəla əndəhü sərbək) — (yəni) get, sənin sürünü və yolunu qovmaram (narahat etmərəm) (٤).\nBuradan istisna edilmişdir: «النُّدْهَة» (ən-nudhə) — mal-dövlətin çoxluğu. Şair demişdir:\n* ولا مالُهم ذو نَدْهَة فَيَدُونِي (٦) *\n(Nə də onların malı çoxluq təşkil edir ki, mənə kömək etsinlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

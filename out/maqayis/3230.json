@@ -1,0 +1,17 @@
+{
+ "i": 3230,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قوع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 42,
+  "page_to": 42
+ },
+ "ar": "القاف والواو والعين أصلٌ يدلُّ على تبسُّط فى مكانٍ. من ذلك القاع: الأرض المَلْساء. والألِفُ فى الأصل واو، يقال فى التصغير قُوَيْعٌ.\nقال ابن دريد (١): القَوْع: المِسْطح الذى يُبسَط فيه التَّمر، والجمع أَقْوَاع. فأمّا القَوْع، وهو ضِرابُ الفحلِ الناقةَ، فليس من هذا الباب، لأنَّه من المقلوب.\nوأصله قَعْو؛ وقد ذُكِر.\nوممّا شَذّ عن هذا الباب قولُهم: إنّ القُوَاعَ: الذَّكر من الأرانب.",
+ "az": "[قوع] «القاف» (قاف), «الواو» (واو) və «العين» (eyn) — bir yerdə genişlənməyə və düzlüyə dəlalət edən bir əsasdır. Ondandır: «القاع» (əl-qa'- hamar yer, düzənlik). Əlif hərfinin əsli «واو» (vav)dur, kiçiltmə formasında (təsğir) «قُوَيْعٌ» (quvəy-un) deyilir.\nİbn Dürid demişdir (1): «القَوْع» (əl-qavc) — xurmaların sərildiyi hamar yerdir, cəmi «أَقْوَاع» (əqvac) gəlir. Erkək dəvənin dişi dəvəni cütləşdirməsi mənasındakı «القَوْع» (əl-qavc) gəldikdə isə, bu, bu fəsildən deyil, çünki o, tərsinə çevrilmiş (məqlub) sözlərdəndir.\nOnun əsli «قعو» (qəv) köküdür; artıq qeyd olunmuşdur.\nBu fəsildən istisna olan sözlərdən biri də onların «إنّ القُوَاعَ: الذَّكر من الأرانب» (həqiqətən, əl-quvac — dovşanların erkəyidir) demələridir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:47.283Z"
+}

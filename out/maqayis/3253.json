@@ -1,0 +1,17 @@
+{
+ "i": 3253,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قبو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 54,
+  "page_to": 54
+ },
+ "ar": "القاف والباء والواو كلمةٌ صحيحة، تدلُّ على ضمٍّ وجَمع. يقال قَبَوْت الشَّيءَ: جمعتُه وضَممتُه. وأهلُ المدينة يسمُّون الرّفعَ في الحركات قَبْواً.\nوهذا حَرفٌ مقْبُوّ. ويقال: إنَّ القَبَاء مشتقٌّ منه، لأنّ الإنسانَ يجمعُه على نفْسه.",
+ "az": "[قبو] (qəb-v): Qaf, ba və vav – toplamağa və yığmağa dəlalət edən səhih bir kəlmədir. Deyilir: [قَبَوْت الشَّيءَ] (qəbəvtüş-şəyyə) – onu topladım və yığdım. Mədinə əhli hərəkətlərdəki uzatmanı (və ya ucaltmanı) [قَبْواً] (qəb-vən) adlandırırlar. Bu [حَرفٌ مقْبُوّ] (hərfun maqbuvv) hərfdir. Deyilir ki, [القَبَاء] (əl-qəbəu) (əba) bundan törəmişdir, çünki insan onu öz üzərinə yığır (toplayır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:30.096Z"
+}

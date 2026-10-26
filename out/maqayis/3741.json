@@ -1,0 +1,17 @@
+{
+ "i": 3741,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 274,
+  "page_to": 274
+ },
+ "ar": "الميم والغين يدلُّ على شِبه ما مضى ذكره. يقولون: المغمغة:\nالاختلاط. قال رؤبة:\n* الخُلُقِ المُمَغْمَغِ (٣) *\nويقولون: مغمغ طعامَه، إذا روَّاه دسما.",
+ "az": "[مغ]\nالميم والغين (mim və ğin) əvvəl zikr olunanın oxşarına dəlalət edir. Deyirlər: المغمغة (məgməğə): qarışıqlıq. Rübə demişdir:\n* الخُلُقِ المُمَغْمَغِ (٣) *\n(qarışıq əxlaqın).\nVə deyirlər: مغمغ طعامَه (taamını məgməğə etdi), yəni onu yağla doyurdu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:01.672Z"
+}

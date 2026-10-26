@@ -1,0 +1,17 @@
+{
+ "i": 3701,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لغز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 257,
+  "page_to": 257
+ },
+ "ar": "اللام والغين والزاء أصلٌ يدلُّ على التواءِ في شيء وميل. يقولون:\nاللُّغز: ميلُك بالشَّيء عن وَجهِه. ويقولون اللُّغَيْزَاء، ممدود: أن يَحفِر اليربوعُ ثم يُمِيل (١) في حفره ليعمِّيَ على طالبه. والأَلْغَاز: طُرقٌ تلتوِي وتُشْكلُ على سالِكِها، الواحد لَغَز ولغْز (٢). وأَلغَزَ فلانٌ في كلامِه. و\nفي حديث عمر: «نَهَى عن اللُّغَيْزَى في اليمين».",
+ "az": "«لغز» — lam, ğayn və zay bir şeydə əyriliyə və meyilliyə dəlalət edən əslir. Deyirlər: «اللُّغز» (al-luğz) — bir şeyi öz istiqamətindən döndərməyin, meyilləndirməyin. Məsdər olaraq uzadılmış şəkildə «اللُّغَيْزَاء» (al-luğayza') deyirlər: siçovulun yuva qazıb, sonra axtaranı çaşdırmaq üçün yuvasını əyri etməsi. «الألْغَاز» (al-alğaz) — əyri olan və onu gedənə çətin görünən yollar, təki «لَغَز» (lağaz) və «لغْز» (lağz) (٢). Və filankəs danışığında «أَلْغَزَ» (alğaza) — müəmmalı danışdı. Ömərin hədisində: «Nəhə an al-luğayza fi al-yəmin» [And içərkən müəmmalı/əyri ifadələr işlətməyi qadağan etdi].",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

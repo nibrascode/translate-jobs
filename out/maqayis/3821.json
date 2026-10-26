@@ -1,0 +1,17 @@
+{
+ "i": 3821,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مدر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 305,
+  "page_to": 305
+ },
+ "ar": "الميم والدال والراء أصل صحيح يدلُّ على طينٍ متحبِّب، ثم يشبَّه [به]. فالمَدَر معروف، والواحدة مَدَرَةٌ، وربَّما قالوا: سمِّيت البلدة مَدَرَة. قال:\n* لَيْلاً وما نَادَى أذِين المَدَرَه (٢) *\nوالمَدْر: تطيينُك وجهَ الحَوض بالطِّين، وهو المَدَر المبلول بَلاًّ بالماء (٣). ومكان ذلك الطِّين مَمْدَرةٌ. والأمْدَر من الضِّباع، لونُه لونُ المَدَرِ (٤). ويقال: رجلٌ أمدَرُ:\nعظيم الجَنْبَين، وأظنُّه من تَراكُم اللَّحم عليه، كأنَّه مَدَرٌ.",
+ "az": "«مدر» (mim, dal və ra) — gillə əlaqəli dənəvər palçığa dəlalət edən səhih bir kökdür, sonra ona bənzədilir. مَدَر (palçıq kəsəyi, kəpək) məşhurdur, təkliyi مَدَرَةٌ (palçıq kəsəyi) kimidir. Bəzən deyirlər: «Şəhərə mәdәrә ad verildi». Şair demişdir: «Gecə ikən, palçıq kəsəyinin carçısı səslənməzdi» (٢). مَدْر — hovuzun üzünü palçıqla suvamanızdır, bu da su ilə yaxşıca isladılmış مَدَر (palçıq) deməkdir (٣). Belə palçığın yeri مَمْدَرَةٌ (palçırlı yer) adlanır. Əm1d2ar (الأمْدَر) — rəngi palçıq rəngində olan kaftar növüdür (٤). Deyilir ki, kişi أَمْدَرُ (amdər) — böyük böyürlüdür, zənnimcə, bu, üzərində ətin yığılmasından irəli gəlir, sanki palçıq kəsəyidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

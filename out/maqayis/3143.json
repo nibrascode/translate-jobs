@@ -1,0 +1,17 @@
+{
+ "i": 3143,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فطم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 510,
+  "page_to": 510
+ },
+ "ar": "الفاء والطاء والميم أصلٌ صحيح يدلُّ على قَطْع شئ عن شئ.\nيقال: فَطَمَت الأمُّ ولَدَها، وفَطَمتُ الرّجُلَ عن عادته. قال أبو نصرٍ صاحبُ الأصمعىّ: يقال فَطَمْتُ الحَبْلَ، إذا قطعتَه. قال: ومنه فِطام الأمِّ ولَدَها.",
+ "az": "[فطم] (F-T-M) Fə, ta və mim hərfləri bir şeyi digərindən ayırmağa dəlalət edən doğru bir kökdür. Deyilir: «فَطَمَت الأمُّ ولَدَها» (ana övladını süddən kəsdi) və «فَطَمتُ الرّجُلَ عن عادته» (adamı adətindən uzaqlaşdırdım). Əl-Əsməinin şagirdi Əbu Nəsr deyir: «فَطَمْتُ الحَبْلَ» (ipi kəsdim) deyilir, yəni onu kəsdin. O dedi: ananın övladını süddən kəsməsi («فِطام») də bu mənadandır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

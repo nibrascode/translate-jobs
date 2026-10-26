@@ -1,0 +1,17 @@
+{
+ "i": 3747,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "منع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 278,
+  "page_to": 278
+ },
+ "ar": "الميم والنون والعين أصلٌ واحد هو خلاف الإعطاء. ومنَعتُه الشّيءَ منعاً، وهو مانِعٌ ومَنّاع. ومَكانٌ منيع. وهو في عِزٍّ ومَنْعَة (٦).",
+ "az": "[منع]\nالميم والنون والعين (mim, nun və ayn) verməyin əksi olan tək bir səhih əslidir. Mən ona bir şeyi qadağan etdim: منَعتُه الشّيءَ منعاً (mənəttuhuş-şəyə mənən), o, مانِع (maniə) və مَنّاع (mənnəc) olandır. Və مَكانٌ منيع (möhkəm yer). O, izzət və مَنَعَة (mənəə - qorunma, qüdrət) içindədir (٦).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:01.672Z"
+}

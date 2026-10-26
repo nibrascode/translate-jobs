@@ -1,0 +1,17 @@
+{
+ "i": 4685,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يتن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 155,
+  "page_to": 155
+ },
+ "ar": "الياء والتاء والنون: كلمةٌ واحدة، وهى اليَتْنُ، وهو الفصيل يَخرجُ رجلاهُ عند الولادة قَبْلَ رَأسِه. يقال: أيْتَنت النّافةُ والمرأةُ، إذا وَلدَتْ يَتْناً.",
+ "az": "[يتن] Ya, Ta və Nun: tək bir sözdür, o da الْيَتْنُ (əl-yətn) — doğuş zamanı başından əvvəl ayaqları çıxan baladır. Deyirlər: أَيْتَنَتِ النَّاقَةُ وَالْمَرْأَةُ (Dişi dəvə və qadın) — ayaqları öndə doğuş etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.329Z"
+}

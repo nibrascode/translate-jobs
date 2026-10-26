@@ -1,0 +1,17 @@
+{
+ "i": 3420,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كهد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 143,
+  "page_to": 143
+ },
+ "ar": "الكاف والهاء والدال، يقولون فيه شيئاً يدلُّ على تحرُّكٍ إلى فوق. يقولون: كَهَدَ الحِمارُ، إذا رَقَص في مِشْيته. وأكهدتُه: أرقصتُه، في شِعر الفرزدق:\nيُكْهِدُون الحُمُرْ (٣) *\nويقولون: اكْوَهَدَّ الفَرْخُ، إذا تحرَّك ليرتفع.",
+ "az": "[كهد] Kaf, ha və dal. Burada yuxarıya doğru hərəkətə dəlalət edən bir şey haqqında danışırlar. Deyirlər ki: كَهَدَ الحِمارُ (kəhədəl-himar) — eşşək yeriməsində oynadığı zaman. Və أكهدتُه (əkhədtühü) — onu oynatdım, Fərzəqun şeirində:\nيُكْهِدُون الحُمُرْ (٣) \n(Onlar eşşəkləri oynadırlar)\nVə deyirlər: اكْوَهَدَّ الفَرْخُ (ikvəhəddəl-fərx) — balaca quş yüksəlmək üçün hərəkət etdiyi zaman.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

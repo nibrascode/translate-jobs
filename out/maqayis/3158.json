@@ -1,0 +1,17 @@
+{
+ "i": 3158,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 4,
+  "page_to": 4
+ },
+ "ar": "القاف والنون بابٌ لم يُوضَع على قياسٍ، وكلماتُه متبايِنة. فمن كلماته القِنُّ، وهو العَبْد الذى مُلِك هو وأبوه. والقُنَّة: أعلَى الجَبَل. والقُنَانُ:\nرِيح الإبِطِ أشَدَّ ما يكون (٢). والقُناقِن: الدليل الهادى، البصيرُ بالماء تحتَ الأرض، والجمع قَنَاقِن (٣).",
+ "az": "[قن] (Q-N) Qaf və nun hərfləri bir ölçüyə görə qoyulmamış bir bölümdür və kəlmələri bir-birindən fərqlidir. Onun kəlmələrindən «القِنُّ» (əl-qinn): özü və atası qul olan kimsədir. «القُنَّة» (əl-qunnə): dağın zirvəsidir. «القُنَانُ» (əl-qunan): qoltuq altının ən şiddətli qoxusudur (٢). «القُناقِن» (əl-qunaqin): yolu göstərən, yerin altındakı suyu bilən bələdçidir, cəmi «قَنَاقِن» (qənaqin)-dir (٣).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

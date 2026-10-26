@@ -1,0 +1,17 @@
+{
+ "i": 3393,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كلد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 135,
+  "page_to": 135
+ },
+ "ar": "الكاف واللام والدال كلمةٌ تدلُّ على الصَّلابة في الشيء.\nفالكَلَدَةُ: القطعة من الأرض الغليظة، ومنه الحارث بن كَلَدة.\nقال ابن دريد (١): تكلَّد الإنسانُ: غَلُظَ لحمُه.",
+ "az": "[كلد] (Kaf, lam və dal) — bir şeydə sərtliyə və bərkliyə dəlalət edən kəlmədir.\n«الكَلَدَةُ» — sərt torpaq parçasıdır, Həris ibn Kələdə də buradan götürülmüşdür.\nİbn Dürid demişdir (١): «تكلَّد الإنسانُ» — insanın əti bərkimişdir, yoğunlaşmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:33.629Z"
+}

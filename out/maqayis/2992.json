@@ -1,0 +1,17 @@
+{
+ "i": 2992,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فكن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 446,
+  "page_to": 446
+ },
+ "ar": "الفاء والكاف والنون كلمةٌ واحدة، وهى التندّم، يقال تندَّم وتفكَّنَ بمعنًى.",
+ "az": "[فكن]\nFə, kaf və nun bircə kəlmədir: peşmanlıqdır. «تندَّم» (tənəddəmə) və «تفكَّنَ» (təfəkkənə) eyni mənada işlənir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.923Z"
+}

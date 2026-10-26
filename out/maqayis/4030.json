@@ -1,0 +1,17 @@
+{
+ "i": 4030,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 381,
+  "page_to": 381
+ },
+ "ar": "النون والباء والضاد أُصَيْلٌ يدلُّ على حركةٍ أو تحريك.\nونَبَضَ العِرْقُ يَنْبِض، وتلك حركتُه. وما به حَبَضٌ ولا نَبَض. وأنْبَضْتُ عَنْ (٢) القوس إنباضاً من هذا. ونَبَضْتُ أيضاً. ويقولون: فؤاد نَبِضٌ (٣)، كأنَّه من شهامته يَنْبِض، أي يتحرّك. قال:\nوإذا أطفْتَ بها أطفْتَ بكلكلٍ … نَبِض الفَرائصِ مُجْفَرِ الأضلاعِ (٤)",
+ "az": "[نبض] (nəbəz): Nun, ba və dad – hərəkətə və ya hərəkət etdirməyə dəlalət edən kiçik bir kökdür.\n«نَبَضَ العِرْقُ يَنْبِض» (nəbəşəl-irqu yənbiu) – və bu onun hərəkətidir. «وما به حَبَضٌ ولا نَبَض» (və mə bihi həbəzun və lə nəbəzun). «أنْبَضْتُ عَنْ القوس إنباضاً» (ənbəztü anil-qavsi ənbadən) buradan alınmışdır. «نَبَضْتُ» (nəbəztü) də belədir. Deyirlər ki: «فؤاد نَبِضٌ» (fuadun nəbiun) – sanki o, cəsarətindən «يَنْبِض» (yənbiu), yəni hərəkət edir. Belə demişdir:\nوإذا أطفْتَ بها أطفْتَ بكلكلٍ … نَبِض الفَرائصِ مُجْفَرِ الأضلاعِ (٤)\n(Və əgər ona yaxınlaşdınsa, döşü ilə yaxınlaşdın... qabırğaları çökük, əzələləri titrəyən)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

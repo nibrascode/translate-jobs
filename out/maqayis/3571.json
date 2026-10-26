@@ -1,0 +1,17 @@
+{
+ "i": 3571,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لمك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 212,
+  "page_to": 212
+ },
+ "ar": "اللام والميم والكاف كلمةٌ واحدة. يقال تَلمَّكَ الشَّيءَ، مثل تلمَّجَ، كأنَّه يتذوَّقُه. يقال: ما ذُقت لَمَاكًا، أي شيئا، كقولهم: ما ذقت لَمَاجًا، وأصله أن يلوِىَ البعير لَحْيَيه. قال:\nفلمَّا رآنِي قد حَمَمتُ ارتحالَه … تَلَمَّكَ لو يُجدِي عليه التَّلمُّكْ (٤)",
+ "az": "[لمك] «اللام والميم والكاف» (lam, mim və kaf) — tək bir kəlmədir. Deyilir: «تَلَمَّكَ الشَّيءَ» (şeyi tələmmək etdi / daddı), «تَلَمَّجَ» (tələmməc etdi) kimidir, sanki onu dadır. Deyilir: «ما ذُقت لَمَاكًا» (heç bir ləmak dadmadım), yəni hər hansı bir şeyi, onların «ما ذُقت لَمَاجًا» (heç bir ləmac dadmadım) demələri kimi; bunun əsli dəvənin çənələrini əyməsidir. (Şair) demişdir: فلمَّا رآنِي قد حَمَمتُ ارتحالَه … تَلَمَّكَ لو يُجدِي عليه التَّلمُّكْ (٤) (Məni səfərə hazırlaşdığımı gördükdə — əgər o tələmmək ona bir fayda versəydi — tələmmək etdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:11.522Z"
+}

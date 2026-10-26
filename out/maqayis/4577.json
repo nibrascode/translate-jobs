@@ -1,0 +1,17 @@
+{
+ "i": 4577,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وطأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 120,
+  "page_to": 121
+ },
+ "ar": "الواو والطاء والهمزة: كلمةٌ تدلُّ على تمهيدِ شئٍ وتسهيله.\nووطَّأْتُ له المكان. والوِطاءُ: ما توطأْتَ به من فِراش. ووَطِئْتُه برحِلى أطَوُّه.\nو\nفى الحديث: «اشدُدْ وَطأتَك على مُضَرَ». والمواطَأة: الموافَقَةُ على أمرٍ يوطِّئه كل * واحدٍ لصاحبه.",
+ "az": "[وطأ] (Vətə): الواو والطاء والهمزة (vav, tə və həmzə): bir şeyi hamarlamağa və asanlaşdırmağa dəlalət edən kəlmədir. ووطَّأْتُ له المكان (vəttə'tu ləhul-məkان): onun üçün yeri rahatladım. الوِطاء (əl-vita): döşək olaraq döşədiyin şey. ووَطِئْتُه برحِلى أطَوُّه (vəti'tuhu birihli ətəvvuhu). Hədisdə gəlmişdir: «اشدُدْ وَطأتَك على مُضَرَ» (Müdr [qəbiləsi] üzərində təzyiqini gücləndir). المواطَأة (əl-müvatəə) — hər bir kəsin digəri üçün uyğunlaşdırdığı bir işdə qarşılıqlı razılıq və uyğunluqdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

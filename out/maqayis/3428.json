@@ -1,0 +1,17 @@
+{
+ "i": 3428,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كود",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 145,
+  "page_to": 145
+ },
+ "ar": "الكاف والواو والدال كلمةٌ كأنَّها تدلُّ على التماسِ شيء ببعض العَناء. يقولون: كاد يَكُود كَوْداً ومَكاداً. ويقولون لمن يَطلُب منك الشّيءَ فلا تُرِيد إعطاءَه: لا ولا مَكادة. فأمَّا قولهم في المقارَبة: كاد، فمعناها قارب. وإذا وقعت كادَ مجرَّدَةً فلم يقع ذلك الشيء تقول: كاد يَفْعل، فهذا لم يُفعل. وإذا قُرِنَتْ بِجَحد فقد وقع، إذا قلت ما كاد يَفعلُه فقد فعله. قال اللّه سبحانه: ﴿فَذَبَحُوها وَما كادُوا يَفْعَلُونَ﴾.",
+ "az": "[كود] Kaf, vau və dal bir sözdür, sanki müəyyən bir zəhmətlə bir şeyə nail olmağa dəlalət edir. Deyirlər: كاد يَكُود كَوْداً ومَكاداً (kadə yəkudu kəvdən və məkadən). Səndən bir şey istəyən, lakin sənin vermək istəmədiyin kəsə deyirlər: لا ولا مَكادة (lə və lə məkadəh). Yaxınlaşma mənasındakı كاد (kad) sözünə gəldikdə, onun mənası yaxınlaşdı deməkdir. كاد (kad) sözü tək işləndikdə və o şey baş vermədikdə deyirsən: كاد يَفْعل (kadə yəfəlu), yəni bu, edilmədi. İnkar ilə birləşdirildikdə isə baş vermiş olur, əgər ما كاد يَفْعلُه (mə kadə yəfəlühü) desən, deməli o, bunu etmişdir. Uca Allah buyurdu: ﴿فَذَبَحُوها وَما كادُوا يَفْعَلُونَ﴾ (Mənaca tərcümə: «Onu kəsdilər, az qala bunu etməyəcəkdilər»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

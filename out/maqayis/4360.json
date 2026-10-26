@@ -1,0 +1,17 @@
+{
+ "i": 4360,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 48,
+  "page_to": 48
+ },
+ "ar": "الهاء والراء والميم كلمتان: إحداهما الهَرَم: كِبَر السّنّ. ويقال:\nالهَرِمَة: اللّبُؤَة (٥). وابن هِرْمَةَ: آخِرُ ولَدِ الرّجل. والأخرى الهُرْمانُ: العَقْل.",
+ "az": "«هرم» — الهاء والراء والميم (hə, ra və mim) iki kəlmədir: Biri الهَرَم (həram) — qocalıq. Deyilir: الهَرِمَة (hərimə) — dişi şir. İbn Hirmə isə adamın sonbeşiyidir. Digəri isə الهُرْمانُ (hurman) — ağıldır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

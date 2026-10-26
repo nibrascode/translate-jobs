@@ -1,0 +1,17 @@
+{
+ "i": 3907,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 336,
+  "page_to": 336
+ },
+ "ar": "الميم والعين والراء أصلٌ يدلُّ على مَلاسة وحَصٍّ وانجراد.\nفالأمْعَر والمَعِر: الأمْعَط الذي لا شَعْرَ عليه. ومنه أَمْعَرَ الرّجلُ: افتَقَر، كأنه تجرَّدَ من ماله. [و] مَعَرَ الظُّفْر: نصل وتمعَّر لَونُه عند غَضَبِه، وذلك أن يتطايَرَ الدّمُ عنه وتَعلُوه صُفرة. قال الخليل: وهو أمْعَر الشَّعر، وبه مُعْرَةٌ، وهو لونٌ يَضرِب إلى الحُمرة والصُّفرة، وهو أقْبَحُ الألوان. وأمْعَرَتِ الأرض:\nلم يكنْ فيها نَبات",
+ "az": "[معر] \nMim, eyn və ra hərfləri hamarlığa, tüvsüzlüyə və qırxılmış kimi olmağa dəlalət edən kökdür.\nBuna görə də الأمْعَر və المَعِر — tüpürcəyi/tükü olmayan الأمْعَط (keçəl/tüvsüz) deməkdir. Ondandır: أَمْعَرَ الرَّجُلُ — kasıb düşdü, sanki malından soyunub soy-törəksiz qaldı. [Və] مَعَرَ الظُّفْر: dırnaq qopdu və qəzəbləndiyi zaman rəngi تَمَعَّرَ (soldu/saraldı), bu da qanın ondan çəkilib üzərini sarılığın örtməsi ilə olur. Xəlil demişdir: O, saçları seyrək olandır (أمْعَر الشَّعر), onda مُعْرَةٌ vardır, bu isə qırmızıya və sarıya çalan bir rəngdir ki, rənglərin сама ən çirkinidir. Və أْمْعَرَتِ الأرضُ: yerdə heç bir bitki bitmədi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

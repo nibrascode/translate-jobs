@@ -1,0 +1,17 @@
+{
+ "i": 4188,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نغر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 452,
+  "page_to": 453
+ },
+ "ar": "النون والغين والراء أصلٌ يدلُّ على غَلَيانٍ واغتياظ. ونَغِرَت القدرُ (٤): غَلَتْ. ونَغِر الرّجلُ: اغتاظ. ومنه\nقول المرأة في حديث علىٍّ\n﵇: «رُدُّونى إلى أهلي غَيْرَ نَغِرة». ونَغَرت النّاقةُ: ضَمَّت مُؤَخَّرها ومضَتْ، كأنّها اغتاظت من شيء فمضَتْ لوجهها وهو يتنغَّر علينا، أي يتنكَّر (١).\nوهو من الأوّل. وفِراخُ العصافير يقال لها النَّغَر ولعلَّ ذلك لصوتها المتدارِك، الواحدة نُغَرة، والذّكَر نُغَر، والجمع نُغْران. قال:\nيَحْمِلنَ أوعيةَ المُدامِ كأنما … يحمِلْنَها بأكارع النُّغْرانِ (٢)\nيصف عناقيدَ العِنب.",
+ "az": "[نغر] (ن، غ، ر) — qaynamağa və qəzəblənməyə dəlalət edən əsl kökdür. نَغِرَت القدرُ (٤) (qazan qaynadı). نَغِر الرّجلُ (kişi qəzəbləndi). Həmçinin Hz. Əlinin (﵇) hədisində qadının dediyi söz də bundandır: «رُدُّونى إلى أهلي غَيْرَ نَغِرة» («Məni qəzəblənməmiş halda ailəmin yanına qaytarın»). نَغَرت النّاقةُ (dəvə arxasını büküb sürətlə getdi); o, sanki nədənsə qəzəblənib öz yolu ilə irəlilədi və o, بَيْنَنَا يَتَنغَّر (bizə qarşı hirsli davranır), yəni özünü yad və qəzəbli göstərir (١). Bu, birinci mənadandır. Cücə balalarına النَّغَر (ən-nəğər) deyilir, ehtimal ki, bu, onların səsi bir-birinə qarışdığı üçündür; təkliyi نُغَرة (nuğəfə), erkəyi نُغَر (nuğər), cəmi isə نُغْران (nuğran) olur. Şair demişdir: يَحْمِلنَ أوعيةَ المُدامِ كأنما … يحمِلْنَها بأكارع النُّغْرانِ (٢) (Onlar şərab qablarını daşıyırlar, sanki onları... [kiçik quşların] ayaqları ilə daşıyırlar). Burada üzüm salxımları təsvir olunur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

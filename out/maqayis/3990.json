@@ -1,0 +1,17 @@
+{
+ "i": 3990,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 367,
+  "page_to": 367
+ },
+ "ar": "النون والواو والحاء أصل يدلّ على مقابلة الشّيء للشيء.\nمنه تناوح الجبلان، إذا تقابلا. وتناوحت الرّيحان: تقابلتا في المهبّ. وهذه الرّيح نيّحة لتلك، أي مقابلتها. ومنه النّوح والمناحة، لتقابل النّساء عند البكاء.",
+ "az": "[نوح] (nuh) - nun, vav və ha bir əsas olub bir şeyin digəri ilə qarşı-qarşıya durmasına dəlalət edir. Bunlardandır: تناوح الجبلان (tənəvəhəl-cəbəlani) — iki dağ qarşı-qarşıya durduqda. Və تناوحت الرّيحان (tənəvəhətic-riyhəni) — əsmə istiqamətində iki külək qarşı-qarşılaşdıqda. Və bu külək o birinə qarşı نيّحة (niyyəh) olub, yəni qarşı-qarşıyadır. Və bunlardandır: النّوح (ən-nuh) və المناحة (əl-mənəhə) — ağlaşma zamanı qadınların üz-üzə gəlməsi üçün.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

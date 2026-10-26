@@ -1,0 +1,17 @@
+{
+ "i": 3484,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 165,
+  "page_to": 165
+ },
+ "ar": "الكاف والدال والميم أصلٌ صحيح فيه كلمةٌ واحدة. يقال كَدَمَ، إذا عَضَّ بأدنَى فيه، كما يَكدِم الحمار. ويقال أيضاً إنّ الكَدَمة:\nالحَرَكة. قال:\nلما تَمَشَّيْتُ بُعَيدَ العَتَمه (٤) … سَمِعتُ من فوقِ البُيوتِ كَدَمَهْ",
+ "az": "[كدم] (Kəf, Dal, Mim) tək bir kəlməni ehtiva edən düzgün bir kökdür. «كدم» (eşşəyin dişlədiyi kimi, ağzının ucu ilə dişlədi). Həmçinin deyilir ki, «الكدمة» (hərəkət). Şair demişdir: «لما تمشيت بُعيد العتمه (٤) ... سمعت من فوق البيوت كدمه» (Gecənin qaranlığında yeridiyim zaman ... evlərin üstündən bir hərəkət səsi eşitdim).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

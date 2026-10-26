@@ -1,0 +1,17 @@
+{
+ "i": 4443,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وأد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 78,
+  "page_to": 78
+ },
+ "ar": "الواو والهمزة والدال: كلمةٌ تدلُّ على إثقال شئٍ بشئ. يقال للإبل إذا مَشَت بثَقَلِها: لها وئيدٌ. قال:\n* ما للجمالِ مشِيَهُا وَئيدَا (٣) *\nأى مشياً بِثِقَل. والموءودة من هذا، لأنَّها تُدفَن حيّة، فهى تَثْقَل بالتُّراب الذى يعلوها.\nوَأدَها يَئِدُها وَأْداً. ومن ذلك قوله (٤):\n* وأحْيَا الوَئيدَ فلم يُوأدِ (٥) *",
+ "az": "[وأد] (Vav, həmzə və dal): Bir şeyi başqa bir şeylə ağırlaşdırmağa dəlalət edən kəlmədir. Dəvələr ağırlıqla yeridikdə onların nümayiş etdirdiyi yerişə vəid (وُئيدٌ) deyilir. O demişdir:\n* ما للجمالِ مشِيَهُا وَئيدَا (٣) *\nYəni ağırlıqla yerimək. Əl-məudə (الموءودة) bundan götürülmüşdür, çünki o diri-diri basdırılır, beləliklə üzərinə gələn torpaqla ağırlaşır.\nOnu diri-diri basdırdı (وَأدَها يَئِدُها وَأْداً). Və o cümlədən onun sözü (٤):\n* وأحْيَا الوَئيدَ فلم يُوأدِ (٥) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

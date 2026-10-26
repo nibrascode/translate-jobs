@@ -1,0 +1,17 @@
+{
+ "i": 4076,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 402,
+  "page_to": 403
+ },
+ "ar": "النون والحاء واللام كلماتٌ ثلاث: الأولى تدلُّ على دِقّةٍ وهُزال، والأُخرى على عطاء، والثالثة على ادِّعاء.\nفالأولى نَحَلَ جِسمُه نُحولاً فهو ناحل، إذا دقَّ، وأنْحلَه الهمُّ. والنَّواحل:\nالسُّيوف التي رَقَّت ظُباتُها من كثرة الضَّرْب بها.\nوالثانية: نَحلْتُه كذا، أي أعطيتُه. والاسم النُّحْل. قال أبو بكر (١): سمِّي الشّيء المُعطَى النَّحْلان. ويقولون: النُّحْل: أن تُعطِيَ شيئاً بلا استِعْواض. ونَحَلْتُ المرأةَ مَهْرَها نِحلةً، أي عن طِيب نَفْسٍ من غير مطالَبة. كذا قال المفسِّرون في قوله تعالى: ﴿وَآتُوا اَلنِّساءَ صَدُقاتِهِنَّ نِحْلَةً﴾.\nوالثالثة قولهم: انْتحَلَ كذا، إذا تعاطاه وادَّعاه. وقال قوم: انتحلَه، إذا ادّعاه مُحِقّا؛ وتَنَحَّله، إذا ادَّعاه مُبطِلا. وليس هذا عندنا بشيء ومعنى انتحل وتَنحَّل عندنا سواء. والدليل على ذلك قولُ الأعشى:\nفكيف أنا وانتحالِي القوَا … فِ بعدَ المشيبِ كفى ذاك عارا (٢)",
+ "az": "[نحل] (n-h-l) - Nün, ha və lam hərfləri üç kəlmədir: birincisi incəliyə və arıqlığa, ikincisi əvəzsiz bağışlamağa, üçüncüsü isə iddiaya dəlalət edir.\nBirincisi: نَحَلَ جِسمُه نُحولاً فهو ناحل (bədəni arıqladı, deməli o, arıqdır) — incəldikdə, və onu kədər arıqlatdı (أَنْحَلَهُ الهَمُّ). وَالنَّوَاحِل (ən-nəvəhil): çoxlu vuruşmaqdan iti ucları incəlmiş qılınclar.\nİkincisi: نَحَلْتُه كذا (ona belə bir şey bağışladım), yəni ona əvəzsiz verdim. Adı isə النُّحْل (ən-nuhl). Əbu Bəkr demişdir: Verilən şeyə النَّحْلَان (ən-nəhlan) deyilmişdir. Deyirlər: النُّحْل (ən-nuhl): əvəz gözləmədən bir şey verməyindir. وَنَحَلْتُ المرأةَ مَهْرَها نِحلةً (qadına mehrini xoşluqla verdim), yəni heç bir tələb olmadan könül xoşluğu ilə verdim. Təfsirçilər Uca Allahın ﴿وَآتُوا اَلنِّساءَ صَدُقاتِهِنَّ نِحْلَةً﴾ (Qadınlara mehrlərini könül xoşluğu ilə [hədiyyə kimi] verin) buyruğu haqqında belə demişlər.\nÜçüncüsü onların انْتَحَلَ كذا (filan şeyi iddia etdi/mənimsədi) sözüdür, hansı ki, ona girişdi və onu iddia etdi. Bir qrup demişdir: İntəcələvü – haqlı olaraq onu iddia etdikdə; تَنَحَّلَهُ (tənahhaləhü) – batil olaraq iddia etdikdə. Bizə görə bu heç bir şey deyil və intəcələ ilə tənahhalə bizə görə eyni mənadadır. Bunun dəlili Ə’şanın şu sözüdür:\nفكيف أنا وانتحالِي القوَا … فِ بعدَ المشيبِ كفى ذاك عارا (٢)\n(Qocalıqdan sonra mənim qafiyələri iddia etməyim necə olacaq? Bu, özü elə utanc olaraq kafidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

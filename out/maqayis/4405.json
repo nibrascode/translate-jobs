@@ -1,0 +1,17 @@
+{
+ "i": 4405,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 62,
+  "page_to": 62
+ },
+ "ar": "الهاء واللام والعين: يدلُّ على سُرعةٍ وحِدَّة. وناقة هِلْوَاعٌ:\nحديدة سريعة. ونعامةٌ هالِعٌ كذلك. ومنه الهَلَعُ فى الإنسان: شِبْه الحِرْص.\nورجلٌ هَلِعٌ وهَلُوع.\nقال ابن السِّكِّيت: رجلٌ هُلَعَة يَهْلَعُ ويَجْزَع سريعاً. ويقال: ما لَهُ هِلَّعٌ ولا هِلَّمة، أى جَدْىٌ ولا عَنَاق، وسمِّيا بذلك لنَزقِهما.",
+ "az": "[هلع] (hə-lə-ə): Hə, lam və eyn hərfləri sürətə və kəskinliyə dəlalət edir. «ناقة هِلْوَاعٌ» (naqatün hilvaun) — kəskin və sürətli dişi dəvə. «نعامةٌ هالِعٌ» (nəamətün halitün) — eləcə də sürətli dəvəquşu. Insandakı «الهَلَعُ» (əl-hələü) — hərisliyə bənzər bir haldır. «رجلٌ هَلِعٌ وهَلُوع» (racülün həlicün və həluun). İbn əs-Sikkit demişdir: «رجلٌ هُلَعَة» (racülün huləətün) — tez qorxan və səbirsizlik edən kəsimdir. Deyilir: «ما لَهُ هِلَّعٌ ولا هِلَّمة» (ma ləhu hilləun və la hilləmətün) — yəni nə çəpişi, nə də qoyunu var; onlar yüngülxasiyyətli olduqları üçün belə adlandırılmışlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

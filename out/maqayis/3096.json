@@ -1,0 +1,17 @@
+{
+ "i": 3096,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فذح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 485,
+  "page_to": 485
+ },
+ "ar": "الفاء والذال والحاء. ذكر ابن دريد: تفذَّحَتِ النّاقة وانفذَحَت، إذا تفاجَّت لتَبُول (٢). واللّه أعلم بالصواب.",
+ "az": "[فذح] (fəzəh). Fə, zal və hə. İbn Dürid qeyd etmişdir: تفذَّحَتِ النّاقة وانفذَحَت (dəvə sidiyə getmək üçün ayaqlarını araladı) (٢). Doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

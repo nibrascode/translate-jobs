@@ -1,0 +1,17 @@
+{
+ "i": 3833,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مذق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 309,
+  "page_to": 309
+ },
+ "ar": "الميم والذال والقاف أصلٌ يدلُّ على خلطِ شيء لا عَلَى جهة النَّصاحة.\nمن ذلك مَذَق اللّبَنَ بالماء، وإنَّما يراد بذلك تكثيره. واشتُقَّ منه المذَّاق:\nالذي يَمذق الوُدّ بملَلٍ يكون فيه. والمَذْق: اللَّبَن الممزوج أيضًا، وكذا المَذِيق.",
+ "az": "«مذق» (mim, zal və qaf) — səmimiyyət göstərmədən bir şeyi qarışdırmağa dəlalət edən kökdür. Bunlardan biri مَذَق اللّبَن بالماء (südü su ilə qarışdırmaq)dır, bununla onun miqdarını çoxaltmaq istənilir. Bundan Məzzaq (المذَّاق) sözü törəmişdir: sevgisini içindəki usançla qarışdıran kəs. Məzqv (المَذْق) — həmçinin qarışdırılmış süd deməkdir, eləcə də المَذِيق (məziq).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

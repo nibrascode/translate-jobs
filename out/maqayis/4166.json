@@ -1,0 +1,17 @@
+{
+ "i": 4166,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نظف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 443,
+  "page_to": 443
+ },
+ "ar": "النون والظاء والفاء كلمة واحدة، وهي قولهم: شيءٌ نظيف:\nنقىٌّ، بيِّن النظافة. وقد * نَظُف ينظُف. واستنظَفْتُ ما عند فلانٍ: استوفيتُه وأخذتُه كلَّه. ونظَّفتُه: نقّيته، تنظيفًا.",
+ "az": "[نظف] (nun, zə və fa) – tək bir kəlmədir, o da onların sözüdür: شيءٌ نظيف (şeyün nəzif) – təmiz, təmizliyi aşkar olan. وَنَظُفَ يَنظُفُ (nəzufə yənzufu) – təmiz oldu. وَاستنظَفْتُ ما عند فلانٍ (istənzəftü ma ində fülənin) – filankəsin yanında olan hər şeyi tamamilə alıb tükətdim. وَنظَّفتُه (nəzzəftühu) – onu təmizlədim, tənzif etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

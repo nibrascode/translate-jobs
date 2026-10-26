@@ -1,0 +1,17 @@
+{
+ "i": 3064,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فثأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 475,
+  "page_to": 475
+ },
+ "ar": "الفاء والثاء والهمزة يدلُّ على تسكين شئ يغلى ويفور. يقال:\nفَثَأْتُ القِدرَ: سكَّنت من غَلَيانها. قال:\nونَفثؤها عَنّا إذا حَمْيُها غلا (١)\nويقال: عدا حَتَّى أفثَأَ، أى أعيا.",
+ "az": "[فثأ] (f-s-ə): Fə, sa və həmzə hərfləri olub, qaynayan və coşan bir şeyi sakitləşdirməyə dəlalət edir. Deyilir: «فَثَأْتُ القِدرَ» (qazanın qaynamasını sakitləşdirdim): onun qaynayışını səngitdim. Şair demişdir: «ونَفثؤها عَنّا إذا حَمْيُها غلا» (1) (Qaynar vaxtı qaynayıb coşanda onu özümüzdən sakitləşdiririk). Deyilir: «عدا حَتَّى أفثَأَ» (yorulana qədər qaçdı), yəni taqətdən düşdü.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

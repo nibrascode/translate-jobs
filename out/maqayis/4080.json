@@ -1,0 +1,17 @@
+{
+ "i": 4080,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 404,
+  "page_to": 404
+ },
+ "ar": "النون والحاء والتاء كلمة تدل عَلَى بحرِ شيءٍ وتسويتِه بحديدة. ونَحَتَ النَّجَّار الخشبةَ ينحَتُها نحتاً. والنَّحيتة: الطَّبيعة، يريدون الحالةَ التي نُحِت عليها الإنسان، كالغريزة التي غُرِز عليها الإنسان. وما سقط من المنحوت نُحاتَةٌ.",
+ "az": "[نحت] (N-H-T) Nun, ha və ta bir şeyi dəmir alətlə yonmağa və düzəltməyə dəlalət edən kəlmədir. «نَحَتَ النَّجَّار الخشبةَ ينحَتُها نحتاً» (Dülgər taxtanı yondu, onu yonur, yonmaqla). «النَّحيتة» (ən-nəhitə) - təbiət, insanın üzərində xəlq olunduğu halı, insanın üzərində kökləndiyi xasiyyət kimi nəzərdə tuturlar. Yonulandan düşən qırıntılara «نُحاتَة» (nuhatə) deyilir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

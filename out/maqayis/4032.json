@@ -1,0 +1,17 @@
+{
+ "i": 4032,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 381,
+  "page_to": 381
+ },
+ "ar": "النون والباء والعين كلمتان:\nإحداهما نُبوع الماء، والموضع الذي يَنْبُع (٥) منه يَنْبُوع. والنَّوابع من البعير:\nالمواضع التي يَسيل منها عرقُه. ومنابع الماء: مَخَارِجُه من الأرض.\nوالأخرى النَّبْع: شَجَر.",
+ "az": "[نبع] (nəbə): Nun, ba və eyn – iki kəlmədir:\nBirincisi, suyun «نُبوع» (nubuu) – qaynayıb çıxması, onun qaynadığı yer isə «يَنْبُوع» (yənbuu) adlanır. Dəvənin «النَّوابع» (ən-nəvabi): tərinin axdığı yerlərdir. Suyun «منابع» (mənabi): yerdən çıxış yerləridir.\nDigəri isə «النَّبْع» (ən-nəb): bir ağac növüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

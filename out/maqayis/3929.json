@@ -1,0 +1,17 @@
+{
+ "i": 3929,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مكن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 343,
+  "page_to": 344
+ },
+ "ar": "الميم والكاف والنون كلمةٌ واحدة. المَكْن: بَيض الضَّبّ.\nوضَبٌّ مَكُونٌ. [قال]:\nومَكْنُ الضِّباب طَعامُ العُرَيبِ … ولا تَشتهيهِ نفوسُ العَجَمْ (٣)\nوالمكُنات: أوكار الطّير، ويقال مَكِنات (١).",
+ "az": "[مكن] \nMim, kaf və nun — tək bir kəlmədir. المَكْن (əl-makn) — kərtənkələnin (ضَبّ) yumurtasıdır.\nVə ضَبٌّ مَكُونٌ (dabun makun) [Demişdir]:\nومَكْنُ الضِّباب طَعامُ العُرَيبِ … ولا تَشتهيهِ نفوسُ العَجَمْ (٣)\n(Kərtənkələ yumurtaları ərəbciklərin [kiçik ərəb qəbilələrinin] yeməyidir... Və əcəmlərin nəfsi onu istəməz)\nVə المكنات (əl-məkənat) — quşların yuvalarıdır, həmçinin مَكِنات (məkinaat) da deyilir (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.515Z"
+}

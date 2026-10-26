@@ -1,0 +1,17 @@
+{
+ "i": 3984,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 364,
+  "page_to": 364
+ },
+ "ar": "النون والهاءِ والكاف أصلٌ صحيح يدلُّ على إبلاغٍ في عقوبة وأذى. ونَهَكَتْهُ الْحُمَّى: نَقَصَتْ لحمه. وأنْهَكهُ السُّلطانُ عقوبةً: بالَغَ.\nومن الباب انتهاكُ الحرمة تنَاوُلُها بما لا يحِلّ. والنّهِيك: الأسد والشّجاع، لأنّهما يَنْهَكان الأفران.",
+ "az": "[نهك] (NUN, HƏ və KAF) - əzab və zərərdə həddi aşmağa dəlalət edən səhih bir kökdür. «نَهَكَتْهُ الْحُمَّى» - qızdırma onun ətini tökdü (arıqlatdı). «وأْهَكهُ السُّلطانُ عقوبةً» - sultan cəzada həddi aşdı. Bu babdandır: «انتهاك الحرمة» - haram olan şeylərə haqsız yere əl atmaq. «النّهِيك» - şir və cəsur insan, çünki onlar düşmənlərin ətini qoparırlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

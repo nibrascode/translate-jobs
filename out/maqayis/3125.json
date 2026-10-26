@@ -1,0 +1,17 @@
+{
+ "i": 3125,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فسد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 503,
+  "page_to": 503
+ },
+ "ar": "الفاء والسين والدال كلمةٌ واحدة، فَسَدَ الشَّئ يَفْسُد فساداً وفُسوداً، وهو فاسِدٌ وفَسِيد.",
+ "az": "[فسد] الفاء والسين والدال كلمةٌ واحدة (Fə, sin və dal tək bir sözdür): فَسَدَ الشَّئ يَفْسُد فساداً وفُسوداً (şey fasid oldu, fasad və fusud oldu — xarab oldu), وهو فاسِدٌ وفَسِيد (və o, fasid və fəsiddir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.151Z"
+}

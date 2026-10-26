@@ -1,0 +1,17 @@
+{
+ "i": 3069,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فجو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 477,
+  "page_to": 477
+ },
+ "ar": "الفاء والجيم والحرف المعتل يدلُّ على اتِّساعٍ فى شئ.\nفالفَجْوة: المتَّسَع بين شَيئين. وقَوْسٌ فَجْواء: بانَ وترُها عن كَبدها. وفَجوة الدَّار: ساحتُها. والفَجَا: تَباعُدُ ما بين عُرقوبَىِ البعير\nوإذا هُمِزَ قلت: فَجِئَنى الأمرُ يفجَؤُنى (٢).",
+ "az": "«فجو» (fə-c-v): Fə, cim və uzadılma hərfi bir şeydə genişliyə dəlalət edir. «الفَجْوة» (fəcvə) - iki şey arasındakı genişlikdir. «قَوْسٌ فَجْواء» (qəvsün fəcva) - ox atılan yeri (kəbəti) ipindən uzaqlaşmış yaydır. «فجوة الدَّار» (fəcvətud-dar) - evin həyətidir. «الفَجَا» (fəca) - dəvənin iki topuğu arasının uzaq olmasıdır. Əgər həmzələnsə, belə deyərsən: «فَجِئَنى الأمرُ يفجَؤُنى» (iş məni qəfil yaxaladı) (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3079,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فحج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 480,
+  "page_to": 480
+ },
+ "ar": "الفاء والحاء والجيم كلمةٌ واحدة، وهى الفَحَج، وهو تباعُدُ ما بين أوساطِ السّاقَينِ فى الإنسانِ والدّابة. والنَّعت أفحجُ وفحجاء، والجمع فُحْج.",
+ "az": "«فحج» (fə-h-c): Fə, ha və cim hərfləri tək bir kəlmədir, o da «الفَحَج» (fəhəc) - insanda və heyvanda baldırların orta hissələrinin bir-birindən uzaq olmasıdır. Vəsfi «أفحج» (əfhəc) və «فحجاء» (fəhca), cəmi isə «فُحْج» (fuhc) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

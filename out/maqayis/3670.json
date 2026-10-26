@@ -1,0 +1,17 @@
+{
+ "i": 3670,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لزب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 245,
+  "page_to": 246
+ },
+ "ar": "اللام والزاء والباء يدلُّ على ثبوتِ شيءٍ ولُزومه. يقال:\nللاّزِمِ لازب. وصار هذا الشَّيءُ ضربةَ لازِبٍ، أي لا يكاد يفارِق. قال النابغة:\nولا يَحسِبون الخيرَ لا شرَّ بعدَه … ولا يَحْسِبون الشَّرَّ ضربةَ لازِب (٣)\nواللَّزْبة: السَّنَة الشديدة، والجمع لَزْبات (١) كأنَّ القَحْط لَزَب، أي ثبت فيها.",
+ "az": "[لزب] (Ləzəbə) — Lam, zai və ba bir şeyin sabitliyinə və qalıcılığına dəlalət edir. Deyilir: «للاّزِمِ لازب» (lil-ləzimi ləzibun). Və bu iş «ضربةَ لازِبٍ» (darbətə ləzibin) oldu, yəni demək olar ki, heç ayrılmır. Nabigə demişdir:\nولا يَحسِبون الخيرَ لا شرَّ بعدَه … ولا يَحْسِبون الشَّرَّ ضربةَ لازِب (٣)\n(Mənası: Onlar xeyirdən sonra heç bir şər olmayacağını güman etmirlər... və şəri də qaçılmaz bir zərbə kimi hesab etmirlər.)\nوَاللَّزْبَة (əl-ləzbə) — şiddətli il, cəmi لَزْبَات (ləzbət) olur; sanki qıtlıq orada sabit qaldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4594,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 125,
+  "page_to": 126
+ },
+ "ar": "الواو والعين والراء: كلمةٌ تدلُّ على صَلابةٍ وخُشونة. ومكان\nوَعْرٌ بيِّنُ الوُعورة، ووَعرَ يَوْعرُ (١) وتَوَعَّرَ. وفلانٌ وَعْر المعروفِ: نَكِدُه.\nوسألناه حاجةً فتوعَّرَ علينا، أى تشدّد.",
+ "az": "[وعر] الواو والعين والراء: sərtliyə və kobudluğa dəlalət edən sözdür. مكان وَعْرٌ (sərt yer), açıq-aydın sərtliyi ilə الوُعُورَة (əl-vüurə), vəsfi isə وَعرَ يَوْعرُ (sərt oldu) və تَوَعَّرَ (sərtləşdi). Və فلانٌ وَعْر المعروفِ (Filankəsin yaxşılığı sərt və azdır). Biz ondan bir ehtiyac istədik, o da bizə qarşı تَوَعَّرَ (sərtləşdi), yəni çətinlik çıxardı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

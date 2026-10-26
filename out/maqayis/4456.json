@@ -1,0 +1,17 @@
+{
+ "i": 4456,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وبط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 82,
+  "page_to": 82
+ },
+ "ar": "الواو والباء والطاء: كلمةٌ تدلُّ على ضَعف. يقال: وَبَطَ (١) رأيُه: ضعف. والوابِطْ: الجَبان. وَوَبَطَنِى فلانٌ عن حاجتى: حبَسَنى.",
+ "az": "[وبط] (və-ba-ta): Zəifliyə dəlalət edən sözdür. Deyilir: «وَبَطَ رأيُه» (١) (rəyi zəiflədi) — zəiflədi. «الوابِطْ» (vabit) — qorxaq. «وَوَبَطَنِى فلانٌ عن حاجتى» (filankəs məni ehtiyacım olan işdən saxladı) — məni allıqoydu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

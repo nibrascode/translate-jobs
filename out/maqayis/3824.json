@@ -1,0 +1,17 @@
+{
+ "i": 3824,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مدق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 306,
+  "page_to": 306
+ },
+ "ar": "الميم والدال والقاف كلمةٌ واحدة حكاها أبوبكر: مَدَقْتُ الصَّخرَ (٤) وغيره: كسرته.",
+ "az": "«مدق» (mim, dal və qaf) — Əbu Bəkr tərəfindən rəvayət edilən tək bir sözdür: مَدَقْتُ الصَّخْرَ (qayanı və başqasını döydüm, sındırdım) (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

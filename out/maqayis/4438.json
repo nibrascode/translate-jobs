@@ -1,0 +1,17 @@
+{
+ "i": 4438,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 77,
+  "page_to": 77
+ },
+ "ar": "الواو والعين: كلمةٌ تدلُّ على صَوت. يقال وَعْوَعَ الذِّئْبُ وعلى التَّشبيه يقال للشَّهم الظَّريف: وَعْوَعىٌّ. وكلُّ صوتٍ مختلطٍ: وَعْوَاعٌ. قال:\n* فيَظلُّ منه القومُ فى وَعواعٍ (٢) *",
+ "az": "[وع] (Vav və eyn): Səsə dəlalət edən kəlmədir. Canavar ulıduqda (وَعْوَعَ الذِّئْبُ) deyilir. Bənzətmə olaraq igid, zarif kişiyə (وَعْوَعىٌّ) (vəvə`iy) deyilir. Hər qarışıq səsə (وَعْوَاعٌ) (vəvə`av) deyilir. O demişdir:\n* فيَظلُّ منه القومُ فى وَعواعٍ (٢) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

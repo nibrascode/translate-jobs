@@ -1,0 +1,17 @@
+{
+ "i": 4233,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 475,
+  "page_to": 475
+ },
+ "ar": "النون والكاف والحاء أصلٌ واحد، وهو البِضاع. ونَكَحَ يَنْكِحُ. وامرأةٌ ناكِحٌ في بني فلان، أي ذات زَوجٍ منهم. النِّكاح يكون العَقدَ دونَ الوطء. يقال نَكَحْتُ: تَزَوّجْتُ. وأنكَحْتُ غَيرِي.",
+ "az": "[نكح] (nikah etmək, evlənmək) Nun, kaf və ha tək bir əsasdır, o da əlaqədir (البِضاع). (O,) نَكَحَ يَنْكِحُ (evləndi, evlənir). Bəni Fulan qəbiləsindən olan vəfat etmiş və ya ərə getmiş qadına «امرأةٌ ناكِحٌ» (o tayfadan ərə gedən qadın) deyilir, yəni onların arasında əri olar. Nikah — yaxınlıq (وطء) olmadan bağlanan əqd (müqavilə) olur. Deyilir ki, نَكَحْتُ (evləndim): təsəvvüf etdim (evləndim) və وأنكَحْتُ غَيرِي (başqasını evləndirdim).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.181Z"
+}

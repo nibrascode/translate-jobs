@@ -1,0 +1,17 @@
+{
+ "i": 4033,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 382,
+  "page_to": 382
+ },
+ "ar": "النون والباء والغين كلمةٌ تدلُّ على بُرُوزٍ وظُهُور. ونَبغَ الشيءُ ظَهَرَ. والنَّبْغ (١): ما تطايَرَ من الدَّقيق إذا طُحِن أو نُخل. ونَبَغ الرَّجُل (٢)، إذا لم يكنْ في إرث الشِّعر (٣) ثم قال وأجاد. وكذلك سمِّي النّابغةُ الشَّاعر. قال (٤):\nوحَلّت في بني قيس بن جَسْرٍ … وقد نبغَتْ لنا منهمْ شئونُ",
+ "az": "[نبغ] (nəbə): Nun, ba və ğeyn – üzə çıxmağa və zühur etməyə dəlalət edən kəlmədir. «نَبغَ الشيءُ» (nəbələş-şəyiu): üzə çıxdı. «النَّبْغ» (ən-nəb): un üyüdülərkən və ya ələndərkən uçuşan şeydir. «نَبَغ الرَّجُل» (nəbəşal-rəculu) – bir kəs şeir irsində (ailəsində) olmadığı halda sonradan şeir deyib onu gözəl şəkildə söylədikdə işlədilir. «النّابغة» (ən-nabiə) – şair də buradan adlandırılmışdır. Belə demişdir (٤):\nوحَلّت في بني قيس بن جَسْرٍ … وقد نبغَتْ لنا منهمْ شئونُ\n(Qeys ibn Cəsr oğulları arasında məskən saldı... və onlardan bizə əhvalatlar zühur etdi)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4386,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هطل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 56,
+  "page_to": 56
+ },
+ "ar": "الهاء والطاء واللام: كلمةٌ تدلُّ على تتابُع فى قَطْر وغيره.\nوهَطَلَ المطرُ هَطلاناً: تتابَعَ، وكذلك الدَّمعُ. وديمةٌ هطْلَاءُ. وإبلٌ هَطْلَى:\nتجئُ رويداً متتابِعة. وكذلك يقولون للمُعْيِى (١) منها: هَطِل.",
+ "az": "[هطل] (hə-tə-lə): Hə, ta və lam hərfləri yağışda və digər şeylərdə ardıcıllığa dəlalət edən kəlmədir. «وهَطَلَ المطرُ هَطلاناً» (və hətaləl-matəru hətlənən) — yağış ardıcıl yağıb, göz yaşı da belədir. «ديمةٌ هطْلَاءُ» (dimətün hətləu) — ardıcıl yağışı olan bulud. «إبلٌ هَطْلَى» (ibilün hətlə) — asta-asta və ardıcıl gələn dəvələr. Yorulmuş dəvə haqqında da belə deyirlər: «هَطِل» (hətil).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

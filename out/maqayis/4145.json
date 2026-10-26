@@ -1,0 +1,17 @@
+{
+ "i": 4145,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نصا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 433,
+  "page_to": 434
+ },
+ "ar": "النون والصاد والحرف المعتلّ - وهذا المعتلّ أكثرُه واو - أصلٌ صحيح يدلُّ على تَخَيُّرٍ وخَطَر في الشّيء وعُلوّ. ومنه النَّصِيَّة من القَوم ومن كلِّ شيءٍ: الخيار. ويقال انتصَيْتُ الشَّيءَ: اخترتُه. وهذه نَصيَّتي: خِيَرتي.\nومنه النَّاصية: سمِّيت لارتفاع مَنْبتها. والناصيةُ: قُصَاص الشَّعْر.\nوفي تصريف هذه الكلمة: نَصَوْت فلاناً: قبَضْتُ على ناصِيَته. وناصَيْتُهُ:\nأخَذَ كلٌّ منا بناصيةِ صاحِبه. وَمفازةٌ تُناصِي أخرى، من هذا، كأنّها تتَّصل بها كالقابضةِ (٤) على ناصيتها. وهو تشبيه. وانْتَصَى الشّعرُ: طال. و\nقول عائشة:\n«ما لكم تَنْصُون ميّتكم». فإنّها أرادت تمدُّون ناصيتَه، كأنّها كَرِهَتْ تسريح رأسِ الميّت.",
+ "az": "«نصا» (nə-sa-): Nun, sad və zəif hərf – bu zəif hərf əsasən vavadandır – səhih bir kök olub, bir şeydə seçilməyə, ucalığa və dəyərə dəlalət edir. Bunlardan biri də tayfadan və hər şeydən olan «النَّصِيَّة» (nəsiyyə) sözüdür ki, seçilmiş mənasını verir. Deyilir: «انتصَيْتُ الشَّيءَ» (əntəsaytüş-şəyə) – onu seçdim. «هذه نَصيَّتي» (hazihi nəsiyyəti) – bu mənim seçdiyimdir. Bunlardan biri də «النَّاصية» (nasiyə) sözüdür; bitdiyi yerin uca olması səbəbilə belə adlandırılmışdır. «الناصية» (nasiyə) həm də saçın alınacaq qismi deməkdir. Bu sözün tərifində deyilir: «نَصَوْت فلاناً» (nəsəvtü fülənan) – filankəsin alnından tutdum. «ناصَيْتُهُ» (nasaytuhu) – hər birimiz digərinin alnından tutduq. «ومفازة تُناصِي أخرى» (və məfazətün tunasi üxra) – bu mənadan olub, sanki o (səhra) digərinə alnından tutmuş kimi birləşir. Bu bir bənzətmədir. «وانتَصَى الشَّعرُ» (vəntəsas-şəcru) – saç uzandı. Aişənin sözü: «ما لكم تَنْصُون ميّتكم» (mə ləküm tənsunə məyyitəküm). O, ölünün alnını uzatmağınızı, yəni ölünün başını daramağı xoşlamadığını qəsd etmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:27.146Z"
+}

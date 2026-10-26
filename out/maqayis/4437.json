@@ -1,0 +1,17 @@
+{
+ "i": 4437,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 77,
+  "page_to": 77
+ },
+ "ar": "الواو والطاء: كلمةٌ واحدة، هى الوَطْواط: الخُطَّاف، وبه سمِّى الْجَبانُ وَطواطاً. قال أبو بكر (١): الوَطْوَطَة: الضَّعف.",
+ "az": "[وط] (Vav və ta): Tək kəlmədir, o da əl-vətvat (الْوَطْواط) — yarasa deməkdir, bununla qorxaq insan vətvat adlandırılmışdır. Əbu Bəkr (١) demişdir: Əl-vətvatə (الْوَطْوَطَة) — zəiflikdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

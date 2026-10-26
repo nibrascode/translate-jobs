@@ -1,0 +1,17 @@
+{
+ "i": 3346,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 109,
+  "page_to": 109
+ },
+ "ar": "القاف والعين والراء أصلٌ صحيحٌ واحد، يدلُّ على هَزْمٍ في الشّيء ذاهبٍ سُفْلاً. يقال: هذا قَعر البئر، وقَعر الإناء، وهذه قصعةٌ قَعِيرةٌ.\nوقَعَّر الرّجلُ في كلامه: شَدَّق. وامرأَة قَعِرة: نعتُ سوءِ في الجِماع. وانقَعَرت الشّجرة من أَرومتِها: انقلعَتْ.",
+ "az": "[قعر] (qə-ə-r): Qaf, eyn və ra doğru və tək bir əsasdır, şeyin içərisində aşağıya doğru olan çökəkliyə dəlalət edir. Deyilir: «هذا قَعر البئر» (həzə qəru əl-biər) — bu quyunun dibidir, «وقَعر الإناء» (və qəru əl-inə) — qabın dibidir, və «هذه قصعةٌ قَعِيرةٌ» (həzihi qasətün qərirətün) — bu dərin kasa, çanaqdır. Və «قَعَّر الرّجلُ في كلامه» (qərrə əl-racülü fi kələmihi): kişi danışığında çətin və dərin sözlər işlətdi, ağzını doldurub danışdı. Və «امرأةٌ قَعِرةٌ» (imrətün qərirətün): cinsi əlaqədə pis sifətlə vəsf olunan qadın. Və «انقَعَرت الشّجرة من أَرومتِها» (inqərat əş-şəcərətu min ərumətiha): ağac kökündən qopdu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

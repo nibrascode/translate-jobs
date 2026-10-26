@@ -1,0 +1,17 @@
+{
+ "i": 3249,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قبط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 50,
+  "page_to": 51
+ },
+ "ar": "القاف والباء والطاء أصلٌ صحيح. قال ابن دريد (٤): القَبْط:\nجَمْعُكَ الشَّيءَ بيدِك. يقال: قَبَطْتُه أَقْبِطُه قَبْطا. قال: وبه سُمِّي القُبَّاط (٥)، هذا التَّاطف، عربيٌّ صحيح.\nومما ليس من هذا الباب القِبط: أهلُ مصر، والنِّسبة إليهم قِبطيٌّ، والثِّياب القُبطيّةُ لعلَّها منسوبةٌ إلى هؤلاء، إلاَّ أنَّ القافَ ضُمَّت للفَرْق.\nقال زُهَير:\nلَيَأْتِيَنَّكَ مِنِّى مَنْطِقٌ قَذَعٌ … باقٍ كَمَا دَنَّسَ القُبْطِيّةَ الوَدَكُ (١)\nوتجمع قَباطيّ.",
+ "az": "[قبط] (qəbət). Qaf, ba və ta hərfləri səhih bir əsasdır. İbn Dürəyd (٤) demişdir: القَبْط (əl-qəbt) — bir şeyi əlinlə toplamaqdır. Deyilir ki, قَبَطْتُهُ أَقْبِطُهُ قَبْطًا (qəbatuhu əqbituhu qəbtən). O demişdir: Əl-Qubbat (القُبَّاط) kəlməsi də bundan adlandırılmışdır, bu əlaqə isə səhih ərəbi bir sözdür.\n\nVə bu fəsildən olmayan: القِبْط (əl-qibt) — Misir əhalisi, onlara nisbət edildikdə قِبْطِيٌّ (qibtiyyun) denilir. القُبْطِيَّةُ (əl-qubtiyyətu) paltarları isə ehtimal ki, məhz bu adamlara nisbət edilir, lakin fərqlənmək üçün qaf hərfi zəmmələnmişdir. \nZüheyr demişdir:\nلَيَأْتِيَنَّكَ مِنِّى مَنْطِقٌ قَذَعٌ … باقٍ كَمَا دَنَّسَ القُبْطِيّةَ الوَدَكُ (١)\n(Sənə məndən elə bir söyüşlü/biədəb söz gələcəkdir ki... Qalan, necə ki pəhriz/yağ qibti paltarını ləkələmişdir).\nOnlar qəbati (قَباطيّ) formasında cəmlənirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

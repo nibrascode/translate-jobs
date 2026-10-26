@@ -1,0 +1,17 @@
+{
+ "i": 3074,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فحش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 478,
+  "page_to": 478
+ },
+ "ar": "الفاء والحاء والشين كلمةٌ تدلُّ على قُبحٍ فى شئ وشَناعة.\nمن ذلك الفحْش والفَحْشاء والفاحشة. يقولون: كلُّ شئ جاوَزَ قَدرَه فهو فاحش؛ ولا يكون ذلك إلاّ فيما يُتَكَرَّه. وأفْحَشَ الرّجلُ: قال الفُحْشَ، وفَحَشَ، وهو فَحَّاش. ويقولون: الفاحش: البخيل، وهذا على الاتِّساع، والبخلُ أقبحُ خِصال المرء. قال طرفة:\nأرَى الموتَ يَعتامُ الكِرامَ ويصطفى … عقيلةَ مالِ الفاحشِ المتشدِّدِ (٢)",
+ "az": "«فحش» (fə-h-ş): Fə, ha və şin hərfləri bir şeydə çirkinliyə və rəzilliyə dəlalət edən bir kəlmədir. Bunlardan biri də «الفحْش» (fəhş), «الفَحْشاء» (fəhşa) və «الفاحشة» (fahişə) sözləridir. Deyirlər ki, həddini aşan hər bir şey fahişdir (həddi aşandır); bu da yalnız xoşagəlməz hallarda olur. «أفْحَشَ الرّجلُ» (əfhaşər-rəcul) - kişi nalayiq söz söylədi, «فَحَشَ» (fəhəşə) - pis danışdı, o, «فَحَّاش» (fəhhəş) - söyüş söyəndir. Deyirlər ki, fahiş həm də xəsis deməkdir, bu da məcazi mənadadır, çünki xəsislik insanın ən çirkin xüsusiyyətidir. Tərfə demişdir: «Arəl-məvtə yəctamul-kiramə və yəstafi əqilətə malil-fahişil-mütəşəddid» (Gөрürəm ki, ölüm comərdləri seçir və xəsis, sərt adamın malının ən seçkinini alır) (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

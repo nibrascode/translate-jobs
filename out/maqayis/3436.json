@@ -1,0 +1,17 @@
+{
+ "i": 3436,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 148,
+  "page_to": 148
+ },
+ "ar": "الكاف والواو واللام كلمةٌ إن صحَّت. يقولون: تكَوَّلَ القومُ على فلانٍ، إذا تجمَّعوا عليه.",
+ "az": "[كول] Kaf, vau və lam əgər səhihdirsə, tək bir sözdür. Deyirlər: تكَوَّلَ القومُ على فلانٍ (təkəvvələr-qəvmü ələ fülənin) — qövm filankəsin üzərinə toplandıqda.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

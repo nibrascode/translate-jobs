@@ -1,0 +1,17 @@
+{
+ "i": 4044,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 387,
+  "page_to": 387
+ },
+ "ar": "النون والتاء والغين ليس بشيءٍ غير حكاية. يقولون: أنتَغَ الرّجُل، إذا ضَحِكَ * ضَحِكَ المستهزئ. ويقالَ: نَتَغْتُه، إذا عبتَه وذكَرْتَه بما ليس فيه. قال أبو بكر: رجل مِنْتَغٌ فَعّالٌ لذلك (٢).",
+ "az": "«نتغ» (nətəğ) — Nun, ta və ğayn hərfləri hekayə etmədən başqa bir şey deyildir. Deyirlər: أنتَغَ الرّجُل (kişi istehza edənin gülüşü kimi güldü). Və deyilir: نَتَغْتُه (ona qüsur tapdın və onda olmayan şeylərlə onu xatırladın). Əbu Bəkr demişdir: رِجل مِنتغ (bunu çox edən kişi) (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

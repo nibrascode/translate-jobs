@@ -1,0 +1,17 @@
+{
+ "i": 3033,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فوم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 462,
+  "page_to": 462
+ },
+ "ar": "الفاء والواو والميم أصلٌ صحيحٌ مُختلَفٌ فى تفسيره، وهو الفُوم. قال قومٌ: هو الثُّوم، وقال آخرون: هو الحِنطة. ويقولون: فَوِّمُوا لنا، أى اخبِزُوا.",
+ "az": "[فوم] \nالفاء والواو والميم أصلٌ صحيحٌ مُختلَفٌ فى تفسيره، وهو الفُوم. قال قومٌ: هو الثُّوم، وقال آخرون: هو الحِنطة. ويقولون: فَوِّمُوا لنا، أى اخبِزُوا.\n\nFə, vaf və mim hərfləri izahında ixtilaf edilən səhih bir əsasdır ki, o da «الفُوم» (fum)-dur. Bir qrup demişdir: o, sarımsaqdır; başqaları demişdir: o, buğdadır. Deyirlər: «فَوِّمُوا لنا» — yəni bizə çörək bişirin.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:34.476Z"
+}

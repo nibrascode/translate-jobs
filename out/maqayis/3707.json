@@ -1,0 +1,17 @@
+{
+ "i": 3707,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لفح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 259,
+  "page_to": 259
+ },
+ "ar": "اللام والفاء والحاء كلمةٌ واحدة. يقال: لفحَتْه النّار بحرِّها والسَّمومُ، إذا أصابه حَرُّها فتغيَّرَ وجهُه [وأمّا] قولهم: لَفَحَه بالسَّيف لَفْحَةً:\nضربه ضربةً خفيفة، فإنّ الأصل فيه النون، هو نَفَحَه.",
+ "az": "«لفح» — lam, fa və ha tək bir sözdür. Deyilir: «لفحَتْه النّار بحرِّها والسَّمومُ» (lafa'athu an-naru bi-harriha wa as-samoumu) — odun və ya isti yel hərarəti ilə ona toxundu, nəticədə üzü dəyişdi [Amma] onların «لَفَحَه بالسَّيف لَفْحَةً» (lafacahu bi-as-sayfi lafcatan) — qılıncla yüngülcə bir zərbə vurdu sözünə gəldikdə, onun əslində nun hərfi vardır, yəni «نَفَحَه» (nafacahu) -dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.564Z"
+}

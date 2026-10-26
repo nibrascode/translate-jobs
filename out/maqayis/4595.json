@@ -1,0 +1,17 @@
+{
+ "i": 4595,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 126,
+  "page_to": 126
+ },
+ "ar": "الواو والعين والزاء: كلمةٌ واحدةٌ فى التَّقدمةِ فى الشئ.\nيقال: وَعَزْتُ إليه: تقدَّمت فى الأمر، وأوْعَزْت كذلك، وذلك إذا تقدَّمْتَ إليه فأمَرْته به.",
+ "az": "[وعز] الواو والعين والزاء: bir işdə irəli getməkdə tək sözdür. Deyirlər: وَعَزْتُ إليه (Mən ona irəli gedib əmr etdim), həmçinin أوْعَزْتُ (övəztü), bu da birinə irəli gedib əmr etdiyin zaman olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

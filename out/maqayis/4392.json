@@ -1,0 +1,17 @@
+{
+ "i": 4392,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هقم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 58,
+  "page_to": 58
+ },
+ "ar": "الهاء والقاف والميم: يدلُّ على اتَّساعٍ وعِظم. ويقال للبحر هِقَمٌّ، لعِظَمِه وبُعْدِ قَعرِه. وصوتُه هَيْقَم. قال:\n* كالبَحر يَدعُو هَيْقَماً وهَيْقَما (٢) *\nويقال: الهِقَمُّ (٣): الرَّجُل الكثير الأكل. ويقال: الهَيْقم: الظَّليم العظيم (٤).",
+ "az": "[هقم] (hə-qə-mə): Hə, qaf və mim hərfləri genişliyə və böyüklüyə dəlalət edir. Dənizə böyüklüyünə və dibinin uzaqlığına görə «هِقَمٌّ» (hiqəmm) deyilir. Onun səsi «هَيْقَم» (həyqəm)-dir. Şair demişdir: * كالبَحر يَدعُو هَيْقَماً وهَيْقَما * (Dəniz kimi ki, hayqıranları səsləyir). Həmçinin deyilir: «الهِقَمُّ» (əl-hiqəmm) — çox yeyən adamdır. Deyilir: «الهَيْقم» (əl-həyqəm) — böyük dəvəquşudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

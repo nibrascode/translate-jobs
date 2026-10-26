@@ -1,0 +1,17 @@
+{
+ "i": 3381,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 128,
+  "page_to": 128
+ },
+ "ar": "الكاف والشين ليس بشيء، وفيه كلمةٌ تَجري مَجرى الحكاية، يقال لهدير البَكْر: الكشيش. والكَشكَشة: كلمةٌ مولَّدة فيمن يُبدِل الكافَ في كلامه شيناً.",
+ "az": "[كش] الكاف والشين ليس بشيء، (Kaf və şin hərfləri heç bir şey deyil), وفيه كلمةٌ تَجري مَجرى الحكاية، (və orada təqlid məqamında olan bir söz vardır), يقال لهدير البَكْر: الكشيش. (balaca dəvənin nəriltisinə deyilir: əl-kəşiş). والكَشكَشة: كلمةٌ مولَّدة فيمن يُبدِل الكافَ في كلامه شيناً. (Və əl-kəşkəşə: danışığında kafı şinə çevirən kəslər haqqında uydurma sözdür).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:12.477Z"
+}

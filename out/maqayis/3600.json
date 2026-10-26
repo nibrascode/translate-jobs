@@ -1,0 +1,17 @@
+{
+ "i": 3600,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ليا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 223,
+  "page_to": 223
+ },
+ "ar": "اللام والياء والألف، يقال إنّه شيءٌ من النَّبْت. يقولون:\nاللِّياء: شيءٌ كالحِمَّص شديدُ البياض. يقال للمرأة: كأنَّها لِيَاءة.",
+ "az": "«ليا» (ليا): اللام والياء والألف، يقال إنه شيء من النبت (Lam, yə və əlif, deyilir ki, o, bitkidən bir şeydir). يقولون: اللياء: شيء كالحمص شديد البياذ (Deyirlər: əl-liyə: noxud kimi çox ağ olan bir şeydir). يقال للمرأة: كأنها لياءة (Qadına denilər: sanki o, liyədir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.900Z"
+}

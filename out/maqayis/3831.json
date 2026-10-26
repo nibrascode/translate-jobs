@@ -1,0 +1,17 @@
+{
+ "i": 3831,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 308,
+  "page_to": 309
+ },
+ "ar": "الميم والذال والراء يدلُّ على فسادٍ في شيء. ومَذِرت البيضة:\nفسدَت. وأمْذَرَتْها الدَّجاجة. والتمذُّر: خُبْث النَّفس. ومَذِرَتْ له نفسي.\nومَذِرت مَعِدتُه: فَسَدت. والأمْذَر: الكثير الاختلاف إلى الخَلاء، وهو ذلك المعنى.\nويجوز أن يقال: إنّ من الباب قولَهم تفرَّقُوا شَذَرَ مَذَرَ.",
+ "az": "«مذر» (mim, zal və ra) — bir şeydə xarab olmağa dəlalət edir. مَذِرت البيضة (məzirətil-bəydə) — yumurta xarab oldu. Və أمْذَرْتَها الدَّجاجة (tovuq onu xarab etdi). التمذُّر (təməzzür) — nəfsin pis olması, kədərlənməsi. مَذِرَتْ لَهُ نَفْسِي (nəfsim ona qarşı bulandı). مَذِرت مَعِدتُه (mədirt mədiduhu) — mədəsi xarab oldu. والأمْذَر (əmdər) — ayaqyoluna çox gedən kəs, məna elə budur. Həmçinin demək olar ki, onların «شَذَرَ مَذَرَ» (şəzərə məzərə - pərən-pərən düşmək) sözləri də bu fəsildəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3430,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كوز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 146,
+  "page_to": 146
+ },
+ "ar": "الكاف والواو والزاء أصلٌ صحيح يدلُّ على تجمُّع. قال أبو بكر (١): تكوَّرَ القومُ: تجمَّعوا. قال: ومنه اشتقاق بني كُوزٍ من ضَبَّة.\nوالكُوز للماء من هذا، لأنَّه يَجمع الماء. واكتاز الماء: اغتَرَفَه.",
+ "az": "[كوز] Kaf, vau və zai toplanmağa dəlalət edən səhih bir əsasdır. Əbu Bəkr demişdir (١): تكوَّرَ القومُ (təkvəral-qəvmü) — qövm toplandı. O demişdir: Zəbbə qəbiləsindən olan Bəni Kuz qəbiləsinin adı buradan götürülmüşdür.\nSu üçün olan كُوز (kuz) da bundandır, çünki o, suyu yığır. Və اكتتاز الماء (iktəzul-məə) — suyu ovuc ilə götürdü.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

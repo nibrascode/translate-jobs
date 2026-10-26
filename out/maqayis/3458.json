@@ -1,0 +1,17 @@
+{
+ "i": 3458,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كبع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 154,
+  "page_to": 155
+ },
+ "ar": "الكاف والباء والعين. قالوا - واللّه أعلم بصحَّته - إنَّ الكَبْع: نقد الدِّرهم والدِّينار. قال:\nقالوا لِي اُكْبَعْ قلتُ لَسْتُ كابِعا … وقُلتُ لا آتِي الأميرَ طائعا (١)",
+ "az": "[كبع] (Kaf, ba və ayn). Dedilər — onun düzgünlüyünü Allah bilir — ki, الكَبْع (əl-kəbc) — dirhəm və dinarın xalisliyini yoxlamaq, səkk etməkdir. [Şeir] قالوا لِي اُكْبَعْ قلتُ لَسْتُ كابِعا … وقُلتُ لا آتِي الأميرَ طائعا (١) (mənası: Dedilər mənə: yoxla, dedim: mən yoxlayan deyiləm... Və dedim: əmirin yanına könüllü gəlməyəcəyəm).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

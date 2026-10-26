@@ -1,0 +1,17 @@
+{
+ "i": 3631,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 234,
+  "page_to": 234
+ },
+ "ar": "اللام والثاء والميم أُصَيل يدلُّ على مُصَاكَّةِ شيء لشيء أو مضامَّته له. من ذلك: لَثَم البعيرُ الحجارةَ بِخُفِّهِ، إذا صَكَّها. وخفٌّ مِلْثَمٌ: يصكُّ الحجارة.\nومن المضامَّة اللِّثام: ما تُغطَّى به الشّفةُ من ثوبٍ. وفلانٌ حسنُ اللِّثْمة، أي الالتثام. وخفٌّ مَلْثُوم مثل مرثوم، إذا دَمِي. ومن الباب لَثِمَ الرّجُل المرأةَ (٢)، إذا قبَّلها.",
+ "az": "[لثم] (ləsəm) — lam, sa və mim bir şeyin başqa bir şeyə toxunmasını və ya sıx birləşməsini bildirən əsas kökdür. Bunlardan biri: لَثَم البعيرُ الحجارةَ بِخُفِّهِ (ləsəməl-bə‘irül-hicarətə bi-xuffih) — dəvə ayağının altı ilə daşlara vurdu. وخفٌّ مِلْثَمٌ (xuffun milsəm) — daşlara çırpılan ayaq. Sıx birləşmədən irəli gələrək: اّللِّثام (əllisam) — dodağın parça ilə örtülən hissəsidir. وفلانٌ حسنُ اللِّثْمة (və fəlun həsənül-lisməh) — filankəs üzünü örtməkdə gözəldir, yəni əltizamda. وخفٌّ مَلْثُوم (xuffun məlsum) — marsum (nişanlanmış) kimi, qanandığı zaman. Bu بابdan olaraq: لَثِمَ الرّجُل المرأةَ (ləsəmər-rəcülül-mərəh) — kişi qadını öp-dü (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

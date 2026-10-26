@@ -1,0 +1,17 @@
+{
+ "i": 2996,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فلن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 447,
+  "page_to": 447
+ },
+ "ar": "الفاء واللام والنون كناية عن كلِّ أحد. ورخَّمه أبو النجمِ فقال:\nفى لَجَّةٍ أَمْسِكْ فُلاناً عَنْ فُلِ (٢)\nهذا فى الناس، فإنْ كان فى غيرهم قيل: ركبتُ الفلانةَ والفرس الفلان (٣).",
+ "az": "[فلن]\nFə, lam və nun hər kəsə işarə edən kinayədir (filankəsdir). Əbun-Nəcm onu tərxim etmiş (son hərfini atmış) və demişdir:\nفى لَجَّةٍ أَمْسِكْ فُلاناً عَنْ فُلِ (٢)\n(Böyük bir təlaş içində filankəsi filandan saxla!)\nBu, insanlara aiddir; əgər insanlardan başqası haqqında olarsa, «ركبتُ الفلانةَ والفرس الفلان» (filan madyana və filan ata mindim) (٣) deyilir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.923Z"
+}

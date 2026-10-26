@@ -1,0 +1,17 @@
+{
+ "i": 3832,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مذع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 309,
+  "page_to": 309
+ },
+ "ar": "الميم والذال والعين. يقولون فيه المذَّاع: الكذَّاب، والذي لا يكتُم السِّرَّ أيضًا. ومَذَع ببَوْلِه: رمى ببوله.",
+ "az": "«مذع» (mim, zal və əyn). Bu haqda deyirlər: المذَّاع (mızzaə) — çox yalan danışan, həmçinin sirri gizlətməyən. مَذَع ببَوْلِه (mədəə bi-bavlihi) — sidiyini səpələdi, atdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

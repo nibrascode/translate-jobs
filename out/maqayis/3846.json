@@ -1,0 +1,17 @@
+{
+ "i": 3846,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 313,
+  "page_to": 314
+ },
+ "ar": "الميم والراء والنون أصلٌ صحيح يدلُّ على لِينِ شيءٍ وسُهولة.\nومَرَنَ الشيء يَمْرُنُ مُرُوناً: لانَ. والمارنُ: ما لانَ من الأنفِ وفَضَل عن القَصَبَة.\nوأمْرَانُ الذراع: عَصَبٌ تكون فيها، سُمِّيَت لُمُرونها، أي لِينِها. والمَرِن (٣):\nالحال والعادة. يقال: ما زال ذاك مَرِنَه، أي حالَه. وهو في شعر الكميت، وهو الأمرُ يَمرُنُ عليه الإنسان، إذا اعتاده والمَرْن، فيما يقال: الفِراء؛ إن (٤) كان صحيحًا، وهي (٥) ليِّنة. قال النَّمر:\n* كأنَّ جُلودَهُنَّ ثِيابُ مَرْنِ (٦) *\nومما شذَّ عن هذا الأصل مارَنَت النّاقةُ: انقطَعَ لبنُها. والمرَانَةُ: ناقةُ ابنِ مُقْبِل. قال:\nيا دارَ سلمَى خلاءً لا أُكَلِّفُها … إلاَّ المَرَانَةَ حتى تعرِفَ الدِّينا (١)",
+ "az": "«مرن» (marana) — mim, ra və nun hərflərindən ibarət səhih bir kök olub bir şeyin yumşaq və asan olmasına dəlalət edir. مَرَنَ الشَّيْءُ يَمْرُنُ مُرُوناً (marana aş-şay'u yamrunu murunan): yumşaldı. اَلمَارِنُ (al-marin): burunun yumşaq olan və qığırdağından artıq qalan hissəsi. أَمْرَانُ الذِّرَاعِ (amranu adh-dzira'): qoldakı vətər, yumşaqlığına görə belə adlandırılmışdır. اَلمَرِن (al-marin) (٣): hal və adət. Deyilir: مَا زَالَ ذَاكَ مَرِنَهُ (ma zala dzaka marinuhu), yəni halıdır. Bu, Əl-Kumeytin şeirində də vardır; bu, insanın öyrəşdiyi və ona adət etdiyi işdir. اَلمَرْن (al-marn), deyilənə görə: dərilər; əgər doğrudursa (٤), onlar yumşaqdır (٥). Ən-Nəmr demişdir: كَأَنَّ جُلُودَهُنَّ ثِيابُ مَرْنِ (ka'anna juludahunna thiyabu marni) (٦). Bu kökdən şaz (qaydadan kənar) olan: مَارَنَتِ النَّاقَةُ (maranat an-naqatu): dəvənin südü kəsildi. اَلمَرَانَةُ (al-maranatu): İbn Muqbilin dəvəsidir. O demişdir: يَا دَارَ سَلْمَى خَلَاءً لَا أُكَلِّفُهَا … إِلَّا المَرَانَةَ حَتَّى تَعْرِفَ الدِّيْنَا (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

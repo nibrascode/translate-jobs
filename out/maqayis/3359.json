@@ -1,0 +1,17 @@
+{
+ "i": 3359,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 114,
+  "page_to": 114
+ },
+ "ar": "القاف والفاء والدال أصلٌ يدلُّ على التواءِ في شيء. من ذلك القَفَد: التواءُ رسغِ اليد الوحشيّ؛ رجلٌ أقفدُ وامرأةٌ قَفْدَاء. وكذلك الفرس.\nويقولون: القَفْداء: جنس من الاعتمام.",
+ "az": "[قفد] Qaf, fa və dal. Bir şeydəki əyriliyə dəlalət edən bir kökdür. Buna «qəfəd» daxildir: əlin biləyinin çöl tərəfinin əyriliyi; «əqfəd» (əyri biləkli) kişi və «qəfda» (əyri biləkli) qadın deyilir. At üçün də eyni hal keçərlidir. Deyirlər ki, «əl-qəfda»: bir növ əyilmədir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.648Z"
+}

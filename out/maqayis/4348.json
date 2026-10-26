@@ -1,0 +1,17 @@
+{
+ "i": 4348,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هذل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 45,
+  "page_to": 45
+ },
+ "ar": "الهاء والذال واللام: أُصَيلٌ يدلُّ على صِغَرٍ وخِفَّةِ وسُرعة.\nمنه الهُذْلُول: الرجل الخفيف. وهَوْذَلَ الرّجُل: مَشَى بسُرعة. وهَوْذَلَ السِّقاءِ: تَمخّضَ.\nومن الباب: الهَذَاليل: تِلالٌ صِغار، الواحد هُذْلول، سمِّيت بها لِصغَرِها.\nومن بعض هذا قياسُ اسمِ هُذَيْل.",
+ "az": "[هدل] (hə-zə-lə): Hə, zal və lam – kiçikliyə, yüngüllüyə və sürətə dəlalət edən kiçik bir əsasdır.\nBunlardan biri: الهُذْلُول (əl-hüzlul) – yüngülvari kişi. وهَوْذَلَ الرّجُل (Kişi sürətlə yeridi). وهَوْذَلَ السِّقاءِ (Mex – tuluq çalxalandı).\nBu fəsildəndir: الهَذَاليل (əl-həzalil) – kiçik təpələr, təkili هُذْلول (hüzlul)-dur, kiçikliklərinə görə belə adlandırılmışlar.\nBəzi bunlardan da هُذَيْل (Hüzeyl) adının ölçüsü götürülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

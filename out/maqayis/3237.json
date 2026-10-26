@@ -1,0 +1,17 @@
+{
+ "i": 3237,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قيد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 44,
+  "page_to": 44
+ },
+ "ar": "القاف والياء والدال كلمةٌ واحدة، وهى القَيْد، وهو معروفٌ، ثُمَّ يستعارُ في كل شئٍ يَحْبِس. يقال: قيَّدْتُه أُقَيِّده تَقْيِيداً. ويقال: فَرَسٌ قَيْدُ الأَوَابِدِ، أى فكأنَّ الوحشَ من سُرعةِ إدراكه لها مُقيَّدة. قال:\nوقَدْ أَغْتدِي والطَّيْرُ في وُكْنَاتها … بمُنجرِدٍ قَيدِ الأوابدِ هيكلِ (٣)\nوالمُقَيَّد: موضعُ القَيْدِ من الفَرَس.",
+ "az": "[قيد] «القاف» (قاف), «الياء» (ياء) və «الدال» (dal) — tək bir kəlmədir, o da «القَيْد» (əl-qayd - buxov)dur, bu məlumdur, sonra o, həbs edən hər bir şey üçün məcazi olaraq işlədilir. Deyilir: «قيَّدْتُه أُقَيِّده تَقْيِيداً» (Buxovladım, onu buxovlayıram, buxovlamaq). Deyilir: «فَرَسٌ قَيْدُ الأَوَابِدِ» (At vəhşi heyvanların buxovudur), yəni sürətlə onları yaxaladığına görə sanki vəhşi heyvanlar (onun yanında) buxovlanmış kimidir. Şair demişdir:\nوقَدْ أَغْتدِي والطَّيْرُ في وُكْنَاتها … بمُنجرِدٍ قَيدِ الأوابدِ هيكلِ (٣)\n(Mən elə səhər tezdən yola çıxıram ki, quşlar yuvalarındadır, çılpaq bədənli, vəhşi heyvanların buxovlayıcısı olan uca bir atla).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:47.283Z"
+}

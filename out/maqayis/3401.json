@@ -1,0 +1,17 @@
+{
+ "i": 3401,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 137,
+  "page_to": 137
+ },
+ "ar": "الكاف والميم والتاء كلمةٌ صحيحة تدلُّ على لونٍ من الألوان من ذلك الكُمْتَة، وهي لونٌ ليس بأشقَرَ ولا أدهم. يقال: فرسٌ كُمَيْت.\nولم يجئْ إلا كذا على صورة المصغَّر. والكميت: الخمر فيها سوادٌ وحُمرة.",
+ "az": "[كمت] Kaf, mim və ta düzgün bir söz olub rənglərdən birinə dəlalət edir. Bunlardanbiri «الكُمْتَة» (kümtə) olub, nə açıq qırmızı, nə də tünd qara (quzğunu) olmayan rəngdir. Deyilir: «فرسٌ كُمَيْت» (kümüyt at). Bu söz yalnız kiçildilmiş (təsğir) şəkildə gəlmişdir. «الكميت» (əl-küməyt) — içində qara və qırmızı rəng olan şərabdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

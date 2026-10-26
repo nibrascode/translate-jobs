@@ -1,0 +1,17 @@
+{
+ "i": 2986,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فقد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 443,
+  "page_to": 443
+ },
+ "ar": "الفاء والقاف والدال أصيل يدلُّ على ذَهاب شئ وضَياعِه.\nمن ذلك قولهم. فَقَدت الشَّئ فَقْداً. والفاقد: المرأة تَفْقِد ولدَها أو بعلها، والجمع فَواقِد. فأمَّا قولُك: تفقَّدْتُ الشَّئَ، إذا تطلّبتَه، فهو من هذا أيضاً، لأنَّك تطلبه عند فقدك إيَّاه. قال اللّه تعالى: ﴿وَتَفَقَّدَ اَلطَّيْرَ فَقالَ ما لِيَ لا أَرَى اَلْهُدْهُدَ أَمْ كانَ مِنَ اَلْغائِبِينَ﴾.",
+ "az": "[فقد]\nFə, qaf və dal bir şeyin getməsinə və itməsinə dəlalət edən əsil bir kökdür.\nBu qəbildəndir onların: «فَقَدت الشَّئ فَقْداً» (şeyi itirdim) sözü. «الفاقد» (əl-faqid) — övladını və ya ərini itirən qadındır, cəmi «فَواقِد» (fəvaqid) gəlir. Sənin «تفقَّدت الشَّئَ» (şeyi axtarıb-yoxladım) sözünə gəldikdə isə, onu axtardığın zaman deyilir və bu da həmin kökdəndir; çünki sən onu itirdiyin zaman axtarırsan. Uca Allah buyurmuşdur: ﴿وَتَفَقَّدَ اَلطَّيْرَ فَقالَ ما لِيَ لا أَرَى اَلْهُدْهُدَ أَمْ كانَ مِنَ اَلْغائِبِينَ﴾ (mənaca tərcüməsi: «[Süleyman] quşları yoxlayıb dedi: \"Nə üçün mən şanapipiyi görmürəm? Yoxsa o, qeyiblərdəndir (burada olmayanlardandır)?\"»).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

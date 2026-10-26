@@ -1,0 +1,17 @@
+{
+ "i": 3354,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 112,
+  "page_to": 112
+ },
+ "ar": "القاف والفاء واللام أصلٌ صحيح يدلُّ أحدُهما على أوبةٍ من سفر، والآخر على صَلَابةٍ وشِدَّةٍ في شيء.\nفالأوَّل القُفول، وهو الرُّجوع من السَّفَر، ولا يقال للذاهبين قافلةٌ حتّى يرجعوا.\nوأمَّا الأصل الآخَر فالقَفِيل، وهو الخشب اليابس. ومنه القُفْل، سمِّي بذلك لأنَّ فيه شدّاً وشِدَّة. يقال أقفَلتُ البابَ فهو مُقْفَل. ويقال للبخيل: هو مُقْفَل اليدين.\nوقَفِلَ الشّيءُ: يَبِس. وخيلٌ قَوَافِلُ: ضَوَامِر. ويقال: أقْفَلَه الصّومُ: أيبَسَه.",
+ "az": "[قفل] (qə-f-l): Qaf, fa və lam səfərdən qayıtmağa və ya bir şeydə olan sərtliyə və möhkəmliyə dəlalət edən doğru bir əsasdır. Birincisi «القُفُول» (əl-quful) — səfərdən qayıtmaqdır, gedənlərə geri dönməyənə qədər karvan («قافلة») deyilmir. Digər əsasa gəlincə, «القَفِيل» (əl-qəfil) — qurumuş taxtadır. Ondan «القُفْل» (əl-qufl) — kilid sözü törəmişdir, ona bu ad içində möhkəmlik və sərtlik olduğuna görə verilmişdir. Deyilir: «أقفَلتُ البابَ فهو مُقْفَل» (əqfəttü əl-babə fəhüə muqfəl) — qapını kilidlədim, o kilidlənmişdir. Xəsislərə «هو مُقْفَل اليدين» (hüə muqfəl əl-yədeyn) — əlləri kilidlənmiş (xəsis) deyilir. Və «قَفِلَ الشّيءُ» (qəfilə əl-şeyü): şey qurudu. Və arıq atlar dəstəsi «خيلٌ قَوَافِلُ» (xeylün qəvəfilü) adlanır. Və deyilir: «أقْفَلَه الصّومُ» (əqfələhü əl-sövmu): oruc onu qurutdu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

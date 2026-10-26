@@ -1,0 +1,17 @@
+{
+ "i": 3054,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فتخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 470,
+  "page_to": 470
+ },
+ "ar": "الفاء والتاء والخاء أصلٌ صحيح يدلُّ على لِينٍ فى الشَّئ.\nفالفَتَخ: لِينٌ فى جناح الطَّائر. وعُقابٌ فَتخاءُ، إذا انكسر جَناحُها فى طَيَرانها.\nوفَتَخَ أصابِعَ رجلِهِ فى جلوسه، إذا ليّنها. و\nفى الحديث: «أنّه كان ﵇ إذا سَجَد جافى عَضُدَيه عن جنبيه، وفَتَخَ أصابِعَ رِجلَيه». ويقال إنَّ الفَتَخَ:\nعِرَضُ الكتف والقَدَم.\nومما شذَّ عن هذا الأصل الفَتَخ، جمع فَتَخة، وهى كالحَلْقة تُلبَس لُبْس الخاتم. قال:\nتسقطُ منه فَتَخِى فى كُمِّى (١)",
+ "az": "[فتخ] (f-t-خ): Fə, ta və xa hərflərindən ibarət səhih bir kök olub, bir şeydə yumşaqlığa dəlalət edir. «الفَتَخ» (fətəx) — quşun qanadında olan yumşaqlıqdır. Qartal uçarkən qanadı qırıldqda «عُقابٌ فَتخاءُ» (fəxə qartal) olar. Oturan zaman ayağının barmaqlarını yumşaltdıqda «فَتَخَ أصابِعَ رجلِهِ» (ayaq barmaqlarını yumşaltdı) deyilir. Hədisdə gəlmişdir: «أنه كان ﷺ إذا سَجَد جافى عَضُدَيه عن جنبيه، وفَتَخَ أصابِعَ رِجلَيه» (O, sallallahu aleyhi və səlləm, səcdə edərkən bazu sümüklərini böyründən uzaqlaşdırar və ayaq barmaqlarını açardı/yumşaldardı). Deyilir ki, «الفَتَخ» (fətəx) — çiyin və ayağın enlidir. Bu kökdən istisna olunan «الفَتَخ» (fətəx) sözüdür, o da «فَتَخة» (fətəxə) sözünün cəmi olub, üzük kimi taxılan halqaya bənzər şeydir. Şair demişdir: «تسقطُ منه فَتَخِى فى كُمِّى» (1) (Onun fətəxləri qoltuğuma düşür).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

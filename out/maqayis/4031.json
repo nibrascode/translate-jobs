@@ -1,0 +1,17 @@
+{
+ "i": 4031,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 381,
+  "page_to": 381
+ },
+ "ar": "النون والباء والطاء كلمةٌ تدلُّ على استخراج شيء واستنبَطْتُ الماءَ: استخرجتُه، والماء نَفْسُه إذا استُخرِجَ نَبَط. ويقال: إنَّ النَّبَط سُمُّوا به لاستنباطهم المِياه. ومن المحمول على هذا النُّبْطة: بياضٌ يكون تحت إبط الفرس.\nوفرسُ أنْبَطُ، كأنَّ ذلك البياضَ مشبَّه بماءٍ نبط.",
+ "az": "[نبط] (nəbəş): Nun, ba və ta – bir şeyi üzə çıxarmağa dəlalət edən kəlmədir. «استنبَطْتُ الماءَ» (istənbattul-maa): onu çıxartdım, çıxarılan suyun özü də «نَبَط» (nəbə) adlanır. Deyilir ki: «النَّبَط» (ən-nəbə) suyu üzə çıxardıqlarına görə belə adlandırılmışlar. Buna bənzədilən digər şey «النُّبْطة» (ən-nubə): atın qoltuğunun altında olan ağlıqdır.\n«فرسُ أنْبَطُ» (fərasun ənbatu) – sanki həmin ağlıq «nəbə» suyuna bənzədilib.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

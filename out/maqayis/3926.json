@@ -1,0 +1,17 @@
+{
+ "i": 3926,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مقط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 342,
+  "page_to": 343
+ },
+ "ar": "الميم والقاف والطاء كلماتٌ لا تَرجِع إلى قياسٍ واحد، بل هي متباينةٌ حِدًّا. فالمِقَاط: حبلٌ شديد الإغارة. والمَقْط: ضَربُك بالكُرة على الأرض ثم تأخذُها إذا نَزَلتْ. قال:\n* بكفّى مَاقِطٍ في صاعِ (١) *\nومَقَطْتُ صاحبي أمْقُطُه، إذا غِظتَه. والماقِط: الحازِي (٢) الذي يتكهّن ويطرُق بالحَصَى.",
+ "az": "[مقط] \nMim, qaf və ta — vahid bir qisasa qayıtmayan, əksinə bir-birindən çox fərqlənən kəlmələrdir. Mِقَاط (miqat) — şiddətli basqın ipidir. Və المَقْط (əl-maqt) — topu yerə vurub, sonra o düşəndə onu tutmağındır. Şair demişdir:\n* بكفّى مَاقِطٍ في صاعِ (١) *\n(* Saçda maqitin [falçının] iki ovcunda *)\nVə مَقَطْتُ صاحبي أمْقُطُه (maqattuhu amqutuhu) — dostumu qəzəbləndirdiyin zaman. Və المَاقِط (əl-maqit) — daşlarla fal açan kahindir (الحازِي).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

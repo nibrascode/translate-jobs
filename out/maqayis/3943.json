@@ -1,0 +1,17 @@
+{
+ "i": 3943,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ملس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 350,
+  "page_to": 350
+ },
+ "ar": "الميم واللام والسين أصلٌ صحيح يدلُّ على تجرُّدٍ في شيءٍ، وألاّ يعْلَقَ به شيء، فهو أملَسُ. ويقال للرّجُل الذي لا يَلْصَق به ذمٌّ: هو * أملَسُ الجِلد قال:\n* فَمُوتَنْ بها حُرًّا وجلدُك أمْلَسُ (٢) *\nوأرضٌ أمالِيسُ: لا نباتَ بها. ويقال في البيع: «المَلَسَى لا عُهْدَةَ له»، أي لا متعلَّق له. وقد سبق ذكره ومن الباب المَلْس: سَلُّ الخُصيةِ بعروقها. وكبش مملوسٌ. ومنه المَلْس: السَّوق الشَّديد، أي إنَّه يمضي حتى لا يمكن أن يُتعلَّقَ به.\nوقولهم: أتيتُه مَلَسَ الظَّلام من باب الثاء، وقد فسَّرْناه ورُمَّانٌ إملِيسيٌّ.",
+ "az": "«ملس» — الميم واللام والسين (mim, lam və sin) bir şeydə soyulmağa və ona heç bir şeyin yapışmamasına dəlalət edən əsli səhihdir, o, hamardır (أملس). Heç bir qınaq yapışmayan kişiyə deyilir: «هو أملس الجلد» (dərisi hamardır). O demişdir:\n* فَمُوتَنْ بها حُرًّا وجلدُك أمْلَسُ (٢) *\n«أرض أماليس» — bitkisi olmayan yer. Alverdə deyirlər: «المَلَسَى لا عُهْدَةَ له» — yəni heç bir öhdəliyi, bağlılığı yoxdur. Bu artıq zikr olunmuşdur. Bu babdandır: «الملس» — xayanın damarları ilə birlikdə çəkilib çıxarılması. «كبش مملوس» — tۈkləri yolunmuş qoç. Və bundandır «الملس» — şiddətli sürmə, yəni elə irəliləyir ki, ona çatmaq mümkün deyil.\nOnların «أتيتُه مَلَسَ الظَّلام» sözü sə hərfi babındandır, biz bunu izah etmişik. «رمان إمليسي» — xüsusi növ nar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:03.921Z"
+}

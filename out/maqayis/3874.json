@@ -1,0 +1,17 @@
+{
+ "i": 3874,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مشق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 324,
+  "page_to": 325
+ },
+ "ar": "الميم والشين والقاف أصلٌ صحيح يدلُّ على سُرعة وخِفّة.\nيقولون: مَشَق، إذا أسرَعَ الكتابة. ومَشَق: طَعَن طَعْنًا بسرعة. ومَشَق في\nأكله: أسْرَع واشتدّ. والمَشْق: جَذْب الشّيء ليمتدَّ ويطول. والوتر يُمشَق حتَّى يَلِين وامتشقتُ الشّيءَ: اقتطعتُه بسرعة. ومشَقْت الثّوْبَ: مزَّقته. وفَرسٌ مَشِيقٌ وممشوق: طويل مُنجرِد خفيف. وجاريةٌ ممشوقة: حسنة القَوَام (١).\nوالأصل في الجميع واحد. ومَشِق الرَّجل يَمْشَق: اصطكَّت أليتاه حَتَّى تَسحَّجا (٢).\nومما شذَّ عن الباب المَشْق: المَغْرة. وثوب مُمشَّقٌ: صبغ بها.",
+ "az": "«مشق» (məşəq) — mim, şin və qaf hərfləri sürətə və yüngüllüyə dəlalət edən səhih bir kökdür. Deyirlər: مَشَق (məşəq) — yazını sürətlə yazdıqda. Və مَشَق (məşəq) — sürətlə zərbə endirdi, vurdu. Və مَشَق في أكلِهِ (məşəqə fi əklihi) — yeməyində tələsik və şiddətli oldu. Və المَشْق (əl-məşq) — uzanması və boy atması üçün şeyi çəkib dartmaq. Yay ipi yumşalıncaqdan ötəri تُمشَق (tümşəqu) — dartılır. Və امتشقتُ الشَّيءَ (imtəşəqtüş-şəyyə) — onu sürətlə qoparıb aldım. Və مشَقْت الثّوْبَ (məşəqtut-sövbə) — paltarı cırdım. Və فرسٌ مَشِيقٌ وممشوقٌ (fərsün məşiqun və məmşuqün) — uzun, incə və yüngül at. Və جاريةٌ ممشوقةٌ (cariyətün məmşuqətün) — qamətli, gözəl bədənli qız (١). Hamısının kökü birdir. Və مَشِق الرَّجل يَمْشَق (məşiqər-raculu yəmşəqu) — kişinin sağrıları bir-birinə sürtülüb yaralanıncaya qədər bir-birinə dəydi (٢). Bu fəsildən istisna olunan isə المَشْق (əl-məşq) — qırmızı saxsı torpağıdır (məğrə). Və ثوبٌ مُمشَّقٌ (sövbün müməşşəqün) — onunla rənglənmiş paltar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

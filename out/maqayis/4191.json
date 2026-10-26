@@ -1,0 +1,17 @@
+{
+ "i": 4191,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نغض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 453,
+  "page_to": 454
+ },
+ "ar": "النون والغين والضاد أصلٌ صحيح يدلُّ على هَزٍّ وتحريك.\nمن ذلك النَّغَضان: تحرُّك الأسنان. والإنغاض: تحريك الإنسان [رأسه (١)] نحو صاحبه كالمتعجّب (٢) منه. قال اللّه سبحانه: ﴿فَسَيُنْغِضُونَ إِلَيْكَ رُؤُسَهُمْ﴾.\nوالنَّغِض: الظليمُ؛ لاضطراب رأسِه عند مَشْيِه. قال:\n* والنَّغْضُ مثل الأجرب المدجَّلِ (٣) *\nوالنَّاغض والنَّغْض: غرضوف (٤) الكَتِف، سمِّي لاضطرابه، ويكون للأُذُن أيضاً. والنَّغُوض: النّاقة العظيمة السَّنام، وإذا عَظُم اضطَرَب. ونَغَض الغَيمُ:\nسار.",
+ "az": "[نغض] (ن، غ، ض) — sarsıntıya və hərəkətə dəlalət edən səhih bir əsldir. Bunlardan biri النَّغَضان (ən-nəğəşan): dişlərin tərpənməsidir. الإنغاض (əl-inğad): insanın [başını (١)] həmkarına tərəf heyranlıqla (və ya təəccüblə) tərpətməsidir (٢). Uca Allah buyurmuşdur: ﴿فَسَيُنْغِضُونَ إِلَيْكَ رُؤُسَهُمْ﴾ («Onda onlar başlarını sənə tərəf bulayacaqlar») (Qurani-Kərim). وَالنَّغِض (ən-nəğid): dəvəquşudur; çünki yeriyərkən başı sarsılır (tərpənir). Şair demişdir: * والنَّغْضُ مثل الأجرب المدجَّلِ (٣) * (* Sarsılan baş qotur və qətranlanmış dəvəyə bənzəyir *). وَالنَّاغض və النَّغْض (ən-nağid və ən-nəğd): çiyin qıncırığıdır (qığırdağıdır), sarsıldığı üçün belə adlandırılmışdır, bu, qulaqda da olur. وَالنَّغُوض (ən-nəğud): hürkməkdən hürküb boynu tərpənən böyük hürgüclü dəvədir, hörgücü böyüdükdə silkələnər. نَغَض الغَيمُ (bulud hərəkət etdi, yerini dəyişdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

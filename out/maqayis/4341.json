@@ -1,0 +1,17 @@
+{
+ "i": 4341,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هدم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 41,
+  "page_to": 41
+ },
+ "ar": "الهاء والدال والميم: أصلٌ يدلُّ على حَطِّ بناء، ثم يقاس عليه.\nوهَدَمت الحائطَ أهدِمُه. والهَدَم: ما تهدَّم، بفتح الدال.\nومن الباب الهِدْم: الثَّوب البالى، والجمع أهْدام. ودماؤُهم هَدَم أى هَدَرٌ، كأنَّها قد هُدمَتْ فلم يُطلَب بها. و\nقوله ﷺ: «الدَّمُ الدَّمُ، والهَدَمُ الهَدَمُ». قيل إنَّ معناه: مَحيانا مَحياكُم ومَمَاتُنا مَماتُكم. ويقال: ناقةٌ هَدِمةٌ: شديدة الضَّبَعة كأنَّها تنهدِم للفَحْل. والهَدْمة: الدُّفعة من المَطَر، كأنَّها تتهدَّمُ فى اندفاعها.\nومما شذَّ عن هذا القياس المهدوم (٣) من اللَّبَن، وهو الرَّثِيئَة.",
+ "az": "[هدم] (hə-də-mə): Hə, dal və mim – tikilinin uçurulmasına və dağılmasına dəlalət edən bir əsasdır, sonra ona əsasən müqayisələr aparılır. وَهَدَمت الحائطَ أهدِمُه (Divarı uçurdum, uçururam). والهَدَم (ə-hə-dəm) – açıq dal hərfi ilə: uçulub-dağılan şey.\nBu fəsildən olan الهِدْم (əl-hidm): köhnəlmiş paltar, cır-cəhat, cəmi أهْدام (əhdam) gəlir. ودماؤُهم هَدَم (Qanları hədm - yəni hədərdir) – yəni elə bil uçurulmuşdur (tökülmüşdür), buna görə qisası tələb olunmaz. Peyğəmbərin ﷺ: «الدَّمُ الدَّمُ، والهَدَمُ الهَدَمُ» (Qan qandır, hədm isə hədm - hədərdir) sözü. Deyilmişdir ki, bunun mənası belədir:",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

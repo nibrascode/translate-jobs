@@ -1,0 +1,17 @@
+{
+ "i": 3675,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لسب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 247,
+  "page_to": 248
+ },
+ "ar": "اللام والسين والباء أصلٌ يدلُّ على إصابةِ شيءٍ لشيء بحِدَّة.\nيقال: لَسَبَتْه العقربُ. ولَسِبْتُ العسلَ، إذا لَعِقْتَه. والقياس واحد، وفرِّق بينهما بالحركات. قال أبو زيد: لَسَبَه أسواطاً: ضربه. ويقولون، وهو من\nغير هذا: إنَّ اللَّسْبَ: الجَمْع (١). ويقال لَسِب بالشَّيء، إذا لَزِق، وهو من الكلمة الأولى.",
+ "az": "[لسب] (ləsb) — lam, sin və ba bir şeyin başqa bir şeyə kəskinliklə toxunmasına dəlalət edən kökdür.\nDeyilir: لَسَبَتْه العقربُ (əqrəb onu sancdı). Və لَسِبْتُ العسلَ (balı yaladım) – onu yaladığın zaman. Ölçü eynidir, lakin hərəkələrlə fərqləndirilir. Əbu Zeyd demişdir: لَسَبَه أسواطاً (onu qırmıclaqla vurdu). Və deyirlər ki, bundan başqa: اللَّسْب (əlləsb) — toplamaqdır (١). Və لَسِب بالشَّيء (şeyə yapışdı) deylər, bu birinci sözdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

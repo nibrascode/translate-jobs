@@ -1,0 +1,17 @@
+{
+ "i": 3822,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مدس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 306,
+  "page_to": 306
+ },
+ "ar": "الميم والدال والسين. ذكر ابن دريد (١): المَدْس: الدَّلْك والفَرْك. ومَدَسْتُ الأديمَ مَدْساً.",
+ "az": "«مدس» (mim, dal və sin). İbn Dürid qeyd etmişdir (١): المَدْس (mədə): ovxalamaq və əzmək. مَدَسْتُ الأديمَ مَدْساً (məmini ovxaladım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

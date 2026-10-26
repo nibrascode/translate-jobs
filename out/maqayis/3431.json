@@ -1,0 +1,17 @@
+{
+ "i": 3431,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 146,
+  "page_to": 147
+ },
+ "ar": "الكاف والواو والسين أصلٌ صحيح يدلُّ على صَرْعٍ أو ما يقاربه. يقال: كاسَه يَكُوسُه، إذا صرعه. ومنه كاسَتِ النّاقةُ تكوسُ، إذا\nعُقِرت فقامت على ثلاث. وإنَّما قيل لها ذلك لأنَّها قد قاربت أن تُصرَع قال:\nولو عند غَسَّانَ السَّلِيطىِّ عَرَّسَتْ … رَغَا قَرَنٌ منها وكاس عَقِيرُ (١)\nوربَّما قالوا للفَرَس القَصير الدَّوارِجِ: كُوسِيٌّ. وعُشْبٌ مُتَكاوِسٌ، إذا كثُر وكثُف، وهو من قياس الباب لأنَّه يتصرَّعُ بعضُه على بعض. فأمَّا الكأس، فيقال هو الإناء بما فيه من خمر، وهو من غير الباب.",
+ "az": "[كوس] Kaf, vau və sin yıxmağa və ya ona yaxın bir şeyə dəlalət edən səhih bir əsasdır. Deyilir: كاسَه يَكُوسُه (kəsəhü yəkusühü) — onu yıxdığı zaman. Bunlardandır كاسَتِ النّاقةُ تكوسُ (kəsatin-naqətu təkosu) — dəvə yaralandıqda üç ayaq üstə durduğu zaman. Ona bu adın verilməsi yalnız yıxılmağa yaxınlaşdığı üçündür. O demişdir:\nولو عند غَسَّانَ السَّلِيطىِّ عَرَّسَتْ … رَغَا قَرَنٌ منها وكاس عَقِيرُ (١)\nBəzən qısa və hərlənən ata كُوسِيٌّ (kusiyy) deyirlər. Və عُشْبٌ مُتَكاوِسٌ (üşbün mütəkavis) — ot çox və sıx olduğu zaman, bu da fəslin qiyasındandır, çünki onların bəzisi digərinin üstünə yıxılır. الكأس (əl-kəs) sözünə gəldikdə, deyilir ki, o, içində şərab olan qabdır və bu, fəsildən kənardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

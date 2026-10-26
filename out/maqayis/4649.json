@@ -1,0 +1,17 @@
+{
+ "i": 4649,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 143,
+  "page_to": 143
+ },
+ "ar": "الواو واللام والدال: أصلٌ صحيح، وهو دليل النَّجْل والنسْل، ثمَّ يقاس عليه غيرُه. من ذلك الوَلَد، وهو * للواحد والجميع، ويقال للواحد وُلْدٌ أيضاً (٤). والوَليدةُ الأنثى، والجمع ولائد. وتَولَّدَ الشّئُ عن الشّئ: حَصَل عنه.\nواللِّدَة نُقصانُه الواو (٥) لأنّ أصله وِلْدَة.",
+ "az": "«ولد» (vələd). Vəv, lam və dal: nəsil və törəmənin dəlili olan, sonra isə başqasının ona qiyas edildiyi səhih bir kökdür. Bunlardan biri اَلْوَلَدُ (vələd) — tək və cəm üçün işlənir, həmçinin tək üçün اِوُلْدٌ (vüld) də deyilir (٤). اَلْوَلِيدَةُ (vəlidə) — dişi övlad, cəmi اَلْوَلَائِدُ (vəlaid) dır. تَوَلَّدَ الشَّيْءُ عَنِ الشَّيْءِ (təvəllədəş-şəy-ü aniş-şəy) — bir şeydən digəri əmələ gəldi. اَللِّدَةُ (lidə) — vöv hərfinin düşməsidir (٥), çünki onun əsli وِلْدَةٌ (vildə) dır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

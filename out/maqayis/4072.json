@@ -1,0 +1,17 @@
+{
+ "i": 4072,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "النون والحاء والصاد كلمةٌ واحدة، هي النَّحُوص: الأتَان الحائل في شعر امرئ القيس. قال:\nأرَنَّ عليه قاربًا وانتحَتْ له … طُوَالةُ أرساغِ اليدين نَحوصُ (١)",
+ "az": "[نحص] (n-h-s) - Nün, ha və sad hərfləri tək bir kəlmədir, o da İmrul-Qeysin şeirindəki نَحُوص (ən-nahus) sözüdür: dişə gəlməyən, arıq dişi uzunqulaq.\nO demişdir:\nأرَنَّ عليه قاربًا وانتحَتْ له … طُوَالةُ أرساغِ اليدين نَحوصُ (١)\n(Ona yaxınlaşaraq səsləndi və əllərinin oynaqları uzun, arıq bir dişi uzunqulaq ona tərəf yönəldi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

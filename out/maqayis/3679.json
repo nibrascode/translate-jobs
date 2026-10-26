@@ -1,0 +1,17 @@
+{
+ "i": 3679,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لصف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 248,
+  "page_to": 249
+ },
+ "ar": "اللام والصاد والفاء كلمةٌ تدل على يُبْس وبريق.\nيقال: لَصِفَ جلدُه لَصَفًا، إذا لَزِق ويَبِس. ولَصَف يَلصُف، إذا بَرَق.\nوممّا ليس من هذا اللَّصَفُ: شيءٌ ينبت في أصول الكَبَرِ، كأنّه خِيار. ولَصَافِ:\nجبلٌ.",
+ "az": "[لصف] (ləsəf) — lam, sad və fa quruluq və parıltıya dəlalət edən kəlmədir.\nDeyilir: لَصِفَ جلدُه لَصَفًا (dərisi yapışıb quruduğu zaman ləsəfə ləsəfən). Və لَصَف يَلصُف (parıldadıqda ləsəfə yəlsufu). \nVurulan bu mətləbə aid olmayanlardan: kəbər ağacının köklərində xiyar kimi bitən bir şeydir. Və لَصَافِ (Ləsafı) — dağ adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

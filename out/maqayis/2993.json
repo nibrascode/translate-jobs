@@ -1,0 +1,17 @@
+{
+ "i": 2993,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فكه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 446,
+  "page_to": 446
+ },
+ "ar": "الفاء والكاف والهاء أصلٌ صحيح يدلُّ على طِيب واستطابةٍ.\nمن ذلك الرّجُل الفَكِه: الطيِّب النَّفس.\nومن الباب: الفاكهة، لأنَّها تُستَطابُ وتُستطرَف.\nومن الباب: المُفاكَهة، وهى المُزاحة وما يُستحلَى من كلام.\nومن الباب: أفكَهَتِ النّاقةُ والشّاةُ، إذا دَرَّتا عند أكل الرَّبيع وكانَ فى اللبن أدنَى خُثُورة؛ وهو أطيَبُ اللَّبن.\nفأمَّا التَّفَكُّه فى قوله تعالى: ﴿فَظَلْتُمْ تَفَكَّهُونَ﴾ فليس من هذا، وهو من باب الإبدال (١)، والأصل تَفَكَّنون، وهو من التندُّم، وقد مضى ذِكرُه.",
+ "az": "[فكه]\nFə, kaf və hə xoşluğa, ləzzətə və bir şeyi xoş qarşılamağa dəlalət edən səhih bir əsldir.\nBu qəbildəndir: «الرّجُل الفَكِه» (ər-racul əl-fəkih) — xoşxasiyyət, şən qəlbli adam.\nBu babdandır: «الفاكهة» (əl-fakihə — meyvə), çünki o, ləzzətli sayılır və xoş qarşılanır.\nBu babdandır: «المُفاكَهة» (əl-mufakəhə) — zarafatlaşmaq və kəlamın şirin olanıdır.\nBu babdandır: «أفكَهَتِ النّاقةُ والشّاةُ» — dəvə və qoyun bahar otlağından bol süd verdikdə və süddə azacıq qatılıq olduqda deyilir; bu isə südün ən xoşudur.\nUca Allahın: ﴿فَظَلْتُمْ تَفَكَّهُونَ﴾ ayəsindəki «التَّفَكُّه» (ət-təfəkkuh) isə bu babdan deyildir; o, əvəzlənmə (ibdal) (١) babındandır, əsli isə «تَفَكَّنون» kəlməsidir və peşman olmaq mənasındadır; onun zikri artıq keçmişdir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.923Z"
+}

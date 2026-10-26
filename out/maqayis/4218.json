@@ -1,0 +1,17 @@
+{
+ "i": 4218,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 467,
+  "page_to": 468
+ },
+ "ar": "النون والقاف والدال أصلٌ صحيح يدلُّ على إبراز شيء وبُروزه.\nمن ذلك: النَّقَد في الحافر، وهو تقشُّرُهُ. حافرٌ نَقِدٌ: متقشِّر. والنَّقَد في الضِّرس:\nتكسُّره، وذلك يكون بتكشُّف لِيطِه عنه.\nومن الباب: نَقْد الدِّرهم، وذلك أن يُكشَف عن حالِهِ في جَودته أو غير ذلك. ودرهمٌ نَقْدٌ: وازِنٌ جيّد، كأنَّه قد كُشِف عن حاله فعُلم. ويقال للقُنفُذ الأنْقد. يقولون: «باتَ فلانٌ بلَيْلَةِ أنْقد»، إذا باتَ يسرِي [لَيلَه (٣)] كلَّه.\nوهو ذلك القياس. لأنَّه كأنّه يَسرِي حَتَّى يَسْرُ وَعنه الظَّلامَ. ويقولون: إنَّ\nالشَّيْهَمَ لا يرقُد اللَّيلَ كلَّه. وتقول العرب: ما زالَ فلانٌ يَنْقُد الشّيء، إذا لم يزَلْ ينظُر إليه.\nومما شذَّ عن الباب: النَّقَد: صِغار الغَنَم، وبها يشبَّه الصبىُّ القمِىُّ الذي لا يكاد يَشِبّ.",
+ "az": "[نقد] Nun, qaf və dal bir şeyin aşkar edilməsinə və üzə çıxmasına dəlalət edən səhih bir əslir. Bunlardandır: dırnaqda olan النَّقَد, bu da onun qabıq verməsidir. حافرٌ نَقِدٌ: qabıq vermiş dırnaq. Dişdə olan النَّقَد: onun qırılması, bu da əti(dodağı) ondan çəkilib açılmaqla olur. Bu fəsildəndir: dirhəmin نَقْد-i (qiymətləndirilməsi), bu da onun keyfiyyətinin yaxşı və ya başqa cəhətdən necə olduğunun aşkarlanmasıdır. وَدرهمٌ نَقْدٌ: çəkisi yerində olan gözəl dirhəm, elə bil vəziyyəti araşdırılıb bilinmişdir. Kirpiyə الأنْقد deyirlər. Deyirlər ki: «باتَ فلانٌ بلَيْلَةِ أنْقد» – filankəs bütün gecəni yol gedərək gecələdi. Bu da həmin qiyasdandır. Çünki o, elə bil qaranlığı üzərindən qovub aparana qədər yol gedir. Deyirlər ki, oxlu kirpi bütün gecə yatmır. Ərəblər deyirlər: filankəs daim əşyaya يَنْقُد edir, yəni ona baxmaqdan əl çəkmir. Bu fəsildən istisna olunanlar: النَّقَد: xırda qoyunlar, demək olar ki, böyüməyən zəif uşaq da ona bənzədilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:21.983Z"
+}

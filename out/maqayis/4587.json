@@ -1,0 +1,17 @@
+{
+ "i": 4587,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 123,
+  "page_to": 123
+ },
+ "ar": "الواو والعين والكاف، يدلُّ على عَركِ شئٍ وتذليله.\nمنه وعْك الحُمَّى، كأنَّها تعرُك الجسم عَرْكاً. وتقول العرب: أوْعَكَتِ الكلابُ الصَّيدَ، إذا مرَّغَتْه فى التراب. والوَعْكَةُ: مَعركةُ الأبطال.\nوأوْعَكَتِ الإبلُ: ازدَحَمَتْ، وهو ذلك القياس.",
+ "az": "[وعك] الواو والعين والكاف: bir şeyi ovmağa və əzməyə dəlalət edir. Bunlardan biri qızdırmanın bədəni ovuşdurması mənasında olan وَعْك الحُمَّى (qızdırma tutması) dir, sanki bədəni ovur. Ərəblər deyir: أوْعَكَتِ الكلابُ الصَّيدَ (İtlər ovu torpağa bürüdülər), yəni ovu torpaqda ovuşdurdular. Və الوَعْكَةُ (əl-vəktə): pəhləvanların döyüş meydanıdır. Və أوْعَكَتِ الإبلُ (Dəvələr sıxlaşdı), bu da həmin qiyasdandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.841Z"
+}

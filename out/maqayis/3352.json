@@ -1,0 +1,17 @@
+{
+ "i": 3352,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 111,
+  "page_to": 111
+ },
+ "ar": "القاف والعين والطاء أصلٌ صحيح يدلُّ على شَدِّ شيء، وعلى شِدَّة في شيء. من ذلك الاقتِعاط، وهو شدُّ العِصابة والعمامة. يقال:\nاقتعطتُ العمامةَ، وذلك أن يشدَّها برأسه ولا يجعلَها تحتَ حنكِه. و\nفي الحديث:\n«أَمَرَ بالتلحِّي ونَهَى عن الاقتِعَاط». ويقولون: القَعَط (٢): الغضب وشده الصياح. والقَعْط: الضِّيق. يقال: قَعّط على غريمه: ضَيَّق. ومما شذَّ عن هذا القَعْط: الشاء الكثير (٣).",
+ "az": "[قعط] (qə-ə-t): Qaf, eyn və ta bir şeyi bərkitməyə və bir şeydə olan şiddətə dəlalət edən doğru bir əsasdır. Bunlardan biri «الاقتِعاط» (əl-iqtiat) — sarığı və əamməni bərk bağlamaqdır. Deyilir: «اقتعطتُ العمامةَ» (iqtiatüt əl-imamətə) — bu, odur ki, əamməni çənəsinin altına salmadan birbaşa başına bərk bağlayır. Hədisdə gəlmişdir: «أَمَرَ بالتلحِّي ونَهَى عن الاقتِعَاط» (Çənəaltı sarıq sarımağı əmr etdi və əamməni çənəaltına salmadan bağlamaqdan qadağan etdi). Və deyirlər: «القَعَط» (əl-qət) (٢): qəzəb və qışqırığın şiddəti. Və «القَعْط» (əl-qət): sıxıntı. Deyilir: «قعّط على غريمه» (qəttə əl-ğarimihi): borclusunu sıxıntıya saldı. Bu əsasdan istisna olunan (şaz olan) budur: «الشاء الكثير» (əş-şai əl-kəsir) — çoxlu qoyun sürüsü (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4092,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 409,
+  "page_to": 410
+ },
+ "ar": "النون والدال والسين أصلٌ صحيح يدلُّ على مِثل النَّزْك (٥) والطَّعن. يقولون: المُنادَسَة بالرماح: المطاعَنَة. والنَّدْس: الطَّعن.\nقال الكميت:\nونحنُ صبَحْنا آلَ نجران غارةً … تميمَ بنَ مرٍّ والرِّماحَ النَّوادسا (١)\nومن الباب النَّدُس: الرّجُل الفَطِن، وكذلك السَّريع السَّمْع للصوت الخفِىّ.\nوالقياس في هذه الكلمات قريب. وكذلك نَدَسْتُ به الأرضَ، إذا صرعتَه.\nونَدَسْتُ * الشّيءَ عن الطريق: نحَّيتُه. وإلا وقد ضربته (٢).",
+ "az": "[ندس] (N-D-S) Nun, dal və sin «نَّزْك» (nəzk - sancma) və «طعن» (təən - nizə ilə vurma) kimi bir şeyə dəlalət edən səhih bir əsasdır. Deyirlər: «المُنادَسَة بالرماح» (nizələrlə munadəsə) - nizələşməkdir. «النَّدْس» (ən-nəds) - nizə ilə vurmaqdır. Kumeyt demişdir: ونحنُ صبَحْنا آلَ نجران غارةً … تميمَ بنَ مرٍّ والرِّماحَ النَّوادسا (١) (Biz Nəcran ailəsinə, Təmim ibn Mürrə sübh çağı basqın etdik və nizələr «nəvadis» (sancan) idi). Bu babdan «النَّدُس» (ən-nədus) - fərasətli, ağıllı kişidir, həmçinin gizli səsi tez eşidən kimsədir. Bu kəlmələrdə qiyas yaxındır. Həmçinin «نَدَسْتُ به الأرضَ» (onu yerə nəds etdim), yəni onu yıxdın. «نَدَسْتُ الشّيءَ عن الطريق» (şeyi yoldan nəds etdim), yəni onu kənarlaşdırdın. Yoxsa onu vurdun.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

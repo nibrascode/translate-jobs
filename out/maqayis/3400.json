@@ -1,0 +1,17 @@
+{
+ "i": 3400,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كمي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 137,
+  "page_to": 137
+ },
+ "ar": "الكاف والميم والحرف المعتلُّ يدلُّ على خفاءِ شيء. وقد يدخل فيه بعضُ المهموز. من ذلك كمَى فلانٌ الشّهادةَ، إذا كَتَمها. ولذلك سُمِّي الشُّجاعُ الكميّ. قالوا: هو الذي يتكمَّى في سِلاحِه، أي يتغطَّى به. يقال تكَمَّتِ الفتنةُ الناسَ، إذا غَشيتْهم.\nوأمّا المهموز فذكروا أنّ العرب تقول: كمِئت عن الأخبار أكْمأُ عنها، إذا جَهِلتَها.\nوأمّا المهموز فليس من هذا الباب وإنّما هو نَبتٌ. وقد قُلنا إنَّ ذلك لا ينقاسُ أكثَرُه. فالكمأة معروفةٌ، والواحد كَمْ ءٌ. وهذا نادرٌ أن تكونَ في الجمع هاءٌ ولا تكونَ في الواحدة. ويقال: كَمَأْتُ القوم: أطعمتهم الكَمْأة. ومما يجوز أن يُقاسَ على هذا قولُهم: كمِئَتْ رِجْلي: تَشقَّقَتْ. ولعلَّ الكَمأة تُسمَّى لانشقاق الأرض عنها. ويقولون: أكْمَأَت فلانًا السِّنُّ: شيَّخَتْه.\nومما شذَّ عن هذا الأصل أكْمَأَ على الأمر، إذا عَزَم عليه.",
+ "az": "[كمي] Kaf, mim və zəif hərf bir şeyin gizli olmasına dəlalət edir. Bəzi həmzəli sözlər də buna daxil ola bilər. Bunlardan biri filankəsin şahidliyi «كمَى الشّهادةَ» (gizlətməsi) deməkdir, yəni onu gizlətdi. Buna görə də cəsur insana «الكَمِيّ» (əl-kəmiyy) demişlər. Deyiblər: o, elə kəsdir ki, silahına «يَتَكَمَّى» (yətəkəmmə), yəni özünü silahı ilə örtür. Deyilir: «تَكَمَّتِ الفتنةُ الناسَ» (fitnə insanları bürüdü), yəni onları əhatə etdi. Həmzəli sözlərə gəldikdə, ərəblərin: «كمِئت عن الأخبار أكْمأُ عنها» (xəbərlərdən xəbərsiz qaldım, onları bilmədim) – dediklərini qeyd etmişlər, əgər xəbərlərdən xəbərsiz qalsan, cəhalət göstərsən. Həmzəli olan isə bu babdən deyil, əksinə o, bir bitkidir. Biz demişdik ki, belə şeylərin əksəriyyəti qiyas olunmur (qaydaya tabe deyil). «الكمأة» (kəmiyyə - göbələk) məlumdur, təki isə «كَمْءٌ» (kəmvn) kəlməsidir. Cəmdə hərfin olub, təkində olmaması nadir hallardandır. Deyilir: «كمَأْتُ القوم» (qövmü göbələklə qidalandırdım). Buna qiyas edilməsi caiz olan sözlərdən biri də onların: «كمِئَتْ رِجْلي: تَشقَّقَتْ» (ayağım çartladı) – deməsidir. Ehtimal ki, göbələk yerin ondan ötrü yarıılması səbəbi ilə belə adlandırılmışdır. Həmçinin deyirlər: «أَكْمَأَتْ فلانًا السِّنُّ» (yaşlılıq filankəsi qocaltdı). Bu əsasdan şaz olan (istisna təşkil edən) isə: «أَكْمَأَ على الأمر» (işə qətiyyətlə baş vurdu) ifadəsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

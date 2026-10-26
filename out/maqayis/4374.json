@@ -1,0 +1,17 @@
+{
+ "i": 4374,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هزج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 52,
+  "page_to": 53
+ },
+ "ar": "الهاء والزاء والجيم: أصلٌ صحيح يدلُّ على صوت. يقولون:\nالهَزَج: صوت الرَّعد، وبه شُبِّه الهَزَج من الأغانىّ. قال:\n* كأنّها جاريةٌ تهَزَّجُ * (٤)\nوتهزَّجَت القوسُ، [إذا صَوَّتَتْ (٥)] عند الإنباض. قال الكميت:\nبأهازبجَ من أغانيِّها الجُ … شِّ وإنباعِها لزَّفِيرَ الطَّحِيرا (٦)\nوفرسٌ هَزِجٌ: فى مَشيِه سُرعة (١)، كأنَّه يُذهَب إلى ما يُسمَع من حَفِيفِه.",
+ "az": "«هزج» — الهاء والزاء والجيم (hə, zay və cim): səslənməyə dəlalət edən səhih bir kökdür. Deyirlər: الهَزَج (həzəc) — ildırımın səsi, mahnıların həzəc növü də buna bənzədilmişdir. O demişdir: * كأنّها جاريةٌ تهَزَّجُ * (Sanki o, səs çıxaran (oxuyan) cariyədir). وتهزَّجَت القوسُ [إذا صَوَّتَتْ] (Yay səsləndi — oxu buraxarkən). Kumeyt demişdir: بأهازبجَ من أغانيِّها الجُ … شِّ وإنباعِها لزَّفِيرَ الطَّحِيرا (Onun boğuq mahnılarının həzəcləri ilə və inhizab edərək çığırtılara səs verməsi ilə). وفرسٌ هَزِجٌ (sürətli gedişi olan at) — onun şırıltısından eşidilən səsinə qəsd edilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

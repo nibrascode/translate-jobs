@@ -1,0 +1,17 @@
+{
+ "i": 3494,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 170,
+  "page_to": 170
+ },
+ "ar": "الكاف والراء والصاد كلمة واحدة. يقولون: الكَرِيص:\nالأقِط.",
+ "az": "[كرص]. Kaf, ra və sad tək bir kəlmədir. Deyirlər ki, əl-kəris: qatıq qurutudur (əqit).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

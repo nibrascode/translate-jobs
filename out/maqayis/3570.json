@@ -1,0 +1,17 @@
+{
+ "i": 3570,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لمق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 212,
+  "page_to": 212
+ },
+ "ar": "اللام والميم والقاف ثلاثُ كلماتٍ لا تنقاس ولا تتقارب. فالأوَّل اللَّمْسق، يقال لَمَقَه بيده، إذا ضربَه. والكلمة الثانية اللَّمْق، وهو المَحْو، يقال لَمَقَه، إذا محاه. قال يونس: سمعتُ أعرابيًّا يذكر مُصَدِّقاً لهم قال: «فَلَمَقَه * بعد ما نَمَقَه»، كأنَّه محا كتابًا قد كان كتبه. والكلمة الثالثة: اللَّمَاق، يقال:\nما ذُقت لَمَاقًا. قال:\nكبرقٍ لَاحَ يُعجِبُ مَنْ رآهُ … وما يُغْني الحوائمَ من لَمَاقِ (٣)",
+ "az": "[لمق] «اللام والميم والقاف» (lam, mim və qaf) — nə qiyas olunan, nə də bir-birinə yaxınlaşan üç kəlmədir. Birincisi: «اللَّمْق» (ləmq), deyilir: «لَمَقَه بيده» (onu əli ilə vurdu), əgər onu vurdusa. İkinci kəlmə: «اللَّمْق» (ləmq), o da silməkdir, deyilir: «لَمَقَه» (onu sildi), əgər onu sildisə. Yunis demişdir: Bir ərəbin vergi yığan (müsəddiq) haqqında belə dediyini eşitdim: «فَلَمَقَه * بعد ما نَمَقَه» (və onu yazdıqdan sonra silib yox etdi), sanki yazdığı bir kitabı silmişdir. Üçüncü kəlmə: «اللَّمَاق» (ləmaq), deyilir: «ما ذُقت لَمَاقًا» (heç bir ləmaq dadmadım). (Şair) demişdir: كبرقٍ لَاحَ يُعجِبُ مَنْ رآهُ … وما يُغْني الحوائمَ من لَمَاقِ (٣) (Görənləri heyran edən parıldayan şimşək kimi; ləmaq isə susamışlara heç bir fayda verməz).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:11.522Z"
+}

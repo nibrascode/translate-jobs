@@ -1,0 +1,17 @@
+{
+ "i": 4580,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وطد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 121,
+  "page_to": 121
+ },
+ "ar": "الواو والطاء والدال: أصلٌ واحد، وهو أن تُثَبِّتَ شيئاً بِوَطْئِك حتَّى يتصلَّب. ووَطَدْتُه أَطِدُه إلى الأرض، على معنى الاستعارة، إذا أهانه (٣). والمِيطَدَة: خشَبةٌ يُوطَد بها المكان حتَّى يَصْلُب. ويقال الأَثَافىّ القِدر:\nالوطائد. والطَّادِى فى شعر القَطامىّ، فى قوله:\n* تَقَضَّى [بَوَاقِى] دَيْنِها الطَّادِى (٤) *\n: الواطد، وهو مقلوبٌ وعادته (٥) طادِيَّةٌ: قديمة.",
+ "az": "[وطد] الواو والطاء والدال: tək bir əsasdır, o da bir şeyi ayağınla basaraq möhkəmlədib bərkitməkdir. Və وَطَدْتُه أَطِدُه (Mən onu ayaq altına alıb möhkəmlətdim), məcazi mənada təhqir etdiyi zaman işlədilir (٣). Və المِيطَدَة (əl-mitədə): yerin bərkiməsi üçün üzərində döyəclənən taxtadır. Deyirlər ki, qazanın ayaqları — وطائد (vətaid) olandır. Qətaminin şeirindəki الطَّادِى (ət-tadi): * تَقَضَّى [بَوَاقِى] دَيْنِها الطَّادِى (٤) * — bərkidən deməkdir, bu tərsə çevrilmiş sözdür (٥), onun adəti طادِيَّةٌ (tadiyyə) yəni qədimdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.841Z"
+}

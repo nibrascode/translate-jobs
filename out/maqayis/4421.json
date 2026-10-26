@@ -1,0 +1,17 @@
+{
+ "i": 4421,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "همل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 67,
+  "page_to": 67
+ },
+ "ar": "الهاء والميم واللام: أصلٌ واحد. أَهْمَلْتُ الشّئَ، إذا خلَّيتَ بينه وبين نَفْسِه. والهَمَلُ: السُّدَى (٣). والهَمَل: المال لا مانعَ له.\nوهَمَلَت العينُ، مثل هَمَرَتْ. واللّه أعلمُ بالصَّواب.",
+ "az": "«همل» (həməl): Hə, mim və lam hərfləri tək bir əsldir. أَهْمَلْتُ الشّئَ (şeyi nəzarətsiz qoydum) — onu özbaşına buraxdığın zaman. والهَمَلُ (əl-həməl) — başlı-başına buraxılmış, faydasız şeydir. والهَمَل (əl-həməl) — qoruyucusu olmayan maldır. وهَمَلَت العينُ (göz yaşardı) — həmərət dediyi kimi. Və Allah həqiqəti daha yaxşı biləndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

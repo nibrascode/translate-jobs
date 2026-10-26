@@ -1,0 +1,17 @@
+{
+ "i": 4557,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 114,
+  "page_to": 114
+ },
+ "ar": "الواو والشين والجيم: كلمةٌ تدلُّ على اشتباكٍ وتَداخُل.\nيقال: وَشَجَت الأغصانُ. اشتبكَتْ. وكلُّ شئ اشتَبَكَ فهو واشج. والوَشِيج من القَنَا؛ ما نَبَتَ من الأرض مُعترِضاً، ولعلَّ ذلك يَشتَبِك بعضُه ببعض.",
+ "az": "«وشج» الواو والشين والجيم (vav, şin və cim): bir-birinə qarışmağa və sarılmağa dəlalət edən tək bir kəlmədir. Deyilir: وَشَجَتِ الأغصانُ (vəşəgəti əl-ağsānu) - budaqlar bir-birinə dolaşdı. Bir-birinə dolaşan hər bir şey واشج (vāşig)-dir. الوَشِيج من القَنَا (əl-vəşigu min əl-qənə); yerdə çarpaz şəkildə bitən qamışlardır, bəlkə də onların bəzisi bəzisinə beləcə dolaşır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

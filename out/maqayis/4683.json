@@ -1,0 +1,17 @@
+{
+ "i": 4683,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يبس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 154,
+  "page_to": 154
+ },
+ "ar": "الياء والباء والسين: أصلٌ صحيح يدلُّ على جفاف. يقال:\nيَبِس الشّئُ يَيْبِس ويَيْبِس. واليَبْس: يابس النَّبت. قال ابن السِّكِّيت:\nهو جمع يابس. واليَبَس بفتح الباء: المكان يفارقه الهاء فيَيْبَس. ويقال يَبِسَتِ الأرضُ: ذَهَبَ ماؤها ونَداها؛ وأيْبَسَتْ: كَثُر يَبْسها. وقال الشَّيبانىّ: امرأة يَبَسٌ، إذا لم تَنَلْ خَيراً. قال:\n* إلى عجوزٍ شَنَّة الوجهِ يَبَسْ (٢) *\nويَبِيس الماء: العَرَقُ إذا يَبِس. والأيْبَسانِ: مالا لحمَ عليه من السَّاق والكَعْب.",
+ "az": "[يبس] Ya, Ba və Sin: quruluğa dəlalət edən səhih bir əsldir. Deyilir: يَبِسَ الشَّئُ يَيْبَسُ وَيَيْبِسُ (Əşya qurudu, quruyar). وَالْيَبْسُ (əl-yəbs): quru bitki. İbn əs-Sikkit demişdir: Bu, yabis (quru) sözünün cəmi mənasındadır. وَالْيَبَسُ (əl-yəbəs) — fəth ilə: havanın təsirindən suyunun çəkilib quruduğu yer. Deyilir: يَبِسَتِ الْأَرْضُ (Yer qurudu) — suyu və rütubəti getdi; وَأَيْبَسَتِ (və əybəsət) — quruluğu çoxaldı. Şeybani demişdir: امْرَأَةٌ يَبَسٌ (quru qadın) — xeyir görməyən qadın. Şair demişdir: * إِلَى عَجُوزٍ شَنَّةِ الْوَجْهِ يَبَسْ (2) * (Üzü qırışmış, quru bir qocaya tərəf). وَيَبِيسُ الْمَاءِ (suyun yebisi): qurumuş tərdir. وَالْأَيْبَسَانِ (əl-əybəsan): əti olmayan baldır və aşıq sümüyüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.329Z"
+}

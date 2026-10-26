@@ -1,0 +1,17 @@
+{
+ "i": 4539,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وسع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 109,
+  "page_to": 109
+ },
+ "ar": "الواو والسين والعين: كلمةٌ تدلُّ على خلافِ الضِّيق والعُسْر.\nيقال وَسُعَ الشَّئُ واتَّسَعَ. والوُسْع: الغِنَى. واللّه الواسعُ أى الغنىّ. والوُسْع:\nالجِدَةُ والطّاقة. وهو يُنفِق على قدر وُسْعِه. وقال تعالى فى السَّعة: ﴿لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ﴾. وأوْسَعَ الرّجُل: كان ذا سَعَة. والفَرسُ الذَّريعُ الخَطْو:\nوَسَاعٌ.",
+ "az": "«وسع» الواو والسين والعين (vav, sin və eyn): dar və çətin olmamağa (genişliyə) dəlalət edən kəlmədir. Deyilir: وَسُعَ الشَّئُ واتَّسَعَ (vəsüə əş-şəyü vəttəsəcə - şey genişləndi). الوُسْع (əl-vüsn) - sərvət, var-dövlət. Allah isə الواسع (əl-vasi) - yəni varlıdır. الوُسْع (əl-vüsn) - imkan və taqətdir. O, öz imkanına görə xərcləyir. Genişlik barəsində Uca Allah buyurmuşdur: mənaca tərcümə: ﴿لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ﴾ (Qoy imkanı olan öz imkanından xərcləsin). Və asudə olan kimsə üçün أوْسَعَ الرّجُلُ (əvsə’ə ər-racüle) - gen-bolluqda oldu, deyilər. Addımları sürətli olan at isə وَسَاعٌ (vəsəun) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

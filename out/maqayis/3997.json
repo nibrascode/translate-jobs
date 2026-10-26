@@ -1,0 +1,17 @@
+{
+ "i": 3997,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 370,
+  "page_to": 370
+ },
+ "ar": "النون والواو والطاء أصلٌ صحيح يدلُّ على تعليق شيءٍ بشيء.\nونُطْتُه به: علَّقته به. والنَّوْط: ما يَتعلَّق به أيضًا، والجمع أنواط. وفي المثل:\n«عاطٍ بغير أنواط» أي إنَّه يعطو يتناول الشَّيء وليس له ما يتعلق به. والنِّيَاط:\nعِرقٌ علّق به القلب، والجمع أنْوطة (١)، وهو النائط أيضًا. قال:\n* قَطْعَ الطَّبيب نائطَ المصفورِ (٢) *\nونِياطُ المَفازة: بُعدها، سمِّي به لأنَّه كأنّه من بُعدِهِ نِيط أبداً بغيره.\nوالأرنَب مقطِّعة النِّياط، لأنَّها تقطع البعيد. والتُّنَوِّط (٣): طائر؛ وهو قياسُه لأنَّه يَنُوط كالخيوط من الشَّجرة يجعلها وكراً. ونِيطَ فُلانٌ: أصابته نَوْطة، وهي وَرَمٌ في الصَّدر. وهو عِندنا من نِياط القَلْب، كأنَّ الوجعَ أصابَ نِياطَه.\nويقولون: نَوْطةٌ من طَلْح، كما يقال عِيصٌ من سِدْر. وسمِّيت لتعلُّق بعضِها ببعض. وبئر نَيِّطٌ، إذا كانت قَدْرَ قامة.",
+ "az": "[نوط] (nut) - nun, vav və ta səhih bir kök olub bir şeyi digərinə asmağa dəlalət edir. ونُطْتُه به (nutuhu bihi) — onu ona asdım. Və النَّوْط (ən-naut) — üzərindən asıldığı şeydir, cəmi isə أنواط (ənvat) olur. Məsələn: «عاطٍ بغير أنواط» (Asılacağı bir şey olmadan uzanıb götürən) yəni o, bir şeyi əldə etməyə çalışır, lakin asılıb dayanacağı bir şeyi yoxdur. Və النِّياط (ən-niyat) — ürəyin asıldığı damardır, cəmi أنوطة (ənutəh)dir (1), o həmçinin النائط (ən-naih) adlanır. Şair demişdir: * قَطْعَ الطَّبيب نائطَ المصفورِ (2) * Və نِياطُ المَفازة (niyatul-məfazə) — səhranın uzaqlığıdır, ona görə belə adlandırılmışdır ki, uzaqlığından sanki o, hər zaman başqasına bağlanmışdır. Və dovşan مقطِّعة النِّياط (məqtti'ətün-niyat) — yəni uzaq məsafələri qət edəndir. Və التُّنَوِّط (ət-tənuvvit) — quşdur; bu da onun ölçüsünə uyğundur, çünki ağacdan saplar kimi asılaraq özünə yuva düzəldir. Və نِيطَ فُلانٌ (nitə fülänün) — fılankəsə نَوْطة (nəvtəh) dəydi, bu da döş qəfəsində olan şişdir. Bu, bizə görə نِياط القَلْب (niyatul-qəlb - ürək damarı) kəlməsindən alınmadır, sanki ağrı onun damarlarına toxunmuşdur. Və deyirlər: نَوْطةٌ من طَلْح (nəvtəhün min talh),necə ki, عِيصٌ من سِدْر ('isün min sidr - bir qrup sidr ağacı) deyilir. Onların bir-birinə sarılması səbəbi ilə belə adlandırılmışdır. Və بئر نَيِّطٌ (biirün nəyyitün) — bir boy (qamət) dərinliyində olan quyudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

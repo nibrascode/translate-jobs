@@ -1,0 +1,17 @@
+{
+ "i": 3680,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لصق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 249,
+  "page_to": 249
+ },
+ "ar": "اللام والصاد والقاف أصلٌ صحيح يدلُّ على ملازمةِ الشَّيء للشيء يقال لَصِق به يَلصَق لُصُوقاً (١). والمُلصق: الدّعِىّ. وفلان بلِصْقِ الحائط وبلِزْقه (٢). واللَّصَق في البعير كاللَّسَق، وقد فسَّرناه في بيت رؤبة.",
+ "az": "[لصق] (ləsəq) — lam, sad və qaf bir şeyin başqa bir şeyə daim sarılmasına dəlalət edən səhih kökdür. لَصِق به يَلصَق لُصُوقاً (ona yapışdı, yapışır, yapışmaq) deylər (١). Və المُلصق (əlmüləsq) — soyu bilinməyən yad adam (və ya övladlığa götürülən). Filankəs divarın لِصْقِ (lisfi) və لِزْقِ (lizfi) tərəfindədir (٢). Dəvədəki اللَّصَق (əlləsəq) اللَّسَق (əlləsəq) kimidir, biz bunu Rüəbənin beytində izah etdik.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

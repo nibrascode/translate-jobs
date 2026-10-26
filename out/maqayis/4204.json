@@ -1,0 +1,17 @@
+{
+ "i": 4204,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 459,
+  "page_to": 460
+ },
+ "ar": "النون والفاء والزاء أُصَيْلٌ يدلُّ على الوُثوب وشِبْه الوُثوب.\nونَفَزَ الظَّبي: وثَبَ في عَدْوِه. والمرأة تنفِّز ولدها: ترقِّصه. وأنْفَزتُ السَّهمَ على ظهر يدي: أدَرْتُه. قال:\nيَخُرْنَ إذا أُنْفزْن في ساقِط النَّدَى … وإن كانَ يومًا ذَا أهاضيبَ مُخْضِلا (١)",
+ "az": "[نفز] (nəfəz): Nun, fa və zay hərfləri sıçrayışa və ona bənzər şeylərə dəlalət edən kiçik bir əsldir. نَفَزَ الظَّبي (nəfəzəz-zabyü) – ceyran qaçarkən sıçradı. Qadın öz övladını تنفِّز ولدها (tənəffizu vələdəhə) – oxşayıb yırğalayır. وأنفزْتُ السَّهمَ على ظهر يدي (və ənfəztüs-səhmə alə zahri yədi) – oxu əlimin üstündə fırlatdım. O demişdir: يَخُرْنَ إذا أُنْفزْن في ساقِط النَّدَى … وإن كانَ يومًا ذَا أهاضيبَ مُخْضِلا (١) (Yəxurna izə ünfizn fi saqitin-nədi... və in kanə yvmən za əhadiybə mux-xilin).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.385Z"
+}

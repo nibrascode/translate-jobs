@@ -1,0 +1,17 @@
+{
+ "i": 3006,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 451,
+  "page_to": 451
+ },
+ "ar": "الفاء واللام والعين كلمةٌ واحدةٌ تدلُّ على شَقِّ الشَّئ. تقول:\nفَلَعَت الشَّئَ: شقَقْتُه. وتَفلَّعت البَيضةُ وانْفَلَعَتْ.",
+ "az": "[فلع] (fə-lə-ع). Fə, lam və eyn bir kəlmə olub bir şeyi yarmağa dəlalət edir. Deyirsən: «فَلَعَت الشَّئَ» — şeyi yardıṃ. «تَفلَّعت البَيضةُ وانْفَلَعَتْ» — yumurta yarıldı və parçalandı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:24:42.634Z"
+}

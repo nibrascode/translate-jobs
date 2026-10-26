@@ -1,0 +1,17 @@
+{
+ "i": 3222,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قوب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 37,
+  "page_to": 38
+ },
+ "ar": "القاف والواو والباء أصلٌ صحيح، وهو شِبْه حَفْرٍ مُقَوَّر فى الشَّئ. يقال: قُبْتُ الأرضَ أقُوبُها قَوْباً، وكذلك إذا حَفَرتَ فيها حُفْرةً مقوَّرة.\nتقول: قُبْتُها فانْقَابت. وقَوَّبْتُ الأرضَ، إذا أثّرتَ فيها. وتقوَّب الشَّئ:\nانْقَلَع من أصلِه. وكأنَّ القُوَباءَ من هذا، وهى عربيّة. قال:\nيا عجباَ لهذه الفَليقَهْ … هل تُذهِبَنَّ القُوبَاءَ الرِّيقَهْ (٣)\nوقد تسكن واوها فيقال قُوبَاء. ويقولون: «تخلَّصَتْ قائِبةٌ من قُوب» أى بيضة من فَرْخ؛ يضرب مثلاً للرّجُل يفارِقُ صاحبَه.",
+ "az": "[قوب] Qaf, vav və ba səhih bir əldir, bir şeyin içində oyulmuş şəkildə qazıntıya bənzər şeydir. Deyilir: «قُبْتُ الأرضَ أقُوبُها قَوْباً» (Yeri qazıb oyduqda), eləcə də onda oyulmuş bir çuxur qazdıqda. Deyirsən: «قُبْتُها فانْقَابت» (Onu oydum və o da oyuldu). Və «قَوَّبْتُ الأرضَ» — ərazidə iz buraxdıqda. Və «تقوَّب الشَّئ» — kökündən qopdu. Deyəsən əl-qubəba (القُوَباء) (dəmrov) də bundandır və o, ərəbi sözdür. (Şair) demişdir:\nيا عجباَ لهذه الفَليقَهْ … هل تُذهِبَنَّ القُوبَاءَ الرِّيقَهْ (٣)\n(Təəccüblü deyilmi bu fəlakətə? Tüpürcək dəmrovu apararmı?)\nVə onun vav hərfi sakit (səssiz) ola bilər, belə ki, «قُوبَاء» deyilir. Və deyirlər: «تخلَّصَتْ قائِبةٌ من قُوب» — yəni baladan qurtulan yumurta; öz yoldaşından ayrılan kişiyə məsəl çəkilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.257Z"
+}

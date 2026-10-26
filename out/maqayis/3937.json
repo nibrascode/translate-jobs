@@ -1,0 +1,17 @@
+{
+ "i": 3937,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ملث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 347,
+  "page_to": 347
+ },
+ "ar": "الميم واللام والثاء كلمة. يقال أتيتُه مَلَثَ الظَّلامِ، كما يقال مَلَسَ الظلامِ، وهو احتلاطُه",
+ "az": "«ملث» — الميم واللام والثاء (mim, lam və sə) bir sözdür. Deyilir: «أتيتُه مَلث الظَّلام» — necə ki, «ملس الظلام» deyilir, bu da zülmətin qarışması deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:03.921Z"
+}

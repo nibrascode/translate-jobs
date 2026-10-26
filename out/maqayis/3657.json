@@ -1,0 +1,17 @@
+{
+ "i": 3657,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لخي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 241,
+  "page_to": 242
+ },
+ "ar": "اللام والخاء والحرف المعتل أصلٌ صحيح يدلُّ على اعوجاجٍ\nفي شيء وميل. من ذلك الأَلْخَى، هو المعوجّ. ومنه اللَّخَا: كثرة الكلام في الباطل؛ يقال رجلٌ ألْخَى وامرأةٌ لَخْواء. وقد لَخِيَ لَخاً، مقصور. ويقولون:\nاللَّخْو (١) نعت القُبُل المضطرِب. وعُقَابٌ لَخْواءُ؛ إذا طال مِنقَارُها الأعلى الأسْفَلَ.\nوبعيرٌ ألخَى وناقةٌ لَخْواء، إذا كانت إحدى ركبتيه أعظَمَ من الأخرى. ويقولون اللِّخاء (٢): التحريش، ويكون ذلك ميلاً عن أحد الجانبين. يقال: لَخيْتَ بي عِندَه، إذا حرَّشَه بك فكأنَّه مال عليك. والمِلْخَى، المُسْعُط، يسمَّى بذلك لأنّه يكون في أحد الجانبين من الأنف (٣). [و] سمِّي غذاءُ الصبِىِّ لِخاءً، وهو الخُبْز المبلول",
+ "az": "[لخي] (Ləhəyə) — Lam, xə və zəif hərf bir şeydə əyriliyə və meylə dəlalət edən səhih bir əsasdır. Bunlardan biri «الأَلْخَى» (əl-əlxy) — əyri deməkdir. Həmçinin اللَّخَا (əl-ləxə) — batil sözlərin çoxluğudur; «رجلٌ ألْخَى» (raculun əlxə) və «امرأةٌ لَخْواء» (imratun ləxvə) deyilir. O, məqsur olaraq «لَخِيَ لَخاً» (ləxiyə ləxən) olmuşdur. Deyirlər: اللَّخْو (əl-ləxv) — nizamı pozulmuş ön tərəfin vəsfidir. «عُقَابٌ لَخْواءُ» (uqabun ləxvə) — üst dimdiyi alt dimdiyindən uzun olan qartaldır.\n«بعيرٌ ألخَى» (bəirun əlxə) və «ناقةٌ لَخْواء» (nəqatun ləxvə) — dizlərindən biri digərindən böyük olan dəvədir. Deyirlər ki, اللَّخَاء (əl-lihə) (٢) — fitnə-fəsad törətməkdir və bu, iki tərəfdən birinə meyl etməklə olur. Deyilir: «لَخيْتَ بي عِندَه» (ləhəytə bi indəhu) — səni ona qarşı fitnə-fəsad törətdiyi zaman deyilir, sanki o, sənin tərəfinə meyl etmişdir. الْمِلْخَى (əl-milxə) — burun otudur, bu cür adlandırılır, çünki o, burunun bir tərəfində olur (٣). Uşağın qidasına لِخاء (lihə) adı verilmişdir, o da isladılmış çörəkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

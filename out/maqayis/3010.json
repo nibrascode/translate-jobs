@@ -1,0 +1,17 @@
+{
+ "i": 3010,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 453,
+  "page_to": 454
+ },
+ "ar": "الفاء والنون والدال أصلٌ صحيح يدلُّ على ثِقَل وشدة،\nويقال بعضه على بعض (١). من ذلك الفِنْد: الشِّمراخ من الجبل، وقال قوم: هو الجبَلُ العظيم، وبه سمِّى الرجل فِنْداً.\nوممَّا يقاس عليه التفنيد، و [هو] اللوم، لأنّه كلام يثقل على سامعه ويشتدّ.\nوالفَنَد: الهَرَم، وهو ذاك القياس، ولا يكون هَرَماً إلاّ ومعه إنكارُ عقل. يقال أفْنَدَ الرّجُل فهو مُفْنِدٌ، إذا أُهْتِر. ولا يقال عجوزٌ مُفْنِدة، لأنَّها لم تكُ فى شبيبَتها ذاتَ رأى.\nويقولون: الفَنَد: الكذب. وممكنٌ أن يكون سمِّى كذا لأنّ صاحِبَه يفنَّد، أى يلام. وممكنٌ أن يسمّى كذا لأنَّه شديد الإثم، شديدٌ وِزْرُه.",
+ "az": "[فند] (fə-ن-د). Fə, nun və dal səhih əsas olub ağırlığa və şiddətə dəlalət edir, bəzisi digəri üzərinə olmaqla da izah olunur (1). Bunlardandır: «الفِنْد» — dağın zirvəsidir (şimrax), bir qrup alim demişdir ki, o, böyük dağdır və kişi məhz bundan irəli gələrək «Fində» adlanmışdır.\nBuna əsaslanan məsələlərdən biri də «التفنيد» (təfnid) yəni danlamaktır, çünki bu, dinləyiciyə ağır gələn və sərt olan sözdür. «الفَنَد» — qocalıqdır (hərəm), bu da həmin qiyasdandır; qocalıq ağılın itirilməsi (inkarı) olmadan baş verməz. Kişi qocalıb əldən düşdükdə «أفْنَدَ الرّجُل فهو مُفْنِدٌ» deyilir. Qarı üçün «مُفْنِدة» deyilməz, çünki o, gəncliyində rəy sahibəti olmamışdır.\nDeyirlər: «الفَنَد» — yalandır. Bu ona görə belə adlana bilər ki, onun sahibi danlanır («يُفَنَّد»). Və ya ona görə belə adlana bilər ki, onun günahı və yükü şiddətlidir, ağırdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:24:42.634Z"
+}

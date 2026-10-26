@@ -1,0 +1,17 @@
+{
+ "i": 2983,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فقه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 442,
+  "page_to": 442
+ },
+ "ar": "الفاء والقاف والهاء أصلٌ واحد صحيح، يدلُّ على إدراكِ الشَّئ والعِلْمِ به. تقول: فَقِهْتُ الحديث أفْقَهُه. وكلُّ عِلْمٍ بشئٍ فهو فِقْه.\nيقولون: لا يَفْقَه ولا يَنْقَه. ثم اختُصَّ بذلك علمُ الشَّريعة، فقيل لكلِّ عالم بالحلال والحرام: فقيه. وأَفْقَهْتُك الشَّئ، إذا بَيّنْتُه لك.",
+ "az": "[فقه]\nFə, qaf və hə bir səhih əsldir, bir şeyi dərk etməyə və onu bilməyə dəlalət edir. Deyirsən: «فَقِهْتُ الحديث أفْقَهُه» (hədisi/sözü anladım, onu dərk edirəm). Bir şeyə dair hər bir elm «فِقْه» (fiqh)-dir.\nDeyirlər: «لا يَفْقَه ولا يَنْقَه» (nə anlayır, nə dərk edir). Sonra şəriət elmi bu adla xüsusiləşdirildi və halal-haramı bilən hər bir alimə «فقيه» (fəqih) deyildi. «أَفْقَهْتُك الشَّئ» — onu sənə bəyan etdiyin, başa saldığın zaman deyilir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

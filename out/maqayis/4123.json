@@ -1,0 +1,17 @@
+{
+ "i": 4123,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 423,
+  "page_to": 424
+ },
+ "ar": "النون والسين والباء كلمةٌ واحدة قياسُها اتِّصال شيء بشيء.\nمنه النّسَب، سمِّي لاتِّصاله وللاتِّصالِ به. تقول: نَسَبْتُ أنْسِبُ. وهو نَسِيبُ فلانٍ. ومنه النَّسيبُ في الشِّعر إلى المرأةُ، كأنّه ذِكْرٌ يتَّصِل بها؛ ولا يكون إلاَّ\nفي النِّساءِ. تقول منه: نَسَبْتُ أنْسِبُ. والنّسيبُ: الطريق [المستقيم (١)]، لاتِّصال بعضِه من بعض.",
+ "az": "[نسب] (nəsb) — Nun, sin və ba bir kəlmədir, onun qiyasəti bir şeyin digər şeyə bitişməsidir.\n\nOndan əl-nəsəb (nəsil, soy) gəlir, öz bitişməsinə və ona bitişildiyinə görə belə adlandırılmışdır. Deyirsən: نَسَبْتُ أنْسِبُ (mən nəsəbini təyin edirəm / soyunu qeyd edirəm). Və o, فلانٍ نَسِيبُ (filankəsin qohumudur). Buradan qadına aid şeirdə olan əl-nəsib (eşq-məhəbbət şeiri) gəlir, guya o, qadına bitişən bir xatırlamadır; o, yalnız qadınlara aid olur. Bundan deyirsən: نَسَبْتُ أنْسِبُ. Və النَّسيب (ən-nəsib): [düz (١)] yoldur, çünki onun bir hissəsi digərinə bitişir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:38.830Z"
+}

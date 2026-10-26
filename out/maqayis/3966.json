@@ -1,0 +1,17 @@
+{
+ "i": 3966,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 358,
+  "page_to": 358
+ },
+ "ar": "النون والغين كلمة تدلّ على بعض الأعضاء. والنَّغانغ: لحمات تكون في الحلق عند اللّهاة، الواحد نُغنُغ. قال جرير:\nغمز ابن مرّة يا فرزدق كينها … غمز الطبيب نغانغ المعذور (١)\nوقد تسمّى الزّوائد في باطن الأذنين النّغانغ.",
+ "az": "[نغ] Nun və ğeyn - bəzi bədən üzvlərinə dəlalət edən kəlmədir. «النَّغانغ» — kiçik dilin yanında boğazda olan ət parçalarıdır, təkliyi «نُغنُغ»-dur. Cərir demişdir:\n«غمز ابن مرّة يا فرزدق كينها … غمز الطبيب نغانغ المعذور (١)»\n(Ey Fərzdəq, İbn Mərrənin onun qıçını sıxması... həkimi üzrlü xəstənin boğaz ətlərini sıxması kimidir).\nBəzən qulaqların içindəki əlavə ət parçalarına da «النّغانغ» deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

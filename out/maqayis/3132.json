@@ -1,0 +1,17 @@
+{
+ "i": 3132,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فشق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 505,
+  "page_to": 505
+ },
+ "ar": "الفاء والشين والقاف، ليس هو عندى أصلاً، ولكنَّهم يقولون: الفَشَق: المُباغَتة. فَاشَقَ: باغَتَ. وفَشَقَ بنو فلانٍ الدُّنيا (٢)، إذا كثُرَت عليهم فلَعِبوا بها. واللّه أعلم بالصَّواب.",
+ "az": "[فشق] الفاء والشين والقاف (Fə, şin və qaf), ليس هو عندى أصلاً (mənə görə bu, əsl kök deyil), ولكنَّهم يقولون (lakin onlar deyirlər): الفَشَق (əl-fəşəq): المُباغَتة (qəfil yaxalamaq). فَاشَقَ (faişəq): باغَتَ (qəfil yaxaladı). وفَشَقَ بنو فلانٍ الدُّنيا (٢) (Filankəsin oğulları dünyanı fəşəq etdilər): إذا كثُرَت عليهم فلَعِبوا بها (dünya onlara bol olduqda və onunla əyləndikdə). واللّه أعلم بالصَّواب (Ən doğrusunu Allah bilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.152Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3415,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كنس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 141,
+  "page_to": 141
+ },
+ "ar": "الكاف والنون والسين أصلانِ صحيحان، أحدهما يدلُّ على سَفْر شيءٍ عن وجهِ شيء، وهو كَشْفُه. والأصل الآخر يدلُّ على استخفاء.\nفالأوّل: كَنْس البيتِ، وهو سَفْرُ التُّرابِ عن وجه أرضه. والمِكْنسة:\nآلة الكنْس. والكُناسَة: ما يَكنَس.\nوالأصل الآخر: الكِناس: بيتُ الظَّبي. الكانس: الظبي يَدْخُل كِناسَه.\nوالكُنَّس: الكواكب تَكْنِسُ في بُروجها كما تَدخُل الظِّباءُ في كِناسها. قال أبو * عبيدة: تَكنِس في المَغيب",
+ "az": "[كنس] Kaf, nun və sin iki səhih kökdür; bunlardan biri bir şeyin üzərindən başqa bir şeyi süpürüb təmizləməyə dəlalət edir ki, bu da onu üzə çıxarmaqdır. Digər kök isə gizlənməyə dəlalət edir. Birincisi: «كَنْس البيتِ» (ev süpürmək) — torpağın yerin üzündən süpürülüb təmizlənməsidir. «المِكْنسة» (miknəsə) — süpürmə alətidir. «الكُناسَة» (künasə) — süpürülüb təmizlənən şeydir. Digər kök isə: «الكِناس» (kinas) — ceyranın yuvasıdır. «الكانس» (kanis) — yuvasına girən ceyrandır. «الكُنَّس» (künnəs) — bürclərində, ceyranların yuvasına girməsi kimi səyahət edən, hərəkət edən ulduzlardır. Əbu * Ubeydə demişdir: batdıqları yerdə hərəkət edirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.166Z"
+}

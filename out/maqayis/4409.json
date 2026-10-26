@@ -1,0 +1,17 @@
+{
+ "i": 4409,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "همى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 63,
+  "page_to": 64
+ },
+ "ar": "الهاء والميم والحرف المعتلُّ يدلُّ على ذَهابِ شئٍ على وَجهه وهَمَى الماءُ: سال. وهَمَتِ الماشيةُ تَهمِى: ذهبَتْ على وجهها لِرّعىٍ أو غيره و\nفى الحديث: «إنَّا نُصيبُ هَوَامِىَ الإبل». الضَّوالّ.\nوإذا همز (١) * تغيَّر المعنى. تقول: تهمّأ الثّوبُ: بلِى.",
+ "az": "«همى» (həmə): Hə, mim və hərfi-illət (zəif hərf) hər hansı bir şeyin öz istiqamətində gedib yox olmasına dəlalət edir. هَمَى الماءُ (suy axdı): axdı. وهَمَتِ الماشيةُ تَهمِى (mal-qara getdi): otlamaq və ya başqa bir səbəb üçün öz istiqamətinə tərəf getdi. Hədisdə: «إنَّا نُصيبُ هَوَامِىَ الإبل» («Şübhəsiz ki, biz dəvələrin azmışlarını tapırıq»). الضَّوالّ (azmışlar). Həmzələndikdə (١) məna dəyişər. Deyirsən ki: تهمّأ الثّوبُ (paltar köhnəldi): köhnəldi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

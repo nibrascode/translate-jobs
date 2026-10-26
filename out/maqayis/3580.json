@@ -1,0 +1,17 @@
+{
+ "i": 3580,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لهع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 217,
+  "page_to": 217
+ },
+ "ar": "اللام والهاء والعين كلماتُ إنْ صحت تدلُّ على استرخاءٍ وفَترة.\nمن ذلك اللّهِع من الرِّجال: المسترسل إلى كُلٍّ. يقال: لَهِعَ لَهَاعَةً. وبه سُمِّي لَهِيعة. ويقال: هو الفاتر المُسترخِي. وقال بعضهم: تَلَهْيَعَ في كلامه: أفرَط.",
+ "az": "[لهع] (ləhə’) - Lam, ha və eyn hərfləri əgər səhih olsa, boşalmağa və zəifliyə dəlalət edən kəlmələrdir. Bunlardan biri اللّهِع من الرِّجال (əl-lih’u min ər-rical): hər kəsə meyl edən kimsədir. Deyilir: لَهِعَ لَهَاعَةً (ləhi’ə ləhâ’ətən). Onunla لَهِيعة (Ləhiə) adlanmışdır. Deyilir: o, zəif və boşalmış kimsədir. Bəziləri demişdir: تَلَهْيَعَ في كلامه (tələhyə’ə fi kəlamihi): həddi aşdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

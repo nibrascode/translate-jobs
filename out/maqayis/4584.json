@@ -1,0 +1,17 @@
+{
+ "i": 4584,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وظف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 122,
+  "page_to": 122
+ },
+ "ar": "الواو والظاء والفاء: كلمة تدلُّ على تقدير شئ (٢). يقال:\nوظَّفْتُ له، إذا قدّرتَ له كلَّ حينٍ شيئاً مِنْ رزقِ أو طعام. ثمَّ استُعِير ذلك فى عَظْم السَّاق (٣)، كأنَّه شئٌ مقدَّر، وهو ما فوق الرُّسْغ من قائمة الدّابّة إلى الساق. ويقال وظَفْتُ البعيرَ، إذا قَصَرتَ له القَيْد. ويقال: مرَّ يَظِفُهُم، أى يتبعهم (٤) كأنَّه يَجعلُ وظيفَهُ بإزاء أَوظِفَتهِم.",
+ "az": "[وظف] الواو والظاء والفاء: bir şeyin miqdarını təyin etməyə dəlalət edən sözdür (٢). Deyirlər: وظَّفْتُ له (Onun üçün təyin etdim), – hər zaman üçün ona ruzi və ya yeməkdən bir şey müəyyənləşdirdiyin zaman. Sonra bu, incik sümüyünə (٣) məcazi olaraq işlədilmişdir, sanki müəyyən edilmiş bir şeydir, o da minik heyvanının budunun oynağından aşağıda olan hissədir. Və deyirlər: وظَفْتُ البعيرَ (Dəvənin buxovunu qısa etdim). Və deyirlər: مرَّ يَظِفُهُم (Onların ardınca keçdi), yəni onları izlədi (٤), sanki onun incik sümüyü onların incik sümüyünün qarşısındadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.841Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4646,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 142,
+  "page_to": 143
+ },
+ "ar": "الواو واللام والجيم: كلمةٌ تدلُّ على دُخول شئ. يقال وَلَج فى مَنزِلِه، ووَلَجَ البيتَ يَلِجُ وُلوجاً. والوَلِيجة: البِطانةُ والدُّخَلاء. [و] يقال رجلٌ خُرَجَةٌ وُلجَةٌ: كثيرُ الخروج والوُلوج. والوَلِجَة: وجَعٌ يَلجُ جَوفَ\nالإنسان (١). ويقولون: الوَلجَ: الطَّريق فى الرَّمْل (٢)، وهو من القياس.",
+ "az": "«ولج» (vələc). Vəv, lam və cim: bir şeyin daxil olmasına dəlalət edən bir kəlmədir. Deyilir: وَلَجَ فَى مَنْزِلِهِ (vələcə fi mənzilihi) və وَلَجَ الْبَيْتَ يَلِجُ وُلُوجاً (vələcəl-bəytə yəlicu vulucən). اَلْوَلِيجَةُ (vəlicə) — sirdaş və daxili köməkçidir. [Və] deyilir: رَجُلٌ خُرَجَةٌ وُلَجَةٌ (raculün xurəcətün vuləcətün) — çox çölə çıxan və çox içəri girən. اَلْوَلِجَةُ (vəlicə) — insanın daxilinə girən bir ağrıdır (١). Deyirlər ki, اَلْوَلَجُ (vələc) — qumluqdakı yoldur (٢), bu da qiyasdandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.059Z"
+}

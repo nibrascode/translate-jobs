@@ -1,0 +1,17 @@
+{
+ "i": 4601,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وغم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 127,
+  "page_to": 127
+ },
+ "ar": "الواو والغين والميم: كلمةٌ واحدة، هى الوَغْم: الغَيْظ فى الصَّدر، والحِقْدُ. قال:\nيَقومُ على الوَغْمِ فى قومِهِ … فيَعفُو إذا شاءَ أو ينتقِمْ\nفأمَّا قولُهم: وَغَم بالخَبَر فأصلُه نَغَم.",
+ "az": "[وغم] الواو والغين والميم: tək bir sözdür, o da الوَغْم (əl-vəğm): sinədəki qəzəb və kin. Demişdir: * يَقومُ على الوَغْمِ فى قومِهِ … in yəfüə iza şaa əv yəntəqim * (Öz qövmü arasında kin üstündə durar ... istəsə bağışlayar, istəsə intiqam alar). Amma onların وَغَم بالخَبَر (xəbəri yaydı və ya dedi) demələrinə gəldikdə, onun əsli نَغَم (nəğəm)-dir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

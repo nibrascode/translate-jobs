@@ -1,0 +1,17 @@
+{
+ "i": 3521,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كشط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 184,
+  "page_to": 184
+ },
+ "ar": "الكاف والشين والطاء كلمةٌ تدلُّ على تنحية الشَّيء وكَشْفه. يقال: كشَطَ الجِلدَ عن الذَّبيحة. ويقولون: انكشَط رُوعُه، أي ذهَب.",
+ "az": "[كشط] (kə-şə-tə). Kaf, şin və ta hərfləri bir şeyi kənara çəkməyə və açmağa dəlalət edən kəlmədir. Deyilir: «كشَطَ الجِلدَ عن الذَّبيحة» (Qurbanlıq heyvanın dərisini soydu/çəkib çıxartdı). Və deyirlər: «انكشَط رُوعُه» (Qorxusu dağıldı/getdi), yəni qorxusu yox oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

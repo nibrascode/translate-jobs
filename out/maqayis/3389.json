@@ -1,0 +1,17 @@
+{
+ "i": 3389,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 133,
+  "page_to": 134
+ },
+ "ar": "الكاف واللام والباء أصلٌ واحد صحيح يدلُّ على تَعلُّق الشَّيء بالشَّيء في شِدَّة وشِدَّة جَذْب. من ذلك الكَلْب، وهو معروف، والجمع كِلابٌ وكَليب. والكَلاَّب والمكلِّب: الذي يعلّم الكلبَ الصَّيد. والكلْبُ الكِلبُ:\nالذي يَكْلَب بلحوم الناس، يأخُذُه شِبهُ جُنونٍ فإِذا عَقَر إنساناً كَلِبَ، فيقال رجلٌ كَلِبٌ ورجالٌ كَلْبي. قال:\nولو تَشرب الكلبَى المِراضُ دماءَنا … شفتها من الدَّاء المَجَنَّةِ والخَبْلِ (٢)\nومن الباب كُلْبة الزَّمان وكَلَبُه: شِدَّته. وأرضٌ كَلِبَة، إذا لم يَحِدْ نباتُها ريَّا فيَبِس، إنّما قيل ذلك لأنّه إذا يَبِس صار كأنياب الكلاب وبراثِنِها.\nوالكَلْبُ (٣): سيرٌ أحمرُ يُجعَل بين طرَفَي الأديم إذا خُرِز. يقال كَلَبْتُه. قال:\nكأنَّ غَرَّ مَتْنِة إذْ نَجْنُبُه … سَيْرُ صَنَاعٍ فى أديمٍ تَكلُبُه (٤)\nوالكَلْب: حديدةٌ عَقْفاء يُعَلَّق عليها المسافرُ الزّادَ من الرَّحل. والكُلاَّب معروف، وهو الكَلُّوب. فأمّا قول طُفَيل:\nأَبأْنا بِقتلانا من القوم مِثلَهم … وما لا يُعَدُّ من أسيرٍ مكلَّبِ (١)\n[فإن المكلَّب هو المكَبَّل (٢)].\nوالكَلْب: المسمار في قائم السَّيف، وفيه الذُّؤابة. والكُلاب: موضعٌ.\nورأس كلبٍ (٣): جبل.",
+ "az": "[كلب] (Kaf, lam və ba) — bir şeyin digər bir şeyə şiddətlə yapışmasına və şiddətli çəkimə dəlalət edən tək səhih bir əsasdır. Bunlardan biri məlum olan «الكَلْب» (it) sözüdür, cəmi «كِلابٌ» və «كَليب» gəlir. «الكلاّب» və «المكلِّب» — iti ova öyrədən şəxsdir. «الكلْبُ الكِلبُ» — insanların əti ilə quşuran itdir, ona dəlilik halı gəlir, əgər bir insanı dişləsə, o da quşurar, buna görə də «رجل كَلِبٌ» (quşurmuş kişi) və «رجال كَلْبي» (quşurmuş kişilər) deyilir. (Şair) demişdir:\n* ولو تَشرب الكلبَى المِراضُ دماءَنا … شفتها من الدَّاء المَجَنَّةِ والخَبْلِ (٢) *\n(Əgər xəstə, quşurmuş itlər qanımızı içsəydi… onları dəlilik və fəsad xəstəliyindən sağaldardı)\n\nBu babdandır: «كُلْبة الزَّمان وكَلَبُه» — zamanın şiddəti. «أرض كَلِبَة» — bitkisi şirəli olmayıb quru olan torpaq; bu ona görə belə adlandırılmışdır ki, o quruduğu zaman itlərin azı dişlərinə və pəncələrinə bənzəyir.\n«الكَلْبُ» (٣) — dəri tikilən zaman iki tərəfi arasında qoyulan qırmızı qayışdır. Deyilir: «كَلَبْتُه» (mən onu tikdim). (Şair) demişdir:\n* كأنَّ غَرَّ مَتْنِة إذْ نَجْنُبُه … سَيْرُ صَنَاعٍ فى أديمٍ تَكلُبُه (٤) *\n\n«الكَلْب» — səyyahın minik tulumundan azuqəsini asmaq üçün əyri dəmirdir. «الكُلاَّب» məlumdur, o da «الكَلُّوب»dur. Tufeylin bu sözünə gəldikdə:\n* أَبأْنا بِقتلانا من القوم مِثلَهم … وما لا يُعَدُّ من أسيرٍ مكلَّبِ (١) *\n[Lakin «المكلَّب» — əl-qolu zəncirlənmiş (المكَبَّل) deməkdir (٢)].\n\n«الكَلْب» — qılıncın dəstəyindəki mismardır, onda zübabə də var. «الكُلاب» — bir yerdir.\n«رأس كلب» (٣) — bir dağdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:33.629Z"
+}

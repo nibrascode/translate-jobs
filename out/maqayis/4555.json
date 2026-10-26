@@ -1,0 +1,17 @@
+{
+ "i": 4555,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 114,
+  "page_to": 114
+ },
+ "ar": "الواو والشين والحرف المعتل: أصلانِ، أحدُهما يدلُّ على تحسينِ شئٍ وتزيينه (١)، والآخر على نَماءِ وزيادة.\nالأوَّل: وشَيْتُ الثَّوبَ أشيِهِ وَشْياً. ويقولون للذى يَكْذِب وينُمُّ ويُزخرِفُ كلامَه: قد وَشَى، وهو راشٍ.\nوالأصل الآخر: المرأة الواشية: الكثيرة الوَلَد. ويقال ذلك لكلِّ ما يَلِد. والواشى: الرّجُل الكثير النَّسْل. والوَشْىُ: الكَثْرة. ووَشَى بَنُو فلانٍ: كَثُروا. وَما وَشَتْ هذه الماشيةُ عِندى، أى ما وَلَدت.",
+ "az": "«وشى» الواو والشين والحرف المعتل (vav, şin və zəif hərf): iki əsasdır; biri bir şeyi gözəlləşdirməyə və bəzəməyə (١), digəri isə inkişaf və artıma dəlalət edir. Birincisi: وشَيْتُ الثَّوبَ أشيِهِ وَشْياً (vəşəytü əş-şəvbə əşihi vəşyən - parça naxışladım). Yalan danışan, dedi-qodu edən və sözünü bəzəyən kimsəyə deyirlər: قد وَشَى (qəd vəşə), o isə راشٍ (rāşin)-dir. Digər əsas isə: الواشية (əl-vāşiyə) - çoxlu övran doğan qadındır. Bu, doğan hər bir heyvana da deyilir. الواشى (əl-vāşi) - çox nəsil verən kişi. الوَشْىُ (əl-vəşy) - çoxluqdur. ووَشَى بَنُو فلانٍ (vəşə bənu fülənin) - filankəsin oğulları çoxaldı. وَما وَشَتْ هذه الماشيةُ عِندى (və mā vəşat həzihi əl-māşiyətu indī) - bu mal-qara yanımda bala vermədi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

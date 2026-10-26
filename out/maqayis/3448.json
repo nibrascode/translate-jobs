@@ -1,0 +1,17 @@
+{
+ "i": 3448,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كان",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 152,
+  "page_to": 152
+ },
+ "ar": "الكاف والألف والنون. يقولون: كَأَنَ، أي اشتدّ، وكَأَنْتُ: اشتددت.",
+ "az": "[كان] (Kaf, əlif və nun). Deyirlər: كَأَنَ (kəənə) — şiddətləndi, كَأَنْتُ (kəəntu) — mən şiddətləndim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

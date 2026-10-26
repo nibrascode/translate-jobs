@@ -1,0 +1,17 @@
+{
+ "i": 2990,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فقع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 445,
+  "page_to": 445
+ },
+ "ar": "الفاء والقاف والعين. اعلمْ أنَّ هذا البابَ وكلِمَهُ غيرُ موضوعٍ على قياس، وهى كلماتٌ متبايِنة.\nمن ذلك الفَقْع: ضَربٌ من الكَمْأَة، وبه يشبَّه الرّجلُ الذَّليل فيقال:\n«هُوَ أذَلُّ من فَقْعٍ بقاع (١)». والفَقْع: الحُصَاص (٢). وهذا من قولهم: فَقَّع بأصابعه: صَوَّت.\nوممَّا (٣) لا يشبه الذى قبلَه صفةُ الأصفر، يقال أصفرُ فافع. ويقولون:\nالإفقاع: سُوء الحال، يقال منه: أفْقَعَ. وفَواقع الدَّهر: بَوائِقُه فأمَّا الفُقَّاع فيقال إنّه عربىّ. قال الخليل: سمِّى فُقّاعاً لما يرتفع فى رأسه من الزَّبد. قال: والفَقافيع كالقوارير فوقَ الماء.",
+ "az": "[فقع]\nFə, qaf və ayn. Bil ki, bu bab və onun kəlmələri vahid bir qiyas üzərində qurulmamışdır; bunlar müxtəlif, fərqli sözlərdir.\nBu qəbildəndir: «الفَقْع» (əl-fəq') — göbələyin (dombalanın) bir növüdür və zəlil adam buna bənzədilərək deyilir: «هُوَ أذَلُّ من فَقْعٍ بقاع (١)» (O, düzənlikdəki ağ göbələkdən də zəlildir). «الفَقْع» (əl-fəq') həm də yel buraxmaqdır (٢). Bu da onların: «فَقَّع بأصابعه» (barmaqlarını şaqqıldatdı, səs çıxartdı) sözündəndir.\nƏvvəlkinə bənzəməyənlərdən biri də sarı rəngin vəsfidir; «أصفرُ فاقع» (sap-sarı, parlaq sarı) deyilir. Həmçinin deyirlər: «الإفقاع» (əl-ifqa') — halın pisləşməsidir; bu mənada «أفْقَعَ» (əfqə'ə — yoxsullaşdı, vəziyyəti pisləşdi) deyilir. «فَواقع الدَّهر» (fəvaqiud-dəhr) — zəmanənin fəlakətləri, müsibətləridir. «الفُقَّاع» (əl-fuqqa' — köpüklü içki) kəlməsinə gəlincə, onun ərəb mənşəli olduğu deyilir. Xəlil demişdir: üzərində köpük qalxdığı üçün «fəqqa'» adlandırılmışdır. Həmçinin demişdir: «الفَقافيع» (əl-fəqafi') — suyun üzərindəki qabarcıqlardır.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

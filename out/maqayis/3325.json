@@ -1,0 +1,17 @@
+{
+ "i": 3325,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قصد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 95,
+  "page_to": 96
+ },
+ "ar": "القاف والصاد والدال أصولٌ ثلاثة، يدلُّ أحدُها على إتيانِ شيءِ وأَمِّه، والآخَر على اكتنازٍ في الشيء.\nفالأصل: قَصَدته قَصْداً ومَقْصَداً. ومن الباب: أقْصَدَه السَّهمُ، إذا أصابه فقُتِل مَكانَه، وكأنّه قيلَ ذلك لأنَّه لم يَحِد عنه (٢). قال الأعشى:\nفأقْصَدها [سهمي] وقد كان قبلها … لأمثالها من نِسوَةِ الحيِّ قانِصَا (٤)\nومنه: أقْصَدَتْه حَيَّةٌ، إذا قتلَتْه.\nوالأصل الآخر: قَصَدْت الشيءَ كسرته. والقِصْدَة: القِطْعة من الشيء إِذا تكسَّر، والجمع قِصَدٌ. [ومنه قِصَدُ] الرِّماح. ورمحٌ قَصِد، وقد انقَصَد. قال:\nترى قِصَدَ المُرّانِ تُلْقَى كأنَّها … تذرُّعُ خُرصانٍ بأيدِى الشّواطبِ (٥)\nوالأصل الثالث: الناقة القَصِيد: المكتنِزة الممتلِئة لحماً. قال الأعشى:\nقطعتُ وصاحبِي سُرُحٌ كِنازٌ … كرُ كْنِ الرَّعْنِ ذِعْلِبَةٌ قَصيد (١)\nولذلك سمِّيت القصيدةُ من الشِّعر قصيدةً لتقصيد أبياتها، ولا تكون أبياتُها إلاَّ تامَّة الأبنية.",
+ "az": "«قصد»: القاف, Sad və Dal üç kökdür, onların biri bir şeyə gəlməyə və onu qəsd etməyə dəlalət edir, diğəri isə bir şeydə sıxlığa və bərkliyə dəlalət edir.\n\nKök: «قَصَدته قَصْباً ومَقْصَداً» (Mən onu qəsd etdim). Bu fəsildəndir: «أقْصَدَه السَّهمُ» (Ox onu vurduqda, o, yerindəcə öldü), və elə bil ki, bu ona görə deyilmişdir ki, (ox) ondan yayınmamışdır (٢). Əşə-şi demişdir:\nOndan əvvəl tayfadan olan qadınların oxçuları üçün ov olan onu mənim oxum vurdu (٤).\n\nBundandır: «أقْصَدَتْه حَيَّةٌ» (ilan onu öldürdü).\n\nDigər kök: «قَصَدْت الشيءَ» — onu qırdım. «القِصْدَة» — sındıqda o şeydən olan parça, cəmi «قِصَدٌ»-dir. [ومنه قِصَدُ] — nizələrin qırıqları. Və «رمحٌ قَصِد» — qırılmış nizə, artıq o, «انقَصَد» (qırıldı). Şair demişdir:\nSən murran ağacından olan nizələrin qırıqlarının sanki əlləri ilə nizə düzəldən ustaların zireh taxması kimi atıldığını görürsən (٥).\n\nÜçüncü kök: «الناقة القَصِيد» — ətlə dolu, bərk və dolğun dişi dəvə. Əşə-şi demişdir:\nMən və dostum qayalığın hündürlüyünə bənzər, sürətli, bərk, dolu və arıq olmayan minik dəvələri ilə səfər etdik (١).\n\nBuna görə də şeirdən olan qəsidəyə beytlərinin mənalı və bütöv olmasına («تقصيد أبياتها») görə qəsidə adı verilmişdir, onun beytləri ancaq tam quruluşlu olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:36:22.598Z"
+}

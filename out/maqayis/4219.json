@@ -1,0 +1,17 @@
+{
+ "i": 4219,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقذ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 468,
+  "page_to": 468
+ },
+ "ar": "النون والقاف والذال أصلٌ صحيح يدلُّ على استخلاصِ شيءٍ. وأنقذتُه منه: خَلَّصته. وفرسٌ نقيذٌ: أُخِذ من قومٍ آخَرين، وأفراسٌ نقائذ. وكلُّ ما أنقَذْتَه فهو نَقَذٌ.",
+ "az": "[نقذ] Nun, qaf və zal bir şeyi xilas etməyə dəlalət edən səhih bir əslir. وأنقذتُه منه: onu xilas etdim. وَفرسٌ نقيذٌ: başqa qövmlərdən alınmış at, cəmi isə نقائذ gəlir. Xilas etdiyin hər bir şey نَقَذٌ-dür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:21.983Z"
+}

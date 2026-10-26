@@ -1,0 +1,17 @@
+{
+ "i": 3755,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مهل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 282,
+  "page_to": 282
+ },
+ "ar": "الميم والهاء واللام أصلانِ صحيحان، يدلُّ أحدهما على تُؤَدة، والآخر جنسٌ من الذائبات (٣)\nفالأول التُّؤدة. تقول: مهلاً يا رجُل، وكذلك للاثنين والجميع وإذا قال مَهْلاً قالوا: لا مَهْلَ واللّهِ، وما مَهْلٌ بمغنيةٍ عنك شيئا (٤). قال:\n* وما مَهلٌ بواعظةِ الجَهُولِ (٥) *\nوقال أبو عبيد: التَّمَهُّل: التقدُّم. وهذا خلاف الأوّل، ولعلَّه أن يكون من الأضداد. وأمهَله اللّه: لم يُعَاجِلْه. ومشى على مُهْلته، أي على رِسْلِه.\nوالأصل الآخر المُهْل، وقالوا: هو خُثَارَة الزَّيت (٦)، وقالوا: هو النُّحَاس الذَّائب.",
+ "az": "[مهل] (M-h-l): Mim, hə və lam iki səhih əsas mənanı ifadə edir: bunlardan biri aramlıq (töədə), diğəri isə əriyən maddələrin bir növüdür (٣).\nBirincisi aramlıqdır. Deyirsən: مَهْلاً يَا رَجُل (məhlən ya racul – ey kişi, aram ol), eynilə ikilikdə və cəmlikdə də belə işlənir. مَهْلاً (məhlən) deyildikdə, onlar: «Yox, Allaha yemin olsun ki, məhl yoxdur (لا مَهْلَ واللّهِ)» və «Hiylə sənə heç bir fayda verməz (وما مَهْلٌ بمغنيةٍ عنك شيئا)» (٤) deyirlər. Şair demişdir:\n* وما مَهلٌ بواعظةِ الجَهُولِ (٥) *\n(Aramlıq cahili öyüd-nəsihət ilə yola gətirən deyil).\nƏbu Übeyd demişdir: التَّمَهُّل (ət-təməhhul) — irəliləmək deməkdir. Bu, birincinin ziddidir və ola bilsin ki, zidd mənalı sözlərdəndir (əddad). Ərəblər أمهلَهُ الله (əmhələhullah) deyirlər: yəni Allah ona tələsmədi (möhlət verdi). Və مشى على مُهْلته (məlşə alə muhlətihi) — yəni öz aramı ilə, asta-asta yeridi.\nDigər əsas isə المُهْل (əl-muhl) sözüdür. Dediklərinə görə, bu, zeytun yağı çöküntüsüdür (٦), yaxud əriymiş misdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

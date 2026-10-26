@@ -1,0 +1,17 @@
+{
+ "i": 3702,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لفق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 257,
+  "page_to": 257
+ },
+ "ar": "اللام والفاء والقاف أُصَيلٌ يدلُّ على ملاءمة الأمر. يقال.\nلَفَقتُ الثّوبَ بالثَّوب لَفْقاً. وهذا لِفْقُ هذا، أي يوائمه. وتَلَافَقَ أمرهم: تلاءَم.",
+ "az": "«لفق» — lam, fa və qaf işin uyğun gəlməsinə dəlalət edən kiçik bir əsildir. Deyilir:\n«لَفَقتُ الثّوبَ بالثَّوب لَفْقاً» (lafaqtu ath-thouba bi-ath-thoubi lafaqan) — paltarı paltara tikdim, birləşdirdim. «وهذا لِفْقُ هذا» (wa haza lifqu haza) — bu, bunun tayıdır, ona uyğundur. «وتَلَافَقَ أمرهم» (talafaqqa amruhum) — onların işi bir-birinə uyğunlaşdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.563Z"
+}

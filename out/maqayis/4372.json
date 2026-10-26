@@ -1,0 +1,17 @@
+{
+ "i": 4372,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هزأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 52,
+  "page_to": 52
+ },
+ "ar": "الهاء والزاء والهمزة كلمة واحدة. يقال: هَزِئَ واستهزَأَ، إذا سَخِرَ.",
+ "az": "«هزأ» — الهاء والزاء والهمزة (hə, zay və həmzə) bir kəlmədir. Deyilir: هَزِئَ واستهزَأَ (istehza etdi, məsxərəyə qoydu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

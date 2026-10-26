@@ -1,0 +1,17 @@
+{
+ "i": 3480,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كدر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 164,
+  "page_to": 164
+ },
+ "ar": "الكاف والدال والراء أصلٌ يدلُّ على خلاف الصَّفو، والآخَر يدلُّ على حركة.\nفالأول الكَدَر: خلاف الصَّفْو. يقال كَدِرَ الماءُ وكَدُرَ. ويقولون: خُذْ ما صَفَا ودع ما كَدُرَ». ويُستعار هذا فيقال: كَدِرَ عيشه. والكُدْرِيُّ: القَطا؛ لأنّه نُسِب إلى معظم القطا، وهي كُدْر. وهذا من الأوّل، لأنَّ في ذلك اللَّون كُدرة. ومنه الكُدَيْرَاء: لبنٌ حليب يُنقَع فيه تمرٌ. وبناتُ أكدَرَ: حُمُر وحشٍ نسبَت إلى فحل، ولعلَّ ذلك اللَّون أكدر.\nوأمَّا الأصل الآخَر فيقال: انكدَرَ، إذا أسْرَع. قال اللّه تعالى:\n﴿وَإِذَا اَلنُّجُومُ اِنْكَدَرَتْ﴾.",
+ "az": "[كدر] (Kəf, Dal, Ra) saflığın ziddinə və hərəkətə dəlalət edən bir kökdür. Birincisi «الكدر» (saflığın ziddi). Deyilir ki, «كدر الماء وكدر» (su bulandı). Deyirlər ki, «خُذْ ما صَفَا ودع ما كَدُرَ» (saf olanı götür, bulanıq olanı tərk et). Bu, məcazi olaraq «كدر عيشه» (həyatı bulandı/qaraldı) kimi işlədilir. «الكُدْرِيُّ» (qata quşu); çünki o, rəngi «كدر» (boz/bulanıq) olan quşların çoxuna nisbət edilmişdir. Bu, birincidəndir, çünki bu rəngdə bir bulanıqlıq var. «الكُدَيْرَاء» (içində xurma isladılan süd) də buradan gəlir. «بنات أكدر» (vəhşi eşşəklər, bir erkəyə nisbət edilmişdir), bəlkə də o rəng «أكدر» (boz) olduğu üçündür. Digər kökə gəlincə, deyilir ki, «انكدر» (sürətlə hərəkət etdi). Allah təala buyurur: «وإذا النجوم انكدرت» (mənaca tərcümə: ulduzlar qaraldığı/söndüyü zaman).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

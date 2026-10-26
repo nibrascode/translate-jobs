@@ -1,0 +1,17 @@
+{
+ "i": 4565,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وصى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 116,
+  "page_to": 116
+ },
+ "ar": "الواو والصاد والحرف المعتلّ: أصلٌ يدلُّ على وَصلِ شئٍ بشئ. ووَصَيْتُ الشَّئَ: وصَلْتُه. ويقال: وطِئْنا أرضاً واصيةً، أى إنَّ نَبتَها متَّصلٌ قد امتلأَتْ منه. ووَصَيْتُ اللّيلةَ باليوم: وصَلْتُها، وذلك فى عملٍ تَعمَلُه.\nوالوصِيَّة من هذا القياس، كأنّه كلامٌ يُوصَى أى يُوصَل. يقال: وصَّيْتُه توصيةً، وأوصَيْتَه إيصاء.",
+ "az": "[وصى] (Vəsa): الواو والصاد والحرف المعتلّ (vav, sad və illət hərfi): bir şeyi digərinə birləşdirməyə dəlalət edən kökdür. ووَصَيْتُ الشَّئَ (vəsəytuş-şəy'ə): onu birləşdirdim. Deyilir: وطِئْنا أرضاً واصيةً (vəti'nə ərdən vasiyətən), yəni bitkisi bir-birinə bitişmiş, onunla dolmuşdur. ووَصَيْتُ اللّيلةَ باليوم (vəşəytul-ləylə bil-yəvm): gecəni gündüzə birləşdirdim və bu, gördüyün bir işdə olur. Vəsiyyət də bu ölçüdəndir, sanki o, vəsilənən, yəni birləşdirilən bir sözdür. Deyilir: وصَّيْتُه توصيةً (vəssaytuhu təvsiyətən) və أوصَيْتَه إيصاءً (övsaytuhu isaən).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4310,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 28,
+  "page_to": 29
+ },
+ "ar": "الهاء والباء والراء: كلمتان: إحداهما قطعٌ فى الشّئ وتقطُّع، والأخرى صفةُ مكان.\nفالأولى: الهَبْر: قَطْع اللَّحم. والهَبْرة: البَضعَة منه. يقال هَبَرتُ له هَبْرةً.\nوناقةٌ هَبْراء وهَبِرَة: كثيرةُ اللَّحم. والهَوْبَر: الذى تَقَرَّدَ شَعْرُه، كأنّه قد تقطَّعَ قِطعاً مجتمعة. ومن ذلك الهِبْرِيَة: ما كانَ فى أسفل الشَّعر مثلَ النُّخَالة، سمِّى بذلك لأنّه متقطِّع. وسيف هَبَّارٌ (١) وهابرٌ: ينتسِفُ القِطعةَ من اللَّحم فيَطرحُها.\nوأمَّا الكلمة الأخرى فالهَبيِر (٢): مطمئِنٌّ من الأرض. ويقال الهُبُور:\nالصُّخور بينَ الرَّوابى (٣) أو الصُّخورُ، أنا أشُكُّ فى ذلك. وكلمةٌ يقولونها ما أدرِى ما أصْلُها. يقولون: «لا آتِيك هُبَيْرةَ بنَ سعدٍ» أى أبداً (٤).",
+ "az": "[هبر] (hə-bə-rə): Hə, ba və ra iki kəlmədir: biri bir şeyi kəsmək və parçalamaq, diğəri isə məkan sifətidir.\nBirincisi: الهَبْر (əl-həbr): əti kəsməkdir. الهَبْرَة (əl-həbrəh): ətdən bir tikədir. هَبَرتُ له هَبْرةً (həbartü ləhu həbrətən) – ona bir tikə kəsdim دەnilir.\nهَبْراء və هَبِرَة (həbra və həbirə) – əti çox olan dəvədir. الهَوْبَر (əl-həvbar): tükləri parçalanıb qruplar halında tökülmüş kimi olan heyvandır. Bunlardan biri də الهِبْرِيَة (əl-hibriyəh): kəpək kimi saçın aşağı hissəsində olan şeydir, parçalanmış olduğuna görə belə adlanmışdır. سيف هَبَّارٌ və هابرٌ (seyfun həbbarun və habirun): ətdən bir tikə qoparıb atan qılınc.\nDigər kəlməyə gəldikdə, الهَبِير (əl-həbir): yerin hamar və alçaq hissəsidir. Deyilir ki, الهُبُور (əl-hubur): təpələr arasındakı qayalar, yaxud sadəcə qayalardır, mən bundan şübhələnirəm. Bir kəlmə də var ki, ərəblər işlədirlər, onun əslinin nə olduğunu bilmirəm. Deyirlər: «لا آتِيك هُبَيْرةَ بنَ سعدٍ» (La atik hübəyrətə bənsə’dən) – yəni əsla gəlməyəcəyəm (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

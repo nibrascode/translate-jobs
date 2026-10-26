@@ -1,0 +1,17 @@
+{
+ "i": 4654,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 145,
+  "page_to": 145
+ },
+ "ar": "الواو واللام والقاف: كلمةٌ تدلُّ على إسراعٍ وخفّة. يقال جاءت الإبل نَلِقُ، أى تُسرِع قال:\n* جاءت به عَنْسٌ من الشَّام تَلِقْ (١) *\nوعلى هذا قراءة من قرأ: «إذ تلقونه بألسنتكم (٢)». وناقَةٌ وَلَقَى:\nسريعة. والوَلْق: أخَفُّ الطَّعن، وَلَقَهُ بالسَّيف وَلَقات. ووَلَق يَلِقُ: كَذَب؛ كلُّ هذا قياسُه واحد.\nومن الباب الأَوْلَقُ الجُنون. يقال: أخَذَه الأَوْلَق. ورجُلٌ مُؤَوْلَق على مُعَوْلقٍ: به جُنون.",
+ "az": "«ولق» (vələq). Vəv, lam və qaf: sürət və yüngüllüyə dəlalət edən bir kəlmədir. Deyilir: جَاءَتِ الْإِبِلُ نَلِقُ (cəatil-ibil nəliq) — yəni dəvələr sürətlə gəlir. (Şair) demişdir: «جَاءَتْ بِهِ عَنْسٌ مِنَ الشَّآمِ تَلِقْ» («Onu Şamdan sürətlə gələn dişi dəvə gətirdi») (١). Buna əsasən (Quran-dakı) bu qiraətdir: «إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكُمْ» («Onda ki, onu dillərinizlə qarşılayırdınız») (٢). وَلَقَى نَاقَةٌ (naqatün vələqiy) — sürətli dəvədir. اَلْوَلْقُ (vəlq) — ən yüngül zərbədir, onu qılıncla وَلَقَهُ بِالسَّيْفِ وَلَقَاتٍ (vələqəhü bis-səyfi vələqatin) vurdu. وَلَقَ يَلِقُ (vələqə yəliq) — yalan danışdı; bütün bunların qiyasları eynidir. Bu fəsildəndir: اَلْأَوْلَقُ (əvləq) — dəlilik. Deyilir: أَخَذَهُ الْأَوْلَقُ (əxəzəhul-əvləq) — onu dəlilik tutdu. رَجُلٌ مُؤَوْلَقٌ عَلَى مُعَوْلَقٍ (raculün muəvləqun alə muəvləq) — dəli olan kimsədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

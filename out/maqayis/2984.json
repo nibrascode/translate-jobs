@@ -1,0 +1,17 @@
+{
+ "i": 2984,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فقأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 442,
+  "page_to": 443
+ },
+ "ar": "الفاء والقاف والهمزة يدلُّ على فَتْح الشئ وتفتُّحه. يقال:\nتففَّأت السَّحابةُ عن مائها، إذا أرسلَتْه، كأنَّها نفتحت عنه.\nومن ذلك: الفَقْ ء (٢)، وهى السَّابِياءُ الذى ينفرج عن رأس المولود. ومنه فَقأْتُ عينَه أفقؤها. فأما الفُقَى مليّنٌ فجمع فُوقٍ؛ وهو مقلوبٌ وليس من هذا الباب. قال:\nونَبْلِى وفُقاهَا ك … عَراقيبِ قَطاً طُحْلِ (١)",
+ "az": "[فقأ]\nFə, qaf və həmzə bir şeyin açılmasına və yarılmasına dəlalət edir. Deyilir:\n«تفقَّأت السَّحابةُ عن مائها» — bulud suyunu buraxdıqda deyilir, sanki ondan yarılıb açılmışdır.\nBu qəbildəndir: «الفَقْء» (əl-fəq') (٢) — yeni doğulanın başından ayrılan döl qışasıdır (əs-sabiya). Buradandır: «فَقأْتُ عينَه أفقؤها» (onun gözünü çıxartdım/partlatdım). «الفُقَى» (əl-fuqa) sözünə gəldikdə isə, yumşaldılmış şəkildə «فُوق» (fuq — oxun gəzi) sözünün cəmidir; o, qəlb olunmuşdur (yerdəyişməyə uğramışdır) və bu babdan deyildir. Şair demişdir:\nونَبْلِى وفُقاهَا ك … عَراقيبِ قَطاً طُحْلِ (١)\n(Mənim oxlarım və onların gəzləri qonur bağrıqara quşunun baldırları kimidir).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

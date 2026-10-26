@@ -1,0 +1,17 @@
+{
+ "i": 4315,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 30,
+  "page_to": 30
+ },
+ "ar": "الهاء والباء والعين: كلمة تدل على ضربٍ من المَشْى (٣).\nوهَبَع هبوعاً: مَشَى مَشْىَ حمارٍ بليد. ويقال هو مَدُّ العنُق فى المَشْى. والهُبَع: الفَصيل يُنْتَجُ حَمَارَّةَ القَيظ (٤)، سمِّى هُبَعاً لأنّه إذا مشى هَبَع، أى استعانَ بعُنُقه.",
+ "az": "[هبع] (hə-bə-ə): Hə, ba və eyn: bir növ yerişə dəlalət edən kəlmədir (٣).\nهَبَع هبوعاً (həbəə hubu-an): səfeh bir eşşəyin yerişi ilə yeridi. Deyilir ki, bu, yerərkən boyunu uzatmaqdır. الهُبَع (əl-hübəə): qızmar yayın şaxtalı vaxtında doğulan dəvə balasıdır (fəsil), ona هُبَع (hübəə) deyilmişdir, çünki yerərkən boynunun köməyi ilə هَبَع (həbəə) edir, yəni boynunu uzatmış olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

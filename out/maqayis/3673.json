@@ -1,0 +1,17 @@
+{
+ "i": 3673,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لسم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 246,
+  "page_to": 246
+ },
+ "ar": "اللام والسين والميم ليس بأصلٍ. يقولون في باب الإبدال:\nألْسَمْتُ الرّجُل الحُجّة: ألزَمْتُه إيّاها. وألْسَمْتُه الطّريقَ: ألزمتُه إيّاه.",
+ "az": "[لسم] (Ləsəmə) — Lam, sin və mim əsas deyil. İbdal (əvəzlənmə) بابında deyirlər: «ألْسَمْتُ الرّجُل الحُجّة» (əlsəmtur-raculəl-huccətə) — dəlili ona vacib etdim. Və «ألْسَمْتُه الطّريقَ» (əlsəmtut-tariqə) — yolu ona vacib etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

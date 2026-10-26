@@ -1,0 +1,17 @@
+{
+ "i": 3891,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مطل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "الميم والطاء واللام أصلٌ صحيح يدلُّ على مدِّ الشّيء وإطالته. ومَطَلْتُ الحديدةَ أمْطَلها مَطْلاً: مددتُها. والمَطْل في الحاجة والمماطَلَة في الحربِ مِنْه.",
+ "az": "«مطل» (mətəl) — mim, ta və lam hərfləri bir şeyi uzatmağa və dartmağa dəlalət edən səhih bir kökdür. Və مَطَلْتُ الحديدةَ أمْطَلهَا مَطْلاً (mətəltül-hədidə əmtəluhə mətlən) — dəmiri uzatdım, dartdım. Ehtiyacda edilən مَطْل (mətl) və müharibədəki مُمَاطلَة (mümatələt) də bundandır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

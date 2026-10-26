@@ -1,0 +1,17 @@
+{
+ "i": 3287,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 70,
+  "page_to": 70
+ },
+ "ar": "القاف والراء والسين أصلٌ صحيح يدلُّ على برد. من ذلك القَرْس: البَرد. وقَرِس الإنسانُ قَرَساً، إذا لم يستطع أن يعمل بيديه من شِدّة البَرد. قال أبو زُبَيد:\nوقد تَصَلَّيت حَرَّ حربهِمُ … كما تَصَلّى المقرورُ من قَرسِ\nيقال أقْرسَه البرد. ومما ليس من هذا الباب القُرَاسِية: الجملُ الضَّخم.",
+ "az": "[قرس] (قرس). القاف والراء والسين أصلٌ صحيح يدلُّ على برد (soyuğa dəlalət edən səhih kökdür). من ذلك القَرْس (min zəlikəl-qərs): البَرد (soyuq). وقَرِس الإنسانُ قَرَساً (və qərisəl-insanu qərəsən), إذا لم يستطع أن يعمل بيديه من شِدّة البَرد (şiddətli soyuqdan əlləri ilə işləyə bilmədikdə). قال أبو زُبَيد (Əbu Zübeyd dedi): وقد تَصَلَّيت حَرَّ حربهِمُ … كما تَصَلّى المقرورُ من قَرسِ (Soyuqdan donan kəsin soyuqdan isindikləri kimi, mən də onların müharibəsinin hərarətinə dözdüm). يقال أقْرَسَه البرد (deyilir: öqsərahul-bərd - soyuq onu dondurdu). ومما ليس من هذا الباب القُرَاسِية (və min mə ləysa min hədəl-babi əl-qurasiyyətu): الجملُ الضَّخم (iri dəvə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:34:58.103Z"
+}

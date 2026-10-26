@@ -1,0 +1,17 @@
+{
+ "i": 4287,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 22,
+  "page_to": 22
+ },
+ "ar": "الهاء والياء والألف كلمةٌ تأتى وهاؤها زائدة. يقال: هَيَا، والمرادُ: يا. قال الشاعر:\nفَيُصِيخُ يرجُو أنْ يكونَ حَياً … ويقولُ مِنْ طربٍ هَيَا ربَّا (١)",
+ "az": "[هيأ] (Həyə): Hə, ya və əlif gələn bir sözdür, hə hərfi artıqdır. Deyilir: هَيَا (həya), məqsəd isə «يا» (ya - nida hərfi) deməkdir. Şair demişdir:\n\nفَيُصِيخُ يرجُو أنْ يكونَ حَياً … ويقولُ مِنْ طربٍ هَيَا ربَّا (1)\n(Qulaq asır, ümid edir ki, o diri olsun… və vəcdindən «Ey Rəbbim!» deyir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4216,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 467,
+  "page_to": 467
+ },
+ "ar": "النون والقاف والحاء أصلٌ صحيح يدلُّ على تَنحِيَتِك شيئًا عن شيء. ونَقَّحت العصا (١): شَذَّبتُ عنها أُبَنَهَا. ومنه شِعرٌ مُنَقَّحٌ، أي مفتَّشٌ مُلقًى عنه ما لا يصلُح فيه. ونَقَحت (٢) العَظم: استخرجتُ مُخَّه.",
+ "az": "[نقح] Nun, qaf və ha bir şeyi başqa bir şeydən uzaqlaşdırmağına (təmizləməyə) dəlalət edən səhih bir əslir. ونَقَّحت العصا: dəyənəyin düyünlərini təmizlədim. Buradan şِعرٌ مُنَقَّحٌ (tənqid olunmuş, səliqəyə salınmış şeir) gəlir, yəni araşdırılmış, içindəki yararsız şeylər kənarlaşdırılmış şeir. ونَقَحت العَظم: sümüyün iliyini çıxardım.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:21.983Z"
+}

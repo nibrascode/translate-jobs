@@ -1,0 +1,17 @@
+{
+ "i": 3839,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 311,
+  "page_to": 311
+ },
+ "ar": "الميم والراء والشين. يقولون: المَرْش: خَرْق الجِلد بأطراف الأظافير. والمَرْش أيضًا: الخَدْش الخفيف. والمَرْشُ: الأرض تَسيلُ من أدنَى مطر.",
+ "az": "«مرş» (mim, ra və şin). Deyirlər: المَرْش (marş) — dırnaq ucları ilə dərini cırmaq. Həmçinin المَرْش (marş) — yüngül cızma. Və المَرْش (marş) — ən kiçik yağışdan belə suyu axıdan yer.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

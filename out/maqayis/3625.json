@@ -1,0 +1,17 @@
+{
+ "i": 3625,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لتخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 233,
+  "page_to": 233
+ },
+ "ar": "اللام والتاء والخاء. قال ابن دُريد: اللَّتْخ مِثل اللَّطخ (١).\nواللّه أعلم.",
+ "az": "«لتخ» (Lam, ta və xa). İbn Dürid demişdir: اللَّتْخ (əl-lətx) اللَّطْخ (əl-lətx - ləkələmək, bulaşdırmaq) kimidir. Allah daha bilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

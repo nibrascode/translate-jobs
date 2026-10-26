@@ -1,0 +1,17 @@
+{
+ "i": 3335,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قطم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 103,
+  "page_to": 104
+ },
+ "ar": "القاف والطاء والميم أصلٌ صحيح يدلُّ على قَطع الشيء، وعلى شهوة. فالقَطْع يعبَّر عنه بالقَطْم. يقولون: قَطَم الفصيلُ الحشيشَ بأدنى فمه يَقطِمه. وَقطَامِ: اسمٌ معدول، يقولون إنّه من القَطْم، وهو القَطْع.\nوأمَّا الشَّهوةُ فالقَطَم. والرَّجُل الشَّهوانُ اللَّحم قَطِم. والقُطَامِيُّ: الصَّقر، ولعلَّه سمِّي بذلك لحِرصه على اللحم. وفحلٌ قَطِم: مشَتهٍ للضِّراب.",
+ "az": "[قطم] (qət-əm): Qaf, ta və mim hərfləri tək, səhih bir kök olub, bir şeyin kəsilməsini və eyni zamanda ehtiras mənasını bildirir. Kəsmək feli «قطم» (qatəm) sözü ilə ifadə olunur. Deyirlər: «قطم الفصيل الحشيش بأدنى فمه يقطمه» (Südəmər balaca dəvə otu ağzının ucu ilə qopardı, qoparır). «قطامي» (Qətamim): dəyişdirilmiş xüsusi isimdir, deyirlər ki, o, «قطم» (qatəm) sözündəndir, bu da kəsmək deməkdir. Ehtirasa gəldikdə isə, bu, «القَطَم» (əl-qətəm) deməkdir. Əti çox istəyən kişi «رجل قطم» (qətim) adlanır. «القُطَامِيُّ» (əl-qudami): şahin quşudur, ehtimal ki, ətə olan hərisliyinə görə belə adlandırılmışdır. «فحل قطم» (qətim ayğır): cütləşməyə həris olan erkək heyvan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:04.684Z"
+}

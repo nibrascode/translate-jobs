@@ -1,0 +1,17 @@
+{
+ "i": 3208,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قنس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 31,
+  "page_to": 32
+ },
+ "ar": "القاف والنون والسين أُصَيْلٌ صحيحٌ يدلُّ على ثَبَاتِ شئ.\nمن ذلك: الِقَنس: مَنْبِتُ كلِّ شئٍ وأصلُه. قال:\n* فى قَنْسِ مجدٍ فاتَ كُلَّ قِنَسِ (٢) *\nقالوا: وكلُّ شئٍ ثَبَت فى شئٍ فذلك الشّئُ قِنْسٌ له. قالوا: والقَوْنَس فى البَيْضة: أعلاها. وقَوْنَسُ ناصيةِ الفَرَس: ما فَوقَها؛ وهى ثابتة. قال:\nاطرُدَ عَنْكَ الهُمُومَ طارِقَها … ضَرْبَكَ بالسَّيْفِ قَوْنَسَ الفَرَسِ (١)",
+ "az": "«قنس» — قاف، نun və sin hərfləri bir şeyin sabitliyinə dəlalət edən səhih kiçik bir kökdür.\nOndandır: «القِقَنس» (əl-qins) — hər bir şeyin bitdiyi yer və onun əslidir. Şair demişdir:\n...Hər bir qinsdən irəlidə olan ucalıq kökündə (qinsində).\nDedilər: Bir şeydə sabit olan hər bir şey onun üçün «قِنْسٌ» (qins) sayılır. Dedilər: Dəbilqənin üst hissəsi «القَوْنَس» (əl-qavnas) adlanır. Atın alnındakı saçın üst hissəsi də «قَوْنَسُ ناصيةِ الفَرَس» adlanır; o, sabitdir. Şair demişdir:\nGecə gələn narahatlıqları özündən uzaqlaşdır... atın qovnasını qılıncla vurduğun kimi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:04.973Z"
+}

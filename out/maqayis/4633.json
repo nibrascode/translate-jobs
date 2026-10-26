@@ -1,0 +1,17 @@
+{
+ "i": 4633,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وكت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 137,
+  "page_to": 137
+ },
+ "ar": "الواو والكاف والتاء: كلمة وهى الوَكتَة، كالنُّكْتة فى الشَّئ. ويقال للرُّطَبة إذا تَقَطَّعت: قد وَكَّتَتْ.",
+ "az": "[وكت] الواو والكاف والتاء: كلمة وهى الوَكتَة، كالنُّكْتة فى الشَّئ (vəva, kaf və ta: bir kəlmədir, o da şeydəki nöqtə kimi olan əl-vəktədir). ويقال للرُّطَبة إذا تَقَطَّعت: قد وَكَّتَتْ (və kəsilib parçalandıqda yaş xurmaya deyilir: qəd vəkkətə).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:51.702Z"
+}

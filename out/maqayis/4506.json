@@ -1,0 +1,17 @@
+{
+ "i": 4506,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ودك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 97,
+  "page_to": 97
+ },
+ "ar": "الواو والدال والكاف: كلمةٌ واحدة، هى الوَدَك، وهو معروف. ويقال دَجاجةٌ وَدِيكةٌ، أى سَمينة. ورجلٌ وادِكٌ: له وَدَكٌ.",
+ "az": "[ودك] (və-də-kə): Vov, dal və kaf hərfləri tək bir sözdür: الوَدَك (əl-vədək) – məlumdur. Deyilir: دَجاجةٌ وَدِيكةٌ (dəcəcətun vədikətun) – kök toyuq. ورجلٌ وادِكٌ (raculun vədikun) – piyə malikdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

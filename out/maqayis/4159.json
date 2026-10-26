@@ -1,0 +1,17 @@
+{
+ "i": 4159,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نطف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 440,
+  "page_to": 440
+ },
+ "ar": "النون والطاء والفاء أصلان * أحدهما جنسٌ من الحَلْي، والآخَر نُدُوَّة وبَلَل، ثم يستعار ويُتوسَّع فيه.\nفالأوَّل: النَّطَف. يقال هو اللُّؤلؤ، الواحدة نَطَفة (٣). ويقال: بل النَّطَفَ:\nالقِرَطَة.\nوالأصل الآخر النُّطْفة: الماء الصافي. وليلةٌ نَطوفٌ: مَطَرَتْ حتَّى الصبَّاح.\nوالنِّطَاف: العرَق. ثم يستعار هذا فيقال النَّطَف: التّلطُّخ. ولا يكاد يُقال إلا في القبيح والعَيب. ويقال نَطِفٌ، أي مَعِيب. ونَطِفَ الشَّيء: فَسَد.",
+ "az": "[نطف] (nun, ta və fa) – iki əsas kökə malikdir: *biri bəzək növü, digəri isə nəmlik və yaşlılıqdır, sonra bu məcazi olaraq genişləndirilir. Birincisi: النَّطَف (ən-natəf). Deyilir ki, o, mirvaridir, təkli نَطَفة (nətəfə) (٣) kimidir. Deyilir: əksinə, النَّطَف (ən-natəf) – sırğalardır. Digər kök isə: النُّطْفة (ən-nutfə) – saf su. ليلةٌ نَطوفٌ (ləylətün natuf) – səhərə qədər yağış yağdıran gecə. وَالنِّطَاف (ən-nitaf) – tər. Sonradan bu məcazi olaraq işlədilir və deyilir ki, النَّطَف (ən-natəf) – bulaşmaqdır. Bu, demək olar ki, yalnız pis və qüsurlu şeylər haqqında işlədilir. Deyilir: نَطِفٌ (nətif) – yəni qüsurludur. وَنَطِفَ الشَّيء (nətifə-ş-şey) – şey xarab oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3627,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لتأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 233,
+  "page_to": 233
+ },
+ "ar": "اللام والتاء والهمزة كلمةٌ إنْ صحت. يقولون: لَتَأَه بسهم، إذا رماه به. ولَتَأ المرأةَ: نَكَحها. فأمَّا التِي فمؤنث الذي. يقولون اللَّتَيَّا: الأمر العظيم، يقال وقع في اللَّتَيا والَّتِي. وهذا مما يقال إنَّ عِلْمَه دَرَج فلا يُعرَف له قياس.",
+ "az": "«لتأ» (Lam, ta və həmzə) əgər səhihdirsə, bir sözdür. Deyirlər: لَتَأَه بسهم (lətəəhu bisəhmin) — onu oxla vurdu. Və لَتَأ المرأةَ (lətəəl-mərəhə) — qadınla evləndi. Amma əgər اللَّتِي (əl-ləti) gələrsə, o, الذي (əl-ləzi) sözünün müənnəsidir. Deyirlər: اللَّتَيَّا (əl-lətəyə) — böyük işdir, deyilir: O, اللَّتَيا والَّتِي (əl-lətəyə vəl-ləti) (böyük müsibət və ya çətinlik) içinə düşdü. Bu, elmi itib-batmış və heç bir qiyas bilinməyən sözlərdəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

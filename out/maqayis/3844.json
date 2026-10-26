@@ -1,0 +1,17 @@
+{
+ "i": 3844,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 312,
+  "page_to": 312
+ },
+ "ar": "الميم والراء والغين أصلٌ صحيح يدلُّ على سَيَلانِ شيءٍ أو إسالة شيء. والمَرْغ: اللُّعاب. وأمْرَغ الإنسانُ: سال لعابُه. ومَرَّغْتُ الشَّيءَ:\nأشبعتُه دُهْنًا. والإمراغ في العَجين: أن يكثَّرَ ماؤُه. ويقولون: أمرَغَ: أكثَرَ الكلامَ في غيرِ صواب، كأنَّه يُسِيلهُ إسالة. ويقال أمْرَغَ عِرْضَه ومَرَّغه، كأنه لَطَخه وأسال عليه قيحاً.\nوقريبٌ من هذا القياس مرَّغتُه في التُّراب فتمرّغ، أي قلَّبته فتقلَّبَ.",
+ "az": "«مرغ» (marğ) — mim, ra və ğayn hərflərindən ibarət səhih bir kök olub bir şeyin axmasına və ya bir şeyi axıtmağa dəlalət edir. اَلمَرْغ (al-marğ): tüpürcək. اَْمْرَغَ الإِنْسَانُ (amrağa al-insan): insanın tüpürcəyi axdı. مَرَّغْتُ الشَّيْءَ (marrəğtu aş-şay'ə): onu yağla doyurdum. اَلإِمْرَagh (al-imrağ) xəmirdə: suyunun çoxaldılmasıdır. Deyirlər ki, أَمْرَغَ (amrağa): haqsız yerə çox danışdı, elə bil sözü axıdırdı. Həmçinin deyilir: أَمْرَغَ عِرْضَهُ (amrağa 'irdahu) və مَرَّغَهُ (marrəğahu), elə bil onu buladı və üzərinə irin axıtdı. Bu qaydaya yaxındır: مَرَّغْتُهُ فِي التُّرَابِ فَتَمَرَّغَ (marrəğtuhu fi at-turabi fatamarrağa) — yəni onu torpaqda yuvarladım, o da yuvarlandı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.070Z"
+}

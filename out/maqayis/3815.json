@@ -1,0 +1,17 @@
+{
+ "i": 3815,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مخر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 303,
+  "page_to": 304
+ },
+ "ar": "الميم والخاء والراء أصلٌ يدل على شَقٍّ وفَتْح. يقال مَخَرت السّفينةُ الماءَ مخراً: شَقَّته. قال الراجز في نساء يختصمن ويستعنَّ بأيديهنّ، كما يفعل السَّابح:\n* مقدِّمات أيدِىَ المَوَاخِرِ (٢) *\nويقال: مَخَرْتُ الأرضَ، إذا أرسلْتَ فيها الماء. ويقال استمخَرْتُ الرِّيحَ، إذا استقبلتَها بأنفِك. وقياسُه صحيح، كأنَّك تشقُّ الرِّيح بأنفك. وقولهم:\nامتخَرْتُ القومَ، إذا انتقَيْتَ خِيارَهم، كأنَّه شقَّ النّاس إليه حتَّى انتخَبَه. قال:\n* من نُخْبةِ النّاسِ التي كان * امتخَرْ (٣) *\nومما شذَّ عن هذا الباب اليَمخُور: الرَّجل الطَّويل. فأما بناتُ مخْرٍ فهي\nسحابٌ تنشأ في الصَّيف، وليس من الباب، لأنَّه من الإبدال والأصل الباء «بَخْرٌ»، وقد مرَّ.",
+ "az": "[مخر] (Mim, xə və ra): Yarılmağa və açılmağa dəlalət edən bir əsldir. Deyilir: «مَخَرت السّفينةُ الماءَ مخراً» (məhəratis-səfinətül-məə məxrən): gəmi suyu yarıb irəlilədi. Racə (vəzni ilə şeir oxuyan şair) su üzərində üzgüçü kimi əlləri ilə hərəkət edərək mübahisə edən qadınlar haqqında demişdir:\n* مقدِّمات أيدِىَ المَوَاخِرِ (٢) *\nVə deyirlər: «مَخَرْتُ الأرضَ» (məhərtül-ardə) – yerin içərisinə su buraxdın. Həmçinin deyilir: «استمخَرْتُ الرِّيحَ» (istəmhərtül-rihə) – burnunu küləyə verib onu qarşıladın. Bunun qiyası səhihdir, sanki burnunla küləyi yarırsan. Və onların «امتخَرْتُ القومَ» (imtəhərtül-qavmə) sözü – onların seçkinlərini, xeyirlilərini seçdin deməkdir, sanki insanları yarıb aralarından seçib götürmüşdür. Şair demişdir:\n* من نُخْبەِ النّاسِ التي كان * امتخَرْ (٣) *\nBu babdan şaz olan söz «المخوُر» (əl-məxur) – uzunboylu kişi deməkdir. «بنات مخْرٍ» (bənatü məhrin)-ə gəldikdə isə, bunlar yay aylarında əmələ gələn buludlardır, bu, babdan deyil, çünki bu hərf dəyişməsidir (ibdal), əsli isə «بَخْرٌ» (bəxr)-dür ki, artıq keçmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

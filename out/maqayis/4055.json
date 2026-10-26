@@ -1,0 +1,17 @@
+{
+ "i": 4055,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 391,
+  "page_to": 391
+ },
+ "ar": "النون والجيم والخاء كلمةٌ تدل على حكايةِ صوت. يقال:\nسمعت نَجِيخَ الماء وناجِخَتَه: صَوْتَه. والنُّجَاخ (١): صوت السَّاعل. ومنْجِخ (٢):\nموضع.",
+ "az": "«نجخ» (nəcəx) — Nun, cim və xa hərfləri səsin təqlid edilməsinə dəlalət edən bir kəlmədir. Deyilir: سمعت نَجِيخَ الماء وناجِخَتَه (suyun qaynayıb çıxarkən çıxardığı səsi eşitdim). وَالنُّجَاخ (nücax): öskürən adamın səsi. وَمِنْجِخ (mincix): bir yer adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

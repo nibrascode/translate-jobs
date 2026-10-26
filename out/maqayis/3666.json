@@ -1,0 +1,17 @@
+{
+ "i": 3666,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لزك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 244,
+  "page_to": 245
+ },
+ "ar": "اللام والزاء والكاف (٤)] ليس هو عندي بشيء. على أنّهم\nيقولون: لزِك (١) الجُرح، إذا استوَى نباتُ لحمِهِ ولم (٢) يبرأْ. وهذا لا يشبهُ كلامَ العرب.",
+ "az": "[لزك] (Ləzəkə) — Lam, zai və kaf (٤)] mənə görə heç bir şey deyil. Lakin onlar deyirlər: «لزِك الجُرح» (ləzikəl-curhu) — yaranın ətinin bitməsi düzəldi, lakin tam sağalmadı (٢). Bu isə ərəblərin kəlamına bənzəmir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

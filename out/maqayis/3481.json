@@ -1,0 +1,17 @@
+{
+ "i": 3481,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كدس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 164,
+  "page_to": 165
+ },
+ "ar": "الكاف والدال والسين ثلاثُ كلماتٍ لا يشبه بعضها بعضاً. فالأولى: كُدْس الطَّعام. والثانية التكَدُّس، وهو مَشْيُ الفَرَس كأنّه مُثقَل. قال:\nوخيل تَكَدَّسُ بالدارِعِينَ … كمشي الوُعول على الظاهِره (١)\nوالثالثة: الكوادس: ما تَطَيَّرُ منه، كالفأل والعُطاسِ ونحوِه. قال:\n* ولم تحبِسك عَنِّى الكَوَادِسُ (٢) *",
+ "az": "[كدس] (Kəf, Dal, Sin) bir-birinə bənzəməyən üç kəlmədir. Birincisi «كُدْس الطعام» (yemək yığını). İkincisi «التكدس» (atın ağır bir şəkildə yeriməsi). Şair demişdir: «وخيل تكدس بالدارعين ... كمشي الوعول على الظاهره» (١) (Zirehlilərlə ağır-ağır yeriyən atlar ... dağ keçilərinin düzənlikdə yeriməsi kimi). Üçüncüsü «الكوادس» (uğursuz sayılan şeylər, məsələn, fal və asqırmaq kimi). Şair demişdir: * «ولم تحبسك عني الكوادس» (٢) (Uğursuz sayılan şeylər səni məndən saxlamadı).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

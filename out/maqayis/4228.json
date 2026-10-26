@@ -1,0 +1,17 @@
+{
+ "i": 4228,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 473,
+  "page_to": 474
+ },
+ "ar": "النون والكاف واللام أصلٌ يدلُّ صحيح على مَنعٍ وامتناع، وإليه يرجع فروعه. ونَكَل عنه نُكولاً يَنكِل. وأصل ذلك النِّكْل: القَيْد، وجمعه أنكال، لأنَّه يَنْكُل: أى يَمنَع. والنِّكْل: حديدة اللِّجام. وهو ناكلٌ عن الأمور: ضعيفٌ عنها. وقال ابن دُريد: رماه [اللّهُ بنُكْلِهِ وبِنُكلَةٍ، أي رماه بما (٢)] ينكِّله.\nومن الباب نَكَّلْت به تنكيلاً، ونَكَّلت به نَكالاً، وهو ذلك القياس، ومعناه أنه فَعَل به ما يَمنعُه من المعاودة ويمنع غيرَه من إتيانِ مثلِ صَنيعِه. وهذا أجْوَدُ الوجهين. ويقال: المَنْكَل: الشّيء الذي ينكِّل بالإنسان. قال:\n* وارْمِ عَلَى أقفائِهِمْ بمَنْكَلِ (٣) *\nفأمَّا\nالحديث: «إنّ اللّه تعالى يحبُّ النَّكَلَ على النَّكَل». فإنَّ تفسيره في الحديث أنَّه الرّجل القوىُّ المجرَّب، على الفرس القوىّ المجرَّب. وهذا للتَّفسير الذي جاء فيه، وليس هو من الأصل الذي ذكرناه.",
+ "az": "[نكل] النون والكاف واللام (n, k, l) səhih bir kök olub qadağan etməyi və çəkinməyi bildirir, budaqları da buna qayıdır. «نَكَل عنه نُكولاً يَنكِل» – ondan çəkindi, qorxdu. Bunun əsli «النِّكْل» – buxovdur, cəmi «أنكال» gəlir, çünki o, [hərəkəti] əngəlləyir. «النِّكْل» – yüyənin dəmir hissəsidir. O, işlərdən «ناكلٌ» (çəkinən, zəif)dir. İbn Dürid demişdir: «رماه [اللّهُ بنُكْلِهِ وبِنُكلَةٍ، أي رماه بما] ينكِّله» (Allah onu öz buxovu ilə və ya çəkindirici bir bəla ilə vursun, yəni onu çəkindirəcək şeylə vursun). Bu babdan: «نَكَّلْت به تنكيلاً» və «نَكَّلت به نَقالاً» – bu da həmin qaydadandır, mənası budur ki, ona elə bir əməl etdi ki, bu, onu bir daha belə etməkdən və başqalarını da belə bir əməl törətməkdən çəkindirər. Bu, iki tərəfdən ən gözəl izahdır. Deyilir: «المَنْكَل» – insanı çəkindirən şeydir. Şair demişdir: * وارْمِ عَلَى أقفائِهِمْ بمَنْكَلِ * (Ənsərtərəflərinə çəkindirici bir şey at). Hədisə gəlincə: «إنّ اللّه تعالى يحبُّ النَّكَلَ على النَّكَل» (Şübhəsiz ki, Uca Allah güclü at üstündəki güclü və təcrübəli kişini sevir). Hədisdəki izahına görə bu, güclü və təcrübəli at üzərindəki güclü və təcrübəli kişidir. Bu, orada gələn izah üçündür, yoxsa yuxarıda zikr etdiyimiz kökdən deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:43.035Z"
+}

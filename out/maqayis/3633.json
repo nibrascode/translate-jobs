@@ -1,0 +1,17 @@
+{
+ "i": 3633,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لجح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 235,
+  "page_to": 235
+ },
+ "ar": "اللام والجيم والحاء كلمة. يقولون: اللُّجْح: مكانٌ منخفِض في الوادي.",
+ "az": "[لجح] (ləcəh) — lam, cim və ha bir sözdür. Deyirlər: اّللُّجْح (əllüc,h) — dərədə alçaq yer.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

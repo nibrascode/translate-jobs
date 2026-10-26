@@ -1,0 +1,17 @@
+{
+ "i": 3925,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مقس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 342,
+  "page_to": 342
+ },
+ "ar": "الميم والقاف والسين كلمةٌ واحدة. يقال مَقِسَتْ نفسُه:\nغَثَت وتمقَّستْ * أيضاً. قال:\n* نَفْسِي تَمقَّسُ عن سُمَانَى الأقْبُرِ (٤) *",
+ "az": "[مقس] \nMim, qaf və sin — tək bir kəlmədir. Deyilir: مَقِسَتْ نفسُه (maqisat nəfsuhu) — ürəyi bulandı və həmçinin تمقَّستْ (təmaqqasat) [dedilər]. Şair demişdir:\n* نَفْسِي تَمقَّسُ عن سُمَانَى الأقْبُرِ (٤) *\n(* Qəbristanlıq bildirlərinin ətindən ürəyim bulanır *)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

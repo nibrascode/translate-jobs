@@ -1,0 +1,17 @@
+{
+ "i": 4677,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 151,
+  "page_to": 152
+ },
+ "ar": "الياء والدال: أصلُ بناء اليَدِ للإنسانِ وغيره، ويستعار فى المِنَّة فيقال: له عليه يدٌ. ويجمع على الأيادى واليُدِىّ. قال:\n* فإنَّ له عندى يُدِيًّا وأنْعُمَا (١) *\nواليَدُ: القُوَّة، ويجمع على الأيدى. وتصغير اليد يُدَيَّة. وجَمَع ناسٌ يدَ الإنسان على الأيادِى، فقال:\nساءَهَا ما تأمَّلَتْ فى أيادي … نا وإشناقُها إلى الأعناق (٢)\nوحكى الشيبانىُّ امرأة يَدِيَّةٌ، أى صَنَاع، ورجلٌ يَدِىٌّ. وما أَيْدَى فُلَانَةَ.\nويَدِىَ مِنْ يَدِه يُدَعى عليه. ويَدَبْتُ على الرجُل: مَنَنْتُ عليه. قال:\nيَدَيتُ على ابنِ حسحاسِ بن عمرٍو … بأسفَلِ ذى الْجَدَاةِ يَدَ الكريمِ (١)\nويَدَيْتُه: ضَربتُ يدَه.",
+ "az": "[يد] Ya və Dal: İnsanın və başqalarının əlinin binasının əslidir. Nemət mənasında məcazi olaraq işlədilir, məsələn, deyilir: لَهُ عَلَيْهِ يَدٌ (Onun üzərində minnəti, yaxşılığı var). أَيَادٍ (əyad) və يُدِيّ (yudiyy) formasında cəmlənir. Şair demişdir: * فَإِنَّ لَهُ عِنْدِي يُدِيًّا وَأَنْعُمَا (1) * (Çünki mənim yanımda onun yaxşılıqları və nemətləri vardır). وَالْيَدُ (əl-yədu): güc, qüvvət mənasındadır, أَيْدِي (əydi) formasında cəmlənir. Əl sözünün kiçiltmə forması يُدَيَّة (yudəyyə) kimidir. Bəzi insanlar insanın əlini أَيَادِي (əyadi) formasında cəmləmiş və demişlər: سَاءَهَا مَا تَأَمَّلَتْ فِي أَيَادِي … نَا وَإِشْنَاقُهَا إِلَى الْأَعْنَاقِ (2) (Bizim yaxşılıqlarımızda düşündükləri və boyunlarını uzatmaları onu kədərləndirdi). Şeybani rəvayət etmişdir ki, امْرَأَةٌ يَدِيَّةٌ (bacarıqlı qadın) — yəni sənətkar, və رَجُلٌ يَدِيٌّ (bacarıqlı kişi) deməkdir. وَمَا أَيْدَى فُلَانَةَ! (Filankəs nə qədər bacarıqlıdır!). وَيَدِيَ مِنْ يَدِهِ يُدَعَى عَلَيْهِ (Onun əlindən əl çəkdi, ona qarşı iddia qaldırıldı). وَيَدَبْتُ عَلَى الرَّجُل (Kişiyə minnət qoydum). Şair demişdir: يَدَيْتُ عَلَى ابْنِ حَسْحَاسِ بْنِ عَمْرٍو … بِأسْفَلِ ذِي الْجَدَاةِ يَدَ الْكَرِيمِ (1) (Həshas ibn Əmrin oğluna Cədatın aşağı hissəsində səxavətli adamın əli ilə yaxşılıq etdim). وَيَدَيْتُهُ (Onun əlini vurdum).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

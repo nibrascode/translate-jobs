@@ -1,0 +1,17 @@
+{
+ "i": 3864,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مسك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 320,
+  "page_to": 321
+ },
+ "ar": "الميم والسين والكاف أصلٌ واحد صحيح يدلُّ على حَبْس الشيء أو تحبُّسه. والبَخِيل مُمسِكٌ. والإمساك: البُخْل؛ وكذا المَسَاك والمِسَاك (٤) والمَسِيك (٥): البخيلُ أيضاً ورجل مُسَكةٌ، إذا كان لا يَعلَق بشيءٍ فيتخلَّص منه.\nوالمَسَك: السِّوار من الذَّبْل، لاستمساكِهِ باليدِ، الواحدةُ مَسَكة: قال:\nترى العَبَسَ الحولىَّ جَوناً بكُوعِها … لها مَسَكاً من غير عاج ولا ذَبْلِ (١)\nوالمَسَكَة من البِئر: المكان الصُّلب الذي لا يحتاج إلى طَىّ. وهو القياس، لأنَّه متماسِك. والمَسْك: الإهاب، لأنَّهُ يُمسَك فيه الشَّيءُ إذا جُعِل سِقَاء.\nومما شذَّ عنه المِسْك من الطيب.",
+ "az": "[مسك] (Məsək) Mim, sin və kaf hərfləri bir səhih əsl olub, bir şeyi saxlamağa və ya saxlanmağa dəlalət edir. Xəsis adama مُمْسِكٌ (mumsik) deyilir. İmsak — xəsislikdir; həmçinin əl-məsək (المَسَك), əl-misək (المِسَاك) (4) və əl-məsik (المَسِيك) (5) də xəsis deməkdir. Müsəkətün (مُسَكة) — elə kişidir ki, bir şeyə yapışmaz ki, ondan qurtulsun. Əl-məsək (المَسَك) — tısbağa qabığından (الذَّبْل) olan qolbaqdır, əldə möhkəm durduğuna görə belə adlanır; təkliyi مَسَكَة (məsəkət) formsındadır. Şair demişdir: ترى العَبَسَ الحولىَّ جَوناً بكُوعِها … لها مَسَكاً من غير عاج ولا ذَبْلِ (1) (Bileyində birillik qara Əbəs sürüsünü görürsən... onun fil sümüyündən və tısbağa qabığından olmayan qolbağı vardır). Quyunun məsəkəti (المَسَكَة) — daş və ya kərpic düzməyə (hörməyə) ehtiyac olmayan bərk yeridir. Ölçü budur, çünki o, bir-birinə möhkəm yapışıb. Əl-məsk (المَسْك) — dəri (heyvan dərisi), çünki tuluq edildikdə içində bir şey saxlanılır. Buna tabe olmayan (şaz olan) söz isə ətirdən olan əl-miskdir (المِسْك).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3097,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فرز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 485,
+  "page_to": 485
+ },
+ "ar": "الفاء والراء والزاء أُصَيْلٌ يدل على عَزْل الشئ عن غيره.\nيقال: فرَزْت الشئَ فرْزاً، وهو مفروز، والقِطعة فَرْزة (٣).",
+ "az": "[فرز] (fərz). Fə, ra və zay hərflərindən ibarət kiçik bir kök olub bir şeyi başqasından ayırmağa dəlalət edir. Deyilir: فرَزْت الشئَ فرْzاً (şeyi ayırdım), o, مفروز (seçilmiş, ayrılmış)dur, hissə isə فَرْزة (fərzə) adlanır (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:44.131Z"
+}

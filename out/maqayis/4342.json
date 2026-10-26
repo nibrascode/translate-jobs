@@ -1,0 +1,17 @@
+{
+ "i": 4342,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 41,
+  "page_to": 42
+ },
+ "ar": "الهاء والدال والنون: أُصَيلٌ يدلُّ على سكونٍ واستقامة.\nسمعت أبا الحسن علىَّ بنَ إبراهيمَ القَطّانَ يقول: سمعت ثعلباً يقول: تهادَنَ الأمر:\nاستقام. وقال غيره: ومنه قياس الهُدْنة.\nومن الباب الرجل الهَدَان: الخاملُ لا حَرَاك به. قال:\nولا يَرعَوْن أكنافَ الهُوَينَى … إذا حَلُّوا ولا أرضَ الهُدُونِ (١)\nوهَدَّنَت المرأةُ صبِيَّها بكلامها، إذا أرادت أن يَرقد (٢). والتَّهدين: البُطء، وهو قياس الباب.",
+ "az": "[هدن] (hə-də-nə): Hə, dal və nun – sükunətə və düzgünlüyə dəlalət edən kiçik bir əsasdır.\nƏbu əl-Həsən Əli ibn İbrahim əl-Qəttanın belə dediyini eşitdim: Səsləbin belə dediyini eşitdim: تهادَنَ الأمر (İş səngidi, düzəldi). Başqası isə demişdir: Hüdnənin (barışğın) ölçüsü də buradan götürülmüşdür.\nBu fəsildəndir: الرجل الهَدَان (əl-hədən kişi) – heç bir hərəkəti olmayan, zəif və miskin. Şair demişdir:\nولا يَرعَوْن أكنافَ الهُوَينَى … إذا حَلُّوا ولا أرضَ الهُدُونِ (١)\n(Onlar düşərgə salanda nə səhlənkarlığın ətrafını qoruyarlar, nə də sükunət torpağını).\nQadın öz danışığı ilə uşağını yatırmaq istədikdə: وهَدَّنَت المرأةُ صبِيَّها (Uşağı sakitləşdirdi). والتَّهدين (əl-təhdin) – yavaşlıq deməkdir, bu da bu fəslin əsas ölçüsüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

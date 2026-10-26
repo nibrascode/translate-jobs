@@ -1,0 +1,17 @@
+{
+ "i": 3957,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 354,
+  "page_to": 355
+ },
+ "ar": "النون والخاء أصل صحيح، غير أنّه مختلف في تأويله، وهو النُّخَّة\nفي حديث النبىّ ﵌: «ليس في الجبهة ولا في النُّخَّة صدقه (٣)». قالوا النّخّة: الرّقيق. وقال الفرّاء: النخّة أن يأخذ المصدِّق دينارا بعد فَراغه من الصّدقة لنفسه. واللّفظ لا يقتضي هذا، ولعلّ لفظ الذي رواه الفراء:\n«ولا نَخّة (٤)» وأنشد:\nعمِّي الذي منع الدّينار ضاحية … دينار نَخَّة كلب وهو مشهود (١)\nويقال النخَّة: الحمير، وهي بفتح النون وضمها. وقال أبو بكر (٢): تَنَخْنَخ البعيرُ: بَرك ثم مكَّن لثفنانه في الأرض.",
+ "az": "[نخ] Nun və xa - səhih kökdür, lakin yozumunda ixtilaf edilmişdir. O da Peyğəmbərin ﵌ hədisindəki «النُّخَّة» kəlməsidir: «ليس في الجبهة ولا في النُّخَّة صدقه (٣)» (Alın səcdəsində və nühxədə sədəqə yoxdur). Dedilər ki, «نخّة» — kölələrdir (rəqiq). Fəra isə demişdir: «نخّة» — zəkat yığanın zəkatı bitirdikdən sonra özü üçün bir dinar götürməsidir. Lakin ləfz bunu tələb etmir. Bəlkə də Fəranın rəvayət etdiyi ləfz belədir: «ولا نَخّة (٤)», və bu beyti dəlil gətirmişdir:\n«عمِّي الذي منع الدّينار ضاحية … دينار نَخَّة كلب وهو مشهود (١)»\n(Əmim o kəsdir ki, açıq-aşkar diniarı qadağan etdi... Kəlb qəbiləsinin naxqə dinarını, halbuki bu şahidlidir).\nVə deyilir ki, «النخَّة» — eşşəklərdir,nun hərfinin fəthi və zəmməsi ilə. Əbu Bəkr (٢) demişdir: «تَنَخْنَخ البعيرُ» — dəvə çökdü, sonra sinəsini (döşünü) yerə bərkitdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

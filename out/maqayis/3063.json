@@ -1,0 +1,17 @@
+{
+ "i": 3063,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فثر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 475,
+  "page_to": 475
+ },
+ "ar": "الفاء والثاء والراء كلمةٌ واحدة، وهى الفاثور، وهو الخُوان يُتَّخَذ من رَخام أو نحوه. ويقولون فى بعض الكلام: هم على فاثورٍ واحد، كأنّه أراد بساطاً واحداً.",
+ "az": "[فثر] (f-s-r): Fə, sa və ra hərflərindən ibarət tək bir sözdür, o da «الفاثور» (fasur) olub, mərmərdən və ya başqa materialdan düzəldilən süfrədir (və ya qabdır). Bəzi kəlamlarda deyirlər: «هم على فاثورٍ واحد» (onlar bir fasur üzərindədirlər), sanki o, bir döşək (və ya süfrə) nəzərdə tutmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.162Z"
+}

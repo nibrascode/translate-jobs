@@ -1,0 +1,17 @@
+{
+ "i": 3945,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ملط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 350,
+  "page_to": 351
+ },
+ "ar": "الميم واللام والطاء أُصيلٌ يدلُّ على تسويةِ شيءٍ وتسطيحه\nوملَّطت الحائطَ بالمِلاط أُملِّطه تمليطاً: طيَّنته وسوّيْتُه والمِلاطان: الجَنْبان، كأنَّهما مُلِطا مَلْطًا. وابنا مِلَاطٍ: العضدان. والأمْلَط: الذي لا شَعْرَ عليه.\nويقاس على هذا فيُقال للرّجُل القليل الخيرِ المتمرِّد: ملْطٌ. قال أبو بكر (١):\nوكلُّ شيء ملّطته فهو مِلاطٌ.",
+ "az": "«ملط» — الميم واللام والطاء (mim, lam və tı) bir şeyi səliqəyə salmağa və düzləşdirməyə dəlalət edən kiçik bir əsldir. «ملَّطت الحائط بالملاط أُمَلِّطه تمليطاً» — divarı suvaqla suvadım və hamarladım. «الملاطان» — iki böyür, sanki onlar bütöv suvanmışdır. «ابنا مِلَاط» — iki çiyin. «الأملط» — tۈksüz olan.\nBuna əsasən qiyas edilir və azxeyirli, azğın kişiyə «ملط» deyilir. Əbu Bəkr (١) demişdir: suvadığın hər bir şey suvaqdır (ملاط).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:03.921Z"
+}

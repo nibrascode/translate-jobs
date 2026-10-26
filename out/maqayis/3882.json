@@ -1,0 +1,17 @@
+{
+ "i": 3882,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مصت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 328,
+  "page_to": 328
+ },
+ "ar": "الميم والصاد والتاء. ذكر ابنُ دريدٍ (٤) المصت مثل المَصْد: الجِماع، سواء.",
+ "az": "«مصت» (məsət) — mim, sad və ta hərfləri. İbn Dürid (4) Məsət sözünü Məsd sözü kimi qeyd etmişdir: cinsi əlaqə deməkdir, eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

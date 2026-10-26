@@ -1,0 +1,17 @@
+{
+ "i": 4552,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 113,
+  "page_to": 113
+ },
+ "ar": "الواو والشين والكاف: كلمةٌ واحدة هى من السُّرعة.\nوأوشَكَ فلانٌ خروجاً: أسْرَعَ وعَجِل. ووُشْكَانَ (١) ما كان ذلك، فى معنى عَجْلان. وأمرٌ وشِيكٌ. وأوْشَكَ يُوشِك.\nسمعت أحمد بن طاَهر بن النَّجْم (٢) يقول: [سمعت ثعلباً يقول (٣)]: أوْشَكَ يُوشِك لا غير (٤). قال ابن السِّكِّيت: وَاشَكَ وِشاكا (٥): أسرعَ السَّيرَ.",
+ "az": "«وشك» الواو والشين والكاف (vav, şin və kaf): sürət mənasında tək bir kəlmədir. وأوشَكَ فلانٌ خروجاً (əvşəkə fülənün hurucən) - filankəs çıxmağa tələsdi. وُشْكَانَ (vüşkən) - tez demək olub, عَجْلان (tələsik) mənasındadır. أمرٌ وشِيكٌ (əmrun vəşykün) - tez olan iş. أوْشَكَ يُوشِك (əvşəkə yüûşiku). Əhməd ibn Tahir ibn ən-Nəcmin (٢) belə dediyini eşitdim: [Mən Səsləbin belə dediyini eşitdim (٣)]: أَوْشَكَ يُوشِكdən başqa deyilməz (٤). İbn əs-Sikkit demişdir: وَاشَكَ وِشاكا (vəşəkə vişākən) - səfərdə tələsdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:16.608Z"
+}

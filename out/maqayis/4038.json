@@ -1,0 +1,17 @@
+{
+ "i": 4038,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 384,
+  "page_to": 385
+ },
+ "ar": "النون والباء والحرف المعتلُّ أصلٌ صحيح يدلُّ على ارتفاعٍ في الشيء عن غَيره أو تَنحٍّ عنه. [نبا بصرُه عن الشيء (٥)] ينبو. ونبا السيف عن الضّريبة: تجافَى ولم يَمضِ فيها. ونبا به مَنزِلُه: لم يوافِقْه، وكذا فِراشه. ويقال نَبَا جنْبُه عن الفِراش. قال:\nإنَّ جَنْبِي عن الفراشِ لَنَابِ … كتَجافِي الأسَرِّ فوقَ الظِّرابِ (٦)\nويقال إنّ النبيَّ ﵌ اسمُه من النَّبْوة، وهو الارتفاع، كأنَّه مفضّل على سائر الناس برَفْع منزلته. ويقولون: النَّبِيّ: الطريق. قال:\nلأصْبَحَ رتماً دُقاقَ الحَصَى … مكانَ النَّبِيّ من الكاثِبِ (١)",
+ "az": "[نبو] (nəbu): Nun, ba və mütəəllif (zəif) hərf – bir şeyin digərindən uca olub ondan çəkinməsinə və ya uzaqlaşmasına dəlalət edən səhih bir kökdür. «[نبا بصرُه عن الشيء]» (nəbə basuruhu anis-şəyi) – o, uzaqlaşır. «نبا السيف عن الضّريبة» (nəbəb-səyfu anis-daribət: qılınc zərbədən uzaqlaşdı və içindən keçmədi. «نبا به مَنزِلُه» (nəbə bihi mənzilluhu): ev ona uyğun gəlmədi, döşəyi də həmçinin. Deyilir ki, böyrü döşəkdən uzaqlaşdı. Belə demişdir:\nإنَّ جَنْبِي عن الفراشِ لَنَابِ … كتَجافِي الأسَرِّ فوقَ الظِّرابِ (٦)\n(Həqiqətən, mənim böyrüm döşəkdən uzaqlaşır... Təpələr üzərindəki uca taxtın uzaqlaşdığı kimi)\nDeyilir ki, Peyğəmbərin ﵌ adı «النَّبْوة» (ən-nəbvə) sözündəndir ki, bu da ucalıq deməkdir, sanki o, digər insanlardan məqamının ucalığı ilə üstün tutulmuşdur. Deyirlər ki, «النَّبِيّ» (ən-nabiy): yol deməkdir. Belə demişdir:\nلأصْبَحَ رتماً دُقاقَ الحَصَى … مكانَ النَّبِيّ من الكاثِبِ (١)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

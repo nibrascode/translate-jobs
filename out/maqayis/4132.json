@@ -1,0 +1,17 @@
+{
+ "i": 4132,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 428,
+  "page_to": 428
+ },
+ "ar": "النون والشين والقاف أصلٌ صحيح يدلُّ على نُشوب شيء.\nونَشِقَ الظَّبْيُ في الحِبالةِ: عَلِق فيها والنَّشقة: حبلٌ يُجعَل في أعناق البَهْم، ويقال هي النُّشْقة (١). ورجل نَشِقٌ، إذا وقَعَ في أمرٍ لا يكاد يخلُص منه.\nومن الباب: أنشَقْتُ الصبِىَّ الدَّوَاءَ: صببتُه في أنْفِه. والنَّشُوق: اسمٌ لكلِّ دواء يُنْشَق. ومنه استنشقت الرِّيح: تشمَّمتُها. وهذه ريحٌ مكروهة النَّشَق، أي الشَّمّ. والمتوضِّئ يستنشق الماء، عند استنثاره.",
+ "az": "«نشق» (ن ش ق): النون, Şin və Qaf bir şeyin tutunub qalmasına (nüşub) dəlalət edən səhih bir kökdür. «نَشِقَ الظَّبْيُ في الحِبالةِ» (nəşiqə əz-zəbyü fi əl-hibaləti): ceyran torun ipinə dolaşdı. «النَّشقة» (nəşqə): quzuların boyunlarına taxılan ipdir, buna «النُّشْقَة» (nuşqə) də deyilir (١). «رجل نَشِقٌ» (rəcülün nəşiqün): elə bir işə düşmüş adamdır ki, az qala ondan qurtula bilmir. Bu babdandır: «أنْشَقْتُ الصبِىَّ الدَّوَاءَ» (ənşəqtu əs-səbiyyə əd-dəvəə): dərmanı uşağın burnuna tökdüm. «النَّشُوق» (nəşuq): buruna çəkilən hər bir dərmanın adıdır. Həmçinin «استنشقت الرِّيح» (istənşəqtu əd-rih): qoxusunu içimə çəkdim, iylədim. Bu, «النَّشَق» (nəşəq), yəni iyləmə baxımından xoşagəlməz bir küləkdir. Dəstəmaz alan şəxs suyun artığını burnundan xaric edərkən (istinsar zamanı) suyu burnuna çəkir (istənşəqu əl-mae).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.782Z"
+}

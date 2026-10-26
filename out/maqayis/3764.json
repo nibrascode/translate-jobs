@@ -1,0 +1,17 @@
+{
+ "i": 3764,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "موق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 285,
+  "page_to": 285
+ },
+ "ar": "الميم والواو والقاف كلمتانِ لا يرجعان إلى أصلٍ واحد. والمُوق:\nحُمقٌ في غَباوة. ويقولون: ماقَ البَيعُ يَمُوق: رَخُصَ.",
+ "az": "[موق] (M-v-q): Mim, vau və qaf tək bir əsərə qayıtmayan iki kəlmədir. والمُوق (əl-muq): səfehliklə qarışıq kütlük. Və deyirlər: ماقَ البَيعُ يَمُوق (maqəl-bəyü yamucu): alver ucuzlaşdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

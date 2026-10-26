@@ -1,0 +1,17 @@
+{
+ "i": 3614,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لبث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 228,
+  "page_to": 228
+ },
+ "ar": "اللام والباء والثاء حرفٌ يدلُّ على تمكُّث. يقال: لَبِثَ بالمكان: أقام. قال اللّه تعالى: ﴿لَمْ يَلْبَثُوا إِلّا ساعَةً مِنْ نَهارٍ﴾.",
+ "az": "«لبث» (Lam, ba və sə) bir hərflər qrupudur ki, bir yerdə qalmağa, ləngiməyə dəlalət edir. Deyilir: لَبِثَ بالمكان (ləbisə bil-məkan) — orada qaldı. Uca Allah buyurmuşdur: mənaca tərcümə: «Sanki gündüzün bir saatından başqa qalmamışlar».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

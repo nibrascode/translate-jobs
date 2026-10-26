@@ -1,0 +1,17 @@
+{
+ "i": 4671,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وهف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 148,
+  "page_to": 148
+ },
+ "ar": "الواو والهاء والفاء: كلمتان. يقال: أَوْهَفَ من المالِ كذا:\nارتَفَع. ووهف النَّباتُ: أَوْرَقَ واهْتَزَّ",
+ "az": "[وهف] الواو والهاء والفاء (v-h-f): iki sözdür. Deyilir: أَوْهَفَ من المالِ كذا (Maldan filan qədər yüksəldi). وَوَهف النَّباتُ (Bitki yarpaqladı və təravətləndi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

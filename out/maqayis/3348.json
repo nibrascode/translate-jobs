@@ -1,0 +1,17 @@
+{
+ "i": 3348,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 109,
+  "page_to": 110
+ },
+ "ar": "القاف والعين والسين أصلٌ صحيح يدلُّ على ثباتٍ وقوّة، ويتوسَّعون في ذلك على معنى الاستعارة، فيقال للرّجل المنيع العزيز: أَقْعَس،\nوللغليظ العُنق قَوْعَس. [و] الأقعسانِ: جبلان طويلان. وليلٌ أقعَسُ، أي طويلٌ ثابت، كأنه لا يكاد يَبْرَح. والإقعاس: الغِني والإكثار. وعِزّةٌ قَعساء:\nثابتةٌ لا تزول أبداً. [قال]:\n* وعزّةٌ قَعساءُ لَنْ تُناصَى (١) *\nوالعزُّ الأَقْعَس في المذكَّر.\nومما حُمِل على هذا: القَعَس: دُخولُ العنقِ في الصّدر حتَّى يَصير خلافَ الحَدَب، لأنَّ صدرَهُ كأنّه يرتفع. يقال: تقاعَسَ تقاعُساً، واقعَنْسَسَ اقعِنْسَاساً.\nقال:\nبئسَ مُقامُ الشّيخِ أمرِسْ أمرِسِ … إمَّا على قَعْوٍ وإمّا اقعَنْسِسِ (٢)",
+ "az": "[قعس] (qə-ə-s): Qaf, eyn və sin sabitliyə və gücə dəlalət edən doğru bir əsasdır. Onlar bunu məcazi mənada genişləndirərək güclü, izzətli kişiyə «أَقْعَس» (əqəs), boynu qalın olana «قَوْعَس» (qəvs) deyirlər. Və iki uzun dağ «الأقعسانِ» (əl-əqəsani) adlanır. Və «ليلٌ أقعَسُ» (leylün əqəsün) — uzun, sabit gecə, sanki heç yerindən tərpənmir. Və «الإقعاس» (əl-iqəs): var-dövlətli olmaq və çoxalmaq. Və «عِزّةٌ قَعساء» (izzətün qəvsə): əsla yox olmayan sabit izzət. [O] demişdir: «* وعزّةٌ قَعساءُ لَنْ تُناصَى *» (١) (Və heç vaxt tabe etdirilməyəcək sarsılmaz izzət). Və kişi cinsində «العزُّ الأَقْعَس» (əl-izzü əl-əqəs) işlədilir. Buna bənzədilən hallardan biri: «القَعَس» (əl-qəs): boynun sinənin içərisinə doğru girərək qabarıqlığın (hədəbin) əksi olmasıdır, çünki onun sinəsi sanki yuxarı qalxır. Deyilir: «تقاعَسَ تقاعُساً» (təqəsə təqüsən) və «واقعَنْسَسَ اقعِنْسَاساً» (və əqənsəsə əqinsəsən). O demişdir: «بئسَ مُقامُ الشّيخِ أمرِسْ أمرِسِ … إمَّا على قَعْوٍ وإمَّا اقعَنْسِسِ» (٢) (Qocanın dayanacağı nə pisdir — dart, dart... Ya qəv üzərində, ya da arxaya çəkilərək).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

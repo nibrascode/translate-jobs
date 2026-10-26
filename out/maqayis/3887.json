@@ -1,0 +1,17 @@
+{
+ "i": 3887,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مضغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 330,
+  "page_to": 330
+ },
+ "ar": "الميم والضاد والغين أصلٌ صحيح، وهو المضغ للطعام. ومضَغَه يمضغه (٤). والمَضَاغ: الطعام يُمضَغ. والمُضَاغة: ما يبقى في الفم مما يُمضَغ. والمَضْغة:\nقطعةُ لحم، لأنَّها كالقطعة التي تُؤخذ فتُمضغ. والماضغان: [ما (٥)] انضمَّ من الشِّدقَين.\nومما شذَّ عن هذه المضائغ: العَقَبات الَّلواتي على أطراف سِيَتي القوس، الواحدة مَضِيغة.",
+ "az": "«مضغ» (məzəğ) — mim, dad və ğın hərfləri yeməyi çeynəmək mənasını verən səhih bir kökdür. Və مضَغَه يمضغه (məzəğəhu yəmzüğuhu). Və المَضَاغ (əl-məzāğ) — çeynənən yeməkdir. Və المُضَاغة (əl-məzāğət) — çeynənən şeydən ağızda qalan şeydir. Və المَضْغة (əl-məzğət) — bir ət parçasıdır, çünki o, götürülüb çeynənən parça kimidir. Və الماضغان (əl-maziğani) — yanaqların birləşdiyi yerlərdir. Bu madaiğdən (çeynənən ətlərdən) istisna olunan isə: yayın uclarındakı kəndirlərin üzərindəki düyünlərdir, təkliyi مَضِيغة (məziğət) gəlir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

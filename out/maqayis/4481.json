@@ -1,0 +1,17 @@
+{
+ "i": 4481,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 88,
+  "page_to": 88
+ },
+ "ar": "الواو والجيم والميم: يدلُّ على سكوتٍ فى اهتمام. وَوَجَم من الأمرِ يَكرَهُه: أَسْكَتَ له. وفى الحديث: «مالى أراكَ واجما». ويقولون:\nيومٌ وجيم: شديد الْحَرّ، وفيه نظر. ومصدرهُ الوَجْمُ والوجوم (٤).",
+ "az": "[وجم] الواو والجيم والميم (və, cim və mim) — qayğı içində susmağa dəlalət edir. وَوَجَمَ مِنَ الْأَمْرِ يَكْرَهُهُ: أَسْكَتَ لَهُ (xoşlamadığı bir işdən dolayı məchul şəkildə kədərlənərək susdu). Hədisdə gəlmişdir: «مَالِي أَرَاكَ وَاجِماً» («Necə olur ki, səni kədərli və susqun görürəm»). Deyirlər: يَوْمٌ وَجِيمٌ (vəcim gün) — şiddətli isti (gün), burada baxış yeri var. Onun məsdəri الْوَجْمُ və الْوُجُومُ (٤) (kədərlənmə, susqunluq)dur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

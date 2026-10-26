@@ -1,0 +1,17 @@
+{
+ "i": 4652,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 144,
+  "page_to": 144
+ },
+ "ar": "الواو واللام والعين: كلمتانِ تدُلُّ إحداهما على الَّلهَجِ بالشَّئ، والأخرى على لَونٍ من الألوان.\nفالأولى قولهم: أُولِعْتُ بالشَّيءِ وَلُوعاً. ورَجلٌ وُلَعَةٌ، إذا لَهِجَ بالشَّئ.\nويقاس على هذا فيقال وَلَع الظَّبىُ، إذا أسْرَعَ (٢). ووَلَعَ الرّجُل: كَذَب.\nوالأخرى قولهم للمُلمَّع مُوَلَّع. والتَّوليع: استطالةُ البَلَق. قال:\n* كأنَّه فى الْجِلْدِ توليعُ البَهَقْ (٣) *\nوالوَليع: الطَّلْع فى قِيقائِه.",
+ "az": "«ولع» (vələ. Vəv, lam və eyn: onlardan biri bir şeyə həvəsli olmağa, digəri isə rənglərdən birinə dəlalət edən iki kəlmədir. Birincisi onların sözüdür: أُولِعْتُ بِالشَّيْءِ وُلُوعاً (uli'tü biş-şəy-i vulucan). رَجُلٌ وُلَعَةٌ (raculün vulatün) — bir şeyə həvəsli olan kimsə. Buna qiyas edilərək deyilir: وَلَعَ الظَّبْيُ (vələ-əz-zabyu) — ceyran qaçdıqda (tələsdikdə) (٢). وَلَعَ الرَّجُلُ (vələ-ər-racul) — kişi yalan danışdı. Digəri isə alacalı olan kimsəyə مُوَلَّعٌ (muvəllə) demələridir. اَلتَّوْلِيعُ (təvli') — dəridəki alacarlığın böyüməsidir. (Şair) demişdir: «كَأَنَّهُ فَى الْجِلْدِ تَوْلِيعُ الْبَهَقْ» («Sanki dəridə bəhək xəstəliyinin alacarlığı kimidir») (٣). اَلْوَلِيعُ (vəli') — qiqasındakı (qabıqdakı) xurma tumurcuğudur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

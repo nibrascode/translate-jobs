@@ -1,0 +1,17 @@
+{
+ "i": 4077,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 403,
+  "page_to": 403
+ },
+ "ar": "النون والحاء والواو كلمةٌ تدلُّ على قصد. ونحوْتُ نَحْوَها.\nولذلك سمِّي نَحْوُ الكلام، لأنه يَقصِد أصول الكلام فيتكَلَّمُ على حَسَب ما كان العرب تتكلَّم به. ويقال إنَّ بني نَحْوٍ: قومٌ من العرب (٣). وأمّا [أهل (٤)] المَنْحَاةِ فقد قيل: القَوم البُعَداء غيرُ الأقارب.\nومن الباب: انتحَى فلانٌ لفلانٍ: قَصَدَه وعَرَض له.",
+ "az": "[نحو] (n-h-w) - Nün, ha və vav hərfləri qəsd etməyə dəlalət edən bir kəlmədir. ونحوْتُ نَحْوَها (Onun tərəfinə yönəldim).\nBuna görə də kəlamın nəvhi (qrammatika elmi) adlanmışdır, çünki o, kəlamın əsaslarını qəsd edir və ərəblərin danışdığı tərzdə danışır. Deyilir ki, بَنو نَحْوٍ (Bənu Nəhv): ərəblərdən bir qövmdür (٣). Amma [أهل (آهل)] المَنْحَاةِ (əl-mənhat əhli) gəldikdə isə, deyilmişdir ki, onlar uzaq qohum olmayan adamlardır.\nBu fəsildəndir: انتحَى فلانٌ لفلانٍ (filankəs digər şəxsə tərəf yönəldi): onu qəsd etdi və qarşısına çıxdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

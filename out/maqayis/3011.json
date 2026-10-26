@@ -1,0 +1,17 @@
+{
+ "i": 3011,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فنع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 454,
+  "page_to": 454
+ },
+ "ar": "الفاء والنون والعين أصلٌ صحيح يدلُّ على طِيبٍ وكثرةٍ وكَرَم فالفَنَع: الكَرَم. ويقال إنَّ نَشْر المسكِ فَنَع. ويقال نَشْر الثناء الحَسن. ويقال:\nمالٌ ذو فَنَع، أى كَثْرة. قال:\nوقد أجودُ وما مالى بذى فَنَعٍ … على الصَّديق وما خيرى بممنونِ (٢)",
+ "az": "[فنع] (fə-nə-ع). Fə, nun və eyn səhih əsas olub xoş qoxuya, bolluğa və səxavətə dəlalət edir. «الفَنَع» — səxavət, kərəm deməkdir. Deyirlər ki, müşkün ətri (nəşri) «فَنَع»-dir. Həmçinin gözəl tərifin yayılmasına da deyilir. «مالٌ ذو فَنَعٍ» — bol mal deməkdir. Şair demişdir:\nوقد أجودُ وما مالى بذى فَنَعٍ … على الصَّديق وما خيرى بممنونِ (2)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:24:42.634Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3479,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كحم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 164,
+  "page_to": 164
+ },
+ "ar": "الكاف والحاء والميم ليس بشيء، إلاَّ أنَّ ابن دريدٍ زعم أن الكَحْمَ: الحِصْرِم. وذكر أنَّه يقال بالباء أيضاً (١).",
+ "az": "[كحم] (Kəf, Ha, Mim) heç bir şey deyildir, lakin İbn Dureyd «الكحم»-in «الحصرم» (kal üzüm) olduğunu iddia etmişdir. O, bunun «ba» hərfi ilə də deyildiyini qeyd etmişdir (١).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

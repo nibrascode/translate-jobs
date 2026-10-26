@@ -1,0 +1,17 @@
+{
+ "i": 3339,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 105,
+  "page_to": 106
+ },
+ "ar": "القاف والطاء والراء هذا بابٌ غير موضوع على قياس، وكلمهُ متباينةُ الأصول، وقد كتبناها: فالقُطر: النّاحية. والأقطار: الجوانب. ويقال:\nطعَنَه فقطَّره، أي ألقاه على أحد قُطْرَيه، وهما جانباه. قال:\nقد علِمَتْ سلمى وجاراتُها … ما قَطَّرَ الفارسَ إلاَّ أنا (١)\nوالقُطُر: العُود. قال طَرَفة:\nوتنادَى القومُ في نادِيهمُ … أقُتارٌ ذاك أم ريح قُطُرْ (١)\nوالقَطْر: قَطْر الماءِ وغيرِه. وهذا بابٌ ينفاس في هذا الموضع، لأنَّ معناه التتابُع. ومن ذلك قِطَار الإبل. وَتَقاطَرَ القومُ، إذا جاءوا أرسالاً، مأخوذٌ من قِطار الإبل. والبعيرُ القاطرُ: الذي لا يزالُ بَوْلُه يقطُر. ومن أمثالهم:\n«الإنْفاض يُقَطِّر الجَلَبَ (٢)»، يقول: إذا أنْفَضَ القومُ أي قلّت أزوادهم وما عِندَهم قَطَّرُوا الإبلَ فجلبوها للبيع. والقَطِرانُ، ممكنٌ أنْ يسمَّى بذلك لأنَّه مما يَقطُر، وهو فَعِلان. ويقال: قَطَرت البعيرَ بالهِناء أقطُرُه. قال:\n* كما قَطَر المَهْنُوءةَ الرّجلُ الطَّالِي (٣) *\nومما ليس من هذا القياس، القِطْر: النُّحاس. وقولهم: قَطَر في الأرض، أي ذهَبَ. واقطَارَّ النَّباتُ، إذا قاربَ اليُبْس.",
+ "az": "[قطر] (qət-ər): Qaf, ta və ra hərfləri olub, bu fəsil heç bir müəyyən qayda üzrə qurulmamışdır və onun sözlərinin kökləri bir-birindən fərqlidir, biz onları yazmışıq: «القُطر» (əl-qutr): tərəf, istiqamət. «الأقطار» (əl-əqtar): tərəflər, yanlar. Deyilir: «طعنه فقطره» (O, onu nökrlə vurdu və yerə yıxdı), yəni onu iki tərəfindən birinin üzərinə yıxdı, bunlar da onun iki yanıdır. (Şair) demişdir: [«قد علمت سلمى وجاراتها … ما قطَّر الفارسَ إلاَّ أنا» (Səlma və qonşuları bildilər ki, atlı yıxan məndən başqası deyil)]. «القُطُر» (əl-qutur): ud ağacı (ətir). Tərəfə (şair) demişdir: [«وتنادَى القومُ في ناديهمُ … أقُتارٌ ذاك أم ريح قُطُرْ» (Tayfa öz məclislərində bir-birlərinə səsləndi: Bu, utar ətri, yoxsa ud qoxusudur?)]. «القَطْر» (əl-qatr): suyun damcılaması və s. Bu isə bu yerdə mühüm bir fəsildir, çünki onun mənası ardıcıl gəlməkdir. Bunlardandır: «قطار الإبل» (dəvə karvanı). «تقاطَرَ القومُ» (İnsanlar dəstə-dəstə gəldilər), bu da dəvə karvanından götürülmüşdür. «البعيرُ القاطرُ» (daimi sidiyi damcılayan dəvə). Onların məsəllərində deyilir: «الإنفاض يُقطِّر الجَلَبَ» (Azuqənin tükənməsi dəvə karvanının gətirilməsinə səbəb olur), o deməkdir ki, qövmün azuqəsi azaldıqda və yanlarında heç nə qalmadıqda dəvələri damcılatdılar (ard-arda düzdülər) və onları satmaq üçün gətirdilər. «القَطِرانُ» (əl-qatiran): ehtimal ki, o, damcılayan şeylərdən biri olduğuna görə belə adlandırılmışdır, o, fə'ilan qəlibindədir. Deyilir: «قطرت البعير بالهِناء أقطُره» (Mən qətranla dəvəni yağladım). (Şair) demişdir: [«كما قَطَر المَهْنُوءةَ الرّجلُ الطَّالِي» (Necə ki yağlanmış dəvəni yağlayan kişi yağladı)]. Bu qaydaya aid olmayan sözlərdən biri də «القِطْر» (əl-qitr): misdir. Və onların «قطر في الأرض» (O, yerə girib yoxa çıxdı, yəni getdi) sözüdür. Bitki quruluğa yaxınlaşdıqda «اقطار النبات» (bitki qurumağa başladı) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:04.684Z"
+}

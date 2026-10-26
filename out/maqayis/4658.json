@@ -1,0 +1,17 @@
+{
+ "i": 4658,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ومق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 146,
+  "page_to": 146
+ },
+ "ar": "الواو والميم والقاف: كلمةٌ واحدة، وهى الوَمَق: الحُبُّ.\nوَمِق يَمِق. والمِقَةُ الاسم أيضاً.",
+ "az": "«ومق» (vəməq). Vəv, mim və qaf: tək bir kəlmədir, o da اَلْوَمَقُ (vəməq) — sevgi deməkdir. وَمِقَ يَمِقُ (vəmِqə yəməq). Həmçinin اَلْمِقَةُ (miqə) isimdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.060Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3965,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 357,
+  "page_to": 357
+ },
+ "ar": "النون والعين أصلٌ صحيح يدلُّ على مَيلٍ واضطراب. ويقال للشَّيء إذا مالَ واضطرب: تنَعنَع. والنُّعنُع: الهَنُ المسترخى. والنُّعنُعِ: الطَّويل من الرِّجال المضطرِب الخَلْق. ويقولون: تَنَعنَعَ منّا، أي تباعَدَ. قال ذو الرُّمة:\nالنازحُ المتنعنِعُ (١) *",
+ "az": "[نع] Nun və ayn - meyl etməyə və iztiraba (tərəddüdə, sarsıntıya) dəlalət edən səhih bir kökdür. Bir şey meyl edib sarsıldıqda ona «تنَعنَع» deyilir. «النُّعنُع» — sallanan yumşaq ət (və ya bədən üzvü). «النُّعنُعِ» — uca boylu, xilqəti sərt (narahat) olan kişi. Deyirlər: «تَنَعنَعَ منّا» — yəni bizdən uzaqlaşdı. Züru-Rümmə demişdir:\n«النازحُ المتنعنِعُ (١)»\n(Uzaqdakı, uzaqlaşan və sarsılan...)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

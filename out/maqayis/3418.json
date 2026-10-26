@@ -1,0 +1,17 @@
+{
+ "i": 3418,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كها",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 143,
+  "page_to": 143
+ },
+ "ar": "الكاف والهاء والحرف المعتلّ كلمةٌ واحدة لا تنقاس ولا يُفرَّع عنها. ويقولون للنَّاقة الضَّخمة: كَهَاةٌ. قال:\nإذَا عَرِضَتْ منها كَهَاةٌ سمينةٌ … فلا تُهدِ منها واتَّشِقْ وتجَبْجَبِ (٢)",
+ "az": "[كها] Kaf, ha və zəif hərf – qaydaya düşməyən və özündən budaqlanmayan tək bir sözdür. Böyük dəvəyə كَهَاةٌ (kəhat) deyirlər. O demişdir:\nإذَا عَرِضَتْ منها كَهَاةٌ سمينةٌ … فلا تُهدِ منها واتَّشِقْ وتجَبْجَبِ (٢)\n(Onlardan kök bir kəhat qarşıya çıxanda, ondan hədiyyə etmə, onu yeyib doyun və bolca için!)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

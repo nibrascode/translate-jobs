@@ -1,0 +1,17 @@
+{
+ "i": 3836,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مذح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 310,
+  "page_to": 310
+ },
+ "ar": "الميم والذال والحاء. يقولون: المَذَح: أن يمشِيَ الرّجلُ فتسحج إحدى [رجليه] الأخرى.",
+ "az": "«مذح» (mim, zal və hə). Deyirlər: المَذَح (məzəh) — kişinin yeridikdə ayaqlarından birinin digərini sürtməsi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

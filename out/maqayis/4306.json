@@ -1,0 +1,17 @@
+{
+ "i": 4306,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 28,
+  "page_to": 28
+ },
+ "ar": "الهاء والباء والجيم كلمةٌ تدلُّ على تورُّمٍ وثِقَل. وهَبِجت النّاقة هَبَجا: وَرِمَ ضَرعها. ولذلك يُقال للثقَّيل النَّفْس مُهَبَّج. وهَبَجَه بالعَصَا:\nضَرَبه. ومما شذَّ عن هذا الهَوْبَجة، وهى خَبْرَاءُ فى مكانٍ غير قَعِير، فلا يلبثُ ماؤها أن يَنْضُب.",
+ "az": "[هبج] (hə-bə-cə): Hə, ba və cim şişkinliyə və ağırlığa dəlalət edən kəlmədir. هَبِجت النّاقة هَبَجا (həbicətin-naqətu həbəcan): dəvənin əmçəyi şişdi. Ona görə də nəfsi ağır olan adama مُهَبَّج (mühəbbəc) deyilir. وَهَبَجَه بالعَصَا (və həbəcəhu bil-əsə): onu əasa ilə vurdu. Bundan istisna olan الهَوْبَجَة (əl-həvbəcəh) kəlməsidir ki, o, dərindən olmayan yerdəki su yığnağıdır (xəbra), suyu tez çəkilir və quruyur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

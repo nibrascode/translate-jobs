@@ -1,0 +1,17 @@
+{
+ "i": 3511,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كسم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 178,
+  "page_to": 178
+ },
+ "ar": "الكاف والسين والميم أُصَيلٌ يدلُّ على تلبُّدٍ في شيء وتجمّع.\nمن ذلك الكَيْسُوم: الحَشِيش الكثير. ويقال إنَّ الأكاسم: الخَيل المجتمِعة يكاد يركبُ بعضُها بعضا. قال:\nأبا مالكٍ لَطَّ الحُضَين وراءنا … رجالاً عَدَاناتٍ وخيلَا أكاسِما (١)",
+ "az": "[كسم] \nКаф, sin və mim – bir şeydə bir yerdə toplanmağa və qıvrılıb qalmağa dəlalət edən kiçik bir kökdür.\nBunlardandır «الكَيْسُوم» (əl-keysum) – bol otlaq. Deyilir ki, «الأكاسم» (əl-əkəsim) – az qala bir-birinin üstünə minəcək qədər bir yerdə toplaşmış atlardır. Şair demişdir:\nأبا مالكٍ لَطَّ الحُضَين وراءنا … رجالاً عَدَاناتٍ وخيلَا أكاسِما (١)\n(Ey Əbu Malik, Huzəyn arxamızda tərk etdi... dəstə-dəstə kişiləri və bir yerdə toplaşmış atları).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

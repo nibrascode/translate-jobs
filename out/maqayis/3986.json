@@ -1,0 +1,17 @@
+{
+ "i": 3986,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 365,
+  "page_to": 366
+ },
+ "ar": "النون والهاء والميم أصلانِ صحيحان، أحدُهما صوتٌ من الأصوات والآخر وَلُوع بشيء.\nفالأوّل النَّهيم: صوت الأسد. والنّهيم: زَجْرُك الإبل إذا صِحْتَ بها. تقول:\nتَهَمْتُها، إذا صِحْتَ بها لتَمضي. قال:\nألَا انهَمَاها إنَّهَا مَناهيم … وإنما ينْهِمَها القَومُ الهِيمْ (٣)\nويقال للحَذْف بالعَصَا والحذف بالحَصَى نَهْمٌ؛ ولا بدَّ من أن يكون لِمَا يُحْذَف به أدنى صوت. قال:\n* يَنْهَمْنَ بالدّارِ الحَصَى المنهوما (٤) *\nفأمّا الآخر فالنَّهْمة: بلوغ الهِمّة في الشَّيء. وهو منهومٌ بكذا: مُولَعٌ به.\nويقال منه نُهمَ يُنْهَمُ.\nومما شذَّ عن البابين النِّهَامِي: الْحَدَّاد (٥).\n[(باب النون والواو وما يثلثهما)]",
+ "az": "[نهم] (NUN, HƏ və MİM) - iki səhih kökdür: biri səslərdən bir səs, digəri isə bir şeyə hədsiz düşkünlükdür. Birincisi: «النَّهيم» - şirin səsi. «النّهيم» - dəvələrə qışqıraraq onları qovmağındır. Deyirsən: «تَهَمْتُها» - yəni irəli getmələri üçün onlara qışqırdın. Şair demişdir: «ألَا انهَمَاها إنَّهَا مَناهيم … وإنما ينْهِمَها القَومُ الهِيمْ (٣)» (Həqiqətən, onlar həvəsli dəvələrdir, onları qovun... Onları ancaq susuz dəvə sahibləri qovarlar). Çubuqla və ya xırda daşlarla atmağa «نَهْم» deyilir; atılan şeyin mütləq zəif bir səsi olmalıdır. Şair demişdir: «* يَنْهَمْنَ بالدّارِ الحَصَى المنهوما (٤) *» (Onlar evdə atılan xırda daşlarla səs çıxarırlar). Qaldı ki, ikincisi: «النَّهْمة» - bir şeydə istəyin son həddinə çatmasıdır. «وهو منهومٌ بكذا» - o, buna hədsiz düşkündür (vurğundur). Buradan «نُهمَ يُنْهَمُ» deyilir. Bu iki babdan kənara çıxan (şaz) olaraq: «النِّهَامِي» - dəmirçidir (٥). [(Nun və vav hərflərinin babı və onların üçlüləri)]",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

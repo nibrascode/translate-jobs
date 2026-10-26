@@ -1,0 +1,17 @@
+{
+ "i": 3320,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قصف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 92,
+  "page_to": 93
+ },
+ "ar": "القاف والصاد والفاء أصلٌ صحيحٌ يدلُّ على كسرٍ لشيء.\nولا يُخْلِف هذا القياسُ. يقال: قصَفت الرِّيحُ السفينةَ في البحر. وريحٌ قَاصِف (٣).\nوالقَصِف: السَّريع الانكسار. والقَصِيف: هشيم الشَّجر. ومنه قولُهم: انقصفوا\nعنه، إذا تركوه. وهو مستعار. والأقْصَف: الذي انكسرت ثَنِيَّتُه من النِّصف.\nورعدٌ قَاصِف، أي شديد. وقياس ذلك كأنَّه يكاد يَقصِف الأشياءَ بشدَّته.\nيقولون: بَعثَ اللّه تعالى عليهم الرِّيحَ العاصف، والرّعدَ القَاصِف. ومنه القَصْف:\nصَرِيف البَعير بأسنانه. فأمَّا القَصْف في اللَّهو واللَّعِب فقال ابنُ دريد (١): لا أحسبه عربيَّا. وليس القَصْف الذي أنكَرَه ببعيدٍ من القياس الذي ذكرناه، وهو من الأصوات والجَلَبة. وقياسه في الرَّعد القَاصِف، وفي صَريف البَعير بأسنانِه.",
+ "az": "«قصف»: القاف, Sad və Fa bir şeyin sınmasına dəlalət edən səhih bir kökdür.\n\nBu qanunauyğunluqdan kənara çıxmaz. Deyilir: «قصَفت الرِّيحُ السفينةَ في البحر» (Külək gəmini dənizdə sındırdı). «ريحٌ قَاصِف» — şiddətli külək.\n\n«القَصِف» — tez sınan. «القَصِيف» — ağacların quru qırıntıları. Onların «انقصفوا عنه» sözü dəridəndir, yəni onu tərk etdilər. Bu, məcazi mənadadır. «الأقْصَف» — ön dişi yarıdan qırılmış kəsdir.\n\nŞiddətli ildırım «رعدٌ قَاصِف» adlanır. Bunun ölçüsü elədir ki, sanki o, şiddəti ilə şeyləri qırmağa yaxınlaşır. \n\nDeyirlər: Uca Allah onlara əsən külək və qıran (şiddətli) ildırım göndərdi. Bunlardan biri də «القَصْف» — dəvənin dişlərini qıcırdatmasıdır. Əyləncə və oyun mənasındakı «القَصْف»-ə gəldikdə isə, İbn Dureyd demişdir (١): Mən bunun ərəbcə olduğunu güman etmirəm. Onun inkar etdiyi «القَصْف» qeyd etdiyimiz qanunauyğunluqdan uzaq deyildir, o, səslər və səs-küylə bağlıdır. Onun qanunauyğunluğu sərt ildırımda və dəvənin dişlərini qıcırdatmasındadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:36:22.598Z"
+}

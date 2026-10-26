@@ -1,0 +1,17 @@
+{
+ "i": 4221,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 469,
+  "page_to": 469
+ },
+ "ar": "النون والقاف والزاء أُصَيلٌ يدلُّ على دقة (٢) وخفّة وصِغَر.\nمنه النَّقْز: الوَثْب. ونواقز الظَّبْي: قوائِمُه. ونَقَزُ النّاسِ: أرذالُهم. والنَّقَز:\nالرَّجُل الرَّدِىّ والنُّقَاز: داءٌ يأخذ الغنم فيَقْلَقُ عنه ولا يستقِرّ. والنُّقَّاز: صِغار العَصافِير.",
+ "az": "[نقز] Nun, qaf və za incəliyə, yüngüllüyə və kiçikliyə dəlalət edən kiçik bir əslir. Bunlardandır: النَّقْز: tullanma. وَنواقز الظَّبْي: ceyranın ayaqları. وَنَقَزُ النّاسِ: insanların alçaqları. وَالنَّقَز: pis kişi. وَالنُّقَاز: qoyunları tutan, onları rahat qoymayan və qərar tutmağa qoymayan xəstəlik. وَالنُّقَّاز: kiçik sərçələr.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:21.983Z"
+}

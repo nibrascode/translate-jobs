@@ -1,0 +1,17 @@
+{
+ "i": 3834,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مذل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 309,
+  "page_to": 309
+ },
+ "ar": "الميم والذال واللام أصلٌ صحيح يدلُّ على استرخاء وقلّةِ تشدُّدٍ في الشَّيء. منه الامذِلال: الفَتْرة في النَّفس. قال ذُو الرُّمَّة:\n[وذكِرُ البَينِ يَصدعُ في فؤادي … ويُعقِبُ في مفاصِلِيَ] امذِلالاً (١)\nوالمَذِيلُ: المريضُ (٢) الذي لا يتَقَارُّ. وقد يكون من هذا القياسِ المَذِلُ لما عِندَه من مالٍ وسِرٍّ، إذا لم يَقدِرْ على ضبطِ نَفْسِه. ومَذِل من كلامه:\nقَلِق.",
+ "az": "«مذل» (mim, zal və lam) — bir şeydə boşalmaya və zəif sərtliyə dəlalət edən səhih kökdür. Bunlardan biri الامذِلال (əl-imzilal) — nəfsdəki zəiflik, taqətsizlikdir. Züər-Rummə demişdir: «Və ayrılıq xatirəsi ürəyimdə çatlayır... və oynaqlarımda boşalmaya səbəb olur» (١). والمَذِيلُ (məzil) — yerində qərar tutmayan xəstə (٢). Nəfsini idarə etməyə gücü çatmadıqda malı və sirri olan kəsə aid edilən مَذِل (məzil) sözü də bu ölçüdəndir. Və مَذِل مِنْ كَلامِهِ (məzil min kəlamihi) — sözündən narahat oldu, səbirsizləndi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3447,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كار",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 152,
+  "page_to": 152
+ },
+ "ar": "الكاف والألف والراء. يقولون: الكَأْر: أن يَكْأَر الرّجُل من الطّعام، أي يصيب منه أخْذاً وأكلا.",
+ "az": "[كار] (Kaf, əlif və ra). Deyirlər: الكَأْر (əl-kər) — adamın yeməkdən doyduqca, qarnını dolduraraq yeməsi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

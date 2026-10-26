@@ -1,0 +1,17 @@
+{
+ "i": 4406,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هلف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 62,
+  "page_to": 62
+ },
+ "ar": "الهاء واللام والفاء: كلماتٌ متقاربةُ القياس تدلُّ على كِبَر وضِخَم. والهِلَّوفُ: الشَّيخ الضَّخم. واللِّحيةُ الضَّخمة هِلَّوفةٌ، والجمل الكبير هِلَّوْف.",
+ "az": "[هلف] (hə-lə-fə): Hə, lam və fa hərfləri böyüklük və iri olmağa dəlalət edən yaxınmənalı kəlmələrdir. «الهِلَّوفُ» (əl-hilluf) — iri yaşlı kişi. Qalın saqqal «هِِلَّوفة» (hillufətün), böyük dəvə isə «هِلَّوْف» (hilluf) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

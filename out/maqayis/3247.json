@@ -1,0 +1,17 @@
+{
+ "i": 3247,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قبص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 48,
+  "page_to": 49
+ },
+ "ar": "القاف والباء والصاد أصلانِ يدُلُّ أحدَهما على خِفّةٍ وسُرعة، والآخَر على تجمُّع.\nفالأوَّل القَبَص، وهو الخِفَّة والنَّشاط. والقَبُوص: الذي إذا جَرَى لم يُصِبِ الأرضَ منهُ إلاّ أطرافُ سَنابِكهِ ومن ذلك القَبْصُ، وهو تناوُلُ الشَّيءِ بأطراف الأصابع، ولا يكون ذلك إلاَّ عن خِفّةٍ وعَجَلة. وقُرِئَت: «فَقَبَصْتُ قَبْصَةً من أَثَرِ اَلرَّسُولِ (١)»، بالصَّاد. وذلك المأخوذُ قَبْصة.\nوالأصل الآخر القِبْص، وهو العَدَد الكثير. قال:\nلكم مَسجدَا اللّهِ المَزُورَانِ والحَصَى … لكُمْ قِبْصُه من بينِ أثْرَى وأَقتَرَا (٢)\nومن هذا الباب القَبَص فى الرَّأس: الضَّخَم، ويقال منه هامَةٌ قَبْصاء.\nقال أبو النجم:\n* [قَبْصاءَ لَم تُفطَحْ ولم تُكَتَّلِ (٣)] *\nومما شذَّ عن هذين الأصلين: القَبْصَ، وهو وجعٌ عن أكْل الزَّبيب. قال:\n* أرفقة تشكو الجُحافَ والقَبَصْ (٤) *",
+ "az": "[قبص] (qəbəh/qəbəs - qəbəs). Qaf, ba və sad hərfləri iki əsasdan ibarətdir: bunlardan biri yüngüllük və sürətə, digəri isə toplanmağa dəlalət edir. \nBirincisi: القَبَص (əl-qəbəs) — yüngüllük və fəallıq. وَالقَبُوص (əl-qəbus) — elə bir atdır ki, qaçarkən dırnaqlarının uclarından başqa yerə toxunmur. Və bundan القَبْص (əl-qəbs) — əl barmaqlarının ucları ilə bir şeyi götürməkdir, bu da yalnız yüngüllük və tələsikliklə olur. [Quranın] «فَقَبَصْتُ قَبْصَةً من أَثَرِ اَلرَّسُولِ (fəqəbəztu qəbstən min əsərir-rasul)» [Taha, 96] ayəsi sad hərfi ilə oxunmuşdur (١). Alınan şey isə qəbsədir (قبضة).\n\nVə digər əsas: القِبْص (əl-qibs) — çoxlu say. (Şair) demişdir:\nلكم مَسجدَا اللّهِ المَزُورَانِ والحَصَى … لكُمْ قِبْصُه من بينِ أثْرَى وأَقتَرَا (٢)\n(Allahın ziyarət olunan iki məscidi və xırda daşları sizindir... Aranızda varlı və kasıb olaraq onun çoxluğu sizindir).\n\nVə bu fəsildəndir başdakı القَبَص (əl-qəbəs) — böyüklük, ondan هامَةٌ قَبْصاءُ (hamətun qəbsau) — böyük kəllə, ifadəsi işlədilir. \nƏbu Ən-Nəcm demişdir:\n* [قَبْصاءَ لَم تُفطَحْ ولم تُكَتَّلِ (٣)] *\n(Nə yastılaşdırılmış, nə də toppuzlaşdırılmış böyük kəllə).\n\nVə bu iki əsasdan istisna olan: القَبْص (əl-qəbs) — kişmiş yeməkdən yaranan ağrıdır. (Şair) demişdir:\n* أرفقة تشكو الجُحافَ والقَبَصْ (٤) *\n(Dostlar qrupudur ki, cühaf və qəbəsdən şikayət edirlər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

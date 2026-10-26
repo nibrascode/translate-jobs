@@ -1,0 +1,17 @@
+{
+ "i": 3252,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 54,
+  "page_to": 54
+ },
+ "ar": "القاف والباء والنون. يقولون: قَبَن في الأرض: ذهب.\nوحمار قَبَّان: دويْبّة.",
+ "az": "[قبن] (qəb-n): Qaf, ba və nun. Deyirlər ki: [قَبَن في الأرض] (qəbən fil-ərd) – yerə gedib çıxdı (getdi). [وحمار قَبَّان] (və himəru qəbbən) – kiçik bir həşəratdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:30.096Z"
+}

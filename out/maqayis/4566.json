@@ -1,0 +1,17 @@
+{
+ "i": 4566,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وصب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 117,
+  "page_to": 117
+ },
+ "ar": "الواو والصاد والباء: كلمةٌ تدلُّ على دَوامِ شئ. ووَصَبَ الشّئُ وصوباً: دام. ووَصَبَ الدِّينُ: وَجَب. ومَفَازةٌ واصبِة: بعيدةٌ لاغايةَ لها.\nوفى كتاب اللّه تعالى: ﴿وَلَهُمْ عَذابٌ واصِبٌ﴾، أى دائم. والوَصَب: المرضُ المُلازم الدَّائم. رجلٌ وصِبٌ ومُوَصَّبٌ: دائم الأوصاب.",
+ "az": "[وصب] (Vəsəb): الواو والصاد والباء (vav, sad və ba): bir şeyin davamlı olmasına dəlalət edən kəlmədir. ووَصَبَ الشّئُ وصوباً (vəsəbə əş-şəy'u vusubən): davam etdi. ووَصَبَ الدِّينُ (vəsəbə əd-dinu): vacib oldu. مَفَازةٌ واصِبرة (məfazətun vasibətun): sonu olmayan uzaq səhra. Allahın kitabında buyurulur: ﴿وَلَهُمْ عَذابٌ واصِبٌ﴾ (mənaca tərcümə: Və onlar üçün davamlı bir əzab vardır), yəni davamlı. Vəsəb — daimi, ayrılmaz xəstəlik. Kişi وصِبٌ (vasibun) və مُوَصَّبٌ (muvassabun): daimi xəstəlikləri olan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

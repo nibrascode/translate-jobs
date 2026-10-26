@@ -1,0 +1,17 @@
+{
+ "i": 3463,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كتر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 156,
+  "page_to": 157
+ },
+ "ar": "الكاف والتاء والراء. يقولون: الكَتْر: وسط كلِّ شيء.\nويقال: الكَتْر: السَّنام نفسُه. قال:\n* كِتْرٌ كحافَة كِير القَيْنِ ملمومُ (٣) *\nقال الأصمعىّ: لم أسمع بالكِتْر إلاَّ في هذا البيت. ويقولون: الكَتْر:\nالحَسَب والقَدْر.",
+ "az": "[كتر] (Kətərə). Kaf, ta və ra (الكاف والتّاء والراء). Deyirlər ki, əl-kətr (الكَتْر) – hər bir şeyin ortasıdır. Deyilir: əl-kətr – həm də qozanın özüdür. Şair demişdir:\n* كِتْرٌ كحافَة كِير القَيْنِ ملمومُ (٣) *\n(Dəmirçi körüyünün kənarı kimi yuvarlaq qozə...)\nƏsməi demişdir: \"Bu beytdən başqa əl-kiتر (əl-kitr) sözünü eşitmədim.\" Həmçinin deyirlər ki, əl-kətr – nəcabət və qədir-qiymətdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:41:04.625Z"
+}

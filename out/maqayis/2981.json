@@ -1,0 +1,17 @@
+{
+ "i": 2981,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 441,
+  "page_to": 441
+ },
+ "ar": "الفاء والغين ليس فيه كلامٌ أَصيل، وهو شِبْهُ حكايةٍ لصوت. يقولون: الفَغْفَغَة: الصَّوت بالغَنَم. ويقولون: الفغْفغانى (٤): القصَّاب أو الرَّاعى؛ وكذلك الفَغْفغىّ. ويقولون: الفَغْفَغان: الرّجلُ الخفيفُ. وتفغفغَ فى أمره: أسرَعَ. وكلُّ هذا قريبٌ بعضه من بعض. واللّه أعلم بالصَّواب.",
+ "az": "[فغ]\nFə və ğayn hərflərində əsil (kök təşkil edən) bir kəlam yoxdur; bu, bir növ səs təqlididir (hekayəsidir). Deyirlər ki: «الفَغْفَغَة» (əl-fəğfəğə) — qoyunlara çıxarılan səsdir. Deyirlər ki: «الفغْفغانى» (əl-fəğfəğani) (٤) — qəssab və ya çobandır; həmçinin «الفَغْفغىّ» (əl-fəğfəği) də belədir. Deyirlər ki: «الفَغْفَغان» (əl-fəğfəğan) — yüngülxasiyyət (çevik) adamdır. «تفغفغَ فى أمره» (təfəğfəğə fi əmrihi) — işində tələsdi. Bütün bunlar bir-birinə yaxındır. Ən doğrusunu Allah bilir.",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

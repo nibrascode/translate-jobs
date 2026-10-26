@@ -1,0 +1,17 @@
+{
+ "i": 4450,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وأى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 80,
+  "page_to": 80
+ },
+ "ar": "الواو والهمزة والياء كلمتان متباينتان: الأولى الوَعْد، يقال وأيْتُه أئير وَأْياً، وهو صادق الوَأْى.\nوالثانية تدلُّ على قُوَّةٍ أو تجمُّعٍ وعِظَم. يقال حِمارٌ وَأَى: قوىٌّ، وكذلك الفَرَس. وقِدرٌ وئِيَّة (٢): عظيمة. وقول أوس:\nوحَطّت كما حَطَّت وَئِيّةُ تاجرٍ … وهَى عِقدُها فارفضَّ منها الطَّوائف (٣)\nويقال الوَئِيَّةُ: الجُوالِق. واللّه أعلم.",
+ "az": "[وأى] (və-həmzə-ya) iki fərqli sözdür: Birincisi vəd etməkdir, «وأيْتُه أئير وَأْياً» (ona vəd etdim) deyilir, o, vədinə sadiqdir. İkincisi gücə, toplanmaya və böyüklüyə dəlalət edir. «حِمارٌ وَأَى» (güclü uzunqulaq) deyilir, at da eynilə belədir. «قِدرٌ وئِيَّة» (٢) — böyük qazan. Evsin sözü: * «وحَطّت كما حَطَّت وَئِيّةُ تاجرٍ … وهَى عِقدُها فارفضَّ منها الطَّوائف» (٣) * (Təcəssüm edərək düşdü, necə ki tacirin yükü/torbası düşdü... bağlaması dağıldı və onun hissələri səpələndi). Deyirlər ki, «الوَئِيَّةُ» (vəiyyə) — iri yük torbasıdır. Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.748Z"
+}

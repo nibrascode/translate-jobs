@@ -1,0 +1,17 @@
+{
+ "i": 3516,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كسر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 180,
+  "page_to": 181
+ },
+ "ar": "الكاف والسين والراء أصلٌ صحيح يدلُّ على هَشْم الشيء وهَضْمه. من ذلك قولُك كَسَرْت الشيءَ أكْسِره كَسْرًا. والكِسرة: القطعة من المكسور. ويقال: عُودٌ صُلْب المَكْسِر، إذا عُرِفت جوْدتُه بكسْرِه.\nوكَسَر الطائرُ جناحَيه كَسراً، إذا ضمَّهما وهو يريد الوُقوع؛ ومنه عُقاب كاسِر. والكِسْر: العظم ليس عليه كبيرُ لحم. قال الشَّاعر:\n* وفي يَدِها كِسرٌ أبحُّ رَذومُ (٣) *\nويقال لا يكون كذا إلا وهو مكسور. ويقال لعظم السّاعد الذي يلي المرفَق،\nوهو نصف العظم: كِسرُ قبيح. أنشدنا علىُّ بنُ إبراهيمَ، عن علىِّ بنِ عبد العزيز، عن أبي عُبيد:\nفلو كنتَ عَيراً كنتَ عيرَ مَذَلَّةٍ … ولو كنت كِسراً كنتَ كِسرَ قبيح (١)\nويقال: أرضٌ ذات كسور، أي ذات صَعُود وهَبُوط، وكأنّها قد كسِرت كَسْرا. والكِسر: الشُّقة السُّفلى من الخِباء تُرفَع أحياناً وتُرخَى أحياناً. وهو جارِي مُكاسِرِي، أي كِسرُ بيتِه إلى كِسرِ بيتي. فأمَّا كِسْرى فاسمٌ عجمىّ، وليس من هذا، وهو معرَّب. قال أبو عمرو: يُنسَب إلى كسرى - وكان يقوله بكسر الكاف (٢) - كِسْرِيّ وكِسرَوِيّ. وقال الأمويّ: كِسريّ بالكسر أيضاً.",
+ "az": "[كسر] (kə-sə-rə). Kaf, sin və ra hərfləri bir şeyi qırmağa və əzməyə dəlalət edən səhih bir əsldir. Bunlardandır dediyin söz: «كَسَرْتُ الشيءَ أكْسِره كَسْرًا» (Bir şeyi qırdım, qırıram, qırma). «الكِسرة» (qırıq): qırılmış şeydən bir parça. Deyilir: «عُودٌ صُلْب المَكْسِر» (Qırıldıqda bərk olduğu bilinən odun), yəni onun keyfiyyəti qırılmaqla bilinir. Vəquş «كَسَر الطائرُ جناحَيه كَسرا» (Quş qanadlarını qatladı), yəni enmək istəyərkən onları bir-birinə qısaraq yığdı; bundan irəli gələrək «عُقاب كاسِر» (ovçu/qırıcı qartal) deilir. «الكِسْر» (sümük): üzərində böyük əti olmayan sümük. Şair demişdir: * Və fi yədiha kisrun əbühُّ rəzumu (³) * (Əlində çürük, su axudan ətsiz sümük parça var). Deyilir ki, filan şey yalnız qırılmış halda olur. Bilək sümüyünün dirsəyə birləşən və sümüyün yarısı olan hissəsinə deyilir: «كِسرُ قبيح» (qurd-quşun yeyəcəyi dəyərsiz sümük parçası). Əli ibn İbrahim bizə Əli ibn Əbdüləzizdən, o da Əbu Übeyddən rəvayət edərək oxudu: Əgər sən erkək eşşək olsaydın, rüsvayçılıq eşşəyi olardın... Əgər bir sümük parçası olsaydın, dəyərsiz sümük olardın (¹). Deyilir: «أرضٌ ذات كسور» (Enişli-yoxuşlu yer), yəni yoxuşları və enişləri olan yer, elə bil o, qırılmışdır. «الكِسر» (örtük): çadırın bəzən qaldırılan, bəzən də aşağı salınan aşağı hissəsi. Və o, «جارِي مُكاسِرِي» (qonşumdur), yəni onun evinin kənarı mənim evimin kənarı ilə bitişikdir. Amma «كِسْرى» (Xosrov) sözünə gəldikdə, o, əcəmi ad olub bundan deyil, ərəbləşdirilmişdir. Əbu Əmr demişdir: Xosrova nisbət edilir — və o, kaf hərfinin kəsrəsi ilə deyərdi (²) — «كِسْرِيّ» və «كِسرَوِيّ» (Xosrovi). Əməvi demişdir: «كِسريّ» kəsrə ilə də deilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

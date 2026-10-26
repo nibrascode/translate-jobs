@@ -1,0 +1,17 @@
+{
+ "i": 3441,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كيف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 150,
+  "page_to": 150
+ },
+ "ar": "الكاف والياء والفاء كلمةٌ. يقولون: الكِيفة: الكِسْفة من الثّوب. فأمَّا كيفَ فكلمةٌ موضوعة يُستفهَم بها عن حالِ الإنسان فيقال:\nكيف هو؟ فيقال: صالح.",
+ "az": "[كيف] (Kaf, ya və fa) — bir kəlmədir. Deyirlər: الكِيفة (əl-kifə) — paltarın parçası (كِسْفة). Amma كَيْفَ (keyfə) sözünə gəlincə, bu, insanın halı haqqında sual vermək üçün qoyulmuş bir kəlmədir; deyilir: كيف هو؟ (Keyfə huvə? — O necədir?) Cavabında deyilir: صالح (Salih — yaxşıdır).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

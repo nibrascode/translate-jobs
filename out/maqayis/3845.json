@@ -1,0 +1,17 @@
+{
+ "i": 3845,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 313,
+  "page_to": 313
+ },
+ "ar": "الميم والراء والقاف أصلٌ صحيح يدلُّ على خروج شيءٍ من شيء. منه المَرَق لأنَّه شيءٌ يَمرُق من اللَّحم. وأمْرَقْتُ القِدرَ ومَرَقْتُها (١).\nوالمُروق: الخروج من الشيء. ومرق السهمُ من الرَّمِيَّة: نفذ. ومرقت الإهاب (٢)، إذا حلقْتَ عنه صُوفَه، وهو قياسٌ صحيح لأنَّك كأنَّك أبرزتَ الجلدَ عن شعره.\nوإذا عُطِنَ الإهابُ حَتَّى يُنتِنَ فهو مَرْقٌ. ويقال إن المُرَاقَةَ: الكَلأُ اليسير، ومعناه أنَّ الأرضَ كأنَّها تجرَّدت ومَرِقَت.",
+ "az": "«مرق» (maraqa) — mim, ra və qaf hərflərindən ibarət səhih bir kök olub bir şeyin başqa bir şeydən çıxmasına dəlalət edir. Bunlardan biri اَلمَرَق (al-maraq) — bulyondur, çünki o, ətdən çıxan bir şeydir. أَمْرَقْتُ القِدْرَ وَمَرَقْتُهَا (amraqtu al-qidra wa maraqtuhَا) (١). اَلمُروق (al-muruq): bir şeydən çıxmaq. مَرَقَ السَّهْمُ مِنَ الرَّمِيَّةِ (maraqa as-sahmu min ar-ramiyyati): ox ovdan (hədəfdən) keçib çıxdı. مَرَقْتُ الإِهَابَ (maraqtu al-ihaba) (٢) — dəridən yununu qırxdın, bu səhih bir qaydadır, çünki sən elə bil dərini yunundan ayırıb üzə çıxardın. Dəri üfunət verənə qədər suda saxlanıldıqda o, مَرْق (marq) olar. Deyilir ki, اَلمُرَاقَة (al-muraqa): az otlaqdır, mənası budur ki, yer elə bil soyulmuş və çılpaqlaşmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

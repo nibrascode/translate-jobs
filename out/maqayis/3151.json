@@ -1,0 +1,17 @@
+{
+ "i": 3151,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 511,
+  "page_to": 511
+ },
+ "ar": "الفاء والعين والميم أصلٌ صحيح يدلُّ على اتِّساعٍ وامتلاء.\nفالفَعْم: الملآن. فَعُم يَفْعُم فَعامةً وفُعُومة. وامرأةٌ فَعْمة السَّاقَين، إذا امتلأت ساقُها لحماً. وأفعمْتُ الشَّئَ: ملأته.",
+ "az": "[فعم] (F-Ə-M) Fə, ayn və mim hərfləri genişliyə və doluluğa dəlalət edən doğru bir kökdür. «الفَعْم» (əl-fəəm): dolu deməkdir. «فَعُم يَفْعُم فَعامةً وفُعُومة» (doldu, dolur, doluluq). «امرأةٌ فَعْمة السَّاقَين» (baldırları ətli qadın), bu o zaman deyilir ki, onun baldırı ətlə dolmuş olur. «أفعمْتُ الشَّئَ» (şeyi doldurdum): onu doldurdum.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

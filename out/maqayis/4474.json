@@ -1,0 +1,17 @@
+{
+ "i": 4474,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 86,
+  "page_to": 86
+ },
+ "ar": "الواو والجيم والحاء. كلمةٌ تدلُّ على سَتر شئٍ لشئ. وكلُّ ما استَتَرتَ به وِجاح ووَجاح (٢). ويقال الوجاح: الشَّخص (٣)، لأنَّ كلَّ شخصٍ يستُر ما وراءَه. ومنه: حفَرتُ حَتَّى أوْجَحْت، أى بلغت الصَّفا. والصَّفا يستُر ما تَحتَه ويمنعُه.",
+ "az": "[وجح] (və-im-hə). Bir şeyin başqa bir şeyi örtməsinə dəlalət edən sözdür. Arxasında gizləndiyin hər şeyə «وِجاح» və «وَجاح» (vijah və vəcah) (٢) deyilir. Deyilir ki, «الوجاح» (vəcah) — cisimdir (٣), çünki hər bir cisim arxasında olanı gizlədir. Bundandır: «حَفَرتُ حَتَّى أوْجَحْت» (sərt qayaya çatana qədər qazdım) — yəni hamar qayaya çatdım. Qaya öz altındakını örtür və qoruyur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

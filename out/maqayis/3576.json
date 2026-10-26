@@ -1,0 +1,17 @@
+{
+ "i": 3576,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لهد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 215,
+  "page_to": 215
+ },
+ "ar": "اللام والهاء والدال أصلٌ صحيح، يدلُّ على إذلال ومُطامَنَة، من ذلك لَهَّدْتُ الرّجُل، إذا دفَّعْتَه، فهو مُلَهَّدٌ ذَليل. واللّهِيدُ: البعير يُصِيب جنبه الْحِمْلُ الثَّقيل. وألهَدْت الرّجُلَ، إذا أمسكتَه وخلَّيتَ عليه آخَرَ يقاتُله.\nوألْهَدْتُ بالرّجُل: أزْرَيتُ به.",
+ "az": "[لهد] (ləhəd) - Lam, ha və dal hərfləri səhih bir kök olub, zəlil etməyə və alçaltmağa dəlalət edir. Bunlardan biri لَهَّدْتُ الرّجُل (ləhhədtü ər-ricül) — «kişini itələdim» deməkdir, o isə مُلَهَّدٌ ذَليلٌ (mulhədün zəlil) — zəlil edilmiş kimsədir. وَاللّهِيدُ (və əl-ləhid): ağır yük böyrünə toxunan dəvədir. Və ألهَدْت الرّجُلَ (əlhədtü ər-ricül) — «kişini tutub başqa birini onu döyməyə buraxdın» deməkdir. Və أْلْهَدْتُ بالرّجُل (əlhədtü bi-r-ricül): onu qınadım, rüsvay etdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:34.400Z"
+}

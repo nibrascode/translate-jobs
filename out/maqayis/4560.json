@@ -1,0 +1,17 @@
+{
+ "i": 4560,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وشز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 115,
+  "page_to": 115
+ },
+ "ar": "الواو والشين والزاء: كلمة واحدة، هى الوَشْزُ: ما ارتفع من الأرض، كالنَّشْز، ثمَّ قِيسَ عليه فقِيلَ لشدائد الأمور: أوشاز، الواحد وَشْز.",
+ "az": "[وشز] (Vəşəz): الواو والشين والزاء (vav, şin və zay): bir kəlmədir, o da الوَشْز (əl-vəşz): yerin النَّشْز (nəşz) kimi uca olan hissəsidir. Sonra buna əsasən ölçülərək çətin işlərə أوشاز (övşaz) deyilmişdir, təkli isə وَشْز (vəşz) -dir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

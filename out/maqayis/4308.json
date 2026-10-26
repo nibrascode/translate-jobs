@@ -1,0 +1,17 @@
+{
+ "i": 4308,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هبد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 28,
+  "page_to": 28
+ },
+ "ar": "الهاء والباء والدال. الهَبيد: حبُّ الحنظل. والتَّهَبُّد: أَخْذُه وإصلاحه. وخرجُوا يتهبَّدُون.",
+ "az": "[هبد] (hə-bə-də): Hə, ba və dal. الهَبِيد (əl-həbid): hənzəl (çöl qarpızı) toxumudur. التَّهَبُّد (ət-təhəbbüd): onu toplayıb islah etməkdir. Onlar təhəbbüd edərək (yəni hənzəl yığmağa) çıxdılar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

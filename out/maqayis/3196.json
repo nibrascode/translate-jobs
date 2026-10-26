@@ -1,0 +1,17 @@
+{
+ "i": 3196,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قمس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 26,
+  "page_to": 26
+ },
+ "ar": "القاف والميم والسين أصلٌ صحيحٌ يدلُّ على غَمْسِ شئٍ فى الماء، والماء نفسُه يسمَّى بذلك. من ذلك قَمَسْت الشئَ فى الماء: غَمَسْتُه. ويقال:\nإنّ قَامُوس البحرِ: مُعظَمه. وقالوا فى ذكر المَدِّ والجزر: إنَّ مَلَكاً قد وُكِّل بقَامُوس البحر، كلَّما وَضَعَ رجلَه فاض، فإذا رفَعَها غاضَ. ويقولون *: قَمَسَ الولدُ فى بطن أمِّه: اضطرب. والقَمَّاس: الغَوَّاص. وانْقَمَسَ النّجم: انحطَّ فى المَغْرِب.\nوتقول العربُ للإنسان إذا خاصم مَنْ هو أجرأ منه: «إنما يُقَامِسُ حُوتاً».",
+ "az": "[قمس] \nالقاف والميم والسين (قاف, mim və sin) — bir şeyi suya batırmağa dəlalət edən səhih bir kökdür, suyun özü də belə adlanır. Bunlardan قَمَسْت الشئَ فى الماء — şeyi suya batırdım. \nVə deyilir ki, قَامُوس البحرِ — dənizin böyük hissəsi (dərinliyi) deməkdir. \nMed və qez (su çəkilməsi və qalxması) haqqında demişlər ki, dənizin qamusuna bir mələk vəkil təyin olunmuşdur; ayağını hər dəfə qoyduqda su daşır, qaldırdıqda isə çəkilir.\nVə deyirlər: قَمَسَ الولدُ فى بطن أمِّه — uşaq anasının bətnində tərpəndi. \nالقَمَّاس — dalğıc. \nانْقَمَسَ النّجم — ulduz məğribdə batdı.\nərəblər özündən daha cəsarətli biri ilə mübahisə edən adama deyirlər: «İnnəmə yuqamisu hūtan» (O, sadəcə olaraq balıqla qumar oynayır / suya baş vurur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:31:44.429Z"
+}

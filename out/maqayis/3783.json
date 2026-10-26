@@ -1,0 +1,17 @@
+{
+ "i": 3783,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مأل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 291,
+  "page_to": 291
+ },
+ "ar": "الميم والهمزة واللام. قد ذكروا فيها كلماتٍ ما أحسبها صحيحة، لكنَّني كتبتُها للمعرفة. يقولون: مَألتُ للأمر: استعددت. ويقولون: امرأةٌ مَأْلَةٌ: سمينة. ويقولون: المَأْلة: الرَّوضة، والجمع مِئال. وفي كلِّ ذلك نظر.",
+ "az": "[مأل] (mim, həmzə və lam). Onlar burada doğru olduğunu güman etmədiyim bəzi kəlmələr zikr etmişlər, lakin mən onları məlumat üçün yazdım. Deyirlər: مَألتُ للأمر (ma-eltu lil-əmr): işə hazırlaşdım. Deyirlər: امرأةٌ مَأْلَةٌ (imraatun ma-lətun): kök qadın. Həmçinin deyirlər: المَأْلَة (əl-malə): bağça, çəmənlikdir, cəmi مِئال (mi-al) gəlir. Bütün bunlarda nəzər (müzakirə olunan məqamlar) vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

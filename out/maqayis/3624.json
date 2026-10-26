@@ -1,0 +1,17 @@
+{
+ "i": 3624,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لبأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 232,
+  "page_to": 233
+ },
+ "ar": "اللام والباء والهمزة كلمتان متباينتان جدًّا. فاللَّبُؤَة: الأنثى من الأُسْد. والكلمة الأخرى اللِّبَأ: الذي يُؤَكل، مقصور مهموز. ويقال: ألْبَأتِ الشّاةُ ولدَها: أرضعته اللِّبأ * والتبأها ولدُها. ولَبأْتُ القومَ: سقيتهم لِبَأ. وعِشارٌ مَلَابِئُ، إذا دنا نِتاجُها.\nومما شذَّ عن هذا وهو قليل لبَّأْتُ، مثل لبَّيْت؛ وليس بأصل.",
+ "az": "«لبأ» (Lam, ba və həmzə) bir-birindən çox fərqlənən iki sözdür. اللَّبُؤَة (əl-ləbuə) — dişi şirdir. Digər söz isə اللَّبِə (əl-libə) — yeyilən (doğuşdan sonra heyvanın ilk) südüdür, qısa və həmzəlidir. Və deyilir: ألْبَأتِ الشّاةُ ولدَها (əlbəətil-şatü vələdəhə) — qoyun balasına ağız südü (libə) içirtdi * və balası onu əmdi. Və لَبأْتُ القومَ (ləbətul-qavmə) — qövmə ağız südü içirtdim. Və عِشارٌ مَلَابِئ (işarun mələbiu) — doğuma yaxınlaşan hamilə dəvələr. Və bundan istisna olunan azsaylı sözdür: لبَّأْتُ (ləbbətu), لَبَّيْتُ (ləbbeytu) kimi; və bu əsl deyil.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:21.833Z"
+}

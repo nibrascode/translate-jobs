@@ -1,0 +1,17 @@
+{
+ "i": 3889,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مضح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 331,
+  "page_to": 331
+ },
+ "ar": "الميم والضاد والحاء كلمةٌ واحدة، هي مَضَح عِرضَه يمضَحُه مَضْحًا: عابَهُ وطعن فيه؛ وأمضَحَه أيضًا.",
+ "az": "«مضح» (məzəh) — mim, dad və ha hərfləri tək bir kəlmədir, o da مَضَح عِرضَه يمضَحُه مَضْحًا (məzəhə irzəhu yəmzəhu məzhən) — onun namusunu ləkələdi, eyiblədi və ona dil uzatdı; həmçinin أمضَحَهُ (əmdəhəhü) də belədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

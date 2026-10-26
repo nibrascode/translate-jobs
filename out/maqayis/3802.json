@@ -1,0 +1,17 @@
+{
+ "i": 3802,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مجل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 298,
+  "page_to": 299
+ },
+ "ar": "الميم والجيم واللام كلمةٌ واحدة، وهي مَجِلَتْ يدُه تَمْجَلُ ومَجَلَتْ تَمجُلُ: تنفّطت. ويقولون: جاءَت الإبلُ كأنَّها المَجْل، أي ممتلئة كامتلاء المَجْل. وتَمَجَّلَ قَيحاً: امتلأ.\nوغَلط ابنُ دريدٍ في هذا البناء في موضعين (١): ذكر أنَّ المَاجِلَ: مستنقَعُ الماء، وهذا من باب (أجل)، وذكر أنّ المجلة: الصَّحيفة، هو من (جَلّ).",
+ "az": "[مجل] (Mim, cim və lam): Bir tək sözdür, o da «مَجِلَتْ يدُه تَمْجَلُ» (məcilət yədühü təmcəlü) və «مَجَلَتْ تَمجُلُ» (məcələt təmcülü): qabardı (əli). Deyirlər ki: «جاءَت الإبلُ كأنَّها المَجْل» (cəətil-iblü kəənnəhəl-məcl) – yəni, «المَجْل» qabarının dolğunluğu kimi dolğun gəldi. «تَمَجَّلَ قَيحاً» (təməccələ qəyhən): irinlə doldu.\nİbn Dürid bu binada iki yerdə səhv etmişdir (١): «المَاجِل» (əlməcil) sözünün su yığılan yer (bataqlıq) olduğunu zikr etmişdir, bu isə «أجل» (əcəl) بابındandır; bir də «المجلة» (əlməcəllə) sözünün səhifə (kitab) olduğunu zikr etmişdir, bu da «جَلّ» (cəll) kökündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

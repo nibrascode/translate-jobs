@@ -1,0 +1,17 @@
+{
+ "i": 3067,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فجع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 476,
+  "page_to": 476
+ },
+ "ar": "الفاء والجيم والعين كلمةٌ واحدة، وهى الفَجِيعة، وهى الرَّزيَّة.\nونزلتْ بفلان فاجعةٌ، وتفجَّعَ، إذا توجَّع لها.",
+ "az": "«فجع» (fə-c-ə): Fə, cim və eyn hərfləri tək bir kəlmədir, o da «الفَجِيعة» (fəciə) yəni müsibətdir. Filankəsə faciə gəldi, və o, bundan ötəri kədərlənərək «تَفَجَّعَ» (təfəccəə) - dərd çəkdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

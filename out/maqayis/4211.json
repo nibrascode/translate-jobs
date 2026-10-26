@@ -1,0 +1,17 @@
+{
+ "i": 4211,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 464,
+  "page_to": 464
+ },
+ "ar": "النون والقاف والميم أُصَيلٌ يدلُّ على إنكارِ شيء وعَيبه. ونَقَمْتُ عليه أَنْقِمُ: أنكرتُ عليه فِعلَه. والنِّقْمة من العذاب والانتقام، كأنَّه أنَكَر عليه فعاقَبَه. وقولهم للنَّفس نقيمة، وهو ميمون النَّقيمة، إنما هي من الإبدال، والأصل نَقِيبَة.",
+ "az": "[نقم] (nəqəm): Nun, قاف və mim hərfləri bir şeyi inkar etməyə və qüsur tutmağa dəlalət edən kiçik bir əsldir. نَقَمْتُ عليه أَنْقِمُ (Nəqəmtü ələyhi ənqimü) – onun əməlini pislədim, inkar etdim. Əzab və intiqam mənasında olan النِّقْمة (ənniqmə) də bundandır, sanki [Allah] onun əməlini bəyənməyib cəza verdi. Onların nəfəs üçün نَقيمة (nəqimə) demələri, ميمون النَّقيمة (meymunün-nəqimə) ifadəsi isə əvəzlənmə yolu ilədir, əsli isə نَقِيبَة (nəqibə) sözüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.386Z"
+}

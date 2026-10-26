@@ -1,0 +1,17 @@
+{
+ "i": 3203,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قنب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 30,
+  "page_to": 30
+ },
+ "ar": "القاف والنون والباء أصلٌ يدلُّ على جَمْع وتجمُّع. من ذلك المِقْنَب: القِطْعةُ من الخَيْل، يقال هى نحوُ الأربعينَ. والقَنِيب: الجماعةُ من النَّاس.\nقال ابن دُريد (١): قنَّب الزَّرعُ تَقْنِيباً، إذا أعْصَفَ. قال: وتسمَّى العَصِيفة:\nالقُنَّابَة. والعصيفة: الورَق المجتمعُ الذى يكون فيه السُّنبُل.\nومن الباب: القُنْب، وهو وعاء ثِيلِ الفَرَس، وسمِّى بذلك لأنَّه يَجمَع ما فيه. وأمّا القنَّب فزعم [قومٌ] أنّها عربية. فإنْ كان كذا فهو من قَنَّب الزَّرعُ، إذا أعْصَف. وهو شئٌ يتَّخذ من بعض ذلك.",
+ "az": "«قنب» — قاف، نun və ba hərfləri toplama və toplanma mənasını bildirən bir kökdür. Bunlardan biri «المِقْنَب» (əl-miqnab) — atlı dəstəsidir, təqribən qırx atlı olduğu deyilir. «القَنِيب» (əl-qanib) — insan dəstəsidir.\nİbn Dürid demişdir: «قنَّب الزَّرعُ تَقْنِيباً» (zərc qəvvəbə təqniyən) — əkin sünbül verib bərkidiyi zaman deyilir. O demişdir: Əkinin bu quru yarpaqları «القُنَّابَة» (əl-qunnabə) adlanır. Əsifə isə — içində sünbül olan toplanmış yarpaqlardır.\nHəmin fəsildəndir: «القُنْبُ» (əl-qunb) — atın cinsiyyət orqanının qınıdır, belə adlandırılmışdır, çünki o, içindəkini yığır. «القنَّبُ» (əl-qunnab - çətənə) sözünə gəldikdə isə, [bir qrup] bunun ərəbcə olduğunu iddia etmişdir. Əgər belədirsə, o zaman bu, əkinin sünbül verib bərkiməsini bildirən «قَنَّبَ الزَّرعُ» sözündəndir. Bu, həmin şeylərin bəzisindən düzəldilən bir şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:04.973Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4425,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هند",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 69,
+  "page_to": 69
+ },
+ "ar": "الهاء والنون والدال ليس بقياسٍ، وفيه أسماءٌ موضوعةٌ وضعا فهِند: اسمُ امرأةٍ. وهُنَيدةُ: مائةٌ من الإبل (١). قال.\nأعطَوْا هُنيدةَ يحدوها ثمانيةٌ … ما فى عَطائِهِمُ مَنٌّ وَلَا سرفُ (٢)\nويقال للمائتين هِنْد. أمَّا قولهم: هَنَّدَتْ فلانةُ قلبى: ذهبت به، وهنَّدَتْ فلانةُ فلاناً: أورثَتْهُ عِشقاً بمغازَلةِ - فكلامٌ لا يعرَّج عليه.\nوقولهم: التَّهنيد: شَحْذُ السيف المهنَّد، إنما هو طبع على سيوف الهِند.",
+ "az": "«هند» (hənd): Hə, nun və dal qisası olmayan bir sözdür, onda qəsdən qoyulmuş adlar vardır: هِند (Hind) — qadın adı. وهُنَيدةُ (hunəydə) — yüz dəvədir (١). Şair demişdir: أعطَوْا هُنيدةَ يحدوها ثمانيةٌ … ما فى عَطائِهِمُ مَنٌّ وَلَا سَرَفُ (٢) (Səkkiz nəfərin sürdüyü yüz dəvəni hədiyyə etdilər; onların bəxşişində minnət də yoxdur, israf da). İki yüz dəvəyə هِنْد (hind) deyilir. Onların فلانةُ قلبى: ذهبت به، وهنَّدَتْ فلانةُ فلاناً (Filankəs qəlbimi hənd etdi: apardı, filankəs filankəsi hənd etdi) — ona sevgi aşılamaqla aşiq etdi sözünə gəldikdə isə — bu, heç bir əsası olmayan sözdür. Onların التَّهنيد (əl-təhnid) — mühənnəd qılıncını itiləməkdir sözü isə, sadəcə Hindistan qılınclarının təbiətinə aid edilməsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

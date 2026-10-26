@@ -1,0 +1,17 @@
+{
+ "i": 4445,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وأص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 79,
+  "page_to": 79
+ },
+ "ar": "الواو والهمزة والصاد. يقولون: ما أدرى أى الوَئِيصَةِ هو، أىْ أىُّ الناس هو. والوئيصة: الجماعة (٢).",
+ "az": "[وأص] (Vav, həmzə və sad). Deyirlər: Bilmirəm o hansı vəisədir (الْوَئِيصَةِ), yəni o hansı insandır. Və əl-vəisə — camaatdır (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

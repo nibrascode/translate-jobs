@@ -1,0 +1,17 @@
+{
+ "i": 3353,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 111,
+  "page_to": 111
+ },
+ "ar": "القاف والعين والفاء أصلٌ صحيح يدلُّ على اجتراف (٤) شيء وأخْذِهِ أجمع. من ذلك القَعْف، وهو شدة الوطء واجتراف التّرابِ بالقوائم.\nوالقَاعِف: المطر الشديد يَجْرُف وجهَ الأرض. وسيلٌ قُعَافٌ، مثل الجُراف.\nوقَعَفْتُ النّخلةَ، إذا قلعتَها من أصلها. والقَعْف: اشتِفافُكَ ما في الإناء أجْمَعَ.",
+ "az": "[قعف] (qə-ə-f): Qaf, eyn və fa bir şeyi təmizləyib toplamağa və hamısını birdən götürməyə dəlalət edən doğru bir əsasdır. Bunlardan biri «القَعْف» (əl-qəf) — ayaqlarla güclü basmaq və torpağı qazıb toplamaqdır. Və «القَاعِف» (əl-qəif): yerin üzünü qazıb aparan şiddətli yağış. Və sel kimi «سيلٌ قُعَافٌ» (seylün qufafün), «الجُراف» (əl-curaf) kimidir. Və «قعَفْتُ النّخلةَ» (qəfüt əl-nəxlətə): xurma ağacını kökündən qopardın. Və «القَعْف» (əl-qəf): qabda olanların hamısını birdən sovurub içmək.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

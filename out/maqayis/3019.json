@@ -1,0 +1,17 @@
+{
+ "i": 3019,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فهم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 457,
+  "page_to": 457
+ },
+ "ar": "الفاء والهاء والميم عِلْم الشئ، كذا يقولون أهلُ اللغة (٢) وفَهمٌ: قبيلة.",
+ "az": "«فهم» (fəhəm): Fə, hə və mim hərfləri bir şeyi bilmək mənasındadır, lüğət alimləri belə deyirlər (٢). «فهم» (fəhəm) — həmçinin bir qəbilənin adıdr.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

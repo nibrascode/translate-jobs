@@ -1,0 +1,17 @@
+{
+ "i": 3993,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 369,
+  "page_to": 369
+ },
+ "ar": "النون والواو والسين أصلٌ يدلُّ على اضطرابٍ وتذبذُب.\nوناسَ الشَّيءُ: تذَبْذَب، ينُوس. وسمِّي أبو نُوَاسٍ لذُؤَابتينِ له كانَتَا تنوسانِ.\nويقولون: نُسْت الإبلَ: سُقْتُها.",
+ "az": "[نوس] (nus) - nun, vav və sin tərəddüdə və yellənməyə dəlalət edən səhih bir kökdür. وناسَ الشَّيءُ (nəsəş-şəy'u) — yelləndi, tənəssül etdi, يَنُوس (yənusu). Əbu Nüvas isə yellənən iki hörüyünə görə belə adlandırılmışdır. Və deyirlər: نُسْت الإبلَ (nustul-iblə) — dəvələri qovdum.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

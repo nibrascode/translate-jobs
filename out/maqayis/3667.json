@@ -1,0 +1,17 @@
+{
+ "i": 3667,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لزم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 245,
+  "page_to": 245
+ },
+ "ar": "اللام والزاء والميم أصلٌ واحد صحيح، يدلُّ على مصاحَبة الشَّيء بالشئ دائماً. يقال: لَزِمه الشَّيءُ يَلْزَمُه. واللِّزَام: العذاب الملازم للكُفَّار.",
+ "az": "[لزم] (Ləzəmə) — Lam, zai və mim bir şeyin digər bir şeylə hər zaman yoldaşlıq etməsinə dəlalət edən tək və səhih bir əsasdır. Deyilir: «لَزِمه الشَّيءُ يَلْزَمُه» (ləziməhüş-şəyü yəlzəmuhu). وَاللِّزَام (əl-lizəm) — kafirləri daimi izləyən əzabdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

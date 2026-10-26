@@ -1,0 +1,17 @@
+{
+ "i": 3892,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مطو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 331,
+  "page_to": 332
+ },
+ "ar": "الميم والطاء والحرف المعتلّ أصلٌ صحيح يدلُّ على مدٍّ في الشّيء وامتداد. ومطَوْتُ بالقوم أمْطُو مَطْوًا: مددت بهم في السَّير. قال امرؤ القيس:\nمَطَوْتُ بهم حَتَّى تَكِلَّ مَطيُّهمْ … وحَتَّى الجيادُ ما يُقَدنَ بأرْسَانِ (١)\nوالمطيّة من ذلك القياس، ويقال بل سمِّيت لأنه يُركَب مَطَاها، أي ظَهرها. وسمِّي الظّهر المَطَا للامتداد الذي فيه. والمِطْو: الصَّاحب، لأنّه يمطو معك. قال:\nناديت مِطْوِى وقد مالَ النَّهارُ بهم … وَعَبْرَةُ العينِ جارٍ دَمْعُها سَجِمُ (٢)\nقال ابنُ الأعرابىّ (٣): اشتقاقُه من امتَطَيْتُ (٤) البعير. ومما يجوز أن يقاس على هذا المِطْو (٥): عذْق النخلة، لامتداده.",
+ "az": "«مطو» (mətəv) — mim, ta və hərfi-illə bir şeydə uzanmağa və dartılmağa dəlalət edən səhih bir kökdür. Və مطَوْتُ بالقومِ أمْطُو مَطْوًا (mətəwtü bil-qavmi əmtü mətvən) — səfərdə onlar ilə birlikdə uzun məsafə qət etdim. İmrul-Qeys demişdir: «Dəvələri yorulana və hətta atlar belə yüyənlərlə idarə olunmayana qədər onları sürüb uzatdım (1)». Mətiyyə (minik dəvəsi) də bu qiyasdandır, həmçinin deyirlər ki, onun belinə مَطَا (məta) — yəni beli minildiyi üçün belə adlanmışdır. Bel də özündəki uzunluğa görə مَطَا (məta) adlanmışdır. Və المِطْو (əl-mitv) — yoldaşdır, çünki o, səninlə birlikdə uzanır (gedir). Şair demişdir: «Gün onlar ilə birlikdə əyildiyi zaman yoldaşımı səslədim… və gözümün yaşı sel kimi axmaqdadır (2)». İbn əl-Ərəbi demişdir (3): Onun kökü امتطيتُ البعير (imtətaytül-bəir - dəvəyə mindim) sözündəndir. Buna qiyas edilməsi caiz olan şeylərdən biri də المِطْو (əl-mitv) — xurma budağının uzunluğuna görə belə adlanmasıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

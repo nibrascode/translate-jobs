@@ -1,0 +1,17 @@
+{
+ "i": 3558,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 206,
+  "page_to": 206
+ },
+ "ar": "اللام والغين. ذكر بعضُهم: لَغْلغَ طعامَه: روَّاه بالدَّسَم.",
+ "az": "«لغ» - لام və qeyn. Bəziləri zikr etmişdir: «لَغْلغَ طعامَه» (ləğləğə taaməhü) - yeməyini yağla islatdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

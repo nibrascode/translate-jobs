@@ -1,0 +1,17 @@
+{
+ "i": 3956,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 354,
+  "page_to": 354
+ },
+ "ar": "النون والحاء كلمةٌ يُحكَى بها صوت. فالتَّنحنُح معروف.\n[و] النّحيح: صوت يردِّده الإنسان في جوفه. وحكيت كلمة ما ندري كيف صحّتها. وليس لها قياس. يقولون: ما أنا بِنَحيح النّفس عن كذا، أي طيّب النّفس (٢).",
+ "az": "[نح] Nun və ha - bir səsi ifadə edən kəlmədir. «التَّنحنُح» — məlumdur (öskürək səsi çıxarmaq).\n[و] «النّحيح» — insanın daxilində təkrar etdiyi səsdir. Doğruluğunu bilmədiyimiz bir kəlməni nəql etdilər. Onun qiyas-ölçüsü yoxdur. Deyirlər: «ما أنا بِنَحيح النّفس عن كذا» — yəni mən bundan ötrü könlü xoş (razı) olan deyiləm (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

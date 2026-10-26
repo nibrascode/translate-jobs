@@ -1,0 +1,17 @@
+{
+ "i": 4575,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وطف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 120,
+  "page_to": 120
+ },
+ "ar": "الواو والطاء والفاء: أصلٌ صحيحٌ يدلُّ على طولِ شئ ورَخَاوته. من ذلك: الوَطَف: طُول الأشفار وتَهدُّلُها. والوطف: انهمالُ المطر.\nوالأوطف: البعير القصيرُ شعرِ الأذُنينِ والعينَين. وإنّما يُراد بهذا أنّه لا يبلغ به وَطَفُه أن يكونَ أزبّ، لأنَّ كلَّ أَزَبَّ نَفور. فهذا دونَ الأزبّ، وإلاَّ فهو تامُّ الشعر. ويستعار فيقال: هو فى عيشٍ أوْطَف، أى واسعٍ رخِىّ.",
+ "az": "[وطف] (Vətəf): الواو والطاء والفاء (vav, tə və fa): bir şeyin uzunluğuna və yumşaqlığına dəlalət edən səhih bir kökdür. Bunlardandır: الوَطَف (əl-vətəf): kirpiklərin uzun olması və göz üstünə tökülməsi. Vətəf — yağmurun şiddətlə yağması. Və əftəf (الأوطف) — qulaqlarının və gözlərinin tükləri qısa olan dəvə. Bununla o nəzərdə tutulur ki, onun vətəfi onu qıllı (özəb) olma həddinə çatdırmır, çünki hər bir qıllı dəvə hürkək olur. Bu, qıllı olmaqdan bir az azdır, yoxsa onun tükləri tamdır. Məcazi olaraq deyilir: هو فى عيشٍ أوْطَف (huva fi 'eyşin ötvəf), yəni geniş, rahat dolanışıqdadır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

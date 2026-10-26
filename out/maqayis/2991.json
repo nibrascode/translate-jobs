@@ -1,0 +1,17 @@
+{
+ "i": 2991,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فكل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 445,
+  "page_to": 445
+ },
+ "ar": "الفاء والكاف واللام كلمةٌ واحدة، وهى الأفْكَل:\nالرِّعدة. ويقولون: لا يُبنَى منه فعل",
+ "az": "[فكل]\nFə, kaf və lam bircə kəlmədir: «الأفْكَل» (əl-əfkəl) — titrəmə, əsmə deməkdir. Deyirlər ki, ondan fel qurulmur (düzəlmir).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

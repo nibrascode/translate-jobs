@@ -1,0 +1,17 @@
+{
+ "i": 3022,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فوح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "الفاء والواو والحاء كلمةٌ تدلُّ على ثَوْرٍ وغَليان.\nيقال: فاحت الرِّيح تَفوح فَوْحاً. وحكى ناسٌ: فاحت القِدرُ: غلَتْ.\nوأفحتُها أنا.",
+ "az": "«فوح» (fəwh): Fə, vau və hə hərfləri qaynamağa və coşmağa dəlalət edən sözdür.\nDeyilir: «فاحت الرِّيح تَفوح فَوْحاً» (fahat ərihə tüfuqu fəwhən) — külək əsdi, qoxusu yayıldı. Bəzi insanlar rəvayət etmişdir: «فاحت القِدرُ» (fahat əl-qidrü) — qazan qaynadı. Mən də onu qaynatdım («أفحتُها»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

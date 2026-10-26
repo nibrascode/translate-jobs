@@ -1,0 +1,17 @@
+{
+ "i": 4086,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 407,
+  "page_to": 407
+ },
+ "ar": "النون والخاء والفاء كلمة. يقولون: نَخَفَتِ العَنْزُ بأنفها.\nمثل نَفَطت. ويقولون النَّخْف: النَّفَس العالي.",
+ "az": "[نخف] (N-X-F) Nun, xa və fa bir kəlmədir. Deyirlər: «نَخَفَتِ العَنْزُ بأنفها» (Keçi burnu ilə nəxəf etdi). «نَفَطت» (nəfət - burnundan səs çıxardı) kimidir. «النَّخْف» (ən-nəxf) - yüksək nəfəs deməkdir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

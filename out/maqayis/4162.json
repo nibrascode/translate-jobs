@@ -1,0 +1,17 @@
+{
+ "i": 4162,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نطي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 442,
+  "page_to": 442
+ },
+ "ar": "النون والطاء والحرف المعتلّ كلمةٌ تدلُّ على تباعُدٍ في الشَّيء وتطاوُل. وأرضٌ نَطِيَّةٌ: بعيدة. قال امرؤ القيس:\nتَرَوَّحَ من أرضٍ لأرضٍ نَطيّة … لذكرةِ قَيض حولَ بيض مُفَلَّقِ (٢)\nوأنْطَاه، إذا أعطاه. ومَنْ أعطى أحداً شيئًا فقد جَعلَ الشّيءَ عن نفسه بعيداً.\nويحتمل أنّه من باب الإبدال، من الإعطاء.\nوممّا حُمِل على هذا: لا تُنَاطِ الرِّجَال، أي لا تَمَرَّسْ بهم وتطاوِلْهُم العداوَةَ.",
+ "az": "[نطي] (nun, ta və uzanan hərf) – bir şeydə uzaqlığa və uzun olmağa delalət edən kəlmədir. وَأرضٌ نَطِيَّةٌ (və ərdun nətiyyəh) – uzaq yer. İmruül-Qeys demişdir: تَرَوَّحَ من أرضٍ لأرضٍ نَطيّة … لذكرةِ قَيض حولَ بيض مُفَلَّقِ (٢) («O, yarılmış yumurtaların ətrafındakı qabıqların xatirəsinə uzaq bir yerdən başqa uzaq bir yerə axşamüstü səfər etdi»). وَأنْطَاه (və əntəhu) – ona verən zaman. Hər kəs kimsəyə bir şey verərsə, o şeyik özündən uzaqlaşdırmış olar. Ehtimal olunur ki, bu, əvəzetmə babındandır, yəni vermək mənasındadır. Buna həml olunan şeylərdən biri də budur: لا تُنَاطِ الرِّجَال (la tünati-r-rical) – yəni kişilərlə vuruşma və onlarla düşmənçiliyi uzatma.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

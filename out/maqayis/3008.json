@@ -1,0 +1,17 @@
+{
+ "i": 3008,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فلك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 452,
+  "page_to": 453
+ },
+ "ar": "الفاء واللام والكاف أصلٌ صحيح يدلُّ على استدارةٍ فى شئ. من ذلك فَلْكة المِغزل بفتح الفاء (٤)، سمِّيت لاستدارتها؛ ولذلك قيل: فَلّك ثَدْىُ المرأة، إذا استدار.\nومن هذا القياس فَلَكَ السماء. وفَلكْتُ الجَدْىَ بقضيبٍ أو هُلْبٍ: أدرتُه على لسانه لئلاّ يرتضع. والفَلَك: قِطَعٌ من الأرض مستديرةٌ مرتفِعة عمَّا حولَها.\nويقال إنَّ فَلْكة اللِّسان: ما صَلُب من أصله. وأمَّا السفينة فتسمَّى فُلْكا.\nويقال إنَّ الواحد والجمعَ فى هذا الاسم سواء، ولعلَّها تسمَّى فَلْكاً لأنَّها تدار فى الماء.",
+ "az": "[فلك] (fə-lə-k). Fə, lam və kaf səhih əsas olub bir şeydə dairəviliyə dəlalət edir. Bunlardandır: Fə hərfinin fəthi ilə tələffüz olunan «فَلْكة المِغزل» (əyrəc başlığı) (4), dairəvi olduğuna görə belə adlanmışdır; buna görə də qadının döşü dairəvilaşdikdə «فَلّك ثَدْىُ المرأة» demişlər.\nBu qiyasdandır: «فَلَكَ السماء» (səmanın fələyi). Və bir şeyi çubuq və ya tük ilə dilinə dolaşdıraraq əmizdirməmək üçün buzovunu fələk etdim («فَلَكْتُ الجَدْىَ»). «الفَلَك» — ətrafındakı torpaqdan hündür və dairəvi olan torpaq parşalarıdır. Deyilir ki, «فَلْكة اللِّسان» — dilin kökündən olan sərt hissəsidir. Gəmiyə gəldikdə, o «فُلْك» adlanır. Deyilir ki, bu isimdə tək və cəm eynidir, o, ehtimal ki, suda fırladıldığı üçün «فَلْك» adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:24:42.634Z"
+}

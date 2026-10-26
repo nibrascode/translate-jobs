@@ -1,0 +1,17 @@
+{
+ "i": 4359,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 48,
+  "page_to": 48
+ },
+ "ar": "الهاء والراء واللام. يقولون: الهَرْوَلة: بين المَشْى والعَدْو.",
+ "az": "«هرل» — الهاء والراء واللام (hə, ra və lam). Deyirlər: الهَرْوَلة (hərvələ) — yeriməklə qaçış arasındakı sürətli addımlardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3343,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 107,
+  "page_to": 107
+ },
+ "ar": "القاف والعين والحرف المعتل فيه كلماتٌ لا قياسَ لها.\nيقولون: قَعَا الفحلُ النّاقةَ قُعُوّاً (١). والقَعْو: خَشَبتانِ في البَكْرةِ فيهما المِحْور (٢).\n* قال:\nمَقذوفةٍ بدَخيسِ اللّحمِ باَزِلُها … له صريفٌ صَرِيفُ القَعْوِ بالمَسدِ (٣)\nوأقْعَى الرَّجلُ في مَجلِسه، إذا تسانَدَ كما يُقعِي الكلِب. ونُهِيَ عن الإقعاء في الصلاة. وذكر ابنُ دُريد: امرأةٌ قَعْوَاء: دقيقةُ السّاقَين (٤)",
+ "az": "[قعو] (qə-ə-v): Qaf, eyn və uzadılma hərfi (mötəl) olan sözlərdir, əsası yoxdur. Deyirlər: «قعَا الفحلُ النّاقةَ قُعُوّاً» (qə əl-fəhlü ən-naqətə ququvvən) (١). Və «القَعْو» (qəqü): içərisində ox (mühvər) olan dolabçaradakı iki taxtadır (٢). * (Şair) demişdir: «مَقذوفةٍ بدَخيسِ اللّحمِ باَزِلُها … له صريفٌ صَرِيفُ القَعْوِ بالمَسدِ» (٣) (Əzələlərinin dolğunluğundan atılmış, dişisi erkəyi seçilməyən dəvə... onun qıcartısı ipə sarılmış dolabçanın qıcartısı kimidir). Və kişi məclisində «وأقْعَى الرَّجلُ» (və əqə əl-racülü) — it oturan kimi arxası üstə dirsəklənərək oturduqda deyilir. Namazda it kimi oturmaq qadağan edilmişdir. İbn Dürid qeyd etmişdir: «امرأةٌ قَعْوَاء» (imrətün qəvaə) — incə baldırları olan qadın deməkdir (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

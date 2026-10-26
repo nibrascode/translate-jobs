@@ -1,0 +1,17 @@
+{
+ "i": 3662,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لدن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 243,
+  "page_to": 243
+ },
+ "ar": "اللام والدال والنون كلمةٌ واحدة. يقال للّيِّن من القضبان لَدْنٌ. ولَدُنْ بمعنى لَدَى، أي عِنْدَ.",
+ "az": "[لدن] (Lədənə) — Lam, dal və nun tək bir kəlmədir. Budaqların yumşaq olanına لَدْن (lədn) deyilir. لَدُنْ (lədun) isə لَدَى (lədə) mənasında, yəni «yanında» deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4645,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ولث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 142,
+  "page_to": 142
+ },
+ "ar": "الواو واللام والثاء، فيه كلمتان. يقال: بينهم وَلْثٌ (٤)، أى عهد.\nوالأخرى وَلثَه بالعصا يَلِثُه وَلْثاً. ووَلَثَت المَطَرةُ الأرضَ، إذا ضَرَبت.",
+ "az": "«ولث» (vələs/vələth). Vəv, lam və sə (və ya səh - burada th/ث hərfi verilib). Burada iki kəlmə vardır. Deyilir: بَيْنَهُمْ وَلْثٌ (bəynəhüm vəlsün/vələthün) — yəni əhd. Digəri: وَلَثَهُ بِالْعَصَا يَلِثُهُ وَلْثاً (vələthühü bil-əsə yəliθühü vəlsən/vələthən). وَلَثَتِ الْمَطَرَةُ الْأَرْضَ (vələthətil-mətaratul-ard) — yağış yerə çırpıldığı zaman (deyilir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.059Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3854,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 317,
+  "page_to": 317
+ },
+ "ar": "الميم والراء والخاء كلمةٌ صحيحة تدلُّ على تليينٍ في شيء.\nومَرَخْتُ (١) الجِلْدَ بالدُّهْن وأمرَخْتُه. وأمْرَخْتُ العجينَ: أكثرتُ ماءَه حتى يسترخىَ. والمَرْخ: شجرٌ سريع الوَرْى. قال:\nأَمَرْخٌ خيامُهُمْ أم عُشَرْ … أم القلبُ في إثرهم مُنحدِرْ (٢)\nومما شذَّ عن هذا الباب المِرِّيخ: سهمٌ طويل يُقتَدَرُ به الغِلاء (٣)، له أربع قُذَذ؛ وهو نجمٌ أيضاً.",
+ "az": "«مرخ» (maraža) — mim, ra və xa hərflərindən ibarət səhih bir kəlmə olub bir şeyi yumşaltmağa dəlalət edir. مَرَخْتُ الجِلْدَ بِالدُّهْنِ وَأَمْرَخْتُهُ (maraxtu al-jilda bi-ad-duhni wa amraxtuhu). أَمْرَخْتُ العَجِينَ (amraxtu al-‘ajina): yumşalsın deyə xəmirə çox su əlavə etdim. اَلمَرْخ (al-marx): oduncağı tez alışan ağac. O demişdir: أَمَرْخٌ خِيَامُهُمْ أَمْ عُشَرْ … أَمِ القَلْبُ فِي إِثْرِهِمْ مُنْحَدِرْ (amarxun xiyamuhum am 'uşaru... am al-qalbu fi ithrihim munhadir). Bu bölmədən şaz olan اَلْمِرِّيخ (al-mirrix): bahaçılığı ölçmək üçün istifadə olunan, dörd lələyi olan uzun oxdur; həmçinin ulduzun adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4169,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نعف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 444,
+  "page_to": 445
+ },
+ "ar": "النون والعين والفاء كلمةٌ تدلُّ على ارتفاعٍ فى شيءٍ. منه النَّعْف: مكانٌ مرتفع في اعتراض. والنَّعْفة: ذُؤابة الرَّحْل، سمِّيت لأنها سامية.\nوانتَعَفَ الرَّجُل الشيءَ، إذا تركهُ إلى غيرِه، كأنّه سَمَا بنفسه عنه.\nومن الكلمة الأولى ناعَفْتُ (١) الرّجُل: عارضتُه. وتَنَعَّفَ (٢) الرّجُلُ:\nارتقَى نَعْفا.",
+ "az": "[نعف] (nun, eyn və fa) – bir şeydə hündürlüyə delalət edən kəlmədir. Bunlardan biri النَّعْف (ən-nef) – eninə yerləşən hündür yerdir. النَّعْفة (ən-nefə) – yəhərin ucu, uca olduğuna görə belə adlandırılmışdır. وَانتَعَفَ الرَّجُل الشيءَ (intəfə-r-rəcülü-ş-şeyə) – kişi o şeyi tərk edib başqasına keçdi, sanki özünü ondan uca tutdu. Birinci kəlmədən: ناعَفْتُ الرّجُل (naəftü-r-رəcül) – ona qarşı çıxdım. وَتَنَعَّفَ الرَّجُلُ (tənəffə-r-rəcülü) – hündür yerə qalxdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:51.819Z"
+}

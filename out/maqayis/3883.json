@@ -1,0 +1,17 @@
+{
+ "i": 3883,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مصح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 328,
+  "page_to": 328
+ },
+ "ar": "الميم والصاد والحاء أصلٌ صحيح يدلُّ على ذَهاب الشّيء.\nتقول: مَصَحَ الشيءُ يَمصَح مُصُوحاً: رسَخَ في الثَّرى * وغيره. والدَّار تَمصَح، أي تدرُس وتذهَب. ومَصَحَ الظِّلُّ: قَصُر. ومَصَح النَّبات: ولّى وذهب لونُ زهره.",
+ "az": "«مصح» (məsəh) — mim, sad və ha hərfləri bir şeyin yox olub getməsinə dəlalət edən səhih bir kökdür. Deyirsən: مَصَحَ الشيءُ يَمصَح مُصُوحاً (məsəəş-şəyyü yəm-səhu musūhən) — torpaqda və başqa yerdə kök saldı. Və الدَّار تَمصَح (əd-daru təm-səhu) — yəni ev köhnəlib yox olur. Və مَصَحَ الظِّلُّ (məsəəz-zillü) — kölgə qısaldı. Və مَصَح النَّباتُ (məsəən-nəbatu) — bitkinin rəngi solub getdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

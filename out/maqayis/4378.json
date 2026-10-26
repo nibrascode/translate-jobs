@@ -1,0 +1,17 @@
+{
+ "i": 4378,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هشل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 54,
+  "page_to": 54
+ },
+ "ar": "الهاء والشين واللام. يقولون: الهَشِيلة: البَعير يأخذُه الرّجُل من غير إذنِ صاحِبِه يبلُغ به حيث يريدُه ثم يردُّه. قال:\nوكلُّ هَشِيلةٍ ما دمتُ حيًّا … علىَّ محرّمٌ إلاّ الجمال (٢)",
+ "az": "«هشل» — الهاء والشين واللام (hə, şin və lam). Deyirlər: الهَشِيلة (həşilə) — adamın sahibinin icazəsi olmadan götürüb istədiyi yerə apardıqdan sonra qaytardığı dəvədir. O demişdir: وكلُّ هَشِيلةٍ ما دمتُ حيًّا … علىَّ محرّمٌ إلاّ الجمال (Mən sağ olduğum müddətcə hər bir həşilə mənə haramdır, dəvələrdən başqa).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

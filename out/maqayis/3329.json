@@ -1,0 +1,17 @@
+{
+ "i": 3329,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قضم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 99,
+  "page_to": 99
+ },
+ "ar": "القاف والضاد والميم كلمتانِ متباينتان لا مناسبةَ بينهما: إحداهما القَضْم: قَضْم الدّابَّة شعيرَها؛ يقال قَضِمَتْ تَقْضَم. ويقولون: ما ذُقتُ قَضَاماً.\nويقال: القَضْم: الأكل بأطراف الأسنان، والخَضْم بالفم كلِّه.\nوالكلمة الأخرى: القَضِيم، يقال إنَّه الجِلدُ الأبيض، أو الصَّحيفة البيضاء.\nقال النابغة:\nكأنَّ مَجرَّ الرامساتِ ذُيولَها … عليه قَضِيمٌ نَمَّقَتْهُ الصَّوانعُ (١)",
+ "az": "[قضم] (qəzm). Qaf, dad və mim hərfləri arasında heç bir əlaqə olmayan iki fərqli kəlmədir: Biri القَضْم (əl-qəzm) – minik heyvanının arpasını qəzməsi (gəvəməsi); qəsimət təqðəm (قضِمت تَقْضَم) deyilir. Onlar deyirlər: ما ذُقتُ قَضَاماً (mən bir şey dadmamışam). \nVə deyilir ki, القَضْم (əl-qəzm) – dişlərin ucları ilə yeməkdir, الخَضْم (əl-xəzm) isə bütün ağızla yeməkdir.\nVə digər kəlmə: القَضِيم (əl-qəzim), deyilir ki, o, ağ dəri və ya ağ səhifədir.\nNabiğə demişdir:\nكأنَّ مَجرَّ الرامساتِ ذُيولَها … عليه قَضِيمٌ نَمَّقَتْهُ الصَّوانعُ (١)\n(Sanki küləklərin izlərini və ətəklərini çəkdikləri yer... üzərində ustaların naxışladığı ağ dəri (səhifə) kimidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:36:41.564Z"
+}

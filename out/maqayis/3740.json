@@ -1,0 +1,17 @@
+{
+ "i": 3740,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 273,
+  "page_to": 274
+ },
+ "ar": "الميم والعين كلمةٌ تدلُّ على اختلاطٍ وجلبةٍ وما أشبه ذلك.\nمنه المَعْمعة: صوت الحريق وصوت الشُّجعان في الحرب. والمَعمعان: شدّة الحرّ.\nقال ذو الرمة:\nحَتَّى إذا مَعمعانُ الصيف هَبَّ لهُ … بأجَّةٍ نَشَّ عنها الماءُ والرُّطُبُ (١)\nومما ليس من هذا الباب «مَعَ»، وهي كلمةُ مصاحبةٍ، يقال: هذا مع ذاك.\nويقولون في صفة النساء (٢): «منهنَّ مَعْمَع، لها شَيْئَها أجْمَع»، وهي التي لا تعطى أحداً شيئاً يكون معها أبداً.",
+ "az": "[مع]\nالميم والعين (mim və ayn) sözün əsri qarışığa, hay-küyə və bu kimi şeylərə dəlalət edir.\nOndan: المَعْمəعَة (əzməcə): yanğın səsi və müharibədə cəsur insanların səsi. وَالمَعْمَعَان (əzməcan): istinin şiddəti.\nZü əd-Rummə demişdir:\nحَتَّى إذا مَعمعانُ الصيف هَبَّ لهُ … بأجَّةٍ نَشَّ عنها الماءُ والرُّطُبُ (١)\n(Hətta yayın şiddətli istisi qopduğu zaman… bir qızartı ilə ki, ondan su və təzə xurma qurudu).\nVə bu babdan olmayan «مع» (məə - ilə) sözüdür ki, birlik kəlməsidir; deyilir: Bu, bununla «مع ذاك» (məə zək).\nOnlar qadınların sifətində (٢) deyirlər: «منهنَّ مَعْمَع، لها شَيْئَها أجْمَع» (Onlardan məzməc vardır ki, hər şeyini özündə cəmləşdirər), yəni o qadındır ki, heç kəsə heç vaxt özündə olan bir şeyi verməz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:01.671Z"
+}

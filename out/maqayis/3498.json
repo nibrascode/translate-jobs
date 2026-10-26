@@ -1,0 +1,17 @@
+{
+ "i": 3498,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 171,
+  "page_to": 172
+ },
+ "ar": "الكاف والراء والميم أصلٌ صحيح له بابان: أحدهما شَرَفٌ\nفي الشَّيء في نفسِه أو شرفٌ في خُلَق من الأخلاق. يقال رجلٌ كريم، وفرسٌ كريم، ونبات كريم. وأكرَمَ الرّجلُ، إذا أتَى بأولادٍ كِرَام. واستَكْرَم:\nاتَّخَذَ عِلْقاً كَرِيما. وكَرُم السّحابُ: أتَى بالغَيث. وأرضٌ مَكرُمَةٌ للنَّبات، إذا كانت جيِّدة النبات. والكَرَم في الخُلْق يقال هو الصَّفح عن ذنبِ المُذنب. قال عبدُ اللّه بنُ مسلِم بن قُتيبة: الكريم: الصَّفوح. واللّه تعالى هو الكريم الصَّفوح عن ذنوب عبادِه المؤمنين.\nوالأصل الآخر الكَرْم، وهي القِلادة. قال:\n* عَدُوسِ السُّرَى لا يَعرِف الكَرْمَ جيدُها (١) *\nوأمّا الكَرْم فالعِنَب أيضاً لأنّه مجتَمِع الشُّعَب منظومُ الحبّ.",
+ "az": "[كرم]. Kaf, ra və mim düzgün kök olub iki qapısı vardır: Biri şeyin özündə olan şərəf və ya əxlaqi keyfiyyətlərdə olan şərəfdir. Deyilir: kərim kişi, kərim at, kərim bitki. Və kişi əkrəm etdi, yəni kərim övladlar gətirdi. Və istəkram etdi: qiymətli bir əşya əldə etdi. Və bulud kərim oldu: yağış gətirdi. Və bitki üçün ərzun məkrəmətdir, yəni bitkisi gözəl olandır. Əxlaqda kərəm isə günahkarın günahından keçməkdir. Abdullah ibn Müslim ibn Quteybə demişdir: Kərim: güzəşt edəndir. Uca Allah da mömin qullarının günahlarından keçən Kərimdir, Güzəşt edəndir. Digər kök isə boyunbağı mənasında olan əl-kərmdir. O demişdir: * عَدُوسِ السُّرَى لا يَعرِف الكَرْمَ جيدُها (١) * (Gecə səyahət edən, boynu boyunbağı tanımaz). Əl-kərm həmçinin üzümdür, çünki onun budaqları toplanmış, dənələri isə düzülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

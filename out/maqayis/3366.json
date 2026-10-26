@@ -1,0 +1,17 @@
+{
+ "i": 3366,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 116,
+  "page_to": 116
+ },
+ "ar": "القاف والفاء والعين كلماتٌ تدلُّ على تجمُّع في شيء. يقال أذنٌ قَفْعاءُ، كأنَّها أصابَتْها نار فانزَوَتْ. والرِّجْل القَفْعاء: التي ارتدَّتْ أَصابعُها إلى القَدَم من البرد. والقَفْعة: شيءٌ يتَّخَذ من خُوص يُجتَنَى فيه الرُّطَب.\nو\nفى الحديث: فى ذكر الجراد: «ليْتَ عندنا منه قَفْعَةً أو قَفْعَتَينِ». واللّه تعالى أعلمُ وأحكم.",
+ "az": "[قفع] Qaf, fa və ayn. Bir şeydə toplanmağa dəlalət edən sözlərdir. «Üzunun qəfəu» (qulaq büzüşmüş) deyilir, sanki ona od dəyib və büzüşüb. «Riclun qəfəu»: soyuqdan barmaqları ayağa doğru geri dönmüş ayaq. «Qəfəə»: xurma yığmaq üçün xurma yarpağından düzəldilən bir qab. Hədisdə, çəyirtkə haqqında deyilir: «Kaş yanımızda ondan bir və ya iki qəfəə (qab) olaydı». Allah daha yaxşı bilir və daha hikmətlidir.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.649Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4427,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هنف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 69,
+  "page_to": 69
+ },
+ "ar": "الهاء والنون والفاء: كلمةٌ واحدة: هى المُهَانَفَة: الضَّحِك فوق التبسُّم. قالوا: ولا يقال للرَّجُل تَهَانَفَ؛ فهو نعتٌ فى ضحك النِّساء خاصَّةً، حكاه الخليل. ويقال: بل التَّهَانُف: ضَحِك المستهزِئ.",
+ "az": "«هنف» (hənəf): Hə, nun və fa hərfləri tək bir kəlmədir: o da المُهَانَفَة (əl-muhanəfə) — təbəssümdən yuxarı olan gülüşdür. Alimlər demişlər ki, kişiyə تَهَانَفَ (təhənəfə) deyilməz; bu, yalnız qadınların gülüşünə xas olan xüsusiyyətdir, bunu Xəlil rəvayət etmişdir. Deyilir ki, əksinə, التَّهَانُف (əl-təhanuf) — istehza edənin gülüşüdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

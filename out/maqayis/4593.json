@@ -1,0 +1,17 @@
+{
+ "i": 4593,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 125,
+  "page_to": 125
+ },
+ "ar": "الواو والعين والدال: كلمةٌ صحيحةٌ تدلُّ على تَرجِيَةٍ بقَوْل (١).\nيقال: وعَدْتُه أَعِدُهُ وَعْداً. ويكون ذلك بخيرٍ وشَرٍّ. فأ [مّاا] لوَعِيدُ فلا يكون إلاّ بشَرّ. يقولون: أوعَدْتُه بكذا. قال:\n* أوْعَدَنِى بالسِّجْنِ والأداهِمِ (٢) *\nوالمُوَاعَدَة من المِيعاد. والعِدَة: الوَعْد، وجمعها عِدَاتٌ: والوَعْد لا يجمع.\nووَعِيدُ الفَحْل: [هَدِيرُه (٣)] إذا همَّ أن يصول. قال:\n* يُوعِدُ قلبَ الأعزلِ (٤) *\nوأرضُ بنى فلانٍ واعِدَةٌ، إذا رُجِىَ خَيرُها من المطر والإعشاب. ويومٌ واعدٌ: أوّلُه يَعِدُ بحرٍّ أو بَرْد.",
+ "az": "[وعد] الواو والعين والدال: sözlə ümid verməyə dəlalət edən səhih sözdür (١). Deyirlər: وعَدْتُه أَعِدُهُ وَعْداً (Ona vəd etdim). Bu, xeyir və şər ilə olur. Amma لوَعِيدُ (hədə-qorxu) isə yalnız şər ilə olur. Deyirlər: أوْعَدْتُه بكذا (Onu belə bir şeylə qorxutdum). Demişdir: * أوْعَدَنِى بالسِّجْنِ والأداهِمِ (٢) * (Məni həbs və buxovlarla hədələdi). Və المُوَاعَدَة (müavadə) مِيعاد (miad)-dandır. Və العِدَة (əl-idə): vəddir, cəmi isə عِدَاتٌ (idat)-dır; الوَعْد (vəd) sözünün cəmi gəlməz. Və عَدvәnində فحلin (erkək dəvənin) vəcidi: [هَدِيرُه (٣)] (onun nəriltisidir) hücuma keçmək istədikdə. Demişdir: * يُوعِدُ قلبَ الأعزلِ (٤) * (Qorxağın qəlbinə qorxu salır). Və بنى فلانٌ أرضُ (filan qəbilənin torpağı) واعِدَةٌ (vaidədir), yağışdan və yaşıllıqdan xeyri gözlənildiyi zaman. Və gün واعِدٌ (vaid)-dir: əvvəli isti və ya soyuq ilə xəbər verir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4187,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نغب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 452,
+  "page_to": 452
+ },
+ "ar": "النون والغين والباء كلمةٌ واحدة، هي النُّغْبة: الجُرْعة.\nونَغَبت، إذا جَرَعْتَ، والجمع نُغَب. قال ذو الرّمّة يصف حميراً وردت ماءً فلم تَرْوَ:\nحَتَّى إذا زَلَجَتْ عن كلِّ حنجرةٍ … إلى الغَليل ولم يَقْصَعْنَهُ نُغَبُ (٣)",
+ "az": "[نغب] (ن، غ، ب) — tək bir sözdür, o da النُّغْبة (ən-nuğbət): qurtum mənasını verir. نَغَبت (nəğəbtü) — qurtum-qurtum içdin deməkdir, cəmi نُغَب (nuğəb) gələr. Züər-Rummə su başını kəsdirmiş, lakin doymayan dəvələri təsvir edərək demişdir: حَتَّى إذا زَلَجَتْ عن كلِّ حنجرةٍ … إلى الغَليل ولم يَقْصَعْنَهُ نُغَبُ (٣) (...Nəhayət, qurtumlar hər boğazdan keçərək susuzluğa çatdıqda, lakin onu söndürmədilər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:01:38.997Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4069,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 400,
+  "page_to": 400
+ },
+ "ar": "النون والجيم والثاء أُصَيلٌ يدلُّ على إبراز شيءٍ وسَوءَةٍ (١).\nمنه النَّجيثة: ما أُخرِجَ من تُراب البِئر. ويقال: بَدا نَجِيثُ القَوم، أي ما كانوا يخفونه من سَوءة. والنَّجيث: الهَدَف. قال الخليل: سمِّي نجيثًا لانتصابه.\nوهو يَنْجُثُ بني فلان، إذا استعْواهم مستغيثًا بهم، ومعناه أنّه يسألهم البُروزَ لنُصْرته. والاستنجاث: التَّصدِّي للشّيء، والقياس في كلِّه واحد، واللّه أعلم.",
+ "az": "[نجث] (n-c-ث) - Nün, cim və sə hərflərindən ibarət kiçik bir kök olub, bir şeyin və eybin üzə çıxarılmasına dəlalət edir (١).\nOndandır: النَّجِيثَة (ən-nəcisə): quyunun torpağından çıxarılan şey. Deyilir: بَدا نَجِيثُ القَوم (qövmün nəcisi aşkar oldu), yəni gizlətdikləri eyb üzə çıxdı. وَالنَّجِيث (ən-nəcis): hədəf. Xəlil demişdir: dik durduğuna görə ona nəcis deyilmişdir.\nO, yardım istəyərək onları haraylayıb çağırdığı zaman يَنْجُثُ بني فلان (filan oğullarını yəhirləyir/haraylayır), bunun mənası odur ki, o, onlardan özünə kömək etmək üçün üzə çıxmalarını tələb edir. والاستنجاث (əl-istincas): bir işə can yandırıb girişmək, hamısında qiyas birdir, Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

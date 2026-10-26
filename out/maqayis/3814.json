@@ -1,0 +1,17 @@
+{
+ "i": 3814,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 303,
+  "page_to": 303
+ },
+ "ar": "الميم والحاء والجيم. يقولون: مَحَجت الأرضَ الرِّيحُ: مسحت التُّرابَ عنها. ومَحَجْتُ اللَّحمَ: قشَرته. قال الخليل: والمَحْج: مسحُ شيءٍ عن شيء.\nقال ابن دريد (١): ومَحَجت الأديمَ والحبْلَ، إذا دلكته لِيَلين. قال: وماحَجْتُه مُماحجةً ومِحاجاً، إذا ما طَلته. وإن صحَّ الباب فأصله المَسْح.",
+ "az": "[محج] (Mim, ha və cim): Deyirlər ki: «مَحَجت الأرضَ الرِّيحُ» (məhəcətil-ardər-rihu): külək torpağın üzərini süpürüb təmizlədi. «مَحَجْتُ اللَّحمَ» (məhəcütül-ləhmə): ətin dərisini soyub təmizlədim. Xəlil demişdir: «المَحْج» (əl-məhc): bir şeyi digər bir şeyin üzərindən silib aparmaqdır.\nİbn Dürid demişdir (١): «مَحَجت الأديمَ والحبْلَ» (məhəcətil-ədümə vəl-həblə) – dərini və ipi yumşalsın deyə ovxaladım. Həmçinin demişdir: «ماحَجْتُه مُماحجةً ومِحاجاً» (məhəcütuhu muməhacətən və mihacən) – onunla mübahisə və mücadilə etdim. Əgər bu باب səhihdirsə, onun əsli «المَسْح» (əl-məsh)-dir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

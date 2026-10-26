@@ -1,0 +1,17 @@
+{
+ "i": 4121,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 421,
+  "page_to": 421
+ },
+ "ar": "النون والسين والميم أصلٌ صحيح يدلُّ على خروج نَفَس، أو ريحٍ غير شديدةٍ الهبوب. ونَفَس الإنسان نَسيم. وكذا الرِّيح الليِّنة الهُبوب.\nويقولون: من أين مَنْسِمُكَ، أي من [أين] وِجْهتُك. والقياس واحدٌ، لأنّه إذا أقبلَ أقبلَ نَسِيمُه. ولذلك سمِّيت النَّفْس نَسَمة.\nوشذّ عنه المَنْسم: خُفّ البعير، ويمكن أنّه محمولٌ على الباب، لأنّ خُفّه هو ما يحمل نَسَمتَه.",
+ "az": "[نسم] (nəsmə): Nun, sin və mim nəfəsin çıxmasına və ya çox şiddətli əsməyən yéçliyə (yüngül küləyə) dəlalət edən səhih əsldir. İnsanın nəfəsi nəsimdir. Eynilə yüngül əsən külək də belədir.\n\nDeyirlər ki: min əynə mənsimük, yəni [hardandır] istiqamətin. Qiyas eynidir, çünki o, gəldikdə onun nəsimi gəlir. Məhz buna görə nəfsə nəsmə demişlər.\n\nBunlardan fərqli olaraq əl-mənsim (dəvənin ayaq tabanı) şazdır, lakin o da bu fəslə aid edilə bilər, çünki onun ayaq tabanı onun nəsməsini (canını) daşıyan şeydir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

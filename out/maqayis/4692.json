@@ -1,0 +1,17 @@
+{
+ "i": 4692,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يفع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 157,
+  "page_to": 157
+ },
+ "ar": "الياء والفاء والعين: كلمةٌ تدلُّ على الارتفاع. فاليَفَاع: ما عَلَا من الأرض. ومنه يقال: أيْفَعَ الغُلامُ. إذا عَلَا شبابُه، فهو يافعٌ، ولا يقال مُوفِعٌ.",
+ "az": "«يفع» (Y-F-Ə): Ucalığa dəlalət edən bir sözdür. اليَفَاعُ (əl-yəfa) – yerin uca olan hissəsidir. Eyni kökdən deyilir: «أَيْفَعَ الغُلامُ» – oğlan yaşına dolub ucaldıqda, o, «يافع» (yəfi) olur, lakin «مُوفِعٌ» (mufic) deyilmir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

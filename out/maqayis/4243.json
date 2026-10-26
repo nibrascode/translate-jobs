@@ -1,0 +1,17 @@
+{
+ "i": 4243,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نمي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 479,
+  "page_to": 480
+ },
+ "ar": "النون والميم والحرف المعتلّ أصلٌ واحدٌ يدلُّ على ارتفاع وزِيادة.\nونمَى المالُ ينمِي: زاد. ونَمَى الخِضَابُ يَنْمِي ويَنمُو، إذا زاد حمرةً وسوادًا وتنمَّى (٢) الشّيء: ارتفعَ من مكانٍ إلى مكان. قال:\nيا حُبَّ ليلَى لا ينيَّرْ وازدَدِ … وانمِ كما يَنْمِي الخضابُ في اليَدِ (٣)\nوانتمَى فلانٌ إلى حَسبِهِ: انتسَب. ونَمَّيْتُ الحديثَ: أشَعتُه، ونَمَيْتُه بالتخفيف، والقياس فيهما واحد. والنَّاميَة: الخَلْق، لأنَّهم يَنْمُون، أي يزيدون:\nو\nفي الحديث: «لا تَمْثُلُوا بنامِيَةِ اللّه». ويقال: نمَّيتُ النار. إذا ألقيتَ عليها شَيُوعاً. ويقال: نَمَتِ الرّمِيّةُ، إذا ارتفعَتْ وغابت ثم ماتت، وأنماها صاحِبُها.\nقال:\nفهي لا تَنْمِي رمِيَّتُه … ما لَه لا عُدَّ من نَفرِهْ (١)\nو\nفي الحديث: «كل ما أصْمَيْتَ ودع ما أنميت».",
+ "az": "[نمي] (artmaq, ucalmaq) Nun, mim və uzanan hərf ucalmağa və çoxalmağa dəlalət edən tək bir əsasdır. Və نَمَى المالُ ينمِي (mal artdı, artır): artdı. Və نَمَى الخِضَابُ يَنْمِي ويَنمُو (hənənin rəngi tündləşdi), qırmızı və qara rəngi artdıqda və تنمَّى الشّيء (bir şey ucaldı): bir yerdən başqa yerə ucaldı. (Şair) demişdir: Leylanın sevgisi, sönmə və art! Və əlində hənnənin artdığı kimi art! (٣). Və انتمَى فلانٌ إلى حَسبِهِ (filankəs əslinə bağlandı): nəsəbini bildirdi. Və نَمَّيْتُ الحديثَ (hədisi yaydım): onu yayıb-tökdüm, və نَمَيْتُه (təffüf ilə) yüngüllüklə, hər ikisində qiyas birdir. Və النَّاميَة (xəlq olunmuşlar, məxluqlar): xəlq, çünki onlar artırlar, yəni çoxalırlar: Və hədisdə: «Allahın artan məxluqlarını (canlılarını) bədheysət etməyin (məsələn, şikəst etməyin)». Və deyilir: نَمَّيتُ النار (odur alovlandırdım), ona şöhrət (köz) atdığın zaman. Və deyilir: نَمَتِ الرّمِيّةُ (ov uzaqlaşıb öldü), ucaldı və qeyb oldu, sonra öldü, və onun sahibi onu böyütdü (əldə etdi). (Şair) demişdir: Odur ki, onun ovunu ucaltmaz... nə üçün o, tayfasından sayılmadı? (١). Və hədisdə: «Vurub öldürdüyün hər şeyi götür, artırdığın (itib öləni) isə burax».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3009,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فنى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 453,
+  "page_to": 453
+ },
+ "ar": "الفاء والنون والحرف المعتلّ. هذا بابٌ لا تنقاس كلِمُهُ، ولم يُبْنَ على قياسٍ معلوم، وقد ذكرنا ما جاء فيه. قالوا: فَنِىَ يَفْنَى فَناءً، واللّه تعالى أفناهُ، وذلك إذا انقطع. واللّه تعالى قَطَعه، أى ذهب به. والفَنَا مَقصورٌ: عِنَب الثّعلب. والفِناء: ما امتدَّ مع الدَّار من جوانبها، والجمع أفنية. ويقولون: هو من أفناء العرب، إذا لم يُدْرَ ممن هو. والمُفانَاة: المداراة. قال:\nأقيمه تارةً وأُقْعِدُه … كما يُفانِى الشَّمُوسَ قائدُها (١)\nوالأَفانِى: نبت، الواحدة أفانِيَة. والفَنَاة: البَقرة، والجمع فَنَوات. وشجرةٌ فَنْواء، إذا ذهبت أفنانُها فى كلِّ شئ، والقياس فَنَّاءُ، لأنّه من الفَنَن.",
+ "az": "[فنى] (fə-nə-y). Fə, nun və mötəbər (mötəl) hərf. Bu babın sözləri qanunauyğun deyil və məlum bir qiyas üzərində qurulmamışdır, lakin orada gələnləri qeyd etdik. Dedilər: «فَنِىَ يَفْنَى فَناءً» — yox oldu, tükəndi, uca Allah onu yox etdi (əfnahu), yəni kəsdi. Uca Allah onu kəsdi, yəni aparıb yox etdi. Məqsur (uzadılmayan) «الفَنَا» — qaraqasnak (üzüm otu) bitkisidir. «الفِناء» — evin ətrafı boyunca uzanan sahədir, cəmi «أفنية» gəlir. Deyirlər: «هو من أفناء العرب» — kim tərəfindən olduğu bilinmədikdə. «المُفانَاة» — mülayim davranmaq, yola verməkdir. Şair demişdir:\nأقيمه تارةً وأُقْعِدُه … كما يُفانِى الشَّمُوسَ قائدُها (1)\n«الأَفانِى» — bitkidir, təkliyi «أفانِيَة» gəlir. «الفَنَة» — dişi inəkdir, cəmi «فَنَوات» gəlir. Budaqları hər tərəfə yayıldıqda ağac «شجرةٌ فَنْواء» adlanır, qiyasən «فَنَّاء» olmalıdır, çünki «فَنَن» sözündəndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:24:42.634Z"
+}

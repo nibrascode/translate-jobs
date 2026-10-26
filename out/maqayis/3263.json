@@ -1,0 +1,17 @@
+{
+ "i": 3263,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قثم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 59,
+  "page_to": 59
+ },
+ "ar": "القاف والثاء والميم أصلٌ يدلُّ على جمعٍ وإعطاء. من ذلك قولهم:\nقَثَمَ مِنْ مالِهِ، إذا أعطاه. ورجلٌ قُثَمٌ: مِعْطاء. والقَثُوم: الرّجُل الجَموع للخير. قال:\nفللكُبَراءِ أكلٌ كيف شاءُوا … وللصُّغَراء أكلٌ واقتِثامُ (٣)",
+ "az": "[قثم] «قاف», «ثاء» və «ميم» toplamağa və verməyə dəlalət edən bir kökdür. Bunlardandır onların sözü: قَثَمَ مِنْ مالِهِ (malından verdi, payladı). ورجلٌ قُثَمٌ (səxavətli, çox bəxş edən kişi). «القَثُوم» — xeyri çox toplayan kişi. O demişdir: فللكُبَراءِ أكلٌ كيف شاءُوا … وللصُّغَراء أكلٌ واقتِثامُ (Böyüklər üçün istədikləri kimi yemək vardır, kiçiklər üçün isə yemək və qənimət almaq vardır) (üç).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:48.340Z"
+}

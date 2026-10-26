@@ -1,0 +1,17 @@
+{
+ "i": 4690,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يعط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 157,
+  "page_to": 157
+ },
+ "ar": "الياء والعين والطاء. يقولون للذِّئب إذا زَجَرُوه: يعاط (١).\nقال: ويقال أَيْعَطتُ به قال:\n* يَهفو إذا قيل له يَعَاطِ (٢) *",
+ "az": "«يعط» (Y-Ə-T): Canavarı qovub uzaqlaşdırmaq istədikdə ona «يَعاطِ» (yəati) deyirlər (1). Obyekt haqqında deyilir: «أَيْعَطتُ به» (ona bağırdım). Şair demişdir: * Ona «yəati» deyildikdə tez meyllənir (2) *.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

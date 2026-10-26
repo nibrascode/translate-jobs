@@ -1,0 +1,17 @@
+{
+ "i": 4324,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هتم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 33,
+  "page_to": 33
+ },
+ "ar": "الهاء والتاء والميم: كلمةٌ تدلُّ على كسرِ شئ. يقال: هَتَمْتُ الشَّئَ والهُتَامة: ما تهتَّمَ من شئ. والهَتْمُ: كَسْر الثَّنَايا من أصلها؛ ورجلٌ أهتَم.",
+ "az": "[هتم] (hə-tə-mə): Hə, ta və mim: bir şeyin qırılmasına dəlalət edən kəlmədir. Deyilir: هَتَمْتُ الشَّئَ (hətamtü əş-şəyə). الهُتَامَة (əl-hutaməh): bir şeydən qırılıb tökülən qırıntılardır. الهَتْم (əl-hatm): ön dişlərin kökündən qırılmasıdır; kişi ise أهْتَم (əhtəm) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

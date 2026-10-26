@@ -1,0 +1,17 @@
+{
+ "i": 4297,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هيغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 25,
+  "page_to": 25
+ },
+ "ar": "الهاء والياء والغين كلمةٌ تدلُّ على رَغَد ونَعْمةِ عيش. يقال إن الأهْيَغَ: أرغد العيشِ. ويقولون: الأَهْيَغانِ: الأكلُ والنِّكاح. ويقال هَيَّغْتُ الثَّرِيدةَ: أَكْثَرْتُ وَدَكَهَا قال:\n* يَغْمِسْنَ مَنْ غَمَسْنَهُ فى الأهْيَغِ (٢) *",
+ "az": "[هيغ] (Heyğ): Hə, ya və ğin bolluq və firavan həyata dəlalət edən sözdür. Deyilir ki, الأهْيَغُ (əl-əhyəğu): ən firavan həyat. Və deyirlər: الأهْيَغانِ (əl-əhyəğan): yemək və nikah. Və deyilir هَيَّغْتُ الثَّرِيدةَ (həyyəğtüş-səridətə): tirid yeməsinin yağını çoxaltdım. Şair demişdir:\n\n* يَغْمِسْنَ مَنْ غَمَسْنَهُ فى الأهْيَغِ (2) *\n(Onlar batırdıqları kimsəni ən bol nemətə batırırlar).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

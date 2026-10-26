@@ -1,0 +1,17 @@
+{
+ "i": 4199,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نفح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "النون والفاء والحاء: أصلٌ يدلُّ على اندفاعِ الشَّيء أو رَفْعِه. ونَفَحتْ رائحةُ الطِّيب نَفحاً: انتشرَتْ واندفعت. ولهذا الطِّيب نَفحةٌ طيِّبة. ثم قيس عليه فقيل: نَفَح بالمال نَفحاً، كأنّه أرسله من يده إرسالا. ولا تزالُ لفلانٍ نَفَحاتٌ من معروف. ونَفَحت الرِّيحُ: هبَّت. وقوسٌ نَفُوحٌ: بعيدة الدَّفع للسَّهم. ونَفَحت الدّابّةُ: رمَتْ بحافرها فضربَتْ به. وكذلك نَفَحَه بالسَّيف:\nتناوَلَه به. والنَّفوح من النُّوق: ما يخرُج لبنُها من أحاليها من غير حَلْب.",
+ "az": "[نفح] (nəfəh): Nun, fa və ha hərfləri hər hansı bir şeyin sıçramasına və ya qalxmasına dəlalət edən bir əsldir. نَفَحت رائحةُ الطِّيب نَفحاً (nəfəhət rai-hətüt-tibi nəfhan) – qoxulu ətrin qoxusu yayıldı və sıçradı. Bu ətrin נَفحةٌ طيِّبة (nəhfətün təyyibətün – gözəl qoxusu) vardır. Sonra buna əsaslanaraq deyilmişdir: نَفَح بالمال نَفحاً (nəfəh bil-mali nəfhan) – sanki onu əlindən buraxırmış kimi verdi. Fəlan kəsin həmişə نَفَحاتٌ من معروف (nəfəhatün min məruf - yaxşılıq bəxş etmələri) olur. نَفَحت الرِّيحُ (nəfəhətir-rihu) – külək əsdi. قوسٌ نَفُوحٌ (qavsün nəfuhun) – oxu uzağa atan yay. نَفَحت الدّابّةُ (nəfəhətid-dabbətü) – heyvan dırnağı ilə vurub zərbə endirdi. Həmçinin نَفَحَه بالسَّيف (nəfəhəhü bis-səyfi) – onu qılıncladı. النَّفوح من النُّوق (ənnəfuhu minən-nuqi) – sağılmadan əmçəklərindən südü axan dəvə.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:03.385Z"
+}

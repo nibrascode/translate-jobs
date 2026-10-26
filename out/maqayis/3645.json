@@ -1,0 +1,17 @@
+{
+ "i": 3645,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 238,
+  "page_to": 238
+ },
+ "ar": "اللام والحاء والفاء أصلٌ يدلُّ على اشتمالٍ وملازَمة. يقال:\nالتَحَف باللِّحاف يلتحِف. ولاحَفَه: لازَمَه. وأَلْحَفَ السّائل: أَلَحَّ.",
+ "az": "[لحف] (ləhəf) — lam, ha və fa əhatə etməyi və bağlı olmağı bildirən əsas kökdür. التَحَف باللِّحاف يلتحِف (əltəhəfə bil-lihafi yəltəhif) — yorğına büründü, yorğanla örtündü. ولاحَفَه (ləhəfəh) — ona bağlandı, sədaqət göstərdi. أَلْحَفَ السّائل (əlhəfəs-sail) — dilənçi israr etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

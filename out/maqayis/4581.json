@@ -1,0 +1,17 @@
+{
+ "i": 4581,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وطر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 122,
+  "page_to": 122
+ },
+ "ar": "الواو والطاء والراء: كلمةٌ واحدة الوَطَر: الحاجَة والنَّهْمَة، لا يُبنَى منه فِعل.",
+ "az": "[وطر] الواو والطاء والراء: tək bir sözdür, الوَطَر (əl-vatar): ehtiyac və şiddətli istəkdir, bundan fel düzəlnəz.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.841Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4468,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وثق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 85,
+  "page_to": 85
+ },
+ "ar": "الواو والثاء والقاف كلمةٌ تدلُّ على عَقْدٍ وإحكام. ووثَّقْت الشّئَ: أحكَمْتُه. ونافةٌ موثَّقَة الخَلْق والمِيثاق: العَهدُ المُحكَم. وهو ثِقَةٌ.\nوقد وَثِقْتُ به.",
+ "az": "[وثق] (və-sa-qaf) bağlamağa və möhkəmlətməyə dəlalət edən sözdür. «وثَّقْت الشّئَ» (şeyi möhkəmlatdim) — onu bərkitdim. «ناقةٌ موثَّقَة الخَلْق» (xilqəti möhkəm dişi dəvə) və «المِيثاق» (misaq) — möhkəm əhd. O, «ثِقَةٌ» (etibarlıdır). Mən «وثِقْتُ به» (ona güvəndim).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.749Z"
+}

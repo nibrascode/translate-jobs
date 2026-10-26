@@ -1,0 +1,17 @@
+{
+ "i": 3828,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مدي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 307,
+  "page_to": 307
+ },
+ "ar": "الميم والدال والحرف المعتلّ أصلٌ صحيح يدلُّ على امتدادٍ في شيء وإمداد (٣). منه المَدَى: الغاية. والمَدِيُّ فيما يقال: الماء المجتمع، والحوضُ الذي يُمِدُّ ماؤه بعضُه بعضا، والجمع أمدِيةَ. قال:\n* إذا أُمِيلَ في المَدِيِّ فاضا (٤) *\nوالمُدْي: مِكيال (٥).\nومما شذَّ عن هذا الباب المدْية (٦): الشَّفرة، وجمعها مُدًى. ويحتمل أنّها من الباب أيضاً، فإنه إذا ذُبِحت الذَّبيحة بها كان ذلك مَداهَا. وإلى هذا أشار أبو علي (٧).",
+ "az": "«مدي» (mim, dal və zəif hərf) — bir şeydə uzanmağa və təminata (imdad) dəlalət edən səhih bir kökdür (٣). Bunlardan biri المَدَى (mədə — hüdud, son hədd, məsafə) sözüdür. Deyilənlərə görə المَدِيُّ (mədiy) — toplanmış su, suları bir-birini qidalandıran hovuzdur, cəmi أمدِيةَ (əmdiyə) gəlir. Şair demişdir: «Mədiyə meyil etdikdə daşdı» (٤). Və المُدْي (müdy) — ölçü vahididir (٥). Bu fəsildən kənara çıxan sözlərdən biri də المَدْيَة (mədyə — bıçaq, xəncər) sözüdür (٦): kəsici alət, cəmi مُدًى (mudən). Ehtimal olunur ki, bu da həmin fəsildəndir, çünki qurban həmin alətlə kəsildikdə bu onun hüdudu və ya təyinatı olur. Əbu Əli də buna işarə etmişdir (٧).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

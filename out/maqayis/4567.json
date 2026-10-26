@@ -1,0 +1,17 @@
+{
+ "i": 4567,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وصد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 117,
+  "page_to": 117
+ },
+ "ar": "الواو والصاد والدال: أصلٌ يدلَّ على ضمِّ شئٍ إلى شئ.\nوأوصَدْتُ البابَ: أغلَقْتُه. والوَصيد: النَّبْت المتقارِبُ الأصول. والوصيد: الفِناء لاتِّصاله بالرَّبع. والمُوصَد: المُطْبَق. وقال تعالى: ﴿إِنَّها عَلَيْهِمْ مُؤْصَدَةٌ﴾.",
+ "az": "[وصد] (Vəsəd): الواو والصاد والدال (vav, sad və dal): bir şeyi digərinə birləşdirməyə dəlalət edən kökdür. ووأوصَدْتُ البابَ (övşədtul-babə): qapını bağladım. Vəsid — kökləri bir-birinə yaxın olan bitki. Vəsid — məhəlləyə bitişik olan ev önü həyət. Muosəd — örtülmüş. Uca Allah buyurmuşdur: ﴿إِنَّها عَلَيْهِمْ مُؤْصَدَةٌ﴾ (mənaca tərcümə: Şübhəsiz ki, o [atəş] onların üzərinə qapanıb kilidlənmişdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

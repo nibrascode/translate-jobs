@@ -1,0 +1,17 @@
+{
+ "i": 4071,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 401,
+  "page_to": 402
+ },
+ "ar": "النون والحاء والسين أصلٌ واحد يدلُّ على خِلاف السَّعد ونُحِسَ هو فهو مَنحوس. والنُّحَاس: الدُّخَان لا لَهبَ فيه. قال:\n* شياطين يُرمَى بالنُّحاسِ رَجيمُها *\nوالنُّحَاس من هذه الجواهرِ كأنه لمَّا خالف الجواهرَ الشَّريفَةَ كالذَّهب والفِضّة سُمِّي نُحاسا. هذا على وجه الاحتمال. ويقال: يومٌ نَحْسٌ ويومٌ نَحِسٌ.\nوقرئ: ﴿فِي أَيّامٍ نَحِساتٍ﴾، و «نَحْسات (٢)». ويحتمل أنَّ النُّحاس: الأصل،\nعلى ما ذكره بعضهم، ولمَّا كان أصلاً لكثيرٍ من الجواهر قيل لمبلغ أصلِ الشَّيء نُحلس.",
+ "az": "[نحس] (n-h-s) - Nün, ha və sin hərfləri səadətə zidd olan bir mənaya dəlalət edən tək bir kökdür; نُحِسَ هو فهو مَنحوس (o, nəhsə düçar edildi, deməli o, mənhusdur - uğursuzdur). وَالنُّحَاس (ən-nuhas): alovsuz tüstü. O demişdir:\n* شياطين يُرمَى بالنُّحاسِ رَجيمُها *\n(Mis/tüstü ilə daşqalaq edilən qovulmuş şeytanlar)\nBu cövhərlərdən olan النُّحَاس (ən-nuhas - mis), qızıl və gümüş kimi şərəfli cövhərlərə zidd olduğuna görə sanki ona nuhas (mis) deyilmişdir. Bu ehtimal üzrədir. Deyilir: يومٌ نَحْسٌ (nəhs gün) və يومٌ نَحِسٌ (nəhis gün).\nVə oxunmuşdur: ﴿فِي أَيّامٍ نَحِساتٍ﴾ (nəhis günlərdə) və «نَحْسات (nəhs günlərdə)» (٢). Ehtimal olunur ki, النُّحاس (ən-nuhas) əslidir, bəzilərinin qeyd etdiyinə görə, bir çox cövhərlərin əsli olduğuna görə bir şeyin əslinin məbləğinə nuhas deyilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3729,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 269,
+  "page_to": 269
+ },
+ "ar": "الميم والحاء ثلاثُ كلماتٍ لا تنقاس على أصلٍ واحد: الأولى مَحَّ الشَّيءُ وأمَحَّ، إذا دَرَسَ وبَلِيَ. والمَحُّ: الثَّوْبُ البالي.\nوالثانية: الرَّجل * المَحَّاح: الكذّاب الذي يُرِي بكلامه ما لا يفعله.\nوالثالثة المُحُّ: صُفْرة البَيض. ويقال: المَاحُ بياضها (١).",
+ "az": "«مح» (məhə) — Mim və hə hərfləri tək bir əslə əsaslanmayan üç kəlmədir: Birincisi, «مَحَّ الشَّيءُ وأمَحَّ» (məhhəş-şəy'ü və əməhhə) — köhnəldi və çürüməyə başladı. «المَحُّ» (əl-məhh) — köhnəlmiş paltar. İkincisi, «الرَّجل المَحَّاح» (ər-racülül-məhhəh) — etmədiyi şeyləri danışığı ilə eləyirmiş kimi göstərən yalançı. Üçüncüsü, «المُحُّ» (əl-muhh) — yumurtanın sarısı. Deyilir ki, «المَاحُ» (əl-məh) onun ağıdır (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

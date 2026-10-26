@@ -1,0 +1,17 @@
+{
+ "i": 3319,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قصع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 92,
+  "page_to": 92
+ },
+ "ar": "القاف والصاد والعين أصلٌ صحيحٌ يدلُّ على تطامُنٍ في شيء أو مطامَنةٍ له. من ذلك القَصْعَة، وهي معروفة، سمِّيت بذلك للهَزْمة.\nوالقاصِعاء: أوَّل جِحَرة اليَربوع، وقياسُها ما ذكرناه. وقد تَقصَّع، إذا دخَل قاصِعاءَه. قال:\nفَوَدَّ أبو ليلى طُفيلُ بنُ مالكٍ … بمُنعَرَجِ السُّوبان لو يَتَقَصَّعُ (١)\nفأمَّا قَصْع النّاقة بجِرّتها فقالوا: هو أن ترُدَّها في جوفها. والماء يَقْصَعُ العطش: يقتلُه ويذهبُ به. قال:\n* فانصاعَتِ الحُقْبُ لم تُقْصَع صَرائِرُها (٢) *\nوقصَعتُ ببُسْط كَفِّي هامتَه: ضربْتُها. وقَصَع اللّه به، إذا بَقِيَ قمِيّاً لا يَشِبُّ ولا يزداد، وهو مقصوعٌ وقصيعٌ.",
+ "az": "«قصع»: القاف, Sad və Eyn bir şeydə alçalmağa və ya ona təvazökar olmağa dəlalət edən səhih bir kökdür. Bunlardan biri məlum olan «القَصْعَة» (kasa) sözüdür, çökəkliyinə görə belə adlandırılmışdır.\n\n«القاصِعاء» — səhrə siçanının (yərbunun) yuvasının birinci girişidir, onun ölçüsü də qeyd etdiyimiz kimidir. O, yuvasına daxil olduqda «تَقَصَّع» etmiş olar. Şair demişdir:\nLeylanın atası Tufeyl ibn Malik … Süban əyriyində yuvasına girməyi nə qədər də istərdi (١).\n\nQaldı dəvənin «قَصْع» etməsi, yəni qaytarıb gəvəsini daxilinə ötürməsidir. Su susuzluğu «يَقْصَعُ» — yəni onu öldürür və yox edib aparır. Şair demişdir:\n* Vəhşi dəvələr sürətlə qaçdı, onların daxili qızartıları sönmədi (٢) *\n\nƏllərimin ovuçu ilə onun başının təpəsinə «قَصَعتُ» — yəni vurdum. Allah onunla «قَصَع» etdi, yəni o, zəif, böyüməyən və artmayan biri olaraq qaldı, o, «مقصوع» və «قصيع» (gənc və zəif) adlanır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:36:22.598Z"
+}

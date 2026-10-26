@@ -1,0 +1,17 @@
+{
+ "i": 3127,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فشج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 504,
+  "page_to": 504
+ },
+ "ar": "الفاء والشين والجيم. يقولون: فَشَجت النّاقةُ: تفاجَّتْ لتَبُول. كذلك فى كتاب الخليل. وقال ابن دريد: فَشَحت، بالحاء، وأنشد:\nإنَّكِ لو صاحَبْتِنا مَذِحْتِ … وحَكَّكِ الحِنْوانِ فانفشَحْتِ (١)",
+ "az": "[فشج] الفاء والشين والجيم (Fə, sin və cim). يقولون (Deyirlər): فَشَجت النّاقةُ (dişi dəvə sidik etmək üçün ayaqlarını araladı): تفاجَّتْ لتَبُول (sidik etmək üçün ayaqlarını açdı). كذلك فى كتاب الخليل (Xəlilin kitabında da belədir). وقال ابن دريد (İbn Dürid demişdir): فَشَحت (fəşəhət), بالحاء (ha hərfi ilə), وأنشد (və şeir söylədi): إنَّكِ لو صاحَبْتِنا مَذِحْتِ … وحَكَّكِ الحِنْوانِ فانفشَحْتِ (١) (Həqiqətən, sən bizə dost olsaydın, sürtünərdin... və iki hin [ölçü qabı və ya yer] səni qaşıdıqda ayaqlarını açardın).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.151Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3851,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 315,
+  "page_to": 315
+ },
+ "ar": "الميم والراء والثاء كلمةٌ ليست بأصل، بل هي من الإبدال.\nومَرَثَ الدواء يَمْرِثُه مثل مَرَسه يَمرُسُه. ومنه رجل مِمْرَث: صبورٌ على الخُصومات؛ والجمع مَمَارِث، والأصل السين وقد ذُكِرَتَا.",
+ "az": "«مرث» (maratha) — mim, ra və sə hərflərindən ibarət kəlmə əsl (kök) deyil, əksinə əvəzlənmədəndir (ibdal). مَرَثَ الدَّوَاءَ يَمْرِثُهُ (maratha ad-dawawa yamrithuhu) — مَرَسَ يَمْرُسُهُ (marasa yamrusuhu) kimidir. Ondan: رَجُلٌ مِمْرَثٌ (rajun mimrathun) — mübahisələrə səbirli adam; cəmi مَمَارِثُ (mamarithu). Əsli sin hərfi ilədir və hər ikisi zikr olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:16.071Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3334,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قطل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 103,
+  "page_to": 103
+ },
+ "ar": "القاف والطاء واللام أصلٌ صحيحٌ يدلُّ على قَطع الشّيء. يقال:\nقَطَله قَطْلاً، وهو قَطِيلٌ ومقطول. ونخلةٌ قطيل، إذا قُطعت من أصلها فسقطَتْ.\nويقال: إنَّ القَطِيلة: القطعة من الكساء والثَّوبِ يُنْشف بها الماء. والمِقْطَلة:\nحديدةُ يقطَعُ بها، والجمع مَقاطل. ويقال إنّ أبا ذؤيبٍ الهذليِّ كان يلقَّب «القَطِيل».",
+ "az": "[قطل] (qət-əl): Qaf, ta və lam hərfləri tək, səhih bir kök olub, bir şeyin kəsilməsini bildirir. Deyilir: «قطله قطلا، وهو قطيل ومقطول» (O onu kəsdi, o, kəsilmiş və qətl edilmişdir). «نخلة قطيل» (qətil xurma ağacı) – kökündən kəsilib yıxılmış xurma ağacıdır. Deyilir ki, «القَطِيلة» (əl-qətilə): suyu qurulamaq üçün istifadə olunan paltar və ya parçadır. «المقطلة» (əl-miqtələ): kəsmək üçün dəmir alət, cəmi «مقاطل» (məqatil) gəlir. Deyilir ki, Hüzəli Əbu Züeyb «القَطِيل» (əl-qətil) ləqəbi ilə çağırılırdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:04.684Z"
+}

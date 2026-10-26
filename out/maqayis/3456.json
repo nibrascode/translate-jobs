@@ -1,0 +1,17 @@
+{
+ "i": 3456,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كبس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 154,
+  "page_to": 154
+ },
+ "ar": "الكاف والباء والسين أصلٌ صحيح، وهو من الشَّيء يُعْلَى بالشَّيء الرَّزين، ثم يقاس على هذا ما يكونُ في معناه. من ذلك الكَبْس:\nطَمُّك الحُفَيرةَ بالتُّراب. والتُّراب كِبْسٌ. ثمّ يتَّسعون فيقولون: كَبَس فلانٌ رأسَه في ثوبه، إذا أدخَلَه فيه. والأرنبةُ الكَابِسَة، هي المقبلةُ على الجَبْهة في غِلَظٍ وارتفاع. يقال منه كَبَسَتْ. ومن الباب الكِباسَة: العِذْق التامُّ الحمل. [و] الكبيس: التمرُ يُكبَس.\nوالكَابُوس: ما يَقَع على الإنسان باللَّيل. قال ابن دريد (١): أحسبه مولَّدا.\nوالكَبِيس: حَلْيٌ يُصاغ مجوَّفا * ثمّ يُحشَى طيناً. والكُبَاس والأكْبَس: العظيم الرأْس.",
+ "az": "[كبس] (Kaf, ba və sin) — səhih bir təməl kökdür, o da bir şeyin ağır bir şeylə üstünün örtülməsidir, sonra bunun mənasında olanlar buna qiyas edilir. Bunlardan biri الكَبْس (əl-kəbs) — çuxuru torpaqla doldurmağındır. Və torpaq كِبْسٌ (kibs) adlanır. Sonra sözü genişləndirərək deyirlər: كَبَس فلانٌ رأسَه في ثوبه (kəbəsə fulanun ra'səhu fi savbihi) — filankəs başını paltarının içinə soxduğu zaman. Və burun ucu olan الأرنبةُ الكَابِسَة (əl-ərnəbəti əl-kabisə) — alına doğru qalın və uca şəkildə yönələn burundur. Undan كَبَسَتْ (kəbəsət) deyilir. Bu babdandır الكِباسَة (əl-kibasə) — tam meyvəli xurma salxımı. [Və] الكبيس (əl-kebis) — basdırılan, duza və ya şirəyə qoyulan xurma. Və الكَابُوس (əl-kabus) — gecə insanın üstünə gələn basabas (qarabasma). İbn Dürid demişdir: Zənnimcə o, müəlləddir (sonradan uydurulan sözdür). Və الكَبِيس (əl-kebis) — içi boşladılıb sonra palçıqla doldurularaq düzəldilən bəzək əşyası. Və الكُبَاس (əl-kubas) və الأكْبَس (əl-əkbəs) — başı böyük olan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

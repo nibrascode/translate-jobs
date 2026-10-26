@@ -1,0 +1,17 @@
+{
+ "i": 3242,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قام",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 46,
+  "page_to": 46
+ },
+ "ar": "القاف والألف والميم قد مضى ذِكرُ ذلك، والأصل فى جميعه الواو. والقَامَة: البَكَرة بأداتِها. قال:\nلمَّا رأيتُ أنَّها لا قامَهْ … وأَنَّنى مُوف على السَّآمهْ\nنزعتُ نَزعاً زَعْزَعَ الدِّعامَهْ (١)",
+ "az": "[قام] (qam). Qaf, əlif və mim hərflərinin zikri artıq keçmişdir və onların hamısının əsli vav hərfi üzərindədir. وَالقَامَة (əl-qamə) — öz ləvazimatı ilə birlikdə su çəkən çarx (bəkərə). (Şair) demişdir:\nلمَّا رأيتُ أنَّها لا قامَهْ … وأنَّنى مُوف على السَّآمهْ\nنزعتُ نَزعاً زَعْزَعَ الدِّعامَهْ (١)\n(Gördüyüm zaman ki, onun nə çarxı var... Və mən usanmağa yaxınlaşmışam, \nQopardım elə bir qoparmaqla ki, sütunu sarsıtdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:10.325Z"
+}

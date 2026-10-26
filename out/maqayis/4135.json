@@ -1,0 +1,17 @@
+{
+ "i": 4135,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 428,
+  "page_to": 429
+ },
+ "ar": "النون والشين والهمزة أصلٌ صحيح يدلُّ على ارتفاعٍ في شيءٍ\nوسموّ. ونَشَأَ السَّحابُ: ارتفع. وأنْشَأَه اللّه: رفَعه. ومنه: ﴿إِنَّ ناشِئَةَ اَللَّيْلِ﴾، يراد بها واللّه أعلمُ القيامُ والانتصابُ للصَّلاة.\nومن الباب: النَّشْ ءُ والنَّشَأ (١): أحداث النّاس. ونشأَ فلانٌ في بني فلانٍ.\nوالنَّاشئ: الشَّابُّ الذي نشأ وارتفَعَ وعلا. وأنشأ فلانٌ حديثاً، وأنشأَ ينشِد ويقول، كلُّ هذا قياسُه واحد.\nومن الباب: استنشأْت الريح: تشمَّمتها، وذلك لأنّكَ كأنّك ترفعُها إلى أنفِك.",
+ "az": "«نشə» (ن ش ء): النون, Şin və Həmzə bir şeydə yüksəlməyə və ucalığa dəlalət edən səhih bir kökdür. «نَشَأَ السَّحابُ» (nəşəə əs-səhabü): bulud yüksəldi. «أنْشəأَه اللّه» (ənşəhü Allahü): onu ucaltdı. Bunlardandır: ﴿إِنَّ ناشِئَةَ اَللَّيْلِ﴾ (mənaca tərcümə: Həqiqətən, gecənin səhər gəlməsi/gecə qalxmaq...); Allah daha yaxşı bilir, buradan məqsəd namaz üçün qalxmaq və dikəlməkdir. Bu babdandır: «النَّشْءُ» (ən-nəş') və «النَّشَأ» (ən-nəşə'): insanların gəncləri, uşaqları (١). «نشأَ فلانٌ في بني فلانٍ» (nəşəə fəlanün fi bəni fəlanin): filankəs filan qəbilə arasında böyüyüb boya-başa çatıdı. «النَّاشئ» (ən-nəşi'): böyüyüb ucalan və uca olan gənc. «أنشأ فلانٌ حديثاً» (ənşəə fəlanün hədisən) — filankəs bir söhbətə başladı, həmçinin «أنشأَ ينشِد ويقول» (ənşəə yənşidü və yəqُول) — şeir oxumağa və söyləməyə başladı, bunların hamısının ölçüsü (qaydası) birdir. Bu babdandır: «استنشأْت الريح» (istənşətu əl-rih): küləyin qoxusunu içimə çəkdim, iylədim; çünki sanki onu burnuna qaldırırsan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.782Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3650,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحي",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 240,
+  "page_to": 240
+ },
+ "ar": "اللام والحاء والحرف المعتل أصلان صحيحان، أحدهما عضوٌ من الأعضاء، والآخر قِشْر شيء.\nفالأولى اللَّحْي: العظم الذي تَنبت عليه اللِّحية من الإنسان وغيره، والنِّسبة إليه لَحَوِيّ. واللِّحية: الشعر، وجمعها لِحًى (١)، وجمع اللَّحْي ألْحٍ (٢).\nوالأصل الآخر اللِّحاء، وهو قِشْر الشجرة، يقال لَحَيت العصا، إذا قشرتَ لحاءَها، وَلحَوتُها. فأمَّا في اللَّوْم فلحيت. وهو قياسُ ذاك، كأنَّه يريد قشره.\nوالمُلَاحَمَة كالمشاتمة. قال أوس في لَحَيْت العصا:\nلَحَيْنَهم لَحْيَ العصا فطردنَهم … إلى سَنَةٍ قِرْدانُها لم تَحَلَّم (٣)",
+ "az": "[لحي] (Ləhəyə) — Lam, hə və zəif hərf olaraq iki səhih əsasdır; bunlardan biri üzvlərdən biridir, diğeri isə bir şeyin qabığıdır.\nBirincisi: اللَّحْي (əz-ləhy) — insanın və başqalarının saqqalının üzərində bitdiyi sümükdür, ona nisbət لَحَوِيّ (ləhəviyy) adlanır. وَاللِّحْيَة (əl-lihyə) — saçdır (saqqaldır), cəmi لِحًى (lihən) (١), əz-ləhyin cəmi isə ألْحٍ (əlhin) (٢) olur.\nDigər əsas: اللَّحَاء (əl-lihə) — ağacın qabığıdır. «لَحَيت العصا» (ləhəytul-əsa) — çubuğun qabığını soyduğun zaman deyilir, həmçinin «لَحَوتُها» (ləhawtuhə) də deyilir. Qınağa gəldikdə isə «لحيت» (ləhəytu) deyilmişdir. Bu, həmin mənanın ölçüsünə uyğundur, sanki qabığını soymağı qəsd edir.\nالمُلَاحَمَة (əl-muləhəmə) — qarşılıqlı söyüşmək kimidir. Övs «ləhəytul-əsa» (çubuğu soydum) haqqında demişdir:\nلَحَيْنَهم لَحْيَ العصا فطردنَهم … إلى سَنَةٍ قِرْدانُها لم تَحَلَّم (٣)\n(Mənası: Onları çubuqla döyən kimi qovduq... elə bir ilə qədər ki, onun gənələri hələ qan udmamışdı.)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.169Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3148,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فطس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 511,
+  "page_to": 511
+ },
+ "ar": "الفاء والطاء والسين. فيه الفَطَس فى الأنف: انفِراشُه.\nوفِطِّيسَةُ الخنزير: أنْفُه. والفِطِّيس: المِطْرَقة، ولعلَّها سمِّيت بذلك لأنَّها يُكسَرُ بها الشئ، ويتطَامَن (١). ويقولون: فَطَسَ: مات. ويقولون: الفَطْسَة: خَرَزَة يُؤَخَّذ بها.",
+ "az": "[فطس] (F-T-S) Fə, ta və sin hərfləri. Burunda «الفَطَس» (əl-fətəs): onun yayvan olmasıdır. Donuzun burnuna «فِطِّيسَة» (fittisə) deyilir. «الفِطِّيس» (əl-fittis): çəkicdir, bəlkə də ona görə belə adlanıb ki, onunla bir şey sındırılır və o, aşağı əyilir (١). Deyirlər: «فَطَسَ» (fətəsə): öldü. Həmçinin deyirlər: «الفَطْسَة» (əl-fətsə): onunla bir şey tutulan muncuqdur.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

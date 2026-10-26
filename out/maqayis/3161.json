@@ -1,0 +1,17 @@
+{
+ "i": 3161,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 6,
+  "page_to": 6
+ },
+ "ar": "القاف والتاء فيه كلمتانِ متباينتان، إحداهما القَتُّ، وهو نَمُّ الحديث. و\nجاء فى الأثر: «لا يدخُلُ الجنّةَ قَتَّاتٌ». وهو النَّمّام. والقَتُّ: نَباتٌ.\nوالقَتُّ والتَّقتِيتُ (١): تطييبُ الدُّهن بالرَّياحين.",
+ "az": "[قت] (Q-T) Qaf və ta hərflərində bir-birindən fərqli iki kəlmə var, onlardan biri «القَتُّ» (əl-qatt): söz gəzdirməkdir. Əsərdə gəlib: «لا يدخُلُ الجنّةَ قَتَّاتٌ» (Söz gəzdirən cənnətə girməz). O, «النَّمّام» (söz gəzdirən)-dır. «القَتُّ» (əl-qatt): bir bitkidir. «القَتُّ والتَّقتِيتُ» (əl-qatt və ət-təqtit): yağı ətirlərlə xoş qoxulu etməkdir (١).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

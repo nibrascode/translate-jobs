@@ -1,0 +1,17 @@
+{
+ "i": 3433,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كوف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 147,
+  "page_to": 147
+ },
+ "ar": "الكاف والواو والفاء أُصَيل يقولون: إنّه يدلُّ على استدارةٍ في شيء. قالوا: تكوَّفَ الرّملُ: استدارَ. قالوا: ولذلك سمِّيت الكُوفةُ.\nويقولون: وقعنا في كُوفَان وكُوَّفان (٣)، أي عناء ومشقّة، كأنَّهم اشتقُّوا ذلك من الرَّمل المتكَوِّف، لأن المشيَ فيه يُعَنِّي.",
+ "az": "[كوف] Kaf, vau və fa zəif bir əsas olub deyirlər ki, o, bir şeydə dairəviliyə dəlalət edir. Dedilər: تكوَّفَ الرّملُ (təkvəfər-rəmlü) — qum dairəvi oldu. Dedilər: Kufə (الكُوفة) buna görə belə adlandırılmışdır.\nVə deyirlər: وقعنا في كُوفَان وكُوَّفان (vəqəna fi kufan və kuvvəfan), yəni əziyyət və məşəqqət, sanki bunu yığılmış qumdan götürmüşlər, çünki orada yerimək əziyyətlidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:17.222Z"
+}

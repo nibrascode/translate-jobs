@@ -1,0 +1,17 @@
+{
+ "i": 4698,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ينم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 159,
+  "page_to": 159
+ },
+ "ar": "الياء والنون والميم. اليَنَمة: نَبْتٌ.",
+ "az": "«ينم» (Y-N-M): اليَنَمَةُ (əl-yənəmə) – bir bitkidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

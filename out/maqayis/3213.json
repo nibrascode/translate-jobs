@@ -1,0 +1,17 @@
+{
+ "i": 3213,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قنم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 34,
+  "page_to": 34
+ },
+ "ar": "القاف والنون والميم كلمةٌ واحدة. يقولونَ: قَنِمَ الشئُ قَنَماً، إذا نَدِىَ ثم رَكِبَه غُبارٌ فتوسَّخَ. ويكونُ ذلك فى شُعور الخَيْلِ والإبل.",
+ "az": "[قنم] Qaf, nun və mim tək bir kəlmədir. Deyirlər: «قَنِعَ الشئُ قَنَماً» — şey nəmlənib üzərinə toz qonaraq çirkli olduqda. Bu, atların və dəvələrin tüklərində olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.256Z"
+}

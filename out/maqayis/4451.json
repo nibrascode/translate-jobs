@@ -1,0 +1,17 @@
+{
+ "i": 4451,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وبخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 81,
+  "page_to": 81
+ },
+ "ar": "الواو والباء والخاء كلمة واحدة. وبَّخه: لامَه، توبيخاً:",
+ "az": "[وبخ] (və-ba-xa) tək bir sözdür. «وبَّخه» (tənbeh etdi) — onu qınadı, «توبيخاً» (məzəmmət edərək).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:07.748Z"
+}

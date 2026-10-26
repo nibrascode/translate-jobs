@@ -1,0 +1,17 @@
+{
+ "i": 4562,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وصف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 115,
+  "page_to": 115
+ },
+ "ar": "الواو والصاد والفاء: أصلٌ واحد، هو تحْليَةُ الشَّئ.\nووصَفْتُه أصِفه وَصْفاً. والصِّفَة: الأمَارة اللاَّزِمةُ للشّئ، كما يقال وَزَنتُه وَزْناً، والزِّنَة: قَدْرُ الشَّئ. يقال اتَّصَفَ الشّئُ فى عَينِ النّاظر: احتَملَ أن يُوصَف.\nوأمَّا قولُهم: وصَفَت النّاقةُ وُصوفاً، إذا أجادت السّيرَ فهو [من قولهم] للخادم وصيف، وللخادمة وصيفة. ويقال أوْصَفَت الجاريةُ؛ لأنَّهما يُوصَفَان عند البَيع.",
+ "az": "[وصف] (Vəsəf): الواو والصاد والفاء (vav, sad və fa): bir təməl kökdür, o da bir şeyi bəzəmək və ya xüsusiyyətlərini ortaya qoymaqdır. ووصَفْتُه أصِفه وَصْفاً (vəsəftuhu əsifuhu vəsfən). والصِّفَة (əssifə): vəzn etdim, vəzn isə şeyin miqdarıdır deyilən kimi, bir şeyə lazım olan əlamətdir. Deyilir: اتَّصَفَ الشّئُ فى عَينِ النّاظر (ittəsəfə əş-şəy'u fi 'əynin-nazir): təsvir olunmağa imkan tapdı. Onların «وصَفَت النّاقةُ وُصوفاً (vəsəfətin-naqatu vusufan)» deməsinə gəlincə, bu, dəvə gedişini gözələşdirdikdə işlədilir və bu səbəbdəndir ki, xidmətçiyə وصيف (vəssif), xidmətçi qadına isə وصيفة (vəssifə) deyirlər. Həmçinin أوْصَفَت الجاريةُ (övşəfətil-cariyətu) devilir, çünki onların ikisi də alqı-satqı zamanı xüsusiyyətləri ilə təriflənirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:10:41.230Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4266,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 10,
+  "page_to": 10
+ },
+ "ar": "الهاء والفاء أصلٌ صحيح يدلُّ على خِفَّةٍ وسُرعةٍ فى سَير وصَوت.\nفالهَفيف: سُرْعة السَّير. قال ذو الرُّمة:\nإذا ما نَعَسْنا نَعْسَةً قلتُ غَنِّنا … بخرقاءَ وارفَعْ من هَفِيف الرّواحِلِ (٥)\nومنه الرِّيحُ الهَفَّافة: الخفيفة الهُبوب. والظِّلُّ الهفَّاف: الساكن. ومنه قميصٌ هَفْهافٌ: رقيق. والهِفُّ: الذى هَراقَ ماءَه وخَفَّ من السَّحاب. والهَفَّاف:\nالبَرَّاق والشُّهْد الهِفُّ: الرَّقيق القليل العسل، سمِّى لخفَّته، وكذلك الهِفُّ من الزَّرع: الذى يُؤخَّرُ حَصادُه فينتثر (٦) حَبُّه. ومنه المرأة المُهَفْهَفَة: الخميصة الدَّقيقة الخصر واليَهْفُوف: الأحمق لخِفَّةِ عقله؛ ويقال هو الجَبَان.",
+ "az": "[هف] (هاء və fa): gedişdə və səsdə yüngüllüyə və sürətə dəlalət edən səhih bir kökdür.\nƏl-həfif (الهَفِيف): gedişin sürəti. Zü əd-Rummə demişdir:\nإذا ما نَعَسْنا نَعْسَةً قلتُ غَنِّنا … بخرقاءَ وارفَعْ من هَفِيف الرّواحِلِ (٥)\n(Namaz vaxtı bir az mürgülesək, dedim: bizə oxu… Xərqa ilə və dəvənin gedişinin səfini ucalt).\nVə buradandır: əl-rih əl-həffafah (الرِّيحُ الهَفَّافة): əsməsi yüngül olan külək. Əl-zill əl-həffaf (الظِّلُّ الهفَّاف): sakit kölgə. Və buradandır: qəmisun həffafun (قميصٌ هَفْهافٌ): nazik köynək. Və əl-hiff (الهِفُّ): buluddan suylarını axıdan və yüngülləşən. Və əl-həffaf (الهَفَّاف): parıldayan və şuhd əl-hiff (والشُّهْد الهِفُّ): az balı olan nazik (süzülmüş) bal, yüngüllüyünə görə belə adlandırılmışdır, həmçinin əl-hiff (الهِفُّ) əkinçilikdən: biçini gecikdirilib dənliyi dağılan (تنتثر) əkindir. Və buradandır: əl-mər'ah əl-muhəfhəfah (المرأة المُهَفْهَفَة): incəbelli, zərif qadın. Və əl-yahfuf (واليَهْفُوف): əqli zəif olduğuna görə axmaq; həmçinin qorxaq olduğu da deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:23.333Z"
+}

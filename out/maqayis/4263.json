@@ -1,0 +1,17 @@
+{
+ "i": 4263,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 9,
+  "page_to": 9
+ },
+ "ar": "الهاء والشين: أصلٌ صحيحٌ يدلُّ على رَخاوةٍ وليِن. والرِّخْو اللَّيِّن هَشٌّ. ومنه رجل هشٌّ: طَلْق المُحيَّا، وقد هَشِشتَ (٢)، وذُو هَشَاش (٣).\nوالفرس الهَشُّ: الكثير العَرَق. وشَاةٌ هَشُوشٌ: ثَرَّةٌ (٤).\nومن الباب هَشَشْتُ الورقَ هشّاً: خبطتُه بعَصاً.",
+ "az": "[هش] (هاء və şin): yumşaqlığa və zərifliyə dəlalət edən səhih bir kökdür. Yumşaq və zərif olan həşşdir (هَشٌّ). Buradandır: rajulun həşşun (رجل هشٌّ) – gülərüz adam, və sən həşiştə (قَدْ هَشِشتَ), və zu həşaş (وَذُو هَشَاش).\nƏl-fəris əl-həşş (الفرس الهَشُّ): tərliyi çox olan at. Və şatun həşuş (شَاةٌ هَشُوشٌ): südü bol olan qoyun (ثَرَّة).\nFəsildəndir: həşəştu əl-vərəqə həşşən (هَشَشْتُ الورقَ هشّاً): yarpaqları çubuqla döyüb tökdüm.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:23.332Z"
+}

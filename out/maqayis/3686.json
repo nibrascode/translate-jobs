@@ -1,0 +1,17 @@
+{
+ "i": 3686,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لطا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 251,
+  "page_to": 251
+ },
+ "ar": "اللام والطاء والحرف المعتل كلمةٌ واحدة، وهي المِلْطاة، في الشِّجاج، وهي السِّمحاق التي بلغت القشرة * الرقيقة، قال أبو عُبيد: أخبرني الواقدىّ أنّ السِّمحاق عندهم المِلطاء. قال أبو عبيد: يقال هي المِلطاة بالهاء. فإنْ كانت على هذا فهي في التقدير مقصورة. وقال تفسير\nالحديث الذي جاء: «انّ المِلطاةَ بدمها». معناه حين يُشَجُّ صاحبُها يؤخذ مقدارُها تلك السّاعة ثم يقضَى فيها بالقِصاص أو الأرْش، لا يُنظَر إلى ما يحدث فيها بعد ذلك من زيادةٍ أو نقصان. قال: وهذا قولهم، وليس قولَ أهل العراق. واللَّطاة: دائرة تكون في جَبْهة الفَرَس.\nوإذا همز قيل لَطِئتُ ألطأ (١).",
+ "az": "[لطا] (ləta) — lam, ta və illik hərf bir kəlmədir, o da baş yaralarında olan المِلْطاة (əlmiləta) sözüdür; bu, nazik dərinin qatına çatan simhaq yarasıdır. Əbu Übeyd demişdir: Vaqidi mənə xəbər verdi ki, onlarda simhaq — miltadır. Əbu Übeyd demişdir: Deyilir ki, o, hərf h ilə المِلْطاة (əlmiləta) olaraq yazılır. Əgər bu şəkildədirsə, o zaman təqdiri olaraq məqsurdur (uzun elif ilə bitəndir). Və hədisin izahı: «انّ المِلطاةَ بدمها» («Həqiqətən miltanın qisası öz qanı ilədir» - yəni yaraya görə hökm dərhal verilir). Mənası odur ki, sahibi yaralandıqda həmin saat onun miqdarı götürülür, sonra orada qisas və ya cərimə (ərs) ilə hökm çıxarılır, ondan sonra onda baş verəcək artım və ya azalmalar gözlənilmir. O demişdir:",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

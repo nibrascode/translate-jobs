@@ -1,0 +1,17 @@
+{
+ "i": 4503,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ودع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 96,
+  "page_to": 96
+ },
+ "ar": "الواو والدال والعين: أصلٌ واحد يدلُّ على التَّرْك والتَّخْلِية.\nوَدَعَه: تركه، ومنه دَعْ. ويُنشد:\nليت شِعْرى عنْ خليلى ما الَّذِى … غالَهُ فى الحبِّ حَتَّى وَدعَهْ (١)\nومنه وَدَّعْتُه توديعاً. ومنه الدَّعَة: الخَفْض، كأنَّه أمرٌ يترك معه ما يُنْصِب.\nورجلٌ مُتَّدِعٌ: صاحب راحة، وقد نالَ الشّئَ وادِعاً مِنْ غير تكلُّف. والوَديع:\nالرّجُل الساكن. والمُوادَعَة: المصالحَة والمتاركة. [و] وَدَّعْتُ الثَّوبَ فى صِوانِهِ، والثَّوب مِيدَعٌ.",
+ "az": "[ودع] (və-də-ə): Vov, dal və eyn hərfləri tərk və buraxmağa dəlalət edən tək bir əsasdır. وَدَعَه (vədə‘ahu) – onu tərk etdi, dَعْ (də‘) sözü də bundandır. Şeirdə oxunur: ليت شِعْرى عنْ خليلى ما الَّذِى … غالَهُ فى الحبِّ حَتَّى وَدعَهْ (١) (ləytə şi‘ri ‘an xalili məlləzi... ğələhu fil-ḥubbi ḥattə vədə‘ah) – Kaş biləydim dostum barədə məhəbbətdə onu nə məhv etdi ki, tərk etdi. وَدَّعْتُه توديعاً (vəddə‘tuhu təvdi‘an) də bundandır. الدَّعَة (əd-də‘əh) – rahatlıq, insanı yoran şeyin tərk olunduğu hal kimi. رجل مُتَّدِعٌ (raculun muttadi‘un) – rahatlıq sahibi, zəhmət çəkmədən vəadicən (وادِعاً) olaraq şeyə nail olmuşdur. الوَدِيع (əl-vədiu) – sakit adam. المُوادَعَة (əl-muvadə‘ah) – sülh bağlamaq və tərk etmək. [و] وَدَّعْتُ الثَّوبَ فى صِوانِهِ (vəddə‘tuş-səvbə fi ṣivānihi) – paltarı qutusuna qoydum, və səvbün midəun (والثَّوب مِيدَعٌ).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

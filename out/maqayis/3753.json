@@ -1,0 +1,17 @@
+{
+ "i": 3753,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مهق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 281,
+  "page_to": 282
+ },
+ "ar": "الميم والهاء والقاف أُصَيْلٌ يدلُّ على لونٍ من الألوان. قالوا:\nالأمْهق: الأبيض. ويقولون: عَينٌ مَهْقَاء، فينبغي أن تَكون الشّديدَةَ بياضٍ بياضِها. وقال ابن دريد (٤): هو بياضٌ سمجٌ قبيح لا يخالطُه صفرةٌ ولا حُمرة، إلاّ\nأنّهم يقولون: المُحْمَرَّة المآقي. ويقولون: المَهَق في قول رؤبة:\n* صَفَقْن أيديهِنَّ في الحَوْم المَهَقْ (١) *:\nشِدَّة خُضرَة الماء.",
+ "az": "[مهق] (M-h-q): Mim, hə və qaf rənglərdən birinə dəlalət edən kiçik bir kökdür. Dedikləri budur:\nالأمْهق (əl-əmhəq): ağ rəng. Deyirlər: عَينٌ مَهْقَاءُ (məhqə göz) — deməli, bu, ağlığın şiddətli olduğu göz olmalıdır. İbn Dureyd (٤) demişdir: Bu, sarılıq və qırmızılıq qarışmayan, çirkin və pis bir ağlıqdır; lakin deyirlər ki, gözün küncləri qırmızı olur (المُحْمَرَّة المآقي). Rübənin sözündəki مَهَق (məhəq) sözünə gəlincə, belə deyirlər:\n* صَفَقْن أيديهِنَّ في الحَوْم المَهَقْ (١) *\n(Əllərini şiddətli yaşıllığı olan dəniz suyuna çırpdılar).\n(Burada məhəq — suyun yaşıllığının şiddətidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

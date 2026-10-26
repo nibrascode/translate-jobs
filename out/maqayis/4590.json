@@ -1,0 +1,17 @@
+{
+ "i": 4590,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 124,
+  "page_to": 124
+ },
+ "ar": "الواو والعين والياء: كلمةٌ تدلُّ على ضمِّ شئ. ووَعَيْتٌ العِلْمَ أعِيهِ وَعْياً. وأَوْعَيْتُ المتاعَ فى الوِعاء أُوعيه. قال:\n* والشَّرُّ أخبَثُ ما أوعَيْتَ من زادِ (٢) *\nوأمَّا الوَعَى (٣) فالْجَلَبَةُ والأصوات. وهو عندنا من باب الإبدال، والأصل الغين. والوعية: الصَّارخَة، من الوَعَى (٣). ويقولون: لا وَعْىَ عَنْ كذا.",
+ "az": "[وعى] الواو والعين والياء: bir şeyi qoynuna almağa (toplamağa) dəlalət edən sözdür. ووَعَيْتٌ العِلْمَ أعِيهِ وَعْياً (Elmi hifz etdim, qavradım). Və أوْعَيْتُ المتاعَ فى الوِعاء أُوعيه (Əşyanı qaba yığıb qoydum). Demişdir: * والشَّرُّ أخبَثُ ما أوعَيْتَ من زادِ (٢) * (Və şər toplayıb qoyduğun azuqələrin ən pisləridir). Amma الوَعَى (əl-vəə) gəraylı və səslərdir. O, bizə görə dəyişmə (əbdəl) babındandır, əsli isə qeyndir. Və الوَعِيَّة (əl-vəiyyə): səsləyən (fəryad edən), الوَعَى (əl-vəə)-dən götürülmüşdür (٣). Və deyirlər: لا وَعْىَ عَنْ كذا (Filan şeydən qaçış yoxdur).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

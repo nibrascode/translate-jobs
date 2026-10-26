@@ -1,0 +1,17 @@
+{
+ "i": 3286,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قذر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 70,
+  "page_to": 70
+ },
+ "ar": "القاف والذال والراء كلمةٌ تدلُّ على خِلاف النَّظافة. يقال:\nشيءٌ قذِرٌ: بيِّن القَذَر. وقَذِرت الشيء واستقذرته، فإِذا وجدتَه كذلك قلت:\nأقذَرْتُه. وقذِرْتُ الشّيءَ: كرهتُه قَذَراً. قال:\n* وقَذَرِي ما ليس بالمقذُورِ (١) *\nورجل قَاذُورة: لا يَخالُّ ولا ينازِلُ الناس. وناقةٌ قَذورٌ: عزيزة النَّفْس لا تَرعَى مع الإبل. ورجل مقذورٌ، كالمُقْذَر. قال * الكلابيّ: رجلٌ قُذَرَة: يتنزَّه عن الملائم.",
+ "az": "[قذر] (قذر). القاف والذال والراء كلمةٌ تدلُّ على خِلاف النَّظافة (təmizliyin əksinə dəlalət edən kəlmədir). يقال (deyilir): شيءٌ قذِرٌ (şəy'un qəzirün): بيِّن القَذَر (açıq-aşkar çirkli olan). وقَذِرت الشيء واستقذرته (və qəzirtu əş-şəy'ə və istəqzərtuhu), فإِذا وجدتَه كذلك قلت (və onu belə tapdıqda deyərsən): أقْذَرْتُه (öqzərtuhu). وقذِرْتُ الشّيءَ (və qəzirtu əş-şəy'ə): كرهتُه قَذَراً (ona çirkli olduğu üçün nifrət etdim). قال (şair dedi): * وقَذَرِي ما ليس بالمقذُورِ (١) * (Mənim çirkli hesab etdiyim şey heç də pis və çirkli sayılmayan şeydir). ورجل قَاذُورة (və rəculun qəzuurətün): لا يَخالُّ ولا ينازِلُ الناس (insanlarla ünsiyyət qurmayan və onlarla döyüşə girməyən). وناقةٌ قَذورٌ (və naqatun qəzuurun): عزيزة النَّفْس لا تَرعَى مع الإبل (özünə hörmət edən, dəvələrlə bir yerdə otlamayan təkəbbürlü dəvə). ورجل مقذورٌ (və rəculun məqzuurun), كالمُقْذَر (əl-muqfər kimidir). قال * الكلابيّ (Kilabi dedi): رجلٌ قُذَرَة (rəculun quzəratun): يتنزَّه عن الملائم (pis əməllərdən uzaq durur, təmizdir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:34:58.103Z"
+}

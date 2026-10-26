@@ -1,0 +1,17 @@
+{
+ "i": 4230,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 474,
+  "page_to": 474
+ },
+ "ar": "النون والكاف والباء أصلٌ صحيح يدلُّ على مَيْل أو مَيَلٍ في الشَّيء. ونَكَب عن الشَّيء يَنكُبُ. قال اللّه تعالى: ﴿عَنِ اَلصِّراطِ لَناكِبُونَ (٢﴾. والنَّكباء: كلُّ ريح عَدلَتْ عن مَهبِّ الرِّياح الأربع. قال:\nلا تَعدِلَنّ أتَاوِيِّين تَضربُهُمْ … نَكباءُ صِرٌّ بأصحاب المُحِلاّتِ (٣)\nوالأنكَب: الذي كأنَّه يمشي في شِقّ. والمَنْكِبُ: مجتَمَع ما بين العَضُد والكَتِف، وهما مَنكِبان، لأنَّهما في الجانبين. والنَّكَبُ: داءٌ يأخذ الإبلَ في مناكبها فتَظلَعُ منه. والمَنْكِب: عَون العَرِيف، مشبَّه بمنكب الإنسان، كأنَّه يقوِّي أمرَ العَرِيف كما يتقوَّى بمَنكِبِه الإنسان.",
+ "az": "[نكب] النون والكاف والباء (n, k, b) bir şeydə əyilməyə və ya meyl etməyə dəlalət edən səhih bir kökdür. «نَكَب عن الشَّيء يَنكُبُ» (şeydən uzaqlaşdı, yayınndı). Uca Allah buyurmuşdur: ﴿عَنِ اَلصِّراطِ لَناكِبُونَ﴾ (mənaca tərcümə: Yoldan sapmışlar). «النكباء» – dörd külək istiqamətindən meyl edən hər hansı bir külək. Şair demişdir: «لا تَعدِلَنّ أتَاوِيِّين تَضربُهُمْ … نَكباءُ صِرٌّ بأصحاب المُحِلاّتِ» (Məskunlaşanların sahiblərinə sərt və soyuq əsən sərt küləyin vurduğu yerli adamlara tərəf meyl etmə). «الأنكَب» – elə bil bir tərəfə əyilib yeriyən kəs. «المَنْكِب» – bazubənd ilə çiyin arasındakı birləşmə yeri, ikisi də «مَنكِبان» adlanır, çünki onlar iki tərəfdədir. «النَّكَب» – dəvələrin çiyinlərini tutan və nəticədə onların axsamasına səbəb olan bir xəstəlikdir. «المَنْكِب» – ərəfin (qəbilə başçısının) köməkçisidir, insanın çiyinlərinə bənzədilmişdir, elə bil ki, insan öz çiyinləri ilə gücləndiyi kimi o da başçının işini gücləndirir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:43.035Z"
+}

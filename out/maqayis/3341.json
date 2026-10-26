@@ -1,0 +1,17 @@
+{
+ "i": 3341,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 107,
+  "page_to": 107
+ },
+ "ar": "القاف والعين والميم كلماتٌ لا تَرْجِع إلى قياسٍ واحد، لكنَّها متباينة. يقولون: أُقْعِم الرّجلُ، إذا أصابَه داءٌ فقتَلَه. وأقْعَمَتْه الحيّة.\nوالقَعَم: مَيَلٌ في الأنف. ويقال إنَّ القَعَم في الأَليتينِ: ارتفاعُهما، لا تكونان مُسترخِيتين. ويقولون: القَيعَم: السِّنَّوْر.",
+ "az": "[قعم] (qə-ə-m): Qaf, eyn və mim tək bir əsasa qayıtmayan, lakin bir-birindən fərqlənən sözlərdir. Belə deyirlər: «أُقْعِم الرّجلُ» (üqimə ər-racülü) — kişiyə bir xəstəlik üz verib onu öldürdükdə deyilir. Onu ilan da «أقْعَمَتْه الحيّة» (əqəməthü əl-həyyə) dişləyib öldürdü. Və «القَعَم» (qəqəm): burunda olan əyrilik. Deyirlər ki, «القَعَم» (qəqəm) sağrı (omurba) nahiyəsində olur — onların sallanmayıb yuxarı qalxmış olmasıdır. Həmçinin deyirlər: «القَيعَم» (qəyəm) pişik deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

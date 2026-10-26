@@ -1,0 +1,17 @@
+{
+ "i": 4356,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 47,
+  "page_to": 47
+ },
+ "ar": "الهاء والراء والطاء شئٌ يدلُّ على اختصامٍ وتَشاتُمٍ.\nوتهارطَ الرّجلانِ. تَشَاتَمَا. وهَرَطَ فى كلامِه: خَلَّطَ.",
+ "az": "[هرط] (hə-rə-tə): Hə, ra və ta – çəkişməyə və söyüşməyə dəlalət edən bir şeydir.\nVə تهارطَ الرّجلانِ (İki kişi bir-birini söydü, çəkişdi). وهَرَطَ فى كلامِه (Danışığında qarışıqlıq saldı, səfsatə danışdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

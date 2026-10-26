@@ -1,0 +1,17 @@
+{
+ "i": 4234,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نكد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 475,
+  "page_to": 476
+ },
+ "ar": "النون والكاف والدال أُصَيل يدلُّ على خُروجِ الشَّيء إلى\nطالِبِه بِشدّة. وهذا مَطلَبٌ نَكِدٌ. ورجلٌ نَكِدٌ ونَكَدٌ (١). ويقال: نَكَدَ الغُرابُ (٢): استَقْصَى في شَحِيجِه، كأنّه بَقِيء. وناقةٌ نَكْدَاء: لا لَبَن فيها.",
+ "az": "[نكد] (çətinlik, məşəqqət) Nun, kaf və dal kiçik bir əsas olub, bir şeyin onu tələb edənə çətinliklə çıxmasını göstərir. Bu, çətin bir istəkdir (مَطلَبٌ نَكِدٌ). Və kişi نَكِدٌ və نَكَدٌ (çətin, xsis) olar (١). Deyilir ki, نَكَدَ الغُرابُ (qarğa qarıldadı) (٢): qarıltısında həddini aşdı, elə bil o, öskürəkli kimi idi. Və dişi dəvə نَكْدَاء (südü olmayan): südü olmayan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:03:34.182Z"
+}

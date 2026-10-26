@@ -1,0 +1,17 @@
+{
+ "i": 3955,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 354,
+  "page_to": 354
+ },
+ "ar": "النون والجيم أصل صحيح يدلّ على تحرُّك واضطرابٍ، وشبه ذلك.\nفالنَّجْنَجَة: الجولة عند الفزع. يقال نجنجوا. والنَّجْنَجَة: ترديد الرأي. وتَنَجْنَجوا:\nأصابوا (١) في الموضع الذي أربَعوا فيه ثم عزموا على تحضُّر المِياه. وتَنَجْنَج لحمُه:\nاسترخَى. ونَجَّت القُرحَة: سالت.",
+ "az": "[نج] Nun və cim - hərəkət, iztirab (narahatlıq) və bənzəri şeylərə dəlalət edən səhih bir kökdür.\n«النَّجْنَجَة» — qorxu zamanı dolanmaq (gəzişmək). Deyilir: «نجنجوا». «النَّجْنَجَة» — fikri təkrar etmək. «وتَنَجْنَجوا» — (١) dincəldikləri məkanda məqsədə çatdılar, sonra su mənbələrinə tərəf getməyə qəti qərar verdilər. «وتَنَجْنَج لحمُه» — əti boşaldı (sarkdı). «ونَجَّت القُرحَة» — yara axdı (irin və ya su sızdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

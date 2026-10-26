@@ -1,0 +1,17 @@
+{
+ "i": 3228,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قوض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 41,
+  "page_to": 41
+ },
+ "ar": "القاف والواو والضاد كلمةٌ تدلُّ على نَقْضِ بناء. يقال:\nقَوَّضْت البناءَ: نقضْتُه من غير هَدْم. وتقوَّضَتِ الصُّفوف: انتَقَضَتْ.",
+ "az": "[قوض] «القاف» (قاف), «الواو» (واو) və «الضاد» (dad) — bina tikilisini sökməyə dəlalət edən bir kəlmədir. Deyilir: «قَوَّضْت البناءَ» (binanı söktüm) — onu uçurmadan sökdüm. «وتوَّضَتِ الصُّفوف» (cərgələr dağıldı/pozuldu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:47.283Z"
+}

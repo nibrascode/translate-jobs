@@ -1,0 +1,17 @@
+{
+ "i": 4117,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نسف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 419,
+  "page_to": 420
+ },
+ "ar": "النون والسين والفاء أصلٌ صحيح يدلُّ على كَشْف شيء.\nوانتسفَت الرِّيحُ الشَّيءَ مثلَ التُّراب والعَصْف، كأنّها كشفَتْه عن وجه الأرض وسلبته. ونَسْفُ البِناءِ: استِئْصالُه قَطعاً. ويقال للرُّغوة: النُّسَافة (٢)، لأنّها تُنْتَسَف عن وجه اللَّبَن. وقولهم انتُسِفَ لونُه من ذلك. وبَعيرٌ نَسوفٌ: يقلع\nالنَّباتَ عن الأرض بمقدَّم فيه: وحكى ناسٌ: هما يتناسفان، أي يتسارَّان.\nوالقياسُ واحد. كأنَّ هذا يَنسِف ما عند ذاك. وذاك ما عندَ هذا.",
+ "az": "[نسف] (nəsəfə): Nun, sin və fa bir şeyi üzə çıxarmağa, qaldırmağa dəlalət edən səhih əsldir.\n\nKülək torpaq və əsən ot kimi şeyi intəsəfət etdi (sorub apardı, yerin üzündən təmizlədi), sanki onu yerin üzündən açıb soydu. Bənnanın nəfsü (bina tikilisini kökündən kəsib qoparmaq). Köpüyə ən-nüsafə (٢) deyilir, çünki o, südün üzərindən götürülür. Onların “bunun üzündən rəngi intüsif oldu (soldu, qaçdı)” sözləri dəridəndir. Və bəirun nəsufun (burun önü ilə torpaqdan bitkini qoparıb yeyən dəvə). Bəzi adamlar rəvayət etmişdir: “Həma yətnasəfani (ikisi bir-birinə sirr danışır, pıçıldaşırlar)”, yəni bu, o birinin yanında olanı götürür, o da bunun yanında olanı götürür. Qiyas eynidir, sanki bu, o birinin yanında olanı qaldırır, o da bunun yanında olanı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

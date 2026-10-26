@@ -1,0 +1,17 @@
+{
+ "i": 3438,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كير",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 149,
+  "page_to": 149
+ },
+ "ar": "الكاف والياء والراء كلمةٌ، وهي كِيرُ الحَدّاد. قال أبو عمرو:\nالكُور: المبنيُّ من الطِّين، والكِير: الزِّقّ. قال بشر:\nكأنَّ حَفيف مَنْخَرِه إذا ما … كَتَمْنَ الرّبْوَ كِيرٌ مُستعارُ (١)",
+ "az": "[كير] (Kaf, ya və ra) — bir kəlmədir, o da dəmirçi körügüdür (كِيرُ الحَدّاد). Əbu Amr demişdir: الكُور (əl-kur) — paltçıqdan tikilən (ocaq), الكِير (əl-kir) — tuluqdur. Bişr demişdir: [Şeir] كأنَّ حَفيف مَنْخَرِه إذا ما … كَتَمْنَ الرّبْوَ كِيرٌ مُستعارُ (١) (mənası: Sanki o, nəmiliyi gizlədərkən burun deşiklərinin səsi... ödünc alınmış bir körük kimidir).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

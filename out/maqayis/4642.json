@@ -1,0 +1,17 @@
+{
+ "i": 4642,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وله",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 140,
+  "page_to": 141
+ },
+ "ar": "الواو واللام والهاء: أصلٌ صحيح يدلُّ على اضطرابِ شئ أو ذهابِه [يقال: رجلٌ (٣)] والهٌ وامرأة والهٌ ووالهة. قال الأعشى:\nفأقبلَتْ والهِاً ثَكْلَى على عَجَلٍ … كُلٌّ دَهَاها وكلٌّ عندَها اجتمعا (٤)\nوالموَلَّهُ: الذى ولِّه عَقْلُه. وعَينٌ مُوَلَّهة، إذا أُرسل ماؤُها فذَهبَ فى الصّحارى.\nومنه التَّولِيه: أن يفرَّق بين المرأة وولدِها. و\nفى الحديث: «لا تولّه والدةٌ عن وَلَدها».",
+ "az": "«وله» (vələh). Vəv, lam və hə: bir şeyin sarsılmasına və ya getməsinə dəlalət edən səhih bir kökdür. [Deyilir: kişi (٣)] واله (valih) və qadın واله (valihə) və وائل (valih). Əşə-şair demişdir: «فَأَقْبَلَتْ وَالِهاً ثَكْلَى عَلَى عَجَلٍ … كُلٌّ دَهَاهَا وَكُلٌّ عِنْدَهَا اجْتَمَعَا» («O, övladını itirmiş, haldən düşmüş bir halda tələsik gəldi... Hamısı ona müsibət gətirdi və hər şey onun yanında cəm oldu») (٤). اَلْمُوَلَّهُ (muvəlləh) — əqli başından gedən kimsədir. عَيْنٌ مُوَلَّهَةٌ (əynün muvəlləhətün) — suyu səhralara axıdılıb gedən çeşməkdir. Həmçinin اَلتَّوْلِيهُ (təvlih) — qadınla övladının arasını ayırmaqdır. Hədisdə gəlmişdir: «لاَ تُولَهُ وَالِدَةٌ عَنْ وَلَدِهَا» («Ana övladından ayrı düşüb haldən düşməsin»).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:17.059Z"
+}

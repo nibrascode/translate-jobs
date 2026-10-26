@@ -1,0 +1,17 @@
+{
+ "i": 3950,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ملو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 352,
+  "page_to": 352
+ },
+ "ar": "الميم واللام والحرف المعتلّ أصل صحيح يدلُّ على امتدادٍ في شيءٍ زمانٍ أو غيره. وأملَيت القيدَ للبعير إملاءً، إذا وسَّعته. وتملّيت عُمْرِي، إذا استمتَعت به. والمَلَوانِ: اللّيل والنهار. والملاوة (٤): ملاوة العيش، أي قد أُملِيَ له. ومن الباب إملاء الكتاب.\nواللّه أعلم بالصَّواب.",
+ "az": "[ملو] Mim, lam və hərf-i müəttəl (zəif hərf) zaman və ya başqa şeydə uzanmağa dəlalət edən səhih bir kökdür. «أملَيت القيدَ للبعير إملاءً» — dəvənin buxovunu uzatdım (genişlətdim) deməkdir. «تملّيت عُمْرِي» — ömrümdən zövq aldım (bəhrələndim) deməkdir. «المَلَوانِ» — gecə və gündüzdür. «الملاوة» (٤) — «ملاوة العيش» (yaşayışın müddəti), yəni ona möhlət verilmişdir. Bu باب-dandır (bu qbildəndir): «إملاء الكتاب» (kitabın imla edilməsi, yazdırılması).\nVə ən doğrusunu Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.129Z"
+}

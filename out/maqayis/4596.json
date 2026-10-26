@@ -1,0 +1,17 @@
+{
+ "i": 4596,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وعس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 126,
+  "page_to": 126
+ },
+ "ar": "الواو والعين والسين: أصلٌ يدلُّ على سُهولةٍ فى الشئ.\nمن ذلك الوَعْساء: الأرض الليِّنةُ ذاتُ الرَّمْل. والمِيعَاسُ: الأرض لم تُوطَأُ.\nوالمُوَاعَسةُ: ضَرْبٌ من سَير الإبِلِ سَهْل. يقال: واعَسْنَا ليلتَنَا هذِهِ: أدْلَجْنا.\nولا تكون المُوَاعَسَةُ إلاَّ باللّيل.",
+ "az": "[وعس] الواو والعين والسين: bir şeydə yumşaqlığa dəlalət edən əsasdır. Bunlardan الوَعْساء (əl-vəsaə): qumlu yumşaq torpaqdır. Və المِيعَاسُ (əl-mias): üzərində iz düşməmiş yer. Və المُوَاعَسَةُ (əl-müasəsə): dəvələrin yumşaq gediş növüdür. Deyirlər: واعَسْنَا ليلتَنَا هذِهِ (Biz bu gecə yolçuluq etdik və gecələdik). المُوَاعَسَةُ (müasəsə) yalnız gecə olur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:00.842Z"
+}

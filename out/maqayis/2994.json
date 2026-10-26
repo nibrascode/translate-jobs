@@ -1,0 +1,17 @@
+{
+ "i": 2994,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فكر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 446,
+  "page_to": 446
+ },
+ "ar": "الفاء والكاف والراء تردُّدُ القَلْب فى الشَّئ يقال تفكّرَ إذا ردَّدَ قلبه معتبِرا. ورجلٌ فِكِّير: كثير الفِكر (٢).",
+ "az": "[فكر]\nFə, kaf və ra qəlbin bir şey barəsində götür-qoy etməsidir. «تفكّرَ» (təfəkkəra) — qəlbi ilə ibrət alaraq götür-qoy etdikdə deyilir. «رجلٌ فِكِّير» (raculun fikkir) — çox düşünən, çox fikir edən adamdır (٢).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.923Z"
+}

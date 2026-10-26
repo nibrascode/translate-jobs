@@ -1,0 +1,17 @@
+{
+ "i": 3468,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كتو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 158,
+  "page_to": 158
+ },
+ "ar": "الكاف والتاء والواو. الكَتْو: مُقارَبة الْخَطْو. يقال:\nكتا يَكتُو كَتواً. حكاه ابنُ دريدٍ عن أبى مالك (٣).",
+ "az": "[كتو] (Kətəvə). Kaf, ta və vav (الكاف والتّاء والواو). Əl-kətv (الكَتْو) – addımı yaxınlaşdırmaqdır. كتا يَكتُو كَتواً (addımını yaxınlaşdırdı, yaxınlaşdırır) deyilir. Bunu İbn Dürid Əbu Malikdən rəvayət etmişdir (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:41:04.625Z"
+}

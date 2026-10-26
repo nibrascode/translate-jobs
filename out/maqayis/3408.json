@@ -1,0 +1,17 @@
+{
+ "i": 3408,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كنه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 139,
+  "page_to": 139
+ },
+ "ar": "الكاف والنون والهاء كلمةٌ واحدة تدلُّ على غايةِ الشَّيء ونهايةِ وقتِه. يقال: بلغْتُ كُنْهَ هذا الأمرِ، أي غايتَه وحِينَه الذي هُوَ له.",
+ "az": "[كنه] Kaf, nun və ha bir söz olub, bir şeyin son həddinə və vaxtının sonuna dəlalət edir. Deyilir: «بلغْتُ كُنْهَ هذا الأمرِ» (bu işin künhnə, yəni son həddinə və ona məxsus olan vaxtına çatdım).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3811,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 302,
+  "page_to": 302
+ },
+ "ar": "الميم والحاء والنون كلماتٌ ثلاثٌ على غير قياس.\nالأولى المَحْن: الاختبار. ومَحَنَه وامتحنه.\nوالثانية: أتيتُه فما مَحَنني شيئًا، أي ما أعطانيه.\nوالثالثة مَحَنَه سَوطاً: ضربَه.",
+ "az": "[محن] (Mim, ha və nun): Qiyasasız üç sözdür.\nBirincisi: «المَحْن» (əl-məhn) – imtahan etmək, yoxlamaq. «مَحَنَه وامتحنه» (məhənəhu və-imtəhənəhu) – onu sınadı və imtahan etdi.\nİkincisi: «أتيتُه فما مَحَنني شيئًا» (ətaytühu fəmə məhənəni şeyən) – yəni yanına gəldim, lakin mənə heç bir şey əta etmədi, vermədi.\nÜçüncüsü: «مَحَنَه سَوطاً» (məhənəhu savtən) – onu qamçı ilə vurdu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

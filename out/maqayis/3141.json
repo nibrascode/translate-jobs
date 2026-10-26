@@ -1,0 +1,17 @@
+{
+ "i": 3141,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فضح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 509,
+  "page_to": 509
+ },
+ "ar": "الفاء والضاد والحاء كلمتان متقاربتان تدلُّ إحداهما على انكشافِ شئ، ولا يكاد يُقال إلاّ فى قبيح، والأخرى على لونٍ غير حسنٍ أيضاً.\nفالأوَّل قولهم: أفْضَح الصُّبح وفَضَّح، إذا بدا. ثم يقولون فى التَّهتُّك: الفُضوح.\nقالوا: وافْتَضَح الرّجُل *، إذا انكشفتْ مساوِيه.\nوأمَّا اللَّون فيقولون: إنّ الفَضَح: غُبْرَةٌ فى طُحْلة؛ وهو لَوْنٌ قبيح (٣). وأفْضحَ البُسر، إذا بدَتْ منه حمرةٌ. ويقولون: الأفْضَح: الأسَد، وكذلك البعير، وذلك من فَضَحِ اللَّون.",
+ "az": "[فضح] (F-D-H) Fə, dad və ha hərfləri bir-birinə yaxın iki mənaya dəlalət edir. Bunlardan biri bir şeyin aşkar olmasıdır ki, bu da demək olar ki, yalnız xoşagəlməz hallarda işlədilir; digəri isə xoş olmayan bir rəngə işarə edir. Birinciyə gəldikdə, onların «أفْضَح الصُّبح وفَضَّح» (Sübh açıldı və aşkar oldu) demələri buna misaldır. Sonra rüsvayçılıq haqqında «الفُضوح» (rüsvaylıqlar) deyirlər. Dedilər ki, «افْتَضَح الرّجُل» (kişinin eyibləri aşkar oldu) o zaman deyilir ki, onun pis əməlləri üzə çıxır. Rəngə gəldikdə isə deyirlər ki, «الفَضَح» (fədah): bozluqla qarışıq tünd göy rəngdir; bu, xoş olmayan bir rəngdir (٣). «أفْضحَ البُسر» (xurma yetişməyə başladı) o zaman deyilir ki, ondan qırmızılıq görünür. Həmçinin deyirlər ki, «الأفْضَح» (əl-fədah): şirdir, eynilə dəvə də belə adlanır və bu, rəngin «fədah» olmasındandır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

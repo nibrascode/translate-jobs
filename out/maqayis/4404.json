@@ -1,0 +1,17 @@
+{
+ "i": 4404,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هلس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 61,
+  "page_to": 62
+ },
+ "ar": "الهاء واللام والسين يدلُّ على إخفاء شئِ: من كلامٍ وغيره. يقال: أَهْلَسَ فى الضَّحِك: أخْفاه. قال:\n* تضحك منى ضَحِكاً إهلاسَا (٤) *\nوهالَسَ فُلاناً: سارَّهُ. والمهلوسُ: الضَّعيف العَقْل، وهو القياس. والهُلَاس\n[شِبْه السُّلال من الهُزال (١)]، كأنَّ لحمَه خَفِىَ وتوارَى.\nومما شذَّ عن الباب الهَلْس: الخَيْر الكثير (٢).",
+ "az": "[هلس] (hə-lə-sə): Hə, lam və sin hərfləri söz və digər şeyləri gizlətməyə dəlalət edir. Deyilir: «أَهْلَسَ فى الضَّحِك» (əhləsə fiz-zahik) — gülüşünü gizlətdi. Şair demişdir: * تضحك منى ضَحِكاً إهلاسَا * (Məndən gizli şəkildə gülürsən). «هالَسَ فُلاناً» (hələsə fülənən) — onunla pıçıltıyla danışdı. «المهلوسُ» (əl-məhlusu) — zəif ağıllı deməkdir, qiyas da bunu tələb edir. «الهُلاس» (əl-hulas) [arıqlıqdan yaranan vərə bənzər xəstəlik], sanki əti gizlənmiş və itmiş kimidir. Bu babdan istisna olan «الهَلْس» (əl-həls) — çoxlu xeyirdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

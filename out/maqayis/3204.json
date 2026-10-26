@@ -1,0 +1,17 @@
+{
+ "i": 3204,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قنت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 31,
+  "page_to": 31
+ },
+ "ar": "القاف والنون والتاء أصلٌ صحيحٌ يدلُّ على طاعةٍ وخيرٍ فى دين، لا يعدو هذا البابَ. والأصل فيه الطَّاعة، يقال: قَنَتَ يَقْنُتُ قُنوتاً. ثم سمِّى كلُّ استقامةٍ فى طريقِ الدِّين قُنُوتاً، وقيل لطُولِ القِيام فى الصَّلاةِ قُنُوت، وسمِّى السُّكوتُ فى الصَّلاة والإقبالُ عليها قُنوتاً. قال اللّه تعالى: ﴿وَقُومُوا لِلّهِ قانِتِينَ﴾.",
+ "az": "«قنت» — قاف، نun və ta hərfləri bu fəsildən kənara çıxmayan, dinə aid itaət və xeyrə dəlalət edən səhih bir kökdür. Onun əsili itaətdir, deyilir: «قَنَتَ يَقْنُتُ قُنوتاً» (qanətə yaqnütü qunutən). Sonra din yolunda hər bir düz yolda olmaq «قُنُوت» (qunut) adlandırılmışdır, namazda uzun müddət ayaqda durmağa qunut deyilmişdir, namazda sükut etməyə və ona yönəlməyə də qunut adı verilmişdir. Uca Allah buyurmuşdur: mənaca tərcümə: «Və Allaha itaətkar (qünt) olaraq durun».",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:04.973Z"
+}

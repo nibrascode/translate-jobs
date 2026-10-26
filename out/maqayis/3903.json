@@ -1,0 +1,17 @@
+{
+ "i": 3903,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 335,
+  "page_to": 335
+ },
+ "ar": "الميم والعين والحرف المعتل ثلاثُ كلماتٍ ليس قياسها واحداً.\nالأولى: المَعْوُ: الرُّطَب قد أرطب جَميعُه. وقال ابن دريد (٣): هو إذا دخله بعضُ اليُبْس *. وأمْعَى النَّخْل: صار كذلك.\nوالثانية: مِعَى البطن، والجمع أمعاء.\nوالثالثة المِعَى: المِذْنَب من مَذَانب الأرض.",
+ "az": "[معو] \nMim, eyn və mütətil (zəif) hərf — ölçüsü eyni olmayan üç kəlmədir.\nBirincisi: المَعْوُ — tamamilə yetişmiş yaş xurma. İbn Dürid demişdir (٣): Bu, onun içinə bir qədər quruluq daxil olduqda olur *. Və أْمْعَى النَّخْل: xurma ağacı belə oldu.\nİkincisi: Qarnın bağırsağı — مِعَى البطن, cəmi أمعاء (bağırsaqlar).\nÜçüncüsü: المِعَى — yerin su axarları (mərzləri).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

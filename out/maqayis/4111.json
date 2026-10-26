@@ -1,0 +1,17 @@
+{
+ "i": 4111,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 417,
+  "page_to": 418
+ },
+ "ar": "النون والراء والهاء كلمةٌ تدلُّ على بُعدٍ في مكانٍ وغيرِه.\nورجلٌ نَزِيه الخُلُق: بعيدٌ من المطامع الدّنيّة. قال ابن دريد (٤): ونَزِهُ النَّفس\nونازِهُ النَّفس: ظلِفُها عن المَدَانِس. قال ابن السكِّيت: خرجنا نتنزَّه، إذا تباعَدُوا عن الماء والرِّيف. ومكان نَزِيهٌ: خلاء ليس به أحد.",
+ "az": "[نزه] (nəzəhə): Nun, ra və hə sözü məkan və qeyrisində uzaqlığa dəlalət edən bir sözdür.\n\nBir kişi nəzihül-xüluq (əxlaqı təmiz, pak): dünya tamahından uzaq. İbn Dürid (٤) demişdir: Nəzühün-nəfs və nazühün-nəfs: nəfsin çirklərdən qorunması, uzaq durması. İbn əs-Sikkit demişdir: Su və yaşıllıqdan uzaqlaşdıqları zaman \"tənəzzəh edirik\" (gəzməyə çıxırıq) deyərək çıxdıq. Məkanun nəzihün (boş, içində heç kəs olmayan yer).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

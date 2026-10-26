@@ -1,0 +1,17 @@
+{
+ "i": 4074,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "النون والحاء والطاء كلمةٌ تدلُّ على حكايةِ صوت. من ذلك النَّحِيط كالزَّفير. والنَّحَّاط: الرَّجل المتكبِّر ينحطُ من الغَيظ. والنَّحْطة: داءٌ يأخذ الإبل في صَدرها تَنحَطُ منه فلا تكاد تَسلم مَعَه",
+ "az": "[نحط] (n-h-t) - Nün, ha və ta hərfləri səsin təqlidinə dəlalət edən kəlmədir. Ondandır: النَّحِيط (ən-nəhit) zəfir (inilti) kimidir. وَالنَّحَّاط (ən-nəttat): qəzəbdən səs çıxaran təkəbbürlü kişi. وَالنَّحْطة (ən-nəhta): dəvələrin sinəsini tutan bir xəstəlikdir ki, ondan inildəyərlər və demək olar ki, onunla sağalmazlar.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

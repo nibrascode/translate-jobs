@@ -1,0 +1,17 @@
+{
+ "i": 3567,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لمس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 210,
+  "page_to": 210
+ },
+ "ar": "اللام والميم والسين أصلٌ واحدٌ يدلُّ على تطلُّبِ شيء ومَسيسِه أيضاً. تقول: تلمّستُ الشّيءَ، إذا تطلَّبْتَه بيدك. قال أبو بكر بن دريد: اللّمس أصلُه باليد ليُعرَف مَسُّ الشّيء، ثم كثُرَ ذلك حتَّى صار كلُّ طالب مُلتمِساً (١).\nولَمَسْت (٢)، إذا مَسِسْتَ. قالوا: وكلُّ مَاسٍّ لامس. قال اللّه سُبحانه:\n﴿أَوْ لامَسْتُمُ اَلنِّساءَ﴾، قال قومٌ: أُريد به الجماع. وذهَبَ قوم إلى أنّه المَسيس، وأنَّ اللَّمْس والملامَسة يكون بغير جماع. وأنشدوا (٣):\nلَمَسْتُ بكفِّي كفّه أبْتَغِي الغِنَى … ولم أدرِ أنَّ الجودَ من كفِّه يُعدِى (٤)\nوهذا شعرٌ لا يحتجُّ به. واللّمَاسة (٥): الطَّلِبةُ والحاجة. ويقال: «لا يَمنَع يدَ لامِسٍ»، إذا لم تكن فيه منفعة ولا له دِفاع. قال:\n* ولولا همُ لم تَدفَعُوا كفَّ لامِسِ *",
+ "az": "[لمس] «اللام والميم والسين» (lam, mim və sin) — tək bir əsl olub bir şeyi axtarmağa və həmçinin ona toxunmağa dəlalət edir. Deyirsən: «تلمّستُ الشّيءَ» (şeyə toxundum / şeyi axtardım), əgər onu əlinlə axtarmısansa. Əbu Bəkr ibn Dureyd demişdir: «اللّمس» (ləms) sözünün əsli əllə olur ki, şeyin toxunulması bilinsin, sonra bu, o dərəcədə yayıldı ki, hər bir axtaran «مُلتمِس» (multəmis - tələb edən) oldu (١). Və «لَمَسْتُ» (ləməstu) — əgər toxundunsa. Dedilər: Hər toxunan «لامس» (lâmis - toxunan) olar. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿أَوْ لامَسْتُمُ اَلنِّساءَ﴾ (və ya qadınlara toxundunuzsa). Bir qrup demişdir: Burada cinsi əlaqə nəzərdə tutulmuşdur. Bir qrup isə bunun toxunmaq olduğuna, ləms və mülaməsənin cinsi əlaqəsiz də ola biləcəyinə getmişdir. Və (şair) şeir söyləmişlər (٣): لَمَسْتُ بكفِّي كفّه أبْتَغِي الغِنَى … ولم أدرِ أنَّ الجودَ من كفِّه يُعدِى (٤) (Sərvət istəyərək kəffimlə onun kəffinə toxundum, və bilmədim ki, səxavət onun kəffindən yoluxur). Bu isə dəlil gətirilməyən bir şeirdir. Və «اللّمَاسة» (ləmasə): tələb və ehtiyac. Və deyilir: «لا يَمنَع يدَ لامِسٍ» (toxunanın əlini əngəlləməz) — əgər onda bir mənfəət yoxdursa və onun üçün bir müdafiə yoxdursa. (Şair) demişdir: * ولولا همُ لم تَدفَعُوا كفَّ لامِسِ * (Və əgər onlar olmasaydı, toxunanın əlini dəf etməzdiniz).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:11.522Z"
+}

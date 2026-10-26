@@ -1,0 +1,17 @@
+{
+ "i": 4401,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هلب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 61,
+  "page_to": 61
+ },
+ "ar": "الهاء واللام والباء: أصلٌ يدلُّ على سُبوغٍ فى شئِ وسَعَة.\nفالهُلْب: ما غلُظ من الشَّعر، كشعر الذَّنَب. وعيشٌ اهْلَبُ: واسع، كما يقال:\nعيش أزَبُّ. ويومٌ هَلاَّبٌ، إذا كان مطرُه دائماً فى لِين. والهَلاَّبة: الرِّيح الباردة مع قَطْرٍ (١)، ولذلك يقال لِشدَّة الزمان هُلْبَة. وإنَّما قِيل فرسٌ مهلوبٌ لأنّه قد جُزَّ هُلْبُ ذَنبِه.",
+ "az": "[هلب] (hə-lə-bə): Hə, lam və ba hərfləri bir şeydə bolluğa və genişliyə dəlalət edən bir əsasdır. «الهُلْب» (əl-hulb) — quyruq tükü kimi cod və qalın olan tüklərdir. «عيشٌ اهْلَبُ» (عيش أزَبُّ) (işun əhləb) — geniş həyat, necə ki «عيش أزَبُّ» deyilir. «يومٌ هَلاَّبٌ» (yömun həllab) — yağışı yumşaq və davamlı olan gün. «الهَلاَّبة» (əl-həlləbə) — yağışla birlikdə olan soyuq küləkdir, buna görə də zamanın şiddətinə «هُلْبَة» (hulbə) deyilir. «فرسٌ مهلوبٌ» (fərisun məhlub) — quyruğunun tükləri qırxılmış at deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

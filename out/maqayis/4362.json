@@ -1,0 +1,17 @@
+{
+ "i": 4362,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 49,
+  "page_to": 49
+ },
+ "ar": "الهاء والراء والباء كلمةٌ واحدة، هي هَرَب، إذا فَرّ. وما له هاربٌ ولا قاربٌ، أى صادرٌ عن الماء ولا وارد، أى لا شئَ له.",
+ "az": "«هرب» — الهاء والراء والباء (hə, ra və ba) bir kəlmədir, o da qaçdıqda deyilən هَرَب (hərəb) sözüdür. وما له هاربٌ ولا قاربٌ — yəni nə sudan çıxan, nə də suya gələn var, yəni heç nəsi yoxdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

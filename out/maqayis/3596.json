@@ -1,0 +1,17 @@
+{
+ "i": 3596,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لوق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 222,
+  "page_to": 222
+ },
+ "ar": "اللام والواو والقاف كلمةٌ تدُلُّ على تطييب شيءِ. يقال:\nلَوَّقَ الطّعَام، إذا طيَّبَه بإدامه. ويقولون: اللُّوقة: الزُّبْدَة (٢)، ويقال للمرأة، إذا لم تَحْظَ عند زوجِها: ما لاقَتْ، أي كأنَّه لم يَستطِبْ صُحبتَها. ومن الباب:\nلَاقَتِ الدّواةُ وألقتُها (٣).",
+ "az": "«لوق» (لوق): اللام، الواو والقاف كلمة تدل على تطييب شيء (Lam, vav və qaf bir şeyin dadını yaxşılaşdırmağa dəlalət edən kəlmədir). يقال: لوق الطعام، إذا طيبه بإدامه (Deyilir: lavvəqət-təam, əgər onu qatığı ilə dadlı etdisə). ويقولون: اللوقة: الزبدة (٢) (Və deyirlər: əl-lüvqə - kərə yağıdır), ويقال للمرأة، إذا لم تَحْظَ عند زوجها: ما لاقت، أي كأنَّه لم يستطب صحبتها (Və qadına denilər, əgər əri yanında dəyər qazanmadısa: ma laqat, yəni sanki onun yoldaşlığını xoşlamadı). ومن الباب: لاقت الدواة وألقتها (٣) (Və bu fəsildəndir: lâqatid-dəvətu və alaqtuhu).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:59.900Z"
+}

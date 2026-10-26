@@ -1,0 +1,17 @@
+{
+ "i": 4261,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 9,
+  "page_to": 9
+ },
+ "ar": "الهاء والزاء: أصلٌ يدلُّ على اضطرابٍ فى شئ وحركة.\nوهَزَزْت القناةَ فاهتزَّتْ. واهتَزَّ النَّباتُ، وهَزَّتْه الرِّيح. وهزَّ الحادى الإبلَ بحُدائِهِ واهتزَّتْ هى فى سيرها. وهَزِيزُ الرِّيح: حرَكتُها وصوتُها.\nومن الباب الهَزَاهِزُ (١): الفِتَنُ يَهْتَزُّ فيها النّاس. وسيفٌ هَزهازٌ وهُزْهُزٌ:\nصافٍ حسنُ الاهتزاز. وماء هُزَهِزٌ: اهتزَّ فى جَرَيانه. والكوكَب فى انقضاضه يهتَزُّ. والهُزَهِزُ: الرّجُل الخفيف، والقياسُ فى كلِّ ذلك واحد.",
+ "az": "[هز] (هاء və zay): bir şeydə narahatlığa və hərəkətə dəlalət edən kökdür.\nVə həzəztu əl-qənətə fə-htazzat (هَزَزْت القناةَ فاهتزَّتْ) – nizəni tərpatdim və o da tərpəndi. Və ihtazzə ən-nabatu (واهتَزَّ النَّباتُ) – bitki tərpəndi, və həzzathə ər-rihu (وهَزَّتْه الرِّيح) – külək onu tərpatdi. Və həzzə əl-hadi əl-iblə bi-hudaixi (وهزَّ الحادى الإبلَ بحُدائِهِ) – dəvəbaxan nəğməsi ilə dəvələri hərəkətə gətirdi, onlar da gedişlərində tərpəndilər. Və həzizu ər-rih (هَزِيزُ الرِّيح): küləyin hərəkəti və səsi.\nFəsildəndir: əl-həzahiz (الهَزَاهِزُ): içərisində insanların tərpəndiyi (çaxnaşma düşən) fitnələr. Və seyfun həzazun və huzhuzun (سيفٌ هَزهازٌ وهُزْهُزٌ): saf, gözəl tərpənən qılınc. Və maun huzhuzun (ماء هُزَهِزٌ): axınında tərpənən su. Və ulduz düşərkən tərpənir. Və əl-huzhuz (الهُزَهِزُ): yüngül (çevik) adam, bunların hamısında ölçü eynidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:04:23.332Z"
+}

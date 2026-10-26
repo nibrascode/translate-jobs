@@ -1,0 +1,17 @@
+{
+ "i": 3656,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لخن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 241,
+  "page_to": 241
+ },
+ "ar": "اللام والخاء والنون كلمة واحدةٌ، وهي اللَّخَن، وهو النَّتْن، يقال: لَخِنَ السِّقاء، إذا أنتنَ. ومنه قولهم للأَمة: لَخْناء.",
+ "az": "[لخن] (Ləhənə) — Lam, xə və nun tək bir kəlmədir, o da اللَّخَن (əl-ləhən) olub üfunətdir (pis qoxudur). Deyilir: «لَخِنَ السِّقاء» (ləxinəs-siqə) — tuluq üfunətləndi, qoxudu. Cariyəyə (qadın köləyə) «لَخْناء» (ləxnə) deyilməsi də buradan götürülmüşdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:06.170Z"
+}

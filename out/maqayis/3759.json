@@ -1,0 +1,17 @@
+{
+ "i": 3759,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "موج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 284,
+  "page_to": 284
+ },
+ "ar": "الميم والواو والجيم أصلٌ واحد يدلُّ على اضطرابٍ في الشيء. وماجَ الناسُ يَمُوجون، إذا اضطرَبوا. وماجَ أمرُهم ومَرِج: اضطرب.\nوالمَوْج: مَوج البحر، سمِّي لاضطرابه. وماج يَموج مَوْجاً ومَوَجاناً. وكلُّ شيءٍ اضطربَ فقد ماج.",
+ "az": "[موج] (M-v-c): Mim, vau və cim bir şeydə sarsıntıya, təlatümə dəlalət edən tək bir kökdür. İnsanlar təlatüm edərkən ماجَ الناسُ يَمُوجون (macən-nasu yamucun) dedilər. Onların işi qarışıq düşdükdə və təlatüm etdikdə ماجَ أمرُهم ومَرِج (macə əmruhum və məric) oldu.\nVə المَوْج (əl-məvc): dəniz dalğası; təlatüm etdiyinə görə belə adlandırılmışdır. Və ماج يَموج مَوْجاً ومَوَجاناً (macə yamucu movcən və məvəcan). Hər bir sarsılan və təlatüm edən şeyə macə deyilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

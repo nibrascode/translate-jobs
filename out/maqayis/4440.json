@@ -1,0 +1,17 @@
+{
+ "i": 4440,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وه",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 77,
+  "page_to": 77
+ },
+ "ar": "الواو والهاء. ليس فيه إلا وَهْوَه الْحِمارُ حَولَ عانَتِه شفقةً عليها. قال:\n* مقتَدِرُ الضَّيعةِ وَهْوَاهُ الشَّفَقْ (٤) *",
+ "az": "[وه] (Vav və hə). Onda yalnız eşşəyin öz dişi eşşəyinə olan mərhəmətindən ötrü onun ətrafında səslənməsi (وَهْوَه) vardır. O demişdir:\n* مقتَدِرُ الضَّيعةِ وَهْوَاهُ الشَّفَقْ (٤) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

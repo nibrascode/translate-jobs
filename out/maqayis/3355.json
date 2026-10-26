@@ -1,0 +1,17 @@
+{
+ "i": 3355,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 112,
+  "page_to": 112
+ },
+ "ar": "القاف والفاء والنون ليس بأصلٍ، لكنَّهم يقولون: القَفَن:\nلغةٌ في القَفا. والقفِينَة: الشَّاة تُذبَح من قَفاها. ويقال: إنَّ القَفَّانَ: طَريقةُ الشّيء ومُنتهَى عملِه. وجاء\nفي حديث عمر: «ثمَّ أكون على قَفّانِه».",
+ "az": "[قفن] (qə-f-n): Qaf, fa və nun əsas deyildir, lakin deyirlər: «القَفَن» (əl-qəfən): ənsə mənasında lüğəvi sözdür. Və «القفِينَة» (əl-qəfinə): ənsəsindən kəsilən qoyun. Və deyirlər ki, «القَفَّان» (əl-qəffan): bir şeyin yolu və işinin son nöqtəsidir. Ömərin hədisində gəlmişdir: «ثمَّ أكون على قَفّانِه» (Sonra mən onun yolunda [və ya baş ucunda] olaram).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

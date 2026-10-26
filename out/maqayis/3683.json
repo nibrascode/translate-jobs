@@ -1,0 +1,17 @@
+{
+ "i": 3683,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لطع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 249,
+  "page_to": 250
+ },
+ "ar": "اللام والطاء والعين أصلٌ صحيح يدلُّ على انكشافِ شيء عن شيء، وعلى كَشْفه عنه. يقال: لَطع الإنسان الشّيءَ بلسانه يلطَعُه، إذا لَحِسَه.\nواللَّطَع: بياضٌ في باطِن الشَّفَة، وذلك انكشافُ اللَّمَى عنها. وأكثر ما يعترى\nذلك السُّودان. قال ابن دريد: عجوزٌ لَطْعاء تحاتَّت أسنانها. قال: واللَّطعاء:\nالقليلة لحمِ الفَرج (١).",
+ "az": "[لطع] (lətəə) — lam, ta və eyn bir şeyin başqa bir şeydən açılmasına və onun üzərindən qaldırılmasına (kəşf olunmasına) dəlalət edən səhih kökdür. Deyilir: لَطع الإنسان الشّيءَ بلسانه يلطَعُه (insan şeyi dili ilə yaladı, yalayır), o, bunu yalamaq istədikdə.\nVə اللَّطَع (əllətəə) — dodağın daxilində olan ağlıqdır, bu, ləmanın (dodağın qırmızı/qaraltısının) ondan açılmasıdır. Bu, daha çox qaradərililərdə olur. İbn Dürid demişdir: عجوزٌ لَطْعاء (dişləri tökülmüş qarı). Və demişdir: اللَّطْعاء (əllətəə) — cinsiyyət orqanının əti az olan qadındır (١).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:27.242Z"
+}

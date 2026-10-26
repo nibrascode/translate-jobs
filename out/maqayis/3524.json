@@ -1,0 +1,17 @@
+{
+ "i": 3524,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كظم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 184,
+  "page_to": 185
+ },
+ "ar": "الكاف والظاء والميم أصلٌ صحيح يدلُّ على معنًى واحد، وهو الإمساك والجمعُ للشَّيء. من ذلك الكَظْم: اجتراع الغَيظ والإمساك عن إبدائه، وكأنَّه يجمعه الكاظمُ في جوفه. قال اللّه تعالى: ﴿وَاَلْكاظِمِينَ اَلْغَيْظَ﴾.\nوالكُظُوم: السُّكوت. [و] الكُظوم: إمساك البعير عن الجِرَّة. والكَظَم:\nمَخْرج النَّفَس. يقال أخَذَ بكَظَمه. ومعنى ذلك قياسُ ما ذكرناه؛ لأنَّه كأنَّه منَعَ نفَسَه أن يخرج. والكَظَائم: خُروق تُحفَر يجري فيها الماء من بئرٍ إلى بئر. وإنَّما سُمِّيت كِظَامةً لإمساكها الماء. والكِظامة أيضاً: الحَلْقة التي تجمع خيوطَ حديدةِ الميزان؛ وذلك من الإمساك أيضاً. والكِظَامة: سَير يُوصَل بوَتَرِ القَوس العربيّة ثم يُدار بطرف السِّيَة العُليا. والقياس في جميع ذلك واحد.",
+ "az": "[كظم] (kə-zə-mə). Kaf, zai və mim hərfləri tək bir mənaya dəlalət edən səhih bir əsldir, o da bir şeyi saxlamaq və toplamaqdır. Bunlardandır: «الكَظْم» (qəzəbi udmaq): qəzəbi udmaq və onu büruzə verməkdən çəkinmək, elə bil qazıqlayan kəs onu daxilində toplayır. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿وَاَلْكاظِمِينَ اَلْغَيْظَ﴾ (Və qəzəblərini udanlar). «الكُظُوم» (sükut): susmaq. [Və] «الكُظُوم»: dəvənin gəvərməkdən (qaytarmaqdan) saxlaması. «الكَظَم» (nəfəs yolu): nəfəsin çıxış yeri. Deyilir: «أخَذَ بكَظَمه» (Boğazından yapışdı / nəfəsini kəsdi). Bunun mənası qeyd etdiyimiz qiyasasuyğundur; çünki o, elə bil onun nəfəsinin çıxmasına mane oldu. «الكَظَائم» (kəzaim / kəhrizlər): quyudan quyuya suyun axması üçün qazılan deşiklər. Su saxladığına görə ona «كِظَامة» (kizamə / kəhriz) deilmişdir. Həmçinin «الكِظَامة» tərəzi dəmirinin saplarını birləşdirən halqadır; bu da saxlamaq mənasındandır. «الكِظَامة» ərəb kamanının çільəsinə birləşdirilən, sonra isə yuxarı başa dolanan qayışdır. Bütün bunlarda qiyas birdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:44:13.391Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3921,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مقو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 341,
+  "page_to": 341
+ },
+ "ar": "الميم والقاف والحرف المعتلّ. يقال فيه: امْقُ هذا مَقْوكَ مالَك، أي صُنْه صِيانَتَك مالَك. ومَقَوْتُ السَّيف: جَلَوْتُه، وكذا المِرْآة. قال ابن دريد: جاء بهما يُونس وأبو الخَطَّاب (٣).",
+ "az": "[مقو] \nMim, qaf və uzanan hərf. Haqqında deyilir: امْقُ هذا مَقْوكَ مالَك (imqu hədə maqwvə malək) — yəni malını qoruduğun kimi bunu da qoru. Və مَقَوْتُ السَّيف (maqawtu əs-səyf) — qılıncı cilaladım, güzgü də həmçinin. İbn Duraid demişdir: Bunları Yunus və Əbu əl-Xəttab gətirmişdir (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

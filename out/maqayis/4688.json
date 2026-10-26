@@ -1,0 +1,17 @@
+{
+ "i": 4688,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يسر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 155,
+  "page_to": 156
+ },
+ "ar": "الياء والسين والراء: أصلانِ يدلُّ أحدُهما على انفتاحِ شئٍ وخِفّته، والآخَرُ على عُضوٍ من الأعضاء.\nفالأول: اليُسْر: ضِدُّ العُسْر. واليَسَرَات: القوائم الخِفاف. ويقال: فرسٌ حَسَنُ التَّيْسُور، أى حَسَنُ نَقلِ القوائم. قال:\nقد بَلَوْناهُ على عِلاَّتِهِ … وعَلَى التَّيْسورِ منه والضُّمُرْ (٢)\nومن الباب: يسَّرت الغنم، إذا كثر لبنها ونسلها. قال:\nهما سَيِّدانا يَزْعُمانِ وإنَّما … يَسُودَانِنا أَنْ يَسَّرَتْ غَنَمَاهُما (٣)\nويقال رجل يَسْرٌ ويَسَرٌ، أى حَسَنُ الانقياد. واليَسَار: الغِتَى. وتَيسَّرَ الشَّئُ واستَيْسَرَ. ويُسْرٌ (١): مكان.\nومن الباب الأَيْسار: القوم يجتمعون على الميْسِر، واحِدُهم يَسَر. قال:\nوهُمُ أيسارُ لُقمانَ إذا … أَغْلَتِ الشَّتْوَةُ أبْداءَ الْجُزُرْ (٢)\nوالمَيْسِر: القِمَار. ومن الباب اليَسَرَةُ: أسرارُ الكَفِّ إذا كانت غيرَ ملتزِقة.\nوالكلمة الأخرى: اليَسَارُ لليَدِ. يقال: تَيَاسَرُوا، إذ أخذُوا ذاتَ اليَسار.\nويقال يَاسَرُوا، وهو أجْوَد.",
+ "az": "«يسر» (Y-S-R): İki əsas məna daşıyır; bunlardan biri bir şeyin açılmasına və yüngüllüyünə, digəri isə bədən üzvlərindən birinə dəlalət edir. Birincisi: اليُسْرُ (əl-yüsr) – عُسْرün (çətinliyin) əksidir. اليَسَرَاتُ (əl-yəsərat) – yüngül ayaqlar. Deyilir ki, «فرسٌ حَسَنُ التَّيْسُور» – yəni ayaqlarını gözəl tərpədən at. Şair demişdir: Onu hər cür halında sınaqdan keçirdik, həm ayaqlarını yüngül tərpədəndə, həm də arıq vaxtında (2). Bu fəsildəndir: «يسَّرت الغنم» – qoyunların südü və nəsli çoxaldıqda deyilir. Şair demişdir: Onlar bizim başçılarımızdır, elə güman edirlər, halbuki onlar yalnız qoyunları çoxaldıqları üçün bizə başçılıq edirlər (3). Deyilir: «رجل يَسْرٌ ويَسَرٌ» – yəni itaətcil, boyunəyən kişi. اليَسَارُ (əl-yəsar) – sərvət, var-dövlət. «تَيَسَّرَ الشَّئُ واستَيْسَرَ» (şey asanlaşdı). «يُسْرٌ» (1) – bir yerin adı. Bu fəsildəndir: الأَيْسارُ (əl-əysar) – məysir (qumar) üçün yığışan qrup, onların hər birinə «يَسَر» (yəsər) deyilir. Şair demişdir: Onlar Luğmanın məysir yoldaşlarıdır, nə zaman ki qış soyuğu dəvələrin ətini üzə çıxarır (2). وَالمَيْسِرُ (əl-məysir) – qumar. Bu fəsildəndir: اليَسَرَةُ (əl-yəsərə) – ovucun bir-birinə yapışmayan xətləri. Digər söz: اليَسَارُ (əl-yəsar) – sol əl. Deyilir: «تَيَاسَرُوا» (sol tərəfə keçdilər), çünki sol tərəfi aldılar. «يَاسَرُوا» da deyilir və bu, daha gözəldir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

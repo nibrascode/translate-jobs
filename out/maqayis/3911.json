@@ -1,0 +1,17 @@
+{
+ "i": 3911,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 337,
+  "page_to": 337
+ },
+ "ar": "الميم والعين والضاد كلمةٌ. مَعِضَ من الأمر: شَقَّ عليه وأوجَعه.",
+ "az": "[معض] \nMim, eyn və dad hərfləri bir kəlmədir. مَعِضَ من الأمر: iş ona çətin gəldi və ağrı verdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

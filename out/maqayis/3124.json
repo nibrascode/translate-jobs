@@ -1,0 +1,17 @@
+{
+ "i": 3124,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فسخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 503,
+  "page_to": 503
+ },
+ "ar": "الفاء والسين والخاء كلمةٌ تدلُّ على نَقْضِ شئ. يقال:\nنَفَسَّخَ الشّئُ: انتقَضَ. ويقولون: أَفْسَخْتُ الشئ: نَسِيتُه. ويقولون: الفَسِيخ:\nالرجلُ لا يَظفَر بحاجته.",
+ "az": "[فسخ] الفاء والسين والخاء كلمةٌ تدلُّ على نَقْضِ شئ (Fə, sin və xa hərfləri bir şeyi pozmağa dəlalət edən sözdür). يقال (Deyilir): نَفَسَّخَ الشّئُ (şey pozuldu, dağıldı): انتقَضَ (əskildi, qüvvədən düşdü). ويقولون (Və deyirlər): أَفْسَخْتُ الشئ (şeyi pozdum / etibarsız etdim): نَسِيتُه (unutdum). ويقولون (Və deyirlər): الفَسِيخ (əl-fəsix): الرجلُ لا يَظفَر بحاجته (ehtiyacına çata bilməyən kişi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:28:00.151Z"
+}

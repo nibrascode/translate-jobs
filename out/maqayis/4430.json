@@ -1,0 +1,17 @@
+{
+ "i": 4430,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 75,
+  "page_to": 75
+ },
+ "ar": "الواو والجيم ليس إلاّ «وَجّ» بلدُ الطَّائِفِ (١). و\nفى الحديث:\n«آخِر وطأة وطِئَها اللّه تعالى بوَجّ». يريد غَزَاةَ (٢) الطَّائف:",
+ "az": "[وج] (Vav və cim). Başqa heç nə yoxdur, yalnız «وَجّ» (Vəcc) — Taif şəhəridir (١).\nVə hədisdə:\n«آخِر وطأة وطِئَها اللّه تعالى بوَجّ» (Uca Allahın Vəccidə basdığı son ayaq izi). O, Taif (٢) qəzəsini qəsd edir:",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:46.272Z"
+}

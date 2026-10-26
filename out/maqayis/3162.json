@@ -1,0 +1,17 @@
+{
+ "i": 3162,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 6,
+  "page_to": 6
+ },
+ "ar": "القاف والثاء كلمةٌ تدلُّ على الجمع. يقال: جاء فلانٌ يقُثُّ مالاً ودنْيا عريضة.",
+ "az": "[قث] (Q-S) Qaf və sa hərfləri toplamağa dəlalət edən bir kəlmədir. Deyilir: «جاء فلانٌ يقُثُّ مالاً ودنْيا عريضة» (Filankəs gəldi, mal və geniş dünya toplayır).",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

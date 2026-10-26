@@ -1,0 +1,17 @@
+{
+ "i": 3460,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كبن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 155,
+  "page_to": 155
+ },
+ "ar": "الكاف والباء والنون أصلٌ صحيح يدلُّ على قَبْضٍ وتقبُّض.\nيقال للبخيل: الكُبُنَّة: وقد اكبَأَنَّ، إذا تَقَبَّض حين سئل. ويقال: كبَن الدَّلوَ، إذا ثَنَى فَمَها وخَرزَه ويقال له الكَبْن. ومن الباب كَبَن عن الشيء: عَدَل، وكَنَب أيضاً. والمَكْبُون من الخيل: القصير القوائم.\nومما قيس على هذا قولُهم: تَكبَّن (٢)، إذا سَمِن. ولا يكون ذلك إلاَّ في تجمُّع لحم. ويقولون: كَبَن كُبُوناً، إذا عَدا في لِينٍ واسترسال.",
+ "az": "[كبن] (Kəbənə). Kaf, ba və nun (الكاف والباء والنون) həqiqi bir kök olub, tutmağa və yığılmağa (qəbz və təqəbbüzə) dəlalət edir. Xəsislərə الكُبُنَّة (əl-kubunnə) deyilir. O, sual verilərkən büzüşdükdə اكبَأَنَّ (ikbəənnə) etmiş olar. كبَن الدَّلوَ (dəvənin ağzını bükdü) – onun ağzını qatlayıb tikdi, buna əl-kəbn (الكَبْن) deyilir. Bu fəsildəndir: كبَن عن الشيء (bir şeydən üz döndərdi) – uzaqlaşdı, həmçinin كَنَب (kənəb) də dedilər. Əl-məkbun (المَكْبُون) – qısaayaqlı at. Buna qiyas edilənlərdən biri onların تَكبَّن (təkkəbən) sözüdür (٢) – kökəldi, bu da ancaq ətin yığılmasında olur. Deyirlər: كَبَن كُبُوناً (kəbən kubunən) – yumşaqlıqla və sərbəst şəkildə qaçdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:41:04.625Z"
+}

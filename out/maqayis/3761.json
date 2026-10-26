@@ -1,0 +1,17 @@
+{
+ "i": 3761,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "موس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 285,
+  "page_to": 285
+ },
+ "ar": "الميم والواو والسين. يقولون: المَوْس: حَلْقُ الرَّأس.\n[ويقال في النِّسبة إلى موسى موسَوِيّ. وقال الكسائي: ينسب إلى موسى وعيسى وما أشههما مما فيه الياء زائدة موسِيٌّ وعيسيٌّ (١)]، وذلك أنّ الياء فيه زائدة. كذا قال الكسائىّ.",
+ "az": "[موس] (M-v-s): Mim, vau və sin. Deyirlər: المَوْس (əl-movs): başı ülgüclə qırxmaq.\n[Musa sözünə nisbət verildikdə موسَوِيّ (musəvi) denilir. Kəsai demişdir: Musa, İsa və ya hərfləri bunlara bənzər olan, yəh hərfi artıq olan sözlərə موسِيٌّ və عيسيٌّ (musi və isi) deyə nisbət verilir (١)], çünki buradakı yə hərfi artıqdır. Kəsai belə demişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:25.991Z"
+}

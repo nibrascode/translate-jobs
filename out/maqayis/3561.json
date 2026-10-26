@@ -1,0 +1,17 @@
+{
+ "i": 3561,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 208,
+  "page_to": 208
+ },
+ "ar": "اللام والكاف أُصَيلٌ يدلُّ على تداخُلٍ في الشَّيء. من ذلك اللَّكِيك: اللَّحم المتداخِلُ في العِظام. واللُّكالِك: البعير المكتنِزُ اللَّحم. ويقال التكَّ القومُ: ازدحموا. واللُّكِّيُّ: الحادر (١) اللَّحيم.\nومما شذَّ عن الباب اللَّكيك (٢): شجرةٌ ضعيفة. وقال امرؤ القيس في اللَّحم اللكيك:\nفظل صِحابِي يَشتَوُون بنَعْمةٍ … يصُفُّون غاراً باللَّكِيك الموشَّقِ (٣)\nواللّه أعلم.",
+ "az": "«لك» - لام və kaf şeyin içinə daxil olmağa dəlalət edən kiçik bir əsasdır. Bunlardan biri «اللَّكِيك» (əl-ləkik) - sümüklərin arasına yığılıb sıxlaşmış ətdir. Və «اللُّكالِك» (əl-lükalik) - əti bərk olub yığılmış dəvədir. Deyilir: «التكَّ القومُ» (əltəkkəl-qavmü) - camaat sıxlaşdı (basabas düşdü). Və «اللُّكِّيُّ» (əl-lükkiyy) - ətli və yoğun adamdır. Bu babdan şaz (istisna) olan «اللَّكِيك» (əl-ləkik) - zəif bir ağacdır. İmrul-Qeys sıx ət barədə demişdir: «فظل صِحابِي يَشتَوُون بنَعْمةٍ... يصُفُّون غاراً باللَّكِيك الموشَّقِ» (٣) (Dostlarım nemət içində qışlayırdılar... Alovu bəzəkli sıx ətlə doldururdular). Allah daha yaxşı bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

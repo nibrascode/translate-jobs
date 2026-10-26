@@ -1,0 +1,17 @@
+{
+ "i": 3492,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 169,
+  "page_to": 170
+ },
+ "ar": "الكاف والراء والسين أصلٌ صحيح يدلُّ على تلبُّدِ شيءٍ فوقَ شيء وتجمُّعه. فالكِرْس: ما تلبَّدَ من الأبعار والأبوال في الدِّيار. واشتقت الكُرَّاسَة من هذا، لأنَّها ورقٌ بعضُه فوقَ بعض (٥). وقال:\nيا صاحِ هل تعرفُ رسماً مُكْرَسَا … قال نَعَم أعرفُه، وأَبْلَسَا (٦)\nوالكَرَوَّس: العظيم الرَّأس، وهو من هذا كأنه شيء كُرِّس، أي جُمِع\nجمعاً كثيفاً. ومن الباب الكَرْكَسةُ: ترديد الشيء. ويقال للذي ولدته إماءٌ:\nمُكَرْكَس، أي هو مردَّد في وِلادِهنَّ له.",
+ "az": "[كرس]. Kaf, ra və sin düzgün kök olub, bir şeyin digərinin üzərinə yığılıb qalınlaşmasına dəlalət edir. Əl-kirs: evlərin yanında peyin və sidiyin bir-birinin üzərinə yığılıb qalınlaşdığı şeydir. Əl-kurrasə (dəftər) də bundan götürülmüşdür, çünki o, bəzi vərəqlərin digərlərinin üzərində olduğu şeydir (٥). Və demişdir: يا صاحِ هل تعرفُ رسماً مُكْرَسَا … قال نَعَم أعرفُه، وأَبْلَسَا (٦) (Ey dost, məskən izi bilirsənmi? … Dedildi: Bəli, onu bilirəm, və o darmadağın olub). Əl-karəvvəs: başı böyük olan deməkdir, bu da elə bu kabildəndir, sanki o kürris olunmuş, yəni sıx şəkildə yığılmış bir şeydir. Bu fəsildəndir əl-kərkəsə: bir şeyi təkrar etmək. Kənizlərdən doğulan kəsə mü-kərkəs deyilir, yəni o, onların ona olan doğumunda təkrar olunmuşdur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

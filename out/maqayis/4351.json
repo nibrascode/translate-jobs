@@ -1,0 +1,17 @@
+{
+ "i": 4351,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هذب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 45,
+  "page_to": 46
+ },
+ "ar": "الهاء والذال والباء: كلمةٌ تدلُّ على تَنقِيَةِ شئِ مما يَعِيبه. يقال:\nشئٌ مهذَّبٌ: منقًّى مما يَعيِبُه. وأصله الإهذاب: السُّرعةُ فى الطَّيَرانِ والعَدْو، ومعناه أنّه لا يُمكِنُ التعلُّق به. يقال مَرَّ الفْرَسُ يُهْذِبُ. ومَشَى الهَيْذَبَى.\nكذلك المهذَّبُ لا يُتعلَّق منه بعَيب. واللّه أعلمُ بالصَّواب.\nباب الهاءِ والراءِ وما يثلثهما",
+ "az": "[هذب] (hə-zə-bə): Hə, zal və ba – bir şeyi eyiblərindən təmizləməyə dəlalət edən kəlmədir. Deyilir: شئٌ مهذَّبٌ (Təmizlənmiş, səliqəyə salınmış şey – eyiblərindən təmizlənmiş). Onun əsli İhizabdır: uçuşda və qaçışda sürət deməkdir, mənası odur ki, ona çatmaq və yapışmaq mümkün deyil. Deyilir: مَرَّ الفْرَسُ يُهْذِبُ (At sürətlə keçdi). ومَشَى الهَيْذَبَى (Heyzəba – surətli yerişlə yeridi).\nEləcə də əl-mühəzzəb (təmiz və kamil insan) heç bir eyiblə ləkələnməz. Ən doğrusunu Allah bilir.\nHə və ra hərfləri və onlarla üçlənən sözlər fəsli",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

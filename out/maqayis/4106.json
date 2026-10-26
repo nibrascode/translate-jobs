@@ -1,0 +1,17 @@
+{
+ "i": 4106,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزغ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 416,
+  "page_to": 416
+ },
+ "ar": "النون والزاء والغين كلمةٌ تدلُّ على إفسادٍ بين اثنين. ونَزَغَ بينَ القَوم: أفسَدَ ذاتَ بَيْنهِم",
+ "az": "[نزغ] النون والزاء والغين (n, z, ğ) — iki nəfər arasında fitnə-fəsad salmağa dəlalət edən kəlmədir. «نَزَغَ بينَ القَوم» (nəzəğə beynəl-qovm) — tayfanın arasını vurdu, fitnə saldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

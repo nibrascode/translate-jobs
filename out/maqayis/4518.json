@@ -1,0 +1,17 @@
+{
+ "i": 4518,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ورط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 100,
+  "page_to": 100
+ },
+ "ar": "الواو والراء والطاء: كلمةٌ تدلُّ على شئٍ كالبليَّةِ والوقوع فيما لا مَخْلَص منه. وتورَّطَ فى البليَّة. وأصله الوَرْطةُ من الأرض، وهى التى لا طريقَ فيها. قال الخليل:\nفى الحديث: «لا خِلَاطَ ولا وِرَاط». الوِرَاط: الخديعة فى الغَنَم، أى يجمع بين متفرَّق، أو يفرَّق بين مجتمع.",
+ "az": "[ورط] (və-ra-ṭə): Vov, ra və ta hərfləri bəla və ya xilas yolu olmayan bir vəziyyətə düşməyə dəlalət edən sözdür. وتورَّطَ فى البليَّة (təvərrəṭə fil-bəliyyəti) – bəlaya düçar oldu. Əsli yer üzündəki vərtədir (الوَرْطة), o da yolu olmayan yerdir. Xəlil demişdir: Hədisdə: «لا خِلَاطَ ولا وِرَاط» («lə xiləṭə və lə virəṭ»). الوِرَاط (əl-virəṭ) – qoyunda hiylədir, yəni ayrı olanı birləşdirmək və ya birləşəni ayırmaqdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:54.452Z"
+}

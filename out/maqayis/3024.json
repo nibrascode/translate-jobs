@@ -1,0 +1,17 @@
+{
+ "i": 3024,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فور",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 458,
+  "page_to": 458
+ },
+ "ar": "الفاء والواو والراء كلمةٌ تدلُّ على غَلَيان، ثم يقاس عليها.\nفالفَوْر: الغَلَيان. يقال: فارت القدرُ تَفورُ فَوراً. قال:\nتَفور علينا قِدرُهم فنُدِيمُها … ونَفْثَؤُها عنَّا إذا حَمْيُها غلا (١)\nوفار غضبُه، إذا جاشَ.\nوممَّا قِيس على هذا قولُهم: فَعَله من فَوْره، أى فى بدء أمرِه، قبل أنْ يسكُن.",
+ "az": "«فور» (fəwr): Fə, vau və ra hərfləri qaynamağa dəlalət edən sözdür, sonra ona əsasən bənzətmələr aparılır.\n«الفَوْر» (fəwr) — qaynayışdır. Deyilir: «فارت القدرُ تَفورُ فَوراً» (fərat əl-qidrü təfuru fəwrən) — qazan qaynadı. Şair demişdir:\nTəfuru aləynə qidruhum fə-nüdimühə … və nəfsəühə annə izə hamyuhə ğalə (١)\n(Qazanları üzərimizə qaynayır, biz də onu davam etdiririk və hərarəti qaynayıb aşanda onu sərinlədib söndürürük...)\nVə «فار غضبُه» (fara ğadabüh): qəzəbi coşdu.\nBuna əsaslanaraq deyirlər: «فَعَله من فَوْره» (fəaləhü min fəwrihi) — yəni onun ilk başlanğıcında, hələ sakitləşməmişdən əvvəl bunu etdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

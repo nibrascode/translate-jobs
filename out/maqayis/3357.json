@@ -1,0 +1,17 @@
+{
+ "i": 3357,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قفح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 113,
+  "page_to": 113
+ },
+ "ar": "القاف والفاء والحاء، قال ابنُ دريد (٤): قَفَحت: نَفسُه عن الشّيء إذا كرهَتْه. قال: وهو في شِعر الطرِمّاح (٥).",
+ "az": "[قفح] Qaf, fa və ha. İbn Dureyd (٤) deyir: «Qəfəhət nəfsuhu əniş-şey» dedikdə, bir şeydən ikrah etdikdə (xoşlamadıqda) deyilir. O deyir: «Bu, ət-Tirimmahın (٥) şeirində də vardır».",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:38:47.648Z"
+}

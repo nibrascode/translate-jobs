@@ -1,0 +1,17 @@
+{
+ "i": 3979,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 363,
+  "page_to": 363
+ },
+ "ar": "النون والهاء والشين أصل صحيح، ومعناه معنى الذي قبله.\nقال ابن دريد (٤): قال الأصمعىّ. النّهس والنّهش واحد، وهو أخذ اللّحم بالفم.\nوخالفه أبو زيد فقال: النّهش: بمقدّم الفم.",
+ "az": "[نهش] (NUN, HƏ və ŞİN) - səhih bir kökdür, mənası özündən əvvəlki sözün mənasındadır. İbn Dürid demişdir (٤): Əsməi demişdir: «النّهس» və «النّهش» eyni mənanı verir, bu da ağızla ət qoparmaqdır. Əbu Zeyd ona qarşı çıxaraq demişdir: «النّهش» - ön dişlərlə edilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

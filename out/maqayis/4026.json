@@ -1,0 +1,17 @@
+{
+ "i": 4026,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نبر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 380,
+  "page_to": 380
+ },
+ "ar": "النون والباء والراء أصلٌ صحيح يدلُّ على رَفْع وعُلُوّ. ونَبَر الغلامُ: صاحَ * أول ما يترعرع. ورجلٌ نَبَّارٌ: فصيحٌ جهير (١). وسمِّي المنبرُ لأنَّه مرتفع ويُرفَع الصَّوتُ عليه. والنَّبْرُ في الكلامِ: الهَمْزُ أو قريبٌ منه. وكلُّ مَنْ رفع شيئاً فقد نَبَره. ومما يقاس على هذا النِّبْر: دُوَيْبَّة، والجمع أنبار، لأنَّه إذا دبَّ على الإبل تورَّمت جلودُها وارتفَعت. قال:\nكأنّها مِنْ سِمَنٍ واستِيقَارْ … دَبَّتْ عليها ذَرِبَاتُ الأنبارْ (٢)",
+ "az": "[نبر] (nəbər): Nun, ba və ra – ucalıq və yüksəkliyə dəlalət edən səhih bir kökdür. «نَبَر الغلامُ» (nəbəral-ğulamu): Oğlan bağırdı * ilk böyüdüyü vaxt. «رجلٌ نَبَّارٌ» (rəcülün nəbbərun): Fasih, səsi gur çıxan (١). «المنبر» (əl-minbər) ona görə minbər adlanmışdır ki, o ucadır və üzərində səs ucaldılır. Kəlamdakı «النَّبْر» (ən-nəbr): Həmzə və ya ona yaxın bir şeydir. Hər kim bir şeyi ucaltsa, onu «نَبَرَ» (nəbərə) etmiş olar. Buna qiyas edilən şeylərdən biri də «النِّبْر» (ən-nibr): kiçik bir böcəkdir, cəmi «أنبار» (ənbər) gəlir, çünki o, dəvələrin üzərinə gəzəndə dəriləri şişir və qabarır. Belə demişdir:\nكأنّها مِنْ سِمَنٍ واستِيقَارْ … دَبَّتْ عليها ذَرِبَاتُ الأنبارْ (٢)\n(Sanki onlar piylənmədən və ağırdan... üzərinə gəzdi iti azğın «ənbar»lar)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:58.658Z"
+}

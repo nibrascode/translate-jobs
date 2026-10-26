@@ -1,0 +1,17 @@
+{
+ "i": 3507,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كزم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 176,
+  "page_to": 177
+ },
+ "ar": "الكاف والزاء والميم أصيلٌ يدلُّ على قِصَرٍ وقَمَاءة.\nفالكَزَم: القِصَر في الأَنْف، وكذلك في الأصابع. يقال أنفٌ أكزَمُ ويد كَزْماء. والكَزْم (٣): الرّجُل الهَيَّبان. وسمِّي لانقباضِه عن الإقدام. والكَزُومُ:\nالتي لم يَبْقَ فيها سِنٌّ من الهَرَم. وكلُّ هذا قياسُه واحد. وذكر أنَّ الكَزْم كالكَدْم بمقدَّم الفم. وهذا من باب الإبدال، واللّه بصحّتها أعلم.",
+ "az": "[كزم] \nКаф, zay və mim – qısalığa və alçaqlığa dəlalət edən kiçik bir kökdür.\nBeləliklə, «الكَزَم» (əl-kəzəm) – burunun, həmçinin barmaqların qısa olmasıdır. Deyilir: «أنفٌ أكزَمُ» (əknəfün əkzəm – qısa burun) və «يد كَزْماء» (yədün kəzma – qısa barmaqlı əl). «الكَزْم» (əl-kəzm) – qorxaq kişi. O, irəli atılmaqdan çəkindiyi üçün belə adlandırılmışdır. «الكَزُومُ» (əl-kəzum) – qocalıqdan ağzında heç bir dişi qalmamış qadın. Bütün bunların qiası eynidir. Qeyd olunmuşdur ki, «الكَزْم» (əl-kəzm) ağzın ön hissəsi ilə edilən «الكَدْم» (əl-kədm – dişləmə) kimidir. Bu, hərflərin əvəzlənməsi (ibdal) بابındandır, onun səhihliyini ən yaxşı Allah bilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

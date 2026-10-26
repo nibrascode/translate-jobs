@@ -1,0 +1,17 @@
+{
+ "i": 3840,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مرص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 311,
+  "page_to": 311
+ },
+ "ar": "الميم والراء والصاد. يقولون: المَرْص مثل المَرْش. وتمرَّصَ عن السُّلْتِ قِشرُه: طار. وهذا عندنا كلام.",
+ "az": "«مرص» (mim, ra və sad). Deyirlər: المَرْص (mars) — مَرْش (marş) kimidir. Və تمرَّصَ عن السُّلْتِ قِشرُه (təmərrəsə anis-sülti qişruhu) — arpa növünün qabığı qopdu. Bu bizə görə uydurma sözdür.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:54.672Z"
+}

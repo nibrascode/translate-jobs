@@ -1,0 +1,17 @@
+{
+ "i": 4368,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هزق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 51,
+  "page_to": 51
+ },
+ "ar": "الهاء والزاء والقاف، كلماتٌ فى قياسٍ واحد. امرأة هزقة:\nلا تستقِرّ. وكذلك المِهْزاق. والهَزِق: الرَّعد (٣). وأهْزَقَ الرَّجُل (٤): ضحِك.\nوحِمَارٌ هَزِقٌ: كثير الاستِنان.",
+ "az": "«هزق» — الهاء والزاء والقاف (hə, zay və qaf), bir qiyasda olan kəlmələrdir. امرأة هزقة (yerində qərar tutmayan qadın). Həmçinin المِهْزاق (mihzaq). والهَزِق (haziq) — ildırım. وأهْزَقَ الرّجُل (adam güldü). وحِمَارٌ هَزِقٌ (çox oynaq olan uzunqulaq).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:39.865Z"
+}

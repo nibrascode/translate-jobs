@@ -1,0 +1,17 @@
+{
+ "i": 3050,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فأم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 468,
+  "page_to": 468
+ },
+ "ar": "الفاء والألف والميم أصلٌ صحيح يدلُّ على اتِّساع فى الشَّئ، وعلى كثرة. فأمَّا الكثرة فالفئام: الجماعة من الناس. وأمَّا السَّعَة فالفِئام: وِطاءٌ يكون فى الهَودج، وجمعه فُؤُمٌ على فُعُل. ويقال للبعير إذا امتلأ حارِكُه شَحْماً:\nقد فُئِم حاركُه، وهو مُفْأَم (١). والمُفْأَم من الرِّجال: الواسع الجَوْف. قال:\nأخَذْنَ خُصُور الرَّمل ثم جَزَعْنَه … على كلِّ قَينىٍّ قَشيبٍ وَمُفْأَمِ (٢)",
+ "az": "[فأم] (f-ə-m): Fə, əlif və mim hərflərindən ibarət səhih bir kök olub, bir şeydə genişliyə və çoxluğa dəlalət edir. Çoxluğa gəldikdə, «الفئام» (fiuam) — bir qrup insan deməkdir. Genişliyə gəldikdəisə, «الفِئام» (fiuam) — həvəcdə (kəcəvədə) olan bir döşəkdir, cəmi «فُؤُمٌ» (fuum) olaraq «فُعُل» (fucul) vəznində gəlir. Dəvənin hürgücü piy ilə dolduqda deyilir: «قَدْ فُئِمَ حارِكُه» (hürgücü doldu) və o, «مُفْأَم» (müfəm) olur (١). Kişilərdən «المُفْأَم» (müfəm) — qarnı geniş olan deməkdir. Şair demişdir: «أَخَذْنَ خُصُورَ الرَّمل ثُمَّ جَزَعْنَه … عَلى كُلِّ قَينىٍّ قَشيبٍ وَمُفْأَمِ» (٢) (Onlar qumun incə yerlərini tutub keçdilər... hər bir zərgər düzəltməsi yeni və geniş [hürgüclü dəvə] üzərində).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:57.161Z"
+}

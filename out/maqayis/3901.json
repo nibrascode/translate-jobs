@@ -1,0 +1,17 @@
+{
+ "i": 3901,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "معل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 334,
+  "page_to": 334
+ },
+ "ar": "الميم والعين واللام أصلٌ صحيح فيه كلماتٌ تدلُّ على اختلاصِ شيء وسرعةٍ فيه. ومَعَل الشَّيءَ: اختلَسَه. ثمَّ يقولون: مَعَل خُصْيَتَي الفَحل:\nاستلَّهما. ومَعَل: سار سيراً سريعاً.",
+ "az": "[معل] \nMim, eyn və lam hərfləri bir şeyi qapıb oğurlamağa və onda sürətli olmağa dəlalət edən kəlmələri ehtiva edən səhih bir kökdür. Və مَعَل الشَّيءَ: onu qapıb oğurladı. Sonra deyirlər: مَعَل خُصْيَتَي Fəhlin (damazlıq erkək heyvanın) xayalarını çıxarıb aldı. Və مَعَل: sürətlə yeridi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:24.328Z"
+}

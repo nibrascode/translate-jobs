@@ -1,0 +1,17 @@
+{
+ "i": 3499,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 172,
+  "page_to": 172
+ },
+ "ar": "الكاف والراء والنون كلمةٌ واحدة في الملاهي. يقال: إنْ الكِرَان: الصَّنْج. قال امرؤُ القيس:\nفيا رُبَّ قينةٍ … منعَّمة أَعملتُها بِكرَانِ (٢)\nوالقَينة: كَرِينةٌ.",
+ "az": "[كرن]. Kaf, ra və nun əyləncə alətlərində tək bir kəlmədir. Deyilir ki, əl-kiran: çörək (musiqi aləti olan çəng). Əmrul-Qeys demişdir: فيا رُبَّ قينةٍ … منعَّمة أَعملتُها بِكرَانِ (٢) (Və neçə-neçə nemət içində olan müğənni qadın vardır ki, onu kiran ilə işlətdim). Və əl-qeynə: kərinədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3068,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فجل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 476,
+  "page_to": 476
+ },
+ "ar": "الفاء والجيم واللام كلمةٌ هى نَبْت، وقال قوم: فَجِلَ الشئ (٤): غَلُظ واستَرْخَى. وكلُّ شئ عَرَّضته فقد فجَّلْتَه.",
+ "az": "«فجل» (fə-c-l): Fə, cim və lam hərfləri bir bitki adından ibarət bir kəlmədir. Bir qrup alim demişdir: «فَجِلَ الشئ» (fəciləş-şey) - qalınlaşdı və boşaldı. Hər hansı bir şeyi genişləndirsən, onu «فَجَّلْتَه» (fəccəltə) etmiş olarsan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.848Z"
+}

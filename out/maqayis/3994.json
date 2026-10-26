@@ -1,0 +1,17 @@
+{
+ "i": 3994,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نوش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 369,
+  "page_to": 369
+ },
+ "ar": "النون والواو والشين أصلٌ صحيح يدلُّ على تناوُل الشيء.\nونُشْتُه نَوْشًا. وتناوَشْتُ: تَناوَلْت. قال اللّه تعالى: ﴿وَأَنّى لَهُمُ اَلتَّناوُشُ مِنْ مَكانٍ بَعِيدٍ﴾: وربَّما عَدَّوْه بغير ألفٍ فقالوا: نُشْتُه خيراً، إذا أنَلْتَه خيراً.\nوقول القائل (٢):\n* باتت تَنُوش العَنَق انتياشا (٣) *",
+ "az": "[نوش] (nuş) - nun, vav və şin bir şeyi əldə etməyə, uzanıb götürməyə dəlalət edən səhih bir kökdür. ونُشْتُه نَوْشًا (nuştuhu nəvşən). Və تناوَشْتُ (tənəvaştu) — əldə etdim, uzanıb götürdüm. Uca Allah buyurmuşdur: ﴿وَأَنّى لَهُمُ اَلتَّناوُشُ مِنْ مَكانٍ بَعِيدٍ﴾ (mənaca tərcümə: Onların uzaq bir yerdən [imana və ya xeyrə] əlnin çatması haradandır?!) [Səbə, 52]. Bəzən əlif hərfi olmadan da işlədirlər və deyirlər: نُشْتُه خيراً (nuştuhu xayran) — ona xeyir bəxş etdiyin zaman. Və deyrənin sözü (2): * باتت تَنُوش العَنَق انتياشا (3) *",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:55:10.792Z"
+}

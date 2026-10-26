@@ -1,0 +1,17 @@
+{
+ "i": 3013,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فنك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 455,
+  "page_to": 455
+ },
+ "ar": "الفاء والنون والكاف كلمتان. قالوا: الفَنْك: اللَّجَاج:\nويقال اللزوم. يقال: فَنَكَ: أقام.\nوالكلمة الأُخرى: الفَنِيك: طرف اللَّحْيين عند العَنْفقة. قال بعضُهم:\nسألت أبا عمرٍو الشيبانىَّ عن الفَنِيك فقال: أمَّا الأعلى فمجتمَع اللَّحيين عند الذَّقَن، وأمَّا الأسفل فمجتمع الورِكَين حيثُ يلتقيان.",
+ "az": "«فنك» (fənək): Fə, nun və kaf hərflərindən ibarət iki söz vardır. Deyirlər ki, «الفَنْك» (fənk) — inadkarlıqdır.\nHəmçinin qalıb durmaq mənasında da işlədilir. Deyilir: «فَنَكَ» (fənəkə) — qaldı, oturdu.\nDigər söz isə «الفَنِيك» (fəniq) — çənənin saqqalaltı bitişən yerindəki ucdur. Bəziləri demişdir:\nƏbu Əmr əş-Şeybanidən «الفَنِيك» (fəniq) haqqında soruşdum, o dedi: Yuxarıdakı, çənənin altında iki çənənin birləşdiyi yerdir, aşağıdakı isə birləşdikləri yerdə iki bud sümüyünün birləşdiyi yerdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:25:06.106Z"
+}

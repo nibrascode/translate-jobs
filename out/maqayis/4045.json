@@ -1,0 +1,17 @@
+{
+ "i": 4045,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نتف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 387,
+  "page_to": 387
+ },
+ "ar": "النون والتاء والفاء: أصلٌ يدلُّ على مَرْطِ شَيءٍ. ونَتَفَ الشَّعْرَ وغيرَه يَنْتِفُه. والمِنْتاف: المِنْقاش. والنُّتَافَة: ما سَقَط من الشَّيء إذا نُتِف.\nوالنُّتْفَة: ما نَتفْتَه بأصابِعك من نبتٍ أو غيرِه. ورجلٌ نُتَفَةٌ: ينتِف من العلم شيئاً ولا يستقصيه.",
+ "az": "«نتف» (nətəf) — Nun, ta və fa hərfləri bir şeyi qoparıb yolmağa dəlalət edən bir əsasdır. نَتَفَ الشَّعْرَ وغيرَه يَنْتِفُه (tükü və başqa şeyi yolur, yolar). وَالمِنْتاف (mintaf): kəlbətin, cımqır. وَالنُّتَافَة (nütafə): yolunduqda bir şeydən düşən şey. وَالنُّتْفَة (nütfə): bitkidən və ya başqa şeydən barmaqlarınla qopardığın şey. وَرجلٌ نُتَفَةٌ (nütəf kişi): elmdən bir şey qoparan, lakin onun axırına çıxmayan.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:21.746Z"
+}

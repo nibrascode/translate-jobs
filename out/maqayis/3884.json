@@ -1,0 +1,17 @@
+{
+ "i": 3884,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مصخ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 329,
+  "page_to": 329
+ },
+ "ar": "الميم والصاد والخاء كلمةٌ، وهي الأُمصوخ: واحد الأماصيخ، وهي أنابيب الثّمام. وتَمصَّخْتها: أخَذتها. قال أبوبكر (١): والمَصخ لغة في المسخ",
+ "az": "«مصخ» (məsəx) — mim, sad və xa hərfləri tək bir kəlmədir, o da الأُمصوخ (əl-ümsuh) — tənək borucuqlarının təkidir, cəmi أماسِيخ (əmâsîx) gəlir. Və تَمصَّخْتها (təməş-şəhtühə) — onu aldım. Əbu Bəkr demişdir (1): Məsəx sözü məsx sözünün ləhcəsidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

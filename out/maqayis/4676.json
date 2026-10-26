@@ -1,0 +1,17 @@
+{
+ "i": 4676,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 151,
+  "page_to": 151
+ },
+ "ar": "الياء والباء كلمة واحدة * وهى اليَبَابُ، إتْباع للخراب، وربَّما أفردُوها فقالوا:\nأخْبَرَتْ عن فِعالهِ الأرضُ واسْتَنْ … طَقَ منها اليَبَابَ والمعمورا",
+ "az": "[يب] Ya və Ba tək bir sözdür * o da الْيَبَابُ (əl-yəbab) olub, xarabalığın təkiididir (qafiyə uyğunluğu). Bəzən onu tək işlədərək demişlər: أخْبَرَتْ عن فِعالهِ الأرضُ واسْتَنْ … طَقَ منها اليَبَابَ والمعمورا (Yer onun əməllərindən xəbər verdi və xaraba ilə abad yerdən onun barəsində danışdırdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:40.328Z"
+}

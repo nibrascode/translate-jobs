@@ -1,0 +1,17 @@
+{
+ "i": 3258,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قتم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 58,
+  "page_to": 58
+ },
+ "ar": "القاف والتاء والميم أصلٌ صحيحٌ يدلُّ على غُبْرَةٍ وسَواد. وكلُّ لونٍ يعلوه سوادٌ فهو أقْتَمُ. ويقال: القَتَام الغُبار الأسود، ومنه بازٍ أَقْتمُ الرِّيش.\nومكانٌ قاتِمٌ: مُغْبَرٌّ مظلمُ النَّواحي. قال رؤبة:\n* وقاتِم الأعماقِ خاوِي المخْترَقْ (١) *",
+ "az": "[قتم] «قاف», «تاء» və «ميم» hərfləri toz və qaralığa dəlalət edən səhih bir kökdür. Üzərini qaralıq örtən hər bir rəng «أقْتَمُ» (tünd boz, qaramtıl) olur. «القَتَام» — qara toz, bundan «بازٍ أَقْتمُ الرِّيش» (lələkləri qaramtıl şahin). Və مكانٌ قاتِمٌ (tozlu, ətraflı zülmətli yer). Rübə demişdir: * وقاتِم الأعماقِ خاوِي المخْترَقْ (Bir və iki: Dərinlikləri tozlu, yolları boş olan)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:33:48.340Z"
+}

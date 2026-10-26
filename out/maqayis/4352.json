@@ -1,0 +1,17 @@
+{
+ "i": 4352,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هرس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 46,
+  "page_to": 46
+ },
+ "ar": "الهاء والراء والسين: أصلٌ صحيح يدلُّ على دَقٍّ وهَزْمٍ فى الشَّئ. وهَرَسْت الشّئَ: دقَقْتُه. ومنه الهَرِيسة. والمهْراسُ: حجرٌ متقورٌ، لعلّهُ يُدَقُّ فيه الشئ، وربَّما كان مستطيلاً يُتوَضَّأُ منه. والهَرْس (١): الثَّوب الخَلَق، وهذا على معنى التَّشبيه، كأنّه قد هُرِس. والمَهارِيس: الإبلُ الشِّداد تَهرُسُ الشئَ عند الأكل. والهَرِسُ: الأسدُ الشَّديد، كأنّه يَهرُسُ ما لَقِى. قال:\nشَديدَ السَّاعدينِ أخا وِثابٍ … شديدا أسرُهُ هَرِساً هَمُوسا (٢)\nوأمّا الهَرَاسُ فشَجرٌ ذو شوكٍ. وهو شاذٌّ عن هذا القياس. قال:\n* طِباقَ الكلابِ يَطَأْنَ الهَرَاسا (٣) *",
+ "az": "[هرس] (hə-rə-سə): Hə, ra və sin – bir şeydə əzməyə və döyməyə dəlalət edən səhih bir əsasdır. وهَرَسْت الشّئَ (Şeyi əzdim, döydüm). Və buradan الهَرِيسة (Hərisə xörəyi). والمهْراسُ (Mihras) – içərisində nəsə döyülməsi üçün oyulmuş daş, bəzən də içindən dəstəmaz alınan uzunsov daş olur. والهَرْس (əl-hərs): köhnə paltar, bu bənzətmə mənasındadır, sanki əzilib-dağılmış kimidir. والمَهارِيس (əl-məharis) – yemək yeyərkən hər şeyi əzən güclü dəvələr. والهَرِسُ (əl-həris) – güclü aslan, sanki rastlaşdığı hər şeyi əzir. Şair demişdir:\nشَديدَ السَّاعدينِ أخا وِثابٍ … شديدا أسرُهُ هَرِساً هَمُوسا (٢)\n(Biləkləri güclü, sıçrayış qardaşı, quruluşu möhkəm, hər şeyi əzən, ovunu səssizcə izləyən).\nVə amma الهَرَاسُ (əl-həras) isə – tikanlı ağacdır. Bu, həmin əsasdan kənardır. Şair demişdir:\n* طِباقَ الكلابِ يَطَأْنَ الهَرَاسا (٣) *\n(İtlərin tərzi kimi, hərası basıb keçirlər)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:06:18.928Z"
+}

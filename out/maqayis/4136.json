@@ -1,0 +1,17 @@
+{
+ "i": 4136,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نشج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 429,
+  "page_to": 429
+ },
+ "ar": "النون والشين والجيم كلمة تدلُّ على حكايةِ صوتٍ. ونَشَج الباكي: غَصَّ بالبُكاءِ في حَلْقِه من غير انتحاب. ونَشَجَ الحمار بصَوته نَشْجًا.\nويقال للطَّعنة إذا خرج منها الدَّمُ فسُمِع له حِسٌّ: قد نَشَجَت. وكذا القِدر تَنْشِجُ عند الغَلَيَان. ويحتمل أن يكون الأَنْشَاجُ من هذا، وهي مَجَاري الماء، الواحد نَشَج، كأنها سمِّيَت بها لقَسِيب الماء.",
+ "az": "«نشج» (ن ش ج): النون, Şin və Cim səsin təqlidinə dəlalət edən bir kəlmədir. «نَشَج الباكي» (nəşəcə əl-baki): ağlayan şəxs nərilti (hıçqırıq) qoparmadan boğazında ağlamaqla qəhərləndi. «نَشَجَ الحمار بصَوته نَشْجًا» (nəşəcə əl-həmarü bi səvtihi nəşcən): eşşək səsi ilə nəşc (qışqırıq/anqırıq) səsi çıxartdı. Yaradan qan çıxarkən ondan bir səs eşidildikdə «قد نَشَجَت» (qəd nəşəcət) deyilir. Eləcə də qazan qaynayarkən «تَنْشِجُ» (tənşicu) olar. Ehtimal ki, «الأَنْشَاجُ» (əl-ənşac) da bundan götürülüb; bunlar suyun axarlarıdır, təkli «نَشَج» (nəşəc)dir, sanki suyun gurultulu axınına görə belə adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:00:02.782Z"
+}

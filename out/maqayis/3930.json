@@ -1,0 +1,17 @@
+{
+ "i": 3930,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مكا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 344,
+  "page_to": 345
+ },
+ "ar": "الميم والكاف والحرف المعتل أصلٌ صحيح يدلُّ على معان ثلاثة: أحدها شيءٌ من الأصوات، والآخَر خشونة في الشيء، والآخَر ضربٌ من الغَسْل.\nفالأوَّل مكا يمكو: صَفَر في يَدِه وقد جَمَعها، مُكَاءً (٢). قال عنترة:\n* تمكُو فَريصتُه كشِدق الأعلم (٣) *\nيصف طعنةً [تسمع] لها صوتًا حين تنفرِج وتنضمّ (٤). والمُكَّاء: طائرٌ، سمِّي لأنه يَمْكُو. قال:\nإذا غَرَّدَ المُكَّاءُ في غيرِ روضةٍ … فوَيلٌ لأهل الشَّاءِ والحُمُراتِ (٥)\nويقولون: مَكَتِ اسْتُه تمكُو، إذا حَبَق. وأمَّا المَكَا والمَكْو فمجثِم الأرنب. قال الطِرمّاح:\n* كم بِهِ من مَكْوِ وحشِيَّةٍ (٦) *\nوالأخرى قولهم: مَكِيَتْ يدُه تَمْكَى مَكًى: غلُظت وخَشُنت.\nوالثالثة تمكَّى، إذا توضّأ. قال:\n* كالمتمَكِّي بدمِ القتيل (١) *\nوأصله قولهم تمكّى الفَرَس: حكَّ عينَه بركبَتِه (٢).",
+ "az": "[مكا] \nMim, kaf və uzanan hərf — üç məna qrupuna dəlalət edən səhih kökdür: bunlardan biri səslərin bir növü, digəri şeydə sərtlik, digəri isə bir növ yuyunmadır.\nBirincisi: مكا يمكو (maka yamku) — əlini birləşdirərək içində fit çalmasıdır, مُكَاءً (mukaən). Əntərə demişdir:\n* تمكُو فَريصتُه كشِدق الأعلم (٣) *\n(O, açılıb-bağlandığı zaman səs çıxaran ürək yarasını təsvir edir) (٤). Və المُكَّاء (əl-mükkaə) — fit çaldığı üçün belə adlandırılan quşdur. Şair demişdir:\nEgər mükkə quşu otlaqdan başqa yerdə oxusa... vay qoyun və dəvə sahiblərinin halına (٥).\nVə deyirlər: مَكَتِ اسْتُه تمكُو (makat istuhu tamku) — mədə yeli çıxaranda. Məka və Məku (المَكَا والمَكْو) isə dovşanın otlaq yeridir. Tirimmah demişdir:\n* كم بِهِ من مَكْوِ وحشِيَّةٍ (٦) *\nİkincisi, onların sözüdür: مَكِيَتْ يدُه تَمْكَى مَكًى (məkiyat yaduhu tamkay məkən) — əli sərtləşdi və qalınlaşdı.\nÜçüncüsü: Dəstəmaz alanda تمكَّى (təmakkə) olur. Şair demişdir:\n* كالمتمَكِّي بدمِ القتيل (١) *\nƏsli isə onların",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.515Z"
+}

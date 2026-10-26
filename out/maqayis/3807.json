@@ -1,0 +1,17 @@
+{
+ "i": 3807,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 300,
+  "page_to": 301
+ },
+ "ar": "الميم والحاء والضاد كلمةٌ تدلُّ على خُلوص الشّيء. منه اللبن المَحْض: الخالص؛ وعربىٌّ محض. والمَحْض يشتقُّ منه مَحَضْتُهُمْ: سقيتُهم\nذلك. وامتَحَضْتُ أنا: شرِبت المَحْض. وأمحضْتُك الحديثَ: صَدَقْتُكَه.\nوكذا النصيحة [و] الوُدّ. قال:\nقُلْ لِلْغَواني أما فيكُنَّ فاتكةٌ … تَعلُو الّلئيم بضربٍ فيه إمحاضُ (١)",
+ "az": "[محض] (Mim, ha və dad): Bir şeyin xalisliyinə (safViyəsinə) dəlalət edən sözdür. Bunlardan biri «اللَبَن المَحْض» (əl-ləbənül-məhd) sözüdür: xalis süd; həmçinin «عربىٌّ محض» (ərəbiyyun məhd) – xalis ərəb. «المَحْض» (əl-məhd) sözündən törəyərək «مَحَضْتُهُمْ» (məhəztühüm) – onlara saf süd içizdirdim, deyilir. «امتَحَضْتُ أنا» (imtəhəztü ənə) – xalis süd içdim. «وأمحضْتُك الحديثَ» (və əmhəztükəl-hədisə): sənə hədisi (xəbəri) sadiq olaraq, xalis şəkildə danışdım. Nəsihət və sevgi də belədir [وَ]. Şair demişdir:\nقُلْ لِلْغَواني أما فيكُنَّ فاتكةٌ … تَعلُو الّلئيم بضربٍ فيه إمحاضُ (١)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

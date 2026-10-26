@@ -1,0 +1,17 @@
+{
+ "i": 4082,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 405,
+  "page_to": 405
+ },
+ "ar": "النون والخاء والسين كلمةٌ تدلُّ على بَزْل (١) شيءٍ بشيءٍ حادٍّ. ونَخَسَه بعُودٍ أو حديدةٍ نَخْسًا. ومنه النَّخَّاس. والنَّاخِس: جَرَبٌ يكون عند ذَنَب البعير أو صدرِه، كأنّه نُخِس به وبعيرٌ منخوس.\nومما شَذَّ عنه النخيسة (٢).",
+ "az": "[نخس] (N-X-S) Nun, xa və sin iti bir şeylə bir şeyi deşməyə (bəzl) dəlalət edən kəlmədir. «نَخَسَه بعُودٍ أو حديدةٍ نَخْسًا» (Onu çubuq və ya dəmir parçası ilə deşdi, deşməklə). «النَّخَّاس» (ən-nəxxas - heyvan alverçisi) də buradandır. «النَّاخِس» (ən-naxis) - dəvənin quyruğu və ya döşü tərəfində olan qaşınmadır, sanki onunla deşilmişdir və «بعيرٌ منخوس» (deşilmiş dəvə) deyilir. Bundan istisna olaraq «النخيسة» (ən-nəxisə) kəlməsi var.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

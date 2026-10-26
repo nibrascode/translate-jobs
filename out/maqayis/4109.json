@@ -1,0 +1,17 @@
+{
+ "i": 4109,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزك",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 416,
+  "page_to": 416
+ },
+ "ar": "النون والزاء والكاف أصيلٌ يدل على طَعن أو شبيه به. منه النّزْك: الطَّعْن بالنَّيزك، وهو الرُّمح القصير. والنَّزك: سُوء الفِعْلِ والقول في الإنسان، والطَّعنُ عليه. و\nفي الحديث: «إنّ شَهْرًا نَزَكُوهُ». أي طعَنوا عليه، يراد شَهْرُ بنُ حَوْشَب. ومما يشبَّه بهذا قولُهم لذكر الضَّبِّ: نِزْك. قال:\nسِبَحْلٌ لَهُ نِزْكانِ كانا فضيلةً … على كلِّ حافٍ في البلاد وناعلِ (٣)",
+ "az": "[نزك] النون والزاء والكاف (n, z, k) — nizə ilə vurmağa və ya ona bənzər şeyə dəlalət edən kiçik bir kökdür. Bunlardan biri «النّزْك» (ən-nəzk) — qısa nizə olan «النَّيزك» (ən-nəyizək) ilə vurmaqdır. «النّزك» (ən-nəzk) — insanda söz və əməlin pis olması, onun qınaq hədəfinə çevrilməsi, ona pis deyilməsi. Hədisdə demişlər: «إنّ شَهْرًا نَزَكُوهُ» (innə şəhrən nəzəkuhu) — yəni ona irad tutdular, onu qınadılar; burada Şəhr ibn Hövşəb qəsd olunur. Buna bənzədilən şeylərdən biri də kələtinin erkəyinə «نِزْك» (nizk) deyilməsidir. Şair demişdir:\nسِبَحْلٌ لَهُ نِزْكانِ كانا فضيلةً … على كلِّ حافٍ في البلاد وناعلِ (٣)\n(Ölkədəki həm ayaqyalın, həm də ayaqqabılı hər bir kəsdən üstün olan iki nizamı/gücü olan iri bir kələti)",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

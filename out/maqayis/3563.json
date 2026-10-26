@@ -1,0 +1,17 @@
+{
+ "i": 3563,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لمأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 208,
+  "page_to": 209
+ },
+ "ar": "اللام والميم والهمزة كلمتانِ تدُلاَّنِ على الاشتمال. يقولون: ألمأْت\nبالشَّيء، إذا اشتملتَ عليه فذهبتَ به. ويقال: تلمَّأَتْ عليه الأرضُ، إذا استوَتْ عليه: فأما قولهم: التُمِئَ لونُه، فيمكن أن يكون مِنْ هذا، ويمكن أن يكون من الإبدال، كأنّ الهمزة بدل من العين، والأصل التُمِع.",
+ "az": "«لمأ» - لام, mim və həmzə əhatə etməyə dəlalət edən iki kəlmədir. Deyirlər: «ألمأْت بالشَّيء» (ələmtü biş-şəyi) - bir şeyi əhatə edib özünlə apardın. Deyilir: «تلمَّأَتْ عليه الأرضُ» (təlmə-lət ələyəl-ə_rdü) - torpaq onun üzərinə sərilərək bərabərləşdi. Amma onların «التُمِئَ لونُه» (ültüiə lownühü) sözünə gəldikdə, mümkündür ki, bu, həmin sözdən olsun, o da mümkündür ki, həmzə eyn hərfinin əvəzinə gəlmiş dəyişmə (əbdəl) olsun, əsli isə «التُمِع» (ültüimə) kimidir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:45:46.678Z"
+}

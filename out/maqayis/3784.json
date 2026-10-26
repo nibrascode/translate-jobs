@@ -1,0 +1,17 @@
+{
+ "i": 3784,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مأن",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 292,
+  "page_to": 292
+ },
+ "ar": "الميم والهمزة والنون كلمتانِ متباينتان جِدًّا.\nفالأولى المَأْنَة: الطِّفْطِفة، والجمع مَأْنَات. قال:\nإذا ما كنتِ مَهْديةً فأهدِى … من المَأَناتِ أو قِطَع السَّنامِ (١)\nقال ابن دريد (٢): مأنتُ الرّجلَ: أصبت مَأنَتَه. وقولهم: ما مأنْتُ مأنَهُ، أي لم أشعُر به. قال الأصمعىّ: ماءَنْتُ في الأمر، مثل ماعنت، أي رَوَّأْتُ.\nأمَّا ما\nجاء في الحديث: «مَئِنّةٌ من فِقْه الرّجل». فمن باب إنّ، وقد ذكر فيه.",
+ "az": "[مأن] (mim, həmzə və nun) — bir-birindən çox fərqli olan iki kəlmədir. Birincisi المَأْنَة (əl-ma-nə): qarın piyinin qatlarıdır, cəmi مَأْنَات (ma-nat) gəlir. Şair demişdir: إذا ما كنتِ مَهْديةً فأهدِى … من المَأَناتِ أو قِطَع السَّنامِ (١) (Əgər hədiyyə aparılsan, onda qarının qatlarından və ya hürgüc parçalarından hədiyyə et). İbn Dureyd (٢) demişdir: مأنتُ الرّجلَ (ma-entur-raculə): kişinin zəif yerinə (və ya gizli nöqtəsinə) toxundum. Onların ما مأنْتُ مأنَهُ (ma ma-entu ma-nahu) sözü: yəni onu hiss etmədim, fərqinə varmadım deməkdir. Əsməi demişdir: ماءَنْتُ في الأمر (ma-əntu fil-əmr), ماشعنت sözü kimidir, yəni iş barəsində düşün, tədbir töördüm. Hədisdə gələnə gəldikdə isə: «مَئِنّةٌ من فِقْه الرّجل» (Bu, kişinin fiqhindən bir əlamətdir) — bu, «inna» (həqiqətən) babındandır və orada zikr edilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

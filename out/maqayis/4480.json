@@ -1,0 +1,17 @@
+{
+ "i": 4480,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وجع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 88,
+  "page_to": 88
+ },
+ "ar": "الواو والجيم والعين: كلمةٌ واحدة، هى الوَجَع: اسمٌ يجمع المرض كلَّه. وهو يِيجَعُ وياجَعُ (١)، وأنت تِيجع من كذا. وقال رائدٌ من الرُّوَّاد:\n«رأيتُ كَلأَ ييجَعْ له كَبِدُ المُصْرِم (٢)». وهو وَجِعٌ وقومٌ وَجَاعَى. وأنا أوْجَعُ رأسى، ويُوجِعُنى رأسى. وتوجّعت له: رَثَيت. ويقولون: إنَّ الوَجْعاء: السَّهُ (٣).",
+ "az": "[وجع] الواو والجيم والعين (və, cim və eyn) — tək bir sözdür, o da الْوَجَع (ağrı)dır: bütün xəstəlikləri özündə birləşdirən addır. وَهُوَ يِيجَعُ وَيَاجَعُ (١) (o ağrıyır), وَأَنْتَ تِيجَعُ مِنْ كَذَا (sən filan şeydən ağrı hissedirsən). Səyyarələrdən (su axtaranlardan) biri demişdir: «رَəİتُ كَلَأً يِيجَعُ لَهُ كَبِدُ الْمُصْرِمِ (٢)» («Elə otlaq gördüm ki, ondan çölü otlaqsız qalanın ciyəri ağrıyır»). وَوَجِعٌ (ağrıyan) və qövm وَجَاعَى (ağrıyanlar)dır. وَأَنَا أَوْجَعُ رَأْسِي، وَيُوجِعُنî رَأْسِي (Mən başımdan ağrılayıram və başım məni ağrıdır). وَتَوَجَّعْتُ لَهُ (ona rəhm etdim, halına yandım). Deyirlər ki, الْوَجْعَاء (vəcaə) — السَّهُ (٣) (arxa, oturaq yeri) deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:08:31.576Z"
+}

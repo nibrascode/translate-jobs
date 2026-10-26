@@ -1,0 +1,17 @@
+{
+ "i": 4382,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هضل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 55,
+  "page_to": 55
+ },
+ "ar": "الهاء والضاد واللام ليس فيه إلاَّ الهَيضَلة، وهى الجماعة المتسلِّحة ذاتُ الجَلَبة. وربَّما قالوا للناقة العظيمة: هَيضَلة.",
+ "az": "[هضل] (hə-də-lə): Hə, dad və lam hərflərində yalnız «الهَيضَلة» (əlhəyzələ) sözü vardır ki, o da səs-küylü, silahlı dəstə deməkdir. Bəzən böyük dişi dəvəyə də «هَيضَلة» (həyzələ) deyirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

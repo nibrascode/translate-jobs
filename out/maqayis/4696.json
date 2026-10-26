@@ -1,0 +1,17 @@
+{
+ "i": 4696,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "يلق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 158,
+  "page_to": 158
+ },
+ "ar": "الياء واللام والقاف. يقولون: اليَلَقُ: الأبيضُ من كلِّ شئ. وأنشدوا:\nوأتْركُ القِرْنَ فى الغُبار وفى … حِضْنَيْهِ زرقاءُ متنُها يَلَقُ (٣)\nويقال اليَلَقَة (٤): العَنْز البيضاء.",
+ "az": "«يلق» (Y-L-Q): Deyirlər ki, اليَلَقُ (əl-yələq) – hər şeyin ağ olanıdır. Və belə şeir söyləmişlər: Və rəqibi toz-torpaq içində qoyub tərk edirəm, elə bir halda ki, onun iki qucağında belinin səthi ağ olan gözdəri bir şey var (3). Həmçinin deyilir ki, اليَلَقَةُ (əl-yələqə) – ağ keçi deməkdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:12:57.658Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3865,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مسل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 321,
+  "page_to": 321
+ },
+ "ar": "الميم والسين واللام. يقولون: المَسَل، والجمع مُسْلَانٌ: خدٌّ في الأرض ينقاد ويستطيل. وأمّا المسيل فالميم [فيه زائدة، وهو (٢)] من باب السين. [ومُسَالا الرّجُل: جانبا لَحييه، الواحد مُسَال، يكون هذا مِنْ أُسِيلَ فهو مُسَالٌ. فإِن كان كذا فمكانُه غير هذا (٣)]. قال:\n* فلو كان في الحىِّ النَّجِىِّ سوَادُهُ … لما مَسَحَت تلك المُسَالاتِ عامرُ (٤)",
+ "az": "[مسل] (Məsəl) Mim, sin və lam hərfləri. Deyirlər: Əl-məsəl (المَسَل), cəmi isə muslan (مُسْلَانٌ) — yer üzündə uzanıb gedən dərə, yol çökəkliyidir. Lakin əl-məsilə gəldikdə, mim [orada artıqdır və o (2)] sin babındandır. [Və kişinin musalanı (مُسَالا الرّجُل) — çənəsinin iki yanı, təkliyi musaldır (مُسَال), bu, «üsilə» (أُسِيلَ) sözündəndir, yəni o, musaldır. Əgər belədirsə, onun yeri başqa yerdir (3)]. Şair demişdir: * فلو كان في الحىِّ النَّجِىِّ سوَادُهُ … لما مَسَحَت تلك المُسَالاتِ عامرُ (4) (Əgər o gizli qəbilədə onun qarası olsaydı... Amir o dərəcikləri silməzdi).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

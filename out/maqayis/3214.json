@@ -1,0 +1,17 @@
+{
+ "i": 3214,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قهو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 34,
+  "page_to": 34
+ },
+ "ar": "القاف والهاءُ والحرف المعتلُّ أصلٌ يدلُّ على خِصْب وكثرة.\nيقال للرَّجُل المُخصِب الرَّحْلِ: قاهٍ. يقال: إنَّه لَفِى عَيْشٍ قاهٍ. فأمَّا قولُهم: أَقْهَى الرَّجلُ من طَعامٍ، إذا اجْتَوَاهُ، فليس ذلك من جهةِ اجتوائِهِ إيّاه، وإنَّما هو من كثرته عنده حَتَّى يتملّأ عنده فيجتَوِيَه. وأمَّا القَهْوَة فالخمر، قالوا: وسمِّيت قَهْوَةً أنَّها تُقْهِى عن الطَّعام؛ والقياس واحد.",
+ "az": "[قهو] Qaf, hə və zəif hərf bolluğa və çoxluğa dəlalət edən bir əldir.\nYurdu bol nemətli olan kişiyə «qahin» (قاهٍ) deyilir. Deyilir: Həqiqətən, o, bolluq içində yaşayan həyatdadır. Amma onların «أَقْهَى الرَّجلُ من طَعامٍ» (kişi yeməkdən iyrəndi) sözünə gəldikdə, bu, onun yeməyə ikrah etməsi cəhətindən deyildir, əksinə, bu, həmin yeməyin onun yanında çox olmasından, o da ondan doyunca yeyib doyaraq iyrənməsindən irəli gəlir. Amma əl-qəhvəyə (القَهْوَة) gəldikdə o, şərabdır; demişlər: Qəhvə adlandırılmışdır, çünki o, yeməkdən doydurur (və ya uzaqlaşdırır); qiyas isə birdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.256Z"
+}

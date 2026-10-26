@@ -1,0 +1,17 @@
+{
+ "i": 4608,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "وفى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 129,
+  "page_to": 129
+ },
+ "ar": "الواو والفاء والحرف المعتلّ: كلمةٌ تدلُّ على إكمالٍ وإتمام.\nمنه الوَفاء: إتمام العَهْد وإكمال الشَّرط. ووَفَى: أوْفَى، فهو وفِىٌّ. ويقولون:\nأوْفَيْتُكَ الشّئَ، إذا قَضَيْتَه إيّاهُ وافياً. وتوفَّيْتُ الشَّئَ واستَوْفَيْته؛ [إذا أخذتَه كُلّه (١)] حَتَّى لم تتركْ منه شيئاً. ومنه يقال للميِّت: تَوفَّاه اللّه.",
+ "az": "[وفى] (vəfa) — الواو والفاء والحرف المعتلّ: كلمةٌ تدلُّ على إكمالٍ وإتمام (vav, fa və mütəll hərf: tamamlamağa və sona çatdırmağa dəlalət edən bir kəlmədir). منه الوَفاء: إتمام العَهْد وإكمال الشَّرط (vəfa — əhdin tamamlanması və şərtin yerinə yetirilməsi bundandır). ووَفَى: أوْفَى، فهو وفِىٌّ (vəfa: öfa, o halda o, vəfidir). ويقولون: أوْفَيْتُكَ الشّئَ، إذا قَضَيْتَه إيّاهُ وافياً (Və deyirlər: ovfaytükəş-şəyə — sənə o şeyi tam şəkildə ödədiyin zaman). وتوفَّيْتُ الشَّئَ واستَوْفَيْته؛ [إذا أخذتَه كُلّه (١)] حَتَّى لم تتركْ منه شيئاً (və təvəffəytüş-şəyə və istəvfaytühü — [onu hamısını aldığın zaman] heç bir şey buraxmayana qədər). ومنه يقال للميِّت: تَوفَّاه اللّه (Bundandır ki, ölən şəxsə deyilir: təvəffəhullah — Allah onun ruhunu tam aldı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:11:25.984Z"
+}

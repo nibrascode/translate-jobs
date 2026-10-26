@@ -1,0 +1,17 @@
+{
+ "i": 3952,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 353,
+  "page_to": 353
+ },
+ "ar": "النون والهمزة أصلٌ يدلُّ على ضَعف في الشّيء. فالنَّأنأة: الضَّعف.\nورجلٌ نَأنَاءٌ، إذا كان ضعيفًا. قال امرؤ القيس:\nلعمركَ ما سعدٌ بِخُلَّة آثمٍ … ولا نأْنأٍ عِند الحفاظِ ولا حَصِرْ (١)\nقال أبو زيد في كتاب الهمز (٢): نَأْنَأْتُ رأيي نَأْنَأَةً، إذا خلَّطت فيه (٣).",
+ "az": "[نأ] Nun və həmzə - bir şeydə zəifliyə dəlalət edən bir kökdür. «النَّأنأة» — zəiflikdir.\n«رجلٌ نَأنَاءٌ» — zəif olan kimse. İmrülqeys demişdir:\n«لعمركَ ما سعدٌ بِخُلَّة آثمٍ … ولا نأْنأٍ عِند الحفاظِ ولا حَصِرْ (١)»\n(And olsun ömrünə ki, Səd günahkarın dostu deyildir, nə də qorumaq (himayə etmək) zamanı zəif və acizdir)\nƏbu Zeyd «Kitab ül-həمز» (٢) əsərində demişdir: «نَأْنَأْتُ رأيي نَأْنَأَةً» — rəyimdə qarışıqlıq saldığım zaman (deyilir) (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.129Z"
+}

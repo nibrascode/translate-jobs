@@ -1,0 +1,17 @@
+{
+ "i": 3409,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كنو",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 139,
+  "page_to": 139
+ },
+ "ar": "الكاف والنون والحرف المعتل يدلُّ على توريةٍ عن اسمٍ بغيره.\nيقال: كنيت عن كذا. إذا تكلَّمت بغيره مما يُستَدَلُّ به عليه. وكَنَوْتُ أيضًا.\nومِمَّا يوضِّح هذا قول القائل:\nوإنِّي لأكنُو عن قَذُور بغيرِها … وأُعرِبُ أحيانًا بها فأُصارِحُ (١)\nألَا تراه جعلَ الكِنايةَ مقابِلة للمصامحة. ولذلك تسمَّى الكُنْية كُنيةً، كأنَّها توريةٌ عن اسمه. وفي كتاب الخليل أنَّ الصَّواب أن يقال يُكْنَى بأبي عبد اللّه، ولا يقال يكنى بعبد اللّه. وكُنَى الرُّؤيا هي الأمثالُ التي يَضربُها مَلَكُ الرُّؤيا، يكْنِى بها عن أعيان (٢) الأُمور.",
+ "az": "[كنو] Kaf, nun və zəif hərf bir adın yerinə başqa sözlə ört-basdır etməyə (kinayəyə) dəlalət edir. Deyilir: «كنيت عن كذا» (filan şeydən ötrü kinayə işlətdim), yəni onunla başa düşülən başqa sözlə danışdın. Həmçinin «كَنَوْتُ» də deyilir. Bunu izah edən şairin bu sözüdür: «وإنِّي لأكنُو عن قَذُور بغيرِها … وأُعرِبُ أحيانًا بها فأُصارِحُ» (١) (Mən Qəzurdan başqası ilə kinayə edirəm... bəzən də onu açıq-aydın dilə gətirib elan edirəm). Məgər görmürsənmi ki, kinayəni açıq danışığın qarşılığı etmişdir? Buna görə də «الكُنْية» (künə) künə adlandırılmışdır, sanki bu, onun adından bir pərdədir (ört-basdır etməkdir). Xəlilin kitabındadır ki, doğrusu «يُكْنَى بأبي عبد اللّه» (Əbu Abdillahla künyələnir) deməkdir, lakin «يكنى بعبد اللّه» deyilməz. Yuxuların «كُنَى» (künyələri) — yuxu mələyinin vurduğu misallardır, o bununla işlərin əyanlarına (həqiqətlərinə) kinayə edir (٢).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:55.165Z"
+}

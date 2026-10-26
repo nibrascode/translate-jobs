@@ -1,0 +1,17 @@
+{
+ "i": 4060,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نجس",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 393,
+  "page_to": 394
+ },
+ "ar": "النون والجيم والسين أصلٌ صحيح يدلُّ على خلاف الطّهارة. وشيء نَجِسٌ ونَجَسٌ: قذِر. والنَّجَس: القذَر. وليس ببعيد أن يكون\n* منه قولهم: النَّاجس: الداء لا دَواءً له. قال ساعدةُ الهذلىّ:\nوالشيب داءٌ نَجِيسٌ لا دواءَ له … للمرءِ كان صحيحاً صائبَ القُحَمِ (١)\nكأنّه إذا طال بالإنسان نَجِسَه [أو نَجَّسَه (٢)]، أي قَذِره أو قذَّره. أمّا التَّنجيس فشيءٌ كانت العرب تفعله، كانوا يعلِّقون على الصِبىِّ شيئاً يعوِّذونه من الجنّ، ولعلَّ ذلك عَظْمٌ أو ما أشبَهَه، فلذلك سُمِّي تنجيساً. قال:\nوعلق أنجاساً عليَّ المنجِّسُ (٣) *",
+ "az": "«نجس» (n-j-s): nun, cim və sin hərfidir, təmizliyin əksinə dəlalət edən səhih əsasdır. «نَجِسٌ» (nəcis) və «نَجَسٌ» (nəcəs) – çirkli şey. «النَّجَس» (ən-nəcəs) – çirk. Həmçinin onların: «النَّاجس» (ən-nacis) – dərmanı olmayan xəstəlik, deməsi də bundan uzaq deyil. Saidə əl-Hüzəli demişdir: Və qocalıq elə çirkli/dərmansız bir xəstəlikdir ki, onun dərmanı yoxdur… Sağlam, qorxunc yerlərə hər zaman düşən insan üçün (١). Guya insanla uzun müddət qaldıqda onu «نَجِسَهُ» (nəcis etdi) [və ya «نَجَّسَهُ» (nəccəsəhü) (٢)], yəni çirkləndirdi və ya çirkli etdi. Qaldı ki, «التَّنجيس» (ət-təncis) – bu, ərəblərin etdiyi bir şey idi; onlar uşaqların boynuna cinlərdən qorunmaları üçün nəsə asardılar, ehtimala görə bu, sümük və ya ona bənzər bir şey idi, buna görə də o, tənqis (təncis) adlandı. O demişdir: Və mənim üstümə təncis edən çirklər asdı (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:56:41.627Z"
+}

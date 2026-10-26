@@ -1,0 +1,17 @@
+{
+ "i": 2985,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فقح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 443,
+  "page_to": 443
+ },
+ "ar": "الفاء والقاف والحاء يدلُّ على مِثلِ ما ذكرناه قبلَه من التفتُّح.\nمن ذلك الفُقَّاحُ: نور الإِذْخِر، سمِّى بذلك لتفتُّحه، ويقال بل نور الشّجرِ كُلِّه فُقَّاح. ويقال: فَقَّح الجَروُ: فتَّح عينَيه. قال الشَّاعر:\nوأكحُلْكَ بالصَّابِ أو بالجَلَا … فَفَقِّحْ لذلك أو غمِّضِ (٢)",
+ "az": "[فقح]\nFə, qaf və ha bundan əvvəl qeyd etdiyimiz kimi açılmaya dəlalət edir.\nBu qəbildəndir: «الفُقَّاحُ» (əl-fuqqah) — izxir (ətotu) bitkisinin çiçəyidir; açıldığı üçün belə adlandırılmışdır; deyilir ki, əslində bütün ağacların çiçəyi «فُقَّاح» adlanır. Həmçinin deyilir: «فَقَّح الجَروُ» (bala itin gözləri açıldı). Şair demişdir:\nوأكحُلْكَ بالصَّابِ أو بالجَلَا … فَفَقِّحْ لذلك أو غمِّضِ (٢)\n(Gözünə acı sabir və ya sürmə çəkərəm; buna görə istər gözünü aç, istər yum).",
+ "model": "gemini-flash-latest",
+ "ts": "2026-10-26T00:24:21.922Z"
+}

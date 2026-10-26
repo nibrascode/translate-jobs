@@ -1,0 +1,17 @@
+{
+ "i": 3728,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 268,
+  "page_to": 268
+ },
+ "ar": "الميم والجيم كلمتانِ إحداهما تخليطٌ في شيء، والثانية رَمْيٌ للشيء بسرعة.\nفالأولى المجمجة: تخليطٌ فيما يُكتَب. ومَجمَجَ في أخباره: لم يَشْفِ ولم يُفصِح.\nوالأخرى مَجَّ الشرابَ من فيه: رمى به. والشَّراب مُجَاج العِنَب. والمَطَر مُجَاج المُزْن. والعسل مُجاج النَّحْل. وهو هرِم ماجٌّ: يمجُّ ريقَه ولا يستطيع أن يَحبسه من كِبَره. ومن باب السرعة أمَجَّ في البلاد إمجاجاً: ذهب. وأمَجَّ الرّجُل:\nأسرَعَ في عَدْوِه.",
+ "az": "«مج» (məcə) — Mim və cim hərfləri iki kəlmədir: bunlardan biri bir şeydə qarışıqlıq salmaq, digəri isə bir şeyi sürətlə atmaqdır. Birincisi — «المجمجة» (əl-məcməcə): yazılan şeydə qarışıqlıq. «مَجْمَجَ في أخباره» (məcməcə fi əxbarihi) — xəbərlərində qeyri-müəyyən danışdı, açıq-aydın izah etmədi. Digəri — «مَجَّ الشرابَ من فيه» (məccəş-şərabə min fihi) — içkini ağzından atdı. «الشَّراب» (əş-şərab) — «مُجَاج العِنَب» (mucəcül-inəb - üzümün tüpürcəyi/sıxıntısı). «المَطَر» (əl-matər) — «مُجَاج المُزْن» (mucəcül-müzn - buludun suyu). «العسل» (əl-əsəl) — «مُجَاج النَّحْل» (mucəcün-nəhl - arı balı). «وهو هرِم ماجٌّ» (və huvə hərimun macčun) — qocalıqdan tüpürcəyini udmağa gücü çatmayan, ağzından axıdan qoca. Sürət بابından: «أمَجَّ في البلاد إمجاجاً» (əməccə fil-bilədi imcəcən) — getdi. «أمَجَّ الرّجُل» (əməccər-racül) — qaçışında sürətli oldu.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

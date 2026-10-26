@@ -1,0 +1,17 @@
+{
+ "i": 3512,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كسا",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 178,
+  "page_to": 179
+ },
+ "ar": "الكاف والسين والحرف المعتل (٢).\nأما ما ليس بمهموزٍ فمنه الكُسْوة والكِساء معروف. قال الشّاعر (٣).\nفباتَ له دون الصَّبَا وهي قَرَّةٌ … لحافٌ ومصقولُ الكساءِ رقيقُ\nأراد في هذا الموضع بمصقول الكِساء لبَناً قد علته دُوَاية. ومثله:\nوهو إذا ما اهْتَافَ أو تَهيَّفا … يَنفِى الدُّواياتِ إذا ترشَّفَا\nعن كلِّ مَصقولِ الكِساء قد صَفَا (١)\nاهتاف: عَطِش. وعنى بالكساء الدُّواية.",
+ "az": "[كسا] \nКаф, sin və zəif hərf (١).\nHəmzəli olmayan sözlərə gəldikdə, bunlardandır məlum olan «الكُسْوة» (əl-küsvə) və «الكِساء» (əl-kisa – örtük, geyim). Şair demişdir (٢):\nفباتَ له دون الصَّبَا وهي قَرَّةٌ … لحافٌ ومصقولُ الكساءِ رقيقُ\n(O, şimal küləyinin qarlı vaxtında onun üçün elə bir gecələmə yeri tapdı ki... yorğan idi və zərif, hamar kisası vardı).\nO, bu yerdə «مصقول الكِساء» (maskulul-kisa) ifadəsi ilə üzərini qaymaq tutmuş südü nəzərdə tutmuşdur. Buna bənzər də budur:\nوهو إذا ما اهْتَافَ أو تَهيَّفا … يَنفِى الدُّواياتِ إذا ترشَّفَا\nعن كلِّ مَصقولِ الكِساء قد صَفَا (١)\n(O, susadığı və ya arıqladığı zaman... içdiyi vaxt dovayaları (çirkirləri) təmizləyər... hər hamar və saf kisadan).\n«اهتاف» (ihtafa) – susadı. «الكساء» (əl-kisa) dedikdə dovaya (qatılaşmış süd və ya kir) nəzərdə tutulur.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:43:20.535Z"
+}

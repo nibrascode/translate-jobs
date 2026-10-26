@@ -1,0 +1,17 @@
+{
+ "i": 3917,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مغط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 340,
+  "page_to": 340
+ },
+ "ar": "الميم والغين والطاء أصلٌ صحيح يدلُّ على امتدادٍ وطُول.\nوالمَغْطُ: المَدّ. ومَغَطْتُه فامتغط. والتَّمغُّط في عَدْو الفَرَس: أن يَمدَّ ضَبْعَيه. وانمَغَط النَّهارُ: ارتفعَ والمُمَّغِطْ: الطَّويل المضطرِب. ومَغَطَ الرَّامِي في قوسه: نَزَع فيها فأغرقَ النَّزْع.",
+ "az": "[مغط] \nMim, ğayn və ta — uzanmağa və uzunluğa dəlalət edən səhih kökdür.\nVə المَغْطُ (əl-mağt) — uzatmaqdır. Mən onu uzatdım və o uzandı (مَغَطْتُه فامتغط). Atın qaçışındakı التَّمغُّط (ət-təmuğğut) — onun ön ayaqlarını uzatmasıdır. Gündüz uzandı (انمَغَط النَّهارُ) — yüksəldi. Və المُمَّغِطْ (əl-mummağit) — uzun və sərgərdan deməkdir. Oxatan kamanını çəkdi və güclü çəkdi (مَغَطَ الرَّامِي في قوسه).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:44.514Z"
+}

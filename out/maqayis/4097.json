@@ -1,0 +1,17 @@
+{
+ "i": 4097,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "ندم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 411,
+  "page_to": 411
+ },
+ "ar": "النون والدال والميم كلمةٌ تدلُّ على تَفَكُّنٍ لشيءٍ قد كان (٢) يقال: ندِم عليه نَدَمًا ونَدامةً. وشَرِيبُ الرّجلِ: مُنادِمُهُ ونديمُه (٣). وقال:\nناسٌ: المنادمة مقلوب المدامنة، وذلك إدمان الشَّراب. وفيه نظر. وناسٌ يقولون:\nكان الشَّرِيبانِ يكونُ من أحدهما بعضُ ما يُنْدَم عليه، فلذلك سمِّيا نديمين",
+ "az": "[ندم] النون والدال والمim (n, d, m) — baş vermiş bir şey üçün peşman olmağa dəlalət edən bir kəlmədir (٢). Deyirlər: «ندم عليه ندما وندامة» (nədimə aleyhi nədmən və nədamətən) — onun üçün peşman oldu. Bir adamın şərab yoldaşına «منادمه» (munadimuhu) və «نديمه» (nədimuhu) deyilir (٣). Bəzi insanlar demişlər: «المنادمة» (əl-munadimə) sözü «المدامنة» (əl-mudaminə) sözünün tərs çevrilmiş formasıdır (məqlubudur), bu da şərab içməyə aludə olmaq deməkdir. Bunda nəzər (araşdırmağadək) məqam var. Digər insanlar isə deyirlər: İki şərab yoldaşından birinin tərəfindən peşmançılıq doğuracaq bəzi əməllər baş verərdi, buna görə də onların hər ikisinə «نديمان» (nədiman - yoldaşlar) adı verilmişdir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

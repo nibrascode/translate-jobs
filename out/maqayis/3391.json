@@ -1,0 +1,17 @@
+{
+ "i": 3391,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كلث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 134,
+  "page_to": 134
+ },
+ "ar": "الكاف واللام والثاء ليس بأصلٍ أصيل، لكنّهم يقولون: إلى بشيء (٦). وربَّما قالوا: انكلث فلانٌ: تقدَّم.",
+ "az": "[كلث] (Kaf, lam və sə) — əsli-nəsli olan əsas deyil, lakin onlar deyirlər ki, o, bir şeyə deyil (٦). Bəzən də deyirlər: «انكلث فلانٌ» — filankəs irəli keçdi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:33.629Z"
+}

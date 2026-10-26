@@ -1,0 +1,17 @@
+{
+ "i": 3643,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لحص",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 237,
+  "page_to": 237
+ },
+ "ar": "اللام والحاء والصاد كلمةٌ تدلُّ على ضيقٍ في شيء. يقال:\nلَحِصَ يَلْحَصُ لَحَصاً. قال:\nقد كنتُ خَرَّاجًا وَلُوجًا صَيْرَفا … لم تلتحِصني حَيْصَ بَيْصَ لَحَاصِ (٥)\nأي لم أنْشَبْ فيها. ولَحَاصِ فَعَالِ منه. ويقال: التحَصَت الإبرُة، إذا انْسَدَّ سَمُّها.",
+ "az": "[لحص] (ləhəs) — lam, ha və sad bir şeydə darlığı bildirən sözdür. لَحِصَ يَلْحَصُ لَحَصاً (ləhısə yəlhasu ləhəsən) — daraldı, deyilir. Şair demişdir:\nقد كنتُ خَرَّاجًا وَلُوجًا صَيْرَفا … لم تلتحِصني حَيْصَ بَيْصَ لَحَاصِ (٥)\n(Mən həm çıxan, həm girən, həm də sarraf idim, heç bir çətin vəziyyətdə məni sıxışdıra bilmədin)\nYəni çətinliyə düşüb qalmadım. لَحَاصِ (ləhasi) dəbundan fəali çəkisindədir. İynənin gözü tutulduqda التحَصَت الإبرةُ (əltəhəçətil-ibrətü) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:47:44.973Z"
+}

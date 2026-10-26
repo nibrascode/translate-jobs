@@ -1,0 +1,17 @@
+{
+ "i": 3981,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نهط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 364,
+  "page_to": 364
+ },
+ "ar": "النون والهاء والطاء زعم ابنُ دريد (٣) النَّهْط الطَّعْن.\nونَهَطه بالرُّمح: طعنَه به",
+ "az": "[نهط] (NUN, HƏ və TA) - İbn Dürid iddia etmişdir ki (٣), «النَّهْط» - sünbə ilə vurmaqdır (və ya sancmaqdır). «ونَهَطه بالرُّمح» - onu nizə ilə vurdu (sançdı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:46.772Z"
+}

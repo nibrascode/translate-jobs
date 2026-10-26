@@ -1,0 +1,17 @@
+{
+ "i": 4395,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هكل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 59,
+  "page_to": 59
+ },
+ "ar": "الهاء والكاف واللام يدلُّ على إشرافٍ وعُلُوٍّ. منه الهَيْكَل:\nالفَرَسُ الطَّويل. قال:\nوقد أغدُو بِطرفٍ هَي … كَلٍ ذى مَيْعَة سَكْبِ (٢)",
+ "az": "[هكل] (hə-kə-lə): Hə, kaf və lam hərfləri ucalığa və yüksəkdə olmağa dəlalət edir. Bunlardan biri «الهَيْكَل» (əl-həykəl) — uzun atdır. Şair demişdir: وقد أغدُو بِطرفٍ هَي … كَلٍ ذى مَيْعَة سَكْبِ (Mən tez-tez hünərli, uzun, qızğın və sürətli çapılan atla səhərə çıxıram).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

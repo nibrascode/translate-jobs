@@ -1,0 +1,17 @@
+{
+ "i": 3727,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مث",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 268,
+  "page_to": 268
+ },
+ "ar": "الميم والثاء كلمتان. يقولون: مثَّ يدَه: مسحها ومَثَّ الشَّيءُ، إذا كان يرشَح دَسَمًا. وقال ابن دريد (٣): مثَّ شارِبُه، إذا أكل دَسَمًا فبقي عليه.",
+ "az": "«مث» (məثə) — Mim və sə hərfləri iki kəlmədir. Deyirlər: «مثَّ يدَه» (məثşə yədəh) — onu sildi. «مثَّ الشَّيءُ» (məثəş-şəy'ü) — yağlılıq sızdırdığı zaman. İbn Dürid demişdir (٣): «مثَّ شارِبُه» (məثə şəribuh) —bığlı adam yağlı yemək yedikdən sonra izi üzərində qaldı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:49:40.222Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4283,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هول",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 20,
+  "page_to": 20
+ },
+ "ar": "الهاء والواو واللام: كلمتانِ تدلُّ إحداهما على مخافةٍ، والأخرى على تحسينٍ وزِينة.\nفالأولى: الهوْل، وهى المخافة. وهالَنِى الشَّيءُ يهُولُنى. ومكانٌ مَهالٌ:\nذو هَوْل. قال الهذلى (٢):\nأجاز إليْنا على بُعده … مهاوِىَ خَرق مَهَابٍ مَهَالِ\nوالتَّهاويل: ما هالَكَ من شئ. وهَوَّلُوا على الرّجل: حَلَّفوه عند نارٍ يهوِّلون بها عليه. قال أوس:\n* كما صَدَّ عن نارِ المهَوِّل حالِفُ (٣) *\nوالأُخرى قولهم لزِينة الوَشْىِ: تَهَاويل، ويقال هَوَّلتِ المرأةُ: تزيَّنت بحَلْيها.",
+ "az": "[هول] (Hol): Hə, vav və lam: iki sözdür, bunlardan biri qorxuya, diğəri isə gözəlləşdirməyə və bəzəyə dəlalət edir.\n\nBirincisi: الْهَوْل (əl-həvl), yəni qorxu. ويهولني الشيء يهولني (Həylənif-şəyü yuhulüni: Şey məni qorxutdu). و مكان مهال (məkanun məhal): qorxulu yer. Hüzəli (2) demişdir:\n\nأجاز إليْنا على بُعده … مهاوِىَ خَرق مَهَابٍ مَهَالِ\n(Uzaqlığına baxmayaraq bizə tərəf keçdi… uzaq, qorxulu, dəhşətli uçurumlardan).\n\nالتَّهاويل (ət-təhavil): səni qorxudan hər bir şey. وهَوَّلُوا على الرّجل (həvvəlü əla-r-raculi): kişini qorxutmaq üçün atəş yanında and içdirdilər. Avs demişdir:\n\n* كما صَدَّ عن نارِ المهَوِّل حالِفُ (3) *\n(Necə ki, qorxudanın atəşindən and içən üz döndərdi).\n\nİkincisi isə naxışın bəzəyinə verdikləri تَهَاويل (təhavil) sözüdür. Və deyilir ki, هَوَّلتِ المرأةُ (həvvələti-l-mərətu): qadın zinətləri ilə bəzəndi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:08.936Z"
+}

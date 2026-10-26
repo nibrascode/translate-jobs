@@ -1,0 +1,17 @@
+{
+ "i": 4073,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نحض",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 402,
+  "page_to": 402
+ },
+ "ar": "النون والحاء والضاد كلمةٌ واحدة، وهي اللَّحْم. يقال لِلَّحْم نَحْض. وامرأةٌ نَحِيضة: كثيرة اللَّحم، فإذا ذَهَب لحمها فَمنحوضَة، من قولهم:\nنحضْتُ العَظْم: أخذْتُ ما عليه من لَحم ويقولون: نحَضْت السِّنانَ: رقّقته، كأنَّك لما رقَّقته أخذت عنه نَحضَه.",
+ "az": "[نحض] (n-h-d) - Nün, ha və dad hərfləri tək bir kəlmədir, o da ətdir (اللَّحْم). Ətə نَحْض (nəhd) deyilir. وَامرأةٌ نَحِيضة (nəhiizə qadın): əti çox olan, əti gedibsə مَنْحوضَة (manhuda) – bu onların نحضْتُ العَظْم (sümüyün ətini soyub aldım): üzərindəki əti aldım sözündəndir. Və deyirlər: نحَضْت السِّنانَ (sünəni incəltdim): onu incəltdim, sanki sən onu incəltməklə onun ətini (qalınlığını) almış oldun.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:57:04.701Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3496,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كرع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 171,
+  "page_to": 171
+ },
+ "ar": "الكاف والراء والعين أصلٌ صحيح يدلُّ على دِقَّةٍ في بعض أعضاء الحيوان. من ذلك الكُرَاع، وهو من الإنسان ما دونَ الرُّكبة، ومن الدوابِّ: ما دون الكَعْب. قال الخليل: تكَرَّعَ الرّجُل، إذا توضَّأ للصلاة لأنّه يَغسِل أكارِعَه. قال: وكُرَاع كلِّ شيءٍ: طرَفُه. قال: والكُرَاع من الحَرّة:\nما استطالَ منها، قال مُهلهل:\nلما تَوَقَّلَ في الكُرَاعِ هجينُهم … هَلْهَلْتُ أثارُ جابراً أو صِنْبِلا (٢)\nفأمَّا تسميتُهم الخَيْل كُراعاً فإنَّ العرب قد تعبِّر عن الجسم ببعض أعضائِه، كما يقال: أعتَقَ رقبةً، ووَجْهِي إليك. فيمكنُ أن يكون الخيلُ سمِّيت كُرَاعاً لأكارعها. والكَرَع: دِقّة السّاقَين. فأمّا الكَرَع فهو ماء السَّماء، وسمِّي به لأنه يُكْرَع فيه، وقيل لأنَّ الإنسان يُكْرِع فيه أكارِعَه (٣)، أو يأخذه بيديه، وهما بمعنى الكُراعين، إذا كانا طرَفَين.",
+ "az": "[كرع]. Kaf, ra və eyn düzgün kök olub, heyvanın bəzi üzvlərində olan incəliyə və nazikliyə dəlalət edir. Bunlardan biri də əl-küraudur, o da insanda dizdən aşağı olan hissə, dördayaqlılarda isə topuqdan aşağı olan hissədir. Xəlil demişdir: تَكَرَّعَ الرّجُل (kişi dəstəmaz aldı), çünki o, ayaq biləklərini yuyur. Və demişdir: Hər bir şeyin kuraı onun uc tərəfidir. Və hərradan (qara daşlıq yerdən) olan kura: oradan uzununa uzanan yerdir. Mühəhləl demişdir: لما تَوَقَّلَ في الكُرَاعِ هجينُهم … هَلْهَلْتُ أثارُ جابراً أو صِنْبِلا (٢) (Onların həcini kura tərəfə qalxanda … Cabir və ya Sünbülü izlədim). Atları kura adlandırmalarına gəldikdə, həqiqətən ərəblər bədəni onun bəzi üzvləri ilə ifadə edirlər, necə ki, deyilir: «boyun azad etdi» və «üzüm sənə tərəfdir». Ona görə də ola bilər ki, atlar ayaqlarına görə kura adlandırılmışdır. Əl-karəc: baldırların incəliyidir. Əl-karəcə gəldikdə, o, səma suyudur, ona bu ad ona görə verilmişdir ki, orada kura edilir (baş vurulur və ya su içilir), və ya deyilmişdir ki, çünki insan ora öz ətraflarını (ayaqlarını) soxur (٣), və ya onu əlləri ilə götürür, bunlar da iki ucluq mənasında olan əl-kürani kimidirlər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:42:57.464Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 3086,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فدش",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 482,
+  "page_to": 482
+ },
+ "ar": "الفاء والدال والشين ليس فيه إلاَّ [طريفة] من طرائف.\nابن دريد (٢)، قال: فدشت الشَّئ، إذا شدختَه. وفدشْتُ رأسَه بالحجَر.",
+ "az": "«فدش» (fə-d-ş): Fə, dal və şin hərflərində İbn Düridin (٢) nadir sözlərindən başqa heç nə yoxdur. O demişdir: «فدشت الشَّئ» (fədəştüş-şey) - bir şeyi əzdin. Və «فدشْتُ رأسَه بالحجَر» (daşla onun başını əzdim).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:26:21.849Z"
+}

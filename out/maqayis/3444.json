@@ -1,0 +1,17 @@
+{
+ "i": 3444,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كيت",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 151,
+  "page_to": 151
+ },
+ "ar": "الكاف والياء والتاء كلمةٌ إن صحَّت، يقولون: التَّكييت:\nتيسير الجَهَاز. قال:\nكَيِّت جهازك إمّا كنتَ مرتحِلاً … إنِّي أخاف على أذْوادِك السَّبُعا (٣)",
+ "az": "[كيت] (Kaf, ya və ta) — əgər səhihdirsə, bir kəlmədir, deyirlər: التَّكييت (ət-təkkiyt) — səfər ləvazimatını, yükünü hazırlamaq. [Şeir] كَيِّت جهازك إمّا كنتَ مرتحِلاً … إنِّي أخاف على أذْوادِك السَّبُعا (٣) (mənası: Əgər köçəcəksənsə, səfər ləvazimatını hazırla... Çünki mən dəvələrinə görə yırtıcı heyvandan qorxuram).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:40:39.620Z"
+}

@@ -1,0 +1,17 @@
+{
+ "i": 4323,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هتل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 33,
+  "page_to": 33
+ },
+ "ar": "الهاء والتاء واللام كلمةٌ واحدة. هَتَلَتِ السَّماء: هَطَلَت:\nوسحائب هُتَّلٌ وهُطّل.",
+ "az": "[هتل] (hə-tə-lə): Hə, ta və lam tək kəlmədir. هَتَلَتِ السَّماء (hətələtis-səməhu): yağdı, هَطَلَت (hətolət) kimidir: سحائب هُتَّلٌ və هُطّل (səhaibü huttalün və hutlün) – leysan buludları.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:05:32.216Z"
+}

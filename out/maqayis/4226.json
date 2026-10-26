@@ -1,0 +1,17 @@
+{
+ "i": 4226,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نقط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 471,
+  "page_to": 471
+ },
+ "ar": "النون والقاف والطاء أُصيلٌ يدلُّ على نُكتةٍ لطيفةٍ في الشيء.\nيقال للقِطعة من النَّخْل: نُقْطة. ويقال: إنَّه تشبيهٌ في القِلَّة بالنُّطفة.",
+ "az": "[نقط] النون والقاف والطاء (n, q, t) hərfləri bir şeydəki incə nöqtəyə (ləkəyə və ya işarəyə) dəlalət edən təməl sözdür. Xurma ağaclarının bir hissəsinə «نُقْطة» deyilir. Deyirlər ki, bu, azlıqda nütfəyə bənzətmədir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:02:43.035Z"
+}

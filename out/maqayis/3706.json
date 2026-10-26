@@ -1,0 +1,17 @@
+{
+ "i": 3706,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لفج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 258,
+  "page_to": 259
+ },
+ "ar": "اللام والفاء والجيم كلمةٌ واحدة. يقولون: المُلْفَج بفتح الفاء:\nالفقير، وماضِي فعله ألْفَجَ. وهو من نادِرِ الكلام (٣). وأنشد:\nجارية شَبَّت شَبابًا عُسْلُجا … في حِجَر مَنْ لم يكُ عنها مُلفَجا (١)\nو\nروي في بعض الحديث مرفوعاً: أيُدالِكُ الرّجلُ المرأةَ؟ قال: نعَمْ إذا كان مُلفَجًا». والصحيح عن الحسن (٢).",
+ "az": "«لفج» — lam, fa və cim tək bir sözdür. Deyirlər: «المُلْفَج» (al-mulfaj) — fa sıfırı ilə kasıb, feli keçmiş zamanı «ألْفَجَ» (alfaja). Bu, nadir sözlərdəndir (٣). Və o, şeirdə işlənmişdir:\nجارية شَبَّت شَبابًا عُسْلُجا … في حِجَر مَنْ لم يكُ عنها مُلفَجا (١)\nVə bəzi hədislərdə mərfu şəkildə rəvayət olunmuşdur: «Aydaliku ar-riculu al-mar'ata? Qala: Na'am iza kana mulfajan». Səhih olan isə Həsəndən (٢) gələndir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:48:50.564Z"
+}

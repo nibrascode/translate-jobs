@@ -1,0 +1,17 @@
+{
+ "i": 3328,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قضف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 98,
+  "page_to": 98
+ },
+ "ar": "القاف والضاد والفاء أُصَيل يدلُّ على دِقَّة ولطافة. فالقَضَف:\nالدِّقَّة؛ يقال عُودٌ قَضِف وقَضِيفٌ. وجمع قضيف قِضاف. ومنه القَضَفة، والجمع قِضْفان: قطعةٌ من رمل تنْقضِفُ (٤) من معظمه، أي تنكسر.",
+ "az": "[قضف] (qəzəf). Qaf, dad və fa hərfləri incəliyə və zərifliyə dəlalət edən kiçik bir əsasdır. القَضَف (əl-qəzəf) – incəlik; deyilir: عُودٌ قَضِف (qəzif çubuq) və قَضِيفٌ (qəzif). Qəzif sözünün cəmi قِضاف (qizaf) gəlir. Və from here: القَضَفَة (əl-qəzəfə), cəmi قِضْفان (qizfan) olub, əsas hissəsindən انقضف (inqəzəf) edən, yəni qırılan qum parçasındadır (٤).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:36:41.564Z"
+}

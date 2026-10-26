@@ -1,0 +1,17 @@
+{
+ "i": 3150,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "فعل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "4",
+  "page_from": 511,
+  "page_to": 511
+ },
+ "ar": "الفاء والعين واللام أصلٌ صحيح يدلُّ على إحداث شئ من عملٍ وغيره. من ذلك: فَعَلْتُ كذا أفعلُه فَعْلا. وكانت مِنْ فُلانٍ فَعْلةٌ حَسَنَةٌ أو قبيحة: والفِعَال جمع فِعْل. والفَعَال، بفتح الفاء: الكَرَم وما يُفْعَل من حَسَن.\nوبقيت كلمةٌ ما أدرى كيف صحّتها. يقولون: الفِعَال: خَشَبة الفأس.",
+ "az": "[فعل] (F-Ə-L) Fə, ayn və lam hərfləri bir iş və ya başqa bir şeydən bir hadisəni əmələ gətirməyə dəlalət edən doğru bir kökdür. O cümlədən: «فَعَلْتُ كذا أفعلُه فَعْلا» (belə etdim, onu edirəm, etmək). Filankəsdən «فَعْلةٌ حَسَنَةٌ أو قبيحة» (gözəl və ya pis bir əməl) baş verdi. «الفِعَال» (əl-fiəl) «فِعْل» (əməl) sözünün cəmidir. Fə hərfinin fəthəsi ilə «الفَعَال» (əl-fəəl): səxavət və edilən yaxşı işlərdir. Bir kəlmə qaldı ki, onun doğruluğunu bilmirəm. Deyirlər: «الفِعَال» (əl-fiəl): baltanın sapıdır.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:29:48.226Z"
+}

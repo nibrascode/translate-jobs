@@ -1,0 +1,17 @@
+{
+ "i": 3565,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "لمح",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 209,
+  "page_to": 209
+ },
+ "ar": "اللام والميم والحاء أُصَيلٌ يدلُّ على لَمْع شيء. يقال: لَمَح البرقُ والنّجمُ لَمْحًا، إذا لَمَعا. قال:\nأُراقِب لمحاً من سُهيلٍ كأنّه … إذا ما بدا من آخِرِ اللَّيل يطرفُ (٢)\nورأيت لَمْحة البَرْق. ويقولون: «لأُرِينَّك لمحاً باصراً»، أي أمراً واضِحاً (٣).",
+ "az": "[لمح] «اللام والميم والحاء» (lam, mim və hə) — kiçik bir kök olub bir şeyin parıldamasına dəlalət edir. Deyirlər: «لَمَح البرقُ والنّجمُ لَمْحًا» (şimşək və ulduz parıldadı) — parıldadıqları zaman. (Şair) demişdir: أُراقِب لمحاً من سُهيلٍ كأنّه … إذا ما بدا من آخِرِ اللَّيل يطرفُ (٢) (Süheyl ulduzundan bir parıltı izləyirəm, o, sanki gecənin sonundan zühur etdikdə göz qırpar). Və «رأيت لَمْحة البَرْق» (Şimşək parıltısını gördüm). Deyirlər: «لأُرِينَّك لمحاً باصراً» (Sənə əmin parıltı göstərəcəyəm), yəni açıq-aydın bir iş (٣).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:46:11.522Z"
+}

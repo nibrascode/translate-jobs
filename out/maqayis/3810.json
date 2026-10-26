@@ -1,0 +1,17 @@
+{
+ "i": 3810,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "محل",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 302,
+  "page_to": 302
+ },
+ "ar": "الميم والحاء واللام أصلٌ صحيح له معنيانِ: أحدهما قِلّة الخير، والآخَر الوِشاية والسِّعاية.\nفالمَحْل: انقطاع المطر ويُبْس الأرضِ من الكلأ. يقال: أرضٌ مُحُول، على فُعول بالجمع. قال الخليل: يحمل ذلك على المواضع. وأمْحَلَت فهي مُمْحِل.\nوأمْحَل القوم. وزمانٌ ماحِل.\nوالمعنى الآخَر مَحَل به، إذا سعَى به. و\nفي الدعاء: «لا تجعل القرآنَ بنا ماحلا». أي لا تجعله يَشهد عندك علينا بتركنا اتِّباعَه، أي اجعَلْنا ممّن يتبع القرآن ويَعمَل به.\nومما يُبايِن هذه المعنيين: لبنٌ مُمَحَّل، محَّله القوم، أي حَقَنوه.",
+ "az": "[محل] (Mim, ha və lam): İki mənası olan səhih bir əsldir: bunlardan biri xeyrin azlığı, digəri isə dedi-qodu etmək və aranı vurmaqdır.\n«المَحْل» (əl-məhl): yağışın kəsilməsi və yerin ot bitməyərək qurumasıdır. Deyilir: «أرضٌ مُحُول» (ardun muhul), cəmdə «فُعول» (fuul) وزنündə. Xəlil demişdir: Bu, müxtəlif yerlərə şamil edilir. «أمْحَلَت» (əmhələt) – yer qurudu, o, «مُمْحِل» (mumhil)-dir. Və «أمْحَل القوم» (əmhələl-qavm) – qövm quraqlığa düçar oldu. «زمانٌ ماحِل» (zəmanün mahil) – quraqlıq zaman.\nDigər məna isə «مَحَل به» (məhələ bihi) – yəni onun haqqında dedi-qodu edib şikayətləndi (xəfiyyətsayaq aparıb sataşdı). Və duada gəlmişdir: «لا تجعل القرآنَ بنا ماحلا» (lə təcəlil-qurənə binə mahilən). Yəni, Quranı bizim ona əməl etmədiyimizə görə Öz dərgahında bizim əleyhimizə şahidlik edən etmə, əksinə, bizi Qurana tabe olan və ona əməl edən kəslərdən et.\nBu iki mənadan fərqli olan sözlərdən biri də budur: «لبنٌ مُمَحَّل» (ləbün muməhhəl), qövm onu «محَّلُوه» (məhhəluhü) – yəni onu tuluqda saxlayıb qıcqırtdılar (və ya bərkitdilər).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:51:32.940Z"
+}

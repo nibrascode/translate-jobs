@@ -1,0 +1,17 @@
+{
+ "i": 3347,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قعز",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 109,
+  "page_to": 109
+ },
+ "ar": "القاف والعين والزاء ليس فيه إلا طريفةُ ابن دريد (٣)، قال:\nقَعَزْتُ الإناءَ: ملأتُه. وقَعَزْتُ في الماء: عَبَبْتُ.",
+ "az": "[قعز] (qə-ə-z): Qaf, eyn və zadan yalnız İbn Düridin nadir ifadəsi vardır (٣), o demişdir: «قَعَزْتُ الإناءَ» (qəzətü əl-inə): qabı doldurdum. Və «قَعَزْتُ في الماء» (qəzətü fi əl-məi): sudan doyunca qurtum-qurtum içdim.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:37:28.844Z"
+}

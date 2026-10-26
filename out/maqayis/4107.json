@@ -1,0 +1,17 @@
+{
+ "i": 4107,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزف",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 416,
+  "page_to": 416
+ },
+ "ar": "النون والزاء والفاء أصلٌ يدلُّ على نَفاد شيءٍ وانقطاع.\nونُزِفَ دمُه: خَرَج كلُّه. والسَّكرانُ * نَزِيفٌ، أي نُزِفَ عَقلُه. قال:\nوإذ هي تمشِي كمشي النَّزي … فِ يَصْرَعهُ بالكَثيب البَهَرْ (١)\nوالنَّزْف: نزحُ الماء من البئر شيئًا بعد شيء. وأنْزَفُوا: ذهَبَ ماءُ بئرهم.\nوأنْزَفُوا: انقطَعَ شرابُهم. قال اللّه سبحانه: ﴿لا يُصَدَّعُونَ عَنْها وَلا يُنْزِفُونَ (٢﴾.\nوالنُّزْفة: الغُرفة. وهو بحرٌ لا يُنزَف. ونُزِف الرجلُ في الخُصومة: انقطعت حجته.",
+ "az": "[نزف] النون والزاء والفاء (n, z, f) — bir şeyin tükənməsinə və kəsilməsinə dəlalət edən əsasdır.\n«نُزِفَ دمُه» (nuzifə dəmuh) — qanı tamamilə axıb qurtardı. Sərxoş adama «نَزِيفٌ» (nəzifun) deyilir, yəni əqli tükənmişdir (huşu başından çıxmışdır). Şair demişdir:\nوإذ هي تمشِي كمشي النَّزي … فِ يَصْرَعهُ بالكَثيب البَهَرْ (١)\n(O, təpəlik yerdə nəfəs darlığından yıxılan sərxoşun yerişi kimi yeriyərkən)\n«النَّزْف» (ən-nəzf) — quyudan suyu bir-birinin ardınca az-az çəkib qurtarmaq. «أنْزَفُوا» (ənzəfu) — quyularının suyu qurtardı. «أنْزَفُوا» (ənzəfu) — içkiləri tükəndi. Uca Allah buyurmuşdur: ﴿لا يُصَدَّعُونَ عَنْها وَلا يُنْزِفُونَ﴾ (mənaca tərcümə: Onlar bundan başağrısı çəkməzlər və sərxoş da olmazlar) (٢).\n«النُّزْفة» (ən-nuzfə) — bir udum su (ovuclamaq). «هو بحر لا يُنزَف» (huvə bəhrun la yunzəf) — o, suyu tükənməyən dəniz kimidir. «نُزِف الرجلُ في الخُصومة» (nuzifər-raculu fil-xusumə) — kişinin mübahisədə dəlili tükəndi, kəsildi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:58:57.895Z"
+}

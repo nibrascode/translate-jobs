@@ -1,0 +1,17 @@
+{
+ "i": 3221,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "قوى",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 36,
+  "page_to": 37
+ },
+ "ar": "القاف والواو والياء أصلانِ متباينان، يدلُّ أحدُهما على شِدَّة وخِلافِ ضَعْف، والآخَر على خلافِ هذا وعلى قِلّة خَيْر.\nفالأوَّل القُوّة، والقوِىّ: خلاف الضَّعيف. وأصل ذلك من القُوَى،\nوهى جَمْعُ قُوَّةٍ من قُوَى الحبل. والمُقْوِى: الذى أصحابُه وإبلُه أَقْوِيَاء. والمُقْوِي:\nالذى يُقْوِى وَتَرَه، إذا لم يُجِدْ إغارتَه فتراكبَتْ قُواه. ورجلٌ شَديد القُوى، أى شديدُ أَسْرِ الخَلْق.\nفأمَّا قولهم: أَقْوَى الرّجُلُ فى شِعره، فهو أن يَنْقُص من عروضه قُوّة. كقوله:\nأفَبَعْدَ مقتلِ مالكِ بن زُهَيْرٍ … يرجو النِّساءُ عواقبَ الأطهارِ (١)\nوالأصل الآخر: القَوَاء (٢): الأرض لا أهلَ بها. ويقال: أقْوَت الدّارُ:\nخلت. وأَقْوى القومُ: صاروا بالقَوَاء والقِىِّ. ويقولون: باتَ فلانٌ القَواءَ وبات القَفْرَ، إذا بات على غير طُعْم. والمُقْوِي: الرّجُل الذى لا زَادَ معه. وهو من هذا، كأنَّه قد نزل بأرضٍ قِيٍّ.\nومما شذَّ عن هذا الأصلِ كلمةٌ يقولونها، يقولون: اشْتَرَى الشُّركاءُ الشَّئَ ثم اقتَوَوْه، إذا تزايدُوه حَتَّى بلغ غايةَ ثَمنِه.",
+ "az": "[قوى] Qaf, vav və ya iki müxtəlif əldir; bunlardan biri gücə və zəifliyin ziddinə, digəri isə bunun əksinə və xeyrin azlığına dəlalət edir.\nBirincisi — qüvvədir (القُوّة), əl-qəvi (القوِىّ): zəifə ziddir. Bunun əsli ipin qüvvələrindən olan «قُوَى» sözünün cəmi olan qüvədəndir. Və əl-muqvi (المُقْوِى): dostları və dəvələri güclü olan kəs. Və əl-muqvi (المُقْوِي): hücumunu yaxşı bacarmayıb qüvvələri üst-üstə yığılan zaman kamanının ox ipini (vətərini) gücləndirən kəs. Qüvvələri şiddətli olan kişi, yəni xilqəti möhkəm olan deməkdir.\nAmma onların «أَقْوَى الرّجُلُ فى شِعره» sözünə gəldikdə, bu, onun əruz vəznindən gücü (vəzn bütövlüyünü) əksiltməsidir. Necə ki, bu misradadır:\nأفَبَعْدَ مقتلِ مالكِ بن زُهَيْرٍ … يرجو النِّساءُ عواقبَ الأطهارِ (١)\n(Malik ibn Züheyrin qətlindən sonra qadınlar təmizlərin aqibətini ümid edirlərmi?)\nVə digər əl: əl-qəva (القَوَاء): əhli olmayan yer. Deyilir: «أقْوَت الدّارُ» — ev boşaldı. Və «أَقْوى القومُ» — səhra və susuz çölə gəlib çıxdılar. Və deyirlər: Filankəs «باتَ فلانٌ القَواءَ وبات القَفْرَ» — heç bir yemək yemədən gecələdi. Və əl-muqvi (المُقْوِي): azuqəsi olmayan kişi. Bu da bundandır, sanki o, susuz səhrada düşmüş kimidir.\nBu əldən kənara çıxan (şaz olan) bir kəlmə də var ki, deyirlər: Şərikli mal alıb sonra onun qiymətini artıraraq son həddinə çatdıranda «اقتَوَوْه» dedilər.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:32:25.257Z"
+}

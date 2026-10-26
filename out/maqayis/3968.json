@@ -1,0 +1,17 @@
+{
+ "i": 3968,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نق",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 358,
+  "page_to": 358
+ },
+ "ar": "النون والقاف أصيل يدلّ على صوت من الأصوات. ونقَّت الضّفادع: صوّتت، وهي النّقَّاقة. وكذلك الدّجاجة تُنقنِقُ للبيض. وقد يقال ذلك للنقاقة والنِّقْنِق: الظّليم، لأنه ينقنق.\nومما شذّ عن الباب نقنقت العين: غارت.",
+ "az": "[نق] Nun və qaf - səslərdən bir səsə dəlalət edən kiçik bir kökdür. «نقَّت الضّفادع» — qurbağalar səs çıxardı, onlar «النّقَّاقة» adlanır. Həmçinin toyuq yumurtlamaq üçün «تُنقنِقُ» (qaqıldayar). Bəzən bu söz «النّقاقة» və «النِّقْنِق» (dəvəquşu) üçün də işlədilir, çünki o da səs çıxarır.\nBu qrupdan istisna olaraq (şəzz) «نقنقت العين» — göz çuxura düşdü (batdı) mənasını verir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:54:25.130Z"
+}

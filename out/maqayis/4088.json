@@ -1,0 +1,17 @@
+{
+ "i": 4088,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نخم",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 407,
+  "page_to": 407
+ },
+ "ar": "النون والخاء والميم كلمة. يقولون: النُّخَامة: النُّخاعة.\nوتَنَخَّم، إذا نَخَع. قال ابنُ دُريد (٤): وسمِعتُ نَخْمَةَ الرّجُل، إذا سمِعتَ حِسَّسه.",
+ "az": "[نخم] (N-X-M) Nun, xa və mim bir kəlmədir. Deyirlər: «النُّخَامة» (ən-nuhamə) - «النُّخاعة» (ən-nuhaə - bəlğəm) kimidir. «تَنَخَّم» (tənəxxəm) - «نَخَع» (nəxə) etdiyi zaman. İbn Dureyd demişdir: «سمِعتُ نَخْمَةَ الرّجُل» (kişinin nəxməsini eşitdim), yəni onun səsini eşitdiyin zaman.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:58:32.693Z"
+}

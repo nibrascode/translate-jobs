@@ -1,0 +1,17 @@
+{
+ "i": 4403,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هلج",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 61,
+  "page_to": 61
+ },
+ "ar": "الهاء واللام والجيم ليس بشئ. ويقولون: هَلَج: أنَى بكلامٍ ولا يوثَق به.",
+ "az": "[هلج] (hə-lə-cə): Hə, lam və cim. Heç bir əsası yoxdur. Deyirlər: «هَلَج» (hələc) — etibarsız söz danışdı.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:03.082Z"
+}

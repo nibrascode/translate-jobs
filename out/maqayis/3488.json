@@ -1,0 +1,17 @@
+{
+ "i": 3488,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كدب",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 167,
+  "page_to": 167
+ },
+ "ar": "الكاف والدال والباء، يقال فيه كلمة. قالوا: إنّ الكَدِبَ:\nالدّم الطريّ. وروي أنّ بعضهم قرأ: «وَجَاءُوا عَلَى قَمِيصِهِ بِدَمٍ كَدِبٍ (٢)».",
+ "az": "[كدب] (Kəf, Dal, Ba) haqqında bir kəlmə deyilir. Dedilər ki, «الكَدِب» (təzə qan). Rəvayət olunur ki, bəziləri «وجاءوا على قميصه بدم كدب» (٢) (mənaca tərcümə: və onun köynəyinin üzərində təzə qan gətirdilər) oxumuşlar.",
+ "model": "gemini-3.1-flash-lite",
+ "ts": "2026-10-26T00:42:38.345Z"
+}

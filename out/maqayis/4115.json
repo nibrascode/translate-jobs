@@ -1,0 +1,17 @@
+{
+ "i": 4115,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "نزر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 418,
+  "page_to": 419
+ },
+ "ar": "النون والزاء والراء أُصَيلٌ يدلُّ على قِلَّةٍ في الشيء. ونَزُرَ الشيءُ نَزارةً. وشيءٌ نَزْرٌ: قليل. وعَطاءٌ منزور: مقلَّل. وامرأةٌ نَزورٌ: قليلة الولَد. قال:\nبُغاثُ الطّيرِ أكثرها فِراخاً … وأمُّ الصَّقرِ مقلاتٌ نَزور (١)\nوقولهم: نَزَرْتُ الرّجلَ: ألححت عليه، وقولهم: لا يُعطِي حتَّى يُنْزَر، أي يلحَّ عليه، فهو شاذٌّ عن الأصل الذي ذكرناه، وله قياسٌ آخر.",
+ "az": "[نزر] (nəzərə): Nun, zay və ra bir şeydə azlığa dəlalət edən kiçik bir əsldir. Nəzürəş-şəy-u nəzarətən (şey azaldı). Şəy-un nəzrun (az şey). Ataun mənzurun (azaldılmış bəxşiş). İmraətun nəzurun (az doğan qadın). Şair demişdir:\nبُغاثُ الطّيرِ أكثرها فِراخاً … وأمُّ الصَّقرِ مقلاتٌ نَزور (١)\n(Quşların zəifləri balaları ən çox olanlardır, şahin anası isə uşağı tez ölənlərdən və az doğandır.)\n\nVə onların “nəzərtür-rəcülə: ona israr etdim” sözləri, həmçinin “inzər edilənə qədər verməz, yəni ona israr olunmayınca verməz” sözləri zikr etdiyimiz əsldən şazdır və onun başqa bir qiyas, üsulu vardır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:59:16.418Z"
+}

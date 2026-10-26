@@ -1,0 +1,17 @@
+{
+ "i": 3878,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مشر",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 326,
+  "page_to": 326
+ },
+ "ar": "الميم والشين والراء أصلٌ صحيح يدلُّ على تشعُّبٍ في شيء وتفرُّق. يقال: المَشْرة: شبيه خوصةٍ تخرج في العِضاهِ أيّامَ الخريف لها ورقٌ وأغصان. يقال: أمْشَرَتِ العِضاهُ. ومَشَرتِ (٤) الأرض: أخرجَتْ نَباتَها.\nومَشَّرْتُ الشّيءَ. فرَّقتُه. قال:\nفقلتُ أشِيعَا مَشِّرَا القِدر حَولَنا … وأىَّ زمانٍ قدرُنا لم تمَشّرِ (٥)\nوتَمشَّر فُلانٌ، إذا رُئِي (٦) عليه أثر الغِنى، وهو على معنى التّشبيه، كأنّه أوْرَقَ.",
+ "az": "«مشر» (məşər) — mim, şin və ra hərfləri bir şeydə şaxələnməyə və səpələnməyə dəlalət edən səhih bir kökdür. Deyirlər: المَشْرَة (əl-məşrət) — payız aylarında tikanlı ağacların üzərindən çıxan, yarpaqları və budaqları olan xurma yarpağına bənzər şeydir. Deyirlər: أمْشَرَتِ العِضاهُ (əmşərətil-idahu) — tikanlı ağaclar budaqlandı. Və مَشَرتِ الأرضُ (məşərətil-ərdu) — yer bitkisini üzə çıxardı. Və مَشَّرْتُ الشّيءَ (məşşərtüş-şəyyə) — onu səpələdim, dağıtdım. Şair demişdir: «Dedim ki, xəbər yayın, qazanı ətrafımızda səpələyin… elə bir zaman yoxdur ki, qazanımız səpələnməsin (5)». Və تَمشَّرَ فُلانٌ (təməşşərə fülânün) — kimdə ki sərvət əlaməti göründü (6), bu, bənzətmə mənasındadır, sanki o, yaşıllaşdı (yarpaqladı).",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:53:03.302Z"
+}

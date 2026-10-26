@@ -1,0 +1,17 @@
+{
+ "i": 4423,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "هنأ",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "6",
+  "page_from": 68,
+  "page_to": 68
+ },
+ "ar": "الهاء والنون والهمزة: يدلُّ على إصابةِ خيرٍ من غير مشقّة.\nفالهَنْ ء: العَطِيَّةُ، وهو مصدرٌ والاسم الهِنْ ء. والهَنِئ: الأمر يأتيك من غير مشقة. وما كان هذا الطّعامُ هنيئاً ولقد هَنُؤ. وهَنِئت الماشيةُ: أصابَتْ حَظًّا من بَقْل. وإبُلٌ هَنْأَى (٢). وأمّا الهِناءُ فضَربٌ من القَطِران. هَنَأْتُ البَعِيرَ، وناقَةٌ مَهْنُوءة. وممكنٌ أن يسمَّى بذلك لما فيه من الشِّفاء.\nومما ليس من الباب مضى هِنْ ءٌ من اللَّيل (٣)، أى طائفة.",
+ "az": "«هنأ» (hənəə): Hə, nun və həmzə hərfləri məşəqqətsiz olaraq xeyrə nail olmağa dəlalət edir. فالهَنْ ء (əl-hənə) — bəxşişdir, bu məsdərdir, ismi isə الهِنْ ء (əl-hinə) olmuşdur. والهَنِئ (əl-həni) — sənə məşəqqətsiz gələn şeydir. وما كان هذا الطّعامُ هنيئاً ولقد هَنُؤ (Bu yemək nə qədər də dadlı idi, həqiqətən də ləzzətli oldu). وهَنِئت الماشيةُ (mal-qara otlaqdan pay aldı): otlaqdan bəhrələndi. وإبُلٌ هَنْأَى (hənə dəvələr). الهِناءُ (əl-hina) sözünə gəldikdə isə o, qətran növüdür. هَنَأْتُ البَعِيرَ (dəvəni qətranladım), وناقَةٌ مَهْنُوءة (qətranlanmış dişi dəvə). Mümkündür ki, ona bu ad içindəki şəfaya görə verilmişdir. Bu fəsildən olmayan məna isə: مضى هِنْ ءٌ من اللَّيل (gecənin bir hissəsi keçdi) — yəni gecənin bir qismi.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T01:07:26.299Z"
+}

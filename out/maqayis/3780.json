@@ -1,0 +1,17 @@
+{
+ "i": 3780,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مأد",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 291,
+  "page_to": 291
+ },
+ "ar": "الميم والهمزة والدال كلمةٌ تدل على حُسنِ حال ورِىٍّ في الشيء.\nالمَأْد في الأغصان: الرَّيَّان الليِّن الناعم الميَّال. ومَئِدَ العرفجُ: اهتزَّ رِيًّا.\nومن القياس امْتَأَد خَيرًا: كَسَبَهُ. ويَمْؤُود: مكان.",
+ "az": "[مأد] (mim, həmzə və dəl) — gözəl hala və bir şeyin bolluğuna/təravətinə dəlalət edən kəlmədir. المَأْد (əl-mad) budaqlar haqqında: təravətli, yumşaq, zərif və meyilli olan deməkdir. ومَئِدَ العرفجُ (maidal-ərfaju): ərfəc bitkisi təravətlə sırxalandı, titrədi. Qiyasən امْتَأَد خَيرًا (imtədə xayran) — xeyir qazandı. ويَمْؤُود (yamuud) isə bir yerin adıdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:50:48.261Z"
+}

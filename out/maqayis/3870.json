@@ -1,0 +1,17 @@
+{
+ "i": 3870,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "مشط",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 324,
+  "page_to": 324
+ },
+ "ar": "الميم والشين والطاء كلمةٌ واحدة وهي المُشْط. ومَشَط شَعره مَشْطا. والمُشَاطة: ما سقَط من الشعر إذا مُشِط. ويقال على معنى التَّشبيه لسُلَامَيات ظهرِ القدم: مُشْط.",
+ "az": "[مشط] (Məşət) Mim, şın və ta hərfləri bir sözdür, o da əl-müştdür (المُشْط - daraq). «Məşətə şərhahu məştən» (مَشَط شَعره مَشْطا) — saçını daraqla daradı. Bənzətmə mənasında ayağın üst sümüyünə də «muşt» (daraq) deyilir.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:52:39.418Z"
+}

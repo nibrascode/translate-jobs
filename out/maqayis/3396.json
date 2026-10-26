@@ -1,0 +1,17 @@
+{
+ "i": 3396,
+ "book": "معجم مقاييس اللغة",
+ "author": "ابن فارس",
+ "root": "كلع",
+ "source": {
+  "edition": "ت عبد السلام هارون",
+  "shamela": "https://shamela.ws/book/21710",
+  "vol": "5",
+  "page_from": 135,
+  "page_to": 136
+ },
+ "ar": "الكاف واللام والعين كلماتٌ تدلُّ على دَرَن ووسَخ. يقولون للشُّقاقِ والوسَخ بالقدم: كلَعٌ، وقد كَلِعت رجلُه تكْلَعُ كلَعاً. وإناءٌ كَلِعٌ، إذا\nالْتَبَدَ عليه الوسَخ. وسِقاء كَلِع، إذا تراكَبَ عليه التُّراب. و [يقال (١)] إن الكُلْعَة: داءٌ يأخذ البعيرَ في مُؤَخّره.\nوممّا يُحمَلُ على هذا من معنًى واحد وهو التّراكب دونَ الوسخ: الكَلَعة من الغَنَم، سمِّيت بذلك لتجمُّعها.",
+ "az": "[كلع] (Kaf, lam və eyn) — çirk və kirə dəlalət edən kəlmələrdir. Ayaqdakı yarıqlara və çirkə «كلَعٌ» deyilir, artıq onun ayağı «تكْلَعُ كلَعاً» olaraq çirkli oldu. Üzərinə kir yapışmış qaba «إناء كَلِعٌ» deyilir. Üzərinə torpaq qatı yığılmış tuluğa isə «سِقاء كَلِع» deyilir. Və [deyilir ki (١)] «الكُلْعَة» — dəvənin arxa hissəsini tutan xəstəlikdir.\nKirə aid olmayıb yığılmaq mənasında buna bənzər olaraq daşınanlar: qoyunun bir yerə toplaşması mənasında işlədilən «الكَلَعة من الغَنَم» sözüdür ki, onlar toplaşdıqlarına görə belə adlandırılmışdır.",
+ "model": "gemini-3.5-flash-lite",
+ "ts": "2026-10-26T00:39:33.629Z"
+}
