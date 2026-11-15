@@ -13,5 +13,10 @@
  "ar": "الهمزة والتاء والهاء، يقال إِنّ التأتُّه الكِبْر والخَيلاء.",
  "az": "[أته]\nHəmzə, tə və hə: deyilir ki, «التأتُّه» (ət-tə'əttuh) təkəbbür və lovğalıqdır.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-24T18:49:50.695Z"
+ "ts": "2026-10-24T18:49:50.695Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:26:19.124Z"
 }

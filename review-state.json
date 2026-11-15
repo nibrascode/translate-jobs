@@ -1,8 +1,8 @@
 {
  "book": "maqayis",
  "total": 4703,
- "reviewed": 20,
- "changed": 19,
+ "reviewed": 61,
+ "changed": 49,
  "failed": 0,
  "runs": [
   {
@@ -24,6 +24,16 @@
     "gemini-4-hydrogen": 1
    },
    "stop": "queue_empty"
+  },
+  {
+   "date": "2026-11-15T06:24:01.052Z",
+   "calls": 6,
+   "reviewed": 20,
+   "changed": 11,
+   "models": {
+    "gemini-4-hydrogen": 6
+   },
+   "stop": "max_calls"
   }
  ]
 }

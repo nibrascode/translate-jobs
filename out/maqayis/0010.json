@@ -11,7 +11,17 @@
   "page_to": 36
  },
  "ar": "الهمزة والباء والسين تدلّ على القهر، يقال منه أبَسَ الرجُلُ الرجُلَ، إِذا قَهَره. قال:\n* أُسُود هيْجا لَمْ تُرَمْ بأَبْسِ (٣) *\nوالأَبس: كلّ مكانٍ خشنٍ. ويقال أبَسْت بمعنى حَبَسْت (٤) وتأَبّس الشئ تغيَّر. قال المتلمس:\nألم تر أنَّ الجَونَ أَصْبَح راسِياً … تُطيف به الأيام لا يتأبَّسُ\nويقال هى بالياء:\n« … لا يتأيَّس»،\nوقد ذكر فى بابه.",
- "az": "[أبس] الهمزة والباء والسين تدلّ على القهر، يقال منه أبَسَ الرجُلُ الرجُلَ، إِذا قَهَره. ([əbəs] – həmzə, ba və sin – qəhr etməyə dəlalət edir, ondan deyilir: kişi kişini “əbəsə” – onu qəhr etdiyi zaman.) قال: * أُسُود هيْجا لَمْ تُرَمْ بأَبْسِ (٣) * (O demişdir: *“Döyüş aslanları əbs ilə tərpədilmədi”*.) والأَبس: كلّ مكانٍ خشنٍ. (Və əbs – hər bir sərt məkandır.) ويقال أبَسْت بمعنى حَبَسْت (٤) وتأَبّس الشئ تغيَّر. (Və deyilir: “əbəstu” – “həbəstu” mənasındadır, və şey “təəbbəsə” – dəyişdi.) قال المتلمس: ألم تر أنَّ الجَونَ أَصْبَح راسِياً … تُطيف به الأيام لا يتأبَّسُ (Mütəlləmis demişdir: *“Görmədinmi ki, Cəun sabit oldu, günlər ətrafında dolanır və o, təəbbəs etmir”*.) ويقال هى بالياء: « … لا يتأيَّس»، وقد ذكر فى بابه. (Və deyilir ki, o, ya hərfi ilədir: “...təyəyyəsu”, və o, öz babında zikr edilmişdir.)",
+ "az": "[أبس]\nHəmzə, ba və sin qəhr etməyə (üstün gəlib ram etməyə) dəlalət edir; ondan deyilir: أبَسَ الرجُلُ الرجُلَ (kişi kişini qəhr etdi). Demişdir:\n* أُسُود هيْجا لَمْ تُرَمْ بأَبْسِ (٣) * (Döyüş aslanları ki, qəhr edilməyə cəhd olunmamışdır.)\nالأَبس (əbs) — hər bir nahamar yerdir. Deyilir: أبَسْت (əbəstu) — حَبَسْت (həbs etdim, saxladım) mənasındadır. (٤) تأَبّس الشئ (bir şey dəyişdi). Mütələmmis demişdir:\nألم تر أنَّ الجَونَ أَصْبَح راسِياً … تُطيف به الأيام لا يتأبَّسُ (Görmədinmi ki, Cəvn sabitləşib dayanmışdır, günlər onun ətrafında dolanır, o isə dəyişmir.)\nDeyilir ki, o, ya hərfi ilədir:\n« … لا يتأيَّس» (… təsirlənib dəyişmir),\nvə bu, öz babında zikr edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T18:41:28.019Z"
+ "ts": "2026-10-24T18:41:28.019Z",
+ "prev_az": "[أبس] الهمزة والباء والسين تدلّ على القهر، يقال منه أبَسَ الرجُلُ الرجُلَ، إِذا قَهَره. ([əbəs] – həmzə, ba və sin – qəhr etməyə dəlalət edir, ondan deyilir: kişi kişini “əbəsə” – onu qəhr etdiyi zaman.) قال: * أُسُود هيْجا لَمْ تُرَمْ بأَبْسِ (٣) * (O demişdir: *“Döyüş aslanları əbs ilə tərpədilmədi”*.) والأَبس: كلّ مكانٍ خشنٍ. (Və əbs – hər bir sərt məkandır.) ويقال أبَسْت بمعنى حَبَسْت (٤) وتأَبّس الشئ تغيَّر. (Və deyilir: “əbəstu” – “həbəstu” mənasındadır, və şey “təəbbəsə” – dəyişdi.) قال المتلمس: ألم تر أنَّ الجَونَ أَصْبَح راسِياً … تُطيف به الأيام لا يتأبَّسُ (Mütəlləmis demişdir: *“Görmədinmi ki, Cəun sabit oldu, günlər ətrafında dolanır və o, təəbbəs etmir”*.) ويقال هى بالياء: « … لا يتأيَّس»، وقد ذكر فى بابه. (Və deyilir ki, o, ya hərfi ilədir: “...təyəyyəsu”, və o, öz babında zikr edilmişdir.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "İzah olunan ərəbcə sözlər və şeir beytindəki əsas ifadələr tərcüməsiz qalmışdır («əbəsə», «əbs», «həbəstu», «təəbbəs etmir»).",
+  "Mətnin sonundakı «لا يتأيَّس» ifadəsi ərəb qrafikası ilə verilməmiş, «لا» inkar ədatı buraxılmış və məna tərcüməsiz qalmışdır."
+ ],
+ "review_ts": "2026-11-15T06:24:58.665Z"
 }

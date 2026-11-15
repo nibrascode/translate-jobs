@@ -13,5 +13,10 @@
  "ar": "الهمزة والباء والهاء يدلّ على النباهة والسموِّ ما أَبَهْتُ به لم أعلم مكانه ولا أَنِسْت به. والأُبَّهَة: الجلال.",
  "az": "[أبه] \nHəmzə, ba və hə şöhrətə və ucalığa dəlalət edir. ما أَبَهْتُ به (mə əbəhtu bihi) - onun yerini bilmədim və ona ünsiyyət qurmadım. Və الأُبَّهَة (əl-ubbəhəh) - əzəmət, təmtəraqdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T18:47:59.725Z"
+ "ts": "2026-10-24T18:47:59.725Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:26:24.799Z"
 }

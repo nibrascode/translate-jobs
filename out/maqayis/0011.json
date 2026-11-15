@@ -13,5 +13,10 @@
  "ar": "الهمزة والباء والشين ليس بأصل، لأنّ الهمزة فيه مبدلة من هاء. قال ابن دريد: أَبَشْتُ الشئ وهَبَشْتُه إِذا جمعته.",
  "az": "[أبش] الهمزة والباء والشين ليس بأصل، لأنّ الهمزة فيه مبدلة من هاء. ([əbəş] – həmzə, ba və şin – əsas deyil, çünki həmzə orada hə hərfindən dəyişdirilmişdir.) قال ابن دريد: أَبَشْتُ الشئ وهَبَشْتُه إِذا جمعته. (İbn Dureyd demişdir: “Əbəştu əş-şəyə” və “həbəştuhu” – onu topladığım zaman.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T18:41:28.019Z"
+ "ts": "2026-10-24T18:41:28.019Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:24:58.666Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 36
  },
  "ar": "الهمزة والباء والزاء يدلّ على القلق والسرعة وقلّة الاستقرار.\nقال الخليل: الإِنسان يَأبِزُ فى عَدْوه ويستريح ساعةً ويمضى أحيانا (١) قال الفرّاء: الأبَزَى والقَفَزَى اسمان من أبز الفرسُ وقَفَزَ. والأبْزُ الوثْب.\nقال أبو عمرو: نَجِيبَة أبُوز، أى تصبر صبرا عجيبا، وقد أبَزَت تَأْبِز أبْزاً. قال:\nلقد صَبَحْتُ حمَلَ بنَ كُوزِ … عُلالةً مِنْ وَكَرَى أَبُورِ (٢)\nقال الشَّيبانىّ: الآبز الذى يأبِز بصاحبه، أى يبغِى عليه ويعرِّض به.\nيقال: أراك تأبِز به.",
- "az": "[أبز] الهمزة والباء والزاء يدلّ على القلق والسرعة وقلّة الاستقرار. ([əbəz] – həmzə, ba və zay – narahatlığa, sürətə və qərar tutmamağa dəlalət edir.) قال الخليل: الإِنسان يَأبِزُ فى عَدْوه ويستريح ساعةً ويمضى أحيانا (١) (Xəlil demişdir: İnsan qaçışında “yəbizu” – bir saat dincəlir və bəzən irəliləyir.) قال الفرّاء: الأبَزَى والقَفَزَى اسمان من أبز الفرسُ وقَفَزَ. (Fəra demişdir: Əbəza və qəfəza – atın “əbəzə” və “qəfəzə” etməsindən iki addır.) والأبْزُ الوثْب. (Və əbz – tullanışdır.) قال أبو عمرو: نَجِيبَة أبُوز، أى تصبر صبرا عجيبا، وقد أبَزَت تَأْبِز أبْزاً. (Əbu Əmr demişdir: Nəcibə abuz – yəni qəribə səbir edən, o, “əbəzət təbizu əbzan”.) قال: لقد صَبَحْتُ حمَلَ بنَ كُوزِ … عُلالةً مِنْ وَكَرَى أَبُورِ (٢) (O demişdir: *“Həqiqətən, mən Həməl ibn Kuzə səhər tezdən gəldim... Uskəri Aburdan qalan qalıqla”*.) قال الشَّيبانىّ: الآبز الذى يأبِز بصاحبه، أى يبغِى عليه ويعرِّض به. (Şeybani demişdir: Abiz – yoldaşına “yəbizu” edən, yəni ona zülm edən və ona sataşandır.) يقال: أراك تأبِز به. (Deyilir: Mən səni ona təbiz etdiyini görürəm.)",
+ "az": "[أبز]\nHəmzə, ba və zey narahatlığa, sürətə və qərar tutmamağa dəlalət edir.\nXəlil demişdir: İnsan qaçışında يَأْبِزُ (sıçrayır), bir an dincəlir və bəzən irəliləyir. (١) Fərra demişdir: الأبَزَى (əbəza) və القَفَزَى (qəfəza) — أبز الفرسُ وقَفَزَ (at sıçradı və tullandı) ifadəsindən iki isimdir. الأبْزُ (əbz) — tullanmaqdır.\nƏbu Əmr demişdir: نَجِيبَة أبُوز (səbirli nəcib dəvə), yəni qəribə dərəcədə səbir edən; artıq أبَزَت تَأْبِز أبْزاً (səbir etdi, səbir edir). O demişdir:\nلقد صَبَحْتُ حمَلَ بنَ كُوزِ … عُلالةً مِنْ وَكَرَى أَبُورِ (٢) (Həqiqətən, Həməl ibn Kuzə səhər tezdən iti və sıçrayaraq gedən, dözümlü dəvənin ardıcıl sürətindən [doğan bir basqın] bəxş etdim.)\nŞeybani demişdir: الآبز (abiz) — yoldaşına يأبِز (hücum) edən, yəni ona zülm edən və sataşandır.\nDeyilir: أراك تأبِز به (Sənin ona sataşdığını görürəm).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T18:41:28.019Z"
+ "ts": "2026-10-24T18:41:28.019Z",
+ "prev_az": "[أبز] الهمزة والباء والزاء يدلّ على القلق والسرعة وقلّة الاستقرار. ([əbəz] – həmzə, ba və zay – narahatlığa, sürətə və qərar tutmamağa dəlalət edir.) قال الخليل: الإِنسان يَأبِزُ فى عَدْوه ويستريح ساعةً ويمضى أحيانا (١) (Xəlil demişdir: İnsan qaçışında “yəbizu” – bir saat dincəlir və bəzən irəliləyir.) قال الفرّاء: الأبَزَى والقَفَزَى اسمان من أبز الفرسُ وقَفَزَ. (Fəra demişdir: Əbəza və qəfəza – atın “əbəzə” və “qəfəzə” etməsindən iki addır.) والأبْزُ الوثْب. (Və əbz – tullanışdır.) قال أبو عمرو: نَجِيبَة أبُوز، أى تصبر صبرا عجيبا، وقد أبَزَت تَأْبِز أبْزاً. (Əbu Əmr demişdir: Nəcibə abuz – yəni qəribə səbir edən, o, “əbəzət təbizu əbzan”.) قال: لقد صَبَحْتُ حمَلَ بنَ كُوزِ … عُلالةً مِنْ وَكَرَى أَبُورِ (٢) (O demişdir: *“Həqiqətən, mən Həməl ibn Kuzə səhər tezdən gəldim... Uskəri Aburdan qalan qalıqla”*.) قال الشَّيبانىّ: الآبز الذى يأبِز بصاحبه، أى يبغِى عليه ويعرِّض به. (Şeybani demişdir: Abiz – yoldaşına “yəbizu” edən, yəni ona zülm edən və ona sataşandır.) يقال: أراك تأبِز به. (Deyilir: Mən səni ona təbiz etdiyini görürəm.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin bir çox yerində ərəbcə izah olunan sözlər və ifadələr tərcümə edilməyərək sadəcə transkripsiya ilə verilmişdir («yəbizu», «əbəzə», «qəfəzə», «əbəzət təbizu əbzan», «təbiz»).",
+  "Şeir beytinin tərcüməsi yanlış verilmiş, «وَكَرَى» sözü səhvən «Uskəri» kimi oxunmuş və «أَبُورِ» sözü tərcüməsiz qalmışdır.",
+  "«ساعةً» sözü kontekstə uyğun olmayan şəkildə «bir saat» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T06:24:58.665Z"
 }
