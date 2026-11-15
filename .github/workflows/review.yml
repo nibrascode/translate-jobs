@@ -38,6 +38,6 @@ jobs:
           git config user.name "nibras-bot"; git config user.email "bot@nibrascode.com"
           git add -A out review-state.json 2>/dev/null || true
           if ! git diff --cached --quiet; then
-            git commit -m "review: $(jq .reviewed review-state.json)/$(jq .total review-state.json), düzəldilən $(jq .changed review-state.json)"
+            git commit -m "review: $(grep -l '"reviewed": true' out/maqayis/*.json | wc -l)/4703 yoxlanıb"
             for k in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
           fi
