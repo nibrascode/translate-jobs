@@ -11,7 +11,18 @@
   "page_to": 447
  },
  "ar": "الراء والهاء والهمزة لا تكون إلاَّ بدَخيل (٢)، وهى الرَّهْيأَة، وذلك يدلُّ على قلَّة اعتدالٍ فى الشئ. فالرَّهْيأة: أن يكون أحد عِدْلى الحِمل أثْقَل من الآخَر. رَهْيَأْتَ حِمْلك؛ ورهيَأْتَ أمرك، إذا لم تقوِّمْه. والرَّهيأة:\nالعجْز والتّوانىِ. ويقال ترهْيأَ فى أمرِه، إذا همَّ به ثُمَّ أمسَكَ عنه. ومنه الرَّهيأة:\nأنْ تَغرورِقَ العينانِ. وتَرَهْيَأت السّحابةُ، إذا تمخَّضَتْ للمطر",
- "az": "[رهأ] «الراء» (ra), «هاء» (hə) və «همزة» (həmzə) yalnız başqa dildən gəlmə (2) ola bilər, bu da الرَّهْيأَة (ərrəhyə) sözüdür ki, bir şeydə müvazinətin azlığına dəlalət edir.\nFəsildən: الرَّهْيأة (ərrəhyə) — yükün iki tayından birinin digərindən daha ağır olmasıdır. رَهْيَأْتَ حِمْلك (rəhyərtə himlək) — yükünü düzəltmədin; və رهيَأْتَ أمرك (rəhyərtə əmrək) — işini səliqəyə salmadıqda.\nVə الرَّهْيأة (ərrəhyə) — acizlik və süstlükdür. Deyilir: ترهْيأَ فى أمرِه (tərhəyə fi əmrih) — işində tərəddüd edib sonra ondan əl çəkdikdə. Həmçinin الرَّهيأة (ərrəhyə) — gözlərin yaşarmasıdır. Və تَرَهْيَأت السّحابةُ (tərhəyətis-səhəbətu) — bulud yağış üçün dalğalandığı zaman.",
+ "az": "[رهأ]\nRa, hə və həmzə yalnız əlavə hərf ilə (٢) olur, bu da الرَّهْيأَة (ər-rəhyəə) sözüdür ki, bir şeydə tarazlığın azlığına dəlalət edir. الرَّهْيأة (ər-rəhyəə) — yükün iki tayından birinin digərindən daha ağır olmasıdır. «رَهْيَأْتَ حِمْلك» (rəhyətə himlək) və «رهيَأْتَ أمرك» (rəhyətə əmrək) — yükünü və işini düzəltmədikdə deyilir. الرَّهيأة (ər-rəhyəə) — acizlik və süstlükdür. Deyilir: «ترهْيأَ فى أمرِه» (tərəhyəə fi əmrih) — bir işə niyyətlənib sonra ondan əl çəkdikdə. Həmçinin الرَّهيأة (ər-rəhyəə) — gözlərin yaşarmasıdır. «تَرَهْيَأت السّحابةُ» (tərəhyəətis-səhabətu) — bulud yağış üçün çalxalandığı zaman deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:50.472Z"
+ "ts": "2026-10-25T01:32:50.472Z",
+ "prev_az": "[رهأ] «الراء» (ra), «هاء» (hə) və «همزة» (həmzə) yalnız başqa dildən gəlmə (2) ola bilər, bu da الرَّهْيأَة (ərrəhyə) sözüdür ki, bir şeydə müvazinətin azlığına dəlalət edir.\nFəsildən: الرَّهْيأة (ərrəhyə) — yükün iki tayından birinin digərindən daha ağır olmasıdır. رَهْيَأْتَ حِمْلك (rəhyərtə himlək) — yükünü düzəltmədin; və رهيَأْتَ أمرك (rəhyərtə əmrək) — işini səliqəyə salmadıqda.\nVə الرَّهْيأة (ərrəhyə) — acizlik və süstlükdür. Deyilir: ترهْيأَ فى أمرِه (tərhəyə fi əmrih) — işində tərəddüd edib sonra ondan əl çəkdikdə. Həmçinin الرَّهيأة (ərrəhyə) — gözlərin yaşarmasıdır. Və تَرَهْيَأت السّحابةُ (tərhəyətis-səhəbətu) — bulud yağış üçün dalğalandığı zaman.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«بدَخيل» sözü «başqa dildən gəlmə» kimi yanlış tərcümə edilib (burada kökə əlavə edilən hərf nəzərdə tutulur).",
+  "Mətndə olmayan «Fəsildən:» sözü əlavə edilib.",
+  "Haşiyə rəqəmi (٢) ərəb rəqəmi əvəzinə latın (2) rəqəmi ilə verilib."
+ ],
+ "review_ts": "2026-11-15T06:18:21.970Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 331
  },
  "ar": "الميم والضاد والراء أصلٌ صحيح قليلُ الفروع. فالمَضْر بناء قولِك لبن مَضِرٌ وماضِر: شديد الحُموضة. ويقال: اشتقاق مُضَرَ منه.\nوالتمضُّر: التعصُّب لِمضر. وقولهم: ذهب دَمُه خِضْرًا مِضْراً، أي باطلاً، إتْباعٌ وليسَ من الباب.",
- "az": "«مضر» (məzər) — mim, dad və ra hərfləri az budaqlı səhih bir kökdür. Və المَضْر (əl-məzr) sözünə əsasən dediyin لبنٌ مَضِرٌ və ماضِرٌ (ləbnün məzirün və mazirün) — şiddətli turşuykən deməkdir. Deyirlər ki, Müdər (قبيلة مضر) sözünün kökü buradan götürülmüşdür. Və التَمضُّر (ət-təməzzür) — Müdər qəbiləsinə tərəfdar çıxmaqdır. Onların «ذهب دَمُه خِضْرًا مِضْراً» (zəhəbə dəmühü xidran mızran) — yəni qanı hədər (batal) getdi sözü isə təqibidir (vəznə uyğunlaşdırmadır), bu fəsildən deyildir.",
+ "az": "[مضر]\\nMim, dad və ra az budaqlı səhih bir kökdür. المَضْر (əl-mədr) sənin «لبن مَضِرٌ وماضِر» (ləbən mədir və madir — çox turş süd) deməyinin əsasıdır. Deyirlər ki, مُضَر (Mudər) adının kökü buradan götürülmüşdür.\\nالتَّمضُّر (ət-təməddur) — Mudərə tərəfdar çıxmaqdır. Onların «ذهب دَمُه خِضْرًا مِضْراً» (zəhəbə dəmuhu xidran midran — yəni qanı hədər, batil getdi) sözü isə səs uyğunlaşmasıdır (itba), bu babdan deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:03.302Z"
+ "ts": "2026-10-26T00:53:03.302Z",
+ "prev_az": "«مضر» (məzər) — mim, dad və ra hərfləri az budaqlı səhih bir kökdür. Və المَضْر (əl-məzr) sözünə əsasən dediyin لبنٌ مَضِرٌ və ماضِرٌ (ləbnün məzirün və mazirün) — şiddətli turşuykən deməkdir. Deyirlər ki, Müdər (قبيلة مضر) sözünün kökü buradan götürülmüşdür. Və التَمضُّر (ət-təməzzür) — Müdər qəbiləsinə tərəfdar çıxmaqdır. Onların «ذهب دَمُه خِضْرًا مِضْراً» (zəhəbə dəmühü xidran mızran) — yəni qanı hədər (batal) getdi sözü isə təqibidir (vəznə uyğunlaşdırmadır), bu fəsildən deyildir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı «[مضر]» formatında verilməmişdir.",
+  "«شديد الحُموضة» ifadəsi səhvən «şiddətli turşuykən» kimi tərcümə edilmişdir.",
+  "«باطلاً» sözü «batal» kimi yazılmış və ərəbcə mətnə əlavə «قبيلة» sözü artırılmışdır."
+ ],
+ "review_ts": "2026-11-15T06:18:52.278Z"
 }

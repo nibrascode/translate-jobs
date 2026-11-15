@@ -1,7 +1,6 @@
 name: translate-maqayis
 on:
-  schedule:
-    - cron: "15 8,15,22 * * *"
+  # Tərcümə 4703/4703 bitib; cədvəl söndürülüb (boş commit-lər olmasın). Lazım olsa əl ilə işə sal.
   workflow_dispatch:
 permissions:
   contents: write

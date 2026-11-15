@@ -13,5 +13,10 @@
  "ar": "البرازِق: الجماعات.",
  "az": "[برزق] (Bə-ra-zə-qaf) «البرازِق» (əl-bəraziq): dəstələr, qruplar.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.771Z"
+ "ts": "2026-10-25T00:37:20.771Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:18:21.967Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 408
  },
  "ar": "النون والخاء والباء كلمةٌ تدلُّ على تَعظُّم (١) يقال أحدهما على خيار شيء، والآخَر على ثَقْبٍ وهَزْم في شيء.\nفالأوَّل النُّخْبة: خيارُ الشَّيء ونُخَبتُه. وانتخبته، وهو مُنتَخَبٌ أي مختار.\nقال أبو زيد: النَّخبة (٢): الشَّربة العظيمة.\nوالأصل الآخر النُّخبة: خَرق الثَّفْر (٣). ومنه نَخَبها: باضَعَها. واستَنْخَبَت المرأةُ، إذا أرادت البِضاع. والرَّجلُ النَّخْب: الذي لا فؤادَ له. والنَّخِيب:\nالذاهب العقل. وهذا محتملٌ أن يكون من الأوَّل، كأنّه حُرِم النُّخبة، أي خيار ما في الإنسان.",
- "az": "[نخب] (N-X-B) Nun, xa və ba bir kəlmədir ki, böyüklüyə dəlalət edir; deyilir ki, biri bir şeyin xeyirlisinə, digəri isə bir şeydəki deşiyə və çuxura dəlalət edir. Birincisi «النُّخْبة» (ən-nuxbə) - bir şeyin xeyirlisi və seçilmişidir. «انتخبته» (onu intəxəb etdim), o «مُنتَخَب» (muntəxəb)dir, yəni seçilmişdir. Əbu Zeyd demişdir: «النَّخبة» (ən-nuxbə) - böyük bir içimlikdir. Digər əsas «النُّخبة» (ən-nuxbə) - arxa dəliyinin (səfr) deşiyidir. «نَخَبها» (nəxəbəha) - onunla cinsi əlaqədə oldu. «استَنْخَبَت المرأةُ» (qadın istənxəb etdi) - cinsi əlaqə istədikdə. «الرّجلُ النَّخْب» (nəxb kişi) - qəlbi olmayan, qorxaq kimsədir. «النَّخِيب» (ən-nəxib) - ağlı getmiş kimsədir. Bu, birincidən olması mümkündür, sanki o, «نُّخبة» (nuxbə)dən, yəni insanda olan ən xeyirli şeydən məhrum edilmişdir.",
+ "az": "[نخب]\\nNun, xa və ba böyüklüyə (١) dəlalət edən bir kəlmədir; deyilir ki, biri bir şeyin seçilmişinə (ən yaxşısına), digəri isə bir şeydəki deşiyə və çuxura dəlalət edir.\\nBirincisi النُّخْبة (ən-nuxbə) — bir şeyin ən yaxşısı və seçilmiş hissəsidir. «انتخبته» (onu seçdim), o «مُنتَخَبٌ» (muntəxəb), yəni seçilmişdir.\\nƏbu Zeyd demişdir: النَّخبة (ən-nəxbə) (٢) — böyük bir içimdir (qurtumdur).\\nDigər əsas النُّخبة (ən-nuxbə) — övrət yerinin (səfr) (٣) deşiyidir. Bundandır: «نَخَبها» (nəxəbəha) — onunla cinsi əlaqədə oldu. «استَنْخَبَت المرأةُ» (qadın istənxəb etdi) — cinsi əlaqə istədikdə deyilir. «الرَّجلُ النَّخْب» (nəxb kişi) — qəlbi (cəsarəti) olmayan, qorxaq kimsədir. «النَّخِيب» (ən-nəxib) — ağlı getmiş kimsədir. Bunun birincidən olması mümkündür; sanki o, النُّخبة (ən-nuxbə)-dən, yəni insanda olan ən yaxşı şeydən məhrum edilmişdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:58:32.693Z"
+ "ts": "2026-10-26T00:58:32.693Z",
+ "prev_az": "[نخب] (N-X-B) Nun, xa və ba bir kəlmədir ki, böyüklüyə dəlalət edir; deyilir ki, biri bir şeyin xeyirlisinə, digəri isə bir şeydəki deşiyə və çuxura dəlalət edir. Birincisi «النُّخْبة» (ən-nuxbə) - bir şeyin xeyirlisi və seçilmişidir. «انتخبته» (onu intəxəb etdim), o «مُنتَخَب» (muntəxəb)dir, yəni seçilmişdir. Əbu Zeyd demişdir: «النَّخبة» (ən-nuxbə) - böyük bir içimlikdir. Digər əsas «النُّخبة» (ən-nuxbə) - arxa dəliyinin (səfr) deşiyidir. «نَخَبها» (nəxəbəha) - onunla cinsi əlaqədə oldu. «استَنْخَبَت المرأةُ» (qadın istənxəb etdi) - cinsi əlaqə istədikdə. «الرّجلُ النَّخْب» (nəxb kişi) - qəlbi olmayan, qorxaq kimsədir. «النَّخِيب» (ən-nəxib) - ağlı getmiş kimsədir. Bu, birincidən olması mümkündür, sanki o, «نُّخبة» (nuxbə)dən, yəni insanda olan ən xeyirli şeydən məhrum edilmişdir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndəki (١), (٢), (٣) haşiyə rəqəmləri buraxılmışdır.",
+  "«النَّخبة» sözü səhvən «ən-nuxbə» kimi oxunmuşdur, halbuki fəthə ilə «ən-nəxbə»dir.",
+  "«ومنه» sözü tərcümədən düşmüş, bəzi ərəbcə fellər («انتخبته») tərcüməsiz saxlanılmışdır."
+ ],
+ "review_ts": "2026-11-15T06:18:52.279Z"
 }

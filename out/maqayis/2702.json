@@ -11,7 +11,18 @@
   "page_to": 188
  },
  "ar": "العين والواو والصاد أُصيلٌ يدلُّ على قِلّة الإمكان.\nفى الشئ. يقال اعتاصَ الشئُ، إذا لم يُمكِنْ. والعَوَص مصدر الأعوص والعَويص. ومنه كلامٌ عويص، وكلمةٌ عَوصاء. وقال:\nأيُّها السَّائلُ عن عوصائها\nويقال أعْوَص فى المنطق وأعْوَص بالخَصْم (١)، إذا كلّمهُ بما لا يَفْطِن له.\nقال لبيد:\nفلقد أُعْوِصُ بالخَصْم وقد … أملا الجَفْنَةَ من شحم القُلَلْ (٢)\nومن الباب: اعتاصت الناقة، إذا ضربها الفحلُ فلم تحمِل من [غير (٣)] عِلّة.",
- "az": "[عوص] (çətinlik, Mürəkkəblik). العين (ayn), الواو (vav) və الصاد (sad) – imkansızlığın azlığına (çətinliyə) dəlalət edən təməl bir kökdür. Bir şey qeyri-mümkün olduqda «اعتاصَ الشئُ» (şey çətinləşdi/mürəkkəbləşdi) deyilir. العَوَص – الأعوص (çətin) və العويص (mürəkkəb) sözlərinin məsdəridir. Buradan «کلام عويص» (mürəkkəb nitq) və «كلمة عوصاء» (çətin söz) ifadələri yaranmışdır. [Şair] demişdir: أيُّها السَّائلُ عن عوصائها (Ey onun çətinliyini soruşan!). Deyilir: «أعْوَص فى المنطق وأعْوَص بالخَصْم» (١) (O, danışıqda çətinliyə düşdü və rəqibi ilə mübahisədə onu çıxılmaz vəziyyətə saldı), yəni rəqibinin anlamayacağı tərzdə onunla danışdı. Ləbid demişdir: فلقد أُعْوِصُ بالخَصْم وقد … أملا الجَفْنَةَ من شحم القُلَلْ (٢) (Həqiqətən, mən rəqibimi çıxılmaz vəziyyətə salıram, halbuki [başqa vaxt] qabları dağ piyindən doldururam). Bu fəsildəndir: «اعتاصت الناقة» – erkən dəvə dişi dəvəyə cütləşmək üçün gəldi, lakin [başqa bir] səbəb olmadan dişi dəvə hamilə qalmadı (٣).",
+ "az": "[عوص]\nAyn, vav və sad – bir şeydə mümkünlüyün azlığına dəlalət edən kiçik bir kökdür. Bir şey mümkün olmadıqda «اعتاصَ الشئُ» (şey çətinləşdi) deyilir. العَوَص (əl-əvas) — الأعوص (əl-əvas) və العَويص (əl-əvis) sözlərinin məsdəridir. Buradan «كلامٌ عويص» (mürəkkəb nitq) və «كلمةٌ عَوصاء» (çətin söz) ifadələri gəlmişdir. [Şair] demişdir:\nأيُّها السَّائلُ عن عوصائها\n(Ey onun çətinliyini soruşan!)\nDeyilir: «أعْوَص فى المنطق وأعْوَص بالخَصْم» (١) (O, danışıqda anlaşılmaz ifadə işlətdi və rəqibini çətinliyə saldı), yəni rəqibinin anlamayacağı tərzdə onunla danışdı.\nLəbid demişdir:\nفلقد أُعْوِصُ بالخَصْم وقد … أملا الجَفْنَةَ من شحم القُلَلْ (٢)\n(Həqiqətən, mən rəqibimi çıxılmaz vəziyyətə salıram, halbuki [başqa vaxt] qabları donqarların piyindən doldururam.)\nBu fəsildəndir: «اعتاصت الناقة» — erkək dəvə dişi dəvəni mayalandırdı, lakin bir səbəb [olmadan (٣)] dişi dəvə boğaz qalmadı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:09:58.349Z"
+ "ts": "2026-10-25T14:09:58.349Z",
+ "prev_az": "[عوص] (çətinlik, Mürəkkəblik). العين (ayn), الواو (vav) və الصاد (sad) – imkansızlığın azlığına (çətinliyə) dəlalət edən təməl bir kökdür. Bir şey qeyri-mümkün olduqda «اعتاصَ الشئُ» (şey çətinləşdi/mürəkkəbləşdi) deyilir. العَوَص – الأعوص (çətin) və العويص (mürəkkəb) sözlərinin məsdəridir. Buradan «کلام عويص» (mürəkkəb nitq) və «كلمة عوصاء» (çətin söz) ifadələri yaranmışdır. [Şair] demişdir: أيُّها السَّائلُ عن عوصائها (Ey onun çətinliyini soruşan!). Deyilir: «أعْوَص فى المنطق وأعْوَص بالخَصْم» (١) (O, danışıqda çətinliyə düşdü və rəqibi ilə mübahisədə onu çıxılmaz vəziyyətə saldı), yəni rəqibinin anlamayacağı tərzdə onunla danışdı. Ləbid demişdir: فلقد أُعْوِصُ بالخَصْم وقد … أملا الجَفْنَةَ من شحم القُلَلْ (٢) (Həqiqətən, mən rəqibimi çıxılmaz vəziyyətə salıram, halbuki [başqa vaxt] qabları dağ piyindən doldururam). Bu fəsildəndir: «اعتاصت الناقة» – erkən dəvə dişi dəvəyə cütləşmək üçün gəldi, lakin [başqa bir] səbəb olmadan dişi dəvə hamilə qalmadı (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«قِلّة الإمكان» ifadəsi «imkansızlığın azlığına» kimi əks mənada yanlış tərcümə edilib (düzgünü: mümkünlüyün azlığına).",
+  "«أعْوَص فى المنطق» ifadəsi «danışıqda çətinliyə düşdü» kimi səhv verilib (düzgünü: danışıqda çətin/anlaşılmaz ifadə işlətdi).",
+  "«erkək dəvə» əvəzinə «erkən dəvə» yazılıb və «كلام» sözündə fars kafı (ک) işlənib."
+ ],
+ "review_ts": "2026-11-15T06:18:21.970Z"
 }

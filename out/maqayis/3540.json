@@ -11,7 +11,18 @@
   "page_to": 198
  },
  "ar": "اللام والنون. كلمةٌ أداة، وهي لن، تنفي الفعل * المستقبل وذكر عن الخليل أنّ أصل لنْ لا أَنْ.",
- "az": "«لن»\nاللام والنون. كلمةٌ أداة، وهي لن، تنفي الفعل * المستقبل وذكر عن الخليل أنّ أصل لنْ لا أَنْ.\nLam və nun. Ədat kəlməsidir, o da لَنْ (lən) olub, gələcək zaman feilini inkarda işlədilir. Xəlildən rəvayət olunmuşdur ki, «لَنْ» kəsiminin əsli «لَا أَنْ» (lə ənt) ifadəsidir.",
+ "az": "[لن]\nاللام والنون (lam və nun). Ədat kəlməsidir, o da لَنْ (lən) olub, gələcək zaman feilini inkar edir. Xəlildən nəql olunmuşdur ki, لَنْ (lən) sözünün əsli لَا أَنْ (lə ən) ifadəsidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:45:21.969Z"
+ "ts": "2026-10-26T00:45:21.969Z",
+ "prev_az": "«لن»\nاللام والنون. كلمةٌ أداة، وهي لن، تنفي الفعل * المستقبل وذكر عن الخليل أنّ أصل لنْ لا أَنْ.\nLam və nun. Ədat kəlməsidir, o da لَنْ (lən) olub, gələcək zaman feilini inkarda işlədilir. Xəlildən rəvayət olunmuşdur ki, «لَنْ» kəsiminin əsli «لَا أَنْ» (lə ənt) ifadəsidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətnin hamısı tərcümədən əvvəl tərcüməsiz şəkildə qalıb.",
+  "Başlıq [لن] əvəzinə «لن» kimi yazılıb.",
+  "«kəlməsinin» sözü «kəsiminin» kimi pozulub və «لَا أَنْ» ifadəsinin oxunuşu «lə ənt» kimi səhv verilib."
+ ],
+ "review_ts": "2026-11-15T06:19:52.576Z"
 }

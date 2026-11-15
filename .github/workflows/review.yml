@@ -1,0 +1,43 @@
+name: review-maqayis
+on:
+  schedule:
+    - cron: "10 0,4,8,12,16,20 * * *"
+  workflow_dispatch:
+    inputs:
+      max_calls:
+        description: "Bir run-da maksimum model çağırışı (boş = limitsiz)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: review
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 125
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bitibsə dayan
+        id: chk
+        run: |
+          if [ -f review-state.json ] && [ "$(jq '.reviewed >= .total' review-state.json)" = "true" ]; then echo "done=1" >> $GITHUB_OUTPUT; echo "Yoxlama bitib."; fi
+      - uses: actions/setup-node@v4
+        if: steps.chk.outputs.done != '1'
+        with: { node-version: 22 }
+      - if: steps.chk.outputs.done != '1'
+        run: node scripts/review.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          TIME_CAP_MIN: "105"
+          MAX_CALLS: ${{ github.event.inputs.max_calls || '1000000000' }}
+      - if: always() && steps.chk.outputs.done != '1'
+        run: |
+          git config user.name "nibras-bot"; git config user.email "bot@nibrascode.com"
+          git add -A out review-state.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "review: $(jq .reviewed review-state.json)/$(jq .total review-state.json), düzəldilən $(jq .changed review-state.json)"
+            for k in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+          fi

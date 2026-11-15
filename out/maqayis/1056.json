@@ -11,7 +11,16 @@
   "page_to": 168
  },
  "ar": "الخاء والراء والشين أصلٌ واحدٌ، يدل على انتفاخٍ فى الشئ وخُرُوق.\nالأصلُ الخِرْشاءُ، وهو سَلْخُ الحيّة، ثم يشبَّه به كلُّ شئِ يكون فيه تلك الصِّفة، فيقال للرُّغوة. الخِرشاء. قال مزرِّد:\nإذا مَسَّ خِرشَاءَ الثُّمَالةِ أنفُه … ثَنَى مِشْفَريه للصَّريح فأقْنَعَا (١)\nويقال طلعت الشَّمسُ فى خِرْشَاءَ، أى فى غَبَرَة. وألقَى الرّجُل خَراشِىَّ.\nصدرِه، أى بُصاقاً خاثِراً. فهذا هو الأصل.\nفأمّا قولهم كلبُ خِرَاشٍ، فهو عندنا من باب الإبدال، قال الراجز:\nكأنّ طُبْيَيْهَا إذا ما دَرَّا … كَلْبَا خِرَاشٍ خُورِشا فَهَرَّا\nويجوز أن يكون من خَرَشْتُ الشئَ، إذا خدشْتَه؛ وهو من الأوّل، كأنّه إذا خُرِش نَفَر ورَبَا وتخرّق. فأمّا قولهم اخترشت الشئَ، إذا كسَبْته، فهو عندنا أيضاً من باب الإبدال، إنّما هو افترش. وقد ذُكِر فى بابه. وكان ابنُ الأعرابىّ يقول: اختَرَش كَسَبَ. وكان يروى كلاماً تلك (٢): «رُبَّ ثَدْىٍ افترش، ونهِب اخْتَرَش، وضبٍّ احتَرَش». وغيره يَروِى: «ونهبٍ اقترش». والخِراش:\nسِمَةٌ خفيفة. والخَرَشة: ضربٌ من الذُّباب، ولعلّه مِنْ بعض ما مضى ذكرُه.",
- "az": "kəbül-xiraş",
+ "az": "[خرش]\nXa, ra və şin bir əsldir, bir şeydə şişməyə və deşiklərə (yarıqlara) dəlalət edir.\nƏsl الخِرْشاءُ (əl-xirşa) sözüdür ki, bu da ilanın qabığı (dərisi) deməkdir. Sonra bu xüsusiyyəti daşıyan hər bir şey ona bənzədilmiş və köpüyə də الخِرشاء (əl-xirşa) deyilmişdir. Müzərrid demişdir:\nإذا مَسَّ خِرشَاءَ الثُّمَالةِ أنفُه … ثَنَى مِشْفَريه للصَّريح فأقْنَعَا (١) (Burnu köpüyün pərdəsinə toxunduqda, dodaqlarını xalis südə doğru bükdü və başını qaldırdı).\nDeyilir: طلعت الشَّمسُ فى خِرْشَاءَ (Günəş xirşada doğdu), yəni toz-duman (غَبَرَة) içində. Həmçinin deyilir: ألقَى الرّجُل خَراشِىَّ صدرِه (Kişi sinəsinin xəraşilərini atdı), yəni qatı bəlğəm (tüpürcək) çıxardı. Əsl olan budur.\nOnların كلبُ خِرَاشٍ (Xiraşın iti) sözünə gəldikdə isə, bu bizə görə ibdal (hərf dəyişməsi) babındandır. Raciz (rəcəz şairi) demişdir:\nكأنّ طُبْيَيْهَا إذا ما دَرَّا … كَلْبَا خِرَاشٍ خُورِشا فَهَرَّا (Onun iki əmcəyi südlə dolduqda, sanki qısqırdılıb hürən Xiraşın iki itidir).\nBu sözün خَرَشْتُ الشئَ (bir şeyi cırmaqladım) mənasından olması da mümkündür; bu da birinci əsldəndir, sanki cırmaqlananda şişir, qabarır və deşilir. Onların اخترشت الشئَ (bir şeyi qazandım) sözünə gəldikdə isə, bu da bizə görə ibdal babındandır; əslində bu, افترش (iftəraşə) sözüdür və öz babında zikr edilmişdir. İbn əl-Ərabi deyirdi: اختَرَش (ixtəraşə) qazandı deməkdir. O, belə bir söz rəvayət edirdi (٢): «رُبَّ ثَدْىٍ افترش، ونهِب اخْتَرَش، وضبٍّ احتَرَش» (Neçə-neçə döş yayıldı, qənimət qazanıldı və kərtənkələ ovlandı). Başqası isə belə rəvayət edir: «ونهبٍ اقترش» (və qənimət toplandı). الخِراش (əl-xiraş): yüngül bir damğadır. الخَرَشة (əl-xaraşə): milçəyin bir növüdür; ola bilsin ki, bu da yuxarıda zikr edilənlərin bəzisindəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:08:18.841Z"
+ "ts": "2026-10-25T01:08:18.841Z",
+ "prev_az": "kəbül-xiraş",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mövcud tərcümə yarımçıq idi; tam yenidən tərcümə edildi"
+ ],
+ "review_ts": "2026-11-15T06:16:30.887Z"
 }

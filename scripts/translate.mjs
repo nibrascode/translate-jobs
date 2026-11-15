@@ -12,6 +12,7 @@ const rows = JSON.parse(fs.readFileSync("data/maqayis.json", "utf8")); // [kök,
 fs.mkdirSync(`out/${BOOK}`, { recursive: true });
 const statePath = "state.json";
 const state = fs.existsSync(statePath) ? JSON.parse(fs.readFileSync(statePath, "utf8")) : { book: BOOK, total: rows.length, next: 0, done: 0, runs: [] };
+if (state.next >= rows.length) { console.log("Tərcümə artıq bitib — heç nə edilmir."); process.exit(0); }
 const t0 = Date.now();
 const dead = new Set();
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));

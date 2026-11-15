@@ -11,7 +11,16 @@
   "page_to": 24
  },
  "ar": "الهاء والياء والدال. الأصل الذى ينقاسُ منه التَّحريك والإزعاج وباقى ذلك ممَّا لا يُعرَف قِياسه.\nفالأول قولهم: هِدْتُ الشَّئَ حرّكته، هَيْداً. وهَادَنى يَهِيدُنى: كَرَثَنى (٤) وأزعَجنى. يقولون: لا يَهِيدَنَّكَ. والهيْدَان: الجبان: كأنَّهُ يُزعِجُه كلُّ شئ.\n* وَهِيد (٥): كلمةٌ تقال عند سَوْقِ الإبل. ويقال: هَيَّدَ فى [السَّيْر (٦)]: أسرَعَ.\nوأمَّا الحديث فى ذكر مَسجِد رسول اللّه ﵊: «هِدْهُ» أى أَصْلِحْه، قالوا: ولا يكونُ ذلك إلاَّ بعد الهَدْم. ومعنى هذا أنّ اليَبَابَ كانَ هادماً فلمّا بُنِىَ كأنَّهُ أُحْيِىَ.\nوأمَّا الذى يُشكِل قياسُه، وهو عندنا من الكلامِ الذى دَرَسَ عِلمُه.\nقولُهم: هَيْدَ مالَكَ، وأكْثرُ ما قيل فى ذلك: ما أمرُك، ما شأنك؟ وأنشدوا:\nيا هَيْدَ مالَكَ من شوقٍ وإيراقِ … ومَرِّ طَيْفٍ على الأهْوالِ طَرَّاقِ (١)",
- "az": "[هيد] (Heyd): Hə, ya və dal. Hərəkət, təşviş və qiyas məxrəci bilinməyən digər hallar bundan çıxarılır.\n\nBirincisi onların هِدْتُ الشَّئَ (hidtüş-şəyə):",
+ "az": "[هيد]\nHə, ya və dal. Bundan qiyasa tabe olan əsas məna hərəkətə gətirmək və narahat etməkdir; qalanı isə qiyası məlum olmayan (sözlər)dir.\nBirincisi onların هِدْتُ الشَّئَ (şeyi hərəkətə gətirdim), yəni حَرَّكْتُهُ (onu hərəkət etdirdim), məsdəri هَيْداً (hərəkətə gətirmək) sözüdür. هَادَنى يَهِيدُنى (məni kədərləndirdi və narahat etdi) ifadəsi كَرَثَنى (٤) (məni qəmləndirdi) və أزعَجنى (məni narahat etdi) deməkdir. Onlar لا يَهِيدَنَّكَ (səni narahat etməsin) deyirlər. الهيْدَان (heydan) isə الجبان (qorxaq) deməkdir; sanki hər şey onu narahat edir.\n* وَهِيد (٥) (hid): dəvələri sürərkən deyilən sözdür. هَيَّدَ فى [السَّيْر (٦)] (gedişdə sürətləndi) ifadəsi أسرَعَ (sürətləndi) deməkdir.\nAllah Rəsulunun (sallallahu aleyhi və səlləm) məscidinin zikr olunduğu hədisdəki «هِدْهُ» (onu bərpa et) ifadəsinə gəlincə, bu, أَصْلِحْهُ (onu islah/bərpa et) deməkdir. (Dilçilər) demişlər ki, bu yalnız الهَدْم (dağılma) halından sonra olur. Bunun mənası odur ki, اليَبَاب (xarabalıq) dağıdıcı idi; tikildikdə isə sanki dirildildi.\nQiyası müşkül olan (söz)ə gəlincə, o, bizə görə elmi (mənası) unudulub itmiş sözlərdəndir.\nBu, onların هَيْدَ مالَكَ (sənə nə olub?) sözüdür; bunun haqqında ən çox deyilən (izah) budur: ما أمرُك (işin nədir?), ما شأنك (halın nədir?) Və (şairlər) belə şeir oxumuşlar:\nيا هَيْدَ مالَكَ من شوقٍ وإيراقِ … ومَرِّ طَيْفٍ على الأهْوالِ طَرَّاقِ (١) (Həsrətdən, yuxusuzluqdan və dəhşətlər üstündən gecə gəlib keçən xəyaldan sənə nə olub?)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:05:08.936Z"
+ "ts": "2026-10-26T01:05:08.936Z",
+ "prev_az": "[هيد] (Heyd): Hə, ya və dal. Hərəkət, təşviş və qiyas məxrəci bilinməyən digər hallar bundan çıxarılır.\n\nBirincisi onların هِدْتُ الشَّئَ (hidtüş-şəyə):",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mövcud tərcümə yarımçıq idi; tam yenidən tərcümə edildi"
+ ],
+ "review_ts": "2026-11-15T06:17:44.803Z"
 }
