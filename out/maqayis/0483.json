@@ -11,7 +11,19 @@
   "page_to": 362
  },
  "ar": "التاء والهمزة والراء كلمةٌ واحدة. يقال أتْأَرْتُ عليه النَّظَر إِذا حَدَّدته. قال:\nمَا زِلْتُ أنْظُرُهم والآلُ يرفَعُهمْ … حَتَّى اسْمَدَرَّ بطَرْفِ العَيْنِ إتْآرِى (٤)\nفأما قولهم (اتَّأَبَ) إذا استَحْيا، فله فى كتاب الواو موضعٌ غيْر هذاء\nتاَم\nالتاء والهمزة والميم كلمةٌ واحدةٌ، وهى التَّوأمانِ: الولَدانِ فى بطن تقول أتأمَتِ المرأةُ، وهى مُتْئِمٌ. والتُّؤامُ جَمْعٌ. وقول سُويد (١):\n* كالتؤاميّةِ إنْ باشَرْتَها (٢) *\nفيقال إنّ التُّؤَامَ قَصَبَةُ عُمَان",
- "az": "[تأر] (t-ə-r): Ta, həmzə və ra hərfləri tək bir kəlmədir. Deyilir: أَتْأَرْتُ عَلَيْهِ النَّظَرَ (ət-lərtü aleyhi ən-nəzərə) – ona baxışımı sərtləşdirdim və diqqətlə baxdım. Şair demişdir: مَا زِلْتُ أَنْظُرُهُمْ وَالْآلُ يَرْفَعُهُمْ … حَتَّى اسْمَدَرَّ بِطَرْفِ الْعَيْنِ إِتْآرِي (٤) (Mən onlara baxmaqda davam edirdim, ilğım onları yuxarı qaldırırdı, nəhayət, baxışımın sərtliyindən gözümün kənarı qamaşdı). Amma onların utandığı zaman (اتَّأَبَ – ət-təbə) demələrinə gəldikdə, onun yeri “Vaf” kitabındadır, bundan başqa yerdədir. [تأمم / تام]: Ta, həmzə və mim hərfləri tək bir kəlmədir, o da التَّوْأَمَانِ (ət-töəman) – bətndəki əkiz iki uşaqdır. Qadın uşaq doğduqda أَتَأَمَتِ الْمَرْأَةُ (ətəməti əl-mərətü) deyilir və o, مُتْئِمٌ (mut-im) olur. التُّؤَامُ (ət-tuam) isə cəmdir. Suveydin sözü: * كَالتُّؤَامِيَّةِ إِنْ بَ`اشَرْتَهَا * (Əgər ona toxunsan, tuamiyə qadın kimidir). Deyilir ki, التُّؤَامُ (ət-tuam) – Oman qamışlığıdır.",
+ "az": "[تأر] (t-ə-r): Ta, həmzə və ra hərfləri tək bir kəlmədir. Deyilir: أَتْأَرْتُ عَلَيْهِ النَّظَرَ (ət'ərtu aleyhi ən-nəzərə) – ona baxışımı sərtləşdirdim və diqqətlə baxdım. Şair demişdir:\nمَا زِلْتُ أنْظُرُهم والآلُ يرفَعُهمْ … حَتَّى اسْمَدَرَّ بطَرْفِ العَيْنِ إتْآرِى (٤)\n(Mən onlara baxmaqda davam edirdim, ilğım onları yuxarı qaldırırdı, nəhayət, baxışımın sərtliyindən gözümün kənarı qamaşdı).\nAmma onların utandığı zaman اتَّأَبَ (ət'əbə) demələrinə gəldikdə, onun yeri «Vav» kitabındadır, bundan başqa yerdədir.\n[تأم] (t-ə-m): Ta, həmzə və mim hərfləri tək bir kəlmədir, o da التَّوْأَمَانِ (ət-təvməni) – bətndəki əkiz iki uşaqdır. Qadın əkiz doğduqda أَتْأَمَتِ الْمَرْأَةُ (ət'əməti-lmər'ətu) deyilir və o, مُتْئِمٌ (mut'im) olur. التُّؤَامُ (ət-tu'am) isə cəmdir. Suveydin sözü:\nكالتؤاميّةِ إنْ باشَرْتَها (٢)\n(Əgər onunla yaxınlıq etsən, tuamiyə qadın kimidir).\nDeyilir ki, التُّؤَامُ (ət-tu'am) – Omanın mərkəzi şəhəridir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:53.837Z"
+ "ts": "2026-10-25T00:38:53.837Z",
+ "prev_az": "[تأر] (t-ə-r): Ta, həmzə və ra hərfləri tək bir kəlmədir. Deyilir: أَتْأَرْتُ عَلَيْهِ النَّظَرَ (ət-lərtü aleyhi ən-nəzərə) – ona baxışımı sərtləşdirdim və diqqətlə baxdım. Şair demişdir: مَا زِلْتُ أَنْظُرُهُمْ وَالْآلُ يَرْفَعُهُمْ … حَتَّى اسْمَدَرَّ بِطَرْفِ الْعَيْنِ إِتْآرِي (٤) (Mən onlara baxmaqda davam edirdim, ilğım onları yuxarı qaldırırdı, nəhayət, baxışımın sərtliyindən gözümün kənarı qamaşdı). Amma onların utandığı zaman (اتَّأَبَ – ət-təbə) demələrinə gəldikdə, onun yeri “Vaf” kitabındadır, bundan başqa yerdədir. [تأمم / تام]: Ta, həmzə və mim hərfləri tək bir kəlmədir, o da التَّوْأَمَانِ (ət-töəman) – bətndəki əkiz iki uşaqdır. Qadın uşaq doğduqda أَتَأَمَتِ الْمَرْأَةُ (ətəməti əl-mərətü) deyilir və o, مُتْئِمٌ (mut-im) olur. التُّؤَامُ (ət-tuam) isə cəmdir. Suveydin sözü: * كَالتُّؤَامِيَّةِ إِنْ بَ`اشَرْتَهَا * (Əgər ona toxunsan, tuamiyə qadın kimidir). Deyilir ki, التُّؤَامُ (ət-tuam) – Oman qamışlığıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "أَتْأَرْتُ kəlməsinin transkripsiyası yanlışdır (ət-lərtü yazılıb).",
+  "«قَصَبَةُ عُمَان» ifadəsi «Oman qamışlığı» kimi səhv tərcümə edilmişdir.",
+  "«و» hərfinin adı «vaf» yox, «vav» yazılmalıdır.",
+  "Maddə başlığı təhrif olunmuşdur."
+ ],
+ "review_ts": "2026-11-15T16:53:11.883Z"
 }

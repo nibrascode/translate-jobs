@@ -11,7 +11,18 @@
   "page_to": 359
  },
  "ar": "التاء والواو والعين كلمةٌ واحدة. قال أبو عبيدٍ عن أبى زيد:\nأتاع الرّجُل إتاعةً، إذا قاءَ. ومنه قول القُطَامىّ:\n* تمجُّ عُرُوقُها عَلقاً مُتَاعَا (٤) *\nوذكر الخليل كلمةً غيرَها أصحَّ منها. قال: التَّوْعُ كَسْرُكَ لِبَأً أو سَمْناً بِكسْرةِ خُبزٍ تَرفَعُه بها.",
- "az": "[توع] (t-v-ayin): Ta, vaf və əyn hərfləri tək bir kəlmədir. Əbu Übeyd Əbu Zeyddən rəvayət edərək demişdir: أَتَاعَ الرَّجُلُ إِتَاعَةً (ataə ər-racülu itaətən) – kişi qustuğu zaman. Qutaminin bu sözü də bundandır: * تَمُجُّ عُرُوقُها عَلَقاً مُتَاعَا (٤) * (Damarları qusulan qatı qanı püskürür). Xəlil bundan başqa, ondan daha səhih olan bir kəlmə də zikr etmişdir. O demişdir: التَّوْعُ (ət-tövc) – südün qatığını və ya yağı çörək qırıntısı ilə qırıb onu qaldırmağındır.",
+ "az": "[توع]\nالتاء والواو والعين (ta, vav və ayn) tək bir kəlmədir. Əbu Ubeyd Əbu Zeyddən rəvayət edərək demişdir:\nأتاع الرّجُل إتاعةً (Kişi qusduqda belə deyilir). Əl-Qutaminin bu sözü də bundandır:\n* تمجُّ عُرُوقُها عَلقاً مُتَاعَا (٤) *\n(Onun damarları qusulub atılmış qan laxtasını püskürür).\nƏl-Xəlil isə bundan başqa və bundan daha səhih bir kəlmə zikr edərək demişdir: التَّوْعُ (ət-tav') – bişmiş ağuz südünü və ya yağı bir çörək parçası ilə qoparıb onunla qaldırmağındır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:53.836Z"
+ "ts": "2026-10-25T00:38:53.836Z",
+ "prev_az": "[توع] (t-v-ayin): Ta, vaf və əyn hərfləri tək bir kəlmədir. Əbu Übeyd Əbu Zeyddən rəvayət edərək demişdir: أَتَاعَ الرَّجُلُ إِتَاعَةً (ataə ər-racülu itaətən) – kişi qustuğu zaman. Qutaminin bu sözü də bundandır: * تَمُجُّ عُرُوقُها عَلَقاً مُتَاعَا (٤) * (Damarları qusulan qatı qanı püskürür). Xəlil bundan başqa, ondan daha səhih olan bir kəlmə də zikr etmişdir. O demişdir: التَّوْعُ (ət-tövc) – südün qatığını və ya yağı çörək qırıntısı ilə qırıb onu qaldırmağındır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«لِبَأً» sözü «ağuz südü» olduğu halda, «südün qatığı» kimi yanlış tərcümə edilmişdir.",
+  "«بِكسْرةِ خُبزٍ» ifadəsi «çörək tikəsi/parçası ilə» deməkdir, «çörək qırıntısı ilə» deyil.",
+  "Hərf adı «vaf» deyil, «vav»dır."
+ ],
+ "review_ts": "2026-11-15T16:50:18.833Z"
 }

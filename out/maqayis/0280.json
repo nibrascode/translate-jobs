@@ -11,7 +11,17 @@
   "page_to": 271
  },
  "ar": "الباء والعين والطاء ليس بأصل، وذلك أنّ الطاء فى أبعط مبدلة من دال. يقال أبعط فى السّوم، مثل أبعد.\n[(باب الباء والغين وما يثلثهما)]",
- "az": "[بعط] الباء، العين və الطاء — əsas kök deyil, çünki «أبعط» sözündəki «ط» hərfi «د» hərfinin əvəzinə işlənmişdir. «أبعط فى السّوم» (qiymət qoyularkən aldadılması) — «أبعد» sözü kimidir.",
+ "az": "[بعط]\nالباء، العين və الطاء əsas kök deyil, çünki أبعط sözündəki ط hərfi د hərfindən əvəz olunmuşdur. Deyilir: أبعط فى السّوم (qiymət qoymaqda həddi aşdı, uzağa getdi), bu da أبعد (uzaqlaşdı) kimidir.\n[(باب الباء والغين وما يثلثهما) — (Ba, ğayn və onlara üçüncü olan hərflər babı)]",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:31:47.354Z"
+ "ts": "2026-10-25T00:31:47.354Z",
+ "prev_az": "[بعط] الباء، العين və الطاء — əsas kök deyil, çünki «أبعط» sözündəki «ط» hərfi «د» hərfinin əvəzinə işlənmişdir. «أبعط فى السّوم» (qiymət qoyularkən aldadılması) — «أبعد» sözü kimidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«أبعط فى السّوم» ifadəsinin mənası yanlış tərcümə edilib.",
+  "«[(باب الباء والغين وما يثلثهما)]» bölmə başlığı buraxılıb."
+ ],
+ "review_ts": "2026-11-15T15:53:36.868Z"
 }

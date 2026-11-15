@@ -11,9 +11,19 @@
   "page_to": 120
  },
  "ar": "الهمزة والفاء والراء يدلُّ على خفّةٍ واختلاط. يقال أَفَرَ الرَّجُل، إذا خفَّ فى الخدمة. والمِئْفَرُ الخادم. والأُفْرة: الاختلاط.",
- "az": "«أفر» — Həmzə, fa və ra hərfləri yüngüllüyə və qarışıqlığa dəlalət edir. «أفَرَ الرَّجُل» – kişi xidmətdə yüngül və çevik oldu,, deməkdir. «المِئْفَرُ» (əl-mi'fər) – xidmətçi. «الأُفْرة» (əl-ufrə) – qarışıqlıq.",
+ "az": "[أفر]\nHəmzə, fa və ra (hərfləri) yüngüllüyə və qarışıqlığa dəlalət edir. «أَفَرَ الرَّجُل» — kişi xidmətdə yüngül və çevik oldu, deməkdir. «المِئْفَرُ» (əl-mi'fər) — xidmətçidir. «الأُفْرة» (əl-ufrə) — qarışıqlıqdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-24T19:05:19.433Z",
- "review_attempts": 1,
- "review_last_error": "tərcümə olunmayıb"
+ "review_last_error": "tərcümə olunmayıb",
+ "prev_az": "«أفر» — Həmzə, fa və ra hərfləri yüngüllüyə və qarışıqlığa dəlalət edir. «أفَرَ الرَّجُل» – kişi xidmətdə yüngül və çevik oldu,, deməkdir. «المِئْفَرُ» (əl-mi'fər) – xidmətçi. «الأُفْرة» (əl-ufrə) – qarışıqlıq.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[أفر]» formatı ilə başlamır.",
+  "«أَفَرَ الرَّجُل» sözündəki fəthə hərəkəsi buraxılmışdır («أفَرَ الرَّجُل»).",
+  "Mətndə «oldu,,» şəklində qoşa vergül xətası var."
+ ],
+ "review_ts": "2026-11-15T15:39:07.508Z"
 }

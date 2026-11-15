@@ -13,5 +13,10 @@
  "ar": "الثاء والهاء واللام كلمةٌ واحدة وهو جبَل يقال له ثهْلَان، وهو مشهور. وقد قالوا - وما أحسبه صحيحاً - إنّ الثَّهَلَ الانبساطُ على وجه الأرض.",
  "az": "[ثهل] الثاء (sə), الهاء (hə) və اللام (lam) tək bir kəlmədir, bu «ثهْلَان» (Səhlan) deyilən məşhur bir dağdır. Dedilər ki - mən bunun düzgün olduğunu düşünmürəm - «الثَّهَلُ» (əs-səhəl) yer üzündə yayılmaqdır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:42:17.837Z"
+ "ts": "2026-10-25T00:42:17.837Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:56:34.255Z"
 }

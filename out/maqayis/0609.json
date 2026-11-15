@@ -11,7 +11,17 @@
   "page_to": 435
  },
  "ar": "الجيم والدال والباء أصلٌ واحدٌ يدلّ على قلّة الشئ.\nفالجدب: خِلاف الخِصْب، ومكانٌ جدِيبٌ.\nومن قياسه الجَدْبُ، وهو العَيْب والتنقُّص. يقال جَدَبْتُه إذا عِبْتَه.\nو\nفى الحديث: «جدَبَ لهم السَّمَرَ بعد العِشاء (٤)». أى عابه. قال ذو الرمة:\nفيالكَ مِنْ خدٍّ أسيلٍ ومنطقٍ … رحيمٍ ومِنْ خَلْقٍ تَعَلّلَ جادبُهْ (٥)\nأى إنّه تعلَّلَ بالباطل لمَّا لم يجدْ إلى الحقِّ سبيلا.",
- "az": "[جدب]: الجيم والدال والباء أصلٌ واحدٌ يدلّ على قلّة الشئ (Cim, dal və ba hərfləri şeyin azlığına dəlalət edən tək bir əsas kökdür).\nفالجدب: خِلاف الخِصْب، ومكانٌ جدِيبٌ (Əlc-cədb: bolluğun ziddidir, cədib də – quraq məkandır).\nومن قياسه الجَدْبُ، وهو العَيْب والتنقُّص. يقال جَدَبْتُه إذا عِبْتَه (Onun qiyasındandır əl-cədb – o da eyib tutmaq və əskiltməkdir. Deyilir: «Cədəbtuhu» – onu qınadın/eyiblədin).\nVə\nفى الحديث: «جدَبَ لهم السَّمَرَ بعد العِشاء (٤)». أى عابه. قال ذو الرمة (Hədisdə: «Cədəbə ləhumüs-səmərə bədl-işai» – yəni gecəlamasını onlara qınadı. Zü-Rrumə demişdir):\nفيالكَ مِنْ خدٍّ أسيلٍ ومنطقٍ … رحيمٍ ومِنْ خَلْقٍ تَعَلّلَ جادبُهْ (٥)\nأى إنّه تعلَّلَ بالباطل لمَّا لم يجدْ إلى الحقِّ سبيلا (Yəni o, haqqı tapmadıqda batil ilə bəhanə gətirdi).",
+ "az": "[جدب]\nالجيم والدال والباء أصلٌ واحدٌ يدلّ على قلّة الشئ.\n(Cim, dal və ba hərfləri bir şeyin azlığına dəlalət edən tək bir əsas kökdür).\nفالجدب: خِلاف الخِصْب، ومكانٌ جدِيبٌ.\n(«الجَدْب» (əl-cədb): bolluğun ziddidir, «مكان جدِيب» (məkanun cədib) – quraq məkandır).\nومن قياسه الجَدْبُ، وهو العَيْب والتنقُّص. يقال جَدَبْتُه إذا عِبْتَه.\n(Onun qiyasındandır «الجَدْب» (əl-cədb) – o da eyib tutmaq və əskiltməkdir. Deyilir: «جَدَبْتُه» (onu eyiblədim)).\nو\nفى الحديث: «جدَبَ لهم السَّمَرَ بعد العِشاء (٤)». أى عابه. قال ذو الرمة:\n(Hədisdə gəlmişdir: «جدَبَ لهم السَّمَرَ بعد العِشاء» (İşadan sonra gecə söhbətini onlar üçün qınadı) (٤). Yəni onu ayıbladı. Zür-Rummə demişdir):\nفيالكَ مِنْ خدٍّ أسيلٍ ومنطقٍ … رحيمٍ ومِنْ خَلْقٍ تَعَلّلَ جادبُهْ (٥)\n(Nə gözəl hamar yanaq, yumşaq danışıq və elə bir xasiyyət ki, onu qınayan batil bəhanə axtarır (٥)).\nأى إنّه تعلَّلَ بالباطل لمَّا لم يجدْ إلى الحقِّ سبيلا.\n(Yəni o, haqqa yol tapmadıqda batil ilə bəhanə gətirdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:06.593Z"
+ "ts": "2026-10-25T00:45:06.593Z",
+ "prev_az": "[جدب]: الجيم والدال والباء أصلٌ واحدٌ يدلّ على قلّة الشئ (Cim, dal və ba hərfləri şeyin azlığına dəlalət edən tək bir əsas kökdür).\nفالجدب: خِلاف الخِصْب، ومكانٌ جدِيبٌ (Əlc-cədb: bolluğun ziddidir, cədib də – quraq məkandır).\nومن قياسه الجَدْبُ، وهو العَيْب والتنقُّص. يقال جَدَبْتُه إذا عِبْتَه (Onun qiyasındandır əl-cədb – o da eyib tutmaq və əskiltməkdir. Deyilir: «Cədəbtuhu» – onu qınadın/eyiblədin).\nVə\nفى الحديث: «جدَبَ لهم السَّمَرَ بعد العِشاء (٤)». أى عابه. قال ذو الرمة (Hədisdə: «Cədəbə ləhumüs-səmərə bədl-işai» – yəni gecəlamasını onlara qınadı. Zü-Rrumə demişdir):\nفيالكَ مِنْ خدٍّ أسيلٍ ومنطقٍ … رحيمٍ ومِنْ خَلْقٍ تَعَلّلَ جادبُهْ (٥)\nأى إنّه تعلَّلَ بالباطل لمَّا لم يجدْ إلى الحقِّ سبيلا (Yəni o, haqqı tapmadıqda batil ilə bəhanə gətirdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hədis və şeir beytinin tərcüməsi buraxılmışdır.",
+  "Tərcümədə «Əlc-cədb» kimi hərf səhvi var."
+ ],
+ "review_ts": "2026-11-15T17:01:01.190Z"
 }

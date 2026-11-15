@@ -11,7 +11,18 @@
   "page_to": 330
  },
  "ar": "ومن ذلك (بَحْثَرْتُ) الشئَ، إذا بَدَدته. والبَحْثَرة: الكَدَر فى الماء.\nوهذه منحوتةٌ من كلمتين: من بحثْتُ الشَّئ فى التراب - وقد فُسِّر فى الثلاثى -\nومن البَثْر الذى يَظْهَر على البَدَن، * وهو عربىٌّ صحيحٌ معروف. وذلك أنَّه يَظْهَرُ متفرِّقاً على الجِلْد.",
- "az": "[بحثر] (Bə-ha-sə-ra) Buradan «بَحْثَرْتُ» (bəhsərtu) kəlməsi gəlir, yəni bir şeyi dağıtdım. «البَحْثَرة» (əl-bəhsərə) sudakı bulanıqlıqdır. Bu, iki kəlmədən nəht edilmişdir: «بحثْتُ» (bəhəstu - axtardım) kəlməsindən ki, üç hərflilərdə izah edilmişdir, və bədəndə çıxan «بَثْر» (bəsr - sızanaq) kəlməsindən ki, bu da ərəbcə düzgün və məlum bir sözdür. Bu, dərinin üzərində səpələnmiş halda çıxır.",
+ "az": "[بحثر]\nBu qəbildəndir: «بَحْثَرْتُ الشئَ» — bir şeyi dağıtdığım zaman deyilir. والبَحْثَرة — sudakı bulanıqlıqdır.\nBu söz iki kəlmədən nəht edilmişdir: «بحثْتُ الشَّئ فى التراب» (bir şeyi torpaqda axtardım, eşələdim) — bu, üçhərflilərdə izah edilmişdir —\nvə bədəndə əmələ gələn البَثْر (əl-bəsr — sızanaq) kəlməsindən; bu, məlum və səhih ərəb sözüdür. Çünki o da dərinin üzərində dağınıq şəkildə üzə çıxır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.769Z"
+ "ts": "2026-10-25T00:37:20.769Z",
+ "prev_az": "[بحثر] (Bə-ha-sə-ra) Buradan «بَحْثَرْتُ» (bəhsərtu) kəlməsi gəlir, yəni bir şeyi dağıtdım. «البَحْثَرة» (əl-bəhsərə) sudakı bulanıqlıqdır. Bu, iki kəlmədən nəht edilmişdir: «بحثْتُ» (bəhəstu - axtardım) kəlməsindən ki, üç hərflilərdə izah edilmişdir, və bədəndə çıxan «بَثْر» (bəsr - sızanaq) kəlməsindən ki, bu da ərəbcə düzgün və məlum bir sözdür. Bu, dərinin üzərində səpələnmiş halda çıxır.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başında AR-da olmayan hərf adları «(Bə-ha-sə-ra)» əlavə edilmişdir.",
+  "«فى التراب» (torpaqda) ifadəsi tərcümədən düşmüşdür.",
+  "Abzas bölgüsü pozulmuşdur."
+ ],
+ "review_ts": "2026-11-15T16:25:16.963Z"
 }

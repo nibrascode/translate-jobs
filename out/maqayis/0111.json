@@ -11,9 +11,19 @@
   "page_to": 125
  },
  "ar": "الهمزة والكاف والميم أصل واحد، وهى تجمُّعُ الشئِ وارتفاعُه قليلاً. قال الخليل: الأكمة تلٌّ من القُفِّ، والجمع آكام وأَكَمٌ.\nواستأكم المكانُ، أى صار كالأكمة. وتجمع على الآكام أيضاً، قال أبو خراش:\nولا أمْغَر السَّاقَينِ ظَلّ كأنّه … على محْزئلاّتِ الإكام نَصِيلُ (١)\nيعنى صَقْراً. احزألَّ: انتصَبَ. نصيل: حَجَر قدْر ذِراع. ومن هذا القياس المَأكَمَتان (٢): لحمتان وصَلَتَا بين العجزُ والتْنَين، قال:\nإذا ضربتها الرِّيح فى المِرْطِ أشرفَتْ … مآكِمُها والزُّلُّ فى الرِّيح تُفْضَحُ (٣)",
- "az": "«أكم» — Həmzə, kaf və mim hərfləri tək bir əslə qayıdır, o da bir şeyin toplanması və bir qədər hündür olmasıdır. Xəlil demişdir: «الأكمة» (əl-əkəmə) – qırov təpəcikdir, cəmi «آكام» (akam) və «أَكَمٌ» (əkəm) gəlir. «استأكم المكانُ» – məkan təpə kimi oldu. O da akam şəklində cəmlənir, Əbu Xiraş demişdir: / Baldırları qızarmamış halda elə durdu ki, sanki İkam təpələrinin sərt qayaları üzərində bir noxurquşudur (١). O, saqarı nəzərdə tutur. «احزألَّ» (ihzəallə) – dikəldi. «نصيل» (nəsil) – təqribən bir qarış böyüklükdə daşdır. Bu qiyasdandır: «المَأكَمَتان» (əl-mə'kəmətan) – sağrı ilə quyruq kökü arasındakı iki əzələ (٢), o demişdir: / Əgər külək onu paltarında vularsa, məkəmləri (o əzələlər) üzə çıxar, züll (tuman) isə küləkdə biabır olar (٣).",
+ "az": "[أكم]\nHəmzə, kaf və mim tək bir əsldir, o da bir şeyin toplanması və bir qədər hündür olmasıdır. Xəlil demişdir: الأكمة — sərt daşlıq yerdəki təpəcikdir, cəmi آكام və أَكَمٌ gəlir.\nاستأكم المكانُ — yəni məkan təpə kimi oldu. O da الآكام şəklində cəmlənir, Əbu Xiraş demişdir:\nولا أمْغَر السَّاقَينِ ظَلّ كأنّه … على محْزئلاّتِ الإكام نَصِيلُ (١) (Baldırları qırmızımtıl olmayan [qızılquş] elə durdu ki, sanki dikəlmiş təpələrin üzərində bir dirsək boyda daşdır).\nO, صَقْر-ı (şahini) nəzərdə tutur. احزألَّ: dikəldi. نصيل: təqribən bir dirsək boyda daşdır. Bu qiyasdandır المَأكَمَتان (٢): sağrı ilə iki bel əzələsi arasında birləşən iki ət parçasıdır, o demişdir:\nإذا ضربتها الرِّيح فى المِرْطِ أشرفَتْ … مآكِمُها والزُّلُّ فى الرِّيح تُفْضَحُ (٣) (Külək onu örtüyünün içində vurduqda məkəmələri [yan əzələləri] qabarıb görünər, arıq sağrılılar isə küləkdə biabır olarlar).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-24T19:05:19.433Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«أكم» — Həmzə, kaf və mim hərfləri tək bir əslə qayıdır, o da bir şeyin toplanması və bir qədər hündür olmasıdır. Xəlil demişdir: «الأكمة» (əl-əkəmə) – qırov təpəcikdir, cəmi «آكام» (akam) və «أَكَمٌ» (əkəm) gəlir. «استأكم المكانُ» – məkan təpə kimi oldu. O da akam şəklində cəmlənir, Əbu Xiraş demişdir: / Baldırları qızarmamış halda elə durdu ki, sanki İkam təpələrinin sərt qayaları üzərində bir noxurquşudur (١). O, saqarı nəzərdə tutur. «احزألَّ» (ihzəallə) – dikəldi. «نصيل» (nəsil) – təqribən bir qarış böyüklükdə daşdır. Bu qiyasdandır: «المَأكَمَتان» (əl-mə'kəmətan) – sağrı ilə quyruq kökü arasındakı iki əzələ (٢), o demişdir: / Əgər külək onu paltarında vularsa, məkəmləri (o əzələlər) üzə çıxar, züll (tuman) isə küləkdə biabır olar (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hər iki şeir beytinin ərəb mətni buraxılmışdır.",
+  "«القُفِّ» sözü «qırov», «نَصِيلُ» sözü isə şeirdə «noxurquşu», izahda «bir qarış» kimi səhv tərcümə edilmişdir.",
+  "«الزُّلُّ» sözü «tuman» kimi səhv tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T15:43:14.375Z"
 }

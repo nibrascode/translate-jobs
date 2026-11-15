@@ -11,7 +11,16 @@
   "page_to": 307
  },
  "ar": "الباء والهاء والواو أصلٌ واحد، وهو البيتُ وما أشبَهَهُ فالبَهْو البيتُ المقدَّم أمامَ البيوت. والهَوْ كِنَاس الثَّور. ويقال البَهْو مَقِيل (١) الولد بين الوركَين من الحَامِلِ. ويقال لجَوْف الإنسان وغيره البَهْو.",
- "az": "[بهو] (bəhv). Ba, hər və vav tək bir əsldir; ev və ona bənzər şeylərdir. البَهْو (əl-bəhv) – evlərin qarşısındakı ön evdir. الهَوْ (əl-həv) – öküzün yuvasıdır. Deyilir: bəhv – hamilə qadının budları arasında uşağın yatdığı yerdir (1). İnsanın və başqalarının daxilinə də bəhv deyilir.",
+ "az": "[بهو]\nBa, hə və vav bir əsldir, o da ev və ona bənzər şeylərdir. البَهْو (əl-bəhv) – evlərin qarşısındakı ön evdir (dəhliz, böyük otaq). الهَوْ (əl-həv) – vəhşi öküzün yuvasıdır. Deyilir ki, البَهْو – hamilə qadının iki budu arasında bətndəki uşağın yatdığı yerdir (١). İnsanın və başqa canlıların qarın boşluğuna da البَهْو deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:54.814Z"
+ "ts": "2026-10-25T00:33:54.814Z",
+ "prev_az": "[بهو] (bəhv). Ba, hər və vav tək bir əsldir; ev və ona bənzər şeylərdir. البَهْو (əl-bəhv) – evlərin qarşısındakı ön evdir. الهَوْ (əl-həv) – öküzün yuvasıdır. Deyilir: bəhv – hamilə qadının budları arasında uşağın yatdığı yerdir (1). İnsanın və başqalarının daxilinə də bəhv deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı «hər» kimi səhv yazılıb (doğrusu: hə)."
+ ],
+ "review_ts": "2026-11-15T16:05:22.225Z"
 }

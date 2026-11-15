@@ -11,7 +11,17 @@
   "page_to": 381
  },
  "ar": "الثاء والفاء والراء كلمةٌ واحدة تدلُّ على المؤخَّر. فالثَّفَرُ ثَفَر الدابة.\nويقال استَثْفَرت المرأة بثَوْبها إذا ائتزرت به ثم رَدَّت طَرَف الإزار من بين رجليها وغرزَتْه فى الحُجْزَة مِنْ ورائه. والثَّفُرْ الحَياء من السّبُعةِ وغيرها. قال:\nجَزَى اللّه فيها الأَعوَرَيْنِ ملامةً … وعَبْدَةَ ثَفْرَ الثَّورةِ المتضاجِمِ (٤)",
- "az": "[ثفر] (Sə, fa və ra) arxa tərəfə dəlalət edən tək bir kəlmədir. الثَّفَرُ (əttəfər) – minik heyvanının quyruqaltıdır.\nDeyilir: استَثْفَرت المرأة بثَوْبها (qadın paltarı ilə quyruqaltı etdi) – o, izarını [bel bağını] bağladı, sonra izarın uşağını ayaqlarının arasından geri çəkib arxadan qurşağa taxdı. الثَّفُرْ (əttəfür) – yırtıcı heyvanın və başqalarının həyasıdır (cinsiyyət organıdır). (Şair) demişdir:\nجَزَى اللّه فيها الأَعوَرَيْنِ ملامةً … وعَبْدَةَ ثَفْرَ الثَّورةِ المتضاجِمِ (٤)\n(Mənanın tərcüməsi: Allah orada iki çaşın qınağını və müztərib erkək donuzun quyruqaltısını Abdaya mükafat olaraq versin...)",
+ "az": "[ثفر] (Sə, fa və ra) arxa tərəfə dəlalət edən tək bir kəlmədir. الثَّفَرُ (əttəfər) – minik heyvanının quyruqaltıdır.\nDeyilir: استَثْفَرت المرأة بثَوْبها (qadın paltarı ilə quyruqaltı etdi) – o, izarını [bel bağını] bağladı, sonra izarın ucunu ayaqlarının arasından geri çəkib arxadan qurşağa taxdı. الثَّفُرْ (əttəfür) – yırtıcı heyvanın və başqalarının həyasıdır (cinsiyyət üzvüdür). (Şair) demişdir:\nجَزَى اللّه فيها الأَعوَرَيْنِ ملامةً … وعَبْدَةَ ثَفْرَ الثَّورةِ المتضاجِمِ (٤)\n(Allah orada iki çaşın qınağını və eybəcər dişi inəyin fərcini Abdaya cəza olaraq versin...)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:59.492Z"
+ "ts": "2026-10-25T00:39:59.492Z",
+ "prev_az": "[ثفر] (Sə, fa və ra) arxa tərəfə dəlalət edən tək bir kəlmədir. الثَّفَرُ (əttəfər) – minik heyvanının quyruqaltıdır.\nDeyilir: استَثْفَرت المرأة بثَوْبها (qadın paltarı ilə quyruqaltı etdi) – o, izarını [bel bağını] bağladı, sonra izarın uşağını ayaqlarının arasından geri çəkib arxadan qurşağa taxdı. الثَّفُرْ (əttəfür) – yırtıcı heyvanın və başqalarının həyasıdır (cinsiyyət organıdır). (Şair) demişdir:\nجَزَى اللّه فيها الأَعوَرَيْنِ ملامةً … وعَبْدَةَ ثَفْرَ الثَّورةِ المتضاجِمِ (٤)\n(Mənanın tərcüməsi: Allah orada iki çaşın qınağını və müztərib erkək donuzun quyruqaltısını Abdaya mükafat olaraq versin...)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«طرف الإزار» ifadəsinin tərcüməsində mexaniki səhvlə «izarın ucunu» əvəzinə «izarın uşağını» yazılmışdır.",
+  "Şeir tərcüməsində «الثَّورةِ» (dişi inək) sözü yanlış olaraq «erkək donuz» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T16:55:25.143Z"
 }

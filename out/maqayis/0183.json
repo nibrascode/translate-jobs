@@ -11,9 +11,18 @@
   "page_to": 197
  },
  "ar": "الباء والثاء والألف كلمةٌ واحدة لا يُقاس عليها ولا يشتقّ منها، وهى البَثَاء: أرضٌ سهلة. وهى أرضٌ بعينها (٢). قال:\nرفعت لها طَرْفِى وقد حَالَ دُونها … جُموعٌ وخيلٌ بالبَثَاءِ تُغِيرُ (٣)",
- "az": "«بثا» (Bəşə)\nالباء والثاء والألف كلمةٌ واحدة لا يُقاس عليها ولا يشتقّ منها، وهى البَثَاء: أرضٌ سهلة. (Bə, sə və əlif — əsas alınmayan və ondan söz törədilməyən tək sözdür, o da əl-bəşadır: hamar yer.)\nوهى أرضٌ بعينها (٢). (Və o, müəyyən bir yerdir (2).)\nقال: (O demişdir:)\nرفعت لها طَرْفِى وقد حَالَ دُونها … جُموعٌ وخيلٌ بالبَثَاءِ تُغِيرُ (٣)\n(Gözümü ona tərəf qaldırdım, halbuki onunla mənim aramda toplular və bəşada hücum edən atlılar maneə olmuşdu (3))",
+ "az": "[بثا]\nالباء والثاء والألف كلمةٌ واحدة لا يُقاس عليها ولا يشتقّ منها، وهى البَثَاء: أرضٌ سهلة. (Bə, sə və əlif — əsas alınmayan və ondan söz törədilməyən tək sözdür, o da əl-bəsadır: hamar yer.) وهى أرضٌ بعينها (٢). (Və o, müəyyən bir yerdir (٢).) قال: (O demişdir:)\nرفعت لها طَرْفِى وقد حَالَ دُونها … جُموعٌ وخيلٌ بالبَثَاءِ تُغِيرُ (٣)\n(Gözümü ona tərəf qaldırdım, halbuki onunla mənim aramda toplular və Bəsada hücum edən atlılar maneə olmuşdu (٣))",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:26:42.582Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«بثا» (Bəşə)\nالباء والثاء والألف كلمةٌ واحدة لا يُقاس عليها ولا يشتقّ منها، وهى البَثَاء: أرضٌ سهلة. (Bə, sə və əlif — əsas alınmayan və ondan söz törədilməyən tək sözdür, o da əl-bəşadır: hamar yer.)\nوهى أرضٌ بعينها (٢). (Və o, müəyyən bir yerdir (2).)\nقال: (O demişdir:)\nرفعت لها طَرْفِى وقد حَالَ دُونها … جُموعٌ وخيلٌ بالبَثَاءِ تُغِيرُ (٣)\n(Gözümü ona tərəf qaldırdım, halbuki onunla mənim aramda toplular və bəşada hücum edən atlılar maneə olmuşdu (3))",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ث» (sa) hərfi «Bəşə», «əl-bəşa» və «bəşada» sözlərində səhvən «ş» kimi verilmişdir («Bəsa», «əl-bəsa» və «Bəsada» olmalıdır).",
+  "Haşiyə rəqəmləri «(٢)» və «(٣)» ərəb rəqəmləri əvəzinə «(2)» və «(3)» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T15:42:19.755Z"
 }

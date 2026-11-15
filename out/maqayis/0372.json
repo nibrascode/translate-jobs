@@ -11,7 +11,17 @@
   "page_to": 330
  },
  "ar": "ومن ذلك قولهم ضَرَبه ف (بَخْذَعَهُ). وهو من قولك خُذِّع إذا حُزِّزَ وقُطِّع. ومنه:\n* فكلاهُما بَطَلُ اللِّقاءِ مُخَذَّعُ (٢) *\nوقد فُسِّر - ومن بُذِعَ، يقال بُذِعُوا فَابْذَعرُّوا، إذا تَفَرَّقوا.",
- "az": "[بخذع] (Bə-ha-zal-əyn) Buradan onların «ضَرَبه فَبَخْذَعَهُ» (dərəbəhu fəbəhzəəhu - onu vurdu və parçaladı) ifadəsi gəlir. Bu, «خُذِّع» (huzzia - parçalandı) kəlməsindəndir, yəni doğrandı və kəsildi. Ondan: * Fəkilahuma bələlul-liqai muxəzzəu (2) * (İkisi də döyüş meydanının parçalanmış qəhrəmanlarıdır). Bu izah edilmişdir. Həmçinin «بُذِعَ» (buzia) kəlməsindən, deyilir ki, «بُذِعُوا فَابْذَعرُّوا» (buziu fəbzə’ərru - onlar dağıldılar, pərən-pərən oldular).",
+ "az": "[بخذع]\nBu qəbildəndir onların «ضَرَبه فَبَخْذَعَهُ» (onu vurdu və parçaladı) sözü. Bu, sənin «خُذِّع» sözündəndir ki, kəsilib parçalandıqda deyilir. Şairin bu sözü də ondandır:\n* فكلاهُما بَطَلُ اللِّقاءِ مُخَذَّعُ (٢) *\n(Hər ikisi döyüş meydanının parça-parça edilmiş igididir).\nVə bu izah edilmişdir. Digəri isə بُذِعَ sözündəndir; deyilir: «بُذِعُوا فَابْذَعرُّوا» — dağılışıb pərən-pərən düşdükdə deyilər.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.769Z"
+ "ts": "2026-10-25T00:37:20.769Z",
+ "prev_az": "[بخذع] (Bə-ha-zal-əyn) Buradan onların «ضَرَبه فَبَخْذَعَهُ» (dərəbəhu fəbəhzəəhu - onu vurdu və parçaladı) ifadəsi gəlir. Bu, «خُذِّع» (huzzia - parçalandı) kəlməsindəndir, yəni doğrandı və kəsildi. Ondan: * Fəkilahuma bələlul-liqai muxəzzəu (2) * (İkisi də döyüş meydanının parçalanmış qəhrəmanlarıdır). Bu izah edilmişdir. Həmçinin «بُذِعَ» (buzia) kəlməsindən, deyilir ki, «بُذِعُوا فَابْذَعرُّوا» (buziu fəbzə’ərru - onlar dağıldılar, pərən-pərən oldular).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başında AR-da olmayan hərf adları əlavə edilmişdir.",
+  "Şeir misrasının ərəbcə mətni buraxılmış, yalnız latın qrafikalı tərcüməsi/oxunuşu verilmişdir."
+ ],
+ "review_ts": "2026-11-15T16:25:16.966Z"
 }

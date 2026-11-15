@@ -14,6 +14,10 @@
  "az": "[بخو] (bə-xə-v): الباء والخاء والواو، كلمةٌ واحدةٌ لا يُقاسُ عليها (Bə, xa və vav bir kəlmədir, müqayisə edilməz). قال ابنَ دريد: البَخْو الرُّطَب الردِىّ، يقال رُطَبَةُ بَخْوةٌ (İbn Dureyd demişdir: əl-bəxv xarab, keyfiyyətsiz yaş xurmadır, rutbətün bəxvətün deyilir).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:27:58.605Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T15:44:26.703Z"
 }

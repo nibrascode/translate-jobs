@@ -11,7 +11,18 @@
   "page_to": 244
  },
  "ar": "الباء والزاء والقاف أصلٌ واحد، وهو إلقاء الشئ، يقال بَزَق الإنسانُ، مثلُ بَصَق. وأهل اليَمَن يقولون: بَزَق الأرَضَ إذا بَذَرَها (١)",
- "az": "[بزق] (bəzəq). باء (ba), زاء (zay) və قاف (qaf) hərfləri tək bir əsasdır ki, o da bir şeyi (ağızdan) atməkdir. İnsan «bəzəqə» (بَزَقَ) — tüpürdü, «bəsəqə» (بَصَقَ) kimidir. Yəmən əhli isə deyir: بَزَق الأرَضَ (bəzəqəl-ərzə) — torpağa toxum səpdi (1).",
+ "az": "[بزق]\nباء (ba), زاء (zey) və قاف (qaf) hərfləri tək bir əsasdır ki, o da bir şeyi atmaqdır. İnsan haqqında بَزَق الإنسانُ (tüpürdü) deyilir, بَصَق kimidir. Yəmən əhli isə deyir: بَزَق الأرَضَ (torpağa toxum səpdi) (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:30:02.135Z"
+ "ts": "2026-10-25T00:30:02.135Z",
+ "prev_az": "[بزق] (bəzəq). باء (ba), زاء (zay) və قاف (qaf) hərfləri tək bir əsasdır ki, o da bir şeyi (ağızdan) atməkdir. İnsan «bəzəqə» (بَزَقَ) — tüpürdü, «bəsəqə» (بَصَقَ) kimidir. Yəmən əhli isə deyir: بَزَق الأرَضَ (bəzəqəl-ərzə) — torpağa toxum səpdi (1).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "\"إلقاء الشئ\" ifadəsinə mətni məhdudlaşdıran \"(ağızdan)\" sözü əlavə edilib və \"atməkdir\" kimi yazı xətası var.",
+  "\"بَزَق الإنسانُ\" ifadəsində \"deyilir\" feli buraxılıb.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə \"(١)\" deyil, \"(1)\" kimi verilib."
+ ],
+ "review_ts": "2026-11-15T15:48:41.303Z"
 }

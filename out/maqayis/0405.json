@@ -11,7 +11,18 @@
   "page_to": 335
  },
  "ar": "ناقة بِرْعِس (٨): غَزِيرة.",
- "az": "[برعس] (Bə-ra-əyn-sin) «ناقة بِرْعِس» (naqatu bir’is): südü bol olan dəvə.",
+ "az": "[برعس] ناقة بِرْعِس (٨) (südü bol olan dəvədir).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.771Z"
+ "ts": "2026-10-25T00:37:20.771Z",
+ "prev_az": "[برعس] (Bə-ra-əyn-sin) «ناقة بِرْعِس» (naqatu bir’is): südü bol olan dəvə.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizə formatı pozulub.",
+  "Haşiyə rəqəmi (٨) buraxılıb.",
+  "Gərəksiz hərf adları və transliterasiya əlavə edilib."
+ ],
+ "review_ts": "2026-11-15T16:40:02.266Z"
 }

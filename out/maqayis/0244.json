@@ -11,7 +11,20 @@
   "page_to": 247
  },
  "ar": "الباء والسين والطاء أصلٌ واحدٌ، وهو امتِدادُ الشَّئ فى عِرَض أو غير عِرَض. فالبِساط ما يُبْسط. والبَسَاط الأرض، وهى البسيطة.\nيقال مكان بَسِيطٌ وبَساط. قال:\nودونَ يَدِ الحَجّاج مِنْ أنْ تنالَنى … بَسَاطٌ لأيْدِى النَّاعِجاتِ عريضُ (١)\nويَدُ فلانٍ بِسْطٌ، إذا كان مِنْفَاقا، والبَسْطة فى كلّ شئ السَّعَة وهو بَسيط الجسْمِ والباعِ والعِلْم. قال اللّه تعالى: ﴿وَزادَهُ بَسْطَةً فِي اَلْعِلْمِ وَاَلْجِسْمِ﴾. ومن هذا الأصل وإليه يرجع، قولُهم للنَّاقة التى خُلِّيت هى ووَلَدَها لا تُمنَع منه: بُسْط.",
- "az": "[بسط] (bəst) — با (ba), سين (sin) və طاء (ta) tək bir əsas mənaya malikdir, o da bir şeyin eninə və ya digər şəkildə uzanmasıdır. «البِساط» (bist) – sərilən şeydir. «البَسَاط» (bəsat) isə yerdir, hansı ki o, «البسيطة» (bəsitə - düzənlik, səthi geniş yer) adlanır. «مكان بَسِيطٌ» (bəsit məkan) və «بَساط» (bəsat) deyilir. Şair demişdir: ودونَ يَدِ الحَجّاج مِنْ أنْ تنالَنى … بَساطٌ لأيْدِى النَّاعِجاتِ عريضُ (١) (Həccacın əli mənə çatmaqdan əvvəl, sürətli dəvə əlləri üçün gen-börək bir səhra var). «يَدُ فلانٍ بِسْطٌ» (filankəsin əli açıqdır) – əgər o, səxavətli, əliaçıqdırsa; hər şeydə «البَسْطة» (bəstə) – genişlik deməkdir, o, bədəni, qolu və elmi baxımından genişdir (bəsitdir). Uca Allah buyurmuşdur: mənaca tərcümə: «Və ona elmdə və bədəndə genişlik (bəstə) artırdı». Bu əsərdəndir və yenə ona qayıdır, dəvəyə aid edilən «بُسْط» (bust) sözü ki, o və balası sərbəst buraxılmış, balası ondan məhrum edilməmişdir.",
+ "az": "[بسط]\nبا (ba), سين (sin) və طاء (ta) tək bir əsas mənaya malikdir, o da bir şeyin eninə və ya digər şəkildə uzanmasıdır. «البِساط» (bisat) – sərilən şeydir. «البَسَاط» (bəsat) isə yerdir, hansı ki o, «البسيطة» (bəsitə - düzənlik, səthi geniş yer) adlanır.\n«مكان بَسِيطٌ» (bəsit məkan) və «بَساط» (bəsat) deyilir. Şair demişdir:\nودونَ يَدِ الحَجّاج مِنْ أنْ تنالَنى … بَسَاطٌ لأيْدِى النَّاعِجاتِ عريضُ (١) (Həccacın əli mənə çatmaqdan əvvəl, sürətli dəvə əlləri üçün geniş bir səhra var).\n«يَدُ فلانٍ بِسْطٌ» (filankəsin əli açıqdır) – əgər o, səxavətli, əliaçıqdırsa; hər şeydə «البَسْطة» (bəstə) – genişlik deməkdir, o, bədəni, qolu və elmi baxımından genişdir (bəsitdir). Uca Allah buyurmuşdur: ﴿وَزادَهُ بَسْطَةً فِي اَلْعِلْمِ وَاَلْجِسْمِ﴾ (mənaca tərcümə: «Və ona elmdə və bədəndə genişlik (bəstə) artırdı»). Bu əsldəndir və yenə ona qayıdır, dəvəyə aid edilən «بُسْط» (bust) sözü ki, o və balası sərbəst buraxılmış, balası ondan məhrum edilməmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:30:24.233Z"
+ "ts": "2026-10-25T00:30:24.233Z",
+ "prev_az": "[بسط] (bəst) — با (ba), سين (sin) və طاء (ta) tək bir əsas mənaya malikdir, o da bir şeyin eninə və ya digər şəkildə uzanmasıdır. «البِساط» (bist) – sərilən şeydir. «البَسَاط» (bəsat) isə yerdir, hansı ki o, «البسيطة» (bəsitə - düzənlik, səthi geniş yer) adlanır. «مكان بَسِيطٌ» (bəsit məkan) və «بَساط» (bəsat) deyilir. Şair demişdir: ودونَ يَدِ الحَجّاج مِنْ أنْ تنالَنى … بَساطٌ لأيْدِى النَّاعِجاتِ عريضُ (١) (Həccacın əli mənə çatmaqdan əvvəl, sürətli dəvə əlləri üçün gen-börək bir səhra var). «يَدُ فلانٍ بِسْطٌ» (filankəsin əli açıqdır) – əgər o, səxavətli, əliaçıqdırsa; hər şeydə «البَسْطة» (bəstə) – genişlik deməkdir, o, bədəni, qolu və elmi baxımından genişdir (bəsitdir). Uca Allah buyurmuşdur: mənaca tərcümə: «Və ona elmdə və bədəndə genişlik (bəstə) artırdı». Bu əsərdəndir və yenə ona qayıdır, dəvəyə aid edilən «بُسْط» (bust) sözü ki, o və balası sərbəst buraxılmış, balası ondan məhrum edilməmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«البِساط» sözünün oxunuşu «bist» kimi səhv yazılmışdır («bisat» olmalıdır).",
+  "Şeir beytindəki «بَسَاطٌ» sözünün fəthə hərəkəsi silinmiş və tərcümədə «gen-börək» kimi yanlış ifadə işlədilmişdir.",
+  "Quran ayəsinin ərəbcə mətni («﴿وَزادَهُ بَسْطَةً فِي اَلْعِلْمِ وَاَلْجِسْمِ﴾») buraxılmışdır.",
+  "«ومن هذا الأصل» ifadəsi «Bu əsərdəndir» kimi səhv tərcümə edilmişdir («Bu əsldəndir» olmalıdır).",
+  "Abzas bölgüsü ərəbcə mətnə uyğun saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-15T15:47:59.982Z"
 }

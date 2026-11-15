@@ -11,7 +11,18 @@
   "page_to": 377
  },
  "ar": "الثاء والعين والميم ليس أصلاً معوّلا عليه. أمَّا ابنُ دريدٍ فلم يذكره أصلاً. وأمّا الخليل فجعله مرّة فى المهمل، كذا خُبِّرْنا به عنه. وذُكِرَ عنه مرّةً أَنَّ الثَّعْم النَّزْع والجرّ؛ يقال ثَعَمْتُه أى نزعتُه وجرَرته. وذكر عنه أنّه [يقال] تثعَّمَتْ فلاناً أَرضُ بنى فلانٍ، إذا أعجبَتْه وجرّتْه إليها ونزعَتْه.\nوقال قوم: هذا تصحيفٌ، إنّما هو تنعّمَتْه فتنعَّمَ، أى أَرَتْهُ ما فيه له نعيمٌ فتنعَّمَ، أى أعْمَلَ نعامةَ رِجْلهِ مَشْياً إليها. وما هذا عندى إلاّ كالأوّل. وما صحَّتْ بشئٍ منه رِواية.",
- "az": "[ثعم] الثاء والعين والميم ليس أصلاً معوّلا عليه (Thə, ayn və mim üzərində dayanılacaq əsas deyil). İbn Dureydə gəldikdə isə o, bunu əsla zikr etməmişdir. Xəlilə gəldikdə isə o, bunu bir dəfə \"əl-Məhməl\"də qeyd etmişdir, bizə ondan belə xəbər verilmişdir. Ondan zikr edilmişdir ki, əs-səəm (الثَّعْم) çəkmək və dartmaqdır; deyilir: ثَعَمْتُه (Səamtuhu), yəni onu çəkdim və dartdım. Ondan zikr edilmişdir ki, [deyilir]: تثعَّمَتْ فلاناً أَرضُ بنى فلانٍ (Filan qəbilənin torpağı filankəsi təsəmüm etdi), o, xoşuna gəldiyi və onu özünə tərəf çəkib dartdığı zaman. Bir qrup demişdir: Bu, təshifdir (hərf səhvidir), əslində isə تنعّمَتْه فتنعَّmə (tənəmməthü fətənəmmə) kəlməsidir, yəni qadın ona özündəki neməti göstərdi, o da nemətləndi, yəni ora doğru gedərkən ayağının dəvəquşu kimi addımını işlətdi. Bu mənim yanımda birincidən başqa bir şey deyildir. Və bunların heç biri ilə rəvayət səhih olmamışdır.",
+ "az": "[ثعم] الثاء (sa), العين (ayn) və الميم (mim) etibar ediləcək bir kök (əsas) deyildir. İbn Dureydə gəlincə, o, bunu ümumiyyətlə zikr etməmişdir. Xəlilə gəlincə, o, bunu bir dəfə mühməl (işlənməyən) sözlər sırasında vermişdir; ondan bizə belə xəbər verilmişdir. Ondan bir dəfə zikr edilmişdir ki, الثَّعْم (əs-sa'm) qoparmaq və dartıb çəkməkdir; deyilir: ثَعَمْتُه (sa'amtuhu), yəni onu qopardım və dartıb çəkdim. Həmçinin ondan zikr edilmişdir ki: تثعَّمَتْ فلاناً أَرضُ بنى فلانٍ (Filan qəbilənin torpağı filankəsi cəlb etdi), o zaman ki, onun xoşuna gələr, onu özünə tərəf çəkər və qopardar.\nBir qrup insan demişdir: Bu, hərf səhvidir (təshifdir), bu ancaq تنعّمَتْه فتنعَّمَ (təna'amathum fə-təna'ama) kəlməsidir, yəni [torpaq] onda nemət olduğunu ona göstərdi, o da nemətləndi, yəni ona doğru yeriyərək ayağının dabanını işə saldı. Bu mənim yanımda birincidən fərqli bir şey deyildir. Və bunlardan heç bir şey rəvayətlə səhih olmamışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.076Z"
+ "ts": "2026-10-25T00:39:38.076Z",
+ "prev_az": "[ثعم] الثاء والعين والميم ليس أصلاً معوّلا عليه (Thə, ayn və mim üzərində dayanılacaq əsas deyil). İbn Dureydə gəldikdə isə o, bunu əsla zikr etməmişdir. Xəlilə gəldikdə isə o, bunu bir dəfə \"əl-Məhməl\"də qeyd etmişdir, bizə ondan belə xəbər verilmişdir. Ondan zikr edilmişdir ki, əs-səəm (الثَّعْم) çəkmək və dartmaqdır; deyilir: ثَعَمْتُه (Səamtuhu), yəni onu çəkdim və dartdım. Ondan zikr edilmişdir ki, [deyilir]: تثعَّمَتْ فلاناً أَرضُ بنى فلانٍ (Filan qəbilənin torpağı filankəsi təsəmüm etdi), o, xoşuna gəldiyi və onu özünə tərəf çəkib dartdığı zaman. Bir qrup demişdir: Bu, təshifdir (hərf səhvidir), əslində isə تنعّمَتْه فتنعَّmə (tənəmməthü fətənəmmə) kəlməsidir, yəni qadın ona özündəki neməti göstərdi, o da nemətləndi, yəni ora doğru gedərkən ayağının dəvəquşu kimi addımını işlətdi. Bu mənim yanımda birincidən başqa bir şey deyildir. Və bunların heç biri ilə rəvayət səhih olmamışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«qadın» sözü ərəbcə mətndə yoxdur və uydurma əlavədir.",
+  "«təsəmüm etdi» tərcüməsi yanlışdır.",
+  "Ərəbcə sözlərin mənaları mötərizədə düzgün verilməyib."
+ ],
+ "review_ts": "2026-11-15T16:55:14.163Z"
 }

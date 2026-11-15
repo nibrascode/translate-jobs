@@ -11,7 +11,17 @@
   "page_to": 310
  },
  "ar": "الباء والهاء والقاف كلمةٌ واحدةٌ، وهو سوادٌ يعترِى الجلدَ، أو لونٌ يخالِفُ لونَه. قال رؤبة:\n* كأنَّه فى الجِلْد تَولِيعُ البَهَقْ (٣) *",
- "az": "«ب» (با), «ه» (هə) və «ق» (قاف) tək bir kəlmədir, o da dərini bürüyən qaraltı və ya dərinin rəngindən fərqli olan rəngdir. Rühbə demişdir:\n* كأنَّه فى الجِلْد تَولِيعُ البَهَقْ (٣) *\n(Sanki dərinin üzərində alacalı bəhək ləkəsidir)",
+ "az": "[بهق]\nBa, hə və qaf tək bir kəlmədir; o, dərini bürüyən qaraltı və ya dərinin öz rənginə müxalif olan bir rəngdir (bəhək ləkəsidir). Rubə demişdir:\n* كأنَّه فى الجِلْد تَولِيعُ البَهَقْ (٣) *\n(Dəridəki bəhək xalları kimidir)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:34:14.633Z"
+ "ts": "2026-10-25T00:34:14.633Z",
+ "prev_az": "«ب» (با), «ه» (هə) və «ق» (قاف) tək bir kəlmədir, o da dərini bürüyən qaraltı və ya dərinin rəngindən fərqli olan rəngdir. Rühbə demişdir:\n* كأنَّه فى الجِلْد تَولِيعُ البَهَقْ (٣) *\n(Sanki dərinin üzərində alacalı bəhək ləkəsidir)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq standart formata uyğunlaşdırılmalıdır.",
+  "«رؤبة» adı «Rühbə» deyil, «Rubə» olmalıdır."
+ ],
+ "review_ts": "2026-11-15T16:08:19.359Z"
 }

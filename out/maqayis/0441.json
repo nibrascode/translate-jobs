@@ -11,7 +11,17 @@
   "page_to": 348
  },
  "ar": "التاء والعين والباء كلمةٌ واحدة، وهو الإعياء حتَّى يقال:\nتَعِبَ تَعَباً، وهو تَعِبٌ، ولا يقال متعوبٌ. وأَتْعَبْتُه أنا إتعاباً. فأما قولهم أُتْعِبَ العظمُ، إذا هِيضَ بعد الجَبْرِ، فليس بأصلٍ، إنَّمَا هو مقلوبٌ من أُعْتِبَ. وقد ذُكِر فى بابه. قال:\nإذا ما رآها رَأْيَةً هِيضَ قَلْبُه … بها كانْهِيَاضِ المُتْعَبِ المتهشِّم (١)",
- "az": "[تعب] (tə-%-b). Ta, ayn və ba hərfləri tək bir kəlmədir, o da yorğunluqdur, hətta deyilir: تَعِبَ تَعَباً (təibə təbən) — yoruldu, o, يورulmuşdur (تَعِبٌ), və «mətub» deyilmir. Və mən onu yorğulaşdırdım: أَتْعَبْتُه إتعاباً (ətbə-tuhu itbən). Amقa sümük sındıqdan sonra birləşdirilib yenidən sındıqda işlədilən «üt‘ibə-l-azmu» sözünə gəlincə, bu, əsl deyil, sadəcə «ü‘tibə» sözünün tərs çevrilmiş formasıdır. Bu, öz fəslində zikr edilmişdir. [Şair] demişdir: O qadını bir baxışla görən zaman qəlbi parçalandı... Yorulmuş və əzilmiş insanın parçalanması kimi (1).",
+ "az": "[تعب] (tə-ə-b). Ta, ayn və ba hərfləri tək bir kəlmədir, o da yorğunluqdur, hətta deyilir: تَعِبَ تَعَباً (yoruldu), o, تَعِبٌ (yorulmuşdur), və مَتْعُوبٌ deyilmir. Və أَتْعَبْتُهُ إِتْعَاباً (mən onu yordum). Sümük sındıqdan sonra birləşdirilib yenidən sındıqda işlədilən أُتْعِبَ العَظْمُ sözünə gəlincə, bu əsl deyil, sadəcə أُعْتِبَ sözünün tərs çevrilmiş formasıdır. Bu, öz fəslində zikr edilmişdir. Şair demişdir:\nإِذَا مَا رَآهَا رَأْيَةً هِيضَ قَلْبُهُ … بِهَا كَانْهِيَاضِ المُمُتْعَبِ المُتَهَشِّمِ (١)\n(O qadını bir baxışla görən zaman qəlbi yorulmuş və əzilmiş insanın parçalanması kimi parçalandı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:05.804Z"
+ "ts": "2026-10-25T00:38:05.804Z",
+ "prev_az": "[تعب] (tə-%-b). Ta, ayn və ba hərfləri tək bir kəlmədir, o da yorğunluqdur, hətta deyilir: تَعِبَ تَعَباً (təibə təbən) — yoruldu, o, يورulmuşdur (تَعِبٌ), və «mətub» deyilmir. Və mən onu yorğulaşdırdım: أَتْعَبْتُه إتعاباً (ətbə-tuhu itbən). Amقa sümük sındıqdan sonra birləşdirilib yenidən sındıqda işlədilən «üt‘ibə-l-azmu» sözünə gəlincə, bu, əsl deyil, sadəcə «ü‘tibə» sözünün tərs çevrilmiş formasıdır. Bu, öz fəslində zikr edilmişdir. [Şair] demişdir: O qadını bir baxışla görən zaman qəlbi parçalandı... Yorulmuş və əzilmiş insanın parçalanması kimi (1).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə və transkripsiyada pozulmuş simvollar və orfoqrafik xətalar var («%», «يورulmuşdur», «Amقa»).",
+  "Ərəbcə misalların və şeir beytinin ərəb mətni ixtisar edilmişdir."
+ ],
+ "review_ts": "2026-11-15T16:46:45.713Z"
 }

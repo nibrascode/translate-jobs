@@ -11,7 +11,18 @@
   "page_to": 343
  },
  "ar": "التاء والراء والشين ليس أصلاً ولا فَرْعاً، سوى أنَّ ابن دريد (٥) ذكَر أنّ التَّرَشَ خِفَّةٌ ونَزَقٌ، يقال تَرِشَ يَتْرَشُ تُرَشاً. وما أدرى ما هُوَ.",
- "az": "«ترش» (t-r-ş): İbn Dürəidin Tərəşin yüngüllük və səbirsizlik olduğunu qeyd etməsi istisna olmaqla, nə əsasdır, nə də şaxə. Deyilir: تَرِشَ يَتْرَشُ تُرَشاً (tərişə yətrəşu turəşən). Bunun nə olduğunu bilmirəm.",
+ "az": "[ترش]\nTa, ra və şin nə əsl, nə də şaxədir. Yalnız İbn Dureyd (٥) qeyd etmişdir ki, التَّرَش yüngüllük və səbirsizlikdir/tələskənlikdir. Deyilir: تَرِشَ يَتْرَشُ تُرَشاً. Bunun nə olduğunu isə bilmirəm.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.116Z"
+ "ts": "2026-10-25T00:37:44.116Z",
+ "prev_az": "«ترش» (t-r-ş): İbn Dürəidin Tərəşin yüngüllük və səbirsizlik olduğunu qeyd etməsi istisna olmaqla, nə əsasdır, nə də şaxə. Deyilir: تَرِشَ يَتْرَشُ تُرَشاً (tərişə yətrəşu turəşən). Bunun nə olduğunu bilmirəm.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizəsi standart qaydaya uyğun deyil.",
+  "Cümlənin əvvəlindəki hərf adları («التاء والراء والشين») tərcümədə buraxılmışdır.",
+  "İbn Dureydin yanındakı (٥) haşiyəsi düşmüşdür."
+ ],
+ "review_ts": "2026-11-15T16:38:19.104Z"
 }

@@ -13,5 +13,10 @@
  "ar": "التاء والياء والراء كلمةٌ واحدة: التّيَّار مَوْجُ البَحْر الذى ينضَحُ الماءَ. يقال ذَلِك تنَفُّسُه. والموج الذى لا يَتنَفَّسُ هو الأعْجَم (١).",
  "az": "[تير] (t-y-r): Ta, ya və ra hərfləri tək bir kəlmədir: التَّيَّارُ (ət-təyyar) – suyu fısqıran dəniz dalğasıdır. Deyilir ki, bu, onun nəfəs almasıdır. Nəfəs almayan dalğa isə الْأَعْجَمُ (əl-ə‘cəm) adlanır (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:53.836Z"
+ "ts": "2026-10-25T00:38:53.836Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:50:18.835Z"
 }

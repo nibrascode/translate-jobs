@@ -11,7 +11,16 @@
   "page_to": 492
  },
  "ar": "الجيم والواو والحاء أصلٌ واحد، وهو الاستئصال. يقال جاحَ الشئَ يَجُوحُهُ استأصله. ومنه اشتقاق الجائِحة.",
- "az": "[جوح] \nCim, vau və hə hərfləri bir əslə qayıdır ki, o da kökündən qoparıb məhv etmək, kökünü kəsməkdir. Deyilir: جاحَ الشئَ يَجُوحُهُ (cahəş-şeyə yəcuhu) – o şeyi kökündən qoparıb məhv etdi. Buradan da الْجائِحة (əl-caiḥə – fəlakət, bəla) sözü törəmişdir.",
+ "az": "[جوح]\nCim, vav və hə hərfləri bir əslə qayıdır ki, o da kökündən qoparıb məhv etməkdir. Deyilir: جاحَ الشئَ يَجُوحُهُ (cahəş-şeyə yəcuhu) – o şeyi kökündən qoparıb məhv etdi. Buradan da الجائِحة (əl-caihə) sözü törəmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:49:38.504Z"
+ "ts": "2026-10-25T00:49:38.504Z",
+ "prev_az": "[جوح] \nCim, vau və hə hərfləri bir əslə qayıdır ki, o da kökündən qoparıb məhv etmək, kökünü kəsməkdir. Deyilir: جاحَ الشئَ يَجُوحُهُ (cahəş-şeyə yəcuhu) – o şeyi kökündən qoparıb məhv etdi. Buradan da الْجائِحة (əl-caiḥə – fəlakət, bəla) sözü törəmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «vau» yox, «vav» yazılmalıdır."
+ ],
+ "review_ts": "2026-11-15T17:06:49.725Z"
 }

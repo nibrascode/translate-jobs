@@ -13,5 +13,10 @@
  "ar": "ومما يقارب هذا قولهم (بَلْهَسَ) إذا أسرع. فهو من بَهَس ومن بَلِهَ، وهو صِفَة الأبْلَهِ.",
  "az": "[بلهس] (Bə-lam-ha-sin) Buna yaxın olanlardan onların «بَلْهَسَ» (bəlhəsə - tələsdi) ifadəsidir. Bu, «بَهَس» (bəhəs) və «بَلِهَ» (bəlihə - ağılsız) kəlmələrindəndir, bu «أَبْلَه» (əbləh - ağılsız) sifətidir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.770Z"
+ "ts": "2026-10-25T00:37:20.770Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:26:40.187Z"
 }

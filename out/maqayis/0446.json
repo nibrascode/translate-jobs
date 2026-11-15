@@ -11,7 +11,17 @@
   "page_to": 349
  },
  "ar": "التاء والفاء والهاء أصلٌ واحد، وهو قِلَّةُ الشئ يقال تَفِهَ الشَّئِ فهو تافِه، إِذا قَلَّ. و\nفى الحديث فى ذكر القرآن: «لا يَتْفَهُ ولا يُخْلِقُ (٤)».\nو\nفى حديث آخر: «كانت اليد لا تُقْطع فى الشَّئ التّافِه».",
- "az": "[تفه] (tə-f-h). Ta, fa və ha hərfləri tək bir əsasdır, o da azlıqdır. Deyilir: تَفِهَ الشَّئِ فهو تافِه (təfiə-ş-şəyu fəhuə tafih) — şey azaldıqda, o, azdır (tahifdir). Və Quranın zikrində hədisdə [deyilir]: «O, nə azalar, nə də köhnələr (لا يَتْفَهُ ولا يُخْلِقُ)» (4). Və başqa bir hədisdə: «Əl az və dəyərsiz şeyə görə kəsilməzdi».",
+ "az": "[تفه]\nTa, fa və hə tək bir əsasdır, o da bir şeyin azlığıdır. Bir şey azaldıqda تَفِهَ الشَّيْءُ فَهُوَ تَافِهٌ (təfihaş-şey'u fəhuvə təfih) deyilir.\nQuranın zikri haqqındakı hədisdə deyilir: «لا يَتْفَهُ ولا يُخْلِقُ (٤)» («O nə azalar/tükənər, nə də köhnələr»).\nDigər bir hədisdə isə belə buyurulur: «كانت اليد لا تُقْطع فى الشَّئ التّافِه» («Əl dəyərsiz, cüzi bir şeyə görə kəsilməzdi»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:05.804Z"
+ "ts": "2026-10-25T00:38:05.804Z",
+ "prev_az": "[تفه] (tə-f-h). Ta, fa və ha hərfləri tək bir əsasdır, o da azlıqdır. Deyilir: تَفِهَ الشَّئِ فهو تافِه (təfiə-ş-şəyu fəhuə tafih) — şey azaldıqda, o, azdır (tahifdir). Və Quranın zikrində hədisdə [deyilir]: «O, nə azalar, nə də köhnələr (لا يَتْفَهُ ولا يُخْلِقُ)» (4). Və başqa bir hədisdə: «Əl az və dəyərsiz şeyə görə kəsilməzdi».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "İkinci hədisin ərəbcə mətni buraxılıb.",
+  "«tafih» sözü «tahif» kimi səhv yazılıb."
+ ],
+ "review_ts": "2026-11-15T16:43:31.583Z"
 }

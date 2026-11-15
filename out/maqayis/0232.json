@@ -11,7 +11,17 @@
   "page_to": 238
  },
  "ar": "الباء والراء والجيم أصلان: أحدهما البُروز والظُّهور، والآخر الوَزَرُ والملجأ. فمن الأوّل البَرَج وهو سَعَة العين فى شدّةِ سوادِ سَوادِها وشدّة [بياض] بَياضها، ومنه التَّبرُّج، وهو إظهار المرأةِ مَحاسِنَها.\nوالأصل الثانى البُرْجُ واحِدُ بُروجِ السَّماء. وأصل البُرُوجِ الحُصونُ والقُصور قال اللّه تعالى: ﴿وَلَوْ كُنْتُمْ فِي بُرُوجٍ مُشَيَّدَةٍ﴾. ويقال ثوبٌ مُبَرَّجٌ إذا كان عليه صور البُرُوج.",
- "az": "«برج» (b-r-c): Ba, ra və cim hərfləri iki əsas kökə malikdir: birincisi üzə çıxmaq və zühur etmək, ikincisi isə sığınacaq və pənah yeridir. Birincisindən olan «البَرَجُ» – gözün qarasının həddindən artıq qara, [bəyazının] isə həddindən artıq ağ və geniş olmasıdır; qadının öz gözəlliklərini büruzə verməsi mənasındakı «التَّبَرُّجُ» də bundandır. İkinci əsas isە səma bürçlərinin təkini bildirən «البُرْجُ» sözüdür. Bürclərin əsli qala və saraylardır. Uca Allah buyurmuşdur: mənaca tərcümə: «Hətta uca bürclərdə olsanız belə...» (ən-Nisa, 78). Üzərində bürclərin şəkilləri olan paltara «ثوبٌ مُبَرَّجٌ» deyilər.",
+ "az": "[برج]\nBa, ra və cim hərfləri iki əsas kökdür: birincisi üzə çıxmaq və zühur etmək, ikincisi isə sığınacaq və pənah yeridir. Birincisindən olan البَرَج – gözün qarasının həddindən artıq qara, [bəyazının] isə həddindən artıq ağ olmaqla geniş olmasıdır; qadının öz gözəlliklərini büruzə verməsi mənasındakı التَّبرُّج da bundandır.\nİkinci əsas isə səma bürclərinin təkini bildirən البُرْجُ sözüdür. Bürclərin əsli qala və saraylardır. Uca Allah buyurmuşdur: ﴿وَلَوْ كُنْتُمْ فِي بُرُوجٍ مُشَيَّدَةٍ﴾ (mənaca tərcümə: «Hətta uca bürclərdə olsanız belə...»). Üzərində bürclərin şəkilləri olan paltara ثوبٌ مُبَرَّجٌ deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:29:37.934Z"
+ "ts": "2026-10-25T00:29:37.934Z",
+ "prev_az": "«برج» (b-r-c): Ba, ra və cim hərfləri iki əsas kökə malikdir: birincisi üzə çıxmaq və zühur etmək, ikincisi isə sığınacaq və pənah yeridir. Birincisindən olan «البَرَجُ» – gözün qarasının həddindən artıq qara, [bəyazının] isə həddindən artıq ağ və geniş olmasıdır; qadının öz gözəlliklərini büruzə verməsi mənasındakı «التَّبَرُّجُ» də bundandır. İkinci əsas isە səma bürçlərinin təkini bildirən «البُرْجُ» sözüdür. Bürclərin əsli qala və saraylardır. Uca Allah buyurmuşdur: mənaca tərcümə: «Hətta uca bürclərdə olsanız belə...» (ən-Nisa, 78). Üzərində bürclərin şəkilləri olan paltara «ثوبٌ مُبَرَّجٌ» deyilər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Quran ayəsinin ərəbcə mətni («﴿وَلَوْ كُنْتُمْ فِي بُرُوجٍ مُشَيَّدَةٍ﴾») buraxılmışdır.",
+  "Mətndə «isە» (kiril «е» hərfi ilə) kimi pozulmuş yazı var və baş sözlərin hərəkələri AR-dakı yazılışla eyni saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-15T15:46:55.201Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 273
  },
  "ar": "الباء والغين والثاء أصل واحد، يدلّ على ذلّ الشئ وضعفه.\nمن ذلك بغاث الطّير، وهى التى لا تصيد ولا تمتنع. ثم يقال لأخلاط الناس\nوخشارتهم البغثاء. والأبغث مكان ذو رمل. وهو من ذاك (١) لأنه ليّن غير صلب.",
- "az": "«بغث» (bağəta). Ба, ğun və sə hərfləri tək bir əslə malik olub, şeyin zəlil və zəif olmasına dəlalət edir. Bunlardan biri «بغاث الطّير» (bəğasüt-teyr) olub, ov etməyən və özünü qoruya bilməyən quşlardır. Sonra camaatın müxtəlif zümrələrinə və alçaqlarına «البغثاء» (əl-bəğəsa) deyilir. «الأبغث» (əl-əbğəb) isə qumlu məkandır. O, bundan (١) irəli gəlir, çünki yumşaqdır, sərt deyil.",
+ "az": "[بغث]\nالباء، الغين və الثاء tək bir əsas kökə malikdir, şeyin zəlil və zəif olmasına dəlalət edir.\nBunlardan biri بغاث الطّير (zəif quşlar) olub, ov etməyən və özünü qoruya bilməyən quşlardır. Sonra camaatın qarışıq zümrələrinə və dəyərsizlərinə البغثاء deyilir. الأبغث isə qumlu məkandır. O, bundan (١) irəli gəlir, çünki yumşaqdır, sərt deyil.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:32:05.260Z"
+ "ts": "2026-10-25T00:32:05.260Z",
+ "prev_az": "«بغث» (bağəta). Ба, ğun və sə hərfləri tək bir əslə malik olub, şeyin zəlil və zəif olmasına dəlalət edir. Bunlardan biri «بغاث الطّير» (bəğasüt-teyr) olub, ov etməyən və özünü qoruya bilməyən quşlardır. Sonra camaatın müxtəlif zümrələrinə və alçaqlarına «البغثاء» (əl-bəğəsa) deyilir. «الأبغث» (əl-əbğəb) isə qumlu məkandır. O, bundan (١) irəli gəlir, çünki yumşaqdır, sərt deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin formatı pozulub, kiril əlifbası («Ба») və yanlış hərf adı («ğun») işlənib.",
+  "İzah olunan ərəbcə sözlərin mənaları verilməyib, əvəzində yanlış transkripsiyalar yazılıb."
+ ],
+ "review_ts": "2026-11-15T15:53:36.869Z"
 }

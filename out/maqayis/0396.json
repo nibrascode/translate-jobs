@@ -11,7 +11,18 @@
   "page_to": 335
  },
  "ar": "ومن ذلك (تَبَعْثرَتْ نَفْسِى (١))، فالعين (٢) زائدة، وإنما هو فى الباء والثَّاء والراء. وقد مرَّ تفسيره.\nالباب الثالث من الرباعى الذى وضع وضعاً",
- "az": "[بعثر] (Bə-əyn-sə-ra) Buradan «تَبَعْثرَتْ نَفْسِى» (təbə’sərat nəfsi - nəfsim dağıldı) gəlir, «ع» (əyn) hərfi artıqdır, bu «ب» (bə), «ث» (sə) və «ر» (ra) hərflərindəndir. Onun izahı artıq keçmişdir. Dörd hərflilərin olduğu kimi qoyulmuş (vəz’i) üçüncü fəsli.",
+ "az": "[بعثر] (Bə-əyn-sə-ra)\nBuradan «تَبَعْثرَتْ نَفْسِى (١)» (ürəyim bulandı) ifadəsi gəlir. «ع» (əyn) (٢) hərfi artıqdır; bu, «ب» (ba), «ث» (sa) və «ر» (ra) kökündəndir. Onun izahı artıq keçmişdir.\nالباب الثالث من الرباعى الذى وضع وضعاً (Dördhərflilərdən müstəqil/əslən qoyulmuş olanların üçüncü babı)",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.771Z"
+ "ts": "2026-10-25T00:37:20.771Z",
+ "prev_az": "[بعثر] (Bə-əyn-sə-ra) Buradan «تَبَعْثرَتْ نَفْسِى» (təbə’sərat nəfsi - nəfsim dağıldı) gəlir, «ع» (əyn) hərfi artıqdır, bu «ب» (bə), «ث» (sə) və «ر» (ra) hərflərindəndir. Onun izahı artıq keçmişdir. Dörd hərflilərin olduğu kimi qoyulmuş (vəz’i) üçüncü fəsli.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«تَبَعْثرَتْ نَفْسِى» ifadəsi «nəfsim dağıldı» kimi səhv tərcümə edilmişdir; «ürəyim/könlüm bulandı» mənasındadır.",
+  "Haşiyə rəqəmləri (١) və (٢) buraxılmışdır.",
+  "Fəsil başlığının ərəbcə mətni («الباب الثالث من الرباعى الذى وضع وضعاً») verilməmişdir."
+ ],
+ "review_ts": "2026-11-15T16:30:26.476Z"
 }

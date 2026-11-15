@@ -11,7 +11,16 @@
   "page_to": 489
  },
  "ar": "الجيم والهاء والفاء ليس أصلاً (٢)، إنَّما هو من باب الإبدال. يقال اجتهفتُ الشّيء إذا أخذْتَه بِشدّة. والأصل اجتحفْت (٣). وقد مضى ذكره.",
- "az": "[جهف] \nCim, hə və fa hərfləri əsl deyil (2), bu yalnız əvəzetmə (ibdal) babındandır. Deyilir: اجتهفتُ الشّيء (içtəhəftuş-şeyə) – əgər o şeyi şiddətlə almısansa. Əsli isə اجتحفْت (içtəhəftu) sözüdür (3). Bunun zikr nüsxəsi artıq keçmişdir.",
+ "az": "[جهف]\nCim, hə və fa hərfləri əsl deyil (٢), bu yalnız əvəzetmə (ibdal) babındandır. Deyilir: اجتهفتُ الشّيء (ictəhəftuş-şeyə) – o şeyi şiddətlə götürdükdə deyilir. Əsli isə اجتحفْت (ictəhəftu) sözüdür (٣). Bunun zikri artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:49:38.503Z"
+ "ts": "2026-10-25T00:49:38.503Z",
+ "prev_az": "[جهف] \nCim, hə və fa hərfləri əsl deyil (2), bu yalnız əvəzetmə (ibdal) babındandır. Deyilir: اجتهفتُ الشّيء (içtəhəftuş-şeyə) – əgər o şeyi şiddətlə almısansa. Əsli isə اجتحفْت (içtəhəftu) sözüdür (3). Bunun zikr nüsxəsi artıq keçmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«مضى ذكره» ifadəsi «zikr nüsxəsi artıq keçmişdir» kimi süni və səhv ifadə olunmuşdur (doğrusu: «bunun zikri artıq keçmişdir»)."
+ ],
+ "review_ts": "2026-11-15T17:06:41.708Z"
 }

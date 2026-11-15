@@ -13,5 +13,10 @@
  "ar": "ومن ذلك قولهم (بَزْمَخَ) الرّجُل إذا تكبَّر. وهى منحوتةٌ من قولهم زَمَخَ إذا شَمَخ بأنفه، وهو زَامِخٌ، ومن قولهم بَزِخَ إذا تَقَاعَسَ، ومَشَى مُتَبازِخاً إذا تكلفَ إقامَةَ صُلْبِه. وقد فُسِّرَ.",
  "az": "[بزمخ] (Bə-zə-mim-xa) Buradan onların «بَزْمَخَ الرّجُل» (bəzməhər-rəcul - kişi təkəbbürləndi) ifadəsi gəlir. Bu, onların «زَمَخَ» (zəməhə - burnunu dik tutdu) kəlməsindən nəht edilmişdir, o «زَامِخٌ» (zami-hun - təkəbbürlü) deməkdir. Həmçinin «بَزِخَ» (bəzi-hə - geri çəkildi) kəlməsindən, «مَشَى مُتَبازِخاً» (məşa mutəbazi-hən - belini dik tutmağa çalışaraq yeridi) ifadəsi də buradandır. Bu izah edilmişdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.769Z"
+ "ts": "2026-10-25T00:37:20.769Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:26:40.186Z"
 }

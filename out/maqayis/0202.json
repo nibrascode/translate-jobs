@@ -11,9 +11,17 @@
   "page_to": 208
  },
  "ar": "الباء والخاء والتاء كلمةٌ ذكرها ابنُ دريدٍ، زعم أنّ البُخْت من الجمال عربيّة صحيحة، [وأنشد]:\n* لبنَ البُخْتِ فى قِصاع الخَلَنْجِ (١) *",
- "az": "[بخت] (bə-xə-t): الباء والخاء والتاء كلمةٌ ذكرها ابنُ دريدٍ، زعم أنّ البُخْت من الجمال عربيّة صحيحة، [وأنشد] (Bə, xa və ta İbn Dureydin zikr etdiyi bir kəlmədir; o iddia etmişdir ki, dəvələrin bir növü olan əl-buxt səhih ərəb sözüdür, [və bu beyti gətirmişdir]): * لبنَ البُخْتِ فى قِصاع الخَلَنْجِ (١) *",
+ "az": "[بخت]\nBa, xa və ta hərfləri İbn Dureydin zikr etdiyi bir kəlmədir; o iddia etmişdir ki, dəvələrin bir növü olan البُخْت (əl-buxt) səhih ərəb sözüdür, [və bu beyti şahid gətirmişdir]:\n* لبنَ البُخْتِ فى قِصاع الخَلَنْجِ (١) * (Xələnc ağacından düzəldilmiş qablarda buxt dəvələrinin südü).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:27:58.606Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[بخت] (bə-xə-t): الباء والخاء والتاء كلمةٌ ذكرها ابنُ دريدٍ، زعم أنّ البُخْت من الجمال عربيّة صحيحة، [وأنشد] (Bə, xa və ta İbn Dureydin zikr etdiyi bir kəlmədir; o iddia etmişdir ki, dəvələrin bir növü olan əl-buxt səhih ərəb sözüdür, [və bu beyti gətirmişdir]): * لبنَ البُخْتِ فى قِصاع الخَلَنْجِ (١) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-15T15:44:26.703Z"
 }

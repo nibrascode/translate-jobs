@@ -11,7 +11,16 @@
   "page_to": 364
  },
  "ar": "من ذلك (اتْلَأَبَّ) الأمرُ، إذا استقام واطرَد.",
- "az": "«تلب»: من ذلك (اتْلَأَبَّ) الأمرُ، (iş düzəlib qaydaya düşdükdə) düzəldi və irəlilədi.",
+ "az": "[تلب] (t-l-b): Bu qəbildəndir: اتْلَأَبَّ الأَمْرُ (itlə'əbbə-l-əmru) – iş düzəldikdə və nizamına düşdükdə deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:16.272Z"
+ "ts": "2026-10-25T00:39:16.272Z",
+ "prev_az": "«تلب»: من ذلك (اتْلَأَبَّ) الأمرُ، (iş düzəlib qaydaya düşdükdə) düzəldi və irəlilədi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin formatı pozulmuş, ərəbcə cümlə olduğu kimi saxlanılmadan tərcüməyə qarışdırılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:53:11.885Z"
 }

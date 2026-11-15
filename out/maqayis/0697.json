@@ -11,7 +11,18 @@
   "page_to": 485
  },
  "ar": "الجيم والنون والحاءِ أصلٌ واحدٌ يدلُّ على المَيْلِ والعُدْوان.\nويقال جنح إلى كذا، أى مَالَ إليه. وسمِّى الجَناحانِ جَناحَيْنِ لميلهما فى الشِّقَّين.\nوالجُنَاح: الإثم، سمِّى بذلك لمَيْلِه عن طريق الحقِّ.\nوهذا هو الأصل ثمَّ يشتقّ منه، فيُقال للطائفة (٦) من الليل جُنْح وجِنْح، كأنَّه\nشُبِّه بالجَناح، وهو طائفةٌ من جسم الطائر. والجوانح: الأضلاع: لأنها مائلة.\nوجُنِح البعيرُ إذا انكسرَتْ جَوانحُه من حِمْلٍ ثقيل. وجَنَحَت الإبل فى السّير:\nأسرعت. فهذا من الجَنَاح، كأنَّها أعْمَلَت الأجنحَة.",
- "az": "«جنح» (جيم, نون və حاء) – bir əsas olub, meyil etməyə və düşmənçiliyə (azğınlığa) dəlalət edir.\n«جنح إلى كذا» – filankəs ona meyvə etdi, deməkdir. «الجَناحانِ» (iki qanad) hər iki tərəfə əyildikləri üçün belə adlandırılmışdır.\n«الجُنَاح» (əل-cünah) – günahdır, haqq yolundan meyil etdiyinə görə belə adlandırılmışdır.\nBu, əsasdır, sonradan bundan törədilmişdir: gecənin bir hissəsinə «جُنْح» və «جِنْح» deyilir, sanki o, quşun bədəninin bir hissəsi olan qanada bənzədilmişdir. «الجوانح» (əل-cəvanih) – qabırğalardır: çünki onlar əyridir.\n«وجُنِح البعيرُ» – ağır yükdən dəvənin qabırğaları sındıqda deyilir. «وجَنَحَت الإبل فى السّير» – dəvələr yürüşdə sürətləndilər. Bu da qanaddan götürülmüşdür, sanki onlar qanad işlətdilər.",
+ "az": "[جنح] (cim, nun və ha) bir əsas olub, meyl etməyə və həddi aşmağa (azğınlığa) dəlalət edir.\nDeyilir: جنح إلى كذا, yəni ona meyl etdi. İki qانad (الجَناحانِ) iki tərəfə əyildikləri üçün belə adlandırılmışdır.\nالجُنَاح (günah) – haqq yolundan meyl etdiyinə görə belə adlandırılmışdır.\nBu, əsasdır, sonradan bundan törədilmişdir: gecənin bir hissəsinə جُنْح və جِنْح deyilir, sanki o, quşun bədəninin bir hissəsi olan qانada bənzədilmişdir. الجوانح – qabırğalardır: çünki onlar əyridir.\nوجُنِح البعيرُ – ağır yükdən dəvənin qabırğaları sındıqda deyilir. وجَنَحَت الإبل فى السّير – dəvələr yürüşdə sürətləndilər. Bu da qanaddan (الجَنَاح) götürülmüşdür, sanki onlar qanadlarını işlətdilər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:49:12.831Z"
+ "ts": "2026-10-25T00:49:12.831Z",
+ "prev_az": "«جنح» (جيم, نون və حاء) – bir əsas olub, meyil etməyə və düşmənçiliyə (azğınlığa) dəlalət edir.\n«جنح إلى كذا» – filankəs ona meyvə etdi, deməkdir. «الجَناحانِ» (iki qanad) hər iki tərəfə əyildikləri üçün belə adlandırılmışdır.\n«الجُنَاح» (əل-cünah) – günahdır, haqq yolundan meyil etdiyinə görə belə adlandırılmışdır.\nBu, əsasdır, sonradan bundan törədilmişdir: gecənin bir hissəsinə «جُنْح» və «جِنْح» deyilir, sanki o, quşun bədəninin bir hissəsi olan qanada bənzədilmişdir. «الجوانح» (əل-cəvanih) – qabırğalardır: çünki onlar əyridir.\n«وجُنِح البعيرُ» – ağır yükdən dəvənin qabırğaları sındıqda deyilir. «وجَنَحَت الإبل فى السّير» – dəvələr yürüşdə sürətləndilər. Bu da qanaddan götürülmüşdür, sanki onlar qanad işlətdilər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[جنح]» formatında yazılmalıdır.",
+  "«meyvə etdi» mexaniki səhvdir (düzgünü: meyl etdi).",
+  "Ərəb və latın qrafikası qarışıq yazılıb (əل-cünah, əل-cəvanih)."
+ ],
+ "review_ts": "2026-11-15T17:06:14.451Z"
 }

@@ -11,9 +11,17 @@
   "page_to": 203
  },
  "ar": "الباء والحاء والنون أصلٌ واحدٌ يدلُّ على الضِّخَم، يقال جُلةٌ بَحْوَنةٌ، أى ضَخْمة. وقال الأصمعىّ: يقول العربُ للغَرْبِ إذا كان عظيماً كثير الأخْذِ: إنّه لَبَحْوَن، على مثال جَدْوَل.",
- "az": "«بحن» (bəhən). Ba, hə və nun hərfləri böyüklüyə dəlalət edən tək bir əsas mənadır. «جُلةٌ بَحْوَنةٌ» (cüllətün bəhvanətün) – böyük kisə deməkdir. Əsməi demişdir: Ərəblər böyük və çox şey götürən böyük dəri torbaya cədvəl çəkisində «إنّه لَبَحْوَن» (innəhu lə-bəhvan) deyirlər.",
+ "az": "[بحن]\nBa, ha və nun hərfləri böyüklüyə dəlalət edən tək bir əsas mənadır. «جُلةٌ بَحْوَنةٌ» (cüllətün bəhvənətün) – böyük səbət (xurma kisəsi) deməkdir. Əsməi demişdir: Ərəblər böyük və çox su tutan dəri vedrəyə «جَدْوَل» (cədvəl) vəznində «إنّه لَبَحْوَن» (innəhu lə-bəhvən) deyirlər.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:27:05.781Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«بحن» (bəhən). Ba, hə və nun hərfləri böyüklüyə dəlalət edən tək bir əsas mənadır. «جُلةٌ بَحْوَنةٌ» (cüllətün bəhvanətün) – böyük kisə deməkdir. Əsməi demişdir: Ərəblər böyük və çox şey götürən böyük dəri torbaya cədvəl çəkisində «إنّه لَبَحْوَن» (innəhu lə-bəhvan) deyirlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«على مثال جَدْوَل» ifadəsi «cədvəl çəkisində» kimi yanlış tərcümə edilmişdir (əslində «جَدْوَل» vəznində/qəlibində deməkdir)."
+ ],
+ "review_ts": "2026-11-15T15:44:05.326Z"
 }

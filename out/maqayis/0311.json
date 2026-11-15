@@ -11,7 +11,17 @@
   "page_to": 300
  },
  "ar": "الباء واللام والصاد، فيه كلماتٌ أكثرُ ظَنِّى أن لا مُعوَّلَ على مثلها، وهى مع ذلك تتقارب. يقولون بلَّصتِ الغنم إذا قلّت ألبانها، وتبلَّصت الغَنَمُ الأرضَ إذا لم تدَعْ فيها شيئاً إلاّ رَعَتْه.\nوتبلَّصتُ الشئَ، إذا طلِبْتَه فى خَفاءِ (٣). وفى ذلك عندى نَظَر.",
- "az": "«بلص» (bələs): الباء واللام والصاد — zənnimcə, belələrinə etibar olunmayan bəzi sözlər var, bununla belə onlar bir-birinə yaxındır. Deyirlər: sürünün südü azaldıqda «bəlləsətin-ğənəmu» deyilər; sürünün yeri otlayıb heç nə qoymadığı vaxt «təbəlləsətin-ğənəmu-l-arda» deyilər. Bir şeyi gizlicə axtardığımda «təbəlləsətüş-şeyə» deyilər (٣). Məncə, bunda da araşdırma vardır.",
+ "az": "[بلص]\nالباء واللام والصاد (ba, lam və sad) — bu kökdə bir neçə kəlmə vardır ki, zənnimcə, belələrinə etibar olunmaz; bununla belə onlar bir-birinə yaxın mənalardadır. Deyirlər ki, qoyunların südü azaldıqda بلَّصتِ الغنم (bəlləsəti-l-ğanəm) deyilir. Qoyunlar yerdəki otu tamamilə otlayıb heç nə qoymadıqda تبلَّصت الغَنَمُ الأرضَ (təbəlləsəti-l-ğanəmu-l-ərd) deyilir.\nBir şeyi gizlicə axtardıqda تبلَّصتُ الشئَ (təbəlləstuş-şey') deyilir (٣). Məncə, bunda da şübhə (nəzər) vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:37.148Z"
+ "ts": "2026-10-25T00:33:37.148Z",
+ "prev_az": "«بلص» (bələs): الباء واللام والصاد — zənnimcə, belələrinə etibar olunmayan bəzi sözlər var, bununla belə onlar bir-birinə yaxındır. Deyirlər: sürünün südü azaldıqda «bəlləsətin-ğənəmu» deyilər; sürünün yeri otlayıb heç nə qoymadığı vaxt «təbəlləsətin-ğənəmu-l-arda» deyilər. Bir şeyi gizlicə axtardığımda «təbəlləsətüş-şeyə» deyilər (٣). Məncə, bunda da araşdırma vardır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "İzah olunan ərəbcə ifadələr ərəb qrafikası ilə verilməmişdir.",
+  "«تبلَّصتُ الشئَ» feilinin tərcüməsində şəxs səhv verilmişdir."
+ ],
+ "review_ts": "2026-11-15T16:04:32.768Z"
 }

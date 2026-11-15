@@ -11,7 +11,16 @@
   "page_to": 460
  },
  "ar": "الجيم والعين والفاء أصلٌ واحد، وهو قَلْعُ الشئ وصَرْعُه.\nيقال جَعَفْت الرجلَ إذا صرعْتَه بعد قلعِك إيّاه من الأرض والانجعاف: الانقلاع تقول انجعَفَت الشّجرةُ. وفى الحديث: «مثل المنافق مثل الأَرْزَة المُجْذِية على الأرض حتى يكون انجعافُها مرّة (٢)». وجُعْفِىٌّ: قبيلة.",
- "az": "[جعف] Cim, ayn və fa: bir kökdür, o da bir şeyi yerindən qoparmaq və yıxmaqdır. Deyilir ki, جَعَفْت الرجلَ (kişini yıxdım), yəni onu yerdən qopardıqdan sonra yıxdın. İncif (الانجعاف): qopmaqdır, deyirsən ki, ağac qopdu (انجعَفَت الشّجرةُ). Hədisdə deyilir:",
+ "az": "[جعف] Cim, ayn və fa: bir kökdür, o da bir şeyi yerindən qoparmaq və yıxmaqdır.\nDeyilir: جَعَفْت الرجلَ (kişini kökündən qoparıb yerə yıxdım), yəni onu yerdən qopardıqdan sonra yerə yıxdıqda. İnjiaf (الانجعاف): kökündən qopmaqdır; deyirsən: انجعَفَت الشّجرةُ (ağac kökündən qopdu). Hədisdə [deyilir]: «مثل المنافق مثل الأَرْزَة المُجْذِية على الأرض حتى يكون انجعافُها مرّة (٢)» (mənaca tərcüməsi: Münafiqin misalı yerə sabit durmuş küknar ağacının misalı kimidir, nəhayət onun kökündən qopması bir dəfəyə olar). Cufi (جُعْفِىٌّ): bir qəbilə adıdır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:47:48.556Z"
+ "ts": "2026-10-25T00:47:48.556Z",
+ "prev_az": "[جعف] Cim, ayn və fa: bir kökdür, o da bir şeyi yerindən qoparmaq və yıxmaqdır. Deyilir ki, جَعَفْت الرجلَ (kişini yıxdım), yəni onu yerdən qopardıqdan sonra yıxdın. İncif (الانجعاف): qopmaqdır, deyirsən ki, ağac qopdu (انجعَفَت الشّجرةُ). Hədisdə deyilir:",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hədisin mətni, tərcüməsi və davamındakı «وجُعْفِىٌّ: قبيلة» hissəsi kəsilərək tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-15T17:03:18.555Z"
 }

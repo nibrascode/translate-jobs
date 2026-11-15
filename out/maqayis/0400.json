@@ -11,7 +11,16 @@
   "page_to": 335
  },
  "ar": "البَهْكَثَةُ (٦): السُّرْعة.",
- "az": "[بهكث] (Bə-ha-kəf-sə) «البَهْكَثَةُ» (əl-bəhkəsə): sürət.",
+ "az": "[بهكث] (Bə-ha-kəf-sə)\n«البَهْكَثَةُ» (٦): sürət.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.771Z"
+ "ts": "2026-10-25T00:37:20.771Z",
+ "prev_az": "[بهكث] (Bə-ha-kəf-sə) «البَهْكَثَةُ» (əl-bəhkəsə): sürət.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (٦) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:30:26.477Z"
 }

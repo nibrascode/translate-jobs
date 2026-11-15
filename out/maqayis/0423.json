@@ -13,5 +13,10 @@
  "ar": "التاء والجيم والراء، التِّجارة معروفة. ويقال تاجر وتَجْرٌ، كما يقال صاحبٌ وصحبٌ. ولا تكاد تُرى تاءٌ بعدها جيم (٢).",
  "az": "«تجر» (t-c-r): Tə, cim və ra; التِّجارة (ətticarə) məlumdur. Deyilir: تاجر (tacir) və تَجْرٌ (təcrun), necə ki صاحب (sahib) və صحب (səhb) deyilir. Demək olar ki, ardınca cim gələn tə hərfi görə bilməzsən.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.115Z"
+ "ts": "2026-10-25T00:37:44.115Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:36:35.650Z"
 }

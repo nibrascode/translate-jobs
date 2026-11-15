@@ -11,7 +11,16 @@
   "page_to": 360
  },
  "ar": "التاء والياء والسين كلمةٌ واحدة: التَّيس معروفٌ من الظِّباء والمَعْزِ والوُعول. من أمثالِهم: «عَنْزٌ اسْتَتَيْسَتْ» إذا صارت كالتَّيس فى جُرْأتها وحَرَكتِها. يضرب مثلاً للذَّليل يتعزَّزُ.",
- "az": "[تيس] (t-y-s): Ta, ya və sin hərfləri tək bir kəlmədir: التَّيْسُ (ət-təys) – ceyranlar, keçi və dağ keçiləri cinsindən olan təkədir (məlumdur). Onların məsəllərində demişlər: «عَنْزٌ اسْتَتَيْسَتْ» («ənzun istətysət» – keçi təkələşdi) – cəsarətində və hərəkətində təkəyə bənzədiyi zaman deyilir. Bu, zəlil olub gücənmək istəyən kəsə məsəl çəkilir.",
+ "az": "[تيس]\nالتاء والياء والسين (ta, ya və sin) tək bir kəlmədir: التَّيس (ət-təys – təkə) ceyran, keçi və dağ keçilərindən məlum olan heyvandır. Onların məsəllərindəndir: «عَنْزٌ اسْتَتَيْسَتْ» (Keçi təkələşdi). Bu, cəsarətində və hərəkətində təkəyə bənzədiyi zaman deyilir. Özünü izzətli və güclü göstərməyə çalışan zəlil kimsə haqqında məsəl çəkilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:53.837Z"
+ "ts": "2026-10-25T00:38:53.837Z",
+ "prev_az": "[تيس] (t-y-s): Ta, ya və sin hərfləri tək bir kəlmədir: التَّيْسُ (ət-təys) – ceyranlar, keçi və dağ keçiləri cinsindən olan təkədir (məlumdur). Onların məsəllərində demişlər: «عَنْزٌ اسْتَتَيْسَتْ» («ənzun istətysət» – keçi təkələşdi) – cəsarətində və hərəkətində təkəyə bənzədiyi zaman deyilir. Bu, zəlil olub gücənmək istəyən kəsə məsəl çəkilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«للذَّليل يتعزَّزُ» ifadəsi «özünü güclü və izzətli göstərməyə çalışan zəlil kimsə» mənasındadır; mətndə «gücənmək istəyən» kimi qeyri-dəqiq və yersiz sözlə verilmişdir."
+ ],
+ "review_ts": "2026-11-15T16:50:18.835Z"
 }

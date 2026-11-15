@@ -11,7 +11,17 @@
   "page_to": 326
  },
  "ar": "الباء والياء والصاد ليس بأصلٍ. لأنّ بَيْصَ إتْباعٌ لحَيْص.\nيقال: وقع القوم فى حَيْصَ بَيْصَ (٢)، أى اختلاطٍ. قال:\n* لم تَلْتَحِصْنِى حَيْصَ بَيْصَ لَحَاصِ (٣) *",
- "az": "«بيص» (beyص): باء، ya və sad hərfləri əsas kök deyil. Çünki «بَيْص» (beyص) sözü «حَيْص» (həyص) sözünə tabe olaraq gəlmişdir.\nDeyilir: «وَقَعَ الْقَوْمُ فِى حَيْصَ بَيْصَ» (Vəqəal-qövmü fi həyصə bəyصə) — yəni qarışıqlığa düşdülər. Şair demişdir:\n* لَمْ تَلْتَحِصْنِى حَيْصَ بَيْصَ لَحَاصِ (٣) *",
+ "az": "[بيص]\nالباء والياء والصاد (ba, ya və sad) əsl deyildir. Çünki بَيْص sözü حَيْص sözünə tabe edilərək gəlmişdir.\nDeyilir: وقع القوم فى حَيْصَ بَيْصَ (٢), yəni qarışıqlığa, çıxılmaz vəziyyətə düşdülər. Şair demişdir:\n* لم تَلْتَحِصْنِى حَيْصَ بَيْصَ لَحَاصِ (٣) *\n(Heç bir qarışıqlıq və çıxılmaz dolaşıqlıq məni darıxdırıb çarəsiz qoymadı.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:35:28.171Z"
+ "ts": "2026-10-25T00:35:28.171Z",
+ "prev_az": "«بيص» (beyص): باء، ya və sad hərfləri əsas kök deyil. Çünki «بَيْص» (beyص) sözü «حَيْص» (həyص) sözünə tabe olaraq gəlmişdir.\nDeyilir: «وَقَعَ الْقَوْمُ فِى حَيْصَ بَيْصَ» (Vəqəal-qövmü fi həyصə bəyصə) — yəni qarışıqlığa düşdülər. Şair demişdir:\n* لَمْ تَلْتَحِصْنِى حَيْصَ بَيْصَ لَحَاصِ (٣) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir misrasının tərcüməsi verilməmişdir.",
+  "Maddə başlığı tələb olunan «[kök]» formatında verilməmişdir."
+ ],
+ "review_ts": "2026-11-15T16:15:47.163Z"
 }

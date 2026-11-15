@@ -11,7 +11,17 @@
   "page_to": 443
  },
  "ar": "الجيم والراء والشين أصلٌ واحد وهو جَرْش الشَّئ: أنْ يُدقَّ ولا يُنْعَم دَقُّه. يقال جَرَشْته، وهو جَرِيش. والْجُرَاشة: ما سَقَط من الشئِ\nالمجروش. وجرّشت الرأس بالمشط: حككته حتَّى تَستكثِرَ الإبْرِية (١). وذكر الخليل أنّ الجَرش الأكْل\nومما شذَّ عن الباب الجِرِشَّى، وهو النَّفس. قال:\n* إليه الجِرِشَّى وارْمَعَلَّ حَنِينُها (٢) *\nفأمّا قولهم مَضَى جَرْشٌ من اللّيل، فهى الطائفة، وهو شاذٌّ عن الاصل الذى ذكرناه. قال:\n* حتى إذا [ما] تُرِكَتْ بجَرْشِ (٣) *",
- "az": "[جرش] (Cim, راء və şin): Bir əsasdır, o da şeyin üyüdülməsidir: «جَرْش الشَّئ» – şeyin döyülüb tam incəlməməsidir. Deyilir: «جَرَشْته» (onu üyütdüm), o, «جَرِيش» (cəriş – xırda üyüdülmüş) olar. «الْجُرَاشة» (cüraşə) – üyüdülmüş şeydən tökülən qırıntılardır. «جرّشت الرأس بالمشط» (başını daraqla qaşıdım) – başı dırnaq və ya daraqla elə qaşıdın ki, kəpək tökülsün. Xəlil zikr etmişdir ki, «الجَرش» (cərs) – yemək deməkdir. Babdan şaz olan «الجِرِشَّى» (cirişşə) – Nəfs (can) deməkdir. Şair demişdir: «Ona tərəf cirişşə (can) yönəldi və ah-naləsi şiddətləndi (2)» Qaldı ki, «مَضَى جَرْشٌ من اللّيل» (Gecənin bir qismi keçdi) sözü, bu, qeyd etdiyimiz əsasdan şazdır. Şair demişdir: «Hətta gecənin bir qismində tərk olunduğu zaman (3)».",
+ "az": "[جرش] (cim, ra və şin) bir əsasdır, o da جَرْش الشَّئ – şeyin döyülüb tam incəldilməməsidir. Deyilir: جَرَشْته (onu incəltmədən döydüm/üyütdüm), o, جَرِيش (incə döyülməmiş) olar. الْجُرَاشة (cüraşə) – döyülmüş şeydən düşən qırıntılardır. جرّشت الرأس بالمشط (başını daraqla qaşıdım) – başı daraqla o qədər qaşıdın ki, kəpəyi çoxalsın. Xəlil zikr etmişdir ki, الجَرش (cərş) – yemək deməkdir.\n\nBu babdan şaz olan الجِرِشَّى (cirişşə) – nəfsdir (candır). Şair demişdir:\nإليه الجِرِشَّى وارْمَعَلَّ حَنِينُها (٢)\n(Canı ona tərəf yönəldi və ah-naləsi şiddətləndi).\n\nAmma onların مَضَى جَرْشٌ من اللّيل (gecənin bir qismi keçdi) demələrinə gəlincə, bu bir qrup/hissə deməkdir və qeyd etdiyimiz əsasdan şazdır. Şair demişdir:\nحتى إذا [ما] تُرِكَتْ بجَرْشِ (٣)\n(Hətta gecənin bir qismində tərk edildiyi zaman).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:27.644Z"
+ "ts": "2026-10-25T00:45:27.644Z",
+ "prev_az": "[جرش] (Cim, راء və şin): Bir əsasdır, o da şeyin üyüdülməsidir: «جَرْش الشَّئ» – şeyin döyülüb tam incəlməməsidir. Deyilir: «جَرَشْته» (onu üyütdüm), o, «جَرِيش» (cəriş – xırda üyüdülmüş) olar. «الْجُرَاشة» (cüraşə) – üyüdülmüş şeydən tökülən qırıntılardır. «جرّشت الرأس بالمشط» (başını daraqla qaşıdım) – başı dırnaq və ya daraqla elə qaşıdın ki, kəpək tökülsün. Xəlil zikr etmişdir ki, «الجَرش» (cərs) – yemək deməkdir. Babdan şaz olan «الجِرِشَّى» (cirişşə) – Nəfs (can) deməkdir. Şair demişdir: «Ona tərəf cirişşə (can) yönəldi və ah-naləsi şiddətləndi (2)» Qaldı ki, «مَضَى جَرْشٌ من اللّيل» (Gecənin bir qismi keçdi) sözü, bu, qeyd etdiyimiz əsasdan şazdır. Şair demişdir: «Hətta gecənin bir qismində tərk olunduğu zaman (3)».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytlərinin ərəbcə mətni tərcümədə saxlanılmamışdır.",
+  "Hərflərin adları ərəb əlifbası ilə yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T17:01:44.690Z"
 }

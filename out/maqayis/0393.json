@@ -11,7 +11,17 @@
   "page_to": 334
  },
  "ar": "ومن ذلك قولهم (بَلْسَمَ) الرَّجُل كَرَّه وجْهَه. فالميم فيه زائدة، وإنما هو من المُبْلِس، وهو الكئيب الحزِين المتندِّم. قال:\nوفى الوُجوهِ صُفْرَةٌ وإبْلَاسْ (٤) *",
- "az": "[بلسم] (Bə-lam-sin-mim) Buradan onların «بَلْسَمَ» (bəlsəmə) ifadəsi gəlir, kişi üzünü turşutdu. «م» (mim) hərfi artıqdır, bu «المُبْلِس» (əl-mublis - kədərli, peşman) kəlməsindəndir. Dedi: Və fil-vucuhi sufrətun və ibləs (4) (Üzlərdə sarılıq və kədər var).",
+ "az": "[بلسم] (Bə-lam-sin-mim)\nBuradan onların: «بَلْسَمَ» (bəlsəmə) – kişi üzünü turşutdu – sözü gəlir. «م» (mim) hərfi onda artıqdır; bu isə «المُبْلِس» (əl-mublis – qəmli, kədərli, peşman kimsə) sözündəndir. Şair demişdir:\nوفى الوُجوهِ صُفْرَةٌ وإبْلَاسْ (٤) *\n(Üzlərdə sarılıq və kədər/ümidsizlik var).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.770Z"
+ "ts": "2026-10-25T00:37:20.770Z",
+ "prev_az": "[بلسم] (Bə-lam-sin-mim) Buradan onların «بَلْسَمَ» (bəlsəmə) ifadəsi gəlir, kişi üzünü turşutdu. «م» (mim) hərfi artıqdır, bu «المُبْلِس» (əl-mublis - kədərli, peşman) kəlməsindəndir. Dedi: Və fil-vucuhi sufrətun və ibləs (4) (Üzlərdə sarılıq və kədər var).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir parçasının ərəbcə mətni buraxılmış, yalnız latınca oxunuşu verilmişdir.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə «(٤)» kimi saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-15T16:30:26.475Z"
 }

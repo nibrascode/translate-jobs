@@ -11,7 +11,18 @@
   "page_to": 301
  },
  "ar": "الباء واللام والعين أصلٌ واحد، وهو ازدراد الشئ. تقول:\nلمِعْتُ الشئَ أبْلَعُه. والبالوع (٢) من هذا لأنه يَبْلَعُ الماء. وسَعْدُ بُلَعَ نجمٌ.\nوالبُلَعُ السَّمّ فى قَامَة البَكْرَة (٣). والقياس واحدٌ، لأنَّه يَبْلَعُ الخشبة التى تسلكه. فأمّا قولهم بَلَّعَ الشَّيبُ فى رأسه فقريبُ القياسِ من هذا؛ لأنَّه إِذا شَمِل رأسَه فكأنَّه قد بَلِعَه.",
- "az": "«بلع» (bələ): الباء واللام والعين — tək bir əsasdır, o da bir şeyi uddur. Deyirsən: «ləmitüş-şeyə əbləuhu» (لمِعْتُ الشّيْءَ أَبْلَعُهُ) — bir şeyi uduram. «Əl-baluu» (البالوع) bundandır, çünki o, suyu udur. «Sədu buləh» (سَعْدُ بُلَعَ) — bir ulduzdur. «Əl-buləh» (البُلَع) — dolçanın oxundakı zəhərdir (٣). Qiyas təkdir, çünki o, içindən keçən taxtanı udur. Saç ağardığı zaman başda ağarmağın yayılmasına gəldikdə isə «ballə-ş-şeybu fi ra’sihi» — bunun qiyas1 buna yaxındır, çünki o, başını bürüdükdə guya onu udmuş olur.",
+ "az": "[بلع]\nالباء واللام والعين (ba, lam və ayn) tək bir əsasdır, o da bir şeyi udmaqdır. Deyirsən: بلِعْتُ الشئَ أبْلَعُه (bir şeyi uddum, uduram). البالوع (əl-balu' — kanalizasiya quyusu) (٢) bundandır, çünki o, suyu udur. سَعْدُ بُلَعَ (Sə'du Bulə') — bir ulduzun adıdır.\nالبُلَع (əl-bulə') — quyu çarxının qamətindəki (oxundakı) deşikdir (٣). Qiyas eynidir, çünki o, içindən keçən ağacı udur. Onların بَلَّعَ الشَّيبُ فى رأسه (saçın ağı başında yayıldı) sözünə gəldikdə isə, bunun qiyası da buna yaxındır; çünki ağ tüklər başı bürüdükdə sanki onu udmuş kimi olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:37.148Z"
+ "ts": "2026-10-25T00:33:37.148Z",
+ "prev_az": "«بلع» (bələ): الباء واللام والعين — tək bir əsasdır, o da bir şeyi uddur. Deyirsən: «ləmitüş-şeyə əbləuhu» (لمِعْتُ الشّيْءَ أَبْلَعُهُ) — bir şeyi uduram. «Əl-baluu» (البالوع) bundandır, çünki o, suyu udur. «Sədu buləh» (سَعْدُ بُلَعَ) — bir ulduzdur. «Əl-buləh» (البُلَع) — dolçanın oxundakı zəhərdir (٣). Qiyas təkdir, çünki o, içindən keçən taxtanı udur. Saç ağardığı zaman başda ağarmağın yayılmasına gəldikdə isə «ballə-ş-şeybu fi ra’sihi» — bunun qiyas1 buna yaxındır, çünki o, başını bürüdükdə guya onu udmuş olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«السَّمّ فى قَامَة البَكْرَة» ifadəsində «السَّمّ» (çarxın/dolçanın ox dəliyi) sözü yanlış olaraq «zəhər» kimi tərcümə edilmişdir.",
+  "«لمِعْتُ» əvəzinə «بَلِعْتُ» olmalıdır.",
+  "«qiyas1» şəklində hərf səhvi vardır."
+ ],
+ "review_ts": "2026-11-15T16:04:32.768Z"
 }

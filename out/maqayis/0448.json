@@ -11,7 +11,18 @@
   "page_to": 350
  },
  "ar": "التاء والفاء والراء كلمة واحدة، وهى التفرة (٢) الدائرة التى تحت الأنف فى وَسَط الشَّفَةِ العُلْيا. قال أبو عبيد: التّفْرةُ من الإنسان، وهى من البعير النَّعْو. والتَّفِرةُ نبتٌ، وهو أحبُّ المرعى إلى المال. قال:\nلها تَفِرَاتٌ تَحْتَها وقُصارُها … إلى مَشْرَةٍ لم تُعْتَلَقْ بالمحاجِنِ (٣)",
- "az": "[تفر] (tə-f-ر). Ta, fa və ra hərfləri tək bir kəlmədir, o da üst dodağın ortasında burnun altında olan dairəvi çuxur – et-təfərə (ət-təfirə)dir. Əbu Übeyd demişdir: Et-təfirə – insan üçün olan bu çuxurdur, dəvədə isə buna nəv (nəv‘) deyilir. Və et-təfirə – heyvanların yeməyi xoşladığı bir bitkidir. [Şair] demişdir: Onun altında təfirlər vardır, onun son həddi... İfratla əlləşdirilməmiş otlağa tərəfdir (3).",
+ "az": "[تفر]\nTa, fa və ra tək bir kəlmədir. O da التُّفْرَةُ (ət-tufrə) — burnun altında, üst dodağın ortasındakı çökəklikdir. Əbu Ubeyd demişdir: التُّفْرَةُ insanda olan həmin yerdir, dəvədə isə buna النَّعْوُ (ən-na'v) deyilir. التَّفِرَةُ (ət-təfirə) bir bitkidir ki, mal-qaranın ən sevimli otlağıdır. Şair demişdir:\nلها تَفِرَاتٌ تَحْتَها وقُصارُها … إلى مَشْرَةٍ لم تُعْتَلَقْ بالمحاجِنِ (٣)\n(Onun altında təfirə bitkiləri vardır və onun ən uzaq hüdudu çobanların əyri dəyənəkləri ilə toxunulmamış yamyaşıl bir otlağa çatır.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:05.804Z"
+ "ts": "2026-10-25T00:38:05.804Z",
+ "prev_az": "[تفر] (tə-f-ر). Ta, fa və ra hərfləri tək bir kəlmədir, o da üst dodağın ortasında burnun altında olan dairəvi çuxur – et-təfərə (ət-təfirə)dir. Əbu Übeyd demişdir: Et-təfirə – insan üçün olan bu çuxurdur, dəvədə isə buna nəv (nəv‘) deyilir. Və et-təfirə – heyvanların yeməyi xoşladığı bir bitkidir. [Şair] demişdir: Onun altında təfirlər vardır, onun son həddi... İfratla əlləşdirilməmiş otlağa tərəfdir (3).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök hərflərində ərəb qrafikası ilə latın əlifbası qarışıb (tə-f-ر).",
+  "Şeir beytinin ərəbcə mətni buraxılıb.",
+  "Şeirin mənası təhrif olunub («لم تُعْتَلَقْ بالمحاجِنِ» əyri əsalarla dəyib-əzilməmiş deməkdir)."
+ ],
+ "review_ts": "2026-11-15T16:43:31.583Z"
 }

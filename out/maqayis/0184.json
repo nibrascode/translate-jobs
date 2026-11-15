@@ -14,6 +14,10 @@
  "az": "«بجح» (Bəcəh)\nالباء والجيم والحاء كلمةٌ واحدة. (Bə, cim və hə — tək bir sözdür.)\nيقال بَجَحَ بالشئ إذا فرِح به ويُبَجَّح بكذا. (Deyilir: bəcəhə bi əş-şey' — bir şeyə sevindiyi zaman, və o, bununla sevindirilir.)\nوفى حديث أمّ زَرْع: «بجّحنى فَبجَحْتُ» أى فرَّحنى ففرِحت. (Ümmi Zərinin hədisində: «bəccəhəni fə bəcəhtü» — yəni məni sevindirdi, mən də sevindim.)\nقال الراعى: (Ər-Rai demişdir:)\nفما الفَقْرُ من أرضِ العَشيرة ساقَنَا … إليكَ ولكِنّا بقرْباكَ نَبْجَحُ (١)\n(Qəbilə torpağından yoxsulluq bizi sənə tərəf gətirmədi... lakin biz sənin yaxınlığınla sevinirik (١))",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:26:42.582Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T15:42:19.755Z"
 }

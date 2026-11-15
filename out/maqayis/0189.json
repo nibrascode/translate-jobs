@@ -11,9 +11,19 @@
   "page_to": 200
  },
  "ar": "الباء والجيم والميم أصل واحد، وهو من الجمع. يقال للجمْع الكثير بَجْم. ومن ذلك بَجَّمَ فى نظره، وذلك إذا جَمَّع أجفانَه ونَظَرَ.",
- "az": "«بجم» (bəcəm). Ba, cim və mim hərfləri tək bir əsərə dəlalət edir, o da toplamaqdır. Çoxlu toplamağa «بَجْم» (bəcəm) deyilir. Eynilə, «بَجَّمَ فى نظره» (bəccəmə fi nəzarihi) ifadəsi də bundandır; bu, göz qapaqlarını yığıb baxdığı zaman işlədilir.",
+ "az": "[بجم]\nBa, cim və mim tək bir əsasdır, o da toplamaqdır. Çoxlu topluma (böyük dəstəyə) بَجْم (bəcm) deyilir. بَجَّمَ فى نظره (baxışında göz qapaqlarını yığdı) ifadəsi də bundandır; bu, göz qapaqlarını yığıb baxdığı zaman deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:27:05.781Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«بجم» (bəcəm). Ba, cim və mim hərfləri tək bir əsərə dəlalət edir, o da toplamaqdır. Çoxlu toplamağa «بَجْم» (bəcəm) deyilir. Eynilə, «بَجَّمَ فى نظره» (bəccəmə fi nəzarihi) ifadəsi də bundandır; bu, göz qapaqlarını yığıb baxdığı zaman işlədilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[بجم]» formatında verilməyib.",
+  "«أصل واحد» ifadəsi «tək bir əsərə» kimi səhv tərcümə olunub.",
+  "«الجمْع الكثير» ifadəsi «çoxlu toplamağa» (məsdər) kimi yanlış verilib və «بَجْم» sözü «bəcəm» kimi səhv oxunub."
+ ],
+ "review_ts": "2026-11-15T15:43:16.262Z"
 }

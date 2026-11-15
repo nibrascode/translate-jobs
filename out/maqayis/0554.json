@@ -11,7 +11,16 @@
   "page_to": 396
  },
  "ar": "الثاء والواو والميم كلمةٌ واحدة، وهى الثُّومَة من النَّبات. وربَّما سمَّوا قبِيعة السَّيف ثُومةً. وليس ذلك بأصل.",
- "az": "[ثوم]\nالثاء والواو والميم كلمةٌ واحدة، وهى الثُّومَة من النَّبات. وربَّما سمَّوا قبِيعة السَّيف ثُومةً. وليس ذلك بأصل. (Sə, vau və mim hərfləri tək bir kəlmədir, o da bitkilərdən olan əs-sümədir. Və bəzən qılıncın başlığını səumə adlandırırlar. Bu isə əsas deyil).",
+ "az": "[ثوم]\nالثاء والواو والميم كلمةٌ واحدة، وهى الثُّومَة من النَّبات. وربَّما سمَّوا قبِيعة السَّيف ثُومةً. وليس ذلك بأصل. (Sə, vau və mim hərfləri tək bir kəlmədir, o da bitkilərdən olan əs-sümədir. Və bəzən qılıncın başlığını sümə adlandırırlar. Bu isə əsas deyil).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:42:41.762Z"
+ "ts": "2026-10-25T00:42:41.762Z",
+ "prev_az": "[ثوم]\nالثاء والواو والميم كلمةٌ واحدة، وهى الثُّومَة من النَّبات. وربَّما سمَّوا قبِيعة السَّيف ثُومةً. وليس ذلك بأصل. (Sə, vau və mim hərfləri tək bir kəlmədir, o da bitkilərdən olan əs-sümədir. Və bəzən qılıncın başlığını səumə adlandırırlar. Bu isə əsas deyil).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ثومة» sözü «səumə» kimi səhv yazılıb (doğrusu: «sümə» və ya «səvmə»)."
+ ],
+ "review_ts": "2026-11-15T16:57:10.922Z"
 }

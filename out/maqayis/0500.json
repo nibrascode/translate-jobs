@@ -13,5 +13,7 @@
  "ar": "الثاء والهمزة، كلمتان ليستا أصلا، يقال ثأثأت بالإبل صِحْتُ بها؛ ولقِيتُ فلاناً فثأثأتُ منه (٤)، أى هِبْتُه.",
  "az": "«ثأثأ»: الثاء və Həmzə, əsli olmayan iki kəlimədir, deyilir: ثأثأت بالإبل — dəvələrə qışqırdım; və (لقِيتُ فلاناً فثأثأتُ منه) (٤) — filankəslə qarşılaşdım və ondan qorxdum.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:16.273Z"
+ "ts": "2026-10-25T00:39:16.273Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

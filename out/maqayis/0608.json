@@ -11,7 +11,17 @@
   "page_to": 435
  },
  "ar": "الجيم والدال والحرف المعتل خمسة أصول متباينة.\nفالجَدَا مقصور: للمطر العامّ، والعطيّة الجرْلة (١). ويقال أجديت عليه.\nوالجَدَاء ممدود: الغَنَاء، وهو قياس ما قبله من المقصور. قال:\nلَقَلَّ جَداءً على مالك … إذا الحربُ شُبَّت بأجذَالها (٢)\nوالثانى: الجَادِىُّ الزَّعفران. والثالث: الجَدْى، معروف. والجَدَايَة: الظَّبية.\nوالرابع: الجَدِيَّة القِطعة من الدم. والخامس: جديتا السّرج (٣)، وهما تحت دفَّتيه.",
- "az": "[جدوى]: الجيم والدال والحرف المعتل خمسة أصول متباينة (Cim, dal və uzadılan hərf beş fərqli əsas kökdür).\nفالجَدَا مقصور: للمطر العامّ، والعطيّة الجرْلة (١) (Qısaldılmış əl-cəda: ümumi yağış və bol bəxşiş üçündür). ويقال أجديت عليه (Və deyilir: «əcdeytü əleyhi»).\nوالجَدَاء ممدود: الغَنَاء، وهو قياس ما قبله من المقصور. قال (Uzadılmış əl-cəda: fayda deməkdir, bu da əvvəlki qısaldılmış sözün qiyasındadır. Şair demişdir):\nلَقَلَّ جَداءً على مالك … إذا الحربُ شُبَّت بأجذَالها (٢)\nوالثانى: الجَادِىُّ الزَّعفران (İkincisi: əl-cadiyyü – zəfərandır). والثالث: الجَدْى، معروف (Üçüncüsü: əl-cədy – məlumdur). والجَدَايَة: الظَّبية (Və əl-cədayə: dişi ceyrandır).\nوالرابع: الجَدِيَّة القِطعة من الدم (Dördüncüsü: əl-cədiyyə – qan parçasındandır). وخامسها: جديتا السّرج (٣), وهما تحت دفَّتيه (Beşincisi: yəhərin iki cədiyəsidir ki, onların hər ikisi yəhərin iki örtüyünün altındadır).",
+ "az": "[جدوى]\nالجيم والدال والحرف المعتل خمسة أصول متباينة.\n(Cim, dal və illətli hərf beş fərqli əsas kökdür).\nفالجَدَا مقصور: للمطر العامّ، والعطيّة الجرْلة (١). ويقال أجديت عليه.\n(Məqsur (qısa əliflə yazılan) «الجَدَا» (əl-cədə): ümumi yağış və bol bəxşiş mənasındadır (١). Deyilir: «أجديت عليه» (ona bəxşiş verdim)).\nوالجَدَاء ممدود: الغَنَاء، وهو قياس ما قبله من المقصور. قال:\n(Məmdud (uzun əliflə yazılan) «الجَدَاء» (əl-cəda): fayda, ehtiyacsızlıq deməkdir, bu da əvvəlki məqsur sözün qiyasındadır. Şair demişdir):\nلَقَلَّ جَداءً على مالك … إذا الحربُ شُبَّت بأجذَالها (٢)\n(Müharibə öz kökləri (şölələri) ilə alovlandıqda Malikə faydası çox az olar (٢)).\nوالثانى: الجَادِىُّ الزَّعفران. والثالث: الجَدْى، معروف. والجَدَايَة: الظَّبية.\n(İkincisi: «الجَادِىُّ» (əl-cadiyyü) – zəfərandır. Üçüncüsü: «الجَدْى» (əl-cədy - oğlaq) məlumdur. «الجَدَايَة» (əl-cədayə) – dişi ceyrandır).\nوالرابع: الجَدِيَّة القِطعة من الدم. والخامس: جديتا السّرج (٣)، وهما تحت دفَّتيه.\n(Dördüncüsü: «الجَدِيَّة» (əl-cədiyyə) – qan laxtası/parçasıdır. Beşincisi: «جديتا السّرج» (yəhərin iki cədiyəsi/yastıqçası) (٣), o ikisi yəhərin iki taxtasının altındadır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:06.593Z"
+ "ts": "2026-10-25T00:45:06.593Z",
+ "prev_az": "[جدوى]: الجيم والدال والحرف المعتل خمسة أصول متباينة (Cim, dal və uzadılan hərf beş fərqli əsas kökdür).\nفالجَدَا مقصور: للمطر العامّ، والعطيّة الجرْلة (١) (Qısaldılmış əl-cəda: ümumi yağış və bol bəxşiş üçündür). ويقال أجديت عليه (Və deyilir: «əcdeytü əleyhi»).\nوالجَدَاء ممدود: الغَنَاء، وهو قياس ما قبله من المقصور. قال (Uzadılmış əl-cəda: fayda deməkdir, bu da əvvəlki qısaldılmış sözün qiyasındadır. Şair demişdir):\nلَقَلَّ جَداءً على مالك … إذا الحربُ شُبَّت بأجذَالها (٢)\nوالثانى: الجَادِىُّ الزَّعفران (İkincisi: əl-cadiyyü – zəfərandır). والثالث: الجَدْى، معروف (Üçüncüsü: əl-cədy – məlumdur). والجَدَايَة: الظَّبية (Və əl-cədayə: dişi ceyrandır).\nوالرابع: الجَدِيَّة القِطعة من الدم (Dördüncüsü: əl-cədiyyə – qan parçasındandır). وخامسها: جديتا السّرج (٣), وهما تحت دفَّتيه (Beşincisi: yəhərin iki cədiyəsidir ki, onların hər ikisi yəhərin iki örtüyünün altındadır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin Azərbaycan dilinə tərcüməsi verilməmişdir.",
+  "Ərəbcə mətndəki «والخامس» sözü tərcümədə «وخامسها» şəklində təhrif edilmişdir."
+ ],
+ "review_ts": "2026-11-15T17:01:01.190Z"
 }

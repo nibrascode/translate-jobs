@@ -11,7 +11,16 @@
   "page_to": 426
  },
  "ar": "الجيم والحاء والراءِ أصلٌ يدلّ على ضِيق الشئ والشدّة.\nفالجِحَرة جمع جُحْر. [وأجحَرَ (٣)] فلاناً الفَزَعُ والخوفُ، إذا ألجأَه. ومَجاحِرُ لقومِ مَكامِنهم. وجَحَرَتْ عينُه إذا غَارَت. والجَحْرة: السَّنَة الشديدة.",
- "az": "[جحر] (Cim, ha və ra hərfləri şeyin daralmasına və sərtliyinə dəlalət edən bir əsasdır.\nFəminə جِحَرة cəmi جُحْر (yuva) sözüdür. [Və qorxu filankəsi sıxışdırdıqda أجحَرَ (٣)] deyilir. مَجاحِرُ isə bir qövmün gizləndiyi yerlərdir. Onun gözü çökdükdə جَحَرَتْ عينُه deyilir. الْجَحْرة isə şiddətli ildir.",
+ "az": "[جحر] (Cim, ha və ra) hərfləri şeyin daralmasına və sərtliyinə dəlalət edən bir əsasdır.\nفالجِحَرة cəmi جُحْر (yuva) sözüdür. Qorxu və diksinmə filankəsi məcbur edib sıxışdırdıqda [وأجحَرَ (٣)] فلاناً الفَزَعُ والخوفُ deyilir. مَجاحِرُ isə bir qövmün gizləndiyi yerlərdir. Göz çökdükdə جَحَرَتْ عينُه deyilir. الْجَحْرة isə şiddətli ildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:44:44.167Z"
+ "ts": "2026-10-25T00:44:44.167Z",
+ "prev_az": "[جحر] (Cim, ha və ra hərfləri şeyin daralmasına və sərtliyinə dəlalət edən bir əsasdır.\nFəminə جِحَرة cəmi جُحْر (yuva) sözüdür. [Və qorxu filankəsi sıxışdırdıqda أجحَرَ (٣)] deyilir. مَجاحِرُ isə bir qövmün gizləndiyi yerlərdir. Onun gözü çökdükdə جَحَرَتْ عينُه deyilir. الْجَحْرة isə şiddətli ildir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Fəminə» kimi təhrif olunmuş söz daxil edilmişdir."
+ ],
+ "review_ts": "2026-11-15T16:59:47.569Z"
 }

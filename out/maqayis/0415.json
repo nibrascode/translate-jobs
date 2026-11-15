@@ -13,5 +13,7 @@
  "ar": "التاء والقاف كالذى قبله. يقولون تَتَقْتَقَ من الجَبَلِ إذا وَقَع.",
  "az": "«تقق» (t-q-q): Tə və qaf hərfləri əvvəlki kimidir. Deyirlər ki, تَتَقْتَقَ من الجَبَلِ (tətəqtəqə minəl-cəbəl): dağdan yıxıldıqda.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.115Z"
+ "ts": "2026-10-25T00:37:44.115Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

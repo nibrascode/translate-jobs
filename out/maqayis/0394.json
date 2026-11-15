@@ -13,5 +13,10 @@
  "ar": "ومن ذلك الناقة (البَلْعَكُ) وهى المسترخيَة اللَّحم. واللام زائدةٌ، وهو من البَعْك وهو التجمُّع. وقد ذُكِر.",
  "az": "[بلعك] (Bə-lam-əyn-kəf) Buradan «البَلْعَكُ» (əl-bəl’ək) dəvəsi gəlir, əti boşalmış (sallanan). «ل» (lam) hərfi artıqdır, bu «البَعْك» (əl-bə’k - toplanma) kəlməsindəndir. Bu qeyd edilmişdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.770Z"
+ "ts": "2026-10-25T00:37:20.770Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:30:26.475Z"
 }

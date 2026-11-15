@@ -11,7 +11,16 @@
   "page_to": 335
  },
  "ar": "البَهْصَلَة: المرأة القَصِيرة، وحمار بُهْصُلٌ (٣) قصير.",
- "az": "[بهصل] (Bə-ha-sad-lam) «البَهْصَلَة» (əl-bəhsələ): qısa boylu qadın, «حمار بُهْصُلٌ» (himaru buhsul - qısa boylu eşşək).",
+ "az": "[بهصل] (Bə-ha-sad-lam)\n«البَهْصَلَة» (əl-bəhsələ): qısa boylu qadın, «حمار بُهْصُلٌ» (٣) (buhsul eşşək) isə qısaboyludur.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.771Z"
+ "ts": "2026-10-25T00:37:20.771Z",
+ "prev_az": "[بهصل] (Bə-ha-sad-lam) «البَهْصَلَة» (əl-bəhsələ): qısa boylu qadın, «حمار بُهْصُلٌ» (himaru buhsul - qısa boylu eşşək).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (٣) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:30:26.476Z"
 }

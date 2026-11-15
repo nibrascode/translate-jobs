@@ -11,7 +11,17 @@
   "page_to": 338
  },
  "ar": "التاء والعين من الكلام الأصيل الصَّحيح، وقياسُه القَلَقُ والإِكراه. يقال تَعْتَعَ الرَّجُلُ إذا تَبَلَّدَ فى كلامه. وكلُّ من أُكرِهَ فى شئٍ حتى يَقْلَقَ [فقد (٢)] تُعْتِع. و\nفى الحديث: «حتى يُؤخَذَ للضَّعيف حقُّه من القوِىّ غيْرَ مُتَعْتَعٍ». ويقال تَعْتَعَ الفَرَسُ إذا ارْتَطَمَ. قال:\nيُتَعْتِعُ فى الخَبَارِ إذا علاهُ … ويعثُر فى الطريقِ المستقيمِ (٣)\nويقال وقع القوم فى تَعَاتِعَ، أى أراجِيفَ وتَخْليطٍ.",
- "az": "«تعع» (t-ə-ə): Tə və eyn əsas və səhih kəlmələrdəndir, onun ölçüsü iztirab və məcburiyyətdir. Deyilir ki, تَعْتَعَ الرَّجُلُ (tətcərəl-racul) — kişi sözündə kəkələdikdə və ya çaşdıqda. Hər hansı bir şeyə qarşı iztirab çəkənə qədər məcbur edilən kəs [həqiqətən də] (فقد) (٢) təuticə məruz qalmışdır. \nVə hədisdə: «حتى يُؤخَذَ للضَّعيف حقُّه من القوِىّ غيْرَ مُتَعْتَعٍ» (Zəiflərin haqqı güclüdən heç bir maneə və iztirab olmadan alınmayınca). Və deyilir: تَعْتَعَ الفَرَسُ (tətcərəl-fəras) — at irəliləyərkən dolaşıb qaldıqda. Şair demişdir:\nيُتَعْتِعُ فى الخَبَارِ إذا علاهُ … ويعثُر فى الطريقِ المستقيمِ (٣)\n(Yumşaq torpağa qalxanda büdrəyər... və düz yolda yıxılar)\nVə deyilir: qövm تَعَاتِعَ (təa-tiə) vəziyyətinə düşdü, yəni şayiələr və qarışıqlıq içində qaldı.",
+ "az": "[تعع]\nTa və ayn hərfləri əsil, səhih kəlamdandır, onun ölçüsü iztirab və məcburiyyətdir. Deyilir: تَعْتَعَ الرَّجُلُ (kişi nitqində kəkələdikdə, ləngidikdə). Hər hansı bir şeyə iztirab çəkənə qədər məcbur edilən kəs [həqiqətən də] (فقد) (٢) تُعْتِعَ (iztiraba salınmışdır).\nVə hədisdə deyilir: «حتى يُؤخَذَ للضَّعيف حقُّه من القوِىّ غيْرَ مُتَعْتَعٍ» (Hətta zəifin haqqı güclüdən incidilmədən, iztirab verilmədən alınsın). Və deyilir: تَعْتَعَ الفَرَسُ (at batqlıqda/yumşaq torpaqda ilişib qaldıqda). Şair demişdir:\nيُتَعْتِعُ فى الخَبَارِ إذا علاهُ … ويعثُر فى الطريقِ المستقيمِ (٣)\n(Yumşaq torpağa çıxdıqda büdrəyib ləngiyər, düz yolda isə yıxılar)\nVə deyilir: qövm تَعَاتِعَ vəziyyətinə düşdü, yəni şayiələr və qarışıqlıq içində qaldı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.115Z"
+ "ts": "2026-10-25T00:37:44.115Z",
+ "prev_az": "«تعع» (t-ə-ə): Tə və eyn əsas və səhih kəlmələrdəndir, onun ölçüsü iztirab və məcburiyyətdir. Deyilir ki, تَعْتَعَ الرَّجُلُ (tətcərəl-racul) — kişi sözündə kəkələdikdə və ya çaşdıqda. Hər hansı bir şeyə qarşı iztirab çəkənə qədər məcbur edilən kəs [həqiqətən də] (فقد) (٢) təuticə məruz qalmışdır. \nVə hədisdə: «حتى يُؤخَذَ للضَّعيف حقُّه من القوِىّ غيْرَ مُتَعْتَعٍ» (Zəiflərin haqqı güclüdən heç bir maneə və iztirab olmadan alınmayınca). Və deyilir: تَعْتَعَ الفَرَسُ (tətcərəl-fəras) — at irəliləyərkən dolaşıb qaldıqda. Şair demişdir:\nيُتَعْتِعُ فى الخَبَارِ إذا علاهُ … ويعثُر فى الطريقِ المستقيمِ (٣)\n(Yumşaq torpağa qalxanda büdrəyər... və düz yolda yıxılar)\nVə deyilir: qövm تَعَاتِعَ (təa-tiə) vəziyyətinə düşdü, yəni şayiələr və qarışıqlıq içində qaldı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizə formatı pozulub.",
+  "Ərəb hərflərinin adlandırılmasında təhriflər və latın transliterasiyası əlavələri var."
+ ],
+ "review_ts": "2026-11-15T16:40:02.267Z"
 }

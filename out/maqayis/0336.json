@@ -11,7 +11,17 @@
   "page_to": 311
  },
  "ar": "الباء والهاء والميم: أن يبقى الشَّئُ لا يُعْرَفُ المَأْتَى إليه. يقال هذا أمرٌ مُبْهَم. ومنه البُهْمةُ الصَّخرة التى لا خَرْق فيها، وبها شُبِّه الرّجُل الشُّجَاعُ الذى لا يُقدَرُ عليه من أىِّ ناحيةٍ طُلِب. وقال قوم: البُهْمةُ جماعةُ الفرسان. ومنه البَهيمُ: اللَّونُ الذى لا يخَالِطُه غيْرُه، سواداً كانَ أو غيرَه. وأبْهَمْتُ البابَ: أغلقْتُه.\nومما شَذَّ عن هذا الباب: الإبهام من الأصابع. والبَهْم صِغارُ الغنَم. والبُهْمَى نبْتٌ، وقد أبْهَمَتِ الأرضُ كثُرَتْ بُهْمَاهَا. قال:\nلها مُوفِدٌ وَفَّاهُ وَاصٍ كأنّه … زَرَابىُّ قَيْلٍ قَدْ تُحُومِى مُبْهمُ (٢)",
- "az": "«ب» (با), «ه» (هə) və «م» (mim): Bir şeyin yolunun, gəlinəcək yerinin bilinməyib qalması. Deyilir ki, bu iş «مُبْهَم» (mübhəm, qaranlıq) bir işdir. Həmçinin «البُهْمة» – deşiyi və yolu olmayan qayadır, heç bir tərəfdən üstünə gəlmək mümkün olmayan cəsur kişi də buna bənzədilmişdir. Bəzi qövmlər demişlər ki: «البُهْمة» süvarilər dəstəsidir. Həmçinin «البَهيم» – qarası və ya başqa rəngi olsun, başqa rəngə qarışmayan tək rəngdir. «أبْهَمْتُ البابَ» – qapını bağladım.\n\nBu fəsildən kənara çıxan (şaz) sözlər bunlardır: Əllərdəki «الإبهام» (baş barmaq). «البَهْم» – kiçik qoyunlar. «البُهْمَى» isə bir bitkidir, «أبْهَمَتِ الأرضُ» dedikdə yerin bəhmə bitkisi bol oldu deməkdir. Şair demişdir:\nلَهَا مُوفِدٌ وَفَّاهُ وَاصٍ كأنّه … زَرَابىُّ قَيْلٍ قَدْ تُحُومِى مُبْهمُ (٢)",
+ "az": "[bəhəm]\n«ب» (ba), «ه» (hə) və «م» (mim): Bir şeyin yolunun, gəlinəcək səmtinin bilinməyib qalmasıdır. Deyilir: هذا أمرٌ مُبْهَم (Bu, anlaşılmaz, qaranlıq bir işdir). Buradandır: البُهْمةُ – içində heç bir yarıq, dəlik olmayan qaya; heç bir tərəfdən üstün gəlmək mümkün olmayan cəsur kişi də buna bənzədilmişdir. Bəziləri demişlər: البُهْمةُ – süvarilər dəstəsidir. Buradandır: البَهيمُ – istər qara, istərsə də başqa rəng olsun, içinə başqa rəng qarışmayan saf rəngdir. أبْهَمْتُ البابَ – qapını bağladım.\nBu babdan kənara çıxan (şaz) sözlər bunlardır: barmaqlardan olan الإبهام (baş barmaq); البَهْم – xırdabuynuzlu heyvanların (qoyun-keçinin) balaları; البُهْمَى – bir növ bitkidir. أبْهَمَتِ الأرضُ – yerin bəhmə bitkisi çoxaldı. Şair demişdir:\nلها مُوفِدٌ وَفَّاهُ وَاصٍ كأنّه … زَرَابىُّ قَيْلٍ قَدْ تُحُومِى مُبْهمُ (٢)\n(Onun uca bir təpəsi vardır ki, yetişən onu ucaltmışdır; sanki o, qorunan və toxunulmaz olan Yəmən hökmdarının xalçaları kimidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:34:14.633Z"
+ "ts": "2026-10-25T00:34:14.633Z",
+ "prev_az": "«ب» (با), «ه» (هə) və «م» (mim): Bir şeyin yolunun, gəlinəcək yerinin bilinməyib qalması. Deyilir ki, bu iş «مُبْهَم» (mübhəm, qaranlıq) bir işdir. Həmçinin «البُهْمة» – deşiyi və yolu olmayan qayadır, heç bir tərəfdən üstünə gəlmək mümkün olmayan cəsur kişi də buna bənzədilmişdir. Bəzi qövmlər demişlər ki: «البُهْمة» süvarilər dəstəsidir. Həmçinin «البَهيم» – qarası və ya başqa rəngi olsun, başqa rəngə qarışmayan tək rəngdir. «أبْهَمْتُ البابَ» – qapını bağladım.\n\nBu fəsildən kənara çıxan (şaz) sözlər bunlardır: Əllərdəki «الإبهام» (baş barmaq). «البَهْم» – kiçik qoyunlar. «البُهْمَى» isə bir bitkidir, «أبْهَمَتِ الأرضُ» dedikdə yerin bəhmə bitkisi bol oldu deməkdir. Şair demişdir:\nلَهَا مُوفِدٌ وَفَّاهُ وَاصٍ كأنّه … زَرَابىُّ قَيْلٍ قَدْ تُحُومِى مُبْهمُ (٢)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı kök («[bəhəm]») ilə başlamayıb.",
+  "Şeir beytinin Azərbaycan dilinə tərcüməsi verilməyib."
+ ],
+ "review_ts": "2026-11-15T16:07:39.821Z"
 }

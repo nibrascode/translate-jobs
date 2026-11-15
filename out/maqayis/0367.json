@@ -11,7 +11,17 @@
   "page_to": 329
  },
  "ar": "ومن ذلك (بُحْتُرٌ) وهو القصير المجتمِع الخَلْق. فهذا منحوتٌ من كلمتين، من الباء والتاء والراء، وهو من بترتُه فبُتِر، كأنّه حُرِم الطُّولَ فبُتِر خَلْقه.\nوالكلمة الثانية الحاء والتاء والراء، هو من حَتَرتُ وأَحْتَرت، وذلك أنْ لا تُفْضِلَ على أحدٍ. يقال أَحْتَرَ على نَفْسِه [وعِياله] أى ضيِّق عليهم. فقد صار هذا المعنى فى القصير لأنّه لم يُعْطَ ما أُعْطِيَه الطَّويلُ.",
- "az": "[بحتر] (Bə-ha-tə-ra) Buradan «بُحْتُرٌ» (buhtur) kəlməsi gəlir ki, bu da qısa boylu, bədən quruluşu yığcam olan deməkdir. Bu, iki kəlmədən nəht edilmişdir: «ب» (bə), «ت» (tə) və «ر» (ra) hərflərindən, bu da «بترتُه» (bətərtuhu - onu kəsdim) kəlməsindəndir, sanki boyu kəsildiyi üçün bədən quruluşu da kəsik (qısa) olmuşdur. İkinci kəlmə «ح» (ha), «ت» (tə) və «ر» (ra) hərfləridir, bu da «حَتَرتُ» (hətərtu) və «أَحْتَرْتُ» (əhtərtu) kəlməsindəndir, yəni heç kəsə üstünlük verməmək. Deyilir ki, «أَحْتَرَ على نَفْسِه» (əhtərə alə nəfsihi - özünə və ailəsinə qarşı xəsislik etdi, yəni onları sıxdı). Bu məna qısa boylu üçün də keçərlidir, çünki ona uzun boyluya verilən (boy) verilməmişdir.",
+ "az": "[بحتر]\nBu qəbildəndir: بُحْتُرٌ (buhtur) — bədən quruluşu yığcam olan qısaboyludur. Bu, iki kəlmədən nəht edilmişdir: ba, ta və ra hərflərindən; bu da «بترتُه فبُتِر» (onu kəsdim, o da kəsildi) ifadəsindəndir, sanki o, boydan məhrum edilmiş və bədən quruluşu kəsilmişdir (qısa qalmışdır).\nİkinci kəlmə ha, ta və ra hərfləridir; bu da «حَتَرتُ وأَحْتَرت» kəlməsindəndir ki, heç kimə əlavə (artıq) bir şey verməməkdir. Deyilir: «أَحْتَرَ على نَفْسِه [وعِياله]» — yəni özünə və ailəsinə qarşı qısıntı etdi (xəsislik etdi). Bu məna qısaboyluda da cəmlənmişdir, çünki uzuna verilən şey ona verilməmişdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.769Z"
+ "ts": "2026-10-25T00:37:20.769Z",
+ "prev_az": "[بحتر] (Bə-ha-tə-ra) Buradan «بُحْتُرٌ» (buhtur) kəlməsi gəlir ki, bu da qısa boylu, bədən quruluşu yığcam olan deməkdir. Bu, iki kəlmədən nəht edilmişdir: «ب» (bə), «ت» (tə) və «ر» (ra) hərflərindən, bu da «بترتُه» (bətərtuhu - onu kəsdim) kəlməsindəndir, sanki boyu kəsildiyi üçün bədən quruluşu da kəsik (qısa) olmuşdur. İkinci kəlmə «ح» (ha), «ت» (tə) və «ر» (ra) hərfləridir, bu da «حَتَرتُ» (hətərtu) və «أَحْتَرْتُ» (əhtərtu) kəlməsindəndir, yəni heç kəsə üstünlük verməmək. Deyilir ki, «أَحْتَرَ على نَفْسِه» (əhtərə alə nəfsihi - özünə və ailəsinə qarşı xəsislik etdi, yəni onları sıxdı). Bu məna qısa boylu üçün də keçərlidir, çünki ona uzun boyluya verilən (boy) verilməmişdir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başında AR-da olmayan hərf adları «(Bə-ha-tə-ra)» əlavə edilmişdir.",
+  "«وعِياله» mətni buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:25:16.963Z"
 }

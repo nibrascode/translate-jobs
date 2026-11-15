@@ -11,7 +11,16 @@
   "page_to": 430
  },
  "ar": "الجيم والخاء والرَّاء: قُبْحٌ فى الشئ إذا اتسع. يقولون جَخَّرْنَا البئرَ وسَّعْناها. والجَخَرُ ذَمٌّ فى صفة الفم، قالوا: هو اتِّساعُه، وقالوا: تغيُّرُ رائحتهِ.",
- "az": "[جخر]: الجيم والخاء والرَّاء: قُبْحٌ فى الشئ إذا اتسع (Cim, xa və ra hərfləri: genişləndikdə şeydə olan çirkinlikdir). يقولون جَخَّرْنَا البئرَ وسَّعْناها (Onlar «cəxxərnəl-birə» – quyunu genişləndirdik – deyirlər). والجَخَرُ ذَمٌّ فى صفة الفم، قالوا: هو اتِّساعُه، وقالوا: تغيُّرُ رائحتهِ (Əl-caxər – ağzın vəsfində pis sifətdir; onun geniş olması, yaxud qoxusunun dəyişməsi demişlər).",
+ "az": "[جخر] (Cim, xa və ra hərfləri: şey genişləndikdə onda olan çirkinlikdir. Onlar: جَخَّرْنَا البئرَ (Quyunu genişləndirdik) deyirlər. الْجَخَرُ – ağzın vəsfində pis sifətdir; onun geniş olması, yaxud qoxusunun dəyişməsi demişlər.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:06.593Z"
+ "ts": "2026-10-25T00:45:06.593Z",
+ "prev_az": "[جخر]: الجيم والخاء والرَّاء: قُبْحٌ فى الشئ إذا اتسع (Cim, xa və ra hərfləri: genişləndikdə şeydə olan çirkinlikdir). يقولون جَخَّرْنَا البئرَ وسَّعْناها (Onlar «cəxxərnəl-birə» – quyunu genişləndirdik – deyirlər). والجَخَرُ ذَمٌّ فى صفة الفم، قالوا: هو اتِّساعُه، وقالوا: تغيُّرُ رائحتهِ (Əl-caxər – ağzın vəsfində pis sifətdir; onun geniş olması, yaxud qoxusunun dəyişməsi demişlər).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin formatı pozulmuş, Ərəb dili mətni təkrarlanmışdır."
+ ],
+ "review_ts": "2026-11-15T17:00:21.119Z"
 }

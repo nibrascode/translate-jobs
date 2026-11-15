@@ -13,5 +13,10 @@
  "ar": "ومن ذلك (البِرْقِش) وهو طائرٌ. وهو من كلمتين: من رَقَشْتُ الشَّئَ - وهو كالنَّقش - ومن البَرَش وهو اختلافُ اللونين، وهو معروفٌ.",
  "az": "[برقش] (Bə-ra-qaf-şin) Buradan «البِرْقِش» (əl-birqiş) gəlir ki, bu bir quşdur. Bu iki kəlmədəndir: «رَقَشْتُ الشَّئَ» (rəqəštuş-şəy’ə - bir şeyi naxışladım) - bu naxış kimidir - və «البَرَش» (əl-bərəş - iki rəngin qarışığı), bu məlumdur.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.769Z"
+ "ts": "2026-10-25T00:37:20.769Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:26:40.187Z"
 }

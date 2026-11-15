@@ -11,7 +11,18 @@
   "page_to": 336
  },
  "ar": "البَرْقَطَةُ: خَطْوٌ متقارب. واللّه أعلَمُ بالصَّواب.\n(تمَّ كتاب الباء)",
- "az": "«برقط» (b-r-q-t): البَرْقَطَةُ (əl-bərqətə): yaxın-yaxın addımlamaqdır. Allah doğrusunu daha yaxşı bilir.\n(Ba hərfinin kitabı başa çatdı)",
+ "az": "[برقط]\nالبَرْقَطَةُ (yaxın-yaxın addımlamaqdır). واللّه أعلَمُ بالصَّواب (Allah doğrusunu daha yaxşı bilir).\n(تمَّ كتاب الباء) (Ba hərfinin kitabı başa çatdı)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.115Z"
+ "ts": "2026-10-25T00:37:44.115Z",
+ "prev_az": "«برقط» (b-r-q-t): البَرْقَطَةُ (əl-bərqətə): yaxın-yaxın addımlamaqdır. Allah doğrusunu daha yaxşı bilir.\n(Ba hərfinin kitabı başa çatdı)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizə formatı pozulub.",
+  "Gərəksiz transliterasiya əlavə edilib.",
+  "Abzas bölünməsi nəzərə alınmayıb."
+ ],
+ "review_ts": "2026-11-15T16:40:02.267Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 300
  },
  "ar": "الباء واللام والسين أصلٌ واحد، وما بَعْدَه فلا معوَّلَ عليه.\nفالأصلُ اليَأْسُ، يقال أَبْلَسَ إذا يَئِسَ. قال اللّه تعالى: ﴿إِذا هُمْ فِيهِ مُبْلِسُونَ (١﴾ قالوا: ومن ذلك اشتُقّ اسم إِبْليس، كأَنَّهُ يَئِسَ مِنْ رحمة اللّه.\nومن هذا الباب أبْلَسَ الرجُلُ سَكَتْ، ومنه أبْلَسَتِ النّاقة، وهى مِبْلَاسٌ، إذا لم تَرْغُ (٢) مِنْ شِدَّةِ الضَّبَعَة: فأما قولُ ابنِ أحمر:\nعُوجى ابنَةَ البَلَسِ الظَّنُونِ فقد … يَرْبُو الصَّغِيرُ ويُجْبَرُ الكسْرُ\nفيقال إِنَّ البَلَسَ الواجم.",
- "az": "«بلس» (bələs): الباء واللام والسين — tək bir əsasdır, ondan sonrakına isə etibar yoxdur. Əsası ümidsizlikdir, «əbləsə» (أَبْلَسَ) — ümidsiz oldu, deyilər. Uca Allah buyurmuşdur: mənaca tərcümə: «O zaman onlar orada ümidsiz qalacaqlar (ümidsizliyə qapılacaqlar)» (١). Dedilər ki, İblis adı da buradan götürülmüşdür, guya o, Allahın rəhmətindən ümidsiz olmuşdur. Bu fəsildəndir: «Əbləsər-raculu» — susdu; həmçinin «əbləsətin-naqatu» — o, həddindən artıq cütləşmək həvəsindən (qızışmadan) səsini çıxarmadıqda o, «miblason» (مِبْلَاسٌ) olar (٢). İbn Əhmərin sözünə gəldikdə: Ey şübhəli bələsin qızı, dön, çünki kiçik böyüyür və sınıq birləşdirilir. Deyilir ki, «bələs» — heyrətindən donub qalan deməkdir.",
+ "az": "[بلس]\nالباء واللام والسين (ba, lam və sin) tək bir əsasdır, ondan sonrakına isə etibar yoxdur.\nƏsası ümidsizlikdir; insan ümidsizliyə qapıldıqda أَبْلَسَ (əbləsə) deyilir. Uca Allah buyurmuşdur: ﴿إِذا هُمْ فِيهِ مُبْلِسُونَ﴾ (mənaca tərcümə: «O zaman onlar orada ümidsiz qalacaqlar») (١). Demişlər ki, إِبْليس (İblis) adı da buradan törəmişdir, sanki o, Allahın rəhmətindən ümidini kəsmişdir.\nBu fəsildəndir: أبْلَسَ الرجُلُ (əbləsər-racul) — kişi susdu; həmçinin dəvə həddindən artıq cütləşmə istəyindən (qızışmaqdan) bağırmadıqda (səsini çıxarmadıqda) أبْلَسَتِ النّاقة (əbləsətin-nəqə) deyilir və belə dəvə مِبْلَاس (mibləs) adlanır (٢). İbn Əhmərin bu sözünə gəldikdə isə:\nعُوجى ابنَةَ البَلَسِ الظَّنُونِ فقد … يَرْبُو الصَّغِيرُ ويُجْبَرُ الكسْرُ\n(Dön, ey bələsin şəkk-şübhəli qızı! Çünki kiçik böyüyər, sınıq da bitişər!)\nDeyilir ki, البَلَس (əl-bələs) — heyrətdən donub qalmış kimsədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:37.148Z"
+ "ts": "2026-10-25T00:33:37.148Z",
+ "prev_az": "«بلس» (bələs): الباء واللام والسين — tək bir əsasdır, ondan sonrakına isə etibar yoxdur. Əsası ümidsizlikdir, «əbləsə» (أَبْلَسَ) — ümidsiz oldu, deyilər. Uca Allah buyurmuşdur: mənaca tərcümə: «O zaman onlar orada ümidsiz qalacaqlar (ümidsizliyə qapılacaqlar)» (١). Dedilər ki, İblis adı da buradan götürülmüşdür, guya o, Allahın rəhmətindən ümidsiz olmuşdur. Bu fəsildəndir: «Əbləsər-raculu» — susdu; həmçinin «əbləsətin-naqatu» — o, həddindən artıq cütləşmək həvəsindən (qızışmadan) səsini çıxarmadıqda o, «miblason» (مِبْلَاسٌ) olar (٢). İbn Əhmərin sözünə gəldikdə: Ey şübhəli bələsin qızı, dön, çünki kiçik böyüyür və sınıq birləşdirilir. Deyilir ki, «bələs» — heyrətindən donub qalan deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Quran ayəsinin ərəbcə mətni buraxılmışdır.",
+  "Şeir beytinin ərəbcə mətni buraxılmışdır.",
+  "Ərəbcə izah olunan sözlər ərəb qrafikası ilə verilməmişdir."
+ ],
+ "review_ts": "2026-11-15T16:04:32.767Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 335
  },
  "ar": "البَلْعَثُ:\nالسَّيِّئ الخُلُق (٥).",
- "az": "[بلعث] (Bə-lam-əyn-sə) «البَلْعَثُ» (əl-bəl’əs): pis əxlaqlı.",
+ "az": "[بلعث] (Bə-lam-əyn-sə)\n«البَلْعَثُ»:\npis əxlaqlı (٥).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.771Z"
+ "ts": "2026-10-25T00:37:20.771Z",
+ "prev_az": "[بلعث] (Bə-lam-əyn-sə) «البَلْعَثُ» (əl-bəl’əs): pis əxlaqlı.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (٥) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:30:26.476Z"
 }

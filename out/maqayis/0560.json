@@ -11,7 +11,17 @@
   "page_to": 399
  },
  "ar": "الثاء والهمزة والياء كلمةٌ واحدة تدلُّ على فسادٍ وخَرْم.\nفالثَّأىُ على مثال الثَّعْى الخَرْم؛ يقال: أثأتِ الخارِزة الخَرْزَ * تُثْئيهِ إذا خرمَتْه.\nويقال أثْأَيْتُ فى القوم إِثْآءً جَرَحْتُ فيهم (٢). قال:\nيا لك مِنْ عَيْثٍ ومن إثآءِ … يُعْقِبَ بالقَتْلِ وبالسِّباءِ (٣)",
- "az": "[ثأى]\nالثاء والهمزة والياء كلمةٌ واحدة تدلُّ على فسادٍ وخَرْم. (Sə, həmzə və ya hərfləri fəsad və yırtığa (dəliyə) dəlalət edən tək bir kəlmədir).\nفالثَّأىُ على مثال الثَّعْى الخَرْم؛ يقال: أثأتِ الخارِزة الخَرْزَ * تُثْئيهِ إذا خرمَتْه. (Deməli, əs-səy – səy sözü ölçüsündə yırtıqdır; deyilər: tikiş tikən qadın tikişi deşdi, deşir – əgər onu yırtıbsa).\nويقال أثْأَيْتُ فى القوم إِثْآءً جَرَحْتُ فيهم (٢). قال: (Və deyilər ki, mən tayfanın içində yara açdım – əs-səy. [Şair] demişdir):\nيا لك مِنْ عَيْثٍ ومن إثآءِ … يُعْقِبَ بالقَتْلِ وبالسِّباءِ (٣)\n(Sənə nə gəlib ki, belə bir fəsad və yaralanma içindəsən... ki, o, qətl və əsir düşməklə nəticələnir)",
+ "az": "[ثأى]\nالثاء (sa), الهمزة (həmzə) və الياء (ya) fəsad və cırmağa/dəlməyə (خَرْم) dəlalət edən tək bir kəlmədir.\nالثَّأْيُ – الثَّعْي vəznində olub dərini/tikişi cırmaq/dəlməkdir (الخَرْم). أثأتِ الخارِزة الخَرْزَ تُثْئيهِ (tikiş tikən qadın tikişi cırdı, cırır) – əgər onu cırıb dəlibsə, deyilər.\nأثْأَيْتُ فى القوم إِثْآءً (tayfanın içində yaralama işi gördüm) deyilər. [Şair] demişdir:\nيا لك مِنْ عَيْثٍ ومن إثآءِ … يُعْقِبَ بالقَتْلِ وبالسِّباءِ (٣)\n(Nə böyük fəsad və yaralama! Ki, [onlar] qətl və əsir düşməklə nəticələnir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:42:41.762Z"
+ "ts": "2026-10-25T00:42:41.762Z",
+ "prev_az": "[ثأى]\nالثاء والهمزة والياء كلمةٌ واحدة تدلُّ على فسادٍ وخَرْم. (Sə, həmzə və ya hərfləri fəsad və yırtığa (dəliyə) dəlalət edən tək bir kəlmədir).\nفالثَّأىُ على مثال الثَّعْى الخَرْم؛ يقال: أثأتِ الخارِزة الخَرْزَ * تُثْئيهِ إذا خرمَتْه. (Deməli, əs-səy – səy sözü ölçüsündə yırtıqdır; deyilər: tikiş tikən qadın tikişi deşdi, deşir – əgər onu yırtıbsa).\nويقال أثْأَيْتُ فى القوم إِثْآءً جَرَحْتُ فيهم (٢). قال: (Və deyilər ki, mən tayfanın içində yara açdım – əs-səy. [Şair] demişdir):\nيا لك مِنْ عَيْثٍ ومن إثآءِ … يُعْقِبَ بالقَتْلِ وبالسِّباءِ (٣)\n(Sənə nə gəlib ki, belə bir fəsad və yaralanma içindəsən... ki, o, qətl və əsir düşməklə nəticələnir)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أثأتِ الخارِزة الخَرْزَ» ifadəsində «الخارِزة» və «الخَرْز» mənası dəqiq verilməmişdir.",
+  "Mətnin strukturunda ərəb sitatlarının təkrarlanması və ulduz (*) simvolunun yer alması."
+ ],
+ "review_ts": "2026-11-15T16:57:39.805Z"
 }

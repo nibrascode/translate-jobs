@@ -11,7 +11,16 @@
   "page_to": 318
  },
  "ar": "الباء والواو والصاد أصلان: أحدهما شئٌ من الآراب، والآخر من السَّبْق.\nفالأوَّل البُوَص، وهى عجيزة المرأة. قال:\nعَريضَةِ بُوَصٍ إذا أدبَرَتْ … هَضِيمِ الحَشَا شَخْتَةِ المُحْتَضَنْ (١)\nوالبُوصُ اللَّوْن أيضاً.\nفأمَّا الأصل الآخر فالبَوْص الفَوْت والسَّبْق، يقال بَاصَنِى، ومنه قولهم: خِمْس بائِصٌ (٢)، أى جادٌّ مستَعْجِلٌ.",
- "az": "[بوص] Ba, vav və sad iki əsas kökdür: biri bədən üzvlərindən birinə, digəri isə ötməyə və irəliləməyə aiddir. Birincisi البُوَص (əl-buyas) – qadının sağrısıdır. (1) Və البُوص (əl-buyus) həm də rəngdir. Digər əsas kökə gəldikdə, o, البَوْص (əl-bovs) – ötüb keçmək və qabaqlamaqdır. Deyilir: باصَنِى (basani), onlardan belə bir ifadə də vardır: خِمْس بائِصٌ (ximsun baisun) – yəni sərt, tələsik gedən.",
+ "az": "[بوص]\nBa, vav və sad iki əsasdır: biri bədən üzvlərindən bir şeyə, digəri isə qabaqlamağa aiddir.\nBirincisi البُوَص olub qadının sarğısıdır. Şair demişdir:\nعَريضَةِ بُوَصٍ إذا أدبَرَتْ … هَضِيمِ الحَشَا شَخْتَةِ المُحْتَضَنْ (١)\n(Arxaya çevrildikdə sarğısı enli, qarnı incə, qucaqlanan yeri zərif olan [bir qadın]).\nالبُوصُ həm də rəng deməkdir.\nDigər əsasa gəldikdə isə البَوْص – ötüb keçmək və qabaqlamaqdır. Deyilir: باصَنِى (məni qabaqladı). Onların bu sözü də bundandır: خِمْس بائِصٌ (٢), yəni sürətlə gedən, tələsən [beş günlük su yolu].",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:35:05.794Z"
+ "ts": "2026-10-25T00:35:05.794Z",
+ "prev_az": "[بوص] Ba, vav və sad iki əsas kökdür: biri bədən üzvlərindən birinə, digəri isə ötməyə və irəliləməyə aiddir. Birincisi البُوَص (əl-buyas) – qadının sağrısıdır. (1) Və البُوص (əl-buyus) həm də rəngdir. Digər əsas kökə gəldikdə, o, البَوْص (əl-bovs) – ötüb keçmək və qabaqlamaqdır. Deyilir: باصَنِى (basani), onlardan belə bir ifadə də vardır: خِمْس بائِصٌ (ximsun baisun) – yəni sərt, tələsik gedən.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti və onun tərcüməsi buraxılmış, mətndə yalnız haşiyə nömrəsi qalmışdır."
+ ],
+ "review_ts": "2026-11-15T16:11:07.009Z"
 }

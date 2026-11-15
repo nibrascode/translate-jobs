@@ -13,5 +13,7 @@
  "ar": "الثاء والباء كلمةٌ ليست فى الكتابين (٥)، وإن صحَّت فهى تدلُّ على تناهِى الشئ. يقال ثَبَّ الأمْرُ إذا تمَّ. ويقال إنَّ الثَّابَّة المرأةُ الهَرمة، ويقولون: أشَابّةٌ أم ثَابّة؟",
  "az": "«ثبب»: الثاء və Ba iki kitabda (Lüğətlərdə) mövcud olmayan bir kəlimədir (٥), əgər səhihdirsə, o, bir şeyin sona çatmasına dəlalət edir. Deyilir: ثَبَّ الأمْرُ — iş tamamlandıqda. Deyilir ki, (الثَّابَّة) — qoca qadındır, və deyirlər: (أشَابّةٌ أم ثَابّة؟) (O, gənc qızdır, yoxsa qoca?).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:16.273Z"
+ "ts": "2026-10-25T00:39:16.273Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

@@ -11,7 +11,18 @@
   "page_to": 439
  },
  "ar": "الجيم والذال والميم أصلٌ واحدٌ، وهو القطع. يقال جَذَمْت الشَّئ جذْماً. والجِذْمة القِطعة من الحَبْل وغيره. والجُذام سُمِّى لتقطُّع الأصابع.\nوالأجذم: المقطوع اليد. و\nفى الحديث: «مَنْ تعلَّم القرآنَ ثُمَّ نسِيَهُ لَقِى اللّهَ تعالى وهو أجذم». وقال المتلمِّس:\nوما كنتُ إلاّ مثلَ قاطع كفِّه … بكفٍّ له أخْرَى فأصبَحَ أجْذَما (١)\nوانْجَذَم الحبلُ. انقطَعَ. قال النابغة:\nبانَتْ سُعادُ فأمسى حَبْلُها انجَذَما … واحْتَلّت الشَّرْعَ فالْخَبْتَيْنِ مِنْ إضَما (٢)\nوالإجذام: السُّرعة فى السَّير، وهو من الباب. والإجذام: الإقلاع عن الشئ.",
- "az": "[جذم] (Cim, ذal və mim): Kəsmək mənasında olan tək bir əsasdır. Deyilir: «جَذَمْت الشَّئ» (şeyi kəsdim). «الجِذْمة» (cizmə) ipdən və başqasından bir parçadır. «الجُذام» (cüzam xəstəliyi) barmaqların qopmasına görə belə adlandırılmışdır. «الأجذم» (əczəm) – əli kəsik deməkdir. Hədisdə: «مَنْ تعلَّق القرآنَ ثُمَّ نسِيَهُ لَقِى اللّهَ تعالى وهو أجذم» (Kim Quranı öyrənib sonra onu unudarsa, uca Allaha əli kəsik halda qovuşar). Mütəllimis demişdir: «Mən yalnız kəsilmiş ovcunu digər ovcuna vuran, sonra da əli kəsik qalan kəs kimi oldum (1)» İp «انْجَذَمَ» (qırıldı, üzüldü). Nəbiğə demişdir: «Süad getdi, nəticədə onun ipi qırıldı... və Əzəm yörəsindəki Şərc və Xəbtəyin məskən saldı (2)». «الإجذام» (icizam) – gedişdə sürətli olmaqdır, bu da bu babdandır. «الإجذام» (icizam) – bir işdən əl çəkməkdir.",
+ "az": "[جذم] (Cim, zal və mim) kəsmək mənasını bildirən tək bir əsasdır. Deyilir: «جَذَمْت الشَّئ جذْماً» (şeyi kəsdim). «الجِذْمة» (cizmə) – ipdən və ya başqa şeydən bir parçadır. «الجُذام» (cüzam) – barmaqların kəsilib düşməsinə görə belə adlandırılmışdır.\n«الأجذم» (əl-əczəm) – əli kəsik olan şəxsdir.\nHədisdə deyilir: «مَنْ تعلَّم القرآنَ ثُمَّ نسِيَهُ لَقِى اللّهَ تعالى وهو أجذم» (Kim Quranı öyrənib sonra onu unudarsa, uca Allaha əli kəsik halda qovuşar). Mütəllimis demişdir:\nوما كنتُ إلاّ مثلَ قاطع كفِّه … بكفٍّ له أخْرَى فأصبَحَ أجْذَما (١)\n(Mən yalnız digər əli ilə öz əlini kəsən və əli kəsik qalan kəs kimi oldum).\n«انْجَذَم الحبلُ» (ip qırıldı, kəsildi). Nəbiğə demişdir:\nبانَتْ سُعادُ فأمسى حَبْلُها انجَذَما … واحْتَلّت الشَّرْعَ فالْخَبْتَيْنِ مِنْ إضَما (٢)\n(Süad ayrıldı, beləliklə onunla olan ip qırıldı, o, Şərcdə, İzamdan olan Xəbtəyndə məskən saldı).\n«الإجذام» (əl-icdam) – gedişdə sürət etməkdir, bu da bu babdandır. «الإجذام» (əl-icdam) – həmçinin bir şeydən əl çəkməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:27.643Z"
+ "ts": "2026-10-25T00:45:27.643Z",
+ "prev_az": "[جذم] (Cim, ذal və mim): Kəsmək mənasında olan tək bir əsasdır. Deyilir: «جَذَمْت الشَّئ» (şeyi kəsdim). «الجِذْمة» (cizmə) ipdən və başqasından bir parçadır. «الجُذام» (cüzam xəstəliyi) barmaqların qopmasına görə belə adlandırılmışdır. «الأجذم» (əczəm) – əli kəsik deməkdir. Hədisdə: «مَنْ تعلَّق القرآنَ ثُمَّ نسِيَهُ لَقِى اللّهَ تعالى وهو أجذم» (Kim Quranı öyrənib sonra onu unudarsa, uca Allaha əli kəsik halda qovuşar). Mütəllimis demişdir: «Mən yalnız kəsilmiş ovcunu digər ovcuna vuran, sonra da əli kəsik qalan kəs kimi oldum (1)» İp «انْجَذَمَ» (qırıldı, üzüldü). Nəbiğə demişdir: «Süad getdi, nəticədə onun ipi qırıldı... və Əzəm yörəsindəki Şərc və Xəbtəyin məskən saldı (2)». «الإجذام» (icizam) – gedişdə sürətli olmaqdır, bu da bu babdandır. «الإجذام» (icizam) – bir işdən əl çəkməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı «zal» kimi yazılmalıdır («ذal» yox).",
+  "Şeir beytlərinin ərəbcə mətni ixtisar edilmişdir, saxlanılmalıdır.",
+  "Hədis ərəbcəsində «تعلَّم» sözü «تعلَّق» kimi səhv yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T17:00:58.415Z"
 }

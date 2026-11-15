@@ -13,5 +13,10 @@
  "ar": "الباء والراء والتاء أصلٌ واحدٌ، وهو أنْ يَغِلَ الشَّيء وُغولاً.\nمن ذلك البَرُت، وهى الفأس، وبها شُبِّه الرَّجُل الدّليلُ، لأنّه يَغِلُ فى الأرضِ ويهتدى فى الظُّلَم.",
  "az": "«برت» (b-r-t): Ba, ra və ta hərfləri tək bir əsas kökdür, o da bir şeyin dərinliklərinə nüfuz etməkdir (yol tapmaq). Bunlardandır: «البَرُتُ» – balta, bələdçi kişi də buna bənzədilib, çünki o da yerin dərinliklərinə nüfuz edir və zülmətlərdə yol tapır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:29:37.934Z"
+ "ts": "2026-10-25T00:29:37.934Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T15:46:55.201Z"
 }

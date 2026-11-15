@@ -11,9 +11,19 @@
   "page_to": 108
  },
  "ar": "الهمزة والشين والباء يدلّ على اختلاطٍ والتفاف، يقال عِيصٌ أَشبٌ أى ملتفّ، وجاء فلانٌ فى عددٍ أشِبٍ. وتأشَّب القَومُ اختلطوا. ويقال أَشَبْتُ فلاناً آشِبُهُ (١)، إذا لُمْتَه، كأَنّك لفّقْتُ عليه قبيحاً فَلُمْتَه فيه (٢). قال أبو ذؤيب:\nويأشِبنى فيها الذين يَلُونَها … ولو عَلِمُوا لَم يَأْشِبُونِى بطَائِلِ (٣)\nوالأَشابة الأخلاط من النَّاس فى قوله (٤):\nوثِقْتُ له بالنَّصر إذْ قيل قد غَزَتْ … قبائلُ من غَسَّانَ غير أشائِب",
- "az": "«أشب» (hərf həmzə, şin və ba): qarışıqlıq və sıxlığa dəlalət edir; deyilir: عِيصٌ أَشبٌ (sıx və dolaşıq ağaclıq), və filankəs sıx/çox sayda gəldi (جاء فلانٌ فى عددٍ أشِبٍ). Və təəşşəbə əl-qövm (تأشَّب القَومُ) — qövm qarışdı. Və deyilir: أَشَبْتُ فلاناً آشِبُهُ (filankəsi qınadım), elə bil onun üçün çirkin bir şey uydurub ona görə onu qınamısan (٢). Əbu Züeyb demişdir:\nويأشِبنى فيها الذين يَلُونَها … ولو عَلِمُوا لَم يَأْشِبُونِى بطَائِلِ (٣)\nVə əşabə (الأَشابة) — insanların qarışıq dəstələridir, onun bu sözündəki kimi (٤):\nوثِقْتُ له بالنَّصر إذْ قيل قد غَزَتْ … قبائلُ من غَسَّانَ غير أشائِب",
+ "az": "[أشب]\n«Həmzə», «şin» və «ba» qarışıqlıq və sıxlığa dəlalət edir. Deyilir: «عِيصٌ أَشبٌ», yəni sıx və dolaşıq ağaclıq; «جاء فلانٌ فى عددٍ أشِبٍ» (filankəs sıx/çox sayda gəldi). «تأشَّب القَومُ» — qövm bir-birinə qarışdı. Deyilir: «أَشَبْتُ فلاناً آشِبُهُ» (١), yəni onu qınadın; elə bil onun üzərinə çirkin bir şey uydurub ona görə onu qınamısan (٢). Əbu Zueyb demişdir:\nويأشِبنى فيها الذين يَلُونَها … ولو عَلِمُوا لَم يَأْشِبُونِى بطَائِلِ (٣)\n(Ona yaxın olanlar onun barəsində məni qınayırlar; halbuki bilsəydilər, məni əsassız bir şeylə qınamazdılar).\n«الأَشابة» (əl-əşabə) — insanların qarışıq dəstələridir; şairin bu sözündəki kimi (٤):\nوثِقْتُ له بالنَّصر إذْ قيل قد غَزَتْ … قبائلُ من غَسَّانَ غير أشائِب\n(Qəssanın qarışıq olmayan [xalis] qəbilələrinin yürüşə çıxdığı deyildikdə, onun qələbə çalacağına inandım).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-24T19:04:44.951Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«أشب» (hərf həmzə, şin və ba): qarışıqlıq və sıxlığa dəlalət edir; deyilir: عِيصٌ أَشبٌ (sıx və dolaşıq ağaclıq), və filankəs sıx/çox sayda gəldi (جاء فلانٌ فى عددٍ أشِبٍ). Və təəşşəbə əl-qövm (تأشَّب القَومُ) — qövm qarışdı. Və deyilir: أَشَبْتُ فلاناً آشِبُهُ (filankəsi qınadım), elə bil onun üçün çirkin bir şey uydurub ona görə onu qınamısan (٢). Əbu Züeyb demişdir:\nويأشِبنى فيها الذين يَلُونَها … ولو عَلِمُوا لَم يَأْشِبُونِى بطَائِلِ (٣)\nVə əşabə (الأَشابة) — insanların qarışıq dəstələridir, onun bu sözündəki kimi (٤):\nوثِقْتُ له بالنَّصر إذْ قيل قد غَزَتْ … قبائلُ من غَسَّانَ غير أشائِب",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[أشب]» formatı ilə başlamır.",
+  "Hər iki şeir beyti tərcüməsiz qalmışdır.",
+  "«آشِبُهُ (١)» ifadəsindəki «(١)» haşiyə rəqəmi buraxılmış və ərəbcə ifadənin təqdimat qaydası pozulmuşdur."
+ ],
+ "review_ts": "2026-11-15T15:38:27.111Z"
 }

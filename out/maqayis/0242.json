@@ -11,7 +11,17 @@
   "page_to": 246
  },
  "ar": "الباء والزاء والخاء أصلٌ يقْرُب من الذى قبلَه. والبَزَخ خروج الصَّدْرِ ودُخولُ الظَّهر؛ يقال رجلٌ أبْزَخُ وامرأةٌ بَزْخاء. وتبازَخَتْ له المرأةُ، إذا حَرَّكَت عَجُزَها فى مِشْيَتِها.",
- "az": "[بزخ] (bəzəx) — با (ba), زاء (za) və خاء (xa) hərflərindən ibarət olub, bundan əvvəlki kökə yaxın bir əsas mənadır. «البَزَخ» (bəzəx) – sinənin çölə çıxması və belin içəri batmasıdır; «رجل أبْزَخُ» (əbzəx kişi) və «امرأة بَزْخاء» (bəzxa qadın) deyilir. Qadın yerişində sağrısını tərpətdikdə «تبازَخَتْ له المرأةُ» (qadın onun üçün təbazəx etdi) deyilir.",
+ "az": "[بزخ]\nبا (ba), زاء (zey) və خاء (xa) hərflərindən ibarət olub, bundan əvvəlki kökə yaxın bir əsas mənadır. «البَزَخ» (bəzəx) – sinənin çölə çıxması və belin içəri batmasıdır; «رجلٌ أبْزَخُ» (əbzəx kişi) və «امرأةٌ بَزْخاء» (bəzxa qadın) deyilir. Qadın yerişində sağrısını tərpətdikdə «تبازَخَتْ له المرأةُ» (qadın onun üçün təbəzəxət etdi) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:30:24.233Z"
+ "ts": "2026-10-25T00:30:24.233Z",
+ "prev_az": "[بزخ] (bəzəx) — با (ba), زاء (za) və خاء (xa) hərflərindən ibarət olub, bundan əvvəlki kökə yaxın bir əsas mənadır. «البَزَخ» (bəzəx) – sinənin çölə çıxması və belin içəri batmasıdır; «رجل أبْزَخُ» (əbzəx kişi) və «امرأة بَزْخاء» (bəzxa qadın) deyilir. Qadın yerişində sağrısını tərpətdikdə «تبازَخَتْ له المرأةُ» (qadın onun üçün təbazəx etdi) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ز» hərfinin adı «za» deyil, «zey» kimi verilməlidir.",
+  "«رجلٌ» və «امرأةٌ» sözlərindəki ərəbcə hərəkələr (tənvinlər) silinmişdir."
+ ],
+ "review_ts": "2026-11-15T15:47:59.981Z"
 }

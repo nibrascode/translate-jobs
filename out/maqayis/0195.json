@@ -11,9 +11,19 @@
   "page_to": 205
  },
  "ar": "الباء والخاء والراء أصلٌ واحد، وهى رائحةٌ أو ريحٌ تثُور.\nمن ذلك البُخَار، ومنه البَخور بفتح الباء. وكان ثعلبٌ يقول: على وزن فَعُول مثل البَرُود والوَجُور. فأمّا قولهم للسحائب التى تأتى قُبُلَ الصَّيف بنَاتُ بَخْر فليس من الباب، وذلك أنّ هذه الباء مبدَلة من ميم، والأصل مَخْرٌ. وقد ذُكِرَ قياسُه فى بابه بشواهِدِه.",
- "az": "«بخر» (bəxər). Ba, xə və ra hərfləri qaldırılan qoxu və ya yel mənasını verən tək bir əsas kökdür. Bunlardan biri «البُخَار» (əl-buxar – buxar), digəri isə ba hərfinin fəthəsi ilə «البَخور» (əl-bəxur – buxur) sözüdür. Səhləb deyərdi ki, «البَرُود» (əl-bərud) və «الوَجُور» (əl-vəcur) kimi «فَعُول» (fəul) çəkisindədir. Qayınqabağı gələn buludlara gəldikdə isə, onların «بنات بَخْر» (bənatu bəxr) adlandırılması bu fəsildən deyil; çünki oradakı ba hərfi mim hərfi ilə əvəz olunmuşdur, əsli isə «مَخْر» (məxr) sözüdür. Onun qiyaslı tərəfi öz şahidləri ilə birlikdə öz fəslində qeyd olunmuşdur.",
+ "az": "[بخر]\nBa, xa və ra hərfləri qalxan qoxu və ya külək mənasını verən tək bir əsas kökdür.\nBunlardan biri البُخَار (buxar), digəri isə ba hərfinin fəthəsi ilə البَخور (buxur, ətirli tüstü) sözüdür. Sələb deyərdi ki, البَرُود (gözə çəkilən sərinlədici dərman) və الوَجُور (ağızdan içirilən dərman) kimi فَعُول (fəul) vəznindədir. Yayın əvvəlində gələn buludlara بنَاتُ بَخْر (bənat bəxr) deyilməsinə gəldikdə isə, bu fəsildən deyil; çünki buradakı ba hərfi mim hərfindən əvəz olunmuşdur, əsli isə مَخْرٌ (məxr) sözüdür. Onun qiyası öz şahidləri ilə birlikdə öz babında qeyd olunmuşdur.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:27:05.781Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«بخر» (bəxər). Ba, xə və ra hərfləri qaldırılan qoxu və ya yel mənasını verən tək bir əsas kökdür. Bunlardan biri «البُخَار» (əl-buxar – buxar), digəri isə ba hərfinin fəthəsi ilə «البَخور» (əl-bəxur – buxur) sözüdür. Səhləb deyərdi ki, «البَرُود» (əl-bərud) və «الوَجُور» (əl-vəcur) kimi «فَعُول» (fəul) çəkisindədir. Qayınqabağı gələn buludlara gəldikdə isə, onların «بنات بَخْر» (bənatu bəxr) adlandırılması bu fəsildən deyil; çünki oradakı ba hərfi mim hərfi ilə əvəz olunmuşdur, əsli isə «مَخْر» (məxr) sözüdür. Onun qiyaslı tərəfi öz şahidləri ilə birlikdə öz fəslində qeyd olunmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«قُبُلَ الصَّيف» (yayın əvvəlində) ifadəsi səhvən «Qayınqabağı» kimi tərcümə edilib.",
+  "«ثعلب» (Sələb) alimin adı səhvən «Səhləb» yazılıb.",
+  "«البَرُود» və «الوَجُور» sözlərinin mənaları verilməyib."
+ ],
+ "review_ts": "2026-11-15T15:44:26.701Z"
 }

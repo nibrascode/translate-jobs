@@ -11,7 +11,17 @@
   "page_to": 361
  },
  "ar": "التاء والياء والميم أصلٌ واحدٌ، وهو التَّعْبيد. يقال تَيَّمه الحُبُّ إذا استَعْبَدَه. قال أهلُ اللُّغة: ومِنْه تَيْمُ اللّه، أى عبد اللّه.\nومما شذَّ عن هذا الباب التِّيمة، وهى الشَّاة الزائدةُ على الأَربعين، ويقال بل هى الشَّاة يحتَلِبُها الرَّجُل فى مَنْزله. واتَّام الرّجُلُ إذا ذَبَحَ تِيَمَته. قال الحُطيئة:\nفما تَتَّامُ جارَةُ آلِ لَأْىٍ … ولكن يَضْمَنُون لها قِرَاها (١)",
- "az": "[تيم] (t-y-m): Ta, ya və mim hərfləri tək bir əsasdır, o da qul etməkdir. Deyilir: تَيَّمَهُ الْحُبُّ (təyyəməhü əl-hubbu) – məhəbbət onu qul etdi. Dil alimləri demişlər: تَيْمُ اللَّهِ (təymu allah) sözü də bundandır, yəni Allahın qulu. Bu بابdan (bölmədən) uzaq düşən (şaz) hallardan biri də التِّيمَةُ (ət-timə) sözüdür; bu, qırx qoyunun üzərinə gələn artıq qoyundur, yaxud deyilənə görə, adamın evində sağdığı tək qoyundur. Kişi öz تِيَمَة (tiyəmə) qoyununu kəsdikdə اتَّامَ الرَّجُلُ (əttamə ər-racülu) deylər. Hütəyə demişdir: فَمَا تَتَّامُ جَارَةُ آلِ لَأْىٍ … وَلِكَنْ يَضْمَنُونَ لَهَا قِرَاهَا (١) (Ləy ailəsinin qonşu qadını qoyun kəsməz, lakin ona qonaqlığını təmin edərlər).",
+ "az": "[تيم]\nالتاء والياء والميم (ta, ya və mim) tək bir əsasdır, o da boyun əydirmək, kölələşdirməkdir. Məhəbbət birini kölələşdirdikdə تَيَّمه الحُبُّ deyilir. Dil alimləri demişlər: تَيْمُ اللّه (Teymullah) adı da bundandır, yəni «Allahın qulu».\nBu babdan kənara çıxan sözlərdən biri التِّيمة kəlməsidir; bu, qırxdan artıq olan qoyundur. Həmçinin deyilir ki, o, kişinin evində sağmaq üçün saxladığı qoyundur. Kişi öz timə qoyununu kəsdikdə اتَّام الرّجُلُ deyilir. Əl-Hutey'ə demişdir:\nفما تَتَّامُ جارَةُ آلِ لَأْىٍ … ولكن يَضْمَنُون لها قِرَاها (١)\n(Ləy ailəsinin qonşusu olan qadın timə qoyununu kəsməz, lakin onlar onun qonaqlığını təmin edərlər).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:53.837Z"
+ "ts": "2026-10-25T00:38:53.837Z",
+ "prev_az": "[تيم] (t-y-m): Ta, ya və mim hərfləri tək bir əsasdır, o da qul etməkdir. Deyilir: تَيَّمَهُ الْحُبُّ (təyyəməhü əl-hubbu) – məhəbbət onu qul etdi. Dil alimləri demişlər: تَيْمُ اللَّهِ (təymu allah) sözü də bundandır, yəni Allahın qulu. Bu بابdan (bölmədən) uzaq düşən (şaz) hallardan biri də التِّيمَةُ (ət-timə) sözüdür; bu, qırx qoyunun üzərinə gələn artıq qoyundur, yaxud deyilənə görə, adamın evində sağdığı tək qoyundur. Kişi öz تِيَمَة (tiyəmə) qoyununu kəsdikdə اتَّامَ الرَّجُلُ (əttamə ər-racülu) deylər. Hütəyə demişdir: فَمَا تَتَّامُ جَارَةُ آلِ لَأْىٍ … وَلِكَنْ يَضْمَنُونَ لَهَا قِرَاهَا (١) (Ləy ailəsinin qonşu qadını qoyun kəsməz, lakin ona qonaqlığını təmin edərlər).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Bu بابdan (bölmədən)» ifadəsində lüzumsuz olaraq ərəb sözü azərbaycanca şəkilçi ilə qarışdırılmışdır.",
+  "«تِيَمَته» sözünün hərəkəsi «tiymətihi» olduğu halda «tiyəmə» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:50:18.836Z"
 }

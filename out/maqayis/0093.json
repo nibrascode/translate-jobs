@@ -11,9 +11,20 @@
   "page_to": 110
  },
  "ar": "الهمزة والصاد واللام، ثلاثة أصولٍ متباعدٍ بعضها من بعض، أحدها أساس الشئ، والثانى الحَيّة، والثالث ما كان من النَّهار بعد العشىّ. فأما الأوّل فالأصل أصل الشئ، قال الكِسائىّ فى قولهم:\n«لا أصْلَ له ولا فَصْل له (٢)»: إنّ الأصل الحسب، والفَصْل اللسان. ويقال مجْدٌ أصيلٌ. وأمّا الأصَلة فالحيّة العظيمة. و\nفى الحديث فى ذكر الدجّال:\n«كأَنّ رأسَهُ أصَلَةٌ». وأمّا الزمان فالأصيل بعد العَشِىّ وجمعه أصُلُ وآصالٌ و [يقال] أصيلٌ وأصيلَةٌ، والجمع أصائل. قال (١):\nلعَمْرى لَأَنْت البيتُ أُكرِمُ أهْلَهُ … وأقْعُدُ فى أفيَائِهِ (٢) بالأصائلِ",
- "az": "«أصل» (hərf həmzə, sad və lam): biri-digərindən uzaq üç əsası vardır; birincisi şeyin əsası (bünövrəsi), ikincisi ilan, üçüncüsü isə günortadan sonrakı vaxtdır. Birincisinə gəldikdə, əsl şeyin əslidir. Kisai onların «onun nə əsli var, nə də fəsli (لا أصْلَ له ولا فَصْل له) (٢)» sözü haqqında demişdir: əsl — əsil-nəcabət, fəsl isə — dildir. Və deyilir: əsil şərəf (مجد أصيل). İlan (الأصَلة) — böyük ilandır. \nHədisdə Dəccalın zikrində gəlmişdir:\n«كأَنّ رأسَهُ أصَلَةٌ» (mənaca: sanki başı böyük bir ilan kimidir). Zaman olan asilə gəldikdəisə, o, günortadan sonradır, cəmi əsul (أصُلُ) və asal (آصالٌ) və [deyilir] əsil (اصيل) və asilədir (أصيلَةٌ), cəmi əsaildir (أصائل). \nO demişdir (١):\nلعَمْرى لَأَنْت البيتُ أُكرِمُ أهْلَهُ … وأقْعُدُ فى أفيَائِهِ (٢) بالأصائلِ",
+ "az": "[أصل]\nHəmzə, sad və lam (hərfləri) bir-birindən uzaq üç əsasdır: birincisi şeyin əsası (bünövrəsi), ikincisi ilan, üçüncüsü isə günün axşamçağına (ikindidən sonraya) düşən vaxtıdır. Birincisinə gəldikdə, əsl şeyin əsasıdır. Kisai onların «لا أصْلَ له ولا فَصْل له (٢)» (onun nə əsli var, nə də fəsli) sözü haqqında demişdir: əsl — əsil-nəcabət, fəsl isə — dildir. Və «مجْدٌ أصيلٌ» (köklü, əsil şərəf) deyilir. «الأصَلة» (əsalə) isə böyük ilandır.\nHədisdə Dəccalın zikrində gəlmişdir:\n«كأَنّ رأسَهُ أصَلَةٌ» (sanki başı böyük bir ilandır).\nZaman olan (üçüncü mənaya) gəldikdə isə, «الأصيل» (əsil) axşamüstü (ikindidən sonrakı vaxt) deməkdir; cəmi «أصُلُ» və «آصالٌ» olur. Həmçinin [deyilir]: «أصيلٌ» və «أصيلَةٌ», cəmi «أصائل» olur. (Şair) demişdir (١):\nلعَمْرى لَأَنْت البيتُ أُكرِمُ أهْلَهُ … وأقْعُدُ فى أفيَائِهِ (٢) بالأصائلِ\n(And olsun ömrümə ki, sən əhlini əziz tutduğum və axşamçağları kölgələrində oturduğum o evsən.)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-24T19:04:44.951Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«أصل» (hərf həmzə, sad və lam): biri-digərindən uzaq üç əsası vardır; birincisi şeyin əsası (bünövrəsi), ikincisi ilan, üçüncüsü isə günortadan sonrakı vaxtdır. Birincisinə gəldikdə, əsl şeyin əslidir. Kisai onların «onun nə əsli var, nə də fəsli (لا أصْلَ له ولا فَصْل له) (٢)» sözü haqqında demişdir: əsl — əsil-nəcabət, fəsl isə — dildir. Və deyilir: əsil şərəf (مجد أصيل). İlan (الأصَلة) — böyük ilandır. \nHədisdə Dəccalın zikrində gəlmişdir:\n«كأَنّ رأسَهُ أصَلَةٌ» (mənaca: sanki başı böyük bir ilan kimidir). Zaman olan asilə gəldikdəisə, o, günortadan sonradır, cəmi əsul (أصُلُ) və asal (آصالٌ) və [deyilir] əsil (اصيل) və asilədir (أصيلَةٌ), cəmi əsaildir (أصائل). \nO demişdir (١):\nلعَمْرى لَأَنْت البيتُ أُكرِمُ أهْلَهُ … وأقْعُدُ فى أفيَائِهِ (٢) بالأصائلِ",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[أصل]» formatı ilə başlamır.",
+  "Sondakı şeir beyti tərcüməsiz qalmışdır.",
+  "«بعد العشىّ» ifadəsi «günortadan sonra» kimi qeyri-dəqiq tərcümə edilmişdir (axşamüstü/ikindidən sonrakı vaxt olmalıdır).",
+  "«مجْدٌ أصيلٌ» və «أصيلٌ» sözlərində ərəbcə yazılış (hərəkə və həmzə) təhrif olunmuş, həmçinin «gəldikdəisə» sözündə orfoqrafik səhvə yol verilmişdir."
+ ],
+ "review_ts": "2026-11-15T15:39:07.508Z"
 }

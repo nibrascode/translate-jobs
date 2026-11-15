@@ -11,7 +11,16 @@
   "page_to": 302
  },
  "ar": "الباء واللام والقاف أصلٌ واحدٌ مُنقاسٌ مطّرد، وهو الفتح يقال أبلَقَ البابَ وبَلَقَهُ، إذا فتحه كلّه. قال:\n* والحِصْنُ مُنْثَلِمٌ والبابُ مُنْبَلقُ * (١)\nوالبَلَقُ الفُسْطاط، وهو من الباب. وقد يُسْتَبْعَدُ البَلَقُ فى الألوان، وهو قريبٌ، وذلك أنَّ البَهيمَ مُشتَقٌّ من البابِ المُبْهَم، فإذا ابيضّ بعضُه فهو كالشئِ يُفْتَحُ.",
- "az": "«بلق» (bələq): الباء واللام والقاف — tək bir əsasdır, qaydaya uyğun və ardıcıldır, o da açmaqdır. «Əbləqal-bapə və bələqəhu» — qapını tamamilə açdı, deyilər. Şair demişdir: Qala sökülüb, qapı isə açıqdır (١). «Əl-bələq» (البَلَق) — böyük çadır (xeymə) deməkdir, bu da həmin fəsildəndir. Bəzən rənglərdə olan «bələq» (alacalıq) uzaq sanılır, halbuki o, yaxındır. Bu da odur ki, bəhim (yeknəsək rəng) «bab-mübhem» (bağlı qapı) sözündən törəmişdir, onun bir hissəsi ağardığı zaman isə açılan şeyə bənzəyir.",
+ "az": "[بلق]\nالباء واللام والقاف (ba, lam və qaf) qaydaya uyğun, ardıcıl tək bir əsasdır, o da açmaqdır. Qapını bütövlüklə açdıqda أبلَقَ البابَ وبَلَقَهُ (əbləqal-bəbə və bələqəhu) deyilir. Şair demişdir:\n* والحِصْنُ مُنْثَلِمٌ والبابُ مُنْبَلقُ * (١)\n(Qala divarı yarıq-yarıq, qapı isə taybatay açıqdır).\nالبَلَق (əl-bələq) — böyük çadır deməkdir və bu da həmin fəsildəndir. Rənglərdəki البَلَق (əl-bələq — ala-bəzəklik) kəlməsi bu mənadan uzaq sayıla bilər, lakin əslində ona yaxındır; belə ki, البَهيم (əl-bəhim — tək rəngli heyvan) bağlı qapı (الباب المُبْهَم) ifadəsindən götürülmüşdür, onun bir hissəsi ağardıqda isə sanki açılan bir şeyə bənzəyir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:37.148Z"
+ "ts": "2026-10-25T00:33:37.148Z",
+ "prev_az": "«بلق» (bələq): الباء واللام والقاف — tək bir əsasdır, qaydaya uyğun və ardıcıldır, o da açmaqdır. «Əbləqal-bapə və bələqəhu» — qapını tamamilə açdı, deyilər. Şair demişdir: Qala sökülüb, qapı isə açıqdır (١). «Əl-bələq» (البَلَق) — böyük çadır (xeymə) deməkdir, bu da həmin fəsildəndir. Bəzən rənglərdə olan «bələq» (alacalıq) uzaq sanılır, halbuki o, yaxındır. Bu da odur ki, bəhim (yeknəsək rəng) «bab-mübhem» (bağlı qapı) sözündən törəmişdir, onun bir hissəsi ağardığı zaman isə açılan şeyə bənzəyir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir misrasının ərəbcə mətni buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:04:32.769Z"
 }

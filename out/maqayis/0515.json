@@ -11,7 +11,16 @@
   "page_to": 376
  },
  "ar": "الثاء والطاء والهمزة كلمةٌ لا معوَّل عليها. يقال ثَطَأْتُه وطِئْتُه.",
- "az": "[ثطأ] الثاء والطاء والهمزة كلمةٌ لا معوَّل عليها (Thə, ta və həmzə üzərində dayanılmayan bir kəlmədir). Deyilir: ثَطَأْتُه وطِئْتُه (Sətaətuhu və tiətuhu).",
+ "az": "[ثطأ] الثاء والطاء والهمزة كلمةٌ لا معوَّل عليها (Sa, ta və həmzə etibar edilməyən bir kəlmədir). Deyilir: ثَطَأْتُهُ (sətaətuhu) – وطِئْتُهُ (onu tapdaladım, üstünə basdım).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.075Z"
+ "ts": "2026-10-25T00:39:38.075Z",
+ "prev_az": "[ثطأ] الثاء والطاء والهمزة كلمةٌ لا معوَّل عليها (Thə, ta və həmzə üzərində dayanılmayan bir kəlmədir). Deyilir: ثَطَأْتُه وطِئْتُه (Sətaətuhu və tiətuhu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Cümlə tərcümə edilməyib, yalnız latın qrafikası ilə oxunuşu yazılıb."
+ ],
+ "review_ts": "2026-11-15T16:54:48.766Z"
 }

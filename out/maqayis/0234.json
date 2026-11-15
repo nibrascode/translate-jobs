@@ -11,7 +11,16 @@
   "page_to": 241
  },
  "ar": "الباء والراء والخاء أصل واحدٌ، إن كانَ عربِيًّا فهو النمَّاء والزِّيادة، ويقال إنَّها من البَرَكة وهى لغة نَبَطيّة.",
- "az": "[برخ] (bərx). باء (ba), راء (ra) və خاء (xa) hərfləri tək bir əsasdır; əgər ərəbi sözdürsə, inkişaf və artım mənasını verir. Deyilənə görə, o, nəbati dilindən olan «əl-bərəc» (bərəkət) sözündəndir.",
+ "az": "[برخ]\nباء (ba), راء (ra) və خاء (xa) hərfləri tək bir əsasdır; əgər ərəbcədirsə, inkişaf və artım mənasını verir. Deyilənə görə, o, nəbati dilindən olan البَرَكة (əl-bərəkə) sözündəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:30:02.135Z"
+ "ts": "2026-10-25T00:30:02.135Z",
+ "prev_az": "[برخ] (bərx). باء (ba), راء (ra) və خاء (xa) hərfləri tək bir əsasdır; əgər ərəbi sözdürsə, inkişaf və artım mənasını verir. Deyilənə görə, o, nəbati dilindən olan «əl-bərəc» (bərəkət) sözündəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«البَرَكة» (əl-bərəkə) sözü «əl-bərəc» kimi səhv transkripsiya edilmiş və ərəb qrafikası ilə yazılışı buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T15:46:44.877Z"
 }

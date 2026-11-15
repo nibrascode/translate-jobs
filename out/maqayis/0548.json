@@ -11,7 +11,16 @@
   "page_to": 392
  },
  "ar": "الثاء والنون والتاء كلمةٌ واحدة. ثَنِتَ اللّحمُ تغيَّرَتْ رائحتُه وقد يقولون ثَتِن (١). قال:\n* وثتِنَت لِثاتُه دِرْحايَهْ (٢) *",
- "az": "[ثنت] الثاء (sə), النون (nun) və التاء (tə) tək bir kəlmədir. «ثَنِتَ اللّحمُ» (ət xarab oldu) dedikdə, onun iyi dəyişdi deməkdir, bəzən «ثَتِن» (sətin) də deyirlər (١). O demişdir: * وثتِنَت لِثاتُه دِرْحايَهْ (٢) (Və onun diş ətləri xarab oldu...).",
+ "az": "[ثنت]\nالثاء (sə), النون (nun) və التاء (tə) tək bir kəlmədir. «ثَنِتَ اللّحمُ» (ətin iyi dəyişdi) deməkdir, bəzən «ثَتِن» (sətin) də deyirlər (١). O demişdir:\n* وثتِنَت لِثاتُه دِرْحايَهْ (٢) *\n(Və gonbul adamın diş ətlərinin iyi dəyişdi).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:42:17.837Z"
+ "ts": "2026-10-25T00:42:17.837Z",
+ "prev_az": "[ثنت] الثاء (sə), النون (nun) və التاء (tə) tək bir kəlmədir. «ثَنِتَ اللّحمُ» (ət xarab oldu) dedikdə, onun iyi dəyişdi deməkdir, bəzən «ثَتِن» (sətin) də deyirlər (١). O demişdir: * وثتِنَت لِثاتُه دِرْحايَهْ (٢) (Və onun diş ətləri xarab oldu...).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir parçasındakı «دِرْحايَهْ» sözünün tərcüməsi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:56:34.254Z"
 }

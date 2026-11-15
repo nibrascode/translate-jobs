@@ -13,5 +13,10 @@
  "ar": "الباء والعين والصاد أصلٌ واحد، وهو الاضطِراب. قال أبو مَهْدِىّ: تَبَعْصَصَ الشئُ ارتَكَضَ فى اليَدِ واضطَرَبَ، وكذلك تَبَعْصَصَ فى النَّار، إذا أُلقِىَ فيها فأَخَذَ يعدو ولا عَدْوَ به. والأرْنَب تتبعصَص فى يَدِ الإنسان.\nويقال للحيّة إذا ضُرِبَتْ ولَوَتْ بذَنبها قد تَبَعْصَصَتْ",
  "az": "[بعص] الباء، العين və الصاد — tək bir əsas kökə malikdir ki, o da titrəmək, çarpınmaqdır. Əbu Mehdi demişdir: «تَبَعْصَصَ الشئُ» — əldə titrədi və hərəkət etdi, eynilə odun içinə atıldıqda qaçmağa çalışan, lakin qaçmağa yeri olmayan şey kimi «تَبَعْصَصَ» etdi. Dovşan da insanın əlində «تتبعصَص» edər (çarpınar). İlana da vurulduğu və quyruğunu buladığı zaman «قد تَبَعْصَصَتْ» (çarpındı) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:31:47.354Z"
+ "ts": "2026-10-25T00:31:47.354Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T15:52:57.330Z"
 }

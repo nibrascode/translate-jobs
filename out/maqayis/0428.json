@@ -11,7 +11,19 @@
   "page_to": 343
  },
  "ar": "التاء والراء والزاء كلمةٌ واحدة صحيحة. تَرِزَ الشَّئ صَلُب.\nوكلُّ مستحكِمٍ تارز. والميِّت تارزٌ؛ لأنَّه قد يَبِسَ. قال:\nكأنَّ الذِى يُرمَى من الوحَشِ تارِزُ (١) *\nوقال امرؤ القيس - ويدلّ على أنّ التارز الصُّلب -:\nبِعَجْلَزَةٍ قد أتْرَزَ الجَرْىُ لَحْمَها … كميتٍ كأنّها هِراوةُ مِنوالِ (٢)\nويقال أتْرَزَتِ المرأةُ حَبْلَها: فتلَتْه (٣) فتلاً شديداً. وأترَزَتْ عجينَها إذا مَلَكَتْه.",
- "az": "«ترز» (t-r-z): Tə, ra və zal səhih bir kəlmədir. تَرِزَ الشَّئ (tərizəş-şəy): şey bərkidi.\nVə hər bir möhkəmlənmiş şey تارز (tariz) adlanır. Və ölmüş insan da تارز (tariz)-dir; çünki o qurumuşdur. Şair demişdir:\nكأنَّ الذِى يُرمَى من الوحَشِ تارِزُ (١) * (Sanki ovlanan vəhşi heyvan... tarizdir)\nVə İmrul-Qeys - bu da tarizin bərk olduğuna dəlalət edir - demişdir:\nبِعَجْلَزَةٍ قد أتْرَزَ الجَرْىُ لَحْمَها … كميتٍ كأنّها هِراوةُ مِنوالِ (٢)\n(Qısraqla ki, qaçış onun ətini bərkitmişdir... kəhər kimi ki, sanki toxucu çubuğudur)\nVə deyilir: أتْرَزَتِ المرأةُ حَبْلَها (ətrəzətil-mər-ətu həbləha): ipini sıx və möhkəm bükdü. Və أتْرَزَتْ عجينَها (ətrəzət əcinəha): xəmirini möhkəm yoğurdu.",
+ "az": "[ترز]\nTa, ra və zey səhih bir kəlmədir. تَرِزَ الشَّئ – bərkidi.\nHər bir möhkəmlənmiş şey تارز adlanır. Meyit də تارز adlanır, çünki o qurumuşdur. Şair demişdir:\nكأنَّ الذِى يُرمَى من الوحَشِ تارِزُ (١) *\n(Sanki vəhşi heyvanlardan vurulan ov quruyub daşlaşmışdır).\nİmruulqeys də – bu da تارز sözünün bərk mənasında olduğuna dəlalət edir – demişdir:\nبِعَجْلَزَةٍ قد أتْرَزَ الجَرْىُ لَحْمَها … كميتٍ كأنّها هِراوةُ مِنوالِ (٢)\n(Qaçışın ətini bərkitdiyi güclü bir madyanla; kəhərdir, sanki toxucu dəzgahının ağacıdır).\nDeyilir: أتْرَزَتِ المرأةُ حَبْلَها – qadın ipini möhkəm eşdi (فتلَتْه (٣) فتلاً شديداً). Xəmirini yaxşıca yoğurub bərkitdikdə də أترَزَتْ عجينَها deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.116Z"
+ "ts": "2026-10-25T00:37:44.116Z",
+ "prev_az": "«ترز» (t-r-z): Tə, ra və zal səhih bir kəlmədir. تَرِزَ الشَّئ (tərizəş-şəy): şey bərkidi.\nVə hər bir möhkəmlənmiş şey تارز (tariz) adlanır. Və ölmüş insan da تارز (tariz)-dir; çünki o qurumuşdur. Şair demişdir:\nكأنَّ الذِى يُرمَى من الوحَشِ تارِزُ (١) * (Sanki ovlanan vəhşi heyvan... tarizdir)\nVə İmrul-Qeys - bu da tarizin bərk olduğuna dəlalət edir - demişdir:\nبِعَجْلَزَةٍ قد أتْرَزَ الجَرْىُ لَحْمَها … كميتٍ كأنّها هِراوةُ مِنوالِ (٢)\n(Qısraqla ki, qaçış onun ətini bərkitmişdir... kəhər kimi ki, sanki toxucu çubuğudur)\nVə deyilir: أتْرَزَتِ المرأةُ حَبْلَها (ətrəzətil-mər-ətu həbləha): ipini sıx və möhkəm bükdü. Və أتْرَزَتْ عجينَها (ətrəzət əcinəha): xəmirini möhkəm yoğurdu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizəsi standart qaydaya uyğun deyil.",
+  "Hərf adı səhv verilmişdir: zey (الزاء) hərfi «zal» kimi yazılmışdır.",
+  "«فتلَتْه (٣)» ibarəsindəki (٣) haşiyəsi buraxılmışdır.",
+  "Şeir misrasının tərcüməsi yarımçıq qalmışdır."
+ ],
+ "review_ts": "2026-11-15T16:38:19.103Z"
 }

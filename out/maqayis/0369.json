@@ -11,7 +11,17 @@
   "page_to": 330
  },
  "ar": "ومن ذلك (البَعْثَقَةُ) وتفسيره خُروج الماءِ من الحَوْض. يقال تَبَعْثَق الماءِ من الحوض إذا انكسرتْ منه ناحيةٌ فخرَجَ منها. وذلك منحوتٌ من كلمتين:\nبَعَقَ وبثق، يقال انبعق الماء تَفتّح - وقد فُسِّر فى الثلاثىّ - وبثَقْتُ الماءَ، وهو البثق، وقد مضى ذِكرُه.",
- "az": "[بعثق] (Bə-əyn-sə-qaf) Buradan «البَعْثَقَةُ» (əl-bə’səqə) gəlir, izahı suyun hovuzdan çıxmasıdır. Deyilir ki, «تَبَعْثَق الماء» (təbə’səqəl-məu - su hovuzdan axdı), əgər hovuzun bir tərəfi qırılıb su oradan çıxarsa. Bu, iki kəlmədən nəht edilmişdir: «بَعَقَ» (bəəqə) və «بثق» (bəsəqə). Deyilir ki, «انبعق الماء» (inbəəqəl-məu - su açıldı, yarıldı) - bu üç hərflilərdə izah edilmişdir - və «بثَقْتُ الماءَ» (bəsəqtul-məə - suyu axıtdım), bu da «بثق» (bəsq) deməkdir, onun izahı artıq keçmişdir.",
+ "az": "[بعثق]\nBu qəbildəndir: البَعْثَقَةُ (əl-bəsəqə) — onun izahı suyun hovuzdan çıxmasıdır. Deyilir: «تَبَعْثَق الماءِ من الحوض» — hovuzun bir tərəfi yarıldıqda və oradan su çıxdıqda işlədilir. Bu, iki kəlmədən nəht edilmişdir:\nبَعَقَ və بثق kəlmələrindən. Deyilir: «انبعق الماء» (su yarıldı, boşaldı) — bu, üçhərflilərdə izah edilmişdir — və «بثَقْتُ الماءَ» (suyu axıtdım); bu da البثق kəlməsidir və artıq zikri keçmişdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.769Z"
+ "ts": "2026-10-25T00:37:20.769Z",
+ "prev_az": "[بعثق] (Bə-əyn-sə-qaf) Buradan «البَعْثَقَةُ» (əl-bə’səqə) gəlir, izahı suyun hovuzdan çıxmasıdır. Deyilir ki, «تَبَعْثَق الماء» (təbə’səqəl-məu - su hovuzdan axdı), əgər hovuzun bir tərəfi qırılıb su oradan çıxarsa. Bu, iki kəlmədən nəht edilmişdir: «بَعَقَ» (bəəqə) və «بثق» (bəsəqə). Deyilir ki, «انبعق الماء» (inbəəqəl-məu - su açıldı, yarıldı) - bu üç hərflilərdə izah edilmişdir - və «بثَقْتُ الماءَ» (bəsəqtul-məə - suyu axıtdım), bu da «بثق» (bəsq) deməkdir, onun izahı artıq keçmişdir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başında AR-da olmayan hərf adları əlavə edilmişdir.",
+  "«تَبَعْثَق الماءِ من الحوض» cümləsindəki «من الحوض» hissəsi tərcümədə təkrar kimi düşməmişdir."
+ ],
+ "review_ts": "2026-11-15T16:25:16.964Z"
 }

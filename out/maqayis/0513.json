@@ -11,7 +11,17 @@
   "page_to": 375
  },
  "ar": "الثاء والراء والباء كلمتان متباينَتا الأصل، لا فروع لهما.\nفالتّثريب اللَّوم والأَخْذ على الذَّنب. قال اللّه تعالى: ﴿لا تَثْرِيبَ عَلَيْكُمُ اَلْيَوْمَ﴾ فهذا أصلٌ واحد. والآخر الثَّرْبُ، وهو شحمٌ قد غَشَّى الكَرِشَ والأمعاءَ رقيقٌ؛ والجمع ثُرُوب.",
- "az": "[ثرب] الثاء والراء والباء كلمتان متباينَتا الأصل (Thə, ra və ba əsasları fərqli olan iki kəlmədir), onların budaqları yoxdur. Əttəsbir (التّثريب) məzəmmət etmək və günaha görə töhmət verməkdir. Uca Allah buyurmuşdur: ﴿لا تَثْرِيبَ عَلَيْكُمُ اَلْيَوْمَ﴾ mənaca tərcümə: Bu gün sizə məzəmmət yoxdur. Bu, tək bir əsasdır. Digəri isə الثَّرْب (əs-sərb)-dir, o da qarın önünü və bağırsaqları örtən nazik piydir; cəmi ثُرُوب (surub)-dur.",
+ "az": "[ثرب] الثاء والراء والباء كلمتان متباينَتا الأصل، لا فروع لهما.\nفالتّثريب اللَّوم والأَخْذ على الذَّنب. قال اللّه تعالى: ﴿لا تَثْرِيبَ عَلَيْكُمُ اَلْيَوْمَ﴾ فهذا أصلٌ واحد. والآخر الثَّرْبُ، وهو شحمٌ قد غَشَّى الكَرِشَ والأمعاءَ رقيقٌ؛ والجمع ثُرُوب.\n\n[ثرب] Sa, ra və ba əsasları fərqli olan iki kəlmədir, onların budaqları yoxdur.\nالتَّثْرِيبُ (ət-təsrib) - məzəmmət etmək və günaha görə töhmət verməkdir. Uca Allah buyurmuşdur: ﴿لا تَثْرِيبَ عَلَيْكُمُ اَلْيَوْمَ﴾ mənaca tərcümə: Bu gün sizə məzəmmət yoxdur. Bu, tək bir kökdür. Digəri isə الثَّرْبُ (əs-sərb)-dir, o da işkənbəni və bağırsaqları örtən nazik piydir; cəmi ثُرُوبٌ (surub)-dur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.075Z"
+ "ts": "2026-10-25T00:39:38.075Z",
+ "prev_az": "[ثرب] الثاء والراء والباء كلمتان متباينَتا الأصل (Thə, ra və ba əsasları fərqli olan iki kəlmədir), onların budaqları yoxdur. Əttəsbir (التّثريب) məzəmmət etmək və günaha görə töhmət verməkdir. Uca Allah buyurmuşdur: ﴿لا تَثْرِيبَ عَلَيْكُمُ اَلْيَوْمَ﴾ mənaca tərcümə: Bu gün sizə məzəmmət yoxdur. Bu, tək bir əsasdır. Digəri isə الثَّرْب (əs-sərb)-dir, o da qarın önünü və bağırsaqları örtən nazik piydir; cəmi ثُرُوب (surub)-dur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Əttəsbir» sözündə hərf səhvi var («Ət-təsrib» olmalıdır).",
+  "«الكَرِشَ» sözü qarın önü kimi yanlış tərcümə olunub (işkənbə/mədə deməkdir)."
+ ],
+ "review_ts": "2026-11-15T16:54:48.766Z"
 }

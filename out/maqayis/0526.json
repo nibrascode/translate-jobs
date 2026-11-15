@@ -11,7 +11,18 @@
   "page_to": 380
  },
  "ar": "الثاء والفاء واللام أصلٌ واحد، وهو الشئ يستقرُّ تحتَ الشّئ، يكون ذلك من الكَدَر وغيرِه. يقال هو ثُفْل القِدْر وغيرِها، وهو ما رسا من الخُثَارة (١). ومن الباب الثِّفال الجِلْدة تُوضَع عليها الرّحَى. ويقال هو قطعةُ فَرْو تُوضَع إلى جنب الرَّحَى. وقال:\nيكون ثِفالُها شَرقىَّ نجدٍ … ولُهْوتُها قُضَاعَةَ أجمعينا (٢)\nوقال آخر (٣):\nفتعْرُكْكُمُ عَرْكَ الرَّحَى بِثِفالها … وتَلْقَحْ كِشافاً ثم تَحْمِلْ فتُتئِمِ\nفأمّا الثَّفَال فالبعيرُ البَطئ، واشتقاقُه صحيح، لأنّهُ كأنّه من البُطْء مستقرٌّ تحت حِمْلِه، لا يكادُ يَبْرَحُ.",
- "az": "[ثفل] (Sə, fa və lam) tək bir əsasdır və o, bir şeyin altında qərarlaşan şeydir; bu, çöküntü və digər şeylərdən olur. Deyilir ki, o, qazanın və başqalarının ثُفْل (çöküntüsü, laxtası) dۇر, o da xütarədən [qatı şirədən] çökəndir (١). Bu qapıdandır (bu kateqoriyadandır): الثِّفال (təffal) dəyirman daşının üzərinə qoyulduğu dəridir. Deyilir ki, o, dəyirman daşının yanında qoyulan bir parça dəridir. (Şair) demişdir:\nيكون ثِفالُها شَرقىَّ نجدٍ … ولُهْوتُها قُضَاعَةَ أجمعينا (٢)\n(Mənanın tərcüməsi: Onun dəyirmanaltı dərisi Nəcdin şərqində, udlağı isə bütövlükdə Qüdaə qəbiləsindən olar.)\nBaşqası da demişdir (٣):\nفتعْرُكْكُمُ عَرْكَ الرَّحَى بِثِفالها … وتَلْقَحْ كِشافاً ثم تَحْمِلْ فتُتئِمِ\n(Mənanın tərcüməsi: Dəyirman daşı öz dəyirmanaltı dərisi ilə sizi üyütdüyü kimi sizi ovsunlasın...)\nAmma الثَّفَال (əttəfal) gənc, ağır hərəkətli dəvədir. Onun etimologiyası düzgündür, çünki o, yükünün altında qərarlaşmış, demək olar ki, yerindən tərpənməyən biri kimidir.",
+ "az": "[ثفل] الثاء (sa), الفاء (fa) və اللام (lam) tək bir əsasdır: bir şeyin altında qərar tutan şeydir; bu, çöküntü və digər şeylərdən olur. Deyilir: o, qazanın və başqa şeylərin ثُفْل-üdür (dibə çökən tortası/çöküntüsüdür), bu da qatı şirədən dibə çökən hissədir (١).\nBu babdandır: الثِّفَال (əssifal) – əl dəyirmanının altına sərilən dəridir. Deyilir ki, o, dəyirman daşının böyrünə qoyulan bir parça dəridir. [Şair] demişdir:\nيكون ثِفالُها شَرقىَّ نجدٍ … ولُهْوتُها قُضَاعَةَ أجمعينا (٢)\n(Onun dəyirmanaltı dərisi Nəcdin şərqində, udlağı/dən payı isə bütövlükdə Qudaə qəbiləsindən olar).\nBaşqası da demişdir (٣):\nفتعْرُكْكُمُ عَرْكَ الرَّحَى بِثِفالها … وتَلْقَحْ كِشافاً ثم تَحْمِلْ فتُتئِمِ\n(O [müharibə] dəyirman daşının öz altındakı dəri ilə dənli üyütdüyü kimi sizi əzib keçsin, hər il mayalanıb əkiz doğsun).\nAmma الثَّفَال (əssafal) isə ləng (ağır hərəkətli) dəvədir. Bunun etimologiyası düzgündür, çünki o, ləngliyindən sanki yükünün altında tərpənmədən qərar tutmuş kimidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:59.492Z"
+ "ts": "2026-10-25T00:39:59.492Z",
+ "prev_az": "[ثفل] (Sə, fa və lam) tək bir əsasdır və o, bir şeyin altında qərarlaşan şeydir; bu, çöküntü və digər şeylərdən olur. Deyilir ki, o, qazanın və başqalarının ثُفْل (çöküntüsü, laxtası) dۇر, o da xütarədən [qatı şirədən] çökəndir (١). Bu qapıdandır (bu kateqoriyadandır): الثِّفال (təffal) dəyirman daşının üzərinə qoyulduğu dəridir. Deyilir ki, o, dəyirman daşının yanında qoyulan bir parça dəridir. (Şair) demişdir:\nيكون ثِفالُها شَرقىَّ نجدٍ … ولُهْوتُها قُضَاعَةَ أجمعينا (٢)\n(Mənanın tərcüməsi: Onun dəyirmanaltı dərisi Nəcdin şərqində, udlağı isə bütövlükdə Qüdaə qəbiləsindən olar.)\nBaşqası da demişdir (٣):\nفتعْرُكْكُمُ عَرْكَ الرَّحَى بِثِفالها … وتَلْقَحْ كِشافاً ثم تَحْمِلْ فتُتئِمِ\n(Mənanın tərcüməsi: Dəyirman daşı öz dəyirmanaltı dərisi ilə sizi üyütdüyü kimi sizi ovsunlasın...)\nAmma الثَّفَال (əttəfal) gənc, ağır hərəkətli dəvədir. Onun etimologiyası düzgündür, çünki o, yükünün altında qərarlaşmış, demək olar ki, yerindən tərpənməyən biri kimidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirdəki «فتعرككم» feili «sizi ovsunlasın» kimi tamamilə yanlış tərcümə edilmişdir.",
+  "«الثَّفَال» sözünün transkripsiyası «əttəfal» kimi yanlış verilmişdir.",
+  "«gənc» sözü mətndə olmadığı halda əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T16:55:14.165Z"
 }

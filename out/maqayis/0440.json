@@ -11,7 +11,17 @@
   "page_to": 347
  },
  "ar": "التاء والسين والعين كلمةٌ واحدة، وهى التِّسعة فى العدد.\nتقول تَسَعْتُ القومَ، أى صرت تاسِعَهم. وأتْسعتُ الشَّئَ إذا كان ثمانيةً فأتممته تِسعة. والتِّسع ثلاثُ ليالٍ من الشَّهر آخرُ ليلةٍ منها اللَّيلة التاسعة. وتَسَعْتُ القومَ أتْسَعُهُم إذا أخَذْتَ تُسْع أموالهم.",
- "az": "[تسع] (tə-sə-%). Ta, sin və ayn hərfləri tək bir kəlmədir, o da sayda olan تسعة (tıs-sə) — doqquz rəqəmidir. Deyirsən: təsətu-l-qovmə — mən qövmün doqquzuncusu oldum. Və ətsətu-ş-şəyə — bir şey səkkiz idi, onu doqquza çatdırdım. Və et-tis - ayın son üç gecəsidir ki, onların sonuncusu doqquzuncu gecədir. Və təsətu-l-qovmə ətsəuhum — qövmün mallarının doqquzda birini aldığın zaman (deyilən ifadədir).",
+ "az": "[تسع] (tə-sə-ə). Ta, sin və ayn hərfləri tək bir kəlmədir, o da sayda olan التِّسْعَة (doqquz) rəqəmidir. Deyirsən: تَسَعْتُ القَوْمَ (mən qövmün doqquzuncusu oldum). Və أَتْسَعْتُ الشَّيْءَ (bir şey səkkiz idi, onu doqquza çatdırdım). Və التِّسْع (ət-tis') — ayın son üç gecəsidir ki, onların sonuncusu doqquzuncu gecədir. Və تَسَعْتُ القَوْمَ أَتْسَعُهُمْ — qövmün mallarının doqquzda birini aldığın zaman deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:05.804Z"
+ "ts": "2026-10-25T00:38:05.804Z",
+ "prev_az": "[تسع] (tə-sə-%). Ta, sin və ayn hərfləri tək bir kəlmədir, o da sayda olan تسعة (tıs-sə) — doqquz rəqəmidir. Deyirsən: təsətu-l-qovmə — mən qövmün doqquzuncusu oldum. Və ətsətu-ş-şəyə — bir şey səkkiz idi, onu doqquza çatdırdım. Və et-tis - ayın son üç gecəsidir ki, onların sonuncusu doqquzuncu gecədir. Və təsətu-l-qovmə ətsəuhum — qövmün mallarının doqquzda birini aldığın zaman (deyilən ifadədir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Transkripsiyada «%» simvol pozuntusu var.",
+  "İzah edilən ərəbcə sözlər latın əlifbası ilə yazılmış, ərəb qrafikası ilə saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-15T16:46:45.713Z"
 }

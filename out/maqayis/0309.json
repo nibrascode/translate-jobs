@@ -11,7 +11,19 @@
   "page_to": 299
  },
  "ar": "الباء واللام والزَّاء * ليس بأصلٍ. وفيه كُلَيمات، فالبِلِزُ المرأة القصيرة. ويقولون البَلْأز: القصير من الرِّجال (٤). والبَلْأزَة: الأَكْل. وفى جميعِ ذلك نظرُ",
- "az": "«بلز» (bələz): الباء واللام والزَّاء — əsas deyildir. Orada bəzi kiçik sözlər var: əl-biliz (البِلِزُ) — qadının qısası. Deyirlər ki, əl-bəlz (البَلْأز) — kişilərin qısasıdır (٤). Əl-bəlzəh (البَلْأزَة) — yeməkdir. Bütün bunlarda nəzər (araşdırma) vardır.",
+ "az": "[بلز]\nالباء واللام والزَّاء (ba, lam və zey) — bir əsas deyildir. Orada bir neçə kəlmə vardır: البِلِزُ (əl-biliz) — qısaboylu qadındır. Deyirlər ki, البَلْأز (əl-bəl'əz) — kişilərin qısaboylusu, البَلْأزَة (əl-bəl'əzə) isə yemək yeməkdir. Bütün bunlarda isə şübhə (nəzər) vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:37.148Z"
+ "ts": "2026-10-25T00:33:37.148Z",
+ "prev_az": "«بلز» (bələz): الباء واللام والزَّاء — əsas deyildir. Orada bəzi kiçik sözlər var: əl-biliz (البِلِزُ) — qadının qısası. Deyirlər ki, əl-bəlz (البَلْأز) — kişilərin qısasıdır (٤). Əl-bəlzəh (البَلْأزَة) — yeməkdir. Bütün bunlarda nəzər (araşdırma) vardır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[بلز]» şəklində olmalıdır.",
+  "«البَلْأز» sözünün oxunuşu «əl-bəlz» deyil, həmzə ilə «əl-bəl'əz» olmalıdır.",
+  "«المرأة القصيرة» ifadəsi «qadının qısası» deyil, «qısa boylu qadın» kimi tərcümə olunmalıdır.",
+  "«وفى جميعِ ذلك نظر» cümləsində «nəzər» sözü «araşdırma» deyil, «şübhə, dəqiqləşdirməyə ehtiyac» mənasındadır."
+ ],
+ "review_ts": "2026-11-15T16:04:32.767Z"
 }

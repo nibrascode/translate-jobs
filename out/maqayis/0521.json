@@ -11,7 +11,18 @@
   "page_to": 378
  },
  "ar": "الثاء والعين والباء أصلٌ يدلُّ على امتداد الشئ وانبساطِه، يكون ذلك فى ماءٍ وغيره.\nقال الخليل: يقال ثَعَبْت الماءَ وأنا أثعَبهُ، إذا فجّرته فانثَعب، كانثعاب الدّم من الأنف. قال: ومنه اشتُقّ مَثْعَب المَطَر. وممّا يصلُح حمْلُه على هذا، الثُّعبانُ الحيّةُ الضَّخْم الطويل؛ وهو من القياس، فى انبساطه وامتداده خَلْقًا وحركةً. قال:\n* على نَهْجٍ كثُعبانِ العَرينِ *\nوربّما قيل ماءٌ ثَعْبٌ، ويجمع على الثُّعبان.",
- "az": "[ثعب] الثاء والعين والباء أصلٌ يدلُّ على امتداد الشئ وانبساطِه (Thə, ayn və ba şeyin uzanmasına və yayılmasına dəlalət edən bir əsasdır), bu, suda və başqa şeydə olur. Xəlil demişdir: Deyilir: ثَعَبْتُ الماءَ وأنا أثعَبهُ (Suyun səabtü etdim və mən onu əsəbubu edirəm), onu fışqırtdığım zaman, nəticədə burnundan qanın axması kimi o da axdı. O demişdir: Mətbərin (yağış suyunun) axarı olan مَثْعَب (mətsəb) bundan törədilmişdir. Buna həml olunması uyğun gələnlərdən biri də uzun və böyük ilan olan الثُّعبان (əs-sübən)-dir; bu da xilqət və hərəkətində yayılması və uzanması etibarilə qiyasdandır. O demişdir: * على نَهْجٍ كثُعبانِ العَرينِ * (Meşəliyin sübəni kimi bir yolda) (كى). Bəzən su üçün ثَعْبٌ (səb) denilir və الثُّعبان (əs-sübən) olaraq cəmlənir.",
+ "az": "[ثعب] الثاء (sa), العين (ayn) və الباء (ba) bir şeyin uzanmasına və yayılmasına dəlalət edən bir əsasdır; bu, suda və başqa şeylərdə olur.\nXəlil demişdir: Deyilir: ثَعَبْتُ الماءَ وأنا أثعَبُهُ (suyu fışqırtdım və mən onu axıdıram), onu fışqırtdığın zaman o da axar, sanki burundan qanın axması kimi. O demişdir: Yağış novçası olan مَثْعَب (məts'ab) sözü də bundan törədilmişdir. Buna həml edilməsi düzgün olan sözlərdən biri də iri və uzun ilan olan الثُّعبان (əsu'ban)-dır; bu da yaradılış və hərəkət baxımından onun yayılması və uzanması ilə qiyasdandır. [Şair] demişdir:\n* على نَهْجٍ كثُعبانِ العَرينِ *\n(Meşəliyin böyük ilanı kimi aydın bir yolda).\nBəzən ماءٌ ثَعْبٌ (axar su) da deyilir və cəmi الثُّعبان olaraq gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.076Z"
+ "ts": "2026-10-25T00:39:38.076Z",
+ "prev_az": "[ثعب] الثاء والعين والباء أصلٌ يدلُّ على امتداد الشئ وانبساطِه (Thə, ayn və ba şeyin uzanmasına və yayılmasına dəlalət edən bir əsasdır), bu, suda və başqa şeydə olur. Xəlil demişdir: Deyilir: ثَعَبْتُ الماءَ وأنا أثعَبهُ (Suyun səabtü etdim və mən onu əsəbubu edirəm), onu fışqırtdığım zaman, nəticədə burnundan qanın axması kimi o da axdı. O demişdir: Mətbərin (yağış suyunun) axarı olan مَثْعَب (mətsəb) bundan törədilmişdir. Buna həml olunması uyğun gələnlərdən biri də uzun və böyük ilan olan الثُّعبان (əs-sübən)-dir; bu da xilqət və hərəkətində yayılması və uzanması etibarilə qiyasdandır. O demişdir: * على نَهْجٍ كثُعبانِ العَرينِ * (Meşəliyin sübəni kimi bir yolda) (كى). Bəzən su üçün ثَعْبٌ (səb) denilir və الثُّعبان (əs-sübən) olaraq cəmlənir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«səabtü etdim və mən onu əsəbubu edirəm» şəklində tərcüməsiz sözlər verilib.",
+  "Şeir beytinin sonunda «(كى)» səhv əlavə olunub.",
+  "Sözlərin mənası yerinə transkripsiya yazılıb."
+ ],
+ "review_ts": "2026-11-15T16:55:14.163Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 423
  },
  "ar": "الجيم والهاء ليس أصلاً؛ لأنه صوتٌ. يقال جهجهت بالسَّبُع إذا صحتَ به. قال:\n* فجاء دُونَ الزَّجرِ والتجهجُهِ (٣) *\nوحَكَى ناسٌ: تجهجَهَ عن الأمر انتهى. وهذا إن كان صحيحاً فهو فى باب المقابلة؛ لأنك تقول جَهْجَهْتُ به فتجَهْجَهَ.",
- "az": "[جهجه] (Cim və ha) əsas deyildir; çünki o səsin təqlididir. Vəhşi heyvana qışqırdıqda «جهجهت بالسَّبُع» (cəhcəhtü bis-səbü) deyilir. Şair demişdir:\n* فجاء دُونَ الزَّجرِ والتجهجُهِ (٣) *\nBəzi adamlar rəvayət etmişlər: «تجهجَهَ عن الأمر» (təcəhcəhə ani əmr) — sona çatdı, vaz keçdi. Əgər bu doğru olsa, o, qarşılıqlı (müqabilə) بابındadır; çünki sən «جَهْجَهْتُ به» (cəhcəhtü bihi - ona qışqırdım) deyirsən, o da «فتجَهْجَهَ» (fətəcəhcəhə - qışqırığa cavab olaraq dayandı) olur.",
+ "az": "[جهجه] (Cim və hə) əsas deyildir; çünki o səsin təqlididir. Vəhşi heyvana qışqırdıqda «جهجهت بالسَّبُع» (cəhcəhtü bis-səbü) deyilir. Şair demişdir:\n* فجاء دُونَ الزَّجرِ والتجهجُهِ (٣) *\n(O, çəkindirmə və qışqırıq olmadan gəldi).\nBəzi adamlar rəvayət etmişlər: «تجهجَهَ عن الأمر» (təcəhcəhə ani əmr) — çekindi, vaz keçdi. Əgər bu doğru olsa, o, qarşılıqlı (müqabilə) babındandır; çünki sən «جَهْجَهْتُ به» (cəhcəhtü bihi - ona qışqırdım) deyirsən, o da «فتجَهْجَهَ» (fətəcəhcəhə - çəkindi/dayandı) olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:44:23.869Z"
+ "ts": "2026-10-25T00:44:23.869Z",
+ "prev_az": "[جهجه] (Cim və ha) əsas deyildir; çünki o səsin təqlididir. Vəhşi heyvana qışqırdıqda «جهجهت بالسَّبُع» (cəhcəhtü bis-səbü) deyilir. Şair demişdir:\n* فجاء دُونَ الزَّجرِ والتجهجُهِ (٣) *\nBəzi adamlar rəvayət etmişlər: «تجهجَهَ عن الأمر» (təcəhcəhə ani əmr) — sona çatdı, vaz keçdi. Əgər bu doğru olsa, o, qarşılıqlı (müqabilə) بابındadır; çünki sən «جَهْجَهْتُ به» (cəhcəhtü bihi - ona qışqırdım) deyirsən, o da «فتجَهْجَهَ» (fətəcəhcəhə - qışqırığa cavab olaraq dayandı) olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir misrası mötərizədə tərcümə edilməyib."
+ ],
+ "review_ts": "2026-11-15T16:59:39.164Z"
 }

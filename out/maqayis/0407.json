@@ -11,7 +11,17 @@
   "page_to": 336
  },
  "ar": "بَرْشَمَ (١٠) الرَّجُلُ، إذا وَجَمَ\nوأظْهرَ الحُزْن.",
- "az": "«برشم» (b-r-ş-m): بَرْشَمَ (bərşəmə) (١٠) الرَّجُلُ (kişi), إذا وَجَمَ (susub məəttəl qaldıqda) və أظْهرَ الحُزْن (kədər izhar etdikdə).",
+ "az": "[برشم]\nبَرْشَمَ (١٠) الرَّجُلُ، إذا وَجَمَ (Kişi susub mat qaldıqda)\nوأظْهرَ الحُزْن (və kədər izhar etdikdə [بَرْشَمَ] deyilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.114Z"
+ "ts": "2026-10-25T00:37:44.114Z",
+ "prev_az": "«برشم» (b-r-ş-m): بَرْشَمَ (bərşəmə) (١٠) الرَّجُلُ (kişi), إذا وَجَمَ (susub məəttəl qaldıqda) və أظْهرَ الحُزْن (kədər izhar etdikdə).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizə formatı pozulub və gərəksiz transliterasiya əlavə edilib.",
+  "Ərəbcə mətn parçalanıb və abzas bölünməsi itib."
+ ],
+ "review_ts": "2026-11-15T16:40:02.266Z"
 }

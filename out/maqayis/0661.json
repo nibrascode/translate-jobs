@@ -11,7 +11,17 @@
   "page_to": 464
  },
  "ar": "الجيم والعين والظاء أصلٌ واحد يدلُّ على سوءُ خلُق وامتناعٍ [و] دفع. يقال رجل جَعْظٌ سَيِّئُ الخُلُق. وجَعظْتُه عن الشئ: دفعتُه، وكذلك أجعَظْته. قال:\n* والجُفْرتين مَنَعوا إجْعَاظَا (١) *\nيقول: دفعوهم عنها (٢)\nفأمّا (الجيم والغين معجمة) فلا أصل لها فى الكلام. والذى قاله ابن دريد فى الجَغْب أنّه ذُو الشَّغَبِ (٣)، فجنسٌ من الإبْدال يولِّدهُ ابنُ دريد ويستعمِلُه.",
- "az": "[جعظ] (cim, eyn və zai) pis xasiyyətə, imtinaya [və] dəf etməyə dəlalət edən tək bir əsasdır. Deyilir: رجل جَعْظٌ سَيِّئُ الخُلُق (raculun cəun səyyiu əl-xuluq). Və جَعظْتُه عن الشئ (cəəztuhu ən əş-şəy): onu dəf etdim, həmçinin أجعَظْته (əcəztuhu). O dedi: * والجُفْرتين مَنَعوا إجْعَاظَا (١) * Deyir: onları oradan dəf etdilər (٢). Gim və ğeym hərflərinə gəldikdə isə, danışıqda onun əsli yoxdur. İbn Düridin cəğb haqqında dediyi: o, fitnə-fəsad sahibidir (٣) — bu, İbn Düridin uydurduğu və işlətdiyi dəyişdirmə (ibdal) növüdür.",
+ "az": "[جعظ] (cim, eyn və za) pis xasiyyətə, imtinaya [və] dəf etməyə dəlalət edən tək bir əsasdır. Deyilir: رجل جَعْظٌ سَيِّئُ الخُلُق (pis xasiyyətli adam). Və جَعظْتُه عن الشئ (onu bir şeydən dəf etdim), həmçinin أجعَظْته. O dedi:\n* والجُفْرتين مَنَعوا إجْعَاظَا (١) *\n(İki quyunu dəf edərək manə oldular).\nDeyir: onları oradan dəf etdilər (٢).\n(Cim və nöqtəli ğayn) hərflərinə gəldikdə isə, danışıqda onun əsli yoxdur. İbn Düridin جَغْب haqqında dediyi: «o, fitnə-fəsad sahibidir» (٣) — İbn Düridin uydurduğu və işlətdiyi bir əvəzetmə (ibdal) növüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:48:09.223Z"
+ "ts": "2026-10-25T00:48:09.223Z",
+ "prev_az": "[جعظ] (cim, eyn və zai) pis xasiyyətə, imtinaya [və] dəf etməyə dəlalət edən tək bir əsasdır. Deyilir: رجل جَعْظٌ سَيِّئُ الخُلُق (raculun cəun səyyiu əl-xuluq). Və جَعظْتُه عن الشئ (cəəztuhu ən əş-şəy): onu dəf etdim, həmçinin أجعَظْته (əcəztuhu). O dedi: * والجُفْرتين مَنَعوا إجْعَاظَا (١) * Deyir: onları oradan dəf etdilər (٢). Gim və ğeym hərflərinə gəldikdə isə, danışıqda onun əsli yoxdur. İbn Düridin cəğb haqqında dediyi: o, fitnə-fəsad sahibidir (٣) — bu, İbn Düridin uydurduğu və işlətdiyi dəyişdirmə (ibdal) növüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ظ» hərfinin adı «za», «غ» hərfinin adı «ğayn», «ج» hərfinin adı «cim» yazılmalıdır.",
+  "Şeir parçasının tərcüməsi mötərizədə verilməyib."
+ ],
+ "review_ts": "2026-11-15T17:03:31.252Z"
 }

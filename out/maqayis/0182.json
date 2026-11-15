@@ -11,9 +11,19 @@
   "page_to": 197
  },
  "ar": "الباء والثاء والنون أصلٌ واحد يدلُّ على السهولة واللين. يقال أرضٌ بَثْنةٌ أى سهلة، وتصغيرها بُثَينة. وبها سمِّيت المرأة بُثَينة. والبَثَنِيَّةُ حنطةٌ منسوبة. ومن ذلك\nحديثُ خالدِ بنِ الوليد: «إنّ عمرَ استعمَلَنى على الشام، فلمَّا ألقى بَوانِيَهُ (١) وصارَ بَثَنِيَّةً وَعَسَلاً عَزَلنى واستعمَلَ غيرى».",
- "az": "«بثن» (Bəsən)\nالباء والثاء والنون أصلٌ واحد يدلُّ على السهولة واللين. (Bə, sə və nun — asanlıq və yumşaqlığa dəlalət edən tək bir əsasdır.)\nيقال أرضٌ بَثْنةٌ أى سهلة، وتصغيرها بُثَينة. (Deyilir: bəşnətun yer — yəni hamar yer, kiçiltmə forması isə Büseynədir.)\nوبها سمِّيت المرأة بُثَينة. (Və qadına bu adla Büseynə adı verilmişdir.)\nوالبَثَنِيَّةُ حنطةٌ منسوبة. (Və əl-bəşəniyyə — nisbət edilən buğdadır.)\nومن ذلك حديثُ خالدِ بنِ الوليد: «إنّ عمرَ استعمَلَنى على الشام، فلمَّا ألقى بَوانِيَهُ (١) وصارَ بَثَنِيَّةً وَعَسَلاً عَزَلنى واستعمَلَ غيرى». (Və bundan Xalid ibn əl-Vəlidin hədisidir: «Ömər məni Şama vali təyin etdi, nə zaman ki, o, dayaqlarını qoydu (1) və bəşəniyyə (buğdası) və bal halına gəldi, məni azad edib başqasını təyin etdi».)",
+ "az": "[بثن]\nالباء والثاء والنون أصلٌ واحد يدلُّ على السهولة واللين. (Bə, sə və nun — asanlıq və yumşaqlığa dəlalət edən tək bir əsasdır.) يقال أرضٌ بَثْنةٌ أى سهلة، وتصغيرها بُثَينة. (Deyilir: bəsnətun yer — yəni hamar yer, kiçiltmə forması isə Büseynədir.) وبها سمِّيت المرأة بُثَينة. (Və qadına bu adla Büseynə adı verilmişdir.) والبَثَنِيَّةُ حنطةٌ منسوبة. (Və əl-bəsəniyyə — nisbət edilən buğdadır.) ومن ذلك حديثُ خالدِ بنِ الوليد: «إنّ عمرَ استعمَلَنى على الشام، فلمَّا ألقى بَوانِيَهُ (١) وصارَ بَثَنِيَّةً وَعَسَلاً عَزَلنى واستعمَلَ غيرى». (Və bundan Xalid ibn əl-Vəlidin hədisidir: «Ömər məni Şama vali təyin etdi, nə zaman ki, o, dayaqlarını qoydu (١) və bəsəniyyə (buğdası) və bal halına gəldi, məni vəzifədən azad edib başqasını təyin etdi».)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:26:42.582Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«بثن» (Bəsən)\nالباء والثاء والنون أصلٌ واحد يدلُّ على السهولة واللين. (Bə, sə və nun — asanlıq və yumşaqlığa dəlalət edən tək bir əsasdır.)\nيقال أرضٌ بَثْنةٌ أى سهلة، وتصغيرها بُثَينة. (Deyilir: bəşnətun yer — yəni hamar yer, kiçiltmə forması isə Büseynədir.)\nوبها سمِّيت المرأة بُثَينة. (Və qadına bu adla Büseynə adı verilmişdir.)\nوالبَثَنِيَّةُ حنطةٌ منسوبة. (Və əl-bəşəniyyə — nisbət edilən buğdadır.)\nومن ذلك حديثُ خالدِ بنِ الوليد: «إنّ عمرَ استعمَلَنى على الشام، فلمَّا ألقى بَوانِيَهُ (١) وصارَ بَثَنِيَّةً وَعَسَلاً عَزَلنى واستعمَلَ غيرى». (Və bundan Xalid ibn əl-Vəlidin hədisidir: «Ömər məni Şama vali təyin etdi, nə zaman ki, o, dayaqlarını qoydu (1) və bəşəniyyə (buğdası) və bal halına gəldi, məni azad edib başqasını təyin etdi».)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ث» (sa) hərfi «bəşnətun», «əl-bəşəniyyə» və «bəşəniyyə» sözlərində səhvən «ş» kimi verilmişdir («bəsnətun», «əl-bəsəniyyə», «bəsəniyyə» olmalıdır).",
+  "«عَزَلنى» feli «məni azad edib» kimi yanlış tərcümə edilmişdir («məni vəzifədən azad edib» olmalıdır).",
+  "Haşiyə rəqəmi «(١)» ərəb rəqəmi əvəzinə «(1)» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T15:42:19.755Z"
 }

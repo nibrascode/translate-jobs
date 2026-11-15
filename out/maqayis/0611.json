@@ -11,7 +11,17 @@
   "page_to": 436
  },
  "ar": "الجيم والدال والحاء أصلٌ واحدٌ، وهى خشبةٌ يُجْدح بها الدَّواء (١)، [لها] ثلاثة أعيار (٢). والمجدوحُ: شئٌ كان يُشْرَب فى الجاهلية، يُعْمَد إِلى الناقة فتفْصَد ويُؤخَذُ دمُها فى الإناء، ويشرب ذلك فى الجَدْب.\nوالمِجْدَح والمُجْدَح: نجم، وهى ثلاثةٌ كأنها أثافىّ. والقياس واحدٌ. قال:\n* إذا خَفَق المجْدَحُ (٣) *\nوالمِجْدح: مِيسَمٌ من مواسم الإبل (٤) على هذه الصورة، يقال أجْدَحْت البَعير إذا وسمتَه بالمجْدَح.",
- "az": "[جدح]: الجيم والدال والحاء أصلٌ واحدٌ، وهى خشبةٌ يُجْدح بها الدَّواء (١)، [لها] ثلاثة أعيار (٢) (Cim, dal və ha hərfləri tək bir kökdür, o da üzərində dərman qarışdırılan taxtadır, onun üç ucu vardır). والمجدوحُ: شئٌ كان يُشْرَب فى الجاهلية، يُعْمَد إِلى الناقة فتفْصَد ويُؤخَذُ دمُها فى الإناء، ويشرب ذلك فى الجَدْب (Əl-mecduh: cahiliyyə dövründə içilən bir şeydir ki, dəvəyə yaxınlaşıb onun damarı kəsilir, qanı qaba yığılır və bu, quraqlıq zamanı içilirdi).\nوالمِجْدَح والمُجْدَح: نجم، وهى ثلاثةٌ كأنها أثافىّ. والقياس واحدٌ. قال (Əl-micdəh və mujdəh: bir ulduzdur, onlar üçdür, sanki üç daşlıq ocaq yeridirlər. Qiyas birdir. Şair demişdir):\n* إذا خَفَق المجْدَحُ (٣) *\nوالمِجْدح: مِيسَمٌ من مواسم الإبل (٤) على هذه الصورة، يقال أجْدَحْت البَعير إذا وسمتَه بالمجْدَح (Əl-micdəh: bu şəkildə dəvə dağlama nişanəsidir, deyilir: «əcdəhtül-bəirə» – dəvəni micdəhlə dağladığın zaman).",
+ "az": "[جدح]\nالجيم والدال والحاء أصلٌ واحدٌ، وهى خشبةٌ يُجْدح بها الدَّواء (١)، [لها] ثلاثة أعيار (٢). والمجدوحُ: شئٌ كان يُشْرَب فى الجاهلية، يُعْمَد إِلى الناقة فتفْصَد ويُؤخَذُ دمُها فى الإناء، ويشرب ذلك فى الجَدْب.\n(Cim, dal və ha hərfləri tək bir kökdür. O, üzərində dərman qarışdırılan taxtadır (١), onun üç ucu vardır (٢). «المجدوح» (əl-mədcuh): cahiliyyə dövründə içilən bir şeydir; dəvəyə yaxınlaşıb damarı kəsilər, qanı qaba yığılar və bu, quraqlıq zamanı içilərdi).\nوالمِجْدَح والمُجْدَح: نجم، وهى ثلاثةٌ كأنها أثافىّ. والقياس واحدٌ. قال:\n(«المِجْدَح» (əl-micdəh) və «المُجْدَح» (əl-mucdəh): ulduzdur, onlar üçdür, sanki ocaq daşlarıdır. Qiyas birdir. Şair demişdir):\n* إذا خَفَق المجْدَحُ (٣) *\n(Micdəh ulduzu batdıqda (٣)).\nوالمِجْدح: مِيسَمٌ من مواسم الإبل (٤) على هذه الصورة، يقال أجْدَحْت البَعير إذا وسمتَه بالمجْدَح.\n(«المِجْدَح» (əl-micdəh): bu şəkildə dəvə dağlama nişanəsidir (٤), deyilir: «أجْدَحْت البَعير» – dəvəni micdəhlə dağladığın zaman).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:06.593Z"
+ "ts": "2026-10-25T00:45:06.593Z",
+ "prev_az": "[جدح]: الجيم والدال والحاء أصلٌ واحدٌ، وهى خشبةٌ يُجْدح بها الدَّواء (١)، [لها] ثلاثة أعيار (٢) (Cim, dal və ha hərfləri tək bir kökdür, o da üzərində dərman qarışdırılan taxtadır, onun üç ucu vardır). والمجدوحُ: شئٌ كان يُشْرَب فى الجاهلية، يُعْمَد إِلى الناقة فتفْصَد ويُؤخَذُ دمُها فى الإناء، ويشرب ذلك فى الجَدْب (Əl-mecduh: cahiliyyə dövründə içilən bir şeydir ki, dəvəyə yaxınlaşıb onun damarı kəsilir, qanı qaba yığılır və bu, quraqlıq zamanı içilirdi).\nوالمِجْدَح والمُجْدَح: نجم، وهى ثلاثةٌ كأنها أثافىّ. والقياس واحدٌ. قال (Əl-micdəh və mujdəh: bir ulduzdur, onlar üçdür, sanki üç daşlıq ocaq yeridirlər. Qiyas birdir. Şair demişdir):\n* إذا خَفَق المجْدَحُ (٣) *\nوالمِجْدح: مِيسَمٌ من مواسم الإبل (٤) على هذه الصورة، يقال أجْدَحْت البَعير إذا وسمتَه بالمجْدَح (Əl-micdəh: bu şəkildə dəvə dağlama nişanəsidir, deyilir: «əcdəhtül-bəirə» – dəvəni micdəhlə dağladığın zaman).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir misrasının tərcüməsi verilməmişdir.",
+  "Ərəbcə baş sözlər tərcümə hissəsində ərəb qrafikası ilə saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-15T17:01:01.191Z"
 }

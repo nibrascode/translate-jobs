@@ -11,7 +11,17 @@
   "page_to": 261
  },
  "ar": "الباء والطاء والخاء كلمةٌ واحدة، وهو البِطِّيخ. وما أُرَاهَا أصلاً، لأنَّها مقلوبة من الطِّبِّيخ (٥)، وهذا أَقْيَس وأحْسَن اطراداً. وقد كتب فى بابه.",
- "az": "[بطخ] (bə-tə-x): باء (ba), طاء (ta) və xaa hərfləri tək bir kəlimədir, o da «البِطِّيخ» (əl-biTTix - qarpız/yemiş) sözüdür. Mən hesab etmirəm ki, bu əsl kökdür, çünki o «الطِّبِّيخ» (əT-TibBix) sözünün hərflərinin yerdəyişməsi ilə əmələ gəlmişdir (5); bu isə qaydaya daha uyğun və ardıcıllıq baxımından daha gözəldir. Bu barədə öz باب (bölümünə) yazılmışdır.",
+ "az": "[بطخ] باء (ba), طاء (ta) və خاء (xa) tək bir kəlmədir, o da «البِطِّيخ» (əl-bittix — qarpız/yemiş) sözüdür. Mən onu əsl kök hesab etmirəm, çünki o, «الطِّبِّيخ» (ət-tibbix) sözünün hərflərinin yerdəyişməsi (məqlub) ilə əmələ gəlmişdir (٥); bu isə qaydaya daha uyğun və ardıcıllıq baxımından daha gözəldir. Bu barədə öz babında (bölməsində) yazılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:31:27.649Z"
+ "ts": "2026-10-25T00:31:27.649Z",
+ "prev_az": "[بطخ] (bə-tə-x): باء (ba), طاء (ta) və xaa hərfləri tək bir kəlimədir, o da «البِطِّيخ» (əl-biTTix - qarpız/yemiş) sözüdür. Mən hesab etmirəm ki, bu əsl kökdür, çünki o «الطِّبِّيخ» (əT-TibBix) sözünün hərflərinin yerdəyişməsi ilə əmələ gəlmişdir (5); bu isə qaydaya daha uyğun və ardıcıllıq baxımından daha gözəldir. Bu barədə öz باب (bölümünə) yazılmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«باب» sözü tərcüməsiz qalmış və yanında Türkiyə türkcəsinə aid «bölümünə» sözü işlədilmişdir.",
+  "Haşiyə rəqəmi (٥) əvəzinə (5) yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T15:51:20.925Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 258
  },
  "ar": "الباء والطاء والغين (١) أصلٌ واحد، وهو التلطُّخ بالشئ قال الراجز (٢):\n* لَولَا دَبُوقاءُ ستِهِ لم يَبْطَغِ *",
- "az": "[بطغ] - با, ta və ğayn (١) tək bir əsas kökə malikdir və o, bir şeylə bulaşmaq, ləkələnmək deməkdir. Raciz (ucadan şeir oxuyan) demişdir (٢):\n* لَولَا دَبُوقاءُ ستِهِ لم يَبْطَغِ *",
+ "az": "[بطغ]\nBa, ta və ğayn (١) tək bir əsas kökə malikdir və o, bir şeylə bulaşmaq, ləkələnmək deməkdir. Rəcəz şairi demişdir (٢):\n* لَولَا دَبُوقاءُ ستِهِ لم يَبْطَغِ * (Arxasının yapışqan bulaşığı olmasaydı, çirklənməzdi)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:31:04.259Z"
+ "ts": "2026-10-25T00:31:04.259Z",
+ "prev_az": "[بطغ] - با, ta və ğayn (١) tək bir əsas kökə malikdir və o, bir şeylə bulaşmaq, ləkələnmək deməkdir. Raciz (ucadan şeir oxuyan) demişdir (٢):\n* لَولَا دَبُوقاءُ ستِهِ لم يَبْطَغِ *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalmışdır.",
+  "«با» hərfi ərəb əlifbası ilə yazılmış, «الراجز» sözü isə yanlış («ucadan şeir oxuyan» kimi) tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T15:50:22.071Z"
 }

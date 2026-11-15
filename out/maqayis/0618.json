@@ -11,7 +11,16 @@
   "page_to": 440
  },
  "ar": "الجيم والذال والباء أصلٌ واحدٌ يدلُّ على بَتْرِ الشَّئ (٣) يقال جذَبْتُ الشَّىْ ءَ أجذبُه جذْباً. وجذَبتُ المُهْر عن أُمّه إذا فطمتَه، ويقال ناقة جاذب، إذا قلَّ لبنها، والجمع جواذب. وهو قياس الباب؛ لأنه إذا قل لبنها فكأنها جَذبته إلى نفسها.\nوقد شذّ عن هذا الأصل الجَذَب، وهو الجُمَّار (٤) الخَشِن، الواحد جَذَبة",
- "az": "[جذب] (Cim, ذal və ba): Bir şeyi kökündən qoparıb ayırmağa dəlalət edən tək bir əsasdır (3). Deyilir: «جذَبْتُ الشَّىْءَ أجذبُه جذْباً» (şeyi çəkdim, çəkirəm). Və «جذَبتُ المُهْر عن أُمّه» (dayçanı anasından ayırıb süddən kəsdim). Deyilir: «ناقة جاذب» (südü azalan dəvə), cəmi «جواذب» (cəvazib) gəlir. Bu, bu babın qiyasındandır; çünki onun südü azalanda elə bil onu özünə tərəf çəkmişdir. Bu əsasdan yalnız «الجَذَب» (cəzəb) sözü istisna olaraq şaz gəlmişdir, o da sərt xurma özəyidir (4), təkliyi «جَذَبة» (cəzəbə) gəlir.",
+ "az": "[جذب] (Cim, zal və ba) bir şeyi kökündən qoparıb ayırmağa dəlalət edən tək bir əsasdır. Deyilir: «جذَبْتُ الشَّىْءَ أجذبُه جذْباً» (şeyi çəkdim, çəkirəm). Və «جذَبتُ المُهْر عن أُمّه» (dayçanı anasından ayırıb süddən kəsdim). Deyilir: «ناقة جاذب» (südü azalan dəvə), cəmi «جواذب» (cəvazib) gəlir. Bu, bu babın qiyasındandır; çünki onun südü azalanda elə bil onu özünə tərəf çəkmişdir.\nBu əsasdan yalnız «الجَذَب» (əl-cəzəb) sözü istisna olaraq şaz gəlmişdir, o da sərt xurma özəyidir, təkliyi «جَذَبة» (cəzəbə) gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:27.644Z"
+ "ts": "2026-10-25T00:45:27.644Z",
+ "prev_az": "[جذب] (Cim, ذal və ba): Bir şeyi kökündən qoparıb ayırmağa dəlalət edən tək bir əsasdır (3). Deyilir: «جذَبْتُ الشَّىْءَ أجذبُه جذْباً» (şeyi çəkdim, çəkirəm). Və «جذَبتُ المُهْر عن أُمّه» (dayçanı anasından ayırıb süddən kəsdim). Deyilir: «ناقة جاذب» (südü azalan dəvə), cəmi «جواذب» (cəvazib) gəlir. Bu, bu babın qiyasındandır; çünki onun südü azalanda elə bil onu özünə tərəf çəkmişdir. Bu əsasdan yalnız «الجَذَب» (cəzəb) sözü istisna olaraq şaz gəlmişdir, o da sərt xurma özəyidir (4), təkliyi «جَذَبة» (cəzəbə) gəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı «zal» kimi yazılmalıdır."
+ ],
+ "review_ts": "2026-11-15T17:00:58.416Z"
 }

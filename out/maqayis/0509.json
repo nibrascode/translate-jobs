@@ -11,7 +11,16 @@
   "page_to": 373
  },
  "ar": "الثاء والدال والميم كلمةٌ ليست أصلاً. زعَمُوا أنّ الثَّدْمَ هو الفَدْمُ.\nوهذا إنْ صحَّ فهو من باب الإِبدال.",
- "az": "[ثدم] الثاء والدال والميم كلمةٌ ليست أصلاً (Thə, dal və mim əsas olmayan bir kəlmədir). Zənn etmişlər ki, الثَّدْم (ə-sədm) sözü الفَدْم (əl-fədm) deməkdir. Əgər bu səhihdirsə, bu, əvəzetmə باب (bölümündəndir).",
+ "az": "[ثدم] الثاء والدال والميم كلمةٌ ليست أصلاً (Sa, dal və mim bir kök təşkil etməyən kəlmədir). Zənn etmişlər ki, الثَّدْمُ (əs-sədm) sözü الفَدْمُ (əl-fədm) deməkdir. Əgər bu səhihdirsə, bu, əvəzetmə (ibdal) babındandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.075Z"
+ "ts": "2026-10-25T00:39:38.075Z",
+ "prev_az": "[ثدم] الثاء والدال والميم كلمةٌ ليست أصلاً (Thə, dal və mim əsas olmayan bir kəlmədir). Zənn etmişlər ki, الثَّدْم (ə-sədm) sözü الفَدْم (əl-fədm) deməkdir. Əgər bu səhihdirsə, bu, əvəzetmə باب (bölümündəndir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«bölüm» sözü Türkiyə türkcəsidir, işlədilməməlidir."
+ ],
+ "review_ts": "2026-11-15T16:54:48.764Z"
 }

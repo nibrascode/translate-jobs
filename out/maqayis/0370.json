@@ -11,7 +11,17 @@
   "page_to": 330
  },
  "ar": "ومن ذلك (البُرْجُد) وهو كِساءٌ مخطَّط. وقد نُحت من كلمتين: من البِجاد وهو الكِساء - وقد فُسِّر - ومن البُرْد. والشَّبَه (١) بينهما قريب.",
- "az": "[برجد] (Bə-ra-cim-dal) Buradan «البُرْجُد» (əl-burcud) gəlir ki, bu da naxışlı bir örtükdür. Bu, iki kəlmədən nəht edilmişdir: «البِجاد» (əl-bicad - örtük) - izah edilmişdir - və «البُرْد» (əl-burd - parça). Bunlar arasındakı bənzərlik yaxındır.",
+ "az": "[برجد]\nBu qəbildəndir: البُرْجُد (əl-burcud) — zolaqlı (naxışlı) örtükdür. İki kəlmədən nəht edilmişdir: البِجاد (əl-bicad) kəlməsindən — bu da örtükdür və izahı keçmişdir — və البُرْد (əl-burd — zolaqlı parça, bürdə) kəlməsindən. Onların ikisinin arasındakı bənzərlik (١) yaxındır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.769Z"
+ "ts": "2026-10-25T00:37:20.769Z",
+ "prev_az": "[برجد] (Bə-ra-cim-dal) Buradan «البُرْجُد» (əl-burcud) gəlir ki, bu da naxışlı bir örtükdür. Bu, iki kəlmədən nəht edilmişdir: «البِجاد» (əl-bicad - örtük) - izah edilmişdir - və «البُرْد» (əl-burd - parça). Bunlar arasındakı bənzərlik yaxındır.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başında AR-da olmayan hərf adları əlavə edilmişdir.",
+  "«البُرْد» (əl-burd) sözü sadəcə «parça» kimi yox, zolaqlı/naxışlı örtük (bürdə) kimi qeyd edilməlidir."
+ ],
+ "review_ts": "2026-11-15T16:25:16.964Z"
 }

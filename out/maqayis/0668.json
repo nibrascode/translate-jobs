@@ -11,7 +11,16 @@
   "page_to": 468
  },
  "ar": "الجيم واللام والهاء أصلٌ واحدٌ يدلُّ على انكشافِ الشئ.\nفالجَلَه انحسارُ الشَّعَر عن جانِبَى الرَّأس. قال رؤبة:\nلمَّا رأتنى خَلَقَ المَمَوَّهِ … بَرَّاقَ أصْلادِ الجَبِين الأجْلهِ (١)\nوجَلْهتا الوادِى: ناحيتاه، إذا كانت فيهما صلابةٌ. وذلك مشتقّ من قولهم جَلَهْتُ الحَصَى عن المكانِ، إذا نَحَّيْتَه.",
- "az": "[جله] — Cəim, lam və hə - bir əsas məna olub, bir şeyin üzə çıxmasına, açılmasına dəlalət edir. «الجَلَه» - başın iki tərəfindən saçın tökülməsi, çılpaqlaşmasıdır. Rübə demişdir: «لمَّا رأتنى خَلَقَ المَمَوَّهِ … بَرَّاقَ أصْلادِ الجَبِين الأجْلهِ» (١) (Məni köhnəlmiş su kimi, parlaq alınlı, önü keçəl görmüşkən). «جَلْهتا الوادِى» - vadinin iki tərəfi, əgər orada sərtlik varsa. Bu, onların «جَلَهْتُ الحَصَى عن المكانِ» (yerdən xırda daşları kənarlaşdırdım), yəni onu kənara çəkdim sözündən törəmişdir.",
+ "az": "[جله] (cim, lam və hə) bir əsas kökdür: bir şeyin üzə çıxmasına, açılmasına dəlalət edir.\n«الجَلَه» — başın iki tərəfindən saçın tökülməsi, çılpaqlaşmasıdır. Rübə demişdir:\nلمَّا رأتنى خَلَقَ المَمَوَّهِ … بَرَّاقَ أصْلادِ الجَبِين الأجْلهِ (١)\n(Məni köhnəlmiş su kimi, parlaq alınlı, önü keçəl görmüşkən).\n«جَلْهتا الوادِى» — vadinin iki tərəfi, əgər orada sərtlik varsa. Bu, onların «جَلَهْتُ الحَصَى عن المكانِ» (yerdən xırda daşları kənarlaşdırdım), yəni onu kənara çəkdim sözündən törəmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:48:30.556Z"
+ "ts": "2026-10-25T00:48:30.556Z",
+ "prev_az": "[جله] — Cəim, lam və hə - bir əsas məna olub, bir şeyin üzə çıxmasına, açılmasına dəlalət edir. «الجَلَه» - başın iki tərəfindən saçın tökülməsi, çılpaqlaşmasıdır. Rübə demişdir: «لمَّا رأتنى خَلَقَ المَمَوَّهِ … بَرَّاقَ أصْلادِ الجَبِين الأجْلهِ» (١) (Məni köhnəlmiş su kimi, parlaq alınlı, önü keçəl görmüşkən). «جَلْهتا الوادِى» - vadinin iki tərəfi, əgər orada sərtlik varsa. Bu, onların «جَلَهْتُ الحَصَى عن المكانِ» (yerdən xırda daşları kənarlaşdırdım), yəni onu kənara çəkdim sözündən törəmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı səhv verilmişdir («Cəim» əvəzinə «cim» olmalıdır)."
+ ],
+ "review_ts": "2026-11-15T17:03:51.022Z"
 }

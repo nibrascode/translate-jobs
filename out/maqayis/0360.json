@@ -13,5 +13,10 @@
  "ar": "الباء والياء والظاء كلمةٌ ما أعرِفها فى صَحيحِ كلام العرب، ولو أنَّهم ذَكرُوها ما كان لإثباتها وجهٌ. قالوا: البَيْظُ ماء الفَحْل.",
  "az": "«بيظ» (beyz): باء، ya və zə hərfləri ərəblərin səhih dilində tanıdığım bir söz deyil, əgər onu qeyd etmiş olsaydılar belə, onu təsdiq etməyin heç bir vəchi olmazdı. Onlar demişlər: «البَيْظ» (əl-beyz) — erkək heyvanın suyudur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:35:28.171Z"
+ "ts": "2026-10-25T00:35:28.171Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:15:47.164Z"
 }

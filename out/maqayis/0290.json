@@ -11,7 +11,19 @@
   "page_to": 274
  },
  "ar": "الباء والغين والضاد أصل واحد، وهو يدلّ على خلاف الحبّ.\nيقال أبغضته أبغضه. فأمّا قوله:\nومن العوادى أن تقتك ببغضة … وتقاذف منها وأنّك ترقب (١)\nفقيل البغضة الأعداء، وقيل أراد ذوى بغضة. وربما قالوا بغض جدّه، كقولهم عثر. واللّه أعلم.\n[(باب الباء والقاف وما يثلثهما فى الثلاثى)]",
- "az": "«بغض» (bağəda). Ба, ğun və dad hərfləri tək bir əslə malik olub, məhəbbətin əksinə dəlalət edir. «أبغضته أبغضه» (əbğadْتühü übğidühü) – ona nifrət etdim, nifrət edirəm, deyilir. Amma onun bu sözünə gəldikdə: ومن العوادى أن تقتك ببغضة … وتقاذف منها وأنّك ترقب (١) – bəziləri «البغضة» (əl-bəğdə) sözünün düşmənlər mənasında olduğunu, bəziləri isə nifrət sahibləri qəsd etdiyini demişlər. Bəzən «عثر» (əsir) dedikləri kimi, «بغض جدّه» (bəğada cəddühü) də deyirlər. Allah daha yaxşı bilir. [(Ba və qaf hərfləri babı və sülasi kəlmələrdə onlara üçqat əlavə olunanlar)]",
+ "az": "[بغض]\nBa, ğayn və dad hərfləri tək bir əslə malik olub, məhəbbətin əksinə dəlalət edir.\nأبغضته أبغضه (ona nifrət etdim, nifrət edirəm) deyilir. Amma onun bu sözünə gəldikdə:\nومن العوادى أن تقتك ببغضة … وتقاذف منها وأنّك ترقب (١)\n(Maneələrdən biri də onun səni nifrətlə qarşılaması, ondan uzaqlaşmaq və sənin gözləməyindir) – bəziləri البغضة (əl-bəğdə) sözünün düşmənlər mənasında olduğunu, bəziləri isə nifrət sahiblərini qəsd etdiyini demişlər. Bəzən عثر (büdrədi, bəxti gətirmədi) dedikləri kimi, بغض جدّه (bəxti pisləşdi) də deyirlər. Allah daha yaxşı bilir.\n[(باب الباء والقاف وما يثلثهما فى الثلاثى)] (Ba və qaf hərfləri və sülasi kəlmələrdə onlara üçüncü hərf olaraq qoşulanlar babı)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:32:05.260Z"
+ "ts": "2026-10-25T00:32:05.260Z",
+ "prev_az": "«بغض» (bağəda). Ба, ğun və dad hərfləri tək bir əslə malik olub, məhəbbətin əksinə dəlalət edir. «أبغضته أبغضه» (əbğadْتühü übğidühü) – ona nifrət etdim, nifrət edirəm, deyilir. Amma onun bu sözünə gəldikdə: ومن العوادى أن تقتك ببغضة … وتقاذف منها وأنّك ترقب (١) – bəziləri «البغضة» (əl-bəğdə) sözünün düşmənlər mənasında olduğunu, bəziləri isə nifrət sahibləri qəsd etdiyini demişlər. Bəzən «عثر» (əsir) dedikləri kimi, «بغض جدّه» (bəğada cəddühü) də deyirlər. Allah daha yaxşı bilir. [(Ba və qaf hərfləri babı və sülasi kəlmələrdə onlara üçqat əlavə olunanlar)]",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[بغض]» formatında verilməyib.",
+  "Mətndə kiril əlifbasından («Ба», «əbğadْتühü») istifadə olunub və «غ» hərfi «ğun» kimi səhv adlandırılıb.",
+  "Şeir beyti və «بغض جدّه», «عثر» ifadələri tərcüməsiz qalıb.",
+  "Sonuncu ərəbcə bab başlığı saxlanmayıb və tərcüməsi dəqiq deyil."
+ ],
+ "review_ts": "2026-11-15T15:54:01.967Z"
 }

@@ -11,9 +11,19 @@
   "page_to": 207
  },
  "ar": "الباء والخاء والقاف أصلٌ واحد وكلمة واحدة، يقال بخَقْتُ عينَه إذا ضربتَها حتى تَعُورَها (٤) قال رؤبة:\n* وَمَل بعَينَيْه عَوَاوِيرُ البَخَقْ (٥) *",
- "az": "[بخق] (bə-xə-q): الباء والخاء والقاف أصلٌ واحد وكلمة واحدة، يقال بخَقْتُ عينَه إذا ضربتَها حتى تَعُورَها (٤) (Bə, xa və qaf bir əsas və tək kəlmədir; bəxətu ayənəh - onun gözünə zərbə endirib şikəst etdiyin zaman deyilir). قال رؤبة (Rövbə demişdir): * وَمَل بعَينَيْه عَوَاوِيرُ البَخَقْ (٥) *",
+ "az": "[بخق]\nBa, xa və qaf hərfləri bir əsas və tək kəlmədir; birinin gözünü kor edənə qədər vurduqda بخَقْتُ عينَه (onun gözünü çıxardım/kor etdim) deyilir (٤). Rübə demişdir:\n* وَمَل بعَينَيْه عَوَاوِيرُ البَخَقْ (٥) * (Gözlərində korluğun ağrısı qalıb narahat edirdi).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:27:58.605Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[بخق] (bə-xə-q): الباء والخاء والقاف أصلٌ واحد وكلمة واحدة، يقال بخَقْتُ عينَه إذا ضربتَها حتى تَعُورَها (٤) (Bə, xa və qaf bir əsas və tək kəlmədir; bəxətu ayənəh - onun gözünə zərbə endirib şikəst etdiyin zaman deyilir). قال رؤبة (Rövbə demişdir): * وَمَل بعَينَيْه عَوَاوِيرُ البَخَقْ (٥) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalıb.",
+  "«حتى تَعُورَها» (kor edənə qədər) ifadəsi «şikəst etdiyin» kimi qeyri-dəqiq verilib.",
+  "«رؤبة» (Rübə) şairin adı səhvən «Rövbə» yazılıb."
+ ],
+ "review_ts": "2026-11-15T15:44:26.703Z"
 }

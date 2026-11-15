@@ -11,7 +11,17 @@
   "page_to": 245
  },
  "ar": "الباء والزاء والميم أصلٌ واحد: الإمساك والقَبْض. يقال بَزَم على الشئِ إذا قَبَض عليه بمُقَدَّم فيه. والإبزيم عربىٌّ فصيح، وهو مشتق من هذا. والبَزِيم فَضْلَة الزّادِ، سمِّيت بذلك لأنه أُمْسِكَ عن إنفاقها.",
- "az": "[بزم] (bəzəm) — با (ba), زاء (za) və ميم (mim) tək bir əsas mənaya malikdir: tutmaq və qavramaq. «بَزَم على الشئِ» (bir şeyi ön tərəfi ilə sıxıb tutdu) deyilir. «الإبزيم» (kəmər tokası) ərəbi fəsih sözdür və bundan törəmişdir. «البَزِيم» (azuqənin artığı) – belə adlandırılmışdır, çünki onun xərclənməsindən əl çəkilmiş, saxlanılmışdır.",
+ "az": "[بزم]\nباء (ba), زاء (zey) və ميم (mim) tək bir əsasdır: tutmaq və qavramaq. Bir şeyi ağzının ön tərəfi ilə sıxıb tutduqda بَزَم على الشئِ deyilir. الإبزيم (kəmər toqqası) fəsih ərəb sözüdür və bundan törəmişdir. البَزِيم (azuqənin artığı) — belə adlandırılmışdır, çünki onun xərclənməsindən əl çəkilmiş, saxlanılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:30:24.233Z"
+ "ts": "2026-10-25T00:30:24.233Z",
+ "prev_az": "[بزم] (bəzəm) — با (ba), زاء (za) və ميم (mim) tək bir əsas mənaya malikdir: tutmaq və qavramaq. «بَزَم على الشئِ» (bir şeyi ön tərəfi ilə sıxıb tutdu) deyilir. «الإبزيم» (kəmər tokası) ərəbi fəsih sözdür və bundan törəmişdir. «البَزِيم» (azuqənin artığı) – belə adlandırılmışdır, çünki onun xərclənməsindən əl çəkilmiş, saxlanılmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "\"بمُقَدَّم فيه\" ifadəsində \"فيه\" (ağzının) sözü buraxılıb.",
+  "\"tokası\" (Türkiyə türkcəsi) və \"ərəbi\" kimi qeyri-uyğun sözlər işlədilib."
+ ],
+ "review_ts": "2026-11-15T15:48:41.304Z"
 }

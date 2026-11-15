@@ -11,7 +11,17 @@
   "page_to": 342
  },
  "ar": "التاء والخاء والذال كلمة واحدة، تَخِذْتُ الشَّئَ واتَّخَذْته.",
- "az": "«تخذ» (t-x-d): Tə, xa və zal bir kəlmədir, تَخِذْتُ الشَّئَ واتَّخَذْته (təxidtuş-şəyə və əttəxədtuhu): bir şeyi əldə etdim və qəbul etdim.",
+ "az": "[تخذ]\nTa, xa və zal bir kəlmədir: تَخِذْتُ الشَّئَ واتَّخَذْته (bir şeyi əldə etdim, götürdüm).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.116Z"
+ "ts": "2026-10-25T00:37:44.116Z",
+ "prev_az": "«تخذ» (t-x-d): Tə, xa və zal bir kəlmədir, تَخِذْتُ الشَّئَ واتَّخَذْته (təxidtuş-şəyə və əttəxədtuhu): bir şeyi əldə etdim və qəbul etdim.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizəsi standart qaydaya uyğun deyil.",
+  "Mətnin tərcüməsi dəqiq verilməmişdir."
+ ],
+ "review_ts": "2026-11-15T16:38:19.101Z"
 }

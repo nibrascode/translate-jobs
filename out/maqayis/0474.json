@@ -11,7 +11,16 @@
   "page_to": 359
  },
  "ar": "التاء والواو والهاء ليس أصلاً. قالوا: تَاهَ يَتُوه، مثل تَاهَ [يَتِيهُ] وهو من الإبدال. وقد ذُكِر.",
- "az": "[توه] (t-v-h): Ta, vaf və hə hərfləri kök deyil. Dedilər ki, تَاهَ يَتُوهُ (tahə yətuhu) – تَاهَ يَتِيهُ (tahə yətihü) kimidir və bu, hərf əvəzlənməsindən (ibdaldən) irəli gəlir. Bu haqda artıq zikr edilmişdir.",
+ "az": "[توه]\nالتاء والواو والهاء (ta, vav və hə) bir kök deyildir. Demişlər ki: تَاهَ يَتُوهُ (tahə yətuhu) kəlməsi تَاهَ يَتِيهُ (tahə yətihu – çaşqınlıq içində azmaq) kimidir və bu, hərf əvəzlənməsindəndir (ibdaldır). Bu haqda artıq zikr edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:53.836Z"
+ "ts": "2026-10-25T00:38:53.836Z",
+ "prev_az": "[توه] (t-v-h): Ta, vaf və hə hərfləri kök deyil. Dedilər ki, تَاهَ يَتُوهُ (tahə yətuhu) – تَاهَ يَتِيهُ (tahə yətihü) kimidir və bu, hərf əvəzlənməsindən (ibdaldən) irəli gəlir. Bu haqda artıq zikr edilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «vaf» deyil, «vav»dır."
+ ],
+ "review_ts": "2026-11-15T16:50:18.834Z"
 }

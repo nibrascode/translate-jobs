@@ -13,5 +13,10 @@
  "ar": "الباء والغين والواو ليس فيه إلا البغو. وذكر ابن دريد أنه التمر قبل أن يستحكم يبسه (٢).",
  "az": "[بغو] الباء، الغين və الواو — burada yalnız «البغو» sözü var. İbn Dürid qeyd etmişdir ki, bu, tam sərtləşməmişdən əvvəlki xurmadır (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:31:47.354Z"
+ "ts": "2026-10-25T00:31:47.354Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T15:53:36.869Z"
 }

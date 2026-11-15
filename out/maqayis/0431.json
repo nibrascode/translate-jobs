@@ -11,7 +11,18 @@
   "page_to": 344
  },
  "ar": "التاء والراء والصاد أصلٌ واحد، وهو الإحكام. يقال تَرُصَ الشَّيء، وأَتْرَصْتُه أحكمْتُه فهو مُتْرَصٌ. وكلُّ ما أحكَمْتَ صَنْعتَهُ فقد أتْرَصْتَه. وأنشد الخليل:\n* وشُدَّ يَدَيْكَ بالعَقْدِ التَّرِيصِ (١) *",
- "az": "«ترص» (t-r-ص): Tə, ra və sad tək bir əsasdır, o da möhkəmlətməkdir. Deyilir: تَرُصَ الشَّئ (tərusəş-şəy), və أَتْرَصْتُه (ətrəstuhu) - onu möhkəmlətdim, deməli o مُتْرَصٌ (mutras)-dur. Sən sənətkarlığını hansı şeyi möhkəmlətsən, deməli onu ətrəstəsən. Xəlil bu beytini oxumuşdur:\n* وشُدَّ يَدَيْكَ بالعَقْدِ التَّرِيصِ (١) * (Və əllərini möhkəm düyünlə bərkit)",
+ "az": "[ترص]\nTa, ra və sad bir əsldir, mənası möhkəmləndirməkdir. Deyilir: تَرُصَ الشَّيء (şey möhkəm oldu), və أَتْرَصْتُه أحكمْتُه (onu möhkəmləndirdim), deməli o, مُتْرَصٌ (möhkəmləndirilmişdir). Düzəltdiyin hər hansı bir şeyi möhkəm etmisənsə, deməli onu möhkəmləndirmisən (أَتْرَصْتَه). Xəlil şeir söyləmişdir:\n* وشُدَّ يَدَيْكَ بالعَقْدِ التَّرِيصِ (١) *\n(Əllərini möhkəm düyünlə bağla).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.116Z"
+ "ts": "2026-10-25T00:37:44.116Z",
+ "prev_az": "«ترص» (t-r-ص): Tə, ra və sad tək bir əsasdır, o da möhkəmlətməkdir. Deyilir: تَرُصَ الشَّئ (tərusəş-şəy), və أَتْرَصْتُه (ətrəstuhu) - onu möhkəmlətdim, deməli o مُتْرَصٌ (mutras)-dur. Sən sənətkarlığını hansı şeyi möhkəmlətsən, deməli onu ətrəstəsən. Xəlil bu beytini oxumuşdur:\n* وشُدَّ يَدَيْكَ بالعَقْدِ التَّرِيصِ (١) * (Və əllərini möhkəm düyünlə bərkit)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizəsində transkripsiyaya ərəb hərfi qarışmışdır.",
+  "«Sən sənətkarlığını hansı şeyi möhkəmlətsən...» cümləsi qüsurludur.",
+  "«Xəlil bu beytini oxumuşdur» tərcüməsi səhvdir, beyt Xəlilə aid deyil, onun nəql etdiyi şeirdir."
+ ],
+ "review_ts": "2026-11-15T16:38:19.104Z"
 }

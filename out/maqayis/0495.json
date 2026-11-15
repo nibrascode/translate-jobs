@@ -13,5 +13,10 @@
  "ar": "الثاء والطاء كلمةٌ واحدة، فالثّطَطُ خِفّة اللحية، ورجلُ ثَطٌّ.",
  "az": "«ثط»: الثاء və الطاء tək bir kəlimədir, (الثّطَطُ) — saqqalın seyrəkliyi deməkdir, kişi isə (ثَطٌّ) adlanır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:16.273Z"
+ "ts": "2026-10-25T00:39:16.273Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:54:14.125Z"
 }

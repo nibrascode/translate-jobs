@@ -11,7 +11,18 @@
   "page_to": 461
  },
  "ar": "الجيم والعين واللام كلمات غير مُنْقاسة، لا يشبه بعضُها بعضاً. فالجَعْلُ: النَّخْلُ يفوت اليدَ، والواحدةُ جَعْلة. وهو قوله:\n* أو يستَوى جَثِيثُها وجَعْلُها (٣) *\nوالْجَعْوَل: ولد النعام. والجِعَال: الخِرْقة التى تُنزَلُ بها القِدْر عن الأثافى.\nوالجُعْل والجِعالة والجَعيلة: ما يُجعل للإِنسان على الأمر يَفعلُه. وجعَلْتُ الشئَ\nصنعتُه. قال الخليل: إلاَّ أنَّ جَعلَ أعمُّ، تقول جَعَل يقول، ولا تقول صَنعَ يقول.\nوكَلْبَةٌ مُجْعِلٌ، إذا أرادت السِّفاد. والجُعَلَةُ: اسم مكان (١). قال:\n* وبعدها عامَ ارتَبَعْنَا الجُعَلهْ *\nفهذا الباب كما تراه لا يشبه بعضه بعضاً.",
- "az": "[جعل] Cim, ayn və lam: bir-birinə bənzəməyən, qiyas olunmayan kəlmələrdir. Cəl (الجَعْلُ): əl çatmayan xurma ağacıdır, təki cələdir (جَعْلة). Bu, şairin sözüdür: * أو يستَوى جَثِيثُها وجَعْلُها (٣) * (mənası: Yaxud onun kökündən çıxarılanı və cəli bərabər olar). Cəvəl (الْجَجْوَل): dəvəquşu balasıdır. Cial (الجِعَال): qazanı ocaqdan endirmək üçün istifadə olunan əski parçasıdır. Cül (الجُعْل), cialə (الجِعالة) və cəilə (الجَعيلة): bir işi görməsi üçün insana verilən haqqdır. Cəaltu (جعلْتُ الشئَ) - onu düzəltdim (etdim). Xəlil deyir: Lakin cəələ (جعل) daha geniş mənalıdır, sən",
+ "az": "[جعل] Cim, ayn və lam: bir-birinə bənzəməyən, qiyas olunmayan kəlmələrdir. Cəl (الجَعْلُ): əl çatmayan (hündür) xurma ağacıdır, təki cələdir (جَعْلة). Bu, şairin sözüdür:\n* أو يستَوى جَثِيثُها وجَعْلُها (٣) *\n(mənası: Yaxud onun kiçik pöhrəsi ilə hündür xurma ağacı bərabər olar). Cəvəl (الْجَعْوَل): dəvəquşu balasıdır. Cial (الجِعَال): qazanı daşlar (ocaq) üzərindən endirmək üçün istifadə olunan əski parçasıdır.\nCül (الجُعْل), cialə (الجِعالة) və cəilə (الجَعيلة): bir işi görməsi üçün insana müəyyən edilən (verilən) haqqdır. Və جعلْتُ الشئَ (bir şeyi etdim) – صنعْتُه (onu düzəltdim) deməkdir. Xəlil deyir: Lakin جَعَلَ (etmək, başlamaq) daha geniş mənalıdır; deyirsən: جَعَل يقول (deməyə başladı), amma صَنَعَ يقول demirsən.\nكَلْبَةٌ مُجْعِلٌ (dişi it çiftləşmək istədikdə deyilir). Əl-Cualə (الجُعَلَةُ): bir yer adıdır (١). Şair deyir:\n* وبعدها عامَ ارتَبَعْنَا الجُعَلهْ *\n(mənası: Və bundan sonra Əl-Cualə yerində yaz mövsümünü keçirdik).\nGördüyün kimi, bu babın sözləri bir-birinə bənzəmir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:47:48.556Z"
+ "ts": "2026-10-25T00:47:48.556Z",
+ "prev_az": "[جعل] Cim, ayn və lam: bir-birinə bənzəməyən, qiyas olunmayan kəlmələrdir. Cəl (الجَعْلُ): əl çatmayan xurma ağacıdır, təki cələdir (جَعْلة). Bu, şairin sözüdür: * أو يستَوى جَثِيثُها وجَعْلُها (٣) * (mənası: Yaxud onun kökündən çıxarılanı və cəli bərabər olar). Cəvəl (الْجَجْوَل): dəvəquşu balasıdır. Cial (الجِعَال): qazanı ocaqdan endirmək üçün istifadə olunan əski parçasıdır. Cül (الجُعْل), cialə (الجِعالة) və cəilə (الجَعيلة): bir işi görməsi üçün insana verilən haqqdır. Cəaltu (جعلْتُ الشئَ) - onu düzəltdim (etdim). Xəlil deyir: Lakin cəələ (جعل) daha geniş mənalıdır, sən",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıqda artıq hərf yazılıb ([ج جعل]).",
+  "«الْجَعْوَل» sözü səhv yazılıb («الْجَجْوَل»).",
+  "Mətnin son hissəsi («تقول جَعَل يقول...» və davamı) yarımçıq kəsilib və tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-15T17:03:18.555Z"
 }

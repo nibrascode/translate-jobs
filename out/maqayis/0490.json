@@ -11,7 +11,17 @@
   "page_to": 364
  },
  "ar": "و (اَلتُّرْنوق) الطِّين يَبْقَى فى سبيل الماء إذا نضب، والتاء والواو زائدتان وهو من الرَّنْقِ.\nوباقى ذلك، وهو قليلٌ، موضوعٌ وضعاً.",
- "az": "[رنق] (r-n-q): Və (التُّرْنُوقُ – ət-turnuq) – su çəkildikdə suyun axın yolunda qalan paltardır/lildir. Ta və vaf hərfləri artırılmışdır, bu isə rənq (رَنق) sözündəndir. Bunun qalan hissəsi isə azdır və süni şəkildə qoyulmuşdur.",
+ "az": "[رنق] (r-n-q): التُّرْنُوقُ (ət-turnuq) – su çəkildikdə suyun axın yolunda qalan lildir. Ta və vav hərfləri zaitdir, bu isə الرَّنْق (ər-rənq) sözündəndir.\nBunun qalan hissəsi isə azdır və şərti olaraq qoyulmuşdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:53.837Z"
+ "ts": "2026-10-25T00:38:53.837Z",
+ "prev_az": "[رنق] (r-n-q): Və (التُّرْنُوقُ – ət-turnuq) – su çəkildikdə suyun axın yolunda qalan paltardır/lildir. Ta və vaf hərfləri artırılmışdır, bu isə rənq (رَنق) sözündəndir. Bunun qalan hissəsi isə azdır və süni şəkildə qoyulmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الطين» (palçıq) sözü yanlış olaraq «paltar» kimi tərcümə edilmişdir.",
+  "«و» hərfinin adı «vaf» yox, «vav» yazılmalıdır."
+ ],
+ "review_ts": "2026-11-15T16:53:11.885Z"
 }

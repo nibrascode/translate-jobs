@@ -11,7 +11,18 @@
   "page_to": 335
  },
  "ar": "البُرْزُلُ (٧): الضخم.",
- "az": "[برزل] (Bə-ra-zə-lam) «البُرْزُلُ» (əl-burzul): iri, nəhəng.",
+ "az": "[برزل] البُرْزُلُ (٧) (iri, nəhəngdir).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.771Z"
+ "ts": "2026-10-25T00:37:20.771Z",
+ "prev_az": "[برزل] (Bə-ra-zə-lam) «البُرْزُلُ» (əl-burzul): iri, nəhəng.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizə formatı pozulub.",
+  "Haşiyə rəqəmi (٧) buraxılıb.",
+  "Gərəksiz hərf adları və transliterasiya əlavə edilib."
+ ],
+ "review_ts": "2026-11-15T16:40:02.265Z"
 }

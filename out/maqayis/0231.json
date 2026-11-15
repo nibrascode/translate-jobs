@@ -11,7 +11,17 @@
   "page_to": 237
  },
  "ar": "الباء والراء والثاء أصلٌ واحد، وهى الأرض السَّهلة، يقال للأرض السهلة بَرْثٌ، والجمعِ براثٌ. وجعلها رُؤبة البَرارِث (٤)، ويقال إنّه خطأ.",
- "az": "«برث» (b-r-ث): Ba, ra və sə hərfləri tək bir əsas kökdür, o da hamar yerdir. Hamar torpağa «بَرْثٌ» (bərs), cəminə isə «باراث» (baraş) deyilər. Rübə bunu «البرارِثُ» (barariş) formasında işlətmişdir, lakin bunun səhv olduğu deyilir.",
+ "az": "[برث]\nBa, ra və sa hərfləri tək bir əsas kökdür, o da hamar yerdir. Hamar torpağa بَرْثٌ (hamar yer), cəminə isə براثٌ deyilir. Rübə bunu البَرارِث (٤) formasında işlətmişdir, lakin bunun səhv olduğu deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:29:37.934Z"
+ "ts": "2026-10-25T00:29:37.934Z",
+ "prev_az": "«برث» (b-r-ث): Ba, ra və sə hərfləri tək bir əsas kökdür, o da hamar yerdir. Hamar torpağa «بَرْثٌ» (bərs), cəminə isə «باراث» (baraş) deyilər. Rübə bunu «البرارِثُ» (barariş) formasında işlətmişdir, lakin bunun səhv olduğu deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«براثٌ» sözü tərcümədə «باراث» kimi təhrif edilmiş və «(baraş)» şəklində yanlış transliterasiya olunmuşdur.",
+  "«البَرارِث (٤)» ifadəsində hərəkələr dəyişdirilmiş, haşiyə rəqəmi (٤) buraxılmış və kök transkripsiyasında «(b-r-ث)» şəklində latın və ərəb əlifbaları qarışdırılmışdır."
+ ],
+ "review_ts": "2026-11-15T15:46:55.201Z"
 }

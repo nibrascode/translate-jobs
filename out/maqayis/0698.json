@@ -11,7 +11,18 @@
   "page_to": 485
  },
  "ar": "الجيم والنون والذال يدلُّ على التجمّع والنَّصرة. يقال هم جُنده، أى أعوانه ونُصّاره. والأجناد: أجناد الشّام وهى خمسة: دمشق، وحِمْصٌ، وقِنَّسْرِينُ، والأُردُنّ، وفِلَسطين. يقال لكلِّ واحدة من هذه جُنْدٌ.\nوجَنَدٌ: بلدٌ (١). والجَنَد: الأرضُ الغليظة فيها حجارةٌ بِيض؛ فهذا محتمل أن يكون من الباب، ويجوز أن يكون من الإِبدال، والأصل الجَلَد.",
- "az": "«جند» (جيم, نون və ذال) – toplanmağa və kömək etməyə dəlalət edir. Onlar onun «جُنده» (cündüdür – köməkçiləri, yardımçılarıdır) deyilir. «الأجناد» (əlcənad) – Şamın qoşunlarıdır ki, beşdir: Dəməşq, Hims, Qinnəsrin, Urdun və Fələstin. Bunların hər birinə «جُنْدٌ» (cünd) deyilir.\n«وجَنَدٌ» – bir kənddir (١). «الجَنَد» – içində ağ daşlar olan sərt torpaqdır; bu, həmin fəsildən olması mümkündür, həmçinin hərfdəyişmə (ibdal) yolu ilə də ola bilər ki, əsli «الجَلَد»-dir.",
+ "az": "[جند] (cim, nun və zal) – toplanmağa və kömək etməyə dəlalət edir. Onlar onun جُنده (cündüdür – köməkçiləri və yardımçılarıdır) deyilir. والأجناد – Şamın qoşunlarıdır (inzibati ərazisidir) ki, beşdir: Dəməşq, Hims, Qinnəsrin, Urdun və Fələstin. Bunların hər birinə جُنْدٌ deyilir.\nوجَنَدٌ – bir şəhər/məntəqədir (١). والجَنَد – içində ağ daşlar olan sərt torpaqdır; bu, həmin fəsildən olması mümkündür, həmçinin hərfdəyişmə (ibdal) yolu ilə də ola bilər ki, əsli الجَلَد-dir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:49:12.831Z"
+ "ts": "2026-10-25T00:49:12.831Z",
+ "prev_az": "«جند» (جيم, نون və ذال) – toplanmağa və kömək etməyə dəlalət edir. Onlar onun «جُنده» (cündüdür – köməkçiləri, yardımçılarıdır) deyilir. «الأجناد» (əlcənad) – Şamın qoşunlarıdır ki, beşdir: Dəməşq, Hims, Qinnəsrin, Urdun və Fələstin. Bunların hər birinə «جُنْدٌ» (cünd) deyilir.\n«وجَنَدٌ» – bir kənddir (١). «الجَنَد» – içində ağ daşlar olan sərt torpaqdır; bu, həmin fəsildən olması mümkündür, həmçinin hərfdəyişmə (ibdal) yolu ilə də ola bilər ki, əsli «الجَلَد»-dir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[جند]» formatında yazılmalıdır.",
+  "«بلد» sözü kənd deyil, şəhər/ölkə deməkdir.",
+  "«الأجناد» sözünün oxunuşu səhv transliterasiya edilmişdir."
+ ],
+ "review_ts": "2026-11-15T17:06:14.451Z"
 }

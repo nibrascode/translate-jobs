@@ -11,7 +11,17 @@
   "page_to": 335
  },
  "ar": "والبُخْنُق: البُرْقُع القصير، وقال الفرّاء: البُخْنُق (٤) خِرْقَةٌ تَلْبَسُها المرأة تَقِى بها الخِمارَ الدُّهْنَ.",
- "az": "[بخنق] (Bə-ha-nun-qaf) «البُخْنُق» (əl-buhnuq): qısa bürüncək. Fərrə dedi: «البُخْنُق» (əl-buhnuq) qadının hicabını yağdan qorumaq üçün taxdığı bir parça növüdür.",
+ "az": "[بخنق] (Bə-xa-nun-qaf)\n«البُخْنُق» (əl-buxnuq): qısa bürüncək (niqab). Əl-Fərra demişdir: «البُخْنُق» (٤) qadının geyindiyi, onun vasitəsilə baş örtüyünü yağdan qoruduğu bir parçadır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.771Z"
+ "ts": "2026-10-25T00:37:20.771Z",
+ "prev_az": "[بخنق] (Bə-ha-nun-qaf) «البُخْنُق» (əl-buhnuq): qısa bürüncək. Fərrə dedi: «البُخْنُق» (əl-buhnuq) qadının hicabını yağdan qorumaq üçün taxdığı bir parça növüdür.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«خ» hərfinin adı «ha» deyil, «xa» olmalıdır.",
+  "Haşiyə rəqəmi (٤) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:30:26.476Z"
 }

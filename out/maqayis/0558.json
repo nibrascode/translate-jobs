@@ -11,7 +11,17 @@
   "page_to": 398
  },
  "ar": "الثاء والهمزة والطاء كلمةٌ واحدة ليست أصلاً. فالثأْطَةُ الحَمْأة، والجمع ثَأْط. وينشدون:\n* فى عَينِ ذى خُلُبٍ وثَأْط حَرْمَدِ (٣) *\nوإنما قلنا ليست أصلاً لأنّهم يقولونها بالدال (٤)، فكأنّها من باب الإبدال.",
- "az": "[ثأط]\nالثاء والهمزة والطاء كلمةٌ واحدة ليست أصلاً. فالثأْطَةُ الحَمْأة، والجمع ثَأْط. وينشدون: (Sə, həmzə və ta hərfləri tək bir kəlmədir, əsas deyil. Deməli, əs-səətə – qara paltar, lildən ibarət palçıqdır, cəmi isə səətdir. Və [şer] oxuyurlar):\n* فى عَينِ ذى خُلُبٍ وثَأْط حَرْمَدِ (٣) *\n(Xülüb və hərməd palçığı olan bulaqda)\nوإنما قلنا ليست أصلاً لأنّهم يقولونْها بالدال (٤)، فكأنّها من باب الإبدال. (Bizim onun əsas olmadığını deməyimiz sadəcə ona görədir ki, onlar bunu dal hərfi ilə deyirlər, ona görə də sanki o, əvəzlənmə fəslindəndir).",
+ "az": "[ثأط]\nالثاء (sa), الهمزة (həmzə) və الطاء (ta) tək bir kəlmədir, əsas kök deyildir. الثَّأْطَةُ – الحَمْأة (qara palçıq) deməkdir, cəmi isə ثَأْط formasıdır. Və oxuyurlar:\n* فى عَينِ ذى خُلُبٍ وثَأْط حَرْمَدِ (٣) *\n(Palçıqlı və qara lilli bulaqda).\nBizim onun əsas kök olmadığını deməyimiz sadəcə ona görədir ki, onlar bu sözü الدال (dal) hərfi ilə [ثأد] də deyirlər, ona görə də sanki bu, abdal (hərf əvəzlənməsi) babındandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:42:41.762Z"
+ "ts": "2026-10-25T00:42:41.762Z",
+ "prev_az": "[ثأط]\nالثاء والهمزة والطاء كلمةٌ واحدة ليست أصلاً. فالثأْطَةُ الحَمْأة، والجمع ثَأْط. وينشدون: (Sə, həmzə və ta hərfləri tək bir kəlmədir, əsas deyil. Deməli, əs-səətə – qara paltar, lildən ibarət palçıqdır, cəmi isə səətdir. Və [şer] oxuyurlar):\n* فى عَينِ ذى خُلُبٍ وثَأْط حَرْمَدِ (٣) *\n(Xülüb və hərməd palçığı olan bulaqda)\nوإنما قلنا ليست أصلاً لأنّهم يقولونْها بالدال (٤)، فكأنّها من باب الإبدال. (Bizim onun əsas olmadığını deməyimiz sadəcə ona görədir ki, onlar bunu dal hərfi ilə deyirlər, ona görə də sanki o, əvəzlənmə fəslindəndir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الحَمْأة» sözü «qara palçıq» əvəzinə «qara paltar» kimi səhv tərcümə edilmişdir.",
+  "Mətnin təkrarçılıqla və hərflərin latın transliterasiyası ilə verilərək üslub qaydasının pozulması."
+ ],
+ "review_ts": "2026-11-15T16:57:39.805Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 310
  },
  "ar": "الباء والهاء والظاء كلمةٌ واحدةٌ، وهو قولهم بَهَظَه الأمرُ، إذا ثَقُل عليه. وذا أَمْرٌ باهظ.",
- "az": "«ب» (با), «ه» (هə) və «ظ» (zə) tək bir kəlmədir, o da onların «بَهَظَه الأمرُ» (iş ona ağır gəldi) sözüdür. Bu, ağırdır deməkdir.",
+ "az": "[بهظ]\nBa, hə və za tək bir kəlmədir; bu da onların بَهَظَه الأمرُ dedikləri sözdür, yəni bir iş ona ağır gəldikdə deyilir. وذا أَمْرٌ باهظ (bu, ağır, çətin bir işdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:34:14.633Z"
+ "ts": "2026-10-25T00:34:14.633Z",
+ "prev_az": "«ب» (با), «ه» (هə) və «ظ» (zə) tək bir kəlmədir, o da onların «بَهَظَه الأمرُ» (iş ona ağır gəldi) sözüdür. Bu, ağırdır deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq standart formata uyğunlaşdırılmalıdır.",
+  "«za» hərfi «zə» yazılmışdır.",
+  "Mətnin son cümləsi («وذا أَمْرٌ باهظ») natamam qalmış və ərəbcə ifadəsi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:08:19.359Z"
 }

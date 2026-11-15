@@ -11,7 +11,16 @@
   "page_to": 355
  },
  "ar": "التاء والميم والكاف كلمةٌ واحدة، وهو ارتفاعُ الشئ. يقال تَمَكَ السَّنامُ إذا عَلا؛ وهو سنامٌ تامِك. وذكر ابنُ دريد: أتْمكَها الكلأ إذا أسْمَنَها. واللّه اعلم.",
- "az": "[تمك] (tə-mə-k) - Tə, mim və kaf tək bir kəlmədir, o da bir şeyin yüksəlməsidir. «تَمَكَ السَّنامُ» — dəvənin hörgücü ucaldıqda deyilir; bu, uca hörgücdür («سنامٌ تامِكٌ»). İbn Dürid qeyd etmişdir: Ot onu köpəltdikdə «أتْمكَها الكلأ» deyilir. Ən yaxşısını Allah bilir.",
+ "az": "[تمك]\nTa, mim və kaf tək bir kəlmədir; o da bir şeyin ucalmasıdır. تَمَكَ السَّنامُ (hörgüc ucaldıqda) deyilir; o, سنامٌ تامِك (uca hörgüc)-dür. İbn Dureyd qeyd etmişdir: ot-alaq onu kökəltdikdə أتْمكَها الكلأ deyilir. Doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:28.996Z"
+ "ts": "2026-10-25T00:38:28.996Z",
+ "prev_az": "[تمك] (tə-mə-k) - Tə, mim və kaf tək bir kəlmədir, o da bir şeyin yüksəlməsidir. «تَمَكَ السَّنامُ» — dəvənin hörgücü ucaldıqda deyilir; bu, uca hörgücdür («سنامٌ تامِكٌ»). İbn Dürid qeyd etmişdir: Ot onu köpəltdikdə «أتْمكَها الكلأ» deyilir. Ən yaxşısını Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أسْمَنَها» sözü səhvən «köpəltdikdə» kimi tərcümə edilmişdir (doğrusu: kökəltdikdə)."
+ ],
+ "review_ts": "2026-11-15T16:47:04.043Z"
 }

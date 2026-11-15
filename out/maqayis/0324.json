@@ -11,7 +11,18 @@
   "page_to": 307
  },
  "ar": "الباء والهاء والياء أصلٌ واحد، وهو خُلُوّ الشئِ وتعطُّله.\nيقال بيتٌ باهٍ إذا كان خالياً لا شئ فيه. ويقولون: «المِعْزَى تُبْهِى ولا تُبْنِى» وذلك أنَّه لا يُتَّخَذ من شُعورها بيوت، وهى تَصْعَدُ الخِيَمَ فتمزِّقُها. و\nفى بعض الحديث: «أَبْهُوا الخَيْلَ». أى عطلِّوها. وربما قالوا بَهِىَ البَيْتُ بَهَاءً، إِذا تخرَّقَ.",
- "az": "[بهى] (bəhi). Ba, hər və ya tək bir əsldir, o da bir şeyin boş və işsiz qalmasıdır. \nDeyilir: بيتٌ باهٍ (beytun bahin) – içində heç nə olmayan boş evdir. Deyirlər: «Keçilər bəhi edər, lakin bəni etməz» (المِعْزَى تُبْهِى ولا تُبْنِى), bunun səbəbi odur ki, onların tüyündən evlər düzəldilməz, onlar isə çadırların üstünə çıxıb onları cırırlar. Və bəzi hədislərdə: «Atları bəhu edin» (أَبْهُوا الخَيْلَ), yəni onları boş (işsiz) buraxın. Bəzən də deyirlər: بَهِىَ البَيْتُ بَهَاءً (bəhiyyəl-beytu bəhaən) – ev cırıldığı zaman.",
+ "az": "[بهى]\nBa, hə və ya bir əsldir, o da bir şeyin boş qalması və işlənməməsidir.\nİçində heç bir şey olmayan boş evə بيتٌ باهٍ deyilir. Deyirlər: «المِعْزَى تُبْهِى ولا تُبْنِى» (Keçi çadırı dağıdıb boşaldar, amma çadır tikməz). Çünki onun tükündən çadır düzəldilmir, özü isə çadırların üstünə çıxıb onları cırır.\nBəzi hədislərdə gəlmişdir: «أَبْهُوا الخَيْلَ» (Atları başlı-başına buraxın, dincə qoyun), yəni onları boş saxlayın. Bəzən də ev yırtılıb deşildikdə بَهِىَ البَيْتُ بَهَاءً deyirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:54.814Z"
+ "ts": "2026-10-25T00:33:54.814Z",
+ "prev_az": "[بهى] (bəhi). Ba, hər və ya tək bir əsldir, o da bir şeyin boş və işsiz qalmasıdır. \nDeyilir: بيتٌ باهٍ (beytun bahin) – içində heç nə olmayan boş evdir. Deyirlər: «Keçilər bəhi edər, lakin bəni etməz» (المِعْزَى تُبْهِى ولا تُبْنِى), bunun səbəbi odur ki, onların tüyündən evlər düzəldilməz, onlar isə çadırların üstünə çıxıb onları cırırlar. Və bəzi hədislərdə: «Atları bəhu edin» (أَبْهُوا الخَيْلَ), yəni onları boş (işsiz) buraxın. Bəzən də deyirlər: بَهِىَ البَيْتُ بَهَاءً (bəhiyyəl-beytu bəhaən) – ev cırıldığı zaman.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı «hər» kimi səhv yazılıb (doğrusu: hə).",
+  "«المِعْزَى تُبْهِى ولا تُبْنِى» zərb-məsəlindəki fellər ərəbcə transliterasiya kimi tərcüməsiz saxlanılıb.",
+  "«أَبْهُوا الخَيْلَ» hədis parçasının mənası tam açılmayıb."
+ ],
+ "review_ts": "2026-11-15T16:05:22.226Z"
 }

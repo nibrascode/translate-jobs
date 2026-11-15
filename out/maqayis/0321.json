@@ -11,7 +11,18 @@
   "page_to": 306
  },
  "ar": "الباء والنون والقاف كلمةٌ واحدة، وأراها من الحَوَاشى غير واسطة. وهى البَنيقة، وهو جُرُبَّان القَميص. ويقال: البَنِيقة كلُّ رُقْعةٍ فى الثَّوب كاللَّبِنَةِ ونحوها. على أنّها قد جاءَتْ فى الشِّعر. قال:\nبضمّ إِلىَّ الليلُ أطفالَ حُبِّها … كما ضَمَّ أَزْرارَ القَميصِ البنائقُ (٣)",
- "az": "[بنق] (bənəq). Ba, nun və qaf bir sözdür, mənə görə o, vasitəsiz olaraq haşiyələrdəndir. Bu, بَنيقة (bəniqə) – köynəyin yaxalığıdır. Deyilir: bəniqə – paltardakı labinə və bənzərləri kimi hər bir yamaqdır. Lakin o, şeirdə də işlədilmişdir. Şair demişdir:\nبضمّ إِلىَّ الليلُ أطفالَ حُبِّها … كما ضَمَّ أَزْرارَ القَميصِ البنائقُ (٣)\n(Gecə sevgisinin uşaqlarını mənə bağrına basdı, köynəyin düymələrini bəniqələr bükdüyü kimi).",
+ "az": "[بنق]\nBa, nun və qaf bir sözdür, mənə görə o, mərkəzi dildən kənar, haşiyə sözlərdəndir. O da البَنيقة (əl-bəniqə) sözüdür ki, köynəyin yaxalığıdır (جُرُبَّان القَميص). Həmçinin deyilir: البَنِيقة – libasdakı kərpic formalı əlavə parça (اللَّبِنَة) və ona bənzər hər bir yamaqdır. Bununla belə, o, şeirdə işlənmişdir. Şair demişdir:\nبضمّ إِلىَّ الليلُ أطفالَ حُبِّها … كما ضَمَّ أَزْرارَ القَميصِ البنائقُ (٣)\n(Gecə onun sevgisinin uşaqlarını mənim bağrıma basdı, köynək yaxalıqlarının köynək düymələrini bir araya gətirib qovuşdurduğu kimi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:54.814Z"
+ "ts": "2026-10-25T00:33:54.814Z",
+ "prev_az": "[بنق] (bənəq). Ba, nun və qaf bir sözdür, mənə görə o, vasitəsiz olaraq haşiyələrdəndir. Bu, بَنيقة (bəniqə) – köynəyin yaxalığıdır. Deyilir: bəniqə – paltardakı labinə və bənzərləri kimi hər bir yamaqdır. Lakin o, şeirdə də işlədilmişdir. Şair demişdir:\nبضمّ إِلىَّ الليلُ أطفالَ حُبِّها … كما ضَمَّ أَزْرارَ القَميصِ البنائقُ (٣)\n(Gecə sevgisinin uşaqlarını mənə bağrına basdı, köynəyin düymələrini bəniqələr bükdüyü kimi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«جُرُبَّان القَميص» ifadəsi tərcüməsiz buraxılıb.",
+  "«غير واسطة» ifadəsi səhvən «vasitəsiz» kimi tərcümə olunub (doğrusu: mərkəzdən kənar, marjinal ləfzlər).",
+  "Şeir beytinin mənası səhv çatdırılıb (bəniqə düymələri bükmür, yaxalıq düymələri bir araya gətirib bağlayır)."
+ ],
+ "review_ts": "2026-11-15T16:05:22.224Z"
 }

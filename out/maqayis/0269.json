@@ -11,7 +11,18 @@
   "page_to": 262
  },
  "ar": "الباء والظاء والراء أصلٌ واحدٌ لا يُقاس عليه. فالبُظَارة اللَّحمة المتدلِّية مِنْ ضَرْع الشَّاة، وهى الحَلَمة. والبُظارة هَنَةٌ ناتئة من الشَّفَةِ العُلْيا، لا تكونُ بكلِّ أحَدٍ.\nقال علىٌّ ﵇ لشُريحٍ فى فُتْيا: «ما تقولُ أنتَ أيُّها العَبْدُ الأبْظَر». واللّه أعلم.",
- "az": "[بظر] (bə-Zə-r): باء (ba), Zaa (Zə) və raa tək bir əsasdır ki, ona əsasən müqayisə aparılmaz. «البُظَارة» (əl-buZArə) — qoyunun əmçəyindən sallanan ət parçasındadır, o da məməcikdir. «البُظَارة» (əl-buZArə) — üst dodaqdan qabarıq çıxan kiçik bir şeydir ki, hər kəsdə olmur.\nƏli (رضي الله عنه) fətva barəsində Şüreyhə demişdir: «ما تقولُ أنتَ أيُّها العَبْدُ الأبْظَر» (Ey abZar qul, sən nə deyirsən?). Və Allah daha yaxşı bilir.",
+ "az": "[بظر] باء (ba), ظاء (za) və راء (ra) tək bir əsasdır ki, ona əsasən müqayisə aparılmaz. «البُظَارة» (əl-büzarə) — qoyunun əmçəyindən sallanan ət parçasıdır, o da məməcikdir. «البُظَارة» (əl-büzarə) — üst dodaqdan qabarıq çıxan kiçik bir ət parçasıdır ki, hər kəsdə olmur.\nƏli (radıyallahu anhu) fətva barəsində Şüreyhə demişdir: «ما تقولُ أنتَ أيُّها العَبْدُ الأبْظَر» (Ey üst dodağı qabarıq (və ya sünnətsiz) qul, sən nə deyirsən?). Və Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:31:27.649Z"
+ "ts": "2026-10-25T00:31:27.649Z",
+ "prev_az": "[بظر] (bə-Zə-r): باء (ba), Zaa (Zə) və raa tək bir əsasdır ki, ona əsasən müqayisə aparılmaz. «البُظَارة» (əl-buZArə) — qoyunun əmçəyindən sallanan ət parçasındadır, o da məməcikdir. «البُظَارة» (əl-buZArə) — üst dodaqdan qabarıq çıxan kiçik bir şeydir ki, hər kəsdə olmur.\nƏli (رضي الله عنه) fətva barəsində Şüreyhə demişdir: «ما تقولُ أنتَ أيُّها العَبْدُ الأبْظَر» (Ey abZar qul, sən nə deyirsən?). Və Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«رضي الله عنه» ifadəsi tərcüməsiz qalmışdır.",
+  "«الأبْظَر» sözü «abZar» kimi tərcüməsiz buraxılmışdır.",
+  "Birinci cümlədə «ət parçasındadır» şəklində qrammatik səhv vardır."
+ ],
+ "review_ts": "2026-11-15T15:51:20.926Z"
 }

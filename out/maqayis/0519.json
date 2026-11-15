@@ -11,7 +11,16 @@
   "page_to": 377
  },
  "ar": "الثاء والعين والراء بناءٌ إنْ صحَّ دلَّ على قمَاءةٍ وصِغَر.\nفالثُّعْرُورَانِ كالحلمتين تكتنِفان ضَرْعَ الشاة. وعلى هذا قالوا للرجل القصير ثُعْرُور.",
- "az": "[ثعر] الثاء والعين والراء بناءٌ إنْ صحَّ دلَّ على قمَاءةٍ وصِغَر (Thə, ayn və ra bir binadır ki, əgər səhihdirsə, alçaqlığa və kiçikliyə dəlalət edər). Və الثُّعْرُورَانِ (əs-sürurani) qoyunun məməsini əhatə edən iki məməcik kimidir. Buna əsasən qısa boylu kişiyə ثُعْرُور (sürur) demişlər.",
+ "az": "[ثعر] الثاء (sa), العين (ayn) və الراء (ra) əgər səhihdirsə, alçaqlığa (çılızlığa) və kiçikliyə dəlalət edən bir quruluşdur (binadır).\nالثُّعْرُورَانِ (əssu'ruran) qoyunun yelənini əhatə edən iki kənar məməcik kimidir. Buna əsasən alçaqboylu kişiyə ثُعْرُور (su'rur) demişlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.076Z"
+ "ts": "2026-10-25T00:39:38.076Z",
+ "prev_az": "[ثعر] الثاء والعين والراء بناءٌ إنْ صحَّ دلَّ على قمَاءةٍ وصِغَر (Thə, ayn və ra bir binadır ki, əgər səhihdirsə, alçaqlığa və kiçikliyə dəlalət edər). Və الثُّعْرُورَانِ (əs-sürurani) qoyunun məməsini əhatə edən iki məməcik kimidir. Buna əsasən qısa boylu kişiyə ثُعْرُور (sürur) demişlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sözlərin azərbaycan dilində mənası yerinə «sürurani», «sürur» kimi transliterasiyalar verilib."
+ ],
+ "review_ts": "2026-11-15T16:55:14.163Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 378
  },
  "ar": "الثاء والغين والحرف المعتلّ أصلٌ يدلُّ على الصَّوت. فالثُّغَاء ثُغاء الشاءِ. والثّاغية: الشاة. يقال ما له ثاغيةٌ ولا راغيةٌ، أى لا شاةٌ ولا ناقَةٌ.",
- "az": "[ثغا] الثاء والغين والحرف المعتلّ أصلٌ يدلُّ على الصَّوت (Thə, ğain və uzadılma hərfi səslənməyə dəlalət edən bir əsasdır). Əs-süğa (الثُّغَاء) qoyunun mələşməsidir. وَالثّاغية (Əs-səğiyə): qoyundur. Deyilir: ما له ثاغيةٌ ولا راغيةٌ (Onun nə səğiyəsi, nə də rağiyəsi vardır), yəni nə qoyunu, nə də dəvəsi vardır.",
+ "az": "[ثغا] الثاء (sa), الغين (ğayn) və illətli hərf səsə dəlalət edən bir əsasdır. الثُّغَاء (əssuğa) qoyunun mələşməsidir. الثَّاغِيَةُ (əssağiyə) isə qoyundur. Deyilir: ما له ثاغيةٌ ولا راغيةٌ (onun nə mələyəni var, nə də bırqıranı), yəni nə qoyunu var, nə də dəvəsi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.076Z"
+ "ts": "2026-10-25T00:39:38.076Z",
+ "prev_az": "[ثغا] الثاء والغين والحرف المعتلّ أصلٌ يدلُّ على الصَّوت (Thə, ğain və uzadılma hərfi səslənməyə dəlalət edən bir əsasdır). Əs-süğa (الثُّغَاء) qoyunun mələşməsidir. وَالثّاغية (Əs-səğiyə): qoyundur. Deyilir: ما له ثاغيةٌ ولا راغيةٌ (Onun nə səğiyəsi, nə də rağiyəsi vardır), yəni nə qoyunu, nə də dəvəsi vardır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الحرف المعتل» mənası dəqiq verilməyib.",
+  "«ما له ثاغية ولا راغية» məsəlinin birinci hissəsi tərcümə edilmədən transliterasiya olunub."
+ ],
+ "review_ts": "2026-11-15T16:55:14.164Z"
 }

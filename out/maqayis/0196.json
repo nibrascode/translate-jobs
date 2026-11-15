@@ -11,9 +11,18 @@
   "page_to": 206
  },
  "ar": "الباء والخاء والسين أصلٌ واحد، وهو النَّقْصُ. قال اللّه تعالى: ﴿وَشَرَوْهُ بِثَمَنٍ بَخْسٍ﴾ أى نَقْص. ومن هذا الباب قولهم فى المُخِّ: بَخَّسَ\nتَبخيساً، إذا صار فى السُّلامى والعَين، وذلك حين نُقصانه وذهابه من سائر البدن.\nوقال شاعر (١):\nلا يَشْتَكِين عَمَلاً ما أنْقَيْن … ما دام مُخٌّ فى سُلامَى أَوْ عَيْنْ",
- "az": "«بخس» (bəx.s). Ba, xə və sin hərfləri əskilmə mənasını verən tək bir əsas kökdür. Uca Allah buyurmuşdur: ﴿وَشَرَوْهُ بِثَمَنٍ بَخْسٍ﴾ (mənaca tərcümə: Onu ucuz qiymətə – əskik qiymətə satdılar). Həmçinin sümük iliyi haqqında işlətdikləri bu söz də bundandır: «بَخَّسَ تَبخيساً» (bəxxəsə təbxisan) – bu, ilik oynaqda və gözdə azaldığı, bütün bədəndən çəkilib getdiyi zaman baş verir. Bir şair (١) demişdir: * Lə yəştəkinə ‘amələn ma ənqəyn … ma damə muxxun fi sülamin əv ‘əyn * (Əlləri təmiz olduğu müddətcə heç bir işdən şikayətlənməzlər … o vaxta qədər ki, sümükdə və ya gözdə ilik qalıb).",
+ "az": "[بخس]\nBa, xa və sin hərfləri əskilmə mənasını verən tək bir əsas kökdür. Uca Allah buyurmuşdur: ﴿وَشَرَوْهُ بِثَمَنٍ بَخْسٍ﴾ (mənaca tərcümə: Onu dəyərsiz bir qiymətə satdılar), yəni əskik qiymətə. Sümük iliyi haqqında işlətdikləri bu söz də bu babdandır: بَخَّسَ تَبخيساً (azaldı, çəkildi) – bu, iliyin barmaq və ya ayaq sümüklərində (sülama) və gözdə qalması, yəni bütün bədəndən azalıb getdiyi zaman baş verir.\nBir şair (١) demişdir:\nلا يَشْتَكِين عَمَلاً ما أنْقَيْن … ما دام مُخٌّ فى سُلامَى أَوْ عَيْنْ (Sümüklərində ilik olduğu müddətcə işdən şikayətlənməzlər … sülama sümüyündə və ya gözdə ilik qaldığı vaxtadək).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:27:05.781Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«بخس» (bəx.s). Ba, xə və sin hərfləri əskilmə mənasını verən tək bir əsas kökdür. Uca Allah buyurmuşdur: ﴿وَشَرَوْهُ بِثَمَنٍ بَخْسٍ﴾ (mənaca tərcümə: Onu ucuz qiymətə – əskik qiymətə satdılar). Həmçinin sümük iliyi haqqında işlətdikləri bu söz də bundandır: «بَخَّسَ تَبخيساً» (bəxxəsə təbxisan) – bu, ilik oynaqda və gözdə azaldığı, bütün bədəndən çəkilib getdiyi zaman baş verir. Bir şair (١) demişdir: * Lə yəştəkinə ‘amələn ma ənqəyn … ma damə muxxun fi sülamin əv ‘əyn * (Əlləri təmiz olduğu müddətcə heç bir işdən şikayətlənməzlər … o vaxta qədər ki, sümükdə və ya gözdə ilik qalıb).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəb mətni silinib, əvəzində transkripsiya verilib.",
+  "Şeir beytindəki «ما أنقين» (ilikli olduğu müddətcə) ifadəsi səhvən «Əlləri təmiz olduğu müddətcə» kimi tərcümə edilib."
+ ],
+ "review_ts": "2026-11-15T15:44:26.702Z"
 }

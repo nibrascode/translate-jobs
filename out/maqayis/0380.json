@@ -13,5 +13,10 @@
  "ar": "(بَلأصَ) (١) غير أصلٍ، لأنّ الهمزة مبدلة [من هاء (٢)] والصَّاد مبدلَةٌ من سِين.",
  "az": "[بلأص] (Bə-lam-həmzə-sad) «بَلأصَ» (bələ’əsə) əsli olmayan bir sözdür, çünki həmzə «هاء» (ha) hərfindən, «صاد» (sad) isə «سين» (sin) hərfindən dəyişdirilmişdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.770Z"
+ "ts": "2026-10-25T00:37:20.770Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:26:40.187Z"
 }

@@ -13,5 +13,10 @@
  "ar": "ومن ذلك (بلذَمَ (٤)) إذا فَرِقَ فسَكَتَ. والباء زائدة، وإنَّما هو من لَذِمَ، إذا لَزِمَ بمكانه فَرِقاً لا يتحرَّك.",
  "az": "[بلذم] (Bə-lam-zal-mim) Buradan «بلذَمَ» (bəlzəmə) gəlir, yəni qorxub susdu. «ب» (bə) hərfi artıqdır, bu «لَذِمَ» (ləzimə) kəlməsindəndir, yəni qorxudan yerindən tərpənməyərək orada qaldı.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.770Z"
+ "ts": "2026-10-25T00:37:20.770Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:33:29.270Z"
 }

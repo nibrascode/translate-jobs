@@ -11,7 +11,17 @@
   "page_to": 343
  },
  "ar": "التاء والراء والسين كلمةٌ واحدة، وهى التُّرْسُ، وهو معروف، والجمع تِرَسَةٌ وتِراسٌ وَتُرُوس. قال:\nكأنَّ شَمْساً نَزَلَتْ شُمُوساً … دُروعَنا والبَيْضَ وَالتُّرُوسَا (٤)",
- "az": "«ترس» (t-r-س): Tə, ra və sin bir kəlmədir, o da التُّرْسُ (ətturs), məlum olan qalxandır, cəmi تِرَسَةٌ (tirəsətün), تِراسٌ (tirasun) və تُرُوسٌ (turusun) gəlir. Şair demişdir:\nكأنَّ شَمْساً نَزَلَتْ شُمُوساً … دُروعَنا والبَيْضَ وَالتُّرُوسَا (٤)\n(Sanki günəşlər enmiş günəşlər kimi... zirehlərimizi, dəbilqələrimizi və qalxanlarımızı vurub)",
+ "az": "[ترس]\nTa, ra və sin bir kəlmədir: التُّرْسُ (qalxan) məlumdur, cəmi تِرَسَةٌ, تِراسٌ və تُرُوس gəlir. Şair demişdir:\nكأنَّ شَمْساً نَزَلَتْ شُمُوساً … دُروعَنا والبَيْضَ وَالتُّرُوسَا (٤)\n(Sanki zirehlərimizə, dəbilqələrimizə və qalxanlarımıza bir günəş enmiş və günəşlər tək parıldamışdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.116Z"
+ "ts": "2026-10-25T00:37:44.116Z",
+ "prev_az": "«ترس» (t-r-س): Tə, ra və sin bir kəlmədir, o da التُّرْسُ (ətturs), məlum olan qalxandır, cəmi تِرَسَةٌ (tirəsətün), تِراسٌ (tirasun) və تُرُوسٌ (turusun) gəlir. Şair demişdir:\nكأنَّ شَمْساً نَزَلَتْ شُمُوساً … دُروعَنا والبَيْضَ وَالتُّرُوسَا (٤)\n(Sanki günəşlər enmiş günəşlər kimi... zirehlərimizi, dəbilqələrimizi və qalxanlarımızı vurub)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizəsində transkripsiya daxilinə ərəb hərfi (س) qarışmışdır.",
+  "Şeir beytinin tərcüməsi anlaşılmaz və qüsurludur."
+ ],
+ "review_ts": "2026-11-15T16:38:19.104Z"
 }

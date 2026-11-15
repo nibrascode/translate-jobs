@@ -11,9 +11,19 @@
   "page_to": 198
  },
  "ar": "الباء والجيم والراء أصلٌ واحد، وهو تعقّد الشَّئ وتجمُّعُه.\nيقال للرّجُل الذى تخرج سُرّته وتتجمَّع عندها العُروق: الأَبْجَرُ؛ وتلك البُجْرَة.\nوالعرب تقول: «أفْضَيْتُ إليه بِعُجَرى وبُجَرى» أى أطلعْتُه على أمرى كلِّه.\nومن هذا الباب البَجَارِىِ، وهى الدَّواهِى؛ لأنَّها أمورٌ متعقِّدة مشْتبهة؛ والواحد منها بُجْرِىُّ.",
- "az": "«بجر» (Bəcər)\nالباء والجيم والراء أصلٌ واحد، وهو تعقّد الشَّئ وتجمُّعُه. (Bə, cim və ra — bir şeyin düyünlənməsi və toplanması olan tək bir əsasdır.)\nيقال للرّجُل الذى تخرج سُرّته وتتجمَّع عندها العُروق: الأَبْجَرُ؛ وتلك البُجْرَة. (Göbəyi çölə çıxan və damarları ətrafında toplanan kişiyə əl-əbcər deyilir; həmin şey isə bucrədir.)\nوالعرب تقول: «أفْضَيْتُ إليه بِعُجَرى وبُجَرى» أى أطلعْتُه على أمرى كلِّه. (Və ərəblər deyirlər: «əfdeytü ileyhi bi ucuri və bucuri» — yəni bütün işlərimdən onu agah etdim.)\nومن هذا الباب البَجَارِىِ، وهى الدَّواهِى؛ لأنَّها أمورٌ متعقِّدة مشْتبهة؛ والواحد منها بُجْرِىُّ. (Və bu fəsildəndir əl-bəcari, onlar da bəlalardır; çünki onlar düyünlü və qaranlıq işlərdir; təki isə bucriyydir.)",
+ "az": "[بجر]\nBa, cim və ra tək bir əsasdır, o da bir şeyin düyünlənməsi və toplanmasıdır.\nGöbəyi çölə çıxan və ətrafında damarlar toplanan kişiyə الأَبْجَرُ (əl-əbcər) deyilir; həmin şeyə isə البُجْرَة (əl-bucrə) deyilir.\nƏrəblər deyirlər: «أفْضَيْتُ إليه بِعُجَرى وبُجَرى» (bütün gizli və aşkar işlərimi ona açdım), yəni bütün işimdən onu agah etdim.\nBu babdandır البَجَارِىِ (əl-bəcəri), onlar da bəlalardır; çünki onlar düyünlü və qarışıq işlərdir; təki isə بُجْرِىُّ (bucriyy)dir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:26:42.582Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«بجر» (Bəcər)\nالباء والجيم والراء أصلٌ واحد، وهو تعقّد الشَّئ وتجمُّعُه. (Bə, cim və ra — bir şeyin düyünlənməsi və toplanması olan tək bir əsasdır.)\nيقال للرّجُل الذى تخرج سُرّته وتتجمَّع عندها العُروق: الأَبْجَرُ؛ وتلك البُجْرَة. (Göbəyi çölə çıxan və damarları ətrafında toplanan kişiyə əl-əbcər deyilir; həmin şey isə bucrədir.)\nوالعرب تقول: «أفْضَيْتُ إليه بِعُجَرى وبُجَرى» أى أطلعْتُه على أمرى كلِّه. (Və ərəblər deyirlər: «əfdeytü ileyhi bi ucuri və bucuri» — yəni bütün işlərimdən onu agah etdim.)\nومن هذا الباب البَجَارِىِ، وهى الدَّواهِى؛ لأنَّها أمورٌ متعقِّدة مشْتبهة؛ والواحد منها بُجْرِىُّ. (Və bu fəsildəndir əl-bəcari, onlar da bəlalardır; çünki onlar düyünlü və qaranlıq işlərdir; təki isə bucriyydir.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[بجر]» formatında verilməyib.",
+  "«أفْضَيْتُ إليه بِعُجَرى وبُجَرى» atalar sözünün tərcüməsi verilməyib, yalnız səhv transkripsiya («ucuri və bucuri») yazılıb.",
+  "Bütün ərəbcə cümlələr bütövlükdə təkrarlanıb mötərizədə tərcümə edilib."
+ ],
+ "review_ts": "2026-11-15T15:43:16.261Z"
 }

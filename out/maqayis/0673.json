@@ -11,7 +11,17 @@
   "page_to": 471
  },
  "ar": "الجيم واللام والخاء ليس أصلاً، ولا فيه عربيّةٌ صحيحة (٢).\nفإن كان شئٌ فالخاء مبدلةٌ من حاءِ وقد مضى ذكره.",
- "az": "[جلخ] — Cəim, lam və xə - əsas deyil və orada səhih ərəb sözü yoxdur (٢). Əgər hər hansı bir söz varsa, xə hərfi hə hərfinin əvəzinə işlənmişdir, bu barədə artıq zikr olunmuşdur.",
+ "az": "[جلخ] — Cim, lam və xə bir əsas kök deyildir və bu haqda səhih ərəbcə bir şey yoxdur (٢). Əgər bir şey varsa da, xə hərfi ha (ح) hərfindən bədəldir (dəyişdirilmişdir); bunun zikri keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:48:30.556Z"
+ "ts": "2026-10-25T00:48:30.556Z",
+ "prev_az": "[جلخ] — Cəim, lam və xə - əsas deyil və orada səhih ərəb sözü yoxdur (٢). Əgər hər hansı bir söz varsa, xə hərfi hə hərfinin əvəzinə işlənmişdir, bu barədə artıq zikr olunmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Cəim» hərfi adı səhvdir, «Cim» olmalıdır.",
+  "«ح» (ha) hərfi «hə» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T17:05:22.416Z"
 }

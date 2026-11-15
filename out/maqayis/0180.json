@@ -14,6 +14,10 @@
  "az": "«بثع» (Bəsə')\nالباء والثاء والعين كلمةٌ واحدة تدلُّ على مثل الأصل الذى قبلها. (Bə, sə və ayn — özündən əvvəlki əslə bənzər bir mənanı bildirən tək sözdür.)\nيقال شفة باثعة، أى ممتلئة (Deyilir: basiə dodaq — yəni dolğun dodaq.)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:26:42.582Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T15:42:19.754Z"
 }

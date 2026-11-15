@@ -11,7 +11,18 @@
   "page_to": 342
  },
  "ar": "التاء والخاء والميم كلمةٌ واحدة لا تتفرَّع. التُّخوم: أعلامُ الأرضِ وحُدودُها. و\nفى الحديث: «ملْعونٌ مَنْ غَيَّرَ تُخُوم الأرض». قال قوم:\nأرادَ حُدودَ الحَرَم. وقال آخرون: هو أن يدخُلَ الرّجلُ فى حُدود غَيرهِ فيجُوزَها (٢) ظُلْماً. قال:\nيا بَنِىَّ التُّخُومَ لا تَظْلِمُوها … إنّ ظُلْمَ التُّخُوم ذُو عُقّالِ (٣)\nوأمَّا التُّخْمَة ففى بابها من كتاب الواو.",
- "az": "«تخم» (t-x-m): Tə, xa və mim şaxələnməyən bir kəlmədir. التُّخوم (əttuxum): yerin əlamətləri və sərhədləridir. Və hədisdə: «ملْعونٌ مَنْ غَيَّرَ تُخُوم الأرض» (Yerin sərhədlərini dəyişən şəxs lənətlənmişdir). Bir qrup insan demişdir: Hərəmin sərhədlərini qəsd etmişdir. Başqaları isə demişdir: İnsanın başqasının sərhədlərinə haqsızlıqla daxil olmasıdır. O demişdir:\nيا بَنِىَّ التُّخُومَ لا تَظْلِمُوها … إنّ ظُلْمَ التُّخُوم ذُو عُقّالِ (٣)\n(Ey sərhədlərin oğulları, onlara zülm etməyin... Həqiqətən sərhədlərə zülm etməyin cəzası vardır)\nAmmə التُّخْمَة (əttuxmə) isə vav kitabındakı öz babındadır.",
+ "az": "[تخم]\nTa, xa və mim şaxələnməyən bir kəlmədir. التُّخوم: yerin əlamətləri və sərhədləridir.\nHədisdə buyurulur: «ملْعونٌ مَنْ غَيَّرَ تُخُوم الأرض» («Yerin sərhədlərini dəyişən lənətlənmişdir»). Bir qrup demişdir: Hərəmin sərhədlərini qəsd etmişdir. Başqaları isə demişdir: Bu, kişinin başqasının sərhədlərinə girib zülmlə onu aşmasıdır (٢). Şair demişdir:\nيا بَنِىَّ التُّخُومَ لا تَظْلِمُوها … إنّ ظُلْمَ التُّخُوم ذُو عُقّالِ (٣)\n(Ey oğullarım, sərhədlərə zülm etməyin (onları pozmayın), həqiqətən sərhədlərə zülm etməyin cəzalandırıcı maneəsi vardır).\nالتُّخْمَة kəlməsinə gəlincə, o, «vav» kitabındakı öz babındadır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.116Z"
+ "ts": "2026-10-25T00:37:44.116Z",
+ "prev_az": "«تخم» (t-x-m): Tə, xa və mim şaxələnməyən bir kəlmədir. التُّخوم (əttuxum): yerin əlamətləri və sərhədləridir. Və hədisdə: «ملْعونٌ مَنْ غَيَّرَ تُخُوم الأرض» (Yerin sərhədlərini dəyişən şəxs lənətlənmişdir). Bir qrup insan demişdir: Hərəmin sərhədlərini qəsd etmişdir. Başqaları isə demişdir: İnsanın başqasının sərhədlərinə haqsızlıqla daxil olmasıdır. O demişdir:\nيا بَنِىَّ التُّخُومَ لا تَظْلِمُوها … إنّ ظُلْمَ التُّخُوم ذُو عُقّالِ (٣)\n(Ey sərhədlərin oğulları, onlara zülm etməyin... Həqiqətən sərhədlərə zülm etməyin cəzası vardır)\nAmmə التُّخْمَة (əttuxmə) isə vav kitabındakı öz babındadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizəsi standart qaydaya uyğun deyil.",
+  "«فيجُوزَها (٢) ظُلْماً» cümləsindəki (٢) haşiyəsi və mənası («onu zülmlə aşmasıdır») buraxılmışdır.",
+  "Şeir beytindəki «يا بَنِىَّ التُّخُومَ لا تَظْلِمُوها» ifadəsi «Ey sərhədlərin oğulları» kimi kobud səhvlə tərcümə olunmuşdur («Ey oğullarım, sərhədləri pozmayın» olmalıdır)."
+ ],
+ "review_ts": "2026-11-15T16:38:19.102Z"
 }

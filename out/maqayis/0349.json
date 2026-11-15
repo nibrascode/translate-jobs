@@ -11,7 +11,17 @@
   "page_to": 320
  },
  "ar": "الباء والواو والقاف ليس باصل معوَّلٍ عليه، ولا فيه عندى كلمةٌ صحيحةٌ. وقد ذكروا أنَّ البُوقَ الكذِب والباطِل. وذَكَرُوا بيتاً لحسَّان:\nإلاّ الذى نَطَقُوا بُوقاً ولم يَكُنِ (٣) *\nوهذا إنْ صَحَّ فكأنَّه حكايةُ صوت.\nفأمّا قولهم: باقَتْهُمْ بائِقَةٌ وهى الدّاهِيَة تَنزلُ، فليست أصلاً، وأُرَاها مبدلةً من جيم. والبائجة كالفَتْقِ والخَلَلِ (٤). وقد ذكر فيما مضى (٥).",
- "az": "[بوق] Ba, vav və qaf etibar ediləsi bir əsas kök deyildir və məncə, onda heç bir səhih söz də yoxdur. Zikr etmişlər ki, البُوق (əl-buq) – yalan və batildir. Həssanın bir beytini də zikr etmişlər: * Lakin onların yalan olaraq danışdıqları şey ki, o yox idi (3) * Əgər bu səhihdirsə, o zaman bu, səsin təqlididir (təqlidi-səvt). Onların باقَتْهُمْ بائِقَةٌ (baqt-hum baiqətün) sözünə gəldikdə, bu, nazil olan bəladır; bu, əsas kök deyil, mənə görə cim hərfinin yerində işlənmiş əvəzləmədir. البائجة (əl-baiqə) isə yarıq və çat kimi bir şeydir (4). Bu barədə əvvəldə zikr olunmuşdur (5).",
+ "az": "[بوق]\nالباء والواو والقاف etibar ediləsi bir əsas kök deyildir və məncə, onda heç bir səhih söz də yoxdur. Zikr etmişlər ki, البُوق – yalan və batildir. حسَّان-ın bir beytini də zikr etmişlər:\nإلاّ الذى نَطَقُوا بُوقاً ولم يَكُنِ (٣) *\n(Yalnız yalan olaraq danışdıqları və əslində mövcud olmayan şey istisna olmaqla).\nƏgər bu səhihdirsə, sanki səsin təqlididir.\nOnların: باقَتْهُمْ بائِقَةٌ (onların başına bir fəlakət gəldi) sözünə gəldikdə isə – bu, nazil olan bəladır – əsas kök deyildir; mənə elə gəlir ki, o, cim hərfindən dəyişdirilmişdir (əvəzlənmişdir). والبائجة (əl-baicə) isə yarıq və çat kimidir (٤). Bu barədə əvvəldə bəhs edilmişdir (٥).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:35:05.794Z"
+ "ts": "2026-10-25T00:35:05.794Z",
+ "prev_az": "[بوق] Ba, vav və qaf etibar ediləsi bir əsas kök deyildir və məncə, onda heç bir səhih söz də yoxdur. Zikr etmişlər ki, البُوق (əl-buq) – yalan və batildir. Həssanın bir beytini də zikr etmişlər: * Lakin onların yalan olaraq danışdıqları şey ki, o yox idi (3) * Əgər bu səhihdirsə, o zaman bu, səsin təqlididir (təqlidi-səvt). Onların باقَتْهُمْ بائِقَةٌ (baqt-hum baiqətün) sözünə gəldikdə, bu, nazil olan bəladır; bu, əsas kök deyil, mənə görə cim hərfinin yerində işlənmiş əvəzləmədir. البائجة (əl-baiqə) isə yarıq və çat kimi bir şeydir (4). Bu barədə əvvəldə zikr olunmuşdur (5).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Həssanın şeir beytinin ərəbcə mətni buraxılmışdır.",
+  "«والبائجة» sözünün transkripsiyası «əl-baicə» əvəzinə səhvən «əl-baiqə» yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:12:03.271Z"
 }

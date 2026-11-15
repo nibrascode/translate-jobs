@@ -11,7 +11,18 @@
   "page_to": 365
  },
  "ar": "و (تِرْيَم) موضع، قال:\n* بتلاع تِرْيَمَ هامُهُمْ لَم تُقْبَرِ (١) *\nفأمَّا التَّرَبُوت من الإبل، وهو الذَّلول، فلو قال قائل إنّه من التاء والراء والباء، كأنّه يخضَع حتَّى يَلصَق بالتُّراب كان مذهباً\nو (اتْمَهَلَّ) إذا انتصَبَ.\nو (التَّألَب) من الشَّجر معروفٌ.\nو (التَّوأبَانِيّانِ): قادمتا الضَّرع. قال ابن مُقْبِل:\nفمرَّتْ على أظْرابِ هُرَّ عَشِيَّةً … لها تَوأبانِيَّانِ لم يَتَفَلْفَلا (٢)\nوممكن أن يكون التّاءِ زائدةً والأصل الوَأْب. والوأْب المقعَّب، وقد ذكر فى بابه. واللّه أعلَمُ بالصَّواب.\nتم كتاب التاء",
- "az": "«ترم»: و (تِرْيَم) bir yer adıdır, (şair) demişdir: *بتلاع تِرْيَمَ هامُهُمْ لَم تُقْبَرِ (١)* (Tiryəmin təpələrində onların kəllələri dəfn olunmadı). Amma dəvələrə aid edilən التَّرَبُوت — itaətkar və yavaş gedən deməkdir; əgər kimsə desə ki, bu söz (تاء)، (راء) və (باء) hərflərindən əmələ gəlmişdir, o, torpağa yapışana qədər başını aşağı dikən heyvana bənzədildiyi üçün, bu, bir məzhəb (fikir) ola bilər. Və (اتْمَهَلَّ) — dikəldi, ucaldı. Və ağac növü olan (التَّألَب) məlumdur. Və (التَّوأبَانِيّانِ) — döl yatağının ön hissələri (əmgəkləri). İbn Muqbil demişdir: فَمرَّتْ على أظْرابِ هُرَّ عَشِيَّةً … لها تَوأبانِيَّانِ لم يَتَفَلْفَلا (٢) (Axşam çağı Hur təpələrinin yanından keçdi... elə iki ön hissəsi var idi ki, hələ qabar bağlanmamışdı). Və ola bilər ki, (تاء) hərfi artırılmadır, əsli isə (وأب) kökmüşdür. Və (الوأْب) — bərk, möhkəm və çökək deməkdir, bu öz babında qeyd edilmişdir. Doğrusunu Allah bilir. Ta hərfinin kitabı başa çatdı.",
+ "az": "[ترم]\nو (تِرْيَم) bir yer adıdır, (şair) demişdir:\n* بتلاع تِرْيَمَ هامُهُمْ لَم تُقْبَرِ (١) *\n(Tiryəmin dərələrində onların kəllələri dəfn olunmadı).\nDəvələrə aid edilən التَّرَبُوت isə itaətkar (ram edilmiş) dəvədir; əgər bir kəs desə ki, bu söz تاء, راء və باء hərflərindəndir – sanki torpağa yapışana qədər boyun əyir – bu da bir fikir (məzhəb) ola bilər.\nو (اتْمَهَلَّ) dikəldikdə deyilir.\nو (التَّألَب) ağac növündən olub, məlumdur.\nو (التَّوأبَانِيّانِ) isə yelinin iki ön məməsidir. İbn Muqbil demişdir:\nفمرَّتْ على أظْرابِ هُرَّ عَشِيَّةً … لها تَوأبانِيَّانِ لم يَتَفَلْفَلا (٢)\n(Axşamçağı Hur təpəciklərinin yanından keçdi, onun hələ ucuna qara xal düşməmiş/qabar bağlamamış iki ön məməsi vardı).\nOla bilsin ki, تاء hərfi zayidədir və əsli الوَأْب kökündəndir. الوأْب isə dərin, çökək deməkdir və öz babında qeyd edilmişdir. Doğrusunu Allah daha yaxşı bilir.\n«Ta» kitabı tamamlandı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:16.272Z"
+ "ts": "2026-10-25T00:39:16.272Z",
+ "prev_az": "«ترم»: و (تِرْيَم) bir yer adıdır, (şair) demişdir: *بتلاع تِرْيَمَ هامُهُمْ لَم تُقْبَرِ (١)* (Tiryəmin təpələrində onların kəllələri dəfn olunmadı). Amma dəvələrə aid edilən التَّرَبُوت — itaətkar və yavaş gedən deməkdir; əgər kimsə desə ki, bu söz (تاء)، (راء) və (باء) hərflərindən əmələ gəlmişdir, o, torpağa yapışana qədər başını aşağı dikən heyvana bənzədildiyi üçün, bu, bir məzhəb (fikir) ola bilər. Və (اتْمَهَلَّ) — dikəldi, ucaldı. Və ağac növü olan (التَّألَب) məlumdur. Və (التَّوأبَانِيّانِ) — döl yatağının ön hissələri (əmgəkləri). İbn Muqbil demişdir: فَمرَّتْ على أظْرابِ هُرَّ عَشِيَّةً … لها تَوأبانِيَّانِ لم يَتَفَلْفَلا (٢) (Axşam çağı Hur təpələrinin yanından keçdi... elə iki ön hissəsi var idi ki, hələ qabar bağlanmamışdı). Və ola bilər ki, (تاء) hərfi artırılmadır, əsli isə (وأب) kökmüşdür. Və (الوأْب) — bərk, möhkəm və çökək deməkdir, bu öz babında qeyd edilmişdir. Doğrusunu Allah bilir. Ta hərfinin kitabı başa çatdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الضَّرع» sözü «döl yatağı» deyil, «yelin» deməkdir; «قادمتا الضَّرع» yelinin ön hissəsi (iki qabaq məməsi) deməkdir.",
+  "«بتلاع» sözü «təpələrində» deyil, «dərələrində/tila'larında» deməkdir.",
+  "Şeirdə ərəbcə mətndə olmayan hərəkə artırılmışdır («فَمرَّتْ» əvəzinə «فمرَّتْ» olmalıdır)."
+ ],
+ "review_ts": "2026-11-15T16:54:14.124Z"
 }

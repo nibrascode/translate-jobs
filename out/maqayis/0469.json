@@ -11,7 +11,19 @@
   "page_to": 358
  },
  "ar": "التاء والواو والراء ليس أصلا يعمل عليه (٢). أمّا الخليل فذكر فى بنائه ما ليس من أصله، وهو استَوْأرَتِ الوَحْش. وهذا مذكورٌ فى بابه (٣)\nوذكر ابن دريد كلمةً لو أعْرَضَ عنها كان أحسن. قال: التّوْر الرَّسول بين القوم، عربىٌّ صحيح. قال:\nوالتَّوْرُ فيما بيننا مُعْملُ … يَرضَى به المُرْسِل والمرسَلُ (١)\nويقال أنّ التارة أصلها واوٌ. وتفسير ذلك (٢)",
- "az": "[تور] (tə-və-r) - Tə, vav və ra üzərində dayanılacaq bir əsl deyil. Xəlilə gəldikdə isə, o, öz binasında öz əslindən olmayan bir şeyi qeyd etmişdir, o da vəhşi heyvanın hürkdüyü zaman səslənməsidir («استَوْأرَتِ الوَحْش»). Bu isə öz بابında (bölümündə) qeyd olunmuşdur (3). İbn Dürid isə əgər üzərindən keçsəydi daha yaxşı olacaq bir kəlmə qeyd etmişdir. O demişdir: Ət-tovr (التّوْر) — qövm arasında elçi (vasitəçi) deməkdir, səhih ərəb sözüdür. O demişdir: Və tovr bizim aramızda işləkdir... Elçinin də, elçilik edənin də razı qaldığı (1). Və deyilir ki, əl-tara (التارة) sözünün əsri vavdır. Bunun izahı (2)...",
+ "az": "[تور]\nTə, vav və ra əsas tutulacaq bir əsl deyildir (٢). Xəlilə gəldikdə isə, o, bunun quruluşunda əslindən olmayan bir şeyi zikr etmişdir; o da «استَوْأرَتِ الوَحْش» ifadəsidir. Bu isə öz babında zikr edilmişdir (٣).\nİbn Dureyd isə elə bir kəlmə zikr etmişdir ki, ondan üz çevirsəydi daha yaxşı olardı. O demişdir: «Ət-tovr» (التّوْر) qövm arasında elçidir, səhih ərəb sözüdür. Şair demişdir:\nوالتَّوْرُ فيما بيننا مُعْملُ … يَرضَى به المُرْسِل والمرسَلُ (١)\n(Və aramızda elçi işə salınmışdır, göndərən də, göndərilən də ondan razıdır).\nVə deyilir ki, «ət-tarə» (التارة) kəlməsinin əsli vavdır. Bunun izahı isə (٢)...",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:28.997Z"
+ "ts": "2026-10-25T00:38:28.997Z",
+ "prev_az": "[تور] (tə-və-r) - Tə, vav və ra üzərində dayanılacaq bir əsl deyil. Xəlilə gəldikdə isə, o, öz binasında öz əslindən olmayan bir şeyi qeyd etmişdir, o da vəhşi heyvanın hürkdüyü zaman səslənməsidir («استَوْأرَتِ الوَحْش»). Bu isə öz بابında (bölümündə) qeyd olunmuşdur (3). İbn Dürid isə əgər üzərindən keçsəydi daha yaxşı olacaq bir kəlmə qeyd etmişdir. O demişdir: Ət-tovr (التّوْر) — qövm arasında elçi (vasitəçi) deməkdir, səhih ərəb sözüdür. O demişdir: Və tovr bizim aramızda işləkdir... Elçinin də, elçilik edənin də razı qaldığı (1). Və deyilir ki, əl-tara (التارة) sözünün əsri vavdır. Bunun izahı (2)...",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Türkiyə türkcəsi sözü işlədilmişdir («bölümündə»).",
+  "Şeirin ərəbcə mətni buraxılmışdır.",
+  "İmlə xətası vardır («əsri» əvəzinə «əsli»).",
+  "İlk haşiyə rəqəmi (٢) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T16:49:31.808Z"
 }

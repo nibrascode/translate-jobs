@@ -13,5 +13,10 @@
  "ar": "الثاء والكاف والميم كلمةٌ واحدة، وهو مجتمع الشئ. يقال تنحّ عن ثُكَمِ الطريق (٤)، أى مُعْظَمِه وواضحه.",
  "az": "[ثكم] (Sə, kaf və mim) bir şeyin toplaşdığı yer demək olan tək bir kəlmədir. Deyilir: تنحّ عن ثُكَمِ الطريق (yolun mərkəzindən çəkil) (٤), yəni onun böyük və açıq hissəsindən.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:59.493Z"
+ "ts": "2026-10-25T00:39:59.493Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:55:25.144Z"
 }

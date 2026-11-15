@@ -13,5 +13,10 @@
  "ar": "ومن ذلك (البَرْجَمَةُ) غِلَظُ الكَلام: فالراء زائدةٌ، وإنَّما الأصل البَجْم.",
  "az": "[برجم] (Bə-ra-cim-mim) Buradan «البَرْجَمَةُ» (əl-bərcəmə) gəlir, yəni sözün kobudluğu. «ر» (ra) hərfi artıqdır, əsli «البَجْم» (əl-bəcm) kəlməsidir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.770Z"
+ "ts": "2026-10-25T00:37:20.770Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:33:29.269Z"
 }

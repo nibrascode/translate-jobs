@@ -13,5 +13,10 @@
  "ar": "التاء والفاء كَالذى قبله. على أنّهم (٤) يقولون: التُّفُّ وسَخُ الظُّفُر.",
  "az": "«تفف» (t-f-f): Tə və fa hərfləri əvvəlki kimidir. Bununla belə (٤) onlar التُّفُّ (əttuff): dırnağın kiridir, demişlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.115Z"
+ "ts": "2026-10-25T00:37:44.115Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T16:36:35.647Z"
 }

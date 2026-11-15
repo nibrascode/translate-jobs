@@ -11,7 +11,16 @@
   "page_to": 334
  },
  "ar": "ومن ذلك (بِرْقِعُ) اسم سَمَاءِ (١) الدُّنيا. فالباء زائدة والأصل الرَّاء والقاف والعين؛ لأنَّ كلَّ سماءِ رَقيعٌ، والسَّماواتُ أرقِعَةٌ.",
- "az": "[برقع] (Bə-ra-qaf-əyn) Buradan «بِرْقِعُ» (birqə’) gəlir, dünya səmasının adıdır. «ب» (bə) hərfi artıqdır, əsli «ر» (ra), «ق» (qaf) və «ع» (əyn) hərfləridir; çünki hər bir səma «رَقيع» (rəqi’ - yüksək, uca) deməkdir, səmalar isə «أرقِعَةٌ» (ərqi’ə - ucalıqlar) adlanır.",
+ "az": "[برقع] (Bə-ra-qaf-əyn) Buradan «بِرْقِعُ» (birqə’) gəlir, dünya səmasının adıdır. «ب» (bə) hərfi artıqdır, əsli «ر» (ra), «ق» (qaf) və «ع» (əyn) hərfləridir; çünki hər bir səma «رَقيع» (Raqi'), səmalar (sözünün cəmi) isə «أرقِعَةٌ» (ərqi’ə) adlanır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.770Z"
+ "ts": "2026-10-25T00:37:20.770Z",
+ "prev_az": "[برقع] (Bə-ra-qaf-əyn) Buradan «بِرْقِعُ» (birqə’) gəlir, dünya səmasının adıdır. «ب» (bə) hərfi artıqdır, əsli «ر» (ra), «ق» (qaf) və «ع» (əyn) hərfləridir; çünki hər bir səma «رَقيع» (rəqi’ - yüksək, uca) deməkdir, səmalar isə «أرقِعَةٌ» (ərqi’ə - ucalıqlar) adlanır.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«رَقيع» sözü sifət (yüksək, uca) kimi deyil, səmanın adı kimi işlənir, «أرقِعَةٌ» isə onun cəmidir."
+ ],
+ "review_ts": "2026-11-15T16:33:29.270Z"
 }

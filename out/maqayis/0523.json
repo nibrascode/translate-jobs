@@ -11,7 +11,17 @@
   "page_to": 378
  },
  "ar": "الثاء والغين والباء أصلٌ واحد، وهو غَدِيرٌ فى غِلَظ من أرض. يقال له ثَغْبٌ وَثَغَبٌ، وجمعه ثِغابٌ وأثغابٌ، ويقال ثُغبان.\nوقال عَبيد (١):\nولقد تحلُّ بها كأنَّ مُجاجَها … ثَغْبٌ يُصَفَّق صَفْوُه بمُدامِ",
- "az": "[ثغب] الثاء والغين والباء أصلٌ واحد (Thə, ğain və ba tək bir əsasdır), və o, sərt yerdə olan gölməçədir. Ona ثَغْبٌ وَثَغَبٌ (səhb və səb) deyilir, cəmi isə ثِغابٌ وَأثغابٌ (siqab və əsğab)-dır, həmçinin ثُغبان (sübən) də deyilir. Übeyd demişdir (١): ولقد تحلُّ بها كأنَّ مُجاجَها … ثَغْبٌ يُصَفَّق صَفْوُه بمُدامِ (Və sən ora enirsən, elə bil onun tüpürcəyi... şərabla saflaşdırılan bir səhmdir)",
+ "az": "[ثغب] الثاء (sa), الغين (ğayn) və الباء (ba) tək bir əsasdır: o, bərk yerlərdə olan gölməçədir. Ona ثَغْبٌ (sağb) və ثَغَبٌ (sağab) deyilir, cəmi isə ثِغَابٌ (siğab) və أَثْغَابٌ (əsğab)-dır, həmçinin ثُغْبَانٌ (suğban) da deyilir.\nUbeyd demişdir (١):\nولقد تحلُّ بها كأنَّ مُجاجَها … ثَغْبٌ يُصَفَّق صَفْوُه بمُدامِ\n(Sən orada düşərgə salırsan, sanki onun ağız suyu köhnə şərabla durulaşdırılmış sərin gölməçə suyudur).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.076Z"
+ "ts": "2026-10-25T00:39:38.076Z",
+ "prev_az": "[ثغب] الثاء والغين والباء أصلٌ واحد (Thə, ğain və ba tək bir əsasdır), və o, sərt yerdə olan gölməçədir. Ona ثَغْبٌ وَثَغَبٌ (səhb və səb) deyilir, cəmi isə ثِغابٌ وَأثغابٌ (siqab və əsğab)-dır, həmçinin ثُغبان (sübən) də deyilir. Übeyd demişdir (١): ولقد تحلُّ بها كأنَّ مُجاجَها … ثَغْبٌ يُصَفَّق صَفْوُه بمُدامِ (Və sən ora enirsən, elə bil onun tüpürcəyi... şərabla saflaşdırılan bir səhmdir)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ثَغْبٌ» sözünün transkripsiyasında hərf səhvi («səhb») edilmişdir.",
+  "Şeir beytində «ثَغْبٌ» sözü «səhm» kimi yanlış tərcümə olunmuşdur."
+ ],
+ "review_ts": "2026-11-15T16:55:14.164Z"
 }

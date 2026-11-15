@@ -11,7 +11,16 @@
   "page_to": 447
  },
  "ar": "الجيم والراء والنون أصلٌ واحد، يدلُّ على اللين والسُّهولة يقال للبَيْدَرِ جَرينٌ؛ لأنّه مكان قد أُصْلِحَ ومُلِّسَ. والجارن من الثياب: الذى انسَحَق ولَانَ. وجَرَنَتِ الدِّرْعُ: لانَتْ وامْلَاسَّتْ. ومن الباب جِرَانُ البعير:\nمُقَدَّم عُنُقه من مَذْبَحِهِ، والجمع جُرْن (١). قال:\nخُذا حَذَراً يا جارَتَىَّ فإنَّنى … رأيتُ جِرَانَ العَوْدِ قد كادَ يَصْلُحُ (٢)\nوذكرَ ناسٌ أنّ الجارنَ ولد الحيّة. فإن كان صحيحاً فهو من الباب، لأنه ليِّن المسِّ أملس.",
- "az": "[جرن] الجيم والراء والنون أصلٌ واحدٌ، يدلُّ على اللين والسُّهولة (jim, ra və nun hərfləri yumşaqlığa və asanlığa dəlalət edən tək bir əsasdır). يقالللبَيْدَرِ جَرينٌ (Xırmana carin deyilir); لأنّه مكان قد أُصْلِحَ ومُلِّسَ (çünki o, düzəldilmiş və hamarlanmış yerdir). والجارن من الثياب (Və paltarlardan əl-carin): الذى انسَحَق ولَانَ (köhnəlmiş və yumşalmışdır). وجَرَنَتِ الدِّرْعُ (Və zireh carin oldu): لانَتْ وامْلَاسَّتْ (yumşaldı və hamarlaşdı). ومن الباب جِرَانُ البعير (Və bu fəsildəndir dəvənin ciranı): مُقَدَّم عُنُقه من مَذْبَحِهِ (boğazından kəsilən yerindən etibarən boynunun ön hissəsidir), والجمع جُرْن (١) (və cəmi curnur). قال (Demişdir):\nخُذا حَذَراً يا جارَتَىَّ فإنَّنى … رأيتُ جِرَانَ العَوْدِ قد كادَ يَصْلُحُ (٢)\nوذكرَ ناسٌ (Və bəzi insanlar qeyd etmişlər) أنّ الجارنَ ولد الحيّة (ki, carin ilan balasıdır). فإن كان صحيحاً فهو من الباب (Əgər bu doğru olsa, o zaman bu, həmin fasildəndir), لأنه ليِّن المسِّ أملس (çünki o, toxunuşu yumşaq və hamardır).",
+ "az": "[جرن] «[جرن]» - jim, ra və nun hərfləri yumşaqlığa və hamarlığa (asanlığa) dəlalət edən tək bir əsasdır. Xırmana cərin (جَرين) deyilir; çünki o, düzəldilmiş və hamarlanmış yerdir. Geyimlərdən əl-carin (الجارن) – köhnəlib sürtülmüş və yumşalmış geyimdir. «جَرَنَتِ الدِّرْعُ» (zireh yumşaldı və hamarlaşdı) deyilir. Dəvənin ciranı (جِرَان البعير – kəsilən yerindən boynunun ön hissəsi) da bu qəbildəndir, cəmi curun (جُرْن) gəlir. Şair demişdir: خُذا حَذَراً يا جارَتَىَّ فإنَّنى … رأيتُ جِرَانَ العَوْدِ قد كادَ يَصْلُحُ (٢) (Ey iki qonşu qadınım, ehtiyatlı olun, çünki mən qoca dəvənin ciranının (boynunun) az qala yerinə oturduğunu (düzəldiyini) gördüm). Bəzi adamlar qeyd etmişlər ki, əl-carin (الجارن) ilan balasıdır. Əgər bu doğru olsa, o da bu əsasdandır; çünki onun toxunuşu yumşaq və hamardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:47.481Z"
+ "ts": "2026-10-25T00:45:47.481Z",
+ "prev_az": "[جرن] الجيم والراء والنون أصلٌ واحدٌ، يدلُّ على اللين والسُّهولة (jim, ra və nun hərfləri yumşaqlığa və asanlığa dəlalət edən tək bir əsasdır). يقالللبَيْدَرِ جَرينٌ (Xırmana carin deyilir); لأنّه مكان قد أُصْلِحَ ومُلِّسَ (çünki o, düzəldilmiş və hamarlanmış yerdir). والجارن من الثياب (Və paltarlardan əl-carin): الذى انسَحَق ولَانَ (köhnəlmiş və yumşalmışdır). وجَرَنَتِ الدِّرْعُ (Və zireh carin oldu): لانَتْ وامْلَاسَّتْ (yumşaldı və hamarlaşdı). ومن الباب جِرَانُ البعير (Və bu fəsildəndir dəvənin ciranı): مُقَدَّم عُنُقه من مَذْبَحِهِ (boğazından kəsilən yerindən etibarən boynunun ön hissəsidir), والجمع جُرْن (١) (və cəmi curnur). قال (Demişdir):\nخُذا حَذَراً يا جارَتَىَّ فإنَّنى … رأيتُ جِرَانَ العَوْدِ قد كادَ يَصْلُحُ (٢)\nوذكرَ ناسٌ (Və bəzi insanlar qeyd etmişlər) أنّ الجارنَ ولد الحيّة (ki, carin ilan balasıdır). فإن كان صحيحاً فهو من الباب (Əgər bu doğru olsa, o zaman bu, həmin fasildəndir), لأنه ليِّن المسِّ أملس (çünki o, toxunuşu yumşaq və hamardır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin tərcüməsi verilməyib."
+ ],
+ "review_ts": "2026-11-15T17:01:46.564Z"
 }

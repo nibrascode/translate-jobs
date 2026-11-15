@@ -11,7 +11,18 @@
   "page_to": 269
  },
  "ar": "الباء والعين والراء أصلان: الجمال، والبَعَرْ. يقال بعير وأبعِرةٌ وأباعِرُ وبُعْرَانٌ. قال بعضُ اللصوص (١):\nوإنِّى لأسْتَحْيى مِنَ اللّه أَنْ أُرَى … أُجَرِّرُ حَبْلاً ليس فيه بَعِيرٌ\nوأن أسألَ المرءَ اللَّئِيمَ بَعِيرَهُ … وبُعْرَانُ رَبِّى فى البلادِ كثيرُ (٢)\nوالبَعَر معروف.",
- "az": "[بعر] الباء، العين və الراء — iki əsas kökə malikdir: gözəllik və dəvə peini (البَعَرْ). Deyilir: «بعير» (dəvə), «أبْعِرةٌ», «أباعِرُ» və «بُعْرَانٌ». Oğrulardan biri demişdir (١): Həqiqətən, mən Allahdan həya edirəm ki, içində dəvə olmayan bir ipi sürüyərkən görünüm; Və ləim bir adamdan onun dəvəsini istəyim, halbuki Rəbrimin dəvələri ölkədə çoxdur (٢). «البَعَر» isə məlumdur.",
+ "az": "[بعر] الباء، العين və الراء — iki əsas kökə malikdir: dəvələr (الجمال) və dəvə peyini (البَعَرْ). Deyilir: «بعير» (dəvə), «أبعِرةٌ», «أباعِرُ» və «بُعْرَانٌ». Oğrulardan biri demişdir (١): «وإنِّى لأسْتَحْيى مِنَ اللّه أَنْ أُرَى … أُجَرِّرُ حَبْلاً ليس فيه بَعِيرٌ * وأن أسألَ المرءَ اللَّئِيمَ بَعِيرَهُ … وبُعْرَانُ رَبِّى فى البلادِ كثيرُ» (Həqiqətən, mən Allahdan həya edirəm ki, ucunda dəvə olmayan bir ipi sürüyərkən görünüm və alçaq bir adamdan onun dəvəsini istəyim, halbuki Rəbbimin dəvələri ölkədə çoxdur) (٢).\n«البَعَر» isə məlumdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:31:47.354Z"
+ "ts": "2026-10-25T00:31:47.354Z",
+ "prev_az": "[بعر] الباء، العين və الراء — iki əsas kökə malikdir: gözəllik və dəvə peini (البَعَرْ). Deyilir: «بعير» (dəvə), «أبْعِرةٌ», «أباعِرُ» və «بُعْرَانٌ». Oğrulardan biri demişdir (١): Həqiqətən, mən Allahdan həya edirəm ki, içində dəvə olmayan bir ipi sürüyərkən görünüm; Və ləim bir adamdan onun dəvəsini istəyim, halbuki Rəbrimin dəvələri ölkədə çoxdur (٢). «البَعَر» isə məlumdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الجمال» sözü «dəvələr» əvəzinə səhvən «gözəllik» kimi tərcümə edilmişdir.",
+  "Şeir beytlərinin ərəbcə mətni buraxılmışdır.",
+  "«peini» (peyini) və «Rəbrimin» (Rəbbimin) kimi orfoqrafik xətalar var."
+ ],
+ "review_ts": "2026-11-15T15:52:57.329Z"
 }

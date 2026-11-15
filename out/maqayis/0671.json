@@ -11,7 +11,17 @@
   "page_to": 470
  },
  "ar": "الجيم واللام والجيم ليس أصلاً؛ لأنَّ فيه كلمتين. قال ابن دريد: الجَلَج شبيه بالقَلَق (٣). فإنْ كان صحيحاً فالجيم مبدلةٌ من القاف. والكلمة الأخرى الجَلَجَة الرأس؛ يقال على كلِّ جَلَجةٍ فى القِسْمة كذا. وهذا ليس بشئٍ، ولعله بعض ما يعرَّب من لغةٍ غير عربيَّة.",
- "az": "[جلج] — Cəim, lam və cəim əsas deyil; çünki burada iki kəlmə vardır. İbn Dürid demişdir: «الجَلَق» - «القَلَق» (narahatlıq) kimidir. Əgər bu səhihdirsə, deməli, cəim hərfi qaf hərfinin əvəzinə işlənmişdir. Digər kəlmə isə «الجَلَجَة» (baş) sözüdür; deyilir ki: bölgüdə hər «جَلَجَة» (baş/pay) üçün filan qədərdir. Bu isə heç bir şey deyil, bəlkə də ərəb dilindən başqa bir dildən alınma sözlərdəndir.",
+ "az": "[جلج] (cim, lam və cim) əsas kök deyildir; çünki burada iki kəlmə vardır. İbn Dürid demişdir: «الجَلَج» — «القَلَق» (narahatlıq) kimidir. Əgər bu səhihdirsə, deməli, cim hərfi qaf hərfinin əvəzinə işlənmişdir. Digər kəlmə isə «الجَلَجَة» (baş) sözüdür; deyilir ki: bölgüdə hər «جَلَجَة» (baş) üçün filan qədərdir. Bu isə bir şey deyildir, bəlkə də ərəb dilindən başqa bir dildən alınma sözlərdəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:48:30.556Z"
+ "ts": "2026-10-25T00:48:30.556Z",
+ "prev_az": "[جلج] — Cəim, lam və cəim əsas deyil; çünki burada iki kəlmə vardır. İbn Dürid demişdir: «الجَلَق» - «القَلَق» (narahatlıq) kimidir. Əgər bu səhihdirsə, deməli, cəim hərfi qaf hərfinin əvəzinə işlənmişdir. Digər kəlmə isə «الجَلَجَة» (baş) sözüdür; deyilir ki: bölgüdə hər «جَلَجَة» (baş/pay) üçün filan qədərdir. Bu isə heç bir şey deyil, bəlkə də ərəb dilindən başqa bir dildən alınma sözlərdəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı səhv verilmişdir («Cəim» əvəzinə «cim» olmalıdır).",
+  "Ərəbcə sözün yazılışı dəyişdirilmişdir («الجَلَج» əvəzinə «الجَلَق» yazılmışdır)."
+ ],
+ "review_ts": "2026-11-15T17:03:51.023Z"
 }

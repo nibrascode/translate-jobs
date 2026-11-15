@@ -11,7 +11,17 @@
   "page_to": 438
  },
  "ar": "الجيم والذال والفاء كلمةٌ واحدة تدلُّ على الإسراع والقَطْع، يقال جَذَفْتُ الشئَ قطعتُه. قال الأعشى:\nقاعداً عندَه النَّدامى فما بَنْ … فَكُّ يؤتَى بمُوكَرٍ مَجْذُوفِ (١)\nويقال هو بالدَّال ويقال جَذَف الرّجُلُ أسرَعَ. قال ابن دريد: جَذَف الطائر إذا أسرَعَ * تحريكَ حناحَيْه. وأكثر ما يكون ذلك أن يقَصَّ أحدُ جناحيه.\nومنه اشتقاق مِجْداف السفينة. قال: وهو عربىٌّ معروف. قال:\nتكاد إن حُرِّك مجذافُها … تنْسَلُّ مِنْ مَثْناتِها وَاليَدِ (٢)\nيعنى الناقةَ. جعل السَّوط كالمجذاف لها، وهو بالذال والدال لغتان فصيحتان.",
- "az": "[جذف] (Cim, ذal və fə): Tələsməyə və kəsməyə dəlalət edən tək bir kəlmədir. Deyilir: «جَذَفْتُ الشئَ» (şeyi kəsdim). Əşə basqara demişdir: «Oturmuşdur yanında nədimlər, heç vaxt kəsilmir ki, gətirilməsin yuvalı kəsilmiş quş (١)» Deyilir ki, bu, «د» (dal) hərfi ilə də gəlir, həmçinin «جذَف الرّجُلُ» (kişi tələsdi) deyilir. İbn Dürid demişdir: «جَذَف الطائر» (quş qanadlarını çalmaqda tələsdi) – bu daha çox qanadlarından birinin qırılması zamanı olur. Gəmi «مِجْداف» (kürək) sözünün kökü də buradan götürülmüşdür. O demişdir: Bu, məşhur ərəb sözüdür. O demişdir: «Az qalır, əgər hərəkət etdirilsə onun kürəyi... sıyrılıb çıxsın oynaqlarından və əldən (2)». Dəvəni nəzərdə tutur. Qırmчını onun üçün kürək kimi etmişdir. Bu söz «ذ» (ذal) və «د» (dal) ilə iki fəsahətli lüğəvi formalıdır.",
+ "az": "[جذف]\nالجيم والذال والفاء كلمةٌ واحدة تدلُّ على الإسراع والقَطْع، يقال جَذَفْتُ الشئَ قطعتُه. قال الأعشى:\n(Cim, zal və fa tək bir kəlmədir, tələsməyə və kəsməyə dəlalət edir. Deyilir: «جَذَفْتُ الشئَ» (şeyi kəsdim). Əl-Əşa demişdir):\nقاعداً عندَه النَّدامى فما بَنْ … فَكُّ يؤتَى بمُوكَرٍ مَجْذُوفِ (١)\n(Onun yanında həmdəmlər oturmuşdur, kəsilmiş bardaq gətirilməkdən ara kəsilməz (١)).\nويقال هو بالدَّال ويقال جَذَف الرّجُلُ أسرَعَ. قال ابن دريد: جَذَف الطائر إذا أسرَعَ تحريكَ حناحَيْه. وأكثر ما يكون ذلك أن يقَصَّ أحدُ جناحيه.\n(Deyilir ki, o dal hərfi ilə də gəlir. Həmçinin «جَذَف الرّجُلُ» (kişi tələsdi) deyilir. İbn Durayd demişdir: «جَذَف الطائر» – quş qanadlarını sürətlə hərəkət etdirdikdə deyilir. Bu, daha çox qanadlarından biri kəsildikdə olur).\nومنه اشتقاق مِجْداف السفينة. قال: وهو عربىٌّ معروف. قال:\n(Gəminin «مِجْداف» (kürək) sözü də buradandır. O demişdir: Bu, məşhur ərəb sözüdür. Şair demişdir):\nتكاد إن حُرِّك مجذافُها … تنْسَلُّ مِنْ مَثْناتِها وَاليَدِ (٢)\n(Kürəyi hərəkət etdirildikdə az qalır ki, oynaqlarından və əlindən sıyrılıb çıxsın (٢)).\nيعنى الناقةَ. جعل السَّوط كالمجذاف لها، وهو بالذال والدال لغتان فصيحتان.\n(Dəvəni nəzərdə tutur. Qamçını onun üçün kürək kimi etmişdir. Bu söz zal və dal hərfləri ilə iki fəsahətli lüğətdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:27.643Z"
+ "ts": "2026-10-25T00:45:27.643Z",
+ "prev_az": "[جذف] (Cim, ذal və fə): Tələsməyə və kəsməyə dəlalət edən tək bir kəlmədir. Deyilir: «جَذَفْتُ الشئَ» (şeyi kəsdim). Əşə basqara demişdir: «Oturmuşdur yanında nədimlər, heç vaxt kəsilmir ki, gətirilməsin yuvalı kəsilmiş quş (١)» Deyilir ki, bu, «د» (dal) hərfi ilə də gəlir, həmçinin «جذَف الرّجُلُ» (kişi tələsdi) deyilir. İbn Dürid demişdir: «جَذَف الطائر» (quş qanadlarını çalmaqda tələsdi) – bu daha çox qanadlarından birinin qırılması zamanı olur. Gəmi «مِجْداف» (kürək) sözünün kökü də buradan götürülmüşdür. O demişdir: Bu, məşhur ərəb sözüdür. O demişdir: «Az qalır, əgər hərəkət etdirilsə onun kürəyi... sıyrılıb çıxsın oynaqlarından və əldən (2)». Dəvəni nəzərdə tutur. Qırmчını onun üçün kürək kimi etmişdir. Bu söz «ذ» (ذal) və «د» (dal) ilə iki fəsahətli lüğəvi formalıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin sətirbəsətir strukturu pozulmuşdur.",
+  "Ərəb hərfinin adı «ذal» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T17:01:01.192Z"
 }

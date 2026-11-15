@@ -11,7 +11,17 @@
   "page_to": 377
  },
  "ar": "الثاء والعين والطاء كلمةٌ صحيحة. يقال ثَعِطَ اللَّحمُ إذا تغيَّرَ وأنْتَنَ. وقال:\n* يأكل لحماً بائِتاً قد ثَعِطا (٣) *\nومما حُمِل عليه الثَّعِيطُ دُقاقُ التّرابِ الذى تسفِيه الرِّيح.",
- "az": "[ثعط] الثاء والعين والطاء كلمةٌ صحيحة (Thə, ayn və ta səhih kəlmədir). Deyilir: ثَعِطَ اللَّحمُ (Ət səitə etdi) dəyişdiyi və üfunət iy verdiyi zaman. Və demişdir: * يأكل لحماً بائِتاً قد ثَعِطا * (Bayat, artıq səitə etmiş ət yeyir) (٣). Buna həml edilənlərdən biri də küləyin sovurduğu xırda torpaq olan الثَّعِيط (əs-səit)-dir.",
+ "az": "[ثعط] الثاء (sa), العين (ayn) və الطاء (ta) səhih bir kəlmədir. Deyilir: ثَعِطَ اللَّحمُ (ət xarab oldu), ət dəyişdiyi və iyləndiyi zaman. Və [şair] demişdir:\n* يأكل لحماً بائِتاً قد ثَعِطا (٣) *\n(O, artıq iylənmiş bayat ət yeyir).\nBuna həml edilənlərdən biri də الثَّعِيط (küləyin sovurduğu xırda toz/torpaq)-dır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:39:38.076Z"
+ "ts": "2026-10-25T00:39:38.076Z",
+ "prev_az": "[ثعط] الثاء والعين والطاء كلمةٌ صحيحة (Thə, ayn və ta səhih kəlmədir). Deyilir: ثَعِطَ اللَّحمُ (Ət səitə etdi) dəyişdiyi və üfunət iy verdiyi zaman. Və demişdir: * يأكل لحماً بائِتاً قد ثَعِطا * (Bayat, artıq səitə etmiş ət yeyir) (٣). Buna həml edilənlərdən biri də küləyin sovurduğu xırda torpaq olan الثَّعِيط (əs-səit)-dir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«səitə etdi» tərcümə olunmamış transliterasiyadır.",
+  "Şeir beytinin tərcüməsində yarımçıq və tərcümə olunmamış söz qalmışdır."
+ ],
+ "review_ts": "2026-11-15T16:55:14.163Z"
 }

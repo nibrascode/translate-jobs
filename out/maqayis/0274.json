@@ -11,7 +11,16 @@
   "page_to": 266
  },
  "ar": "الباء والعين والثاء أصلٌ واحد، وهو الإثارة. ويقال بعثْتُ النّاقةَ إذا أثَرْتَها. وقال ابنُ أحمر (٤):\nفبعثْتُها تَقصُ المَقَاصِرُ بَعْدَ ما … كَرَبَتْ حَياةُ النَّارِ للمُتَنَوِّرِ (٥)",
- "az": "[بعث] الباء، العين və الثاء — tək bir əsas kökə malikdir ki, o da təhrik etmək, hərəkətə gətirməkdir. Deyirlər: «بعثْتُ النّاقةَ» — yəni dəvəni hərəkətə gətirdin, qovdun. İbn Əhmər (٤) demişdir: Mən onu təhrik etdim ki, o, gecə işıq axtaran şəxs üçün odun həyatının tükənmək üzrə olduğu vaxtda Məqasir yerlərini izləsin (٥).",
+ "az": "[بعث] الباء، العين və الثاء — tək bir əsas kökə malikdir ki, o da təhrik etmək, hərəkətə gətirməkdir. Deyirlər: «بعثْتُ النّاقةَ» — yəni dəvəni yerindən qaldırdıqda, hərəkətə gətirdikdə belə deyilir. İbn Əhmər (٤) demişdir: «فبعثْتُها تَقصُ المَقَاصِرُ بَعْدَ ما … كَرَبَتْ حَياةُ النَّارِ للمُتَنَوِّرِ» (Gecə işıq axtaran şəxs üçün odun közərməsi sönmək üzrə olduğu vaxtda mən onu hərəkətə gətirdim ki, Məqasir yerlərini izləsin) (٥).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:31:47.354Z"
+ "ts": "2026-10-25T00:31:47.354Z",
+ "prev_az": "[بعث] الباء، العين və الثاء — tək bir əsas kökə malikdir ki, o da təhrik etmək, hərəkətə gətirməkdir. Deyirlər: «بعثْتُ النّاقةَ» — yəni dəvəni hərəkətə gətirdin, qovdun. İbn Əhmər (٤) demişdir: Mən onu təhrik etdim ki, o, gecə işıq axtaran şəxs üçün odun həyatının tükənmək üzrə olduğu vaxtda Məqasir yerlərini izləsin (٥).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni buraxılmış, yalnız tərcüməsi verilmişdir."
+ ],
+ "review_ts": "2026-11-15T15:52:57.328Z"
 }

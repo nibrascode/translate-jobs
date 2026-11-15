@@ -11,7 +11,16 @@
   "page_to": 348
  },
  "ar": "التاء والعين والراء ليس بشئ، إلاّ تِعَار، وهو جَبَل.",
- "az": "[تعر] (tə-%-r). Ta, ayn və ra hərflərində تِعَار (tiar) adlı dağdan başqa heç nə yoxdur.",
+ "az": "[تعر] (tə-ə-r). Ta, ayn və ra hərflərində تِعَار (Ti'ar) adlı dağdan başqa heç nə yoxdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:38:05.804Z"
+ "ts": "2026-10-25T00:38:05.804Z",
+ "prev_az": "[تعر] (tə-%-r). Ta, ayn və ra hərflərində تِعَار (tiar) adlı dağdan başqa heç nə yoxdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf transliterasiyasında «%» simvol xətası var."
+ ],
+ "review_ts": "2026-11-15T16:46:45.713Z"
 }

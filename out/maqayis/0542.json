@@ -11,7 +11,16 @@
   "page_to": 388
  },
  "ar": "الثاء والميم والدال أصلٌ واحد، وهو القليل من الشئ، فالثَّمْدُ\nالماء القليل لا مادّةَ له. وثَمَدتْ فلاناً النِّساءِ إذا قطَعْنَ ماءَه (١). وفلانٌ مثمودٌ إذا كثُرَ السُّؤال عليه حتى ينفَدَ ما عنده. وقال فى المثمود:\nأو كماءِ المثْمودِ بعد جِمامٍ … زَرِم الدَّمْع لا يؤوب نَزُورا (٢)\nوالثامد من البَهْم حِينَ قَرِم؛ لأنّ الذى يأخذه يَسِيرٌ.\nومما شذَّ عن الباب الإِثْمِد، وهو معروف، وكان بعضُ أهل اللغة يقول:\nهو من الباب، لأنّ الذى يُستعمَل منه يَسيرٌ. وهذا ما لا يُوقَف على وجهه.",
- "az": "[ثمد] الثاء (sə), الميم (mim) və الدال (dal) bir əsasdır, o da bir şeyin az olmasıdır. «الثَّمْدُ» (əs-səmd) mənbəyi olmayan az miqdarda sudur. «ثَمَدتْ فلاناً النِّساءِ» (qadınlar filankəsin suyunu kəsdilər) (١). «فلانٌ مثمودٌ» (filankəs məsmuddur) deyilir, yəni ondan o qədər çox istənilib ki, əlində olan tükənib. «المثمود» (əl-məsmud) haqqında demişdir: أو كماءِ المثْمودِ بعد جِمامٍ … زَرِم الدَّمْع لا يؤوب نَزُورا (٢) (Yaxud dolub-daşdıqdan sonra məsmudun suyu kimi; göz yaşı kəsildi, geri dönməz və azalmır). «الثامد» (əs-samid) acıqdıqda balalara deyilir; çünki onun aldığı azdır. Bu qapıdan kənar olan «الإِثْمِد» (əl-ismid) sözüdür ki, bu məlumdur. Bəzi dilçilər deyərdilər: Bu da həmin qapıdandır, çünki ondan istifadə olunan miqdar azdır. Bu isə əsası bilinməyən bir fikirdir.",
+ "az": "[ثمد] الثاء (sə), الميم (mim) və الدال (dal) bir əsasdır, o da bir şeyin az olmasıdır. الثَّمْدُ (səmd) – mənbəyi (bulağı) olmayan az sudur. وثَمَدتْ فلاناً النِّساءِ (qadınlar filankəsin suyunu/gücünü tükəndirdilər) – onun suyunu kəsdikləri zaman (١). فلانٌ مثمودٌ (filankəs məsmuddur) deyilir – ondan o qədər çox istənilib ki, əlində olan tükənib. «المثمود» (məsmud) haqqında (şair) demişdir:\nأو كماءِ المثْمودِ بعد جِمامٍ … زَرِم الدَّمْع لا يؤوب نَزُورا (٢)\n(Mənanın tərcüməsi: Yaxud yığılıb-çoxaldıqdan sonra məsmudun suyu kimi; göz yaşı kəsilmişdir, bərpa olunmaz, azlıq təşkil edər).\nالثامد (samid) – acıqdıqda qoyun/keçi balasına deyilir; çünki onun götürdüyü azdır.\nBu qapıdan kənar olan الإِثْمِد (ismid/sürmə daşı) sözüdür ki, bu məlumdur. Bəzi dilçilər deyərdilər: Bu da həmin qapıdandır, çünki ondan istifadə olunan miqdar azdır. Bu isə dəqiq əsası bilinməyən bir fikirdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:42:17.837Z"
+ "ts": "2026-10-25T00:42:17.837Z",
+ "prev_az": "[ثمد] الثاء (sə), الميم (mim) və الدال (dal) bir əsasdır, o da bir şeyin az olmasıdır. «الثَّمْدُ» (əs-səmd) mənbəyi olmayan az miqdarda sudur. «ثَمَدتْ فلاناً النِّساءِ» (qadınlar filankəsin suyunu kəsdilər) (١). «فلانٌ مثمودٌ» (filankəs məsmuddur) deyilir, yəni ondan o qədər çox istənilib ki, əlində olan tükənib. «المثمود» (əl-məsmud) haqqında demişdir: أو كماءِ المثْمودِ بعد جِمامٍ … زَرِم الدَّمْع لا يؤوب نَزُورا (٢) (Yaxud dolub-daşdıqdan sonra məsmudun suyu kimi; göz yaşı kəsildi, geri dönməz və azalmır). «الثامد» (əs-samid) acıqdıqda balalara deyilir; çünki onun aldığı azdır. Bu qapıdan kənar olan «الإِثْمِد» (əl-ismid) sözüdür ki, bu məlumdur. Bəzi dilçilər deyərdilər: Bu da həmin qapıdandır, çünki ondan istifadə olunan miqdar azdır. Bu isə əsası bilinməyən bir fikirdir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirdəki «نَزُورا» (az miqdarda olan) sözü «azalmır» kimi yanlış/əks mənada tərcümə olunmuşdur."
+ ],
+ "review_ts": "2026-11-15T16:56:37.481Z"
 }

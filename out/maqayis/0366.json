@@ -11,7 +11,17 @@
   "page_to": 329
  },
  "ar": "(البلْعُوم) مَجْرَى الطَّعامِ فى الحَلْق. وقد يحذف فيقال بُلْعُم. وغير مُشْكلٍ أنَّ هذا مأخوذٌ من بَلِعَ، إلاّ أنّه زِيد عليه ما زِيدَ لجنسٍ من المبالغة فى معناه.\nوهذا وما أشبهه توطِئةٌ لما بعده.",
- "az": "[بلع] (Bə-lam-əyn) «البلْعُوم» (əl-bül’um) boğazda qidanın keçdiyi yoldur. Bəzən ixtisar edilərək «بُلْعُم» (bül’əm) də deyilir. Bunun «بَلِعَ» (bəliə - uddu) kökündən alındığı şübhəsizdir, sadəcə mənasında mübaliğə (mübaliğə növü) üçün ona əlavələr edilmişdir. Bu və buna bənzəyənlər sonrakılar üçün bir müqəddimədir.",
+ "az": "[بلع]\nالبلْعُوم (əl-bul'um) — qidanın boğazdakı yoludur (udlaqdır). Bəzən hərf ixtisarı edilərək بُلْعُم (bul'um) deyilir. Şübhə yoxdur ki, bu, بَلِعَ (uddu) feilindən götürülmüşdür, lakin mənasında bir növ mübaliğə üçün ona artırılan hərflər artırılmışdır.\nBu və buna bənzərlər sonrakılar üçün bir müqəddimədir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.769Z"
+ "ts": "2026-10-25T00:37:20.769Z",
+ "prev_az": "[بلع] (Bə-lam-əyn) «البلْعُوم» (əl-bül’um) boğazda qidanın keçdiyi yoldur. Bəzən ixtisar edilərək «بُلْعُم» (bül’əm) də deyilir. Bunun «بَلِعَ» (bəliə - uddu) kökündən alındığı şübhəsizdir, sadəcə mənasında mübaliğə (mübaliğə növü) üçün ona əlavələr edilmişdir. Bu və buna bənzəyənlər sonrakılar üçün bir müqəddimədir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başında mətndə olmayan «(Bə-lam-əyn)» əlavə edilmişdir.",
+  "Mətn AR-dakı kimi iki abzasa bölünməmişdir."
+ ],
+ "review_ts": "2026-11-15T16:25:16.963Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 306
  },
  "ar": "الباء والنون والجيم كلمة واحدةٌ ليست عندى أصلا، وما أدرى كيف هى فى قياس اللغة، لكنَّها قد ذُكِرَتْ. قالوا: البِنْجُ الأصْل، يقال رجَع إلى بِنْجه.",
- "az": "[بنج] (bənc). Ba, nun və cim tək bir sözdür, mənim yanımda əsl deyil və dilin qanununda bunun necə olduğunu bilmirəm, lakin zikr olunmuşdur. Dedilər: əsl بِنْج (binc)-dir, deyirlər: öz bincinə qayıtdı.",
+ "az": "[بنج]\nBa, nun və cim tək bir sözdür; mənim nəzərimdə əsl deyildir və dilin qiyasındakı yerini də bilmirəm, lakin qeyd olunmuşdur. Onlar demişlər: البِنْجُ (əl-binc) – əsl, kök deməkdir. Deyilir: رجَع إلى بِنْجه (öz əslinə qayıtdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:33:54.814Z"
+ "ts": "2026-10-25T00:33:54.814Z",
+ "prev_az": "[بنج] (bənc). Ba, nun və cim tək bir sözdür, mənim yanımda əsl deyil və dilin qanununda bunun necə olduğunu bilmirəm, lakin zikr olunmuşdur. Dedilər: əsl بِنْج (binc)-dir, deyirlər: öz bincinə qayıtdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«رجَع إلى بِنْجه» ərəbcə cümləsi mətndə verilməyib, yalnız tərcüməsi yazılıb.",
+  "«البِنْجُ الأصْل» cümləsi təhrif olunaraq «əsl binc-dir» kimi çevrilib (doğrusu: «binc əsl/kök deməkdir»)."
+ ],
+ "review_ts": "2026-11-15T16:05:22.224Z"
 }

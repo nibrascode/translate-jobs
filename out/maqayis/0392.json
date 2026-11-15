@@ -11,7 +11,16 @@
   "page_to": 334
  },
  "ar": "ومن ذلك (البَرْكَلَةُ (٢)) وهو مَشْىُ الإنسان فى الماء والطِّين، فالباء زائدةٌ، وإنما هو من تَرَكَّلَ إذا ضَرَبَ بإِحدى رجليه فأدخلها فى الأرض عند الحفْر.\nقال الأخطل:\nربَتْ وَرَبَا فى حَجْرِها ابن مَدِينةٍ … يَظَلُّ على مِسحاتِهِ يترَكَّلُ (٣)",
- "az": "[بركل] (Bə-ra-kəf-lam) Buradan «البَرْكَلَةُ» (əl-bərkələ) gəlir, insanın su və palçıqda yeriməsidir. «ب» (bə) hərfi artıqdır, bu «تَرَكَّلَ» (tərəkkələ) kəlməsindəndir, yəni qazarkən ayaqlarından biri ilə yerə vurduqda. Əx-Xətl dedi: Rəbət və rəba fi həcriha ibnu mədinətin … yəzillu alə mis-hatihi yətərəkkəlu (3) (O böyüdü və onun qucağında bir şəhərli uşaq böyüdü … o, belinin üzərində ayaqlarını yerə vuraraq qalır).",
+ "az": "[بركل] (Bə-ra-kəf-lam) Buradan «البَرْكَلَةُ» (əl-bərkələ) gəlir, o, insanın su və palçıqda yeriməsidir. «ب» (bə) hərfi artıqdır, bu «تَرَكَّلَ» (tərəkkələ) kəlməsindəndir, yəni qazarkən ayaqlarından biri ilə yerə vurduqda.\nقال الأخطل:\nربَتْ وَرَبَا فى حَجْرِها ابن مَدِينةٍ … يَظَلُّ على مِسحاتِهِ يترَكَّلُ (٣)\n(Əx-Xətl dedi: O böyüdü və onun qucağında bir şəhərli uşaq böyüdü … o, belinin üzərində ayağını vuraraq qalır).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:37:20.770Z"
+ "ts": "2026-10-25T00:37:20.770Z",
+ "prev_az": "[بركل] (Bə-ra-kəf-lam) Buradan «البَرْكَلَةُ» (əl-bərkələ) gəlir, insanın su və palçıqda yeriməsidir. «ب» (bə) hərfi artıqdır, bu «تَرَكَّلَ» (tərəkkələ) kəlməsindəndir, yəni qazarkən ayaqlarından biri ilə yerə vurduqda. Əx-Xətl dedi: Rəbət və rəba fi həcriha ibnu mədinətin … yəzillu alə mis-hatihi yətərəkkəlu (3) (O böyüdü və onun qucağında bir şəhərli uşaq böyüdü … o, belinin üzərində ayaqlarını yerə vuraraq qalır).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni ixtisar olunub latın transkripsiyası ilə əvəz edilib."
+ ],
+ "review_ts": "2026-11-15T16:33:29.271Z"
 }

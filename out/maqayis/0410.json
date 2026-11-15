@@ -11,7 +11,18 @@
   "page_to": 337
  },
  "ar": "التاء والخاء فى المضاعف ليس أصلا يقاسُ عليه أو يفرَّع منه، والذى ذُكِر منه فليس بذلك المعوَّل عليه. قالوا: والتّختخة حكايةُ صوتٍ. والتَّخُّ العجين الحامِض، تَخَّ تُخوخَة، وأَتَخَّهُ صاحبُه إتخاخاً.",
- "az": "«تخ» (t-x): Tə və xa hərflərinin qoşa gələn forması müqayisə ediləcək və ya şaxələndiriləcək bir əsas deyil, bundan bəhs edilənlər də etibarlı sayılmır. Dedilər ki, التّختخة (əttəxtəxə) səsin təqlididir. التَّخُّ (əttəx): turş xəmirdir, تَخَّ تُخوخَةً (təxxə tuxuxətən), və sahibi ona Ətəxxəhu (أَتَخَّهُ) deyərək bolca təx etdi.",
+ "az": "[تخ]\nTa və xa hərfləri təşdidli (qoşa) formada üzərində qiyas aparılacaq və ya budaqlanacaq bir əsas deyildir, bu barədə qeyd olunanlar da çox etibar ediləsi deyildir. Dedilər ki: والتّختخة (səs təqlididir). والتَّخُّ (turş xəmirdir), تَخَّ تُخوخَة (turşudu), və sahibinin onu turşutmasına [əyitməsinə] أَتَخَّهُ صاحبُه إتخاخاً (deyilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.115Z"
+ "ts": "2026-10-25T00:37:44.115Z",
+ "prev_az": "«تخ» (t-x): Tə və xa hərflərinin qoşa gələn forması müqayisə ediləcək və ya şaxələndiriləcək bir əsas deyil, bundan bəhs edilənlər də etibarlı sayılmır. Dedilər ki, التّختخة (əttəxtəxə) səsin təqlididir. التَّخُّ (əttəx): turş xəmirdir, تَخَّ تُخوخَةً (təxxə tuxuxətən), və sahibi ona Ətəxxəhu (أَتَخَّهُ) deyərək bolca təx etdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizə formatı pozulub.",
+  "Gərəksiz transliterasiyalar əlavə edilib.",
+  "«وأَتَخَّهُ صاحبُه إتخاخاً» cümləsi yanlış tərcümə olunub."
+ ],
+ "review_ts": "2026-11-15T16:40:02.267Z"
 }

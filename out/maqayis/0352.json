@@ -11,7 +11,17 @@
   "page_to": 322
  },
  "ar": "الباء والواو والميم كلمةٌ واحدةٌ لا يُقاسُ عليها. فالبُوم ذكَرُ الهَامِ، وهو جمعُ بُومَة. قال:\nقد أعْسِفُ النّازِحَ المجهولَ مَعْسِفُه … فى ظِلِّ أخْضَرَ يدعُو هَامَهُ البُومُ (٤)\nقالوا: وجمعُ البُوم أبوام. قال:\nفَلَاةٍ لِصَوْتِ الجِنِّ فى مُنْكَرَاتِها … هَريرٌ وللأبْوامِ فيها نوائحُ (٥)",
- "az": "«بوم» (bum): باء، واو və mim hərflərindən ibarət tək bir sözdür, buna əsasən müqayisə aparılmır. «البُوم» (əl-bum) — bayquşun erkəyidir, bu da «بُومَة» (bumə) sözünün cəmi olaraq işlənir. Şair demişdir: \nقَدْ أَعْسِفُ النَّازِحَ المجهولَ مَعْسِفُه … فِى ظِلِّ أَخْضَرَ يَدْعُو هَامَهُ البُومُ (٤)\n(Bəzən naməlum uzaq səhra yollarını gedərəm, elə bir yaşıl kölgədə ki, onun baş hissəsini bayquşlar çağırır.) \nAlimlər demişlər ki, «البوم» sözünün cəmi «أبوام» (əbuam) gəlir. Şair demişdir:\nفَلَاةٍ لِصَوْتِ الجِنِّ فِى مُنْكَرَاتِها … هَريرٌ وَلِلأَبْوَامِ فِيهَا نَوَائِحُ (٥)\n(Elə bir səhra ki, onun qorxunc yerlərində cinlərin səsi bir xırıltıdır, orada bayquşların isə nalələri vardır.)",
+ "az": "[بوم]\nBa, vav və mim hərfləri tək bir sözdür, buna əsasən qiyas aparılmır. البُوم (əl-bum) – bayquşun erkəyidir və بُومَة (bumə) sözünün cəmidir. Şair demişdir:\nقد أعْسِفُ النّازِحَ المجهولَ مَعْسِفُه … فى ظِلِّ أخْضَرَ يدعُو هَامَهُ البُومُ (٤)\n(«Bəzən naməlum, uzaq yolları kor-təbii aşaram; erkək bayquşun dişilərini çağırdığı qaranlıq kölgəlikdə.»)\nAlimlər demişlər: البُوم sözünün cəmi أَبْوَام (əbvam) gəlir. Şair demişdir:\nفَلَاةٍ لِصَوْتِ الجِنِّ فى مُنْكَرَاتِها … هَريرٌ وللأبْوامِ فيها نوائحُ (٥)\n(«Elə bir səhra ki, onun qorxunc guşələrində cinlərin səsi xırıltıdır, orada bayquşların da nalələri vardır.»)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:35:28.170Z"
+ "ts": "2026-10-25T00:35:28.170Z",
+ "prev_az": "«بوم» (bum): باء، واو və mim hərflərindən ibarət tək bir sözdür, buna əsasən müqayisə aparılmır. «البُوم» (əl-bum) — bayquşun erkəyidir, bu da «بُومَة» (bumə) sözünün cəmi olaraq işlənir. Şair demişdir: \nقَدْ أَعْسِفُ النَّازِحَ المجهولَ مَعْسِفُه … فِى ظِلِّ أَخْضَرَ يَدْعُو هَامَهُ البُومُ (٤)\n(Bəzən naməlum uzaq səhra yollarını gedərəm, elə bir yaşıl kölgədə ki, onun baş hissəsini bayquşlar çağırır.) \nAlimlər demişlər ki, «البوم» sözünün cəmi «أبوام» (əbuam) gəlir. Şair demişdir:\nفَلَاةٍ لِصَوْتِ الجِنِّ فِى مُنْكَرَاتِها … هَريرٌ وَلِلأَبْوَامِ فِيهَا نَوَائِحُ (٥)\n(Elə bir səhra ki, onun qorxunc yerlərində cinlərin səsi bir xırıltıdır, orada bayquşların isə nalələri vardır.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı formatı pozulub («[بوم]» ilə başlamalıdır).",
+  "Birinci beytin ikinci misrasındakı «يدعو هامه البوم» ifadəsi səhv tərcümə olunub («baş hissəsini» deyil, «əl-hāmə» dişi bayquşdur)."
+ ],
+ "review_ts": "2026-11-15T16:15:44.851Z"
 }

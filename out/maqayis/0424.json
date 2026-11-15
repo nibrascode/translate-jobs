@@ -11,7 +11,18 @@
   "page_to": 342
  },
  "ar": "الأتْحمىُّ ضربٌ من البُرودِ (١):",
- "az": "«تحم» (t-h-m): الأتْحمىُّ (əl-əthəmiyyu) bir növ parça (bürd) növüdür.",
+ "az": "[تحم]\nالأتْحمىُّ bürd (zolaqlı parça) növlərindən biridir (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:37:44.116Z"
+ "ts": "2026-10-25T00:37:44.116Z",
+ "prev_az": "«تحم» (t-h-m): الأتْحمىُّ (əl-əthəmiyyu) bir növ parça (bürd) növüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizəsi standart qaydaya uyğun deyil («تحم» (t-h-m): əvəzinə [تحم] olmalıdır).",
+  "Ərəbcə mətndəki haşiyə nömrəsi (١) buraxılmışdır.",
+  "Tərcümədə söz təkrarı və qüsur var («bir növ parça (bürd) növüdür»)."
+ ],
+ "review_ts": "2026-11-15T16:38:19.101Z"
 }

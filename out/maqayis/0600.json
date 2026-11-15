@@ -11,7 +11,16 @@
   "page_to": 430
  },
  "ar": "الجيم والحاء والنون أصلٌ واحد، وهو سُوء النَّماء وصِغَرُ الشئ فى نفسه. فالجَحَن سوءُ الغذاء، والجَحِن السّيّئ الغِذاء. قال الشماخ:\nوقد عَرِقَتْ مغابنُها وجادت … بدَرَّتِها قِرَى جَحِنٍ قَتِينِ (٢)\nالقَتِين: القليل الطُّعْم. يصف قُرَادًا، جعله جَحِناً لسوء غذائه. والمُجْحَن من النّبات: القصير الذى لم يتمّ. وأما [جَحْوَانُ فاشتقاقُه من] الجَحْوةِ (٣) و [هى] الطَّلْعة.",
- "az": "[جحن]: الجيم والحاء والنون أصلٌ واحد، وهو سُوء النَّماء وصِغَرُ الشئ فى نفسه (Cim, ha və nun hərfləri tək bir kökə dəlalət edir ki, o da zəif inkişaf və şeyin öz-özlüyündə kiçik olmasıdır). فالجَحَن سوءُ الغذاء، والجَحِن السّيّئ الغِذاء (Fəl-cahən – qidanın pis olmasıdır, əl-cəhin isə – pis qidalanan deməkdir). قال الشماخ (Şəmməx demişdir):\nوقد عَرِقَتْ مغابنُها وجادت … بدَرَّتِها قِرَى جَحِنٍ قَتِينِ (٢)\nالقَتِين: القليل الطُّعْم. يصف قُرَادًا، جعله جَحِناً لسوء غذائه (Əl-qatin – az yemək yeyən deməkdir. O, bir gənəni təsvir edərək pis qidalandığına görə onu cəhin adlandırmışdır). والمُجْحَن من النّبات: القصير الذى لم يتمّ (Bitkidən əl-mujhan – tam inkişaf etməmiş qısa olandandır). وأما [جَحْوَانُ فاشتقاقُه من] الجَحْوةِ (٣) و [هى] الطَّلْعة (Lakin «Cəhvan» sözünə gəldikdə, onun kökü «cəhvə»dən götürülmüşdür ki, o da xurma cücərtisidir).",
+ "az": "[جحن] (Cim, ha və nun hərfləri tək bir əsasdır, o da inkişafın pis olması və şeyin öz-özlüyündə kiçik olmasıdır. الجَحَن – qidanın pis olmasıdır, الجَحِن – pis qidalanan deməkdir. Şəmməx demişdir:\nوقد عَرِقَتْ مغابنُها وجادت … بدَرَّتِها قِرَى جَحِنٍ قَتِينِ (٢)\nالْقَتِين – az yemək yeyəndir. O, bir gənəni vəsf edərək pis qidalandığı üçün onu جَحِن adlandırmışdır. Bitkidən الْمُجْحَن – tam yetişməmiş qısa olandır. [جَحْوَانُ-a gəldikdə, onun kökü] الْجَحْوة-dən [götürülmüşdür ki, o da] xurma cücərtisidir (tumurcuğudur).)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:45:06.592Z"
+ "ts": "2026-10-25T00:45:06.592Z",
+ "prev_az": "[جحن]: الجيم والحاء والنون أصلٌ واحد، وهو سُوء النَّماء وصِغَرُ الشئ فى نفسه (Cim, ha və nun hərfləri tək bir kökə dəlalət edir ki, o da zəif inkişaf və şeyin öz-özlüyündə kiçik olmasıdır). فالجَحَن سوءُ الغذاء، والجَحِن السّيّئ الغِذاء (Fəl-cahən – qidanın pis olmasıdır, əl-cəhin isə – pis qidalanan deməkdir). قال الشماخ (Şəmməx demişdir):\nوقد عَرِقَتْ مغابنُها وجادت … بدَرَّتِها قِرَى جَحِنٍ قَتِينِ (٢)\nالقَتِين: القليل الطُّعْم. يصف قُرَادًا، جعله جَحِناً لسوء غذائه (Əl-qatin – az yemək yeyən deməkdir. O, bir gənəni təsvir edərək pis qidalandığına görə onu cəhin adlandırmışdır). والمُجْحَن من النّبات: القصير الذى لم يتمّ (Bitkidən əl-mujhan – tam inkişaf etməmiş qısa olandandır). وأما [جَحْوَانُ فاشتقاقُه من] الجَحْوةِ (٣) و [هى] الطَّلْعة (Lakin «Cəhvan» sözünə gəldikdə, onun kökü «cəhvə»dən götürülmüşdür ki, o da xurma cücərtisidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin formatı pozulmuş, Ərəb dili mətni lazımsız şəkildə təkrarlanmışdır."
+ ],
+ "review_ts": "2026-11-15T17:00:21.118Z"
 }
