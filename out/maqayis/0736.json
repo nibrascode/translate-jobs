@@ -11,7 +11,17 @@
   "page_to": 500
  },
  "ar": "الجيم والهمزة والثاء كلمةٌ واحدة تدلُّ على الفَزَع. يقال جُئِثَ يُجْأَثُ، إذا أُفْزِع. و\nفى الحديث: «فجُئِثْتُ منه فَرَقًا (٢)».",
- "az": "«جأث» — جيم, həmzə və sə hərfləri qorxuya dəlalət edən tək bir kəlmədir. Deyilir: «جُئِثَ يُجْأَثُ» (cuisə yucəs) — qorxudulduğu zaman. \nHədisdə demişdir: «فجُئِثْتُ منه فَرَقًا (٢)» (Və mən qorxudan ondan ürpəşdim/vahiməyə düşdüm).",
+ "az": "[جأث]\nالجيم (cim), الهمزة (həmzə) və الثاء (sa) qorxuya dəlalət edən tək bir kəlmədir. Qorxudulduğu zaman جُئِثَ يُجْأَثُ deyilir.\nHədisdə [belə] varid olmuşdur: «فجُئِثْتُ منه فَرَقًا (٢)» (Qorxudan ona qarşı içimə vahimə düşdü).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:28.134Z"
+ "ts": "2026-10-25T00:50:28.134Z",
+ "prev_az": "«جأث» — جيم, həmzə və sə hərfləri qorxuya dəlalət edən tək bir kəlmədir. Deyilir: «جُئِثَ يُجْأَثُ» (cuisə yucəs) — qorxudulduğu zaman. \nHədisdə demişdir: «فجُئِثْتُ منه فَرَقًا (٢)» (Və mən qorxudan ondan ürpəşdim/vahiməyə düşdüm).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "ث hərfinin adı «sə» deyil, «sa» olmalıdır.",
+  "«Hədisdə demişdir» ifadəsi qeyri-dəqiqdir, «Hədisdə [belə] varid olmuşdur» olmalıdır."
+ ],
+ "review_ts": "2026-11-15T21:06:03.929Z"
 }

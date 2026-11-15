@@ -11,7 +11,17 @@
   "page_to": 495
  },
  "ar": "الجيم والواو والظاء أصلٌ واحدٌ لنعتٍ قبيح لا يُمْدَح به.\nقال قوم: الجَوَّاظ الكثير اللَّحْمِ المختالُ فى مِشْيته. يقال: جَاظَ يَجُوظُ جَوَظَاناً.\nقال:\n* يعلو به ذا العَضَلِ الجَوَّاظَا (١) *\nويقال: الجوّاظ الأكولُ، ويقال الفاجر.",
- "az": "[جوظ] — الجيم (Cim), الواو (Vav) və الظاء (Zı) – mədh olunmayan çirkin bir xüsusiyyəti bildirən tək bir əslə qayıdır. Bir qrup demişdir: الجَوَّاظ (əl-Cəvraz/əl-Cəvvat) — əti çox olan, yerişində təkəbbür göstərən kəsdir. Deyilir: جَاظَ يَجُوظُ جَوَظَاناً (Təkəbbürləndi). [Şair] demişdir: * يعلو به ذا العَضَلِ الجَوَّاظَا (١) * (Əzələli, təkəbbürlü kəsi onunla üstələyir). Həmçinin deyilir ki, əl-Cəvvaz çox yeyən kəsdir, həmçinin fasiq mənasında da işlədilir.",
+ "az": "[جوظ]\ncim, vav və za – mədh olunmayan çirkin bir sifəti bildirən bir əsasdır.\nBir qrup demişdir: الجَوَّاظ – əti çox olan, yerişində təkəbbürlə yeriyən kəsdir. Deyilir: جَاظَ يَجُوظُ جَوَظَاناً (təkəbbürlə yeridi).\n[Şair] demişdir:\n* يعلو به ذا العَضَلِ الجَوَّاظَا (١) *\n(Əzələli, təkəbbürlü kəsi onunla üstələyir.)\nHəmçinin deyilir: الجوّاظ – çox yeyən kəsdir, həmçinin fasiq mənasında da işlədilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:03.100Z"
+ "ts": "2026-10-25T00:50:03.100Z",
+ "prev_az": "[جوظ] — الجيم (Cim), الواو (Vav) və الظاء (Zı) – mədh olunmayan çirkin bir xüsusiyyəti bildirən tək bir əslə qayıdır. Bir qrup demişdir: الجَوَّاظ (əl-Cəvraz/əl-Cəvvat) — əti çox olan, yerişində təkəbbür göstərən kəsdir. Deyilir: جَاظَ يَجُوظُ جَوَظَاناً (Təkəbbürləndi). [Şair] demişdir: * يعلو به ذا العَضَلِ الجَوَّاظَا (١) * (Əzələli, təkəbbürlü kəsi onunla üstələyir). Həmçinin deyilir ki, əl-Cəvvaz çox yeyən kəsdir, həmçinin fasiq mənasında da işlədilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الظاء» hərfinin adı səhvən «Zı» yazılıb (düzgünü «za»dır).",
+  "«الجَوَّاظ» sözünün oxunuşu səhvən «əl-Cəvraz/əl-Cəvvat» kimi verilib."
+ ],
+ "review_ts": "2026-11-15T21:04:15.411Z"
 }

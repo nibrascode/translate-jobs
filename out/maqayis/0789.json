@@ -11,7 +11,16 @@
   "page_to": 512
  },
  "ar": "ومن ذلك قولهم للشيخ الهِمِّ (جِلْحابَة). فهذا من قولهم جَلَحَ ولَحَبَ.\nأمَّا الجَلَح فذَهابُ شَعْرَ مقدَّم الرأس. وأمّا لحب فمن قولهم لُحِبَ لحمُهُ يُلْحَبُ، كأنه ذُهِبَ به. وطَرِيقٌ لَحْبٌ من هذا.",
- "az": "«جلحب» - Və buraya qoca, əldən düşmüş kişiyə «جِلْحابَة» (cilhabə) deyilməsi daxildir. Bu, جَلَح (cələh) və لَحَب (ləhəb) sözlərindəndir. Cələh – başın ön hissəsinin saçının tökülməsidir. Ləhəb isə onların «لُحِبَ لحمُهُ يُلْحَبُ» (Əti kəsilib getdi) demələrindəndir, sanki əti aparılmışdır. Bərk, hamar yol mənasını verən طَرِيقٌ لَحْبٌ (təriqun ləhbün) də buradan alınmışdır.",
+ "az": "[جلحب] Və buraya əldən düşmüş qocaya جِلْحابَة deyilməsi daxildir. Bu, جَلَحَ və لَحَبَ sözlərindəndir. الجَلَح başın ön hissəsinin saçının tökülməsidir. لَحَبَ isə onların «لُحِبَ لحمُهُ يُلْحَبُ» (əti kəsilib getdi) demələrindəndir, sanki əti aparılmışdır. Açıq, hamar yol mənasını verən طَرِيقٌ لَحْبٌ da bundandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.218Z"
+ "ts": "2026-10-25T00:50:51.218Z",
+ "prev_az": "«جلحب» - Və buraya qoca, əldən düşmüş kişiyə «جِلْحابَة» (cilhabə) deyilməsi daxildir. Bu, جَلَح (cələh) və لَحَب (ləhəb) sözlərindəndir. Cələh – başın ön hissəsinin saçının tökülməsidir. Ləhəb isə onların «لُحِبَ لحمُهُ يُلْحَبُ» (Əti kəsilib getdi) demələrindəndir, sanki əti aparılmışdır. Bərk, hamar yol mənasını verən طَرِيقٌ لَحْبٌ (təriqun ləhbün) də buradan alınmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» qaydasına uyğun deyil."
+ ],
+ "review_ts": "2026-11-15T21:08:14.010Z"
 }

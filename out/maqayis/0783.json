@@ -11,7 +11,16 @@
   "page_to": 511
  },
  "ar": "ومن ذلك قولهم للعُسِّ الضَّخْم (جُنْبُل) فهذا ممّا زيدت فيه النون كأنّه جَبَل، والجَبَل كلمة وجْهها التجمُّع. وقد ذكرناها.",
- "az": "«جنبل» - Və buraya böyük kasa, qədəh mənasını verən عُسِّ الضَّخْم (üss əd-daxm) sözünə «جُنْبُل» (cünbül) deyilməsi daxildir. Bu, nun hərfinin artırıldığı sözlərdəndir, sanki o, dağ kimidir və جَبَل (cəbəl) də toplanma mənasını verən bir sözdür. Biz bunu artıq zikr etmişik.",
+ "az": "[جنبل] Və buraya böyük kasa mənasını verən العُسِّ الضَّخْم sözünə جُنْبُل deyilməsi daxildir. Bu, nun hərfinin artırıldığı sözlərdəndir, sanki o, جَبَل (dağ) kimidir; جَبَل də toplanma mənasını verən bir sözdür. Biz bunu artıq zikr etmişik.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.218Z"
+ "ts": "2026-10-25T00:50:51.218Z",
+ "prev_az": "«جنبل» - Və buraya böyük kasa, qədəh mənasını verən عُسِّ الضَّخْم (üss əd-daxm) sözünə «جُنْبُل» (cünbül) deyilməsi daxildir. Bu, nun hərfinin artırıldığı sözlərdəndir, sanki o, dağ kimidir və جَبَل (cəbəl) də toplanma mənasını verən bir sözdür. Biz bunu artıq zikr etmişik.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» qaydasına uyğun deyil."
+ ],
+ "review_ts": "2026-11-15T21:08:14.009Z"
 }

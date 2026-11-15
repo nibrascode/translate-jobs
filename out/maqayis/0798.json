@@ -11,7 +11,17 @@
   "page_to": 513
  },
  "ar": "(الجُخْدَبُ): الجَمَل الضَّخْم (٢)]. قال:\n* شَدَّاخَةً ضَخْمَ الضُّلوعِ جَخْدَبا (٣) *\nو",
- "az": "[جخدب] (الجُخْدَبُ): iri dəvə. Şair deyir: * şeddahetən zəxməz-zuluin cəxdəba * (Qabırğaları iri, cəxdəb - iri dəvə).",
+ "az": "[جخدب] (الجُخْدَبُ (٢)): iri dəvə. Şair deyir: * شَدَّاخَةً ضَخْمَ الضُّلوعِ جَخْدَبا (٣) * (Qabırğaları iri, cəxdəb - iri dəvə).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:52:48.508Z"
+ "ts": "2026-10-25T00:52:48.508Z",
+ "prev_az": "[جخدب] (الجُخْدَبُ): iri dəvə. Şair deyir: * şeddahetən zəxməz-zuluin cəxdəba * (Qabırğaları iri, cəxdəb - iri dəvə).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə şeir mətni ərəb qrafikası ilə saxlanılmayıb, latın transkripsiyası ilə verilib.",
+  "Haşiyə rəqəmləri (٢) və (٣) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:08:16.306Z"
 }

@@ -11,9 +11,19 @@
   "page_to": 404
  },
  "ar": "ومن ذلك (اثبجَرَّ) القومُ فى أمرهم، إذا شكُّوا فيه وتردَّدُوا من فَزَعٍ (١) وذُعْرٍ. وهذا منحوتٌ من الثَّبَج والثَّجْرة. وذلك أنهم يَتَرَادُّونَ ويتجمَّعون.\nوقد مضى تفسيرُ الكلمتين.\nتم كتاب الثاء",
- "az": "«ثبجر»\nBunlardan biri də camaatın öz işlərində şübhə edərək qorxu və dəhşətdən bir-birinə qarışması mənasını verən «اثبجَرَّ» (isbəcərrə) sözüdür (1). Bu, «əs-səbəc» və «əs-səcərə» sözlərindən qondarılmadır. Bunun səbəbi onların bir-birinə qayıtmaları və toplaşmalarıdır.\nBu iki sözün izahı artıq keçmişdir.\nSə (ث) hərfinin kitabı başa çatdı.",
+ "az": "[ثبجر]\nBunlardan biri də camaatın öz işlərində şübhə edərək qorxu və dəhşətdən tərəddüd etməsi mənasını verən اثبجَرَّ (isbəcərrə) sözüdür (١). Bu, الثَّبَج (əs-səbəc) və الثَّجْرة (əs-səcrə) sözlərindən nəht edilmişdir (düzəldilmişdir). Bunun səbəbi onların bir-birinə qayıtmaları və toplaşmalarıdır.\nBu iki sözün izahı artıq keçmişdir.\nSa (ث) hərfinin kitabı başa çatdı.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:43:21.035Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثبجر»\nBunlardan biri də camaatın öz işlərində şübhə edərək qorxu və dəhşətdən bir-birinə qarışması mənasını verən «اثبجَرَّ» (isbəcərrə) sözüdür (1). Bu, «əs-səbəc» və «əs-səcərə» sözlərindən qondarılmadır. Bunun səbəbi onların bir-birinə qayıtmaları və toplaşmalarıdır.\nBu iki sözün izahı artıq keçmişdir.\nSə (ث) hərfinin kitabı başa çatdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı «[ثبجر]» formatında verilməyib.",
+  "«الثَّجْرة» sözünün oxunuşu «əs-səcərə» kimi səhv verilib.",
+  "Haşiyə rəqəmi ərəb rəqəmi (١) ilə deyil, latın rəqəmi ilə verilib."
+ ],
+ "review_ts": "2026-11-15T21:02:48.890Z"
 }

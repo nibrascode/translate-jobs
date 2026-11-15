@@ -11,9 +11,18 @@
   "page_to": 373
  },
  "ar": "الثاء والدال والقاف كلمةٌ واحدة. ثَدَق المطَرُ، وسحابٌ ثادق. وثادقٌ اسمُ فرس، كأنّ صاحبه شَبَّهه بالسحاب. قال:\nباتَتْ تلُوم على ثادقٍ … ليُشرى فقد جَدّ عِصيانُها (٢)\nأى عِصْيانى لها. ليُشْرَى: ليُبَاعَ.",
- "az": "«ثدق»: الثاء, Dal və Qaf tək bir kəlimədir. (ثَدَق المطَرُ) — yağış çox yağdı, və (سحابٌ ثادق) — bol yağışlı bulud. Və (ثادق) — bir atın adıdır, elə bil sahibi onu buluda bənzətmişdir. O demişdir: باتَتْ تلُوم على ثادقٍ … ليُشرى فقد جَدّ عِصيانُها (٢) (O, Thadiq adlı at haqqında qınamaqda gecələdi... satılsın deyə, artıq mənim ona qarşı üsyanım gücləndi). (ليُشْرى) — satılması üçün.",
+ "az": "[ثدق]\nSa, dal və qaf tək bir kəlmədir. ثَدَق المطَرُ (yağış şiddətlə yağdı) və سحابٌ ثادق (bol yağışlı bulud). وثادقٌ (Sədiq) bir atın adıdır, sanki sahibi onu buluda bənzətmişdir. Şair demişdir:\nباتَتْ تلُوم على ثادقٍ … ليُشرى فقد جَدّ عِصيانُها (٢) (O, Sədiqə görə məni qınayaraq gecələdi... satılsın deyə, artıq ona qarşı itaətsizliyim ciddiləşdi).\nYəni ona qarşı mənim itaətsizliyim. ليُشْرَى (satılması üçün): satılmaq üçün.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:39:16.273Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثدق»: الثاء, Dal və Qaf tək bir kəlimədir. (ثَدَق المطَرُ) — yağış çox yağdı, və (سحابٌ ثادق) — bol yağışlı bulud. Və (ثادق) — bir atın adıdır, elə bil sahibi onu buluda bənzətmişdir. O demişdir: باتَتْ تلُوم على ثادقٍ … ليُشرى فقد جَدّ عِصيانُها (٢) (O, Thadiq adlı at haqqında qınamaqda gecələdi... satılsın deyə, artıq mənim ona qarşı üsyanım gücləndi). (ليُشْرى) — satılması üçün.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [ثدق] formatında deyil, sa hərf adı ərəb qrafikası ilə saxlanılıb.",
+  "ثادق adı «Thadiq» kimi səhv transliterasiya edilib və «ليُشْرَى» sözünün ərəbcə yazılışı dəyişdirilib."
+ ],
+ "review_ts": "2026-11-15T21:02:32.922Z"
 }

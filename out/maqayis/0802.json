@@ -11,7 +11,17 @@
   "page_to": 513
  },
  "ar": "(الجِرْسَام): السُّم الزُّعاف.\nتم كتاب الجيم تم الجزء الأول من مقاييس اللغة بتقسيم محققه\n\n\n\n\n\n\n﷽",
- "az": "[جرسم] (الجِرْسَام): öldürücü zəhər. Məqayis əl-luğə kitabının birinci hissəsi tədqiqatçısının təsnifatı ilə tamamlandı.",
+ "az": "[جرسم] (الجِرْسَام): öldürücü zəhər.\nCim kitabı tamamlandı. Məqayis əl-luğə-nin birinci cildi tədqiqatçısının bölgüsü üzrə tamamlandı.\n\n﷽ (Mərhəmətli və Rəhmli Allahın adı ilə)",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:52:48.508Z"
+ "ts": "2026-10-25T00:52:48.508Z",
+ "prev_az": "[جرسم] (الجِرْسَام): öldürücü zəhər. Məqayis əl-luğə kitabının birinci hissəsi tədqiqatçısının təsnifatı ilə tamamlandı.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Cim kitabı tamamlandı» (تم كتاب الجيم) hissəsi buraxılıb.",
+  "«﷽» (Bismillah) mətni və tərcüməsi buraxılıb."
+ ],
+ "review_ts": "2026-11-15T21:08:55.113Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 507
  },
  "ar": "ومن ذلك قولهم للحَجَر وللإِبل الكثيرة (جَلْمَدٌ). قال الشاعر فى الحجارة:\nجَلامِيدُ أملاءُ الأكُفِّ كأنها … رُءُوسُ رِجالٍ حُلِّقت فى المواسِمِ (١)\nوقال آخر فى الإبل الجَلْمَد:\nأو مائَةٍ تُجْعَلُ أولادُها … لَغْوًا وعُرْضَ المائَةِ الجَلْمَدِ (٢)\nوهذا من كلمتين: من الجَلَد، وهى الأرض الصُّلبة، ومن [الجَمَدُ]، وهى الأرض اليابسة، وقد مرَّ تفسيرهما.",
- "az": "«جلمد» - Və buraya daşa və çoxlu dəvəyə «جَلْمَدٌ» (cəlməd) deyilməsi daxildir. Şair daşlar haqqında demişdir: \nجَلامِيدُ أملاءُ الأكُفِّ كأنها … رُءُوسُ رِجالٍ حُلِّقت فى المواسِمِ (١)\n(Ovucuzu dolduran cəlamid - sərt daşlar, sanki bayram mövsümlərində qırxılmış kişi başlarıdır)\nBaşqa biri isə çoxlu dəvə (cəlməd) haqqında demişdir:\nأو مائَةٍ تُجْعَلُ أولادُها … لَغْوًا وعُرْضَ المائَةِ الجَلْمَدِ (٢)\n(Və ya yüz dəvə ki, balaları lağv edilsin və cəlməd yüzlüyün qırağına atılsın)\nBu da iki sözdən ibarətdir: جَلَد (cələd) - bərk yer, və جَمَد (cəməd) - quru yer; bunların izahı artıq keçmişdir.",
+ "az": "[جلمد]\nBu qəbildəndir: daşa və çoxlu dəvəyə (جَلْمَدٌ) deyilməsi. Şair daşlar haqqında demişdir:\nجَلامِيدُ أملاءُ الأكُفِّ كأنها … رُءُوسُ رِجالٍ حُلِّقت فى المواسِمِ (١)\n(Ovucları dolduran iri daşlar sanki həcc mövsümlərində qırxılmış kişi başlarıdır.)\nBaşqa bir şair isə (جَلْمَد) dəvələr haqqında demişdir:\nأو مائَةٍ تُجْعَلُ أولادُها … لَغْوًا وعُرْضَ المائَةِ الجَلْمَدِ (٢)\n(Və ya yüz dəvə ki, balaları hesaba qatılmır [artıq verilir], yüzlüyün özü isə bütöv, qüvvətli dəvələrdir.)\nBu da iki sözdəndir: bərk yer mənasını verən الجَلَد və quru yer mənasını verən [الجَمَدُ] sözlərindən; hər ikisinin izahı artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.216Z"
+ "ts": "2026-10-25T00:50:51.216Z",
+ "prev_az": "«جلمد» - Və buraya daşa və çoxlu dəvəyə «جَلْمَدٌ» (cəlməd) deyilməsi daxildir. Şair daşlar haqqında demişdir: \nجَلامِيدُ أملاءُ الأكُفِّ كأنها … رُءُوسُ رِجالٍ حُلِّقت فى المواسِمِ (١)\n(Ovucuzu dolduran cəlamid - sərt daşlar, sanki bayram mövsümlərində qırxılmış kişi başlarıdır)\nBaşqa biri isə çoxlu dəvə (cəlməd) haqqında demişdir:\nأو مائَةٍ تُجْعَلُ أولادُها … لَغْوًا وعُرْضَ المائَةِ الجَلْمَدِ (٢)\n(Və ya yüz dəvə ki, balaları lağv edilsin və cəlməd yüzlüyün qırağına atılsın)\nBu da iki sözdən ibarətdir: جَلَد (cələd) - bərk yer, və جَمَد (cəməd) - quru yer; bunların izahı artıq keçmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Birinci şeirin tərcüməsində «Ovucuzu» orfoqrafik səhvi vardır.",
+  "İkinci şeirin mənası tamamilə təhrif edilmişdir: «لغوا» sözü hesaba qatılmayan (sayılmayan əlavə dəvə balaları), «عرض المائة» isə bütöv yüzlüyün özü mənasındadır; «lağv edilsin və cəlməd yüzlüyün qırağına atılsın» uydurmadır."
+ ],
+ "review_ts": "2026-11-15T21:07:52.052Z"
 }

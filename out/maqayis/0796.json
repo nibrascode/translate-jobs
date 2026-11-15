@@ -11,7 +11,16 @@
   "page_to": 513
  },
  "ar": "(الجُعْشُم (١)): الصغير البَدَن القليلُ اللَّحْم.\nو",
- "az": "[جعشم] (الجُعْشُم): bədəni kiçik, əti az olan.",
+ "az": "[جعشم] (الجُعْشُم (١)): bədəni kiçik, əti az olan.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:52:48.508Z"
+ "ts": "2026-10-25T00:52:48.508Z",
+ "prev_az": "[جعشم] (الجُعْشُم): bədəni kiçik, əti az olan.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (١) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:08:16.306Z"
 }

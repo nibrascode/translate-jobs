@@ -11,7 +11,16 @@
   "page_to": 500
  },
  "ar": "الجيم والهمزة والفاء كلمةٌ واحدةٌ تدلّ على الفَزَع. وكأنَّ الفاء [بَدَلٌ] من الثَّاء، يقال جُئِف الرّجُل مثل جُئِث.",
- "az": "«جأف» — جيم, həmzə və fa qorxuya dəlalət edən tək bir kəlmədir. Elə bil fa hərfi sə hərfinin əvəzidir. Deyilir: «جُئِف الرّجُل» (cuifə ər-racül) — «جُئِث» (cuisə) kimi.",
+ "az": "[جأف]\nالجيم (cim), الهمزة (həmzə) və الفاء (fa) qorxuya dəlalət edən tək bir kəlmədir. Sanki fa hərfi sa hərfindən bədəldir (onun əvəzinə keçmişdir). جُئِث kimi جُئِف الرّجُل də deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:28.134Z"
+ "ts": "2026-10-25T00:50:28.134Z",
+ "prev_az": "«جأف» — جيم, həmzə və fa qorxuya dəlalət edən tək bir kəlmədir. Elə bil fa hərfi sə hərfinin əvəzidir. Deyilir: «جُئِف الرّجُل» (cuifə ər-racül) — «جُئِث» (cuisə) kimi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "ث hərfinin adı «sə» deyil, «sa» olmalıdır."
+ ],
+ "review_ts": "2026-11-15T21:06:03.929Z"
 }

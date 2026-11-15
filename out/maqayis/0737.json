@@ -11,7 +11,17 @@
   "page_to": 500
  },
  "ar": "الجيم والهمزة والزاء جنسٌ من الأدواء. قالوا: الجَأْز كهيئة الغَصَصِ الذى يأخذ فى الصَّدر * عِنْد الغيظ. يقال جَئزَ الرَّجُل.",
- "az": "«جأز» — جيم, həmzə və zay müxtəlif xəstəlik növüdür. Dedilər ki, «الجَأْز» (cəz) qəzəb zamanı sinəni bürüyən boğulma halına bənzəyir. Deyilir: «جَئزَ الرَّجُل» (cəizə ər-racül) — kişi (bu hala) düçar oldu.",
+ "az": "[جأز]\nالجيم (cim), الهمزة (həmzə) və الزاء (zey) xəstəliklərdən bir növdür. Dedilər ki, الجَأْز qəzəb anında sinəni bürüyən tıxanma/boğulma halı kimidir. Deyilir: جَئزَ الرَّجُل (kişi bu hala düşdü).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:28.134Z"
+ "ts": "2026-10-25T00:50:28.134Z",
+ "prev_az": "«جأز» — جيم, həmzə və zay müxtəlif xəstəlik növüdür. Dedilər ki, «الجَأْز» (cəz) qəzəb zamanı sinəni bürüyən boğulma halına bənzəyir. Deyilir: «جَئزَ الرَّجُل» (cəizə ər-racül) — kişi (bu hala) düçar oldu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "ز hərfinin adı «zay» deyil, «zey» olmalıdır.",
+  "«جنس من الأدواء» ifadəsi «müxtəlif xəstəlik növüdür» kimi yanlış tərcümə edilmişdir («xəstəliklərdən bir növdür» olmalıdır)."
+ ],
+ "review_ts": "2026-11-15T21:06:03.929Z"
 }

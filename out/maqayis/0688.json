@@ -11,9 +11,18 @@
   "page_to": 479
  },
  "ar": "الجيم والميم والسِّين أصلٌ واحد، من جُمُوس الشَّئ.\nيقال: جَمَس الوَدَك إذا جَمَدَ. والجمْسَة البُسْرَة إِذا أرْطَبَتْ وهى بعد صُلْبَة.",
- "az": "«جمس» — جيم، ميم və سين hərfləri şeyin donması mənasından tək bir kökdür. Deyirlər: جَمَسَ الوَدَكُ (piy dondur). وَالجَمْسَة (əl-cəmsə) — yetişməkdə olan və hələ bərk olan xurmadır.",
+ "az": "[جمس]\nCim, mim və sin hərfləri bir şeyin donması (جُمُوس الشَّئ) mənasından olan tək bir kökdür.\nDeyilir: جَمَس الوَدَك (piy dondu). الجمْسَة (əl-cəmsə) — yetişməkdə olan, lakin hələ bərk olan xurmadır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:48:50.350Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جمس» — جيم، ميم və سين hərfləri şeyin donması mənasından tək bir kökdür. Deyirlər: جَمَسَ الوَدَكُ (piy dondur). وَالجَمْسَة (əl-cəmsə) — yetişməkdə olan və hələ bərk olan xurmadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[جمس]» formatı ilə başlamır.",
+  "«جَمَسَ الوَدَكُ» ifadəsinin tərcüməsi «piy dondur» şəklində səhv yazılmışdır («piy dondu» olmalıdır)."
+ ],
+ "review_ts": "2026-11-15T21:04:06.610Z"
 }

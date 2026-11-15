@@ -11,7 +11,17 @@
   "page_to": 511
  },
  "ar": "ومن ذلك قولهم للجافى (جُنادِفٌ) فالنون فيه زائدة، والأصل الجَدْفُ وهو احتقار الشَّئ؛ يقال جَدَف بكذا أى احتقر، فكأن الجُنادِفَ المحتقر للأشياء، من جفائه.",
- "az": "«جندف» - Və buraya kobud adama «جُنادِفٌ» (cunadif) deyilməsi daxildir, nun hərfi orada artıqdır (zayiddir), əsli isə bir şeyi kiçik və həmkar hesab etmək mənasını verən الجَدْف (əl-cədf) sözüdür; «جَدَف بكذا» - yəni onu kiçik və dəyərsiz saydı, deməli, cunadif də kobudluğundan şeyləri kiçik və dəyərsiz hesab edəndir.",
+ "az": "[جندف] Və buraya kobud adama جُنادِفٌ deyilməsi daxildir; nun hərfi orada artıqdır, əsli isə bir şeyi həqir saymaq mənasını verən الجَدْفُ sözüdür; «جَدَف بكذا» – yəni onu həqir və dəyərsiz saydı, deməli, جُنادِفٌ da kobudluğundan şeyləri həqir sayandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.218Z"
+ "ts": "2026-10-25T00:50:51.218Z",
+ "prev_az": "«جندف» - Və buraya kobud adama «جُنادِفٌ» (cunadif) deyilməsi daxildir, nun hərfi orada artıqdır (zayiddir), əsli isə bir şeyi kiçik və həmkar hesab etmək mənasını verən الجَدْف (əl-cədf) sözüdür; «جَدَف بكذا» - yəni onu kiçik və dəyərsiz saydı, deməli, cunadif də kobudluğundan şeyləri kiçik və dəyərsiz hesab edəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» qaydasına uyğun deyil.",
+  "احتقار (həqir/dəyərsiz saymaq) sözü səhvən «həmkar» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T21:08:14.010Z"
 }

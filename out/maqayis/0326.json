@@ -11,9 +11,19 @@
   "page_to": 307
  },
  "ar": "الباء والهاء والتاء أصلٌ واحدٌ، وهو كالدَّهَش والحَيْرة.\nيقال بُهِتَ الرجل يُبْهَتُ بَهْتاً. والبَهْتَةُ الحَيرة. فأما البُهتان فالكذب. يقول العرب: يا لَلبَهيتة، أى يا لَلكذِب.",
- "az": "[بهت] (bəhət). Ba, hər və ta tək bir əsldir, o da heyrətə düşmək və çaşqınlıq kimidir.\nDeyilir: بُهِتَ الرَّcلُ يُبْهَتُ بَهْتاً (buhitəl-raculu yubhətu bəhtən). البَهْتَة (əl-bəhtə) – heyrətdir. Amma بُهتان (buhtan) – yalandır. Ərəblər deyir: يا لَلْبَهيتة (ya lil-bəhitə) – yəni vay yalanın halına!",
+ "az": "[بهت]\nBa, hə və ta tək bir əsldir, o da heyrət və çaşqınlıq kimidir.\nDeyilir: بُهِتَ الرجل يُبْهَتُ بَهْتاً (kişi heyrətə düşdü, çaşdı). البَهْتَةُ (əl-bəhtə) – heyrətdir. البُهتان (əl-buhtan) isə yalandır. Ərəblər deyir: يا لَلبَهيتة، أى يا لَلكذِب (nə böyük böhtandır, yəni nə böyük yalandır!).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:33:54.814Z",
- "review_attempts": 1,
- "review_last_error": "qısa (224 < 300)"
+ "review_last_error": "qısa (224 < 300)",
+ "prev_az": "[بهت] (bəhət). Ba, hər və ta tək bir əsldir, o da heyrətə düşmək və çaşqınlıq kimidir.\nDeyilir: بُهِتَ الرَّcلُ يُبْهَتُ بَهْتاً (buhitəl-raculu yubhətu bəhtən). البَهْتَة (əl-bəhtə) – heyrətdir. Amma بُهتان (buhtan) – yalandır. Ərəblər deyir: يا لَلْبَهيتة (ya lil-bəhitə) – yəni vay yalanın halına!",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«hə» hərfinin adı səhvən «hər» kimi yazılmışdır.",
+  "«الرَّcلُ» sözündə latın hərfi qarışaraq mətn pozulmuşdur.",
+  "«بُهِتَ الرجل يُبْهَتُ بَهْتاً» ifadəsinin mənası verilməmişdir."
+ ],
+ "review_ts": "2026-11-15T21:02:01.028Z"
 }

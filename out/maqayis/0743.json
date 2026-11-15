@@ -13,5 +13,7 @@
  "ar": "الجيم والباء والسين كلمةٌ واحدة: الجِبْس، وهو اللئيم، ويقال الجَبَان.",
  "az": "«جبس» — جيم, ba və sin tək bir kəlmədir: «الجِبْس» (cibs) — alçaq adamdır, həmçinin qorxaq mənasında da deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:28.134Z"
+ "ts": "2026-10-25T00:50:28.134Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

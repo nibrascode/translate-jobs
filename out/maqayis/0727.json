@@ -13,5 +13,10 @@
  "ar": "الجيم والياء والباء أصلٌ يجوز أن يكون من باب الإِبدال.\nفالجَيْبُ جَيب القميص. يقال جِبْتُ القميص قوّرت جَيْبه، وجَيَّبْتُه جعلت له جَيباً.\nوهذا يدلُّ أنّ أصله واو، وهو بمعنى خَرقْت (١). وقد مضى ذكره.",
  "az": "[جيب] — الجيم (Cim), الياء (Ya) və الباء (Ba) – əvəzetmə (ibdal) babından olması caiz olan bir əslə qayıdır. وَالجَيْب (əl-Ceyb) — köynəyin yaxasıdır. Deyilir: جِبْتُ القميص (Köynəyin yaxasını qırxdım, kəsdim), və جَيَّبْتُه (Ona yaxa düzəltdim). Bu, onun əslinin vav olduğunu göstərir və mənası «cırtdım» deməkdir (١). Bunun izahı artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:03.100Z"
+ "ts": "2026-10-25T00:50:03.100Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T21:05:43.382Z"
 }

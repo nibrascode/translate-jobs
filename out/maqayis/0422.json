@@ -11,9 +11,18 @@
   "page_to": 341
  },
  "ar": "التاء والباء كلمةٌ واحدة، وهى التّباب، وهو الخُسْران. وتبًّا للكافر، أى هلاكاً له. وقال اللّه تعالى: ﴿وَما زادُوهُمْ غَيْرَ تَتْبِيبٍ﴾ أى تخسير.\nوقد جاءت فى مقابلتهما كلمةٌ، يقولون استَتَبَّ الأمر إذا تهيّأَ. فإِن كانت صحيحةً فاللباب إذاً وجهان: الخُسْران، والاستِقامة.",
- "az": "«تبب» (t-b-b): Tə və ba bir kəlmədir, o da التّباب (əttəbab), yəni ziyan deməkdir. Və تبًّا للكافر (təbbən lil-kafir): kafirə lənət olsun, yəni həlak olsun. Və Allah-Təala demişdir: ﴿وَما زادُوهُمْ غَيْرَ تَتْبِيبٍ﴾ (və ma zaduhum ğayrə tə-tbibin - mənaca tərcümə: Onların ziyanını artırmaqdan başqa bir şeyə səbəb olmadılar).\nVə onların qarşılığında başqa bir kəlmə də gəlmişdir, deyirlər: استَتَبَّ الأمر (istətəbbəl-əmr) — iş qaydaya düşüb hazırlıq gördükdə. Əgər bu səhihdirsə, deməli ləbab iki cəhətlidir: ziyan və düzgünlük.",
+ "az": "[تبب]\nTa və ba bir kəlmədir, o da التّباب (ət-təbab), yəni ziyan deməkdir. وتبًّا للكافر (təbbən lil-kafir), yəni ona həlak olsun. Allah-Təala demişdir: ﴿وَما زادُوهُمْ غَيْرَ تَتْبِيبٍ﴾ (mənaca tərcümə: Onların ziyanını artırmaqdan başqa bir şey etmədilər), yəni ziyana salmaq (تخسير).\nOnların qarşılığında başqa bir kəlmə də gəlmişdir; deyirlər: استَتَبَّ الأمر (istətəbbəl-əmr) — iş qaydaya düşüb hazır olduqda. Əgər bu səhihdirsə, deməli ləbab iki cəhətlidir: ziyan və düzgünlük.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:37:44.115Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«تبب» (t-b-b): Tə və ba bir kəlmədir, o da التّباب (əttəbab), yəni ziyan deməkdir. Və تبًّا للكافر (təbbən lil-kafir): kafirə lənət olsun, yəni həlak olsun. Və Allah-Təala demişdir: ﴿وَما زادُوهُمْ غَيْرَ تَتْبِيبٍ﴾ (və ma zaduhum ğayrə tə-tbibin - mənaca tərcümə: Onların ziyanını artırmaqdan başqa bir şeyə səbəb olmadılar).\nVə onların qarşılığında başqa bir kəlmə də gəlmişdir, deyirlər: استَتَبَّ الأمر (istətəbbəl-əmr) — iş qaydaya düşüb hazırlıq gördükdə. Əgər bu səhihdirsə, deməli ləbab iki cəhətlidir: ziyan və düzgünlük.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«تَبًّا للكافر» ifadəsi səhvən «kafirə lənət olsun» kimi tərcümə edilmişdir.",
+  "Quran ayəsindən sonra gələn «أى تخسير» hissəsi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:02:01.028Z"
 }

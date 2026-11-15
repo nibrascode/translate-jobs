@@ -13,5 +13,10 @@
  "ar": "و (المجْلَخِدّ): المستلقِى.",
  "az": "[جلخد] (المجْلَخِدّ): arxası üstə uzanmış kəs.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:52:48.508Z"
+ "ts": "2026-10-25T00:52:48.508Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T21:08:16.306Z"
 }

@@ -13,5 +13,7 @@
  "ar": "ومن ذلك قولهم للحادِرِ (١) السمين (جَحْدَلٌ) فممكن أن يقال إن الدال زائدةٌ، وهو من السِّقاء الجَحْل، وهو العظيم، ومن قولهم مَجدُول الخَلْق، وقد مضى.",
  "az": "«جحدل» - Və buraya şişkin və kök adama «جَحْدَلٌ» (cəhdəl) deyilməsi daxildir. Demək olar ki, dal hərfi artıqdır (zayiddir), bu söz böyük tuluq mənasını verən الجَحْل (əl-cəhl) sözündəndir və onların مَجدُول الخَلْق (məcdul əl-xalq) - bədəni möhkəm quruluşlu demələrindən alınmışdır ki, bu da artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.217Z"
+ "ts": "2026-10-25T00:50:51.217Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

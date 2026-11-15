@@ -11,7 +11,16 @@
   "page_to": 513
  },
  "ar": "و (جَحْمظْت) الغلامَ، إذا شددتَ يديه إلى رجليه وطرحته (٢).\nو",
- "az": "[جحمظ] (جَحْمظْت) oğlanı, yəni əllərini ayaqlarına bağlayıb onu yerə atdın.",
+ "az": "[جحمظ] (جَحْمظْت (٢)) oğlanı, yəni əllərini ayaqlarına bağlayıb onu yerə atdın.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:52:48.508Z"
+ "ts": "2026-10-25T00:52:48.508Z",
+ "prev_az": "[جحمظ] (جَحْمظْت) oğlanı, yəni əllərini ayaqlarına bağlayıb onu yerə atdın.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (٢) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:08:16.306Z"
 }

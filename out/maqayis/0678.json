@@ -11,9 +11,19 @@
   "page_to": 474
  },
  "ar": "الجيم واللام والعين أصلٌ واحد، وهو قريبٌ من الذى قبله.\nيقال للمرأة القليلة الحياء جَلِعَة، كأنها كشفَتْ قِناع الحياء. ويقال جَلِعَ فمُ فلانٍ، إذا تقلَّصَتْ شفتُه وظهرتْ أسنانُه.\nقال الخليل: المُجالَعة تنازُعُ القومِ عند شُرْبٍ أو قسمةٍ. قال:\n* ولا فاحش عند الشَّرابِ مجالع (٤) *",
- "az": "«جلع» — جيم، لام və عَيْن hərfləri tək bir kökdür və əvvəlki kökə yaxındır. Həyası az olan qadına جَلِعَة (cəlicə) deyilir, sanki o, həya örtüyünü qaldırmışdır. Deyirlər: جَلِعَ فمُ فلانٍ (filankəsin ağzı çəkildi) — dodağı qısılıb dişləri göründüyü zaman. Xəlil demişdir: المُجالَعَة (mücaləcə) — qardaşların (və ya tayfanın) içki və ya bölgü zamanı mübahisə etməsidir. O demişdir: «ولا فاحş عند الشَّراب مجالع» (İçki məclisində nalayiq danışan və mübahisə edən yoxdur).",
+ "az": "[جلع]\nجيم (cim), لام (lam) və عَيْن (ayn) hərfləri tək bir kökdür və əvvəlki kökə yaxındır.\nHəyası az olan qadına جَلِعَة (cəliə) deyilir, sanki o, həya örtüyünü qaldırmışdır. Deyirlər: جَلِعَ فمُ فلانٍ (filankəsin ağzı açıldı) — dodağı qısılıb dişləri göründüyü zaman.\nXəlil demişdir: المُجالَعة (mücaləə) — qövmün içki və ya bölgü zamanı mübahisə etməsidir. O demişdir:\n* ولا فاحش عند الشَّرابِ مجالع (٤) * (İçki məclisində nalayiq danışan və mübahisə edən yoxdur).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:48:50.349Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جلع» — جيم، لام və عَيْن hərfləri tək bir kökdür və əvvəlki kökə yaxındır. Həyası az olan qadına جَلِعَة (cəlicə) deyilir, sanki o, həya örtüyünü qaldırmışdır. Deyirlər: جَلِعَ فمُ فلانٍ (filankəsin ağzı çəkildi) — dodağı qısılıb dişləri göründüyü zaman. Xəlil demişdir: المُجالَعَة (mücaləcə) — qardaşların (və ya tayfanın) içki və ya bölgü zamanı mübahisə etməsidir. O demişdir: «ولا فاحş عند الشَّراب مجالع» (İçki məclisində nalayiq danışan və mübahisə edən yoxdur).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub ([جلع] əvəzinə «جلع» yazılıb).",
+  "Ərəbcə sitatda latın hərfi qarışıb (فاحش əvəzinə فاحş yazılıb) və القومِ sözü «qardaşların» kimi səhv tərcümə edilib.",
+  "Haşiyə rəqəmi və abzas bölgüsü qorunmayıb."
+ ],
+ "review_ts": "2026-11-15T21:03:21.908Z"
 }

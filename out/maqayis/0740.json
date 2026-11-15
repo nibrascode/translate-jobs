@@ -11,7 +11,16 @@
   "page_to": 501
  },
  "ar": "الجيم والباء والذال ليس أصلاً؛ لأنّه كلمةٌ واحدةٌ مقلوبة، يقال جَبَذْت الشّيء بمعنى جَذَبْتُه.",
- "az": "«جبذ» — جيم, ba və zal əsl deyildir; çünki o, tərş̧evrilmiş tək bir kəlmədir. Deyilir: «جَبَذْت الشّيء» (cəbəztü əş-şəyə) — «جَذَبْتُه» (cəzəbtühu - onu çəkdim) mənasında.",
+ "az": "[جبذ]\nالجيم (cim), الباء (ba) və الذال (zal) əsl deyildir; çünki o, [hərflərinin yeri] dəyişdirilmiş tək bir kəlmədir. جَذَبْتُه (onu çəkdim) mənasında جَبَذْت الشّيء deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:28.134Z"
+ "ts": "2026-10-25T00:50:28.134Z",
+ "prev_az": "«جبذ» — جيم, ba və zal əsl deyildir; çünki o, tərş̧evrilmiş tək bir kəlmədir. Deyilir: «جَبَذْت الشّيء» (cəbəztü əş-şəyə) — «جَذَبْتُه» (cəzəbtühu - onu çəkdim) mənasında.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«tərş̧evrilmiş» sözündə pozulmuş simvol xətası vardır."
+ ],
+ "review_ts": "2026-11-15T21:06:03.929Z"
 }

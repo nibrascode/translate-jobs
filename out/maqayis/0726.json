@@ -11,7 +11,17 @@
   "page_to": 497
  },
  "ar": "الجيم والياء والهمزة كلمتان من غير قياسٍ بينهما. يقال جاء يجيء مجيئاً. ويقال جاءانِى (٣) فجِئْتُه، أى غالبنى بكثْرة المجئ [فغلبته (٤)].\nوالجَيْئَة: مصدر جاء (٥). والجِئَةُ: مجتمع الماء حَوَالَى الحِصْنِ وغيره. ويقال هى جيئة بالكسر والتثقيل.",
- "az": "[جيأ] — الجيم (Cim), الياء (Ya) və الحَمزة (Həmzə) – aralarında heç bir qiyas (müqayisə) olmayan iki kəlmədir. Deyilir: جاء يجيء مجيئاً (Gəldi, gəlir, gəlmək). Deyilir: جاءانِى فجِئْتُه (O mənə gəldi, mən də ona gəldim), yəni o, gəlişinin çoxluğu ilə məni üstələməyə çalışdı [və mən də onu üstələdim (٤)]. وَالجَيْئَة (əl-Ceyə) — «caə» feilinin məsdəri (٥). وَالجِئَة (əl-Ciyə) — qalanın və digər tikililərin ətrafında toplanan su. Deyilir ki, o, kəsrə ilə və təşdidlə جيئة (ciyə) oxunur.",
+ "az": "[جيأ] — الجيم (Cim), الياء (Ya) və الهمزة (Həmzə) aralarında heç bir qiyas (əlaqə) olmayan iki kəlmədir. Deyilir: جاء يجيء مجيئاً (gəldi, gəlir, gəlmək). Həmçinin جاءانِى (٣) فجِئْتُه deyilir, yəni: «o, gəlişinin çoxluğu ilə məni üstələməyə çalışdı, mən də onu üstələdim (٤)».\nالجَيْئَة (əl-cəy'ə) — جاء felinin məsdəridir (٥). الجِئَةُ (əl-ci'ə) isə qalanın və başqa yerlərin ətrafında toplanan sudur. Həmçinin onun kəsrə və təşdidlə جِيئَة olduğu da deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:03.100Z"
+ "ts": "2026-10-25T00:50:03.100Z",
+ "prev_az": "[جيأ] — الجيم (Cim), الياء (Ya) və الحَمزة (Həmzə) – aralarında heç bir qiyas (müqayisə) olmayan iki kəlmədir. Deyilir: جاء يجيء مجيئاً (Gəldi, gəlir, gəlmək). Deyilir: جاءانِى فجِئْتُه (O mənə gəldi, mən də ona gəldim), yəni o, gəlişinin çoxluğu ilə məni üstələməyə çalışdı [və mən də onu üstələdim (٤)]. وَالجَيْئَة (əl-Ceyə) — «caə» feilinin məsdəri (٥). وَالجِئَة (əl-Ciyə) — qalanın və digər tikililərin ətrafında toplanan su. Deyilir ki, o, kəsrə ilə və təşdidlə جيئة (ciyə) oxunur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı səhvən «الحَمزة» yazılmışdır (doğrusu: الهمزة).",
+  "«جاءانِى فجِئْتُه» ifadəsi səhv tərcümə olunaraq «O mənə gəldi, mən də ona gəldim» yazılmışdır (doğrusu: o gəlişinin çoxluğu ilə mənimlə yarışdı, mən də onu üstələdim)."
+ ],
+ "review_ts": "2026-11-15T21:05:43.382Z"
 }

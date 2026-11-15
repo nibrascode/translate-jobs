@@ -11,9 +11,18 @@
   "page_to": 370
  },
  "ar": "الثاء والباء كلمةٌ ليست فى الكتابين (٥)، وإن صحَّت فهى تدلُّ على تناهِى الشئ. يقال ثَبَّ الأمْرُ إذا تمَّ. ويقال إنَّ الثَّابَّة المرأةُ الهَرمة، ويقولون: أشَابّةٌ أم ثَابّة؟",
- "az": "«ثبب»: الثاء və Ba iki kitabda (Lüğətlərdə) mövcud olmayan bir kəlimədir (٥), əgər səhihdirsə, o, bir şeyin sona çatmasına dəlalət edir. Deyilir: ثَبَّ الأمْرُ — iş tamamlandıqda. Deyilir ki, (الثَّابَّة) — qoca qadındır, və deyirlər: (أشَابّةٌ أم ثَابّة؟) (O, gənc qızdır, yoxsa qoca?).",
+ "az": "[ثبب]\nSa və ba iki kitabda (lüğətlərdə) mövcud olmayan bir kəlmədir (٥), əgər səhihdirsə, o, bir şeyin sona çatmasına dəlalət edir. Deyilir: ثَبَّ الأمْرُ (iş tamamlandıqda). Deyilir ki, الثَّابَّة (qoca qadındır) və deyirlər: أشَابّةٌ أم ثَابّة؟ (O, gənc qızdır, yoxsa qoca?).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:39:16.273Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثبب»: الثاء və Ba iki kitabda (Lüğətlərdə) mövcud olmayan bir kəlimədir (٥), əgər səhihdirsə, o, bir şeyin sona çatmasına dəlalət edir. Deyilir: ثَبَّ الأمْرُ — iş tamamlandıqda. Deyilir ki, (الثَّابَّة) — qoca qadındır, və deyirlər: (أشَابّةٌ أم ثَابّة؟) (O, gənc qızdır, yoxsa qoca?).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [ثبب] formatında deyil, sa hərf adı ərəb qrafikası ilə saxlanılıb.",
+  "«kəlimə» orfoqrafiya səhvi var və «ثَبَّ الأمْرُ» ifadəsinin məna izahı mötərizədə verilməyib."
+ ],
+ "review_ts": "2026-11-15T21:02:32.921Z"
 }

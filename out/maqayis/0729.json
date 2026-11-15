@@ -11,7 +11,18 @@
   "page_to": 498
  },
  "ar": "الجيم والياء والراء كلمةٌ واحدة. جَيْرِ بمعنى حَقًّا. قال:\nوقالت قد أَسِيتَ فقلتُ جَيْرٍ … أَسِىٌّ إِنَّه من ذاكِ إنَّهُ (٤)\nفأمَّا الجَبّار، وهو الصباروج، فكلمة مُعرَّبة. قال الأعشى:\n* بطين وجَيّارٍ وكِلْسٍ وقَرْمَدِ (٥) *\nوأما الجائر فَمَا يجدُه الإنسانُ فى صدره من حرارةِ غيظٍ أو حزن؛ فهو من باب الواو، وقد مضى ذكره.",
- "az": "[جير] — الجيم (Cim), الياء (Ya) və الرا (Ra) tək bir kəlmədir. جَيْرِ (Ceyri) — həqiqətən deməkdir. [Şair] demişdir: وقالت قد أَسِيتَ فقلتُ جَيْرٍ … أَسِىٌّ إِنَّه من ذاكِ إنَّهُ (٤) (O dedi: «Qəm etmisən». Dedim: «Həqiqətən qəm etmişəm, bu, məhz eləandandır»). Söndürülməmiş əhəng (sabbaruc) mənasını verən əl-Cəbbar sözünə gəldikdə isə, bu, əcnəbi kəlmədir. Aşa demişdir: * بطين وجَيّارٍ وكِلْسٍ وقَرْمَدِ (٥) * (Batil, cəyyar, əhəng və kərpiclə). İnsanın sinəsində tapdığı qəzəb və ya kədər hərarətinə gəldikdə isə; o, vav babındandır və artıq zikr olunmuşdur.",
+ "az": "[جير] — الجيم (Cim), الياء (Ya) və الراء (Ra) tək bir kəlmədir. جَيْرِ «həqiqətən» (حَقًّا) mənasındadır. [Şair] demişdir:\nوقالت قد أَسِيتَ فقلتُ جَيْرٍ … أَسِىٌّ إِنَّه من ذاكِ إنَّهُ (٤)\n(O dedi: «Sən kədərlənmisən». Mən dedim: «Bəli, həqiqətən də kədərliyəm, o iş məhz ondandır, ondandır»).\nƏhəng (الصباروج) mənasında olan الجَبّار (və ya الجَيّار) sözünə gəldikdə isə, o ərəbləşmiş (muərrəb) bir kəlmədir. Əl-Əşa demişdir:\n* بطين وجَيّارٍ وكِلْسٍ وقَرْمَدِ (٥) *\n(*Gil/palçıq, cəyyar (əhəng), gəc və bişmiş kərpiclə*).\nالجائر sözünə gəldikdə isə, o, insanın qəzəb və ya kədər hərarətindən sinəsində hiss etdiyi şeydir; o, vav babındandır və zikri artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:03.101Z"
+ "ts": "2026-10-25T00:50:03.101Z",
+ "prev_az": "[جير] — الجيم (Cim), الياء (Ya) və الرا (Ra) tək bir kəlmədir. جَيْرِ (Ceyri) — həqiqətən deməkdir. [Şair] demişdir: وقالت قد أَسِيتَ فقلتُ جَيْرٍ … أَسِىٌّ إِنَّه من ذاكِ إنَّهُ (٤) (O dedi: «Qəm etmisən». Dedim: «Həqiqətən qəm etmişəm, bu, məhz eləandandır»). Söndürülməmiş əhəng (sabbaruc) mənasını verən əl-Cəbbar sözünə gəldikdə isə, bu, əcnəbi kəlmədir. Aşa demişdir: * بطين وجَيّارٍ وكِلْسٍ وقَرْمَدِ (٥) * (Batil, cəyyar, əhəng və kərpiclə). İnsanın sinəsində tapdığı qəzəb və ya kədər hərarətinə gəldikdə isə; o, vav babındandır və artıq zikr olunmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirdəki «بطين» (palçıqla/gillə) sözü tərcümədə kobud şəkildə «Batil» kimi tərcümə edilmişdir.",
+  "Son cümlədə izah edilən «الجائر» sözü mətndən buraxılmışdır.",
+  "«الرا» əvəzinə «الراء (Ra)» yazılmalıdır və «eləandandır» orfoqrafik xətası mövcuddur."
+ ],
+ "review_ts": "2026-11-15T21:05:43.382Z"
 }

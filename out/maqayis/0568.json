@@ -11,9 +11,21 @@
   "page_to": 403
  },
  "ar": "(الثَّعْلَب): مَخْرج الماء من الجَرِين (٢). فهذا مأخوذٌ من ثَعَب، اللام فيه زائدة.\nفأمَّا ثَعْلبُ الرُّمح فهو منحوتٌ من الثَّعْب ومن العَلْب. وهو فى خِلقته يشبه المَثْعَب، وهو معلوبٌ، وقد فسر العَلْب فى بابه. ووجهٌ آخر أنْ يكون من العَلْب ومن الثَّلِب (٣)، وهو الرّمح الخوّار، وذلك الطَّرَف دقيقٌ فهو ثَلِبٌ.",
- "az": "«ثعب»\n(الثَّعْلَب): Axurdan suyun çıxış yeri (2). Bu, «səəb» sözündən götürülmüşdür, buradakı lam hərfi artıqdır.\nNizənin «ثَعْلَبُ الرُّمح» (sə`ləb ət-rumh) sözünə gəldikdə isə, o, «əs-sə`b» və «əl-əlb» sözlərindən qondarılmadır. O, yaradılış etibarilə su axınına (məsbə) bənzəyir və «mə`lub»dur (olunmuşdur), «əl-əlb» öz babında izah edilmişdir. Digər bir tərəfdən isə o, «əl-əlb» və zəif nizə mənasını verən «əs-səlib» (3) sözündən ola bilər; həmin uclıq incədir, deməli o, səlibdir.",
+ "az": "[ثعب]\n(الثَّعْلَب): Xırmandan suyun çıxış yeri (٢). Bu, ثَعَب (səəb) sözündən götürülmüşdür, buradakı lam hərfi artıqdır.\nNizənin ثَعْلبُ الرُّمح (sə‘ləb ər-rumh) hissəsinə gəldikdə isə, o, الثَّعْب (əs-sə‘b) və العَلْب (əl-əlb) sözlərindən nəht edilmişdir (düzəldilmişdir). O, quruluşu etibarilə المَثْعَب (məs‘əb - su axını) kimidir və معلوب (mə‘lub - cızılmış) haldadır; العَلْب (əl-əlb) öz babında izah edilmişdir. Digər bir tərəfdən isə o, العَلْب (əl-əlb) və zəif nizə mənasını verən الثَّلِب (əs-səlib) (٣) sözündən ola bilər; həmin ucluq incədir, deməli o, ثَلِب (səlib)dir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:43:21.035Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثعب»\n(الثَّعْلَب): Axurdan suyun çıxış yeri (2). Bu, «səəb» sözündən götürülmüşdür, buradakı lam hərfi artıqdır.\nNizənin «ثَعْلَبُ الرُّمح» (sə`ləb ət-rumh) sözünə gəldikdə isə, o, «əs-sə`b» və «əl-əlb» sözlərindən qondarılmadır. O, yaradılış etibarilə su axınına (məsbə) bənzəyir və «mə`lub»dur (olunmuşdur), «əl-əlb» öz babında izah edilmişdir. Digər bir tərəfdən isə o, «əl-əlb» və zəif nizə mənasını verən «əs-səlib» (3) sözündən ola bilər; həmin uclıq incədir, deməli o, səlibdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı «[ثعب]» formatında verilməyib.",
+  "«الجَرِين» (xırman) sözü «axur» kimi səhv tərcümə edilib.",
+  "«خِلقته» sözünün tərcüməsində qadağan olunmuş «yarat-» kökündən «yaradılış» sözü işlədilib.",
+  "«معْلوب» sözünün izahı kimi mötərizədə mənasız «(olunmuşdur)» ifadəsi yazılıb və «المَثْعَب» sözünün oxunuşu «məsbə» kimi təhrif edilib.",
+  "Haşiyə rəqəmləri ərəb rəqəmləri (٢, ٣) ilə deyil, latın rəqəmləri ilə verilib."
+ ],
+ "review_ts": "2026-11-15T21:02:48.890Z"
 }

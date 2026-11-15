@@ -11,9 +11,18 @@
   "page_to": 346
  },
  "ar": "التاء والراء والهاءُ كلمة ليست بأصلٍ متفرَّعٍ منه. قالوا:\nالتُّرَّهاتُ، والتُّرَّهُ الأباطيل من الأمور. قال رُؤبة:\nوحَقَّةٍ ليستْ بقَوْلِ التُّرَّهِ (٣) *\nقالوا: والواحد تُرَّهَة. قال: وجَمعَها أناسٌ على التَّرَارِيهِ. قال:\nرُدُّوا بَنِى الأعْرَجِ إِبْلى مِنْ كَثَبْ … قَبْلَ الترارِيهِ وبُعْدِ المُطَّلَبْ (٤)",
- "az": "[تره] (tə-rə-h). Ta, ra və ha kəlməsi törəmə əsəri olmayan bir sözdür. Dedilər: التُّرَّهات (ət-türrəhat) və التُّرَّهُ (ət-türrəh) — işlərin batil, əsassız tərəfləridir. Rübə demişdir: And olsun o haqqa ki, türrəhin sözü deyil (3). Dedilər: Tək forması تُرَّهَة (türrətün)dür. Dedilər: Bəzi insanlar onu تَرَارِيهِ (tərarih) formasında cəmləşdirmişlər. [Şair] demişdir: Bəni əl-Ərəcin dəvələrimi yaxından geri qaytarın... Tərarih gəlməmişdən və tələb olunan uzaqlaşmamışdan əvvəl (4).",
+ "az": "[تره]\nTa, ra və hə ondan şaxələnən (törəyən) bir əsl olmayan kəlmədir. Dedilər:\nالتُّرَّهاتُ (ət-türrəhat) və التُّرَّهُ (ət-türrəh) — işlərin batil, əsassız olanlarıdır. Rubə demişdir:\nوحَقَّةٍ ليستْ بقَوْلِ التُّرَّهِ (٣) *\n(And olsun o haqq sözə ki, əsassız söz deyil)\nDedilər: Tək forması تُرَّهَة (türrəhətün)dür. Dedi: Bəzi insanlar onu التَّرَارِيهِ (ət-tərarih) formasında cəmləmişlər. Dedi:\nرُدُّوا بَنِى الأعْرَجِ إِبْلى مِنْ كَثَبْ … قَبْلَ الترارِيهِ وبُعْدِ المُطَّلَبْ (٤)\n(Ey Bəni əl-Ərəc, əsassız bəhanələrdən və axtarışın uzaqlaşmasından əvvəl dəvələrimi yaxından geri qaytarın)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:38:05.804Z",
- "review_attempts": 1,
- "review_last_error": "kiril hərfi"
+ "review_last_error": "kiril hərfi",
+ "prev_az": "[تره] (tə-rə-h). Ta, ra və ha kəlməsi törəmə əsəri olmayan bir sözdür. Dedilər: التُّرَّهات (ət-türrəhat) və التُّرَّهُ (ət-türrəh) — işlərin batil, əsassız tərəfləridir. Rübə demişdir: And olsun o haqqa ki, türrəhin sözü deyil (3). Dedilər: Tək forması تُرَّهَة (türrətün)dür. Dedilər: Bəzi insanlar onu تَرَارِيهِ (tərarih) formasında cəmləşdirmişlər. [Şair] demişdir: Bəni əl-Ərəcin dəvələrimi yaxından geri qaytarın... Tərarih gəlməmişdən və tələb olunan uzaqlaşmamışdan əvvəl (4).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytlərinin ərəbcə mətni tamamilə buraxılmışdır.",
+  "«بَنِى الأعْرَجِ» xitab ifadəsi səhvən yiyəlik halında («Bəni əl-Ərəcin dəvələrimi») tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T21:02:01.029Z"
 }

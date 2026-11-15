@@ -11,9 +11,18 @@
   "page_to": 372
  },
  "ar": "الثاء والجيم والميم ليس أصلاً، وهو دوام المطر أيّاما. يقال أثجَمَتِ السماءُ إذا دامَتْ أياماً لا تُقْلِع. وأُرَى الثاء مقلوبةً عن سين، إلا أنَّها إذا أُبدلت ثاءَ جعلت من باب أفعل. وهاهنا كلمةٌ أخرى واللّهُ أعلَمُ بصحَّتها. قالوا:\nالثجْم سرْعة الصَّرْف عن الشئ. واللّه أعلم.",
- "az": "«ثجم»: الثاء, Cim və Mim əsl deyildir, o da yağışın günlərlə davam etməsidir. Deyilir: أثجَمَتِ السماءُ — səma günlərlə kəsilmədən yağış yağdırdığı zaman. Mən hesab edirəm ki, ثاء hərfi sin hərfini əvəz etmişdir, lakin əgər o, ثاء ilə əvəz olunubsa, onu (أفعل) babından etmişlər. Və burada başqa bir kəlimə də var, Allah onun səhihliyini daha yaxşı bilir. Deyirlər: (الثجْم) — bir şeydən tez dönməkdir. Allah daha yaxşı bilir.",
+ "az": "[ثجم]\nSa, cim və mim əsl deyildir, o, yağışın günlərlə davam etməsidir. Deyilir: أثجَمَتِ السماءُ (səma günlərlə kəsilmədən yağış yağdırdı) — günlərlə açılmadan davam etdikdə. Mən hesab edirəm ki, sa hərfi sin hərfindən çevrilmişdir, lakin o, sa ilə əvəz olunduqda onu أفعل (əf'al) babından etmişlər. Burada başqa bir kəlmə də var, Allah onun səhihliyini daha yaxşı bilir. Deyirlər:\nالثجْم (bir şeydən tez dönmək) — bir şeydən tez üz döndərməkdir. Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:39:16.273Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثجم»: الثاء, Cim və Mim əsl deyildir, o da yağışın günlərlə davam etməsidir. Deyilir: أثجَمَتِ السماءُ — səma günlərlə kəsilmədən yağış yağdırdığı zaman. Mən hesab edirəm ki, ثاء hərfi sin hərfini əvəz etmişdir, lakin əgər o, ثاء ilə əvəz olunubsa, onu (أفعل) babından etmişlər. Və burada başqa bir kəlimə də var, Allah onun səhihliyini daha yaxşı bilir. Deyirlər: (الثجْم) — bir şeydən tez dönməkdir. Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [ثجم] formatında deyil, sa hərf adı ərəb qrafikası ilə saxlanılıb.",
+  "«kəlimə» orfoqrafiya səhvi var və «مقلوبةً عن سين» (sin hərfindən çevrilmişdir) ifadəsi dəqiq verilməyib."
+ ],
+ "review_ts": "2026-11-15T21:02:32.921Z"
 }

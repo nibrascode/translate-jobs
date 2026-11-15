@@ -11,7 +11,17 @@
   "page_to": 513
  },
  "ar": "يقال (اجْلَخَمَّ) القومُ، إذا استكبَرُوا. قال:\n* نَضْرِبُ جَمْعَيْهِمْ إذا اجْلَخَمُّوا (٤) *\nو",
- "az": "[جلخم] Deyilir ki, (اجْلَخَمَّ) tayfa, yəni təkəbbür göstərdilər. Şair deyir: * nəzribu cəməyhim iza cləxəmmü * (Onlar təkəbbür göstərdikdə biz onların hər iki dəstəsini vururuq).",
+ "az": "[جلخم] Deyilir ki, (اجْلَخَمَّ) tayfa, yəni təkəbbür göstərdilər. Şair deyir: * نَضْرِبُ جَمْعَيْهِمْ إذا اجْلَخَمُّوا (٤) * (Onlar təkəbbür göstərdikdə biz onların hər iki dəstəsini vururuq).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:52:48.508Z"
+ "ts": "2026-10-25T00:52:48.508Z",
+ "prev_az": "[جلخم] Deyilir ki, (اجْلَخَمَّ) tayfa, yəni təkəbbür göstərdilər. Şair deyir: * nəzribu cəməyhim iza cləxəmmü * (Onlar təkəbbür göstərdikdə biz onların hər iki dəstəsini vururuq).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə şeir mətni ərəb qrafikası ilə saxlanılmayıb, latın transkripsiyası ilə verilib.",
+  "Haşiyə rəqəmi (٤) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:08:16.306Z"
 }

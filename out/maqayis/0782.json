@@ -11,7 +11,17 @@
   "page_to": 511
  },
  "ar": "ومن ذلك قولهم للقاعد (مُجْذَئِرٌّ) فهذا مِنْ جذَا: إذا قَعَد على أطراف قدمَيه. قال:\n* وصَنّاجةٌ تَجْذُو على حَدِّ مَنْسِمِ (١) *\nومن الذَّئر (٢) وهو الغَضْبان النّاشز. فالكلمة منحوتة من كلمتين.",
- "az": "«جذأر» - Və buraya oturmuş adama «مُجْذَئِرٌّ» (muczə'ir) deyilməsi daxildir. Bu, ayaqlarının ucu üstə oturduğu zaman işlədilən جَذَا (cəza) sözündəndir. Şair demişdir:\n* وصَنّاجةٌ تَجْذُو على حَدِّ مَنْسِمِ (١)\n(Və dırnağın kənarında oturan rəqqasə...)\nVə hirslənib dikələn mənasını verən الذَّئْر (əz-zə'ir) sözündəndir. Deməli, söz iki sözdən nəht edilmişdir (birləşdirilib düzəldilmişdir).",
+ "az": "[جذأر] Və buraya oturmuş adama المُجْذَئِرٌّ (dabanları üstə oturan) deyilməsi daxildir. Bu, ayaqlarının ucu üstə oturduğu zaman işlədilən جَذَا (ayaq ucları üstə oturmaq) sözündəndir. Şair demişdir:\n* وصَنّاجةٌ تَجْذُو على حَدِّ مَنْسِمِ (١) *\n(Və dırnağın kənarında oturan rəqqasə...)\nVə hirslənib dikələn mənasını verən الذَّئْر (٢) sözündəndir. Deməli, söz iki sözdən nəht edilmişdir (birləşdirilib düzəldilmişdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.218Z"
+ "ts": "2026-10-25T00:50:51.218Z",
+ "prev_az": "«جذأر» - Və buraya oturmuş adama «مُجْذَئِرٌّ» (muczə'ir) deyilməsi daxildir. Bu, ayaqlarının ucu üstə oturduğu zaman işlədilən جَذَا (cəza) sözündəndir. Şair demişdir:\n* وصَنّاجةٌ تَجْذُو على حَدِّ مَنْسِمِ (١)\n(Və dırnağın kənarında oturan rəqqasə...)\nVə hirslənib dikələn mənasını verən الذَّئْر (əz-zə'ir) sözündəndir. Deməli, söz iki sözdən nəht edilmişdir (birləşdirilib düzəldilmişdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» qaydasına uyğun deyil.",
+  "Mətndəki (٢) haşiyə nömrəsi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:08:14.009Z"
 }

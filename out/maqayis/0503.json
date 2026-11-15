@@ -11,9 +11,19 @@
   "page_to": 371
  },
  "ar": "الثاء والجيم واللام أصلٌ يدلُّ على عِظَم الشئ الأجوف، ثم يحمل عليه ما ليس بأجوف. فالثُّجْلة عِظَمُ البَطْن؛ يقال رجلٌ أثجَل وامرأةٌ ثجْلاءِ. [ومزادةٌ ثجلاءِ (٣)]، أى واسعة. قال أبو النجم:\n* مَشْىَ الرَّوايَا … بالمَزَادِ الأثجَلِ (٤) *\nويروى «الأنجَل»؛ وقد ذُكِر. ويقال جُلَّةٌ ثَجْلاء عظيمة. وقال:\nباتُوا يُعَشُّون القُطَيْعَاءَ ضَيْفَهُمْ … وعندهم البَرْنِىُّ فى جُلَلٍ ثُجْلِ (٥)\nوهذا البناء مهملٌ عند الخليل، وذَا عَجَبٌ.",
- "az": "«ثجل»: الثاء, Cim və Lam içi boş olan bir şeyin böyüklüyünə dəlalət edən bir əslir, sonra içi boş olmayan şeylərə də aid edilir. (الثُّجْلة) — qarnın böyüklüyüdür; deyilir: kişi (أثجَل) və qadın (ثجْلاء). [Və geniş su tuluğu (مزادةٌ ثجلاءِ)] (٣) — yəni geniş. Əbu Nəcm demişdir: مَشْىَ الرَّوايَا … بالمَزَادِ الأثجَلِ (٤) (Böyük tuluqlar daşıyan dəvələrin yerişi ilə...). Və (الأنجَل) kimi də rəvayət olunur; bu artıq qeyd edilmişdir. Deyilir: böyük bir səbət (جُلَّةٌ ثَجْلاء). Və demişdir: باتُوا يُعَشُّون القُطَيْعَاءَ ضَيْفَهُمْ … وعندهم البَرْنِىُّ فى جُلَلٍ ثُجْلِ (٥) (Onlar qonaqlarına Quteyəu axşam yeməyi yedirdirdilər... yanlarında isə böyük səbətlərdə Berni xurmaları var idi). Bu quruluş Xəlil tərəfdən ihmal edilmişdir və bu təəccüblüdür.",
+ "az": "[ثجل]\nSa, cim və lam içi boş olan bir şeyin böyüklüyünə dəlalət edən bir əsldir, sonra içi boş olmayan şeylərə də aid edilir. الثُّجْلة (qarın böyüklüyü) — qarnın böyüklüyüdür; deyilir: رجلٌ أثجَل (qarnı böyük kişi) və امرأةٌ ثجْلاءِ (qarnı böyük qadın). [ومزادةٌ ثجلاءِ (geniş su tuluğu) (٣)] — yəni geniş. Əbu Nəcm demişdir:\n* مَشْىَ الرَّوايَا … بالمَزَادِ الأثجَلِ (٤) * (Böyük tuluqlar daşıyan dəvələrin yerişi ilə...).\n«الأنجَل» kimi də rəvayət olunur; bu artıq qeyd edilmişdir. Deyilir: جُلَّةٌ ثَجْلاء (böyük xurma səbəti) — böyük. Və demişdir:\nباتُوا يُعَشُّون القُطَيْعَاءَ ضَيْفَهُمْ … وعندهم البَرْنِىُّ فى جُلَلٍ ثُجْلِ (٥) (Onlar qonaqlarına Qüteya xurması ilə axşam yeməyi verirdilər... yanlarında isə böyük səbətlərdə Berni xurmaları var idi).\nBu quruluş Xəlil tərəfindən işlədilməmiş (tərk edilmiş) hesab olunur və bu təəccüblüdür.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:39:16.273Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثجل»: الثاء, Cim və Lam içi boş olan bir şeyin böyüklüyünə dəlalət edən bir əslir, sonra içi boş olmayan şeylərə də aid edilir. (الثُّجْلة) — qarnın böyüklüyüdür; deyilir: kişi (أثجَل) və qadın (ثجْلاء). [Və geniş su tuluğu (مزادةٌ ثجلاءِ)] (٣) — yəni geniş. Əbu Nəcm demişdir: مَشْىَ الرَّوايَا … بالمَزَادِ الأثجَلِ (٤) (Böyük tuluqlar daşıyan dəvələrin yerişi ilə...). Və (الأنجَل) kimi də rəvayət olunur; bu artıq qeyd edilmişdir. Deyilir: böyük bir səbət (جُلَّةٌ ثَجْلاء). Və demişdir: باتُوا يُعَشُّون القُطَيْعَاءَ ضَيْفَهُمْ … وعندهم البَرْنِىُّ فى جُلَلٍ ثُجْلِ (٥) (Onlar qonaqlarına Quteyəu axşam yeməyi yedirdirdilər... yanlarında isə böyük səbətlərdə Berni xurmaları var idi). Bu quruluş Xəlil tərəfdən ihmal edilmişdir və bu təəccüblüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [ثجل] formatında deyil, sa hərf adı ərəb qrafikası ilə saxlanılıb.",
+  "«bir əslir» yazı səhvi var, «ihmal edilmişdir» ifadəsi Azərbaycan dilinə uyğun deyil.",
+  "«رجلٌ أثجَل وامرأةٌ ثجْلاءِ» ifadəsinin tərcüməsində «qarnı böyük» mənası buraxılıb."
+ ],
+ "review_ts": "2026-11-15T21:02:32.921Z"
 }

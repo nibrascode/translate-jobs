@@ -11,9 +11,18 @@
   "page_to": 404
  },
  "ar": "ومن ذلك (الثُّرمطة (٤)) وهى اللَّثَق والطِّين. وهذا منحوتٌ من كلمتين\nمن الثَّرْط والرَّمْط، وهما اللَّطخ. يقال ثُرِط فلانٌ إذا لُطِخ بعَيْب. وكذلك رَمِط.",
- "az": "«ثرمط»\nBunlardan biri də (الثُّرمطة) – palçıq və yapışqan şeydir. Bu, ləkələmək mənasını verən iki sözdən – «əs-sərt» və «ər-rəmt» sözlərindən qondarılmadır. Deyilir ki, filankəs eyiblə ləkələndikdə «ثُرِطَ فلانٌ» (suritə fülânün) deyilər. Eynilə «رَمِطَ» (rəmitə) də belədir.",
+ "az": "[ثرمط]\nBunlardan biri də الثُّرمطة (٤) – palçıq və yapışqan şeydir. Bu, ləkələmək mənasını verən iki sözdən – الثَّرْط (əs-sərt) və الرَّمْط (ər-rəmt) sözlərindən nəht edilmişdir (düzəldilmişdir). Deyilir ki, filankəs eyiblə ləkələndikdə ثُرِطَ فلانٌ (suritə fulanun) deyilər. Eynilə رَمِط (rəmitə) də belədir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:43:21.035Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثرمط»\nBunlardan biri də (الثُّرمطة) – palçıq və yapışqan şeydir. Bu, ləkələmək mənasını verən iki sözdən – «əs-sərt» və «ər-rəmt» sözlərindən qondarılmadır. Deyilir ki, filankəs eyiblə ləkələndikdə «ثُرِطَ فلانٌ» (suritə fülânün) deyilər. Eynilə «رَمِطَ» (rəmitə) də belədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı «[ثرمط]» formatında verilməyib.",
+  "Mətndəki «(٤)» haşiyə rəqəmi buraxılıb."
+ ],
+ "review_ts": "2026-11-15T21:02:48.890Z"
 }

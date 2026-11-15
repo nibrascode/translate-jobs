@@ -11,9 +11,18 @@
   "page_to": 482
  },
  "ar": "الجيم والنون والهاء ليس أصلا، ولا هو عندى من كلام العرب، إلا أنّ ناساً زعموا أن الجَنَهَ (١) الخيزُران. وأنشدوا:\nفى كَفه جُنَهىٌّ ريحه عَبِقٌ … بكفِّ أَرْوَعَ فى عِرنينِهِ شَمَمُ (٢)",
- "az": "«جنه» (جيم, نون və هاء) – əsl deyil və mənim yanımda ərəb dilindən də deyildir. Lakin bəzi insanlar iddia etmişlər ki, «الجَنَه» (əل-جənə) – qamışdır (xeyzürandır). Onlar bu beyt ilə dəlil gətirmişlər:\n«فى كَفِّه جُنَهىٌّ ريحه عَبِقٌ … بكفِّ أَرْوَعَ فى عِرنينِهِ شَمَمُ (٤)»\n(Onun ovcunda ətri əsən qamışdan [düzəlmiş nizə] vardır... elə bir igidin əlində ki, burnu dik və ucadır.)",
+ "az": "[جنه]\ncim, nun və hə – əsl deyil və məncə ərəb kəlamından da deyildir. Lakin bəzi insanlar iddia etmişlər ki, الجَنَهَ (١) – qamışdır (xeyzürandır). Onlar bu beyti dəlil gətirmişlər:\nفى كَفه جُنَهىٌّ ريحه عَبِقٌ … بكفِّ أَرْوَعَ فى عِرنينِهِ شَمَمُ (٢)\n(Onun ovcunda ətri yayılan qamışdan [düzəlmiş nizə] vardır... elə bir igidin ovcunda ki, burnu dik və ucadır.)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:49:12.830Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جنه» (جيم, نون və هاء) – əsl deyil və mənim yanımda ərəb dilindən də deyildir. Lakin bəzi insanlar iddia etmişlər ki, «الجَنَه» (əل-جənə) – qamışdır (xeyzürandır). Onlar bu beyt ilə dəlil gətirmişlər:\n«فى كَفِّه جُنَهىٌّ ريحه عَبِقٌ … بكفِّ أَرْوَعَ فى عِرنينِهِ شَمَمُ (٤)»\n(Onun ovcunda ətri əsən qamışdan [düzəlmiş nizə] vardır... elə bir igidin əlində ki, burnu dik və ucadır.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, hərf adları ərəbcə yazılıb və «الجَنَه» sözünün transkripsiyasında əlifba qarışdırılıb.",
+  "Ərəb mətnindəki «كَفه» sözünə təşdid artırılıb və haşiyə rəqəmi (٢) (٤) kimi dəyişdirilib, «الجَنَهَ» sözünün yanındakı (١) haşiyə rəqəmi isə buraxılıb."
+ ],
+ "review_ts": "2026-11-15T21:04:15.410Z"
 }

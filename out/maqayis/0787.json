@@ -11,7 +11,17 @@
   "page_to": 512
  },
  "ar": "ومن ذلك قولهم للعظيم الصدر (جُرْشُعٌ). فهذا من الجَرْش؛ والجَرْش.\nصدر الشئ. يقال جَرْشٌ من اللَّيل، مثل جَرْس. ومن الجَشَع، وهو الحِرص الشديد. فالكلمة أيضاً منحوتة من كلمتين.",
- "az": "«جرشع» - Və buraya sinəsi böyük olan adama «جُرْشُعٌ» (curşü') deyilməsi daxildir. Bu, الجَرْش (əl-cərş) sözündəndir; جَرْشُ (cərş) bir şeyin sinəsidir. Gecənin əvvəli mənasını verən جَرْشٌ من اللَّيل (cərşün min əl-leyl) deyilir, جَرْس (cərs) kimidir. Həmçinin şiddətli hərislik mənasını verən الجَشَع (əl-cəşə') sözündəndir. Deməli, bu söz də iki sözdən nəht edilmişdir.",
+ "az": "[جرشع] Və buraya sinəsi böyük olan adama جُرْشُعٌ deyilməsi daxildir. Bu, الجَرْش sözündəndir; جَرْشُ bir şeyin sinəsidir. Gecənin bir hissəsi mənasında جَرْشٌ من اللَّيل deyilir (جَرْس kimidir). Həmçinin şiddətli hərislik mənasını verən الجَشَع sözündəndir. Deməli, bu söz də iki sözdən nəht edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.218Z"
+ "ts": "2026-10-25T00:50:51.218Z",
+ "prev_az": "«جرشع» - Və buraya sinəsi böyük olan adama «جُرْشُعٌ» (curşü') deyilməsi daxildir. Bu, الجَرْش (əl-cərş) sözündəndir; جَرْشُ (cərş) bir şeyin sinəsidir. Gecənin əvvəli mənasını verən جَرْشٌ من اللَّيل (cərşün min əl-leyl) deyilir, جَرْس (cərs) kimidir. Həmçinin şiddətli hərislik mənasını verən الجَشَع (əl-cəşə') sözündəndir. Deməli, bu söz də iki sözdən nəht edilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» qaydasına uyğun deyil.",
+  "جَرْشٌ من اللَّيل (gecənin bir hissəsi/parçası) ifadəsi səhvən «gecənin əvvəli» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T21:08:14.010Z"
 }

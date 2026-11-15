@@ -11,9 +11,19 @@
   "page_to": 476
  },
  "ar": "الجيم والميم والحرف المعتل كلمةٌ واحدة، وهو الجمَاءُ، وهو الشَّخص. وربّما ضُمّت الجيم. قال:\n* وقُرْصَةٍ مثلَ جُمَاء التُّرْسِ (١) *",
- "az": "«جمى» — جيم، ميم və uzanan hərf tək bir sözdür, o da الجَمَاءُ (əl-cəmaa) yəni şəxs, bədəndir. Bəzən cəim hərfi zəmmə ilə də oxunur. (Şair) demişdir: «وقُرْصَةٍ مثلَ جُمَاء التُّرْسِ» (Və qalxanın gövdəsi kimi bir kökə/çörəyə bənzər).",
+ "az": "[جمى]\nجيم (cim), ميم (mim) və illətli hərf tək bir sözdür, o da الجمَاءُ (əl-cəma), yəni şəxs, gövdədir. Bəzən cim hərfi zəmmə ilə də oxunur. (Şair) demişdir:\n* وقُرْصَةٍ مثلَ جُمَاء التُّرْسِ (١) * (Və qalxanın gövdəsi kimi bir kökə...).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:48:50.350Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جمى» — جيم، ميم və uzanan hərf tək bir sözdür, o da الجَمَاءُ (əl-cəmaa) yəni şəxs, bədəndir. Bəzən cəim hərfi zəmmə ilə də oxunur. (Şair) demişdir: «وقُرْصَةٍ مثلَ جُمَاء التُّرْسِ» (Və qalxanın gövdəsi kimi bir kökə/çörəyə bənzər).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub ([جمى] əvəzinə «جمى» yazılıb).",
+  "«cəim» yazım xətası var və الجمَاءُ sözünün yazılışı AR-dakı ilə eyni deyil.",
+  "Haşiyə rəqəmi və abzas bölgüsü qorunmayıb."
+ ],
+ "review_ts": "2026-11-15T21:03:21.908Z"
 }

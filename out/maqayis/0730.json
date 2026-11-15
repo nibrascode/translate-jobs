@@ -13,5 +13,10 @@
  "ar": "الجيم والياء والزاء. أصل يائه (٦) واو، وقد مضى ذِكرُه.",
  "az": "[جيز] — الجيم (Cim), الياء (Ya) və الزاء (Zay). Ya hərfinin əsli vavdır və onun zikri artıq keçmişdir (٦).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:03.101Z"
+ "ts": "2026-10-25T00:50:03.101Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T21:05:43.382Z"
 }

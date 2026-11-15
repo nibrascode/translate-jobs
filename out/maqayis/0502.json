@@ -11,9 +11,18 @@
   "page_to": 371
  },
  "ar": "الثاء والجيم والراء أصلٌ واحد، يدلُّ على مُتَّسَع الشئِ وعِرَضِهِ.\nفثجْرةُ الوادِى: وَسَطه وما اتَّسَعَ منه. ويقال ورقٌ ثَجْرٌ أى عريض. وكلّ شئٍ عرَّضْتَه فقد ثَجَّرْته. وثُجْرةُ النَّحْر وَسَطه وما حول الثَّغر منه. والثُّجَرُ سِهامٌ غِلاظ (١). ويقال فى لحمه تثْجيرٌ (٢)، أى رخاوة. فأمّا قولهم انثَجَر الماء إِذا فَاضَ وانْثَجَر الدَّم من الطَّعنة، فليس من الباب؛ لأن الثَّاء فيه مبدلةٌ من فاء.\nوكذلك الثّجير.",
- "az": "«ثجر»: الثاء, Cim və Ra vahid bir əslə malikdir, bir şeyin genişliyinə və eninə dəlalət edir. Və (ثجْرةُ الوادِى) — dərənin ortası və onun genişlənən yeridir. Deyilir: (ورقٌ ثَجْرٌ) — yəni enli yarpaq. Hər hansı bir şeyi enliləşdirsən, onu (ثَجَّرْته) etmiş olarsan. Və (ثُجْرةُ النَّحْر) — sinənin ortası və boğaz çuxurunun ətrafıdır. Və (الثُّجَرُ) — qalın oxlardır (١). Və deyilir ki, onun ətində (تثْجيرٌ) var (٢), yəni boşluq, yumşaqlıq var. Və onların (انثَجَر الماء) — su daşdı və (انْثَجَر الدَّم من الطَّعنة) — yaraqan qan fışqırdı sözlərinə gəldikdəisə, bu, həmin babdan deyil; çünki orada (ث) hərfi (ف) hərfinin əvəzinə gəlmişdir. Eynilə (الثّجير) də belədir.",
+ "az": "[ثجر]\nSa, cim və ra vahid bir əsldir, bir şeyin genişliyinə və eninə dəlalət edir.\nBelə ki, ثجْرةُ الوادِى (dərənin geniş yeri) — onun ortası və genişlənən hissəsidir. Deyilir: ورقٌ ثَجْرٌ (enli yarpaq), yəni enli. Hər hansı bir şeyi enliləşdirsən, onu ثَجَّرْته (genişləndirmiş) olarsan. وثُجْرةُ النَّحْر (boğaz çuxuru) — sinənin ortası və boğaz boşluğunun ətrafıdır. والثُّجَرُ (qalın oxlar) — qalın oxlardır (١). Deyilir ki, onun ətində تثْجيرٌ (yumşaqlıq, boşluq) var (٢), yəni boşluq. Onların انثَجَر الماء (su daşdı) və انْثَجَر الدَّم من الطَّعنة (yaradan qan fışqırdı) sözlərinə gəldikdə isə, bu, həmin babdan deyil; çünki orada ث (sa) hərfi ف (fa) hərfinin əvəzinə gəlmişdir.\nEynilə الثّجير (xurma və s. cecəsi) da belədir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:39:16.273Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثجر»: الثاء, Cim və Ra vahid bir əslə malikdir, bir şeyin genişliyinə və eninə dəlalət edir. Və (ثجْرةُ الوادِى) — dərənin ortası və onun genişlənən yeridir. Deyilir: (ورقٌ ثَجْرٌ) — yəni enli yarpaq. Hər hansı bir şeyi enliləşdirsən, onu (ثَجَّرْته) etmiş olarsan. Və (ثُجْرةُ النَّحْر) — sinənin ortası və boğaz çuxurunun ətrafıdır. Və (الثُّجَرُ) — qalın oxlardır (١). Və deyilir ki, onun ətində (تثْجيرٌ) var (٢), yəni boşluq, yumşaqlıq var. Və onların (انثَجَر الماء) — su daşdı və (انْثَجَر الدَّم من الطَّعنة) — yaraqan qan fışqırdı sözlərinə gəldikdəisə, bu, həmin babdan deyil; çünki orada (ث) hərfi (ف) hərfinin əvəzinə gəlmişdir. Eynilə (الثّجير) də belədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [ثجر] formatında deyil, sa hərf adı ərəb qrafikası ilə saxlanılıb.",
+  "«yaraqan» və «gəldikdəisə» kimi yazı səhvləri mövcuddur."
+ ],
+ "review_ts": "2026-11-15T21:02:32.921Z"
 }

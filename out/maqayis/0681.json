@@ -11,9 +11,19 @@
   "page_to": 475
  },
  "ar": "الجيم والميم والنون ليس فيه غير الجُمان، وهو الدرُّ.\nقال المسيّب (٣):\nكجُمانةِ البَحْرِىّ جَاءَ بِها … غَوّاصُها مِنْ لُجَّةِ البَحْرِ",
- "az": "«جمن» — جيم، ميم və نون hərflərində İncid mənasını verən عُمان (cuman) sözündən başqa bir şey yoxdur. Müseyyəb demişdir: «كجُمانةِ البَحْرِىّ جَاءَ بِها … غَوّاصُها مِنْ لُجَّةِ البَحْرِ» (Dənizçinin dənizin dərinliyindən dalğıcının gətirdiyi incisi kimi).",
+ "az": "[جمن]\nجيم (cim), ميم (mim) və نون (nun) hərflərində inci mənasını verən الجُمان (əl-cuman) sözündən başqa bir şey yoxdur.\nMüseyyəb demişdir (٣):\nكجُمانةِ البَحْرِىّ جَاءَ بِها … غَوّاصُها مِنْ لُجَّةِ البَحْرِ (Dənizçinin, dalğıcının dənizin dərinliyindən gətirdiyi incisi kimi).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:48:50.350Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جمن» — جيم، ميم və نون hərflərində İncid mənasını verən عُمان (cuman) sözündən başqa bir şey yoxdur. Müseyyəb demişdir: «كجُمانةِ البَحْرِىّ جَاءَ بِها … غَوّاصُها مِنْ لُجَّةِ البَحْرِ» (Dənizçinin dənizin dərinliyindən dalğıcının gətirdiyi incisi kimi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub ([جمن] əvəzinə «جمن» yazılıb).",
+  "الجُمان sözü səhvən عُمان kimi yazılıb və «İncid» yazım xətası var.",
+  "Haşiyə rəqəmi və abzas bölgüsü qorunmayıb."
+ ],
+ "review_ts": "2026-11-15T21:03:21.908Z"
 }

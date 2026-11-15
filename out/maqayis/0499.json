@@ -11,9 +11,17 @@
   "page_to": 370
  },
  "ar": "الثاء والنون أصلٌ واحد، وهو نباتٌ من شعرٍ أو غيره. فأمَّا الشَّعر فالثُّنَّةُ الشَّعر المشْرِفُ على رُسْغِ الدابة من خَلْف. والثِّنُّ من غير الشَّعر:\nحُطام اليَبِيس. وأنشد:\nفَظَلْنَ يخبِطْنَ هَشِيمَ الثِّنِّ … بَعْدَ عميم الرّوضةِ المُغِنِّ (٣)\nفأمّا الثُّنّة فما دون السّرّة من أسفل البطن من الدابة، ولعله بشُعَيرات يكون ثمّ.",
- "az": "«ثن»: الثاء və Noun vahid bir əslə malikdir, o da tüklərdən və ya başqa şeylərdən ibarət bitkidir. Saça gəldikdə isə, (الثُّنَّةُ) — heyvanın arxa ayaq biləyindən yuxarıya doğru sallanan tüklərdir. Tüklərdən başqa şeylərdə isə (الثِّنُّ) — quru ot-ələf qırıntılarıdır. O, bu beyti gətirmişdir: فَظَلْنَ يخبِطْنَ هَشِيمَ الثِّنِّ … بَعْدَ عميم الرّوضةِ المُغِنِّ (٣) (Onlar qalaraq quru ot qırıntılarının xırdalarını döyəclədilər... bol və gur bitki örtüyündən sonra). (الثُّنَّةُ) gəldikdə isə, o, heyvanın qarnının aşağı hissəsində, göbəkdən aşağı olan yerdir, ehtimal ki, orada kiçik tüklər olur.",
+ "az": "[ثن]\nSa və nun vahid bir əsldir, o da tükdən və ya başqa şeydən ibarət bitən şeydir. Saça (tükə) gəldikdə isə, الثُّنَّةُ (əs-sünnə) heyvanın arxa ayaq biləyinin üstünə uzanan tüklərdir. Tükdən başqa şeydə isə الثِّنُّ (əs-sinn):\nquru otun qırıntılarıdır. Və bu beyti oxumuşdur:\nفَظَلْنَ يخبِطْنَ هَشِيمَ الثِّنِّ … بَعْدَ عميم الرّوضةِ المُغِنِّ (٣)\n(Onlar bol və gur bitki örtüklü bağçadan sonra quru otun qırıntılarını tapdalamaqda davam etdilər)\nالثُّنّة (əs-sünnə) isə heyvanın qarnının aşağı hissəsində, göbəkdən aşağı olan yerdir; ehtimal ki, bu, orada olan kiçik tüklərə görədir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:39:16.273Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثن»: الثاء və Noun vahid bir əslə malikdir, o da tüklərdən və ya başqa şeylərdən ibarət bitkidir. Saça gəldikdə isə, (الثُّنَّةُ) — heyvanın arxa ayaq biləyindən yuxarıya doğru sallanan tüklərdir. Tüklərdən başqa şeylərdə isə (الثِّنُّ) — quru ot-ələf qırıntılarıdır. O, bu beyti gətirmişdir: فَظَلْنَ يخبِطْنَ هَشِيمَ الثِّنِّ … بَعْدَ عميم الرّوضةِ المُغِنِّ (٣) (Onlar qalaraq quru ot qırıntılarının xırdalarını döyəclədilər... bol və gur bitki örtüyündən sonra). (الثُّنَّةُ) gəldikdə isə, o, heyvanın qarnının aşağı hissəsində, göbəkdən aşağı olan yerdir, ehtimal ki, orada kiçik tüklər olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الثاء» hərf adı tərcüməsiz qalmış, «nun» hərfi isə ingiliscə «Noun» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:02:01.029Z"
 }

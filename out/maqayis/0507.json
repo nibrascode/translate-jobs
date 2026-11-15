@@ -11,9 +11,18 @@
   "page_to": 373
  },
  "ar": "الثاء والدال والياء كلمةٌ واحدة، وهى ثدى المرأة. والجمع أَثْدٍ.\nوالثدياء: الكبيرة الثَّدْى (١). ثم فرق بينه وبين الذى للرّجُل، فقيل فى الرجل الثُّنْدُؤَة بالضم والهمزة، والثَّنْدُوَة بالفتح غير مهموز.",
- "az": "«ثدى»: الثاء, Dal və Ya tək bir kəlimədir, o da qadının döşüdür. Cəmi isə (أَثْدٍ) gəlir. Və (الثدياء) — döşü böyük olan qadındır. Sonra qadının döşü ilə kişinin döşü arasında fərq qoyulmuşdur, kişinin döşünə zəmm və həmzə ilə (الثُّنْدُؤَة), fəthəli və həmzəsiz olaraq isə (الثَّنْدُوَة) deyilmişdir.",
+ "az": "[ثدى]\nSa, dal və ya tək bir kəlmədir, o da qadının döşüdür. Cəmi isə أَثْدٍ gəlir.\nوالثدياء (döşü böyük olan qadın): döşü böyük olan qadındır (١). Sonra qadının döşü ilə kişinin döşü arasında fərq qoyulmuş, kişi üçün dammə və həmzə ilə الثُّنْدُؤَة, fəthəli və həmzəsiz olaraq isə الثَّنْدُوَة deyilmişdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:39:16.273Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثدى»: الثاء, Dal və Ya tək bir kəlimədir, o da qadının döşüdür. Cəmi isə (أَثْدٍ) gəlir. Və (الثدياء) — döşü böyük olan qadındır. Sonra qadının döşü ilə kişinin döşü arasında fərq qoyulmuşdur, kişinin döşünə zəmm və həmzə ilə (الثُّنْدُؤَة), fəthəli və həmzəsiz olaraq isə (الثَّنْدُوَة) deyilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [ثدى] formatında deyil, sa hərf adı ərəb qrafikası ilə saxlanılıb.",
+  "Haşiyə rəqəmi (١) tərcümədə buraxılıb."
+ ],
+ "review_ts": "2026-11-15T21:02:32.922Z"
 }

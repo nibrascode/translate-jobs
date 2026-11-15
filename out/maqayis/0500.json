@@ -11,9 +11,18 @@
   "page_to": 370
  },
  "ar": "الثاء والهمزة، كلمتان ليستا أصلا، يقال ثأثأت بالإبل صِحْتُ بها؛ ولقِيتُ فلاناً فثأثأتُ منه (٤)، أى هِبْتُه.",
- "az": "«ثأثأ»: الثاء və Həmzə, əsli olmayan iki kəlimədir, deyilir: ثأثأت بالإبل — dəvələrə qışqırdım; və (لقِيتُ فلاناً فثأثأتُ منه) (٤) — filankəslə qarşılaşdım və ondan qorxdum.",
+ "az": "[ثأثأ]\nSa və həmzə əsli olmayan iki kəlmədir; deyilir: ثأثأت بالإبل صِحْتُ بها (dəvələri səsləyib onlara qışqırdım); ولقِيتُ فلاناً فثأثأتُ منه (٤)، أى هِبْتُه (filankəslə qarşılaşdım və ondan çəkindim, yəni qorxdum).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:39:16.273Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ثأثأ»: الثاء və Həmzə, əsli olmayan iki kəlimədir, deyilir: ثأثأت بالإبل — dəvələrə qışqırdım; və (لقِيتُ فلاناً فثأثأتُ منه) (٤) — filankəslə qarşılaşdım və ondan qorxdum.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الثاء» hərf adı tərcüməsiz qalmışdır.",
+  "«صِحْتُ بها» və «أى هِبْتُه» hissələri ərəb mətnindən buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:02:01.029Z"
 }

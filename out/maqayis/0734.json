@@ -11,7 +11,17 @@
   "page_to": 499
  },
  "ar": "الجيم والياء واللام يدلُّ على التجمّع. فالْجِيل الجماعة.\nوالجيل هذه الأُمَّة، وهم إخوان الدَّيْلَم. ويقال إِيَّاهم أراد امرؤ القيس فى قوله:\nأطافَتْ به جِيلَانُ عند جِدَادِه … ورُدّد فيه الماء حَتَّى تَحَيَّرا (٤)\nوأما الجَيألُ، وهى الضَّبُع، فليست من الباب.",
- "az": "«جيل» — جيم, ياء və lam hərfləri birləşməyə dəlalət edir. «الْجِيل» (cil) — camaat. «الجيل» (il) bu ümmətdir, onlar «الدَّيْلَم» (deyləm) tayfasının qardaşlarıdır. Deyilənə görə, İmrulqeys öz şeirində məhz bunları qəsd etmişdir: \nأطافَتْ به جِيلَانُ عند جِدَادِه … ورُدّد فيه الماء حَتَّى تَحَيَّرا (٤) \n(Məhsul yığımı vaxtı cilan qəbiləsi onu əhatəyə aldı ... Və su orada dolaşdırıldı, ta ki çaşqın qaldı.) \nAmma «الجَيألُ» (cəyəl), yəni kaftar bu qapıdan (kökdən) deyil.",
+ "az": "[جيل]\nالجيم (cim), الياء (ya) və اللام (lam) toplanmağa dəlalət edir. الْجِيل (əl-cil) — camaat, topluluq deməkdir.\nالجيل (əl-cil) həmçinin bu ümmətdir; onlar əd-Deyləmin qardaşlarıdır. Deyilənə görə, İmrulqeys bu sözü ilə onları qəsd etmişdir:\nأطافَتْ به جِيلَانُ عند جِدَادِه … ورُدّد فيه الماء حَتَّى تَحَيَّرا (٤)\n(Xurma yığımı vaxtı Cilan tayfası onu əhatəyə aldı, orada su o qədər fırlandı ki, axmağa yer tapmayıb durğunlaşdı).\nAmma الجَيألُ (əl-cəy'əl) — kaftardır və bu babdan deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:28.133Z"
+ "ts": "2026-10-25T00:50:28.133Z",
+ "prev_az": "«جيل» — جيم, ياء və lam hərfləri birləşməyə dəlalət edir. «الْجِيل» (cil) — camaat. «الجيل» (il) bu ümmətdir, onlar «الدَّيْلَم» (deyləm) tayfasının qardaşlarıdır. Deyilənə görə, İmrulqeys öz şeirində məhz bunları qəsd etmişdir: \nأطافَتْ به جِيلَانُ عند جِدَادِه … ورُدّد فيه الماء حَتَّى تَحَيَّرا (٤) \n(Məhsul yığımı vaxtı cilan qəbiləsi onu əhatəyə aldı ... Və su orada dolaşdırıldı, ta ki çaşqın qaldı.) \nAmma «الجَيألُ» (cəyəl), yəni kaftar bu qapıdan (kökdən) deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الجيل» sözünün transkripsiyasında kobud hərf xətası («il») buraxılmışdır.",
+  "Şeirdəki «حَتَّى تَحَيَّرا» ifadəsi suya aid olduğu halda «ta ki çaşqın qaldı» kimi qeyri-dəqiq tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T21:06:03.929Z"
 }

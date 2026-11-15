@@ -11,9 +11,20 @@
   "page_to": 416
  },
  "ar": "الجيم والعين أصلٌ واحدٌ، وهو المكان غيرُ المَرْضِىِّ. قال الخليل: الجعجاع مُناخُ السَّوْء. ويقال للقتيل (٤): تُرِك بجَعجاع. قال أبو قيس:\nابن الأسْلَت:\nمَنْ يَذُقِ الحربَ يجِدْ طعمَها … مُرًّا وتتركْهُ بجعجاعِ (١)\nقال الأصمعىّ: هو الحَبْس. قال:\n* إذا جَعْجَعُوا بينَ الإِناخَةِ والحَبْسِ (٢) *\nو\nكتب ابنُ زياد إلى ابنِ سعد: «أَنّ جَعْجِعْ بالحسين ﵇». كأنَّه يُريد: ألجِئْهُ إلى مكانٍ خَشِنٍ قلق. وقال قوم: الجعجعة فى هذا الموضع الإزعاج؛ يقال جَعْجَعْتُ الإبِلَ (٣)، إذا حرَّكتها للإِناخة. وقال أبو ذؤيب، فى الجعجعة التى تدلُّ على سوءِ المَصْرَع:\nفأبَدَّهُنَّ حُتوفَهُنَّ فهاربٌ … بِذَمائِه أو باركٌ متجعجعْ (٤)",
- "az": "«جعع» (Cim və ayn) tək bir əsasdır; o da bəyənilməyən məkandır. Xəlil demişdir: «الجعجاع» (əl-cəcəc) – pis düşərgədir. Qətlə yetirilmiş şəxsə deyilir: «تُرِك بجَعجاع» (Pis yerdə tərk edildi). Əbu Qeys:\nİbn əl-Əslət demişdir:\nمَنْ يَذُقِ الحربَ يجِدْ طعمَها … مُرًّا وتتركْهُ بجعجاعِ (١)\n(Kim müharibəni dadarsa, onun acı olduğunu görər və o, onu pis məkanda tərk edər).\nƏsməi demişdir: O, həbs yeridir. O demişdir:\n* إذا جَعْجَعُوا بينَ الإِناخَةِ والحَبْسِ (٢) *\n(Onlar dəvə çökdürməklə həbs arasında dayandıqları zaman).\nVə İbn Ziyad İbn Sə’də yazmışdır: «أَنّ جَعْجِعْ بالحسين ﵇» (Hüseyni çətin vəziyyətə sal). Sanki o, bunu nəzərdə tutur: Onu sərt, narahat bir yerə sıxışdır. Bir qrup alim demişdir: Bu yerdə əl-cəncəcə narahat etməkdir; deyilir: «جَعْجَعْتُ الإبِلَ» (Dəvələri hərəkətə gətirdim), yəni onları çökdürmək üçün hərəkət etdirdim. Əbu Züheyb pis ölüm yerinə dəlalət edən cəncəcə haqqında demişdir:\nفأبَدَّهُنَّ حُتوفَهُنَّ فهاربٌ … بِذَمائِه أو باركٌ متجعجعْ (٤) *\n(O, onlara ölümlərini aşkar etdi, beləliklə, ya öz qanı ilə qaçan, ya da yerində çöküb qalan narahat bir halda qaldı).",
+ "az": "[جعع] Cim və ayn tək bir əsasdır; o da bəyənilməyən məkandır. Xəlil demişdir: الجعجاع (əl-cəca) – pis düşərgədir. Qətlə yetirilmiş şəxsə (٤) deyilir: «تُرِك بجَعجاع» (Pis yerdə tərk edildi). Əbu Qeys ibn əl-Əslət demişdir:\nمَنْ يَذُقِ الحربَ يجِدْ طعمَها … مُرًّا وتتركْهُ بجعجاعِ (١)\n(Kim müharibəni dadarsa, onun dadını acı görər və müharibə onu pis yerdə tərk edər).\nƏsməi demişdir: O, həbs yeridir. O demişdir:\n* إذا جَعْجَعُوا بينَ الإِناخَةِ والحَبْسِ (٢) *\n(Onlar dəvə çökdürməklə həbs arasında qaldıqları zaman).\nVə İbn Ziyad İbn Sədə yazmışdır: «أَنّ جَعْجِعْ بالحسين ﵇» (Hüseyni (aleyhissəlam) sıxıntılı yerə sal). Sanki o, bunu nəzərdə tutur: Onu sərt, narahat bir yerə sıxışdır. Bir qrup alim demişdir: Bu yerdə الجعجعة (əl-cəcəə) narahat etməkdir; deyilir: «جَعْجَعْتُ الإبِلَ» (٣) (Dəvələri hərəkətə gətirdim), yəni onları çökdürmək üçün hərəkət etdirdim. Əbu Züeyb pis ölüm yerinə dəlalət edən cəcəə haqqında demişdir:\nفأبَدَّهُنَّ حُتوفَهُنَّ فهاربٌ … بِذَمائِه أو باركٌ متجعجعْ (٤)\n(O, ölümlərini onların arasında bölüşdürdü; beləliklə, kimi son nəfəsi ilə qaçan, kimi də yerə çöküb narahat halda can verəndir).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:44:02.723Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جعع» (Cim və ayn) tək bir əsasdır; o da bəyənilməyən məkandır. Xəlil demişdir: «الجعجاع» (əl-cəcəc) – pis düşərgədir. Qətlə yetirilmiş şəxsə deyilir: «تُرِك بجَعجاع» (Pis yerdə tərk edildi). Əbu Qeys:\nİbn əl-Əslət demişdir:\nمَنْ يَذُقِ الحربَ يجِدْ طعمَها … مُرًّا وتتركْهُ بجعجاعِ (١)\n(Kim müharibəni dadarsa, onun acı olduğunu görər və o, onu pis məkanda tərk edər).\nƏsməi demişdir: O, həbs yeridir. O demişdir:\n* إذا جَعْجَعُوا بينَ الإِناخَةِ والحَبْسِ (٢) *\n(Onlar dəvə çökdürməklə həbs arasında dayandıqları zaman).\nVə İbn Ziyad İbn Sə’də yazmışdır: «أَنّ جَعْجِعْ بالحسين ﵇» (Hüseyni çətin vəziyyətə sal). Sanki o, bunu nəzərdə tutur: Onu sərt, narahat bir yerə sıxışdır. Bir qrup alim demişdir: Bu yerdə əl-cəncəcə narahat etməkdir; deyilir: «جَعْجَعْتُ الإبِلَ» (Dəvələri hərəkətə gətirdim), yəni onları çökdürmək üçün hərəkət etdirdim. Əbu Züheyb pis ölüm yerinə dəlalət edən cəncəcə haqqında demişdir:\nفأبَدَّهُنَّ حُتوفَهُنَّ فهاربٌ … بِذَمائِه أو باركٌ متجعجعْ (٤) *\n(O, onlara ölümlərini aşkar etdi, beləliklə, ya öz qanı ilə qaçan, ya da yerində çöküb qalan narahat bir halda qaldı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[جعع]» formatı ilə başlamalıdır.",
+  "Mətndəki (٤) və (٣) haşiyə rəqəmləri və «﵇» ifadəsi buraxılıb.",
+  "«الجعجاع» və «الجعجعة» sözlərinin oxunuşu «əl-cəcəc» və «əl-cəncəcə» kimi səhv verilib.",
+  "Son şeir beytindəki «فأبَدَّهُنَّ» və «بِذَمائِه» sözləri səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-15T21:03:21.297Z"
 }

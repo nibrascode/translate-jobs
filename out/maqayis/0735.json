@@ -11,7 +11,17 @@
   "page_to": 500
  },
  "ar": "الجيم والهمزة والباء حرفان: أحدهما يدلُّ على الكَسْب.\nيقال جَأبْتُ جَأبًا، أى كَسَبْتُ وعَمِلت. قال:\n* فاللّهُ راءٍ عَمَلِى وجَأْبِى (١) *\nوالآخر من غير هذا، وهو الحمار من حُمُرِ الوحش الصُّلبُ الشّديد.\nالمَغْرَةُ، يُهْمَز ولا يُهمز.",
- "az": "«جأب» — جيم, həmzə və ba hərfləri iki hərflidir (bölmədəndir): Bunlardan biri qazanca dəlalət edir. \n Deyilir: «جَأبْتُ جَأبًا» (cəəbtü cəəbən) — yəni qazandım və işlədim. Şair demişdir: \n* فاللّهُ راءٍ عَمَلِى وجَأْبِى (١) *\n(Və Allah əməlimi və qazancımı görəndir.) \nDigəri isə bundan başqadır: Bu, vəhşi eşşəklərdən olan sərt və güclü eşşək mənasını verən «المَغْرَةُ» (məğrə) sözüdür, həmzəli də yazılır, həmzəsiz də.",
+ "az": "[جأب]\nالجيم (cim), الهمزة (həmzə) və الباء (ba) iki məna bildirir: bunlardan biri qazanca dəlalət edir.\nDeyilir: جَأبْتُ جَأبًا, yəni qazandım və işlədim. [Şair] demişdir:\n* فاللّهُ راءٍ عَمَلِى وجَأْبِى (١) *\n(Allah əməlimi və qazancımı görəndir).\nDigəri isə bundan başqadır; o, vəhşi eşşəklərin bərk və güclü olanıdır.\n[əl-Cə'b həmçinin] المَغْرَةُ (qırmızı gil, oxra) deməkdir; həmzə ilə də, həmzəsiz də tələffüz edilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:28.134Z"
+ "ts": "2026-10-25T00:50:28.134Z",
+ "prev_az": "«جأب» — جيم, həmzə və ba hərfləri iki hərflidir (bölmədəndir): Bunlardan biri qazanca dəlalət edir. \n Deyilir: «جَأبْتُ جَأبًا» (cəəbtü cəəbən) — yəni qazandım və işlədim. Şair demişdir: \n* فاللّهُ راءٍ عَمَلِى وجَأْبِى (١) *\n(Və Allah əməlimi və qazancımı görəndir.) \nDigəri isə bundan başqadır: Bu, vəhşi eşşəklərdən olan sərt və güclü eşşək mənasını verən «المَغْرَةُ» (məğrə) sözüdür, həmzəli də yazılır, həmzəsiz də.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«حرفان» ifadəsi «iki hərflidir» kimi səhv tərcümə edilmişdir (iki məna/bölmə nəzərdə tutulur).",
+  "«المَغْرَةُ» (qırmızı gil/oxra) sözü vəhşi eşşəyin adı kimi səhv tərcümə olunmuşdur."
+ ],
+ "review_ts": "2026-11-15T21:06:03.929Z"
 }

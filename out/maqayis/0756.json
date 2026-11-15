@@ -11,7 +11,17 @@
   "page_to": 506
  },
  "ar": "ومن ذلك قولهم لقرية النَّمل (جُرثُومة). فهذا من كلمتين: من جَرَم وجَثَم، كأنه اقتَطَعَ من الأرض قطعةً فجثم فيها. والكلمتان قد مضتا بتفسيرهما.",
- "az": "«جرثم» - Və buraya xalqın çəyirtgə yuvasına «جُرْثُومة» (cürsümə) deməsi daxildir. Bu, iki sözdən ibarətdir: جَرَم (cərimə) və جَثَم (cəsəm); sanki o, yerdən bir parça qoparıb orada çömbələrək oturdu. Bu iki sözün izahı artıq keçmişdir.",
+ "az": "[جرثم]\nBu qəbildəndir: qarışqa yuvasına (جُرثُومة) demələri. Bu, iki sözdəndir: qoparıb ayırmaq mənasındakı جَرَم və büzüşüb yerə qapanmaq mənasındakı جَثَم sözlərindən; sanki o, yerdən bir parça qoparmış və orada qapanıb qalmışdır. Bu iki sözün izahı artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.216Z"
+ "ts": "2026-10-25T00:50:51.216Z",
+ "prev_az": "«جرثم» - Və buraya xalqın çəyirtgə yuvasına «جُرْثُومة» (cürsümə) deməsi daxildir. Bu, iki sözdən ibarətdir: جَرَم (cərimə) və جَثَم (cəsəm); sanki o, yerdən bir parça qoparıb orada çömbələrək oturdu. Bu iki sözün izahı artıq keçmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«قرية النمل» qarışqa yuvası olduğu halda səhvən «çəyirtgə yuvası» kimi tərcümə edilmişdir.",
+  "«من جَرَم» kökü «kəsmək, qoparmaq» mənasında olduğu halda «cərimə» kimi yanlış yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:07:52.052Z"
 }

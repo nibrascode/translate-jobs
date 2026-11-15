@@ -14,6 +14,10 @@
  "az": "«تكك» (t-k-k): Tə və kaf əsas deyildir. Sözün əvvəlində tə və kaf hərflərinin birləşməsinin az olması onun işini zəiflədir. التِّكَّة (əttikkə) kəlməsi gəlmişdir, və تَكَكْتُ الشئَ (təkəktuş-şəyə): onu tapdalamışam. Və التّاك (əttak): axmaqdır. Allah-Təalanın səhih olmasını iradə etdiyi hər bir şey səhihdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:37:44.115Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T21:02:01.028Z"
 }

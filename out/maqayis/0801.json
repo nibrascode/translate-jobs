@@ -11,7 +11,17 @@
   "page_to": 513
  },
  "ar": "(الجَلْسَد): اسمُ صَنَم (٥). قال:\nكما * … بَيْقَرَ مَنْ يَمْشِى إلى الجَلْسَدِ (٦)\nو",
- "az": "[جلسد] (الجَلْسَد): büt adı. Şair deyir: Kəma ... beyqərə mən yəmşi iləl-cəlsədi (Cəlsədə gedən kəsin heyrətləndiyi kimi).",
+ "az": "[جلسد] (الجَلْسَد (٥)): büt adı. Şair deyir: كما * … بَيْقَرَ مَنْ يَمْشِى إلى الجَلْسَدِ (٦) (Cəlsədə gedən kəsin heyrətləndiyi kimi).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:52:48.508Z"
+ "ts": "2026-10-25T00:52:48.508Z",
+ "prev_az": "[جلسد] (الجَلْسَد): büt adı. Şair deyir: Kəma ... beyqərə mən yəmşi iləl-cəlsədi (Cəlsədə gedən kəsin heyrətləndiyi kimi).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə şeir mətni ərəb qrafikası ilə saxlanılmayıb, latın transkripsiyası ilə verilib.",
+  "Haşiyə rəqəmləri (٥) və (٦) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T21:08:16.306Z"
 }

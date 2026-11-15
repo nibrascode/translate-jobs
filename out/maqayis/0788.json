@@ -11,7 +11,16 @@
   "page_to": 512
  },
  "ar": "ومن ذلك قولهم للجرادة (جُنْدَبٌ). فهذا نونه زائدةٌ، و [هو] من الجَدْب؛ وذلك أنّ الجراد يَجْرُد فيأتِى بالجدْب. وربما كَنَوا فى الغَشْم والظُّلم بأمِّ جُنْدَب، وقياسُه قياسُ الأصل.",
- "az": "«جندب» - Və buraya çəyirtgəyə «جُنْدَبٌ» (cündəb) deyilməsi daxildir. Onun nun hərfi artıqdır (zayiddir) və [o], جَدْب (cədb) sözündəndir; çünki çəyirtgə hər şeyi qırxıb məhv edir və nəticədə quraqlıq (cədb) gətirir. Bəzən tüğyan və zülm mənalarında «أمِّ جُنْدَب» (Ümmi Cündəb) kimi kinayə edirlər, onun qiyas ölçüsü əslinə uyğundur.",
+ "az": "[جندب] Və buraya çəyirtgəyə جُنْدَبٌ deyilməsi daxildir. Bunun nun hərfi artıqdır və [o], الجَدْب (quraqlıq) sözündəndir; çünki çəyirtgə bitkiləri qırxıb apardığı üçün quraqlıq gətirir. Bəzən tüğyan və zülm mənalarında أمِّ جُنْدَب (Ümmu Cündəb) kimi kinayə edirlər, bunun da qiyası əslin qiyası kimidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:50:51.218Z"
+ "ts": "2026-10-25T00:50:51.218Z",
+ "prev_az": "«جندب» - Və buraya çəyirtgəyə «جُنْدَبٌ» (cündəb) deyilməsi daxildir. Onun nun hərfi artıqdır (zayiddir) və [o], جَدْب (cədb) sözündəndir; çünki çəyirtgə hər şeyi qırxıb məhv edir və nəticədə quraqlıq (cədb) gətirir. Bəzən tüğyan və zülm mənalarında «أمِّ جُنْدَب» (Ümmi Cündəb) kimi kinayə edirlər, onun qiyas ölçüsü əslinə uyğundur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» qaydasına uyğun deyil."
+ ],
+ "review_ts": "2026-11-15T21:08:14.010Z"
 }
