@@ -11,7 +11,17 @@
   "page_to": 321
  },
  "ar": "العين والشين والقاف أصلٌ صحيحٌ يدلُّ على تجاوُزِ حدِّ المحبَّة.\nتقول: عَشِق يَعْشَق عِشْقاً وعَشَقاً. قال رؤبة:\nولم يُضِعْها بين فِرْكٍ وعَشَقْ (١)\nويقال: امرأةٌ عاشق أيضاً، حملوه على قولهم: رجلٌ بادنٌ وامرأة بادنٌ.\nوزعم ناسٌ أنَّ العَشَقَة اللّبْلابة، قالوا: ومنها اشتُقَّ اسم العاشق لذيوله.\nوهو كلامٌ.",
- "az": "[عشق] (eyn, şin və qaf) məhəbbət həddini aşmağa dəlalət edən səhih bir kökdür. Deyirsən: عَشِق يَعْشَق عِشْقاً وعَشَقاً (əşiqa yəşqu işqən və əşəqən) - aşiq oldu. Rübə demişdir: ولم يُضِعْها بين فِرْكٍ وعَشَقْ (١) (Nifrət ilə eşq arasında onu zay etmədi).",
+ "az": "[عشق]\nAyn, şin və qaf məhəbbət həddini aşmağa dəlalət edən səhih bir əsasdır.\nDeyirsən: عَشِق يَعْشَق عِشْقاً وعَشَقاً (əşiqa yəşəqu işqən və əşəqən — aşiq oldu). Rubə demişdir:\nولم يُضِعْها بين فِرْكٍ وعَشَقْ (١) (Nifrət ilə eşq arasında onu zay etmədi).\nHəmçinin امرأةٌ عاشق (aşiq qadın) da deyilir; bunu onların رجلٌ بادنٌ وامرأة بادنٌ (kök kişi və kök qadın) sözünə bənzədiblər.\nBəzi insanlar iddia etmişlər ki, العَشَقَة (əl-əşəqə) sarmaşıqdır (اللّبْلابة); dedilər ki, aşiqin (العاشق) adı da solmasına görə ondan törəmişdir. Bu, bir sözdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:32:09.592Z"
+ "ts": "2026-10-25T18:32:09.592Z",
+ "prev_az": "[عشق] (eyn, şin və qaf) məhəbbət həddini aşmağa dəlalət edən səhih bir kökdür. Deyirsən: عَشِق يَعْشَق عِشْقاً وعَشَقاً (əşiqa yəşqu işqən və əşəqən) - aşiq oldu. Rübə demişdir: ولم يُضِعْها بين فِرْكٍ وعَشَقْ (١) (Nifrət ilə eşq arasında onu zay etmədi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin son iki cümləsi tamamilə buraxılıb.",
+  "«يَعْشَق» feilinin oxunuşu «yəşqu» kimi səhv verilib."
+ ],
+ "review_ts": "2026-11-15T06:21:17.099Z"
 }

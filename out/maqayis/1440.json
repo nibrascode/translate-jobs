@@ -11,7 +11,17 @@
   "page_to": 374
  },
  "ar": "الراء والصاد أصلٌ واحد يدلُّ على انضمامِ الشَّئ إِلى الشئ بقوَّةٍ وتداخُل. تقول: رصَصْتُ البُنيانَ بعصَه إِلَى بَعْضٍ. قال اللّه تعالى: ﴿كَأَنَّهُمْ بُنْيانٌ مَرْصُوصٌ﴾. وهذا كأنّه مشتقٌّ من الرَّصاصِ، والرَّصاص أصل الباب.\nويقال تراصَّ القومُ فى الصّفّ. وحُكى عن الخليل: الرَّصراص: الحجارةُ تكون مرصوصةً حول عَين الماء. ومن الباب التَّرصِيص: أن تنتقب المرأةُ فلا يُرَى إلاَّ عَيناها. وهو التَّوصِيص أيضا. ويقولون: الرَّصراصة: الأرض الصُّلبة.\nوالبابُ كلُّه منقاسٌ مطَّرد.",
- "az": "[رص] الراء (ra) və الصاد (sad) hərfləri bir şeyin digərinə güclə və iç-içə keçərək bitişməsinə dəlalət edən tək bir kökdür. Deyirsən: رصَصْتُ البُنيانَ (rəsəstu-l-bunyənə) - binanı bir-birinə bitişdirdim. Allah-taala buyurur: ﴿كَأَنَّهُمْ بُنْيانٌ مَرْصُوصٌ﴾ (kəənnəhum bunyanun mərsuus) - mənaca tərcümə:",
+ "az": "[رص] الراء (ra) və الصاد (sad) hərfləri bir şeyin digərinə güclə və iç-içə keçərək bitişməsinə dəlalət edən tək bir kökdür. Deyirsən: رصَصْتُ البُنيانَ بعصَه إِلَى بَعْضٍ (binanın hissələrini bir-birinə bitişdirdim). Allah-taala buyurur: ﴿كَأَنَّهُمْ بُنْيانٌ مَرْصُوصٌ﴾ - mənaca tərcümə: (Sanki onlar bir-birinə möhkəm bərkidilmiş bir binadırlar). Bu, sanki الرَّصاصِ (qurğuşun) sözündən törəmişdir və الرَّصاص bu babın əslidir.\nDeyilir: تراصَّ القومُ فى الصّفّ (camaat səfdə bir-birinə sıxlaşdı). Xəlildən nəql edilmişdir: الرَّصراص (rəsras): su bulağının ətrafında sıx düzülmüş daşlardır. التَّرصِيص (tərsis) də bu babdandır: qadının niqab taxıb yalnız iki gözünün görünməsidir. Buna التَّوصِيص (təvsis) də deyilir. Onlar الرَّصراصة (rəsrasə) bərk yerə deyirlər.\nBabın hamısı qiyasa uyğun və davamlıdır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:25:01.822Z"
+ "ts": "2026-10-25T01:25:01.822Z",
+ "prev_az": "[رص] الراء (ra) və الصاد (sad) hərfləri bir şeyin digərinə güclə və iç-içə keçərək bitişməsinə dəlalət edən tək bir kökdür. Deyirsən: رصَصْتُ البُنيانَ (rəsəstu-l-bunyənə) - binanı bir-birinə bitişdirdim. Allah-taala buyurur: ﴿كَأَنَّهُمْ بُنْيانٌ مَرْصُوصٌ﴾ (kəənnəhum bunyanun mərsuus) - mənaca tərcümə:",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə Quran ayəsinin mənaca tərcüməsi hissəsində yarımçıq kəsilmiş və maddənin qalan hissəsi buraxılmışdır.",
+  "«رصَصْتُ البُنيانَ بعصَه إِلَى بَعْضٍ» ifadəsində «بعصَه إِلَى بَعْضٍ» hissəsi ixtisar edilmişdir."
+ ],
+ "review_ts": "2026-11-15T06:21:02.695Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 426
  },
  "ar": "الراء والقاف والحرف المعتلّ أصولٌ ثلاثة متباينة: أحدهما الصُّعود، والآخر عُوذَةٌ يُتعوَّذ بها، والثالث بقعةٌ من الأرض.\nفالأول: قولك رَقِيتُ فى السُّلَّم أَرْقَى رُقِيَّا. قال اللّه جلّ ثناؤه: ﴿أَوْ تَرْقى فِي اَلسَّماءِ وَلَنْ نُؤْمِنَ لِرُقِيِّكَ﴾. والعرب تقول: «ارْقَ على ظَلْعِك» أى اصعَدْ بقدر ما تُطيق.\nوالثانى: رقَيْت الإنسانَ، من الرُّقية.\nوالثالث: الرَّقْوَةُ: فُوَيْقَ الدِّعص من الرمل. [و] يقال رَقْوٌ بِلاهاء.\nوأكثرُ ما يكونُ إلى جانب وادٍ.",
- "az": "[رقى] (Rəqə): Ra, qaf və zəif hərf olan mürtəl hərflərdən ibarət üç fərqli əsas vardır: birincisi ucalmaq, yüksəlmək; ikincisi sığınılan dua (ovsun); üçüncüsü isə yer parçasıdır. \nBirincisi: sənin رَقِيتُ فى السُّلَّم أَرْقَى رُقِيَّا (rəqiytu fis-sulləmi arqə ruqiyyən) –",
+ "az": "[رقى]\nRa, qaf və illətli (mütəl) hərf üç fərqli əsasdır: birincisi yuxarı qalxmaq, digəri onunla sığınılan dua (ruqyə), üçüncüsü isə yer parçasıdır.\nBirincisi: sənin «رَقِيتُ فى السُّلَّم أَرْقَى رُقِيَّا» (Nərdivanla yuxarı qalxdım, qalxıram) deməyindir. Uca Allah (cəllə sənəuhu) buyurmuşdur: ﴿أَوْ تَرْقى فِي اَلسَّماءِ وَلَنْ نُؤْمِنَ لِرُقِيِّكَ﴾ (mənaca tərcümə: «Yaxud göyə qalxmayınca (inanmayacağıq), sən qalxsan belə biz sənin qalxmağına inanmayacağıq»). Ərəblər deyirlər: «ارْقَ على ظَلْعِك» (Axsaqlığın üzərində qalx), yəni gücün çatdığı qədər qalx.\nİkincisi: «رقَيْت الإنسانَ» (İnsana ruqyə oxudum), الرُّقية (ər-ruqyə) sözündəndir.\nÜçüncüsü: الرَّقْوَةُ (ər-rəqvə): qum təpəciyinin üstündəki kiçik yüksəklikdir. [و] Hə (هـ) hərfi olmadan رَقْوٌ (rəqv) də deyilir. Əksər hallarda vadinin kənarında olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:52.453Z"
+ "ts": "2026-10-25T01:30:52.453Z",
+ "prev_az": "[رقى] (Rəqə): Ra, qaf və zəif hərf olan mürtəl hərflərdən ibarət üç fərqli əsas vardır: birincisi ucalmaq, yüksəlmək; ikincisi sığınılan dua (ovsun); üçüncüsü isə yer parçasıdır. \nBirincisi: sənin رَقِيتُ فى السُّلَّم أَرْقَى رُقِيَّا (rəqiytu fis-sulləmi arqə ruqiyyən) –",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətn birinci əsasın əvvəlində yarımçıq kəsilib, Quran ayəsi, ikinci və üçüncü əsaslar tamamilə buraxılıb.",
+  "«mürtəl» sözü səhvdir («mütəl» və ya «illətli» olmalıdır)."
+ ],
+ "review_ts": "2026-11-15T06:21:17.098Z"
 }

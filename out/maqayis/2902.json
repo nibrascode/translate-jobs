@@ -11,7 +11,17 @@
   "page_to": 407
  },
  "ar": "الغين والياء والنون قريبٌ من الذى قبلَه (١). فالغَيْن:\nالغَيْم. قال:\nكأنِّى بين خافِيَتَىْ عُقابٍ … أصابَ حمامةً فى يوم غَيْنِ (٢)\nوالغَيْن: العَطَش. ويقال: غِينَ على قلْبه، كأنَّ شيئاً غشِيَه. و\nفى الحديث:\n«إنَّهُ ليُغانُ على قلبى (٣)». ومن الباب: شجرةٌ غَيْناء، وهى الكثيرة الورَق الملتفَّةُ الأغصان، والجمع غِينٌ. ويقال: إنَّ الغَيْنة: الرَّوضة. والقياس فى ذلك كلِّه واحد. واللّه أعلم.",
- "az": "[غين] الغين والياء والنون قريبٌ من الذى قبلَه (١) (ğeyn, ya və nun hərfləri əvvəlkindəki mənanı yaxındır). فالغَيْن (Və əl-ğeyn):\nالغَيْم (əl-ğеймdir). قال (Demişdir):\nكأنِّى بين خافِيَتَىْ عُقابٍ … أصابَ حمامةً فى يوم غَيْنِ (٢) (Elə bil mən qartalın iki qanadı arasındayam... buludlu gündə göyərçin vurdu).",
+ "az": "[غين]\nĞayn, ya və nun əvvəlkinə yaxındır (١). فالغَيْن (əl-ğəyn): الغَيْم (bulud) deməkdir. Demişdir:\nكأنِّى بين خافِيَتَىْ عُقابٍ … أصابَ حمامةً فى يوم غَيْنِ (٢) (Elə bil mən qartalın iki qanadı arasındayam... buludlu gündə bir göyərçin ovladı).\nوالغَيْن (əl-ğəyn): susuzluqdur. Deyilir: غِينَ على قلْبه (qəlbi örtüldü), sanki bir şey onu örtmüşdür. Hədisdə var:\n«إنَّهُ ليُغانُ على قلبى (٣)» (Həqiqətən, qəlbimə bir örtük çəkilir). Bu qəbildəndir: شجرةٌ غَيْناء (ğəyna ağac), yəni yarpaqları çox, budaqları bir-birinə sarmaşmış ağac; cəmi غِينٌ (ğin)-dir. Deyilir ki, الغَيْنة (əl-ğəynə): bağça/çəmənlikdir. Bütün bunlarda qiyas (əsas məna) birdir. Doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:47.719Z"
+ "ts": "2026-10-25T18:37:47.719Z",
+ "prev_az": "[غين] الغين والياء والنون قريبٌ من الذى قبلَه (١) (ğeyn, ya və nun hərfləri əvvəlkindəki mənanı yaxındır). فالغَيْن (Və əl-ğeyn):\nالغَيْم (əl-ğеймdir). قال (Demişdir):\nكأنِّى بين خافِيَتَىْ عُقابٍ … أصابَ حمامةً فى يوم غَيْنِ (٢) (Elə bil mən qartalın iki qanadı arasındayam... buludlu gündə göyərçin vurdu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin ikinci yarısı (susuzluq mənası, hədis və son cümlələr) tamamilə buraxılıb.",
+  "«əl-ğеймdir» sözündə kiril hərfi işlədilib və ilk cümlədə qrammatik uyğunsuzluq var."
+ ],
+ "review_ts": "2026-11-15T06:21:17.099Z"
 }

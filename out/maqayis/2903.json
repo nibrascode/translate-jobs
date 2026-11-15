@@ -11,7 +11,18 @@
   "page_to": 408
  },
  "ar": "الغين والألف والراء. والألف فى هذا الباب لا تكون إلا مبدلةً. فالغار: نباتٌ طيِّب. قال:\nرُبَّ نارٍ بتُّ أرمُقُها … تَقْضَمُ الهِندىَّ والغارا (٤)\nوالغَار: لغةٌ فى الغَيْرة، وقد مرَّ تفسيرُها. قال:\nلهُنَّ نَشيجٌ بالنَّشِيل كأنَّها … ضَرائرُ حِرْمىٍّ تفاحَشَ غارُها (١)\nوالغارُ: الجيش العظيم. ومن ذلك حديثُ علىٍّ ﵇: «ما ظنك بامرئ جمَعَ بين هذين الغارَيْن». والغار: غار الفَمِ. والغار: أصلُ الرَّجُل.\nوقبيلتُه. والغار: الكهْفُ. وقد مضى قياسُ ذلك كلِّه. واللّه أعلم.",
- "az": "[غار] الغين والألف والراء (ğeyn, əlif və ra). والألف فى هذا الباب لا تكون إلا مبدلةً (Bu babdə əlif ancak əvəz olunmuş ola bilər). فالغار (Və əl-ğar): نباتٌ طيِّب (xoş qoxulu bitkidir). قال (Demişdir):\nرُبَّ نارٍ بتُّ أرمُقُها … تَقْضَمُ الهِندىَّ والغارا (٤) (Neçə-neçə od var ki, mən onu izləyərək gecələdim... hind qılıncını və ğarı gəmirir).",
+ "az": "[غار]\nالغين والألف والراء (Ğayn, əlif və ra). والألف فى هذا الباب لا تكون إلا مبدلةً (Bu babda əlif yalnız əvəz olunmuş ola bilər). فالغار (Əl-ğar): نباتٌ طيِّب (xoş qoxulu bitkidir). قال (Demişdir):\nرُبَّ نارٍ بتُّ أرمُقُها … تَقْضَمُ الهِندىَّ والغارا (٤) (Neçə-neçə od var ki, mən onu izləyərək gecələdim... hind udunu və ğarı gəmirir).\nوالغَار: لغةٌ فى الغَيْرة، وقد مرَّ تفسيرُها (Əl-ğar: əl-ğayrə (qısqanclıq) sözündə bir ləhcədir, onun izahı artıq keçmişdir). قال (Demişdir):\nلهُنَّ نَشيجٌ بالنَّشِيل كأنَّها … ضَرائرُ حِرْمىٍّ تفاحَشَ غارُها (١) (Onların qaynayan ətdən hıçqırtısı var, sanki onlar qısqanclığı həddini aşmış hərəm əhlindən olan birinin günü-qadınlarıdır).\nوالغارُ: الجيش العظيم (Əl-ğar: böyük ordudur). ومن ذلك حديثُ علىٍّ ﵇: «ما ظنك بامرئ جمَعَ بين هذين الغارَيْن» (Əli radıyallahu anhunun hədisi də bundandır: «Bu iki böyük ordunu bir araya gətirən adam haqqında zənnin nədir?»). والغار: غار الفَمِ (Əl-ğar: ağzın boşluğudur). والغار: أصلُ الرَّجُل (Əl-ğar: kişinin əsli-köküdür).\nوقبيلتُه (Və onun qəbiləsidir). والغار: الكهْفُ (Əl-ğar: mağaradır). وقد مضى قياسُ ذلك كلِّه (Bunların hamısının qiyası artıq keçmişdir). واللّه أعلم (Allah daha yaxşı bilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:47.719Z"
+ "ts": "2026-10-25T18:37:47.719Z",
+ "prev_az": "[غار] الغين والألف والراء (ğeyn, əlif və ra). والألف فى هذا الباب لا تكون إلا مبدلةً (Bu babdə əlif ancak əvəz olunmuş ola bilər). فالغار (Və əl-ğar): نباتٌ طيِّب (xoş qoxulu bitkidir). قال (Demişdir):\nرُبَّ نارٍ بتُّ أرمُقُها … تَقْضَمُ الهِندىَّ والغارا (٤) (Neçə-neçə od var ki, mən onu izləyərək gecələdim... hind qılıncını və ğarı gəmirir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin tərcüməsi yarımçıq kəsilmiş, birinci şeirdən sonrakı bütün hissə buraxılmışdır.",
+  "«الهِندىَّ» sözü «hind qılıncı» kimi yanlış tərcümə edilmişdir (burada odun yandırdığı hind ud ağacı nəzərdə tutulur).",
+  "«باب» sözü «babdə» kimi, «ancak» sözü isə Türkiyə türkcəsi ilə yazılmışdır."
+ ],
+ "review_ts": "2026-11-15T06:21:48.483Z"
 }

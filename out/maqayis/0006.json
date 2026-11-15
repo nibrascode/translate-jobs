@@ -11,7 +11,18 @@
   "page_to": 34
  },
  "ar": "وهذا الباب مهملٌ عند الخليل. قال الشّيبانىّ:\nالأبِثُ الأشِرُ النّشيط. قال:\nأصبَحَ عمَّارٌ نشيطا أبِثَا … يأكُلُ لحماً بائتا قد كَبِثَا (١)\nوهذا الباب مهمل عند الخليل، وليست الكلمة عند ابن دريد (٢).\nوالكَبِث: المتغيِّر المُرْوِح. وليس الكَبِث عند الخليل ولا ابن دريد.\nويقال للذى لا يَقِرّ من المَرَح إِنه لأبِثٌ. قال الشَّيبانى: أصبت إِبلاً أبَائَى (٣) يعنى برُوكاً شَبَاعَى. وناقة أبثَة.",
- "az": "[أبث] وهذا الباب مهملٌ عند الخليل. ([əbəş] – Və bu bab Xəlil yanında möhməldir.) قال الشّيبانىّ: الأبِثُ الأشِرُ النّشيط. (Şeybani demişdir: Əbis – şıltaq, fəal və gümrahdır.) قال: أصبَحَ عمَّارٌ نشيطا أبِثَا … يأكُلُ لحماً بائتا قد كَبِثَا (١) (O demişdir: *“Ammar fəal və gümrah oldu... gecə qalmış, artıq kəbitmiş ət yeyir”*.) وهذا الباب مهمل عند الخليل، وليست الكلمة عند ابن دريد (٢). (Və bu bab Xəlil yanında möhməldir, bu kəlmə İbn Dureyd yanında yoxdur.) والكَبِث: المتغيِّر المُرْوِح. وليس الكَبِث عند الخليل ولا ابن دريد. (Və əl-kəbiş: dəyişmiş, qoxumuşdur. Kəbiş nə Xəlil, nə də İbn Dureyd yanındadır.) ويقال للذى لا يَقِرّ من المَرَح إِنه لأبِثٌ. (Və şıltaqlıqdan yerində durmayana deyilir ki, o, həqiqətən əbisdir.) قال الشَّيبانى: أصبت إِبلاً أبَائَى (٣) يعنى برُوكاً شَبَاعَى. وناقة أبثَة. (Şeybani demişdir: Mən “əbai” dəvələrə rast gəldim – yəni yatmış, doymuş dəvələr. Və “əbsə” dişi dəvə.)",
+ "az": "[أبث]\nBu bab Xəlilin yanında möhməldir (işlədilməmişdir). Şeybani demişdir:\nالأبِثُ (əbis) — şıltaq, gümrah və fəal olan şəxsdir. O demişdir:\nأصبَحَ عمَّارٌ نشيطا أبِثَا … يأكُلُ لحماً بائتا قد كَبِثَا (١) (Əmmar fəal və gümrah oldu; gecədən qalmış, artıq iylənib xarab olmuş ət yeyir (١)).\nBu bab Xəlilin yanında möhməldir və bu kəlmə İbn Dureydin kitabında da yoxdur (٢).\nالكَبِث (kəbis) — dəyişib qoxumuş (xarab olmuş) şeydir. الكَبِث (kəbis) sözü nə Xəlilin, nə də İbn Dureydin kitabında vardır.\nSevincdən və şıltaqlıqdan yerində qərar tutmayan şəxsə «إِنه لأبِثٌ (o, həqiqətən əbisdir)» deyilir. Şeybani demişdir: «أصبت إِبلاً أبَائَى (٣) (əbai dəvələrə rast gəldim)» — yəni yatmış, tox dəvələr (٣). Həmçinin ناقة أبثَة (əbsə dişi dəvə) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T18:41:28.018Z"
+ "ts": "2026-10-24T18:41:28.018Z",
+ "prev_az": "[أبث] وهذا الباب مهملٌ عند الخليل. ([əbəş] – Və bu bab Xəlil yanında möhməldir.) قال الشّيبانىّ: الأبِثُ الأشِرُ النّشيط. (Şeybani demişdir: Əbis – şıltaq, fəal və gümrahdır.) قال: أصبَحَ عمَّارٌ نشيطا أبِثَا … يأكُلُ لحماً بائتا قد كَبِثَا (١) (O demişdir: *“Ammar fəal və gümrah oldu... gecə qalmış, artıq kəbitmiş ət yeyir”*.) وهذا الباب مهمل عند الخليل، وليست الكلمة عند ابن دريد (٢). (Və bu bab Xəlil yanında möhməldir, bu kəlmə İbn Dureyd yanında yoxdur.) والكَبِث: المتغيِّر المُرْوِح. وليس الكَبِث عند الخليل ولا ابن دريد. (Və əl-kəbiş: dəyişmiş, qoxumuşdur. Kəbiş nə Xəlil, nə də İbn Dureyd yanındadır.) ويقال للذى لا يَقِرّ من المَرَح إِنه لأبِثٌ. (Və şıltaqlıqdan yerində durmayana deyilir ki, o, həqiqətən əbisdir.) قال الشَّيبانى: أصبت إِبلاً أبَائَى (٣) يعنى برُوكاً شَبَاعَى. وناقة أبثَة. (Şeybani demişdir: Mən “əbai” dəvələrə rast gəldim – yəni yatmış, doymuş dəvələr. Və “əbsə” dişi dəvə.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«[أبث]» kökü «[əbəş]», «الكَبِث» sözü isə «əl-kəbiş/Kəbiş» kimi səhv transkripsiya edilmişdir (ث hərfi ş kimi verilmişdir).",
+  "Beytdəki «قد كَبِثَا» ifadəsi «artıq kəbitmiş» kimi uydurma və mənasız sözlə tərcümə edilmişdir.",
+  "Haşiyə rəqəmləri (١), (٢) və (٣) tərcümədə buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T06:22:58.274Z"
 }

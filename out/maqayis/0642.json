@@ -11,7 +11,18 @@
   "page_to": 456
  },
  "ar": "الجيم والزاء والراء أصلٌ واحد، وهو القَطْع. يقال جَزَرت الشئ جَزْرًا، ولذلك سمِّى الْجَزُور جزوراً. والجَزَرة: الشاة يقوم إليها أهلُها فيذبحونها. ويقال تَرك بنُو فلانٍ بنى فلان جَزَرًا، أى قتلوهم فتركوهم جَزَرًا للسِّباع.\nوالجُزارَة أطراف البعير: فراسِنُه ورأسُه. وإنما سمِّيت جزارة لأنَّ الجزار يأخذُها، فهى جُزارتُه؛ كما يقال أخذ العاملُ عُمالته. فإِذا قلتَ فرسٌ عَبْلُ الجُزارةِ فإنما تريد غِلَظَ اليدين والرِّجلين وكثرة عصبها. ولا يدخُل الرّأس فى هذا؛ لأن عظَم الرَّأس فى الخيل هُجْنَة. وسميت الجزيرةُ جزيرةً لانقطاعها. وجَزَر النَّهرُ إذا قلَّ ماؤُه جَزْرًا.\nوالجَزْر: خلاف المدّ. ويقال أجزَرْتُك شاةً إذا دَفَعْتَ إليه شاةً يذبحُها. وهى الجَزَرة، ولا تكون إلاَّ من الغنم. قال بعض أهل العلم: وذلك أنّ الشاةَ لا تكون إلا للذبح. ولا يقال للنّاقة والجمل، لأنهما يكونان لسائر العمل.",
- "az": "[جزر] Cim, zay və ra: bir kökdür, o da kəsməkdir. Deyilir ki, جَزَرت الشئ جَزْرًا (şeyi kəsdim), buna görə də cəzur (الْجَزُور) kəsilən heyvana cəzur deyilir. Cəzərə (الجَزَرة): ailəsinin kəsmək üçün hazırlaşdığı qoyundur. Deyilir ki, bəni filan bəni filanı cəzər (جَزَرًا) qoydular, yəni onları öldürüb yırtıcı heyvanlara yem (kəsilmiş ət) etdilər. Cuzarə (الجُزارَة): dəvənin ətraflarıdır, yəni ayaqları və başı. O, cuzarə adlandırılmışdır, çünki qəssab onu götürür, bu onun payıdır; necə ki, işçinin əmək haqqını götürməsi deyilir. Əgər",
+ "az": "[جزر] Cim, zey və ra: bir kökdür, o da kəsməkdir. Deyilir ki, جَزَرت الشئ جَزْرًا (şeyi kəsdim), buna görə də الْجَزُور (kəsilən dəvə) cəzur adlandırılmışdır. الجَزَرة (cəzərə): sahiblərinin kəsmək üçün qalxdıqları (hazırlaşdıqları) qoyundur. Deyilir ki, filan qəbilə filan qəbiləni جَزَرًا (kəsilmiş ət) kimi qoydu, yəni onları öldürüb yırtıcı heyvanlara yem (kəsilmiş ət) etdilər.\nالجُزارَة (cuzarə): dəvənin ətraflarıdır: dırnaqları və başı. O, cuzarə adlandırılmışdır, çünki qəssab onu götürür, bu onun جُزارَة-sidir (payıdır); necə ki, işçinin عُمالته (əmək haqqını) götürməsi deyilir. Əgər فرسٌ عَبْلُ الجُزارةِ (cuzarəsi yoğun at) desən, bununla onun ön və arxa ayaqlarının yoğunluğunu və vətərlərinin çoxluğunu nəzərdə tutursan. Baş isə buna daxil deyil; çünki atlarda başın böyüklüyü qüsur (hücnə) sayılır. الجزيرة (ada) kəsilmiş (ayrılmış) olduğu üçün cəzirə adlandırılmışdır. Çayın suyu azaldıqda جَزَر النَّهرُ جَزْرًا (çay çəkildi) deyilir.\nالجَزْر (çəkilmə): məddin (qabarma) əksidir. Birinə kəsməsi üçün qoyun verdikdə أجزَرْتُك شاةً (sənə kəsməyə qoyun verdim) deyilir. O, الجَزَرة-dir (kəsiləcək qoyundur) və yalnız xırdabuynuzlu heyvandan olur. Bəzi elm əhli demişdir: Bu ona görədir ki, qoyun yalnız kəsilmək üçündür. Dişi dəvəyə və erkək dəvəyə isə belə deyilmir, çünki onlar digər işlər üçün olurlar.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:47:48.556Z"
+ "ts": "2026-10-25T00:47:48.556Z",
+ "prev_az": "[جزر] Cim, zay və ra: bir kökdür, o da kəsməkdir. Deyilir ki, جَزَرت الشئ جَزْرًا (şeyi kəsdim), buna görə də cəzur (الْجَزُور) kəsilən heyvana cəzur deyilir. Cəzərə (الجَزَرة): ailəsinin kəsmək üçün hazırlaşdığı qoyundur. Deyilir ki, bəni filan bəni filanı cəzər (جَزَرًا) qoydular, yəni onları öldürüb yırtıcı heyvanlara yem (kəsilmiş ət) etdilər. Cuzarə (الجُزارَة): dəvənin ətraflarıdır, yəni ayaqları və başı. O, cuzarə adlandırılmışdır, çünki qəssab onu götürür, bu onun payıdır; necə ki, işçinin əmək haqqını götürməsi deyilir. Əgər",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə yarımçıq kəsilmiş və maddənin böyük bir hissəsi buraxılmışdır.",
+  "«ز» hərfinin adı «zay» kimi yazılmışdır, düzgünü «zey» olmalıdır.",
+  "Baş sözlərin və izah olunan ərəbcə ifadələrin verilməsində uyğunsuzluqlar vardır."
+ ],
+ "review_ts": "2026-11-15T06:21:02.694Z"
 }
