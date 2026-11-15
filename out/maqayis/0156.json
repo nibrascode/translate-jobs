@@ -11,7 +11,16 @@
   "page_to": 163
  },
  "ar": "الهمزة والياء والدال أصلٌ واحد، يدلّ على القوة والحِفْظ.\nيقال أيّدَه اللّه أى قوّاه اللّه. قال اللّه تعالى: ﴿وَاَلسَّماءَ بَنَيْناها بِأَيْدٍ﴾. فهذا معنى القوّة. وأمّا الحفظ فالإياد كلُّ حاجزٍ الشئَ يَحْفَظُه. قال ذو الرمّة:\nدفَعْناهُ عن بَيْضٍ حِسَانٍ بأجْوَعٍ … حَوَى حَوَلَها مِنْ تُربِهِ بإيادِ (٢)",
- "az": "[أيد] (əyd): Həmzə, ya və dal qüvvətə və hifzə (qorunmağa) dəlalət edən bir əsasdır. Deyilir: أيّدَه اللّه (əyyədəhullah) — Allah ona qüvvət verdi. Uca Allah demişdir: ﴿وَاَلسَّماءَ بَنَيْناها بِأَيْدٍ﴾ (mənaca tərcümə: Göyü qüvvə ilə Biz tikdik). Bu, qüvvət mənasındadır. Hifzə gəldikdə isə, الْإياد (əl-iyad) — şeyin qorunması üçün hər hansı bir maneədir. Zü ə-Rummə demişdir: دفَعْناهُ عن بَيْضٍ حِسَانٍ بأجْوَعٍ … حَوَى حَوَلَها مِنْ تُربِهِ بإيادِ (Gözəl yumurtaları ac olan birindən qoruduq… torpağından ətrafına iyad ilə toparladı) (٢).",
+ "az": "[أيد] Həmzə, ya və dal bir əsldir, qüvvətə və hifzə (qorumağa) dəlalət edir.\nDeyilir: أيّدَه اللّه (Allah onu qüvvətləndirdi). Uca Allah buyurmuşdur: ﴿وَاَلسَّماءَ بَنَيْناها بِأَيْدٍ﴾ (mənaca tərcümə: Göyü Biz qüvvə ilə tikdik). Bu, qüvvət mənasındadır. Hifzə gəldikdə isə, الإياد (əl-iyad) – bir şeyi qoruyan hər bir maneədir. Zər-Rummə demişdir:\nدفَعْناهُ عن بَيْضٍ حِسَانٍ بأجْوَعٍ … حَوَى حَوَلَها مِنْ تُربِهِ بإيادِ (٢) (Gözəl yumurtaları ac bir heyvandan qoruduq… torpağından ətrafına çəpərlə/torpaq səddi ilə toparladı)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:24:55.392Z"
+ "ts": "2026-10-25T00:24:55.392Z",
+ "prev_az": "[أيد] (əyd): Həmzə, ya və dal qüvvətə və hifzə (qorunmağa) dəlalət edən bir əsasdır. Deyilir: أيّدَه اللّه (əyyədəhullah) — Allah ona qüvvət verdi. Uca Allah demişdir: ﴿وَاَلسَّماءَ بَنَيْناها بِأَيْدٍ﴾ (mənaca tərcümə: Göyü qüvvə ilə Biz tikdik). Bu, qüvvət mənasındadır. Hifzə gəldikdə isə, الْإياد (əl-iyad) — şeyin qorunması üçün hər hansı bir maneədir. Zü ə-Rummə demişdir: دفَعْناهُ عن بَيْضٍ حِسَانٍ بأجْوَعٍ … حَوَى حَوَلَها مِنْ تُربِهِ بإيادِ (Gözəl yumurtaları ac olan birindən qoruduq… torpağından ətrafına iyad ilə toparladı) (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şairin adı «Zü ə-Rummə» kimi yanlış yazılıb (Zər-Rummə olmalıdır)"
+ ],
+ "review_ts": "2026-11-15T07:20:15.436Z"
 }

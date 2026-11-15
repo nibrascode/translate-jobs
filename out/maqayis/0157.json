@@ -11,7 +11,17 @@
   "page_to": 163
  },
  "ar": "الهمزة والياء والراء كلمةٌ واحدة وهى الرِّيح. واختُلِف فيها، قال قوم: هى حارّة ذات أُوارٍ. فإن كانَ كذا فالياء فى الأصل واوٌ، وقد مضى تفسير ذلك فى الهمزة والواو والراء. وقال الآخرون: هى الشَّمال الباردة بلغة هُذَيل. قال:\nوانّا مَسامِيحٌ إذا هَبّت الصَّبا … وانّا مَراجِيحٌ إذا الأَيرُ هُبَّتِ (٣)",
- "az": "[أير] (ə-y-r): Həmzə, ya və ra tək bir kəlmədir ki, o da külək deməkdir. Bu xüsusda fikir ayrılığı olmuşdur; bir qrup demişdir ki, o, hərarətli və isti yeldir. Əgər belədirsə, ya hərfi əslində vavadır və bunun izahı həmzə, vau və ra bəhsində artıq keçmişdir. Digərləri isə demişlər ki, hüzeylər dilində bu, soyuq şimal küləyidir. Şair demişdir: Və biz səxavətliyik səba küləyi əsdikdə... Və biz ağır-vəznliyik «الأَير» (əyr - külək) əsdikdə (٣).",
+ "az": "[أير] Həmzə, ya və ra tək bir kəlmədir, o da külək deməkdir. Bu haqda ihtilaf edilmişdir; bir qrup demişdir ki, o, hərarətli, istisi olan yeldir. Əgər belədirsə, ya hərfi əslində vavadır və bunun izahı həmzə, vav və ra bəhsində artıq keçmişdir. Digərləri isə demişlər ki, Hüzeyl qəbiləsinin dilində bu, soyuq şimal küləyidir. Şair demişdir:\nوانّا مَسامِيحٌ إذا هَبّت الصَّبا … وانّا مَراجِيحٌ إذا الأَيرُ هُبَّتِ (٣) (Şərq küləyi əsdikdə biz cömərdik… «الأير» küləyi əsdikdə isə ağır-vəznli, təmkinliyik)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:25:17.133Z"
+ "ts": "2026-10-25T00:25:17.133Z",
+ "prev_az": "[أير] (ə-y-r): Həmzə, ya və ra tək bir kəlmədir ki, o da külək deməkdir. Bu xüsusda fikir ayrılığı olmuşdur; bir qrup demişdir ki, o, hərarətli və isti yeldir. Əgər belədirsə, ya hərfi əslində vavadır və bunun izahı həmzə, vau və ra bəhsində artıq keçmişdir. Digərləri isə demişlər ki, hüzeylər dilində bu, soyuq şimal küləyidir. Şair demişdir: Və biz səxavətliyik səba küləyi əsdikdə... Və biz ağır-vəznliyik «الأَير» (əyr - külək) əsdikdə (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni buraxılıb",
+  "«vav» hərfi «vau» kimi yazılıb"
+ ],
+ "review_ts": "2026-11-15T07:20:15.436Z"
 }

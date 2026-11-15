@@ -11,7 +11,17 @@
   "page_to": 112
  },
  "ar": "الهمزة والضاد مع اعتلال ما بعدهما كلمةٌ واحدة، وهى الأضاة، مكان يَستَنقِع فيه الماءُ كالغدير. قال أبو عُبيد: الأضاة الماء المستنقِع، من سيلٍ أو غيره، وجمعه أَضاً، وجمع الأَضا إِضاءٌ ممدود، وهو نادر (١).",
- "az": "«أضا» (hərf həmzə, dad və illətli hərf): tək bir kəlmədir, o da əzadədir (الأضاة), suyun gölməçə kimi yığıldığı yerdir. \nƏbu Übeyd demişdir: Əzada — sel və ya başqa şeydən toplanmış sudur, cəmi əsən (أضاً), əzanın cəmi isə uzadılmış şəkildə izadırmış (إضاءٌ), bu da nadirdir (١).",
+ "az": "[أضا] Həmzə və dad, ardınca gələnin illətli olması ilə birgə tək bir kəlmədir; o da الأضاة (əl-əda) olub, gölməçə kimi suyun yığılıb qaldığı yerdir. Əbu Ubeyd demişdir: «الأضاة (əl-əda) — seldən və ya başqa şeydən yığılmış sudur, cəmi أَضاً (ədan), أَضَا-nın cəmi isə məd ilə إِضاءٌ (ida) gəlir ki, bu da nadirdir (١)».",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:04:44.952Z"
+ "ts": "2026-10-24T19:04:44.952Z",
+ "prev_az": "«أضا» (hərf həmzə, dad və illətli hərf): tək bir kəlmədir, o da əzadədir (الأضاة), suyun gölməçə kimi yığıldığı yerdir. \nƏbu Übeyd demişdir: Əzada — sel və ya başqa şeydən toplanmış sudur, cəmi əsən (أضاً), əzanın cəmi isə uzadılmış şəkildə izadırmış (إضاءٌ), bu da nadirdir (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أضاً» sözünün transkripsiyası «əsən» kimi səhv yazılıb.",
+  "Maddə başlığı, hərf adları və cümlə quruluşu tələb olunan elmi formata uyğunlaşdırılmalıdır."
+ ],
+ "review_ts": "2026-11-15T07:11:03.536Z"
 }

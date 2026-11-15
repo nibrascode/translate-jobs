@@ -13,5 +13,10 @@
  "ar": "الهمزة والحاء والدال فرع والأصل الواو وَحَد، وقد ذكر فى الواو. وقال الدريدىّ: ما اسْتَأْحَدت بهذا الأمر أى ما انفردت به.",
  "az": "[أحد]\nHəmzə, ha və dəl törəmədir; əsli isə vav ilə olan «وَحَد»dir (vəhad) və o, vav (و) hərfində qeyd edilmişdir. Əd-Dureydi demişdir: «ما اسْتَأْحَدت بهذا الأمر», yəni bu işdə tək qalmadım (təkbaşına davranmadım).",
  "model": "gemini-flash-latest",
- "ts": "2026-10-24T18:56:49.982Z"
+ "ts": "2026-10-24T18:56:49.982Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:28:43.053Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 219
  },
  "ar": "الباء والراء والشين كلمةٌ واحدةٌ، وهو أن يكون الشئِ ذا نُقَطٍ متفرّقةٍ بِيضٍ. وكان جَذِيمَةُ أبرَصَ، فكُنِّىَ بالأبرش.",
- "az": "[برش] الباء والراء والشين (ba, ra və şin) bir kəlmədir, o da bir şeyin üzərində müxtəlif ağ nöqtələrin olmasıdır. Cəzimə əbrəş (ala) idi, buna görə də ona Əbrəş ləqəbi verilmişdi.",
+ "az": "[برش] الباء والراء والشين (ba, ra və şin) bir kəlmədir, o da bir şeyin üzərində müxtəlif ağ nöqtələrin olmasıdır. Cəzimə bərəşli (albinos) idi, buna görə də [bərəs sözündən qaçınmaq üçün] Əbrəş (alabəzək) ləqəbi ilə çağırılmışdı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:28:19.571Z"
+ "ts": "2026-10-25T00:28:19.571Z",
+ "prev_az": "[برش] الباء والراء والشين (ba, ra və şin) bir kəlmədir, o da bir şeyin üzərində müxtəlif ağ nöqtələrin olmasıdır. Cəzimə əbrəş (ala) idi, buna görə də ona Əbrəş ləqəbi verilmişdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أبرص» (albinos/bərəşli) sözü tərcümədə buraxılaraq məna təhrif edilmişdir."
+ ],
+ "review_ts": "2026-11-15T07:25:57.711Z"
 }

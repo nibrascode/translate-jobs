@@ -13,5 +13,10 @@
  "ar": "الهمزة والجيم والحاء فرعٌ ليس بأصل، وذلك أنّ الهمزة فيه مبدلةٌ من واو، فالأُجاح: * السِّتر، وأصله وُجاح. وقد ذُكر فى الواو.",
  "az": "[أجح]\n«Həmzə», «cim» və «ha» bir fərdur (törəmədir), əsl deyildir. Çünki oradakı həmzə «vav» hərfindən əvəzlənmişdir (ibdal olmuşdur). Beləliklə, «الأُجاح» pərdə (örtük) deməkdir və əsli «وُجاح»dır. Bu isə «vav» hərfində zikr olunmuşdur.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-24T18:53:37.018Z"
+ "ts": "2026-10-24T18:53:37.018Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:28:14.820Z"
 }

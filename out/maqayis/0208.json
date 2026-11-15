@@ -11,7 +11,16 @@
   "page_to": 212
  },
  "ar": "الباء والدال والهاء أصلٌ واحد يدلُّ على أوَّل الشئِ والذى يفاجِئُ منه. يقال بادَهْتُ فُلاناً بالأمر، إذا فاجأتَه. وفلانٌ ذو بَديهة إذا فجِئَه الأمرُ لم يتحيَّر. والبُدَاهة أوّل جَرْى الفرَس؛ قال الأعشى:\nإِلاّ بُداهَةَ أو عُلا … لَةَ سابحٍ نَهْدِ الجُزَارَهْ (١)",
- "az": "[بده] (bə-də-h): الباء والدال والهاء أصلٌ واحد يدلُّ على أوَّل الشئِ والذى يفاجِئُ منه (Bə, dal və hə bir əsasdır, şeyin əvvəlinə və ondan qəfil gələnə dəlalət edir). يقال بادَهْتُ فُلاناً بالأمر، إذا فاجأتَه (Fulanı işlə qəfil yaxaladığım zaman badəhtü fülənan bil-əmr - deyilir). وفلانٌ ذو بَديهة إذا فجِئَه الأمرُ لم يتحيَّر (Fulan elə bir bədihə sahibidir ki, iş ona qəfil gəlsə belə, heç zaman çaşmır). والبُدَاهة أوّل جَرْى الفرَس (Budahət atın ilk qaçışıdır); قال الأعشى (Əşa demişdir): إلاّ بُداهَةَ أو عُلا … لَةَ سابحٍ نَهْدِ الجُزَارَهْ (١) (Üzgüçü, güclü atın ilk qaçışından və ya qalıqlarından başqa).",
+ "az": "[بده] (ba, dal, hə) bir əsas kökdür, bir şeyin əvvəlinə və qəfildən baş verəninə dəlalət edir. Birini işlə qəfil yaxaladıqda بادَهْتُ فُلاناً بالأمر (badəhtu fulanən bil-əmr) deyilir. Bir iş qəfil gəldikdə çaşmayan adama فلانٌ ذو بَديهة (fulanun zu bədihə) deyirlər. البُدَاهَة (əl-budahə) atın ilk qaçışıdır; Ə'şa demişdir:\nإِلاّ بُداهَةَ أو عُلا … لَةَ سابحٍ نَهْدِ الجُزَارَهْ (١)\n(Yalnız yel kimi qaçan, iri sümüklü atın ilk qaçışı və ya ikinci qaçışı nəzərdə tutulur).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:27:58.606Z"
+ "ts": "2026-10-25T00:27:58.606Z",
+ "prev_az": "[بده] (bə-də-h): الباء والدال والهاء أصلٌ واحد يدلُّ على أوَّل الشئِ والذى يفاجِئُ منه (Bə, dal və hə bir əsasdır, şeyin əvvəlinə və ondan qəfil gələnə dəlalət edir). يقال بادَهْتُ فُلاناً بالأمر، إذا فاجأتَه (Fulanı işlə qəfil yaxaladığım zaman badəhtü fülənan bil-əmr - deyilir). وفلانٌ ذو بَديهة إذا فجِئَه الأمرُ لم يتحيَّر (Fulan elə bir bədihə sahibidir ki, iş ona qəfil gəlsə belə, heç zaman çaşmır). والبُدَاهة أوّل جَرْى الفرَس (Budahət atın ilk qaçışıdır); قال الأعشى (Əşa demişdir): إلاّ بُداهَةَ أو عُلا … لَةَ سابحٍ نَهْدِ الجُزَارَهْ (١) (Üzgüçü, güclü atın ilk qaçışından və ya qalıqlarından başqa).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytində «عُلالة» sözü «qalıqlar» kimi yanlış tərcümə olunub (ikinci qaçış/təkrar qaçış deməkdir)."
+ ],
+ "review_ts": "2026-11-15T07:25:03.268Z"
 }

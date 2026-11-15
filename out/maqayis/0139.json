@@ -11,7 +11,17 @@
   "page_to": 145
  },
  "ar": "الهمزة والنون والضاد كلمةٌ واحدة لا يقاس عليها، يقال لحم أَنِيضٌ، إذا بقى فيه نُهُوءَةٌ، أى لم يَنْضَج. وقال زهير:\nيُلَجْلِجُ مُضْغَةً فيها أَنيضٌ … أَصَلَّتْ فهى تحتَ الكشحِ داءُ (٤)\nتقول: آنَضْتُه إيناضاً، وأَنُضَ أَناضَةً.",
- "az": "[أنض] (Ə-N-Ḍ)\nHəmzə, nun və ḍad hərfləri üzərində qiyas aparılmayan tək bir kəlmədir. Ət tam bişmədikdə, çiy qaldıqda «لحم أَنِيضٌ» deyilir. Zuheyr demişdir:\nيُلَجْلِجُ مُضْغَةً فيها أَنيضٌ … أَصَلَّتْ فهى تحتَ الكشحِ داءُ\nDeyirsən: «آنَضْتُه إيناضاً» (əti çiy saxladım) və «أَنُضَ أَناضَةً» (ət çiy qaldı).",
+ "az": "[أنض]\nHəmzə, nun və dad üzərində qiyas aparılmayan tək bir kəlmədir. Ət tam bişmədikdə, çiyliyi qaldıqda «لحم أَنِيضٌ» deyilir. Zuheyr demişdir:\nيُلَجْلِجُ مُضْغَةً فيها أَنيضٌ … أَصَلَّتْ فهى تحتَ الكشحِ داءُ (٤)\n(O, daxilində çiylik olan bir tikə əti ağzında çevirir; o ət iylənmişdir və qabırğanın altında bir xəstəlikdir).\nDeyirsən: «آنَضْتُه إيناضاً» və «أَنُضَ أَناضَةً».",
  "model": "gemini-3.5-flash",
- "ts": "2026-10-25T00:21:39.493Z"
+ "ts": "2026-10-25T00:21:39.493Z",
+ "prev_az": "[أنض] (Ə-N-Ḍ)\nHəmzə, nun və ḍad hərfləri üzərində qiyas aparılmayan tək bir kəlmədir. Ət tam bişmədikdə, çiy qaldıqda «لحم أَنِيضٌ» deyilir. Zuheyr demişdir:\nيُلَجْلِجُ مُضْغَةً فيها أَنيضٌ … أَصَلَّتْ فهى تحتَ الكشحِ داءُ\nDeyirsən: «آنَضْتُه إيناضاً» (əti çiy saxladım) və «أَنُضَ أَناضَةً» (ət çiy qaldı).",
+ "prev_model": "gemini-3.5-flash",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Zuheyrin şeir beyti tərcüməsiz qalmışdır.",
+  "Ərəb mətnindəki (٤) haşiyə nömrəsi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T07:18:16.411Z"
 }

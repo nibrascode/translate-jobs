@@ -11,7 +11,18 @@
   "page_to": 137
  },
  "ar": "الهمزة والميم والتاء أصلٌ واحد لا يقاس عليه، وهو الأَمْتُ، قال اللّه تعالى: ﴿لا تَرى فِيها عِوَجاً وَلا أَمْتاً﴾. قال الخليل: العِوَج والأمْتُ بمعنًى واحد. وقال آخرون - وهو ذلك المعنى - إنّ الأمْتَ أن يغلُظ مكانٌ ويَرِقَ مكان.",
- "az": "«أمت»\nHəmzə, mim və ta hərf hərfləri tək bir əsasdır, ona əsasən müqayisə aparılmaz (qiyas edilməz). Bu da əl-əmt «الأَمْت» sözüdür. Uca Allah buyurmuşdur: mənaca tərcümə: «Orada heç bir əyrilik və sərtlik (və ya eniş-yoxuş) görməzsən» ﴿لا تَرى فِيها عِوَجاً وَلا أَمْتاً﴾. Əl-Xəlil demişdir: Əl-ivəc «العِوَج» (əyrilik) və əl-əmt «الأمْت» eyni mənanı ifadə edir. Başqaları isə — bu da həmin mənadadır — demişlər: əl-əmt «الأمْت» bir yerin qalın, digər yerin isə nazik olmasıdır.",
+ "az": "[أمت] Həmzə, mim və ta hərfləri tək bir əsasdır, ona əsasən müqayisə aparılmaz (qiyas edilməz). Bu da الأَمْت (eniş-yoxuş, relyef nahamarılığı) sözüdür. Uca Allah buyurmuşdur: ﴿لا تَرى فِيها عِوَجاً وَلا أَمْتاً﴾ (mənaca tərcümə: «Orada heç bir əyrilik və eniş-yoxuş görməzsən»). Əl-Xəlil demişdir: العِوَج (əyrilik) və الأمْت eyni mənanı ifadə edir. Başqaları isə — bu da həmin mənadadır — demişlər: الأمْت bir yerin qalın (yüksək), digər yerin isə nazik (çökək) olmasıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:16:01.621Z"
+ "ts": "2026-10-24T19:16:01.621Z",
+ "prev_az": "«أمت»\nHəmzə, mim və ta hərf hərfləri tək bir əsasdır, ona əsasən müqayisə aparılmaz (qiyas edilməz). Bu da əl-əmt «الأَمْت» sözüdür. Uca Allah buyurmuşdur: mənaca tərcümə: «Orada heç bir əyrilik və sərtlik (və ya eniş-yoxuş) görməzsən» ﴿لا تَرى فِيها عِوَجاً وَلا أَمْتاً﴾. Əl-Xəlil demişdir: Əl-ivəc «العِوَج» (əyrilik) və əl-əmt «الأمْت» eyni mənanı ifadə edir. Başqaları isə — bu da həmin mənadadır — demişlər: əl-əmt «الأمْت» bir yerin qalın, digər yerin isə nazik olmasıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[أمت]» olmalıdır.",
+  "Mətndə «hərf hərfləri» mexaniki təkrar səhvi var.",
+  "Quran ayəsinin tərcümə formatı qaydaya uyğun olaraq ərəb mətni + «mənaca tərcümə: ...» şəklində verilməlidir."
+ ],
+ "review_ts": "2026-11-15T07:16:07.489Z"
 }

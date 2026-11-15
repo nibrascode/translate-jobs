@@ -11,7 +11,17 @@
   "page_to": 150
  },
  "ar": "الهمزة والهاء والباء كلمتان متباينتا الأصل، فالأُولى الإِهاب.\nقال ابنُ دُريد: الإِهاب * الجِلْد قبل أن يُدْبَغ، والجمع أَهَبٌ. وهو أَحَدُ ما جُمع على فَعَلٍ وواحدُه فعيلٌ [وفعولٌ وفِعال (٣)]: أديمٌ وأَدَمٌ، وأَفِيقٌ وأَفَقٌ، وعمُود وعَمَدٌ، وإهاب وأَهَبٌ. وقال الخليل: كلُّ جلدٍ إهابٌ، والجمع أَهَبٌ (٤).\nوالكلمة الثَّانية التَّأهُّب. قال الخليل: تأَهّبُوا للسَّير. وأخَذَ فلانٌ أُهْبَتَهُ، وتطرح الألف فيقال: هُبَتَه.",
- "az": "[(Üçhərfli sözlərdə həmzə, ha və onlardan sonrakı hərflər babı)]\n[أهب] (Ə-H-B)\nHəmzə, ha və ba hərfləri kökləri fərqli iki sözdür:\nBirincisi — «الإِهاب» (aşulanmamış dəri) sözüdür. İbn Dureyd demişdir: «الإِهاب» — aşılanmazdan əvvəlki dəridir, cəmi «أَهَبٌ» şəklindədir. Bu, tək forması «فعيل», «فعول» və «فِعال» vəznində olub cəmi «فَعَلٌ» vəznində gələn sözlərdəndir: «أديمٌ وأَدَمٌ», «أَفِيقٌ وأَفَقٌ», «عمُود وعَمَدٌ», «إهاب وأَهَبٌ». Əl-Xəlil demişdir: Hər bir dəri «إهاب» adlanır, cəmi «أَهَبٌ» kimidir.\nİkinci söz — «التَّأهُّب» (hazırlaşmaq) sözüdür. Əl-Xəlil demişdir: «تأَهّبُوا للسَّير» (Səfərə hazırlaşdılar). «أخَذَ فلانٌ أُهْبَتَهُ» (Filankəs hazırlığını gördü) deyilir; bəzən əlif atılaraq «هُبَتَه» şəklində də işlənilir.",
+ "az": "[أهب]\nHəmzə, ha və ba hərfləri kökləri fərqli iki sözdür:\nBirincisi — «الإِهاب» sözüdür. İbn Dureyd demişdir: «الإِهاب» — aşılanmazdan əvvəlki dəridir, cəmi «أَهَبٌ» şəklindədir. Bu, tək forması «فعيل», «فعول» və «فِعال» (٣) vəznində olub cəmi «فَعَلٌ» vəznində gələn sözlərdəndir: «أديمٌ وأَدَمٌ», «أَفِيقٌ وأَفَقٌ», «عمُود وعَمَدٌ», «إهاب وأَهَبٌ». Əl-Xəlil demişdir: Hər bir dəri «إهاب» adlanır, cəmi «أَهَبٌ» (٤) kimidir.\nİkinci söz — «التَّأهُّب» sözüdür. Əl-Xəlil demişdir: «تأَهّبُوا للسَّير». «أخَذَ فلانٌ أُهْبَتَهُ» deyilir; bəzən əlif atılaraq «هُبَتَه» şəklində də işlənilir.",
  "model": "gemini-3.5-flash",
- "ts": "2026-10-25T00:21:39.494Z"
+ "ts": "2026-10-25T00:21:39.494Z",
+ "prev_az": "[(Üçhərfli sözlərdə həmzə, ha və onlardan sonrakı hərflər babı)]\n[أهب] (Ə-H-B)\nHəmzə, ha və ba hərfləri kökləri fərqli iki sözdür:\nBirincisi — «الإِهاب» (aşulanmamış dəri) sözüdür. İbn Dureyd demişdir: «الإِهاب» — aşılanmazdan əvvəlki dəridir, cəmi «أَهَبٌ» şəklindədir. Bu, tək forması «فعيل», «فعول» və «فِعال» vəznində olub cəmi «فَعَلٌ» vəznində gələn sözlərdəndir: «أديمٌ وأَدَمٌ», «أَفِيقٌ وأَفَقٌ», «عمُود وعَمَدٌ», «إهاب وأَهَبٌ». Əl-Xəlil demişdir: Hər bir dəri «إهاب» adlanır, cəmi «أَهَبٌ» kimidir.\nİkinci söz — «التَّأهُّب» (hazırlaşmaq) sözüdür. Əl-Xəlil demişdir: «تأَهّبُوا للسَّير» (Səfərə hazırlaşdılar). «أخَذَ فلانٌ أُهْبَتَهُ» (Filankəs hazırlığını gördü) deyilir; bəzən əlif atılaraq «هُبَتَه» şəklində də işlənilir.",
+ "prev_model": "gemini-3.5-flash",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Əvvələ əlavə edilmiş bab başlığı əvvəlki maddəyə aiddir.",
+  "Mətndəki (٣) və (٤) haşiyə rəqəmləri buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T07:18:40.601Z"
 }

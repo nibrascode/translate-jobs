@@ -13,5 +13,10 @@
  "ar": "الهمزة والهاء والراء كلمةٌ واحدة، ليست عند الخليل ولا ابنِ دُرَيد (١). وقال غيرهما: الأهَرَةُ متاعُ البيت.",
  "az": "[أهر]\nHəmzə, ha və ra bir kəlmədir; nə əl-Xəlildə, nə də İbn Dureyddə (١) mövcuddur. Onlardan başqası demişdir: «الأَهَرَةُ» (əl-əhərə) — ev əşyası, ev avadanlığıdır.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-25T00:24:02.094Z"
+ "ts": "2026-10-25T00:24:02.094Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T07:18:40.602Z"
 }

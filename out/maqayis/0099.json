@@ -11,7 +11,19 @@
   "page_to": 113
  },
  "ar": "الهمزة والطاء والميم، يدلُّ على الحبس والإحاطة بالشئ، يقال للحصْنِ الأُطُم وجمعُهُ آطامٌ، قال امرؤ القيس:\nوَتيْماءَ لم يَتْركْ بها جِذعَ نَخلةٍ … ولا أُطُماً إلاّ مَشِيداً بجَنْدلِ\nومن هذا الباب الاطامُ (١): احتباسُ البطن. والأَطيمة: موقد النَّار والجمع الأطائم. قال الأسْعر (٢):\nفى موقِفٍ ذَرِبِ الشَّبَا وكأنّما … فيه الرجال على الأطائِمِ واللّظى",
- "az": "[أطم] Həmzə, ta və mim — həbs etməyə və bir şeyi əhatə etməyə dəlalət edir. Qalaya أُطُم (utum), onun cəminə isə آطامٌ (atam) deyilir. İmrul-Qeys demişdir: وَتيْماءَ لم يَتْركْ بها جِذعَ نَخلةٍ … ولا أُطُماً إلاّ مَشِيداً بجَنْدلِ (Teyma[də] xurma gövdəsindən heç nə buraxmadı... daşla ucaldılmış möhkəm qaladan başqa). Bu بابdan olan الاطام (əl-atam) — qarın tutulmasıdır (qəbizlik). الأَطيمة (əl-atimə) — od ocağıdır, cəmi الأطائم (əl-ataim) gəlir. Əsər (٢) demişdir: فى موقِفٍ ذَرِبِ الشَّبَا وكأنّما … فيه الرجال على الأطائِمِ واللّظى (Ucu iti məqamda ki, sanki orada kişilər ocaqlar və alov üzərindədirlər).",
+ "az": "[أطم] Həmzə, ta və mim həbs etməyə və bir şeyi əhatə etməyə dəlalət edir. Qalaya الأُطُم (əl-utum), cəminə isə آطامٌ (atam) deyilir. İmrul-Qeys demişdir:\nوَتيْماءَ لم يَتْركْ بها جِذعَ نَخلةٍ … ولا أُطُماً إلاّ مَشِيداً بجَنْدلِ\n(Və Teymada nə bir xurma kötüynü saxladı, nə də daşla ucaldılmış qaladan başqa bir qala qoydu).\nBu babdandır: الاطامُ (١) (əl-itam) — qarnın həbsi (bağırsaqların tutulması, qəbizlik). الأَطيمة (əl-ətimə) isə od ocağıdır, cəmi الأطائم (əl-ətaim) gəlir. Əl-Əs'ar (٢) demişdir:\nفى موقِفٍ ذَرِبِ الشَّبَا وكأنّما … فيه الرجال على الأطائِمِ واللّظى\n(İti ucların tuşlandığı bir məqamda; sanki oradakı kişilər ocaqlar və alov üzərindədirlər).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:14:12.856Z"
+ "ts": "2026-10-24T19:14:12.856Z",
+ "prev_az": "[أطم] Həmzə, ta və mim — həbs etməyə və bir şeyi əhatə etməyə dəlalət edir. Qalaya أُطُم (utum), onun cəminə isə آطامٌ (atam) deyilir. İmrul-Qeys demişdir: وَتيْماءَ لم يَتْركْ بها جِذعَ نَخلةٍ … ولا أُطُماً إلاّ مَشِيداً بجَنْدلِ (Teyma[də] xurma gövdəsindən heç nə buraxmadı... daşla ucaldılmış möhkəm qaladan başqa). Bu بابdan olan الاطام (əl-atam) — qarın tutulmasıdır (qəbizlik). الأَطيمة (əl-atimə) — od ocağıdır, cəmi الأطائم (əl-ataim) gəlir. Əsər (٢) demişdir: فى موقِفٍ ذَرِبِ الشَّبَا وكأنّما … فيه الرجال على الأطائِمِ واللّظى (Ucu iti məqamda ki, sanki orada kişilər ocaqlar və alov üzərindədirlər).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şairin adı təhrif olunub («əl-Əs'ar» əvəzinə «Əsər» yazılıb).",
+  "«الاطامُ (١)» sözünün yanındakı haşiyə nömrəsi (١) buraxılıb.",
+  "«Bu بابdan» ifadəsində ərəb sözü ilə latın şəkilçisi calaqlanıb.",
+  "Abzas bölgüsü pozulub."
+ ],
+ "review_ts": "2026-11-15T07:11:03.536Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 151
  },
  "ar": "الهمزة والهاء والنون كلمة واحدة لا يقاس عليها. قال الخليل: الإِهان العُرْجون، وهو ما فوقَ شماريخ عِذْق التَّمر، أى النخلة. وقال:\nإنّ لها يَداً كمثل الإِهان … مَلْسَا وَبَطْناً بات خُمْصانا (٣)\nوالعَدَد (٤) آهِنَة، والجميع أُهُنٌ.",
- "az": "[أهن]\nHəmzə, ha və nun tək bir kəlmədir, ona qiyas edilməz. əl-Xəlil demişdir: «الإِهان» (əl-ihan) — «العُرْجون»dur (əl-urcun — xurma salxımının saplağı/budağı), yəni xurma ağacında xurma salxımının budaqcıqlarından yuxarıda olan hissədir. Şair demişdir:\nإنّ لها يَداً كمثل الإِهان … مَلْسَا وَبَطْناً بات خُمْصانا (٣)\n(Mənası: \"Onun xurma budağı kimi hamar bir qolu və ac qalmış (incə) bir qarnı vardır.\")\nSay bildirən forması (təki) «آهِنَة» (ahinə), cəmi isə «أُهُنٌ» (uhun) şəklindədir.",
+ "az": "[أهن]\nHəmzə, ha və nun tək bir kəlmədir, ona qiyas edilməz. əl-Xəlil demişdir: «الإِهان» — «العُرْجون»dur, yəni xurma ağacında xurma salxımının budaqcıqlarından yuxarıda olan hissədir. Şair demişdir:\nإنّ لها يَداً كمثل الإِهان … مَلْسَا وَبَطْناً بات خُمْصانا (٣)\n(Mənası: \"Onun xurma budağı kimi hamar bir qolu və ac qalmış (incə) bir qarnı vardır.\")\nSay bildirən forması (təki) (٤) «آهِنَة», cəmi isə «أُهُنٌ» şəklindədir.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-25T00:24:02.094Z"
+ "ts": "2026-10-25T00:24:02.094Z",
+ "prev_az": "[أهن]\nHəmzə, ha və nun tək bir kəlmədir, ona qiyas edilməz. əl-Xəlil demişdir: «الإِهان» (əl-ihan) — «العُرْجون»dur (əl-urcun — xurma salxımının saplağı/budağı), yəni xurma ağacında xurma salxımının budaqcıqlarından yuxarıda olan hissədir. Şair demişdir:\nإنّ لها يَداً كمثل الإِهان … مَلْسَا وَبَطْناً بات خُمْصانا (٣)\n(Mənası: \"Onun xurma budağı kimi hamar bir qolu və ac qalmış (incə) bir qarnı vardır.\")\nSay bildirən forması (təki) «آهِنَة» (ahinə), cəmi isə «أُهُنٌ» (uhun) şəklindədir.",
+ "prev_model": "gemini-flash-latest",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndəki (٤) haşiyə rəqəmi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T07:18:40.602Z"
 }

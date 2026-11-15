@@ -13,5 +13,10 @@
  "ar": "الباء والذال والعين، كلمة واحدة فيها نظرٌ ولا يقاسُ عليها، يقولون بَذَعْتُه وأبْذَعْتُه إذا أفزَعْتَه.",
  "az": "[بذع] الباء والذال والعين (ba, zal və əyn) bir kəlmədir ki, onda nəzər (müzakirə) var və ona əsasən qiyas edilmir; deyirlər: «بَذَعْتُه وأبْذَعْتُه» (mən onu qorxutdum və vahiməyə saldım).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:28:19.571Z"
+ "ts": "2026-10-25T00:28:19.571Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T07:25:27.460Z"
 }

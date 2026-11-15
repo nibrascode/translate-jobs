@@ -11,7 +11,17 @@
   "page_to": 210
  },
  "ar": "الباء والدال والغين، ليست فيه كلمةٌ أصلية، لأنّ الدال فى أحد أصولها مبدَلة من طاءِ، وهو قولهم بَدِغَ الرَّجُل إذا تلطَّخ بالشّرّ، وهو بَدِغٌ من الرِّجال. وهذا إنما هو فى الأصل طاء، وقد ذكر فى بابه (بطغ). وبقيت كلمتان مشكوك فيهما: إحداهما قولهم البَدَغ التزحُّف على الأرض. والأخرى قولهم:\nإنّ بنى فُلانٍ لبَدِغُونَ، إذا كانوا سِماناً حسنةً أحوالُهم. واللّه أعلمُ بصحَّة ذلك.",
- "az": "[بدغ] (bə-də-ğ): الباء والدال والغين، ليست فيه كلمةٌ أصلية، لأنّ الدال فى أحد أصولها مبدَلة من طاءِ، وهو قولهم بَدِغَ الرَّجُل إذا تلطَّخ بالشّرّ، وهو بَدِغٌ من الرِّجال (Bə, dal və ğın hərflərindən ibarət əsaslı bir kəsim yoxdur, çünki buradakı dal hərfi ta hərfini əvəz etmişdir. Bu, onların badigə ər-racul - kişi şərə bulaşdı - demələridir və o, kişilərdən badigdir). وهذا إنما هو فى الأصل طاء، وقد ذكر فى بابه (بطغ) (Bu əslində ta hərfidir və öz babında (b-ط-غ) zikr edilmişdir). وبقيت كلمتان مشكوك فيهما: إحداهما قولهم البَدَغ التزحُّف على الأرض (Şübhə doğuran iki kəsim qalmışdır: biri onların əl-badəğ - yer üzündə sürünmək - sözüdür). والأخرى قولهم: إنّ بنى فُلانٍ لبَدِغُونَ، إذا كانوا سِماناً حسنةً أحوالُهم (Digəri isə: Fulan oğulları kök və halları yaxşı olduqda inna bəni fulanin lə-badiğun - demələridir). واللّه أعلمُ بصحَّة ذلك (Bunun səhih olmasını Allah daha yaxşı bilir).",
+ "az": "[بدغ] (ba, dal, ğayn) kökündə əsli bir söz yoxdur, çünki buradakı dal (د) hərfi əslində ta (ط) hərfindən bədəldir (əvəzdir). Bu, onların kişi şərə bulaşdıqda بَدِغَ الرَّجُل (bədiğa er-racul) və o kişilərdən بَدِغٌ (bədiğ) demələridir. Bu əslində ta hərfilədir və öz babında (بطغ) zikr edilmişdir. Şübhəli olan iki söz qalmışdır: birincisi onların البَدَغ (əl-bədəğ) - yer üzündə sürünmək - demələridir. Digəri isə: Fulan oğulları kök olduqda və halları yaxşılaşdıqda إنّ بنى فُلانٍ لبَدِغُونَ (innə bəni fulanin lə-bədiğun) demələridir. Bunun səhihliyini Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:27:58.606Z"
+ "ts": "2026-10-25T00:27:58.606Z",
+ "prev_az": "[بدغ] (bə-də-ğ): الباء والدال والغين، ليست فيه كلمةٌ أصلية، لأنّ الدال فى أحد أصولها مبدَلة من طاءِ، وهو قولهم بَدِغَ الرَّجُل إذا تلطَّخ بالشّرّ، وهو بَدِغٌ من الرِّجال (Bə, dal və ğın hərflərindən ibarət əsaslı bir kəsim yoxdur, çünki buradakı dal hərfi ta hərfini əvəz etmişdir. Bu, onların badigə ər-racul - kişi şərə bulaşdı - demələridir və o, kişilərdən badigdir). وهذا إنما هو فى الأصل طاء، وقد ذكر فى بابه (بطغ) (Bu əslində ta hərfidir və öz babında (b-ط-غ) zikr edilmişdir). وبقيت كلمتان مشكوك فيهما: إحداهما قولهم البَدَغ التزحُّف على الأرض (Şübhə doğuran iki kəsim qalmışdır: biri onların əl-badəğ - yer üzündə sürünmək - sözüdür). والأخرى قولهم: إنّ بنى فُلانٍ لبَدِغُونَ، إذا كانوا سِماناً حسنةً أحوالُهم (Digəri isə: Fulan oğulları kök və halları yaxşı olduqda inna bəni fulanin lə-badiğun - demələridir). واللّه أعلمُ بصحَّة ذلك (Bunun səhih olmasını Allah daha yaxşı bilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«كلمة» sözü «kəsim» kimi yanlış tərcümə olunub.",
+  "Ərəbcə sözlərin oxunuş transkripsiyası təhrif edilib."
+ ],
+ "review_ts": "2026-11-15T07:25:03.267Z"
 }

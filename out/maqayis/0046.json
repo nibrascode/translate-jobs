@@ -13,5 +13,10 @@
  "ar": "الهمزة والخاء والواو ليس بأصلٍ؛ لأنّ الهمزة عندنا مبدلة من واو، وقد ذكرت فى كتاب الواو بشرحها، وكذلك الآخِيَّة.",
  "az": "[أخو]\nHəmzə, xa və vav əsli kök deyildir; çünki bizə görə buradakı həmzə vav (و) hərfindən çevrilmişdir və vav kitabında ətraflı izahı ilə qeyd edilmişdir. «الآخِيَّة» (əl-axiyyə — heyvan bağlanan dirək/ilgək) də həmçinin.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-24T18:56:49.982Z"
+ "ts": "2026-10-24T18:56:49.982Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:28:50.374Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 112
  },
  "ar": "الهمزة والطاء واللام، أصلٌ واحد وكلمة واحدة، وهو الإِطِلُ والإِطْلُ، وهى الخاصرة؛ وجمعه آطال. وكذلك الأَيْطَل. قال امرؤ القيس:\nله أيْطَلا ظىٍ وساقا نَعامةٍ … وإرْخاءُ سِرْحان وتقريبُ تَتْفُلِ\nوذا لا يُقاس عليه.",
- "az": "«أطل»: (هəmzə, ta və lam) tək bir əsas və tək bir kəlmədir. O da «الإِطِلُ» və «الإِطْلُ» olub, böyür (qarın boşluğu) deməkdir; cəmi «آطال» (atal) gəlir. Eləcə də «الأَيْطَل» (əytəl) kimidir. İmrül-Qeys demişdir: لَهُ أَيْطَلَا ظَبْيٍ وَسَاقَا نَعَامَةٍ … وَإِرْخَاءُ سِرْhَانٍ وَتَقْرِribُ تَتْفُلِ (Onun ceyran böyürləri, dəvəquşu ساقları var, canavarın sürətlə qaçması və tülkü balasının qaçışı kimi). Və bununla qiyas edilməz.",
+ "az": "[أطل] Həmzə, ta və lam tək bir əsas və tək bir kəlmədir; o da الإِطِلُ (əl-itil) və الإِطْلُ (əl-itl) olub, böyür (qarın boşluğu) deməkdir; cəmi آطال (atal) gəlir. Eləcə də الأَيْطَل (əl-əytal) eyni mənadadır. İmrul-Qeys demişdir:\nله أيْطَلا ظىٍ وساقا نَعامةٍ … وإرْخاءُ سِرْحان وتقريبُ تَتْفُلِ\n(Onun ceyran kimi iki böyrü, dəvəquşu kimi iki qıçı, canavar kimi axıcı yerişi və tülkü balası kimi yortması vardır).\nBuna isə qiyas edilməz.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:14:01.699Z"
+ "ts": "2026-10-24T19:14:01.699Z",
+ "prev_az": "«أطل»: (هəmzə, ta və lam) tək bir əsas və tək bir kəlmədir. O da «الإِطِلُ» və «الإِطْلُ» olub, böyür (qarın boşluğu) deməkdir; cəmi «آطال» (atal) gəlir. Eləcə də «الأَيْطَل» (əytəl) kimidir. İmrül-Qeys demişdir: لَهُ أَيْطَلَا ظَبْيٍ وَسَاقَا نَعَامَةٍ … وَإِرْخَاءُ سِرْhَانٍ وَتَقْرِribُ تَتْفُلِ (Onun ceyran böyürləri, dəvəquşu ساقları var, canavarın sürətlə qaçması və tülkü balasının qaçışı kimi). Və bununla qiyas edilməz.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir mətnində ərəb və latın hərfləri qarışıb («سِرْhَانٍ», «وَتَقْرِribُ»).",
+  "Ərəb mətni AR-dakı əsli ilə eyni köçürülməyib (ظىٍ əvəzinə ظَبْيٍ yazılıb).",
+  "Şeir tərcüməsində tərcüməsiz söz qalıb («ساقları»).",
+  "Abzas bölgüsü və format pozulub."
+ ],
+ "review_ts": "2026-11-15T07:11:03.536Z"
 }

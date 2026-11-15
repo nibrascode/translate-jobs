@@ -11,7 +11,17 @@
   "page_to": 95
  },
  "ar": "الهمزة والزاء والقاف قياسٌ واحد وأصلٌ واحد، وهو الضِّيق. قال الخليل وغيره: الأَزْقُ الضِّيق فى الحرب، وكذلك يدعى مكان الوَغَى المَأْزِق. قال ابنُ الأعرابىّ: يقال استؤْزِق على فلانٍ إذا ضاق عليه المكان فلم يُطِقْ أن يَبْرُز. وهو فى شعر العجّاج:\n* [مَلَالةً يَمَلُّهَا] وَأَزْقَا (٢) *",
- "az": "[أزق]\nHəmzə, zay və qaf hərfləri tək bir qiyas və tək bir əsasdır: sıxlıq. Xəlil və başqaları demişdirlər: Əl-əzq (الأَزْقُ) – döyüşdə sıxlıqdır, eləcə də döyüş meydanı məjəq (المَأْزِق) adlanır. İbn əl-Ərəbi demişdir: استؤْزِق على فلانٍ (istüziq alə fələn) – filankəsin üzərinə daraldıqda, o zaman ki, məkan daraldı və o, çölə çıxa bilmədi. Bu, Əccacın şeirindədir:\n* [مَلَالةً يَمَلُّهَا] وَأَزْقَا (٢) *",
+ "az": "[أزق]\nHəmzə, zey və qaf hərfləri tək bir qiyas və tək bir əsasdır, o da darlıqdır. əl-Xəlil və başqaları demişlər: الأَزْقُ – döyüşdə darlıq, sıxlıqdır; eləcə də döyüş meydanına المَأْزِق deyilir. İbnul-Ərabî demişdir: استؤْزِق على فلانٍ – filankəsin yeri daraldıqda və meydana çıxmağa gücü çatmadıqda deyilir. Bu, əl-Əccacın şeirində belə keçir:\n* [مَلَالةً يَمَلُّهَا] وَأَزْقَا (٢) *\n(…usanacağı bir usanma və bir sıxıntı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:03:55.064Z"
+ "ts": "2026-10-24T19:03:55.064Z",
+ "prev_az": "[أزق]\nHəmzə, zay və qaf hərfləri tək bir qiyas və tək bir əsasdır: sıxlıq. Xəlil və başqaları demişdirlər: Əl-əzq (الأَزْقُ) – döyüşdə sıxlıqdır, eləcə də döyüş meydanı məjəq (المَأْزِق) adlanır. İbn əl-Ərəbi demişdir: استؤْزِق على فلانٍ (istüziq alə fələn) – filankəsin üzərinə daraldıqda, o zaman ki, məkan daraldı və o, çölə çıxa bilmədi. Bu, Əccacın şeirindədir:\n* [مَلَالةً يَمَلُّهَا] وَأَزْقَا (٢) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "əl-Əccacın beyt parçasının tərcüməsi buraxılmışdır.",
+  "«المأزق» sözü «məjəq» kimi təhrif edilmişdir."
+ ],
+ "review_ts": "2026-11-15T06:57:07.059Z"
 }

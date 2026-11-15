@@ -11,7 +11,16 @@
   "page_to": 149
  },
  "ar": "الهمزة والنون والكاف ليس فيه أصلٌ، غير أنّه قد ذُكِر الآنُك. ويقال هو خالص الرصاص، ويقال بل جنسٌ منه.\n[(باب الهمزة والهاء وما بعدهما فى الثلاثى)]",
- "az": "[أنك] (Ə-N-K)\nHəmzə, nun və kaf hərflərində heç bir kök (birləşdirici əsl) yoxdur. Ancaq «الآنُك» (qurğuşun) sözü qeyd olunmuşdur. Deyilir ki, o xalis qurğuşundur, yaxud onun bir növüdür.",
+ "az": "[أنك]\nHəmzə, nun və kaf hərflərində heç bir kök yoxdur. Ancaq «الآنُك» sözü qeyd olunmuşdur. Deyilir ki, o xalis qurğuşundur, yaxud onun bir növüdür.\n[(Üçhərfli sözlərdə həmzə, ha və onlardan sonrakı hərflər babı)]",
  "model": "gemini-3.5-flash",
- "ts": "2026-10-25T00:21:39.494Z"
+ "ts": "2026-10-25T00:21:39.494Z",
+ "prev_az": "[أنك] (Ə-N-K)\nHəmzə, nun və kaf hərflərində heç bir kök (birləşdirici əsl) yoxdur. Ancaq «الآنُك» (qurğuşun) sözü qeyd olunmuşdur. Deyilir ki, o xalis qurğuşundur, yaxud onun bir növüdür.",
+ "prev_model": "gemini-3.5-flash",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin sonundakı bab başlığı tərcümədən buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T07:18:40.601Z"
 }

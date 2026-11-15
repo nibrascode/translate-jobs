@@ -13,5 +13,10 @@
  "ar": "الهمزة والسين والكاف بناؤه فى الكتابين (٣) وقال أهل اللغة: المأسوكة التى أخطأت خافِضتُها فأصابت غيرَ موضع الخَفْض.",
  "az": "[أسك] \\nHəmzə, sin və kaf hərfləri iki kitabda [eyni cür] qurulmuşdur. Dilçilər demişlər: «المأسوكة» (əl-məsuukə) – qadın sünnətçisi xəta edərək sünnət olunmalı yerdən başqa yerə toxunduğu qadın.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:04:20.203Z"
+ "ts": "2026-10-24T19:04:20.203Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T07:06:18.573Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 212
  },
  "ar": "الباء والدال والواو أصلٌ واحد، وهو ظُهور الشئِ. يقال بَدَا الشئُ يَبدُو، إذا ظهَرَ، فهو بادٍ. وسُمِّى خلافُ الحَضَر بَدْواً من هذا، لأنَّهم فى بَرَازٍ من الأرض، وليسوا فى قُرًى تستُرُهم أبنِيتُها. والبادية خِلاف الحاضرة. قال الشاعر (٢):\nفمن تكن الحِضارةُ أعجبَتْهُ … فأىَّ رِجالِ بادِيةٍ تَرَانا\nوتقول بدا لى فى هذا الأمر بَدَاءٌ (٣)، أى تغيَّر رأْيى عما كان عليه.",
- "az": "[بدو] (bə-də-v): الباء والدال والواو أصلٌ واحد، وهو ظُهور الشئِ (Bə, dal və vav bir əsasdır, o da şeyin üzə çıxmasıdır). يقال بَدَا الشئُ يَبدُو، إذا ظهَرَ، فهو بادٍ (Badə əş-şeyu yabdu, üzə çıxdığı zaman badidir - deyilir). وسُمِّى خلافُ الحَضَر بَدْواً من هذا، لأنَّهم فى بَرَازٍ من الأرض، وليسوا فى قُرًى تستُرُهم أبنِيتُها (Şəhər həyatının əksi olan badv buradan adlandırılmışdır, çünki onlar tikililərin örtmədiyi açıq səhradadırlar). والبادية خِلاف الحاضرة (Badiyə hədirənin əksidir). قال الشاعر (٢) (Şair demişdir): فمن تكن الحِضارةُ أعجبَتْهُ … فأىَّ رِجالِ بادِيةٍ تَرَانا (Kim mədəni həhəti bəyəndisə... bəs bizimlə hansı çöl adamlarını görürsən). وتقول بدا لى فى هذا الأمر بَدَاءٌ (٣)، أى تغيَّر رأْيى عما كان عليه (Bu işdə mənim fikrim dəyişdi - badə li fi haza əl-əmri badaun - deyirsən, yəni fikrim əvvəlkindən başqa cür oldu).",
+ "az": "[بدو] (ba, dal, vav) bir əsas kökdür, o da bir şeyin üzə çıxmasıdır. Bir şey üzə çıxdıqda بَدَا الشئُ يَبدُو (bədə eş-şəy'u yəbdu), özü isə بَادٍ (badin) adlanır. Şəhər həyatının (ḥaḍāra) əksi olan بَدْو (bədv) sözü bundan adlandırılmışdır, çünki onlar tikililərin gizlətmədiyi açıq səhradadırlar. البَادِيَة (əl-badiyə) الحَاضِرَة (əl-hadiyrə) sözünün əksidir. Şair demişdir (٢):\nفمن تكن الحِضارةُ أعجبَتْهُ … فأىَّ رِجالِ بادِيةٍ تَرَانا\n(Əgər kimisə şəhər həyatı valeh edibsə, qoy baxsın görsün bizi necə səhra adamları görəcək!).\nFikrim əvvəlkindən başqa cür olduqda بدا لى فى هذا الأمر بَدَاءٌ (bədə li fi həzəl-əmri bədaun) deyirsən.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:27:58.606Z"
+ "ts": "2026-10-25T00:27:58.606Z",
+ "prev_az": "[بدو] (bə-də-v): الباء والدال والواو أصلٌ واحد، وهو ظُهور الشئِ (Bə, dal və vav bir əsasdır, o da şeyin üzə çıxmasıdır). يقال بَدَا الشئُ يَبدُو، إذا ظهَرَ، فهو بادٍ (Badə əş-şeyu yabdu, üzə çıxdığı zaman badidir - deyilir). وسُمِّى خلافُ الحَضَر بَدْواً من هذا، لأنَّهم فى بَرَازٍ من الأرض، وليسوا فى قُرًى تستُرُهم أبنِيتُها (Şəhər həyatının əksi olan badv buradan adlandırılmışdır, çünki onlar tikililərin örtmədiyi açıq səhradadırlar). والبادية خِلاف الحاضرة (Badiyə hədirənin əksidir). قال الشاعر (٢) (Şair demişdir): فمن تكن الحِضارةُ أعجبَتْهُ … فأىَّ رِجالِ بادِيةٍ تَرَانا (Kim mədəni həhəti bəyəndisə... bəs bizimlə hansı çöl adamlarını görürsən). وتقول بدا لى فى هذا الأمر بَدَاءٌ (٣)، أى تغيَّر رأْيى عما كان عليه (Bu işdə mənim fikrim dəyişdi - badə li fi haza əl-əmri badaun - deyirsən, yəni fikrim əvvəlkindən başqa cür oldu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümədə «mədəni həhəti» kimi mexaniki hərf səhvi var.",
+  "Şeir beytinin tərcüməsi yanlışdır."
+ ],
+ "review_ts": "2026-11-15T07:25:03.268Z"
 }

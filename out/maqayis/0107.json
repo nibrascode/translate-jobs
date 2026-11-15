@@ -11,7 +11,17 @@
   "page_to": 121
  },
  "ar": "أقر: موضِعٌ. قال النابغة:\nلقد نَهَيْتُ بَنِى ذُبْيان عن أُقُرٍ … وعن تربُّعِهِمْ فى كلِّ أَصْفارِ (١)\nوليس هذا أصلاً.",
- "az": "«أقر» — Üqur: bir yerin adıdır. Nabigə demişdir: / Mən Zübyan oğullarını Uqurdan və bütün səfər aylarında orada yazla qalmaqdan qadağan etdim (١). Bu, əsl (müstəqil kök) deyil.",
+ "az": "[أقر]\nأُقُر: موضِعٌ. قال النابغة:\nلقد نَهَيْتُ بَنِى ذُبْيان عن أُقُرٍ … وعن تربُّعِهِمْ فى كلِّ أَصْفارِ (١)\n(Mən Zübyan oğullarını Uqur məkanından və hər Səfər ayında orada yazlamaqdan çəkindirdim).\nوليس هذا أصلاً.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:05:19.433Z"
+ "ts": "2026-10-24T19:05:19.433Z",
+ "prev_az": "«أقر» — Üqur: bir yerin adıdır. Nabigə demişdir: / Mən Zübyan oğullarını Uqurdan və bütün səfər aylarında orada yazla qalmaqdan qadağan etdim (١). Bu, əsl (müstəqil kök) deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq [kök] formatında yazılmayıb.",
+  "Şeir beytinin ərəbcə mətni ixtisar edilmişdir."
+ ],
+ "review_ts": "2026-11-15T07:13:29.566Z"
 }

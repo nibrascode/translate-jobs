@@ -11,7 +11,16 @@
   "page_to": 210
  },
  "ar": "الباء والدال واللام أصلٌ واحد، وهو قيام الشئِ مَقامَ الشئِ الذاهب. يقال هذا بَدَلُ الشئِ وبَدِيلُه. ويقولون بدّلْتُ الشئَ إذا غيّرتَه وإنْ لم تأْتِ له ببَدَلٍ (٣). قال اللّه تعالى: ﴿قُلْ ما يَكُونُ لِي أَنْ أُبَدِّلَهُ مِنْ تِلْقاءِ نَفْسِي﴾. وأبْدَلْتُه إذا أتيتَ له ببدلٍ. قال الشاعر (٤):\n* عَزْلَ الأمِيرِ للأَميرِ المُبْدَلِ *",
- "az": "[بدل] (bə-də-l): الباء والدال واللام أصلٌ واحد، وهو قيام الشئِ مَقامَ الشئِ الذاهب (Bə, dal və lam bir əsasdır, o da bir şeyin gedən şeyin yerini tutmasıdır). يقال هذا بَدَلُ الشئِ وبَدِيلُه (Bu şeyin bədəli və budilidir - deyilir). ويقولون بدّلْتُ الشئَ إذا غيّرتَه وإنْ لم تأْتِ له ببَدَلٍ (٣) (Həmçinin: Ona bədəl gətirməsən belə dəyişdirdiyin zaman baddaltu əş-şeyə - deyirlər). قال اللّه تعالى: ﴿قُلْ ما يَكُونُ لِي أَنْ أُبَدِّلَهُ مِنْ تِلْقاءِ نَفْسِي﴾ (Allah Təala buyurmuşdur: de ki, mən onu öz tərəfimdən dəyişdirə bilmərəm). وأبْدَلْتُه إذا أتيتَ له ببدلٍ (Ona bədəl gətirdiyin zaman abdaltuhu - deyirsən). قال الشاعر (٤) (Şair demişdir): * عَزْلَ الأمِيرِ للأَميرِ المُبْدَلِ * (Əmiri əvəzlənən əmirlə dəyişmək).",
+ "az": "[بدل] (ba, dal, lam) bir əsas kökdür, o da bir şeyin gedən şeyin yerini tutmasıdır. Bu şeyin بَدَل (bədəl) və بَدِيل (bədil) sözüdür deyilir. Bir şeyi başqası ilə əvəz etməsən belə dəyişdirdiyin zaman بدَّلْتُ الشئَ (bəddaltu eş-şey'ə) deyirlər. Allah Təala buyurmuşdur: ﴿قُلْ ما يَكُونُ لِي أَنْ أُبَدِّلَهُ مِنْ تِلْقاءِ نَفْسِي﴾ (mənaca tərcümə: «De: Mənim onu öz tərəfimdən dəyişdirməyim mümkün deyildir»). Ona bədəl gətirdiyin zaman isə أبْدَلْتُه (əbdəltuhu) deyirsən. Şair demişdir (٤):\n* عَزْلَ الأمِيرِ للأَميرِ المُبْدَلِ *\n(Bu, əvəz olunan əmirin başqa əmirlə vəzifədən azad edilməsi kimidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:27:58.606Z"
+ "ts": "2026-10-25T00:27:58.606Z",
+ "prev_az": "[بدل] (bə-də-l): الباء والدال واللام أصلٌ واحد، وهو قيام الشئِ مَقامَ الشئِ الذاهب (Bə, dal və lam bir əsasdır, o da bir şeyin gedən şeyin yerini tutmasıdır). يقال هذا بَدَلُ الشئِ وبَدِيلُه (Bu şeyin bədəli və budilidir - deyilir). ويقولون بدّلْتُ الشئَ إذا غيّرتَه وإنْ لم تأْتِ له ببَدَلٍ (٣) (Həmçinin: Ona bədəl gətirməsən belə dəyişdirdiyin zaman baddaltu əş-şeyə - deyirlər). قال اللّه تعالى: ﴿قُلْ ما يَكُونُ لِي أَنْ أُبَدِّلَهُ مِنْ تِلْقاءِ نَفْسِي﴾ (Allah Təala buyurmuşdur: de ki, mən onu öz tərəfimdən dəyişdirə bilmərəm). وأبْدَلْتُه إذا أتيتَ له ببدلٍ (Ona bədəl gətirdiyin zaman abdaltuhu - deyirsən). قال الشاعر (٤) (Şair demişdir): * عَزْلَ الأمِيرِ للأَميرِ المُبْدَلِ * (Əmiri əvəzlənən əmirlə dəyişmək).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Quran ayəsinin tərcüməsində tələb olunan «mənaca tərcümə: ...» formatı işlədilməyib."
+ ],
+ "review_ts": "2026-11-15T07:25:03.267Z"
 }

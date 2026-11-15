@@ -13,5 +13,10 @@
  "ar": "الهمزة والجيم والدال أصل واحد، وهو الشَّئ المعقود، وذلك أن الإِجَاد الطّاقُ الذى يُعقَد فى البِناء، ولذلك قيل ناقةٌ أُجُدٌ.\nقال النابغة:\nفَعَدِّ عَمّا تَرَى إِذْ لا ارتجاعَ له … وانْمِ القُتُودَ على عَيرانةٍ أُجُدِ\nويقال هى مُؤْجَدة القَرَى. قال طَرَفة:\nصُهابيّةُ العُثْنونِ مُؤْجَدَةُ القَرَى … بَعِيدةُ وَخْدِ الرِّجْلِ مَوَّارَةُ اليَدِ\nوقيل هى التى تكون فَقارُها عظماً واحداً بلا مَفْصِل، وهذا ممَّا أجمع عليه أهل اللغة، أَعنى القياسَ الذى ذكرتُه.",
  "az": "[أجد]\n«Həmzə», «cim» və «dəl» tək bir əsldir; o da düyünlənmiş, çatılmış (möhkəm) olan şeydir. Belə ki, «الإِجَاد» tikintidə qurulan qübbəvari tağdır; buna görə də «ناقةٌ أُجُدٌ» (möhkəm bədənli, sümükləri bütöv dişi dəvə) deyilmişdir.\nən-Nabiğə demişdir:\nفَعَدِّ عَمّا تَرَى إِذْ لا ارتجاعَ له … وانْمِ القُتُودَ على عَيرانةٍ أُجُدِ\n(Gördüyün şeydən üz döndər, çünki onun geri dönüşü yoxdur; yəhəri möhkəm bədənli, cəld bir dişi dəvənin belinə qaldır).\nHəmçinin «هى مُؤْجَدة القَرَى» (onun beli möhkəm çatılmışdır) deyilir. Tərəfə demişdir:\nصُهابيّةُ العُثْنونِ مُؤْجَدَةُ القَرَى … بَعِيدةُ وَخْدِ الرِّجْلِ مَوَّارَةُ اليَدِ\n(Saqqalcığı sarımtıl-qırmızı, beli bərk çatılmış, addımları gen və əlləri sürətlə hərəkət edən [bir dəvədir]).\nDeyilmişdir ki, bu, fəqərələri oynağı olmayan tək bir sümük kimi olan dəvədir. Bu da dil alimlərinin yekdilliklə qəbul etdiyi mənalardandır, yəni qeyd etdiyim qiyas nəzərdə tutulur.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-24T18:53:37.018Z"
+ "ts": "2026-10-24T18:53:37.018Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:28:14.820Z"
 }

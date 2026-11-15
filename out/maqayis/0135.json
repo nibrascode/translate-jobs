@@ -13,5 +13,10 @@
  "ar": "الهمزة والنون والتاء، شذَّ عن كتاب الخليل فى هذا النّسق، وكذلك عن ابن دريد (٤). وقال غيرهما: وهو يأنِت أى يَزْحَرُ (٥). وقالوا أيضاً:\nالمأنُوتُ المعْيُون. هذا عن أبى حاتم. ويقال المأنوت المُقَدَّر. قال:\n* هيهات منها ماؤُها المأَنُوتُ *",
  "az": "[أنت] (Ə-N-T)\nHəmzə, nun və ta. Bu düzülüş əl-Xəlil kitabında, habelə İbn Dureyddə (٤) şazdır (kənaraçıxmadır/istisnadır). Onlardan başqası isə demişdir: «هو يأنِت» (o, inildəyir/zırıldayır), yəni «يَزْحَرُ» (görəşib inildəyir) (٥). Həmçinin demişlər: «المأنُوتُ» — göz dəymiş (nəzərə gəlmiş) kimsədir. Bu, Əbu Hatimdən rəvayət olunur. Deyilir ki, «المأنوت» həm də qədəri/qisməti müəyyən edilmiş deməkdir. Şair demişdir:\n* هيهات منها ماؤُها المأَنُوتُ *\n(Ondan nə qədər uzaqdır onun müəyyən edilmiş/ölçülüb-biçilmiş suyu!)",
  "model": "gemini-3.5-flash",
- "ts": "2026-10-25T00:21:39.493Z"
+ "ts": "2026-10-25T00:21:39.493Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T07:18:16.410Z"
 }

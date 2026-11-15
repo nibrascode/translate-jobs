@@ -11,7 +11,17 @@
   "page_to": 120
  },
  "ar": "الهمزة والفاء والدال تدلُّ على دنو الشئ وقُرْبه يقال أَفِدَ الرَّحيل: قَرُب. والأَفِدُ المستَعْجِل. قال النّابغة:\nأَفِدَ الترحُّلُ غير أنَّ رِكابَنا … لَمَّا تَزُلْ برِحَالِنا وكَأَنْ قَدِ\nوبعثَت أعرابيّةٌ بنتاً لها إلى جارتها فقالت: «تقول لكِ أُمِّى: أعطِينى نَفَساً أو نَفَسين أَمْعَسُ به مَنيئَتِى فإنِّى أَفِدَةٌ (٣)».",
- "az": "«أفد» — Həmzə, fa və dal hərfləri bir şeyin yaxınlaşmasına və üfüqə və ya vaxta görə yaxın olmasına dəlalət edir. «أفِدَ الرَّحيل» – köçmək yaxınlaşdı, deməkdir. «الأَفِدُ» (əl-əfid) – tələsən deməkdir. Nabigə demişdir: / Köçmək yaxınlaşdı, lakin miniklərimiz hələ ki yük yerlərimizdən tərpənməyib, az qalır ki, tərpənsin. Bədəvi qadın qızını qonşusuna göndərərkən demişdir: «Anan sənə deyir: mənə bir və ya iki nəfəslik vaxt ver ki, onunla dəri aşılamağımı yumşaldım, çünki mən tələvirəm (tələsirəm)» (٣).",
+ "az": "[أفد]\nالهمزة والفاء والدال تدلُّ على دنو الشئ وقُرْبه يقال أَفِدَ الرَّحيل (köç vaxtı yaxınlaşdı): قَرُب. والأَفِدُ (tələsən): المستَعْجِل. قال النّابغة:\nأَفِدَ الترحُّلُ غير أنَّ رِكابَنا … لَمَّا تَزُلْ برِحَالِنا وكَأَنْ قَدِ\n(Köçmək yaxınlaşdı, lakin miniklərimiz hələ yüklərimizlə yerindən tərpənməyib, sanki tərpənmək üzrədir).\nوبعثَت أعرابيّةٌ بنتاً لها إلى جارتها فقالت: «تقول لكِ أُمِّى: أعطِينى نَفَساً أو نَفَسين أَمْعَسُ به مَنيئَتِى فإنِّى أَفِدَةٌ» (Anam sənə deyir: Mənə bir və ya iki nəfəslik möhlət ver ki, onunla dərini yoğurub yumşaldım, çünki mən tələsirəm) (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:05:19.433Z"
+ "ts": "2026-10-24T19:05:19.433Z",
+ "prev_az": "«أفد» — Həmzə, fa və dal hərfləri bir şeyin yaxınlaşmasına və üfüqə və ya vaxta görə yaxın olmasına dəlalət edir. «أفِدَ الرَّحيل» – köçmək yaxınlaşdı, deməkdir. «الأَفِدُ» (əl-əfid) – tələsən deməkdir. Nabigə demişdir: / Köçmək yaxınlaşdı, lakin miniklərimiz hələ ki yük yerlərimizdən tərpənməyib, az qalır ki, tərpənsin. Bədəvi qadın qızını qonşusuna göndərərkən demişdir: «Anan sənə deyir: mənə bir və ya iki nəfəslik vaxt ver ki, onunla dəri aşılamağımı yumşaldım, çünki mən tələvirəm (tələsirəm)» (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq [kök] formatında yazılmayıb.",
+  "Şeir beytinin və ərəbcə sitat gətirilən cümlənin ərəb mətni buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T07:13:29.565Z"
 }

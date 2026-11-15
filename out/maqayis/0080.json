@@ -11,7 +11,17 @@
   "page_to": 103
  },
  "ar": "الهمزة والسين والفاء أصلٌ واحد يدلّ على الفَوت والتلهُّف وما أشبه ذلك. يقال أسِفَ على الشئ يَأْسَفُ أسَفاً مثل تلهف.\nوالأَسِفُ الغضْبان، قال اللّه تعالى: ﴿وَلَمّا رَجَعَ مُوسى إِلى قَوْمِهِ غَضْبانَ أَسِفاً﴾، وقال الأعشى:\nأرَى رَحْلاً منهُمْ أسيفاً كأنَّما … يضُمُّ إلى كشْحَيهِ كَفًّا مُخَضَّبا\nفيُقال هو الغضبان. ويقال إنّ الأُسَافة (١) الأرض التى لا تنبت شيئاً؛ وهذا هو القياس، لأنّ النّبات (٢) قد فاتَها. وكذلك الجمل الأسيف، وهو الذى لا يكاد يَسْمَنُ. وأمَّا التابع وتسميتهِم إيّاه أسيفاً فليس من الباب، لأنّ الهمزة منقلبةٌ من عين، وقد ذكر فى بابه.",
- "az": "[أسف] \\nHəmzə, sin və fa hərfləri tək bir əsərə dəlalət edir ki, o da əldən vermək, heyifsilənmək və buna bənzər hallardır. Deyilir: «أسِفَ على الشئ يَأْسَفُ أسَفاً» (əsifə alə əş-şəyi yəsfü əsəfən) – heyifsilənmək kimi. \\nVə «الأَسِفُ» (əl-əsif) – qəzəbli. Uca Allah buyurmuşdur: ﴿وَلَمّا رَجَعَ مُوسى إِلى قَوْمِهِ غَضْبانَ أَسِفاً﴾ (və Musa qövmünün yanına qəzəbli və kədərli/qəzəbli halda qayıtdıqda – mənaca tərcümə: və Musa qövmünün yanına qəzəbli və əsəbi halda qayıtdıqda). Və Əşə səsləndi: \\nأرَى رَحْلاً منهُمْ أسيفاً كأنَّما … يضُمُّ إلى كشْحَيهِ كَفًّا مُخَضَّبا \\nVə deyilir ki, o, qəzəblidir. Və deyilir ki, «الأُسَافة» (əl-üsəfə) – heç bir şey bitirməyən yerdir; bu, qiyasdandır, çünki bitki ondan əldən çıxmışdır. Həmçinin «الجمل الأسيف» (əl-cəməl əl-əsif) – heç cür kökəlməyən dəvədir. Və tabe olan şəxsə «أسيف» (əsif) demələrinə gəldikdə, bu, həmin fəsildən deyil, çünki həmzə eyn hərfini əvəz etmişdir və o, öz fəslində qeyd olunmuşdur.",
+ "az": "[أسف]\nHəmzə, sin və fa tək bir əsasa dəlalət edir ki, o da əldən vermək, heyifsilənmək və buna bənzər hallardır. Deyilir: «أسِفَ على الشئ يَأْسَفُ أسَفاً» (bir şeyə görə təəssüfləndi/heyifsiləndi).\nVə «الأَسِفُ» (əl-əsif) – qəzəbli. Uca Allah buyurmuşdur: ﴿وَلَمّا رَجَعَ مُوسى إِلى قَوْمِهِ غَضْبانَ أَسِفاً﴾ (mənaca tərcümə: Və Musa qövmünün yanına qəzəbli və kədərli halda qayıtdıqda). Və Ə'şə demişdir:\nأرَى رَحْلاً منهُمْ أسيفاً كأنَّما … يضُمُّ إلى كشْحَيهِ كَفًّا مُخَضَّبا\n(Onlardan kədərli bir minik palanı görürəm, sanki iki qabırğasına xınalı bir əl sıxır).\nVə deyilir ki, o, qəzəblidir. Və deyilir ki, «الأُسَافة» (əl-üsəfə) – heç bir şey bitirməyən yerdir; bu, qiyasdandır, çünki bitki ondan əldən çıxmışdır. Həmçinin «الجمل الأسيف» (əl-cəməl əl-əsif) – heç cür kökəlməyən dəvədir. Və tabe olan şəxsə «أسيف» (əsif) demələrinə gəldikdə, bu, həmin babdan deyil, çünki həmzə eyn hərfini əvəz etmişdir və o, öz fəslində qeyd olunmuşdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:04:20.203Z"
+ "ts": "2026-10-24T19:04:20.203Z",
+ "prev_az": "[أسف] \\nHəmzə, sin və fa hərfləri tək bir əsərə dəlalət edir ki, o da əldən vermək, heyifsilənmək və buna bənzər hallardır. Deyilir: «أسِفَ على الشئ يَأْسَفُ أسَفاً» (əsifə alə əş-şəyi yəsfü əsəfən) – heyifsilənmək kimi. \\nVə «الأَسِفُ» (əl-əsif) – qəzəbli. Uca Allah buyurmuşdur: ﴿وَلَمّا رَجَعَ مُوسى إِلى قَوْمِهِ غَضْبانَ أَسِفاً﴾ (və Musa qövmünün yanına qəzəbli və kədərli/qəzəbli halda qayıtdıqda – mənaca tərcümə: və Musa qövmünün yanına qəzəbli və əsəbi halda qayıtdıqda). Və Əşə səsləndi: \\nأرَى رَحْلاً منهُمْ أسيفاً كأنَّما … يضُمُّ إلى كشْحَيهِ كَفًّا مُخَضَّبا \\nVə deyilir ki, o, qəzəblidir. Və deyilir ki, «الأُسَافة» (əl-üsəfə) – heç bir şey bitirməyən yerdir; bu, qiyasdandır, çünki bitki ondan əldən çıxmışdır. Həmçinin «الجمل الأسيف» (əl-cəməl əl-əsif) – heç cür kökəlməyən dəvədir. Və tabe olan şəxsə «أسيف» (əsif) demələrinə gəldikdə, bu, həmin fəsildən deyil, çünki həmzə eyn hərfini əvəz etmişdir və o, öz fəslində qeyd olunmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أصل» kəlməsi «əsər» kimi tərcümə olunub.",
+  "Ə'şənin şeir beyti tərcümə edilməyib."
+ ],
+ "review_ts": "2026-11-15T07:06:18.573Z"
 }

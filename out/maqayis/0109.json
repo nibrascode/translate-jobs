@@ -11,7 +11,17 @@
   "page_to": 122
  },
  "ar": "الهمزة والقاف والنون كلمة واحدة لا يقاس عليها.\nالأُقْنة: حفرةٌ تكون فى ظهورِ القِفافِ ضيِّقة الرأس، وربَّما كانت مَهْوَاةً بين نِيقينِ (١) أو شُنْخُوبَيْن. قال الطرِمّاح:\nفى شَنَاظِى أُقَنٍ بينها … عُرَّةُ الطَّيْرِ كصَوْم النَّعامْ (٢)",
- "az": "«أقن» — Həmzə, qaf və nun hərfləri üzərində müqayisə aparılmayan tək bir kəlmədir. «الأُقْنة» (əl-uqnə) – dağ silsilələrinin səthində baş tərəfi dar olan, bəzən də iki sıldırım və ya hündür qayalıq arasındakı uçurum olan çuxurdur (١). Tirimmah demişdir: / Quş təzeəkinin dəvə peyini kimi dəyirmi olduğu uqnə qayalıqları arasında... (٢).",
+ "az": "[أقن]\nالهمزة والقاف والنون كلمة واحدة لا يقاس عليها.\nالأُقْنة (təpələrin kürəyində olan, ağzı dar çuxur): حفرةٌ تكون فى ظهورِ القِفافِ ضيِّقة الرأس، وربَّما كانت مَهْوَاةً بين نِيقينِ (١) أو شُنْخُوبَيْن. قال الطرِمّاح:\nفى شَنَاظِى أُقَنٍ بينها … عُرَّةُ الطَّيْرِ كصَوْم النَّعامْ (٢)\n(Ağzı dar çuxurların qayalıqlarında, aralarında quşların zibili dəvəquşu peyini kimidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:05:19.433Z"
+ "ts": "2026-10-24T19:05:19.433Z",
+ "prev_az": "«أقن» — Həmzə, qaf və nun hərfləri üzərində müqayisə aparılmayan tək bir kəlmədir. «الأُقْنة» (əl-uqnə) – dağ silsilələrinin səthində baş tərəfi dar olan, bəzən də iki sıldırım və ya hündür qayalıq arasındakı uçurum olan çuxurdur (١). Tirimmah demişdir: / Quş təzeəkinin dəvə peyini kimi dəyirmi olduğu uqnə qayalıqları arasında... (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq [kök] formatında yazılmayıb.",
+  "Şeir beytinin ərəbcə mətni buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T07:13:29.566Z"
 }

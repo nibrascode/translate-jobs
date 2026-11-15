@@ -11,7 +11,17 @@
   "page_to": 144
  },
  "ar": "وأما الهمزة والنون والثاء فقال الخليل وغيره: الأُنثى خلاف الذكر. ويقال سيف [أنِيثُ (١)] الحديدِ، إذا كانت حديدته أُنثى (٢). والأُنثَيانِ:\nالخُصيتَان. والأُنْثَيانِ أيضاً: الأُذُنانِ. قال:\nوكنَّا إذا الجَبَّار صَعَّر خدَّه … ضربناه تحتَ الانْثَيينِ على الكَرْدِ (٣)\nوأرضٌ أنِيثَةٌ: حسنَة النَّبات.",
- "az": "[أنث] (Ə-N-S̱)\nHəmzə, nun və s̱a hərflərinə gəlincə, əl-Xəlil və başqaları demişlər: «الأُنثى» (qadın/dişi) — «الذَّكَر» (kişi/erkək) sözünün əksidir. Dəmiri yumşaq olduqda «سيف أنِيثُ الحديدِ» (dəmiri yumşaq olan qılınc) deyilir, çünki onun dəmiri «أُنثى» (yumşaq, dişi) kimidir. «الأُنثَيانِ» — iki xaya deməkdir. «الأُنْثَيانِ» həmçinin iki qulaq mənasına da gəlir. Şair demişdir:\nوكنَّا إذا الجَبَّار صَعَّر خدَّه … ضربناه تحتَ الانْثَيينِ على الكَرْدِ\n(Biz təkəbbürlü zülmkar yanağını çevirdikdə, onu iki qulağının altından ensəsinə vurardıq).\n«أرضٌ أنِيثَةٌ» isə — bitkisi gözəl, münbit torpaqdır.",
+ "az": "[أنث]\nHəmzə, nun və sa hərflərinə gəlincə, əl-Xəlil və başqaları demişlər: «الأُنثى» (dişi) — «الذكر» (erkək) sözünün əksidir. Dəmiri yumşaq olduqda «سيف [أنِيثُ (١)] الحديدِ» deyilir, çünki onun dəmiri «أُنثى» (dişi) kimidir (٢). «الأُنثَيانِ»: iki xaya deməkdir. «الأُنْثَيانِ» həmçinin iki qulaq mənasına da gəlir. Şair demişdir:\nوكنَّا إذا الجَبَّار صَعَّر خدَّه … ضربناه تحتَ الانْثَيينِ على الكَرْدِ (٣)\n(Biz zalım təkəbbürlə yanağını çevirdikdə, onu iki qulağının altından ensəsinə vurardıq).\n«أرضٌ أنِيثَةٌ» isə: bitkisi gözəl olan torpaqdır.",
  "model": "gemini-3.5-flash",
- "ts": "2026-10-25T00:21:39.493Z"
+ "ts": "2026-10-25T00:21:39.493Z",
+ "prev_az": "[أنث] (Ə-N-S̱)\nHəmzə, nun və s̱a hərflərinə gəlincə, əl-Xəlil və başqaları demişlər: «الأُنثى» (qadın/dişi) — «الذَّكَر» (kişi/erkək) sözünün əksidir. Dəmiri yumşaq olduqda «سيف أنِيثُ الحديدِ» (dəmiri yumşaq olan qılınc) deyilir, çünki onun dəmiri «أُنثى» (yumşaq, dişi) kimidir. «الأُنثَيانِ» — iki xaya deməkdir. «الأُنْثَيانِ» həmçinin iki qulaq mənasına da gəlir. Şair demişdir:\nوكنَّا إذا الجَبَّار صَعَّر خدَّه … ضربناه تحتَ الانْثَيينِ على الكَرْدِ\n(Biz təkəbbürlü zülmkar yanağını çevirdikdə, onu iki qulağının altından ensəsinə vurardıq).\n«أرضٌ أنِيثَةٌ» isə — bitkisi gözəl, münbit torpaqdır.",
+ "prev_model": "gemini-3.5-flash",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə dırnaqarası sitatda hərəkə dəyişdirilmişdir («الذَّكَر» əvəzinə «الذكر» olmalıdır).",
+  "Ərəb mətnindəki (١), (٢) və (٣) haşiyə nömrələri tərcümədən buraxılmışdır."
+ ],
+ "review_ts": "2026-11-15T07:18:16.410Z"
 }

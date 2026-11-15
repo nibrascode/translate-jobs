@@ -13,5 +13,10 @@
  "ar": "الهمزة والراء والسين ليست عربيّة. ويقال إنّ الأراريس الزرّاعون (١)، وهى شاميّة.",
  "az": "[أرس] (Ərs) Həmzə, ra və sin ərəb mənşəli deyil. Deyilir ki, «الأراريس» (əl-əraris) əkinçilərdir (١) və bu şam dilindədir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-24T19:02:50.150Z"
+ "ts": "2026-10-24T19:02:50.150Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:29:17.453Z"
 }

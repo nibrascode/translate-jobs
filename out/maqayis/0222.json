@@ -11,7 +11,18 @@
   "page_to": 220
  },
  "ar": "الباء والراء والصاد أصلٌ واحدٌ، وهو أن يكون فى الشئ لُمْعَةٌ تخالف سائرَ لونه، من ذلك البرصُ. وربما سمَّوا القمرَ أبرص. والبَرِيص مثل البصيص، وهو ذلك القياس. قال:\n* لهنَّ بخدِّهِ أبداً بريصُ (٢) *\nوالبِرَاصُ بِقَاعٌ فى الرَّمْل لا تُنْبِتُ (٣). وسامُّ أبْرَصَ معروفٌ. قال القُتيبىّ:\nويجمع على الأبارِصِ. وأنشد:\nواللّهِ لو كنتُ لهذا خالصاَ (٤) … لكُنتُ عبداً يأكل الأَبارِصاَ (٥)\nوقال ثعلب فى كتاب الفصيح: وهو سامُّ أبْرَص، وسامَّا أبرصَ، وسَوامُّ أبرصَ.",
- "az": "[برص] (ba, ra və sad) bir əsasdır, o da bir şeydə onun ümumi rəngindən fərqli ləkənin olmasıdır, o cümlədən بَرَص (bərəc - albinizm, dəri ləkəsi) xəstəliyi. Bəzən ay ¬qəmərə də أبرص (əbrəs - ala) adını verirlər. البَرِيص (əl-bəris) البصيص (əl-bəsis) kimidir və həmin mənanı ifadə edir. Şair demişdir: * لهنَّ بخدِّهِ أبداً بريصُ (٢) * (Onun yanağında həmişə parlaqlıq/parıltı vardır). وَالبِرَاصُ (əl-biras) qumluqda bitki bitməyən yerlərdir (٣). سامُّ أبْرَصِ (sammu əbrəs) tanınmışdır (kərtənkələ növü). Qüteybə demişdir: O, أبارِصُ (əbaris) formasında cəmlənir. Və bu beytİ oxumuşdur: وَاللّهِ لو كنتُ لهذا خالصاَ (٤) … لكُنتُ عبداً يأكل الأَبارِصاَ (٥) (Allaha and olsun ki, əgər mən bunun üçün səmimi olsaydım... əbaris yeyən bir qul olardım). Səslə «Fəsih» kitabında demişdir: O, سامُّ أبْرَص (sammu əbrəs), ikilikdə سامَّا أبرص (samma əbrəs), cəmdə isə سَوامُّ أبرص (səvammu əbrəs) olur.",
+ "az": "[برص] الباء والراء والصاد (ba, ra və sad) bir əsl olub, bir şeydə onun ümumi rəngindən fərqli ləkənin olmasıdır, o cümlədən «البرص» (əl-bərəs - albinizm, dəri ləkəsi) xəstəliyi. Bəzən aya da «أبرص» (əbrəs - ala) adını verirlər. «البَرِيص» (əl-bəris) «البصيص» (əl-bəsis - parıltı) kimidir və həmin qiyasdandır. Şair demişdir:\nلهنَّ بخدِّهِ أبداً بريصُ (٢)\n(Onların səbəbindən onun yanağında həmişə bir parıltı var).\n«البِرَاصُ» (əl-biras) — qumluqda bitki bitməyən yerlərdir (٣). «سامُّ أبْرَصَ» (sammu əbrəs - kərtənkələ) tanınmışdır. Əl-Quteybi demişdir: O, «الأبارِصِ» (əl-əbaris) formasında cəmlənir. Və [bu beyti] oxumuşdur:\nواللّهِ لو كنتُ لهذا خالصاَ (٤) … لكُنتُ عبداً يأكل الأَبارِصاَ (٥)\n(Allaha and olsun ki, əgər mən bu iş üçün xalis seçilsəydim... kərtənkələ yeyən bir qul olardım).\nSə'ləb «əl-Fəsih» kitabında demişdir: O, «سامُّ أبْرَص» (sammu əbrəs), ikilikdə «سامَّا أبرص» (samma əbrəs), cəmdə isə «سَوامُّ أبرص» (səvammu əbrəs) olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:28:31.386Z"
+ "ts": "2026-10-25T00:28:31.386Z",
+ "prev_az": "[برص] (ba, ra və sad) bir əsasdır, o da bir şeydə onun ümumi rəngindən fərqli ləkənin olmasıdır, o cümlədən بَرَص (bərəc - albinizm, dəri ləkəsi) xəstəliyi. Bəzən ay ¬qəmərə də أبرص (əbrəs - ala) adını verirlər. البَرِيص (əl-bəris) البصيص (əl-bəsis) kimidir və həmin mənanı ifadə edir. Şair demişdir: * لهنَّ بخدِّهِ أبداً بريصُ (٢) * (Onun yanağında həmişə parlaqlıq/parıltı vardır). وَالبِرَاصُ (əl-biras) qumluqda bitki bitməyən yerlərdir (٣). سامُّ أبْرَصِ (sammu əbrəs) tanınmışdır (kərtənkələ növü). Qüteybə demişdir: O, أبارِصُ (əbaris) formasında cəmlənir. Və bu beytİ oxumuşdur: وَاللّهِ لو كنتُ لهذا خالصاَ (٤) … لكُنتُ عبداً يأكل الأَبارِصاَ (٥) (Allaha and olsun ki, əgər mən bunun üçün səmimi olsaydım... əbaris yeyən bir qul olardım). Səslə «Fəsih» kitabında demişdir: O, سامُّ أبْرَص (sammu əbrəs), ikilikdə سامَّا أبرص (samma əbrəs), cəmdə isə سَوامُّ أبرص (səvammu əbrəs) olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə hərflərin adı (الباء والراء والصاد) tərcümənin başlanğıcından buraxılmışdır.",
+  "«ثعلب» (Sə'ləb) alim adı «Səslə» kimi səhv tərcümə edilmişdir.",
+  "Mətndə pozulmuş simvol («¬»), yazılış səhvləri («bərəc», «beytİ») və ərəbcə beytin ətrafına artıq ulduzlar əlavə olunmuşdur."
+ ],
+ "review_ts": "2026-11-15T07:25:57.711Z"
 }

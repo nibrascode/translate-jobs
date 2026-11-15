@@ -11,7 +11,19 @@
   "page_to": 104
  },
  "ar": "الهمزة والسين واللام تدلُّ على حِدّة الشئ وطوله فى دقّة. وقال الخليل: الأسَل الرِّماح. قال: وسمِّيت بذلك * تشبيهاً لها بأسَل النبات. وكلُّ نبتٍ له شوكٌ طويل فشوكه أَسَلٌ. والأَسَلةُ مستدَقُّ الذِّراع.\nوالأسَلة: مستدَقُّ اللِّسان. قالوا: وكلُّ شئٍ مُحَدّد فهو مؤسَّل. قال مزاحم:\nيُبارِى سَدِيسَاها إذا ما تلمَّجتْ … شَباً مثلَ إبزيم السِّلاح المؤَسَّلِ (١)\nيبارى: يعارض. سديساها: ضرسان فى أقْصى الفم، طالا حتَّى صارا يعارضان النّابين، وهما الشبا الذى ذَكَر. والإِبزيم: الحديدة التى تراها فى المِنْطقة دقيقةً تُمسِك المِنْطَقة إذا شُدّت.",
- "az": "«أصل» (hərf həmzə, sin və lam): şeyin iti və incəlikdə uzun olmasına dəlalət edir. Xəlil demişdir: الأسَل (asəl) — nizələr. O demişdir: Onlar buna * أسَل النبات (bitki asəti) ilə bənzətmə olaraq adlandırılmışdır. Uzun tikanı olan hər bir bitkinin tikanı asətdir. والأَسَلةُ (asələ) — qolun incələn yeri. Və asələ: dilin incələn ucu. Demişlər ki: İtilən hər bir şey möəsəldir (مؤسَّل). Müzahim demişdir: \nيُبارِى سَدِيسَاها إذا ما تلمَّجتْ … شَباً مثلَ إبزيم السِّلاح المؤَسَّلِ (١)\nYübarı: qarşı durur. Sədisəha: ağacın ən kənarındakı iki azı dişidir, uzanaraq iki köpək dişinə qarşı durmuşlar, bunlar da bəhs etdiyi şəbadır. İbzim isə kəmərdə gördüyün, sıxıldığı zaman kəməri saxlayan incə dəmirdir.",
+ "az": "[أسل]\nHəmzə, sin və lam hərfləri şeyin iti və incəlikdə uzun olmasına dəlalət edir. Xəlil demişdir: «الأَسَل» (əl-əsəl) – nizələrdir. O demişdir: Onlar bitkinin əsəlinə (tikanına) bənzədildiyi üçün belə adlandırılmışdır. Uzun tikanı olan hər bir bitkinin tikanı əsəldir. «الأَسَلةُ» (əl-əsələ) – qolun incələn yeridir.\nVə «الأَسَلة» (əl-əsələ) – dilin incələn ucu. Demişlər ki: İtilən hər bir şey «مؤسَّل» (muəssəl)-dir. Müzahim demişdir:\nيُبارِى سَدِيسَاها إذا ما تلمَّجتْ … شَباً مثلَ إبزيم السِّلاح المؤَسَّلِ (١)\n(Dodaqlarını yalayanda, onun iki sədis dişi itilənmiş silahın toqqası kimi iti iki ucla bəhsə girər).\nYübarı: qarşı durur, yarışır. Sədisəha: ağzın ən kənarındakı iki azı dişidir, uzanaraq iki köpək dişinə qarşı durmuşlar, bunlar da bəhs etdiyi şəbadır (iti ucdur). İbzim isə kəmərdə gördüyün, sıxıldığı zaman kəməri saxlayan incə dəmirdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:04:44.951Z"
+ "ts": "2026-10-24T19:04:44.951Z",
+ "prev_az": "«أصل» (hərf həmzə, sin və lam): şeyin iti və incəlikdə uzun olmasına dəlalət edir. Xəlil demişdir: الأسَل (asəl) — nizələr. O demişdir: Onlar buna * أسَل النبات (bitki asəti) ilə bənzətmə olaraq adlandırılmışdır. Uzun tikanı olan hər bir bitkinin tikanı asətdir. والأَسَلةُ (asələ) — qolun incələn yeri. Və asələ: dilin incələn ucu. Demişlər ki: İtilən hər bir şey möəsəldir (مؤسَّل). Müzahim demişdir: \nيُبارِى سَدِيسَاها إذا ما تلمَّجتْ … شَباً مثلَ إبزيم السِّلاح المؤَسَّلِ (١)\nYübarı: qarşı durur. Sədisəha: ağacın ən kənarındakı iki azı dişidir, uzanaraq iki köpək dişinə qarşı durmuşlar, bunlar da bəhs etdiyi şəbadır. İbzim isə kəmərdə gördüyün, sıxıldığı zaman kəməri saxlayan incə dəmirdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök səhv yazılıb («أصل» əvəzinə «[أسل]» olmalıdır).",
+  "Şeir beyti tərcümə edilməyib.",
+  "«فم» (ağız) kəlməsi «ağac» kimi səhv tərcümə olunub.",
+  "«asəti» / «asətdir» mexaniki yazılış səhvləridir."
+ ],
+ "review_ts": "2026-11-15T07:06:18.574Z"
 }

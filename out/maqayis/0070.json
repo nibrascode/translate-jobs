@@ -11,7 +11,17 @@
   "page_to": 94
  },
  "ar": "الهمزة والراء والخاء كلمةٌ واحدة عربيَّة، وهى الإرَاخُ لبقر الوحش. قالت الخنساء:\nونَوْحٍ بَعَثْتَ كَمِثْلِ الإرَا … خِ آنَسَتِ العِينُ أَشْبَالَها (٢)\nوأما تأريخ الكتاب فقد سُمِع، وليس عربيًّا ولا سُمِعَ من فَصيحٍ (٣).",
- "az": "[أرخ]\nHəmzə, ra və xa hərfləri tək bir ərəb kəlməsidir: əl-irax (الإرَاخُ) – çöl inəkləridir. Xansa demişdir:\nونَوْحٍ بَعَثْتَ كَمِثْلِ الإرَا … خِ آنَسَتِ العِينُ أَشْبَالَها (٢)\nKitabın tarixini yazmağa (تأريخ الكتاب) gəldikdə, bu eşidilmişdir, lakin ərəb sözü deyildir və fasiq kimsədən də eşidilməmişdir (٣).",
+ "az": "[أرخ]\nHəmzə, ra və xa hərfləri ərəbcə tək bir kəlmədir: o da الإرَاخُ sözü olub vəhşi inəklərə deyilir. əl-Xənsa demişdir:\nونَوْحٍ بَعَثْتَ كَمِثْلِ الإرَا … خِ آنَسَتِ العِينُ أَشْبَالَها (٢)\n(Vəhşi inəklər kimi bir fəğan qaldırdın; o zaman ki, iri gözlü vəhşi inək balalarını hiss etdi [lakin onları tapmadı]).\nKitabın tarixləndirilməsinə (تأريخ الكتاب) gəldikdə isə, bu, eşidilmiş bir ifadədir, lakin əsl ərəb sözü deyildir və fəsahətli ərəbdən eşidilməmişdir (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:03:55.064Z"
+ "ts": "2026-10-24T19:03:55.064Z",
+ "prev_az": "[أرخ]\nHəmzə, ra və xa hərfləri tək bir ərəb kəlməsidir: əl-irax (الإرَاخُ) – çöl inəkləridir. Xansa demişdir:\nونَوْحٍ بَعَثْتَ كَمِثْلِ الإرَا … خِ آنَسَتِ العِينُ أَشْبَالَها (٢)\nKitabın tarixini yazmağa (تأريخ الكتاب) gəldikdə, bu eşidilmişdir, lakin ərəb sözü deyildir və fasiq kimsədən də eşidilməmişdir (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin tərcüməsi buraxılmışdır.",
+  "«فصيح» sözü «fasiq» kimi kobud şəkildə səhv tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-15T06:57:07.058Z"
 }

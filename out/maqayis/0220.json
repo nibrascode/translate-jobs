@@ -13,5 +13,10 @@
  "ar": "الباء والراء والسين أصلٌ واحدٌ، يدلُّ على السهولة واللين قال أبو زيد (١): بَرَّسْت المكانَ إذا سَهَّلْتَه وليّنْتَه. قال: ومنه اشتقاق بُرْسان قبيلة من الأزد. والبُرِس القُطْن. والقياسُ واحد. ومما شذَّ عن هذا الأصل قولُهم:\nما أدرى أىُّ البَرَاساءِ والبَرْنَساءِ هو، أى أىُّ الخلقِ هو.",
  "az": "[برس] الباء والراء والسين (ba, ra və sin) bir əsl olub, asanlıq və yumşaqlığa dəlalət edir. Əbu Zeyd demişdir (١): «بَرَّسْت المكانَ» (mən yeri hamarladım, yumşaltdım). O demişdir: Əsd qəbiləsindən olan «بُرْسان» (Bürsan) qəbiləsinin adı buradan götürülmüşdür. «البُرِس» (əl-büris) isə pambıqdır. Qiyas birdir.\nBu əsldən kənara çıxan sözlərdən biri də onların: «ما أدرى أىُّ البَرَاساءِ والبَرْنَساءِ هو» (Bilmirəm o, hansı məxluqdur, hansı insandır) deməsidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:28:19.571Z"
+ "ts": "2026-10-25T00:28:19.571Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T07:25:57.711Z"
 }

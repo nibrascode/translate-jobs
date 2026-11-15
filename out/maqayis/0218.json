@@ -13,5 +13,10 @@
  "ar": "الباء والذال والخاء أصلٌ واحد، وهو العلُوّ والتعظُّم. يقال بَذَخَ إذا تَعَظَّمَ، وفلانٌ [فى] باذخٍ من الشَّرف أى عالٍ.",
  "az": "[بذخ] الباء والذال والخاء (ba, zal və xa) bir əsl olub, ucalıq və təkəbbürlükdür. Deyilir: «بَذَخَ» (o təkəbbürləndi, ucaldı), və «فلانٌ [فى] باذخٍ من الشَّرف» — filankəs şərəfin ucalığındadır, yəni ucadır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:28:19.571Z"
+ "ts": "2026-10-25T00:28:19.571Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T07:25:57.711Z"
 }

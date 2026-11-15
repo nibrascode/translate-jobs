@@ -11,7 +11,17 @@
   "page_to": 102
  },
  "ar": "قبيلة، والأصل السين. وقد ذكر فى بابه.",
- "az": "[أزد] \\n[Əzd] qəbiləsidir, əsili sin hərfidir. Öz fəslində qeyd edilmişdir.",
+ "az": "[أزد]\nQəbilədir, əsli sin (س) hərfidir. Öz fəslində qeyd edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:04:20.203Z"
+ "ts": "2026-10-24T19:04:20.203Z",
+ "prev_az": "[أزد] \\n[Əzd] qəbiləsidir, əsili sin hərfidir. Öz fəslində qeyd edilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format qaydasına riayət edilməyib («[أزد]» ilə başlamalıdır).",
+  "«əsili» sözündə hərf səhvi var («əsli» olmalıdır)."
+ ],
+ "review_ts": "2026-11-15T07:06:18.572Z"
 }

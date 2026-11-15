@@ -11,7 +11,18 @@
   "page_to": 127
  },
  "ar": "الهمزة واللام والميم أصل واحد، وهو الوجع. قال الخليل: الألم: الوجع، يقال وجَع ألِيمٌ، والفعل من الألم ألِمَ. وهو ألِمٌ، والمجاوز أَلِيمٌ، فهو على هذا القياس فَعِيل بمعنى مُفْعِل، وكذلك وجِيعٌ بمعنى مُوجِع: قال (٢):\n* أمِنْ رَيحانة الدَّاعى السميعُ *\nفوضع السميع موضع مُسْمِع. قال ابن الأعرابى عذاب أليم أى مؤلم ورجل ألِيمٌ ومُؤْلَمٌ أى موجَعٌ. قال أبو عبيد: يقال ألِمْتَ نَفْسَك، كما تقول سفِهْتَ نَفْسَك. والعرب تقول: «الحُرُّ يُعطِى والعبد يألم قَلْبَه».",
- "az": "[ألم]\\nHəmzə, lam və mim tək bir əsasdır ki, o da ağrıdır. Xəlil demişdir: əl-əlm (الألم): ağrı, deyilir ki, vəcəun alimun (وجَع ألِيمٌ) - şiddətli ağrı, «əlm»-in feli isə alimə (أَلِفَ - düzəliş: أَلِمَ) felidir. O, alimun (أَلِمٌ), müqabilində isə alimun (أَلِفٌ - düzəliş: أَلِيمٌ) gəlir, deməli, o, bu ölçüyə görə müf‘il (مُفْعِل) mənasında fə‘il (فَعِيل) kəlməsidir, eləcə də mucic (مُوجِع) mənasında vəciun (وجِيعٌ) kimidir: (2) saylı şeirdə deyilir:\\n* أمِنْ رَيحانة الدَّاعى السميعُ *\\nvə sumi‘ (السميع) sözünü müsim‘ (مُسْمِع) sözünün yerində işlətmişdir. İbn əl-Ərabı demişdir: əzabun alimun (عذاب أليم) yəni ağrılı əzab, raculun alimun və müləmun (رجل ألِيمٌ ومُؤْلَمٌ) yəni ağrı çəkən. Əbu Ubeyd demişdir: «alimtə nəfsək» (ألِمْتَ نَفْسَك) - deyilir, necə ki, «safihlə nəfsək» (سفِهْتَ نَفْسَك) deyirsən. ərəblər deyirlər: «Hürr verər, qul isə qəlbinin ağrısını çəkər» («الحُرُّ يُعطِى والعبد يألم قَلْبَه»).",
+ "az": "[ألم]\nHəmzə, lam və mim tək bir əsasdır, o da ağrıdır. Xəlil demişdir: əl-ələm (الألم): ağrı, deyilir ki, vəcəun əlimun (وجَع ألِيمٌ) - ağrılı vəcə (ağrı), «ələm» sözünün feli isə əlimə (أَلِمَ)-dir. O, əlimun (أَلِمٌ) olur, təsirli (keçidli) forması isə əlimun (أَلِيمٌ)-dir. Deməli, o, bu qiyas üzrə müf'il (مُفْعِل) mənasında fə'il (فَعِيل) vəznindədir, necə ki, muci' (مُوجِع) mənasında vəci'un (وجِيعٌ) kimidir. Şair demişdir (٢):\n* أمِنْ رَيحانة الدَّاعى السميعُ *\n(Reyhanədən çağıran kəsi eşidən varmı?)\nvə əs-səmi' (السميع) sözünü musmi' (مُسْمِع) sözünün yerində işlətmişdir. İbn əl-A'rabi demişdir: əzabun əlimun (عذاب أليم) yəni ağrılı əzab, raculun əlimun və mu'ləmun (رجل ألِيمٌ ومُؤْلَمٌ) yəni ağrı çəkən adam. Əbu Ubeyd demişdir: «əlimtə nəfsək» (ألِمْتَ نَفْسَك) deyilir, necə ki, «səfihtə nəfsək» (سفِهْتَ نَفْسَك) deyirsən. Ərəblər deyirlər: «Azad insan bəxşiş verər, qul isə qəlbində ağrı hiss edər» («الحُرُّ يُعطِى والعبد يألم قَلْبَه»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:05:39.276Z"
+ "ts": "2026-10-24T19:05:39.276Z",
+ "prev_az": "[ألم]\\nHəmzə, lam və mim tək bir əsasdır ki, o da ağrıdır. Xəlil demişdir: əl-əlm (الألم): ağrı, deyilir ki, vəcəun alimun (وجَع ألِيمٌ) - şiddətli ağrı, «əlm»-in feli isə alimə (أَلِفَ - düzəliş: أَلِمَ) felidir. O, alimun (أَلِمٌ), müqabilində isə alimun (أَلِفٌ - düzəliş: أَلِيمٌ) gəlir, deməli, o, bu ölçüyə görə müf‘il (مُفْعِل) mənasında fə‘il (فَعِيل) kəlməsidir, eləcə də mucic (مُوجِع) mənasında vəciun (وجِيعٌ) kimidir: (2) saylı şeirdə deyilir:\\n* أمِنْ رَيحانة الدَّاعى السميعُ *\\nvə sumi‘ (السميع) sözünü müsim‘ (مُسْمِع) sözünün yerində işlətmişdir. İbn əl-Ərabı demişdir: əzabun alimun (عذاب أليم) yəni ağrılı əzab, raculun alimun və müləmun (رجل ألِيمٌ ومُؤْلَمٌ) yəni ağrı çəkən. Əbu Ubeyd demişdir: «alimtə nəfsək» (ألِمْتَ نَفْسَك) - deyilir, necə ki, «safihlə nəfsək» (سفِهْتَ نَفْسَك) deyirsən. ərəblər deyirlər: «Hürr verər, qul isə qəlbinin ağrısını çəkər» («الحُرُّ يُعطِى والعبد يألم قَلْبَه»).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin Azərbaycan dilinə tərcüməsi verilməmişdir.",
+  "Mətndə mötərizə daxilində redaktə qeydləri qalmışdır.",
+  "«المجاوز» sözü «müqabilində» kimi səhv tərcümə edilmişdir (keçidli/təsirli forması mənasındadır)."
+ ],
+ "review_ts": "2026-11-15T07:14:29.568Z"
 }

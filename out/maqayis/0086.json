@@ -11,7 +11,16 @@
   "page_to": 106
  },
  "ar": "الهمزة والسين والياء كلمة واحدةٌ، وهو الحزن؛ يقال أأَسِيتُ على الشئ آسَى أَسًى، أى حزنتُ عليه.",
- "az": "«أسى» (hərf həmzə, sin və ya): tək bir kəlmədir, o da hüzündür; deyilir: أأَسِيتُ على الشئ آسَى أَسًى (bir şeyə görə kədərləndim), yəni ona üzüldüm.",
+ "az": "[أسى]\nHəmzə, sin və ya tək bir kəlmədir, o da kədərdir; deyilir: «أسِيتُ على الشئ آسَى أَسًى» (bir şeyə görə kədərləndim), yəni ona üzüldüm.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:04:44.951Z"
+ "ts": "2026-10-24T19:04:44.951Z",
+ "prev_az": "«أسى» (hərf həmzə, sin və ya): tək bir kəlmədir, o da hüzündür; deyilir: أأَسِيتُ على الشئ آسَى أَسًى (bir şeyə görə kədərləndim), yəni ona üzüldüm.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format qaydası pozulub («[أسى]» ilə başlamalıdır)."
+ ],
+ "review_ts": "2026-11-15T07:06:18.575Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الهمزة والثاء والنون ليس بأصلٍ، وإنّما جاءت فيه كلمةٌ من الإبدال، يقولون الأُثُن لغة فى الوُثُن (٢). ويقولون الأُثْنَة حَرَجة الطَّلْح. وقد شَرَطْنا فى أوَّلِ كتابنا هذا ألاّ نقيس إِلاّ الكلامَ الصحيح.",
  "az": "[أثن]\n«Həmzə», «sə» və «nun» əsl deyildir; bu kökdə olan kəlmə ancaq ibdal (hərfin dəyişməsi) yolu ilə gəlmişdir. Deyirlər ki, «الأُثُن» sözü «الوُثُن» (bütlər) kəlməsinin bir ləhcəsidir (٢). Həmçinin «الأُثْنَة»nin cəngəllik təlh ağaclığı («حَرَجة الطَّلْح») olduğunu deyirlər. Biz isə bu kitabımızın əvvəlində yalnız səhih kəlamı qiyas edəcəyimizi şərt qoymuşuq.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-24T18:53:37.018Z"
+ "ts": "2026-10-24T18:53:37.018Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T06:28:14.819Z"
 }

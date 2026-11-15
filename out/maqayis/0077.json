@@ -13,5 +13,10 @@
  "ar": "الهمزة والزاء والحاء. يقال أزَح إذا تخلَّف عن الشئ يَأْزِحُ. وأزح إذا تقبّض ودنا بعضُه من بعض (١).",
  "az": "[أزح] \\nHəmzə, zay və ha. Deyilir ki, «أزَح» (əzəhə) – bir şeydən geri qaldı, uzaqlaşdı, «يأزِح» (yəzihu). Və «أزَح» (əzəhə) – yığıldı, büzüşdü və bir-birinə yaxınlaşdı (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-24T19:04:20.203Z"
+ "ts": "2026-10-24T19:04:20.203Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-15T07:04:46.728Z"
 }
