@@ -11,9 +11,19 @@
   "page_to": 509
  },
  "ar": "ومن ذلك قولهم (تَجَرْمَزَ اللَّيلُ) ذهَبَ. فالزاء زائدة، وهو من تجرّم.\nوالميم زائدةٌ فى وجهٍ آخر، وهو من الجَرْز وهو القَطْع، كأنه شئٌ قُطِعَ قَطْعًا؛ ومن رَمَزَ إذا تحرّكَ واضطرب. يقال للماء المجتمع المضطرب رَامُوزٌ. ويقال الرّاموز اسمٌ من أسماء البحر.",
- "az": "«جرمز» - Və buraya «تَجَرْمَزَ اللَّيلُ» (təcərməzə əl-leyl - gecə keçdi, getdi) deyilməsi daxildir. Zay hərfi artıqdır (zayiddir) və bu, تجرّم (təcərrəmə) sözündəndir. Mim hərfi də başqa cəhətdən artıqdır və o, kəsmək mənasını verən جَرْز (cərz) sözündəndir, sanki bir şey qəti şəkildə kəsilmişdir; həmçinin hərəkət edib dalğalanan mənasını verən رَمَز (rəməz) sözündəndir. Hərəkət edən, dalğalanan suya رَامُوزٌ (ramuz) deyilir. Deyilir ki, Ramuz dənizin adlarından biridir.",
+ "az": "[جرمز]\nVə buraya «تَجَرْمَزَ اللَّيلُ» (təcərməzə əl-leyl - gecə keçdi, getdi) deyilməsi daxildir. Zey hərfi artıqdır (zayiddir) və bu, تجرّم (təcərrəmə) sözündəndir.\nMim hərfi də başqa cəhətdən artıqdır və o, kəsmək mənasını verən الجَرْز (əl-cərz) sözündəndir, sanki bir şey qəti şəkildə kəsilmişdir; həmçinin hərəkət edib dalğalandıqda (işlədilən) رَمَزَ (rəməzə) sözündəndir. Toplanmış, dalğalanan suya رَامُوزٌ (ramuz) deyilir. Deyilir ki, الرّاموز (ər-ramuz) dənizin adlarından biridir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:51.217Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جرمز» - Və buraya «تَجَرْمَزَ اللَّيلُ» (təcərməzə əl-leyl - gecə keçdi, getdi) deyilməsi daxildir. Zay hərfi artıqdır (zayiddir) və bu, تجرّم (təcərrəmə) sözündəndir. Mim hərfi də başqa cəhətdən artıqdır və o, kəsmək mənasını verən جَرْز (cərz) sözündəndir, sanki bir şey qəti şəkildə kəsilmişdir; həmçinin hərəkət edib dalğalanan mənasını verən رَمَز (rəməz) sözündəndir. Hərəkət edən, dalğalanan suya رَامُوزٌ (ramuz) deyilir. Deyilir ki, Ramuz dənizin adlarından biridir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[جرمز]» formatında verilməyib.",
+  "«zey» hərfinin adı «zay» kimi səhv yazılıb.",
+  "«المجتمع» (toplanmış) sözü buraxılıb, əvəzinə «hərəkət edən» yazılıb və «الرّاموز» sözünün ərəbcəsi ikinci cümlədə buraxılıb."
+ ],
+ "review_ts": "2026-11-16T06:20:12.532Z"
 }

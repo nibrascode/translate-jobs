@@ -11,9 +11,19 @@
   "page_to": 510
  },
  "ar": "ومن ذلك قولهم للجافى (جَرْعَب) فيكون الراء زائدة. والجَعَب: التَقَبُّض.\nوالجَرَع: التِوَاءٌ فى قُوَى الحَبْل. فهذا قياسٌ مطرد.",
- "az": "«جرعب» - Və buraya kobud adama «جَرْعَب» (cərcəb) deyilməsi daxildir, bu halda ra hərfi artıqdır (zayiddir). الكَعَب (əl-kə'əb - və ya cə'əb): yığılıb büzüşmək. İp tellərindəki əyrilik isə الجَرَع (əl-cərə') adlanır. Bu isə ardıcıl və uyğun bir qiyasdır.",
+ "az": "[جرعب]\nVə buraya kobud adama «جَرْعَب» (cər'əb) deyilməsi daxildir, bu halda ra hərfi artıqdır (zayiddir). الجَعَب (əl-cə'əb): yığılıb büzüşməkdir.\nİp tellərindəki əyrilik isə الجَرَع (əl-cərə') adlanır. Bu isə ardıcıl və uyğun bir qiyasdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:51.218Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جرعب» - Və buraya kobud adama «جَرْعَب» (cərcəb) deyilməsi daxildir, bu halda ra hərfi artıqdır (zayiddir). الكَعَب (əl-kə'əb - və ya cə'əb): yığılıb büzüşmək. İp tellərindəki əyrilik isə الجَرَع (əl-cərə') adlanır. Bu isə ardıcıl və uyğun bir qiyasdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[جرعب]» formatında verilməyib.",
+  "«جَرْعَب» sözünün transkripsiyası «cərcəb» kimi səhv yazılıb.",
+  "«الجَعَب» sözü «الكَعَب (əl-kə'əb - və ya cə'əb)» kimi səhv köçürülüb."
+ ],
+ "review_ts": "2026-11-16T06:20:12.534Z"
 }

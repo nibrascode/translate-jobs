@@ -11,9 +11,20 @@
   "page_to": 511
  },
  "ar": "ومن ذلك قولهم للأكول (جُرْضُم). فهذا ممّا زيدت فيه الميم، فيقال [من] جَرَض إذا جَرَشَ وجَرَسَ. ومن رضَم أيضًا فتكون الجيم زائدة.\nومعنى الرّضم أن يَرضِمَ ما يأكله بَعضَه على بعضٍ.",
- "az": "«جرضم» - Və buraya çox yeyən adama «جُرْضُم» (curcum) deyilməsi daxildir. Bu, mim hərfinin artırıldığı sözlərdəndir, deyilir ki, o, çeynəyib xırdaladığı zaman جَرَض (cərəd) sözündəndir. Həmçinin رَضَم (rəcəm) sözündəndir, bu halda cim hərfi artıqdır (zayiddir).\nРəcəmin mənası isə yedikləri şeyin bəzisini bəzisənin üzərinə yığıb üyütməsidir (çeynəməsidir).",
+ "az": "[جرضم]\nVə buraya çox yeyən adama جُرْضُم (curdum) deyilməsi daxildir. Bu, mim hərfinin artırıldığı sözlərdəndir; deyilir ki, o, جَرَشَ (xırdaladı) və جَرَسَ (çeynədi) mənasında olan جَرَض (cərad) sözündəndir. Həmçinin رضَم (radam) sözündəndir, bu halda cim hərfi artıqdır (zayiddir).\nالرّضم (ər-radm) sözünün mənası isə yediyi şeyin bir hissəsini digərinin üzərinə yığmasıdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:51.218Z",
- "review_attempts": 1,
- "review_last_error": "kiril hərfi"
+ "review_last_error": "kiril hərfi",
+ "prev_az": "«جرضم» - Və buraya çox yeyən adama «جُرْضُم» (curcum) deyilməsi daxildir. Bu, mim hərfinin artırıldığı sözlərdəndir, deyilir ki, o, çeynəyib xırdaladığı zaman جَرَض (cərəd) sözündəndir. Həmçinin رَضَم (rəcəm) sözündəndir, bu halda cim hərfi artıqdır (zayiddir).\nРəcəmin mənası isə yedikləri şeyin bəzisini bəzisənin üzərinə yığıb üyütməsidir (çeynəməsidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kök başlığı «[جرضم]» formatında deyil.",
+  "«وجَرَسَ» sözü tərcümədən buraxılıb.",
+  "«رَضَم» sözü səhvən «rəcəm» kimi oxunub və kiril hərfi ilə yazılıb.",
+  "«جُرْضُم» sözünün transkripsiyası səhvdir (curcum əvəzinə curdum)."
+ ],
+ "review_ts": "2026-11-16T06:21:12.178Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 13
  },
  "ar": "الحاء والضاد أصلان: أحدهما البَعْث على الشئ، والثانى القَرارُ المسْتَفِلُ.\nفالأول حضَضْته على كذا، إذا حَضّضْتَه عليه وحَرّضْتَه. قال الخليل: الفرق بين الحضّ والحثّ أنّ الحثّ يكون فى السير والسَّوقِ وكلِّ شئ، والحضّ لا يكون فى سير ولا سَوْق.\nوالثانى الحضيض، وهو قَرار الأرض. قال:\n* نزَلْتُ إليه قائماً بالحَضِيضِ (٣) *",
- "az": "[حض] (Hə və dad) iki əsas kökdür: Biri bir işə sövq etmək, digəri isə aşağıda qərar tutmaqdır.\n\nBirincisi، حَضَضْتُهُ عَلَى كَذَا (həzəztuhu alə kəzə) – onu buna təşviq etdin və həvəsləndirdin. Əl-Xəlil demişdir: Həz (təşviq) ilə həss (sürtmək, tələsdirmək) arasındakı fərq odur ki, həss gedişdə, qovmada və hər şeydə olur, həz isə nə gedişdə, nə də qovmada olur.\nİkincisi, اَلْحَضِيضُ (əl-həDİZu) – yerin alt qatı, ətəyidir. Şair demişdir:\n* نزَلْتُ إليه قائماً بالحَضِيضِ (٣) *\n*(Ətəkdə ayaq üstə duraraq ona tərəf endim)*",
+ "az": "[حض] (Ha və dad) iki əsasdır: biri bir işə sövq etmək, digəri isə aşağıda qərar tutmaqdır.\nBirincisi حضَضْته على كذا (hədadtuhu alə kəza) – onu buna təşviq etdin və həvəsləndirdin. Əl-Xəlil demişdir: الحضّ (əl-hədd) ilə الحثّ (əl-həss) arasındakı fərq odur ki, الحثّ (əl-həss) gedişdə, qovmada və hər şeydə olur, الحضّ (əl-hədd) isə nə gedişdə, nə də qovmada olur.\nİkincisi الحضيض (əl-hədid) – yerin dibi, ətəyidir. Şair demişdir:\n* نزَلْتُ إليه قائماً بالحَضِيضِ (٣) *\n(Ətəkdə ayaq üstə duraraq ona tərəf endim.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:53:07.764Z"
+ "ts": "2026-10-25T00:53:07.764Z",
+ "prev_az": "[حض] (Hə və dad) iki əsas kökdür: Biri bir işə sövq etmək, digəri isə aşağıda qərar tutmaqdır.\n\nBirincisi، حَضَضْتُهُ عَلَى كَذَا (həzəztuhu alə kəzə) – onu buna təşviq etdin və həvəsləndirdin. Əl-Xəlil demişdir: Həz (təşviq) ilə həss (sürtmək, tələsdirmək) arasındakı fərq odur ki, həss gedişdə, qovmada və hər şeydə olur, həz isə nə gedişdə, nə də qovmada olur.\nİkincisi, اَلْحَضِيضُ (əl-həDİZu) – yerin alt qatı, ətəyidir. Şair demişdir:\n* نزَلْتُ إليه قائماً بالحَضِيضِ (٣) *\n*(Ətəkdə ayaq üstə duraraq ona tərəf endim)*",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ض» (dad) hərfi transkripsiyada səhvən «z» kimi verilib (həzəztuhu, əl-həDİZu).",
+  "«الحضّ» və «الحثّ» sözlərinin ərəbcə yazılışları buraxılıb və «الحثّ» sözünün mənası səhvən «sürtmək» kimi verilib.",
+  "Ərəb sitatlarının hərəkə və yazılışı dəyişdirilib."
+ ],
+ "review_ts": "2026-11-16T06:21:12.179Z"
 }

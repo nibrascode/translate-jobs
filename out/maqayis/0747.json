@@ -11,9 +11,20 @@
   "page_to": 503
  },
  "ar": "الجيم والباء والهاء كلمةٌ واحدة، ثمَّ يشبّه بها. فالجبهة: الخيلُ.\nوالجَبْهَة من الناس: الجماعةُ. والجَبهة: كوكبٌ، يقال هو جَبْهَة الأسد. ومن الباب قولهم جَبَهْنَا الماء إذا وَرَدْناه وليست عليه قامةٌ ولا أداة. وهذا من الباب؛ لأنّهم قابَلُوه وليس بينهم وبينه ما يستعينون به على السَّقى. والعرب تقول: «لكل جَابِهٍ جَوْزَةٌ، ثمَّ يُؤَذَّنَ». فالجابِهُ ما ذكرناه. والجَوْزة: قدر ما يَشْرِب ثَمَّ ويجوز (٢).",
- "az": "«جبه» — جيم, ba və hə tək bir kəlmədir, sonra ona bənzədilmişdir. «الجبهة» (cəbhə) — atlar. \nİnsanlardan ibarət «الجَبْهَة» (cəbhə) — camaat. «الجَبهة» (cəbhə) — ulduzdur, deyilir ki, o, Aslan bürcünün alnıdır («جَبْهَة الأسد»). Bu qapıdandır onların «جَبَهْنَا الماء» (cəbəhnə əl-məə) sözü; yəni suyun başına getdikdə orada nə bir tikili, nə də su çəkmə aləti var idi. Bu, həmin qapıdandır, çünki onlar su ilə üz-üzə gəlmişdilər və aralarında suvarmaqda kömək edəcək heç nə yox idi. Ərəblər deyirlər: «لكل جَابِهٍ جَوْزَةٌ، ثمَّ يُؤَذَّنَ» (Hər su başına gələnə bir cozə [pay] verilir, sonra azan verilir). «الْجَابِه» (cəbih) dediyimiz kəsdir. «الْجَوْزَة» (cozə) isə orada içəcəyi və qalanı qədər olan miqdardır (٢).",
+ "az": "[جبه]\nCim, ba və hə tək bir kəlmədir, sonra ona bənzədilmişdir. «الجبهة» (cəbhə) — atlar.\nİnsanlardan ibarət «الجَبْهَة» (cəbhə) — camaat. «الجَبهة» (cəbhə) — ulduzdur, deyilir ki, o, Şir bürcünün alnıdır («جَبْهَة الأسد»). Bu babdandır onların «جَبَهْنَا الماء» (cəbəhnə əl-məə) sözü; yəni suyun başına gəldikdə orada nə bir tikili, nə də su çəkmə aləti var idi. Bu, həmin babdandır, çünki onlar su ilə üz-üzə gəlmişdilər və aralarında suvarmaqda kömək edəcək heç nə yox idi. Ərəblər deyirlər: «لكل جَابِهٍ جَوْزَةٌ، ثمَّ يُؤَذَّنَ» (Hər su başına gələnə bir cəvzə [su payı] verilir, sonra getməsi bildirilir). «الجابِهُ» (cabih) dediyimiz kəsdir. «الجَوْزة» (cəvzə) isə orada içəcəyi və ötüb keçəcəyi miqdardır (٢).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:28.134Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جبه» — جيم, ba və hə tək bir kəlmədir, sonra ona bənzədilmişdir. «الجبهة» (cəbhə) — atlar. \nİnsanlardan ibarət «الجَبْهَة» (cəbhə) — camaat. «الجَبهة» (cəbhə) — ulduzdur, deyilir ki, o, Aslan bürcünün alnıdır («جَبْهَة الأسد»). Bu qapıdandır onların «جَبَهْنَا الماء» (cəbəhnə əl-məə) sözü; yəni suyun başına getdikdə orada nə bir tikili, nə də su çəkmə aləti var idi. Bu, həmin qapıdandır, çünki onlar su ilə üz-üzə gəlmişdilər və aralarında suvarmaqda kömək edəcək heç nə yox idi. Ərəblər deyirlər: «لكل جَابِهٍ جَوْزَةٌ، ثمَّ يُؤَذَّنَ» (Hər su başına gələnə bir cozə [pay] verilir, sonra azan verilir). «الْجَابِه» (cəbih) dediyimiz kəsdir. «الْجَوْزَة» (cozə) isə orada içəcəyi və qalanı qədər olan miqdardır (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq mötərizə formatında ([جبه]) deyil və «جيم» hərf adı tərcüməsiz qalıb.",
+  "«ثمَّ يُؤَذَّنَ» ifadəsi «sonra azan verilir» kimi yanlış tərcümə edilib.",
+  "«ويجوز» sözü «və qalanı» kimi səhv tərcümə olunub.",
+  "Ərəbcə sözlərə mənbədə olmayan sükun hərəkəsi əlavə edilib və «Aslan» (Türkiyə türkcəsi) sözü işlənib."
+ ],
+ "review_ts": "2026-11-16T06:20:20.257Z"
 }

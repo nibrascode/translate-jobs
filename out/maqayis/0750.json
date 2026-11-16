@@ -11,9 +11,18 @@
   "page_to": 505
  },
  "ar": "الجيم والثاء والراء كلمة فيها نظر. قال ابن دُريد: مكان جَثْرٌ:\nترابٌ يَخلِطُه سَبَخٌ (١).",
- "az": "«جثر» — جيم, sə və ra haqqında düşünülməli olan bir kəlmədir. İbn Dürid demişdir: «مكان جَثْرٌ» (məkanun cəsrün) — şoran torpaqla qarışmış torpaq.",
+ "az": "[جثر]\nCim, sə və ra haqqında düşünülməli olan bir kəlmədir. İbn Düreyd demişdir: «مكان جَثْرٌ» (məkanun cəsrün) — şoran torpaqla qarışmış torpaq (١).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:28.134Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جثر» — جيم, sə və ra haqqında düşünülməli olan bir kəlmədir. İbn Dürid demişdir: «مكان جَثْرٌ» (məkanun cəsrün) — şoran torpaqla qarışmış torpaq.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq mötərizə formatında ([جثر]) deyil və «جيم» hərf adı tərcüməsiz qalıb.",
+  "Mənbədəki «(١)» haşiyə rəqəmi buraxılıb və «İbn Düreyd» adı «İbn Dürid» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-16T06:20:20.258Z"
 }

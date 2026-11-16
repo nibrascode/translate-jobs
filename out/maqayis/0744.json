@@ -11,9 +11,18 @@
   "page_to": 502
  },
  "ar": "الجيم والباء والعين، يقال إنّ فيه كلمتين: إِحداهما الجُبَّاع من السِّهام: الذى ليس له ريشٌ وليس له نَصْل. ويقال الجُبَّاعة المرأة القصيرة.",
- "az": "«جبع» — جيم, ba və eyn: deyilir ki, burada iki kəlmə var: Bunlardan biri lələyi və ucluğu (nizə ucu) olmayan oxlar mənasında olan «الجُبَّاع» (cubba) sözüdür. «الجُبَّاعة» (cubbaə) isə qısa boylu qadına deyilir.",
+ "az": "[جبع]\nCim, ba və eyn: deyilir ki, burada iki kəlmə var: Bunlardan biri oxlardan lələyi və ucluğu (dəmir ucu) olmayan ox mənasında olan «الجُبَّاع» (cubba) sözüdür. «الجُبَّاعة» (cubbaə) isə qısa boylu qadına deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:28.134Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جبع» — جيم, ba və eyn: deyilir ki, burada iki kəlmə var: Bunlardan biri lələyi və ucluğu (nizə ucu) olmayan oxlar mənasında olan «الجُبَّاع» (cubba) sözüdür. «الجُبَّاعة» (cubbaə) isə qısa boylu qadına deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq mötərizə formatında ([جبع]) deyil və «جيم» hərf adı tərcüməsiz qalıb.",
+  "«الجُبَّاع من السِّهام» ifadəsi «oxlar mənasında» kimi qeyri-dəqiq tərcümə edilib."
+ ],
+ "review_ts": "2026-11-16T06:20:20.255Z"
 }

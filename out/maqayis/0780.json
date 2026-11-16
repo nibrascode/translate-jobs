@@ -11,9 +11,19 @@
   "page_to": 510
  },
  "ar": "ومن ذلك قولهم لِلثَّقيل الوَخِم (جَلَنْدَحٌ (٣)). فهذا من الجَلْح (٤) والجَدْع، والنون زائدة. وقد مضى تفسير الكلمتين.",
- "az": "«جلدح» - Və buraya ağır, zəhmli və pis xasiyyətli adama «جَلَنْدَحٌ» (cələndəh) deyilməsi daxildir. Bu, الجَلْح (əl-cəlh) və الجَدْع (əl-cəd') sözlərindən ibarətdir, nun isə artıqdır (zayiddir). Həmin iki sözün izahı artıq keçmişdir.",
+ "az": "[جلدح]\nVə buraya ağır, xoşagəlməz (cansıxıcı) adama جَلَنْدَحٌ (٣) (cələndəh) deyilməsi daxildir. Bu, الجَلْح (٤) (əl-cəlh) və الجَدْع (əl-cəd') sözlərindən ibarətdir, nun isə artıqdır (zayiddir). Həmin iki sözün izahı artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:51.218Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جلدح» - Və buraya ağır, zəhmli və pis xasiyyətli adama «جَلَنْدَحٌ» (cələndəh) deyilməsi daxildir. Bu, الجَلْح (əl-cəlh) və الجَدْع (əl-cəd') sözlərindən ibarətdir, nun isə artıqdır (zayiddir). Həmin iki sözün izahı artıq keçmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kök başlığı «[جلدح]» formatında deyil.",
+  "Mətndəki (٣) və (٤) haşiyə rəqəmləri buraxılıb.",
+  "«الوَخِم» sözünün mənası qeyri-dəqiq (zəhmli) tərcümə edilib."
+ ],
+ "review_ts": "2026-11-16T06:21:12.177Z"
 }

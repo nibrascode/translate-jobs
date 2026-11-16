@@ -11,9 +11,19 @@
   "page_to": 508
  },
  "ar": "ومنها قولهم للأرض ذات الحجارة (جَمْعَرة). وهذا من الجمرات، وقد قلنا إنّ أصلها تجمُّع الحجارة، ومن المَعِر وهو الأرض لا نبات به (٥).",
- "az": "«جمعر» - Və buraya daşlı yerə «جَمْعَرَة» (cəmcərə) deyilməsi daxildir. Bu, جمرات (cəmərat) sözündəndir – biz demişdik ki, onun əsli daşların toplanmasıdır – və üzərində bitki bitməyən yer mənasını verən المَعِر (əl-mə’ir) sözündəndir.",
+ "az": "[جمعر]\nVə buraya daşlı yerə «جَمْعَرة» (cəm'ərə) deyilməsi daxildir. Bu, الجمرات (əl-cəmərat) sözündəndir – biz demişdik ki, onun əsli daşların toplanmasıdır – və üzərində bitki bitməyən yer mənasını verən المَعِر (əl-mə'ir) sözündəndir (٥).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:51.217Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جمعر» - Və buraya daşlı yerə «جَمْعَرَة» (cəmcərə) deyilməsi daxildir. Bu, جمرات (cəmərat) sözündəndir – biz demişdik ki, onun əsli daşların toplanmasıdır – və üzərində bitki bitməyən yer mənasını verən المَعِر (əl-mə’ir) sözündəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[جمعر]» formatında verilməyib.",
+  "«جَمْعَرة» sözünün transkripsiyası «cəmcərə» kimi səhv yazılıb.",
+  "Haşiyə rəqəmi (٥) buraxılıb."
+ ],
+ "review_ts": "2026-11-16T06:20:12.530Z"
 }

@@ -11,9 +11,18 @@
   "page_to": 511
  },
  "ar": "ومن ذلك قولهم للعجوز المُسِنّة (جَلْفَزِيزٌ). فهذا من جَلَزَ وجلف. أمّا جلز\nفمن قولنا مجلوز، أى مطوىٌّ، كأنّ جسمَها طُوِى من ضُمْرها وهُزالها.\nوأمّا جَلَفَ فكأنَّ لحمها جُلِفَ جَلْفًا أى ذُهِب به.",
- "az": "«جلفز» - Və buraya yaşlı qarıya «جَلْفَزِيزٌ» (cəlfəziz) deyilməsi daxildir. Bu, جَلَز (cələz) və جَلَف (cələf) sözlərindən ibarətdir. Cələzə gəldikdə, o, bükülmüş, qatlanmış mənasını verən مجلوز (məcluz) sözümüzdəndir, sanki qadının bədəni arıqlığından və zəifliyindən bükülüb qalmışdır. Cələfə gəldikdə isə, sanki onun əti qopardılıb aparılmışdır (cələf edilmişdir).",
+ "az": "[جلفز]\nVə buraya yaşlı qarıya جَلْفَزِيزٌ (cəlfəziz) deyilməsi daxildir. Bu, جَلَزَ (cələz) və جلف (cələf) sözlərindən ibarətdir. جَلَزَ (cələz) sözünə gəldikdə, o, bükülmüş, qatlanmış mənasını verən مجلوز (məcluz) sözümüzdəndir, sanki qadının bədəni arıqlığından və zəifliyindən bükülüb qalmışdır.\nجَلَفَ (cələf) sözünə gəldikdə isə, sanki onun əti qopardılıb aparılmışdır (جُلِفَ جَلْفًا - cəlf edilmişdir).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:51.218Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جلفز» - Və buraya yaşlı qarıya «جَلْفَزِيزٌ» (cəlfəziz) deyilməsi daxildir. Bu, جَلَز (cələz) və جَلَف (cələf) sözlərindən ibarətdir. Cələzə gəldikdə, o, bükülmüş, qatlanmış mənasını verən مجلوز (məcluz) sözümüzdəndir, sanki qadının bədəni arıqlığından və zəifliyindən bükülüb qalmışdır. Cələfə gəldikdə isə, sanki onun əti qopardılıb aparılmışdır (cələf edilmişdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kök başlığı «[جلفز]» formatında deyil.",
+  "İzah olunan جَلَزَ və جَلَفَ sözlərinin ərəbcə yazılışları təkrar qeyddə buraxılıb."
+ ],
+ "review_ts": "2026-11-16T06:21:12.178Z"
 }

@@ -11,9 +11,18 @@
   "page_to": 510
  },
  "ar": "ومن ذلك قولهم للبعير المنتفخ الجنبين (جَحْشَمٌ). فهذا من الجَشِمِ، وهو الجسيم العظيم، يقال: «ألقى علىَّ جُشَمَه»، ومن الجَحْش وقد مضى ذكره، كأنّه شُبِّه فى بعض قوّته بالجَحْش.",
- "az": "«جحشم» - Və buraya böyrü şişkin olan dəvəyə «جَحْشَمٌ» (cəhşəm) deyilməsi daxildir. Bu, iri və böyük mənasını verən الجَشِم (əl-cəşim) sözündəndir – deyilir: «ألقى علىَّ جُشَمَه» (O, ağır yükünü üzərimə atdı) – və izahı artıq keçmiş olan الجَحْش (əl-cəhş) sözündəndir, sanki o, gücünün bir hissəsində balası (cəhş) ilə bənzədilmişdir.",
+ "az": "[جحشم]\nVə buraya iki böyrü şişkin olan dəvəyə «جَحْشَمٌ» (cəhşəm) deyilməsi daxildir. Bu, iri və böyük mənasını verən الجَشِمِ (əl-cəşim) sözündəndir – deyilir: «ألقى علىَّ جُشَمَه» (O, ağır yükünü üzərimə atdı) – və izahı artıq keçmiş olan الجَحْش (əl-cəhş) sözündəndir, sanki o, gücünün bir hissəsində eşşək balası (الجَحْش - əl-cəhş) ilə bənzədilmişdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:50:51.218Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«جحشم» - Və buraya böyrü şişkin olan dəvəyə «جَحْشَمٌ» (cəhşəm) deyilməsi daxildir. Bu, iri və böyük mənasını verən الجَشِم (əl-cəşim) sözündəndir – deyilir: «ألقى علىَّ جُشَمَه» (O, ağır yükünü üzərimə atdı) – və izahı artıq keçmiş olan الجَحْش (əl-cəhş) sözündəndir, sanki o, gücünün bir hissəsində balası (cəhş) ilə bənzədilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[جحشم]» formatında verilməyib.",
+  "«بالجَحْش» sözü «eşşək balası» əvəzinə natamam şəkildə «balası» kimi tərcümə edilib."
+ ],
+ "review_ts": "2026-11-16T06:20:12.532Z"
 }
