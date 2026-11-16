@@ -11,7 +11,16 @@
   "page_to": 36
  },
  "ar": "الحاء والدال والهمزة أصلٌ واحد: طائرٌ أو مشبَّه به، فالحِدَأَة الطائر المعروف، والجمع الحِدَأ. قال:\n* كما تَدَانَى الحِدَأ الأُوِىُّ (٥) *\nومما يشبَّه به وغُيِّرتْ بعضُ حركاته الحَدَأَةُ، شِبْهُ فأسٍ تُنقر به الحجارة. قال:\n* … كالحَدَأ الوَقيعِ (١) *\nومما شذَّ عن الباب حَدِئ * بالمكان: لَزِق",
- "az": "«حدأ» (hədəə): Ha, dal və həmzə hərflərindən ibarət olub tək bir kökdür: quşdur və ya ona bənzədilən şeydir. «الحِدَأَةُ» (əl-hidəə) — tanınmış quşdur (çalağan), cəmi «الحِدَأ» (əl-hidə) gəlir. Şair demişdir:\n* كما تَدَانَى الحِدَأ الأُوِىُّ (٥) *\n(Uzaqdan gələn çalağanların bir-birinə yaxınlaşdığı kimi)\nOna bənzədilən və bəzi hərəkələri dəyişdirilən şeylərdən biri də daşların yontulduğu balta bənzəri alət olan «الحَدَأَةُ» (hədəə) sözüdür. Şair demişdir:\n* … كالحَدَأ الوَقيعِ (١) *\n(Yatlanmış balta kimi...)\nFəsildən istisna olunan şeylərdən biri də «حَدِئ * بالمكان» (məkanda yapışdı) sözüdür.",
+ "az": "[حدأ]\nHa, dal və həmzə hərflərindən ibarət olub tək bir kökdür: quşdur və ya ona bənzədilən şeydir. «الحِدَأَة» (əl-hidəə) — tanınmış quşdur (çalağan), cəmi «الحِدَأ» (əl-hidə) gəlir. Şair demişdir:\n* كما تَدَانَى الحِدَأ الأُوِىُّ (٥) *\n(Uzaqdan gələn çalağanların bir-birinə yaxınlaşdığı kimi)\nOna bənzədilən və bəzi hərəkələri dəyişdirilən şeylərdən biri də daşların yontulduğu balta bənzəri alət olan «الحَدَأَةُ» (hədəə) sözüdür. Şair demişdir:\n* … كالحَدَأ الوَقيعِ (١) *\n(İtilənmiş balta kimi...)\nFəsildən istisna olunan şeylərdən biri də «حَدِئ * بالمكان» sözüdür: məkana yapışdı (orada qaldı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:54:28.558Z"
+ "ts": "2026-10-25T00:54:28.558Z",
+ "prev_az": "«حدأ» (hədəə): Ha, dal və həmzə hərflərindən ibarət olub tək bir kökdür: quşdur və ya ona bənzədilən şeydir. «الحِدَأَةُ» (əl-hidəə) — tanınmış quşdur (çalağan), cəmi «الحِدَأ» (əl-hidə) gəlir. Şair demişdir:\n* كما تَدَانَى الحِدَأ الأُوِىُّ (٥) *\n(Uzaqdan gələn çalağanların bir-birinə yaxınlaşdığı kimi)\nOna bənzədilən və bəzi hərəkələri dəyişdirilən şeylərdən biri də daşların yontulduğu balta bənzəri alət olan «الحَدَأَةُ» (hədəə) sözüdür. Şair demişdir:\n* … كالحَدَأ الوَقيعِ (١) *\n(Yatlanmış balta kimi...)\nFəsildən istisna olunan şeylərdən biri də «حَدِئ * بالمكان» (məkanda yapışdı) sözüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir parçasının tərcüməsində «Yatlanmış» kimi mənasız/pozulmuş söz işlədilib («itilənmiş» olmalıdır)."
+ ],
+ "review_ts": "2026-11-16T18:31:44.743Z"
 }

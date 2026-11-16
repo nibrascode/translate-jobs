@@ -11,7 +11,17 @@
   "page_to": 64
  },
  "ar": "الحاء والشين والنون أصلٌ واحد، وهو تغيُّر الشئ مما يتعلّق به مِنْ درن. ثمّ يشتق منه:\nفأمّا الأوَّل فقولهم فيما رواه الخليل: حَشِنَ السِّقاء، إِذا حُقِنَ لبناً ولم يُتَعهَّدْ بغسلٍ فتغيَّرَ ظاهرُه وأنتَنَ. وأمَّا القياس فقال أبو عبيد: الحِشنة، بتقديم الحاء على الشين: الحقد. وأنشد:\nأَلَا لا أرَى ذا حِشْنَةٍ فى فؤاده … يُجَمِجمُها إلاّ سَيَبْدُو دفينُها (٢)\nقال غيره: ومن ذلك قولهم: قال (٣) فلانٌ لفلان حتَّى حشَّن صدرَه.",
- "az": "[حشن] الحاء (ha) və Şin (şin) və Nun (nun) tək bir kökdür, bu da bir şeyin ona yapışan çirkdən dolayı dəyişməsidir. Sonra ondan törədilmişdir: Birincisinə gəlincə, Xəlilin rəvayət etdiyi kimi, onların «حَشِنَ السِّقاء» (tuluq xarab oldu) demələridir; bu, tuluğa süd qoyulduqda və yuyulmaqla qayğı göstərilmədikdə, zahiri dəyişib üfunətləndiyi zaman deyilir. Ölçüyə (qiyasa) gəlincə, Əbu Übeyd demişdir: «الحِشنة» (əl-hişnə) - ha hərfi şin hərfindən əvvəl gəlməklə - kin deməkdir. O, belə şeir demişdir: «أَلَا لا أرَى ذا حِشْنَةٍ فى فؤاده … يُجَمِجمُها إلاّ سَيَبْدُو دفينُها» (Diqqət edin, ürəyində kin saxlayan birini görmürəm ki, onu gizlətsin, lakin onun gizli saxladığı mütləq üzə çıxacaqdır) (٢). Başqası demişdir: Bundan onların «فلانٌ لفلان حتَّى حشَّن صدرَه» (Filankəs filankəsə qarşı sinəsini kinlə doldurana qədər dedi) demələri də bu qəbildəndir (٣).",
+ "az": "[حشن]\nHa, şin və nun tək bir kökdür, bu da bir şeyin ona yapışan çirk səbəbindən dəyişməsidir. Sonra ondan törədilmişdir:\nBirincisinə gəlincə, Xəlilin rəvayət etdiyi kimi, onların حَشِنَ السِّقاء (tuluq xarab oldu) demələridir; bu, tuluğa süd qoyulduqda və yuyulmaqla qayğı göstərilmədikdə, zahiri dəyişib üfunətləndiyi zaman deyilir. Ölçüyə (qiyasa) gəlincə, Əbu Übeyd demişdir: الحِشنة (əl-hişnə) — ha hərfi şin hərfindən əvvəl gəlməklə — kin deməkdir. O, belə şeir demişdir:\nأَلَا لا أرَى ذا حِشْنَةٍ فى فؤاده … يُجَمِجمُها إلاّ سَيَبْدُو دفينُها (٢) (Diqqət edin, ürəyində kin saxlayan birini görmürəm ki, onu gizlətsin, lakin onun gizli saxladığı mütləq üzə çıxacaqdır).\nBaşqası demişdir: Bundan onların قال (٣) فلانٌ لفلان حتَّى حشَّن صدرَه (Filankəs filankəsə o qədər söz dedi ki, axırda onun sinəsini kinlə doldurdu) demələri də bu qəbildəndir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:57:37.546Z"
+ "ts": "2026-10-25T00:57:37.546Z",
+ "prev_az": "[حشن] الحاء (ha) və Şin (şin) və Nun (nun) tək bir kökdür, bu da bir şeyin ona yapışan çirkdən dolayı dəyişməsidir. Sonra ondan törədilmişdir: Birincisinə gəlincə, Xəlilin rəvayət etdiyi kimi, onların «حَشِنَ السِّقاء» (tuluq xarab oldu) demələridir; bu, tuluğa süd qoyulduqda və yuyulmaqla qayğı göstərilmədikdə, zahiri dəyişib üfunətləndiyi zaman deyilir. Ölçüyə (qiyasa) gəlincə, Əbu Übeyd demişdir: «الحِشنة» (əl-hişnə) - ha hərfi şin hərfindən əvvəl gəlməklə - kin deməkdir. O, belə şeir demişdir: «أَلَا لا أرَى ذا حِشْنَةٍ فى فؤاده … يُجَمِجمُها إلاّ سَيَبْدُو دفينُها» (Diqqət edin, ürəyində kin saxlayan birini görmürəm ki, onu gizlətsin, lakin onun gizli saxladığı mütləq üzə çıxacaqdır) (٢). Başqası demişdir: Bundan onların «فلانٌ لفلان حتَّى حشَّن صدرَه» (Filankəs filankəsə qarşı sinəsini kinlə doldurana qədər dedi) demələri də bu qəbildəndir (٣).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«قال (٣) فلانٌ لفلان» cümləsində «قال» sözü ərəb sitatından düşüb, (٢) və (٣) haşiyə rəqəmlərinin yeri dəyişdirilib.",
+  "Abzas bölgüsü AR-dakı kimi saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-16T18:36:58.275Z"
 }

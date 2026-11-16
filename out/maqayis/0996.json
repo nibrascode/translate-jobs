@@ -11,7 +11,16 @@
   "page_to": 130
  },
  "ar": "الحاء والباء والقاف ليس عندى بأصلٍ يُؤخَذُ به ولا معنَى له. لكنهم يقولون حبَّق متاعَه، إذا جمعه. ولا أدرى كيف صحَّتُه.",
- "az": "[حبق] (həbəq) - Ha, ba və qaf mənim yanımda istinad olunacaq bir əsas və heç bir mənası yoxdur. Lakin onlar deyirlər: «حبَّق متاعَه» — malını toplayıb yığdı. Bunun nə dərəcədə doğru olduğunu bilmirəm.",
+ "az": "[حبق] Ha, ba və qaf mənim yanımda istinad olunası bir kök deyildir və heç bir mənası yoxdur. Lakin onlar deyirlər: «حبَّق متاعَه، إذا جمعه» (əşyasını toplayıb yığdıqda). Bunun nə dərəcədə doğru olduğunu bilmirəm.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:49.135Z"
+ "ts": "2026-10-25T01:04:49.135Z",
+ "prev_az": "[حبق] (həbəq) - Ha, ba və qaf mənim yanımda istinad olunacaq bir əsas və heç bir mənası yoxdur. Lakin onlar deyirlər: «حبَّق متاعَه» — malını toplayıb yığdı. Bunun nə dərəcədə doğru olduğunu bilmirəm.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Sitatdakı «إذا جمعه» hissəsi ərəbcə mətndən ixtisar olunmuşdur."
+ ],
+ "review_ts": "2026-11-16T19:29:29.289Z"
 }

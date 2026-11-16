@@ -11,7 +11,16 @@
   "page_to": 223
  },
  "ar": "الخاء والنون والطاء كلمةٌ ليست أصلا، وهى من باب الإِبدال. يقال خَنَطَهُ: إذا كَرَبَه، مثلُ غَنَطه، وليس بشئ.",
- "az": "[خنط] الخاء والنون والطاء كلمة ليست أصلا (Xar, nun və ta əsas olmayan kəlmədir) — əvəzetmə (ibdal) babındandır. Deyilir: خَنَطَهُ (xənətəhu) — onu sıxıntıya saldı, غَنَطه (ğənətəhu) kimidir, bu isə heç bir şeydir (zəif sözdür).",
+ "az": "[خنط] الخاء والنون والطاء كلمةٌ ليست أصلا (xa, nun və ta əsas olmayan kəlmədir) — əvəzetmə (ibdal) babındandır. Deyilir: خَنَطَهُ — onu sıxıntıya saldı, غَنَطه kimidir, bu isə heç bir şeydir (səhih deyildir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:13:06.496Z"
+ "ts": "2026-10-25T01:13:06.496Z",
+ "prev_az": "[خنط] الخاء والنون والطاء كلمة ليست أصلا (Xar, nun və ta əsas olmayan kəlmədir) — əvəzetmə (ibdal) babındandır. Deyilir: خَنَطَهُ (xənətəhu) — onu sıxıntıya saldı, غَنَطه (ğənətəhu) kimidir, bu isə heç bir şeydir (zəif sözdür).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«xa» hərf adı «Xar» kimi səhv yazılmışdır."
+ ],
+ "review_ts": "2026-11-16T19:47:13.843Z"
 }

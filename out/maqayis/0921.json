@@ -13,5 +13,10 @@
  "ar": "الحاء والكاف واللام أصلٌ صحيح منقاس، وهو الشئُ لا يُبينُ. يقال إنّ الحكْل الشئُ الذى لا نُطْقَ له من الحيوان، كالنمل وغيره.\nقال:\nلو كنتُ قد أُوتِيتُ عِلْمَ الْحكْل … علَم سليمانٍ كلامَ النّمل (١)\nويقال فى لسانه حُكْلَةٌ، أى عُجمة. ويقال أحْكَلَ علىَّ الأمرُ، إذا امتنَعَ وأشْكَل.\nوممّا شذّ عن الباب قولهم للرجل القصير حَنْكَل (٢).",
  "az": "«حكل» (ḥa-ka-lə). Ḥa, kaf və lam səhih, qaydaya uyğun bir əsl olub, aydın olmayan şeydir. Deyilir ki, «الحكْل» (əl-ḥəkl) qarışqa və s. kimi heyvanatlardan səsi olmayan şeydir. (Şair) demişdir:\nلو كنتُ قد أُوتِيتُ عِلْمَ الْحكْل … علَم سليمانٍ كلامَ النّمل (١)\n(Əgər mənə ḥəkl elmi verilmiş olsaydı … Süleymanın qarışqaların dilini bildiyi kimi).\nVə onun dilində «حُكْلَةٌ» (ḥuklə) var deyilir, yəni qüsurlu danışıq, əcəmlik. Və «أحْكَلَ علىَّ الأمرُ» (məsələ mənə qaranlıq qaldı) deyilir, iş qəlizləşdiyi və çətinləşdiyi zaman. Bu fəsildən istisna olaraq qısa boylu kişiyə «حَنْكَل» (ḥankəl) demişlər (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:02:33.899Z"
+ "ts": "2026-10-25T01:02:33.899Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-16T18:44:46.808Z"
 }

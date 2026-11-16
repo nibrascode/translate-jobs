@@ -11,7 +11,17 @@
   "page_to": 55
  },
  "ar": "الحاء والزاء والباء أصلٌ واحد، وهو تجمُّع الشئ. فمن ذلك الحِزب الجماعة من النّاس. قال اللّه تعالى: ﴿كُلُّ حِزْبٍ بِما لَدَيْهِمْ فَرِحُونَ﴾.\nوالطائفة من كلِّ شئِ حِزْبٌ. يقال قرأَ حِزبَهُ من القرآن. والحِزْباء: الأرض الغليظة (٢). والحَزَابِيَةُ: الحِمار المجموع الخَلْق.\nومن هذا الباب الحيزبُون: العجوز، وزادوا فيه الياء والواو والنون، كما يفعلونه فى مثل هذا، ليكون أبلغ فى الوصف الذى يريدونه.",
- "az": "[حزب] \n الحاء والزاء والباء أصلٌ واحد، وهو تجمُّع الشئ. فمن ذلك الحِزب الجماعة من النّاس. قال اللّه تعالى: ﴿كُلُّ حِزْبٍ بِما لَدَيْهِمْ فَرِحُونَ﴾. \n (Hə, zai və ba hərfləri tək bir əsasdır, o da şeyin toplanmasıdır. Bunlardan biri də «الْحِزْبُ» — insan dəstəsidir. Uca Allah buyurdu: مənaca tərcümə: «Hər bir dəstə öz yanındakı ilə sevinc içindədir».) \n والطائفة من كلِّ شئِ حِزْبٌ. يقال قرأَ حِزبَهُ من القرآن. والحِزباء: الأرض الغليظة (٢). والحَزَابِيَةُ: الحِمار المجموع الخَلْق. \n (Hər şeyin tayfası «حِزْبٌ»-dür. Deyilir ki: «قَرَأَ حِزْبَهُ مِنَ الْقُرْآنِ» — Qurandan olan hizbini oxudu. «الْحِزْبَاءُ» — sərt, qaba yerdir. «الْحَزَابِيَةُ» — xilqəti toplu olan eşşəkdir.) \n ومن هذا الباب الحيزبُون: العجوز، وزادوا فيه الياء والواو والنون، كما يفعلونه فى مثل هذا، ليكون أبلغ فى الوصف الذى يريدونه. \n (Bu qapıdandır: «الْحَيْزَبُونُ» — qarı qadın; onlar bunun içərisinə ya, vav və nun hərflərini artırmışlar, necə ki istədikləri vəsfdə daha qabarıq olsun deyə bu cür hallarda edirlər.)",
+ "az": "[حزب]\nHa, zai və ba hərfləri tək bir əsasdır, o da şeyin toplanmasıdır. Bunlardan biri الحِزب (hizb) — insan dəstəsidir. Uca Allah buyurdu: ﴿كُلُّ حِزْبٍ بِما لَدَيْهِمْ فَرِحُونَ﴾ (mənaca tərcümə: «Hər bir dəstə öz yanındakı ilə sevinc içindədir»).\nHər şeyin bir dəstəsi حِزْبٌ (hizb)-dir. Deyilir: قرأَ حِزبَهُ من القرآن (Qurandan öz hizbini oxudu). الحِزباء (hizba) — sərt, qaba yerdir (٢). الحَزَابِيَةُ (həzabiyə) — bədən quruluşu yığcam (toplu) olan eşşəkdir.\nBu babdan الحيزبُون (həyzəbun) — qarı qadındır; onlar buna ya, vav və nun hərflərini artırmışlar, necə ki istədikləri vəsfdə daha qabarıq olsun deyə bu cür hallarda edirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:55:36.987Z"
+ "ts": "2026-10-25T00:55:36.987Z",
+ "prev_az": "[حزب] \n الحاء والزاء والباء أصلٌ واحد، وهو تجمُّع الشئ. فمن ذلك الحِزب الجماعة من النّاس. قال اللّه تعالى: ﴿كُلُّ حِزْبٍ بِما لَدَيْهِمْ فَرِحُونَ﴾. \n (Hə, zai və ba hərfləri tək bir əsasdır, o da şeyin toplanmasıdır. Bunlardan biri də «الْحِزْبُ» — insan dəstəsidir. Uca Allah buyurdu: مənaca tərcümə: «Hər bir dəstə öz yanındakı ilə sevinc içindədir».) \n والطائفة من كلِّ شئِ حِزْبٌ. يقال قرأَ حِزبَهُ من القرآن. والحِزباء: الأرض الغليظة (٢). والحَزَابِيَةُ: الحِمار المجموع الخَلْق. \n (Hər şeyin tayfası «حِزْبٌ»-dür. Deyilir ki: «قَرَأَ حِزْبَهُ مِنَ الْقُرْآنِ» — Qurandan olan hizbini oxudu. «الْحِزْبَاءُ» — sərt, qaba yerdir. «الْحَزَابِيَةُ» — xilqəti toplu olan eşşəkdir.) \n ومن هذا الباب الحيزبُون: العجوز، وزادوا فيه الياء والواو والنون، كما يفعلونه فى مثل هذا، ليكون أبلغ فى الوصف الذى يريدونه. \n (Bu qapıdandır: «الْحَيْزَبُونُ» — qarı qadın; onlar bunun içərisinə ya, vav və nun hərflərini artırmışlar, necə ki istədikləri vəsfdə daha qabarıq olsun deyə bu cür hallarda edirlər.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ayənin tərcüməsində «مənaca tərcümə:» sözündə ərəb «م» hərfi qarışıb və ayənin ərəbcə mətni tərcümənin içində buraxılıb.",
+  "Haşiyə rəqəmi (٢) buraxılıb, ərəbcə sözlərin hərəkələri dəyişdirilib və format qaydası pozulub."
+ ],
+ "review_ts": "2026-11-16T18:34:47.333Z"
 }

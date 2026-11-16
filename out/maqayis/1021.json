@@ -11,7 +11,17 @@
   "page_to": 149
  },
  "ar": "الخاء والدال أصلٌ واحدٌ، وهو تأسُّلُ الشَّئِ وامتدادُه إلى السُّفل. فمن ذلك الخَدّ خدّ الإنسان، وبه سُمِّيت المِخَدّة. والخَدُّ: الشّقّ.\nوالأخاديد: الشَّقوق فى الأرض. والتخدُّد: تخدُّد اللَّحم من الهُزال. وامرأة متخدِّدة: مهزولة. والخِدَادُ: مِيسمٌ من المياسِم، ولعلَّه يكون فى الخدّ؛ يقال منه بعيرٌ مخدود.",
- "az": "«خد» (xa-dal): Xa və dal tək bir əslidir, o da şeyin kök salması və aşağıya doğru uzanmasıdır. Bunlardan biri insanın yanağı olan الخَدّ (əl-xədd) sözüdür, yastıq olan المِخَدّة (əl-mixəddə) də bundan adlanmışdır. Və الخَدُّ (əl-xədd) — yarıqdır.\n\nالأخاديد (əl-axadid) — yerin üzərindəki yarıqlardır. التخدُّد (ət-təxaddud) — arıqlıqdan ətin büzüşməsi, sallanmasıdır. Qadın متخدِّدة (mütəxaddidə) — arıq, çərsimiş deməkdir. الخِدَادُ (əl-xidad) — nişanlanma işarələrindən biridir, ola bilsin ki, yanaqda olur; ondan deyilir: بعيرٌ مخدود (bəirun məhdud) — yanağında nişanı olan dəvə.",
+ "az": "[خد] Xa və dal tək bir əsldir, o da şeyin incəlib aşağıya doğru uzanmasıdır. Bunlardan biri insanın yanağı olan الخَدّ (əl-xədd) sözüdür, yastıq olan المِخَدّة (əl-mixəddə) də buna görə adlanmışdır. Və الخَدُّ (əl-xədd) – yarıqdır.\nالأخاديد (əl-axadid) – yerin üzərindəki yarıqlardır. والتخدُّد (ət-təxaddud) – arıqlıqdan ətin büzüşməsi, sallanmasıdır. Və امرأة متخدِّدة (imrəətun mütəxaddidə) – arıq qadındır. والخِدَادُ (əl-xidad) – dağlama nişanlarından biridir, ola bilsin ki, yanaqda olur; ondan deyilir: بعيرٌ مخدود (bəirun məhdud – yanağı dağlanmış dəvə).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:06:36.723Z"
+ "ts": "2026-10-25T01:06:36.723Z",
+ "prev_az": "«خد» (xa-dal): Xa və dal tək bir əslidir, o da şeyin kök salması və aşağıya doğru uzanmasıdır. Bunlardan biri insanın yanağı olan الخَدّ (əl-xədd) sözüdür, yastıq olan المِخَدّة (əl-mixəddə) də bundan adlanmışdır. Və الخَدُّ (əl-xədd) — yarıqdır.\n\nالأخاديد (əl-axadid) — yerin üzərindəki yarıqlardır. التخدُّد (ət-təxaddud) — arıqlıqdan ətin büzüşməsi, sallanmasıdır. Qadın متخدِّدة (mütəxaddidə) — arıq, çərsimiş deməkdir. الخِدَادُ (əl-xidad) — nişanlanma işarələrindən biridir, ola bilsin ki, yanaqda olur; ondan deyilir: بعيرٌ مخدود (bəirun məhdud) — yanağında nişanı olan dəvə.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format «[خد]» ilə başlamır.",
+  "«تأسُّلُ الشَّئِ» ifadəsi «şeyin kök salması» kimi yanlış tərcümə olunub (mənası: şeyin incəlib aşağıya doğru uzanmasıdır)."
+ ],
+ "review_ts": "2026-11-16T19:31:26.291Z"
 }

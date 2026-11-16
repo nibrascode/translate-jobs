@@ -11,7 +11,18 @@
   "page_to": 125
  },
  "ar": "الحاء والياء والفاء أصل * واحد، وهو المَيْل. يقال [حاف] عليه يَحِيفُ، إذا مالَ. ومنه تحيفْتُ الشئَ، إذا أخذْتَه من جوانِبِه، وهو قياسُ الباب لأنه مال عَنْ عُرْضِه إلى جوانبه.",
- "az": "[حيف] (heyf) - Ha, ya və fa tək bir kökə malikdir ki, o da meyil etməkdir. Deyilir: «[حاف] عليه يَحِيفُ» — o, haqsızlıq edib meyil etdikdə. Buradan «تحيفْتُ الشئَ» — bir şeyi kənarlarından götürdüyüm zaman (işlədilir), və bu, fasilənin ölçüsüdür, çünki o, öz istiqamətindən kənarlarına meyil etmişdir.",
+ "az": "[حيف]\nHa, ya və fa tək bir əsas kökdür, o da meyl etməkdir. Zülm edib meyl etdikdə [حاف] عليه يَحِيفُ deyilir. Buradandır: bir şeyi kənarlarından götürdüyün zaman تحيفْتُ الشئَ deməyin; bu isə babın qiyasıdır, çünki o, şeyin ortasından (enindən) kənarlarına meyl etmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:49.134Z"
+ "ts": "2026-10-25T01:04:49.134Z",
+ "prev_az": "[حيف] (heyf) - Ha, ya və fa tək bir kökə malikdir ki, o da meyil etməkdir. Deyilir: «[حاف] عليه يَحِيفُ» — o, haqsızlıq edib meyil etdikdə. Buradan «تحيفْتُ الشئَ» — bir şeyi kənarlarından götürdüyüm zaman (işlədilir), və bu, fasilənin ölçüsüdür, çünki o, öz istiqamətindən kənarlarına meyil etmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وهو قياسُ الباب» ifadəsi «fasilənin ölçüsüdür» kimi kobud tərcümə xətası ilə verilib; doğrusu «bu isə babın qiyasıdır».",
+  "«إذا أخذْتَه» feli «götürdüyüm» (I şəxs) kimi deyil, «götürdüyün» (II şəxs) kimi tərcümə olunmalıdır.",
+  "«عَنْ عُرْضِه» ifadəsi «öz istiqamətindən» deyil, «ortasından / enindən» deməkdir."
+ ],
+ "review_ts": "2026-11-16T19:16:12.854Z"
 }

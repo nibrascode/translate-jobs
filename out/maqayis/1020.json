@@ -11,7 +11,18 @@
   "page_to": 143
  },
  "ar": "الحاء والجيم والباء أصل واحد، وهو المنع. يقال حجبته عن كذا، أى منَعتُه. وحِجابُ الجَوْف: ما يَحْجُبُ بين الفُؤَاد وسائر الجَوْف.\nوالحاجبان العظمان فوق العينين بالشّعَرْ والّلحم. وهذا على التشبيه، كأنّهما تحجبان شيئاً يصل إلى العينين. وكذلك حاجبُ الشّمس، إنما هو مشبَّهُ بحاجب الإنسان. وكذلك الحَجَبة: رأس الوَرِك، تشبيهٌ أيضاً لإشرافِهِ.",
- "az": "«حجب» (hə-cə-bə): Ha, cim və ba tək bir əslidir, o da qadağan etmək, əngəlləməkdir. Deyirlər: حجبته عن كذا (həcəbtuhu ən kəza) — yəni onu bundan qadağan etdim. Və حِجابُ الجَوْف (hicabul-cəwf) — ürəklə qalan bədən boşluğu arasında pərdə olan şeydir.\n\nالحاجبان (əl-haciban) — gözlərin üzərindəki tük və ətli olan iki sümükdür. Bu oxşatmadandır, elə bil ki, onlar gözlərə çatan bir şeyi əngəlləyirlər. Eynilə حاجبُ الشّمس (hacubuş-şəms) — günəşin hacibi də insan hacibinə bənzədilmişdir. Həmçinin الحَجَبة (əl-həcəbə) — budun baş tərəfi də yüksəldiyinə görə bənzətmə olaraq belə adlanmışdır.",
+ "az": "[حجب] Ha, cim və ba tək bir əsldir, o da əngəlləmək, qadağan etməkdir. Deyilir: حجبته عن كذا (həcəbtuhu ən kəza) – yəni onu bundan əngəllədim. وحِجابُ الجَوْف (və hicabul-cəwf) – ürəklə bədən boşluğunun qalan hissəsi arasında pərdə olan şeydir.\nالحاجبان (əl-haciban – iki qaş) – gözlərin üzərində olan tük və ətli iki sümükdür. Bu oxşatmadandır, sanki onlar gözlərə çatan bir şeyi əngəlləyirlər. Eynilə حاجبُ الشّمس (hacibuş-şəms – günəşin ilk görünən qırağı) da insanın qaşına bənzədilmişdir. Həmçinin الحَجَبة (əl-həcəbə – bud sümüyünün başı) da ucalığına və qabarıqlığına görə bənzətmə olaraq belə adlanmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:06:36.723Z"
+ "ts": "2026-10-25T01:06:36.723Z",
+ "prev_az": "«حجب» (hə-cə-bə): Ha, cim və ba tək bir əslidir, o da qadağan etmək, əngəlləməkdir. Deyirlər: حجبته عن كذا (həcəbtuhu ən kəza) — yəni onu bundan qadağan etdim. Və حِجابُ الجَوْف (hicabul-cəwf) — ürəklə qalan bədən boşluğu arasında pərdə olan şeydir.\n\nالحاجبان (əl-haciban) — gözlərin üzərindəki tük və ətli olan iki sümükdür. Bu oxşatmadandır, elə bil ki, onlar gözlərə çatan bir şeyi əngəlləyirlər. Eynilə حاجبُ الشّمس (hacubuş-şəms) — günəşin hacibi də insan hacibinə bənzədilmişdir. Həmçinin الحَجَبة (əl-həcəbə) — budun baş tərəfi də yüksəldiyinə görə bənzətmə olaraq belə adlanmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format «[حجب]» ilə başlamır.",
+  "«حاجب الشمس» ifadəsi tərcümə olunmayıb («günəşin hacibi» yazılıb).",
+  "Ərəbcə bəzi ifadələrin latın transkripsiyası mətni pozub və tərcümə dəqiqliyi azalıb."
+ ],
+ "review_ts": "2026-11-16T19:31:26.290Z"
 }

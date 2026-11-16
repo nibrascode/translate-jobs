@@ -11,7 +11,16 @@
   "page_to": 203
  },
  "ar": "الخاء والفاء والدال أصلٌ واحد، وهو من الإسراع. يقال خَفَدَ الظّليم: أسرع فى مَرِّه. ولذلك سُمِّى خَفيْدَداً.",
- "az": "[خفد] الخاء والفاء والدال أصلٌ واحد، وهو من الإسراع (Hərf-i xa, fa və dal tək bir əsasdır və o, tələsməkdir). Deyilir: «خَفَدَ الظّليم» — dəvəquşu qaçışında tələsdi. Buna görə də ona «خَفيْدَد» ad verilmişdir.",
+ "az": "[خفد] الخاء والفاء والدال (xa, fa, dal) tək bir əsasdır və o, tələsməkdir. Deyilir: «خَفَدَ الظّليم» — dəvəquşu qaçışında tələsdi. Buna görə də ona «خَفيْدَد» adı verilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:10:24.017Z"
+ "ts": "2026-10-25T01:10:24.017Z",
+ "prev_az": "[خفد] الخاء والفاء والدال أصلٌ واحد، وهو من الإسراع (Hərf-i xa, fa və dal tək bir əsasdır və o, tələsməkdir). Deyilir: «خَفَدَ الظّليم» — dəvəquşu qaçışında tələsdi. Buna görə də ona «خَفيْدَد» ad verilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərflərin adları standart formatda verilməlidir."
+ ],
+ "review_ts": "2026-11-16T19:41:50.416Z"
 }

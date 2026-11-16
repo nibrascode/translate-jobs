@@ -11,7 +11,20 @@
   "page_to": 79
  },
  "ar": "الحاء والطاء والهمزة أصلٌ منقاس، وهو تطامُن الشَّئِ وسقُوطُه.\nيقال حَطَأْتُ الرجلَ بالأرض: ضربته. والحُطيئة: الرجل القصير. قال ثعلب:\nسمِّي الحُطيئة لدَمامَته.\nقال أبو زيد: الحَطِئ من الرّجال مثال فَعيل: الرُّذَال.\nقال ابن عباس:\n«أَخَذَ رسول اللّه ﵌ بقَفائى فحطأنى خَطْأةً وقال: اذهبْ فادعُ لى فلاناً». يقول: دَفَعَنى دَفْعة. ويقال حَطَأَتِ القِدْرُ بزَبَدِها: رمَت. ويقال حطأ الرجُل المرأةَ: جامَعَها.",
- "az": "«حطأ» (H-T-Həmzə): hə, ta və həmzə hərfləri qaydaya uyğun bir əsas mənanı bildirir: bir şeyin alçalması və yıxılması. «حَطَأْتُ الرجلَ بالأرض» — kişini yerə vurdum, yıxdım. الحُطيئة (Huteylə) — alçaqboylu kişi. Səhləb demişdir: Hutyə alçaqlığına görə belə adlandırılmışdır. Əbu Zeyd demişdir: fəzil (فعيل) qəlibindəki الحَطِئ (hati) — yaramaz, alçaq kişilərdir. İbn Abbas demişdir: «Allahın Elçisi ﵌ əsnəyimdən tutub məni bir dəfə itələdi və dedi: Get, filankəsi mənə çağır». O, mənə bir dəfə itələmə (zərbə) vurduğunu qəsd edir. «حطأَتِ القِدْرُ بزَبَدِها» — qazan köpüyünü çölə atdı. «حطأ الرجُل المرأةَ» — kişi qadınla cinsi əlaqədə oldu.",
+ "az": "[حطأ]\nHa, ta və həmzə hərfləri qaydaya uyğun bir əsas mənanı bildirir: bir şeyin alçalması və yıxılması.\nDeyilir: حَطَأْتُ الرجلَ بالأرض (kişini yerə vurdum, yıxdım). الحُطيئة (Huteyə) — qısaboylu kişi. Sələb demişdir:\nHuteyə çirkinliyinə görə belə adlandırılmışdır.\nƏbu Zeyd demişdir: فَعيل (fəil) vəznindəki الحَطِئ (hati) — alçaq, yaramaz kişilərdir.\nİbn Abbas demişdir:\n«أَخَذَ رسول اللّه ﵌ بقَفائى فحطأنى خَطْأةً وقال: اذهبْ فادعُ لى فلاناً» (Allahın Elçisi sallallahu aleyhi və səlləm ənsəmdən tutub məni bir dəfə itələdi və dedi: Get, filankəsi mənə çağır). O, mənə bir dəfə itələmə (zərbə) vurduğunu qəsd edir. Deyilir: حَطَأَتِ القِدْرُ بزَبَدِها (qazan köpüyünü çölə atdı). Deyilir: حطأ الرجُل المرأةَ (kişi qadınla cinsi əlaqədə oldu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:58:55.260Z"
+ "ts": "2026-10-25T00:58:55.260Z",
+ "prev_az": "«حطأ» (H-T-Həmzə): hə, ta və həmzə hərfləri qaydaya uyğun bir əsas mənanı bildirir: bir şeyin alçalması və yıxılması. «حَطَأْتُ الرجلَ بالأرض» — kişini yerə vurdum, yıxdım. الحُطيئة (Huteylə) — alçaqboylu kişi. Səhləb demişdir: Hutyə alçaqlığına görə belə adlandırılmışdır. Əbu Zeyd demişdir: fəzil (فعيل) qəlibindəki الحَطِئ (hati) — yaramaz, alçaq kişilərdir. İbn Abbas demişdir: «Allahın Elçisi ﵌ əsnəyimdən tutub məni bir dəfə itələdi və dedi: Get, filankəsi mənə çağır». O, mənə bir dəfə itələmə (zərbə) vurduğunu qəsd edir. «حطأَتِ القِدْرُ بزَبَدِها» — qazan köpüyünü çölə atdı. «حطأ الرجُل المرأةَ» — kişi qadınla cinsi əlaqədə oldu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[حطأ]» formatında verilməyib.",
+  "Ad və sözlərdə ciddi təhriflər var: «Sələb» əvəzinə «Səhləb», «Huteyə» əvəzinə «Huteylə/Hutyə», «fəil (فَعيل)» əvəzinə «fəzil (فعيل)» yazılıb.",
+  "«لدَمامَته» sözü «çirkinliyinə görə» əvəzinə «alçaqlığına görə» kimi səhv tərcümə edilib.",
+  "İbn Abbasın rəvayətinin ərəb mətni verilməyib və «﵌» ifadəsi «sallallahu aleyhi və səlləm» kimi açılmayıb.",
+  "«بقَفائى» (ənsəmdən) sözü «əsnəyimdən» kimi səhv yazılıb."
+ ],
+ "review_ts": "2026-11-16T18:39:45.904Z"
 }

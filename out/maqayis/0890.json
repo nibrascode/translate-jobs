@@ -11,7 +11,18 @@
   "page_to": 75
  },
  "ar": "الحاء والضاد والباء أصلان: الأول ما تُسْعَرُ به النار، والثانى جنسٌ من الصَّوْت.\nفالأوَّل قوله جلَّ ثناؤُه: «حضب جهنّم (١)»، قالوا: هو الوَقُود بفتح الواو ويقال لما تُسعر النّار به مِحْضَب. وينشد بيت الأعشى:\nفلا تَكُ فى حَرْبِنا مِحْضَباً … لتجعَلَ قومَكَ شَتَّى شُعُوبا (٢)\nوالصوت كقولهم لصوت القَوسِ حُضْبٌ، والجمع أحضاب. فأمّا قولهم إنَّ الحِضْب الحيّة ففيه كلامٌ، وإن صحّ فإنّه شاذٌّ عن الأصل.",
- "az": "[حضب] (Hə, dad və ba) iki əsasdır: Birincisi odun alovlandırıldığı şey, ikincisi isə səs növüdür.\nBirincisi – Uca və Təqdis olunan Allahın bu sözüdür: «حضب جهنّم» (١) (Cəhənnəmin odunu/alovlandıranı). Dedilər ki, o, vav hərfinin fəthəsi ilə الوَقُودُ (əl-vəqud – yanacaq) deməkdir. Odun alovlandırıldığı şeyə مِحْضَب (mihzəb) deyilir. Aşağın beyti rəvayət olunur:\nفلا تَكُ فى حَرْبِنا مِحْضَباً … لتجعَلَ قومَكَ شَتَّى شُعُوبا (٢)\n(Bizim müharibəmizdə odun alovlandıran olma ki, qövmünü müxtəlif qollara ayırmısan).\nVə səsə gəldikdə, ox səsinə حُضْبٌ (huzb) deməkdir, cəmi أحضاب (əhzab) gəlir. Qaldı ki, حِضْب (hızb) – ilan deməkdir sözü, bu barədə söz-söhbət var, əgər səhihdirsə, onda o, əsasdan istisnadır.",
+ "az": "[حضب] (Hə, dad və ba) iki əsasdır: Birincisi odun alovlandırıldığı şey, ikincisi isə səs növüdür.\nBirincisi – Uca və Təqdis olunan Allahın bu sözüdür: «حضب جهنّم» (١) (mənaca tərcümə: Cəhənnəmin odunu). Dedilər ki, o, vav hərfinin fəthəsi ilə الوَقُودُ (əl-vəqud – yanacaq) deməkdir. Odun alovlandırıldığı şeyə مِحْضَب (mihdəb) deyilir. Əşanın beyti rəvayət olunur:\nفلا تَكُ فى حَرْبِنا مِحْضَباً … لتجعَلَ قومَكَ شَتَّى شُعُوبا (٢)\n(Bizim müharibəmizdə odun alovlandıran olma ki, qövmünü müxtəlif qollara ayırasan).\nVə səsə gəldikdə, yay (kaman) səsinə حُضْبٌ (hudb) deyilir, cəmi أحضاب (əhdab) gəlir. Qaldı ki, حِضْب (hidb) – ilan deməkdir sözü, bu barədə söz-söhbət var, əgər səhihdirsə, onda o, əsasdan istisnadır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:58:29.377Z"
+ "ts": "2026-10-25T00:58:29.377Z",
+ "prev_az": "[حضب] (Hə, dad və ba) iki əsasdır: Birincisi odun alovlandırıldığı şey, ikincisi isə səs növüdür.\nBirincisi – Uca və Təqdis olunan Allahın bu sözüdür: «حضب جهنّم» (١) (Cəhənnəmin odunu/alovlandıranı). Dedilər ki, o, vav hərfinin fəthəsi ilə الوَقُودُ (əl-vəqud – yanacaq) deməkdir. Odun alovlandırıldığı şeyə مِحْضَب (mihzəb) deyilir. Aşağın beyti rəvayət olunur:\nفلا تَكُ فى حَرْبِنا مِحْضَباً … لتجعَلَ قومَكَ شَتَّى شُعُوبا (٢)\n(Bizim müharibəmizdə odun alovlandıran olma ki, qövmünü müxtəlif qollara ayırmısan).\nVə səsə gəldikdə, ox səsinə حُضْبٌ (huzb) deməkdir, cəmi أحضاب (əhzab) gəlir. Qaldı ki, حِضْب (hızb) – ilan deməkdir sözü, bu barədə söz-söhbət var, əgər səhihdirsə, onda o, əsasdan istisnadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الأعشى» şairinin adı «Aşağ» kimi səhv yazılıb («Əşa» olmalıdır).",
+  "Əşanın beytində «لتجعَلَ» feili «ayırmısan» kimi səhv zamanda tərcümə edilib («ayırasan» olmalıdır).",
+  "«صوت القَوسِ» ifadəsi «ox səsi» kimi səhv tərcümə olunub («yay/kaman səsi» olmalıdır)."
+ ],
+ "review_ts": "2026-11-16T18:38:00.084Z"
 }

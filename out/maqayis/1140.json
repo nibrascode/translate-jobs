@@ -11,7 +11,17 @@
   "page_to": 222
  },
  "ar": "الخاء والنون وما بعدها معتلٌّ، يدلُّ على فَسادٍ وهَلاك.\nيقال لآفات الدهر خَنَى. قال لبيد:\n* وقَدَرْنا إنْ خَنَى الدَّهْرِ غَفَلْ (٢) *\nوأخنَى عليه الدّهر: أهلكَه. قال:\n* أخنَى عليها الذى أخْنَى على لُبَدِ (٣) *\nوالخَنَا من الكلام: أفحشُه. يقال خنا يخنو خَناً، مقصور. ويقال أخْنَى فلان فى كلامِه.",
- "az": "[خنا] الخاء والنون وما بعدها معتلٌّ (Xar, nun və ondan sonrakı hərf mətlidir) — fəsad və həlak olmağa dəlalət edir. Zamanın afətlərinə خَنَى (xəna) deyilir. Ləbid demişdir: * وقَدَرْنا إنْ خَنَى الدَّهْرِ غَفَلْ (٢) * (Və təqdir etdik ki, əgər zəmanənin fəsadı qafil olarsa). Və أخنَى عليه الدّهر (əxnə əleyhi əd-dəhr) — zaman onu həlak etdi. O demişdir: * أخنَى عليها الذى أخْنَى على لُبَدِ (٣) * (Lübədi həlak edən kəs onu da həlak etdi). Və kəlamdan خَنَا (xəna) — onun ən çirkini, ən qəbahətlisi. Deyilir: خنا يخنو خَناً (xəna yaxnu xənən), məqsurdur. Və deyilir: أخْنَى فلان فى كلامِه (əxnə fulanun fi kəlamihi) — filankəs danışığında həddini aşdı və ya çirkin söz işlətdi.",
+ "az": "[خنا] Xa, nun və ondan sonrakı hərf ilətli kökdür: fəsad və həlak olmağa dəlalət edir.\nZamanın bəlalarına خَنَى (xəna) deyilir. Ləbid demişdir:\n* وقَدَرْنا إنْ خَنَى الدَّهْرِ غَفَلْ (٢) *\n(Və biz təqdir etdik ki, zəmanənin fəsadı qafil oldu) (٢).\nوأخنَى عليه الدّهر (zaman onu həlak etdi) deyilir. Şair demişdir:\n* أخنَى عليها الذى أخْنَى على لُبَدِ (٣) *\n(Lübədi həlak edən [zaman] onu da həlak etdi) (٣).\nKəlamdan الخَنَا (əl-xəna): ən çirkin sözdür. Deyilir: خنا يخنو خَناً (çirkin danışdı), məqsurdur. Deyilir: أخْنَى فلان فى كلامِه (filankəs danışığında çirkin sözlər işlətdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:13:06.496Z"
+ "ts": "2026-10-25T01:13:06.496Z",
+ "prev_az": "[خنا] الخاء والنون وما بعدها معتلٌّ (Xar, nun və ondan sonrakı hərf mətlidir) — fəsad və həlak olmağa dəlalət edir. Zamanın afətlərinə خَنَى (xəna) deyilir. Ləbid demişdir: * وقَدَرْنا إنْ خَنَى الدَّهْرِ غَفَلْ (٢) * (Və təqdir etdik ki, əgər zəmanənin fəsadı qafil olarsa). Və أخنَى عليه الدّهر (əxnə əleyhi əd-dəhr) — zaman onu həlak etdi. O demişdir: * أخنَى عليها الذى أخْنَى على لُبَدِ (٣) * (Lübədi həlak edən kəs onu da həlak etdi). Və kəlamdan خَنَا (xəna) — onun ən çirkini, ən qəbahətlisi. Deyilir: خنا يخنو خَناً (xəna yaxnu xənən), məqsurdur. Və deyilir: أخْنَى فلان فى كلامِه (əxnə fulanun fi kəlamihi) — filankəs danışığında həddini aşdı və ya çirkin söz işlətdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərf adı «Xa» yerinə «Xar» yazılıb.",
+  "Mətnin giriş formatı standart deyildir."
+ ],
+ "review_ts": "2026-11-16T19:45:58.352Z"
 }

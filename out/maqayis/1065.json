@@ -11,7 +11,16 @@
   "page_to": 175
  },
  "ar": "الخاء والراء والتاء أصلٌ يدلُّ على تثقُّبٍ وشِبْهه. فالخَرْت:\nثَقْب الإبرة والأخرات: الحَلَقَ فى رءوس النُّسُوع. والخِرِّيتُ: الرجلُ الدّليلُ الماهر بالدَّلالة. وسُمِّى بذلك لشقِّه المَفازةَ، كأنّه يدخُل فى أخْرَاتِها (٢). ويقال خَرَتْنا الأرض، إذا عَرَفْناها فلم تَخْفَ علينا طرقُها.",
- "az": "[خرت] (خ, ر, ت) – deşilməyə və buna bənzər şeylərə dəlalət edən bir kökdür. «الخرْت - əl-xərt» – iynənin deşiyi. «الأخرات - əl-axərat» – dəvə sinəbəndlərinin başlarındakı halqalar. «الخِرِّيت - əl-xirrit» – bələdçilikdə mahir və mahir bələdçi kişi. O, səhranı yarıb keçdiyinə görə belə adlandırılmışdır, sanki o səhranın dəliklərinə (incə yollarına) daxil olur. Deyilir: «خرتتنا الأرض - xərəttənə əl-ərdü», yəni yeri tanıdıq və yolları bizə gizli qalmadı.",
+ "az": "[خرت] (xa, ra, ta) – deşilməyə və buna bənzər şeylərə dəlalət edən bir kökdür. «الخَرْت» – iynənin deşiyi. «الأخرات» – dəvə sinəbəndlərinin başlarındakı halqalar. «الخِرِّيتُ» – bələdçilikdə mahir olan bələdçi kişi. O, səhranı yarıb keçdiyinə görə belə adlandırılmışdır, sanki o, səhranın dəliklərinə daxil olur. Deyilir: «خَرَتْنا الأرضَ» – yeri tanıdıq və yolları bizə gizli qalmadı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:08:39.581Z"
+ "ts": "2026-10-25T01:08:39.581Z",
+ "prev_az": "[خرت] (خ, ر, ت) – deşilməyə və buna bənzər şeylərə dəlalət edən bir kökdür. «الخرْت - əl-xərt» – iynənin deşiyi. «الأخرات - əl-axərat» – dəvə sinəbəndlərinin başlarındakı halqalar. «الخِرِّيت - əl-xirrit» – bələdçilikdə mahir və mahir bələdçi kişi. O, səhranı yarıb keçdiyinə görə belə adlandırılmışdır, sanki o səhranın dəliklərinə (incə yollarına) daxil olur. Deyilir: «خرتتنا الأرض - xərəttənə əl-ərdü», yəni yeri tanıdıq və yolları bizə gizli qalmadı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatdakı «خَرَتْنا» sözü «خرتتنا» kimi təhrif olunub."
+ ],
+ "review_ts": "2026-11-16T19:36:05.852Z"
 }

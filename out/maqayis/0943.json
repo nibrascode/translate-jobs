@@ -11,7 +11,16 @@
   "page_to": 105
  },
  "ar": "الحاء والميم والصاد ليس أصلاً يقاس عليه، وما فيه قياسٌ ويجوز أن يكون مِنْ جفافٍ فى الشئ. ويقولون: انْحَمَص الوَرَم، إذا سَكَنَ.\nهذا أصحَّ ما فيه. والحَمَصِيصُ: بقلةٌ.",
- "az": "[حمص] الحاء والميم والصاد ليس أصلاً يقاس عليه، وما فيه قياسٌ ويجوز أن يكون مِنْ جفافٍ فى الشئ («həms» — ha, mim və sad hərfləri üzərində qiyas qurulan bir kök deyildir və onda qiyas vardır, həmçinin şeydəki quruluqdan olması da caizdir). ويقولون: انْحَمَص الوَرَم، إذا سَكَنَ (Və deyirlər: şiş səngidi və zəiflədi). هذا أصحَّ ما فيه (Bu, onun haqqında ən səhih olanıdır). والحَمَصِيصُ: بقلةٌ (əl-Həmasis — bir tərəvəzdir).",
+ "az": "[حمص] الحاء والميم والصاد ليس أصلاً يقاس عليه، وما فيه قياسٌ ويجوز أن يكون مِنْ جفافٍ فى الشئ («həms» — ha, mim və sad hərfləri üzərində qiyas qurulan bir kök deyildir; onda qiyas edilə biləcək tərəf isə şeydəki quruluqdan olması mümkündür). ويقولون: انْحَمَص الوَرَم، إذا سَكَنَ (Və deyirlər: انْحَمَصَ الوَرَمُ — şiş yatdı, səngidi).\nهذا أصحَّ ما فيه (Bu, onun haqqında ən səhih olanıdır). والحَمَصِيصُ: بقلةٌ (والحَمَصِيصُ — bir göyərti, bitkidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:03:22.229Z"
+ "ts": "2026-10-25T01:03:22.229Z",
+ "prev_az": "[حمص] الحاء والميم والصاد ليس أصلاً يقاس عليه، وما فيه قياسٌ ويجوز أن يكون مِنْ جفافٍ فى الشئ («həms» — ha, mim və sad hərfləri üzərində qiyas qurulan bir kök deyildir və onda qiyas vardır, həmçinin şeydəki quruluqdan olması da caizdir). ويقولون: انْحَمَص الوَرَم، إذا سَكَنَ (Və deyirlər: şiş səngidi və zəiflədi). هذا أصحَّ ما فيه (Bu, onun haqqında ən səhih olanıdır). والحَمَصِيصُ: بقلةٌ (əl-Həmasis — bir tərəvəzdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وما فيه قياسٌ ويجوز أن يكون...» cümləsinin mənası təhrif olunub"
+ ],
+ "review_ts": "2026-11-16T19:04:40.753Z"
 }

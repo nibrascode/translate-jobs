@@ -11,7 +11,17 @@
   "page_to": 222
  },
  "ar": "الخاء والنون والزاء كلمةٌ واحدةٌ من باب المقلوب، ليست أصلاً. يقال خَنِزَ اللحم خَنَزاً، إذا تغيَّرَتْ رائحتُه وخَزِن. وقد مَضَي.",
- "az": "[خنز] الخاء والنون والزاء كلمةٌ واحدةٌ من باب المقلوب (Xar, nun və zay məqلوب [tərsinə çevrilmiş] بابındandır) — əsas deyildir. Deyilir: خَنِزَ اللحم خَنَزاً (xənizə əl-ləhmu xənəzən) — ətin qoxusu dəyişdiyi və xəzin olduğu zaman. Bu artıq keçmişdir (izah olunmuşdur).",
+ "az": "[خنز] الخاء والنون والزاء كلمةٌ واحدةٌ من باب المقلوب (xa, nun və zey tərsinə çevrilmiş babdan bir kəlmədir) — əsas deyildir. Deyilir: خَنِزَ اللحم خَنَزاً — ətin qoxusu dəyişdiyi və xəzin olduğu zaman. Bu artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:13:06.496Z"
+ "ts": "2026-10-25T01:13:06.496Z",
+ "prev_az": "[خنز] الخاء والنون والزاء كلمةٌ واحدةٌ من باب المقلوب (Xar, nun və zay məqلوب [tərsinə çevrilmiş] بابındandır) — əsas deyildir. Deyilir: خَنِزَ اللحم خَنَزاً (xənizə əl-ləhmu xənəzən) — ətin qoxusu dəyişdiyi və xəzin olduğu zaman. Bu artıq keçmişdir (izah olunmuşdur).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«xa» hərf adı «Xar» kimi səhv yazılmışdır.",
+  "«məqلوب» və «بابındandır» sözlərində ərəb və latın hərfləri qarışaraq mətn pozulmuşdur."
+ ],
+ "review_ts": "2026-11-16T19:47:13.843Z"
 }

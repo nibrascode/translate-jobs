@@ -11,7 +11,17 @@
   "page_to": 124
  },
  "ar": "الحاء والياء والضاد كلمة واحدة. يقال حاضَتْ السَّمُرَةُ إذا خرج منها ماء أحمر. ولذلك سمّيت النَّفَساء حائضاً، تشبيهاً لدمها بذلك الماء.",
- "az": "[حيض] (heyd) - Ha, ya və dad tək bir kəlmədir. Deyilir: «حاضَتْ السَّمُرَةُ» — qırmızı su çıxdığı zaman səmur ağacına aid edilir. Buna görə də doğuş edən qadına «حائض» (heydli) adı verilmişdir, onun qanı həmin suya bənzədildiyi üçün.",
+ "az": "[حيض]\nHa, ya və dad bir kəlmədir. Səmurə ağacından qırmızı su (şirə) çıxdıqda حاضَتْ السَّمُرَةُ deyilir. Buna görə də qanı həmin suya bənzədildiyi üçün nifaslı qadına (النَّفَساء) حائض deyildi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:49.134Z"
+ "ts": "2026-10-25T01:04:49.134Z",
+ "prev_az": "[حيض] (heyd) - Ha, ya və dad tək bir kəlmədir. Deyilir: «حاضَتْ السَّمُرَةُ» — qırmızı su çıxdığı zaman səmur ağacına aid edilir. Buna görə də doğuş edən qadına «حائض» (heydli) adı verilmişdir, onun qanı həmin suya bənzədildiyi üçün.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«حاضَتْ السَّمُرَةُ إذا خرج منها ماء أحمر» cümləsi rabitəsiz və təhriflə tərcümə olunub; doğrusu: «Səmurə ağacından qırmızı su (şirə) çıxdıqda حاضَتْ السَّمُرَةُ deyilir».",
+  "«النفساء» kəlməsi «doğuş edən qadın» yox, «nifaslı qadın» (zahı) kimi verilməlidir."
+ ],
+ "review_ts": "2026-11-16T19:16:12.854Z"
 }

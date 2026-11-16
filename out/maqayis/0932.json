@@ -11,7 +11,17 @@
   "page_to": 96
  },
  "ar": "الحاء واللام والزاء أصلٌ صحيح. يقال للرَّجُل القصير حِلِّزٌ، ويقال هو السيئ الخُلُق. ويقال الحَلْز؛ القَشْر؛ حلزت الأديمَ قشرتُه. قال ابن الأعرابىّ: ومنه الحارث بن حِلِّزة.",
- "az": "«حلز» (hələz): الحاء واللام والزاء أصلٌ صحيح (Hə, lam və zay səhih bir kökdür). يقال للرَّجُل القصير حِلِّزٌ (Gdsqa kişiyə hilliz deyilir), ويقال هو السيئ الخُلُق (və onun əxlaqsız olduğu deyilir). ويقال الحَلْز؛ القَشْر (və həlz: soyulmaq, deyilir); حلزت الأديمَ قشرتُه (dərini hələzt etdim - soydum). قال ابن الأعرابىّ (İbn əl-Ərabi demişdir): ومنه الحارث بن حِلِّزة (və onlardandır Haris ibn Hillizə).",
+ "az": "[حلز]\nHa, lam və zey səhih bir kökdür. Qısa boylu kişiyə حِلِّزٌ (hilliz) deyilir; həmçinin onun pis xasiyyətli adam olduğu da deyilir. الحَلْز (həlz): qabığını soymaq deməkdir; حلزت الأديمَ قشرتُه (dərini soydum). İbn əl-Ərabi demişdir: الحارث بن حِلِّزة (Haris ibn Hillizə) adı da buradandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:02:59.121Z"
+ "ts": "2026-10-25T01:02:59.121Z",
+ "prev_az": "«حلز» (hələz): الحاء واللام والزاء أصلٌ صحيح (Hə, lam və zay səhih bir kökdür). يقال للرَّجُل القصير حِلِّزٌ (Gdsqa kişiyə hilliz deyilir), ويقال هو السيئ الخُلُق (və onun əxlaqsız olduğu deyilir). ويقال الحَلْز؛ القَشْر (və həlz: soyulmaq, deyilir); حلزت الأديمَ قشرتُه (dərini hələzt etdim - soydum). قال ابن الأعرابىّ (İbn əl-Ərabi demişdir): ومنه الحارث بن حِلِّزة (və onlardandır Haris ibn Hillizə).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«القصير» sözü «Gdsqa» kimi pozulmuş, «السيئ الخُلُق» «əxlaqsız», «القَشْر» «soyulmaq», «حلزت» «hələzt etdim», «ومنه الحارث بن حِلِّزة» isə «onlardandır» kimi yanlış tərcümə edilmişdir.",
+  "Tərcümə [حلز] formatına uyğun deyil."
+ ],
+ "review_ts": "2026-11-16T18:47:15.453Z"
 }

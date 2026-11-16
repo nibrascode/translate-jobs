@@ -11,7 +11,16 @@
   "page_to": 120
  },
  "ar": "الحاء والواو والطاء كلمةٌ واحدة، وهو الشئ يُطِيفُ بالشئ.\nفالحَوْط مِنْ حَاطَه حَوْطاً. والحِمار يَحُوط عانَتَه: يحمعُها. وحَوَّطت حائطاً ويقال إنَّ الحُوَاطَةَ (٣) حَظِيرة تتَّخذ للطعام. والحَوْطُ: شئٌ مستدير تعلّقُه (٤) المرأةُ على جَبِينها، مِنْ فِضَّة.",
- "az": "[حوط] الحاء, الواو və الطاء hərfləri tək bir kəlmə olub, bir şeyin digər bir şeyi əhatə etməsi deməkdir. الحَوْط (əl-həvt) – حاطَه حَوْطاً (hatahu həvtən) [qorudu, əhatə etdi] sözündəndir. Uzunqulaq öz sürüsünü يَحُوط (yəhut) edir – yəni onları bir yerə toplayır. حَوَّطت حائطاً (həvvəttü həitən) – divar çəpərlədim. Deyilənə görə, حُوَاطَة (huvatə) – yemək üçün düzəldilən çəpərdir. الحَوْط (əl-həvt) – qadının gəlinciyinə taxdığı gümüşdən dairəvi şeydir (٤).",
+ "az": "[حوط]\nالحاء، الواو və الطاء tək bir kəlmədir; o da bir şeyin digər bir şeyi əhatə etməsidir.\nالحَوْط sözü حَاطَه حَوْطاً (onu qorudu, əhatə etdi) ifadəsindəndir. والحِمار يَحُوط عانَتَه (erkək vəhşi eşşək öz dişiciklərini əhatəyə alır): onları bir yerə toplayır. حَوَّطت حائطاً (divar çəkib əhatəyə aldım). Deyilir ki, الحُوَاطَةُ (٣) ərzaq üçün düzəldilən çəpərdir. الحَوْطُ isə qadının alnına asdığı gümüşdən dairəvi bəzək əşyasıdır (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:27.843Z"
+ "ts": "2026-10-25T01:04:27.843Z",
+ "prev_az": "[حوط] الحاء, الواو və الطاء hərfləri tək bir kəlmə olub, bir şeyin digər bir şeyi əhatə etməsi deməkdir. الحَوْط (əl-həvt) – حاطَه حَوْطاً (hatahu həvtən) [qorudu, əhatə etdi] sözündəndir. Uzunqulaq öz sürüsünü يَحُوط (yəhut) edir – yəni onları bir yerə toplayır. حَوَّطت حائطاً (həvvəttü həitən) – divar çəpərlədim. Deyilənə görə, حُوَاطَة (huvatə) – yemək üçün düzəldilən çəpərdir. الحَوْط (əl-həvt) – qadının gəlinciyinə taxdığı gümüşdən dairəvi şeydir (٤).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«على جَبِينها» ifadəsi «alnına» əvəzinə kobud şəkildə «gəlinciyinə» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-16T19:14:57.403Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 204
  },
  "ar": "الخاء والفاءِ والعين أصلٌ واحدٌ يدلُّ على التزاق شئ بشئ لِضُرٍّ يكون. يقال انخَفَعَ الرَّجْل على فراشه، إذا لَزِق به مِنْ مرض.\nويقال خَفعَ الرَّجُل، إذا التزق بطنُه بظهْره. ومنه قول جرير:\n* رَغداً وضَيْفُ بنى عِقالٍ يُخْفَعُ (١) *\nوذكر ناسٌ: انخفعت كَبدُه من الجوع، إذا انقطعت. وأنشدوا هذا البيتَ؛ وهو قريبٌ من الأوّل. وقال بعضهم: الأخفع الرجل الذى كأنَّ به ظَلْعاً إذا مشَى. ويقال: الخَوْفَع الواجم المكتئِب. ويقال خفَعتُه بالسَّيف، إذا ضربتَه به والقياس واحد.",
- "az": "[خفع] الخاء والفاءِ والعين أصلٌ واحدٌ يدلُّ على التزاق شئ بشئ لِضُرٍّ يكون (Hərf-i xa, fa və ayn hər hansı bir bəla üzündən bir şeyin başqa bir şeyə yapışmasına dəlalət edən tək bir əsasdır). Deyilir: «انخَفَعَ الرَّجْل على فراشه» — kişi xəstəlikdən döşəyinə yapışdı (çarpayıya mıxlandı).\nVə deyilir: «خَفعَ الرَّجُل» — kişinin qarnı belinə yapışdı. Cəririn bu sözü dəridəndir:\n* رَغداً وضَيْفُ بنى عِقالٍ يُخْفَعُ (١) *\n(Bol-bol, Bəni İqal qəbiləsinin qonağı isə acından büzüşür).\nVə bir dəstə insan qeyd etmişdir: «انخفعت كَبدُه من الجوع» — aclıqdan onun ciyəri qopdu. Və onlar bu beyti dəlil gətirdilər ki, bu da birinciyə yaxındır. Və bəziləri demişdir: «الأخفع» — elə bir kişidir ki, sanki gəzərkən ağsaqlığı vardır. Və deyilir: «الخَوْفَع» — mat və kədərli olan kimsə. Və deyilir: «خفَعتُه بالسَّيف» — onu qılıncla vurdun. Qayda eynidir.",
+ "az": "[خفع] xa, fa və ayn bir əsasdır, hər hansı bir bəla/səbəb üzündən bir şeyin başqa bir şeyə yapışmasına dəlalət edir. Deyilir: «انخَفَعَ الرَّجْل على فراشه» — kişi xəstəlikdən döşəyinə yapışdı (çarpayıya mıxlandı).\nVə deyilir: «خَفعَ الرَّجُل» — kişinin qarnı belinə yapışdı. Cəririn bu sözü də bundandır:\n* رَغداً وضَيْفُ بنى عِقالٍ يُخْفَعُ (١) *\n(Bol-bol, Bəni İqal qəbiləsinin qonağı isə acından büzüşür/qarnı belinə yapışır).\nVə bir dəstə insan qeyd etmişdir: «انخفعت كَبدُه من الجوع» — aclıqdan onun ciyəri qopdu. Və onlar bu beyti oxumuşlar; bu da birinciyə yaxındır. Və bəziləri demişdir: «الأخفع» — elə bir kişidir ki, sanki gəzərkən axsaqlığı vardır. Və deyilir: «الخَوْفَع» — mat və kədərli olan kimsə. Və deyilir: «خفَعتُه بالسَّيف» — onu qılıncla vurdun. Qayda eynidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:10:24.017Z"
+ "ts": "2026-10-25T01:10:24.017Z",
+ "prev_az": "[خفع] الخاء والفاءِ والعين أصلٌ واحدٌ يدلُّ على التزاق شئ بشئ لِضُرٍّ يكون (Hərf-i xa, fa və ayn hər hansı bir bəla üzündən bir şeyin başqa bir şeyə yapışmasına dəlalət edən tək bir əsasdır). Deyilir: «انخَفَعَ الرَّجْل على فراشه» — kişi xəstəlikdən döşəyinə yapışdı (çarpayıya mıxlandı).\nVə deyilir: «خَفعَ الرَّجُل» — kişinin qarnı belinə yapışdı. Cəririn bu sözü dəridəndir:\n* رَغداً وضَيْفُ بنى عِقالٍ يُخْفَعُ (١) *\n(Bol-bol, Bəni İqal qəbiləsinin qonağı isə acından büzüşür).\nVə bir dəstə insan qeyd etmişdir: «انخفعت كَبدُه من الجوع» — aclıqdan onun ciyəri qopdu. Və onlar bu beyti dəlil gətirdilər ki, bu da birinciyə yaxındır. Və bəziləri demişdir: «الأخفع» — elə bir kişidir ki, sanki gəzərkən ağsaqlığı vardır. Və deyilir: «الخَوْفَع» — mat və kədərli olan kimsə. Və deyilir: «خفَعتُه بالسَّيف» — onu qılıncla vurdun. Qayda eynidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ومنه» ifadəsi «dəridəndir» kimi yanlış tərcümə olunub, «bu da bundandır/bu kökdəndir» olmalıdır."
+ ],
+ "review_ts": "2026-11-16T19:42:13.446Z"
 }

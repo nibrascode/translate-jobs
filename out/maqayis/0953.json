@@ -11,7 +11,18 @@
   "page_to": 110
  },
  "ar": "الحاء والنون والراء كلمةٌ واحدة، لولا أنها جاءت فى الحديث لما كان لِذِكرها وجه. وذلك أنَّ النون فى كلام العرب لا تكاد تجئ بعدها راء.\nوالذى جاء\nفى الحديث: «لَوْ صلَّيتُم حتى تَصبروا كالحنائر (١)». فيقال إنَّها القسىّ، الواحد حَنِيرة. وممكن أن يكون الراء كالمصقة بالكلمة، ويرجع إلى ما ذكرناه من حنيت الشئَ وحنوْنه.",
- "az": "[حنر] (Həm, nun və ra): Əgər hədisdə gəlməsəydi, zikr olunmasına heç bir səbəb olmazdı deyə tək bir kəlmədir. Belə ki, ərəb dilində nun hərfindən sonra ra hərfinin gəlməsi demək olar ki, baş vermir. Hədisdə gələn budur: «لَوْ صلَّيتُم حتى تَصبروا كالحنائر» (Əgər hanairlər kimi səbir edənə qədər namaz qilsanız...). Deyilir ki, bunlar yaylardır (qisi), təkliyi «حَنِيرة» (həniyə)dir. Ra hərfinin kəlməyə yapışmış kimi olması və dediyimiz «حنيت الشئَ وحنوْنه» (bir şeyi əydim və bükdüm) mənalarına qayıtması mümkündür.",
+ "az": "[حنر]\n(Ha, nun və ra): Tək bir kəlmədir; əgər hədisdə gəlməsəydi, onun zikr olunmasına heç bir əsas olmazdı. Belə ki, ərəb dilində nun hərfindən sonra ra hərfinin gəlməsi demək olar ki, baş vermir.\nHədisdə gələn budur: «لَوْ صلَّيتُم حتى تَصبروا كالحنائر (١)» (Əgər hənairlər kimi səbir edənə qədər namaz qılsanız...). Deyilir ki, bunlar yaylardır, təkliyi «حَنِيرة» (hənirə)dir. Ra hərfinin kəlməyə yapışmış kimi olması və dediyimiz «حنيت الشئَ وحنوْنه» (bir şeyi əydim və bükdüm) mənalarına qayıtması mümkündür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:03:43.647Z"
+ "ts": "2026-10-25T01:03:43.647Z",
+ "prev_az": "[حنر] (Həm, nun və ra): Əgər hədisdə gəlməsəydi, zikr olunmasına heç bir səbəb olmazdı deyə tək bir kəlmədir. Belə ki, ərəb dilində nun hərfindən sonra ra hərfinin gəlməsi demək olar ki, baş vermir. Hədisdə gələn budur: «لَوْ صلَّيتُم حتى تَصبروا كالحنائر» (Əgər hanairlər kimi səbir edənə qədər namaz qilsanız...). Deyilir ki, bunlar yaylardır (qisi), təkliyi «حَنِيرة» (həniyə)dir. Ra hərfinin kəlməyə yapışmış kimi olması və dediyimiz «حنيت الشئَ وحنوْنه» (bir şeyi əydim və bükdüm) mənalarına qayıtması mümkündür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ح» hərfinin adı «Ha» əvəzinə səhvən «Həm» kimi yazılmışdır.",
+  "İlk cümlənin sintaksisi və mənası pozulmuşdur.",
+  "Haşiyə rəqəmi (١) buraxılmış, «حَنِيرة» sözü «həniyə» kimi səhv oxunmuş və «qilsanız» sözündə hərf səhvi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-16T18:56:10.608Z"
 }

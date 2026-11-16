@@ -11,7 +11,16 @@
   "page_to": 159
  },
  "ar": "الخاء والجيم أصلٌ يدلُّ على اضطرابٍ وخقّةٍ فى غير استواء.\nفيقال ريحٌ * خَجُوجٌ، وهى التى تلتَوِى فى هُبوبها. وكان الأصمعىُّ يقول:\nالخَجُوج الشديدة المَرِّ. ويقال إنّ الخجخجة الإنقِباض والاستحياء. وقالوا:\nخَجْخَجَ الرّجُل، إذا لم يُبدِ ما فى نفسه. ويقال اختَجَّ الجملُ فى سَيره، إذا لم يستقِمْ.\nورجل خَجَّاجَة (١): أحمق. والبابُ كلُّه واحد.",
- "az": "[خج] الخاء والجيم أصلٌ يدلُّ على اضطرابٍ وخقّةٍ فى غير استواء (Xar və cim düzəltmədən kənar narahatlığa və yüngüllüyə dəlalət edən bir əsasdır). فيقال ريحٌ * خَجُوجٌ (Dezilər ki, xəcuc küləyidir), وهى التى تلتَوِى فى هُبوبها (və o, əsərkən burulan küləkdir). وكان الأصمعىُّ يقول (Və Əsməi deyərdi): الخَجُوج الشديدة المَرِّ (xəcuc – şiddətli keçən küləkdir). ويقال إنّ الخجخجة الإنقِباض والاستحياء (Və deyilər ki, xəhcəxə – qısılmaq və utancaq olmaqdır). وقالوا (Və dedilər): خَجْخَجَ الرّجُل (kişi xəhcəxə etdi), إذا لم يُبدِ ما فى نفسه (ürəyindəkini büruzə vermədikdə). ويقال اختَجَّ الجملُ فى سَيرِه (Və deyilər ki, dəvə gedişində ixtəccə etdi), إذا لم يستقِمْ (düzgün getmədikdə). ورجل خَجَّاجَة (١) (Və xəccacə kişi): أحمق (axmaqdır). والبابُ كلُّه واحد (Və fəsil tamamilə birdir).",
+ "az": "[خج] (Xa və cim) hamar/düzgün olmamaqla yanaşı təlatümə və yüngüllüyə dəlalət edən bir əsasdır.\nDeyilir: رِيحٌ خَجُوجٌ (əsərkən burulub dəyişən külək). الأصمعي deyərdi: الخَجُوجُ – şiddətlə keçən küləkdir. Deyilir ki, الخَجْخَجَةُ – qısılmaq və utanmaqdır. Dedilər ki: خَجْخَجَ الرَّجُلُ – kişi ürəyindəkini üzə vurmadıqda işlədilir. Deyilir: اخْتَجَّ الجَمَلُ فِي سَيْرِهِ – dəvə gedişində düz getmədikdə işlədilir. Və رَجُلٌ خَجَّاجَةٌ (axmaq kişi). Bu babın hamısı bir mənaya qayıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:07:32.375Z"
+ "ts": "2026-10-25T01:07:32.375Z",
+ "prev_az": "[خج] الخاء والجيم أصلٌ يدلُّ على اضطرابٍ وخقّةٍ فى غير استواء (Xar və cim düzəltmədən kənar narahatlığa və yüngüllüyə dəlalət edən bir əsasdır). فيقال ريحٌ * خَجُوجٌ (Dezilər ki, xəcuc küləyidir), وهى التى تلتَوِى فى هُبوبها (və o, əsərkən burulan küləkdir). وكان الأصمعىُّ يقول (Və Əsməi deyərdi): الخَجُوج الشديدة المَرِّ (xəcuc – şiddətli keçən küləkdir). ويقال إنّ الخجخجة الإنقِباض والاستحياء (Və deyilər ki, xəhcəxə – qısılmaq və utancaq olmaqdır). وقالوا (Və dedilər): خَجْخَجَ الرّجُل (kişi xəhcəxə etdi), إذا لم يُبدِ ما فى نفسه (ürəyindəkini büruzə vermədikdə). ويقال اختَجَّ الجملُ فى سَيرِه (Və deyilər ki, dəvə gedişində ixtəccə etdi), إذا لم يستقِمْ (düzgün getmədikdə). ورجل خَجَّاجَة (١) (Və xəccacə kişi): أحمق (axmaqdır). والبابُ كلُّه واحد (Və fəsil tamamilə birdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«خ» hərfinin adı «Xar» deyil, «xa» olmalıdır."
+ ],
+ "review_ts": "2026-11-16T19:33:33.588Z"
 }

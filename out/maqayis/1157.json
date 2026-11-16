@@ -11,7 +11,16 @@
   "page_to": 228
  },
  "ar": "الخاء والواو والشين أصلٌ يدلُّ على ضمْر وشِبهه.\nفالمتخوِّش: الظامر، ولذلك تسمَّى الخاصِرتان الخَوْشَينِ.",
- "az": "«خوش»: الخاء، الواو və الشين — arıqlığa və ona bənzər şeyə dəlalət edən bir əsasdır. «المتخوِّش» (əl-mətəxəvviş) — arıq deməkdir, məhz buna görə bədənin iki böyür tərəfinə «الخَوْشَينِ» (əl-xəuşeyn) deyilir.",
+ "az": "[خوش] xa, vav və şin arıqlığa və ona bənzər şeyə dəlalət edən bir əsasdır. «المُتَخَوِّشُ» (əl-mətəxəvviş) — arıq deməkdir, məhz buna görə bədənin iki böyür tərəfinə «الخَوْشَيْنِ» (əl-xəuşeyn) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:13:33.573Z"
+ "ts": "2026-10-25T01:13:33.573Z",
+ "prev_az": "«خوش»: الخاء، الواو və الشين — arıqlığa və ona bənzər şeyə dəlalət edən bir əsasdır. «المتخوِّش» (əl-mətəxəvviş) — arıq deməkdir, məhz buna görə bədənin iki böyür tərəfinə «الخَوْشَينِ» (əl-xəuşeyn) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format standartına əməl edilməmişdir («[خوش]» ilə başlamalıdır)."
+ ],
+ "review_ts": "2026-11-16T19:47:11.153Z"
 }

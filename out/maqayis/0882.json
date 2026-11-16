@@ -13,5 +13,10 @@
  "ar": "الحاء والصاد والحرف المعتل ثلاثة أصول: الأول المنع، والثانى العَدُّ والإطاقة، والثالث شئ من أجزاء الأرض.\nفالأوَّل الحصو. قال الشيبانىّ: هو المنع؛ يقال حصوته أى منعته. قال:\nألا تخافُ اللّه إذْ حَصَوْتنى … حقِّى بلا ذنبٍ وإذْ عَنَّنْتَنى (٥)",
  "az": "[حصوى] Ha (ha), Sad (sad) və əl-hərfi-l-mu'təl (vav və ya) üç kökdür: Birincisi qadağan etmək, ikincisi saymaq və gücü çatmaq, üçüncüsü isə yerin hissələrindən biridir. Birincisi «الحصو» (əl-həsv) - Şeybani demişdir: Bu, qadağan etməkdir; «حصوته» (həsvətuhu) deyilir, yəni onu qadağan etdim. O demişdir: «ألا تخافُ اللّه إذْ حَصَوْتنى … حقِّى بلا ذنبٍ وإذْ عَنَّنْتَنى» (Allahdan qorxmursanmı ki, heç bir günahım olmadan haqqımı məndən qadağan etdin və məni əziyyətə saldın) (٥).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:57:37.546Z"
+ "ts": "2026-10-25T00:57:37.546Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-16T18:37:23.086Z"
 }

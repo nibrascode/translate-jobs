@@ -11,7 +11,16 @@
   "page_to": 184
  },
  "ar": "الخاء والشين والميم أصلٌ واحدٌ يدلُّ على ارتفاعٍ. فالخَيْشوم:\nالأنف. والخَشَم: داءٌ يعتَرِيه. والرجل الغليظُ الأنْفِ خُشَام. والمُخَشَّم: الذى ثار (١) الشَّرابُ فى خَيشومه فسَكِر. وخياشيم الجِبال: أنوفُها.\nوشذَّت عن الباب كلمةٌ إن كانت صحيحة. قالوا: خَشِم اللّحمُ تغيّر.",
- "az": "[خشم] الخاء والشين والميم أصلٌ واحدٌ يدلُّ على ارتفاعٍ. (Xar, şin və mim hərfləri tək bir kök olub, ucalığa dəlalət edir.) \n\nفالخَيْشوم: الأنف. والخَشَم: داءٌ يعتَرِيه. والرجل الغليظُ الأنْفِ خُشَام. والمُخَشَّم: الذى ثار (١) الشَّرابُ فى خَيشومه فسَكِر. وخياشيم الجِبال: أنوفُها. (Beləliklə, əl-xeyşum: burun. Əl-xəşəm: ona gələn xəstəlik. Burunu yoğun olan kişi xuşam. Əl-muxəşşəm: içki xeyşumuna (burun boşluğuna) qalxıb sərxoş olan kimsə. Dağların xiyəşimləri: onların burunları.) \n\nوشذَّ عن الباب كلمةٌ إن كانت صحيحة. قالوا: خَشِم اللّحمُ تغيّر. (Əgər düzgündürsə, babdan bir kəlmə istisna olmuşdur. Dedilər ki: ət xəşim oldu, yəni dəyişdi.)",
+ "az": "[خشم] Xa, şin və mim tək bir kökdür, ucalığa dəlalət edir. الخَيْشوم (əl-xeyşum) — burundur. والخَشَم (əl-xəşəm) — burunda olan xəstəlikdir. Burunu yoğun olan kişiyə خُشَام (xuşam) deyilir. والمُخَشَّم (əl-muxəşşəm) — şərabı burun boşluğuna vurub sərxoş olan kəsdir. وخياشيم الجِبال (dağların xiyaşimi) — onların burunları (qabarıq hissələri) deməkdir.\n\nƏgər səhihdirbə, bu babdan bir kəlmə şaz (istisna) olmuşdur. Dedilər ki: خَشِم اللّحمُ — ət dəyişdi (xarab olub iyləndi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:26.357Z"
+ "ts": "2026-10-25T01:09:26.357Z",
+ "prev_az": "[خشم] الخاء والشين والميم أصلٌ واحدٌ يدلُّ على ارتفاعٍ. (Xar, şin və mim hərfləri tək bir kök olub, ucalığa dəlalət edir.) \n\nفالخَيْشوم: الأنف. والخَشَم: داءٌ يعتَرِيه. والرجل الغليظُ الأنْفِ خُشَام. والمُخَشَّم: الذى ثار (١) الشَّرابُ فى خَيشومه فسَكِر. وخياشيم الجِبال: أنوفُها. (Beləliklə, əl-xeyşum: burun. Əl-xəşəm: ona gələn xəstəlik. Burunu yoğun olan kişi xuşam. Əl-muxəşşəm: içki xeyşumuna (burun boşluğuna) qalxıb sərxoş olan kimsə. Dağların xiyəşimləri: onların burunları.) \n\nوشذَّ عن الباب كلمةٌ إن كانت صحيحة. قالوا: خَشِم اللّحمُ تغيّر. (Əgər düzgündürsə, babdan bir kəlmə istisna olmuşdur. Dedilər ki: ət xəşim oldu, yəni dəyişdi.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərf adı «الخاء» səhvən «Xar» kimi verilmişdir."
+ ],
+ "review_ts": "2026-11-16T19:38:39.098Z"
 }

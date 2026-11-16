@@ -11,7 +11,17 @@
   "page_to": 53
  },
  "ar": "الحاء والزاء والكاف كلمةٌ واحدة أُراها من باب الإبدال وأنها ليست أصلاً. وهو الاحتزاك، وذلك الاحتزام بالثَّوب. فإمّا أن يكون الكاف بدلَ ميمٍ، وإمّا أن يكون الزاء بدلاً من باء وأنَّه الاحتباك. وقد ذكر الاحتباك فى بابه.",
- "az": "[حزك] \n الحاء والزاء والكاف كلمةٌ واحدة أُراها من باب الإبدال وأنها ليست أصلاً. وهو الاحتزاك، وذلك الاحتزام بالثَّوب. فإمّا أن يكون الكاف بدلَ ميمٍ، وإمّا أن يكون الزاء بدلاً من باء وأنَّه الاحتباك. وقد ذكر الاحتباك فى بابه. \n (Hə, zai və kaf hərfləri tək bir kəlmədir, mənə öyle gəlir ki, o əvəzetmə qapısındandır və əsas deyildir. Bu, «الْاحْتِزَاكُ»-dür, o da paltarla beləcə qurşanmaqdır. Ya kaf mim hərfinin əvəzedicisidir, ya da zai ba hərfinin əvəzedicisidir və əslində «الْاحْتِبَاكُ»-dür. «الاحتباك» isə öz باب [bölümündə] zikr edilmişdir.)",
+ "az": "[حزك]\nHa, zey və kaf hərfləri tək bir kəlmədir, zənnimcə o, əvəzləmə (ibdal) babındandır və əsas deyildir. Bu, الاحتزاك (əl-ihtizak)-dır, o da paltarla qurşanmaqdır. Ya kaf mim hərfinin əvəzidir, ya da zey ba hərfinin əvəzidir və əslində الاحتباك (əl-ihtibak)-dır. الاحتباك öz babında zikr edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:55:36.986Z"
+ "ts": "2026-10-25T00:55:36.986Z",
+ "prev_az": "[حزك] \n الحاء والزاء والكاف كلمةٌ واحدة أُراها من باب الإبدال وأنها ليست أصلاً. وهو الاحتزاك، وذلك الاحتزام بالثَّوب. فإمّا أن يكون الكاف بدلَ ميمٍ، وإمّا أن يكون الزاء بدلاً من باء وأنَّه الاحتباك. وقد ذكر الاحتباك فى بابه. \n (Hə, zai və kaf hərfləri tək bir kəlmədir, mənə öyle gəlir ki, o əvəzetmə qapısındandır və əsas deyildir. Bu, «الْاحْتِزَاكُ»-dür, o da paltarla beləcə qurşanmaqdır. Ya kaf mim hərfinin əvəzedicisidir, ya da zai ba hərfinin əvəzedicisidir və əslində «الْاحْتِبَاكُ»-dür. «الاحتباك» isə öz باب [bölümündə] zikr edilmişdir.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Bütün ərəbcə izah mətni tərcüməsiz şəkildə saxlanılmış və mötərizədə tərcüməsi verilmişdir.",
+  "Tərcümədə Türkiyə türkcəsinə aid sözlər (öyle, bölüm) işlədilmiş və «باب» sözü tərcümə edilməmişdir."
+ ],
+ "review_ts": "2026-11-16T18:33:59.454Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 87
  },
  "ar": "الحاء والفاء والضاد أصلٌ واحد، وهو يدلُّ على سقوط الشئ وخُفُوفِه (٦). فالحَفض مَتاع البيت؛ ولذلك سمِّى البعير الذى يحمله حَفَضًا.\nوالقياسُ ما ذكرناه؛ لأنّ الأحفاض تسمَّى الأسقاط. ويقال حفَضْت العُود، إذا حنيتَه. قال الراجز:\n* إمَّا تَرَىْ دَهراً حَنانِى حَفْضَا (١) *\nقال الأصمعىُّ: حفضتُ [الشئ (٢)] وحَفَّضْتُه، بالتخفيف والتشديد، إذا فألقيتَه. وأنشد:\n* إمَّا تَرَىْ دَهْراً حنانى حَفْضا *\nفمعناه ألْقانى. والأحفاض فى قول عمرو بن كلثوم:\nونحن إذا عِمَادُ الحَىِّ خَرَّت … على الأحفاضِ نَمنَعُ مَنْ يَلِينا (٣)\nهى الإبل أَوَّلَ ما تُركَب. ويقال بل الأحفاص عُمُد الأخبية.",
- "az": "«حفض» (həfəz): Haa, fa və dad tək bir əsasdır, o da bir şeyin düşməsinə və yüngüllüyünə dəlalət edir. «الحفض» (əl-həfəz) — ev əşyasıdır; buna görə də onu daşıyan dəvə də «حَفَض» (həfəz) adlandırılmışdır. Qiyas isə qeyd etdiyimizdir; çünki əşyalar «أسقاط» (əsqat) adlanır. Deyilir: «حفَضْت العُود» (Həfəvtul-udə) — çöpü əyə bildiyin zaman. Raciz demişdir: * «إما تَرَىْ دَهراً حَنانِى حَفْضَا» * (Əgər zamanın məni əydiyini [və ya yerə atdığını] görsən). Əsməi demişdir: «حفضتُ [الشئَ] وحَفَّضْتُه» (Həfəftü [eş-şeyə] və həffəftühü) — yüngülləşdirmə və gücləndirmə ilə, bir şeyi atdığın zaman. Və bu beytə istinad etmişdir: * «إما تَرَىْ دَهْراً حنانى حَفْضا» * — yəni məni atdı. Əmr ibn Kulsunun sözündəki «الأحفاض» (əl-əhfaad): «ونحن إذا عِمَادُ الحَىِّ خَرَّت … على الأحفاضِ نَمنَعُ مَنْ يَلِينا» (Biz o zaman ki, qəbilənin dirəyi yıxılar... əhfaad üzərinə, bizə yaxın olanı qoruyuruq) — onlar ilk minib minikə çevrilən dəvələrdir. Deyilir ki, bəlkə də əhfaad çadırların dirəkləridir.",
+ "az": "[حفض]\nHa, fa və dad bir əsasdır, o da bir şeyin düşməsinə və yüngüllüyünə dəlalət edir (٦). الحَفض (əl-həfəd) — ev əşyasıdır; buna görə də onu daşıyan dəvə حَفَضًا (həfəd) adlandırılmışdır.\nQiyas isə qeyd etdiyimizdir; çünki الأحفاض (əl-əhfad) الأسقاط (əsqat — düşən, kiçik əşyalar) adlanır. Deyilir: حفَضْت العُود (Çubuğu əydim) — onu əydiyin zaman. Raciz demişdir:\n* إمَّا تَرَىْ دَهراً حَنانِى حَفْضَا (١) *\n(Əgər zamanın məni əyib yerə atdığını görürsənsə).\nƏsməi demişdir: حفضتُ [الشئ (٢)] وحَفَّضْتُه (Bir şeyi atdım) — təxfif və təşdid ilə, onu atdığın zaman. Və bu beyti oxumuşdur:\n* إمَّا تَرَىْ دَهْراً حنانى حَفْضا *\n— yəni məni yerə atdı. Əmr ibn Külsumun bu sözündəki الأحفاض:\nونحن إذا عِمَادُ الحَىِّ خَرَّت … على الأحفاضِ نَمنَعُ مَنْ يَلِينا (٣)\n(Biz qəbilənin dirəyi əhfadın üzərinə yıxıldığı zaman bizə yaxın olanları qoruyuruq)\n— onlar ilk dəfə minilən dəvələrdir. Deyilir ki, əksinə, الأحفاص (əl-əhfas) çadırların dirəkləridir.",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:02:08.982Z"
+ "ts": "2026-10-25T01:02:08.982Z",
+ "prev_az": "«حفض» (həfəz): Haa, fa və dad tək bir əsasdır, o da bir şeyin düşməsinə və yüngüllüyünə dəlalət edir. «الحفض» (əl-həfəz) — ev əşyasıdır; buna görə də onu daşıyan dəvə də «حَفَض» (həfəz) adlandırılmışdır. Qiyas isə qeyd etdiyimizdir; çünki əşyalar «أسقاط» (əsqat) adlanır. Deyilir: «حفَضْت العُود» (Həfəvtul-udə) — çöpü əyə bildiyin zaman. Raciz demişdir: * «إما تَرَىْ دَهراً حَنانِى حَفْضَا» * (Əgər zamanın məni əydiyini [və ya yerə atdığını] görsən). Əsməi demişdir: «حفضتُ [الشئَ] وحَفَّضْتُه» (Həfəftü [eş-şeyə] və həffəftühü) — yüngülləşdirmə və gücləndirmə ilə, bir şeyi atdığın zaman. Və bu beytə istinad etmişdir: * «إما تَرَىْ دَهْراً حنانى حَفْضا» * — yəni məni atdı. Əmr ibn Kulsunun sözündəki «الأحفاض» (əl-əhfaad): «ونحن إذا عِمَادُ الحَىِّ خَرَّت … على الأحفاضِ نَمنَعُ مَنْ يَلِينا» (Biz o zaman ki, qəbilənin dirəyi yıxılar... əhfaad üzərinə, bizə yaxın olanı qoruyuruq) — onlar ilk minib minikə çevrilən dəvələrdir. Deyilir ki, bəlkə də əhfaad çadırların dirəkləridir.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmləri (٦), (١), (٢), (٣) buraxılmışdır.",
+  "Kök və sözlərin oxunuşunda səhvlər var (məs. 'حفض' kökünün 'həfəz', 'حفَضْت' sözünün 'Həfəvtul-udə' kimi verilməsi).",
+  "Ərəbcə 'إمَّا' sözü 'إما' kimi, 'الأحفاض' sözü isə 'əhfaad' kimi yanlış yazılmışdır."
+ ],
+ "review_ts": "2026-11-16T18:42:06.942Z"
 }

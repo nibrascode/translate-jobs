@@ -11,7 +11,18 @@
   "page_to": 123
  },
  "ar": "الحاء والياء والراء أصلٌ واحد، وهو التردُّد فى الشئ.\nمن ذلك الحَيْرة، وقد حار فى الأمر يَحِير، وتحيَّر يتحير. والحَيْرُ والحائِر: الموضع يتحيّر فيه الماء. قال قيس (٢):\nتَخْطُو على بَرْدِيّتين غذاهُما … غَدِق بساحَةِ حَائر يَعْبوبِ\nويقال لكلِّ ممتلئٍ مستَحِيرٌ، وهو قياسٌ صحيح، لأنه إذا امتلأ تردّد بعضُه على بعض، كالحائر الذى يتردّد فيه [الماء] إذا امتلأ. قال أبو ذؤيب:\n* واستحارَ شَبابُها (٣) *",
- "az": "[حير] الحاء, Yə və Ra hərfləri tək bir əsas kökə malikdir ki, o da bir şeydə tərəddüd etməkdir. Bunlardan biri də الحَيْرة (əl-həyərəh) – heyranlıqdır. حار فى الأمر يَحِير (حار فى الأمر يحير) – işdə çaşbaş qaldı, تحيَّر يتحير (təhəyyərə yətəhəyyəru) – heyran qaldı. الحَيْر (əl-həyr) və الحائِر (əl-həir) – suyun yığılıb qaldığı (tərəddüd etdiyi) yerdir. Qeys demişdir (٢): «تَخْطُو على بَرْدِيّتين غذاهُما … غَدِق بساحَةِ حَائر يَعْبوبِ» (Axar, bol sulu həlqənin həyətində bəslənmiş iki bərdi bitkisinin üstündən addımlayır). Hər bir dolu şeyə مستَحِيرٌ (mustəhir) deyilir, bu da səhih bir qiyasdır, çünki o, dolduğu zaman suyu yığılıb qalan حائر (həir) kimi bəzi hissələri digər hissələrinin üzərinə dolanıb tərəddüd edir. Əbu Züheyb demişdir: «* واستحارَ شَبابُها (٣) *» (Və gəncliyi coşub zirvəsinə çatdı).",
+ "az": "[حير]\nHa, ya və ra tək bir əsas kökdür, o da bir şeydə tərəddüd etməkdir.\nBuradandır الحَيْرة (çaşqınlıq, tərəddüd). حار فى الأمر يَحِير və تحيَّر يتحير (işdə çaşıb qaldı, tərəddüd etdi). الحَيْر və الحائِر: suyun tərəddüd etdiyi (yığılıb fırlandığı) yerdir. Qeys demişdir (٢):\nتَخْطُو على بَرْدِيّتين غذاهُما … غَدِق بساحَةِ حَائر يَعْبوبِ\n(O, bol axarlı su gölməçəsinin ətrafında yetişmiş iki bərdi qamışı kimi ayaqları üstündə addımlayır).\nHər bir dolu şeyə مستَحِيرٌ deyilir; bu səhih bir qiyasdır, çünki o dolduqda, dolduğu zaman içində suyun fırlandığı الحائر kimi, bəzi hissələri digər hissələrinə tərəddüd edir (dalğalanıb bir-birinə qarışır). Əbu Züeyb demişdir:\n* واستحارَ شَبابُها (٣) *\n(Və onun gəncliyi dolub-daşdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:27.843Z"
+ "ts": "2026-10-25T01:04:27.843Z",
+ "prev_az": "[حير] الحاء, Yə və Ra hərfləri tək bir əsas kökə malikdir ki, o da bir şeydə tərəddüd etməkdir. Bunlardan biri də الحَيْرة (əl-həyərəh) – heyranlıqdır. حار فى الأمر يَحِير (حار فى الأمر يحير) – işdə çaşbaş qaldı, تحيَّر يتحير (təhəyyərə yətəhəyyəru) – heyran qaldı. الحَيْر (əl-həyr) və الحائِر (əl-həir) – suyun yığılıb qaldığı (tərəddüd etdiyi) yerdir. Qeys demişdir (٢): «تَخْطُو على بَرْدِيّتين غذاهُما … غَدِق بساحَةِ حَائر يَعْبوبِ» (Axar, bol sulu həlqənin həyətində bəslənmiş iki bərdi bitkisinin üstündən addımlayır). Hər bir dolu şeyə مستَحِيرٌ (mustəhir) deyilir, bu da səhih bir qiyasdır, çünki o, dolduğu zaman suyu yığılıb qalan حائر (həir) kimi bəzi hissələri digər hissələrinin üzərinə dolanıb tərəddüd edir. Əbu Züheyb demişdir: «* واستحارَ شَبابُها (٣) *» (Və gəncliyi coşub zirvəsinə çatdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«حار فى الأمر يَحِير» ifadəsi mötərizədə tərcüməsiz olaraq ərəbcə təkrar edilib.",
+  "«الحَيْرة» və «تحير» sözlərinə «heyranlıq/heyran qaldı» mənası verilib, halbuki çaşqınlıq və tərəddüd deməkdir.",
+  "Şairin adı «Əbu Züheyb» deyil, «Əbu Züeyb» (أبو ذؤيب) olmalıdır."
+ ],
+ "review_ts": "2026-11-16T19:16:12.853Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 114
  },
  "ar": "الحاء والواو والجيم أصلٌ واحد، وهو الاضطرار إلى الشئ.\nفالحاجة واحدة الحاجات. والحَوْجاء: الحاجة. ويقال أحْوَجَ الرّجُلُ: احتاجَ.\nويقال أيضا: حاجَ يَحُوج (٣)، بمعنى احتاجَ. قال:\nغَنِيتْ فَلم أرْدُدْكُم عند بِغْيَة … وحُجْت فلم أكدُدْكُم بالأصابعِ (٤)\nفأمّا الحاجُ فضربٌ من الشَّوك، وهو شاذٌّ عن الأصل.",
- "az": "[حوج] «الحاء» (ح), «الواو» (و) və «الجيم» (ج) hərfləri tək bir əsasdır, o da bir şeyə məcbur olmaqdır. «الحاجة» (ehdiyac) ehtiyacların təkidir. «الحَوْجاء» (əl-houca) – ehtiyac deməkdir. Deyilir: «أحْوَجَ الرّجُلُ» (kişi ehtiyaclı oldu) – ehtiyac duyluldu. Həmçinin deyilir: «حاجَ يَحُوج (٣)» – ehtiyac duymaq mənasındadır. Şair demişdir: غَنِيتْ فَلم أرْدُدْكُم عند بِغْيَة … وحُجْت فلم أكدُدْكُم بالأصابعِ (٤) (Zəngin oldum və axtarış zamanı sizi geri çevirmədim; ehtiyaclı oldum və sizi barmaqlarımla saymadım [və ya incitmədim]). «الحاج» (əl-hac) sözünə gəldikdə, o, tikan növlərindən biridir və əsasdan kənara çıxan (şaz) sözdür.",
+ "az": "[حوج] «الحاء» (ha), «الواو» (vav) və «الجيم» (cim) hərfləri tək bir əsasdır, o da bir şeyə məcbur olmaqdır. «الحاجة» (ehtiyac) ehtiyacların təkidir. «الحَوْجاء» (əl-houca) – ehtiyac deməkdir. Deyilir: «أحْوَجَ الرّجُلُ» (kişi ehtiyaclı oldu) – ehtiyac duyuldu. Həmçinin deyilir: «حاجَ يَحُوج (٣)» – ehtiyac duymaq mənasındadır. Şair demişdir:\nغَنِيتْ فَلم أرْدُدْكُم عند بِغْيَة … وحُجْت فلم أكدُدْكُم بالأصابعِ (٤)\n(Zəngin oldum və istədiyiniz zaman sizi geri çevirmədim; ehtiyaclı oldum və sizi barmaqlarımla incitmədim).\n«الحاج» (əl-hac) sözünə gəldikdə, o, tikan növlərindən biridir və əsasdan kənara çıxan (şaz) sözdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:04.862Z"
+ "ts": "2026-10-25T01:04:04.862Z",
+ "prev_az": "[حوج] «الحاء» (ح), «الواو» (و) və «الجيم» (ج) hərfləri tək bir əsasdır, o da bir şeyə məcbur olmaqdır. «الحاجة» (ehdiyac) ehtiyacların təkidir. «الحَوْجاء» (əl-houca) – ehtiyac deməkdir. Deyilir: «أحْوَجَ الرّجُلُ» (kişi ehtiyaclı oldu) – ehtiyac duyluldu. Həmçinin deyilir: «حاجَ يَحُوج (٣)» – ehtiyac duymaq mənasındadır. Şair demişdir: غَنِيتْ فَلم أرْدُدْكُم عند بِغْيَة … وحُجْت فلم أكدُدْكُم بالأصابعِ (٤) (Zəngin oldum və axtarış zamanı sizi geri çevirmədim; ehtiyaclı oldum və sizi barmaqlarımla saymadım [və ya incitmədim]). «الحاج» (əl-hac) sözünə gəldikdə, o, tikan növlərindən biridir və əsasdan kənara çıxan (şaz) sözdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "AZ mətndə «ehdiyac» və «duyluldu» imla səhvləri var."
+ ],
+ "review_ts": "2026-11-16T19:10:05.511Z"
 }

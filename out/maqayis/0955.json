@@ -11,7 +11,17 @@
   "page_to": 110
  },
  "ar": "الحاء والنون والطاء ليس بذلك الأصل الذى يقاس منه أو عليه، وفيه أنَّه حَبٌّ أو شبيهٌ به. فالحنطة معروفة. ويقال للرّمْث إذا ابيصّ وأدرَكَ قد حَنِط. وذكر بعضُهم أنه يقال أحمر حانط، كما يقال أسود حالكٌ وهذا محمولٌ على أن الحنطة يقال [لها] الحمراء. وقد ذُكِر.",
- "az": "[حنط] (Həm, nun və ta): Ölçülüb-biçilən və ya üzərində qiyas edilən əsaslardan deyildir, lakin orada dənə və ya ona bənzər bir şey olması məzmunu vardır. «الحنطة» (həntə – buğda) məlumdur. Ağaran və yetkinləşən «رَمْث» (rəms) bitkisinə də «حَنِط» (hənit oldu) deyilir. Bəziləri qeyd etmişdir ki, necə ki «أسود حالك» (qapqara) deyilir, eləcə də «أحمر حانط» (qıpqırmızı) deyilir; bu da buğdaya «qırmızı» deyilməsinə əsaslandırılmışdır. Bu, artıq zikr edilmişdir.",
+ "az": "[حنط]\n(Ha, nun və ta): Ölçülüb-biçilən və ya üzərində qiyas edilən əsaslardan deyildir, lakin orada dənə və ya ona bənzər bir şey olması məzmunu vardır. «الحنطة» (hintə – buğda) məlumdur. Ağaran və yetkinləşən «رّمْث» (rəms) bitkisinə də «قد حَنِط» (hənit oldu) deyilir. Bəziləri qeyd etmişdir ki, necə ki «أسود حالكٌ» (qapqara) deyilir, eləcə də «أحمر حانط» (qıpqırmızı) deyilir; bu da buğdaya «الحمراء» (qırmızı) deyilməsinə əsaslandırılmışdır. Bu, artıq zikr edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:03:43.647Z"
+ "ts": "2026-10-25T01:03:43.647Z",
+ "prev_az": "[حنط] (Həm, nun və ta): Ölçülüb-biçilən və ya üzərində qiyas edilən əsaslardan deyildir, lakin orada dənə və ya ona bənzər bir şey olması məzmunu vardır. «الحنطة» (həntə – buğda) məlumdur. Ağaran və yetkinləşən «رَمْث» (rəms) bitkisinə də «حَنِط» (hənit oldu) deyilir. Bəziləri qeyd etmişdir ki, necə ki «أسود حالك» (qapqara) deyilir, eləcə də «أحمر حانط» (qıpqırmızı) deyilir; bu da buğdaya «qırmızı» deyilməsinə əsaslandırılmışdır. Bu, artıq zikr edilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ح» hərfinin adı «Ha» əvəzinə səhvən «Həm» kimi yazılmışdır.",
+  "«الحنطة» sözünün oxunuşu «həntə» əvəzinə «hintə» olmalıdır."
+ ],
+ "review_ts": "2026-11-16T18:56:10.608Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 182
  },
  "ar": "الخاء والسين والهمزة يدلُّ على الإبعاد. يقال خَسَأْتُ الكلبَ. وفى القرآن: ﴿قالَ اِخْسَؤُا فِيها وَلا تُكَلِّمُونِ﴾، كما يقال ابعُدوا.",
- "az": "[خسأ] (خ, س, ء): Uzaqlaşdırmağa dəlalət edir. خَسَأْتُ الكَلْبَ (xəsə'tü əl-kəlb) - iti qovdum, deyilir. Quranda: ﴿قالَ اِخْسَؤُا فِيها وَلا تُكَلِّمُونِ﴾ (mənaca tərcümə: Dedik: “Orada zəlil və xar olun, Mənimlə danışmayın!”) - necə ki,",
+ "az": "[خسأ] (خ, س, ء): Uzaqlaşdırmağa dəlalət edir. خَسَأْتُ الكلبَ (xəsə'tü əl-kəlb) - iti qovdum, deyilir. Quranda: ﴿قالَ اِخْسَؤُا فِيها وَلا تُكَلِّمُونِ﴾ (mənaca tərcümə: Dedik: “Orada zəlil və xar olun, Mənimlə danışmayın!”) - necə ki, ابعُدوا (uzaqlaşın) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:01.279Z"
+ "ts": "2026-10-25T01:09:01.279Z",
+ "prev_az": "[خسأ] (خ, س, ء): Uzaqlaşdırmağa dəlalət edir. خَسَأْتُ الكَلْبَ (xəsə'tü əl-kəlb) - iti qovdum, deyilir. Quranda: ﴿قالَ اِخْسَؤُا فِيها وَلا تُكَلِّمُونِ﴾ (mənaca tərcümə: Dedik: “Orada zəlil və xar olun, Mənimlə danışmayın!”) - necə ki,",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Cümlənin sonu yarımçıq kəsilmişdir («كما يقال ابعُدوا» hissəsi tərcümə olunmamışdır)."
+ ],
+ "review_ts": "2026-11-16T19:37:32.727Z"
 }

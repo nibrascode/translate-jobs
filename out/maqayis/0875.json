@@ -11,7 +11,16 @@
   "page_to": 66
  },
  "ar": "الحاء والشين والباء قريبُ المعنى مما قبله. فيقال الحَوْشَب العظيم البطن. قال:\nوتجرُّ مُجْرِيَةٌ لها … لحمى إلى أجْرٍ حواشِبْ (١)\nوالحوشب: حَشْو الحافر، ويقال بل هو عظمٌ فى باطن الحافر بين العصَب والوظيف. قال رؤبة:\n* فى رُسُغ لا يَتَشكَّى الحوشَبا (٢) *",
- "az": "[حشب] Ha (ha), Şin (şin) və Ba (ba) hərfləri məna baxımından əvvəlki ilə yaxındır. «الحَوْشَب» (əl-hovşəb) - qarnı böyük olan deməkdir. O demişdir: «وتجرُّ مُجْرِيَةٌ لها … لحمى إلى أجْرٍ حواشِبْ» (O, ətli, böyük qarınlıları bir mükafata doğru çəkir) (١). «الحوشب» (əl-hovşəb) - dırnağın içidir, bəziləri isə deyir ki, bu, dırnağın içində, vətər ilə ayaq sümüyü arasında olan bir sümükdür. Rübə demişdir: «فى رُسُغ لا يَتَشكَّى الحوشَبا» (Elə bir ayaq biləyində ki, hovşəbdən şikayət etmir) (٢).",
+ "az": "[حشب]\nHa, şin və ba məna baxımından əvvəlkinə yaxındır. الحَوْشَب (əl-hovşəb) — qarnı böyük olan deməkdir. Şair demişdir:\nوتجرُّ مُجْرِيَةٌ لها … لحمى إلى أجْرٍ حواشِبْ (١) (Balalı vəhşi heyvan mənim ətimi özünün qarnı böyük balalarına doğru sürüyür).\nالحوشب (əl-hovşəb) — dırnağın içidir; bəziləri isə deyir ki, bu, dırnağın içində, vətər ilə ayaq sümüyü arasında olan bir sümükdür. Rübə demişdir:\n* فى رُسُغ لا يَتَشكَّى الحوشَبا (٢) * (Elə bir ayaq biləyində ki, hovşəbdən şikayət etmir).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T00:57:37.546Z"
+ "ts": "2026-10-25T00:57:37.546Z",
+ "prev_az": "[حشب] Ha (ha), Şin (şin) və Ba (ba) hərfləri məna baxımından əvvəlki ilə yaxındır. «الحَوْشَب» (əl-hovşəb) - qarnı böyük olan deməkdir. O demişdir: «وتجرُّ مُجْرِيَةٌ لها … لحمى إلى أجْرٍ حواشِبْ» (O, ətli, böyük qarınlıları bir mükafata doğru çəkir) (١). «الحوشب» (əl-hovşəb) - dırnağın içidir, bəziləri isə deyir ki, bu, dırnağın içində, vətər ilə ayaq sümüyü arasında olan bir sümükdür. Rübə demişdir: «فى رُسُغ لا يَتَشكَّى الحوشَبا» (Elə bir ayaq biləyində ki, hovşəbdən şikayət etmir) (٢).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«وتجرُّ مُجْرِيَةٌ لها … لحمى إلى أجْرٍ حواشِبْ» beyti «O, ətli, böyük qarınlıları bir mükafata doğru çəkir» kimi səhv tərcümə edilib (أجْرٍ burada «mükafat» deyil, «balalar/küçüklər» mənasındadır)."
+ ],
+ "review_ts": "2026-11-16T18:36:58.276Z"
 }

@@ -11,9 +11,20 @@
   "page_to": 19
  },
  "ar": "الحاء والكاف أصلٌ واحد، وهو أن يلتقىَ شيئانِ يتمرّس كلُّ واحدٍ منهما بصاحبه. الحكُّ: حَكُّكَ شيئاً على شئ. يقال ما بقِيتْ فى فيه حَاكَّة، أى سنّ. وأحكَّنِى رأسى فحكَكْته. ويقال حكَّ فى صدرى كذا:\nإذا لم ينشرح صدْرك له، كأنه شئ شكَّ صدرَك فتمرّس [به]. والحُكاكة:\nما يسقط من الشيئين تحكُّهما. والحَكِيك: الحافر النَّحِيت (٥). ويقولون وهو أصل الباب: فلانٌ يتحكَّك بى، أى يتمرَّس\nقال الفرّاء: إنه لحِكُّ شَرٍّ، وحِكُّ ضِغْنٍ (٦).",
- "az": "«حك» (ح, ك) — tək bir əsas kökdür, o da iki şeyin bir-biri ilə qarşılaşaraq hər birinin digəri ilə sürtünməsi deməkdir. الحك (əl-həkk) – sənin bir şeyi digər şeyə sürtməyindir. Deyilir ki, onun ağzında bir diş də qalmadı («ما بقِيتْ فى فيه حَاكَّة»). Başımmı qaşındı və mən də onu qaşıdım («وأحكَّنِى رأسى فحكَكْته»). Deyilir: «Filan şey ürəyimdə qaşındı» («حك فى صدرى كذا»), – köksün ona açılmadığı zaman, sanki o, sənin köksünü şübhəyə salan və [onunla] sürtünən bir şeydir. \nالحُكاكة (əl-həkakə) – iki şeyin bir-birinə sürtünməsindən tökülən şeydir. \nالحَكِيك (əl-həkik) – yonulmuş dırnaqdır (٥). \nOnlar deyirlər ki, bu kökün əslidir: «Filankəs mənimlə sürtünür» («فلان يتحكَّك بى»), yəni mənimlə çarpışır. \nFəra demişdir: «O, həqiqətən şər adamıdır, kin adamıdır» («إنه لحِكُّ شَرٍّ، وحِكُّ ضِغْنٍ») (٦).",
+ "az": "[حك]\nالحاء (ha) və الكاف (kaf) tək bir əsas kökdür, o da iki şeyin bir-biri ilə qarşılaşaraq hər birinin digəri ilə sürtünməsi deməkdir. الحكُّ (əl-həkk) – sənin bir şeyi digər şeyə sürtməyindir. Deyilir: «ما بقِيتْ فى فيه حَاكَّة، أى سنّ» (Onun ağzında bir hakkə, yəni diş də qalmadı). «وأحكَّنِى رأسى فحكَكْته» (Başım qaşındı və mən də onu qaşıdım). Deyilir: «حكَّ فى صدرى كذا» (Filan şey köksümdə qaşındı):\nköksün ona açılmadığı zaman (belə deyilir), sanki o, sənin köksünü şübhəyə salan və [onunla] sürtünən bir şeydir. والحُكاكة (əl-hükakə):\niki şeyin bir-birinə sürtünməsindən tökülən şeydir. والحَكِيك (əl-həkik): yonulmuş dırnaqdır (٥). Onlar deyirlər ki, bu kökün əslidir: «فلانٌ يتحكَّك بى، أى يتمرَّس» (Filankəs mənimlə sürtünür, yəni mənə sataşır).\nəl-Fərra demişdir: «إنه لحِكُّ شَرٍّ، وحِكُّ ضِغْنٍ» (O, həqiqətən şər adamıdır, kin adamıdır) (٦).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:53:25.343Z",
- "review_attempts": 1,
- "review_last_error": "«yarat» sözü"
+ "review_last_error": "«yarat» sözü",
+ "prev_az": "«حك» (ح, ك) — tək bir əsas kökdür, o da iki şeyin bir-biri ilə qarşılaşaraq hər birinin digəri ilə sürtünməsi deməkdir. الحك (əl-həkk) – sənin bir şeyi digər şeyə sürtməyindir. Deyilir ki, onun ağzında bir diş də qalmadı («ما بقِيتْ فى فيه حَاكَّة»). Başımmı qaşındı və mən də onu qaşıdım («وأحكَّنِى رأسى فحكَكْته»). Deyilir: «Filan şey ürəyimdə qaşındı» («حك فى صدرى كذا»), – köksün ona açılmadığı zaman, sanki o, sənin köksünü şübhəyə salan və [onunla] sürtünən bir şeydir. \nالحُكاكة (əl-həkakə) – iki şeyin bir-birinə sürtünməsindən tökülən şeydir. \nالحَكِيك (əl-həkik) – yonulmuş dırnaqdır (٥). \nOnlar deyirlər ki, bu kökün əslidir: «Filankəs mənimlə sürtünür» («فلان يتحكَّك بى»), yəni mənimlə çarpışır. \nFəra demişdir: «O, həqiqətən şər adamıdır, kin adamıdır» («إنه لحِكُّ شَرٍّ، وحِكُّ ضِغْنٍ») (٦).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub («حك» (ح, ك) yerinə [حك] olmalıdır).",
+  "«Başımmı qaşındı» ifadəsində imla səhvi var («Başım qaşındı» olmalıdır).",
+  "«الحُكاكة» sözünün transkripsiyası səhv verilib («əl-həkakə» yox, «əl-hükakə» olmalıdır).",
+  "Alim adı «əl-Fərra» əvəzinə «Fəra» yazılıb və abzas bölgüsü AR-dakı kimi saxlanmayıb."
+ ],
+ "review_ts": "2026-11-16T18:29:42.432Z"
 }

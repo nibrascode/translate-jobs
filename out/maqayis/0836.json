@@ -11,7 +11,18 @@
   "page_to": 38
  },
  "ar": "الحاء والراء والزاء أصلٌ واحد، وهو من الحِفْظ والتَّحفظ يقال حَرَزْتُه (١) واحترزَ هو، أى تحفَّظَ. وناسٌ يذهبون إلى أنّ هذه الزّاءَ مبدلةٌ مِنْ سين، وأنَّ الأصل الحَرْس وهو وجهٌ. وفى الكتاب الذى للخليل أنّ الحَرَزَ جَوْز محكوكٌ يُلعَب به، والجمع أحْراز. قلنا: وهذا شئ لا يعرَّج عليه ولا مَعْنَى له.",
- "az": "«حرز» (hərz): Ha, ra və zay hərflərindən ibarət olub tək bir kökdür, o da qorumaq və qorunmaqdır. Deyilir: «حَرَزْتُه» (mən onu qorudum) və o, «احترز» (qorundu), yəni ehtiyat etdi. Bəzi insanlar belə hesab edirlər ki, bu zay hərfi sin hərfini əvəz etmişdir və əsli «الحَرْس» (hərs) sözüdür, bu da bir görüşdür. Xəlilin kitabında vardır ki, «الحَرَزُ» (əl-həraz) — oyun oynanılan sürtülü qozdur, cəmi «أحْراز» (əhraz) gəlir. Biz deyirik: bu, diqqət yetirilməyən və heç bir mənası olmayan bir şeydir.",
+ "az": "[حرز] (h-r-z). Ha, ra və zey hərfləri tək bir kökdür, o da qorumaq və ehtiyatlı olmaqdır. Deyilir: حَرَزْتُه (١) (onu qorudum) və واحترزَ (ehtiyat etdi), yəni تحفَّظَ (özünü qorudu). Bəzi insanlar belə hesab edirlər ki, bu zey hərfi sin hərfindən əvəz olunmuşdur və əsli الحَرْس (hərs) sözüdür, bu da bir görüşdür. Xəlilin kitabında vardır ki, الحَرَزُ (hərəz) — oyun oynanılan sürtülmüş qozdur, cəmi أحْراز (əhraz) gəlir. Biz deyirik: bu, diqqət yetirilməyən və heç bir mənası olmayan bir şeydir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:54:28.558Z"
+ "ts": "2026-10-25T00:54:28.558Z",
+ "prev_az": "«حرز» (hərz): Ha, ra və zay hərflərindən ibarət olub tək bir kökdür, o da qorumaq və qorunmaqdır. Deyilir: «حَرَزْتُه» (mən onu qorudum) və o, «احترز» (qorundu), yəni ehtiyat etdi. Bəzi insanlar belə hesab edirlər ki, bu zay hərfi sin hərfini əvəz etmişdir və əsli «الحَرْس» (hərs) sözüdür, bu da bir görüşdür. Xəlilin kitabında vardır ki, «الحَرَزُ» (əl-həraz) — oyun oynanılan sürtülü qozdur, cəmi «أحْراز» (əhraz) gəlir. Biz deyirik: bu, diqqət yetirilməyən və heç bir mənası olmayan bir şeydir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə «[حرز]» formatı ilə başlamır.",
+  "Ərəbcə mətndəki (١) haşiyə rəqəmi tərcümədə buraxılmışdır.",
+  "«تحفَّظَ» sözü ərəb qrafikası ilə saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-16T18:31:24.803Z"
 }

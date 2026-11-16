@@ -11,7 +11,17 @@
   "page_to": 187
  },
  "ar": "الخاء والصاد واللام أصلٌ واحدٌ يدلُّ على القَطْعِ والقِطعةِ من الشَّئ، ثم يُحمَل عليها تشبيهاً ومجازاً. فالخَصْل القَطْع. وسيف مِخْصَل: قطَّاع (١).\nوالخُصْلة من الشّعْرَ معروفة. والخَصِيلة: كلُّ لحمةٍ فيها عَصَبٌ. هذا هو الأصل.\nوممّا حُمِل عليه الخُصَل * أطراف الشّجرِ المتدلّيةُ. ومن هذا الباب الخَصْل فى الرِّهان، وذلك أن تُحْرِزَه. والذى يحرزُه طائفةٌ من الشئ. ثمَّ قيل: فى فلانٍ خَصْلةٌ حَسنَةٌ وسيِّئة. والأصل ما ذكرناه.",
- "az": "[خصل] الخاء والصاد واللام أصلٌ واحدٌ يدلُّ على القَطْعِ والقِطعةِ من الشَّئ، ثم يُحمَل عليها تشبيهاً ومجازاً. (Xar, sad və lam hərfləri tək bir kök olub, kəsməyə və şeydən bir parça olmağa dəlalət edir, sonra buna bənzətmə və məcaz yolu ilə məna yüklənir.) \n\nفالخَصْل القَطْع. وسيف مِخْصَل: قطَّاع (١). (Beləliklə, əl-xəsl — kəsmək. Mixsəl qılınc: kəsici.) \n\nوالخُصْلة من الشّعْرَ معروفة. والخَصِيلة: كلُّ لحمةٍ فيها عَصَبٌ. هذا هو الأصل. (Saçdan olan xuslə məlumdur. Əl-xəsilə: içində əzələ olan hər bir ət parçası. Bu, əslidir.) \n\nوممّا حُمِل عليه الخُصَل * أطراف الشّجرِ المتدلّيةُ. ومن هذا الباب الخَصْل فى الرِّهان، وذلك أن تُحْرِزَه. والذى يحرزُه طائفةٌ من الشئ. ثمَّ قيل: فى فلانٍ خَصْلةٌ حَسنَةٌ وسيِّئة. والأصل ما ذكرناه. (Xusəl isə ona həml edilmiş şeylərdəndir: ağacların sallanan ucları. Bu babdandır mərc gəlməkdəki xəsl, və bu, onu əldə etməyindir. Onun əldə etdiyi şey isə şeyin bir hissəsidir. Sonra deyildi: fulanda gözəl xəsl və pis xəsl (xislət/xüsusiyyət) vardır. Əsl isə qeyd etdiyimizdir.)",
+ "az": "[خصل] (Xa, sad və lam) tək bir kökdür, kəsməyə və bir şeyin parçasına dəlalət edir, sonra bənzətmə və məcaz yolu ilə digər mənalar buna yüklənir. الخَصْل — kəsməkdir. وسيف مِخْصَل — kəsici qılıncdır.\nSaçdan olan الخُصْلة (tel, saç dəstəsi) məlumdur. والخَصِيلة — içində əzələ/vətər olan hər bir ət parçasıdır. Əsl məna budur.\nBuna yüklənən mənalardandır: الخُصَل — ağacların sallanan uclarıdır. Bu babdandır: mərcdə الخَصْل — onu əldə etməyindir. Əldə edilən şey isə bir şeyin bir hissəsidir. Sonra deyildi: فى فلانٍ خَصْلةٌ حَسنَةٌ وسيِّئة (filankəsdə yaxşı və pis xislət var). Əsl isə qeyd etdiyimizdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:26.357Z"
+ "ts": "2026-10-25T01:09:26.357Z",
+ "prev_az": "[خصل] الخاء والصاد واللام أصلٌ واحدٌ يدلُّ على القَطْعِ والقِطعةِ من الشَّئ، ثم يُحمَل عليها تشبيهاً ومجازاً. (Xar, sad və lam hərfləri tək bir kök olub, kəsməyə və şeydən bir parça olmağa dəlalət edir, sonra buna bənzətmə və məcaz yolu ilə məna yüklənir.) \n\nفالخَصْل القَطْع. وسيف مِخْصَل: قطَّاع (١). (Beləliklə, əl-xəsl — kəsmək. Mixsəl qılınc: kəsici.) \n\nوالخُصْلة من الشّعْرَ معروفة. والخَصِيلة: كلُّ لحمةٍ فيها عَصَبٌ. هذا هو الأصل. (Saçdan olan xuslə məlumdur. Əl-xəsilə: içində əzələ olan hər bir ət parçası. Bu, əslidir.) \n\nوممّا حُمِل عليه الخُصَل * أطراف الشّجرِ المتدلّيةُ. ومن هذا الباب الخَصْل فى الرِّهان، وذلك أن تُحْرِزَه. والذى يحرزُه طائفةٌ من الشئ. ثمَّ قيل: فى فلانٍ خَصْلةٌ حَسنَةٌ وسيِّئة. والأصل ما ذكرناه. (Xusəl isə ona həml edilmiş şeylərdəndir: ağacların sallanan ucları. Bu babdandır mərc gəlməkdəki xəsl, və bu, onu əldə etməyindir. Onun əldə etdiyi şey isə şeyin bir hissəsidir. Sonra deyildi: fulanda gözəl xəsl və pis xəsl (xislət/xüsusiyyət) vardır. Əsl isə qeyd etdiyimizdir.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«خ» hərfinin adı «Xar» kimi səhv yazılmışdır.",
+  "Mətndəki ərəb qrafikalı baş sözlər və izah olunan sözlər original qrafikada saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-16T19:38:46.644Z"
 }

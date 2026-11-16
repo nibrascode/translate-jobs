@@ -11,7 +11,19 @@
   "page_to": 86
  },
  "ar": "الحاء والفاء والشين أصلٌ واحد يدلُّ على الجمع. يقال هم يَحْفِشون عليك، أى يُجْلِبون. وحَفَشَ السَّيلُ الماء من كلِّ جانب إِلى مستنقع واحد. قال:\nعشِيَّةَ رُحْنا وراحْوا لَنَا … كما ملَأَ الحافشاتُ المَسِيلا (٤)\nويقال جاء الفرس يَحفِشُ، أى يأتى بجريٍ بعد جرى. والحفش (٥): بيت صغير: وسمِّى بذلك لاجتماعِ جوانبه؛ ويقال لأنه يُحمع فيه الشئ. وتحفشّت المرأةُ للرَّجُل، إذا أظهرت له وُدَّا؛ وذلك أنها تتحفَّل له، أى تتجمَّع.",
- "az": "«حفش» (həfəş): Haa, fa və şin toplamağa dəlalət edən tək bir əsasdır. Deyirlər: «هم يَحْفِشون عليك» (Hüm yəhfişunə aleyk — onlar sənin əleyhinə qoşun çəkirlər). «حَفَشَ السَّيلُ الماء» (Həfələş-seylül-მაə) — sel suyu hər tərəfdən bir su yığılan yerə tərəf topladı. O demişdir: «عشِيَّةَ رُحْنا وراحْوا لَنَا … كما ملَأَ الحافشاتُ المَسِيلا» (O axşam ki, biz yola düşdük və onlar bizim üçün yola düşdülər... su yığanların doldurduğu axar su kimi). Deyilir: «جاء الفرس يَحفِشُ» (Cəəl-fərsu yəhfişü) — yəni at bir-birinin ardınca qaçışla gəlir. «الحفش» (əl-həfəş) — kiçik evdir; tərəflərinin birləşməsinə görə belə adlandırılmışdır; həmçinin ona görə ki, orada bir şey toplanır. «تحفّت المرأةُ للرَّجُل» (Təhəffətil-mər'ətu lir-rəcül) — qadın kişiyə məhəbbət izhar etdi; bu ona görədir ki, o, onun üçün toparlanır, yəni toplanır.",
+ "az": "[حفش]\nHa, fa və şin toplamağa dəlalət edən bir əsasdır. Deyirlər: هم يَحْفِشون عليك (Onlar sənin əleyhinə toplanıb səs-küy salırlar), yəni يُجْلِبون (toplanıb hay-küy qaldırırlar). حَفَشَ السَّيلُ الماء (Sel suyu topladı) — hər tərəfdən bir su yığılan yerə doğru. (Şair) demişdir:\nعشِيَّةَ رُحْنا وراحْوا لَنَا … كما ملَأَ الحافشاتُ المَسِيلا (٤)\n(O axşam ki, biz yola düşdük və onlar da bizim üçün yola düşdülər... su yığan sellərin axarı doldurduğu kimi).\nDeyilir: جاء الفرس يَحفِشُ (At sürətlə, ard-arda qaçaraq gəldi), yəni bir qaçışın ardınca digər qaçışla gəlir. الحفش (əl-həfş) (٥): kiçik evdir; tərəflərinin bir araya gəlməsinə görə belə adlandırılmışdır; həmçinin deyilir ki, orada bir şey toplandığı üçün. تحفشّت المرأةُ للرَّجُل (Qadın kişiyə məhəbbət göstərdi) — ona sevgi izhar etdikdə; bu ona görədir ki, o, onun üçün bəzənib toparlanır (تتحفَّل), yəni toplanır (تتجمَّع).",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:02:08.982Z"
+ "ts": "2026-10-25T01:02:08.982Z",
+ "prev_az": "«حفش» (həfəş): Haa, fa və şin toplamağa dəlalət edən tək bir əsasdır. Deyirlər: «هم يَحْفِشون عليك» (Hüm yəhfişunə aleyk — onlar sənin əleyhinə qoşun çəkirlər). «حَفَشَ السَّيلُ الماء» (Həfələş-seylül-მაə) — sel suyu hər tərəfdən bir su yığılan yerə tərəf topladı. O demişdir: «عشِيَّةَ رُحْنا وراحْوا لَنَا … كما ملَأَ الحافشاتُ المَسِيلا» (O axşam ki, biz yola düşdük və onlar bizim üçün yola düşdülər... su yığanların doldurduğu axar su kimi). Deyilir: «جاء الفرس يَحفِشُ» (Cəəl-fərsu yəhfişü) — yəni at bir-birinin ardınca qaçışla gəlir. «الحفش» (əl-həfəş) — kiçik evdir; tərəflərinin birləşməsinə görə belə adlandırılmışdır; həmçinin ona görə ki, orada bir şey toplanır. «تحفّت المرأةُ للرَّجُل» (Təhəffətil-mər'ətu lir-rəcül) — qadın kişiyə məhəbbət izhar etdi; bu ona görədir ki, o, onun üçün toparlanır, yəni toplanır.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin içində gürcü əlifbası ilə yazılmış pozulmuş ifadə ('Həfələş-seylül-მაə') mövcuddur.",
+  "Ərəbcə 'تحفشّت' sözü 'تحفّت' kimi yanlış köçürülmüşdür.",
+  "Haşiyə rəqəmləri (٤) və (٥) buraxılmışdır.",
+  "'هم يَحْفِشون عليك، أى يُجْلِبون' ifadəsi 'qoşun çəkirlər' kimi qeyri-dəqiq tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-16T18:42:06.941Z"
 }

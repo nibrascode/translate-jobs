@@ -11,7 +11,17 @@
   "page_to": 220
  },
  "ar": "الخاء والميم والطاء أصلان: أحدهما الانجراد والمَلاسَة، والآخَر التسلّط والصِّيَال.\nفأمّا الأوّل فقولهم: خَمَطْتُ الشّاةَ، وذلك [إذا] نزعْتَ جلدَها وشويتَها. فإِن نُزِع الشّعر فذلك السَّمْط. وأصل ذلك من الخَمْط، وهو كلُّ شئٍ لا شَوكَ له.\nوالأصل الثانى: قولُهم تخمَّطَ الفَحلُ، إذا هاج وهَدَرَ. وأصلُه مِنْ تخمّط البحرْ، وذلك خِبُّه والتطامُ أمواجِه.",
- "az": "[خمt] (X-M-T) Xa, mim və ta hərflərinin iki əsli var: biri soyulmaq və hamarlıq, digəri isə üstünlük və hücumdur. Birincisinə gəlincə, onların «xəmətu (خَمَطْتُ) qoyunu» demələri, yəni dərisini soyub qızartmağın. Əgər tükləri yolunarsa, bu səmtdir (السَّمْط). Bunun əsli xəmtdən (الخَمْط) gəlir, bu da tikanı olmayan hər şeydir. İkinci əsl: onların «təxəmmətə (تخمَّطَ) erkək heyvan» demələri, yəni coşub nərə çəkdiyi zaman. Bunun əsli dənizin təxəmmətindən (تخمّط البحرْ) gəlir, bu da onun dalğalarının coşması və çırpınmasıdır.",
+ "az": "[خمط] Xa, mim və ta hərfləri iki kök bildirir: birincisi soyulmaq və hamarlıq, ikincisi üstünlük və coşub-daşmaq.\nBirincisinə gəlincə: onların خَمَطْتُ الشّاةَ (qoyunun dərisini soydum) demələridir, bu da onun dərisini soyub qızartdıqda deyilir. Əgər tükü təmizlənərsə, bu السَّمْط (əs-səmt) adlanır. Bunun əsli الخَمْط (əl-xəmt) sözündəndir ki, bu da tikanı olmayan hər bir bitkidir.\nİkinci kök: onların تخمَّطَ الفَحلُ (erkək dəvə coşdu) demələridir ki, coşub nərə çəkdikdə deyilir. Bunun əsli تخمّط البحرْ (dənizin coşması) ifadəsindəndir ki, bu da onun azğınlaşması və dalğalarının bir-birinə çırpılmasıdır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:12:39.173Z"
+ "ts": "2026-10-25T01:12:39.173Z",
+ "prev_az": "[خمt] (X-M-T) Xa, mim və ta hərflərinin iki əsli var: biri soyulmaq və hamarlıq, digəri isə üstünlük və hücumdur. Birincisinə gəlincə, onların «xəmətu (خَمَطْتُ) qoyunu» demələri, yəni dərisini soyub qızartmağın. Əgər tükləri yolunarsa, bu səmtdir (السَّمْط). Bunun əsli xəmtdən (الخَمْط) gəlir, bu da tikanı olmayan hər şeydir. İkinci əsl: onların «təxəmmətə (تخمَّطَ) erkək heyvan» demələri, yəni coşub nərə çəkdiyi zaman. Bunun əsli dənizin təxəmmətindən (تخمّط البحرْ) gəlir, bu da onun dalğalarının coşması və çırpınmasıdır.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Baş sözdə hərf səhvi var ([خمt]).",
+  "Ərəbcə ifadələrin bəzisi tam köçürülməyib."
+ ],
+ "review_ts": "2026-11-16T19:45:58.351Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 182
  },
  "ar": "الخاء والسين واللام أصلٌ واحدٌ يدلُّ على ضَعْفٍ وقِلّةِ خَطَر. فالمَخْسُول: المرذول. ورجالٌ خُسَّلٌ مثل سُخَّل، وهم الضُّعَفاء.\nوالكواكب المخسولة: المجهولة التى لا أسماءَ لها. قال:\nونحنُ الثُّرَيّا وجوزاؤُها … ونحنُ السّما كانِ والمِرْزَمُ\nوأنتُم كواكبُ مَخْسُولةٌ … تُرَى فى السّماء ولا تُعْلَمُ (١)",
- "az": "[خسل] (خ, س, ل): Zəifliyə və az dəyərə dəlalət edən tək bir əsasdır. المَخْسُول (əl-məxsul) - alçaq, rəzil edilmişdir. وَرِجَالٌ خُسَّلٌ (və ricalün xüssəl) - سُخَّل (süxxəl) kimi zəif adamlar deməkdir.\nالمخسولة ulduzlar - adları bilinməyən naməlum ulduzlardır. Şair demişdir:\nوَنَحْنُ الثُّرَيَّا وَجَوْزَاؤُهَا … وَنَحْنُ السَّمَا كَانِ وَالمِرْزَمُ\nوَأَنْتُمْ كَوَاكِبُ مَخْسُولَةٌ … تُرَى فِي السَّمَاءِ وَلَا تُعْلَمُ (١)\n(Biz Sürəyyayıq və onun Cövzasıyıq, biz Səmakani və Mirzəmik. Siz isə göydə görünən, lakin tanınmayan məxsulə ulduzlarsınız)",
+ "az": "[خسل] (خ, س, ل): Zəifliyə və az dəyərə dəlalət edən tək bir əsasdır. المَخْسُول (əl-məxsul) - alçaq, rəzil edilmişdir. ورجالٌ خُسَّلٌ (və ricalün xüssəl) - سُخَّل (süxxəl) kimi zəif adamlar deməkdir.\nوالكواكب المخسولة (əl-kəvakib əl-məxsulə) - adları bilinməyən naməlum ulduzlardır. Şair demişdir:\nونحنُ الثُّرَيّا وجوزاؤُها … ونحنُ السّما كانِ والمِرْزَمُ\nوأنتُم كواكبُ مَخْسولةٌ … تُرَى فى السّماء ولا تُعْلَمُ (١)\n(Biz Sürəyyayıq və onun Cövzasıyıq, biz Səmakani və Mirzəmik. Siz isə göydə görünən, lakin tanınmayan məxsulə ulduzlarsınız)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:01.279Z"
+ "ts": "2026-10-25T01:09:01.279Z",
+ "prev_az": "[خسل] (خ, س, ل): Zəifliyə və az dəyərə dəlalət edən tək bir əsasdır. المَخْسُول (əl-məxsul) - alçaq, rəzil edilmişdir. وَرِجَالٌ خُسَّلٌ (və ricalün xüssəl) - سُخَّل (süxxəl) kimi zəif adamlar deməkdir.\nالمخسولة ulduzlar - adları bilinməyən naməlum ulduzlardır. Şair demişdir:\nوَنَحْنُ الثُّرَيَّا وَجَوْزَاؤُهَا … وَنَحْنُ السَّمَا كَانِ وَالمِرْزَمُ\nوَأَنْتُمْ كَوَاكِبُ مَخْسُولَةٌ … تُرَى فِي السَّمَاءِ وَلَا تُعْلَمُ (١)\n(Biz Sürəyyayıq və onun Cövzasıyıq, biz Səmakani və Mirzəmik. Siz isə göydə görünən, lakin tanınmayan məxsulə ulduzlarsınız)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الكواكب المخسولة» ərəbcə ifadəsi yarımçıq köçürülmüş, «الكواكب» sözü düşmüşdür."
+ ],
+ "review_ts": "2026-11-16T19:37:32.727Z"
 }

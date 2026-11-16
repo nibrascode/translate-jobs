@@ -11,7 +11,19 @@
   "page_to": 34
  },
  "ar": "الحاء والدال والقاف أصلٌ واحدٌ، [وهو الشئ] يحيط بشئ. يقال حَدَقَ القومُ بالرّجُل وأحدقوا به. قال:\nالمطعِمون بَنُو حَرْبٍ وقَدْ حَدَقَتْ … بى المنيّةُ واستبطأتُ أنصارِى (٤)\nوحَدَقَة العين مِنْ هذا، وهى السَّواد، لأنها تحيط بالصَّبِىّ (٥)؛ والجمع حِداق.\nقال:\nفالعينُ بَعْدَهُم كأنَّ حِداقَها … سُمِلَتْ بشَوْكٍ فَهْىَ عُورٌ تَدْمَعُ (١)\nوالتّحديق: شِدّة النّظر. والحديقة: الأرضُ ذاتُ الشجَر. والحِنْدِيقة:\nالحَدَقَة (٢).",
- "az": "«حدق» (hədq): Ha, dal və qaf hərflərindən ibarət olub tək bir kökdür, [o da bir şeyi əhatə edən şeydir]. Deyilir: «حَدَقَ القومُ بالرّجُل» (qövm kişinin ətrafını kəsdi) və «أحدقوا به» (onun ətrafını sardılar). Şair demişdir:\nالمطعِمون بَنُو حَرْبٍ وقَدْ حَدَقَتْ … بى المنيّةُ واستبطأتُ أنصارِى (٤)\n(Yemək verənlər Bəni-Hərbsə, artıq ölüm məni əhatə etmişdi və köməkçilərimi gecikmiş hesab etdim)\nVə göz bəbəyi də (حَدَقَة العين) bundandır, o da qarasıdır, çünki o, bəbəyi əhatə edir (٥); cəmi «حِداق» (hidaq) gəlir.\nŞair demişdir:\nفالعينُ بَعْدَهُم كأنَّ حِداقَها … سُمِلَتْ بشَوْكٍ فَهْىَ عُورٌ تَدْمَعُ (١)\n(Onlardan sonra elə bil gözlərin bəbəkləri tikanla oyuulmuşdur, ona görə də çəp və yaşlıdırlar)\nVə «التّحديق» (təhdid, bərəltmə) — şiddətlə baxmaqdır. Və «الحديقة» (hədiqə) — ağaclıq yerdir. Və «الحِنْدِيقة» (hindiyə) — göz bəbəyidir (٢).",
+ "az": "[حدق]\\nالحاء (ha), الدال (dal) və القاف (qaf) hərfləri tək bir kökdür, [o da] bir şeyi əhatə edən [şeydir]. Deyilir: حَدَقَ القومُ بالرّجُل (qövm kişinin ətrafını kəsdi) və أحدقوا به (onun ətrafını sardılar). Şair demişdir:\\nالمطعِمون بَنُو حَرْبٍ وقَدْ حَدَقَتْ … بى المنيّةُ واستبطأتُ أنصارِى (٤)\\n(Yemək verənlər Hərb oğullarıdır, artıq ölüm məni əhatə etmişdi və köməkçilərimi gecikmiş hesab etdim).\\nوحَدَقَة العين (gözün hədəqəsi) də bundandır, o da qarasıdır, çünki o, bəbəyi əhatə edir (٥); cəmi حِداق (hidaq) gəlir.\\nŞair demişdir:\\nفالعينُ بَعْدَهُم كأنَّ حِداقَها … سُمِلَتْ بشَوْكٍ فَهْىَ عُورٌ تَدْمَعُ (١)\\n(Onlardan sonra elə bil gözlərin hədəqələri tikanla oyulmuşdur, ona görə də kor olub yaş axıdır).\\nالتّحديق (təhdiq) — şiddətlə baxmaqdır. الحديقة (hədiqə) — ağaclıq yerdir. الحِنْدِيقة (hindiqə) —\\nالحَدَقَة (göz bəbəyinin qarası)dır (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:54:28.558Z"
+ "ts": "2026-10-25T00:54:28.558Z",
+ "prev_az": "«حدق» (hədq): Ha, dal və qaf hərflərindən ibarət olub tək bir kökdür, [o da bir şeyi əhatə edən şeydir]. Deyilir: «حَدَقَ القومُ بالرّجُل» (qövm kişinin ətrafını kəsdi) və «أحدقوا به» (onun ətrafını sardılar). Şair demişdir:\nالمطعِمون بَنُو حَرْبٍ وقَدْ حَدَقَتْ … بى المنيّةُ واستبطأتُ أنصارِى (٤)\n(Yemək verənlər Bəni-Hərbsə, artıq ölüm məni əhatə etmişdi və köməkçilərimi gecikmiş hesab etdim)\nVə göz bəbəyi də (حَدَقَة العين) bundandır, o da qarasıdır, çünki o, bəbəyi əhatə edir (٥); cəmi «حِداق» (hidaq) gəlir.\nŞair demişdir:\nفالعينُ بَعْدَهُم كأنَّ حِداقَها … سُمِلَتْ بشَوْكٍ فَهْىَ عُورٌ تَدْمَعُ (١)\n(Onlardan sonra elə bil gözlərin bəbəkləri tikanla oyuulmuşdur, ona görə də çəp və yaşlıdırlar)\nVə «التّحديق» (təhdid, bərəltmə) — şiddətlə baxmaqdır. Və «الحديقة» (hədiqə) — ağaclıq yerdir. Və «الحِنْدِيقة» (hindiyə) — göz bəbəyidir (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[حدق]» şəklində deyil.",
+  "«بَنُو حَرْبٍ» ifadəsi «Bəni-Hərbsə» kimi yanlış tərcümə edilib.",
+  "«التّحديق» sözü «təhdid», «الحِنْدِيقة» sözü isə «hindiyə» kimi səhv transliterasiya olunub.",
+  "Beytin tərcüməsində «oyuulmuşdur» kimi imla xətası var."
+ ],
+ "review_ts": "2026-11-16T18:30:37.655Z"
 }

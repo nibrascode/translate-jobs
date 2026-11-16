@@ -11,7 +11,16 @@
   "page_to": 227
  },
  "ar": "الخاء والواو والذال ليس أصلاً يطّرد، ولا يُقاس عليه، وإنّما فيه كلمة واحدة مُختلَفٌ فى تأويلها. قالوا: خاوَذْتُه، إذا خالفْتَه. وقال بعضهم: خاوذتُه وافَقْتُه. ويقولون: إنّ خِواذَ الحمَّى أن تأتِىَ فى وقتٍ غير معلوم.",
- "az": "[خوذ] الخاء والواو والذال (Xar, vav və zal) — müntəzəm davam edən əsas deyildir və ona əsasən qiyas olunmur. Burada yalnız təfsirində ixtilaf edilən bir kəlmə vardır. Dedilər: xəvəztuhu (خاوَذْتُه) — ona müxalif oldum. Bəziləri isə dedilər: xəvəztuhu — ona müvafiq oldum. Və deyirlər ki, qızdırmanın xıvazı (خِواذَ الحمَّى) — onun bəlli olmayan vaxtda gəlməsidir.",
+ "az": "[خوذ] xa, vav və zal müntəزəm bir əsas deyildir və ona əsasən qiyas olunmur. Burada yalnız mənasında ixtilaf edilmiş tək bir kəlmə vardır. Dedilər: «خاوَذْتُه» — ona müxalif oldum. Bəziləri isə dedilər: «خاوذته» — onunla razılaşdım. Və deyirlər ki, «خِواذَ الحمَّى» — qızdırmanın bəlli olmayan vaxtda gəlməsidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:13:06.497Z"
+ "ts": "2026-10-25T01:13:06.497Z",
+ "prev_az": "[خوذ] الخاء والواو والذال (Xar, vav və zal) — müntəzəm davam edən əsas deyildir və ona əsasən qiyas olunmur. Burada yalnız təfsirində ixtilaf edilən bir kəlmə vardır. Dedilər: xəvəztuhu (خاوَذْتُه) — ona müxalif oldum. Bəziləri isə dedilər: xəvəztuhu — ona müvafiq oldum. Və deyirlər ki, qızdırmanın xıvazı (خِواذَ الحمَّى) — onun bəlli olmayan vaxtda gəlməsidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərflərinin adı yanlış yazılmışdır («xa» yerinə «Xar»)."
+ ],
+ "review_ts": "2026-11-16T19:47:11.152Z"
 }

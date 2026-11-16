@@ -11,7 +11,17 @@
   "page_to": 97
  },
  "ar": "الحاء واللام والطاء أصلٌ واحد: وهو الاجتهاد فى الشئ بحلفٍ أو ضجَر (٣). ويقال أحلط، إذا اجتَهد وحَلَف. قال ابنُ أحمر:\nفكُنَّا وهم كابنَىْ سُباتٍ تفرَّقا … سِوًى ثم كانا مُنْجِداً وتَهامِيَا\nفألقى التِّهامِى منهما بلَطَاتِه … وأحلَطَ هذا: لا أَريمُ مَكانيا\nو «لا أعود ورائيا (٤)».\nومن الباب قولهم: «أوّل العِىّ الاختلاط، وأسوأ القول الإفراط (٥)».\nفالاختلاط: الغضَب.",
- "az": "«حلط» (hələt): الحاء واللام والطاء أصلٌ واحد (Hə, lam və ta tək bir kökdür): وهو الاجتهاد فى الشئ بحلفٍ أو ضجَر (٣) (və o da bir şeydə and içərək və ya narahatlıqla çalışmaqdır). ويقال أحلط، إذا اجتَهد وحَلَف (və əhlət deyilir, çalışıb and içdiyi zaman). قال ابنُ أحمر (İbn əhmər demişdir): فَكُنَّا وهم كابنَىْ سُباتٍ تفرَّقا … سِوًى ثم كانا مُنْجِداً وتَهامِيَا فألقى التِّهامِى منهما بلَطَاتِه … وأحلَطَ هذا: لا أَريمُ مَكانيا و «لا أعود ورائيا (٤)» (Biz və onlar iki qardaş kimi idik, ayrıldılar… sonra biri Nəcdə, biri Tihaməyə went… İkisi də öz yerini tutdu… və bu əhlət etdi: yerimdən tərpənməyəcəm və arxaya qayıtmayacağam). ومن الباب قولهم (Və babdəndir onların sözü): «أوّل العِىّ الاختلاط، وأسوأ القول الإفراط (٥)» («Acizliyin əvvəli qarışıqlıq, sözün ən pisi isə həddi aşmaqdır»). فالاختلاط: الغضَب (və qarışıqlıq: qəzəbdir).",
+ "az": "[حلط]\nHa, lam və ta tək bir kökdür: o da bir işdə and içərək və ya sıxıntı (qəzəb) ilə səy göstərməkdir (٣). Səy göstərib and içdikdə أحلط (əhlətə) deyilir. İbn Əhmər demişdir:\nفكُنَّا وهم كابنَىْ سُباتٍ تفرَّقا … سِوًى ثم كانا مُنْجِداً وتَهامِيَا\nفألقى التِّهامِى منهما بلَطَاتِه … وأحلَطَ هذا: لا أَريمُ مَكانيا\nو «لا أعود ورائيا (٤)» (Biz və onlar Subatın bərabər ayrılan iki oğlu kimi idik; sonra biri Nəcdə, biri isə Tihaməyə getdi. Onlardan Tihaməyə gedən yükünü yerə qoyub qərar tutdu, bu biri isə and içib israr etdi ki: «Yerimdən tərpənmərəm və arxaya qayıtmaram»).\nBu babdandır onların sözü: «أوّل العِىّ الاختلاط، وأسوأ القول الإفراط (٥)» («Acizliyin əvvəli qəzəb/qarışıqlıq, sözün ən pisi isə həddi aşmaqdır»).\nالاختلاط (ixtilat): qəzəb deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:02:59.121Z"
+ "ts": "2026-10-25T01:02:59.121Z",
+ "prev_az": "«حلط» (hələt): الحاء واللام والطاء أصلٌ واحد (Hə, lam və ta tək bir kökdür): وهو الاجتهاد فى الشئ بحلفٍ أو ضجَر (٣) (və o da bir şeydə and içərək və ya narahatlıqla çalışmaqdır). ويقال أحلط، إذا اجتَهد وحَلَف (və əhlət deyilir, çalışıb and içdiyi zaman). قال ابنُ أحمر (İbn əhmər demişdir): فَكُنَّا وهم كابنَىْ سُباتٍ تفرَّقا … سِوًى ثم كانا مُنْجِداً وتَهامِيَا فألقى التِّهامِى منهما بلَطَاتِه … وأحلَطَ هذا: لا أَريمُ مَكانيا و «لا أعود ورائيا (٤)» (Biz və onlar iki qardaş kimi idik, ayrıldılar… sonra biri Nəcdə, biri Tihaməyə went… İkisi də öz yerini tutdu… və bu əhlət etdi: yerimdən tərpənməyəcəm və arxaya qayıtmayacağam). ومن الباب قولهم (Və babdəndir onların sözü): «أوّل العِىّ الاختلاط، وأسوأ القول الإفراط (٥)» («Acizliyin əvvəli qarışıqlıq, sözün ən pisi isə həddi aşmaqdır»). فالاختلاط: الغضَب (və qarışıqlıq: qəzəbdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirin tərcüməsində ingilis dilində «went» sözü qalmış, «فكُنَّا» sözünə mənbədə olmayan hərəkə əlavə edilmiş, «سِوًى» buraxılmış və «فألقى التِّهامِى منهما بلَطَاتِه» misrası yanlış tərcümə olunmuşdur.",
+  "Mətndə «babdəndir» orfoqrafiya səhvi var və tərcümə [حلط] formatına, abzas bölgüsünə uyğun deyil."
+ ],
+ "review_ts": "2026-11-16T18:47:15.453Z"
 }

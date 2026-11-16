@@ -13,5 +13,10 @@
  "ar": "الحاء والفاء والتاء ليس أصلاً، والكلام فيه يقِلُّ فالحَفَيْتَأْ: الرّجل القصير.",
  "az": "«حفت» (həfət): Haa, fa və tə heç bir əsas deyil və onda kəlam azdır. «الحَفَيْتَأْ» (əl-həfeytə') — qısa kişi.",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:02:08.982Z"
+ "ts": "2026-10-25T01:02:08.982Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-16T18:54:37.986Z"
 }

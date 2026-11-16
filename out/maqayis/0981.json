@@ -11,7 +11,18 @@
   "page_to": 124
  },
  "ar": "الحاء والياء والسين أصلٌ واحد، وهو الخليط. قال أبو بكر: حسْتُ الحبْلَ إذا فتَلْتَه، أَحِيسُه حَيْسا. وهذا أصلٌ لما ذكرناه، لأنه إذا فتلَه تداخلَتْ قواه وتخالَطت. والحَيْس معروفٌ، وهو من الباب، لأنه أشياءِ تُخْلَط. قال أبو عُبيدٍ فيما رواه، للذى أحدَقَتْ به الإماء من كل وجهٍ، محيوس.\nقال: شُبّه بالحَيْس.",
- "az": "[حيس] (heys) - Ha, ya və sin tək bir kökə malikdir ki, o da qarışıq deməkdir. Əbu Bəkr demişdir: «حَسْتُ الحبْلَ» — ipi büktüyün zaman «أَحِيسُه حَيْسا» (onu bükərəm). Bu, qeyd etdiyimiz məna üçün bir əsasdır; çünki onu büktükdə gücləri bir-birinə qarışır və qatışır. «الحَيْس» məlum yeməkdir, bu fasildəndir, çünki o, qarışdırılan şeylərdir. Əbu Übeyd rəvayət etdiyi sözdə, kənarlarından cariyələrin əhatə etdiyi şəxs barədə demişdir: «محيوس» (qarışdırılmış/çaşqın). O demişdir: «الحَيْس»ə bənzədilmişdir.",
+ "az": "[حيس]\nHa, ya və sin tək bir əsas kökdür, o da qarışıqdır. Əbu Bəkr demişdir: İpi büktüyün zaman حسْتُ الحبْلَ أَحِيسُه حَيْسا (ipi bükürəm) deyilir. Bu, qeyd etdiyimiz məna üçün bir əsasdır, çünki ipi büktükdə onun telləri (qatları) bir-birinə keçir və qarışır. Məlum yemək olan الحَيْس də bu babdandır, çünki o, qarışdırılan şeylərdən ibarətdir. Əbu Ubeyd rəvayət etdiyi bir sözdə hər tərəfdən cariyələrin əhatəyə aldığı kimsəyə محيوس deyildiyini nəql etmişdir.\nO demişdir: O, الحَيْس yeməyinə bənzədilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:49.134Z"
+ "ts": "2026-10-25T01:04:49.134Z",
+ "prev_az": "[حيس] (heys) - Ha, ya və sin tək bir kökə malikdir ki, o da qarışıq deməkdir. Əbu Bəkr demişdir: «حَسْتُ الحبْلَ» — ipi büktüyün zaman «أَحِيسُه حَيْسا» (onu bükərəm). Bu, qeyd etdiyimiz məna üçün bir əsasdır; çünki onu büktükdə gücləri bir-birinə qarışır və qatışır. «الحَيْس» məlum yeməkdir, bu fasildəndir, çünki o, qarışdırılan şeylərdir. Əbu Übeyd rəvayət etdiyi sözdə, kənarlarından cariyələrin əhatə etdiyi şəxs barədə demişdir: «محيوس» (qarışdırılmış/çaşqın). O demişdir: «الحَيْس»ə bənzədilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«قواه» sözü «telləri/qatları» mənasındadır, «gücləri» kimi səhv tərcümə edilmişdir.",
+  "«fasildəndir» əvəzinə «babdandır» yazılmalıdır.",
+  "Son cümlə natamam və rabitəsiz tərcümə edilib."
+ ],
+ "review_ts": "2026-11-16T19:16:12.853Z"
 }

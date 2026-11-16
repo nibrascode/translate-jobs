@@ -11,7 +11,18 @@
   "page_to": 122
  },
  "ar": "الحاء والياء والحرف المعتل أصلان: أحدهما خِلاف المَوْت، والآخر الاستحياء الذى [هو] ضِدُّ الوقاحة.\nفأمّا الأوّل فالحياة والحَيَوان، وهو ضِدُّ الموت والمَوَتَان. ويسمَّى المطرُ حياً لأنّ به حياةَ الأرض. ويقال ناقةٌ مُحْى ومُحْيِيَةٌ: لا يكادُ يموت لها ولد.\nوتقول: أتيتُ الأرضَ فأحييْتُها، إذا وجَدْتَها حَيَّةَ النّباتِ غَضَّة.\nوالأصل الآخَر: قولهم استحييت منه استِحياءً. وقال أبو زيد: حَيِيتُ مِنه أحيا، إذا استحيَيْتَ. فأمَّا حَياء النّاقة، وهو فَرْجُها، فيمكن أن يكون من هذا، كأنَّه محمولٌ على أنَّه لو كان ممن يستحيى (١) لكان يستحيى من ظهوره وتكشفُّه.",
- "az": "[حي] الحاء, Yə və uzanan hərf iki əsas kökə malikdir: biri ölümün əksi olan həyat, diğəri isə həyasızlığın əksi olan həyadır. Birinciyə gəldikdə, o, الحياة (əl-həyəh) və الحَيَوان (əl-həyəvən) olub, ölümün və cansızlığın əksidir. Yağışa حَيّ (həyy) deyilir, çünki yerin həyatı onunla kəsilməz. Deyilir ki, ناقةٌ مُحْى ومُحْيِيَةٌ (naqətün muhy və muhyiyəh) – elə dəvədir ki, balası demək olar ki, heç ölmür. Sən deyirsən: أتيتُ الأرضَ فأحييْتُها (ətیتül-ərdə fə-əhyiytuhə) – torpağa gəldim və gördüm ki, bitkisi canlı və təravətlidir. Digər əsas kök isə onların استحييت منه استِحياءً (istəhyiytü minhu istihyən) sözüdür. Əbu Zeyd demişdir: حَيِيتُ مِنه أحيا (həyiytü minhu əhyə) – həya etdiyin zaman belə deyilir. Dəvənin cinsiyyət orqanı olan حَياء (həyə) gəldikdə isə, ola bilər ki, bu da həmin kökdəndir, sanki o, belə bir mülahizəyə əsaslanır ki, əgər həya edən varlıqlardan olsaydı, onun üzə çıxmasından və açılıb görünməsindən həya edərdi (1).",
+ "az": "[حي]\nHa, ya və illət hərfi iki əsas kökdür: biri ölümün əksi, digəri isə həyasızlığın əksi olan həyadır.\nBirinciyə gəldikdə, الحياة (həyat) və الحَيَوان (canlılıq/həyat) ölümün və cansızlığın (المَوَتَان) əksidir. Yağışa da حيا deyilir, çünki yerin həyatı onunladır. Deyilir: ناقةٌ مُحْى ومُحْيِيَةٌ (balası demək olar ki, ölməyən dişi dəvə).\nDeyirsən: أتيتُ الأرضَ فأحييْتُها (torpağa gəldim və onun bitkilərini canlı və təravətli gördüm).\nDigər əsas kök isə: onların استحييت منه استِحياءً (ondan həya etdim) sözüdür. Əbu Zeyd demişdir: حَيِيتُ مِنه أحيا (həya etdiyin zaman deyilir). Dəvənin cinsiyyət üzvü olan حَياء sözünə gəldikdə isə, ola bilsin ki, bu kökdəndir; sanki o, həya edən bir varlıq olsaydı, onun üzə çıxıb açılmasından həya edərdi (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:27.843Z"
+ "ts": "2026-10-25T01:04:27.843Z",
+ "prev_az": "[حي] الحاء, Yə və uzanan hərf iki əsas kökə malikdir: biri ölümün əksi olan həyat, diğəri isə həyasızlığın əksi olan həyadır. Birinciyə gəldikdə, o, الحياة (əl-həyəh) və الحَيَوان (əl-həyəvən) olub, ölümün və cansızlığın əksidir. Yağışa حَيّ (həyy) deyilir, çünki yerin həyatı onunla kəsilməz. Deyilir ki, ناقةٌ مُحْى ومُحْيِيَةٌ (naqətün muhy və muhyiyəh) – elə dəvədir ki, balası demək olar ki, heç ölmür. Sən deyirsən: أتيتُ الأرضَ فأحييْتُها (ətیتül-ərdə fə-əhyiytuhə) – torpağa gəldim və gördüm ki, bitkisi canlı və təravətlidir. Digər əsas kök isə onların استحييت منه استِحياءً (istəhyiytü minhu istihyən) sözüdür. Əbu Zeyd demişdir: حَيِيتُ مِنه أحيا (həyiytü minhu əhyə) – həya etdiyin zaman belə deyilir. Dəvənin cinsiyyət orqanı olan حَياء (həyə) gəldikdə isə, ola bilər ki, bu da həmin kökdəndir, sanki o, belə bir mülahizəyə əsaslanır ki, əgər həya edən varlıqlardan olsaydı, onun üzə çıxmasından və açılıb görünməsindən həya edərdi (1).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الحرف المعتل» ifadəsi «uzanan hərf» kimi deyil, «illət hərfi» kimi tərcümə olunmalıdır.",
+  "«لأن به حياة الأرض» cümləsi «çünki yerin həyatı onunla kəsilməz» şəklində təhrif olunub; doğrusu: «çünki yerin dirilməsi (həyatı) onunladır».",
+  "Haşiyə rəqəmi ərəb qrafikası ilə (١) saxlanılmalıdır."
+ ],
+ "review_ts": "2026-11-16T19:16:12.852Z"
 }

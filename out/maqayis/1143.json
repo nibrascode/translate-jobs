@@ -11,7 +11,16 @@
   "page_to": 223
  },
  "ar": "الخاء والنون والسين أصلٌ واحد يدلُّ على استخفاء وتستُّر. قالوا: الخَنْس الذهاب فى خِفْية. يقال خَنَسْتُ عنه. وأخْنَسْتُ عنه حقَّه.\nوالخُنَّس: النُّجوم تَخْنِس فى المَغِيب. وقال قوم: سُمِّيت بذلك لأنّها تَخفِى نهاراً وتطلُع ليلا. والخنّاس فى صِفة الشَّيطان؛ لأنّه يَخْنِسُ إذا ذُكر اللّه تعالى. ومن هذا الباب الخَنَسُ فى الأنف. انحِطاط القصَبة. والبقرُ كلُّها خُنْسٌ.",
- "az": "[خنس] الخاء والنون والسين أصلٌ واحد (Xar, nun və sin bir əsasdır) — gizlənməyə və örtünməyə dəlalət edir. Dedilər: الخَنْس (əl-xəns) — gizlicə getməkdir. Deyilir: خَنَسْتُ عنه (xənəttu ənhu) — ondan gizləndim. Və أخْنَسْتُ عنه حقَّه (əxnəttu ənhu həqqəhu) — onun haqqını ondan gizlədim/əskirtdim. Və الخُنَّس (əl-xunnəs) — qeyb olarkən geri çəkilən ulduzlar. Bir qrup adam demişdir: Onlar belə adlanmışdır, çünki gündüz gizlənir, gecə isə çıxırlar. Şeytanın sifətindəki əl-xənnas (الخنّاس) — çünki Uca Allah zikr olunduqda geri çəkilir (gizlənir). Bu babdandır burnun خَنَس (xənəs) olması — burun sümüyünün çöküklüyü. Və bütün inəklər خُنْسٌ (xuns) -dirlər.",
+ "az": "[خنس] الخاء والنون والسين أصلٌ واحد (xa, nun və sin bir əsasdır) — gizlənməyə və örtünməyə dəlalət edir. Dedilər: الخَنْس — gizlicə getməkdir. Deyilir: خَنَسْتُ عنه — ondan gizləndim. Və أخْنَسْتُ عنه حقَّه — onun haqqını ondan gizlədim (əskirtdim). Və الخُنَّس — batarkən gizlənən ulduzlar. Bir qrup adam demişdir: Onlar belə adlanmışdır, çünki gündüz gizlənir, gecə isə çıxırlar. Şeytanın sifətindəki الخنّاس — çünki Uca Allah zikr olunduqda geri çəkilir. Bu babdandır burnun خَنَس olması — burun sümüyünün çöküklüyü. Və bütün inəklər خُنْسٌ-dirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:13:06.496Z"
+ "ts": "2026-10-25T01:13:06.496Z",
+ "prev_az": "[خنس] الخاء والنون والسين أصلٌ واحد (Xar, nun və sin bir əsasdır) — gizlənməyə və örtünməyə dəlalət edir. Dedilər: الخَنْس (əl-xəns) — gizlicə getməkdir. Deyilir: خَنَسْتُ عنه (xənəttu ənhu) — ondan gizləndim. Və أخْنَسْتُ عنه حقَّه (əxnəttu ənhu həqqəhu) — onun haqqını ondan gizlədim/əskirtdim. Və الخُنَّس (əl-xunnəs) — qeyb olarkən geri çəkilən ulduzlar. Bir qrup adam demişdir: Onlar belə adlanmışdır, çünki gündüz gizlənir, gecə isə çıxırlar. Şeytanın sifətindəki əl-xənnas (الخنّاس) — çünki Uca Allah zikr olunduqda geri çəkilir (gizlənir). Bu babdandır burnun خَنَس (xənəs) olması — burun sümüyünün çöküklüyü. Və bütün inəklər خُنْسٌ (xuns) -dirlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«xa» hərf adı «Xar» kimi səhv yazılmışdır."
+ ],
+ "review_ts": "2026-11-16T19:47:13.843Z"
 }

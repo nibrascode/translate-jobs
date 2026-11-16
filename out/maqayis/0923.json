@@ -11,7 +11,19 @@
   "page_to": 92
  },
  "ar": "الحاء والكاف وما بعدها معتلٌّ أصلٌ واحد، وفيه جنس من المهموز يقاربُ معنى المعتلّ والمهموز منه، هو إحكام الشئ بعَقْدٍ أو تقرير.\nيقال حَكَيْتُ الشئَ أحْكيه، وذلك أن تفعلَ مثلَ فعل الأوّل. يقال فى المهموز:\nأحْكَأْت العُقدة، إذا أحكمتَها. ويقال: أحكأتُ ظَهْرِى بإزارى، إذا شددتَه.\nقال عدىّ:\nأجْلِ أنّ اللّه قد فضّلكم … فوق مَنْ أحْكأ صُلْباً بإزارِ (٢)\nوقال آخر:\nوأحْكَأَ فى كَفَّىَّ حَبْلى بِحبْلِهِ … وأَحْكَأَ فى نعلى للرجلٍ قِبَالَهَا (٣)",
- "az": "«حكى» (bənzətmək, təqlid etmək). Ḥa, kaf və zəif hərf bir əsl olub, orada müəlləq/zəif mənalara yaxınlaşan həmzəli növlər də vardır; o da bir şeyi düyün və ya qəti qərarla möhkəmlətməkdir. «حَكَيْتُ الشئَ أحْكيه» (Bir şeyə bənzətdim, onu təkrar edirəm) deyilir, bu da birincinin etdiyini etməyindir. Həmzəli formalarda deyilir: «أحْكَأْت العُقدة» (düyünü möhkəmlatdim), onu möhkəm etdiyin zaman. Və deyilir: «أحكأتُ ظَهْرِى بإزارى» (belimi izarımla möhkəmlatdim), onu bağladığın zaman. \nAdiy demişdir:\nأجْلِ أنّ اللّه قد فضّلكم … فوق مَنْ أحْكأ صُلْباً بإزارِ (٢)\n(Buna görə ki, Allah sizi üstün etmişdir … izarla belini möhkəmlədən hər kəsdən üstün).\nBaşqası da demişdir:\nوأحْكَأَ فى كَفَّىَّ حَبْلى بِحبْلِهِ … وأَحْكَأَ فى نعلى للرجلٍ قِبَالَهَا (٣)\n(Və o, mənim əlimdə ipimi ipinə bağlayıb möhkəmlətdi … və ayaqqabımın qayışını ayağım üçün bərkitdi).",
+ "az": "[حكى] (bənzətmək, təqlid etmək). Ha, kaf və ondan sonra gələn illətli (zəif) hərf bir əsldir. Onda illətlinin mənasına yaxın olan həmzəli bir növ də vardır və həmzəli olanı bir şeyi düyün və ya bərkitməklə möhkəmlətməkdir.\n«حَكَيْتُ الشئَ أحْكيه» (Bir şeyi təqlid etdim, onu təqlid edirəm) deyilir, bu da birincinin etdiyi işin eynisini etməyindir. Həmzəli növdə deyilir:\n«أحْكَأْت العُقدة» (Düyünü möhkəmlətdim), onu möhkəm etdiyin zaman. Və deyilir: «أحكأتُ ظَهْرِى بإزارى» (Belimi izarımla bərkitdim), onu sıx bağladığın zaman.\nƏdiyy demişdir:\nأجْلِ أنّ اللّه قد فضّلكم … فوق مَنْ أحْكأ صُلْباً بإزارِ (٢)\n(Ona görə ki, Allah sizi üstün etmişdir ... belini izarla bərkidən hər kəsdən üstün).\nBaşqası da demişdir:\nوأحْكَأَ فى كَفَّىَّ حَبْلى بِحبْلِهِ … وأَحْكَأَ فى نعلى للرجلٍ قِبَالَهَا (٣)\n(Və o, ovuclarımda ipimi onun ipinə möhkəm bağladı ... və ayağım üçün səndəlimin qayışını bərkitdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:02:33.899Z"
+ "ts": "2026-10-25T01:02:33.899Z",
+ "prev_az": "«حكى» (bənzətmək, təqlid etmək). Ḥa, kaf və zəif hərf bir əsl olub, orada müəlləq/zəif mənalara yaxınlaşan həmzəli növlər də vardır; o da bir şeyi düyün və ya qəti qərarla möhkəmlətməkdir. «حَكَيْتُ الشئَ أحْكيه» (Bir şeyə bənzətdim, onu təkrar edirəm) deyilir, bu da birincinin etdiyini etməyindir. Həmzəli formalarda deyilir: «أحْكَأْت العُقدة» (düyünü möhkəmlatdim), onu möhkəm etdiyin zaman. Və deyilir: «أحكأتُ ظَهْرِى بإزارى» (belimi izarımla möhkəmlatdim), onu bağladığın zaman. \nAdiy demişdir:\nأجْلِ أنّ اللّه قد فضّلكم … فوق مَنْ أحْكأ صُلْباً بإزارِ (٢)\n(Buna görə ki, Allah sizi üstün etmişdir … izarla belini möhkəmlədən hər kəsdən üstün).\nBaşqası da demişdir:\nوأحْكَأَ فى كَفَّىَّ حَبْلى بِحبْلِهِ … وأَحْكَأَ فى نعلى للرجلٍ قِبَالَهَا (٣)\n(Və o, mənim əlimdə ipimi ipinə bağlayıb möhkəmlətdi … və ayaqqabımın qayışını ayağım üçün bərkitdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«معتلّ» sözü «müəlləq» kimi səhv tərcümə edilib, «تقرير» isə «qəti qərar» kimi verilib.",
+  "Cümlənin mənası («يقاربُ معنى المعتلّ والمهموز منه») qarışıq və natamam tərcümə edilib.",
+  "Orfoqrafik səhv var («möhkəmlatdim»).",
+  "«حَكَيْتُ» feili mətnin kontekstinə uyğun olaraq «təqlid etdim» kimi verilməli idi."
+ ],
+ "review_ts": "2026-11-16T18:45:30.808Z"
 }

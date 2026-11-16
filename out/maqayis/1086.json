@@ -11,7 +11,16 @@
   "page_to": 184
  },
  "ar": "الخاء والشين و* النون أصلٌ واحد، وهو خلافُ اللِّين.\nيقال شئٌ خَشِنٌ. ولا يكادُون يقولون فى الحجَر إلاَّ الأخْشَن. قال:\n* [و] الحجرُ الأخْشَنُ والثِّنَايَهْ (٢) *\nواخشَوْشَنَ الرَّجُل، إذا تماتَنَ وترك التُّرْفَةَ. وكتيبة خشناءُ، أى كثيرة السِّلاح.",
- "az": "[خشن] الخاء والشين و* النون أصلٌ واحد، وهو خلافُ اللِّين. (Xar, şin və nun hərfləri tək bir kök olub, yumşaqlığın əksidir.) \n\nيقال شئٌ خَشِنٌ. ولا يكادُون يقولون فى الحجَر إلاَّ الأخْشَن. قال: (Deyilir ki, şey xəşindir (sərt, nahamardır). Onlar daş haqqında demək olar ki, ancaq əxşən (daha sərt) deyirlər. O demişdir:) \n* [و] الحجرُ الأخْشَنُ والثِّنَايَهْ (٢) * ([Və] sərt daş və sığınacaq...) \n\nواخشَوْشَنَ الرَّجُل، إذا تماتَنَ وترك التُّرْفَةَ. وكتيبة خشناءُ، أى كثيرة السِّلاح. (Kişi ixtəuşən oldu — bədəni gücləndikdə və naz-neəməti tərk etdikdə. Xəşna dəstə — yəni silahı çox olan dəstə.)",
+ "az": "[خشن] Xa, şin və nun tək bir kökdür, yumşaqlığın əksidir.\n\nDeyilir: شئٌ خَشِنٌ (sərt, nahamar şey). Daş haqqında isə demək olar ki, yalnız الأخْشَن (əl-əxşən) deyirlər. Şair demişdir:\n* [و] الحجرُ الأخْشَنُ والثِّنَايَهْ (٢) *\n([Və] sərt daş və istisna...)\n\nVə اخشَوْشَنَ الرَّجُل — kişi bədənini bərkitdikdə və naz-neməti tərk etdikdə deyilir. وكتيبة خشناءُ — yəni silahı çox olan qoşun dəstəsidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:26.357Z"
+ "ts": "2026-10-25T01:09:26.357Z",
+ "prev_az": "[خشن] الخاء والشين و* النون أصلٌ واحد، وهو خلافُ اللِّين. (Xar, şin və nun hərfləri tək bir kök olub, yumşaqlığın əksidir.) \n\nيقال شئٌ خَشِنٌ. ولا يكادُون يقولون فى الحجَر إلاَّ الأخْشَن. قال: (Deyilir ki, şey xəşindir (sərt, nahamardır). Onlar daş haqqında demək olar ki, ancaq əxşən (daha sərt) deyirlər. O demişdir:) \n* [و] الحجرُ الأخْشَنُ والثِّنَايَهْ (٢) * ([Və] sərt daş və sığınacaq...) \n\nواخشَوْشَنَ الرَّجُل، إذا تماتَنَ وترك التُّرْفَةَ. وكتيبة خشناءُ، أى كثيرة السِّلاح. (Kişi ixtəuşən oldu — bədəni gücləndikdə və naz-neəməti tərk etdikdə. Xəşna dəstə — yəni silahı çox olan dəstə.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərf adı «الخاء» səhvən «Xar» kimi verilmişdir."
+ ],
+ "review_ts": "2026-11-16T19:38:39.098Z"
 }

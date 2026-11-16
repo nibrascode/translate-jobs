@@ -11,7 +11,17 @@
   "page_to": 177
  },
  "ar": "الخاء والزاء والفاء ليس بشئِ. فالخَزَفُ هذا المعروفُ، ولسنا ندرى أعربىٌّ هو أمْ لا. قال ابنُ دريد (٣): الخَزْف الخَطْر باليَد عند المشْى. وهذا من أعاجيب أبى بَكر.\nخزقَ\nالخاء والزاء والقاف أصلٌ، وهو يدلُّ على نَفاذِ الشَّئ المرمِىّ به أو اتزازِه. فالخازِق من السّهام المُقَرْطِس، وهو الذى يرتَزّ فى قِرطاسه وخَزَق الطّائر: دَرَق. والخَزْق: الطَّعْن. والقياس واحد.",
- "az": "[خزف] (خ, ز, ف): Heç bir əsası yoxdur. خَزَف (xəzəf) - bu tanınan şeydir, onun ərəb mənşəli olub-olmamasını bilmirik. İbn Dürid (٣) demişdir: خَزْف (xəzv) - gəzərkən əli yelləməkdir. Bu, Əbu Bəkrin təəccüblü sözlərindəndir.\n\nخزق (خ, ز, ق): Bir əsasdır, atılan şeyin deşib keçməsinə və ya sancılmasına dəlalət edir. Oxlardan المُقَرْطِس (əl-müqərtis) olan خازِq (xaziq) - hədəfə dəqiq sancılan oxdur. خَزَقَ الطائرُ (xəqə ət-tair): (quş) qanad çalaraq uçdu. وَالْخَزْق (əl-xəzq): sancmaqdır. Ölçü (qayda) birdir.",
+ "az": "[خزف] xa, za və fa heç bir kök əsası deyil. «الخَزَفُ» məlum olan bu saxsıdır, onun ərəbcə olub-olmadığını bilmirik. İbn Dürəyd (٣) demişdir: «الخَزْف» – yeriyərkən əli yelləməkdir. Bu da Əbu Bəkrin təəccüblü sözlərindəndir.\n[خزق] xa, za və qaf atılan şeyin deşib keçməsinə və ya sancılmasına dəlalət edən bir kökdür. Oxlardan hədəfə dəyənə «الخازِق» deyilir, bu da lövhəyə (hədəfə) sancılan oxdur. «خَزَق الطّائر: دَرَق» – quş zılınladı (peyinlədi). «الخَزْق» – sancmaq, vurmaqdır. Qiyas birdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:01.278Z"
+ "ts": "2026-10-25T01:09:01.278Z",
+ "prev_az": "[خزف] (خ, ز, ف): Heç bir əsası yoxdur. خَزَف (xəzəf) - bu tanınan şeydir, onun ərəb mənşəli olub-olmamasını bilmirik. İbn Dürid (٣) demişdir: خَزْف (xəzv) - gəzərkən əli yelləməkdir. Bu, Əbu Bəkrin təəccüblü sözlərindəndir.\n\nخزق (خ, ز, ق): Bir əsasdır, atılan şeyin deşib keçməsinə və ya sancılmasına dəlalət edir. Oxlardan المُقَرْطِس (əl-müqərtis) olan خازِq (xaziq) - hədəfə dəqiq sancılan oxdur. خَزَقَ الطائرُ (xəqə ət-tair): (quş) qanad çalaraq uçdu. وَالْخَزْق (əl-xəzq): sancmaqdır. Ölçü (qayda) birdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«خَزَقَ الطّائر: دَرَق» cümləsi yanlış tərcümə edilmişdir (quşun peyinləməsi/zılınlaması deməkdir).",
+  "Transliterasiyada və ərəbcə mətndə hərəkə uyğunsuzluğu var."
+ ],
+ "review_ts": "2026-11-16T19:37:26.753Z"
 }

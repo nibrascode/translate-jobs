@@ -11,7 +11,17 @@
   "page_to": 208
  },
  "ar": "الخاء واللام والسنين أصلٌ واحد، وهو الاختطاف والالتماع.\nيقال اختلَسْتُ الشَّئَ. و\nفى الحديث: «لا قَطْعَ فى الخُلْسَة». وقولهم: أَخْلَسَ رأسُه، إذا خالَطَ سوادَه البياضُ، كأنَّ السوادَ اخْتُلِس منه فصارَ لَمُعاً. وكذلك أخْلَسَ النّبتُ، إذا اختلط يابسُه برطْبِه.",
- "az": "[خلس] الخاء واللام والسنين أصلٌ واحد (Xar, lam və sin hərfləri tək bir əsas mənadır), وهو الاختطاف والالتماع (ki, o da qamçılamaq, qaçırmaq və parıldamaqdır). يقال اختلَسْتُ الشَّئَ (Deyilir: ixtələstüş-şəyə - mən o şeyi oğurlayıb qaçırdım). و فى الحديث (Hədisdə gəlmişdir): «لا قَطْعَ فى الخُلْسَة» («Xulsə zamanı əl kəsmək yoxdur»). وقولهم: أَخْلَسَ رأسُه (Onların «əxləsə rasuhu» sözü), إذا خالَطَ سوادَه البياضُ (əgər onun qara saçına ağlıq qarışdısa), كأنَّ السوادَ اخْتُلِس منه فصارَ لَمُعاً (elə bil ki, qara rəng ondan oğurlanmış və parlaqlığa çevrilmişdir). وكذلك أخْلَسَ النّبتُ (Həmçinin bitki əxləsə), إذا اختلط يابسُه برطْبِه (əgər onun quru hissəsi yaş hissəsinə qarışdısa).",
+ "az": "[خلس] Xa, lam və sin hərfləri bir əsas mənadır, o da birdən qapıb götürmək və parıldamaqdır. Deyilir: «şeyi qapıb götürdüm» (اختلست الشيء). Hədisdə gəlmişdir: «لا قطع في الخلسة» («Qapıb qaçırmada [xulsə] əl kəsilməz»). Onların «başına dən düşdü, ağardı» (أخلس رأسُه) sözü, əgər onun qara saçına ağlıq qarışarsa, sanki qara rəng ondan qapılıb götürülmüş və parıltıya çevrilmişdir. Həmçinin «bitki saralmağa başladı» (أخلس النبتُ), əgər onun quru hissəsi yaş hissəsinə qarışarsa.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:10:48.240Z"
+ "ts": "2026-10-25T01:10:48.240Z",
+ "prev_az": "[خلس] الخاء واللام والسنين أصلٌ واحد (Xar, lam və sin hərfləri tək bir əsas mənadır), وهو الاختطاف والالتماع (ki, o da qamçılamaq, qaçırmaq və parıldamaqdır). يقال اختلَسْتُ الشَّئَ (Deyilir: ixtələstüş-şəyə - mən o şeyi oğurlayıb qaçırdım). و فى الحديث (Hədisdə gəlmişdir): «لا قَطْعَ فى الخُلْسَة» («Xulsə zamanı əl kəsmək yoxdur»). وقولهم: أَخْلَسَ رأسُه (Onların «əxləsə rasuhu» sözü), إذا خالَطَ سوادَه البياضُ (əgər onun qara saçına ağlıq qarışdısa), كأنَّ السوادَ اخْتُلِس منه فصارَ لَمُعاً (elə bil ki, qara rəng ondan oğurlanmış və parlaqlığa çevrilmişdir). وكذلك أخْلَسَ النّبتُ (Həmçinin bitki əxləsə), إذا اختلط يابسُه برطْبِه (əgər onun quru hissəsi yaş hissəsinə qarışdısa).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Səhv hərf adı verilmişdir («Xar» əvəzinə «Xa»).",
+  "Mətnə «qamçılamaq» kimi uydurma söz əlavə olunmuşdur."
+ ],
+ "review_ts": "2026-11-16T19:42:42.497Z"
 }

@@ -13,5 +13,7 @@
  "ar": "الخاء والصاد والنون ليس أصلاً. وفيه كلمةٌ واحدة إن صَحَّت. قالوا: الخَصِين: الفأس الصَّغيرة.",
  "az": "[خصن] الخاء والصاد والنون ليس أصلاً. وفيه كلمةٌ واحدة إن صَحَّت. قالوا: الخَصِين: الفأس الصَّغيرة. (Xar, sad və nun hərfləri əsl deyildir. Əgər düzgündürsə, onda bir kəlmə vardır. Dedilər ki: əl-xəsin — kiçik balta.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:26.357Z"
+ "ts": "2026-10-25T01:09:26.357Z",
+ "review_attempts": 1,
+ "review_last_error": "qısa (119 < 216)"
 }

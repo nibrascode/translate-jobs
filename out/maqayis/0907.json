@@ -11,7 +11,16 @@
   "page_to": 86
  },
  "ar": "الحاء والفاء والسين ليس أصلا. يقال للرجل القصير حيفس (٣).",
- "az": "«حفس» (həfəs): Haa, fa və sin əsas deyil. Qısa kişiyə «حيفس» (həyfəs) deyilir.",
+ "az": "[حفس]\nHa, fa və sin əsas deyil. Qısa kişiyə حيفس (həyfəs) deyilir (٣).",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:02:08.982Z"
+ "ts": "2026-10-25T01:02:08.982Z",
+ "prev_az": "«حفس» (həfəs): Haa, fa və sin əsas deyil. Qısa kişiyə «حيفس» (həyfəs) deyilir.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (٣) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-16T18:42:06.940Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 119
  },
  "ar": "الحاء والواو والسين أصلٌ واحد: مخالطة الشئ ووطؤُه.\nيقال حُسْتُ الشئَ حَوْساً. والتحوُّس، كالتردّد فى الشئ، وهو أنْ يُقِيم مع إرادة السفَر، وذلك إذا عارضَه ما يشغُله. قال:\n* سِرْ قَدْ أَنَى لك أيُّها المُتحوِّسُ (٤) *\nويقال الأحْوسُ الدائم الركْض (٥)، والجرئ الذى لا يهوله شئ. قال:\n* أحْوَسُ فى الظلماء بالرُّمْحِ الخَطِلْ (١) *\nوهو حوّاس بالليل.",
- "az": "[حوس] الحاء, الواو və السين hərfləri tək bir əsas kökə malikdir: bir şeyə qarışmaq və onu ayaq altına alıb taplamaq. حُسْتُ الشئَ حَوْساً (hustüş-şeyə həvsən) – deyilər. التَّحَوُّس (təhəvvüs) – bir şeydə gəzişib dolanmaq kimidir, bu da səfərə səy göstərməklə yanaşı orada qalmaqdır, hansı ki onu məşğul edən bir şey qarşı çıxmışdır. Şair demişdir: «* سِرْ قَدْ أَنَى لك أيُّها المُتحوِّسُ (٤) *» (Get, artıq vaxtın çatdı, ey hərəkətsiz qalıb dolanan!). Daim qaçan (٥) və heç bir şeydən qorxmayan cəsur adama الأَحْوَسُ (əl-əhvəs) deyilir. Şair demişdir: «* أحْوَسُ فى الظلماء بالرُّمْحِ الخَطِلْ (١) *» (Zülmətdə nizəni səliqəsiz, geniş sallayaraq qorxmadan hərəkət edən cəsur). O, gecə vaxtı hər şeyi gəzib yoxlayandır.",
+ "az": "[حوس] «الحاء» (ح), «الواو» (و) və «السين» (س) hərfləri tək bir əsasdır: bir şeyə qarışmaq və onu ayaq altına alıb tapdalamaq. Deyilir: «حُسْتُ الشئَ حَوْساً». «التحوُّس» (ət-təhəvvüs) – bir şeydə tərəddüd etmək kimidir, bu da səfərə çıxmaq istədiyi halda onu məşğul edən bir maniə çıxdıqda yubanıb qalmasıdır. Şair demişdir:\n* سِرْ قَدْ أَنَى لك أيُّها المُتحوِّسُ (٤) *\n(Get, artıq vaxtın çatdı, ey yubanaraq dolanan!). Daim qaçan və heç bir şeydən qorxmayan cəsur adama «الأحْوَسُ» (əl-əhvəs) deyilir. Şair demişdir:\n* أحْوَسُ فى الظلماء بالرُّمْحِ الخَطِلْ (١) *\n(Zülmətdə uzun nizə ilə qorxusuzca irəliləyən cəsur). O, gecə vaxtı çox gəzib dolanandır («حوّاس بالليل»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:27.842Z"
+ "ts": "2026-10-25T01:04:27.842Z",
+ "prev_az": "[حوس] الحاء, الواو və السين hərfləri tək bir əsas kökə malikdir: bir şeyə qarışmaq və onu ayaq altına alıb taplamaq. حُسْتُ الشئَ حَوْساً (hustüş-şeyə həvsən) – deyilər. التَّحَوُّس (təhəvvüs) – bir şeydə gəzişib dolanmaq kimidir, bu da səfərə səy göstərməklə yanaşı orada qalmaqdır, hansı ki onu məşğul edən bir şey qarşı çıxmışdır. Şair demişdir: «* سِرْ قَدْ أَنَى لك أيُّها المُتحوِّسُ (٤) *» (Get, artıq vaxtın çatdı, ey hərəkətsiz qalıb dolanan!). Daim qaçan (٥) və heç bir şeydən qorxmayan cəsur adama الأَحْوَسُ (əl-əhvəs) deyilir. Şair demişdir: «* أحْوَسُ فى الظلماء بالرُّمْحِ الخَطِلْ (١) *» (Zülmətdə nizəni səliqəsiz, geniş sallayaraq qorxmadan hərəkət edən cəsur). O, gecə vaxtı hər şeyi gəzib yoxlayandır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«taplamaq» sözündə mexaniki hərf səhvi var («tapdalamaq» olmalıdır)."
+ ],
+ "review_ts": "2026-11-16T19:12:12.814Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الحاء والياء والقاف كلمةٌ واحدة، وهو نُزولُ الشئ بالشئ، يقال حاق به السّوء يَحِيق. قال اللّه تعالى: ﴿وَلا يَحِيقُ اَلْمَكْرُ اَلسَّيِّئُ إِلّا بِأَهْلِهِ﴾",
  "az": "[حيق] (heyiq) - Ha, ya və qaf tək bir kəlmədir ki, o da bir şeyin digərinin üzərinə enməsidir; deyilir: «حاق به السّوء يَحِيق» — pislik ona tuş gəldi, onu əhatə etdi. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿وَلا يَحِيقُ اَلْمَكْرُ اَلسَّيِّئُ إِلّا بِأَهْلِهِ﴾ (Pis hiylə yalnız öz sahiblərini haqlayar/bəla olaraq dönər).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:49.134Z"
+ "ts": "2026-10-25T01:04:49.134Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-16T19:27:48.948Z"
 }

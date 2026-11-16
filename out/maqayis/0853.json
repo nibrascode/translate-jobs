@@ -11,7 +11,17 @@
   "page_to": 53
  },
  "ar": "الحاء والزاء والقاف أصلٌ واحد، وهو تجمُّع الشئ ومن ذلك [الحِزقُ]: الجماعات. قال عنترة:\n* حِزَقٌ يَمانِيَةٌ لأعجمَ طِمْطِمِ (١) *\nوالحَزِيقة من النَّخل: الجماعة. ومن ذلك الحُزُقَّة: الرجُل القصير، وسمِّى بذلك لتجمَّع خَلْقه. والحَزْق: شدُّ القوس بالوَتَر. والرجل المتحزِّقٍ: المتشدِّد على [ما] فى يديه بُخْلا. ويقولون: الحازق الذى ضاق عليه خُفُّه. والقياس فى الباب كله واحد.",
- "az": "[حزق] \n الحاء والزاء والقاف أصلٌ واحد، وهو تجمُّع الشئ ومن ذلك [الحِزقُ]: الجماعات. قال عنترَة: \n (Hə, zai və qaf hərfləri tək bir əsasdır, o da şeyin toplanmasıdır. Bunlardan biri də [الْحِزْقُ] — dəstələrdir. Əntərə demişdir:) \n * حِزَقٌ يَمانِيَةٌ لأعجمَ طِمْطِمِ (١) * \n (* Əcəmi və anlaşılmaz dildə danışana aid yəmənli dəstələr *) \n والحَزِيقة من النَّخل: الجماعة. ومن ذلك الحُزُقَّة: الرجُل القصير، وسمِّى بذلك لتجمَّع خَلْقه. والحَزْق: شدُّ القوس بالوَتَر. والرجل المتحزِّقٍ: المتشدِّد على [ما] فى يديه بُخْلا. ويقولون: الحازق الذى ضاق عليه خُفُّه. والقياس فى الباب كله واحد. \n (Xurma ağaclarından olan «الْحَزِيقَةُ» — dəstədir. Və bunlardan biri də «الْحُزُقَّةُ» — qısa boylu kişidir, xilqətinin toplu olmasına görə belə adlandırılmışdır. «الْحَزْقُ» — kamanı vətərlə bərkitməkdir. «الرَّجُلُ الْمُتَحَزِّقُ» — əlindəki şeyə xəsisliklə sıx sarılandır. Deyirlər ki: «الْحَازِقُ» — çəkməsi ayağına dar gələn kəsdir. Bütün bu fəsildə qiyas birdir.)",
+ "az": "[حزق]\nHa, zey və qaf hərfləri tək bir əsasdır, o da bir şeyin toplanmasıdır. Ondandır [الحِزقُ] (əl-hizq): dəstələr, camaatlar. Əntərə demişdir:\n* حِزَقٌ يَمانِيَةٌ لأعجمَ طِمْطِمِ (١) * (Anlaşılmaz dildə danışan əcəmə aid yəmənli dəstələr).\nXurma ağaclarından olan الحَزِيقة (əl-həziqə) — dəstədir. Ondandır الحُزُقَّة (əl-huzuqqə): qısa boylu kişi; bədən quruluşunun yığcamlığına görə belə adlandırılmışdır. الحَزْق (əl-həzq): kamanı vətərlə bərk sıxmaqdır. الرجل المتحزِّقٍ (əl-mutəhəzziq): əlində olanlara xəsisliklə sıx sarılan kişi. Deyirlər ki: الحازق (əl-haziq) — çəkməsi ayağına dar gələn kəsdir. Bütün babda qiyas eynidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:55:36.986Z"
+ "ts": "2026-10-25T00:55:36.986Z",
+ "prev_az": "[حزق] \n الحاء والزاء والقاف أصلٌ واحد، وهو تجمُّع الشئ ومن ذلك [الحِزقُ]: الجماعات. قال عنترَة: \n (Hə, zai və qaf hərfləri tək bir əsasdır, o da şeyin toplanmasıdır. Bunlardan biri də [الْحِزْقُ] — dəstələrdir. Əntərə demişdir:) \n * حِزَقٌ يَمانِيَةٌ لأعجمَ طِمْطِمِ (١) * \n (* Əcəmi və anlaşılmaz dildə danışana aid yəmənli dəstələr *) \n والحَزِيقة من النَّخل: الجماعة. ومن ذلك الحُزُقَّة: الرجُل القصير، وسمِّى بذلك لتجمَّع خَلْقه. والحَزْق: شدُّ القوس بالوَتَر. والرجل المتحزِّقٍ: المتشدِّد على [ما] فى يديه بُخْلا. ويقولون: الحازق الذى ضاق عليه خُفُّه. والقياس فى الباب كله واحد. \n (Xurma ağaclarından olan «الْحَزِيقَةُ» — dəstədir. Və bunlardan biri də «الْحُزُقَّةُ» — qısa boylu kişidir, xilqətinin toplu olmasına görə belə adlandırılmışdır. «الْحَزْقُ» — kamanı vətərlə bərkitməkdir. «الرَّجُلُ الْمُتَحَزِّقُ» — əlindəki şeyə xəsisliklə sıx sarılandır. Deyirlər ki: «الْحَازِقُ» — çəkməsi ayağına dar gələn kəsdir. Bütün bu fəsildə qiyas birdir.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Bütün ərəbcə izah mətni tərcüməsiz şəkildə saxlanılmış və mötərizədə tərcüməsi verilmişdir ki, bu da format qaydalarına ziddir.",
+  "AR mətnindəki «عنترة» sözünə əlavə hərəkə (عنترَة) qoyulmuşdur."
+ ],
+ "review_ts": "2026-11-16T18:33:59.454Z"
 }

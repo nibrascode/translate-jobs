@@ -11,7 +11,16 @@
   "page_to": 180
  },
  "ar": "الخاء والزاء والراء أصلان. أحدهما جِتْسٌ [من] الطَّبيخ (١)، والآخر ضِيقٌ فى الشَّيء.\nفالأوّل الخَزِيرُ، وهو دقيقٌ يُلْبَكُ بشَحْم. وكانت العربُ تَعَيِّر آكِلَه (٢).\nوالثانى الخَزَر، وهو ضيق العَيْنِ وصِغَرُها. يقال رجلٌ أخْزَرُ وامرأةٌ خَزْراءُ. وتخازَرَ الرّجُل، إذا قبَض جفنَيه ليحدِّد النّظَر. قال:\n* إذا تخازَرْتُ وما بى مِنْ خَزَرْ (٣) *",
- "az": "[خزر] (خ, ز, ر): İki əsasdır. Biri yemək növüdür (١), diğəri isə şeydə olan darlıqdır.\nBirincisi خَزِير (xəzir) - piylə qarışdırılaraq yoğrulan un yeməyidir. Ərəblər onu yeyəni qınardılar (٢).\nİkincisi الخَزَر (əl-xəzər) - gözün dar olması və kiçikliyidir. رجلٌ أخْزَرُ (racülün əxzərun) və امرأةٌ خَزْراءُ (imraətün xəzrau) - çəpgöz kişi və qadın - deyilir. وَتَخَازَرَ الرَّجُلُ (və təxazərə ər-racül) - kişi baxışını sərtləşdirmək üçün göz qapaqlarını qisdiyi zaman deyilir. Şair demişdir:\n* إِذَا تَخَازَرْتُ وَمَا بِي مِنْ خَزَرْ (٣) * (Gözlərimi qısıram, holbuki məndə çəpgözlük yoxdur)",
+ "az": "[خزر] (خ, ز, ر): İki əsasdır. Biri yemək növüdür (١), digəri isə şeydə olan darlıqdır.\nBirincisi الخَزِير (əl-xəzir) - piylə qarışdırılaraq yoğrulan un yeməyidir. Ərəblər onu yeyəni qınardılar (٢).\nİkincisi الخَزَر (əl-xəzər) - gözün dar olması və kiçikliyidir. رجلٌ أخْزَرُ (racülün əxzərun) və امرأةٌ خَزراءُ (imraətün xəzrau) - çəpgöz kişi və qadın - deyilir. وتخازَرَ الرّجُل (təxazərə ər-racül) - kişi baxışını sərtləşdirmək üçün göz qapaqlarını qısdığı zaman deyilir. Şair demişdir:\n* إذا تخازَرْتُ وما بى مِنْ خَزَرْ (٣) * (Gözlərimi qısıram, halbuki məndə çəpgözlük yoxdur)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:01.279Z"
+ "ts": "2026-10-25T01:09:01.279Z",
+ "prev_az": "[خزر] (خ, ز, ر): İki əsasdır. Biri yemək növüdür (١), diğəri isə şeydə olan darlıqdır.\nBirincisi خَزِير (xəzir) - piylə qarışdırılaraq yoğrulan un yeməyidir. Ərəblər onu yeyəni qınardılar (٢).\nİkincisi الخَزَر (əl-xəzər) - gözün dar olması və kiçikliyidir. رجلٌ أخْزَرُ (racülün əxzərun) və امرأةٌ خَزْراءُ (imraətün xəzrau) - çəpgöz kişi və qadın - deyilir. وَتَخَازَرَ الرَّجُلُ (və təxazərə ər-racül) - kişi baxışını sərtləşdirmək üçün göz qapaqlarını qisdiyi zaman deyilir. Şair demişdir:\n* إِذَا تَخَازَرْتُ وَمَا بِي مِنْ خَزَرْ (٣) * (Gözlərimi qısıram, holbuki məndə çəpgözlük yoxdur)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«diğəri» və «holbuki» sözlərində orfoqrafik səhvlər var."
+ ],
+ "review_ts": "2026-11-16T19:37:32.726Z"
 }

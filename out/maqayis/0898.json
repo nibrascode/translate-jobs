@@ -11,7 +11,19 @@
   "page_to": 81
  },
  "ar": "الحاء والظاء واللام أصلٌ واجد، وهو قريب من الذى قبله فالحَظْل: الغَيْرة ومَنْع المرأة من التصرّف والحركة [قال (٢)]:\n* فيحظِلُ أو يَغارُ (٣) *\nقال أبو عبيد: حظلت عليه مثل حَظَرْتُ ويقال فى قوله\n«فيحظِلُ أو يَغَار»\nإنّه التّقْتير. وأحْرِ أن يكون هذا أصحّ، لأنّه قال «أو يغار». والتقتير يرجع إلى الذى ذكرناه من المنْع. والدَّليل على ذلك قولهم حَظَلان وحظْلان. قال:\nتُعَيّرُنى الحِظْلانَ أمُّ مُخلِّسٍ … فقلت لها لم تَقذفينِى بِدائيا (٤)",
- "az": "«حظل» (H-Z-L): hə, zai və lam hərfləri tək bir əsas mənadır ki, o da özündən əvvəlkiyə yaxındır. الحَظْل (hazl) — qısqanclıq, qadının hərəkətini və sərbəstliyini məhdudlaşdırmaqdır. [Şeir]: * فيحظِلُ أو يَغارُ (٣) * — «O, məhdudlaşdırar və ya qısqanar». Əbu Übeyd demişdir: «حظلت عليه» (ona qadağa qoydum) — «حظَرْتُ» (hazartu) kimidir. «فيحظِلُ أو يَغارُ» sözü haqqında deyilir ki, bu, xəsislik etmək, sıxıntıya salmaqdır. Bunun daha doğru olması ehtimalı yüksəkdir, çünki şair «və ya qısqanar» demişdir. Xəsislik (sıxıntı) isə zikr etdiyimiz qadağan etmə mənasına qayıdır. Buna dəlil olaraq onların «حَظَلان» (hazalan) və «حظْلان» (huzlan) demələridir. Şair demişdir: [Şeir]: تُعَيّرُنى الحِظْلانَ أمُّ مُخلِّسٍ … فقلت لها لم تَقذفينِى بِدائيا (٤) — «Muxəllisin anası mənə hüzlanı (zəifliyi/xəsisliyi) ar edir, mən də ona dedim: Niyə məni öz dərdinlə ittiham edirsən?»",
+ "az": "[حظل]\nHa, za və lam hərfləri tək bir əsas mənadır ki, o da özündən əvvəlkiyə yaxındır. الحَظْل (həzl) — qısqanclıq və qadının hərəkətini və sərbəstliyini məhdudlaşdırmaqdır. [Dedi (٢)]:\n* فيحظِلُ أو يَغارُ (٣) * (O, məhdudlaşdırar və ya qısqanar).\nƏbu Übeyd demişdir: حظلت عليه (ona qadağa qoydum) — حَظَرْتُ (qadağan etdim) kimidir. Onun\n«فيحظِلُ أو يَغَار»\nsözü haqqında deyilir ki, bu, xəsislik etməkdir. Bunun daha doğru olması ehtimalı yüksəkdir, çünki şair «və ya qısqanar» demişdir. Xəsislik isə zikr etdiyimiz qadağan etmə mənasına qayıdır. Buna dəlil onların حَظَلان (həzəlan) və حظْلان (huzlan) demələridir. Şair demişdir:\nتُعَيّرُنى الحِظْلانَ أمُّ مُخلِّسٍ … فقلت لها لم تَقذفينِى بِدائيا (٤) (Muxəllisin anası mənə xəsisliyi ar edir, mən də ona dedim: Niyə məni öz dərdinlə ittiham edirsən?).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:58:55.260Z"
+ "ts": "2026-10-25T00:58:55.260Z",
+ "prev_az": "«حظل» (H-Z-L): hə, zai və lam hərfləri tək bir əsas mənadır ki, o da özündən əvvəlkiyə yaxındır. الحَظْل (hazl) — qısqanclıq, qadının hərəkətini və sərbəstliyini məhdudlaşdırmaqdır. [Şeir]: * فيحظِلُ أو يَغارُ (٣) * — «O, məhdudlaşdırar və ya qısqanar». Əbu Übeyd demişdir: «حظلت عليه» (ona qadağa qoydum) — «حظَرْتُ» (hazartu) kimidir. «فيحظِلُ أو يَغارُ» sözü haqqında deyilir ki, bu, xəsislik etmək, sıxıntıya salmaqdır. Bunun daha doğru olması ehtimalı yüksəkdir, çünki şair «və ya qısqanar» demişdir. Xəsislik (sıxıntı) isə zikr etdiyimiz qadağan etmə mənasına qayıdır. Buna dəlil olaraq onların «حَظَلان» (hazalan) və «حظْلان» (huzlan) demələridir. Şair demişdir: [Şeir]: تُعَيّرُنى الحِظْلانَ أمُّ مُخلِّسٍ … فقلت لها لم تَقذفينِى بِدائيا (٤) — «Muxəllisin anası mənə hüzlanı (zəifliyi/xəsisliyi) ar edir, mən də ona dedim: Niyə məni öz dərdinlə ittiham edirsən?»",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[حظل]» formatında verilməyib.",
+  "«ظ» hərfinin adı səhvən «zai» kimi verilib («za» olmalıdır).",
+  "AR-dakı «[قال (٢)]:» hissəsi və «(٢)» haşiyə rəqəmi buraxılıb.",
+  "Beytdəki «الحِظْلانَ» sözü kontekstə uyğun olmayan «zəifliyi» mənasında da verilib."
+ ],
+ "review_ts": "2026-11-16T18:39:45.906Z"
 }

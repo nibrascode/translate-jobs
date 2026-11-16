@@ -11,7 +11,16 @@
   "page_to": 224
  },
  "ar": "الخاء والنون والقاف أصلٌ واحد يدلُّ على ضيقٍ. فالخانق:\nالشِّعْب الضيق. وقال بعضُ أهل العلم: إنّ أهل اليَمن يسمُّون الزُّقاق خانقاً.\nوالخَنِق مصدر خَنَقَه يخنِقُه خَنِقاً (٣). قال بعض أهل العلم: لا يقال خَنْقاً.\nوالمِخْنَقَةُ: القِلادة.",
- "az": "[خنق] الخاء والنون والقاف أصلٌ واحد (Xar, nun və qaf bir əsasdır) — dar olmağa dəlalət edir. Və əl-xaniq (الخانق) — dar dərə. Elm əhlindən bəzisi demişdir ki, Yəmən əhli dar küçəyə xaniq deyirlər. Və خَنِق (xəniq) — خَنَقَه يخنِقُه خَنِقاً (xənəqahu yaxniquhu xənəqən) feilinin məsdəridir (3). Elm əhlindən bəzisi demişdir ki, خَنْقاً (xənqən) deyilməz. Və əl-mixnəqəh (المِخْنَقَةُ) — boyunbağı.",
+ "az": "[خنق] الخاء والنون والقاف أصلٌ واحد (xa, nun və qaf bir əsasdır) — dar olmağa dəlalət edir. الخانق: dar dərə. Elm əhlindən bəzisi demişdir ki, Yəmən əhli dar küçəyə خانق deyirlər. Və خَنِق — خَنَقَه يخنِقُه خَنِقاً (٣) feilinin məsdəridir. Elm əhlindən bəzisi demişdir ki, خَنْقاً deyilməz. Və المِخْنَقَةُ: boyunbağı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:13:06.496Z"
+ "ts": "2026-10-25T01:13:06.496Z",
+ "prev_az": "[خنق] الخاء والنون والقاف أصلٌ واحد (Xar, nun və qaf bir əsasdır) — dar olmağa dəlalət edir. Və əl-xaniq (الخانق) — dar dərə. Elm əhlindən bəzisi demişdir ki, Yəmən əhli dar küçəyə xaniq deyirlər. Və خَنِق (xəniq) — خَنَقَه يخنِقُه خَنِقاً (xənəqahu yaxniquhu xənəqən) feilinin məsdəridir (3). Elm əhlindən bəzisi demişdir ki, خَنْقاً (xənqən) deyilməz. Və əl-mixnəqəh (المِخْنَقَةُ) — boyunbağı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«xa» hərf adı «Xar» kimi səhv yazılmışdır."
+ ],
+ "review_ts": "2026-11-16T19:47:13.844Z"
 }

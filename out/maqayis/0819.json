@@ -11,9 +11,18 @@
   "page_to": 26
  },
  "ar": "الحاء والهمزة قبيلة. قال:\n* طلبتُ الثأْرَ فى حَكَمٍ وحاء (١) *",
- "az": "«حا» — الحاء (ha) və الهمزة (həmzə) bir qəbilədir. O demişdir: * طلبتُ الثأْرَ فى حَكَمٍ وحاء * (١) (İntiqamı Həkəm və Hada axtardım).",
+ "az": "[حا]\\nالحاء (ha) və الهمزة (həmzə) bir qəbilədir. Şair demişdir:\\n* طلبتُ الثأْرَ فى حَكَمٍ وحاء (١) *\\n(İntiqamı Həkəm və Hada axtardım).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:53:44.981Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«حا» — الحاء (ha) və الهمزة (həmzə) bir qəbilədir. O demişdir: * طلبتُ الثأْرَ فى حَكَمٍ وحاء * (١) (İntiqamı Həkəm və Hada axtardım).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[حا]» şəklində deyil.",
+  "Beytdəki haşiyə rəqəminin yeri (ulduz işarəsinin xaricində yazılması) mənbə mətnə uyğun deyil və abzas bölgüsü pozulub."
+ ],
+ "review_ts": "2026-11-16T18:30:37.654Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 125
  },
  "ar": "الحاء والياء والطاء ليس أصلا، وذلك أن أصله فى الحِياطة والحِيطة والحائطِ كلَّه الواوُ. وقد ذُكر فى بابه.",
- "az": "[حيط] (heyt) - Ha, ya və ta heç bir əsas deyildir, çünki bunun «الحِياطة» (qoruma), «الحِيطة» (ehtiyat) və «الحائط» (divar) sözlərində əsli vavdır. O, öz fasiləsində qeyd olunmuşdur.",
+ "az": "[حيط]\nHa, ya və ta əsl kök deyildir; çünki الحِياطة (qorumaq), الحِيطة (ehtiyatlılıq) və الحائط (divar) sözlərinin hamısında onun əsli vav hərfidir. Bu isə öz babında zikr edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:49.134Z"
+ "ts": "2026-10-25T01:04:49.134Z",
+ "prev_az": "[حيط] (heyt) - Ha, ya və ta heç bir əsas deyildir, çünki bunun «الحِياطة» (qoruma), «الحِيطة» (ehtiyat) və «الحائط» (divar) sözlərində əsli vavdır. O, öz fasiləsində qeyd olunmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ليس أصلا» ifadəsi «heç bir əsas deyildir» kimi deyil, «əsl kök deyildir» kimi tərcümə olunmalıdır.",
+  "«fasiləsində» əvəzinə «babında» yazılmalıdır."
+ ],
+ "review_ts": "2026-11-16T19:16:12.854Z"
 }

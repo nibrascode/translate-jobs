@@ -11,7 +11,18 @@
   "page_to": 36
  },
  "ar": "الحاء والدال والثاء أصلٌ واحد، وهو كونُ الشئ لم يكُنْ.\nيقال حدثَ أمرٌ بَعْد أن لم يكُن. والرجُل الحَدَثُ: الطرىُّ السّن. والحديثُ مِنْ هذا؛ لأنّه كلامٌ يحْدُثُ منه الشئُ بعدَ الشئ. ورجلٌ حدثٌ (٣): حَسَن الحديث. ورجل حِدْثُ نساءٍ، إِذا كانَ يتحدَّث إِليهنّ. ويقال هذه حِدِّيثَى حَسَنَةٌ، كخِطِّيبَى، يراد به الحديثُ.",
- "az": "«حدث» (hədəs): Ha, dal və sə hərflərindən ibarət olub tək bir kökdür, o da bir şeyin əvvəlcə yox ikən var olmasıdır.\nDeyilir: «حدث أمرٌ بَعْد أن لم يكُن» (bir iş olmadıqdan sonra əmələ gəldi). Və gənc kişi «الرّجُل الحَدَثُ» (əl-hədəs) adlanır. Və «الحديث» (əl-hədis) də bundandır; çünki o, bir-inin ardınca bir şeyin əmələ gəldiyi sözdür. Və «رجلٌ حدثٌ» (gözəl danışan kişi): gözəl danışandır. Və «رجل حِدْثُ نساءٍ» (qadınlarla danışmağı sevən kişi), qadınlarla söhbət etdiyi zaman. Və deyilir: «هذه حِدِّيثَى حَسənَةٌ» (bu gözəl söhbətdir), «خِطِّيبَى» kimi, bundan məqsəd söz və söhbətdir.",
+ "az": "[حدث]\nHa, dal və sə hərflərindən ibarət olub tək bir kökdür, o da bir şeyin əvvəlcə yox ikən var olmasıdır.\nDeyilir: «حدثَ أمرٌ بَعْد أن لم يكُن» (bir iş olmadıqdan sonra əmələ gəldi). «الرّجُل الحَدَثُ» (əl-hədəs): yaşı təzə olan (gənc) kişi. «الحديث» (əl-hədis) də bundandır; çünki o, bir-birinin ardınca bir şeyin əmələ gəldiyi sözdür. «رجلٌ حدثٌ» (٣): gözəl danışan kişi. «رجل حِدْثُ نساءٍ» (qadınlarla danışmağı sevən kişi), qadınlarla söhbət etdiyi zaman. Deyilir: «هذه حِدِّيثَى حَسَنَةٌ» (bu gözəl söhbətdir), «خِطِّيبَى» kimi, bundan məqsəd söz və söhbətdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:54:28.558Z"
+ "ts": "2026-10-25T00:54:28.558Z",
+ "prev_az": "«حدث» (hədəs): Ha, dal və sə hərflərindən ibarət olub tək bir kökdür, o da bir şeyin əvvəlcə yox ikən var olmasıdır.\nDeyilir: «حدث أمرٌ بَعْد أن لم يكُن» (bir iş olmadıqdan sonra əmələ gəldi). Və gənc kişi «الرّجُل الحَدَثُ» (əl-hədəs) adlanır. Və «الحديث» (əl-hədis) də bundandır; çünki o, bir-inin ardınca bir şeyin əmələ gəldiyi sözdür. Və «رجلٌ حدثٌ» (gözəl danışan kişi): gözəl danışandır. Və «رجل حِدْثُ نساءٍ» (qadınlarla danışmağı sevən kişi), qadınlarla söhbət etdiyi zaman. Və deyilir: «هذه حِدِّيثَى حَسənَةٌ» (bu gözəl söhbətdir), «خِطِّيبَى» kimi, bundan məqsəd söz və söhbətdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatda «حَسənَةٌ» şəklində latın hərfləri qarışıb.",
+  "Haşiyə rəqəmi «(٣)» buraxılıb.",
+  "«الطرىُّ السّن» izahı buraxılıb və «bir-inin» orfoqrafik səhvi var."
+ ],
+ "review_ts": "2026-11-16T18:31:44.743Z"
 }

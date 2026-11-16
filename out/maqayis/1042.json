@@ -13,5 +13,10 @@
  "ar": "الخاء والدال والفاء أصلٌ واحد. قال ابن دريد (٢):\n«الخَدْف السُّرْعة فى المشْى، ومنه اشتقاق خِنْدِفَ».",
  "az": "«خدف» (خ، د، ف) — tək bir əsas prinsipdir. İbn Dürid demişdir (2): «Əl-Xədf — gəzməkdə sürətdir, خِنْدِفَ (Xindif) sözünün etimologiyası bundan götürülmüşdür».",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:07:57.787Z"
+ "ts": "2026-10-25T01:07:57.787Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-16T19:34:28.456Z"
 }

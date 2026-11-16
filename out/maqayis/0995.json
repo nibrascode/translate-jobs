@@ -11,7 +11,17 @@
   "page_to": 130
  },
  "ar": "الحاء والباء والطاء أصلٌ واحدٌ يدلُّ على بطلانٍ أو أَلَمٍ.\nيقال: أحبط اللّهُ عملَ الكافر، أى أبطله.\nوأمّا الألَم فالحَبَط: أن تأكل الدَّابةٌ حَتَّى تُنْفَخ لذلك بطنُها.\nقال رسول اللّه ﵌: «إنّ مما يُنبِت الرَّبيعُ ما يقتُل حَبَطاً أو يُلِمّ».\nوسُمِّى الحارثُ الحَبِطَ (١) لأنّه كان فى سفرٍ؛ فأصابه مثلُ هذا. وهم هؤلاء الذين يُسَمَّوْن الحَبِطَاتِ من تميم.\nومما يقرب من هذا الباب حَبِطَ الجِلدُ، إذا كانت به جراحٌ فَبَرَأت وبقيتْ بها آثارٌ.",
- "az": "[حبط] (həbət) - Ha, ba və ta batil olmağa və ya ağrıya dəlalət edən tək bir kökdür. Deyilir: «أحبط اللّهُ عملَ الكافر» — Allah kafirin əməlini batil etdi. Ağrıya gəldikdə isə, «الحَبَط» — heyvanın çox yeyib nəticədə qarnının şişməsidir. Allah Rəsulu (s.a.v.) buyurmuşdur: «إنّ مما يُنبِت الرَّبيعُ ما يقتُل حَبَطاً أو يُلِمّ» (Şübhəsiz ki, baharın bitirdiklərindən eləsi var ki, qarnı şişərək öldürər və ya ölümə yaxınlaşdırar). Həris «الحَبِط» adlandırılmışdır (١), çünki o, səfərdə idi və onun başina belə bir şey gəlmişdi. Onlar Təmim qəbiləsindən olan «الحَبِطَات» adlandırılan kəslərdir. Bu fasilə yaxın olanlardandır: «حَبِطَ الجِلدُ» — dəridə yaralar olub sağaldıqda və onlardan izlər qaldıqda.",
+ "az": "[حبط] Ha, ba və ta batil olmağa və ya ağrıya dəlalət edən tək bir kökdür.\nDeyilir: «أحبط اللّهُ عملَ الكافر» — Allah kafirin əməlini batil etdi.\nAğrıya gəldikdə isə, «الحَبَط» — heyvanın ot yeyib nəticədə qarnının şişməsidir.\nAllah Rəsulu sallallahu aleyhi və səlləm buyurmuşdur: «إنّ مما يُنبِت الرَّبيعُ ما يقتُل حَبَطاً أو يُلِمّ» (Şübhəsiz ki, baharın bitirdiklərindən eləsi var ki, qarın şişirtməkdən öldürər və ya ölümə yaxınlaşdırar).\nHərəs «الحَبِط» adlandırılmışdır (١), çünki o, səfərdə idi və başına belə bir şey gəlmişdi. Onlar Təmim qəbiləsindən olan «الحَبِطَات» adlandırılan kəslərdir.\nBu qapıya yaxın olanlardandır: «حَبِطَ الجِلدُ» — dəridə yaralar olub sağaldıqda və onlardan izlər qaldıqda işlədilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:04:49.134Z"
+ "ts": "2026-10-25T01:04:49.134Z",
+ "prev_az": "[حبط] (həbət) - Ha, ba və ta batil olmağa və ya ağrıya dəlalət edən tək bir kökdür. Deyilir: «أحبط اللّهُ عملَ الكافر» — Allah kafirin əməlini batil etdi. Ağrıya gəldikdə isə, «الحَبَط» — heyvanın çox yeyib nəticədə qarnının şişməsidir. Allah Rəsulu (s.a.v.) buyurmuşdur: «إنّ مما يُنبِت الرَّبيعُ ما يقتُل حَبَطاً أو يُلِمّ» (Şübhəsiz ki, baharın bitirdiklərindən eləsi var ki, qarnı şişərək öldürər və ya ölümə yaxınlaşdırar). Həris «الحَبِط» adlandırılmışdır (١), çünki o, səfərdə idi və onun başina belə bir şey gəlmişdi. Onlar Təmim qəbiləsindən olan «الحَبِطَات» adlandırılan kəslərdir. Bu fasilə yaxın olanlardandır: «حَبِطَ الجِلدُ» — dəridə yaralar olub sağaldıqda və onlardan izlər qaldıqda.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hədisdəki «﵌» rəmzi «(s.a.v.)» kimi tərcümə olunub; qaydaya əsasən «sallallahu aleyhi və səlləm» yazılmalıdır.",
+  "«ومما يقرب من هذا الباب» ifadəsi «Bu fasilə yaxın olanlardandır» kimi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-16T19:29:29.288Z"
 }

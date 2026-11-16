@@ -11,7 +11,17 @@
   "page_to": 188
  },
  "ar": "الخاء والصاد والباء أصلٌ واحد، وهو ضدُّ الجَدْب.\nمكانٌ مخْصِبٌ: خَصِيبٌ. ومن الباب الخِصَاب: نَخْل الدَّقَل (١).",
- "az": "[خصب] الخاء والصاد والباء أصلٌ واحد، وهو ضدُّ الجَدْب. (Xar, sad və ba hərfləri tək bir kök olub, quraqlığın əksidir.) \n\nمكانٌ مخْصِبٌ: خَصِيبٌ. ومن الباب الخِصَاب: نَخْل الدَّقَل (١). (Məkan muxsibdir: xəsibdir. Bu babdandır əl-xisab: dəqəl xurması.)",
+ "az": "[خصب] (Xa, sad və ba) tək bir kökdür, quraqlığın əksidir.\nməkan مخْصِبٌ: خَصِيبٌ-dir. Bu babdandır: الخِصَاب — نَخْل الدَّقَل (aşağı keyfiyyətli xurma ağacları).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:09:26.358Z"
+ "ts": "2026-10-25T01:09:26.358Z",
+ "prev_az": "[خصب] الخاء والصاد والباء أصلٌ واحد، وهو ضدُّ الجَدْب. (Xar, sad və ba hərfləri tək bir kök olub, quraqlığın əksidir.) \n\nمكانٌ مخْصِبٌ: خَصِيبٌ. ومن الباب الخِصَاب: نَخْل الدَّقَل (١). (Məkan muxsibdir: xəsibdir. Bu babdandır əl-xisab: dəqəl xurması.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«خ» hərfinin adı «Xar» kimi səhv yazılmışdır.",
+  "Ərəb qrafikalı sözlər original qrafikada saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-16T19:38:46.645Z"
 }

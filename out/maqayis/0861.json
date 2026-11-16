@@ -11,7 +11,18 @@
   "page_to": 56
  },
  "ar": "الحاء والسين والفاء أصلٌ واحد، وهو شئ يتقشَّر عن شئ ويسقط. فمن ذلك الحُسَافة، وهو ما سَقَط من التّمْر والثَّمَر. ويقال انحسف الشّئ، إذا تفتَّت فى يدك. وأمَّا الحَسيفَة، وهى العداوة، فجائزٌ أن يكون من هذا الباب. والذى عندى أنها من باب الإبدال، وأنّ الأصل الحسيكة؛ فأُبدلت الكاف فاءَ. وقد ذكرت الحسيكة وقيلُها بعد هذا الباب. ويقال الحَسَفُ الشّوك، وهو من الباب.",
- "az": "[حسف] \n الحاء والسين والفاء أصلٌ واحد، وهو شئ يتقشَّر عن شئ ويسقط. فمن ذلك الحُسَافة، وهو ما سَقَط من التّمْر والثَّمَر. ويقال انحسف الشّئ، إذا تفتَّت فى يدك. وأمَّا الحَسيفَة، وهى العداوة، فجائزٌ أن يكون من هذا الباب. والذى عندي أنها من باب الإبدال، وأنّ الأصل الحسيكة؛ فأُبدلت الكاف فاءَ. وقد ذكرت الحسيكة وقيلُها بعد هذا الباب. ويقال الحَسَفُ الشّوك، وهو من الباب. \n (Hə, sin və fa hərfləri tək bir əsasdır, o da bir şeyin qabığından soyulub başqa bir şeydən düşməsidir. Bunlardan biri də «الْحُسَافَةُ»-dır, o da xurma və meyvədən düşən şeydir. Və deyilir: «انْحَسَفَ الشَّيْءُ» — əlində ovxalanıb dağıldığı zaman. «الْحَسِيفَةُ»-yə gəldikdə, o, düşmənçilikdir, bunun bu qapıdan olması mümkündür. Mənim fikrimcə isə o, əvəzetmə qapısındandır və əsli «الْحَسِيكَةُ»-dür; kaf hərfi fa hərfi ilə əvəz olunmuşdur. «الحسيكə» və onun barədə deyilənlər bu fəsildən sonra zikr edilmişdir. Və deyilir ki, «الْحَسَفُ» — tikandır, o da bu qapıdandır.)",
+ "az": "[حسف]\nHa, sin və fa hərfləri tək bir əsasdır, o da bir şeyin başqa bir şeydən soyulub tökülməsidir. Bunlardan biri الحُسَافة (hüsafə)-dir, o da xurma və meyvədən tökülən şeydir. Deyilir: انحسف الشّئ (şey əlində ovxalanıb dağıldığı zaman). الحَسيفَة (həsifə) sözünə gəldikdə, o, düşmənçilikdir; bunun bu babdan olması mümkündür. Mənim fikrimcə isə o, əvəzetmə (ibdal) babındandır və əsli الحسيكة-dir; kaf hərfi fa hərfi ilə əvəz olunmuşdur. الحسيكة və onun barədə deyilənlər bu babdan sonra zikr edilmişdir. Deyilir ki, الحَسَفُ (həsəf) — tikandır, o da bu babdandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:55:36.987Z"
+ "ts": "2026-10-25T00:55:36.987Z",
+ "prev_az": "[حسف] \n الحاء والسين والفاء أصلٌ واحد، وهو شئ يتقشَّر عن شئ ويسقط. فمن ذلك الحُسَافة، وهو ما سَقَط من التّمْر والثَّمَر. ويقال انحسف الشّئ، إذا تفتَّت فى يدك. وأمَّا الحَسيفَة، وهى العداوة، فجائزٌ أن يكون من هذا الباب. والذى عندي أنها من باب الإبدال، وأنّ الأصل الحسيكة؛ فأُبدلت الكاف فاءَ. وقد ذكرت الحسيكة وقيلُها بعد هذا الباب. ويقال الحَسَفُ الشّوك، وهو من الباب. \n (Hə, sin və fa hərfləri tək bir əsasdır, o da bir şeyin qabığından soyulub başqa bir şeydən düşməsidir. Bunlardan biri də «الْحُسَافَةُ»-dır, o da xurma və meyvədən düşən şeydir. Və deyilir: «انْحَسَفَ الشَّيْءُ» — əlində ovxalanıb dağıldığı zaman. «الْحَسِيفَةُ»-yə gəldikdə, o, düşmənçilikdir, bunun bu qapıdan olması mümkündür. Mənim fikrimcə isə o, əvəzetmə qapısındandır və əsli «الْحَسِيكَةُ»-dür; kaf hərfi fa hərfi ilə əvəz olunmuşdur. «الحسيكə» və onun barədə deyilənlər bu fəsildən sonra zikr edilmişdir. Və deyilir ki, «الْحَسَفُ» — tikandır, o da bu qapıdandır.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الحسيكة» sözü «الحسيكə» kimi yazılaraq ərəb və latın hərfləri qarışdırılıb.",
+  "«شئ يتقشَّر عن شئ ويسقط» ifadəsinin tərcüməsi dolaşıq verilib.",
+  "Ərəbcə sözlərin hərəkələri dəyişdirilib və format qaydası pozulub."
+ ],
+ "review_ts": "2026-11-16T18:34:47.334Z"
 }

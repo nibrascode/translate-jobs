@@ -11,7 +11,17 @@
   "page_to": 169
  },
  "ar": "الخاء والراء والضاد. زعم ناسٌ أنّ الخريضَ الجاريةُ الحديثة السنِّ الحسنة. وهذا ممّا لا يعوَّل على مثله، ولا قياسَ له.",
- "az": "[خرض] الخاء والراء والضاد. زعم ناسٌ أنّ الخريضَ الجاريةُ الحديثة السنِّ الحسنة. وهذا ممّا لا يعوَّل على مثله، ولا قياسَ له. (Xə, ra və dad. İnsanlar iddia ediblər ki, əl-xərid – gənc yaşlı gözəl qızdır. Bu isə beləsinə etimad olunmayan və qiyas edilməyən bir şeydir).",
+ "az": "[خرض]\nالخاء والراء والضاد. زعم ناسٌ أنّ الخريضَ الجاريةُ الحديثة السنِّ الحسنة. وهذا ممّا لا يعوَّل على مثله، ولا قياسَ له.\nخا, ra və dad hərfləri. Bəzi insanlar iddia etmişlər ki, الخَرِيض (əl-xarid) – gənc və gözəl cariyədir. Bu isə etimad olunası bir şey deyildir və onun qiyası yoxdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:08:18.841Z"
+ "ts": "2026-10-25T01:08:18.841Z",
+ "prev_az": "[خرض] الخاء والراء والضاد. زعم ناسٌ أنّ الخريضَ الجاريةُ الحديثة السنِّ الحسنة. وهذا ممّا لا يعوَّل على مثله، ولا قياسَ له. (Xə, ra və dad. İnsanlar iddia ediblər ki, əl-xərid – gənc yaşlı gözəl qızdır. Bu isə beləsinə etimad olunmayan və qiyas edilməyən bir şeydir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«əl-xərid» sözü səhv transkripsiya edilib (ض əvəzinə د yazılıb).",
+  "Ərəbcə mətni olduğu kimi təkrarlayan qarışıq format tətbiq edilib."
+ ],
+ "review_ts": "2026-11-16T19:36:03.094Z"
 }

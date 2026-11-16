@@ -11,7 +11,17 @@
   "page_to": 74
  },
  "ar": "الحاء والضاد والحرف المعتل أصل واحد، وهو هَيْج الشئِ، ويكون فى النار خاصّة. يقال حَضَوْتُ النارَ، إذا أوقدتَها. والعود الذى تُحرّك به النارِ محضاء ممدود. ويقال حضأتها أيضاً بالهمز، والعود مِحْضَأ على مِفْعَل، وربما مدُّوه؛ والأول أجود.",
- "az": "[حضى] (Hə, dad və uzadılmış hərf) tək bir əsasdır, o da bir şeyin coşmasıdır və bu, xüsusilə odda olur. «حَضَوْتُ النّارَ» (odun alışmasını gücləndirdim, alovlandırdım) deyilir. Odun qarışdırıldığı çubuq مِحْضاء (mihda) – uzadılmış şəkildədir. Həmçinin həmzə ilə «حضأتها» (həzəətuha) da deyilir və çubuq مِحْضَأ (mih-ə) – مِفْعَل (mif'əl) vəznindədir, bəzən onu uzatırlar da; lakin birincisi daha gözəldir.",
+ "az": "[حضى] (Hə, dad və illətli hərf) tək bir əsasdır, o da bir şeyin coşmasıdır və bu, xüsusilə odda olur. «حَضَوْتُ النّارَ» (odun alışmasını gücləndirdim, alovlandırdım) deyilir. Odun qarışdırıldığı çubuq مِحْضاء (mihda) – uzadılmış şəkildədir. Həmçinin həmzə ilə «حضأتها» (hədəətuha) da deyilir və çubuq مِحْضَأ (mihdə) – مِفْعَل (mif'əl) vəznindədir, bəzən onu uzadırlar da; lakin birincisi daha gözəldir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T00:58:29.377Z"
+ "ts": "2026-10-25T00:58:29.377Z",
+ "prev_az": "[حضى] (Hə, dad və uzadılmış hərf) tək bir əsasdır, o da bir şeyin coşmasıdır və bu, xüsusilə odda olur. «حَضَوْتُ النّارَ» (odun alışmasını gücləndirdim, alovlandırdım) deyilir. Odun qarışdırıldığı çubuq مِحْضاء (mihda) – uzadılmış şəkildədir. Həmçinin həmzə ilə «حضأتها» (həzəətuha) da deyilir və çubuq مِحْضَأ (mih-ə) – مِفْعَل (mif'əl) vəznindədir, bəzən onu uzatırlar da; lakin birincisi daha gözəldir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الحرف المعتل» ifadəsi «uzadılmış hərf» kimi səhv tərcümə edilib («illətli hərf» olmalıdır).",
+  "«مِحْضَأ» sözünün oxunuşu «mih-ə» kimi səhv verilib («mihdə» olmalıdır)."
+ ],
+ "review_ts": "2026-11-16T18:38:00.083Z"
 }

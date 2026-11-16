@@ -11,7 +11,17 @@
   "page_to": 96
  },
  "ar": "الحاء واللام والتاء ليس عندى بأصلٍ صحيح. وقد جاءت فيه كليمات؛ فالحلتيت صمغ. يقال حَلَتَ دَيْنَه: قضاه؛ وحَلتَ فلاناً، إذا أعطاه؛ وحَلَتَ الصوفَ: مَرَقَهُ",
- "az": "«حلت» (hələt): الحاء واللام والتاء ليس عندى بأصلٍ صحيح (Hə, lam və ta mənim yanımda səhih bir kök deyil). وقد جاءت فيه كليمات (və onda bəzi kiçik kəlmələr gəlmişdir); فالحلتيت صمغ (və həltit bir saqqızdır). يقال حَلَتَ دَيْنَه: قضاه (deyilər: borcunu hələt etdi - ödədi); وحَلتَ فلاناً، إذا أعطاه (və filankəsi hələt etdi - ona verdiyi zaman); وحَلَتَ الصوفَ: مَرَقَهُ (və yununu hələt etdi - onu təmizlədi).",
+ "az": "[حلت]\nHa, lam və ta mənim yanımda səhih bir kök deyil. Lakin onda bəzi kiçik kəlmələr gəlmişdir; الحلتيت (həltit) bir saqqız növüdür. Deyilir: حَلَتَ دَيْنَه (borcunu ödədi); حَلتَ فلاناً (filankəsə verdi), yəni ona verdikdə; حَلَتَ الصوفَ: مَرَقَهُ (yunu yoldu / təmizlədi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:02:59.121Z"
+ "ts": "2026-10-25T01:02:59.121Z",
+ "prev_az": "«حلت» (hələt): الحاء واللام والتاء ليس عندى بأصلٍ صحيح (Hə, lam və ta mənim yanımda səhih bir kök deyil). وقد جاءت فيه كليمات (və onda bəzi kiçik kəlmələr gəlmişdir); فالحلتيت صمغ (və həltit bir saqqızdır). يقال حَلَتَ دَيْنَه: قضاه (deyilər: borcunu hələt etdi - ödədi); وحَلتَ فلاناً، إذا أعطاه (və filankəsi hələt etdi - ona verdiyi zaman); وحَلَتَ الصوفَ: مَرَقَهُ (və yununu hələt etdi - onu təmizlədi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«حَلَتَ فلاناً» və «حَلَتَ الصوفَ» ifadələri «hələt etdi» şəklində mənasız tərcümə edilmiş, «الصوفَ» sözü «yununu» kimi səhv verilmişdir.",
+  "Mətndə «deyilər» orfoqrafiya səhvi var və tərcümə [حلت] formatına uyğun deyil."
+ ],
+ "review_ts": "2026-11-16T18:47:15.452Z"
 }

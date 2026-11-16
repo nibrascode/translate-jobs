@@ -11,7 +11,18 @@
   "page_to": 176
  },
  "ar": "الخاء والراء والدال أصلٌ واحدٌ، وهو صَوْن الشَّىْ ءِ عن المَسِيس. فالجارية الخَريدة هى التى لم تُمَسَّ قطُّ. وحكى ابنُ الأعرابىّ: لؤلؤةٌ خريدة: لم تُثْقَب. قال وكلُّ عذْراءَ فهى خريدةٌ. وجاريةٌ خَرُودٌ: خَفِرَةٌ؛ وهى من الباب. قال ابن الأعرابىِّ: أحردَ الرّجُلُ: إِذا أقلَّ كلامَه. يقال: مالك مُخْرِداً. وهو قياسُ ما ذكرناه؛ لأنّ فى ذلك صَوْنَ الكلام واللسان.",
- "az": "[خرد] (خ, ر, د) – tək bir kökdür, o da bir şeyi toxunulmaqdan qorumaqdır. «الجارية الخريدة - əl-cariyə əl-xəridə» hicablı, heç toxunulmamış qızdır. İbn əl-Ərəbi rəvayət etmişdir: «لؤلؤة خريدة - lü'lüətün xəridə» – deşilməmiş inci. O demişdir: hər bir bakirə qız «خريدة - xəridə»dir. «جارية خرود - cariyə xərud» – həyalı qız; bu da həmin kökدىndir. İbn əl-Ərəbi demişdir: «أحرد الرجل - əhrədə əl-rəculu» – kişi sözünü azaltdıqda. Deyilir: «مالك مخردًا - malikə muxridən». Bu da qeyd etdiyimiz qiyasasadır, çünki burada sözü və dili qorumaq (saxlamaq) vardır.",
+ "az": "[خرد] xa, ra və dal tək bir kökdür, o da bir şeyi toxunulmaqdan qorumaqdır. «الجارية الخَريدة» – heç də toxunulmamış qızdır. İbn əl-Ərəbi rəvayət etmişdir: «لؤلؤةٌ خريدة» – deşilməmiş inci. O demişdir: hər bir bakirə qız «خريدة»dir. «جاريةٌ خَرُودٌ» – utancaq, həyalı qızdır; bu da bu kökdəndir. İbn əl-Ərəbi demişdir: «أحردَ الرّجُلُ» – kişi sözünü azaltdıqda deyilir. Deyilir: «مالك مُخْرِداً» (Sənə neyləyib ki, susmusan?). Bu da qeyd etdiyimiz qiyas üzrədir, çünki bunda sözü və dili qorumaq vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:08:39.582Z"
+ "ts": "2026-10-25T01:08:39.582Z",
+ "prev_az": "[خرد] (خ, ر, د) – tək bir kökdür, o da bir şeyi toxunulmaqdan qorumaqdır. «الجارية الخريدة - əl-cariyə əl-xəridə» hicablı, heç toxunulmamış qızdır. İbn əl-Ərəbi rəvayət etmişdir: «لؤلؤة خريدة - lü'lüətün xəridə» – deşilməmiş inci. O demişdir: hər bir bakirə qız «خريدة - xəridə»dir. «جارية خرود - cariyə xərud» – həyalı qız; bu da həmin kökدىndir. İbn əl-Ərəbi demişdir: «أحرد الرجل - əhrədə əl-rəculu» – kişi sözünü azaltdıqda. Deyilir: «مالك مخردًا - malikə muxridən». Bu da qeyd etdiyimiz qiyasasadır, çünki burada sözü və dili qorumaq (saxlamaq) vardır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«kökدىndir», «qiyasasadır» kimi imla səhvləri var.",
+  "«الجارية الخريدة» ifadəsinə ərəb mətnində olmayan «hicablı» sözü artırılmışdır.",
+  "Ərəbcə sitatların hərəkələri dəyişdirilmişdir."
+ ],
+ "review_ts": "2026-11-16T19:37:26.752Z"
 }

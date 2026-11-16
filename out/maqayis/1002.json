@@ -13,5 +13,10 @@
  "ar": "الحاء والتاء والهمزة كلمةٌ واحدة ليست أصلاً، وأظنُّها من باب الإبدال وأنها مبدلة من كافٍ. يقولون أَحْتَأْتُ الثَّوبَ إحتاءً، إذا فَتَلْتَه (٥).\nظنا أنه من الإبدال (٦) فمن أحكَأْت العُقدة. وقد مضى تفسير ذلك. ويقول …",
  "az": "«حتا» (h-t-ə): Ha, ta və həmzə kəlməsi tək bir sözdür, kök deyil, zənn edirəm ki, bu, əvəzetmə qapısındandır və kaf hərfindən əvəz edilmişdir. Deyirlər: «أَحْتَأْتُ الثَّوبَ إحتاءً» (əhtə'tü əs-səvbə ihtə'ən) — onu bükdüyün zaman [5]. Zənn edilir ki, bu, əvəzetmədəndir [6], yəni «أحكَأْتُ العُقْدَةَ» (əhkə'tü əl-uqdəh) sözündəndir. Onun izahı artıq keçmişdir. Və deyirlər...",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:05:13.108Z"
+ "ts": "2026-10-25T01:05:13.108Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-16T19:29:37.039Z"
 }
