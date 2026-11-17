@@ -11,9 +11,20 @@
   "page_to": 230
  },
  "ar": "الخاء والواو والعين أصلٌ يدلُّ على نَقْص ومَيَل. يقال خوّع الشَّئَ، إذا نَقَصه. قال طرَفة:\nوجاملٍ خَوَّعَ من نِيبِه … زَجْرُ المعلَّى أُصُلاً والسَّفِيحْ (١)\nخَوَّع: نَقَص. يعنى بذلك ما يُنْحَر منها فى المَيْسِر.\nوالخَوْع: مَنعَرج الوادِى. والخُوَاع: النَّخِير. وهذا أقْيَس من قولهم إنّ الخَوْع: جبلٌ أبْيَض.",
- "az": "«خوع»: الخاء، الواو və العين — əskilməyə və meyilliyə dəlalət edən bir əsasdır. Deyilir: «خوّع الشَّئَ» (şeyi əskiltdi, azaltdı). Tərfə demişdir: «Və qoca dəvələr dəstəsindən əskiltdi – qumar oxlarının zərbi günortadan sonra və axşamçağı (١)». «خَوَّع» (xəvvəc) — əskiltdi, yəni məysir (qumar) zamanı onlardan kəsilib kəsilən əti nəzərdə tutur. «الخَوْع» (əl-xəuc) — vadinin əyri yeri. «الخُوَاع» (əl-xuvac) — inilti, boğaz səsi. Bu, onların «əl-xəuc ağ dağdır» demələrindən daha doğru və qiyaslıdır.",
+ "az": "[خوع]\nXa, vav və ayn əskilməyə və meyilliyə dəlalət edən bir əsasdır. Deyilir: «خوّع الشَّئَ» (şeyi əskiltdi, azaltdı). Tərəfə demişdir:\nوجاملٍ خَوَّعَ من نِيبِه … زَجْرُ المعلَّى أُصُلاً والسَّفِيحْ (١) (Dəvə sürüsünün qoca dişi dəvələrindən əskiltdi – axşamçağı Müəlla və Səfih [qumar oxlarının] atılması (١)).\n«خَوَّع» — əskiltdi. Bununla məysir (qumar) zamanı onlardan kəsilən dəvələri nəzərdə tutur.\n«الخَوْع» — vadinin əyri yeri. «الخُوَاع» — xorultu (boğaz səsi). Bu, onların «الخَوْع — ağ dağdır» demələrindən daha qiyaslıdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:13:33.573Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خوع»: الخاء، الواو və العين — əskilməyə və meyilliyə dəlalət edən bir əsasdır. Deyilir: «خوّع الشَّئَ» (şeyi əskiltdi, azaltdı). Tərfə demişdir: «Və qoca dəvələr dəstəsindən əskiltdi – qumar oxlarının zərbi günortadan sonra və axşamçağı (١)». «خَوَّع» (xəvvəc) — əskiltdi, yəni məysir (qumar) zamanı onlardan kəsilib kəsilən əti nəzərdə tutur. «الخَوْع» (əl-xəuc) — vadinin əyri yeri. «الخُوَاع» (əl-xuvac) — inilti, boğaz səsi. Bu, onların «əl-xəuc ağ dağdır» demələrindən daha doğru və qiyaslıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə «[خوع]» formatı ilə başlamır.",
+  "Hərf adları («الخاء، الواو və العين») tərcümə edilmədən ərəbcə saxlanılıb.",
+  "Tərəfənin şeir beytinin ərəbcə mətni buraxılıb, yalnız tərcüməsi verilib.",
+  "«خَوَّع» və «الخُوَاع» sözlərinin mötərizədəki oxunuşları yanlışdır («xəvvəc», «əl-xuvac»)."
+ ],
+ "review_ts": "2026-11-17T13:23:12.158Z"
 }

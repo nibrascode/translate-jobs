@@ -11,7 +11,18 @@
   "page_to": 245
  },
  "ar": "الخاء والتاء والنون كلمتان: إحداهما خَتْن الغُلام الذى يُعْذَر. والخِتان: موضع القَطْع من الذَّكَر (٢).\nوالكلمة الأُخرى الخَتَن، وهو الصِّهر، وهو الذى يتزوَّج فى القوم.",
- "az": "[ختن] الخاء والتاء والنون كلمتان: إحداهما خَتْن الغُلام الذى يُعْذَر. (Xar, ta və nun hərfləri iki kəlmədir: birincisi sünnət edilən oğlan uşağının sünnətidir). والخِتان: موضع القَطْع من الذَّكَر (٢). (Və «əl-xitan» — üzvün kəsilən yeridir [2]). والكلمة الأُخرى الخَتَن، وهو الصِّهر، وهو الذى يتزوَّج فى القوم. (İkinci kəlmə isə «əl-xətən»dir, o da kürəkəndir, yəni qövmün qızını alandır).",
+ "az": "[ختن]\nXa, ta və nun hərfləri iki kəlmədir: onlardan biri خَتْن الغُلام الذى يُعْذَر (sünnət edilən oğlan uşağının sünnəti)dir. الخِتان (kişi cinsiyyət üzvündən kəsilən yerdir (٢)).\nDigər kəlmə isə الخَتَنdır, o da الصِّهر (kürəkən), yəni bir qövmün içindən evlənən (qız alan) şəxsdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:18.900Z"
+ "ts": "2026-10-25T01:14:18.900Z",
+ "prev_az": "[ختن] الخاء والتاء والنون كلمتان: إحداهما خَتْن الغُلام الذى يُعْذَر. (Xar, ta və nun hərfləri iki kəlmədir: birincisi sünnət edilən oğlan uşağının sünnətidir). والخِتان: موضع القَطْع من الذَّكَر (٢). (Və «əl-xitan» — üzvün kəsilən yeridir [2]). والكلمة الأُخرى الخَتَن، وهو الصِّهر، وهو الذى يتزوَّج فى القوم. (İkinci kəlmə isə «əl-xətən»dir, o da kürəkəndir, yəni qövmün qızını alandır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«خ» hərfinin adı səhvən «Xar» kimi yazılmışdır.",
+  "Bütün ərəbcə mətn təkrarlanıb tərcümə mötərizədə verilmiş, baş sözlər isə transliterasiya edilmişdir.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-17T13:35:29.086Z"
 }

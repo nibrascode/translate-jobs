@@ -11,7 +11,17 @@
   "page_to": 268
  },
  "ar": "الدال والراء والصاد ليس أصلاً يُقاس عليه ولا يفرَّع منه، لكنّهم يقولون الدِّرص ولدُ الفأرة، وجمعُه دِرَصَة. ويقولون: وقع القوم فى أُمِّ أدْرَاصٍ، إذا وقعوا فى مَهْلِكَة. وهو ذاك الأوّل؛ لأنّ الأرض الفارغةَ يكون فيها أدراص. قال:\nوما أمُّ أدراصٍ بأرضٍ مَضَلَّةٍ … بأغْدَرَ مِنْ قيسٍ إِذا اللَّيلُ أظلما (١)\nويقولون للرّجُل إذا عَىَّ بأمرِه: «ضَلَّ دُرَبْصٌ نَفَقَهُ».",
- "az": "[درص] الدال والراء والصاد (dal, ra və sad hərfləri) qiyas edilən və ya özündən törəmə verilən bir əsas deyildir, lakin onlar الدِّرص (əddirs) – siçan balası deməkdir, cəmi isə دِرَصَة (dirasə) gəlir. Onlar: وقع القوم فى أُمِّ أدْرَاصٍ (Tayfa ədras analığına düşdü) – yəni həlakedici təhlükəli bir yerə düşdülər, deməkdir. Bu, birinciyə uyğundur, çünki boş və səhra torpaqlarda siçan balaları olar. (Şair) demişdir:\nوما أمُّ أدراصٍ بأرضٍ مَضَلَّةٍ … بأغْدَرَ مِنْ قيسٍ إِذا اللَّيلُ أظلما (١)\n(Azdırıcı bir yerdə olan siçan analığı belə, gecə qaranlıqlaşanda Qeysdən daha xain deyildir)\n\nVə bir kişi işdə aciz qaldıqda ona deyirlər: «ضَلَّ دُرَبْصٌ نَفَقَهُ» (Durəbs öz yuvasını azdı).",
+ "az": "[درص] الدال والراء والصاد (dal, ra və sad hərfləri) qiyas edilən və ya özündən törəmə verilən bir əsas deyildir, lakin onlar deyirlər ki, الدِّرص (əd-dirs) – siçan balasıdır, cəmi isə دِرَصَة (dirasə) gəlir. Həmçinin deyirlər: وقع القوم فى أُمِّ أدْرَاصٍ (Qövm Umm Ədrasa düşdü) – yəni həlakedici bir yerə düşdülər. Bu da əvvəlki mənadandır, çünki boş torpaqlarda siçan balaları (ədras) olur. (Şair) demişdir:\\nوما أمُّ أدراصٍ بأرضٍ مَضَلَّةٍ … بأغْدَرَ مِنْ قيسٍ إِذا اللَّيلُ أظلما (١)\\n(Azdırıcı bir yerdə olan Umm Ədras (siçan yuvası/anası) belə, gecə qaranlıqlaşanda Qeysdən daha xain deyildir).\\nVə bir kişi işdə aciz qaldıqda ona deyirlər: «ضَلَّ دُرَبْصٌ نَفَقَهُ» (Durəbs öz yuvasını azdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:15:22.589Z"
+ "ts": "2026-10-25T01:15:22.589Z",
+ "prev_az": "[درص] الدال والراء والصاد (dal, ra və sad hərfləri) qiyas edilən və ya özündən törəmə verilən bir əsas deyildir, lakin onlar الدِّرص (əddirs) – siçan balası deməkdir, cəmi isə دِرَصَة (dirasə) gəlir. Onlar: وقع القوم فى أُمِّ أدْرَاصٍ (Tayfa ədras analığına düşdü) – yəni həlakedici təhlükəli bir yerə düşdülər, deməkdir. Bu, birinciyə uyğundur, çünki boş və səhra torpaqlarda siçan balaları olar. (Şair) demişdir:\nوما أمُّ أدراصٍ بأرضٍ مَضَلَّةٍ … بأغْدَرَ مِنْ قيسٍ إِذا اللَّيلُ أظلما (١)\n(Azdırıcı bir yerdə olan siçan analığı belə, gecə qaranlıqlaşanda Qeysdən daha xain deyildir)\n\nVə bir kişi işdə aciz qaldıqda ona deyirlər: «ضَلَّ دُرَبْصٌ نَفَقَهُ» (Durəbs öz yuvasını azdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«يقولون» (deyirlər) feli buraxıldığı üçün cümlə qrammatik cəhətdən pozulmuşdur.",
+  "«أُمِّ أدْرَاصٍ» ifadəsi «ədras analığı» və «siçan analığı» kimi qeyri-dəqiq tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-17T13:38:03.365Z"
 }

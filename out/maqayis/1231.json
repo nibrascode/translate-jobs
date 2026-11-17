@@ -11,7 +11,17 @@
   "page_to": 275
  },
  "ar": "الدال والراء والدال أُصَيْلٌ فيه كلامٌ يسير. قالدَّرَدُ من الأسنان: لصوقُها بالأسناخ وتأكُلُ ما فَضَل منها. وقد دَرِدَتْ وهى دُرْدٌ.\nورجلٌ أَدْرَدُ وامرأةٌ درداء.",
- "az": "[درد] (Dərd): Dal, ra və dal hərflərindən ibarət az sözü olan kiçik bir kökdür. دَّرَدُ (dərəd) dişlərə aid olub: dişlərin köklərinə yapışması və onların qalan hissəsinin çürüməsidir. دَرِدَتْ (dişləri töküldü) və onlar دُرْدٌ (dərdu - dişsizdirlər).\nKişiyə أَدْرَدُ (dişsiz kişi) və qadına درداء (dişsiz qadın) deyilir.",
+ "az": "[درد] (Dərd): Dal, ra və dal hərflərindən ibarət az sözü olan kiçik bir kökdür. الدَّرَدُ (dərəd) dişlərə aid olub: dişlərin köklərinə yapışması və onların qalan hissəsinin yeyilməsi/çürüməsidir. دَرِدَتْ (dişləri yeyildi/töküldü) və onlar دُرْدٌ (durd — dişsizdirlər).\nKişiyə أَدْرَدُ (dişsiz kişi) və qadına درداء (dişsiz qadın) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:15:45.024Z"
+ "ts": "2026-10-25T01:15:45.024Z",
+ "prev_az": "[درد] (Dərd): Dal, ra və dal hərflərindən ibarət az sözü olan kiçik bir kökdür. دَّرَدُ (dərəd) dişlərə aid olub: dişlərin köklərinə yapışması və onların qalan hissəsinin çürüməsidir. دَرِدَتْ (dişləri töküldü) və onlar دُرْدٌ (dərdu - dişsizdirlər).\nKişiyə أَدْرَدُ (dişsiz kişi) və qadına درداء (dişsiz qadın) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«دُرْدٌ» sözünün oxunuşu səhvən «dərdu» kimi verilmişdir («durd» olmalıdır).",
+  "Baş sözün ərəbcə yazılışı təhrif edilmişdir («الدَّرَدُ» əvəzinə «دَّرَدُ»)."
+ ],
+ "review_ts": "2026-11-17T13:45:45.662Z"
 }

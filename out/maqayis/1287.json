@@ -11,7 +11,17 @@
   "page_to": 297
  },
  "ar": "الدال واللام والعين أَصَيلٌ يدلُّ على خروجٍ. تقول: دَلَعَ لسانُه: خرجَ. ودَلَمَهُ هو، إذا أخرجَه. والدَّلِيع: الطريق السَّهل ويقال اندلَعَ بطنُه، إذا أخرج أمامَه.",
- "az": "«دلع» (dəlis): Dal, lam və ayn çıxmağa dəlalət edən kiçik bir əsasdır. Deyirsən: «دَلَعَ لسانُه» (dələə lisənuhu) — onun dili çıxdı. «دَلَمَهُ هو» (dələməhu hüvə) — o, bunu çıxartdı. «الدَّلِيع» (əd-dəliyə) — asan yoldur. Deyilir: «اندلَعَ بطنُه» (indələsə batnuhu) — onun qarnı önə çıxdı.",
+ "az": "[دلع]\nDal, lam və ayn çıxmağa dəlalət edən kiçik bir əsasdır. Deyirsən: «دَلَعَ لسانُه» (dələə lisənuhu) — onun dili çıxdı. «دَلَمَهُ هو» (dələməhu huvə) — o, bunu çıxartdı. «الدَّلِيع» (əd-dəli) — asan yoldur. Deyilir: «اندلَعَ بطنُه» (indələə batnuhu) — onun qarnı önə çıxdı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.148Z"
+ "ts": "2026-10-25T01:17:18.148Z",
+ "prev_az": "«دلع» (dəlis): Dal, lam və ayn çıxmağa dəlalət edən kiçik bir əsasdır. Deyirsən: «دَلَعَ لسانُه» (dələə lisənuhu) — onun dili çıxdı. «دَلَمَهُ هو» (dələməhu hüvə) — o, bunu çıxartdı. «الدَّلِيع» (əd-dəliyə) — asan yoldur. Deyilir: «اندلَعَ بطنُه» (indələsə batnuhu) — onun qarnı önə çıxdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[دلع]» formatında olmalıdır.",
+  "«دلع» və «اندلَعَ» sözlərinin transkripsiyaları səhvən 'dəlis' və 'indələsə' kimi verilmişdir."
+ ],
+ "review_ts": "2026-11-17T14:15:46.487Z"
 }

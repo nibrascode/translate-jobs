@@ -11,7 +11,17 @@
   "page_to": 264
  },
  "ar": "الدال والثاء كلمةٌ واحدة، وهو المَطَر الضَّعيف (٤)",
- "az": "[دث] (Də və sə) tək bir kəlmədir, o da zəif yağışdır.",
+ "az": "[دث]\nDal və sa tək bir kəlmədir, o da zəif yağışdır (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:59.921Z"
+ "ts": "2026-10-25T01:14:59.921Z",
+ "prev_az": "[دث] (Də və sə) tək bir kəlmədir, o da zəif yağışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları səhv verilmişdir (Də və sə yerinə Dal və sa olmalı idi).",
+  "Haşiyə rəqəmi (٤) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-17T13:41:31.234Z"
 }

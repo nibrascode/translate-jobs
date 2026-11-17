@@ -11,7 +11,18 @@
   "page_to": 266
  },
  "ar": "الدال والخاء ليس أصلاً يُفَرّع منه، لكنّهم يقولون:\nدخدَخْنا القومَ: أذْلَلْناهم، دَخدَخةً. وذكر الشَّيبانىّ أنَّ الدخدخة الإعياء.\nفأما الدُّخُّ فقد ذُكِر فى بابه، وهو الدُّخان. قال:\n* عند سُعَارِ النّارِ يَغْشَى الدَّخَّا (٢) *",
- "az": "[دخ] الدال والخاء (dal və xah hərfləri) özündən törəmə verən bir əsas deyildir, lakin onlar belə deyirlər:\nدخدَخْنا القومَ: أذْلَلْناهم، دَخدَخْمةً (Tayfanı alçaltdıq, zəlil etdik). Şeybani qeyd etmişdir ki, الدخدخة (əd-daxdaxə) yorğunluq deməkdir.\n\nالدُّخُّ (əl-dux) sözünə gəldikdə, o, öz باب (bölümündə) qeyd edilmişdir və o, دُخان (tüstü) deməkdir. (Şair) demişdir:\n* عند سُعَارِ النّارِ يَغْشَى الدَّخَّا (٢) *\n(Odda alovun şiddəti zamanı tüstünü bürüyər...)",
+ "az": "[دخ]\nDal və xa özündən törəmələr çıxarılan bir əsas deyildir, lakin onlar belə deyirlər:\nدخدَخْنا القومَ: أذْلَلْناهم، دَخدَخةً (qövmü zəlil etdik, alçaltdıq). Şeybani qeyd etmişdir ki, الدخدخة (dəxdəxə) yorğunluq deməkdir.\nالدُّخُّ (tüstü) sözünə gəldikdə isə, o, öz babında qeyd edilmişdir və o, الدُّخان (tüstü) deməkdir. Şair demişdir:\n* عند سُعَارِ النّارِ يَغْشَى الدَّخَّا (٢) *\n(Alovun şiddəti zamanı tüstünü bürüyər...)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:15:22.589Z"
+ "ts": "2026-10-25T01:15:22.589Z",
+ "prev_az": "[دخ] الدال والخاء (dal və xah hərfləri) özündən törəmə verən bir əsas deyildir, lakin onlar belə deyirlər:\nدخدَخْنا القومَ: أذْلَلْناهم، دَخدَخْمةً (Tayfanı alçaltdıq, zəlil etdik). Şeybani qeyd etmişdir ki, الدخدخة (əd-daxdaxə) yorğunluq deməkdir.\n\nالدُّخُّ (əl-dux) sözünə gəldikdə, o, öz باب (bölümündə) qeyd edilmişdir və o, دُخان (tüstü) deməkdir. (Şair) demişdir:\n* عند سُعَارِ النّارِ يَغْشَى الدَّخَّا (٢) *\n(Odda alovun şiddəti zamanı tüstünü bürüyər...)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb mətnindəki «دَخدَخةً» sözü təhrif edilərək «دَخدَخْمةً» yazılmışdır.",
+  "Türkiyə türkcəsi sözü işlədilmişdir (bölümündə) və «باب» sözü ərəb qrafikası ilə qalmışdır.",
+  "Hərf adı səhvdir (xah yerinə xa)."
+ ],
+ "review_ts": "2026-11-17T13:41:31.236Z"
 }

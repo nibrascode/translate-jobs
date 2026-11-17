@@ -11,9 +11,21 @@
   "page_to": 163
  },
  "ar": "الخاء والدال والميم أصلٌ واحدٌ منقاس، وهو إطافة الشَّى بالشئ. فالخَدَمْ الخلاخيل، الواحد خَدَمة. قال:\n* يَبْحَثْنَ بَحْثاً كمُضِلاَّتِ الخَدَمْ (٤) *\nوالخَدْماء: الشَّاةُ تبيضُّ أوظِفْتُها والمُخَدَّم: موضع الخِدام من السَّاق.\nوفرسٌ مخدَّم، إذا كان تحجيلُه مستديراً فوق أَشاعِرِهِ. قال الخليل: الخَدَمةُ سيْرٌ محْكَم مثل الحَلْقة، تُشَدُّ فى رُسْغ البعير ثم تشدُّ إليه سَرِيحة النّعْل. قال:\nوسمِّى الخلخال خَدَمَةً بذلك. والوَعِل الأرَحُّ المخَدَّم: الواسع الأظلاف الذى أحاط البياضُ بأوظِفته. قال:\n* تُعْيى الأرَحَّ المخدَّما (٥) *\nومن هذا الباب الخِدْمة. ومنه استقاق [الخادم]؛ لأنَّ الخادمَ يُطيف بمخدومه.",
- "az": "«خدم» (خ، د، م) — bir şeyin başqa bir şeyi əhatə etməsini bildirən vahid, qaydaya uyğun əsasdır. الْخَدَمْ (əl-xədəm) — xalxallardır, təkli خَدَمَة (xədəmə) olur. Şair deyib: * يَبْحَثْنَ بَحْثاً كمُضِلاَّتِ الخَدَمْ (٤) * (Xalxallarını itirənlər kimi qazıb axtarırlar). وَالْخَدْمَاءُ (əl-xədmaü) — ayaq biləkləri ağaran qoyun. وَالْمُخَدَّمُ (əl-muxəddəm) — budda xidamin (xalxalın) yeri. Və پərsvi muxəddəm — dırnaq üstündəki tüklərin üzərində ağlığı dairəvi olanda. Xəlil demişdir: الْخَدَمَة (əl-xədəmə) — dəvənin topuğuna bağlanan, sonra ona ayaqqabının qayışı bağlanan halqa kimi möhkəm qayışdır. O demişdir: Xalxal buna görə خَدَمَة (xədəmə) adlanmışdır. Və əl-ərəh əl-muxəddəm (geniş dırnaqlı, ayaqları ağla əhatə olunmuş dağ keçisi) — dırnaqları genis, ağlıq biləklərini əhatə etmiş olan dağ keçisi. Şair deyib: * تُعْيى الأرَحَّ المخدَّما (٥) * (Geniş dırnaqlı, ağ biləkli dağ keçisini yorur). Bu fəsildəndir: الْخِدْمَة (əl-xidmə). Və buradan götürülmüşdür: [الخادم] (əl-xadim — xidmətçi); çünki xadim xidmət etdiyi şəxsin ətrafında dolanır.",
+ "az": "[خدم]\nXa, dal və mim qaydaya uyğun tək bir kökdür, o da bir şeyin başqa bir şeyi əhatə etməsidir. الخَدَمْ (xalxallar) — xalxallardır, təki خَدَمة (xalxal) olur. Şair demişdir:\n* يَبْحَثْنَ بَحْثاً كمُضِلاَّتِ الخَدَمْ (٤) * (Xalxallarını itirənlər kimi eşələyib axtarırlar).\nوالخَدْماء (ayağı ağ qoyun) — ayaq biləkləri ağaran qoyundur. والمُخَدَّم (xalxal yeri) — baldırda الخِدام (xalxal) taxılan yerdir.\nفرسٌ مخدَّم (ayağı halqalı at) — dırnaq üstündəki tüklərin üzərində ağlığı dairəvi olan atdır. Xəlil demişdir: الخَدَمةُ (xədəmə) — dəvənin topuğuna bağlanan, sonra ona ayaqqabı qayışı bərkidilən halqa kimi möhkəm qayışdır. O demişdir:\nXalxal da buna görə خَدَمَةً (xədəmə) adlandırılmışdır. الوَعِل الأرَحُّ المخدَّم (ayaqları ağla əhatə olunmuş enli dırnaqlı dağ keçisi) — dırnaqları geniş, ağlıq ayaq biləklərini əhatə etmiş dağ keçisidir. Şair demişdir:\n* تُعْيى الأرَحَّ المخدَّما (٥) * (Enli dırnaqlı, ağ biləkli dağ keçisini yorur).\nBu babdandır: الخِدْمة (xidmət). [الخادم] (xadim, xidmətçi) sözü də buradan törəmişdir; çünki xadim xidmət etdiyi şəxsin ətrafında dolanır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:07:57.787Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خدم» (خ، د، م) — bir şeyin başqa bir şeyi əhatə etməsini bildirən vahid, qaydaya uyğun əsasdır. الْخَدَمْ (əl-xədəm) — xalxallardır, təkli خَدَمَة (xədəmə) olur. Şair deyib: * يَبْحَثْنَ بَحْثاً كمُضِلاَّتِ الخَدَمْ (٤) * (Xalxallarını itirənlər kimi qazıb axtarırlar). وَالْخَدْمَاءُ (əl-xədmaü) — ayaq biləkləri ağaran qoyun. وَالْمُخَدَّمُ (əl-muxəddəm) — budda xidamin (xalxalın) yeri. Və پərsvi muxəddəm — dırnaq üstündəki tüklərin üzərində ağlığı dairəvi olanda. Xəlil demişdir: الْخَدَمَة (əl-xədəmə) — dəvənin topuğuna bağlanan, sonra ona ayaqqabının qayışı bağlanan halqa kimi möhkəm qayışdır. O demişdir: Xalxal buna görə خَدَمَة (xədəmə) adlanmışdır. Və əl-ərəh əl-muxəddəm (geniş dırnaqlı, ayaqları ağla əhatə olunmuş dağ keçisi) — dırnaqları genis, ağlıq biləklərini əhatə etmiş olan dağ keçisi. Şair deyib: * تُعْيى الأرَحَّ المخدَّما (٥) * (Geniş dırnaqlı, ağ biləkli dağ keçisini yorur). Bu fəsildəndir: الْخِدْمَة (əl-xidmə). Və buradan götürülmüşdür: [الخادم] (əl-xadim — xidmətçi); çünki xadim xidmət etdiyi şəxsin ətrafında dolanır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, tərcümə «[خدم]» ilə başlamır.",
+  "«فرسٌ مخدَّم» sözünün ərəbcə yazılışı buraxılıb və əvəzinə pozulmuş «پərsvi muxəddəm» ifadəsi yazılıb.",
+  "«السَّاق» sözü «bud» kimi səhv tərcümə edilib (düzgünü: baldır).",
+  "«الخِدام» və «الوَعِل الأرَحُّ المخدَّم» ifadələri ərəb qrafikası ilə verilməyib.",
+  "«genis» kimi orfoqrafik səhv var."
+ ],
+ "review_ts": "2026-11-17T13:20:24.426Z"
 }

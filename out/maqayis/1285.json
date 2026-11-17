@@ -11,7 +11,19 @@
   "page_to": 296
  },
  "ar": "الدال واللام والصاد تدلُّ على لِينٍ ونَعْمة. فالدِّلاص:\nالدِّرع الليّنة. ويقولون: دَلَصت السُّيول الصّخرةَ، كأنها ليَّنَتْها. قال:\n* صَفاً دَلَصَتْهُ طَحْمَةُ السَّيلِ أخْلَقُ (٤) *\nوالدَّليص: البَرَّاق. ويقال اندَلَصَ الشَّئُ مِنْ يَدى، إذا سَقَط. وكأنَّ هذا مشتقُّ، أو تكونُ الدّالُ بدلَا من الميم، وهو من انْمَلَصَ وأَمْلصت المرأة، إذا أَسْقَطَت",
- "az": "«دلص» (dəlis): Dal, lam və sad yumşaqlığa və nemətə dəlalət edir. «الدِّلاص» (əd-diləs) — yumşaq zirehdir. Deyirlər: «دَلَصت السُّيول الصّخرةَ» (dələsəti əs-suyûlu əs-səxrətə) — sellər qayanı hamarladı, elə bil yumşaltdı. O demişdir:\n* صَفاً دَلَصَتْهُ طَحْمَةُ السَّيلِ أخْلَقُ (١) *\n(Sel axınının hamarladığı qaya köhnədir...)\n«الدَّليص» (əd-delyis) — parıldayan deməkdir. Deyilir: «اندَلَصَ الشَّئُ مِنْ يَدى» (indələsə əl-şeyu min yədi) — əşya əlimdən düşdü. Sanki bu, törəmədir və ya dal mim hərfinin əvəzidir, o da «انْمَلَصَ» (inmələsə) və qadın uşaq saldıqda işlədilən «أَمْلصت» (əmləsət) sözündəndir.",
+ "az": "[دلص]\nDal, lam və sad yumşaqlığa və incəliyə (hamarlığa) dəlalət edir. «الدِّلاص» (əd-dilas) — yumşaq zirehdir. Deyirlər: «دَلَصت السُّيول الصّخرةَ» (dələsəti əs-suyulu əs-səxrətə) — sellər qayanı hamarladı, sanki onu yumşaltdı. O demişdir:\n* صَفاً دَلَصَتْهُ طَحْمَةُ السَّيلِ أخْلَقُ (٤) *\n(Sel axınının hamarladığı hamar/sürüşkən qaya).\n«الدَّليص» (əd-dəlis) — parıldayan deməkdir. Deyilir: «اندَلَصَ الشَّئُ مِنْ يَدى» (indələsə əş-şeyu min yədi) — əşya əlimdən sürüşüb düşdü. Sanki bu, törəmədir və ya dal mim hərfinin əvəzidir; o da «انْمَلَصَ» (inmələsə) və qadın uşaq saldıqda işlədilən «أَمْلصت» (əmləsət) sözündəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.148Z"
+ "ts": "2026-10-25T01:17:18.148Z",
+ "prev_az": "«دلص» (dəlis): Dal, lam və sad yumşaqlığa və nemətə dəlalət edir. «الدِّلاص» (əd-diləs) — yumşaq zirehdir. Deyirlər: «دَلَصت السُّيول الصّخرةَ» (dələsəti əs-suyûlu əs-səxrətə) — sellər qayanı hamarladı, elə bil yumşaltdı. O demişdir:\n* صَفاً دَلَصَتْهُ طَحْمَةُ السَّيلِ أخْلَقُ (١) *\n(Sel axınının hamarladığı qaya köhnədir...)\n«الدَّليص» (əd-delyis) — parıldayan deməkdir. Deyilir: «اندَلَصَ الشَّئُ مِنْ يَدى» (indələsə əl-şeyu min yədi) — əşya əlimdən düşdü. Sanki bu, törəmədir və ya dal mim hərfinin əvəzidir, o da «انْمَلَصَ» (inmələsə) və qadın uşaq saldıqda işlədilən «أَمْلصت» (əmləsət) sözündəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[دلص]» formatında olmalıdır.",
+  "Şeirdəki haşiyə rəqəmi AR-da (٤) olduğu halda səhvən (١) kimi dəyişdirilmişdir.",
+  "Şeirdəki «أخْلَقُ» sözü 'köhnədir' yox, 'hamar/sürüşkən' mənasındadır.",
+  "«نَعْمة» sözü 'nemət' yox, 'incəlik/hamarlıq' kimi verilməlidir; «الدَّليص» transkripsiyası səhvdir."
+ ],
+ "review_ts": "2026-11-17T14:15:46.486Z"
 }

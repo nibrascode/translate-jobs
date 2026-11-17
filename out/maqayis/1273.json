@@ -11,7 +11,18 @@
   "page_to": 291
  },
  "ar": "الدال والكاف والنون أصَيلٌ يدلُّ على تنضِيد شئِ إلى شئ. يقال دَكَنْتُ المَتَاعَ، إذا نَضّدْتَ بعضَه فوق بعض. ومنه اشتقاق الدُّكَّان، وهو عربىٌّ. قال العبدىّ (٢):\nفأبْقَى باطِلِى والجِدُّ منها … كدُكّانِ الدَّرابِنَةِ المَطِينِ (٣)",
- "az": "«دكن» (dəkun): Dal, kaf və nun bir şeyi digərinin üstünə tərtib etməyə (sıralamağa) dəlalət edən kiçik bir əsasdır. Deyilir: «دَكَنْتُ المَتَاعَ» (dəkäntü əl-mətəə) — əşyanı bir-birinin üstünə düzdün. «الدُّكَّان» (əd-dukkən) sözünün kökü də bundan götürülmüşdür və o, ərəbi sözüdür. Əl-Əbdi demişdir (2):\nفأبْقَى باطِلِى والجِدُّ منها … كدُكّانِ الدَّرابِنَةِ المَطِينِ (٣)\n(Mənim batilim və onun ciddiyyəti, dərabinələrin palçıqlanmış dükanına bənzər şəkildə qaldı).",
+ "az": "[دكن]\nالدال (dal), الكاف (kaf) və النون (nun) bir şeyi digərinin üstünə düzməyə (sıralamağa) dəlalət edən kiçik bir əsasdır. Deyilir: دَكَنْتُ المَتَاعَ (əşyanı bir-birinin üstünə düzdün). الدُّكَّان (dükan) sözünün kökü də bundan götürülmüşdür və o, ərəb sözüdür. Əl-Əbdi demişdir (٢):\nفأبْقَى باطِلِى والجِدُّ منها … كدُكّانِ الدَّرابِنَةِ المَطِينِ (٣)\n(Mənim batilim və ciddiyyətim ondan [nəticədə] qapıçıların palçıqla suvanmış dükanı kimi bir şey qoyub getdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.147Z"
+ "ts": "2026-10-25T01:17:18.147Z",
+ "prev_az": "«دكن» (dəkun): Dal, kaf və nun bir şeyi digərinin üstünə tərtib etməyə (sıralamağa) dəlalət edən kiçik bir əsasdır. Deyilir: «دَكَنْتُ المَتَاعَ» (dəkäntü əl-mətəə) — əşyanı bir-birinin üstünə düzdün. «الدُّكَّان» (əd-dukkən) sözünün kökü də bundan götürülmüşdür və o, ərəbi sözüdür. Əl-Əbdi demişdir (2):\nفأبْقَى باطِلِى والجِدُّ منها … كدُكّانِ الدَّرابِنَةِ المَطِينِ (٣)\n(Mənim batilim və onun ciddiyyəti, dərabinələrin palçıqlanmış dükanına bənzər şəkildə qaldı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[دكن]» formatı ilə başlamır.",
+  "Transkripsiyada Azərbaycan əlifbasında olmayan «ä» hərfi işlədilib.",
+  "Şeirdəki «الدَّرابِنَةِ» (qapıçılar, darvaza keşikçiləri) sözü tərcüməsiz qalıb və «منها» əvəzliyi düzgün verilməyib."
+ ],
+ "review_ts": "2026-11-17T14:11:43.043Z"
 }

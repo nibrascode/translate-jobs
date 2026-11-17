@@ -11,7 +11,17 @@
   "page_to": 286
  },
  "ar": "الدال والفاء واللام ليس أصلاً، وإن كان قد جاء فيه الدِّفْلَى، وهو شَجَرٌ.",
- "az": "«دفل» (د-ف-ل): dal, fa və lam hərfləri əsl bir kök deyildir, herçənd ki, ağac növü olan «الدِّفْلَى» (əddifla - zəhərli zeytun növü/zıkkum) kəlməsi gəlmişdir.",
+ "az": "[دفل] «الدال والفاء واللام» (dal, fa və lam) əsl kök deyildir, hərçənd ki, ağac olan الدِّفْلَى (difla) kəlməsi gəlmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:16:56.299Z"
+ "ts": "2026-10-25T01:16:56.299Z",
+ "prev_az": "«دفل» (د-ف-ل): dal, fa və lam hərfləri əsl bir kök deyildir, herçənd ki, ağac növü olan «الدِّفْلَى» (əddifla - zəhərli zeytun növü/zıkkum) kəlməsi gəlmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə formatı [دفل] ilə başlamalıdır.",
+  "Mətndə orfoqrafik səhv («herçənd») və Türkiyə türkcəsinə aid əlavə («zıkkum») var."
+ ],
+ "review_ts": "2026-11-17T13:51:57.321Z"
 }

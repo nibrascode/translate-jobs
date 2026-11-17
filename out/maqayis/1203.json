@@ -13,5 +13,10 @@
  "ar": "الدَّال والظاء ليس أصلاً يعوَّل عليه ولا يَنْقَاس منه. ذكروا من الخليل أنَّ الدَّظَّ الشَّلُّ (١)؛ يقال دَظظْناهم، إذا شَلَلْناهم. وليس ذا بشئِ.",
  "az": "«دظ» (d-z) — Dal və zai hərfləri etibar edilən və ondan qiyas çıxarılan bir əsas deyil. Xəlildən zikr etmişlər ki, «الدَّظَّ» — qovub qaçırmaqdır (١); «دَظظْناهم» — yəni onları qovub qaçırdıq, deyilir. Bu isə heç bir şey (əhəmiyyətli söz) deyil.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:40.620Z"
+ "ts": "2026-10-25T01:14:40.620Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T13:29:19.813Z"
 }

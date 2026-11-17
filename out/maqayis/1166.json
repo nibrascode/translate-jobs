@@ -11,9 +11,18 @@
   "page_to": 232
  },
  "ar": "الخاء والياء والباء أصلٌ واحد يدلُّ على عدم فائدةٍ وحِرمانٍ. والأصل قولهم للقِدْحِ الذى لا يُورِى: هو خَيّاب. ثمّ قالوا: سَعَى فى أمر فخابَ، وذلك إذا حُرِم (١) فلم يُفِدْ خيْراً.",
- "az": "«خيب»: الخاء، Yə və Ba — xeyrin olmamasına və məhrumiyyətə dəlalət edən tək bir əsasdır. Əsas odur ki, onlar od çıxarmayan qumar oxuna «خَيّاب» (xəyyab) deyirlər. Sonra dedilər: «سَعَى فى أمر فخابَ» (bir işdə səy göstərdi, lakin məhrum oldu), bu o zaman olur ki, o, məhrum olur və heç bir xeyir əldə etmir (١).",
+ "az": "[خيب]\nXa, ya və ba faydanın olmamasına və məhrumiyyətə dəlalət edən tək bir əsasdır. Əsli onların od çıxarmayan çaxmaq (və ya qumar oxu) haqqında «هو خَيّاب» (o, xəyyabdır) demələridir. Sonra dedilər: «سَعَى فى أمر فخابَ» (bir işdə səy göstərdi, lakin əliboş qaldı), bu o zaman olur ki, məhrum olur (١) və heç bir xeyir əldə etmir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:13:33.573Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خيب»: الخاء، Yə və Ba — xeyrin olmamasına və məhrumiyyətə dəlalət edən tək bir əsasdır. Əsas odur ki, onlar od çıxarmayan qumar oxuna «خَيّاب» (xəyyab) deyirlər. Sonra dedilər: «سَعَى فى أمر فخابَ» (bir işdə səy göstərdi, lakin məhrum oldu), bu o zaman olur ki, o, məhrum olur və heç bir xeyir əldə etmir (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[خيب]» formatında deyil və «الخاء» hərfinin adı tərcümə edilmədən ərəbcə saxlanılıb.",
+  "«(١)» haşiyə rəqəminin yeri cümlədə dəyişdirilib."
+ ],
+ "review_ts": "2026-11-17T13:25:12.452Z"
 }

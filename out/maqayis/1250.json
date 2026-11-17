@@ -13,5 +13,10 @@
  "ar": "الدال والعين والصاد أصلٌ يدلُّ على دِقّة ولين.\nفالدِّعْصُ: ما قلَّ ودقَّ من الرمل. والدّعصاء: الأرضُ السَّهْلة. ومن الباب:\nتَدَعَّصَ اللَّحمُ، إذا بالغ فى النُّضْجِ. ويقولون أدْعَصَه الحَرُّ، إذا قتلَه، كأنَّه أنضجَه فقتَله.",
  "az": "[دعص] «الدال والعين والصاد» (dal, ayn və sad) incəliyə və yumşaqlığa dəlalət edən tək bir əsasdır. الدِّعْصُ (diəs): qumdan kiçik və incə olan hissəsidir. Və الدّعصاء (dəsa): hamar yerdir. Bu fəsildəndir: تَدَعَّصَ اللَّحمُ (ət çox bişdi), ətin bişməyində həddi aşdığı zaman. Deyirlər: أدْعَصَه الحَرُّ (isti onu öldürdü), sanki onu bişirərək öldürdü.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:16:07.371Z"
+ "ts": "2026-10-25T01:16:07.371Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T13:49:20.911Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 240
  },
  "ar": "الخاء * والباء والسين أصلٌ واحد يدلُّ على أخْذ الشئ قهراً وغَلَبة. يقال تَخَبَّسْتُ الشَّئَ: أخذْتُه. وذلك الشئُ خُبَاسَة. والخُباسة:\nالمَغْنَم؛ يقال اختبَس الشَّئَ: أخذَه مُغالَبة. وأسدٌ خَبُوس. قال:\nولكِنِّى ضُبَارِمَةٌ جَموحٌ … على الأقرانِ مُجْتَرِئُ خَبُوسُ (٤)",
- "az": "[خبس] الخاء * والباء والسين أصلٌ واحد يدلُّ على أخْذ الشئ قهراً وغَلَبة. (Xar, ba və sin hərfləri bir əsas mənaya dəlalət edir ki, o da bir şeyi zorla və qələbə ilə almaqdır). يقال تَخَبَّسْتُ الشَّئَ: أخذْتُه. (Deyilir: «Təxəbbəstüş-şəyə: onu aldım»). وذلك الشئُ خُبَاسَة. (Və həmin şey «xubasə»dir). والخُباسة: المَغْنَم؛ يقال اختبَس الشَّئَ: أخذَه مُغالَبة. («əl-Xubasə» qənimətdir; deyilir: «ixtəbəsə-ş-şeyə» — onu mübarizə ilə aldı). وأسدٌ خَبُوس. (Və «xəbus» aslandır). قال: ولكِنِّى ضُبَارِمَةٌ جَموحٌ … على الأقرانِ مُجْتَرِئُ خَبُوسُ (٤) (Şair demişdir: Lakin mən sərt, inadkar… tayfama qarşı cəsur və xəbus biriyəm [4]).",
+ "az": "[خبس]\\nالخاء * والباء والسين أصلٌ واحد يدلُّ على أخْذ الشئ قهراً وغَلَبة. (Xa, ba və sin hərfləri bir əsas mənaya dəlalət edir ki, o da bir şeyi zorla və qələbə ilə almaqdır). يقال تَخَبَّسْتُ الشَّئَ: أخذْتُه. (Deyilir: «Təxəbbəstüş-şəyə», yəni onu aldım). وذلك الشئُ خُبَاسَة. (Və həmin şey «xubasə»dir). والخُباسة: المَغْنَم؛ يقال اختبَس الشَّئَ: أخذَه مُغالَبة. («Əl-xubasə» qənimətdir; deyilir: «ixtəbəsə-ş-şeyə» — onu zorla/mübarizə ilə aldı). وأسدٌ خَبُوس. (Və «xəbus» aslandır). قال: ولكِنِّى ضُبَارِمَةٌ جَموحٌ … على الأقرانِ مُجْتَرِئُ خَبُوسُ (٤) (Şair demişdir: Lakin mən sərt, dikbaş… rəqiblərə qarşı cəsur və şikarını qapıb alan [xəbus] biriyəm (٤)).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:18.899Z"
+ "ts": "2026-10-25T01:14:18.899Z",
+ "prev_az": "[خبس] الخاء * والباء والسين أصلٌ واحد يدلُّ على أخْذ الشئ قهراً وغَلَبة. (Xar, ba və sin hərfləri bir əsas mənaya dəlalət edir ki, o da bir şeyi zorla və qələbə ilə almaqdır). يقال تَخَبَّسْتُ الشَّئَ: أخذْتُه. (Deyilir: «Təxəbbəstüş-şəyə: onu aldım»). وذلك الشئُ خُبَاسَة. (Və həmin şey «xubasə»dir). والخُباسة: المَغْنَم؛ يقال اختبَس الشَّئَ: أخذَه مُغالَبة. («əl-Xubasə» qənimətdir; deyilir: «ixtəbəsə-ş-şeyə» — onu mübarizə ilə aldı). وأسدٌ خَبُوس. (Və «xəbus» aslandır). قال: ولكِنِّى ضُبَارِمَةٌ جَموحٌ … على الأقرانِ مُجْتَرِئُ خَبُوسُ (٤) (Şair demişdir: Lakin mən sərt, inadkar… tayfama qarşı cəsur və xəbus biriyəm [4]).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الخاء» hərfinin adı «Xar» kimi səhv yazılmışdır («Xa» olmalıdır).",
+  "Şeir beytində «على الأقرانِ» (rəqiblərə/tay-tuşlara qarşı) ifadəsi «tayfama qarşı» kimi səhv tərcümə edilmiş, «خَبُوسُ» sözü isə tərcüməsiz qalmışdır."
+ ],
+ "review_ts": "2026-11-17T13:25:44.717Z"
 }

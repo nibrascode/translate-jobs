@@ -11,7 +11,17 @@
   "page_to": 246
  },
  "ar": "الخاء والثاء والميم ليس أصلاً. وربَّما قالوا لِغلَظ الأنف الخَثَم، والرّجلُ أخثَم.",
- "az": "«خثم» (x-v-m) — Xa, sə və mim əsas kök deyil. Bəzən burnun böyüklüyünə və ya enliliyinə «الخَثَم» (basıqburunluluq), kişiyə isə «أخثَم» (basıqburunlu) deyirlər.",
+ "az": "[خثم]\\nXa, sa və mim əsas kök deyil. Bəzən burnun qalınlığına (iriliyinə) «الخَثَم» (qalınburunluluq), kişiyə isə «أخثَم» (qalınburunlu) deyirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:40.619Z"
+ "ts": "2026-10-25T01:14:40.619Z",
+ "prev_az": "«خثم» (x-v-m) — Xa, sə və mim əsas kök deyil. Bəzən burnun böyüklüyünə və ya enliliyinə «الخَثَم» (basıqburunluluq), kişiyə isə «أخثَم» (basıqburunlu) deyirlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kökün transliterasiyasında səhv var (x-v-m yazılıb).",
+  "«الخَثَم» (burnun qalınlığı) səhvən «basıqburunluluq» kimi tərcümə edilib."
+ ],
+ "review_ts": "2026-11-17T13:29:19.810Z"
 }

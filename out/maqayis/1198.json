@@ -11,7 +11,17 @@
   "page_to": 246
  },
  "ar": "الخاء والثاء والحرف المعتل ليس أصلا. وربَّما قالوا امرأةٌ خَثْوَاء: مستَرخِية البطن. وواحدُ الأخثاء خِثْىٌ. وليس بشئ. واللّه أعلم.",
- "az": "«خثا» (x-v-y) — Xa, sə və zəif hərf əsas kök deyil. Bəzən «امرأةٌ خَثْوَاء» (qarın boş qadın: qarnı sallanan qadın) deyirlər. «الأخثاء» sözünün təkidi «خِثْىٌ»dir. Bu isə heç bir şey (əhəmiyyətli bir söz) deyildir. Allah daha yaxşı bilir.",
+ "az": "[خثا]\\nXa, sa və illətli (zəif) hərf əsas kök deyil. Bəzən «امرأةٌ خَثْوَاء» (qarnı boş, sallanan qadın) deyirlər. «الأخثاء» (təzəklər) sözünün təki «خِثْىٌ»dir (təzək). Bu isə heç bir şey (əhəmiyyətli bir söz) deyildir. Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:40.619Z"
+ "ts": "2026-10-25T01:14:40.619Z",
+ "prev_az": "«خثا» (x-v-y) — Xa, sə və zəif hərf əsas kök deyil. Bəzən «امرأةٌ خَثْوَاء» (qarın boş qadın: qarnı sallanan qadın) deyirlər. «الأخثاء» sözünün təkidi «خِثْىٌ»dir. Bu isə heç bir şey (əhəmiyyətli bir söz) deyildir. Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kökün transliterasiyasında səhv var (x-v-y yazılıb).",
+  "«واحدُ الأخثاء» ifadəsi səhvən «təkidi» kimi yazılıb (düzgünü «təki»dir) və «الأخثاء» ilə «خِثْىٌ» sözlərinin mənası verilməyib."
+ ],
+ "review_ts": "2026-11-17T13:29:19.811Z"
 }

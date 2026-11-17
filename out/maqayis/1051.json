@@ -11,9 +11,20 @@
   "page_to": 166
  },
  "ar": "الخاء والذال واللام أصلٌ واحدٌ يدلُّ على تَرْك الشَّئ والقُعود عنه. فالخِذْلان: تَرك المَعُونة. ويقال خَذَلَتِ الوحْشيَّةُ: أقامَتْ على وَلَدِها؛ وهى خَذُول. قال:\nخَذُولٌ تُراعِى رَبْرَباً بخَميلةٍ … تَنَاولُ أطرافَ البَريرِ وترتَدِى (٣)\nومن الباب تخاذَلَتْ رِجلاه: ضَعُفَتَا. من قوله:\n* وخَذُولِ الرِّجْل من غير كَسَحْ (١) *\nوقال آخر (٢):\n* صَرْعى نوؤُها متخاذِلُ *\nورجلٌ خُذَلة، للَّذى لا يزال يَخذُلُ:",
- "az": "«خذل» (خ، ذ، ل) — bir şeyi tərk etməyə və ondan oturub geri qalmağa dəlalət edən tək bir əsas prinsipdir. الْخِذْلَانُ (əl-xizlan) — kömək etməyi tərk etməkdir. Deyilir: خَذَلَتِ الوحْشيَّةُ (xədələti əl-vəhşiyyətu) — vəhşi dişi heyvan balasının yanında qaldı; o, خَذُول (xədul) adlanır. Şair deyib: خَذُولٌ تُراعِى رَبْرَباً بخَميلةٍ … تَنَاولُ أطرافَ البريرِ وترتَدِى (٣) (Balasının yanında qalan, sıx meşədə ceyran sürüsünü güdən xədul — bərabər aradakı budaqların uclarını yeyir və gəzişir). Və fəsildəndir: تخاذَلَتْ رِجلاه (təxadələt rijlühu) — ayaqları zəiflədi. Bu sözdən: * وخَذُولِ الرِّجْل من غير كَسَحْ (١) * (İfrlic olmadan ayağı zəifləyən). Və başqası deyib (2): * صَرْعى نوؤُها متخاذِلُ * (Yıxılmışlar, onların ulduz batması zəifləyəndir). Və رَجُلٌ خُذَلةٌ (xudələtün kişi) — dayanmadan başqalarını tərk edən/yardımsız qoyan kəsdir.",
+ "az": "[خذل]\nXa, zal və lam bir şeyi tərk etməyə və ondan geri qalmağa dəlalət edən vahid bir əsasdır. فالخِذْلان (əl-xizlan) — kömək etməyi tərk etməkdir. Deyilir: خَذَلَتِ الوحْشيَّةُ (vəhşi dişi heyvan balasının yanında qaldı); o, خَذُول (xəzul) adlanır. Şair demişdir:\nخَذُولٌ تُراعِى رَبْرَباً بخَميلةٍ … تَنَاولُ أطرافَ البَريرِ وترتَدِى (٣) (Balasının yanında qalan, sıx meşədə ceyran sürüsünü güdən xəzul — ərak ağacının budaqlarının uclarından yeyir və onlara bürünür).\nBu bölmədəndir: تخاذَلَتْ رِجلاه (iki ayağı zəiflədi). Bu sözdən:\n* وخَذُولِ الرِّجْل من غير كَسَحْ (١) * (İflic olmadan ayağı zəifləyən).\nBaşqası da demişdir (٢):\n* صَرْعى نوؤُها متخاذِلُ * (Yıxılmışlar, onların yağış gətirən ulduzunun batması zəifləyəndir).\nرجلٌ خُذَلة (xuzələ olan kişi) — dayanmadan başqalarını yardımsız qoyan kəsdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:07:57.787Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خذل» (خ، ذ، ل) — bir şeyi tərk etməyə və ondan oturub geri qalmağa dəlalət edən tək bir əsas prinsipdir. الْخِذْلَانُ (əl-xizlan) — kömək etməyi tərk etməkdir. Deyilir: خَذَلَتِ الوحْشيَّةُ (xədələti əl-vəhşiyyətu) — vəhşi dişi heyvan balasının yanında qaldı; o, خَذُول (xədul) adlanır. Şair deyib: خَذُولٌ تُراعِى رَبْرَباً بخَميلةٍ … تَنَاولُ أطرافَ البريرِ وترتَدِى (٣) (Balasının yanında qalan, sıx meşədə ceyran sürüsünü güdən xədul — bərabər aradakı budaqların uclarını yeyir və gəzişir). Və fəsildəndir: تخاذَلَتْ رِجلاه (təxadələt rijlühu) — ayaqları zəiflədi. Bu sözdən: * وخَذُولِ الرِّجْل من غير كَسَحْ (١) * (İfrlic olmadan ayağı zəifləyən). Və başqası deyib (2): * صَرْعى نوؤُها متخاذِلُ * (Yıxılmışlar, onların ulduz batması zəifləyəndir). Və رَجُلٌ خُذَلةٌ (xudələtün kişi) — dayanmadan başqalarını tərk edən/yardımsız qoyan kəsdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[خذل]» formatı ilə başlamalıdır.",
+  "Şeir beytində «البَريرِ» sözü «bərabər aradakı budaqlar» kimi səhv tərcümə edilmiş və ərəbcə yazılışda hərəkə buraxılmışdır.",
+  "«تخاذَلَتْ رِجلاه» ifadəsinin oxunuşu «rijlühu» kimi səhv verilmiş, «iflic» sözü «ifrlic» kimi yazılmışdır.",
+  "İkinci şeir beytindəki haşiyə rəqəmi ərəb rəqəmi «(٢)» əvəzinə «(2)» kimi verilmişdir."
+ ],
+ "review_ts": "2026-11-17T13:20:49.253Z"
 }

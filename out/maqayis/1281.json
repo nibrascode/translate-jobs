@@ -11,7 +11,19 @@
   "page_to": 294
  },
  "ar": "الدال واللام والثاء أصلٌ يدلُّ على الاندفاع. يقال لمدَافع السَّيل: المدالث؛ الواحد مَدْلَثٌ. والناقة الدِّلاث: السريعة. يقال اندلَثَتِ النّاقةُ تنَدِلثُ اندلاثاً. وحكى بعضُهم: دلَثَ الشَّيخُ، مثل دَلَف. ويقال اندلَثَ فُلانٌ على فُلانٍ، إذا اندرَأَ عليه وانصبَّ.",
- "az": "«دلث» (dəlis): Dal, lam və sə çırpınıb irəli atılmağa dəlalət edən bir əsasdır. Seli dəf edən yerlərə «المَدالث» (əl-mədalis) deyilir; təkli «مَدْلَثٌ» (mədləş). Sürətli dişi dəvəyə «الدِّلاث» (əd-diləs) deyilir. Deyilir: «اندلَثَتِ النّاقةُ» (indələsəti əl-nəqə) — dişi dəvə irəli atıldı. Bəziləri rəvayət etmişdir: «دلَثَ الشَّيخُ» (dələşə əl-şeyx) — dələfəyə bənzər şəkildə. Və deyilir: «اندلَثَ فُلانٌ على فُلانٍ» (indələsə fülənun alə fülənin) — filankəs filankəsin üzərinə qəflətən hücum çəkdi və töküldü.",
+ "az": "[دلث]\nDal, lam və sa çırpınıb irəli atılmağa dəlalət edən bir əsasdır. Selin axdığı yerlərə «المَدالث» (əl-mədalis) deyilir; təki «مَدْلَثٌ» (mədləs) olur. Sürətli dişi dəvəyə «الدِّلاث» (əd-dilas) deyilir. Deyilir: «اندلَثَتِ النّاقةُ تنَدِلثُ اندلاثاً» (indələsəti ən-naqətu təndəlisu indilasən) — dişi dəvə irəli atıldı. Bəziləri «دلَثَ الشَّيخُ» (dələsə əş-şeyxu) ifadəsini «دَلَفَ» (dələfə — ağır-ağır yeridi) mənasında rəvayət etmişdir. Və deyilir: «اندلَثَ فُلانٌ على فُلانٍ» (indələsə fulanun alə fulanin) — filankəs filankəsin üzərinə qəflətən hücum çəkdi və töküldü.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.148Z"
+ "ts": "2026-10-25T01:17:18.148Z",
+ "prev_az": "«دلث» (dəlis): Dal, lam və sə çırpınıb irəli atılmağa dəlalət edən bir əsasdır. Seli dəf edən yerlərə «المَدالث» (əl-mədalis) deyilir; təkli «مَدْلَثٌ» (mədləş). Sürətli dişi dəvəyə «الدِّلاث» (əd-diləs) deyilir. Deyilir: «اندلَثَتِ النّاقةُ» (indələsəti əl-nəqə) — dişi dəvə irəli atıldı. Bəziləri rəvayət etmişdir: «دلَثَ الشَّيخُ» (dələşə əl-şeyx) — dələfəyə bənzər şəkildə. Və deyilir: «اندلَثَ فُلانٌ على فُلانٍ» (indələsə fülənun alə fülənin) — filankəs filankəsin üzərinə qəflətən hücum çəkdi və töküldü.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[دلث]» formatında olmalıdır.",
+  "«اندلَثَتِ النّاقةُ تنَدِلثُ اندلاثاً» ifadəsinin davamı (تنَدِلثُ اندلاثاً) buraxılmışdır.",
+  "«مدَافع السَّيل» ifadəsi 'seli dəf edən yerlər' yox, 'selin axdığı yerlər' kimi tərcümə olunmalıdır.",
+  "«مَدْلَثٌ» və «دلَثَ» sözlərinin transkripsiyasında «ث» hərfi səhvən 'ş' kimi verilmişdir."
+ ],
+ "review_ts": "2026-11-17T14:15:46.483Z"
 }

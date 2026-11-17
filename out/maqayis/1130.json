@@ -11,9 +11,19 @@
   "page_to": 215
  },
  "ar": "الخاء والميم والجيم يدلُّ على فتورٍ وتغيُّر. فالخَمَج فى الإنسان:\nالفتور. يقال أصبَحَ فلانٌ خَمِجاً، أى فَاترا. وهو فى شعر الهُذَلىّ (١):\n* أخْشَى دُونَه الخَمَجَا (٢) *\nويقولون خَمِجَ اللّحمُ، إذا تغيَّر وأرْوَحَ.",
- "az": "«خمج» (خ, م, ج) zəifliyə və dəyişməyə dəlalət edir. İnsanda «الخَمَج» — zəiflik, süstlükdür. Deyilir: «أصبَحَ فلانٌ خَمِجاً» (Filankəs süst hala düşdü), yəni zəiflədi. Bu, Hüzəlin şeirində belə gəlmişdir:\n«أخْشَى دُونَه الخَمَجَا (٢)»\nOnlar həmçinin deyirlər: «خَمِجَ اللّحمُ» — ət dəyişdi (iyişdi) və üfunət qoxusu verdi.",
+ "az": "[خمج]\nXa, mim və cim zəifliyə və dəyişməyə dəlalət edir. İnsanda «الخَمَج» —\nzəiflik, süstlükdür. Deyilir: «أصبَحَ فلانٌ خَمِجاً» (Filankəs süst hala düşdü), yəni süst, zəif oldu. Bu, Hüzəlinin (١) şeirində belədir:\n* أخْشَى دُونَه الخَمَجَا (٢) * (* Ondan öncə süstlükdən qorxuram (٢) *)\nOnlar deyirlər: «خَمِجَ اللّحمُ» — ət dəyişdi (iyişdi) və üfunət qoxusu verdi.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:11:06.443Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خمج» (خ, م, ج) zəifliyə və dəyişməyə dəlalət edir. İnsanda «الخَمَج» — zəiflik, süstlükdür. Deyilir: «أصبَحَ فلانٌ خَمِجاً» (Filankəs süst hala düşdü), yəni zəiflədi. Bu, Hüzəlin şeirində belə gəlmişdir:\n«أخْشَى دُونَه الخَمَجَا (٢)»\nOnlar həmçinin deyirlər: «خَمِجَ اللّحمُ» — ət dəyişdi (iyişdi) və üfunət qoxusu verdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə «[خمج]» formatı ilə başlamır.",
+  "«الهُذَلىّ (١)» sözündəki «(١)» haşiyə rəqəmi buraxılıb və nisbət adı «Hüzəl» kimi yanlış verilib.",
+  "Şeir misrasının («* أخْشَى دُونَه الخَمَجَا (٢) *») ulduz işarələri silinib və Azərbaycan dilində mənası verilməyib."
+ ],
+ "review_ts": "2026-11-17T13:23:12.156Z"
 }

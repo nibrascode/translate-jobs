@@ -11,7 +11,18 @@
   "page_to": 271
  },
  "ar": "الدال والراء والنون أصلٌ صحيح، وهو ثقادُمٌ فى الشَّيء\nمع تغيُّرِ لَون. فالدَّرِين: اليَبِيسُ الحَوْلىّ. ويقال للأرض المجْدبة: أمُّ دَرِينٍ. قال:\nتَعَالَىْ نُسَمِّطْ حُبَّ دعْدٍ ونَغْتَدِى … سواءَيْنِ والمرعَى بأُمِّ دَرِينِ (١)\nيقول: تعالَىْ نلزَمْ حُبَّنَا وأرضَنا وعَيْشَنَا.\nومن الباب الدَّرَن، وهو الوسَخ. ومنه دُرَيْنَةُ، وهو نعتٌ للأحمق (٢). فأمّا قولُهم إنَّ الإدْرَوْنَ الأصلُ فكلامٌ قد قِيل، وما ندرى ما هُو (٣).",
- "az": "[درن] الدال والراء والنون (dal, ra və nun hərfləri) səhih bir əsasdır, o da rəngin dəyişməsi ilə birlikdə bir şeyin köhnəlməsidir.\nالدَّرِين (əd-dərin) – keçən ildən qalan quru ot. Quraqlıq torpağa: أمُّ دَرِينٍ (Əmmi-dərin – dərin anası) deyilir. (Şair) demişdir:\nتَعَالَىْ نُسَمِّطْ حُبَّ دعْدٍ ونَغْتَدِى … سواءَيْنِ والمرعَى بأُمِّ دَرِينِ (١)\n(Gəl Dədin sevgisini boynumuza taxaq və səhər tezdən gedək, ikimiz bərabər, otlaq isə Əmmi-dərin torpağında olsun)\n\n(Şair) deyir: Gəl sevvgimizə, torpağımıza və yaşayışımıza sadiq qalaq.\n\nBu babdandır: الدَّرَن (əd-dəran) – çirk. Buradan da دُرَيْنَةُ (Durəynə) sözü gəlir ki, o, axmaq adamın sifətidir (2). \nİdrəun (الإدْرَوْنَ) sözünün əsl olduğu haqda dediklərinə gəldikdə, bu, deyilmiş bir sözdür, amma onun nə olduğunu bilmirik (٣).",
+ "az": "[درن]\nالدال والراء والنون (dal, ra və nun hərfləri) səhih bir əsasdır, o da rəngin dəyişməsi ilə birlikdə bir şeyin köhnəlməsidir. الدَّرِين (əd-dərin) – keçən ildən qalan quru ot. Quraqlıq torpağa: أمُّ دَرِينٍ (Ummu Dərin) deyilir. (Şair) demişdir:\nتَعَالَىْ نُسَمِّطْ حُبَّ دعْدٍ ونَغْتَدِى … سواءَيْنِ والمرعَى بأُمِّ دَرِينِ (١)\n(Gəl Dədin sevgisini boynumuza taxaq və səhər tezdən gedək, ikimiz bərabər, otlaq isə Ummu Dərin torpağında olsun).\n(Şair) deyir: Gəl sevgimizə, torpağımıza və yaşayışımıza sadiq qalaq.\nBu babdandır: الدَّرَن (əd-dərən) – çirk. Buradan da دُرَيْنَةُ (Durəynə) sözü gəlir ki, o, axmaq adamın sifətidir (٢). Onların الإدْرَوْنَ (əl-idrəvn) sözünün əsl (kök) olması haqda dediklərinə gəldikdə, bu, deyilmiş bir sözdür, amma onun nə olduğunu bilmirik (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:15:22.590Z"
+ "ts": "2026-10-25T01:15:22.590Z",
+ "prev_az": "[درن] الدال والراء والنون (dal, ra və nun hərfləri) səhih bir əsasdır, o da rəngin dəyişməsi ilə birlikdə bir şeyin köhnəlməsidir.\nالدَّرِين (əd-dərin) – keçən ildən qalan quru ot. Quraqlıq torpağa: أمُّ دَرِينٍ (Əmmi-dərin – dərin anası) deyilir. (Şair) demişdir:\nتَعَالَىْ نُسَمِّطْ حُبَّ دعْدٍ ونَغْتَدِى … سواءَيْنِ والمرعَى بأُمِّ دَرِينِ (١)\n(Gəl Dədin sevgisini boynumuza taxaq və səhər tezdən gedək, ikimiz bərabər, otlaq isə Əmmi-dərin torpağında olsun)\n\n(Şair) deyir: Gəl sevvgimizə, torpağımıza və yaşayışımıza sadiq qalaq.\n\nBu babdandır: الدَّرَن (əd-dəran) – çirk. Buradan da دُرَيْنَةُ (Durəynə) sözü gəlir ki, o, axmaq adamın sifətidir (2). \nİdrəun (الإدْرَوْنَ) sözünün əsl olduğu haqda dediklərinə gəldikdə, bu, deyilmiş bir sözdür, amma onun nə olduğunu bilmirik (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«sevvgimizə» sözündə hərf səhvi var.",
+  "Haşiyə rəqəmi «(2)» latın rəqəmi ilə yazılmışdır, ərəb rəqəmi «(٢)» olmalıdır.",
+  "«İdrəun (الإدْرَوْنَ)» hissəsində sözün yazılış formatı pozulmuşdur (ərəbcəsi əvvəl, mənası mötərizədə verilməlidir)."
+ ],
+ "review_ts": "2026-11-17T13:41:09.247Z"
 }

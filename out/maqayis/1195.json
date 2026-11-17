@@ -11,7 +11,17 @@
   "page_to": 246
  },
  "ar": "الخاء والثاء والراء أصلٌ يدلُّ على غِلَظٍ فى الشّيءِ مع استِرخاء.\nيقال خَثُرَ اللّبنُ، وهو خَاثِر. وحكى بعضهم: خَثِرَ فلانٌ فى الحىِّ، إذا أَقام فلم يكَدْ يبرح. وليس هذا بشئ.",
- "az": "«خثر» (x-v-r) — Xa, sə və ra hərfləri bir şeydə boşalma (səlistlik) ilə birlikdə qatılığa dəlalət edən bir əsasdır.\n«خَثُرَ اللّبنُ» (süd qatılaşdı) deyilir və o, «خَاثِر»dir (qatı). Bəziləri belə rəvayət etmişdir: «خَثِرَ فلانٌ فى الحيِّ» — filankəs tayfa içində məskunlaşıb demək olar ki, heç yerə tərpənmədi. Lakin bu, heç də əhəmiyyətli bir şey deyil.",
+ "az": "[خثر]\\nXa, sa və ra hərfləri bir şeydə boşalma (yumşaqlıq) ilə birlikdə qatılığa dəlalət edən bir əsasdır.\\n«خَثُرَ اللّبنُ» (süd qatılaşdı) deyilir və o, «خَاثِر»dir (qatı). Bəziləri belə rəvayət etmişdir: «خَثِرَ فلانٌ فى الحىِّ» — filankəs tayfa içində məskunlaşıb demək olar ki, heç yerə tərpənmədi. Lakin bu, heç də əhəmiyyətli bir şey deyil.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:40.619Z"
+ "ts": "2026-10-25T01:14:40.619Z",
+ "prev_az": "«خثر» (x-v-r) — Xa, sə və ra hərfləri bir şeydə boşalma (səlistlik) ilə birlikdə qatılığa dəlalət edən bir əsasdır.\n«خَثُرَ اللّبنُ» (süd qatılaşdı) deyilir və o, «خَاثِر»dir (qatı). Bəziləri belə rəvayət etmişdir: «خَثِرَ فلانٌ فى الحيِّ» — filankəs tayfa içində məskunlaşıb demək olar ki, heç yerə tərpənmədi. Lakin bu, heç də əhəmiyyətli bir şey deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kökün transliterasiyasında səhv var (x-v-r yazılıb, düzgün format [خثر] olmalıdır).",
+  "«استِرخاء» sözü səhvən «boşalma (səlistlik)» kimi tərcümə edilib."
+ ],
+ "review_ts": "2026-11-17T13:29:19.809Z"
 }

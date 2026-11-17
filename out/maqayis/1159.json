@@ -11,9 +11,19 @@
   "page_to": 229
  },
  "ar": "الخاء والواو والضاد أصلٌ واحد يدلُّ على توسُّطِ شئ ودُخولٍ. يقال خُضْتُ الماءَ وغيرَه. وتخاوَضوا فى الحديثِ والأمرِ، أى تفاوَضُوا وتداخَل كلامُهم.",
- "az": "«خوض»: الخاء، الواو və الضاد — bir şeyin ortasına varməyə və içəri girməyə dəlalət edən tək bir əsasdır. Deyilir: «خُضْتُ الماءَ وغيرَه» (Mən suya və başqa bir şeyə girdim). Onlar «تخاوَضوا فى الحديثِ والأمرِ» (söhbətdə və işdə fikir mübadiləsi apardılar), yəni sözləri bir-birinə qarışdı və müzakirə etdilər.",
+ "az": "[خوض]\nXa, vav və dad bir şeyin ortasına girməyə və daxil olmağa dəlalət edən tək bir əsasdır. Deyilir: «خُضْتُ الماءَ وغيرَه» (Mən suya və başqa bir şeyə girdim). Və «تخاوَضوا فى الحديثِ والأمرِ» (söhbətdə və işdə fikir mübadiləsi apardılar), yəni müzakirə etdilər və sözləri bir-birinə daxil oldu (qarışdı).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:13:33.573Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خوض»: الخاء، الواو və الضاد — bir şeyin ortasına varməyə və içəri girməyə dəlalət edən tək bir əsasdır. Deyilir: «خُضْتُ الماءَ وغيرَه» (Mən suya və başqa bir şeyə girdim). Onlar «تخاوَضوا فى الحديثِ والأمرِ» (söhbətdə və işdə fikir mübadiləsi apardılar), yəni sözləri bir-birinə qarışdı və müzakirə etdilər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə «[خوض]» formatı ilə başlamır.",
+  "Hərf adları («الخاء، الواو və الضاد») tərcümə edilmədən ərəbcə saxlanılıb.",
+  "«varməyə» sözündə orfoqrafik səhv var."
+ ],
+ "review_ts": "2026-11-17T13:23:12.157Z"
 }

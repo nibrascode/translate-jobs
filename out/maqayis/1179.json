@@ -11,7 +11,17 @@
   "page_to": 240
  },
  "ar": "الخاء والباء والزاء أصلٌ واحد يدلُّ على خَبْط الشئ باليد.\nتَخَبَّزَت الإبلُ السَّعْدَانَ، إذا خَبطَتْه بأيدِيها. ومن ذلك خَبَزَ الخَبَّازُ الخُبْز. قال:\nلا تَخْبِزَا خَبْزاً وبُسَّا بَسًّا … ولا تُطِيلا بِمُناخٍ حَبْسا (٣)\nويقال: الخَبْزُ ضَرْب البعير بيديه الأرضَ.",
- "az": "[خبز] الخاء والباء والزاء أصلٌ واحد يدلُّ على خَبْط الشئ باليد. (Xar və ba və zay hərfləri bir əsas mənaya dəlalət edir ki, o da bir şeyi əllə çırpmaqdır). تَخَبَّزَت الإبلُ السَّعْدَانَ، إذا خَبطَتْه بأيدِيها. (Dəvələr sə’dan bitkisini əlləri ilə çırpdıqda «təxəbbəzət» [etdilər]). ومن ذلك خَبَزَ الخَبَّازُ الخُبْز. (Və bunlardandır çörəkçinin çörək bişirməsi [xəbəzəl-xəbbazu-l-xubz]). قال: لا تَخْبِزَا خَبْزاً وبُسَّا بَسًّا … ولا تُطِيلا بِمُناخٍ حَبْسا (٣) (Şair demişdir: Çörək kimi çırpmayın və səpələməyin [bussə]… Düşərgədə həbsi uzatmayın [3]). ويقال: الخَبْزُ ضَرْب البعير بيديه الأرضَ. (Deyilir ki, «əl-xəbz» dəvənin ön ayaqları ilə yerə vurmasıdır).",
+ "az": "[خبز]\\nالخاء والباء والزاء أصلٌ واحد يدلُّ على خَبْط الشئ باليد. (Xa, ba və zay hərfləri bir əsas mənaya dəlalət edir ki, o da bir şeyi əllə döymək/çırpmaqdır).\\nتَخَبَّزَت الإبلُ السَّعْدَانَ، إذا خَبطَتْه بأيدِيها. (Dəvələr sə’dan bitkisini ön ayaqları ilə çırpdıqda «təxəbbəzət» [etdilər] deyilir). ومن ذلك خَبَزَ الخَبَّازُ الخُبْز. (Çörəkçinin çörək bişirməsi [خَبَزَ الخَبَّازُ الخُبْز] də bundandır). قال: لا تَخْبِزَا خَبْزاً وبُسَّا بَسًّا … ولا تُطِيلا بِمُناخٍ حَبْسا (٣) (Şair demişdir: Çörək kimi əllə döyməyin, unu qarışdırıb [bəsisə] hazırlayın… Dəvələri çökdürmə yerində çox saxlamayın (٣)).\\nويقال: الخَبْزُ ضَرْب البعير بيديه الأرضَ. (Deyilir ki, «əl-xəbz» dəvənin ön ayaqları ilə yerə vurmasıdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:18.899Z"
+ "ts": "2026-10-25T01:14:18.899Z",
+ "prev_az": "[خبز] الخاء والباء والزاء أصلٌ واحد يدلُّ على خَبْط الشئ باليد. (Xar və ba və zay hərfləri bir əsas mənaya dəlalət edir ki, o da bir şeyi əllə çırpmaqdır). تَخَبَّزَت الإبلُ السَّعْدَانَ، إذا خَبطَتْه بأيدِيها. (Dəvələr sə’dan bitkisini əlləri ilə çırpdıqda «təxəbbəzət» [etdilər]). ومن ذلك خَبَزَ الخَبَّازُ الخُبْز. (Və bunlardandır çörəkçinin çörək bişirməsi [xəbəzəl-xəbbazu-l-xubz]). قال: لا تَخْبِزَا خَبْزاً وبُسَّا بَسًّا … ولا تُطِيلا بِمُناخٍ حَبْسا (٣) (Şair demişdir: Çörək kimi çırpmayın və səpələməyin [bussə]… Düşərgədə həbsi uzatmayın [3]). ويقال: الخَبْزُ ضَرْب البعير بيديه الأرضَ. (Deyilir ki, «əl-xəbz» dəvənin ön ayaqları ilə yerə vurmasıdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الخاء» hərfinin adı «Xar» kimi səhv yazılmışdır («Xa» olmalıdır).",
+  "Şeir beytinin tərcüməsində «بُسَّا بَسًّا» (unu qarışdırıb bəsisə hazırlayın) və «حَبْسا» (dəvələri saxlamaq) ifadələri səhv («səpələməyin», «həbsi») tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-17T13:25:44.716Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 286
  },
  "ar": "الدال والغين والفاء ليس بشئ، إلاّ أنّ ابنَ دُريد (١) زعم أنّ الدَّغْف الإكثارُ من أخْذ الشّئ.",
- "az": "«دغف» (د-غ-ف): dal, geyn və fa hərfləri bir şey deyil, lakin İbn Dürid iddia etmişdir ki, «الدَّغْف» (əddəğf) bir şeyi götürməkdə həddini aşmaqdır.",
+ "az": "[دغف] «الدال والغين والفاء» (dal, ğayn və fa) heç bir şey deyildir, lakin İbn Düreyd (١) iddia etmişdir ki, الدَّغْف (dəğf) bir şeyi çox götürməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:16:56.299Z"
+ "ts": "2026-10-25T01:16:56.299Z",
+ "prev_az": "«دغف» (د-غ-ف): dal, geyn və fa hərfləri bir şey deyil, lakin İbn Dürid iddia etmişdir ki, «الدَّغْف» (əddəğf) bir şeyi götürməkdə həddini aşmaqdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə formatı [دغف] ilə başlamalıdır.",
+  "«الغين» hərfinin adı səhvən «geyn» kimi yazılıb və (١) haşiyə rəqəmi buraxılıb.",
+  "«الإكثارُ من أخْذ الشّئ» ifadəsi «həddini aşmaq» kimi qeyri-dəqiq tərcümə edilib."
+ ],
+ "review_ts": "2026-11-17T13:51:57.320Z"
 }

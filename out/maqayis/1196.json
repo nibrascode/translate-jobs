@@ -11,7 +11,17 @@
   "page_to": 246
  },
  "ar": "الخاء والثاء واللام كلمةٌ واحدةٌ لا يقاس عليها. قال الكِسائىّ: خَثَلة البَطْن: ما بين السُّرّة والعانة؛ ويقال خَثْلَة، والتخفيف أكثر (٢)",
- "az": "«خثل» (x-v-l) — Xa, sə və lam hərflərindən ibarət tək bir kəlmədir, ona əsasən qiyas edilməz. Kisai demişdir: «خَثَlə البَطْن» — göbəklə qasıq arasında qalan hissədir; həmçinin «خَثْلَة» deyilir, lakin təaffüf (xəfiflik) ilə işlənməsi daha çoxdur (٢).",
+ "az": "[خثل]\\nXa, sa və lam hərflərindən ibarət tək bir kəlmədir, ona əsasən qiyas edilməz. Kisai demişdir: «خَثَلة البَطْن» (qarnın qasıqüstü hissəsi) — göbəklə qasıq arasında qalan hissədir; həmçinin «خَثْلَة» deyilir, lakin təxfif (sükunlu tələffüz) ilə işlənməsi daha çoxdur (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:40.619Z"
+ "ts": "2026-10-25T01:14:40.619Z",
+ "prev_az": "«خثل» (x-v-l) — Xa, sə və lam hərflərindən ibarət tək bir kəlmədir, ona əsasən qiyas edilməz. Kisai demişdir: «خَثَlə البَطْن» — göbəklə qasıq arasında qalan hissədir; həmçinin «خَثْلَة» deyilir, lakin təaffüf (xəfiflik) ilə işlənməsi daha çoxdur (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kökün transliterasiyasında səhv var (x-v-l yazılıb).",
+  "«خَثَلة البَطْن» və «التخفيف» sözləri «خَثَlə البَطْن» və «تəaffüf» şəklində pozulmuş mətnlə yazılıb."
+ ],
+ "review_ts": "2026-11-17T13:29:19.809Z"
 }

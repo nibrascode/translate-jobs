@@ -11,7 +11,18 @@
   "page_to": 291
  },
  "ar": "الدال والكاف والعين كلمة واحدة، وهى قولُهم لداءِ يأخُذُ الخيلَ والإبلَ فى صُدورها: دُكَاعٌ. قال القطامىّ:\nترى مِنهُ صُدورَ الخَيلِ زُوراً … كأنَّ بها نُحَازاً أو دُكاعَا (٤)\nويقولون: هو السُّعال.",
- "az": "«دكع» (dəku): Dal, kaf və ayn tək bir kəlmədir, o da atlarda və dəvələrdə sinələrini tutan xəstəliyə «دُكَاعٌ» (dukəun) deyilməsidir. Əl-Qutamiy demişdir:\nترى مِنهُ صُدورَ الخَيلِ زُوراً … كأنَّ بها نُحَازاً أو دُكاعَا (٤)\n(Atların sinələrini görürsən ki, sanki orada nəhəz [sürtünmə xəstəliyi] və ya dukas vardır).\nVerilən məlumata görə, bu, öskürəkdir.",
+ "az": "[دكع]\nالدال (dal), الكاف (kaf) və العين (ayn) tək bir kəlmədir, o da atlarda və dəvələrdə sinələrini tutan xəstəliyə دُكَاعٌ (düka) deyilməsidir. Əl-Qutami demişdir:\nترى مِنهُ صُدورَ الخَيلِ زُوراً … كأنَّ بها نُحَازاً أو دُكاعَا (٤)\n(Ondan dolayı atların sinələrini əyilmiş görürsən, sanki onlarda nühaz [ağciyər/sinə xəstəliyi] və ya düka vardır).\nDeyirlər ki, bu, öskürəkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.147Z"
+ "ts": "2026-10-25T01:17:18.147Z",
+ "prev_az": "«دكع» (dəku): Dal, kaf və ayn tək bir kəlmədir, o da atlarda və dəvələrdə sinələrini tutan xəstəliyə «دُكَاعٌ» (dukəun) deyilməsidir. Əl-Qutamiy demişdir:\nترى مِنهُ صُدورَ الخَيلِ زُوراً … كأنَّ بها نُحَازاً أو دُكاعَا (٤)\n(Atların sinələrini görürsən ki, sanki orada nəhəz [sürtünmə xəstəliyi] və ya dukas vardır).\nVerilən məlumata görə, bu, öskürəkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[دكع]» formatı ilə başlamır.",
+  "Şeir beytinin tərcüməsində «مِنهُ» (ondan) və «زُوراً» (əyilmiş) sözləri buraxılıb.",
+  "«دُكاعَا» sözü «dukas» kimi səhv yazılıb."
+ ],
+ "review_ts": "2026-11-17T14:11:43.044Z"
 }

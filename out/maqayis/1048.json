@@ -11,9 +11,18 @@
   "page_to": 164
  },
  "ar": "الخاء والذال والعين يدلُّ على قَطْع الشئ؛ يقال خَذَّعَهُ بالسَّيف، إذا ضربَه. ورُوِى بيتُ أبى ذؤيب:\n* وكِلاهُما بَطَلُ اللِّقاءِ مُخَذَّع (١) *\nأى كأنه قد ضُرِب بالسَّيْف مِراراً. ويقال نبات مخذَّعٌ، إذا أُكِل أعلاه.\nوصَحَّفهُ ناس فقالوا مُجدَّع. وليس بشئِ.",
- "az": "«خذع» (خ، ذ، ع) — bir şeyi kəsməyə dəlalət edir; deyilir: خَذَّعَهُ بالسَّيف (xəddəcəhu bis-seyf) — onu qılıncla vurduqda. Əbu Züeybin beyti rəvayət olunmuşdur: * وكِلاهُما بَطَلُ اللِّقاءِ مُخَذَّع (١) * (Hər ikisi döyüş qəhrəmanıdır, paramparça edilib/çoxlu qılınc zərbəsi alıb) — yəni o, sanki qılıncla dəfələrlə vurulmuşdur. Və deyilir: نبات مخذَّعٌ (muxəddəc bitki) — yuxarı hissəsi yeyildikdə. Bəzi insanlar bunu təhrif edib مَجَدَّع (məcəddəc) dedilər. Bu, heç bir şey deyil (yanlışdır).",
+ "az": "[خذع]\nXa, zal və ayn bir şeyi kəsməyə dəlalət edir; deyilir: خَذَّعَهُ بالسَّيف (onu qılıncla doğradı), yəni onu qılıncla vurduqda. Əbu Züeybin beyti rəvayət olunmuşdur:\n* وكِلاهُما بَطَلُ اللِّقاءِ مُخَذَّع (١) * (Hər ikisi döyüş qəhrəmanıdır, dəfələrlə qılınc zərbəsi almışdır),\nyəni o, sanki qılıncla dəfələrlə vurulmuşdur. Deyilir: نبات مخذَّعٌ (yuxarısı yeyilmiş bitki) — yuxarı hissəsi yeyildikdə.\nBəzi insanlar bunu təhrif edib مُجدَّع (kəsilmiş) dedilər. Bu, heç bir şey deyil (əsassızdır).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:07:57.787Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خذع» (خ، ذ، ع) — bir şeyi kəsməyə dəlalət edir; deyilir: خَذَّعَهُ بالسَّيف (xəddəcəhu bis-seyf) — onu qılıncla vurduqda. Əbu Züeybin beyti rəvayət olunmuşdur: * وكِلاهُما بَطَلُ اللِّقاءِ مُخَذَّع (١) * (Hər ikisi döyüş qəhrəmanıdır, paramparça edilib/çoxlu qılınc zərbəsi alıb) — yəni o, sanki qılıncla dəfələrlə vurulmuşdur. Və deyilir: نبات مخذَّعٌ (muxəddəc bitki) — yuxarı hissəsi yeyildikdə. Bəzi insanlar bunu təhrif edib مَجَدَّع (məcəddəc) dedilər. Bu, heç bir şey deyil (yanlışdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, tərcümə «[خذع]» ilə başlamır.",
+  "«مُجدَّع» sözü «مَجَدَّع» kimi təhrif olunub və mövcud transkripsiyalar yanlış verilib."
+ ],
+ "review_ts": "2026-11-17T13:20:24.428Z"
 }

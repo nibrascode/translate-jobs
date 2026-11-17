@@ -11,9 +11,19 @@
   "page_to": 229
  },
  "ar": "الخاء والواو والطاء أُصَيلٌ يدلُّ على تَشعُّبِ أَغصان فالخُوط الغُصْن، وجمعه خِيطان. قال:\n* على قِلاص مِثْلِ خِيطانِ السَّلَمْ (٤) *",
- "az": "«خوط»: الخاء، الواو və الطاء — budaqların şaxələnməsinə dəlalət edən kiçik bir əsasdır. «الخُوط» (əl-xut) — budaqdır, cəmi «خِيطان» (xitən) gəlir. Şair demişdir: «* Sələm ağacının budaqları kimi arıq dəvələr üzərində (٤) *»",
+ "az": "[خوط]\nXa, vav və ta budaqların şaxələnməsinə dəlalət edən kiçik bir əsasdır. «الخُوط» — budaqdır, cəmi «خِيطان» gəlir. Şair demişdir:\n* على قِلاص مِثْلِ خِيطانِ السَّلَمْ (٤) * (* Sələm ağacının budaqları kimi arıq dəvələr üzərində (٤) *)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:13:33.573Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خوط»: الخاء، الواو və الطاء — budaqların şaxələnməsinə dəlalət edən kiçik bir əsasdır. «الخُوط» (əl-xut) — budaqdır, cəmi «خِيطان» (xitən) gəlir. Şair demişdir: «* Sələm ağacının budaqları kimi arıq dəvələr üzərində (٤) *»",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə «[خوط]» formatı ilə başlamır.",
+  "Hərf adları («الخاء، الواو və الطاء») tərcümə edilmədən ərəbcə saxlanılıb.",
+  "Şeir misrasının ərəbcə mətni buraxılıb, yalnız tərcüməsi verilib."
+ ],
+ "review_ts": "2026-11-17T13:23:12.158Z"
 }

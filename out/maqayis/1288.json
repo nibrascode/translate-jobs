@@ -11,7 +11,18 @@
   "page_to": 297
  },
  "ar": "الدال واللام والفاء أصلٌ واحد يدلُّ على تقدُّمٍ فى رِفق.\nفالدّليف: المشْئ الرُّوَيد. يقال دَلَفَ دَلِيفاً؛ وهو فَوْقَ الدَّبِيب. ودلَفَت الكتيبة فى الحرب. قال أبو عُبيد: الدَّلْف: التقدُّم؛ دَلَفْناهم، أى تقدَّمناهم (١). والدَّالف:\nالسّهم الذى يقَع دون الغَرَض ثم ينبُو عن موضِعِه.",
- "az": "«دلف» (dəlif): Dal, lam və fə yumşaqlıqla irəliləməyə dəlalət edən tək bir əsasdır.\n«الدَّلِيف» (əd-dəlif) — asta yerişdir. Deyilir: «دَلَفَ دَلِيفاً» (dələfə dəlifən) — o, asta yeridi; bu, həm də gəzməkdən yuxarıdır. Dəstə müharibədə irəlilədi (dələfəti əl-kətibətu). Əbu Übəyd demişdir: «الدَّلْف» (əd-dəlf) — irəliləməkdir; «دَلَفْناهم» (dələfnəhum) — yəni biz onlardan irəlidə olduq (1). «الدَّالف» (əd-dəlif) — hədəfdən qabağa düşən, sonra isə yerindən uzaqlaşan oxdur.",
+ "az": "[دلف]\nDal, lam və fa yumşaqlıqla irəliləməyə dəlalət edən tək bir əsasdır.\n«الدَّلِيف» (əd-dəlif) — asta yerişdir. Deyilir: «دَلَفَ دَلِيفاً» (dələfə dəlifən) — asta yeridi; bu, «الدَّبِيب» (əd-dəbib — iməkləmək/yavaş sürünmək) dərəcəsindən yuxarıdır. «دلَفَت الكتيبة فى الحرب» (dələfəti əl-kətibətu fil-hərb — dəstə müharibədə irəlilədi). Əbu Übəyd demişdir: «الدَّلْف» (əd-dəlf) — irəliləməkdir; «دَلَفْناهم» (dələfnahum) — yəni onlara doğru irəlilədik (١). «الدَّالف» (əd-dalif) — hədəfə çatmamış yerə düşən, sonra yerindən sıçrayıb uzaqlaşan oxdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.148Z"
+ "ts": "2026-10-25T01:17:18.148Z",
+ "prev_az": "«دلف» (dəlif): Dal, lam və fə yumşaqlıqla irəliləməyə dəlalət edən tək bir əsasdır.\n«الدَّلِيف» (əd-dəlif) — asta yerişdir. Deyilir: «دَلَفَ دَلِيفاً» (dələfə dəlifən) — o, asta yeridi; bu, həm də gəzməkdən yuxarıdır. Dəstə müharibədə irəlilədi (dələfəti əl-kətibətu). Əbu Übəyd demişdir: «الدَّلْف» (əd-dəlf) — irəliləməkdir; «دَلَفْناهم» (dələfnəhum) — yəni biz onlardan irəlidə olduq (1). «الدَّالف» (əd-dəlif) — hədəfdən qabağa düşən, sonra isə yerindən uzaqlaşan oxdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[دلف]» formatında və haşiyə rəqəmi (١) ərəb rəqəmi ilə olmalıdır.",
+  "«ودلَفَت الكتيبة فى الحرب» ifadəsinin ərəbcə mətni verilməmişdir.",
+  "«تقدَّمناهم» ('onlara doğru irəlilədik') və «دون الغَرَض» ('hədəfə çatmamış') ifadələri yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-17T14:15:46.488Z"
 }

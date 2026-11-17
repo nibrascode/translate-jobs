@@ -11,7 +11,19 @@
   "page_to": 261
  },
  "ar": "الدال والنون أصلٌ واحد يدلّ على تطامُنٍ وانخفاض.\nفالأدَنُّ: الرجل المنحنِى الظَّهر. يقال منه قد دَنِنْتَ دَنَناً. ويقال بيتٌ أدنٌ، أى متطامِنٌ. وفرسٌ أدَنّ، أى قصير اليدين. وإذا كان كذلك كان منْسجُهُ منْخفضاً (١). ومن ذلك الدَّنْدَنَة، وهو أنْ تُسمَع من الرَّجل نَغْيَةٌ لا تُفْهَم، وذلك لأنّه يخفِض صوتَه بما يقوله ويُخفيه. ومنه\nالحديث: «فأمَّا دَنْدَنَتُكَ ودندنةُ مُعاذٍ فلا نُحْسِنُهُمَا (٢)».\nومما يقارب هذا القياسَ وليس هو بعينه قولهم للسيف الكَليل: دَدَانٌ (٣).\nومما شذَّ عن الباب الدَّيْدَن، وهى العادة.\nومما يقاس على الأصل الأول الدّنْدِنُ، وهو ما اسودَّ من النّبات لِقدَمه.",
- "az": "[دن] (Də və nun) alçalma və enməyə dəlalət edən tək bir əsasdır. əd-Ənənnü (الأدَنُّ) – belini əyən kişi. Deyilir ki, dənintə dənənən (دَنِنْتَ دَنَناً). Deyilir ki, beytun ədünn (بيت أدن), yəni alçaq ev. Fərun ədənn (فرس أدَنّ), yəni ayaqları qısa olan at. Belə olduqda onun belinin çökək yeri alçaq olur. Bunlardan biri də dəndənədir (الدَّندنة), bu da kişidən başa düşülməyən bir səsin eşidilməsidir, çünki o, dediyi sözdə səsini alçaldır və gizlədir. Həmçinin hədis: «فأمَّا دَنْدَنَتُكَ ودندنةُ مُعاذٍ فلا نُحْسِنُهُمَا» («Sənin və Müazın dəndənəsini biz yaxşı başa düşmürük»). Bu ölçüyə yaxın olan, lakin özü olmayanlardan biri də küt qılınc üçün deyilən dədan (دَدَانٌ) sözüdür. Bu بابdan şaz olan dəydəndir (الدَّيْدَن), yəni adət. Birinci əsasla ölçülən şeylərdən biri də dəndindir (الدّنْدِن), bu da bitkinin qocalığından qaralmış hissəsidir.",
+ "az": "[دن]\nDal və nun alçalma və enməyə dəlalət edən tək bir əsasdır.\nالأدَنُّ (əl-ədənn) – beli əyilmiş kişi. Bundan: «قد دَنِنْتَ دَنَناً» (belin əyildi) deyilir. Deyilir: بيتٌ أدنٌ (alçaq ev), yəni aşağı. فرسٌ أدَنّ (ədənn at), yəni qabaq ayaqları qısa olan at. Belə olduqda onun belinin ön hissəsi alçaq olur (١). Bunlardan biri də الدَّنْدَنَة (dəndənə)-dir, bu da kişidən başa düşülməyən bir pıçıltının eşidilməsidir, çünki o, dediyi sözdə səsini alçaldır və gizlədir. Həmçinin\nhədisdə deyilir: «فأمَّا دَنْدَنَتُكَ ودندنةُ مُعاذٍ فلا نُحْسِنُهُمَا (٢)» («Sənin və Muazın dəndənəsini biz bacarmırıq»).\nBu ölçüyə yaxın olan, lakin özü olmayanlardan biri də küt qılınc üçün dedikləri دَدَانٌ (٣) (dədan) sözüdür.\nBu babdan şaz olan الدَّيْدَن (dəydən)-dir, yəni adət.\nBirinci əsasla ölçülən şeylərdən biri də الدّنْدِنُ (dindin)-dir, bu da bitkinin köhnəliyindən qaralmış hissəsidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:59.920Z"
+ "ts": "2026-10-25T01:14:59.920Z",
+ "prev_az": "[دن] (Də və nun) alçalma və enməyə dəlalət edən tək bir əsasdır. əd-Ənənnü (الأدَنُّ) – belini əyən kişi. Deyilir ki, dənintə dənənən (دَنِنْتَ دَنَناً). Deyilir ki, beytun ədünn (بيت أدن), yəni alçaq ev. Fərun ədənn (فرس أدَنّ), yəni ayaqları qısa olan at. Belə olduqda onun belinin çökək yeri alçaq olur. Bunlardan biri də dəndənədir (الدَّندنة), bu da kişidən başa düşülməyən bir səsin eşidilməsidir, çünki o, dediyi sözdə səsini alçaldır və gizlədir. Həmçinin hədis: «فأمَّا دَنْدَنَتُكَ ودندنةُ مُعاذٍ فلا نُحْسِنُهُمَا» («Sənin və Müazın dəndənəsini biz yaxşı başa düşmürük»). Bu ölçüyə yaxın olan, lakin özü olmayanlardan biri də küt qılınc üçün deyilən dədan (دَدَانٌ) sözüdür. Bu بابdan şaz olan dəydəndir (الدَّيْدَن), yəni adət. Birinci əsasla ölçülən şeylərdən biri də dəndindir (الدّنْدِن), bu da bitkinin qocalığından qaralmış hissəsidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı səhv yazılıb («Də» yox, «Dal» olmalıdır).",
+  "«دَنِنْتَ دَنَناً» ifadəsinin mənası verilməyib, «فرس» sözü «Fərun» kimi səhv yazılıb.",
+  "Mətndə «bab» sözü tərcüməsiz («باب») qalıb.",
+  "Haşiyə rəqəmləri ((١), (٢), (٣)) buraxılıb."
+ ],
+ "review_ts": "2026-11-17T13:34:25.701Z"
 }

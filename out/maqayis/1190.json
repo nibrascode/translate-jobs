@@ -11,7 +11,18 @@
   "page_to": 245
  },
  "ar": "الخاء والتاء والعين أصلٌ واحد يدلُّ على الهجوم والدُّخولِ فيما يَغِيب الداخلُ فيه. فيقولون خَتَعَ الرجل خُتُوعاً، إذا ركب الظُّلْمة.\nومن الباب الخَيْتَعَة: قطعةٌ مِنْ أدَمٍ يلُفُّها الرَّامِى على يده عند الرَّمى.\nويُحمَل على ذلك، فيقال للنَّمِرة الأنثى الخَتْعَة؛ وذلك لجُرأتها وإقدامها.\nوقال العجّاجُ (٢) فى الدليل الذى ذكرناه:\n* أَعْيَتْ أَدِلاَّءَ الفلاة الخُتَّعَا (١) *",
- "az": "[ختع] الخاء والتاء والعين أصلٌ واحد يدلُّ على الهجوم والدُّخولِ فيما يَغِيب الداخلُ فيه. (Xar, ta və ayn hərfləri hücum etməyə və daxil olanın itib gözdən itəcəyi bir yerə girməyə dəlalət edən bir əsasdır). فيقولون خَتَعَ الرجل خُتُوعاً، إذا ركب الظُّلْمة. (Deyirlər ki, «xətə-r-raculu xutu’an», bu da qaranlığa mindiyi zaman [qaranlığa qərq olduğu zaman] olur). ومن الباب الخَيْتَعَة: قطعةٌ مِنْ أدَمٍ يلُفُّها الرَّامِى على يده عند الرَّمى. (Və bu fəsildəndir «əl-xəytə’ə» — oxatanın atarkən əlinə sardığı dəri parçasındandır). ويُحمَل على ذلك، فيقال للنَّمِرة الأنثى الخَتْعَة؛ وذلك لجُرأتها وإقدامها. (Buna əsaslanaraq dişi pələngə «xət’ə» deyilir; bu da onun cəsarətinə və irəli atılmasına görədir). وقال العجّاجُ (٢) فى الدليل الذى ذكرناه: * أَعْيَتْ أَدِلاَّءَ الفلاة الخُتَّعَا (١) * (Əccac [2] qeyd etdiyimiz dəlil haqqında demişdir: * Çölün xət’ə bələdçilərini yorub əldən saldı [1] *).",
+ "az": "[ختع]\nXa, ta və ayn hərfləri hücum etməyə və daxil olanın içində gözdən itəcəyi bir şeyə girməyə dəlalət edən tək bir əsasdır. Belə ki, deyirlər: خَتَعَ الرجل خُتُوعاً (kişi qaranlığa düşdüyü / qaranlıqda yol getdiyi zaman).\nBu fəsildəndir الخَيْتَعَة (oxatanın atış zamanı əlinə sardığı dəri parçası).\nBuna əsaslanaraq dişi pələngə الخَتْعَة deyilir; bu da onun cəsarətinə və irəli atılmasına görədir.\nƏccac (٢) qeyd etdiyimiz «bələdçi» mənasında demişdir:\n* أَعْيَتْ أَدِلاَّءَ الفلاة الخُتَّعَا (١) *\n(Səhranın mahir (qaranlıqda belə yol tapan) bələdçilərini yorub əldən saldı (١)).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:18.900Z"
+ "ts": "2026-10-25T01:14:18.900Z",
+ "prev_az": "[ختع] الخاء والتاء والعين أصلٌ واحد يدلُّ على الهجوم والدُّخولِ فيما يَغِيب الداخلُ فيه. (Xar, ta və ayn hərfləri hücum etməyə və daxil olanın itib gözdən itəcəyi bir yerə girməyə dəlalət edən bir əsasdır). فيقولون خَتَعَ الرجل خُتُوعاً، إذا ركب الظُّلْمة. (Deyirlər ki, «xətə-r-raculu xutu’an», bu da qaranlığa mindiyi zaman [qaranlığa qərq olduğu zaman] olur). ومن الباب الخَيْتَعَة: قطعةٌ مِنْ أدَمٍ يلُفُّها الرَّامِى على يده عند الرَّمى. (Və bu fəsildəndir «əl-xəytə’ə» — oxatanın atarkən əlinə sardığı dəri parçasındandır). ويُحمَل على ذلك، فيقال للنَّمِرة الأنثى الخَتْعَة؛ وذلك لجُرأتها وإقدامها. (Buna əsaslanaraq dişi pələngə «xət’ə» deyilir; bu da onun cəsarətinə və irəli atılmasına görədir). وقال العجّاجُ (٢) فى الدليل الذى ذكرناه: * أَعْيَتْ أَدِلاَّءَ الفلاة الخُتَّعَا (١) * (Əccac [2] qeyd etdiyimiz dəlil haqqında demişdir: * Çölün xət’ə bələdçilərini yorub əldən saldı [1] *).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«خ» hərfinin adı səhvən «Xar» kimi yazılmışdır.",
+  "Bütün ərəbcə mətn təkrarlanıb tərcümə mötərizədə verilmiş, baş sözlər isə transliterasiya edilmişdir.",
+  "Beytdəki «الخُتَّعَا» sözü tərcüməsiz («xət’ə») buraxılmış, haşiyə rəqəmləri ərəb rəqəmi ilə saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-17T13:35:29.085Z"
 }

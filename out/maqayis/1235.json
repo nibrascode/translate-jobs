@@ -13,5 +13,10 @@
  "ar": "الدال والسين والتاء ليس أصلاً، لأنّ الدّست الصَّحراء هو فارسىٌّ معرَّب (٤). قال الأعشى:\nقد علمَتْ فَارِسٌ وحِمْيرُ والْ … أَعْرابُ بالدّسْتِ أيُّكُمْ نَزَلا (١)",
  "az": "[دست] (Dəst): Dal, sin və ta hərflərindən ibarət olub əsl kök deyil, çünki الدّست (dəst - səhra) fars dilindən ərəbiləşdirilmiş sözdür (٤). Aşa demişdir:\nقد علمَتْ فَارِسٌ وحِمْيرُ والْ … أَعْرابُ بالدّسْتِ أيُّكُمْ نَزَلا (١)\n(Farslar, Həmyir və səhradakı ərəblər bildilər ki, hansınız düşərgə saldı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:15:45.024Z"
+ "ts": "2026-10-25T01:15:45.024Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T13:45:45.664Z"
 }

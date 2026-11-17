@@ -11,9 +11,19 @@
   "page_to": 198
  },
  "ar": "الخاء والطاء والحرف المعتلّ والمهموز، يدلُّ على تعدِّى الشئ، والذَّهاب عنه. يقال خَطوتُ أخطو خُطوة. والخُطْوة: ما بين الرِّجْلين.\nوالخَطْوة: المرَّة الواحدة\nوالخَطَاء من هذا؛ لأنّه مجاوزة حدِّ الصواب. يقال أخطأ إِذا تعدّى الصَّواب. وخَطِئ يخطأُ، إذا أذْنب، وهو قياسُ الباب؛ لأنه يترك الوجه الخَيْرَ.",
- "az": "«خطوأ» — الخاء والطاء والحرف المعتل والمهموز (X, T və uzadılan həmzəli hərf) bir şeydən kənara çıxmağa və ondan uzaqlaşmağa dəlalət edir. Deyilir خَطوتُ أخطو خُطوة (Addımladım, addımlayıram, addım). Və الخُطْوة (əl-xutvə) — iki ayaq arasıdır. Və خُطْوة (xutvə) — bir dəfə addımlamaq. الخَطَاء (əl-xata - səhv) də bundandır; çünki bu, doğru həddini keçməkdir. Deyilir: أخطأ (xəta etdi) — düzgünlükdən kənara çıxdıqda. Və خَطِئ يخطأُ (günah işlədi, işləyir), günah etdikdə, bu da qapının qiyasındadır; çünki o, xeyir yolu tərk edir.",
+ "az": "[خطوأ]\nXa, ta, illətli hərf və həmzəli hərf bir şeyin həddini aşmağa və ondan uzaqlaşmağa dəlalət edir. Deyilir: خَطوتُ أخطو خُطوة (addımladım, addımlayıram, addım). الخُطْوة (əl-xutvə) — iki ayaq arasıdır.\nالخَطْوة (əl-xətvə) — bir dəfə addımlamaqdır.\nالخَطَاء (əl-xəta — səhv) da bundandır; çünki bu, doğruluq həddini aşmaqdır. Deyilir: أخطأ (xəta etdi) — doğruluqdan kənara çıxdıqda. خَطِئ يخطأُ (günah işlədi, günah işləyir) — günah etdikdə; bu da bölmənin qiyasındandır, çünki o, xeyir yolu tərk edir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:10:04.062Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خطوأ» — الخاء والطاء والحرف المعتل والمهموز (X, T və uzadılan həmzəli hərf) bir şeydən kənara çıxmağa və ondan uzaqlaşmağa dəlalət edir. Deyilir خَطوتُ أخطو خُطوة (Addımladım, addımlayıram, addım). Və الخُطْوة (əl-xutvə) — iki ayaq arasıdır. Və خُطْوة (xutvə) — bir dəfə addımlamaq. الخَطَاء (əl-xata - səhv) də bundandır; çünki bu, doğru həddini keçməkdir. Deyilir: أخطأ (xəta etdi) — düzgünlükdən kənara çıxdıqda. Və خَطِئ يخطأُ (günah işlədi, işləyir), günah etdikdə, bu da qapının qiyasındadır; çünki o, xeyir yolu tərk edir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[خطوأ]» formatı ilə başlamalıdır.",
+  "«والحرف المعتلّ والمهموز» ifadəsi «uzadılan həmzəli hərf» kimi səhv tərcümə edilmişdir.",
+  "«والخَطْوة» sözü «خُطْوة (xutvə)» kimi səhv köçürülmüş və hərəkəsi dəyişdirilmişdir."
+ ],
+ "review_ts": "2026-11-17T13:20:49.255Z"
 }

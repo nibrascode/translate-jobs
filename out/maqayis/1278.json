@@ -11,7 +11,18 @@
   "page_to": 293
  },
  "ar": "الدال واللام والهاء أُصَيلٌ يدلُّ على ذَهاب الشّئ. يقال ذهب دَمْ فُلانٍ دَلْهاً، أى بُطْلاً. وَدَلَّهَ عقلَه الحُبُّ وغيرُه، أى أذهب.",
- "az": "«دله» (dələh): Dal, lam və hə tək bir şeyin getməsinə dəlalət edən kiçik bir əsasdır. Deyilir: «ذهب دَمْ فُلانٍ دَلْهاً» (zəhəbə dəmu fülənin dəlhən) — filankəsin qanı hədər (batil) getdi. Və eşq və başqa şeylər onun əqlini «دَلَّهَ» (dəlləhə) etdi, yəni apardı.",
+ "az": "[دله]\nالدال (dal), اللام (lam) və الهاء (hə) bir şeyin getməsinə dəlalət edən kiçik bir əsasdır. Deyilir: ذهب دَمْ فُلانٍ دَلْهاً (filankəsin qanı hədər [batil] getdi). Eşq və başqa şeylər onun ağlını دَلَّهَ (dəlləhə — başdan çıxardı, yox etdi), yəni apardı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.148Z"
+ "ts": "2026-10-25T01:17:18.148Z",
+ "prev_az": "«دله» (dələh): Dal, lam və hə tək bir şeyin getməsinə dəlalət edən kiçik bir əsasdır. Deyilir: «ذهب دَمْ فُلانٍ دَلْهاً» (zəhəbə dəmu fülənin dəlhən) — filankəsin qanı hədər (batil) getdi. Və eşq və başqa şeylər onun əqlini «دَلَّهَ» (dəlləhə) etdi, yəni apardı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[دله]» formatı ilə başlamır.",
+  "Ərəbcə mətnə uyğun olmayan artıq «tək» sözü əlavə edilib.",
+  "«دَلَّهَ» feli tərcüməsiz saxlanıb («دَلَّهَ etdi»)."
+ ],
+ "review_ts": "2026-11-17T14:11:43.045Z"
 }

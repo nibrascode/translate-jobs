@@ -11,7 +11,18 @@
   "page_to": 291
  },
  "ar": "الدال والكاف واللام أُصَيلٌ يدلُّ على تعظُّم. يقال تدكَّل الرّجل، إذا تعظّم فى نفسه، ومنه الدَّكَلة: القوم لا يُجِيبون السُّلطان مِنْ عِزِّهم.",
- "az": "«دكل» (dəkul): Dal, kaf və lam təkəbbürlərə dəlalət edən kiçik bir əsasdır. Deyilir: «تدكَّل الرّجل» (tədəkkələ əl-rəcul) — kişi öz içində təkəbbürləndi. Bunlardandır: «الدَّكَلة» (əd-dəhələ/əd-dəkələ) — izzətlərindən ötəri hakimin (sultanın) çağırışına cavab verməyən tayfa.",
+ "az": "[دكل]\nالدال (dal), الكاف (kaf) və اللام (lam) özünü böyük tutmağa (təkəbbürlənməyə) dəlalət edən kiçik bir əsasdır. Deyilir: تدكَّل الرّجل (kişi öz içində təkəbbürləndi). Bunlardandır: الدَّكَلة (izzətlərindən dolayı hakimin çağırışına cavab verməyən tayfa).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.147Z"
+ "ts": "2026-10-25T01:17:18.147Z",
+ "prev_az": "«دكل» (dəkul): Dal, kaf və lam təkəbbürlərə dəlalət edən kiçik bir əsasdır. Deyilir: «تدكَّل الرّجل» (tədəkkələ əl-rəcul) — kişi öz içində təkəbbürləndi. Bunlardandır: «الدَّكَلة» (əd-dəhələ/əd-dəkələ) — izzətlərindən ötəri hakimin (sultanın) çağırışına cavab verməyən tayfa.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[دكل]» formatı ilə başlamır.",
+  "«الدَّكَلة» sözünün transkripsiyasında «əd-dəhələ» kimi pozulmuş mətn var.",
+  "«تعظُّم» sözü tək halda olduğu halda cəm kimi («təkəbbürlərə») tərcümə edilib."
+ ],
+ "review_ts": "2026-11-17T14:11:43.043Z"
 }

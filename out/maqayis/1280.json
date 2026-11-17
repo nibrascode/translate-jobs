@@ -11,7 +11,17 @@
   "page_to": 294
  },
  "ar": "الدال واللام والباء ليس بشئ. والدُّلْبُ فيما يقال:\nشَجَرٌ (٤).",
- "az": "«دلب» (dəlub): Dal, lam və ba heç bir şey deyildir. «الدُّلْبُ» (əd-dulbu) isə deyilənlərə görə bir ağacdır (4).",
+ "az": "[دلب]\nDal, lam və ba heç bir şey deyildir. «الدُّلْبُ» (əd-dulb) isə deyilənlərə görə bir ağacdır (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.148Z"
+ "ts": "2026-10-25T01:17:18.148Z",
+ "prev_az": "«دلب» (dəlub): Dal, lam və ba heç bir şey deyildir. «الدُّلْبُ» (əd-dulbu) isə deyilənlərə görə bir ağacdır (4).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[دلب]» formatında olmalıdır.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə «(٤)» kimi saxlanmalıdır."
+ ],
+ "review_ts": "2026-11-17T14:15:46.482Z"
 }

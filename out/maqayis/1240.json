@@ -11,7 +11,18 @@
   "page_to": 281
  },
  "ar": "الدال والعين والقاف أصلٌ واحد يدلُّ على التأثير فى الشَّئِ والإذلال له. يقال للمكان الذى تَطَوُّه الدوابُّ وتؤثِّر فيه بحوافرها: دَعَقٌ.\nقال رُؤبة:\n* فى رَسْمِ آثارٍ ومِدْعاسٍ دَعَقْ (٣) *\nومن الباب: شَلَّ إبلَهُ شَلاًّ دَعْقاً، إذا طرَدَهَا. وأعارَ عارةً دعقا. وخيلٌ مَدَاعِيق. قال:\n* لا يَهُمُّون بإِدْعاقِ الشَّلَلْ (٤) *",
- "az": "[دعق] «الدال والعين والقاف» (dal, ayn və qaf) bir şeyə təsir etməyə və onu alçaltmağa dəlalət edən tək bir əsasdır. Heyvanların ayaq basıb dırnaqları ilə iz qoyduqları yerə دَعَقٌ (dəqəq) deyilir. Rübə demişdir: * فِي رَسْمِ آثارٍ ومِدْعاسٍ دَعَقْ (٣) *. Və bu fəsildəndir: شَلَّ إبلَهُ شَلاًّ دَعْقاً (dəvələrini qovaraq sürüdü). Və عارةً دعقا əmanət verdi. Və مَدَاعِيق (mədəyiq) atlar. Şair demişdir: * لا يَهُمُّون بإِدْعاقِ الشَّلَلْ (٤) *.",
+ "az": "[دعق] «الدال والعين والقاف» (dal, ayn və qaf) bir şeyə təsir etməyə və onu tapdalayıb alçaltmağa dəlalət edən tək bir əsasdır. Heyvanların tapdaladığı və dırnaqları ilə iz qoyduqları yerə دَعَقٌ (dəəq) deyilir.\nقال رُؤبة:\n* فى رَسْمِ آثارٍ ومِدْعاسٍ دَعَقْ (٣) *\n(Silinməkdə olan izlərdə və tapdanmış yoldur).\nومن الباب: شَلَّ إبلَهُ شَلاًّ دَعْقاً، إذا طرَدَهَا. وأعارَ عارةً دعقا. وخيلٌ مَدَاعِيق. قال:\n* لا يَهُمُّون بإِدْعاقِ الشَّلَلْ (٤) *\n\nBu babdandır: شَلَّ إبلَهُ شَلاًّ دَعْقاً (dəvələrini bərk qovdu), onları şiddətlə qovub sürüklədiyi zaman. Və أعارَ عارةً دعقا (şiddətli basqın etdi). Və خيلٌ مَدَاعِيق (düşmən üzərinə bərk şığıyan atlar). Şair demişdir:\n* لا يَهُمُّون بإِدْعاقِ الشَّلَلْ (٤) *\n(Onlar qovulan sürünü şiddətlə tapdalayıb sürükləmək niyyətində olmazlar).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:16:07.370Z"
+ "ts": "2026-10-25T01:16:07.370Z",
+ "prev_az": "[دعق] «الدال والعين والقاف» (dal, ayn və qaf) bir şeyə təsir etməyə və onu alçaltmağa dəlalət edən tək bir əsasdır. Heyvanların ayaq basıb dırnaqları ilə iz qoyduqları yerə دَعَقٌ (dəqəq) deyilir. Rübə demişdir: * فِي رَسْمِ آثارٍ ومِدْعاسٍ دَعَقْ (٣) *. Və bu fəsildəndir: شَلَّ إبلَهُ شَلاًّ دَعْقاً (dəvələrini qovaraq sürüdü). Və عارةً دعقا əmanət verdi. Və مَدَاعِيق (mədəyiq) atlar. Şair demişdir: * لا يَهُمُّون بإِدْعاقِ الشَّلَلْ (٤) *.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytlərinin tərcüməsi buraxılmışdır.",
+  "Ərəbcə şeir sitatında hərf dəyişikliyi edilib («فى» yerinə «فِي»).",
+  "«أعار عارة دعقا» ifadəsinin tərcüməsi yanlış verilmişdir."
+ ],
+ "review_ts": "2026-11-17T14:08:44.900Z"
 }

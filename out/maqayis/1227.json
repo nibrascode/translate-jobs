@@ -11,7 +11,17 @@
   "page_to": 271
  },
  "ar": "الدال والراء والهاء وليس أصلاً؛ لأن الهاء مبدلة من همزة.\nيقال: دَرَأ أى طلع، ثم يقلب هاءً؛ فيقال دَرَهَ. والمِدْرَه: لسان القوم والمتكلِّم عنهم",
- "az": "[دره] (Dərə): Dal, ra və ha hərflərindən ibarətdir, əsl kök deyil; çünki ha hərfi həmzənin əvəzinə gəlmişdir.\nDَرَأ (dəra) — çıxdı, sonra ha hərfinə çevrilərək دَرَهَ (dərəhə) deyilir. المِدْرَه (midrəh) — tayfanın dili (sözçüsü) və onların adından danışan şəxs.",
+ "az": "[دره]\nDal, ra və ha hərflərindən ibarətdir, əsl kök deyil; çünki ha hərfi həmzənin əvəzinə gəlmişdir.\nDeyilir: دَرَأ (dəraə), yəni çıxdı, sonra ha hərfinə çevrilərək دَرَهَ (dərəhə) deyilir. المِدْرَه (midrəh) — tayfanın dili (sözçüsü) və onların adından danışan şəxs.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:15:45.024Z"
+ "ts": "2026-10-25T01:15:45.024Z",
+ "prev_az": "[دره] (Dərə): Dal, ra və ha hərflərindən ibarətdir, əsl kök deyil; çünki ha hərfi həmzənin əvəzinə gəlmişdir.\nDَرَأ (dəra) — çıxdı, sonra ha hərfinə çevrilərək دَرَهَ (dərəhə) deyilir. المِدْرَه (midrəh) — tayfanın dili (sözçüsü) və onların adından danışan şəxs.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«دَرَأ» sözünün ilk hərfi latın «D» hərfi ilə yazılmışdır («Dَرَأ»).",
+  "«يقال» (deyilir) və «أى» (yəni) sözləri buraxılmışdır."
+ ],
+ "review_ts": "2026-11-17T13:41:09.247Z"
 }

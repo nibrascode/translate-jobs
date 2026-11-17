@@ -11,7 +11,18 @@
   "page_to": 296
  },
  "ar": "الدال واللام والظاء أَصَيلٌ يدلُّ على الدَّفْع. يقال دَلَظْته دَلْظاً، إذا دفَعْتَه. وَحكى بعضُهم: أقبل الجيش يَتَدَلْظَى (٥)، إذا دَفَعَ بعضُه بعضاً",
- "az": "«دلظ» (dəliz): Dal, lam və zə itələməyə dəlalət edən kiçik bir əsasdır. Deyilir: «دَلَظْته دَلْظاً» (dələztühu dəlzən) — onu itələdin. Bəziləri rəvayət etmişdir: «أقبل الجيش يَتَدَلْظَى» (əqbələ əl-ceyşu yədəlzə) — ordu bir-birini itələyərək irəli gəldi.",
+ "az": "[دلظ]\nDal, lam və za itələməyə dəlalət edən kiçik bir əsasdır. Deyilir: «دَلَظْته دَلْظاً» (dələztuhu dəlzən) — onu itələdim. Bəziləri rəvayət etmişdir: «أقبل الجيش يَتَدَلْظَى» (əqbələ əl-ceyşu yətədəlzə) (٥) — ordu bir-birini itələyərək irəli gəldi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:18.148Z"
+ "ts": "2026-10-25T01:17:18.148Z",
+ "prev_az": "«دلظ» (dəliz): Dal, lam və zə itələməyə dəlalət edən kiçik bir əsasdır. Deyilir: «دَلَظْته دَلْظاً» (dələztühu dəlzən) — onu itələdin. Bəziləri rəvayət etmişdir: «أقبل الجيش يَتَدَلْظَى» (əqbələ əl-ceyşu yədəlzə) — ordu bir-birini itələyərək irəli gəldi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[دلظ]» formatında olmalıdır.",
+  "«يَتَدَلْظَى» yanındakı (٥) haşiyə rəqəmi buraxılmış, transkripsiyası səhv verilmişdir.",
+  "«دَلَظْته» feli 1-ci şəxsdə ('onu itələdim') olmalı ikən 2-ci şəxsdə ('onu itələdin') verilmişdir."
+ ],
+ "review_ts": "2026-11-17T14:15:46.486Z"
 }

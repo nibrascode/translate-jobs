@@ -11,7 +11,18 @@
   "page_to": 297
  },
  "ar": "الدال واللام والقاف أصلٌ واحد مطّرد، يدلُّ على خروج الشئ وتقدُّمه. فالنّاقة الدَّلوق هى التى تَكَسَّرَ أسنانُها فالماء يخرُج من فمها. ويقال اندلَقَ السَّيفُ مِنْ غِمده، إذا خرج من غير أن يُسَلّ. واندلقت أقتابُ بَطْنه، إذا خرجَتْ أمعاؤُه. واندلَقَ السَّيلُ على القَوم، واندلَقَ الجيش. قال طرفة:\nدُلُقٌ فى غارَةٍ مَسْفُوحَةٍ … كرِعَال الطَّيرِ أسراباً تَمُرّ (٢)\nوناقة دُلُقٌ: شديدة الدُّفعة. والاندلاق: التقدُّم. وكان يقال لعُمارةَ بن زيادٍ العبسى أخِى الرّبيع: «دالق» (٣).",
- "az": "[دلق] (dəl-q): Dal, lam və qaf hərfləri bir əsas prinsipi göstərir ki, bu da bir şeyin çıxması və irəliləməsidir. «النّاقة الدَّلوق» (əl-naqatü əd-dəluq) dişləri qırıldığı üçün ağzından suyu axan dəvədir. Deyirlər ki, «اندلَقَ السَّيفُ مِنْ غِمده» (indələqə əs-səyfü min ġimdih) — qılınc qınından sıyrılmadan çıxdı. «اندلقت أقتابُ بَطْنه» (indələqət uqtabu batnih) — qarnının bağırsaqları bayıra çıxdı. «اندلَقَ السَّيلُ على القَوم» (indələqə əs-səylü alə əl-qəvm) və «اندلَقَ الجيش» (indələqə əl-cəyş). Tərfə demişdir:\nدُلُقٌ فى غارَةٍ مَسْفُوحَةٍ … كرِعَال الطَّيرِ أسراباً تَمُرّ (٢)\n(Geniş yayılan basqında irəliləyən dəstələr quş dəstələri kimi dəstə-dəstə keçirlər).\nVə «ناقة دُلُقٌ» (naqatün dəluq): şiddətli hücum edən. Və «الاندلاق» (əl-indəlaq): irəliləmə. Rəbiin qardaşı Ümarə ibn Ziyada «دالق» (daliq) deyərdilər (٣).",
+ "az": "[دلق]\nDal, lam və qaf çıxmağa və irəliləməyə dəlalət edən müntəzəm tək bir əsasdır. «النّاقة الدَّلوق» (ən-naqətu əd-dəluq) — dişləri qırıldığı üçün ağzından su axan dişi dəvədir. Deyilir: «اندلَقَ السَّيفُ مِنْ غِمده» (indələqə əs-səyfu min ğimdihi) — qılınc qınından sıyrılmadan çıxdı. «اندلقت أقتابُ بَطْنه» (indələqət əqtabu bətnihi) — qarnının bağırsaqları bayıra çıxdı. «اندلَقَ السَّيلُ على القَوم» (indələqə əs-səylu alə əl-qövm — sel qövmün üzərinə töküldü) və «اندلَقَ الجيش» (indələqə əl-ceyş — ordu irəli atıldı). Tərfə demişdir:\nدُلُقٌ فى غارَةٍ مَسْفُوحَةٍ … كرِعَال الطَّيرِ أسراباً تَمُرّ (٢)\n(Geniş yayılmış basqında irəli atılan dəstələr dəstə-dəstə keçən quş sürüləri kimidir).\n«ناقة دُلُقٌ» (naqətun duluq): şiddətli irəli atılan dişi dəvə. «الاندلاق» (əl-indilaq): irəliləmək. Rəbiin qardaşı Ümarə ibn Ziyad əl-Əbsiyə «دالق» (daliq) deyilirdi (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:37.834Z"
+ "ts": "2026-10-25T01:17:37.834Z",
+ "prev_az": "[دلق] (dəl-q): Dal, lam və qaf hərfləri bir əsas prinsipi göstərir ki, bu da bir şeyin çıxması və irəliləməsidir. «النّاقة الدَّلوق» (əl-naqatü əd-dəluq) dişləri qırıldığı üçün ağzından suyu axan dəvədir. Deyirlər ki, «اندلَقَ السَّيفُ مِنْ غِمده» (indələqə əs-səyfü min ġimdih) — qılınc qınından sıyrılmadan çıxdı. «اندلقت أقتابُ بَطْنه» (indələqət uqtabu batnih) — qarnının bağırsaqları bayıra çıxdı. «اندلَقَ السَّيلُ على القَوم» (indələqə əs-səylü alə əl-qəvm) və «اندلَقَ الجيش» (indələqə əl-cəyş). Tərfə demişdir:\nدُلُقٌ فى غارَةٍ مَسْفُوحَةٍ … كرِعَال الطَّيرِ أسراباً تَمُرّ (٢)\n(Geniş yayılan basqında irəliləyən dəstələr quş dəstələri kimi dəstə-dəstə keçirlər).\nVə «ناقة دُلُقٌ» (naqatün dəluq): şiddətli hücum edən. Və «الاندلاق» (əl-indəlaq): irəliləmə. Rəbiin qardaşı Ümarə ibn Ziyada «دالق» (daliq) deyərdilər (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«اندلَقَ السَّيلُ على القَوم» və «اندلَقَ الجيش» ifadələri tərcüməsiz buraxılmışdır.",
+  "«العبسى» (əl-Əbsi) nisbəsi tərcümədən düşmüşdür.",
+  "«أقتابُ» və «دُلُقٌ» sözlərinin transkripsiyaları səhv verilmişdir."
+ ],
+ "review_ts": "2026-11-17T14:15:46.488Z"
 }

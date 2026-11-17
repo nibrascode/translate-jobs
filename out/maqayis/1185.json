@@ -11,7 +11,19 @@
   "page_to": 242
  },
  "ar": "الخاء والباء والقاف أُصَيلٌ يدلُّ على الترفُّع. فالخِبِقَّى: جنْسٌ من مرفوع السَّير. قال:\n* يَعْدُو الخِبِقّى والدِّفِقَّى مِنْعَبُ (٣) *\nومن الباب الخَبَقُّ والخِبِقُّ: الرجل الطَّويل، وكذلك الفَرَس.",
- "az": "[خبق] الخاء والباء والقاف أُصَيلٌ يدلُّ على الترفُّع. (Xar, ba və qaf hərfləri təkəbbürlülüyə dəlalət edən kiçik bir əsasdır). فالخِبِقَّى: جنْسٌ من مرفوع السَّير. (Və «əl-xibiqqa» — uca gediş növüdür). قال: * يَعْدُو الخِبِقّى والدِّفِقَّى مِنْعَبُ (٣) * (Şair demişdir: * Xibiqqa və difiqqa ilə qaçır, həm də sürətlidir [3] *). ومن الباب الخَبَقُّ والخِبِقُّ: الرجل الطَّويل، وكذلك الفَرَس. (Və bu fəsildəndir: «əl-xabaqqu» və «əl-xibiqu» — uzun kişi, həmçinin uzun at).ีน",
+ "az": "[خبق]\nXa, ba və qaf hərfləri ucalığa dəlalət edən kiçik bir əsasdır. الخِبِقَّى yüksək gediş növlərindən biridir. Şair demişdir:\n* يَعْدُو الخِبِقّى والدِّفِقَّى مِنْعَبُ (٣) *\n(Boynunu uzadaraq sürətlə xibiqqa və difiqqa yerişi ilə qaçır (٣)).\nBu fəsildəndir الخَبَقُّ və الخِبِقُّ (uzun boylu kişi, eləcə də at).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:18.899Z"
+ "ts": "2026-10-25T01:14:18.899Z",
+ "prev_az": "[خبق] الخاء والباء والقاف أُصَيلٌ يدلُّ على الترفُّع. (Xar, ba və qaf hərfləri təkəbbürlülüyə dəlalət edən kiçik bir əsasdır). فالخِبِقَّى: جنْسٌ من مرفوع السَّير. (Və «əl-xibiqqa» — uca gediş növüdür). قال: * يَعْدُو الخِبِقّى والدِّفِقَّى مِنْعَبُ (٣) * (Şair demişdir: * Xibiqqa və difiqqa ilə qaçır, həm də sürətlidir [3] *). ومن الباب الخَبَقُّ والخِبِقُّ: الرجل الطَّويل، وكذلك الفَرَس. (Və bu fəsildəndir: «əl-xabaqqu» və «əl-xibiqu» — uzun kişi, həmçinin uzun at).ีน",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«خ» hərfinin adı səhvən «Xar» kimi yazılmışdır.",
+  "«الترفُّع» sözü «təkəbbürlülük» kimi yanlış tərcümə olunmuşdur (ucalıq/yüksəklik olmalıdır).",
+  "Bütün ərəbcə mətn təkrarlanıb tərcümə mötərizədə verilmiş, baş sözlər isə transliterasiya edilmişdir.",
+  "Mətnin sonunda artıq və mənasız simvollar («ีน») var."
+ ],
+ "review_ts": "2026-11-17T13:35:29.082Z"
 }

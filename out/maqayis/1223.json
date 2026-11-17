@@ -11,7 +11,17 @@
   "page_to": 269
  },
  "ar": "الدال والراء والقاف ليس هو عندى أصلاً يُقاس عليه.\nلكن الدَّرَقَة معروفة، والجمع دَرَق وأدْراق. قال رؤبة:\n* لو صَفَّ أدْرَاقاً مَضَى من الدّرَقْ (٢) *\nوالدَّرْدَق: صِغار الإبل، وأطفالُ الوِلْدان.",
- "az": "[درق] الدال والراء والقاف (dal, ra və qaf hərfləri) mənim yanımda qiyas edilən bir əsas deyildir.\nLakin الدَّرَقَة (əd-dərağə – dəri qalxan) məlumdur, cəmi دَرَق (daraq) və أدْراق (ədraq) gəlir. Rübə demişdir:\n* لو صَفَّ أدْرَاقاً مَضَى من الدّرَقْ (٢) *\n(Əgər dəri qalxanları səssəydi, qalxanlardan keçib gedərdi)\n\nVə الدَّرْدَق (əd-dərdəq) – kiçik dəvələr və körpə uşaqlar.",
+ "az": "[درق] الدال والراء والقاف (dal, ra və qaf hərfləri) mənim yanımda qiyas edilən bir əsas deyildir.\\nLakin الدَّرَقَة (əd-dərəqə – dəri qalxan) məlumdur, cəmi دَرَق (dərəq) və أدْراق (ədraq) gəlir. Rübə demişdir:\\n* لو صَفَّ أدْرَاقاً مَضَى من الدّرَقْ (٢) *\\n(Əgər dəri qalxanları sıraya düzsəydi, qalxanlardan keçib gedərdi)\\nVə الدَّرْدَق (əd-dərdəq) – kiçik dəvələr və körpə uşaqlar.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:15:22.589Z"
+ "ts": "2026-10-25T01:15:22.589Z",
+ "prev_az": "[درق] الدال والراء والقاف (dal, ra və qaf hərfləri) mənim yanımda qiyas edilən bir əsas deyildir.\nLakin الدَّرَقَة (əd-dərağə – dəri qalxan) məlumdur, cəmi دَرَق (daraq) və أدْراق (ədraq) gəlir. Rübə demişdir:\n* لو صَفَّ أدْرَاقاً مَضَى من الدّرَقْ (٢) *\n(Əgər dəri qalxanları səssəydi, qalxanlardan keçib gedərdi)\n\nVə الدَّرْدَق (əd-dərdəq) – kiçik dəvələr və körpə uşaqlar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Beytin tərcüməsində «صَفَّ» sözü «səssəydi» kimi mənasız sözlə verilmişdir.",
+  "«الدَّرَقَة» sözünün transkripsiyası «əd-dərağə» şəklində səhv verilmişdir."
+ ],
+ "review_ts": "2026-11-17T13:38:03.366Z"
 }

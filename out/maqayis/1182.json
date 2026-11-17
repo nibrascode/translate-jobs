@@ -11,7 +11,17 @@
   "page_to": 241
  },
  "ar": "الخاء والباء والصاد قريبٌ من الذى قبله. يقولون خَبَص الشَّئَ: خَلَطه.",
- "az": "[خبص] الخاء والباء والصاد قريبٌ من الذى قبله. (Xar, ba və sad hərfləri əvvəlkinə yaxındır). يقولون خَبَص الشَّئَ: خَلَطه. (Deyirlər ki, «xəbəcə-ş-şeyə» — onu qarışdırdı).",
+ "az": "[خبص]\\nالخاء والباء والصاد قريبٌ من الذى قبله. (Xa, ba və sad hərfləri əvvəlkinə yaxındır). يقولون خَبَص الشَّئَ: خَلَطه. (Deyirlər ki, «xəbəsə-ş-şeyə» — bir şeyi qarışdırdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:18.899Z"
+ "ts": "2026-10-25T01:14:18.899Z",
+ "prev_az": "[خبص] الخاء والباء والصاد قريبٌ من الذى قبله. (Xar, ba və sad hərfləri əvvəlkinə yaxındır). يقولون خَبَص الشَّئَ: خَلَطه. (Deyirlər ki, «xəbəcə-ş-şeyə» — onu qarışdırdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الخاء» hərfinin adı «Xar» kimi səhv yazılmışdır («Xa» olmalıdır).",
+  "«خَبَص» feli transkripsiyada «xəbəcə» kimi səhv verilmişdir («xəbəsə» olmalıdır)."
+ ],
+ "review_ts": "2026-11-17T13:25:44.718Z"
 }

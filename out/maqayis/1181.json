@@ -11,7 +11,16 @@
   "page_to": 241
  },
  "ar": "الخاء والباء والشين ليس أصلا. وربَّما قالوا: خَبَشَ الشّئَ:\nجَمَعه. وليس هذا بشئ.",
- "az": "[خبش] الخاء والباء والشين ليس أصلا. (Xar, ba və şin hərfləri əsas deyil). وربَّما قالوا: خَبَشَ الشّئَ: جَمَعه. (Bəzən deyirlər: «Xəbəşə-ş-şəyə: onu topladı»). وليس هذا بشئ. (Bu da heç bir şey deyildir).",
+ "az": "[خبش]\\nالخاء والباء والشين ليس أصلا. (Xa, ba və şin hərfləri əsas deyil). وربَّما قالوا: خَبَشَ الشّئَ: جَمَعه. (Bəzən deyirlər: «Xəbəşə-ş-şəyə», yəni bir şeyi topladı). وليس هذا بشئ. (Bu da etibarlı bir şey deyildir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:14:18.899Z"
+ "ts": "2026-10-25T01:14:18.899Z",
+ "prev_az": "[خبش] الخاء والباء والشين ليس أصلا. (Xar, ba və şin hərfləri əsas deyil). وربَّما قالوا: خَبَشَ الشّئَ: جَمَعه. (Bəzən deyirlər: «Xəbəşə-ş-şəyə: onu topladı»). وليس هذا بشئ. (Bu da heç bir şey deyildir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الخاء» hərfinin adı «Xar» kimi səhv yazılmışdır («Xa» olmalıdır)."
+ ],
+ "review_ts": "2026-11-17T13:25:44.718Z"
 }
