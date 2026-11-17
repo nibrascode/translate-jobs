@@ -11,9 +11,19 @@
   "page_to": 47
  },
  "ar": "الحاء والراء والنون أصلٌ واحد، وهو لزوم الشئ للشئ لا يكادُ يفارقه. فالْحِرَان فى الدّابة معروف، يقال حَرَنَ وحَرُن. والمَحَارن من النَّحْل: اللواتى يلصَقْن بالشُّهد فلا يبرحْن أو يُنْزَعْنَ. قال:\n* صَوْتُ المحابِضِ يَنْزِعْن المَحَارِينا (١) *\nوكذلك قول الشماخ:\nفما أرْوَى ولو كَرُمَتْ علينا … بأدْنَى مِنْ موقَّفَةٍ حَرُونِ (٢)\nهى التى لا تبرح أعلَى الجبل. ويقال حَرَنَ فى البيع فلا يزيد ولا ينقُص.",
- "az": "[حرن] (h-r-n). Ha, ra və nun hərfləri tək bir əsasdır, o da bir şeyin başqa bir şeyə yapışıb demək olar ki, heç ayrılmamasıdır. Heyvanda «الْحِرَان» (əl-hiran) məlumdur, «حَرَنَ» (hərənə) və «حَرُنَ» (hərünə) deyilir. Arı pətəyinin «المَحَارِن» (əl-məharin) — şanı bərk yapışan və çıxarılıncaya qədər yerindən tərpənməyən arılardır. Şair demişdir:\n* صَوْتُ المحابِضِ يَنْزِعْن المَحَارِينا (١) *\nEynilə Şəmmaxın bu sözü:\nفما أرْوَى ولو كَرُمَتْ علينا … بأدْنَى مِنْ موقَّفَةٍ حَرُونِ (٢)\nO, dağın zirvəsindən tərpənməyən (dəvə) deməkdir. Deyilir: «حَرَنَ فى البيع» (hərənə fil-bey) — alver zamanı nə artır, nə də əskildir.",
+ "az": "[حرن] Ha, ra və nun tək bir əsasdır, o da bir şeyin başqa bir şeyə yapışıb demək olar ki, heç ayrılmamasıdır. Heyvanda «الْحِرَان» (əl-hiran — inadkarlıq, yerindən tərpənməmək) məlumdur; «حَرَنَ» (hərənə) və «حَرُنَ» (hərünə) deyilir. Arıların «المَحَارن» (əl-məharin) qismi şana yapışıb çıxarılana qədər yerindən tərpənməyən arılardır. Şair demişdir:\n* صَوْتُ المحابِضِ يَنْزِعْن المَحَارِينا (١) *\n(Şanı çıxaran alətlərin məharinləri [şana yapışmış arıları] qopardığı vaxt çıxardığı səs.)\nEynilə Şəmməxın bu sözü:\nفما أرْوَى ولو كَرُمَتْ علينا … بأدْنَى مِنْ موقَّفَةٍ حَرُونِ (٢)\n(Ərva bizim üçün nə qədər dəyərli olsa da, ayaqları nişanlı, dağ zirvəsindən tərpənməyən inadkar dağ keçisindən daha əlçatan deyil.)\nO, dağın zirvəsindən tərpənməyən (dağ keçisi) deməkdir. Deyilir: «حَرَنَ فى البيع فلا يزيد ولا ينقُص» (Alverdə inadkarlıq etdi, yəni nə artırır, nə də əskildir).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T00:55:11.144Z",
- "review_attempts": 1,
- "review_last_error": "kiril hərfi"
+ "review_last_error": "kiril hərfi",
+ "prev_az": "[حرن] (h-r-n). Ha, ra və nun hərfləri tək bir əsasdır, o da bir şeyin başqa bir şeyə yapışıb demək olar ki, heç ayrılmamasıdır. Heyvanda «الْحِرَان» (əl-hiran) məlumdur, «حَرَنَ» (hərənə) və «حَرُنَ» (hərünə) deyilir. Arı pətəyinin «المَحَارِن» (əl-məharin) — şanı bərk yapışan və çıxarılıncaya qədər yerindən tərpənməyən arılardır. Şair demişdir:\n* صَوْتُ المحابِضِ يَنْزِعْن المَحَارِينا (١) *\nEynilə Şəmmaxın bu sözü:\nفما أرْوَى ولو كَرُمَتْ علينا … بأدْنَى مِنْ موقَّفَةٍ حَرُونِ (٢)\nO, dağın zirvəsindən tərpənməyən (dəvə) deməkdir. Deyilir: «حَرَنَ فى البيع» (hərənə fil-bey) — alver zamanı nə artır, nə də əskildir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hər iki şeir beyti tərcüməsiz qalmışdır.",
+  "«المَحَارن» sözünün yazılışında AR mətninə zidd olaraq hərəkə əlavə edilmişdir.",
+  "«موقّفة حرون» ifadəsi kontekstə zidd olaraq «dəvə» kimi izah edilmişdir (əsli dağ keçisidir)."
+ ],
+ "review_ts": "2026-11-17T02:57:09.715Z"
 }

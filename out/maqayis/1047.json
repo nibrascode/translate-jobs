@@ -14,6 +14,10 @@
  "az": "«خدج» (خ، د، ج) — əskikliyə dəlalət edən tək bir əsas prinsipdir. Deyilir: خَدَجَتِ الناقةُ (xədəcəti ən-naqətu) — dəvə balasını vaxtından əvvəl atdıqda. Əgər onu yarımçıq xilqətlə və hamiləliyin tamamlanmasında atarsa، أخْدَجَت (əxdəcət) olar. İbn əl-Ərəbi demişdir: أخْدَجَتِ الصَّيْفَةُ (əxdəcəti əs-səyfətu) — onun yağışı az oldu. Və hədisdə: «كلُّ صلاة لم يُقْرَأُ فيها بفاتحة الكتاب فهى خِدَاجٌ» («Fatihə kitabı oxunmayan hər namaz naqisdir/xidajdır»).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:07:57.787Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T03:01:44.560Z"
 }

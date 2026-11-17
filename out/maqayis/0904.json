@@ -11,9 +11,19 @@
   "page_to": 84
  },
  "ar": "الحاء والفاء والدال أصلٌ يدلُّ على الخِفة فى العمل، والتجمُّع.\nفالحفَدة: الأعوان؛ لأنّه يجتمع فيهم التجمّع والتخفُّف، واحدُهم حافد. والسُّرْعة إلى الطاعة حَفْد، ولذلك\nيقال فى دعاء القنوت: «إليك نسعى ونَحْفِدُ». قال:\n* يا ابنَ التى على قَعُودٍ حَفَّادْ (٣) *\nويقال فى قوله تعالى: ﴿وَجَعَلَ لَكُمْ مِنْ أَزْواجِكُمْ بَنِينَ وَحَفَدَةً﴾ إنّهم الأعوان - وهو الصَّحيح - ويقال الأَختَانُ، ويقال الحَفدةُ ولدُ الوَلَد. والمِحْفَد:\nمكيالٌ يكال به. ويقال فى باب السرعة والخفة سيفٌ محتفِد، أى سريع القطع.\nوالحفَدانُ: تدارُك السَّير.",
- "az": "«حفد» (həfəd): Haa, fa və dəl əməl yüngüllüyünə və toparlanmağa dəlalət edən bir əsasdır. «الحفَدة» (əl-həfədə) — köməkçilərdir; çünki onlarda bir yerə yığılmaq və yüngülləşmək (cəldlik) cəmlənir, təkli «حافد» (hafiddir). İtaətə tələsmək «حَفْد» (həfd) adlanır, buna görə də qunut duasında deyilir: «إليك نسعى ونَحْفِدُ» (Sənə doğru qaçırıq və tələsirik). O demişdir: * «يا ابنَ التى على قَعُودٍ حَفَّادْ» * (Ey dəvə üzərində tez-tez gedən qadının oğlu!). Uca Allahın bu sözündə deyilir: ﴿وَجَعَلَ لَكُمْ مِنْ أَزْواجِكُمْ بَنِينَ وَحَفَدَةً﴾ (Allah sizə zövcələrinizdən oğullar və həfədə [köməkçilər, nəvələr] əmələ gətirdi) — onların köməkçilər olması [deyilmişdir] — və bu, səhihdir — kürəkənlər də deyilir, həfədənin övladın övladı (nəvə) olduğu da söylənir. «المِحْفَد» (əl-mihfəd) — onunla ölçü götürülən ölçü qabıdır. Sürət və yüngüllük babında deyilir: «سيفٌ محتفِد» (seyfun muhtəfid) — yəni kəsməkdə sürətli qılınc. «الحفَدانُ» (əl-həfədan) — gedişi bir-birinin ardınca yetişdirmək.",
+ "az": "[حفد]\nHa, fa və dal əməldə yüngüllüyə və toparlanmağa dəlalət edən bir kökdür.\nالحفَدة (əl-həfədə) — köməkçilərdir; çünki onlarda toparlanma və yüngüllük (cəldlik) cəmlənir, təki حافد (hafid)dir. İtaətə tələsmək حَفْد (həfd) adlanır, buna görə də qunut duasında deyilir: «إليك نسعى ونَحْفِدُ» (Sənə doğru qaçırıq və tələsirik). O demişdir:\n* يا ابنَ التى على قَعُودٍ حَفَّادْ (٣) * (Ey cəld gedən minik dəvəsi üzərindəki qadının oğlu! (٣))\nUca Allahın bu sözündə: ﴿وَجَعَلَ لَكُمْ مِنْ أَزْواجِكُمْ بَنِينَ وَحَفَدَةً﴾ (mənaca tərcümə: Allah sizə zövcələrinizdən oğullar və həfədə [köməkçilər, nəvələr] əmələ gətirdi) onların köməkçilər olduğu deyilmişdir — və səhih olan da budur — kürəkənlər olduğu da deyilir, الحَفدةُ (əl-həfədə)nin övladın övladı (nəvə) olduğu da söylənir. المِحْفَد (əl-mihfəd) — onunla ölçü götürülən ölçü qabıdır. Sürət və yüngüllük babında deyilir: سيفٌ محتفِد (seyfun muhtəfid), yəni kəsməkdə sürətli qılınc.\nالحفَدانُ (əl-həfədan) — gedişi bir-birinin ardınca yetişdirməkdir.",
  "model": "gemini-flash-lite-latest",
  "ts": "2026-10-25T01:02:08.982Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«حفد» (həfəd): Haa, fa və dəl əməl yüngüllüyünə və toparlanmağa dəlalət edən bir əsasdır. «الحفَدة» (əl-həfədə) — köməkçilərdir; çünki onlarda bir yerə yığılmaq və yüngülləşmək (cəldlik) cəmlənir, təkli «حافد» (hafiddir). İtaətə tələsmək «حَفْد» (həfd) adlanır, buna görə də qunut duasında deyilir: «إليك نسعى ونَحْفِدُ» (Sənə doğru qaçırıq və tələsirik). O demişdir: * «يا ابنَ التى على قَعُودٍ حَفَّادْ» * (Ey dəvə üzərində tez-tez gedən qadının oğlu!). Uca Allahın bu sözündə deyilir: ﴿وَجَعَلَ لَكُمْ مِنْ أَزْواجِكُمْ بَنِينَ وَحَفَدَةً﴾ (Allah sizə zövcələrinizdən oğullar və həfədə [köməkçilər, nəvələr] əmələ gətirdi) — onların köməkçilər olması [deyilmişdir] — və bu, səhihdir — kürəkənlər də deyilir, həfədənin övladın övladı (nəvə) olduğu da söylənir. «المِحْفَد» (əl-mihfəd) — onunla ölçü götürülən ölçü qabıdır. Sürət və yüngüllük babında deyilir: «سيفٌ محتفِد» (seyfun muhtəfid) — yəni kəsməkdə sürətli qılınc. «الحفَدانُ» (əl-həfədan) — gedişi bir-birinin ardınca yetişdirmək.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirin sonundakı (٣) haşiyə rəqəmi buraxılmışdır.",
+  "Quran ayəsinin tərcüməsi «mənaca tərcümə: ...» formatında verilməmişdir.",
+  "Maddə başlığı «[حفد]» formatında deyil və abzas bölgüsü qorunmamışdır."
+ ],
+ "review_ts": "2026-11-17T02:56:22.232Z"
 }

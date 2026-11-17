@@ -11,9 +11,20 @@
   "page_to": 84
  },
  "ar": "الحاء والفاء والثاء شئ يدلُّ على رخاوةٍ ولين. يقال حَفِثُ الكرِشِ لِفَحِثِها (١). والحُفَّاث: حية لا تضرّ ولا تُخَاف. قال:\nأيُفايِشُونَ وقد رأوا حُفّاثَهم … قد عَضَّهُ فقَصَى عليه الأشجعُ (٢)\nويقال للرجُل إذا غضب: «قد احرنْفَش حُفَّاثُه».",
- "az": "«حفث» (həfəc): Haa, fa və sə yumşaqlığa və incəliyə dəlalət edən bir şeydir. Deyilir: «حَفِثُ الكرِشِ لِفَحِثِها» (Həfisül-kərişi li-fəhisihə — qarın yumşaqdır, çünki o, yumşaqdır). «الحُفَّاث» (əl-hüffəss) — zərər verməyən və qorxulmayan ilan. O demişdir: «أيُفايِشُونَ وقد رأوا حُفّاثَهم … قد عَضَّهُ فقَصَى عليه الأشجعُ» (Öyünürlərmi, halbuki onlar gördülər ki, onların hüffass ilanını dişlədi, sonra Əşcə qəbiləsi onu bitirdi). Kişi qəzəbləndiyi zaman deyilir: «قد احرنْفَش حُفَّathsُه» (Qəd-hrənfəşə hüffassuhu — onun hüffassı qabardı).",
+ "az": "[حفث] Ha, fa və sa yumşaqlığa və incəliyə dəlalət edən bir şeydir. Deyilir: «حَفِثُ الكرِشِ لِفَحِثِها» (həfisul-kərişi li-fəhisiha — mədənin qat-qat hissəsi olan fəhisinə həfis deyilir) (١). «الحُفَّاث» (əl-huffas) — zərər verməyən və qorxulmayan ilan. Şair demişdir:\nأيُفايِشُونَ وقد رأوا حُفّاثَهم … قد عَضَّهُ فقَصَى عليه الأشجعُ (٢)\n(Öyünürlərmi, halbuki əşcə [zəhərli ilan] onların huffasını [zərərsiz ilanını] dişləyib öldürdüyünü gördülər.)\nKişi qəzəbləndiyi zaman deyilir: «قد احرنْفَش حُفَّاثُه» (qəd ihrənfəşə huffasuhu — onun huffası qabardı / şahə qalxdı).",
  "model": "gemini-flash-lite-latest",
  "ts": "2026-10-25T01:02:08.982Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«حفث» (həfəc): Haa, fa və sə yumşaqlığa və incəliyə dəlalət edən bir şeydir. Deyilir: «حَفِثُ الكرِشِ لِفَحِثِها» (Həfisül-kərişi li-fəhisihə — qarın yumşaqdır, çünki o, yumşaqdır). «الحُفَّاث» (əl-hüffəss) — zərər verməyən və qorxulmayan ilan. O demişdir: «أيُفايِشُونَ وقد رأوا حُفّاثَهم … قد عَضَّهُ فقَصَى عليه الأشجعُ» (Öyünürlərmi, halbuki onlar gördülər ki, onların hüffass ilanını dişlədi, sonra Əşcə qəbiləsi onu bitirdi). Kişi qəzəbləndiyi zaman deyilir: «قد احرنْفَش حُفَّathsُه» (Qəd-hrənfəşə hüffassuhu — onun hüffassı qabardı).",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[حفث]» formatında verilməmiş və transkripsiyası səhv («həfəc») yazılmışdır.",
+  "«حَفِثُ الكرِشِ لِفَحِثِها» ifadəsi səhvən «qarın yumşaqdır, çünki o, yumşaqdır» kimi tərcümə edilmişdir.",
+  "Şeir beytində «الأشجع» sözü qəbilə adı kimi səhv başa düşülmüşdür (zəhərli ilan növüdür).",
+  "«حُفَّاثُه» ərəbcə sözü «حُفَّathsُه» şəklində təhrif edilmiş və haşiyə rəqəmləri «(١)», «(٢)» buraxılmışdır."
+ ],
+ "review_ts": "2026-11-17T02:57:09.717Z"
 }

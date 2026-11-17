@@ -11,9 +11,18 @@
   "page_to": 136
  },
  "ar": "الحاء والتاء والكاف يدلُّ على مقاربةٍ وصِغَر. فالحَتْك:\nأن يقارب الخَطْو ويُسرِع رَفْع الرِّجل ووضْعَها. وهو صحيح من الكلام معروفٌ. ويُبْنَى منه الحَتَكان، وهو غير الحَيَكان. والحواتِك: صغار النّعام. والحوتك: القصير.",
- "az": "«حتك» (h-t-k): Ha, ta və kaf hərfləri yaxınlaşmaya və kiçikliyə dəlalət edir. «الحَتْك» (əl-hətk) — addımı yaxınlaşdırmaq, ayağı qaldırıb qoymağı sürətləndirməkdir. Bu, məlum və səhih bir kəlmədir. Ondan «الحَتَكان» (əl-hətəkən) düzəldilir ki, bu da «الحَيَكان» (əl-həyəkən) deyil. «الحواتِك» (əl-həvatik) — kiçik dəvələrdir. «الحوتك» (əl-hawtik) — qısa boyludur.",
+ "az": "[حتك]\nHa, ta və kaf [hərfləri] yaxınlaşmaya və kiçikliyə dəlalət edir. الحَتْك (əl-hətk): addımı yaxınlaşdırmaq (addımları sıx atmaq), ayağı qaldırıb qoymağı sürətləndirməkdir. Bu, kəlamdan səhih və məlum olan bir sözdür. Ondan الحَتَكان (əl-hətəkan) düzəldilir ki, bu da الحَيَكان (əl-həyəkan) deyildir. الحواتِك (əl-həvatik) isə kiçik dəvəquşulardır. الحوتك (əl-hutək) isə qısaboyludur.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:05:13.109Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«حتك» (h-t-k): Ha, ta və kaf hərfləri yaxınlaşmaya və kiçikliyə dəlalət edir. «الحَتْك» (əl-hətk) — addımı yaxınlaşdırmaq, ayağı qaldırıb qoymağı sürətləndirməkdir. Bu, məlum və səhih bir kəlmədir. Ondan «الحَتَكان» (əl-hətəkən) düzəldilir ki, bu da «الحَيَكان» (əl-həyəkən) deyil. «الحواتِك» (əl-həvatik) — kiçik dəvələrdir. «الحوتك» (əl-hawtik) — qısa boyludur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil («[حتك]» ilə başlamalıdır).",
+  "«صغار النّعام» ifadəsi səhvən «kiçik dəvələr» kimi tərcümə edilmişdir (dəvəquşu balaları olmalıdır)."
+ ],
+ "review_ts": "2026-11-17T03:00:16.491Z"
 }

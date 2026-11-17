@@ -11,9 +11,19 @@
   "page_to": 135
  },
  "ar": "الحاء والتاء واللام ليس هو عندى أصلاً، وما أحُقُّ أيضاً ما حكَوْه فيه، وهو يدلُّ على القِلَّة والصِّغر. يقولون: الحَوْتَل الغلام حين يُرَاهِق (٣). ويقولون: لفِراخ القطا حَوْتَل. وهذا عندى تصحيفٌ، إنما هو حَوْتك بالكاف، وقد ذُكِر. ويقال حَتَلَ له: أعطاه. وليس بشئ",
- "az": "«حتل» (h-t-l): Ha, ta və lam hərfləri mənim yanımda kök deyil, onda rəvayət etdikləri şeyi də mən haqlı hesab etmirəm, və o, azlığa və kiçikliyə dəlalət edir. Deyirlər: «الحَوْتَل» (əl-hawtəl) — oğlan həddi-buluğa çatmağa yaxınlaşdıqda [3]. Deyirlər ki, səhra qartalının (qatranın) balalarına «حَوْتَل» deyilir. Bu mənim yanımda təhrif olunmuşdur, əslində kaf hərfi ilə «حَوْتك» (hawtik) olmalıdır və bu artıq zikr edilmişdir. Deyilir: «حتل له» (hətələ ləhu) — ona verdi. Bu, heç bir şey deyil.",
+ "az": "[حتل]\nHa, ta və lam mənim yanımda kök deyil, onun barəsində rəvayət etdiklərini də təsdiqləmirəm; o, azlığa və kiçikliyə dəlalət edir. Deyirlər: الحَوْتَل (əl-həvtəl) — oğlan həddi-buluğa çatmağa yaxınlaşdıqdadır (٣). Deyirlər ki, qəta (bağrıqara) quşunun balalarına حَوْتَل (həvtəl) deyilir. Bu, mənim yanımda təhrifdir, əslində kaf hərfi ilə حَوْتك (həvtək)dir və bu artıq zikr edilmişdir. Deyilir: حَتَلَ له (hətələ ləhu) — ona verdi. Bu, əsassız bir şeydir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:05:13.109Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«حتل» (h-t-l): Ha, ta və lam hərfləri mənim yanımda kök deyil, onda rəvayət etdikləri şeyi də mən haqlı hesab etmirəm, və o, azlığa və kiçikliyə dəlalət edir. Deyirlər: «الحَوْتَل» (əl-hawtəl) — oğlan həddi-buluğa çatmağa yaxınlaşdıqda [3]. Deyirlər ki, səhra qartalının (qatranın) balalarına «حَوْتَل» deyilir. Bu mənim yanımda təhrif olunmuşdur, əslində kaf hərfi ilə «حَوْتك» (hawtik) olmalıdır və bu artıq zikr edilmişdir. Deyilir: «حتل له» (hətələ ləhu) — ona verdi. Bu, heç bir şey deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«القطا» quşu «səhra qartalı (qatranın)» kimi yanlış tərcümə edilmişdir.",
+  "«حَتَلَ له» sözünün hərəkələri AR-dakı kimi saxlanılmamışdır.",
+  "(٣) haşiyə rəqəmi [3] kimi dəyişdirilmişdir."
+ ],
+ "review_ts": "2026-11-17T02:56:22.234Z"
 }

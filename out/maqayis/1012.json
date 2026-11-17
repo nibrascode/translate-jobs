@@ -11,9 +11,18 @@
   "page_to": 138
  },
  "ar": "الحاء والثاء والميم يدلُّ على شدّةٍ. فالحَثْمَة: الأكَمَة، وبها\nسمِّيت المرأة «حَثْمة». وقال بعضُ أهل اللُّغة: حثَمتُ الشَّيءَ حثْماً:\nدلكتُه (١)",
- "az": "«حثم» — الحاء والثاء والميم يدلُّ على شدّةٍ. فالحَثْمَة: الأكَمَة، وبها سمِّيت المرأة «حَثْمة». وقال بعضُ أهل اللُّغة: حثَمتُ الشَّيءَ حثْماً: دلكتُه (١). (Həft, sə və mim hərfləri şiddətə dəlalət edir. Əl-həsmə: təpə, kiçik dağ; qadın adı olan «Həsmə» də buradan götürülmüşdür. Dilçilərdən biri demişdir: «Həsamtüş-şəyə həsmən» – onu ovxaladım, ovuşdurdum).",
+ "az": "[حثم]\nHa, sa və mim [hərfləri] şiddətə dəlalət edir. الحَثْمَة (əl-həsmə): təpədir və qadına da buna görə «حَثْمة» (Həsmə) adı verilmişdir. Dilçilərdən bəziləri demişdir: حثَمتُ الشَّيءَ حثْماً: onu ovxaladım (ovuşdurdum) (١).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:05:38.624Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«حثم» — الحاء والثاء والميم يدلُّ على شدّةٍ. فالحَثْمَة: الأكَمَة، وبها سمِّيت المرأة «حَثْمة». وقال بعضُ أهل اللُّغة: حثَمتُ الشَّيءَ حثْماً: دلكتُه (١). (Həft, sə və mim hərfləri şiddətə dəlalət edir. Əl-həsmə: təpə, kiçik dağ; qadın adı olan «Həsmə» də buradan götürülmüşdür. Dilçilərdən biri demişdir: «Həsamtüş-şəyə həsmən» – onu ovxaladım, ovuşdurdum).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətn formatı pozulmuşdur: ərəbcə mətn bütöv şəkildə verilib, ardınca tərcümə mötərizə içində verilmişdir.",
+  "«الحاء» hərfi səhvən «Həft» adlandırılmışdır."
+ ],
+ "review_ts": "2026-11-17T03:00:16.493Z"
 }

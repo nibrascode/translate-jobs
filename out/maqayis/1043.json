@@ -11,9 +11,19 @@
   "page_to": 162
  },
  "ar": "الخاء والدال واللام أصلٌ واحدٌ يدلُّ على الدِّفَّة واللِّين يقال امرأة خَدْلَةٌ، أى دقيقةُ العِظام وفى لحمها امتلاء، وهى بَيِّنَة الخَدَل والخَدَالة.\nوذُكر عن السِّجستانى عِنَبَة خَدْلةٌ، أى ضَئِيلة (٣).",
- "az": "«خدل» (خ، د، ل) — dolğunluğa və yumşaqlığa dəlalət edən tək bir əsas prinsipdir. Deyilir: امرأة خَدْلَةٌ (imraətün xadlətün) — yəni sümükləri incə, əti isə dolğun olan qadın, və onda açıq-aydın خَدَل (xədəl) və خَدَالَة (xədələ) vardır. Sicistandan rəvayət olunmuşdur ki, عِنَبَة خَدْلَةٌ (inəbətün xadlətün) — yəni kiçik, xırda üzüm salxımı deməkdir (3).",
+ "az": "[خدل]\nالخاء والدال واللام (xa, dal və lam) incəliyə və yumşaqlığa dəlalət edən bir əsldir. Deyilir: امرأة خَدْلَةٌ (sümükləri incə, əti isə dolğun olan qadın); onun bu halı خَدَل və خَدَالة kimi aydın görünür.\nƏs-Sicistanidən zikr edilmişdir: عِنَبَة خَدْلةٌ — yəni kiçik, xırda üzüm giləsi (٣).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:07:57.787Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«خدل» (خ، د، ل) — dolğunluğa və yumşaqlığa dəlalət edən tək bir əsas prinsipdir. Deyilir: امرأة خَدْلَةٌ (imraətün xadlətün) — yəni sümükləri incə, əti isə dolğun olan qadın, və onda açıq-aydın خَدَل (xədəl) və خَدَالَة (xədələ) vardır. Sicistandan rəvayət olunmuşdur ki, عِنَبَة خَدْلَةٌ (inəbətün xadlətün) — yəni kiçik, xırda üzüm salxımı deməkdir (3).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "\"عِنَبَة\" sözü \"üzüm salxımı\" deyil, tək bir üzüm giləsidir.",
+  "\"السِّجستانى\" şəxs adıdır (dilçi alim Əbu Hatim əs-Sicistani), \"Sicistandan\" kimi tərcümə olunub.",
+  "Mətndəki \"الدقة واللين\" (incəlik və yumşaqlıq) mənası \"dolğunluğa və yumşaqlığa\" kimi təhrif olunub."
+ ],
+ "review_ts": "2026-11-17T03:08:45.897Z"
 }

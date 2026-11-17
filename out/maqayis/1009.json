@@ -11,9 +11,19 @@
   "page_to": 136
  },
  "ar": "الحاء والتاء والحرف المعتل بعده أصلٌ واحدٌ، يدلُّ على شدَّةٍ.\nفالحَتْو: العَدْوُ الشديد، يقال حتا يحتو حَتْواً. والحَتْو: كَفُّكَ هُدْبَ الكِساء، تقول حَتَوْتُه. فأمّا الحَتِىُّ فيقال: إنّه سَويق المُقْلِ، وهو شاذ. وقد يجوز أن يُقْتَاسَ (١) له بابٌ فيه بعض الخُشونة. قال الهذلى (٢):\nلا دَرَّ درِّىَ إنْ أطعمْتُ نازلَكُم … قِرْفَ الحَتِىِّ وعندى البرُّ مكنُوزُ",
- "az": "«حتو» — الحاء والتاء والحرف المعتل بعده أصلٌ واحدٌ، يدلُّ على شدَّةٍ. فالحَتْو: العَدْوُ الشديد، يقال حتا يحتو حَتْواً. والحَتْو: كَفُّكَ هُدْبَ الكِساء، تقول حَتَوْتُه. فأمّا الحَتِىُّ فيقال: إنّه سَويق المُقْلِ، وهو شاذ. وقد يجوز أن يُقْتَاسَ (١) له بابٌ فيه بعض الخُشونة. قال الهذلى (٢): لا دَرَّ درِّىَ إنْ أطعمْتُ نازلَكُم … قِرْفَ الحَتِىِّ وعندى البرُّ مكنُوزُ (Həft və ta hərflərindən və ondan sonra gələn uzadılma hərfindən ibarət kök tək bir əsas məna olub şiddətə dəlalət edir. Əl-hətv: şiddətli qaçış; \"həta, yahtuv, hətvən\" deyilir. Əl-hətv: əbanın saçağını yığmaq, toparlamaq, \"hətvtuhu\" deyirsən. Hətiyə gəldikdə isə, deyilir ki, o, dum quşüzümünün (və ya dəm fıstığının) unudur və bu, şazdır. Ola bilər ki, onun üçün içində müəyyən sərtlik olan bir bölmə qiyas edilsin (təyin olunsun). Hüzəli şair demişdir: Ana südüm qurusun əgər mən sizə qonaq gələnə həti qabığı yedizdirsəm, halbuki buğdam anbarlarda qorunub saxlanmaqdadır).",
+ "az": "[حتو]\nHa, ta və ondan sonrakı qeyri-səhih hərf bir əsasdır, şiddətə dəlalət edir.\nالحَتْو (əl-hətv): şiddətli qaçışdır; حتا يحتو حَتْواً (hətə yəhtu hətvən) deyilir. الحَتْو (əl-hətv) həmçinin: parçanın (əbanın) saçağını tikib bükməyindir (yığmağındır); حَتَوْتُه (hətəvtuhu) deyirsən. الحَتِىُّ (əl-hətiyy) kəlməsinə gəldikdə isə, deyilir ki: o, muql (dum palması meyvəsi) qovurğacıdır (unudur); bu isə şazdır. Ola bilsin ki, onun üçün içində bir az codluq olan bir bab qiyas edilsin (١). Hüzəli (٢) demişdir:\nلا دَرَّ درِّىَ إنْ أطعمْتُ نازلَكُم … قِرْفَ الحَتِىِّ وعندى البرُّ مكنُوزُ\n(Əgər yanınıza enən qonağa həti qabığı yedizdirsəm, halbuki yanımda buğda saxlanıb qorunduğu halda, xeyrim bərəkətim kəsilsin!)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:05:38.623Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«حتو» — الحاء والتاء والحرف المعتل بعده أصلٌ واحدٌ، يدلُّ على شدَّةٍ. فالحَتْو: العَدْوُ الشديد، يقال حتا يحتو حَتْواً. والحَتْو: كَفُّكَ هُدْبَ الكِساء، تقول حَتَوْتُه. فأمّا الحَتِىُّ فيقال: إنّه سَويق المُقْلِ، وهو شاذ. وقد يجوز أن يُقْتَاسَ (١) له بابٌ فيه بعض الخُشونة. قال الهذلى (٢): لا دَرَّ درِّىَ إنْ أطعمْتُ نازلَكُم … قِرْفَ الحَتِىِّ وعندى البرُّ مكنُوزُ (Həft və ta hərflərindən və ondan sonra gələn uzadılma hərfindən ibarət kök tək bir əsas məna olub şiddətə dəlalət edir. Əl-hətv: şiddətli qaçış; \"həta, yahtuv, hətvən\" deyilir. Əl-hətv: əbanın saçağını yığmaq, toparlamaq, \"hətvtuhu\" deyirsən. Hətiyə gəldikdə isə, deyilir ki, o, dum quşüzümünün (və ya dəm fıstığının) unudur və bu, şazdır. Ola bilər ki, onun üçün içində müəyyən sərtlik olan bir bölmə qiyas edilsin (təyin olunsun). Hüzəli şair demişdir: Ana südüm qurusun əgər mən sizə qonaq gələnə həti qabığı yedizdirsəm, halbuki buğdam anbarlarda qorunub saxlanmaqdadır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətn formatı pozulmuşdur: ərəbcə mətn bütöv şəkildə verilib, ardınca tərcümə mötərizə içində verilmişdir.",
+  "«الحاء» hərfi səhvən «Həft» adlandırılmışdır.",
+  "Şeir və izahlar qaydalara uyğun ardıcıllıqla tərcümə edilməmişdir."
+ ],
+ "review_ts": "2026-11-17T03:00:16.492Z"
 }

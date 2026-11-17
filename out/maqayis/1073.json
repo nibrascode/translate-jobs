@@ -11,9 +11,20 @@
   "page_to": 179
  },
  "ar": "الخاء والزاء والنون أصلٌ يدلُّ على صيانة الشَّئِ. يقال خزَنْتُ الدِّرهَم وغيرَه خَزْناً؛ وخزَنتُ السِّرَّ. قال:\nإذا المرءُ لم يخْزُنْ عليه لِسَانَهُ … فليس على شئِ سِواهُ بخَزَّانِ (٤)\nفأمّا خَزِنَ الّلحمُ: تغيَّرَتْ رائحتُه، فليس من هذا، إنما هذا من المقلوب\nوالأصل خنِزَ. وقد ذُكِر فى موضعه. قال طرَفة فى خزِن:\nثم لا يَخْزَنُ فينا لحمُها … إنَّما يَخْزَنُ لحمُ المُدَّخِرْ (١)",
- "az": "[خزن] (خ, ز, ن): Bir əsas olub, şeyin qorunmasına dəlalət edir. خَزَنْتُ الدِّرْهَمَ وَغَيْرَهُ خَزْناً (xəzəntü əd-dirhəmə və ğəyrəhu xəznən): dirhəmi və başqa şeyi qorudum (saxladım); və sirləri qorudum - deyilir. Şair demişdir:\nإِذَا المَرْءُ لَمْ يَخْزُنْ عَلَيْهِ لِسَانَهُ … فَلَيْسَ عَلَى شَيْءٍ سِوَاهُ بِخَزَّانِ (٤) \n(Əgər insan dilini qoruhmasa, başqa heç bir şeyə görə xəzinədar/qoruyucu ola bilməz)\nخَزِنَ اللَّحْمُ (xəzinə əl-ləhm) - ətin iyi dəyişdi sözünə gəldikdə, bu, bu əsasdan deyildir, əksinə bu, tərsine çevrilmiş (مقلوب) sözdür. Əsli خَنِزَ (xənizə)-dir. Öz yerində zikr edilmişdir. Tərfə خَزِنَ (xəzinə) haqqında demişdir:\nثُمَّ لَا يَخْزَنُ فِينَا لَحْمُهَا … إِنَّمَا يَخْزَنُ لَحْمُ المُدَّخِرْ (١)\n(Sonra bizim aramızda əti xarab olub qoxumaz, yalnız tədarük edənin əti qoxuyar)",
+ "az": "[خزن] الخاء (xa), الزاء (zey) və النون (nun) bir şeyi qorumağa dəlalət edən bir əsasdır. Deyilir: خزَنْتُ الدِّرهَم وغيرَه خَزْناً (dirhəmi və başqa şeyi saxladım/qorudum); və خزَنتُ السِّرَّ (sirri saxladım). Şair demişdir:\nإذا المرءُ لم يخْزُنْ عليه لِسَانَهُ … فليس على شئِ سِواهُ بخَزَّانِ (٤)\n(İnsan dilini qorumasa, başqa heç bir şeyin qoruyucusu ola bilməz).\nخَزِنَ الّلحمُ (ətin qoxusu dəyişdi) ifadəsinə gəldikdə, bu, bu əsasdan deyildir, bu, hərfləri çevrilmiş sözdür (مقلوب) və əsli خنِزَ adlanır. Öz yerində qeyd edilmişdir. Tərəfə خَزِنَ haqqında demişdir:\nثم لا يَخْزَنُ فينا لحمُها … إنَّما يَخْزَنُ لحمُ المُدَّخِرْ (١)\n(Sonra bizdə onun əti qoxuyub xarab olmaz, yalnız tədarük görüb saxlayanın əti qoxuyar).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:09:01.279Z",
- "review_attempts": 1,
- "review_last_error": "cavabda yoxdur"
+ "review_last_error": "cavabda yoxdur",
+ "prev_az": "[خزن] (خ, ز, ن): Bir əsas olub, şeyin qorunmasına dəlalət edir. خَزَنْتُ الدِّرْهَمَ وَغَيْرَهُ خَزْناً (xəzəntü əd-dirhəmə və ğəyrəhu xəznən): dirhəmi və başqa şeyi qorudum (saxladım); və sirləri qorudum - deyilir. Şair demişdir:\nإِذَا المَرْءُ لَمْ يَخْزُنْ عَلَيْهِ لِسَانَهُ … فَلَيْسَ عَلَى شَيْءٍ سِوَاهُ بِخَزَّانِ (٤) \n(Əgər insan dilini qoruhmasa, başqa heç bir şeyə görə xəzinədar/qoruyucu ola bilməz)\nخَزِنَ اللَّحْمُ (xəzinə əl-ləhm) - ətin iyi dəyişdi sözünə gəldikdə, bu, bu əsasdan deyildir, əksinə bu, tərsine çevrilmiş (مقلوب) sözdür. Əsli خَنِزَ (xənizə)-dir. Öz yerində zikr edilmişdir. Tərfə خَزِنَ (xəzinə) haqqında demişdir:\nثُمَّ لَا يَخْزَنُ فِينَا لَحْمُهَا … إِنَّمَا يَخْزَنُ لَحْمُ المُدَّخِرْ (١)\n(Sonra bizim aramızda əti xarab olub qoxumaz, yalnız tədarük edənin əti qoxuyar)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərflərin adları yazılmamışdır.",
+  "Ərəbcə sitatlara damma/hərəkələr artırılmışdır.",
+  "Mətndə latın transliterasiyası verilmişdir.",
+  "Tərcümədə «qoruhmasa» şəklində hərf səhvi var."
+ ],
+ "review_ts": "2026-11-17T03:02:30.990Z"
 }
