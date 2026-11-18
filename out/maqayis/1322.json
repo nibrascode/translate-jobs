@@ -11,7 +11,17 @@
   "page_to": 310
  },
  "ar": "الدال والواو والحاء كلمة واحدة، وهى الدَّوْحة: [الشجرة (٢)] العظيمة، والجمع الدَّوْحُ. قال:\n* يكُبُّ عَلَى الأذقانِ دَوْحَ الكَنَهْبَلِ (٣) *",
- "az": "[دوح] الدال, واو və حاء tək bir kəlmədir. O da «الدَّوْحَّة»-dır: Böyük ağac (٢), cəmi isə «الدَّوْحُ»-dur. Şair demişdir:\n* يكُبُّ عَلَى الأذقانِ دَوْحَ الكَنَهْبَلِ (٣) *",
+ "az": "[دوح]\nالدال والواو والحاء (dal, vav və ha) bir kəlmədir: وهى الدَّوْحة: [الشجرة (٢)] العظيمة (o da الدَّوْحة: böyük ağacdır [٢]), والجمع الدَّوْحُ (cəmi isə الدَّوْحُ gəlir). قال (Şair demişdir):\n* يكُبُّ عَلَى الأذقانِ دَوْحَ الكَنَهْبَلِ (٣) *\n(«[Külək] kənəhbəl ağacının iri gövdələrini üzüqoylu yerə yıxır»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:18:17.562Z"
+ "ts": "2026-10-25T01:18:17.562Z",
+ "prev_az": "[دوح] الدال, واو və حاء tək bir kəlmədir. O da «الدَّوْحَّة»-dır: Böyük ağac (٢), cəmi isə «الدَّوْحُ»-dur. Şair demişdir:\n* يكُبُّ عَلَى الأذقانِ دَوْحَ الكَنَهْبَلِ (٣) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalıb.",
+  "«الدَّوْحَّة» sözündə hərf xətası var (artıq şəddə)."
+ ],
+ "review_ts": "2026-11-17T23:34:41.252Z"
 }

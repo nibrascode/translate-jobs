@@ -13,5 +13,10 @@
  "ar": "الدال والخاء والصاد كالذى قبله. وذكر ابنُ دُريد (٧) أنّ الدَّخُوص: الجاريةُ السَّمينة.",
  "az": "[دخص] (Də-xə-sə). Dal, xə və sad hərfləri əvvəlki kimidir. İbn Dürid (٧) qeyd etmişdir ki, دَخُوص (dəxus): kök qız deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:21:05.722Z"
+ "ts": "2026-10-25T01:21:05.722Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T23:59:10.753Z"
 }

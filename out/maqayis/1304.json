@@ -11,7 +11,16 @@
   "page_to": 303
  },
  "ar": "الدال والنون والباء لا أصل له. على أنّهم قد قالوا: رجلٌ دِنَّبَةُ ودِنَّابَةٌ، وهو القَصير. وهذا إن صحّ فهو من الإبدال لأن الأصل الميم دِنَّمَةٌ.",
- "az": "[دنب] \nالدال والنون والباء (د-ن-ب) لا أصل له (əsli yoxdur). على أنّهم قد قالوا (Bununla belə, demişlər): رجلٌ دِنَّبَةُ ودِنَّابَةٌ (gödək adam)، وهو القَصير (və o, qısaboylu deməkdir). وهذا إن صحّ (və əgər bu səhihdirsə) فهو من الإبدال (onda bu hərf əvəzlənməsindəndir) لأن الأصل الميم دِنَّمَةٌ (çünki əsli mim hərfi ilə dınnəmədir).",
+ "az": "[دنب]\nDal, nun və ba hərflərinin əsli yoxdur. Bununla belə, onlar demişlər: «رجلٌ دِنَّبَةُ ودِنَّابَةٌ» (qısaboylu adam), o, qısa deməkdir. Bu, əgər səhihdirsə, ibdal (hərf əvəzlənməsi) yolu ilədir, çünki əsli mim hərfi ilə «دِنَّمَةٌ»-dir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:59.953Z"
+ "ts": "2026-10-25T01:17:59.953Z",
+ "prev_az": "[دنب] \nالدال والنون والباء (د-ن-ب) لا أصل له (əsli yoxdur). على أنّهم قد قالوا (Bununla belə, demişlər): رجلٌ دِنَّبَةُ ودِنَّابَةٌ (gödək adam)، وهو القَصير (və o, qısaboylu deməkdir). وهذا إن صحّ (və əgər bu səhihdirsə) فهو من الإبدال (onda bu hərf əvəzlənməsindəndir) لأن الأصل الميم دِنَّمَةٌ (çünki əsli mim hərfi ilə dınnəmədir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb mətni bütövlükdə saxlanılıb və mötərizəli tərcümə şəklində verilib."
+ ],
+ "review_ts": "2026-11-17T23:31:26.909Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الذال والحاء والقاف ليس أصلاً. وربَّما قالوا: ذَحقَ اللسان، إذا انقشر من داءٍ يُصِيبُه.",
  "az": "[ذحق] \n\nذال، hə və qaf hərfi əsas deyil. Bəzən deyirlər: ذَحقَ اللسان (dil ona toxunan xəstəlikdən qabıq verdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.658Z"
+ "ts": "2026-10-25T01:23:18.658Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T00:24:32.594Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 356
  },
  "ar": "الذال والعين والطاء كلمةٌ واحدة. يقال ذعطه، إذا ذَبَحه.\nوذَعطَتْه المنِيّة: قتلَتْه. قال الشاعر (١):\nإذا بلغُوا مِصْرهم عُوجِلوا … من الموت بالهِمْيَعِ الذَّاعطِ\nوقريب من هذا الذال والعين والتّاء؛ فإنّهم يقولون ذَعَته يذَعَتُه، إذا خنقَه.",
- "az": "[ذعط] الذال والعين والطاء كلمةٌ واحدة (Zal, ayn və ta tək bir sözdür). يقال ذعطه، إذا ذَبَحه (Deyilir: za'atahu, onu kəsdiyi zaman). وذَعطَتْه المنِيّة: قتلَتْه (Və ölüm onu za'at etdi: onu öldürdü). قال الشاعر (١): إذا بلغُوا مِصْرهم عُوجِلوا … من الموت بالهِمْيَعِ الذَّاعطِ (Şair dedi: \"Misirlərinə çatdıqda ölümün zaat edən həmyəci ilə tələsdirildilər\"). وقريب من هذا الذال والعين والتّاء؛ فإنّهم يقولون ذَعَته يذَعَتُه، إذا خنقَه (Buna yaxındır zal, ayn və ta hərfləri; çünki onlar deyirlər: za'atahu yaz'atuhu, onu boğduğu zaman).",
+ "az": "[ذعط]\nالذال والعين والطاء كلمةٌ واحدة. يقال ذعطه، إذا ذَبَحه (Zal, ayn və ta tək bir kəlmədir. Deyilir: ذَعَطَهُ [onu boğazladı], onu kəsdiyi zaman).\nوذَعطَتْه المنِيّة: قتلَتْه (Və ذَعَطَتْهُ المَنِيَّةُ: ölüm onu yaxalayıb öldürdü). قال الشاعر (١):\nإذا بلغُوا مِصْرهم عُوجِلوا … من الموت بالهِمْيَعِ الذَّاعطِ\n(Şair demişdir: «Onlar öz şəhərlərinə çatdıqda, ölümdən boğucu və tez öldürən bir əcəllə yaxalandılar»).\nوقريب من هذا الذال والعين والتّاء؛ فإنّهم يقولون ذَعَته يذَعَتُه، إذا خنقَه (Buna yaxın olan zal, ayn və ta köküdür; çünki onlar: ذَعَتَهُ يَذْعَتُهُ deyirlər, onu boğduğu zaman).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:31.498Z"
+ "ts": "2026-10-25T01:22:31.498Z",
+ "prev_az": "[ذعط] الذال والعين والطاء كلمةٌ واحدة (Zal, ayn və ta tək bir sözdür). يقال ذعطه، إذا ذَبَحه (Deyilir: za'atahu, onu kəsdiyi zaman). وذَعطَتْه المنِيّة: قتلَتْه (Və ölüm onu za'at etdi: onu öldürdü). قال الشاعر (١): إذا بلغُوا مِصْرهم عُوجِلوا … من الموت بالهِمْيَعِ الذَّاعطِ (Şair dedi: \"Misirlərinə çatdıqda ölümün zaat edən həmyəci ilə tələsdirildilər\"). وقريب من هذا الذال والعين والتّاء؛ فإنّهم يقولون ذَعَته يذَعَتُه، إذا خنقَه (Buna yaxındır zal, ayn və ta hərfləri; çünki onlar deyirlər: za'atahu yaz'atuhu, onu boğduğu zaman).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirdəki «مِصْرهم» kəlməsi «Misirlərinə» kimi kobud şəkildə səhv tərcümə edilib (öz şəhərlərinə/yurdlarına deməkdir).",
+  "«بالهِمْيَعِ الذَّاعطِ» ifadəsi tərcüməsiz qalıb («zaat edən həmyəci ilə» saxlanılıb).",
+  "İzah edilən fellər («ذعطه», «ذَعطَتْه المنِيّة», «ذَعَته يذَعَتُه») ərəbcə saxlanıb dəqiq tərcümə edilməyib.",
+  "Abzas bölgüsü AR mətnindəki kimi qorunmayıb."
+ ],
+ "review_ts": "2026-11-18T00:16:57.572Z"
 }

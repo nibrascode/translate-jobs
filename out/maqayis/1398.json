@@ -11,7 +11,19 @@
   "page_to": 355
  },
  "ar": "الذال والعين * والنون أصلٌ واحدٌ يدلُّ على الإصحاب والانقياد. يقال أذعَنَ الرّحلُ، إذا انقاد، يُذْعِن إذعاناً. وبناؤه ذَعَنَ، إلا أنَّ استعماله أَذْعَنَ. ويقال ناقةٌ مِذعانٌ: سَلِسَة الرأس منقادة.",
- "az": "[ذعن] الذال والعين والنون أصلٌ واحدٌ يدلُّ على الإصحاب والانقياد (Zal, ayn və nun dostluğa və itaətə dəlalət edən tək bir əslidir). يقال أذعَنَ الرّحلُ، إذا انقاد، يُذْعِن إذعاناً (Deyilir: kişi əz'ənə, itaət etdikdə, iz'anan iz'in edir). وبناؤه ذَعَنَ، إلا أنَّ استعماله أَذْعَنَ (Onun binası za'anədir, lakin işlənməsi əz'ənəşəkklindədir). ويقال ناقةٌ مِذعانٌ: سَلِسَة الرأس منقادة (Deyilir: miz'an dəvə — başı yumşaq, itaətkar dəvə).",
+ "az": "[ذعن]\nالذال والعين * والنون أصلٌ واحدٌ يدلُّ على الإصحاب والانقياد (Zal, ayn və nun ram olmağa və itaət etməyə dəlalət edən vahid bir əsldir). يقال أذعَنَ الرّجلُ، إذا انقاد، يُذْعِن إذعاناً (Deyilir: أذْعَنَ الرَّجُلُ [kişi boyun əydi/itaət etdi], nə vaxt ki itaət edər; يُذْعِنُ إذْعَانًا). وبناؤه ذَعَنَ، إلا أنَّ استعماله أَذْعَنَ (Onun kök qəlibi ذَعَنَ felidir, lakin işlənməsi أَذْعَنَ şəklindədir). ويقال ناقةٌ مِذعانٌ: سَلِسَة الرأس منقادة (Deyilir: ناقَةٌ مِذْعَانٌ [itaətkar dişi dəvə] — başı yola yatan, itaətkardır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:31.498Z"
+ "ts": "2026-10-25T01:22:31.498Z",
+ "prev_az": "[ذعن] الذال والعين والنون أصلٌ واحدٌ يدلُّ على الإصحاب والانقياد (Zal, ayn və nun dostluğa və itaətə dəlalət edən tək bir əslidir). يقال أذعَنَ الرّحلُ، إذا انقاد، يُذْعِن إذعاناً (Deyilir: kişi əz'ənə, itaət etdikdə, iz'anan iz'in edir). وبناؤه ذَعَنَ، إلا أنَّ استعماله أَذْعَنَ (Onun binası za'anədir, lakin işlənməsi əz'ənəşəkklindədir). ويقال ناقةٌ مِذعانٌ: سَلِسَة الرأس منقادة (Deyilir: miz'an dəvə — başı yumşaq, itaətkar dəvə).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الإصحاب» kəlməsi «dostluq» kimi səhv tərcümə edilib (ram olmaq, tabe olmaq mənasındadır).",
+  "«أذعَنَ الرّحلُ، إذا انقاد، يُذْعِن إذعاناً» cümləsində sözlər tərcümə edilmədən qarışıq verilib.",
+  "«əz'ənəşəkklindədir» kəlməsində orfoqrafik xəta var.",
+  "AR mətnindəki ulduz işarəsi buraxılıb və abzas bölgüsü pozulub."
+ ],
+ "review_ts": "2026-11-18T00:16:57.572Z"
 }

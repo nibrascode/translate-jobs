@@ -11,7 +11,17 @@
   "page_to": 299
  },
  "ar": "الدال والميم والثاء أصلٌ واحد يدلُّ على لينٍ وسُهولة.\nفالدَّمَث: اللِّين؛ يقال دَمِث المكانُ يَدْمَثُ دَمَثاً؛ وهو دَمْثٌ وَدَمِثٌ. ويكون ذا رَمْلٍ، ومن ذلك\nالحديث: «أنّ رسولَ اللّه ﵌ مال إلى دَمَثٍ، وقال: إذا بال أحَدُكُمْ فليرتَدْ لبَوْله (١)». والدّماثة: سُهولة الخُلُق.\nويقال دَمِّثْ لى الحديثَ، أى سهِّلْه ووَطِّئْه.",
- "az": "[دمث] (dəm-ث): Dal, mim və sə hərfləri bir əsas prinsipi göstərir ki, bu da yumşaqlıq və rahatlıqdır.\n«الدَّمَث» (əd-damətu): yumşaqlıq; deyilir: «دَمِث المكانُ يَدْمَثُ دَمَثاً» (dəmiثə əl-makanü yədməثü dəməثən); o, «دَمْثٌ» (dəmثün) və «دَمِثٌ» (dəmiثün)-dür. Orada qum olur. Hədisdən də bu gəlmişdir: «أنّ رسولَ اللّه ﵌ مال إلى دَمَثٍ، وقال: إذا بال أحَدُكُمْ فليرتَدْ لبَوْله (١)» (mənaca tərcümə: Allahın elçisi yumşaq torpağa tərəf meyl etdi və dedi:",
+ "az": "[دمث] (dəm-s): Dal, mim və sə hərfləri bir əsas prinsipi göstərir ki, bu da yumşaqlıq və rahatlıqdır.\n«الدَّمَث» (əd-dəməs): yumşaqlıq; deyilir: «دَمِث المكانُ يَدْمَثُ دَمَثاً» (dəmisə əl-məkanü yədməsü dəməsən); o, «دَمْثٌ» (dəmsün) və «دَمِثٌ» (dəmisün)-dür. Orada qum olur. Hədisdən də bu gəlmişdir: «أنّ رسولَ اللّه ﵌ مال إلى دَمَثٍ، وقال: إذا بال أحَدُكُمْ فليرتَدْ لبَوْله (١)» (Allahın elçisi sallallahu aleyhi və səlləm yumşaq yerə tərəf meyl etdi və dedi: «Sizdən biriniz kiçik subaşına çıxmaq istədikdə, bunun üçün münasib yer seçsin (١)»). Və «الدّماثة» (əd-dəmasə): əxlaqın yumşaqlığı. Deyilir: «دَمِّثْ لى الحديثَ» (dəmmis li əl-hədisə) — yəni onu mənim üçün asanlaşdır və aydınlaşdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:37.834Z"
+ "ts": "2026-10-25T01:17:37.834Z",
+ "prev_az": "[دمث] (dəm-ث): Dal, mim və sə hərfləri bir əsas prinsipi göstərir ki, bu da yumşaqlıq və rahatlıqdır.\n«الدَّمَث» (əd-damətu): yumşaqlıq; deyilir: «دَمِث المكانُ يَدْمَثُ دَمَثاً» (dəmiثə əl-makanü yədməثü dəməثən); o, «دَمْثٌ» (dəmثün) və «دَمِثٌ» (dəmiثün)-dür. Orada qum olur. Hədisdən də bu gəlmişdir: «أنّ رسولَ اللّه ﵌ مال إلى دَمَثٍ، وقال: إذا بال أحَدُكُمْ فليرتَدْ لبَوْله (١)» (mənaca tərcümə: Allahın elçisi yumşaq torpağa tərəf meyl etdi və dedi:",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə hədisin ortasında yarımçıq kəsilib və maddənin qalan hissəsi buraxılıb.",
+  "Transliterasiyada latın hərfləri arasında ərəbcə «ث» hərfi işlənib və «﵌» ifadəsi «sallallahu aleyhi və səlləm» kimi verilməyib."
+ ],
+ "review_ts": "2026-11-17T23:30:07.780Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الدال والواو والقاف ليس أصلاً ولا فيه ما يُعَدُّ لغةً، لكنهم يقولون: مائقٌ دائق.",
  "az": "[دوق] Dal, vav və qaf nə bir əsasdır, nə də orada dilə gətiriləcək bir lüğət var, lakin belə deyirlər: «مائقٌ دائق» (axmaq və sərsəm).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:18:17.562Z"
+ "ts": "2026-10-25T01:18:17.562Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T23:35:21.293Z"
 }

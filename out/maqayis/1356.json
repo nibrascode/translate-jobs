@@ -11,7 +11,17 @@
   "page_to": 328
  },
  "ar": "الدال والباء والياء ليس أصلاً، وإنَّما [هو] كلمةٌ واحدة، ثم يُحمَل عليها تشبيهاً. فالدّبا: الجراد إذا تحرَّك (٤). والتّشبيهُ قولهم: أدْبَى الرِّمْثُ، أوَّلَ ما يتفَطَّر؛ وذلك لأنّه يشبَّه بالدَّبا. وذكر بعضُهم: جاء فلانٌ بدَبَادَبَا (٥)،\nإذا جاء بمالٍ كالدّبا (١). ويقال أرضٌ مَدْبَاةٌ: كثيرة الدبا. ومَدْبِيَّةٌ: أَكَلَ الدّبَا نباتَها.",
- "az": "[دبى] الدال والباء والياء ليس أصلاً، وإنَّما [هو] كلمةٌ واحدة، ثم يُحمَل عليها تشبيهاً. (الدال, ba və ya – əsas deyil, yalnız tək bir közdür, sonra ona oxşadılaraq daşınır). فالدّبا (fəddəba): Hərəkət etdiyi zaman çəyirtkə (٤). Və oxşatma olaraq onların bu sözüdür: أدْبَى الرِّمْثُ (ədbərr-rimsu), o, ilk cücərdiyi zaman; bu ona görədir ki, o, çəyirtkəyə oxşadılır. Bəziləri qeyd etmişdir: جاء فلانٌ بدَبَادَبَا (Filan çəyirtkə kimi mal ilə gəldi) (٥). Deyilir: أرضٌ مَدْبَاةٌ (mədbat torpaq) – çəyirtkəsi çox olan. Və مَدْبِيَّةٌ (mədbiyyəh): Çəyirtkə onun bitkisini yemişdir.",
+ "az": "[دبى]\nDal, ba və ya kök deyildir; o sadəcə bircə kəlmədir, sonra isə təşbih (bənzətmə) yolu ilə ona aid edilir. فالدّبا hərəkət etməyə başlayan çəyirtkə balasıdır (٤). Təşbihə misal onların أدْبَى الرِّمْثُ («rims kolu ilk cücərdiyi zaman tumurcuqladı») sözüdür; çünki o, çəyirtkə balasına (دبا) bənzədilir. Bəziləri qeyd etmişdir: bir kəs çəyirtkə sürüsü kimi çoxlu mal gətirdikdə جاء فلانٌ بدَبَادَبَا (٥)، إذا جاء بمالٍ كالدّبا (١) («filankəs dəba-dəba ilə, yəni çəyirtkə kimi çoxlu malla gəldi») deyilir. Çəyirtkəsi bol olan yerə أرضٌ مَدْبَاةٌ, ot-bitkisini çəyirtkə yemiş yerə isə مَدْبِيَّةٌ deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.119Z"
+ "ts": "2026-10-25T01:20:39.119Z",
+ "prev_az": "[دبى] الدال والباء والياء ليس أصلاً، وإنَّما [هو] كلمةٌ واحدة، ثم يُحمَل عليها تشبيهاً. (الدال, ba və ya – əsas deyil, yalnız tək bir közdür, sonra ona oxşadılaraq daşınır). فالدّبا (fəddəba): Hərəkət etdiyi zaman çəyirtkə (٤). Və oxşatma olaraq onların bu sözüdür: أدْبَى الرِّمْثُ (ədbərr-rimsu), o, ilk cücərdiyi zaman; bu ona görədir ki, o, çəyirtkəyə oxşadılır. Bəziləri qeyd etmişdir: جاء فلانٌ بدَبَادَبَا (Filan çəyirtkə kimi mal ilə gəldi) (٥). Deyilir: أرضٌ مَدْبَاةٌ (mədbat torpaq) – çəyirtkəsi çox olan. Və مَدْبِيَّةٌ (mədbiyyəh): Çəyirtkə onun bitkisini yemişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«إذا جاء بمالٍ كالدّبا» ərəbcə cümləsi tərcümədə mətndən düşüb.",
+  "«tək bir közdür» yazı xətası («sözdür» əvəzinə) var."
+ ],
+ "review_ts": "2026-11-17T23:49:23.718Z"
 }

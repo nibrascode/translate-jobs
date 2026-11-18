@@ -13,5 +13,10 @@
  "ar": "الدال والهمزة والثاء ليس أصلاً؛ لأن الدَّأْثاءَ - وهى الأَمَةُ - مقلوبةٌ من الثأْداء. على أنَّهم يقولون: دَأَثْتُ الطّعام: أكلتُه.",
  "az": "[دأث] الدال (dal), الهمزة (həmzə) və الثاء (sə) hərfləri əsas bir kök deyil; çünki الدَّأْثاء (əd-də'sa') - yəni kəniz - الثأْداء (əs-sə'da') sözünün tərsidir (məqlubdur). Bununla belə, onlar دَأَثْتُ الطّعام (də'əstu-t-ta'am) deyirlər: onu yedim.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:20:14.272Z"
+ "ts": "2026-10-25T01:20:14.272Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T23:40:00.345Z"
 }

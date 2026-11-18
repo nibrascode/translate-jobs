@@ -11,7 +11,17 @@
   "page_to": 332
  },
  "ar": "الدال والحاء والصاد كلمةٌ واحدة. يقال دَحَصَ المذبوحُ برجْله يدحَصُ دَحْصاً، إذا ارتكَضَ. قال علقمة:\nرغا فوقَهم سَقْبُ السّماءِ فداحِصٌ … بشِكَّتِهِ لم يُسْتَلَب وسليبُ (١)",
- "az": "[دحص] الدال والحاء والصاد كلمةٌ واحدة. (الدال, hə və sad – tək bir kəlmədir). Deyilir: دَحَصَ المذبوحُ برجْله يدحَصُ دَحْصاً (Kəsilmiş heyvan ayağı ilə dəhəsə etdi, dəhəsun edir), çırpındığı zaman. Əl-Qəqəmə demişdir: رغا فوقَهم سَقْبُ السّماءِ فداحِصٌ … بشِكَّتِهِ لم يُسْتَلَب وسليبُ (١)",
+ "az": "[دحص]\nالدال والحاء والصاد كلمةٌ واحدة (dal, ha və sad tək bir kəlmədir). Deyilir: دَحَصَ المذبوحُ برجْله يدحَصُ دَحْصاً (kəsilmiş heyvan ayağı ilə çırpındı, çırpınır), hərəkətlə təpik atıb çırpındığı zaman deyilir. Alqamə demişdir:\nرغا فوقَهم سَقْبُ السّماءِ فداحِصٌ … بشِكَّتِهِ لم يُسْتَلَب وسليبُ (١)\n(Səmanın dəvə balası onların başı üzərində nərə çəkdi [böyük bəla nazil oldu]; kimi silah-sursatı ilə can verib çırpınır, soyulmamışdır, kimi də soyulub qarət edilmişdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "prev_az": "[دحص] الدال والحاء والصاد كلمةٌ واحدة. (الدال, hə və sad – tək bir kəlmədir). Deyilir: دَحَصَ المذبوحُ برجْله يدحَصُ دَحْصاً (Kəsilmiş heyvan ayağı ilə dəhəsə etdi, dəhəsun edir), çırpındığı zaman. Əl-Qəqəmə demişdir: رغا فوقَهم سَقْبُ السّماءِ فداحِصٌ … بشِكَّتِهِ لم يُسْتَلَب وسليبُ (١)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalmışdır.",
+  "Şairin adı təhrif edilmişdir («Əl-Qəqəmə» yox, «Alqamə»)."
+ ],
+ "review_ts": "2026-11-18T00:07:11.682Z"
 }

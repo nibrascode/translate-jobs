@@ -11,7 +11,17 @@
   "page_to": 314
  },
  "ar": "الدال والواو والكاف أصلٌ واحد يدلُّ على ضَغْطٍ وتزاحُم.\nفيقولون: دُكْتُ الشّئَ دَوْكاً. والمَدَاك: صَلايَة الطِّيب، يَدُوك عليها الإنسان الطِّيبَ دَوْكاً. قال:\n* مَدَاكَ عَرُوسٍ أو صَلَايَةَ حَنْظَلِ (١) *\nويقال باتَ القوم يَدُوكُون دَوْكاً، إذا باتُوا فى اختلاط. ومن ذلك\nالحديث:\nأنّ رسول اللّه ﷺ [قال] فى خيبر: «لأُعْطِيَنّ الرَّايةَ غداً رجُلاً يحبُّ اللّهَ ورسولَه يَفْتَحُ اللّهَ على يَدِه»، فباتَ النَّاسُ يَدُوكون (٢). ويقال تداوَكَ القومُ، إذا تضايَقُوا فى حَرْبٍ أو شَرّ.",
- "az": "[دوك] Dal, vav və kaf – sıxıntıya və sürüyüşməyə/təzyiqə dəlalət edən tək bir əsasdır.\nBelə deyirlər: «دُكْتُ الشّئَ دَوْكاً» (şeyi sıxışdırdım). «المَدَاك» – ətrin daş səthi (həvəngi) olub, insan onun üzərində ətri əzir («دَوْكاً»). Şair demişdir:\n* مَدَاكَ عَرُوسٍ أو صَلَايَةَ حَنْظَلِ (١) *\nVə deyilir: «باتَ القوم يَدُوكُون دَوْكاً», o zaman ki, onlar qarışıqlıq içində gecələyirlər. Həmçinin hədis də bundandır:\nAllahın Elçisi ﷺ Xeybər günü [buyurmuşdur]: «لأُعْطِيَنّ الرَّايةَ غداً رجُلاً يحبُّ اللّهَ ورسولَه يَفْتَحُ اللّهَ على يَدِه» (Sabah bayrağı elə bir kişiyə verəcəyəm ki, o, Allahı və Onun Elçisini sevir, Allah onun əli ilə fəth bəxş edəcək), bunun üzərinə insanlar həyəcanla (qarışıqlıq içində) gecələdilər (٢). Həmçinin deyilir: «تداوَكَ القومُ», o zaman ki, onlar müharibədə və ya şər işdə sıxışdılar.",
+ "az": "[دوك]\nالدال, الواو və الكاف sıxmağa və basırığa (bir-birini sıxışdırmağa) dəlalət edən tək bir əsasdır.\nBelə deyirlər: دُكْتُ الشّئَ دَوْكاً (şeyi əzib sıxdım). المَدَاك isə ətir əzmək üçün işlədilən yastı, hamar daşdır (صَلايَة الطِّيب), insan onun üzərində ətri əzib sürtər (دَوْكاً). Şair demişdir:\n* مَدَاكَ عَرُوسٍ أو صَلَايَةَ حَنْظَلِ (١) *\n(Gəlinin ətir daşı, yaxud hənzəl əzilən daş kimi).\nDeyilir: باتَ القوم يَدُوكُون دَوْكاً – o zaman ki, onlar qarışıqlıq və təlaş içində gecələyirlər. Həmçinin hədis də bundandır:\nAllahın Elçisi sallallahu aleyhi və səlləm Xeybərdə [buyurmuşdur]: «لأُعْطِيَنّ الرَّايةَ غداً رجُلاً يحبُّ اللّهَ ورسولَه يَفْتَحُ اللّهَ على يَدِه» (Sabah bayrağı elə bir kişiyə verəcəyəm ki, o, Allahı və Onun Elçisini sevir, Allah onun əli ilə fəth bəxş edəcək), bunun üzərinə insanlar qarışıqlıq və təlaş içində gecələdilər (فباتَ النَّاسُ يَدُوكون) (٢). Deyilir: تداوَكَ القومُ – o zaman ki, onlar döyüşdə və ya şərdə bir-birini sıxışdırdılar.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:18:17.562Z"
+ "ts": "2026-10-25T01:18:17.562Z",
+ "prev_az": "[دوك] Dal, vav və kaf – sıxıntıya və sürüyüşməyə/təzyiqə dəlalət edən tək bir əsasdır.\nBelə deyirlər: «دُكْتُ الشّئَ دَوْكاً» (şeyi sıxışdırdım). «المَدَاك» – ətrin daş səthi (həvəngi) olub, insan onun üzərində ətri əzir («دَوْكاً»). Şair demişdir:\n* مَدَاكَ عَرُوسٍ أو صَلَايَةَ حَنْظَلِ (١) *\nVə deyilir: «باتَ القوم يَدُوكُون دَوْكاً», o zaman ki, onlar qarışıqlıq içində gecələyirlər. Həmçinin hədis də bundandır:\nAllahın Elçisi ﷺ Xeybər günü [buyurmuşdur]: «لأُعْطِيَنّ الرَّايةَ غداً رجُلاً يحبُّ اللّهَ ورسولَه يَفْتَحُ اللّهَ على يَدِه» (Sabah bayrağı elə bir kişiyə verəcəyəm ki, o, Allahı və Onun Elçisini sevir, Allah onun əli ilə fəth bəxş edəcək), bunun üzərinə insanlar həyəcanla (qarışıqlıq içində) gecələdilər (٢). Həmçinin deyilir: «تداوَكَ القومُ», o zaman ki, onlar müharibədə və ya şər işdə sıxışdılar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir misrasının tərcüməsi verilməyib.",
+  "«المَدَاك: صَلايَة الطِّيب» izahı «ətrin daş səthi (həvəngi)» kimi qeyri-dəqiq tərcümə olunub; bu, ətir əzmək üçün işlədilən yastı, hamar daşdır."
+ ],
+ "review_ts": "2026-11-17T23:35:21.294Z"
 }

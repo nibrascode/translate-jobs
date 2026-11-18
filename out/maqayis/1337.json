@@ -11,7 +11,16 @@
   "page_to": 318
  },
  "ar": "الدال والياء والراء أظُنه منقلباً عن الواو، من الدَّار والدوْر.\nومن الباب الدَّيْر. وما بها دَيُّورٌ ودَيَّارٌ، أى أحدٌ. ومن الباب الذى ذكرْناه قال ابنُ الأعرابىّ: يقال للرجل إذا كان رأسَ أصحابه: هو رأس الدَّيْر.",
- "az": "[دير] \nالدال (dal), الياء (yə) və الراء (ra) — güman edirəm ki, دار (ev) və دور (dövr etmək) sözündəki vav hərfindən dəyişərək yə olmuşdur.\n\nVə bu qapıdandır: الدَّيْر (ə-deyr - monastır). Və ما بها دَيُّورٌ ودَيَّارٌ (orada heç bir kəs yoxdur), yəni heç kəs yoxdur. Zikr etdiyimiz bu qapıdan İbn əl-Ərəbi demişdir: Kişiyə öz dostlarının başçısı olduqda deyilir: هو رأس الدَّيْر (O, deyrin / məclisin başçısıdır).",
+ "az": "[دير]\nالدال (dal), الياء (ya) və الراء (ra) — zənnimcə, الدَّار (yurd, ev) və الدَّوْر (dövr etmək) sözlərində olduğu kimi vav hərfindən çevrilmişdir.\nBu qapıdandır: الدَّيْر (monastır). «ما بها دَيُّورٌ ودَيَّارٌ» — yəni «orada heç kim yoxdur». Qeyd etdiyimiz bu qapıdan İbn əl-Ə'rabi demişdir: Kişi yoldaşlarının başçısı olduqda deyilir: «هو رأس الدَّيْر» (O, monastırın / topluluğun başçısıdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:18:41.111Z"
+ "ts": "2026-10-25T01:18:41.111Z",
+ "prev_az": "[دير] \nالدال (dal), الياء (yə) və الراء (ra) — güman edirəm ki, دار (ev) və دور (dövr etmək) sözündəki vav hərfindən dəyişərək yə olmuşdur.\n\nVə bu qapıdandır: الدَّيْر (ə-deyr - monastır). Və ما بها دَيُّورٌ ودَيَّارٌ (orada heç bir kəs yoxdur), yəni heç kəs yoxdur. Zikr etdiyimiz bu qapıdan İbn əl-Ərəbi demişdir: Kişiyə öz dostlarının başçısı olduqda deyilir: هو رأس الدَّيْر (O, deyrin / məclisin başçısıdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Məşhur dilçi alim «ابن الأعرابي» (İbn əl-Ə'rabi) adı yanlış olaraq «İbn əl-Ərəbi» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-17T23:40:00.343Z"
 }

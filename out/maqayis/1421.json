@@ -11,7 +11,16 @@
   "page_to": 365
  },
  "ar": "الذال والياء والراء ليس أصلاً. إنّما يقولون: ذَيَّرْتُ أطْباءَ النّاقةِ، إذا طليتَها بسِرْجِينٍ لئلا يرتضِع الفَصيل. وهو الذِّيار.",
- "az": "[ذير] \n\nذال، ياء və ra hərfləri müstəqil əsas deyil. Onlar sadəcə olaraq deyirlər: ذَيَّرْتُ أطْباءَ النّاقةِ (dəvənin məməciklərini yağla sürtdüm) – balası əmməsin deyə onu peyinlə yağladığın zaman. Bu da الذِّيار (əz-ziyar) adlanır.",
+ "az": "[ذير]\nZal, ya və ra bir əsl deyildir. Sadəcə olaraq deyirlər: «ذَيَّرْتُ أطْباءَ النّاقةِ» (dəvənin məmələrini peyinlə sürtdüm) – balası əmməsin deyə onu peyinlə yaxdıqda belə deyilir. Bu da الذِّيار (əz-ziyar) adlanır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذير] \n\nذال، ياء və ra hərfləri müstəqil əsas deyil. Onlar sadəcə olaraq deyirlər: ذَيَّرْتُ أطْباءَ النّاقةِ (dəvənin məməciklərini yağla sürtdüm) – balası əmməsin deyə onu peyinlə yağladığın zaman. Bu da الذِّيار (əz-ziyar) adlanır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ذَيَّرْتُ أطْباءَ النّاقةِ» ifadəsi «dəvənin məməciklərini yağla sürtdüm» kimi tərcümə olunub (doğrusu: peyinlə sürtdüm)."
+ ],
+ "review_ts": "2026-11-18T00:21:42.963Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 310
  },
  "ar": "الدال والواو والدال ليس أصلا يفرّع منه. فالدُّود معروف.\nيقال دَادَ الشئُ يَدَادُ، وأَدادَ يُدِيدُ. والدّوَادِى: آثار أراجِيح الصبيان، واحدتُها دَوْدَاةٌ.",
- "az": "[دود] الدال, واو və דal – özündən budaqlanan bir əsas deyildir. «الدُّود» (qurdlar) məlumdur. \nDeyilir: «دَادَ الشئُ يَدَادُ» və «أَدادَ يُدِيدُ». «الدّوَادِى» – uşaqların yelləncəklərinin izləridir, təkliyi «دَوْدَاةٌ»-dur.",
+ "az": "[دود]\nالدال والواو والدال (dal, vav və dal) özündən budaqlanan bir əsas deyildir. فالدُّود معروف (əd-Dud /qurd/ məlumdur).\nيقال دَادَ الشئُ يَدَادُ، وأَدادَ يُدِيدُ (Bir şey qurdlandıqda دَادَ الشئُ يَدَادُ və أَدادَ يُدِيدُ deyilir). والدّوَادِى: آثار أراجِيح الصبيان، واحدتُها دَوْدَاةٌ (əd-Dəvadi: uşaqların yelləncəklərinin izləridir, təki دَوْدَاةٌ-dur).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:18:17.562Z"
+ "ts": "2026-10-25T01:18:17.562Z",
+ "prev_az": "[دود] الدال, واو və דal – özündən budaqlanan bir əsas deyildir. «الدُّود» (qurdlar) məlumdur. \nDeyilir: «دَادَ الشئُ يَدَادُ» və «أَدادَ يُدِيدُ». «الدّوَادِى» – uşaqların yelləncəklərinin izləridir, təkliyi «دَوْدَاةٌ»-dur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök hərflərində «dal» yerinə ivrit hərfi («דal») düşüb.",
+  "«دَادَ الشئُ يَدَادُ» və «أَدادَ يُدِيدُ» ifadələrinin tərcüməsi verilməyib."
+ ],
+ "review_ts": "2026-11-17T23:34:41.253Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 359
  },
  "ar": "الذال واللام والفاء كلمةٌ واحدة لا يُقاس عليها، وهى الذََّلَف: استواءٌ فى طرف الأنف ليس بِحَدٍّ غليظٍ، وهو أحسن الأُنوف.",
- "az": "[ذلف]\nالذال واللام والفاء كلمةٌ واحدة لا يُقاس عليها، وهى الذََّلَف: استواءٌ فى طرف الأنف ليس بِحَدٍّ غليظٍ، وهو أحسن الأُنوف (burun ucunun yastı olması, qalın bir uca sahib olmaması, ki bu burunların ən gözəlidir).",
+ "az": "[ذلف]\nالذال واللام والفاء كلمةٌ واحدة لا يُقاس عليها، وهى الذََّلَف: استواءٌ فى طرف الأنف ليس بِحَدٍّ غليظٍ، وهو أحسن الأُنوف (Zal, lam və fa tək bir kəlmədir, ona qiyas edilməz. O da əz-zələfdir [الذَّلَف]: burun ucunun qalın və iti olmadan düz və zərif olmasıdır ki, bu da burunların ən gözəlidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:56.902Z"
+ "ts": "2026-10-25T01:22:56.902Z",
+ "prev_az": "[ذلف]\nالذال واللام والفاء كلمةٌ واحدة لا يُقاس عليها، وهى الذََّلَف: استواءٌ فى طرف الأنف ليس بِحَدٍّ غليظٍ، وهو أحسن الأُنوف (burun ucunun yastı olması, qalın bir uca sahib olmaması, ki bu burunların ən gözəlidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الذال واللام والفاء كلمةٌ واحدة لا يُقاس عليها، وهى الذََّلَف» cümləsi tərcüməsiz qalıb.",
+  "«استواءٌ فى طرف الأنف» ifadəsi «burun ucunun yastı olması» kimi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-18T00:16:57.574Z"
 }

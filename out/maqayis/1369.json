@@ -11,7 +11,17 @@
   "page_to": 332
  },
  "ar": "الدال والحاء والقاف قياسٌ يقرُب من الذى قبْلَه. يقال دَحَقَ الشَّئُ: زَالَ ولم يثبُتْ. والدَّحيق: البعيد. ويقال فعلَ فلانٌ كذا فدحَقْتُ عنه يدَه، أى قبضتُها. ويقال أدْحَقَه اللّه، أى أبْعَدَه. وَدَحَقت الرّحِمُ: رمَتْ بالماء فلم تقبْله. والدِّحاق: أن تخرُجَ رحِمُ الأُنثَى بعد الولادة، فلا تنجُو حتى تموت. وهى دَحُوقٌ. قال:\nوأُمُّكُمْ خَيْرَةُ النِّساء عَلَى … ما خانَ منها الدِّحاقُ والأَتَمُ",
- "az": "[دحق] الدال والحاء والقاف قياسٌ يقرُب من الذى قبْلَه. (الدال, hə və qaf – özündən əvvəlkiyə yaxın olan bir qiyasdır). Deyilir: دَحَقَ الشَّئُ (Şey dəhəqə etdi): zeval oldu və sabit qalmadı. والدَّحِيق (əddəhiq): Uzaq. Və deyilir: فعلَ فلانٌ كذا فدحَقْتُ عنه يدَه (Filankəs belə etdi, mən də onun əlini dəhəqə etdim), yəni onu tutdum. Və deyilir: أدْحَقَه اللّه (Allah onu ədhəqə etdi), yəni uzaqlaşdırdı. وَدَحَقت الرّحِمُ (Rəhm dəhəqət): suyu atdı və onu qəbul etmədi. والدِّحاق (əddihəq): Dişi heyvanın rəhminin doğuşdan sonra bayıra çıxmasıdır ki, ölənə qədər xilas ola bilməz. O da دَحُوقٌ (dəhuq)-dur. O demişdir: وأُمُّكُمْ خَيْرَةُ النِّساء عَلَى … ما خانَ منها الدِّحاقُ والأَتَمُ",
+ "az": "[دحق]\nالدال والحاء والقاف قياسٌ يقرُب من الذى قبْلَه (dal, ha və qaf özündən əvvəlkinə yaxın bir qiyasdır). Deyilir: دَحَقَ الشَّئُ (şey zaval tapdı və sabit qalmadı). والدَّحيق (əd-dəhiq): uzaq deməkdir. Deyilir: فعلَ فلانٌ كذا فدحَقْتُ عنه يدَه (filankəs filan işi gördü, mən də onun əlini saxladım/çəkdim), yəni onu tutub geri çəkdim. Deyilir: أدْحَقَه اللّه (Allah onu uzaqlaşdırdı). وَدَحَقت الرّحِمُ (bətn suyu kənara atdı və onu qəbul etmədi). والدِّحاق (əd-dihaq): dişi heyvanın balalıq yolunun (uşaqlığının) doğuşdan sonra bayıra çıxmasıdır ki, ölməyincə qurtula bilməz. Belə dişi heyvana دَحُوقٌ (dəhuq) deyilir. Şair demişdir:\nوأُمُّكُمْ خَيْرَةُ النِّساء عَلَى … ما خانَ منها الدِّحاقُ والأَتَمُ\n(Sizin ananız qadınların ən xeyirlisidir, hərçənd bətnin bayıra çıxması [əd-dihaq] və cırılma [əl-atəm] onu eybləndirmişdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "prev_az": "[دحق] الدال والحاء والقاف قياسٌ يقرُب من الذى قبْلَه. (الدال, hə və qaf – özündən əvvəlkiyə yaxın olan bir qiyasdır). Deyilir: دَحَقَ الشَّئُ (Şey dəhəqə etdi): zeval oldu və sabit qalmadı. والدَّحِيق (əddəhiq): Uzaq. Və deyilir: فعلَ فلانٌ كذا فدحَقْتُ عنه يدَه (Filankəs belə etdi, mən də onun əlini dəhəqə etdim), yəni onu tutdum. Və deyilir: أدْحَقَه اللّه (Allah onu ədhəqə etdi), yəni uzaqlaşdırdı. وَدَحَقت الرّحِمُ (Rəhm dəhəqət): suyu atdı və onu qəbul etmədi. والدِّحاق (əddihəq): Dişi heyvanın rəhminin doğuşdan sonra bayıra çıxmasıdır ki, ölənə qədər xilas ola bilməz. O da دَحُوقٌ (dəhuq)-dur. O demişdir: وأُمُّكُمْ خَيْرَةُ النِّساء عَلَى … ما خانَ منها الدِّحاقُ والأَتَمُ",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcümə edilməmişdir.",
+  "«فدحَقْتُ عنه يدَه، أى قبضتُها» ifadəsi «əlini tutdum» kimi qeyri-dəqiq tərcümə olunmuşdur (doğrusu: «əlini saxladım / geri çəkdim»)."
+ ],
+ "review_ts": "2026-11-18T00:07:11.682Z"
 }

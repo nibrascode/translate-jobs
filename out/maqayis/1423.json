@@ -11,7 +11,17 @@
   "page_to": 366
  },
  "ar": "الذال والياء والفاء كلمةٌ واحدة لا قياس لها، وهى الذَّيِفان (١) وهو السمُّ القاتل.",
- "az": "[ذيف] \n\nذال، ياء və fa hərfləri qisası olmayan tək bir kəlmədir, o da الذَّيِفان (1) (əz-zeyifan) – yəni öldürücü zəhərdir.",
+ "az": "[ذيف]\nZal, ya və fa heç bir qiyası olmayan tək bir kəlmədir, o da الذَّيِفان (١) (əz-zəyəfan) sözüdür ki, öldürücü zəhər deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذيف] \n\nذال، ياء və fa hərfləri qisası olmayan tək bir kəlmədir, o da الذَّيِفان (1) (əz-zeyifan) – yəni öldürücü zəhərdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«qiyası» yerinə «qisası» yazılıb.",
+  "Haşiyə rəqəmi ərəb qrafikası ilə deyil."
+ ],
+ "review_ts": "2026-11-18T00:21:42.964Z"
 }

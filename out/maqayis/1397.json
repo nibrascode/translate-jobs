@@ -11,7 +11,18 @@
   "page_to": 355
  },
  "ar": "الذال والعين والراء أصلٌ واحدٌ يدلُّ على فَزَع، وهو الذُّعر. يقال ذُعِر الرّجُل فهو مذعور. والذَّعور من الإبل: التى إذا مُسَّت غارَّتْ (٢). وامرأةٌ ذَعورٌ: تُذْعَر من الرِّيبَة. قال:\nتَنُولُ بمعروف الحَديث وإنْ تُرِدْ … سِوى ذَاكَ تُذْعَرْ منك وهى ذَعورُ (٣)",
- "az": "[ذعر] الذال والعين والراء أصلٌ واحدٌ يدلُّ على فَزَع، وهو الذُّعر (Zal, ayn və ra qorxuya dəlalət edən tək bir əslidir, bu da əz-zu'rdur). يقال ذُعِر الرّجُل فهو مذعور (Deyilir: kişi zu'ira, demək o, məzurdur). والذَّعور من الإبل: التى إذا مُسَّت غارَّتْ (٢) (Dəvələrdən əz-za'ur: toxunulduqda hürküb qaçandır). وامرأةٌ ذَعورٌ: تُذْعَر من الرِّيبَة (Zə'ur qadın: şübhədən hürkəndir). قال: تَنُولُ بمعروف الحَديث وإنْ تُرِدْ … سِوى ذَاكَ تُذْعَرْ منك وهى ذَعورُ (٣) (Şəxs dedi: \"Sözün gözəli ilə sənə yaxınlaşar, əgər bundan başqasını istəsən, səndən hürküb qaçılar, çünki o za'urdur\").",
+ "az": "[ذعر]\nالذال والعين والراء أصلٌ واحدٌ يدلُّ على فَزَع، وهو الذُّعر (Zal, ayn və ra vahid bir əsldir, qorxuya dəlalət edir, o da əz-zu'rdur [qorxudur]). يقال ذُعِر الرّجُل فهو مذعور (Deyilir: ذُعِرَ الرَّجُلُ فَهُوَ مَذْعُورٌ [kişi qorxuduldu, o, qorxmuşdur]). والذَّعور من الإبل: التى إذا مُسَّت غارَّتْ (٢) (Dəvələrdən əz-zə'ur [الذَّعُور]: toxunulduqda hürkən/südünü çəkəndir). وامرأةٌ ذَعورٌ: تُذْعَر من الرِّيبَة (Zə'ur qadın [امرأةٌ ذَعُورٌ]: şübhəli şeydən hürkəndir/çəkinəndir). قال:\nتَنُولُ بمعروف الحَديث وإنْ تُرِدْ … سِوى ذَاكَ تُذْعَرْ منك وهى ذَعورُ (٣)\n(Şair demişdir: «O, xoş söhbət bəxş edər, yox əgər bundan başqasını istəsən, səndən hürkər, çünki o, hürkəkdir [ismətlidir]»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:31.498Z"
+ "ts": "2026-10-25T01:22:31.498Z",
+ "prev_az": "[ذعر] الذال والعين والراء أصلٌ واحدٌ يدلُّ على فَزَع، وهو الذُّعر (Zal, ayn və ra qorxuya dəlalət edən tək bir əslidir, bu da əz-zu'rdur). يقال ذُعِر الرّجُل فهو مذعور (Deyilir: kişi zu'ira, demək o, məzurdur). والذَّعور من الإبل: التى إذا مُسَّت غارَّتْ (٢) (Dəvələrdən əz-za'ur: toxunulduqda hürküb qaçandır). وامرأةٌ ذَعورٌ: تُذْعَر من الرِّيبَة (Zə'ur qadın: şübhədən hürkəndir). قال: تَنُولُ بمعروف الحَديث وإنْ تُرِدْ … سِوى ذَاكَ تُذْعَرْ منك وهى ذَعورُ (٣) (Şəxs dedi: \"Sözün gözəli ilə sənə yaxınlaşar, əgər bundan başqasını istəsən, səndən hürküb qaçılar, çünki o za'urdur\").",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ذُعِر الرّجُل فهو مذعور» cümləsində fellər ərəbcə saxlanılıb, dəqiq tərcümə edilməyib.",
+  "Şeirin tərcüməsində «تَنُولُ» (pay verər) «yaxınlaşar» kimi, «تُذْعَرْ» (hürkər) «hürküb qaçılar» kimi səhv tərcümə edilib, «قال» üçün «Şəxs dedi» yazılıb.",
+  "Abzas bölgüsü AR mətnindəki kimi qorunmayıb."
+ ],
+ "review_ts": "2026-11-18T00:16:57.571Z"
 }

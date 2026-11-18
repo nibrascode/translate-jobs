@@ -11,7 +11,19 @@
   "page_to": 356
  },
  "ar": "الذال والفاء والراء كلمةٌ تدلُّ على رائحةٍ. يقولون: الذفَر:\nحِدَّة الرائحة الطيبة. ويقولون مِسْكٌ أذْفَرُ. ويقولون: روضةٌ ذَفِرةٌ: لها رائحةٌ طيِّبة. والذَّفْراء: بقلة. فأمّا الذِّفْرَى فهو الموضع الذى يَعرقُ من قَفَا البعير.\nولا بدّ أن تكون لذلك المكانِ رائحةٌ. والذِّفرُّ: البعير القوىّ ذلك الموضعُ منه، ثمَّ استُعِير ذلك فقيل له فى الإنسان أيضاً ذِفْرى. قال:\nوالقُرط فى حُرَّة الذِّفْرى مُعَلَّقُهُ … تباعَدَ الحبْلُ عنه فهو مضطربُ (٢)",
- "az": "[ذفر] الذال والفاء والرّاء كلمةٌ تدلُّ على رائحةٍ (Zal, fa və ra qoxuya dəlalət edən sözdür). يقولون: الذفَر: حِدَّة الرائحة الطيبة (Deyirlər: əz-zəfər — gözəl qoxunun kəskinliyidir). ويقولون مِسْكٌ أذْفَرُ (Və deyirlər: ədfər müşkü). ويقولون: روضةٌ ذَفِرةٌ: لها رائحةٌ طيِّبة (Və deyirlər: zəfirətun bağçası — gözəl qoxusu olan). والذَّفْراء: بقلة (Və əz-zəfra: bitkidir). فأمّا الذِّفْرَى فهو الموضع الذى يَعرقُ من قَفَا البعير (Əz-zifriyə gəldikdə isə, bu, dəvənin ənsəsindən tərləyən yerdir). ولا بدّ أن تكون لذلك المكانِ رائحةٌ (Və həmin yerin mütləq qoxusu olmalıdır). والذِّفرُّ: البعير القوىّ ذلك الموضعُ منه، ثمَّ استُعِير ذلك فقيل له فى الإنسان أيضاً ذِفْرى (Və əz-zifir: həmin yeri güclü olan dəvədir, sonra bu söz istifadə olunaraq insana da zifri deyilmişdir). قال: والقُرط فى حُرَّة الذِّفْرى مُعَلَّقُهُ … تباعَدَ الحبْلُ عنه فهو مضطربُ (٢) (Şair dedi: \"Sırğa zifrin hürr yerindən asılmışdır... ip ondan uzaqlaşmışdır, o isə sərgusandır\").",
+ "az": "[ذفر]\nالذال والفاء والراء كلمةٌ تدلُّ على رائحةٍ. يقولون: الذفَر:\nحِدَّة الرائحة الطيبة (Zal, fa və ra qoxuya dəlalət edən bir kəlmədir. Deyirlər: əz-zəfər [الذَّفَر] — gözəl qoxunun kəskinliyidir). ويقولون مِسْكٌ أذْفَرُ (Və deyirlər: مِسْكٌ أَذْفَرُ [kəskin qoxulu müşk]). ويقولون: روضةٌ ذَفِرةٌ: لها رائحةٌ طيِّبة (Və deyirlər: رَوْضَةٌ ذَفِرَةٌ [ətirli bağça] — gözəl qoxusu olan). والذَّفْراء: بقلة (Və əz-zəfra [الذَّفْرَاء]: bir otdur). فأمّا الذِّفْرَى فهو الموضع الذى يَعرقُ من قَفَا البعير (Əz-zifra [الذِّفْرَى] sözünə gəldikdə isə, o, dəvənin ənsəsindən tərləyən yerdir).\nولا بدّ أن تكون لذلك المكانِ رائحةٌ (Həmin yerin mütləq bir qoxusu olur). والذِّفرُّ: البعير القوىّ ذلك الموضعُ منه، ثمَّ استُعِير ذلك فقيل له فى الإنسان أيضاً ذِفْرى (Əz-zifirr [الذِّفِرُّ] isə həmin nahiyəsi güclü olan dəvədir; sonra bu söz məcazlaşdırılmış və insanda da ona zifra [ذِفْرَى] deyilmişdir). قال:\nوالقُرط فى حُرَّة الذِّفْرى مُعَلَّقُهُ … تباعَدَ الحبْلُ عنه فهو مضطربُ (٢)\n(Şair demişdir: «Sırğası qulaq ardının zərif yerindən asılmışdır, boyunbağı ondan uzaq düşdüyü üçün o [sırğa sərbəstcə] yellənir»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:31.498Z"
+ "ts": "2026-10-25T01:22:31.498Z",
+ "prev_az": "[ذفر] الذال والفاء والرّاء كلمةٌ تدلُّ على رائحةٍ (Zal, fa və ra qoxuya dəlalət edən sözdür). يقولون: الذفَر: حِدَّة الرائحة الطيبة (Deyirlər: əz-zəfər — gözəl qoxunun kəskinliyidir). ويقولون مِسْكٌ أذْفَرُ (Və deyirlər: ədfər müşkü). ويقولون: روضةٌ ذَفِرةٌ: لها رائحةٌ طيِّبة (Və deyirlər: zəfirətun bağçası — gözəl qoxusu olan). والذَّفْراء: بقلة (Və əz-zəfra: bitkidir). فأمّا الذِّفْرَى فهو الموضع الذى يَعرقُ من قَفَا البعير (Əz-zifriyə gəldikdə isə, bu, dəvənin ənsəsindən tərləyən yerdir). ولا بدّ أن تكون لذلك المكانِ رائحةٌ (Və həmin yerin mütləq qoxusu olmalıdır). والذِّفرُّ: البعير القوىّ ذلك الموضعُ منه، ثمَّ استُعِير ذلك فقيل له فى الإنسان أيضاً ذِفْرى (Və əz-zifir: həmin yeri güclü olan dəvədir, sonra bu söz istifadə olunaraq insana da zifri deyilmişdir). قال: والقُرط فى حُرَّة الذِّفْرى مُعَلَّقُهُ … تباعَدَ الحبْلُ عنه فهو مضطربُ (٢) (Şair dedi: \"Sırğa zifrin hürr yerindən asılmışdır... ip ondan uzaqlaşmışdır, o isə sərgusandır\").",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«مِسْكٌ أذْفَرُ» üçün «ədfər» yazılıb (hərf səhvi).",
+  "«روضةٌ ذَفِرةٌ» üçün «zəfirətun bağçası» yazılıb (kəskin ətirli bağça deməkdir).",
+  "Şeirdə «حُرَّة الذِّفْرى» (qulaq ardının/boynun zərif hissəsi) tərcüməsiz qalıb, «الحبل» (boyunbağı) «ip» kimi, «مضطرب» (yellənir) «sərgusandır» kimi səhv tərcümə olunub.",
+  "Abzas bölgüsü qorunmayıb."
+ ],
+ "review_ts": "2026-11-18T00:16:57.572Z"
 }

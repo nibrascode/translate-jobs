@@ -11,7 +11,18 @@
   "page_to": 287
  },
  "ar": "الدال والفاء والنون أصلٌ واحد يدلُّ على استخفاءِ وغموض (٢). يقال دُفنَ الميّتُ، وهذه بئرٌ دَفْنٌ: ادَّفَنَتْ. فأما اِلأدِّفانُ فاستِخفاء العَبْد لا يريد الإباق الباتَّ. وقال قومٌ: الادّفان: إِبَاقُ العَبد وذَهابه\nعلى وَجهِه. والأوَّل أجْوَد؛ لما ذكرناه من الحديث. والداء الدَّفين: الغامض الذى لا يُهْتدَى لوَجهِه. والدَّفُون: الناقة تَبرُكُ مع الإبل فتكونُ وَسْطَهنّ.\nوالدَّفَنِىُّ: ضَربٌ من الثِّياب. وسمعتُ بعضَ أهلِ العلم يقولون: إنَّه صِبغُ يُدْفن فى صِبغٍ يكون أشبَعَ منه.",
- "az": "«دفن» (د-ف-ن): dal, fa və nun hərfləri gizlənməyə və qaranlıq/naməlum olmağa dəlalət edən tək bir əsasdır. Deyilir: «دُفنَ الميّتُ» (mərhum dəfn olundu). «بئرٌ دَفْنٌ: ادَّفَنَتْ» – bu, torpaq altında qalıb itib getmiş quyudur. «الإدِّفان» (əl-iddifan) gəlməsinə gəlincə, bu, kölənin birdəfəlik qaçmaq istəmədən gizlənməsidir. Bəzi qövmlər demişdir: İddifan – kölənin qaçıb başını götürüb getməsidir. Birinci (izah) yuxarıdakı hədisə görə daha gözəldir. «الداء الدَّفين» (gizli xəstəlik) – səbəbi bilinməyən, naməlum olan xəstəlikdir. «الدَّفُون» (əddəfun) – dəvələrin arasında çökərək onların ortasında qalan dişi dəvədir. «الدَّفَنِىُّ» (əddəfəniyy) – bir növ parçadır. Elm əhlindən bəzilərinin belə dediyini eşitdim: O, bir boyanın digər boyanın üzərinə hopdurularaq daha tünd/doyğun rəng alınması üçün basdırıldığı boyadır.",
+ "az": "[دفن]\\nDal, fa və nun hərfləri gizlənməyə və qaranlıq/naməlum olmağa dəlalət edən tək bir əsasdır (٢). Deyilir: دُفنَ الميّتُ (ölü dəfn olundu), وهذه بئرٌ دَفْنٌ: ادَّفَنَتْ (bu, torpaq altında qalıb itib getmiş quyudur). اِلأدِّفانُ (əl-iddifan) sözünə gəlincə, bu, kölənin birdəfəlik qaçmaq istəmədən gizlənməsidir. Bəzi qövmlər demişdir: الادّفان (əl-iddifan) – kölənin qaçıb başını götürüb getməsidir. Birinci (izah) yuxarıdakı hədisə görə daha yaxşıdır. الداء الدَّفين (gizli xəstəlik) – səbəbi bilinməyən, naməlum olan xəstəlikdir. الدَّفُون (əddəfun) – dəvələrin arasında çökərək onların ortasında qalan dişi dəvədir.\\nالدَّفَنِىُّ (əddəfəniyy) – bir növ paltar (parça) növüdür. Elm əhlindən bəzilərinin belə dediyini eşitdim: O, özündən daha tünd/doyğun olan bir boyanın içində basdırılan (hopdurulan) boyadır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:16:56.299Z"
+ "ts": "2026-10-25T01:16:56.299Z",
+ "prev_az": "«دفن» (د-ف-ن): dal, fa və nun hərfləri gizlənməyə və qaranlıq/naməlum olmağa dəlalət edən tək bir əsasdır. Deyilir: «دُفنَ الميّتُ» (mərhum dəfn olundu). «بئرٌ دَفْنٌ: ادَّفَنَتْ» – bu, torpaq altında qalıb itib getmiş quyudur. «الإدِّفان» (əl-iddifan) gəlməsinə gəlincə, bu, kölənin birdəfəlik qaçmaq istəmədən gizlənməsidir. Bəzi qövmlər demişdir: İddifan – kölənin qaçıb başını götürüb getməsidir. Birinci (izah) yuxarıdakı hədisə görə daha gözəldir. «الداء الدَّفين» (gizli xəstəlik) – səbəbi bilinməyən, naməlum olan xəstəlikdir. «الدَّفُون» (əddəfun) – dəvələrin arasında çökərək onların ortasında qalan dişi dəvədir. «الدَّفَنِىُّ» (əddəfəniyy) – bir növ parçadır. Elm əhlindən bəzilərinin belə dediyini eşitdim: O, bir boyanın digər boyanın üzərinə hopdurularaq daha tünd/doyğun rəng alınması üçün basdırıldığı boyadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«اِلأدِّفانُ» sözünün izahında «gəlməsinə gəlincə» kimi pozulmuş ifadə işlənmişdir.",
+  "«دُفنَ الميّتُ» ifadəsi «mərhum» əvəzinə «ölü dəfn olundu» kimi verilməlidir.",
+  "Mətndəki «(٢)» haşiyə rəqəmi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-17T23:30:29.284Z"
 }

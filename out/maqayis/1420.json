@@ -11,7 +11,17 @@
   "page_to": 365
  },
  "ar": "الذال والياء والخاء كلمةٌ واحدة لا قياس لها. قولهم للذّكر من الضباع ذيخٌ، والجمع ذِيَخَة. وربَّما قالوا: ذيّخْت الرّجلَ تذييخاً، إذا أذلَلْتَه.",
- "az": "[ذيخ] \n\nذال، ياء və xə hərfləri heç bir qisası (qaydası) olmayan tək bir kəlmədir. Onların kaftarın erkəyinə ذيخٌ (ziyx) demələridir, cəmi isə ذِيَخَة (ziyəxə) gəlir. Bəzən ذيّخْت الرّجلَ تذييخاً (kişini zəlil etdim, zəlil etmək) – yəni onu xar etdiyin zaman deyərlər.",
+ "az": "[ذيخ]\nZal, ya və xa heç bir qiyası olmayan tək bir kəlmədir. Kaftarın erkəyinə «ذيخٌ» (zix) deyirlər, cəmi isə «ذِيَخَة» (ziyəxə) gəlir. Bəzən bir kəsi alçaltdıqda «ذيّخْت الرّجلَ تذييخاً» (kişini alçaltdım, zəlil etdim) deyirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذيخ] \n\nذال، ياء və xə hərfləri heç bir qisası (qaydası) olmayan tək bir kəlmədir. Onların kaftarın erkəyinə ذيخٌ (ziyx) demələridir, cəmi isə ذِيَخَة (ziyəxə) gəlir. Bəzən ذيّخْت الرّجلَ تذييخاً (kişini zəlil etdim, zəlil etmək) – yəni onu xar etdiyin zaman deyərlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«qiyası» yerinə «qisası» yazılıb.",
+  "«xa» yerinə «xə» yazılıb."
+ ],
+ "review_ts": "2026-11-18T00:21:42.963Z"
 }

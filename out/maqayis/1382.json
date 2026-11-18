@@ -11,7 +11,18 @@
   "page_to": 344
  },
  "ar": "الذال والعين فى المطابق أَصلٌ واحد يدلُّ على تفريق الشئ.\nيقال ذعْذعت الرِّيحُ [الشئَ] إذا فرّقَتْه، فتذعْذع، أى تفرّق. قال النابغة:\n* تُذَعْذِعُها مُذَعْذِعَةٌ حَنُونُ (١) *\nويقال إِنّ الذُّعَاع الفُرْجة بين النَّخْلة والنَّخلةِ، فى شعر طَرَفَة، على اختلافٍ فيه؛ فقد قال بعضُهم إِنّه بالدّال، وقد مضى ذِكْرُه (٢).\nوحكى ابنُ دريدٍ (٣): ذَعْذَع السِّرَّ: أذاعَه. والذعاع: الفِرَقُ من الناس، الواحدةُ ذَعاعة.",
- "az": "[ذع] (Zə-a-lə). Mütabiq (bənzər) formalarda zəl və eyn hərfləri bir şeyin parçalanmasına dəlalət edən tək bir təməldir. Deyilir: ذعْذعت الرِّيحُ [الشئَ] (külək şeyi dağıtdı, parça-parça etdi), فَتَذَعْذَعَ (fətəzə’zəə), yəni parçalandı. Nabigə demişdir: * تُذَعْذِعُها مُذَعْذِعَةٌ حَنُونُ (٢) * (Mərhəmətli parçalayıcı külək onu parça-parça edir...) Və deyilir ki, الذُّعَاعُ (əz-zü’əu) xurma ağacı ilə digər xurma ağacı arasındakı boşluqdur, Tərəfənin şeirində, bu barədə ixtilaf olmaqla; çünki bəziləri bunun dal hərfi ilə olduğunu demişlər və zikrindən ötülmüşdür (٢). İbn Dürid rəvayət etmişdir (٣): ذَعْذَع السِّرَّ (sırrı yaydı): onu ifşa etdi. وَالذُّعَاعُ (əz-zü’əu): insan dəstələri, təkli ذَعَاعَةٌ (zə’aətün) olur.",
+ "az": "[ذع]\nZal və eyn mütəbaqədə (təkrarlandıqda) bir şeyin pərən-pərən edilməsinə, dağıdılmasına dəlalət edən tək bir əsasdır.\nDeyilir: ذعْذعت الرِّيحُ [الشئَ] (külək bir şeyi pərən-pərən etdi, dağıtdı), فتذعْذع، أى تفرّق (o da pərən-pərən oldu, yəni dağıldı). Ən-Nabiğə demişdir:\n* تُذَعْذِعُها مُذَعْذِعَةٌ حَنُونُ (١) *\n(Onu uğuldayan, sovurub dağıdan bir külək pərən-pərən edir).\nDeyilir ki, الذُّعَاع Tərəfənin şeirində iki xurma ağacı arasındakı boşluqdur; bu xüsusda ixtilaf vardır, çünki bəziləri onun dal hərfi ilə olduğunu demişlər və bunun zikri artıq keçmişdir (٢).\nİbn Dureyd rəvayət etmişdir (٣): ذَعْذَع السِّرَّ: أذاعَه (sirri yaydı, ifşa etdi). والذعاع: insan dəstələri, təki ذَعاعة gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:21:05.722Z"
+ "ts": "2026-10-25T01:21:05.722Z",
+ "prev_az": "[ذع] (Zə-a-lə). Mütabiq (bənzər) formalarda zəl və eyn hərfləri bir şeyin parçalanmasına dəlalət edən tək bir təməldir. Deyilir: ذعْذعت الرِّيحُ [الشئَ] (külək şeyi dağıtdı, parça-parça etdi), فَتَذَعْذَعَ (fətəzə’zəə), yəni parçalandı. Nabigə demişdir: * تُذَعْذِعُها مُذَعْذِعَةٌ حَنُونُ (٢) * (Mərhəmətli parçalayıcı külək onu parça-parça edir...) Və deyilir ki, الذُّعَاعُ (əz-zü’əu) xurma ağacı ilə digər xurma ağacı arasındakı boşluqdur, Tərəfənin şeirində, bu barədə ixtilaf olmaqla; çünki bəziləri bunun dal hərfi ilə olduğunu demişlər və zikrindən ötülmüşdür (٢). İbn Dürid rəvayət etmişdir (٣): ذَعْذَع السِّرَّ (sırrı yaydı): onu ifşa etdi. وَالذُّعَاعُ (əz-zü’əu): insan dəstələri, təkli ذَعَاعَةٌ (zə’aətün) olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıqda «(Zə-a-lə)» kimi əsassız əlavə var.",
+  "Beytdəki haşiyə nömrəsi AR-dakı (١) əvəzinə (٢) yazılıb.",
+  "«فتذعْذع، أى تفرّق» ərəbcə mətni ixtisar olunub."
+ ],
+ "review_ts": "2026-11-18T00:03:06.900Z"
 }

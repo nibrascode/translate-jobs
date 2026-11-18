@@ -11,7 +11,19 @@
   "page_to": 333
  },
  "ar": "الدال والحاء والواو أصلٌ واحد يدلُّ على بَسْطٍ وتمهيد.\nيقال دحا اللّه الأرضَ يدحُوها دَحْواً، إذا بَسَطَها. ويقال دحا المطرُ الحَصَى عن وجْه * الأرض. وهذا لأنّه إذا كان كذا فقد مهدّ الأرض. ويقال للفرَس إذا رمَى بيديه رمْياً، لا يرفع سُنْبُكَه عن الأرض كثيراً: مرّ يدحُو دَحْواً. ومن الباب أُدْحِىُّ النَّعام: الموضع الذى يُفَرِّخ فيه، أُفْعولٌ مِنْ دحوت؛ لأنّه يَدْحُوه برِجْله ثم يبيض فيه. وليس للنّعامة عُشٌّ.",
- "az": "[دحو] الدال والحاء والواو أصلٌ واحد يدلُّ على بَسْطٍ وتمهيد. (الدال, hə və vav – sərməyə və döşəməyə dəlalət edən tək bir əsasdır). Deyilir: دحا اللّه الأرضَ يدحُوها دَحْواً (Allah yeri dəhə etdi, dəhuha dəhən edir), onu sərdiyi zaman. Və deyilir: دحا المطرُ الحَصَى عن وجْه * الأرض (Yağış yerin * səthindən xırda daşları dəhə etdi). Bu ona görədir ki, o, belə olduğu zaman yeri döşəmişdir. At ayaqlarını irəliyə atıb dırnağını yerdən çox qaldırmadığı zaman at haqqında deyilir: مرّ يدحُو دَحْواً (dəhə edərək keçdi). Bu بابdandır: أُدْحِىُّ النَّعام (Dəvəquşunun udhiyyü): Onun yumurtladığı yer, دَحَوتُ (dəhawtü)-dən əf’ulun vəznindədir; çünki o, ayağı ilə onu açır, sonra orada yumurtlayır. Dəvəquşunun yuvası yoxdur.",
+ "az": "[دحو]\nالدال والحاء والواو أصلٌ واحد يدلُّ على بَسْطٍ وتمهيد (dal, ha və vav yaymağa və döşəməyə dəlalət edən tək bir əsasdır).\nDeyilir: دحا اللّه الأرضَ يدحُوها دَحْواً (Allah yeri yaydı, yayır, yaymaq), yəni onu sərdi-yaydığı zaman. Deyilir: دحا المطرُ الحَصَى عن وجْه * الأرض (yağış yerin üzündən xırda daşları sürüb apardı). Bu ona görədir ki, belə olduqda sanki yeri düzəldib döşəmiş olur. At ön ayaqlarını irəli ataraq dırnağını yerdən çox qaldırmadan qaçdıqda deyilir: مرّ يدحُو دَحْواً (torpağı qazıyıb-süpürərək keçdi). Bu babdandır: أُدْحِىُّ النَّعام (dəvəquşu yuvası): onun yumurtadan bala çıxardığı yerdir, دَحَوتُ sözündən «üf’ul» vəznindədir; çünki o, ayağı ilə həmin yeri açıb hamarlayır, sonra ora yumurtlayır. Dəvəquşunun adi yuvası olmur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "prev_az": "[دحو] الدال والحاء والواو أصلٌ واحد يدلُّ على بَسْطٍ وتمهيد. (الدال, hə və vav – sərməyə və döşəməyə dəlalət edən tək bir əsasdır). Deyilir: دحا اللّه الأرضَ يدحُوها دَحْواً (Allah yeri dəhə etdi, dəhuha dəhən edir), onu sərdiyi zaman. Və deyilir: دحا المطرُ الحَصَى عن وجْه * الأرض (Yağış yerin * səthindən xırda daşları dəhə etdi). Bu ona görədir ki, o, belə olduğu zaman yeri döşəmişdir. At ayaqlarını irəliyə atıb dırnağını yerdən çox qaldırmadığı zaman at haqqında deyilir: مرّ يدحُو دَحْواً (dəhə edərək keçdi). Bu بابdandır: أُدْحِىُّ النَّعام (Dəvəquşunun udhiyyü): Onun yumurtladığı yer, دَحَوتُ (dəhawtü)-dən əf’ulun vəznindədir; çünki o, ayağı ilə onu açır, sonra orada yumurtlayır. Dəvəquşunun yuvası yoxdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«دحا اللّه الأرضَ يدحُوها دَحْواً» ifadəsinin tərcüməsi əvəzinə qondarma transliterasiya verilmişdir («dəhuha dəhən edir»).",
+  "«دحا المطر الحصى» ifadəsi tərcüməsiz qalmışdır («dəhə etdi» yazılmışdır).",
+  "Ərəb qrafikalı sözə latın şəkilçisi qoşulmuşdur («بابdandır»).",
+  "«أُفْعولٌ» vəzni səhvən «əf’ulun» yazılmışdır."
+ ],
+ "review_ts": "2026-11-18T00:07:11.683Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 363
  },
  "ar": "الذال والواو والياء كلمةٌ واحدة تدلُّ على يُبْسٍ وجُفوف.\nتقول ذَوَى العُود يَذْوِى، إذا جَفّ، وهو ذاوٍ (٤)، وربَّما قالوا ذأَى يَذأَى، والأوّل الأجود.",
- "az": "[ذوى]\nالذال والواو والياء كلمةٌ واحدة تدلُّ على يُبْسٍ وجُفوف (quruluq və nəməzsizlik mənasını bildirən tək bir kəlmədir).\nتقول ذَوَى العُود يَذْوِى، إذا جَفّ، وهو ذاوٍ (٤)، وربَّما قالوا ذأَى يَذأَى، والأوّل الأجود (Deyirsən ki, «zəvəl-udu yəzvi» – oduncaq qurudu, o da zavindir; bəzən «zəə yəzəu» deyirlər, lakin birincisi daha gözəldir).",
+ "az": "[ذوى]\nZal, vav və ya quruluğa və quruyub solmağa dəlalət edən tək bir kəlmədir.\nDeyirsən: «ذَوَى العُود يَذْوِى» (çubuq/budaq quruyub soldu, quruyub solur), bu da budaq quruduqda deyilir; qurumuş budağa isə «ذاوٍ» (solmuş, qurumuş) (٤) deyilir. Bəzən «ذأَى يَذأَى» də deyirlər, lakin birincisi daha yaxşıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:56.902Z"
+ "ts": "2026-10-25T01:22:56.902Z",
+ "prev_az": "[ذوى]\nالذال والواو والياء كلمةٌ واحدة تدلُّ على يُبْسٍ وجُفوف (quruluq və nəməzsizlik mənasını bildirən tək bir kəlmədir).\nتقول ذَوَى العُود يَذْوِى، إذا جَفّ، وهو ذاوٍ (٤)، وربَّما قالوا ذأَى يَذأَى، والأوّل الأجود (Deyirsən ki, «zəvəl-udu yəzvi» – oduncaq qurudu, o da zavindir; bəzən «zəə yəzəu» deyirlər, lakin birincisi daha gözəldir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə cümlələr bütöv təkrarlanıb, tərcümə ardınca mötərizədə verilib.",
+  "«nəməzsizlik» qondarma sözü işlədilib, «العُود» sözü «oduncaq» kimi tərcümə edilib (budaq, çubuq olmalıdır)."
+ ],
+ "review_ts": "2026-11-18T00:21:42.962Z"
 }

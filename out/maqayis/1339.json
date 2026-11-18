@@ -11,7 +11,17 @@
   "page_to": 318
  },
  "ar": "الدال والياء واللام ليس ينقاس. يقولون: الدِّيلُ قبيلةٌ، والنسبة دِيلى. فأمّا الدُّئِل، على فُعِلٍ، فهى دُويْبَّة. ويضعُف الأمرُ فيها من جهة الوزْن، فأمّا الاشتقاق فليس ببعيد، وقد ذكرناه فى الدال والهمزة مع الذى يَجئ بعدهما.",
- "az": "[ديل] \nالدال (dal), الياء (yə) və اللام (lam) qaydaya uyğun deyil. Deyirlər: الدِّيلُ (əd-dil) — bir qəbilədir, nisbəti isə دِيلى (dili) olaraq verilir. فُعِلٍ (fuil) وزنində olan الدُّئِل (əd-duil) sözünə gəldikdə isə, o, kiçik bir heyvancığı bildirir. Bu sözdə çəki baxımından zəflik vardır, lakin etimologiyasına gəldikdə isə uzaq deyil. Biz bunu ondan sonra gələnlərlə birlikdə dal və həmzə bəhsində zikr etmişik.",
+ "az": "[ديل]\nالدال (dal), الياء (ya) və اللام (lam) qiyas qaydasına uyğun gəlmir. Deyirlər: الدِّيلُ bir qəbilədir, nisbəti isə دِيلِيٌّ kimi deyilir. فُعِلٍ vəznində olan الدُّئِل sözünə gəldikdə isə, o, kiçik bir canlıdır (heyvancıqdır). Vəzn baxımından bu məsələ zəifdir, lakin etimologiya cəhətindən uzaq deyildir. Biz bunu dal və həmzə bəhsində, onlardan sonra gələn hərflərlə birlikdə zikr etmişik.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:18:41.111Z"
+ "ts": "2026-10-25T01:18:41.111Z",
+ "prev_az": "[ديل] \nالدال (dal), الياء (yə) və اللام (lam) qaydaya uyğun deyil. Deyirlər: الدِّيلُ (əd-dil) — bir qəbilədir, nisbəti isə دِيلى (dili) olaraq verilir. فُعِلٍ (fuil) وزنində olan الدُّئِل (əd-duil) sözünə gəldikdə isə, o, kiçik bir heyvancığı bildirir. Bu sözdə çəki baxımından zəflik vardır, lakin etimologiyasına gəldikdə isə uzaq deyil. Biz bunu ondan sonra gələnlərlə birlikdə dal və həmzə bəhsində zikr etmişik.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وزنində» sözündə ərəb qrafikası ilə latın şəkilçisi qarışıq yazılmışdır.",
+  "«zəflik» orfoqrafik xətadır."
+ ],
+ "review_ts": "2026-11-17T23:40:00.344Z"
 }

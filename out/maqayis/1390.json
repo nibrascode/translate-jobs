@@ -11,7 +11,18 @@
   "page_to": 351
  },
  "ar": "الذال والراء والقاف ليس بشئ. أما الذى لِلطائر فأصله الزاء، وقد ذكر فى بابه. والذَّرَق: نبْت؛ يقال أذرقَتَ الأرضُ، إِذا أنبَتَتَهُ.",
- "az": "[ذرق] الذال والراء والقاف ليس بشئ (Zal, ra və qaf hərfləri üzrə olan sözün əsli yoxdur). أما الذى لِلطائر فأصله الزاء، وقد ذكر فى بابه (Quşun ifrazatına gəldikdə isə, onun əsli za hərfi ilədir və öz باب-ında (bölməsində) qeyd olunmuşdur). والذَّرَق: نبْت؛ يقال أذرقَتَ الأرضُ، إِذا أنبَتَتَهُ (Və əz-zaraq: bitki; aḏraqat al-ardu — yer onu bitirdikdə deyilir).",
+ "az": "[ذرق] الذال والراء والقاف ليس بشئ (Zal, ra və qaf hərfləri bir əsl təşkil etmir).\nأما الذى لِلطائر فأصله الزاء، وقد ذكر فى بابه (Quşun ifrazatına gəldikdə isə, onun əsli zey hərfi ilədir və öz fəslində qeyd olunmuşdur).\nوالذَّرَق: نبْت؛ يقال أذرقَتَ الأرضُ، إِذا أنبَتَتَهُ (الذَّرَق bir bitkidir; أذرقَتَ الأرضُ — yer o bitkini bitirdikdə deyilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:31.498Z"
+ "ts": "2026-10-25T01:22:31.498Z",
+ "prev_az": "[ذرق] الذال والراء والقاف ليس بشئ (Zal, ra və qaf hərfləri üzrə olan sözün əsli yoxdur). أما الذى لِلطائر فأصله الزاء، وقد ذكر فى بابه (Quşun ifrazatına gəldikdə isə, onun əsli za hərfi ilədir və öz باب-ında (bölməsində) qeyd olunmuşdur). والذَّرَق: نبْت؛ يقال أذرقَتَ الأرضُ، إِذا أنبَتَتَهُ (Və əz-zaraq: bitki; aḏraqat al-ardu — yer onu bitirdikdə deyilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الزاء» hərfi «za» yox, «zey» adlandırılmalıdır.",
+  "Tərcümə mətnində ərəb qrafikası ilə «باب-ında» qarışıq yazılmışdır.",
+  "Ərəbcə ifadə «aḏraqat al-ardu» şəklində transliterasiya edilmiş, ərəb mətni və tərcümə üslubu pozulmuşdur."
+ ],
+ "review_ts": "2026-11-18T00:18:28.943Z"
 }

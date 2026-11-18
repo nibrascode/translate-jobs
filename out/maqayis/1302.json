@@ -11,7 +11,16 @@
   "page_to": 303
  },
  "ar": "الدال والميم واللام أُصَيلٌ يدلُّ على تجمَّع شئ فى لِينٍ وسُهولة. من ذلك اندمَلَ الجُرْح؛ وذاكَ اجتماعُه فى بُرْءٍ وصَلاح. ودُمِلت الأرض بالدَّمَال، وهو السِّرجين. ودامَلْتُ الرَّجُل، إذا داجَيْته. وهو ذلك القياسُ؛ لأنّه\nمقارَبةٌ فى سهولةٍ. والدُّمّل عربىٌّ، وهو قياسُ ما ذكرناه من التجمُّع فى لِينٍ.\nألا ترى أنّ أبا النجم يقول:\n* وامْتَهَدَ الغارِبُ فِعْلِ الدُّمَّلِ (١) *\nواللّه أعلم.",
- "az": "[دمل] \nالدال والميم واللام (د-م-ل) أُصَيلٌ يدلُّ على تجمَّع شئ فى لِينٍ وسُهولة. من ذلك اندمَلَ الجُرْح (yara sağaldı); وذاكَ اجتماعُه فى بُرْءٍ وصَلاح. ودُمِلت الأرض بالدَّمَال (torpaq peyinlə gübrələndi)، وهو السِّرجين (peyin). ودامَلْتُ الرَّجُل (mən o kişi ilə dostluq etdim/yaxınlıq etdim)، إذا داجَيْته. وهو ذلك القياسُ (eyni məna kökündəndir)؛ لأنّه مقارَبةٌ فى سهولةٍ (çünki bu, asanlıqla yaxınlaşmaqdır). والدُّمّل (çiban) عربىٌّ (ərəb sözüdür)، وهو قياسُ ما ذكرناه من التجمُّع فى لِينٍ (və bu da yuxarıda qeyd etdiyimiz yumşaqlıq içində toplanmaq ölçüsünə uyğundur). \nألا ترى أنّ أبا النجم يقول (Görmürsən ki, Əbu ən-Nəjm deyir):\n* وامْتَهَدَ الغارِبُ فِعْلِ الدُّمَّلِ (١) *\nواللّه أعلم (Və Allah daha yaxşı bilir).",
+ "az": "[دمل]\nDal, mim və lam hərfləri bir şeyin yumşaqlıq və asanlıq içində toplanmasına dəlalət edən kiçik bir əsldir. «اندمَلَ الجُرْح» (yara sağaldı) sözü bundandır; bu, onun sağalma və düzəlmə içində birləşməsidir. «دُمِلت الأرض بالدَّمَال» (torpaq peyinlə gübrələndi), «الدَّمَال» isə peyindir. «دامَلْتُ الرَّجُل» (kişi ilə xoş rəftar edib yola getdim). Bu da həmin qiyasdandır; çünki bu,\nasanlıqla yaxınlaşmaqdır. «الدُّمّل» (çiban) ərəb sözüdür və o da qeyd etdiyimiz yumşaqlıq içində toplanmaq qiyasındandır.\nGörmürsənmi, Əbu ən-Nəcm deyir:\n* وامْتَهَدَ الغارِبُ فِعْلِ الدُّمَّلِ (١) *\n(Dəvənin hörgücünün ön hissəsi çiban kimi şişib hamarlaşdı).\nAllah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:59.952Z"
+ "ts": "2026-10-25T01:17:59.952Z",
+ "prev_az": "[دمل] \nالدال والميم واللام (د-م-ل) أُصَيلٌ يدلُّ على تجمَّع شئ فى لِينٍ وسُهولة. من ذلك اندمَلَ الجُرْح (yara sağaldı); وذاكَ اجتماعُه فى بُرْءٍ وصَلاح. ودُمِلت الأرض بالدَّمَال (torpaq peyinlə gübrələndi)، وهو السِّرجين (peyin). ودامَلْتُ الرَّجُل (mən o kişi ilə dostluq etdim/yaxınlıq etdim)، إذا داجَيْته. وهو ذلك القياسُ (eyni məna kökündəndir)؛ لأنّه مقارَبةٌ فى سهولةٍ (çünki bu, asanlıqla yaxınlaşmaqdır). والدُّمّل (çiban) عربىٌّ (ərəb sözüdür)، وهو قياسُ ما ذكرناه من التجمُّع فى لِينٍ (və bu da yuxarıda qeyd etdiyimiz yumşaqlıq içində toplanmaq ölçüsünə uyğundur). \nألا ترى أنّ أبا النجم يقول (Görmürsən ki, Əbu ən-Nəjm deyir):\n* وامْتَهَدَ الغارِبُ فِعْلِ الدُّمَّلِ (١) *\nواللّه أعلم (Və Allah daha yaxşı bilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb mətni bütövlükdə saxlanılıb, cümlələrin bir hissəsi və şeir beyti tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-17T23:31:26.908Z"
 }

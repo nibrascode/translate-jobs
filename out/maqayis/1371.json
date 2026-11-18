@@ -13,5 +13,10 @@
  "ar": "الدال والحاء والميم ليس بشئِ. على أنّهم يقولون: دَحَمَه، إذا دَفَعه دفعاً شديداً. وبه سُمِّى الرَّجُل دَحْمانَ ودُحَيْماً.",
  "az": "[دحم] الدال والحاء والميم ليس بشئِ. (الدال, hə və mim – heç bir şey deyil). Lakin onlar deyirlər: دَحَمَه (Onu dəhəmə etdi), onu şiddətlə itələdiyi zaman. Bununla da kişi دَحْمانَ (Dəhman) və دُحَيْماً (Duheym) adlandırılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T00:07:11.683Z"
 }

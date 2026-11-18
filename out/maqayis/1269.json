@@ -13,5 +13,10 @@
  "ar": "الدال والقاف والياء كلمةٌ واحدة. دَقِىَ الفَصيل دَقًى، إذا بَشِمَ عن اللَّبن. والذّكرُ دَقٍ والأنثى دَقِيَةٌ.",
  "az": "«دقى» (د-ق-ي): dal, qaf və ya hərfləri tək bir kəlmədir. Südü artıq içib qarınqululuqdan xəstələnən süddən kəsilmiş bala dəvəyə «دَقِىَ الفَصيل دَقًى» (dəqiyə əl-fəsil dəqan) deyilir. Erkəyinə «دَقٍ» (dəqin), dişi cinsinə isə «دَقِيَةٌ» (dəqiyətün) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:16:56.300Z"
+ "ts": "2026-10-25T01:16:56.300Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T23:30:29.287Z"
 }

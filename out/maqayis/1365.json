@@ -11,7 +11,18 @@
   "page_to": 331
  },
  "ar": "الدال والحاء والزاء ليس بشئ. وقال ابن دريد: الدَّحْز:\nالجِماع (٢). وقد يُولَع هذا الرجلُ بباب الجماع والدَّفْع، وباب القَمْش والجمع.",
- "az": "[دحز] الدال والحاء والزاء ليس بشئ. (الدال, hə və zay – heç bir şey deyil). İbn Dürid demişdir: الدَّحْز (əddəhz): Cima (٢). Bu kişi cima və itələmək, həmçinin yığmaq və toplamaq بابına həvəsli ola bilər.",
+ "az": "[دحز]\nالدال والحاء والزاء ليس بشئ (dal, ha və zey heç bir şey deyildir). İbn Dureyd demişdir: الدَّحْز: cima (cinsi əlaqə) (٢). Bu adam cima və itələmə babına, eləcə də (hər şeyi) qoltuqlayıb-yığma və toplama babına çox düşkündür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "prev_az": "[دحز] الدال والحاء والزاء ليس بشئ. (الدال, hə və zay – heç bir şey deyil). İbn Dürid demişdir: الدَّحْز (əddəhz): Cima (٢). Bu kişi cima və itələmək, həmçinin yığmaq və toplamaq بابına həvəsli ola bilər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb qrafikalı sözə latın şəkilçisi calanaraq mətn qarışıq yazılmışdır («بابına»).",
+  "İbn Dureydin adı «İbn Dürid» kimi səhv yazılmışdır.",
+  "Müəllifin İbn Dureydə yönəltdiyi tənqidi cümlə («وقد يُولَع هذا الرجلُ...») ehtimal kimi tərcümə edilərək mənası təhrif olunmuşdur."
+ ],
+ "review_ts": "2026-11-18T00:07:11.681Z"
 }

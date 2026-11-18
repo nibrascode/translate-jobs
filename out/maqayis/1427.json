@@ -11,7 +11,18 @@
   "page_to": 367
  },
  "ar": "الذال والهمزة والراء أصلٌ واحد يدلُّ على تحنُّب وتَقَالٍ (٢). يقولون ذَئِرْتُ الشّئَ، أى كرهتُه وانصرفتُ عنه. و\nفى الحديث:\n«أنّ رسول اللّه ﵌ [لمَّا (٣)] نَهَى عن ضَرْب النساء ذَئِر النِّساءُ على أَزْواجِهنّ». يعنى نَفَرْن ونَشَزْنَ واجترَأْنَ. وقال الشّاعر (٤):\nولقد أتانَا عن تميم أنَّهمُ … ذَئِرُوا لِقَتْلَى عامرٍ وتغَضَّبُوا\nويقال ناقةٌ مُذائِرٌ، وهى التى ترْأم بأنْفِها ولا يصدُق حُبَّها. ويقال بل هى التى تَنفِر عن الولد ساعَةَ تضعُه. وقوله: «ذئروا لقَتْلَى» يعنى نفروا وأنكروا (٥)، ويقال أنِفُوا.",
- "az": "[ذأر] \n\nذال، həmzə və ra hərfi uzaqlaşmağa və nifrətə dəlalət edən tək bir əsasdır. Deyirlər: ذَئِرْتُ الشّئَ (mən şeydən ikrah etdim), yəni ona nifrət etdim və ondan üz döndərdim. \nVə hədisdə gəlmişdir:\n«أنّ رسول اللّه ﵌ [لمَّا (3)] نَهَى عن ضَرْب النساء ذَئِر النِّساءُ على أَزْواجِهنّ» (Allahın Elçisi qadınları döyməyi qadağan edəndə qadınlar ərlərinə qarşı üsyan etdilər). Yəni uzaqlaşdılar, sərtləşdilər və cəsarətləndilər. Şair demişdir (4):\nولقد أتانَا عن تميم أنَّهمُ … ذَئِرُوا لِقَتْلَى عامرٍ وتغَضَّبُوا\n(Bizə Təmimdən gəlib çatdı ki, onlar Amir qətlinə görə nifrət etdilər və qəzəbləndilər)\nVə deyilir ناقةٌ مُذائِرٌ (müzair dəvə) – bu, öz balasını qoxlayıb sevən, lakin sevgisi səmimi olmayan dəvədir. Həmçinin o dəvəyə deyilir ki, balasını doğan kimi ondan qaçır. Onun «ذئِرُوا لِقَتْلَى» sözü «qaçdılar və etiraz etdilər» mənasındadır, həmçinin «təkəbbür göstərdilər» də deyilir.",
+ "az": "[ذأر]\n\nالذال، الهمزة və الراء uzaqlaşmağa və nifrət bəsləməyə dəlalət edən bir əsasdır (٢). Deyirlər: ذَئِرْتُ الشّئَ, yəni ona nifrət etdim və ondan üz döndərdim.\nHədisdə var:\n«أنّ رسول اللّه ﵌ [لمَّا (٣)] نَهَى عن ضَرْب النساء ذَئِر النِّساءُ على أَزْواجِهنّ» (Allahın Elçisi sallallahu aleyhi və səlləm qadınları vurmağı qadağan etdikdə, qadınlar ərlərinə qarşı dikbaşlıq etdilər). Yəni nifrət edib uzaqlaşdılar, itaətsizlik göstərdilər və cəsarətləndilər. Şair demişdir (٤):\nولقد أتانَا عن تميم أنَّهمُ … ذَئِرُوا لِقَتْلَى عامرٍ وتغَضَّبُوا\n(Həqiqətən, Təmim qəbiləsindən bizə xəbər çatdı ki, onlar Amirin qətllərinə görə qəzəblənib nifrət etdilər).\nDeyilir: ناقةٌ مُذائِرٌ (nifrətli dəvə) – bu, burnu ilə balasını iyləyən, lakin sevgisi səmimi olmayan dəvədir. Deyilir ki, xeyr, o, doğan andaca balasına nifrət edib qaçan dəvədir. Onun «ذئروا لقَتْلَى» sözü «nifrət edib pislədilər» mənasındadır (٥); həmçinin «təkəbbür etdilər» də deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذأر] \n\nذال، həmzə və ra hərfi uzaqlaşmağa və nifrətə dəlalət edən tək bir əsasdır. Deyirlər: ذَئِرْتُ الشّئَ (mən şeydən ikrah etdim), yəni ona nifrət etdim və ondan üz döndərdim. \nVə hədisdə gəlmişdir:\n«أنّ رسول اللّه ﵌ [لمَّا (3)] نَهَى عن ضَرْب النساء ذَئِر النِّساءُ على أَزْواجِهنّ» (Allahın Elçisi qadınları döyməyi qadağan edəndə qadınlar ərlərinə qarşı üsyan etdilər). Yəni uzaqlaşdılar, sərtləşdilər və cəsarətləndilər. Şair demişdir (4):\nولقد أتانَا عن تميم أنَّهمُ … ذَئِرُوا لِقَتْلَى عامرٍ وتغَضَّبُوا\n(Bizə Təmimdən gəlib çatdı ki, onlar Amir qətlinə görə nifrət etdilər və qəzəbləndilər)\nVə deyilir ناقةٌ مُذائِرٌ (müzair dəvə) – bu, öz balasını qoxlayıb sevən, lakin sevgisi səmimi olmayan dəvədir. Həmçinin o dəvəyə deyilir ki, balasını doğan kimi ondan qaçır. Onun «ذئِرُوا لِقَتْلَى» sözü «qaçdılar və etiraz etdilər» mənasındadır, həmçinin «təkəbbür göstərdilər» də deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Peyğəmbərə salavat (sallallahu aleyhi və səlləm) tərcümədə buraxılıb.",
+  "Haşiyə rəqəmləri ərəb rəqəmi ilə verilməyib və (٢) ilə (٥) buraxılıb.",
+  "«لِقَتْلَى عامرٍ» ifadəsi təhrif olunub («Amir qətlinə» deyil, «Amirin öldürülənlərinə/ölülərinə görə»)."
+ ],
+ "review_ts": "2026-11-18T00:24:32.592Z"
 }

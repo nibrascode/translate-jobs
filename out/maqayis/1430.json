@@ -11,7 +11,16 @@
   "page_to": 369
  },
  "ar": "الذال والهمزة واللام أصلٌ يقِلُّ كَلِمُهُ، ولكنّه منقاسٌ يدلُّ على سُرعةٍ. يقال ذَأَلَ يذْأَلُ، إذا مَشَى بسُرعةٍ ومَيْسٍ. فإنْ كان فى انخزالٍ قيل يَذؤُل. ومن ذلك سمِّى الذِّئْب ذُؤالة.",
- "az": "[ذأل] \n\nذال، həmzə və lam hərfi az işlənən, lakin sürətə dəlalət edən qaydalı bir əsasdır. Deyilir: ذَأَلَ يذْأَلُ (sürətlə və zərif yeridi). Əgər bu, əyilərək olarsa, يَذؤُل (yəzulu) deyilər. Məhz bundan qaynaqlanıb ki, qursa ذُؤالة (Zualə) adı verilmişdir.",
+ "az": "[ذأل]\n\nالذال، الهمزة və اللام kəlmələri az olan, lakin qiyasa uyğun gələn və sürətə dəlalət edən bir əsasdır. Deyilir: ذَأَلَ يذْأَلُ (sürətlə və yellənərək yeridikdə). Əgər yeriyişdə axsaqlıq və ya əyilmə varsa, يَذؤُل deyilər. Məhz buna görə qurda ذُؤالة adı verilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذأل] \n\nذال، həmzə və lam hərfi az işlənən, lakin sürətə dəlalət edən qaydalı bir əsasdır. Deyilir: ذَأَلَ يذْأَلُ (sürətlə və zərif yeridi). Əgər bu, əyilərək olarsa, يَذؤُل (yəzulu) deyilər. Məhz bundan qaynaqlanıb ki, qursa ذُؤالة (Zualə) adı verilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«qurda» yerinə səhvən «qursa» yazılıb."
+ ],
+ "review_ts": "2026-11-18T00:24:32.593Z"
 }

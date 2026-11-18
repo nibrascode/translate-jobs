@@ -11,7 +11,16 @@
   "page_to": 369
  },
  "ar": "الذال والهمزة والحرف المعتل يدلُّ على ضربٍ من السَّير.\nيقال ذأى يذْأَى ذأْياً. ويقال الذَّأْوُ. السَّوق الشَّديد. (٢)",
- "az": "[ذأى] \n\nذال، həmzə və zəif hərf bir növ yeriməyə və səyahətə dəlalət edir.\nDeyilir: ذأى يذْأَى ذأْياً (yeridi, yeriyir, yerimək). Həmçinin الذَّأْوُ (əz-zəv) – sərt şəkildə qovmaq deməkdir.",
+ "az": "[ذأى]\n\nالذال، الهمزة və xəstə hərf bir növ yeriyişə dəlalət edir.\nDeyilir: ذأى يذْأَى ذأْياً. Həmçinin deyilir: الذَّأْوُ – bərk sürmək, qovmaq deməkdir (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذأى] \n\nذال، həmzə və zəif hərf bir növ yeriməyə və səyahətə dəlalət edir.\nDeyilir: ذأى يذْأَى ذأْياً (yeridi, yeriyir, yerimək). Həmçinin الذَّأْوُ (əz-zəv) – sərt şəkildə qovmaq deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin sonundakı (٢) haşiyə nömrəsi buraxılıb."
+ ],
+ "review_ts": "2026-11-18T00:24:32.593Z"
 }

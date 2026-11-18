@@ -11,7 +11,17 @@
   "page_to": 329
  },
  "ar": "الدال والجيم والراء أصلٌ يدلُّ على لُبْسٍ. فالدَّيجور:\nالظَّلام؛ والجمع دَياجِر ودياجِير. والدَّجَرُ: شِبْهُ الحَيْرة، وهو ذلك القياس، قال رجلٌ دَحْرانُ ودَجَارَى، كما يقال حَيرانُ وحَيارَى.\nوهاهنا كلمةٌ إنْ صحّت فهى شاذّة عن الأصل الذى ذكرناه. يقولون إنَّ الدَّجْر: الخشبة التى يُشدّ عليها حديدةُ الفَدَّان. وما أُرَى هذا من كلام العرب.",
- "az": "[دجر] الدال والجيم والراء أصلٌ يدلُّ على لُبْسٍ. (الدال, cim və ra – geyinməyə dəlalət edən bir əsasdır). فالدَّيجور (əddəyur): Qaranlıq; cəmi دَياجِر (dəyacir) və دياجِير (dəyacir). والدَّجَرُ (əddəcər): Heyrətə bənzər bir şeydir, o da həmin qiyasdır, bir kişi دَحْرانُ (dəhran) və دَجَارَى (dəcarı) demişdir, necə ki, حَيرانُ (həyran) və حَيارَى (həyarı) deyilir. Burada bir kəlmə də vardır ki, əgər səhihdirsə, qeyd etdiyimiz əsasdan kənara çıxmışdır (şəzzdir). Deyirlər ki, الدَّجْر (əddəcr): Fəddanın (xışın) dəmirinin bağlandığı taxtadır. Mən bunun ərəblərin kəlamından olduğunu güman etmirəm.",
+ "az": "[دجر]\nDal, cim və ra qarışıqlıq və dolaşıqlığa (لُبْس) dəlalət edən bir əsasdır. فالدَّيجور zülmət qaranlıqdır; cəmi دَياجِر və دياجِير gəlir. والدَّجَرُ çaşqınlıq və heyrətə bənzər haldır və bu da həmin qiyasdandır. Necə ki «حَيرانُ» (çaşqın) və «حَيارَى» deyilir, eləcə də «رجلٌ دَجْرانُ» (və ya دَحْرانُ) və «دَجَارَى» deyilir.\nBurada bir kəlmə də vardır ki, əgər səhihdirsə, qeyd etdiyimiz əsasdan kənara çıxmışdır (şəzzdir). Deyirlər ki, الدَّجْر xışın dəmirinin bərkidildiyi ağacdır. Lakin mən bunun ərəb kəlamından olduğunu zənn etmirəm.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "prev_az": "[دجر] الدال والجيم والراء أصلٌ يدلُّ على لُبْسٍ. (الدال, cim və ra – geyinməyə dəlalət edən bir əsasdır). فالدَّيجور (əddəyur): Qaranlıq; cəmi دَياجِر (dəyacir) və دياجِير (dəyacir). والدَّجَرُ (əddəcər): Heyrətə bənzər bir şeydir, o da həmin qiyasdır, bir kişi دَحْرانُ (dəhran) və دَجَارَى (dəcarı) demişdir, necə ki, حَيرانُ (həyran) və حَيارَى (həyarı) deyilir. Burada bir kəlmə də vardır ki, əgər səhihdirsə, qeyd etdiyimiz əsasdan kənara çıxmışdır (şəzzdir). Deyirlər ki, الدَّجْر (əddəcr): Fəddanın (xışın) dəmirinin bağlandığı taxtadır. Mən bunun ərəblərin kəlamından olduğunu güman etmirəm.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«لُبْس» (qarışıqlıq, qaranlıq, dolaşıqlıq) sözü səhvən «geyinmək» (libas kökü) kimi tərcümə olunub.",
+  "«قال رجلٌ دَحْرانُ» mətni «bir kişi dəhran və dəcarı demişdir» kimi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-17T23:49:23.719Z"
 }

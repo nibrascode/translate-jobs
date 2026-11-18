@@ -11,7 +11,18 @@
   "page_to": 365
  },
  "ar": "الذال والواو والقاف أصلٌ واحد، وهو اختبار الشئ من جِهَةِ تَطَعُّمٍ، ثم يشتق منه مجازاً فيقال: ذُقْت المأكولَ أذُوقه ذَوْقاً. وذُقْت ما عند فلانٍ: اختبرتُه. وفى كتاب الخليل: كلُّ ما نزَلَ بإنسانٍ مِنْ مكروه فقد ذَاقَه (٣). ويقال ذاقَ القوسَ، إذا نظَرَ ما مقدارُ إعطائها وكيف قُوّتُها. قال:\nفذَاق فأعطَتْهُ من اللَّينِ جانبا … كَفَى، ولَهَا أن يُغْرِق السَّهْمُ حاجزُ (١)",
- "az": "[ذوق]\nالذال والواو والقاف أصلٌ واحد، وهو اختبار الشئ من جِهَةِ تَطَعُّمٍ، ثم يشتق منه مجازاً (dadına baxmaq yolu ilə bir şeyi imtahan etməyi bildirən tək bir əsl olub, sonra ondan məcazi olaraq törədilir):\nفيقال: ذُقْت المأكولَ أذُوقه ذَوْقاً (Yeməyin dadına baxdım – əzuhu zəubən). وذُقْت ما عند فلانٍ: اختبرتُه (Filankəsin yanında olanı daddım, yəni imtahan etdim). وفى كتاب الخليل: كلُّ ما نزَلَ بإنسانٍ مِنْ مكروه فقد ذَاقَه (٣) (Xəlilin kitabında yazılmışdır: Hər bir insanın başına gələn xoşagəlməz şey onu zövq etmişdir, yəni dadmışdır).\nويقال ذاقَ القوسَ، إذا نظَرَ ما مقدارُ إعطائها وكيف قُوّتُها. قال:\nفذَاق فأعطَتْهُ من اللَّينِ جانبا … كَفَى، ولَهَا أن يُغْرِق السَّهْمُ حاجزُ (١)\n(Və deyilir: yayını daddı, yəni onun gücünün və dartılmasının miqdarına baxdı. Şair demişdir: O daddı, yay ona yumşaqlıq tərəfini verdi, oxu batıran maneə isə kifayət etdi).",
+ "az": "[ذوق]\nZal, vav və qaf dadına baxmaq yolu ilə bir şeyi sınamağa dəlalət edən tək bir əsldir, sonra ondan məcazi mənalar törədilir. Belə ki, deyilir: «ذُقْت المأكولَ أذُوقه ذَوْقاً» (yeməyin dadına baxdım, baxıram, dadına baxmaq). «وذُقْت ما عند فلانٍ» (filankəsin yanında olanı daddım), yəni onu sınadım. Xəlilin kitabında deyilir: insanın başına gələn hər bir xoşagəlməz şeyi o, dadmış sayılar (٣).\nDeyilir: «ذاقَ القوسَ» (yayı daddı) – yayın nə dərəcədə əyildiyinə və gücünün necə olduğuna baxdıqda belə deyilir. Şair demişdir:\nفذَاق فأعطَتْهُ من اللَّينِ جانبا … كَفَى، ولَهَا أن يُغْرِق السَّهْمُ حاجزُ (١)\n(O, [yayı] yoxladı və yay ona kifayət edəcək dərəcədə yumşaqlıq göstərdi; oxun sonadək çəkilməsinə isə onda bir maneə var idi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:56.903Z"
+ "ts": "2026-10-25T01:22:56.903Z",
+ "prev_az": "[ذوق]\nالذال والواو والقاف أصلٌ واحد، وهو اختبار الشئ من جِهَةِ تَطَعُّمٍ، ثم يشتق منه مجازاً (dadına baxmaq yolu ilə bir şeyi imtahan etməyi bildirən tək bir əsl olub, sonra ondan məcazi olaraq törədilir):\nفيقال: ذُقْت المأكولَ أذُوقه ذَوْقاً (Yeməyin dadına baxdım – əzuhu zəubən). وذُقْت ما عند فلانٍ: اختبرتُه (Filankəsin yanında olanı daddım, yəni imtahan etdim). وفى كتاب الخليل: كلُّ ما نزَلَ بإنسانٍ مِنْ مكروه فقد ذَاقَه (٣) (Xəlilin kitabında yazılmışdır: Hər bir insanın başına gələn xoşagəlməz şey onu zövq etmişdir, yəni dadmışdır).\nويقال ذاقَ القوسَ، إذا نظَرَ ما مقدارُ إعطائها وكيف قُوّتُها. قال:\nفذَاق فأعطَتْهُ من اللَّينِ جانبا … كَفَى، ولَهَا أن يُغْرِق السَّهْمُ حاجزُ (١)\n(Və deyilir: yayını daddı, yəni onun gücünün və dartılmasının miqdarına baxdı. Şair demişdir: O daddı, yay ona yumşaqlıq tərəfini verdi, oxu batıran maneə isə kifayət etdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə cümlələr bütöv təkrarlanıb.",
+  "«أذوقه ذوقاً» ifadəsi «əzuhu zəubən» kimi təhrif olunub.",
+  "Xəlilin sözü və beytin tərcüməsi səhv və anlaşılmazdır."
+ ],
+ "review_ts": "2026-11-18T00:21:42.963Z"
 }

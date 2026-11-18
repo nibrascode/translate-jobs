@@ -13,5 +13,10 @@
  "ar": "الدال والخاء والشين ليس بشئِ. وزعم ابنُ دريد (٦).\nأنّ الدَّخش فِعْلٌ مُماتٌ، يقال دَخِشَ دَخَشاً، إذا امتلأ لحماً. ومنه اشتقاق دَخْسَم.",
  "az": "[دخش] (Də-xə-şə). Dal, xə və şin hərfləri heç bir şey (əhəmiyyətli kök) deyildir. İbn Dürid (٦) iddia etmişdir ki, دَخش (dəxş) işlənməyən bir feldir; deyilir ki, دَخِشَ دَخَشاً (dəxişə dəxəşən) — ətlə dolduğu zaman. دَخْسَم (dəxsəm) sözünün kökü buradan götürülmüşdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:21:05.722Z"
+ "ts": "2026-10-25T01:21:05.722Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T23:59:10.753Z"
 }

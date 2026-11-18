@@ -13,5 +13,10 @@
  "ar": "الدال والهاء والقاف يدلُّ على امتلاءِ فى مجئِ وذَهاب واضطراب. يقال أدْهَقْتُ الكأسَ: ملأتُها. قال اللّه تعالى: ﴿وَكَأْساً دِهاقاً﴾.\nوالدَّهْدَقَةُ: دَوَرَان البَضْعة الكبيرة فى القِدْر، تعلو مَرَّةً وتسفُل أخْرى.",
  "az": "[دهق] \nالدال والهاء والقاف (د-ه-ق) يدلُّ على امتلاءِ فى مجئِ وذَهاب واضطراب (gəlib-getməkdə və həyəcanda doluluğa dəlalət edir). يقال أدْهَقْتُ الكأسَ (Deyilir ki, mən qədəhi doldurdum): ملأتُها (onu doldurdum). قال اللّه تعالى (Uca Allah buyurmuşdur): ﴿وَكَأْساً دِهاقاً﴾ (mənaca tərcümə: və dolub-daşan qədəh).\nوالدَّهْدَقَةُ (Dəhdəqə): دَوَرَان البَضْعة الكبيرة فى القِدْر (böyük ət parçasının qazanda fırlanması)، تعلو مَرَّةً وتسفُل أخْرى (bir dəfə yuxarı qalxır, başqa dəfə aşağı enir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:59.954Z"
+ "ts": "2026-10-25T01:17:59.954Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T23:34:41.251Z"
 }

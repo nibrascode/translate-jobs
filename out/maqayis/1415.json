@@ -11,7 +11,18 @@
   "page_to": 363
  },
  "ar": "الذال والهاء والنون أصلٌ يدلُّ على قُوّة. يقال ما به ذِهنٌ، أى قوّة. قال أوس:\nأنُوء برجلٍ بها ذِهْنُها … وأعيَتْ بها أُختُها الغَايِرهْ (٢)\nوالذِّهن: الفِطنة (٣) للشَّئ والحِفْظ له. وكذلك الذَّهَنُ.\nواللّه أعلم بالصواب.",
- "az": "[ذهن]\nالذال والهاء والنون أصلٌ يدلُّ على قُوّة (güc mənasını bildirən bir əsl).\nيقال ما به ذِهنٌ، أى قوّة (Deyilir ki, onda zihn, yəni güc yoxdur). قال أوس:\nأنُوء برجلٍ بها ذِهْنُها … وأعيَتْ بها أُختُها الغَايِرهْ (٢)\n(Övüs demişdir: Özündə gücü olan bir ayaqla gəzirəm, halbuki onun qısqanc bacısı bununla yorulmuşdur).\nوالذِّهن: الفِطنة (٣) للشَّئ والحِفْظ له (Və əz-zihn – bir şeyi dərindən anlamaq və onu yadda saxlamaqdır). وكذلك الذَّهَنُ (Eləcə də əz-zəhən).\nواللّه أعلم بالصواب. (Ən doğrusunu Allah bilir).",
+ "az": "[ذهن]\nZal, hə və nun gücə dəlalət edən bir əsldir. Deyilir: «ما به ذِهنٌ» (onda ذهن [zihn] yoxdur), yəni güc yoxdur. Ovs demişdir:\nأنُوء برجلٍ بها ذِهْنُها … وأعيَتْ بها أُختُها الغَايِرهْ (٢)\n(Gücü yerində olan bir ayağımla güclə qalxıram, onun digər zəifləmiş [çökmüş] tayı isə onu taqətdən salmışdır).\nالذِّهن (zihn) – bir şeyi qavramaq (əl-fitnə) (٣) və onu yadda saxlamaqdır (əl-hifz). Eləcə də الذَّهَن (zəhən).\nDoğrusunu Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:56.902Z"
+ "ts": "2026-10-25T01:22:56.902Z",
+ "prev_az": "[ذهن]\nالذال والهاء والنون أصلٌ يدلُّ على قُوّة (güc mənasını bildirən bir əsl).\nيقال ما به ذِهنٌ، أى قوّة (Deyilir ki, onda zihn, yəni güc yoxdur). قال أوس:\nأنُوء برجلٍ بها ذِهْنُها … وأعيَتْ بها أُختُها الغَايِرهْ (٢)\n(Övüs demişdir: Özündə gücü olan bir ayaqla gəzirəm, halbuki onun qısqanc bacısı bununla yorulmuşdur).\nوالذِّهن: الفِطنة (٣) للشَّئ والحِفْظ له (Və əz-zihn – bir şeyi dərindən anlamaq və onu yadda saxlamaqdır). وكذلك الذَّهَنُ (Eləcə də əz-zəhən).\nواللّه أعلم بالصواب. (Ən doğrusunu Allah bilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin bütöv tərcüməsi yerinə hər ərəbcə cümlə olduğu kimi saxlanılıb və ardınca mötərizədə tərcümə yazılıb.",
+  "Beytdəki «الْغَايِرَة» sözü «qısqanc» kimi səhv tərcümə edilib (doğrusu: arıqlamış, çökmüş, zəifləmiş).",
+  "«أنُوء» feli «gəzirəm» kimi tərcümə edilib (doğrusu: güclə qalxıram)."
+ ],
+ "review_ts": "2026-11-18T00:21:42.962Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 302
  },
  "ar": "الدال والميم والقاف ليس أصلاً، وإن كانوا قد قالوا دَمَقَ فى البيت واندمَقَ، إذا دخَل، وإنَّما القاف فيما يُرَى مبدلةٌ مِنْ جيم، والأصل دَمَج، وقد مضى ذِكْرُه.",
- "az": "[دمق] (dəm-q): Dal, mim və qaf hərfləri əsl deyil, hərçənd onlar evdə «دَمَقَ فى البيت واندمَقَ» (dəməqə fi əl-beyti və indəməqə) — daxil oldu, dedilər. Lakin zahir olan odur ki, qaf hərfi cim hərfi əvəzinə dəyişdirilmişdir, əsli isə «دَمَج» (dəməc)-dir, onun zikri artıq keçmişdir.",
+ "az": "[دمق]\nDal, mim və qaf hərfləri əsl deyil, hərçənd onlar evə daxil olduqda «دَمَقَ فى البيت واندمَقَ» (daxil oldu) demişlər. Lakin göründüyü kimi, qaf hərfi cim-dən əvəz olunmuşdur, əsli isə «دَمَج»-dir, onun zikri artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:37.835Z"
+ "ts": "2026-10-25T01:17:37.835Z",
+ "prev_az": "[دمق] (dəm-q): Dal, mim və qaf hərfləri əsl deyil, hərçənd onlar evdə «دَمَقَ فى البيت واندمَقَ» (dəməqə fi əl-beyti və indəməqə) — daxil oldu, dedilər. Lakin zahir olan odur ki, qaf hərfi cim hərfi əvəzinə dəyişdirilmişdir, əsli isə «دَمَج» (dəməc)-dir, onun zikri artıq keçmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«دَمَقَ فى البيت» cümləsinin mənası səhv («onlar evdə ... dedilər») tərcümə edilib.",
+  "«مبدلةٌ مِنْ جيم» ifadəsi qeyri-dəqiq verilib."
+ ],
+ "review_ts": "2026-11-17T23:31:26.907Z"
 }

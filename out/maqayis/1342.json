@@ -13,5 +13,10 @@
  "ar": "الدال والهمزة والباء أصلٌ واحد يدلُّ على ملازمةٍ ودوام.\nفالدأبُ: العادةُ والشّأن. قال الفرّاء: الدأْب، أصله من دَأبْتُ، إلاّ أنّ العربَ حوّلت معناه إلى الشّأن. ودأَبَ الرّجُل فى عمله، إذا جَدَّ. وأدْأبتْهُ أنا إدآباً.\nوالدائِبان: اللّيلُ والنَّهار.",
  "az": "[دأب] الدال (dal), الهمزة (həmzə) və الباء (ba) hərfləri bir kökə işarə edir ki, bu da bir şeyə bağlılıq və davamlılıq deməkdir. الدأب (əd-də'b): adət və iş. Əl-Fərrə dedi: الدأْب (əd-də'b) sözünün əsli دَأبْتُ (də'əbtu) felindəndir, lakin ərəblər onun mənasını işə (şə'n) çevirmişlər. دأَبَ الرّجُل فى عمله (də'əbə-r-raculu fi əməlihi) - bir kimsə işində ciddiyyət göstərdikdə deyilir. أدْأبتْهُ أنا إدآباً (əd'əbtuhu ənə id'əbən) - mən onu (işə) məcbur etdim. الدائِبان (əd-daibani): gecə və gündüz.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:20:14.271Z"
+ "ts": "2026-10-25T01:20:14.271Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-17T23:40:00.345Z"
 }

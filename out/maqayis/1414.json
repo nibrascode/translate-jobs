@@ -11,7 +11,17 @@
   "page_to": 363
  },
  "ar": "الذال والهاء واللام أصلٌ واحد يدلُّ على شغْلٍ عن شئِ بذُعْرٍ أو غيره. ذَهِلْتُ عن الشّى أَذْهَل، إذا نسيتَه أو شُغِلْت. وأذْهَلَنِى عنه كذا. هذا هو الأصل. وحُكى عن اللحيانى: [جاء بَعْدَ (١)] ذُهْلٍ من الليل وذَهْل، كما تقول: مرَّ هُدْءُ من اللّيل. ويجوز أن يكون ذلك لإظلامه وأنّه يُذْهَل فيه عن الأشياء.\nومما شذّ عن الباب قولهم للفرَس الجواد ذُهْلُولٌ.",
- "az": "[ذهل]\nالذال والهاء واللام أصلٌ واحد يدلُّ على شغْلٍ عن شئِ بذُعْرٍ أو غيره (qorxu və ya başqa səbəbdən bir şeydən məşğul olub başqa yerə yayılma mənasını bildirən tək bir əsl).\nذَهِلْتُ عن الشّى أَذْهَل، إذا نسيتَه أو شُغِلْت (Bir şeyi unutduqda və ya başqa işlə məşğul olduqda «zəhiltü aniş-şey'i əzhəlü» deyilir). وأذْهَلَنِى عنه كذا (Filan şey məni bundan yayındırdı). هذا هو الأصل. وحُكى عن اللحيانى: [جاء بَعْدَ (١)] ذُهْلٍ من الليل وذَهْل، كما تقول: مرَّ هُدْءُ من اللّيل. ويجوز أن يكون ذلك لإظلامه وأنّه يُذْهَل فيه عن الأشياء.\nومما شذّ عن الباب قولهم للفرَس الجواد ذُهْلُولٌ (Bu əslidir. Lihyanidən rəvayət olunmuşdur: gecədən zühl və zəhl gəldi, necə ki deyirsən: gecədən hüdun keçdi. O da olar ki, qaranlıq olduğuna görə gecədə şeylər unudulur. Babdan şaz olan isə sürətli ata «zəhlul» demələridir).",
+ "az": "[ذهل]\nZal, hə və lam qorxu və ya başqa bir səbəbdən bir şeydən yayınmağı (başqa işə məşğul olmağı) bildirən bir əsldir. Bir şeyi unutduqda və ya ondan yayındıqda ذَهِلْتُ عن الشّى أَذْهَل deyilir. أذْهَلَنِى عنه كذا isə «filan şey məni ondan yayındırdı» deməkdir. Əsl budur. əl-Lihyanidən nəql edilmişdir: [جاء بَعْدَ (١)] ذُهْلٍ من الليل وذَهْل (Gecənin bir qismi keçdikdən sonra gəldi), necə ki مرَّ هُدْءُ من اللّيل (Gecənin bir hissəsi ötdü) deyirsən. Ola bilsin ki, bu, gecənin qaranlığına və orada şeylərdən qafil olunub unudulduğuna görədir.\nBu babdan kənara çıxan (şaz) sözlərdən biri də onların cins, sürətli ata ذُهْلُولٌ demələridir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:56.902Z"
+ "ts": "2026-10-25T01:22:56.902Z",
+ "prev_az": "[ذهل]\nالذال والهاء واللام أصلٌ واحد يدلُّ على شغْلٍ عن شئِ بذُعْرٍ أو غيره (qorxu və ya başqa səbəbdən bir şeydən məşğul olub başqa yerə yayılma mənasını bildirən tək bir əsl).\nذَهِلْتُ عن الشّى أَذْهَل، إذا نسيتَه أو شُغِلْت (Bir şeyi unutduqda və ya başqa işlə məşğul olduqda «zəhiltü aniş-şey'i əzhəlü» deyilir). وأذْهَلَنِى عنه كذا (Filan şey məni bundan yayındırdı). هذا هو الأصل. وحُكى عن اللحيانى: [جاء بَعْدَ (١)] ذُهْلٍ من الليل وذَهْل، كما تقول: مرَّ هُدْءُ من اللّيل. ويجوز أن يكون ذلك لإظلامه وأنّه يُذْهَل فيه عن الأشياء.\nومما شذّ عن الباب قولهم للفرَس الجواد ذُهْلُولٌ (Bu əslidir. Lihyanidən rəvayət olunmuşdur: gecədən zühl və zəhl gəldi, necə ki deyirsən: gecədən hüdun keçdi. O da olar ki, qaranlıq olduğuna görə gecədə şeylər unudulur. Babdan şaz olan isə sürətli ata «zəhlul» demələridir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kökün hərfləri adlandırılmayıb, ərəbcə mətn tərcüməsiz saxlanılmışdır.",
+  "əl-Lihyanidən nəql olunan ifadə («gecədən zühl və zəhl gəldi») səhv və anlaşılmaz tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-18T00:21:12.604Z"
 }

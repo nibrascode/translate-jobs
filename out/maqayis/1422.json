@@ -11,7 +11,19 @@
   "page_to": 365
  },
  "ar": "الذال والياء والعين أصلٌ يدلُّ على إظهار الشَّئ وظُهوره وانتشارِه. يقال ذاعَ الخبرُ وغيرُه يَذِيع ذُيوعاً. ورجلٌ مِذياعٌ: لا يكتُم سِرًّا؛ والجمع المذابيع. و\nفى حديث علىٍّ ﵇: «ليسوا بالمَسَابِيح ولا المَذايِيع البُذْر». وهاهنا كلمةٌ من هذا فى المعنى من طريقة الانتشار، يقولون: أذاع النّاس [ما (٢)] فى الحَوض، إذا شربوه كُلَّه.",
- "az": "[ذيع] \n\nذال، ياء və eyn hərfi bir şeyin aşkar edilməsinə, üzə çıxmasına və yayılmasına dəlalət edən bir əsasdır. Deyilir ki, ذاعَ الخبرُ وغيرُه يَذِيع ذُيوعاً (xəbər və başqası yayıldı, yayılır, yayılmaq). Və مِذياعٌ (miziyac) – sirr gizlətməyən kişidir, cəmi isə المذابيع (əlməzabic) gəlir. Həzrət Əlinin (ə.s.) hədisində gəlmişdir: «ليسوا بالمَسَابِيح ولا المَذايِيع البُذْر» (Onlar nə məsabih, nə mədayic, nə də israfçılardandır). Burada yayılma mənasından bu məna ilə əlaqəli bir kəlmə də var; deyirlər ki, أذاع النّاس [ما (٢)] فى الحَوض (insanlar hovuzdakı suyu içdilər) – onu bütövlüklə içdikləri zaman.",
+ "az": "[ذيع]\nZal, ya və ayn bir şeyin aşkar edilməsinə, üzə çıxmasına və yayılmasına dəlalət edən bir əsldir. Deyilir: «ذاعَ الخبرُ وغيرُه يَذِيع ذُيوعاً» (xəbər və sair şey yayıldı, yayılır, yayılmaq). «رجلٌ مِذياعٌ» (sirr saxlamayan, sirr yayan kişi), cəmi isə «المذابيع» (əl-məzabi) gəlir.\nƏlinin (Allah ondan razı olsun) hədisində deyilir: «ليسوا بالمَسَابِيح ولا المَذايِيع البُذْر» (Onlar nə fitnə yayanlar, nə sirləri faş edənlər, nə də dedi-qoduları saçanlardırlar).\nBurada yayılma yolu baxımından bu mənaya aid digər bir kəlmə də vardır; insanlar hovuzdakı suyun hamısını içib qurtardıqda «أذاع النّاس [ما (٢)] فى الحَوض» (insanlar hovuzdakı suyu tükətdilər) deyirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذيع] \n\nذال، ياء və eyn hərfi bir şeyin aşkar edilməsinə, üzə çıxmasına və yayılmasına dəlalət edən bir əsasdır. Deyilir ki, ذاعَ الخبرُ وغيرُه يَذِيع ذُيوعاً (xəbər və başqası yayıldı, yayılır, yayılmaq). Və مِذياعٌ (miziyac) – sirr gizlətməyən kişidir, cəmi isə المذابيع (əlməzabic) gəlir. Həzrət Əlinin (ə.s.) hədisində gəlmişdir: «ليسوا بالمَسَابِيح ولا المَذايِيع البُذْر» (Onlar nə məsabih, nə mədayic, nə də israfçılardandır). Burada yayılma mənasından bu məna ilə əlaqəli bir kəlmə də var; deyirlər ki, أذاع النّاس [ما (٢)] فى الحَوض (insanlar hovuzdakı suyu içdilər) – onu bütövlüklə içdikləri zaman.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ayn» hərfi «eyn» yazılıb.",
+  "Hədisdəki «المَسَابِيح», «المَذايِيع», «البُذْر» sözləri tərcüməsiz saxlanılıb.",
+  "«المذابيع» sözü «əlməzabic» kimi təhrif olunub.",
+  "«﵇» üçün «(ə.s.)» yazılıb (Əli radıyallahu anhu olmalıdır)."
+ ],
+ "review_ts": "2026-11-18T00:21:42.964Z"
 }

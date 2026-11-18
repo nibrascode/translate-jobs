@@ -11,7 +11,18 @@
   "page_to": 369
  },
  "ar": "الذال والباء والحاء أصلٌ واحد، وهو يدلُّ على الشّقّ.\nفالذَّبح: مصدِ ذبَحْت الشّاةَ ذبحاً. والذِّبح: المذبوح. والذُّبَّاح: شُقوقٌ فى أصول الأصابع. ويقال ذُبِحَ الدَّنُّ، إذا بُزِلَ. والمذابح: سيولٌ صغار تشقُّ الأرض شقًّا. وسعدٌ الذّابحُ: أَحد السُّعود (٣). والذِّبَح: نبتٌ، ولعله أن يكون شاذًّا من الأصل.",
- "az": "[ذبح] \n\nذال، با və hə hərfi yarığa dəlalət edən tək bir əsasdır.\nالذَّبح (əz-zəbh) – qoyunu kəsməyin məsdəridir. الذِّبح (əz-zibih) – kəsilmiş heyvandır. الذُّبَّاح (əz-zübbah) – barmaqların uclarındakı yarıqlardır. Və deyilir ذُبِحَ الدَّنُّ (küp deşildi/açıldı). والمذابح (əlməzabih) – yeri yaran kiçik sel yataqlarıdır. سعدٌ الذّابحُ (Səd əz-Zabih) – sədlərdən (uğur ulduzlarından) biridir (3). Və الذِّبَح (əz-zibəh) – bir bitkidir, ola bilər ki, bu, əsasdan kənara çıxan (şaz) olsun.",
+ "az": "[ذبح]\n\nالذال، الباء və الحاء yarmağa dəlalət edən tək bir əsasdır.\nالذَّبح: ذبَحْت الشّاةَ ذبحاً (qoyunu kəsdim) ifadəsinin məsdəridir. الذِّبح: kəsilmiş heyvandır. الذُّبَّاح: barmaqların köklərindəki yarıqlardır. Deyilir: ذُبِحَ الدَّنُّ (şərab küpü deşilib açılanda). والمذابح: yeri dərin yaran kiçik sellərdir. سعدٌ الذّابحُ: bürclərdəki ulduz birləşmələrindən (sədlərdən) biridir (٣). الذِّبَح isə bir bitkidir; ola bilsin ki, bu, əsas mənadan kənara çıxsın (şazz olsun).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذبح] \n\nذال، با və hə hərfi yarığa dəlalət edən tək bir əsasdır.\nالذَّبح (əz-zəbh) – qoyunu kəsməyin məsdəridir. الذِّبح (əz-zibih) – kəsilmiş heyvandır. الذُّبَّاح (əz-zübbah) – barmaqların uclarındakı yarıqlardır. Və deyilir ذُبِحَ الدَّنُّ (küp deşildi/açıldı). والمذابح (əlməzabih) – yeri yaran kiçik sel yataqlarıdır. سعدٌ الذّابحُ (Səd əz-Zabih) – sədlərdən (uğur ulduzlarından) biridir (3). Və الذِّبَح (əz-zibəh) – bir bitkidir, ola bilər ki, bu, əsasdan kənara çıxan (şaz) olsun.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أصول الأصابع» ifadəsi «barmaqların ucları» deyil, «barmaqların kökləri/əsasları» deməkdir.",
+  "«مصدِ ذبَحْت الشّاةَ ذبحاً» ibarəsi tam verilməyib.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə verilməyib."
+ ],
+ "review_ts": "2026-11-18T00:24:32.594Z"
 }

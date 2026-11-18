@@ -13,5 +13,10 @@
  "ar": "الدال والحاء والضاد أصلٌ يدلُّ على زوالٍ وزَلَق. يقال دَحْضَتْ رجلُه: زَلِقَتْ. ومنه دحَضَت الشّمس: زالت. ودَحَضَتْ حُجّةُ فلانٍ، إذا لم تَثْبُت. قال اللّه جلّ ثناؤه: ﴿حُجَّتُهُمْ داحِضَةٌ عِنْدَ رَبِّهِمْ﴾.",
  "az": "[دحض] الدال والحاء والضاد أصلٌ يدلُّ على زوالٍ وزَلَق. (الدال, hə və dad – zevalə və sürüşməyə dəlalət edən bir əsasdır). Deyilir: دَحْضَتْ رجلُه (Onun ayağı dəhəzət): sürüşdü. Və o cümlədən: دحَضَت الشّمس (Günəş dəhəzət): zəval oldu. Və دَحْضَتْ حُجّةُ فلانٍ (Filankəsin dəlili dəhəzət), sübuta yetmədiyi zaman. Uca və izzətli Allah buyurmuşdur: ﴿حُجَّتُهُمْ داحِضَةٌ عِنْدَ رَبِّهِمْ﴾ [mənaca tərcümə: Dəlilləri Rəbbi yanında batildir (dəhizdir)].",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T00:07:11.682Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 313
  },
  "ar": "الدال والواو والسين أُصَيْلٌ، وهو دَوْس الشَّئ. تقول دُسْتُه؛ والذى يُداسُ به مِدْوَسٌ. وحُمِل عليه قولُهم لما يَسُنُّ به الصَّيْقَلُ السّيفَ مِدوَسٌ، كأنَّه عند اتِّكائه عليه كالذى يَدُوس الشَّئ. قال:\nوأبيضَ كالغَدير ثَوَى عليه … فُلانٌ بالمَدَاوِسِ نِصْفَ شَهْرٍ (٦)",
- "az": "[دوس] Dal, vav və sin kiçik bir əsasdır, o da şeyin basılmasıdır («دَوْس»). Deyirsən: «دُسْتُه» (onu basdım); üzərində basılan şey isə «مِدْوَس»-dür. Misgərin qılıncı itilədiyi alətə «مِدوَس» demələri də buna şamil edilmişdir, sanki o, üzərinə söykəndiyi zaman şeyə basan kəs kimidir. Şair demişdir:\nوأبيضَ كالغَدير ثَوَى عليه … فُلانٌ بالمَدَاوِسِ نِصْفَ شَهْرٍ (٦)",
+ "az": "[دوس]\nالدال, الواو və السين kiçik bir əsasdır, o da bir şeyi basıb tapdalamaqdır (دَوْس). Deyirsən: دُسْتُه (onu tapdaladım); tapdalanan vasitə isə مِدْوَس adlanır. Qılınc cilalayan ustanın qılıncı itilədiyi alətə مِدوَس demələri də buna aid edilmişdir; sanki usta onun üzərinə söykənərkən bir şeyi tapdalayan kəs kimidir. Şair demişdir:\nوأبيضَ كالغَدير ثَوَى عليه … فُلانٌ بالمَدَاوِسِ نِصْفَ شَهْرٍ (٦)\n(Gölməçə kimi parıldayan ağ bir qılınc ki, filankəs onun üzərində pardaq alətləri ilə yarım ay əlləşmişdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:18:17.562Z"
+ "ts": "2026-10-25T01:18:17.562Z",
+ "prev_az": "[دوس] Dal, vav və sin kiçik bir əsasdır, o da şeyin basılmasıdır («دَوْس»). Deyirsən: «دُسْتُه» (onu basdım); üzərində basılan şey isə «مِدْوَس»-dür. Misgərin qılıncı itilədiyi alətə «مِدوَس» demələri də buna şamil edilmişdir, sanki o, üzərinə söykəndiyi zaman şeyə basan kəs kimidir. Şair demişdir:\nوأبيضَ كالغَدير ثَوَى عليه … فُلانٌ بالمَدَاوِسِ نِصْفَ شَهْرٍ (٦)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الصيقل» sözü «misgər» deyil, «qılınc cilalayan / pardaqçı usta» deməkdir.",
+  "«والذى يُداسُ به مِدْوَسٌ» cümləsi «üzərində basılan şey» deyil, «nə ilə ki tapdalanır, o مِدْوَس-dur» şəklində tərcümə olunmalıdır.",
+  "Şeir beytinin tərcüməsi verilməyib."
+ ],
+ "review_ts": "2026-11-17T23:35:21.293Z"
 }

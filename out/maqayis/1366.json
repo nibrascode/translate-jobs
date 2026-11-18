@@ -11,7 +11,17 @@
   "page_to": 331
  },
  "ar": "الدال والحاء والسين أصلٌ مطَّرِد مُنْقاس، وهو تخلُّل الشَّئِ بالشَّئِ فى خَفاءٍ ورِفق. فالدَّحْس: طلَب الشَّئِ فى خفاء. ومن ذلك دَحَسْتُ بينَ القوم، إِذا أفسدْتَ؛ ولا يكون هذا إلاّ برفْق ووَسواس لطيفٍ خفّى. ويقال الدّحْسُ: إدخالك يَدَك بين جِلْدة الشَّاة وصِفَاقها تسلخُها.\nوالدَّحَّاس: دويْبَّة تغيب فى التراب، والجمع دَحاحيس. وداحِسٌ: اسم فرسٍ؛ وسمِّى بذلك لأنَّ حَوْطاً (٣) سطا على أُمِّه - أُمّ داحسٍ (٤) - بماءٍ وطِينٍ، ويريد أن يخرج ماءَ فرسه من الرَّحِم. وله حديث (٥).",
- "az": "[دحس] الدال والحاء والسين أصلٌ مطَّرِد مُنْقاس، وهو تخلُّل الشَّئِ بالشَّئِ فى خَفاءٍ ورِفق. (الدال, hə və sin – gizlinliklə və incəliklə bir şeyin digərinə qarışması olan müntəzəm, qiyaslı əsasdır). فالدَّحْس (əddəhs): Bir şeyi gizlində axtarmaq. Və o cümlədən: دَحَسْتُ بينَ القوم (Qövmün arasında dəhəstü etdim), fəsad törətdiyin zaman; bu da yalnız incəliklə və zərif, gizli vəsvəsə ilə olar. Və deyilir: الدّحْسُ (əddəhs): Dərini soymaq üçün əlini qoyun dərisi ilə onun daxili təbəqəsi arasına soxmandır. والدَّحَّاس (əddəhhas): Torpaqda gizlənən kiçik bir qurd, cəmi دَحاحيس (dəhəhis). وداحِسٌ (Dahis): Atın adı; və o, ona görə belə adlandırılmışdır ki, Hout (٣) onun anasının – Dahisin anasının – üzərinə su və palçıqla hücum etmişdi, o da atının suyunu rəhmindən çıxarmaq istəyirdi. Onun bir hədisi vardır (٥).",
+ "az": "[دحس]\nالدال والحاء والسين أصلٌ مطَّرِد مُنْقاس، وهو تخلُّل الشَّئِ بالشَّئِ فى خَفاءٍ ورِفق (dal, ha və sin müntəzəm, qiyaslı bir əsasdır; o da bir şeyin digərinin arasına gizlicə və asta-asta nüfuz etməsidir). فالدَّحْس (əd-dəhs): bir şeyi gizlincə axtarmaqdır. Buradan da: دَحَسْتُ بينَ القوم (qövmün arasını vurdum/fəsad törətdim), aralarını pozduğun zaman deyilir; bu da ancaq mülayimliklə və zərif, gizli vəsvəsə ilə olar. Deyilir ki, الدّحْسُ (əd-dəhs): dərini soyarkən əlini qoyunun dərisi ilə qarın pərdəsi (sifaqı) arasına soxmandır.\nوالدَّحَّاس (əd-dəhhas): torpaqda gizlənən xırda bir canlıdır (həşəratdır), cəmi دَحاحيس (dəhahis)-dir. وداحِسٌ (Dahis) isə bir atın adıdır; belə adlandırılmasına səbəb odur ki, Havt (٣) onun anasının — Dahisin anasının (٤) — bətninə su və palçıqla əl salmışdı, atının nütfəsini bətndən çıxarmaq istəyirdi. Bunun bir əhvalatı vardır (٥).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "prev_az": "[دحس] الدال والحاء والسين أصلٌ مطَّرِد مُنْقاس، وهو تخلُّل الشَّئِ بالشَّئِ فى خَفاءٍ ورِفق. (الدال, hə və sin – gizlinliklə və incəliklə bir şeyin digərinə qarışması olan müntəzəm, qiyaslı əsasdır). فالدَّحْس (əddəhs): Bir şeyi gizlində axtarmaq. Və o cümlədən: دَحَسْتُ بينَ القوم (Qövmün arasında dəhəstü etdim), fəsad törətdiyin zaman; bu da yalnız incəliklə və zərif, gizli vəsvəsə ilə olar. Və deyilir: الدّحْسُ (əddəhs): Dərini soymaq üçün əlini qoyun dərisi ilə onun daxili təbəqəsi arasına soxmandır. والدَّحَّاس (əddəhhas): Torpaqda gizlənən kiçik bir qurd, cəmi دَحاحيس (dəhəhis). وداحِسٌ (Dahis): Atın adı; və o, ona görə belə adlandırılmışdır ki, Hout (٣) onun anasının – Dahisin anasının – üzərinə su və palçıqla hücum etmişdi, o da atının suyunu rəhmindən çıxarmaq istəyirdi. Onun bir hədisi vardır (٥).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«سطا على أمه» ifadəsi səhvən «üzərinə hücum etmişdi» kimi tərcümə edilmişdir (ərəb dilində doğuşda və ya nütfəni çıxarmaq üçün əli bətnə salmağa deyilir).",
+  "«وله حديث» ifadəsi dini termin kimi «hədisi vardır» şəklində səhv tərcümə edilmişdir, halbuki söhbət at haqqındakı əhvalatdan gedir."
+ ],
+ "review_ts": "2026-11-18T00:07:11.681Z"
 }

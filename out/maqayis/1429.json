@@ -11,7 +11,18 @@
   "page_to": 369
  },
  "ar": "الذال والهمزة والميم أصلٌ يدلُّ على كراهَةٍ وعَيب. يقال أذْأمْتَنِى على كذا، أى أكرَهْتَنى عليه. ويقولون ذأمْتُه، أى حَقَرْتُه. والذّأم العَيب، وهو مذءومٌ. فاما الذَّانُ بالنون، فليس أصلاً، لأنَّ النونَ فيه مبدلة من ميم. قال:\nردَدْنا الكتيبةَ مَلمومةً … بها أَفْنُها وبها ذانُها (١)",
- "az": "[ذأم] \n\nذال، həmzə və mim hərfi ikrah və eybə dəlalət edən bir əsasdır. Deyirlər أذْأمْتَنِى على كذا (məni buna məcbur etdin). Və deyirlər ذأمْتُه (onu alçaltdım, mənə həqarətli gəldi). Və الذّأم (eyb, nöqsan) olub mədumu (qınanılmış) sayılır. Nুন hərfi ilə olan الذَّانُ (əz-zാൻ) sözünə gəldikdə, o əsas deyil, çünki ordakı nun mim hərfinin əvəzinə gəlmişdir. Şair demişdir:\nردَدْنا الكتيبةَ مَلمومةً … بها أَفْنُها وبها ذانُها (1)\n(Dəstəni bir yerə yığılmış halda geri qaytardıq, orada onun zəifləri də, eybləri də vardı)",
+ "az": "[ذأم]\n\nالذال، الهمزة və الميم ikrah və eybə dəlalət edən bir əsasdır. Deyilir: أذْأمْتَنِى على كذا, yəni məni buna məcbur etdin. Deyirlər: ذأمْتُه, yəni onu xor gördüm, alçaltdım. الذّأم – eyb və qüsurdur, o isə مذءومٌ (qüsurlu, qınanmış) sayılır. Nun hərfi ilə olan الذَّانُ sözünə gəldikdə, o əsas deyil, çünki oradakı nun hərfi mim hərfindən bədəldir (dəyişdirilmişdir). Şair demişdir:\nردَدْنا الكتيبةَ مَلمومةً … بها أَفْنُها وبها ذانُها (١)\n(Toplanmış qoşun dəstəsini geri qaytardıq; orada həm onun zəifliyi, həm də eybi vardı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.657Z"
+ "ts": "2026-10-25T01:23:18.657Z",
+ "prev_az": "[ذأم] \n\nذال، həmzə və mim hərfi ikrah və eybə dəlalət edən bir əsasdır. Deyirlər أذْأمْتَنِى على كذا (məni buna məcbur etdin). Və deyirlər ذأمْتُه (onu alçaltdım, mənə həqarətli gəldi). Və الذّأم (eyb, nöqsan) olub mədumu (qınanılmış) sayılır. Nুন hərfi ilə olan الذَّانُ (əz-zാൻ) sözünə gəldikdə, o əsas deyil, çünki ordakı nun mim hərfinin əvəzinə gəlmişdir. Şair demişdir:\nردَدْنا الكتيبةَ مَلمومةً … بها أَفْنُها وبها ذانُها (1)\n(Dəstəni bir yerə yığılmış halda geri qaytardıq, orada onun zəifləri də, eybləri də vardı)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə yad əlifba hərfi (Nুন) qarışıb.",
+  "«وهو مذءومٌ» ifadəsi dəqiq verilməyib.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə verilməyib."
+ ],
+ "review_ts": "2026-11-18T00:24:32.593Z"
 }

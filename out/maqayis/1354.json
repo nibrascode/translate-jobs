@@ -11,7 +11,16 @@
   "page_to": 327
  },
  "ar": "الدال والباء والقاف ليس بشئ. يقولون لِذِى البَطْن الدَّبُوقاء.",
- "az": "[دبق] الدال (dal), الباء (ba) və القاف (qaf) hərfləri bir şey deyil. Onlar qarınlı kimsəyə الدَّبُوقاء (əd-dəbuqa') deyirlər.",
+ "az": "[دبق]\nالدال (dal), الباء (ba) və القاف (qaf) bir şey deyildir. Qarın xəstəliyinə (ishala) tutulmuş kimsəyə الدَّبُوقاء deyirlər.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:20:14.272Z"
+ "ts": "2026-10-25T01:20:14.272Z",
+ "prev_az": "[دبق] الدال (dal), الباء (ba) və القاف (qaf) hərfləri bir şey deyil. Onlar qarınlı kimsəyə الدَّبُوقاء (əd-dəbuqa') deyirlər.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«لِذِى البَطْن» ifadəsi «qarınlı kimsəyə» kimi səhv tərcümə olunub; qarın xəstəliyinə (ishala) tutulan kimsə deməkdir."
+ ],
+ "review_ts": "2026-11-17T23:42:48.478Z"
 }

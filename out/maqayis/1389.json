@@ -11,7 +11,17 @@
   "page_to": 351
  },
  "ar": "الذال والراء والفاء ثلاثُ كلماتٍ، لا ينقاس. فالأولى ذَرَفَت العينُ دمْعَها. وذَرَفَ الدّمعُ يَذْرِف ذَرْفاً. وَمَذَارف العَينِ: مدامعها.\nوالثانية ذَرَفَ يَذْرِفُ ذَرفانا، وذلك إذا مشَى مَشْياً ضعيفاً. والثالثة ذرّف على المائة، أى زادَ عليها.",
- "az": "[ذرف] الذال والراء والفاء ثلاثُ كلماتٍ، لا ينقاس (Zal, ra və fa hərfləri üzrə üç söz vardır ki, qiyas olunmur). فالأولى ذَرَفَت العينُ دمْعَها (Birincisi: ذَرَفَت العينُ دمْعَها — göz yaşını axıtdı). وذَرَفَ الدّمعُ يَذْرِف ذَرْفاً (və göz yaşı axdı, ذَرْفاً — axmaq). وَمَذَارف العَينِ: مدامعها (Və gözün məzharifləri: onun yaşıdığı yerləri, göz yaşları). والثانية ذَرَفَ يَذْرِفُ ذَرفانا، وذلك إذا مشَى مَشْياً ضعيفاً (İkincisi: ذَرَفَ يَذْرِفُ ذَرفانا — zəif addımlarla yeridikdə işlədilir). والثالثة ذرّف على المائة، أى زادَ عليها (Üçüncüsü: ذرّف على المائة — yəni yüzü ötüb keçdi, üzərinə artdı).",
+ "az": "[ذرف] الذال والراء والفاء ثلاثُ كلماتٍ، لا ينقاس (Zal, ra və fa hərfləri üç sözdür, bir-birinə qiyas olunmur).\nفالأولى ذَرَفَت العينُ دمْعَها (Birincisi: göz yaşını axıtdı).\nوذَرَفَ الدّمعُ يَذْرِف ذَرْفاً (Və göz yaşı axdı, axır, axmaqla).\nوَمَذَارف العَينِ: مدامعها (Gözün məzarifləri: göz yaşının axdığı məcralardır).\nوالثانية ذَرَفَ يَذْرِفُ ذَرفانا، وذلك إذا مشَى مَشْياً ضعيفاً (İkincisi: ذَرَفَ يَذْرِفُ ذَرفانا — bu, zəif addımlarla yeridikdə işlədilir).\nوالثالثة ذرّف على المائة، أى زادَ عليها (Üçüncüsü: ذرّف على المائة — yəni yüzü aşdı, üzərinə artdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:31.497Z"
+ "ts": "2026-10-25T01:22:31.497Z",
+ "prev_az": "[ذرف] الذال والراء والفاء ثلاثُ كلماتٍ، لا ينقاس (Zal, ra və fa hərfləri üzrə üç söz vardır ki, qiyas olunmur). فالأولى ذَرَفَت العينُ دمْعَها (Birincisi: ذَرَفَت العينُ دمْعَها — göz yaşını axıtdı). وذَرَفَ الدّمعُ يَذْرِف ذَرْفاً (və göz yaşı axdı, ذَرْفاً — axmaq). وَمَذَارف العَينِ: مدامعها (Və gözün məzharifləri: onun yaşıdığı yerləri, göz yaşları). والثانية ذَرَفَ يَذْرِفُ ذَرفانا، وذلك إذا مشَى مَشْياً ضعيفاً (İkincisi: ذَرَفَ يَذْرِفُ ذَرفانا — zəif addımlarla yeridikdə işlədilir). والثالثة ذرّف على المائة، أى زادَ عليها (Üçüncüsü: ذرّف على المائة — yəni yüzü ötüb keçdi, üzərinə artdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«مَذَارف» sözü tərcümədə səhvən «məzharifləri» kimi verilmişdir.",
+  "«yaşardığı yerlər» əvəzinə «yaşıdığı» yazılmışdır."
+ ],
+ "review_ts": "2026-11-18T00:18:28.942Z"
 }

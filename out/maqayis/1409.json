@@ -11,7 +11,17 @@
   "page_to": 360
  },
  "ar": "الذال والميم والهاء واللام كلمةٌ واحدةٌ فى ضربٍ من السَّير.\nوذلك الذَّميلُ، كالعَدْوِ من الإِبل؛ يقال ذَمَّلْتُ الجملَ، إذا حَمَلْتَه على الذَّميل.",
- "az": "[ذمل]\nالذال والميم والهاء واللام كلمةٌ واحدةٌ فى ضربٍ من السَّير (gəzmək və ya yeriş növlərindən biri haqqında tək bir kəlmədir).\nوذلك الذَّميلُ، كالعَدْوِ من الإِبل؛ يقال ذَمَّلْتُ الجملَ، إذا حَمَلْتَه على الذَّميل (Bu, dəvələrin qaçışı kimi zəmil, yəni xüsusi yerişdir; deyilir: «zəmmərtül-cəmələ», yəni dəvəni zəmil yerişi ilə getməyə məcbur etdin).",
+ "az": "[ذمل]\nZal, mim, hə və lam yeriş növlərindən birini bildirən tək bir kəlmədir.\nBu, dəvələrin qaçışına bənzər yeriş növü olan الذَّميلُ-dur. Dəvəni bu yerişlə yeritdikdə ذَمَّلْتُ الجملَ deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:22:56.902Z"
+ "ts": "2026-10-25T01:22:56.902Z",
+ "prev_az": "[ذمل]\nالذال والميم والهاء واللام كلمةٌ واحدةٌ فى ضربٍ من السَّير (gəzmək və ya yeriş növlərindən biri haqqında tək bir kəlmədir).\nوذلك الذَّميلُ، كالعَدْوِ من الإِبل؛ يقال ذَمَّلْتُ الجملَ، إذا حَمَلْتَه على الذَّميل (Bu, dəvələrin qaçışı kimi zəmil, yəni xüsusi yerişdir; deyilir: «zəmmərtül-cəmələ», yəni dəvəni zəmil yerişi ilə getməyə məcbur etdin).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kökün hərfləri adlandırılmayıb, ərəbcə mətn bütöv şəkildə saxlanılmışdır.",
+  "«ذَمَّلْتُ» feli səhvən «zəmmərtü» (ra hərfi ilə) yazılmışdır."
+ ],
+ "review_ts": "2026-11-18T00:21:12.603Z"
 }

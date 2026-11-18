@@ -11,7 +11,18 @@
   "page_to": 301
  },
  "ar": "الدال والميم والسين أصلٌ واحد يدلُّ على خَفاء الشّى.\nومن ذلك قولُهم: دَمَّسْتُ الشئ، إذا أخفَيْتَه. وأتانا بأُمورٍ دُمْس مثل دُبْس،\nوهى الأمور التى لا يُهْتَدَى لوَجْهها. ويقولون: دَمَس الظّلامُ: اشتدَّ. ومنه الدِّيماس، يقال إنّه السَّرَب. وهو ذلك التماس (١). و\nفى حديث عيسى ﵇:\n«كأنّمَا خَرَجِ مِنْ دِيماسٍ».",
- "az": "[دمس] (dəm-s): Dal, mim və sin hərfləri bir əsas prinsipi göstərir ki, bu da bir şeyin gizli qalmasıdır.\nOnların bu sözü dəridəndir: «دَمَّسْتُ الشئ» (dəmməstü əş-şəy-ə) — mən onu gizlətdim. Bizə «أُمورٍ دُمْس» (umurin dums) – «دُبْس» (dubs) kimi elə işlər gətirdilər ki, onların hansı istiqamətdə olduğu bilinmir. Onlar deyirlər: «دَمَس الظّلامُ» (dəməs əz-zəlamü) — qaranlıq qatılaşdı. Buradan da «الدِّيماس» (əd-dimas) gəlir, deyilir ki, o, yeraltı yoldur. Bu da həmin gizlənəcək yerdir (١). Və İsa ﵇ hədisində gəlmişdir:\n«كأنّمَا خَرَجِ مِنْ دِيماسٍ» (mənaca tərcümə: Guya o, yeraltı sərdabədən çıxmış kimidir).",
+ "az": "[دمس]\nDal, mim və sin hərfləri bir şeyin gizli qalmasına dəlalət edən vahid əsldir.\nOnların bu sözü də bundandır: «دَمَّسْتُ الشئ» (bir şeyi gizlətdikdə deyilir). Bizə «دُبْس» kimi «أُمورٍ دُمْس» gətirdi,\nyəni hansı istiqamətdə olduğu bilinməyən işlər. Onlar deyirlər: «دَمَس الظّلامُ» (qaranlıq qatılaşdı). Buradan da «الدِّيماس» gəlir, deyilir ki, o, yeraltı yoldur. Bu da həmin gizlənəcək yerdir (١). Və\nİsa ﵇-ın hədisində gəlmişdir:\n«كأنّمَا خَرَجِ مِنْ دِيماسٍ» (Guya o, yeraltı sərdabədən çıxmış kimidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:17:37.834Z"
+ "ts": "2026-10-25T01:17:37.834Z",
+ "prev_az": "[دمس] (dəm-s): Dal, mim və sin hərfləri bir əsas prinsipi göstərir ki, bu da bir şeyin gizli qalmasıdır.\nOnların bu sözü dəridəndir: «دَمَّسْتُ الشئ» (dəmməstü əş-şəy-ə) — mən onu gizlətdim. Bizə «أُمورٍ دُمْس» (umurin dums) – «دُبْس» (dubs) kimi elə işlər gətirdilər ki, onların hansı istiqamətdə olduğu bilinmir. Onlar deyirlər: «دَمَس الظّلامُ» (dəməs əz-zəlamü) — qaranlıq qatılaşdı. Buradan da «الدِّيماس» (əd-dimas) gəlir, deyilir ki, o, yeraltı yoldur. Bu da həmin gizlənəcək yerdir (١). Və İsa ﵇ hədisində gəlmişdir:\n«كأنّمَا خَرَجِ مِنْ دِيماسٍ» (mənaca tərcümə: Guya o, yeraltı sərdabədən çıxmış kimidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə hərf və qrammatika səhvi var («dəridəndir», «gətirdilər»).",
+  "Hədisin tərcüməsində yalnız Quran ayələri üçün nəzərdə tutulan «mənaca tərcümə:» ifadəsi işlədilib.",
+  "Lazımsız və səhv transkripsiyalar əlavə olunub, «أخفَيْتَه» hissəsinin mənası dəqiq verilməyib."
+ ],
+ "review_ts": "2026-11-17T23:31:26.906Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 323
  },
  "ar": "الدال والهمزة والياء أصلان: أحدهما يدل على خَتْلِ، والآخر عَظْمٌ متَّصل بمِثْله، ويشبّه به غيره، ويكون من خَشَب.\nفالأوَّل الدّأْى، وهو الختْل؛ يقال دَأبْتُ أدأَى دَأْياً؛ وهو الخَتْل والذِّئب يَدأَى، إِذا خَتَل.\nوأمَّا الآخَر فالدّأْيات: الفَقَار، الواحدةُ دَأْية؛ وابنُ دأيةَ: الغُرابُ؛\nلأنَّه يقع على دأْية البعير الدّبِر فينقُرها؛ والدَّأية من البعير: الموضعُ تقع عليه ظَلِفَة (١) الرَّحْل فتعقِرُه.",
- "az": "[دأى] الدال (dal), الهمزة (həmzə) və الياء (ya) hərfləri iki kökə malikdir: biri hiyləgərliyə, digəri isə öz bənzərinə bitişik olan və başqasının ona bənzədildiyi, həmçinin ağacdan olan sümüyə işarə edir. Birincisi الدّأْى (əd-də'y) olub hiyləgərlikdir; deyilir: دَأبْتُ أدأَى دَأْياً (də'əbtu əd'əy də'yən); bu hiyləgərlikdir və canavar hiylə etdikdə يَدأَى (yəd'əy) deyilir. İkincisinə gəldikdə, الدَّأْيات (əd-də'yat): fəqərələr (onurğa sümükləri), tək halı دَأْية (də'yə)dir; ابنُ دأيةَ (ibnu də'yə): qarğa; çünki o, dəvənin yaralı fəqərəsinin üzərinə qonub onu dimdikləyir; dəvənin الدَّأية (əd-də'yə)si: yəhərin (رحل) altlığının (١) üzərinə düşdüyü və onu yaraladığı yerdir.",
+ "az": "[دأى]\nالدال (dal), الهمزة (həmzə) və الياء (ya) iki əsasdır: biri hiyləyə dəlalət edir, digəri isə öz bənzərinə bitişik olan bir sümükdür; başqa şeylər də ona bənzədilir və bu da taxtadan (ağacdan) olur.\nBirincisi الدّأْى olub, hiylə qurmaqdır; deyilir: دَأبْتُ أدأَى دَأْياً; bu, hiylə qurmaqdır və canavar hiylə işlətdikdə الذِّئب يَدأَى deyilir.\nDigərinə gəldikdə isə, الدّأْيات onurğa sümükləridir (fəqərələrdir), təki دَأْية kəlməsidir; ابنُ دأيةَ qarğadır;\nçünki o, kürəyi yaralı dəvənin دأية-sinin (onurğa sümüyünün) üzərinə qonub onu dimdikləyir; dəvənin الدَّأية-si isə yəhərin altlığının (١) düşüb yaraladığı yerdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:20:14.272Z"
+ "ts": "2026-10-25T01:20:14.272Z",
+ "prev_az": "[دأى] الدال (dal), الهمزة (həmzə) və الياء (ya) hərfləri iki kökə malikdir: biri hiyləgərliyə, digəri isə öz bənzərinə bitişik olan və başqasının ona bənzədildiyi, həmçinin ağacdan olan sümüyə işarə edir. Birincisi الدّأْى (əd-də'y) olub hiyləgərlikdir; deyilir: دَأبْتُ أدأَى دَأْياً (də'əbtu əd'əy də'yən); bu hiyləgərlikdir və canavar hiylə etdikdə يَدأَى (yəd'əy) deyilir. İkincisinə gəldikdə, الدَّأْيات (əd-də'yat): fəqərələr (onurğa sümükləri), tək halı دَأْية (də'yə)dir; ابنُ دأيةَ (ibnu də'yə): qarğa; çünki o, dəvənin yaralı fəqərəsinin üzərinə qonub onu dimdikləyir; dəvənin الدَّأية (əd-də'yə)si: yəhərin (رحل) altlığının (١) üzərinə düşdüyü və onu yaraladığı yerdir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«عظم متصل بمثله ويشبه به غيره ويكون من خشب» ifadəsi səhv tərcümə edilmiş, sümüyün ağacdan olduğu qeyd edilmişdir; halbuki başqa taxta/ağac əşyaların bu sümüyə bənzədildiyi nəzərdə tutulur."
+ ],
+ "review_ts": "2026-11-17T23:42:45.626Z"
 }

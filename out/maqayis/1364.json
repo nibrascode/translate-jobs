@@ -13,5 +13,10 @@
  "ar": "الدال والحاء والراء أصلٌ واحد، وهو الطَّرد والإبعاد.\nقال اللّه تعالى: ﴿اُخْرُجْ مِنْها مَذْؤُماً مَدْحُوراً (١﴾.",
  "az": "[دحر] الدال والحاء والراء أصلٌ واحد، وهو الطَّرد والإبعاد. (الدال, hə və ra – tək bir əsasdır, o da qovmaq və uzaqlaşdırmaqdır). Uca Allah buyurmuşdur: ﴿اُخْرُجْ مِنْها مَذْؤُماً مَدْحُوراً﴾ [mənaca tərcümə: Oradan qınanmış və qovulmuş halda çıx get!] (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:20:39.120Z"
+ "ts": "2026-10-25T01:20:39.120Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T00:07:11.681Z"
 }
