@@ -11,7 +11,17 @@
   "page_to": 394
  },
  "ar": "الراء والسين والنون أصلٌ واحدٌ اشترك فيه العرب والعجم، وهو الرَّسَنُ، والجمع أرسانٌ. والمَرْسِنُ: الذى يقع عليه الرَّسَن من أنف الناقة، ثم كثُر حتَّى قيل مَرسِنُ الإنسان. ورسَنْت الرَّجُلَ (٤) وأرسنْتُه: شددتُه بالرَّسَن.",
- "az": "[رسن] (Rə, sin və nun) ərəblərin və əcəmlərin şərik olduğu tək bir əsasdır, o da əd-rəsən (ulaşqı, cilov)dir, cəmi ərsandır. Əl-mərsən — dəvənin burnunda cilovun düşdüyü yerdir, sonra bu söz genişlənərək insanın burnuna da mərsən deyilmişdir. Rəsəntür-ricülə və ərsəntuhu — onu cilovla bağladım.",
+ "az": "[رسن] (Ra, sin və nun) ərəblərlə qeyri-ərəblərin (əcəmlərin) şərik olduğu tək bir əsasdır: o da الرَّسَنُ (ər-rəsən — yüyən, cilov) sözüdür, cəmi أرسان (arsan) gəlir. والمَرْسِنُ (əl-mərsən) — dəvənin burnunda cilovun oturduğu yerdir; sonra bu söz genişlənərək insanın burnuna da مَرسِن (mərsən) deyilmişdir. رسَنْت الرَّجُلَ (٤) وأرسنْتُه — onu cilovla (kəndirlə) bağladım deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:45.682Z"
+ "ts": "2026-10-25T01:28:45.682Z",
+ "prev_az": "[رسن] (Rə, sin və nun) ərəblərin və əcəmlərin şərik olduğu tək bir əsasdır, o da əd-rəsən (ulaşqı, cilov)dir, cəmi ərsandır. Əl-mərsən — dəvənin burnunda cilovun düşdüyü yerdir, sonra bu söz genişlənərək insanın burnuna da mərsən deyilmişdir. Rəsəntür-ricülə və ərsəntuhu — onu cilovla bağladım.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«əd-rəsən» səhv yazılıb («ər-rəsən» olmalıdır).",
+  "Ərəbcə sözlər əsli ilə verilməyib."
+ ],
+ "review_ts": "2026-11-18T07:24:19.799Z"
 }

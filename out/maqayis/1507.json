@@ -11,7 +11,16 @@
   "page_to": 406
  },
  "ar": "الراء والعين والكاف كلمةٌ واحدة. يقولون: الرّاعك من الرجال: الأحمَق.",
- "az": "[رعك] (ر ع ك). Tək bir kəlmədir. Deyirlər ki, kişilərdən olan الرَّاعِك (ar-raik) – axmaqdır.",
+ "az": "[رعك] (ra, ayn, kaf). Tək bir kəlmədir. Deyirlər ki, kişilərdən الرّاعك – axmaq deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:30.016Z"
+ "ts": "2026-10-25T01:29:30.016Z",
+ "prev_az": "[رعك] (ر ع ك). Tək bir kəlmədir. Deyirlər ki, kişilərdən olan الرَّاعِك (ar-raik) – axmaqdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərflərinin adları hərflərin özü ilə yazılıb (ra, ayn, kaf olmalıdır)."
+ ],
+ "review_ts": "2026-11-18T07:29:47.073Z"
 }

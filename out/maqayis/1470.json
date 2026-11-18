@@ -11,7 +11,18 @@
   "page_to": 392
  },
  "ar": "الراء والسين والفاء أُصَيلٌ يدلُّ على مقارَبَة المَشْى، فالرّسْفُ: مَشْى المقيَّد، ولا يكون ذلك إلاّ بمقارَبَةٍ. رَسَفَ يَرْسُف ويَرْسِف رَسْفاً ورَسِيفاً ورَسَفاناً. قال أبو زيد: أرسفْتُ الإِبلَ، إذا طردْتَها بأَقْيَادِها.",
- "az": "[رسف] (Rə, sin və fa) yerişi yaxınlaşdırmağa (kiçik addımlarla yeriməyə) dəlalət edən kiçik bir əsasdır. Ər-rəsfu — buxovlunun yerişidir və bu, ancak addımları yaxınlaşdırmaqla olur. Rəsəfə yərsüfu və yərsifü rəsfan və rəhifən və rəsəfənan (addımlarını yaxınlaşdıraraq yeri). Əbu Zeyd demişdir: Ərsüftül-iblə — dəvələri buxovları ilə qovduğun zaman.",
+ "az": "[رسف] (Ra, sin və fa) yerişdə addımları yaxınlaşdırmağa (kiçik addımlarla yeriməyə) dəlalət edən kiçik bir əsasdır. الرَّسْفُ (ər-rəsfu) — buxovlanmış kimsənin yerişidir və bu, ancaq addımları yaxınlaşdırmaqla olur. رَسَفَ يَرْسُف ويَرْسِف رَسْفاً ورَسِيفاً ورَسَفاناً (kiçik addımlarla buxovlu kimi yeridi). Əbu Zeyd demişdir: أرسفْتُ الإِبلَ (Dəvələri buxovları ilə qovdum) — onları buxovlu halda sürdüyün zaman deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:45.682Z"
+ "ts": "2026-10-25T01:28:45.682Z",
+ "prev_az": "[رسف] (Rə, sin və fa) yerişi yaxınlaşdırmağa (kiçik addımlarla yeriməyə) dəlalət edən kiçik bir əsasdır. Ər-rəsfu — buxovlunun yerişidir və bu, ancak addımları yaxınlaşdırmaqla olur. Rəsəfə yərsüfu və yərsifü rəsfan və rəhifən və rəsəfənan (addımlarını yaxınlaşdıraraq yeri). Əbu Zeyd demişdir: Ərsüftül-iblə — dəvələri buxovları ilə qovduğun zaman.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Türkiyə türkcəsi sözü işlədilib («ancak»).",
+  "«رَسِيفاً» sözü səhv oxunaraq «rəhifən» yazılıb.",
+  "İzah edilən ərəbcə sözlər ərəb qrafikası ilə verilməyib."
+ ],
+ "review_ts": "2026-11-18T07:24:19.798Z"
 }

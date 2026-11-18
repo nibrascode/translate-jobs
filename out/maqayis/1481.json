@@ -11,7 +11,17 @@
   "page_to": 396
  },
  "ar": "الراء والشين والنون ليس أصلاً ولا فيه ما يُؤْخَذُ به.\nلكنَّهم يقولون. رشَنَ الكلبُ فى الإناء: أدخَلَ رأسه. والرَّاشن: الذى يتحيَّن وقتَ الطعام فيأتى ولم يدع: وفى كلُّ ذلك نظر.",
- "az": "«رشن» (Rə-ş-n): Ra, şin və nun nə əsasdır, nə də ondan götürülən bir şey var. Lakin deyirlər: رشَنَ الكلبُ فى الإناء (İt qabın evinə girdi): başını soxdu. والرَّاشن (Raşin): Yemək vaxtını gözləyən və dəvət olunmadan gələn kimsədir: və bütün bunlarda nəzər (araşdırma) vardır.",
+ "az": "[رشن]\nRa, şin və nun nə bir əsasdır, nə də onda etimad ediləsi bir şey vardır.\nLakin onlar deyirlər: رشَنَ الكلبُ فى الإناء (it başını qaba saldı): başını daxil etdi. والرَّاشن: yemək vaxtını güdüb dəvət olunmadığı halda gələn kimsədir. Bütün bunlarda isə şübhə/tərəddüd (nəzər) vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:08.225Z"
+ "ts": "2026-10-25T01:29:08.225Z",
+ "prev_az": "«رشن» (Rə-ş-n): Ra, şin və nun nə əsasdır, nə də ondan götürülən bir şey var. Lakin deyirlər: رشَنَ الكلبُ فى الإناء (İt qabın evinə girdi): başını soxdu. والرَّاشن (Raşin): Yemək vaxtını gözləyən və dəvət olunmadan gələn kimsədir: və bütün bunlarda nəzər (araşdırma) vardır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«رشَنَ الكلبُ فى الإناء» ibarəsi gülünc və yanlış tərcümə olunub («İt qabın evinə girdi»).",
+  "Format və durğu işarələri pozulub."
+ ],
+ "review_ts": "2026-11-18T07:26:32.919Z"
 }

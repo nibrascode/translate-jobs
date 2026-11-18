@@ -11,7 +11,20 @@
   "page_to": 399
  },
  "ar": "الراء والصاد والنون أصلٌ واحد يدلُّ على ثَبَاتٍ وكمال وإحكام. تقول: شئ رصينٌ، أى شديد ثابت. وقد رَصُن رَصانةً، وأرصنتُه أنا.\nوحكى ناسٌ: فلانٌ رصينٌ بحاجَتِك، أى حَفِىٌّ. ويقال رَصَنْتُ الشئَ (١):\nأكملتُه. وقال أبو زيد: رصَنْت الشئَ معرفةً (٢). والرَّصِيتانِ فى رُكْبة الفرس:\nأطرافُ القَصَب المركَّب فى رَضَفَة الفَرَس.\nومما شذَّ عن الباب قولهم: هو رصينُ الجَوف، أى مُوجّع الجوف. قال:\n* تقول إنَّى رَصِينُ الجَوْفِ فاسقُونِى (٣) *\nويقولون: رصَنَه بلسانه رصْناً، أى شَتَمه. وفيه نظرٌ.",
- "az": "«رصن» (Rə-s-n): Ra, sad və nun sabitliyə, kamil olmağa və möhkəmliyə dəlalət edən tək bir əsasdır. Deyirsən: شئ رصينٌ (Rəsin şey), yəni güclü, sabit. Və o, رَصُن رَصانةً (rəsünə rəsanətən) möhkəm oldu, və mən onu أرصنتُه (ərsəntuhu) etdim. Və bəzi insanlar rəvayət etmişlər: فلانٌ رصينٌ بحاجَتِك (Filankəs sənin ehtiyacınla bağlı rəsindir), yəni qayğıkeşdir. Və deyilir: رَصَنْتُ الشئَ (Rəsəntüş-şeyə): onu kamil etdim. Və Əbu Zeyd demişdir: رَصَنْت الشئَ معرفةً (Mən o şeyi tanımaqla kamil etdim). Və الرَّصِيتانِ (Rəsitani) atın dizində: atın dizindəki sümüyün uclarıdır. Və babdan kənar çıxan tək bir kəlmə onların رصينُ الجَوف (rəsinul-cövf) demələridir, yəni qarnı ağrıyan. (Şair) demişdir: تقول إنَّى رَصِينُ الجَوْفِ فاسقُونِى (Deyirsən ki, həqiqətən, mən qarnı ağrıyanam, mənə su verin içim). Və deyirlər: رصَنَه بلسانه رصْnaً (Onu dili ilə rəsən etdi), yəni onu söydü. Və bunda nəzər (araşdırma) var.",
+ "az": "[رصن]\nالراء والصاد والنون sabitlik, kamillik və möhkəmliyə dəlalət edən tək bir əsasdır. Deyirsən: شئ رصينٌ, yəni güclü, sabit. Və رَصُن رَصانةً (möhkəm və kamil oldu), və أرصنتُه أنا (onu mən möhkəmlətdim/kamilləşdirdim).\nBəzi insanlar rəvayət etmişlər: فلانٌ رصينٌ بحاجَتِك, yəni sənin ehtiyacına qarşı diqqətlidir, qayğıkeşdir. Və deyilir: رَصَنْتُ الشئَ (١): onu kamil etdim. Əbu Zeyd demişdir: رصَنْت الشئَ معرفةً (٢) (o şeyi dərindən bildim). والرَّصِيتانِ atın dizində: atın diz qapağına (رَضَفَة) birləşən incik sümüklərinin kənarlarıdır.\nBabdan kənara çıxan sözlərdən biri onların: هو رصينُ الجَوف, yəni qarnı ağrıyan demələridir. (Şair) demişdir:\n* تقول إنَّى رَصِينُ الجَوْفِ فاسقُونِى (٣) *\n(O qadın deyir: həqiqətən mən daxili yanan/qarnı ağrıyan biriyəm, mənə su verin için).\nDeyirlər: رصَنَه بلسانه رصْناً, yəni onu dili ilə söydü. Lakin bunda şübhə (nəzər) vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:08.225Z"
+ "ts": "2026-10-25T01:29:08.225Z",
+ "prev_az": "«رصن» (Rə-s-n): Ra, sad və nun sabitliyə, kamil olmağa və möhkəmliyə dəlalət edən tək bir əsasdır. Deyirsən: شئ رصينٌ (Rəsin şey), yəni güclü, sabit. Və o, رَصُن رَصانةً (rəsünə rəsanətən) möhkəm oldu, və mən onu أرصنتُه (ərsəntuhu) etdim. Və bəzi insanlar rəvayət etmişlər: فلانٌ رصينٌ بحاجَتِك (Filankəs sənin ehtiyacınla bağlı rəsindir), yəni qayğıkeşdir. Və deyilir: رَصَنْتُ الشئَ (Rəsəntüş-şeyə): onu kamil etdim. Və Əbu Zeyd demişdir: رَصَنْت الشئَ معرفةً (Mən o şeyi tanımaqla kamil etdim). Və الرَّصِيتانِ (Rəsitani) atın dizində: atın dizindəki sümüyün uclarıdır. Və babdan kənar çıxan tək bir kəlmə onların رصينُ الجَوف (rəsinul-cövf) demələridir, yəni qarnı ağrıyan. (Şair) demişdir: تقول إنَّى رَصِينُ الجَوْفِ فاسقُونِى (Deyirsən ki, həqiqətən, mən qarnı ağrıyanam, mənə su verin içim). Və deyirlər: رصَنَه بلسانه رصْnaً (Onu dili ilə rəsən etdi), yəni onu söydü. Və bunda nəzər (araşdırma) var.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil.",
+  "Mətndə ərəb və latın hərfi qarışığı var: «رصْnaً».",
+  "Atın diz qapağı ilə bağlı cümlə natamam tərcümə olunub.",
+  "Şeirdəki «تقول» feli səhvən ikinci şəxs («deyirsən») kimi tərcümə edilib, halbuki üçüncü şəxs («qadın deyir») olmalıdır.",
+  "Mətndəki haşiyə nömrələri (١, ٢, ٣) buraxılıb."
+ ],
+ "review_ts": "2026-11-18T07:26:00.619Z"
 }

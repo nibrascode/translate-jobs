@@ -11,7 +11,17 @@
   "page_to": 386
  },
  "ar": "الراء والخاء قليلٌ، إلاّ أنّه يدلُّ على لِينٍ. يقال إنّ الرَّخَاخَ لِينُ العَيْش. وأرضٌ رَخَّاءُ: رِخوة. ويقال - وهو ممّا يُنظَر فيه - إنّ الرَّخَّ مَزْجُ الشَّرابِ (٢).",
- "az": "«رخ» — ra və xa [hərfləri] az işlənir, lakin yumşaqlığa dəlalət edir. Deyilir ki, الرَّخَاخ (ərrəxax) — yaşayışın yumşaqlığı və rahatlığıdır. أرضٌ رَخَّاءُ (rəxxə yer): yumşaq torpaq. Həmçinin üzərində düşünülməli olanlardandır ki, الرَّخَّ (ərrəx) — şərabın qarışdırılmasıdır (2).",
+ "az": "[رخ]\nRa və xa [hərfləri] az işlənir, lakin yumşaqlığa dəlalət edir. Deyilir ki, الرَّخَاخ (ərrəxax) yaşayışın yumşaqlığı və rahatlığıdır. أرضٌ رَخَّاءُ (rəxxa yer): yumşaq torpaq. Həmçinin – üzərində düşünülməli olanlardandır – deyilir ki, الرَّخَّ (ərrəxx) şərabın qarışdırılmasıdır (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:24.395Z"
+ "ts": "2026-10-25T01:28:24.395Z",
+ "prev_az": "«رخ» — ra və xa [hərfləri] az işlənir, lakin yumşaqlığa dəlalət edir. Deyilir ki, الرَّخَاخ (ərrəxax) — yaşayışın yumşaqlığı və rahatlığıdır. أرضٌ رَخَّاءُ (rəxxə yer): yumşaq torpaq. Həmçinin üzərində düşünülməli olanlardandır ki, الرَّخَّ (ərrəx) — şərabın qarışdırılmasıdır (2).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «رخ» yerinə [رخ] formatı ilə başlamalıdır.",
+  "Haşiyə rəqəmi (٢) ərəb rəqəmi ilə saxlanmayıb."
+ ],
+ "review_ts": "2026-11-18T07:23:28.196Z"
 }

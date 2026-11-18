@@ -11,7 +11,17 @@
   "page_to": 397
  },
  "ar": "الراء والشين والهمزة كلمةٌ واحدة وهى الرّشأ، مهموز، وهو ولد الظَّبْية.",
- "az": "«رشا» (Rə-şa): Ra, şin və həmzə tək bir kəlmədir, o da həmsəli olaraq الرّشأ (rəşə), yəni ceyran balasıdır.",
+ "az": "[رشا]\nRa, şin və həmzə tək bir kəlmədir, o da həmzəli olaraq الرّشأ sözüdür ki, ceyran balası deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:08.225Z"
+ "ts": "2026-10-25T01:29:08.225Z",
+ "prev_az": "«رشا» (Rə-şa): Ra, şin və həmzə tək bir kəlmədir, o da həmsəli olaraq الرّشأ (rəşə), yəni ceyran balasıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«həmsəli» orfoqrafik xətadır («həmzəli» olmalıdır).",
+  "Başlıq format qaydasına uyğunlaşdırılmalıdır."
+ ],
+ "review_ts": "2026-11-18T07:26:32.920Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 395
  },
  "ar": "الراء والسين والباء أصلٌ واحد، هو ذهابُ الشئ سُفْلاً مِنْ ثِقَلٍ. تقول: رسَبَ الحجَر فى الماء يرسُب. وحكى بعضهم رسَبَتْ عيناه:\nغارَتَا. فإن كان صحيحاً فهو محمولٌ على ما ذكرناهُ، مشبَّهٌ به. والسَّيف الرَّسوب:\nالذى يمضى فى الضَّريبة (٢)، فكأنّه قد رَسَب فيها. وراسِبٌ: حَىٌّ من العَرب.",
- "az": "«رسب» (Rə-s-b): Ra, sin və ba tək bir əsasdır, o da bir şeyin ağırlıq səbəbindən aşağı getməsidir. Deyirsən: رسَبَ الحجَر فى الماء يرسُب (Daş suda batdı, batır). Bəziləri رسَبَتْ عيناه (Gözləri çökdü) demişlər; əgər bu səhihdirsə, yuxarıda qeyd olunan məna daşınmış və ona bənzədilmişdir. السَّيف الرَّسوب (Kəsici qılınc): Zərbəni keçən qılıncdır, elə bil o, (zərbəyə) batmışdır. وراسِبٌ (Rasib): Ərəb qəbilələrindən bir tayfadır.",
+ "az": "[رسب]\nRa, sin və ba tək bir əsasdır, o da bir şeyin ağırlıqdan aşağı getməsidir (dibə çökməsidir). Deyirsən: رسَبَ الحجَر فى الماء يرسُب (daş suda batdı, batır). Bəziləri rəvayət etmişlər ki: رسَبَتْ عيناه: غارَتَا (gözləri çuxura düşdü/batdı). Əgər bu səhihdirsə, qeyd etdiyimiz mənaya aid edilir və ona bənzədilir. والسَّيف الرَّسوب: vurulan yerə (ضريبة) işləyən/batan qılıncdır (٢), sanki o, onun içinə batmışdır. وراسِبٌ: ərəblərdən bir qəbilədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:08.224Z"
+ "ts": "2026-10-25T01:29:08.224Z",
+ "prev_az": "«رسب» (Rə-s-b): Ra, sin və ba tək bir əsasdır, o da bir şeyin ağırlıq səbəbindən aşağı getməsidir. Deyirsən: رسَبَ الحجَر فى الماء يرسُب (Daş suda batdı, batır). Bəziləri رسَبَتْ عيناه (Gözləri çökdü) demişlər; əgər bu səhihdirsə, yuxarıda qeyd olunan məna daşınmış və ona bənzədilmişdir. السَّيف الرَّسوب (Kəsici qılınc): Zərbəni keçən qılıncdır, elə bil o, (zərbəyə) batmışdır. وراسِبٌ (Rasib): Ərəb qəbilələrindən bir tayfadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndəki haşiyə rəqəmi (٢) buraxılıb.",
+  "«الضريبة» sözü səhvən «zərbə» kimi tərcümə olunub; əslində qılıncın zərbə endirdiyi hədəf/kəsilən yer mənasındadır."
+ ],
+ "review_ts": "2026-11-18T07:26:32.917Z"
 }

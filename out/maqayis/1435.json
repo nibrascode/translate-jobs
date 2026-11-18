@@ -11,7 +11,16 @@
   "page_to": 370
  },
  "ar": "الذال والحاء واللام أصلٌ واحد يدلُّ على مقابلةٍ بِمِثْل الجِناية، يقال طَلَبَ بذَحْلِه.\nواللّه أعلم.",
- "az": "[ذحل] \n\nذال، hə və lam hərfi cinayətə bənzər bir şəkildə qarşılıq verməyə dəlalət edən tək bir əsasdır, deyilir: طَلَبَ بذَحْلِه (öz qisasını, intiqamını tələb etdi).\nVə Allah daha yaxşı bilir.",
+ "az": "[ذحل]\nالذال (zal), الحاء (ha) və اللام (lam) hərfləri cinayətin misli ilə qarşılıq verməyə dəlalət edən tək bir əsasdır. Deyilir: طَلَبَ بذَحْلِه (öz qisasını, intiqamını tələb etdi).\nVə Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:23:18.658Z"
+ "ts": "2026-10-25T01:23:18.658Z",
+ "prev_az": "[ذحل] \n\nذال، hə və lam hərfi cinayətə bənzər bir şəkildə qarşılıq verməyə dəlalət edən tək bir əsasdır, deyilir: طَلَبَ بذَحْلِه (öz qisasını, intiqamını tələb etdi).\nVə Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«بِمِثْل الجِناية» ifadəsi «cinayətin misli ilə» əvəzinə «cinayətə bənzər bir şəkildə» kimi yanlış tərcümə edilib."
+ ],
+ "review_ts": "2026-11-18T07:20:59.157Z"
 }

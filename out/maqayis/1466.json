@@ -11,7 +11,17 @@
   "page_to": 391
  },
  "ar": "الراء والزاء والباء، إن كان صحيحاً فهو يدلُّ على قِصَر\nوضِخَمٍ فالإِرْزَبُّ: الرّجُل القَصِير الضَّخْم. والمِرْزَبَةُ معروفةٌ. * ورَكَبٌ إرْزَبٌّ:\nعظيم. قال:\n* إنّ لَهَا لرَكَباً إرْزَبَّا (١) *",
- "az": "[رزب] (Rə, zay və ba) əgər səhihdirsə, o, qısalığa və yoğunluğa dəlalət edir; elə isə əl-irzəbb — qısa və yoğun kişidir. Əl-mirzəbə (balta, çəkic) məlumdur. Və rəkabun irzəbbün — böyük (minik vasitəsi və ya orqan). [Şair] demişdir: * إنّ لَهَا لرَكَباً إرْزَبَّا (١) * (Həqiqətən, onun böyük bir... var).",
+ "az": "[رزب] (ra, zay və ba) əgər səhihdirsə, o, qısalığa və yoğunluğa dəlalət edir; elə isə الإِرْزَبُّ (əl-irzəbb) — qısa və yoğun kişidir. المِرْزَبَةُ (əl-mirzəbə — iri çəkic) məlumdur. * رَكَبٌ إرْزَبٌّ (böyük qasıq/cinsiyyət üzvü) — böyükdür. [Şair] demişdir:\n* إنّ لَهَا لرَكَباً إرْزَبَّا (١) * (Həqiqətən, onun böyük bir qasığı vardır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:45.682Z"
+ "ts": "2026-10-25T01:28:45.682Z",
+ "prev_az": "[رزب] (Rə, zay və ba) əgər səhihdirsə, o, qısalığa və yoğunluğa dəlalət edir; elə isə əl-irzəbb — qısa və yoğun kişidir. Əl-mirzəbə (balta, çəkic) məlumdur. Və rəkabun irzəbbün — böyük (minik vasitəsi və ya orqan). [Şair] demişdir: * إنّ لَهَا لرَكَباً إرْزَبَّا (١) * (Həqiqətən, onun böyük bir... var).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Baş sözlər ərəb qrafikası ilə verilməyib.",
+  "«رَكَبٌ» sözü «minik vasitəsi» kimi yanlış tərcümə edilib və şeirin tərcüməsi yarımçıq saxlanılıb."
+ ],
+ "review_ts": "2026-11-18T07:24:26.846Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 398
  },
  "ar": "الراء والشين والدال أصلٌ واحدٌ يدلُّ على استقامةِ الطريق.\nفالمَراشِد: مقاصد الطُّرُقِ. والرُّشْد والرَّشد: خِلافُ الغَىّ. وأصاب فلان من أمره رُشْداً ورَشَداً ورِشْدة. وهو لِرِشْدةٍ خلاف لِغَيّة.",
- "az": "«رشد» (Rə-ş-d): Ra, şin və dal yolun düzlüyünə dəlalət edən tək bir əsasdır. فالمَراشِد (Maraşid): Yolların məqsədləri, istiqamətləridir. والرُّشْد (Ruşd) və الرَّشد (Rəşəd): Azğınlığın ziddidir. Və filankəs işində رُشْداً (ruşdən) və رَشَداً (rəşədən) və رِشْدة (rişdətdən) əldə etdi. Və o, لِرِشْدةٍ (rişdətin) – azğınlığın ziddi olan لِغَيّةٍ (ğəyyətin) müqabilidir.",
+ "az": "[رشد]\nالراء والشين والدال أصلٌ واحدٌ يدلُّ على استقامةِ الطريق (yolun düzlüyünə dəlalət edən bir əsasdır).\nفالمَراشِد: yolların istiqamətləridir. والرُّشْد və الرَّشد: azğınlığın ziddidir. Deyilir: أصاب فلان من أمره رُشْداً ورَشَداً ورِشْدة (filankəs işində doğru yol tapdı). Və وهو لِرِشْدةٍ خلاف لِغَيّة (o, kəbinli-nikahlı doğulmadır, zinanın əksidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:08.225Z"
+ "ts": "2026-10-25T01:29:08.225Z",
+ "prev_az": "«رشد» (Rə-ş-d): Ra, şin və dal yolun düzlüyünə dəlalət edən tək bir əsasdır. فالمَراشِد (Maraşid): Yolların məqsədləri, istiqamətləridir. والرُّشْد (Ruşd) və الرَّشد (Rəşəd): Azğınlığın ziddidir. Və filankəs işində رُشْداً (ruşdən) və رَشَداً (rəşədən) və رِشْدة (rişdətdən) əldə etdi. Və o, لِرِشْدةٍ (rişdətin) – azğınlığın ziddi olan لِغَيّةٍ (ğəyyətin) müqabilidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil.",
+  "«وهو لِرِشْدةٍ خلاف لِغَيّة» ifadəsi kəbinli nikahdan doğulanı vələduz-zinanın əksi olaraq bildirən ərəb idiomidır, mənası dəqiqləşdirilməlidir."
+ ],
+ "review_ts": "2026-11-18T07:26:00.618Z"
 }

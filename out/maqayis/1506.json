@@ -11,7 +11,17 @@
   "page_to": 406
  },
  "ar": "الراء والعين والقاف ليس أصلاً، بل هو صوتٌ من الأصوات. فالرُّعَاق: صوتٌ يخرج من قُنْب الدّابّة الذكرِ، كما يُسمَع الرَّعيق من ثفْر الانثى. تقول: رَعَق رَعْقاً ورُعاقا.",
- "az": "[رعق] (ر ع ق). Əsas deyil, əksinə səslərdən bir səsdir. الرُّلُعَاق (ar-ruaq) – erkək heyvanın cinsiyyət orqanından çıxan səsdir, necə ki dişi heyvanın cinsiyyət yerindən رَعِيق (raiq) səsi eşidilir. Deyirsən: رَعَقَ رَعْقاً وَرُعَاقاً (raafa raqan va ruaqan).",
+ "az": "[رعق] (ra, ayn, qaf). Əsas deyil, əksinə səslərdən bir səsdir. الرُّعَاق – erkək heyvanın cinsiyyət qıfından çıxan səsdir, necə ki dişi heyvanın cinsiyyət yerindən الرَّعيق səsi eşidilir. Deyirsən: رَعَق رَعْقاً ورُعاقا.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:30.016Z"
+ "ts": "2026-10-25T01:29:30.016Z",
+ "prev_az": "[رعق] (ر ع ق). Əsas deyil, əksinə səslərdən bir səsdir. الرُّلُعَاق (ar-ruaq) – erkək heyvanın cinsiyyət orqanından çıxan səsdir, necə ki dişi heyvanın cinsiyyət yerindən رَعِيق (raiq) səsi eşidilir. Deyirsən: رَعَقَ رَعْقاً وَرُعَاقاً (raafa raqan va ruaqan).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الرُّعَاق» sözü tərcümədə «الرُّلُعَاق» kimi yanlış yazılıb.",
+  "Ərəbcə sitatların hərəkələri dəyişdirilib."
+ ],
+ "review_ts": "2026-11-18T07:29:47.073Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 381
  },
  "ar": "الراء والهمزة أصلٌ يدلُّ على اضطرابْ، يقال رأْرَأَت العينُ: إذا تحرَّكتْ من ضَعْفها. ورأْرأَت المرأةُ بعينها، إِذا بَرَّقَت. ورأْرأَ السّرابُ: جاء وذَهَب ولمح. وقالوا: رأْرَأْتُ بالغَنَم، إذا دَعَوْتَها. فأمّا الرّاءة فشجرَة، والجمع راءٌ.",
- "az": "[رأ] \nالراء والهمزة (ra və həmzə) narahatlığa dəlalət edən bir əsas mənadır. Deyilir: رأْرَأَت العينُ (rə`rəəti əl-aynü) — göz zəifliyindən hərəkət etdiyi zaman. Və رأْرَأَت المرأةُ بعينها (rə`rəəti əl-mər'ətu bi-ayniha) — qadın gözünü bərqldirdikdə (parıldatdıqda). Və رأْرَأَ السّرابُ (rə`rəə əs-sərabu) — səra gəlib-getdi və parıldadı. Dedilər: رأْرَأْتُ بالغَنَم (rə`rə'tü bil-ğənəm) — qoyunları çağırdığınız zaman. الرّاءة (ər-raəh) ağacdır, cəmi isə راءٌ (raun) olur.",
+ "az": "[رأ]\nالراء والهمزة (ra və həmzə) titrəməyə (qeyri-sabit hərəkətə) dəlalət edən bir əsas mənadır. Deyilir: رأْرَأَت العينُ (rə'rəət əl-aynü) — göz zəifliyindən hərəkət etdiyi zaman. Və رأْرَأَت المرأةُ بعينها (rə'rəət əl-mər'ətu bi-ayniha) — qadın gözünü parıldatdıqda. Və رأْرَأَ السّرابُ (rə'rəə əs-sərabu) — ilğım (sərab) gəlib-getdi və parıldadı. Dedilər: رأْرَأْتُ بالغَنَم (rə'rə'tü bil-ğənəm) — qoyunları çağırdığın zaman. الرّاءة (ər-raə) sözünə gəldikdə isə, bu bir ağacdır, cəmi راءٌ (raun) olur.",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:28:01.920Z"
+ "ts": "2026-10-25T01:28:01.920Z",
+ "prev_az": "[رأ] \nالراء والهمزة (ra və həmzə) narahatlığa dəlalət edən bir əsas mənadır. Deyilir: رأْرَأَت العينُ (rə`rəəti əl-aynü) — göz zəifliyindən hərəkət etdiyi zaman. Və رأْرَأَت المرأةُ بعينها (rə`rəəti əl-mər'ətu bi-ayniha) — qadın gözünü bərqldirdikdə (parıldatdıqda). Və رأْرَأَ السّرابُ (rə`rəə əs-sərabu) — səra gəlib-getdi və parıldadı. Dedilər: رأْرَأْتُ بالغَنَم (rə`rə'tü bil-ğənəm) — qoyunları çağırdığınız zaman. الرّاءة (ər-raəh) ağacdır, cəmi isə راءٌ (raun) olur.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«اضطرابْ» sözü kontekstə uyğun olmayan «narahatlığa» kimi tərcümə edilmişdir.",
+  "«بَرَّقَت» və «السّرابُ» sözlərinin tərcüməsində «bərqldirdikdə» və «səra» kimi orfoqrafik səhvlər var.",
+  "«فأمّا» bağlayıcısı tərcümədə buraxılmışdır."
+ ],
+ "review_ts": "2026-11-18T07:22:36.509Z"
 }

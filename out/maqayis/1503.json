@@ -13,5 +13,7 @@
  "ar": "الراء والطاء والواو ليس بشئ. وربما قالوا: رطاها ورطأها، إذا جامَعَها. وممّا يقرب [من] هذا فى الضّعف قولُهم للأحمق: رطِىٌّ.",
  "az": "[رطو] (rə-tə-v). Heç bir əsası yoxdur. Bəzən رَطَاهَا وَرَطَأَهَا (rataha və rataaha) – yəni onunla yaxınlıq etdi, deyirlər. Zəiflikdə buna yaxın olanlardandır ki, axmağa رَطِيٌّ (ratiyyun) deyirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:30.016Z"
+ "ts": "2026-10-25T01:29:30.016Z",
+ "review_attempts": 1,
+ "review_last_error": "qısa (157 < 199)"
 }

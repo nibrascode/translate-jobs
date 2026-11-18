@@ -11,7 +11,17 @@
   "page_to": 391
  },
  "ar": "الراء والزاء والحاء أصلٌ يدلُّ على ضعْفٍ وفُتور. فيقولون رَزَح، إذا أعيا؛ وهى إِبلٌ مَرازيحُ، ورَزْحَى، ورَزَاحَى (٢). ويقولون إن أصله المِرْزَح، وهو ما تواضَعَ من الأرض واطمأَنَّ.\nوذُكر فى الباب كلامٌ آخرُ ليس من القياس المذكور، قال الشَّيبانىّ:\nالمِرْزِيح: الصّوت. قال:\nذَرْذا ولكن تبصَّر هَلْ تَرى ظُعُناً … تُحْدَى، لِسَاقَتِها بالدَّوِّ مِرْزيحُ (٣)",
- "az": "[رزح] (Rə, zay və ha) zəifliyə və taqətsizliyə dəlalət edən bir əsasdır. Deyirlər: rəzəhə — yoruldu; bunlar mərazih, rəzhə və rəzahı dəvələrdir (٢). Deyirlər ki, bunun əsli yerin alçaq və düzənlik yeri olan əl-mirzəhdir. Bu fəsildə qeyd olunan ölçüyə (qaydaya) uyğun gəlməyən başqa bir söz də zikr olunmuşdur. Şeybani demişdir: Əl-mirzih — səsdir. O demişdir: ذَرْذا ولكن تبصَّر هَلْ تَرى ظُعُناً … تُحْدَى، لِسَاقَتِها بالدَّوِّ مِرْزيحُ (٣) (Tərk et, lakin bax gör, səfər üstündə olan dəvə karvanı görürsənmi... onları qovurlar, səhra düzündə onların sürücüsünün səsi var).",
+ "az": "[رزح] (ra, zay və ha) zəifliyə və taqətsizliyə dəlalət edən bir əsasdır. Deyirlər: رَزَح (rəzəhə) — yorulduqda deyilir; bunlar إِبلٌ مَرازيحُ، ورَزْحَى، ورَزَاحَى (yorğun mərazih, rəzha və rəzaha dəvələri) adlanır (٢). Deyirlər ki, bunun əsli yerin alçaq və düzənlik yeri olan المِرْزَح (əl-mirzəh) sözüdür.\nBu babda qeyd olunan qiyasa uyğun gəlməyən başqa bir söz də zikr olunmuşdur, Şeybani demişdir:\nالمِرْزِيح (əl-mirzih) — səsdir. O demişdir:\nذَرْذا ولكن تبصَّر هَلْ تَرى ظُعُناً … تُحْدَى، لِسَاقَتِها بالدَّوِّ مِرْزيحُ (٣)\n(Bunu tərk et, lakin bax gör, dəvə kəcavələri görürsənmi... onları qovurlar, səhra düzündə onların sürücüsünün səsi var).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:45.682Z"
+ "ts": "2026-10-25T01:28:45.682Z",
+ "prev_az": "[رزح] (Rə, zay və ha) zəifliyə və taqətsizliyə dəlalət edən bir əsasdır. Deyirlər: rəzəhə — yoruldu; bunlar mərazih, rəzhə və rəzahı dəvələrdir (٢). Deyirlər ki, bunun əsli yerin alçaq və düzənlik yeri olan əl-mirzəhdir. Bu fəsildə qeyd olunan ölçüyə (qaydaya) uyğun gəlməyən başqa bir söz də zikr olunmuşdur. Şeybani demişdir: Əl-mirzih — səsdir. O demişdir: ذَرْذا ولكن تبصَّر هَلْ تَرى ظُعُناً … تُحْدَى، لِسَاقَتِها بالدَّوِّ مِرْزيحُ (٣) (Tərk et, lakin bax gör, səfər üstündə olan dəvə karvanı görürsənmi... onları qovurlar, səhra düzündə onların sürücüsünün səsi var).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Baş sözlər ərəb qrafikası ilə verilməyib.",
+  "Şeirdəki «ذَرْذا» ifadəsinin tərcüməsində «bunu» sözü buraxılıb."
+ ],
+ "review_ts": "2026-11-18T07:24:26.846Z"
 }

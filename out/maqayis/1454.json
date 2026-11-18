@@ -11,7 +11,20 @@
   "page_to": 384
  },
  "ar": "الراء والثاء أصلٌ واحد يدلُّ على إخلاقٍ وسقوط. فالرَّثُّ:\nالخَلَق البالى. يقال حَبْلٌ (١) رثٌّ، وثوبٌ رثٌّ، ورجلٌ رثّ الهَيئة. وقد رَثّ يَرِثُّ رَثاثَةً ورُثوثةً. والرِّثَّة: أسقاط البيت * من الخُلقْانِ، والجمع رِثَثٌ وأمَّا قولهم ارتُثَّ فى المعركة، فهو من هذا، وذلك أنَّ الجريح يسقُط كما تسقط الرِّثَّة ثم يُحمَل وهو رِثيثٌ.\nومن الباب [الرِّثَّةُ (٢)]، وهم الضعفاء من الناس. ويقال الرِّثَّة: المرأةُ الحمقاء. فإِن صحّ ذلك فهو من الباب.",
- "az": "«رث» — ra və sə bir əslə malik olub köhnəlməyə və düşməyə dəlalət edir. الرَّثُّ (ərt) — köhnə və çürümüş [şey]. Deyilir: حَبْلٌ (١) رثٌّ (rəss ip), وثوبٌ رثٌّ (köhnə paltar), ورجلٌ رثّ الهَيئة (görkəmi səfil olan kişi). رَثَّ يَرِثُّ رَثاثَةً وَرُثوثَةً [feili] olub. وَالرِّثَّة (irrissə) — ev əşyalarının köhnəlmiş qırıntılarıdır, cəmi رِثَثٌ (risəs) gəlir. Döyüşdə yaralanıb yıxılmağa gəldikdə isə, ارتُثَّ (urtussə) buradan götürülmüşdür; bu ona görədir ki, yaralı şəxs məhz irrişə kimi yerə düşür, sonra isə yaralı halda daşınır. Bu qəbildəndir: الرِّثَّةُ (٢) — insanlardan olan zəif-acizlər. Deyilir ki, الرِّثَّة — axmaq qadındır. Əgər bu səhihdirsə, deməli, həmin kökəndəndir.",
+ "az": "[رث]\nالراء والثاء (ra və sa) bir əslə malik olub köhnəlməyə və düşməyə dəlalət edir. الرَّثُّ (ər-rəss) — köhnə və çürümüşdür. Deyilir: حَبْلٌ (١) رثٌّ (köhnəlmiş ip), ثوبٌ رثٌّ (köhnə paltar), رجلٌ رثّ الهَيئة (görkəmi səfil olan kişi). رَثّ يَرِثُّ رَثاثَةً ورُثوثةً (köhnəldi, köhnəlir, köhnəlmə). الرِّثَّة (ər-rissə) — ev əşyalarının köhnəlmiş qırıntılarıdır, cəmi رِثَثٌ (risəs) gəlir. Döyüşdə ارتُثَّ (urtussə — yaralanıb yıxıldı) deyilməsinə gəldikdə isə, o da buradandır; belə ki, yaralı şəxs الرِّثَّة (ər-rissə) kimi yerə düşür, sonra isə رِثيثٌ (rəsis — yaralı) halda daşınır.\nBu babdandır: [الرِّثَّةُ (٢)] (ər-rissə) — insanlardan olan zəif-acizlərdir. Deyilir ki, الرِّثَّة (ər-rissə) — axmaq qadındır. Əgər bu səhihdirsə, deməli, bu babdandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:24.395Z"
+ "ts": "2026-10-25T01:28:24.395Z",
+ "prev_az": "«رث» — ra və sə bir əslə malik olub köhnəlməyə və düşməyə dəlalət edir. الرَّثُّ (ərt) — köhnə və çürümüş [şey]. Deyilir: حَبْلٌ (١) رثٌّ (rəss ip), وثوبٌ رثٌّ (köhnə paltar), ورجلٌ رثّ الهَيئة (görkəmi səfil olan kişi). رَثَّ يَرِثُّ رَثاثَةً وَرُثوثَةً [feili] olub. وَالرِّثَّة (irrissə) — ev əşyalarının köhnəlmiş qırıntılarıdır, cəmi رِثَثٌ (risəs) gəlir. Döyüşdə yaralanıb yıxılmağa gəldikdə isə, ارتُثَّ (urtussə) buradan götürülmüşdür; bu ona görədir ki, yaralı şəxs məhz irrişə kimi yerə düşür, sonra isə yaralı halda daşınır. Bu qəbildəndir: الرِّثَّةُ (٢) — insanlardan olan zəif-acizlər. Deyilir ki, الرِّثَّة — axmaq qadındır. Əgər bu səhihdirsə, deməli, həmin kökəndəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı «[رث]» formatı əvəzinə «رث» şəklində verilib.",
+  "«الرَّثُّ» sözünün transkripsiyası «ərt», «الرِّثَّة» sözünün transkripsiyası isə «irrissə» və «irrişə» kimi səhv yazılıb.",
+  "«رَثّ يَرِثُّ رَثاثَةً ورُثوثةً» cümləsinin mənası verilməyib, yerinə «[feili] olub» yazılıb.",
+  "«وهو رِثيثٌ» ifadəsinin ərəbcəsi və transkripsiyası buraxılıb.",
+  "«[الرِّثَّةُ (٢)]» sözünün transkripsiyası və mötərizələri buraxılıb."
+ ],
+ "review_ts": "2026-11-18T07:23:25.919Z"
 }

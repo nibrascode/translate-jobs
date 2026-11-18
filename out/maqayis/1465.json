@@ -11,7 +11,18 @@
   "page_to": 390
  },
  "ar": "الراء والزاء [والهمزة] أصلٌ واحدٌ يدلُّ على إصابة الشئ والذَّهاب به. ما رزَأتُه شيئاً، أى لم أُصِبْ منه خيراً. والرُّزْء: المصيبة، والجمع الأرزاء. قال:\nوأرى أرْبَدَ قد فارَقنِى … ومِنَ الأرزاءِ رُزْءٌ ذُو جَلَلْ (٣)\nوكريمٌ مُرَزَّا (٤): تصيب الناسُ مِنْ خَيْره.",
- "az": "[رزأ] (Rə, zay və həmzə) bir şeyə toxunmağa və onu aparmağa dəlalət edən tək bir əsasdır. ما رزَأتُه شيئاً — yəni mən ondan heç bir xeyir görmədim. Ər-rüzü — müsibət, cəmi ərzaudur. [Şair] demişdir: وأرى أرْبَدَ قد فارَقنِى … ومِنَ الأرزاءِ رُزءٌ ذُو جَلَلْ (٣) (Gөрürəm ki, Ərbəd məni tərk etdi... Müsibətlərdən də böyük bir müsibət var). Kərimun mürəzza (٤) — insanlar xeyrindən bəhrələnən kərim (səxavətli) şəxs.",
+ "az": "[رزأ] (ra, zay və [həmzə]) bir şeyə toxunmağa və onu aparmağa dəlalət edən tək bir əsasdır. ما رزَأتُه شيئاً (ona heç nə etmədim / ondan heç nə almadım), yəni mən ondan heç bir xeyir görmədim. الرُّزْء (ər-rüz) — müsibət, cəmi الأرزاء (əl-ərza) gəlir. [Şair] demişdir:\nوأرى أرْبَدَ قد فارَقنِى … ومِنَ الأرزاءِ رُزْءٌ ذُو جَلَلْ (٣)\n(Görürəm ki, Ərbəd məni tərk etdi... Müsibətlərdən də böyük bir müsibət var).\nكريمٌ مُرَزَّا (٤) (insanların bəhrələndiyi səxavətli şəxs) — insanlar onun xeyrindən bəhrələnirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:45.682Z"
+ "ts": "2026-10-25T01:28:45.682Z",
+ "prev_az": "[رزأ] (Rə, zay və həmzə) bir şeyə toxunmağa və onu aparmağa dəlalət edən tək bir əsasdır. ما رزَأتُه شيئاً — yəni mən ondan heç bir xeyir görmədim. Ər-rüzü — müsibət, cəmi ərzaudur. [Şair] demişdir: وأرى أرْبَدَ قد فارَقنِى … ومِنَ الأرزاءِ رُزءٌ ذُو جَلَلْ (٣) (Gөрürəm ki, Ərbəd məni tərk etdi... Müsibətlərdən də böyük bir müsibət var). Kərimun mürəzza (٤) — insanlar xeyrindən bəhrələnən kərim (səxavətli) şəxs.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümədə kiril əlifbasının hərfi («Gөрürəm») işlənib.",
+  "Baş sözlər ərəb qrafikası ilə verilməyib.",
+  "Şeir beytində «رُزْءٌ» sözünün sükun hərəkəsi düşüb."
+ ],
+ "review_ts": "2026-11-18T07:24:26.846Z"
 }

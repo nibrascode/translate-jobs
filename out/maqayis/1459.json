@@ -11,7 +11,18 @@
   "page_to": 387
  },
  "ar": "الراء والذال كلمةٌ واحدةٌ تدلُّ على مطرٍ ضعيف. فالرَّذَاذ:\nالمطر الضعيف. يقال يومٌ مُرِذٌّ، أى ذو رَذَاذٍ. ويقال أرضٌ مُرَذٌّ عليها. قال الأصمعىّ: لا يقال مُرَذٌّ ولا مَرذُوذة، ولكن يقال مُرَذٌّ عليها. وكان الكسائىُّ يقول: هى أرض مُرَذَّةٌ. واللّه أعلم",
- "az": "«رذ» — ra və zal zəif yağışa dəlalət edən tək bir kəlmədir. وَالرَّذَاذ (ərrəzaz) — zəif yağışdır. Deyilir: يومٌ مُرِذٌّ (müriz gün), yəni rəzazı (zəif yağışı) olan [gün]. Deyilir: أرضٌ مُرَذٌّ عليها (üzərinə zəif yağış yağan torpaq). Əsməi demişdir: مَرِذٌّ (məriz) və مَرذُوذة (mərzuzə) deyilməz, lakin مُرَذٌّ عليها (mürazun aleyha) denilər. Kisaei isə deyirdi ki, o, أرض مُرَذَّةٌ (müzəzzə torpaqdır) [orijinalda: مُرَذَّةٌ]. Allah daha yaxşı bilir.",
+ "az": "[رذ]\nRa və zal zəif yağışa dəlalət edən tək bir kəlmədir. الرَّذَاذ (ərrəzaz):\nzəif yağışdır. Deyilir: يومٌ مُرِذٌّ (mürizz gün), yəni rəzazı (zəif yağışı) olan [gün]. Deyilir: أرضٌ مُرَذٌّ عليها (üzərinə zəif yağış yağan torpaq). Əsməi demişdir: مُرَذٌّ (mürəzz) və مَرذُوذة (mərzuzə) deyilməz, lakin مُرَذٌّ عليها (mürəzzun aleyha) deyilər. Kisai isə deyirdi ki, o, أرض مُرَذَّةٌ (mürəzzə torpaqdır). Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:24.395Z"
+ "ts": "2026-10-25T01:28:24.395Z",
+ "prev_az": "«رذ» — ra və zal zəif yağışa dəlalət edən tək bir kəlmədir. وَالرَّذَاذ (ərrəzaz) — zəif yağışdır. Deyilir: يومٌ مُرِذٌّ (müriz gün), yəni rəzazı (zəif yağışı) olan [gün]. Deyilir: أرضٌ مُرَذٌّ عليها (üzərinə zəif yağış yağan torpaq). Əsməi demişdir: مَرِذٌّ (məriz) və مَرذُوذة (mərzuzə) deyilməz, lakin مُرَذٌّ عليها (mürazun aleyha) denilər. Kisaei isə deyirdi ki, o, أرض مُرَذَّةٌ (müzəzzə torpaqdır) [orijinalda: مُرَذَّةٌ]. Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «رذ» yerinə [رذ] formatı ilə başlamalıdır.",
+  "«لا يقال مُرَذٌّ» ifadəsindəki «مُرَذٌّ» sözü «مَرِذٌّ» kimi səhv köçürülüb.",
+  "Mətnə «[orijinalda: مُرَذَّةٌ]» kimi əlavə redaktor qeydi daxil edilib və «denilər» kimi səhv yazılış var."
+ ],
+ "review_ts": "2026-11-18T07:23:28.197Z"
 }

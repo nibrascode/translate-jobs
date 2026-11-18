@@ -11,7 +11,20 @@
   "page_to": 388
  },
  "ar": "الراء والزاء والقاف أُصَيْلٌ واحدٌ يدلُّ على عَطاءِ لوَقت، ثم يُحمَل عليه غير الموقوت. فالرِّزْق: عَطاء اللّه جلَّ ثناؤُه. ويقال رَزَقه اللّه رَزْقاً، والاسم الرِّزْق. [والرِّزْق] بلغة أزْدِ شُنوءَة: الشُّكر، من قوله جلّ ثناؤه:\n﴿وَتَجْعَلُونَ رِزْقَكُمْ﴾. وفعلتُ ذلك لمَّا رزَقْتَنى، أى لمَّا شكَرْتَنى.",
- "az": "«رزق» — ra, zay və qaf müəyyən vaxt üçün verilən əta/bəxşişə dəlalət edən kiçik bir kökdür, sonra isə vaxtı təyin olunmamış şeylər də buna şamil edilir. وَالرِّزْق (ir-rizq) — Uca Allahın ətasıdır. Deyilir: رَزَقه اللّه رَزْقاً (Allah ona ruzi verdi), isim olaraq isə الرِّزْقdur. Əzd Şunəuə dilində [və ya ləhcəsində] الرِّزْق (ir-rizq) — şükür deməkdir; Uca Allahın bu kəlamından götürülmüşdür: ﴿وَتَجْعَلُونَ رِزْقَكُمْ﴾ (mənaca tərcümə: «Və ruzinizi [şükrünüzü] yalançılıq edirsiniz?») [Vaqiə, 82]. Mən bunu sənin mənə ruzi verdiyin [şükür etdiyim] zaman etdim, yəni mənə şükür etdiyin zaman.",
+ "az": "[رزق] (ra, zay və qaf) müəyyən vaxt üçün verilən ətaya (bəxşişə) dəlalət edən kiçik bir kökdür, sonra isə vaxtı təyin olunmamış şeylər də buna şamil edilir. فالرِّزْق (ruzi) — Uca Allahın ətasıdır. Deyilir: رَزَقه اللّه رَزْقاً (Allah ona ruzi verdi), isim isə الرِّزْق (ruzi) sözüdür. Əzd Şənuə ləhcəsində [الرِّزْق] (ruzi) — şükür deməkdir; Uca Allahın bu kəlamından götürülmüşdür:\n﴿وَتَجْعَلُونَ رِزْقَكُمْ﴾ (mənaca tərcümə: «Və ruzinizi [şükrünüzü] ... edirsiniz»). فعلتُ ذلك لمَّا رزَقْتَنى (mən bunu sən mənə ruzi verdiyin zaman etdim), yəni لمَّا شكَرْتَنى (mənə şükür etdiyin zaman).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:24.395Z"
+ "ts": "2026-10-25T01:28:24.395Z",
+ "prev_az": "«رزق» — ra, zay və qaf müəyyən vaxt üçün verilən əta/bəxşişə dəlalət edən kiçik bir kökdür, sonra isə vaxtı təyin olunmamış şeylər də buna şamil edilir. وَالرِّزْق (ir-rizq) — Uca Allahın ətasıdır. Deyilir: رَزَقه اللّه رَزْقاً (Allah ona ruzi verdi), isim olaraq isə الرِّزْقdur. Əzd Şunəuə dilində [və ya ləhcəsində] الرِّزْق (ir-rizq) — şükür deməkdir; Uca Allahın bu kəlamından götürülmüşdür: ﴿وَتَجْعَلُونَ رِزْقَكُمْ﴾ (mənaca tərcümə: «Və ruzinizi [şükrünüzü] yalançılıq edirsiniz?») [Vaqiə, 82]. Mən bunu sənin mənə ruzi verdiyin [şükür etdiyim] zaman etdim, yəni mənə şükür etdiyin zaman.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [رزق] formatında deyil.",
+  "«فالرِّزْق» sözü «وَالرِّزْق» kimi dəyişdirilib və mənası əvəzinə tələffüzü verilib.",
+  "«أزْدِ شُنوءَة» ifadəsi «Əzd Şunəuə» kimi səhv transkripsiya edilib.",
+  "Quran ayəsinə AR-da olmayan sözlər («yalançılıq edirsiniz?» və surə adı) əlavə edilib.",
+  "«لمَّا رزَقْتَنى» ifadəsinin tərcüməsində «şükür etdiyim» şəxs əvəzliyi səhv verilib."
+ ],
+ "review_ts": "2026-11-18T07:24:26.844Z"
 }

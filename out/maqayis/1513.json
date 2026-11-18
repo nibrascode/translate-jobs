@@ -11,7 +11,17 @@
   "page_to": 410
  },
  "ar": "الراء والعَين والثاء أصلٌ واحد، وهو تزيُّنُ شئِ بشئ.\nفالرَّعَث: العِهْن من الصَّوف، وهو يزيَّن به (٢). والرِّعاث: القِرَطة، واحدتها رعثة (٣). وفى كتاب الخليل: الرِّعاث: ضَربٌ من الخرَز والْحَلى. قال:\n* وما حُلِّيَتْ إلاَّ الرِّعاثَ المُعَقَّدا *\nومما شُبِّه بهذا وحُمل عليه: رَعْثة الدِّيك، وهى عُثْنُونُه، كأنّها شُبِّهت برَعَث العهن. قال:\n* مِنْ صَوتِ ذِى رَعَثُاثٍ ساكنِ الدَّارِ (٤) *",
- "az": "[رعث] (ra, ayn, sə) — tək bir əsasdır, o da bir şeyin başqa bir şeylə bəzədilməsidir. الرَّعَث (rəəb) – yun kətanı/ipəyidir ki, onunla bəzədilər (٢). الرِّعاث (riab) – sırğalar, təki رَعْثة (rəəb) olar (٣). Xəlil kitabında demişdir: الرِّعاث (riab) – muncuq və bəzək növləridir. O demişdir: * وما حُلِّيَتْ إلاَّ الرِّعاثَ المُعَقَّدا * (Və bəzənmədi yalnız düyünlü sırğalarla). Buna bənzədilən və üzərinə daşınan şeylərdən biri də xoruzun رَعْثة (rəəb) – yəni çənə altındakı əti, sanki o, yun rəətinə bənzədilmişdir. O demişdir: * مِنْ صَوتِ ذِى رَعَثُاثٍ ساكنِ الدَّارِ (٤) * (Ev sakininin rəəsas sahibinin səsindən).",
+ "az": "[رعث] (ra, ayn, sa) — bir şeyin başqa bir şeylə bəzədilməsinə dəlalət edən tək bir əsasdır.\nالرَّعَث (ər-rəəs): boyanmış yundur ki, onunla bəzənərlər (٢). والرِّعاث (ər-riəs): sırğalardır, təki رَعْثة (rəəsə) olar (٣). Xəlilinin kitabında deyilir: الرِّعاث (ər-riəs) – muncuq və bəzək növləridir. Şair demişdir:\n* وما حُلِّيَتْ إلاَّ الرِّعاثَ المُعَقَّدا *\n(Və o, yalnız düyünlü sırğalarla bəzəndi).\nBuna bənzədilən və onun mənasına aid edilənlərdən biri də رَعْثة الدِّيك (xoruzun saqqalı/əti) – yəni onun çənə altındakı ətidir, sanki o, boyanmış yun bəzəyinə bənzədilmişdir. Şair demişdir:\n* مِنْ صَوتِ ذِى رَعَثُاثٍ ساكنِ الدَّارِ (٤) *\n(Ev sakini olan xoruzun səsindən).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:50.330Z"
+ "ts": "2026-10-25T01:29:50.330Z",
+ "prev_az": "[رعث] (ra, ayn, sə) — tək bir əsasdır, o da bir şeyin başqa bir şeylə bəzədilməsidir. الرَّعَث (rəəb) – yun kətanı/ipəyidir ki, onunla bəzədilər (٢). الرِّعاث (riab) – sırğalar, təki رَعْثة (rəəb) olar (٣). Xəlil kitabında demişdir: الرِّعاث (riab) – muncuq və bəzək növləridir. O demişdir: * وما حُلِّيَتْ إلاَّ الرِّعاثَ المُعَقَّدا * (Və bəzənmədi yalnız düyünlü sırğalarla). Buna bənzədilən və üzərinə daşınan şeylərdən biri də xoruzun رَعْثة (rəəb) – yəni çənə altındakı əti, sanki o, yun rəətinə bənzədilmişdir. O demişdir: * مِنْ صَوتِ ذِى رَعَثُاثٍ ساكنِ الدَّارِ (٤) * (Ev sakininin rəəsas sahibinin səsindən).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb sözlərinin transkripsiyasında ث hərfi səhvən «b» kimi göstərilmişdir.",
+  "«العِهْن من الصَّوف» ifadəsi yanlış tərcümə olunmuşdur."
+ ],
+ "review_ts": "2026-11-18T07:37:37.229Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 388
  },
  "ar": "الراء والزاء والفاء كلمتان تدلُّ إحداهُما على الإسراع، والأخرى على الهُزَال.\nفأمّا الأولى فالإرزاف الإسراع، كذا حدَّثنا به علىُّ بن إِبراهيم، عن ابن عبد العزيز، عن أبى عُبيدٍ عن الشَّيبانىّ. وحدَّثَنا به عن الخليل بالإسناد الذى ذكرناه: أرْزَفَ القومُ: أسرَعُوا، بتقديم الرّاء على الزّاء، واللّه أعلم. قال الأصمعىّ: رَزَفَت النَّاقةُ: أسرعَت؛ وأرزفْتُها أنا، إذا أخْبَبْتُها (٣) فى السَّير.\nوالكلمة الأخرى الرَّزَفُ: الهُزَال، وذكر فيه شعرٌ ما أدرى كيف صِحّتُه:\nيا أبا النَّضْر تَحَمَّلْ عَجَفِى … إنْ لم تَحَمَّلْهُ فقد جَارَزِفى",
- "az": "«رزف» — ra, zay və fa [hərfləri] iki kəlmə olub, biri tələsikliyə, digəri isə arıqlığa dəlalət edir. Birinciyə gəldikdə, İrziaf (الإرزاف) tələsməkdir, bunu bizə Əli ibn İbrahim Əbdüləzizdən, o da Əbu Übeyddən, o da Şeybanidən belə nəql etmişdir. Xəlildən də bizə yuxarıda zikr etdiyimiz isnadla nəql etmişdir: أرزَفَ القومُ (qövm tələsdi): tələsdilər, ra [hərfi] zaydan [əvvəl] təqdim edilməklə, Allah daha yaxşı bilir. Əsməi demişdir: رَزَفَت النَّاقةُ (dəvə tez yeridi): dəvə tələsdi; və mən dəvəni tələsdirdim (أرزفْتُها أنا), gedişdə onu sürətləndirdim (٣). Digər kəlmə isə الرَّزَفُ (ərrəzəf) — arıqlıqdır, onun barəsində bir şeir də zikr olunmuşdur ki, onun nə dərəcədə səhih olduğunu bilmirəm: يا أبا النَّضْر تَحَمَّلْ عَجَفِى … إنْ لم تَحَمَّلْهُ فقد جَارَزِفى",
+ "az": "[رزف] (ra, zay və fa) iki kəlmə olub, biri tələsikliyə, digəri isə arıqlığa dəlalət edir.\nBirinciyə gəldikdə, الإرزاف (irzaf) tələsməkdir, bunu bizə Əli ibn İbrahim İbn Əbdüləzizdən, o da Əbu Übeyddən, o da Şeybanidən belə nəql etmişdir. Xəlildən də bizə yuxarıda zikr etdiyimiz isnadla nəql etmişdir: أرْزَفَ القومُ (qövm tələsdi): أسرَعُوا (tələsdilər), ra [hərfi] zaydan [əvvəl] təqdim edilməklə, Allah daha yaxşı bilir. Əsməi demişdir: رَزَفَت النَّاقةُ (dəvə tələsdi): أسرعَت (sürətlə getdi); və أرزفْتُها أنا (mən onu tələsdirdim), gedişdə أخْبَبْتُها (٣) (onu yortma yerişlə sürətləndirdim).\nDigər kəlmə isə الرَّزَفُ (ər-rəzəf) — arıqlıqdır, onun barəsində bir şeir də zikr olunmuşdur ki, onun nə dərəcədə səhih olduğunu bilmirəm:\nيا أبا النَّضْر تَحَمَّلْ عَجَفِى … إنْ لم تَحَمَّلْهُ فقد جَارَزِفى\n(Ey Əbu ən-Nədr, arıqlığıma döz... əgər ona dözməsən, artıq zəiflik/acı hal üz verdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:24.395Z"
+ "ts": "2026-10-25T01:28:24.395Z",
+ "prev_az": "«رزف» — ra, zay və fa [hərfləri] iki kəlmə olub, biri tələsikliyə, digəri isə arıqlığa dəlalət edir. Birinciyə gəldikdə, İrziaf (الإرزاف) tələsməkdir, bunu bizə Əli ibn İbrahim Əbdüləzizdən, o da Əbu Übeyddən, o da Şeybanidən belə nəql etmişdir. Xəlildən də bizə yuxarıda zikr etdiyimiz isnadla nəql etmişdir: أرزَفَ القومُ (qövm tələsdi): tələsdilər, ra [hərfi] zaydan [əvvəl] təqdim edilməklə, Allah daha yaxşı bilir. Əsməi demişdir: رَزَفَت النَّاقةُ (dəvə tez yeridi): dəvə tələsdi; və mən dəvəni tələsdirdim (أرزفْتُها أنا), gedişdə onu sürətləndirdim (٣). Digər kəlmə isə الرَّزَفُ (ərrəzəf) — arıqlıqdır, onun barəsində bir şeir də zikr olunmuşdur ki, onun nə dərəcədə səhih olduğunu bilmirəm: يا أبا النَّضْر تَحَمَّلْ عَجَفِى … إنْ لم تَحَمَّلْهُ فقد جَارَزِفى",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [رزف] formatında deyil.",
+  "«ابن عبد العزيز» (İbn Əbdüləziz) adı «Əbdüləziz» kimi səhv verilib.",
+  "Baş sözlər ərəb qrafikası ilə verilməyib və «أرْزَفَ» sözünün sükun hərəkəsi düşüb.",
+  "Şeir beyti tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-18T07:24:26.843Z"
 }

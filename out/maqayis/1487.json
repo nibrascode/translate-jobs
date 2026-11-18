@@ -11,7 +11,17 @@
   "page_to": 399
  },
  "ar": "الراء والصاد والغين ليس أصلاً. لكنّ الخليل قال: الرُّصْغ لغةٌ فى الرُّسغ.",
- "az": "«رصغ» (Rə-s-ğ): Ra, sad və ğayn əsas deyil. Lakin Xəlil demişdir: الرُّصْغ (Rusğ) الرُّسغ (rusğ) lüğətində bir lüğətdir.",
+ "az": "[رصغ]\nالراء والصاد والغين əsl (müstəqil kök) deyildir. Lakin Xəlil demişdir: الرُّصْغ kəlməsi الرُّسغ (əldə bilək, ayaqda topuq oynağı) sözünün bir variantıdır (ləhcəsidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:08.225Z"
+ "ts": "2026-10-25T01:29:08.225Z",
+ "prev_az": "«رصغ» (Rə-s-ğ): Ra, sad və ğayn əsas deyil. Lakin Xəlil demişdir: الرُّصْغ (Rusğ) الرُّسغ (rusğ) lüğətində bir lüğətdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil.",
+  "«الرُّصْغ لغةٌ فى الرُّسغ» cümləsi «rusğ lüğətində bir lüğətdir» kimi tərcümə olunaraq anlaşılmaz hala salınıb (ər-rusğ kəlməsinin bir ləhcə variantıdır)."
+ ],
+ "review_ts": "2026-11-18T07:26:00.619Z"
 }

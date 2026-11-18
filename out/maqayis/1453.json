@@ -11,7 +11,18 @@
   "page_to": 384
  },
  "ar": "الراء والتاء ليس أصلاً، لكنَّهم يقولون: الرُّتَّة: العَجَلة فى الكلام. ويقال هى الحُكْلَة فيه. ويقولون: الرُّتُوت: الخنازير. وقال ابنُ الأعرابىّ: الرَّتُّ: الرئيس؛ والجمع رُتوتٌ. وكل هذا فممَّا ينبغى أن يُنظَر فيه.",
- "az": "«رت» — را və ta [hərfləri] əsl deyil, lakin deyirlər ki, الرُّتَّة (əرتَّة) — nitqdə tələsiklikdir. Həmçinin deyirlər ki, o, nitqdəki çətinlik və pəltəklikdir (الحُكْلَة). Deyirlər ki, الرُّتُوت (əرتوت) — donuzlardır. İbn əl-Ərəbi demişdir: الرَّتُّ (əرت) — başçıdır; cəmi isə رُتُوتٌ (rutut) gəlir. Bütün bunlar üzərində düşünülməli olanlardandır.",
+ "az": "[رت]\nالراء والتاء (ra və ta) əsl deyil, lakin deyirlər ki, الرُّتَّة (ər-ruttə) — nitqdə tələsiklikdir. Həmçinin deyirlər ki, o, nitqdəki çətinlik və pəltəklikdir (الحُكْلَة). Deyirlər ki, الرُّتُوت (ər-rutut) — donuzlardır. İbn əl-Ərəbi demişdir: الرَّتُّ (ər-rətt) — başçıdır; cəmi isə رُتوتٌ (rutut) gəlir. Bütün bunlar üzərində düşünülməli olanlardandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:24.395Z"
+ "ts": "2026-10-25T01:28:24.395Z",
+ "prev_az": "«رت» — را və ta [hərfləri] əsl deyil, lakin deyirlər ki, الرُّتَّة (əرتَّة) — nitqdə tələsiklikdir. Həmçinin deyirlər ki, o, nitqdəki çətinlik və pəltəklikdir (الحُكْلَة). Deyirlər ki, الرُّتُوت (əرتوت) — donuzlardır. İbn əl-Ərəbi demişdir: الرَّتُّ (əرت) — başçıdır; cəmi isə رُتُوتٌ (rutut) gəlir. Bütün bunlar üzərində düşünülməli olanlardandır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı «[رت]» formatı əvəzinə «رت» şəklində verilib.",
+  "«الراء والتاء» ifadəsində ərəb və latın qrafikası qarışdırılıb («را və ta»).",
+  "Transkripsiyalarda ərəb və latın hərfləri bir sözün içində qarışdırılıb («əرتَّة», «əرتوت», «əرت»)."
+ ],
+ "review_ts": "2026-11-18T07:23:25.919Z"
 }

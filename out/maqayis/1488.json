@@ -11,7 +11,19 @@
   "page_to": 399
  },
  "ar": "الراء والصاد والفاء أصلٌ واحدٌ منقاسٌ مطّرد، وهو ضمُّ الشئِ بعضِه إلى بعض. فالرَّصْف: ضَمُّ الحِجارة بعضِها إلى بعض. والحجارة نَفْسُها رَصَفٌ ومن ذلك رَصْف الصَّخْر فى البِناء. والرِّصَاف: العَقَبُ يُشَدّ على فُوقِ السَّهم.\nوحكى الخليل الرُّصَافَةَ والرَّصَفَةَ أيضاً. والرَّصوف: المرأة الصَّغيرة الفَرْج؛ وكأنّ ذلك من تَراصُفِ الشئ ويقال هذا أمرٌ لا يَرْصُفُ بك، أى لا يَليق. وعملٌ رصِيفٌ: مُحْكَم. وفلانٌ رصيفُ فلانٍ، أى يعارِضُه فى عمَله.",
- "az": "«رصف» (Rə-s-f): Ra, sad və fa bir şeyi digərinə birləşdirmək olan tək bir ölçülü, mütləq əsasdır. فالرَّصْف (Rəsf): Daşların bir-birinə birləşdirilməsidir. Və daşların özləri رَصَفٌ (rəsəf) adlanır. Və bundandır tikintidə qayaların رَصْف الصَّخْر (rəsfi) - düzülməsi. والرِّصَاف (Rişaf): Oxun başlığına bağlanan vətərdir. Və Xəlil الرُّصَافَةَ (Rüsafə) və الرَّصَفَةَ (Rəsəfə) də rəvayət etmişdir. والرَّصوف (Rəsuf): Cinsiyyət orqanı kiçik olan qadındır; və sanki bu, şeyin bir-birinə kip birləşməsindəndir. Və deyilir: هذا أمرٌ لا يَرْصُفُ بك (Bu, sənə yaraşmayan bir işdir), yəni layiq deyil. وعملٌ رصِيفٌ (Möhkəm iş): mükəmməldir. وفلانٌ رصيفُ فلانٍ (Filankəs filankəsin rəsifidir), yəni o, işində ona tay olur.",
+ "az": "[رصف]\nالراء والصاد والفاء bir şeyi digərinə birləşdirmək mənası verən qiyas olunan, ardıcıl tək bir əsasdır. فالرَّصْف: daşları bir-birinə bitişdirməkdir. Daşların özünə رَصَفٌ deyilir. Tikintidə qayaların düzülməsinə də رَصْف الصَّخْر deyilir. والرِّصَاف: oxun gəzinə sarınan vətərdir.\nXəlil الرُّصَافَةَ və الرَّصَفَةَ kəlmələrini də nəql etmişdir. والرَّصوف: uşaqlıq yolu dar olan qadındır; sanki bu, şeylərin bir-birinə kip yapışmasındandır. Deyilir: هذا أمرٌ لا يَرْصُفُ بك (bu sənə yaraşmayan bir işdir), yəni layiq deyildir. وعملٌ رصِيفٌ: möhkəm (mükəmməl) işdir. وفلانٌ رصيفُ فلانٍ: filankəs filankəsin tayıdır, yəni işində ona bərabərdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:08.225Z"
+ "ts": "2026-10-25T01:29:08.225Z",
+ "prev_az": "«رصف» (Rə-s-f): Ra, sad və fa bir şeyi digərinə birləşdirmək olan tək bir ölçülü, mütləq əsasdır. فالرَّصْف (Rəsf): Daşların bir-birinə birləşdirilməsidir. Və daşların özləri رَصَفٌ (rəsəf) adlanır. Və bundandır tikintidə qayaların رَصْف الصَّخْر (rəsfi) - düzülməsi. والرِّصَاف (Rişaf): Oxun başlığına bağlanan vətərdir. Və Xəlil الرُّصَافَةَ (Rüsafə) və الرَّصَفَةَ (Rəsəfə) də rəvayət etmişdir. والرَّصوف (Rəsuf): Cinsiyyət orqanı kiçik olan qadındır; və sanki bu, şeyin bir-birinə kip birləşməsindəndir. Və deyilir: هذا أمرٌ لا يَرْصُفُ بك (Bu, sənə yaraşmayan bir işdir), yəni layiq deyil. وعملٌ رصِيفٌ (Möhkəm iş): mükəmməldir. وفلانٌ رصيفُ فلانٍ (Filankəs filankəsin rəsifidir), yəni o, işində ona tay olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil.",
+  "«الرِّصَاف» kəlməsinin oxunuşu «Rişaf» kimi səhv yazılıb.",
+  "«فُوقِ السَّهم» ifadəsi oxun başlığı deyil, oxun gəzidir (kirişə keçən yarıq yeri).",
+  "«وعملٌ رصِيفٌ: مُحْكَم» cümləsi təhrif olunub."
+ ],
+ "review_ts": "2026-11-18T07:26:00.619Z"
 }

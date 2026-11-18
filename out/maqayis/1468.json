@@ -11,7 +11,17 @@
   "page_to": 391
  },
  "ar": "الراء والسين والعين أصلٌ يدلُّ على فَسادٍ. يقولون الرَّسَعُ: فَساد العَين. يقال رسَّعَ الرّجلُ فهو مُرَسِّع. ويقال رسَّعَتْ أعضاؤُه، إذا فَسَدَتْ.",
- "az": "[رسع] (Rə, sin və ayn) fəsada (pozulmaya) dəlalət edən bir əsasdır. Deyirlər: ər-rasə — gözün xəstələnməsi/pozulması. Deyilir: rəssəbər-ricülü, fehüvə mürəssic. Həmçinin deyilir ki, rəssəbət ə’dauhu — onun üzvləri zəiflədi/pozuldu.",
+ "az": "[رسع] (ra, sin və ayn) fəsada (pozulmaya) dəlalət edən bir əsasdır. Deyirlər: الرَّسَعُ (ər-rəsə) — gözün pozulması/xəstələnməsidir. Deyilir: رسَّعَ الرّجلُ فهو مُرَسِّع (kişinin gözü xəstələndi, o da gözü xəstələnən şəxsdir). Həmçinin deyilir: رسَّعَتْ أعضاؤُه (onun üzvləri pozuldu/zəiflədi), yəni فَسَدَتْ (pozuldu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:28:45.682Z"
+ "ts": "2026-10-25T01:28:45.682Z",
+ "prev_az": "[رسع] (Rə, sin və ayn) fəsada (pozulmaya) dəlalət edən bir əsasdır. Deyirlər: ər-rasə — gözün xəstələnməsi/pozulması. Deyilir: rəssəbər-ricülü, fehüvə mürəssic. Həmçinin deyilir ki, rəssəbət ə’dauhu — onun üzvləri zəiflədi/pozuldu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Baş sözlər ərəb qrafikası ilə verilməyib və transkripsiyada kobud oxunuş səhvləri («rəssəbər-ricülü», «rəssəbət») var.",
+  "«رسَّعَ الرّجلُ فهو مُرَسِّع» cümləsi tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-18T07:24:26.846Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الراء والغين أصلٌ يدلُّ على رَفاهة ورفاغَةٍ ونَعْمة. قال ابن الأعرابىِّ: الرَّغْرغة من رَفاغة العَيش. وأصلُ ذلك الرَّغْرَغة، وهو أنْ تَرِدَ الإبلُ على الماء فى اليوم مراراً. ومن الباب الرَّغيغة: طعامٌ يُتَّخَذُ للنُّفَساء. يقال هو لبَنٌ يُغْلَى ويُذَرُّ عليه دقيق.",
  "az": "[رغ] الراء (ra) və الغين (ğeyn) hərfləri rifah, rahatlıq və nemətə dəlalət edən bir kökdür. İbn əl-Ərabi dedi: الرَّغْرغة (ər-rəğrəğə) həyatın rahatlığındandır. Bunun əsli الرَّغْرغة (ər-rəğrəğə) olub, dəvələrin suya gündə bir neçə dəfə gəlməsidir. Bu babdandır الرَّغيغة (ər-rəğiğə): zahı qadın üçün hazırlanan yemək. Deyilir ki, bu, qaynadılan və üzərinə un səpilən süddür.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:25:01.822Z"
+ "ts": "2026-10-25T01:25:01.822Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T07:21:48.287Z"
 }

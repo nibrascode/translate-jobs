@@ -11,7 +11,18 @@
   "page_to": 395
  },
  "ar": "الراء والسين والحاء أُصيلٌ فيه كلمةٌ واحدة. الرَّسْحاء:\nالمرأة اللاصقة العَجُز، الصغيرةُ الأَلْيَتَين. ورجلٌ أرسحُ، والذِّئب أرْسَح.",
- "az": "«رسح» (Rə-s-h): Ra, sin və ha qısa bir əsas olub, onda tək bir kəlmə vardır. الرَّسْحاء (Ərsəha): Oturağı yapışıq, sağrıları kiçik olan qadındır. ورجلٌ أرسحُ (Arsuh kişi) və الذِّئب أرْسَح (canavar arsuhdur).",
+ "az": "[رسح]\nRa, sin və ha daxilində tək bir kəlmə olan kiçik bir əsasdır. الرَّسْحاء: sağrısı yastı, yanları kiçik olan qadındır. رجلٌ أرسحُ (sağrısı balaca/yastı kişi), والذِّئب أرْسَح (yanları arıq/cılız canavar).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:08.225Z"
+ "ts": "2026-10-25T01:29:08.225Z",
+ "prev_az": "«رسح» (Rə-s-h): Ra, sin və ha qısa bir əsas olub, onda tək bir kəlmə vardır. الرَّسْحاء (Ərsəha): Oturağı yapışıq, sağrıları kiçik olan qadındır. ورجلٌ أرسحُ (Arsuh kişi) və الذِّئب أرْسَح (canavar arsuhdur).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أُصيلٌ» sözünün mənası təhrif olunub («qısa bir əsas» yox, «kiçik bir əsas»).",
+  "«الرَّسْحاء» kəlməsi səhvən «Ərsəha» oxunub və sözün mənası natamam verilib.",
+  "«رجلٌ أرسحُ» və «الذِّئب أرْسَح» ibarələrindəki sifət tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-18T07:26:32.918Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الراء والطاء ليس هو بأصلٍ عندنا يقولون: الرَّطيط: الجَلَبة والصِّياح. وأَرَطَّ، إذا جَلَّب (٢). ويقال الرَّطيط: الأحمق. ويقال الإرْطاط:\nاللُّزوم (٣). وفى كلِّ ذلك نَظرٌ.",
  "az": "[رط] الراء (ra) və الطاء (ta) hərfləri bizə görə bir kök deyildir. Deyirlər ki, الرَّطيط (ər-rətit): səs-küy və qışqırıq. أَرَطَّ (ərətta) - səs-küy saldıqda deyilir (٢). Deyilir ki, الرَّطيط (ər-rətit): axmaq. Deyilir ki, الإرْطاط (əl-irtat): yapışmaq (٣). Bütün bunlarda nəzər (mübahisə) vardır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:25:01.822Z"
+ "ts": "2026-10-25T01:25:01.822Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T07:21:48.286Z"
 }
