@@ -11,7 +11,18 @@
   "page_to": 466
  },
  "ar": "الراء والياء والسين كلمتانِ متفاوتٌ ما بينَهما. فالرِّياس:\nقائم السَّيف (١). [قال]:\nإلى بَطَلَينِ يعثران كِلاهما … يُدِير رياس السَّيفِ والسّيفُ نادرُ\nوقال آخر:\n* ومِرْفَقٍ كرِيَاسِ السَّيْفِ إذ شَسَفَا (١) *\nوالكلمة الأخرى: الرَّيْسُ والرَّيَسَان: التَّبختُر. قال:\n* أتاهُمْ بينَ أرحُلِهمْ يَرِيسُ (٢) *",
- "az": "[ريس] الراء (الراء) və الياء (ياء) və السين (sin) — aralarında fərq olan iki sözdür. Əl-riyas (الرِّياس) — qılıncın dəstəyidir (1). [O dedi]: إلى بَطَلَينِ يعثران كِلاهما … يُدِير رياس السَّيفِ والسّيفُ نادرُ — (İki igidə tərəf ki, hər ikisi büdrəyir, qılıncın dəstəyini fırladırlar, halbuki qılınc itib gedir). Və başqa biri demişdir: *ومِرْفَقٍ كرِيَاسِ السَّيْفِ إذ شَسَفَا (١)* — (Qılıncın dəstəyi kimi quru və sərt dirsək...). Və digər söz: Ər-reys və ər-rəyəsan (الرَّيْسُ وَالرَّيَسَان) — lovğalanaraq çalım-çalım gəzmək, təkəbbürlə yerimək. Şair demişdir: *أتاهُمْ بينَ أرحُلِهمْ يَرِيسُ (٢)* — (Onların evləri [və ya yükləri] arasından lovğalanaraq onlara tərəf gəldi).",
+ "az": "[ريس] الراء (ra), الياء (ya) və السين (sin) — aralarında fərq olan iki sözdür. الرِّياس (ər-riyas) — qılıncın dəstəyidir (١). [Şair] demişdir:\nإلى بَطَلَينِ يعثران كِلاهما … يُدِير رياس السَّيفِ والسّيفُ نادرُ («Hər ikisi büdrəyən iki igidə tərəf [gedir]; qılıncın dəstəyini fırladır, halbuki qılınc qınından çıxıb düşür»).\nBaşqa biri demişdir:\n* ومِرْفَقٍ كرِيَاسِ السَّيْفِ إذ شَسَفَا (١) * («Quruyub sərtləşdikdə qılıncın dəstəyi kimi olan dirsək...»).\nDigər söz isə الرَّيْسُ (ər-rəys) və الرَّيَسَان (ər-rəyəsan) — lovğalanaraq çalım-çalım yeriməkdir. Şair demişdir:\n* أتاهُمْ بينَ أرحُلِهمْ يَرِيسُ (٢) * («Onların yükləri [və ya mənzilləri] arasından lovğalanaraq onlara tərəf gəldi»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:34:27.039Z"
+ "ts": "2026-10-25T01:34:27.039Z",
+ "prev_az": "[ريس] الراء (الراء) və الياء (ياء) və السين (sin) — aralarında fərq olan iki sözdür. Əl-riyas (الرِّياس) — qılıncın dəstəyidir (1). [O dedi]: إلى بَطَلَينِ يعثران كِلاهما … يُدِير رياس السَّيفِ والسّيفُ نادرُ — (İki igidə tərəf ki, hər ikisi büdrəyir, qılıncın dəstəyini fırladırlar, halbuki qılınc itib gedir). Və başqa biri demişdir: *ومِرْفَقٍ كرِيَاسِ السَّيْفِ إذ شَسَفَا (١)* — (Qılıncın dəstəyi kimi quru və sərt dirsək...). Və digər söz: Ər-reys və ər-rəyəsan (الرَّيْسُ وَالرَّيَسَان) — lovğalanaraq çalım-çalım gəzmək, təkəbbürlə yerimək. Şair demişdir: *أتاهُمْ بينَ أرحُلِهمْ يَرِيسُ (٢)* — (Onların evləri [və ya yükləri] arasından lovğalanaraq onlara tərəf gəldi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəbcə saxlanılıb.",
+  "Haşiyə rəqəmi (١) latın rəqəmi (1) ilə əvəz edilib.",
+  "Birinci beytin tərcüməsində «يُدِير» tək feili cəm kimi («fırladırlar»), «نادرُ» sözü isə «itib gedir» kimi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-18T17:46:35.457Z"
 }

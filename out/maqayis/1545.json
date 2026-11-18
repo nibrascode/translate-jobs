@@ -11,7 +11,18 @@
   "page_to": 425
  },
  "ar": "الراء والقاف واللام أصلان: أحدهما طولٌ فى شئِ والآخر ضرب من المشى.\nفأمّا الأوَّل فالرَّقْلُ: النَّخْل الطُّوال، واحدتها رَقْلة؛ وتجمع فى القِلّة رَقلات.\nوالرّاقُول: حَبْلٌ تُصَعد به النّخلة.\nوالأصل الثانى: أرْقَلَت النَّاقةُ، وهو ضربٌ من المشْى، وهى مُرْقِلٌ، ولا يكون إلاَّ بسرعة. وهاشم بن عُتْبَة المِرْقالُ (١)، لإرقاله كان فى الحروب. قال الرَّاجز، فى أرْقَلَت النَّاقة:\n* والمُرْقِلَاتِ كُلَّ سَهْبٍ سَمْلقٍ (٢) *",
- "az": "[رقل] (ra, قاف, lam). İki əsl vardır: biri bir şeydə uzunluq, diğəri isə gediş növüdür. Birincisinə gəldikdə, «الرَّقْلُ» — uzun xurma ağaclarıdır, təkli «رَقْلة»dir; azlıq bildirən cəmi «رَقْلات» gəlir. «الرّاقُول» — üzərinə çıxılaraq xurma ağacına dırmaşılan ipdir. İkinci əsl: «أرْقَلَت النَّاقةُ» — bu bir gediş növüdür, o, «مُرْقِلٌ»-dir və bu, yalnız sürətlə olur. Həşəm ibn Ütbə «الْمِرْقالُ» adlandırılmışdır (١), çünki o, müharibələrdə sürətlə gedərdi. Rəcəz yazan dəvənin sürətli gedişi haqqında demişdir: * والمُرْقِلَاتِ كُلَّ سَهْبٍ سَمْلقٍ (٢) * (Hər bir düzənli və səssiz səhranı sürətlə keçən [dəvələr]).",
+ "az": "[رقل]\nRa, qaf və lam iki əsldir: biri bir şeydə uzunluq, digəri isə gediş növüdür.\nBirincisinə gəldikdə, الرَّقْلُ (ər-rəql) uzun xurma ağaclarıdır, təkli رَقْلة (rəqlə)dir; azlıq bildirən cəmi رَقلات (rəqəlat) gəlir.\nالرّاقُول (ər-raqul) — xurma ağacına dırmaşılan ipdir.\nİkinci əsl: أرْقَلَت النَّاقةُ (ərqələt ən-naqətu) — bu bir gediş növüdür, o, مُرْقِلٌ (murqil)dir və bu, yalnız sürətlə olur. Haşim ibn Utbə müharibələrdə sürətlə getdiyi üçün المِرْقالُ (əl-Mirqal) adlandırılmışdır (١). Rəcəz şairi dəvənin sürətli gedişi haqqında demişdir:\n* والمُرْقِلَاتِ كُلَّ سَهْبٍ سَمْلقٍ (٢) *\n(Hər bir düz və bitkisiz səhranı sürətlə keçən [dəvələr]).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:31.379Z"
+ "ts": "2026-10-25T01:30:31.379Z",
+ "prev_az": "[رقل] (ra, قاف, lam). İki əsl vardır: biri bir şeydə uzunluq, diğəri isə gediş növüdür. Birincisinə gəldikdə, «الرَّقْلُ» — uzun xurma ağaclarıdır, təkli «رَقْلة»dir; azlıq bildirən cəmi «رَقْلات» gəlir. «الرّاقُول» — üzərinə çıxılaraq xurma ağacına dırmaşılan ipdir. İkinci əsl: «أرْقَلَت النَّاقةُ» — bu bir gediş növüdür, o, «مُرْقِلٌ»-dir və bu, yalnız sürətlə olur. Həşəm ibn Ütbə «الْمِرْقالُ» adlandırılmışdır (١), çünki o, müharibələrdə sürətlə gedərdi. Rəcəz yazan dəvənin sürətli gedişi haqqında demişdir: * والمُرْقِلَاتِ كُلَّ سَهْبٍ سَمْلقٍ (٢) * (Hər bir düzənli və səssiz səhranı sürətlə keçən [dəvələr]).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı ərəb qrafikası ilə («قاف») tərcüməsiz qalmışdır.",
+  "«هاشم بن عُتْبَة» adı «Həşəm ibn Ütbə» kimi yanlış yazılmışdır (düzgünü: Haşim ibn Utbə).",
+  "Şeirdəki «سَمْلق» sözü «səssiz səhra» kimi yanlış tərcümə edilmişdir (düzgünü: düz, hamar, bitkisiz səhra)."
+ ],
+ "review_ts": "2026-11-18T17:35:48.768Z"
 }

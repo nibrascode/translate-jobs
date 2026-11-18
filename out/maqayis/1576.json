@@ -13,5 +13,10 @@
  "ar": "الراء والميم والزاء أصلٌ واحدٌ يدلُّ على حركةٍ واضطراب.\nيقال كتيبة رَمَّازة: تموج من نواحِيها. ويقال ضربه فما ارمَأَزَّ، أى ما تحرَّك.\nوارتَمَز أيضاً: تحرَّك.\nويقولون: إنّ الرَّاموز: البحر. وأراه فى شعر هذَيل.",
  "az": "[رمز] (Rəməz). Ra, mim və zay hərəkətə və iztiraba dəlalət edən tək bir əsasdır. Deyilir: كتيبة رَمَّازة (Rəmmazə dəstə): kənarlarından dalğalanır. Deyilir ki, onu vurdu və heç ارمَأَزَّ (tərpənmədi, irkilmədi), yəni hərəkət etmədi. Və həmçinin اِرتَمَز (irtəməz): hərəkət etdi. Onlar deyirlər ki, الرَّاموز (əl-ramuz): dənizdir. Mən onu Huzeyl şeirində görürəm.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:08.692Z"
+ "ts": "2026-10-25T01:32:08.692Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:39:12.459Z"
 }

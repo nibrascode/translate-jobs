@@ -11,7 +11,17 @@
   "page_to": 488
  },
  "ar": "الراء والثاء والميم أُصَيْلٌ يدلُّ على لَطْخ شئِ بشئ. يقال:\nرثَمَت المرأة أنْفَها بالطِّيب: طَلَتْه. قال:\n* شَمّاءَ مارِنُها بالمِسك مَرثُومُ (١) *\nومن هذا الباب: رُثِم أنفُه، وذلك إذا ضُرِب حتَّى يسيل دمُه. ومن الباب الرّثَم: بياضٌ فى جَحْفلة الفَرَس العُلْيا. وهى الرُّثْمَة. وهو القياس؛ كأن الجحفلة قد رُثِمَت ببياض.",
- "az": "[رثثم] \nالراء والثاء والميم (ra, sə və mim) — bir şeyi başqa bir şeylə bulaşdırmağa dəlalət edən kiçik bir əsasdır. Deyilir: \nرثَمَت المرأة أنْفَها بالطِّيب (Qadın burnunu ətirle bulaşdırdı): onu sürtərək yağladı. (Şair) demişdir: \n* شَمّاءَ مارِنُها بالمِسك مَرثُومُ (١) * \n(Uca burnunun ucu müşk ilə bulaşdırılmışdır). \nBu fəsildəndir: رُثِم أنفُه (onun burnu yaralandı/qırıldı), bu o zaman olur ki, o, qanı axana qədər vurulur. Və fəsildəndir الرّثَم (rəsəm) — atın üst dodağındakı ağlıqdır. Bu da الرُّثْمَة (rəsümə) adlanır. Ölçü/qayda budur; sanki dodaq ağlıqla bulaşdırılmışdır.",
+ "az": "[رثم]\nالراء والثاء والميم (ra, sa və mim) — bir şeyi başqa bir şeylə bulaşdırmağa dəlalət edən kiçik bir əsasdır. Deyilir:\nرثَمَت المرأة أنْفَها بالطِّيب (Qadın burnuna ətir sürtdü): onu ətirlədi. (Şair) demişdir:\n* شَمّاءَ مارِنُها بالمِسك مَرثُومُ (١) *\n(Uca burnunun ucu müşk ilə bulaşdırılmışdır).\nBu fəsildəndir: رُثِم أنفُه (burnu vurulub qanadıldı), bu o zaman olur ki, qanı axana qədər vurulur. Və bu fəsildəndir الرَّثَم (rəsam) — atın üst dodağındakı ağlıqdır. Bu da الرُّثْمَة (rusma) adlanır. Ölçü budur; sanki dodaq ağlıqla bulaşdırılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:35:36.371Z"
+ "ts": "2026-10-25T01:35:36.371Z",
+ "prev_az": "[رثثم] \nالراء والثاء والميم (ra, sə və mim) — bir şeyi başqa bir şeylə bulaşdırmağa dəlalət edən kiçik bir əsasdır. Deyilir: \nرثَمَت المرأة أنْفَها بالطِّيب (Qadın burnunu ətirle bulaşdırdı): onu sürtərək yağladı. (Şair) demişdir: \n* شَمّاءَ مارِنُها بالمِسك مَرثُومُ (١) * \n(Uca burnunun ucu müşk ilə bulaşdırılmışdır). \nBu fəsildəndir: رُثِم أنفُه (onun burnu yaralandı/qırıldı), bu o zaman olur ki, o, qanı axana qədər vurulur. Və fəsildəndir الرّثَم (rəsəm) — atın üst dodağındakı ağlıqdır. Bu da الرُّثْمَة (rəsümə) adlanır. Ölçü/qayda budur; sanki dodaq ağlıqla bulaşdırılmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[رثثم]» kimi yanlış yazılmışdır, «[رثم]» olmalıdır.",
+  "Ərəb hərfinin adı «sa» yerinə «sə» yazılmışdır."
+ ],
+ "review_ts": "2026-11-18T18:39:19.479Z"
 }

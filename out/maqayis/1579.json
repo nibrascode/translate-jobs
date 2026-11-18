@@ -11,7 +11,17 @@
   "page_to": 440
  },
  "ar": "الراء والميم والصاد أُصَيل يدلُّ * على إلقاءِ قَذَى. يقولون رَمَصَتِ العين، إذا أخرجت ما يخرُج منها عند الرّمَد. وقال ابن السَّكِّيت:\nيقال قَبَحَ اللّهُ أُمًّا رَمَصَت به، أى ولدَتْه. وهذا إذا صحَّ فهو على ما ذكرناه من أنَّه مشبّه بقذًى يُرمَى به. ويقال رَمَصَتِ الدّجاجةُ: ذَرَقت.\nوفى الباب كلامٌ آخَرُ يدلُّ على صلاحٍ وخير. يقولون: رَمَصْت بينهم، أى أصلَحْت. وربما قالوا: رَمَص اللّه مُصِيبتَه يَرْمُصها رَمْصاً، إذا جَبَرها.",
- "az": "[رمص] (Rəməs). Ra, mim və sad — çirk tullamağa dəlalət edən kiçik bir əsasdır. Deyirlər: رَمَصَتِ العين (Göz çirk çıxardı), göz rəməd zamanı xaric olanı xaric etdikdə. İbn əs-Sikkit demişdir: يقال قَبَحَ اللّهُ أُمًّا رَمَصَت به (Dejilir: Allah onu doğan ana üz qaralığı versin), yəni onu doğdu. Bu, əgər səhihdirsə, atılan çirkə bənzədildiyinə dair dediyimiz kimidir. Deyilir: رَمَصَتِ الدّجاجةُ (Toyuq nəcis atdı). Bu fəsildə salehliyə və xeyrə dəlalət edən başqa bir söz də var. Deyirlər: رَمَصْت بينهم (Onların arasında islah etdim), yəni barışdırdım. Bəzən deyirlər: رَمَص اللّه مُصِيبتَه يَرْمُصها رَمْصاً (Allah onun müsibətini bağışladı, bərpa etdi), o zaman ki, onu islah etdi.",
+ "az": "[رمص]\nRa, mim və sad — çirk atmağa dəlalət edən kiçik bir əsasdır. Deyirlər: رَمَصَتِ العين (Göz çirk çıxardı), göz rəməd zamanı xaric olanı çıxardıqda. İbn əs-Sikkit demişdir:\nDeyilir: قَبَحَ اللّهُ أُمًّا رَمَصَت به (Allah onu doğan ananı rüsvay etsin), yəni onu doğdu. Bu, əgər səhihdirsə, atılan çirkə bənzədildiyinə dair dediyimiz kimidir. Deyilir: رَمَصَتِ الدّجاجةُ (Toyuq nəcis atdı).\nBu fəsildə salehliyə və xeyrə dəlalət edən başqa bir söz də var. Deyirlər: رَمَصْت بينهم (Onların arasında islah etdim), yəni barışdırdım. Bəzən deyirlər: رَمَص اللّه مُصِيبتَه يَرْمُصها رَمْصاً (Allah onun müsibətinin əvəzini verdi və yarasını sağaltdı), o zaman ki, onu düzəltdi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:08.693Z"
+ "ts": "2026-10-25T01:32:08.693Z",
+ "prev_az": "[رمص] (Rəməs). Ra, mim və sad — çirk tullamağa dəlalət edən kiçik bir əsasdır. Deyirlər: رَمَصَتِ العين (Göz çirk çıxardı), göz rəməd zamanı xaric olanı xaric etdikdə. İbn əs-Sikkit demişdir: يقال قَبَحَ اللّهُ أُمًّا رَمَصَت به (Dejilir: Allah onu doğan ana üz qaralığı versin), yəni onu doğdu. Bu, əgər səhihdirsə, atılan çirkə bənzədildiyinə dair dediyimiz kimidir. Deyilir: رَمَصَتِ الدّجاجةُ (Toyuq nəcis atdı). Bu fəsildə salehliyə və xeyrə dəlalət edən başqa bir söz də var. Deyirlər: رَمَصْت بينهم (Onların arasında islah etdim), yəni barışdırdım. Bəzən deyirlər: رَمَص اللّه مُصِيبتَه يَرْمُصها رَمْصاً (Allah onun müsibətini bağışladı, bərpa etdi), o zaman ki, onu islah etdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«جَبَرها» feli kontekstə uyğun olmayan «bağışladı» və «islah etdi» kimi tərcümə edilmişdir.",
+  "Mətndə «Dejilir» şəklində orfoqrafik səhv var."
+ ],
+ "review_ts": "2026-11-18T17:39:12.460Z"
 }

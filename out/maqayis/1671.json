@@ -11,7 +11,17 @@
   "page_to": 488
  },
  "ar": "الراء والثاء والنون ليس بشئٍ. وربما قالوا: أرضٌ مرثونةٌ.\nالرّثن، وهو ممّا زَعَموا: شِبْه الرَّذَاذ.",
- "az": "[رثن] \nالراء والثاء والنون (ra, sə və nun) — heç bir şey deyil. Bəzən deyirlər: أرضٌ مرثونةٌ (rəsun olunmuş/nəm yer). \nРəsən — onların iddia etdiyinə görə: çiskin/çiskinli yağış bənzəridir.",
+ "az": "[رثن]\nالراء والثاء والنون (ra, sa və nun) — heç bir şey deyildir. Bəzən deyirlər: أرضٌ مرثونةٌ (çiskin düşmüş torpaq).\nالرَّثْن (rəsn) — onların iddia etdiyinə görə: çiskinli yağış bənzəridir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:35:36.371Z"
+ "ts": "2026-10-25T01:35:36.371Z",
+ "prev_az": "[رثن] \nالراء والثاء والنون (ra, sə və nun) — heç bir şey deyil. Bəzən deyirlər: أرضٌ مرثونةٌ (rəsun olunmuş/nəm yer). \nРəsən — onların iddia etdiyinə görə: çiskin/çiskinli yağış bənzəridir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı «sa» yerinə «sə» yazılmışdır.",
+  "Mətndə kiril «Р» hərfi işlədilmişdir."
+ ],
+ "review_ts": "2026-11-18T18:39:19.479Z"
 }

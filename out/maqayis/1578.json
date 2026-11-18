@@ -13,5 +13,10 @@
  "ar": "الراء والميم والشين ليس من مَحض اللُّغة، ولا ممّا جاء فى صحيح أشعارِهم. على أنَّهم يقولون: الرَّمَش تَفَتُّلٌ فى الأشفار، وحُمْرةٌ فى الجفون. وربّما قالوا رَمَشَهُ بالحجرَ: رماه. وذُكر عن الشيبانى: رَمَشَتِ الغنم تَرْمُشِ، إذا رعَتْ يسيراً. ويقال: الرَّمَش: بياضٌ يكون فى أظفار الأحداث. وحكى اللِّحيانى: أرضٌ رَمْشاء: جدبة (١).",
  "az": "[رمش] (Rəməş). Ra, mim və şin xalis dildən deyil, onların səhih şeirlərində gələnlərdən də deyil. Bununla belə onlar deyirlər: الرَّمَش (əl-rəməş) — kirpiklərin dolaşıqlığı və göz qapaqlarının qızartısıdır. Bəzən deyirlər: رَمَشَهُ بالحجرَ (Onu daşla vurdu – atdı). Şeybanidən nəql olunmuşdur: رَمَشَتِ الغنم تَرْمُشِ (Qoyunlar az otlayanda). Deyilir: الرَّمَش (əl-rəməş) — gənclərin dırnaqlarında olan ağlıqdır. Lihyani rəvayət etmişdir: أرضٌ رَمْشاء (Rəmsa torpaq): quraq torpaq.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:08.693Z"
+ "ts": "2026-10-25T01:32:08.693Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:39:12.460Z"
 }

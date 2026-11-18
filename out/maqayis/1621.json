@@ -11,7 +11,19 @@
   "page_to": 462
  },
  "ar": "الراء والواو واللام أصلٌ يدلُّ على لَطْخ شئٍ بشى.\nيقالَ رَوَّلْتُ الخُبْزَ بالسَّمن، مثل روَّغْت. والرُّوَال: بُزَاق الدّابّة. يقال رَوّلَ [فى] مِخْلَاتِه (٣). وقريبٌ من هذا الباب رَوَّلَ الفَرسُ: أدْلَى.",
- "az": "[رول] (Rə, vau və lam) — bir şeyi başqa bir şeyə bulaşdırmağa dəlalət edən bir kökdür.\n\nDeyilir: «رَوَّلْتُ الخُبْزَ بالسَّمن» — çörəyi yağa buladım, rouvərt sözü kimi. Ər-ruval — minik heyvanının tüpürcəyidir. Deyilir ki, at öz yem torbasına tüpürdü («رَوّلَ [فى] مِخْلَاتِه» (3)). Bu fəslə yaxın bir məna da atın sallanmasıdır («رَوَّلَ الفَرسُ: أدْلَى»). Rəvvalto.",
+ "az": "[رول] (Ra, vav və lam) — bir şeyi başqa bir şeyə bulaşdırmağa dəlalət edən bir kökdür.\nDeyilir: «رَوَّلْتُ الخُبْزَ بالسَّمن» — çörəyi yağa buladım, روَّغْت (rəvvəğtu) sözü kimi. الرُّوَال (ər-ruval) — minik heyvanının tüpürcəyidir. Deyilir: «رَوّلَ [فى] مِخْلَاتِه» (٣) — (at öz yem torbasına tüpürdü). Bu fəslə yaxın bir məna da: «رَوَّلَ الفَرسُ: أدْلَى» (at cinsiyyət üzvünü salladı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:33:59.185Z"
+ "ts": "2026-10-25T01:33:59.185Z",
+ "prev_az": "[رول] (Rə, vau və lam) — bir şeyi başqa bir şeyə bulaşdırmağa dəlalət edən bir kökdür.\n\nDeyilir: «رَوَّلْتُ الخُبْزَ بالسَّمن» — çörəyi yağa buladım, rouvərt sözü kimi. Ər-ruval — minik heyvanının tüpürcəyidir. Deyilir ki, at öz yem torbasına tüpürdü («رَوّلَ [فى] مِخْلَاتِه» (3)). Bu fəslə yaxın bir məna da atın sallanmasıdır («رَوَّلَ الفَرسُ: أدْلَى»). Rəvvalto.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin sonunda AR-da olmayan artıq «Rəvvalto» sözü əlavə edilmişdir.",
+  "«روَّغْت» sözü ərəb qrafikası ilə saxlanılmamış və təhrif olunmuşdur.",
+  "«رَوَّلَ الفَرسُ: أدْلَى» ifadəsinin mənası (atın cinsiyyət üzvünü sallaması) səhv verilmişdir.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə verilməmişdir."
+ ],
+ "review_ts": "2026-11-18T17:45:38.332Z"
 }

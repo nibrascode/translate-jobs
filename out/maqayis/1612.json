@@ -11,7 +11,17 @@
   "page_to": 454
  },
  "ar": "الراء والواو والثاء كلمتان متباينتان جِدًّا. فالرَّوْثة: طرف الأرنَبة. والواحدة من رَوْث الدّوَابّ.",
- "az": "[روث] \nRa, vav və səh hərfləri bir-birindən tamamilə fərqli iki kəlmədir. الرَّوْثة (rəvsə) — burnun ucudur. Və heyvan peyinlərinin hər birinə رَوْث (rəvs) deyilir.",
+ "az": "[روث]\nRa, vav və sa hərfləri bir-birindən tamamilə fərqli iki kəlmədir. الرَّوْثة (rəvsə) — burnun ucudur. Həmçinin heyvan peyininin (رَوْث الدّوَابّ) təkinə (bir hissəsinə) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:33:09.565Z"
+ "ts": "2026-10-25T01:33:09.565Z",
+ "prev_az": "[روث] \nRa, vav və səh hərfləri bir-birindən tamamilə fərqli iki kəlmədir. الرَّوْثة (rəvsə) — burnun ucudur. Və heyvan peyinlərinin hər birinə رَوْث (rəvs) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ث» hərfinin adı səhv olaraq «səh» kimi verilmişdir («sa» olmalıdır).",
+  "«والواحدة من رَوْث الدّوَابّ» ifadəsi yanlış tərcümə edilmişdir (burada الرَّوْثة sözünün heyvan peyininin təki olduğu bildirilir)."
+ ],
+ "review_ts": "2026-11-18T17:42:37.421Z"
 }

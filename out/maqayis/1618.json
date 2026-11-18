@@ -11,7 +11,19 @@
   "page_to": 460
  },
  "ar": "الراء والواو والعين أصلٌ واحد يدلُّ على فزَع أو مُستَقَرِّ فزَع. من ذلك الرَّوْع. يقال رَوَّعت فُلانا ورُعْتُه: أفزَعْتُه. والأرْوَع من الرجال:\nذو الجِسم والجَهَارَة، كأنَّه مِنْ ذلك يَرُوع مَنْ يراه. والرَّوْعاء (٤) من الإبل:\nالحديدة الفؤاد، كأنَّها ترتاعُ من الشئِ. وهى من النِّساء التى تَرُوع الناسَ، كالرّجُل الأرْوَع.\nوأمّا المعنى الذى أومَأْنا إليه فى مستَتَرِّ الروع فهو الرُّوع. يقال وقَعَ ذلك فى رُوعِى. و\nفى الحديث: «إنَّ رُوحَ القُدُسِ نَفَثَ فى رُوعى: إنّ نفساً لن تَموتَ حتَّى تستكمِلَ رِزْقها. فاتَّقُوا اللّه وأَجْمِلوا فى الطّلَب».",
- "az": "[روع] (Rə, vau və eyn) — qorxuya və ya qorxunun məskəninə dəlalət edən tək bir əslidir (köküdür). Bunlardan biri də الرَّوْع (ər-rouc) sözüdür. Deyilir: «رَوَّعْت فُلانا ورُعْتُه» (filkəsi qorxutdum). Kişilərdən əl-ərvə, cüssəli və əzəmətli olan kəsə deyilir, elə bil o bu xüsusiyyəti ilə onu görənləri qorxudur. Dəvələrdən əl-rouda (4) —ürəyi möhkəm olan, hər şeydən diksinən dəvədir. O, elə qadınlardandır ki, ərvə kişi kimi insanlarda qorxu və heyranlıq yaradır.\n\nGizli qorxu mənasında işlənən məna isə əl-ruudür. Deyilir: «وقَعَ ذلك فى رُوعِى» (bu, qəlbimə düşdü). Hədisdə demişdir: «إنَّ رُوحَ القُدُسِ نَفَثَ فى رُوعى: إنّ نفساً لن تَموتَ حتَّى تستكمِلَ رِزْقها. فاتَّقُوا اللّه وأَجْمِلوا فى الطّلَب» (Həqiqətən, Ruhul-qüds qəlbimə üfürdü ki, heç bir nəfs ruzisini tam almayınca ölməyəcək. Öncə Allahdan qorxun və ruzi istərkən gözəl tərzdə tələb edin).",
+ "az": "[روع] (Ra, vav və ayn) — qorxuya və ya qorxunun məskəninə dəlalət edən tək bir əsldir. Bunlardan biri الرَّوْع (ər-rəv) sözüdür. Deyilir: «رَوَّعت فُلانا ورُعْتُه» (filankəsi qorxutdum). Kişilərdən الأرْوَع (əl-ərvə) — cüssəli və görkəmli olan kəsdir, sanki o, bu xüsusiyyəti ilə onu görənləri qorxudur. Dəvələrdən الرَّوْعاء (ər-rəva) (٤) — iti qəlbli (həssas) olanıdır, sanki hər şeydən diksinir. Qadınlardan isə ərvə kişi kimi insanları heyrətə salan qadındır.\nGizli qorxu (qorxunun məskəni) barəsində işarə etdiyimiz məna isə الرُّوع (ər-ru)dur. Deyilir: «وقَعَ ذلك فى رُوعِى» (bu, qəlbimə düşdü). Hədisdə deyilir: «إنَّ رُوحَ القُدُسِ نَفَثَ فى رُوعى: إنّ نفساً لن تَموتَ حتَّى تستكمِلَ رِزْقها. فاتَّقُوا اللّه وأَجْمِلوا فى الطّلَب» (Həqiqətən, Ruhul-qüds qəlbimə üfürdü ki, bir nəfs ruzisini tam almayınca ölməyəcək. Elə isə Allahdan qorxun və ruzini gözəl tərzdə tələb edin).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:33:59.185Z"
+ "ts": "2026-10-25T01:33:59.185Z",
+ "prev_az": "[روع] (Rə, vau və eyn) — qorxuya və ya qorxunun məskəninə dəlalət edən tək bir əslidir (köküdür). Bunlardan biri də الرَّوْع (ər-rouc) sözüdür. Deyilir: «رَوَّعْت فُلانا ورُعْتُه» (filkəsi qorxutdum). Kişilərdən əl-ərvə, cüssəli və əzəmətli olan kəsə deyilir, elə bil o bu xüsusiyyəti ilə onu görənləri qorxudur. Dəvələrdən əl-rouda (4) —ürəyi möhkəm olan, hər şeydən diksinən dəvədir. O, elə qadınlardandır ki, ərvə kişi kimi insanlarda qorxu və heyranlıq yaradır.\n\nGizli qorxu mənasında işlənən məna isə əl-ruudür. Deyilir: «وقَعَ ذلك فى رُوعِى» (bu, qəlbimə düşdü). Hədisdə demişdir: «إنَّ رُوحَ القُدُسِ نَفَثَ فى رُوعى: إنّ نفساً لن تَموتَ حتَّى تستكمِلَ رِزْقها. فاتَّقُوا اللّه وأَجْمِلوا فى الطّلَب» (Həqiqətən, Ruhul-qüds qəlbimə üfürdü ki, heç bir nəfs ruzisini tam almayınca ölməyəcək. Öncə Allahdan qorxun və ruzi istərkən gözəl tərzdə tələb edin).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الرَّوْعاء» sözü «əl-rouda» kimi səhv oxunub və ərəb qrafikası verilməyib.",
+  "«الحديدة الفؤاد» ifadəsi «ürəyi möhkəm olan» kimi səhv tərcümə edilib (iti qəlbli, tez diksinən olmalıdır).",
+  "Hədisin tərcüməsində «Öncə» kimi artıq söz əlavə edilib və «filkəsi» kimi hərf səhvi var.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-18T17:45:34.852Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الراء والقاف والهمزة كلمة واحدة. يقال: رقأ الدّمُ والدّمع،\nإذا انقَطَعا. وفى كلامهم (١): «لا تسُبُّوا الإبلَ فإنَّ فيها رَقُوءَ الدَّم» أى إنّها تُدفَع فى الدّية فيَرْقَأ دمُ مَنْ يُراد منه القَوَد.",
  "az": "[رقأ] (Rəqəə): Ra, qaf və həmzədən ibarət tək bir kökdür. Deyilir: رقأ الدّمُ والدّمع (rəqə əd-damu vəd-dəm'u) — qan və göz yaşı kəsildiyi zaman. Onların kəlamında (١) demişlər: «لا تسُبُّوا الإبلَ فإنَّ فيها رَقُوءَ الدَّم» (Dəvələri söyməyin, çünki onlarda qanı kəsən – dəyəsi vardır), yəni onlar diyə (qanbahası) olaraq verilir və qisas tələb edilənin qanı bununla kəsilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:52.453Z"
+ "ts": "2026-10-25T01:30:52.453Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:35:48.768Z"
 }

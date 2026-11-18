@@ -11,7 +11,18 @@
   "page_to": 465
  },
  "ar": "الراء والياء والخاء كلمةٌ واحدةٌ فيها نظر. يقال رَاخَ يَريخ ريْخاً، إذا ذلَّ وانكسَر. والترييخ: وَهْىُ الشئ. وضربوا فلانا حتى ريَّخوه.\nوراخَ الرجلُ يَريخ رَيخا، إذا حَار. وراخَ البعيرُ، إذا أَعْيا.",
- "az": "[ريخ] الراء (الراء) və الياء (ياء) və الخاء (xa) — üzərində düşünülməli olan tək bir sözdür. Deyilir: راخَ يَريخ ريْخاً (rahə yərix riyhan) — zəlil oldu və qırıldı, əzildi. Və ət-təriyix (الترييخ) — bir şeyin zəifləməsi, laxlaması. Onlar filankəsi döydülər ki, az qala onu əzdilər (zəiflətdilər) — ريَّخوه (rəyyəxuhu). Və راخَ الرجلُ يَريخ رَيخا (rahə ər-rəculü yərix rəyhan) — kişi çaşqın vəziyyətə düşəndə. Və راخَ البعيرُ (rahə əl-bəiru) — dəvə yorulduqda.",
+ "az": "[ريخ] الراء (ra), الياء (ya) və الخاء (xa) — üzərində düşünülməli olan tək bir sözdür. Deyilir: رَاخَ يَريخ ريْخاً (zəlil oldu və qırıldı, əzildi). الترييخ (ət-təryix) — bir şeyin zəifləməsi, laxlamasıdır. «وضربوا فلانا حتى ريَّخوه» («Filankəsi döydülər ki, ta ki onu əzdilər [zəiflətdilər]»).\nوراخَ الرجلُ يَريخ رَيخا — kişi çaşqın vəziyyətə düşdükdə deyilir. وراخَ البعيرُ — dəvə yorulduqda deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:34:27.039Z"
+ "ts": "2026-10-25T01:34:27.039Z",
+ "prev_az": "[ريخ] الراء (الراء) və الياء (ياء) və الخاء (xa) — üzərində düşünülməli olan tək bir sözdür. Deyilir: راخَ يَريخ ريْخاً (rahə yərix riyhan) — zəlil oldu və qırıldı, əzildi. Və ət-təriyix (الترييخ) — bir şeyin zəifləməsi, laxlaması. Onlar filankəsi döydülər ki, az qala onu əzdilər (zəiflətdilər) — ريَّخوه (rəyyəxuhu). Və راخَ الرجلُ يَريخ رَيخا (rahə ər-rəculü yərix rəyhan) — kişi çaşqın vəziyyətə düşəndə. Və راخَ البعيرُ (rahə əl-bəiru) — dəvə yorulduqda.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəbcə saxlanılıb.",
+  "«حتى ريَّخوه» ifadəsi «az qala onu əzdilər» kimi yanlış tərcümə edilib.",
+  "Transkripsiyalarda səhvlər var (rahə, riyhan, ət-təriyix)."
+ ],
+ "review_ts": "2026-11-18T17:46:35.456Z"
 }

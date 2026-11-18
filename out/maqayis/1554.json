@@ -11,7 +11,18 @@
   "page_to": 429
  },
  "ar": "الراء والقاف والصاد أصلٌ يدلُّ على النَّقَزَان (٤). يقال رقَصَ يرقُصُ رَقْصاً. ويقال أرقَصَ البعيرَ: حَمَلَهُ على الخَبَب. قال جرير:\n* بِزَرُودَ أرقصت البعيرَ (٥) *\nويقال رقَص السَّراب فى لمعانه؛ ورَقَص الشَّرَاب: جاش (١). والرّقَّاصة:\nلُعْبة (٢).",
- "az": "[رقص] (Rəqəs): Ra, qaf və sad hərfləri tullanıb-düşməyə (النَّقَزَان) dəlalət edən tək bir əsasdır. Deyilir: رقَصَ يرقُصُ رَقْصاً (rəqasə yarqusu rəqsən). Və deyilir: أرقَصَ البعيرَ (ərqasəl-bəirə) — onu xəbəb (sürətli yeriş) ilə hərəkət etməyə məcbur etdi. Cərir demişdir: \n* بِزَرُودَ أرقصت البعيرَ (٥) *\nVə deyilir: mirvari parıltısında رَقَصَ السَّراب (rəqəsas-sərab) — sərab parıldadı; və şərab qaynayıb coşdu (رَقَصَ الشَّرَاب). الرّقَّاصة (ər-raqqasə): oyuncaq, oyun.",
+ "az": "[رقص] (Rəqəs): Ra, qaf və sad hərfləri النَّقَزَان (tullanıb-düşmək) (٤) mənasına dəlalət edən bir əsasdır. Deyilir: رقَصَ يرقُصُ رَقْصاً (rəqasə yərqusu rəqsən — oynadı, tullandı). Və deyilir: أرقَصَ البعيرَ (ərqasəl-bəirə) — dəvəni xəbəb (sürətli yeriş) ilə hərəkət etməyə məcbur etdi. Cərir demişdir:\n* بِزَرُودَ أرقصت البعيرَ (٥) *\n(Zərudda dəvəni sürətli yerişə saldın.)\nVə deyilir: رَقَصَ السَّراب (rəqasəs-sərab) فى لمعانه — sərab parıltısında titrədi/oynadı; və رَقَصَ الشَّرَاب (rəqasəş-şərab) — şərab qaynayıb coşdu (١). الرّقَّاصة (ər-raqqasə): oyun (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:52.453Z"
+ "ts": "2026-10-25T01:30:52.453Z",
+ "prev_az": "[رقص] (Rəqəs): Ra, qaf və sad hərfləri tullanıb-düşməyə (النَّقَزَان) dəlalət edən tək bir əsasdır. Deyilir: رقَصَ يرقُصُ رَقْصاً (rəqasə yarqusu rəqsən). Və deyilir: أرقَصَ البعيرَ (ərqasəl-bəirə) — onu xəbəb (sürətli yeriş) ilə hərəkət etməyə məcbur etdi. Cərir demişdir: \n* بِزَرُودَ أرقصت البعيرَ (٥) *\nVə deyilir: mirvari parıltısında رَقَصَ السَّراب (rəqəsas-sərab) — sərab parıldadı; və şərab qaynayıb coşdu (رَقَصَ الشَّرَاب). الرّقَّاصة (ər-raqqasə): oyuncaq, oyun.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Cəririn beyti (* بِزَرُودَ أرقصت البعيرَ (٥) *) tərcüməsiz qalmışdır.",
+  "«رقَص السَّراب فى لمعانه» ifadəsindəki «فى لمعانه» (parıltısında) sözü «mirvari parıltısında» kimi uydurma əlavə ilə tərcümə edilmişdir.",
+  "AR mətnindəki (٤), (١) və (٢) haşiyə rəqəmləri buraxılmışdır."
+ ],
+ "review_ts": "2026-11-18T17:37:24.635Z"
 }

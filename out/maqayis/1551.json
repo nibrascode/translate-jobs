@@ -11,7 +11,17 @@
   "page_to": 428
  },
  "ar": "الراء والقاف والحاء أصلٌ واحد، يدلُّ على الاكتساب والإصلاحِ للمال. ويقال رقَّحْتُ المالَ: أصلحتُه وقُمت عليه، ترقيحاً. وفلان\nرَقاحِىُّ مالٍ. وهو يترقَّح لعياله، أى يتكسَّب. وكانوا يقولون فى تلبيتهِمْ:\n«لم نَأت للرَّقاحَةِ (١)»،\nيريدون التِّجارة.",
- "az": "[رقح] (Rəqəh): Ra, qaf və ha hərfləri tək bir əsas olub, qazanc əldə etməyə və malı islah etməyə dəlalət edir. Deyilir: رقَّحْتُ المالَ أصلحتُه وقُمت عليه ترقيحاً (rəqqəhtul-mala əsləhtuhu və qumtu aleyhi tərqihiyyən) – malı islah etdim və qulluğunda durdum. Fulan رَقاحِىُّ مالٍ (rəqahiyyu malin) – mal sahibidir. O, ailəsi üçün çalışır, yəni qazanc əldə edir. Onlar təlbiyələrində deyərdilər: «لم نَأت للرَّقاحَةِ» (Biz ticarət üçün gəlmədik).",
+ "az": "[رقح]\nRa, qaf və ha qazanc əldə etməyə və malı islah etməyə dəlalət edən tək bir əsldir. Deyilir: رقَّحْتُ المالَ: أصلحتُه وقُمت عليه، ترقيحاً (rəqqəhtul-malə: əsləhtuhu və qumtu aleyhi tərqihən) — malı islah etdim və ona qulluq etdim. Filankəs\nرَقاحِىُّ مالٍ (rəqahiyyu malin) — malını islah edib qazanc əldə edən biridir. وهو يترقَّح لعياله (və huvə yətərəqqəhu li-iyalihi) — yəni ailəsi üçün qazanc əldə edir. Onlar təlbiyələrində deyərdilər:\n«لم نَأت للرَّقاحَةِ (١)» (Biz rəqahə üçün gəlmədik),\nbununla ticarəti nəzərdə tuturdular.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:52.453Z"
+ "ts": "2026-10-25T01:30:52.453Z",
+ "prev_az": "[رقح] (Rəqəh): Ra, qaf və ha hərfləri tək bir əsas olub, qazanc əldə etməyə və malı islah etməyə dəlalət edir. Deyilir: رقَّحْتُ المالَ أصلحتُه وقُمت عليه ترقيحاً (rəqqəhtul-mala əsləhtuhu və qumtu aleyhi tərqihiyyən) – malı islah etdim və qulluğunda durdum. Fulan رَقاحِىُّ مالٍ (rəqahiyyu malin) – mal sahibidir. O, ailəsi üçün çalışır, yəni qazanc əldə edir. Onlar təlbiyələrində deyərdilər: «لم نَأت للرَّقاحَةِ» (Biz ticarət üçün gəlmədik).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin sonundakı «يريدون التِّجارة» (ticarəti nəzərdə tuturlar) cümləsi və (١) haşiyə rəqəmi buraxılmışdır.",
+  "«رَقاحِىُّ مالٍ» ifadəsi «mal sahibidir» kimi yanlış tərcümə edilmişdir (düzgünü: malını islah edib artıran, qazanc əldə edən şəxsdir)."
+ ],
+ "review_ts": "2026-11-18T17:35:48.769Z"
 }

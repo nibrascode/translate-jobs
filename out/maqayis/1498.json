@@ -11,9 +11,19 @@
   "page_to": 403
  },
  "ar": "الراء والضاد والخاء كلمةٌ تدلُّ على كَسْرٍ. ويكون يسيراً ثم يشتقّ منه. فالرضْخ: الكسر؛ وهو الأصل، ثم يقال رَضَخَ له، إذا أعطاه\nشيئاً ليس بالكثير، كأنّه كَسَرَ له من ماله كِسرةً. ومنه\nحديث مالك بن أوس:\nحين قال له عمر: «إنّه قد دَفَّتْ علينا دَافَّةٌ من قومِك، وإنِّى أمرت لهم بِرَضْخ (١)».\nويقال تراضَخَ القَومُ: ترامَوْا، كأنّ كلَّ واحدٍ منهم يريد رَضْخ صاحبِه. والرَّضْخ من الخَبَر: الذى تسمعه ولا تستيقِنُ منه (٢). ويقال فلانٌ يَرْتَضِخُ لُكْنةً، إذا شابَ كلامَه بشئٍ من كلام العجَمِ يسيرٍ.",
- "az": "[رضخ] (rə-zə-xa). Ra, zad və xa – qırmağa dəlalət edən kəlmədir. Bu, az miqdarda olur, sonra ondan [başqa mənalar] törədilir. الرَّضْخ (ar-razh) – qırmaqdır; bu əsas mənadır, sonra رَضَخَ لَهُ (razaha ləh) – ona çox olmayan bir şey verdikdə işlədilir, sanki malından ona bir qəlpə qırıb vermiş kimidir. Malik ibn Avsın hədisindən: Ömər ona dediyi zaman: «إِنَّهُ قَدْ دَفَّتْ عَلَيْنَا دَافَّةٌ مِنْ قَوْمِكَ، وَإِنِّي أَمَرْتُ لَهُمْ بِرَضْخٍ (١)» («Sənin qövmündən bizə bir dəstə gəldi və mən onlara az bir bağış verilməsini əmr etdim»). Deyilir: تَرَاضَخَ الْقَوْمُ (tərazaha əl-qavm) – bir-birinə atəş açdılar, sanki hər biri digərini vurmaq (qırmaq) istəyir. Xəbərdən olan الرَّضْخ (ar-razh) – eşidib əmin olmadığın xəbərdir (٢). Deyilir ki, fulan öz kəlamına acəm dilindən azca qatdıqda رَضْخُ لُكْنَةٍ (razxu luknətin) [edir deyilir].",
+ "az": "[رضخ]\nRa, dad və xa – qırmağa dəlalət edən kəlmədir. Bu, az miqdarda olur, sonra ondan [başqa mənalar] törədilir. الرضْخ (ər-rədx) – qırmaqdır; bu əsas mənadır, sonra ona çox olmayan bir şey verdikdə رَضَخَ له (ona azca verdi) deyilir, sanki malından ona bir parça qırıb vermiş kimidir. Malik ibn Avsın hədisindəndir:\nÖmər ona dediyi zaman: «إنّه قد دَفَّتْ علينا دَافَّةٌ من قومِك، وإنِّى أمرت لهم بِرَضْخ (١)» («Sənin qövmündən bizə bir dəstə gəldi və mən onlara az bir bağış verilməsini əmr etdim»).\nDeyilir: تراضَخَ القَومُ (camaat bir-birinə daş və s. atdılar), sanki hər biri digərini vurmaq (qırmaq) istəyir. Xəbərdən olan الرَّضْخ (ər-rədx) – eşidib əmin olmadığın xəbərdir (٢). Fulan öz kəlamına əcəm kəlamından azca qatdıqda يَرْتَضِخُ لُكْنةً (pəltək/əcəm ləhcəsi ilə danışır) deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:29:30.016Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[رضخ] (rə-zə-xa). Ra, zad və xa – qırmağa dəlalət edən kəlmədir. Bu, az miqdarda olur, sonra ondan [başqa mənalar] törədilir. الرَّضْخ (ar-razh) – qırmaqdır; bu əsas mənadır, sonra رَضَخَ لَهُ (razaha ləh) – ona çox olmayan bir şey verdikdə işlədilir, sanki malından ona bir qəlpə qırıb vermiş kimidir. Malik ibn Avsın hədisindən: Ömər ona dediyi zaman: «إِنَّهُ قَدْ دَفَّتْ عَلَيْنَا دَافَّةٌ مِنْ قَوْمِكَ، وَإِنِّي أَمَرْتُ لَهُمْ بِرَضْخٍ (١)» («Sənin qövmündən bizə bir dəstə gəldi və mən onlara az bir bağış verilməsini əmr etdim»). Deyilir: تَرَاضَخَ الْقَوْمُ (tərazaha əl-qavm) – bir-birinə atəş açdılar, sanki hər biri digərini vurmaq (qırmaq) istəyir. Xəbərdən olan الرَّضْخ (ar-razh) – eşidib əmin olmadığın xəbərdir (٢). Deyilir ki, fulan öz kəlamına acəm dilindən azca qatdıqda رَضْخُ لُكْنَةٍ (razxu luknətin) [edir deyilir].",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ض» hərfinin adı «zad» kimi səhv yazılıb (düzgünü: dad).",
+  "«ترامَوْا» feli «bir-birinə atəş açdılar» kimi səhv tərcümə edilib (düzgünü: bir-birinə daş və s. atdılar).",
+  "«يَرْتَضِخُ لُكْنةً» ifadəsi «رَضْخُ لُكْنَةٍ» kimi dəyişdirilib."
+ ],
+ "review_ts": "2026-11-18T17:22:45.184Z"
 }

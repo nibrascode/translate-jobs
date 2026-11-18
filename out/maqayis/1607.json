@@ -13,5 +13,10 @@
  "ar": "الراء والهاء والكاف أصل يدل على استرخاء. فالرَّهْوَك (٥):\nالسَّمين من الجِداء والظبِّاء (١). والتَّرَهْوُك: التحرُّك فى رَخاوة. ويقولون:\nرهَكْت الشَّئَ، إذا سَحَقْتَه.",
  "az": "[رهك] «الراء» (ra), «هاء» (hə) və «كاف» (kaf) boşalmağa dəlalət edən əsasdır. الرَّهْوَك (ərrəhvək) — çəpişlərin və ceyranların kök olanıdır (1). Və التَّرَهْوُك (əttərhəvuk) — yumşaqlıqla hərəkət etmək. Və deyirlər: رهَكْت الشَّئَ (rəhəktüş-şeyə) — bir şeyi üyütdüyün zaman.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:50.472Z"
+ "ts": "2026-10-25T01:32:50.472Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:43:42.418Z"
 }

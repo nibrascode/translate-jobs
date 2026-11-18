@@ -11,7 +11,18 @@
   "page_to": 463
  },
  "ar": "الراء والواو والنون يدلُّ على شِدّة خَرّ أو صوتٍ. يقولون:\nيوم أرْوَنانٌ وليلةٌ أرْوَنانة، أى شديدة الحرِّ والغَمّ. قال القُتَيبىّ: والأرْوَنانُ:\nالصّوت الشديد. قال الكميت:\nبها حاضرٌ من غير جِنٍّ يَرُوعُه … ولا أنسٌ ذُو أرْوَنَانٍ وذُو زَجَلْ (٢)",
- "az": "[رون] (Rə, vau və nun) — şiddətli gurultuya və ya səsə dəlalət edir. Deyirlər: «يوم أرْوَنانٌ وليلةٌ أرْوَنانة» — şiddətli isti və boğucu gün və gecə. Əl-Quteybi demişdir ki, əl-arvənan — şiddətli səisdir. Əl-Kumeyt demişdir:\nبها حاضرٌ من غير جِنٍّ يَرُوعُه … ولا أنسٌ ذُو أرْوَنَانٍ وذُو زَجَلْ (2)",
+ "az": "[رون] (Ra, vav və nun) — şiddətli gurultuya və ya səsə dəlalət edir. Deyirlər:\n«يوم أرْوَنانٌ وليلةٌ أرْوَنانة» — şiddətli isti və boğucu gün və gecə. Əl-Quteybi demişdir ki, الأرْوَنانُ (əl-ərvənan) — şiddətli səsdir. Əl-Kumeyt demişdir:\nبها حاضرٌ من غير جِنٍّ يَرُوعُه … ولا أنسٌ ذُو أرْوَنَانٍ وذُو زَجَلْ (٢) — (Orada nə onu qorxudan cinlərdən, nə də şiddətli səs-küylü və hay-küylü insanlardan olan bir sakin var).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:33:59.185Z"
+ "ts": "2026-10-25T01:33:59.185Z",
+ "prev_az": "[رون] (Rə, vau və nun) — şiddətli gurultuya və ya səsə dəlalət edir. Deyirlər: «يوم أرْوَنانٌ وليلةٌ أرْوَنانة» — şiddətli isti və boğucu gün və gecə. Əl-Quteybi demişdir ki, əl-arvənan — şiddətli səisdir. Əl-Kumeyt demişdir:\nبها حاضرٌ من غير جِنٍّ يَرُوعُه … ولا أنسٌ ذُو أرْوَنَانٍ وذُو زَجَلْ (2)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalmışdır.",
+  "Mətndə «səisdir» şəklində yazı xətası var.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə verilməmişdir."
+ ],
+ "review_ts": "2026-11-18T17:45:38.333Z"
 }

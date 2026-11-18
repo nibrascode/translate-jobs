@@ -13,5 +13,10 @@
  "ar": "الراء والواو والزاء كلمةٌ واحدة، وهى تدلُّ على اختبار وتجريب. يقال رُزْت الشّئَ أَرُوزُه، إذا جرَّبْتَه.",
  "az": "[روز] (Rə, vau və zay) — tək bir söz olub sınaqdan keçirməyə və təcrübə etməyə dəlalət edir. Deyilir: «رُزْت الشّئَ أَرُوزُه» (şeyi sınaqdan keçirdim), yəni onu təcrübə etdin.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:33:59.185Z"
+ "ts": "2026-10-25T01:33:59.185Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:45:34.851Z"
 }

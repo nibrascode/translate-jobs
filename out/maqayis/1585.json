@@ -11,7 +11,18 @@
   "page_to": 442
  },
  "ar": "الراء والميم والكاف أصلان: أحدهما لونٌ من الألوان، والثانى لُبْثٌ بمكان. فالأول الرُّمْكة من ألوان الإبل، وهو أشدُّ كدْرةً من الوُرْقة. ويقال جملٌ أرمَكُ. ومنه اشتقاق الرَّامِك. والرَّمَكة: الأُنثى من البراذين. والأصل الآخر: رَمَكَ بالمكان، وهو رامك.",
- "az": "[رمك] (rəmək) - راء، ميم və kaf hərflərinin iki əsli vardır: biri rənglərdən bir rəng, digəri isə bir yerdə qalmaq. Birincisi: «الرُّمْكة» (əl-rumkə) - dəvə rənglərindən biri olub, «الورقة» (əl-vürkə) rəngindən daha tünd bulanıq rəngdir. Deyilir: «جملٌ أرمَكُ» (cəməlun ərməkun) - tünd rəngli dəvə. «الرَّامِك» (əl-ramik) sözünün kökü də buradan götürülmüşdür. «الرَّمَكة» (əl-rəməkə) -ata bənzər ev heyvanlarının dizisidir. Digər əsl isə: «رَمَكَ بالمكان» (rəməkə bi-əl-məkani) - bir yerdə qaldı və o, «رامك» (ramik) adlanır.",
+ "az": "[رمك]\\nRa, mim və kaf hərflərinin iki əsli vardır: biri rənglərdən bir rəng, digəri isə bir yerdə qalmaqdır. Birincisi: «الرُّمْكة» dəvə rənglərindən biri olub, «الوُرْقة» (kül rəngi) rəngindən daha tünd bulanıq rəngdir. Deyilir: «جملٌ أرمَكُ» (ərmək rəngli dəvə). «الرَّامِك» (qara ətir növü) sözünün kökü də buradandır. «الرَّمَكة» — yük atlarının (bərzənlərin) dişisidir. Digər əsl isə: «رَمَكَ بالمكان» — bir yerdə qaldı, o da «رامك»dır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:28.606Z"
+ "ts": "2026-10-25T01:32:28.606Z",
+ "prev_az": "[رمك] (rəmək) - راء، ميم və kaf hərflərinin iki əsli vardır: biri rənglərdən bir rəng, digəri isə bir yerdə qalmaq. Birincisi: «الرُّمْكة» (əl-rumkə) - dəvə rənglərindən biri olub, «الورقة» (əl-vürkə) rəngindən daha tünd bulanıq rəngdir. Deyilir: «جملٌ أرمَكُ» (cəməlun ərməkun) - tünd rəngli dəvə. «الرَّامِك» (əl-ramik) sözünün kökü də buradan götürülmüşdür. «الرَّمَكة» (əl-rəməkə) -ata bənzər ev heyvanlarının dizisidir. Digər əsl isə: «رَمَكَ بالمكان» (rəməkə bi-əl-məkani) - bir yerdə qaldı və o, «رامك» (ramik) adlanır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları tərcümə edilməyib, ərəb qrafikası ilə saxlanılıb.",
+  "«الرَّمَكة» sözünün izahında hərf səhvi («dizisidir») və məna qeyri-dəqiqliyi var.",
+  "«الوُرْقة» sözü AR-dakı yazılışdan fərqli köçürülüb."
+ ],
+ "review_ts": "2026-11-18T17:41:26.712Z"
 }

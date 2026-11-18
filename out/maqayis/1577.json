@@ -13,5 +13,10 @@
  "ar": "الراء والميم والسين أصلٌ واحدٌ يدلُّ على تغطيةِ وسَتْر.\nفالرَّمْس: التراب.\nوالرِّياح الروامسُ: التى تُثير الترابَ فتدفِن الآثار. ويقال رَمَسْتُ على فلانٍ الخبرَ؛ إذا كتَمْتَه إيَّاه. ورَمَست الرَّجُل وأرمستُه: دفنتُه.",
  "az": "[رمس] (Rəməs). Ra, mim və sin örtməyə və gizlətməyə dəlalət edən tək bir əsasdır. Və الرَّمْس (əl-rəms): torpaq. Və الرِّياح الروامس (əl-riyah ər-ravamis): torpağı qaldırıb izləri basdıran küləklər. Deyilir: رَمَسْتُ على فلانٍ الخبرَ (Filankəsdən xəbəri gizlətdim); o zaman ki, ona bunu gizlətdin. Və رَمَست الرَّجُل وأرمستُه (Kişini basdırdım və dəfn etdim).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:08.692Z"
+ "ts": "2026-10-25T01:32:08.692Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:39:12.459Z"
 }

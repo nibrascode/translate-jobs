@@ -11,7 +11,17 @@
   "page_to": 412
  },
  "ar": "الراء والعين والظاء كلمةٌ واحدة لا يُقاس ولا يَتفرَّع.\nفالرُّعْظُ: مَدْخَل النَّصْل فى السَّهم. وحكى الخليل: «إنّ فلاناً لَيَكسِر عليك أرعاظَ النَّبْل»، إذا كان يتغضّب. ويقال سهمٌ رَعِظٌ، إذا غاب فى رُعْظِه.",
- "az": "[رعظ] (ra, ayn, zə) — qiyas olunmayan və şaxələnməyən tək bir sözdür. الرُّعْظُ (ruuz) – ox ucluğunun oxa girmə yeri. Xəlil rəvayət etmişdir: «إنّ فلاناً لَيَكسِر عليك أرعاظَ النَّبْل» (Həqiqətən filankəs sənin üçün oxların ruzlarını qırır), o qəzəbləndiyi zaman. Deyilir: سهمٌ رَعِظٌ (səhmün rəiuz) – oxu öz yuvasına batdıqda.",
+ "az": "[رعظ] (ra, ayn, za) — qiyas olunmayan və şaxələnməyən tək bir sözdür.\nالرُّعْظُ (ruz) – ox ucluğunun oxa girmə yeridir. Xəlil rəvayət etmişdir: «إنّ فلاناً لَيَكسِر عليك أرعاظَ النَّبْل» (Həqiqətən filankəs sənin üçün oxların yuvalarını qırır) — o qəzəbləndiyi zaman deyilir. Deyilir: سهمٌ رَعِظٌ (səhmün rəiz) – ox öz yuvasına (rəzinə) tam oturduqda (batdıqda).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:50.331Z"
+ "ts": "2026-10-25T01:29:50.331Z",
+ "prev_az": "[رعظ] (ra, ayn, zə) — qiyas olunmayan və şaxələnməyən tək bir sözdür. الرُّعْظُ (ruuz) – ox ucluğunun oxa girmə yeri. Xəlil rəvayət etmişdir: «إنّ فلاناً لَيَكسِر عليك أرعاظَ النَّبْل» (Həqiqətən filankəs sənin üçün oxların ruzlarını qırır), o qəzəbləndiyi zaman. Deyilir: سهمٌ رَعِظٌ (səhmün rəiuz) – oxu öz yuvasına batdıqda.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«أرعاظَ النَّبْل» ifadəsi tərcüməsiz qalıb («oxların ruzlarını» kimi verilib).",
+  "«رُعْظ» və «رَعِظٌ» sözlərinin oxunuşları səhv yazılıb (ruuz, rəiuz)."
+ ],
+ "review_ts": "2026-11-18T17:24:37.938Z"
 }

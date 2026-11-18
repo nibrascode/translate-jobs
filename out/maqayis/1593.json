@@ -11,7 +11,17 @@
   "page_to": 445
  },
  "ar": "الراء والنون والقاف أَصلٌ واحدٌ يدلُّ على اضطرابِ شئٍ متغيّر له صفْوُهُ إن كان صافياً. من ذلك الرَّنْقُ، وهو الماء الكدِر؛ يقال رَنِقَ الماء يَرْنَقُ رَنَقاً. ورَنَّق النومُ فى عينه، إذا خالطها. والتَّرْنُوق (٢): الطِّين الباقى فى مَسِيل الماء. والذى قلناه من الاضطراب فأصله قولهم رَنَّق الطائر: خفَق بجناحه ولم يطِرْ.",
- "az": "[رنق] (rənəq) - راء، نون və قاف hərfləri – təmiz olduğu halda bulanıqlaşan bir şeyin bulanıqlığına və nizamsızlığına dəlalət edən tək bir əsldir. Bunlardan biri «الرَّنْقُ» (əl-rənqu) – bulanıq sudur; deyilir: «رَنِقَ الماء يَرْنَقُ رَنَقاً» (rəniqə əl-mau yərnəqu rənəqən) – su bulanıqlaşdı. «رَنَّق النومُ فى عينه» (rənnəqə əl-nawmu fi əynihi) – yuxu onun gözünə dolaşdı. «التَّرْنُوق» (əl-tərnuqu) – su axarında qalan palçıqdır. Nizamsızlıq dediyimiz mənanın əsli isə onların «رَنَّق الطائر» (rənnəqə əl-tairu) – quş qanadını çalaraq uçmadı (havada süzdü/dayandı) sözüdür.",
+ "az": "[رنق]\nRa, nun və qaf hərfləri – təmizdirsə, saflığı dəyişən bir şeyin qarışmasına (çalxalanmasına) dəlalət edən tək bir əsldir. Bunlardan biri الرَّنْقُ (ər-rənq) – bulanıq sudur; deyilir: رَنِقَ الماء يَرْنَقُ رَنَقاً (rəniqəl-mau yərnəqu rənəqən) – su bulanıqlaşdı. رَنَّق النومُ فى عينه (rənnəqən-nəvmu fi aynihi) – yuxu onun gözünə qatışdı (gözünü örtdü). التَّرْنُوق (ət-tərnuq) (٢) – su axarında qalan palçıqdır. Qarışma (çalxalanma) dediyimiz mənanın əsli isə onların رَنَّق الطائر (rənnəqət-tairu) – quş qanadını çırpdı, lakin uçmadı (havada qaldı) sözüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:28.606Z"
+ "ts": "2026-10-25T01:32:28.606Z",
+ "prev_az": "[رنق] (rənəq) - راء، نون və قاف hərfləri – təmiz olduğu halda bulanıqlaşan bir şeyin bulanıqlığına və nizamsızlığına dəlalət edən tək bir əsldir. Bunlardan biri «الرَّنْقُ» (əl-rənqu) – bulanıq sudur; deyilir: «رَنِقَ الماء يَرْنَقُ رَنَقاً» (rəniqə əl-mau yərnəqu rənəqən) – su bulanıqlaşdı. «رَنَّق النومُ فى عينه» (rənnəqə əl-nawmu fi əynihi) – yuxu onun gözünə dolaşdı. «التَّرْنُوق» (əl-tərnuqu) – su axarında qalan palçıqdır. Nizamsızlıq dediyimiz mənanın əsli isə onların «رَنَّق الطائر» (rənnəqə əl-tairu) – quş qanadını çalaraq uçmadı (havada süzdü/dayandı) sözüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«راء، نون» və «قاف» hərf adları tərcümə olunmadan ərəbcə saxlanılıb.",
+  "Mətndəki (٢) haşiyə rəqəmi buraxılıb."
+ ],
+ "review_ts": "2026-11-18T17:41:58.758Z"
 }

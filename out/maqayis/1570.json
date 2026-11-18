@@ -13,5 +13,10 @@
  "ar": "[أمّا] الراء والميم والهمزة فأصلٌ برأسه غير الأول، وهو قليل. يقال رمَأَت الإبل تَرْمأُ رمُوءً ورَمْأً: أقامت فى الكلأ والعُشْب. ورمأ فلانٌ فى بنى فلانٍ: أقام. ويقال أرمأت الأخبارُ: أشكَلَتْ. ومُرَمَّآت الأخبار، أى أباطيلُها.",
  "az": "[رمأ] (Rəməə). Ra, mim və həmzə isə birincidən fərqli müstəqil bir əsasdır və o azdır. Deyilir: رمَأَت الإبل تَرْمأُ رمُوءً ورَمْأً (Dəvələr otlaqda və yaşıl otda qərar tutdu, dayandı). Fulan kəs filankəslərin yanında رمأ (dayandı, sakin oldu). Deyilir: أرمأت الأخبارُ (Xəbərlər dolaşıq düşdü, dolaşdı). ومُرَمَّآت الأخبار (Və murəmmaatul-əxbar): yəni xəbərlərin yalanları, uydurmaları.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:08.692Z"
+ "ts": "2026-10-25T01:32:08.692Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:38:25.584Z"
 }

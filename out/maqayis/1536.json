@@ -11,7 +11,17 @@
   "page_to": 421
  },
  "ar": "الراء والفاء والثاء أصلٌ واحدٌ، وهو كلُّ كلام يُستَحْيا من إظهاره. وأصلُه الرَّفَثُ، وهو النِّكاح. قال اللّه جلّ ثناؤه: ﴿أُحِلَّ لَكُمْ لَيْلَةَ اَلصِّيامِ اَلرَّفَثُ إِلى نِسائِكُمْ﴾. والرّفَث: [الفُحْش] فى الكلام.\nيقال أَرْفَثَ وَرَفَثَ.",
- "az": "[رفث] (ra, fa, sə). Ra, fa və sə tək bir kökdir, o da açıqlanmasından həya edilən hər sözdür. Onun əsli «الرَّفَثُ»-dür, o da cinsi əlaqədir. Uca Allah belə buyurmuşdur: mənaca tərcümə: «Oruc gecəsi qadınlarınıza yaxınlaşmaq (əlaqədə olmaq) sizə halal edildi» (əl-Bəqərə, 187). Və «الرّفث» — sözdə nalayiqlikdir. Deyilir: «أَرْفَثَ» və «رَفَثَ».",
+ "az": "[رفث]\nRa, fa və sə tək bir kökdür, o da açıqlanmasından həya edilən hər sözdür. Onun əsli الرَّفَثُ-dür, o da cinsi əlaqədir. Şanı uca Allah belə buyurmuşdur: ﴿أُحِلَّ لَكُمْ لَيْلَةَ اَلصِّيامِ اَلرَّفَثُ إِلى نِسائِكُمْ﴾ (mənaca tərcümə: «Oruc gecəsi qadınlarınıza yaxınlaşmaq sizə halal edildi»). الرّفَث — sözdə [nalayiqlikdir].\nأَرْفَثَ və رَفَثَ deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:31.378Z"
+ "ts": "2026-10-25T01:30:31.378Z",
+ "prev_az": "[رفث] (ra, fa, sə). Ra, fa və sə tək bir kökdir, o da açıqlanmasından həya edilən hər sözdür. Onun əsli «الرَّفَثُ»-dür, o da cinsi əlaqədir. Uca Allah belə buyurmuşdur: mənaca tərcümə: «Oruc gecəsi qadınlarınıza yaxınlaşmaq (əlaqədə olmaq) sizə halal edildi» (əl-Bəqərə, 187). Və «الرّفث» — sözdə nalayiqlikdir. Deyilir: «أَرْفَثَ» və «رَفَثَ».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Quran ayəsinin ərəbcə mətni buraxılıb.",
+  "«kökdir» sözündə orfoqrafik səhv var (kökdür)."
+ ],
+ "review_ts": "2026-11-18T17:28:06.691Z"
 }

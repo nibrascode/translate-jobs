@@ -11,9 +11,19 @@
   "page_to": 402
  },
  "ar": "الراء والضاد والحاء كلمةٌ واحدة تدلُّ على كَسْر الشئ والرّضْح: كَسْر الشّئ، كدَقِّ النَّوَى وما أشبَهَه. وذلك الشّئُ رَضِيحٌ.\nقال الأعشى:\nبناها السَّوادِىُّ الرَّضِيحُ مع الخَلَا … وسَقْيى وإطْعامِى الشّعيرَ بمحفِدِ (٣)",
- "az": "[رضح] (rə-zə-hə). Ra, zad və ha – bir şeyi qırmağa dəlalət edən tək bir kəlmədir. الرَّضْح (ar-razh) – xurma çəyirdəyi və ona bənzər şeyləri döymək kimi bir şeyi qırmaqdır. Belə olan şey رَضِيحٌ (razihun) [adlanır]. Əş-Şair əl-Əşə bətn etmişdir: بَنَاهُ السَّوَادِيُّ الرَّضِيحُ مَعَ الْخَلَا … وَسَقْيِي وَإِطْعَامِي الشَّعِيرَ بِمَحْفِدِ (٣)",
+ "az": "[رضح]\nRa, dad və ha – bir şeyi qırmağa dəlalət edən tək bir kəlmədir. الرّضْح (ər-rədh) – xurma çəyirdəyi və ona bənzər şeyləri döymək kimi bir şeyi qırmaqdır. Həmin şey رَضِيحٌ (rədih) [adlanır].\nƏl-Əşa demişdir:\nبناها السَّوادِىُّ الرَّضِيحُ مع الخَلَا … وسَقْيى وإطْعامِى الشّعيرَ بمحفِدِ (٣) (Onu (dəvənin bədənini) yaş otla birlikdə Səvadın əzilmiş çəyirdəyi, mənim suvarmağım və axurda arpa yedirtməyim bəsləyib yetişdirdi).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:29:30.016Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[رضح] (rə-zə-hə). Ra, zad və ha – bir şeyi qırmağa dəlalət edən tək bir kəlmədir. الرَّضْح (ar-razh) – xurma çəyirdəyi və ona bənzər şeyləri döymək kimi bir şeyi qırmaqdır. Belə olan şey رَضِيحٌ (razihun) [adlanır]. Əş-Şair əl-Əşə bətn etmişdir: بَنَاهُ السَّوَادِيُّ الرَّضِيحُ مَعَ الْخَلَا … وَسَقْيِي وَإِطْعَامِي الشَّعِيرَ بِمَحْفِدِ (٣)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ض» hərfinin adı «zad» kimi səhv yazılıb (düzgünü: dad).",
+  "Şairin adı «Əş-Şair əl-Əşə bətn etmişdir» kimi pozulmuş ifadə ilə verilib.",
+  "Şeir beytinin tərcüməsi tamamilə buraxılıb və ərəbcə yazılışda «بناها» sözü «بَنَاهُ» kimi dəyişdirilib."
+ ],
+ "review_ts": "2026-11-18T17:22:45.183Z"
 }

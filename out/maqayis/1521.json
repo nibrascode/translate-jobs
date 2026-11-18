@@ -11,7 +11,17 @@
   "page_to": 413
  },
  "ar": "الراء والغين والفاء كلمةٌ واحدة. فالرَّغيف معروف، ويجمع على الرُّغْفان والأرغِفة والرُّغُف. قال:\n* إنّ الشِّواء والنَّشِيلَ والرُّغُفْ (١) *\nوهاهنا كلمةٌ أخرى إن صحَّت. زعموا أنّ الإزغاف: تحديد النَّظَر.",
- "az": "[رغف] (ra, ğeyn, fa) — tək bir sözdür. الرَّغيف (rəqif) – məlum çörək, cəmi الرُّغْفان (rufnan), والأرغِفة (əl-ərgifə) və الرُّغُف (ruğuf). O demişdir: * إنّ الشِّواء والنَّشِيلَ والرُّغُفْ (١) * (Həqiqətən qızardılmış ət, aşlanmış ət və çörəklər). Burada əgər səhihdirsə başqa bir söz də var: Onlar güman edirlər ki, الإزغاف (əl-izğaf) – baxışı sərtləşdirməkdir.",
+ "az": "[رغف] (ra, ğayn, fa) — tək bir sözdür. الرَّغيف (rəğif) – məlum çörəkdir, cəmi الرُّغْفان (ruğfan), الأرغِفة (əl-ərğifə) və الرُّغُف (ruğuf) gəlir. Demişdir:\n* إنّ الشِّواء والنَّشِيلَ والرُّغُفْ (١) * (Həqiqətən qızardılmış ət, qaynadılmış ət və çörəklər).\nBurada əgər səhihdirsə başqa bir söz də var: güman edirlər ki, الإزغاف (əl-izğaf) – baxışı sərtləşdirməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:50.331Z"
+ "ts": "2026-10-25T01:29:50.331Z",
+ "prev_az": "[رغف] (ra, ğeyn, fa) — tək bir sözdür. الرَّغيف (rəqif) – məlum çörək, cəmi الرُّغْفان (rufnan), والأرغِفة (əl-ərgifə) və الرُّغُف (ruğuf). O demişdir: * إنّ الشِّواء والنَّشِيلَ والرُّغُفْ (١) * (Həqiqətən qızardılmış ət, aşlanmış ət və çörəklər). Burada əgər səhihdirsə başqa bir söz də var: Onlar güman edirlər ki, الإزغاف (əl-izğaf) – baxışı sərtləşdirməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الرَّغيف», «الرُّغْفان» və «الأرغِفة» sözlərinin oxunuşları səhv yazılıb (rəqif, rufnan, əl-ərgifə).",
+  "«النَّشِيل» sözü «aşlanmış ət» kimi qeyri-dəqiq tərcümə olunub."
+ ],
+ "review_ts": "2026-11-18T17:24:37.938Z"
 }

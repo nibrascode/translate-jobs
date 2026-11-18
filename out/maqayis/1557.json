@@ -11,7 +11,18 @@
   "page_to": 430
  },
  "ar": "الراء والكاف واللام أصلٌ يدلُّ على جنسٍ من الضرب بالرِّجْل. يقال رَكَلَه ورَفَسه برِجله. ومَرْكَلَا الفَرَس من جنبيه، حيث يركُل الفارسُ برجليه. وتركَّل على الشئ برجله. وتركَّل الحافرُ بمِسْحَاتِه، إذا ضربَها برِجْله لتدخُل فى الأرض. قال الأخطل:\nرَبَت ورَبا فى حِجْرِها ابنُ مَدينةٍ … يَظَلُّ على مِسحاتِه يتركَّل (١)\nوالكديد: المُرَكَّل (٢).",
- "az": "[ركل] (Rəkəl): Ra, kaf və lam hərfləri ayaqla vurulan bir növ zərbəyə dəlalət edən əsasdır. Deyilir: رَكَلَه ورَفَسه برِجله (rəkələhu və rafəsahu bi-riclihi) — onu ayağı ilə təpiklədi və vurdu. Və المَرْكَلان (əl-mərkələn): atın hər iki tərəfindən suvarinin ayaqları ilə vurduğu yerlər. Və تَرَّكَلَ على الشئ برجله (tərrəkələ aləş-şey-i bi-riclihi). Və تَرَّكَلَ الحافرُ بمِسْحَاتِه (tərrəkəl-hafiru bi-mishatihi) — dırmığı yerə daxil etmək üçün onu ayağı ilə vurduqda. Əxhtəl demişdir: \nرَبَت ورَبا فى حِجْرِها ابنُ مَدينةٍ … يَظَلُّ على مِسحاتِه يتركَّل (١)\nVə الكديد (əl-kədid): المُرَكَّل (əl-murakkəl).",
+ "az": "[ركل] (Rəkəl): Ra, kaf və lam hərfləri ayaqla vurulan bir növ zərbəyə dəlalət edən əsasdır. Deyilir: رَكَلَه ورَفَسه برِجله (onu ayağı ilə təpiklədi və vurdu). مَرْكَلَا الفَرَس (mərkələl-fərəs): atın hər iki böyründən suvarinin ayaqları ilə vurduğu yerlər. Və تركَّل على الشئ برجله (ayağı ilə bir şeyin üstünə basdı). Və تركَّل الحافرُ بمِسْحَاتِه (qazan adam belini ayağı ilə vurdu) — beli yerə daxil etmək üçün onu ayağı ilə vurduqda. Əxtəl demişdir:\nرَبَت ورَبا فى حِجْرِها ابنُ مَدينةٍ … يَظَلُّ على مِسحاتِه يتركَّل (١)\n(O böyüdü və bir şəhər sakini olan oğlan da onun himayəsində böyüdü; o, belinin üzərində ayaqla basıb durur.)\nالكديد (əl-kədid): المُرَكَّل (əl-murəkkəl — ayaqla tapdalanmış yer) (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:52.453Z"
+ "ts": "2026-10-25T01:30:52.453Z",
+ "prev_az": "[ركل] (Rəkəl): Ra, kaf və lam hərfləri ayaqla vurulan bir növ zərbəyə dəlalət edən əsasdır. Deyilir: رَكَلَه ورَفَسه برِجله (rəkələhu və rafəsahu bi-riclihi) — onu ayağı ilə təpiklədi və vurdu. Və المَرْكَلان (əl-mərkələn): atın hər iki tərəfindən suvarinin ayaqları ilə vurduğu yerlər. Və تَرَّكَلَ على الشئ برجله (tərrəkələ aləş-şey-i bi-riclihi). Və تَرَّكَلَ الحافرُ بمِسْحَاتِه (tərrəkəl-hafiru bi-mishatihi) — dırmığı yerə daxil etmək üçün onu ayağı ilə vurduqda. Əxhtəl demişdir: \nرَبَت ورَبا فى حِجْرِها ابنُ مَدينةٍ … يَظَلُّ على مِسحاتِه يتركَّل (١)\nVə الكديد (əl-kədid): المُرَكَّل (əl-murakkəl).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Əxtəlin şeir beyti (رَبَت ورَبا فى حِجْرِها...) tərcüməsiz qalmışdır.",
+  "«تركَّل على الشئ برجله» və «والكديد: المُرَكَّل» cümlələri tərcüməsiz qalmış, (٢) haşiyə rəqəmi buraxılmışdır.",
+  "«مِسْحَاتِه» sözü «bel» əvəzinə «dırmıq» kimi yanlış tərcümə edilmiş, ərəbcə sitatda «تركَّل» sözünün hərəkəsi «تَرَّكَلَ» kimi dəyişdirilmişdir."
+ ],
+ "review_ts": "2026-11-18T17:37:24.636Z"
 }

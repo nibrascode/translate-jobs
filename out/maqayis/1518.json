@@ -13,5 +13,10 @@
  "ar": "الراء والعين والشين فى معنى الباب قبله من الاضطراب والارتعاد. ورجلٌ جبانٌ رَعِشٌ. وجَملٌ رَعْشَنٌ، وذلك اهتزازُه فى سَيره.\nوالنون زائدة.\nوالرَّعْشاءُ من النَّعام: السريعة.",
  "az": "[رعش] (ra, ayn, şin) — titrəmək və əsmək baxımından əvvəlki fəslin mənasındadır. رجلٌ جبانٌ رَعِشٌ (racülün cəbanün rəiş) – qorxaq, titrək kişi. Və جملٌ رَعْشَنٌ (cəmalün rəşən) – gedişində sarsılan dəvə. Nun hərfi artıqdır. Və الرَّعْشاءُ (ər-rəşa) – dəvəquşunun sürətlisi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:50.331Z"
+ "ts": "2026-10-25T01:29:50.331Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:24:37.937Z"
 }

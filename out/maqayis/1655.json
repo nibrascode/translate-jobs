@@ -13,5 +13,10 @@
  "ar": "الراء والباء والصاد أصلٌ واحدٌ يدلُّ على الانتظار. من ذلك التربُّص. يقال تربَّصْت به. وحكى السجِستانىّ: لى بالبصرة رُبْصة، ولى فى متاعى رُبْصة، أى لى فيه تربُّص.",
  "az": "[ربص] «الراء» (ra), «الباء» (ba) və «الصاد» (sad) — gözləməyə (intizara) dəlalət edən tək bir əsasdır. Bunlardan biri «التَّرَبُّصُ» (tərəbbüs) olub. «ترَبَّصْتُ به» (ona qarşı gözlədim / intizardam) deyilir. Sistanlı nəql etmişdir: «لى بالبصرة رُبْصة، ولى فى متاعى رُبْصة» (Bəsrədə gözləməyim var, malımda gözləməyim var), yəni orada intizarım var.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:35:15.101Z"
+ "ts": "2026-10-25T01:35:15.101Z",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T18:22:15.259Z"
 }

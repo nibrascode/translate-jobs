@@ -11,7 +11,17 @@
   "page_to": 437
  },
  "ar": "الراء والميم والخاء ليس بشئ. ويقال: إنَّ الرِّمْخ شجر (٤).",
- "az": "[رمخ] (Rəməh). Ra, mim və xa heç bir şey deyil. Deyilir ki, الرِّمْخ (əl-rimh) bir ağacdır.",
+ "az": "[رمخ]\nRa, mim və xa heç bir şey deyil. Deyilir ki, الرِّمْخ (rimx) bir ağacdır (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:08.692Z"
+ "ts": "2026-10-25T01:32:08.692Z",
+ "prev_az": "[رمخ] (Rəməh). Ra, mim və xa heç bir şey deyil. Deyilir ki, الرِّمْخ (əl-rimh) bir ağacdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الرِّمْخ» sözü «əl-rimh» kimi yanlış transkripsiya edilib.",
+  "Haşiyə rəqəmi (٤) buraxılıb."
+ ],
+ "review_ts": "2026-11-18T17:38:25.585Z"
 }

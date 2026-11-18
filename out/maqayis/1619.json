@@ -11,7 +11,18 @@
   "page_to": 460
  },
  "ar": "الراء والواو والغين أصلٌ واحدٌ يدلُّ على مَيْل وقلّة استقرار.\nيقال راغَ الثّعلبُ وغيرُه يَرُوغُ. وطريقٌ رائغٌ: مائل. وراغَ فلانٌ إلى كذا.\nإذا مالَ سِرَّا إليه. وتقول: هو يُدِيرُنى عن أمرى وأَنا أُريعه. قال:\nيدِيرُونَنِى عن سالِمٍ وأُرِيغُهُ … وجلدةُ بَيْنِ العَينِ والأنْفِ سالمُ (١)\nويقال رَوَّغْت اللُّقْمةَ بالسَّمن أروِّغُها ترويغاً، إذا دَسَمْتَها. وهو إذا فعل ذلك أَدارَها فى السَّمْن إِدارة.\nومن الباب: راوغ فلانٌ فلاناً، إذا صارعه؛ لأنَّ كلَّ واحدٍ منهما يُرِيغ الآخَر، أى يُديرُه. ويقال: هذه رِواغة بنى فلان ورِياغتهم: حيث يصطَرِعُون.",
- "az": "[روغ] (Rə, vau və ğeyn) — meyl etməyə və qərar tutmamağa dəlalət edən tək bir əslidir.\n\nDeyilir: «راغَ الثّعلبُ وغيرُه يَرُوغُ» (tülkü və başqası hiylə işlətdi, yolundan azdı). Yol üçün «طريقٌ رائغٌ» (əyri yol) deyilir. Filankəs gizlicə filan şeyə meyl etdikdə «راغَ فلانٌ إلى كذا» deyilir. Deyirsən: «هو يُدِيرُنى عن أمرى وأَنا أُريعه» (o, məni işimdən yayındırmağa çalışır, mən də onu yayındırıram). Şair demişdir:\nيدِيرُونَنِى عن سالِمٍ وأُرِيغُهُ … وجلدةُ بَيْنِ العَينِ والأنْفِ سالمُ (1)\n\nDeyilir: «رَوَّغْت اللُّقْمةَ بالسَّمن أروِّغُها ترويغاً» — loxmanı yağa buladığın zaman. O, bunu edərkən onu yağın içində fırlatmış olur.\n\nBu fəsildəndir: «راوغ فلانٌ فلاناً» — filankəs filankəslə güləşdi; çünki onların hər biri digərini yönləndirməyə, yəni fırlatmağa çalışır. Deyilir: «هذه رِواغة بنى فلان ورِياغتهم» — bəni-felanın güləşib büküşdükləri yerdir.",
+ "az": "[روغ] (Ra, vav və ğayn) — meyl etməyə və qərar tutmamağa dəlalət edən tək bir əsldir.\nDeyilir: «راغَ الثّعلبُ وغيرُه يَرُوغُ» (tülkü və başqası yayınır, dönür). طريقٌ رائغٌ — meyl edən (əyri) yoldur. Filankəs gizlicə filan şeyə meyl etdikdə «راغَ فلانٌ إلى كذا» deyilir. Deyirsən: «هو يُدِيرُنى عن أمرى وأَنا أُريعه» (o, məni işimdən yayındırmağa çalışır, mən də onu istəyirəm). Şair demişdir:\nيدِيرُونَنِى عن سالِمٍ وأُرِيغُهُ … وجلدةُ بَيْنِ العَينِ والأنْفِ سالمُ (١) (Məni Salimdən yayındırmağa çalışırlar, mən isə onu istəyirəm; göz ilə burun arasındakı dəri də Salimdir)\nDeyilir: «رَوَّغْت اللُّقْمةَ بالسَّمن أروِّغُها ترويغاً» — loxmanı yağa buladığın zaman. O, bunu edərkən onu yağın içində fırlatmış olur.\nBu babdandır: «راوغ فلانٌ فلاناً» — filankəs filankəslə güləşdi; çünki onların hər biri digərini yönləndirməyə, yəni fırlatmağa çalışır. Deyilir: «هذه رِواغة بنى فلان ورِياغتهم» — Bəni-Filanın güləşdikləri yerdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:33:59.185Z"
+ "ts": "2026-10-25T01:33:59.185Z",
+ "prev_az": "[روغ] (Rə, vau və ğeyn) — meyl etməyə və qərar tutmamağa dəlalət edən tək bir əslidir.\n\nDeyilir: «راغَ الثّعلبُ وغيرُه يَرُوغُ» (tülkü və başqası hiylə işlətdi, yolundan azdı). Yol üçün «طريقٌ رائغٌ» (əyri yol) deyilir. Filankəs gizlicə filan şeyə meyl etdikdə «راغَ فلانٌ إلى كذا» deyilir. Deyirsən: «هو يُدِيرُنى عن أمرى وأَنا أُريعه» (o, məni işimdən yayındırmağa çalışır, mən də onu yayındırıram). Şair demişdir:\nيدِيرُونَنِى عن سالِمٍ وأُرِيغُهُ … وجلدةُ بَيْنِ العَينِ والأنْفِ سالمُ (1)\n\nDeyilir: «رَوَّغْت اللُّقْمةَ بالسَّمن أروِّغُها ترويغاً» — loxmanı yağa buladığın zaman. O, bunu edərkən onu yağın içində fırlatmış olur.\n\nBu fəsildəndir: «راوغ فلانٌ فلاناً» — filankəs filankəslə güləşdi; çünki onların hər biri digərini yönləndirməyə, yəni fırlatmağa çalışır. Deyilir: «هذه رِواغة بنى فلان ورِياغتهم» — bəni-felanın güləşib büküşdükləri yerdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalıb.",
+  "«أُريعه / أُريغُه» və «راغَ الثّعلبُ» ifadələri məna baxımından qeyri-dəqiq tərcümə olunub.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə saxlanılmayıb və «güləşib büküşdükləri» kimi pozulmuş ifadə var."
+ ],
+ "review_ts": "2026-11-18T17:45:34.852Z"
 }

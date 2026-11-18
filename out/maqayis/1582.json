@@ -11,7 +11,18 @@
   "page_to": 441
  },
  "ar": "الراء والميم والعين أصلٌ يدلُّ على اضطرابٍ وحركةٍ. فالرَّمَّاعةُ من الإنسان: الذى يضطرب من الصبىِّ على يافُوخِه. والرَّمَعَانُ: الاضطِراب.\nويقال رَمَعَ أَنْفُ الرّجُل يَرمَع رمَعاناً، إذا تحرَّك من غضبٍ. ومن الباب قَبَحَ اللّه أمَّا رَمَعَتْ به، أى ولدَتْه. ومن ذلك اليَرْمَع: حجارةٌ بِيضٌ رِقاقٌ تلمَع فى الشمس. ومن الباب إن صحّ، الرامِع، وهو الذى يطأطِئُّ رأسَه ثم يرفعه.\nويقال الرُّماع تغيُّر الوَجْه (١) والباب كلُّه واحد. ويقولون: المُرَمِّعَة المَهْلكة (٢).",
- "az": "[رمع] (rəməğ) - راء، ميم və عَيْن hərfləri nizamsızlıq və hərəkətə dəlalət edən bir əsldir. İnsanın «الرَّمَّاعةُ» (rəmmacə) dedikdə, uşağın bıngıldağı üzərində hərəkət edən hissəsi nəzərdə tutulur. «الرَّمَعَانُ» (rəməan) - nizamsızlıq, hərəkətlilik. Deyilir ki, «رَمَعَ أَنْفُ الرّجُل يَرمَع رمَعاناً» (rəməə ənfُّ ər-rəculi yərməu rəməanən) - kişinin burnu qəzəbdən tərpəndikdə işlədilir. Bu qəbildəndir: «قَبَحَ اللّه أمَّا رَمَعَتْ به» (qəbəhə əllahu əmmən rəməət bihi), yəni onu doğan ana. Həmçinin «اليَرْمَع» (əl-yərməc) - günəşdə parıldayan ağ, incə daşlardır. Əgər səhihdirsə, bu بابdan olan «الرامِع» (əl-ramic) başını aşağı salıb sonra qaldıran kəsdir. Deyilir ki, «الرُّماع» (əl-rumau) - üzün dəyişməsidir (١), və bütün باب eyni məna ətrafındadır. Deyirlər ki, «المُرَمِّعَة» (əl-murəmmicə) - həlakedici yerdir (٢).",
+ "az": "[رمع]\\nRa, mim və ayn hərfləri titrəmə (iztirab) və hərəkətə dəlalət edən bir əsldir. İnsanda «الرَّمَّاعةُ» (uşağın bıngıldağı üzərində hərəkət edən hissə) və «الرَّمَعَانُ» (titrəmə, hərəkətlilik) bu əsldəndir.\\nDeyilir: «رَمَعَ أَنْفُ الرّجُل يَرمَع رمَعاناً» — kişinin burnu qəzəbdən tərpəndikdə belə deyilir. Bu babdandır: «قَبَحَ اللّه أمَّا رَمَعَتْ به» (Allah onu doğan ananı rəzil etsin), yəni onu doğdu. Həmçinin «اليَرْمَع» — günəşdə parıldayan ağ, nazik daşlardır. Əgər səhihdirsə, bu babdan olan «الرامِع» — başını aşağı salıb sonra qaldıran kəsdir.\\nDeyilir ki, «الرُّماع» — üzün dəyişməsidir (١) və bütün bab eyni mənadadır. Deyirlər ki, «المُرَمِّعَة» — həlakedici yerdir (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:32:28.605Z"
+ "ts": "2026-10-25T01:32:28.605Z",
+ "prev_az": "[رمع] (rəməğ) - راء، ميم və عَيْن hərfləri nizamsızlıq və hərəkətə dəlalət edən bir əsldir. İnsanın «الرَّمَّاعةُ» (rəmmacə) dedikdə, uşağın bıngıldağı üzərində hərəkət edən hissəsi nəzərdə tutulur. «الرَّمَعَانُ» (rəməan) - nizamsızlıq, hərəkətlilik. Deyilir ki, «رَمَعَ أَنْفُ الرّجُل يَرمَع رمَعاناً» (rəməə ənfُّ ər-rəculi yərməu rəməanən) - kişinin burnu qəzəbdən tərpəndikdə işlədilir. Bu qəbildəndir: «قَبَحَ اللّه أمَّا رَمَعَتْ به» (qəbəhə əllahu əmmən rəməət bihi), yəni onu doğan ana. Həmçinin «اليَرْمَع» (əl-yərməc) - günəşdə parıldayan ağ, incə daşlardır. Əgər səhihdirsə, bu بابdan olan «الرامِع» (əl-ramic) başını aşağı salıb sonra qaldıran kəsdir. Deyilir ki, «الرُّماع» (əl-rumau) - üzün dəyişməsidir (١), və bütün باب eyni məna ətrafındadır. Deyirlər ki, «المُرَمِّعَة» (əl-murəmmicə) - həlakedici yerdir (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları və «bab» sözü tərcümə edilməyib, ərəb qrafikası ilə saxlanılıb.",
+  "«قَبَحَ اللّه» ifadəsi tərcümədə buraxılıb.",
+  "Transliterasiya və abzas bölgüsündə xətalar var."
+ ],
+ "review_ts": "2026-11-18T17:41:26.711Z"
 }

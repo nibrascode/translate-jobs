@@ -11,7 +11,17 @@
   "page_to": 487
  },
  "ar": "الراء والثاء والعين أصلٌ صحيحٌ يدلُّ على جَشَعَ وطَمَع.\nكذا قال الخليل: إنّ الرّثَع الطَّمَع والحِرْص. قال الكسائىّ: رجلٌ راثِع، وهو الذى يرضَى من العطيّة بالطَّنيف ويُخادِنُ أخدانَ السَّوء. يقال رثِع رثَعاً.",
- "az": "[رثع] \nالراء والثاء والعين (ra, sə və eyn) — hərisliyə və tamahkarlığa dəlalət edən səhih bir əsasdır. \nXəlil belə demişdir: الرّثَع (rəsəc) — tamah və hərislikdir. Kisai demişdir: رجلٌ راثِع (rasic kişi) — o kəsdir ki, verilən az bir hədiyyəyə qane olur və pis dostlarla dostluq edir. Deyilir: رثِع رثَعاً (tamahkar oldu, hərislik etdi).",
+ "az": "[رثع]\nالراء والثاء والعين (ra, sa və ayn) — hərisliyə və tamahkarlığa dəlalət edən səhih bir əsasdır.\nXəlil belə demişdir: الرَّثَع (rəsa) — tamah və hərislikdir. Kisai demişdir: رجلٌ راثِع (rasi kişi) — o kəsdir ki, verilən az bir paya qane olur və pis dostlarla dostluq edir. Deyilir: رثِع رثَعاً (tamahkar oldu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:35:36.371Z"
+ "ts": "2026-10-25T01:35:36.371Z",
+ "prev_az": "[رثع] \nالراء والثاء والعين (ra, sə və eyn) — hərisliyə və tamahkarlığa dəlalət edən səhih bir əsasdır. \nXəlil belə demişdir: الرّثَع (rəsəc) — tamah və hərislikdir. Kisai demişdir: رجلٌ راثِع (rasic kişi) — o kəsdir ki, verilən az bir hədiyyəyə qane olur və pis dostlarla dostluq edir. Deyilir: رثِع رثَعاً (tamahkar oldu, hərislik etdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı «sa» yerinə «sə» yazılmışdır.",
+  "«الرثع» və «راثع» sözlərinin transliterasiyasında «c» hərfi əlavə olunaraq «rəsəc» və «rasic» kimi səhv yazılmışdır."
+ ],
+ "review_ts": "2026-11-18T18:39:19.478Z"
 }

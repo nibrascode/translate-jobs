@@ -11,7 +11,16 @@
   "page_to": 412
  },
  "ar": "الراء والعين والزاء ليس بشئ. على انّهم يقولون: المُرَاعِزُ:\nالمُعاتِبُ (١).",
- "az": "[رعز] (ra, ayn, zay) — heç bir şey deyil. Lakin onlar deyirlər: المُرَاعِزُ (əl-murais) – məzəmmət edən (١).",
+ "az": "[رعز] (ra, ayn, zey) — heç bir şey deyil. Lakin onlar deyirlər: المُرَاعِزُ (əl-muraiz) – məzəmmət edən (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:50.331Z"
+ "ts": "2026-10-25T01:29:50.331Z",
+ "prev_az": "[رعز] (ra, ayn, zay) — heç bir şey deyil. Lakin onlar deyirlər: المُرَاعِزُ (əl-murais) – məzəmmət edən (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«المُرَاعِزُ» sözünün oxunuşu səhvən «əl-murais» yazılıb."
+ ],
+ "review_ts": "2026-11-18T17:24:37.936Z"
 }

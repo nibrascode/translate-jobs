@@ -11,7 +11,17 @@
   "page_to": 500
  },
  "ar": "الراء والخاء والصاد أصلٌ يدلُّ على لِينٍ وخلافِ شِدة من ذلك اللّحْمُ الرَّخْص، هو الناعم. ومن ذلك الرُّخْص: خِلاف الغَلاء.\nوالرُّخْصَة فى الأمر: خلافِ التَّشْديد. و\nفى الحديث: «إنَّ اللّه جلّ ثناؤه يحبُّ أن يؤخذ برُخَصِهِ كما يحبُّ أن تُؤتَى عزائِمهُ».",
- "az": "[رخص] \nالراء والخاء والصاد أصلٌ يدلُّ على لِينٍ وخلافِ شِدة (Ra, xa və sad hərfləri yumşaqlığa və sərtliyin əksinə dəlalət edən bir kökdür). من ذلك اللّحْمُ الرَّخْص، هو الناعم (Ondandır: اللّحْمُ الرَّخْص (yumşaq ət), yəni zərif olan). ومن ذلك الرُّحْص [الرُّخْص]: خِلاف الغَلاء (Və ondandır: الرُّخْص (ucuzluq) – bahalığın əksidir).\nوالرُّخْصَة فى الأمر: خلافِ التَّشْديد (Və işdəki رُّخْصَة (güzəşt) – sərtliyin əksidir).\nفى الحديث: «إنَّ اللّه جلّ ثناؤه يحبُّ أن يؤخذ برُخَصِهِ كما يحبُّ أن تُؤتَى عزائِمهُ» (Hədisdə demişdir: «Şübhəsiz ki, Allah təbarək və təala Öz güzəştlərinin qəbul olunmasını sevdiyi kimi, Öz qəti əmrlərinin də yerinə yetirilməsini sevər»).",
+ "az": "[رخص] راء، xa və sad hərfləri yumşaqlığa və sərtliyin əksinə dəlalət edən bir kökdür. Ondandır اللّحْمُ الرَّخْص – zərif, yumşaq ət. Ondandır الرُّخْص – ucuzluq, bahalığın əksi.\nİşdəki الرُّخْصَة – güzəşt, sərtliyin əksidir.\nHədisdə buyurulur: «إنَّ اللّه جلّ ثناؤه يحبُّ أن يؤخذ برُخَصِهِ كما يحبُّ أن تُؤتَى عزائِمهُ» (Şübhəsiz ki, şanı uca olan Allah Öz güzəştlərinin yerinə yetirilməsini sevdiyi kimi, Öz qəti əmrlərinin də icra olunmasını sevər).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:05.460Z"
+ "ts": "2026-10-25T01:37:05.460Z",
+ "prev_az": "[رخص] \nالراء والخاء والصاد أصلٌ يدلُّ على لِينٍ وخلافِ شِدة (Ra, xa və sad hərfləri yumşaqlığa və sərtliyin əksinə dəlalət edən bir kökdür). من ذلك اللّحْمُ الرَّخْص، هو الناعم (Ondandır: اللّحْمُ الرَّخْص (yumşaq ət), yəni zərif olan). ومن ذلك الرُّحْص [الرُّخْص]: خِلاف الغَلاء (Və ondandır: الرُّخْص (ucuzluq) – bahalığın əksidir).\nوالرُّخْصَة فى الأمر: خلافِ التَّشْديد (Və işdəki رُّخْصَة (güzəşt) – sərtliyin əksidir).\nفى الحديث: «إنَّ اللّه جلّ ثناؤه يحبُّ أن يؤخذ برُخَصِهِ كما يحبُّ أن تُؤتَى عزائِمهُ» (Hədisdə demişdir: «Şübhəsiz ki, Allah təbarək və təala Öz güzəştlərinin qəbul olunmasını sevdiyi kimi, Öz qəti əmrlərinin də yerinə yetirilməsini sevər»).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb nəsri mətndə lüzumsuz təkrar olunmuşdur.",
+  "Hədisin tərcüməsinə mətndə olmayan «təbarək» sözü əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-18T18:52:14.648Z"
 }

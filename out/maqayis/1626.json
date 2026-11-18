@@ -11,7 +11,19 @@
   "page_to": 464
  },
  "ar": "الراء والياء والثاء أصلٌ واحد، يدلُّ على البُطء، وهو الرَّيثُ: خِلاف العَجَل. قال لبيد:\nإنَّ تَقْوَى ربِّنا خيرُ نَفَلْ … وبإِذْنِ اللّهِ رَيْثِى وعَجَلْ (٣)\nتقول منه راثَ يَرِيث. واستَرَثْتُ فلاناً * استبطأتُه. وربّما قالوا:\nاستَرْيَث، وليس بالمستعمَل. ويقال رجلٌ رَيَّثٌ، أى بطئ.",
- "az": "[ريث] الراء (الراء) və الياء (ياء) və الثاء (ثə) yavaşlığa dəlalət edən tək bir kökdür. O da الرَّيث (əр-rəys) — tələsikliyin ziddidir. Ləbid demişdir: إنَّ تَقْوَى ربِّنا خيرُ نَفَلْ … وبإِذْنِ اللّهِ رَيْثِى وعَجَلْ (٣) — (Həqiqətən, Rəbbimizin təqvası ən xeyirli qənimətdir, Allahın izni ilə mənim yavaşımm və tələsiyimlə). Bundan deyirsən: راثَ يَرِيث (rathə yəris) — yavaş oldu, ləngidi. Və استَرَثْتُ فلاناً (istərəstü fülənan) — onu ləngiməkdə günahlandırdım, yavaş hərəkət etdiyini düşündüm. Bəzən استَرْيَث (istəryəf) də deyirlər, lakin bu işlək deyildir. Deyilir ki, رجلٌ رَيَّثٌ (rəcülün rəyyis) — yavaş hərəkət edən, ləng adamdır.",
+ "az": "[ريث] (Ra, ya və sa) — yavaşlığa dəlalət edən tək bir kökdür. O da الرَّيثُ (ər-rəys) — tələsikliyin ziddidir. Ləbid demişdir:\nإنَّ تَقْوَى ربِّنا خيرُ نَفَلْ … وبإِذْنِ اللّهِ رَيْثِى وعَجَلْ (٣) — (Həqiqətən, Rəbbimizin təqvası ən xeyirli qənimətdir; mənim ləngiməyim və tələsməyim də Allahın izni ilədir).\nBundan deyirsən: راثَ يَرِيث (rasə yəris). استَرَثْتُ فلاناً * (istərəstu fulanən) — onu ləng hesab etdim (gecikdiyini gördüm). Bəzən:\nاستَرْيَث (istəryəs) də deyirlər, lakin bu işlək deyildir. Deyilir: رجلٌ رَيَّثٌ (rəculun rəyyisun) — yəni yavaş hərəkət edən, ləng adamdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:34:27.039Z"
+ "ts": "2026-10-25T01:34:27.039Z",
+ "prev_az": "[ريث] الراء (الراء) və الياء (ياء) və الثاء (ثə) yavaşlığa dəlalət edən tək bir kökdür. O da الرَّيث (əр-rəys) — tələsikliyin ziddidir. Ləbid demişdir: إنَّ تَقْوَى ربِّنا خيرُ نَفَلْ … وبإِذْنِ اللّهِ رَيْثِى وعَجَلْ (٣) — (Həqiqətən, Rəbbimizin təqvası ən xeyirli qənimətdir, Allahın izni ilə mənim yavaşımm və tələsiyimlə). Bundan deyirsən: راثَ يَرِيث (rathə yəris) — yavaş oldu, ləngidi. Və استَرَثْتُ فلاناً (istərəstü fülənan) — onu ləngiməkdə günahlandırdım, yavaş hərəkət etdiyini düşündüm. Bəzən استَرْيَث (istəryəf) də deyirlər, lakin bu işlək deyildir. Deyilir ki, رجلٌ رَيَّثٌ (rəcülün rəyyis) — yavaş hərəkət edən, ləng adamdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları Azərbaycan dilində yazılmamış, ərəbcə təkrarlanmışdır.",
+  "«əр-rəys» sözündə kiril «р» hərfi işlənmişdir.",
+  "«راثَ يَرِيث» və «استَرْيَث» sözlərinin oxunuş transkripsiyası səhv verilmişdir.",
+  "Şeir beytinin tərcüməsində yazı və məna xətası var."
+ ],
+ "review_ts": "2026-11-18T17:45:38.334Z"
 }

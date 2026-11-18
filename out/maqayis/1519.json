@@ -11,7 +11,16 @@
   "page_to": 412
  },
  "ar": "الراء والعين والصاد * فى معنى البابِ الذى قبلَه. فالرَّعْص الاضطراب. ويقال ارتعصت الحيّةُ: تلوَّت. قال:\nأنَى لا أسعَى إلى داعِيَّهْ … إلاّ ارتعاصاً كارتعاصِ الحيَّهْ (٣)\nويقال ارتعص الجَدْيُ، إذا طَفَرَ من النَّشاط.",
- "az": "[رعص] (ra, ayn, sad) — əvvəlki fəslin mənasındadır. الرَّعْص (rəb) – titrəmə. Deyilir: ارتعصت الحيّةُ (irtəasəti l-həyyə) – ilan büküldü, titrədi. O demişdir: أنَى لا أسعَى إلى داعِيَّهْ … إلاّ ارتعاصاً كارتعاصِ الحيَّهْ (٣) (Mən çağıranımın çağırışına qaçmıram… ilanın titrəməsi kimi titrəmə istisna olmaqla). Və deyilər: ارتعص الجَدْيُ (irtəasə l-cədyu) – keçi balası oynaqlığından sıçradı.",
+ "az": "[رعص] (ra, ayn, sad) — əvvəlki fəslin mənasındadır. الرَّعْص (rəs) – titrəmədir. Deyilir: ارتعصت الحيّةُ (irtəasəti l-həyyə) – ilan büküldü, titrədi. Demişdir:\nأنَى لا أسعَى إلى داعِيَّهْ … إلاّ ارتعاصاً كارتعاصِ الحيَّهْ (٣) (Mən çağıranın çağırışına qaçmıram… ilanın titrəməsi kimi titrəmə istisna olmaqla). Və deyilir: ارتعص الجَدْيُ (irtəasə l-cədyu) – keçi balası oynaqlığından sıçradı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:29:50.331Z"
+ "ts": "2026-10-25T01:29:50.331Z",
+ "prev_az": "[رعص] (ra, ayn, sad) — əvvəlki fəslin mənasındadır. الرَّعْص (rəb) – titrəmə. Deyilir: ارتعصت الحيّةُ (irtəasəti l-həyyə) – ilan büküldü, titrədi. O demişdir: أنَى لا أسعَى إلى داعِيَّهْ … إلاّ ارتعاصاً كارتعاصِ الحيَّهْ (٣) (Mən çağıranımın çağırışına qaçmıram… ilanın titrəməsi kimi titrəmə istisna olmaqla). Və deyilər: ارتعص الجَدْيُ (irtəasə l-cədyu) – keçi balası oynaqlığından sıçradı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الرَّعْص» sözünün oxunuşu səhvən «rəb» yazılıb."
+ ],
+ "review_ts": "2026-11-18T17:24:37.937Z"
 }

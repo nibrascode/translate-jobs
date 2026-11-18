@@ -11,7 +11,17 @@
   "page_to": 482
  },
  "ar": "الراء والباء والكاف كلمةٌ تدلُّ على خَلْطٍ واختلاط.\nفالرَّبْك: إصلاح الثريد وخلطه. ويقال له حين يُفعل به ذلك الرَّبيكة. ويقال ارتبك فى الأمر، إذا لم يكد يتخلص منه.",
- "az": "[ربك] \nالراء والباء والكاف (ra, ba və kaf) — qarışdırmağa və qarışıqlığa dəlalət edən bir kəlmədir. \nفرَّبْك (rəbk) — səridin (ətli və ya ətsiz əzmə xörəyin) düzəldilməsi və qarışdırılmasıdır. Bu edildikdə ona الرَّبيكة (rəbiqə) deyilir. Deyilir: ارتبك فى الأمر (işdə dolaşıb qaldı), o zaman ki, o işdən demək olar ki, qurtula bilmir.",
+ "az": "[ربك]\nالراء والباء والكاف (ra, ba və kaf) — qarışdırmağa və qarışıqlığa dəlalət edən bir kəlmədir.\nفالرَّبْك (rəbk) — səridin (ətli əzmə xörəyin) hazırlanması və qarışdırılmasıdır. Bu iş görüldükdə ona الرَّبيكة (rəbikə) deyilir. Deyilir: ارتبك فى الأمر (işdə dolaşıb qaldı), o zaman ki, o, o işdən demək olar ki, qurtula bilmir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:35:36.370Z"
+ "ts": "2026-10-25T01:35:36.370Z",
+ "prev_az": "[ربك] \nالراء والباء والكاف (ra, ba və kaf) — qarışdırmağa və qarışıqlığa dəlalət edən bir kəlmədir. \nفرَّبْك (rəbk) — səridin (ətli və ya ətsiz əzmə xörəyin) düzəldilməsi və qarışdırılmasıdır. Bu edildikdə ona الرَّبيكة (rəbiqə) deyilir. Deyilir: ارتبك فى الأمر (işdə dolaşıb qaldı), o zaman ki, o işdən demək olar ki, qurtula bilmir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sözün transkripsiyasında hərf səhvi var: «الرَّبيكة» sözü «rəbiqə» kimi tərcümə olunub, düzgünü «rəbikə» olmalıdır.",
+  "Mətndəki «فالرَّبْك» sözü səhvən «فرَّبْك» yazılmışdır."
+ ],
+ "review_ts": "2026-11-18T18:34:37.042Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 465
  },
  "ar": "الراء والياء والدال كلمتان: الريد: أنْفِ الجبَل. والرِّيد:\nالتّرب.",
- "az": "[ريد] الراء (الراء) və الياء (ياء) və الدال (dal) — iki sözdür: الريد (ər-rid) — dağın burnu (zirvəsi və ya çıxıntısı). Və الرِّيد (ər-rid) — torpaq, yer.",
+ "az": "[ريد] الراء (ra), الياء (ya) və الدال (dal) — iki sözdür: الريد (ər-rid) — dağın burnu (çıxıntısı). الرِّيد (ər-rid) — torpaq.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:34:27.039Z"
+ "ts": "2026-10-25T01:34:27.039Z",
+ "prev_az": "[ريد] الراء (الراء) və الياء (ياء) və الدال (dal) — iki sözdür: الريد (ər-rid) — dağın burnu (zirvəsi və ya çıxıntısı). Və الرِّيد (ər-rid) — torpaq, yer.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəbcə saxlanılıb."
+ ],
+ "review_ts": "2026-11-18T17:46:35.456Z"
 }

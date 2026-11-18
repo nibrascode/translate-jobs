@@ -13,5 +13,10 @@
  "ar": "الراء والقاف والنون بابٌ يقرب من الباب الذى قبله.\nيقال رَقّنْت الكتاب: قاربتُ بينَ سُطوره. وترقَّنت المرأةُ: تلطَّخت بالزَّعفران.\nوالرَّقون والرِّقان: الزَّعفران. والمرقون: المنقوش. ويقال للمرأة الحسنة اللَّون الناعمة: راقنة.",
  "az": "[رقن] (Rəqən): Ra, qaf və nun hərfləri əvvəlki fəsilə yaxın bir babdır. \nرَقّنْتُ الكتاب (rəqqəntul-kitab): kitabın sətirlərini bir-birinə yaxınlaşdırdım. وَتَرَقَّنَتِ المَرْأَةُ (və tərəqqəatil-məraə): qadın özünü zəfəranla boyadı. \nوالرَّقُون والرِّقان (ər-raqûn və ər-riqan): zəfəran. والمرقون (əl-mərqun): naxışlanmış. Gözəl rəngli, zərif qadına راقنة (raqinə) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:52.453Z"
+ "ts": "2026-10-25T01:30:52.453Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:35:48.768Z"
 }

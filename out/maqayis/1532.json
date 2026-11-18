@@ -11,7 +11,18 @@
   "page_to": 419
  },
  "ar": "[الراء والفاء والنون ليس أصلاً (٢)]، وإنّما النُّون [فى رِفَنّ] مبدلةٌ من لام؛ لأنّه فى الأصل رِفَلٌّ. فأما قولهم ارفأَنَّ، إِذا سكَنَ، فإنّ النون فيه زائدة.",
- "az": "«رفن» (rəfən): [Ра, fa və nun hərfləri əsl deyil], sadəcə [رِفَنّ - rifənn] sözündəki nun hərfi lam hərfinin əvəzinə dəyişdirilmişdir; çünki o, əslində «رِفَلٌّ» (rifəllün) olub. Qaldı ki, onların «ارْفَأَنَّ» (irfəənnə) — yəni sakitləşdi, sözünə, oradakı nun hərfi artırılmışdır.",
+ "az": "[رفن]\n[Ra, fa və nun hərfləri əsl deyil (٢)], sadəcə [رِفَنّ sözündəki] nun hərfi lam hərfindən dəyişdirilmişdir; çünki o, əslində رِفَلٌّ olub. Qaldı ki, onların ارفأَنَّ — yəni sakitləşdi — sözünə, oradakı nun hərfi artırılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:12.131Z"
+ "ts": "2026-10-25T01:30:12.131Z",
+ "prev_az": "«رفن» (rəfən): [Ра, fa və nun hərfləri əsl deyil], sadəcə [رِفَنّ - rifənn] sözündəki nun hərfi lam hərfinin əvəzinə dəyişdirilmişdir; çünki o, əslində «رِفَلٌّ» (rifəllün) olub. Qaldı ki, onların «ارْفَأَنَّ» (irfəənnə) — yəni sakitləşdi, sözünə, oradakı nun hərfi artırılmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[رفن]» şəklində deyil.",
+  "«Ра» sözündə kiril əlifbasından «Р» hərfi işlədilib.",
+  "Haşiyə rəqəmi (٢) buraxılıb və «فى رِفَنّ» ifadəsi orijinaldakı kimi saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-18T17:28:06.690Z"
 }

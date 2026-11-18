@@ -11,7 +11,17 @@
   "page_to": 465
  },
  "ar": "الراء والياء والراء كلمةٌ واحدةٌ لا يقاس عليها ولا يفرّع منها.\nفالرِّير: المُخّ الفاسد، وهو الريْرُ والرَّار. وأرَارَ اللّهُ مُخَّ هذه النّاقةِ، أى تركه رِيراً.\nوحدّثنى علىُّ بن إبراهيمَ قال: سألتُ ثعلبا عن قول القائل:\n* أرَارَ اللّه مُخَّك فى السُّلامَى *\nفقلت: أكذا هو، أم: أرانى اللّه مُخَّك فى السُّلامى؟ وأيُّهما أجود وأَحبُّ إِليك؟ فقال: كلاهما واحد. ومعنى أرَارَ أرَقَّ. والسَّلامَى: عظام الرِّجْل.",
- "az": "[رير] الراء (الراء) və الياء (ياء) və الراء (rar) — qiyas olunmayan və ondan budaqlanmayan tək bir sözdür. Rir (الرِّير) — xarab olmuş, çürümüş sümük iliyi; o, həm رير (rir), həm də رار (rar) adlanır. Və أرَارَ اللّهُ مُخَّ هذه النّاقةِ (ərarə اللَّhu muxhə həzihi ən-naqəti) — Allah bu dişi dəvənin iliyini xarab etdi, onu rir halına gətirdi. Əli ibn İbrahim mənə rəvayət edib dedi: Səəlibdən soruşdum: *أرَارَ اللّه مُخَّك فى السُّلامَى* (Allah sənin sümük iliyini oynaq sümüklərində xarab etsin) sözü haqqında, və dedim: Məhz belədirmi, yoxsa أرانى اللّه مُخَّك فى السُّلامى (Allah sənin iliyini oynaq sümüklərində mənə göstərsin)? Hansı daha gözəl və sənə daha seimlidir? O dedi: İkisi də eynidir. «Ərarə» sözünün mənası «yumşaltdı, sulu etdi» deməkdir. Əs-səlami (السَّلامَى) isə ayaq sümükləridir.",
+ "az": "[رير] الراء (ra), الياء (ya) və الراء (ra) — qiyas olunmayan və ondan söz törədilməyən tək bir sözdür.\nفالرِّير (ər-rir) — xarab olmuş sümük iliyidir; ona həm الريْرُ (ər-rir), həm də الرَّار (ər-rar) deyilir. أرَارَ اللّهُ مُخَّ هذه النّاقةِ — yəni Allah bu dişi dəvənin iliyini rir (xarab) etdi.\nƏli ibn İbrahim mənə rəvayət edib dedi: Sələbdən deyənin bu sözü haqqında soruşdum:\n* أرَارَ اللّه مُخَّك فى السُّلامَى * («Allah sənin sümük iliyini oynaq sümüklərində xarab etsin»)\nDedim: «Məhz belədirmi, yoxsa: أرانى اللّه مُخَّك فى السُّلامى (Allah sənin iliyini oynaq sümüklərində mənə göstərsin)? Hansı daha gözəl və sənə daha sevimlidir?» O dedi: «İkisi də eynidir. أرَارَ (ərarə) sözünün mənası أرَقَّ (durulaşdırdı, sulu etdi) deməkdir. السَّلامَى (əs-səlama) isə ayaq sümükləridir».",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:34:27.039Z"
+ "ts": "2026-10-25T01:34:27.039Z",
+ "prev_az": "[رير] الراء (الراء) və الياء (ياء) və الراء (rar) — qiyas olunmayan və ondan budaqlanmayan tək bir sözdür. Rir (الرِّير) — xarab olmuş, çürümüş sümük iliyi; o, həm رير (rir), həm də رار (rar) adlanır. Və أرَارَ اللّهُ مُخَّ هذه النّاقةِ (ərarə اللَّhu muxhə həzihi ən-naqəti) — Allah bu dişi dəvənin iliyini xarab etdi, onu rir halına gətirdi. Əli ibn İbrahim mənə rəvayət edib dedi: Səəlibdən soruşdum: *أرَارَ اللّه مُخَّك فى السُّلامَى* (Allah sənin sümük iliyini oynaq sümüklərində xarab etsin) sözü haqqında, və dedim: Məhz belədirmi, yoxsa أرانى اللّه مُخَّك فى السُّلامى (Allah sənin iliyini oynaq sümüklərində mənə göstərsin)? Hansı daha gözəl və sənə daha seimlidir? O dedi: İkisi də eynidir. «Ərarə» sözünün mənası «yumşaltdı, sulu etdi» deməkdir. Əs-səlami (السَّلامَى) isə ayaq sümükləridir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəbcə saxlanılıb və ikinci «الراء» hərfi səhvən «rar» kimi verilib.",
+  "«Səəlib» adı səhv yazılıb (Sələb olmalıdır) və «seimlidir» orfoqrafik səhvi var."
+ ],
+ "review_ts": "2026-11-18T17:46:35.456Z"
 }

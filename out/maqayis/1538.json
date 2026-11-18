@@ -13,5 +13,10 @@
  "ar": "الراء والفاء والزاء ليس هو عندنا أصلاً، لكنَّهم قالوا: إنّ الرّفْز الضَّرْب؛ يقال ما يَرْفِزُ منه عِرْقٌ: أى ما يضرِب. قال:\nوبلدةٍ للداء فيها غامِزُ … مَيْتٍ بها العِرقُ الصَّحيح الرَّافِزْ (١)",
  "az": "[رفز] (ra, fa, zay). Bizə görə əsl deyil, lakin demişlər ki, «الرّفْز» — vurmaqdır; deyilir: «ما يَرْفِزُ منه عِرْقٌ» — yəni heç bir damar döyünmür. O demişdir: وبلدةٍ للداء فيها غامِزُ … مَيْتٍ بها العِرقُ الصَّحيح الرَّافِزْ (١) (Elə bir diyar ki, onda xəstəliyin batıq yeri var, sağlam və döyünən damar orada ölüdür).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:30:31.378Z"
+ "ts": "2026-10-25T01:30:31.378Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-18T17:34:06.631Z"
 }
