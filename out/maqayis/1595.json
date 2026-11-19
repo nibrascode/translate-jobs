@@ -11,9 +11,19 @@
   "page_to": 446
  },
  "ar": "الراء والنون والميم أصَيلٌ صحيح فى الأصوات. يقال ترنَّمَ، إذا رجَّع صوتَه. وترنمَ الطائر فى هديره. وترتمتِ القوسُ، شُبّه صوتُها عند الإنباض عنها بالترنُّم. قال الشماخ:\nإذا أنْبَضَ الرَّامُونَ عنها ترنَّمَت … ترنَّم ثَكْلَى أوجعَتْها الجنائزُ (٣)\nباب الراءِ والهاءِ وما يثلثهما",
- "az": "[رنم] (rənəm) - راء، نون və mim hərfləri səslər barəsində səhih kiçik bir əsldir. Deyilir: «ترنَّمَ» (tərrənəmə) – səsini zərifləşdirib oxudu. Quş «ترنمَ» (tərrənəmə) – boğazından çıxan səslə oxudu. Yay «ترتمتِ القوسُ» (tərtəməti əl-qawsu) – ox atılarkən ondan çıxan səs ترنم (tərrənum) kəlməsinə bənzədildi. Şəmməx demişdir:\nإذا أنْبَضَ الرَّامُونَ عنها ترنَّمَت … ترنَّم ثَكْلَى أوجعَتْها الجنائزُ (٣)\n(Atıcılar ondan ox buraxdıqda səs çıxardı... Övladını itirmiş, cənazələr ürəyini yandırmış qadının naləsi kimi səs çıxardı)",
+ "az": "[رنم] ra, nun və mim hərfləri səslər barəsində səhih kiçik bir kökdür (əsldir). Deyilir: ترنَّمَ (səsini zümzümə etdi, təkrar-təkrar oxudu). Quş ترنمَ (boğazından çıxan səslə oxudu). Və ترتمتِ القوسُ (yay ox atılarkən ondan çıxan səs ترنُّم kəlməsinə bənzədildi). Şəmməx demişdir:\nإذا أنْبَضَ الرَّامُونَ عنها ترنَّمَت … ترنَّم ثَكْلَى أوجعَتْها الجنائزُ (٣)\n(Atıcılar ondan ox buraxdıqda səs çıxardı... Övladını itirmiş, cənazələr ürəyini yandırmış qadının naləsi kimi səs çıxardı).\n\nRa, ha və üçüncü hərfin babı",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:32:28.606Z",
- "review_attempts": 1,
- "review_last_error": "kiril hərfi"
+ "review_last_error": "kiril hərfi",
+ "prev_az": "[رنم] (rənəm) - راء، نون və mim hərfləri səslər barəsində səhih kiçik bir əsldir. Deyilir: «ترنَّمَ» (tərrənəmə) – səsini zərifləşdirib oxudu. Quş «ترنمَ» (tərrənəmə) – boğazından çıxan səslə oxudu. Yay «ترتمتِ القوسُ» (tərtəməti əl-qawsu) – ox atılarkən ondan çıxan səs ترنم (tərrənum) kəlməsinə bənzədildi. Şəmməx demişdir:\nإذا أنْبَضَ الرَّامُونَ عنها ترنَّمَت … ترنَّم ثَكْلَى أوجعَتْها الجنائزُ (٣)\n(Atıcılar ondan ox buraxdıqda səs çıxardı... Övladını itirmiş, cənazələr ürəyini yandırmış qadının naləsi kimi səs çıxardı)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Bab başlığı «باب الراءِ والهاءِ وما يثلثهما» tərcümədən buraxılmışdır.",
+  "«رجّع صوته» ifadəsinin mənası səhv verilmişdir.",
+  "Ərəbcə sözlərin yanında tərcümə əvəzinə latın transkripsiyası verilmişdir."
+ ],
+ "review_ts": "2026-11-19T02:03:19.906Z"
 }

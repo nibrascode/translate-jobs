@@ -11,9 +11,19 @@
   "page_to": 471
  },
  "ar": "الراء والهمزة والدال أُصَيلٌ يدلُّ على اضطرابٍ وحركة. يقال امرأة رَأْدةٌ * ورُؤْد، وهى السَّريعة الشَّباب لا تَبْقَى قَمِيئَة. وهو الذى ذكرناه فى الحركة. والرَّأْد والرُّؤْد: أصل اللَّحْى. ورأْد الضُّحى: ارتفاعه. يقال تَرَأَدَ (٢)\nالضُّحى وتراءَدَ. وترأّدت الحيّة: اهتزّت فى انسيابها. وكان الخليل يقول: الرِّئْد:\nمهموز: التِّرْب.",
- "az": "«رأد» (Rəəd): (Ra, Həmzə, Dal) sarsıntıya və hərəkətə dəlalət edən kiçik bir əsldir. امْرَأَةٌ رَأْدَةٌ (raədə) və رُؤْدٌ (ruud) - cavanlığı təzə və tər olan, zəif və incəliyində qalan qadın deməkdir. Bu, hərəkət barəsində qeyd etdiyimiz mənadır. الرَّأْد (ər-rəd) və الرُّؤْد (ər-ruud): çənənin əsası. رَأْدُ الضُّحَى (raədüd-duha): günortanın (və ya quşluq vaxtının) yüksəlməsi. Deyilir: تَرَأَدَ الضُّحَى (quşluq vaxtı yüksəldi) və تَرَاءَدَ. وَتَرَأَّدَتِ الْحَيَّةُ (ilan süzülərək hərəkət etdi). Xəlil deyərdi ki, الرِّئْد (ər-riid) həmzəlidir və həmyaşıd mənasını verir.",
+ "az": "[رأد] ra, həmzə və dal tərpənməyə və hərəkətə dəlalət edən kiçik bir kökdür. Deyilir: امرأة رَأْدةٌ və رُؤْد (gənclik çağı sürətlə inkişaf edən, alçaq/cırtdan boylu qalmayan qadın). Bu, hərəkət barəsində qeyd etdiyimiz mənadadır. Və الرَّأْد və الرُّؤْد alt çənənin köküdür. Və رأْد الضُّحى (quşluq vaxtının yüksəlməsi). Deyilir: تَرَأَدَ الضُّحى və تراءَدَ. Və ترأّدت الحيّة (ilan süzülərək tərpəndi). Xəlil deyərdi: الرِّئْد həmzəlidir, التِّرْب (həmyaşıd) deməkdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:34:52.916Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«رأد» (Rəəd): (Ra, Həmzə, Dal) sarsıntıya və hərəkətə dəlalət edən kiçik bir əsldir. امْرَأَةٌ رَأْدَةٌ (raədə) və رُؤْدٌ (ruud) - cavanlığı təzə və tər olan, zəif və incəliyində qalan qadın deməkdir. Bu, hərəkət barəsində qeyd etdiyimiz mənadır. الرَّأْد (ər-rəd) və الرُّؤْد (ər-ruud): çənənin əsası. رَأْدُ الضُّحَى (raədüd-duha): günortanın (və ya quşluq vaxtının) yüksəlməsi. Deyilir: تَرَأَدَ الضُّحَى (quşluq vaxtı yüksəldi) və تَرَاءَدَ. وَتَرَأَّدَتِ الْحَيَّةُ (ilan süzülərək hərəkət etdi). Xəlil deyərdi ki, الرِّئْد (ər-riid) həmzəlidir və həmyaşıd mənasını verir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlanğıc formatı pozulmuşdur və ərəbcə sözlərin yanında tərcümə əvəzinə latın transkripsiyası verilmişdir.",
+  "«لا تبقى قميئة» ifadəsi səhv tərcümə olunmuşdur.",
+  "Ərəbcə sitatlara əlavə hərəkələr artırılmışdır."
+ ],
+ "review_ts": "2026-11-19T02:03:19.908Z"
 }
