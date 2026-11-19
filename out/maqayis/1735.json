@@ -11,7 +11,16 @@
   "page_to": 13
  },
  "ar": "الزاء والغين واللام أصلٌ يدلُّ على رَضاع وزَقٍ\nوما أشبهه. يقال أزْغَلَ الطّائرُ فَرخَه، إذا زَقّه. قال ابن أحمر:\nفأزْغَلَتْ فى حَلْقِهِ زُغْلَةً … لم تُخْطِئ الجِيدَ ولم تَشْفَتِرّ (١)\nقال: وهو من قولهم: أَزْغِلى له زُغْلةً من سِقائك، أى صُبِّى له شيئًا مِنْ لَبَن. ويقال أزْغَلَت المرأةُ من عَزْلائِها، أى صَبَّت.\nومما شذّ عن الباب: الزُّغلول من الرِّجال: الخفيف.",
- "az": "[زغل] (zəğl): Zay, ğın və lam hərfləri südəmər balaya yem verməyə və buna bənzər şeylərə dəlalət edən bir kökdür. Deyilir ki: «أزْغَلَ الطّائرُ فَرخَه» – quş balasına dimdiklə yem verdikdə deyilir. İbn Əhmər demişdir:\nفأزْغَلَتْ فى حَلْقِهِ زُغْلَةً … لم تُخْطِئ الجِيدَ ولم تَشْفَتِرّ (١)\n(O, onun boğazına bir tikə ötürdü ki, nə boynunu şaşırıdı, nə də yayınındı)\nO demişdir: Bu, onların «أزْغِلى له زُغْلةً من سِقائك» – yəni tuluğundan ona bir qədər süd tök – sözündəndir. Deyilir ki: «أزْغَلَت المرأةُ من عَزْلائِها» – yəni qadın tuluğunun ağzından tökdü.\nKökdən kənara çıxan (şaz) budur: «الزُّغلول» (züğlul) kişilərdən yüngülxasiyyət olanıdır.",
+ "az": "[زغل] (zəğl): Zay, ğayn və lam hərfləri əmizdirməyə, quşun balasına yem verməsinə və buna bənzər şeylərə dəlalət edən bir kökdür. Deyilir ki: «أزْغَلَ الطّائرُ فَرخَه» – quş balasına dimdiklə yem verdikdə deyilir. İbn Əhmər demişdir:\nفأزْغَلَتْ فى حَلْقِهِ زُغْلَةً … لم تُخْطِئ الجِيدَ ولم تَشْفَتِرّ (١)\n(O, onun boğazına bir qurtum ötürdü ki, nə boyundan yan keçdi, nə də ətrafa dağıldı).\nO demişdir: Bu, onların «أَزْغِلى له زُغْلةً من سِقائك» – yəni tuluğundan ona bir qədər süd tök – sözündəndir. Deyilir ki: «أزْغَلَت المرأةُ من عَزْلائِها» – yəni qadın tuluğunun ağzından tökdü.\nKökdən kənara çıxan (şaz) budur: «الزُّغلول» (züğlul) kişilərdən yüngülxasiyyət olanıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:09.125Z"
+ "ts": "2026-10-25T01:38:09.125Z",
+ "prev_az": "[زغل] (zəğl): Zay, ğın və lam hərfləri südəmər balaya yem verməyə və buna bənzər şeylərə dəlalət edən bir kökdür. Deyilir ki: «أزْغَلَ الطّائرُ فَرخَه» – quş balasına dimdiklə yem verdikdə deyilir. İbn Əhmər demişdir:\nفأزْغَلَتْ فى حَلْقِهِ زُغْلَةً … لم تُخْطِئ الجِيدَ ولم تَشْفَتِرّ (١)\n(O, onun boğazına bir tikə ötürdü ki, nə boynunu şaşırıdı, nə də yayınındı)\nO demişdir: Bu, onların «أزْغِلى له زُغْلةً من سِقائك» – yəni tuluğundan ona bir qədər süd tök – sözündəndir. Deyilir ki: «أزْغَلَت المرأةُ من عَزْلائِها» – yəni qadın tuluğunun ağzından tökdü.\nKökdən kənara çıxan (şaz) budur: «الزُّغلول» (züğlul) kişilərdən yüngülxasiyyət olanıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin tərcüməsində Türkiyə türkcəsinə aid və səhv yazılmış «şaşırıdı», «yayınındı» sözləri işlədilmiş, «تَشْفَتِرّ» sözünün mənası səhv verilmişdir."
+ ],
+ "review_ts": "2026-11-19T13:06:47.094Z"
 }

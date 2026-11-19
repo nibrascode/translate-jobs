@@ -11,9 +11,20 @@
   "page_to": 415
  },
  "ar": "الراء والغين والحرف المعتلّ أصلان: أحدهما شئ يعلو الشئ، والآخر صوتٌ.\nفالأول الرَّغْوة والرُّغْوَة (٣) [لِلَّبَن (٤)]: زَبَدُه؛ والجمع رُغّى. وارتغى الرَّجُل: شَرِبَ الرّغوة. يقولون: «يُسرُّ حَسْواً فى ارتغاء». يُضْرَب مثلاً لمن يُظهِر أمراً ويريد خلافَه. ورغَّى (٥) اللّبنُ من الرّغْوة. والمِرْغاةُ: الشَّئُ من الخُبْز أو التَّمْر يُؤْكل به الرّغْوة (٦). وكلامٌ مُرغٍ: لم يفسَّرْ، كأنّ عليه رغْوة.\nوالأصل الآخَر الرُّغاء: رُغاء النّاقةِ والضَّبُع (٧)، وهو صوتُهما. ويقال:\n«ما له ثاغِيةٌ ولا راغِيَة»، أى شاةٌ ولا ناقة. وأتيتُ فلاناً فما أثغَى ولا أرْغَى، أى لم يُعطِنى شاةً ولا ناقة.",
- "az": "«رغو» (rəğəv): Ра, ğayn və uzadılma hərfi iki əsasdır: biri başqa bir şeyin üzərini örtən (yuxarıda duran) şey, digəri isə səsdir. Birincisi «الرَّغْوَة» (ərrəğvə) və «الرُّغْوَة» (ərrüğvə) [süd üçün]: onun köpüyüdür; cəmi «رُغىً» (ruğən) gəlir. «ارْتَغَى الرَّجُلُ» (ərtəğər-rəcülü) — kişi köpük içdi. Deyirlər: «يُسَرُّ حَسْواً فِي ارْتِغَاءٍ» (yusərru həsvən fi irtiğəin). Bu, açıq-aşkar bir işi göstərib başqa bir şey istəyən kəsə məsəl çəkilir. Süd köpükləndi — «رَغَّى اللَّبَنُ» (rəğğəl-ləbənu). «المِرْغَاةُ» (əl-mirğatü) — üzərində köpük yeyilən çörək və ya xurma parçasındandır. «كَلَامٌ مُرْغًى» (kəlamin murğən) — izah olunmamış söz, sanki üzərində köpük vardır. Digər əsas isə «الرُّغَاء» (ərrüğə) — dişi dəvənin və kaftarın səsi olub, onların səsidir. Deyilir: «مَا لَهُ ثَاغِيَةٌ وَلَا رَاغِيَةٌ» (mə ləhu sağiyətün vəla rağiyətün) — yəni nə qoyunu, nə də dəvəsi var. Filankəsin yanına gəldim, nə səsi çıxdı, nə də səsi çıxardı, yəni mənə nə qoyun, nə də dəvə verdi.",
+ "az": "[رغو]\nRa, ğayn və illətli hərf iki əsasdır: biri bir şeyin üzərini örtən (yuxarıda duran) şey, digəri isə səsdir.\nBirincisi الرَّغْوة və الرُّغْوَة (٣) [لِلَّبَن (٤)] (süd üçün): onun köpüyüdür; cəmi رُغّى gəlir. وارتغى الرَّجُل (kişi köpük içdi). Deyirlər: «يُسرُّ حَسْواً فى ارتغاء» (Köpük içmək bəhanəsi ilə gizlicə qurtum-qurtum içir). Bu, zahirdə bir işi göstərib başqa bir şey istəyən kəsə məsəl çəkilir. ورغَّى (٥) اللّبنُ (süd köpükləndi) — köpük sözündəndir. المِرْغاةُ (əl-mirğat) — vasitəsilə köpük yeyilən çörək və ya xurma parçasıdır (٦). كلامٌ مُرغٍ (köpüklü söz) — izah olunmamış söz, sanki üzərində köpük vardır.\nDigər əsas isə الرُّغاء (ər-ruğa): dişi dəvənin və kaftarın (٧) səsidir. Deyilir: «ما له ثاغِيةٌ ولا راغِيَة» (Onun nə mələyəni, nə də bozlayanı var), yəni nə qoyunu, nə də dəvəsi. Filankəsin yanına gəldim, «فما أثغَى ولا أرْغَى» (nə mələtdi, nə də bozlatdı), yəni mənə nə qoyun, nə də dəvə verdi.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:30:12.130Z",
- "review_attempts": 1,
- "review_last_error": "kiril hərfi"
+ "review_last_error": "kiril hərfi",
+ "prev_az": "«رغو» (rəğəv): Ра, ğayn və uzadılma hərfi iki əsasdır: biri başqa bir şeyin üzərini örtən (yuxarıda duran) şey, digəri isə səsdir. Birincisi «الرَّغْوَة» (ərrəğvə) və «الرُّغْوَة» (ərrüğvə) [süd üçün]: onun köpüyüdür; cəmi «رُغىً» (ruğən) gəlir. «ارْتَغَى الرَّجُلُ» (ərtəğər-rəcülü) — kişi köpük içdi. Deyirlər: «يُسَرُّ حَسْواً فِي ارْتِغَاءٍ» (yusərru həsvən fi irtiğəin). Bu, açıq-aşkar bir işi göstərib başqa bir şey istəyən kəsə məsəl çəkilir. Süd köpükləndi — «رَغَّى اللَّبَنُ» (rəğğəl-ləbənu). «المِرْغَاةُ» (əl-mirğatü) — üzərində köpük yeyilən çörək və ya xurma parçasındandır. «كَلَامٌ مُرْغًى» (kəlamin murğən) — izah olunmamış söz, sanki üzərində köpük vardır. Digər əsas isə «الرُّغَاء» (ərrüğə) — dişi dəvənin və kaftarın səsi olub, onların səsidir. Deyilir: «مَا لَهُ ثَاغِيَةٌ وَلَا رَاغِيَةٌ» (mə ləhu sağiyətün vəla rağiyətün) — yəni nə qoyunu, nə də dəvəsi var. Filankəsin yanına gəldim, nə səsi çıxdı, nə də səsi çıxardı, yəni mənə nə qoyun, nə də dəvə verdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«يُسرُّ حَسْواً فى ارتغاء» məsəli tərcüməsiz qalmışdır.",
+  "«المِرْغاةُ» izahında «يُؤْكل به» (onunla yeyilən) ifadəsi səhvən «üzərində yeyilən» kimi tərcümə edilmişdir.",
+  "«الحرف المعتلّ» (illətli hərf) «uzadılma hərfi» kimi yanlış verilmiş, «كلامٌ مُرغٍ» sözünün yazılışı pozulmuş, «فما أثغَى ولا أرْغَى» ifadəsi səhv tərcümə edilmişdir.",
+  "Haşiyə rəqəmləri (٣)-(٧) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-19T12:58:35.226Z"
 }

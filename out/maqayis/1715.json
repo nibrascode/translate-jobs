@@ -11,7 +11,18 @@
   "page_to": 4
  },
  "ar": "الزاء والفاء أصلٌ يدلُّ على خِفَّةٍ فى كل شئ. يقال زَفَّ الظَّليم زفيفاً، إذا أسرع. ومنه زُفَّتِ العَروسُ إلى زوجها. وزفَّ القومُ فى سَيرهم:\nأسْرعُوا. قال جلّ ثناؤه: ﴿فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ﴾. والزَّفْزافة: الرِّيح الشديدة لها زفزفةٌ، أى خِفَّة. وكذلك الزَّفزف (١). ويقولون لمن طاشَ حِلْمُه:\n٣٠٥ قد زَفَّ رَأْلُه. وزِفُّ الطائر: صِغار ريشه؛ لأنه خفيف.",
- "az": "[زف] الزاء والفاء — hər şeydə yüngüllüyə və sürətə dəlalət edən bir əsasdır. Deyirlər: زَفَّ الظَّليم زفيفاً (dəvəquşu tez qaçdı) — o sürətlə hərəkət etdikdə. Buradan götürülüb: زُفَّتِ العَروسُ إلى زوجها (gəlin ərinin evinə bəzədilərək yola salındı). Və زفَّ القومُ فى سَيرهم (qövm gedişlərində tələsdilər, sürətli getdilər). Uca və Böyük Allah demişdir: ﴿فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ﴾ (mənaca tərcümə: Onlar tələsərək [qaçaraq] onun üstünə gəldilər). Və الزَّفْزافة (zəfzəfə) — özünün zəfzəfəsi, yəni yüngüllüyü olan şiddətli küləkdir. Eynilə الزَّفزف (zəfzəf) də belədir (١). Və deyirlər ağılı başından çıxmış kimsəyə: قد زَفَّ رَأْلُه (balası başqalaşdı, yüngülləşdi). Və زِفُّ الطائر (quşun zifftü) — quşun kiçik lələkləridir; çünki onlar yüngüldür.",
+ "az": "[زف]\nالزاء والفاء — hər şeydə yüngüllüyə dəlalət edən bir əsasdır. Deyilir: زَفَّ الظَّليم زفيفاً (dəvəquşu sürətlə qaçdı) — o tələsdikdə. Buradan götürülüb: زُفَّتِ العَروسُ إلى زوجها (gəlin ərinin evinə yola salındı). Və زفَّ القومُ فى سَيرهم (qövm gedişlərində tələsdi):\nsürətlə getdilər. Uca və Böyük Allah demişdir: ﴿فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ﴾ (mənaca tərcümə: Onlar tələsərək [qaçaraq] onun üstünə gəldilər). الزَّفْزافة (zəfzafə) — özünün zəfzəfəsi, yəni yüngüllüyü olan şiddətli küləkdir. Eynilə الزَّفزف (zəfzəf) də belədir (١). Ağlı başından çıxmış kimsəyə deyirlər:\nقد زَفَّ رَأْلُه (dəvəquşu balası sürətlə qaçdı / yüngülləşdi). زِفُّ الطائر (quşun ziffi) — quşun kiçik lələkləridir; çünki onlar yüngüldür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:28.608Z"
+ "ts": "2026-10-25T01:37:28.608Z",
+ "prev_az": "[زف] الزاء والفاء — hər şeydə yüngüllüyə və sürətə dəlalət edən bir əsasdır. Deyirlər: زَفَّ الظَّليم زفيفاً (dəvəquşu tez qaçdı) — o sürətlə hərəkət etdikdə. Buradan götürülüb: زُفَّتِ العَروسُ إلى زوجها (gəlin ərinin evinə bəzədilərək yola salındı). Və زفَّ القومُ فى سَيرهم (qövm gedişlərində tələsdilər, sürətli getdilər). Uca və Böyük Allah demişdir: ﴿فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ﴾ (mənaca tərcümə: Onlar tələsərək [qaçaraq] onun üstünə gəldilər). Və الزَّفْزافة (zəfzəfə) — özünün zəfzəfəsi, yəni yüngüllüyü olan şiddətli küləkdir. Eynilə الزَّفزف (zəfzəf) də belədir (١). Və deyirlər ağılı başından çıxmış kimsəyə: قد زَفَّ رَأْلُه (balası başqalaşdı, yüngülləşdi). Və زِفُّ الطائر (quşun zifftü) — quşun kiçik lələkləridir; çünki onlar yüngüldür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الزَّفْزافة» sözünün oxunuşu «zəfzəfə» kimi səhv verilmişdir («zəfzafə» olmalıdır).",
+  "«قد زَفَّ رَأْلُه» ifadəsi «balası başqalaşdı» kimi səhv tərcümə edilmişdir.",
+  "«زِفُّ الطائر» ifadəsinin oxunuşu «quşun zifftü» kimi pozulmuş şəkildə verilmişdir."
+ ],
+ "review_ts": "2026-11-19T13:06:27.584Z"
 }

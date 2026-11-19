@@ -11,7 +11,16 @@
   "page_to": 39
  },
  "ar": "الزاء والياء والحاء أصلٌ واحد، وهو زَوال الشئ وتنحِّيه.\nيقال زاح الشئُ يَزيحُ، إذا ذهَب؛ وقد أزَحْتُ عِلَّته فزاحت، وهى تَزِيح.",
- "az": "[زيح] (zih). الزاء (ز) və الياء (ي) və الحاء (ح) bir şeyin zaval tapması (yox olması) və uzaqlaşması mənasını verən bir tək əsldir. Deyilir: زاح الشئُ يَزيحُ (şey zaval tapdı, yox oldu), yəni getdi; مən onun xəstəliyini أزَحْتُ عِلَّته (uzaqlaşdırdım), o da زاحت (yox oldu), o, تَزِيح (uzaqlaşır).",
+ "az": "[زيح]\nالزاء (zey) və الياء (ya) və الحاء (ha) bir şeyin zaval tapması (yox olması) və uzaqlaşması mənasını verən bir tək əsldir.\nDeyilir: زاح الشئُ يَزيحُ (şey zaval tapdı, yox oldu), yəni getdi; mən onun xəstəliyini (və ya bəhanəsini) أزَحْتُ عِلَّته (aradan qaldırdım), o da زاحت (aradan qalxdı), o, تَزِيح (aradan qalxır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:40:03.435Z"
+ "ts": "2026-10-25T01:40:03.435Z",
+ "prev_az": "[زيح] (zih). الزاء (ز) və الياء (ي) və الحاء (ح) bir şeyin zaval tapması (yox olması) və uzaqlaşması mənasını verən bir tək əsldir. Deyilir: زاح الشئُ يَزيحُ (şey zaval tapdı, yox oldu), yəni getdi; مən onun xəstəliyini أزَحْتُ عِلَّته (uzaqlaşdırdım), o da زاحت (yox oldu), o, تَزِيح (uzaqlaşır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə «مən» şəklində ərəb və latın qrafikasının qarışdığı pozulmuş söz var."
+ ],
+ "review_ts": "2026-11-19T13:18:44.056Z"
 }

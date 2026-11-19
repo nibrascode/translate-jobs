@@ -11,7 +11,16 @@
   "page_to": 44
  },
  "ar": "الزاء والباء والدال أصلٌ واحدٌ يدلُّ على تولُّد شئٍ عن شئ.\nمن ذلك زَبَدُ الماءِ وغيرِه. يقال أزْبَدَ إزْياداً. والزُّبد من ذلك أيضاً. يقال زَبَدْتُ الصبى أزبُده، إذا أطعمتَه الزُّبد.\nوربَّما حملوا على هذا واشتقّوا منه. فحكى الفرّاءُ عن العرب: أزْبَدَ السِّدرُ، إذا نَوَّر. ويقال زَبَدَتْ فلانةُ سِقاءَها، إذا مَخَضَتْه حتَّى يُخرِج زُبدَه.\nومن * الباب الزَّبْد، وهو العطيّة. يقال زَبَدْتُ الرّجلَ زَبْدا: أعطيتُه.\nو\nقال رسول اللّه ﵌: «إنّا لا نَقبل زَبْد المُشْركين». يريد هداياهم.",
- "az": "[زبد] (zə-ba-dal): bir şeyin başqa bir şeydən törəməsinə dəlalət edən tək bir əsldir. \nBunlardan biri suyun və digər şeylərin «زَبَد» (zəbəd - köpüyüdür). «أزْبَدَ إزْياداً» (köpükləndi) deyilir. «الزُّبد» (əz-zübd - yağ) də bundandır. «زَبَدْتُ الصبى أزبُده» (uşağa yağ yedirdim) — ona yağ yedirdiyin zaman deyilir. \nBəzən buna əsaslanıb ondan törətmişlər. Fəra ərəblərdən rəvayət etmişdir: «أزْبَدَ السِّدرُ» (sidr ağacı çiçəkləndi) — tumurcuqladığı zaman. Deyilir: «زَبَدَتْ فلانةُ سِقاءَها» (filan qadın tuluğunu çalxaladı) — onun yağını çıxarana qədər çalxaladığı zaman. \nBu babdan: «الزَّبْد» (əz-zəbd) — hədiyyədir. «زَبَدْتُ الرّجلَ زَبْدا» (kişiyə hədiyyə verdim) — ona əta etdim, deməkdir. \nAllahın Elçisi ﷺ buyurmuşdur: «إنّا لا نَقبل زَبْد المُشْركين» (Biz müşriklərin hədiyyəsini qəbul etmirik). Bununla onların hədiyyələrini qəsd edir.",
+ "az": "[زبد] (zə-ba-dal): bir şeyin başqa bir şeydən törəməsinə dəlalət edən tək bir əsldir.\nBunlardan biri suyun və digər şeylərin «زَبَد» (zəbəd — köpüyüdür). «أزْبَدَ إزْياداً» (köpükləndi) deyilir. «الزُّبد» (əz-zübd — yağ) də bundandır. «زَبَدْتُ الصبى أزبُده» (uşağa yağ yedirdim) — ona yağ yedirdiyin zaman deyilir.\nBəzən buna əsaslanıb ondan törətmişlər. Fərra ərəblərdən rəvayət etmişdir: «أزْبَدَ السِّدرُ» (sidr ağacı çiçəkləndi) — tumurcuqladığı zaman. Deyilir: «زَبَدَتْ فلانةُ سِقاءَها» (filan qadın tuluğunu çalxaladı) — onun yağını çıxarana qədər çalxaladığı zaman.\nBu babdan: «الزَّبْد» (əz-zəbd) — hədiyyədir. «زَبَدْتُ الرّجلَ زَبْدا» (kişiyə hədiyyə verdim) — ona əta etdim, deməkdir.\nAllahın Elçisi sallallahu aleyhi və səlləm buyurmuşdur: «إنّا لا نَقبل زَبْد المُشْركين» (Biz müşriklərin hədiyyəsini qəbul etmirik). Bununla onların hədiyyələrini qəsd edir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:40:25.662Z"
+ "ts": "2026-10-25T01:40:25.662Z",
+ "prev_az": "[زبد] (zə-ba-dal): bir şeyin başqa bir şeydən törəməsinə dəlalət edən tək bir əsldir. \nBunlardan biri suyun və digər şeylərin «زَبَد» (zəbəd - köpüyüdür). «أزْبَدَ إزْياداً» (köpükləndi) deyilir. «الزُّبد» (əz-zübd - yağ) də bundandır. «زَبَدْتُ الصبى أزبُده» (uşağa yağ yedirdim) — ona yağ yedirdiyin zaman deyilir. \nBəzən buna əsaslanıb ondan törətmişlər. Fəra ərəblərdən rəvayət etmişdir: «أزْبَدَ السِّدرُ» (sidr ağacı çiçəkləndi) — tumurcuqladığı zaman. Deyilir: «زَبَدَتْ فلانةُ سِقاءَها» (filan qadın tuluğunu çalxaladı) — onun yağını çıxarana qədər çalxaladığı zaman. \nBu babdan: «الزَّبْد» (əz-zəbd) — hədiyyədir. «زَبَدْتُ الرّجلَ زَبْدا» (kişiyə hədiyyə verdim) — ona əta etdim, deməkdir. \nAllahın Elçisi ﷺ buyurmuşdur: «إنّا لا نَقبل زَبْد المُشْركين» (Biz müşriklərin hədiyyəsini qəbul etmirik). Bununla onların hədiyyələrini qəsd edir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«﵌» ifadəsi «sallallahu aleyhi və səlləm» şəklində yazılmaq əvəzinə ərəb simvolu ilə saxlanılmışdır."
+ ],
+ "review_ts": "2026-11-19T13:21:33.407Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 20
  },
  "ar": "الزاء واللام والعين أصلٌ يدلُّ على تَفَطُّرٍ وزَوَال شئٍ عن مكانه. فالزَّلَع: تفطُّر الجِلْد. تَزَلَّعَت يدُه: تشقَّقَت. ويقال زَلِعَتْ جراحته:\nفسدَتْ. قال الخليل: الزَّلَع: شُقاقُ ظاهِرِ الكفّ. فإن كانَ فى الباطن فهو كَلَع.\nوالزَّلْع: استلابُ شئٍ فى خَتْل.",
- "az": "[زلع] الزاء واللام والعين أصلٌ يدلُّ على تَفَطُّرٍ وزَوَال شئٍ عن مكانه (Zə, lam və eyn yarığa və bir şeyin yerindən çıxmasına dəlalət edən bir əsldir). فالزَّلَع: تفطُّر الجِلْد (Deməli, əz-zələc: dərinin çatlamasıdır). تَزَلَّعَت يدُه: تشقَّقَت (Əli təzəlləcə: yarıldı). ويقال زَلِعَتْ جراحته: فسدَتْ (Və deyilir ki, zəlicət cirahatuhu: yarası xarab oldu). قال الخليل: الزَّلَع: شُقاقُ ظاهِرِ الكفّ (Xəlil dedi: əz-zələc: ovucun üst hissəsinin yarığıdır). فإن كانَ فى الباطن فهو كَلَع (Əgər daxildədirsə, o zaman kələcdir). والزَّلْع: استلابُ شئٍ فى خَتْل (Və əz-zəlc: hiylə ilə bir şeyi oğurlamaq/qamarlamaqdır).",
+ "az": "[زلع]\nالزاء واللام والعين (Zə, lam və eyn) çatlamağa və bir şeyin öz yerindən ayrılmasına dəlalət edən bir əsldir. فالزَّلَع (əz-zələ): dərinin çatlamasıdır. تَزَلَّعَت يدُه (təzəlləət yəduhu): əli çatladı. Deyilir ki, زَلِعَتْ جراحته (zəliət cirahatuhu): yarası korlandı (xarab oldu). Xəlil demişdir: الزَّلَع (əz-zələ): ovucun üst hissəsinin çatlamasıdır. Əgər iç tərəfindədirsə, o zaman كَلَع (kələ) adlanır.\nوالزَّلْع (əz-zəl): bir şeyi xəlvətcə (hiylə ilə) qamarlamaqdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:57.983Z"
+ "ts": "2026-10-25T01:38:57.983Z",
+ "prev_az": "[زلع] الزاء واللام والعين أصلٌ يدلُّ على تَفَطُّرٍ وزَوَال شئٍ عن مكانه (Zə, lam və eyn yarığa və bir şeyin yerindən çıxmasına dəlalət edən bir əsldir). فالزَّلَع: تفطُّر الجِلْد (Deməli, əz-zələc: dərinin çatlamasıdır). تَزَلَّعَت يدُه: تشقَّقَت (Əli təzəlləcə: yarıldı). ويقال زَلِعَتْ جراحته: فسدَتْ (Və deyilir ki, zəlicət cirahatuhu: yarası xarab oldu). قال الخليل: الزَّلَع: شُقاقُ ظاهِرِ الكفّ (Xəlil dedi: əz-zələc: ovucun üst hissəsinin yarığıdır). فإن كانَ فى الباطن فهو كَلَع (Əgər daxildədirsə, o zaman kələcdir). والزَّلْع: استلابُ شئٍ فى خَتْل (Və əz-zəlc: hiylə ilə bir şeyi oğurlamaq/qamarlamaqdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «ع» (eyn) hərfi transkripsiyada səhvən «c» kimi yazılmışdır (əz-zələc, təzəlləcə, zəlicət, kələc, əz-zəlc).",
+  "«تَزَلَّعَت يدُه» ifadəsi «Əli təzəlləcə: yarıldı» şəklində pozulmuş və qeyri-səlis tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-19T13:09:37.535Z"
 }

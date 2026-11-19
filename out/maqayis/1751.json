@@ -11,7 +11,17 @@
   "page_to": 17
  },
  "ar": "الزاء والكاف والميم ليس فيه إلا الزُّكْمَة والزُّكام (١)، ويستعيرون ذلك فيقولون: فُلان زُكْمَة أبويه، وهو آخر أولادهما.",
- "az": "[زكم] (zəkəm): Zay, kaf və mim hərflərində yalnız «الزُّكْمَة» və «الزُّكام» (1) (zökəm və zükam) vardır, onlar bunu məcazi mənada işlədib deyirlər: «فُلان زُكْمَة أبويه» – o, valideynlərinin son uşağıdır.",
+ "az": "[زكم]\nZay, kaf və mim hərflərində yalnız الزُّكْمَة (zükmə) və الزُّكام (zükam, soyuqdəymə) (١) vardır. Onlar bunu məcazi mənada işlədib deyirlər: فُلان زُكْمَة أبويه (filankəs valideynlərinin zükməsidir), yəni o, valideynlərinin son övladıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:09.126Z"
+ "ts": "2026-10-25T01:38:09.126Z",
+ "prev_az": "[زكم] (zəkəm): Zay, kaf və mim hərflərində yalnız «الزُّكْمَة» və «الزُّكام» (1) (zökəm və zükam) vardır, onlar bunu məcazi mənada işlədib deyirlər: «فُلان زُكْمَة أبويه» – o, valideynlərinin son uşağıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi ərəb rəqəmi ilə saxlanılmayıb.",
+  "«فُلان زُكْمَة أبويه» ifadəsinin hərfi tərcüməsi buraxılıb."
+ ],
+ "review_ts": "2026-11-19T13:08:16.278Z"
 }

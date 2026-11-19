@@ -11,7 +11,17 @@
   "page_to": 7
  },
  "ar": "الزاء والجيم أصلٌ يدلُّ على رِقّةٍ فى شئ، من ذلك زُجُّ الرُّمْح والسّهمِ، وجمعه زِجاج بكسر الزاء. يقال زجَّجْتُه: جعلت له زُجًّا. فإذا نزَعْت زُجَّهُ قلت: أزجَجْتُه (١). والزَّجَج دِقَّةُ الحاجبينِ وحُسْنُهما. ويقال أن الأزَجَّ من النعام: الذى فوق عينه ريشٌ أبيض.",
- "az": "«زج» — Zae və cim bir şeydə incəliyə dəlalət edən kökdür. Bunlardan biri nizə və oxun ucluğu olan «زُجُّ الرُّمْح والسّهمِ» sözüdür, cəmi zae hərfinin kəsri ilə «زِجاج» gəlir. «زجَّجْتُه: جعلت له زُجًّا» (Ona ucluq düzəltdim) deyilir. Əgər onun ucluğunu çıxarsan, «أزجَجْتُه» (ucluğunu çıxartdım) deyərsən (١). «الزَّجَج» — qaşların incəliyi və gözəlliyidir. Deyilir ki, dəvəquşunun «الأزَج» olanı gözünün üstündə ağ tükü olandar.",
+ "az": "[زج] Zey və cim bir şeydə incəliyə dəlalət edən əsasdır. Bunlardan biri nizə və oxun ucluğu olan زُجُّ الرُّمْح والسّهمِ sözüdür, cəmi zey hərfinin kəsri ilə زِجاج gəlir. Deyilir: زجَّجْتُه: جعلت له زُجًّا (ona ucluq düzəltdim). Əgər onun ucluğunu çıxarsan, أزجَجْتُه (ucluğunu çıxartdım) deyərsən (١). الزَّجَج — qaşların incəliyi və gözəlliyidir. Deyilir ki, dəvəquşunun الأزَج olanı gözünün üstündə ağ tükü olandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:48.690Z"
+ "ts": "2026-10-25T01:37:48.690Z",
+ "prev_az": "«زج» — Zae və cim bir şeydə incəliyə dəlalət edən kökdür. Bunlardan biri nizə və oxun ucluğu olan «زُجُّ الرُّمْح والسّهمِ» sözüdür, cəmi zae hərfinin kəsri ilə «زِجاج» gəlir. «زجَّجْتُه: جعلت له زُجًّا» (Ona ucluq düzəltdim) deyilir. Əgər onun ucluğunu çıxarsan, «أزجَجْتُه» (ucluğunu çıxartdım) deyərsən (١). «الزَّجَج» — qaşların incəliyi və gözəlliyidir. Deyilir ki, dəvəquşunun «الأزَج» olanı gözünün üstündə ağ tükü olandar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[زج]» formatında verilməmiş və «zey» hərfi «Zae» kimi səhv yazılmışdır.",
+  "Mətnin sonunda «olandar» şəklində orfoqrafik səhv var."
+ ],
+ "review_ts": "2026-11-19T13:03:57.955Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 40
  },
  "ar": "الزاء والياء والجيم ليس بشئ. على أنهم يسمُّون خيطَ البنّاء زِيجًا. فما أدرى أعربىٌّ هو أم لا.",
- "az": "[زيج] (zig). الزاء (ز) və الياء (ي) və الجيم (ج) heç bir şey deyil. Lakin onlar dülgərin ipinə زِيجًا (ziyc) deyirlər. Bilmirəm bu ərəb sözüdür, yoxsa yox.",
+ "az": "[زيج] (ziyc). الزاء (ز) və الياء (ي) və الجيم (ج) heç bir şey deyil. Lakin onlar bənnanın ipinə زِيجًا (ziyc) deyirlər. Bilmirəm bu ərəb sözüdür, yoxsa yox.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:40:03.435Z"
+ "ts": "2026-10-25T01:40:03.435Z",
+ "prev_az": "[زيج] (zig). الزاء (ز) və الياء (ي) və الجيم (ج) heç bir şey deyil. Lakin onlar dülgərin ipinə زِيجًا (ziyc) deyirlər. Bilmirəm bu ərəb sözüdür, yoxsa yox.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«خيطَ البنّاء» ifadəsi «dülgərin ipi» kimi yanlış tərcümə edilib, «bənnanın (inşaatçının) ipi» olmalıdır."
+ ],
+ "review_ts": "2026-11-19T13:20:47.097Z"
 }

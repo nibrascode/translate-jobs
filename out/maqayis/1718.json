@@ -11,7 +11,18 @@
   "page_to": 5
  },
  "ar": "الزاء والميم أصلٌ واحدٌ، وهو يدلُّ على تقدُّم فى استقامةٍ وقَصْد، من ذلك الزِّمام لأنه يتقدّم إذا مُدَّ به، قاصداً فى استقامة. تقول زَمَمْتُ البعير أزُمُّه. ويقال أمْرُ بنى فلانٍ زَمَمٌ، كما يقال أَمَمٌ، أى قصدٌ. ويحلفون فيقولون:\n«لا والذى وجْهِى زَمَمَ بَيْتِه (٢)»، يريدون تلقاءَه وقَصْدَه. والزَّمُّ: التقدُّم فى السَّير.\nومما شذّ عن هذا الأصل الزِّمْزِمة: الجماعة من الناس. وقال الشيبانى:\nلزِّمزيم: الجِلّة من الإبل (٣).",
- "az": "«زم» — Zae və mim tək bir kökə aiddir və düzlükdə və məqsəddə irəliləməyə dəlalət edir. Bunlardan biri «الزِّمام» (cilov) sözüdür, çünki o, dartıldığı zaman düz bir məqsədlə irəliləyər. «زَمَمْتُ البعير أزُمُّه» (Dəvənin burnuna cilov taxıb çəkdim) deyirsən. Həmçinin «أمْرُ بنى فلانٍ زَمَمٌ» (Filankəsin oğullarının işi düzgündür) — «أَمَمٌ» sözü kimi, yəni məqsədəuyğundur, deyilir. Onlar and içərək deyirlər: «لا والذى وجْهِى زَمَمَ بَيْتِه (٢)» (Xeyr, elə Zata and olsun ki, üzüm onun evinin istiqamətindədir), bununla onun qarşısını və məqsədini qəsd edirlər. «الزَّمُّ» — səfərdə irəliləməkdir. Bu kökdən istisna olanlardan biri «الزِّمْزِمة» — insan dəstəsidir. Şeybani demişdir: «الزِّمْزيم» — dəvənin seçilmişləri (٣).",
+ "az": "[زم] Zey və mim tək bir əsasdır və düzlükdə və məqsədli şəkildə irəliləməyə dəlalət edir. Bunlardan biri الزِّمام (cilov) sözüdür, çünki o, dartıldığı zaman düz və məqsədli şəkildə irəliləyir. Deyirsən: زَمَمْتُ البعير أزُمُّه (dəvəni cilovladım). Həmçinin أمْرُ بنى فلانٍ زَمَمٌ (filankəsin oğullarının işi düzgündür) deyilir, necə ki أَمَمٌ deyilir, yəni məqsədəuyğun və düz. Onlar and içərək deyirlər: «لا والذى وجْهِى زَمَمَ بَيْتِه (٢)» (Xeyr, üzüm evinin istiqamətində olan Zata and olsun), bununla onun qarşısını və istiqamətini nəzərdə tuturlar. الزَّمُّ: səfərdə irəliləməkdir.\nBu əsasdan kənara çıxanlardan biri الزِّمْزِمة: insan dəstəsidir. Əş-Şeybani demişdir: لزِّمزيم — iri (yaşlı) dəvələrdir (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:48.689Z"
+ "ts": "2026-10-25T01:37:48.689Z",
+ "prev_az": "«زم» — Zae və mim tək bir kökə aiddir və düzlükdə və məqsəddə irəliləməyə dəlalət edir. Bunlardan biri «الزِّمام» (cilov) sözüdür, çünki o, dartıldığı zaman düz bir məqsədlə irəliləyər. «زَمَمْتُ البعير أزُمُّه» (Dəvənin burnuna cilov taxıb çəkdim) deyirsən. Həmçinin «أمْرُ بنى فلانٍ زَمَمٌ» (Filankəsin oğullarının işi düzgündür) — «أَمَمٌ» sözü kimi, yəni məqsədəuyğundur, deyilir. Onlar and içərək deyirlər: «لا والذى وجْهِى زَمَمَ بَيْتِه (٢)» (Xeyr, elə Zata and olsun ki, üzüm onun evinin istiqamətindədir), bununla onun qarşısını və məqsədini qəsd edirlər. «الزَّمُّ» — səfərdə irəliləməkdir. Bu kökdən istisna olanlardan biri «الزِّمْزِمة» — insan dəstəsidir. Şeybani demişdir: «الزِّمْزيم» — dəvənin seçilmişləri (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[زم]» formatında deyil, ««زم»» kimi verilmiş və «zey» hərfinin adı «Zae» kimi səhv yazılmışdır.",
+  "«الجِلّة من الإبل» ifadəsi «dəvənin seçilmişləri» kimi səhv tərcümə edilmişdir (iri/yaşlı dəvələr olmalıdır).",
+  "And cümləsinin tərcüməsi dəqiq deyil."
+ ],
+ "review_ts": "2026-11-19T13:03:57.954Z"
 }

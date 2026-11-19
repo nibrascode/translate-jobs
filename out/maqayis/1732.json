@@ -11,7 +11,16 @@
   "page_to": 12
  },
  "ar": "الزاء والعين والجيم أصلٌ واحد، يدلُّ على الإقلاق وقلّة الاستقرار. يقال أَزْعَجْتُه أزْعِجُه إزعاجًا. ويقال أَزْعَجْتُه فشَخَص. قال الخليل:\nلو قيل انْزَعَجَ لكان صوابًا",
- "az": "[زعج] (zəc): Zay, ayn və cim hərfləri narahatlığa və qərar tutmamağa dəlalət edən tək bir kökdür. «أَزْعَجْتُه أزْعِجُه إزعاجًا» (Mən onu narahat etdim, narahat edirəm, narahat etmək) deyilir. «أَزْعَجْتُه فشَخَص» (Mən onu narahat etdim, o da köçüb getdi) deyilir. Xəlil demişdir:\nلو قيل انْزَعَجَ لكان صوابًا\n(Əgər «انْزَعَجَ» – narahat oldu, deysəydi, düzgün olardı)",
+ "az": "[زعج] (zəc): Zay, ayn və cim hərfləri narahatlığa və qərar tutmamağa dəlalət edən tək bir kökdür. «أَزْعَجْتُه أزْعِجُه إزعاجًا» (Mən onu narahat etdim, narahat edirəm, narahat etmək) deyilir. «أَزْعَجْتُه فشَخَص» (Mən onu narahat etdim, o da köçüb getdi) deyilir. Xəlil demişdir:\nلو قيل انْزَعَجَ لكان صوابًا\n(Əgər «انْزَعَجَ» – narahat oldu, deyilsəydi, düzgün olardı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:09.125Z"
+ "ts": "2026-10-25T01:38:09.125Z",
+ "prev_az": "[زعج] (zəc): Zay, ayn və cim hərfləri narahatlığa və qərar tutmamağa dəlalət edən tək bir kökdür. «أَزْعَجْتُه أزْعِجُه إزعاجًا» (Mən onu narahat etdim, narahat edirəm, narahat etmək) deyilir. «أَزْعَجْتُه فشَخَص» (Mən onu narahat etdim, o da köçüb getdi) deyilir. Xəlil demişdir:\nلو قيل انْزَعَجَ لكان صوابًا\n(Əgər «انْزَعَجَ» – narahat oldu, deysəydi, düzgün olardı)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«لو قيل» ifadəsi «deysəydi» kimi səhv və qüsurlu tərcümə edilmişdir (doğrusu: «deyilsəydi»)."
+ ],
+ "review_ts": "2026-11-19T13:06:47.093Z"
 }

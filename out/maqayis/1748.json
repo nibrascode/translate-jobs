@@ -13,5 +13,10 @@
  "ar": "الزاء والقاف والباء كلمة. يقال طريقٌ زَقَبٌ (٢)، أى ضيِّق.",
  "az": "[زقب] (zəqb): Zay, qaf və ba hərfləri bir kəlmədir. «طريقٌ زَقَبٌ» (2) (zəqəb yol) – yəni dar yol, deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:09.126Z"
+ "ts": "2026-10-25T01:38:09.126Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:07:25.736Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الزاء والغين ليس بشئ. ويقولون: الزغزغة: السُّخْرِيَة.",
  "az": "[زغ] الزاء والغين — heç bir əsası yoxdur. Və deyirlər ki: الزغزغة (zəğzəğə) — istehza, məsxərəyə qoymaqdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:28.608Z"
+ "ts": "2026-10-25T01:37:28.608Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:06:27.583Z"
 }

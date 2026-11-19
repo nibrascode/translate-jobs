@@ -11,9 +11,19 @@
   "page_to": 472
  },
  "ar": "الراء والهمزة واللام كلمةٌ واحدة تدلُّ على فِراخ النعام وهى الرَّأْل، والجمع رئَال، والأنثى رألَةٌ. واسْتَرْأل النّبات، إذا طال وصار كأعناق الرِّئال. وذات الرِّئال: روضة. والرِّئال: كواكب (٢).",
- "az": "«رأل»: (Ra, Həmzə, Lam) dəvəquşu balalarına dəlalət edən tək bir kəlmədir: الرَّأْل (ər-rəl), cəmi رِئَال (rial), dişi isə رَأْلَةٌ (rələş) olur. وَاسْتَرْأَلَ النَّبَاتُ (bitki uzandı və rial boyunlarına bənzədi). ذَاتُ الرِّئَالِ (Zatür-rial): bir bağçanın adı. الرِّئَال (rial): ulduzlar (2).",
+ "az": "[رأل]\nRa, həmzə və lam dəvəquşu balalarına dəlalət edən tək bir kəlmədir, o da الرَّأْل (ər-rəl)dir, cəmi رئَال (rial), dişisi isə رألَةٌ (rələ)dir. اسْتَرْأل النّبات، إذا طال وصار كأعناق الرِّئال (bitki uzanıb dəvəquşu balalarının boyunları kimi oldu). ذات الرِّئال (Zatür-rial): bir bağçanın adıdır. الرِّئال (ər-rial): ulduzlardır (٢).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:34:52.917Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«رأل»: (Ra, Həmzə, Lam) dəvəquşu balalarına dəlalət edən tək bir kəlmədir: الرَّأْل (ər-rəl), cəmi رِئَال (rial), dişi isə رَأْلَةٌ (rələş) olur. وَاسْتَرْأَلَ النَّبَاتُ (bitki uzandı və rial boyunlarına bənzədi). ذَاتُ الرِّئَالِ (Zatür-rial): bir bağçanın adı. الرِّئَال (rial): ulduzlar (2).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«رألَةٌ» sözünün oxunuşu «rələş» kimi pozulmuş şəkildə verilib.",
+  "«إذا طال وصار كأعناق الرِّئال» ərəbcə hissəsi mətndən buraxılıb və tərcümədə «rial» sözü tərcüməsiz qalıb.",
+  "Haşiyə rəqəmi (٢) əvəzinə (2) yazılıb."
+ ],
+ "review_ts": "2026-11-19T12:58:25.204Z"
 }

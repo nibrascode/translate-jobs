@@ -13,5 +13,10 @@
  "ar": "الزاء والراء والباء أصلٌ يدلّ على بعض المأوَى. فالزَّرْب زَرب الغنم، وهى حظيرتها. ويقال الزَّرِيبة الزُّبْية. والزَّريبة: قُتْرَة الصائد.",
  "az": "[زرب] (zə-rə-bə): Zai, ra və ba hərflərindən ibarət bir kök olub sığınacağın bir hissəsinə dəlalət edir. «الزَّرْب» – qoyun zərbi, yəni onların tövləsidir. Deyilir ki, «الزَّرِيبة» – ovçu quyusudur. Və «الزَّرِيبة» – ovçunun gizləndiyi yerdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:40:43.941Z"
+ "ts": "2026-10-25T01:40:43.941Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:24:33.402Z"
 }

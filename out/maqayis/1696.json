@@ -13,5 +13,10 @@
  "ar": "الراء والدال والسين أُصَيلٌ يدلُّ على ضربِ شئِ بشئ.\nيقال ردَسْتُ الأرض بالصّخرةِ وغيرِها، إذا ضربْتَها بها. والمِرْدَاس: صَخْرة عظيمة، مِفْعال من رَدَسْت. قال الأصمعىُّ: ما أدرِى أين رَدَس؟ أى ذهَب.\nوالقياسُ واحدٌ، لأنَّ الذاهبَ يقال له: ذَهَب فى الأرض، وضَرَب فى الأرض.",
  "az": "[ردس] \nالراء والدال والسين أُصَيلٌ يدلُّ على ضربِ شئِ بشئ (Ra, dal və sin hərfləri bir şeyin başqa bir şeyə vurulmasına dəlalət edən kiçik bir kökdür). \nيقال ردَسْتُ الأرض بالصّخرةِ وغيرِها، إذا ضربْتَها بها (Deyilir: «ردَسْتُ الأرض» (yeri vurdum) – qaya və ya başqa bir şeylə onu vurduğunda). والمِرْدَاس: صَخْرة عظيمة، مِفْعال من رَدَسْت (والْمِرْدَاس (mirdas) – böyük qaya parçasıdır, رَدَسْت felindən «مِفْعال» vəznindədir). قال الأصمعىُّ: ما أدرِى أين رَدَس؟ أى ذهَب (Əsməi demişdir: Bilmirəm hara رَدَس (radəs) etdi? yəni getdi).\nوالقياسُ واحدٌ، لأنَّ الذاهبَ يقال له: ذَهَب فى الأرض، وضَرَب فى الأرض (Qiyas eynidir, çünki gedən şəxsə «yerə getdi» və «yerə vurdu» deyilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:05.461Z"
+ "ts": "2026-10-25T01:37:05.461Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:00:36.692Z"
 }

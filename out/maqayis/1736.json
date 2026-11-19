@@ -11,7 +11,16 @@
   "page_to": 13
  },
  "ar": "الزاء والغين والميم أُصَيْلٌ يدلُّ على ترديد صوتٍ خفىّ. قالوا:\nتزغَّمَ الجملُ، إِذا ردَّدَ رُغاءَه فى خَفاءٍ ليس شديدا. ومنه التزَغم، وهو التَّغَضُّب، كأنه فى غَضبِه يردِّد صوتًا فى نفسه. وذكَر ناسٌ: تزغَّمَ الفصيلُ لأمِّه، إذا حنَّ حنينًا خفيًّا.",
- "az": "[زغم] (zəğm): Zay, ğın və mim hərfləri gizli səsin təkrarlanmasına dəlalət edən kiçik bir kökdür. Dedilər:\n«تزغَّمَ الجملُ» – dəvə nəriltisini güclü olmayan şəkildə gizlicə təkrarladıqda deyilir. Buradan «التزغم» (təzəğğüm) gəlir ki, bu da qəzəblənmək deməkdir, sanki o, qəzəbindən daxilində səs təkrarlayır. Bəzi adamlar qeyd etmişlər: «تزغَّمَ الفصيلُ لأمِّه» – süd sağımından ayrılmış balə ana dəvə üçün gizli şəkildə inlədikdə deyilir.",
+ "az": "[زغم] (zəğm): Zay, ğayn və mim hərfləri gizli səsin təkrarlanmasına dəlalət edən kiçik bir kökdür. Dedilər:\n«تزغَّمَ الجملُ» – dəvə nəriltisini güclü olmayan şəkildə gizlicə təkrarladıqda deyilir. Buradan «التزَغم» (təzəğğüm) gəlir ki, bu da qəzəblənmək deməkdir, sanki o, qəzəbindən daxilində səs təkrarlayır. Bəzi adamlar qeyd etmişlər: «تزغَّمَ الفصيلُ لأمِّه» – süddən kəsilmiş bala ana dəvə üçün gizli şəkildə inlədikdə deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:09.125Z"
+ "ts": "2026-10-25T01:38:09.125Z",
+ "prev_az": "[زغم] (zəğm): Zay, ğın və mim hərfləri gizli səsin təkrarlanmasına dəlalət edən kiçik bir kökdür. Dedilər:\n«تزغَّمَ الجملُ» – dəvə nəriltisini güclü olmayan şəkildə gizlicə təkrarladıqda deyilir. Buradan «التزغم» (təzəğğüm) gəlir ki, bu da qəzəblənmək deməkdir, sanki o, qəzəbindən daxilində səs təkrarlayır. Bəzi adamlar qeyd etmişlər: «تزغَّمَ الفصيلُ لأمِّه» – süd sağımından ayrılmış balə ana dəvə üçün gizli şəkildə inlədikdə deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الفصيلُ» sözü «süd sağımından ayrılmış balə» kimi həm məna, həm də orfoqrafik səhvlə tərcümə edilmişdir (doğrusu: «süddən kəsilmiş bala»)."
+ ],
+ "review_ts": "2026-11-19T13:06:47.094Z"
 }

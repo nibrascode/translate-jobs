@@ -13,5 +13,10 @@
  "ar": "الزاء والنون والكاف ليس أصلاً ولا قياسَ له. وقد حُكِىَ الزَّوَنَّك: القصير الدَّميم.",
  "az": "[زنك] (zənək): ز (zay), ن (nun) və ك (kaf) nə əsasdır, nə də onun qiyas və ölçüsü vardır. الزَّوَنَّك (əz-zəvənnək): qısa və eybəcər adam mənasında rəvayət edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:39:18.053Z"
+ "ts": "2026-10-25T01:39:18.053Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:12:39.221Z"
 }

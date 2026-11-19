@@ -13,5 +13,10 @@
  "ar": "الراء والدال والكاف ليس أصلا، لكنهم يقولون: خَلْقٌ مُرَوْدَكٌ؛ أى سمين. قال:\n* قامت تُرِيك خَلْقَهَا المُرَوْدَكا *",
  "az": "[ردك] \nالراء والدال والكاف ليس أصلا، لكنهم يقولون: خَلْقٌ مُرَوْدَكٌ؛ أى سمين. قال (Ra, dal və kaf hərfləri kök deyil, lakin deyirlər: «خَلْقٌ مُرَوْدَكٌ» (müravdək xilqət), yəni kök. [Şair] demişdir):\n* قامت تُرِيك خَلْقَهَا المُرَوْدَكا *\n(* Qalxıb sənə kök xilqətini göstərdi *)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:05.461Z"
+ "ts": "2026-10-25T01:37:05.461Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:00:36.692Z"
 }

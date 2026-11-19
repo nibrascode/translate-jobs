@@ -11,7 +11,17 @@
   "page_to": 28
  },
  "ar": "الزاء والنون والراءِ ليس بأصلٍ؛ لأنّ النون لا يكون بعدها راء. على أنّ فى الباب كلمة. يقولون إن الزَّنانِير الحصى الصِّغار إِذا هبّت عليها الريحُ سمعتَ لها صَوتا. [والزّنانير: أرضٌ بقرب جُرَشَ (٣)]. وقال ابن مقْبل:\nزَنَانِيرُ أرواحَ المصيفِ لها (٤)",
- "az": "[زنر] (zənər): ز (zay), ن (nun) və ر (ra) heç bir əsas deyil; çünki nun hərfindən sonra ra hərfi gəlməz. Hərçənd babda bir kəlmə vardır. Deyirlər ki, الزَّنانِير (əz-zənanir) üzərinə külək əsdikdə səsini eşitdiyin kiçik xırda daşcığızlardır. [Və əz-zənanir: Cürəş yaxınlığında bir yerdir (٣)]. İbn Muqbil demişdir:\nزَنَانِيرُ أرواحَ المصيفِ لها (٤) (Zənanirü ərvəhəl-masifi ləhə)",
+ "az": "[زنر]\nZə, nun və ra bir əsas deyildir; çünki nun hərfindən sonra ra gəlməz. Bununla belə, bu babda bir kəlmə vardır. Deyirlər ki, الزَّنانِير üzərinə külək əsdikdə səsi eşidilən xırda daşlardır. [Və الزّنانير: Curəş yaxınlığında bir yer adıdır (٣)]. İbn Muqbil demişdir:\nزَنَانِيرُ أرواحَ المصيفِ لها (٤)\n(Yayın küləkləri əsdikcə o xırda daşların səsi çıxar...)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:39:18.053Z"
+ "ts": "2026-10-25T01:39:18.053Z",
+ "prev_az": "[زنر] (zənər): ز (zay), ن (nun) və ر (ra) heç bir əsas deyil; çünki nun hərfindən sonra ra hərfi gəlməz. Hərçənd babda bir kəlmə vardır. Deyirlər ki, الزَّنانِير (əz-zənanir) üzərinə külək əsdikdə səsini eşitdiyin kiçik xırda daşcığızlardır. [Və əz-zənanir: Cürəş yaxınlığında bir yerdir (٣)]. İbn Muqbil demişdir:\nزَنَانِيرُ أرواحَ المصيفِ لها (٤) (Zənanirü ərvəhəl-masifi ləhə)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir parçasının tərcüməsi yazılmayıb, yalnız oxunuşu verilib.",
+  "Gərəksiz latınca transkripsiyalar təmizlənməlidir."
+ ],
+ "review_ts": "2026-11-19T13:15:06.788Z"
 }

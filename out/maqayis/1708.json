@@ -11,7 +11,17 @@
   "page_to": 508
  },
  "ar": "الراء والدال والباء ليس بشئ. ويقولون للقِرْمِيدة الإِردَبة. والإردَبُّ: مكيال لأهل مِصرَ ضخمٌ",
- "az": "[ردب] الراء والدال والباء — heç bir əsası yoxdur. Və onlar kərpicə الإِردَبة (l-irdəbə) deyirlər. İr-İrdəbb (الإردَبُّ) — Misir əhlinin böyük taxıl ölçü qabıdır.",
+ "az": "[ردب]\nالراء والدال والباء — heç bir əsası yoxdur. Onlar القِرْمِيدة (kərpic) sözünə الإِردَبة (irdəbə) deyirlər. الإردَبُّ (irdəbb) isə Misir əhlinin böyük ölçü qabıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:28.607Z"
+ "ts": "2026-10-25T01:37:28.607Z",
+ "prev_az": "[ردب] الراء والدال والباء — heç bir əsası yoxdur. Və onlar kərpicə الإِردَبة (l-irdəbə) deyirlər. İr-İrdəbb (الإردَبُّ) — Misir əhlinin böyük taxıl ölçü qabıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«İr-İrdəbb (الإردَبُّ)» hissəsində pozulmuş/təkrarlanan mətn və format xətası var.",
+  "«الإِردَبة» sözünün oxunuşu «l-irdəbə» kimi səhv verilmişdir."
+ ],
+ "review_ts": "2026-11-19T13:06:27.582Z"
 }

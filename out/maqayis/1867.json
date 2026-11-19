@@ -11,7 +11,17 @@
   "page_to": 77
  },
  "ar": "السين والعين والطاء أصل، وهو أن يُوجَر الإنسانُ الدواءَ.\nثم يحمل عليه. فمن ذلك أسعطته الدواءَ فاسْتَعطَه (١). والمُسْعُط (٢): الذى يجعل فيه السَّعوط. والسَّعوط هو الدواء، وأصل بنائه سَعَط. ومما يحمل عليه قولهم طعفته فأسعَطْتُه (٣) الرُّمح. واللّه أعلم.",
- "az": "[سعط] السين والعين والطاء — sin, ayn və ta hərfləri bir əsasdır ki, o da insana dərmanın içirtməsidir (burnundan damızdırılmasıdır).\nSonra ona bu tətbiq olunur. Bunlardan biri: أسعطته الدواءَ فاسْتَعطَه (əsfətühüd-dəvə fəstətəh) (١) — mən ona dərmanı damızdırdım, o da onu qəbul etdi. والمُسْعُط (əlmüsuət) — səut (burnundan dərman damızdırılan vasitə) qoyulan qabdır (2). السعوط (əssəut) — dərmandır və onun quruluşunun əsli səətdir (سَعَط). Buna əsaslanan sözlərdən biri də onların bu sözüdür: طعفته فأسعَطْتُه الرُّمح (təftühu fəsfətühür-rumh) (٣) — mən onu nizə ilə sancıb dəydirdim. Allah daha yaxşı bilir.",
+ "az": "[سعط]\nالسين والعين والطاء (sin, ayn və ta) bir əsasdır; o da insana dərmanın verilməsidir (boğazına və ya burnuna tökülməsidir).\nSonra digər mənalar buna aid edilir. Məsələn: «أسعطته الدواءَ فاسْتَعطَه» (ona burundan dərman damızdırdım, o da qəbul etdi) (١). المُسْعُط (əl-mus'ut) — içinə السَّعوط (əs-saut) qoyulan qabdır (٢). السَّعوط isə [buruna damızdırılan] dərmandır və onun əsli «سَعَط» quruluşundandır. Buna aid edilən ifadələrdən biri də onların: «طعفته فأسعَطْتُه الرُّمح» (ona nizə ilə zərbə vurdum və nizəni ona yeritdim) (٣) sözləridir. Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:29.965Z"
+ "ts": "2026-10-25T01:43:29.965Z",
+ "prev_az": "[سعط] السين والعين والطاء — sin, ayn və ta hərfləri bir əsasdır ki, o da insana dərmanın içirtməsidir (burnundan damızdırılmasıdır).\nSonra ona bu tətbiq olunur. Bunlardan biri: أسعطته الدواءَ فاسْتَعطَه (əsfətühüd-dəvə fəstətəh) (١) — mən ona dərmanı damızdırdım, o da onu qəbul etdi. والمُسْعُط (əlmüsuət) — səut (burnundan dərman damızdırılan vasitə) qoyulan qabdır (2). السعوط (əssəut) — dərmandır və onun quruluşunun əsli səətdir (سَعَط). Buna əsaslanan sözlərdən biri də onların bu sözüdür: طعفته فأسعَطْتُه الرُّمح (təftühu fəsfətühür-rumh) (٣) — mən onu nizə ilə sancıb dəydirdim. Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«المُسْعُط» sözü «əlmüsuət» kimi təhrif olunmuş, haşiyə ərəb rəqəmi ilə yazılmamışdır.",
+  "«يُوجَر الإنسانُ الدواءَ» cümləsi qeyri-dəqiq tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-19T14:00:13.005Z"
 }

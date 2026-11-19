@@ -13,5 +13,10 @@
  "ar": "الزاء والنون والقاف أصل يدلُّ على ضيقٍ أو تضْيِيق. يقولون زَنَقْت الفرسَ، إذا شَكَلْته فى قوائمه الأربع. والزَّنَقة كالمدخل فى السِّكّة (٥)\nوغيرها فى ضيق وفيها مَيل. ويقال لضربٍ من الحُلىّ زِنَاقٌ.",
  "az": "[زنق] (zənəq): ز (zay), ن (nun) və ق (qaf) daralmağı və ya sıxmağı ifadə edən bir əsasdır. Deyirlər زَنَقْت الفرس (zənəqtül-fərsə), atı dörd ayağından buxovladığım zaman. Və الزَّنَقَة (əz-zənəqə) küçədəki girəcək kimidir (٥) və digər dar və meyilli yerlərdə. Zinət növünə də زِنَاق (zinaq) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:39:18.053Z"
+ "ts": "2026-10-25T01:39:18.053Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:12:39.221Z"
 }

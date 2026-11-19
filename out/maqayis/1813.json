@@ -11,7 +11,16 @@
   "page_to": 43
  },
  "ar": "الزاء والهمزة والدال كلمة واحدة، تدلُّ على الفزع. يقال زُئِد الرّجُل، إِذا فَزِع، زُؤدًا. قال:\nحَملَتْ يه فى ليلةٍ مَزءُودةٍ … كَرْها وعَقدُ نِطاقِها لم يُحْلَلِ (١)",
- "az": "[زأد] (zə-həmzə-dal): tək bir söz olub qorxunu göstərir. «زُئِد الرّجُل» (kişi qorxuya düşdü) — züədn, deyilir. Şair demişdir: \nحَملَتْ يه فى ليلةٍ مَزءُودةٍ … كَرْها وعَقدُ نِطاقِها لم يُحْلَلِ (١)\n(O, qorxulu bir gecədə onu ikrahla daşıdı, halbuki kəmərinin düyüncükləri hələ açılmamışdı).",
+ "az": "[زأد] (zə-həmzə-dal): tək bir söz olub qorxunu göstərir. Qorxduğu zaman «زُئِد الرّجُل، إِذا فَزِع، زُؤدًا» (kişi qorxuya düşdü) deyilir. Şair demişdir:\nحَملَتْ يه فى ليلةٍ مَزءُودةٍ … كَرْها وعَقدُ نِطاقِها لم يُحْلَلِ (١)\n(O, qorxulu bir gecədə onu ikrahla daşıdı, halbuki kəmərinin düyünü hələ açılmamışdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:40:25.661Z"
+ "ts": "2026-10-25T01:40:25.661Z",
+ "prev_az": "[زأد] (zə-həmzə-dal): tək bir söz olub qorxunu göstərir. «زُئِد الرّجُل» (kişi qorxuya düşdü) — züədn, deyilir. Şair demişdir: \nحَملَتْ يه فى ليلةٍ مَزءُودةٍ … كَرْها وعَقدُ نِطاقِها لم يُحْلَلِ (١)\n(O, qorxulu bir gecədə onu ikrahla daşıdı, halbuki kəmərinin düyüncükləri hələ açılmamışdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«زُؤدًا» sözünün düzgün izahı və «إِذا فَزِع» (qorxduğu zaman) ifadəsinin tərcüməsi tam və səlis verilməmişdir."
+ ],
+ "review_ts": "2026-11-19T13:21:33.407Z"
 }

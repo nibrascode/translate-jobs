@@ -11,7 +11,16 @@
   "page_to": 23
  },
  "ar": "الزاء والميم والجيم ليس بشئٍ. ويقولون: الزُّمَّج: الطائر (١).\nوالزِّمِجَّى: أصل ذَنَب الطّائر. والأصل فى هذا الكاف: زِمِكَّى. ويقال زَمَجْت السِّقاء: ملأتُه. وهذا مقلوبٌ، إنما هو جَزَمْتُه. وقد مضى ذِكرُه.",
- "az": "[زمج] الزاء والميم والجيم ليس بشئٍ (Zə, mim və cim heç bir şey deyil). ويقولون: الزُّمَّج: الطائر (١) (Və deyirlər: əz-zümməc: quşdur). والزِّمِجَّى: أصل ذَنَب الطّائر (Və əz-zimicqə: quş quyruğunun əslidir). والأصل فى هذا الكاف: زِمِكَّى (Və bundakı əsl kaf ilədir: zimikkə). ويقال زَمَجْت السِّقاء: ملأتُه (Və zəməqtüs-siqa: tuluğu doldurdum deyilir). وهذا مقلوبٌ، إنما هو جَزَمْتُه (Və bu, məqlubdur (çevrilmişdir), əslində isə cəmətuhudur). وقد مضى ذِكرُه (Və onun zikri artıq keçdi).",
+ "az": "[زمج]\nالزاء والميم والجيم (Zə, mim və cim) bir əsl deyil. Deyirlər: الزُّمَّج (əz-zümməc): quşdur (١).\nالزِّمِجَّى (əz-zimicca): quşun quyruğunun dibidir. Bunun əsli ك (kaf) hərfi ilədir: زِمِكَّى (zimikka). Deyilir: زَمَجْت السِّقاء (zəməctus-siqa): tuluğu doldurdum. Bu, məqlubdur (hərfləri yerini dəyişmişdir), əslində جَزَمْتُه (cəzəmtuhu) şəklindədir. Onun izahı artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:57.983Z"
+ "ts": "2026-10-25T01:38:57.983Z",
+ "prev_az": "[زمج] الزاء والميم والجيم ليس بشئٍ (Zə, mim və cim heç bir şey deyil). ويقولون: الزُّمَّج: الطائر (١) (Və deyirlər: əz-zümməc: quşdur). والزِّمِجَّى: أصل ذَنَب الطّائر (Və əz-zimicqə: quş quyruğunun əslidir). والأصل فى هذا الكاف: زِمِكَّى (Və bundakı əsl kaf ilədir: zimikkə). ويقال زَمَجْت السِّقاء: ملأتُه (Və zəməqtüs-siqa: tuluğu doldurdum deyilir). وهذا مقلوبٌ، إنما هو جَزَمْتُه (Və bu, məqlubdur (çevrilmişdir), əslində isə cəmətuhudur). وقد مضى ذِكرُه (Və onun zikri artıq keçdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«جَزَمْتُه» sözü «cəmətuhu», «زَمَجْت السِّقاء» ifadəsi «zəməqtüs-siqa», «الزِّمِجَّى» sözü isə «əz-zimicqə» kimi səhv transkripsiya edilmişdir."
+ ],
+ "review_ts": "2026-11-19T13:09:37.538Z"
 }

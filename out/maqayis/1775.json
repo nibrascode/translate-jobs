@@ -11,7 +11,16 @@
   "page_to": 27
  },
  "ar": "الزاء والنون والحاء كالذى قبله. وذكر بعضهم أن التزنُّح التفتُّح فى الكلام.",
- "az": "[زنح] (zənəh): ز (zay), ن (nun) və ح (ha) özündən əvvəlki kimidir. Bəziləri qeyd etmişlər ki, التزنُّح (ət-təzənnuh) — danışıqda açılıb-tökülməkdir.",
+ "az": "[زنح]\nZə, nun və ha özündən əvvəlki kimidir. Bəziləri qeyd etmişlər ki, التزنُّح danışıqda həddi aşmaq, lovğalanaraq artıq-əskik danışmaqdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:39:18.053Z"
+ "ts": "2026-10-25T01:39:18.053Z",
+ "prev_az": "[زنح] (zənəh): ز (zay), ن (nun) və ح (ha) özündən əvvəlki kimidir. Bəziləri qeyd etmişlər ki, التزنُّح (ət-təzənnuh) — danışıqda açılıb-tökülməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Lüzumsuz transkripsiyalar çıxarılmalıdır."
+ ],
+ "review_ts": "2026-11-19T13:15:06.787Z"
 }

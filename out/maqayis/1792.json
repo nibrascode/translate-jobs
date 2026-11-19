@@ -11,7 +11,17 @@
   "page_to": 36
  },
  "ar": "الزاء والواو والدال أصلٌ يدلُّ على انتقالٍ بخيرٍ، من عملٍ أو كسب. هذا تحديدٌ حَدَّه الخليل. قال كلُّ مَنْ انتقل معه بخيرٍ مِنْ عملٍ أو كسب فقد تزوَّد. قال غيره: الزَّود: تأسيس الزاد، وهو الطعام يُتَّخَذ للسَّفر. والمِزْوَد: الوعاء يُجعَل للزاد. وتلقَّب العَجمُ برِقاب المَزاوِدِ",
- "az": "[زود] الزاء والواو والدال (z-w-d) xeyirlə, əməllə və ya qazabla başqa bir yerə köçməyə dəlalət edən tək bir əsasdır. Bu, Xəlilin müəyyən etdiyi bir tərrifdir. O demişdir: Əməldən və ya qazancdan özü ilə hər hansı bir xeyir aparan hər kəs azuqə götürmüş (تزوَّد) sayılır. Başqası demişdir: الزَّود (əl-zəvd) - azuqənin əsasının qoyulmasıdır; azuqə isə səfər üçün hazırlanan yeməkdir. المِزْوَد (əl-mizvəd) - azuqə qoyulan qabdır. Əcəmlər məzavidin boyunları ilə ləqəblənirlər.",
+ "az": "[زود]\nالزاء والواو والدال (z-v-d) xeyirlə, əməllə və ya qazancla başqa bir yerə köçməyə dəlalət edən bir əsasdır. Bu, Xəlilin müəyyən etdiyi bir tərifdir. O demişdir: Əməldən və ya qazancdan özü ilə xeyir apararaq köçən hər kəs azuqə götürmüş (تزوَّد) sayılır. Başqası demişdir: الزَّود (əz-zəvd) — azuqənin əsasının qoyulmasıdır; azuqə (الزاد) isə səfər üçün hazırlanan yeməkdir. المِزْوَد (əl-mizvəd) — azuqə qoyulan qabdır. Əcəmlərə «رِقاب المَزاوِدِ» (riqabu-l-məzavid — azuqə torbalarının boyunları) ləqəbi verilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:39:39.990Z"
+ "ts": "2026-10-25T01:39:39.990Z",
+ "prev_az": "[زود] الزاء والواو والدال (z-w-d) xeyirlə, əməllə və ya qazabla başqa bir yerə köçməyə dəlalət edən tək bir əsasdır. Bu, Xəlilin müəyyən etdiyi bir tərrifdir. O demişdir: Əməldən və ya qazancdan özü ilə hər hansı bir xeyir aparan hər kəs azuqə götürmüş (تزوَّد) sayılır. Başqası demişdir: الزَّود (əl-zəvd) - azuqənin əsasının qoyulmasıdır; azuqə isə səfər üçün hazırlanan yeməkdir. المِزْوَد (əl-mizvəd) - azuqə qoyulan qabdır. Əcəmlər məzavidin boyunları ilə ləqəblənirlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "\"qazancla\" əvəzinə \"qazabla\", \"tərifdir\" əvəzinə \"tərrifdir\" kimi orfoqrafik səhvlər var.",
+  "\"برِقاب المَزاوِدِ\" ifadəsinin ərəbcəsi verilməyib və \"məzavidin\" sözü tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-19T13:16:01.237Z"
 }

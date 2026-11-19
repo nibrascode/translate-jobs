@@ -11,7 +11,17 @@
   "page_to": 496
  },
  "ar": "الراء والجيم والدال ذكرت فيه كلمةٌ. قالوا: الإرجاد:\nالإرعاد.",
- "az": "[رجد] (rəcəd): راء، جيم və dal hərfləri haqqında bir kəlmə zikr edilmişdir. Dedilər ki, İrrad (الإرجاد) – gurultu, gurultulu səs deməkdir [İrrad – İrəad mənasındadır].",
+ "az": "[رجد]\nRa, cim və dal hərfləri haqqında bir kəlmə zikr edilmişdir. Dedilər ki, الإرجاد (əl-ircad): الإرعاد (əl-irad, yəni titrəmək/guruldamaq) deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:36:40.586Z"
+ "ts": "2026-10-25T01:36:40.586Z",
+ "prev_az": "[رجد] (rəcəd): راء، جيم və dal hərfləri haqqında bir kəlmə zikr edilmişdir. Dedilər ki, İrrad (الإرجاد) – gurultu, gurultulu səs deməkdir [İrrad – İrəad mənasındadır].",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərflərin adları ərəbcə (راء، جيم) saxlanılıb.",
+  "«الإرجاد» sözü «İrrad» kimi səhv oxunub və «الإرعاد» sözünün ərəbcə mətni buraxılaraq məna səhv verilib."
+ ],
+ "review_ts": "2026-11-19T13:00:32.415Z"
 }

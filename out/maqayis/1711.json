@@ -11,7 +11,16 @@
   "page_to": 509
  },
  "ar": "الراء والذال واللام قريبٌ من الذى قبله. فالرَّذْل: الدُّون مِنْ كلِّ شئ، وكذلك الرُّذَال.\nانقضى الثُّلاثى من الراء.",
- "az": "[رذل] الراء والذال واللام — əvvəlki kəlməyə yaxındır. الرَّذْل (rədl) — hər şeyin alçaq, dəyərsiz olanıdır, eynilə الرُّذَال (rüzal) da belədir.\nBela ilə üçhərfli (səlis) rəy kökləri bitdi.",
+ "az": "[رذل]\nالراء والذال واللام — əvvəlki köklə yaxındır. الرَّذْل (rəzl) — hər şeyin alçaq, dəyərsiz olanıdır, eynilə الرُّذَال (ruzal) da belədir.\n«Ra» hərfinin üçhərfli (sülasi) kökləri bitdi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:28.607Z"
+ "ts": "2026-10-25T01:37:28.607Z",
+ "prev_az": "[رذل] الراء والذال واللام — əvvəlki kəlməyə yaxındır. الرَّذْل (rədl) — hər şeyin alçaq, dəyərsiz olanıdır, eynilə الرُّذَال (rüzal) da belədir.\nBela ilə üçhərfli (səlis) rəy kökləri bitdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«انقضى الثُّلاثى من الراء» cümləsi «Bela ilə üçhərfli (səlis) rəy kökləri bitdi» kimi tamamilə səhv tərcümə edilmişdir («الراء» = «ra» hərfi, «الثُّلاثى» = «sülasi»)."
+ ],
+ "review_ts": "2026-11-19T13:06:27.583Z"
 }

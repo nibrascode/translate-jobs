@@ -13,5 +13,7 @@
  "ar": "السين والعين والميم كلمةٌ واحدة. فالسَّعْم: السَّير. يقال سَعَم البعيرُ، إذا سار .. وناقةٌ سَعُوم.",
  "az": "[سعم] السين والعين والميم — sin, ayn və mim hərfləri tək bir kəlmədir. فَالسَّعْم (əssəhm) — səyahət etmək, getmək. سَعَم البعيرُ (səəməl-bəiru) — dəvə getdiyi zaman deyilir. وناقةٌ سَعُوم (və naqətün səum) — gedən, yol alan dəvə.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:29.965Z"
+ "ts": "2026-10-25T01:43:29.965Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

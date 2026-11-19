@@ -11,7 +11,17 @@
   "page_to": 497
  },
  "ar": "الراء والحاء والقاف كلمةٌ واحدة. وهى الرَّحيق: اسمٌ من أسماء الخمر، ويقال هى أفضَلُها.",
- "az": "[رحق] (rəhəq): راء، حاء və qaf hərfləri tək bir kəlmədir. O da şərabın adlarından biri olan الرَّحيق (ur-rəhiq) sözüdür, deylir ki, o, şərabların ən üstünüdür.",
+ "az": "[رحق]\nRa, ha və qaf hərfləri tək bir kəlmədir. O da şərabın adlarından biri olan الرَّحيق (ər-rəhiq) sözüdür; deyilir ki, o, şərabların ən üstünüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:36:40.586Z"
+ "ts": "2026-10-25T01:36:40.586Z",
+ "prev_az": "[رحق] (rəhəq): راء، حاء və qaf hərfləri tək bir kəlmədir. O da şərabın adlarından biri olan الرَّحيق (ur-rəhiq) sözüdür, deylir ki, o, şərabların ən üstünüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərflərin adları ərəbcə (راء، حاء) saxlanılıb.",
+  "«deylir» sözündə orfoqrafik səhv var."
+ ],
+ "review_ts": "2026-11-19T13:00:32.415Z"
 }

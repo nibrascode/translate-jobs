@@ -11,7 +11,16 @@
   "page_to": 65
  },
  "ar": "السين والحاء أصلٌ واحد يدلُّ على الصّبّ، يقال سححت [الماءَ] أسُحُّ سَحًّا. وسَحَابَةٌ سحوح، أى صَبّابة. وشاةٌ ساحٌّ، أى سمينة، كأنّها تَسُحّ الودكَ سَحًّا. وفرس مِسَحٌّ، أى سريعةٌ يشبه عدوُها انصبابَ المطر.\nويقال سَحسح الشئُ، إذا سال. ويقال إن السحسحة هى السَّاحة (٥).",
- "az": "[سح] Sin və ha hərfləri axıtmağa (tökülməyə) dəlalət edən tək bir əldir. Deyilir: «سححت [الماءَ] أسُحُّ سَحًّا» ([suyu] tökdüm, tökürəm, axıdıram). Və «سَحَابَةٌ سحوح» — leysanla yağış tökən bulud. Və «شاةٌ ساحٌّ» — piyini sanki leysan kimi axıdan kök qoyun. Və «فرس مِسَحٌّ» — qaçışı yağışın yağmasına bənzəyən sürətli at.\n\nVə deyilir: «سَحسح الشئُ» — şey axdı. Həmçinin deyilir ki, «السحسحة» — meydandır (٥).",
+ "az": "[سح] Sin və ha hərfləri axıtmağa (tökməyə) dəlalət edən tək bir əsldir. Deyilir: «سححت [الماءَ] أسُحُّ سَحًّا» ([suyu] tökdüm, tökürəm, axıdıram). «سَحَابَةٌ سحوح» — [yağışı] bol tökən bulud. «شاةٌ ساحٌّ» — sanki piyi axıdan kök qoyun. «فرس مِسَحٌّ» — qaçışı yağışın tökülməsinə bənzəyən sürətli at.\n\nVə deyilir: «سَحسح الشئُ» — şey axdı. Həmçinin deyilir ki, السحسحة elə السَّاحة (meydan, həyət) deməkdir (٥).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:42:47.277Z"
+ "ts": "2026-10-25T01:42:47.277Z",
+ "prev_az": "[سح] Sin və ha hərfləri axıtmağa (tökülməyə) dəlalət edən tək bir əldir. Deyilir: «سححت [الماءَ] أسُحُّ سَحًّا» ([suyu] tökdüm, tökürəm, axıdıram). Və «سَحَابَةٌ سحوح» — leysanla yağış tökən bulud. Və «شاةٌ ساحٌّ» — piyini sanki leysan kimi axıdan kök qoyun. Və «فرس مِسَحٌّ» — qaçışı yağışın yağmasına bənzəyən sürətli at.\n\nVə deyilir: «سَحسح الشئُ» — şey axdı. Həmçinin deyilir ki, «السحسحة» — meydandır (٥).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«əsl» əvəzinə «əl» yazılmışdır."
+ ],
+ "review_ts": "2026-11-19T13:41:45.621Z"
 }

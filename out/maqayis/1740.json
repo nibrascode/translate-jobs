@@ -11,7 +11,16 @@
   "page_to": 14
  },
  "ar": "الزاء والفاء والنون ليس عندى أصلاً، ولا فيه ما يُحتاج إليه. يقولون: الزَّفْن: الرَّقْص. ويقولون: الزيفن (٣): الشّديد. وليس هذا بشئ.",
- "az": "[زفن] (zəfən): Zay, fa və nun hərfləri mənim yanımda nə kökdür, nə də orada ehtiyac duyulan bir şey var. Deyirlər ki: «الزَّفْن» (zəfn) – rəqsdir. Deyirlər ki: «الزيفن» (zəyfən) – güclüdür. Bu isə heç bir şey deyil.",
+ "az": "[زفن] (zəfn): Zay, fa və nun hərfləri mənim yanımda kök deyil və orada ehtiyac duyulan bir şey də yoxdur. Deyirlər ki: «الزَّفْن» (zəfn) – rəqsdir. Deyirlər ki: «الزيفن» (٣) (zəyfən) – güclüdür. Bu isə heç bir şey deyil.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:09.125Z"
+ "ts": "2026-10-25T01:38:09.125Z",
+ "prev_az": "[زفن] (zəfən): Zay, fa və nun hərfləri mənim yanımda nə kökdür, nə də orada ehtiyac duyulan bir şey var. Deyirlər ki: «الزَّفْن» (zəfn) – rəqsdir. Deyirlər ki: «الزيفن» (zəyfən) – güclüdür. Bu isə heç bir şey deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الزيفن» sözünün yanındakı (٣) haşiyə rəqəmi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-19T13:06:47.096Z"
 }

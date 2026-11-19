@@ -11,7 +11,19 @@
   "page_to": 78
  },
  "ar": "السين والفاء واللام أصلٌ واحد، وهو ما كان خلافَ العلوّ. فالسُّفل (٢) سِفُل الدارِ وغيرها. والسُّفُول: ضدّ العُلُوّ. والسَّفِلة: الدُّون من الناس، يقال هو من سَفِلة الناس ولا يقال سَفِلة (٣). والسَّفَال: نقيض العَلاء.\nوإنّ أمرهم لفى سَفَال. ويقال قَعَد بسُفالة الرّيح وعُلاوتها. والعُلاوة من حيث تهُبُّ، والسُّفالة ما كان بإزاء ذلك.",
- "az": "[سفل] السين والفاء واللام — sin, fa və lam hərfləri tək bir əsasdır, o da ucalığın əksi olan şeydir. فالسُّفل (əssüful) — evin və başqa şeylərin alt qismidir. والسُّفُول (əssüful) — ucalığın əksidir. والسَّفِلة (əssəfiləh) — insanların alçağı, deyilir: o, səfilə insanlarındandır, lakin sadəcə səfilə deyilməz (٣). والسَّفَال (əssəfal) — ucalığın ziddidir.\nVə həqiqətən, onların işi alçaqlıqdadır (فى سَفَال). Deyilir: قَعَد بسُفالة الريح وعُلاوتها (qəədə bi-sufalətir-rih ve ulavətiha). Ülave (علاوة) küləyin əsdiyi tərəf, sufale (سفالة) isə onun qarşısında olan yerdir.",
+ "az": "[سفل]\nالسين والفاء واللام (sin, fa və lam) tək bir əsasdır, o da ucalığın əksi olan şeydir. فالسُّفل (٢) (əs-sufl) — evin və başqa şeylərin aşağısıdır (alt hissəsidir). والسُّفُول (əs-suful) — ucalığın ziddidir. والسَّفِلة (əs-səfilə) — insanların alçağıdır; «هو من سَفِلة الناس» (o, insanların alçaqlarındandır) deyilir, təkcə «سَفِلة» (٣) deyilməz. والسَّفَال (əs-səfal) — ucalığın əksidir.\n«وإنّ أمرهم لفى سَفَال» (Şübhəsiz ki, onların işi alçaqlıqdadır/enməkdədir). Deyilir: «قَعَد بسُفالة الرّيح وعُلاوتها» (Küləyin əsdiyi və ya əks tərəfində oturdu). العُلاوة (əl-ulavə) küləyin əsdiyi yön, السُّفالة (əs-sufalə) isə onun qarşısında (əksində) olan yöndür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:29.966Z"
+ "ts": "2026-10-25T01:43:29.966Z",
+ "prev_az": "[سفل] السين والفاء واللام — sin, fa və lam hərfləri tək bir əsasdır, o da ucalığın əksi olan şeydir. فالسُّفل (əssüful) — evin və başqa şeylərin alt qismidir. والسُّفُول (əssüful) — ucalığın əksidir. والسَّفِلة (əssəfiləh) — insanların alçağı, deyilir: o, səfilə insanlarındandır, lakin sadəcə səfilə deyilməz (٣). والسَّفَال (əssəfal) — ucalığın ziddidir.\nVə həqiqətən, onların işi alçaqlıqdadır (فى سَفَال). Deyilir: قَعَد بسُفالة الريح وعُلاوتها (qəədə bi-sufalətir-rih ve ulavətiha). Ülave (علاوة) küləyin əsdiyi tərəf, sufale (سفالة) isə onun qarşısında olan yerdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "(٢) haşiyə rəqəmi mətndən buraxılmışdır.",
+  "Mətndə Türkiyə türkcəsinə aid «ve» bağlayıcısı işlənmişdir.",
+  "İzah olunan ərəb kəlmələri əsas mətndə türk tələffüzü ilə («Ülave», «sufale») yazılmışdır.",
+  "«بسُفالة الرّيح» sitatında hərəkə buraxılmışdır."
+ ],
+ "review_ts": "2026-11-19T14:18:19.815Z"
 }

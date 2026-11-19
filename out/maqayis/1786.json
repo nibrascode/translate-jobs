@@ -11,7 +11,19 @@
   "page_to": 33
  },
  "ar": "الزاء والهاء والفاء أصلٌ يدلُّ على ذهاب الشئ. يقال ازدهَفَ الشئَ، وذلك إذا ذهب به. قالت امرأةٌ من العرب:\nيا من أحسَّ بُنَيَّىَّ اللذين هما … سَمعِى ومُخّى فمُخِّى اليوم مزدَهَفُ (١)\nويقال منه أَزْهَفَه الموتُ. ومن الباب ازدهَفه، إذا استعجَلَه. قال:\nقولك أقوالاً مع التَّحلافِ … فيه ازدهافٌ أيُّما ازدهافِ (٢)\nوقال قوم: الازدهاف التزيُّد فى الكلام. فإن كان صحيحاً فلأنّه ذَهابٌ عن الحقّ ومجاوزةٌ له.",
- "az": "[زهف] الزاء والهاء والفاء (z-h-f) şeyin getməsinə dəlalət edən bir əsasdır. ازدهَفَ الشئَ (izdəhəfə-ş-şəyə) - şeyi aparıb yox etdi, deyilir. Ərəb qadınlarından biri demişdir: يا من أحسَّ بُنَيَّىَّ اللذين هما … سَمعِى ومُخّى فمُخِّى اليوم مزدَهَفُ (١) (Ey mənim eşitməyim və beyfim olan iki balaca oğlumu hiss edən kəs... mənim beynim bu gün yox olub gedir). Ondan موت أزْهَفَه (əzhəqəhu-l-məvtü - ölüm onu aparıb yox etdi) feili düzəldilir. Bu qapıdandır ازدهَفه (izdəhəfəhu) - onu tələsdirdi. O demişdir: قولك أقوالاً مع التَّحلافِ … فيه ازدهافٌ أيُّما ازدهافِ (٢) (Andiçmələrlə birlikdə sözlər söyləməyinin içində elə bir tələskənlik və azğınlıq var ki!). Bir qrup insan demişdir: İzdəhaf - sözdə həddi aşmaq və özünü öyməkdir. Əgər bu səhihdirsə, deməli, bu, haqq yolundan uzaqlaşmaq və həddi aşmaq deməkdir.",
+ "az": "[زهف]\nالزاء والهاء والفاء (z-h-f) şeyin getməsinə dəlalət edən bir əsasdır. ازدهَفَ الشئَ (izdəhəfə-ş-şəyə) — şeyi aparıb yox etdi, deyilir. Ərəblərdən bir qadın demişdir:\nيا من أحسَّ بُنَيَّىَّ اللذين هما … سَمعِى ومُخّى فمُخِّى اليوم مزدَهَفُ (١)\n(Ey mənim eşitməyim və beynim olan iki balaca oğlumdan xəbəri olan kəs... bu gün mənim beynim yox olub gedir). Ondan أَزْهَفَه الموتُ (əzhəfəhu-l-məvtu — ölüm onu aparıb yox etdi) feili deyilir. Bu qapıdandır: ازدهَفه (izdəhəfəhu) — onu tələsdirdi. O demişdir:\nقولك أقوالاً مع التَّحلافِ … فيه ازدهافٌ أيُّما ازدهافِ (٢)\n(Andiçmələrlə birlikdə sözlər söyləməyində elə bir tələskənlik var ki!).\nBir qrup demişdir: الازدهاف (izdihaf) sözdə şişirtmə etməkdir. Əgər bu səhihdirsə, deməli, bu, haqdan uzaqlaşmaq və onu aşmaq deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:39:39.989Z"
+ "ts": "2026-10-25T01:39:39.989Z",
+ "prev_az": "[زهف] الزاء والهاء والفاء (z-h-f) şeyin getməsinə dəlalət edən bir əsasdır. ازدهَفَ الشئَ (izdəhəfə-ş-şəyə) - şeyi aparıb yox etdi, deyilir. Ərəb qadınlarından biri demişdir: يا من أحسَّ بُنَيَّىَّ اللذين هما … سَمعِى ومُخّى فمُخِّى اليوم مزدَهَفُ (١) (Ey mənim eşitməyim və beyfim olan iki balaca oğlumu hiss edən kəs... mənim beynim bu gün yox olub gedir). Ondan موت أزْهَفَه (əzhəqəhu-l-məvtü - ölüm onu aparıb yox etdi) feili düzəldilir. Bu qapıdandır ازدهَفه (izdəhəfəhu) - onu tələsdirdi. O demişdir: قولك أقوالاً مع التَّحلافِ … فيه ازدهافٌ أيُّما ازدهافِ (٢) (Andiçmələrlə birlikdə sözlər söyləməyinin içində elə bir tələskənlik və azğınlıq var ki!). Bir qrup insan demişdir: İzdəhaf - sözdə həddi aşmaq və özünü öyməkdir. Əgər bu səhihdirsə, deməli, bu, haqq yolundan uzaqlaşmaq və həddi aşmaq deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirdə və izahda \"beynim\" əvəzinə \"beyfim\" yazılıb.",
+  "\"أَزْهَفَه الموتُ\" ifadəsinin ərəbcə yazılışı və transkripsiyası səhv verilib (\"موت أزْهَفَه\" və \"əzhəqəhu-l-məvtü\").",
+  "\"التزيُّد فى الكلام\" və ikinci şeirin tərcüməsinə mətndə olmayan \"özünü öymək\" və \"azğınlıq\" sözləri əlavə edilib.",
+  "\"الازدهاف\" sözünün ərəbcə yazılışı verilməyib."
+ ],
+ "review_ts": "2026-11-19T13:16:01.236Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 66
  },
  "ar": "السين والخاء أصلٌ فيه كلمة واحدة. يقان إِنْ السَّخَاخ الأرض الليِّنة الحُرَّة. وذكروا - إِنْ كان صحيحاً - سَخَّت الجرادة، إذا غرزت بذنبها فى الأرض.",
- "az": "[سخ] Sin və xai hərfləri içində tək bir kəlmə olan bir əldir. Deyilir ki, «السَّخَاخ» — yumşaq və təmiz torpaqdır. Əgər doğrudursa, qeyd etmişlər ki: «سَخَّت الجرادة» — çəyirtkə quyruğunu yerə sancdı.",
+ "az": "[سخ] Sin və xa hərfləri daxilində tək bir kəlmə olan bir əsldir. Deyilir ki, «السَّخَاخ» — yumşaq və münbit (təmiz) torpaqdır. Əgər doğrudursa, qeyd etmişlər ki: «سَخَّت الجرادة» — çəyirtkə quyruğunu yerə sancdıqda deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:42:47.277Z"
+ "ts": "2026-10-25T01:42:47.277Z",
+ "prev_az": "[سخ] Sin və xai hərfləri içində tək bir kəlmə olan bir əldir. Deyilir ki, «السَّخَاخ» — yumşaq və təmiz torpaqdır. Əgər doğrudursa, qeyd etmişlər ki: «سَخَّت الجرادة» — çəyirtkə quyruğunu yerə sancdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«xai» əvəzinə «xa» yazılmalıdır.",
+  "«əsl» əvəzinə «əl» yazılmışdır."
+ ],
+ "review_ts": "2026-11-19T13:41:45.621Z"
 }

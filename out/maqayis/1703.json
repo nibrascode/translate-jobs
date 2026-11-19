@@ -11,7 +11,17 @@
   "page_to": 506
  },
  "ar": "الراء والدال والهاء أُصَيلٌ يدل على هَزْمٍ فى صَخرةٍ أو غيرها.\nقالوا: الرَّدْهَة: قَلْتٌ فى الصَّفا يجتمع فيه ماءُ السماء؛ والجمع رِدَاه. فأما الذى حُكِى عن الخليل فمخالفٌ لما ذكَرْناه؛ قال: الرَّدَه (١): شِبهُ آكامٍ خشنةٍ كثيرة الحجارة، الواحدة رَدْهَةٌ. قال وهى تِلال القِفاف. قال رُؤبة:\n* مِنْ بَعْد أَنْضاد التلال الرُّدَّهِ (٢) *",
- "az": "[رده] الراء والدال والهاء — qaya və ya başqa bir şeydə çuxura, oyuğa dəlalət edən təməl bir kökdür.\nDeyirlər ki, الرَّدْهَة (rədhö) — səfada (hamar qayanın üzərində) göy suyu yığılan çuxurdur, gölməçədir; cəmi رِدَاه (ridah) olur. Əl-Xəlildən rəvayət edilənə gəldikdə isə, o, bizim zikr etdiyimizə ziddir; o demişdir: الرَّدَه (rədəh) (١) — çoxlu daşları olan sərt təpəciklərə bənzər yerlərdir, təkli رَدْهَةٌ (rədhö) olur. O demişdir: bunlar hündür yerlərin təpələridir. Rُübə demişdir:\n* مِنْ بَعْد أَنْضاد التلال الرُّدَّهِ (٢) *\n(Sərt və daşlı təpələrin sıralarından sonra.)",
+ "az": "[رده]\nالراء والدال والهاء — qaya və ya başqa bir şeydə çuxura, oyuğa dəlalət edən kiçik bir kökdür.\nDeyirlər ki, الرَّدْهَة (rədhə) — səfada (hamar qayanın üzərində) göy suyu yığılan çuxurdur, gölməçədir; cəmi رِدَاه (ridah) olur. Əl-Xəlildən rəvayət edilənə gəldikdə isə, o, bizim zikr etdiyimizə ziddir; o demişdir: الرَّدَه (rədəh) (١) — çoxlu daşları olan sərt təpəciklərə bənzər yerlərdir, təkli رَدْهَةٌ (rədhə) olur. O demişdir: bunlar hündür yerlərin təpələridir. Rübə demişdir:\n* مِنْ بَعْد أَنْضاد التلال الرُّدَّهِ (٢) *\n(Sərt və daşlı təpələrin sıralarından sonra.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:28.607Z"
+ "ts": "2026-10-25T01:37:28.607Z",
+ "prev_az": "[رده] الراء والدال والهاء — qaya və ya başqa bir şeydə çuxura, oyuğa dəlalət edən təməl bir kökdür.\nDeyirlər ki, الرَّدْهَة (rədhö) — səfada (hamar qayanın üzərində) göy suyu yığılan çuxurdur, gölməçədir; cəmi رِدَاه (ridah) olur. Əl-Xəlildən rəvayət edilənə gəldikdə isə, o, bizim zikr etdiyimizə ziddir; o demişdir: الرَّدَه (rədəh) (١) — çoxlu daşları olan sərt təpəciklərə bənzər yerlərdir, təkli رَدْهَةٌ (rədhö) olur. O demişdir: bunlar hündür yerlərin təpələridir. Rُübə demişdir:\n* مِنْ بَعْد أَنْضاد التلال الرُّدَّهِ (٢) *\n(Sərt və daşlı təpələrin sıralarından sonra.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الرَّدْهَة» sözünün oxunuşu səhvən «rədhö» kimi verilmişdir.",
+  "«Rُübə» sözündə latın qrafikasının içərisinə ərəb hərəkəsi düşərək mətn pozulmuşdur."
+ ],
+ "review_ts": "2026-11-19T13:01:28.365Z"
 }

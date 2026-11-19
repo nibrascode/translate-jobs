@@ -11,7 +11,17 @@
   "page_to": 23
  },
  "ar": "الزاء والميم والخاء ليس بأصل. قال الخليل: الزامخ الشّامخ بأنفه. والأنُوف الزُّمّخ: الطوال. وهذا إن كان صحيحًا فالأصل فيه الشين «شمخ».",
- "az": "[زمخ] الزاء والميم والخاء ليس بأصل (Zə, mim və xa əsl deyil). قال الخليل: الزامخ الشّامخ بأنفه (Xəlil dedi: əz-zamix burunu ilə təkəbbürlənəndir). والأنُوف الزُّمّخ: الطوال (Və əl-unuf əz-zumməh: uzun burunlulardır). وهذا إن كان صحيحًا فالأصل فيه الشين «شمخ» (Və əgər bu səhihdirsə, onda onun əsli şin hərfi ilə olan «şəməx»dir).",
+ "az": "[زمخ]\nالزاء والميم والخاء (Zə, mim və xa) əsl deyil. Xəlil demişdir: الزامخ (əz-zamix) burnunu dik tutaraq təkəbbürlənən kimsədir. الأنُوف الزُّمّخ (əl-unuf əz-zümməx): uzun burunlardır. Əgər bu səhihdirsə, onda onun əsli ش (şin) hərfi ilə «شمخ» (şəməxa) kökündəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:57.983Z"
+ "ts": "2026-10-25T01:38:57.983Z",
+ "prev_az": "[زمخ] الزاء والميم والخاء ليس بأصل (Zə, mim və xa əsl deyil). قال الخليل: الزامخ الشّامخ بأنفه (Xəlil dedi: əz-zamix burunu ilə təkəbbürlənəndir). والأنُوف الزُّمّخ: الطوال (Və əl-unuf əz-zumməh: uzun burunlulardır). وهذا إن كان صحيحًا فالأصل فيه الشين «شمخ» (Və əgər bu səhihdirsə, onda onun əsli şin hərfi ilə olan «şəməx»dir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الزُّمّخ» sözündə «خ» (xa) hərfi səhvən «h» kimi («əz-zumməh») yazılmış və «الطوال» («uzun burunlar») ifadəsi «uzun burunlulardır» kimi tərcümə edilmişdir.",
+  "«burunu» sözündə orfoqrafik səhv («burnu») var."
+ ],
+ "review_ts": "2026-11-19T13:09:37.539Z"
 }

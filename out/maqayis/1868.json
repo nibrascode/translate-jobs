@@ -11,7 +11,17 @@
   "page_to": 77
  },
  "ar": "السين والغين واللام أصلٌ يدل علي إساءة الغِذاء وسوء الحال فيه. من ذلك السَّغِل: الولد السيِّئ الغذاء. وكلُّ ما أسئ غذاؤه فهو سَغِل.\nقال سلامة بن جندل يصف فَرساً:\nليس بأسْفَى ولا أقْنى ولا سَغِلٍ … يُسقَى دواء قَفِىّ السَّكْنِ مربُوبِ (٤)\nويقال: بل السَّغِل: الدقيق القوائم الصغير وقال ابن دريد: السغِل: المتخدِّد لحمه، المهزول المضطرب الخَلْق.",
- "az": "[سغل] السين والغين واللام — sin, ğın və lam hərfləri qida zəifliyinə və orada pis hala dəlalət edən bir əsasdır. Bunlardan biri: السَّغِل (əssəhil) — qidası pis olan uşaq. Qidası pis verilən hər bir şey səhildir (سَغِل).\nSalamə ibn Cəndəl atı təsvir edərkən demişdir:\nليس بأسْفَى ولا أقْنى ولا سَغِلٍ … يُسقَى دواء قَفِىّ السَّكْنِ مربُوبِ (٤)\nDeyilir ki: Bəlkə də səhil — incə ayaqlı, kiçik olan deməkdir. İbn Dürid demişdir: Səhil — əti sallanan, arıq və xilqəti səfil olan deməkdir.",
+ "az": "[سغل]\nالسين والغين واللام (sin, ğayn və lam) qidanın pis olmasına və bəslənmənin pis vəziyyətdə olmasına dəlalət edən bir əsasdır. Buradan: السَّغِل (əs-səğil) — pis bəslənmiş, pis qidalanmış uşaqdır. Qidası pis verilən hər bir şey «سَغِل» adlanır.\nSəlamə ibn Cəndəl bir atı vəsf edərək demişdir:\nليس بأسْفَى ولا أقْنى ولا سَغِلٍ … يُسقَى دواء قَفِىّ السَّكْنِ مربُوبِ (٤)\n(O nə cod tüklüdür, nə qaba burunludur, nə də pis bəslənmiş arıqdır; ona dərman kimi ailənin ən yaxşı bəslənmiş südü içirdilər).\nDeyilir ki: Xeyr, السَّغِل — nazik ayaqlı, kiçik cüssəli deməkdir. İbn Dureyd demişdir: السغِل — əti qırışmış (sallanmış), arıq və bədən quruluşu qeyri-mütənasib olandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:29.965Z"
+ "ts": "2026-10-25T01:43:29.965Z",
+ "prev_az": "[سغل] السين والغين واللام — sin, ğın və lam hərfləri qida zəifliyinə və orada pis hala dəlalət edən bir əsasdır. Bunlardan biri: السَّغِل (əssəhil) — qidası pis olan uşaq. Qidası pis verilən hər bir şey səhildir (سَغِل).\nSalamə ibn Cəndəl atı təsvir edərkən demişdir:\nليس بأسْفَى ولا أقْنى ولا سَغِلٍ … يُسقَى دواء قَفِىّ السَّكْنِ مربُوبِ (٤)\nDeyilir ki: Bəlkə də səhil — incə ayaqlı, kiçik olan deməkdir. İbn Dürid demişdir: Səhil — əti sallanan, arıq və xilqəti səfil olan deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Səlamə ibn Cəndəlin beyti tərcüməsiz buraxılmışdır.",
+  "«المضطرب الخَلْق» ifadəsi «xilqəti səfil olan» kimi yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-19T14:00:13.005Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 496
  },
  "ar": "الراء والحاء والضاد أصلٌ يدلّ على غَسْل الشئ.\nيقال رحَضْتُ الثَّوبَ، إذا غسَلْتَه. قال:\nمَهَامِهُ أَشْباهٌ كأنَّ سَرابَها … مُلاءٌ بأيدى الغاسِلات رحيضُ (١)\nويقال للمغْتَسَل (٢) المِرحاض. فأما عَرَقُ الحمَّى فإِنَّه يسمّى الرُّحَضاء؛ وهو ذاك القياس، كأنّها رحضَتِ الجسمِ، أى غَسَلْتَه.",
- "az": "[رحض] (rəhəd): راء، حاء və dad hərfləri bir şeyi yumağa dəlalət edən əsas kökdür.\nDeyilir: رحَضْتُ الثَّوبَ (paltarı yudum). Şair demişdir:\nمَهَامِهُ أَشْباهٌ كأنَّ سَرابَها … مُلاءٌ بأيدى الغاسِلات رحيضُ (١)\n(Bənzər səhra çölləri ki, onların səraabı paltaryuyanların əlindəki yuyulmuş parçalar kimidir).\nYuyunacaq yerə المِرحاض (əl-mirhad) deyilir. Qızdırma tərinə gəldikdə isə, o, الرُّحَضاء (ur-ruhada) adlanır; bu da həmin qəbildəndir, sanki o, bədəni yuyub, yəni təmizləyib.",
+ "az": "[رحض]\nRa, ha və dad hərfləri bir şeyi yumağa dəlalət edən əsas kökdür.\nDeyilir: رحَضْتُ الثَّوبَ (paltarı yudum). Şair demişdir:\nمَهَامِهُ أَشْباهٌ كأنَّ سَرابَها … مُلاءٌ بأيدى الغاسِلات رحيضُ (١)\n(Bir-birinə bənzəyən səhra çölləri ki, onların sərabı paltaryuyan qadınların əlindəki yuyulmuş ağ parçalar kimidir).\nYuyunacaq yerə (٢) المِرحاض (əl-mirhad) deyilir. Qızdırma tərinə gəldikdə isə, o, الرُّحَضاء (ər-ruhəda) adlanır; bu da həmin qəbildəndir, sanki o, bədəni yuyub, yəni onu yuyub təmizləyib.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:36:40.586Z"
+ "ts": "2026-10-25T01:36:40.586Z",
+ "prev_az": "[رحض] (rəhəd): راء، حاء və dad hərfləri bir şeyi yumağa dəlalət edən əsas kökdür.\nDeyilir: رحَضْتُ الثَّوبَ (paltarı yudum). Şair demişdir:\nمَهَامِهُ أَشْباهٌ كأنَّ سَرابَها … مُلاءٌ بأيدى الغاسِلات رحيضُ (١)\n(Bənzər səhra çölləri ki, onların səraabı paltaryuyanların əlindəki yuyulmuş parçalar kimidir).\nYuyunacaq yerə المِرحاض (əl-mirhad) deyilir. Qızdırma tərinə gəldikdə isə, o, الرُّحَضاء (ur-ruhada) adlanır; bu da həmin qəbildəndir, sanki o, bədəni yuyub, yəni təmizləyib.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərflərin adları ərəbcə (راء، حاء) saxlanılıb.",
+  "«səraabı» sözündə orfoqrafik səhv var və «(٢)» haşiyə nömrəsi buraxılıb.",
+  "«غَسَلْتَه» (yuyub) əvəzinə «təmizləyib» yazılıb."
+ ],
+ "review_ts": "2026-11-19T13:00:32.415Z"
 }

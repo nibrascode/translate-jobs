@@ -11,7 +11,18 @@
   "page_to": 82
  },
  "ar": "السين والفاء والدال ليس أصلاً يتفرّع منه. وإنّما فيه كلمتان متباينتان فى الظاهر، وقد يمكن الجمع بينهما من طريق الاشتقاق. من ذلك\nسِفاد الطَّائر، يقال سَفِد يَسْفَد، وكذلك التَّيس. والكلمة الأخرى السّفُّود، وهو معروف. قال النابغة:\nكأنَّه خارجاً من جَنب صَفحته … سَفُّود شَرْبٍ نَسُوه عند مفتأدِ (١)",
- "az": "[سفد] السين والفاء والدال (sin, fa və dəl) törəyən bir əsas deyildir. Orada yalnız zahirən bir-birindən fərqli iki kəlmə vardır və onları etimologiya yolu ilə birləşdirmək mümkündür. Bunlardan biri: Quşun cütləşməsi olan «سِفاد الطَّائر» (sifad), «سَفِد يَسْفَد» (cütləşdi, cütləşir) deyilir, təkə də həmçinin. Digər kəlmə isə məlum olan «السَّفُّود» (şiş) sözüdür. Näbigə demişdir: كأنَّه خارجاً من جَنب صَفحته … سَفُّود شَرْبٍ نَسُوه عند مفتأدِ (١) (Sanki onun bədəninin yanından çıxmışdı... oduncaq yanında unutduqları içki məclisinin şişi).",
+ "az": "[سفد]\nالسين والفاء والدال (sin, fa və dal) şaxələnən bir əsas deyildir. Burada yalnız zahirən bir-birindən fərqli iki kəlmə vardır və onları etimologiya yolu ilə birləşdirmək mümkündür. Bunlardan biri:\nQuşun cütləşməsi mənasında «سِفاد الطَّائر» kəlməsidir; «سَفِد يَسْفَد» (cütləşdi, cütləşir) deyilir, təkə (erkək keçi) üçün də belə deyilir. Digər kəlmə isə السّفُّود (əs-suffud — ət qızardılan şiş) kəlməsidir, o da məlumdur. Ən-Nabiğə demişdir:\nكأنَّه خارجاً من جَنب صَفحته … سَفُّود شَرْبٍ نَسُوه عند مفتأدِ (١)\n(Sanki onun böyründən bayıra çıxan ox — şərab məclisi əhlinin kabab bişirilən ocağın yanında unutduqları şişdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:54.003Z"
+ "ts": "2026-10-25T01:43:54.003Z",
+ "prev_az": "[سفد] السين والفاء والدال (sin, fa və dəl) törəyən bir əsas deyildir. Orada yalnız zahirən bir-birindən fərqli iki kəlmə vardır və onları etimologiya yolu ilə birləşdirmək mümkündür. Bunlardan biri: Quşun cütləşməsi olan «سِفاد الطَّائر» (sifad), «سَفِد يَسْفَد» (cütləşdi, cütləşir) deyilir, təkə də həmçinin. Digər kəlmə isə məlum olan «السَّفُّود» (şiş) sözüdür. Näbigə demişdir: كأنَّه خارجاً من جَنب صَفحته … سَفُّود شَرْبٍ نَسُوه عند مفتأدِ (١) (Sanki onun bədəninin yanından çıxmışdı... oduncaq yanında unutduqları içki məclisinin şişi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«د» hərfinin adı «dəl» yazılmışdır.",
+  "Şairin adı «Näbigə» kimi təhrif olunmuşdur.",
+  "Şeirdəki «مفتأد» kəlməsi «oduncaq» kimi səhv tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-19T14:18:19.817Z"
 }

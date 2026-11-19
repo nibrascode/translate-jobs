@@ -11,7 +11,17 @@
   "page_to": 51
  },
  "ar": "الزاء والراء والعين أصلٌ يدلُّ على تنمية الشئ. فالزّرع معروف، ومكانه المُزْدَرَع. وقال الخليل: أصل الزّرع التنمية. وكان بعضهم يقول:\nالزَّرع طرح البَذْر فى الأرض. والزَّرْع اسمٌ لِمَا نبت. والأصل فى ذلك كلِّه واحد. وزارِع: كلبٌ.",
- "az": "[زرع] (zə-rə-hə): Zai, ra və eyn hərflərindən ibarət bir kök olub bir şeyi inkişaf etdirmək mənasını bildirir. «الزّرع» (əkin) məlumdur, onun yeri isə «المُزْدَرَع» (əkin yeri) adlanır. Xəlil demişdir: Əkinin əsli inkişaf etdirməkdir. Bəziləri deyirdilər: Əkin toxumu yerə səpməkdir. «الزَّرْع» isə cücərən şeyin adır. Bütün bunların əsli birdir. «زارِع» – itdِr.",
+ "az": "[زرع]\nZey, ra və ayn hərflərindən ibarət bir kök olub bir şeyi inkişaf etdirmək mənasını bildirir. الزّرع (əkin) məlumdur, onun yeri isə المُزْدَرَع (əkin yeri) adlanır. Xəlil demişdir: Əkinin əsli inkişaf etdirməkdir. Bəziləri deyirdilər:\nالزَّرع (əkin) toxumu yerə səpməkdir. الزَّرْع isə cücərən şeyin adıdır. Bütün bunların əsli birdir. زارِع (Zari) – bir itdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:40:43.941Z"
+ "ts": "2026-10-25T01:40:43.941Z",
+ "prev_az": "[زرع] (zə-rə-hə): Zai, ra və eyn hərflərindən ibarət bir kök olub bir şeyi inkişaf etdirmək mənasını bildirir. «الزّرع» (əkin) məlumdur, onun yeri isə «المُزْدَرَع» (əkin yeri) adlanır. Xəlil demişdir: Əkinin əsli inkişaf etdirməkdir. Bəziləri deyirdilər: Əkin toxumu yerə səpməkdir. «الزَّرْع» isə cücərən şeyin adır. Bütün bunların əsli birdir. «زارِع» – itdِr.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıqda kökün oxunuşu səhvən «(zə-rə-hə)» kimi verilmişdir.",
+  "Mətndə «adır» və «itdِr» kimi yazı xətaları vardır."
+ ],
+ "review_ts": "2026-11-19T13:24:33.401Z"
 }

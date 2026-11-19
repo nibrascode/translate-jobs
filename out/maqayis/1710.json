@@ -11,7 +11,17 @@
   "page_to": 509
  },
  "ar": "الراء والذال والحرف المعتل يدلُّ على ضعفٍ وهزال. فالرّذِيَّة:\nالناقة المهزولة من السَّير، والجمع رَذَايا. قال أبو دُواد:\nرَذَايا كالبَلَايا أو … كعِيدانٍ من القَضْبِ (٢)\nيقال منه: أرذَيْتُها.",
- "az": "[رذا] الراء والذال والحرف المعتل — zəifliyə və arıqlığa dəlalət edir. الرَّذِيَّة (rəziyyə) — səfərdən arıqlamış, yorulmuş diş dəvədir, cəmi رَذَايا (rəzaya) olur. Əbu Duvad demişdir:\nرَذَايا كالبَلَايا أو … كعِيدانٍ من القَضْبِ (٢)\n(Bəlalar kimi və ya budaq çubuqları kimi arıq düşmüş dəvələr.)\nOndan bu fel düzəlir: أَرْذَيْتُها (onu arıqlatdım, haldan saldım).",
+ "az": "[رذا]\nالراء والذال والحرف المعتل — zəifliyə və arıqlığa dəlalət edir. فالرّذِيَّة (rəziyyə) —\nsəfərdən arıqlamış dişi dəvədir, cəmi رَذَايا (rəzaya) olur. Əbu Duvad demişdir:\nرَذَايا كالبَلَايا أو … كعِيدانٍ من القَضْبِ (٢)\n(Bəlalar kimi və ya budaq çubuqları kimi arıq düşmüş dəvələr.)\nOndan bu fel düzəlir: أرذَيْتُها (onu arıqlatdım, haldan saldım).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:28.607Z"
+ "ts": "2026-10-25T01:37:28.607Z",
+ "prev_az": "[رذا] الراء والذال والحرف المعتل — zəifliyə və arıqlığa dəlalət edir. الرَّذِيَّة (rəziyyə) — səfərdən arıqlamış, yorulmuş diş dəvədir, cəmi رَذَايا (rəzaya) olur. Əbu Duvad demişdir:\nرَذَايا كالبَلَايا أو … كعِيدانٍ من القَضْبِ (٢)\n(Bəlalar kimi və ya budaq çubuqları kimi arıq düşmüş dəvələr.)\nOndan bu fel düzəlir: أَرْذَيْتُها (onu arıqlatdım, haldan saldım).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«dişi dəvə» əvəzinə «diş dəvə» yazılaraq məna pozulmuşdur.",
+  "«فالرّذِيَّة» və «أرذَيْتُها» sözlərinin yazılışı AR-dakı hərəkələrlə eyni saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-19T13:06:27.582Z"
 }

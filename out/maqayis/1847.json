@@ -13,5 +13,10 @@
  "ar": "السين والتاء ليس فيه إلا ستّة * وأصل التاء دال. وقد ذكر فى بابه.",
  "az": "[ست] Sin və ta hərfləri. Burada «ستّة» (altı) sözündən başqa heç nə yoxdur. Ta hərfi isə əslində dal hərfi idi. Bu barədə artıq öz babında zikr edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:42:47.277Z"
+ "ts": "2026-10-25T01:42:47.277Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:41:45.620Z"
 }

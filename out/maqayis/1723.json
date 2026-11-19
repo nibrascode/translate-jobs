@@ -11,7 +11,17 @@
   "page_to": 7
  },
  "ar": "الزاء والحاء يدلّ على البعد. يقال زُحْزِحَ عن كذا، أى بُوعِد قال اللّه تعالى: ﴿فَمَنْ زُحْزِحَ عَنِ اَلنّارِ﴾، أى بُوعِد.",
- "az": "«زح» — Uzaqlığa dəlalət edir. «زُحْزِحَ عن كذا» (filan şeydən uzaqlaşdırıldı) yəni uzaqlaşdırıldı, deməkdir. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿Kim oddan uzaqlaşdırılarsa﴾, yəni uzaqlaşdırılar.",
+ "az": "[زح] Zey və ha uzaqlığa dəlalət edir. Deyilir: زُحْزِحَ عن كذا، أى بُوعِد (filan şeydən uzaqlaşdırıldı, yəni uzaq edildi). Uca Allah buyurmuşdur: ﴿فَمَنْ زُحْزِحَ عَنِ اَلنّارِ﴾ (mənaca tərcümə: Kim oddan uzaqlaşdırılarsa), yəni uzaq edilərsə.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:48.690Z"
+ "ts": "2026-10-25T01:37:48.690Z",
+ "prev_az": "«زح» — Uzaqlığa dəlalət edir. «زُحْزِحَ عن كذا» (filan şeydən uzaqlaşdırıldı) yəni uzaqlaşdırıldı, deməkdir. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿Kim oddan uzaqlaşdırılarsa﴾, yəni uzaqlaşdırılar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[زح]» formatında verilməmiş və «الزاء والحاء» (Zey və ha) hissəsi buraxılmışdır.",
+  "Quran ayəsinin ərəbcə mətni buraxılmışdır."
+ ],
+ "review_ts": "2026-11-19T13:03:57.956Z"
 }

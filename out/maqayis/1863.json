@@ -11,7 +11,16 @@
   "page_to": 74
  },
  "ar": "السين والعين والنون كلمة واحدة. يقولون ما له سَعْنة ولا مَعْنَة، أى ما له قليلٌ ولا كثير. ويقال إن كان صحيحا إنّ السُّعْن شئ كالدَّلو.",
- "az": "[سعن] السين والعين والنون — sin, ayn və nun hərfləri tək bir kəlmədir. Deyirlər ki: ما له سَعْنة ولا مَعْنة (mə ləhu səntün və lə məntün) — yəni onun nə azı, nə də çoxu var. Deyilir ki, əgər bu doğrudursa, السُّعْن (əssün) — su qabı (və ya dəvəyə bənzər bir şey) kimidir.",
+ "az": "[سعن]\nالسين والعين والنون (sin, ayn və nun) bir kəlmədir. Deyirlər: «ما له سَعْنة ولا مَعْنَة» (onun nə azı var, nə də çoxu). Əgər səhihdirsə, deyilir ki, السُّعْن (əs-su'n) vedrə (dəlv) kimi bir şeydir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:29.965Z"
+ "ts": "2026-10-25T01:43:29.965Z",
+ "prev_az": "[سعن] السين والعين والنون — sin, ayn və nun hərfləri tək bir kəlmədir. Deyirlər ki: ما له سَعْنة ولا مَعْنة (mə ləhu səntün və lə məntün) — yəni onun nə azı, nə də çoxu var. Deyilir ki, əgər bu doğrudursa, السُّعْن (əssün) — su qabı (və ya dəvəyə bənzər bir şey) kimidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«كالدَّلو» ifadəsi «su qabı (və ya dəvəyə bənzər bir şey) kimidir» kimi tərcümə edilərək mətndə olmayan «dəvəyə bənzər bir şey» əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-19T14:00:13.004Z"
 }

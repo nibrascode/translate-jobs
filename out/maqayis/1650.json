@@ -11,9 +11,20 @@
   "page_to": 475
  },
  "ar": "الراء والباء والحاء أصلٌ واحدٌ، يدلُّ على شَفٍّ فى مبايعة (٣). من ذلك رَبِح فلانٌ فى بَيعِه يَرْبَح، إذا استشَفَّ. وتجارةٌ رابحة:\nيُرْبَح فيها. يقال رِبْح ورَبَح، كما يقال مِثْلٌ ومَثَل. فأمَّا قول الأعشى:\n* مِثْلَ ما مُدَّ نِصاحاتُ الربَحْ (٤) *\nفقال قوم النِّصاحات الخيوط، وهى الأَرْوِيَةُ (٥). والرَّبَح: الخَيل والإبلُ تُجلَب للبيع والتربُّح. فأمَّا قولُه:\n* قَرَوْا أضْيافَهُمْ رَبَحاً بِبُحٍّ (٦) *\nفقال ابنُ دريد: ومما شذّ عن الباب الرُّبَّاح، يقال إنّه القِرْد (١)،",
- "az": "«ربح»: (Ra, Ba, Hə) ticarətdə qazanca və artıqlığa dəlalət edən tək bir əsldir. Bunlardandır: رَبِحَ فُلَانٌ فِي بَيْعِهِ يَرْبَحُ (filankəs alış-verişdə qazandı). تجارة رابحة (ticarətun rabihə): qazanc əldə edilən ticarət. رِبْح (ribh) və رَبَح (rəbəh) deyilir, necə ki مِثْل (misl) və مَثَل (məsəl) deyilir. Aşağın sözünə gəldikdə: * مِثْلَ مَا مُدَّ نِصَاحَاتُ الرَّبَحْ * (4) Bəzi qövmlər demişlər ki, النِّصَاحَات (nisahat) saplardır, onlar da أَرْوِيَة (ərviyə) tiplidir. الرَّبَح (ər-rəbəh): ticarət üçün gətirilən atlar və dəvələr. Onun bu sözünə gəldikdə: * قَرَوْا أَضْيَافَهُمْ رَبَحًا بِبُحٍّ * (6) İbn Dürid demişdir: Bu babdan istisna olunanlardan biri də الرُّبَّاح (ər-rubbah) kəlməsidir, deyilir ki, o meymundur (1).",
+ "az": "[ربح]\nRa, ba və ha alış-verişdə qazanca (artıma) dəlalət edən tək bir əsldir (٣). Bunlardandır: رَبِح فلانٌ فى بَيعِه يَرْبَح (filankəs öz alış-verişində qazandı), yəni qazanc əldə etdi. تجارةٌ رابحة (ticarətun rabihə): içində qazanc əldə edilən ticarətdir.\nرِبْح (ribh) və رَبَح (rəbəh) deyilir, necə ki مِثْلٌ (misl) və مَثَل (məsəl) deyilir. Əşanın bu sözünə gəldikdə:\n* مِثْلَ ما مُدَّ نِصاحاتُ الربَحْ * (٤)\n(Rəbəhin/dağ keçisinin sapları uzadıldığı kimi)\nBəziləri demişlər ki, النِّصاحات (ən-nisahat) saplardır, onlar da الأَرْوِيَةُ (əl-ərviyə — dağ keçiləri)dir (٥). الرَّبَح (ər-rəbəh): satış və qazanc əldə etmək üçün gətirilən atlar və dəvələrdir. Onun bu sözünə gəldikdə:\n* قَرَوْا أضْيافَهُمْ رَبَحاً بِبُحٍّ * (٦)\n(Qonaqlarına bolluca gətirilən dəvələrdən ziyafət verdilər).\nİbn Düreyd demişdir: Bu babdan kənara çıxanlardan biri də الرُّبَّاح (ər-rubbah) kəlməsidir, deyilir ki, o meymundur (١).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:34:52.917Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ربح»: (Ra, Ba, Hə) ticarətdə qazanca və artıqlığa dəlalət edən tək bir əsldir. Bunlardandır: رَبِحَ فُلَانٌ فِي بَيْعِهِ يَرْبَحُ (filankəs alış-verişdə qazandı). تجارة رابحة (ticarətun rabihə): qazanc əldə edilən ticarət. رِبْح (ribh) və رَبَح (rəbəh) deyilir, necə ki مِثْل (misl) və مَثَل (məsəl) deyilir. Aşağın sözünə gəldikdə: * مِثْلَ مَا مُدَّ نِصَاحَاتُ الرَّبَحْ * (4) Bəzi qövmlər demişlər ki, النِّصَاحَات (nisahat) saplardır, onlar da أَرْوِيَة (ərviyə) tiplidir. الرَّبَح (ər-rəbəh): ticarət üçün gətirilən atlar və dəvələr. Onun bu sözünə gəldikdə: * قَرَوْا أَضْيَافَهُمْ رَبَحًا بِبُحٍّ * (6) İbn Dürid demişdir: Bu babdan istisna olunanlardan biri də الرُّبَّاح (ər-rubbah) kəlməsidir, deyilir ki, o meymundur (1).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hər iki şeir beyti tərcüməsiz qalıb.",
+  "«الأعشى» (əl-Əşa) adı «Aşağın» kimi yanlış verilib.",
+  "«الأَرْوِيَةُ» (dağ keçiləri) sözü tərcümə edilməyib, «ərviyə tiplidir» kimi saxlanılıb.",
+  "«مبايعة (٣)» ifadəsindəki (٣) haşiyə rəqəmi və «وهى الأَرْوِيَةُ (٥)» ifadəsindəki (٥) haşiyə rəqəmi buraxılıb, digər haşiyə rəqəmləri isə ərəb rəqəmləri ilə verilməyib."
+ ],
+ "review_ts": "2026-11-19T12:58:25.206Z"
 }

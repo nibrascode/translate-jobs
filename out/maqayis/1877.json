@@ -11,7 +11,18 @@
   "page_to": 81
  },
  "ar": "السين والفاء والحاء أصلٌ واحد يدلُّ على إراقة شئ.\nيقال سفح الدّمَ، إذا صبَّه. وسفح الدّم: هَرَاقه. والسِّفاح: صبُّ الماء بلا عَقد نكاح، فهو كالشئ يُسفَح ضَياعا. والسَّفّاح: رجلٌ من رؤساء العرب (٣)، سَفح الماءَ فى غزوةٍ غزاها فسُمّى سفَّاحا. وأمّا سَفْح الجبل فهو من باب الإِبدال، والأصل فيه صَفح، وقد ذُكر فى بابه. والسَّفيح: أحد السِّهام الثلاثة التى لا أنصباءَ لها، وهو شاذٌّ عن الأصل الذى ذكرناه.",
- "az": "[سفح] السين والفاء والحاء (sin, fa və hə) bir tək əsasdır, bir şeyin axıdılmasına dəlalət edir. «سفح الدّمَ» – qanı tökdüyü zaman deyilir. «سفح الدّم» – onu axıtdı. Əs-sifah (السِّفاح): nikah müqaviləsi olmadan suyun (maddənin) tökülməsi, deməli o, hədər yerə axıdılan şey kimidir. Əs-səffah (السَّفّاح): ərəb başçılarından bir adamdır (٣), etdiyi qəzetlərin birində su (qan) axıtmışdı, buna görə də səffah adlandırıldı. Dağın yamacına gəldikdə isə, o, əvəzetmə (ibdal) qapısındandır, onun əsli isə صَفح (səfhc) kəlməsidir və öz babında xatırlanmışdır. Əs-səfih (السَّفيح): heç bir payı olmayan üç oxdan biridir və bu, qeyd etdiyimiz əsildən kənara çıxan şaz (istisna) bir sözdür.",
+ "az": "[سفح]\nالسين والفاء والحاء (sin, fa və ha) bir şeyin axıdılmasına/tökülməsinə dəlalət edən tək bir əsasdır.\n«سفح الدّمَ» qanı tökdüyü zaman deyilir; «سفح الدّم» onu axıtdı deməkdir. والسِّفاح (əs-sifah — zina) kəbinkəsilmə olmadan suyun tökülməsidir; bu, hədər yerə axıdılan şey kimidir. والسَّفّاح (əs-Səffah) ərəb başçılarından bir nəfərdir (٣); çıxdığı hərbi yürüşlərin birində suyu töküb axıtmış, buna görə də «Səffah» adlandırılmışdır. Dağın ətəyinə (سَفْح الجبل) gəldikdə isə, bu, samit dəyişməsi (ibdal) babındandır; onun əsli صَفح (safh) kəlməsidir və öz babında qeyd edilmişdir. والسَّفيح (əs-safih) heç bir payı olmayan üç oxdan biridir və bu, qeyd etdiyimiz əsasdan kənara çıxan istisnadır (şazdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:54.003Z"
+ "ts": "2026-10-25T01:43:54.003Z",
+ "prev_az": "[سفح] السين والفاء والحاء (sin, fa və hə) bir tək əsasdır, bir şeyin axıdılmasına dəlalət edir. «سفح الدّمَ» – qanı tökdüyü zaman deyilir. «سفح الدّم» – onu axıtdı. Əs-sifah (السِّفاح): nikah müqaviləsi olmadan suyun (maddənin) tökülməsi, deməli o, hədər yerə axıdılan şey kimidir. Əs-səffah (السَّفّاح): ərəb başçılarından bir adamdır (٣), etdiyi qəzetlərin birində su (qan) axıtmışdı, buna görə də səffah adlandırıldı. Dağın yamacına gəldikdə isə, o, əvəzetmə (ibdal) qapısındandır, onun əsli isə صَفح (səfhc) kəlməsidir və öz babında xatırlanmışdır. Əs-səfih (السَّفيح): heç bir payı olmayan üç oxdan biridir və bu, qeyd etdiyimiz əsildən kənara çıxan şaz (istisna) bir sözdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«غزوةٍ» kəlməsi «qəzetlərin» kimi qondarma şəkildə tərcümə olunmuşdur.",
+  "«سَفح الماءَ» (suyu tökdü) ifadəsi «su (qan) axıtmışdı» kimi təhrif edilmişdir.",
+  "«صَفح» sözünün transkripsiyası «səfhc» kimi səhv yazılmışdır."
+ ],
+ "review_ts": "2026-11-19T14:18:19.817Z"
 }

@@ -11,9 +11,21 @@
   "page_to": 472
  },
  "ar": "الراء والهمزة والميم أصلٌ يدل على مُضامَّةٍ وقُرْب وعَطْفٍ.\nيقال لكل مَنْ أحبَّ شيئاً وأَلِفَه: قد رَئِمَه. وأصلُه مِنْ قولهم: رَأَمَ الجُرْحُ رِئْماناً (٣)، إذا انضمّ فُوه للبُرْء. وقال الشَّيبانى: رأَمْت شَعْبَ القَدَح، إذا أصلحتَه. وأنشد:\nوقَتْلى بحِقْفٍ من أُوارةَ جُدِّعتْ … صَدَعْنَ قُلوباً لم تُرأَّمْ شُعوبُها (٤)\nوالرُّؤمة: الغِراء الذى يُلزَق به الشَّئ. والرَّأْم: بَوٌّ أو ولدٌ تعطف عليه غير أمِّه. وقد رئِمت النّاقةُ رِئْمَاناً. وأرأمْناها، عطفْناها على رَأْمٍ. والناقة رؤومٌ ورائمة (٥).",
- "az": "«رأم»: (Ra, Həmzə, Mim) bir araya gəlməyə, yaxınlığa və şefqətə dəlalət edən bir əsldir. Hər bir sevənə və alışana رَئِمَهُ (rəiməhu - ona bağlandı) deyilir. Bunun əsli onların bu sözüdür: رَأَمَ الْجُرْحُ رِئْمَانًا (rəməl-cünhü riəman) - yara sağalmaq üçün ağzını birləşdirdi. Şeybani demişdir: رَأَمْتُ شَعْبَ الْقَدَحِ (qədəhin sınığını düzəltdim). Və bu beyti oxumuşdur: وَقَتْلَى بِحِقْفٍ مِنْ أُوَارَةَ جُدِّعَتْ … صَدَعْنَ قُلُوبًا لَمْ تُرَأَّمْ شُعُوبُها (4) (Uvarə qumluğunda qulaqları kəsilmiş ölülər... elə qəlbləri yardılar ki, onların qrupları birləşdirilmədi). الرُّؤْمَة (ər-rumə): şeyin yapışdırıldığı yapışqan. الرَّأْم (ər-rəm): başqa ananın şefqət göstərdiyi ögey bala və ya dəvə balasının dəmiri. وَرَئِمَتِ النَّاقَةُ رِئْمَانًا (dəvə balasına şefqət göstərdi). وَأْرَمْنَاهَا (onun bala üçün şefqətini oyatdıq). Dəvə رُؤُوم (ruum) və رَائِم (rəim) olur.",
+ "az": "[رأم]\nRa, həmzə və mim bir araya gəlməyə, yaxınlığa və şəfqətə dəlalət edən bir əsldir.\nBir şeyi sevən və ona alışan hər kəs haqqında: قد رَئِمَه (artıq ona bağlandı) deyilir. Bunun əsli onların: رَأَمَ الجُرْحُ رِئْماناً (٣)، إذا انضمّ فُوه للبُرْء (yara sağalmaq üçün ağzını birləşdirdi) sözüdür. Şeybani demişdir: رأَمْت شَعْبَ القَدَح (qədəhin çatını birləşdirdim), yəni onu düzəltdin. Və bu beyti oxumuşdur:\nوقَتْلى بحِقْفٍ من أُوارةَ جُدِّعتْ … صَدَعْنَ قُلوباً لم تُرأَّمْ شُعوبُها (٤)\n(Uvarə qumluğunda burun-qulaqları kəsilmiş ölülər... elə qəlbləri yardılar ki, onların çatları birləşdirilmədi).\nالرُّؤمة (ər-rumə): bir şeyin yapışdırıldığı yapışqandır. الرَّأْم (ər-rəm): başqa ananın şəfqət göstərdiyi içi doldurulmuş dəvə balası dərisi (بَوّ) və ya baladır. قد رئِمت النّاقةُ رِئْمَاناً (dişi dəvə balaya şəfqət göstərdi). وأرأمْناها، عطفْناها على رَأْمٍ (onu başqa balaya mehriban etdik). Dişi dəvə رؤوم (rəum) və رائمة (raimə) (٥) olur.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:34:52.917Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«رأم»: (Ra, Həmzə, Mim) bir araya gəlməyə, yaxınlığa və şefqətə dəlalət edən bir əsldir. Hər bir sevənə və alışana رَئِمَهُ (rəiməhu - ona bağlandı) deyilir. Bunun əsli onların bu sözüdür: رَأَمَ الْجُرْحُ رِئْمَانًا (rəməl-cünhü riəman) - yara sağalmaq üçün ağzını birləşdirdi. Şeybani demişdir: رَأَمْتُ شَعْبَ الْقَدَحِ (qədəhin sınığını düzəltdim). Və bu beyti oxumuşdur: وَقَتْلَى بِحِقْفٍ مِنْ أُوَارَةَ جُدِّعَتْ … صَدَعْنَ قُلُوبًا لَمْ تُرَأَّمْ شُعُوبُها (4) (Uvarə qumluğunda qulaqları kəsilmiş ölülər... elə qəlbləri yardılar ki, onların qrupları birləşdirilmədi). الرُّؤْمَة (ər-rumə): şeyin yapışdırıldığı yapışqan. الرَّأْم (ər-rəm): başqa ananın şefqət göstərdiyi ögey bala və ya dəvə balasının dəmiri. وَرَئِمَتِ النَّاقَةُ رِئْمَانًا (dəvə balasına şefqət göstərdi). وَأْرَمْنَاهَا (onun bala üçün şefqətini oyatdıq). Dəvə رُؤُوم (ruum) və رَائِم (rəim) olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«رَأَمَ الْجُرْحُ» ifadəsində «الْجُرْحُ» sözünün oxunuşu «cünhü» kimi səhv verilib və (٣) haşiyə rəqəmi buraxılıb.",
+  "Şeir beytindəki «شُعوبُها» (çatları, yarıqları) sözü «qrupları» kimi yanlış tərcümə olunub.",
+  "«بَوٌّ» (dəvə balasının içi doldurulmuş dərisi) sözü «dəvə balasının dəmiri» kimi səhv tərcümə edilib.",
+  "«وأرأمْناها» sözü «وَأْرَمْنَاهَا» kimi səhv yazılıb, «ورائمة (٥)» sözü isə «رَائِم» kimi natamam verilib və (٥) haşiyə rəqəmi buraxılıb.",
+  "Azərbaycan dilində «şəfqət» sözü dəfələrlə «şefqət» kimi səhv yazılıb."
+ ],
+ "review_ts": "2026-11-19T12:58:25.204Z"
 }

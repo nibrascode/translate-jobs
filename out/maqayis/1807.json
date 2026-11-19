@@ -13,5 +13,10 @@
  "ar": "الزاء والياء والميم أصلٌ يدلُّ على تجمّعٍ. يقال لحم زِيَمٌ، أى مُكتنِز. ويقال اجتمع الناسُ فصارُوا زِيَما. قال الخليل:\n«والخيل تعدُو زِيَمًا حولنا»",
  "az": "[زيم] (zim). الزاء (ز) və الياء (ي) və الميم (م) toplanmağa dəlalət edən bir əsldir. لحم زِيَمٌ (zim ət) — yəni əzələli, əti bərk olan ət, deyilir. Və deyilir ki, insanlar toplandı və زِيَمًا (ziman - dəstələr, qruplar) halına gəldilər. Əl-Xəlil demişdir: «والخيل تعدُو زِيَمًا حولنا» (Atlar ətrafımızda dəstə-dəstə qaçırlar).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:40:03.436Z"
+ "ts": "2026-10-25T01:40:03.436Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T13:20:47.098Z"
 }

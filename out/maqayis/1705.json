@@ -11,7 +11,16 @@
   "page_to": 507
  },
  "ar": "الراء والدال والجيم ليس بشئ. على أنَّهم يقولون إنّ الرَّدَج ما يُلقيه [المُهْر (٣)] من بطنه ساعةَ يُولَد. وينشدون:\nلها رَدَجٌ فى بيتها تستعدُّه … إذا جاءها يوماً من الدّهر خاطبُ (٤)",
- "az": "[ردج] الراء والدال والجيم — heç bir əsası yoxdur. Lakin onlar deyirlər ki, الرَّدَج (rədəc) — [balaca dayanın (٣)] doğulduğu an qarnından atdığı şeydir. Və bu beyt oxunur:\nلها رَدَجٌ فى بيتها تستعدُّه … إذا جاءها يوماً من الدّهر خاطبُ (٤)\n(Evində hazırlıq gördüyü, zamanın bir günü ona elçi gəldikdə [təqdim etmək üçün] bir rədəci vardır.)",
+ "az": "[ردج]\nالراء والدال والجيم — heç bir əsası yoxdur. Lakin onlar deyirlər ki, الرَّدَج (rədəc) — [dayçanın (٣)] doğulduğu an qarnından atdığı şeydir. Və bu beyt oxunur:\nلها رَدَجٌ فى بيتها تستعدُّه … إذا جاءها يوماً من الدّهر خاطبُ (٤)\n(Evində hazırlıq gördüyü, zamanın bir günü ona elçi gəldikdə [təqdim etmək üçün] bir rədəci vardır.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:28.607Z"
+ "ts": "2026-10-25T01:37:28.607Z",
+ "prev_az": "[ردج] الراء والدال والجيم — heç bir əsası yoxdur. Lakin onlar deyirlər ki, الرَّدَج (rədəc) — [balaca dayanın (٣)] doğulduğu an qarnından atdığı şeydir. Və bu beyt oxunur:\nلها رَدَجٌ فى بيتها تستعدُّه … إذا جاءها يوماً من الدّهر خاطبُ (٤)\n(Evində hazırlıq gördüyü, zamanın bir günü ona elçi gəldikdə [təqdim etmək üçün] bir rədəci vardır.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«المُهْر» sözü səhvən «balaca dayanın» kimi tərcümə edilmişdir (doğrusu: dayçanın)."
+ ],
+ "review_ts": "2026-11-19T13:01:28.366Z"
 }

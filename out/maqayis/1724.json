@@ -11,7 +11,16 @@
   "page_to": 7
  },
  "ar": "الزاء والخاء أُصَيلٌ يدلُّ على الدَّفع والمبايَنَة. يقال رخَخْتُ الشّئَ، إذا دفعتَه. و\nفى الحديث: «مَنْ نَبذَ القُرآنَ وراء ظَهرِه زُخَّ فى قَفاه».\nوزَخَّها: جامَعَها. و* المِزَخَّة: المرأة. ومن الباب الزَّخَّة: الحِقد والغَيظ. قال: ٣٠٦\nفلا تَقْعُدَنّ على زَخَّةٍ … وتُضمِرَ فى القلب وَجداً وَخِيفَا (٢)",
- "az": "«زخ» — Zae və xal təkliyi itələməyə və ayrılmağa dəlalət edən kiçik bir kökdür. «رخَخْتُ الشّئَ» (bir şeyi itələdim) deyilir. Hədisdə gəlmişdir: «مَنْ نَبذَ القُرآنَ وراء ظَهرِه زُخَّ فى قَفاه» (Kim Quranı arxasına atarsa, ənsəsindən itələnər). «زَخَّها» — onunla yaxınlıq etdi. «المِزَخَّة» — qadındır. Bu babdan olan «الزَّخَّة» — kin və qəzəbdir. Şair demişdir: «فلا تَقْعُدَنّ على زَخَّةٍ … وتُضمِرَ فى القلب وَجداً وَخِيفَا (٢)» (Heç vaxt kin üzərində oturma və qəlbində dərd və qorxu gizlətmə).",
+ "az": "[زخ] Zey və xa itələməyə və uzaqlaşdırmağa (ayrılmağa) dəlalət edən kiçik bir əsasdır. Deyilir: رخَخْتُ الشّئَ (bir şeyi itələdim), yəni onu itələdikdə. Hədisdə gəlmişdir: «مَنْ نَبذَ القُرآنَ وراء ظَهرِه زُخَّ فى قَفاه» (Kim Quranı arxasına atarsa, ənsəsindən itələnər).\nوزَخَّها: onunla yaxınlıq etdi. المِزَخَّة: qadındır. Bu babdandır: الزَّخَّة: kin və qəzəb. Şair demişdir:\nفلا تَقْعُدَنّ على زَخَّةٍ … وتُضمِرَ فى القلب وَجداً وَخِيفَا (٢) (Kin üzərində oturma və qəlbində dərd və qorxu gizlətmə).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:37:48.690Z"
+ "ts": "2026-10-25T01:37:48.690Z",
+ "prev_az": "«زخ» — Zae və xal təkliyi itələməyə və ayrılmağa dəlalət edən kiçik bir kökdür. «رخَخْتُ الشّئَ» (bir şeyi itələdim) deyilir. Hədisdə gəlmişdir: «مَنْ نَبذَ القُرآنَ وراء ظَهرِه زُخَّ فى قَفاه» (Kim Quranı arxasına atarsa, ənsəsindən itələnər). «زَخَّها» — onunla yaxınlıq etdi. «المِزَخَّة» — qadındır. Bu babdan olan «الزَّخَّة» — kin və qəzəbdir. Şair demişdir: «فلا تَقْعُدَنّ على زَخَّةٍ … وتُضمِرَ فى القلب وَجداً وَخِيفَا (٢)» (Heç vaxt kin üzərində oturma və qəlbində dərd və qorxu gizlətmə).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[زخ]» formatında verilməmiş, «Zey və xa» əvəzinə «Zae və xal təkliyi» kimi təhrif olunmuş ifadə yazılmışdır."
+ ],
+ "review_ts": "2026-11-19T13:03:57.957Z"
 }

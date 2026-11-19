@@ -11,7 +11,18 @@
   "page_to": 32
  },
  "ar": "الزاء والهاء والميم أصلٌ واحد يدلُّ على سَمِن وشحمٍ وما أشبه ذلك. من ذلك الزَّهَم، وهو أن تَزْهَم اليدُ من اللّحم. وذكر ناسٌ أنَّ الزُّهْم شَحم الوحش، وأنَّه اسمٌ لذلك خاصَّة، ويقولون للسَّمين زَهِمٌ. فأمّا قولُهم فى الحكاية\nعن أبى زيد أن المزَاهَمة القُرب، ويقال زَاهَمَ فلانٌ الأربعينَ، أى داناها، فممكنٌ أن يُحمَل على الأصل الذى ذكرناه، لأنّه كانّه أراد التلطُّخ بها ومُماسَّتها. ويمكن أنْ يكون من الإبدال، وتكون الميم بدلاً من القاف، لأن الزاهق عَيْنُ السمين (١).\nوقد ذكرناه",
- "az": "[زهم] الزاء والهاء والميم (z-h-m) piylənməyə, saya və bənzər şeylərə dəlalət edən tək bir əsasdır. Bunlardan biri الزَّهَم (əz-zəhəm) - ətdən əllərin yağlanmasıdır. Bəzi insanlar qeyd etmişlər ki, الزُّهْم (əz-zuhm) çöl heyvanlarının piyidir və bu, məhz buna məxsus bir addır, piyli olana isə زَهِمٌ (zəhim) deyirlər. Əbu Zeyiddən nəql edilən rəvayətdəki المزَاهَمة (əl-muzahəmə) sözünün yaxınlıq mənasında işlədilməsinə gəlincə, زَاهَمَ فلانٌ الأربعينَ (zāhəmə fülânun-əl-ərbəīn) - filankəs qırx yaşa yaxınlaşdı, deməkdir. Mümkündür ki, bu, qeyd etdiyimiz əslə aid edilsin, çünki o, sanki pislənməyi və ona toxunmağı qəsd etmişdir. Həmçinin ola bilər ki, bu, hərflərin əvəzlənməsi yolu ilə olsun və mim hərfi qaf hərfinin əvəzinə gəlsin, çünki الزاهق (əl-zahiq) - kök adamın gözüdür (١). Biz bunu onsuz da qeyd etmişik.",
+ "az": "[زهم]: ز (zey), هـ (hə) və م (mim) piylənməyə, piyə və buna bənzər şeylərə dəlalət edən tək bir əsasdır. Bunlardan biri الزَّهَم (əz-zəhəm) — ətdən əllərin yağlanmasıdır. Bəzi insanlar qeyd etmişlər ki, الزُّهْم (əz-zühm) çöl heyvanlarının piyidir və bu, məhz buna məxsus bir addır; piyli (kök) olana isə زَهِمٌ (zəhim) deyirlər. Əbu Zeyddən nəql edilən rəvayətdə\nالمزَاهَمة (əl-müzahəmə) sözünün yaxınlıq mənasında işlədilməsinə və زَاهَمَ فلانٌ الأربعينَ (zahəmə fülanün əl-ərbəinə — filankəs qırx yaşa yaxınlaşdı) deyilməsinə gəlincə, mümkündür ki, bu, qeyd etdiyimiz əslə aid edilsin, çünki o, sanki ona bulaşmağı və toxunmağı qəsd etmişdir. Həmçinin ola bilər ki, bu, hərflərin əvəzlənməsi (ibdal) yolu ilə olsun və mim hərfi qaf hərfinin əvəzinə gəlsin, çünki الزاهق (əz-zahiq) kök olanın məhz özüdür (١).\nBiz bunu artıq qeyd etmişik.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:39:39.989Z"
+ "ts": "2026-10-25T01:39:39.989Z",
+ "prev_az": "[زهم] الزاء والهاء والميم (z-h-m) piylənməyə, saya və bənzər şeylərə dəlalət edən tək bir əsasdır. Bunlardan biri الزَّهَم (əz-zəhəm) - ətdən əllərin yağlanmasıdır. Bəzi insanlar qeyd etmişlər ki, الزُّهْم (əz-zuhm) çöl heyvanlarının piyidir və bu, məhz buna məxsus bir addır, piyli olana isə زَهِمٌ (zəhim) deyirlər. Əbu Zeyiddən nəql edilən rəvayətdəki المزَاهَمة (əl-muzahəmə) sözünün yaxınlıq mənasında işlədilməsinə gəlincə, زَاهَمَ فلانٌ الأربعينَ (zāhəmə fülânun-əl-ərbəīn) - filankəs qırx yaşa yaxınlaşdı, deməkdir. Mümkündür ki, bu, qeyd etdiyimiz əslə aid edilsin, çünki o, sanki pislənməyi və ona toxunmağı qəsd etmişdir. Həmçinin ola bilər ki, bu, hərflərin əvəzlənməsi yolu ilə olsun və mim hərfi qaf hərfinin əvəzinə gəlsin, çünki الزاهق (əl-zahiq) - kök adamın gözüdür (١). Biz bunu onsuz da qeyd etmişik.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«شحم» sözü «saya» kimi səhv yazılıb.",
+  "«التلطُّخ بها» ifadəsi «pislənməyi» kimi yanlış tərcümə edilib (bulaşmaq/sürtünmək mənasındadır).",
+  "«لأن الزاهق عَيْنُ السمين» ifadəsi «kök adamın gözüdür» kimi səhv tərcümə edilib (doğrusu «kök olanın məhz özüdür»)."
+ ],
+ "review_ts": "2026-11-19T13:12:39.223Z"
 }

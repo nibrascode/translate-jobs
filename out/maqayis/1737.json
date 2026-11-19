@@ -11,7 +11,16 @@
   "page_to": 13
  },
  "ar": "الزاء والغين والباء أُصَيْلٌ صحيحٌ، وهو الزّغَب، أوّلُ ما ينبت من الرِّيش. وقد يُزْغِبُ الكَرْمُ، بعد جَرْىِ الماءِ فيه.",
- "az": "[زغب] (zəğb): Zay, ğın və ba hərfləri səhih kiçik bir kökdür, o da lələyin ilk bitəni olan «الزَّغَب» (zəğəb) – tümdür. Su axdıqdan sonra tənək də «يُزْغِبُ الكَرْمُ» (tənək tumurcuqlaya/tükcük verə bilər).",
+ "az": "[زغب] (zəğb): Zay, ğayn və ba hərfləri səhih kiçik bir kökdür, o da lələyin ilk bitəni olan «الزّغَب» (zəğəb) – incə tükdür. Su axdıqdan sonra tənək də «يُزْغِبُ الكَرْمُ» (tənək tumurcuqlayıb tükcük verə bilər).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:38:09.125Z"
+ "ts": "2026-10-25T01:38:09.125Z",
+ "prev_az": "[زغب] (zəğb): Zay, ğın və ba hərfləri səhih kiçik bir kökdür, o da lələyin ilk bitəni olan «الزَّغَب» (zəğəb) – tümdür. Su axdıqdan sonra tənək də «يُزْغِبُ الكَرْمُ» (tənək tumurcuqlaya/tükcük verə bilər).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الزّغَب» sözünün tərcüməsində «tükdür» əvəzinə «tümdür» yazılmışdır."
+ ],
+ "review_ts": "2026-11-19T13:06:47.094Z"
 }

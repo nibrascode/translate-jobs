@@ -11,9 +11,20 @@
   "page_to": 490
  },
  "ar": "الراء والجيم والزاء أصلٌ يدلُّ على اصطرابٍ. من ذلك الرَّجَزُ: داءٌ يصيبُ الإبلَ فى أعجازِها، فإذا ثارت النّاقةُ ارتعشَتْ فَخِذاها.\nومن هذا اشتقاق الرَّجَزِ من الشِّعر؛ لأنه مقطوعٌ مضطرب (٣). والرِّجازة:\nكِساءٌ يُجْعَل فيه أحجارٌ [تعلُّق (٤)] بأحد جانِبَى الهَودج إذا مالَ؛ وهوَ يَضطَرِبُ.\nوالرِّجَازة أيضاً: صوفٌ يعلّق على الهَودج يُزَيَّن به. فأما الرِّجْز الذى هو العذاب،\nوالذى هو الصَّنَم، فى قوله جلّ ثناؤه: ﴿وَاَلرُّجْزَ فَاهْجُرْ﴾ فذاك من باب الإبدال؛ لأن أصلَه السّينُ؛ وقد ذُكِر.",
- "az": "«رجز» (rə-cə-zə): Ra, cim və zay silkələnməyə və titrəməyə dəlalət edən bir əsasdır. Bunlardan biri «الرَّجَز» (ərcəz) sözüdür: dəvələrin sağrılarına gələn bir xəstəlikdir ki, dəvə hərəkətə gəldikdə budları titrər.\nŞeirdəki «الرَّجَز» bəhrinin törəməsi də bundandır; çünki o, parçalanmış və titrəkdir (٣). «الرِّجازة» (əl-ricazə) – əلinə (və ya hərəkatına) görə keçe və ya kisədir ki, bəzən hədəcin bir tərəfinə sallanır (٤), çünki o əyildikdə titrəyir.\n«الرِّجَازة» həmçinin hədəfə (və ya hədöçə) bəzək üçün asılan yundur. «الرِّجْز» (əl-ricz) – əzab mənasında olan və həmçinin büt mənasında olan sözə gəlincə, Uca Allahın: ﴿وَاَلرُّجْزَ فَاهْجُرْ﴾ (mənaca tərcümə: Və bütlərdən uzaq dur!) – kəlamındakı söz, məhz əvəzetmə qapısındandır; çünki onun əsli sin hərfi ilədir; o artıq zikr edilmişdir.",
+ "az": "[رجز]\nRa, cim və zey silkələnməyə dəlalət edən bir əsasdır. Bunlardan biri الرَّجَزُ (ər-rəcəz) sözüdür: dəvələrin sağrılarına düşən bir xəstəlikdir ki, dişi dəvə qalxdıqda budları titrəyir.\nŞeirdəki الرَّجَزِ (rəcəz) bəhrinin törəməsi də bundandır; çünki o, kəsik-kəsik və titrəkdir (٣). الرِّجازة (ər-ricazə) isə:\niçərisinə daşlar qoyulan bir örtükdür ki, həvdəc (kəcavə) əyildikdə onun bir tərəfinə [asılır (٤)]; o isə titrəyir.\nالرِّجَازة (ər-ricazə) həmçinin bəzək üçün həvdəcdən asılan yundur. Əzab mənasında olan الرِّجْز (ər-ricz) və\nUca Allahın: ﴿وَاَلرُّجْزَ فَاهْجُرْ﴾ (mənaca tərcümə: Və bütlərdən uzaq dur!) kəlamındakı büt mənasında olan sözə gəldikdə, o, ibdal (hərf əvəzlənməsi) babındandır; çünki onun əsli sin hərfi ilədir; bu artıq qeyd edilmişdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:36:20.417Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«رجز» (rə-cə-zə): Ra, cim və zay silkələnməyə və titrəməyə dəlalət edən bir əsasdır. Bunlardan biri «الرَّجَز» (ərcəz) sözüdür: dəvələrin sağrılarına gələn bir xəstəlikdir ki, dəvə hərəkətə gəldikdə budları titrər.\nŞeirdəki «الرَّجَز» bəhrinin törəməsi də bundandır; çünki o, parçalanmış və titrəkdir (٣). «الرِّجازة» (əl-ricazə) – əلinə (və ya hərəkatına) görə keçe və ya kisədir ki, bəzən hədəcin bir tərəfinə sallanır (٤), çünki o əyildikdə titrəyir.\n«الرِّجَازة» həmçinin hədəfə (və ya hədöçə) bəzək üçün asılan yundur. «الرِّجْز» (əl-ricz) – əzab mənasında olan və həmçinin büt mənasında olan sözə gəlincə, Uca Allahın: ﴿وَاَلرُّجْزَ فَاهْجُرْ﴾ (mənaca tərcümə: Və bütlərdən uzaq dur!) – kəlamındakı söz, məhz əvəzetmə qapısındandır; çünki onun əsli sin hərfi ilədir; o artıq zikr edilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[رجز]» formatında verilməyib.",
+  "«الرَّجَز» sözünün mötərizədəki izahı «ərcəz» kimi yanlış yazılıb.",
+  "«الرِّجازة» izahında «içərisinə daşlar qoyulan» hissəsi buraxılıb, «əلinə (və ya hərəkatına) görə» kimi pozulmuş və uydurma ifadə əlavə edilib.",
+  "«الهَودج» (həvdəc/kəcavə) sözü «hədəcin» və «hədəfə (və ya hədöçə)» kimi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-19T12:59:14.460Z"
 }
