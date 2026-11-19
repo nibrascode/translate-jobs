@@ -13,5 +13,10 @@
  "ar": "السين والباء والجيم ليس بشئٍ ولا له فى اللغة العربيَّة أصلٌ.\nيقولون السُّبْجة: قميصٌ له جَيب. قالوا: وهو بالفارسية «شَبِى (١)». والسَّبج:\nأيضاً ليس بشئ. وكذلك قولهم إنَّ السَّبَج حجارةُ الفضّة. وفى كل ذلك نظر.",
  "az": "[سبج] (səbc). السين (sin), والباء (ba) və الجيم (cim) heç bir şey deyildir və ərəb dilində heç bir əsli yoxdur. Onlar deyirlər: السُّبْجة (əssubcət) - yaxası olan köynəkdir. Dedilər ki, bu, fars dilində «şəbi» deməkdir (١). السَّبج (əssəbc) də həmçinin heç bir şey deyildir. Eləcə də onların «əssəbc gümüş daşlarıdır» demələri də belədir. Bütün bunlarda nəzər (araşdırma) tələb olunan məqamlar vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:47:50.269Z"
+ "ts": "2026-10-25T01:47:50.269Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T23:19:08.149Z"
 }

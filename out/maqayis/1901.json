@@ -11,7 +11,17 @@
   "page_to": 94
  },
  "ar": "السين واللام والحاء السلاح، وهو ما يُقاتَل به. وكان أبو عبيدة يفرِق بين السّلاح والجُنة، فيقول: السلاح ما قُوتل به، والجُنّة ما اتُّقى به، ويحتج بقوله:\nحيثُ تَرى الخيلَ بالأبطال عابسة … يَنْهَضْن بالهندوانيّاتِ والجُنَنِ (١)\nفجعل الجُنَن غيْرَ السُّيوف (٢). والإسليح: شجرةٌ تغزُرُ عليها الإبل وقالت الأعرابية: «الإسليح (٣)، رُغوَةٌ وسَريح، وسَنامٌ وإطريح».",
- "az": "[سلح] (S-L-H). Sin, lam və ha - silahdır, onunla döyüşülür. Əbu Ubeydə silah (السلاح) ilə qalxan (الجُنة) arasında fərq qoyardı və deyərdi: Silah onunla döyüşülən, qalxan isə onunla qorunulandır. O, bu beytlə dəlil gətirir: «حيثُ تَرى الخيلَ بالأبطال عابسة … يَنْهَضْن بالهندوانيّاتِ والجُنَنِ» (Atları qəhrəmanlarla qaşqabaqlı gördüyün yerdə, onlar hind qılıncları və qalxanlarla ayağa qalxırlar) (١). Beləliklə, qalxanları qılınclardan fərqli tutmuşdur (٢). «الإسليح» (əl-islih) - dəvələrin üzərində kökəldiyi bir ağacdır. Ərəb qadını demişdir: «الإسليح (٣)، رُغوَةٌ وسَريح، وسَنامٌ وإطريح» (İslih, köpük və süd, hörgüc və yeməkdir).",
+ "az": "[سلح] (S-L-H). Sin, lam və ha: «السلاح» (əs-silah) – onunla vuruşulan alətdir. Əbu Ubeydə silah ilə qalxanı (əl-cünnə) fərqləndirərək deyərdi: Silah onunla vuruşulan şeydir, qalxan isə onunla qorunulan şeydir; və bu beyti dəlil gətirərdi:\nحيثُ تَرى الخيلَ بالأبطال عابسة … يَنْهَضْن بالهندوانيّاتِ والجُنَنِ (١)\n(Atları pəhləvanlarla birlikdə qaşqabaqlı gördüyün, hind qılıncları və qalxanlarla həmlə etdikləri yerdə).\nBeləliklə, o, qalxanları qılınclardan başqa bir şey saymışdır (٢). «الإسليح» (əl-islih): Dəvələrin onun sayəsində südü bollaşan bir bitkidir. Bədəvi qadın demişdir: «الإسليح (٣)، رُغوَةٌ وسَريح، وسَنامٌ وإطريح» (İslih köpük və bol axar süddür, hörgüc və böyük hörgücdür).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:46:05.008Z"
+ "ts": "2026-10-25T01:46:05.008Z",
+ "prev_az": "[سلح] (S-L-H). Sin, lam və ha - silahdır, onunla döyüşülür. Əbu Ubeydə silah (السلاح) ilə qalxan (الجُنة) arasında fərq qoyardı və deyərdi: Silah onunla döyüşülən, qalxan isə onunla qorunulandır. O, bu beytlə dəlil gətirir: «حيثُ تَرى الخيلَ بالأبطال عابسة … يَنْهَضْن بالهندوانيّاتِ والجُنَنِ» (Atları qəhrəmanlarla qaşqabaqlı gördüyün yerdə, onlar hind qılıncları və qalxanlarla ayağa qalxırlar) (١). Beləliklə, qalxanları qılınclardan fərqli tutmuşdur (٢). «الإسليح» (əl-islih) - dəvələrin üzərində kökəldiyi bir ağacdır. Ərəb qadını demişdir: «الإسليح (٣)، رُغوَةٌ وسَريح، وسَنامٌ وإطريح» (İslih, köpük və süd, hörgüc və yeməkdir).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«تغزُرُ عليها الإبل» ifadəsi «dəvələr onu yedikdə südləri bollaşır» mənasında olduğu halda, yanlış olaraq «dəvələrin üzərində kökəldiyi» kimi tərcümə edilmişdir.",
+  "«إطريح» kəlməsi «böyük, uca hörgüc» mənasında olduğu halda, səhvən «yeməkdir» deyə tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-19T23:10:17.678Z"
 }

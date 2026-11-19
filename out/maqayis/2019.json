@@ -11,7 +11,17 @@
   "page_to": 148
  },
  "ar": "السين والدال والعين ليس بأصلٍ يُعوَّل عليه ولا يقاس عليه، لكنّ الخليل ذكر الرجل المِسْدَع، قال: وهو الماضى لوجهه. فإن كان كذا فهو من الإبدال؛ لأنَّه من صَدَعت، كأنَّه يصدع الفلاةَ صدعاً. وحكى أنَّ قائلا قال: «سلَامةً لك من كلِّ نكبة وسَدْعَةٍ (٢)»، وقال: هى شبه النَّكبة.\nهذا شئ لا أصل [له].",
- "az": "«سدع» (sin, dal və eyn) etibar edilən və qiyas olunan bir əsl deyildir, lakin Xəlil «المِسْدَع» kişisini qeyd etmişdir və demişdir: O, öz yolunda inadla irəliləyəndir. Əgər belədirsə, bu, hərf dəyişməsindəndir; çünki o, «صَدَعت» (çatladı, yardı) sözündəndir, sanki səhranı yarıb keçir. Rəvayət olunmuşdur ki, bir deýən demişdir: «سلَامةً لك من كلِّ نكبة وسَدْعَةٍ» (Sənə hər bir bəla və sədsədən [2] salamatlıq olsun), və demişdir: Bu, bəla kimidir. Bu, əsli [olmayan] bir şeydir.",
+ "az": "[سدع] Sin, dal və eyn söykənilən və qiyas edilən bir əsas deyildir, lakin Xəlil «المِسْدَع» kişisini qeyd etmiş və demişdir: O, yolunda irəliləyən kəsdir. Əgər belədirsə, bu, hərf dəyişməsindəndir; çünki o, «صَدَعت» (yardım) sözündəndir, sanki çölü yarıb keçir. Rəvayət olunmuşdur ki, bir nəfər demişdir: «سلَامةً لك من كلِّ نكبة وسَدْعَةٍ» (٢) (Sənə hər bir bəladan və fəlakətdən salamatlıq olsun) və demişdir: Bu, bəla kimi bir şeydir.\nBu, əsli [olmayan] bir şeydir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:49:18.132Z"
+ "ts": "2026-10-25T01:49:18.132Z",
+ "prev_az": "«سدع» (sin, dal və eyn) etibar edilən və qiyas olunan bir əsl deyildir, lakin Xəlil «المِسْدَع» kişisini qeyd etmişdir və demişdir: O, öz yolunda inadla irəliləyəndir. Əgər belədirsə, bu, hərf dəyişməsindəndir; çünki o, «صَدَعت» (çatladı, yardı) sözündəndir, sanki səhranı yarıb keçir. Rəvayət olunmuşdur ki, bir deýən demişdir: «سلَامةً لك من كلِّ نكبة وسَدْعَةٍ» (Sənə hər bir bəla və sədsədən [2] salamatlıq olsun), və demişdir: Bu, bəla kimidir. Bu, əsli [olmayan] bir şeydir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Baş söz «[سدع]» formatında verilməyib.",
+  "«سَدْعَةٍ» sözünün tərcüməsində təhrif olunmuş «sədsədən» yazılıb."
+ ],
+ "review_ts": "2026-11-19T23:22:19.742Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 99
  },
  "ar": "السين والميم والتاء أصلٌ يدل على نَهجٍ وقصدٍ وطريقةٍ.\nيقال سَمَتَ، إذا أخذ النَّهْج. وكان بعضُهم يقول: السَّمْت: السّير بالظنّ والحَدْس.\nوهو قول القائل:\nليس بها ربعٌ لِسَمْتِ السَّامِت\nويقال إن فلاناً لَحَسنُ السَّمْتِ، إذا كان مستقيمَ الطريقة متحرِّياً لفعل الخَير.\nوالفعل منه سَمَت. ويقال سَمَت سَمْتَه، إذا قصد قصده.",
- "az": "[سمت] (sin, mim və ta) — yol, məqsəd və üsula dəlalət edən bir əsasdır. «سَمَتَ» — yolu tutduqda deyilir. Onlardan bəziləri deyirdi: «السَّمْت» — güman və ehtimalla yeriməkdir. Bu, deyenin şu sözüdür: «ليس بها ربعٌ لِسَمْتِ السَّامِت» (Orada qəsd edənin yolu üçün heç bir yurd yoxdur). Deyirlər ki, filankəs «لَحَسنُ السَّمْتِ» (gözəl gedişatlıdır), yəni yolu düz olan və xeyir əməllərə can atan kəsdir. Feli ondan «سَمَت» gəlir. «سَمَت سَمْتَه» — onun məqsədini qəsd etdi, deməkdir.",
+ "az": "[سمت] (sin, mim və ta) — yol, məqsəd və üsula dəlalət edən bir əsasdır.\nAçıq yolu tutduqda «سَمَتَ» deyilir. Onlardan bəziləri deyirdi: «السَّمْت» — güman və ehtimalla yeriməkdir. Bu, deyənin bu sözüdür:\nليس بها ربعٌ لِسَمْتِ السَّامِت\n(Orada qəsd edənin yolu üçün heç bir yurd yoxdur).\nDeyirlər ki, filankəs «لَحَسنُ السَّمْتِ» (gözəl gedişatlıdır), yəni yolu düz olan və xeyir əməllərə can atan kəsdir. Feli ondan «سَمَت» gəlir. «سَمَت سَمْتَه» — onun məqsədini qəsd etdi, deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:46:25.158Z"
+ "ts": "2026-10-25T01:46:25.158Z",
+ "prev_az": "[سمت] (sin, mim və ta) — yol, məqsəd və üsula dəlalət edən bir əsasdır. «سَمَتَ» — yolu tutduqda deyilir. Onlardan bəziləri deyirdi: «السَّمْت» — güman və ehtimalla yeriməkdir. Bu, deyenin şu sözüdür: «ليس بها ربعٌ لِسَمْتِ السَّامِت» (Orada qəsd edənin yolu üçün heç bir yurd yoxdur). Deyirlər ki, filankəs «لَحَسنُ السَّمْتِ» (gözəl gedişatlıdır), yəni yolu düz olan və xeyir əməllərə can atan kəsdir. Feli ondan «سَمَت» gəlir. «سَمَت سَمْتَه» — onun məqsədini qəsd etdi, deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Türkiyə türkcəsi sözündən («şu») istifadə olunub."
+ ],
+ "review_ts": "2026-11-19T23:17:06.779Z"
 }

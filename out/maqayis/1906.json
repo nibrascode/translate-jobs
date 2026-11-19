@@ -13,5 +13,10 @@
  "ar": "السين واللام والغين ليس بأصلٍ، لكنّه من باب الإبدال فسينُه مبْدَلة من صاد. يقال سَلغَت البقرةُ، إذا خرج نابُها، فهى سالغ. ويقولون لحمٌ أسلَغُ، إذا لم ينضج. ورجل أسلَغُ: شديد الحمرة.",
  "az": "[سلغ] (S-L-Ğ). Sin, lam və ğayn əsl kök deyil, əvəzləmə qapısındandır, sin hərfi sad hərfindən əvəz edilmişdir. «سَلغَت البقرةُ» (İnəyin azı dişi çıxdı) deyilir, o, «سالغ» (saliğ) olur. «لحمٌ أسلَغُ» (Əti bişməmiş ət) deyirlər. «رجل أسلَغُ» (Qırmızı rəngli kişi) - şiddətli qırmızı rəngli deməkdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:46:05.009Z"
+ "ts": "2026-10-25T01:46:05.009Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T23:14:18.360Z"
 }

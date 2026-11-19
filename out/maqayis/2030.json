@@ -11,7 +11,17 @@
   "page_to": 152
  },
  "ar": "السين والراء والطاء أصلٌ صحيح واحد، يدلُّ على غَيبة فى مَرّ وذَهاب. من ذلك: سَرَطْت الطّعام، إذا بَلِعْته؛ لأنَّه إِذا سُرِطَ غاب.\nوبعضُ أهل العلم يقول: السِّراط مشتقٌّ من ذلك، لأنَّ الذاهبَ فيه يغيب غيبةَ الطعام المُستَرَط. والسِّرِطْراط على فِعلاّل (١): الفالوذُ؛ لأنَّه يُستَرط. والسُّراطُ:\nالسّيف القاطع الماضِى فى الضَّريبة. قال الهذلىّ (٢) يصف سيفاً:\nكلون المِلح ضربتُه هَبِيرٌ … يُتِرُّ اللَّحمَ سَقّاطٌ سُراطِى (٣)",
- "az": "[سرط] السين والراء والطاء (sin, ra və ta) — bir səhih əsas olub, gediş və hərəkət zamanı gözdən yayınmağa dəlalət edir. Bunlardan biri: «سَرَطْت الطّعام» (yeməyi udun) — çünki udulduğu zaman gözdən itib yoxa çıxır. Elm əhlindən bəziləri demişdir ki, «السِّراط» (sirat) sözü də bundan götürülmüşdür, çünki onun üzərində gedən şəxs, udulan yeməyin yoxa çıxması kimi gözdən itib yoxa çıxır. «السِّرِطْراط» (ficlal vəznində — ١): firni, şirniyyat növüdür, çünki o, udulur. «السُّراطُ»: zərbə ilə kəsən iti qılınc. Hüzəli (٢) bir qılıncı vəsf edərək demişdir: كلون المِلح ضربتُه هَبِيرٌ … يُتِرُّ اللَّحمَ سَقّاطٌ سُراطِى (٣) (Mənasız,duz rəngindədir, zərbəsi parça-parçadır, əti kəsir, düşən və kəsici bir qılıncdır).",
+ "az": "[سرط] السين والراء والطاء (sin, ra və ta) — keçib getmə və yox olma mənasında gözdən yayınmağa dəlalət edən bir səhih kökdür. Bunlardan biri: «سَرَطْتُ الطَّعامَ» (yeməyi uddum), o vaxt ki, onu udursan («إذا بَلِعْتَهُ»); çünki udulduğu zaman gözdən itib yoxa çıxır.\nElm əhlindən bəziləri demişdir ki, «السِّراط» (sirat) sözü də bundan götürülmüşdür, çünki onun üzərində gedən şəxs, udulan yeməyin yoxa çıxması kimi gözdən itib yoxa çıxır. «السِّرِطْراط» (فِعلاّل vəznində — ١): valuz (bir növ halva/şirniyyat), çünki o, udulur. «السُّراطُ»: vurulan yerə dəyib kəsən, iti qılınc. Hüzəli (٢) bir qılıncı vəsf edərək demişdir:\nكلون المِلح ضربتُه هَبِيرٌ … يُتِرُّ اللَّحمَ سَقّاطٌ سُراطِى (٣)\n(Duz rəngindədir, zərbəsi [əti] parça-parça edəndir, əti sümükdən ayırandır, düşən və iti kəsən qılıncdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:49:38.718Z"
+ "ts": "2026-10-25T01:49:38.718Z",
+ "prev_az": "[سرط] السين والراء والطاء (sin, ra və ta) — bir səhih əsas olub, gediş və hərəkət zamanı gözdən yayınmağa dəlalət edir. Bunlardan biri: «سَرَطْت الطّعام» (yeməyi udun) — çünki udulduğu zaman gözdən itib yoxa çıxır. Elm əhlindən bəziləri demişdir ki, «السِّراط» (sirat) sözü də bundan götürülmüşdür, çünki onun üzərində gedən şəxs, udulan yeməyin yoxa çıxması kimi gözdən itib yoxa çıxır. «السِّرِطْراط» (ficlal vəznində — ١): firni, şirniyyat növüdür, çünki o, udulur. «السُّراطُ»: zərbə ilə kəsən iti qılınc. Hüzəli (٢) bir qılıncı vəsf edərək demişdir: كلون المِلح ضربتُه هَبِيرٌ … يُتِرُّ اللَّحمَ سَقّاطٌ سُراطِى (٣) (Mənasız,duz rəngindədir, zərbəsi parça-parçadır, əti kəsir, düşən və kəsici bir qılıncdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«سَرَطْت الطّعام، إذا بَلِعْته» cümləsində «إذا بَلِعْتَهُ» hissəsi tərcümə olunmamış, «سَرَطْت» feyli əmr şəklində səhv verilmişdir.",
+  "Şeir beytinin tərcüməsinə mətndə olmayan «Mənasız» sözü əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-19T23:24:58.498Z"
 }

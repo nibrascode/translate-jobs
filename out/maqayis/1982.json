@@ -13,5 +13,10 @@
  "ar": "السين والباء والقاف أصل واحد صحيح يدل على التقديم.\nيقال سَبَقَ يَسْبِق سَبْقاً. فأما السَّبَق فهو الخَطَر الذى يأخذه السَّابق.",
  "az": "«سبق» (sin, ba, qaf). Ötüb keçməyə dəlalət edən səhih bir tək əsldir. «Ötdü, ötür, ötmək» mənasında «سَبَقَ يَسْبِق سَبْقاً» (səbəqə yəsbiqu səbqən) deyilir. «السَّبَق» (əs-səbəq) isə yarışda qalibin aldığı mükafatdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:48:11.742Z"
+ "ts": "2026-10-25T01:48:11.742Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T23:19:46.580Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 147
  },
  "ar": "السين والخاء والباء كلمةٌ لا يقاس عليها. يقولون: السِّخاب:\nقِلادَةٌ من قَرنفُلٍ أو غيره، وليس فيها من الجواهر شئ، والجمع سُخُب.",
- "az": "«سخب» (sin, xə və ba) qiyas olunmayan bir kəlmədir. Deyirlər: «السِّخاب» – qərənfil və ya başqa şeydən olan boyunbağıdır, içində heç bir cəvahirat yoxdur, cəmi isə «سُخُب»dür.",
+ "az": "[سخب] Sin, xə və ba qiyas olunmayan bir kəlmədir. Deyirlər: «السِّخاب» — qərənfil və ya başqa şeydən olan boyunbağıdır, içində cəvahiratdan bir şey yoxdur, cəmi «سُخُب»dür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:49:18.132Z"
+ "ts": "2026-10-25T01:49:18.132Z",
+ "prev_az": "«سخب» (sin, xə və ba) qiyas olunmayan bir kəlmədir. Deyirlər: «السِّخاب» – qərənfil və ya başqa şeydən olan boyunbağıdır, içində heç bir cəvahirat yoxdur, cəmi isə «سُخُب»dür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Baş söz «[سخب]» formatında verilməyib."
+ ],
+ "review_ts": "2026-11-19T23:22:19.742Z"
 }

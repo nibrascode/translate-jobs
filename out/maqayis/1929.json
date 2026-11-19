@@ -11,7 +11,18 @@
   "page_to": 104
  },
  "ar": "السين والنون والحاء أصلٌ واحد يُحمَل على ظهور الشئ من مكانٍ بعينه، وإن كان مختلَفاً فيه. فالسّانح: ما أتاك عن يمينك من طائرٍ أو غيره، يقال سَنَحَ سُنُوحاً. والسانح والسَّنيح واحد. قال ذو الرمة:\nذكَرْتُكِ أنْ مرت بنا أمُّ شادن … أمام المطايا تشرئبُّ وتسنَحُ (٣)\nثم استُعير هذا فقيل: سنح لى رأىٌ فى كذا، أى عَرَض.",
- "az": "«سنح» — السين، والنون والحاء (سين، نun və ha) müəyyən bir yerdən bir şeyin üzə çıxmasına həvalə olunan tək bir əsasdır, hərçənd bunda fikir ayrılığı vardır. «السّانِح» (sanih) — sağ tərəfinizdən gələn quş və ya başqa bir şeydir, «سَنَحَ سُنُوحاً» (sanəhə sunuha) deyilir. «السانح» və «السَّنيح» eynidir. Zü ə-Rummə demişdir: «Şadan analı (cüyür) dəvələrin önündən boylanıb keçərkən səni xatırladım» (3). Sonra bu məcazi məna daşınmış və «mənə filan məsələdə bir rəy sanc etdi» yəni «ortaya çıxdı, təzahür etdi» denilmişdir.",
+ "az": "[سنح] (sin, nun və ha) — müəyyən bir yerdən bir şeyin üzə çıxmasına həvalə olunan tək bir əsasdır, hərçənd bunda fikir ayrılığı vardır. «السّانِح» — sağ tərəfinizdən gələn quş və ya başqa bir şeydir, «سَنَحَ سُنُوحاً» deyilir. «السانح» və «السَّنيح» eynidir. Zür-Rummə demişdir:\nذكَرْتُكِ أنْ مرت بنا أمُّ شادن … أمام المطايا تشرئبُّ وتسنَحُ (٣)\n(Dəvələrin önündən boylanıb sağdan keçən cüyür anasını görəndə səni xatırladım). Sonra bu məcazi məna daşınmış və «سَنَحَ لِي رَأْيٌ فِي كَذَا» (mənə filan məsələdə bir rəy meydana çıxdı) denilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:46:45.684Z"
+ "ts": "2026-10-25T01:46:45.684Z",
+ "prev_az": "«سنح» — السين، والنون والحاء (سين، نun və ha) müəyyən bir yerdən bir şeyin üzə çıxmasına həvalə olunan tək bir əsasdır, hərçənd bunda fikir ayrılığı vardır. «السّانِح» (sanih) — sağ tərəfinizdən gələn quş və ya başqa bir şeydir, «سَنَحَ سُنُوحاً» (sanəhə sunuha) deyilir. «السانح» və «السَّنيح» eynidir. Zü ə-Rummə demişdir: «Şadan analı (cüyür) dəvələrin önündən boylanıb keçərkən səni xatırladım» (3). Sonra bu məcazi məna daşınmış və «mənə filan məsələdə bir rəy sanc etdi» yəni «ortaya çıxdı, təzahür etdi» denilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» şəklində verilməyib.",
+  "«نun» hərf qarışığı səhvi var.",
+  "Ərəbcə şeir beytinin ərəb mətni saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-19T23:15:05.866Z"
 }

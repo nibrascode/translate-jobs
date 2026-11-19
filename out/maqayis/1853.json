@@ -11,9 +11,21 @@
   "page_to": 71
  },
  "ar": "السين والطاء والعين أصلٌ يدلُّ على طول الشئ وارتفاعِه فى الهواء. فمن ذلك السَّطَع، وهو طول العنق. ويقال ظليم أسطَعُ ونَعامة سَطْعاء. ومن الباب السِّطاع، وهو عمود من عُمُد البيت. قال القطامىّ:\nأليُسوا بالأُولى قَسَطوا جميعاً … على النُّعمان وابتدروا السِّطاعا (٢)\nويقال سطَع الغبارُ * وسطعت الرائحة، إذا ارتفعت. والسَّطَعْ: ارتفاع صوت الشئ إذا ضربتَ عليه شيئاً. يقال سطعَه. ويقال إنّ السَّطيع الصبح. وهذا إنْ صحَّ فهو من قياس الباب؛ لأنه شئ يعلو ويرتفع. فأما السِّطاع فى شعر هذيل فهو جَبَل بِعينه (١)",
- "az": "«سطع» (Sətə’ — ucalmaq, uzanmaq). Sin, ta və eyn hərfləri bir şeyin uzunluğuna və havada ucalmasına dəlalət edən əslə (kökə) dəlalət edir. Bunlardandır: as-sətə’ (السَّطَع), yəni boyun uzunluğu. Deyilir: dəvəquşu əstəun (أُسطَعُ) və dişi dəvə sət’aun (سَطْعاء). Bu babdandır: as-sita’ (السِّطاع) — evin dirəklərindən bir dirək. Qutami demişdir: أليُسوا بالأُولى قَسَطوا جميعاً … على النُّعمان وابتدروا السِّطاعا — (Onlar Nəfəsin üzərinə hamısı ədalətsizlik edən və sitaca (dirəyə) tələsənlər deyilmi?). Deyilir: «Sətə’a əl-ğubaru» (سطَع الغبارُ) və «sətə’at ər-raihatu» — toz qalxdı və qoxu yayıldı (ucaldıldı). As-sət’u (السَّطَعْ) — üzərinə bir şeylə vurduqda şeyin səsinin ucalmasıdır. Deyilir: «Sətə’ahu» (سطعَه). Deyilir ki, as-sati’ (السَّطيع) səhərdir (sübh). Əgər bu səhihdirsə, bu, babın ölçüsündəndir; çünki o, yüksələn və ucalan bir şeydir. Hüzeyl şeirindəki as-sita’ (السِّطاع) gəldikdə isə, o, xüsusi bir dağdır.",
+ "az": "[سطع]\nالسين والطاء والعين (Sin, ta və ayn) bir şeyin uzunluğuna və havada ucalmasına dəlalət edən bir kökdür. Bunlardandır: السَّطَع (əs-sətə) — boyun uzunluğu. Deyilir: ظليم أسطَعُ (uzunboyunlu erkək dəvəquşu) və نَعامة سَطْعاء (uzunboyunlu dişi dəvəquşu). Bu babdandır: السِّطاع (əs-sita) — evin dirəklərindən bir dirək. Qutami demişdir:\nأليُسوا بالأُولى قَسَطوا جميعاً … على النُّعمان وابتدروا السِّطاعا (٢) (Məgər onlar hamılıqla Numana qarşı haqsızlıq edib dirəyə tərəf tələsənlər deyillərmi?)\nDeyilir: سطَع الغبارُ (toz qalxdı) və وسطعت الرائحة (qoxu yayıldı/yüksəldi), yəni ucaldıqda. السَّطَعْ (əs-sət) — üzərinə bir şeylə vurduqda şeyin səsinin ucalmasıdır. Deyilir: سطعَه (ona vurub səs çıxardı). Deyilir ki, السَّطيع (əs-səti) səhərdir (sübh). Əgər bu səhihdirsə, bu, babın qiyasındandır; çünki o, yüksələn və ucalan bir şeydir. Hüzeyl şeirindəki السِّطاع (əs-sita) sözünə gəldikdə isə, o, müəyyən bir dağdır (١).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:43:09.599Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سطع» (Sətə’ — ucalmaq, uzanmaq). Sin, ta və eyn hərfləri bir şeyin uzunluğuna və havada ucalmasına dəlalət edən əslə (kökə) dəlalət edir. Bunlardandır: as-sətə’ (السَّطَع), yəni boyun uzunluğu. Deyilir: dəvəquşu əstəun (أُسطَعُ) və dişi dəvə sət’aun (سَطْعاء). Bu babdandır: as-sita’ (السِّطاع) — evin dirəklərindən bir dirək. Qutami demişdir: أليُسوا بالأُولى قَسَطوا جميعاً … على النُّعمان وابتدروا السِّطاعا — (Onlar Nəfəsin üzərinə hamısı ədalətsizlik edən və sitaca (dirəyə) tələsənlər deyilmi?). Deyilir: «Sətə’a əl-ğubaru» (سطَع الغبارُ) və «sətə’at ər-raihatu» — toz qalxdı və qoxu yayıldı (ucaldıldı). As-sət’u (السَّطَعْ) — üzərinə bir şeylə vurduqda şeyin səsinin ucalmasıdır. Deyilir: «Sətə’ahu» (سطعَه). Deyilir ki, as-sati’ (السَّطيع) səhərdir (sübh). Əgər bu səhihdirsə, bu, babın ölçüsündəndir; çünki o, yüksələn və ucalan bir şeydir. Hüzeyl şeirindəki as-sita’ (السِّطاع) gəldikdə isə, o, xüsusi bir dağdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı [سطع] şəklində deyil.",
+  "«ظليم أسطَعُ» ifadəsində «أسطَعُ» sözünün hərəkəsi dəyişdirilərək «أُسطَعُ» yazılıb.",
+  "Şeirdə «النُّعمان» adı səhvən «Nəfəsin» kimi tərcümə edilib.",
+  "«وسطعت الرائحة» ifadəsinin ərəbcə mətni buraxılıb və mənası səhvən məchulda «ucaldıldı» kimi verilib.",
+  "Mətndəki (٢) və (١) haşiyə rəqəmləri buraxılıb."
+ ],
+ "review_ts": "2026-11-19T23:02:13.634Z"
 }

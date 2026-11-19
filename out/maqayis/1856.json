@@ -11,9 +11,20 @@
   "page_to": 71
  },
  "ar": "السين والطاء والنون، هو على مذهب الخليل أصلٌ، لأنه يجعل النون فيه أصلية. قال الخليل: أسْطُوانة أفْعُوَالة، تقول هذه أساطينُ مُسَطَّنة. قال: ويقال جملٌ أُسطوانٌ، إذا كان مرتفعا. قال:\nجَرَّبْنَ منِّى أُسطوانًا أعْنَقَا (٢)",
- "az": "«سطن» (Sətən). Sin, ta və nun hərfləri Xəlilin məzhəbinə görə bir kökdür, çünki o, nun hərfini orada əsli hesab edir. Xəlil demişdir: Uştuvanətün (أُسْطُوانة) — əf’uvalətun (أَفْعُوَالة) vəznindədir, sən «hazihi asatinu musəttanətün» (هذه أساطينُ مُسَطَّنة) deyirsən. O dedi: Deyilir ki, uca olanda cəməlün ustuvanun (جَمَلٌ أُسطوانٌ) — uca dəvə. O dedi: جَرَّبْنَ منِّى أُسطوانًا أعْنَقَا — (Məndən uzun boyunlu ustuvanı (uca dəvəni) təcrübədən keçirdilər).",
+ "az": "[سطن]\nالسين والطاء والنون (Sin, ta və nun) Xəlilin məzhəbinə görə bir kökdür, çünki o, nun hərfini orada əsli hesab edir. Xəlil demişdir: أسْطُوانة (üstuvanə) — أفْعُوَالة (əfuvalə) vəznindədir, sən هذه أساطينُ مُسَطَّنة (bunlar sütunlanmış/dirəklənmiş sütunlardır) deyirsən. O dedi: Uca olanda جملٌ أُسطوانٌ (uca/hündür dəvə) deyilir. O dedi:\nجَرَّبْنَ منِّى أُسطوانًا أعْنَقَا (٢) (Məndən uzunboyunlu, uca boylu birini sınaqdan keçirdilər)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:43:09.599Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سطن» (Sətən). Sin, ta və nun hərfləri Xəlilin məzhəbinə görə bir kökdür, çünki o, nun hərfini orada əsli hesab edir. Xəlil demişdir: Uştuvanətün (أُسْطُوانة) — əf’uvalətun (أَفْعُوَالة) vəznindədir, sən «hazihi asatinu musəttanətün» (هذه أساطينُ مُسَطَّنة) deyirsən. O dedi: Deyilir ki, uca olanda cəməlün ustuvanun (جَمَلٌ أُسطوانٌ) — uca dəvə. O dedi: جَرَّبْنَ منِّى أُسطوانًا أعْنَقَا — (Məndən uzun boyunlu ustuvanı (uca dəvəni) təcrübədən keçirdilər).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı [سطن] şəklində deyil.",
+  "«أسْطُوانة» və «أفْعُوَالة» sözlərinin hərəkələri AR-dakı yazılışa uyğun deyil, oxunuşu da «Uştuvanətün» kimi səhv verilib.",
+  "«هذه أساطينُ مُسَطَّنة» cümləsinin tərcüməsi verilməyib.",
+  "Şeirdəki (٢) haşiyə rəqəmi buraxılıb."
+ ],
+ "review_ts": "2026-11-19T23:02:13.635Z"
 }

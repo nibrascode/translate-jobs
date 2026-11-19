@@ -11,7 +11,18 @@
   "page_to": 87
  },
  "ar": "السين والقاف والعين ليس بأصل؛ لأنّ السين فيه مبدلة من صاد. يقال صُقْع وسُقْع. وصَقَعْته وسَقَعته. وما أدرى أين سَقَعَ أى ذهب.",
- "az": "«سقع» (s-q-ə): السين والقاف والعين ليس بأصل؛ لأنّ السين فيه مبدلة من صاد (Sin, qaf və eyn əsas deyil; çünki buradakı sin sad hərfindən əvəz edilmişdir). يقال صُقْع وسُقْع (Deyilir: «صُقْع» və «سُقْع»). وصَقَعْته وسَقَعته (Və «صَقَعْته» və «سَقَعته»). وما أدرى أين سَقَعَ أى ذهب (Və mən bilmirəm haraya «سَقَعَ», yəni haraya getdi).",
+ "az": "[سقع]\nالسين والقاف والعين (sin, qaf və ayn) əsas deyildir; çünki buradakı sin hərfi sad hərfindən bədəldir (dəyişdirilmişdir).\nصُقْع (suq') və سُقْع (suq') (ölkə, nahiyə, tərəf) deyilir.\nHəmçinin صَقَعْته (saqa'tuhu) və سَقَعته (saqa'tuhu) (ona zərbə vurdum).\nDeyilir: ما أدرى أين سَقَعَ (onun hara getdiyini bilmirəm), yəni ذهب (getdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:44:24.789Z"
+ "ts": "2026-10-25T01:44:24.789Z",
+ "prev_az": "«سقع» (s-q-ə): السين والقاف والعين ليس بأصل؛ لأنّ السين فيه مبدلة من صاد (Sin, qaf və eyn əsas deyil; çünki buradakı sin sad hərfindən əvəz edilmişdir). يقال صُقْع وسُقْع (Deyilir: «صُقْع» və «سُقْع»). وصَقَعْته وسَقَعته (Və «صَقَعْته» və «سَقَعته»). وما أدرى أين سَقَعَ أى ذهب (Və mən bilmirəm haraya «سَقَعَ», yəni haraya getdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[سقع]» kimi verilməlidir.",
+  "«صُقْع وسُقْع» və «صَقَعْته وسَقَعته» ifadələri tərcüməsiz qalmışdır.",
+  "Bütöv ərəb mətni tərcümə ilə qarışıq təkrarlanmışdır."
+ ],
+ "review_ts": "2026-11-19T23:07:44.798Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 133
  },
  "ar": "السين والتاء والنون ليس بأصل يتفرَّع، لأنّه نبت، ويقال له الأسْتنُ. وفيه يقول النابغة:\nتَنِفرُ مِنْ أَسْتَنٍ سُودٍ أسافلُهُ … مثل الإِماءِ اللَّواتى تَحمِل الحُزَما (١)",
- "az": "«ستن» (sin, ta, nun). Törəyən bir əsl deyildir, çünki bu, bir bitkidir və ona «əl-əstən» (الأسْتنُ) deyilir. Nabigə bu barədə belə demişdir: «Aşağı tərəfləri qara olan əstəndən qaçırlar, Yük daşıyan cariyələr kimi» (تِنِفرُ مِنْ أَسْتَنٍ سُودٍ أسافلُهُ … مثل الإِماءِ اللَّواتى تَحمِل الحُزَما).",
+ "az": "[ستن] (sin, ta, nun). Törəyən bir kök deyildir, çünki bu, bir bitkidir və ona الأسْتنُ (əl-əstən) deyilir. Nabihə bu barədə belə demişdir:\nتَنِفرُ مِنْ أَسْتَنٍ سُودٍ أسافلُهُ … مثل الإِماءِ اللَّواتى تَحمِل الحُزَما\n(Aşağı tərəfləri qara olan əstən bitkisindən qaçırlar, sanki yük daşıyan cariyələrdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:48:11.742Z"
+ "ts": "2026-10-25T01:48:11.742Z",
+ "prev_az": "«ستن» (sin, ta, nun). Törəyən bir əsl deyildir, çünki bu, bir bitkidir və ona «əl-əstən» (الأسْتنُ) deyilir. Nabigə bu barədə belə demişdir: «Aşağı tərəfləri qara olan əstəndən qaçırlar, Yük daşıyan cariyələr kimi» (تِنِفرُ مِنْ أَسْتَنٍ سُودٍ أسافلُهُ … مثل الإِماءِ اللَّواتى تَحمِل الحُزَما).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytində ərəb mətni əvvəl, tərcümə mötərizədə verilməlidir."
+ ],
+ "review_ts": "2026-11-19T23:21:39.093Z"
 }

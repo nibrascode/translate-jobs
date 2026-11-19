@@ -11,9 +11,19 @@
   "page_to": 71
  },
  "ar": "السين والطاء واللام ليس بشئ. على أنَّهم يسمُّون إناء من الآنية سَطلا وسَيْطلا.",
- "az": "«سطل» (Sətl). Sin, ta və lam hərfləri heç bir şey (əhəmiyyətli kök) deyildir. Belə ki, onlar qablardan bir qabı sətln (سَطلا) və səytilən (سَيْطلا) adlandırırlar.",
+ "az": "[سطل]\nالسين والطاء واللام (Sin, ta və lam) heç bir şey (əsaslı kök) deyildir. Bununla belə, onlar qablardan bir qabı سَطلا (sətl) və سَيْطلا (səytəl) adlandırırlar.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:43:09.599Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سطل» (Sətl). Sin, ta və lam hərfləri heç bir şey (əhəmiyyətli kök) deyildir. Belə ki, onlar qablardan bir qabı sətln (سَطلا) və səytilən (سَيْطلا) adlandırırlar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı [سطل] şəklində deyil.",
+  "«على أنَّهم» ifadəsi səhvən «Belə ki» kimi tərcümə edilib.",
+  "«سَطلا» sözünün oxunuşu səhvən «sətln» yazılıb."
+ ],
+ "review_ts": "2026-11-19T23:02:13.635Z"
 }

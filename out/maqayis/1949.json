@@ -11,7 +11,16 @@
   "page_to": 113
  },
  "ar": "السين والواو والحاء كلمةٌ واحدة. يقال ساحة الدار، وجمعها ساحات وسُوح.",
- "az": "[سوح] السين والواو والحاء (sin, vav və ha) — tək bir kəlmədir. Deyilir: ساحة الدار (sahətud-dar), cəmi isə ساحات (sahat) və سُوح (suh) olur.",
+ "az": "[سوح] Sin, vav və ha (السين والواو والحاء) — tək bir kəlmədir. Deyilir: ساحة الدار (evin həyəti), cəmi isə ساحات və سُوح olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:47:08.653Z"
+ "ts": "2026-10-25T01:47:08.653Z",
+ "prev_az": "[سوح] السين والواو والحاء (sin, vav və ha) — tək bir kəlmədir. Deyilir: ساحة الدار (sahətud-dar), cəmi isə ساحات (sahat) və سُوح (suh) olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mötərizələrdə Azərbaycan dilində məna əvəzinə transliterasiya verilmişdir."
+ ],
+ "review_ts": "2026-11-19T23:18:06.070Z"
 }

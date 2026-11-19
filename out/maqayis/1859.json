@@ -11,9 +11,19 @@
   "page_to": 73
  },
  "ar": "السين والطاء والراء أصلٌ مطّرد يدلّ على اصطفافِ الشئ، كالكتاب والشجر، وكلِّ شئ اصطَفَّ. فأمّا الأساطير فكأنها أشياء.\nكُتبت من الباطل فصار ذلك اسماً لها، مخصوصاً بها. يقال سَطَّر فلانٌ علينا تسطيراً، إذا جاء بالأباطيل. وواحد الأساطير إسطار وأُسطورة.\nومما شذ عن الباب المُسَيطِر (١)، وهو المتعهّد للشئ المتسلّط عليه.",
- "az": "«سطر» (Sətər). Sin, ta və ra hərfləri kitab və ağac kimi hər bir düzülən şeyin sıra ilə düzülməsinə dəlalət edən ardıcıl bir kökdür. Asatirə (الأساطير) gəldikdəisə, onlar batildən yazılmış şeylər kimidir, buna görə də bu ad onlara xüsusi olaraq verilmişdir. Deyilir: «Səttarə fəlanun ‘aleynə təstiran» (سَطَّر فلانٌ علينا تسطيراً), filankəs bizə batil şeylər gətirdikdə. Asatirin təkidi isarun (إطار) və usuturədir (أُسطورة). Kökdən kənara çıxan (şaz olan) məsələ isə al-musaytirdir (المُسَيطِر), o da bir şeyə nəzarət edən və ona hakim olan deməkdir.",
+ "az": "[سطر]\nالسين والطاء والراء (Sin, ta və ra) kitab, ağac və sıra ilə düzülən hər bir şey kimi, bir şeyin sıra ilə düzülməsinə dəlalət edən ardıcıl bir kökdür. الأساطير (əl-əsatir) sözünə gəldikdə isə, onlar sanki batildən yazılmış şeylərdir,\nbuna görə də bu ad onlara xüsusi olaraq verilmişdir. Deyilir: سَطَّر فلانٌ علينا تسطيراً (filankəs bizə qarşı uydurma danışdı), batil şeylər gətirdikdə. الأساطير (əl-əsatir) sözünün təki إسطار (istar) və أُسطورة (usturə) olur.\nKökdən kənara çıxan (şaz olan) söz isə المُسَيطِر (əl-müseytir) (١) sözüdür ki, o da bir şeyə nəzarət edən və ona hakim olan deməkdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:43:09.599Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سطر» (Sətər). Sin, ta və ra hərfləri kitab və ağac kimi hər bir düzülən şeyin sıra ilə düzülməsinə dəlalət edən ardıcıl bir kökdür. Asatirə (الأساطير) gəldikdəisə, onlar batildən yazılmış şeylər kimidir, buna görə də bu ad onlara xüsusi olaraq verilmişdir. Deyilir: «Səttarə fəlanun ‘aleynə təstiran» (سَطَّر فلانٌ علينا تسطيراً), filankəs bizə batil şeylər gətirdikdə. Asatirin təkidi isarun (إطار) və usuturədir (أُسطورة). Kökdən kənara çıxan (şaz olan) məsələ isə al-musaytirdir (المُسَيطِر), o da bir şeyə nəzarət edən və ona hakim olan deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı [سطر] şəklində deyil.",
+  "«إسطار» sözü təhrif edilərək «إطار» yazılıb, «təki» əvəzinə «təkidi» yazılıb.",
+  "«المُسَيطِر» sözündən sonrakı (١) haşiyə rəqəmi buraxılıb."
+ ],
+ "review_ts": "2026-11-19T23:02:13.635Z"
 }

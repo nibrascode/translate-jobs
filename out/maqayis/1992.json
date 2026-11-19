@@ -11,7 +11,16 @@
   "page_to": 135
  },
  "ar": "السين والجيم والعين أصلٌ يدلُّ على صوت متوازن. من ذلك السَّجع فى الكلام، وهو أن يُؤتَى به وله فواصلُ كقوافِى الشِّعر، كقولهم:\n«مَنْ قَلّ ذَلّ، ومن أَمِرَ فَلّ»، وكقولهم: «لا ماءَكِ أبقَيْتِ، ولا دَرَنَكِ أنْقَيْت». ويقال سجَعت الحمامةُ، إذا هدرَتْ.",
- "az": "[سجع] (səcəə): Sin, cim və eyn hərfləri uyumlu səsə dəlalət edən bir kökdür. Bunlardan biri kəlamda olan «السَّجع» (əssəc) – səcdir; bu, şeirin qafiyələri kimi fasilələri olan sözlərin gətirilməsidir. Məsələn, onların «مَنْ قَلّ ذَلّ، ومن أَمِرَ فَلّ» (Kim azaldı, zəlil oldu; kim əmr etdi, qalib gəldi/məğlub etdi) sözləri kimi, və ya «لا ماءَكِ أبقَيْتِ، ولا دَرَنَكِ أنْقَيْت» (Nə suyunu saxladın, nə də çirkini təmizlədin) dedikləri kimi. Həmçinin «سجَعت الحمامةُ» (səcəətil-həmamətü) – göyərçin gurultulu səs çıxardı, deyilir.",
+ "az": "[سجع] (səcəə): Sin, cim və eyn hərfləri uyumlu səsə dəlalət edən bir kökdür. Bunlardan biri kəlamda olan «السَّجع» (əssəc') – səcdir; bu, şeirin qafiyələri kimi fasilələri olan sözlərin gətirilməsidir. Məsələn, onların «مَنْ قَلّ ذَلّ، ومن أَمِرَ فَلّ» (Kim azaldısa zəlil oldu, kimin malı/sayı çoxaldısa sındırıldı/darmadağın oldu) sözləri kimi, və ya «لا ماءَكِ أبقَيْتِ، ولا دَرَنَكِ أنْقَيْت» (Nə suyunu saxladın, nə də çirkini təmizlədin) dedikləri kimi. Həmçinin «سجَعت الحمامةُ» (səcəətil-həmamətu) – göyərçin gurultulu səs çıxardı, deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:48:35.045Z"
+ "ts": "2026-10-25T01:48:35.045Z",
+ "prev_az": "[سجع] (səcəə): Sin, cim və eyn hərfləri uyumlu səsə dəlalət edən bir kökdür. Bunlardan biri kəlamda olan «السَّجع» (əssəc) – səcdir; bu, şeirin qafiyələri kimi fasilələri olan sözlərin gətirilməsidir. Məsələn, onların «مَنْ قَلّ ذَلّ، ومن أَمِرَ فَلّ» (Kim azaldı, zəlil oldu; kim əmr etdi, qalib gəldi/məğlub etdi) sözləri kimi, və ya «لا ماءَكِ أبقَيْتِ، ولا دَرَنَكِ أنْقَيْت» (Nə suyunu saxladın, nə də çirkini təmizlədin) dedikləri kimi. Həmçinin «سجَعت الحمامةُ» (səcəətil-həmamətü) – göyərçin gurultulu səs çıxardı, deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ومن أَمِرَ فَلّ» məsəlində «أَمِرَ» sözünün mənası «əmr etdi» kimi səhv tərcümə olunub (burada «amira» – malı/sayı çoxaldı mənasındadır; məsəlin mənası: «kimin sayı/malı çoxaldısa darmadağın edildi/sındırıldı»)."
+ ],
+ "review_ts": "2026-11-19T23:20:29.548Z"
 }

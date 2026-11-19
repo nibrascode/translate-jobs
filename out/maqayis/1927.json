@@ -11,7 +11,18 @@
   "page_to": 104
  },
  "ar": "السين والنون والتاء ليس أصلاً يتفرّع منه، لكنّهم يقولون السَّنُوت (١)، فقال قوم: هو العسل، وقال آخرون: هو الكَمُّون.\nقال الشاعر:\nهم السَّمْن والسَّنُّوتُ لا أَلْسَ فيهمُ … وهُمْ يمنَعون جارهُمْ أن يُقَرَّدا (٢)",
- "az": "«سنت» — السين، والنون والتاء (سين، نun və ta) özündən budaqlanan bir əsas deyildir, lakin onlar «السَّنُوت» (١) ifadəsini işlədirlər. Bir qrup demişdir ki, o, baldır; başqaları isə onun kimyon (zirə) olduğunu demişdir. Şair demişdir: Onlar yağ və kimyondur, aralarında heç bir saxtakarlıq yoxdur... Onlar qonşularını qoruyurlar ki, təhqir olunmasınlar (və ya qovulmasınlar) (٢).",
+ "az": "[سنت] (sin, nun və ta) — özündən budaqlanan bir əsas deyildir, lakin onlar «السَّنُوت» (١) ifadəsini işlədirlər. Bir qrup demişdir ki, o, baldır; başqaları isə onun kimyon (zirə) olduğunu demişdir. Şair demişdir:\nهم السَّمْن والسَّنُّوتُ لا أَلْسَ فيهمُ … وهُمْ يمنَعون جارهُمْ أن يُقَرَّدا (٢)\n(Onlar yağ və kimyondur, aralarında heç bir saxtakarlıq yoxdur... Onlar qonşularını qoruyurlar ki, təhqir olunmasınlar).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:46:45.684Z"
+ "ts": "2026-10-25T01:46:45.684Z",
+ "prev_az": "«سنت» — السين، والنون والتاء (سين، نun və ta) özündən budaqlanan bir əsas deyildir, lakin onlar «السَّنُوت» (١) ifadəsini işlədirlər. Bir qrup demişdir ki, o, baldır; başqaları isə onun kimyon (zirə) olduğunu demişdir. Şair demişdir: Onlar yağ və kimyondur, aralarında heç bir saxtakarlıq yoxdur... Onlar qonşularını qoruyurlar ki, təhqir olunmasınlar (və ya qovulmasınlar) (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» şəklində verilməyib.",
+  "«نun» hərf qarışığı səhvi var.",
+  "Ərəbcə şeir beyti tərcümədə saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-19T23:15:05.866Z"
 }

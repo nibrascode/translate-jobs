@@ -11,7 +11,16 @@
   "page_to": 116
  },
  "ar": "السين والواو والطاء أصلٌ يدلُّ على مخالطة الشّئِ الشئَ.\nيقال سُطت الشّئَ: خلطتُ بعضَه ببعض. وسَوَّط فلانٌ أمرَه تسويطا، إذا خلَطَه. قال الشّاعر:\nفَسُطْها ذَميمَ الرّأىِ غيرَ موفَّقٍ … فلستَ على تسويطها بمُعان (٤)\nومن الباب السَّوط، لأنّه يُخالِط الجِلدة؛ يقال سُطْتُه بالسَّوط: ضربتُه.\nوأمَّا قولهم فى تسمية النَّصيب سوَطاً فهو من هذا. قال اللّه جل ثناؤه: ﴿فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذابٍ﴾، أى نَصيباً من العذاب",
- "az": "[سوط] السين والواو والطاء (sin, vav və ta) — bir şeyin başqa bir şeyə qarışmasına dəlalət edən bir əsldir.\nDeyilir: سُطت الشّئَ (sutüş-şeyə): onun bir hissəsini digərinə qarışdırdım. Və سَوَّط فلانٌ أمرَه تسويطا (sevvətə fəlänün əmrəhu təsvitan), o, işini qarışdırdıqda. Şair demişdir:\nفَسُطْها ذَميمَ الرّأىِ غيرَ موفَّقٍ … فلستَ على تسويطها بمُعان (٤)\n(Onu pislənmiş rəydə, uğursuz olaraq qarışdır... çünki sən onu qarışdırmaqda yardımçı deyilsən)\nBu qbildəndir əs-sout (السَّوط) – qamçı, çünki o, dəriyə qarışır/toxunur; deyilir: سُطْتُه بالسَّوط (sutütühü bis-sout) – onu qamçı ilə vurdum.\nOnların payı (nəsibi) sout adlandırmalarına gəldikdə, bu da bundandır. Uca Allah buyurmuşdur: mənaca tərcümə: «Rəbbin onlara əzab qamçısı (payı) yağdırdı» (﴿فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذابٍ﴾), yəni əzabdan bir pay.",
+ "az": "[سوط] Sin, vav və ta (السين والواو والطه) — bir şeyin başqa bir şeyə qarışmasına dəlalət edən bir əsldir.\nDeyilir: سُطت الشّئَ (şeyi qarışdırdım): onun bir hissəsini digərinə qarışdırdım. Və سَوَّط فلانٌ أمرَه تسويطا (filankəs işini qarışdırdı). Şair demişdir:\nفَسُطْها ذَميمَ الرّأىِ غيرَ موفَّقٍ … فلستَ على تسويطها بمُعان (٤)\n(Onu qarışdır, ey pislənmiş rəy sahibi, uğur qazanmamış... çünki sən onu qarışdırmaqda yardım olunan değilsən)\nBu babdandır əs-sout (السَّوط - qamçı), çünki o, dəriyə qarışır/toxunur; deyilir: سُطْتُه بالسَّوط (onu qamçı ilə vurdum).\nOnların payı (nəsibi) sout adlandırmalarına gəldikdə, bu da bundandır. Uca Allah buyurmuşdur: ﴿فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذابٍ﴾ (mənaca tərcümə: «Rəbbin onların üzərinə əzab qamçısı (payı) yağdırdı»), yəni əzabdan bir pay.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:47:08.653Z"
+ "ts": "2026-10-25T01:47:08.653Z",
+ "prev_az": "[سوط] السين والواو والطاء (sin, vav və ta) — bir şeyin başqa bir şeyə qarışmasına dəlalət edən bir əsldir.\nDeyilir: سُطت الشّئَ (sutüş-şeyə): onun bir hissəsini digərinə qarışdırdım. Və سَوَّط فلانٌ أمرَه تسويطا (sevvətə fəlänün əmrəhu təsvitan), o, işini qarışdırdıqda. Şair demişdir:\nفَسُطْها ذَميمَ الرّأىِ غيرَ موفَّقٍ … فلستَ على تسويطها بمُعان (٤)\n(Onu pislənmiş rəydə, uğursuz olaraq qarışdır... çünki sən onu qarışdırmaqda yardımçı deyilsən)\nBu qbildəndir əs-sout (السَّوط) – qamçı, çünki o, dəriyə qarışır/toxunur; deyilir: سُطْتُه بالسَّوط (sutütühü bis-sout) – onu qamçı ilə vurdum.\nOnların payı (nəsibi) sout adlandırmalarına gəldikdə, bu da bundandır. Uca Allah buyurmuşdur: mənaca tərcümə: «Rəbbin onlara əzab qamçısı (payı) yağdırdı» (﴿فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذابٍ﴾), yəni əzabdan bir pay.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Quran ayəsinin formatı pozulmuşdur (əvvəl ərəbcə mətn, sonra mənaca tərcümə gəlməlidir)."
+ ],
+ "review_ts": "2026-11-19T23:18:06.070Z"
 }

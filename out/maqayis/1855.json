@@ -11,9 +11,20 @@
   "page_to": 71
  },
  "ar": "السين والطاء والميم أصلٌ صحيح يدلُّ على أصل شئ ومجتمَعِه. يقولون الأسطمّ: مجتمع البحر. ويقال هذه أُسْطُمَّةُ الحَسَب، وهى واسطته. والناس فى أُسطُمّة الأمر. ويقال إنّ الأسطمّ والسِّطام: نَصل السيف.\nو\nفى الحديث: «سِطام الناس». أى حَدُّهم.",
- "az": "«سطم» (Sətm). Sin, ta və mim hərfləri bir şeyin əslinə və toplandığı yerə dəlalət edən səhih bir kökdür. Deyirlər: əl-ustummu (الأسطمّ) — dənizin toplaşdığı yer. Deyilir: «Hazihi ustummatü əl-həsəbi» (هذه أُسْطُمَّةُ الحَسَب), bu onun əsilliyi və mərkəzidir. İnsanlar işin ustumməsindədirlər (أُسطُمّة الأمر). Deyilir ki, əl-ustumm və as-sitam (الأسطمّ والسِّطام) — qılıncın ucudur (tiyəsidir). Hədisdə: «Sitam ən-nəs» (سِطام الناس), yəni onların həddi (kəskinliyi).",
+ "az": "[سطم]\nالسين والطاء والميم (Sin, ta və mim) bir şeyin əslinə və toplandığı yerə dəlalət edən səhih bir kökdür. Deyirlər: الأسطمّ (əl-ustumm) — dənizin toplandığı yer. Deyilir: هذه أُسْطُمَّةُ الحَسَب (bu, əsl-nəcabətin mərkəzidir), və o, onun ortasıdır. والناس فى أُسطُمّة الأمر (insanlar işin mərkəzindədirlər). Deyilir ki, الأسطمّ (əl-ustumm) və السِّطام (əs-sitam) qılıncın tiyəsidir.\nHədisdə: «سِطام الناس» (insanların sitamı), yəni onların həddi (kəskinliyi, seçkinləri).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:43:09.599Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سطم» (Sətm). Sin, ta və mim hərfləri bir şeyin əslinə və toplandığı yerə dəlalət edən səhih bir kökdür. Deyirlər: əl-ustummu (الأسطمّ) — dənizin toplaşdığı yer. Deyilir: «Hazihi ustummatü əl-həsəbi» (هذه أُسْطُمَّةُ الحَسَب), bu onun əsilliyi və mərkəzidir. İnsanlar işin ustumməsindədirlər (أُسطُمّة الأمر). Deyilir ki, əl-ustumm və as-sitam (الأسطمّ والسِّطام) — qılıncın ucudur (tiyəsidir). Hədisdə: «Sitam ən-nəs» (سِطام الناس), yəni onların həddi (kəskinliyi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı [سطم] şəklində deyil.",
+  "«هذه أُسْطُمَّةُ الحَسَب» cümləsinin mənası tərcümə edilməyib, yalnız transkripsiyası verilib.",
+  "«والناس فى أُسطُمّة الأمر» ifadəsində «أُسطُمّة» sözü tərcüməsiz qalıb.",
+  "«سِطام الناس» hədisinin Azərbaycan dilində mənası verilməyib."
+ ],
+ "review_ts": "2026-11-19T23:02:13.635Z"
 }

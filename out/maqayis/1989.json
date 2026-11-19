@@ -11,7 +11,17 @@
   "page_to": 133
  },
  "ar": "السين والجيم والحاء أصل منقاس، يدلُّ على استقامةٍ وحسن. والسُّجُح: الشّئ المستقيم. ويقال «ملَكْتَ فأسْجِحْ»، أى أحْسِن العَفْو. ووجهٌ أسجَحُ، أى مستقيم الصُّورة. قال ذو الرمَّة:\nووجهٌ كمرآةٍ الغريبة أسجحُ (٢)\nوهذا كلُّه من قولهم: تنَحَّ عن سُجْحُ الطَّريق (٣)، أى عن جادّته ومستقيمه.",
- "az": "«سجح» (sin, جيم, ḥa). Düzlüyə və gözəlliyə dəlalət edən müntəzəm bir əsldir. «Əssucu» (السُّجُح): düz olan şeydir. «Malik oldun, onda gözəl rəftar et» mənasında «ملَكْتَ فأسْجِحْ» (mələktə fə-sjih) deyilir. «Əssəcəh» üz (وجهٌ أسجَحُ - vachun əscah): düzgün quruluşlu sima deməkdir. Zü-r-Rummə demişdir: «Və qəribənin güzgüsü kimi düz bir üz» (ووجهٌ كمرآةٍ الغريبة أسجحُ). Bu da onların «Yolun düzündən və caddəsindən kənar dur» mənasında «تنَحَّ عن سُجْحُ الطَّريق» (tənəhhə an suçu-s-tərik) demələrindən alınmışdır.",
+ "az": "[سجح] (sin, cim, ha). Düzlüyə və gözəlliyə dəlalət edən müntəzəm bir kökdür. السُّجُح (əs-sucuh): düz olan şeydir. Deyilir: ملَكْتَ فأسْجِحْ (malik oldunsa, bağışlamağı gözəlləşdir / mülayim ol). وجهٌ أسجَحُ (düzgün quruluşlu sima) deyilir. Zür-Rummə demişdir:\nووجهٌ كمرآةٍ الغريبة أسجحُ\n(Və qəribə qadının güzgüsü kimi hamar, düzgün bir üz).\nBu da onların تنَحَّ عن سُجْحُ الطَّريق (yolun düzündən və caddəsindən kənara çəkil) demələrindən alınmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:48:11.742Z"
+ "ts": "2026-10-25T01:48:11.742Z",
+ "prev_az": "«سجح» (sin, جيم, ḥa). Düzlüyə və gözəlliyə dəlalət edən müntəzəm bir əsldir. «Əssucu» (السُّجُح): düz olan şeydir. «Malik oldun, onda gözəl rəftar et» mənasında «ملَكْتَ فأسْجِحْ» (mələktə fə-sjih) deyilir. «Əssəcəh» üz (وجهٌ أسجَحُ - vachun əscah): düzgün quruluşlu sima deməkdir. Zü-r-Rummə demişdir: «Və qəribənin güzgüsü kimi düz bir üz» (ووجهٌ كمرآةٍ الغريبة أسجحُ). Bu da onların «Yolun düzündən və caddəsindən kənar dur» mənasında «تنَحَّ عن سُجْحُ الطَّريق» (tənəhhə an suçu-s-tərik) demələrindən alınmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları qaydaya uyğun olmalıdır (ج cim, ح ha).",
+  "Şeir beytinin ərəb mətni əvvəl verilməlidir."
+ ],
+ "review_ts": "2026-11-19T23:21:39.093Z"
 }

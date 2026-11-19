@@ -11,7 +11,18 @@
   "page_to": 147
  },
  "ar": "السين والخاء والحرف المعتلّ أصلٌ واحد، يدلُّ على اتّساعٍ فى شئٍ وانفراج. الأصل فيه قولهم: سَخَيْتُ القِدر وسَخَوتُها، إذا جعلتَ لِلنارِ تحتها مَذْهباً.\nومن الباب: سَخَاوِىُّ الأرض، قال قوم: السَّخاوىّ: سعة المفازة. وقول بعضهم «سَخاَوِى الفلا (١)»، قال ابن الأعرابىّ: واحدةُ السخاوَىِ سَخْواةٌ.\nوقال أيضاً: السّخْواءُ (٢) الأرض السَّهلة. قال أهل اللغة: ومن هذا القياس:\nالسّخاء: الجُود؛ يقال سخا يسخُو سَخَاوةً وسَخَاء، يمدّ ويقصر. * والسّخِىّ:\nالجواد.\nومما شذَّ عن الباب: السَّخا، مقصورٌ: ظَلْع يكون من أن يثِبَ البعيرُ بالحِمْل فتعترض ريحٌ بين جِلْدِه وكَتِفه، فيقال بعيرٌ سَخٍ.",
- "az": "«سخى» (sin, xə və mütəllər hərf) şeydə genişliyə və açılmağa dəlalət edən tək bir əslidir. Bunun əsli onların «سَخَيْتُ القِدر وسَخَوتُها» (qazanın altına od üçün yol açdım, yəni tonqal üçün yer elədim) deməsidir. Bu fəsildəndir: «سَخَاوِىُّ الأرض» (yerin səxaviyyü). Bir qrup adam demişdir: «السَّخاوىّ» səhranın genişliyidir. Bəzilərinin «سخاَوِى الفلا» (çölün səxavisi) deməsinə gəlincə, İbn əl-Ərəbi demişdir: «السخاوَىِ»nin təkidi «سَخْواةٌ»dir. Həmçinin demişdir: «السّخْواءُ» (2) hamar yerdir. Dilçilər demişlər: Bu qiyasdandır: «السّخاء» – cəhərdəmlik, səxavət; deyilir: «سخا يسخُو سَخَاوةً وسَخَاء» – mədd və qəsr ilə oxunur. Və «السّخِىّ» – səxavətli, cəhərdəm. Bu fəsildən istisna olan: «السَّخا» – məqsur (uzadılmayan): dəvənin yük üstündə ikən sıçramasından əmələ gələn və dərisi ilə çiyini arasında hava qalmasına səbəb olan çolaqlıqdır; buna «بعيرٌ سَخٍ» (səxi dəvə) deyilər.",
+ "az": "[سخى] Sin, xə və illətli hərf bir şeydə genişliyə və açılmağa dəlalət edən tək bir əsasdır. Bunun əsli onların «سَخَيْتُ القِدر وسَخَوتُها» (qazanın altındakı tonqala yol açdım) deməsidir.\nBu babdandır: «سَخَاوِىُّ الأرض». Bir qrup demişdir: «السَّخاوىّ» — səhranın genişliyidir. Bəzilərinin «سَخاَوِى الفلا» (١) deməsinə gəlincə, İbn əl-Ərabi demişdir: «السخاوَى» sözünün tək forması «سَخْواةٌ» kəlməsidir. Həmçinin demişdir: «السّخْواءُ» (٢) — hamar torpaqdır. Dilçilər demişlər: Bu qiyasdandır: «السّخاء» — cömərdlik, səxavət; deyilir: «سخا يسخُو سَخَاوةً وسَخَاء» (səxavət göstərdi), mədd [uzadılaraq] və məqsur [qısaldılaraq] deyilir. «السّخِىّ» — cömərd, səxavətli kəsdir.\nBu babdan istisna olan: «السَّخا» (uzadılmadan, məqsur): dəvə yük altında ikən sıçradıqda dərisi ilə çiyini arasına külək girdikdə yaranan axsaqlıqdır. Deyilir: «بعيرٌ سَخٍ» (axsaq dəvə).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:49:18.132Z"
+ "ts": "2026-10-25T01:49:18.132Z",
+ "prev_az": "«سخى» (sin, xə və mütəllər hərf) şeydə genişliyə və açılmağa dəlalət edən tək bir əslidir. Bunun əsli onların «سَخَيْتُ القِدر وسَخَوتُها» (qazanın altına od üçün yol açdım, yəni tonqal üçün yer elədim) deməsidir. Bu fəsildəndir: «سَخَاوِىُّ الأرض» (yerin səxaviyyü). Bir qrup adam demişdir: «السَّخاوىّ» səhranın genişliyidir. Bəzilərinin «سخاَوِى الفلا» (çölün səxavisi) deməsinə gəlincə, İbn əl-Ərəbi demişdir: «السخاوَىِ»nin təkidi «سَخْواةٌ»dir. Həmçinin demişdir: «السّخْواءُ» (2) hamar yerdir. Dilçilər demişlər: Bu qiyasdandır: «السّخاء» – cəhərdəmlik, səxavət; deyilir: «سخا يسخُو سَخَاوةً وسَخَاء» – mədd və qəsr ilə oxunur. Və «السّخِىّ» – səxavətli, cəhərdəm. Bu fəsildən istisna olan: «السَّخا» – məqsur (uzadılmayan): dəvənin yük üstündə ikən sıçramasından əmələ gələn və dərisi ilə çiyini arasında hava qalmasına səbəb olan çolaqlıqdır; buna «بعيرٌ سَخٍ» (səxi dəvə) deyilər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Baş söz «[سخى]» formatında verilməyib.",
+  "«الحرف المعتل» ifadəsi «mütəllər hərf» yox, «illətli hərf» tərcümə olunmalıdır.",
+  "«cəhərdəmlik» uydurma sözdür, səxavət/cömərdlik yazılmalıdır."
+ ],
+ "review_ts": "2026-11-19T23:22:19.742Z"
 }

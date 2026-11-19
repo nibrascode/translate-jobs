@@ -11,7 +11,17 @@
   "page_to": 183
  },
  "ar": "الشين والصاد والباء أصلٌ يدلُّ على شِدّة فى عيشٍ وغيره. يقال: الشَّصائب: الشّدائد. ويقال عيشٌ شاصبٌ، أى شديد. وقد شصَب شُصوباً. ويقال أشْصَب اللّهُ عيشَه.\nومن هذا الباب، إن كان صحيحاً: شَصَبت النّاقةُ على الفَحل (٢)، وذلك إذا أكثَرَ ضرابَها فلم تَلْقَح له.\nوما بعد ذلك من قولهم، أنَّ الشِّصْبَ (١): النَّصِيب، وأنّ المَشْصوبَةَ (٢) المسلُوخة، فكلُّ ذلك مشكوكٌ فيه، غيرُ معوَّل عليه.",
- "az": "[شصب] \nŞin, sad və ba təməl bir kök olub, yaşayışda və digər işlərdə çətinliyə dəlalət edir. Deyilir ki, الشَّصائب (əş-şasaib) – çətinliklərdir. Şaçab bir yaşayış (عيشٌ شاصبٌ) də deyilir, yəni çətin. O, şüubən (شُصوباً) çətinləşdi. Deyilir ki, Allah onun yaşayışını çətinləşdirdi (أشْصَب اللّهُ عيشَه). \nBu بابdan (əgər səhihdirsə): dəvə erkək dəvəyə qarşı şaçab etdi (شَصَبت النّاقةُ على الفَحل) (٢), bu da erkək dəvənin cütləşməsini çoxaltması, lakin dişi dəvənin ondan hamilə qalmaması halıdır. \nBundan sonrakı sözlərə gəldikdə, məsələn, əl-şişb (الشِّصْبَ) (١) – nəsib (pay), əl-maşsubə (المَشْصوبَةَ) (٢) isə soyulmuş deməkdir; bütün bunlar şübhəlidir, onlara etimad edilməz.",
+ "az": "[شصب] الشين والصاد والباء (şin, sad və ba) yaşayışda və digər işlərdə çətinliyə dəlalət edən bir əsasdır. Deyilir: الشَّصائب (əş-şasaib) – çətinliklərdir. عيشٌ شاصبٌ (ayşun şasib) – çətin yaşayış deməkdir. شصَب شُصوباً (şasaba şusuban) – çətinləşdi. Deyilir: أشْصَب اللّهُ عيشَه (əşsaba-llahu ayşahu) – Allah onun yaşayışını çətinləşdirdi.\nBu babdandır (əgər səhihdirsə): شَصَبت النّاقةُ على الفَحل (şasabati-n-naqatu ala-l-fahli) (٢) – bu da erkək dəvənin cütləşməsini çoxaltması, lakin dişi dəvənin ondan hamilə qalmaması halıdır.\nBundan sonrakı sözlərinə gəldikdə: الشِّصْبَ (əş-şisb) (١) – pay (nəsib), المَشْصوبَةَ (əl-maşsuba) (٢) – soyulmuş qoyun; bütün bunlar şübhəlidir, etimad edilməzdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:51:02.753Z"
+ "ts": "2026-10-25T01:51:02.753Z",
+ "prev_az": "[شصب] \nŞin, sad və ba təməl bir kök olub, yaşayışda və digər işlərdə çətinliyə dəlalət edir. Deyilir ki, الشَّصائب (əş-şasaib) – çətinliklərdir. Şaçab bir yaşayış (عيشٌ شاصبٌ) də deyilir, yəni çətin. O, şüubən (شُصوباً) çətinləşdi. Deyilir ki, Allah onun yaşayışını çətinləşdirdi (أشْصَب اللّهُ عيشَه). \nBu بابdan (əgər səhihdirsə): dəvə erkək dəvəyə qarşı şaçab etdi (شَصَبت النّاقةُ على الفَحل) (٢), bu da erkək dəvənin cütləşməsini çoxaltması, lakin dişi dəvənin ondan hamilə qalmaması halıdır. \nBundan sonrakı sözlərə gəldikdə, məsələn, əl-şişb (الشِّصْبَ) (١) – nəsib (pay), əl-maşsubə (المَشْصوبَةَ) (٢) isə soyulmuş deməkdir; bütün bunlar şübhəlidir, onlara etimad edilməz.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök hərflərini göstərən ərəbcə mətn («الشين والصاد والباء») buraxılaraq yalnız latın transkripsiyası yazılmışdır.",
+  "Ərəbcə sözlər original qrafika ilə saxlanılmamış, latın transliterasiyası ilə verilmişdir."
+ ],
+ "review_ts": "2026-11-19T23:28:07.292Z"
 }

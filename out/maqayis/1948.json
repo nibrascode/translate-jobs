@@ -11,7 +11,19 @@
   "page_to": 113
  },
  "ar": "فأمّا السين والواو والهمزة فليست من ذلك، إنما هى من باب القُبح. تقول رجلٌ أسوَأُ، أى قبيحٌ، وامرأةٌ سَوآء، أى قبيحة.\nقال رسول اللّه ﵌: «سوْآءُ (٣) وَلودٌ خيرٌ مِنْ حسناءَ عقيم». ولذلك سمّيت السَّيِّئة سيّئة. وسمِّيت النار سُوأى، لقُبْح منظرها. قال اللّه تعالى: ﴿ثُمَّ كانَ عاقِبَةَ اَلَّذِينَ أَساؤُا اَلسُّواى﴾. وقال أبو زُبَيْد:\nلم يَهَبْ حُرْمةَ النَّدِيم وحُقَّتْ … يا لَقومِى للسَّوأة السَّوآءِ (٤)",
- "az": "[سوء] Fəqət sin, vav və həmzə (sin, vav və həmzə) isə bundan deyildir, o, yalnız çirkinlik qbildəndir. Deyirsən: رجل أسوَأُ (rəcülün əsvəu), yəni çirkin kişi, və امرأة سَوآء (imraətün səvəu), yəni çirkin qadın.\nAllahın Elçisi ﵌ demişdir: «سوْآءُ (٣) وَلودٌ خيرٌ مِنْ حسناءَ عقيم» (Uşaq doğan çirkin qadın sonsuz gözəl qadından daha xeyirlidir). Buna görə də günah əs-səyyiə (السَّيِّئة) adlandırılmışdır. Və od (cəhənnəm) görünüşünün çirkinliyinə görə sūəy (سُوأى) adlandırılmışdır. Uca Allah buyurmuşdur: mənaca tərcümə: «Sonra pislik edənlərin aqibəti ən pis (sūəy) oldu» (﴿ثُمَّ كانَ عاقِبَةَ اَلَّذِينَ أَساؤُا اَلسُّواى﴾). Əbu Zübeyr demişdir:\nلم يَهَبْ حُرْمةَ النَّدِيم وحُقَّتْ … يا لَقومِى للسَّوأة السَّوآءِ (٤)\n(Həmdəmin hörmətini qorumadı və haqq oldu... Ey qovmim, çirkin pislik üçün)",
+ "az": "[سوء] Sin, vav və həmzə (السين والواو والهمزة) isə bundan deyildir, o, yalnız çirkinlik qəbilindəndir. Deyirsən: رجلٌ أسوَأُ (çirkin kişi) və امرأةٌ سَوآء (çirkin qadın).\nAllahın Elçisi sallallahu aleyhi və səlləm demişdir: «سوْآءُ (٣) وَلودٌ خيرٌ مِنْ حسناءَ عقيم» (Uşaq doğan çirkin qadın sonsuz gözəl qadından daha xeyirlidir). Buna görə də günah əs-səyyiə (السَّيِّئة) adlandırılmışdır. Od (cəhənnəm) da görünüşünün çirkinliyinə görə sūəy (سُوأى) adlandırılmışdır. Uca Allah buyurmuşdur: ﴿ثُمَّ كانَ عاقِبَةَ اَلَّذِينَ أَساؤُا اَلسُّواى﴾ (mənaca tərcümə: «Sonra pislik edənlərin aqibəti ən pis oldu»). Əbu Zübeyd demişdir:\nلم يَهَبْ حُرْمةَ النَّدِيم وحُقَّتْ … يا لَقومِى للسَّوأة السَّوآءِ (٤)\n(Həmdəmin hörmətini qorumadı... Ey qövmüm, çirkin pislik üçün haqq oldu)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:47:08.653Z"
+ "ts": "2026-10-25T01:47:08.653Z",
+ "prev_az": "[سوء] Fəqət sin, vav və həmzə (sin, vav və həmzə) isə bundan deyildir, o, yalnız çirkinlik qbildəndir. Deyirsən: رجل أسوَأُ (rəcülün əsvəu), yəni çirkin kişi, və امرأة سَوآء (imraətün səvəu), yəni çirkin qadın.\nAllahın Elçisi ﵌ demişdir: «سوْآءُ (٣) وَلودٌ خيرٌ مِنْ حسناءَ عقيم» (Uşaq doğan çirkin qadın sonsuz gözəl qadından daha xeyirlidir). Buna görə də günah əs-səyyiə (السَّيِّئة) adlandırılmışdır. Və od (cəhənnəm) görünüşünün çirkinliyinə görə sūəy (سُوأى) adlandırılmışdır. Uca Allah buyurmuşdur: mənaca tərcümə: «Sonra pislik edənlərin aqibəti ən pis (sūəy) oldu» (﴿ثُمَّ كانَ عاقِبَةَ اَلَّذِينَ أَساؤُا اَلسُّواى﴾). Əbu Zübeyr demişdir:\nلم يَهَبْ حُرْمةَ النَّدِيم وحُقَّتْ … يا لَقومِى للسَّوأة السَّوآءِ (٤)\n(Həmdəmin hörmətini qorumadı və haqq oldu... Ey qovmim, çirkin pislik üçün)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mötərizələrdə Azərbaycan dilində məna əvəzinə transliterasiya verilmişdir.",
+  "«﵌» rəmzi «sallallahu aleyhi və səlləm» kimi açılmalıdır.",
+  "Əbu Zübeyd adı «Əbu Zübeyr» kimi səhv yazılmışdır.",
+  "Quran ayəsinin formatı pozulmuşdur (əvvəl ərəbcə mətn, sonra mənaca tərcümə gəlməlidir)."
+ ],
+ "review_ts": "2026-11-19T23:18:06.069Z"
 }

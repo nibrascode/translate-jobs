@@ -13,5 +13,10 @@
  "ar": "السين والفاء والطاء ليس بشئ، وما فى بابه ما يعوّل عليه، إلاّ أنّهم سمّوا هذا السّفَط. ويقولون: السفيط السّخىّ من * الرجال. وأنشدوا:\nليس بذى حزم ولا سَفيطِ (٢)\nوهذا ليس بشئ.",
  "az": "[سفط] السين والفاء والطاء (sin, fa və ta) heç bir əsas deyil, onun babında etibar ediləcək bir şey yoxdur, yalnız bu səfəti (السَّفَط) adlandırmışlar. Və deyirlər: əs-səfit (السفيط) – kişilərin səxavətlisi. Və bu beyt söyləmişlər: ليس بذى حزم ولا سَفيطِ (٢) (Nə qətiyyət sahibidir, nə də səxavətli). Və bu, heç bir şey deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:54.004Z"
+ "ts": "2026-10-25T01:43:54.004Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T23:02:58.899Z"
 }

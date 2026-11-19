@@ -13,5 +13,10 @@
  "ar": "السين واللام والخاء أصلٌ واحد، وهو إخراج الشئ عن جلده. ثم يُحْمَل عليه. والأصل سلختُ جلدةَ الشاةِ سلخاً. والسِّلخ: جلد الحية تنسلخ. ويقال أسود سالخ لأنَّه يسلخ جلده كلَّ عام فيما يقال. وحكى بعضُهم سلختِ المرأة دِرْعَها: نزعَتْه. ومن قياس الباب: سلخت الشَّهرَ، إذا صرتَ فى آخر يومه. وهذا مجاز. انسلخ الشهرُ، وانسلخ النَّهارُ من الليل المقْبِل.\nومن الباب نخلة مِسلاخٌ، وهى التى تنثُر بُسرَها أخضر.",
  "az": "[سلخ] (S-L-X). Sin, lam və xa tək bir kökdür, bir şeyi dərisindən çıxarmaqdır. Sonra bu məna digərlərinə də şamil edilir. Əsli «سلختُ جلدةَ الشاةِ سلخاً» (Qoyunun dərisini soydum) ifadəsidir. «السِّلخ» (əs-silx) - ilanın soyulduğu dəridir. «أسود سالخ» (Salyx ilan) deyilir, çünki deyildiyinə görə, o, hər il dərisini soyur. Bəziləri «سلخت المرأة درعها» (Qadın köynəyini çıxardı) dedilər. Bu qapının qiyasından: «سلخت الشهر» (Ayı bitirdin), yəni onun son gününə çatdın. Bu məcazdır. «انسلخ الشهر» (Ay çıxdı), «انسلخ النهار من الليل المقْبِل» (Gündüz gələn gecədən ayrıldı). Bu qapıdan olan «نخلة مِسلاخٌ» (Mislaq xurma ağacı) - xurmasını yaşıl halda tökən ağacdır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:46:05.008Z"
+ "ts": "2026-10-25T01:46:05.008Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T23:10:17.678Z"
 }

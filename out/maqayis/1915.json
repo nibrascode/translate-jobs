@@ -11,7 +11,16 @@
   "page_to": 99
  },
  "ar": "السين والميم والحاء أصلٌ يدل على سَلاسةٍ وسُهولة. يقال سَمَح له بالشئ. ورجل سَمْحٌ، أى جواد، وقومٌ سُمَحاء ومَسامِيح. ويقال سَمَّح فى سيره، إذا أسرع. قال:\nسَمَّحَ واجتابَ فلاةً قِيَّا (٢)\nومن الباب: المُسامَحة فى الطِّعان والضَّرب، إِذا كان على مُساهَلة. ويقال رُمْحٌ مسَمَّحٌ: قد ثُقِّف حتَّى لانَ.",
- "az": "[سمح] (sin, mim və ha) — rahatlığa və asanlığa dəlalət edən bir əsasdır. «سَمَح له بالشئ» (bir şeydə ona səxavət göstərdi/icazə verdi) deyilir. «رجل سَمْحٌ» — səxavətli kişi deməkdir, tayfaya isə «سُمَحاء» və «مَسامِيح» deyilir. «سَمَّح فى سيره» — gedişində tələsdi, deməkdir. (Şair) demişdir: «سَمَّحَ واجتابَ فلاةً قِيَّا» (٢). Bu qapıdandır: «المُسامَحة فى الطِّعان والضَّرب» — sancmaqda və vurmaqda asanlıq və güzəşt göstərilməsi. «رُمْحٌ مسَمَّحٌ» — yumşalana qədər düzəldilmiş və incəldilmiş nizə.",
+ "az": "[سمح] (sin, mim və ha) — rəvanlığa və asanlığa dəlalət edən bir əsasdır. «سَمَح له بالشئ» (bir şeydə ona səxavət göstərdi/güzəşt etdi) deyilir. «رجل سَمْحٌ» — səxavətli adam deməkdir, qövmə isə «سُمَحاء» və «مَسامِيح» deyilir. Gedişində sürətləndikdə «سَمَّح فى سيره» deyilir. (Şair) demişdir:\nسَمَّحَ واجتابَ فلاةً قِيَّا (٢)\n(Sürətləndi və kimsəsiz çölü aşdı).\nBu qapıdandır: «المُسامَحة فى الطِّعان والضَّرب» — sancmaqda və vurmaqda asanlıq və güzəşt göstərilməsi. «رُمْحٌ مسَمَّحٌ» — yumşalana qədər düzəldilmiş və incəldilmiş nizə.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:46:25.159Z"
+ "ts": "2026-10-25T01:46:25.159Z",
+ "prev_az": "[سمح] (sin, mim və ha) — rahatlığa və asanlığa dəlalət edən bir əsasdır. «سَمَح له بالشئ» (bir şeydə ona səxavət göstərdi/icazə verdi) deyilir. «رجل سَمْحٌ» — səxavətli kişi deməkdir, tayfaya isə «سُمَحاء» və «مَسامِيح» deyilir. «سَمَّح فى سيره» — gedişində tələsdi, deməkdir. (Şair) demişdir: «سَمَّحَ واجتابَ فلاةً قِيَّا» (٢). Bu qapıdandır: «المُسامَحة فى الطِّعان والضَّرب» — sancmaqda və vurmaqda asanlıq və güzəşt göstərilməsi. «رُمْحٌ مسَمَّحٌ» — yumşalana qədər düzəldilmiş və incəldilmiş nizə.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir misrasının («سَمَّحَ واجتابَ فلاةً قِيَّا») mötərizədə tərcüməsi verilməyib."
+ ],
+ "review_ts": "2026-11-19T23:17:06.779Z"
 }

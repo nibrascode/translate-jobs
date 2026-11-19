@@ -11,7 +11,16 @@
   "page_to": 98
  },
  "ar": "السين والميم والهاء أصلٌ يدل على حَيْرة وباطل. يقال سَمَه إذا دُهِش، وهو سَامِهٌ وقوم سمّهٌ. ويقولون: سَمَه البعيرُ، إذا لم يعرف الإِعياء (١).\nوذهبت إبُلهم السُّمَّهَى، إذا تفرَّقت. والسُّمَّهَى (٢): الباطل والكذب. فأما قولُ رؤبة:\nجَرْىَ السُّمَّهِ (٣)",
- "az": "[سمه] (sin, mim və hə) — çaşqınlığa və batilə dəlalət edən bir əsasdır. «سَمَه» — çaşqın vəziyyətə düşdükdə deyilir, o «سَامِهٌ» (çaşqın), tayfa isə «سمّهٌ» olur. Deyirlər: «سَمَه البعيرُ» — dəvə yorğunluğunu bilmədikdə (belə deyilir) (١). Onların dəvələri «السُّمَّهَى» olaraq dağılıb getdi. «السُّمَّهَى» (٢) — batil və yalandır. Rۇbənin bu sözünə gəldikdə: «جَرْىَ السُّمَّهِ» (٣)...",
+ "az": "[سمه] sin, mim və hə — çaşqınlığa və batilə dəlalət edən bir əsasdır. «سَمَه» — çaşqın vəziyyətə düşdükdə deyilir, o «سَامِهٌ» (çaşqın), tayfa isə «سمّهٌ» olur. Deyirlər: «سَمَه البعيرُ» — dəvə yorğunluğunu bilmədikdə (belə deyilir) (١). Onların dəvələri «السُّمَّهَى» olaraq dağılıb getdi. «السُّمَّهَى» (٢) — batil və yalandır. Rövbənin bu sözünə gəldikdə: «جَرْىَ السُّمَّهِ» (٣)...",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:46:25.158Z"
+ "ts": "2026-10-25T01:46:25.158Z",
+ "prev_az": "[سمه] (sin, mim və hə) — çaşqınlığa və batilə dəlalət edən bir əsasdır. «سَمَه» — çaşqın vəziyyətə düşdükdə deyilir, o «سَامِهٌ» (çaşqın), tayfa isə «سمّهٌ» olur. Deyirlər: «سَمَه البعيرُ» — dəvə yorğunluğunu bilmədikdə (belə deyilir) (١). Onların dəvələri «السُّمَّهَى» olaraq dağılıb getdi. «السُّمَّهَى» (٢) — batil və yalandır. Rۇbənin bu sözünə gəldikdə: «جَرْىَ السُّمَّهِ» (٣)...",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə pozulmuş simvol (Rۇbənin) vardır."
+ ],
+ "review_ts": "2026-11-19T23:14:18.360Z"
 }

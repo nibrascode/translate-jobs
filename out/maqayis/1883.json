@@ -13,5 +13,10 @@
  "ar": "السين والقاف والميم أصلٌ واحد، وهو المرض: يقال سُقْمٌ وسَقَمٌ وسَقامٌ، ثلاث لغات.",
  "az": "[سقم] السين والقاف والميم (sin, qaf və mim) bir tək əsasdır, o da xəstəlikdir: «سُقْمٌ» (suqm), «سَقَمٌ» (səqəm) və «سَقامٌ» (səqam) deyilir, üç dildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:43:54.004Z"
+ "ts": "2026-10-25T01:43:54.004Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T23:02:58.899Z"
 }

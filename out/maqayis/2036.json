@@ -13,5 +13,10 @@
  "ar": "السين والراء والجيم أصلٌ صحيح يدلُّ على الحسن والزِّينة والجمال. من ذلك السِّراج، سمِّى لضيائه وحُسْنه. ومنه السرج للدّابّة، هو زينته.\nويقال سَرَّج وجهَه، أى حَسَّنه، كأنه جعله له كالسِّراج. قال:\nوفَاحِماً ومِرْسَنِاً مُسَرَّجا (٢)\nومما يشذُّ عن هذا قولُهم للطَّريقة: سُرْجُوجَة.",
  "az": "[سرج] السين والراء والجيم (sin, ra və cim) — gözəlliyə, bəzəyə və gözəl görkəmə dəlalət edən səhih bir kökdür. Bunlardan biri «السِّراج» (çıraq) sözüdür, işığına və gözəlliyinə görə belə adlandırılmışdır. Həmçinin minik heyvanının yəhəri mənasına gələn «السرج» də onun bəzəyidir. Deyilir: «سَرَّج وجهَه» (üzünü gözəlləşdirdi), yəni sanki onu çıraq kimi parlaq etdi. Şair demişdir: وفَاحِماً ومِرْسَنِاً مُسَرَّجا (٢) (Qara saçlı və çıraq kimi işıqlı burnu olan). Bu babdan istisna olaraq yol mənasında «سُرْجُوجَة» sözünü işlədirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:49:38.718Z"
+ "ts": "2026-10-25T01:49:38.718Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T23:25:21.176Z"
 }

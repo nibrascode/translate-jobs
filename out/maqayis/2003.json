@@ -11,7 +11,18 @@
   "page_to": 141
  },
  "ar": "السين والحاء والميم * أصلٌ واحدٌ يدلُّ على سواد.\nفالأسحم: [ذو] السواد، وسوادُه السُّحْمَة. ويقال للَّيل أسحم. قال الشاعر:\nرضيعَىْ لِبَانٍ ثَدْى أمٍّ تقاسما … بأسحَمَ داجٍ عَوضُ لا نتفرّق (١)\nوالأسحم: السحاب الأسود. قال النابغة:\nبأسحَمَ دانٍ مُزْنُهُ متصوّبُ (٢)\nوالأسحم: القرن الأسود، فى قول زهير:\nوتَذْبيبُها عنها بأسحَمَ مِذْوَدِ (٣)",
- "az": "«سحم» (səhmə - qara rəng): Sin, ha və mim * qara rəngə dəlalət edən tək bir əsasdır. «الأسحم» — qara [rəngli] deməkdir, onun qaralığı isə «السُّحْمة» adlanır. Gecəyə də «əshəm» (qara) deyilir. Şair demişdir: «رضيعَىْ لِبَانٍ ثَدْى أمٍّ تقاسما … بأسحَمَ داجٍ عَوضُ لا نتفرّق» (Bir ana südünün iki əmizdirilən balası ki, qaranlıq, qatı gecənin haqqına and içərək dedilər: əsla ayrılmayacağıq) (١). «الأسحم» həmçinin qara buluddur. Nabigə demişdir: «بأسحَمَ دانٍ مُزْنُهُ متصوّبُ» (Yağlı buludları yaxınlaşan və aşağı enən qara buludla) (٢). «الأسحم» həmçinin qara buynuzdur, Züheyrin bu sözündə olduğu kimi: «وتَذْبيبُها عنها بأسحَمَ مِذْوَدِ» (O milçəkləri qara və qovucu qılıncla və ya alətlə dəf etmək) (٣).",
+ "az": "[سحم]\nSin, ha və mim * qara rəngə dəlalət edən tək bir əsasdır.\nالأسحم – qara rəngli deməkdir, onun qaralığı isə السُّحْمَة adlanır. Gecəyə də أسحم (qara) deyilir. Şair demişdir:\nرضيعَىْ لِبَانٍ ثَدْى أمٍّ تقاسما … بأسحَمَ داجٍ عَوضُ لا نتفرّق (١)\n(Bir ananın südünü əmən iki süd qardaşı qatı qaranlıq gecəyə and içərək dedilər: əsla ayrılmayacağıq).\nالأسحم – həmçinin qara buluddur. Nabigə demişdir:\nبأسحَمَ دانٍ مُزْنُهُ متصوّبُ (٢)\n(Yağış buludları yaxınlaşan və aşağı yağan qara buludla).\nالأسحم – həmçinin qara buynuzdur, Züheyrin bu sözündə olduğu kimi:\nوتَذْبيبُها عنها بأسحَمَ مِذْوَدِ (٣)\n(Və o milçəkləri özündən qara qovucu buynuzla dəf edər).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:48:57.042Z"
+ "ts": "2026-10-25T01:48:57.042Z",
+ "prev_az": "«سحم» (səhmə - qara rəng): Sin, ha və mim * qara rəngə dəlalət edən tək bir əsasdır. «الأسحم» — qara [rəngli] deməkdir, onun qaralığı isə «السُّحْمة» adlanır. Gecəyə də «əshəm» (qara) deyilir. Şair demişdir: «رضيعَىْ لِبَانٍ ثَدْى أمٍّ تقاسما … بأسحَمَ داجٍ عَوضُ لا نتفرّق» (Bir ana südünün iki əmizdirilən balası ki, qaranlıq, qatı gecənin haqqına and içərək dedilər: əsla ayrılmayacağıq) (١). «الأسحم» həmçinin qara buluddur. Nabigə demişdir: «بأسحَمَ دانٍ مُزْنُهُ متصوّبُ» (Yağlı buludları yaxınlaşan və aşağı enən qara buludla) (٢). «الأسحم» həmçinin qara buynuzdur, Züheyrin bu sözündə olduğu kimi: «وتَذْبيبُها عنها بأسحَمَ مِذْوَدِ» (O milçəkləri qara və qovucu qılıncla və ya alətlə dəf etmək) (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[سحم]» kimi başlamalıdır.",
+  "Beytdə «مُزْنُهُ» sözü «yağlı buludları» kimi yanlış tərcümə edilmişdir (doğrusu: yağış buludları).",
+  "Züheyrin beytində «مِذْوَدِ» sözü «qılıncla» kimi tərcümə edilmişdir, halbuki mətndə onun qara buynuz olduğu bildirilmişdir."
+ ],
+ "review_ts": "2026-11-19T23:21:38.857Z"
 }

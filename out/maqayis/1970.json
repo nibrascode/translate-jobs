@@ -11,7 +11,16 @@
   "page_to": 123
  },
  "ar": "السين والهمزة والدال كلمتان لا تنقاسان. فالإسْآد: دأَب السَّير بالليل.\nوالكلمة الأخرى السَّأَد: انتقاض الجُرح. وأنشد:\nفبتُّ مِنْ ذاك ساهراً أرِقاً … ألقى لِقاءَ اللاقى من السَّأَدِ (٣)\nوربما قالوا: سَأَدتِ الإبلُ الماءَ: عافَتْه.",
- "az": "[سأد] (səd). السين (sin), والهمزة (həmzə) və الدال (dal) qaydaya sığmayan iki kəlmədir. İsmaad (الإسْآد) - gecə səfərini davam etdirmək, yorulmadan yeriməkdir. Digər kəlmə isə السَّأَد (əssəd) - yaranın təzələnməsi, qopmasıdır. Şair şeir söyləmişdir:\nفبتُّ مِنْ ذاك ساهراً أرِقاً … ألقى لِقاءَ اللاقى من السَّأَدِ (٣)\n(Mən o gecə o səbəbdən oyaq və yuxusuz qaldım, səddən gələn fəlakətlərlə qarşılaşdım).\nBəzən onlar سَأَدتِ الإبلُ الماءَ (səəditil-iblül-mau) - dəvələr suyu bəyənməyib imtina etdilər, – deyirlər.",
+ "az": "[سأد] السين (sin), والهمزة (həmzə) və الدال (dal) qaydaya sığmayan iki sözdür. Birincisi الإسْآد – gecə səfərini davam etdirmək, aramsız yol getməkdir. Digər söz isə السَّأَد – yaranın təzələnməsi, yenidən ağrımağa başlamasıdır. Şair demişdir:\nفبتُّ مِنْ ذاك ساهراً أرِقاً … ألقى لِقاءَ اللاقى من السَّأَدِ (٣)\n(Buna görə gecəni oyaq və yuxusuz keçirdim, yara ağrısından əziyyət çəkənin qarşılaşdığı ilə qarşılaşdım).\nBəzən onlar سَأَدتِ الإبلُ الماءَ – dəvələr suyu istəməyib içməkdən imtina etdilər, – deyirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:47:50.268Z"
+ "ts": "2026-10-25T01:47:50.268Z",
+ "prev_az": "[سأد] (səd). السين (sin), والهمزة (həmzə) və الدال (dal) qaydaya sığmayan iki kəlmədir. İsmaad (الإسْآد) - gecə səfərini davam etdirmək, yorulmadan yeriməkdir. Digər kəlmə isə السَّأَد (əssəd) - yaranın təzələnməsi, qopmasıdır. Şair şeir söyləmişdir:\nفبتُّ مِنْ ذاك ساهراً أرِقاً … ألقى لِقاءَ اللاقى من السَّأَدِ (٣)\n(Mən o gecə o səbəbdən oyaq və yuxusuz qaldım, səddən gələn fəlakətlərlə qarşılaşdım).\nBəzən onlar سَأَدتِ الإبلُ الماءَ (səəditil-iblül-mau) - dəvələr suyu bəyənməyib imtina etdilər, – deyirlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirdə «من السَّأَدِ» ifadəsinin mənası yaranın təzələnməsindən doğan ağrı deməkdir, «səddən gələn fəlakət» kimi yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-19T23:19:08.149Z"
 }

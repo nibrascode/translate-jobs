@@ -11,7 +11,17 @@
   "page_to": 116
  },
  "ar": "السين والواو والعين يدلُّ على استمرار الشّئ ومُضيِّه.\nمن ذلك السّاعة سمِّيت بذلك. يقال جاءنا بعد سَوْعٍ من الليل وسُوَاعٍ، أى بعد هَدْءِ منه. وذلك أنَّه شئٌ يمضى ويستمرّ. ومن ذلك قولهم عاملته مُساوعةً، كما يقال مياوَمة، وذلك من السّاعة. ويقال أسَعْتُ الإبلَ إساعةً، وذلك إذا أهملتَها حتَّى تمرَّ على وجهها. وساعت فهى تَسُوع. ومنه يقال هو ضائع سائِع. وناقة مِسياعٌ، وهى التى تذهب فى المرعى. والسِّياع: الطِّين فيه التِّبن.",
- "az": "[سوع] Sin, vaf və ayn hərfləri bir şeyin davam etməsinə və keçib getməsinə dəlalət edir.\nO cümlədən «الساعة» (saat) məhz buna görə belə adlandırılmışdır. Deyilir ki, bizə «سَوْع» (sö) və ya «سُوَاع» (sua) gecədən sonra, yəni gecənin sakitləşməsindən bir müddət sonra gəldi. Bu ona görədir ki, o, keçib gedən və davam edən bir şeydir. Həmçinin onların «عاملته مُساوعةً» (müsavət yolu ilə onunla rəftar etdim) sözü də bundandır; necə ki, «مياوَمَة» (gündəlik muzdla işləmək) deyilir və bu, «الساعة» (saat) sözündəndir. Deyilir: «أسَعْتُ الإبلَ إساعةً» (dəvələri başıboş buraxdım), yəni onları elə sahibsiz buraxdın ki, özbaşına istiqamətlərində getdilər. «ساعت فهى تَسُوع» (o getdi və gedir). Və bundan idrak olaraq «هو ضائع سائِع» (o, itmiş və avara gəzəndir) deyilir. «ناقة مِسياعٌ» isə otlaqda gəzib-dolaşan dəvədir. «السِّياع» (siya) içərisində saman olan paltar, yaxud palçıqdır.",
+ "az": "[سوع] Sin, vav və ayn (السين والواو والعين) bir şeyin davam etməsinə və keçib getməsinə dəlalət edir.\nO cümlədən əs-saat (السّاعة - saat) məhz buna görə belə adlandırılmışdır. Deyilir: جاءنا بعد سَوْعٍ من الليل və يا سُوَاعٍ (gecənin sakitləşməsindən bir müddət sonra bizə gəldi). Bu ona görədir ki, o, keçib gedən və davam edən bir şeydir. Həmçinin onların عاملته مُساوعةً (onunla saat hesabı işlədim) sözü də bundandır; necə ki, مياوَمة (gündəlik muzdla işləmək) deyilir və bu, əs-saat (السّاعة) sözündəndir. Deyilir: أسَعْتُ الإبلَ إساعةً (dəvələri başıboş buraxdım), yəni onları elə sahibsiz buraxdın ki, özbaşına getdilər. Və ساعت فهى تَسُوع (o başıboş getdi və gedir). Bundan ötrü هو ضائع سائِع (o, itmiş və avara gəzəndir) deyilir. الناقة المِسياع isə otlaqda başıboş gəzib-dolaşan dəvədir. Əs-Siyac (السِّياع) isə içərisində saman olan palçıqdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:47:28.804Z"
+ "ts": "2026-10-25T01:47:28.804Z",
+ "prev_az": "[سوع] Sin, vaf və ayn hərfləri bir şeyin davam etməsinə və keçib getməsinə dəlalət edir.\nO cümlədən «الساعة» (saat) məhz buna görə belə adlandırılmışdır. Deyilir ki, bizə «سَوْع» (sö) və ya «سُوَاع» (sua) gecədən sonra, yəni gecənin sakitləşməsindən bir müddət sonra gəldi. Bu ona görədir ki, o, keçib gedən və davam edən bir şeydir. Həmçinin onların «عاملته مُساوعةً» (müsavət yolu ilə onunla rəftar etdim) sözü də bundandır; necə ki, «مياوَمَة» (gündəlik muzdla işləmək) deyilir və bu, «الساعة» (saat) sözündəndir. Deyilir: «أسَعْتُ الإبلَ إساعةً» (dəvələri başıboş buraxdım), yəni onları elə sahibsiz buraxdın ki, özbaşına istiqamətlərində getdilər. «ساعت فهى تَسُوع» (o getdi və gedir). Və bundan idrak olaraq «هو ضائع سائِع» (o, itmiş və avara gəzəndir) deyilir. «ناقة مِسياعٌ» isə otlaqda gəzib-dolaşan dəvədir. «السِّياع» (siya) içərisində saman olan paltar, yaxud palçıqdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «vaf» kimi yanlış yazılmışdır («vav» olmalıdır).",
+  "Mötərizələrdə məna əvəzinə transliterasiya yazılmışdır."
+ ],
+ "review_ts": "2026-11-19T23:18:06.070Z"
 }

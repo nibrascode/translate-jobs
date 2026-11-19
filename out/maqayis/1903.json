@@ -13,5 +13,10 @@
  "ar": "السين واللام والسين يدلُّ على سهولة فى الشئ. يقال هو سَهلٌ سَلِسٌ والسَّلْس: جنس من الخَرز، ولعلَّه سمِّى بذلك لسلاسته فى نَظْمه.\nقال:\nوقلائدٌ مِنْ حُبْلَةٍ وسُلوسِ (١)",
  "az": "[سلس] (S-L-S). Sin, lam və sin bir şeydə asanlığa dəlalət edir. «هو سَهلٌ سَلِسٌ» (O, asan və yumşaqdır) deyilir. «السَّلْس» (əs-səls) - bir növ muncuqdur, bəlkə də düzülüşündəki asanlığa görə belə adlandırılmışdır. Şair deyir: «وقلائدٌ مِنْ حُبْلَةٍ وسُلوسِ» (Hüblə və sülusdan olan boyunbağılar) (١).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T01:46:05.008Z"
+ "ts": "2026-10-25T01:46:05.008Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-19T23:14:18.360Z"
 }
