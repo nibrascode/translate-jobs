@@ -11,7 +11,16 @@
   "page_to": 255
  },
  "ar": "الشين والخاء والميم كلمةٌ تدلُّ عَلَى تغيّرٍ فى شئ من ذلك: أشخم اللّبن، إذا تغيّرت رائحتُه. وشَخُمَ الطَّعامُ: فَسَد (١).",
- "az": "«شخم» (şəxm). Şin, xa və mim köklü bir kəlmə olub, bir şeydə dəyişikliyə dəlalət edir. Bunlardandır: «أشْخَمَ اللَّبَنُ» (sütün qoxusu dəyişdi) — sütün iyi dəyişdiyi zaman. Və «شَخُمَ الطَّعامُ» (yemək xarab oldu) — yemək xarab oldu (1).",
+ "az": "[شخم] Şin, xə və mim hərfləri bir şeydə dəyişikliyə dəlalət edən bir kəlmədir. O cümlədən: «أشْخَمَ اللَّبَنُ» — sütün qoxusu dəyişdiyi zaman deyilir. Və «شَخُمَ الطَّعامُ» — yemək xarab oldu mənasındadır (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:56:06.964Z"
+ "ts": "2026-10-25T01:56:06.964Z",
+ "prev_az": "«شخم» (şəxm). Şin, xa və mim köklü bir kəlmə olub, bir şeydə dəyişikliyə dəlalət edir. Bunlardandır: «أشْخَمَ اللَّبَنُ» (sütün qoxusu dəyişdi) — sütün iyi dəyişdiyi zaman. Və «شَخُمَ الطَّعامُ» (yemək xarab oldu) — yemək xarab oldu (1).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[شخم]» qaydasına uyğun verilməmişdir."
+ ],
+ "review_ts": "2026-11-20T18:01:18.489Z"
 }

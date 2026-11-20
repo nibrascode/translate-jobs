@@ -11,7 +11,18 @@
   "page_to": 367
  },
  "ar": "الضاد والفاء والزاء أصلٌ صحيحٌ يدلُّ على دَفْعِ شئٍ بشئٍ تلقمه، ثمَّ يُحمَل على ذلك. من ذلك [الضَّفز]: لَقْم البعير. ويقال الضَّفَز:\nأن تُلقِمه إيّاه وإن كرِهَه. والعرب تقول ضفَزْتُه حقَّه فما قَبِلَه، أى إنِّى أكرهتُه عليه. ومن الباب: ضَفزت الفرسَ لجامَه، أى أدخلتُه فى فيه. وقد يقال الضَّفْز:\nالْجِماع، وهو قريب من الباب.",
- "az": "[ضفز] (Dəfəz): Zad, fa və zay hərfləri bir şeyi başqa bir şeylə itələyib ağzına tıxamağa, sonra da buna həmlə olunmasına dəlalət edən düzgün bir əsasdır. Bunlardandır [الضَّفز] (əddəfəz): dəvənin yemlənməsi. Deyilir ki, əddəfəz: onu istəməsə belə, ağzına tıxamağındır. Ərəblər deyirlər: ضفَزْتُه حقَّه فما قَبِلَه (Mən ona haqqını zorla, istəmədiyi halda vermək istədim, o isə qəbul etmədi) — yəni mən onu buna məcbur etdim. Bu qapıdandır: ضفزت الفرسَ لجامَه (Atın yüyənini ağzına soxdum). Həmçinin əddəfəz: cinsi əlaqə deməkdir ki, bu da həmin mənanın yaxınındadır.",
+ "az": "[ضفز] Dad, fa və zay hərfləri bir şeyi ağzına verdiyin başqa bir şeylə itələməyə, sonra da buna bənzədilən mənalara dəlalət edən düzgün bir əsasdır. Bunlardandır: الضَّفز — dəvənin ağzına yem dürtməkdir. Deyilir ki, الضَّفَز — istəməsə də, yemi onun ağzına dürtməyindir. Ərəblər deyirlər: ضفَزْتُه حقَّه فما قَبِلَه (Mən onun haqqını ağzına dürtdüm [zorla vermək istədim], o isə qəbul etmədi) — yəni mən onu buna məcbur etdim. Bu qapıdandır: ضَفزت الفرسَ لجامَه (Atın ağzına yüyənini saldım). Həmçinin deyilir ki, الضَّفْز — cinsi əlaqədir ki, bu da bu qapının mənasına yaxındır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.136Z"
+ "ts": "2026-10-25T02:04:55.136Z",
+ "prev_az": "[ضفز] (Dəfəz): Zad, fa və zay hərfləri bir şeyi başqa bir şeylə itələyib ağzına tıxamağa, sonra da buna həmlə olunmasına dəlalət edən düzgün bir əsasdır. Bunlardandır [الضَّفز] (əddəfəz): dəvənin yemlənməsi. Deyilir ki, əddəfəz: onu istəməsə belə, ağzına tıxamağındır. Ərəblər deyirlər: ضفَزْتُه حقَّه فما قَبِلَه (Mən ona haqqını zorla, istəmədiyi halda vermək istədim, o isə qəbul etmədi) — yəni mən onu buna məcbur etdim. Bu qapıdandır: ضفزت الفرسَ لجامَه (Atın yüyənini ağzına soxdum). Həmçinin əddəfəz: cinsi əlaqə deməkdir ki, bu da həmin mənanın yaxınındadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, mötərizədə latın qrafikalı oxunuş əlavə edilib.",
+  "«الضَّفز» sözünün izahı dürüst verilməyib.",
+  "Ərəbcə terminlərin yanında gərəksiz latın transliterasiyaları yazılıb."
+ ],
+ "review_ts": "2026-11-20T18:31:14.477Z"
 }

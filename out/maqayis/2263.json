@@ -11,7 +11,16 @@
   "page_to": 290
  },
  "ar": "الصاد والغين والراء أصلٌ صحيح يدلُّ على قِلّةٍ وحقارة من ذلك الصِّغَر: ضدّ الكِبَر. والصَّغير: خلاف الكبير. والصاغِر: الرّاضى بالضَّيم صُغْراً وصَغارا. ويقال أصغرت النّاقةُ وأكبَرَتْ. والإِصغار: حنينُها [الخفيض. والإِكبار (١):] العالى. قالت الخنساء:\nلها حنينان إِصغارٌ وإكبارُ (٢)",
- "az": "[صغر] الصاد والغين والراء أصلٌ صحيح يدلُّ على قِلّةٍ وحقارة من ذلك الصِّغَر: ضدّ الكِبَر. (Sad, qaf və ra azlığa və alçaqlığa dəlalət edən səhih bir kökdür; bunlardan biri «الصِّغَر» olub, böyüklüyün əksidir.) والصَّغير: خلاف الكبير. (Əs-səğir - böyüyün əksidir.) والصاغِر: الرّاضى بالضَّيم صُغْراً وصَغارا. (Əs-sağir - zillətə və alçaqlığa razı olan kimsədir.) ويقال أصغرت النّاقةُ وأكبَرَتْ. (Deyilir: dəvə «أصغرت» (kiçik səs çıxardı) və «أكبَرَت» (böyük səs çıxardı).) والإِصغار: حنينُها الخفيض. (İsğar - dəvənin alçaq səslə inləməsidir.) والإِكبار: العالى. (İkbar isə uca səslə inləməsidir.) قالت الخنساء: (əl-Xansa demişdir:) لها حنينان إِصغارٌ وإكبارُ (٢) (Onun iki iniltisi vardır: biri isğar, digəri ikbardır.)",
+ "az": "[صغر] الصاد والغين والراء أصلٌ صحيح يدلُّ على قِلّةٍ وحقارة من ذلك الصِّغَر: ضدّ الكِبَر. (Sad, ğayn və ra azlığa və alçaqlığa dəlalət edən səhih bir kökdür; bunlardan biri «الصِّغَر» olub, böyüklüyün əksidir.) والصَّغير: خلاف الكبير. (Əs-səğir - böyüyün əksidir.) والصاغِر: الرّاضى بالضَّيم صُغْراً وصَغارا. (Əs-sağir - kiçiklik və alçaqlıq göstərərək zillətə razı olan kimsədir.) ويقال أصغرت النّاقةُ وأكبَرَتْ. (Deyilir: dəvə «أصغرت» [alçaq səs çıxardı] və «أكبَرَت» [uca səs çıxardı].) والإِصغار: حنينُها الخفيض. (İsğar - dəvənin alçaq səslə inləməsidir.) والإِكبار: العالى. (İkbar isə uca səslə inləməsidir.) قالت الخنساء: (əl-Xansa demişdir:)\nلها حنينان إِصغارٌ وإكبارُ (٢)\n(Onun iki iniltisi vardır: biri alçaq səslə, digəri uca səslə.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:00:26.604Z"
+ "ts": "2026-10-25T02:00:26.604Z",
+ "prev_az": "[صغر] الصاد والغين والراء أصلٌ صحيح يدلُّ على قِلّةٍ وحقارة من ذلك الصِّغَر: ضدّ الكِبَر. (Sad, qaf və ra azlığa və alçaqlığa dəlalət edən səhih bir kökdür; bunlardan biri «الصِّغَر» olub, böyüklüyün əksidir.) والصَّغير: خلاف الكبير. (Əs-səğir - böyüyün əksidir.) والصاغِر: الرّاضى بالضَّيم صُغْراً وصَغارا. (Əs-sağir - zillətə və alçaqlığa razı olan kimsədir.) ويقال أصغرت النّاقةُ وأكبَرَتْ. (Deyilir: dəvə «أصغرت» (kiçik səs çıxardı) və «أكبَرَت» (böyük səs çıxardı).) والإِصغار: حنينُها الخفيض. (İsğar - dəvənin alçaq səslə inləməsidir.) والإِكبار: العالى. (İkbar isə uca səslə inləməsidir.) قالت الخنساء: (əl-Xansa demişdir:) لها حنينان إِصغارٌ وإكبارُ (٢) (Onun iki iniltisi vardır: biri isğar, digəri ikbardır.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kökün hərf adı səhv verilib: «غين» (ğayn) hərfi «qaf» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-20T18:19:38.915Z"
 }

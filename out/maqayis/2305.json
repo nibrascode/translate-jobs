@@ -11,7 +11,16 @@
   "page_to": 314
  },
  "ar": "الصاد والنون والقاف كلمة إن صحّت. يقولون إنّ الصَّنَق:\nالذَّفر. وحكى بعضُهم: أصنَقَ الرجلُ فى ما له، إذا أحسَنَ القيامَ عليه.",
- "az": "«صنق» (Sad, nun və qaf) - əgər səhihdirsə, bir kəlmədir. Deyirlər ki, «الصَّنَق» pis qoxudur (tər qoxusu). Bəziləri rəvayət etmişdir ki, kişi öz malı barəsində «أصنَقَ الرجلُ» — yəni ona yaxşı qulluq etdi, baxdı.",
+ "az": "[صنق] (sad, nun və qaf) — əgər səhihdirsə, bir kəlmədir. Deyirlər ki, «الصَّنَق» pis tər qoxusudur. Bəziləri rəvayət etmişdir ki, «أصنَقَ الرجلُ فى ما له» — kişi öz malına yaxşı baxıb qulluq etdikdə deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:50.745Z"
+ "ts": "2026-10-25T02:01:50.745Z",
+ "prev_az": "«صنق» (Sad, nun və qaf) - əgər səhihdirsə, bir kəlmədir. Deyirlər ki, «الصَّنَق» pis qoxudur (tər qoxusu). Bəziləri rəvayət etmişdir ki, kişi öz malı barəsində «أصنَقَ الرجلُ» — yəni ona yaxşı qulluq etdi, baxdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[صنق]» kimi olmalıdır."
+ ],
+ "review_ts": "2026-11-20T18:24:44.077Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 367
  },
  "ar": "الضاد والفاء والسين ليس بشئ، إلاّ أنّ ابنَ دُريد ذكر أنّ الضَّفْس مثل الضَّفْز.",
- "az": "[ضفس] (Dəfəs): Zad, fa və sin hərfləri heç bir şey deyildir, lakin İbn Dürid qeyd etmişdir ki, əddəfəs, əddəfəz kimidir.",
+ "az": "[ضفس] Dad, fa və sin hərfləri bir şey deyildir. Ancaq İbn Dureyd qeyd etmişdir ki, الضَّفْس sözü الضَّفْز kimidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.136Z"
+ "ts": "2026-10-25T02:04:55.136Z",
+ "prev_az": "[ضفس] (Dəfəs): Zad, fa və sin hərfləri heç bir şey deyildir, lakin İbn Dürid qeyd etmişdir ki, əddəfəs, əddəfəz kimidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, mötərizədə latın qrafikalı oxunuş əlavə edilib.",
+  "Ərəbcə terminlər latın transliterasiyası ilə əvəzlənib."
+ ],
+ "review_ts": "2026-11-20T18:31:14.477Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 367
  },
  "ar": "الضاد والفاء والراء أصلٌ صحيح، وهو ضمُّ الشَّئِ إلى الشّئ نسجاً أو غيره عريضاً. ومن الباب ضَفائر الشّعَر، وهى كل شَعَر ضُفِر حتى يصيرَ ذُؤابة. ومن الباب قولُهم: تضافَرُوا عليه، أى تعاوَنُوا. وأصله عندى من ضفائر الشعر، وهو أن يتقاربوا حتى كأنَّ كلَّ واحدٍ منهم قد شدَّ ضفيرتَه بضفيرة الآخر.\nوهذا قياسٌ حسَن فى المساعدة والمظاهَرة وغيرهما. يقال إنّ الضفِر: حِقْفٌ من الرّمل. والذى نحفظه فى كتاب أبى عُبيدٍ العَقِدة والضَّفِرة الرمل المُنْعقد. ويقال كِنانةٌ ضَفِرةٌ، أى ممتلئة. وأصلها من تَضافُرِ ما فيها من السِّهام، وهو تجمُّعها.\nوالضَّفيرة، هى التى يقال لها المُسَنّاة، وسمِّيت بذلك كأنّها ضُفِرَتْ ضَفْراً، كالشّئِ يُضَمُّ بعضُه إلى بعضِ نسجاً وغيرَه.",
- "az": "[ضفر] (Dəfər): Zad, fa və ra hərfləri düzgün bir əsas olub, bir şeyi digərinə toxumaqla və ya başqa şəkildə eninə olaraq birləşdirmək, qandırmaq deməkdir. Bu qapıdandır: ضَفائر الشّعَر (saç hörükləri) — bunlar hörülərək kəkilli hala gətirilmiş hər hansı saçdır. Yenə bu qapıdandır onların: تضافَرُوا عليه (ona qarşı birləşdilər / yardımlaşdılar) sözü. Onun əsli mənim nəzərimdə saç hörüklərindən gəlir; bu, o deməkdir ki, onlar o qədər yaxınlaşdılar ki, sanki hər biri öz hörüyünü digərinin hörüyünə bağlamışdır. Bu, kömək etməkdə, arxa durmaqda və digər işlərdə gözəl bir müqayisədir. Deyilir ki, الضَّفِر (ə-dəfir): qum təpəsidir. Əbu Übeydin kitabında hifz etdiyimiz isə əl-əqidə və əd-dəfirə (bərkimiş qum) deməkdir. Deyilir: كِنانةٌ ضَفِرةٌ (dəfirə oxatan oxdanı) — yəni doludur. Onun əsri, içindəki oxların bir-birinə qarışmasından, yəni toplanmasından irəli gəlir. Əd-dəfirə (əddəfirə) — əl-müsənnat deyilən şeydir və belə adlandırılması sanki bir şeyin toxuculuq və ya başqa üsulla bir-birinə birləşdirilməsi kimi hörüldüyünə görədir.",
+ "az": "[ضفر] Dad, fa və ra hərfləri düzgün bir əsas olub, bir şeyi digərinə toxumaqla və ya başqa şəkildə enli olaraq birləşdirmək, qatmaq deməkdir. Bu qapıdandır: ضَفائر الشّعَر (saç hörükləri) — bunlar hörülərək kəkilli hala gətirilmiş hər hansı saçdır. Yenə bu qapıdandır onların: تضافَرُوا عليه (ona qarşı birləşdilər / yardımlaşdılar) sözü. Bunun əsli mənim nəzərimdə saç hörüklərindən gəlir; bu, onların o qədər yaxınlaşmasıdır ki, sanki hər biri öz hörüyünü digərinin hörüyünə bağlamışdır.\nBu, kömək etməkdə, arxa durmaqda və digər işlərdə gözəl bir müqayisədir. Deyilir ki, الضَّفِر — qum təpəsidir. Əbu Übeydin kitabında yadımızda qalan isə العَقِدة və الضَّفِرة — yığılıb bərkimiş qumdur. Deyilir: كِنانةٌ ضَفِرةٌ (dolu oxdan) — yəni doludur. Bunun əsli içindəki oxların bir-birinə çatmaqla toplanmasından irəli gəlir.\nالضَّفيرة isə المُسَنّاة (su bəndi) deyilən şeydir və belə adlandırılması sanki bir şeyin toxumaqla və ya başqa üsulla bir-birinə qatılaraq hörüldüyünə görədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.136Z"
+ "ts": "2026-10-25T02:04:55.136Z",
+ "prev_az": "[ضفر] (Dəfər): Zad, fa və ra hərfləri düzgün bir əsas olub, bir şeyi digərinə toxumaqla və ya başqa şəkildə eninə olaraq birləşdirmək, qandırmaq deməkdir. Bu qapıdandır: ضَفائر الشّعَر (saç hörükləri) — bunlar hörülərək kəkilli hala gətirilmiş hər hansı saçdır. Yenə bu qapıdandır onların: تضافَرُوا عليه (ona qarşı birləşdilər / yardımlaşdılar) sözü. Onun əsli mənim nəzərimdə saç hörüklərindən gəlir; bu, o deməkdir ki, onlar o qədər yaxınlaşdılar ki, sanki hər biri öz hörüyünü digərinin hörüyünə bağlamışdır. Bu, kömək etməkdə, arxa durmaqda və digər işlərdə gözəl bir müqayisədir. Deyilir ki, الضَّفِر (ə-dəfir): qum təpəsidir. Əbu Übeydin kitabında hifz etdiyimiz isə əl-əqidə və əd-dəfirə (bərkimiş qum) deməkdir. Deyilir: كِنانةٌ ضَفِرةٌ (dəfirə oxatan oxdanı) — yəni doludur. Onun əsri, içindəki oxların bir-birinə qarışmasından, yəni toplanmasından irəli gəlir. Əd-dəfirə (əddəfirə) — əl-müsənnat deyilən şeydir və belə adlandırılması sanki bir şeyin toxuculuq və ya başqa üsulla bir-birinə birləşdirilməsi kimi hörüldüyünə görədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, mötərizədə latın qrafikalı oxunuş əlavə edilib.",
+  "«qandırmaq» sözü ərəbcə mətndə yoxdur (uydurma əlavədir).",
+  "«Əsri» sözündə hərf səhvi var (əsli olmalıdır).",
+  "Ərəbcə terminlərin yanında gərəksiz latın transliterasiyaları yazılıb."
+ ],
+ "review_ts": "2026-11-20T18:31:14.477Z"
 }

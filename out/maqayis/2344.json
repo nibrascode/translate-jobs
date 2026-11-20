@@ -13,5 +13,10 @@
  "ar": "الصاد والحاء والميم أصَيلٌ صحيح يدلُّ على لونٍ. فالأصْحَم:\nالأغبر إِلى السَّواد. وبلدةٌ صَحْماءُ: مغْبَرَّة. واصحامَّت البَقْلة: اخضارَّت. وإنَّما قيل لها ذاك لأنّها إذا رَوِيت فكأنها سوداء. ولذلك يقال: إدْهامَّتْ.",
  "az": "[صحم] «الصاد» (sad), «Hə» (ha) və «Mim» (mim) rəngə dəlalət edən səhih kiçik bir kökdür. «الأصْحَم» (əl-əshəm) — qaraya çalan tozlu rəngdir. «بلدةٌ صَحْماءُ» (tozlu-torpaqlı ölkə) — tozlanmış. «اصحامَّت البَقْلة» (tərəvəz göyərdi). Ona bu ad ona görə verilmişdir ki, suya doyduğu zaman sanki qara rəngdə görünür. Ona görə də deyilir: «إدْهامَّتْ» (tündləşdi/qaraldı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:02:54.142Z"
+ "ts": "2026-10-25T02:02:54.142Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T18:27:08.830Z"
 }

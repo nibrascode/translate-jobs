@@ -11,7 +11,16 @@
   "page_to": 271
  },
  "ar": "الشين والسين والفاء يدلُّ على قَحَل ويُبْس يقال للشئ القاحل شاسف، وقد شَسَف يشْسِف. ولحمٌ شسيفٌ: قد كاد يَيْبَس.",
- "az": "[شسف] (şin, sin və fa) quru və nütubətsiz olmağa dəlalət edir. Qurumuş şeyə شاسف (şasif) deyilir, شَسَف يشْسِف (şəsəfə yəşsifü) feili işlənir. Və لحمٌ شسيفٌ (ləhmün şəsifün) - qurumağa yaxınlaşmış ət.",
+ "az": "[شسف] (şin, sin və fa) arıqlayıb solmağa və rütubətsiz olmağa dəlalət edir. Qurumuş şeyə شَاسِفٌ (şasif) deyilir, شَسَفَ يَشْسِفُ (şəsəfə yəşsifu) feili işlənir. Və لَحْمٌ شَسِيفٌ (ləhmun şəsifun) – qurumağa yaxınlaşmış ət.",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:59:18.450Z"
+ "ts": "2026-10-25T01:59:18.450Z",
+ "prev_az": "[شسف] (şin, sin və fa) quru və nütubətsiz olmağa dəlalət edir. Qurumuş şeyə شاسف (şasif) deyilir, شَسَف يشْسِف (şəsəfə yəşsifü) feili işlənir. Və لحمٌ شسيفٌ (ləhmün şəsifün) - qurumağa yaxınlaşmış ət.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«nütubətsiz» sözündə imla səhvi var («rütubətsiz» olmalıdır)."
+ ],
+ "review_ts": "2026-11-20T18:04:29.588Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 355
  },
  "ar": "الضاد والغين ليس بشئ، ولا هو أصلاً يفرّع منه أو يقاس عليه، لكنَّهم يقولون: إنَّ الضَّغْضَغة: حكايةُ أكلِ الذئب اللحْم. وقال الخليل: الضَّغْضغة: لوك الدَّرداء. ويقولون: الضَّغَّاغة (٢): الأحمق. والضغيعة:\nالعجين * الرَّقيق. وأقاموا فى عيشٍ ضغيغٍ، أى خَصيب. وليس هذا كلُّه بشئٍ وإنْ ذُكِر.",
- "az": "[ضغ] (ض، غ) — Heç bir əsası yoxdur, nə ondan bir qol budaqlanır, nə də ona qiyas edilir. Lakin deyirlər ki, الضَّغْضغة (əz-dağdağa): qurdun əti yeməsinin səsini ifadə edir. Xəlil demişdir: الضَّغْضغة — dişsiz adamın çeynəməsidir. Deyirlər: الضَّغَّاغة (əz-dağğağa) — axmaq. Və الضغيعة (əz-dağiə) — nazik xəmir. Onlar zəngin və firavan həyatda yaşayırlar mənasında أقاموا فى عيشٍ ضغيغٍ işlədirlər. Hərçənd zikr olunmuşsa da, bunların heç biri əsaslı deyil.",
+ "az": "[ضغ] dad və ğayn heç bir mənası olmayan hərflərdir, nə ondan qol-budaq ayrılır, nə də ona qiyas olunur. Lakin deyirlər ki, الضَّغْضَغة — qurdun ət yeməsinin səsini təsvir etməkdir. Xəlil demişdir: الضَّغْضغة — dişsiz qadının yeməyi çeynəməsidir. Və deyirlər: الضَّغَّاغة (٢) — axmaqdır. Və الضغيعة — nazik xəmirdir. Və أقاموا فى عيشٍ ضغيغٍ — yəni firavan həyatda yaşadılar. Qeyd olunsa da, bunların heç biri əsaslı şey deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:02.777Z"
+ "ts": "2026-10-25T02:04:02.777Z",
+ "prev_az": "[ضغ] (ض، غ) — Heç bir əsası yoxdur, nə ondan bir qol budaqlanır, nə də ona qiyas edilir. Lakin deyirlər ki, الضَّغْضغة (əz-dağdağa): qurdun əti yeməsinin səsini ifadə edir. Xəlil demişdir: الضَّغْضغة — dişsiz adamın çeynəməsidir. Deyirlər: الضَّغَّاغة (əz-dağğağa) — axmaq. Və الضغيعة (əz-dağiə) — nazik xəmir. Onlar zəngin və firavan həyatda yaşayırlar mənasında أقاموا فى عيشٍ ضغيغٍ işlədirlər. Hərçənd zikr olunmuşsa da, bunların heç biri əsaslı deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərflərinin adları (\"(ض، غ)\") qaydaya uyğun verilməyib (\"dad və ğayn\")."
+ ],
+ "review_ts": "2026-11-20T18:29:07.907Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 367
  },
  "ar": "الضاد والفاء والطاء أُصَيل يقولون إنّه صحيح، وأصله الحُمق والجَفَاء. يقال للأحمق ضَفِيطٌ بيِّن الضَّفَاطة. ويقال الضَّفَّاط: الذى يُكْرِى الإبل. والضَّفَّاطة فيما يقال: الإبل تحمل المتاع. وأحسب أنّ البابَ كلَّه مما لا يعوَّل عليه.",
- "az": "[ضفط] (Dəfət): Zad, fa və ta hərfləri kiçik bir əsas olub, bunun səhih olduğunu, əslinin isə axmaqlıq və qabalığı bildirdiyini deyirlər. Axmağa açıq-aşkar axmaqlıq əlaməti ilə ضَفِيطٌ (dəfit) deyilir. Deyilir ki, الضَّفَّاط (əddəffat): dəvə icarəyə götürən şəxsdir. Əddəffatə (əddəffatə) isə deyilənlərə görə: yük daşıyan dəvələrdir. Güman edirəm ki, bu qapının tamamı etibar edilməyənlərdəndir.",
+ "az": "[ضفط] Dad, fa və ta hərfləri kiçik bir əsas olub, onun səhih olduğunu, əslinin isə axmaqlıq və qabalıq bildirdiyini deyirlər. Açıq-aşkar axmaq olan kəsə ضَفِيطٌ deyilir. Deyilir ki, الضَّفَّاط — dəvələri kirayəyə verən şəxsdir. Deyilənlərə görə الضَّفَّاطة isə yük daşıyan dəvələrdir. Güman edirəm ki, bu qapının hamısı etibar edilməyən sözlərdəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.136Z"
+ "ts": "2026-10-25T02:04:55.136Z",
+ "prev_az": "[ضفط] (Dəfət): Zad, fa və ta hərfləri kiçik bir əsas olub, bunun səhih olduğunu, əslinin isə axmaqlıq və qabalığı bildirdiyini deyirlər. Axmağa açıq-aşkar axmaqlıq əlaməti ilə ضَفِيطٌ (dəfit) deyilir. Deyilir ki, الضَّفَّاط (əddəffat): dəvə icarəyə götürən şəxsdir. Əddəffatə (əddəffatə) isə deyilənlərə görə: yük daşıyan dəvələrdir. Güman edirəm ki, bu qapının tamamı etibar edilməyənlərdəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, mötərizədə latın qrafikalı oxunuş əlavə edilib.",
+  "«يُكْرِى الإبل» ifadəsi «dəvə icarəyə götürən» kimi səhv tərcümə olunub (icarəyə verən olmalıdır)."
+ ],
+ "review_ts": "2026-11-20T18:31:14.477Z"
 }

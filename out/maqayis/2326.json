@@ -11,7 +11,17 @@
   "page_to": 324
  },
  "ar": "الصاد والياء والهمزة. يقال صيَّأت رأسى تصييئاً، إذا بَلَلْتَه.",
- "az": "«صيأ» (صاد، ياء və həmzə). «صيَّأت رأسى تصييئاً» (başını ıslatmaq) deməkdir, o zaman ki, onu isladırsan.",
+ "az": "[صيأ] (sad, ya və həmzə). Deyilir: صيَّأت رأسى تصييئاً – başı islatdığın zaman söylənilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:02:32.085Z"
+ "ts": "2026-10-25T02:02:32.085Z",
+ "prev_az": "«صيأ» (صاد، ياء və həmzə). «صيَّأت رأسى تصييئاً» (başını ıslatmaq) deməkdir, o zaman ki, onu isladırsan.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[صيأ]» formatında olmalıdır.",
+  "«ıslatmaq» sözündə hərf xətası var."
+ ],
+ "review_ts": "2026-11-20T18:26:00.839Z"
 }

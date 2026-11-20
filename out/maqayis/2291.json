@@ -13,5 +13,10 @@
  "ar": "الصاد والميم والجيم ليس بشئ، على أنَّهم يقولون:\nالصَّمَج: القناديل، الواحدة صَمَجة. وينشدون:\nوالنَّجم مثل الصَّمَج الرُّوميَّاتْ (٢)",
  "az": "[صمج] (sad, mim və cim) — əhəmiyyətli bir şey deyil, lakin deyirlər ki: «الصَّمَج» (səməc) — qəndillərdir (şamdanlar), təki «صَمَجَة» (səməcə) olur. Onlar bu beyti oxuyurlar:\nوَالنَّجْمُ مِثْلُ الصَّمَجِ الرُّومِيَّاتْ (٢)\n(Ulduz rumluların səməcləri kimidir)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:31.917Z"
+ "ts": "2026-10-25T02:01:31.917Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T18:22:54.793Z"
 }

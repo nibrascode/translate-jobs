@@ -11,7 +11,17 @@
   "page_to": 368
  },
  "ar": "الضاد والكاف والعين فيه كلمة لا قياسَ لها. يقال رجل ضَوْكَعةٌ، إذا كان كثيرَ اللَّحم ثقيلاً.",
- "az": "[ضكع] (Dəkə): Zad, kaf və eyn hərflərində heç bir qaydaya tabe olmayan bir kəlmə vardır. Deyilir: رجل ضَوْكَعةٌ (dəvkəc kişi) — əti çox və ağırkütləli olan şəxsə deyilir.",
+ "az": "[ضكع] Dad, kaf və eyn hərflərində heç bir qaydaya tabe olmayan bir kəlmə vardır. Deyilir: رجل ضَوْكَعةٌ — əti çox və ağır kütləli olan kişiyə deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.136Z"
+ "ts": "2026-10-25T02:04:55.136Z",
+ "prev_az": "[ضكع] (Dəkə): Zad, kaf və eyn hərflərində heç bir qaydaya tabe olmayan bir kəlmə vardır. Deyilir: رجل ضَوْكَعةٌ (dəvkəc kişi) — əti çox və ağırkütləli olan şəxsə deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, mötərizədə latın qrafikalı oxunuş əlavə edilib.",
+  "Ərəbcə termin latın transliterasiyası ilə yazılıb."
+ ],
+ "review_ts": "2026-11-20T18:31:14.477Z"
 }

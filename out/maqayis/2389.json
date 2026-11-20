@@ -11,7 +11,16 @@
   "page_to": 363
  },
  "ar": "الضاد والعين والسين ليس بشئ. وذكر اُبن دريد أنّهم يقولون للحريص النَّهم: ضَعْوَس (١).",
- "az": "[ضعس] «الضاد» (زاد), «العين» (eyn) və «السين» (sin) hərflərindən ibarət söz heç bir şey (kök məna) deyil. İbn Dürid zikr etmişdir ki, onlar həris və acgöz adama «ضَعْوَس» (zə'vəs) deyirlər (١).",
+ "az": "[ضعس] «الضاد» (dad), «العين» (ayn) və «السين» (sin) hərfləri heç bir kök əmələ gətirmir. İbn Dureyd zikr etmişdir ki, onlar həris və acgöz insana ضَعْوَس (da'vas) deyirlər (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:29.496Z"
+ "ts": "2026-10-25T02:04:29.496Z",
+ "prev_az": "[ضعس] «الضاد» (زاد), «العين» (eyn) və «السين» (sin) hərflərindən ibarət söz heç bir şey (kök məna) deyil. İbn Dürid zikr etmişdir ki, onlar həris və acgöz adama «ضَعْوَس» (zə'vəs) deyirlər (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ضاد» hərfinin adı səhvən «زاد», «عين» hərfinin adı «eyn» yazılmışdır"
+ ],
+ "review_ts": "2026-11-20T18:30:52.549Z"
 }

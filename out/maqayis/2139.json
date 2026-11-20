@@ -11,7 +11,17 @@
   "page_to": 228
  },
  "ar": "الشين والواو والصاد أصلٌ يدل على زعزعةِ شئٍ ودَلْكه من ذلك الشَّوْص، وهو التسوُّك بالسِّواك. و\nفى الحديث: «أنَّه كان يَشُوص فاه بالسِّواك». وقال امرؤ القيس:\nبأسوَدَ ملتفِّ الغدائر واردٍ … وذى أُشُرٍ تَشُوصه وتمُوصُ (٥)\nوالشّوْص: الدلْك، وقد يقال فى الثَّوْب أيضاً. ويقال شاص الشئ:\nإذا زعزَعَه. وأما الشَّوْصة فداءٌ يقال إنَّه يتعقَّد فى الأضلاع.",
- "az": "[شوص] (şus) — شين (şin), vav və صاد (sad) bir şeyin sarsılmasına və sürtülməsinə dəlalət edən bir əsasdır. Bunlardan biri də Şİvakla dişləri təmizləmək mənasını verən الشَّوْص (əş-şovs)dur. Hədisdə: «أنَّه كان يَشُوص فاه بالسِّواك» (O, ağzını sivakla təmizləyərdi). İmrülqeys demişdir:\nبأسوَدَ ملتفِّ الغدائر واردٍ … وذى أُشُرٍ تَشُوصه وتمُوصُ (5)\n(Hörükləri dolaşıq, bol sulu qara saçlı, dişlərinin ucları incə olan, onu təmizləyən və təmizləməyən...)\nŞovs – sürtməkdir, bu, paltar haqqında da deyilir. Deyilir ki, şasəş-şey: onu sarsıtdı. Şovşə gəldikdə isə, qabırğalarda əmələ gəldiyi söylənən bir xəstəlikdir.",
+ "az": "[شوص]\nالشين والواو والصاد (şin, vav və sad) bir şeyin tərpədilməsinə və sürtülməsinə dəlalət edən bir əsasdır. Bunlardan biri də misvakla dişləri təmizləmək mənasını verən «الشَّوْص»dur.\nHədisdə gəlmişdir: «أنَّه كان يَشُوص فاه بالسِّواك» (O, ağzını misvakla təmizləyərdi). İmrülqeys demişdir:\nبأسوَدَ ملتفِّ الغدائر واردٍ … وذى أُشُرٍ تَشُوصه وتمُوصُ (٥)\n(Hörükləri dolaşıq, belinə tökülən qara saçlı, ucları incə dişlərini təmizləyən və yaxalayan [qadın]...)\n«الشّوْص» — sürtməkdir, bu, paltar haqqında da deyilir. Deyilir: «شاص الشئ» — bir şeyi tərpətdikdə. «الشَّوْصة»yə gəldikdə isə, qabırğalarda düyünləndiyi söylənən bir xəstəlikdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:54:39.212Z"
+ "ts": "2026-10-25T01:54:39.212Z",
+ "prev_az": "[شوص] (şus) — شين (şin), vav və صاد (sad) bir şeyin sarsılmasına və sürtülməsinə dəlalət edən bir əsasdır. Bunlardan biri də Şİvakla dişləri təmizləmək mənasını verən الشَّوْص (əş-şovs)dur. Hədisdə: «أنَّه كان يَشُوص فاه بالسِّواك» (O, ağzını sivakla təmizləyərdi). İmrülqeys demişdir:\nبأسوَدَ ملتفِّ الغدائر واردٍ … وذى أُشُرٍ تَشُوصه وتمُوصُ (5)\n(Hörükləri dolaşıq, bol sulu qara saçlı, dişlərinin ucları incə olan, onu təmizləyən və təmizləməyən...)\nŞovs – sürtməkdir, bu, paltar haqqında da deyilir. Deyilir ki, şasəş-şey: onu sarsıtdı. Şovşə gəldikdə isə, qabırğalarda əmələ gəldiyi söylənən bir xəstəlikdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«تموص» felinin mənası «yumaq/yaxalamaq» olduğu halda, «təmizləməyən» kimi yanlış tərcümə edilmişdir.",
+  "Mətndə «Şİvakla» mexaniki hərf xətası var."
+ ],
+ "review_ts": "2026-11-20T17:11:30.530Z"
 }

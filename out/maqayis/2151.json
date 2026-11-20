@@ -11,7 +11,18 @@
   "page_to": 234
  },
  "ar": "الشين والياء والخاء كلمة واحدة، وهى الشَّيخ. تقول:\nهو شيخٌ، وهو معروف، بيِّن الشَّيخوخة (٢) والشَّيَخ والتّشييخ. وقد قالوا أيضاً كلمةً، قالوا: شَيَّخت عليه (٣).",
- "az": "[شيخ] (şix) — شين (şin), ياء (yə) və خاء (xa) tək bir kəlmədir, o da əş-şeyx (الشَّيخ) — qocadır. Deyirsən: «هو شيخٌ» (huə şeyxun), o tanınmışdır, şeyxuxət (الشَّيخوخة), şəyax (الشَّيَخ) və təşyixtən (التّشييخ) bəllidir. Həmçinin bir kəlmə də demişlər: «شَيَّخت عليه» (şəyyəxtə aleyh) (3).",
+ "az": "[شيخ]\nشين (şin), ياء (yə) və خاء (xa) tək bir kəlmədir, o da الشَّيخ (qoca) sözüdür. Deyirsən:\n«هو شيخٌ» (o, qocadır), o tanınmışdır, الشَّيخوخة (٢) (qocalığı), الشَّيَخ və التّشييخ (məsdərləri) açıq-aydındır. Həmçinin bir kəlmə də demişlər: «شَيَّخت عليه» (٣) (onu qınadım / ona ağsaqqallıq etdim).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:54:39.212Z"
+ "ts": "2026-10-25T01:54:39.212Z",
+ "prev_az": "[شيخ] (şix) — شين (şin), ياء (yə) və خاء (xa) tək bir kəlmədir, o da əş-şeyx (الشَّيخ) — qocadır. Deyirsən: «هو شيخٌ» (huə şeyxun), o tanınmışdır, şeyxuxət (الشَّيخوخة), şəyax (الشَّيَخ) və təşyixtən (التّشييخ) bəllidir. Həmçinin bir kəlmə də demişlər: «شَيَّخت عليه» (şəyyəxtə aleyh) (3).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«هو شيخٌ» və «شَيَّخت عليه» ifadələrinin Azərbaycan dilində mənası verilməmişdir.",
+  "«بيِّن الشَّيخوخة (٢) والشَّيَخ والتّشييخ» hissəsi yanlış tərcümə edilmiş və (٢) haşiyə rəqəmi buraxılmışdır.",
+  "Haşiyə rəqəmi (٣) latın rəqəmi ilə verilmişdir."
+ ],
+ "review_ts": "2026-11-20T17:26:20.645Z"
 }

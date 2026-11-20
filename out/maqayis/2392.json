@@ -11,7 +11,17 @@
   "page_to": 363
  },
  "ar": "الضاد والغين والباء ليس بأصل، بل هو بعضُ الأصوات.\nيقولون: إِنّ الضَّغيب تضوُّرُ الأرنب إِذا أُخِذَت؛ ومثله الضُّغَاب. والضَّاغب:\nالذى يختبئ فى الخَمَر يفزِّعُ النَّاس.",
- "az": "[ضغب] «الضاد» (زاد), «الغين» (ğin) və «الباء» (ba) hərfləri əsl deyil, əksinə səslərin bir növüdür.\nOnlar deyirlər ki: «الضَّغيب» (əz-zəğib) — dovşana əl uzadıldığı zaman onun çıxartdığı səslərdir; «الضُّغَاب» (əz-zuğab) da kimidir. «الضَّاغب» (əz-zağib) — camaatı qorxutmaq üçün sıx kolluqda gizlənən kəsdir.",
+ "az": "[ضغب] «الضاد» (dad), «الغين» (ğin) və «الباء» (ba) hərfləri əsl deyil, əksinə bəzi səslərdən ibarətdir.\nDeyirlər ki, «الضَّغيب» (əz-zəğib) — dovşan tutulduğu zaman fəryad etməsidir; «الضُّغَاب» (əz-zuğab) da onun kimidir. «الضَّاغب» (əz-zağib) — insanları qorxutmaq üçün kolluqda gizlənən kəsdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:29.496Z"
+ "ts": "2026-10-25T02:04:29.496Z",
+ "prev_az": "[ضغب] «الضاد» (زاد), «الغين» (ğin) və «الباء» (ba) hərfləri əsl deyil, əksinə səslərin bir növüdür.\nOnlar deyirlər ki: «الضَّغيب» (əz-zəğib) — dovşana əl uzadıldığı zaman onun çıxartdığı səslərdir; «الضُّغَاب» (əz-zuğab) da kimidir. «الضَّاغب» (əz-zağib) — camaatı qorxutmaq üçün sıx kolluqda gizlənən kəsdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı «زاد» (zad) yox, «dad» yazılmalıdır.",
+  "«تضوُّرُ الأرنب إِذا أُخِذَت» (dovşan tutulduğu zaman fəryad etməsi) ifadəsi «dovşana əl uzadıldığı zaman» kimi yanlış tərcümə olunub."
+ ],
+ "review_ts": "2026-11-20T18:30:34.707Z"
 }

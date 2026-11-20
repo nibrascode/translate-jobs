@@ -11,7 +11,17 @@
   "page_to": 252
  },
  "ar": "الشين والحاء والباء أصلٌ واحد يدلُّ على تغيُّر اللَّون، والمصدر منه الشُّحوب. يقال شَحَب وشَحُب يَشْحُب. ولونٌ شاحب. قال:\nتقولُ ابنتى لمَّا رأتنىَ شاحباً … كأنّك فينا يا أَباتَ غَرِيبُ (٣)\nويقال، حكاه الدريدى: شَجَتُ الأرضَ: قشرتُها. فإذا كانت الرواية صحيحةً فهو القياس.",
- "az": "[شحب] Şin, hə və ba hərfləri rəngin dəyişməsinə dəlalət edən tək bir kökdür, məsdəri isə «الشُّحوب»-dur. «شَحَب» və «شَحُب يَشْحُب» deyilir. Və «لونٌ شاحب» (solğun rəng). O demişdir: «تقولُ ابنتى لمَّا رأتنىَ شاحباً … كأنّك فينا يا أَباتَ غَرِيبُ» (Qızım məni solğun görüb dedi:",
+ "az": "[شحب] Şin, hə və ba hərfləri rəngin dəyişməsinə dəlalət edən tək bir kökdür, məsdəri isə «الشُّحوب»-dur. «شَحَب» və «شَحُب يَشْحُب» deyilir. Və «لونٌ شاحب» (solğun rəng). O demişdir:\nتقولُ ابنتى لمَّا رأتنىَ شاحباً … كأنّك فينا يا أَباتَ غَرِيبُ (٣)\n(Qızım məni solğun gördükdə dedi: Ey atacan, sanki sən aramızda bir qəribsən).\nVə deyilir — bunu əd-Dureydi nəql etmişdir: «شَجَتُ الأرضَ» (torpağı qazıdım) — onu soydum. Əgər bu rəvayət doğrudursa, o zaman qiyas budur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:55:46.218Z"
+ "ts": "2026-10-25T01:55:46.218Z",
+ "prev_az": "[شحب] Şin, hə və ba hərfləri rəngin dəyişməsinə dəlalət edən tək bir kökdür, məsdəri isə «الشُّحوب»-dur. «شَحَب» və «شَحُب يَشْحُب» deyilir. Və «لونٌ شاحب» (solğun rəng). O demişdir: «تقولُ ابنتى لمَّا رأتنىَ شاحباً … كأنّك فينا يا أَباتَ غَرِيبُ» (Qızım məni solğun görüb dedi:",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirin tərcüməsi yarımçıq kəsilmişdir.",
+  "Mətnin son cümləsi («ويقال، حكاه الدريدى...») tərcümə olunmayıb buraxılmışdır."
+ ],
+ "review_ts": "2026-11-20T18:01:18.488Z"
 }

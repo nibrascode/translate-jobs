@@ -11,7 +11,17 @@
   "page_to": 313
  },
  "ar": "الصاد والنون والعين أصلٌ صحيح واحد، وهو عملُ الشئ صُنْعاً. وامرأة صَنَاعٌ ورجلٌ صَنَعٌ، إذا كانا حاذقَين فيما يصنعانه. قال:\nخَرقاء بالخيرِ لا تَهْدِى لوِجْهَتِه … وهى صَنَاعُ الأذَى فى الأهل والجارِ\nوالصَّنِيعة: ما اصطنعتَه مِنْ خير. والتصنُّع: حُسن السَّمْت. وفرسٌ صَنِيعٌ:\nصَنَعَه أهلُه بحُسْن القِيام عليه. والمَصانع: ما يُصنَع من بئرٍ وغيرِها للسَّقى.\nومن الباب: المُصانَعة، وهى كالرِّشْوة.\nوممّا شذّ عن هذا الأصل الصِّنْع، يقال إِنّه السَّفُّود. وقال المَرّار (١):",
- "az": "«صنع» (Sad, nun və eyn) - tək və səhih bir kökdür, bir işi «صُنْعاً» (etmək, düzəltmək) mənasını bildirir. Qadın «صَنَاعٌ», kişi isə «صَنَعٌ» adlanır — bu, gördükləri işdə mahir və bacarıqlı olduqları zaman deyilir. Şair demişdir: Xeyir işlərdə bacarıqsızdır, onun yolunu bilməz... O, ailə və qonşu üçün şər işləri etməkdə mahirdir... «الصَّنِيعة» — gördüyün yaxşılıq. «التصنُّع» — gözəl görkəm və duruş. «فرسٌ صَنِيعٌ» — sahiblərinin ona yaxşı qulluq edərək bəslədikləri at. «المَصانع» — su içmək üçün quyudan və ya başqa şeydən düzəldilən yerlər. Bu fəsildəndir: «المُصانَعة» (rüşvətə bənzər şey). Bu kökdən istisna edilən «الصِّنْع» sözüdür, bunun kabab şişi (سَفُّود) olduğu deyilir. Mərrar demişdir (١):",
+ "az": "[صنع] (sad, nun və eyn) — bir şeyi «صُنْعاً» (etmək, düzəltmək) mənasına gələn tək səhih bir kökdür. Gördükləri işdə mahir olduqları zaman qadın «صَنَاعٌ», kişi isə «صَنَعٌ» adlanır. Şair demişdir:\nخَرقاء بالخيرِ لا تَهْدِى لوِجْهَتِه … وهى صَنَاعُ الأذَى فى الأهل والجارِ\n(O, xeyir işlərdə bacarıqsızdır, onun yolunu bilməz, lakin ailəyə və qonşuya əziyyət verməkdə mahirdir).\n«الصَّنِيعة» — etdiyin yaxşılıqdır. «التصنُّع» — gözəl görkəm və duruşdur. «فرسٌ صَنِيعٌ» — sahiblərinin yaxşı baxıb qulluq etdiyi atdır. «المَصانع» — suvarma üçün quyudan və başqa şeylərdən düzəldilən su yerləridir.\nBu fəsildəndir: «المُصانَعة» — rüşvət kimi bir şeydir.\nBu kökdən istisna olan isə «الصِّنْع» sözüdür, onun kabab şişi (السَّفُّود) olduğu söylənilir. Mərrar demişdir (١):",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:50.745Z"
+ "ts": "2026-10-25T02:01:50.745Z",
+ "prev_az": "«صنع» (Sad, nun və eyn) - tək və səhih bir kökdür, bir işi «صُنْعاً» (etmək, düzəltmək) mənasını bildirir. Qadın «صَنَاعٌ», kişi isə «صَنَعٌ» adlanır — bu, gördükləri işdə mahir və bacarıqlı olduqları zaman deyilir. Şair demişdir: Xeyir işlərdə bacarıqsızdır, onun yolunu bilməz... O, ailə və qonşu üçün şər işləri etməkdə mahirdir... «الصَّنِيعة» — gördüyün yaxşılıq. «التصنُّع» — gözəl görkəm və duruş. «فرسٌ صَنِيعٌ» — sahiblərinin ona yaxşı qulluq edərək bəslədikləri at. «المَصانع» — su içmək üçün quyudan və ya başqa şeydən düzəldilən yerlər. Bu fəsildəndir: «المُصانَعة» (rüşvətə bənzər şey). Bu kökdən istisna edilən «الصِّنْع» sözüdür, bunun kabab şişi (سَفُّود) olduğu deyilir. Mərrar demişdir (١):",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[صنع]» kimi olmalıdır.",
+  "Şeir beytinin ərəbcə mətni ixtisar edilmişdir."
+ ],
+ "review_ts": "2026-11-20T18:24:44.077Z"
 }

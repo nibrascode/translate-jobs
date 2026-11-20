@@ -11,7 +11,17 @@
   "page_to": 312
  },
  "ar": "الصاد والنون والدال أصلٌ صحيح، يدلُّ على عظم قدْر وعظم جِسْم. من ذلك الصِّندِيد، وهو السَّيِّد الشَّريف، والجمع صناديد. ويقال صناديد البَرْدِ: باباتٌ منه ضِخام. وغيثٌ صِنديدٌ: عظيم القَطْر ويقال للدَّواهِى الكبارِ صناديد. و\nيروى عن الحسن فى دعائه: «نَعوذُ بك من صناديد القَدَر».\nأى دواهِيه.",
- "az": "«صند» (Sad, nun və dal) - uca qədd-qamətə və böyük cisimə dəlalət edən səhih bir kökdür. Bunlardan biri «الصِّنديد» (ulu başçı, şərəfli ağa) sözüdür, cəmi «صناديد» gəlir. «صناديد البَرْدِ» dedikdə soyuğun şiddətli və qatı hissələri nəzərdə tutulur. «غيثٌ صِنديدٌ» - iridənəli, bol yağış. Böyük bəlalar üçün də «صناديد» işlədilir. Həsəndən rəvayət edilən duada belə gəlir: «نَعوذُ بك من صناديد القَدَر» (Qəsd edilən: Qədərin şiddətli bəlalarından Sənə sığınırıq).",
+ "az": "[صند] (sad, nun və dal) — nüfuzun böyüklüyünə və cismin böyüklüyünə dəlalət edən səhih bir kökdür. Bunlardan biri «الصِّندِيد» (şərəfli ağa, ulu başçı) sözüdür, cəmi «صناديد» gəlir. «صناديد البَرْدِ» dedikdə soyuğun böyük, şiddətli hissələri nəzərdə tutulur. «غيثٌ صِنديدٌ» — damcıları böyük olan bol yağış. Böyük bəlalar üçün də «صناديد» deyilir. Həsəndən duasında rəvayət olunur: «نَعوذُ بك من صناديد القَدَر» (Qədərin böyük bəlalarından Sənə sığınırıq), yəni onun dəhşətli bəlalarından.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:50.745Z"
+ "ts": "2026-10-25T02:01:50.745Z",
+ "prev_az": "«صند» (Sad, nun və dal) - uca qədd-qamətə və böyük cisimə dəlalət edən səhih bir kökdür. Bunlardan biri «الصِّنديد» (ulu başçı, şərəfli ağa) sözüdür, cəmi «صناديد» gəlir. «صناديد البَرْدِ» dedikdə soyuğun şiddətli və qatı hissələri nəzərdə tutulur. «غيثٌ صِنديدٌ» - iridənəli, bol yağış. Böyük bəlalar üçün də «صناديد» işlədilir. Həsəndən rəvayət edilən duada belə gəlir: «نَعوذُ بك من صناديد القَدَر» (Qəsd edilən: Qədərin şiddətli bəlalarından Sənə sığınırıq).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[صند]» kimi olmalıdır.",
+  "«عظم قدر» ifadəsi «uca qədd-qamət» kimi səhv tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-20T18:24:44.077Z"
 }

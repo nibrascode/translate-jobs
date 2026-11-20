@@ -11,7 +11,16 @@
   "page_to": 270
  },
  "ar": "شزغ الشين والزاء والغين ليس بشئ. ويقولون إنّ الشِّزْغ الضِّفدَع. وهذا ممّا لا معنَى له.",
- "az": "[شزغ] Şin, zay və ğey hərflərindən ibarət bu sözün heç bir əsası yoxdur. Deyirlər ki, الشِّزْغ (eş-şizğ) qurbağadır. Bu isə heç bir mənası olmayan şeylərdəndir.",
+ "az": "[شزغ] Şin, zay və ğayn hərflərindən ibarət bu kəlmənin heç bir əsası yoxdur. Deyirlər ki, الشِّزْغُ (eş-şizğ) qurbağadır. Bu isə heç bir mənası olmayan şeylərdəndir.",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:59:18.449Z"
+ "ts": "2026-10-25T01:59:18.449Z",
+ "prev_az": "[شزغ] Şin, zay və ğey hərflərindən ibarət bu sözün heç bir əsası yoxdur. Deyirlər ki, الشِّزْغ (eş-şizğ) qurbağadır. Bu isə heç bir mənası olmayan şeylərdəndir.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«غ» hərfinin adı qaydaya əsasən «ğayn» olmalıdır («ğey» yazılıb)."
+ ],
+ "review_ts": "2026-11-20T18:04:29.588Z"
 }

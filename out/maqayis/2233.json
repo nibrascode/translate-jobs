@@ -13,5 +13,10 @@
  "ar": "الشين والزاء والنون أصلٌ واحدٌ يدلُّ على امتدادٍ فى شئ.\nمن ذلك قولهم للأرض الغليظة شَزَنٌ (١). ويقولون: تَشَزَّنَ الشَّئ، إذ امتدَّ. فأمَّا قولهم نَزَل شُزَناً من الدار، أى ناحيةً، فهو قريبٌ من الذى ذكرناه. قال ابن أحمر:\nفلا يَرمين عَنْ شُزُنٍ حَزِيناَ (٢)\nويقولون إن الشَّزَنَ الإعياء من الحَفَا (٣)، وذلك ممّا يشتدُّ على الإنسان.",
  "az": "[شزن] (şin, zay və nun) bir şeydə uzanmağa dəlalət edən tək bir əsasdır. Bunlardan biri sərt, qabarar yer haqqında dedikləri شَزَنٌ (şəzən) sözüdür. Və deyirlər: تَشَزَّنَ الشَّئ (təşəzzənəş-şey) - şey uzandıqda. Evdən bir tərəfə, kənara düşdü mənasında işlətdikləri نَزَل شُزَناً من الدار (nəzələ şüzənən minəd-dar) ifadəsinə gəldikdə, bu, qeyd etdiyimizə yaxındır. İbn Əhmər demişdir: فلا يَرمين عَنْ شُزُنٍ حَزِيناَ (Qoy kənardan qəmli adama ox atmasın) (٢). Və deyirlər ki, Şəzən (الشَّزَن) - ayaqyalınlıqdan yaranan yorğunluqdur, bu da insana şiddətli dərəcədə əziyyət verir.",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:59:18.449Z"
+ "ts": "2026-10-25T01:59:18.449Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T18:04:29.588Z"
 }

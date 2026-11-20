@@ -13,5 +13,12 @@
  "ar": "الصاد والخاء والراء كلمةٌ صحيحة، وهى الصَّخْرة: الحَجَرةُ العظيمة. ويقال صَخْرَةٌ وصَخَرَة.",
  "az": "[صخر] «الصاد» (sad), «Xə» (xa) və «Ra» (ra) səhih bir kəlimədir, o da «الصَّخْرة» (əs-səxrə) — böyük daşdır. صَخْرَةٌ (səxrətün) və صَخَرَةٌ (səxarətün) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:02:54.142Z"
+ "ts": "2026-10-25T02:02:54.142Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümədə pozulmuş ərəb-latın simvolları var («səxarەتün»)."
+ ],
+ "review_ts": "2026-11-20T18:27:08.831Z"
 }

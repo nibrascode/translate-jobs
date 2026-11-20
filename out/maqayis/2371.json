@@ -11,7 +11,18 @@
   "page_to": 355
  },
  "ar": "الضاد والعين فى المضاعف أصلٌ واحدٌ صحيح، يدلُّ على الخضوع والضَّعْفِ. يقال تضعضع، إذا ذلَّ وخَضَع. قال أبو ذؤيب:\nوتجلُّدِى للشّامِتِين أرِيهِمُ … أَنِّى لرَيْبِ الدَّهرِ لا أَتضعضعُ (١)\nوكلُّ ضعيفٍ ضعْضاعٌ، إذا لم يكن ذا رأىٍ ولا قُوَّة.",
- "az": "[ضع] (ض، ع) — Müdaəf (qoşa hərfli) fellərdə düzgün bir əsas olub, təvazökarlığa və zəifliyə dəlalət edir. Deyilir: تضعضع (zəlil oldu, boyun əydi). Əbu Züeyb demişdir:\nوتجلُّدِى للشّامِتِين أرِيهِمُ … أَنِّى لرَيْبِ الدَّهرِ لا أَتضعضعُ (١)\n(Ləzzət alanlara səbrimi göstərirəm ki, zamanın bəlaları qarşısında əyilmirəm.)\nHər bir zəif şəxs ضعضاعٌ (zəif-tabesiz) adlanır, əgər onun nə rəyi, nə də qüvvəsi varsa.",
+ "az": "[ضع] dad və ayn ikilənmiş (mudaəf) kəlmələrdə itaətə və zəifliyə dəlalət edən bir səhih əsasdır. Deyilir: تضعضع (zəlil oldu və boyun əydi). Əbu Zueyb demişdir:\nوتجلُّدِى للشّامِتِين أرِيهِمُ … أَنِّى لرَيْبِ الدَّهرِ لا أَتضعضعُ (١)\n(Bədxahlara dözümümü göstərirəm ki, zəmanənin bəlaları qarşısında sarsılmadığımı görsünlər.)\nNə rəyi, nə də qüvvəsi olmayan hər bir zəif şəxs ضعضاعٌ adlanır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:02.777Z"
+ "ts": "2026-10-25T02:04:02.777Z",
+ "prev_az": "[ضع] (ض، ع) — Müdaəf (qoşa hərfli) fellərdə düzgün bir əsas olub, təvazökarlığa və zəifliyə dəlalət edir. Deyilir: تضعضع (zəlil oldu, boyun əydi). Əbu Züeyb demişdir:\nوتجلُّدِى للشّامِتِين أرِيهِمُ … أَنِّى لرَيْبِ الدَّهرِ لا أَتضعضعُ (١)\n(Ləzzət alanlara səbrimi göstərirəm ki, zamanın bəlaları qarşısında əyilmirəm.)\nHər bir zəif şəxs ضعضاعٌ (zəif-tabesiz) adlanır, əgər onun nə rəyi, nə də qüvvəsi varsa.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərflərinin adları (\"(ض، ع)\") qaydaya uyğun verilməyib (\"dad və ayn\").",
+  "Şeirdə «الشامتين» (bədxahlar) sözü «ləzzət alanlar» kimi yanlış tərcümə olunub.",
+  "Cümlənin mənası tərsinə çevrilib: «إذا لم يكن» ifadəsi «varsa» kimi yox, «yoxdursa» kimi tərcümə edilməlidir."
+ ],
+ "review_ts": "2026-11-20T18:29:07.907Z"
 }

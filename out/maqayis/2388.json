@@ -11,7 +11,17 @@
   "page_to": 362
  },
  "ar": "الضاد والعين والواو كلمةٌ واحدة، وهى الضَّعة: شجرة، حُذفت واوُها؛ والجمع ضَعَوات. قال:\nمتّخِذاً فى ضَعَواتِ تَوْلجا (٢)",
- "az": "[ضعو] «الضاد» (زاد), «العين» (eyn) və «الواو» (vav) hərflərindən ibarət tək bir kəlmədir: o da «الضَّعَة» (əz-zəhə) — vav hərfi düşmüş bir ağacdır; cəmi «ضَعَوات» (zəhəvat) gəlir. O demişdir:\nمتّخِذاً فى ضَعَواتِ تَوْلجا (٢)\n(Zəhəvat ağacları arasında gizlənmə yeri edinərək).",
+ "az": "[ضعو] «الضاد» (dad), «العين» (ayn) və «الواو» (vav) hərflərindən ibarət tək bir kəlmədir: o da الضَّعة (əd-da'a) — «vav» hərfi düşmüş bir ağac adıdır; cəmi ضَعَوات (da'avət) gəlir. Şair demişdir:\nمتّخِذاً فى ضَعَواتِ تَوْلجا (٢)\n(Da'avət ağaclarının arasında bir sığınacaq düzəldərək).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:29.496Z"
+ "ts": "2026-10-25T02:04:29.496Z",
+ "prev_az": "[ضعو] «الضاد» (زاد), «العين» (eyn) və «الواو» (vav) hərflərindən ibarət tək bir kəlmədir: o da «الضَّعَة» (əz-zəhə) — vav hərfi düşmüş bir ağacdır; cəmi «ضَعَوات» (zəhəvat) gəlir. O demişdir:\nمتّخِذاً فى ضَعَواتِ تَوْلجا (٢)\n(Zəhəvat ağacları arasında gizlənmə yeri edinərək).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ضاد» hərfinin adı səhvən «زاد», «عين» hərfinin adı «eyn» yazılmışdır",
+  "Sözlərin transliterasiyası təhrif olunmuşdur"
+ ],
+ "review_ts": "2026-11-20T18:30:52.549Z"
 }

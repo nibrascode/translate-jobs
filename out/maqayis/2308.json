@@ -11,7 +11,16 @@
   "page_to": 314
  },
  "ar": "الصاد والهاء والحرف المعتلّ أُصَيْلٌ يدلُّ على علوّ. من ذلك الصَّهْوة، وهو مَقعد الفارس مِنْ ظَهْر الفَرَس. والصَّهَوات: أعالى الرَّوَابِى، ربما اتُّخِذَت فوقها بُرُوج، الواحدة صَهْوَة. وقال الشيبانى: الصِّهاء: مناقع الماء الواحد صهوة. وهذا وإن كان صحيحاً فإنّ القياسَ أن يكون مناقِعَ فى أماكنَ عالية.\nومن الباب أن يصيب الإنسان جُرْجٌ ثم يَنْدَى دائماً، فيقال صَهِىَ يَصْهَى، وهو ذلك القياس؛ لأنّه ندًى يعلو الجُرح.",
- "az": "«صهو» (Sad, hə və zəif hərf) - ucalığa dəlalət edən kiçik bir kökdür. Bunlardan biri «الصَّهْوة» (at üstündə olan şəxsin oturduğu yer, yəni yəhərin yeri) sözüdür. «الصَّهَوات» — təpələrin uca yerləridir, bəzən onların üzərində bürclər tikilir, təkli isə «صَهْوَة»-dır. Şeybani demişdir: «الصِّهاء» — su yığılan yerlərdir, təkli صهوة-dır. Bu, səhih olsa belə, qayda ondadır ki, o, uca yerlərdə olan su yığıntıları olsun. Bu fəsildəndir: İnsana bir yara dəyər və o daim nəm qalar, belə olduqda «صَهِىَ يَصْهَى» deyilir, bu da həmin qaydadandır; çünki bu, yaranın üzərini örtən nəmdir.",
+ "az": "[صهو] (sad, hə və zəif hərf) — ucalığa dəlalət edən kiçik bir kökdür. Bunlardan biri «الصَّهْوة» — atlının atın belində oturduğu yerdir. «الصَّهَوات» — təpələrin uca yerləridir, bəzən onların üzərində bürclər tikilir, tək forması «صَهْوَة»-dır. Şeybani demişdir: «الصِّهاء» — su yığılan yerlərdir, təkli «صهوة»-dır. Bu, səhih olsa belə, qiyas (qayda) tələb edir ki, uca yerlərdə olan su yığıntıları olsun.\nBu fəsildəndir: insana yara dəyər və o daim nəm qalar, belə olduqda «صَهِىَ يَصْهَى» deyilir, bu da həmin qiyasdandır; çünki o, yaranın üzərində olan nəmdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:50.745Z"
+ "ts": "2026-10-25T02:01:50.745Z",
+ "prev_az": "«صهو» (Sad, hə və zəif hərf) - ucalığa dəlalət edən kiçik bir kökdür. Bunlardan biri «الصَّهْوة» (at üstündə olan şəxsin oturduğu yer, yəni yəhərin yeri) sözüdür. «الصَّهَوات» — təpələrin uca yerləridir, bəzən onların üzərində bürclər tikilir, təkli isə «صَهْوَة»-dır. Şeybani demişdir: «الصِّهاء» — su yığılan yerlərdir, təkli صهوة-dır. Bu, səhih olsa belə, qayda ondadır ki, o, uca yerlərdə olan su yığıntıları olsun. Bu fəsildəndir: İnsana bir yara dəyər və o daim nəm qalar, belə olduqda «صَهِىَ يَصْهَى» deyilir, bu da həmin qaydadandır; çünki bu, yaranın üzərini örtən nəmdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[صهو]» kimi olmalıdır."
+ ],
+ "review_ts": "2026-11-20T18:24:44.078Z"
 }

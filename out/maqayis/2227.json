@@ -13,5 +13,10 @@
  "ar": "الشين والراء والثاء أصلٌ واحد، وهو الشَّرَث، وهو غِلظ الأصابع والكفّيْن.",
  "az": "[شرث] (şin, ra və sə) tək bir əsasdır, o da الشَّرَث (eş-şərəth) olub, barmaqların və ovucun qalınlığıdır.",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:59:18.449Z"
+ "ts": "2026-10-25T01:59:18.449Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T18:03:02.781Z"
 }

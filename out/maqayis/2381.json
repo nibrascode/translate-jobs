@@ -11,7 +11,18 @@
   "page_to": 359
  },
  "ar": "الضاد والحاء أصلٌ صحيح يدلُّ على رقَّةِ شئٍ بعينه. من ذلك الضَّحضاح: الماء إلى الكَعبَين، سمِّى بذلك لرقّته. والضَّحضحة: تَرقرُقُ السَّراب. ومنه الضِّحّ، وهو ضَوء الشّمس إِذا استمكَنَ من الأرض. وكان أبنُ الأعرابىِّ يقول: هو لون الشَّمس. ويقولون: جاء فلانٌ بالضِّحِّ والرِّيح، يُراد به الكَثْرة، أى ما طلَعت عليه الشَّمس وما جرَت عليه الرِّيح. قال:\nولا يقال [الضِّيح (٦)].",
- "az": "[ضح] (ض، ح) — Məxsusi olaraq bir şeyin incəliyinə və şəffaflığına dəlalət edən səhih bir əsasdır. Bunlardan الضَّحضاح (əz-dəhdah) — topuq səviyyəsinə qədər olan sudur, incəliyinə görə belə adlanmışdır. Və الضَّحضحة (əz-dəhdəhə) — sərabın parıldamasıdır. Və buradan الضِّحّ (əz-zih) — yer üzünü bürüyən günəş işığıdır. İbn əl-Ərəbi deyərdi: O, günəşin rəngidir. Deyirlər: جاء فلانٌ بالضِّحِّ والرِّيح (Filankəs günəşin çıxdığı və küləyin əsdiyi hər şeyi, yəni çoxluq gətirdi). Şair demişdir:\nولا يقال [الضِّيح (٦)] (Və [əz-zih] deyilməz).",
+ "az": "[ضح] «الضاد» (dad) və «الحاء» (ha) hərfləri müəyyən bir şeyin incəliyinə dəlalət edən səhih bir kökdür. Bunlardandır: الضَّحضاح (əz-dahdah) — topuqlara qədər olan sudur, incəliyinə görə belə adlandırılmışdır. الضَّحضحة (əz-dahdahə) — sərabın parıldamasıdır. Buradandır: الضِّحّ (əz-dihh) — yer üzündə bərqərar olduqda günəş işığıdır. İbn əl-Ərəbi deyərdi: O, günəşin rəngidir. Deyirlər: جاء فلانٌ بالضِّحِّ والرِّيح (Filankəs günəş işığı və küləklə gəldi) — bununla çoxluq, yəni üzərinə günəşin doğduğu və küləyin əsdiyi hər şey nəzərdə tutulur. Dedi:\nولا يقال [الضِّيح (٦)] (Və «əz-ziyh» deyilməz).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:02.778Z"
+ "ts": "2026-10-25T02:04:02.778Z",
+ "prev_az": "[ضح] (ض، ح) — Məxsusi olaraq bir şeyin incəliyinə və şəffaflığına dəlalət edən səhih bir əsasdır. Bunlardan الضَّحضاح (əz-dəhdah) — topuq səviyyəsinə qədər olan sudur, incəliyinə görə belə adlanmışdır. Və الضَّحضحة (əz-dəhdəhə) — sərabın parıldamasıdır. Və buradan الضِّحّ (əz-zih) — yer üzünü bürüyən günəş işığıdır. İbn əl-Ərəbi deyərdi: O, günəşin rəngidir. Deyirlər: جاء فلانٌ بالضِّحِّ والرِّيح (Filankəs günəşin çıxdığı və küləyin əsdiyi hər şeyi, yəni çoxluq gətirdi). Şair demişdir:\nولا يقال [الضِّيح (٦)] (Və [əz-zih] deyilməz).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları buraxılmışdır",
+  "AR mətndə «قال:» olduğu halda «Şair demişdir:» əlavə edilmişdir",
+  "Sitat oxunuşu və tərcüməsində təhrif vardır"
+ ],
+ "review_ts": "2026-11-20T18:30:52.548Z"
 }

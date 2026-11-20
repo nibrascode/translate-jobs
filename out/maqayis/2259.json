@@ -11,7 +11,18 @@
   "page_to": 287
  },
  "ar": "الصاد والعين والباء أصلٌ صحيح مطَّرد، يدلُّ على خِلاف السهولة. من ذلك الأمر الصَّعْب: خلاف الذَّلول. يقال صُعبَ يصعُب صُعوبةً.\nويقال أصعَبْتُ الأمر: ألفَيتُه صعباً.\nومن الباب المُصعَب، وهو الفَحل؛ وسمِّى بذلك لقُوَّته وشدّته. ويقال أصْعَبنا الجمل، إذا تركناه فلم نركبْه. وذُكر أنَّهم يقولون: أصعبْتُ النّاقة، إذا تركتَها فلم تَحمِل عليها. وهذه استعارة. وفى الرَّمْل مَصاعِبُ.",
- "az": "[صعب] الصاد والعين والباء أصلٌ صحيح مطَّرد، يدلُّ على خِلاف السهولة (الصاد, əyn və ba hərfləri asanlığın ziddinə dəlalət edən səhih, mütərrəd bir əsasdır). من ذلك الأمر الصَّعْب: خلاف الذَّلول (Ondandır çətin iş: ram olanın ziddi). يقال صُعبَ يصعُب صُعوبةً (Deyilir suuba - yasubu - suubətən). ويقال أصعَبْتُ الأمر: ألفَيتُه صعباً (Və deyilir: əs'əbtul-əmr: işi çətin tapdım). ومن الباب المُصعَب، وهو الفَحل؛ وسمِّى بذلك لقُوَّته وشدّته (Və bu fəsildəndir əl-mus'ab, o da erkək dəvədir; gücünə və şiddətinə görə belə adlandırılmışdır). ويقال أصْعَبنا الجمل، إذا تركناه فلم نركبْه (Və deyilir: dəvəni tərk etdiyimiz və ona minmədiyimiz zaman əs'əbnəl-cəmələ deyirik). وذُكر أنَّهم يقولون: أصعبْتُ النّاقة، إذا تركتَها فلم تَحمِل عليها (Və zikr edilmişdir ki, onlar deyirlər: dəvəni tərk etdiyin və ona yük vurmadığın zaman əs'əbtun-naqətə deyirsən). وهذه استعارة (Bu isə məcazdır). وفى الرَّمْل مَصاعِبُ (Qumda isə məsasib - çətin yerlər vardır).",
+ "az": "[صعب]\nSad, ayn və ba hərfləri asanlığın əksinə dəlalət edən səhih, mütərrid bir kökdür. Bunlardan biri الأمر الصَّعْب (çətin iş) ifadəsidir ki, الذَّلول (ram olanın) əksidir. Deyilir: صُعُبَ يَصْعُبُ صُعُوبَةً (çətinləşdi, çətinləşir, çətinlik).\nDeyilir: أصْعَبْتُ الأَمْرَ (işi çətin tapdım/gördüm).\nBu babdandır: المُصْعَب (ram edilməmiş erkək dəvə); gücünə və şiddətinə görə belə adlandırılmışdır. Deyilir: أصْعَبْنَا الجَمَلَ (Dəvəni ram etməyib minmədikdə belə deyilir). Qeyd olunmuşdur ki, onlar: أصعبْتُ النّاقة (dişi dəvəni ram etməyib yük vurmadıqda) deyirlər. Bu isə istiarədir (məcazdır). Qumluqda مَصاعِبُ (keçilməsi çətin yerlər) olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:00:03.201Z"
+ "ts": "2026-10-25T02:00:03.201Z",
+ "prev_az": "[صعب] الصاد والعين والباء أصلٌ صحيح مطَّرد، يدلُّ على خِلاف السهولة (الصاد, əyn və ba hərfləri asanlığın ziddinə dəlalət edən səhih, mütərrəd bir əsasdır). من ذلك الأمر الصَّعْب: خلاف الذَّلول (Ondandır çətin iş: ram olanın ziddi). يقال صُعبَ يصعُب صُعوبةً (Deyilir suuba - yasubu - suubətən). ويقال أصعَبْتُ الأمر: ألفَيتُه صعباً (Və deyilir: əs'əbtul-əmr: işi çətin tapdım). ومن الباب المُصعَب، وهو الفَحل؛ وسمِّى بذلك لقُوَّته وشدّته (Və bu fəsildəndir əl-mus'ab, o da erkək dəvədir; gücünə və şiddətinə görə belə adlandırılmışdır). ويقال أصْعَبنا الجمل، إذا تركناه فلم نركبْه (Və deyilir: dəvəni tərk etdiyimiz və ona minmədiyimiz zaman əs'əbnəl-cəmələ deyirik). وذُكر أنَّهم يقولون: أصعبْتُ النّاقة، إذا تركتَها فلم تَحمِل عليها (Və zikr edilmişdir ki, onlar deyirlər: dəvəni tərk etdiyin və ona yük vurmadığın zaman əs'əbtun-naqətə deyirsən). وهذه استعارة (Bu isə məcazdır). وفى الرَّمْل مَصاعِبُ (Qumda isə məsasib - çətin yerlər vardır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları düzgün yazılmayıb (Sad, ayn əvəzinə الصاد, əyn).",
+  "Ərəbcə sözlər və çəkimlər transliterasiya olunub, ərəb qrafikası ilə saxlanılmayıb.",
+  "Abzas bölgüsü (sətir sonu \\n) nəzərə alınmayıb."
+ ],
+ "review_ts": "2026-11-20T18:18:15.659Z"
 }

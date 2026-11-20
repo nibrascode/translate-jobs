@@ -11,7 +11,17 @@
   "page_to": 243
  },
  "ar": "الشين والباء والهاء أصلٌ واحدٌ يدلُّ على تشابُه الشّئ وتشاكُلِه لوناً ووَصْفا. يقال شِبْه وشَبَه وشَبيه. والشّبَهُ (١) من الجواهر:\nالذى يشبه الذّهَب. والمُشَبِّهَات (٢) من الأمور: المشكلات. واشتبه الأمرانِ، إذا أشْكَلَا.\nومما شذ عن ذلِكَ الشّبَهَانُ (٣).",
- "az": "«شبه» (şəbəh). Şin, ba və ha hərfləri rəng və vəsif baxımından bir şeyin digərinə bənzəməsinə və uyğun gəlməsinə dəlalət edən tək bir kökdür. Şِبْه (şibh), شَبَه (şəbəh) və شَبيه (şəbih) deyilir. Şَّبَهُ (əş-şəbəh) — qızılın bənzəri olan cövhərdir (tunc, bürünc). İşlərdən المُشَبِّهَات (əş-muşəbbihat) — müşkül (çətin) məsələlərdir. İki iş bir-birinə qarışdıqda: اشتبه الأمرانِ (iştəbəhəl-əmran) — qarışdı (müşkül oldu) deyilər. Bundan istisna olunan söz Şَّبَهَانُ (əş-şəbəhan) (٣) sözüdür.",
+ "az": "[شبه]\nŞin, ba və ha hərfləri rəng və vəsf baxımından bir şeyin digərinə bənzəməsinə və uyğun gəlməsinə dəlalət edən tək bir kökdür. «شِبْه» (şibh), «شَبَه» (şəbəh) və «شَبيه» (şəbih) deyilir. «الشّبَهُ» (١) (əş-şəbəh) — qızıla bənzəyən cövhərdir (tunc, bürünc).\nİşlərdən «المُشَبِّهَات» (٢) (əl-müşəbbihat) — müşkül (çətin, qaranlıq) məsələlərdir. İki iş bir-birinə qarışdıqda «اشتبه الأمرانِ» (iki iş qarışdı/müşkül oldu) deyilir.\nBundan istisna olunan söz «الشّبَهَانُ» (٣) (əş-şəbəhan) sözüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:55:28.156Z"
+ "ts": "2026-10-25T01:55:28.156Z",
+ "prev_az": "«شبه» (şəbəh). Şin, ba və ha hərfləri rəng və vəsif baxımından bir şeyin digərinə bənzəməsinə və uyğun gəlməsinə dəlalət edən tək bir kökdür. Şِبْه (şibh), شَبَه (şəbəh) və شَبيه (şəbih) deyilir. Şَّبَهُ (əş-şəbəh) — qızılın bənzəri olan cövhərdir (tunc, bürünc). İşlərdən المُشَبِّهَات (əş-muşəbbihat) — müşkül (çətin) məsələlərdir. İki iş bir-birinə qarışdıqda: اشتبه الأمرانِ (iştəbəhəl-əmran) — qarışdı (müşkül oldu) deyilər. Bundan istisna olunan söz Şَّبَهَانُ (əş-şəbəhan) (٣) sözüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[شبه]» formatı ilə başlamalıdır.",
+  "Mətndə orfoqrafik səhv («vəsif»), səhv oxunuş («əş-muşəbbihat») və ərəb-latın hərflərinin qarışması («Şَّبَهُ», «Şَّبَهَانُ») var."
+ ],
+ "review_ts": "2026-11-20T17:34:21.116Z"
 }

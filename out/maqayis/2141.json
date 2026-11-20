@@ -11,7 +11,16 @@
   "page_to": 228
  },
  "ar": "الشين والواو والظاء كلمة واحدة صحيحة، فالشُّوَاظ:\nشُواظ اللّهب من النار لا دخانَ معه. قال تعالى: ﴿شُواظٌ مِنْ نارٍ﴾.",
- "az": "[شوظ] (şovz) — شين (şin), vav və ظاء (za) tək və səhih bir kəlmədir. الشُّوَاç (əş-şuvaz): oddan çıxan, tüstüsü olmayan alov dilimidir. Uca Allah buyurmuşdur: ﴿شُواظٌ مِنْ نارٍ﴾ (mənaca tərcümə: Odun şuvazı/alov dilimi).",
+ "az": "[شوظ]\nالشين والواو والظاء (şin, vav və za) tək və səhih bir kəlmədir. «الشُّوَاظ» — oddan çıxan tüstüsüz alov dilimidir. Uca Allah buyurmuşdur: ﴿شُواظٌ مِنْ نارٍ﴾ (mənaca tərcümə: Odun tüstüsüz alov dilimi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:54:39.212Z"
+ "ts": "2026-10-25T01:54:39.212Z",
+ "prev_az": "[شوظ] (şovz) — شين (şin), vav və ظاء (za) tək və səhih bir kəlmədir. الشُّوَاç (əş-şuvaz): oddan çıxan, tüstüsü olmayan alov dilimidir. Uca Allah buyurmuşdur: ﴿شُواظٌ مِنْ نارٍ﴾ (mənaca tərcümə: Odun şuvazı/alov dilimi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الشُّوَاç» sözündə hərf xətası var."
+ ],
+ "review_ts": "2026-11-20T17:11:30.530Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الصاد والميم والغين كلمةٌ واحدة، هى الصَّمغ (٣).",
  "az": "[صمغ] (sad, mim və ğeyn) — tək bir kəlmədir, o da «الصَّمغ» (səmğ - saqqız/qətran) sözüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:31.917Z"
+ "ts": "2026-10-25T02:01:31.917Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T18:22:54.793Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الشين والنون والفاء كلمتان متباينتان: أحدهما الشَّنْف، وهو من حَلْى الأذُن. والكلمة الأخرى: الشَّنَف: البُغض. يقال شَنِف له يَشْنَف شنَفاً.",
  "az": "[شنف] \nالشين والنون والفاء (şin, nun və fa) bir-birindən fərqli iki kəlmədir: Biri «الشَّنْف»-dür, o da qulaq bəzəyidir (sırğa). Digər kəlmə isə: «الشَّنَف» — nifrət, ikrah. Deyilir: «شَنِف له يَشْنَف شنَفاً» — ona nifrət etdi, nifrət edir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:52:58.865Z"
+ "ts": "2026-10-25T01:52:58.865Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T17:11:30.529Z"
 }

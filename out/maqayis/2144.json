@@ -11,7 +11,17 @@
   "page_to": 229
  },
  "ar": "الشين والواو والقاف يدلُّ على تعلُّق الشّئ بالشئ، يقال شُقتُ الطُّنُب، أى الوتِد، واسم ذلك الخيط الشِّيَاق. والشَّوْق مثل النَّوط، ثم اشتقّ من ذلك الشّوق، وهو نزاعُ النَّفْس إلى الشئ. ويقال شاقَنِى بَشُوقُنى، وذلك لا يكون إِلاّ * عن عَلَق حُبّ.",
- "az": "[شوق] (şuq) — شين (şin), vav və قاف (qaf) bir şeyin digər bir şeyə bağlanmasına dəlalət edir. «شُقتُ الطُّنُب» (şuqtuş-tunub) — çadır ipini, yəni payasını bağladım, deyilir. Həmin ipin adı الشِّيَاق (əş-şiyaq)dır. Şövq də novt kimidir, sonradan bundan nəfəsin bir şeyə meyil etməsi mənası olan «الشَّوْق» (əş-şövq) sözü əmələ gəlmişdir. Deyilir: «شاقَنِى بَشُوقُنى» (şaqəni bəşuqəni), bu da ancaq sevgi bağı olduqda baş verir.",
+ "az": "[شوق] — شين (şin), vav və قاف (qaf) bir şeyin digər bir şeyə bağlanmasına dəlalət edir. Deyilir: شُقتُ الطُّنُب، أى الوتِد (çadır ipini, yəni payanı bağladım). Həmin ipin adı الشِّياق (əş-şiyaq)dır. Şövq də novt (bağlamaq, asmaq) kimidir, sonradan bundan nəfsin bir şeyə meyil etməsi mənası olan الشَّوْق (əş-şövq) sözü törəmişdir. Deyilir: شاقَنِى بَشُوقُنى (məni şövqləndirdi, şövqləndirir), bu da ancaq sevgi bağı olduqda baş verir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:54:39.212Z"
+ "ts": "2026-10-25T01:54:39.212Z",
+ "prev_az": "[شوق] (şuq) — شين (şin), vav və قاف (qaf) bir şeyin digər bir şeyə bağlanmasına dəlalət edir. «شُقتُ الطُّنُب» (şuqtuş-tunub) — çadır ipini, yəni payasını bağladım, deyilir. Həmin ipin adı الشِّيَاق (əş-şiyaq)dır. Şövq də novt kimidir, sonradan bundan nəfəsin bir şeyə meyil etməsi mənası olan «الشَّوْق» (əş-şövq) sözü əmələ gəlmişdir. Deyilir: «شاقَنِى بَشُوقُنى» (şaqəni bəşuqəni), bu da ancaq sevgi bağı olduqda baş verir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«nəfəsin» sözündə mənaya xələl gətirən hərf səhvi gedib («nəfsin» olmalıdır).",
+  "«شُقتُ الطُّنُب، أى الوتِد» cümləsində ip və paya anlayışlarının izahı dəqiqləşdirilməlidir."
+ ],
+ "review_ts": "2026-11-20T17:30:04.252Z"
 }

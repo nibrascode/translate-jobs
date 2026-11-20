@@ -13,5 +13,10 @@
  "ar": "الشين * والدال والحرف المعتلّ أصيلٌ يدلُّ على أخْذٍ بطَرَف من عِلم. من ذلك الشَّدْو، أنْ يحسِن الإِنسانُ من العلم أو غيره شيئاً. يقال يَشْدُو شيئاً من عِلْم. وقال بعضهم: كلُّ مَنْ عَلِم شيئاً واستدلَّ ببعضه على بعض فذلك الشَّدْو.",
  "az": "«شدو» (şədə). Şin, dal və zəif hərf köklü kiçik bir əsas olub, elmdən bir pay/hissə almağa dəlalət edir. Bunlardandır: «الشَّدْوُ» (əş-şədvu) – insanın elmdən və ya başqa bir şeydən müəyyən bir qədər bilməsi, gözəl bilməsi. Deyilir: «يَشْدُو شيئاً من عِلْم» (elmdən bir şey bilir). Bəziləri demişdirlər: Hər kəs ki bir şeyi bilər və onun bir hissəsi ilə digərinə dəlil gətirərsə, məhz o «əş-şədvu» budur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:56:06.964Z"
+ "ts": "2026-10-25T01:56:06.964Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T18:01:19.828Z"
 }

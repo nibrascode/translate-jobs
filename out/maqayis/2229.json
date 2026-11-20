@@ -11,7 +11,16 @@
   "page_to": 269
  },
  "ar": "الشين والراء والحاء أُصَيْلٌ يدلُّ على الفتح والبيان. من ذلك شرحت الكلام وغيرَه شَرْحاً، إذا بيَّنتَه. واشتقاقُه من تشريح اللحم.",
- "az": "[شرح] (şin, ra və ha) açılma və açıqlamaya dəlalət edən kiçik bir əsasdır. Bunlardan biri şərk etmək mənasında olan sözü və başqasını açıqladığın zaman işlədilən شرحت الكلام وغيرَه شَرْحاً (şərəhtül-kəlame və ğeyrahü şərhan) sözüdür. Bunun kökü ətin dilimlənib açılmasından (تشريح اللحم) götürülmüşdür.",
+ "az": "[شرح] (şin, ra və ha) açılma və açıqlamaya dəlalət edən kiçik bir əsasdır. Bunlardan biri sözü və başqa şeyi bəyan etdiyin (açıqladığın) zaman işlədilən شَرَحْتُ الكَلاَمَ وَغَيْرَهُ شَرْحاً (şərəhtül-kəlame və ğeyrahü şərhan) sözüdür. Bunun kökü ətin dilimlənib açılmasından (تشريح اللحم) götürülmüşdür.",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:59:18.449Z"
+ "ts": "2026-10-25T01:59:18.449Z",
+ "prev_az": "[شرح] (şin, ra və ha) açılma və açıqlamaya dəlalət edən kiçik bir əsasdır. Bunlardan biri şərk etmək mənasında olan sözü və başqasını açıqladığın zaman işlədilən شرحت الكلام وغيرَه شَرْحاً (şərəhtül-kəlame və ğeyrahü şərhan) sözüdür. Bunun kökü ətin dilimlənib açılmasından (تشريح اللحم) götürülmüşdür.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcüməyə mətndə olmayan artıq və yanlış ifadə («şərk etmək mənasında olan») əlavə edilib."
+ ],
+ "review_ts": "2026-11-20T18:04:29.588Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 348
  },
  "ar": "الصاد والراء والخاء أُصيلٌ يدلُّ على صوتٍ رفيع.\nمن ذلك الصُّراخ، يقال صرَخ يَصرُخ، وهو إذا صوّت. ويقال الصَّارخ:\nالمستغيث، والصارخ: المغيث، ويقال بل المُغيث مُصرِخ؛ لقوله تعالى فى قصة من قال: ﴿ما أَنَا بِمُصْرِخِكُمْ وَما أَنْتُمْ بِمُصْرِخِيَّ﴾.",
- "az": "[صرخ] الصاد، الراء və الخاء — uca səsə dəlalət edən tək və doğru bir əsasdır.\nBunlardan biri الصُّراخ-dır, deyilir: صرَخ يَصرُخ — o, səs ucaltdığı zamandır. Və deyilir: الصَّارخ — fəryad edən, kömək istəyəndir; الصارخ — həm də kömək edəndir, başqaları isə demişlər: əksinə, kömək edən مُصرِخ-dir; Uca Allahın kiminsə hekayəsində buyurduğu kimi: ﴿ما أَنَا بِمُصْرِخِكُمْ وَما أَنْتُمْ بِمُصْرِخِيَّ﴾ (Mən sizin dadınıza çatan deyiləm, siz də mənim dadıma çatan deyilsiniz).",
+ "az": "[صرخ] صad, ra və xa uca səsə dəlalət edən kiçik bir əsasdır.\nBunlardan biri الصُّراخ-dır. Deyilir: صرَخ يَصرُخ (bağırdı, səs ucaltdı). Və deyilir: الصَّارخ — fəryad edən, kömək istəyəndir. الصَّارخ — kömək edənə də deyilir. Lakin deyirlər ki, kömək edən şəxs مُصرِخ-dir; Uca Allahın [İblisin] sözünü nəql etdiyi ayədə buyurduğu kimi: ﴿ما أَنَا بِمُصْرِخِكُمْ وَما أَنْتُمْ بِمُصْرِخِيَّ﴾ mənaca tərcümə: «Mən sizin dadınıza çatan deyiləm, siz də mənim dadıma çatan deyilsiniz».",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:03:38.231Z"
+ "ts": "2026-10-25T02:03:38.231Z",
+ "prev_az": "[صرخ] الصاد، الراء və الخاء — uca səsə dəlalət edən tək və doğru bir əsasdır.\nBunlardan biri الصُّراخ-dır, deyilir: صرَخ يَصرُخ — o, səs ucaltdığı zamandır. Və deyilir: الصَّارخ — fəryad edən, kömək istəyəndir; الصارخ — həm də kömək edəndir, başqaları isə demişlər: əksinə, kömək edən مُصرِخ-dir; Uca Allahın kiminsə hekayəsində buyurduğu kimi: ﴿ما أَنَا بِمُصْرِخِكُمْ وَما أَنْتُمْ بِمُصْرِخِيَّ﴾ (Mən sizin dadınıza çatan deyiləm, siz də mənim dadıma çatan deyilsiniz).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərflərinin adları (\"الصاد، الراء və الخاء\") qaydaya uyğun verilməyib (\"صad, ra və xa\").",
+  "Quran ayəsinin tərcüməsində «mənaca tərcümə: ...» tələbi gözlənilməyib."
+ ],
+ "review_ts": "2026-11-20T18:29:07.907Z"
 }

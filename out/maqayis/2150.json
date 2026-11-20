@@ -11,7 +11,19 @@
   "page_to": 234
  },
  "ar": "الشين والياء والحاء أصلان متباينان، يدلُّ أحدهما على جِدٍّ وحَذَر، والآخر على إعراض.\nفأمَّا الأوّل فقول العرب: أشاحَ علَى الشئِ، إذا واظَبَ عليه وجَدَّ فيه.\nقال الراجز:\nقَبًّا أطاعَت راعياً مُشِيحاَ (٢)\nوقال آخر:\nوشايَحْتَ قبل اليَومِ إِنَّكَ شِيحُ (٣)\nوأمَّا الشِّياح فالحِذَار. ورجل شائحٌ. وهو قوله:\nشايَحْن منه أيَّما شِيَاحِ (١)\nوالمَشْيُوحاء: أنْ يكون القومُ فى أمرٍ يَبْتَدِرونه؛ يقال هم فى مَشْيُوحاءَ.\nوأما الآخر فيقال: أشاحَ بوجهه، أى أعرض. ويقال إنّ اشتقاقَه من قولهم أشاحَ الفرسُ بذنَبه، إذا أرخاه.\nومما شذَّ عن البابين جميعا: الشِّيح، وهو نبتٌ.",
- "az": "[شيح] (şih) — شين (şin), ياء (yə) və حاء (ha) iki fərqli əsasdır, bunlardan biri səy və ehtiyatlı olmağa, digəri isə üz döndərməyə dəlalət edir. Birincisinə gəldikdə, ərəblərin bu sözüdür: «أشاحَ علَى الشئِ» (əşahə aləş-şey) — bir şeyə səylə bağlandıqda və onda çalışdıqda. Racəz yazan demişdir:\nقَبًّا أطاعَت راعياً مُشِيحاَ (2)\nBaşqası da demişdir:\nوشايَحْتَ قبل اليَومِ إِنَّكَ شِيحُ (3)\nƏş-şiyah (الشِّياح) isə ehtiyatlı olmaqdır. Kişi şaihtir (شائح). Bu da onun bu sözüdür:\nشايَحْن منه أيَّما شِيَاحِ (1)\nƏl-məşyuxa (المَشْيُوحاء): camaatın tələsik başladığı bir işdə olmalarıdır; deyilir: «هم فى مَشْيُوحاءَ» (hum fi məşyuxatin). Digərinə gəldikdə isə deyilir: «أشاحَ بوجهه» (əşahə bi-vəchih) — yəni üzünü döndərdi. Deyilir ki, bunun kökü onların «أشاحَ الفرسُ بذنَبه» (əşahə-l fərsü bi-zənəbih) — at quyruğunu salladığı zaman, sözündən götürülmüşdür. Hər iki fəsildən kənara çıxan (şaz) söz: Əş-şih (الشِّيح) — bir bitki növüdür.",
+ "az": "[شيح]\nشين (şin), ياء (yə) və حاء (ha) iki fərqli əsasdır, bunlardan biri səy və ehtiyatlı olmağa, digəri isə üz döndərməyə dəlalət edir.\nBirincisinə gəldikdə, ərəblərin bu sözüdür: «أشاحَ علَى الشئِ» (bir şeyə səylə bağlandıqda və onda çalışdıqda).\nRacəz deyən demişdir:\nقَبًّا أطاعَت راعياً مُشِيحاَ (٢)\n(İncə belli dəvələr səylə çalışan çobana itaət etdi.)\nBaşqası da demişdir:\nوشايَحْتَ قبل اليَومِ إِنَّكَ شِيحُ (٣)\n(Sən bu gündən əvvəl də səy göstərib çalışmısan, həqiqətən sən çalışqansan.)\nالشِّياح (əş-şiyah) isə ehtiyatlı olmaqdır. Kişi شائح (şaih — ehtiyatlı) adlanır. Bu da onun bu sözüdür:\nشايَحْن منه أيَّما شِيَاحِ (١)\n(Ondan necə də böyük bir ehtiyatla çəkindilər.)\nالمَشْيُوحاء (əl-məşyuha): camaatın tələsik başladığı bir işdə olmalarıdır; deyilir: «هم فى مَشْيُوحاءَ» (onlar tələsik bir iş içindədirlər).\nDigərinə gəldikdə isə deyilir: «أشاحَ بوجهه» — yəni üzünü döndərdi. Deyilir ki, bunun kökü onların «أشاحَ الفرسُ بذنَبه» (at quyruğunu salladığı zaman) sözündən götürülmüşdür.\nHər iki fəsildən kənara çıxan (şaz) söz: الشِّيح (əş-şih) — bir bitki növüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:54:39.212Z"
+ "ts": "2026-10-25T01:54:39.212Z",
+ "prev_az": "[شيح] (şih) — شين (şin), ياء (yə) və حاء (ha) iki fərqli əsasdır, bunlardan biri səy və ehtiyatlı olmağa, digəri isə üz döndərməyə dəlalət edir. Birincisinə gəldikdə, ərəblərin bu sözüdür: «أشاحَ علَى الشئِ» (əşahə aləş-şey) — bir şeyə səylə bağlandıqda və onda çalışdıqda. Racəz yazan demişdir:\nقَبًّا أطاعَت راعياً مُشِيحاَ (2)\nBaşqası da demişdir:\nوشايَحْتَ قبل اليَومِ إِنَّكَ شِيحُ (3)\nƏş-şiyah (الشِّياح) isə ehtiyatlı olmaqdır. Kişi şaihtir (شائح). Bu da onun bu sözüdür:\nشايَحْن منه أيَّما شِيَاحِ (1)\nƏl-məşyuxa (المَشْيُوحاء): camaatın tələsik başladığı bir işdə olmalarıdır; deyilir: «هم فى مَشْيُوحاءَ» (hum fi məşyuxatin). Digərinə gəldikdə isə deyilir: «أشاحَ بوجهه» (əşahə bi-vəchih) — yəni üzünü döndərdi. Deyilir ki, bunun kökü onların «أشاحَ الفرسُ بذنَبه» (əşahə-l fərsü bi-zənəbih) — at quyruğunu salladığı zaman, sözündən götürülmüşdür. Hər iki fəsildən kənara çıxan (şaz) söz: Əş-şih (الشِّيح) — bir bitki növüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytləri tərcüməsiz qalmışdır.",
+  "Haşiyə rəqəmləri ərəb rəqəmlərindən latın rəqəmlərinə dəyişdirilmişdir.",
+  "«هم فى مَشْيُوحاءَ» ifadəsinin mənası verilməmiş və transkripsiyası səhv yazılmışdır.",
+  "«شائح» sözü «şaihtir» şəklində yanlış uyğunlaşdırılmışdır."
+ ],
+ "review_ts": "2026-11-20T17:26:20.645Z"
 }

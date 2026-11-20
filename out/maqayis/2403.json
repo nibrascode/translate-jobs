@@ -11,7 +11,17 @@
   "page_to": 367
  },
  "ar": "الضاد والفاء والعين ليس بشئ. على أنّ الخليل حكى ضَفَع:\nجَعَس. والسلم (١).",
- "az": "[ضفع] (Dəfə): Zad, fa və eyn hərfləri heç bir şey deyildir. Lakin Xəlil ضَفَع (dəfə) — جَعَس (cəsə) və əs-sulləm (١) (nərdivan) sözünü rəvayət etmişdir.",
+ "az": "[ضفع] Dad, fa və eyn hərfləri bir şey deyildir. Lakin Xəlil ضَفَع: جَعَس (nəcis etdi) ifadəsini rəvayət etmişdir. Bir də والسلم (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.136Z"
+ "ts": "2026-10-25T02:04:55.136Z",
+ "prev_az": "[ضفع] (Dəfə): Zad, fa və eyn hərfləri heç bir şey deyildir. Lakin Xəlil ضَفَع (dəfə) — جَعَس (cəsə) və əs-sulləm (١) (nərdivan) sözünü rəvayət etmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, mötərizədə latın qrafikalı oxunuş əlavə edilib.",
+  "Ərəbcə terminlərin yanında gərəksiz latın transliterasiyaları yazılıb."
+ ],
+ "review_ts": "2026-11-20T18:31:14.477Z"
 }

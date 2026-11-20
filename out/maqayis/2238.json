@@ -11,7 +11,17 @@
   "page_to": 272
  },
  "ar": "الشين والسين والباء هو من الذى قبله. يقال شَسِبَتِ القَوس، إذا قُطِعت حتَّى يذبُل قضيبها.",
- "az": "[شسب] (şin, sin və ba) özündən əvvəlki babdandır. Şəsitil-qövs (شَسِبَتِ القَوس) - yayın budağı quruyub solana qədər qırxıldığı zaman deyilir.",
+ "az": "[شسب] (şin, sin və ba) özündən əvvəlki babdandır. Deyilir: شَسِبَتِ القَوس (yay, çubuğu quruyub solana qədər kəsildikdə).",
  "model": "gemini-flash-lite-latest",
- "ts": "2026-10-25T01:59:18.450Z"
+ "ts": "2026-10-25T01:59:18.450Z",
+ "prev_az": "[شسب] (şin, sin və ba) özündən əvvəlki babdandır. Şəsitil-qövs (شَسِبَتِ القَوس) - yayın budağı quruyub solana qədər qırxıldığı zaman deyilir.",
+ "prev_model": "gemini-flash-lite-latest",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«قُطِعت» feyli «qırxıldığı» kimi yanlış tərcümə edilmişdir (doğrusu: kəsildiyi).",
+  "Ərəbcə ifadə üçün transliterasiya işlədilmişdir."
+ ],
+ "review_ts": "2026-11-20T18:06:53.702Z"
 }

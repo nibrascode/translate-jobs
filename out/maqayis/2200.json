@@ -11,7 +11,17 @@
   "page_to": 254
  },
  "ar": "الشين والخاء والصاد أصلٌ واحدٌ يدلُّ على ارتفاع فى شئ. من ذلك الشّخص، وهو سوادُ الإنسان إذا سما لَكَ مِنْ بُعد. ثم يحمل على ذلك فيقال شَخَص من بلدٍ إلى بلد. وذلك قياسُه. ومنه أيضا شُخُوص البَصَر.\nويقال رجلٌ شَخِيصٌ وامرأةٌ شَخيصة، أى جَسيمة. ومن الباب: أشْخَصَ الرّامى، إذا جاز سَهْمُه الغرضَ من أعلاه، وهو سهمٌ شَاخص. ويقال، إذا ورد عليه أمر أقلقه: شُخِص به (٢)، وذلك أنّه إذا قَلِق نَبَا به مكانُه فارتفع.",
- "az": "«شخص» (şəxs). Şin, xa və sad köklü tək bir əsas olub, bir şeydə ucalığa dəlalət edir. Bunlardan biri «الشَّخْصُ» (şəxs) olub, uzaqdan ucalıb görünən insan qarasına deyilir. Sonra bu məna digər sahələrə də şamil edilərək «شَخَصَ من بلدٍ إلى بلد» (bir şəhərdən başqa şəhərə getdi) deyilmişdir. Qaydası budur. Həmçinin «شُخُوصُ البَصَرِ» (gözlərin bərəlməsi/dikilməsi) dəridəndir. \nHəmçinin «رجلٌ شَخِيصٌ» (iri-gövdəli kişi) və «امرأةٌ شَخيصة» (iri-gövdəli qadın) – yəni bədəncə iri mənasında işlədilir. Bu باب-dan (bölmədən) deyilmişdir: «أشْخَصَ الرّامى» (oxatan oxu hədəfdən uzağa atdı) — oxu hədəfdən yuxarıdan keçdikdə; bu cür oxa «سهمٌ شَاخص» (yuxarıdan keçən ox) deyilir. Deyilir ki, əgər bir adama onu narahat edən bir iş üz verərsə, «شُخِصَ بِهِ» (2) olar; bunun səbəbi odur ki, o narahat olduqda olduğu yer ona dar gələr və qalxar.",
+ "az": "[شخص] Şin, xə və sad hərfləri bir şeydə ucalığa dəlalət edən tək bir kökdür. O cümlədən «الشَّخْصُ» — uzaqdan ucalıb görünən insan qarasına deyilir. Sonra bu məna digər sahələrə də şamil edilərək «شَخَصَ من بلدٍ إلى بلد» (bir şəhərdən başqa şəhərə getdi) deyilmişdir. Qaydası budur. Həmçinin «شُخُوصُ البَصَرِ» (gözlərin bərəlməsi/dikilməsi) də bu kökdəndir.\nHəmçinin «رجلٌ شَخِيصٌ» (iri-gövdəli kişi) və «امرأةٌ شَخيصة» (iri-gövdəli qadın) – yəni bədəncə iri mənasında işlədilir. Bu bölmədəndir: «أشْخَصَ الرّامى» (oxatan oxu hədəfdən uzağa atdı) — oxu hədəfin üstündən keçdikdə; bu cür oxa «سهمٌ شَاخص» deyilir. Deyilir ki, əgər bir adama onu narahat edən bir iş üz verərsə: «شُخِصَ بِهِ» (٢) olar; bunun səbəbi odur ki, o narahat olduqda olduğu yer ona dar gələr və qalxar.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:56:06.963Z"
+ "ts": "2026-10-25T01:56:06.963Z",
+ "prev_az": "«شخص» (şəxs). Şin, xa və sad köklü tək bir əsas olub, bir şeydə ucalığa dəlalət edir. Bunlardan biri «الشَّخْصُ» (şəxs) olub, uzaqdan ucalıb görünən insan qarasına deyilir. Sonra bu məna digər sahələrə də şamil edilərək «شَخَصَ من بلدٍ إلى بلد» (bir şəhərdən başqa şəhərə getdi) deyilmişdir. Qaydası budur. Həmçinin «شُخُوصُ البَصَرِ» (gözlərin bərəlməsi/dikilməsi) dəridəndir. \nHəmçinin «رجلٌ شَخِيصٌ» (iri-gövdəli kişi) və «امرأةٌ شَخيصة» (iri-gövdəli qadın) – yəni bədəncə iri mənasında işlədilir. Bu باب-dan (bölmədən) deyilmişdir: «أشْخَصَ الرّامى» (oxatan oxu hədəfdən uzağa atdı) — oxu hədəfdən yuxarıdan keçdikdə; bu cür oxa «سهمٌ شَاخص» (yuxarıdan keçən ox) deyilir. Deyilir ki, əgər bir adama onu narahat edən bir iş üz verərsə, «شُخِصَ بِهِ» (2) olar; bunun səbəbi odur ki, o narahat olduqda olduğu yer ona dar gələr və qalxar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[شخص]» qaydasına uyğun verilməmişdir.",
+  "«ومنه أيضا» ifadəsi yanlış olaraq «dəridəndir» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-20T18:01:18.489Z"
 }

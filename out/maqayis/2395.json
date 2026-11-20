@@ -11,7 +11,16 @@
   "page_to": 365
  },
  "ar": "الضاد والغين والطاء أصلٌ صحيحٌ واحد يدلُّ على مزاحَمَةٍ\nبشِدّة. يقال ضَغَطَه، إِذا زحَمَه إلى حائط. والضَّغِيط: بئرٌ تُحفَر إلى جنْبها بئر أخرى فيقل ماؤُها. والمَضَاغِط: أرَضُونَ منخفِضة. وبعيرٌ بِهِ ضاغط، وهو لُزُوق العضُد بالجَنْب حَكًّا حَتَّى يضغط ذلك بعضُه بعضا ويتدلّى جِلْدُه. قال أبو عبيدٍ: الضِّاغط والضّبّ شئٌ واحد، وهو انفتاقٌ من الإبط وكثرةٌ من اللَّحم. ويقال: اللهمَّ ارفَعْ عنّا هذه الضَّغطة، يريدون الشدَّةَ والمشقّة. ويقال:\nأرسلْتُه ضاغطاً على فلان، وهو شِبْه الرّقيب يمنعُه من الظُّلم.",
- "az": "[ضغط] «الضاد» (زاد), «الغين» (ğin) və «الطاء» (ta) hərfləri şiddətlə sıxışdırmağa dəlalət edən tək və səhih bir əslidir. «ضَغَطَه» (zəğətəh) — onu divara sıxışdırdı, deyilir. «الضَّغِيط» (əz-zəğit) — yanındakı digər quyu qazıldıqdan sonra suyu azalan quyudur. «المَضَاغِط» (əl-məzağit) — alçaq yerlərdir. «بعير بِهِ ضاغط» (zağit xəstəliyi olan dəvə) — bazu sümüyünün yana sürtünərək bir-birini sıxması və dərisinin sallanması nəticəsində yaranan vəziyyətdir. Əbu Übeyd demişdir: «الضَّاغط» (əz-zağit) və «الضّبّ» (əz-zəbb) eyni şeydir; bu, qoltuqaltında yırtıq və ət çoxluğudur. Deyilir: «اللهمَّ ارفَعْ عنّا هذه الضَّغطة» (Allahım, bu sıxıntını bizdən qaldır!) — burada şiddət və məşəqqət qəsd edilir. Deyilir: «أرسلْتُه ضاغطاً على فلان» (Mən onu filankəsin üzərinə zağit olaraq göndərdim) — bu, onun zülm etməsinə mane olan gözətçiyə bənzər kəsdir.",
+ "az": "[ضغط] «الضاد» (dad), «الغين» (ğin) və «الطاء» (ta) hərfləri şiddətlə sıxışdırmağa dəlalət edən tək və səhih bir əslidir. Deyilir: «ضَغَطَه» — onu divara sıxışdırdı. «الضَّغِيط» (əz-zəğit) — yanında başqa bir quyu qazıldığı üçün suyu azalan quyudur. «المَضَاغِط» (əl-məzağit) — alçaq yerlərdir. «بعيرٌ بِهِ ضاغط» (zağit xəstəliyi olan dəvə) — bazu sümüyünün böyrünə dəyib sürtünməsi və dərinin sallanmasıdır. Əbu Übeyd demişdir: «الضَّاغط» və «الضّبّ» eyni şeydir; bu, qoltuqaltında yırtıq və ət çoxluğudur. Deyilir: «اللهمَّ ارفَعْ عنّا هذه الضَّغطة» (Allahım, bu sıxıntını bizdən qaldır!) — şiddət və məşəqqəti qəsd edirlər. Deyilir: «أرسلْتُه ضاغطاً على فلان» (Mən onu filankəsin üzərinə gözətçi kimi göndərdim) — bu, onun zülm etməsinə mane olan gözətçiyə bənzər kəsdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:29.497Z"
+ "ts": "2026-10-25T02:04:29.497Z",
+ "prev_az": "[ضغط] «الضاد» (زاد), «الغين» (ğin) və «الطاء» (ta) hərfləri şiddətlə sıxışdırmağa dəlalət edən tək və səhih bir əslidir. «ضَغَطَه» (zəğətəh) — onu divara sıxışdırdı, deyilir. «الضَّغِيط» (əz-zəğit) — yanındakı digər quyu qazıldıqdan sonra suyu azalan quyudur. «المَضَاغِط» (əl-məzağit) — alçaq yerlərdir. «بعير بِهِ ضاغط» (zağit xəstəliyi olan dəvə) — bazu sümüyünün yana sürtünərək bir-birini sıxması və dərisinin sallanması nəticəsində yaranan vəziyyətdir. Əbu Übeyd demişdir: «الضَّاغط» (əz-zağit) və «الضّبّ» (əz-zəbb) eyni şeydir; bu, qoltuqaltında yırtıq və ət çoxluğudur. Deyilir: «اللهمَّ ارفَعْ عنّا هذه الضَّغطة» (Allahım, bu sıxıntını bizdən qaldır!) — burada şiddət və məşəqqət qəsd edilir. Deyilir: «أرسلْتُه ضاغطاً على فلان» (Mən onu filankəsin üzərinə zağit olaraq göndərdim) — bu, onun zülm etməsinə mane olan gözətçiyə bənzər kəsdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı «زاد» (zad) yox, «dad» yazılmalıdır."
+ ],
+ "review_ts": "2026-11-20T18:30:34.707Z"
 }

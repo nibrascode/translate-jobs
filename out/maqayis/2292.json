@@ -11,7 +11,16 @@
   "page_to": 309
  },
  "ar": "الصاد والميم والحاء أُصَيلٌ يدلُّ على قوّةٍ فى الشئ، أو طُول.\nيقال الصَّمَحْمَح: الطَّويل. ويقولون إنّ الصُّمَاح الكىّ. والصُّمَاح: النَّتن والصِّمحاءَةُ: المكان الخَشن.",
- "az": "[صمح] (sad, mim və hə) — bir şeydə gücə və ya uzunluğa dəlalət edən kiçik bir kökdür.\n\nDeyilir: «الصَّمَحْمَح» (səməhməh) — uzun. Deyirlər ki, «الصُّمَاح» (sumah) — dağlamaqdır. «الصُّمَاح» — üfunət, pis qoxudur. «الصِّمْحَاءَةُ» (simhəf) — sərt məkandır.",
+ "az": "[صمح] (sad, mim və ha) — bir şeydə gücə və ya uzunluğa dəlalət edən kiçik bir kökdür.\n\nDeyilir: «الصَّمَحْمَح» (səməhməh) — uzun. Deyirlər ki, «الصُّمَاح» (sumah) — dağlamaqdır. «الصُّمَاح» — üfunət, pis qoxudur. «الصِّمحاءَةُ» (simhaə) — sərt məkandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:31.917Z"
+ "ts": "2026-10-25T02:01:31.917Z",
+ "prev_az": "[صمح] (sad, mim və hə) — bir şeydə gücə və ya uzunluğa dəlalət edən kiçik bir kökdür.\n\nDeyilir: «الصَّمَحْمَح» (səməhməh) — uzun. Deyirlər ki, «الصُّمَاح» (sumah) — dağlamaqdır. «الصُّمَاح» — üfunət, pis qoxudur. «الصِّمْحَاءَةُ» (simhəf) — sərt məkandır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الصِّمحاءَةُ» sözünün mötərizədəki oxunuşu səhv yazılmışdır («simhəf» yox, «simhaə»)."
+ ],
+ "review_ts": "2026-11-20T18:22:54.793Z"
 }

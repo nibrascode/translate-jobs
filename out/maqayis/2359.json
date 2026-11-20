@@ -13,5 +13,10 @@
  "ar": "الصاد والدال والنون أصلٌ ضعيف. يقولون الصَّيْدَن:\nالثَّعْلَب.",
  "az": "[صدن] (Sədən). Sad, dal və nun hərfləri zəif bir əsasdır. Onlar “seydən” [الصَّيْدَن] — tülkü deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:03:16.589Z"
+ "ts": "2026-10-25T02:03:16.589Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T18:28:02.030Z"
 }

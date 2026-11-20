@@ -11,7 +11,16 @@
   "page_to": 359
  },
  "ar": "الضاد والجيم أصلٌ صحيح يدلُّ على صِياحٍ بضَجَر من ذلك ضجَّ يضِجُّ ضجيجا، وضجَّ القوم ضِجاَجاً. قال أبو عبيد: أضجَّ القوم إِضجاجاً، إِذا جَلبُوا (٣) وصاحُوا. فإذا جزِعوا من شئٍ وغُلِبوا قيل ضَجُّوا. وقال:\nالضِّجَاج: المشاغَبة والمُشارَّة. قال غيره: الضَّجُوج من الإبل؛ التى تضجُّ إِذا حُلِبَت.\nومما شذَّ عن هذا الباب: الضَّجاج (٤)، وهو خَرَز (٥).",
- "az": "[ضج] (ض، ج) — Narahatlıqla səslənməyə dəlalət edən səhih bir əsasdır: ضجَّ يضِجُّ ضجيجا (fəryad etdi, inlədi), və ضجَّ القوم ضِجاَجاً (camaat hay-küy saldı). Əbu Übəyd demişdir: أضجَّ القوم إِضجاجاً (camaat hay-küy qaldırıb səsləndikdə). Bir şeydən üzüldükdə və məğlub olduqda ضَجَّوْا (fəryad etdilər) deyilir. Və demişdir: الضِّجَاج — mübahisə və dava-dalaşdır. Başqası demişdir: الضَّجُوج (dəvələrdən) — sağılanda səs-küy salan dəvədir.\nBu əsasdan kənara çıxan: الضَّجاج (əz-zəcəc) — muncuq növüdür.",
+ "az": "[ضج] (dad və cim) — narahatlıqla fəryad etməyə dəlalət edən səhih bir əsasdır. Bu qabildəndir: ضجَّ يضِجُّ ضجيجا (fəryad etdi, inlədi), və ضجَّ القوم ضِجاَجاً. Əbu Ubeyd demişdir: أضجَّ القوم إِضجاجاً (camaat səs-küy saldıqda (٣) və bağırdıqda). Bir şeydən hövsələsizləşdikdə və məğlub edildikdə ضَجَّوا deyilir. Və demişdir:\nالضِّجَاج — mübahisə etmək və ədavət aparmaqdır. Başqası demişdir: الضَّجُوج (dəvələrdən) — sağıldıqda inləyən/səs-küy salan dəvədir.\nBu qapıdan kənara çıxan sözdür: الضَّجاج (٤) — o da bir muncuqdur (٥).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:02.778Z"
+ "ts": "2026-10-25T02:04:02.778Z",
+ "prev_az": "[ضج] (ض، ج) — Narahatlıqla səslənməyə dəlalət edən səhih bir əsasdır: ضجَّ يضِجُّ ضجيجا (fəryad etdi, inlədi), və ضجَّ القوم ضِجاَجاً (camaat hay-küy saldı). Əbu Übəyd demişdir: أضجَّ القوم إِضجاجاً (camaat hay-küy qaldırıb səsləndikdə). Bir şeydən üzüldükdə və məğlub olduqda ضَجَّوْا (fəryad etdilər) deyilir. Və demişdir: الضِّجَاج — mübahisə və dava-dalaşdır. Başqası demişdir: الضَّجُوج (dəvələrdən) — sağılanda səs-küy salan dəvədir.\nBu əsasdan kənara çıxan: الضَّجاج (əz-zəcəc) — muncuq növüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb mətnindəki (٣), (٤), (٥) haşiyə rəqəmləri tərcümədə ixtisar edilmişdir."
+ ],
+ "review_ts": "2026-11-20T18:29:42.302Z"
 }

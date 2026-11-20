@@ -11,7 +11,17 @@
   "page_to": 241
  },
  "ar": "الشين والباء والصاد ليس بشئ. وحكى ابنُ دريدٍ (٢):\nالشَّبَص الخُشونة. وليس هو بشئ. قال: ويقال: تشَبَّص الشجر: دخل بعضُه فى بعض (٣).",
- "az": "«شبص» (şəbəş). Şin, ba və sad hərflərindən ibarət olub heç bir əsası yoxdur. İbn Dürid (٢) rəvayət etmişdir: الشَّبَص (əş-şəbəş) — sərtlik. Bu, heç bir əsası olmayan sözdür. O demişdir: Deyilir ki, تشَبَّص الشجر (təşəbbəsə əş-şəcər) — ağaclar bir-birinə keçdi, girdi (٣).",
+ "az": "[شبص]\nŞin, ba və sad hərflərindən ibarət kökün heç bir əsası yoxdur. İbn Düreyd (٢) rəvayət etmişdir:\n«الشَّبَص» (əş-şəbəs) — sərtlik. Bu, heç bir əsası olmayan sözdür. O demişdir: Deyilir ki, «تشَبَّص الشجر» (təşəbbəsə əş-şəcər) — ağaclar bir-birinə keçdi, girdi (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:55:28.155Z"
+ "ts": "2026-10-25T01:55:28.155Z",
+ "prev_az": "«شبص» (şəbəş). Şin, ba və sad hərflərindən ibarət olub heç bir əsası yoxdur. İbn Dürid (٢) rəvayət etmişdir: الشَّبَص (əş-şəbəş) — sərtlik. Bu, heç bir əsası olmayan sözdür. O demişdir: Deyilir ki, تشَبَّص الشجر (təşəbbəsə əş-şəcər) — ağaclar bir-birinə keçdi, girdi (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[شبص]» formatı ilə başlamalıdır.",
+  "«الشَّبَص» sözünün oxunuşu səhvən «əş-şəbəş» kimi, «ابن دريد» adı isə «İbn Dürid» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-20T17:34:21.115Z"
 }

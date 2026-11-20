@@ -13,5 +13,10 @@
  "ar": "الشين والنون والصاد كلمة إن صحت. يقولون: فَرَس شَنَاصِىٌّ، أى طويل. قال:\nوشَنَاصىٌّ إذا هِيجَ طَمَرْ (١)\nويقال: إنما هو نَشَاصىٌّ وحكى: شَنِصَ به، مثل سَدِك.",
  "az": "[شنص] \nالشين والنون والصاد (şin, nun və sad) əgər səhihdirsə, bir kəlmədir. Deyirlər: «فَرَس شَنَاصِىٌّ» — yəni uzun at. Şair demişdir:\nوشَنَاصىٌّ إذا هِيجَ طَمَرْ (١)\n(Təhrik edildikdə tullanan uzun at)\nVə deyilir ki, o, əslində «نَشَاصىٌّ»-dur və rəvayət edilmişdir: «شَنِصَ به» — «سَدِك» (alışdı, mübtəla oldu) kəlməsi kimi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:52:58.865Z"
+ "ts": "2026-10-25T01:52:58.865Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T17:16:01.073Z"
 }

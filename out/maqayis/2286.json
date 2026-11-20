@@ -11,7 +11,16 @@
   "page_to": 305
  },
  "ar": "الصاد واللام والغين ليس بأصلٍ؛ لأنّه من باب الإِبدال.\nيقال للذى تَمَّ سِنُّه من الضّأن فى السّنَة الخامسة: صالغ. وقد صَلَغ صُلُوغاً.",
- "az": "[صلغ] (s-l-ɣ): Əsas kök deyil, çünki bu, əvəzetmə (ibdal) babındandır. Qoyunlardan beşinci ilində yaşı tamam olana صالغ (salig) deyilər. Və صَلَغ صُلُوغاً (salig oldu).",
+ "az": "[صلغ] Sad, lam və ğayn əsas kök deyil; çünki bu, əvəzetmə (ibdal) babındandır. Qoyunlardan beşinci ilində yaşı tamam olana صالغ (salığ) deyilər. Və صَلَغ صُلُوغاً (beş yaşına çatdı) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:08.475Z"
+ "ts": "2026-10-25T02:01:08.475Z",
+ "prev_az": "[صلغ] (s-l-ɣ): Əsas kök deyil, çünki bu, əvəzetmə (ibdal) babındandır. Qoyunlardan beşinci ilində yaşı tamam olana صالغ (salig) deyilər. Və صَلَغ صُلُوغاً (salig oldu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök hərflərinin adları (Sad, lam və ğayn) buraxılıb."
+ ],
+ "review_ts": "2026-11-20T18:23:06.777Z"
 }

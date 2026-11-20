@@ -11,7 +11,17 @@
   "page_to": 334
  },
  "ar": "الصاد والحاء واللام كلمة، وهى بَحَحٌ فى الصَّوت. يقال للأبحِّ الأصحل، والمصدر الصَّحَل، وهو صَحِلٌ، قال الأعشى:\nصَحِل الصوت أبَحّ (١)",
- "az": "[صحل] «الصاد» (sad), «Hə» (ha) və «Lam» (lam) bir kəlimədir, o da səsdəki boğuqluqdur. Boğuq səsli insana «الأصحل» (əl-əshəl) deyilir, məsdəri isə «الصَّحَل» (əs-səhəl) olub, özü də «صَحِلٌ» (səhil)dir. Əşə-ş demişdir: صَحِل الصوت أبَحّ — (Səsi boğuq, xırıltılı).",
+ "az": "[صحل] «الصاد» (sad), «Hə» (ha) və «Lam» (lam) bir kəlimədir, o da səsdəki boğuqluqdur. Boğuq səsli insana «الأصحل» (əl-əshəl) deyilir, məsdəri isə «الصَّحَل» (əs-səhəl) olub, özü də «صَحِلٌ» (səhil)dir. Əşa demişdir:\nصَحِل الصوت أبَحّ (١)\n(Səsi boğuq, xırıltılı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:02:54.142Z"
+ "ts": "2026-10-25T02:02:54.142Z",
+ "prev_az": "[صحل] «الصاد» (sad), «Hə» (ha) və «Lam» (lam) bir kəlimədir, o da səsdəki boğuqluqdur. Boğuq səsli insana «الأصحل» (əl-əshəl) deyilir, məsdəri isə «الصَّحَل» (əs-səhəl) olub, özü də «صَحِلٌ» (səhil)dir. Əşə-ş demişdir: صَحِل الصوت أبَحّ — (Səsi boğuq, xırıltılı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (١) buraxılıb.",
+  "Şairin adında orfoqrafik xəta var («Əşə-ş»)."
+ ],
+ "review_ts": "2026-11-20T18:27:08.830Z"
 }

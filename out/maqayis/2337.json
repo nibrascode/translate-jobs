@@ -11,7 +11,17 @@
   "page_to": 331
  },
  "ar": "الصاد والباء والغين، أصلٌ واحد، وهو تلوين الشَّئ بلونٍ ما.\nتقول: صبغته أصبغه (٣). ويُقال للرُّطَبة: قد صَبَّغَتْ. فأمّا قولُه تعالى: ﴿صِبْغَةَ اَللّهِ﴾ فقال قوم: هى فِطرتُه لخلْقِه. وقال آخرون: كلُّ ما تُقُرِّب به إلى اللّه تعالى صِبغة.\nوالأصبغ: الفرس فى طرف ذَنبِه بياض. وذلك دون الأشكل (٤)، والأوّل مشبَّه بالشئ يُصبَغ طرَفُه.",
- "az": "[صبغ] «الصاد» (sad), «الباء» (ba) və «الغين» (ğeyn) vahid bir kökdür, o da bir şeyi hər hansı bir rənglə rəngləməkdir. Deyirsən: صبغته أصبغه (onu rənglədim, rəngləyirəm). Kal xurmaya da صَبَّغَتْ (rənglənməyə başladı) deyilir. Uca Allahın ﴿صِبْغَةَ اَللّهِ﴾ (Allahın rəngi/boyası) kəlamına gəldikdə, bir qrup demişdir ki, bu, Onun məxluqatı üçün təyin etdiyi fitrətidir. Başqaları isə demişlər ki, Allah Təalaya yaxınlaşmaq üçün vasitə edilən hər şey صِبغة (sібğə - rəng/boya) deməkdir. «الأصبغ» (əl-əsbəğ) — quyruğunun ucunda ağlığı olan atdır. Bu, «الأشكل» (əl-əşkəl)-dən daha azdır. Birincisi ucu rənglənən şeyə bənzədilmişdir.",
+ "az": "[صبغ] «الصاد» (sad), «الباء» (ba) və «الغين» (ğayn) vahid bir kökdür, o da bir şeyi hər hansı bir rənglə rəngləməkdir.\nDeyirsən: «صبغته أصبغه» (onu rənglədim, rəngləyirəm). Saralmağa başlayan xurmaya da: «قد صَبَّغَتْ» deyilir. Uca Allahın ﴿صِبْغَةَ اَللّهِ﴾ kəlamına gəldikdə (mənaca tərcümə: «Allahın boyası (dini)»), bir qrup demişdir ki, bu, Onun məxluqatı üçün xəlq etdiyi fitrətidir. Başqaları isə demişlər ki, Allah Təalaya yaxınlaşmaq üçün vasitə edilən hər şey «صِبغة» (sibğə) deməkdir.\n«الأصبغ» (əl-əsbəğ) — quyruğunun ucunda ağlığı olan atdır. Bu, «الأشكل» (əl-əşkəl)-dən daha azdır. Birincisi ucu rənglənən şeyə bənzədilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:02:54.142Z"
+ "ts": "2026-10-25T02:02:54.142Z",
+ "prev_az": "[صبغ] «الصاد» (sad), «الباء» (ba) və «الغين» (ğeyn) vahid bir kökdür, o da bir şeyi hər hansı bir rənglə rəngləməkdir. Deyirsən: صبغته أصبغه (onu rənglədim, rəngləyirəm). Kal xurmaya da صَبَّغَتْ (rənglənməyə başladı) deyilir. Uca Allahın ﴿صِبْغَةَ اَللّهِ﴾ (Allahın rəngi/boyası) kəlamına gəldikdə, bir qrup demişdir ki, bu, Onun məxluqatı üçün təyin etdiyi fitrətidir. Başqaları isə demişlər ki, Allah Təalaya yaxınlaşmaq üçün vasitə edilən hər şey صِبغة (sібğə - rəng/boya) deməkdir. «الأصبغ» (əl-əsbəğ) — quyruğunun ucunda ağlığı olan atdır. Bu, «الأشكل» (əl-əşkəl)-dən daha azdır. Birincisi ucu rənglənən şeyə bənzədilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Quran ayəsinin tərcüməsində «mənaca tərcümə: ...» düsturu tətbiq olunmayıb.",
+  "Transkripsiyada hərf xətası («sібğə») gedib."
+ ],
+ "review_ts": "2026-11-20T18:26:57.864Z"
 }

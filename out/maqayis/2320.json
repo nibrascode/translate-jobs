@@ -13,5 +13,10 @@
  "ar": "الصاد والواو والغين أصلٌ صحيح، وهو تهيئة على شئٍ على مثالٍ مستقيم. من ذلك قولهم: صاغ الْحَلْىَ يصُوغُه صَوغاً. وهما صَوْغان، إذا كان\nكلُّ واحدٍ منهما على هيئة الآخَر. ويقال للكذّاب: صاغ الكذبَ صَوغاً، إذا اختلقَه. وعلى هذا تفسير\nالحديث: «كِذْبة كذَبَتْها الصَّوَّاغُون». أراد الذين يَصُوغُون الأحاديثَ ويَختلقونها.",
  "az": "[صوغ] (sad, vav və ğayn) səhih bir kök olub, düzgün bir nümunə üzərində bir şeyi tərtib etməkdir. Onların bu sözü bundandır: صاغ الْحَلْىَ يصُوغُه صَوغاً (bəzək əşyasını düzəltdi, onu düzəltməklə düzəldir). Onlar صَوْغان (sovğan) - ikisi də iki bərabər heyətdə olduqları zaman. Yalançıya deyilir: صاغ الكذبَ صَوغاً (yalanı uydurdu) – onu uydurduğu zaman. Hədisin izahı da buna əsaslanır: «كِذْبة كذَبَتْها الصَّوَّاغُون» (Yalançıların uydurduğu yalan). O kəsləri qəsd etmişdir ki, hədisləri uydurub quraşdırırlar.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:02:11.241Z"
+ "ts": "2026-10-25T02:02:11.241Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T18:25:32.045Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 335
  },
  "ar": "الصاد والحاء والباء أصلٌ واحد يدلُّ على مقارَنة (١) شئٍ ومقاربته. من ذلك الصَّاحب والجمع الصَّحْب، كما يقال راكب ورَكْبٌ.\nومن الباب: أصحب فلانٌ: إذا انقاد. وأصْحَبَ الرّجُل، إذا بلغ ابنُه. وكلُّ شئٍ لاءم شيئاً فقد استصحبه. ويقال للأديم إذا تُرِك عليه شَعَرُه مُصْحَبٌ.\nويقال أصحب الماءُ، إِذا علاه الطُّحْلَب.",
- "az": "[صحب] «الصاد» (sad), «Hə» (ha) və «Ba» (ba) bir şeylə yoldaşlıq etməyə və ona yaxınlaşmağa dəlalət edən vahid kökdür. Bunlardan biri «الصَّاحب» (əs-sahib) və cəmi «الصَّحْب» (əs-səhb) — necə ki راكب (rakib) və رَكْب (rakb) deyilir. Bu qapıdandır: أصحب فلانٌ (filankəs boyun əydi) — tabe olduqda. Və أصْحَبَ الرّجُل (kişinin oğlu böyüdü/yetişdi). Hər hansı bir şey başqa bir şeyə uyğun gəldikdə onu özünə yoldaş etmiş sayılır (استصحبه). Üzərində tükləri buraxılmış dəriyə «مُصْحَبٌ» (mus-hab) deyilir. Və deyilir: أصحب الماءُ (su üzərini yosun bürüdü).",
+ "az": "[صحب] «الصاد» (sad), «Hə» (ha) və «Ba» (ba) bir şeylə yoldaşlıq etməyə və ona yaxınlaşmağa dəlalət edən vahid kökdür (١). Bunlardan biri «الصَّاحب» (əs-sahib) və cəmi «الصَّحْب» (əs-səhb) — necə ki «راكب» (rakib) və «رَكْب» (rakb) deyilir.\nBu qapıdandır: «أصحب فلانٌ» (filankəs tabe oldu) — boyun əydikdə. Və «أصْحَبَ الرّجُل» (kişinin oğlu böyüdü/yetişdi). Hər hansı bir şey başqa bir şeyə uyğun gəldikdə onu özünə yoldaş etmiş sayılır (استصحبه). Üzərində tükləri buraxılmış dəriyə «مُصْحَبٌ» (mus-hab) deyilir.\nVə deyilir: «أصحب الماءُ» (su yosunlaşdı) — üzərini yosun bürüdükdə.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:02:54.142Z"
+ "ts": "2026-10-25T02:02:54.142Z",
+ "prev_az": "[صحب] «الصاد» (sad), «Hə» (ha) və «Ba» (ba) bir şeylə yoldaşlıq etməyə və ona yaxınlaşmağa dəlalət edən vahid kökdür. Bunlardan biri «الصَّاحب» (əs-sahib) və cəmi «الصَّحْب» (əs-səhb) — necə ki راكب (rakib) və رَكْب (rakb) deyilir. Bu qapıdandır: أصحب فلانٌ (filankəs boyun əydi) — tabe olduqda. Və أصْحَبَ الرّجُل (kişinin oğlu böyüdü/yetişdi). Hər hansı bir şey başqa bir şeyə uyğun gəldikdə onu özünə yoldaş etmiş sayılır (استصحبه). Üzərində tükləri buraxılmış dəriyə «مُصْحَبٌ» (mus-hab) deyilir. Və deyilir: أصحب الماءُ (su üzərini yosun bürüdü).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (١) buraxılıb.",
+  "«إِذا علاه الطُّحْلَب» şərti ixtisar olunub."
+ ],
+ "review_ts": "2026-11-20T18:27:08.830Z"
 }

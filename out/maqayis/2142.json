@@ -11,7 +11,16 @@
   "page_to": 228
  },
  "ar": "الشين والواو والعين أصلٌ يدل على انتشارٍ وتفرُّق. من ذلك: الشَّوَع، وهو انتشار الشَّعْر وتفرُّقه. والشُّوع: شَجَر (١) ولَعله متفرِّق النبت.",
- "az": "[شوع] (şuv) — شين (şin), vav və عين (eyn) yayılma və səpələnməyə dəlalət edən bir əsasdır. Bunlardan biri də saçın dağılması və səpələnməsi mənasını verən الشَّوَع (əş-şəvəc)dir. Şuv – ağacdır (1), ehtimal ki, bitkiləri səpələnmiş haldadır.",
+ "az": "[شوع]\nالشين والواو والعين (şin, vav və eyn) yayılma və səpələnməyə dəlalət edən bir əsasdır. Bunlardandır: «الشَّوَع» (əş-şəvə) — saçın dağılması və səpələnməsidir. «الشُّوع» — bir ağac adıdır (١), ehtimal ki, bitməsi səpələnmiş haldadır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:54:39.212Z"
+ "ts": "2026-10-25T01:54:39.212Z",
+ "prev_az": "[شوع] (şuv) — شين (şin), vav və عين (eyn) yayılma və səpələnməyə dəlalət edən bir əsasdır. Bunlardan biri də saçın dağılması və səpələnməsi mənasını verən الشَّوَع (əş-şəvəc)dir. Şuv – ağacdır (1), ehtimal ki, bitkiləri səpələnmiş haldadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الشَّوَع» sözünün transkripsiyasında «əş-şəvəc» yazılaraq hərf xətası edilmişdir."
+ ],
+ "review_ts": "2026-11-20T17:11:30.530Z"
 }

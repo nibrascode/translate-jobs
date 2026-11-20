@@ -11,7 +11,16 @@
   "page_to": 365
  },
  "ar": "الضاد والغين والزاء ليس بأصلٍ صحيح، إلاّ أن يأتى به شِعْر. غير أنّ الخليل ذكر أنّ الضِّغْز من السِّباع: السيئ الخُلقُ (١) واللّه أعلم بالصَّواب.",
- "az": "[ضغز] «الضاد» (زاد), «الغين» (ğin) və «الزاء» (zay) hərfləri şeirdə gəlmədikcə səhih bir əsl deyil. Lakin Xəlil zikr etmişdir ki, yırtıcı heyvanlardan olan «الضِّغْز» (əz-ziğz) — pisxasiyyətli deməkdir (١), doğrusunu Allah bilir.",
+ "az": "[ضغز] «الضاد» (dad), «الغين» (ğin) və «الزاء» (zey) hərfləri şeirdə gəlmədikcə səhih bir əsl deyil. Lakin Xəlil zikr etmişdir ki, yırtıcı heyvanlardan olan «الضِّغْز» (əz-ziğz) — pisxasiyyətli olanıdır (١), doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:29.497Z"
+ "ts": "2026-10-25T02:04:29.497Z",
+ "prev_az": "[ضغز] «الضاد» (زاد), «الغين» (ğin) və «الزاء» (zay) hərfləri şeirdə gəlmədikcə səhih bir əsl deyil. Lakin Xəlil zikr etmişdir ki, yırtıcı heyvanlardan olan «الضِّغْز» (əz-ziğz) — pisxasiyyətli deməkdir (١), doğrusunu Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərflərinin adları: «زاد» (zad) yox «dad», «zay» yox «zey» yazılmalıdır."
+ ],
+ "review_ts": "2026-11-20T18:30:34.707Z"
 }

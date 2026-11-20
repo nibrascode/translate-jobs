@@ -11,7 +11,16 @@
   "page_to": 314
  },
  "ar": "الصاد والنون والميم كلمةٌ واحدة لا فرعَ لها، وهى الصَّنَم.\nوكان شيئاً يُتَّخَذ من خشبٍ أو فضّة أو نُحاسٍ فيُعبَد.",
- "az": "«صنم» (Sad, nun və mim) - budaqsız tək bir kəlmədir, o da «الصَّنَم» (büt) sözüdür. O, taxtadan, gümüşdən və ya misdən düzəldilən və ibadət edilən bir şey idi.",
+ "az": "[صنم] (sad, nun və mim) — budaqsız tək bir kəlmədir, o da «الصَّنَم» (büt) sözüdür. O, taxtadan, gümüşdən və ya misdən düzəldilib ibadət edilən bir şey idi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:01:50.745Z"
+ "ts": "2026-10-25T02:01:50.745Z",
+ "prev_az": "«صنم» (Sad, nun və mim) - budaqsız tək bir kəlmədir, o da «الصَّنَم» (büt) sözüdür. O, taxtadan, gümüşdən və ya misdən düzəldilən və ibadət edilən bir şey idi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[صنم]» kimi olmalıdır."
+ ],
+ "review_ts": "2026-11-20T18:24:44.077Z"
 }
