@@ -11,7 +11,17 @@
   "page_to": 212
  },
  "ar": "الشين والميم والجيم أصلٌ يدل على الخلْط وقلّة ائتلافِ الشئ. يقال شَمَجه يَشْمُجُه شَمْجا، إذا خلطه. وما ذاقَ شَمَاجاً، أى شيئاً من طعام. ويقولون: شَمَجوا، إِذا اختبزوا خبزاً غِلاظاً، ويستعار هذا حتَّى يقال\nللخياطة المتباعدة شَمْج. يقال شمج الثوبَ شَمْجاً يَشمْج. وقياس ذلك كله واحد.",
- "az": "[شمج] الشين والميم والجيم أصلٌ يدل على الخلْط وقلّة ائتلافِ الشئ (Şin, mim və cim qarışdırmağa və şeyin az uyuşmasına dəlalət edən əsasdır). يقال شَمَجه يَشْمُجُه شَمْجا (Deyilir: onu şəməcə yəşmuquhü şəmcan), إذا خلطه (əgər onu qarışdırdısa). وما ذاقَ شَمَاجاً (Və heç bir şəmac dadmadı), أى شيئاً من طعام (yəni yeməkdən heç bir şey). ويقولون (Və deyirlər): شَمَجوا (şəməcu), إِذا اختبزوا خبزاً غِلاظاً (əgər qalın çörək bişirdilərsə), ويستعار هذا حتَّى يقال للخياطة المتباعدة شَمْج (və bu, hətta aralı tikişə şəməndir deyilənə qədər istiarə olunur). يقال شمج الثوبَ شَمْجاً يَشمْج (Deyilir: paltarı şəməcə şəmcan yeşmuçu). وقياس ذلك كله واحد (Və bütün bunların qiyasları birdir).",
+ "az": "[شمج] Şin, mim və cim qarışdırmağa və bir şeyin az uyuşmasına dəlalət edən bir əsasdır. Deyilir: شَمَجه يَشْمُجُه شَمْجا (onu qarışdırdı), إذا خلطه (onu qarışdırdıqda). وما ذاقَ شَمَاجاً (Heç bir şəmac dadmadı), أى شيئاً من طعام (yəni yeməkdən heç bir şey). Deyirlər: شَمَجوا (qalın çörək bişirdilər), إِذا اختبزوا خبزاً غِلاظاً (qalın çörək yapdıqda). Bu, hətta seyrək tikişə شَمْج (şəmc) deyilənə qədər məcazi mənada işlədilir. Deyilir: شمج الثوبَ شَمْجاً يَشمْج (Paltarı seyrək tikdi). Bütün bunların qiyası birdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:52:37.576Z"
+ "ts": "2026-10-25T01:52:37.576Z",
+ "prev_az": "[شمج] الشين والميم والجيم أصلٌ يدل على الخلْط وقلّة ائتلافِ الشئ (Şin, mim və cim qarışdırmağa və şeyin az uyuşmasına dəlalət edən əsasdır). يقال شَمَجه يَشْمُجُه شَمْجا (Deyilir: onu şəməcə yəşmuquhü şəmcan), إذا خلطه (əgər onu qarışdırdısa). وما ذاقَ شَمَاجاً (Və heç bir şəmac dadmadı), أى شيئاً من طعام (yəni yeməkdən heç bir şey). ويقولون (Və deyirlər): شَمَجوا (şəməcu), إِذا اختبزوا خبزاً غِلاظاً (əgər qalın çörək bişirdilərsə), ويستعار هذا حتَّى يقال للخياطة المتباعدة شَمْج (və bu, hətta aralı tikişə şəməndir deyilənə qədər istiarə olunur). يقال شمج الثوبَ شَمْجاً يَشمْج (Deyilir: paltarı şəməcə şəmcan yeşmuçu). وقياس ذلك كله واحد (Və bütün bunların qiyasları birdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«يَشْمُجُه» tələffüzü «yəşmuquhü», «يشمْج» isə «yeşmuçu» kimi təhrif olunmuşdur.",
+  "«شَمْج» sözü tərcümədə anlaşılmaz olaraq «şəməndir» kimi verilmişdir."
+ ],
+ "review_ts": "2026-11-20T07:22:57.680Z"
 }

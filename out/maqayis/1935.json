@@ -11,9 +11,19 @@
   "page_to": 107
  },
  "ar": "السين والنون والقاف فيه كلمةٌ واحدة، وهى السَّنَق، وهو كالبَشَم. يقال شرِب الفَصيل حتى سَنِق. وكذلك الفرس، من العلَف. وهو كالتُّخَم فى الناس.",
- "az": "«سنق» — السين والنون والقاف (سين، نun və qaf) burada tək bir kəlmə vardır, o da «السَّنَق»dir, o, «البشَم» (çox yeməkdən toxluq) kimidir. Deyilir ki, südəmər dəvə balası toxunana qədər içdi «سَنِقَ». Eləcə də at, yeməkdən. Bu, insanlardakı «التُّخَم» (həzm olunmamaq) kimidir.",
+ "az": "[سنق]\nالسين والنون والقاف (sin, nun və qaf) — burada tək bir kəlmə vardır, o da السَّنَقdir, o, البَشَم (həddən artıq yeməkdən toxluq və ağrı) kimidir. Deyilir: شرِب الفَصيل حتى سَنِق (südəmər dəvə balası həddən artıq içib mədəsi pozulana qədər içdi). Eləcə də at, yemdən. Bu, insanlardakı التُّخَم (mədə pozğunluğu, həzmsizlik) kimidir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:46:45.685Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سنق» — السين والنون والقاف (سين، نun və qaf) burada tək bir kəlmə vardır, o da «السَّنَق»dir, o, «البشَم» (çox yeməkdən toxluq) kimidir. Deyilir ki, südəmər dəvə balası toxunana qədər içdi «سَنِقَ». Eləcə də at, yeməkdən. Bu, insanlardakı «التُّخَم» (həzm olunmamaq) kimidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı formatı pozulub ([سنق] olmalıdır).",
+  "«نun» şəklində qarışıq əlifba xətası var.",
+  "«حتى سَنِق» ifadəsi «toxunana qədər» kimi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-20T07:07:30.983Z"
 }

@@ -11,9 +11,19 @@
   "page_to": 129
  },
  "ar": "السين والباء والغين أصلٌ واحد يدلُّ على تمامِ الشئ وكماله.\nيقال أسْبَغْتُ الأمر، وأسْبَغَ فلان وضوءَه. ويقال أسبغ اللّه عليه نِعَمَه. ورجل مُسْبِغ، أى عليه درعٌ سابغة. وفحل سابغٌ: طويل الجُرْدَان (١)، وضدُّه الكَمْش. ويقال سَبَّغَت الناقةُ، إِذا ألقت ولدَها وقد أشْعَرَ.",
- "az": "«سبغ» (sin, ba, ğın). Bir şeyin tamlığına və kamil olmasına dəlalət edən tək bir əsldir. «İşi kamil etdim» mənasında «أسْبَغْتُ الأمر» (əsbəğtu-l-əmr), həmçinin «Filankəs dəstəmazını kamil etdi» mənasında «أسْبَغَ فلان وضوءَه» (əsbəğə fəlanu vəzuəhə) deyilir. Uca Allahın onun nemətlərini kamil etməsi üçün «أسبغ اللّه عليه نِعَمَه» (əsbəğə-l-lahu əleyhi niəməh) deyilir. Üstündə kamil zireh olan kimsəyə «رجل مُسْبِغ» (raculun musbiğ) deyilir. Uzun cinsiyyət orqanı olan erkək heyvana «فحل سابغ» (fəhlun sabığ) deyilir, onun ziddi isə «əlkəmş»dir. Dəvə bala atarkən üzərində tüklər əmələ gəlmiş halda atdıqda «سَبَّغَت الناقةُ» (səbbəğəti-n-naqatu) deyilir.",
+ "az": "[سبغ]\nSin, ba və ğayn bir şeyin tamlığına və kamilliyinə dəlalət edən tək bir əsldir.\n«İşi kamil etdim» mənasında أسْبَغْتُ الأمر (əsbəğtu-l-əmr), «Filankəs dəstəmazını kamil etdi» mənasında أسْبَغَ فلان وضوءَه (əsbəğə fulanun vuduəhu) deyilir. «Allah ona nemətlərini bol və kamil etdi» mənasında أسبغ اللّه عليه نِعَمَه (əsbəğəllahu əleyhi niəməh) deyilir. Üzərində kamil zireh olan kimsəyə رجل مُسْبِغ (raculun musbiğ) deyilir. Uzun cinsiyyət orqanı (الجُرْدَان) olan erkək heyvana فحل سابغٌ (fəhlun sabiğun) deyilir (١), onun ziddi isə الكَمْش (əl-kəmş)dir. Dəvə balasını üzərində tüklər əmələ gəlmiş halda saldıqda سَبَّغَت الناقةُ (səbbəğəti-n-naqatu) deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:48:11.742Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سبغ» (sin, ba, ğın). Bir şeyin tamlığına və kamil olmasına dəlalət edən tək bir əsldir. «İşi kamil etdim» mənasında «أسْبَغْتُ الأمر» (əsbəğtu-l-əmr), həmçinin «Filankəs dəstəmazını kamil etdi» mənasında «أسْبَغَ فلان وضوءَه» (əsbəğə fəlanu vəzuəhə) deyilir. Uca Allahın onun nemətlərini kamil etməsi üçün «أسبغ اللّه عليه نِعَمَه» (əsbəğə-l-lahu əleyhi niəməh) deyilir. Üstündə kamil zireh olan kimsəyə «رجل مُسْبِغ» (raculun musbiğ) deyilir. Uzun cinsiyyət orqanı olan erkək heyvana «فحل سابغ» (fəhlun sabığ) deyilir, onun ziddi isə «əlkəmş»dir. Dəvə bala atarkən üzərində tüklər əmələ gəlmiş halda atdıqda «سَبَّغَت الناقةُ» (səbbəğəti-n-naqatu) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[سبغ]» formatında verilməyib və abzas bölgüsü qorunmayıb.",
+  "«(١)» haşiyə rəqəmi buraxılıb.",
+  "«أسبغ اللّه عليه نِعَمَه» ifadəsinin tərcüməsi («nemətlərini kamil etməsi üçün») cümlə quruluşuna uyğun deyil."
+ ],
+ "review_ts": "2026-11-20T07:08:47.373Z"
 }

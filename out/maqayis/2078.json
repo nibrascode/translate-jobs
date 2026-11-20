@@ -13,5 +13,10 @@
  "ar": "الشين والغين والفاء كلمةٌ واحدة، وهى الشَّغَاف، وهو غِلاف القلب. قال اللّه تعالى: ﴿قَدْ شَغَفَها حُبًّا﴾، أى أوصَلَ الحبَّ إِلى شَغاف قلبها.",
  "az": "[شغف] الشين والغين والفاء — tək bir kəlmədir, o da əş-şəğaf (الشَّغَاف), yəni qəlbin örtüyü, pərdəsidir. Uca Allah buyurmuşdur: ﴿قَدْ شَغَفَها حُبًّا﴾ (mənaca tərcümə: həqiqətən, sevgi onun qəlbinin pərdəsinə qədər işləmişdir), yəni sevgini qəlbinin qlafına çatdırdı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:51:23.799Z"
+ "ts": "2026-10-25T01:51:23.799Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-20T07:12:06.350Z"
 }

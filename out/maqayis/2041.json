@@ -11,9 +11,19 @@
   "page_to": 167
  },
  "ar": "الشين والظاء أصلٌ يدل على امتدادٍ فى شئ. من ذلك الشِّظَاظانِ: العُودان اللذان يُجعَلان فى عُرَى الجُوالِق. قال:\nأين الشِّظاظان وأين المِرْبَعهْ … وأين وَسَقُ الناقةِ المُطَبَعة (١)\nويقولون: أشَظَّ الرجُل، إذا تحرَّك ما عنده. ويقولون: أشَظَّ البعيرُ، إذا مدّ بذنَبه.",
- "az": "«شظ» (şin və zai). Şin və zai hərfləri bir şeydə uzanmağa (uzunsovluğa) dəlalət edən bir əsldir. Bunlardan biri «الشِّظَاظانِ» sözüdür: yəni torbanın (cüalığın) qulaqlarına keçirilən iki çubuq. Şair demişdir: «أين الشِّظاظان وأين المِرْبَعهْ … وأين وَسَقُ الناقةِ المُطَبَعة» (Haradadır o iki çubuq, haradadır dördbucaqlı çadır dirəyi, və haradadır öyrədilmiş dəvənin yükü) (١). Onlar həmçinin deyirlər: «أشَظَّ الرجُل» — kişi özündə olanı hərəkətə gətirdiyi zaman. Deyirlər ki, «أشَظَّ البعيرُ» — dəvə quyruğunu uzatdıqda.",
+ "az": "[شظ]\nŞin və za hərfləri bir şeydə uzanmağa dəlalət edən bir əsldir. Bunlardan biri الشِّظَاظانِ (cüvalın qulaqlarına keçirilən iki çubuq) sözüdür. Şair demişdir:\nأين الشِّظاظان وأين المِرْبَعهْ … وأين وَسَقُ الناقةِ المُطَبَعة (١) (Haradadır o iki çubuq, haradadır yük qaldırmaq üçün ağac və haradadır ağır yüklənmiş dəvənin yükü!)\nOnlar həmçinin deyirlər: أشَظَّ الرجُل — kişi özündə olan şey hərəkətə gəldiyi zaman. Deyirlər ki: أشَظَّ البعيرُ — dəvə quyruğunu uzatdıqda.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:49:57.451Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شظ» (şin və zai). Şin və zai hərfləri bir şeydə uzanmağa (uzunsovluğa) dəlalət edən bir əsldir. Bunlardan biri «الشِّظَاظانِ» sözüdür: yəni torbanın (cüalığın) qulaqlarına keçirilən iki çubuq. Şair demişdir: «أين الشِّظاظان وأين المِرْبَعهْ … وأين وَسَقُ الناقةِ المُطَبَعة» (Haradadır o iki çubuq, haradadır dördbucaqlı çadır dirəyi, və haradadır öyrədilmiş dəvənin yükü) (١). Onlar həmçinin deyirlər: «أشَظَّ الرجُل» — kişi özündə olanı hərəkətə gətirdiyi zaman. Deyirlər ki, «أشَظَّ البعيرُ» — dəvə quyruğunu uzatdıqda.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[شظ]» formatında verilməyib və «ظ» hərfi «zai» kimi yanlış adlandırılıb («za» olmalıdır).",
+  "Şeirdə «المِرْبَعهْ» sözü «dördbucaqlı çadır dirəyi», «المُطَبَعة» sözü isə «öyrədilmiş» kimi yanlış tərcümə edilib.",
+  "«تحرَّك ما عنده» ifadəsi təsirli fel kimi («hərəkətə gətirdiyi») tərcümə olunub, halbuki lazım feldir («hərəkətə gəldiyi»)."
+ ],
+ "review_ts": "2026-11-20T07:09:57.534Z"
 }

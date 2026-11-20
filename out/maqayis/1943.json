@@ -11,9 +11,18 @@
   "page_to": 110
  },
  "ar": "السين والهاء والقاف أصلٌ يدلُّ على طول وامتداد. وهو صحيح. فالسَّهْوَق: الرَّجُل الطويل. والسَّهْوق الكذَّابُ، وسُمِّى بذلك لأنه يغلو فى الأمر ويزيدُ فى الحديث. والسهوق من الرياح: التى تَنسِج العَجَاج.\n* والسَّهْوق: الرّيّان من سُوق الشَّجر؛ لأنّه إِذا رَوِىَ طال.",
- "az": "[سهق] السين والهاء والقاف (sin, ha və qaf) — uzunluğa və uzanmaya dəlalət edən bir əsldir. Bu, səhihdir. السَّهْوَق (əssəhvəq): uzun boylu kişi. والسَّهْوق (əssəhvuq): yalançı, belə adlandırılması ona görədir ki, o, işdə həddi aşır və sözə əlavə edərək artırır. السُّهوق (əssuhuq) küləklərdən: toz-torpaq burulğanı (əcaj) hörənlərdir.\n* والسَّهْوق (əssəhvuq): ağac gövdələrindən suya doymuş olanı; çünki o, suya doyduqda uzanar.",
+ "az": "[سهق]\nالسين والهاء والقاف (sin, ha və qaf) — uzunluğa və uzanmaya dəlalət edən bir əsldir. Bu, səhihdir. السَّهْوَق (əs-səhvəq): uzun boylu kişi. السَّهْوق (əs-səhvəq): yalançı, belə adlandırılması ona görədir ki, o, işdə həddi aşır və sözə əlavə edərək artırır. Küləklərdən السهوق (əs-səhvəq): toz-torpaq burulğanı hörən küləklərdir.\n* السَّهْوق (əs-səhvəq): ağac gövdələrindən suya doymuş olanı; çünki o, suya doyduqda uzanar.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:47:08.653Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[سهق] السين والهاء والقاف (sin, ha və qaf) — uzunluğa və uzanmaya dəlalət edən bir əsldir. Bu, səhihdir. السَّهْوَق (əssəhvəq): uzun boylu kişi. والسَّهْوق (əssəhvuq): yalançı, belə adlandırılması ona görədir ki, o, işdə həddi aşır və sözə əlavə edərək artırır. السُّهوق (əssuhuq) küləklərdən: toz-torpaq burulğanı (əcaj) hörənlərdir.\n* والسَّهْوق (əssəhvuq): ağac gövdələrindən suya doymuş olanı; çünki o, suya doyduqda uzanar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "AR-da hərəkəsiz olan «والسهوق» sözünə tərcümədə yanlış hərəkə əlavə edilib («السُّهوق»).",
+  "«العَجَاج» sözünün transkripsiyası Azərbaycan əlifbasına uyğun olmayan «əcaj» şəklində verilib."
+ ],
+ "review_ts": "2026-11-20T07:07:38.211Z"
 }

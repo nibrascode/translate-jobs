@@ -11,7 +11,16 @@
   "page_to": 195
  },
  "ar": "الشين والغين والميم أصلٌ قليلُ الفروع صحيح، يدلُّ على حُسن. يقال الشُّغْموم: الحَسن. والشُّغموم: المرأة الحَسْناء. والشُّغموم من الإبل:\nالحسن المنظرِ التامُّ.",
- "az": "[شغم] (şəğəm) — Şin, ğayn və mim azfروعli (budaqsız), səhih bir kök olub gözəlliyə dəlalət edir. «الشُّغْموم» (əş-şuğmum) — gözəl deməkdir. «الشُّغْموم» (əş-şuğmum) — gözəl qadın. Dəvələrdən olan «الشُّغْموم» (əş-şuğmum) — görünüşü gözəl və tam olan deməkdir.",
+ "az": "[شغم]\nالشين والغين والميم — törəmələri az, səhih bir kök olub gözəlliyə dəlalət edir. Deyilir: «الشُّغْموم» (əş-şuğmum) — gözəl deməkdir. Və «الشُّغموم» (əş-şuğmum) — gözəl qadın. Və dəvələrdən olan «الشُّغموم» (əş-şuğmum) — görünüşü gözəl və tam olan deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:51:46.481Z"
+ "ts": "2026-10-25T01:51:46.481Z",
+ "prev_az": "[شغم] (şəğəm) — Şin, ğayn və mim azfروعli (budaqsız), səhih bir kök olub gözəlliyə dəlalət edir. «الشُّغْموم» (əş-şuğmum) — gözəl deməkdir. «الشُّغْموم» (əş-şuğmum) — gözəl qadın. Dəvələrdən olan «الشُّغْموم» (əş-şuğmum) — görünüşü gözəl və tam olan deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«قليلُ الفروع» ifadəsi səhvən «azfروعli (budaqsız)» kimi tərcümə edilmiş və latın-ərəb hərfləri qarışdırılmışdır."
+ ],
+ "review_ts": "2026-11-20T07:12:06.351Z"
 }

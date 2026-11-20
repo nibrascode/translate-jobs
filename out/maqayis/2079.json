@@ -11,7 +11,19 @@
   "page_to": 195
  },
  "ar": "الشين والغين واللام أصلٌ واحدٌ يدلُّ على خلاف الفَراغ.\nتقول: شَغَلتُ فلاناً فأنا شاغِلُه، وهو مشغول. وشُغِلْت عنك بكذا، على لفظّ ما لم يسمَّ فاعلُه. قالوا: ولا يقال أُشغِلْت. ويقال شُغْل شاغلٌ. وجمع الشُّغْل أشغال.\nوقد جاء عنهم: اشتُغِلَ فلانٌ بالشئ (١)، وهو مشتَغَل. وأنشد:\nحَيَّتك ثُمَّت قالت إنّ نَفْرَتَنا … اليومَ كلَّهم يا عُرْوَ مشتَغَلُ (٢)\nوحكى ناسٌ: أشْغَلَنى بالألف.",
- "az": "[شغل] الشين والغين واللام — boş qalmağın ziddinə dəlalət edən tək bir kökdür. Deyirsən: «شَغَلتُ فلanaً فأنا شاغِلُه» (filankəsi məşğul etdim, mən onun məşğul edəsiyəm), və o, məşğuldur. Və məchul fel صيغة ləfzində «شُغِلْت عنك بكذا» (filan şeylə səndən yayındırıldım/məşğul edildim) deyilir. Dedilər ki, «أُشغِلْت» deyilmir. Və «شُغْل شاغلٌ» (başını qatan məşğuliyyət) deyilir. Və شغل sözünün cəmi أشغال (əşğal) gəlir. Onlardan belə bir ifadə də gəlmişdir: «اشتُغِلَ فلانٌ بالشئ» (filankəs işlə məşğul edildi) və o, məşğul olunmuşdur (١). (Şair) söyləmişdir: «Səni salamladı, sonra dedi ki, bizim dəstəmizin hamısı bu gün, ey Ürvə, məşğuldur» (٢). Və bir qrup insan «أشْغَلَنى» (məni məşğul etdi) formasında əlif hərfi ilə işlətmişdir.",
+ "az": "[شغل]\nالشين والغين واللام — boş qalmağın ziddinə dəlalət edən tək bir kökdür.\nDeyirsən: «شَغَلتُ فلاناً فأنا شاغِلُه» (filankəsi məşğul etdim, mən onu məşğul edənəm) və «هو مشغول» (o, məşğuldur). Və məchul fel şəklində «شُغِلْت عنك بكذا» (filan şeylə səndən yayındırıldım/məşğul edildim) deyilir. Dedilər ki, «أُشغِلْت» deyilmir. Və «شُغْل شاغلٌ» (başını qatan məşğuliyyət) deyilir. Və الشُّغْل (şuğl) sözünün cəmi أشغال (əşğal) gəlir.\nOnlardan belə bir ifadə də gəlmişdir: «اشتُغِلَ فلانٌ بالشئ» (filankəs bir işlə məşğul edildi) (١) və «هو مشتَغَل» (o, məşğul olunmuşdur). (Şair) söyləmişdir:\nحَيَّتك ثُمَّت قالت إنّ نَفْرَتَنا … اليومَ كلَّهم يا عُرْوَ مشتَغَلُ (٢) (Səni salamladı, sonra dedi ki, bizim dəstəmizin hamısı bu gün, ey Urvə, məşğuldur).\nVə bir qrup insan əlif hərfi ilə «أشْغَلَنى» (məni məşğul etdi) formasında rəvayət etmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:51:23.799Z"
+ "ts": "2026-10-25T01:51:23.799Z",
+ "prev_az": "[شغل] الشين والغين واللام — boş qalmağın ziddinə dəlalət edən tək bir kökdür. Deyirsən: «شَغَلتُ فلanaً فأنا شاغِلُه» (filankəsi məşğul etdim, mən onun məşğul edəsiyəm), və o, məşğuldur. Və məchul fel صيغة ləfzində «شُغِلْت عنك بكذا» (filan şeylə səndən yayındırıldım/məşğul edildim) deyilir. Dedilər ki, «أُشغِلْت» deyilmir. Və «شُغْل شاغلٌ» (başını qatan məşğuliyyət) deyilir. Və شغل sözünün cəmi أشغال (əşğal) gəlir. Onlardan belə bir ifadə də gəlmişdir: «اشتُغِلَ فلانٌ بالشئ» (filankəs işlə məşğul edildi) və o, məşğul olunmuşdur (١). (Şair) söyləmişdir: «Səni salamladı, sonra dedi ki, bizim dəstəmizin hamısı bu gün, ey Ürvə, məşğuldur» (٢). Və bir qrup insan «أشْغَلَنى» (məni məşğul etdi) formasında əlif hərfi ilə işlətmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«فلanaً» ifadəsində ərəb və latın hərfləri qarışdırılmışdır.",
+  "Tərcüməsiz qalmış «صيغة» ərəb sözü mətnə əlavə edilmişdir.",
+  "Şeir beytinin ərəbcə mətni buraxılmışdır.",
+  "Haşiyə rəqəmi (١) yeri səhv salınmış və «مشتَغَل» sözü ərəbcə verilməmişdir."
+ ],
+ "review_ts": "2026-11-20T07:12:06.351Z"
 }

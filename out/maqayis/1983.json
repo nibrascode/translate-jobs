@@ -11,9 +11,19 @@
   "page_to": 129
  },
  "ar": "السين والباء والكاف أُصَيل يدل على التناهى فى إمهاء الشئ (٢).\nمن ذلك: سَبَكْتُ الفضة وغيرَها أسْبِكُها سَبْكا. وهذا يستعار فى غير الإذابة أيضاً. [والسُّنبُك: طرف الحافر (٣)]. فأما السُّنْبُك من الأرض فاستعارةٌ، طَرفٌ غليظٌ قليل الخير.",
- "az": "«سبك» (sin, ba, kaf). Bir şeyin əriməsində və axmasında həddə çatmağa dəlalət edən kiçik bir əsldir. Buradan: «Gümüşü və başqa şeyləri əritdim» mənasında «سَبَكْتُ الفضة وغيرَها أسْبِكُها سَبْكا» (səbətu-l-fizzətə və ğəyrəhə əsbikuhə səbkan) deyilir. Bu, əritmək mənasından başqa mənalarda da məcazi olaraq işlədilir. [Və «əssunbuk» - dırnağın ucudur]. Yerdəki «əssunbuk» isə məcazdır; qalın və xeyri az olan ucdur.",
+ "az": "[سبك]\nSin, ba və kaf bir şeyin əridilməsində (duruldulmasında) həddə çatmağa dəlalət edən kiçik bir əsldir (٢).\nBuradan: «Gümüşü və başqa şeyləri əritdim» mənasında سَبَكْتُ الفضة وغيرَها أسْبِكُها سَبْكا (səbəktu-l-fiddətə və ğəyrəhə əsbikuhə səbkən) deyilir. Bu, əritmək mənasından başqa hallarda da məcazi olaraq işlədilir. [السُّنبُك (əs-sunbuk) – dırnağın ucudur (٣)]. Yerdəki السُّنْبُك (əs-sunbuk) isə məcazdır; qalın və xeyri az olan bir tərəfdir (ucdur).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:48:11.742Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سبك» (sin, ba, kaf). Bir şeyin əriməsində və axmasında həddə çatmağa dəlalət edən kiçik bir əsldir. Buradan: «Gümüşü və başqa şeyləri əritdim» mənasında «سَبَكْتُ الفضة وغيرَها أسْبِكُها سَبْكا» (səbətu-l-fizzətə və ğəyrəhə əsbikuhə səbkan) deyilir. Bu, əritmək mənasından başqa mənalarda da məcazi olaraq işlədilir. [Və «əssunbuk» - dırnağın ucudur]. Yerdəki «əssunbuk» isə məcazdır; qalın və xeyri az olan ucdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[سبك]» formatında verilməyib və abzas bölgüsü qorunmayıb.",
+  "«(٢)» və «(٣)» haşiyə rəqəmləri buraxılıb.",
+  "«سَبَكْتُ» sözünün transkripsiyası səhvən «səbətu» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-20T07:08:47.374Z"
 }

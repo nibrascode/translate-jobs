@@ -11,9 +11,18 @@
   "page_to": 106
  },
  "ar": "السين والنون والعين إن كان صحيحاً فهو يدلُّ على جَمَالٍ وخيرٍ ورِفعة. يقال شرفٌ أسنعُ، أى عالٍ مرتفع. وامرأة سنيعة: أى جميلة.",
- "az": "«سنع» — السين، والنون والعين (سين، نun və ayn) əgər səhihdirsə, gözəlliyə, xeyrə və ucalığa dəlalət edir. Deyilir: «شرفٌ أسنعُ» — yəni uca, yüksək şərəf. «امرأة سنيعة» — yəni gözəl qadın.",
+ "az": "[سنع]\nالسين والنون والعين (sin, nun və ayn) əgər səhihdirsə, gözəlliyə, xeyrə və ucalığa dəlalət edir. Deyilir: شرفٌ أسنعُ — yəni uca, yüksək şərəf. امرأة سنيعة — yəni gözəl qadın.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:46:45.684Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سنع» — السين، والنون والعين (سين، نun və ayn) əgər səhihdirsə, gözəlliyə, xeyrə və ucalığa dəlalət edir. Deyilir: «شرفٌ أسنعُ» — yəni uca, yüksək şərəf. «امرأة سنيعة» — yəni gözəl qadın.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı formatı pozulub ([سنع] olmalıdır).",
+  "«نun» şəklində qarışıq əlifba xətası var."
+ ],
+ "review_ts": "2026-11-20T07:07:30.982Z"
 }

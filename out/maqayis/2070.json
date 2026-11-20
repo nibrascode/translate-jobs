@@ -11,7 +11,17 @@
   "page_to": 189
  },
  "ar": "الشين والعين والفاء يدلُّ على أعالى الشئ ورأسه.\nفالشّعَفة: رأس الجبل، والجمع شَعَفات وشَعَفٌ. وضُرب فلانٌ على شَعفات رأسه، أى أعالى رأسِه. وشَعَفةُ القلب: رأسُه عند مُعَلَّق النِّياط. ولذلك يقال شَعَفه الحُبَّ، كأنَّه غَشّى قلبَه من فَوقه. وقرأها ناس (٤): «قد شعفها حبّا»، وهو من هذا. وجاء\nفى الحديث: «خيرُ النّاس رجُلٌ فى شَعَفَةٍ فى غُنَيْمةٍ».\nيريد: أعلى جَبَل.",
- "az": "[شعف] \nŞin, eyn və fa bir şeyin uca yerlərinə və baş tərəfinə dəlalət edir.\nƏş-şəfə (الشّعَفة) – dağın başıdır, cəmi şəfəfat (شَعَفات) və şəfəf (شَعَفٌ) gəlir. Fulanın başının şəfəfatına, yəni başının uca yerlərinə zərbə endirildi. Və qəlbin şəfəsi (شَعَفةُ القلب) – onun damarlarının bağlı olduğu baş tərəfidir. Ona görə də deyilir ki, məhəbbət onu şəf etdi (شَعَفه الحُبَّ), sanki o, qəlbini yuxarıdan örtmüşdür. Bəzi insanlar bunu belə oxumuşlar (٤): «Həqiqətən, məhəbbət onu bürüdü (قد شعفها حبّا)», bu da bundandır. Və hədisdə gəlmişdir: «İnsanların ən xeyirlisi kiçik sürüsü ilə dağın başında olan kəsdir (خيرُ النّاس رجُلٌ فى شَعَفَةٍ فى غُنَيْمةٍ)».\nO, dağın zirvəsini qəsd edir.",
+ "az": "[شعف]\nŞin, ayn və fa bir şeyin uca yerlərinə və baş tərəfinə dəlalət edir.\nالشّعَفة (əş-şəəfə) – dağın başıdır, cəmi شَعَفات (şəəfat) və شَعَفٌ (şəəf) gəlir. Fulanın başının şəəfatına, yəni başının uca yerlərinə zərbə endirildi. شَعَفةُ القلب (qəlbin şəəfəsi) – onun damarlarının bağlı olduğu baş tərəfidir. Ona görə də deyilir ki, شَعَفه الحُبَّ (məhəbbət onun qəlbinin başına vurdu/bürüdü), sanki o, qəlbini yuxarıdan örtmüşdür. Bəzi insanlar bunu belə oxumuşlar (٤): «قد شعفها حبّا» (Həqiqətən, məhəbbət onu bürüdü), bu da bundandır. Hədisdə gəlmişdir: «خيرُ النّاس رجُلٌ فى شَعَفَةٍ فى غُنَيْمةٍ» (İnsanların ən xeyirlisi kiçik sürüsü ilə bir zirvədə olan kəsdir).\nO, dağın zirvəsini qəsd edir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:51:02.753Z"
+ "ts": "2026-10-25T01:51:02.753Z",
+ "prev_az": "[شعف] \nŞin, eyn və fa bir şeyin uca yerlərinə və baş tərəfinə dəlalət edir.\nƏş-şəfə (الشّعَفة) – dağın başıdır, cəmi şəfəfat (شَعَفات) və şəfəf (شَعَفٌ) gəlir. Fulanın başının şəfəfatına, yəni başının uca yerlərinə zərbə endirildi. Və qəlbin şəfəsi (شَعَفةُ القلب) – onun damarlarının bağlı olduğu baş tərəfidir. Ona görə də deyilir ki, məhəbbət onu şəf etdi (شَعَفه الحُبَّ), sanki o, qəlbini yuxarıdan örtmüşdür. Bəzi insanlar bunu belə oxumuşlar (٤): «Həqiqətən, məhəbbət onu bürüdü (قد شعفها حبّا)», bu da bundandır. Və hədisdə gəlmişdir: «İnsanların ən xeyirlisi kiçik sürüsü ilə dağın başında olan kəsdir (خيرُ النّاس رجُلٌ فى شَعَفَةٍ فى غُنَيْمةٍ)».\nO, dağın zirvəsini qəsd edir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«شَعَفات», «شَعَفٌ» və «شَعَفه» sözlərinin transliterasiyasında ayn hərfi buraxılaraq «şəfəfat», «şəfəf» və «şəf etdi» kimi səhv yazılıb.",
+  "Hədisin tərcüməsində «فى شَعَفَةٍ» ifadəsi «dağın başında» kimi verilib, halbuki hədisin özündə «dağ» sözü yoxdur (müəllif bunu ayrıca izah edir)."
+ ],
+ "review_ts": "2026-11-20T07:10:53.349Z"
 }

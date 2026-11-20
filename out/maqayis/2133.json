@@ -11,7 +11,16 @@
   "page_to": 223
  },
  "ar": "الشين والهاء والميم أصلٌ يدلُّ على ذَكاء. يقال من ذلك:\nرجل شَهْم. وربَّما قالوا للمذعور: مَشهوم، وهو قياسٌ صحيح لأنَّه إذا تفزَّعَ بَدَا ذكاء قلبِه (١). ويقولون: إِنَّ الشَّهامَ السِّعلاة. فإنْ صحَّ هذا فهو أيضاً من الذكاء. والشَّيهم: القنفذ؛ وليس ببعيدٍ أن يكون من قياس الباب. وفيه يقول الأعشى:\nلَئِنْ جَدّ أسبابُ العداوةِ بيننا … لترتَحِلَنْ منِّى على ظهر شَبهمِ (٢)\nواللّه أعلم.",
- "az": "[شهم] (şəhəmə) — şin, he və mim zəkasına dəlalət edən bir əsasdır. Buradan: «رجل شَهْم» (şəhm kişi - zeki, qoçaq kişi) denilir. Bəzən qorxmuş adama «مَشهوم» (məşhum) deyirlər ki, bu da səhih bir qiyasdır, çünki o, qorxuya düşdükdə qəlbinin zəkası aşkara çıxır (١). Deyirlər ki, «الشَّهام» (şəham) — Səilət (bir növ qulyabani) dir. Əgər bu səhihdirsə, o da zəkadan irəli gəlir. «الشَّيهم» (şəheym) — kirpidir; bu fəslin qiyasından olması uzaq deyil. Əşa bu barədə demişdir:\nلَئِنْ جَدّ أسبابُ العداوةِ بيننا … لترتَحِلَنْ منِّى على ظهر شَبهمِ (٢)\n\nVə ən doğrusunu Allah bilir.",
+ "az": "[شهم] (şəhəmə) — şin, he və mim zəkaya dəlalət edən bir əsasdır. Buradan: «رجل شَهْم» (zəki, qoçaq kişi) denilir. Bəzən qorxmuş adama «مَشهوم» (məşhum) deyirlər ki, bu da səhih bir qiyasdır, çünki o, qorxuya düşdükdə qəlbinin zəkası aşkara çıxır (١). Deyirlər ki, «الشَّهام» (şəham) — səilət (qulyabani) deməkdir. Əgər bu səhihdirsə, o da zəkadan irəli gəlir. «الشَّيهم» (şəyhem) — kirpidir; bu fəslin qiyasından olması uzaq deyil. Əşa bu barədə demişdir:\nلَئِنْ جَدّ أسبابُ العداوةِ بيننا … لترتَحِلَنْ منِّى على ظهر شَبهمِ (٢)\n(Əgər aramızda ədavət səbəbləri ciddiləşərsə, məndən kirpi (çətinlik) üzərində köçüb gedərsən).\n\nVə Allah ən doğrusunu bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:53:49.354Z"
+ "ts": "2026-10-25T01:53:49.354Z",
+ "prev_az": "[شهم] (şəhəmə) — şin, he və mim zəkasına dəlalət edən bir əsasdır. Buradan: «رجل شَهْم» (şəhm kişi - zeki, qoçaq kişi) denilir. Bəzən qorxmuş adama «مَشهوم» (məşhum) deyirlər ki, bu da səhih bir qiyasdır, çünki o, qorxuya düşdükdə qəlbinin zəkası aşkara çıxır (١). Deyirlər ki, «الشَّهام» (şəham) — Səilət (bir növ qulyabani) dir. Əgər bu səhihdirsə, o da zəkadan irəli gəlir. «الشَّيهم» (şəheym) — kirpidir; bu fəslin qiyasından olması uzaq deyil. Əşa bu barədə demişdir:\nلَئِنْ جَدّ أسبابُ العداوةِ بيننا … لترتَحِلَنْ منِّى على ظهر شَبهمِ (٢)\n\nVə ən doğrusunu Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin tərcüməsi mötərizədə verilməyib."
+ ],
+ "review_ts": "2026-11-20T07:29:52.905Z"
 }

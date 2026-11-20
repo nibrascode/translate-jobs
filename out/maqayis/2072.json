@@ -11,7 +11,17 @@
   "page_to": 190
  },
  "ar": "الشين والعين والحرف المعتل، أصلٌ يَدُلُّ على مِثل ما دل عليه الذى قَبْله. يقال أشعَى القومُ الغارةَ إشعاء، إذا أشْعَلوها. وغارةٌ شَعْواء:\nفاشية. قال ابنُ قيس الرّقيّات:\nكيفَ نَومِى على الفِراشِ ولمَّا … تَشْمَل الشّامَ غارةٌ شعواءُ (٣)",
- "az": "[شعى] الشين والعين والمحترق (və ya حرف المعتل) — özündən əvvəlkinin bildirdiyi mənanın bənzərinə dəlalət edən bir kökdür. «أشْعَى القومُ الغارةَ إشعاء» (tayfa basqını sürətləndirdi və yaydı) deyilir, necə ki «أشْعَلوها» (onu alovlandırdılar) deyirlər. Və «غارةٌ شَعواء» (şəva basqın): hər yana yayılmış, şiddətli basqın. İbn Qeys ər-Rüqəyyat demişdir: «Nəğmə oxuyan basqın Şamı bürüb tərk etməmiş, mən yataqda necə yata bilərəm?» (٣)",
+ "az": "[شعى]\nالشين والعين والحرف المعتل (şin, ayn və illətli hərf) — özündən əvvəlkinin dəlalət etdiyi mənanın bənzərinə dəlalət edən bir kökdür. «أشعَى القومُ الغارةَ إشعاء» (tayfa basqını sürətləndirdi və yaydı) deyilir, yəni «أشْعَلوها» (onu alovlandırdılar) dedikdə. Və «غارةٌ شَعْواء»:\nhər yana yayılmış (basqın). İbn Qeys ər-Rüqəyyat demişdir:\nكيفَ نَومِى على الفِراشِ ولمَّا … تَشْمَل الشّامَ غارةٌ شعواءُ (٣) (Hər yana yayılmış basqın Şamı hələ bürüməmişkən, mənim yataqda yatmağım necə ola bilər? (٣))",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:51:23.799Z"
+ "ts": "2026-10-25T01:51:23.799Z",
+ "prev_az": "[شعى] الشين والعين والمحترق (və ya حرف المعتل) — özündən əvvəlkinin bildirdiyi mənanın bənzərinə dəlalət edən bir kökdür. «أشْعَى القومُ الغارةَ إشعاء» (tayfa basqını sürətləndirdi və yaydı) deyilir, necə ki «أشْعَلوها» (onu alovlandırdılar) deyirlər. Və «غارةٌ شَعواء» (şəva basqın): hər yana yayılmış, şiddətli basqın. İbn Qeys ər-Rüqəyyat demişdir: «Nəğmə oxuyan basqın Şamı bürüb tərk etməmiş, mən yataqda necə yata bilərəm?» (٣)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الشين والعين والمحترق» ifadəsində «المحترق» sözü səhv və uydurmadır, AR-da «الحرف المعتل» yazılıb.",
+  "Şeir beytinin ərəbcə mətni buraxılıb və tərcüməsi səhvdir («nəğmə oxuyan basqın»)."
+ ],
+ "review_ts": "2026-11-20T07:11:04.326Z"
 }

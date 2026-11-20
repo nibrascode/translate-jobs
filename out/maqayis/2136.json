@@ -11,7 +11,16 @@
   "page_to": 226
  },
  "ar": "الشين والواو والذال ليس فيه إلا المِشْوَذ، وهى العمامة.\nقال الوليد بن عقبة:\nإِذا ما شددتُ الرأس مِنّى بمِشوذٍ … فَغَيَّكِ مِنِّى تغلبَ ابنةَ وائلِ (١)",
- "az": "[شوذ] (şəvəzə) — şin, vav və zal hərflərindən ibarət bu kökdə «المِشْوَذ» (mişvəz) — yəni əmmamədən başqa heç nə yoxdur.\n\nVəlid ibn Uqbə demişdir:\nإِذا ما شددتُ الرأس مِنّى بمِشوذٍ … فَغَيَّكِ مِنِّى تغلبَ ابنةَ وائلِ (١)",
+ "az": "[شوذ] (şəvəzə) — şin, vav və zal hərflərindən ibarət bu kökdə «المِشْوَذ» (mişvəz) — yəni əmmamədən başqa heç nə yoxdur.\n\nVəlid ibn Uqbə demişdir:\nإِذا ما شددتُ الرأس مِنّى بمِشوذٍ … فَغَيَّكِ مِنِّى تغلبَ ابنةَ وائلِ (١)\n(Başımı əmmamə ilə bağladıqda, ey Vail qızı Təğlib, məndən çəkəcəyin azğınlığındır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:53:49.354Z"
+ "ts": "2026-10-25T01:53:49.354Z",
+ "prev_az": "[شوذ] (şəvəzə) — şin, vav və zal hərflərindən ibarət bu kökdə «المِشْوَذ» (mişvəz) — yəni əmmamədən başqa heç nə yoxdur.\n\nVəlid ibn Uqbə demişdir:\nإِذا ما شددتُ الرأس مِنّى بمِشوذٍ … فَغَيَّكِ مِنِّى تغلبَ ابنةَ وائلِ (١)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin tərcüməsi mötərizədə verilməyib."
+ ],
+ "review_ts": "2026-11-20T07:29:52.906Z"
 }

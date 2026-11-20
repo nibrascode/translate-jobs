@@ -11,9 +11,19 @@
   "page_to": 150
  },
  "ar": "السين والدال والميم أصلٌ فى شئٍ لا يُهتَدى لوجهه. يقال رَكِيَّةٌ سُدُم، إذا ادَّفَنَتْ. ومن ذلك البعير الهائج يسمَّى سَدِماً، أَنَّه إذا هاج لم يَدرِ من حاله * شيئاً، كالسَّكران الذى لا يَهتدى لوجهٍ. ومن ذلك قول القائل:\nيأيُّها السَّدِم المَلوِّى رأسَه … ليقودَ مِنْ أهل الحجاز بَرِيماَ (١)",
- "az": "«سدم» (sin, dal və mim) istiqaməti tapılmayan bir şeydə əslidir. Deyilir: «رَكِيَّةٌ سُدُم» – quyu torpaqla dolub basdırıldığı zaman. Ondan ötrü həyəcanlı dəvəyə də «سَدِماً» deyilir, çünki o həyəcanlandığı zaman, heç bir istiqaməti tapa bilməyən sərxoş kimi, öz halından * heç nə bilməz. Buna misal olaraq deylənin bu sözüdür: Ey başını bulayan sədim (heyrətli) … Hicaz əhlindən bir Bərimə başçılıq etmək üçün (1).",
+ "az": "[سدم]\nSin, dal və mim istiqaməti tapılmayan bir şeydə əsldir. Deyilir: «رَكِيَّةٌ سُدُم» – quyu torpaqla dolub basdırıldığı zaman. Ondan ötrü həyəcanlı dəvəyə də «سَدِماً» deyilir, çünki o həyəcanlandığı zaman, heç bir istiqaməti tapa bilməyən sərxoş kimi, öz halından * heç nə bilməz. Buna misal olaraq deyənin bu sözüdür:\n«يأيُّها السَّدِم المَلوِّى رأسَه … ليقودَ مِنْ أهل الحجاز بَرِيماَ» (Ey başını bulayan sədim (heyrətli) … Hicaz əhlindən bir Bərimə başçılıq etmək üçün) (١).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:49:18.132Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سدم» (sin, dal və mim) istiqaməti tapılmayan bir şeydə əslidir. Deyilir: «رَكِيَّةٌ سُدُم» – quyu torpaqla dolub basdırıldığı zaman. Ondan ötrü həyəcanlı dəvəyə də «سَدِماً» deyilir, çünki o həyəcanlandığı zaman, heç bir istiqaməti tapa bilməyən sərxoş kimi, öz halından * heç nə bilməz. Buna misal olaraq deylənin bu sözüdür: Ey başını bulayan sədim (heyrətli) … Hicaz əhlindən bir Bərimə başçılıq etmək üçün (1).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni saxlanılmamış, yalnız tərcüməsi verilmişdir.",
+  "Haşiyə rəqəmi «(١)» ərəb rəqəmi ilə saxlanılmayıb «(1)» kimi yazılmışdır.",
+  "Maddənin əvvəlində kök «[سدم]» formatında verilməmişdir."
+ ],
+ "review_ts": "2026-11-20T07:10:10.391Z"
 }

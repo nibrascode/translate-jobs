@@ -11,9 +11,18 @@
   "page_to": 111
  },
  "ar": "السين والهاء واللام أصلٌ واحد يدلُّ على لينٍ وخلافِ\nحُزونة. والسَّهْل: خلاف الحَزْن. ويقال النّسبةُ إلى الأرض السَّهلة سُهْلىٌّ.\nويقال أسْهَلَ القومُ، إذا ركبوا السّهل. ونهرٌ سَهِلٌ: فيه سِهْلَةٌ، وهو رملٌ ليس بالدُّفَاق. وسُهَيْلٌ: نجم.",
- "az": "[سهل] السين والهاء واللام (sin, ha və lam) — yumşaqlığa və sərtliyin (hüzunənin) ziddinə dəlalət edən tək bir əsldir. السَّهْل (əssəhl): sərtliyin (həzn) ziddi. Deyilir ki, hamar torpağa nisbət سُهْلىٌّ (suhliyy) olur.\nİnsanların əs-səhlə (hamar yerə) minməsi أسْهَلَ القومُ (əshələl-qövmü) deyilir. وَنَهْرٌ سَهِلٌ (və nəhrün səhilün): içində incə qum (sihlə) olan, lakin coşqun olmayan çaydır. وسُهَيْلٌ (və suheylün): ulduz adıdır.",
+ "az": "[سهل]\nالسين والهاء واللام (sin, ha və lam) — yumşaqlığa və sərtliyin (حُزونة) ziddinə dəlalət edən tək bir əsldir. السَّهْل (əs-səhl): sərtliyin (الحَزْن) ziddi. Deyilir ki, hamar torpağa nisbət سُهْلىٌّ (suhliyy) olur.\nİnsanlar düzən yerə (السّهل) çıxdıqda أسْهَلَ القومُ (qövm düzənliyə çıxdı) deyilir. نهرٌ سَهِلٌ (qumlu çay): içində سِهْلَةٌ (sihlə) olan çaydır, o isə narın olmayan (axıb dağılmayan) qumdur. سُهَيْلٌ (Suheyl): ulduz adıdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:47:08.653Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[سهل] السين والهاء واللام (sin, ha və lam) — yumşaqlığa və sərtliyin (hüzunənin) ziddinə dəlalət edən tək bir əsldir. السَّهْل (əssəhl): sərtliyin (həzn) ziddi. Deyilir ki, hamar torpağa nisbət سُهْلىٌّ (suhliyy) olur.\nİnsanların əs-səhlə (hamar yerə) minməsi أسْهَلَ القومُ (əshələl-qövmü) deyilir. وَنَهْرٌ سَهِلٌ (və nəhrün səhilün): içində incə qum (sihlə) olan, lakin coşqun olmayan çaydır. وسُهَيْلٌ (və suheylün): ulduz adıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«وهو رملٌ ليس بالدُّفَاق» (qumun təsviri) yanlışlıqla çaya aid edilərək «lakin coşqun olmayan çaydır» kimi tərcümə olunub.",
+  "«نهرٌ سَهِلٌ» ifadəsinə AR-da olmayan hərəkələr əlavə edilib."
+ ],
+ "review_ts": "2026-11-20T07:07:38.211Z"
 }

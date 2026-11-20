@@ -11,7 +11,19 @@
   "page_to": 202
  },
  "ar": "الشين والقاف والحرف المعتلّ أصلٌ يدلُّ على المعاناة وخلاف السُّهولة والسّعادة.\nوالشِّقوة: خلاف السعادة. ورجلٌ شقىٌّ بين الشَّقاء والشِّقوة والشَّقاوة.\nويقال إِنَّ المشاقاة: المعاناة والممارسة. والأصل فى ذلك أنَّه يتكلّف العَناء ويَشقَي به، فإذا هُمِزَ تغيَّر المعنى. تقول: شقأ نابُ البعير يَشْقَأ، إِذا بدا. قال: الشّاقئ:\nالنَّاب الذى لم يَعْصَل (٣).",
- "az": "[شقو] الشين (ش), القاف (ق) və hərf-i müəttl (vav/ya) əziyyət çəkməyə, rahatlığın və səadətin ziddinə dəlalət edən bir əsldir. وَالشِّقوة (əş-şiqvə): səadətin ziddi. وَرجلٌ شقىٌّ (kişi - bədbəxt) — şəqavət (الشَّقاء), şiqvə (الشِّقوة) və şəqavə (الشَّقاوə) arasında. Deyilir ki, الْمَشَاقَاة (əl-məşəqəti): əziyyət çəkmək və təcrübə etməkdir. Bunun əsli odur ki, insan özünü zəhmətə salır və onunla əziyyət çəkir. Lakin həmzələnərsə, məna dəyişər. Deyirsən: شقأ نابُ البعير يَشْقَأ (dəvənin azı dişi çıxdı) — çıxanda. (Şair) demişdir: الشّاقئ (əş-şaqi): hələ bükülüb qalmamış azı dişi (٣).",
+ "az": "[شقو]\nŞin, qaf və illətli hərf əziyyət çəkməyə, rahatlığın və səadətin ziddinə dəlalət edən bir kökdür.\nالشِّقوة (bədbəxtlik) — səadətin ziddidir. رجلٌ شقىٌّ بين الشَّقاء والشِّقوة والشَّقاوة (bədbəxtliyi aşkar olan bədbəxt kişi).\nDeyilir ki, المشاقاة (əziyyətli işlə məşğul olmaq) — əziyyət çəkmək və təcrübə etməkdir. Bunun əsli odur ki, insan özünü zəhmətə salır və onunla əziyyət çəkir. Lakin həmzələnərsə, məna dəyişər. Deyirsən: شقأ نابُ البعير يَشْقَأ (dəvənin köpək dişi çıxdı) — göründüyü zaman. Demişdir: الشّاقئ (yeni çıxan köpək dişi) — hələ əyilməmiş köpək dişidir (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:52:08.599Z"
+ "ts": "2026-10-25T01:52:08.599Z",
+ "prev_az": "[شقو] الشين (ش), القاف (ق) və hərf-i müəttl (vav/ya) əziyyət çəkməyə, rahatlığın və səadətin ziddinə dəlalət edən bir əsldir. وَالشِّقوة (əş-şiqvə): səadətin ziddi. وَرجلٌ شقىٌّ (kişi - bədbəxt) — şəqavət (الشَّقاء), şiqvə (الشِّقوة) və şəqavə (الشَّقاوə) arasında. Deyilir ki, الْمَشَاقَاة (əl-məşəqəti): əziyyət çəkmək və təcrübə etməkdir. Bunun əsli odur ki, insan özünü zəhmətə salır və onunla əziyyət çəkir. Lakin həmzələnərsə, məna dəyişər. Deyirsən: شقأ نابُ البعير يَشْقَأ (dəvənin azı dişi çıxdı) — çıxanda. (Şair) demişdir: الشّاقئ (əş-şaqi): hələ bükülüb qalmamış azı dişi (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«رجلٌ شقىٌّ بين الشَّقاء والشِّقوة والشَّقاوة» ifadəsi «arasında» kimi yanlış tərcümə edilmişdir (burada «بين» — «aşkar, açıq-aydın» mənasındadır).",
+  "«الحرف المعتلّ» ifadəsi «hərf-i müəttl» kimi səhv yazılmışdır.",
+  "Ərəbcə baş sözlərə əlavə «وَ» artırılmış və hərəkələr dəyişdirilmişdir.",
+  "«قال:» ifadəsinə əlavə olaraq «(Şair)» sözü artırılmışdır."
+ ],
+ "review_ts": "2026-11-20T07:13:13.112Z"
 }

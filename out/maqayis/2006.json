@@ -11,9 +11,20 @@
   "page_to": 143
  },
  "ar": "السين والحاء والباء أصلٌ صحيح يدلُّ على جرِّ شئ مبسوطٍ ومَدِّه. تقول: سحبتُ ذبلِى بالأرض سحبا. وسمِّى السّحابُ سحاباً تشبيهاً له بذلك، كأنه ينسحب فى الهواء انسحاباً. ويستعيرون هذا فيقولون:\nتسحّب فلانٌ على فلانٍ، إذا اجتَرَأ عليه، كأنه متدّ عليه امتداداً. هذا هو\nالقياس الصحيح. وناسٌ يقولون: السَّحْب: شدّة الأكل. وأظنُّه تصحيفاً؛ لأنّه لا قياس له، وإنّما هو السَّحْت.",
- "az": "«سحب» (səhb - çəkmək, dartmaq): Sin, ha və ba səthi hamar olan bir şeyi dartıb uzatmağa dəlalət edən səhih bir əsasdır. Deyirsən: «سحبتُ ذبلِى بالأرض سحبا» (ətəyimi yerdə sürüdüm). «السحاب» (bulud) sözü də buna bənşədilərək adlandırılmışdır, sanki o, havada sürünərək hərəkət edir. Onlar bunu məcazi mənada da işlədirlər və deyirlər: «تسحّب فلانٌ على فلانٍ» — filankəs filankəsə qarşı cəsarət göstərdi, sanki ona qarşı özünü uzatdı və iddia qaldırdı. Bu, səhih ölçüdür (qaydadır). Bəzi insanlar isə deyirlər: «السَّحْب» — çox yemək deməkdir. Məncə bu, təhrif olunmuşdur (səhv yazılmışdır); çünki onun heç bir qayda-qanunu yoxdur, əslində isə söz «السَّحْت» olmalıdır.",
+ "az": "[سحب]\nSin, ha və ba sərilmiş (uzadılmış) bir şeyi dartıb çəkməyə və uzatmağa dəlalət edən səhih bir əsasdır. Deyirsən: سحبتُ ذبلِى بالأرض سحبا (ətəyimi yerdə sürüdüm). السّحابُ (bulud) sözü də buna bənzədilərək سحاباً adlandırılmışdır, sanki o, havada sürünərək hərəkət edir. Onlar bunu məcazi mənada da işlədirlər və deyirlər:\nتسحّب فلانٌ على فلانٍ — filankəs filankəsə qarşı cəsarət göstərdi (həddini aşdı), sanki onun üzərinə uzanmışdır. Səhih olan\nqiyas (qayda) budur. Bəzi insanlar isə deyirlər: السَّحْب — çox yemək deməkdir. Məncə bu, təhrifdir (səhv yazılmışdır); çünki onun heç bir qiyası yoxdur, əslində isə söz السَّحْت olmalıdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:48:57.042Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سحب» (səhb - çəkmək, dartmaq): Sin, ha və ba səthi hamar olan bir şeyi dartıb uzatmağa dəlalət edən səhih bir əsasdır. Deyirsən: «سحبتُ ذبلِى بالأرض سحبا» (ətəyimi yerdə sürüdüm). «السحاب» (bulud) sözü də buna bənşədilərək adlandırılmışdır, sanki o, havada sürünərək hərəkət edir. Onlar bunu məcazi mənada da işlədirlər və deyirlər: «تسحّب فلانٌ على فلانٍ» — filankəs filankəsə qarşı cəsarət göstərdi, sanki ona qarşı özünü uzatdı və iddia qaldırdı. Bu, səhih ölçüdür (qaydadır). Bəzi insanlar isə deyirlər: «السَّحْب» — çox yemək deməkdir. Məncə bu, təhrif olunmuşdur (səhv yazılmışdır); çünki onun heç bir qayda-qanunu yoxdur, əslində isə söz «السَّحْت» olmalıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[سحب]» şəklində deyil.",
+  "«مبسوطٍ» sözü «səthi hamar olan» kimi səhv tərcümə olunmuşdur (düzgünü: sərilmiş, uzadılmış).",
+  "«كأنه متدّ عليه امتداداً» ifadəsinə AR-da olmayan «və iddia qaldırdı» əlavəsi edilmişdir.",
+  "Mətndə «bənşədilərək» kimi orfoqrafik səhv var."
+ ],
+ "review_ts": "2026-11-20T07:08:48.058Z"
 }

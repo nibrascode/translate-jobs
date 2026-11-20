@@ -11,7 +11,17 @@
   "page_to": 196
  },
  "ar": "الشين والغين والباء أصلٌ صحيح يدل على تهييج الشر، لا يكون فى خير. قال الخليل: الشَّغْبَ: تهييج الشرّ، يقال للأتان إذا وَحِمَتْ (١) واستعصَتْ على الجَأْب: إنّها لذات شَغْب وضِغْن. قال أبو عبيد: يقال شَغَبْت على القوم وشغَبْتُهم وشغَبْتُ بهم.",
- "az": "[شغب] (şəğəb) — Şin, ğayn və ba — şərri qızışdırmağa dəlalət edən səhih bir kökdür, xeyirdə olmur. Xəlil dedi: «الشَّغْب» (əş-şəğb) — şərri qızışdırmaqdır, dişi ulağa həkim (və ya iştahla hamilə) olduğu (١) və erkək ulağa tabe olmadıqda deyilir: «إنّها لذات شَğْب وضِğْن» (şübhəsiz o, şər və kin sahibidir). Əbu Übeyd demişdir: «شَğَبْتُ على القوم» (qövmə qarşı şər qızışdırdım), «وشغَبْتُهم» (və onları qızışdırdım) və «وشغَبْتُ بهم» (və onlar vasitəsilə qızışdırdım) deyilir.",
+ "az": "[شغب] (şəğəb) — Şin, ğayn və ba — şərri qızışdırmağa dəlalət edən səhih bir kökdür, xeyirdə olmur. Xəlil dedi: «الشَّغْب» (əş-şəğb) — şərri qızışdırmaqdır, dişi ulağa aşerdiyi (١) və erkək ulağa tabe olmadıqda deyilir: «إنّها لذات شَغْب وضِغْن» (şübhəsiz o, şər və kin sahibidir). Əbu Übeyd demişdir: «شَغَبْت على القوم» (qövmə qarşı şər qızışdırdım), «وشغَبْتُهم» (və onları qızışdırdım) və «وشغَبْتُ بهم» (və onlar vasitəsilə qızışdırdım) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:51:46.481Z"
+ "ts": "2026-10-25T01:51:46.481Z",
+ "prev_az": "[شغب] (şəğəb) — Şin, ğayn və ba — şərri qızışdırmağa dəlalət edən səhih bir kökdür, xeyirdə olmur. Xəlil dedi: «الشَّغْب» (əş-şəğb) — şərri qızışdırmaqdır, dişi ulağa həkim (və ya iştahla hamilə) olduğu (١) və erkək ulağa tabe olmadıqda deyilir: «إنّها لذات شَğْب وضِğْن» (şübhəsiz o, şər və kin sahibidir). Əbu Übeyd demişdir: «شَğَبْتُ على القوم» (qövmə qarşı şər qızışdırdım), «وشغَبْتُهم» (və onları qızışdırdım) və «وشغَبْتُ بهم» (və onlar vasitəsilə qızışdırdım) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatlarda «غ» hərfi əvəzinə latın «ğ» hərfi yazılıb (mətn pozulması).",
+  "«وَحِمَتْ» feli «həkim (və ya iştahla hamilə) olduğu» kimi yanlış tərcümə edilib."
+ ],
+ "review_ts": "2026-11-20T07:12:07.061Z"
 }

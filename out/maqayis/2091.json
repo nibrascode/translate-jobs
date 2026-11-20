@@ -11,7 +11,16 @@
   "page_to": 202
  },
  "ar": "الشين والقاف والنون. يقولون إِنَّ الشِقَّنْ (١): القليل من العطاء؛ تقول: شَقَنْتُ العَطِيَّة (٢)، إِذا قلّلتَها.",
- "az": "[شقن] (şəqən) — Şin, qaf və nun. Deyirlər ki, «الشِقَّنْ» (əş-şiqqən) — az bəxşişdir (vergi); deyirsən: «شَقَنْتُ العَطِيَّة» (şəqəntül-atiyyə) — bəxşişi azaltdığın zaman.",
+ "az": "[شقن]\nŞin, qaf və nun. Deyirlər ki, الشِقَّنْ (١) (şiqqən) — az bəxşişdir; deyirsən: شَقَنْتُ العَطِيَّة (٢) (bəxşişi azaltdım) — bəxşişi azaltdığın zaman.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:51:46.482Z"
+ "ts": "2026-10-25T01:51:46.482Z",
+ "prev_az": "[شقن] (şəqən) — Şin, qaf və nun. Deyirlər ki, «الشِقَّنْ» (əş-şiqqən) — az bəxşişdir (vergi); deyirsən: «شَقَنْتُ العَطِيَّة» (şəqəntül-atiyyə) — bəxşişi azaltdığın zaman.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndəki (١) və (٢) haşiyə rəqəmləri buraxılmışdır."
+ ],
+ "review_ts": "2026-11-20T07:13:13.111Z"
 }

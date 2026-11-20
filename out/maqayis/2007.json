@@ -11,9 +11,19 @@
   "page_to": 143
  },
  "ar": "السين والحاء والتاء أصل صحيح منقاس. يقال سُحِت الشئ، إذا استُؤصل، وأُسْحِت. يقال سحت اللّه الكافر بعذابٍ، إذا استأصله.\nومال مسحوتٌ ومُسْحَت فى قول الفرزدق:\nوعَضُّ زمانٍ يا ابنَ مروان لم يَدَعْ … من المال إلاّ مُسْحَتاً أو مُجَلَّفُ (١)\nومن الباب: رجلٌ مسحوت الجوف، إذا كان لا يشبَع، كأنَّ الذى يبلعه يُستأصل من جوفه، فلا يبقى. المال السُّحْت: كلُّ حرامٍ يلزمُ آكلَه المارُ؛ وسمِّى سُحتاً لأنّه لا بقاء له. ويقال أَسْحَت فى تجارته، إذا كَسَبَ السُّحت. وأسْحَت مالَه: أفسده.",
- "az": "«سحت» (səht - kökünü kəsmək, yox etmək): Sin, ha və ta qaydaya uyğun gələn səhih bir əsasdır. Deyilir: «سُحِت الشئ» — əgər bir şeyin kökü kəsilib yox edilibsə və «أُسْحِت». Deyilir: «سحت اللّه الكافر بعذابٍ» — Allah kafiri əzabla kökündən yox etdi. Fərzəqtin bu sözündəkeçən «مسحوت» və «مُسْحَت» mal: «وعَضُّ زمانٍ ya ابنَ مروان لم يَدَعْ … من المال إلاّ مُسْحَتاً أو مُجَلَّفُ» (Ey Mərvanın oğlu, zamanın dişləməsi mal-dövlətdən kökü kəsilmiş və ya soyulub təmizlənmişdən başqa heç nə qoymadı) (١). Bu fəsildəndir: «رجلٌ مسحوت الجوف» — o kəsdir ki, heç vaxt doymur, sanki udduğu şey mədəsindən kökündən yox olur və heç nə qalmır. «المال السُّحْت» — hər bir haram mal ki, onu yeyənə bəla gətirər; o, «səht» adlanmışdır, çünki onun qalıcılığı yoxdur. Deyilir: «أَسْحَت فى تجارته» — ticarətində haram mal qazandı. «وأَسْحَت مالَه» — malını xarab etdi, məhv etdi.",
+ "az": "[سحت]\nSin, ha və ta qiyasa uyğun gələn səhih bir əsasdır. Deyilir: سُحِت الشئ — bir şeyin kökü kəsilib yox edildikdə, həmçinin أُسْحِت deyilir. Deyilir: سحت اللّه الكافر بعذابٍ — Allah kafiri əzabla kökündən yox etdi.\nFərəzdəqin sözündə keçən مسحوتٌ və مُسْحَت mal:\nوعَضُّ زمانٍ يا ابنَ مروان لم يَدَعْ … من المال إلاّ مُسْحَتاً أو مُجَلَّفُ (١) (Ey Mərvanın oğlu, zamanın dişləməsi mal-dövlətdən kökü kəsilmiş və ya soyulub təmizlənmişdən başqa heç nə qoymadı).\nBu babdandır: رجلٌ مسحوت الجوف — doymayan kimsədir, sanki udduğu şey mədəsindən kökündən yox olur və heç nə qalmır. المال السُّحْت — onu yeyənə zərər/rüsvayçılıq gətirən hər bir haram maldır; o, سُحتاً adlanmışdır, çünki onun qalıcılığı yoxdur. Deyilir: أَسْحَت فى تجارته — ticarətində السُّحت (haram mal) qazandı. أسْحَت مالَه — malını korladı, məhv etdi.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:48:57.042Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سحت» (səht - kökünü kəsmək, yox etmək): Sin, ha və ta qaydaya uyğun gələn səhih bir əsasdır. Deyilir: «سُحِت الشئ» — əgər bir şeyin kökü kəsilib yox edilibsə və «أُسْحِت». Deyilir: «سحت اللّه الكافر بعذابٍ» — Allah kafiri əzabla kökündən yox etdi. Fərzəqtin bu sözündəkeçən «مسحوت» və «مُسْحَت» mal: «وعَضُّ زمانٍ ya ابنَ مروان لم يَدَعْ … من المال إلاّ مُسْحَتاً أو مُجَلَّفُ» (Ey Mərvanın oğlu, zamanın dişləməsi mal-dövlətdən kökü kəsilmiş və ya soyulub təmizlənmişdən başqa heç nə qoymadı) (١). Bu fəsildəndir: «رجلٌ مسحوت الجوف» — o kəsdir ki, heç vaxt doymur, sanki udduğu şey mədəsindən kökündən yox olur və heç nə qalmır. «المال السُّحْت» — hər bir haram mal ki, onu yeyənə bəla gətirər; o, «səht» adlanmışdır, çünki onun qalıcılığı yoxdur. Deyilir: «أَسْحَت فى تجارته» — ticarətində haram mal qazandı. «وأَسْحَت مالَه» — malını xarab etdi, məhv etdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[سحت]» şəklində deyil.",
+  "Şeir beytində ərəbcə «يا» sözü latın əlifbası ilə «ya» kimi yazılmışdır.",
+  "«Fərzəqtin bu sözündəkeçən» hissəsində şairin adı (Fərəzdəq) və sözlər təhrif olunmuşdur."
+ ],
+ "review_ts": "2026-11-20T07:08:48.058Z"
 }

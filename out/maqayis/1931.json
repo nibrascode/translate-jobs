@@ -11,9 +11,21 @@
   "page_to": 105
  },
  "ar": "السين والنون والدال أصلٌ واحد يدلُّ على انضمام الشئ إلى الشئ. يقال سَنَدتُ إلى الشئ أسْنُدُ سنوداً، واستندت استناداً. وأسندتُ غيرى إسناداً. والسِّناد: النّاقة القويّة، كأنّها أُسنِدت من ظهرها إلى شئٍ قوىّ.\nوالمُسْنَدُ: الدهر؛ لأن بعضَه متضامّ. وفلان سَنَدٌ، أى معتمَدٌ. والسَّنَد: ما أقبل عليك من الجبل، وذلك إذا علا عن السَّفْح. والإِسناد فى الحديث: أن يُسْنَد إِلى قائله، وهو ذلك القياس. فأمّا السِّناد الذى فى الشعر فيقال إِنّهُ اختلافُ حركتى الرِّدفين. قال أبو عبيدة: وذلك كقوله:\nكأنّ عيونَهن عيونُ عِينِ (٢)\nثم قال:\nوأصبح رأسُه مثل اللُّجَيْنِ (٣)\nوهذا مشتق من قولهم: خرج القوم متسانِدين، إذا كانوا على راياتٍ شتى.\nوهذا من الباب؛ لأنّ كلَّ واحدةٍ من الجماعة قد ساندت رايةً.",
- "az": "«سند» — السين، والنون والدال (سين، نun və dal) bir şeyin digər bir şeyə birləşməsinə dəlalət edən tək bir əsasdır. Deyilir: «سَنَدتُ إلى الشئ أسْنُدُ سنوداً» — bir şeyə söykəndim, və «استندت استناداً» — dayandım. «أسندتُ غيرى إسناداً» — başqasını söykədim. «السِّناد» — güclü dəvədir, elə bil o, belindən güclü bir şeyə söykənilmişdir. «المُسْنَدُ» — zamandır; çünki onun bir hissəsi digərinə bitişikdir. Filankəs «سَنَدٌ»dir, yəni etimad ediləndir. «السَّنَد» — dağdan üzərinə tərəf gələn hissədir, bu da ətəkdən yuxarı qalxdıqda olur. Hədisdə «İsnad» — onun deyənə dayandırılmasıdır, bu da həmin qiyasdandır. Şeirdəki «السِّناد»a gəlincə, deyilir ki, o, iki rədifin hərəkələrinin fərqli olmasıdır. Əbu Übeydə demişdir: Bu, filankəsin bu sözü kimidir: «Gözləri ceyran gözləri kimidir» (2). Sonra demişdir: «Və başı gümüş kimi oldu» (3). Bu, onların «Qövm müxtəlif bayraqlar altındakı kimi dağılışaraq çıxdılar» sözündən törəmişdir. Bu da həmin bölmədəndir; çünki dəstənin hər biri bir bayrağa söykənmişdir.",
+ "az": "[سند]\nالسين والنون والدال (sin, nun və dal) bir şeyin digər bir şeyə birləşməsinə dəlalət edən tək bir əsasdır. Deyilir: سَنَدتُ إلى الشئ أسْنُدُ سنوداً (bir şeyə söykəndim) və استندت استناداً (dayandım). أسندتُ غيرى إسناداً (başqasını söykədim). السِّناد (güclü dəvə) — elə bil o, belindən güclü bir şeyə söykənilmişdir.\nالمُسْنَدُ (zaman) — çünki onun bir hissəsi digərinə bitişikdir. Filankəs سَنَدٌ (dayaq), yəni etimad ediləndir. السَّنَد (dağın sənə tərəf olan hissəsi) — bu da ətəkdən yuxarı qalxdıqda olur. Hədisdə الإِسناد (isnad) — onun deyənə dayandırılmasıdır, bu da həmin qiyasdandır. Şeirdəki السِّناد (sinad)a gəlincə, deyilir ki, o, iki rədifin hərəkələrinin fərqli olmasıdır. Əbu Übeydə demişdir: Bu, onun bu sözü kimidir:\nكأنّ عيونَهن عيونُ عِينِ (٢) (Onların gözləri sanki iri gözlü ahuların gözləridir)\nSonra demişdir:\nوأصبح رأسُه مثل اللُّجَيْنِ (٣) (Və onun başı gümüş kimi oldu)\nBu, onların خرج القوم متسانِدين، إذا كانوا على راياتٍ شتى (qövm müxtəlif bayraqlar altında ayrı-ayrı dəstələr halında çıxdı) sözündən törəmişdir.\nBu da həmin bölmədəndir; çünki dəstənin hər biri bir bayrağa söykənmişdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:46:45.684Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«سند» — السين، والنون والدال (سين، نun və dal) bir şeyin digər bir şeyə birləşməsinə dəlalət edən tək bir əsasdır. Deyilir: «سَنَدتُ إلى الشئ أسْنُدُ سنوداً» — bir şeyə söykəndim, və «استندت استناداً» — dayandım. «أسندتُ غيرى إسناداً» — başqasını söykədim. «السِّناد» — güclü dəvədir, elə bil o, belindən güclü bir şeyə söykənilmişdir. «المُسْنَدُ» — zamandır; çünki onun bir hissəsi digərinə bitişikdir. Filankəs «سَنَدٌ»dir, yəni etimad ediləndir. «السَّنَد» — dağdan üzərinə tərəf gələn hissədir, bu da ətəkdən yuxarı qalxdıqda olur. Hədisdə «İsnad» — onun deyənə dayandırılmasıdır, bu da həmin qiyasdandır. Şeirdəki «السِّناد»a gəlincə, deyilir ki, o, iki rədifin hərəkələrinin fərqli olmasıdır. Əbu Übeydə demişdir: Bu, filankəsin bu sözü kimidir: «Gözləri ceyran gözləri kimidir» (2). Sonra demişdir: «Və başı gümüş kimi oldu» (3). Bu, onların «Qövm müxtəlif bayraqlar altındakı kimi dağılışaraq çıxdılar» sözündən törəmişdir. Bu da həmin bölmədəndir; çünki dəstənin hər biri bir bayrağa söykənmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı formatı pozulub ([سند] olmalıdır).",
+  "«نun» şəklində qarışıq əlifba xətası var.",
+  "Şeir beytlərinin və «خرج القوم متسانِدين» məsəlinin ərəbcə mətni saxlanılmayıb.",
+  "Haşiyə rəqəmləri (٢) və (٣) latın rəqəmləri ilə verilib.",
+  "«خرج القوم متسانِدين» ifadəsinin və «ما أقبل عليك من الجبل» cümləsinin tərcüməsində məna xətası var."
+ ],
+ "review_ts": "2026-11-20T07:07:30.981Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 209
  },
  "ar": "الشين والكاف والعين أصلٌ يدل على غضَب وضجرٍ وما أشبه ذلك. يقال شَكِعَ الرّجُل، إذا كثُر أنينُه. وكذلك الغضبان إذا اشتدَّ غضبُه، يَشْكَع شَكَعاً.\nوقد حكَوْا كلمتين ما أدرى ما صحتهما؟ قالوا: شكَعَ رأسَ بعيرِه بزمامه، إذا رفَعَه. ويقولون: شَكِعَ الزَّرعُ (١)، إذا كثُر حَبُّه.",
- "az": "[شكع] الشين والكاف والعين أصلٌ يدل على غضَب (qəzəb) وضجرٍ (narahatlıq) وما أشبه ذلك. يقال شَكِعَ الرّجُل (kişi şəkiə etdi), إذا كثُر أنينُه (əgər naləsi çoxaldısa). وكذلك الغضبان إذا اشتدَّ غضبُه (Həmçinin qəzəbli adam ki, qəzəbi şiddətləndi), يَشْكَع شَكَعاً (yəşkəu şəkan). وقد حكَوْا كلمتين ما أدرى ما صحتهما (Onlar iki kəlam rəvayət etmişlər ki, onların səhih olub-olmadığını bilmirəm)? قالوا: شكَعَ رأسَ بعيرِه بزمامه (Dedilər: dəvəsinin başını yüyəni ilə şəkəə etdi), إذا رفَعَه (əgər onu qaldırdısa). ويقولون: شَكِعَ الزَّرعُ (١) (Və deyirlər: zərat şəkiə etdi), إذا كثُر حَبُّه (əgər dənəsi çoxaldısa).",
+ "az": "[شكع]\nŞin, kəf və ayn qəzəbə, darıxmağa (hövsələsizliyə) və buna bənzər hallara dəlalət edən bir əsldir. Deyilir: شَكِعَ الرّجُل — kişinin iniltisi çoxaldıqda. Həmçinin qəzəbli adamın qəzəbi şiddətləndikdə يَشْكَع شَكَعاً (şiddətlə qəzəblənir) deyilir.\nOnlar doğruluğunu bilmədiyim iki kəlmə də rəvayət etmişlər. Demişlər: شكَعَ رأسَ بعيرِه بزمامه — noxtası ilə dəvəsinin başını yuxarı qaldırdıqda. Həmçinin deyirlər: شَكِعَ الزَّرعُ (١) — əkinin dənəsi çoxaldıqda.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T01:52:37.575Z"
+ "ts": "2026-10-25T01:52:37.575Z",
+ "prev_az": "[شكع] الشين والكاف والعين أصلٌ يدل على غضَب (qəzəb) وضجرٍ (narahatlıq) وما أشبه ذلك. يقال شَكِعَ الرّجُل (kişi şəkiə etdi), إذا كثُر أنينُه (əgər naləsi çoxaldısa). وكذلك الغضبان إذا اشتدَّ غضبُه (Həmçinin qəzəbli adam ki, qəzəbi şiddətləndi), يَشْكَع شَكَعاً (yəşkəu şəkan). وقد حكَوْا كلمتين ما أدرى ما صحتهما (Onlar iki kəlam rəvayət etmişlər ki, onların səhih olub-olmadığını bilmirəm)? قالوا: شكَعَ رأسَ بعيرِه بزمامه (Dedilər: dəvəsinin başını yüyəni ilə şəkəə etdi), إذا رفَعَه (əgər onu qaldırdısa). ويقولون: شَكِعَ الزَّرعُ (١) (Və deyirlər: zərat şəkiə etdi), إذا كثُر حَبُّه (əgər dənəsi çoxaldısa).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətn ərəb və Azərbaycan sözlərinin sətirarası qarışığı kimi natamam və pozulmuş şəkildə verilmişdir.",
+  "«يَشْكَع شَكَعاً» ifadəsi tərcüməsiz transliterasiya edilmişdir."
+ ],
+ "review_ts": "2026-11-20T07:20:35.875Z"
 }
