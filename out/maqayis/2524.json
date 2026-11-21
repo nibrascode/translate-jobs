@@ -11,7 +11,17 @@
   "page_to": 428
  },
  "ar": "الطاء والهاء والفاء كالذى قبله. على أنَّهم يقولون: الطَّهْفَ طعامٌ يتَّخذ من الذُّرة، ويقال هى أعالى الصِّلِّيان. ويقولون: الطُّهافة: الذُّؤابة.\nوكلُّ ذلك كلام.",
- "az": "[طهف] (Tə, hə və fa) özündən əvvəlki kimidir. Belə ki, onlar deyirlər: الطَّهْف (ət-təhf) – darıdan düzəldilən yeməkdir, həmçinin deyirlər ki, o, صِلِّيان (sillyian) bitkisinin zirvələridir. Və deyirlər: الطُّهافة (ət-tuhafə) – zülf, saçsaçağıdır. Bunların hamısı sözdür (xüsusi əsası yoxdur).",
+ "az": "[طهف] (Ta, hə və fa) özündən əvvəlki kimidir. Belə ki, onlar deyirlər: الطَّهْف (ət-tahf) – darıdan düzəldilən yeməkdir, həmçinin deyirlər ki, o, صِلِّيان (sillyian) bitkisinin zirvələridir. Və deyirlər: الطُّهافة (ət-tuhafə) – zülf, saçsaçağıdır.\nİşin əsli, bunların hamısı sözdən ibarətdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:09:52.400Z"
+ "ts": "2026-10-25T02:09:52.400Z",
+ "prev_az": "[طهف] (Tə, hə və fa) özündən əvvəlki kimidir. Belə ki, onlar deyirlər: الطَّهْف (ət-təhf) – darıdan düzəldilən yeməkdir, həmçinin deyirlər ki, o, صِلِّيان (sillyian) bitkisinin zirvələridir. Və deyirlər: الطُّهافة (ət-tuhafə) – zülf, saçsaçağıdır. Bunların hamısı sözdür (xüsusi əsası yoxdur).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərf adı düzgün verilməmişdir (Ta olmalıdır).",
+  "Abzas bölgüsü ərəb mətnindəki kimi saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-21T14:18:28.692Z"
 }

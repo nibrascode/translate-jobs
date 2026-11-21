@@ -11,9 +11,19 @@
   "page_to": 316
  },
  "ar": "الصاد والهاء والباء بناءٌ صحيح، وهو لونٌ من الألوان.\nمن ذلك الصُّهْبَة: حُمرةٌ فى الشَّعر. يقال رجلٌ أصهب. والصَّهباء: الخمْر؛ لأنّ لونَها شبيهٌ بهذا. والمُصَهَّب من اللحم: ما اختلطت حُمرتُه ببياض الشَّحم وهو يابس. وأمّا الصُّخور فيقال لها الصَّياهِب، فممكنٌ أن يكون ذلك اللَّون، ويمكن أن يكون لشدتها، أو يكون من الصَّيْخَد ويصير من باب الإبدال. ويقولون لليوم الشَّديد البرد: أصهب، وذلك لما يعلو الأرض من الألوان.",
- "az": "«صهب» (Sad, hə və ba) - rənglərdən bir rəngi bildirən səhih bir binadır. Bunlardan biri «الصُّهْبَة» — saçda olan qırmızılıqdır. Kişi üçün «أصهب» (qırmızımtıl, sarımtıl) deyilir. «الصَّهباء» — şərabdır; çünki onun rəngi buna bənzəyir. Ətdən olan «المُصَهَّب» — qırmızılığı piyin ağlığı ilə qatışmış və quru olan ətdir. Qayalara gəldikdə isə, onlara «الصَّياهِب» deyilir, bunun həmin rəngdən olması mümkündür, onun şiddətindən olması da mümkündür və ya «الصَّيْخَد» sözündən olub əvəzlənmə (ibդal) fəslindən olması da mümkündür. Şiddətli soyuq günə görə də «أصهب» deyirlər, bu da yerin üzünü bürüyən rənglərlə əlaqədardır.",
+ "az": "[صهب] (Sad, hə və ba) — rənglərdən bir rəngi bildirən səhih bir quruluşdur.\\nBunlardan biri الصُّهْبَة (suhbə) — saçda olan qırmızılıqdır. Kişi üçün أصهب (əshəb — qırmızımtıl saçlı) deyilir. الصَّهباء (sahba) — şərabdır; çünki onun rəngi buna bənzəyir. Ətdən olan المُصَهَّب (musəhhəb) — qırmızılığı piyin ağlığı ilə qatışmış və quru olan ətdir. Qayalara gəldikdə isə, onlara الصَّياهِب (sayahib) deyilir, bunun həmin rəngdən olması mümkündür, onun sərtliyindən olması da mümkündür və ya الصَّيْخَد (sayxad) sözündən olub əvəzlənmə (ibdal) babından olması da mümkündür. Şiddətli soyuq günə də أصهب (əshəb) deyirlər, bu da yerin üzünü bürüyən rənglərlə əlaqədardır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:01:50.745Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«صهب» (Sad, hə və ba) - rənglərdən bir rəngi bildirən səhih bir binadır. Bunlardan biri «الصُّهْبَة» — saçda olan qırmızılıqdır. Kişi üçün «أصهب» (qırmızımtıl, sarımtıl) deyilir. «الصَّهباء» — şərabdır; çünki onun rəngi buna bənzəyir. Ətdən olan «المُصَهَّب» — qırmızılığı piyin ağlığı ilə qatışmış və quru olan ətdir. Qayalara gəldikdə isə, onlara «الصَّياهِب» deyilir, bunun həmin rəngdən olması mümkündür, onun şiddətindən olması da mümkündür və ya «الصَّيْخَد» sözündən olub əvəzlənmə (ibդal) fəslindən olması da mümkündür. Şiddətli soyuq günə görə də «أصهب» deyirlər, bu da yerin üzünü bürüyən rənglərlə əlaqədardır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı formatı pozulub («صهب» əvəzinə [صهب] olmalıdır).",
+  "Mətndə latın əlifbasına aid olmayan simvol işlədilib (ibդal).",
+  "Abzas bölgüsü ərəbcə mətnə uyğun deyil."
+ ],
+ "review_ts": "2026-11-21T13:10:29.466Z"
 }

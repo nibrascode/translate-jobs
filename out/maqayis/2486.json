@@ -11,7 +11,17 @@
   "page_to": 410
  },
  "ar": "الطاء والشين أُصَيل يدلُّ على قِلّة فى مطَر، ويجوز أن يستعار فى غيره أصلاً. من ذلك الطّشّ، وهو المطر الضَّعيف. وقال رؤبة:\nولا نَدَى وَبْلِكَ بالطَّشيشِ (١)\nواللّه أعلم بالصواب.",
- "az": "[طش] الطاء والشين أُصَيل يدلُّ على قِلّة فى مطَر، ويجوز أن يستعار فى غيره أصلاً (Ta və şin yağışda azlığa dəlalət edən kiçik bir kökdür, və başqasında da əsas kimi məcazən işlədilməsi caizdir). من ذلك الطّشّ، وهو المطر الضَّعيف (Bunlardan ət-tişş-dir, o da zəif yağışdır). وقال رؤبة (Rövbə demişdir): ولا نَدَى وَبْلِكَ بالطَّشيشِ (١) (Sənin güclü yağışının şehi tişişlə deyil).",
+ "az": "[طش] الطاء والشين أُصَيل يدلُّ على قِلّة فى مطَر، ويجوز أن يستعار فى غيره أصلاً (Ta və şin yağışda azlığa dəlalət edən kiçik bir kökdür, və başqasında da məcazi işlədilməsi caizdir). من ذلك الطّشّ، وهو المطر الضَّعيف (Bunlardan ət-taşş-dır, o da zəif yağışdır). وقال رؤبة (Rövbə demişdir):\nولا نَدَى وَبْلِكَ بالطَّشيشِ (١)\n(Sənin güclü yağışının şehi çiskinlə bir deyil).\nواللّه أعلم بالصواب (Doğrusunu Allah daha yaxşı bilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:07:39.766Z"
+ "ts": "2026-10-25T02:07:39.766Z",
+ "prev_az": "[طش] الطاء والشين أُصَيل يدلُّ على قِلّة فى مطَر، ويجوز أن يستعار فى غيره أصلاً (Ta və şin yağışda azlığa dəlalət edən kiçik bir kökdür, və başqasında da əsas kimi məcazən işlədilməsi caizdir). من ذلك الطّشّ، وهو المطر الضَّعيف (Bunlardan ət-tişş-dir, o da zəif yağışdır). وقال رؤبة (Rövbə demişdir): ولا نَدَى وَبْلِكَ بالطَّشيشِ (١) (Sənin güclü yağışının şehi tişişlə deyil).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin sonundakı «واللّه أعلم بالصواب» cümləsi tərcüməsiz buraxılıb.",
+  "«الطّشّ» sözü «ət-tişş» kimi yanlış oxunub (ət-taşş olmalıdır)."
+ ],
+ "review_ts": "2026-11-21T14:13:27.031Z"
 }

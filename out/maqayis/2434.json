@@ -11,7 +11,18 @@
   "page_to": 379
  },
  "ar": "الضاد والياء والراء كلمةٌ واحدة، وهو من الضيَّر والمضَرَّة.\nولا يَضِيرنى كذا، أى لا يضرُّنى. قال اللّه تعالى: ﴿وَإِنْ تَصْبِرُوا وَتَتَّقُوا لا يَضُرُّكُمْ كَيْدُهُمْ شَيْئاً (٣﴾.",
- "az": "[ضير] (ض ي ر). الضاد والياء والراء كلمةٌ واحدة، وهو من الضيَّر والمضَرَّة. ولا يَضِيرنى كذا، أى لا يضرُّنى. قال اللّه تعالى: ﴿وَإِنْ تَصْبِرُوا وَتَتَّقُوا لا يَضُرُّكُمْ كَيْدُهُمْ شَيْئاً (٣﴾.\n(Zəmin, ya və ra) — tək bir kəlmədir, zərər vermək və ziyan vurmaq mənasındadır. «لا يَضِيرنى كذا» — yəni bu mənə zərər verməz. Allah təala buyurmuşdur mənaca tərcümə: «Əgər səbir etsəniz və çəkinsəniz, onların hiyləsi sizə heç bir zərər verməz» (٣).",
+ "az": "[ضير] (Dad, ya və ra) — tək bir kəlmədir, o da الضيَّر (dayr) və المضَرَّة (zərər, ziyan) mənasındadır.\\nلا يَضِيرنى كذا (bu mənə zərər verməz), yəni لا يضرُّنى (mənə zərər yetirməz). Uca Allah buyurmuşdur: ﴿وَإِنْ تَصْبِرُوا وَتَتَّقُوا لا يَضُرُّكُمْ كَيْدُهُمْ شَيْئاً (٣﴾ (mənaca tərcümə: «Əgər səbir etsəniz və təqvalı olsanız [Allahdan qorxub çəkinsəniz], onların hiyləsi sizə heç bir zərər verməz»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.810Z"
+ "ts": "2026-10-25T02:05:38.810Z",
+ "prev_az": "[ضير] (ض ي ر). الضاد والياء والراء كلمةٌ واحدة، وهو من الضيَّر والمضَرَّة. ولا يَضِيرنى كذا، أى لا يضرُّنى. قال اللّه تعالى: ﴿وَإِنْ تَصْبِرُوا وَتَتَّقُوا لا يَضُرُّكُمْ كَيْدُهُمْ شَيْئاً (٣﴾.\n(Zəmin, ya və ra) — tək bir kəlmədir, zərər vermək və ziyan vurmaq mənasındadır. «لا يَضِيرنى كذا» — yəni bu mənə zərər verməz. Allah təala buyurmuşdur mənaca tərcümə: «Əgər səbir etsəniz və çəkinsəniz, onların hiyləsi sizə heç bir zərər verməz» (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlinə bütün ərəbcə mətn tərcüməsiz əlavə edilib.",
+  "«الضاد» (dad) hərfinin adı səhvən «Zəmin» kimi verilib.",
+  "Quran ayəsinin ərəbcə mətni tərcümədən əvvəl qaydaya uyğun yerləşdirilməyib."
+ ],
+ "review_ts": "2026-11-21T13:10:29.469Z"
 }

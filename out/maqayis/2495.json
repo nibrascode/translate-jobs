@@ -11,7 +11,16 @@
   "page_to": 415
  },
  "ar": "الطاء والفاء والراء كلمةٌ صحيحة، يقال طفَر: وثب.",
- "az": "[طفر] الطاء (ta), الفاء (fa) və الراء (ra) düzgün bir kəlimədir, deyilir ki, طفَر (təfərə): tullandı.",
+ "az": "[طفر] الطاء والفاء والراء كلمةٌ صحيحة، يقال طفَر: وثب (Ta, fa və ra səhih kəlmədir, deyilir: طفَر – tullandı).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T02:09:04.543Z"
+ "ts": "2026-10-25T02:09:04.543Z",
+ "prev_az": "[طفر] الطاء (ta), الفاء (fa) və الراء (ra) düzgün bir kəlimədir, deyilir ki, طفَر (təfərə): tullandı.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə gərəksiz latın transliterasiyaları istifadə olunub."
+ ],
+ "review_ts": "2026-11-21T14:19:13.668Z"
 }

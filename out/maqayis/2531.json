@@ -11,7 +11,17 @@
   "page_to": 431
  },
  "ar": "الطاء والواو والراء أصلٌ صحيح يدلُّ على معنىً واحد، وهو الامتداد فى شئ، من مكانٍ أو زمانٍ. من ذلك طَوَار الدَّار، وهو الذى يمتدُّ معها من فِنائها. ولذلك [يقال] عدا طَوْره، أى جاز الحدَّ الذى هو له من دارِه. ثم استعير ذلك فى كل شئ يُتعدَّى. والطُّور: جبلٌ، فيجوز أن يكون اسماً\nعلَما موضوعا، ويجوز أن يكون سمِّى بذلك لما فيه من امتدادٍ طولاً وعَرضا. ومن الباب قولهم: فعل ذلك طَوْراً بعد طَور. فهذا هو الذى ذكرناه من الزَّمان، كأنّه فَعَله مدَّةً بعد مدة. وقولهم للوحشىِّ من الطَّير وغيرها طُورِىّ وطُورانىٌّ، فهو من هذا، كأنَّه توحَّشَ فعدا الطَّورَ، أى تباعد عن حدِّ الأنيس.",
- "az": "[طور] (Tə, vav və ra) məkanda və ya zamanda bir şeydə uzanma mənasını verən səhih əsl kökdür. Bunlardan biri طَوَار الدَّار (təvarid-dar) – evin həyəti ilə birlikdə uzanan hissəsidir. Buna görə də «عدا طَوْرَهُ» (ədə tovrahü) – yəni öz evinə məxsus olan həddi aşdı, deyilir. Sonra bu, hər bir aşılmış hədd üçün istifadə olundu. الطُّور (ət-tur) – dağ deməkdir, ola bilər ki, bu, xüsusi qoyulmuş ad olsun, həmçinin ola bilər ki, uzununa və eninə uzandığına görə belə adlandırılmışdır. Bu babdandır onların: «فعل ذلك طَوْراً بعد طَور» (fəalə zəlikə tovran bə'də tovrix) sözü. Bu, bizim yuxarıda zamanla bağlı qeyd etdiyimiz mənadır, elə bil o bunu bir müddət ardınca digər müddətdə etmişdir. Vəhşi quşlara və digərlərinə طُورِىّ (turi) və طُورانىٌّ (turani) demələri də elə bu qbildəndir, elə bil o vəhşiləşmiş və həddini aşmışdır, yəni evcil olanların həddindən uzaqlaşmışdır.",
+ "az": "[طور] (Ta, vav və ra) məkanda və ya zamanda bir şeydə uzanma mənasını verən səhih əsl kökdür. Bunlardan biri طَوَار الدَّار (tavarud-dar) – evin həyəti ilə birlikdə uzanan hissəsidir. Buna görə də عدا طَوْره (ada tavrahu) – yəni öz evinə məxsus olan həddi aşdı, deyilir. Sonra bu, həddi aşan hər bir şey üçün istifadə olundu. والطُّور (ət-Tur) – dağ deməkdir, ola bilər ki, bu, xüsusi ad olsun, həmçinin ola bilər ki, uzununa və eninə uzandığına görə belə adlandırılmışdır. Bu babdandır onların: فعل ذلك طَوْراً بعد طَور (faala zalika tavran bada tavrin) sözü. Bu, bizim zamanla bağlı qeyd etdiyimiz mənadır, sanki o bunu bir müddət ardınca digər müddətdə etmişdir. Vəhşi quşlara və digərlərinə طُورِىّ (turi) və طُورانىٌّ (turani) demələri də bu qbildəndir, sanki o vəhşiləşərək həddini aşmışdır, yəni insanlara alışmış olanların həddindən uzaqlaşmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:09:52.400Z"
+ "ts": "2026-10-25T02:09:52.400Z",
+ "prev_az": "[طور] (Tə, vav və ra) məkanda və ya zamanda bir şeydə uzanma mənasını verən səhih əsl kökdür. Bunlardan biri طَوَار الدَّار (təvarid-dar) – evin həyəti ilə birlikdə uzanan hissəsidir. Buna görə də «عدا طَوْرَهُ» (ədə tovrahü) – yəni öz evinə məxsus olan həddi aşdı, deyilir. Sonra bu, hər bir aşılmış hədd üçün istifadə olundu. الطُّور (ət-tur) – dağ deməkdir, ola bilər ki, bu, xüsusi qoyulmuş ad olsun, həmçinin ola bilər ki, uzununa və eninə uzandığına görə belə adlandırılmışdır. Bu babdandır onların: «فعل ذلك طَوْراً بعد طَور» (fəalə zəlikə tovran bə'də tovrix) sözü. Bu, bizim yuxarıda zamanla bağlı qeyd etdiyimiz mənadır, elə bil o bunu bir müddət ardınca digər müddətdə etmişdir. Vəhşi quşlara və digərlərinə طُورِىّ (turi) və طُورانىٌّ (turani) demələri də elə bu qbildəndir, elə bil o vəhşiləşmiş və həddini aşmışdır, yəni evcil olanların həddindən uzaqlaşmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ط» hərfinin adı «Ta» yazılmalıdır.",
+  "Transliterasiyada «طَوْر» sözünün oxunuşu «tovrix» kimi yanlış yazılmışdır, «tovrin» olmalıdır."
+ ],
+ "review_ts": "2026-11-21T14:19:33.178Z"
 }

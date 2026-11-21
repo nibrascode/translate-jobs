@@ -11,7 +11,17 @@
   "page_to": 394
  },
  "ar": "الضاد والخاء والميم أصلٌ صحيح يدلُّ على عِظَمٍ فى الشئ.\nيقال هذا ضخْم وضُخامٌ. ويقال: إنَّ الأضخومة شئٌ تعظِّم به المرأة عجيزتها.",
- "az": "[ضخم] الضاد (ضad), xə (خ) və mim (م) hərfləri bir şeydə böyüklüyünə dəlalət edən səhih bir əsldir. Deyilir ki, bu, ضخْم (böyük) və ضُخامٌ-dur. Həmçinin deyilir: أضخومة — qadının arxasını böyük göstərmək üçün istifadə etdiyi şeydir.",
+ "az": "[ضخم] (Dad, xa və mim) bir şeydə böyüklüyə dəlalət edən səhih bir kökdür.\nDeyilir ki, bu, ضخْم (böyük) və ضُخامٌ (iri, böyük)dur. Həmçinin deyilir: الأضخومة (əl-udxumə) — qadının arxasını böyük göstərmək üçün istifadə etdiyi şeydir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:06:49.275Z"
+ "ts": "2026-10-25T02:06:49.275Z",
+ "prev_az": "[ضخم] الضاد (ضad), xə (خ) və mim (م) hərfləri bir şeydə böyüklüyünə dəlalət edən səhih bir əsldir. Deyilir ki, bu, ضخْم (böyük) və ضُخامٌ-dur. Həmçinin deyilir: أضخومة — qadının arxasını böyük göstərmək üçün istifadə etdiyi şeydir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adlarının yazılışında əlifbalar qarışdırılmışdır («الضاد (ضad), xə (خ) və mim (م)»).",
+  "«bir şeydə böyüklüyünə» ifadəsində qrammatik uzlaşma səhvi var."
+ ],
+ "review_ts": "2026-11-21T13:34:28.992Z"
 }

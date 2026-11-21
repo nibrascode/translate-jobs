@@ -11,7 +11,17 @@
   "page_to": 400
  },
  "ar": "الضاد والراء والحاء أصلان: أحدهما رمْى الشّئ، والآخَر لونٌ من الألوان.\nفالأوّل قولهم: ضرَحت الشَّئَ، إذا رميتَ به. والشئ المُضْطَرَح: المرمىّ.\nوالفَرس الضَّروح: النَّضوح برجله. وقوسٌ ضروح: شديدةُ الدّفع للسَّهم.\nوالضَّريح: القبر يُحفَر من غير لَحدٍ، كأنّ الميت قد رُمِى فيه.\nوأمّا الآخَر فالأبيض من كلِّ شئ، يقال له المَضْرَحىّ. والصَّقْر مضرحىٌّ، والسيِّد مضرحىّ.",
- "az": "[ضرح] الضاد والراء والحاء أصلان: أحدهما رمْى الشّئ، والآخَر لونٌ من الألوان (ضاد, رə və hə - iki kökdür: biri şeyin atılması, diğəri isə rənglərdən bir rəngdir). فالأوّل قولهم: ضرَحت الشَّئَ، إذا رميتَ به (Birincisi onların «ضرَحت الشَّئَ» sözüdür ki, bir şeyi atdığın zaman işlədilir). والشئ المُضْطَرَح: المرمىّ (Və «əl-mudtarah» - atılmış şey deməkdir). والفَرس الضَّروح: النَّضوح برجله (Və «əl-daruh» atı - ayağı ilə vuran atdır). وقوسٌ ضروح: شديدةُ الدّفع للسَّهم (Və «daruh» yay - oxu şiddətli atandır). والضَّريح: القبر يُحفَر من غير لَحدٍ، كأنّ الميت قد رُمِى فيه (Və «əddarih» - ləhdsiz qazılan qəbir deməkdir, sanki ölü onun içərisinə atılmışdır). وأمّا الآخَر فالأبيض من كلِّ شئ، يقال له المَضْرَحىّ (Digərinə gəldikdə isə, hər şeyin ağ olanına «əl-madrahiyy» deyilir). والصَّقْر مضرحىٌّ، والسيِّد مضرحىّ (Şahinə «madrahiyy» deyilir, başçıya da «madrahiyy» deyilir).",
+ "az": "[ضرح] Dad, ra və ha iki kökdür: biri bir şeyi atmaq, digəri isə rənglərdən bir rəngdir.\nBirincisi onların «ضرَحت الشَّئَ» ifadəsidir ki, bir şeyi atdığın zaman söylənilir. والمُضْطَرَح olan şey – atılmış şeydir. والفَرس الضَّروح – ayaqları ilə təpik atan atdır. وقوسٌ ضروح – oxu şiddətlə fırladan (atan) yaydır. والضَّريح – ləhdsiz qazılan qəbirdir, sanki ölü onun içərisinə atılmışdır.\nDigərinə gəldikdə, hər şeyin ağ olanına المَضْرَحىّ deyilir. Şahinə və ağsaqqala (rəhbərə) də مضرحىّ deyilər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:07:14.230Z"
+ "ts": "2026-10-25T02:07:14.230Z",
+ "prev_az": "[ضرح] الضاد والراء والحاء أصلان: أحدهما رمْى الشّئ، والآخَر لونٌ من الألوان (ضاد, رə və hə - iki kökdür: biri şeyin atılması, diğəri isə rənglərdən bir rəngdir). فالأوّل قولهم: ضرَحت الشَّئَ، إذا رميتَ به (Birincisi onların «ضرَحت الشَّئَ» sözüdür ki, bir şeyi atdığın zaman işlədilir). والشئ المُضْطَرَح: المرمىّ (Və «əl-mudtarah» - atılmış şey deməkdir). والفَرس الضَّروح: النَّضوح برجله (Və «əl-daruh» atı - ayağı ilə vuran atdır). وقوسٌ ضروح: شديدةُ الدّفع للسَّهم (Və «daruh» yay - oxu şiddətli atandır). والضَّريح: القبر يُحفَر من غير لَحدٍ، كأنّ الميت قد رُمِى فيه (Və «əddarih» - ləhdsiz qazılan qəbir deməkdir, sanki ölü onun içərisinə atılmışdır). وأمّا الآخَر فالأبيض من كلِّ شئ، يقال له المَضْرَحىّ (Digərinə gəldikdə isə, hər şeyin ağ olanına «əl-madrahiyy» deyilir). والصَّقْر مضرحىٌّ، والسيِّد مضرحىّ (Şahinə «madrahiyy» deyilir, başçıya da «madrahiyy» deyilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Formatlaşdırma səhvi var: ərəb mətni əsas götürülərək tərcümə mötərizələrdə verilib.",
+  "Hərf adında typo var («رə»)."
+ ],
+ "review_ts": "2026-11-21T14:11:10.622Z"
 }

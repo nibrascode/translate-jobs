@@ -11,7 +11,17 @@
   "page_to": 438
  },
  "ar": "الطاء والباء والسين ليس بشئ. على أنهم يقولون:\nالطَّبَسانِ: كُورتان. وهذا وشِبهه ممَّا لا معنى لذكره؛ لأنَّه إذا ذكر ما أشبه كلُّه حُمِل على كلام العرب ما ليس هو منه. وكذلك قول من قال (٢): إنَّ التَّطبيس: التَّطبين (٣).",
- "az": "[طبس] الطاء والباء والسين (طا, با, sin) heç bir şey deyil. Lakin onlar deyirlər: الطَّبَسانِ (ət-tabəsani) — iki qəsəbədir (və ya bölgədir). Bu və buna bənzər şeylərin zikr edilməsinin heç bir mənası yoxdur; çünki bənzər şeylərin hamısı zikr olunduqda, ərəb dilindən olmayan şey də ərəb dilinə aid edilmiş olar. Eləcə də (deyənin) bu sözü (٢): həqiqətən, التَّطبيس (ət-tatbis) — التَّطبين (ət-tatbin) deməkdir (٣).",
+ "az": "[طبس] Ta, ba və sin bir şey deyildir. Lakin deyirlər ki: الطَّبَسانِ iki vilayətdir. Bu və buna bənzər şeylərin zikr edilməsinin heç bir mənası yoxdur; çünki bənzər şeylərin hamısı zikr olunduqda, ərəb dilindən olmayan şey də ərəb dilinə aid edilmiş olar. Eləcə də deyənin bu sözü (٢): التَّطبيس - التَّطبين deməkdir (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:11:55.933Z"
+ "ts": "2026-10-25T02:11:55.933Z",
+ "prev_az": "[طبس] الطاء والباء والسين (طا, با, sin) heç bir şey deyil. Lakin onlar deyirlər: الطَّبَسانِ (ət-tabəsani) — iki qəsəbədir (və ya bölgədir). Bu və buna bənzər şeylərin zikr edilməsinin heç bir mənası yoxdur; çünki bənzər şeylərin hamısı zikr olunduqda, ərəb dilindən olmayan şey də ərəb dilinə aid edilmiş olar. Eləcə də (deyənin) bu sözü (٢): həqiqətən, التَّطبيس (ət-tatbis) — التَّطبين (ət-tatbin) deməkdir (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə «həقiqətən» sözündə hərf xətası var.",
+  "Haşiyə rəqəmləri ərəb rəqəmləri ilə (٢) və (٣) saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-21T14:20:39.046Z"
 }

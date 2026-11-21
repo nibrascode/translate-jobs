@@ -11,7 +11,17 @@
   "page_to": 430
  },
  "ar": "الطاء والواو والدال أصلٌ صحيح، وفيه كلمةٌ واحدة.\nفالطَّود: الجبَل العظيم. قال اللّه سبحانه: ﴿فَانْفَلَقَ فَكانَ كُلُّ فِرْقٍ كَالطَّوْدِ اَلْعَظِيمِ﴾. ويقولون: طَوَّدَ فى الجبل، إذا طوَّف، كأنّه فعل مشتقٌّ من الطَّود.",
- "az": "[طود] (Tə, vav və dal) tək bir sözün olduğu səhih əsl kökdür. الطَّود (ət-tod) – böyük dağdır. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿فَانْفَلَقَ فَكانَ كُلُّ فِرْقٍ كَالطَّوْدِ اَلْعَظِيمِ﴾ (Hər bir parça böyük dağ kimi yarıldı). Deyirlər: طَوَّدَ فى الجبل (təvvədə fil-cəbəl) – dağda gəzişdi, elə bil طود (ət-tod) sözündən törədilmiş bir feildir.",
+ "az": "[طود] (Ta, vav və dal) tək bir sözün olduğu səhih əsl kökdür. والطَّود (ət-taud) – böyük dağdır. Uca Allah buyurmuşdur: ﴿فَانْفَلَقَ فَكانَ كُلُّ فِرْقٍ كَالطَّوْدِ اَلْعَظِيمِ﴾ (mənaca tərcümə: «...dəniz yarıldı və hər bir parça böyük bir dağ kimi oldu»). Deyirlər: طَوَّدَ فى الجبل (tavvada fil-cabal) – dağda gəzişdi, sanki bu, الطَّود sözündən düzəlmiş feildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:09:52.400Z"
+ "ts": "2026-10-25T02:09:52.400Z",
+ "prev_az": "[طود] (Tə, vav və dal) tək bir sözün olduğu səhih əsl kökdür. الطَّود (ət-tod) – böyük dağdır. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿فَانْفَلَقَ فَكانَ كُلُّ فِرْقٍ كَالطَّوْدِ اَلْعَظِيمِ﴾ (Hər bir parça böyük dağ kimi yarıldı). Deyirlər: طَوَّدَ فى الجبل (təvvədə fil-cəbəl) – dağda gəzişdi, elə bil طود (ət-tod) sözündən törədilmiş bir feildir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ط» hərfinin adı «Ta» yazılmalıdır.",
+  "Quran ayəsinin tərcüməsi qaydalara uyğun olaraq ərəb mətnindən sonra «mənaca tərcümə: ...» formatında verilməlidir."
+ ],
+ "review_ts": "2026-11-21T14:19:33.177Z"
 }

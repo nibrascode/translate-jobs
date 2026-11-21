@@ -11,9 +11,19 @@
   "page_to": 319
  },
  "ar": "الصاد والواو والتاء أصلٌ صحيح، وهو الصَّوت، وهو جنسٌ لكلِّ ما وقَرَ فى أذُن السَّامع. يقال هذا صوتُ زَيد. ورجل صيِّت،\nإذا كان شديدَ الصَّوت؛ وصائتٌ إذا صاحَ. فأمّا قولهم: [دُعىَ (١)] فانصات (٢)، فهو من ذلك أيضاً، كأنه صُوِّتَ به فانفَعل من الصَّوت، وذلك إذا أجاب. والصِّيت: الذِّكر الحسَن فى النَّاس. يقال ذهب صِيتُه.",
- "az": "[صوت] (sad, vav və ta) səhih bir kök olub səslənməyi bildiren الصَّوْت (səs) sözüdür ki, bu, dinləyənin qulağında qərar tutan hər şeyin cinsidir. «Bu, Zeydin səsidir» deyilir. Səsi çox güclü olan adama رجل صيِّت (sayyit), bağırdığı vaxt isə صائت (sayit) deyilər. Onların [دُعىَ (١)] فانصات (٢) sözlərinə gəldikdə, bu da həmin köktəndir; elə bil ona səslənilmiş, o da səsdən təsirlənərək cavab vermişdir. الصِّيت (sit): insanlar arasında gözəl ad, zikr. «Onun siti getdi» deyilir.",
+ "az": "[صوت] (Sad, vav və ta) səhih bir kök olub الصَّوْت (səs) sözüdür ki, bu, dinləyənin qulağında qərar tutan hər şeyin cinsidir. «هذا صوتُ زَيد» (Bu, Zeydin səsidir) deyilir. Səsi güclü olan adama رجل صيِّت (sayyit), qışqırdığı vaxt isə صائت (sait) deyilir.\\nOnların [دُعىَ (١)] فانصات (٢) (çağırıldı və cavab verdi) sözlərinə gəldikdə, bu da həmin kökdəndir; sanki ona səslənilmiş, o da səsdən təsirlənərək cavab vermişdir. الصِّيت (sit): insanlar arasında gözəl ad-san, şöhrət. «ذهب صِيتُه» (onun şöhrəti yayıldı) deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:02:11.241Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[صوت] (sad, vav və ta) səhih bir kök olub səslənməyi bildiren الصَّوْت (səs) sözüdür ki, bu, dinləyənin qulağında qərar tutan hər şeyin cinsidir. «Bu, Zeydin səsidir» deyilir. Səsi çox güclü olan adama رجل صيِّت (sayyit), bağırdığı vaxt isə صائت (sayit) deyilər. Onların [دُعىَ (١)] فانصات (٢) sözlərinə gəldikdə, bu da həmin köktəndir; elə bil ona səslənilmiş, o da səsdən təsirlənərək cavab vermişdir. الصِّيت (sit): insanlar arasında gözəl ad, zikr. «Onun siti getdi» deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«[دُعىَ (١)] فانصات (٢)» ərəbcə ifadəsi tərcüməsiz qalıb.",
+  "«ذهب صِيتُه» ifadəsi yanlış tərcümə olunub («Onun siti getdi»).",
+  "Mətndə yazı xətaları var (bildiren, köktəndir)."
+ ],
+ "review_ts": "2026-11-21T13:10:29.468Z"
 }

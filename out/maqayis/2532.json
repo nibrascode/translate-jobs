@@ -11,7 +11,17 @@
   "page_to": 431
  },
  "ar": "الطاء والواو والسين ليس بأصل، إنّما فيه الذى يقال له الطَّاوُس. ثم يشتقّ منه فيقال للشَّئ الحسن: مُطوَّس. وحُكى عن الأصمعىّ:\nتطوَّست المرأةُ: تزيّنَت. وذكر فى الباب أيضاً أنّ الطَّوْس: تغطيةُ الشّيء. يقال طُسْته طَوْساً، أى غطَّيته. قالوا: وطَوَاس (١): ليلةٌ من ليالى المِحُاق.",
- "az": "[طوس] (Tə, vav və sin) əsl kök deyil, orada yalnız الطَّاوُس (ət-tavus) adlanan quş vardır. Sonra ondan feil düzəldilib gözəl olan şeyə مُطوَّس (mütəvvəs) denilir. Əsməcidən rəvayət olunmuşdur ki: «تطوَّست المرأةُ» (tətəvvəsətil-mərətu) – qadın bəzəndi. Həmçinin bu babda qeyd olunmuşdur ki, الطَّوْس (ət-tovs) – bir şeyi örtməkdir. Deyilir: «طُسْته طَوْساً» (tustü tovşən), yəni onu örtdüm. Və dedilər ki: طَوَاس (təvas) – ayın görünməz olduğu gecələrdən bir gecədir.",
+ "az": "[طوس] (Ta, vav və sin) əsl kök deyil, orada yalnız الطَّاوُس (ət-tavus) adlanan quşun adı vardır. Sonra ondan feil düzəldilib gözəl olan şeyə مُطوَّس (mutavvas) deyilir. Əsməcidən rəvayət olunmuşdur: تطوَّست المرأةُ (tatavvasatil-mar'atu) – qadın bəzəndi. Bu babda həmçinin qeyd olunmuşdur ki, الطَّوْس (ət-tavs) – bir şeyi örtməkdir. Deyilir: طُسْته طَوْساً (tustuhu tavsan), yəni onu örtdüm. Dedilər ki: وطَوَاس (və tavas) – ayın görünməz olduğu gecələrdən bir gecədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:09:52.400Z"
+ "ts": "2026-10-25T02:09:52.400Z",
+ "prev_az": "[طوس] (Tə, vav və sin) əsl kök deyil, orada yalnız الطَّاوُس (ət-tavus) adlanan quş vardır. Sonra ondan feil düzəldilib gözəl olan şeyə مُطوَّس (mütəvvəs) denilir. Əsməcidən rəvayət olunmuşdur ki: «تطوَّست المرأةُ» (tətəvvəsətil-mərətu) – qadın bəzəndi. Həmçinin bu babda qeyd olunmuşdur ki, الطَّوْس (ət-tovs) – bir şeyi örtməkdir. Deyilir: «طُسْته طَوْساً» (tustü tovşən), yəni onu örtdüm. Və dedilər ki: طَوَاس (təvas) – ayın görünməz olduğu gecələrdən bir gecədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ط» hərfinin adı «Ta» yazılmalıdır.",
+  "Transliterasiyada «طَوْساً» sözü «tovşən» kimi yanlış yazılmışdır, «tavsan» olmalıdır."
+ ],
+ "review_ts": "2026-11-21T14:19:33.178Z"
 }

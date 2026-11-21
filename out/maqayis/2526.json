@@ -11,7 +11,16 @@
   "page_to": 429
  },
  "ar": "الطاء والهاء والميم أصلٌ صحيح يدلُّ على شئٍ فى خَلْقِ الإِنسان وغيرِه. فحكى أبو عبيدة أنَّ المُطَهَّم: الجميل التامّ الخَلْق من الناس والأفراس.\nوقال غيره: المطَهَّم: المَكلْثَم المجتمِع. وهذا عندنا أصحُّ القولين؛ للحديث الذى\nرواه علىٌّ ﵇ فى وصف رسول اللّه ﵌: «لم يكن بالمطهَّم ولا المكلْثم». وحكيت كلمةٌ إن صحّت، قالوا: تطهَّمّتُ الطعامَ: كرهته.",
- "az": "[طهم] (Tə, hə və mim) insanın və digərlərinin xilqətində olan bir şeyə dəlalət edən səhih əsl kökdür. Əbu Übeydə rəvayət etmişdir ki, المُطَهَّم (əl-mütəhhəm) – insanlardan və atlardan gözəl, xilqəti tam olan deməkdir. Digəri demişdir: المُطَهَّم (əl-mütəhhəm) – yanaqları ətli, əza-yi bədəni bir-birinə bitişik və toplu olan kəsdir. Bu, bizə görə iki sözdən daha səhih olanıdır; çünki Həzrəti Əli (ə.s.) tərəfindən Peyğəmbərin (s.ə.v.) vəsf edilməsində rəvayət edilən hədisə əsasən: «لم يكن بالمطهَّم ولا المكلْثم» (O, nə mütəhhəm, nə də mükləsm idi). Əgər səhihdirsə, bir söz də rəvayət edilmişdir, demişlər: «تطهَّمّتُ الطعامَ» (tətəhəmmtüt-təamə) – yeməyə nifrət etdim.",
+ "az": "[طهم] (Ta, hə və mim) insanın və digərlərinin xilqətində olan bir şeyə dəlalət edən səhih əsl kökdür. Əbu Übeydə rəvayət etmişdir ki, المُطَهَّم (əl-mutahham) – insanlardan və atlardan gözəl, xilqəti tam olan deməkdir.\nDigəri demişdir: المُطَهَّم (əl-mutahham) – yanaqları ətli, əza-yi bədəni bir-birinə bitişik və toplu olan kəsdir. Bu, bizə görə iki sözdən daha səhih olanıdır; çünki Əlinin ﵇ Peyğəmbərin sallallahu aleyhi və səlləm vəsf edilməsində rəvayət etdiyi hədisə əsasən: «لم يكن بالمطهَّم ولا المكلْثم» (O, nə mütəhhəm, nə də mükləsm idi). Əgər səhihdirsə, bir söz də rəvayət edilmişdir, demişlər: «تطهَّمّتُ الطعامَ» (tatahhamtut-taama) – yeməyə nifrət etdim.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:09:52.400Z"
+ "ts": "2026-10-25T02:09:52.400Z",
+ "prev_az": "[طهم] (Tə, hə və mim) insanın və digərlərinin xilqətində olan bir şeyə dəlalət edən səhih əsl kökdür. Əbu Übeydə rəvayət etmişdir ki, المُطَهَّم (əl-mütəhhəm) – insanlardan və atlardan gözəl, xilqəti tam olan deməkdir. Digəri demişdir: المُطَهَّم (əl-mütəhhəm) – yanaqları ətli, əza-yi bədəni bir-birinə bitişik və toplu olan kəsdir. Bu, bizə görə iki sözdən daha səhih olanıdır; çünki Həzrəti Əli (ə.s.) tərəfindən Peyğəmbərin (s.ə.v.) vəsf edilməsində rəvayət edilən hədisə əsasən: «لم يكن بالمطهَّم ولا المكلْثم» (O, nə mütəhhəm, nə də mükləsm idi). Əgər səhihdirsə, bir söz də rəvayət edilmişdir, demişlər: «تطهَّمّتُ الطعامَ» (tətəhəmmtüt-təamə) – yeməyə nifrət etdim.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«sallallahu aleyhi və səlləm» ifadəsi qısaltma (s.ə.v.) ilə yazılmışdır."
+ ],
+ "review_ts": "2026-11-21T14:18:28.693Z"
 }

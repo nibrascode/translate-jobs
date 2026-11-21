@@ -11,7 +11,17 @@
   "page_to": 413
  },
  "ar": "الطاء والغين والميم كلمةٌ ما أحسبها من أصل كلام العرب.\nيقولون لأوغاد النّاس: طَغَام.",
- "az": "[طغم] الطاء والغين والميم كلمةٌ ما أحسبها من أصل كلام العرب (Ta, qayn və mim elə bir kəlmədir ki, onun ərəb dilinin əslindən olduğunu güman etmirəm). يقولون لأوغad النّاس: طَغَام (Onlar insanların alçaqlarına «tağam» deyirlər).",
+ "az": "[طغم] الطاء والغين والميم كلمةٌ ما أحسبها من أصل كلام العرب (Ta, ğayn və mim elə bir kəlmədir ki, ərəb kəlamının əslindən olduğunu güman etmirəm).\nيقولون لأوغاد النّاس: طَغَام (İnsanların alçaqlarına طَغَام deyirlər).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:07:39.767Z"
+ "ts": "2026-10-25T02:07:39.767Z",
+ "prev_az": "[طغم] الطاء والغين والميم كلمةٌ ما أحسبها من أصل كلام العرب (Ta, qayn və mim elə bir kəlmədir ki, onun ərəb dilinin əslindən olduğunu güman etmirəm). يقولون لأوغad النّاس: طَغَام (Onlar insanların alçaqlarına «tağam» deyirlər).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfinin adı səhv verilib («ğayn» əvəzinə «qayn»).",
+  "Mətndə ərəb və latın hərfləri qarışıb («لأوغad»)."
+ ],
+ "review_ts": "2026-11-21T14:19:13.666Z"
 }

@@ -13,5 +13,7 @@
  "ar": "الضاد والهمزة والدال أُصيلٌ قليل الفُروع، يدلُّ على مَرض من الأمراض. قالوا: الضُّؤْد: الزكام، وكذلك الضُّؤْدَة. رجلٌ مضْئُود، أى مزكوم. وحُكيت كلمةٌ أخرى عن أبى زيد، إن صحّت، قالوا: ضأَدْت الرّجُل ضأدًا، إذا خَصَمتَه.",
  "az": "«ضأد»: الضاد, الهمزة, والدال (d, həmzə, d) — xəstəliklərdən bir xəstəliyə dəlalət edən, az şaxələnən kiçik bir kökdür. Dedilər: «الضُّؤْد» — zökəm, həmçinin «الضُّؤْدَة». «رجل مضْئُود» — yəni zökəm olmuş kişi. Əbu Zeyddən başqa bir kəlmə də rəvayət edilmişdir, əgər düzdürsə, dedilər: «ضأَدْت الرّجُل ضأدًا» — onu məğlub etdin, dəlil ilə susdurun.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:06:03.920Z"
+ "ts": "2026-10-25T02:06:03.920Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

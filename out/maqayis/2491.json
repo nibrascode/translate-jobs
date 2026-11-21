@@ -11,7 +11,16 @@
   "page_to": 413
  },
  "ar": "الطاء والفاء والقاف كلمةٌ صحيحة. يقولون: طفِق يفعل كذا كما يقال ظلَّ يفعل. قال اللّه تعالى: ﴿فَطَفِقَ مَسْحاً بِالسُّوقِ وَاَلْأَعْناقِ﴾، ﴿وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ اَلْجَنَّةِ﴾.",
- "az": "[طفق] الطاء والفاء والقاف كلمةٌ صحيحة (Ta, fa və qaf səhih kəlmədir). يقولون: طفِق يفعل كذا كما يقال ظلَّ يفعل (Deyirlər: «tafika yəf’əlü kəza», necə ki «zallə yəf’əlü» deyilir). قال اللّه تعالى: ﴿فَطَفِقَ مَسْحاً بِالسُّوقِ وَاَلْأَعْناقِ﴾، ﴿وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ اَلْجَنَّةِ﴾ (Uca Allah buyurmuşdur: mənaca tərcümə: Və baldırları, boyunları sığallamağa başladı; Və onların ikisi Cənnət yarpaqlarından üzərlərinə yamamağa başladılar).",
+ "az": "[طفق] الطاء والفاء والقاف كلمةٌ صحيحة (Ta, fa və qaf səhih bir kəlmədir). يقولون: طفِق يفعل كذا كما يقال ظلَّ يفعل (Deyirlər: طفِق يفعل كذا [filan şeyi etməyə başladı], necə ki ظلَّ يفعل [filan şeyi etməkdə davam etdi] deyilir). قال اللّه تعالى: ﴿فَطَفِقَ مَسْحاً بِالسُّوقِ وَاَلْأَعْناقِ﴾، ﴿وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ اَلْجَنَّةِ﴾ (Uca Allah buyurmuşdur: ﴿فَطَفِقَ مَسْحاً بِالسُّوقِ وَاَلْأَعْناقِ﴾ [mənaca tərcümə: Baldırlarını və boyunlarını sığallamağa/biçməyə başladı] və ﴿وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ اَلْجَنَّةِ﴾ [mənaca tərcümə: İkisi də Cənnət yarpaqlarından üzərlərinə yamamağa başladılar]).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:07:39.767Z"
+ "ts": "2026-10-25T02:07:39.767Z",
+ "prev_az": "[طفق] الطاء والفاء والقاف كلمةٌ صحيحة (Ta, fa və qaf səhih kəlmədir). يقولون: طفِق يفعل كذا كما يقال ظلَّ يفعل (Deyirlər: «tafika yəf’əlü kəza», necə ki «zallə yəf’əlü» deyilir). قال اللّه تعالى: ﴿فَطَفِقَ مَسْحاً بِالسُّوقِ وَاَلْأَعْناقِ﴾، ﴿وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ اَلْجَنَّةِ﴾ (Uca Allah buyurmuşdur: mənaca tərcümə: Və baldırları, boyunları sığallamağa başladı; Və onların ikisi Cənnət yarpaqlarından üzərlərinə yamamağa başladılar).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«طَفِقَ يَفْعَلُ كَذَا» cümləsinin mənası tərcümə olunmayıb, sadəcə transliterasiya edilib."
+ ],
+ "review_ts": "2026-11-21T14:19:13.666Z"
 }

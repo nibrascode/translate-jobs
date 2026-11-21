@@ -11,7 +11,17 @@
   "page_to": 430
  },
  "ar": "الطاء والواو والباء ليس بأصل؛ لأنّ الطوب فيما أحسب هذا الذى يسمى الآجُرّ، وما أظُنُّ العربَ تعرفه. وأمّا طُوبَى فليس من هذا، وأصله الياء، كأنها فعلى من الطِّيب، فقلبت الياء واواً للضمَّة.",
- "az": "[طوب] (Tə, vav və ba) əsl kök deyil; çünki mənim zənnimcə الطوب (ət-tub) kərpic adlanan şeydir və mən zənn etmirəm ki, ərəblər bunu tanısınlar. طُوبَى (tuba) sözünə gəldikdə, o, bundan deyil, əsli yadır, elə bil طِيب (tib) sözündən فعلى (fəla) çəkisindədir, zamməyə görə ya vav hərfinə çevrilmişdir.",
+ "az": "[طوب] (Ta, vav və ba) əsl kök deyil; çünki mənim zənnimcə الطوب (ət-tub) kərpic adlanan şeydir və mən zənn etmirəm ki, ərəblər bunu tanısınlar. طُوبَى (tuba) sözünə gəldikdə, o, bundan deyil, əsli ya hərflidir, sanki طِيب (tib) sözündən فُعْلَى (fə'la) çəkisindədir, zamməyə görə ya hərfi vav hərfinə çevrilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:09:52.400Z"
+ "ts": "2026-10-25T02:09:52.400Z",
+ "prev_az": "[طوب] (Tə, vav və ba) əsl kök deyil; çünki mənim zənnimcə الطوب (ət-tub) kərpic adlanan şeydir və mən zənn etmirəm ki, ərəblər bunu tanısınlar. طُوبَى (tuba) sözünə gəldikdə, o, bundan deyil, əsli yadır, elə bil طِيب (tib) sözündən فعلى (fəla) çəkisindədir, zamməyə görə ya vav hərfinə çevrilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ط» hərfinin adı «Ta» yazılmalıdır.",
+  "Transliterasiyada «فعلى» çəkisi «fəla» kimi yanlış yazılmışdır, «fə'la» (فُعْلَى) olmalıdır."
+ ],
+ "review_ts": "2026-11-21T14:19:33.177Z"
 }

@@ -13,5 +13,7 @@
  "ar": "الضاد والهمزة والنون أُصَيل صحيح، وهو بعض الأنعام.\nمن ذلك الضأن. يقال أضْأنَ الرجلُ، إذا كثُرَ ضأنُه. والضائنة الواحدة من الضأن. وحكى بعضُهم: فلان ضائن البطنِ: مسترخِيهِ.",
  "az": "«ضأن»: الضاد, الهمزة, والنون (d, həmzə, n) — məvatidən (davar növündən) olan səhih kiçik bir kökdür. Bunlardan biri «الضأن» (qoyunlar) sözüdür. Deyilir: «أضْأنَ الرجلُ» — kişinin qoyunları çoxaldı. «الضائنة» — qoyunlardan tək olan (dişi qoyun). Bəziləri rəvayət etmişdir: filankəsin qarnı sallaqdır («ضائن البطن»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:06:03.920Z"
+ "ts": "2026-10-25T02:06:03.920Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

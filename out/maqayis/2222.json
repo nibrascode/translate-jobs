@@ -14,6 +14,10 @@
  "az": "«شرق» (şin, ra və qaf) — işıqlanma və açılışa dəlalət edən tək bir əsldir.\nBunlardan biri «شَرَقَت الشّمسُ» (günəş doğdu) sözüdür, yəni çıxdı. «أشرقت» (işıqlandı) — işıq saçdı. «الشُّرُوق» (şuruq) — onun çıxmasıdır. Deyirlər: «لا أفعل ذلك ما ذرَّ شارقٌ» (mən bunu əsla etmərəm, nə qədər ki, şariq doğmayıb) — bununla günəşin doğması nəzərdə tutulur. «أيّام التَّشْريق» (təşriq günləri) bu adla adlandırılmışdır, çünki qurbanlıq ətlər günəşdə həmin günlərdə sərilərək qurutdurulur.\nBəzi insanlar deyirlər ki, o, onların: «أشرِقْ ثَبِير، لكيما نُغير» (Ey Səbir dağı, işıqlan ki, hücum edək) sözünə görə belə adlandırılmışdır. «المَشْرِقانِ» (iki məşriq) — yay və qışın çıxış nöqtələridir. «الشَّرْق» (şərg) — məşriq, şərq deməkdir. Bir qrup demişdir ki, qırmızı ətə «شَرْق» (şərg) adı verilir; əgər bu doğrudursa, onda qırmızı olduğundan sanki işıq saçan (müşriq) kimidir.\nBu babın qiyasından budur: «الشاةُ الشّرقاءُ» (şərqa qoyun) — qulağı yarıq olan qoyun; bu da təsvir etdiyimiz açılış mənasındandır.\nBu babdan istisna olunan (şaz olan) onların bu sözüdür: «شَرِق بالماء» (su ilə boğuldu) — su boğazında qaldıqda «شَرَقاً» deyilir. Udey demişdir:\nلو بِغَير الماءِ حَلْقِى شَرِقٌ … كنتُ كالغَصَّانِ بالماء اعتصارِى (٣)\n(Əgər boğazım sudan başqa bir şeylə boğulsaydı, mən su ilə sıxılan (boğulan) şəxs kimi olardım)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:56:27.489Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-21T13:06:54.108Z"
 }

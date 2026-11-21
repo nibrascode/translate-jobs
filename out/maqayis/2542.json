@@ -13,5 +13,10 @@
  "ar": "الطاء والياء والشين كلمةٌ واحدة، وهى الطَّيش والخِفّة.\nوطاش السَّهم من هذا، إذا لم يُصِبْ، كأنَّه خفّ وطاش وطار.",
  "az": "[طيش] (T-Y-Sh): Ta, ya və şin hərfləri bir kəlimədir, o da الطَّيش (səfehlik) və yüngüllükdür. Oxun طاش (hədəfdən yayındı) olması da bundandır, əgər dəyməzsə, sanki yüngülləşdi, yayındı və uçdu.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T02:11:32.879Z"
+ "ts": "2026-10-25T02:11:32.879Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-21T14:20:39.045Z"
 }

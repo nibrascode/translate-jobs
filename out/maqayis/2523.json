@@ -11,7 +11,16 @@
   "page_to": 428
  },
  "ar": "الطاء والهاء والشين ليس بشئ. وذُكرتْ كلمةٌ فيها نظر، قالوا: الطَّهْش: فَساد العمل.",
- "az": "[طهش] (Tə, hə və şin) heç bir əsası yoxdur. İçində şübhə olan bir söz qeyd edilmişdir, demişlər ki: الطَّهْش (ət-təhş) – işin pozulmasıdır.",
+ "az": "[طهش] (Ta, hə və şin) heç bir əsası yoxdur. İçində şübhə olan bir söz qeyd edilmişdir, demişlər ki: الطَّهْش (ət-tahş) – işin pozulmasıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:09:52.400Z"
+ "ts": "2026-10-25T02:09:52.400Z",
+ "prev_az": "[طهش] (Tə, hə və şin) heç bir əsası yoxdur. İçində şübhə olan bir söz qeyd edilmişdir, demişlər ki: الطَّهْش (ət-təhş) – işin pozulmasıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərf adı düzgün verilməmişdir (Ta olmalıdır)."
+ ],
+ "review_ts": "2026-11-21T14:18:28.692Z"
 }

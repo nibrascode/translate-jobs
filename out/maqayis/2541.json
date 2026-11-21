@@ -11,7 +11,16 @@
   "page_to": 437
  },
  "ar": "الطاء والياء والسين كلمةٌ واحدة. قال:\nعددتُ قومِى كعَديدِ الطَّيْسِ (٣)\nأراد به العدد الكثير.",
- "az": "[طيس] (T-Y-S): Ta, ya və sin hərfləri bir kəlimədir. Dedi: عددتُ قومِى كعَديدِ الطَّيْسِ (3) (Qövmümü çoxluq sayında saydım). Bununla çox sayda olmağı nəzərdə tutdu.",
+ "az": "[طيس] Ta, ya və sin bir sözdür. Şair dedi:\nعددتُ قومِى كعَديدِ الطَّيْسِ (٣)\n(Qövmümü çoxluq sayında saydım). Bununla çox sayda olmağı nəzərdə tutdu.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T02:11:32.879Z"
+ "ts": "2026-10-25T02:11:32.879Z",
+ "prev_az": "[طيس] (T-Y-S): Ta, ya və sin hərfləri bir kəlimədir. Dedi: عددتُ قومِى كعَديدِ الطَّيْسِ (3) (Qövmümü çoxluq sayında saydım). Bununla çox sayda olmağı nəzərdə tutdu.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (3) ərəb qrafikası ilə (٣) saxlanılmalıdır."
+ ],
+ "review_ts": "2026-11-21T14:20:39.045Z"
 }

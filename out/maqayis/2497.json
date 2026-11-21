@@ -11,7 +11,16 @@
   "page_to": 415
  },
  "ar": "الطاء والفاء والنون ليس بشئ. على أنهم يقولون: الطُّفَانِيَة نعتُ سَوءٍ فى الرّجل والمرأة. واللّه أعلم بالصَّواب.",
- "az": "[طفن] الطاء (ta), الفاء (fa) və النون (nun) bir şey deyildir. Baxmayaraq ki, onlar deyirlər: الطُّفَانِيَة (ət-tufaniyə) kişi və qadında pis bir xüsusiyyətdir. Doğrusunu Allah bilir.",
+ "az": "[طفن] الطاء والفاء والنون ليس بشئ (Ta, fa və nun bir şey deyildir). على أنهم يقولون: الطُّفَانِيَة نعتُ سَوءٍ فى الرّجل والمرأة (Bununla belə deyirlər: الطُّفَانِيَة – kişi və qadında pis keyfiyyətdir). واللّه أعلم بالصَّواب (Doğrusunu Allah bilir).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T02:09:04.543Z"
+ "ts": "2026-10-25T02:09:04.543Z",
+ "prev_az": "[طفن] الطاء (ta), الفاء (fa) və النون (nun) bir şey deyildir. Baxmayaraq ki, onlar deyirlər: الطُّفَانِيَة (ət-tufaniyə) kişi və qadında pis bir xüsusiyyətdir. Doğrusunu Allah bilir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə gərəksiz latın transliterasiyaları istifadə olunub."
+ ],
+ "review_ts": "2026-11-21T14:19:13.668Z"
 }

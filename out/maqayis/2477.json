@@ -13,5 +13,10 @@
  "ar": "الطاء والنون أصلٌ يدلُّ على صوت. يقال: طنَّ الذباب طنيناً. ويقولون: ضرب يدَه فأطنّها، كأنّه يُراد به صوتُ القَطْع.\nومما ليس عندى عربيًّا قولُهم للحُزمة من الحطب وغيرِه: طُنّ. ويقولون:\nطَنَّ، إذا مات. وليس بشئ.",
  "az": "[طن] الطاء والنون أصلٌ يدلُّ على صوت (طا və nun səsə dəlalət edən bir kökdür). يقال: طنَّ الذباب طنيناً (Deyilir: milçək «tannan» - vızıldadı). ويقولون: ضرب يدَه فأطنّها، كأنّه يُراد به صوتُ القَطْع (Və deyərlər: onun əlini vurdu və onu qopardı, sanki bununla kəsmə səsi nəzərdə tutulur). ومما ليس عندى عربيًّا قولُهم للحُزمة من الحطب وغيرِه: طُنّ (Mənə görə ərəb dili olmayan şeylərdən biri də onların odun və digər şeylərin dəstəsinə «tunn» demələridir). ويقولون: طَنَّ، إذا مات. وليس بشئ (Və ölən zaman «tanna» - öldü deyirlər. Bu da heç bir şey deyildir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:07:14.231Z"
+ "ts": "2026-10-25T02:07:14.231Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-21T14:12:32.676Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 391
  },
  "ar": "الضاد والحاء واللام أصلٌ صحيح، وهو الماء القليل وما أشبهه.\nمن ذلك الضَّحْل: الماء القليل، ومكانه المَضْحَل، والجمع مَضاحل. ويقال ضَحِل الماء: رقَّ وقلَّ، وهو من الكلام الفصيح الصحيح. وأَتَان الضَّحْل:\nصَخرة بعضها فى الماء وبعضُها خارج.",
- "az": "[ضحل] (Dad, hə və lam) az su və bu kimi şeylərə aid səhih bir kökdür. Bunlardan biri الضَّحْل (ad-dahl) – az su, onun yeri isə مَضْحَل (madhal), cəmi مَضاحل (madahil) olaraq adlanır. Deyilir: ضَحِل الماء (su daxil oldu) – su dayazlaşdı və azaldı. Bu, fəsih və səhih kəlamdəndir. أَتَان الضَّحْل (Atan ad-dahl) – bir hissəsi suda, digər hissəsi isə çöldə olan qayadır.",
+ "az": "[ضحل] (Dad, ha və lam) az su və ona bənzər şeylərə aid səhih bir kökdür.\nBundan الضَّحْل (əd-dəhl) – az su, onun yeri isə المَضْحَل (əl-mədhəl), cəmi مَضاحل (mədahil) adlanır. Deyilir: ضَحِل الماء (su azaldı) – su dayazlaşdı və azaldı. Bu, fəsih və səhih kəlamdandır. أَتَان الضَّحْل (Ətan əd-dəhl):\nbir hissəsi suda, bir hissəsi isə kənarda olan qayadır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:06:29.015Z"
+ "ts": "2026-10-25T02:06:29.015Z",
+ "prev_az": "[ضحل] (Dad, hə və lam) az su və bu kimi şeylərə aid səhih bir kökdür. Bunlardan biri الضَّحْل (ad-dahl) – az su, onun yeri isə مَضْحَل (madhal), cəmi مَضاحل (madahil) olaraq adlanır. Deyilir: ضَحِل الماء (su daxil oldu) – su dayazlaşdı və azaldı. Bu, fəsih və səhih kəlamdəndir. أَتَان الضَّحْل (Atan ad-dahl) – bir hissəsi suda, digər hissəsi isə çöldə olan qayadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ضَحِل الماء» ifadəsi səhv olaraq «su daxil oldu» kimi tərcümə edilmişdir (düzgünü: su azaldı).",
+  "«kəlamdəndir» sözündə orfoqrafik səhv var."
+ ],
+ "review_ts": "2026-11-21T13:34:28.991Z"
 }

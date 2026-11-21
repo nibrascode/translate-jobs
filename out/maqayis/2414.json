@@ -11,9 +11,18 @@
   "page_to": 373
  },
  "ar": "الضاد والنون والطاء، يقولون فيه إنّ الضِّنَاط:\nالزِّحام الكثير.",
- "az": "[ضنط] (ض ن ط). الضاد والنون والطاء، يقولون فيه إنّ الضِّنَاط: الزِّحام الكثير.\n(Zəmin, nun və ta) — deyirlər ki, «الضِّنَاط» güclü sıxlıq, basabas deməkdir.",
+ "az": "[ضنط] (Dad, nun və ta) — bunun haqqında deyirlər ki, الضِّنَاط (dinat): çoxlu sıxlıq, basabasdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:05:38.809Z",
- "review_attempts": 1,
- "review_last_error": "qısa (79 < 156)"
+ "review_last_error": "qısa (79 < 156)",
+ "prev_az": "[ضنط] (ض ن ط). الضاد والنون والطاء، يقولون فيه إنّ الضِّنَاط: الزِّحام الكثير.\n(Zəmin, nun və ta) — deyirlər ki, «الضِّنَاط» güclü sıxlıq, basabas deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlinə bütün ərəbcə mətn tərcüməsiz əlavə edilib.",
+  "«الضاد» (dad) hərfinin adı səhvən «Zəmin» kimi verilib."
+ ],
+ "review_ts": "2026-11-21T13:10:29.468Z"
 }

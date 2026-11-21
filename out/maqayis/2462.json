@@ -11,7 +11,16 @@
   "page_to": 395
  },
  "ar": "الضاد والراء والزاء كلمةٌ واحدة. يقال إِنَّ لضِّرِزّة: المرأة القصيرة اللئيمة.",
- "az": "[ضرز] الضاد (ضad), ra (ر) və zay (ز) hərfləri tək bir kəlmədir. Deyilir ki, لضِّرِزّة: qısaboylu, alçaq xasiyyətli qadındır.",
+ "az": "[ضرز] (Dad, ra və zey) tək bir kəlmədir. Deyilir ki, لضِّرِزّة (əd-dirizzə): qısaboylu, alçaq xasiyyətli qadındır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:06:49.275Z"
+ "ts": "2026-10-25T02:06:49.275Z",
+ "prev_az": "[ضرز] الضاد (ضad), ra (ر) və zay (ز) hərfləri tək bir kəlmədir. Deyilir ki, لضِّرِزّة: qısaboylu, alçaq xasiyyətli qadındır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adlarının yazılışında əlifbalar qarışdırılmışdır («الضاد (ضad), ra (ر) və zay (ز)»)."
+ ],
+ "review_ts": "2026-11-21T13:34:28.992Z"
 }

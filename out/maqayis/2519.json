@@ -11,7 +11,16 @@
   "page_to": 426
  },
  "ar": "الطاء والنون والخاء كلمةٌ إن صحت. يقولون طَنِخ، إذا بَشِم، ويقال إذا سَمِن.",
- "az": "[طنخ] (Tə, nun və xa) əgər səhihdirsə, bir sözdür. Deyirlər: طَنِخ (tənihə) – həddindən artıq yedikdə (mədəsi dolub gəyirmə halları yaşandıqda) və bəziləri kökəldikdə deyilir.",
+ "az": "[طنخ] (Ta, nun və xa) əgər səhihdirsə, bir sözdür. Deyirlər: طَنِخ (tanixa) – həddindən artıq yedikdə (mədəsi dolduqda) və kökəldikdə deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:09:52.399Z"
+ "ts": "2026-10-25T02:09:52.399Z",
+ "prev_az": "[طنخ] (Tə, nun və xa) əgər səhihdirsə, bir sözdür. Deyirlər: طَنِخ (tənihə) – həddindən artıq yedikdə (mədəsi dolub gəyirmə halları yaşandıqda) və bəziləri kökəldikdə deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərf adı və transliterasiya düzgün verilməmişdir (Ta, xa)."
+ ],
+ "review_ts": "2026-11-21T14:18:28.691Z"
 }
