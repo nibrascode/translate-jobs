@@ -11,7 +11,16 @@
   "page_to": 447
  },
  "ar": "الطاء والراء والشين كلمةٌ معروفة، وهى الطَّرَش، معروف (١). وقال أبو عمرو: تطرَّش (٢) النَّاقِهُ من المرض، إذا قام وقعَد.",
- "az": "[طروش] (ط، ر، ش) — الطاء والراء والشين كلمةٌ معروفة، وهى الطَّرَش، معروف (١) (الطاء، الراء və الشين məlum kəlmədir, o da ət-tərəşdir, məlumdur). وقال أبو عمرو (Əbu Əmr demişdir): تطرَّش (٢) النَّاقِهُ من المرض (xəstəlikdən sağalan şəxs tətrəş etdi), إذا قام وقعَد (qalxıb oturduğu zaman).",
+ "az": "[طرش] (ط، ر، ش) — الطاء والراء والشين كلمةٌ معروفة، وهى الطَّرَش، معروف (١) (الطاء، الراء və الشين məlum kəlmədir, o da ət-tərəşdir, məlumdur). وقال أبو عمرو (Əbu Əmr demişdir): تطرَّش (٢) النَّاقِهُ من المرض (xəstəlikdən sağalan şəxs tətərrəş etdi), إذا قام وقعَد (qalxıb oturduğu zaman).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:12:42.797Z"
+ "ts": "2026-10-25T02:12:42.797Z",
+ "prev_az": "[طروش] (ط، ر، ش) — الطاء والراء والشين كلمةٌ معروفة، وهى الطَّرَش، معروف (١) (الطاء، الراء və الشين məlum kəlmədir, o da ət-tərəşdir, məlumdur). وقال أبو عمرو (Əbu Əmr demişdir): تطرَّش (٢) النَّاقِهُ من المرض (xəstəlikdən sağalan şəxs tətrəş etdi), إذا قام وقعَد (qalxıb oturduğu zaman).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı AR mətnindəki [طرش] əvəzinə səhvən [طروش] kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-21T21:41:08.070Z"
 }

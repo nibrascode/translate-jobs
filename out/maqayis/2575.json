@@ -11,7 +11,17 @@
   "page_to": 457
  },
  "ar": "الطاء والسين والهمزة كلمةٌ واحدة. يقولون: طَسِئَتْ نفسى فهى طَسِئة.",
- "az": "«طسا» (ط، س، هـ) — tək bir kəlmədir. Deyirlər: طَسِئَتْ نفسى فهى طَسِئة (nəfsim bulandı, o bulanıqdır).",
+ "az": "[طسا] Ta, sin və həmzə hərfləri tək bir sözdür. Deyirlər: طَسِئَتْ نفسى فهى طَسِئة (ürəyim/nəfsim bulandı, o bulanıqdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:13:55.069Z"
+ "ts": "2026-10-25T02:13:55.069Z",
+ "prev_az": "«طسا» (ط، س، هـ) — tək bir kəlmədir. Deyirlər: طَسِئَتْ نفسى فهى طَسِئة (nəfsim bulandı, o bulanıqdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulmuşdur («[طسا]» əvəzinə «طسا» (ط، س، هـ) yazılmışdır).",
+  "«الهمزة» (həmzə) əvəzinə yanlış olaraq «هـ» (hə) hərfi yazılmışdır."
+ ],
+ "review_ts": "2026-11-21T21:42:23.503Z"
 }

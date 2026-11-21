@@ -11,7 +11,18 @@
   "page_to": 454
  },
  "ar": "الطاء والراء والحرف المعتلُّ أُصيل صحيحٌ يدلُّ على غضاضةٍ وجِدّة. فالطَّرِىّ: الشئ الغَضّ؛ ومصدره الطَّراوة والطَّراءة. ومنه أطرَيْتُ فلاناً، وذلك إذا مدحتَه بأحسنِ ما فيه.\nفإذا هُمِز قيل طرَأ فلانٌ، إذا طلع. وأحسِب هذا من باب الإبدال، وإنّما الأصل دَرَأ. وقد ذُكِر.",
- "az": "[طرى] Ta, ra və uzanan hərf (y) təravətə və təzəliyə dəlalət edən səhih bir kökdür. «الطَّرِىّ» (tari): təzə, yumşaq şey; məsdəri «الطَّراوة» (təravət) və «الطَّراءة» (təzəlik). Onundandır «أطرَيْتُ فلاناً» (fəlanı təriflədim), bu da onu özündə olan ən gözəl xüsusiyyətlərlə təriflədiyin zaman olur. Həmzələndikdə «طرَأ فلانٌ» (fəlan kəs zühur etdi) deyilir. Güman edirəm ki, bu, əvəzlənmə fəslindəndir, əsli isə «دَرَأ»dir. Bu artıq zikr edilmişdir.",
+ "az": "[طرى] Ta, ra və illətli hərf təravətə və təzəliyə dəlalət edən kiçik, səhih bir kökdür. الطَّرِىّ (təzə, yumşaq şey); məsdəri الطَّراوة və الطَّراءة (təravət, təzəlik) sözləridir. Ondandır أطرَيْتُ فلاناً (filankəsi təriflədim), bu da onu özündə olan ən gözəl xüsusiyyətlərlə təriflədiyin zaman olur.\nHəmzələndikdə طرَأ فلانٌ (filankəs çıxıb gəldi) deyilir. Güman edirəm ki, bu, əvəzlənmə fəslindəndir, əsli isə دَرَأ (ortaya çıxmaq, yönəlmək) sözüdür. Bu artıq zikr edilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:13:33.432Z"
+ "ts": "2026-10-25T02:13:33.432Z",
+ "prev_az": "[طرى] Ta, ra və uzanan hərf (y) təravətə və təzəliyə dəlalət edən səhih bir kökdür. «الطَّرِىّ» (tari): təzə, yumşaq şey; məsdəri «الطَّراوة» (təravət) və «الطَّراءة» (təzəlik). Onundandır «أطرَيْتُ فلاناً» (fəlanı təriflədim), bu da onu özündə olan ən gözəl xüsusiyyətlərlə təriflədiyin zaman olur. Həmzələndikdə «طرَأ فلانٌ» (fəlan kəs zühur etdi) deyilir. Güman edirəm ki, bu, əvəzlənmə fəslindəndir, əsli isə «دَرَأ»dir. Bu artıq zikr edilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الحرف المعتلُّ» ifadəsi «uzanan hərf (y)» kimi yanlış verilmişdir («illətli hərf» olmalıdır).",
+  "«Onundandır» sözündə qrammatik səhv vardır («Ondandır» olmalıdır).",
+  "«أُصيل» sözünün «kiçik» mənası buraxılmışdır."
+ ],
+ "review_ts": "2026-11-21T21:42:23.500Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 446
  },
  "ar": "الطاء والخاء والراء أصلٌ صحيح يدلُّ على خفّةٍ فى شئ.\nمن ذلك * الطَّخَارير: المتفرِّقون، يشبَّه بذلك الرّجُل الخفيف الخَطَّاف.",
- "az": "[طخر] (ط، خ، ر) — الطاء والخاء والراء أصلٌ صحيح يدلُّ على خفّةٍ فى شئ (الطاء، الخاء və الراء bir şeydə yüngüllüyə dəlalət edən səhih bir kökdür). من ذلك * الطَّخَارير: المتفرِّقون (Onlardan biri ət-təxarirdir: səpələnmiş kəslər), يشبَّه بذلك الرّجُل الخفيف الخَطَّاف (bununla yüngül və tez-tez qapıb-qaçan kişi bənzədilir).",
+ "az": "[طخر] (ط، خ، ر) — الطاء والخاء والراء أصلٌ صحيح يدلُّ على خفّةٍ فى شئ (Ta, xa və ra bir şeydə yüngüllüyə dəlalət edən səhih bir kökdür).\\nمن ذلك * الطَّخَارير: المتفرِّقون (Onlardan biri ət-təxarirdir: səpələnmiş kəslər), يشبَّه بذلك الرّجُل الخفيف الخَطَّاف (buna yüngül və cəld qapıb-qaçan kişi bənzədilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:12:42.797Z"
+ "ts": "2026-10-25T02:12:42.797Z",
+ "prev_az": "[طخر] (ط، خ، ر) — الطاء والخاء والراء أصلٌ صحيح يدلُّ على خفّةٍ فى شئ (الطاء، الخاء və الراء bir şeydə yüngüllüyə dəlalət edən səhih bir kökdür). من ذلك * الطَّخَارير: المتفرِّقون (Onlardan biri ət-təxarirdir: səpələnmiş kəslər), يشبَّه بذلك الرّجُل الخفيف الخَطَّاف (bununla yüngül və tez-tez qapıb-qaçan kişi bənzədilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə mötərizəsinin içində «الطاء، الخاء» və «الراء» hərf adları tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-21T21:41:03.689Z"
 }

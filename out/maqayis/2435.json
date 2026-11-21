@@ -11,9 +11,20 @@
   "page_to": 380
  },
  "ar": "الضاد والياء والزاء قد مضى ذكره، وأصله فيما يقال الواو.\nوقد قيل إنّه من بَنات الياء، فلذلك ذكرناه هاهنا. فالقِسمة الضَيزى: النّاقصة.\nيقال ضِزْته حقَّه، إذا منعتَه. وحكى ناس ضَأَزَه، مهموز. وأنشدوا:\nفحقُّك مَضْئُوزٌ وأنفُكَ راغمُ (١)\nليس فى الباب غيرُ هذا.",
- "az": "«ضيز»: الضاد, الياء, والزاء (d, y, z) — bu kök artıq qeyd olunmuşdur, onun əslinin (fi-ma yuqal) «واو» (vav) olduğu deyilir. Həmçinin onun «بَنات الياء» (kökündə ya hərfi olanlar) qrupundan olduğu da deyilmişdir, ona görə də onu burada xatırlatdıq. Fəqət «القِسمة الضَيزى» (ədalətsiz bölgü): əskik, naqis deməkdir. Deyirlər ki, «ضِزْته حقَّه» — ona haqqını qadağan etdin,əskik verdin. Bir qrup insan həmzəli olaraq «ضَأَزَه» işlətmişdir. Onlar bu beytİ söyləmişlər: فحقُّك مَضْئُوزٌ وأنفُكَ راغمُ (1) (Sənin haqqın əskildilmişdir, burnun isə yer sürür). Bu bölmədə bundan başqa heç nə yoxdur.",
+ "az": "[ضيز]\nDad, ya və zey — bunun zikri artıq keçmişdir, deyilənə görə əsli vavdır.\nHəmçinin onun «بَنات الياء» (ya kökündən olanlar) qrupundan olduğu da deyilmişdir, buna görə də onu burada qeyd etdik. القِسمة الضَيزى (ədalətsiz bölgü): əskik, naqis deməkdir.\nDeyilir: ضِزْته حقَّه (onun haqqını vermədin, əskiltdin). Bəzi insanlar həmzəli olaraq ضَأَزَه (əskiltdi) demişlər. Və bu beyti oxumuşlar:\nفحقُّك مَضْئُوزٌ وأنفُكَ راغمُ (١) (Sənin haqqın əskildilmiş, burnun isə yerə sürtülmüşdür).\nBu babda bundan başqa bir şey yoxdur.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.919Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضيز»: الضاد, الياء, والزاء (d, y, z) — bu kök artıq qeyd olunmuşdur, onun əslinin (fi-ma yuqal) «واو» (vav) olduğu deyilir. Həmçinin onun «بَنات الياء» (kökündə ya hərfi olanlar) qrupundan olduğu da deyilmişdir, ona görə də onu burada xatırlatdıq. Fəqət «القِسمة الضَيزى» (ədalətsiz bölgü): əskik, naqis deməkdir. Deyirlər ki, «ضِزْته حقَّه» — ona haqqını qadağan etdin,əskik verdin. Bir qrup insan həmzəli olaraq «ضَأَزَه» işlətmişdir. Onlar bu beytİ söyləmişlər: فحقُّك مَضْئُوزٌ وأنفُكَ راغمُ (1) (Sənin haqqın əskildilmişdir, burnun isə yer sürür). Bu bölmədə bundan başqa heç nə yoxdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[ضيز]» formatında deyil və kök hərflərinin adı ərəbcə/latın hərfləri ilə tərcüməsiz qalıb.",
+  "«فيما يقال» ifadəsi «fi-ma yuqal» şəklində tərcüməsiz buraxılıb.",
+  "Haşiyə rəqəmi ərəb rəqəmi «(١)» əvəzinə «(1)» kimi yazılıb.",
+  "«beytİ» sözündə orfoqrafik xəta və nöqtələmə səhvi var."
+ ],
+ "review_ts": "2026-11-21T21:38:22.552Z"
 }

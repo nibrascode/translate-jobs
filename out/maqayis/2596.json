@@ -11,7 +11,16 @@
   "page_to": 3
  },
  "ar": "العين والفاء أصلان صحيحان: أحدُهما الكفُّ عن القبيح، والآخر دالٌّ على قلّة شئ.\nفالأول: العِفّة: الكفُّ عمّا لا ينبغى. ورجل عفٌّ وعفيف. وقد عَفَّ يَعِفُّ [عِفّةً] وعَفَافة وعَفَافًا.\nوالأصل الثانى: العُفَّة: بقيّة اللّبن فى الضَّرع. * وهى أيضاً العُفافة.\nقال الأعشى:\nلا تَجَافَى عنه النَّهارَ ولا تَعْ … جُوهُ إلاَّ عُفافٌ أو فُوَاقُ (١)\nويقال: تَعافَّ ناقَتك، أى احلُبْها بعد الحلْبة الأولى ودعْ فصيلَها يتعفّفها، كأنَّما يَرتضع تلك البقيَّة. وعفّفت فلاناً (٢): سقيتُه العفافة. فأمّا قولهم: جاء على عِفَّانِ ذاك، أى إبّانه، فهو من الإبدال. والأصل إفّان، وقد مرّ.",
- "az": "[عف] العين (eyn) və الفاء (fa) iki doğru kökdür: biri pis işlərdən çəkinmək, digəri isə bir şeyin azlığına dəlalət edir. Birincisi: العِفّة (əl-iffə) - yaraşmayan şeylərdən çəkinmək. Kişi عفّ (əff) və عفيف (əfif) olur. O, عَفَّ يَعِفُّ [عِفّةً] (əffə yəiffu iffətən), عَفَافة (əfafə) və عَفَافًا (əfafən) etdi. İkinci əsl: العُفَّة (əl-uffə) - döşdə qalan südün qalığıdır. * Bu həm də العُفافة (əl-ufafə) adlanır. Əşa demişdir: Gündüz ondan uzaqlaşma və ona yalnız süd qalığı (عُفافٌ) və ya bir sağım (فُوَاقُ) ilə gəl (١). Deyilir ki, تَعافَّ ناقَتك (tə'affə naqətək), yəni onu birinci sağımdan sonra sağ və balasının o qalığı əmməsinə icazə ver, sanki o, həmin qalığı əmir. Mən filankəsi عفّفت (əffəftu) etdim (٢): ona süd qalığını içirdim. Onların جاء على عِفَّانِ ذاك (cəə əla iffani zak) demələrinə gəlincə, yəni onun vaxtında (ibban), bu, əvəzetmədəndir. Əsli إفّان (iffan) sözüdür, bu artıq keçib.",
+ "az": "[عف] العين (ayn) və الفاء (fa) iki səhih əsldir: birincisi çirkin işdən çəkinmək, digəri isə bir şeyin azlığına dəlalət edir.\nBirincisi: العِفّة yaraşmayan şeylərdən çəkinməkdir. Kişi عفّ və عفيف (iffətli) olur. O, عَفَّ يَعِفُّ [عِفّةً] وعَفَافة وعَفَافًا («iffətli oldu»).\nİkinci əsl: العُفَّة döşdə/yelində qalan südün qalığıdır. * Bu, həm də العُفافة adlanır.\nəl-Əşa demişdir:\nلا تَجَافَى عنه النَّهارَ ولا تَعْ … جُوهُ إلاَّ عُفافٌ أو فُوَاقُ (١)\n(«Gündüz vaxtı ondan aralanmır və süd qalığından yaxud iki sağım arasındakı müddətdən başqa heç bir şey onu qidalandırıb doydurmur»).\nDeyilir ki: تَعافَّ ناقَتك, yəni onu birinci sağımdan sonra sağ və balasının o süd qalığını əmməsinə izn ver; sanki o, həmin qalığı əmir. Və: عفّفت فلاناً (٢): ona süd qalığını içirdim. Onların: جاء على عِفَّانِ ذاك («o, bunun vaxtında gəldi»), yəni إبّانه demələrinə gəlincə, bu, hərflərin əvəzlənməsindəndir. Əsli إفّان şəklindədir və artıq qeyd edilmişdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T02:15:48.931Z"
+ "ts": "2026-10-25T02:15:48.931Z",
+ "prev_az": "[عف] العين (eyn) və الفاء (fa) iki doğru kökdür: biri pis işlərdən çəkinmək, digəri isə bir şeyin azlığına dəlalət edir. Birincisi: العِفّة (əl-iffə) - yaraşmayan şeylərdən çəkinmək. Kişi عفّ (əff) və عفيف (əfif) olur. O, عَفَّ يَعِفُّ [عِفّةً] (əffə yəiffu iffətən), عَفَافة (əfafə) və عَفَافًا (əfafən) etdi. İkinci əsl: العُفَّة (əl-uffə) - döşdə qalan südün qalığıdır. * Bu həm də العُفافة (əl-ufafə) adlanır. Əşa demişdir: Gündüz ondan uzaqlaşma və ona yalnız süd qalığı (عُفافٌ) və ya bir sağım (فُوَاقُ) ilə gəl (١). Deyilir ki, تَعافَّ ناقَتك (tə'affə naqətək), yəni onu birinci sağımdan sonra sağ və balasının o qalığı əmməsinə icazə ver, sanki o, həmin qalığı əmir. Mən filankəsi عفّفت (əffəftu) etdim (٢): ona süd qalığını içirdim. Onların جاء على عِفَّانِ ذاك (cəə əla iffani zak) demələrinə gəlincə, yəni onun vaxtında (ibban), bu, əvəzetmədəndir. Əsli إفّان (iffan) sözüdür, bu artıq keçib.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni buraxılıb və beytin mənası səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-21T21:48:56.332Z"
 }

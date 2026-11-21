@@ -11,7 +11,17 @@
   "page_to": 69
  },
  "ar": "العين والفاء والطاء أُصَيْل صحيح يدلُّ على صُوَيت، ثم يحمل عليه. يقولون: العَفْطَة: نَثْرة الضائنة بأنفها. يقال: «ما له عافطة ولا نافطة».\nويقال إنّ العافطة الأمَة، والنافطة الشّاة. ثم يقولون للألْكَن العِفطِىّ (١).\nويقولون: عَفَط بغنمه، إذا دعاها. واللّه أعلم بالصواب.",
- "az": "[عفط] «عين», «فاء» və «طاء» kökü zəif bir səsə dəlalət edən doğru, kiçik bir əsldir, sonra başqa mənalar ona həml olunur. Deyirlər: «العَفْطَةُ» — qoyunun burnu ilə asqırması (fınxırması). Deyilir: «مَا لَهُ عَافِطَةٌ وَلا نَافِطَةٌ» (Nə fınxıran qoyunu var, nə də mələyən gənc qoyunu / heç nəyi yoxdur).\nDeyilir ki, «العَافِطَةُ» kəniz, «النَّافِطَةُ» isə qoyundur. Sonra dili dolaşan, pəltək adama «عِفْطِيٌّ» (ıftiy) deyirlər (١).\nDeyirlər: «عَفَطَ بِغَنَمِهِ» — qoyunlarını çağırdıqda işlədilir. Ən doğrusunu Allah bilir.",
+ "az": "[عفط] Ayn, fa və ta kiçik bir səsə dəlalət edən səhih, kiçik bir kökdür, sonra başqa mənalar ona həml olunur. Deyirlər: العَفْطَة (qoyunun burnu ilə fınxırması). Deyilir: ما له عافطة ولا نافطة (onun nə fınxıran, nə də səslənən bir şeyi var / heç nəyi yoxdur).\nDeyilir ki, العافطة (kəniz), النافطة isə (qoyun) deməkdir. Sonra dili dolaşan, pəltək adama العِفطِىّ deyirlər (١).\nDeyirlər: عَفَط بغنمه, yəni qoyunlarını çağırdıqda işlədilir. Ən doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash",
- "ts": "2026-10-25T13:21:59.910Z"
+ "ts": "2026-10-25T13:21:59.910Z",
+ "prev_az": "[عفط] «عين», «فاء» və «طاء» kökü zəif bir səsə dəlalət edən doğru, kiçik bir əsldir, sonra başqa mənalar ona həml olunur. Deyirlər: «العَفْطَةُ» — qoyunun burnu ilə asqırması (fınxırması). Deyilir: «مَا لَهُ عَافِطَةٌ وَلا نَافِطَةٌ» (Nə fınxıran qoyunu var, nə də mələyən gənc qoyunu / heç nəyi yoxdur).\nDeyilir ki, «العَافِطَةُ» kəniz, «النَّافِطَةُ» isə qoyundur. Sonra dili dolaşan, pəltək adama «عِفْطِيٌّ» (ıftiy) deyirlər (١).\nDeyirlər: «عَفَطَ بِغَنَمِهِ» — qoyunlarını çağırdıqda işlədilir. Ən doğrusunu Allah bilir.",
+ "prev_model": "gemini-3.5-flash",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatlara AR mətni ilə üst-üstə düşməyən hərəkələr əlavə edilmişdir.",
+  "Ərəb sözləri mötərizədə transliterasiya ilə verilmişdir."
+ ],
+ "review_ts": "2026-11-21T21:55:01.825Z"
 }

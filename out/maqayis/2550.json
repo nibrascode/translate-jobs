@@ -11,7 +11,18 @@
   "page_to": 442
  },
  "ar": "الطاء والباء والحرف المعتل أُصَيْل يدلُّ على استدعاء شئ.\nمن ذلك قولهم اطَّبى * بَنُو فُلانٍ فلاناً إذا خالُّوه وقَبِلوه. وربما قالوا: طَبَاه واطَّباه، إذا دعاه. فإنْ حُمِل الطّبىُ (٣) من أَطْباء النَّاقة، وهى أخلافها، على هذا وعلى أنّه يُطَّبَى منه اللّبن، لم يبعُد.\nوذُكر أن العرب تقول: هذا خِلْفٌ طِبِىٌّ، أى مُجِيب (١). فإن كان هذا صحيحاً فهو يدلُّ على صحَّة القياس الذى قِسْناه.",
- "az": "[طبى] الطاء والباء والحرف المعتل (طا, با və zəif hərf) – bir şeyi çağırmağa, dəvət etməyə dəlalət edən kiçik bir əsasdır (ُأصَيْل). Bunlardan biri onların اطَّبى * بَنُو فُلانٍ فلana (Filan oğulları filankəsi özlərinə yaxınlaşdırdılar və qəbul etdilər) sözüdür. Bəzən deyirlər: طَباه واطَّباه (O onu çağırdı və dəvət etdi). Əgər dəvənin əmsəkləri olan طَبىُ (taby) sözü (٣) – ki, onlar dəvənin məmələridir – buna və ondan süd sağılmasına (dəvət edilməsinə) şamil edilsə, bu da uzaq olmaz. Zikr edilmişdir ki, ərəblər deyirlər: هذا خِلْفٌ طِبِىٌّ (Bu, cavab verən məməkdir) (١). Əgər bu səhihdirsə, deməli o, bizim qiyas etdiyimiz qiyasın səhih olduğuna dəlalət edir.",
+ "az": "[طبى] الطاء والباء والحرف المعتل (ta, ba və zəif hərf) – bir şeyi çağırmağa, dəvət etməyə dəlalət edən kiçik bir əsasdır (أُصَيْل).\\nBunlardan biri onların اطَّبى * بَنُو فُلانٍ فلاناً (Filan oğulları filankəsi özlərinə dost etdilər və qəbul etdilər) sözüdür. Bəzən deyirlər: طَبَاه واطَّباه (O, onu çağırdı və dəvət etdi). Əgər dəvənin əmcəklərindən olan الطّبىُ (٣) – ki, onlar dəvənin məmələridir – buna və ondan südün sağılmağa çağırılmasına şamil edilsə, bu da uzaq olmaz.\\nZikr edilmişdir ki, ərəblər deyirlər: هذا خِلْفٌ طِبِىٌّ (Bu, cavab verən məmədir) (١). Əgər bu səhihdirsə, deməli o, bizim qiyas etdiyimiz qiyasın səhih olduğuna dəlalət edir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:11:55.933Z"
+ "ts": "2026-10-25T02:11:55.933Z",
+ "prev_az": "[طبى] الطاء والباء والحرف المعتل (طا, با və zəif hərf) – bir şeyi çağırmağa, dəvət etməyə dəlalət edən kiçik bir əsasdır (ُأصَيْل). Bunlardan biri onların اطَّبى * بَنُو فُلانٍ فلana (Filan oğulları filankəsi özlərinə yaxınlaşdırdılar və qəbul etdilər) sözüdür. Bəzən deyirlər: طَباه واطَّباه (O onu çağırdı və dəvət etdi). Əgər dəvənin əmsəkləri olan طَبىُ (taby) sözü (٣) – ki, onlar dəvənin məmələridir – buna və ondan süd sağılmasına (dəvət edilməsinə) şamil edilsə, bu da uzaq olmaz. Zikr edilmişdir ki, ərəblər deyirlər: هذا خِلْفٌ طِبِىٌّ (Bu, cavab verən məməkdir) (١). Əgər bu səhihdirsə, deməli o, bizim qiyas etdiyimiz qiyasın səhih olduğuna dəlalət edir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatda hərf səhvi var («فلاناً» əvəzinə «فلana» yazılıb).",
+  "«الطّبىُ» sözünün ərəbcə yazılışı təhrif edilib («طَبىُ»).",
+  "«أَطْباء» sözünün tərcüməsində «əmsəkləri» və «məməkdir» kimi qeyri-düzgün sözlər işlədilib."
+ ],
+ "review_ts": "2026-11-21T21:41:03.687Z"
 }

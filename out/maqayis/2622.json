@@ -11,7 +11,17 @@
   "page_to": 68
  },
  "ar": "العين والفاء والزاء ليس بشئ، ولا يُشبِه كلامَ العرب.\nعلى أنهم يقولون: العَفْز: ملاعَبة الرّجلِ امرأتَه، وإنّ العَفْز: الجَوز. وهذا لا معنى لذكره.",
- "az": "[عفز] (ə-fə-zə): Ayn, fa və zay hərfləri heç bir şey deyil və ərəblərin kəlamına bənzəmir.\n\nBununla belə deyirlər ki, «العَفْز» (əfz) — kişinin zövcəsi ilə oynamasıdır, «əfz» həm də qozdur. Bunun zikr olunmasının heç bir mənası yoxdur.",
+ "az": "[عفز] Ayn, fa və zey heç bir şey deyildir və ərəblərin kəlamına bənzəmir.\nBununla belə deyirlər ki, العَفْز (kişinin zövcəsi ilə oynaması) deməkdir və العَفْز (qoz) deməkdir. Bunun zikr olunmasının heç bir mənası yoxdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T13:20:48.034Z"
+ "ts": "2026-10-25T13:20:48.034Z",
+ "prev_az": "[عفز] (ə-fə-zə): Ayn, fa və zay hərfləri heç bir şey deyil və ərəblərin kəlamına bənzəmir.\n\nBununla belə deyirlər ki, «العَفْز» (əfz) — kişinin zövcəsi ilə oynamasıdır, «əfz» həm də qozdur. Bunun zikr olunmasının heç bir mənası yoxdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb sözləri lətın qrafikası ilə transliterasiya edilmişdir.",
+  "Ərəb qrafikalı sözlər mətndə saxlanılmamışdır."
+ ],
+ "review_ts": "2026-11-21T21:55:01.824Z"
 }

@@ -11,9 +11,19 @@
   "page_to": 425
  },
  "ar": "الطاء والميم والعين أصلٌ واحدٌ صحيح يدلُّ على رجاءٍ فى القلب قوىٍّ للشّئ. يقال طَمِع فى الشئ طمَعاً وطَمَاعة (٢) وطماعِيَة. ولطَمُعْتَ يا زيد (٣) كما يقولون: لَقَضُو القاضى. هذا عند التعجُّب. ويقال امرأة مِطْماعٌ، للتى تُطمِع ولا تُمْكِن.",
- "az": "«طمع» — الطاء والميم والعين أصلٌ واحدٌ صحيح يدلُّ على رجاءٍ فى القلب قوىٍّ للشّئ (Ta, mim və eyn bir şey üçün qəlbdə olan güclü ümidə dəlalət edən səhih tək bir kökdir). يقال طَمِع فى الشئ طمَعاً وطَمَاعة (Bir şeyə tamah saldıqda \"təmiə fis-şeyi təməən və təmaətən\" deyilir) وطماعِيَة. ولطَمُعْتَ يا زيد (və \"lə təmüqtə ya zeyd\" — ey Zeyd, nə qədər də tamahkar oldun) كما يقولون (necə ki deyirlər): لَقَضُو القاضى (lə qaduvul-qadi). هذا عند التعجُّب (Bu, təəccüb zamanı işlədilir). ويقال امرأة مِطْمَاعٌ (Və mitmaun qadın deyilir), للتى تُطمِع ولا تُمْكِن (tamah saldıran, lakin imkan verməyən qadına aiddir).",
+ "az": "[طمع]\nالطاء والميم والعين أصلٌ واحدٌ صحيح يدلُّ على رجاءٍ فى القلب قوىٍّ للشّئ (Ta, mim və ayn bir şey üçün qəlbdə olan güclü ümidə dəlalət edən səhih tək bir kökdür). يقال طَمِع فى الشئ طمَعاً وطَمَاعة (٢) وطماعِيَة (Bir şeyə tamah saldıqda «təmiə fiş-şeyi təməən və təmaətən və təmaiyətən» deyilir). ولطَمُعْتَ يا زيد (٣) (Və «lə təmu'tə ya Zeyd» — ey Zeyd, nə qədər də tamahkar oldun!) كما يقولون (necə ki deyirlər): لَقَضُو القاضى (lə qaduvəl-qadi). هذا عند التعجُّب (Bu, təəccüb zamanı işlədilir). ويقال امرأة مِطْماعٌ (Və «mitma» qadın deyilir), للتى تُطمِع ولا تُمْكِن (tamah saldıran, lakin imkan verməyən qadına).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:09:31.509Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«طمع» — الطاء والميم والعين أصلٌ واحدٌ صحيح يدلُّ على رجاءٍ فى القلب قوىٍّ للشّئ (Ta, mim və eyn bir şey üçün qəlbdə olan güclü ümidə dəlalət edən səhih tək bir kökdir). يقال طَمِع فى الشئ طمَعاً وطَمَاعة (Bir şeyə tamah saldıqda \"təmiə fis-şeyi təməən və təmaətən\" deyilir) وطماعِيَة. ولطَمُعْتَ يا زيد (və \"lə təmüqtə ya zeyd\" — ey Zeyd, nə qədər də tamahkar oldun) كما يقولون (necə ki deyirlər): لَقَضُو القاضى (lə qaduvul-qadi). هذا عند التعجُّب (Bu, təəccüb zamanı işlədilir). ويقال امرأة مِطْمَاعٌ (Və mitmaun qadın deyilir), للتى تُطمِع ولا تُمْكِن (tamah saldıran, lakin imkan verməyən qadına aiddir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kök başlığı [طمع] formatında verilməmişdir.",
+  "«وطماعِيَة» sözü tərcüməsiz qalmış, (٢) və (٣) haşiyə rəqəmləri buraxılmışdır.",
+  "Transkripsiyada («lə təmüqtə») və orfoqrafiyada («kökdir») səhvlər vardır."
+ ],
+ "review_ts": "2026-11-21T21:40:08.026Z"
 }

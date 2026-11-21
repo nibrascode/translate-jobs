@@ -11,7 +11,17 @@
   "page_to": 456
  },
  "ar": "الطاء والسين والتاء ليس بشئ، إلاّ الطَّسْت، وهى معروفة.",
- "az": "«طست» (ط، س، ت) — məlum olan طَّسْت (təşt) sözü istisna olmaqla, heç bir əsası yoxdur.",
+ "az": "[طست] Ta, sin və ta hərfləri məlum olan الطَّسْت (təşt) sözü istisna olmaqla, heç bir şey deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:13:55.069Z"
+ "ts": "2026-10-25T02:13:55.069Z",
+ "prev_az": "«طست» (ط، س، ت) — məlum olan طَّسْت (təşt) sözü istisna olmaqla, heç bir əsası yoxdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulmuşdur («[طست]» əvəzinə «طست» (ط، س، ت) yazılmışdır).",
+  "«الطَّسْت» sözü «طَّسْت» kimi səhv köçürülmüşdür."
+ ],
+ "review_ts": "2026-11-21T21:42:23.502Z"
 }

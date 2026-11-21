@@ -11,7 +11,17 @@
   "page_to": 96
  },
  "ar": "العين والقاف والزاء بناء ليس يشبه كلامَ العرب، وكذلك العين والقاف والسين، والقاف والشين، مع أنّهم يقولون العَقْش: بقلة أو نبتٌ.\nوليس بشئ.",
- "az": "[عقز]\n«Ayn», «qaf» və «za» [عقز] ərəb kəlamına bənzəməyən bir quruluşdur. Eynilə «ayn», «qaf» və «sin» [عقس], həmçinin [عقش] «qaf» və «şin» də belədir; baxmayaraq ki deyirlər: «العَقْشُ» – bir ot və ya bitkidir. Lakin bu heç bir əhəmiyyəti olmayan (möhtəbər olmayan) şeydir.",
+ "az": "[عقز]\n«Ayn», «qaf» və «zey» ərəb kəlamına bənzəməyən bir quruluşdur. Eynilə «ayn», «qaf» və «sin», həmçinin «ayn», «qaf» və «şin» də belədir; baxmayaraq ki deyirlər: «العَقْشُ» – bir ot və ya bitkidir. Lakin bu heç bir əhəmiyyəti olmayan (möhtəbər olmayan) şeydir.",
  "model": "gemini-3.5-flash",
- "ts": "2026-10-25T13:28:52.923Z"
+ "ts": "2026-10-25T13:28:52.923Z",
+ "prev_az": "[عقز]\n«Ayn», «qaf» və «za» [عقز] ərəb kəlamına bənzəməyən bir quruluşdur. Eynilə «ayn», «qaf» və «sin» [عقس], həmçinin [عقش] «qaf» və «şin» də belədir; baxmayaraq ki deyirlər: «العَقْشُ» – bir ot və ya bitkidir. Lakin bu heç bir əhəmiyyəti olmayan (möhtəbər olmayan) şeydir.",
+ "prev_model": "gemini-3.5-flash",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ز» hərfinin adı «zey» əvəzinə «za» yazılmışdır.",
+  "«ayn, qaf və şin» hərflərindən «ayn» hərfi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-21T21:56:57.641Z"
 }

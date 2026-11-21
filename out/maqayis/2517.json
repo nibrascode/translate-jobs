@@ -14,6 +14,10 @@
  "az": "[طنى] (Tə, nun və hərf-i müətil) dəvə xəstəliklərindən bir xəstəliyə dəlalət edən bir sözdür. «طَنِىَ البعير» (təniyəl-bəiru) – dəvənin ağciyəri böyrünə yapışıb öləndə deyilir, يَطْنَى طَنَى (yətnə tənə). «ما طَنِيتُ بهذا الأمر» (mə tənịtu bihəzəl-əmr) – yəni mən bu işə qarışmadım, elə bil o, mənə yapışmadı və mən onunla ləkələnmədim. Həmzəli formasına gəldikdə, bina baxımından bu babdan deyil, lakin məna cəhətdən yaxındır. Deyirlər ki, الطِّنْءُ (ət-tinü) – şübhə, töhmət deməkdir. Şair demişdir: كأنّ على ذى الطِّنْ ءِ عَيْناً رقيبة … بمقْعَده أو منظرٍ وهو ناظرُ (١) (Elə bil şübhə sahibinin üzərində oturduğu yerdə və ya baxdığı mənzərədə güdən bir göz var). Bu, yalnız ona görə belə adlandırılmışdır ki, şübhə insanın ləkələndiyi və ləkə yaxdığı şeydir. Bu babdan istisna olan الطِّنْءُ (ət-tinü) – ev deməkdir, bəzən həmzələnir də (٢), və bu, bizim qeyd etdiyimizdən çox uzaqdır. Həmçinin istisna olan onların «تركته بِطنْئِه» (tərəktühu bitin'ihi) sözüdür, yəni onu canının qalıntısı (son nəfəsi) ilə tərk etdim.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:09:52.399Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-21T21:40:08.026Z"
 }

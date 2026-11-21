@@ -11,9 +11,20 @@
   "page_to": 378
  },
  "ar": "الضاد والواو والطاء كلمةٌ واحدة، وهى الضَّوِيطة: يقال للعجين إذا كثُر ماؤه حتَّى يسترخِىَ: الضَّويطة.",
- "az": "[ضوط] (ض و ط). الضاد والواو والطاء كلمةٌ واحدة، وهى الضَّوِيطة: يقال للعجين إذا كثُر ماؤه حتَّى يسترخِىَ: الضَّوِيطة.\n(Zəmin, vav və ta) — tək bir kəlmədir, o da «الضَّوِيطة»dir: suyu çoxalıb yumşalana (cılovlanana) qədər xəmirə deyilir: «الضَّوِيطة».",
+ "az": "[ضوط]\nDad, vav və ta tək bir kəlmədir, o da الضَّوِيطة (davitə) sözüdür: suyu çoxalıb boşalana (yumşalana) qədər xəmirə الضَّويطة deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:05:38.810Z",
- "review_attempts": 2,
- "review_last_error": "qısa (127 < 251)"
+ "review_last_error": "qısa (127 < 251)",
+ "prev_az": "[ضوط] (ض و ط). الضاد والواو والطاء كلمةٌ واحدة، وهى الضَّوِيطة: يقال للعجين إذا كثُر ماؤه حتَّى يسترخِىَ: الضَّوِيطة.\n(Zəmin, vav və ta) — tək bir kəlmədir, o da «الضَّوِيطة»dir: suyu çoxalıb yumşalana (cılovlanana) qədər xəmirə deyilir: «الضَّوِيطة».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlində bütün ərəbcə mətn tərcüməsiz şəkildə təkrarlanıb.",
+  "«ض» hərfinin adı «Zəmin» kimi səhv verilib (düzgünü: dad).",
+  "«يسترخِىَ» feili «cılovlanana» kimi səhv tərcümə olunub (düzgünü: boşalana, yumşalana).",
+  "Başlıq formatı «[ضوط]» ilə başlamalıdır."
+ ],
+ "review_ts": "2026-11-21T21:38:22.551Z"
 }

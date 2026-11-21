@@ -11,7 +11,17 @@
   "page_to": 470
  },
  "ar": "الظاء والنون والباء كلمة صحيحة، وهو العظم اليابس من ساقٍ وغيره، ثم يتمثَّل به فيقال للجادِّ فى الأمر: قد قرع ظنبوبَه. وقولُ سلامةَ بنِ جندل:\nكُنّا إذا ما أتانا صارخٌ فزع … كان الصُّراخُ له قَرعَ الظَّنابيبِ (١)\nفقال قوم: تقرع ظنابيب الخيل بالسِّياط ركضاً إلى العدوِّ. وقال قوم:\nالظُّنبوب: مسمار جُبّة السِّناَن، أى إنَّا نركِّب الأسنّة.",
- "az": "[ظنب] الظاء والنون والباء كلمة صحيحة، وهو العظم اليابس من ساقٍ وغيره، ثم يتمثَّل به فيقال للجادِّ فى الأمر: قد قرع ظنبوبَه. (Zae, nun və ba hərfləri səhih kəlmədir, o da baldırın və digər yerin quru sümüyüdür, sonra onunla məsəl çəkilir, işdə çalışana deyilir: o, zünbubunu vurdu.) وقولُ سلامةَ بنِ جندل: Və Səlamə ibn Cəndəlin sözü: كُنّا إذا ما أتانا صارخٌ فزع … كان الصُّراخُ له قَرعَ الظَّنابيبِ (١) - (Biz elə idik ki, bizə qışqıran qorxulu gələndə... o qışqırıq üçün zənəbibin vurulması olardı). فقال قوم: تقرع ظنابيب الخيل بالسِّياط ركضاً إلى العدوِّ. Və bir qövm dedi: atların baldırları düşmana qaçarkən qamçı ilə vurulur. وقال قوم: الظُّنبوب: مسمار جُبّة السِّناَن، أى إنَّا نركِّب الأسنّة. Və bir qövm dedi: əz-zünbub: nizə başlığının mismarıdır, yəni biz nizə uclarını taxırıq.",
+ "az": "[ظنب] ظاء, nun və ba səhih bir kəlmədir; o, baldırın və digər yerlərin quru sümüyüdür (qamış sümüyü). Sonra bu məsələ çevrilərək bir işdə ciddi-cəhd göstərən kəs haqqında deyilir: قد قرع ظنبوبَه (qamış sümüyünü vurdu / işə qətiyyətlə girişdi).\nSəlamə ibn Cəndəlin sözü də bundandır:\nكُنّا إذا ما أتانا صارخٌ فزع … كان الصُّراخُ له قَرعَ الظَّنابيبِ (١)\n(Biz elə idik ki, qorxu içində haray çəkən biri gəldikdə, onun harayına cavabımız [atların] incik sümüklərini [qamçı ilə] döyəcləmək / dərhal ciddiyyətlə hərəkətə keçmək olardı).\nBir qrup dedi ki: düşmənə tərəf çapmaq üçün atların incik sümükləri qamçılarla vurular. Başqa bir qrup isə dedi: الظُّنبوب (əz-zunbub) nizə ucunun taxıldığı yuvanın mismarıdır (pərçimidir), yəni «biz nizə uclarını bərkidirik».",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:14:19.807Z"
+ "ts": "2026-10-25T02:14:19.807Z",
+ "prev_az": "[ظنب] الظاء والنون والباء كلمة صحيحة، وهو العظم اليابس من ساقٍ وغيره، ثم يتمثَّل به فيقال للجادِّ فى الأمر: قد قرع ظنبوبَه. (Zae, nun və ba hərfləri səhih kəlmədir, o da baldırın və digər yerin quru sümüyüdür, sonra onunla məsəl çəkilir, işdə çalışana deyilir: o, zünbubunu vurdu.) وقولُ سلامةَ بنِ جندل: Və Səlamə ibn Cəndəlin sözü: كُنّا إذا ما أتانا صارخٌ فزع … كان الصُّراخُ له قَرعَ الظَّنابيبِ (١) - (Biz elə idik ki, bizə qışqıran qorxulu gələndə... o qışqırıq üçün zənəbibin vurulması olardı). فقال قوم: تقرع ظنابيب الخيل بالسِّياط ركضاً إلى العدوِّ. Və bir qövm dedi: atların baldırları düşmana qaçarkən qamçı ilə vurulur. وقال قوم: الظُّنبوب: مسمار جُبّة السِّناَن، أى إنَّا نركِّب الأسنّة. Və bir qövm dedi: əz-zünbub: nizə başlığının mismarıdır, yəni biz nizə uclarını taxırıq.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb mətni bütöv cümlələrlə tərcümənin içinə qarışdırılmış və təkrarlanmışdır.",
+  "Şeir beytinin tərcüməsində «zənəbibin vurulması» ifadəsi anlaşılmaz şəkildə saxlanılmışdır."
+ ],
+ "review_ts": "2026-11-21T21:46:42.634Z"
 }

@@ -11,9 +11,18 @@
   "page_to": 422
  },
  "ar": "الطاء والميم والحرف المعتل أصلٌ صحيح يدلُّ على علوّ وارتفاع فى شئٍ خاص. يقال طما البحرُ يطمو ويَطْمِى لغتان، وهو طامٍ، وذلك إذا امتلأ وعلا. ويقال طَمَى الفرسُ، إذا مرّ مُسرِعا. ولا يكون ذلك إلاَّ فى ارتفاع.",
- "az": "«طمى» — الطاء والميم والحرف المعتل أصلٌ صحيح يدلُّ على علوّ وارتفاع فى شئٍ خاص (Ta, mim və hərf-i müəttəl səhih bir kökdir, xüsusi bir şeydə ucalığa və hündürlüyə dəlalət edir). يقال طما البحرُ يطمو ويَطْمِى لغتان (Dəniz daşdı — taməl-bəhru yətmu və yətmi iki lüğəti-tərzdir), وهو طامٍ (və o, tamidir), وذلك إذا امتلأ وعلا (və bu, dolub ucaldıqda olur). ويقال طَمَى الفرسُ، إذا مرّ مُسرِعا (At sürətlə keçib getdikdə \"təməl-fərsü\" deyilir). ولا يكون ذلك إلاَّ فى ارتفاع (və bu, yalnız ucalıqda olur).",
+ "az": "[طمى] الطاء (ta), الميم (mim) və illətli hərf səhih bir kökdür, xüsusi bir şeydə ucalığa və hündürlüyə dəlalət edir. Deyilir: طما البحرُ يطمو ويَطْمِى (Dəniz daşdı/qalxdı — yətmu və yətmi iki deyiliş formasıdır), وهو طامٍ (və o, daşqındır/ucalmışdır); bu, dolub ucaldıqda olur. At sürətlə keçib getdikdə deyilir: طَمَى الفرسُ (təməl-fərəsu) və bu, yalnız ucalıqda (sıçrayışda) olur.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:09:31.509Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«طمى» — الطاء والميم والحرف المعتل أصلٌ صحيح يدلُّ على علوّ وارتفاع فى شئٍ خاص (Ta, mim və hərf-i müəttəl səhih bir kökdir, xüsusi bir şeydə ucalığa və hündürlüyə dəlalət edir). يقال طما البحرُ يطمو ويَطْمِى لغتان (Dəniz daşdı — taməl-bəhru yətmu və yətmi iki lüğəti-tərzdir), وهو طامٍ (və o, tamidir), وذلك إذا امتلأ وعلا (və bu, dolub ucaldıqda olur). ويقال طَمَى الفرسُ، إذا مرّ مُسرِعا (At sürətlə keçib getdikdə \"təməl-fərsü\" deyilir). ولا يكون ذلك إلاَّ فى ارتفاع (və bu, yalnız ucalıqda olur).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı [طمى] əvəzinə «طمى» — kimi verilib.",
+  "الفرسُ sözünün oxunuşu səhvən 'əl-fərsü' yazılıb, 'iki lüğəti-tərzdir' kimi qeyri-səlis ifadə işlənib."
+ ],
+ "review_ts": "2026-11-21T21:39:11.318Z"
 }

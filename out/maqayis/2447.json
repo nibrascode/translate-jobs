@@ -11,9 +11,20 @@
   "page_to": 386
  },
  "ar": "الضاد والباء والراء أصلٌ صحيح واحدٌ يدل على جمعٍ وقُوّة.\nيقال ضَبَر الشّئَ: جمَعَه، وضبَر الفرسُ قوائمَه، إذا جمعَها ليَثِب. وفرسٌ ضِبِرٌّ من ذلك. وإِضبارة الكُتُب (١) من ذلك. واشتقاق ضَبَارةَ منه، وهو أبو عامر ابن ضَبَارة. وناقة * مضبَّرةٌ ومضبورةُ الخَلْق، أى شديدة. وقال فى صفة فرس:\nمُضَبَّرٌ خَلْقها تضبيراً … ينشقُّ عن وجهها السَّبيبُ (٢)\nوالضَّبْر: الجماعة. قال الهُذَلىّ:\nضَبْرٌ لباسُهم القَتير مؤلَّبُ (٣)\nوأمّا الرُّمّان الجبلىّ فيقال إنّهم يسمونه الضَّبْر. وقد قلنا إنّ النّباتَ والأماكنَ لا تكاد تنقاس.",
- "az": "«ضبر»: الضاد, الباء, والراء (d, b, r) — toplamağa və gücə dəlalət edən tək, səhih bir əsldir. Deyilir: «ضَبَر الشّئَ» — şeyi topladı; «ضبَر الفرسُ قوائمَه» — at tullanmaq üçün ayaqlarını yığdı. «فرسٌ ضِبِرٌّ» (güclü at) bundan alınmışdır. «إضبارة الكُتُب» (kitab dəstəsi) də bundandır. «ضَبَارة» sözünün kökü də buradandır, o, Əbu Amir ibn Zabaradır. «ناقة مضبَّرةٌ ومضبورةُ الخَلْق» — yəni bərk, möhkəm dişi dəvə. Atın vəsfində demişdir: مُضَبَّرٌ خَلْقها تضبيراً … ينشقُّ عن وجهها السَّبيبُ (2) (Yaradılışı çox möhkəm edilmişdir... yalları üzündən aralanır). «الضَّبْر» — camaat, dəstə. Hüzəli demişdir: ضَبْرٌ لباسُهم القَتير مؤلَّبُ (3) (Bir dəstə ki, geyimləri dəmir zirehdir, toplanmışlar). Dağ narını «الضَّبْر» adlandırdıqları deyilir. Biz isə artıq demişik ki, bitkilər və məkanlar qaydaya tabe olmurlar.",
+ "az": "[ضبر]\nDad, ba və ra toplamağa və gücə dəlalət edən tək, səhih bir əsldir.\nDeyilir: ضَبَر الشّئَ (şeyi topladı) — onu cəm etdi; وضبَر الفرسُ قوائمَه (at ayaqlarını yığdı) — at tullanmaq üçün ayaqlarını yığdıqda. فرسٌ ضِبِرٌّ (güclü at) bundandır. إِضبارة الكُتُب (١) (kitab dəstəsi) də bundandır. ضَبَارة (Dabarə) sözünün kökü də buradandır, o, Əbu Amir ibn Dabarədir. ناقة * مضبَّرةٌ ومضبورةُ الخَلْق (bədən quruluşu möhkəm olan dişi dəvə) — yəni bərk, möhkəm. Atın vəsfində demişdir:\nمُضَبَّرٌ خَلْقها تضبيراً … ينشقُّ عن وجهها السَّبيبُ (٢) (Quruluşu çox möhkəm xəlq edilmişdir... yalları üzündən aralanır).\nالضَّبْر (camaat, dəstə). Hüzəli demişdir:\nضَبْرٌ لباسُهم القَتير مؤلَّبُ (٣) (Geyimləri dəmir zireh olan, toplanmış bir dəstə).\nالرُّمّان الجبلىّ (dağ narı) isə, deyilir ki, onu الضَّبْر (dabr) adlandırırlar. Biz isə artıq demişik ki, bitkilər və məkanlar demək olar ki, qaydaya tabe olmurlar.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.920Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضبر»: الضاد, الباء, والراء (d, b, r) — toplamağa və gücə dəlalət edən tək, səhih bir əsldir. Deyilir: «ضَبَر الشّئَ» — şeyi topladı; «ضبَر الفرسُ قوائمَه» — at tullanmaq üçün ayaqlarını yığdı. «فرسٌ ضِبِرٌّ» (güclü at) bundan alınmışdır. «إضبارة الكُتُب» (kitab dəstəsi) də bundandır. «ضَبَارة» sözünün kökü də buradandır, o, Əbu Amir ibn Zabaradır. «ناقة مضبَّرةٌ ومضبورةُ الخَلْق» — yəni bərk, möhkəm dişi dəvə. Atın vəsfində demişdir: مُضَبَّرٌ خَلْقها تضبيراً … ينشقُّ عن وجهها السَّبيبُ (2) (Yaradılışı çox möhkəm edilmişdir... yalları üzündən aralanır). «الضَّبْر» — camaat, dəstə. Hüzəli demişdir: ضَبْرٌ لباسُهم القَتير مؤلَّبُ (3) (Bir dəstə ki, geyimləri dəmir zirehdir, toplanmışlar). Dağ narını «الضَّبْر» adlandırdıqları deyilir. Biz isə artıq demişik ki, bitkilər və məkanlar qaydaya tabe olmurlar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ضبر]» formatında verilməyib və ərəb hərflərinin adları tərcümə edilməyib.",
+  "«إِضبارة الكُتُب (١)» ifadəsindəki «(١)» haşiyə rəqəmi buraxılıb, digər haşiyə rəqəmləri isə latın rəqəminə çevrilib.",
+  "«ضَبَارة» adı «Zabara» kimi səhv transliterasiya olunub.",
+  "Beytin tərcüməsində qadağan edilmiş «Yaradılışı» (yarat- kökü) sözü işlədilib."
+ ],
+ "review_ts": "2026-11-21T21:38:58.886Z"
 }

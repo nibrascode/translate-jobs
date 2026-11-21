@@ -11,7 +11,16 @@
   "page_to": 446
  },
  "ar": "الطاء والخاء والفاء أُصَيل يدلُّ على الشَّئ الرَّقيق. من ذلك الطَّخَاف، وهو الغَيم الرقيق. والطَّخْف كالهَمِّ يَغشَى القلب.",
- "az": "[طخف] (ط، خ، ف) — الطاء والخاء والفاء أُصَيل يدلُّ على الشَّئ الرَّقيق (الطاء، الخاء və الفاء incə şeyə dəlalət edən kiçik bir kökdür). من ذلك الطَّخَاف، وهو الغَيم الرقيق (Onlardan biri ət-təxafdır ki, o da incə buluddur). والطَّخْف كالهَمِّ يَغشَى القلب (Və ət-təxf ürəyi bürüyən qəm kimidir).",
+ "az": "[طخف] (ط، خ، ف) — الطاء والخاء والفاء أُصَيل يدلُّ على الشَّئ الرَّقيق (Ta, xa və fa incə şeyə dəlalət edən kiçik bir kökdür). من ذلك الطَّخَاف، وهو الغَيم الرقيق (Onlardan biri ət-təxafdır ki, o da incə buluddur). والطَّخْف كالهَمِّ يَغشَى القلب (Və ət-təxf ürəyi bürüyən qəm kimidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:12:42.797Z"
+ "ts": "2026-10-25T02:12:42.797Z",
+ "prev_az": "[طخف] (ط، خ، ف) — الطاء والخاء والفاء أُصَيل يدلُّ على الشَّئ الرَّقيق (الطاء، الخاء və الفاء incə şeyə dəlalət edən kiçik bir kökdür). من ذلك الطَّخَاف، وهو الغَيم الرقيق (Onlardan biri ət-təxafdır ki, o da incə buluddur). والطَّخْف كالهَمِّ يَغشَى القلب (Və ət-təxf ürəyi bürüyən qəm kimidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə mötərizəsinin içində «الطاء، الخاء» və «الفاء» hərf adları tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-21T21:41:03.689Z"
 }

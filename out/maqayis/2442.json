@@ -11,9 +11,19 @@
   "page_to": 384
  },
  "ar": "الضاد والهمزة واللام أُصَيْل يدلُّ على ضعف ودِقَّةٍ فى جسم.\nمن ذلك الضَّئيل، وهو الضَّعيف. والفعل منه ضَؤُل يَضؤُل. ورجل ضُؤَلةٌ:\nضعيف. والضَّئيلة: الحيَّة الدَّقيقة.",
- "az": "«ضأل»: الضاد, الهمزة, واللام (d, həmzə, l) — cisimdə zəifliyə və incəliyə dəlalət edən kiçik bir kökdür. Bunlardan biri «الضَّئيل»dir ki, o da zəif deməkdir. Felindən «ضَؤُل يَضؤُل» gəlir. «رجل ضُؤَلةٌ» — zəif kişi. «الضَّئيلة» — incə ilan.",
+ "az": "[ضأل]\nDad, həmzə və lam cisimdə zəifliyə və incəliyə dəlalət edən kiçik bir kökdür.\nBunlardan biri الضَّئيل (zəif) sözüdür ki, o da zəif deməkdir. Feli ضَؤُل يَضؤُل (zəiflədi, zəifləyir) şəklindədir. رجل ضُؤَلةٌ (zəif kişi) —\nzəif deməkdir. الضَّئيلة (incə ilan).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.920Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضأل»: الضاد, الهمزة, واللام (d, həmzə, l) — cisimdə zəifliyə və incəliyə dəlalət edən kiçik bir kökdür. Bunlardan biri «الضَّئيل»dir ki, o da zəif deməkdir. Felindən «ضَؤُل يَضؤُل» gəlir. «رجل ضُؤَلةٌ» — zəif kişi. «الضَّئيلة» — incə ilan.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ضأل]» formatında verilməyib.",
+  "Ərəb hərflərinin adları tərcümə edilməyib və latın hərfləri ilə transliterasiya olunub.",
+  "«ضَؤُل يَضؤُل» felinin mənası mötərizədə verilməyib."
+ ],
+ "review_ts": "2026-11-21T21:38:58.884Z"
 }

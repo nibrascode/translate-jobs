@@ -11,7 +11,18 @@
   "page_to": 69
  },
  "ar": "العين والفاء والسين أصل صحيح يدلُّ على ممارسَة ومعالَجة. يقولون: هو يعافس الشَّئ، إذا عالَجَه. واعتفَسَ القومُ: اصطرعوا.\nوعُفِسَ، إذا سُجِن. وهذا على معنى الاستعارة، كأنَّه لما حُبِس كان كالمصروع.\nوالمعفوس: المبتَذَل. والعَفْس: سَوق الإبل. والمعنى فى ذلك كلِّه متقارب.",
- "az": "[عفس] (ə-fə-sə): Ayn, fa və sin hərfləri məşq etməyə və müalicə etməyə dəlalət edən səhih bir kökdür. Deyirlər: O, bir şeylə məşq edir, yəni onu müalicə edir. «اعتَفَسَ القومُ» (qövm mübarizə apardı — ıstərasə edib güləşdilər).\n\nVə «عُفِسَ» (üfisə), yəni həbs olundu. Bu, məcaz mənasındadır, sanki o, həbs olunanda yıxılan kimi idi.\n\n«المعفوس» (məfուս) — ayaqlar altına düşmüş, alçaldılmışdır. «العَفْس» (əfs) — dəvələri qovmaqdır. Bunların hamısında məna bir-birinə yaxındır.",
+ "az": "[عفس] Ayn, fa və sin məşğul olmağa və uğraşmağa dəlalət edən səhih bir kökdür. Deyirlər: هو يعافس الشَّئ (bir şeylə uğraşır), yəni إذا عالَجَه (onu müalicə/həll etdikdə). واعتفَسَ القومُ (qövm bir-biri ilə güləşdi/mübarizə apardı).\nVə عُفِسَ (həbs olundu) deyilir. Bu, istiarə (məcaz) mənasındadır, sanki o, həbs olunduqda yıxılmış kimi idi.\nوالمعفوس (çox işlənməkdən köhnəlmiş/dəyərdən düşmüş). والعَفْس (dəvələri qovmaq). Bu mənaların hamısında məna bir-birinə yaxındır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T13:20:48.034Z"
+ "ts": "2026-10-25T13:20:48.034Z",
+ "prev_az": "[عفس] (ə-fə-sə): Ayn, fa və sin hərfləri məşq etməyə və müalicə etməyə dəlalət edən səhih bir kökdür. Deyirlər: O, bir şeylə məşq edir, yəni onu müalicə edir. «اعتَفَسَ القومُ» (qövm mübarizə apardı — ıstərasə edib güləşdilər).\n\nVə «عُفِسَ» (üfisə), yəni həbs olundu. Bu, məcaz mənasındadır, sanki o, həbs olunanda yıxılan kimi idi.\n\n«المعفوس» (məfուս) — ayaqlar altına düşmüş, alçaldılmışdır. «العَفْس» (əfs) — dəvələri qovmaqdır. Bunların hamısında məna bir-birinə yaxındır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətndəki bəzi ibarələr ərəb qrafikası ilə saxlanılmamışdır.",
+  "Transliterasiyada pozulmuş simvollar var (məfուս).",
+  "Mötərizələrdə ərəb sözünün mənası əvəzinə transliterasiyası verilmişdir."
+ ],
+ "review_ts": "2026-11-21T21:55:01.824Z"
 }

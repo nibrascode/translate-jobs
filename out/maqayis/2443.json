@@ -11,9 +11,20 @@
   "page_to": 384
  },
  "ar": "الضاد والهمزة والنون أُصَيل صحيح، وهو بعض الأنعام.\nمن ذلك الضأن. يقال أضْأنَ الرجلُ، إذا كثُرَ ضأنُه. والضائنة الواحدة من الضأن. وحكى بعضُهم: فلان ضائن البطنِ: مسترخِيهِ.",
- "az": "«ضأن»: الضاد, الهمزة, والنون (d, həmzə, n) — məvatidən (davar növündən) olan səhih kiçik bir kökdür. Bunlardan biri «الضأن» (qoyunlar) sözüdür. Deyilir: «أضْأنَ الرجلُ» — kişinin qoyunları çoxaldı. «الضائنة» — qoyunlardan tək olan (dişi qoyun). Bəziləri rəvayət etmişdir: filankəsin qarnı sallaqdır («ضائن البطن»).",
+ "az": "[ضأن]\nDad, həmzə və nun davar növündən olan səhih kiçik bir kökdür.\nBunlardan biri الضأن (qoyunlar) sözüdür. Deyilir: أضْأنَ الرجلُ (kişinin qoyunları çoxaldı). الضائنة (dişi qoyun) — qoyunlardan tək olanı. Bəziləri rəvayət etmişdir: فلان ضائن البطنِ: مسترخِيهِ (filankəsin qarnı sallaqdır, yəni boşalmışdır).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.920Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضأن»: الضاد, الهمزة, والنون (d, həmzə, n) — məvatidən (davar növündən) olan səhih kiçik bir kökdür. Bunlardan biri «الضأن» (qoyunlar) sözüdür. Deyilir: «أضْأنَ الرجلُ» — kişinin qoyunları çoxaldı. «الضائنة» — qoyunlardan tək olan (dişi qoyun). Bəziləri rəvayət etmişdir: filankəsin qarnı sallaqdır («ضائن البطن»).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ضأن]» formatında verilməyib.",
+  "Ərəb hərflərinin adları tərcümə edilməyib və latın hərfləri ilə transliterasiya olunub.",
+  "«məvatidən» sözündə hərf səhvi var (davar/mal-qara nəzərdə tutulur).",
+  "«فلان ضائن البطنِ: مسترخِيهِ» sitatının ərəb mətni natamam verilib."
+ ],
+ "review_ts": "2026-11-21T21:38:58.885Z"
 }

@@ -13,5 +13,10 @@
  "ar": "العين والفاء والنون كلمة تدلُّ على فسادٍ فى شئٍ، من نَدَى.\nوهو عَفِن الشَّئُ يعفَن عَفَناً.",
  "az": "[عفن]\n«Əyn», «fə» və «nun» rütubətdən bir şeydə əmələ gələn xarablığa (korlanmağa) dəlalət edən bir kəlmədir. Bu da: «عَفِن الشَّئُ يعفَن عَفَناً» (şey kifləndi, xarab oldu) ifadəsindədir.",
  "model": "gemini-3.5-flash",
- "ts": "2026-10-25T13:13:36.772Z"
+ "ts": "2026-10-25T13:13:36.772Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-21T21:53:37.758Z"
 }

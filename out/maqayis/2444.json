@@ -11,9 +11,19 @@
   "page_to": 384
  },
  "ar": "الضاد والباء والثاء أصل صحيحٌ يدلُّ على فَبْض. يقال:\nضبث إذا قبض على الشَّئ. ويقال ناقةٌ ضَبُوث: يُشَكُّ فى سِمَنها، فتُضْبَث بالأيدى.\nويقولون: ضُبِثَ، أى ضُرب. وهو قريب مما ذكرناه.",
- "az": "«ضبث»: الضاد, الباء, والثاء (d, b, s) — tutmağa (qəbz etməyə) dəlalət edən səhih bir əsldir. Deyilir: «ضبث» — bir şeyi əllə tutdu. Deyilir: «ناقةٌ ضَبُوث» — kökəkliyinə şübhə edilən, buna görə də əllərlə yoxlanılan (tutulan) dişi dəvə. Deyirlər: «ضُبِثَ» — yəni döyüldü. Bu da qeyd etdiyimizə yaxındır.",
+ "az": "[ضبث]\nDad, ba və sa tutmağa (qəbz etməyə) dəlalət edən səhih bir əsldir. Deyilir:\nضبث (tutdu) — bir şeyi əllə tutduqda. Deyilir: ناقةٌ ضَبُوث (kök olub-olmadığı əllə yoxlanılan dişi dəvə) — köklüyünə şübhə edilən, buna görə də əllərlə yoxlanılan dişi dəvə.\nDeyirlər: ضُبِثَ (döyüldü), yəni vuruldu. Bu da qeyd etdiyimizə yaxındır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.920Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضبث»: الضاد, الباء, والثاء (d, b, s) — tutmağa (qəbz etməyə) dəlalət edən səhih bir əsldir. Deyilir: «ضبث» — bir şeyi əllə tutdu. Deyilir: «ناقةٌ ضَبُوث» — kökəkliyinə şübhə edilən, buna görə də əllərlə yoxlanılan (tutulan) dişi dəvə. Deyirlər: «ضُبِثَ» — yəni döyüldü. Bu da qeyd etdiyimizə yaxındır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ضبث]» formatında verilməyib.",
+  "Ərəb hərflərinin adları tərcümə edilməyib və latın hərfləri ilə transliterasiya olunub.",
+  "«kökəkliyinə» sözündə hərf səhvi var («köklüyünə» olmalıdır)."
+ ],
+ "review_ts": "2026-11-21T21:38:58.885Z"
 }

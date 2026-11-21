@@ -11,7 +11,16 @@
   "page_to": 453
  },
  "ar": "الطاء والراء والميم أُصَيْلٌ صحيح يدلُّ على تراكُمِ شئ.\nيقولون: الطُّرَامة (٤): الخُضْرة على الأسنان. ويقولون: الطِّرْم (٥): العَسَل.\nوالطِّرْيَم: السَّحاب الغليظ.",
- "az": "[طرم] Ta, ra və mim hərfləri bir şeyin üst-üstə yığılmasına dəlalət edən kiçik, səhih bir kökdür. Deyirlər: «الطُّرَامة» (türamə): dişlərin üzərindəki yaşıl təbəqə. Deyirlər: «الطِّرْم» (tirm): bal. Və «الطِّرْيَم» (tiryəm): qatı bulud.",
+ "az": "[طرم] Ta, ra və mim hərfləri bir şeyin üst-üstə yığılmasına dəlalət edən kiçik, səhih bir kökdür.\nDeyirlər: الطُّرَامة (٤) (dişlərin üzərindəki yaşıl təbəqə). Və deyirlər: الطِّرْم (٥) (bal).\nالطِّرْيَم (qatı bulud).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:13:33.432Z"
+ "ts": "2026-10-25T02:13:33.432Z",
+ "prev_az": "[طرم] Ta, ra və mim hərfləri bir şeyin üst-üstə yığılmasına dəlalət edən kiçik, səhih bir kökdür. Deyirlər: «الطُّرَامة» (türamə): dişlərin üzərindəki yaşıl təbəqə. Deyirlər: «الطِّرْم» (tirm): bal. Və «الطِّرْيَم» (tiryəm): qatı bulud.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmləri (٤) və (٥) buraxılmışdır."
+ ],
+ "review_ts": "2026-11-21T21:42:23.500Z"
 }

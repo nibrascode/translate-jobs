@@ -11,9 +11,19 @@
   "page_to": 385
  },
  "ar": "الضاد والباء والدال ليس بشئ. وإن كان ما ذكره ابنُ دريد صحيحا، من أن الضَّبَد الضَّمَد، فهو من باب الإبدال. قال: يقال أضْبَدْتُه، إذا أنت أغضبْتَه (٢).",
- "az": "«ضبد»: الضاد, الباء, والدال (d, b, d) — heç bir şey deyil (mənası yoxdur). İbn Dürreydin «الضَّبَد» sözünün «الضَّمَد» (sarğı, bağlamaq) olması barədə dedikləri düzgündürsə, o zaman bu, ibdal babındandır. O demişdir: Deyilir ki, «أضْبَدْتُه» — sən onu qəzəbləndirdiyin zaman (2).",
+ "az": "[ضبد]\nDad, ba və dal heç bir şey deyil (mənası yoxdur). İbn Düreydin الضَّبَد (qəzəb) sözünün الضَّمَد (qəzəb, kin) olması barədə dedikləri düzgündürsə, o zaman bu, ibdal (hərf əvəzlənməsi) babındandır. O demişdir: deyilir ki, أضْبَدْتُه (onu qəzəbləndirdim) — sən onu qəzəbləndirdiyin zaman (٢).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.920Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضبد»: الضاد, الباء, والدال (d, b, d) — heç bir şey deyil (mənası yoxdur). İbn Dürreydin «الضَّبَد» sözünün «الضَّمَد» (sarğı, bağlamaq) olması barədə dedikləri düzgündürsə, o zaman bu, ibdal babındandır. O demişdir: Deyilir ki, «أضْبَدْتُه» — sən onu qəzəbləndirdiyin zaman (2).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ضبد]» formatında verilməyib və ərəb hərflərinin adları tərcümə edilməyib.",
+  "«الضَّمَد» sözünün mənası burada kontekstə uyğun olmayan şəkildə «sarğı, bağlamaq» kimi verilib (qəzəb, kin mənasındadır).",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə «(٢)» saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-21T21:38:58.886Z"
 }

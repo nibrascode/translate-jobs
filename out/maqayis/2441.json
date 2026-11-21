@@ -11,9 +11,20 @@
   "page_to": 384
  },
  "ar": "الضاد والهمزة والدال أُصيلٌ قليل الفُروع، يدلُّ على مَرض من الأمراض. قالوا: الضُّؤْد: الزكام، وكذلك الضُّؤْدَة. رجلٌ مضْئُود، أى مزكوم. وحُكيت كلمةٌ أخرى عن أبى زيد، إن صحّت، قالوا: ضأَدْت الرّجُل ضأدًا، إذا خَصَمتَه.",
- "az": "«ضأد»: الضاد, الهمزة, والدال (d, həmzə, d) — xəstəliklərdən bir xəstəliyə dəlalət edən, az şaxələnən kiçik bir kökdür. Dedilər: «الضُّؤْد» — zökəm, həmçinin «الضُّؤْدَة». «رجل مضْئُود» — yəni zökəm olmuş kişi. Əbu Zeyddən başqa bir kəlmə də rəvayət edilmişdir, əgər düzdürsə, dedilər: «ضأَدْت الرّجُل ضأدًا» — onu məğlub etdin, dəlil ilə susdurun.",
+ "az": "[ضأد]\nDad, həmzə və dal xəstəliklərdən bir xəstəliyə dəlalət edən, az şaxələnən kiçik bir kökdür. Dedilər: الضُّؤْد (zökəm), həmçinin الضُّؤْدَة (zökəm). رجلٌ مضْئُود (zökəm olmuş kişi), yəni zökəmli. Əbu Zeyddən başqa bir kəlmə də rəvayət edilmişdir, əgər səhihdirsə, dedilər: ضأَدْت الرّجُل ضأدًا (kişini məğlub etdim), yəni dəlil ilə onu susdurdun.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.920Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضأد»: الضاد, الهمزة, والدال (d, həmzə, d) — xəstəliklərdən bir xəstəliyə dəlalət edən, az şaxələnən kiçik bir kökdür. Dedilər: «الضُّؤْد» — zökəm, həmçinin «الضُّؤْدَة». «رجل مضْئُود» — yəni zökəm olmuş kişi. Əbu Zeyddən başqa bir kəlmə də rəvayət edilmişdir, əgər düzdürsə, dedilər: «ضأَدْت الرّجُل ضأدًا» — onu məğlub etdin, dəlil ilə susdurun.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ضأد]» formatında verilməyib.",
+  "Ərəb hərflərinin adları tərcümə edilməyib və latın hərfləri ilə transliterasiya olunub.",
+  "«رجلٌ مضْئُود» sitatında tənvin buraxılıb.",
+  "«susdurun» sözü hərf səhvi ilə yazılıb («susdurdun» olmalıdır)."
+ ],
+ "review_ts": "2026-11-21T21:38:58.883Z"
 }

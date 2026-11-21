@@ -11,9 +11,18 @@
   "page_to": 386
  },
  "ar": "الضاد والباء والسين أُصَيل إنْ صحَّ فليس إلا فى شئٍ مذمومٍ غير محمود. قال الخليل: الضَّبِيس: الحريص، والضَّبيس: القليل الفِطنة لا يهتدى لشئ. ويقال الضَّبِيس الجَبان.",
- "az": "«ضببس»: الضاد, الباء, والسين (d, b, s) — əgər səhihdirsə, bu kiçik kök təriflənməyən, yalnız məzəmmət olunan şeylərdə olur. Xəlil demişdir: «الضَّبِيس» — tamahkar; «الضَّبِيس» — zəkası az olan, heç bir şeyi tapa bilməyən kəs. Deyilir ki, «الضَّبِيس» — qorxaq deməkdir.",
+ "az": "[ضبس]\nDad, ba və sin əgər səhihdirsə, bu kiçik kök təriflənməyən, yalnız məzəmmət olunan şeylərdə olur. Xəlil demişdir: الضَّبِيس (tamahkar), الضَّبيس (zəkası az olan, heç bir şeyi tapa bilməyən kəs). Deyilir ki, الضَّبِيس (qorxaq) deməkdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.920Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضببس»: الضاد, الباء, والسين (d, b, s) — əgər səhihdirsə, bu kiçik kök təriflənməyən, yalnız məzəmmət olunan şeylərdə olur. Xəlil demişdir: «الضَّبِيس» — tamahkar; «الضَّبِيس» — zəkası az olan, heç bir şeyi tapa bilməyən kəs. Deyilir ki, «الضَّبِيس» — qorxaq deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ضبس]» əvəzinə «ضببس» kimi səhv yazılıb və format pozulub.",
+  "Ərəb hərflərinin adları tərcümə edilməyib və latın hərfləri ilə transliterasiya olunub."
+ ],
+ "review_ts": "2026-11-21T21:38:58.886Z"
 }

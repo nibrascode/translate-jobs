@@ -11,7 +11,17 @@
   "page_to": 444
  },
  "ar": "الطاء والحاء والراء أصلٌ صحيح يدلُّ على الحَفز والرَّمْى والقذْف. يقولون: طَحَرَتِ العينُ قَذاها، إذا قذفَتْ به. يقال طَحَرتْ عينُ الماء العِرمِضَ، إذا رمت به. وقوس مِطحَرٌ، إذا حَفَزت سَهْمَها فرمت به صُعُداً.\nوحربٌ مِطحرةٌ: زَبُون. والطَّحِير: النّفَس العالى، وسمِّى بذلك لأنَّ صاحبه يَطحَر. قال الكميت:\nبأهازيجَ من أغانيِّها الجُ … شِّ وإتباعها الزَّفيرَ الطَّحِيرَا (٤)\nفأما المُطْحَر من النِّصال، فهو المُطوَّل المسال (١). قال الهذلىّ (٢):\nمن مُطْحَراتِ الإلالِ (٣)",
- "az": "[طحر] الطاء والحاء والراء (طا, ha, ra) – təhrik etməyə, atmaya və fırlatmağa dəlalət edən səhih bir əsasdır. Deyirlər: طَحَرَتِ العينُ قَذاها (Göz qılçığını atdı), yəni onu atıb qırağa çıxartdı. Deyilir: طَحَرتْ عينُ الماء العِرمِضَ (Bulağın gözü yosunu çölə atdı). قوس مِطحَرٌ (Mitbər yay) – oxunu təhrik edib onu yuxarıya doğru atan yaydır. حربٌ مِطحرةٌ (Mitbərə müharibə) – sərt və çətin müharibədir. الطَّحِير (ət-tahir) – uca nəfəsdir (xırıltılı, dərin nəfəs), o, belə adlandırılmışdır, çünki onun sahibi طَحَر (nahir edir / nəfəsini ağır çıxarır). Kumeyt demişdir: بأهازيجَ من أغانيِّها الجُ … شِّ وإتباعها الزَّفيرَ الطَّحِيرَا (٤) (Kobud mahnılarının oxunuşları ilə… və onların dərindən gələn xırıltılı nəfəslərlə müşayiət olunması ilə). Amma ucların (nizə uclarının) مُطْحَر (muthar) olanı isə – uzadılmış və hamarlanmış olanıdır (١). Hüzəli demişdir (٢): من مُطْحَراتِ الإلالِ (٣) (İlalın muthar edilmiş nizə uclarından...)",
+ "az": "[طحر] الطاء والحاء والراء (ta, ha, ra) – təhrik etməyə, atmaya və fırlatmağa dəlalət edən səhih bir əsasdır. Deyirlər: طَحَرَتِ العينُ قَذاها (Göz çöpünü atdı), yəni onu atıb kənara çıxartdı. Deyilir: طَحَرتْ عينُ الماء العِرمِضَ (Bulağın gözü yosunu çölə atdı). قوس مِطحَرٌ (Mithər yay) – oxunu təhrik edib onu yuxarıya doğru atan yaydır.\\nحربٌ مِطحرةٌ (Mithərə müharibə) – sərt və çətin müharibədir. الطَّحِير (ət-təhir) – uca nəfəsdir (xırıltılı, dərin nəfəs); o, belə adlandırılmışdır, çünki onun sahibi يَطحَر (yətəhər – nəfəsini güclə çıxarır). Kumeyt demişdir:\\nبأهازيجَ من أغانيِّها الجُ … شِّ وإتباعها الزَّفيرَ الطَّحِيرَا (٤) (Kobud nəğmələrinin ahəngləri ilə… və onların dərindən gələn xırıltılı nəfəslərlə müşayiət olunması ilə).\\nAmma nizə uclarının مُطْحَر (muthər) olanı isə – uzadılmış və hamarlanmış olanıdır (١). Hüzəli demişdir (٢):\\nمن مُطْحَراتِ الإلالِ (٣) (İlalın uzadılmış nizə uclarından...)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:11:55.933Z"
+ "ts": "2026-10-25T02:11:55.933Z",
+ "prev_az": "[طحر] الطاء والحاء والراء (طا, ha, ra) – təhrik etməyə, atmaya və fırlatmağa dəlalət edən səhih bir əsasdır. Deyirlər: طَحَرَتِ العينُ قَذاها (Göz qılçığını atdı), yəni onu atıb qırağa çıxartdı. Deyilir: طَحَرتْ عينُ الماء العِرمِضَ (Bulağın gözü yosunu çölə atdı). قوس مِطحَرٌ (Mitbər yay) – oxunu təhrik edib onu yuxarıya doğru atan yaydır. حربٌ مِطحرةٌ (Mitbərə müharibə) – sərt və çətin müharibədir. الطَّحِير (ət-tahir) – uca nəfəsdir (xırıltılı, dərin nəfəs), o, belə adlandırılmışdır, çünki onun sahibi طَحَر (nahir edir / nəfəsini ağır çıxarır). Kumeyt demişdir: بأهازيجَ من أغانيِّها الجُ … شِّ وإتباعها الزَّفيرَ الطَّحِيرَا (٤) (Kobud mahnılarının oxunuşları ilə… və onların dərindən gələn xırıltılı nəfəslərlə müşayiət olunması ilə). Amma ucların (nizə uclarının) مُطْحَر (muthar) olanı isə – uzadılmış və hamarlanmış olanıdır (١). Hüzəli demişdir (٢): من مُطْحَراتِ الإلالِ (٣) (İlalın muthar edilmiş nizə uclarından...)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«مِطحَرٌ» və «مِطحرةٌ» sözlərinin transkripsiyası səhv verilib («Mitbər», «Mitbərə» əvəzinə «mithər», «mithərə» olmalıdır).",
+  "«يَطحَر» feili «طَحَر» kimi dəyişdirilib və «nahir edir» şəklində yanlış oxunub."
+ ],
+ "review_ts": "2026-11-21T21:41:03.688Z"
 }

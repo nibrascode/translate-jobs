@@ -11,7 +11,18 @@
   "page_to": 473
  },
  "ar": "الظاء والهمزة والباء كلمتان متباينتان: إحداهما الظَّأب، وهو سِلْف الرّجُل. والأخرى الكلام والجَلَبة (٣). قال:\nيَصُوعُ عُنوقَها أَحوَى زنيمٌ … له ظَأْبٌ كما صَخِبَ الغَريمُ (٤)",
- "az": "[ظأب] الظاء (zı), الهمزة (həmzə) və الباء (ba) hərfləri iki fərqli mənaya gəlir: birincisi, الظَّأب (əz-zə'b) - kişinin arvadının bacısının əri (sələf). İkincisi, danışıq və səs-küy (٣). Şair demişdir: Qara rəngli, alçaq bir kəs onların boyunlarını əzir... onun səs-küyü (ظَأْب) qəzəbli birinin qışqırığı kimidir (٤).",
+ "az": "[ظأب] ظاء, həmzə və ba bir-birindən fərqli iki sözdür:\nBiri الظَّأب sözüdür ki, o, kişinin bacanağıdır (arvadının bacısının əridir).\nDigəri isə danışıq və küy-haraydır (٣). Şair demişdir:\nيَصُوعُ عُنوقَها أَحوَى زنيمٌ … له ظَأْبٌ كما صَخِبَ الغَريمُ (٤)\n(Onların [sürünün] dişi çəpişlərini qulağında artığı olan qara [bir təkə] qabağına qatıb qovur; onun elə bir nərəsi/harayı var ki, sanki borc sahibi qışqırır).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T02:15:48.931Z"
+ "ts": "2026-10-25T02:15:48.931Z",
+ "prev_az": "[ظأب] الظاء (zı), الهمزة (həmzə) və الباء (ba) hərfləri iki fərqli mənaya gəlir: birincisi, الظَّأب (əz-zə'b) - kişinin arvadının bacısının əri (sələf). İkincisi, danışıq və səs-küy (٣). Şair demişdir: Qara rəngli, alçaq bir kəs onların boyunlarını əzir... onun səs-küyü (ظَأْب) qəzəbli birinin qışqırığı kimidir (٤).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni tamamilə buraxılmışdır.",
+  "«سِلْف الرّجُل» ifadəsi «bacanaq» sözü ilə tərcümə olunmalıdır.",
+  "Şeir beytinin mənası kobud şəkildə təhrif edilmişdir («يَصُوعُ عُنوقَها أَحوَى زنيمٌ» ifadəsi «alçaq kəs boyunlarını əzir», «الغريم» isə «qəzəbli biri» kimi yanlış tərcümə olunub)."
+ ],
+ "review_ts": "2026-11-21T21:46:42.635Z"
 }

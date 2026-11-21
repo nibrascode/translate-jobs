@@ -11,9 +11,19 @@
   "page_to": 425
  },
  "ar": "الطاء والميم والشين لا قياسَ له، ولولا أنّه فى الشّعر لكان من المشكوك فيه؛ لأنّه لا يُشبِه كلامَ العرب. على أنهم يقولون: ما أدرى أىُّ الطمْشِ هو؟ أىْ أىُّ الناس والخلْق هو. قال:\nوَحْشٌ ولا طَمْش من الطُّمُوش (١)",
- "az": "«طمش» — الطاء والميم والشين لا قياسَ له (Ta, mim və şin hərfləri üçün heç bir qiyas yoxdur), ولولا أنّه فى الشّعر لكان من المشكوك فيه (əgər şeirdə olmasaydı şübhəli olanlardan olar və ərəb dilinə oxşamazdı). على أنهم يقولون (Bununla belə onlar deyirlər): ما أدرى أىُّ الطمْشِ هو؟ (Bilmirəm o, hansı təmşdir?) أىْ أىُّ الناس والخلْق هو (yəni o, hansı insan və məxluqdur). قال (şair demişdir): وَحْشٌ ولا طَمْش من الطُّمُوش (Vəhşi də deyil, tümüşlərdən olan təmş də deyil).",
+ "az": "[طمش]\nالطاء والميم والشين لا قياسَ له (Ta, mim və şin hərfləri üçün heç bir qiyas yoxdur), ولولا أنّه فى الشّعر لكان من المشكوك فيه (əgər şeirdə olmasaydı, şübhəli olanlardan sayılardı); لأنّه لا يُشبِه كلامَ العرب (çünki o, ərəblərin kəlamına bənzəmir). على أنهم يقولون (Bununla belə onlar deyirlər): ما أدرى أىُّ الطمْشِ هو؟ (Bilmirəm o, hansı təmşdir?) أىْ أىُّ الناس والخلْق هو (yəni o, hansı insan və məxluqdur). قال (şair demişdir):\nوَحْشٌ ولا طَمْش من الطُّمُوش (١) (Nə vəhşidir, nə də tumuşlardan olan bir təmşdir).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:09:31.509Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«طمش» — الطاء والميم والشين لا قياسَ له (Ta, mim və şin hərfləri üçün heç bir qiyas yoxdur), ولولا أنّه فى الشّعر لكان من المشكوك فيه (əgər şeirdə olmasaydı şübhəli olanlardan olar və ərəb dilinə oxşamazdı). على أنهم يقولون (Bununla belə onlar deyirlər): ما أدرى أىُّ الطمْشِ هو؟ (Bilmirəm o, hansı təmşdir?) أىْ أىُّ الناس والخلْق هو (yəni o, hansı insan və məxluqdur). قال (şair demişdir): وَحْشٌ ولا طَمْش من الطُّمُوش (Vəhşi də deyil, tümüşlərdən olan təmş də deyil).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Kök başlığı [طمش] formatında verilməmişdir.",
+  "«لأنّه لا يُشبِه كلامَ العرب» cümləsi müstəqil məna kimi düzgün verilməmiş, əvvəlki cümləyə qarışdırılmışdır.",
+  "Şeir parçasının sonundakı (١) haşiyə rəqəmi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-21T21:40:08.025Z"
 }

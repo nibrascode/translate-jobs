@@ -11,9 +11,19 @@
   "page_to": 387
  },
  "ar": "الضاد والباء والطاء أصلٌ صحيح. ضَبَط الشَّئَ ضبْطاً.\nوالأصبط: الذى يَعمل بيديه جميعاً. ويقال ناقةٌ ضبطاء. قال:\nعُذافرة ضَبْطاء تَخْدِى كأنّها … فَنِيقٌ غَدَا يَحوى السَّوامَ السَّوارحا (١)\nو\nفى الحديث: «أنّه سُئل عن الأضبط».",
- "az": "«ضبط»: الضاد, الباء, والطاء (d, b, t) — səhih bir əsldir. «ضَبَط الشَّئَ ضبْطاً» (Şeyi möhkəm tutdu, qorudu). «الأصبط» — hər iki əli ilə iş görən kəs. Deyilir: «ناقةٌ ضبطاء» (güclü, möhkəm dişi dəvə). O demişdir: عُذافرة ضَبْطاء تَخْدِى كأنّها … فَنِيقٌ غَدَا يَحوى السَّوامَ السَّوارحا (1) (Güclü, möhkəm, yeriyən elə bir dəvə ki, sanki... səhər otlağa gedən və sürüləri yığan damazlıq erkək dəvə kimidir). Və hədisdə gəlmişdir: «Ondan əz-zəbt (iki əli ilə iş görən) haqqında soruşuldu».",
+ "az": "[ضبط]\nDad, ba və ta səhih bir əsldir. ضَبَط الشَّئَ ضبْطاً (şeyi möhkəm tutdu, qorudu).\nالأصبط (əl-əsbət) — hər iki əli ilə iş görən kəs. Deyilir: ناقةٌ ضبطاء (güclü, möhkəm dişi dəvə). Şair demişdir:\nعُذافرة ضَبْطاء تَخْدِى كأنّها … فَنِيقٌ غَدَا يَحوى السَّوامَ السَّوارحا (١) (Güclü, möhkəm, sürətlə yeriyən elə bir dəvə ki, sanki səhər otlağa gedən və sürüləri yığan damazlıq erkək dəvədir).\nVə\nhədisdə gəlmişdir: «أنّه سُئل عن الأضبط» (ondan əl-ədbət — hər iki əli ilə iş görən şəxs haqqında soruşuldu).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:06:03.920Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ضبط»: الضاد, الباء, والطاء (d, b, t) — səhih bir əsldir. «ضَبَط الشَّئَ ضبْطاً» (Şeyi möhkəm tutdu, qorudu). «الأصبط» — hər iki əli ilə iş görən kəs. Deyilir: «ناقةٌ ضبطاء» (güclü, möhkəm dişi dəvə). O demişdir: عُذافرة ضَبْطاء تَخْدِى كأنّها … فَنِيقٌ غَدَا يَحوى السَّوامَ السَّوارحا (1) (Güclü, möhkəm, yeriyən elə bir dəvə ki, sanki... səhər otlağa gedən və sürüləri yığan damazlıq erkək dəvə kimidir). Və hədisdə gəlmişdir: «Ondan əz-zəbt (iki əli ilə iş görən) haqqında soruşuldu».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ضبط]» formatında verilməyib və ərəb hərflərinin adları tərcümə edilməyib.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə «(١)» saxlanılmayıb.",
+  "Hədisin ərəb mətni («أنّه سُئل عن الأضبط») buraxılıb və «الأضبط» sözü «əz-zəbt» kimi səhv verilib."
+ ],
+ "review_ts": "2026-11-21T21:38:58.887Z"
 }

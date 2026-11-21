@@ -11,7 +11,18 @@
   "page_to": 467
  },
  "ar": "الظاء واللام والعين أُصَيْلٌ يدلُّ على مَيْل فى مَشْى (١). يقال دابَّةَ بِهِ ظَلْعٌ، إذا كان يَغمِز فيميل (٢). ويقولون: هو ظالع، أى مائلٌ عن الطَّريق القويم. قال النابغة:\nأتُوعِدُ عبداً لم يخُنْكَ أمانةً … وتَترُكَ عبداً ظالماً وهو ظالعُ (٣)",
- "az": "[ظلع] الظاء واللام والعين أُصَيْلٌ يدلُّ على مَيْل فى مَشْى (١). (Zae, lam və ayn hərfləri gəzməkdə əyriliyə dəlalət edən kiçik kökdür.) يقال دابَّةَ بِهِ ظَلْعٌ، إذا كان يَغمِز فيميل (٢). Deyilir: heyvanda zəlç var, o zaman ki, axsayaraq əyilir. ويقولون: هو ظالع، أى مائلٌ عن الطَّريق القويم. Və deyirlər: o, zaliddir, yəni düz yoldan azandır. قال النابغة: Nəbigə demişdir: أتُوعِدُ عبداً لم يخُنْكَ أمانةً … وتَترُكَ عبداً ظالماً وهو ظالعُ (٣) - (Sənə əmanətdə xəyanət etməyən qulu hədələyirsənmi... və zalım qulu buraxırsan, halbuki o, zaliddir).",
+ "az": "[ظلع] الظاء واللام والعين أُصَيْلٌ يدلُّ على مَيْل فى مَشْى (١). (Za, lam və ayn yerişdəki əyriliyə dəlalət edən kiçik bir əsasdır.) يقال دابَّةَ بِهِ ظَلْعٌ، إذا كان يَغمِز فيميل (٢). (Heyvan axsayıb bir tərəfə əyildikdə «دابَّة بها ظَلْعٌ» deyilir.) ويقولون: هو ظالع، أى مائلٌ عن الطَّريق القويم. (Və «هو ظالع» deyirlər, yəni düz yoldan əyilmiş, azmışdır.) قال النابغة:\nأتُوعِدُ عبداً لم يخُنْكَ أمانةً … وتَترُكَ عبداً ظالماً وهو ظالعُ (٣)\n(ən-Nabiğə demişdir:\n«Sənə əmanətdə xəyanət etməyən bir qulu hədələyirsən, zülm edən və haqq yoldan sapan qulu isə buraxırsan?!»)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:14:19.807Z"
+ "ts": "2026-10-25T02:14:19.807Z",
+ "prev_az": "[ظلع] الظاء واللام والعين أُصَيْلٌ يدلُّ على مَيْل فى مَشْى (١). (Zae, lam və ayn hərfləri gəzməkdə əyriliyə dəlalət edən kiçik kökdür.) يقال دابَّةَ بِهِ ظَلْعٌ، إذا كان يَغمِز فيميل (٢). Deyilir: heyvanda zəlç var, o zaman ki, axsayaraq əyilir. ويقولون: هو ظالع، أى مائلٌ عن الطَّريق القويم. Və deyirlər: o, zaliddir, yəni düz yoldan azandır. قال النابغة: Nəbigə demişdir: أتُوعِدُ عبداً لم يخُنْكَ أمانةً … وتَترُكَ عبداً ظالماً وهو ظالعُ (٣) - (Sənə əmanətdə xəyanət etməyən qulu hədələyirsənmi... və zalım qulu buraxırsan, halbuki o, zaliddir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «Zae» yox, «Za» olmalıdır.",
+  "«zalid» sözü uydurmadır, ərəbcə «ظالع» (axsaq, yoldan azan/əyilən) sözüdür.",
+  "Beytin tərcüməsi natamamdır."
+ ],
+ "review_ts": "2026-11-21T21:46:13.877Z"
 }

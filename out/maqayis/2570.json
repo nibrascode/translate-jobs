@@ -11,7 +11,21 @@
   "page_to": 454
  },
  "ar": "الطاء والراء والباء أصَيلٌ صحيح. يقولون: إنَّ الطَّرَب خِفّة تُصِيب الرَّجلَ من شدةِ سرورٍ أو غيره. ويُنشدون:\nوقالوا قد طِربْتَ فقلتُ كلاَّ … وهل يبكى من الطَّرَب الجليدُ\nوقال نابغة بنى جعدة:\nوأُرانى طَرِباً فى إثرهِمْ … طرَبَ الوالهِ أو كالمُخْتَبَلْ (١)\nقالوا: وطرَّب فى صوته، إذا مدَّه. وهو من الأوّل. والكريم طَروبٌ ومما شذَّ عن هذا الباب المَطَارِب، وهى طرقٌ ضيِّقة متفرِّقة. وأراها (٢) من باب الإبدال، كأنّها مدارب، مشتقة من الدَّرْب.\nوأمّا قولهم فى الطُّرْطُبّ، إنَّه الثَّدى المسترخِى، وكذلك الطَّرْطَبَة: صوت الحالب بالمِعزَى، فكلُّه وما أشبهه كلام.",
- "az": "[طرب] Ta, ra və ba hərfləri səhih bir kökdür. Deyirlər ki, «الطَّرَب» (tərəb) – şiddətli sevgidən və ya başqa səbəbdən insana gələn yüngülhərevlik halıdır. Beyt oxuyurlar: وقالوا قد طِربْتَ فقلتُ كلاَّ … وهل يبكى من الطَّرَب الجليدُ (Dedilər: sən tərəbləndin (şadlandın), dedim: xeyr... Məgər səbirli adam tərəbdən ağlayarmı?). Nəbighə ibn Cədədən demişdir: وأُرانى طَرِباً فى إثرهِمْ … طرَبَ الوالهِ أو كالمُخْتَبَلْ (Görürəm ki, mən onların ardınca tərəblənmişəm... ağılsız və ya sərxoş adamın tərəbi kimi). Dedilər: «طرَّب فى صوته» (səsini uzatdı), o da birincidəndir. Kərim (səxavətli) insan «طَروب» (tərəbli, şadlanan) olur. Bu fəsildən kənara çıxan «المَطَارِب»dir, o da dar və dağınıq yollardır. Mən hesab edirəm ki, o, əvəzlənmə fəslindəndir, sanki «مدارب» (medarib) sözündəndir, «الدَّرْب» (dərb) sözündən törəmişdir. Amma onların «الطُّرْطُبّ» haqqında dediklərinə gəldikdə, o, sallanan döşdür, həmçinin «الطَّرْطَبَة» – sağıcının keçi sağarkən çıxardığı səsdir; bunların hamısı və bənzərləri söz-söhbətdir.",
+ "az": "[طرب] Ta, ra və ba hərfləri kiçik, səhih bir kökdür. Deyirlər ki, الطَّرَب (insana şiddətli sevincdən və ya başqa səbəbdən gələn yüngüllük/coşqu halı)-dır. Beyt oxuyurlar:\nوقالوا قد طِربْتَ فقلتُ كلاَّ … وهل يبكى من الطَّرَب الجليدُ (Dedilər: sən şadlandın/coşdun, dedim: xeyr... Məgər dözümlü adam şadlıqdan ağlayarmı?).\nBəni Cədə qəbiləsindən olan Nabiğə demişdir:\nوأُرانى طَرِباً فى إثرهِمْ … طرَبَ الوالهِ أو كالمُخْتَبَلْ (١) (Görürəm ki, mən onların ardınca coşmuşam... dərdlidən ağlını itirmiş və ya ağlı qarışmış adamın coşqusu kimi).\nDedilər: طرَّب فى صوته (səsini uzatdı), o da birincidəndir. Səxavətli insan طَروب (coşqulu, şadlanan) olur. Bu fəsildən kənara çıxan المَطَارِب (dar və dağınıq yollar) sözüdür. Mən hesab edirəm ki (٢), o, əvəzlənmə fəslindəndir, sanki الدَّرْب (yol) sözündən törəmiş مدارب sözüdür.\nAmma onların الطُّرْطُبّ (sallanan döş) haqqında dediklərinə, həmçinin الطَّرْطَبَة (sağıcının keçi sağarkən çıxardığı səs) sözünə gəldikdə, bunların hamısı və bənzərləri boş/əsassız sözdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:13:33.432Z"
+ "ts": "2026-10-25T02:13:33.432Z",
+ "prev_az": "[طرب] Ta, ra və ba hərfləri səhih bir kökdür. Deyirlər ki, «الطَّرَب» (tərəb) – şiddətli sevgidən və ya başqa səbəbdən insana gələn yüngülhərevlik halıdır. Beyt oxuyurlar: وقالوا قد طِربْتَ فقلتُ كلاَّ … وهل يبكى من الطَّرَب الجليدُ (Dedilər: sən tərəbləndin (şadlandın), dedim: xeyr... Məgər səbirli adam tərəbdən ağlayarmı?). Nəbighə ibn Cədədən demişdir: وأُرانى طَرِباً فى إثرهِمْ … طرَبَ الوالهِ أو كالمُخْتَبَلْ (Görürəm ki, mən onların ardınca tərəblənmişəm... ağılsız və ya sərxoş adamın tərəbi kimi). Dedilər: «طرَّب فى صوته» (səsini uzatdı), o da birincidəndir. Kərim (səxavətli) insan «طَروب» (tərəbli, şadlanan) olur. Bu fəsildən kənara çıxan «المَطَارِب»dir, o da dar və dağınıq yollardır. Mən hesab edirəm ki, o, əvəzlənmə fəslindəndir, sanki «مدارب» (medarib) sözündəndir, «الدَّرْب» (dərb) sözündən törəmişdir. Amma onların «الطُّرْطُبّ» haqqında dediklərinə gəldikdə, o, sallanan döşdür, həmçinin «الطَّرْطَبَة» – sağıcının keçi sağarkən çıxardığı səsdir; bunların hamısı və bənzərləri söz-söhbətdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«من شدةِ سرورٍ» ifadəsi «şiddətli sevgidən» kimi səhv tərcümə olunmuşdur («şiddətli sevincdən» olmalıdır).",
+  "«خِفّة» sözü «yüngülhərevlik» kimi qeyri-səlis sözlə verilmişdir.",
+  "«نابغة بنى جعدة» adı «Nəbighə ibn Cədədən» kimi səhv tərcümə edilmişdir.",
+  "Haşiyə rəqəmləri (١) və (٢) buraxılmışdır.",
+  "Şeirdəki «الوالهِ» sözü «ağılsız» kimi qeyri-dəqiq verilmişdir.",
+  "«تطرب» sözü «tərəbləndin/tərəblənmişəm» kimi qeyri-azərbaycan sözü ilə verilmişdir."
+ ],
+ "review_ts": "2026-11-21T21:42:23.501Z"
 }
