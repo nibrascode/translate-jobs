@@ -11,9 +11,19 @@
   "page_to": 239
  },
  "ar": "الشين والهمزة والميم أصلٌ واحد يدلُّ على الجانب اليَسار.\nمن ذلك المشأمة، وهى خلاف الميمنة. والشْأم: أرضٌ عن مَشْأمة القِبلة.\nيقال الشَّأمُ والشَّآم. ويقال رجل شآمٍ وامرأةٌ شآمِيَة. قال:\nأُمِّى شآمِيَةً إِذْ لا عرَاقَ لنا … قوماً نودُّهُمُ إِذْ قومُنا شُوسُ (٣)\nورجل مشئومٌ من الشُّؤم.",
- "az": "«شأم»: الشين والهمزة والميم أصلٌ واحد يدلُّ على الجانب اليَسار (Şin, həmzə və mim hərflərindən ibarət olub sol tərəfi bildirən tək bir əsas mənadır).\nمن ذلك المشأمة، وهى خلاف الميمنة (Ondandır əl-məşəmə, bu da sağ tərəfin əksidir). والشْأم: أرضٌ عن مَشْأمة القِبلة (Əş-şam: qiblənin sol tərəfində yerləşən torpaqdır).\nيقال الشَّأمُ والشَّآم (Əş-şam və əş-şam deylir). ويقال رجل شآمٍ وامرأةٌ شآمِيَة (Şamlı kişi və şamlı qadın deyilir). قال (Şair demişdir):\nأُمِّى شآمِيَةً إِذْ لا عرَاقَ لنا … قوماً نودُّهُمُ إِذْ قومُنا شُوسُ (٣)\n(Anam şamlıdır, çünki bizim İraqımız yoxdur. Biz elə bir qövmü sevirik ki, öz qövmümüz isə sərt və təkəbbürlüdür)\nورجل مشئومٌ من الشُّؤم (Uğursuz adam isə şöndən götürülərək məşum adlanır).",
+ "az": "[شأم] Şin, həmzə və mim sol tərəfə dəlalət edən tək bir əsasdır.\nSağ tərəfin (meymənə) əksi olan المشأمة (əl-məş'əmə — sol tərəf) bundandır. الشْأم (əş-Şəm) isə qiblənin sol tərəfində yerləşən diyardır (Şam).\nالشَّأمُ və الشَّآم deyilir. Həmçinin رجل شآمٍ (şamlı kişi) və امرأةٌ شآمِيَة (şamlı qadın) deyilir. Şair demişdir:\nأُمِّى شآمِيَةً إِذْ لا عرَاقَ لنا … قوماً نودُّهُمُ إِذْ قومُنا شُوسُ (٣)\n(Bizim üçün heç bir İraq qalmadığı zaman Şam diyarına üz tut; elə bir qövmə ki, öz qövmümüz bizə təkəbbürlə baxdığı halda, biz onları sevirik).\nالشُّؤم (bədnəzərlik, uğursuzluq) sözündən رجل مشئوم (uğursuz kişi) deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:55:06.969Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شأم»: الشين والهمزة والميم أصلٌ واحد يدلُّ على الجانب اليَسار (Şin, həmzə və mim hərflərindən ibarət olub sol tərəfi bildirən tək bir əsas mənadır).\nمن ذلك المشأمة، وهى خلاف الميمنة (Ondandır əl-məşəmə, bu da sağ tərəfin əksidir). والشْأم: أرضٌ عن مَشْأمة القِبلة (Əş-şam: qiblənin sol tərəfində yerləşən torpaqdır).\nيقال الشَّأمُ والشَّآم (Əş-şam və əş-şam deylir). ويقال رجل شآمٍ وامرأةٌ شآمِيَة (Şamlı kişi və şamlı qadın deyilir). قال (Şair demişdir):\nأُمِّى شآمِيَةً إِذْ لا عرَاقَ لنا … قوماً نودُّهُمُ إِذْ قومُنا شُوسُ (٣)\n(Anam şamlıdır, çünki bizim İraqımız yoxdur. Biz elə bir qövmü sevirik ki, öz qövmümüz isə sərt və təkəbbürlüdür)\nورجل مشئومٌ من الشُّؤم (Uğursuz adam isə şöndən götürülərək məşum adlanır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil.",
+  "Şeir beytindəki «أُمِّي» feli yanlışlıqla «anam» kimi tərcümə edilmişdir (fel «üz tutmaq, getmək» mənasındadır).",
+  "«deylir» və «şöndən» orfoqrafik xətaları vardır."
+ ],
+ "review_ts": "2026-11-21T01:34:14.652Z"
 }

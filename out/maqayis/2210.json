@@ -14,6 +14,10 @@
  "az": "«شدح» (şədəh). Şin, dal və ha köklü sözlərin heç bir əsası yoxdur. Rəvayət edilmişdir ki, «الشَّوْدَحُ» (əş-şövdəh) — dəvələrin hündür olanıdır. Həmçinin deyilmişdir ki, o, sürətli dəvədir. Və «انْشَدَحَ الرَّجلُ» (kişi arxası üstə uzandı) — kişi arxası üstə uzandığı zaman. Lakin bu, heç bir əsası olmayan sözdür, ola bilsin ki, «انسَدَح» (insədəh) sözüdür. Biz bunu artıq qeyd etmişik (2).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:56:06.964Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-21T01:36:03.260Z"
 }

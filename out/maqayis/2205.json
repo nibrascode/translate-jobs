@@ -11,9 +11,18 @@
   "page_to": 255
  },
  "ar": "الشين والدال والفاء يدلُّ على ارتفاعٍ فى شئ. من ذلك الشَّدَف وهو الشَّخص، وقد قلنا إن الشَّخْصَ يدلُّ على سُمُوٍّ وارتفاع. وجمع الشَّدَف شُدوف. ومنه فرسٌ أشدفُ وشُنْدُفٌ. وناسٌ يقولون: الشَّدَف كالميَل فى أحد الشِّقَّيْن والصواب هو الأوّل، وهو أقْيَس. ويقال للقوس: الشّدْفاءُ؛ لاعوجاجها.",
- "az": "«شدف» (şədəf). Şin, dal və fa köklü söz bir şeydə ucalığa dəlalət edir. Bunlardandır: «الشَّدَفُ» (əş-şədəf) – yəni şəxs (qaraltı); biz artıq qeyd etmişdik ki, «şəxs» sözü ucalığa və yüksəksizliyə dəlalət edir. «الشَّدَف» sözünün cəmi «شُدُوف» (şuduf) gəlir. Bunlardandır: «فرسٌ أشدفُ» və «شُنْدُفٌ» (ucaboy/iri at). Bəzi insanlar deyirlər ki: «الشَّدَفُ» – iki tərəfdən birinə meyil etmək kimidir; lakin doğrusu birinci deyiləndir və o, qiyasə daha uyğundur. Yay üçün «الشَّدْفاءُ» (əş-şədfa) denilir ki, bu da onun əyri olmasına görədir.",
+ "az": "[شدف] Şin, dal və fa bir şeydə ucalığa dəlalət edir. Bunlardandır: الشَّدَف - bu, şəxsdir (ucadan görünən qaraltıdır); biz artıq qeyd etmişdik ki, şəxs ucalığa və yüksəkliyə dəlalət edir. الشَّدَف sözünün cəmi شُدوف gəlir. فرسٌ أشدفُ və شُنْدُفٌ (ucaboy at) ifadələri də bundandır. Bəzi insanlar deyirlər ki: الشَّدَف iki tərəfdən birinə meyil etmək kimidir; lakin doğru olan birincisidir və qiyasa daha uyğundur. Yaya da əyriliyinə görə الشّدْفاءُ deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:56:06.964Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شدف» (şədəf). Şin, dal və fa köklü söz bir şeydə ucalığa dəlalət edir. Bunlardandır: «الشَّدَفُ» (əş-şədəf) – yəni şəxs (qaraltı); biz artıq qeyd etmişdik ki, «şəxs» sözü ucalığa və yüksəksizliyə dəlalət edir. «الشَّدَف» sözünün cəmi «شُدُوف» (şuduf) gəlir. Bunlardandır: «فرسٌ أشدفُ» və «شُنْدُفٌ» (ucaboy/iri at). Bəzi insanlar deyirlər ki: «الشَّدَفُ» – iki tərəfdən birinə meyil etmək kimidir; lakin doğrusu birinci deyiləndir və o, qiyasə daha uyğundur. Yay üçün «الشَّدْفاءُ» (əş-şədfa) denilir ki, bu da onun əyri olmasına görədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«yüksəkliyə» əvəzinə «yüksəksizliyə» yazılaraq məna təhrif edilmişdir.",
+  "«qiyasə» əvəzinə «qiyasa» yazılmalıdır."
+ ],
+ "review_ts": "2026-11-21T01:36:03.259Z"
 }

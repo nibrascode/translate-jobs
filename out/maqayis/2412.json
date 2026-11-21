@@ -11,7 +11,16 @@
   "page_to": 373
  },
  "ar": "ضمج الضاد والميم والجيم ليس بشئ، وكذلك ما أشبهه. فأمّا الضَّمْخ بالخاء فصحيح، يقال تضمَّخ بالطِّيب، وهو متضمِّخ.",
- "az": "[ضمج] (Dəməc): Zad, mim və cim hərfləri heç bir şey deyildir, onun bənzərləri də həmçinin. Xa hərfi ilə olan əddəmx (الضَّمْخ) isə səhihdir, deyilir: تضمَّخ بالطِّيب (ətrə bulaşdı), o, mutadimixdir (متضمِّخ — ətrə bürünmüşdür).",
+ "az": "[ضمج] Dad, mim və cim hərfləri bir şey deyildir, onun bənzərləri də həmçinin. Xa hərfi ilə olan الضَّمْخ isə səhihdir, deyilir: تضمَّخ بالطِّيب (ətrə bulaşdı), o, متضمِّخ-dir (ətrə bürünmüşdür).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.137Z"
+ "ts": "2026-10-25T02:04:55.137Z",
+ "prev_az": "[ضمج] (Dəməc): Zad, mim və cim hərfləri heç bir şey deyildir, onun bənzərləri də həmçinin. Xa hərfi ilə olan əddəmx (الضَّمْخ) isə səhihdir, deyilir: تضمَّخ بالطِّيب (ətrə bulaşdı), o, mutadimixdir (متضمِّخ — ətrə bürünmüşdür).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Dad» hərfinin adı səhvən «Zad» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-21T01:39:55.363Z"
 }

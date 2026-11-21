@@ -11,7 +11,19 @@
   "page_to": 375
  },
  "ar": "الضاد والهاء والسين ليس بشئ. على أنّ ابنَ دُرَيد (١) ذكر أن العضَّ بمقدَّم الفم يسمى ضَهْساً، يقال منه ضَهَسَ ضَهْساً. قال: وفى الدُّعاء على الإنسان: «لا تأكُلُ [إلاّ] ضاهساً ولا تشربُ إِلاّ قارساً»، أى إِنّه لا يأكل ما يتكلَّف مضغَه، إنما يَأكل النَّزْر من نبات الأرض. والقارس: البارد، أى لا يشرب إلاّ الماء.",
- "az": "[ضهس] (ض ه س). الضاد والهاء والسين ليس بشئ. على أنّ ابنَ دُرَيد (١) ذكر أن العضَّ بمقدَّم الفم يسمى ضَهْساً، يقال منه ضَهَسَ ضَهْساً. قال: وفى الدُّعاء على الإنسان: «لا تأكُلُ [إلاّ] ضاهساً ولا تشربُ إِلاّ قارساً»، أى إِنّه لا يأكل ما يتكلَّف مضغَه، إنما يَأكل النَّزْر من نبات الأرض. والقارس: البارد، أى لا يشرب إلاّ الماء.\n(Zəmin, hə və sin) — heç bir şey deyil. Lakin İbn Dürəyd (١) qeyd etmişdir ki, ön ağızla dişləməyə «ضَهْس» deyilir, bundan «ضَهَسَ ضَهْساً» fel düzəlir. O demişdir: İnsana qarşı edilən duada: «Sən [ancaq] ضاهس yemə və ancaq qars iç» — yəni o, çeynəməyə çətinlik çəkdiyi şeyi yemir, yalnız yer üzünün azbitki örtüyünü yeyir. «القارس» isə soyuq deməkdir, yəni sudan başqa heç nə içmir.",
+ "az": "[ضهس] Dad, hə və sin — heç bir şey deyildir. Lakin İbn Dürəyd (١) qeyd etmişdir ki, ön ağızla dişləməyə «ضَهْس» deyilir, bundan «ضَهَسَ ضَهْساً» feli işlənir. O demişdir: İnsanın əleyhinə edilən bədduada deyilir: «لا تأكُلُ [إلاّ] ضاهساً ولا تشربُ إِلاّ قارساً» (Ancaq qabaq dişlərinlə gəmirərək yeyəsən və ancaq çox soyuq su içəsən) — yəni o, çeynəməyə çətinlik çəkdiyi şeyi yemir, yalnız yer üzünün az bitki örtüyünü gəmirib yeyir. «القارس» isə soyuq deməkdir, yəni soyuq sudan başqa heç nə içmir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.809Z"
+ "ts": "2026-10-25T02:05:38.809Z",
+ "prev_az": "[ضهس] (ض ه س). الضاد والهاء والسين ليس بشئ. على أنّ ابنَ دُرَيد (١) ذكر أن العضَّ بمقدَّم الفم يسمى ضَهْساً، يقال منه ضَهَسَ ضَهْساً. قال: وفى الدُّعاء على الإنسان: «لا تأكُلُ [إلاّ] ضاهساً ولا تشربُ إِلاّ قارساً»، أى إِنّه لا يأكل ما يتكلَّف مضغَه، إنما يَأكل النَّزْر من نبات الأرض. والقارس: البارد، أى لا يشرب إلاّ الماء.\n(Zəmin, hə və sin) — heç bir şey deyil. Lakin İbn Dürəyd (١) qeyd etmişdir ki, ön ağızla dişləməyə «ضَهْس» deyilir, bundan «ضَهَسَ ضَهْساً» fel düzəlir. O demişdir: İnsana qarşı edilən duada: «Sən [ancaq] ضاهس yemə və ancaq qars iç» — yəni o, çeynəməyə çətinlik çəkdiyi şeyi yemir, yalnız yer üzünün azbitki örtüyünü yeyir. «القارس» isə soyuq deməkdir, yəni sudan başqa heç nə içmir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətni tərcümədən əvvəl olduğu kimi təkrar olunub.",
+  "Hərf adı səhv yazılıb («Zəmin» əvəzinə «Dad»).",
+  "«azbitki» sözü səhv yazılıb.",
+  "Sitatın azərbaycan dilində mənası verilməyib."
+ ],
+ "review_ts": "2026-11-21T01:40:09.046Z"
 }

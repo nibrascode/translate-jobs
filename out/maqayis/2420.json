@@ -11,7 +11,17 @@
   "page_to": 375
  },
  "ar": "الضاد والهاء واللام * أصلان صحيحان، أحدُهما يدلُّ على قلّةٍ والآخر على أوبةٍ.\nفالأوّل: ضَهَلَت الناقةُ إذا قلّ لبنُها. وهى ناقة ضَهُولٌ. وعينٌ ضاهلة: قليلة الماء. و\nفى حديث يحيى بن يَعمر: «إن سألَتْكَ ثمنَ شَكْرها وشَبْرك أنشأتَ تَطُلُّها وتَضْهَلُها». ومن الباب ضَهَل الشّرابُ: قلَّ ورقّ.\nوالأصل الآخر: هل ضَهَل إِليكم خبرٌ، أى عادَ. قال الأصمعى: ضَهَلْتُ إلى فلان: رجعت على وجه المقاتَلة والمغالبة.\nومما شذ عن البابين: أضْهَلَت النّخلةُ: أرطبَتْ.",
- "az": "[ضهل] (ض ه ل). الضاد والهاء واللام * أصلان صحيحان، أحدُهما يدلُّ على قلّةٍ والآخر على أوبةٍ. فالأوّل: ضَهَلَت الناقةُ إذا قلّ لبنُها. وهى ناقة ضَهُولٌ. وعينٌ ضاهلة: قليلة الماء. و فى حديث يحيى بن يَعمر: «إن سألَتْكَ ثمنَ شَكْرها وشَبْرك أنشأتَ تَطُلُّها وتَضْهَلُها». ومن الباب ضَهَل الشّرابُ: قلَّ ورقَّ. والأصل الآخر: هل ضَهَل إِليكم خبرٌ، أى عادَ. قال الأصمعى: ضَهَلْتُ إلى فلان: رجعت على وجه المقاتَلة والمغالبة. ومما شذ عن البابين: أضْهَلَت النّخلةُ: أرطبَتْ.\n(Zəmin, hə və lam) — iki səhih əsasdır, bunlardan biri azlığa, digəri isə qayıdışa dəlalət edir. Birincisi: «ضَهَلَت الناقةُ» — dəvənin südü azaldı. O, «ضَهُولٌ» dəvədir. «عينٌ ضاهلة» — suyu az olan bulaq. Yəhya ibn Yəmərin hədisində: «Əgər o səndən təşəkkürünün və lütfünün əvəzini istəsəydi, sən onu uzatmağa və azaltmağa başlayardın». Bu fəsildəndir: «ضَهَل الشّرابُ» — içki azaldı və durulaşdı. Digər əsas: «هل ضَهَل إِليكم خبرٌ» — yəni sizə xəbər qayıtdımı? Əsməi demişdir: «ضَهَلْتُ إلى فلان» — döyüşmək və üstün gəlmək məqsədilə fəlan kəsin yanına qayıtdım. İki fəsildən kənara çıxan: «أضْهَلَت النّخلةُ» — xurma ağacı yetişdi (və ya yetişməmiş meyvə verdi).",
+ "az": "[ضهل] Dad, hə və lam — iki səhih əsasdır, bunlardan biri azlığa, digəri isə qayıdışa dəlalət edir. Birincisi: «ضَهَلَت الناقةُ» — dəvənin südü azaldı. O, «ضَهُولٌ» dəvədir. «عينٌ ضاهلة» — suyu az olan bulaq. Yəhya ibn Yəmərin hədisində deyilir: «إن سألَتْكَ ثمنَ شَكْرها وشَبْرك أنشأتَ تَطُلُّها وتَضْهَلُها» (Əgər o səndən təşəkkürünün və lütfünün əvəzini istəsəydi, sən onu uzatmağa və azaltmağa başlayardın). Bu fəsildəndir: «ضَهَل الشّرابُ» — içki azaldı və durulaşdı. Digər əsas: «هل ضَهَل إِليكم خبرٌ» — yəni sizə xəbər qayıtdımı? Əsməi demişdir: «ضَهَلْتُ إلى فلان» — döyüşmək və üstün gəlmək məqsədilə filankəsin yanına qayıtdım. İki fəsildən kənara çıxan: «أضْهَلَت النّخلةُ» — xurma ağacı təzə rütəb (yetişməkdə olan meyvə) verdi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.809Z"
+ "ts": "2026-10-25T02:05:38.809Z",
+ "prev_az": "[ضهل] (ض ه ل). الضاد والهاء واللام * أصلان صحيحان، أحدُهما يدلُّ على قلّةٍ والآخر على أوبةٍ. فالأوّل: ضَهَلَت الناقةُ إذا قلّ لبنُها. وهى ناقة ضَهُولٌ. وعينٌ ضاهلة: قليلة الماء. و فى حديث يحيى بن يَعمر: «إن سألَتْكَ ثمنَ شَكْرها وشَبْرك أنشأتَ تَطُلُّها وتَضْهَلُها». ومن الباب ضَهَل الشّرابُ: قلَّ ورقَّ. والأصل الآخر: هل ضَهَل إِليكم خبرٌ، أى عادَ. قال الأصمعى: ضَهَلْتُ إلى فلان: رجعت على وجه المقاتَلة والمغالبة. ومما شذ عن البابين: أضْهَلَت النّخلةُ: أرطبَتْ.\n(Zəmin, hə və lam) — iki səhih əsasdır, bunlardan biri azlığa, digəri isə qayıdışa dəlalət edir. Birincisi: «ضَهَلَت الناقةُ» — dəvənin südü azaldı. O, «ضَهُولٌ» dəvədir. «عينٌ ضاهلة» — suyu az olan bulaq. Yəhya ibn Yəmərin hədisində: «Əgər o səndən təşəkkürünün və lütfünün əvəzini istəsəydi, sən onu uzatmağa və azaltmağa başlayardın». Bu fəsildəndir: «ضَهَل الشّرابُ» — içki azaldı və durulaşdı. Digər əsas: «هل ضَهَل إِليكم خبرٌ» — yəni sizə xəbər qayıtdımı? Əsməi demişdir: «ضَهَلْتُ إلى فلان» — döyüşmək və üstün gəlmək məqsədilə fəlan kəsin yanına qayıtdım. İki fəsildən kənara çıxan: «أضْهَلَت النّخلةُ» — xurma ağacı yetişdi (və ya yetişməmiş meyvə verdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətni tərcümədən əvvəl olduğu kimi təkrar olunub.",
+  "Hərf adı səhv yazılıb («Zəmin» əvəzinə «Dad»)."
+ ],
+ "review_ts": "2026-11-21T01:40:09.046Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 375
  },
  "ar": "الضاد والهاء والدال كلمةٌ واحدة. صَهَدْتُ فلاناً: قهرتُه، فهو مضْطَهَدٌ ومضْهُودٌ.",
- "az": "[ضهد] (ض ه د). الضاد والهاء والدال كلمةٌ واحدة. صَهَدْتُ فلاناً: قهرتُه، فهو مضْطَهَدٌ ومضْهُودٌ.\n(Zəmin, hə və dal) — tək bir kəlmədir. «صَهَدْتُ فلاناً» — mən fəlan kəsi qəhr etdim (zor tətbiq etdim, tabe etdim), o, «مضْطَهَدٌ» və «مضْهُودٌ» (təzyiqə məruz qalmış) kəsdir.",
+ "az": "[ضهد] Dad, hə və dal — tək bir kəlmədir. «صَهَدْتُ فلاناً» — mən filankəsə təzyiq etdim (onu məcbur etdim, qəhr etdim), o, «مضْطَهَدٌ» və «مضْهُودٌ» (təzyiqə/zülmə məruz qalmış) kəsdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.809Z"
+ "ts": "2026-10-25T02:05:38.809Z",
+ "prev_az": "[ضهد] (ض ه د). الضاد والهاء والدال كلمةٌ واحدة. صَهَدْتُ فلاناً: قهرتُه، فهو مضْطَهَدٌ ومضْهُودٌ.\n(Zəmin, hə və dal) — tək bir kəlmədir. «صَهَدْتُ فلاناً» — mən fəlan kəsi qəhr etdim (zor tətbiq etdim, tabe etdim), o, «مضْطَهَدٌ» və «مضْهُودٌ» (təzyiqə məruz qalmış) kəsdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətni tərcümədən əvvəl olduğu kimi təkrar olunub.",
+  "Hərf adı səhv yazılıb («Zəmin» əvəzinə «Dad»)."
+ ],
+ "review_ts": "2026-11-21T01:40:09.046Z"
 }

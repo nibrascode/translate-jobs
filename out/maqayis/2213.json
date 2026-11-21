@@ -11,9 +11,19 @@
   "page_to": 257
  },
  "ar": "الشين والذال والميم ليس بشئ، وذكروا فيه كلمةً يقال إنّها من المقلوب. قالوا: الشَّيذمان الذى فى قول الطرماح:\nفَرَاها الشَّيذُمانُ عن الجَنِينِ (٢)\nيقال إنّما هو الشَّيْمُذان.",
- "az": "«شذم» (şəzm). Şin, zal və mim köklü sözlərin heç bir əsası yoxdur. Burada tərs çevrilmiş (məkulub) kəlmələrdən olduğu deyilən bir söz zikr etmişlər. Dediklərinə görə: Tırmahın bu beytindəki «الشَّيْذَمانُ» (əş-şeyzəman) sözüdür: \n«فَرَاها الشَّيذُمانُ عن الجَنِينِ» (2) \nLakin deyilir ki, əslində bu söz «الشَّيْمُذانُ» (əş-şeymüzan) sözüdür.",
+ "az": "[شذم]\nالشين والذال والميم ليس بشئ (şin, zal və mim heç bir əsasa malik deyildir), burada qəlbi (hərflərinin yeri dəyişmiş) olduğu deyilən bir kəlmə zikr etmişlər. Dedilər ki, الشَّيذمان Tirimmahın bu sözündəki kəlmədir:\nفَرَاها الشَّيذُمانُ عن الجَنِينِ (٢)\n(Qurd onun qarnını yarıb bətnindəki balanı çıxartdı).\nيقال إنّما هو الشَّيْمُذان (deyilir ki, bu söz əslində الشَّيْمُذان kəlməsidir).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:56:06.964Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شذم» (şəzm). Şin, zal və mim köklü sözlərin heç bir əsası yoxdur. Burada tərs çevrilmiş (məkulub) kəlmələrdən olduğu deyilən bir söz zikr etmişlər. Dediklərinə görə: Tırmahın bu beytindəki «الشَّيْذَمانُ» (əş-şeyzəman) sözüdür: \n«فَرَاها الشَّيذُمانُ عن الجَنِينِ» (2) \nLakin deyilir ki, əslində bu söz «الشَّيْمُذانُ» (əş-şeymüzan) sözüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[شذم]» formatında olmalıdır.",
+  "Tirimmahın şeir beyti tərcüməsiz buraxılmışdır.",
+  "Haşiyə nömrəsi ərəb rəqəmi ilə «(٢)» saxlanmalıdır."
+ ],
+ "review_ts": "2026-11-21T01:37:48.960Z"
 }

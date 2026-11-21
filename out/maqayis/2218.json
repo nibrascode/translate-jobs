@@ -11,9 +11,20 @@
   "page_to": 260
  },
  "ar": "الشين والراء والصاد ما أحسب فيه شيئاً * صحيحاً، لأنِّى لا أرى قياسَه مطّرِداً. على أنًّهم يقولون إن الشِّرْصَتَيْن (٥): ناحيتا النّاصية\nمما رقّ فيه الشَّعَر. ويقال لكلِّ ضخمٍ رِخْو: شِرْواص (١). ويقال إنّ الشّرَص الغَلْظ من الأرض.",
- "az": "«شرص» (şərs). Şin, ra və sad köklü sözdə səhih bir şey olduğunu güman etmirəm*, çünki onun qiyasının müntəzəm olduğunu görmürəm. Lakin onlar deyirlər ki, «الشِّرْصَتَانِ» (əl-şirətan) (5) — saçların incəldiyi yerdə alnın hər iki tən yarı yanlarıdır. Hər bir iri və yumşaq olan şeyə «شِرْواص» (şirvas) (1) deyilir. Həmçinin deyirlər ki, «الشَّرَصُ» (əş-şərəc) — torpağın sərt və qaba yeridir.",
+ "az": "[شرص]\nالشين والراء والصاد ما أحسب فيه شيئاً * صحيحاً، لأنِّى لا أرى قياسَه مطّرِداً (şin, ra və sad kökündə səhih bir şey olduğunu güman etmirəm*, çünki onun qiyasının müntəzəm olduğunu görmürəm). Bununla belə onlar deyirlər ki, الشِّرْصَتَيْن (٥): alnın tük seyrələn iki tərəfidir (ناحيتا النّاصية مما رقّ فيه الشَّعَر). Hər bir iri və yumşaq/boş şeyə: شِرْواص (١) deyilir. Deyilir ki, الشّرَص torpağın sərt və qaba yeridir (الغَلْظ من الأرض).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:56:06.965Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شرص» (şərs). Şin, ra və sad köklü sözdə səhih bir şey olduğunu güman etmirəm*, çünki onun qiyasının müntəzəm olduğunu görmürəm. Lakin onlar deyirlər ki, «الشِّرْصَتَانِ» (əl-şirətan) (5) — saçların incəldiyi yerdə alnın hər iki tən yarı yanlarıdır. Hər bir iri və yumşaq olan şeyə «شِرْواص» (şirvas) (1) deyilir. Həmçinin deyirlər ki, «الشَّرَصُ» (əş-şərəc) — torpağın sərt və qaba yeridir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[شرص]» formatında olmalıdır.",
+  "«الشِّرْصَتَيْن» sözünün transkripsiyası səhvən «əl-şirətan» yazılmışdır (əş-şirsətani / əş-şirsəteyn olmalıdır).",
+  "«الشَّرَصُ» sözünün transkripsiyası «əş-şərəc» deyil, «əş-şəras»dır.",
+  "Haşiyə nömrələri ərəb rəqəmləri ilə «(٥)», «(١)» saxlanmalıdır."
+ ],
+ "review_ts": "2026-11-21T01:37:48.962Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 376
  },
  "ar": "الضاد والواو والهمزة أصلٌ صحيح، يدلُّ على نورِ. من\nذلك الضَّوء والضُّوء بمعنًى، وهو الضِّياء والنُّور. قال اللّه تعالى: ﴿فَلَمّا أَضاءَتْ ما حَوْلَهُ﴾. قال أبو عبيد: أضاءت النّارُ وأضاءت غيرَها. وأنشد:\nأضاءت لنا النّار وجهاً أغرَّ … ملتبِساً بالفؤاد التباسا (١)",
- "az": "[ضوأ] (ض و ء). الضاد والواو والهمزة أصلٌ صحيح، يدلُّ على نورِ. من ذلك الضَّوء والضُّوء بمعنًى، وهو الضِّياء والنُّور. قال اللّه تعالى: ﴿فَلَمّا أَضاءَتْ ما حَوْلَهُ﴾. قال أبو عبيد: أضاءت النّارُ وأضاءت غيرَها. وأنشد: أضاءت لنا النّار وجهاً أغرَّ … ملتبِساً بالفؤاد التباسا (١)\n(Zəmin, vav və həmzə) — nura dəlalət edən səhih əsasdır. Bunlardan biri «الضَّوۡء» və «الضُّوء» eyni mənalıdır ki, o da işıq və nur deməkdir. Allah təala buyurmuşdur mənaca tərcümə: «O, ətrafını işıqlandıran zaman». Əbu Übeyd demişdir: Od özünü və başqasını işıqlandırdı. Və (şair) şeir söylədi: «Od bizim üçün parlaq bir üzü işıqlandırdı... qəlbə dərindən sarınmış şəkildə» (١).",
+ "az": "[ضوأ] Dad, vav və həmzə — nura dəlalət edən səhih əsasdır. Bunlardan biri «الضَّوء» və «الضُّوء» eyni mənalı sözlərdir ki, o da işıq və nur deməkdir. Allah təala buyurmuşdur mənaca tərcümə: ﴿فَلَمّا أَضاءَتْ ما حَوْلَهُ﴾ («O, ətrafını işıqlandıran zaman»). Əbu Übeyd demişdir: Od özünü və başqasını işıqlandırdı. Və (şair) şeir söylədi: «أضاءت لنا النّار وجهاً أغرَّ … ملتبِساً بالفؤاد التباسا» (١) (Od bizim üçün qəlbə dərindən sarınmış nurlu bir üzü işıqlandırdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.809Z"
+ "ts": "2026-10-25T02:05:38.809Z",
+ "prev_az": "[ضوأ] (ض و ء). الضاد والواو والهمزة أصلٌ صحيح، يدلُّ على نورِ. من ذلك الضَّوء والضُّوء بمعنًى، وهو الضِّياء والنُّور. قال اللّه تعالى: ﴿فَلَمّا أَضاءَتْ ما حَوْلَهُ﴾. قال أبو عبيد: أضاءت النّارُ وأضاءت غيرَها. وأنشد: أضاءت لنا النّار وجهاً أغرَّ … ملتبِساً بالفؤاد التباسا (١)\n(Zəmin, vav və həmzə) — nura dəlalət edən səhih əsasdır. Bunlardan biri «الضَّوۡء» və «الضُّوء» eyni mənalıdır ki, o da işıq və nur deməkdir. Allah təala buyurmuşdur mənaca tərcümə: «O, ətrafını işıqlandıran zaman». Əbu Übeyd demişdir: Od özünü və başqasını işıqlandırdı. Və (şair) şeir söylədi: «Od bizim üçün parlaq bir üzü işıqlandırdı... qəlbə dərindən sarınmış şəkildə» (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətni tərcümədən əvvəl olduğu kimi təkrar olunub.",
+  "Hərf adı səhv yazılıb («Zəmin» əvəzinə «Dad»)."
+ ],
+ "review_ts": "2026-11-21T01:40:09.047Z"
 }

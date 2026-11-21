@@ -11,7 +11,16 @@
   "page_to": 372
  },
  "ar": "الضاد والميم والزاء أصلٌ صحيح يدلُّ على إمساكٍ فى كلام أو إمساكٍ على شئٍ بفم وما أشبَهَ ذلك. من ذلك ضَمَزَ البَعِيرُ: أَمسك عن الجِرّة. والضَّامز: السّاكت. وقال بشر:\nوقد ضَمَزَتْ بجِرّتها سُلَيْمٌ … مخافتَنا كما ضَمَز الحِمارُ (١)\nوالضَّمْز: ضرب من الأكل، لأنّه إذا أكل أمسَكَ عليه فى فمه. وضَمَز فلانٌ على مالى، أى لزمه (٢).\nومما شذَّ عن هذا الأصل: الضَّمْزَة: الأكَمة الخاشعة، والجمع ضَمْزٌ.",
- "az": "[ضمز] (Dəməz): Zad, mim və zay hərfləri danışıqda susmağa və ya ağızla hər hansı bir şeyi tutub saxlamağa və bu kimi hallara dəlalət edən səhih bir əsasdır. Bunlardandır: ضَمَزَ البَعِيرُ (dəməzə l-bəir) — dəvə gəvərməyi dayandırdı. Əd-damiz (الضَّامز): susan kəsdir. Bişr demişdir: وقد ضَمَزَتْ بجِرّتها سُلَيْمٌ … مخافتَنا كما ضَمَز الحِمارُ (١) (Qorxumuzdan Süleym qəbiləsi gəvərməyi dayandırdı, tıpkı eşşəyin susduğu kimi). Əddəmz (الضَّمْز): bir növ yeməkdir, çünki o yedikdə onu ağzında saxlayır. Və ضَمَز فلانٌ على مالى (filankəs malıma sarıldı) — yəni ona yapışdı, bağlı qaldı. Bu əsasdan istisna olunan kəlmə budur: əddəmzə (الضَّمْزَة): alçaq təpəcikdir, cəmi isə ədmz (ضَمْزٌ) gəlir.",
+ "az": "[ضمز] Dad, mim və zey hərfləri danışıqda susmağa və ya ağızla hər hansı bir şeyi tutub saxlamağa və bu kimi hallara dəlalət edən səhih bir əsasdır. Bunlardandır: ضَمَزَ البَعِيرُ — dəvə gəvərməyi dayandırdı. والضَّامز: susan kəsdir. بشر demişdir:\nوقد ضَمَزَتْ بجِرّتها سُلَيْمٌ … مخافتَنا كما ضَمَز الحِمارُ (١)\n(Qorxumuzdan Süleym qəbiləsi gəvərməyi dayandırdı, tıpkı eşşəyin susduğu kimi).\nوالضَّمْز: bir növ yeməkdir, çünki o yedikdə onu ağzında saxlayır. ضَمَز فلانٌ على مالى — yəni ona yapışdı, ayrılmadı (٢).\nBu əsasdan kənara çıxan kəlmə budur: الضَّمْزَة: alçaq təpəcikdir, cəmi isə ضَمْزٌ gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.136Z"
+ "ts": "2026-10-25T02:04:55.136Z",
+ "prev_az": "[ضمز] (Dəməz): Zad, mim və zay hərfləri danışıqda susmağa və ya ağızla hər hansı bir şeyi tutub saxlamağa və bu kimi hallara dəlalət edən səhih bir əsasdır. Bunlardandır: ضَمَزَ البَعِيرُ (dəməzə l-bəir) — dəvə gəvərməyi dayandırdı. Əd-damiz (الضَّامز): susan kəsdir. Bişr demişdir: وقد ضَمَزَتْ بجِرّتها سُلَيْمٌ … مخافتَنا كما ضَمَز الحِمارُ (١) (Qorxumuzdan Süleym qəbiləsi gəvərməyi dayandırdı, tıpkı eşşəyin susduğu kimi). Əddəmz (الضَّمْز): bir növ yeməkdir, çünki o yedikdə onu ağzında saxlayır. Və ضَمَز فلانٌ على مالى (filankəs malıma sarıldı) — yəni ona yapışdı, bağlı qaldı. Bu əsasdan istisna olunan kəlmə budur: əddəmzə (الضَّمْزَة): alçaq təpəcikdir, cəmi isə ədmz (ضَمْزٌ) gəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Dad» hərfinin adı «Zad», «Zey» hərfinin adı «Zay» yazılmışdır."
+ ],
+ "review_ts": "2026-11-21T01:39:55.362Z"
 }

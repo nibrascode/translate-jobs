@@ -11,7 +11,16 @@
   "page_to": 378
  },
  "ar": "الضاد والواو والراء أُصَيْلٌ صحيح وفيه بعض الإبدال.\nفالتضوُّر: الصِّياح والتلوِّى عند الضَّرب. ويقال هو التقلُّب ظهراً لبَطن. ويقال الضَّوْر: الجُوع الشَّديد.\nوأمّا الإبدال فقال الكسائى: لا يَضُورنى كذا، بمنزلة لا يَضِيرنى. ورجل ضُورَة: ذليل، من هذا.",
- "az": "[ضور] (ض و ر). الضاد والواو والراء أُصَيْلٌ صحيح وفيه بعض الإبدال. فالتضوُّر: الصِّياح والتلوِّى عند الضَّرب. ويقال هو التقلُّب ظهراً لبَطن. ويقال الضَّوْر: الجُوع الشَّديد. وأمّا الإبدال فقال الكسائى: لا يَضُورنى كذا، بمنزلة لا يَضِيرنى. ورجل ضُورَة: ذليل، من هذا.\n(Zəmin, vav və ra) — kiçik səhih əsasdır və onda bəzi əvəzlənmələr vardır. «التضوُّر» — zərbə zamanı qışqırmaq və qıvrılmaqdır. Həmçinin o, arxası üstə və qarnı üstə çۆرülüb-çevrilməkdir. Deyilir: «الضَّوْر» — şiddətli aclıqdır. Əvəzlənməyə gəldikdə, Kəsai demişdir: «لا يَضُورنى كذا» — «لا يَضِيرنى» (bu mənə zərər verməz) mənasındadır. «رجل ضُورَة» — zəlil (alçaq) kişi, bundan götürülmüşdür.",
+ "az": "[ضور] (Dad, vav və ra) — kiçik səhih əsasdır və onda bəzi əvəzlənmələr vardır. «التضوُّر» — zərbə zamanı qışqırmaq və qıvrılmaqdır. Deyilir ki, o, arxası üstə və qarnı üstə çevrilməkdir. Deyilir: «الضَّوْر» — şiddətli aclıqdır. Əvəzlənməyə gəldikdə, Kəsai demişdir: «لا يَضُورنى كذا» — «لا يَضِيرنى» (bu mənə zərər verməz) mənasındadır. «رجل ضُورَة» — zəlil kişi, bundan götürülmüşdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.810Z"
+ "ts": "2026-10-25T02:05:38.810Z",
+ "prev_az": "[ضور] (ض و ر). الضاد والواو والراء أُصَيْلٌ صحيح وفيه بعض الإبدال. فالتضوُّر: الصِّياح والتلوِّى عند الضَّرب. ويقال هو التقلُّب ظهراً لبَطن. ويقال الضَّوْر: الجُوع الشَّديد. وأمّا الإبدال فقال الكسائى: لا يَضُورنى كذا، بمنزلة لا يَضِيرنى. ورجل ضُورَة: ذليل، من هذا.\n(Zəmin, vav və ra) — kiçik səhih əsasdır və onda bəzi əvəzlənmələr vardır. «التضوُّر» — zərbə zamanı qışqırmaq və qıvrılmaqdır. Həmçinin o, arxası üstə və qarnı üstə çۆرülüb-çevrilməkdir. Deyilir: «الضَّوْر» — şiddətli aclıqdır. Əvəzlənməyə gəldikdə, Kəsai demişdir: «لا يَضُورنى كذا» — «لا يَضِيرنى» (bu mənə zərər verməz) mənasındadır. «رجل ضُورَة» — zəlil (alçaq) kişi, bundan götürülmüşdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı yanlışdır («ض» üçün «dad» yazılmalıdır)."
+ ],
+ "review_ts": "2026-11-21T01:40:36.354Z"
 }

@@ -11,9 +11,19 @@
   "page_to": 286
  },
  "ar": "الصاد والعين واللام أُصَيلٌ يدلُّ على صِغرٍ وانجراد. من ذلك الصّعْل، وهو الصّغير الرَّأْس من الرِّجال والنَّعام. وقال:\nصَعْلِ الرَّأْسِ قُلتُ له (١)\nويقال حمار صَعْل: ذاهب الوبر. ويقال رجلٌ أصعَلُ وامرأةٌ صعلاءُ.\nوالصَّعْلة من النَّخْل: العَوجاء الجرداءُ أصول السَّعَف.",
- "az": "[صعل] الصاد والعين واللام أُصَيلٌ يدلُّ على صِغرٍ وانجراد (الصاد, əyn və lam hərfləri kiçikliyə və tükün seyrəkliyinə dəlalət edən kiçik bir əsasdır). من ذلك الصّعْل، وهو الصّغير الرَّأْس من الرِّجال والنَّعام (Ondandır əs-sə'l, o da kişilərdən və dəvəquşulardan başı kiçik olan kimsədir). وقال: صَعْلِ الرَّأْسِ قُلتُ له (١) (Və dedi: başı sə'l olan kimsəyə dedim ki (١)). ويقال حمار صَعْل: ذاهب الوبر (Və deyilir sə'l eşşək: tۈkü tökülmüş). ويقال رجلٌ أصعَلُ وامرأةٌ صعلاءُ (Və deyilir əs'əl kişi və sə'la qadın). والصَّعْلة من النَّخْل: العَوجاء الجرداءُ أصول السَّعَف (Xurma ağaclarından sə'ləh: əyri və xurma budaqlarının əsasları qısır olanıdır).",
+ "az": "[صعل] الصاد və ayn və lam hərfləri kiçikliyə və çılpaqlığa (tükün tökülməsinə) dəlalət edən kiçik bir əsasdır. Ondandır: «الصَّعْل» (əs-sə'l) — kişilərdən və dəvəquşulardan başı kiçik olanıdır. Şair demişdir:\nصَعْلِ الرَّأْسِ قُلتُ له (١)\n(Başı kiçik olana dedim ki (١)).\nDeyilir: «حمار صَعْل» — tükü tökülmüş uzunqulaq. Deyilir: «رجلٌ أصعَلُ وامرأةٌ صعلاءُ». Xurma ağacından «الصَّعْلة» (əs-sə'lə) — əyri və budaqlarının dibi çılpaq/yarpaqsız olanıdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:00:03.201Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[صعل] الصاد والعين واللام أُصَيلٌ يدلُّ على صِغرٍ وانجراد (الصاد, əyn və lam hərfləri kiçikliyə və tükün seyrəkliyinə dəlalət edən kiçik bir əsasdır). من ذلك الصّعْل، وهو الصّغير الرَّأْس من الرِّجال والنَّعام (Ondandır əs-sə'l, o da kişilərdən və dəvəquşulardan başı kiçik olan kimsədir). وقال: صَعْلِ الرَّأْسِ قُلتُ له (١) (Və dedi: başı sə'l olan kimsəyə dedim ki (١)). ويقال حمار صَعْل: ذاهب الوبر (Və deyilir sə'l eşşək: tۈkü tökülmüş). ويقال رجلٌ أصعَلُ وامرأةٌ صعلاءُ (Və deyilir əs'əl kişi və sə'la qadın). والصَّعْلة من النَّخْل: العَوجاء الجرداءُ أصول السَّعَف (Xurma ağaclarından sə'ləh: əyri və xurma budaqlarının əsasları qısır olanıdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «ayn» yerinə «əyn» yazılmışdır.",
+  "«جرداء أصول السعَف» ifadəsi səhv tərcümə edilmişdir (qısır yerinə çılpaq/yarpaqsız).",
+  "Mətndə «tۈkü» şrift xətası vardır."
+ ],
+ "review_ts": "2026-11-21T01:38:28.069Z"
 }

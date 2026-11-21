@@ -11,7 +11,16 @@
   "page_to": 372
  },
  "ar": "الضاد والميم والسين ليس بشئ. وذكر اُبن دريد كلمةً إن صحَّت فهى من باب الإبدال. قال (٣): الضّمْس: المَضْغ. فإن كان كذا * فهو من الضَّمْز.",
- "az": "[ضمس] (Dəməs): Zad, mim və sin hərfləri heç bir şey deyildir. İbn Dürid əgər səhihdirsə, əvəzləmə qapısından olan bir kəlmə zikr etmişdir. O demişdir (٣): əddəms (الضَّمْس): çeynəməkdir. Əgər belədirsə, o zaman o, əddəmzdəndir.",
+ "az": "[ضمس] Dad, mim və sin hərfləri bir şey deyildir. İbn Dureyd bir kəlmə zikr etmişdir ki, əgər səhihdirsə, əvəzləmə qapısındandır. O demişdir (٣): الضّمْس: çeynəməkdir. Əgər belədirsə, o zaman o, الضَّمْز kəlməsindəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:04:55.137Z"
+ "ts": "2026-10-25T02:04:55.137Z",
+ "prev_az": "[ضمس] (Dəməs): Zad, mim və sin hərfləri heç bir şey deyildir. İbn Dürid əgər səhihdirsə, əvəzləmə qapısından olan bir kəlmə zikr etmişdir. O demişdir (٣): əddəms (الضَّمْس): çeynəməkdir. Əgər belədirsə, o zaman o, əddəmzdəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Dad» hərfinin adı səhvən «Zad» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-21T01:39:55.362Z"
 }

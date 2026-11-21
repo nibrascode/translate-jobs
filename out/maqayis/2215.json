@@ -11,9 +11,20 @@
   "page_to": 258
  },
  "ar": "الشين والذال والباء أصلٌ يدلُّ على تجريدِ شئٍ من قِشره، ثم يُحمَل عليه. فالشَّذْب: قَشْر اللَّحم. وكلُّ شئٍ نحَّيتَه عن شئٍ فقد شَذَبته. ومن الباب: التَّشذيب: التقطيع. فأَمَّا الشوْذَب فمن هذا الباب أيضاً، وهو الطَّوِيلُ من كلِّ شئ، كأنّه فى طوله مشذّب، أى مجرَّد؛ وإذا جُرِّد الشّئُ من قِشرِه كانَ أظهَرَ لطُوله. وفرسٌ مشذّب: طويل، بمنزلة الجذْع المشذّب.",
- "az": "«شذب» (şəzb). Şin, zal və ba köklü əsas tək olub, bir şeyi qabığından təmizləməyə (soymağa) dəlalət edir, sonra bu məna başqa sahələrə də şamil edilir. «الشَّذْبُ» (əş-şəzb) – əti qabığından/piyindən təmizləməkdir. Hansı şeyi başqa bir şeydən uzaqlaşdırsan, deməli onu «şəzb» etmisən. Bu bölmədəndir: «التَّشْذِيبُ» (ət-təşzib) – parça-parça doğramaq. «الشَّوْذَبُ» (əş-şövdəb) də məhz bu bölmədəndir; o da hər bir şeyin hündür olanıdır, sanki uzunluğunda təmizlənmiş, yəni qabığından soyulmuş kimidir; əgər bir şey qabığından təmizlənsə, onun uzunluğu daha çox nəzərə çarpıar. «فرسٌ مشذّبٌ» (hündür və incə at) – budqalarından təmizlənmiş kötük dərəcəsində olan hündür at deməkdir.",
+ "az": "[شذب]\nالشين والذال والباء أصلٌ يدلُّ على تجريدِ شئٍ من قِشره، ثم يُحمَل عليه (şin, zal və ba bir şeyi qabığından soyub təmizləməyə dəlalət edən bir əsasdır, sonra digər mənalar buna aid edilir). فالشَّذْب: قَشْر اللَّحم (əti sümükdən sıyırıb təmizləməkdir). Bir şeydən kənarlaşdırdığın hər bir şeyi شَذَبته (onu təmizlədin) etmiş olursan. Bu babdandır: التَّشذيب: التقطيع (parça-parça doğramaq). فأَمَّا الشوْذَب فمن هذا الباب أيضاً (الشوْذَب sözü də bu babdandır), o da hər şeyin uca, hündür olanıdır (وهو الطَّوِيلُ من كلِّ شئ), sanki uzunluğunda budanmış, yəni qabığı soyulmuş kimidir; bir şey qabığından soyulduqda uzunluğu daha çox üzə çıxar. فرسٌ مشذّب: طويل، بمنزلة الجذْع المشذّب (hündür at deməkdir, budanmış xurma ağacı gövdəsi kimidir).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:56:06.964Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شذب» (şəzb). Şin, zal və ba köklü əsas tək olub, bir şeyi qabığından təmizləməyə (soymağa) dəlalət edir, sonra bu məna başqa sahələrə də şamil edilir. «الشَّذْبُ» (əş-şəzb) – əti qabığından/piyindən təmizləməkdir. Hansı şeyi başqa bir şeydən uzaqlaşdırsan, deməli onu «şəzb» etmisən. Bu bölmədəndir: «التَّشْذِيبُ» (ət-təşzib) – parça-parça doğramaq. «الشَّوْذَبُ» (əş-şövdəb) də məhz bu bölmədəndir; o da hər bir şeyin hündür olanıdır, sanki uzunluğunda təmizlənmiş, yəni qabığından soyulmuş kimidir; əgər bir şey qabığından təmizlənsə, onun uzunluğu daha çox nəzərə çarpıar. «فرسٌ مشذّبٌ» (hündür və incə at) – budqalarından təmizlənmiş kötük dərəcəsində olan hündür at deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[شذب]» formatında olmalıdır.",
+  "«الشَّوْذَبُ» sözünün transkripsiyası «əş-şövdəb» deyil, «əş-şəvzəb»dir.",
+  "«الجذْع المشذّب» ifadəsi kötük deyil, budanmış xurma ağacı gövdəsidir.",
+  "İmla səhvləri var («nəzərə çarpıar», «budqalarından»)."
+ ],
+ "review_ts": "2026-11-21T01:37:48.961Z"
 }

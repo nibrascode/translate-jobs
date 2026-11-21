@@ -11,9 +11,18 @@
   "page_to": 256
  },
  "ar": "الشين والدال والخاء كلمةٌ تدلُّ على كسرِ شئٍ أجوفَ.\nمن ذلك شدخت الشئَ شَدْخاً. والمُشَدَّخ: البُسر يُغمَز حتى ينشدخ. ومن ذلك الغُرّة الشَّادِخة: التى تَغْشَى الوجهَ من أصل النّاصية إلى الأنف.",
- "az": "«شدخ» (şədəx). Şin, dal və xa köklü bir kəlmə olub, içi boş olan bir şeyi sındırmağa dəlalət edir. Bunlardandır: «شَدَخْتُ الشَّيْءَ شَدْخاً» (bir şeyi əzib sındırdım). «المُشَدَّx» (əl-muşəddəx) – sıxılaraq qabığı yarılan xam xurmadır. Həmçinin «الغُرَّةُ الشَّادِخَةُ» (alnın başından burnuna qədər uzanan ağ ləkə) – alından burnun kökünə qədər üzü bürüyən ağlığa deyilir.",
+ "az": "[شدخ] Şin, dal və xa içi boş bir şeyi sındırmağa dəlalət edən bir kəlmədir.\nBunlardandır: شدخت الشئَ شَدْخاً (içi boş şeyi əzib sındırdım). والمُشَدَّخ: əzilərək yarılan kal xurmadır. الغُرّة الشَّادِخة də bundandır: alnın kökündən (saç bitən yerdən) burna qədər üzü bürüyən qaşqadır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:56:06.964Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شدخ» (şədəx). Şin, dal və xa köklü bir kəlmə olub, içi boş olan bir şeyi sındırmağa dəlalət edir. Bunlardandır: «شَدَخْتُ الشَّيْءَ شَدْخاً» (bir şeyi əzib sındırdım). «المُشَدَّx» (əl-muşəddəx) – sıxılaraq qabığı yarılan xam xurmadır. Həmçinin «الغُرَّةُ الشَّادِخَةُ» (alnın başından burnuna qədər uzanan ağ ləkə) – alından burnun kökünə qədər üzü bürüyən ağlığa deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb sözünün daxilinə latın qrafikalı hərf qarışmışdır («المُشَدَّx»).",
+  "«من أصل النّاصية إلى الأنف» ifadəsi «alından burnun kökünə qədər» kimi tərsinə tərcümə edilmişdir; doğrusu «alnın kökündən (saç bitən yerdən) burnuna qədər»dir."
+ ],
+ "review_ts": "2026-11-21T01:36:03.260Z"
 }

@@ -11,9 +11,20 @@
   "page_to": 239
  },
  "ar": "الشين والهمزة والياء كلمةٌ من باب الإبدال، على اختلافٍ فيها. قال قوم: شأيت مثل شأوت فى السَّبْق؛ يقال منه شأى واشتأى [قاله المفضّل (١)]، وأنشد:\nفأيِّهْ بكِنْدِيرٍ حِمار أبنِ واقِع … رآك بِكِيرٍ فاشْتَأَى من عُتَائِدِ (٢)\nوقال قوم: اشتأى: أشرفَ. والذى قاله المفضَّل أصوب وأقيَس.",
- "az": "«شأى»: الشين والهمزة والياء كلمةٌ من باب الإبدال (Şin, həmzə və yə hərflərindən ibarət kəlmə əvəzetmə fəslindəndir), على اختلافٍ فيها (bu barədə ixtilaf vardır). قال قوم: شأيت مثل شأوت فى السَّبْق (Bəzi tayfalar dedi: Mən yarışda öt-mək mənasında şəvtu kimi şəytu da dedim); يقال منه شأى واشتأى [قاله المفضّل (١)] (Ondan şəyə və iştəyə felləri düzəlir [bunu Məfəddəl demişdir]), وأنشد (və şeir söylədi):\nفأيِّهْ بكِنْدِيرٍ حِمار أبنِ واقِع … رآك بِكِيرٍ فاشْتَأَى من عُتَائِدِ (٢)\n(Ey İbn Vaqicinhindisək eşşəyi! O səni səhər tezdən gördü və Ütəiddən uzaqlaşıb qabaqladı)\nوقال قوم: اشتأى: أشرفَ (Bəzi tayfalar dedi: İştəyə – ucaldı, yuxarıdan baxdı deməkdir). والذى قاله المفضَّل أصوب وأقيَس (Məfəddəlin dediyi daha doğru və qiyasə uyğundur).",
+ "az": "[شأى] Şin, həmzə və ya — bu barədə fərqli fikirlər olmaqla bərabər — əvəzləmə (ibdal) babından olan bir kəlmədir. Bir qrup dilçi demişdir: Qabaqlamaq, ötmək mənasında شأوت kimi شأيت də deyilir; ondan شأى və اشتأى işlənir [bunu əl-Mufaddal demişdir (١)] və o, bu beyti oxumuşdur:\nفأيِّهْ بكِنْدِيرٍ حِمار أبنِ واقِع … رآك بِكِيرٍ فاشْتَأَى من عُتَائِدِ (٢)\n(İbn Vaqinin ulağı olan Kindirə səs verib hayqır! O, səni səhər tezdən gördü və Utaiddən qabağa keçib ötdü).\nDigər bir qrup isə demişdir: اشتأى (iştə'ə) — ucaldı, yüksəyə qalxdı deməkdir. Əl-Mufaddalın dediyi isə daha doğru və qiyasa daha uyğundur.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:55:06.969Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شأى»: الشين والهمزة والياء كلمةٌ من باب الإبدال (Şin, həmzə və yə hərflərindən ibarət kəlmə əvəzetmə fəslindəndir), على اختلافٍ فيها (bu barədə ixtilaf vardır). قال قوم: شأيت مثل شأوت فى السَّبْق (Bəzi tayfalar dedi: Mən yarışda öt-mək mənasında şəvtu kimi şəytu da dedim); يقال منه شأى واشتأى [قاله المفضّل (١)] (Ondan şəyə və iştəyə felləri düzəlir [bunu Məfəddəl demişdir]), وأنشد (və şeir söylədi):\nفأيِّهْ بكِنْدِيرٍ حِمار أبنِ واقِع … رآك بِكِيرٍ فاشْتَأَى من عُتَائِدِ (٢)\n(Ey İbn Vaqicinhindisək eşşəyi! O səni səhər tezdən gördü və Ütəiddən uzaqlaşıb qabaqladı)\nوقال قوم: اشتأى: أشرفَ (Bəzi tayfalar dedi: İştəyə – ucaldı, yuxarıdan baxdı deməkdir). والذى قاله المفضَّل أصوب وأقيَس (Məfəddəlin dediyi daha doğru və qiyasə uyğundur).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil.",
+  "«قال قوم» ifadəsi «Bəzi tayfalar dedi» kimi səhv tərcümə olunmuşdur («bəziləri / bir qrup adam dedi» olmalıdır).",
+  "«المفضّل» adı «Məfəddəl» kimi təhrif edilmişdir.",
+  "Beytin tərcüməsində kobud səhvlər və təhriflər («İbn Vaqicinhindisək») vardır."
+ ],
+ "review_ts": "2026-11-21T01:34:14.651Z"
 }

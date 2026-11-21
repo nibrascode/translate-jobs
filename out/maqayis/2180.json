@@ -11,9 +11,19 @@
   "page_to": 245
  },
  "ar": "الشين والتاء والحرف المعتلّ أصلٌ واحد لزمانٍ من الأزمنة، وهو الشِّتاء: خلافُ الصَّيف. وهى الشَّتْوة، بفتح الشين. والموضع المَشْتاة والمَشْتَى. قال طَرَفة:\nنَحْنُ فى المشتاةِ ندعُو الجَفَلَى … لا تَرَى الآدِبَ فينا ينتقِرْ\nوقال الخليل: الشِّتاء معروف، والواحد الشَّتوة. وهذا قياسٌ جيِّد، وهو مثل شَكوة وشِكاء. ويقال أشتى القوم، إذا دخَلوا فى الشتاء؛ وشَتَوا، إذا أصابهم الشِّتاء.",
- "az": "«شتو» (şətu). Şin, ta və uzadılan hərf (üçüncü hərf) zamanlardan bir zamana aid olan tək bir kökdür, o da yazın əksi olan qışdır (الشِّتاء). Şin hərfinin fəthi ilə Şətvə (الشَّتْوة) deyilər. Qışlaq yeri isə المَشْتاة (əl-məştat) və المَشْتَى (əl-məştə) olaraq adlandırılır. Tərəfə demişdir: نَحْنُ فى المشتاةِ ندعُو الجَفَلَى … لا تَرَى الآدِبَ فينا ينتقِرْ (Biz qışlaqda böyük dəvətlə çağırarıq... Qonaqlıq verəni aramızda xəsislik edən görməzsən). Xəlil demişdir: Qış məlumdur, təki isə şətvədir (الشتوة). Bu, gözəl bir qiyasdır, şəkvə (شكوة) və şikə (شِكاء) kimidir. Deyilir: qövl qışa daxil olduqda أشتى القوم (əştəti əl-qövm), qış onlara toxunduqda isə شَتَوا (şətəv) deyilər.",
+ "az": "[شتو] Şin, ta və xəstə hərf zamanlardan bir zamana aid olan tək bir əsasdır; o da yayın əksi olan qışdır (الشِّتاء). Şin hərfinin fəthəsi ilə الشَّتْوة deyilir. Qışlamaq üçün olan yerə isə المَشْتاة və المَشْتَى deyilir. Tərəfə demişdir:\nنَحْنُ فى المشتاةِ ندعُو الجَفَلَى … لا تَرَى الآدِبَ فينا ينتقِرْ\n(Biz qış fəslində hər kəsi ümumi ziyafətə çağırırıq; bizdə ziyafət verən kimsənin adam seçib xəsislik etdiyini görməzsən).\nƏl-Xəlil demişdir: الشِّتاء məlumdur, təki isə الشَّتوة şəklindədir. Bu, gözəl bir qiyasdır; necə ki شَكوة və شِكاء sözləri də bu cürdür. Camaat qış fəslinə daxil olduqda أشتى القوم, qış fəslinin soyuğu onlara toxunduqda isə شَتَوا deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:55:28.156Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شتو» (şətu). Şin, ta və uzadılan hərf (üçüncü hərf) zamanlardan bir zamana aid olan tək bir kökdür, o da yazın əksi olan qışdır (الشِّتاء). Şin hərfinin fəthi ilə Şətvə (الشَّتْوة) deyilər. Qışlaq yeri isə المَشْتاة (əl-məştat) və المَشْتَى (əl-məştə) olaraq adlandırılır. Tərəfə demişdir: نَحْنُ فى المشتاةِ ندعُو الجَفَلَى … لا تَرَى الآدِبَ فينا ينتقِرْ (Biz qışlaqda böyük dəvətlə çağırarıq... Qonaqlıq verəni aramızda xəsislik edən görməzsən). Xəlil demişdir: Qış məlumdur, təki isə şətvədir (الشتوة). Bu, gözəl bir qiyasdır, şəkvə (شكوة) və şikə (شِكاء) kimidir. Deyilir: qövl qışa daxil olduqda أشتى القوم (əştəti əl-qövm), qış onlara toxunduqda isə شَتَوا (şətəv) deyilər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil.",
+  "«الصَّيف» sözü «yaz» kimi tərcümə edilmişdir (yay olmalıdır).",
+  "«qövl» (camaat, qövm əvəzinə) orfoqrafik səhvi vardır."
+ ],
+ "review_ts": "2026-11-21T01:34:14.652Z"
 }

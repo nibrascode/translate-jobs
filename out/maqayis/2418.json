@@ -11,7 +11,18 @@
   "page_to": 374
  },
  "ar": "الضاد والهاء والراء ليس بشئ، ولا فيه شاهدُ شعرٍ، لكنهم يقولون: إنّ الضَّهْر: خِلْقَةٌ فى الجبل من صخرٍ يخالف جِبِلّته.",
- "az": "[ضهر] (ض ه ر). الضاد والهاء والراء ليس بشئ، ولا فيه شاهدُ شعرٍ، لكنهم يقولون: إنّ الضَّهْر: خِلْقَةٌ فى الجبل من صخرٍ يخالف جِبِلّته.\n(Zəmin, hə və ra) — heç bir şey deyil və bunda şeir şahidi də yoxdur, lakin deyirlər ki, «الضَّهْر» — dağda onun təbiətindən fərqli olan qayalıq bir xilqətdir (yaradılışdır).",
+ "az": "[ضهر] Dad, hə və ra — heç bir şey deyildir və bunda şeir şahidi də yoxdur. Lakin deyirlər ki, «الضَّهْر» — dağda onun öz təbiətindən fərqli olan qayalıq bir xilqətdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.809Z"
+ "ts": "2026-10-25T02:05:38.809Z",
+ "prev_az": "[ضهر] (ض ه ر). الضاد والهاء والراء ليس بشئ، ولا فيه شاهدُ شعرٍ، لكنهم يقولون: إنّ الضَّهْر: خِلْقَةٌ فى الجبل من صخرٍ يخالف جِبِلّته.\n(Zəmin, hə və ra) — heç bir şey deyil və bunda şeir şahidi də yoxdur, lakin deyirlər ki, «الضَّهْر» — dağda onun təbiətindən fərqli olan qayalıq bir xilqətdir (yaradılışdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətni tərcümədən əvvəl olduğu kimi təkrar olunub.",
+  "Hərf adı səhv yazılıb («Zəmin» əvəzinə «Dad»).",
+  "«yaratmaq» kökündən söz işlədilib."
+ ],
+ "review_ts": "2026-11-21T01:40:09.046Z"
 }

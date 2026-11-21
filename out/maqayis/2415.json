@@ -11,7 +11,18 @@
   "page_to": 374
  },
  "ar": "الضاد والنون والكاف أصلان صحيحان وإن قلَّ فروعُهما فالأوّل الضِّيق، والآخر مرضٌ.\nفالأوَّل الضَّنْك: الضِّيق. ومن الباب امرأةٌ ضِناكٌ: مكتنِزة اللحم، إذا اكتنز تَضَاغَطَ.\nوالأصل الآخر المضنوك: المزكوم. والضُّنَاك الزُّكام. واللّه أعلم.",
- "az": "[ضنك] (ض ن ك). الضاد والنون والكاف أصلان صحيحان وإن قلَّ فروعُهما فالأوّل الضِّيق، والآخر مرضٌ. فالأوَّل الضَّنْك: الضِّيق. ومن الباب امرأةٌ ضِناكٌ: مكتنِزة اللحم، إذا اكتنز تَضَاغَطَ. والأصل الآخر المضنوك: المزكوم. والضُّنَاك الزُّكام. واللّه أعلم.\n(Zəmin, nun və kaf) — hərçənd budaqları az olsa da, iki səhih əsasdır; birincisi darlıq, ikincisi xəstəlikdir. Birincisi «الضَّنْك» (darlıq)dir. Bu fəsildəndir: «امرأةٌ ضِناكٌ» (ətli-qanlı, bədənli qadın), əti bərk olub bir-irinə sıxılarsa. Digər əsas: «المضنوك» — zökəm olmuş kəs. «والضُّنَاك» — zökəm. Ən yaxşısını Allah bilir.",
+ "az": "[ضنك] Dad, nun və kaf — hərçənd budaqları az olsa da, iki səhih əsasdır: birincisi darlıq, ikincisi xəstəlikdir. Birincisi «الضَّنْك» (darlıq) sözüdür. Bu fəsildəndir: «امرأةٌ ضِناكٌ» (ətli-qanlı, bədənli qadın), əti bərk olub bir-birinə sıxılarsa. Digər əsas: «المضنوك» — zökəm olmuş kəs. «الضُّنَاك» isə zökəmdir. Ən doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.809Z"
+ "ts": "2026-10-25T02:05:38.809Z",
+ "prev_az": "[ضنك] (ض ن ك). الضاد والنون والكاف أصلان صحيحان وإن قلَّ فروعُهما فالأوّل الضِّيق، والآخر مرضٌ. فالأوَّل الضَّنْك: الضِّيق. ومن الباب امرأةٌ ضِناكٌ: مكتنِزة اللحم، إذا اكتنز تَضَاغَطَ. والأصل الآخر المضنوك: المزكوم. والضُّنَاك الزُّكام. واللّه أعلم.\n(Zəmin, nun və kaf) — hərçənd budaqları az olsa da, iki səhih əsasdır; birincisi darlıq, ikincisi xəstəlikdir. Birincisi «الضَّنْك» (darlıq)dir. Bu fəsildəndir: «امرأةٌ ضِناكٌ» (ətli-qanlı, bədənli qadın), əti bərk olub bir-irinə sıxılarsa. Digər əsas: «المضنوك» — zökəm olmuş kəs. «والضُّنَاك» — zökəm. Ən yaxşısını Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətni tərcümədən əvvəl olduğu kimi təkrar olunub.",
+  "Hərf adı səhv yazılıb («Zəmin» əvəzinə «Dad»).",
+  "«bir-irinə» sözündə hərf səhvi var."
+ ],
+ "review_ts": "2026-11-21T01:40:09.045Z"
 }

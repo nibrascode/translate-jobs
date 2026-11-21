@@ -11,7 +11,17 @@
   "page_to": 374
  },
  "ar": "الضاد والهاء والياء أصلٌ صحيح يدلُّ على مشابهة شئٍ لشئ (١).\nيقال ضاهاه يُضاهِيه، إِذا شاكَلَهُ؛ وربما هُمِز فقيل يضاهِئُ. والمرأة الضَّهْيَاء، هى التى لا تَحيِض؛ فيجوز على تمحُّلٍ واستكراه، أن يقال كأنّها قد ضاهَت الرِّجالَ فلم تَحِضْ.",
- "az": "[ضهى] (ض ه ي). الضاد والهاء والياء أصلٌ صحيح يدلُّ على مشابهة شئٍ لشئ (١). يقال ضاهاه يُضاهِيه، إِذا شاكَلَهُ؛ وربما هُمِز فقيل يضاهِئُ. والمرأة الضَّهْيَاء، هى التى لا تَحيِض؛ فيجوز على تمحُّلٍ واستكراه، أن يقال كأنّها قد ضاهَت الرِّجالَ فلم تَحِضْ.\n(Zəmin, hə və ya) — bir şeyin başqa bir şeyə bənzəməsinə dəlalət edən səhih əsasdır (١). Deyilir: «ضاهاه يُضاهِيه» — onu bənzətdi, ona oxşatdı; bəzən həmzələnərək «يضاهِئُ» də deyilir. «الضَّهْيَاء» qadın isə heyzdən qalan (aybaşı görməyən) qadındır; məcburən və çətinliklə demək olar ki, o, sanki kişilərə bənzəmiş və buna görə də aybaşı görməmişdir.",
+ "az": "[ضهى] Dad, hə və ya — bir şeyin başqa bir şeyə bənzəməsinə dəlalət edən səhih əsasdır (١). Deyilir: «ضاهاه يُضاهِيه» — ona bənzədi, ona oxşadı; bəzən həmzələnərək «يضاهِئُ» də deyilir. «الضَّهْيَاء» qadın isə heyz görməyən (aybaşı görməyən) qadındır; məcburən və çətinliklə demək olar ki, sanki o, kişilərə bənzəmiş və buna görə də aybaşı görməmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.809Z"
+ "ts": "2026-10-25T02:05:38.809Z",
+ "prev_az": "[ضهى] (ض ه ي). الضاد والهاء والياء أصلٌ صحيح يدلُّ على مشابهة شئٍ لشئ (١). يقال ضاهاه يُضاهِيه، إِذا شاكَلَهُ؛ وربما هُمِز فقيل يضاهِئُ. والمرأة الضَّهْيَاء، هى التى لا تَحيِض؛ فيجوز على تمحُّلٍ واستكراه، أن يقال كأنّها قد ضاهَت الرِّجالَ فلم تَحِضْ.\n(Zəmin, hə və ya) — bir şeyin başqa bir şeyə bənzəməsinə dəlalət edən səhih əsasdır (١). Deyilir: «ضاهاه يُضاهِيه» — onu bənzətdi, ona oxşatdı; bəzən həmzələnərək «يضاهِئُ» də deyilir. «الضَّهْيَاء» qadın isə heyzdən qalan (aybaşı görməyən) qadındır; məcburən və çətinliklə demək olar ki, o, sanki kişilərə bənzəmiş və buna görə də aybaşı görməmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətni tərcümədən əvvəl olduğu kimi təkrar olunub.",
+  "Hərf adı səhv yazılıb («Zəmin» əvəzinə «Dad»)."
+ ],
+ "review_ts": "2026-11-21T01:40:09.045Z"
 }

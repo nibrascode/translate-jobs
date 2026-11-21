@@ -11,9 +11,18 @@
   "page_to": 259
  },
  "ar": "الشين والراء والسين أصلٌ قريب من الذى قبله. من ذلك الشَّرْس: شدّة الدّعْك للشّئ. يقال شرَسْتُه شَرساً. والشّرِيس:\nالشَّكِس الكثير الخِلاف (٢). ويقال تشارَسَ القومُ، إِذا تعادَوا (٣). ويقال إنّ الشَّرْس نبتٌ بَشِع الطّعم. والأشرس: الرّجُل الجرئ على القتال. ويقال إن الشِّراس الرِّباق (٤).",
- "az": "«شرس» (şərs). Şin, ra və sin köklü əsas özündən əvvəlkiyə yaxın bir mənadadır. Bunlardandır: «الشَّرْسُ» (əş-şərs) – bir şeyi şiddətlə sürtmək, ovxalamaq. Deyilir: «شَرَسْتُهُ شَرْساً» (onu şiddətlə sürtdüm). «الشَّرِيسُ» (əş-şəris) – inadkar, çox müxalifət edən (2). Deyilir: «تَشارَسَ القومُ» (qövm bir-birinə düşmən kəsildi) (3). Həmçinin deyirlər ki, «əş-şərs» acı dadlı bir bitkidir. «الأَشْرَسُ» (əl-əşrəs) – döyüşdə cəsur olan kişidir. Deyilir ki, «الشِّراسُ» (əş-şiras) – heyvanı bağlamaq üçün ipdir (4).",
+ "az": "[شرس]\nالشين والراء والسين أصلٌ قريب من الذى قبله (şin, ra və sin özündən əvvəlkinə yaxın bir əsasdır). Bu qəbildəndir: الشَّرْس: شدّة الدّعْك للشّئ (bir şeyi şiddətlə sürtmək, ovxalamaq). Deyilir: شرَسْتُه شَرساً. والشّرِيس: الشَّكِس الكثير الخِلاف (٢) (inadkar, çox müxalifət edən adam). Deyilir: تشارَسَ القومُ، إِذا تعادَوا (٣) (qövm bir-birinə düşmən kəsildikdə deyilir). Deyilir ki, الشَّرْس acı dadlı bir bitkidir (نبتٌ بَشِع الطّعم). والأشرس: الرّجُل الجرئ على القتال (döyüşdə cəsur olan kişi). Deyilir ki, الشِّراس bağlamaq üçün ipdir (الرِّباق) (٤).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T01:56:06.965Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«شرس» (şərs). Şin, ra və sin köklü əsas özündən əvvəlkiyə yaxın bir mənadadır. Bunlardandır: «الشَّرْسُ» (əş-şərs) – bir şeyi şiddətlə sürtmək, ovxalamaq. Deyilir: «شَرَسْتُهُ شَرْساً» (onu şiddətlə sürtdüm). «الشَّرِيسُ» (əş-şəris) – inadkar, çox müxalifət edən (2). Deyilir: «تَشارَسَ القومُ» (qövm bir-birinə düşmən kəsildi) (3). Həmçinin deyirlər ki, «əş-şərs» acı dadlı bir bitkidir. «الأَشْرَسُ» (əl-əşrəs) – döyüşdə cəsur olan kişidir. Deyilir ki, «الشِّراسُ» (əş-şiras) – heyvanı bağlamaq üçün ipdir (4).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[شرس]» formatında olmalıdır.",
+  "Haşiyə nömrələri ərəb rəqəmləri ilə «(٢)», «(٣)», «(٤)» saxlanmalıdır."
+ ],
+ "review_ts": "2026-11-21T01:37:48.962Z"
 }

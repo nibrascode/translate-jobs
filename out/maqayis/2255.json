@@ -11,9 +11,19 @@
   "page_to": 286
  },
  "ar": "الصاد والعين والقاف أصلٌ واحدٌ * يدلُّ على صَلْقةٍ وشِدَّة صوت. من ذلك الصَّعْق، وهو الصَّوت الشَّديد. يقال حمارٌ صَعِقُ الصّوتِ، إذا كان شديدَه. ومنه الصَّاعقة، وهى الوقع الشّديدُ من الرّعْد. ويقال إن الصُّعاق الصَّوت الشديد. ومنه قولهم: صَعِق، إذا ماتَ، كأنَّه أصابته صاعقةٌ.\nقال اللّه تعالى: ﴿وَنُفِخَ فِي اَلصُّورِ فَصَعِقَ مَنْ فِي اَلسَّماواتِ وَمَنْ فِي اَلْأَرْضِ إِلّا مَنْ شاءَ اَللّهُ﴾.",
- "az": "[صعق] الصاد والعين والقاف أصلٌ واحدٌ * يدلُّ على صَلْقةٍ وشِدَّة صوت (الصاد, əyn və qaf hərfləri sərt səslənməyə və səsin şiddətinə dəlalət edən yeganə əsasdır *). من ذلك الصَّعْق، وهو الصَّوت الشَّديد (Ondandır əs-səq, o da şiddətli səsdir). يقال حمارٌ صَعِقُ الصّوتِ، إذا كان شديدَه (Deyilir eşşəyin səsi səqidir, şiddətli olduğu vaxt). ومنه الصَّاعقة، وهى الوقع الشّديدُ من الرّعْد (Və ondandır əs-saiqəh, o da ildırımdan düşən şiddətli zərbədir). ويقال إن الصُّعاق الصَّوت الشديد (Və deyilir ki, əs-suqaq şiddətli səisdir). ومنه قولهم: صَعِق، إذا ماتَ، كأنَّه أصابته صاعقةٌ (Və ondandır onların: səqiqa - öldü sözü, sanki onu ildırım vurmuş kimi). قال اللّه تعالى: ﴿وَنُفِخَ فِي اَلصُّورِ فَصَعِقَ مَنْ فِي اَلسَّماواتِ وَمَنْ فِي اَلارْضِ إِلّا مَنْ شاءَ اَللّهُ﴾ (Uca Allah demişdir: mənaca tərcümə: ﴿Sur çılınacağı zaman Allahın istədiklərindən başqa göylərdə və yerdə kim varsa hamısı öləcəkdir﴾).",
+ "az": "[صعق] الصاد və ayn və qaf hərfləri sərt səslənməyə və səsin şiddətinə dəlalət edən bir əsasdır (*). Ondandır: «الصَّعْق» (əs-səq), o da şiddətli səsdir. «حمارٌ صَعِقُ الصّوتِ» deyilir, səsi şiddətli olduğu vaxt. Ondandır: «الصَّاعقة» (əs-saiqə), o da ildırımdan düşən şiddətli zərbədir. Deyilir ki, «الصُّعاق» şiddətli səsdir. Ondandır onların: «صَعِق» (öldü) sözü, sanki onu ildırım vurmuş kimi. Uca Allah buyurmuşdur: ﴿وَنُفِخَ فِي اَلصُّورِ فَصَعِقَ مَنْ فِي اَلسَّماواتِ وَمَنْ فِي اَلْأَرْضِ إِلّا مَنْ شاءَ اَللّهُ﴾ (mənaca tərcümə: ﴿Sur çalınacağı zaman Allahın istədiklərindən başqa göylərdə və yerdə kim varsa hamısı öləcəkdir﴾).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T02:00:03.201Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[صعق] الصاد والعين والقاف أصلٌ واحدٌ * يدلُّ على صَلْقةٍ وشِدَّة صوت (الصاد, əyn və qaf hərfləri sərt səslənməyə və səsin şiddətinə dəlalət edən yeganə əsasdır *). من ذلك الصَّعْق، وهو الصَّوت الشَّديد (Ondandır əs-səq, o da şiddətli səsdir). يقال حمارٌ صَعِقُ الصّوتِ، إذا كان شديدَه (Deyilir eşşəyin səsi səqidir, şiddətli olduğu vaxt). ومنه الصَّاعقة، وهى الوقع الشّديدُ من الرّعْد (Və ondandır əs-saiqəh, o da ildırımdan düşən şiddətli zərbədir). ويقال إن الصُّعاق الصَّوت الشديد (Və deyilir ki, əs-suqaq şiddətli səisdir). ومنه قولهم: صَعِق، إذا ماتَ، كأنَّه أصابته صاعقةٌ (Və ondandır onların: səqiqa - öldü sözü, sanki onu ildırım vurmuş kimi). قال اللّه تعالى: ﴿وَنُفِخَ فِي اَلصُّورِ فَصَعِقَ مَنْ فِي اَلسَّماواتِ وَمَنْ فِي اَلارْضِ إِلّا مَنْ شاءَ اَللّهُ﴾ (Uca Allah demişdir: mənaca tərcümə: ﴿Sur çılınacağı zaman Allahın istədiklərindən başqa göylərdə və yerdə kim varsa hamısı öləcəkdir﴾).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «ayn» yerinə «əyn» yazılmışdır.",
+  "Ərəbcə Quran ayəsindəki «اَلْأَرْضِ» kəlməsi «اَلارْضِ» kimi hərəkəsiz/səhv yazılmışdır.",
+  "Mətndə «səisdir» (səsdir) və «çılınacağı» (çalınacağı) mexaniki yazı səhvləri vardır."
+ ],
+ "review_ts": "2026-11-21T01:38:28.068Z"
 }

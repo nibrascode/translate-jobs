@@ -11,7 +11,16 @@
   "page_to": 377
  },
  "ar": "الضاد والواو والجيم حرف واحد، وهو الضَّوْج:\nمُنعطَف الوادى، وجمعه أضواج.",
- "az": "[ضوج] (ض و ج). الضاد والواو والجيم حرف واحد، وهو الضَّوْج: مُنعطَف الوادى، وجمعه أضواج.\n(Zəmin, vav və cim) — tək bir hərfdir, o da «الضَّوْج» — vadinin əyilən yeri, döngəsidir, cəmi «أضواج» gəlir.",
+ "az": "[ضوج] (Dad, vav və cim) — tək bir hərfdir (əsasdır), o da «الضَّوْج» — vadinin əyilən yeri, döngəsidir, cəmi «أضواج» gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T02:05:38.809Z"
+ "ts": "2026-10-25T02:05:38.809Z",
+ "prev_az": "[ضوج] (ض و ج). الضاد والواو والجيم حرف واحد، وهو الضَّوْج: مُنعطَف الوادى، وجمعه أضواج.\n(Zəmin, vav və cim) — tək bir hərfdir, o da «الضَّوْج» — vadinin əyilən yeri, döngəsidir, cəmi «أضواج» gəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı yanlışdır («ض» üçün «dad» yazılmalıdır)."
+ ],
+ "review_ts": "2026-11-21T01:40:36.353Z"
 }
