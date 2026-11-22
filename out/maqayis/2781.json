@@ -11,7 +11,16 @@
   "page_to": 302
  },
  "ar": "العين والراء والتَّاء. العَرْت: الدَّلْك. والرُّمْح العَرّات، مثل العَرّاص، وهو المُضطرِب.",
- "az": "[عرت] (eyn, ra və ta). «العَرْت» - ovxalamaq, sürtmək. «الرُّمْح العَرّات» - «əl-arras» (titrəyən, sarsılan) kimi titrəyən nizə.",
+ "az": "[عرت] (eyn, ra və ta). «العَرْت» - ovxalamaq, sürtmək. «الرُّمْح العَرّات» - «العَرّاص» (titrəyən) kimi titrəyən nizədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:31:07.475Z"
+ "ts": "2026-10-25T18:31:07.475Z",
+ "prev_az": "[عرت] (eyn, ra və ta). «العَرْت» - ovxalamaq, sürtmək. «الرُّمْح العَرّات» - «əl-arras» (titrəyən, sarsılan) kimi titrəyən nizə.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə baş söz/termin («العَرّاص») latın əlifbası ilə yazılmışdır."
+ ],
+ "review_ts": "2026-11-22T17:23:51.213Z"
 }

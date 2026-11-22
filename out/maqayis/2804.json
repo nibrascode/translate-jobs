@@ -11,7 +11,16 @@
   "page_to": 321
  },
  "ar": "العين والشين والكاف (٢). ليس فيه معنًى يصحُّ، وربَّما قالوا يَعْشِك ويَحْشِك، أى يفرِّق ويجمع. وليس بشئ.",
- "az": "[عشك] (eyn, şin və kaf) (2). Burada səhih bir məna yoxdur. Bəzən deyirlər: يَعْشِك və يَحْشِك (yəşiku və yəhşiku), yəni ayırır və birləşdirir. Bu, heç bir şey deyil.",
+ "az": "[عشك] (eyn, şin və kaf) (٢). Onda səhih olan bir məna yoxdur. Bəzən deyirlər: يَعْشِك və يَحْشِك (yəşiku və yəhşiku), yəni ayırır və toplayır. Bu, heç bir şey deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:32:09.592Z"
+ "ts": "2026-10-25T18:32:09.592Z",
+ "prev_az": "[عشك] (eyn, şin və kaf) (2). Burada səhih bir məna yoxdur. Bəzən deyirlər: يَعْشِك və يَحْشِك (yəşiku və yəhşiku), yəni ayırır və birləşdirir. Bu, heç bir şey deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi ərəb qrafikası ilə (٢) kimi saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-22T17:26:26.147Z"
 }

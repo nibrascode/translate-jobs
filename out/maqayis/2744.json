@@ -11,7 +11,16 @@
   "page_to": 231
  },
  "ar": "العين والجيم والدال ليس بشئ، على أنهم يقولون: العُجْد:\nالزبيب. ويقال هو العُنْجُد.",
- "az": "[عجد] «العين» (عين), «الجيم» (جيم) və «الدال» (دال) bir şey deyildir. Lakin onlar «العُجْد» (əl-ücd) – kişmiş deməkdir, deyirlər. Həmçinin onun «العُنْجُد» (əl-üncüd) olduğu da söylənir.",
+ "az": "[عجد] عين, cim və dal bir şey (əsl kök) deyildir. Lakin onlar العُجْد: kişmişdir deyirlər. Onun العُنْجُد olduğu da söylənilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:12:45.079Z"
+ "ts": "2026-10-25T14:12:45.079Z",
+ "prev_az": "[عجد] «العين» (عين), «الجيم» (جيم) və «الدال» (دال) bir şey deyildir. Lakin onlar «العُجْد» (əl-ücd) – kişmiş deməkdir, deyirlər. Həmçinin onun «العُنْجُد» (əl-üncüd) olduğu da söylənir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərflərin adları Azərbaycan dilində yazılmayıb (mötərizədə ərəbcə hərflər təkrar edilib)."
+ ],
+ "review_ts": "2026-11-22T17:14:45.698Z"
 }

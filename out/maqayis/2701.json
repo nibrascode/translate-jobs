@@ -11,7 +11,18 @@
   "page_to": 187
  },
  "ar": "العين والواو والسين كلمةٌ قد ذكرها أهلُ اللُّغة، وقياسُها قياسٌ صحيح بعيد. قالوا: العَوَاساء: الحامل من الخنافس، وأنشدوا:\nبِكراً عَواساء تَفَاسَى مُقْرِبَا (٤)\nأى دنا أن تضع حَمْلها. ويقولون: العَوَسانُ والعَوْس: الطّوفَان بالّليل.\nويقولون أيضاً: الأعوس: الصَّيْقَل. والأعوس: الوصَّاف للشئ. وكلُّ هذا مما لا يكاد القلبُ يسكُن إلى صحَّته.",
- "az": "[عوس] (gəzmək, axtarmaq). العين (ayn), الواو (vav) və السين (sin) – dilçilərin zikr etdiyi, lakin qaydasının düzgünlüyü uzaq və zəif olan bir kəlmədir. Dedikləri budur: العَوَاساء – hamilə qara böcək, və dəlil olaraq bunu oxumuşlar: بِكراً عَواساء تَفَاسَى مُقْرِبَا (٤) (Yaxın zamanda doğmağa hazırlaşan hamilə dişi böcək). Və deyirlər: العَوَسان və العَوْس – gecə vaxtı dolanmaq. Həmçinin deyirlər: الأعوس – misgər/cilalayıcı. الأعوس – hər şeyi təsvir edən. Bütün bunlar qəlbin düzgünlüyünə asanlıqla inana bilmədiyi şeylerdəndir.",
+ "az": "[عوس]\nالعين, الواو və السين dilçilərin zikr etdiyi bir kəlmədir; onun qiyası uzaq da olsa, səhih bir qiyasdır. Demişlər: العَوَاساء – qara böcəklərin boğaz olanıdır (hamiləsidir), və bu beyti oxumuşlar:\nبِكراً عَواساء تَفَاسَى مُقْرِبَا (٤)\nأى دنا أن تضع حَمْلها (yəni yükünü qoyması / balalaması yaxınlaşdı). Və deyirlər: العَوَسانُ və العَوْس – gecə vaxtı dolanmaqdır.\nHəmçinin deyirlər: الأعوس – qılınc cilalayan. Və الأعوس – bir şeyi çox vəsf edən. Bütün bunlar qəlbin səhhətinə (doğruluğuna) güclə arxayın olduğu şeylərdəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:09:58.349Z"
+ "ts": "2026-10-25T14:09:58.349Z",
+ "prev_az": "[عوس] (gəzmək, axtarmaq). العين (ayn), الواو (vav) və السين (sin) – dilçilərin zikr etdiyi, lakin qaydasının düzgünlüyü uzaq və zəif olan bir kəlmədir. Dedikləri budur: العَوَاساء – hamilə qara böcək, və dəlil olaraq bunu oxumuşlar: بِكراً عَواساء تَفَاسَى مُقْرِبَا (٤) (Yaxın zamanda doğmağa hazırlaşan hamilə dişi böcək). Və deyirlər: العَوَسان və العَوْس – gecə vaxtı dolanmaq. Həmçinin deyirlər: الأعوس – misgər/cilalayıcı. الأعوس – hər şeyi təsvir edən. Bütün bunlar qəlbin düzgünlüyünə asanlıqla inana bilmədiyi şeylerdəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وقياسُها قياسٌ صحيح بعيد» cümləsi təhrif edilmişdir («qaydasının düzgünlüyü uzaq və zəif olan» kimi verilmişdir, halbuki «qiyası uzaq da olsa, səhih bir qiyasdır» deməkdir).",
+  "«أى دنا أن تضع حَمْلها» ərəbcə izahı mətndən buraxılmışdır.",
+  "«الصَّيْقَل» sözü «misgər» deyil, «qılınc cilalayan (pardaqlayan)» deməkdir."
+ ],
+ "review_ts": "2026-11-22T17:04:43.603Z"
 }

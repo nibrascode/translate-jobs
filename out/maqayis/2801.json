@@ -13,5 +13,10 @@
  "ar": "العين والسين والدال ليس فيه ما يُعوَّل على صحَّته، إلاّ أنّهم يقولون: عَسَدَ، إذا جامَعَ. ويقولون العِسْوَدّة: دويْبَّة. وليس بشئ.",
  "az": "[عسد] (ə-s-d): Eyn, sin və dal hərfləridir. Burada səhihliyinə güvəniləcək heç nə yoxdur, yalnız deyirlər ki, عَسَدَ (əsədə) — cinsi əlaqədə oldu, deməkdir. Və deyirlər ki, العِسْوَدّة (əl-isvəddə) — kiçik bir canlıdır. Bu isə heç bir şey deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:31:51.392Z"
+ "ts": "2026-10-25T18:31:51.392Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-22T17:25:28.273Z"
 }

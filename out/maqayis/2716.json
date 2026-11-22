@@ -11,7 +11,16 @@
   "page_to": 198
  },
  "ar": "العين واللام والياء، ليس (١)] فيه إلاّ ما هو منقلب عن واو. العيْلة: الفاقة والحاجة، يقال عالَ يَعِيل عَيْلةً، إذا احتاج. قال اللّه تعالى:\n﴿وَإِنْ خِفْتُمْ عَيْلَةً﴾. و\nفى الحديث: «ما عالَ مقتصد». وقال:\nمَنْ عال مِنَّا بَعدها فَلَا انْجَبَر (٢)\nوعَيْلان: اسم.",
- "az": "[عيل] (Ayn, lam və ya): (١) [burada] yalnız vav hərfindən dönmə olanlar var. Əl-əylə (العَيْلة): yoxsulluq və ehtiyac; ehtiyaclı olduqda عالَ يَعِيل عَيْلةً deyilir. Uca Allah demişdir: mənaca tərcümə: ﴿وَإِنْ خِفْتُمْ عَيْلَةً﴾ [Və əgər yoxsulluqdan qorxsanız]. Hədisdə: «ما عالَ مقتصد» [Qənaətcil olan yoxsul olmaz]. Və dedi: مَنْ عال مِنَّا بَعدها فَلَا انْجَبَر (٢) [Bizdən bundan sonra ehtiyac içində olan kimsə heç vaxt sağalmasın]. Və Eylan (عَيْلان): ad.",
+ "az": "[عيل]\nالعين واللام والياء (ayn, lam və ya): [burada] (١) yalnız vav hərfindən dönmə olan kəlmələr var. العيْلة (əl-eylə): yoxsulluq və ehtiyac. Deyilir: عالَ يَعِيل عَيْلةً — ehtiyaclı olduqda. Uca Allah buyurmuşdur:\n﴿وَإِنْ خِفْتُمْ عَيْلَةً﴾ mənaca tərcümə: Və əgər yoxsulluqdan qorxsanız.\nHədisdə gəlmişdir: «ما عالَ مقتصد» (Qənaətcil olan yoxsul olmaz). Və demişdir:\nمَنْ عال مِنَّا بَعدها فَلَا انْجَبَر (٢)\n(Məna: Bizdən bundan sonra ehtiyac içində olan kimsə heç vaxt sağalmasın).\nVə عَيْلان (Eylan): ad.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:10:30.244Z"
+ "ts": "2026-10-25T14:10:30.244Z",
+ "prev_az": "[عيل] (Ayn, lam və ya): (١) [burada] yalnız vav hərfindən dönmə olanlar var. Əl-əylə (العَيْلة): yoxsulluq və ehtiyac; ehtiyaclı olduqda عالَ يَعِيل عَيْلةً deyilir. Uca Allah demişdir: mənaca tərcümə: ﴿وَإِنْ خِفْتُمْ عَيْلَةً﴾ [Və əgər yoxsulluqdan qorxsanız]. Hədisdə: «ما عالَ مقتصد» [Qənaətcil olan yoxsul olmaz]. Və dedi: مَنْ عال مِنَّا بَعدها فَلَا انْجَبَر (٢) [Bizdən bundan sonra ehtiyac içində olan kimsə heç vaxt sağalmasın]. Və Eylan (عَيْلان): ad.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «العين واللام والياء» mətni saxlanılmamış, yalnız transliterasiya yazılmışdır."
+ ],
+ "review_ts": "2026-11-22T17:10:50.970Z"
 }

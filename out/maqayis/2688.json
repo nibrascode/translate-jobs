@@ -11,7 +11,17 @@
   "page_to": 167
  },
  "ar": "العين والهاء والجيم كلمةٌ صحيحة لا قياسَ لها ولا عليها. قالوا:\nالعوهج: ظبيةٌ حسَنة اللّون طويلةُ العنُق. وتسمَّى المرأة «عوهجَ (١)» تشبيهاً لها بها. قال الأصمعىّ: العَوهج: المخطَّطة العنق. ويقال للنَّعامة أيضاً عوهج، لطول عنُقها. قال العجّاج:\nكالحَبَشىِّ التفَّ أو تسبَّجا … فى شَمْلَةٍ أو ذاتِ زِفٍّ عَوْهَجَا (٢)\nويقال للنّاقةِ الفتِيّة: عوهج. ويقولون للحيّة: عوهج. قال:\nحَصْبَ الغُواةِ العوهجَ المنسُوسا (٣)\nالمنْسوس: المطرود.",
- "az": "[عهج] Ayn, hə və cim hərfləri düzgün bir kəlmədir, onun nə qiyası var, nə də ona qiyas edilir. Demişlər ki: «العوهج» (əl-əvhəc) - rəngi gözəl və boynu uzun olan ceyrandır. Qadına da ona bənzədilərək «عوهج» (əvhəc) deyilir. Əsmai demişdir: «العَوهج» (əl-əvhəc) - boynu cizgili olandır. Dəvəquşuna da uzun boynuna görə «عوهج» (əvhəc) deyilir. Əccac demişdir: «كالحَبَشىِّ التفَّ أو تسبَّجا … فى شَمْلَةٍ أو ذاتِ زِفٍّ عَوْهَجَا» (Həbəşli kimi bürünmüş və ya sarınmış... bir əba içində və ya tüklü bir şeydə olan uzun boylu). Gənc dəvəyə də «عوهج» (əvhəc) deyilir. İlana da «عوهج» (əvhəc) deyirlər. O demişdir: «حَصْبَ الغُواةِ العوهجَ المنسُوسا» (Azğınların daşladığı, uzun boylu və qovulmuş). «المنْسوس» (əl-mənsus): qovulmuş deməkdir.",
+ "az": "[عهج] Ayn, hə və cim hərfləri düzgün bir kəlmədir, onun nə qiyası var, nə də ona qiyas edilir. Demişlər ki:\n«العوهج» - rəngi gözəl və boynu uzun olan ceyrandır. Qadına da ona bənzədilərək «عوهج (١)» deyilir. Əsmai demişdir: «العَوهج» - boynu zolaqlı olandır. Dəvəquşuna da uzun boynuna görə «عوهج» deyilir. Əccac demişdir:\nكالحَبَشىِّ التفَّ أو تسبَّجا … فى شَمْلَةٍ أو ذاتِ زِفٍّ عَوْهَجَا (٢)\n(Bürünmüş və ya qara əbaya sarınmış Həbəşli kimi... yaxud tüklü, uzunboylu bir dəvəquşu kimi).\n\nGənc dəvəyə də «عوهج» deyilir. İlana da «عوهج» deyirlər. Şair demişdir:\nحَصْبَ الغُواةِ العوهجَ المنسُوسا (٣)\n(Azğınların daşladığı uzun, qovulmuş ilan kimi).\n«المنْسوس» - qovulmuş deməkdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-25T14:07:29.167Z"
+ "ts": "2026-10-25T14:07:29.167Z",
+ "prev_az": "[عهج] Ayn, hə və cim hərfləri düzgün bir kəlmədir, onun nə qiyası var, nə də ona qiyas edilir. Demişlər ki: «العوهج» (əl-əvhəc) - rəngi gözəl və boynu uzun olan ceyrandır. Qadına da ona bənzədilərək «عوهج» (əvhəc) deyilir. Əsmai demişdir: «العَوهج» (əl-əvhəc) - boynu cizgili olandır. Dəvəquşuna da uzun boynuna görə «عوهج» (əvhəc) deyilir. Əccac demişdir: «كالحَبَشىِّ التفَّ أو تسبَّجا … فى شَمْلَةٍ أو ذاتِ زِفٍّ عَوْهَجَا» (Həbəşli kimi bürünmüş və ya sarınmış... bir əba içində və ya tüklü bir şeydə olan uzun boylu). Gənc dəvəyə də «عوهج» (əvhəc) deyilir. İlana da «عوهج» (əvhəc) deyirlər. O demişdir: «حَصْبَ الغُواةِ العوهجَ المنسُوسا» (Azğınların daşladığı, uzun boylu və qovulmuş). «المنْسوس» (əl-mənsus): qovulmuş deməkdir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmləri (١), (٢), (٣) ixtisar olunmuşdur.",
+  "Abzas bölgüsü pozulmuşdur."
+ ],
+ "review_ts": "2026-11-22T16:51:59.216Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 150
  },
  "ar": "العين والنون والباب أُصَيلٌ يدلُّ على ثمرٍ معروف، وكلمةٍ غير ذلك.\nفالثَّمر العِنَب، واحدته عِنَبة. ويقولون: ليس فى كلامهم فِعَلة إلاّ عِنَبة.\nوربَّما قالوا للعِنَب العِنَباء. قال:\nالعِنَباءَ المتَنَقّى والتِّينْ (١)\nوربَّما جمعوا العنب على الأعناب. ويقال رجل عانِبٌ، أى كثير العنب، كما يقال تامرٌ ولابنٌ.\nوالكلمة الأخرى: العَنَبان، على وزن فَعَلان: الوَعِل الطَّويل القرون. قال:\nيشدُّ شدّ العَنَبانِ البارِحِ\nويقال للظَّبْى النَّشيط: العَنَبان، ولا يُبنَى منه فِعْل.",
- "az": "«عنب» — عَيْن, نun və ba hərflərindən ibarət olub məşhur meyvəyə və başqa bir sözə dəlalət edən kiçik bir kökdür.\n\nMeyvə olan — العِنَب (üzüm), təkliyi عِنَبَة-dır (üzüm dənəsi). Deyirlər ki, onların dilində فِعَلة (fiələ) vəznində yalnız عِنَبَة sözü vardır. Bəzən üzümə العِنَباء da deyirlər. O demişdir:\nالعِنَباءَ المتَنَقّى والتِّينْ\n(Seçilmiş üzümü və ənciri).\n\nBəzən üzümü الأعناب (üzümlər) olaraq cəmləyirlər. Deyilir: رجل عانِبٌ (Çox üzümü olan adam), necə ki, tamer (çox xurması olan) və labin (çox südü olan) denilir.\n\nDigər söz isə: فَعَلان vəznində olan العَنَبان — uzun buynuzlu dağ keçisidir (vəil). O demişdir:\nيشدُّ شدّ العَنَبانِ البارِحِ\n(Qaçan dağ keçisinin qaçışı kimi qaçır).\n\nÇevik ceyrana da العَنَبان deyilir və ondan heç bir f فعل (fəil) düzəldilmir.",
+ "az": "[عنب]\nAyn, nun və ba hərfləri məşhur bir meyvəyə və başqa bir sözə dəlalət edən kiçik bir kökdür.\nMeyvə olan — العِنَب (üzüm), təkliyi عِنَبة (bir üzüm dənəsi). Deyirlər ki, onların dilində فِعَلة vəznində yalnız عِنَبة sözü vardır.\nBəzən üzümə العِنَباء da deyirlər. (Şair) demişdir:\nالعِنَباءَ المتَنَقّى والتِّينْ (١)\n(Seçilmiş üzümü və ənciri).\nBəzən العنب (üzüm) sözünü الأعناب (üzümlər) şəklində cəmləyirlər. Çox üzümü olan adama رجل عانِبٌ deyilir, necə ki, تامرٌ (çox xurması olan) və لابنٌ (çox südü olan) deyilir.\nDigər söz isə: فَعَلان vəznində olan العَنَبان — uzun buynuzlu dağ keçisidir. (Şair) demişdir:\nيشدُّ شدّ العَنَبانِ البارِحِ\n(Yoldan ötüb qaçan dağ keçisinin qaçışı kimi qaçır).\nÇevik ceyrana da العَنَبان deyilir və ondan feil düzəldilmir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:04:07.459Z"
+ "ts": "2026-10-25T14:04:07.459Z",
+ "prev_az": "«عنب» — عَيْن, نun və ba hərflərindən ibarət olub məşhur meyvəyə və başqa bir sözə dəlalət edən kiçik bir kökdür.\n\nMeyvə olan — العِنَب (üzüm), təkliyi عِنَبَة-dır (üzüm dənəsi). Deyirlər ki, onların dilində فِعَلة (fiələ) vəznində yalnız عِنَبَة sözü vardır. Bəzən üzümə العِنَباء da deyirlər. O demişdir:\nالعِنَباءَ المتَنَقّى والتِّينْ\n(Seçilmiş üzümü və ənciri).\n\nBəzən üzümü الأعناب (üzümlər) olaraq cəmləyirlər. Deyilir: رجل عانِبٌ (Çox üzümü olan adam), necə ki, tamer (çox xurması olan) və labin (çox südü olan) denilir.\n\nDigər söz isə: فَعَلان vəznində olan العَنَبان — uzun buynuzlu dağ keçisidir (vəil). O demişdir:\nيشدُّ شدّ العَنَبانِ البارِحِ\n(Qaçan dağ keçisinin qaçışı kimi qaçır).\n\nÇevik ceyrana da العَنَبان deyilir və ondan heç bir f فعل (fəil) düzəldilmir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq [عنب] formatında deyil və hərf adlarında qarışıq əlifba (نun) işlədilib.",
+  "Mətndə pozulmuş ifadə (ف فعل (fəil)), Türkiyə türkcəsi/yazı xətası (denilir) var.",
+  "Haşiyə rəqəmi (١) buraxılıb və تامرٌ ولابنٌ sözləri ərəb qrafikası ilə verilməyib."
+ ],
+ "review_ts": "2026-11-22T16:37:04.795Z"
 }

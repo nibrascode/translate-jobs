@@ -11,7 +11,16 @@
   "page_to": 205
  },
  "ar": "العين والباء والجيم ليس عند الخليل [فيه] شئ. وقد قيل العَبَجَة: الأحمق.",
- "az": "[عبج] / العين (ayn), الباء (ba) və الجيم (cim). Xəlil [bu kök barəsində] heç nə qeyd etməmişdir. Lakin «اَلْعَبَجَة» (əl-əbəcə) sözünün axmaq mənasında olduğu verilmişdir.",
+ "az": "[عبج] عين (ayn), با (ba) və cim (cim). Xəlilin yanında [bu kök barəsində] heç nə yoxdur. Deyilmişdir ki, العَبَجَة: axmaq deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:11:17.268Z"
+ "ts": "2026-10-25T14:11:17.268Z",
+ "prev_az": "[عبج] / العين (ayn), الباء (ba) və الجيم (cim). Xəlil [bu kök barəsində] heç nə qeyd etməmişdir. Lakin «اَلْعَبَجَة» (əl-əbəcə) sözünün axmaq mənasında olduğu verilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«العَبَجَة» sözünə AR mətnində olmayan artıq hərəkələr əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-22T17:11:44.784Z"
 }

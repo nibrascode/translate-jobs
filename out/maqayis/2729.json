@@ -11,7 +11,16 @@
   "page_to": 215
  },
  "ar": "العين والباء والنون صحيحٌ، فيه كلمةٌ واحدة. يقولون:\nإنّ العَبَنَّ: الجملُ الضَّخم الجسيم. ويقال العَبَنّ ويقال العَبَنَّى، والأنثى عَبَنّاة. وكلُّ ذلك واحد. وربَّما وصَفوا به الرّجل. وقال حُميدٌ فى صفة بعير:\nأمينٌ عَبَنُّ الخَلْقِ مختلِف الشَّبَا … يقول المُمارِى طال ما كان مُقْرَما (١)",
- "az": "[عبن] (ə-b-n). Eyn, ba və nun səhihdir, içində tək bir kəlmə vardır. Deyirlər ki: العَبَنَّ (əl-əbənn) – böyük, cisimli dəvədir. Deyilir: العَبَنّ (əl-əbənn) və العَبَنَّى (əl-əbənnəti), dişi isə عَبَنّاة (əbənnah). Hamısı eyni mənadadır. Bəzən bunu kişi üçün də sifət olaraq işlədirlər. Humeyd bir dəvəni vəsf edərək demişdir: أمينٌ عَبَنُّ الخَلْقِ مختلِف الشَّبَا … يقول المُمارِى طال ما كان مُقْرَما (Əmin, xilqəti iri, böyürləri fərqli... mübahisə edən deyir: nə qədər də damazlıq idi) (١).",
+ "az": "[عبن] (ə-b-n). Eyn, ba və nun səhihdir, içində tək bir kəlmə vardır. Deyirlər ki: إنّ العَبَنَّ (əl-əbənn) – böyük, cüssəli dəvədir. Deyilir: العَبَنّ (əl-əbənn) və deyilir: العَبَنَّى (əl-əbənna), dişi isə عَبَنّاة (əbənnah). Hamısı eyni mənadadır. Bəzən bununla kişini də vəsf edirlər. Humeyd dəvənin vəsfində demişdir: أمينٌ عَبَنُّ الخَلْقِ مختلِف الشَّبَا … يقول المُمارِى طال ما كان مُقْرَما (١) (Möhkəm, xilqəti iri, addımları/hücumları fərqli... şübhə edən deyir: nə qədər də damazlıq idi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:11:38.797Z"
+ "ts": "2026-10-25T14:11:38.797Z",
+ "prev_az": "[عبن] (ə-b-n). Eyn, ba və nun səhihdir, içində tək bir kəlmə vardır. Deyirlər ki: العَبَنَّ (əl-əbənn) – böyük, cisimli dəvədir. Deyilir: العَبَنّ (əl-əbənn) və العَبَنَّى (əl-əbənnəti), dişi isə عَبَنّاة (əbənnah). Hamısı eyni mənadadır. Bəzən bunu kişi üçün də sifət olaraq işlədirlər. Humeyd bir dəvəni vəsf edərək demişdir: أمينٌ عَبَنُّ الخَلْقِ مختلِف الشَّبَا … يقول المُمارِى طال ما كان مُقْرَما (Əmin, xilqəti iri, böyürləri fərqli... mübahisə edən deyir: nə qədər də damazlıq idi) (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Transliterasiya səhvi: «العَبَنَّى» sözünün oxunuşu «əl-əbənnəti» yox, «əl-əbənna» olmalıdır."
+ ],
+ "review_ts": "2026-11-22T17:12:39.683Z"
 }

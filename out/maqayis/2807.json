@@ -11,7 +11,18 @@
   "page_to": 323
  },
  "ar": "العين والشين والباء أصلٌ واحد صحيح يدلُّ على يُبسٍ فى شئٍ وقُحول وما أشبه ذلك من ذلك العُشْب، قالوا: هو سَرَعان الكَلَأ فى الرَّبيع، ثُمَّ يهيج ولا بقاءَ له. وأرضٌ عَشِبَةٌ: مُعْشِبة، وأعْشبَتْ إذا كثُر عُشْبُها. وأعْشَب الرَّجُل: أصابَ العُشْب. قال أبو النَّجم:\nيقُلْنَ للرّائدِ أعْشَبْتَ انزلِ (٣)\nوممّا حُمِل على هذا أنْ يشبَّه الشَّيخُ القاحلُ به، فيقال رجل عَشَبٌ وامرأةٌ عَشَبة. وقد يقال ذلك فى النوق. [و] يقال: أعشَبَ فلانٌ فلاناً إذا وَهَب له ناقة عَشَبةً.",
- "az": "[عشب] (eyn, şin və ba) bir şeydə quruluğa və s. şeylərə dəlalət edən tək, səhih bir kökdür. Bunlardan biri عُشْب (uşb) sözüdür. Deyiblər ki, bu, yaz aylarında otun tez bitən, sonra isə quruyan və qalıcı olmayan növüdür. Və أرضٌ عَشِبَةٌ (ərdün əşibətün): otlu torpaq, أعْشبَتْ (ə'şəbət) - otu çoxaldıqda. Və أعْشَب الرَّجُل (ə'şəbər-rəcül) - ot tapdıqda. Əbu Nəcm demişdir: يُقُلْنَ للرّائدِ أعْشَبْتَ انزلِ (٣) (Otlaq axtarana «ot tapdın, en» deyirlər). Buna bənzədilən şeylərdən biri də qurumuş qocanın ona bənzədilməsidir və deyilir: رجل عَشَبٌ (rəcülün əşəbün) və امرأةٌ عَشَبة (mər'ətun əşəbətün). Bu, bəzən dəvələr haqqında da deyilir. [Və] deyilir: أعشَب فلانٌ فلاناً (ə'şəbə fülânün fülânən) - filon kəs başqasına عَشَبة (əşəbə) dəvəsi bəxşiş etdikdə.",
+ "az": "[عشب] (eyn, şin və ba) bir şeydə quruluğa, arıqlamağa (solmağa) və buna bənzər şeylərə dəlalət edən tək, səhih bir kökdür. Bu kökdəndir عُشْب (ot). Deyiblər ki, o, yazda otun tez bitənidir, sonra quruyub saralar və qalıcılığı olmaz. أرضٌ عَشِبَةٌ (otlu torpaq) və مُعْشِبة (otlu torpaq), torpağın otu çoxaldıqda أعْشَبَتْ (otlandı) deyilər. أعْشَبَ الرَّجُلُ (adam otlu yerə rast gəldi / ot tapdı). Əbu Nəcm demişdir:\nيقُلْنَ للرّائدِ أعْشَبْتَ انزلِ (٣)\n(Soraqçıya: «Otu bol yerə çatdın, en!» deyirlər).\nBuna aid edilən mənalardan biri də arıqlamış, qurumuş qocanın ona bənzədilməsidir; belə ki, رجلٌ عَشَبٌ (arıq/quru kişi) və امرأةٌ عَشَبةٌ (arıq/quru qadın) deyilir. Bu, dişi dəvələr haqqında da deyilir. [Və] deyilir: أعْشَبَ فُلانٌ فُلانًا (filankəs filankəsə dişi dəvə bağışladı) – ona dişi ناقةٌ عَشَبةٌ (arıq/quru dəvə) hədiyyə etdikdə.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:32:09.592Z"
+ "ts": "2026-10-25T18:32:09.592Z",
+ "prev_az": "[عشب] (eyn, şin və ba) bir şeydə quruluğa və s. şeylərə dəlalət edən tək, səhih bir kökdür. Bunlardan biri عُشْب (uşb) sözüdür. Deyiblər ki, bu, yaz aylarında otun tez bitən, sonra isə quruyan və qalıcı olmayan növüdür. Və أرضٌ عَشِبَةٌ (ərdün əşibətün): otlu torpaq, أعْشبَتْ (ə'şəbət) - otu çoxaldıqda. Və أعْشَب الرَّجُل (ə'şəbər-rəcül) - ot tapdıqda. Əbu Nəcm demişdir: يُقُلْنَ للرّائدِ أعْشَبْتَ انزلِ (٣) (Otlaq axtarana «ot tapdın, en» deyirlər). Buna bənzədilən şeylərdən biri də qurumuş qocanın ona bənzədilməsidir və deyilir: رجل عَشَبٌ (rəcülün əşəbün) və امرأةٌ عَشَبة (mər'ətun əşəbətün). Bu, bəzən dəvələr haqqında da deyilir. [Və] deyilir: أعشَب فلانٌ فلاناً (ə'şəbə fülânün fülânən) - filon kəs başqasına عَشَبة (əşəbə) dəvəsi bəxşiş etdikdə.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«مُعْشِبة» sözünün tərcüməsi buraxılmışdır.",
+  "«filon kəs» yazılışında hərf səhvi var («filankəs» olmalıdır).",
+  "«قُحول» sözünün mənası (qurumaq, solmaq) tam dəqiq verilməyib."
+ ],
+ "review_ts": "2026-11-22T17:26:53.392Z"
 }

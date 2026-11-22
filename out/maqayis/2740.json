@@ -11,7 +11,16 @@
   "page_to": 229
  },
  "ar": "ذكروا فيه كلمةً إن صحَّت. يقال (٢) إن العِثْوَلَّ من الرِّجال: الجافى. قالوا: والعَثُول: النَّخله الجافية الغليظة (٣). قال:\nهَززتُ عَثُولاً مَصّت الماء والثّرى … زماناً فلم تَهمُمْ بأن تتبرّعا",
- "az": "[عثل] Əgər səhihdirsə, burada bir kəlmə zikr etmişlər. Deyilir ki, kişilərdən العِثْوَلَّ (əl-isvəll) - qaba, sərt xasiyyətli deməkdir. Və demişlər ki, العَثُول (əl-asul) - sərt, yoğun xurma ağacıdır. Şair demişdir: هَززتُ عَثُولاً مَصّت الماء والثّرى … زماناً فلم تَهمُمْ بأن تتبرّعا (Bir xurma ağacını tərpөtdim ki, o, uzun müddət suyu və torpağı əmmişdi… lakin heç vaxt meyvə verməyi düşünməmişdi).",
+ "az": "[عثل] Əgər səhihdirsə, burada bir kəlmə zikr etmişlər. Deyilir ki, kişilərdən العِثْوَلَّ (əl-itvall) - qaba, sərt xasiyyətli deməkdir. Və demişlər ki, العَثُول (əl-atul) - sərt, yoğun xurma ağacıdır. Şair demişdir:\nهَززتُ عَثُولاً مَصّت الماء والثّرى … زماناً فلم تَهمُمْ بأن تتبرّعا\n(Bir xurma ağacını tərpətdim ki, o, uzun müddət suyu və torpağı əmmişdi… lakin heç vaxt meyvə verməyi düşünməmişdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:12:24.062Z"
+ "ts": "2026-10-25T14:12:24.062Z",
+ "prev_az": "[عثل] Əgər səhihdirsə, burada bir kəlmə zikr etmişlər. Deyilir ki, kişilərdən العِثْوَلَّ (əl-isvəll) - qaba, sərt xasiyyətli deməkdir. Və demişlər ki, العَثُول (əl-asul) - sərt, yoğun xurma ağacıdır. Şair demişdir: هَززتُ عَثُولاً مَصّت الماء والثّرى … زماناً فلم تَهمُمْ بأن تتبرّعا (Bir xurma ağacını tərpөtdim ki, o, uzun müddət suyu və torpağı əmmişdi… lakin heç vaxt meyvə verməyi düşünməmişdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə kiril qrafikalı «ө» hərfi işlədilmişdir («tərpөtdim»)."
+ ],
+ "review_ts": "2026-11-22T17:15:49.997Z"
 }

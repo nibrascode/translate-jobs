@@ -11,7 +11,16 @@
   "page_to": 198
  },
  "ar": "العين والياء والميم كلمةٌ واحدة صحيحة، وهى شهوةُ اللَّبَن:\nيقال للذى اشْتَهَى اللّبَن عَيْماَنُ، والمرأة عَيْمَى. تقول: عِمْتُ إلى * اللبن عَيْمَة وعَيَماً شديداً. قال الخليل: وكلُّ مصدرٍ مثلِ هذا ممّا يكون لِفَعْلان وفَعْلَى، فإذا أنّثت المصدر قلته على فَعْلة خفيفة، وإذا ثقّلتَ فَعَلَى فَعَلٍ (٣)، نحو الحَيَر والحَيْرة. وجمع العَيْمان عَيامَى وَعِيام.",
- "az": "[عيم] (Ayn, ya və mim) düzgün, tək bir sözdür, o da süd həvəsidir: Süd arzulayan adama عَيْمان (eyman), qadına isə عَيْمَى (eyma) deyilir. Belə deyirsən: عِمْتُ إلى اللبن عَيْمَة وعَيَماً شديداً [Mən saya güclü bir həvəslə (istəklə) susadım]. Xəlil demişdir: Fəlan (فَعْلان) və fəla (فَعْلَى) üçün olan bunun kimi hər bir məsdər, məsdəri qadın cinsinə çevirdikdə onu yüngül fəylə (فَعْلة), fəlalanı (فَعَلَى) isə fəlalin (فَعَلٍ) üzrə ağırlaşdırdın (٣), həyər (الحَيَر) və həyra (الحَيْرَة) kimi. Eymanın (العَيْمان) cəmi əyamə (عَيامَى) və ciyamdır (عِيام).",
+ "az": "[عيم]\nالعين والياء والميم (ayn, ya və mim) düzgün, tək bir sözdür, o da süd həvəsidir:\nSüd arzulayan adama عَيْمان (eyman), qadına isə عَيْمَى (eyma) deyilir. Belə deyirsən: عِمْتُ إلى اللبن عَيْمَة وعَيَماً شديداً (Mən südə böyük bir həvəslə tamah saldım). Əl-Xəlil demişdir: فَعْلان (fəlan) və فَعْلَى (fəla) vəznində olan bunun kimi hər bir məsdəri qadın cinsinə çevirdikdə onu yüngül فَعْلَة (fələ) vəznində deyərsən, ağırlaşdırdıqda isə فَعَل (fəəl) vəznində deyərsən (٣), الحَيَر (əl-həyər) və الحَيْرة (əl-həyrə) kimi. العَيْمان (eyman) sözünün cəmi عَيامَى (əyama) və عِيام (iyam) gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:10:30.244Z"
+ "ts": "2026-10-25T14:10:30.244Z",
+ "prev_az": "[عيم] (Ayn, ya və mim) düzgün, tək bir sözdür, o da süd həvəsidir: Süd arzulayan adama عَيْمان (eyman), qadına isə عَيْمَى (eyma) deyilir. Belə deyirsən: عِمْتُ إلى اللبن عَيْمَة وعَيَماً شديداً [Mən saya güclü bir həvəslə (istəklə) susadım]. Xəlil demişdir: Fəlan (فَعْلان) və fəla (فَعْلَى) üçün olan bunun kimi hər bir məsdər, məsdəri qadın cinsinə çevirdikdə onu yüngül fəylə (فَعْلة), fəlalanı (فَعَلَى) isə fəlalin (فَعَلٍ) üzrə ağırlaşdırdın (٣), həyər (الحَيَر) və həyra (الحَيْرَة) kimi. Eymanın (العَيْمان) cəmi əyamə (عَيامَى) və ciyamdır (عِيام).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«südə» əvəzinə «saya» yazılmışdır və «وإذا ثقّلتَ فَعَلَى فَعَلٍ» cümləsi yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-22T17:10:50.970Z"
 }

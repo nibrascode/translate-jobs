@@ -11,7 +11,16 @@
   "page_to": 313
  },
  "ar": "العين والسين والكاف قريبٌ من الذى قبله. قال الخليل:\nعَسِك به، إذا لزمَه، مثل سَدِك به. وأنشد الأصمعى:\nإذا شرَكُ الطريق تجشَّمَتْهُ … عَسِكْنَ بجنبِهِ حذَر الإكامِ (١)",
- "az": "[عسك] (Əyn, sin və kaf) — əvvəlki kökə yaxındır. Xəlil demişdir: «عَسِك به» — ona yapışdı, mənasında «سَدِك به» kimidir. Əsməci bu beyti söyləmişdir: \"Yolun torunu (və ya kəndirini) çətinliklə keçdikləri zaman, təpələrdən qorxaraq onun böyrünə yapışdılar\" (١).",
+ "az": "[عسك] (Əyn, sin və kaf) — əvvəlki kökə yaxındır. Xəlil demişdir: «عَسِك به» — ona yapışdı, mənasında «سَدِك به» kimidir. Əsməci bu beyti söyləmişdir:\nإذا شرَكُ الطريق تجشَّمَتْهُ … عَسِكْنَ بجنبِهِ حذَر الإكامِ (١)\n(\"Yolun torunu [budaqlarını] çətinliklə keçdikləri zaman, təpələrdən qorxaraq onun böyrünə yapışdılar\") (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:31:30.137Z"
+ "ts": "2026-10-25T18:31:30.137Z",
+ "prev_az": "[عسك] (Əyn, sin və kaf) — əvvəlki kökə yaxındır. Xəlil demişdir: «عَسِك به» — ona yapışdı, mənasında «سَدِك به» kimidir. Əsməci bu beyti söyləmişdir: \"Yolun torunu (və ya kəndirini) çətinliklə keçdikləri zaman, təpələrdən qorxaraq onun böyrünə yapışdılar\" (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni tərcümədə buraxılmışdır."
+ ],
+ "review_ts": "2026-11-22T17:24:52.871Z"
 }

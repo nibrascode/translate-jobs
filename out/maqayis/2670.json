@@ -11,7 +11,18 @@
   "page_to": 143
  },
  "ar": "العين والميم والشين كلمتانِ صحيحتان، متباينتان جدًّا.\nفالأولى ضعفٌ فى البصر، والأخرى صلاحٌ للجسم. فالأوّل العَمَش: ألاَّ تزالُ العينُ تسيل دمعاً، ولا يكاد الأعمش يُبصِر بها، والمرأةُ عَمْشاء، والفعل عَمِشَ يَعْمَشُ عَمَشا.\nوالكلمةُ الأخرى: العَمْش، بسكون الميم: ما يكون فيه صلاحُ البدن.\nويقولون: الخِتَانُ عَمْش الغُلام؛ لأنّك ترى * فيه بعد ذلك زيادةً. وهذا طعام عَمْشٌ لك، أى صالح مُوافق.\n***\nوأما العين والميم والصاد فليس فيه ما يصلح أن يذكر.",
- "az": "«عمش» (əmş): ع (eyn), م (mim) və ش (şin) hərfləri iki səhih sözdür, bir-birindən çox fərqlənirlər. Birincisi görmə zəifliyi, ikincisi isə bədənin sağlamlığıdır. Birincisi: العَمَش (əl-əmş) — gözün daim yaş axıtmasıdır, demək olar ki, çəpgöz (və ya zəifgörən) həmin gözlə görə bilmir, qadın isə عَمْشاءُ (əmşəu) olar, feli عَمِشَ يَعْمəشُ عَمَشا (əmişə, yəməşu, əməşən) lüğətdə işlənir. Digər söz isə: mim hərfinin sükunü ilə العَمْش (əl-əmş) — bədənin sağlamlığına səbəb olan şeydir. Deyirlər: الخِتَانُ عَمْش الغُلام (əl-xitanu əmşul-ğulam) — sünnət oğlanın sağlamlığıdır; çünki sən * ondan sonra orada artım görürsən. Bu, sənin üçün عَمْشٌ (əmşun) yeməkdir, yəni sağlam və uyğundur. *** ع (eyn), م (mim) və ص (sad) hərflərinə gəldikdəisə, burada qeyd olunmağa layiq heç bir şey yoxdur.",
+ "az": "[عمش]\nالعين والميم والشين (eyn, mim və şin) bir-birindən çox fərqlənən iki səhih sözdür.\nBirincisi görmə zəifliyi, ikincisi isə bədənin sağlamlığıdır. Birincisi العَمَش (əl-əməş) – gözün daim yaş axıtmasıdır, demək olar ki, الأعمش (zəifgörən) həmin gözlə görə bilmir, qadın isə عَمْشاء (əmşa) olur, feli عَمِشَ يَعْمَشُ عَمَشا (əmişə, yəməşu, əməşən)-dır.\nDigər söz isə: mim hərfinin sükunu ilə العَمْش (əl-əmş) – bədənin sağlamlığına səbəb olan şeydir.\nDeyirlər: الخِتَانُ عَمْش الغُلام (sünnət oğlanın sağlamlığıdır); çünki sən * ondan sonra orada artım görürsən. Bu, sənin üçün عَمْشٌ (əmşun) yeməkdir, yəni sağlam və uyğundur.\n***\nالعين والميم والصاد (eyn, mim və sad) hərflərinə gəldikdə isə, burada qeyd olunmağa layiq heç bir şey yoxdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:03:47.599Z"
+ "ts": "2026-10-25T14:03:47.599Z",
+ "prev_az": "«عمش» (əmş): ع (eyn), م (mim) və ش (şin) hərfləri iki səhih sözdür, bir-birindən çox fərqlənirlər. Birincisi görmə zəifliyi, ikincisi isə bədənin sağlamlığıdır. Birincisi: العَمَش (əl-əmş) — gözün daim yaş axıtmasıdır, demək olar ki, çəpgöz (və ya zəifgörən) həmin gözlə görə bilmir, qadın isə عَمْشاءُ (əmşəu) olar, feli عَمِشَ يَعْمəشُ عَمَشا (əmişə, yəməşu, əməşən) lüğətdə işlənir. Digər söz isə: mim hərfinin sükunü ilə العَمْش (əl-əmş) — bədənin sağlamlığına səbəb olan şeydir. Deyirlər: الخِتَانُ عَمْش الغُلام (əl-xitanu əmşul-ğulam) — sünnət oğlanın sağlamlığıdır; çünki sən * ondan sonra orada artım görürsən. Bu, sənin üçün عَمْشٌ (əmşun) yeməkdir, yəni sağlam və uyğundur. *** ع (eyn), م (mim) və ص (sad) hərflərinə gəldikdəisə, burada qeyd olunmağa layiq heç bir şey yoxdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[عمش]» formatı ilə başlamır.",
+  "«يَعْمəشُ» sözündə ərəb qrafikasının içinə latın hərfi qarışmış, «gəldikdəisə» sözü bitişik yazılmışdır.",
+  "«العَمَش» sözünün oxunuşu səhvən «əl-əmş» kimi verilmiş və «الأعمش» «çəpgöz» kimi yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-22T16:31:58.472Z"
 }

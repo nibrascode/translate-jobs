@@ -11,7 +11,17 @@
   "page_to": 230
  },
  "ar": "العين والثاء والحرف المعتلّ كلمةٌ تدلُّ على فَساد. يقال عثا يعثو، ويقال عَثِىَ يَعْثَي، مثل عاثَ. قال اللّه تعالى: ﴿وَلا تَعْثَوْا فِي اَلْأَرْضِ مُفْسِدِينَ﴾.",
- "az": "[عثى] «العين» (عين), «الثاء» (ثاء) və «الحرف المعتل» (mötəl hərf) fəsad mənasını verən bir közdür. «عثا يعثو» (əsa, yəsvu) deyilir, həmçinin «عاث» (as) kimi «عَثِىَ يَعْثَي» (əsi, yəsvə) də deyilir. Uca Allah buyurmuşdur: mənaca tərcümə: «Yer üzündə fəsad törədənlər olmayın, fəsad törətməyin» (﴿وَلا تَعْثَوْا فِي اَلْأَرْضِ مُفْسِدِينَ﴾).",
+ "az": "[عثى] عين, sa və illətli hərf fəsada dəlalət edən bir kəlmədir. عثا يعثو (fəsad törətdi) deyilir, həmçinin عاثَ kimi عَثِىَ يَعْثَي də deyilir. Uca Allah buyurmuşdur: ﴿وَلا تَعْثَوْا فِي اَلْأَرْضِ مُفْسِدِينَ﴾ (mənaca tərcümə: «Yer üzündə fəsad törədənlər olaraq həddi aşmayın (fəsad törətməyin)»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T14:12:45.078Z"
+ "ts": "2026-10-25T14:12:45.078Z",
+ "prev_az": "[عثى] «العين» (عين), «الثاء» (ثاء) və «الحرف المعتل» (mötəl hərf) fəsad mənasını verən bir közdür. «عثا يعثو» (əsa, yəsvu) deyilir, həmçinin «عاث» (as) kimi «عَثِىَ يَعْثَي» (əsi, yəsvə) də deyilir. Uca Allah buyurmuşdur: mənaca tərcümə: «Yer üzündə fəsad törədənlər olmayın, fəsad törətməyin» (﴿وَلا تَعْثَوْا فِي اَلْأَرْضِ مُفْسِدِينَ﴾).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Közdür» şəklində imla səhvi var («kəlmədir» olmalıdır).",
+  "Quran ayəsinin tərcümə formatı pozulub (əvvəlcə ərəbcə mətni, sonra «mənaca tərcümə: ...» verilməlidir)."
+ ],
+ "review_ts": "2026-11-22T17:14:45.698Z"
 }
