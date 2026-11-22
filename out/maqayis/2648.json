@@ -13,5 +13,10 @@
  "ar": "العين واللام والنون أصلٌ صحيح يدلُّ على إظهار الشَّئ والإشارة [إليه] وظهوره. يقال عَلَنَ الأمر يَعْلُنُ (١). وأعلنته أنا. والعِلَان:\nالمُعالَنة.",
  "az": "[علن]\n«Ayn», «ləm» və «nun» bir şeyin aşkar edilməsinə, ona işarə edilməsinə və onun zahir olmasına dəlalət edən səhih bir əsldir. Deyilir: «عَلَنَ الأمر يَعْلُنُ» (١) (İş aşkar oldu, bəlli oldu). «وأعلنته أنا» (Onu mən aşkar etdim, bəyan etdim). «العِلَان» isə «المُعالَنة»dir (açıq-aşkar etmək, qarşılıqlı aşkara çıxarmaq).",
  "model": "gemini-flash-latest",
- "ts": "2026-10-25T13:45:37.361Z"
+ "ts": "2026-10-25T13:45:37.361Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-22T06:46:57.228Z"
 }

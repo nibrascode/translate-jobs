@@ -11,7 +11,16 @@
   "page_to": 108
  },
  "ar": "العين والكاف والصاد قريبٌ من الذى قبلَه، إلاّ أن فيه زيادةَ معنى، هى الشّدَّة. قال الفرّاء: رجل عَكِصٌ، أى شديد الخُلُق سيِّئُه وعَكَصُ الرَّمل: شِدّة وُعوثته. يقال رملةٌ عَكِصَةٌ.",
- "az": "[عكص] (Ayn, kaf və sad) – əvvəlkindən azca fərqlidir, lakin onda əlavə olaraq şiddət mənası vardır. Fəraa demişdir: رجل عَكِصٌ (raculun əkişun) – xasiyyəti sərt, pis xasiyyətli insan. وَعَكَصُ الرَّمل (və əkəsur-ramli): qumun gediş-gəlişinin çətinliyi, sərtliyi. Deyilir: رملةٌ عَكِصَةٌ (ramlətun əkişətun).",
+ "az": "[عكص] «Ayn», «kaf» və «sad» əvvəlki kökə yaxındır, lakin bunda əlavə bir məna — şiddət mənası vardır. قال الفرّاء: «رجل عَكِصٌ» — yəni xasiyyəti sərt və pis olan insan. «عَكَصُ الرَّمل»: qumun keçilməsi çətin və batqın olmasıdır. Deyilir: «رملةٌ عَكِصَةٌ» (keçilməsi çətin qumluq).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T13:41:27.671Z"
+ "ts": "2026-10-25T13:41:27.671Z",
+ "prev_az": "[عكص] (Ayn, kaf və sad) – əvvəlkindən azca fərqlidir, lakin onda əlavə olaraq şiddət mənası vardır. Fəraa demişdir: رجل عَكِصٌ (raculun əkişun) – xasiyyəti sərt, pis xasiyyətli insan. وَعَكَصُ الرَّمل (və əkəsur-ramli): qumun gediş-gəlişinin çətinliyi, sərtliyi. Deyilir: رملةٌ عَكِصَةٌ (ramlətun əkişətun).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sözlər mötərizədə tərcümə olunmaq əvəzinə yanlış transliterasiya edilib."
+ ],
+ "review_ts": "2026-11-22T06:46:57.227Z"
 }

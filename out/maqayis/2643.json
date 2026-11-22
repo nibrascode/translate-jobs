@@ -11,7 +11,18 @@
   "page_to": 107
  },
  "ar": "العين والكاف والسين أصلٌ صحيح واحدٌ، يدلُّ على مثل ما تقدَّم ذكره من التجمّع والجَمْع.\nقال الخليل: العَكيس من اللبن: الحليب تصَبُّ عليه الإهالة. قال:\nفلما سقيناها العَكِيس تَمَلَّأتْ … مذاخِرُها وارفضَّ رَشْحاً وريدُها (٣)\nالمذاخر: الأمعاء التى تذْخرُ الطَّعام.\nومن الباب: العَكْس، قال الخليل: هو ردُّك آخرَ الشئِ، على أوله، وهو كالعَطْف. ويقال تعكَّسَ فى مِشْيَتِه، ويقال العَكس: عَقْل يدِ البعير والجمعُ بينهما وبين عنقه، فلا يقدرُ أن يرفعَ رأسه. ويقال: «مِنْ دون ذلك الأمر عِكاسٌ»، أى تَرادٌّ وتراجُع.",
- "az": "[عكس] (Ayn, kaf və sin) – yığılma və toplamaq barədə əvvəl qeyd olunanlara dəlalət edən tək bir səhih kökdür.\nXəlil demişdir: العَكيس (əl-əkis): Üzərinə ədviyyat (və ya piy) tökülən süd. (Şair) demişdir:\nفلما سقيناها العَكِيس تَمَلَّأتْ … مذاخِرُها وارفضَّ رَشْحاً وريدُها (٣) \n(Fə-ləmmə saqaynəhəl-əkіsə təmalləat… məzaxiruhə varfadda raşhən vəriduhə)\nəl-Məzaxir: Yeməyi yığıb saxlayan bağırsaqlar.\nFəsildəndir: العَكْس (əl-əks), Xəlil demişdir: Bir şeyin sonunu əvvəlinə qaytarmaqdır, o da ətfa bənzər. Və deyilir: تعكَّسَ فى مِشْيَتِه (təakkəsə fi mişyətihi). Və deyilir: العَكس (əl-əks): Dəvənin əlini bağlamaq və onu boyunu ilə birləşdirməkdir ki, başını qaldıra bilməsin. Və deyilir: «مِنْ دون ذلك الأمر عِكاسٌ» (Min duna zəlikəl-əmri ikasun) – yəni qarşılıqlı qayıdış və geri çəkilmələr.",
+ "az": "[عكس] «Ayn», «kaf» və «sin» yığılma və toplamaq barədə əvvəl qeyd olunanlara dəlalət edən tək bir səhih əsldir.\nقال الخليل: «العَكيس» من اللبن: üzərinə əridilmiş piy tökülən təzə süddür. قال:\nفلما سقيناها العَكِيس تَمَلَّأتْ … مذاخِرُها وارفضَّ رَشْحاً وريدُها (٣)\n(Biz ona əkis içirtdikdə qarın boşluqları doldu və boyun damarlarından tər süzüldü).\n«المذاخر»: yeməyi yığıb saxlayan bağırsaqlardır.\nومن الباب: «العَكْس». قال الخليل: bir şeyin sonunu əvvəlinə qaytarmaqdır, bu da «العَطْف» (bükmək, döndərmək) kimidir. Deyilir: «تعكَّسَ فى مِشْيَتِه» (yerişində əyilə-əyilə yeridi). Deyilir: «العَكس»: dəvənin ön ayağını bağlayıb onu boynu ilə birləşdirməkdir ki, başını qaldıra bilməsin. Deyilir: «مِنْ دون ذلك الأمر عِكاسٌ» — yəni qarşılıqlı imtina, müqavimət və geri çəkilmə.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T13:41:27.671Z"
+ "ts": "2026-10-25T13:41:27.671Z",
+ "prev_az": "[عكس] (Ayn, kaf və sin) – yığılma və toplamaq barədə əvvəl qeyd olunanlara dəlalət edən tək bir səhih kökdür.\nXəlil demişdir: العَكيس (əl-əkis): Üzərinə ədviyyat (və ya piy) tökülən süd. (Şair) demişdir:\nفلما سقيناها العَكِيس تَمَلَّأتْ … مذاخِرُها وارفضَّ رَشْحاً وريدُها (٣) \n(Fə-ləmmə saqaynəhəl-əkіsə təmalləat… məzaxiruhə varfadda raşhən vəriduhə)\nəl-Məzaxir: Yeməyi yığıb saxlayan bağırsaqlar.\nFəsildəndir: العَكْس (əl-əks), Xəlil demişdir: Bir şeyin sonunu əvvəlinə qaytarmaqdır, o da ətfa bənzər. Və deyilir: تعكَّسَ فى مِشْيَتِه (təakkəsə fi mişyətihi). Və deyilir: العَكس (əl-əks): Dəvənin əlini bağlamaq və onu boyunu ilə birləşdirməkdir ki, başını qaldıra bilməsin. Və deyilir: «مِنْ دون ذلك الأمر عِكاسٌ» (Min duna zəlikəl-əmri ikasun) – yəni qarşılıqlı qayıdış və geri çəkilmələr.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcümə edilmək əvəzinə latın qrafikası ilə transliterasiya edilib.",
+  "«الإهالة» sözü ədviyyat kimi yanlış tərcümə edilib, əridilmiş piy deməkdir.",
+  "«تعكّس في مشيته» ifadəsi tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-22T06:46:57.226Z"
 }
