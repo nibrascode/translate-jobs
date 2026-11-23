@@ -11,7 +11,17 @@
   "page_to": 398
  },
  "ar": "الغين والنون والظَّاء كلمةٌ واحدة. يقال: إنّ الغَنْظَ:\nالهمُّ اللازم. غَنَظَه الأمرُ يَغْنِظه. قال:\nولقد رأيتَ فوارساً من قومنا … غَنَظُوكَ غَنْظَ جَرَادةِ العَيَّارِ (٦)",
- "az": "[غنظ] الغين والنون والظَّاء (eyn, nun və za) bir kəlmədir. Deyilir: «الغَنْظُ» (ğənz) — daimi qəm-qüssədir. «غَنَظَه الأمرُ يَغْنِظه» (İş onu qəmə batırdı, batırır). (Şair) demişdir: Qəbiləmizdən elə süvarilər görmüsən ki, səni Əyyar çəyirtgəsinin sıxıntısı kimi sıxıntıya saldılar (٦).",
+ "az": "[غنظ] الغين (ğayn), النون (nun) və الظَّاء (za) bir kəlmədir. Deyilir: «الغَنْظُ» (əl-ğənz) — daimi qəm-qüssədir. «غَنَظَه الأمرُ يَغْنِظه» (İş onu sıxdı/qəmə batırdı, batırır). Şair demişdir:\nولقد رأيتَ فوارساً من قومنا … غَنَظُوكَ غَنْظَ جَرَادةِ العَيَّارِ (٦)\n(Qəbiləmizdən elə süvarilər görmüsən ki, səni Əyyarın çəyirtgəsini sıxan kimi sıxıntıya saldılar).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:36:42.793Z"
+ "ts": "2026-10-25T18:36:42.793Z",
+ "prev_az": "[غنظ] الغين والنون والظَّاء (eyn, nun və za) bir kəlmədir. Deyilir: «الغَنْظُ» (ğənz) — daimi qəm-qüssədir. «غَنَظَه الأمرُ يَغْنِظه» (İş onu qəmə batırdı, batırır). (Şair) demişdir: Qəbiləmizdən elə süvarilər görmüsən ki, səni Əyyar çəyirtgəsinin sıxıntısı kimi sıxıntıya saldılar (٦).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الغين» hərfi «eyn» kimi səhv verilmişdir.",
+  "Şeir beytinin ərəbcə mətni tərcümədən buraxılmışdır."
+ ],
+ "review_ts": "2026-11-23T01:13:27.416Z"
 }

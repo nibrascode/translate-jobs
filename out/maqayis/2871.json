@@ -11,7 +11,16 @@
   "page_to": 392
  },
  "ar": "الغين والميم والدال أصلٌ واحد صحيح، يدلُّ على تغطيةٍ وسَتْر. من ذلك الغِمْدُ للسَّيف: غِلافُهُ. يقال: غَمَدته أَغْمِدُه غَمداً. ويقال:\nتَغمَّده اللّهُ برحمته، كأنه يَغْمُرُه بها. وتغمَّدتُ فلانا: جعلتَه تحتَك حتَّى تغطِّيَه.\nوالنِّسبة إلى غامدٍ غامدىّ، وهو حىُّ من اليَمَن، واشتقاقُهُ ممَّا ذكرناه.",
- "az": "[غمد] (ğ-m-d): Ğeyn, mim və dal düzgün bir əsas olub, örtməyə və gizlətməyə dəlalət edir. Bunlardandır qılıncın qını olan «الغِمْدُ للسَّيف»: onun örtüyüdür. Deyilir: «غَمَدته أَغْمِدُه غَمداً» — onu qınına qoydum. Həmçinin deyilir: «تَغمَّده اللّهُ برحمته» — Allah onu rəhməti ilə bürüdü, elə bil onu rəhmətinə qərq edir. «تغَمَّدتُ فلana» — filankəsi elə bir vəziyyətə saldın ki, onu örtənə qədər özünün altından etdin.\nĞamid qəbiləsinə nisbət «غامدىّ» (ğamidi) deməkdir, o da Yəməndə bir tayfadır, onun kökü də qeyd etdiyimiz mənanın üzərində qurulmuşdur.",
+ "az": "[غمد] Ğeyn, mim və dal örtməyə və gizlətməyə dəlalət edən tək düzgün kökdür. Bunlardandır qılıncın qını olan الغِمْدُ للسَّيف: onun örtüyüdür. Deyilir: غَمَدته أَغْمِدُه غَمداً (Qılıncı qınına qoydum). Həmçinin deyilir: تَغمَّده اللّهُ برحمته (Allah onu rəhmətinə bürüdü) — sanki onu rəhmətinə qərq edir. وتغمَّدتُ فلانا (Filankəsi altıma salıb örtdüm) — onu öz altından edib örtənə qədər sıxdıqda deyilir.\nĞamid qəbiləsinə nisbət غامدىّ (ğamidi) adlanır, o, Yəmən qəbilələrindən biridir və onun kökü də qeyd etdiyimiz məna ilə bağlıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:36:20.954Z"
+ "ts": "2026-10-25T18:36:20.954Z",
+ "prev_az": "[غمد] (ğ-m-d): Ğeyn, mim və dal düzgün bir əsas olub, örtməyə və gizlətməyə dəlalət edir. Bunlardandır qılıncın qını olan «الغِمْدُ للسَّيف»: onun örtüyüdür. Deyilir: «غَمَدته أَغْمِدُه غَمداً» — onu qınına qoydum. Həmçinin deyilir: «تَغمَّده اللّهُ برحمته» — Allah onu rəhməti ilə bürüdü, elə bil onu rəhmətinə qərq edir. «تغَمَّدتُ فلana» — filankəsi elə bir vəziyyətə saldın ki, onu örtənə qədər özünün altından etdin.\nĞamid qəbiləsinə nisbət «غامدىّ» (ğamidi) deməkdir, o da Yəməndə bir tayfadır, onun kökü də qeyd etdiyimiz mənanın üzərində qurulmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «فلانا» sözünün yazılışı «فلana» şəklində pozulmuşdur."
+ ],
+ "review_ts": "2026-11-23T01:12:22.144Z"
 }

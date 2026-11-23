@@ -11,7 +11,18 @@
   "page_to": 347
  },
  "ar": "العين والضاد والحرف المعتل أصلٌ واحدٌ يدلُّ على تجزئةِ الشَّئ. من ذلك العِضْو والعُضْو. والتَّعضية: أن يُعَضِّىَ الذّبيحة أعضاء. والعِضَةُ:\nالقِطعة من الشئ، تقول: عَضّيْتُ الشئ أى وزَّعته. قال رؤبة:\nوليس دينُ اللّه بالمُعَضَّى (٢)\nأى بالمفرَّق. قال الخليل: وقوله تعالى: ﴿اَلَّذِينَ جَعَلُوا اَلْقُرْآنَ عِضِينَ﴾ أى عِضَة عِضة، ففرَّقوه، آمنوا ببعضه وكَفَرُوا ببعضه. والاسم منه التَّعضية. ومنه\nالحديث: «لا تَعْضِيَةَ فى ميراث». أى لا تَقسِموا ما [لا] يحتمل القَسْم كالسَّيف والدِّرَّة وما أَشبَهَ ذلك.",
- "az": "«عضو» (eyn, dad və zəif hərf) – şeyin hissələrə bölünməsinə dəlalət edən tək bir əsasdır. Bunlardan عِضْو (üzv, əza) və عُضْو (üzv, əza) gəlir. التَّعضية (hissələrə ayırma) – qurbanlıq heyvanı üzvlərə (hissələrə) ayırmaqdır. العِضَةُ (parça, hissə) – şeyin bir parçasıdır; deyirsən: عَضّيْتُ الشئ (şeyin əzasını ayırdım, yəni onu payladım). Rübə həmçinin demişdir: وليس دينُ اللّه بالمُعَضَّى (Allahın dini bölünmüş deyildir) – yəni parçalanmış deyildir. Xəlil demişdir: Uca Allahın ﴿اَلَّذِينَ جَعَلُوا اَلْقُرْآنَ عِضِينَ﴾ kəlamı – yəni onu hissə-hissə (parça-parça) etdilər, deməkdir; belə ki, onu parçaladılar, bir hissəsinə inandılar, bir hissəsini isə inkar etdilər. Bundan törəyən ad التَّعضية (parçalama) sözüdür. Hədisdə də belə gəlmişdir: «لا تَعْضِيَةَ فى ميراث» (Mirasda hissələrə bölüb ayırmaq yoxdur). Yəni bölünməsi mümkün olmayan şeyləri, məsələn, qılıncı, qamçını və buna bənzər şeyləri bölməyin.",
+ "az": "[عضو]\\nAyn, dad və illətli hərf şeyin hissələrə bölünməsinə dəlalət edən tək bir kökdür. Bunlardan العِضْو və العُضْو (üzv, hissə) gəlir. التَّعضية – qurbanlıq heyvanı üzvlərə (hissələrə) ayırmaqdır. العِضَةُ – şeyin bir parçasıdır; deyirsən: عَضّيْتُ الشئ (şeyi parçaladım), yəni onu payladım. Rü’bə demişdir:\\nوليس دينُ اللّه بالمُعَضَّى (٢) (Allahın dini bölünmüş deyildir)\\nYəni parçalanmış deyildir. əl-Xəlil demişdir: Uca Allahın ﴿اَلَّذِينَ جَعَلُوا اَلْقُرْآنَ عِضِينَ﴾ (mənaca tərcümə: O kəslər ki, Quranı hissə-hissə bölüb parçaladılar) kəlamı – yəni عِضَة عِضة (hissə-hissə) etdilər, belə ki, onu parçaladılar, bir hissəsinə iman gətirdilər, bir hissəsini isə inkar etdilər. Bundan törəyən isim التَّعضية (parçalama) sözüdür. Hədisdə də belə gəlmişdir: «لا تَعْضِيَةَ فى ميراث» (Mirasda hissələrə bölüb ayırmaq yoxdur). Yəni bölünməsi mümkün olmayan şeyləri, məsələn, qılıncı, qamçını və buna bənzər şeyləri bölməyin.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:33:56.970Z"
+ "ts": "2026-10-25T18:33:56.970Z",
+ "prev_az": "«عضو» (eyn, dad və zəif hərf) – şeyin hissələrə bölünməsinə dəlalət edən tək bir əsasdır. Bunlardan عِضْو (üzv, əza) və عُضْو (üzv, əza) gəlir. التَّعضية (hissələrə ayırma) – qurbanlıq heyvanı üzvlərə (hissələrə) ayırmaqdır. العِضَةُ (parça, hissə) – şeyin bir parçasıdır; deyirsən: عَضّيْتُ الشئ (şeyin əzasını ayırdım, yəni onu payladım). Rübə həmçinin demişdir: وليس دينُ اللّه بالمُعَضَّى (Allahın dini bölünmüş deyildir) – yəni parçalanmış deyildir. Xəlil demişdir: Uca Allahın ﴿اَلَّذِينَ جَعَلُوا اَلْقُرْآنَ عِضِينَ﴾ kəlamı – yəni onu hissə-hissə (parça-parça) etdilər, deməkdir; belə ki, onu parçaladılar, bir hissəsinə inandılar, bir hissəsini isə inkar etdilər. Bundan törəyən ad التَّعضية (parçalama) sözüdür. Hədisdə də belə gəlmişdir: «لا تَعْضِيَةَ فى ميراث» (Mirasda hissələrə bölüb ayırmaq yoxdur). Yəni bölünməsi mümkün olmayan şeyləri, məsələn, qılıncı, qamçını və buna bənzər şeyləri bölməyin.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [عضو] formatında deyil.",
+  "Quran ayəsinin «mənaca tərcümə: ...» hissəsi verilməyib.",
+  "Şeir beytində (٢) haşiyə rəqəmi buraxılıb."
+ ],
+ "review_ts": "2026-11-23T00:52:21.993Z"
 }

@@ -11,9 +11,18 @@
   "page_to": 246
  },
  "ar": "العين والدال والكاف ليس بشئ، إلاّ كلمةً من هَنَواتِ ابن دُرَيد، قال: العَدْك: ضرب الصُّوف بالمِطْرَقة (٣).",
- "az": "«عدك» (ə-d-k) — ayn, dal və kaf heç bir şey deyil, İbn Dürəidin səfehliklərindən olan bir kəlmə istisna olmaqla; o demişdir: العَدْك (əl-ədk): yununu çəkic ilə döymək.",
+ "az": "[عدك]\nAyn, dal və kaf heç bir şey deyil, İbn Düreydin qüsurlu sözlərindən olan bir kəlmə istisna olmaqla; o demişdir: العَدْك (əl-ədk): yunu çəkic ilə döymək (٣).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T14:13:31.828Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«عدك» (ə-d-k) — ayn, dal və kaf heç bir şey deyil, İbn Dürəidin səfehliklərindən olan bir kəlmə istisna olmaqla; o demişdir: العَدْك (əl-ədk): yununu çəkic ilə döymək.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə «[عدك]» formatı ilə başlamır.",
+  "Mətnin sonundakı «(٣)» haşiyə rəqəmi buraxılıb və «yununu» sözündə qrammatik xəta var."
+ ],
+ "review_ts": "2026-11-23T00:50:40.861Z"
 }

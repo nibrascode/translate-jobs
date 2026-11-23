@@ -11,7 +11,16 @@
   "page_to": 392
  },
  "ar": "الغين والميم والنون كلمةٌ واحدةٌ لا يقاس عليها. يقولون:\nغَمَنْتُ الجِلدَ، إذا ليَّنتَه، فهو غمينٌ.",
- "az": "[غمن] (ğ-m-n): Ğeyn, mim və nun hərflərindən ibarət tək bir kəlmə olub, buna əsasən müqayisə aparılmır. Deyirlər: «غَمْتُ الجِلدَ» — dərini yumşaltdım, o da «غمينٌ» (yumşaldılmış dəri) oldu.",
+ "az": "[غمن] Ğeyn, mim və nun üzərində qiyas olunmayan tək bir kəlmədir. Deyirlər: غَمَنْتُ الجِلدَ (Dərini aşılayıb yumşaltdım) — onu yumşaltdıqda deyilir, dərinin özü isə غمينٌ (yumşaldılmış dəri) adlanır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:36:20.954Z"
+ "ts": "2026-10-25T18:36:20.954Z",
+ "prev_az": "[غمن] (ğ-m-n): Ğeyn, mim və nun hərflərindən ibarət tək bir kəlmə olub, buna əsasən müqayisə aparılmır. Deyirlər: «غَمْتُ الجِلدَ» — dərini yumşaltdım, o da «غمينٌ» (yumşaldılmış dəri) oldu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətndə «غَمَنْتُ» əvəzinə «غَمْتُ» yazılaraq nun hərfı buraxılmışdır."
+ ],
+ "review_ts": "2026-11-23T01:12:22.143Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 355
  },
  "ar": "العين والظاء والميم أصلٌ واحد صحيح يدلُّ على كِبَر وقُوّة.\nفالعِظَم: مصدر الشَّئ العظيم. تقول: عَظُمَ يَعْظُم عِظَماً، وعظّمته أنا. فإذا عَظُم فى عينيك قلت: أعْظمتُه واستعظمْتُه. ومُعظَم الشئ: أكثرُه. وعَظْمةُ الذِّراع:\nمُستغلَظُها. وهى العظيمة: النازِلةُ المُلمّة الشّديدة. قال:\nإن تنجُ منها تنجُ من ذِى عظيمةٍ … وإلاّ فإنِّى لا إخالَك ناجيا (٣)\nومن الباب العَظْم، معروف، وهو سمِّى بذلك لقوّته وشِدّته.",
- "az": "[عظم] (ə-z-m): العين (eyn), الظاء (zə) və الميم (mim) – böyüklük və qüvvəyə dəlalət edən səhih tək bir kökdür.\nFəqət العِظَم (əl-izm) – böyük şeyin məsdəridir. Deyirsən: عَظُمَ يَعْظُم عِظَماً (azim oldu - böyüdü), mən də اسے عظّمته (əzəmtuhu - böyütdüm). O sənin gözündə böyük göründükdə deyirsən: أعْطمتُه واستعظمْتُه (iəmtuhu və stəzəmtuhu - onu böyük hesab etdim). ومُعظَم الشئ (muzmüş-şey) – şeyin çox hissəsidir. Və العَظْمةُ الذِّراع (əl-azmətüz-zira) – qolun ən yoğun yeridir. العظيمة (əl-azimə) – ağır, çətin, bəlalı hadisədir. [Şair] demişdir:\nإن تنجُ منها تنجُ من ذِى عظيمةٍ … وإلاّ فإنِّى لا إخالَك ناجيا (٣)\n(Əgər ondan xilas olsan, böyük bəla sahibindən xilas olarsan; yox əgər [xilas olmasan], mən sənin qurtulacağını güman etmirəm).\nVə bu qapıdandır: العَظْم (əl-azm) – məlum olan sümük, o, gücünə və sərtliyinə görə belə adlandırılmışdır.",
+ "az": "[عظم]\nالعين (ayn), الظاء (za) və الميم (mim) böyüklük və qüvvətə dəlalət edən bir səhih əsldir.\nالعِظَم (böyüklük) – böyük şeyin (الشَّئ العظيم) məsdəridir. Deyirsən: عَظُمَ يَعْظُم عِظَماً (böyüdü, əzəmətli oldu), وعظّمته أنا (mən də onu ucaltdım, böyütdüm). Əgər o, sənin gözündə böyük görünsə, deyirsən: أعْظمتُه واستعظمْتُه (onu böyük və əzəmətli saydım). ومُعظَم الشئ (bir şeyin çoxu) – onun əksər hissəsidir. وعَظْمةُ الذِّراع (qolun qalın yeri) – onun ən yoğun hissəsidir. Bu həm də العظيمة (böyük müsibət) kəlməsindədir ki, şiddətli, ağır bəla deməkdir. Şair demişdir:\nإن تنجُ منها تنجُ من ذِى عظيمةٍ … وإلاّ فإنِّى لا إخالَك ناجيا (٣)\n(Əgər bundan xilas olsan, böyük bir müsibətdən xilas olmuş olarsan; yoxsa mən sənin qurtulacağını zənn etmirəm).\nBu babdandır: العَظْم (sümük) – məlumdur; o, qüvvətinə və bərkliyinə görə belə adlandırılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:34:13.356Z"
+ "ts": "2026-10-25T18:34:13.356Z",
+ "prev_az": "[عظم] (ə-z-m): العين (eyn), الظاء (zə) və الميم (mim) – böyüklük və qüvvəyə dəlalət edən səhih tək bir kökdür.\nFəqət العِظَم (əl-izm) – böyük şeyin məsdəridir. Deyirsən: عَظُمَ يَعْظُم عِظَماً (azim oldu - böyüdü), mən də اسے عظّمته (əzəmtuhu - böyütdüm). O sənin gözündə böyük göründükdə deyirsən: أعْطمتُه واستعظمْتُه (iəmtuhu və stəzəmtuhu - onu böyük hesab etdim). ومُعظَم الشئ (muzmüş-şey) – şeyin çox hissəsidir. Və العَظْمةُ الذِّراع (əl-azmətüz-zira) – qolun ən yoğun yeridir. العظيمة (əl-azimə) – ağır, çətin, bəlalı hadisədir. [Şair] demişdir:\nإن تنجُ منها تنجُ من ذِى عظيمةٍ … وإلاّ فإنِّى لا إخالَك ناجيا (٣)\n(Əgər ondan xilas olsan, böyük bəla sahibindən xilas olarsan; yox əgər [xilas olmasan], mən sənin qurtulacağını güman etmirəm).\nVə bu qapıdandır: العَظْم (əl-azm) – məlum olan sümük, o, gücünə və sərtliyinə görə belə adlandırılmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«فالعِظَم» ifadəsi səhvən «Fəqət» kimi tərcümə edilmişdir.",
+  "Mətndə yad dildən qalma söz («اسے») yer almışdır.",
+  "Ərəbcə mətndə hərf xətası («أعْطمتُه») edilmişdir, doğrusu «أعْظمتُه» olmalıdır.",
+  "Ərəbcə izahda «وعَظْمةُ الذِّراع» yerinə səhvən «العَظْمةُ الذِّراع» yazılmışdır."
+ ],
+ "review_ts": "2026-11-23T01:03:23.399Z"
 }

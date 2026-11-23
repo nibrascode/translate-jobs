@@ -11,7 +11,18 @@
   "page_to": 327
  },
  "ar": "العين والشين والزاء كلمتانِ صحيحتان، إحداهما عند الخليل وليست الأخرى عنده.\nفالأولى العَشَوْزَن من المواضع (١): ما صلُب مَسْلكه وخشن، والجمع العشاوِز قال الشمَّاخ:\nحوامى الكُراع المؤيَداتُ العَشاوزُ (٢)\nوقال قومٌ: هو العَشْوَز أو العَشَوَّز (٣)، أنا أشُكُّ. وإنّما سُمِّيت القناة عشَوْزنةً لصلابتها، والنون زائدة.\nوالكلمة الأخرى: عَشَزَ عَشَزاناً، وهى مِشية الأقزَل، ذكرها أبو عبيد.",
- "az": "[عشز] العين والشين والزاء كلمتانِ صحيحتان (eyn, şin və zay hərfləri iki səhih kəlmədir): إحداهما عند الخليل وليست الأخرى عنده (bunlardan biri Xəlilin yanında var, digəri isə onun yanında yoxdur). فالأوْلَى العَشَوْزَن من المواضع (١): ما صلُب مَسْلكه وخشن (Birincisi: yerlərdən əşəuzəndir - yolu sərt və kobud olan), والجمع العشاوِز (və cəmi əşavizdir). قال الشمَّاخ (Şəmməx demişdir): حوامى الكُراع المؤيَداتُ العَشاوزُ (٢) (Baldırı qoruyan, möhkəmləndirilmiş əşaviz yerlər). وقال قومٌ (Və bir qrup dedi): هو العَشْوَز أو العَشَوَّز (٣) (o, əşəz və ya əşəvvəzdir), أنا أشُكُّ (mən şəkk edirəm). وإنّما سُمِّيت القناة عشَوْزنةً لصلابتها (Və qanal - nizə möhkəmliyinə görə əşəuzən adlandırılmışdır), والنون زائدة (və nun hərfi artıqdır). والكلمة الأخرى: عَشَزَ عَشَزاناً (Və digər kəlmə: əşəzə əşəzənan), وهى مِشية الأقزَل (və o, əqzəl adamın yeriyişidir), ذكرها أبو عبيد (bunu Əbu Übeyd zikr etmişdir).",
+ "az": "[عشز] العين والشين والزاء كلمتانِ صحيحتان (ayn, şin və zey hərfləri iki səhih kəlmədir): إحداهما عند الخليل وليست الأخرى عنده (bunlardan biri Xəlilin yanında var, digəri isə onun yanında yoxdur).\nفالأولى العَشَوْزَن من المواضع (١): ما صلُب مَسْلكه وخشن (Birincisi: yerlərdən əşəvzəndir (١) - yolu sərt və kobud olan), والجمع العشاوِز (və cəmi əşavizdir). قال الشمَّاخ (Şəmməx demişdir):\nحوامى الكُراع المؤيَداتُ العَشاوزُ (٢) (Kura tərəflərini qoruyan, möhkəmləndirilmiş əşaviz yerlər (٢)).\nوقال قومٌ (Və bir qrup dedi): هو العَشْوَز أو العَشَوَّز (٣) (o, əşvəz və ya əşəvvəzdir (٣)), أنا أشُكُّ (mən şəkk edirəm). وإنّما سُمِّيت القناة عشَوْزنةً لصلابتها (Nizə də möhkəmliyinə görə əşəvzənə adlandırılmışdır), والنون زائدة (və nun hərfi artıqdır).\nوالكلمة الأخرى: عَشَزَ عَشَزاناً (Digər kəlmə: əşəzə əşəzənən), وهى مِشية الأقزَل (o, topal və ya ayağı qüsurlu adamın yeriyişidir), ذكرها أبو عبيد (bunu Əbu Übeyd zikr etmişdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:32:35.259Z"
+ "ts": "2026-10-25T18:32:35.259Z",
+ "prev_az": "[عشز] العين والشين والزاء كلمتانِ صحيحتان (eyn, şin və zay hərfləri iki səhih kəlmədir): إحداهما عند الخليل وليست الأخرى عنده (bunlardan biri Xəlilin yanında var, digəri isə onun yanında yoxdur). فالأوْلَى العَشَوْزَن من المواضع (١): ما صلُب مَسْلكه وخشن (Birincisi: yerlərdən əşəuzəndir - yolu sərt və kobud olan), والجمع العشاوِز (və cəmi əşavizdir). قال الشمَّاخ (Şəmməx demişdir): حوامى الكُراع المؤيَداتُ العَشاوزُ (٢) (Baldırı qoruyan, möhkəmləndirilmiş əşaviz yerlər). وقال قومٌ (Və bir qrup dedi): هو العَشْوَز أو العَشَوَّز (٣) (o, əşəz və ya əşəvvəzdir), أنا أشُكُّ (mən şəkk edirəm). وإنّما سُمِّيت القناة عشَوْزنةً لصلابتها (Və qanal - nizə möhkəmliyinə görə əşəuzən adlandırılmışdır), والنون زائدة (və nun hərfi artıqdır). والكلمة الأخرى: عَشَزَ عَشَزاناً (Və digər kəlmə: əşəzə əşəzənan), وهى مِشية الأقزَل (və o, əqzəl adamın yeriyişidir), ذكرها أبو عبيد (bunu Əbu Übeyd zikr etmişdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«العَشْوَز» sözü «əşəz» kimi yanlış transkripsiya edilmişdir.",
+  "«القناة» sözü «qanal» kimi yanlış yazılmışdır.",
+  "«الأقزَل» sözünün mənası tərcümə edilmədən «əqzəl» olaraq saxlanmışdır."
+ ],
+ "review_ts": "2026-11-23T00:50:57.069Z"
 }

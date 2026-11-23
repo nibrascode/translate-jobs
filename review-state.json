@@ -1,8 +1,8 @@
 {
  "book": "maqayis",
  "total": 4703,
- "reviewed": 2810,
- "changed": 2273,
+ "reviewed": 2880,
+ "changed": 2325,
  "failed": 5,
  "runs": [
   {
@@ -272,6 +272,19 @@
     "gemini-4-hydrogen": 13,
     "gemini-3.6-flash": 43,
     "gemini-3.8-flash": 4
+   },
+   "stop": "quota"
+  },
+  {
+   "date": "2026-11-23T00:48:37.621Z",
+   "calls": 20,
+   "reviewed": 70,
+   "changed": 52,
+   "models": {
+    "gemini-4-hydrogen": 7,
+    "gemini-3.8-flash": 2,
+    "gemini-3.6-flash": 8,
+    "gemini-3.5-flash": 2
    },
    "stop": "quota"
   }

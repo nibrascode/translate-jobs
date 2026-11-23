@@ -11,7 +11,16 @@
   "page_to": 348
  },
  "ar": "العين والضاد والراء لا أصلَ له فى كلام العرب، وإنْ ذُكر فيه شئٌ فغير صحيح.",
- "az": "«عضر» (eyn, dad və ra) – ərəblərin dilində əsası yoxdur, əgər bu barədə hər hansı bir şey qeyd olunubsa, o da səhih deyil.",
+ "az": "[عضر]\\nAyn, dad və ra hərflərinin ərəblərin dilində əsası yoxdur, əgər bu barədə hər hansı bir şey qeyd olunubsa, o da səhih deyil.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:33:56.970Z"
+ "ts": "2026-10-25T18:33:56.970Z",
+ "prev_az": "«عضر» (eyn, dad və ra) – ərəblərin dilində əsası yoxdur, əgər bu barədə hər hansı bir şey qeyd olunubsa, o da səhih deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı [عضر] formatında deyil."
+ ],
+ "review_ts": "2026-11-23T00:52:21.997Z"
 }

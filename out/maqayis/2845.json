@@ -11,7 +11,17 @@
   "page_to": 380
  },
  "ar": "الغين والذال كلمةٌ، وهى إغذاذ السَّير. وذلك ألا يكونَ فيه وَنْيَةٌ ولا فَتْرَة. ومنه: غَذَّ الجُرْحُ وأغذَّ، إذا بَرَأَ ولم يسكُنْ نَداه، فهو يَنْدَى أبداً.",
- "az": "«غذ» (غ, ذ). الغين والذال كلمةٌ (Gin və zal bir kəlmədir), وهى إغذاذ السَّير (və o, səfərin sürətli olmasıdır). وذلك ألا يكونَ فيه وَنْيَةٌ ولا فَتْرَة (və bu, gedişdə heç bir zəiflik və fasilənin olmamasıdır). ومنه (və bundandır): غَذَّ الجُرْحُ وأغذَّ («əəzzə əl-cürh və ağəzzə» - yara sağaldı və nəmini saxladı), إذا بَرَأَ ولم يسكُنْ نَداه (sağaldığı halda nəmliyi dayanmadıqda), فهو يَنْدَى أبداً (deməli o, həmişə nəmlidir).",
+ "az": "[غذ] Ğayn və zal bir kəlmədir, o da səfərin (sürətlə) davam etdirilməsidir (إغذاذ السير). Bu, gedişdə heç bir zəifliyin və fasilənin olmamasıdır. Bu kökdəndir: غَذَّ الجُرْحُ وَأَغَذَّ – yara sağaldığı halda nəmliyi kəsilmədikdə işlənir, deməli o, həmişə nəmli qalır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:35:31.147Z"
+ "ts": "2026-10-25T18:35:31.147Z",
+ "prev_az": "«غذ» (غ, ذ). الغين والذال كلمةٌ (Gin və zal bir kəlmədir), وهى إغذاذ السَّير (və o, səfərin sürətli olmasıdır). وذلك ألا يكونَ فيه وَنْيَةٌ ولا فَتْرَة (və bu, gedişdə heç bir zəiflik və fasilənin olmamasıdır). ومنه (və bundandır): غَذَّ الجُرْحُ وأغذَّ («əəzzə əl-cürh və ağəzzə» - yara sağaldı və nəmini saxladı), إذا بَرَأَ ولم يسكُنْ نَداه (sağaldığı halda nəmliyi dayanmadıqda), فهو يَنْدَى أبداً (deməli o, həmişə nəmlidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı səhv verilmişdir («Gin»).",
+  "Ərəb sözləri latın qrafikası ilə transliterasiya edilmişdir."
+ ],
+ "review_ts": "2026-11-23T01:09:57.195Z"
 }
