@@ -11,9 +11,19 @@
   "page_to": 375
  },
  "ar": "الغين والفاء كلمةٌ واحدةٌ لا تتفرّع، وهى البُلْغة، ويقال له غُفَّة من العَيش. قال:\nوغُفّةٌ من قِوَام العَيش تَكفِينِى (٢)\nواغتفَّتِ الخيلُ غُفَّة من الرَّبيع، إذا أصابت منه شِبَعاً ولم تستكثِرْ. قال:\nوكنَّا إذا ما اغتفَّت الخيلُ غُفّةً … تجرَّد طَلاَّبُ التِّراتِ مُطَلَّبُ (٣)",
- "az": "«غف» (غ, ف, و). الغين والفاء كلمةٌ واحدةٌ لا تتفرّع (şaxlənmir), وهى البُلْغة (kifayət qədər dolanışıq), ويقال له غُفَّة من العَيش (yaşayışdan az bir qismini bildirmək üçün buna «ğüffə» deyilir). قال (şair demişdir): ووُغفّةٌ من قِوَام العَيش تَكفِينِى (və yaşayışın təməlindən mənə kifayət edən az bir qism). واغتفَّتِ الخيلُ غُفَّة من الرَّبيع (atların bahar otlağından doyunca deyil, azca otlaması), إذا أصابت منه شِبَعاً ولم تستكثِرْ (ona doymadan çatdıqda və çoxaltmadıqda). قال (şair demişdir): وكنَّا إذا ما اغتفَّت الخيلُ غُفّةً … تجرَّد طَلاَّبُ التِّراتِ مُطَلَّبُ (və biz elə kəslər idik ki, atlar yaz otlağından azca otlayanda, qisas istəyənlər sərtləşər və təqib olunanlar üzə çıxardı).",
+ "az": "[غف]\nĞayn və fa hərfləri şaxələnməyən tək bir sözdür və o, البُلْغة (dolanışıq üçün kifayət edən miqdar) deməkdir; buna غُفَّة من العَيش (yaşayışdan az bir qism) deyilir. Şair demişdir:\nوغُفّةٌ من قِوَام العَيش تَكفِينِى (٢) (Və yaşayışın təməlindən az bir qism mənə kifayət edər).\nواغتفَّتِ الخيلُ غُفَّة من الرَّبيع (Atlar bahar otlağından azca otladı) ifadəsi isə ondan doyunca (kifayət qədər) əldə edib, lakin çoxaltmadıqda işlənir. Şair demişdir:\nوكنَّا إذا ما اغتفَّت الخيلُ غُفّةً … تجرَّد طَلاَّبُ التِّراتِ مُطَلَّبُ (٣) (Biz elə idik ki, atlar yaz otlağından azca otlayanda, qisas istəyən və daim haqqını tələb edən kimsə işə girişərdi).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T18:35:31.146Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«غف» (غ, ف, و). الغين والفاء كلمةٌ واحدةٌ لا تتفرّع (şaxlənmir), وهى البُلْغة (kifayət qədər dolanışıq), ويقال له غُفَّة من العَيش (yaşayışdan az bir qismini bildirmək üçün buna «ğüffə» deyilir). قال (şair demişdir): ووُغفّةٌ من قِوَام العَيش تَكفِينِى (və yaşayışın təməlindən mənə kifayət edən az bir qism). واغتفَّتِ الخيلُ غُفَّة من الرَّبيع (atların bahar otlağından doyunca deyil, azca otlaması), إذا أصابت منه شِبَعاً ولم تستكثِرْ (ona doymadan çatdıqda və çoxaltmadıqda). قال (şair demişdir): وكنَّا إذا ما اغتفَّت الخيلُ غُفّةً … تجرَّد طَلاَّبُ التِّراتِ مُطَلَّبُ (və biz elə kəslər idik ki, atlar yaz otlağından azca otlayanda, qisas istəyənlər sərtləşər və təqib olunanlar üzə çıxardı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«غف» yerinə «[غف]» yazılmalı, əlavə edilmiş «(غ, ف, و)» hissəsi çıxarılmalıdır.",
+  "«الغين والفاء» ifadəsi tərcüməsiz qalmış, «وغُفّةٌ» sözü «ووُغفّةٌ» kimi səhv yazılmış və (٢), (٣) haşiyə rəqəmləri buraxılmışdır.",
+  "«شِبَعاً» sözü «doymadan» kimi əks mənada tərcümə edilmiş, ikinci beytin ikinci misrasının mənası təhrif olunmuşdur."
+ ],
+ "review_ts": "2026-11-24T02:59:45.700Z"
 }

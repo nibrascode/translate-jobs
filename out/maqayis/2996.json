@@ -13,5 +13,10 @@
  "ar": "الفاء واللام والنون كناية عن كلِّ أحد. ورخَّمه أبو النجمِ فقال:\nفى لَجَّةٍ أَمْسِكْ فُلاناً عَنْ فُلِ (٢)\nهذا فى الناس، فإنْ كان فى غيرهم قيل: ركبتُ الفلانةَ والفرس الفلان (٣).",
  "az": "[فلن]\nFə, lam və nun hər kəsə işarə edən kinayədir (filankəsdir). Əbun-Nəcm onu tərxim etmiş (son hərfini atmış) və demişdir:\nفى لَجَّةٍ أَمْسِكْ فُلاناً عَنْ فُلِ (٢)\n(Böyük bir təlaş içində filankəsi filandan saxla!)\nBu, insanlara aiddir; əgər insanlardan başqası haqqında olarsa, «ركبتُ الفلانةَ والفرس الفلان» (filan madyana və filan ata mindim) (٣) deyilir.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-26T00:24:21.923Z"
+ "ts": "2026-10-26T00:24:21.923Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-24T03:10:53.970Z"
 }

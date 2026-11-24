@@ -11,7 +11,16 @@
   "page_to": 461
  },
  "ar": "الفاء والواو والفاء كلمةٌ واحدة. يقولون: الفُوف: القُطن.\nثم يقال للبياض يُرَى فى أظفار الأحداث: الفُوف. ومن ذلك يقال: بُرْدٌ مفَوَّف.",
- "az": "«فوف» (fəwf): Fə, vau və fə hərflərindən ibarət tək bir sözdür. Deyirlər ki, «الفُوف» (fuf) — pambıqdır.\nSonra gənclərin dırnaqlarında görünən ağlığa da «الفُوف» (fuf) deyilir. Eləcə də buna görə «بُرْدٌ مفَوَّف» (bürdün müfəwwaf) — zolaqlı (ağ xətləri olan) parçaya deyilir.",
+ "az": "[فوف]\nFə, vav və fa hərflərindən ibarət tək bir sözdür. Deyirlər ki, «الفُوف» — pambıqdır.\nSonra gənclərin dırnaqlarında görünən ağlığa «الفُوف» deyilir. Eləcə də buna görə «بُرْدٌ مفَوَّف» — zolaqlı (ağ xətləri olan) parçaya deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:06.106Z"
+ "ts": "2026-10-26T00:25:06.106Z",
+ "prev_az": "«فوف» (fəwf): Fə, vau və fə hərflərindən ibarət tək bir sözdür. Deyirlər ki, «الفُوف» (fuf) — pambıqdır.\nSonra gənclərin dırnaqlarında görünən ağlığa da «الفُوف» (fuf) deyilir. Eləcə də buna görə «بُرْدٌ مفَوَّف» (bürdün müfəwwaf) — zolaqlı (ağ xətləri olan) parçaya deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlanğıc formatı qaydaya uyğun deyil («[فوف]» ilə başlamalıdır)."
+ ],
+ "review_ts": "2026-11-24T03:32:53.997Z"
 }

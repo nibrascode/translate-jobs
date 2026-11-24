@@ -11,7 +11,16 @@
   "page_to": 477
  },
  "ar": "الفاء والجيم والميم. زعم ابنُ دريد: تفجَّم الوادِى وانفجم، إذا اتّسع. وهذه فُجْمَة الوادِى، أى متَّسَعُه (٣).",
- "az": "«فجم» (fə-c-m): Fə, cim və mim hərfləri. İbn Dürid iddia etmişdir ki, «تفجَّم الوادِى وانفجم» (təfəccəməl-vadi və infəcəmə) - vadi genəldi və genişləndi deməkdir. Bu, «فُجْمَة الوادِى» (fucmatul-vadi), yəni onun geniş yeri deməkdir (٣).",
+ "az": "[فجم] fə, cim və mim hərfləri. İbn Dürid iddia etmişdir ki: «تفجَّم الوادِى وانفجم» (vadi genişləndi) deməkdir. Bu da «فُجْمَة الوادِى» (vadinin geniş yeri) ifadəsindəndir (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:26:21.848Z"
+ "ts": "2026-10-26T00:26:21.848Z",
+ "prev_az": "«فجم» (fə-c-m): Fə, cim və mim hərfləri. İbn Dürid iddia etmişdir ki, «تفجَّم الوادِى وانفجم» (təfəccəməl-vadi və infəcəmə) - vadi genəldi və genişləndi deməkdir. Bu, «فُجْمَة الوادِى» (fucmatul-vadi), yəni onun geniş yeri deməkdir (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök formatı qaydaya uyğun deyil."
+ ],
+ "review_ts": "2026-11-24T03:37:54.092Z"
 }

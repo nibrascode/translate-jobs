@@ -11,7 +11,17 @@
   "page_to": 438
  },
  "ar": "الفاء والدال أصلٌ صحيح، يدلُّ على صَوت وجَلَبة.\nقال رسول اللّه ﵌: «إنَّ الجفاءَ والقَسْوةَ فى الفَدَّادِين (١)». وهى أصواتُهم فى حروثِهم ومواشيهم. قال الشَّاعر:\nنُبِّئْتُ أخوالِى بنى يزيد (٢) … ظلماً علينا لهُمُ فَدِيدُ\nومما شذَّ عن هذا: الفَدْفَد: الأرض المستويَة.",
- "az": "[فد] الفاء والدال (fa və dal) səsə və hay-küyə dəlalət edən səhih bir əsldir. Rəsulullah (s.ə.v.) buyurmuşdur: «إنَّ الجفاءَ والقَسْوةَ فى الفَدَّادِين (١)» («Həqiqətən, cəfa və sərtlik fəddadundadır» — yəni uca səslə qışqıran əkinçilərdə). Bunlar onların əkin yerlərində və mal-qara yanında çıxardıqları səslərdir. Şair demişdir: نُبِّئْتُ أخوالِى بنى يزيد (٢) … ظلماً علينا لهُمُ فَدِيدُ (Mənə xəbər çatdı ki, dayılarım Bəni Yezid... bizə zülm edirlər, onların fədidi (səsi) var). Bundan istisna olan: əl-fadfad (الفَدْفَد): düzənlik yer.",
+ "az": "[فد]\nFa və dal səsə və hay-küyə dəlalət edən səhih bir əsldir.\nAllahın Rəsulu sallallahu aleyhi və səlləm buyurmuşdur: «إنَّ الجفاءَ والقَسْوةَ فى الفَدَّادِين (١)» («Həqiqətən, cəfa və sərtlik fəddadində — uca səslə qışqıran əkinçilərdədir (١)»). Bunlar onların əkin yerlərində və mal-qaraları arasında çıxardıqları səslərdir. Şair demişdir:\nنُبِّئْتُ أخوالِى بنى يزيد (٢) … ظلماً علينا لهُمُ فَدِيدُ\n(Mənə xəbər çatdı ki, dayılarım Bəni Yezid (٢)... bizə zülm edərək hay-küy (fədid) salırlar.)\nBundan şazz olan: الفَدْفَد (əl-fədfəd): düzənlik yerdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:29.194Z"
+ "ts": "2026-10-25T18:39:29.194Z",
+ "prev_az": "[فد] الفاء والدال (fa və dal) səsə və hay-küyə dəlalət edən səhih bir əsldir. Rəsulullah (s.ə.v.) buyurmuşdur: «إنَّ الجفاءَ والقَسْوةَ فى الفَدَّادِين (١)» («Həqiqətən, cəfa və sərtlik fəddadundadır» — yəni uca səslə qışqıran əkinçilərdə). Bunlar onların əkin yerlərində və mal-qara yanında çıxardıqları səslərdir. Şair demişdir: نُبِّئْتُ أخوالِى بنى يزيد (٢) … ظلماً علينا لهُمُ فَدِيدُ (Mənə xəbər çatdı ki, dayılarım Bəni Yezid... bizə zülm edirlər, onların fədidi (səsi) var). Bundan istisna olan: əl-fadfad (الفَدْفَد): düzənlik yer.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Peyğəmbərin salavatı qaydaya zidd olaraq «s.ə.v.» şəklində qısaldılıb.",
+  "«الفَدَّادِين» sözü «fəddadun» kimi səhv transkripsiya edilib."
+ ],
+ "review_ts": "2026-11-24T03:10:28.768Z"
 }

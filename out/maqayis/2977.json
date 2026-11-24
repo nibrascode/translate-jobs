@@ -11,7 +11,16 @@
   "page_to": 440
  },
  "ar": "الفاء والشين يدلُّ على انتشارٍ وقلّة تماسُك. يقال: ناقةٌ فَشُوشٌ، إذا كانت مُنتشرَةَ الشَّخْب. وانْفَشَّ عن الأمر: كسِلَ. والفَشُّ:\nتتبُّع السَّرَقِ الدُّون؛ وهو فَشَّاش.",
- "az": "[فش] الفاء والشين (fa və şin) yayılmağa və rabitəsizliyə dəlalət edir. Deyilir: naqətun fəşuşun (ناقةٌ فَشُوشٌ), əgər südü sağarkən ətrafa səpələnən (və ya səxavətlə axıdılan) olsa. Və infəssə ənil-əmr (انْفَشَّ عن الأمر): tənbəlləşdi. Və əl-fəşş (الفَشُّ): kiçik oğurluqların ardınca düşməkdir; o isə fəşşandır (فَشَّاش).",
+ "az": "[فش]\nالفاء (fa) və الشين (şin) yayılmağa və möhkəmliyin azlığına dəlalət edir. Deyilir: ناقةٌ فَشُوشٌ (sağılarkən südü ətrafa səpələnən dəvə), əgər südü sağarkən ətrafa yayılan olsa. وانْفَشَّ عن الأمر: كسِلَ (işdən soyudu, tənbəlləşdi). والفَشُّ (fəşş):\nkiçik oğurluqların ardınca düşməkdir; bunu edən isə فَشَّاش (fəşşaş) adlanır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:29.195Z"
+ "ts": "2026-10-25T18:39:29.195Z",
+ "prev_az": "[فش] الفاء والشين (fa və şin) yayılmağa və rabitəsizliyə dəlalət edir. Deyilir: naqətun fəşuşun (ناقةٌ فَشُوشٌ), əgər südü sağarkən ətrafa səpələnən (və ya səxavətlə axıdılan) olsa. Və infəssə ənil-əmr (انْفَشَّ عن الأمر): tənbəlləşdi. Və əl-fəşş (الفَشُّ): kiçik oğurluqların ardınca düşməkdir; o isə fəşşandır (فَشَّاش).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«انْفَشَّ» sözü «infəssə» kimi, «فَشَّاش» sözü isə «fəşşandır» kimi səhv yazılıb və mənası tam açılmayıb."
+ ],
+ "review_ts": "2026-11-24T03:10:28.772Z"
 }

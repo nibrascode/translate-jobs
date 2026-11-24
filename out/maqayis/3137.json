@@ -13,5 +13,10 @@
  "ar": "الفاء والصاد والدال كلمة صحيحة، وهى الفَصْد، وهو قطع العِرقِ حتَّى يسيل. والفَصيد: دمٌ كان يُجعَل فى مِعًى من فَصد عروق الإبل، ويُشوَى ويُؤكل، وذلك فى الشدّة تُصيب. قال الأعشى:\nولا تأخُذ السَّهمَ الحديدَ لتفصِدا (٤)\nويقولون: [تفصَّد (٥)] الشئ: سال.",
  "az": "[فصد] الفاء والصاد والدال كلمة صحيحة (Fə, sad və dal səhih sözdür), وهى الفَصْد (və o, fəsddir), وهو قطع العِرقِ حتَّى يسيل (və o, qan axıncaya qədər damarın kəsilməsidir). والفَصيد (Və əl-fəsid): دمٌ كان يُجعَل فى مِعًى من فَصد عروق الإبل (dəvələrin damarlarından axıdılan qandan bağırsağa doldurulan qan idi), ويُشوَى ويُؤكل (və qızardılaraq yeyilərdi), وذلك فى الشدّة تُصيب (və bu, çətinlik və qıtlıq vaxtı baş verərdi). قال الأعشى (Əşə demişdir): ولا تأخُذ السَّهمَ الحديدَ لتفصِدا (٤) (Damar kəsmək üçün dəmir oxu götürmə). ويقولون (Və deyirlər): [تفصَّد (٥)] الشئ (şey axdı): سالَ (axdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.152Z"
+ "ts": "2026-10-26T00:28:00.152Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-24T03:42:46.094Z"
 }

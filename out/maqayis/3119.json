@@ -11,7 +11,16 @@
   "page_to": 502
  },
  "ar": "الفاء والسين والقاف كلمة واحدة، وهى الفِسْق، وهو الخُروج عن الطَّاعة. تقول العرب: فَسقَتِ الرُّطَبَةُ عن قِشْرها: إذا خرجَتْ، حكاه الفَرَّاء. ويقولون: إنّ الفأرة فُوَيْسِقة، وجاء هذا فى الحديث. قال ابنُ الأعرابىِّ:\nلم يُسْمع قَطُّ فى كلامِ الجاهليَّة فى شعرٍ * ولا كلامٍ: فاسق. قال: وهذا عجبٌ، هو كلامٌ عربىٌّ ولم يأتِ فى شعرٍ جاهلىٍّ (٢).",
- "az": "[فسق] الفاء والسين والقاف كلمة واحدة (Fə, sin və qaf hərfləri tək bir sözdür), وهى الفِسْق (və o, fəsqdir), وهو الخُروج عن الطَّاعة (və o da itaətdən çıxmaqdır). تقول العرب (Ərəblər deyirlər): فَسقَتِ الرُّطَبَةُ عن قِشْرها (yaş xurma qabığından çıxdı): إذا خرجَتْ (çıxdığı zaman), حكاه الفَرَّاء (bunu Fəra nəql etmişdir). ويقولون (Və deyirlər): إنّ الفأرة فُوَيْسِقة (həqiqətən, siçan „füveysiqə“dir — kiçik fasiqdir), وجاء هذا فى الحديث (və bu, hədisdə də gəlmişdir). قال ابنُ الأعرابىِّ (İbn əl-Ərabi demişdir): لم يُسْمع قَطُّ فى كلامِ الجاهليَّة فى شعرٍ * ولا كلامٍ (Cahiliyyət dövrünün nəşrində və ya danışığında əsla eşidilməmişdir): فاسق (fasiq sözü). قال (O dedi): وهذا عجبٌ (və bu təəccüblüdür), هو كلامٌ عربىٌّ ولم يأتِ فى شعرٍ جاهليٍّ (٢) (bu, ərəb sözüdür, lakin cahiliyyət şeirində gəlməmişdir).",
+ "az": "[فسق] الفاء والسين والقاف (fa, sin və qaf) tək bir sözdür, o da الفِسْق — itaətdən çıxmaqdır. Ərəblər deyirlər: فَسقَتِ الرُّطَبَةُ عن قِشْرها: yaş xurma qabığından çıxdığı zaman işlənir, bunu əl-Fərra nəql etmişdir. Deyirlər ki, siçan فُوَيْسِقة (kiçik fasiq) adlanır və bu hədisdə də gəlmişdir. İbn əl-Ərabi demişdir: Cahiliyyət dövrünün nəsrində və ya şeirində فاسق (fasiq) sözü əsla eşidilməmişdir. O dedi: Bu təəccüblüdür, çünki o, ərəb sözüdür, lakin cahiliyyət şeirində gəlməmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.151Z"
+ "ts": "2026-10-26T00:28:00.151Z",
+ "prev_az": "[فسق] الفاء والسين والقاف كلمة واحدة (Fə, sin və qaf hərfləri tək bir sözdür), وهى الفِسْق (və o, fəsqdir), وهو الخُروج عن الطَّاعة (və o da itaətdən çıxmaqdır). تقول العرب (Ərəblər deyirlər): فَسقَتِ الرُّطَبَةُ عن قِشْرها (yaş xurma qabığından çıxdı): إذا خرجَتْ (çıxdığı zaman), حكاه الفَرَّاء (bunu Fəra nəql etmişdir). ويقولون (Və deyirlər): إنّ الفأرة فُوَيْسِقة (həqiqətən, siçan „füveysiqə“dir — kiçik fasiqdir), وجاء هذا فى الحديث (və bu, hədisdə də gəlmişdir). قال ابنُ الأعرابىِّ (İbn əl-Ərabi demişdir): لم يُسْمع قَطُّ فى كلامِ الجاهليَّة فى شعرٍ * ولا كلامٍ (Cahiliyyət dövrünün nəşrində və ya danışığında əsla eşidilməmişdir): فاسق (fasiq sözü). قال (O dedi): وهذا عجبٌ (və bu təəccüblüdür), هو كلامٌ عربىٌّ ولم يأتِ فى شعرٍ جاهليٍّ (٢) (bu, ərəb sözüdür, lakin cahiliyyət şeirində gəlməmişdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«nəsr» (كلام) sözü «nəşr» kimi yanlış tərcümə olunub."
+ ],
+ "review_ts": "2026-11-24T03:41:44.041Z"
 }

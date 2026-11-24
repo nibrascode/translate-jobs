@@ -11,7 +11,16 @@
   "page_to": 442
  },
  "ar": "الفاء والقاف والهاء أصلٌ واحد صحيح، يدلُّ على إدراكِ الشَّئ والعِلْمِ به. تقول: فَقِهْتُ الحديث أفْقَهُه. وكلُّ عِلْمٍ بشئٍ فهو فِقْه.\nيقولون: لا يَفْقَه ولا يَنْقَه. ثم اختُصَّ بذلك علمُ الشَّريعة، فقيل لكلِّ عالم بالحلال والحرام: فقيه. وأَفْقَهْتُك الشَّئ، إذا بَيّنْتُه لك.",
- "az": "[فقه]\nFə, qaf və hə bir səhih əsldir, bir şeyi dərk etməyə və onu bilməyə dəlalət edir. Deyirsən: «فَقِهْتُ الحديث أفْقَهُه» (hədisi/sözü anladım, onu dərk edirəm). Bir şeyə dair hər bir elm «فِقْه» (fiqh)-dir.\nDeyirlər: «لا يَفْقَه ولا يَنْقَه» (nə anlayır, nə dərk edir). Sonra şəriət elmi bu adla xüsusiləşdirildi və halal-haramı bilən hər bir alimə «فقيه» (fəqih) deyildi. «أَفْقَهْتُك الشَّئ» — onu sənə bəyan etdiyin, başa saldığın zaman deyilir.",
+ "az": "[فقه]\nFə, qaf və hə bir səhih əsldir, bir şeyi dərk etməyə və onu bilməyə dəlalət edir. Deyirsən: «فَقِهْتُ الحديث أفْقَهُه» (hədisi/sözü anladım, onu dərk edirəm). Bir şeyə dair hər bir elm «فِقْه» (fiqh)-dir.\nDeyirlər: «لا يَفْقَه ولا يَنْقَه» (nə anlayır, nə dərk edir). Sonra şəriət elmi bu adla xüsusiləşdirildi və halal-haramı bilən hər bir alimə «فقيه» (fəqih) deyildi. «أَفْقَهْتُك الشَّئ» — onu sənə bəyan etdiyim, başa saldığım zaman deyilir.",
  "model": "gemini-flash-latest",
- "ts": "2026-10-26T00:24:21.922Z"
+ "ts": "2026-10-26T00:24:21.922Z",
+ "prev_az": "[فقه]\nFə, qaf və hə bir səhih əsldir, bir şeyi dərk etməyə və onu bilməyə dəlalət edir. Deyirsən: «فَقِهْتُ الحديث أفْقَهُه» (hədisi/sözü anladım, onu dərk edirəm). Bir şeyə dair hər bir elm «فِقْه» (fiqh)-dir.\nDeyirlər: «لا يَفْقَه ولا يَنْقَه» (nə anlayır, nə dərk edir). Sonra şəriət elmi bu adla xüsusiləşdirildi və halal-haramı bilən hər bir alimə «فقيه» (fəqih) deyildi. «أَفْقَهْتُك الشَّئ» — onu sənə bəyan etdiyin, başa saldığın zaman deyilir.",
+ "prev_model": "gemini-flash-latest",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«أَفْقَهْتُك الشَّئ، إذا بَيّنْتُه لك» ifadəsində «بَيّنْتُه» (mən bəyan etdim) feli səhvən ikinci şəxsdə («bəyan etdiyin, başa saldığın») tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-24T03:11:02.052Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 505
  },
  "ar": "الفاء والشين والقاف، ليس هو عندى أصلاً، ولكنَّهم يقولون: الفَشَق: المُباغَتة. فَاشَقَ: باغَتَ. وفَشَقَ بنو فلانٍ الدُّنيا (٢)، إذا كثُرَت عليهم فلَعِبوا بها. واللّه أعلم بالصَّواب.",
- "az": "[فشق] الفاء والشين والقاف (Fə, şin və qaf), ليس هو عندى أصلاً (mənə görə bu, əsl kök deyil), ولكنَّهم يقولون (lakin onlar deyirlər): الفَشَق (əl-fəşəq): المُباغَتة (qəfil yaxalamaq). فَاشَقَ (faişəq): باغَتَ (qəfil yaxaladı). وفَشَقَ بنو فلانٍ الدُّنيا (٢) (Filankəsin oğulları dünyanı fəşəq etdilər): إذا كثُرَت عليهم فلَعِبوا بها (dünya onlara bol olduqda və onunla əyləndikdə). واللّه أعلم بالصَّواب (Ən doğrusunu Allah bilir).",
+ "az": "[فشق] (Fa, şin və qaf) mənə görə əsl kök deyildir. Lakin onlar deyirlər: الفَشَقُ (əl-fəşəq) – qəfil yaxalamaqdır. فَاشَقَ (faşəqa): qəfil yaxaladı (بَاغَتَ). Dünya bir qövmə bol olub onunla oynayıb əyləndikdə: فَشَقَ بَنُو فُلاَنٍ الدُّنْيَا (filankəsoğulları dünyanı fəşəq etdilər) deyilir (٢). Doğrusunu Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.152Z"
+ "ts": "2026-10-26T00:28:00.152Z",
+ "prev_az": "[فشق] الفاء والشين والقاف (Fə, şin və qaf), ليس هو عندى أصلاً (mənə görə bu, əsl kök deyil), ولكنَّهم يقولون (lakin onlar deyirlər): الفَشَق (əl-fəşəq): المُباغَتة (qəfil yaxalamaq). فَاشَقَ (faişəq): باغَتَ (qəfil yaxaladı). وفَشَقَ بنو فلانٍ الدُّنيا (٢) (Filankəsin oğulları dünyanı fəşəq etdilər): إذا كثُرَت عليهم فلَعِبوا بها (dünya onlara bol olduqda və onunla əyləndikdə). واللّه أعلم بالصَّواب (Ən doğrusunu Allah bilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə cümlələr tərcümənin daxilində təkrarən verilərək mətn strukturu pozulub."
+ ],
+ "review_ts": "2026-11-24T03:42:11.472Z"
 }

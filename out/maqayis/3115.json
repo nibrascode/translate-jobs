@@ -11,7 +11,17 @@
   "page_to": 500
  },
  "ar": "الفاء والراء والدال أصلٌ صحيحٌ يدلُّ على وُحْدة. من ذلك الفَرْد وهو الوَتْر. والفارد والفَرْد: الثَّور المنفرِد. وظبيةٌ فاردٌ: انقطعت عن القَطيع، وكذلك السِّدرة الفاردةُ، انفرَدَتْ عن سائر السِّدر. وأفراد النجوم:\nالدَّرارىُّ فى آفاق السَّماء. والفريد: الدُّرُّ إذا نُظِم وفصِّل بَينَه بغَيرِه. واللّه أعلم بالصّواب.",
- "az": "[فرد] الفاء والراء والدال أصلٌ صحيحٌ يدلُّ على وُحْدة (Fay, ra və dal təkliyi göstərən səhih kökdür). من ذلك الفَرْد وهو الوَتْر (Ondandır «əl-fərd», o da tək — tək olan rəqəmdir). والفارد والفَرْد: الثَّور المنفرِد (Və «əl-farid» və «əl-fərd» — tək qalan öküz). وظبيةٌ فاردٌ: انقطعت عن القَطيع، وكذلك السِّدرة الفاردةُ، انفرَدَتْ عن سائر السِّدر (Və «zəbiyətün farid» — sürüdən ayrılmış ceyran, eləcə də digər sidr ağaclarından tək qalmış sidr ağacı). وأفراد النجوم: الدَّرارىُّ فى آفاق السَّماء (Və ulduzların fərdləri — səma üfüqlərindəki parıldayan ulduzlardır). والفريد: الدُّرُّ إذا نُظِم وفصِّل بَينَه بغَيرِه (Və «əl-fərid» — düzülüb arasında başqaları ilə ayrılmış mirvaridir). واللّه أعلم بالصّواب (Ən doğrusunu Allah bilir).",
+ "az": "[فرد] الفاء والراء والدال (fa, ra və dal) təkliyi göstərən səhih bir kökdür. Ondandır: الفَرْد — o, tək olan rəqəmdir. الفارد və الفَرْد: tək qalan öküzdür. ظبيةٌ فاردٌ: sürüdən ayrılmış ceyran, eləcə də السِّدرة الفاردةُ: digər sidr ağaclarından tək ayrılmış sidr ağacıdır. أفراد النجوم: səma üfüqlərindəki parıldayan ulduzlardır. والفريد: düzüldükdə arasında başqaları ilə fasilə verilmiş mirvaridir. Ən doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:27:33.580Z"
+ "ts": "2026-10-26T00:27:33.580Z",
+ "prev_az": "[فرد] الفاء والراء والدال أصلٌ صحيحٌ يدلُّ على وُحْدة (Fay, ra və dal təkliyi göstərən səhih kökdür). من ذلك الفَرْد وهو الوَتْر (Ondandır «əl-fərd», o da tək — tək olan rəqəmdir). والفارد والفَرْد: الثَّور المنفرِد (Və «əl-farid» və «əl-fərd» — tək qalan öküz). وظبيةٌ فاردٌ: انقطعت عن القَطيع، وكذلك السِّدرة الفاردةُ، انفرَدَتْ عن سائر السِّدر (Və «zəbiyətün farid» — sürüdən ayrılmış ceyran, eləcə də digər sidr ağaclarından tək qalmış sidr ağacı). وأفراد النجوم: الدَّرارىُّ فى آفاق السَّماء (Və ulduzların fərdləri — səma üfüqlərindəki parıldayan ulduzlardır). والفريد: الدُّرُّ إذا نُظِم وفصِّل بَينَه بغَيرِه (Və «əl-fərid» — düzülüb arasında başqaları ilə ayrılmış mirvaridir). واللّه أعلم بالصّواب (Ən doğrusunu Allah bilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərflərin adında «Fay» istifadə olunub.",
+  "Mötərizələrə ərəb sözləri əvəzinə latın transkripsiyaları yazılıb."
+ ],
+ "review_ts": "2026-11-24T03:41:44.040Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 415
  },
  "ar": "الغين والدال والقاف أصلٌ صحيح يدلُّ على غُزْر وكثرةٍ ونَعْمَة. من ذلك الغَدَق، وهو الغَزير الكثير. قال اللّه تعالى:\n﴿لَأَسْقَيْناهُمْ ماءً غَدَقاً﴾. والغَدَق (١) والغَيْدَاق: النَّاعم من كلِّ شئ. ويقال غَدِقت عين الماء تَغْدَق غَدَقاً. والغَيْداق: الرَّجلُ الكريم الخُلُق. وزعَم ناسٌ أنَّ الضبَّ يسمَّى غَيداقاً، ولعلّ ذلك لا يكون إلاّ لسِمَن ونَعْمةٍ فيه.",
- "az": "«غدق» (ğədəqə): الغين، الدال والقاف أصل صحيح يدلُّ على غُزْر وكثرةٍ ونَعْمَة (bolluğa, çoxluğa və nemətə dəlalət edən səhih təməldir). ومن ذلك الغَدَق (əl-ğədəq): bol və çox. Uca Allah buyurmuşdur: مənaca tərcümə: «Onları bol su ilə suvarardıq» (﴿لَأَسْقَيْناهُمْ ماءً غَدَقاً﴾). Və əl-ğədəq (١) ilə əl-ğeydaq (الغَيْدَاق): hər şeyin təravətlisi. Deyilir: غَدِقت عين الماء تَغْدَق غَدَقاً (bulağın gözü bol su verdi). Və əl-ğeydaq: xasiyyəti kərim, alicənab kişi. Bəzi insanlar iddia etmişlər ki, kərtənkələn (ضبّ) ğeydaq adlandırılır, ola bilsin ki, bu, yalnız onda olan köklük və nemətdən irəli gəlir.",
+ "az": "[غدق]\nĞayn, dal və qaf hərfləri bolluğa, çoxluğa və nemətə dəlalət edən səhih təməldir. Bunlardan biri الغَدَق (əl-ğədəq) sözüdür ki, bol və çox deməkdir. Uca Allah buyurmuşdur:\n﴿لَأَسْقَيْناهُمْ ماءً غَدَقاً﴾ (mənaca tərcümə: «Onları bol su ilə suvarardıq»). الغَدَق (١) (əl-ğədəq) və الغَيْدَاق (əl-ğeydaq) hər şeyin təravətlisi, zərifi deməkdir. Deyilir: غَدِقت عين الماء تَغْدَق غَدَقاً (bulağın gözü bol su verdi). الغَيْداق (əl-ğeydaq) xasiyyəti kərim, alicənab kişidir. Bəzi insanlar iddia etmişlər ki, الضبّ (çöl kərtənkələsi) غَيداق (ğeydaq) adlandırılır; ola bilsin ki, bu, yalnız onda olan köklük və nemətə görədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:12.189Z"
+ "ts": "2026-10-25T18:38:12.189Z",
+ "prev_az": "«غدق» (ğədəqə): الغين، الدال والقاف أصل صحيح يدلُّ على غُزْر وكثرةٍ ونَعْمَة (bolluğa, çoxluğa və nemətə dəlalət edən səhih təməldir). ومن ذلك الغَدَق (əl-ğədəq): bol və çox. Uca Allah buyurmuşdur: مənaca tərcümə: «Onları bol su ilə suvarardıq» (﴿لَأَسْقَيْناهُمْ ماءً غَدَقاً﴾). Və əl-ğədəq (١) ilə əl-ğeydaq (الغَيْدَاق): hər şeyin təravətlisi. Deyilir: غَدِقت عين الماء تَغْدَق غَدَقاً (bulağın gözü bol su verdi). Və əl-ğeydaq: xasiyyəti kərim, alicənab kişi. Bəzi insanlar iddia etmişlər ki, kərtənkələn (ضبّ) ğeydaq adlandırılır, ola bilsin ki, bu, yalnız onda olan köklük və nemətdən irəli gəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[غدق]» formatında verilməyib.",
+  "Giriş cümləsi və «ومن ذلك» ifadəsi tərcüməsiz ərəbcə saxlanılıb.",
+  "Quran ayəsinin tərcüməsində «مənaca» sözündə ərəb hərfi qarışıb və format pozulub.",
+  "«كərtənkələn» sözü səhv yazılıb."
+ ],
+ "review_ts": "2026-11-24T03:02:23.499Z"
 }

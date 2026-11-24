@@ -11,7 +11,16 @@
   "page_to": 476
  },
  "ar": "الفاء والجيم والسين كلمة إنْ صحَّت. يقولون: الفَجْس:\nالتكبُّر والتعظُّم. يقال منه: تَفَجَّسَ.",
- "az": "«فجس» (fə-c-s): Fə, cim və sin hərfləri əgər səhihdirsə, bir kəlmədir. Deyirlər ki, «الفَجْس» (fəcs) - təkəbbürlük və ululanmaqdır. Bundan «تَفَجَّسَ» (təfəccəsə) feili düzəlir.",
+ "az": "[فجس] fə, cim və sin hərfləri — əgər səhihdirsə — bir kəlmədir. Deyirlər: «الفَجْس» (fəcs) — təkəbbürlənmək və ululanmaqdır. Buradan «تَفَجَّسَ» (təfəccəsə) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:26:21.848Z"
+ "ts": "2026-10-26T00:26:21.848Z",
+ "prev_az": "«فجس» (fə-c-s): Fə, cim və sin hərfləri əgər səhihdirsə, bir kəlmədir. Deyirlər ki, «الفَجْس» (fəcs) - təkəbbürlük və ululanmaqdır. Bundan «تَفَجَّسَ» (təfəccəsə) feili düzəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök formatı qaydaya uyğun deyil."
+ ],
+ "review_ts": "2026-11-24T03:37:54.091Z"
 }

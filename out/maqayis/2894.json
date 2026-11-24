@@ -11,7 +11,17 @@
   "page_to": 403
  },
  "ar": "الغين والياء والثاء أصلٌ صحيح، وهو الحَيَا النّازِلُ من السَّماء.\nيقال: جادَنا غيثٌ (٢)، وهذه أرضٌ مَغِيثَةٌ ومغيوثة. وغِثْنا، أى أصابنَا الغَيْث (٣). قال ذو الرُّمَّة: «ما رأيتُ أفصَحَ مِنْ أَمَةِ آل فلان، قلتُ لها:\nكيف كان المطر عندكم؟ قالت: غِثْنا ما شِينَا».",
- "az": "[غيث] (ğə-ya-sə) - الغين (ğeyn), الياء (yə) və الثاء (sə) səhih bir əsasdır, o da göydən enən əl-həya (yağış) deməkdir.\n\nBelə deyilir: cadəna ğeytun (جادَنا غيثٌ), və bu, məğisət və məğyusət (مَغِيثَةٌ ومغيوثة) bir yerdir. Və ğisna (وغِثْنا), yəni bizə ğeyb (yağış) dəydi (٣). Zü əl-Rumfə demişdir: «Mən filan ailəsinin cariyəsindən daha fəsih birini görmədim, ona dedim: Sizin yanınızda yağış necə idi? Dediyi: Biz istədiyimiz qədər yağışa tutulduq (ğisna mə şəyna)».",
+ "az": "[غيث]\nالغين (ğeyn), الياء (ya) və الثاء (sa) səhih bir əsasdır, o da göydən enən الحَيَا (yağış)dır.\nBelə deyilir: جادَنا غيثٌ (bizə bol yağış yağdı) (٢), və bu, مَغِيثَةٌ ومغيوثة (yağış yağmış) bir yerdir. غِثْنا (bizə yağış yağdı), yəni bizə الغَيْث (yağış) yetişdi (٣). Zü ər-Rummə demişdir: «Mən filan ailənin cariyəsindən daha fəsih birini görmədim; ona dedim:\nSizin yanınızda yağış necə idi? Dedi: Bizə istədiyimiz qədər yağış yağdı (غِثْنا ما شِينَا)».",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:31.267Z"
+ "ts": "2026-10-25T18:37:31.267Z",
+ "prev_az": "[غيث] (ğə-ya-sə) - الغين (ğeyn), الياء (yə) və الثاء (sə) səhih bir əsasdır, o da göydən enən əl-həya (yağış) deməkdir.\n\nBelə deyilir: cadəna ğeytun (جادَنا غيثٌ), və bu, məğisət və məğyusət (مَغِيثَةٌ ومغيوثة) bir yerdir. Və ğisna (وغِثْنا), yəni bizə ğeyb (yağış) dəydi (٣). Zü əl-Rumfə demişdir: «Mən filan ailəsinin cariyəsindən daha fəsih birini görmədim, ona dedim: Sizin yanınızda yağış necə idi? Dediyi: Biz istədiyimiz qədər yağışa tutulduq (ğisna mə şəyna)».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«جادَنا غيثٌ» və «أرضٌ مَغِيثَةٌ ومغيوثة» ifadələrinin tərcüməsi verilməyib, (٢) haşiyə rəqəmi buraxılıb.",
+  "«الغَيْث» sözü «ğeyb» kimi, «ذو الرُّمَّة» adı «Zü əl-Rumfə» kimi, «Dedi» sözü isə «Dediyi» kimi səhv yazılıb."
+ ],
+ "review_ts": "2026-11-24T03:00:23.431Z"
 }

@@ -11,9 +11,18 @@
   "page_to": 378
  },
  "ar": "الغين والنون أُصَيلٌ صحيح، وهو يدلُّ على صوتٍ كأنه غير مفهوم، إمَّا لاِختلاطِه، وإما لعلّةٍ تصاحبه. من ذلك قولُهم: قريةٌ غَنّاء، يراد بذلك تجمُّع أصواتِهم واختلاطُ جَلبتهم. ووادٍ أغَنُّ: ملتَفُّ النَّبات، فتَرى الرِّيح تجرى فيه ولها غُنَّة؛ ويكون ذلك من كَثرة ذُبابه. ومنه الغُنَّة فى الرَّجُل الأغنِّ، وهو خروجُ كلامِهِ كأنّه بأنفه.",
- "az": "«غن» (غ, ن). الغين والنون أُصَيلٌ صحيح (əsinə uyğun kiçik səhih kökdür), وهو يدلُّ على صوتٍ كأنه غير مفهوم (və o, sanki başa düşülməyən bir səsə dəlalət edir), إمَّا لاِختلاطِه (ya qarışdığı üçün), وإما لعلّةٍ تصاحبه (ya da onunla birlikdə olan bir xəstəliyə görə). من ذلك قولُهم (bundandır onların bu sözü): قريةٌ غَنّاء («əənna» kəndi), يراد بذلك تجمُّع أصواتِهم واختلاطُ جَلبتهم (bununla onların səslərinin toplanması və hay-küylərinin qarışması qəsd olunur). ووادٍ أغَنُّ (və «əənn» vadisi): ملتَفُّ النَّبات (sıx bitkiləri olan), فتَرى الرِّيح تجرى فيه ولها غُنَّة (görürsən ki, külək orada əsir və onun fısıltılı səsi var); ويكون ذلك من كَثرة ذُبابه (və bu, oradakı milçəklərin çoxluğundan olur). ومنه الغُنَّة فى الرَّجُل الأغنِّ (və bundandır «əənn» kişinin burnundan danışması), وهو خروجُ كلامِهِ كأنّه بأنفه (və bu, onun danışığının sanki burnundan çıxmasıdır).",
+ "az": "[غن]\nĞayn və nun hərfləri səhih bir kiçik kökdür; o, ya qarışdığı üçün, ya da onunla birlikdə olan bir qüsur səbəbindən sanki başa düşülməyən bir səsə dəlalət edir. Bundandır onların قريةٌ غَنّاء (ğənna kənd) sözü; bununla oradakıların səslərinin toplanması və hay-küylərinin qarışması nəzərdə tutulur. وادٍ أغَنُّ (əğənn vadi): sıx bitkiləri olan vadi deməkdir; görürsən ki, külək orada əsir və onun vıyıltılı səsi olur; bu, oradakı milçəklərin çoxluğundan da olur. Bundandır الأغنّ (əğənn) kişidəki الغُنَّة (ğunnə), yəni onun danışığının sanki burnundan çıxmasıdır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T18:35:31.146Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«غن» (غ, ن). الغين والنون أُصَيلٌ صحيح (əsinə uyğun kiçik səhih kökdür), وهو يدلُّ على صوتٍ كأنه غير مفهوم (və o, sanki başa düşülməyən bir səsə dəlalət edir), إمَّا لاِختلاطِه (ya qarışdığı üçün), وإما لعلّةٍ تصاحبه (ya da onunla birlikdə olan bir xəstəliyə görə). من ذلك قولُهم (bundandır onların bu sözü): قريةٌ غَنّاء («əənna» kəndi), يراد بذلك تجمُّع أصواتِهم واختلاطُ جَلبتهم (bununla onların səslərinin toplanması və hay-küylərinin qarışması qəsd olunur). ووادٍ أغَنُّ (və «əənn» vadisi): ملتَفُّ النَّبات (sıx bitkiləri olan), فتَرى الرِّيح تجرى فيه ولها غُنَّة (görürsən ki, külək orada əsir və onun fısıltılı səsi var); ويكون ذلك من كَثرة ذُبابه (və bu, oradakı milçəklərin çoxluğundan olur). ومنه الغُنَّة فى الرَّجُل الأغنِّ (və bundandır «əənn» kişinin burnundan danışması), وهو خروجُ كلامِهِ كأنّه بأنفه (və bu, onun danışığının sanki burnundan çıxmasıdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«غن» yerinə «[غن]» yazılmalı, əlavə edilmiş «(غ, ن)» hissəsi çıxarılmalıdır.",
+  "Transliterasiyada «ğ» hərfi «ə» kimi pozulmuş («əənna», «əənn»), «أُصَيلٌ صحيح» ifadəsi «əsinə uyğun kiçik səhih kökdür» şəklində təhrif edilmiş və «الغين والنون» hissəsi tərcüməsiz qalmışdır."
+ ],
+ "review_ts": "2026-11-24T02:59:45.702Z"
 }

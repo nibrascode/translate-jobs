@@ -11,7 +11,16 @@
   "page_to": 412
  },
  "ar": "الغين والتاء والميم أصلٌ يدلُّ على انفلاقٍ فى الشئ وانسداد.\nمن ذلك الغُتْمة، وهى العُجْمة فى المَنْطِق. ويقال للأخْذ بالنَّفْس: الغَتْم. ويقال للرَّجُل إذا مات: «ورَدَ حِياضَ غُتَيْم»، وهو ذلك القياسُ لأنَّه يأتى بيتاً مسدودا.",
- "az": "[غتم] الغين والتاء والميم أصلٌ يدلُّ على انفلاقٍ فى الشئ وانسداد (ğeyn, ta və mim hərfləri şeydə yarılma və qapanmaya dəlalət edən kökdür).\nمن ذلك الغُتْمة، وهى العُجْمة فى المَنْطِق (O cümlədən əl-ğutmə - nitqdəki əcəmlikdir).",
+ "az": "[غتم]\nالغين والتاء والميم أصلٌ يدلُّ على انفلاقٍ فى الشئ وانسداد (ğayn, ta və mim hərfləri şeydə yarılma və qapanmaya dəlalət edən kökdür).\nمن ذلك الغُتْمة، وهى العُجْمة فى المَنْطِق (O cümlədən الغُتْمة (əl-ğutmə) – nitqdəki anlaşılmazlıqdır (əcəmlikdir)). ويقال للأخْذ بالنَّفْس: الغَتْم (Nəfəsi tutmağa (boğmağa) الغَتْم (əl-ğətm) deyilir). ويقال للرَّجُل إذا مات: «ورَدَ حِياضَ غُتَيْم»، وهو ذلك القياسُ لأنَّه يأتى بيتاً مسدودا (Kişi öldükdə deyilir: «ورَدَ حِياضَ غُتَيْم» (Ğüteymin hovuzlarına endi); bu da həmin qiyasdır, çünki o, qapalı bir evə (qəbrə) gəlir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:47.719Z"
+ "ts": "2026-10-25T18:37:47.719Z",
+ "prev_az": "[غتم] الغين والتاء والميم أصلٌ يدلُّ على انفلاقٍ فى الشئ وانسداد (ğeyn, ta və mim hərfləri şeydə yarılma və qapanmaya dəlalət edən kökdür).\nمن ذلك الغُتْمة، وهى العُجْمة فى المَنْطِق (O cümlədən əl-ğutmə - nitqdəki əcəmlikdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin ikinci yarısı (الغَتْم və «ورَدَ حِياضَ غُتَيْم» məsəli ilə bağlı hissə) tamamilə buraxılmışdır."
+ ],
+ "review_ts": "2026-11-24T03:01:32.684Z"
 }

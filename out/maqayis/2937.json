@@ -11,7 +11,18 @@
   "page_to": 423
  },
  "ar": "الغين والزاء والدال ليس يُشْبِه صحيح كلام العرب. وقد زعموا أنَّ الغِزْيد (٤) الشديد الصوت، وأن الغِزْيَد: النبات النَّاعم. واللّه أعلم.",
- "az": "[غزد] الغين والزاء والدال ليس يُشْبِه صحيح كلام العرب. وقد زعموا أنَّ الغِزْيد (٤) الشَّديد الصوت، وأن الغِزْيَد: النبات النَّاعم. واللّه أعلم. \nGeyn, zay və dal ərəblərin səhih sözlərinə bənzəmir. Lakin iddia etmişlər ki, الغِزْيد (əl-ğizyd) (٤) – səsi çox uca olan, əl-ğizyd isə yumşaq bitkidir. Allah daha yaxşı bilir.",
+ "az": "[غزد]\nĞayn, zey və dal ərəblərin səhih sözlərinə bənzəmir. İddia etmişlər ki, الغِزْيد (əl-ğizyəd) (٤) – səsi çox uca olan, الغِزْيَد (əl-ğizyəd) isə yumşaq bitkidir. Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:40.244Z"
+ "ts": "2026-10-25T18:38:40.244Z",
+ "prev_az": "[غزد] الغين والزاء والدال ليس يُشْبِه صحيح كلام العرب. وقد زعموا أنَّ الغِزْيد (٤) الشَّديد الصوت، وأن الغِزْيَد: النبات النَّاعم. واللّه أعلم. \nGeyn, zay və dal ərəblərin səhih sözlərinə bənzəmir. Lakin iddia etmişlər ki, الغِزْيد (əl-ğizyd) (٤) – səsi çox uca olan, əl-ğizyd isə yumşaq bitkidir. Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlində ərəbcə mətn təkrarlanıb.",
+  "Hərf adları «Geyn, zay» kimi yazılıb, düzgünü «Ğayn, zey» olmalıdır.",
+  "İkinci cümlədə «الغِزْيَد» sözünün ərəbcə yazılışı buraxılıb."
+ ],
+ "review_ts": "2026-11-24T03:08:47.141Z"
 }

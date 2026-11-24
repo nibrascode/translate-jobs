@@ -11,7 +11,17 @@
   "page_to": 455
  },
  "ar": "الفاء والنون والكاف كلمتان. قالوا: الفَنْك: اللَّجَاج:\nويقال اللزوم. يقال: فَنَكَ: أقام.\nوالكلمة الأُخرى: الفَنِيك: طرف اللَّحْيين عند العَنْفقة. قال بعضُهم:\nسألت أبا عمرٍو الشيبانىَّ عن الفَنِيك فقال: أمَّا الأعلى فمجتمَع اللَّحيين عند الذَّقَن، وأمَّا الأسفل فمجتمع الورِكَين حيثُ يلتقيان.",
- "az": "«فنك» (fənək): Fə, nun və kaf hərflərindən ibarət iki söz vardır. Deyirlər ki, «الفَنْك» (fənk) — inadkarlıqdır.\nHəmçinin qalıb durmaq mənasında da işlədilir. Deyilir: «فَنَكَ» (fənəkə) — qaldı, oturdu.\nDigər söz isə «الفَنِيك» (fəniq) — çənənin saqqalaltı bitişən yerindəki ucdur. Bəziləri demişdir:\nƏbu Əmr əş-Şeybanidən «الفَنِيك» (fəniq) haqqında soruşdum, o dedi: Yuxarıdakı, çənənin altında iki çənənin birləşdiyi yerdir, aşağıdakı isə birləşdikləri yerdə iki bud sümüyünün birləşdiyi yerdir.",
+ "az": "[فنك] Fə, nun və kaf iki sözdür. Dedilər ki, «الفَنْك» — inadkarlıqdır; lüzum (bir yerdə dayanmaq) mənasında olduğu da deyilir. Deyilir: «فَنَكَ» (qaldı, məskən saldı).\nDigər söz isə «الفَنِيك» — çənənin saqqalaltı bitişən yerindəki ucdur. Bəziləri demişdir:\nƏbu Əmr əş-Şeybanidən «الفَنِيك» haqqında soruşdum, o dedi: Yuxarıdakı, çənənin altında iki çənə sümüyünün birləşdiyi yerdir, aşağıdakı isə birləşdikləri yerdə iki bud sümüyünün birləşdiyi yerdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:06.106Z"
+ "ts": "2026-10-26T00:25:06.106Z",
+ "prev_az": "«فنك» (fənək): Fə, nun və kaf hərflərindən ibarət iki söz vardır. Deyirlər ki, «الفَنْك» (fənk) — inadkarlıqdır.\nHəmçinin qalıb durmaq mənasında da işlədilir. Deyilir: «فَنَكَ» (fənəkə) — qaldı, oturdu.\nDigər söz isə «الفَنِيك» (fəniq) — çənənin saqqalaltı bitişən yerindəki ucdur. Bəziləri demişdir:\nƏbu Əmr əş-Şeybanidən «الفَنِيك» (fəniq) haqqında soruşdum, o dedi: Yuxarıdakı, çənənin altında iki çənənin birləşdiyi yerdir, aşağıdakı isə birləşdikləri yerdə iki bud sümüyünün birləşdiyi yerdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığının formatı standart qaydalara uyğun deyil.",
+  "«الفَنِيك» sözünün transkripsiyasında səhv var."
+ ],
+ "review_ts": "2026-11-24T03:26:23.943Z"
 }

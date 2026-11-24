@@ -11,7 +11,18 @@
   "page_to": 414
  },
  "ar": "الغين والدال والفاء أصلٌ صحيح يدلُّ على سَتْرٍ وتغطية.\nيقال: أغدَفَتِ المرأة قِناعَها: أرسلَتْه. قال:\nإن تُغْدِفى دونى القِناعَ فإنَّنى … طبٌّ بأَخْذِ الفارسِ المستلئِمِ (٤)\nوأغْدَف اللَّيْلُ: أرْخَى سُدولَه. وأمَّا الغُراب الضَّخم فإنَّه يُسمَّى غُدافاً، وهذا تشبيه بإغداف اللَّيل: إظْلامِه (٥).",
- "az": "«غدف» (ğədəfə): الغين، الدال والفاء أصل صحيح يدلُّ على سَتْرٍ وتغطية (örtməyə və bürüməyə dəlalət edən səhih təməldir). Deyilir: أغْدَفَتِ المرأة قِناعَها (qadın örpəyini saldı / örtdü). O demişdir: إن تُغْدِفى دونى القِناعَ فإنَّنى … طبٌّ بأَخْذِ الفارسِ المستلئِمِ (٤) (Əgər üzümə örpəyi örtsən, bilin ki, mən dəmir-dümürlü (zirehli) süvarini tutmağın mahir bilicisiyəm). وأغْدَف اللَّيْلُ (gecə pərdələrini saldı / qaranlıq çöktü). Və amma iri qara qarğaya gəldikdə, o, غُداف (ğüdaf) adlanır; bu, gecənin pərdə salmasına - qaranlıqlaşmasına bənzətmədir (٥).",
+ "az": "[غدف]\nالغين والدال والفاء أصلٌ صحيح يدلُّ على سَتْرٍ وتغطية (ğayn, dal və fa hərfləri örtməyə və bürüməyə dəlalət edən səhih kökdür).\nيقال: أغدَفَتِ المرأة قِناعَها: أرسلَتْه (Deyilir: أغدَفَتِ المرأة قِناعَها: أرسلَتْه (qadın örpəyini saldı/örtdü)). قال:\nإن تُغْدِفى دونى القِناعَ فإنَّنى … طبٌّ بأَخْذِ الفارسِ المستلئِمِ (٤) (Demişdir: Əgər qarşımda örpəyini salsan da, həqiqətən mən zirehli süvarini ələ keçirməyin mahir ustasıyam (٤)).\nوأغْدَف اللَّيْلُ: أرْخَى سُدولَه (وأغْدَف اللَّيْلُ: أرْخَى سُدولَه (gecə pərdələrini saldı)). وأمَّا الغُراب الضَّخم فإنَّه يُسمَّى غُدافاً، وهذا تشبيه بإغداف اللَّيل: إظْلامِه (٥) (İri qarğaya gəldikdə isə, o, غُداف (ğüdaf) adlanır; bu, gecənin pərdə salmasına – qaranlıqlaşmasına bənzətmədir (٥)).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:12.189Z"
+ "ts": "2026-10-25T18:38:12.189Z",
+ "prev_az": "«غدف» (ğədəfə): الغين، الدال والفاء أصل صحيح يدلُّ على سَتْرٍ وتغطية (örtməyə və bürüməyə dəlalət edən səhih təməldir). Deyilir: أغْدَفَتِ المرأة قِناعَها (qadın örpəyini saldı / örtdü). O demişdir: إن تُغْدِفى دونى القِناعَ فإنَّنى … طبٌّ بأَخْذِ الفارسِ المستلئِمِ (٤) (Əgər üzümə örpəyi örtsən, bilin ki, mən dəmir-dümürlü (zirehli) süvarini tutmağın mahir bilicisiyəm). وأغْدَف اللَّيْلُ (gecə pərdələrini saldı / qaranlıq çöktü). Və amma iri qara qarğaya gəldikdə, o, غُداف (ğüdaf) adlanır; bu, gecənin pərdə salmasına - qaranlıqlaşmasına bənzətmədir (٥).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[غدف]» əvəzinə ««غدف» (ğədəfə):» formatında verilib və ilk cümlədəki «الغين، الدال والفاء» ifadəsi tərcüməsiz qalıb.",
+  "Ərəb sitatlarında «أرسلَتْه» və «أرْخَى سُدولَه» hissələri ixtisar edilib.",
+  "Şeirdə «دونى» (qarşımda) sözü «üzümə» kimi təhrif olunub, «الغُراب الضَّخم» ifadəsinə isə mənbədə olmayan «qara» sözü əlavə edilib."
+ ],
+ "review_ts": "2026-11-24T03:01:32.686Z"
 }

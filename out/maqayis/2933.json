@@ -11,7 +11,18 @@
   "page_to": 422
  },
  "ar": "الغين والراء والثاء أصلٌ صحيح يدلُّ على الجُوع.\nوالغَرَث: الجوع. ورجلٌ غَرْثانُ. ويستعيرون هذا فيقولون: جاريةٌ غَرْثَى الوِشاح، لأنَّها دقيقةُ الخَصْرِ لا يُملَأ وِشاحُها، وكأنَّ وِشاحَها غَرثان.",
- "az": "[غرث] الغين والراء والثاء أصلٌ صحيح يدلُّ على الجُوع. والغَرَث: الجوع. ورجلٌ غَرْثانُ. ويستعيرون هذا فيقولون: جاريةٌ غَرْثَى الوِشاح، لأنَّها دقيقةُ الخَصْرِ لا يُملَأ وِشاحُها، وكأنَّ وِشاحَها غَرثان. \nGeyn, ra və sə səhih bir kök olub, aclığa dəlalət edir. الغَرَث (əl-ğaras) – aclıqdır. ورجلٌ غَرْثانُ (raculun ğarsan) – ac kişi. Onlar bunu məcazi mənada işlədərək deyirlər: جاريةٌ غَرْثَى الوِشاح (cariyətun ğarsal-vişah – kəməri boş qalan/qarnı incə cariyə), çünki o, incəbellidir, kəməri (və ya boyunbağısı) dolmur, sanki onun kəməri acdır.",
+ "az": "[غرث]\nĞayn, ra və sa səhih bir kök olub, aclığa dəlalət edir.\nالغَرَث (əl-ğərəs): aclıqdır. ورجلٌ غَرْثانُ (ac kişi). Onlar bunu məcazi olaraq işlədib deyirlər: جاريةٌ غَرْثَى الوِشاح (kəməri ac olan cariyə), çünki o, incəbellidir, kəməri dolmur və sanki kəməri acdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:40.244Z"
+ "ts": "2026-10-25T18:38:40.244Z",
+ "prev_az": "[غرث] الغين والراء والثاء أصلٌ صحيح يدلُّ على الجُوع. والغَرَث: الجوع. ورجلٌ غَرْثانُ. ويستعيرون هذا فيقولون: جاريةٌ غَرْثَى الوِشاح، لأنَّها دقيقةُ الخَصْرِ لا يُملَأ وِشاحُها، وكأنَّ وِشاحَها غَرثان. \nGeyn, ra və sə səhih bir kök olub, aclığa dəlalət edir. الغَرَث (əl-ğaras) – aclıqdır. ورجلٌ غَرْثانُ (raculun ğarsan) – ac kişi. Onlar bunu məcazi mənada işlədərək deyirlər: جاريةٌ غَرْثَى الوِشاح (cariyətun ğarsal-vişah – kəməri boş qalan/qarnı incə cariyə), çünki o, incəbellidir, kəməri (və ya boyunbağısı) dolmur, sanki onun kəməri acdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Bütün ərəbcə mətn tərcümənin əvvəlinə olduğu kimi köçürülüb.",
+  "Hərfin adı səhvdir ('Geyn' əvəzinə 'Ğayn' olmalıdır) və 'وِشاح' sözü yanlışlıqla '(və ya boyunbağısı)' kimi izah edilib.",
+  "Abzas bölgüsü ərəbcə mətnə uyğun deyil."
+ ],
+ "review_ts": "2026-11-24T03:08:04.896Z"
 }

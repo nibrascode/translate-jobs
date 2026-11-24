@@ -11,7 +11,18 @@
   "page_to": 436
  },
  "ar": "الفاء والتاء كلمةٌ تدلُّ على تكسير (٢) شئ ورفْتِه. يقال: فَتَتُّ الشَّئَ أفُتُّ فَتَّا، فهو مفتوتٌ وفَتيت. وفُتَّة: ما يُفَتُّ ويُوضَع تحتَ الزَّند (٣).\nوفَتَّ فى عضُده، وذلك إذا أساء إليه، كأنَّه قد فَتَّ من عَضُده شيئاً.\nومما شذَّ عن هذا الأصل الفَتفتة: أن تشرب الإبلُ دونَ الرِّىّ.",
- "az": "[فت] الفاء والتاء (fa və ta) kəlməsi bir şeyin parçalanmasına və ovulmasına dəlalət edir. Deyilir: فَتَتُّ الشَّئَ أفُتُّ فَتَّا (fətəttüş-şəyə əfuttu fəttən), o, مفتوت (məftut) və فَتيت (fətit) olandır. Və فُتَّة (futtə): ovulan və yaylığın (və ya yəhər altlığının — الزَّند) altına qoyulan şeydir. Və فَتَّ فى عضُده (fəttə fi ədudih), bu, ona pislik etdikdə işlədilir, sanki onun bazubəndindən (qolundan) bir parça qoparmış kimidir. Bu əsldən istisna olan (şəzz) kəlmə ഫفتفتة (fəftətə): dəvələrin susuzluğunu tam yatırmadan su içməsidir.",
+ "az": "[فت]\nFa və ta bir şeyin parçalanmasına (٢) və ovulmasına dəlalət edən kəlmədir. Deyilir: فَتَتُّ الشَّئَ أفُتُّ فَتَّا (bir şeyi ovdum), o, مفتوتٌ (məftut) və فَتيت (fətit)-dir. فُتَّة (futtə): ovulan və çaxmaq ağacının (الزَّند) altına qoyulan şeydir (٣).\nفَتَّ فى عضُده (onun bazusunu qırdı), bu, ona pislik etdikdə işlədilir, sanki onun bazusundan bir şey qoparmış kimidir.\nBu əsldən şazz olan الفَتفتة (fətfətə): dəvələrin susuzluğunu tam yatırmadan su içməsidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:29.194Z"
+ "ts": "2026-10-25T18:39:29.194Z",
+ "prev_az": "[فت] الفاء والتاء (fa və ta) kəlməsi bir şeyin parçalanmasına və ovulmasına dəlalət edir. Deyilir: فَتَتُّ الشَّئَ أفُتُّ فَتَّا (fətəttüş-şəyə əfuttu fəttən), o, مفتوت (məftut) və فَتيت (fətit) olandır. Və فُتَّة (futtə): ovulan və yaylığın (və ya yəhər altlığının — الزَّند) altına qoyulan şeydir. Və فَتَّ فى عضُده (fəttə fi ədudih), bu, ona pislik etdikdə işlədilir, sanki onun bazubəndindən (qolundan) bir parça qoparmış kimidir. Bu əsldən istisna olan (şəzz) kəlmə ഫفتفتة (fəftətə): dəvələrin susuzluğunu tam yatırmadan su içməsidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الزَّند» (çaxmaq ağacı) «yaylıq/yəhər altlığı» kimi səhv tərcümə olunub.",
+  "«عَضُده» (bazusu/qolu) «bazubəndi» kimi yanlış verilib.",
+  "«الفَتفتة» sözü «ഫفتفتة» şəklində pozulub və haşiyə rəqəmləri buraxılıb."
+ ],
+ "review_ts": "2026-11-24T03:10:28.767Z"
 }

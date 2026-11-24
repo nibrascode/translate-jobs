@@ -11,7 +11,16 @@
   "page_to": 451
  },
  "ar": "الفاء واللام والعين كلمةٌ واحدةٌ تدلُّ على شَقِّ الشَّئ. تقول:\nفَلَعَت الشَّئَ: شقَقْتُه. وتَفلَّعت البَيضةُ وانْفَلَعَتْ.",
- "az": "[فلع] (fə-lə-ع). Fə, lam və eyn bir kəlmə olub bir şeyi yarmağa dəlalət edir. Deyirsən: «فَلَعَت الشَّئَ» — şeyi yardıṃ. «تَفلَّعت البَيضةُ وانْفَلَعَتْ» — yumurta yarıldı və parçalandı.",
+ "az": "[فلع] (fə-lə-ع). Fə, lam və eyn bir kəlmə olub bir şeyi yarmağa dəlalət edir. Deyirsən: «فَلَعَت الشَّئَ» (və ya فَلَعْتُ الشَّيْءَ) — şeyi yardım. «تَفلَّعت البَيضةُ وانْفَلَعَتْ» — yumurta yarıldı və parçalandı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:24:42.634Z"
+ "ts": "2026-10-26T00:24:42.634Z",
+ "prev_az": "[فلع] (fə-lə-ع). Fə, lam və eyn bir kəlmə olub bir şeyi yarmağa dəlalət edir. Deyirsən: «فَلَعَت الشَّئَ» — şeyi yardıṃ. «تَفلَّعت البَيضةُ وانْفَلَعَتْ» — yumurta yarıldı və parçalandı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Azərbaycan dilində hərf xətası var («yardıṃ» əvəzinə «yardım» olmalıdır)."
+ ],
+ "review_ts": "2026-11-24T03:26:52.879Z"
 }

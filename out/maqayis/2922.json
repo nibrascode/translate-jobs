@@ -11,7 +11,18 @@
   "page_to": 416
  },
  "ar": "الغين والذال والحرف المعتلّ أصلٌ صحيح يدلُّ على شئ من المأكل، وعلى جنسٍ من الحركة.\nفأمَّا المأكل فالغِذَاء، وهو الطَّعام والشَّراب. وغَذِىُّ المالِ وغَذَوِبُّه:\nصِغاره، كالسِّخال ونحوها. وسمِّي غَذَوِياًّ لأنه يُغْذَى.\nوأمَّا الآخر فالغَذَوانُ: النَّشيط من الخَيل، سمِّى لشبابه وحركته. ويقال غَذَّى البَعيرُ ببوله يُغَذِّى، إذا رَمَى به متقطِّعا. وغَذَا العِرْق يغذو، أى يَسيل دماً. قال:\nوطَعنٍ كفم الزّقِّ … غَذَا والزِّقُّ ملآنُ (١)",
- "az": "«غذى» (ğəza): الغين، الذال والحرف المعتل أصل صحيح يدلُّ على شئ من المأكل، وعلى جنسٍ من الحركة (yeməkdən bir şeyə və hərəkət növünə dəlalət edən səhih təməldir). Fəmmə əl-məkl (yeməyə gəldikdə) isə əl-ğiza (الغِذَاء), o da yemək və içkidir. Və mal-qaranın ğəziyyü-mal (غَذِىُّ المالِ) və ğəzəvibü-hü (غَذَوِبُّه): quzu və s. kimi kiçikləri. O, ğəzəviyy (غَذَوِياًّ) adlandırılmışdır, çünki o, bəslənir, yemləndirilir (يُغْذَى). Və amma digərinə gəldikdə, o, əl-ğəzəvan (الغَذَوان): atların çevik və oynaq olanı, gəncliyinə və hərəkətinə görə belə adlandırılmışdır. Deyilir: غَذَّى البَعيرُ ببوله يُغَذِّى (dəvə sidiyini kəsik-kəsik atdı). Və غَذَا العِرْق يغذو (damar qan axıtdı). O demişdir: وطَعنٍ كفم الزّقِّ … غَذَا والزِّقُّ ملآنُ (١) (Elə bir nizə zərbəsi ki, tuluğun ağzı kimi - tuluq dolu olduğu halda qan püskürdü).",
+ "az": "[غذى]\nĞayn, zal və illətli hərf yeməkdən bir şeyə və bir hərəkət növünə dəlalət edən səhih təməldir.\nYeməyə gəldikdə, bu الغِذَاء (əl-ğiza) sözüdür ki, o da yemək və içkidir. Mal-qaranın غَذِىُّ المالِ (ğəziyyul-mal) və غَذَوِبُّه (ğəzəvibbuhu) deyilənləri quzu və ona bənzər kiçikləridir. O, bəsləndiyi (يُغْذَى) üçün غَذَوِياًّ adlandırılmışdır.\nDigərinə gəldikdə isə الغَذَوانُ (əl-ğəzəvan) atların çevik və oynaq olanıdır; gəncliyinə və hərəkətliyinə görə belə adlandırılmışdır. Deyilir: غَذَّى البَعيرُ ببوله يُغَذِّى، إذا رَمَى به متقطِّعا (dəvə sidiyini kəsik-kəsik atdıqda belə deyilir). غَذَا العِرْق يغذو، أى يَسيل دماً (damar qan axıdır, yəni qan sızır). Şair demişdir:\nوطَعنٍ كفم الزّقِّ … غَذَا والزِّقُّ ملآنُ (١) (Tuluğun ağzı kimi olan neçə-neçə nizə yarası ki, tuluq dolu olduğu halda qan fışqırtdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:12.190Z"
+ "ts": "2026-10-25T18:38:12.190Z",
+ "prev_az": "«غذى» (ğəza): الغين، الذال والحرف المعتل أصل صحيح يدلُّ على شئ من المأكل، وعلى جنسٍ من الحركة (yeməkdən bir şeyə və hərəkət növünə dəlalət edən səhih təməldir). Fəmmə əl-məkl (yeməyə gəldikdə) isə əl-ğiza (الغِذَاء), o da yemək və içkidir. Və mal-qaranın ğəziyyü-mal (غَذِىُّ المالِ) və ğəzəvibü-hü (غَذَوِبُّه): quzu və s. kimi kiçikləri. O, ğəzəviyy (غَذَوِياًّ) adlandırılmışdır, çünki o, bəslənir, yemləndirilir (يُغْذَى). Və amma digərinə gəldikdə, o, əl-ğəzəvan (الغَذَوان): atların çevik və oynaq olanı, gəncliyinə və hərəkətinə görə belə adlandırılmışdır. Deyilir: غَذَّى البَعيرُ ببوله يُغَذِّى (dəvə sidiyini kəsik-kəsik atdı). Və غَذَا العِرْق يغذو (damar qan axıtdı). O demişdir: وطَعنٍ كفم الزّقِّ … غَذَا والزِّقُّ ملآنُ (١) (Elə bir nizə zərbəsi ki, tuluğun ağzı kimi - tuluq dolu olduğu halda qan püskürdü).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[غذى]» formatında verilməyib.",
+  "Giriş cümləsi tərcüməsiz ərəbcə saxlanılıb və «فأمَّا المأكل» ifadəsi transkripsiya ilə «Fəmmə əl-məkl» kimi verilib.",
+  "«إذا رَمَى به متقطِّعا» və «أى يَسيل دماً» kimi ərəbcə sitat hissələri buraxılıb."
+ ],
+ "review_ts": "2026-11-24T03:02:23.500Z"
 }

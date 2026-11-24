@@ -11,7 +11,17 @@
   "page_to": 428
  },
  "ar": "الغين والضاد والباء أصلٌ صحيح يدلُّ على شدَّة وقُوّة.\nيقال: إنَّ الغَضْبة: الصَّخرة الصُّلبة. قالوا: ومنه اشتُقَّ الغَضَب، لأنَّه اشتدادُ السُّخط. يقال: غَضِب يَغْضَبُ غَضَبَا، وهو غضبانُ وغَضُوب. ويقال: غَضِبْتُ لفلانٍ، إذا كان حيَّا؛ وغضبت به، إذا كان ميّتا. قال دُرَيد:\nأنَّا غِضابٌ بمعبدِ (١)\nويقال: إنَّ الغَضُوب: الحيَّة العظيمة.",
- "az": "[غضب] الغين والضاد والباء أصلٌ صحيح يدلُّ على شدَّة وقُوّة. (Ğayn, zad və ba – səhih kök olub şiddətə və gücə dəlalət edir.) يقال: إنَّ الغَضْبة: الصَّخرة الصُّلبة. (Deyilir ki, «الغضبة» (ğazbah) – sərt qayadır.) قالوا: ومنه اشتُقَّ الغَضَب، لأنَّه اشتدادُ السُّخط. (Dedilər: Qəzəb də buradan götürülmüşdür, çünki o, qəzəbin şiddətlənməsidir.) يقال: غَضِب يَغْضَبُ غَضَبَا، وهو غضبانُ وغَضُوب. (Deyilir: «غضب يغضب غضبا» – qəzəbləndi, o, qəzəbli və şiddətli qəzəb edəndir.) ويقال: غَضِبْتُ لفلانٍ، إذا كان حيَّا؛ وغضبت به، إذا كان ميّتا. (Və deyilir: «غضبت لفلان» – əgər o diri idisə; və «غضبت به» – əgər o ölmüşdüsə.) قال دُرَيد: أنَّا غِضابٌ بمعبدِ (١) (Dureyd demişdir: «Həqiqətən, biz Məbəddən ötrü qəzəbliyik (١)».) ويقال: إنَّ الغَضُوب: الحيَّة العظيمة. (Və deyilir ki, «الغضوب» (ğazub) – böyük ilan deməkdir.)",
+ "az": "[غضب]\\nĞayn, dad və ba şiddətə və gücə dəlalət edən səhih bir kökdür.\\nDeyilir ki, الغَضْبة (əl-ğadbə) – sərt qayadır. Dedilər ki, الغَضَب (əl-ğadab – qəzəb) də buradan törəmişdir, çünki o, narazılığın şiddətlənməsidir. Deyilir: غَضِب يَغْضَبُ غَضَبَا (ğadibə yəğdabu ğadabən – qəzəbləndi), o, غضبانُ (ğadban – qəzəbli) və غَضُوب (ğadub – çox qəzəblənən) adlanır. Deyilir: غَضِبْتُ لفلانٍ (ğadibtu lifulənin – filankəs üçün qəzəbləndim), əgər o diri olarsa; وغضبت به (və ğadibtu bihi – filankəsə görə qəzəbləndim), əgər o ölmüş olarsa. Düreyd demişdir:\\nأنَّا غِضابٌ بمعبدِ (١) (Həqiqətən, biz Məbədə görə qəzəbliyik (١)).\\nDeyilir ki, الغَضُوب (əl-ğadub) – böyük ilan deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:05.435Z"
+ "ts": "2026-10-25T18:39:05.435Z",
+ "prev_az": "[غضب] الغين والضاد والباء أصلٌ صحيح يدلُّ على شدَّة وقُوّة. (Ğayn, zad və ba – səhih kök olub şiddətə və gücə dəlalət edir.) يقال: إنَّ الغَضْبة: الصَّخرة الصُّلبة. (Deyilir ki, «الغضبة» (ğazbah) – sərt qayadır.) قالوا: ومنه اشتُقَّ الغَضَب، لأنَّه اشتدادُ السُّخط. (Dedilər: Qəzəb də buradan götürülmüşdür, çünki o, qəzəbin şiddətlənməsidir.) يقال: غَضِب يَغْضَبُ غَضَبَا، وهو غضبانُ وغَضُوب. (Deyilir: «غضب يغضب غضبا» – qəzəbləndi, o, qəzəbli və şiddətli qəzəb edəndir.) ويقال: غَضِبْتُ لفلانٍ، إذا كان حيَّا؛ وغضبت به، إذا كان ميّتا. (Və deyilir: «غضبت لفلان» – əgər o diri idisə; və «غضبت به» – əgər o ölmüşdüsə.) قال دُرَيد: أنَّا غِضابٌ بمعبدِ (١) (Dureyd demişdir: «Həqiqətən, biz Məbəddən ötrü qəzəbliyik (١)».) ويقال: إنَّ الغَضُوب: الحيَّة العظيمة. (Və deyilir ki, «الغضوب» (ğazub) – böyük ilan deməkdir.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin bütün ərəbcə mətni cümlə-cümlə təkrarlanmışdır.",
+  "'ض' hərfi 'zad' kimi səhv adlandırılmış və baş sözlərin hərəkələri silinmişdir."
+ ],
+ "review_ts": "2026-11-24T03:09:31.679Z"
 }

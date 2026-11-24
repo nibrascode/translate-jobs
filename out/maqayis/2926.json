@@ -11,7 +11,18 @@
   "page_to": 418
  },
  "ar": "الغين والراء والفاء أصلٌ صحيحٌ، إلاَّ أنَّ كَلِمهُ لا تنقاس، بل تتباين. فالغَرْف: مصدر غَرَفْت الماءَ وغيرَه أَغرِفُه غَرْفاً. والغُرْفة: اسمٌ ما يُغْرَف. والغَرِيف: الأجَمَة، والجمع غُرُف. قال:\nكما رَزَمَ العَيّار فى الغُرُفِ (١)\nوالغُرْفة: العِلِّيَّة. ويقال: غَرَفَ ناصيةَ فرسِهِ، إذا استأصلها جَزاًّ.",
- "az": "«غرف» (ğərəfə): الغين، Rə və Fə hərflərindən ibarət səhih təməl, lakin sözləri qaydaya sığmır, əksinə bir-birindən fərqlənir. Fəmmə əl-ğərx (الغَرْف): su və digər şeyləri əllə/qabla götürməyin məsdəridir: غَرَفْتُ الماءَ وغيرَه أَغرِفُه غَرْفاً. Və əl-ğürfə (الغُرْفة): götürülən şeyin adı. Və əl-ğərif (الغَرِيف): qamışlıq, bataqlıq, cəmi ğürüfdür (غُرُف). O demişdir: كما رَزَمَ العَيّار فى الغُرُفِ (١) (Cəyyarın qamışlıqda nərə çəkdiyi kimi). Və əl-ğürfə (الغُرْفة): çardaq, üst mərtəbə. Deyilir: غَرَفَ ناصيةَ فرسِهِ (atının kəkilini dibindən kəsdi).",
+ "az": "[غرف]\nĞayn, ra və fa hərfləri səhih təməldir, lakin onun sözləri bir qiyasa sığmır, əksinə bir-birindən fərqlənir. الغَرْف (əl-ğərf): su və başqa şeyləri qabla və ya əllə götürmək mənasında olan غَرَفْت الماءَ وغيرَه أَغرِفُه غَرْفاً ifadəsinin məsdəridir. الغُرْفة (əl-ğurfə): götürülən şeyin adıdır. الغَرِيف (əl-ğərif): qamışlıqdır, cəmi غُرُف-dur. Şair demişdir:\nكما رَزَمَ العَيّار فى الغُرُفِ (١) (Əyyarın qamışlıqda nərə çəkdiyi kimi).\nالغُرْفة (əl-ğurfə): üst otaq, çardaqdır. Deyilir: غَرَفَ ناصيةَ فرسِهِ، إذا استأصلها جَزاًّ (atının kəkilini dibindən qırxıb kəsdikdə belə deyilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:12.190Z"
+ "ts": "2026-10-25T18:38:12.190Z",
+ "prev_az": "«غرف» (ğərəfə): الغين، Rə və Fə hərflərindən ibarət səhih təməl, lakin sözləri qaydaya sığmır, əksinə bir-birindən fərqlənir. Fəmmə əl-ğərx (الغَرْف): su və digər şeyləri əllə/qabla götürməyin məsdəridir: غَرَفْتُ الماءَ وغيرَه أَغرِفُه غَرْفاً. Və əl-ğürfə (الغُرْفة): götürülən şeyin adı. Və əl-ğərif (الغَرِيف): qamışlıq, bataqlıq, cəmi ğürüfdür (غُرُف). O demişdir: كما رَزَمَ العَيّار فى الغُرُفِ (١) (Cəyyarın qamışlıqda nərə çəkdiyi kimi). Və əl-ğürfə (الغُرْفة): çardaq, üst mərtəbə. Deyilir: غَرَفَ ناصيةَ فرسِهِ (atının kəkilini dibindən kəsdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[غرف]» formatında verilməyib, «الغين» tərcüməsiz qalıb və «الغَرْف» yanlış olaraq «əl-ğərx» kimi verilib.",
+  "Beytdəki «العَيّار» sözü yanlış olaraq «Cəyyar» kimi transkripsiya edilib.",
+  "«إذا استأصلها جَزاًّ» ərəbcə sitat hissəsi buraxılıb."
+ ],
+ "review_ts": "2026-11-24T03:02:23.501Z"
 }

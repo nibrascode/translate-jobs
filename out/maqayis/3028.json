@@ -11,7 +11,16 @@
   "page_to": 460
  },
  "ar": "الفاء والواو والعين يدلُّ على ثَوْرٍ فى شئ. يقال لخِمْرة الطَّيب وما ثار من ريحه: فَوْعة. ويقال لارتفاع النهار: فَوعة.",
- "az": "«فوع» (fəwc/fəwəh): Fə, vau və eyn hərfləri bir şeydə coşmağa dəlalət edir. Ətrin qoxusuna və onun yayılmış ətrinə «فَوْعة» (fəwçə) deyilir. Gündüzün isti vaxtının yüksəlməsinə də «فَوْعة» (fəwçə) deyilir.",
+ "az": "[فوع]\nFə, vav və ayn hərfləri bir şeydə coşmağa dəlalət edir. Ətrin qoxusuna və onun yayılmış ətrinə «فَوْعة» deyilir. Gündüzün yüksəlməsinə (yüksək vaxtına) də «فَوعة» deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:06.106Z"
+ "ts": "2026-10-26T00:25:06.106Z",
+ "prev_az": "«فوع» (fəwc/fəwəh): Fə, vau və eyn hərfləri bir şeydə coşmağa dəlalət edir. Ətrin qoxusuna və onun yayılmış ətrinə «فَوْعة» (fəwçə) deyilir. Gündüzün isti vaxtının yüksəlməsinə də «فَوْعة» (fəwçə) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlanğıc formatı qaydaya uyğun deyil («[فوع]» ilə başlamalıdır)."
+ ],
+ "review_ts": "2026-11-24T03:32:53.996Z"
 }

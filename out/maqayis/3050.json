@@ -11,7 +11,16 @@
   "page_to": 468
  },
  "ar": "الفاء والألف والميم أصلٌ صحيح يدلُّ على اتِّساع فى الشَّئ، وعلى كثرة. فأمَّا الكثرة فالفئام: الجماعة من الناس. وأمَّا السَّعَة فالفِئام: وِطاءٌ يكون فى الهَودج، وجمعه فُؤُمٌ على فُعُل. ويقال للبعير إذا امتلأ حارِكُه شَحْماً:\nقد فُئِم حاركُه، وهو مُفْأَم (١). والمُفْأَم من الرِّجال: الواسع الجَوْف. قال:\nأخَذْنَ خُصُور الرَّمل ثم جَزَعْنَه … على كلِّ قَينىٍّ قَشيبٍ وَمُفْأَمِ (٢)",
- "az": "[فأم] (f-ə-m): Fə, əlif və mim hərflərindən ibarət səhih bir kök olub, bir şeydə genişliyə və çoxluğa dəlalət edir. Çoxluğa gəldikdə, «الفئام» (fiuam) — bir qrup insan deməkdir. Genişliyə gəldikdəisə, «الفِئام» (fiuam) — həvəcdə (kəcəvədə) olan bir döşəkdir, cəmi «فُؤُمٌ» (fuum) olaraq «فُعُل» (fucul) vəznində gəlir. Dəvənin hürgücü piy ilə dolduqda deyilir: «قَدْ فُئِمَ حارِكُه» (hürgücü doldu) və o, «مُفْأَم» (müfəm) olur (١). Kişilərdən «المُفْأَم» (müfəm) — qarnı geniş olan deməkdir. Şair demişdir: «أَخَذْنَ خُصُورَ الرَّمل ثُمَّ جَزَعْنَه … عَلى كُلِّ قَينىٍّ قَشيبٍ وَمُفْأَمِ» (٢) (Onlar qumun incə yerlərini tutub keçdilər... hər bir zərgər düzəltməsi yeni və geniş [hürgüclü dəvə] üzərində).",
+ "az": "[فأم]\nFə, əlif və mim hərfləri bir şeydə genişliyə və çoxluğa dəlalət edən səhih bir kökdür. Çoxluğa gəldikdə, «الفئام» — insan qrupu deməkdir. Genişliyə gəldikdə isə, «الفِئام» — kəcəvədə olan döşəkdir, cəmi «فُعُل» vəznində «فُؤُمٌ» gəlir. Dəvənin hürgücü piy ilə dolduqda deyilir: «قد فُئِم حاركُه», o özü isə «مُفْأَم» adlanır (١). Kişilərdən «المُفْأَم» — qarnı geniş olan deməkdir. Şair demişdir:\nأخَذْنَ خُصُور الرَّمل ثم جَزَعْنَه … على كلِّ قَينىٍّ قَشيبٍ وَمُفْأَمِ (٢)\n(Onlar qum təpələrinin incə yerlərini tutub keçdilər... hər bir bəzənmiş yeni və enli [dəvə] üzərində).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:57.161Z"
+ "ts": "2026-10-26T00:25:57.161Z",
+ "prev_az": "[فأم] (f-ə-m): Fə, əlif və mim hərflərindən ibarət səhih bir kök olub, bir şeydə genişliyə və çoxluğa dəlalət edir. Çoxluğa gəldikdə, «الفئام» (fiuam) — bir qrup insan deməkdir. Genişliyə gəldikdəisə, «الفِئام» (fiuam) — həvəcdə (kəcəvədə) olan bir döşəkdir, cəmi «فُؤُمٌ» (fuum) olaraq «فُعُل» (fucul) vəznində gəlir. Dəvənin hürgücü piy ilə dolduqda deyilir: «قَدْ فُئِمَ حارِكُه» (hürgücü doldu) və o, «مُفْأَم» (müfəm) olur (١). Kişilərdən «المُفْأَم» (müfəm) — qarnı geniş olan deməkdir. Şair demişdir: «أَخَذْنَ خُصُورَ الرَّمل ثُمَّ جَزَعْنَه … عَلى كُلِّ قَينىٍّ قَشيبٍ وَمُفْأَمِ» (٢) (Onlar qumun incə yerlərini tutub keçdilər... hər bir zərgər düzəltməsi yeni və geniş [hürgüclü dəvə] üzərində).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatdakı hərəkələr orijinaldan fərqli olaraq dəyişdirilmiş və əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-24T03:36:21.175Z"
 }

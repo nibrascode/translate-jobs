@@ -11,7 +11,17 @@
   "page_to": 510
  },
  "ar": "الفاء والطاء والهمزة كلمةٌ واحدةٌ تدلُّ على تطامُنٍ. يقال للرَّجُل الأفطس: الأفْطَأ. ويقولون: فَطِئَ البعيرُ، إذا تطامَنَ ظهره خِلْقةً.",
- "az": "[فطأ] (F-T-Ə) Fə, ta və həmzə hərfləri aşağı əyilməyə dəlalət edən tək bir kəlmədir. Basıq burunlu adama «الأفْطَأ» (əl-fətə) deyilir. Deyirlər: «فَطِئَ البعيرُ» (dəvənin beli çökdü), bu o zaman deyilir ki, onun beli xilqətən (yaradılışdan) aşağı əyilmiş olur.",
+ "az": "[فطأ] (F-T-Ə) Fə, ta və həmzə hərfləri alçalmağa (aşağı əyilməyə) dəlalət edən tək bir kəlmədir. «الأفطس» (basıq burunlu) adama «الأفْطَأ» deyilir. Deyirlər: «فَطِئَ البعيرُ», bu o zaman deyilir ki, dəvənin beli xilqətən aşağı əyilmiş olsun.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:29:48.226Z"
+ "ts": "2026-10-26T00:29:48.226Z",
+ "prev_az": "[فطأ] (F-T-Ə) Fə, ta və həmzə hərfləri aşağı əyilməyə dəlalət edən tək bir kəlmədir. Basıq burunlu adama «الأفْطَأ» (əl-fətə) deyilir. Deyirlər: «فَطِئَ البعيرُ» (dəvənin beli çökdü), bu o zaman deyilir ki, onun beli xilqətən (yaradılışdan) aşağı əyilmiş olur.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الأفطس» ərəbcə kəlməsi buraxılmışdır.",
+  "«Yaratmaq» kökündən («yaradılışdan») istifadə edilmişdir."
+ ],
+ "review_ts": "2026-11-24T03:42:50.780Z"
 }

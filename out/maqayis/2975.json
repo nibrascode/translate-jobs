@@ -11,7 +11,18 @@
   "page_to": 440
  },
  "ar": "الفاء والزاء أُصَيلٌ يدلُّ على خفّةٍ وما قارَبَهَا. تقول: فَزَّهُ واستفزَّه، إذا استخفَّه. قال اللّه تعالى: ﴿وَإِنْ كادُوا لَيَسْتَفِزُّونَكَ مِنَ اَلْأَرْضِ﴾ أى يحملونك على أن تَخِفَّ عنها. وأفزَّه الخوفُ وأفْزَعَه بمعنًى. وقد استفَزَّ فُلاناً جهْلُه. ورجل فَزٌّ: خفيف. ويقولون: فزَّ عن الشئ: عدل. والفَزُّ: ولَد البقرة.\nويُمكن أن يسمَّى بذلك لخفَّة جسمِه. قال:\nكما استغَاثَ بسئٍ فَزُّ غَيْطَلَة … خافَ العُيونَ ولم يُنْظَر به الحَشَكُ (١)",
- "az": "[فز] الفاء والزاء (fa və zay) yüngüllüyə və ona yaxın olan hallara dəlalət edən kiçik bir əsldir. Deyirsən: fəzzəhu və istəfəzzəhu (فَزَّهُ واستفزَّه), onu yüngül saydıqda (və ya təşvişə saldıqda). Uca Allah buyurur: ﴿وَإِنْ كادُوا لَيَسْتَفِزُّونَكَ مِنَ اَلْأَرْضِ﴾ — mənaca tərcümə: «Həqiqətən, onlar səni demək olar ki, o yerdən çıxarıb qaçırmaq (və ya tərk etməyə məcbur etmək) istəyirdilər». Və qorxu onu əfəzzəhu (أفزَّه) və əfzəahu (أفْزَعَه) etdi — eyni mənadadır. Cahilliyi filankəsi istəfəzzə (استفَزَّ) etdi. Və raculun fəzzun (رجل فَزٌّ): yüngül (tələsik) kişi. Deyirlər: fəzzə əniş-şəy (فزَّ عن الشئ): uzaqlaşdı, üz döndərdi. Və əl-fəzz (الفَزُّ): öküz balası. Və onun cisminin yüngüllüyünə görə belə adlandırılması mümkündür. Şair demişdir: كما استغَاثَ بسئٍ فَزُّ غَيْطَلَة … خافَ العُيونَ ولم يُنْظَر به الحَشَكُ (١) (Sıx meşənin tək bir balası kimi kömək dilədi... gözlərdən qorxdu və sürü onun üçün gözlənilmədi).",
+ "az": "[فز]\nالفاء (fa) və الزاء (zey) yüngüllüyə və ona yaxın olan hallara dəlalət edən kiçik bir əsldir. Deyirsən: فَزَّهُ واستفزَّه (onu yüngül saydı, təşvişə saldı), yəni onu yüngülləşdirdikdə (yerindən oynatdıqda). Uca Allah buyurur: ﴿وَإِنْ كادُوا لَيَسْتَفِزُّونَكَ مِنَ اَلْأَرْضِ﴾ — mənaca tərcümə: «Onlar səni az qala o yerdən çıxarmaq (təşvişə salıb uzaqlaşdırmaq) istəyirdilər», yəni səni oradan tez uzaqlaşmağa sövq edirlər. وأفزَّه الخوفُ وأفْزَعَه (qorxu onu ürkütdü və qorxutdu) eyni mənadadır. Cahilliyi filankəsi yerindən oynatdı (استفَزَّ فُلاناً جهْلُه). ورجل فَزٌّ (yüngül, tələsik kişi). Deyirlər: فزَّ عن الشئ: عدل (bir şeydən döndü, uzaqlaşdı). والفَزُّ: ولَد البقرة (inək balası, buzov).\nCisminin yüngüllüyünə görə belə adlandırılması mümkündür. Şair demişdir:\nكما استغَاثَ بسئٍ فَزُّ غَيْطَلَة … خافَ العُيونَ ولم يُنْظَر به الحَشَكُ (١)\n(Sıx meşədəki inək balasının südlə kömək dilədiyi kimi... gözlərdən qorxdu və yelinində südün yığılması gözlənilmədi (١)).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:29.195Z"
+ "ts": "2026-10-25T18:39:29.195Z",
+ "prev_az": "[فز] الفاء والزاء (fa və zay) yüngüllüyə və ona yaxın olan hallara dəlalət edən kiçik bir əsldir. Deyirsən: fəzzəhu və istəfəzzəhu (فَزَّهُ واستفزَّه), onu yüngül saydıqda (və ya təşvişə saldıqda). Uca Allah buyurur: ﴿وَإِنْ كادُوا لَيَسْتَفِزُّونَكَ مِنَ اَلْأَرْضِ﴾ — mənaca tərcümə: «Həqiqətən, onlar səni demək olar ki, o yerdən çıxarıb qaçırmaq (və ya tərk etməyə məcbur etmək) istəyirdilər». Və qorxu onu əfəzzəhu (أفزَّه) və əfzəahu (أفْزَعَه) etdi — eyni mənadadır. Cahilliyi filankəsi istəfəzzə (استفَزَّ) etdi. Və raculun fəzzun (رجل فَزٌّ): yüngül (tələsik) kişi. Deyirlər: fəzzə əniş-şəy (فزَّ عن الشئ): uzaqlaşdı, üz döndərdi. Və əl-fəzz (الفَزُّ): öküz balası. Və onun cisminin yüngüllüyünə görə belə adlandırılması mümkündür. Şair demişdir: كما استغَاثَ بسئٍ فَزُّ غَيْطَلَة … خافَ العُيونَ ولم يُنْظَر به الحَشَكُ (١) (Sıx meşənin tək bir balası kimi kömək dilədi... gözlərdən qorxdu və sürü onun üçün gözlənilmədi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ayədən sonrakı «أى يحملونك على أن تَخِفَّ عنها» izahı tərcümədən buraxılıb.",
+  "«استفَزَّ فُلاناً جهْلُه» cümləsində «استفز» feli tərcüməsiz qalıb.",
+  "Şeir beytində «بسئٍ» sözü buraxılıb və «الحَشَكُ» (südün yelinə yığılması) sözü «sürü» kimi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-24T03:10:28.771Z"
 }

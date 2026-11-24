@@ -11,7 +11,19 @@
   "page_to": 413
  },
  "ar": "الغين والثاء والحرف المعتل كلمةٌ تدلُّ على ارتفاعِ شئ دَنِىٍّ\nفوق شئ. من ذلك الغُثَاء: غُثَاء السَّيْل. يقال: غثا الوادِى (١) يغثو، وأغثى يُغْثِى أيضاً. قال:\nكأنَّ طَمِيَّةَ المُجَيْمِرِ غُدْوَةً … من السَّيْل والإغْثَاءِ فَلْكَةُ مِغْزَلِ (٢)\nويروى: «والغُثَّاء». ويقال لسَفِلة الناس: الغُثَاء، تشبيهاً بالذى ذكرناه ومن الباب: غَثَتْ نَفسُه تَغْثِى، كأنَّهَا جاشت بشئ مؤذٍ.",
- "az": "«غثى» (غَثى): الغين، الثاء والحرف المعتل (حرف العلّة) كلمة تدلُّ على ارتفاع شيء حقير فوق شيء. ومن ذلك الغُثَاء (ğüfə): غُثَاء السَّيْل (sel köpüyü/gülütü). Deyilir ki: غثا الوادِى (١) يغثو (dərə daşdı/gülüt gətirdi) və həmçinin وأغثى يُغْثِى. O demişdir: كأنَّ طَمِيَّةَ المُجَيْمِرِ غُدْوَةً … من السَّيْل والإغْثَاءِ فَلْكَةُ مِغْزَلِ (٢) (Sanki səhər tezdən seldən və gülüt yığıntısından Əl-Müceymirin Təmiyyə dağının təpəsi cəhrə başlığı kimidir). Və «والغُثَّاء» kimi də rəvayət olunur. İnsanların alçaq, ən aşağı təbəqəsinə zikr etdiyimizə bənzədərək əl-ğüfə (الغُثَاء) deyilir. Və bu fəsildəndir: غَتْ نَفسُه تَغْثِى (ürəyi bulandı), sanki narahatedici bir şeylə qaynayıb-qarışdı.",
+ "az": "[غثى]\nالغين والثاء والحرف المعتل كلمةٌ تدلُّ على ارتفاعِ شئ دَنِىٍّ\nفوق شئ (ğayn, sa və illət hərfi dəyərsiz bir şeyin başqa bir şeyin üzərinə qalxmasına dəlalət edən kəlmədir). من ذلك الغُثَاء: غُثَاء السَّيْل (O cümlədən الغُثَاء (əl-ğüsa): selin gətirdiyi çör-çöp/köpükdür). يقال: غثا الوادِى (١) يغثو، وأغثى يُغْثِى أيضاً (Deyilir: غثا الوادِى (١) يغثو (dərə daşdı/çör-çöp gətirdi) və həmçinin أغثى يُغْثِى (ehtiva edir/gətirir)). قال:\nكأنَّ طَمِيَّةَ المُجَيْمِرِ غُدْوَةً … من السَّيْل والإغْثَاءِ فَلْكَةُ مِغْزَلِ (٢) (Demişdir: Sanki səhər tezdən seldən və çör-çöp yığıntısından əl-Müceymirin Təmiyyə dağının təpəsi cəhrə başlığı kimidir (٢)).\nويروى: «والغُثَّاء» (Və «والغُثَّاء» (çör-çöp) kimi də rəvayət olunur). ويقال لسَفِلة الناس: الغُثَاء، تشبيهاً بالذى ذكرناه (İnsanların alçaq, ən aşağı təbəqəsinə zikr etdiyimizə bənzədərək الغُثَاء (əl-ğüsa) deyilir). ومن الباب: غَثَتْ نَفسُه تَغْثِى، كأنَّهَا جاشت بشئ مؤذٍ (Bu babdandır: غَثَتْ نَفسُه تَغْثِى (ürəyi bulandı), sanki narahatedici bir şeylə qaynayıb-qarışdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:12.189Z"
+ "ts": "2026-10-25T18:38:12.189Z",
+ "prev_az": "«غثى» (غَثى): الغين، الثاء والحرف المعتل (حرف العلّة) كلمة تدلُّ على ارتفاع شيء حقير فوق شيء. ومن ذلك الغُثَاء (ğüfə): غُثَاء السَّيْل (sel köpüyü/gülütü). Deyilir ki: غثا الوادِى (١) يغثو (dərə daşdı/gülüt gətirdi) və həmçinin وأغثى يُغْثِى. O demişdir: كأنَّ طَمِيَّةَ المُجَيْمِرِ غُدْوَةً … من السَّيْل والإغْثَاءِ فَلْكَةُ مِغْزَلِ (٢) (Sanki səhər tezdən seldən və gülüt yığıntısından Əl-Müceymirin Təmiyyə dağının təpəsi cəhrə başlığı kimidir). Və «والغُثَّاء» kimi də rəvayət olunur. İnsanların alçaq, ən aşağı təbəqəsinə zikr etdiyimizə bənzədərək əl-ğüfə (الغُثَاء) deyilir. Və bu fəsildəndir: غَتْ نَفسُه تَغْثِى (ürəyi bulandı), sanki narahatedici bir şeylə qaynayıb-qarışdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[غثى]» əvəzinə ««غثى» (غَثى):» formatında verilib.",
+  "Birinci cümlə ərəbcə saxlanılaraq tərcüməsiz qoyulub və mətni AR-dan fərqləndirilib.",
+  "«وأغثى يُغْثِى» və «والغُثَّاء» ifadələri tərcüməsiz qalıb, «غَثَتْ» sözündə isə hərf səhvi («غَتْ») edilib.",
+  "«الغُثَاء» sözü səhvən «ğüfə» kimi transliterasiya olunub."
+ ],
+ "review_ts": "2026-11-24T03:01:32.685Z"
 }

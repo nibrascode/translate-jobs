@@ -11,7 +11,17 @@
   "page_to": 409
  },
  "ar": "الغين والباء والسين كلمةٌ تدلُّ على لونٍ من الألوان. قالوا:\nالغُبْسَة: لونٌ كلون الرَّماد. ويقال فرسٌ أَغْبَسُ. قال بعضهم: هو الذى يقال له: «سَمَنْد (٣)». فأمّا قولُهم: «لا أفْعَله ما غَبَا غُبَيْسٌ» فهو الدَّهر.\nقال ابنُ الأعرابىّ: ما أدرِى ما أصْلُه.",
- "az": "[غبس] الغين والباء والسين كلمةٌ تدلُّ على لونٍ من الألوان (ğeyn, ba və sin hərfləri rənglərdən birinə dəlalət edən kəlmədir). قالون (Deyirlər):\nالغُبْسَة: لونٌ كلون الرَّماد (əl-ğubsə: kül rəngi kimi bir rəngdir). ويقال فرسٌ أَغْبَسُ (Və ağbəs at deyilir).",
+ "az": "[غبس]\nالغين (ğayn), الباء (ba) və السين (sin) rənglərdən birinə dəlalət edən bir kəlmədir. Demişlər:\nالغُبْسَة (bozumtul-kül rəngi): kül rəngi kimi bir rəngdir. Deyilir: فرسٌ أَغْبَسُ (kül rəngli at). Bəziləri demişdir: bu, «سَمَنْد (٣)» (səmənd) deyilən rəngdir. Onların «لا أفْعَله ما غَبَا غُبَيْسٌ» («Ğübeys qaldıqca [yəni əbədiyyən] bunu etmərəm») sözünə gəldikdə isə, burada məqsəd zamandır (dəhr).\nİbn əl-Ərabi demişdir: onun əslinin nə olduğunu bilmirəm.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:47.719Z"
+ "ts": "2026-10-25T18:37:47.719Z",
+ "prev_az": "[غبس] الغين والباء والسين كلمةٌ تدلُّ على لونٍ من الألوان (ğeyn, ba və sin hərfləri rənglərdən birinə dəlalət edən kəlmədir). قالون (Deyirlər):\nالغُبْسَة: لونٌ كلون الرَّماد (əl-ğubsə: kül rəngi kimi bir rəngdir). ويقال فرسٌ أَغْبَسُ (Və ağbəs at deyilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin ikinci yarısı («قال بعضهم: هو الذى يقال له: «سَمَنْد (٣)»...» hissəsindən sonadək) tamamilə buraxılmışdır.",
+  "«قالوا» sözü ərəb mətnində «قالون» kimi təhrif olunmuşdur."
+ ],
+ "review_ts": "2026-11-24T03:08:44.368Z"
 }

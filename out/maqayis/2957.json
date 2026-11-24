@@ -11,7 +11,17 @@
   "page_to": 429
  },
  "ar": "الغين والطاء والحرف المعتل يدلُّ على الغِشاء والسَّتر. يقال:\nغَطَيت الشَّىْ ءَ وغَطَّيْتُه. والغِطاء: ما تَغَطَّى به. وغَطَا اللّيلُ يَغْطُو، إذا غَشَّى بظلامه.",
- "az": "[غطو] الغين والطاء والحرف المعتل يدلُّ على الغِشاء والسَّتر. (Ğayn, ta və uzvü hərf örtüyə və pərdə çəkməyə dəlalət edir.) يقال: غَطَيت الشَّىْ ءَ وغَطَّيْتُه. (Deyilir: «غطيت الشيء وغطيته» – mən o şeyi örtdüm.) والغِطاء: ما تَغَطَّى به. (Və «الغطاء» (ğita) – onunla örtünülən şey.) وغَطَا اللّيلُ يَغْطُو، إذا غَشَّى بظلارِه. (Və «غطا الليل يغطو» – gecə qaranlığı ilə örtdüyü zaman.)",
+ "az": "[غطو]\nالغين والطاء والحرف المعتل يدلُّ على الغِشاء والسَّتر. (Ğayn, ta və illətli hərf örtüyə və pərdə çəkməyə dəlalət edir.) يقال:\nغَطَيت الشَّىْ ءَ وغَطَّيْتُه. (Deyilir: «غطيت الشيء وغطيته» – mən o şeyi örtdüm.) والغِطاء: ما تَغَطَّى به. (Və «الغطاء» (ğita) – onunla örtünülən şey.) وغَطَا اللّيلُ يَغْطُو، إذا غَشَّى بظلامه. (Və «غطا الليل يغطو» – gecə qaranlığı ilə örtdüyü zaman.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:05.435Z"
+ "ts": "2026-10-25T18:39:05.435Z",
+ "prev_az": "[غطو] الغين والطاء والحرف المعتل يدلُّ على الغِشاء والسَّتر. (Ğayn, ta və uzvü hərf örtüyə və pərdə çəkməyə dəlalət edir.) يقال: غَطَيت الشَّىْ ءَ وغَطَّيْتُه. (Deyilir: «غطيت الشيء وغطيته» – mən o şeyi örtdüm.) والغِطاء: ما تَغَطَّى به. (Və «الغطاء» (ğita) – onunla örtünülən şey.) وغَطَا اللّيلُ يَغْطُو، إذا غَشَّى بظلارِه. (Və «غطا الليل يغطو» – gecə qaranlığı ilə örtdüyü zaman.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الحرف المعتل» ifadəsi «uzvü hərf» kimi səhv tərcümə edilib, «illətli hərf» olmalıdır.",
+  "Ərəb mətnindəki «بظلامه» sözü «بظلارِه» şəklində təhrif olunub."
+ ],
+ "review_ts": "2026-11-24T03:09:38.478Z"
 }

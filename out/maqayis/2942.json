@@ -11,7 +11,18 @@
   "page_to": 425
  },
  "ar": "الغين والسين والميم ليس بشئ. وربَّما قالوا الغَسَم، الظُلْمة.",
- "az": "[غسم] الغين والسين والميم ليس بشئ. وربَّما قالوا الغَسَم، الظُلْمة. \nGeyn, sin və mim heç bir şey (əhəmiyyətli kök) deyildir. Bəzən الغَسَم (əl-ğasəm) – zülmət, qaranlıq deməkdir.",
+ "az": "[غسم]\nĞayn, sin və mim əsaslı bir kök deyildir. Bəzən الغَسَم (əl-ğəsəm) deyirlər ki, bu da qaranlıq, zülmət deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:40.244Z"
+ "ts": "2026-10-25T18:38:40.244Z",
+ "prev_az": "[غسم] الغين والسين والميم ليس بشئ. وربَّما قالوا الغَسَم، الظُلْمة. \nGeyn, sin və mim heç bir şey (əhəmiyyətli kök) deyildir. Bəzən الغَسَم (əl-ğasəm) – zülmət, qaranlıq deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlində ərəbcə mətn təkrarlanıb.",
+  "Hərf adı «Geyn» kimi yazılıb, düzgünü «Ğayn» olmalıdır.",
+  "«ربَّما قالوا» ifadəsinin tərcüməsində «deyirlər» hissəsi buraxılıb."
+ ],
+ "review_ts": "2026-11-24T03:08:47.142Z"
 }

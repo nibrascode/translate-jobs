@@ -13,5 +13,10 @@
  "ar": "الفاء والحاء والثاء كلمةٌ واحدة. فالفَحث: الجَوْف.\nيقال: ملأ أفحاثه، أى جوفَه.",
  "az": "«فحث» (fə-h-s): Fə, ha və sə hərfləri tək bir kəlmədir. «الفَحث» (fəhs) - daxil, qarın boşluğudur. Deyilir: «ملأ أفحاثه» (mələə əfhasəhu) - yəni qarnının içini doldurdu.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:26:21.848Z"
+ "ts": "2026-10-26T00:26:21.848Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-24T03:38:33.327Z"
 }

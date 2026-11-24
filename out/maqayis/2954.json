@@ -11,7 +11,16 @@
   "page_to": 429
  },
  "ar": "الغين والطاء والفاء أصلٌ صحيح يدلُّ على خَير وسُبوغٍ فى شئ، وأصله الغَطَف فى الأشفار، وهو كثرتُهَا وطولُها وانثناؤها. ثم يقال:\nعيشٌ أغطَف، إذا كان ناعماً منثَنِياً على صاحبه بالخَير. والمصدر الغَطَف.",
- "az": "[غطف] الغين والطاء والفاء أصلٌ صحيح يدلُّ على خَير وسُبوغٍ فى شئ، وأصله الغَطَف فى الأشفار، وهو كثرتُهَا وطولُها وانثناؤها. (Ğayn, ta və fa – səhih kök olub bir şeydə xeyirə və bolluğa dəlalət edir, onun əsli kipriklərdəki «الغطف» (ğazaf) olub, o da onların çoxluğu, uzunluğu və qıvrılmasıdır.) ثم يقال: عيشٌ أغطَف، إذا كان ناعماً منثَنِياً على صاحبه بالخَير. والمصدر الغَطَف. (Sonra deyilir: «عيش أغطف» – sahibinə xeyirlə bolluq gətirən xoş güzəran olduqda. Məsdəri isə «الغطف» (ğazaf)-dir.)",
+ "az": "[غطف]\nالغين والطاء والفاء أصلٌ صحيح يدلُّ على خَير وسُبوغٍ فى شئ، وأصله الغَطَف فى الأشفار، وهو كثرتُهَا وطولُها وانثناؤها. (Ğayn, ta və fa – səhih kök olub bir şeydə xeyirə və bolluğa dəlalət edir, onun əsli kipriklərdəki «الغطف» (ğataf) olub, o da onların çoxluğu, uzunluğu və qıvrılmasıdır.) ثم يقال:\nعيشٌ أغطَف، إذا كان ناعماً منثَنِياً على صاحبه بالخَير. والمصدر الغَطَف. (Sonra deyilir: «عيش أغطف» – sahibinə xeyirlə bolluq gətirən xoş güzəran olduqda. Məsdəri isə «الغطف» (ğataf)-dir.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:05.435Z"
+ "ts": "2026-10-25T18:39:05.435Z",
+ "prev_az": "[غطف] الغين والطاء والفاء أصلٌ صحيح يدلُّ على خَير وسُبوغٍ فى شئ، وأصله الغَطَف فى الأشفار، وهو كثرتُهَا وطولُها وانثناؤها. (Ğayn, ta və fa – səhih kök olub bir şeydə xeyirə və bolluğa dəlalət edir, onun əsli kipriklərdəki «الغطف» (ğazaf) olub, o da onların çoxluğu, uzunluğu və qıvrılmasıdır.) ثم يقال: عيشٌ أغطَف، إذا كان ناعماً منثَنِياً على صاحبه بالخَير. والمصدر الغَطَف. (Sonra deyilir: «عيش أغطف» – sahibinə xeyirlə bolluq gətirən xoş güzəran olduqda. Məsdəri isə «الغطف» (ğazaf)-dir.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الغطف» sözünün oxunuşu «ğazaf» kimi səhv verilib, «ğataf» olmalıdır."
+ ],
+ "review_ts": "2026-11-24T03:09:38.477Z"
 }

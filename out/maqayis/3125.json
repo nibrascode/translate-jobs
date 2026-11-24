@@ -11,7 +11,16 @@
   "page_to": 503
  },
  "ar": "الفاء والسين والدال كلمةٌ واحدة، فَسَدَ الشَّئ يَفْسُد فساداً وفُسوداً، وهو فاسِدٌ وفَسِيد.",
- "az": "[فسد] الفاء والسين والدال كلمةٌ واحدة (Fə, sin və dal tək bir sözdür): فَسَدَ الشَّئ يَفْسُد فساداً وفُسوداً (şey fasid oldu, fasad və fusud oldu — xarab oldu), وهو فاسِدٌ وفَسِيد (və o, fasid və fəsiddir).",
+ "az": "[فسد] (Fa, sin və dal) tək bir kökdür. فَسَدَ الشَّيْءُ يَفْسُدُ فَسَاداً وَفُسُوداً (şey xarab oldu, korlandı); və o, فَاسِدٌ (fasid, xarab olmuş) və فَسِيدٌ (fəsid)-dir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.151Z"
+ "ts": "2026-10-26T00:28:00.151Z",
+ "prev_az": "[فسد] الفاء والسين والدال كلمةٌ واحدة (Fə, sin və dal tək bir sözdür): فَسَدَ الشَّئ يَفْسُد فساداً وفُسوداً (şey fasid oldu, fasad və fusud oldu — xarab oldu), وهو فاسِدٌ وفَسِيد (və o, fasid və fəsiddir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətn tərcümənin içində təkrar cümlələrlə pozulmuş şəkildə verilib."
+ ],
+ "review_ts": "2026-11-24T03:42:11.470Z"
 }

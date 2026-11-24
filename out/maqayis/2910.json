@@ -11,7 +11,16 @@
   "page_to": 411
  },
  "ar": "الغين والباء والحرف المعتلّ أصلٌ صحيح يدلُّ على تستُّرِ شئ حتى لا يُهتدَى له. من ذلك الغَبْية (١) وهى الزُّبْية، وسمِّيت لأنَّ المَصِيدَ جهِلَها حتى وقَعَ فيها. ومنه: غَبِىَ فلانٌ غَباوةً، إذا كان قليلَ الفِطْنَةِ، وهو غَبِىّ.\nوغَبِيتُ عن الخَبَر، إذا جهلتَه. ويقال: جاءت غبية من مَطَر، وذلك إذا جاءت بظُلْمَةٍ واشتدادٍ وتكاثُفٍ (٢).",
- "az": "[غبى] الغين والباء والحرف المعتلّ أصلٌ صحيح يدلُّ على تستُّرِ شئ حتى لا يُهتدَى له (ğeyn, ba və illət hərfi bir şeyin gizlənməsinə, belə ki ona yol tapılmamasına dəlalət edən səhih kökdür). من ذلك الغَبْية (١) وهى الزُّبْية، وسمِّيت لأنَّ المَصِيدَ جهِلَها حتى وقَعَ فيها (O cümlədən əl-ğəbyə - quyudur, ona görə belə adlanmışdır ki, ovlanan heyvan onu bilməyərək ora düşmüşdür).",
+ "az": "[غبى]\nالغين والباء والحرف المعتلّ أصلٌ صحيح يدلُّ على تستُّرِ شئ حتى لا يُهتدَى له (ğayn, ba və illət hərfi bir şeyin gizlənməsinə, belə ki ona yol tapılmamasına dəlalət edən səhih kökdür). من ذلك الغَبْية (١) وهى الزُّبْية، وسمِّيت لأنَّ المَصِيدَ جهِلَها حتى وقَعَ فيها (O cümlədən الغَبْية (əl-ğəbyə) (١) – ov quyusudur; ona görə belə adlanmışdır ki, ovlanan heyvan onu bilməyərək ora düşmüşdür). ومنه: غَبِىَ فلانٌ غَباوةً، إذا كان قليلَ الفِطْنَةِ، وهو غَبِىّ (Bu kökdəndir: filankəs fərasətsizlik etdi – əgər fərasəti azdırsa, o, غَبِىّ (ğəbiyy) adlanır).\nوغَبِيتُ عن الخَبَر، إذا جهلتَه (Xəbərdən xəbərsiz qaldım – onu bilmədikdə). ويقال: جاءت غبية من مَطَر، وذلك إذا جاءت بظُلْمَةٍ واشتدادٍ وتكاثُفٍ (٢) (Deyilir: bir غبية (ğəbyə) yağış gəldi, bu da qaranlıq, şiddət və sıxlıqla gəldikdə deyilir (٢)).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:47.719Z"
+ "ts": "2026-10-25T18:37:47.719Z",
+ "prev_az": "[غبى] الغين والباء والحرف المعتلّ أصلٌ صحيح يدلُّ على تستُّرِ شئ حتى لا يُهتدَى له (ğeyn, ba və illət hərfi bir şeyin gizlənməsinə, belə ki ona yol tapılmamasına dəlalət edən səhih kökdür). من ذلك الغَبْية (١) وهى الزُّبْية، وسمِّيت لأنَّ المَصِيدَ جهِلَها حتى وقَعَ فيها (O cümlədən əl-ğəbyə - quyudur, ona görə belə adlanmışdır ki, ovlanan heyvan onu bilməyərək ora düşmüşdür).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin ikinci yarısı və (٢) haşiyəsi tamamilə buraxılmışdır."
+ ],
+ "review_ts": "2026-11-24T03:01:32.684Z"
 }

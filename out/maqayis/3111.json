@@ -11,7 +11,17 @@
   "page_to": 498
  },
  "ar": "الفاء والراء والثاء أُصَيلٌ يدلُّ على شئ متفتِّت. يقال فَرَثَ كَبِدَه: فَتَّها. والفَرْث: ما فى الكَرِش. ويقال على معنى الاستعارة:\nأفْرَثَ فلانٌ أصحابه، إذا سَعَى بهم وألقاهم فى بَليَّة.",
- "az": "[فرث] الفاء والراء والثاء أُصَيلٌ يدلُّ على شئ متفتِّت (Fay, ra və sə kiçik kök olub ovulmuş bir şeyi göstərir). يقال فَرَثَ كَبِدَه: فَتَّها (Deyilir: «fərəthə kibidəhu» — onun qaraciyərini parça-parça etdi). والفَرْث: ما فى الكَرِش (Və «əl-fərs» — işgənbənin içindəki yemək qalıqlarıdır). ويقال على معنى الاستعارة: أفْرَثَ فلانٌ أصحابه، إذا سَعَى بهم وألقاهم فى بَليَّة (Məcazi mənada deyilir: Filankəs yoldaşlarını «əfrəbə» — onlardan çuğulluq edib bəlaya atdı).",
+ "az": "[فرث] (Fa, ra və sa ovulmuş bir şeyə dəlalət edən kiçik kökdür). Deyilir: فَرَثَ كَبِدَه: فَتَّها (onun qaraciyərini parça-parça etdi). الفَرْث (işgənbənin içindəki yemək qalıqlarıdır). Məcazi mənada deyilir: أفْرَثَ فلانٌ أصحابه (filankəs yoldaşlarını bəlaya atdı), onlardan çuğulluq edib bəlaya atdıqda deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:27:33.580Z"
+ "ts": "2026-10-26T00:27:33.580Z",
+ "prev_az": "[فرث] الفاء والراء والثاء أُصَيلٌ يدلُّ على شئ متفتِّت (Fay, ra və sə kiçik kök olub ovulmuş bir şeyi göstərir). يقال فَرَثَ كَبِدَه: فَتَّها (Deyilir: «fərəthə kibidəhu» — onun qaraciyərini parça-parça etdi). والفَرْث: ما فى الكَرِش (Və «əl-fərs» — işgənbənin içindəki yemək qalıqlarıdır). ويقال على معنى الاستعارة: أفْرَثَ فلانٌ أصحابه، إذا سَعَى بهم وألقاهم فى بَليَّة (Məcazi mənada deyilir: Filankəs yoldaşlarını «əfrəbə» — onlardan çuğulluq edib bəlaya atdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sözlər tərcümədə ərəb qrafikası ilə qalmalıdır.",
+  "«أَفْرَثَ» sözünün transkripsiyasında hərf səhvi edilmişdir («əfrəbə»)."
+ ],
+ "review_ts": "2026-11-24T03:41:11.759Z"
 }

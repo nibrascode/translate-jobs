@@ -11,7 +11,16 @@
   "page_to": 460
  },
  "ar": "الفاء والواو والغين كلمةٌ إن صحَّت. يقولون: إن الفَوغ (٤):\nالضَّخم. يقال: امرأة فَوغاء.",
- "az": "«فوغ» (fəwəğ): Fə, vau və ğeyn hərfləri əgər düzgündürsə, bir sözdür. Deyirlər ki, «الفَوغ» (fəwğ) — iri, böyük deməkdir. Deyilir: «امرأة فَوغاءُ» (imrəatun fəwğau) — iri qadın.",
+ "az": "[فوغ]\nFə, vav və ğayn hərfləri əgər düzgündürsə, bir sözdür. Deyirlər ki, «الفَوغ (٤)» — iri, böyük deməkdir. Deyilir: «امرأة فَوغاء» — iri qadın.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:06.106Z"
+ "ts": "2026-10-26T00:25:06.106Z",
+ "prev_az": "«فوغ» (fəwəğ): Fə, vau və ğeyn hərfləri əgər düzgündürsə, bir sözdür. Deyirlər ki, «الفَوغ» (fəwğ) — iri, böyük deməkdir. Deyilir: «امرأة فَوغاءُ» (imrəatun fəwğau) — iri qadın.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlanğıc formatı qaydaya uyğun deyil («[فوغ]» ilə başlamalıdır)."
+ ],
+ "review_ts": "2026-11-24T03:32:53.997Z"
 }

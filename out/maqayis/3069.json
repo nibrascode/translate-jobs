@@ -11,7 +11,17 @@
   "page_to": 477
  },
  "ar": "الفاء والجيم والحرف المعتل يدلُّ على اتِّساعٍ فى شئ.\nفالفَجْوة: المتَّسَع بين شَيئين. وقَوْسٌ فَجْواء: بانَ وترُها عن كَبدها. وفَجوة الدَّار: ساحتُها. والفَجَا: تَباعُدُ ما بين عُرقوبَىِ البعير\nوإذا هُمِزَ قلت: فَجِئَنى الأمرُ يفجَؤُنى (٢).",
- "az": "«فجو» (fə-c-v): Fə, cim və uzadılma hərfi bir şeydə genişliyə dəlalət edir. «الفَجْوة» (fəcvə) - iki şey arasındakı genişlikdir. «قَوْسٌ فَجْواء» (qəvsün fəcva) - ox atılan yeri (kəbəti) ipindən uzaqlaşmış yaydır. «فجوة الدَّار» (fəcvətud-dar) - evin həyətidir. «الفَجَا» (fəca) - dəvənin iki topuğu arasının uzaq olmasıdır. Əgər həmzələnsə, belə deyərsən: «فَجِئَنى الأمرُ يفجَؤُنى» (iş məni qəfil yaxaladı) (٢).",
+ "az": "[فجو] fə, cim və illət hərfi bir şeydə genişliyə dəlalət edir. «الفَجْوة» (fəcvə) — iki şey arasındakı genişlikdir. «قَوْسٌ فَجْواء» (fəcva yay) — «بانَ وترُها عن كَبدها» (vətəri/ipi qabzasından uzaqlaşmış yaydır). «فَجْوة الدَّار» (fəcvətud-dar) — evin həyətidir, geniş sahəsidir. «الفَجَا» (fəca) — dəvənin iki incik sümüyü (topuğu) arasının uzaq olmasıdır. Əgər həmzə ilə desən: «فَجِئَنى الأمرُ يفجَؤُنى» (iş məni qəfil yaxaladı) deyərsən (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:26:21.848Z"
+ "ts": "2026-10-26T00:26:21.848Z",
+ "prev_az": "«فجو» (fə-c-v): Fə, cim və uzadılma hərfi bir şeydə genişliyə dəlalət edir. «الفَجْوة» (fəcvə) - iki şey arasındakı genişlikdir. «قَوْسٌ فَجْواء» (qəvsün fəcva) - ox atılan yeri (kəbəti) ipindən uzaqlaşmış yaydır. «فجوة الدَّار» (fəcvətud-dar) - evin həyətidir. «الفَجَا» (fəca) - dəvənin iki topuğu arasının uzaq olmasıdır. Əgər həmzələnsə, belə deyərsən: «فَجِئَنى الأمرُ يفجَؤُنى» (iş məni qəfil yaxaladı) (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök formatı qaydaya uyğun deyil.",
+  "Ərəbcə ibarələr mətndən buraxılmışdır."
+ ],
+ "review_ts": "2026-11-24T03:37:54.091Z"
 }

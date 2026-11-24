@@ -11,7 +11,16 @@
   "page_to": 509
  },
  "ar": "الفاء والضاد والخاء فيه كلمةٌ تدلُّ على الشَّدخ. يقال: فَضَخْت الرُّطَبة: شَدَخْتُها. والفَضِيخ: رُطَبٌ يُشْدَخ ويُنْبَذ.",
- "az": "[فضخ] (F-D-X) Fə, dad və xa hərfləri əzməyə dəlalət edən bir kəlmədir. Deyilir: «فَضَخْت الرُّطَبة» (təzə xurmanı əzdim): onu əzdim. «الفَضِيخ» (fədiх): əzilən və içki hazırlanan təzə xurmadır.",
+ "az": "[فضخ] الفاء والضاد والخاء فيه كلمةٌ تدلُّ على الشَّدخ (Fə, dad və xa hərflərində əzməyə dəlalət edən bir kəlmə vardır). يقال (Deyilir): فَضَخْت الرُّطَبة (yaş xurmanı əzdim): شَدَخْتُها (onu əzdim). والفَضِيخ (Əl-fədih isə): رُطَبٌ يُشْدَخ ويُنْبَذ (əzilən və içki hazırlanan yaş xurmadır).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:29:48.226Z"
+ "ts": "2026-10-26T00:29:48.226Z",
+ "prev_az": "[فضخ] (F-D-X) Fə, dad və xa hərfləri əzməyə dəlalət edən bir kəlmədir. Deyilir: «فَضَخْت الرُّطَبة» (təzə xurmanı əzdim): onu əzdim. «الفَضِيخ» (fədiх): əzilən və içki hazırlanan təzə xurmadır.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə interlinear formatda verilməyib, ərəbcə mətnin cümlələri buraxılıb və yenidən yazılıb."
+ ],
+ "review_ts": "2026-11-24T03:42:46.095Z"
 }

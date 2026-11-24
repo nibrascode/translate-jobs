@@ -11,7 +11,17 @@
   "page_to": 504
  },
  "ar": "الفاء والشين والحرف المعتلّ كلمةٌ واحدة، وهى ظهورُ الشَّئ، يقال: فَشَا الشَّئ: ظَهَر.\nوحكى ابنُ دريد (٣): فَشَأَ المرضُ فيهم فشُوءًا، وتفشَّأَ تفشُّؤًا.",
- "az": "[فشا] الفاء والشين والحرف المعتلّ كلمةٌ واحدة (Fə, şin və ülgü hərf — zəif hərf tək bir sözdür), وهى ظهورُ الشَّئ (və o, şeyin üzə çıxmasıdır), يقال (deyilir): فَشَا الشَّئ (şey yayıldı, üzə çıxdı): ظَهَر (zühur etdi). وحكى ابنُ دريد (٣) (İbn Dürid nəql etmişdir): فَشَأَ المرضُ فيهم فشُوءًا (xəstəlik onların arasında yayıldı), وتفشَّأَ تفشُّؤًا (və geniş şəkildə yayıldı).",
+ "az": "[فشا] (Fa, şin və zəif hərf) tək bir kökdür, bir şeyin üzə çıxması, yayılması mənasına gəlir. Deyilir: فَشَا الشَّيْءُ (şey yayıldı, üzə çıxdı): ظَهَرَ (zühur etdi).\nİbn Dureyd nəql etmişdir ki (٣): xəstəlik onların arasında yayıldıqda فَشَأَ المَرَضُ فِيهِمْ فَشُوءاً (xəstəlik onların arasında yayıldı) və تَفَشَّأَ تَفَشُّؤاً (geniş şəkildə yayıldı) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.152Z"
+ "ts": "2026-10-26T00:28:00.152Z",
+ "prev_az": "[فشا] الفاء والشين والحرف المعتلّ كلمةٌ واحدة (Fə, şin və ülgü hərf — zəif hərf tək bir sözdür), وهى ظهورُ الشَّئ (və o, şeyin üzə çıxmasıdır), يقال (deyilir): فَشَا الشَّئ (şey yayıldı, üzə çıxdı): ظَهَر (zühur etdi). وحكى ابنُ دريد (٣) (İbn Dürid nəql etmişdir): فَشَأَ المرضُ فيهم فشُوءًا (xəstəlik onların arasında yayıldı), وتفشَّأَ تفشُّؤًا (və geniş şəkildə yayıldı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الحرف المعتل» termini «ülgü hərf» kimi təhrif olunub.",
+  "Ərəbcə cümlələr tərcümənin daxilində təkrarən verilərək mətn strukturu pozulub."
+ ],
+ "review_ts": "2026-11-24T03:42:11.471Z"
 }

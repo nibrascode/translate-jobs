@@ -11,7 +11,17 @@
   "page_to": 462
  },
  "ar": "الفاء والواو والميم أصلٌ صحيحٌ مُختلَفٌ فى تفسيره، وهو الفُوم. قال قومٌ: هو الثُّوم، وقال آخرون: هو الحِنطة. ويقولون: فَوِّمُوا لنا، أى اخبِزُوا.",
- "az": "[فوم] \nالفاء والواو والميم أصلٌ صحيحٌ مُختلَفٌ فى تفسيره، وهو الفُوم. قال قومٌ: هو الثُّوم، وقال آخرون: هو الحِنطة. ويقولون: فَوِّمُوا لنا، أى اخبِزُوا.\n\nFə, vaf və mim hərfləri izahında ixtilaf edilən səhih bir əsasdır ki, o da «الفُوم» (fum)-dur. Bir qrup demişdir: o, sarımsaqdır; başqaları demişdir: o, buğdadır. Deyirlər: «فَوِّمُوا لنا» — yəni bizə çörək bişirin.",
+ "az": "[فوم]\nFə, vav və mim hərfləri izahında ixtilaf edilən səhih bir əsasdır ki, o da «الفُوم»-dur. Bir qrup demişdir: o, sarımsaqdır; başqaları demişdir: o, buğdadır. Deyirlər: «فَوِّمُوا لنا» — yəni bizə çörək bişirin.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:34.476Z"
+ "ts": "2026-10-26T00:25:34.476Z",
+ "prev_az": "[فوم] \nالفاء والواو والميم أصلٌ صحيحٌ مُختلَفٌ فى تفسيره، وهو الفُوم. قال قومٌ: هو الثُّوم، وقال آخرون: هو الحِنطة. ويقولون: فَوِّمُوا لنا، أى اخبِزُوا.\n\nFə, vaf və mim hərfləri izahında ixtilaf edilən səhih bir əsasdır ki, o da «الفُوم» (fum)-dur. Bir qrup demişdir: o, sarımsaqdır; başqaları demişdir: o, buğdadır. Deyirlər: «فَوِّمُوا لنا» — yəni bizə çörək bişirin.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlinə ərəbcə mətn təkrarən daxil edilib.",
+  "«vaf» əvəzinə «vav» yazılmalıdır."
+ ],
+ "review_ts": "2026-11-24T03:32:53.998Z"
 }

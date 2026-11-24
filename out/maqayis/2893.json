@@ -11,7 +11,18 @@
   "page_to": 403
  },
  "ar": "الغين والياء والباء أصلٌ صحيح يدلُّ على تستُّر الشئ عن العُيون، ثم يقاس. من ذلك الغَيْب: ما غَابَ (١)، ممّا لا يعلمه إلا اللّه. ويقال:\nغابت الشَّمس تَغِيب غَيْبَةً وغُيُوباً وغَيْباً. وغابَ الرَّجل عن بلده. وأغابَتِ المرأةُ فهى مُغِيبةٌ، إذا غابَ بعلُها. ووقَعْنا فى غَيْبَةٍ وغَيَابة، أى هَبْطة من الأرض يُغابُ فيها. قال اللّه تعالى فى قصة يُوسُفَ ﵇: ﴿وَأَلْقُوهُ فِي غَيابَتِ اَلْجُبِّ﴾. والغابة: الأجَمة، والجمع غاباتٌ وغابٌ. وسمِّيت لأنّه يُغاب فيها. والغِيبة: الوَقيعة فى النّاس من هذا، لأنَّها لا تقال إلاّ فى غَيْبَة.",
- "az": "[غيب] (ğə-ya-ba) - الغين (ğeyn), الياء (yə) və الباء (ba) bir şeyin gözlərdən örtülməsinə dəlalət edən səhih bir əsasdır, sonra ona qiyas edilir. Bunlardan əl-ğeyb (الغَيْب): Allahdan başqasının bilmədiyi, [insanlardan] qeyb olan şeydir. Belə deyilir: ğabət əş-şəmsu təğibu ğəybətən və ğuyubən və ğəyban (غابت الشَّمْسُ تَغِيب غَيْبَةً وغُيُوباً وغَيْباً). Və kişi öz ölkəsindən ğab oldu (qeyb oldu). Və qadın əğabət (أغابَتِ), o, muğibədir (مُغِيبة), o zaman ki, ərə qeyb oldu (əri yoxdur/uzaqdadır). Və biz ğəybət və ğəyabədə (غَيْبَةٍ وغَيَابة) düşdük, yəni içində gizlənmək mümkün olan yerin çökəkliyində. Uca Allah Yusif ﵇ qissəsində buyurmuşdur: mənaca tərcümə: ﴿وَأَلْقُوهُ فِي غَيابَتِ اَلْجُبِّ﴾ (Onu quyunun dibinə atsınlar). Və əl-ğabət (الغابة): meşəlikdir, cəmi ğabatun və ğabun (غاباتٌ وغابٌ) gələr. Ona bu ad ona görə verilmişdir ki, orada gizlənilir. İnsanları qeybətdə çeynəmək olan əl-ğibət (الغِيبة) də bundandır, çünki o, yalnız [insanın] yoxluğunda (ğəybətində) delicəsinə deylir.",
+ "az": "[غيب]\nالغين (ğeyn), الياء (ya) və الباء (ba) bir şeyin gözlərdən örtülməsinə dəlalət edən səhih bir əsasdır, sonra ona qiyas edilir. Bunlardan الغَيْب (qeyb): Allahdan başqasının bilmədiyi, gözdən gizli (qeyb) olan (١) şeydir. Belə deyilir:\nغابت الشَّمس تَغِيب غَيْبَةً وغُيُوباً وغَيْباً (günəş batdı). Kişi öz ölkəsindən uzaqlaşdı (qeyb oldu). Qadın أغابَتِ (əri uzaqda oldu), o, مُغِيبةٌ (əri yanında olmayan qadın)dır, o zaman ki, əri uzaqda olar. Biz غَيْبَةٍ وغَيَابة (çuxura, gizli çökəkliyə) düşdük, yəni içində gizlənmək mümkün olan yerin çökəkliyinə. Uca Allah Yusif ﵇ qissəsində buyurmuşdur: ﴿وَأَلْقُوهُ فِي غَيابَتِ اَلْجُبِّ﴾ (mənaca tərcümə: Onu quyunun dibinə atın). الغابة (meşəlik): meşəlikdir, cəmi غاباتٌ və غابٌ gələr. Ona bu ad ona görə verilmişdir ki, orada gizlənilir. İnsanların arxasınca danışmaq (qeybət) olan الغِيبة də bundandır, çünki o, yalnız [insanın] yoxluğunda deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:31.267Z"
+ "ts": "2026-10-25T18:37:31.267Z",
+ "prev_az": "[غيب] (ğə-ya-ba) - الغين (ğeyn), الياء (yə) və الباء (ba) bir şeyin gözlərdən örtülməsinə dəlalət edən səhih bir əsasdır, sonra ona qiyas edilir. Bunlardan əl-ğeyb (الغَيْب): Allahdan başqasının bilmədiyi, [insanlardan] qeyb olan şeydir. Belə deyilir: ğabət əş-şəmsu təğibu ğəybətən və ğuyubən və ğəyban (غابت الشَّمْسُ تَغِيب غَيْبَةً وغُيُوباً وغَيْباً). Və kişi öz ölkəsindən ğab oldu (qeyb oldu). Və qadın əğabət (أغابَتِ), o, muğibədir (مُغِيبة), o zaman ki, ərə qeyb oldu (əri yoxdur/uzaqdadır). Və biz ğəybət və ğəyabədə (غَيْبَةٍ وغَيَابة) düşdük, yəni içində gizlənmək mümkün olan yerin çökəkliyində. Uca Allah Yusif ﵇ qissəsində buyurmuşdur: mənaca tərcümə: ﴿وَأَلْقُوهُ فِي غَيابَتِ اَلْجُبِّ﴾ (Onu quyunun dibinə atsınlar). Və əl-ğabət (الغابة): meşəlikdir, cəmi ğabatun və ğabun (غاباتٌ وغابٌ) gələr. Ona bu ad ona görə verilmişdir ki, orada gizlənilir. İnsanları qeybətdə çeynəmək olan əl-ğibət (الغِيبة) də bundandır, çünki o, yalnız [insanın] yoxluğunda (ğəybətində) delicəsinə deylir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«غابت الشَّمس تَغِيب غَيْبَةً وغُيُوباً وغَيْباً» cümləsinin tərcüməsi verilməyib və sitatdakı «الشَّمس» sözünün yazılışı dəyişdirilib.",
+  "«غَيْبَةٍ وغَيَابة» sözlərinin tərcüməsi buraxılıb.",
+  "«لأنَّها لا تقال إلاّ فى غَيْبَة» ifadəsində mətnə aid olmayan «delicəsinə» sözü əlavə edilib və «deylir», «ərə» kimi yazı səhvlərinə yol verilib."
+ ],
+ "review_ts": "2026-11-24T03:00:23.430Z"
 }

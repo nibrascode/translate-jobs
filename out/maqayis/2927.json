@@ -11,7 +11,19 @@
   "page_to": 419
  },
  "ar": "الغين والراء والقاف أصلٌ واحد صحيح يدلُّ على انتهاء فى شئ يبلغ أقصاه. من ذلك الغَرَق فى الماء. والغَرِقة: أرضٌ (٢) تكون فى غاية الرِّىّ. واغْرَوْرَقت العينُ والأرض من ذلك أيضاً، كأنها قد غَرِقت فى دمعها.\nومن الباب: أغرَقْتُ فى القَوس: [مدَدتُها] غايةَ المدّ. واغْتَرَق الفرسُ فى الخيل، إذا خالَطَها ثم سَبَقَها.\nومما شذَّ عن هذا الباب الغُرْقة من اللَّبن: قدر ثُلث الإناء، والجمع غُرَق. قال:\nتُضْحِى وقد ضَمِنت ضَرَّاتها غُرَقاً … من طيِّب الطَّعم حلوٍ غير مجهودٍ (١)",
- "az": "«غرق» (ğəriqə): الغين، Rə və Qaf hərflərindən ibarət tək bir səhih təməl olub, həddini aşan bir şeydə son həddə çatmağa dəlalət edir. O cümlədən su içində boğulmaq (الغَرَق). Və əl-ğərigə (الغَرِقة): tam doymuş (su yerinə oturmuş) torpaq. Və gözün və torpağın yaşarması (اغْرَوْرَقَت العينُ والأرض) də elə bundandır, sanki o, göz yaşları içində boğulmuşdur. Və bu fəsildəndir: أغرَقْتُ فى القَوس (kamamı [gəirdim] son həddə qədər çəkdim). Və اغْتَرَق الفرسُ فى الخيل (at atların içinə qarışdı, sonra onları ötüb keçdi). Və bu fəsildən kənarda qalan (şəzz) budur: əl-ğürqə (الغُرْقة) süddən: qabın təxminən üçdə biri qədər miqdar, cəmi ğürəqdir (غُرَق). O demişdir: تُضْحِى وقد ضَمِنت ضَرَّاتها غُرَقاً … من طيِّب الطَّعم حلوٍ غير مجهودٍ (١) (O səhər açır və digər ana dəvələr onun tuluqlarında yorulmadan əldə edilmiş şirin, dadlı süddən paylar qarantiya etmişlər).",
+ "az": "[غرق]\nĞayn, ra və qaf vahid, səhih bir kök olub, bir şeydə son həddinə çatan bitişə (tamamlanmağa) dəlalət edir. Suda boğulmaq (الغَرَق) bundandır. الغَرِقة (əl-ğəriqə): son dərəcə sulanmış (suya doymuş) torpaqdır (٢). Gözün və torpağın yaşarması (اغْرَوْرَقت العينُ والأرض) da bundandır, sanki o, göz yaşları içində boğulmuşdur.\nBu babdandır: أغرَقْتُ فى القَوس (kamanı son həddinə qədər [çəkdim/gərdim]). واغْتَرَق الفرسُ فى الخيل (at atların arasına qarışdı, sonra onları ötüb keçdi).\nBu babdan kənara çıxan (şəzz) isə süddən olan الغُرْقة (əl-ğürqə) sözüdür: qabın təxminən üçdə biri qədər miqdar, cəmi غُرَق (ğürəq) olur. Şair demişdir:\nتُضْحِى وقد ضَمِنت ضَرَّاتها غُرَقاً … من طيِّب الطَّعم حلوٍ غير مجهودٍ (١)\n(O (dəvə), yelənlərində yorulmadan əldə edilmiş, xoş dadlı, şirin süddən paylar (qabın üçdə biri qədər süd) olduğu halda səhər açır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:12.190Z"
+ "ts": "2026-10-25T18:38:12.190Z",
+ "prev_az": "«غرق» (ğəriqə): الغين، Rə və Qaf hərflərindən ibarət tək bir səhih təməl olub, həddini aşan bir şeydə son həddə çatmağa dəlalət edir. O cümlədən su içində boğulmaq (الغَرَق). Və əl-ğərigə (الغَرِقة): tam doymuş (su yerinə oturmuş) torpaq. Və gözün və torpağın yaşarması (اغْرَوْرَقَت العينُ والأرض) də elə bundandır, sanki o, göz yaşları içində boğulmuşdur. Və bu fəsildəndir: أغرَقْتُ فى القَوس (kamamı [gəirdim] son həddə qədər çəkdim). Və اغْتَرَق الفرسُ فى الخيل (at atların içinə qarışdı, sonra onları ötüb keçdi). Və bu fəsildən kənarda qalan (şəzz) budur: əl-ğürqə (الغُرْقة) süddən: qabın təxminən üçdə biri qədər miqdar, cəmi ğürəqdir (غُرَق). O demişdir: تُضْحِى وقد ضَمِنت ضَرَّاتها غُرَقاً … من طيِّب الطَّعم حلوٍ غير مجهودٍ (١) (O səhər açır və digər ana dəvələr onun tuluqlarında yorulmadan əldə edilmiş şirin, dadlı süddən paylar qarantiya etmişlər).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, tərcümə '[غرق]' əvəzinə '«غرق» (ğəriqə):' ilə başlayır və 'الغين' hərfinin adı ərəbcə saxlanılıb.",
+  "Haşiyə rəqəmi (٢) buraxılıb və 'أغرَقْتُ فى القَوس' ifadəsinin tərcüməsində orfoqrafik səhv ('kamamı [gəirdim]') var.",
+  "Şeir beytinin tərcüməsi səhvdir ('ضَرَّاتها' sözü 'digər ana dəvələr' və 'tuluqlarında' kimi yanlış verilib, əslində dəvənin yelənləridir).",
+  "Abzas bölgüsü ərəbcə mətnə uyğun deyil."
+ ],
+ "review_ts": "2026-11-24T03:08:04.893Z"
 }

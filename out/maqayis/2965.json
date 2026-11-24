@@ -11,7 +11,17 @@
   "page_to": 435
  },
  "ar": "الفاء والهاء كلمةٌ واحدةٌ تدل على العِىِّ وما أشبهه، من ذلك الرّجل الفَهُّ، وهو العَيِىّ، والمرأة فَهّةٌ، ومصدره الفَهَاهة. قال:\nفلم تَلقَنِى فَهَّا ولم تَلْقَ حُجَّتى … مُلَجْلَجَةً أبغِى لها مَنْ يقيمُها (١)\nويقال: خرجتُ لحاجةٍ فأَفَهَّنِى فلانٌ حتَّى فَهِهْت، أى أنسانِيها.",
- "az": "[فه] الفاء والهاء كلمةٌ واحدةٌ تدل على العِىِّ وما أشبهه، من ذلك الرّجل الفَهُّ، وهو العَيِىّ، والمرأة فَهّةٌ، ومصدره الفَهَاهة. (Fa və hə – lal-dinməzliyə və ona bənzər şeylərə dəlalət edən tək sözdür, o cümlədən «الرجل الفه» (fəh) – lal/söz deməyi bacarmayan kişi, qadın isə «فَهة» (fəhhə), məsdəri isə «الڤهاهة» (fəhahə)-dir.) قال: لم تَلقَنِى فَهَّا ولم تَلْقَ حُجَّتى … مُلَجْلَجَةً أبغِى لها مَنْ يقيمُها (١) ((Şair) demişdir: «Sən məni lal kimi qarşılamadın və mənim dəlilimi dolaşıq şəkildə tapmadın ki, onu düzəldəcək birini axtarım (١)».) ويقال: خرجتُ لحاجةٍ فأَفَهَّنِى فلانٌ حتَّى فَهِهْت، أى أنسانِيها. (Və deyilir: «Bir ehtiyac üçün çıxdım, filankəs məni o işdə çaşdırdı (elə etdi ki, unutdum) ta ki dilsiz/çaşqın hala düşdüm» – yəni onu mənə unutdurdu.)",
+ "az": "[فه]\nFa və hə – acizliyə (danışa bilməməyə) və ona bənzər şeylərə dəlalət edən tək bir kəlmədir. Bunlardan biri الرّجل الفَهُّ (fəhh kişi), yəni söz deməkdə aciz olan (العَيِىّ) kişidir; qadına isə فَهّةٌ (fəhhə) deyilir, məsdəri الفَهَاهة (fəhahə)-dir. Şair demişdir:\nفلم تَلقَنِى فَهَّا ولم تَلْقَ حُجَّتى … مُلَجْلَجَةً أبغِى لها مَنْ يقيمُها (١)\n(Məni aciz/dilsiz kimi qarşılamadın və dəlilimi də düzəldilməyə ehtiyacı olan dolaşıq bir halda tapmadın (١).)\nVə deyilir: خرجتُ لحاجةٍ فأَفَهَّنِى فلانٌ حتَّى فَهِهْت (Bir iş üçün çıxdım, filankəs məni çaşdırdı ki, dilim tutuldu), yəni onu mənə unutdurdu (أنسانِيها).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:05.436Z"
+ "ts": "2026-10-25T18:39:05.436Z",
+ "prev_az": "[فه] الفاء والهاء كلمةٌ واحدةٌ تدل على العِىِّ وما أشبهه، من ذلك الرّجل الفَهُّ، وهو العَيِىّ، والمرأة فَهّةٌ، ومصدره الفَهَاهة. (Fa və hə – lal-dinməzliyə və ona bənzər şeylərə dəlalət edən tək sözdür, o cümlədən «الرجل الفه» (fəh) – lal/söz deməyi bacarmayan kişi, qadın isə «فَهة» (fəhhə), məsdəri isə «الڤهاهة» (fəhahə)-dir.) قال: لم تَلقَنِى فَهَّا ولم تَلْقَ حُجَّتى … مُلَجْلَجَةً أبغِى لها مَنْ يقيمُها (١) ((Şair) demişdir: «Sən məni lal kimi qarşılamadın və mənim dəlilimi dolaşıq şəkildə tapmadın ki, onu düzəldəcək birini axtarım (١)».) ويقال: خرجتُ لحاجةٍ فأَفَهَّنِى فلانٌ حتَّى فَهِهْت، أى أنسانِيها. (Və deyilir: «Bir ehtiyac üçün çıxdım, filankəs məni o işdə çaşdırdı (elə etdi ki, unutdum) ta ki dilsiz/çaşqın hala düşdüm» – yəni onu mənə unutdurdu.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatda «الفَهَاهة» sözü «الڤهاهة» kimi təhrif olunub.",
+  "Şeir beytinin əvvəlindəki «فلم» sözündən «ف» hərfi buraxılıb."
+ ],
+ "review_ts": "2026-11-24T03:10:28.766Z"
 }

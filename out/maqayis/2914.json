@@ -11,7 +11,17 @@
   "page_to": 412
  },
  "ar": "الغين والثاء والميم كلمتانِ متباينتانِ. فالأغثم من الشَّعْرَ: ما غَلبَ بياضُه سوادَه. قال:\nإمّا تَرَى دهراً عَلَانى أغْثَمُهْ (١)\nوالكلمة الأخرى: غَثَمْتُ له من مالى: أعطيتُه.",
- "az": "[غثم] الغين والثاء والميم كلمتانِ متباينتانِ (ğeyn, sə və mim hərfləri iki fərqli kəlmədir). فالأغثم من الشَّعْرَ: ما غَلبَ بياضُه سوادَه (Saçdan olan əl-ağsəm: ağlığı qarasından çox olan deməkdir). قال (Demişdir):\nإمّا تَرَى دهراً عَلَانى أغْثَمُهْ (١) (Əgər zamanın məni bürüdüyünü görsən, onun ağ-qarası var).",
+ "az": "[غثم]\nالغين والثاء والميم كلمتانِ متباينتانِ (ğayn, sa və mim hərfləri iki fərqli kəlmədir). فالأغثم من الشَّعْرَ: ما غَلبَ بياضُه سوادَه (Saçdan olan الأغثم (əl-əğsəm): ağlığı qarasından çox olan deməkdir). قال:\nإمّا تَرَى دهراً عَلَانى أغْثَمُهْ (١) (Demişdir: Əgər zamanın ağ-qarası (qocalığı) məni bürüdüyünü görsən (١)).\nوالكلمة الأخرى: غَثَمْتُ له من مالى: أعطيتُه (Digər kəlmə isə: غَثَمْتُ له من مالى (ona malımdan verdim), yəni ona əta etdim).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:47.719Z"
+ "ts": "2026-10-25T18:37:47.719Z",
+ "prev_az": "[غثم] الغين والثاء والميم كلمتانِ متباينتانِ (ğeyn, sə və mim hərfləri iki fərqli kəlmədir). فالأغثم من الشَّعْرَ: ما غَلبَ بياضُه سوادَه (Saçdan olan əl-ağsəm: ağlığı qarasından çox olan deməkdir). قال (Demişdir):\nإمّا تَرَى دهراً عَلَانى أغْثَمُهْ (١) (Əgər zamanın məni bürüdüyünü görsən, onun ağ-qarası var).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin son cümləsi (والكلمة الأخرى: غَثَمْتُ له من مالى: أعطيتُه) buraxılmışdır.",
+  "Şeir beytinin mənası dəqiq verilməmişdir."
+ ],
+ "review_ts": "2026-11-24T03:01:32.685Z"
 }

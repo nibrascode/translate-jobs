@@ -11,7 +11,17 @@
   "page_to": 505
  },
  "ar": "الفاء والشين والغين أصلٌ يدلُّ على الانتشار. يقال انفشغ الشَّئ وتفشَّغ، إذا انتشَر. ويقولون: الفَشْغة: القُطنة فى جوف القَصَبة.\nوالفُشاغ (١): نبات يتفشَّغُ على الشَّجر ويلتوِى. والناصية الفَشْغاء: المُنتشِرة.\nوتفَشَّغَ فيه الشَّيب: ظَهَر. وتفشَّغَ به الدَّم. ويقولون: أفْشَغَهُ سوطاً: ضَربَه.",
- "az": "[فشغ] الفاء والشين والغين أصلٌ يدلُّ على الانتشار (Fə, şin və ğayın yayılmağa dəlalət edən kökdür). يقال انفشغ الشَّئ وتفشَّغ (Deyilir ki, şey infəşəğə və təfəşşəğə): إذا انتشَر (yayıldığı zaman). ويقولون (Və deyirlər): الفَشْغة (əl-fəşğə): القُطنة فى جوف القَصَبة (qamışın daxilindəki pambıq). والفُشاغ (١) (Və əl-füşağ): نبات يتفشَّغُ على الشَّجر ويلتوِى (ağacların üzərinə sarılan və dolanan bitkidir). والناصية الفَشْغاء (Və əl-fəşğə nafiləsi / alın saçları): المُنتشِرة (pərən-pərən düşmüş, səpələnmiş). وتفَشَّغَ فيه الشَّيب (Ağ saç onda yayıldı): ظَهَر (üzə çıxdı). وتفشَّغَ به الدَّم (Və qan onunla yayıldı). ويقولون (Və deyirlər): أفْشَغَهُ سوطاً (ona qırmanc vurdu): ضَربَه (vurdu).",
+ "az": "[فشغ] (Fa, şin və ğayn) yayılmağa dəlalət edən kökdür. Şey yayıldıqda: انْفَشَغَ الشَّيْءُ (şey yayıldı) və تَفَشَّغَ (yayıldı) deyilir. Deyirlər: الفَشْغَةُ (əl-fəşğə) – qamışın daxilindəki pambıqdır.\nالفُشَاغُ (١) (əl-füşağ) – ağacların üzərinə sarılan və dolanan bitkidir. النَّاصِيَةُ الفَشْغَاءُ (əl-fəşğə kəkili) – pərən-pərən düşmüş, səpələnmiş alın saçıdır.\nتَفَشَّغَ فِيهِ الشَّيْبُ (onda ağ saçlar yayıldı): ظَهَرَ (üzə çıxdı). تَفَشَّغَ بِهِ الدَّمُ (qan onun bədənində yayıldı). Deyirlər: أَفْشَغَهُ سَوْطاً (ona bir qırmanc vurdu): ضَرَبَهُ (vurdu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.152Z"
+ "ts": "2026-10-26T00:28:00.152Z",
+ "prev_az": "[فشغ] الفاء والشين والغين أصلٌ يدلُّ على الانتشار (Fə, şin və ğayın yayılmağa dəlalət edən kökdür). يقال انفشغ الشَّئ وتفشَّغ (Deyilir ki, şey infəşəğə və təfəşşəğə): إذا انتشَر (yayıldığı zaman). ويقولون (Və deyirlər): الفَشْغة (əl-fəşğə): القُطنة فى جوف القَصَبة (qamışın daxilindəki pambıq). والفُشاغ (١) (Və əl-füşağ): نبات يتفشَّغُ على الشَّجر ويلتوِى (ağacların üzərinə sarılan və dolanan bitkidir). والناصية الفَشْغاء (Və əl-fəşğə nafiləsi / alın saçları): المُنتشِرة (pərən-pərən düşmüş, səpələnmiş). وتفَشَّغَ فيه الشَّيب (Ağ saç onda yayıldı): ظَهَر (üzə çıxdı). وتفشَّغَ به الدَّم (Və qan onunla yayıldı). ويقولون (Və deyirlər): أفْشَغَهُ سوطاً (ona qırmanc vurdu): ضَربَه (vurdu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الناصية» (alın saçı, kəkil) sözü yanlış olaraq «nafilə» kimi tərcümə edilib.",
+  "Ərəbcə cümlələr tərcümənin daxilində təkrarən verilərək mətn strukturu pozulub."
+ ],
+ "review_ts": "2026-11-24T03:42:11.472Z"
 }

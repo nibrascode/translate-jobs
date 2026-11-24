@@ -11,7 +11,17 @@
   "page_to": 428
  },
  "ar": "الغين والضاد والحرف المعتلّ كلمتان: فالأولى: الإغضاء:\nإدناء الجُفون. وهذا مشتقٌّ من اللَّيلة الغاضِية، وهى الشَّديدة الظُّلمة.\nوالكلمة الأخرى: الغَضَا، وهو شجرٌ معروف. يقال: أرضٌ غَضْيَاءُ:\nكثيرة الغَضَا. ويقال: إبلٌ غَضِيَةٌ: اشتكَتْ عن أكل الغَضَا.",
- "az": "[غضا] الغين والضاد والحرف المعتلّ كلمتان: فالأولى: الإغضاء: إدناء الجُفون. (Ğayn, zad və uzvü hərf iki sözdür: Birincisi: «الإغضاء» (iğza) – göz qapaqlarını aşağı endirmək.) وهذا مشتقٌّ من اللَّيلة الغاضِية، وهى الشَّديدة الظُّلمة. (Bu da şiddətli qaranlıq olan «الليلة الغاضية» sözündən törەmişdir.) والكلمة الأخرى: الغَضَا، وهو شجرٌ معروف. (Digər söz isə: «الغضا» (ğaza) – məlum olan bir ağacdır.) يقال: أرضٌ غَضْيَاءُ: كثيرة الغَضَا. (Deyilir: «أرض غضياء» – çoxlu ğəza ağacı olan yer.) ويقال: إبلٌ غَضِيَةٌ: اشتكَتْ عن أكل الغَضَا. (Və deyilir: «إبل غضية» – ğəza ağacı yeməkdən xəstələnmiş dəvələr.)",
+ "az": "[غضا]\\nĞayn, dad və mötəl hərf iki kəlmədir. Birincisi الإغضاء (əl-iğda) –\\ngöz qapaqlarını aşağı endirməkdir. Bu da şiddətli qaranlıq olan اللَّيلة الغاضِية (əl-leylətul-ğadiyə) ifadəsindən törəmişdir.\\nDigər kəlmə isə الغَضَا (əl-ğada) sözüdür; o, məlum olan bir ağacdır. Deyilir: أرضٌ غَضْيَاءُ (ardun ğadya) –\\nçoxlu ğada ağacı olan yer. Deyilir: إبلٌ غَضِيَةٌ (ibilun ğadiyə) – ğada ağacı yeməkdən xəstələnmiş dəvələr.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:05.435Z"
+ "ts": "2026-10-25T18:39:05.435Z",
+ "prev_az": "[غضا] الغين والضاد والحرف المعتلّ كلمتان: فالأولى: الإغضاء: إدناء الجُفون. (Ğayn, zad və uzvü hərf iki sözdür: Birincisi: «الإغضاء» (iğza) – göz qapaqlarını aşağı endirmək.) وهذا مشتقٌّ من اللَّيلة الغاضِية، وهى الشَّديدة الظُّلمة. (Bu da şiddətli qaranlıq olan «الليلة الغاضية» sözündən törەmişdir.) والكلمة الأخرى: الغَضَا، وهو شجرٌ معروف. (Digər söz isə: «الغضا» (ğaza) – məlum olan bir ağacdır.) يقال: أرضٌ غَضْيَاءُ: كثيرة الغَضَا. (Deyilir: «أرض غضياء» – çoxlu ğəza ağacı olan yer.) ويقال: إبلٌ غَضِيَةٌ: اشتكَتْ عن أكل الغَضَا. (Və deyilir: «إبل غضية» – ğəza ağacı yeməkdən xəstələnmiş dəvələr.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin bütün ərəbcə mətni cümlə-cümlə təkrarlanmışdır.",
+  "'ض' hərfi 'zad' kimi səhv adlandırılmış, 'الحرف المعتلّ' ifadəsi 'uzvü hərf' kimi yanlış tərcümə edilmiş, 'تورەmişdir' sözündə kiril hərfi işlədilmiş və baş sözlərin hərəkələri silinmişdir."
+ ],
+ "review_ts": "2026-11-24T03:09:31.680Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 503
  },
  "ar": "الفاء والسين والجيم، كلمة واحدة. يقولون: قَلوصٌ فاسجة (١)، إذا أعجَلَها الفحلُ فضَرَبها قَبْلَ وقتِ المضْرِب. ويقال بل هى الحائل السَّمينة.",
- "az": "[فسج] الفاء والسين والجيم، كلمة واحدة (Fə, sin və cim tək bir sözdür). يقولون (Deyirlər): قَلوصٌ فاسجة (١) (fasiq gənc dəvə): إذا أعجَلَها الفحلُ فضَرَبها قَبْلَ وقتِ المضْرِب (erkən dəvə onu vaxtından əvvəl cütləşdirdikdə). ويقال بل هى الحائل السَّمينة (Və ya deyilir ki, əksinə, o, hamilə qalmamış kök dişi dəvədir).",
+ "az": "[فسج] الفاء والسين والجيم (fa, sin və cim) tək bir sözdür. Deyirlər: قَلوصٌ فاسجة: erkək dəvə vaxtından əvvəl cütləşdikdə dişi gənc dəvə haqqında deyilir. Həmçinin deyilir ki, o, hamilə qalmamış kök dişi dəvədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.151Z"
+ "ts": "2026-10-26T00:28:00.151Z",
+ "prev_az": "[فسج] الفاء والسين والجيم، كلمة واحدة (Fə, sin və cim tək bir sözdür). يقولون (Deyirlər): قَلوصٌ فاسجة (١) (fasiq gənc dəvə): إذا أعجَلَها الفحلُ فضَرَبها قَبْلَ وقتِ المضْرِب (erkən dəvə onu vaxtından əvvəl cütləşdirdikdə). ويقال بل هى الحائل السَّمينة (Və ya deyilir ki, əksinə, o, hamilə qalmamış kök dişi dəvədir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«فاسجة» sözü «fasiq» kimi səhv tərcümə olunub.",
+  "«الفحل» (erkək dəvə) sözü «erkən dəvə» kimi yanlış yazılıb."
+ ],
+ "review_ts": "2026-11-24T03:41:44.042Z"
 }

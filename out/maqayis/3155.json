@@ -11,7 +11,16 @@
   "page_to": 512
  },
  "ar": "الفاء والغين والراء أصلٌ صحيح يدلّ على فتْح وانفتاح.\nمن ذلك فغَر الرجلُ فاه: فتَحَه. وفَغر فوهُ، إذا انفتح. وانفغَر النَّوْرُ: تفتَّح.\nوالفاغرة: ضربٌ من الطيِّب. ويقال: إنّ المَفغَرة: الأرضُ الواسعة.",
- "az": "[فغر] (F-Ğ-R) Fə, ğin və ra hərfləri açılmağa və açığa dəlalət edən doğru bir kökdür. O cümlədən «فغر الرجلُ فاه» (kişi ağzını açdı): onu açdı. «فَغر فوهُ» (ağzı açıldı), o zaman ki, açıldı. «وانفغَر النَّوْرُ» (çiçək açıldı): çiçəkləndi. «الفاغرة» (əl-fağirə): bir növ ətirdir. Deyilir ki, «المَفغَرة» (əl-məfğərə): geniş yerdir.",
+ "az": "[فغر] (F-Ğ-R) Fə, ğin və ra hərfləri açmağa və açılmağa dəlalət edən doğru bir kökdür.\nO cümlədən «فغر الرجلُ فاه» (kişi ağzını açdı): onu açdı. «فَغر فوهُ» (ağzı açıldı), o zaman ki, açıldı. «وانفغَر النَّوْرُ» (çiçək açıldı): çiçəkləndi.\n«الفاغرة» (əl-fağirə): bir növ ətirdir. Deyilir ki, «المَفغَرة» (əl-məfğərə): geniş yerdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:29:48.226Z"
+ "ts": "2026-10-26T00:29:48.226Z",
+ "prev_az": "[فغر] (F-Ğ-R) Fə, ğin və ra hərfləri açılmağa və açığa dəlalət edən doğru bir kökdür. O cümlədən «فغر الرجلُ فاه» (kişi ağzını açdı): onu açdı. «فَغر فوهُ» (ağzı açıldı), o zaman ki, açıldı. «وانفغَر النَّوْرُ» (çiçək açıldı): çiçəkləndi. «الفاغرة» (əl-fağirə): bir növ ətirdir. Deyilir ki, «المَفغَرة» (əl-məfğərə): geniş yerdir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«فَتْح وانفتاح» ifadəsi «açılmağa və açığa» kimi deyil, «açmağa və açılmağa» kimi tərcümə olunmalıdır."
+ ],
+ "review_ts": "2026-11-24T03:43:48.275Z"
 }

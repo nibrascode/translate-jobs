@@ -11,7 +11,17 @@
   "page_to": 425
  },
  "ar": "الغين والسين والقاف أصلٌ صحيح يدل على ظُلْمة. فالغَسَق:\nالظلمة. والغاسِق: الليل. ويقال: غَسَقت عينُه: أظلمت. وأغْسَقَ المؤذِّن، إذا أخَّر صلاةَ المغرب إلى غَسَق اللَّيل. وأمّا الغَسَّاق الذى جاء فى القرآن، فقال المفسِّرون: ما تقطَّرَ من جلود أهل النار.",
- "az": "[غسق] الغين والسين والقاف أصلٌ صحيح يدل على ظُلْمة. فالغَسَق: الظلمة. والغاسِق: الليل. ويقال: غَسَقت عينُه: أظلمت. وأغْسَقَ المؤذِّن، إذا أخَّر صلاةَ المغرب إلى غَسَق اللَّيل. وأمّا الغَسَّاق الذى جاء فى القرآن، فقال المفسِّرون: ما تقطَّرَ من جلود أهل النار. \nGeyn, sin və qaf zülmətə dəlalət edən səhih bir kökdür. الغَسَق (əl-ğasəq) – qaranlıqdır. الغاسِق (əl-ğasiq) – gecədir. Deyilir: غَسَقت عينُه (ğasəqat aynuhu) – onun gözü qaraldı. Müəzzin əğsəqə (أغْسَقَ) – məğrib namazını gecənin qaranlığına qədər gecikdirdikdə. Quranda gələn الغَسَّاق (əl-ğassaq) gəldikdə isə, müfəssirlər demişlər ki: cəhənnəm əhlinin dərilərindən damcılayan irin/maddədir.",
+ "az": "[غسق]\\nĞayn, sin və qaf zülmətə dəlalət edən səhih bir kökdür. الغَسَق (əl-ğasəq) –\\nqaranlıqdır. الغاسِق (əl-ğasiq) – gecədir. Deyilir: غَسَقت عينُه (ğasəqat aynuhu) – onun gözü qaraldı. Müəzzin məğrib namazını gecənin qaranlığına qədər gecikdirdikdə أغْسَقَ المؤذِّن (əğsəqal-muəzzin) deyilir. Quranda gələn الغَسَّاق (əl-ğassaq) sözünə gəldikdə isə, müfəssirlər demişlər ki: cəhənnəm əhlinin dərilərindən damcılayan şeydir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:40.244Z"
+ "ts": "2026-10-25T18:38:40.244Z",
+ "prev_az": "[غسق] الغين والسين والقاف أصلٌ صحيح يدل على ظُلْمة. فالغَسَق: الظلمة. والغاسِق: الليل. ويقال: غَسَقت عينُه: أظلمت. وأغْسَقَ المؤذِّن، إذا أخَّر صلاةَ المغرب إلى غَسَق اللَّيل. وأمّا الغَسَّاق الذى جاء فى القرآن، فقال المفسِّرون: ما تقطَّرَ من جلود أهل النار. \nGeyn, sin və qaf zülmətə dəlalət edən səhih bir kökdür. الغَسَق (əl-ğasəq) – qaranlıqdır. الغاسِق (əl-ğasiq) – gecədir. Deyilir: غَسَقت عينُه (ğasəqat aynuhu) – onun gözü qaraldı. Müəzzin əğsəqə (أغْسَقَ) – məğrib namazını gecənin qaranlığına qədər gecikdirdikdə. Quranda gələn الغَسَّاق (əl-ğassaq) gəldikdə isə, müfəssirlər demişlər ki: cəhənnəm əhlinin dərilərindən damcılayan irin/maddədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlində maddənin bütün ərəbcə mətni artıq olaraq təkrarlanmışdır.",
+  "Hərf adı 'Geyn' yanlışdır ('Ğayn' olmalıdır) və bəzi cümlələrdə qrammatik uyğunsuzluq var."
+ ],
+ "review_ts": "2026-11-24T03:09:31.677Z"
 }

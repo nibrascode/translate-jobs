@@ -11,9 +11,21 @@
   "page_to": 383
  },
  "ar": "الغين والضاد أصلانِ صحيحانِ، يدلُّ أحدُهما على كفٍّ ونَقْص، والآخر على طراوة.\nفالأوّل الغضّ: غضُّ البصر. وكلُّ شئٍ كففتَه فقد غضَضْته. ومنه قولهم:\nتلحقُه فى ذلك غَضَاضةٌ، أى أمر يَغُضُّ له بصرَه. والغَضْغَضة: النُّقْصان.\nو\nفى الحديث: «لقد مَرَّ من الدُّنيا بِبطنته لم يُغَضْغَض (٤)». ويقولون: هو بحرٌ لا يُغَضْغَض. وغَضْغَضْت السِّقَاءَ: نقصتُه. وكذلك الحقّ.\nوالأصل الآخر: الغَضُّ: الطرىُّ من كلِّ شئ. ويقال للطَّلْع حين يطلُعُ:\nغَضِيض.",
- "az": "[غض] الغين والضاد أصلانِ صحيحانِ (Gheyn və dad iki səhih kökdür), يدلُّ أحدُهما على كفٍّ ونَقْص (biri qandırmağa, çəkindirməyə və əskərliyə dəlalət edir), والآخر على طراوة (və digəri təravətə). فألّول الغضّ (birincisi əl-ğaddur): غضُّ البصر (gözü haramdan çəkindirmək). وكلُّ شئٍ كففتَه فقد غضَضْته (və hansı şeyi ki çəkindirdinsə, artıq onu ğadəd-dətmisən). ومنه قولهم (və bundandır onların sözü): تلحقُه فى ذلك غَضَاضةٌ (ona bundan bir ğədadə - zəlalət, arzuolunmazlıq yapışar), أى أمر يَغُضُّ له بصرَه (yəni elə bir iş ki, onun üçün gözünü qısar, çəkindirər). والغَضْغَضة (və əl-ğəğğəzə): النُّقْصان (əskərlikdir). و فى الحديث (və hədisdədir): «لقد مَرَّ من الدُّنيا بِبطنته لم يُغَضْغَض (٤)» («Həqiqətən, o, dünyadan toxluğu ilə keçdi, əskilmədi»). ويقولون (və deyirlər): هو بحرٌ لا يُغَضْغَض (o, əskilməyən bir dənizdir). وغَضْغَضْت السِّقَاءَ (və tuluğu əskiltdim): نقصتُه (azaltdım). وكذلك الحقّ (və həmçinin haqq). والأصل الآخر (və digər kök): الغَضُّ (əl-ğaddur): الطرىُّ من كلِّ شئ (hər şeyin təravətlisidir). ويقال للطَّلْع حين يطلُعُ (və xurma tumurcuğu çıxanda ona deyilir): غَضِيض (ğədiyd - təzə, təravətli).",
+ "az": "[غض]\nالغين (ğayn) və الضاد (dad) iki səhih kökdür; biri çəkindirməyə (saxlamağa) və azalmaya, digəri isə təravətə dəlalət edir.\nBirincisi الغضّ (əl-ğadd)-dır: غضُّ البصر (gözü aşağı salmaq, çəkindirmək). Çəkindirdiyin (saxladığın) hər bir şeyi artıq غضَضْته (azaltmış/çəkindirmiş) olursan. Bundandır onların sözü:\ntلحقُه فى ذلك غَضَاضةٌ (ona bunda bir ğədadə — alçalma, eyib toxunar), yəni onun üçün gözünü aşağı salacağı bir iş. الغَضْغَضة (əl-ğadğadə): azalma, əskilmədir.\nVə\nhədisdə deyilir: «لقد مَرَّ من الدُّنيا بِبطنته لم يُغَضْغَض (٤)» («O, dünyadan toxluğu ilə keçib getdi, [payı] əskildilmədi»). Deyirlər: هو بحرٌ لا يُغَضْغَض (o, suyu əskilməyən bir dənizdir). غَضْغَضْت السِّقَاءَ (tuluğu azaltdım): onu əskiltdim. Haqq da həmçinin belədir.\nDigər kök: الغَضُّ (əl-ğadd): hər şeyin təravətli (təzə) olanıdır. Xurma tumurcuğu təzə çıxanda ona deyilir:\nغَضِيض (ğədid — təzə, təravətli).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-25T18:36:00.929Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[غض] الغين والضاد أصلانِ صحيحانِ (Gheyn və dad iki səhih kökdür), يدلُّ أحدُهما على كفٍّ ونَقْص (biri qandırmağa, çəkindirməyə və əskərliyə dəlalət edir), والآخر على طراوة (və digəri təravətə). فألّول الغضّ (birincisi əl-ğaddur): غضُّ البصر (gözü haramdan çəkindirmək). وكلُّ شئٍ كففتَه فقد غضَضْته (və hansı şeyi ki çəkindirdinsə, artıq onu ğadəd-dətmisən). ومنه قولهم (və bundandır onların sözü): تلحقُه فى ذلك غَضَاضةٌ (ona bundan bir ğədadə - zəlalət, arzuolunmazlıq yapışar), أى أمر يَغُضُّ له بصرَه (yəni elə bir iş ki, onun üçün gözünü qısar, çəkindirər). والغَضْغَضة (və əl-ğəğğəzə): النُّقْصان (əskərlikdir). و فى الحديث (və hədisdədir): «لقد مَرَّ من الدُّنيا بِبطنته لم يُغَضْغَض (٤)» («Həqiqətən, o, dünyadan toxluğu ilə keçdi, əskilmədi»). ويقولون (və deyirlər): هو بحرٌ لا يُغَضْغَض (o, əskilməyən bir dənizdir). وغَضْغَضْت السِّقَاءَ (və tuluğu əskiltdim): نقصتُه (azaltdım). وكذلك الحقّ (və həmçinin haqq). والأصل الآخر (və digər kök): الغَضُّ (əl-ğaddur): الطرىُّ من كلِّ شئ (hər şeyin təravətlisidir). ويقال للطَّلْع حين يطلُعُ (və xurma tumurcuğu çıxanda ona deyilir): غَضِيض (ğədiyd - təzə, təravətli).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«غ» hərfinin adı «Gheyn» şəklində səhv yazılmışdır («ğayn» olmalıdır).",
+  "«نَقْص» və «النُّقْصان» sözləri «əskərliyə», «əskərlikdir» kimi yanlış tərcümə edilmişdir («azalma», «əskilmə» olmalıdır).",
+  "«غضُّ البصر» ifadəsinə mətnə aid olmayan «haramdan» sözü əlavə edilmişdir.",
+  "«فقد غضَضْته» ifadəsi «artıq onu ğadəd-dətmisən» kimi pozulmuş şəkildə verilmiş, «غَضَاضةٌ» isə «zəlalət» kimi səhv tərcümə edilmişdir.",
+  "«الغَضْغَضة» sözü «əl-ğəğğəzə» kimi səhv oxunmuş, «فألّول» yazılış xətası buraxılmış və abzas bölgüsü pozulmuşdur."
+ ],
+ "review_ts": "2026-11-24T02:59:38.020Z"
 }

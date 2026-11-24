@@ -13,5 +13,10 @@
  "ar": "الفاء واللام والصاد ليس فيه شئٌ، لكنَّهم يقولون:\nالانفلاص: التفلُّت (١). وفلَّصت الشَّئ من الشى: خَلّصته. وهذا إنْ صحَّ فإنَّما هو من الإبدال، والأصل الميم، يقال مَلَّصَ. وممكنٌ أن يكون الأصل الخاء:\nخَلَّص.",
  "az": "[فلص] (fə-lə-s). Fə, lam və sad hərflərində əsl məna yoxdur, lakin deyirlər: «الانفلاص» — qaçıb qurtulmaq, xilas olmaq (1). «فلَّصت الشَّئ من الشى» — şeyi digərindən xilas etdim. Əgər bu səhihdirsə, onda bu, hərf dəyişməsidir (ibdal); əslində mim hərfi ilə «مَلَّص» denilir. Həmçinin əslinin xaa hərfi ilə «خَلَّص» olması da mümkündür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:24:42.634Z"
+ "ts": "2026-10-26T00:24:42.634Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-24T03:26:52.878Z"
 }

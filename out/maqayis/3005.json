@@ -11,7 +11,16 @@
   "page_to": 451
  },
  "ar": "الفاء واللام والطاء ليس بأصل، لأنَّه من باب الإبدال، والأصل الراء. ويقولون: أفْلَطَه الأمرُ: فاجَأَه. وتكلَّمَ فلانٌ فِلاطاً، إذا فاجَأَ (٢) بقولِهِ. والأصل الراء فرط، وقد ذُكِر فى بابه.",
- "az": "[فلط] (fə-lə-t). Fə, lam və ta əsas deyil, çünki bu, ibdal (əvəzlənmə) babındandır və əsli ra hərfi ilədir. Deyirlər: «أفْلَطَه الأمرُ» — iş ona qəflətən gəldi. «تكلَّمَ فلانٌ فِلاطاً» — filankəs sözü ilə qəflətən hücum etdikdə deyilir (2). Əsli «فرط» (fərt) kökündəndir və öz babında qeyd olunmuşdur.",
+ "az": "[فلط] (fə-lə-t). Fə, lam və ta əsas deyil, çünki bu, ibdal (əvəzlənmə) babındandır və əsli ra hərfi ilədir. Deyirlər: «أفْلَطَه الأمرُ» — iş ona qəflətən gəldi. «تكلَّمَ فلانٌ فِلاطاً» — filankəs sözü ilə qəfil yaxaladıqda (gözlənilmədən danışdıqda) deyilir (٢). Əsli «فرط» (fərt) kökündəndir və öz babında qeyd olunmuşdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:24:42.634Z"
+ "ts": "2026-10-26T00:24:42.634Z",
+ "prev_az": "[فلط] (fə-lə-t). Fə, lam və ta əsas deyil, çünki bu, ibdal (əvəzlənmə) babındandır və əsli ra hərfi ilədir. Deyirlər: «أفْلَطَه الأمرُ» — iş ona qəflətən gəldi. «تكلَّمَ فلانٌ فِلاطاً» — filankəs sözü ilə qəflətən hücum etdikdə deyilir (2). Əsli «فرط» (fərt) kökündəndir və öz babında qeyd olunmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«إذا فاجَأَ بقولِهِ» ifadəsinin tərcüməsi yanlışdır («sözü ilə qəflətən hücum etdikdə» əvəzinə «sözü ilə qəfil yaxaladıqda/qəflətən danışdıqda» olmalıdır)."
+ ],
+ "review_ts": "2026-11-24T03:26:52.879Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 419
  },
  "ar": "الغين والراء واللام كلمةٌ واحدة، وهى الغُرْلة، وهى القُلْفة.\nوالأغرل: الأقلَف. ويقولون: إنّ الغَرِل: المسترخِى الخَلْق.",
- "az": "«غرل» (ğərələ): الغين، Rə və Lam hərflərindən ibarət tək bir kəlmədir, o da sünnət olunmamış dərini bildirən əl-ğürlədir (الغُرْلة). Və əl-ağral (الأغرل): sünnət olunmamış (sünbülü). Və deyirlər ki, əl-ğəril (الغَرِل): xilqətcə boşalmış (süst).",
+ "az": "[غرل]\nĞayn, ra və lam tək bir kəlmədir; o da الغُرْلة (əl-ğürlə) olub, القُلْفة (əl-qülfə — sünnət olunmamış dəri) deməkdir.\nالأغرل (əl-əğrəl): الأقلَف (əl-əqləf — sünnət olunmamış). Deyirlər ki, الغَرِل (əl-ğəril): quruluşca süst (boşalmış) olan kəsdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:12.190Z"
+ "ts": "2026-10-25T18:38:12.190Z",
+ "prev_az": "«غرل» (ğərələ): الغين، Rə və Lam hərflərindən ibarət tək bir kəlmədir, o da sünnət olunmamış dərini bildirən əl-ğürlədir (الغُرْلة). Və əl-ağral (الأغرل): sünnət olunmamış (sünbülü). Və deyirlər ki, əl-ğəril (الغَرِل): xilqətcə boşalmış (süst).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub, '[غرل]' əvəzinə '«غرل» (ğərələ):' yazılıb və 'الغين' hərfinin adı ərəbcə saxlanılıb.",
+  "'الأقلَف' sözünün tərcüməsində mənasız və yanlış '(sünbülü)' əlavəsi var, həmçinin 'القُلْفة' sözü ayrıca verilməyib.",
+  "Abzas bölgüsü ərəbcə mətnə uyğun deyil."
+ ],
+ "review_ts": "2026-11-24T03:08:04.893Z"
 }

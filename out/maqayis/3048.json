@@ -11,7 +11,16 @@
   "page_to": 468
  },
  "ar": "الفاء والألف والسين كلمة واحدة، وتستعار. الفأس معروفة، والعدد أفؤس، والجمع فؤوس. ويستعار فيقال لمُؤخر القَمَحْدُوَةِ: فأسٌ [وفأس] اللِّجام: الحديدة القائمة فى الحَنَك.",
- "az": "[فأس] \nالفاء والألف والسين كلمة واحدة، وتستعار. الفأس معروفة، والعدد أفؤس، والجمع فؤوس. ويستعار فيقال لمُؤخر القَمَحْدُوَةِ: فأسٌ [وفأس] اللِّجام: الحديدة القائمة فى الحَنَك.\n\nFə, əlif və sin hərfləri tək bir kəlmədir və məcazi mənada işlənir. «الفأس» (balta) məlumdur, sayı «أفؤس», cəmi isə «فؤوس»-dur. Məcazi olaraq başın arxa hissəsinə (qəmhuduvəyə) «فأس» deyilir; və yüyənin dəmir hissəsi ağızda dayanan dəmirə — «فأس اللِّجام» deyilir.",
+ "az": "[فأس]\nFə, əlif və sin hərfləri tək bir kəlmədir və məcazi mənada işlənir. «الفأس» (balta) məlumdur, sayı «أفؤس», cəmi isə «فؤوس»-dur. Məcazi olaraq ənsənin arxasına (qəmhuduvəyə) «فأس» deyilir; «فأس اللِّجام» isə yüyənin dəmində (ağızlığında) qaim olan dəmirdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:34.476Z"
+ "ts": "2026-10-26T00:25:34.476Z",
+ "prev_az": "[فأس] \nالفاء والألف والسين كلمة واحدة، وتستعار. الفأس معروفة، والعدد أفؤس، والجمع فؤوس. ويستعار فيقال لمُؤخر القَمَحْدُوَةِ: فأسٌ [وفأس] اللِّجام: الحديدة القائمة فى الحَنَك.\n\nFə, əlif və sin hərfləri tək bir kəlmədir və məcazi mənada işlənir. «الفأس» (balta) məlumdur, sayı «أفؤس», cəmi isə «فؤوس»-dur. Məcazi olaraq başın arxa hissəsinə (qəmhuduvəyə) «فأس» deyilir; və yüyənin dəmir hissəsi ağızda dayanan dəmirə — «فأس اللِّجام» deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlinə ərəbcə mətni təkrar kopyalanıb."
+ ],
+ "review_ts": "2026-11-24T03:36:21.174Z"
 }

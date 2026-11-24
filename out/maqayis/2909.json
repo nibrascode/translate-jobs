@@ -11,7 +11,17 @@
   "page_to": 411
  },
  "ar": "الغين والباء والنون كلمةٌ تدُلُّ على ضَعفٍ واهتضام. يقال غبِنَ الرّجُل فى بَيعه، فهو يُغْبَنُ غَبْناً، وذلك إذا اهتُضم فيه. وغَبنَ فى رأيه، وذلك إذا ضَعُف رأيُه. والقياسُ فى الكلمتين واحد. والغَبِينة من الغَبْن كالشَّتيمة من الشَّتم. والمَغَابِن: الأرفاغ، سمِّيَتْ بذلك للينها وضَعْفها عن قوّةِ غيرها.",
- "az": "[غبن] الغين والباء والنون كلمةٌ تدُلُّ على ضَعفٍ واهتضام (ğeyn, ba və nun hərfləri zəifliyə və məzlumluğa dəlalət edən kəlmədir). يقال غبِنَ الرّجُل فى بَيعه، فهو يُغْبَنُ غَبْناً، وذلك إذا اهتُضم فيه (Deyilir ki, kişi alış-verişdə aldandı, o, ğəbn olunur, bu da haqqının tapdalanması zamanı olur).",
+ "az": "[غبن]\nالغين والباء والنون كلمةٌ تدُلُّ على ضَعفٍ واهتضام (ğayn, ba və nun hərfləri zəifliyə və haqqı tapdalanmağa dəlalət edən kəlmədir). يقال غبِنَ الرّجُل فى بَيعه، فهو يُغْبَنُ غَبْناً، وذلك إذا اهتُضم فيه (Deyilir ki, kişi alış-verişdə aldandı, o, ğəbn olunur, bu da orada haqqının tapdalanması zamanı olur). وغَبنَ فى رأيه، وذلك إذا ضَعُف رأيُه (Rəyində ğəbn etdi, bu da rəyi zəiflədikdə deyilir). والقياسُ فى الكلمتين واحد (Hər iki kəlmədə qiyas eynidir). والغَبِينة من الغَبْن كالشَّتيمة من الشَّتم (əl-Ğəbinə sözü əl-ğəbndən, əş-şətimə sözünün əş-şətmdən törədiyi kimidir). والمَغَابِن: الأرفاغ، سمِّيَتْ بذلك للينها وضَعْفها عن قوّةِ غيرها (əl-Məğabin: qasıqlar (bədənin büküş yerləri) deməkdir; yumşaqlığına və başqa yerlərin qüvvəsinə nisbətən zəifliyinə görə belə adlandırılmışdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:47.719Z"
+ "ts": "2026-10-25T18:37:47.719Z",
+ "prev_az": "[غبن] الغين والباء والنون كلمةٌ تدُلُّ على ضَعفٍ واهتضام (ğeyn, ba və nun hərfləri zəifliyə və məzlumluğa dəlalət edən kəlmədir). يقال غبِنَ الرّجُل فى بَيعه، فهو يُغْبَنُ غَبْناً، وذلك إذا اهتُضم فيه (Deyilir ki, kişi alış-verişdə aldandı, o, ğəbn olunur, bu da haqqının tapdalanması zamanı olur).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin ikinci yarısı tamamilə buraxılmışdır.",
+  "Abzas və sətir bölgüsü AR mətninə uyğun deyil."
+ ],
+ "review_ts": "2026-11-24T03:01:32.683Z"
 }

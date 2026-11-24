@@ -11,7 +11,16 @@
   "page_to": 467
  },
  "ar": "الفاء والألف والراء، ويسمون الألف فيه همزة. الفأر معروف، يقال منه: مكانٌ فَئِرٌ، أى كثير الفأر. وفأرة المِسْك معروفة، وهى على معنى التشبيه. وكذلك فأرة البعير، وهى ريحٌ تجتمع فى رُسْغ البعير، وإذا مشى انْفَشَّتْ.",
- "az": "[فأر] \nالفاء والألف والراء، ويسمون الألف فيه همزة. الفأر معروف، يقال منه: مكانٌ فَئِرٌ، أى كثير الفأر. وفأرة المِسْك معروفة، وهى على معنى التشبيه. وكذلك فأرة البعير، وهى ريحٌ تجتمع فى رُسْغ البعير، وإذا مشى انْفَشَّتْ.\n\nFə, əlif və ra hərfləri — əlif orada həmzə adlandırılır. «الفأر» (siçan) məlumdur, ondan deyilir: «مكانٌ فَئِرٌ» — yəni siçanı çox olan yer. «فأرة المِسْك» (müşk kisəsi) məlumdur, o da oxşatma mənasındadır. Həmçinin «فأرة البعير» — dəvənin biləyində toplanan yeldir ki, yeridikdə sönür (dağılır).",
+ "az": "[فأر]\nFə, əlif və ra hərfləri — əlif orada həmzə adlandırılır. «الفأر» (siçan) məlumdur, ondan deyilir: «مكانٌ فَئِرٌ» (siçanı çox olan yer). «فأرة المِسْك» (müşk kisəsi) məlumdur, o da oxşatma mənasındadır. Həmçinin «فأرة البعير» — dəvənin biləyində toplanan yeldir ki, yeridikdə yatır (sönür).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:34.476Z"
+ "ts": "2026-10-26T00:25:34.476Z",
+ "prev_az": "[فأر] \nالفاء والألف والراء، ويسمون الألف فيه همزة. الفأر معروف، يقال منه: مكانٌ فَئِرٌ، أى كثير الفأر. وفأرة المِسْك معروفة، وهى على معنى التشبيه. وكذلك فأرة البعير، وهى ريحٌ تجتمع فى رُسْغ البعير، وإذا مشى انْفَشَّتْ.\n\nFə, əlif və ra hərfləri — əlif orada həmzə adlandırılır. «الفأر» (siçan) məlumdur, ondan deyilir: «مكانٌ فَئِرٌ» — yəni siçanı çox olan yer. «فأرة المِسْك» (müşk kisəsi) məlumdur, o da oxşatma mənasındadır. Həmçinin «فأرة البعير» — dəvənin biləyində toplanan yeldir ki, yeridikdə sönür (dağılır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlinə ərəbcə mətni təkrar kopyalanıb."
+ ],
+ "review_ts": "2026-11-24T03:36:21.174Z"
 }

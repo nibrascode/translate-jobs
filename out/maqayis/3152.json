@@ -11,7 +11,16 @@
   "page_to": 512
  },
  "ar": "الفاء والعين والحرف المعتلّ كلمة واحدة، وهى الأفعَى:\nحيَّة [وحَكى ناسٌ: تفعَّى الرّجل، إذا ساءَ (١)] خُلقُه، مشتقٌّ من الأفعى.\nواللّه أعلم.",
- "az": "[فعى] (F-Ə-Y) Fə, ayn və əlil hərf (y) tək bir kəlmədir, o da «الأفعَى» (əl-əfə): ilandır. [Bəzi insanlar deyib ki: «تفعَّى الرّجُل» (adamın xasiyyəti pisləşdi), bu, əfə (ilan) sözündən törəmişdir (١)]. Allah daha yaxşı bilir.",
+ "az": "[فعى] (F-Ə-Y) Fə, ayn və əlil hərf tək bir kəlmədir, o da «الأفعَى»:\nilandır. [Bəzi insanlar nəql etmişdir: «تفعَّى الرّجل، إذا ساءَ» (١)] xasiyyəti pisləşdikdə deyilir, «الأفعى» sözündən törəmişdir.\nAllah daha yaxşı bilir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:29:48.226Z"
+ "ts": "2026-10-26T00:29:48.226Z",
+ "prev_az": "[فعى] (F-Ə-Y) Fə, ayn və əlil hərf (y) tək bir kəlmədir, o da «الأفعَى» (əl-əfə): ilandır. [Bəzi insanlar deyib ki: «تفعَّى الرّجُل» (adamın xasiyyəti pisləşdi), bu, əfə (ilan) sözündən törəmişdir (١)]. Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatdan «إذا ساءَ» sözləri buraxılmışdır."
+ ],
+ "review_ts": "2026-11-24T03:42:50.781Z"
 }

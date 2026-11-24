@@ -11,7 +11,17 @@
   "page_to": 405
  },
  "ar": "الغين والياء والظاء أُصَيلٌ فيه كلمةٌ واحدة، يدلُّ على كَرْب يلحقُ الإنسانَ مِنْ غيره يقال: غاظنى يَغِيظَنى. وقد غِظْتَنى يا هذا. ورجلٌ غائظ وغَيَّاظ. قال:\nسُمِّيتَ غيَّاظاً ولستَ بغائظٍ … عَدُوًّا ولكنَّ الصَّديقَ تَغيظُ (٢)",
- "az": "[غيظ] (ğə-ya-za) - الغين (ğeyn), الياء (yə) və الظاء (za) içində bir kəsin başqasından aldığı sıxıntıya dəlalət edən tək bir kəlməni ehtiva edən kiçik bir əsasdır. Belə deyilir: ğaza-ni yəğiğu-ni (غاتنى يَغِيظَنى). Və ey filankəs, məni ğəzəbləndirdin (ğiztəni). Və kişi ğaiyif və ğəyyazdır (غائظ وغَيَّاظ). Şair demişdir:\nسُمِّيتَ غيَّاظاً ولستَ بغائظٍ … عَدُوًّا ولكنَّ الصَّديقَ تَغيظُ (٢)\n(Sən ğəyyaz adlandırıldın, lakin sən düşməni ğəzəbləndirən deyilsən... Lakin sən dostu ğəzəbləndirirsən)",
+ "az": "[غيظ]\nالغين (ğayn), الياء (ya) və الظاء (za) içində tək bir kəlmə olan kiçik bir əsasdır; insanın başqasından gördüyü sıxıntıya (kədərlə qarışıq qəzəbə) dəlalət edir. Belə deyilir: غاظنى يَغِيظَنى (məni qəzəbləndirdi, sıxıntı verdi). وقد غِظْتَنى يا هذا (ey filankəs, məni qəzəbləndirdin). ورجلٌ غائظ وغَيَّاظ (qəzəbləndirən və çox qəzəbləndirən kişi). Şair demişdir:\nسُمِّيتَ غيَّاظاً ولستَ بغائظٍ … عَدُوًّا ولكنَّ الصَّديقَ تَغيظُ (٢) (Sən Ğəyyaz adlandırıldın, lakin sən düşməni qəzəbləndirən deyilsən, əksinə dostu qəzəbləndirirsən).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:31.267Z"
+ "ts": "2026-10-25T18:37:31.267Z",
+ "prev_az": "[غيظ] (ğə-ya-za) - الغين (ğeyn), الياء (yə) və الظاء (za) içində bir kəsin başqasından aldığı sıxıntıya dəlalət edən tək bir kəlməni ehtiva edən kiçik bir əsasdır. Belə deyilir: ğaza-ni yəğiğu-ni (غاتنى يَغِيظَنى). Və ey filankəs, məni ğəzəbləndirdin (ğiztəni). Və kişi ğaiyif və ğəyyazdır (غائظ وغَيَّاظ). Şair demişdir:\nسُمِّيتَ غيَّاظاً ولستَ بغائظٍ … عَدُوًّا ولكنَّ الصَّديقَ تَغيظُ (٢)\n(Sən ğəyyaz adlandırıldın, lakin sən düşməni ğəzəbləndirən deyilsən... Lakin sən dostu ğəzəbləndirirsən)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «غاظنى» sözü tərcümədə «غاتنى» kimi təhrif olunmuşdur.",
+  "«غائظ» sözü səhv olaraq «ğaiyif» kimi oxunmuşdur."
+ ],
+ "review_ts": "2026-11-24T03:08:44.367Z"
 }

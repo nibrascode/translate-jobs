@@ -11,7 +11,17 @@
   "page_to": 476
  },
  "ar": "الفاء والجيم والعين كلمةٌ واحدة، وهى الفَجِيعة، وهى الرَّزيَّة.\nونزلتْ بفلان فاجعةٌ، وتفجَّعَ، إذا توجَّع لها.",
- "az": "«فجع» (fə-c-ə): Fə, cim və eyn hərfləri tək bir kəlmədir, o da «الفَجِيعة» (fəciə) yəni müsibətdir. Filankəsə faciə gəldi, və o, bundan ötəri kədərlənərək «تَفَجَّعَ» (təfəccəə) - dərd çəkdi.",
+ "az": "[فجع] fə, cim və ayn hərfləri tək bir kəlmədir, o da «الفَجِيعة» (fəciə) — müsibətdir. Deyilir: «نزلتْ بفلان فاجعةٌ» (filankəsə bir faciə üz verdi) və buna görə dərd çəkdikdə «تفجَّعَ» (təfəccəə) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:26:21.848Z"
+ "ts": "2026-10-26T00:26:21.848Z",
+ "prev_az": "«فجع» (fə-c-ə): Fə, cim və eyn hərfləri tək bir kəlmədir, o da «الفَجِيعة» (fəciə) yəni müsibətdir. Filankəsə faciə gəldi, və o, bundan ötəri kədərlənərək «تَفَجَّعَ» (təfəccəə) - dərd çəkdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök formatı qaydaya uyğun deyil.",
+  "Ərəbcə cümlənin mətni buraxılmışdır."
+ ],
+ "review_ts": "2026-11-24T03:37:54.091Z"
 }

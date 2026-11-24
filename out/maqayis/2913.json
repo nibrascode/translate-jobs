@@ -11,7 +11,17 @@
   "page_to": 412
  },
  "ar": "الغين والثاء والراء أصيلٌ يدلُّ على تجمُّع من ناسٍ غير كرام. يقولون: الغَثْرَاء: سَفِلَة النّاس، وجماعتُهمْ غَيْثَرة؛ وأصله من الأغثَر، وهو الطُّحْلُبَ المجتمع. والأغْثَر من الأكسية: ما كثُر صُوفُه.",
- "az": "[غثر] الغين والثاء والراء أصيلٌ يدلُّ على تجمُّع من ناسٍ غير كرام (ğeyn, sə və ra hərfləri nəcib olmayan insan topluluğuna dəlalət edən kiçik səhih kökdür). يقولون (Deyirlər): الغَثْرَاء: سَفِلَة النّاس (əl-ğəusra: insanların alçaqlarıdır).",
+ "az": "[غثر]\nالغين والثاء والراء أصيلٌ يدلُّ على تجمُّع من ناسٍ غير كرام (ğayn, sa və ra hərfləri nəcib olmayan insan toplusuna dəlalət edən kiçik kökdür). يقولون: الغَثْرَاء: سَفِلَة النّاس، وجماعتُهمْ غَيْثَرة؛ وأصله من الأغثَر، وهو الطُّحْلُبَ المجتمع (Deyirlər: الغَثْرَاء (əl-ğəsra): insanların alçaqlarıdır, onların toplusu isə غَيْثَرة (ğeysərə) adlanır; bunun əsli الأغثَر (əl-əğsər) sözündəndir, o da toplanmış su yosunudur). والأغْثَر من الأكسية: ما كثُر صُوفُه (Libaslardan الأغْثَر (əl-əğsər): yunu çox olanıdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:37:47.719Z"
+ "ts": "2026-10-25T18:37:47.719Z",
+ "prev_az": "[غثر] الغين والثاء والراء أصيلٌ يدلُّ على تجمُّع من ناسٍ غير كرام (ğeyn, sə və ra hərfləri nəcib olmayan insan topluluğuna dəlalət edən kiçik səhih kökdür). يقولون (Deyirlər): الغَثْرَاء: سَفِلَة النّاس (əl-ğəusra: insanların alçaqlarıdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin ikinci yarısı (غَيْثَرة, الأغثَر və onun mənaları) buraxılmışdır.",
+  "«أصيلٌ» sözünə mənbədə olmayan «səhih» sözü əlavə edilib və «الغَثْرَاء» sözü səhvən «əl-ğəusra» kimi transliterasiya olunub."
+ ],
+ "review_ts": "2026-11-24T03:01:32.684Z"
 }

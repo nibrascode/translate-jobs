@@ -11,7 +11,17 @@
   "page_to": 477
  },
  "ar": "الفاء والجيم والنون. يقولون: إنَّ السَّذَاب يقال له الفَيْجَن (٤).",
- "az": "«فجن» (fə-c-n): Fə, cim və nun hərfləri. Deyirlər ki, sədəb otuna «الفَيْجَن» (feycən) deyilir (٤).",
+ "az": "[فجن] fə, cim və nun hərfləri. Deyirlər ki, «السَّذَاب» (sədəb otu) bitkisinə «الفَيْجَن» (feycən) də deyilir (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:26:21.848Z"
+ "ts": "2026-10-26T00:26:21.848Z",
+ "prev_az": "«فجن» (fə-c-n): Fə, cim və nun hərfləri. Deyirlər ki, sədəb otuna «الفَيْجَن» (feycən) deyilir (٤).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök formatı qaydaya uyğun deyil.",
+  "Ərəbcə sözün (السَّذَاب) ərəb qrafikası ilə yazılışı buraxılmışdır."
+ ],
+ "review_ts": "2026-11-24T03:37:54.092Z"
 }

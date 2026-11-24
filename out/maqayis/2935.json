@@ -11,7 +11,19 @@
   "page_to": 422
  },
  "ar": "الغين والزاء واللام ثلاثُ كلماتٍ متباينات، لا تُقاس منها واحدةٌ بأخرى.\nفالأولى: الغَزْل، يقال غَزَلت المرأة غَزْلَها، والخشبة مِغْزَل، والجمع مَغازِل.\nوالثانية: الغَزَل، وهو حديث الفِتْيان والفَتَيات. ويقال: غَزِلَ الكَلْب غَزَلاً، وهو أن يَطلُبَ الغزالَ حتّى إذا أدرَكَه تركه ولَهَا عنه.\nوالثالثة: الغزال، وهو معروف، والأنثى غَزَالة. ولعلَّ اسمَ الشَّمسِ مستعارٌ من هذا، فإنَّ الشَّمسَ تسمَّى الغزالَة ارتفاعَ الضُّحى.",
- "az": "[غزل] الغين والزاء واللام ثلاثُ كلماتٍ متباينات، لا تُقاس منها واحدةٌ بأخرى. فالأولى: الغَزْل، يقال غَزَلت المرأة غَزَلتها، والخشبة مِغْزَل، والجمع مَغازِل. والثانية: الغَزَل، وهو حديث الفِتْيان والفَتَيات. ويقال: غَزِىَ الكَلْب غَزَلاً، وهو أن يَطلُبَ الغزالَ حتّى إذا أدرَكَه تركه ولَهَا عنه. والثالثة: الغزال، وهو معروف، والأنثى غَزَالة. ولعلَّ اسمَ الشَّمسِ مستعارٌ من هذا، فإنَّ الشَّمسَ تسمَّى الغزالَة ارتفاعَ الضُّحى. \nGeyn, zay və lam bir-birindən fərqli üç kəlmədir, onların heç biri digəri ilə müqayisə/qiyas edilməz. Birincisi: الغَزْل (əl-ğazl), qadın ip əyirdikdə غَزَلت المرأة غَزْلَها (ğazalatil-mar'atu ğazlaha) denilir, ip əyirmək üçün taxta مِغْزَل (miğzəl – cəhrə/çərx), cəmi isə مَغازِل (mağazil) olur. İkincisi: الغَزَل (əl-ğazəl) – gənc oğlan və qızların sevgi söhbətləridir. Deyilir: غَزِىَ الكَلْب غَزَلاً (ğaziyəl-kalbu ğazalan) – it ceyran axtardı, lakin ona çatan kimi onu buraxdı və başqa şeylə məşğul oldu. Üçüncüsü: الغزال (əl-ğazal) – məlumdur, dişi ceyran isə غَزَالة (ğazalət) adlanır. Ola bilsin ki, günəşin adı bundan götürülmüşdür, çünki günəş quşluk vaxtı yüksəldikdə əl-ğazalə adlandırılır.",
+ "az": "[غزل]\nĞayn, zey və lam bir-birindən fərqli üç kəlmədir, onların heç biri digəri ilə qiyas edilməz.\nBirincisi: الغَزْل (əl-ğəzl), qadın ip əyirdikdə غَزَلت المرأة غَزْلَها (qadın öz ipini əyirdi) deyilir, ip əyirmək üçün taxta مِغْزَل (miğzəl – iy/cəhrə), cəmi isə مَغازِل (məğazil) olur.\nİkincisi: الغَزَل (əl-ğəzəl) – gənc oğlan və qızların sevgi söhbətləridir. Deyilir: غَزِلَ الكَلْب غَزَلاً (it ceyranın arxasınca düşdü) – yəni it ceyranı təqib etdi, lakin ona çatan kimi onu buraxdı və başqa şeylə məşğul oldu.\nÜçüncüsü: الغزال (əl-ğəzal – ceyran) – məlumdur, dişisi isə غَزَالة (ğəzalə) adlanır. Ola bilsin ki, günəşin adı bundan götürülmüşdür, çünki günəş səhər (duha vaxtı) yüksəldikdə əl-ğəzalə adlandırılır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:40.244Z"
+ "ts": "2026-10-25T18:38:40.244Z",
+ "prev_az": "[غزل] الغين والزاء واللام ثلاثُ كلماتٍ متباينات، لا تُقاس منها واحدةٌ بأخرى. فالأولى: الغَزْل، يقال غَزَلت المرأة غَزَلتها، والخشبة مِغْزَل، والجمع مَغازِل. والثانية: الغَزَل، وهو حديث الفِتْيان والفَتَيات. ويقال: غَزِىَ الكَلْب غَزَلاً، وهو أن يَطلُبَ الغزالَ حتّى إذا أدرَكَه تركه ولَهَا عنه. والثالثة: الغزال، وهو معروف، والأنثى غَزَالة. ولعلَّ اسمَ الشَّمسِ مستعارٌ من هذا، فإنَّ الشَّمسَ تسمَّى الغزالَة ارتفاعَ الضُّحى. \nGeyn, zay və lam bir-birindən fərqli üç kəlmədir, onların heç biri digəri ilə müqayisə/qiyas edilməz. Birincisi: الغَزْل (əl-ğazl), qadın ip əyirdikdə غَزَلت المرأة غَزْلَها (ğazalatil-mar'atu ğazlaha) denilir, ip əyirmək üçün taxta مِغْزَل (miğzəl – cəhrə/çərx), cəmi isə مَغازِل (mağazil) olur. İkincisi: الغَزَل (əl-ğazəl) – gənc oğlan və qızların sevgi söhbətləridir. Deyilir: غَزِىَ الكَلْب غَزَلاً (ğaziyəl-kalbu ğazalan) – it ceyran axtardı, lakin ona çatan kimi onu buraxdı və başqa şeylə məşğul oldu. Üçüncüsü: الغزال (əl-ğazal) – məlumdur, dişi ceyran isə غَزَالة (ğazalət) adlanır. Ola bilsin ki, günəşin adı bundan götürülmüşdür, çünki günəş quşluk vaxtı yüksəldikdə əl-ğazalə adlandırılır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlində ərəbcə mətn təkrarlanıb.",
+  "Hərf adları «Geyn, zay» kimi yazılıb, düzgünü «Ğayn, zey» olmalıdır.",
+  "«غَزِلَ الكَلْب غَزَلاً» ifadəsi səhvən «غَزِىَ» kimi yazılıb.",
+  "«quşluk», «denilir» kimi qeyri-normativ və Türkiyə türkcəsinə aid sözlər işlənib."
+ ],
+ "review_ts": "2026-11-24T03:08:47.140Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 502
  },
  "ar": "الفاء والسين والطاء كلمتانِ متباينتان. فالفَسِيط: ثُفْرُوق التَّمرة، ويقال قُلامة الظُّفر. والفُسطاط: الجماعة. و\nفى الحديث: «إنَّ يدَ اللّه تعالى عَلَى الفُسطاط». وبذلك سمِّى الفُسطاط فُسطاطاً.",
- "az": "[فسط] الفاء والسين والطاء كلمتانِ متباينتان (Fə, sin və ta hərfləri bir-birindən fərqli iki sözdür). فالفَسِيط: ثُفْرُوق التَّمرة (Fəsit — xurmanın qıfı / çanaqcığı), ويقال قُلامة الظُّفر (və dırnaq qırıntısı da deyilir). والفُسطاط: الجماعة (Vüstat — camaat, dəstə). وفي الحديث: «إنَّ يدَ اللّه تعالى عَلَى الفُسطاط» (Hədisdə gəlmişdir: «Həqiqətən, Allah Təalanın əli camaatın üzərindədir»). وبذلك سمِّى الفُسطاط فُسطاطاً (Məhz buna görə Füstat şəhəri Füstat adlandırılmışdır).",
+ "az": "[فسط] الفاء والسين والطاء (fa, sin və ta) bir-birindən fərqli iki sözdür. الفَسِيط: xurmanın saplağı (çanaqcığı), həmçinin dırnaq qırıntısına da deyilir. والفُسطاط: camaat, dəstə deməkdir. Hədisdə gəlmişdir: «إنَّ يدَ اللّه تعالى عَلَى الفُسطاط» («Həqiqətən, Allah Təalanın əli camaatın üzərindədir»). Məhz buna görə Fustat (şəhəri/çadırı) Fustat adlandırılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.151Z"
+ "ts": "2026-10-26T00:28:00.151Z",
+ "prev_az": "[فسط] الفاء والسين والطاء كلمتانِ متباينتان (Fə, sin və ta hərfləri bir-birindən fərqli iki sözdür). فالفَسِيط: ثُفْرُوق التَّمرة (Fəsit — xurmanın qıfı / çanaqcığı), ويقال قُلامة الظُّفر (və dırnaq qırıntısı da deyilir). والفُسطاط: الجماعة (Vüstat — camaat, dəstə). وفي الحديث: «إنَّ يدَ اللّه تعالى عَلَى الفُسطاط» (Hədisdə gəlmişdir: «Həqiqətən, Allah Təalanın əli camaatın üzərindədir»). وبذلك سمِّى الفُسطاط فُسطاطاً (Məhz buna görə Füstat şəhəri Füstat adlandırılmışdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Fustat» sözü mötərizədə «Vüstat» kimi səhv yazılıb."
+ ],
+ "review_ts": "2026-11-24T03:41:44.041Z"
 }

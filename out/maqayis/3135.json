@@ -11,7 +11,16 @@
   "page_to": 506
  },
  "ar": "الفاء والصاد والياء أصلٌ صحيح يدلُّ على تنحِّى الشَّئ عن الشَّيء. يقال تفَصَّى اللَّحمُ عن العَظْم، وتفَصَّى الإنسانُ من البِليَّة: تَخَلَّص.\nوالاسم الفَصْية. و\nفى حديث: قَيْلة: «الفَصْية واللّه، لا يزالُ كعبُكِ عاليا».\nوأفْصَى: رجلٌ (٣).",
- "az": "[فصى] الفاء والصاد والياء أصلٌ صحيح يدلُّ على تنحِّى الشَّئ عن الشَّيء (Fə, sad və ya bir şeyin digər şeydən uzaqlaşmasına dəlalət edən səhih kökdür). يقال (Deyilir): تفَصَّى اللَّحمُ عن العَظْم (ət sümükdən ayrıldı), وتفَصَّى الإنسانُ من البِليَّة (və insan bəladan qurtuldu): تَخَلَّص (xilas oldu). والاسم الفَصْية (Və ad olaraq əl-fəsiyədir). وفي حديث (Və hədisdə): قَيْلة (Qəylənin hədisində): «الفَصْية واللّه، لا يزالُ كعبُكِ عاليا» («And olsun Allaha ki, fəsiyədir, sənin qəddin həmişə uca olacaqdır»). وأفْصَى (Və əfsa): رجلٌ (٣) (bir kişidir).",
+ "az": "[فصى] الفاء والصاد والياء أصلٌ صحيح يدلُّ على تنحِّى الشَّئ عن الشَّيء (Fə, sad və ya bir şeyin digər şeydən uzaqlaşmasına dəlalət edən səhih kökdür). يقال (Deyilir): تفَصَّى اللَّحمُ عن العَظْم (ət sümükdən ayrıldı), وتفَصَّى الإنسانُ من البِليَّة (və insan bəladan qurtuldu): تَخَلَّص (xilas oldu). والاسم الفَصْية (İsim-məsdər isə əl-fəsyədir — qurtuluş, fərəhdir). وفي حديث: قَيْلة: «الفَصْية واللّه، لا يزالُ كعبُكِ عاليا» (Qəylənin hədisində deyilir: «And olsun Allaha ki, bu qurtuluşdur (fərəhdir), sənin şərəfin həmişə uca olacaqdır»). وأفْصَى: رجلٌ (٣) (Əfsa isə bir kişinin adıdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.152Z"
+ "ts": "2026-10-26T00:28:00.152Z",
+ "prev_az": "[فصى] الفاء والصاد والياء أصلٌ صحيح يدلُّ على تنحِّى الشَّئ عن الشَّيء (Fə, sad və ya bir şeyin digər şeydən uzaqlaşmasına dəlalət edən səhih kökdür). يقال (Deyilir): تفَصَّى اللَّحمُ عن العَظْم (ət sümükdən ayrıldı), وتفَصَّى الإنسانُ من البِليَّة (və insan bəladan qurtuldu): تَخَلَّص (xilas oldu). والاسم الفَصْية (Və ad olaraq əl-fəsiyədir). وفي حديث (Və hədisdə): قَيْلة (Qəylənin hədisində): «الفَصْية واللّه، لا يزالُ كعبُكِ عاليا» («And olsun Allaha ki, fəsiyədir, sənin qəddin həmişə uca olacaqdır»). وأفْصَى (Və əfsa): رجلٌ (٣) (bir kişidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hədisdəki «الفَصْية» sözü tərcümə olunmayıb, yalnız transkripsiya edilib (fərəh, qurtuluş deməkdir)."
+ ],
+ "review_ts": "2026-11-24T03:42:46.093Z"
 }

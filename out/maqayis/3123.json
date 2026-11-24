@@ -11,7 +11,16 @@
   "page_to": 503
  },
  "ar": "الفاء والسين والحاء كلمةٌ واحدة تدلُّ على سَعَةٍ واتِّساع.\nمن ذلك الفَسيح: الواسع. وتَفَسَّحت فى المجلِس، وفَسَّحت المجلس.",
- "az": "[فسح] الفاء والسين والحاء كلمةٌ واحدة تدلُّ على سَعَةٍ واتِّساع (Fə, sin və ha tək bir söz olub genişliyə və fəraxlığa dəlalət edir). من ذلك الفَسيح (Ondandır əl-fəsix): الواسع (geniş). وتَفَسَّحت فى المجلِس (Məclisdə yer genişlətdim), وفَسَّحت المجلس (və məclisi genişləndirdim).",
+ "az": "[فسح] الفاء والسين والحاء (fa, sin və ha) genişliyə dəlalət edən tək bir sözdür. Ondandır: الفَسيح — geniş. وتَفَسَّحت فى المجلِس (məclisdə geniş yerləşdim), وفَسَّحت المجلس (məclisi genişləndirdim).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.151Z"
+ "ts": "2026-10-26T00:28:00.151Z",
+ "prev_az": "[فسح] الفاء والسين والحاء كلمةٌ واحدة تدلُّ على سَعَةٍ واتِّساع (Fə, sin və ha tək bir söz olub genişliyə və fəraxlığa dəlalət edir). من ذلك الفَسيح (Ondandır əl-fəsix): الواسع (geniş). وتَفَسَّحت فى المجلِس (Məclisdə yer genişlətdim), وفَسَّحت المجلس (və məclisi genişləndirdim).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mötərizədə ərəb sözü əvəzinə yanlış latın transkripsiyası («əl-fəsix») yazılıb."
+ ],
+ "review_ts": "2026-11-24T03:41:44.042Z"
 }

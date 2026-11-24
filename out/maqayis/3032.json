@@ -11,7 +11,17 @@
   "page_to": 462
  },
  "ar": "الفاء والواو واللام كلمةٌ إن صحَّتْ. يقولون: الفُول:\nالباقلَّى.",
- "az": "[فول] \nالفاء والواو واللام كلمةٌ إن صحَّتْ. يقولون: الفُول: الباقلَّى.\n\nFə, vaf və lam hərfləri, əgər səhihdirsə, bir kəlmədir. Deyirlər: «الفُول» (ful) — paxladır.",
+ "az": "[فول]\nFə, vav və lam hərfləri, əgər səhihdirsə, bir kəlmədir. Deyirlər: «الفُول» — paxladır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:34.476Z"
+ "ts": "2026-10-26T00:25:34.476Z",
+ "prev_az": "[فول] \nالفاء والواو واللام كلمةٌ إن صحَّتْ. يقولون: الفُول: الباقلَّى.\n\nFə, vaf və lam hərfləri, əgər səhihdirsə, bir kəlmədir. Deyirlər: «الفُول» (ful) — paxladır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin əvvəlinə ərəbcə mətn təkrarən daxil edilib.",
+  "«vaf» əvəzinə «vav» yazılmalıdır."
+ ],
+ "review_ts": "2026-11-24T03:32:53.998Z"
 }

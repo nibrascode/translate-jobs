@@ -11,7 +11,17 @@
   "page_to": 476
  },
  "ar": "الفاء والجيم واللام كلمةٌ هى نَبْت، وقال قوم: فَجِلَ الشئ (٤): غَلُظ واستَرْخَى. وكلُّ شئ عَرَّضته فقد فجَّلْتَه.",
- "az": "«فجل» (fə-c-l): Fə, cim və lam hərfləri bir bitki adından ibarət bir kəlmədir. Bir qrup alim demişdir: «فَجِلَ الشئ» (fəciləş-şey) - qalınlaşdı və boşaldı. Hər hansı bir şeyi genişləndirsən, onu «فَجَّلْتَه» (fəccəltə) etmiş olarsan.",
+ "az": "[فجل] fə, cim və lam hərfləri bir bitki adından ibarət kəlmədir. Bir qrup alim demişdir: «فَجِلَ الشئ» (şey qalınlaşdı və boşaldı) (٤). Enləndirdiyin hər bir şey haqqında «فجَّلْتَه» (onu enləndirdin) deyərsən.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:26:21.848Z"
+ "ts": "2026-10-26T00:26:21.848Z",
+ "prev_az": "«فجل» (fə-c-l): Fə, cim və lam hərfləri bir bitki adından ibarət bir kəlmədir. Bir qrup alim demişdir: «فَجِلَ الشئ» (fəciləş-şey) - qalınlaşdı və boşaldı. Hər hansı bir şeyi genişləndirsən, onu «فَجَّلْتَه» (fəccəltə) etmiş olarsan.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök formatı qaydaya uyğun deyil.",
+  "Mətndəki (٤) haşiyə nömrəsi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-24T03:37:54.091Z"
 }

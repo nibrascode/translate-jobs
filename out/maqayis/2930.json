@@ -13,5 +13,7 @@
  "ar": "الغين والراء والنون كلمةٌ واحدة، يقولون إنَّ الغَرِين (٣):\nما يَبقى فى الحوض من مائه * وطينِه.",
  "az": "«غرن» (ğərənə): الغين، Rə və Nun hərflərindən ibarət tək bir kəlmədir, deyirlər ki, əl-ğərin (الغَرِين): hovuzda suyundan və lilindən qalan şeydir (*).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:38:12.190Z"
+ "ts": "2026-10-25T18:38:12.190Z",
+ "review_attempts": 1,
+ "review_last_error": "qısa (120 < 151)"
 }

@@ -11,7 +11,16 @@
   "page_to": 507
  },
  "ar": "الفاء والصاد والعين يدلُّ على خروجِ شئ عن شئ. يقال:\nفَصَع الرُّطَبة، إذا قَشَرَها. ويقولون: الفُصْعة: غُلْفة الصبىّ إذا اتَّسعت حتَّى تبدوَ حَشَفتُه.",
- "az": "[فصع] الفاء والصاد والعين يدلُّ على خروجِ شئ عن شئ (Fə, sad və eyn bir şeyin digər şeydən çıxmasına dəlalət edir). يقال (Deyilir): فَصَع الرُّطَبة (yaş xurmanı soydu): إذا قَشَرَها (qabığını soyduğu zaman). ويقولون (Və deyirlər): الفُصْعة (əl-füsə): غُلْفة الصبىّ إذا اتَّسعت حتَّى تبدوَ حَشَفتُه (uşağın sünrəti genişlənib baş hissəsi görünənə qədər olan halıdır).",
+ "az": "[فصع] الفاء والصاد والعين يدلُّ على خروجِ شئ عن شئ (Fə, sad və eyn bir şeyin digər şeydən çıxmasına dəlalət edir). يقال (Deyilir): فَصَع الرُّطَبة (yaş xurmanı soydu): إذا قَشَرَها (qabığını soyduğu zaman). ويقولون (Və deyirlər): الفُصْعة (əl-fus'a): غُلْفة الصبىّ إذا اتَّسعت حتَّى تبدوَ حَشَفتُه (oğlan uşağının sünnət dərisi genişlənib baş hissəsi görünənə qədər olan halıdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:28:00.152Z"
+ "ts": "2026-10-26T00:28:00.152Z",
+ "prev_az": "[فصع] الفاء والصاد والعين يدلُّ على خروجِ شئ عن شئ (Fə, sad və eyn bir şeyin digər şeydən çıxmasına dəlalət edir). يقال (Deyilir): فَصَع الرُّطَبة (yaş xurmanı soydu): إذا قَشَرَها (qabığını soyduğu zaman). ويقولون (Və deyirlər): الفُصْعة (əl-füsə): غُلْفة الصبىّ إذا اتَّسعت حتَّى تبدوَ حَشَفتُه (uşağın sünrəti genişlənib baş hissəsi görünənə qədər olan halıdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«غُلْفة» sözü «sünrəti» kimi səhv yazılmışdır (sünnət dərisi deməkdir)."
+ ],
+ "review_ts": "2026-11-24T03:42:46.094Z"
 }

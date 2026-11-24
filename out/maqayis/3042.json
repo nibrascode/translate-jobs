@@ -11,7 +11,16 @@
   "page_to": 466
  },
  "ar": "الفاء والياء والظاء كلمةٌ. يقال: فاظَ الميِّت فَيْظا، ولا يقال فاظَتْ نفسه. قال:\nلا يَدفِنُون منهمُ مَنْ فاظَا (٥)",
- "az": "[فيظ] \nالفاء والياء والظاء كلمةٌ. يقال: فاظَ الميِّت فَيْظا، ولا يقال فاظَتْ نفسه. قال:\nلا يَدفِنُون منهمُ مَنْ فاظَا (٥)\n\nFə, ya və zə hərfləri bir kəlmədir. Deyilir: «فاظَ الميِّت فَيْظا» — ölən can verdi, və «فاظَتْ نفسُه» deyilməz. Şair demişdir:\nلا يَدفِنُون منهمُ مَنْ فاظَا (5)\n— Onlar özlərindən can verəni (öləni) dəfn etməzlər.",
+ "az": "[فيظ] \nFa, ya və za hərfləri bir kəlmədir. Deyilir: «فاظَ الميِّت فَيْظا» — ölən can verdi, və «فاظَتْ نفسُه» deyilməz. Şair demişdir:\nلا يَدفِنُون منهمُ مَنْ فاظَا (٥)\n— Onlar özlərindən can verəni (öləni) dəfn etməzlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:34.476Z"
+ "ts": "2026-10-26T00:25:34.476Z",
+ "prev_az": "[فيظ] \nالفاء والياء والظاء كلمةٌ. يقال: فاظَ الميِّت فَيْظا، ولا يقال فاظَتْ نفسه. قال:\nلا يَدفِنُون منهمُ مَنْ فاظَا (٥)\n\nFə, ya və zə hərfləri bir kəlmədir. Deyilir: «فاظَ الميِّت فَيْظا» — ölən can verdi, və «فاظَتْ نفسُه» deyilməz. Şair demişdir:\nلا يَدفِنُون منهمُ مَنْ فاظَا (5)\n— Onlar özlərindən can verəni (öləni) dəfn etməzlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi ərəb qrafikası ilə (٥) saxlanılmalıdır."
+ ],
+ "review_ts": "2026-11-24T03:36:56.814Z"
 }

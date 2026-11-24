@@ -13,5 +13,10 @@
  "ar": "الفاء والواو والدال كلمةٌ واحدة، ثمَّ تستعار. فالفَوْد:\nمُعظَم شعرِ اللِّمَّة ممَّا يلى الأذُنين ثم يقولون استعارةً لجناحَىِ العُقّاب:\nفَوْدان.\nوممَّا ليس منه قولُهم: فاد يفود، إذا مات، والأصل فى هذا الياء، وقد ذكر.",
  "az": "«فود» (fəwd): Fə, vau və dəl hərflərindən ibarət tək bir sözdür, sonra məcazi olaraq işlədilir. «الفَوْد» (fəwd) — qulaqlara yaxın olan saçın əsas hissəsidir. Sonra bunu məcazi olaraq qartalın qanadlarına da şamil edib «فَوْدان» (fəwdan) demişlər.\nBuradan olmayan digər söz isə onların «فاد يفود» (fad yəfud) – yəni ölü, ifadəsidir; bunun əsli ya hərfidir ki, artıq zikr olunmuşdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:25:06.106Z"
+ "ts": "2026-10-26T00:25:06.106Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-24T03:35:41.320Z"
 }

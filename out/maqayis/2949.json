@@ -11,7 +11,17 @@
   "page_to": 427
  },
  "ar": "الغين والضاد والنون أصلٌ صحيح يدلُّ على تثنٍّ وتكسُّر.\nمن ذلك الغُضُون: مَكاسر الجِلْد، ومَكاسِر كلِّ شئ غُضون. وتغضَّنَ جِلدُه.\nوالمغاضَنَة: مكاسَرة العينين. ومن الباب قولهم: ما غَضَنك عن كذا، أى ما عاقك عنه. وغَضَن العَينِ: جلدُها الظّاهر، سمِّى لتكسُّرٍ فيه.\nومما شذَّ عن هذا الباب قولهم: غَضَنت النّاقةُ بولدها، إذا ألقَتْه قبل أن يُنبِت.",
- "az": "[غضن] الغين والضاد والنون أصلٌ صحيح يدلُّ على تثنٍّ وتكسُّر. (Ğayn, zad və nun – səhih kök olub qıvrılmağa və qırışmağa dəlalət edir.) من ذلك الغُضُون: مَكاسر الجِلْد، ومَكاسِر كلِّ شئ غُضون. (O cümlədən «الغضون» (uğsun) – dərinin qırışları və hər şeyin qatlanan yerləri.) وتغضَّنَ جِلدُه. (Və onun dərisi qırışdı.) والمغاضَنَة: مكاسَرة العينين. (Və «المغاضنة» (muğazanə) – gözləri qıymaq / qırışdırmaq.) ومن الباب قولهم: ما غَضَنك عن كذا، أى ما عاقك عنه. (Həmçinin bu babdandır onların sözü: «ما غضنك عن كذا» – yəni səni bundan nə saxladı / əngəllədi.) وغَضَن العَينِ: جلدُها الظّاهر، سمِّى لتكسُّرٍ فيه. (Və «غضن العين» (ğazənul-eyn) – gözün zahiri dərisidir, onda qat yerləri olduğuna görə belə adlanmışdır.) ومما شذَّ عن هذا الباب قولهم: غَضَنت النّاقةُ بولدها، إذا ألقَتْه قبل أن يُنبِت. (Və bu babdan kənara çıxan (şaz) onların bu sözüdür: «غضنت الناقة بولدها» – dəvə balasını tükləri çıxmamışdan qabaq atdıqda.)",
+ "az": "[غضن]\\nĞayn, dad və nun qıvrılmağa və qırışmağa dəlalət edən səhih bir kökdür.\\nO cümlədən الغُضُون (əl-ğudun) – dərinin qırışlarıdır və hər şeyin qatlanan yerləri غُضون (ğudun) adlanır. وتغضَّنَ جِلدُه (və təğaddanə cilduhu) – onun dərisi qırışdı.\\nالمغاضَنَة (əl-muğadanə) – gözləri qıymaqdır. Bu babdandır onların sözü: ما غَضَنك عن كذا (mə ğadanəkə an kəza) – yəni səni bundan nə saxladı/əngəllədi. غَضَن العَينِ (ğadanul-ayn) – gözün zahiri dərisidir, onda qırışlar olduğuna görə belə adlanmışdır.\\nBu babdan kənara çıxan (şaz) ifadələrdən biri də onların bu sözüdür: غَضَنت النّاقةُ بولدها (ğadanətin-naqatu bivələdihə) – dəvə balasını tükləri çıxmamışdan qabaq saldıqda (atdıqda).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-25T18:39:05.435Z"
+ "ts": "2026-10-25T18:39:05.435Z",
+ "prev_az": "[غضن] الغين والضاد والنون أصلٌ صحيح يدلُّ على تثنٍّ وتكسُّر. (Ğayn, zad və nun – səhih kök olub qıvrılmağa və qırışmağa dəlalət edir.) من ذلك الغُضُون: مَكاسر الجِلْد، ومَكاسِر كلِّ شئ غُضون. (O cümlədən «الغضون» (uğsun) – dərinin qırışları və hər şeyin qatlanan yerləri.) وتغضَّنَ جِلدُه. (Və onun dərisi qırışdı.) والمغاضَنَة: مكاسَرة العينين. (Və «المغاضنة» (muğazanə) – gözləri qıymaq / qırışdırmaq.) ومن الباب قولهم: ما غَضَنك عن كذا، أى ما عاقك عنه. (Həmçinin bu babdandır onların sözü: «ما غضنك عن كذا» – yəni səni bundan nə saxladı / əngəllədi.) وغَضَن العَينِ: جلدُها الظّاهر، سمِّى لتكسُّرٍ فيه. (Və «غضن العين» (ğazənul-eyn) – gözün zahiri dərisidir, onda qat yerləri olduğuna görə belə adlanmışdır.) ومما شذَّ عن هذا الباب قولهم: غَضَنت النّاقةُ بولدها، إذا ألقَتْه قبل أن يُنبِت. (Və bu babdan kənara çıxan (şaz) onların bu sözüdür: «غضنت الناقة بولدها» – dəvə balasını tükləri çıxmamışdan qabaq atdıqda.)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin bütün ərəbcə mətni cümlə-cümlə təkrarlanmışdır.",
+  "'ض' hərfi 'zad' kimi səhv adlandırılmış, baş sözlərin hərəkələri silinmiş və oxunuşları səhv verilmişdir."
+ ],
+ "review_ts": "2026-11-24T03:09:31.679Z"
 }
