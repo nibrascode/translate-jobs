@@ -11,7 +11,16 @@
   "page_to": 41
  },
  "ar": "القاف والواو والطاء كلمةٌ واحدة. يقولون: القَوْط: اليسير من الغَنَم، والجمع أقْواط.",
- "az": "[قوط] «القاف» (قاف), «الواو» (واو) və «الطاء» (طا) — tək bir kəlmədir. Deyirlər: «القَوْط» (əl-qavt) — az sayda qoyun sürüsüdür, cəmi «أقْواط» (əqvat) gəlir.",
+ "az": "[قوط] «القاف» (qaf), «الواو» (vav) və «الطاء» (ta) — tək bir kəlmədir. Deyirlər: «القَوْط» (əl-qavt) — az sayda qoyun sürüsüdür, cəmi «أقْواط» (əqvat) gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:47.283Z"
+ "ts": "2026-10-26T00:32:47.283Z",
+ "prev_az": "[قوط] «القاف» (قاف), «الواو» (واو) və «الطاء» (طا) — tək bir kəlmədir. Deyirlər: «القَوْط» (əl-qavt) — az sayda qoyun sürüsüdür, cəmi «أقْواط» (əqvat) gəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəb əlifbası ilə verilib («قاف», «واو», «طا»)."
+ ],
+ "review_ts": "2026-11-25T00:56:12.176Z"
 }

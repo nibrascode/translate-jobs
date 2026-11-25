@@ -11,7 +11,16 @@
   "page_to": 58
  },
  "ar": "القاف والتاء والنون كلمة صحيحة. يقولون. القَتِين: المرأةُ القليلة الطُّعم، وقد قَتُنَتْ قَتانةً: قال الشّماخ:\nوقد عَرقَتْ مغاينُها فجادَتْ … بدِرَّتِها قِرَى جَحِنٍ قَتِينِ (٢)\nأراد به القُرَادَ القليلَ الدّم.",
- "az": "[قتن] «قاف», «تاء» və «نون» səhih bir kəlmədir. Deyirlər: «القَتِين» — az yeyən qadın, və o, qətanə səviyyəsinə çatmışdır: Əş-Şəmməx demişdir: وقد عَرقَتْ مغاينُها فجادَتْ … بدِرَّتِها قِرَى جَحِنٍ قَتِينِ (Və onun qabları tərlədi, sonra az qanı olan gənənin qonaqlığına öz südü ilə səxavət göstərdi) (iki). Bununla az qanı olan gənəni qəsd etmişdir.",
+ "az": "[قتن] Qaf, ta və nun — səhih bir kəlmədir. Deyirlər: [القَتِين] (əl-qatin) — az yeyən qadın; [قَتُنَتْ قَتانةً] (qatunat qatanatan) — az yeyən oldu. Əş-Şəmməx demişdir:\nوقد عَرقَتْ مغاينُها فجادَتْ … بدِرَّتِها قِرَى جَحِنٍ قَتِينِ (٢)\n(Onun bədəninin büküşləri tərlədi və az qanı olan zəif gənəyə öz südü ilə bolluq bəxş etdi).\nBununla az qanı olan gənəni qəsd etmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.340Z"
+ "ts": "2026-10-26T00:33:48.340Z",
+ "prev_az": "[قتن] «قاف», «تاء» və «نون» səhih bir kəlmədir. Deyirlər: «القَتِين» — az yeyən qadın, və o, qətanə səviyyəsinə çatmışdır: Əş-Şəmməx demişdir: وقد عَرقَتْ مغاينُها فجادَتْ … بدِرَّتِها قِرَى جَحِنٍ قَتِينِ (Və onun qabları tərlədi, sonra az qanı olan gənənin qonaqlığına öz südü ilə səxavət göstərdi) (iki). Bununla az qanı olan gənəni qəsd etmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (٢) rəqəm kimi saxlanılmayıb, «(iki)» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-25T01:23:09.105Z"
 }

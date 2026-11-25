@@ -11,9 +11,18 @@
   "page_to": 481
  },
  "ar": "الفاء والخاء واللام ليس فيه شئٌ. غير أنَّ ابنَ دريد (١) زعم أنَّه يقال: تفخّل الرجل، إذا أظهَرَ الوقار والحِلْمَ. وتفخَّل أيضاً، إذا تهيَّأ ولَبِسَ أحسنَ ثيابِه.",
- "az": "«فخل» (fə-x-l): Fə, xə və lam hərflərində heç bir şey yoxdur. Lakin İbn Dürid (١) iddia etmişdir ki, «تفخّل الرجل» (təfəxxələr-rəcul) - kişi təmkin və həlimlik izhar etdi deməkdir. Həmçinin «تفخَّل» (təfəxxələ) - hazırlaşdı və ən gözəl paltarlarını geyindi mənasında da işlənir.",
+ "az": "[فخل]\nFa, xa və lam hərflərində heç bir şey yoxdur. Lakin İbn Düreyd (١) iddia etmişdir ki, تفخّل الرجل (kişi təmkin və həlimlik nümayiş etdirdi) deyilir. Həmçinin تفخَّل (hazırlaşdı və ən gözəl paltarlarını geyindi) mənasında da işlənir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:26:21.849Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«فخل» (fə-x-l): Fə, xə və lam hərflərində heç bir şey yoxdur. Lakin İbn Dürid (١) iddia etmişdir ki, «تفخّل الرجل» (təfəxxələr-rəcul) - kişi təmkin və həlimlik izhar etdi deməkdir. Həmçinin «تفخَّل» (təfəxxələ) - hazırlaşdı və ən gözəl paltarlarını geyindi mənasında da işlənir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[فخل]» formatında verilməyib.",
+  "«خ» hərfinin adı səhv («xə») yazılıb və «İbn Düreyd» adı «İbn Dürid» kimi verilib."
+ ],
+ "review_ts": "2026-11-25T00:43:17.576Z"
 }

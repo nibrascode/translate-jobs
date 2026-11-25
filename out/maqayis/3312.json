@@ -11,7 +11,16 @@
   "page_to": 88
  },
  "ar": "القاف والسين والباء يدلُّ على مِثْل ما دلَّ عليه الذي قبله.\nيقولون: [القَسْب]: التَّمر اليابس. قال:\nوأسمَرَ خَطِّيّاً كأنَّ كعوبَه … نَوَى القَسبِ عَرَّاصاً مُزَجًّا منصّلا (٣)\nوالقَسب: الصُّلب من كلِّ شيء. والقَسِيب: الطَّويل الشَّديد. ومن * الباب القَسِيب، وهو صوتُ الماءِ في جَرَيانه، ولا يكون صوتٌ إلاّ كان بقوة.\nقال عَبِيد:\n* للماء مِنْ تحتِهِ قَسيبُ (١) *",
- "az": "[قسب] القاف والسين والباء يدلُّ على مِثْل ما دلَّ عليه الذي قبله (özündən əvvəlkinin dəlalət etdiyi şeyə bənzər şeyə dəlalət edir). يقولون (deyirlər): [القَسْب] (əl-qəsb): التَّمر اليابس (quru xurma). قال (şair demişdir):\nوأسمَرَ خَطِّيّاً كأنَّ كعوبَه … نَوَى القَسبِ عَرَّاصاً مُزَجًّا منصّلا (٣)\n(Qurğuşunu qırmızı, xətti nizə ki, sanki onun buğumları quru xurma çəyirdəkləridir, titrək, ucluqlu və nizə ucludur)\nوالقَسب (və əl-qəsb): الصُّلب من كلِّ şey (hər şeydən sərt olan). والقَسِيب (və əl-qəsib): الطَّويل الشَّديد (uzun və güclü). ومن * الباب القَسِيب (və bu fəsildəndir əl-qəsib), وهو صوتُ الماءِ في جَرَيانه (və o, suyun axarkən çıxardığı səsdir), ولا يكون صوتٌ إلاّ كان بقوة (və elə bir səs olmaz ki, o güclü olmasın). قال عَبِيد (Əbid demişdir):\n* للماء مِنْ تحتِهِ قَسيبُ (١) *\n(Suyun altından bir qəsibi vardır)",
+ "az": "[قسب] القاف والسين والباء يدلُّ على مِثْل ما دلَّ عليه الذي قبله (özündən əvvəlkinin dəlalət etdiyi şeyə bənzər şeyə dəlalət edir).\nيقولون (deyirlər): [القَسْب] (əl-qəsb): التَّمر اليابس (quru xurma). قال (şair demişdir):\nوأسمَرَ خَطِّيّاً كأنَّ كعوبَه … نَوَى القَسبِ عَرَّاصاً مُزَجًّا منصّلا (٣)\n(Qonur rəngli Xətt nizəsi ki, sanki onun buğumları quru xurma çəyirdəkləridir, titrək, ucluqlu və nizə ucludur)\nوالقَسب (və əl-qəsb): الصُّلب من كلِّ شيء (hər şeydən sərt olanı). والقَسِيب (və əl-qəsib): الطَّويل الشَّديد (uzun və güclü). ومن الباب القَسِيب (və bu fəsildəndir əl-qəsib), وهو صوتُ الماءِ في جَرَيانه (və o, suyun axarkən çıxardığı səsdir), ولا يكون صوتٌ إلاّ كان بقوة (və elə bir səs olmaz ki, o güclü olmasın).\nقال عَبِيد (Əbid demişdir):\n* للماء مِنْ تحتِهِ قَسيبُ (١) *\n(Suyun altından bir qəsibi/şırıltısı vardır)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:36:03.440Z"
+ "ts": "2026-10-26T00:36:03.440Z",
+ "prev_az": "[قسب] القاف والسين والباء يدلُّ على مِثْل ما دلَّ عليه الذي قبله (özündən əvvəlkinin dəlalət etdiyi şeyə bənzər şeyə dəlalət edir). يقولون (deyirlər): [القَسْب] (əl-qəsb): التَّمر اليابس (quru xurma). قال (şair demişdir):\nوأسمَرَ خَطِّيّاً كأنَّ كعوبَه … نَوَى القَسبِ عَرَّاصاً مُزَجًّا منصّلا (٣)\n(Qurğuşunu qırmızı, xətti nizə ki, sanki onun buğumları quru xurma çəyirdəkləridir, titrək, ucluqlu və nizə ucludur)\nوالقَسب (və əl-qəsb): الصُّلب من كلِّ şey (hər şeydən sərt olan). والقَسِيب (və əl-qəsib): الطَّويل الشَّديد (uzun və güclü). ومن * الباب القَسِيب (və bu fəsildəndir əl-qəsib), وهو صوتُ الماءِ في جَرَيانه (və o, suyun axarkən çıxardığı səsdir), ولا يكون صوتٌ إلاّ كان بقوة (və elə bir səs olmaz ki, o güclü olmasın). قال عَبِيد (Əbid demişdir):\n* للماء مِنْ تحتِهِ قَسيبُ (١) *\n(Suyun altından bir qəsibi vardır)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytindəki «أسمر» sözü yanlış olaraq «qurğuşunu qırmızı» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-25T01:37:04.380Z"
 }

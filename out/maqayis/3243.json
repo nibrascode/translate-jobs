@@ -11,7 +11,16 @@
   "page_to": 46
  },
  "ar": "القاف والألف والهاء كلمةٌ. يقولون: القَاه: الطاعةُ والجاه ويُنْشِدون:\n* لَمَا رأَيْنَا لأميرٍ قَاهَا (٢) *",
- "az": "[قاه] (qah). Qaf, əlif və ha tək bir kəlmədir. Onlar deyirlər: القَاه (əl-qah) — itaət və hörmət (və ya şöhrət/cah). Onlar şeir söyləyirlər:\n* لَمَا رأَيْنَا لأميرٍ قَاهَا (٢) *\n(Biz nə zaman bir əmir üçün onun qahını gördük).",
+ "az": "[قاه] (qah). Qaf, əlif və hə tək bir kəlmədir. Deyirlər ki: القَاه: itaət və nüfuz (cah-cəlal). Şeir oxuyurlar:\n* لَمَا رأَيْنَا لأميرٍ قَاهَا (٢) *\n(Əgər biz bir əmir üçün itaət/nüfuz görməsək...).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:10.325Z"
+ "ts": "2026-10-26T00:33:10.325Z",
+ "prev_az": "[قاه] (qah). Qaf, əlif və ha tək bir kəlmədir. Onlar deyirlər: القَاه (əl-qah) — itaət və hörmət (və ya şöhrət/cah). Onlar şeir söyləyirlər:\n* لَمَا رأَيْنَا لأميرٍ قَاهَا (٢) *\n(Biz nə zaman bir əmir üçün onun qahını gördük).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin tərcüməsində məna dəqiq verilməyib."
+ ],
+ "review_ts": "2026-11-25T01:18:38.876Z"
 }

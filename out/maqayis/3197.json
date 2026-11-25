@@ -11,7 +11,17 @@
   "page_to": 27
  },
  "ar": "القاف والميم والشين. يقولون: القَمْش: جَمْعُ الشئ من ها هنا [وهُنَا (١)].",
- "az": "[قمش] \nالقاف والميم والشين (قاف, mim və şın). Deyirlər: القَمْش — şeyi buradan [və buradakı (١)] hər yerdən toplayıb yığmaqdır.",
+ "az": "[قمش]\nالقاف والميم والشين (qaf, mim və şin). Deyirlər: القَمْش — şeyi buradan [və oradan (١)] toplamaqdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:31:44.429Z"
+ "ts": "2026-10-26T00:31:44.429Z",
+ "prev_az": "[قمش] \nالقاف والميم والشين (قاف, mim və şın). Deyirlər: القَمْش — şeyi buradan [və buradakı (١)] hər yerdən toplayıb yığmaqdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ش» hərfinin adı «şın» kimi səhv yazılmışdır.",
+  "«[وهُنَا (١)]» hissəsi «[və buradakı (١)]» kimi səhv tərcümə edilmiş və mətnə «hər yerdən» sözü əlavə olunmuşdur."
+ ],
+ "review_ts": "2026-11-25T00:49:59.896Z"
 }

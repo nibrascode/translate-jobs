@@ -11,9 +11,20 @@
   "page_to": 7
  },
  "ar": "القاف والذال قريبٌ من الذى قبلَه، يدلُّ على قطعٍ وتسويةٍ طولاً وغيرَ طُول. من ذلك القُذَذ: ريش السَّهم، الواحدة قُذَّة. قالوا: والقَذُّ:\nقطعها. يقال: أُذُنٌ (١) مقذوذة، كأنّها بُرِيَتْ بَرْياً. قال:\n* مَقْذُوذةُ الآذانِ صَدْقاتُ الحَدَقْ (٢) *\nوزعم بعضُهم أن القُذَاذات: قِطَعُ الذَّهب، والجُذَاذات: قِطَع الفِضّة.\nوأمَّا السَّهم الأقَذُّ فهو الذى لا قُذَذَ عليه. والمَقَذُّ: ما بين الأُذُنين من خَلْف.\nوسمِّىَ لأنَّ شعره يُقَذّ قَذَّا.\nومما شذَّ عن الباب قولُهم: إنّ القِذَّانَ: البَرَاغيث.",
- "az": "«قذ»: القاف والذال قريبٌ من الذى قبلَه (əvvəlkindəki kimidir)، يدلُّ على قطعٍ وتسويةٍ طولاً وغيرَ طُول (uzununa və ya eninə kəsməyə və düzəltməyə dəlalət edir). من ذلك القُذَذ (qüzəz): ريش السَّهم، الواحدة قُذَّة (oxun lələkləri, təkli qüzdədir). قالوا: والقَذُّ (kəsmək): قطعها (onları kəsmək). يقال: أُذُنٌ مقذوذة (١) (kəsilmiş qulaq)، كأنّها بُرِيَتْ بَرْياً (elə bil yonulmuşdur). قال (şair dedi): * مَقْذُوذةُ الآذانِ صَدْقاتُ الحَدَقْ (٢) * (Qulaqları kəsilmiş, baxışları sadiq olanlar). وزعم بعضُهم أن القُذَاذات (qüzazat): قِطَعُ الذَّهب (qızıl parçaları)، والجُذَاذات (cüzazat): قِطَع الفِضّة (gümüş parçaları). وأمَّا السَّهم الأقَذُّ (əqəzz ox) فهو الذى لا قُذَذَ عليه (üzərində lələkləri olmayan oxdur). والمَقَذُّ (məqəzz): ما بين الأُذُنين من خَلْف (arseqdə iki qulağın arası). وسمِّىَ لأنَّ شعره يُقَذّ قَذَّا (Ona görə belə adlanmışdır ki, onun saçları kəsilir). ومما شذَّ عن الباب قولُهم: إنّ القِذَّانَ (qizzan): البَرَاغيث (bürüncələr).",
+ "az": "[قذ]\nQaf və zal özündən əvvəlkinə yaxındır, uzununa və ya uzununa olmayaraq kəsməyə və düzəltməyə dəlalət edir. Bunlardan biri القُذَذ (quzəz): oxun lələkləridir, təki قُذَّة (quzzə)dir. Demişlər: القَذُّ (qəzz): onları kəsməkdir. Deyilir: أُذُنٌ (١) مقذوذة (kəsilmiş qulaq), sanki yonularaq düzəldilmişdir. (Şair) demişdir:\n* مَقْذُوذةُ الآذانِ صَدْقاتُ الحَدَقْ (٢) * (Qulaqları kəsilmiş, baxışları sərrast olanlar).\nBəziləri iddia etmişlər ki, القُذَاذات (quzazat): qızıl parçaları, والجُذَاذات (cuzazat) isə: gümüş parçalarıdır.\nالسَّهم الأقَذُّ (əqəzz ox) isə üzərində lələkləri olmayan oxdur. والمَقَذُّ (məqəzz): arxadan (ənsədən) iki qulağın arasıdır.\nBelə adlandırılmışdır ki, onun tükü kəsilib düzəldilir.\nBu babdan şazz olan onların bu sözüdür: القِذَّانَ (qizzan): birələrdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:30:45.912Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«قذ»: القاف والذال قريبٌ من الذى قبلَه (əvvəlkindəki kimidir)، يدلُّ على قطعٍ وتسويةٍ طولاً وغيرَ طُول (uzununa və ya eninə kəsməyə və düzəltməyə dəlalət edir). من ذلك القُذَذ (qüzəz): ريش السَّهم، الواحدة قُذَّة (oxun lələkləri, təkli qüzdədir). قالوا: والقَذُّ (kəsmək): قطعها (onları kəsmək). يقال: أُذُنٌ مقذوذة (١) (kəsilmiş qulaq)، كأنّها بُرِيَتْ بَرْياً (elə bil yonulmuşdur). قال (şair dedi): * مَقْذُوذةُ الآذانِ صَدْقاتُ الحَدَقْ (٢) * (Qulaqları kəsilmiş, baxışları sadiq olanlar). وزعم بعضُهم أن القُذَاذات (qüzazat): قِطَعُ الذَّهب (qızıl parçaları)، والجُذَاذات (cüzazat): قِطَع الفِضّة (gümüş parçaları). وأمَّا السَّهم الأقَذُّ (əqəzz ox) فهو الذى لا قُذَذَ عليه (üzərində lələkləri olmayan oxdur). والمَقَذُّ (məqəzz): ما بين الأُذُنين من خَلْف (arseqdə iki qulağın arası). وسمِّىَ لأنَّ شعره يُقَذّ قَذَّا (Ona görə belə adlanmışdır ki, onun saçları kəsilir). ومما شذَّ عن الباب قولُهم: إنّ القِذَّانَ (qizzan): البَرَاغيث (bürüncələr).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin böyük hissəsi ərəbcə saxlanılmış və bir sıra bağlayıcı ifadələr («من ذلك», «قالوا», «يقال», «وزعم بعضُهم أن» və s.) tərcüməsiz qalmışdır.",
+  "«البَرَاغيث» (birələr) sözü «bürüncələr» kimi səhv tərcümə edilmişdir.",
+  "«من خَلْف» (arxadan/ənsədən) ifadəsi «arseqdə» kimi pozulmuş sözlə verilmişdir.",
+  "«أُذُنٌ (١) مقذوذة» ifadəsində «(١)» haşiyə nömrəsinin yeri dəyişdirilmişdir."
+ ],
+ "review_ts": "2026-11-25T00:45:27.697Z"
 }

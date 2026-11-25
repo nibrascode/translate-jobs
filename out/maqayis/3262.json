@@ -13,5 +13,10 @@
  "ar": "القاف والثاء والدال ليس بشيءِ، غير أنّه يقال: القَثَد:\nنبتٌ.",
  "az": "[قثد] «قاف», «ثاء» və «دال» heç bir şey deyildir, sadəcə olaraq «القَثَد» — bir bitkidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.340Z"
+ "ts": "2026-10-26T00:33:48.340Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-25T01:31:35.170Z"
 }

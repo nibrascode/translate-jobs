@@ -11,7 +11,17 @@
   "page_to": 93
  },
  "ar": "القاف والصاد واللام أصلٌ صحيحٌ واحدٌ يدلُّ على قطعِ الشيء. فالقَصْل: القَطْع. يقال قَصَله، إذا قطَعَه. والقَصِيل معروف، وسمِّي بذلك لسُرعة اقتِصَاله (٢)، لأنّه رَخْص. وسيف مِقْصَلٌ: قطّاع، وكذلك القَصَّال.\nولسانٌ مِقْصَل على التشبيه. والقِصْل: الرَّجْل الضّعيف، لأنَّه منقطِع.\nفأمَّا القُصَالة فما يُعْزَل من البُرِّ ليُداسَ ثانيةً، فإن كان صحيحاً فقياسُه قريب.",
- "az": "«قصل»: القاف, Sad və Lam bir şeyi kəsməyə dəlalət edən vahid səhih bir kökdür. «القَصْل» — kəsməkdir. Deyilir: «قَصَله» (onu kəsdi). «القَصِيل» məlumdur, o, tez kəsilməsinə («اقتصاله»-sinə) görə belə adlandırılmışdır, çünki o, təzədir. «سيف مِقْصَلٌ» — kəsici qılınc, həmçinin «القَصَّال» da belədir.\n\nBənzətmə yolu ilə «لسانٌ مِقْصَل» — kəsici dil. «القِصْل» — zəif kişi, çünki o, kəsilib ayrılmışdır.\n\n«القُصَالة»-yə gəldikdə isə, bu, buğdanın ikinci dəfə döyülməsi üçün ondan ayrılan qabıqdır, əgər o, sağlamdırsa, onun qanunauyğunluğu yaxındır.",
+ "az": "[قصل] qaf, sad və lam bir şeyi kəsməyə dəlalət edən vahid səhih bir kökdür. El-qəsl (القَصْل) — kəsməkdir. Deyilir: «قَصَله» (onu kəsdi). El-qəsil (القَصِيل) məlumdur, o, təzə və yumşaq olduğu üçün tez kəsilməsinə (اقتصاله) (٢) görə belə adlandırılmışdır. «سيف مِقْصَلٌ» — kəsici qılınc, həmçinin «القَصَّال» da belədir. Bənzətmə yolu ilə «لسانٌ مِقْصَل» — kəskin dil. El-qısl (القِصْل) — zəif kişi, çünki o kəsilib ayrılmışdır. El-qusaləyə (القُصَالة) gəldikdə isə, bu, buğdadan ikinci dəfə döyülmək üçün ayrılan sünbül/dənlərdir; əgər bu söz səhihdirsə, onun ölçüsü də əsas mənaya yaxındır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:36:22.598Z"
+ "ts": "2026-10-26T00:36:22.598Z",
+ "prev_az": "«قصل»: القاف, Sad və Lam bir şeyi kəsməyə dəlalət edən vahid səhih bir kökdür. «القَصْل» — kəsməkdir. Deyilir: «قَصَله» (onu kəsdi). «القَصِيل» məlumdur, o, tez kəsilməsinə («اقتصاله»-sinə) görə belə adlandırılmışdır, çünki o, təzədir. «سيف مِقْصَلٌ» — kəsici qılınc, həmçinin «القَصَّال» da belədir.\n\nBənzətmə yolu ilə «لسانٌ مِقْصَل» — kəsici dil. «القِصْل» — zəif kişi, çünki o, kəsilib ayrılmışdır.\n\n«القُصَالة»-yə gəldikdə isə, bu, buğdanın ikinci dəfə döyülməsi üçün ondan ayrılan qabıqdır, əgər o, sağlamdırsa, onun qanunauyğunluğu yaxındır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlanğıc formatı «[قصل]» kimi olmalıdır.",
+  "«القُصَالة» sözünün izahında buğdanın ikinci dəfə döyülməsi üçün ayrılan başı/sünbül hissəsi yerinə «qabıq» yazılıb."
+ ],
+ "review_ts": "2026-11-25T01:39:19.451Z"
 }

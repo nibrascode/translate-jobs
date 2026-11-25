@@ -13,5 +13,12 @@
  "ar": "القاف والسين والراء يدلُّ على قَهرٍ وغَلَبة بشدة. من ذلك القَسْر: الغَلَبة والقَهْر. يقال: قَسَرْتُه قسراً، واقتسرتُه اقتِسَاراً. وبعيرٌ قَيْسَرِيٌّ:\nصُلْب. والقَسْوَرة: الأسد، لقُوّته وغلَبته.",
  "az": "[قسر] القاف والسين والراء يدلُّ على قَهرٍ وغَلَبة بشدة (şiddətlə məğlub etməyə və qələbə çalmağa dəlalət edir). من ذلك القَسْر (ondan əl-qəsr): الغَلَبة والقَهْر (qələbə və məğlub etmək). يقال (deyilir): قَسَرْتُه قسراً («qəsərtuhu qəsrən»), واقتسرتُه اقتِسَاراً («və iqtəsərtuhu iqtisarən»). وبعيرٌ قَيْسَرِيٌّ (və qeysəri dəvə): صُلْب (sərt). والقَسْوَرة (və əl-qəsvərə): الأسد (şir), لقُوّته وغلَبته (gücünə və üstünlüyünə görə).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:36:03.440Z"
+ "ts": "2026-10-26T00:36:03.440Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə «qəsəرتuhu» transliterasiyasında ərəb hərfləri latın mətni ilə qarışmışdır."
+ ],
+ "review_ts": "2026-11-25T01:37:04.380Z"
 }

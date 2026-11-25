@@ -11,7 +11,18 @@
   "page_to": 91
  },
  "ar": "القاف والشين والميم أُصَيلٌ إن صحّ فهو من الأكل وما ضاهاه من المأكول. قالوا: القَشْم: الأكل. والقُشَام: ما يُؤكَل. وقال ابن دريد:\n«قُشَام المائدة: ما نُفِض منها من باقي خُبزٍ وغيرِه (٥)». ويقال: ما أصابت الإبِلُ مَقْشَما، أي لم تُصِب ما ترعاه.\nومما شذَّ من هذا الباب إنْ صحَّ قولُهم: قَشَمت الخُوصَ، إذا شقَقتَه، لتَسفَّهُ. وكلُّ ما شُقَّ منه فهو قُشَام.",
- "az": "«قشم»: القاف, Şin və Mim kiçik bir kökdür, əgər səhihdirsə, o, yemək və yeyilən şeylərdən ona bənzər şeylər haqqındadır. Dedilər ki, «القَشْم» — yeməkdir. «القُشَام» — yeyilən şeydir. İbn Dureyd demişdir:\n«Stolüstü «قُشَام»: çörək və digər şeylərdən oradan tökülən qırıntılardır (٥)». Deyilir: «ما أصابت الإبِلُ مَقْشَما» (Dəvələr otlaq tapmadı), yəni otlayacaqları bir şey əldə etmədilər.\n\nBu fəsildən qaydadan kənara çıxan (şəzz) – əgər doğru olarsa – onların şu sözüdür: «قَشَمْت الخُوصَ» (Xovs çubuqlarını yardın), yəni onu hörmək üçün yardın. Undan yarılan hər bir şey «قُشَام» adlanır.",
+ "az": "[قشم] qaf, şin və mim, əgər səhihdirsə, yemək və yeyilən şeylərdən ona bənzər şeylərə dəlalət edən kiçik bir kökdür. Dedilər ki, el-qəşm (القَشْم) — yeməkdir. El-quşam (القُشَام) — yeyilən şeydir. İbn Dureyd demişdir: «قُشَام المائدة: ما نُفِض منها من باقي خُبزٍ وغيرِه (٥)» (Süfrə quşamı — oradan tökülən çörək və başqa şeylərin qırıntılarıdır). Deyilir: «ما أصابت الإبِلُ مَقْشَما» (Dəvələr otlayacaq bir şey tapmadı). Bu fəsildən şaz (kənaraçıxma) olan – əgər doğru olarsa – onların «قَشَمت الخُوصَ» (xurma yarpağını həsir hörmək üçün yardın) sözüdür. Ondan yarılan hər bir şeyə el-quşam (قُشَام) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:36:22.598Z"
+ "ts": "2026-10-26T00:36:22.598Z",
+ "prev_az": "«قشم»: القاف, Şin və Mim kiçik bir kökdür, əgər səhihdirsə, o, yemək və yeyilən şeylərdən ona bənzər şeylər haqqındadır. Dedilər ki, «القَشْم» — yeməkdir. «القُشَام» — yeyilən şeydir. İbn Dureyd demişdir:\n«Stolüstü «قُشَام»: çörək və digər şeylərdən oradan tökülən qırıntılardır (٥)». Deyilir: «ما أصابت الإبِلُ مَقْشَما» (Dəvələr otlaq tapmadı), yəni otlayacaqları bir şey əldə etmədilər.\n\nBu fəsildən qaydadan kənara çıxan (şəzz) – əgər doğru olarsa – onların şu sözüdür: «قَشَمْت الخُوصَ» (Xovs çubuqlarını yardın), yəni onu hörmək üçün yardın. Undan yarılan hər bir şey «قُشَام» adlanır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlanğıc formatı «[قشم]» kimi olmalıdır.",
+  "Tərcümədə «Ondan» sözü səhvən «Undan» yazılıb.",
+  "Mətndə ərəb hərf adlarının yazılışı üsluba uyğunlaşdırılmalıdır."
+ ],
+ "review_ts": "2026-11-25T01:39:19.450Z"
 }

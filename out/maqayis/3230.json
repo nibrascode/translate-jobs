@@ -11,7 +11,18 @@
   "page_to": 42
  },
  "ar": "القاف والواو والعين أصلٌ يدلُّ على تبسُّط فى مكانٍ. من ذلك القاع: الأرض المَلْساء. والألِفُ فى الأصل واو، يقال فى التصغير قُوَيْعٌ.\nقال ابن دريد (١): القَوْع: المِسْطح الذى يُبسَط فيه التَّمر، والجمع أَقْوَاع. فأمّا القَوْع، وهو ضِرابُ الفحلِ الناقةَ، فليس من هذا الباب، لأنَّه من المقلوب.\nوأصله قَعْو؛ وقد ذُكِر.\nوممّا شَذّ عن هذا الباب قولُهم: إنّ القُوَاعَ: الذَّكر من الأرانب.",
- "az": "[قوع] «القاف» (قاف), «الواو» (واو) və «العين» (eyn) — bir yerdə genişlənməyə və düzlüyə dəlalət edən bir əsasdır. Ondandır: «القاع» (əl-qa'- hamar yer, düzənlik). Əlif hərfinin əsli «واو» (vav)dur, kiçiltmə formasında (təsğir) «قُوَيْعٌ» (quvəy-un) deyilir.\nİbn Dürid demişdir (1): «القَوْع» (əl-qavc) — xurmaların sərildiyi hamar yerdir, cəmi «أَقْوَاع» (əqvac) gəlir. Erkək dəvənin dişi dəvəni cütləşdirməsi mənasındakı «القَوْع» (əl-qavc) gəldikdə isə, bu, bu fəsildən deyil, çünki o, tərsinə çevrilmiş (məqlub) sözlərdəndir.\nOnun əsli «قعو» (qəv) köküdür; artıq qeyd olunmuşdur.\nBu fəsildən istisna olan sözlərdən biri də onların «إنّ القُوَاعَ: الذَّكر من الأرانب» (həqiqətən, əl-quvac — dovşanların erkəyidir) demələridir.",
+ "az": "[قوع] «القاف» (qaf), «الواو» (vav) və «العين» (ayn) — bir yerdə genişlənməyə dəlalət edən bir əsasdır. Ondandır: «القاع» (əl-qa: hamar yer). Əlif hərfinin əsli «واو» (vav)dur, kiçiltmə formasında (təsğir) «قُوَيْعٌ» (quvey) deyilir.\nİbn Düreyd demişdir (١): «القَوْع» (əl-qav) — xurmaların sərildiyi hamar yerdir, cəmi «أَقْوَاع» (əqva) gəlir. Erkək dəvənin dişi dəvəni aşması mənasındakı «القَوْع» (əl-qav) sözünə gəldikdə isə, o, bu fəsildən deyil, çünki tərsinə çevrilmiş (məqlub) sözlərdəndir.\nOnun əsli «قعو» (qəv) köküdür; artıq qeyd olunmuşdur.\nBu fəsildən istisna olan sözlərdən biri də onların «إنّ القُوَاعَ: الذَّكر من الأرانب» (həqiqətən, əl-quva — dovşanların erkəyidir) demələridir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:47.283Z"
+ "ts": "2026-10-26T00:32:47.283Z",
+ "prev_az": "[قوع] «القاف» (قاف), «الواو» (واو) və «العين» (eyn) — bir yerdə genişlənməyə və düzlüyə dəlalət edən bir əsasdır. Ondandır: «القاع» (əl-qa'- hamar yer, düzənlik). Əlif hərfinin əsli «واو» (vav)dur, kiçiltmə formasında (təsğir) «قُوَيْعٌ» (quvəy-un) deyilir.\nİbn Dürid demişdir (1): «القَوْع» (əl-qavc) — xurmaların sərildiyi hamar yerdir, cəmi «أَقْوَاع» (əqvac) gəlir. Erkək dəvənin dişi dəvəni cütləşdirməsi mənasındakı «القَوْع» (əl-qavc) gəldikdə isə, bu, bu fəsildən deyil, çünki o, tərsinə çevrilmiş (məqlub) sözlərdəndir.\nOnun əsli «قعو» (qəv) köküdür; artıq qeyd olunmuşdur.\nBu fəsildən istisna olan sözlərdən biri də onların «إنّ القُوَاعَ: الذَّكر من الأرانب» (həqiqətən, əl-quvac — dovşanların erkəyidir) demələridir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəb əlifbası ilə verilib («قاف», «واو»).",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə saxlanmayıb ((1) yazılıb).",
+  "«İbn Dürid» adı yanlış yazılıb («İbn Düreyd» olmalıdır), «ع» hərfi olan sözlərdə yanlış transkripsiya edilib («əl-qavc», «əqvac», «əl-quvac»)."
+ ],
+ "review_ts": "2026-11-25T00:56:12.176Z"
 }

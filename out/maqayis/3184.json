@@ -11,7 +11,17 @@
   "page_to": 21
  },
  "ar": "القاف واللام والسين كلمتان: أحدهما رَمْىُ السَّحابة النَّدَى من غير مطر، ومنه قَلَس الإنسانُ، إذا قاءَ، فهو قالس. وأمّا التَّقليس فيقال:\nهو الضَّرب ببعض الملاهى (٥). وهى الكلمة الأخرى (٦).\nوقال أبو بكرٍ ابنُ دريد: القَلْس من الحِبال (١)، ما أدرى ما صحّتُه.",
- "az": "[قلس] (qلس) (qaf, lam və sin) iki kəlmədir: biri buludun yağmursuz şeh atmasıdır, o cümlədəndir ki, insan qələs etdi, yəni qusdu, o da قالس (qalis) olar. Təqlisə gəlincə, deyilir: o, bəzi oyun alətləri ilə çalmaqdır (٥). Bu da digər kəlmədir (٦). Əbu Bəkr ibn Dürid demişdir: İplərdən olan القَلْسُ (əl-qəls) — bunun nə dərəcədə səhih olduğunu bilmirəm (١).",
+ "az": "[قلس] (qaf, lam və sin) — iki kəlmədir: biri buludun yağışsız şeh atmasıdır; bu cümlədəndir: قَلَس الإنسانُ (insan qələs etdi), yəni qusdu, o da قالس (qalis — qusan) olar. التَّقليس (ət-təqlis) sözünə gəlincə, deyilir:\no, bəzi əyləncə (musiqi) alətləri ilə çalmaqdır (٥). Bu da digər kəlmədir (٦).\nƏbu Bəkr ibn Düreyd demişdir: İplərdən olan القَلْس (əl-qəls — qalın kəndir) (١) — bunun nə dərəcədə səhih olduğunu bilmirəm.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:31:25.025Z"
+ "ts": "2026-10-26T00:31:25.025Z",
+ "prev_az": "[قلس] (qلس) (qaf, lam və sin) iki kəlmədir: biri buludun yağmursuz şeh atmasıdır, o cümlədəndir ki, insan qələs etdi, yəni qusdu, o da قالس (qalis) olar. Təqlisə gəlincə, deyilir: o, bəzi oyun alətləri ilə çalmaqdır (٥). Bu da digər kəlmədir (٦). Əbu Bəkr ibn Dürid demişdir: İplərdən olan القَلْسُ (əl-qəls) — bunun nə dərəcədə səhih olduğunu bilmirəm (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin əvvəlində «(qلس)» şəklində qarışıq və pozulmuş ifadə vardır.",
+  "«قَلَس الإنسانُ» və «التَّقليس» ərəbcə ifadələri buraxılmış, «قَلَس الإنسانُ» hissəsi «qələs etdi» kimi tərcüməsiz saxlanmışdır."
+ ],
+ "review_ts": "2026-11-25T00:49:24.437Z"
 }

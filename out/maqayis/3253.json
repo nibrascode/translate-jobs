@@ -13,5 +13,10 @@
  "ar": "القاف والباء والواو كلمةٌ صحيحة، تدلُّ على ضمٍّ وجَمع. يقال قَبَوْت الشَّيءَ: جمعتُه وضَممتُه. وأهلُ المدينة يسمُّون الرّفعَ في الحركات قَبْواً.\nوهذا حَرفٌ مقْبُوّ. ويقال: إنَّ القَبَاء مشتقٌّ منه، لأنّ الإنسانَ يجمعُه على نفْسه.",
  "az": "[قبو] (qəb-v): Qaf, ba və vav – toplamağa və yığmağa dəlalət edən səhih bir kəlmədir. Deyilir: [قَبَوْت الشَّيءَ] (qəbəvtüş-şəyyə) – onu topladım və yığdım. Mədinə əhli hərəkətlərdəki uzatmanı (və ya ucaltmanı) [قَبْواً] (qəb-vən) adlandırırlar. Bu [حَرفٌ مقْبُوّ] (hərfun maqbuvv) hərfdir. Deyilir ki, [القَبَاء] (əl-qəbəu) (əba) bundan törəmişdir, çünki insan onu öz üzərinə yığır (toplayır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:30.096Z"
+ "ts": "2026-10-26T00:33:30.096Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-25T01:09:51.421Z"
 }

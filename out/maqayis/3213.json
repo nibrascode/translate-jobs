@@ -11,7 +11,16 @@
   "page_to": 34
  },
  "ar": "القاف والنون والميم كلمةٌ واحدة. يقولونَ: قَنِمَ الشئُ قَنَماً، إذا نَدِىَ ثم رَكِبَه غُبارٌ فتوسَّخَ. ويكونُ ذلك فى شُعور الخَيْلِ والإبل.",
- "az": "[قنم] Qaf, nun və mim tək bir kəlmədir. Deyirlər: «قَنِعَ الشئُ قَنَماً» — şey nəmlənib üzərinə toz qonaraq çirkli olduqda. Bu, atların və dəvələrin tüklərində olur.",
+ "az": "[قنم] Qaf, nun və mim tək bir kəlmədir. Deyirlər: قَنِمَ الشئُ قَنَماً (şey nəmlənib tozdan çirkləndi) — bir şey nəmlənib sonra üzərinə toz qonaraq çirkləndikdə belə deyilir. Bu, atların və dəvələrin tüklərində olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:25.256Z"
+ "ts": "2026-10-26T00:32:25.256Z",
+ "prev_az": "[قنم] Qaf, nun və mim tək bir kəlmədir. Deyirlər: «قَنِعَ الشئُ قَنَماً» — şey nəmlənib üzərinə toz qonaraq çirkli olduqda. Bu, atların və dəvələrin tüklərində olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «قَنِمَ الشئُ قَنَماً» ifadəsi «قَنِعَ الشئُ قَنَماً» şəklində təhrif olunub."
+ ],
+ "review_ts": "2026-11-25T00:50:42.890Z"
 }

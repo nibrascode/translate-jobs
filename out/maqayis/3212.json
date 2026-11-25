@@ -11,7 +11,16 @@
   "page_to": 34
  },
  "ar": "القاف والنون والفاء أُصَيلٌ يدلُّ على تجمُّعٍ فى شئ. من ذلك القَنِيف: الجَمَاعة من النَّاس. والقَنِيف، فيما ذكره ابن دريد (١): القِطعة من اللَّيْل. يقال: مرَّ قَنِيفٌ من اللَّيل.\nومن الباب: القَنَف: صِغَرُ الأُذُنَين وغِلَظُهما. وهو ذلك القياس، وكذلك القِنَاف، وهو الغليظ الأَنْف.",
- "az": "[قنف] Qaf, nun və fa kiçik bir əldir, bir şeydə toplanmağa dəlalət edir. Bunlardandır əl-qənif (القَنِيف): insanlardan ibarət qrup. Və əl-qənif (القَنِيف), İbn Dureydin qeyd etdiyi kimi (١): gecənin bir hissəsi. Deyilir: «مرَّ قَنِيفٌ من اللَّيل» (Gecənin bir hissəsi keçdi).\nVə bu fəsildəndir: əl-qanəf (القَنَف): qulaqların kiçikliyi və yoğunluğu. Bu da həmin qiyasdandır, həmçinin əl-qinaf (القِنَاف) də buradandır, o da burnu yoğun olandır.",
+ "az": "[قنف] Qaf, nun və fa kiçik bir əsldir, bir şeydə toplanmağa dəlalət edir. Bunlardandır القَنِيف (insanlardan ibarət dəstə). القَنِيف (gecənin bir hissəsi), İbn Dureydin qeyd etdiyi kimi (١): gecənin bir hissəsidir. Deyilir: مرَّ قَنِيفٌ من اللَّيل (gecənin bir hissəsi keçdi).\\nBu fəsildəndir: القَنَف (qulaqların kiçikliyi və yoğunluğu). Bu da həmin qiyasdandır; həmçinin القِنَاف (burnu yoğun olan) da buradandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:25.256Z"
+ "ts": "2026-10-26T00:32:25.256Z",
+ "prev_az": "[قنف] Qaf, nun və fa kiçik bir əldir, bir şeydə toplanmağa dəlalət edir. Bunlardandır əl-qənif (القَنِيف): insanlardan ibarət qrup. Və əl-qənif (القَنِيف), İbn Dureydin qeyd etdiyi kimi (١): gecənin bir hissəsi. Deyilir: «مرَّ قَنِيفٌ من اللَّيل» (Gecənin bir hissəsi keçdi).\nVə bu fəsildəndir: əl-qanəf (القَنَف): qulaqların kiçikliyi və yoğunluğu. Bu da həmin qiyasdandır, həmçinin əl-qinaf (القِنَاف) də buradandır, o da burnu yoğun olandır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«أُصَيل» sözü «kiçik bir əldir» şəklində yanlış tərcümə edilib («kiçik bir əsldir» olmalıdır)."
+ ],
+ "review_ts": "2026-11-25T00:50:42.890Z"
 }

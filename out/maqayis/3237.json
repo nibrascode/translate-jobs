@@ -11,7 +11,17 @@
   "page_to": 44
  },
  "ar": "القاف والياء والدال كلمةٌ واحدة، وهى القَيْد، وهو معروفٌ، ثُمَّ يستعارُ في كل شئٍ يَحْبِس. يقال: قيَّدْتُه أُقَيِّده تَقْيِيداً. ويقال: فَرَسٌ قَيْدُ الأَوَابِدِ، أى فكأنَّ الوحشَ من سُرعةِ إدراكه لها مُقيَّدة. قال:\nوقَدْ أَغْتدِي والطَّيْرُ في وُكْنَاتها … بمُنجرِدٍ قَيدِ الأوابدِ هيكلِ (٣)\nوالمُقَيَّد: موضعُ القَيْدِ من الفَرَس.",
- "az": "[قيد] «القاف» (قاف), «الياء» (ياء) və «الدال» (dal) — tək bir kəlmədir, o da «القَيْد» (əl-qayd - buxov)dur, bu məlumdur, sonra o, həbs edən hər bir şey üçün məcazi olaraq işlədilir. Deyilir: «قيَّدْتُه أُقَيِّده تَقْيِيداً» (Buxovladım, onu buxovlayıram, buxovlamaq). Deyilir: «فَرَسٌ قَيْدُ الأَوَابِدِ» (At vəhşi heyvanların buxovudur), yəni sürətlə onları yaxaladığına görə sanki vəhşi heyvanlar (onun yanında) buxovlanmış kimidir. Şair demişdir:\nوقَدْ أَغْتدِي والطَّيْرُ في وُكْنَاتها … بمُنجرِدٍ قَيدِ الأوابدِ هيكلِ (٣)\n(Mən elə səhər tezdən yola çıxıram ki, quşlar yuvalarındadır, çılpaq bədənli, vəhşi heyvanların buxovlayıcısı olan uca bir atla).",
+ "az": "[قيد] «القاف» (qaf), «الياء» (ya) və «الدال» (dal) — tək bir kəlmədir, o da «القَيْد» (əl-qeyd: buxov)dur, bu məlumdur, sonra o, həbs edən hər bir şey üçün məcazi olaraq işlədilir. Deyilir: «قيَّدْتُه أُقَيِّده تَقْيِيداً» (Onu buxovladım, buxovlayıram, buxovlamaq). Deyilir: «فَرَسٌ قَيْدُ الأَوَابِدِ» (At vəhşi heyvanların buxovudur), yəni sürətlə onları yaxaladığına görə sanki vəhşi heyvanlar (onun yanında) buxovlanmış kimidir. Şair demişdir:\nوقَدْ أَغْتدِي والطَّيْرُ في وُكْنَاتها … بمُنجرِدٍ قَيدِ الأوابدِ هيكلِ (٣)\n(Mən elə səhər tezdən yola çıxıram ki, quşlar yuvalarındadır, qısa tüklü, vəhşi heyvanların buxovlayıcısı olan uca bir atla).\n«المُقَيَّد» (əl-muqəyyəd) isə atın ayağında buxovun taxıldığı yerdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:47.283Z"
+ "ts": "2026-10-26T00:32:47.283Z",
+ "prev_az": "[قيد] «القاف» (قاف), «الياء» (ياء) və «الدال» (dal) — tək bir kəlmədir, o da «القَيْد» (əl-qayd - buxov)dur, bu məlumdur, sonra o, həbs edən hər bir şey üçün məcazi olaraq işlədilir. Deyilir: «قيَّدْتُه أُقَيِّده تَقْيِيداً» (Buxovladım, onu buxovlayıram, buxovlamaq). Deyilir: «فَرَسٌ قَيْدُ الأَوَابِدِ» (At vəhşi heyvanların buxovudur), yəni sürətlə onları yaxaladığına görə sanki vəhşi heyvanlar (onun yanında) buxovlanmış kimidir. Şair demişdir:\nوقَدْ أَغْتدِي والطَّيْرُ في وُكْنَاتها … بمُنجرِدٍ قَيدِ الأوابدِ هيكلِ (٣)\n(Mən elə səhər tezdən yola çıxıram ki, quşlar yuvalarındadır, çılpaq bədənli, vəhşi heyvanların buxovlayıcısı olan uca bir atla).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəb əlifbası ilə verilib («قاف», «ياء»).",
+  "Maddənin son cümləsi («والمُقَيَّد: موضعُ القَيْدِ من الفَرَس.») tərcümədə tamamilə buraxılıb."
+ ],
+ "review_ts": "2026-11-25T00:56:12.179Z"
 }

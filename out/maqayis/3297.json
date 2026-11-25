@@ -13,5 +13,10 @@
  "ar": "القاف والراء والهاء كلمةٌ إن صحَّت. يقولون: القَرَه في الجلد كالقَلَح في الأسنان، وهو الوَسَخ. يقال: رجلٌ أقْرَهُ وامرأةٌ قَرْهَاء.",
  "az": "[قره] \nقاف, راء və hə – əgər səhihdirsə, tək bir kəlmədir. Deyirlər ki, dəridəki «القَرَه» (əl-qərəh) dişlərdəki «qələh» kimidir, bu da çirkdir. Deyilir: «رجلٌ أقْرَهُ» (rəcülün əqrəh) – qərəhli kişi və «امرأةٌ قَرْهَاء» (imrətün qərhə) – qərəhli qadın.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:35:15.763Z"
+ "ts": "2026-10-26T00:35:15.763Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-25T01:34:37.968Z"
 }

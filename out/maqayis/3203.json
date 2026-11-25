@@ -11,7 +11,17 @@
   "page_to": 30
  },
  "ar": "القاف والنون والباء أصلٌ يدلُّ على جَمْع وتجمُّع. من ذلك المِقْنَب: القِطْعةُ من الخَيْل، يقال هى نحوُ الأربعينَ. والقَنِيب: الجماعةُ من النَّاس.\nقال ابن دُريد (١): قنَّب الزَّرعُ تَقْنِيباً، إذا أعْصَفَ. قال: وتسمَّى العَصِيفة:\nالقُنَّابَة. والعصيفة: الورَق المجتمعُ الذى يكون فيه السُّنبُل.\nومن الباب: القُنْب، وهو وعاء ثِيلِ الفَرَس، وسمِّى بذلك لأنَّه يَجمَع ما فيه. وأمّا القنَّب فزعم [قومٌ] أنّها عربية. فإنْ كان كذا فهو من قَنَّب الزَّرعُ، إذا أعْصَف. وهو شئٌ يتَّخذ من بعض ذلك.",
- "az": "«قنب» — قاف، نun və ba hərfləri toplama və toplanma mənasını bildirən bir kökdür. Bunlardan biri «المِقْنَب» (əl-miqnab) — atlı dəstəsidir, təqribən qırx atlı olduğu deyilir. «القَنِيب» (əl-qanib) — insan dəstəsidir.\nİbn Dürid demişdir: «قنَّب الزَّرعُ تَقْنِيباً» (zərc qəvvəbə təqniyən) — əkin sünbül verib bərkidiyi zaman deyilir. O demişdir: Əkinin bu quru yarpaqları «القُنَّابَة» (əl-qunnabə) adlanır. Əsifə isə — içində sünbül olan toplanmış yarpaqlardır.\nHəmin fəsildəndir: «القُنْبُ» (əl-qunb) — atın cinsiyyət orqanının qınıdır, belə adlandırılmışdır, çünki o, içindəkini yığır. «القنَّبُ» (əl-qunnab - çətənə) sözünə gəldikdə isə, [bir qrup] bunun ərəbcə olduğunu iddia etmişdir. Əgər belədirsə, o zaman bu, əkinin sünbül verib bərkiməsini bildirən «قَنَّبَ الزَّرعُ» sözündəndir. Bu, həmin şeylərin bəzisindən düzəldilən bir şeydir.",
+ "az": "[قنب]\nQaf, nun və ba hərfləri toplama və toplanmağa dəlalət edən bir kökdür. Bunlardan biri المِقْنَب (atlı dəstəsi) — atlı qrupudur, təqribən qırx atlı olduğu deyilir. القَنِيب — insan topluluğudur.\nİbn Düreyd demişdir (١): əkin yarpaqları toplanıb sünbülləndiyi zaman قنَّب الزَّرعُ تَقْنِيباً deyilir. O demişdir: العَصِيفة (yarpaq qını) القُنَّابَة adlanır. العَصِيفة isə içində sünbül olan toplanmış yarpaqlardır.\nHəmin fəsildəndir: القُنْب — atın cinsiyyət orqanının qınıdır; içindəkini topladığı üçün belə adlandırılmışdır. القنَّب (çətənə) sözünə gəldikdə isə, [bir qrup alim] onun ərəbcə olduğunu iddia etmişdir. Əgər belədirsə, o zaman bu, əkinin sünbüllənməsini bildirən قَنَّبَ الزَّرعُ sözündəndir. Bu, həmin şeylərin bəzisindən düzəldilən bir şeydir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:04.973Z"
+ "ts": "2026-10-26T00:32:04.973Z",
+ "prev_az": "«قنب» — قاف، نun və ba hərfləri toplama və toplanma mənasını bildirən bir kökdür. Bunlardan biri «المِقْنَب» (əl-miqnab) — atlı dəstəsidir, təqribən qırx atlı olduğu deyilir. «القَنِيب» (əl-qanib) — insan dəstəsidir.\nİbn Dürid demişdir: «قنَّب الزَّرعُ تَقْنِيباً» (zərc qəvvəbə təqniyən) — əkin sünbül verib bərkidiyi zaman deyilir. O demişdir: Əkinin bu quru yarpaqları «القُنَّابَة» (əl-qunnabə) adlanır. Əsifə isə — içində sünbül olan toplanmış yarpaqlardır.\nHəmin fəsildəndir: «القُنْبُ» (əl-qunb) — atın cinsiyyət orqanının qınıdır, belə adlandırılmışdır, çünki o, içindəkini yığır. «القنَّبُ» (əl-qunnab - çətənə) sözünə gəldikdə isə, [bir qrup] bunun ərəbcə olduğunu iddia etmişdir. Əgər belədirsə, o zaman bu, əkinin sünbül verib bərkiməsini bildirən «قَنَّبَ الزَّرعُ» sözündəndir. Bu, həmin şeylərin bəzisindən düzəldilən bir şeydir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«قنَّب الزَّرعُ تَقْنِيباً» ifadəsinin mötərizədəki transkripsiyası təhrif olunmuş («zərc qəvvəbə təqniyən»), haşiyə rəqəmi (١) isə buraxılmışdır.",
+  "«العصيفة» sözü ərəb qrafikası ilə saxlanılmamış, «İbn Düreyd» adı isə «İbn Dürid» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-25T00:55:26.302Z"
 }

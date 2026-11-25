@@ -11,7 +11,17 @@
   "page_to": 61
  },
  "ar": "القاف والحاء واللام أصلٌ صحيحٌ يدلُّ على يُبْسٍ في الشيء وجفَاف. فالقَحَل: اليُبْس. والقَاحِل: اليابس، قَحَل يَقحَل، وقَحِلَ يَقْحَل.\nوقَحِلَ الشَّيخُ: يَبِس جلدُه على عَظْمِه. ورجلٌ قَحْلٌ وإِنْقَحْلٌ. والقُحال:\nداءٌ يُصيب الغَنَمَ فتجفُّ جلودُها.",
- "az": "[قحل] «قاف», «حاء» və «لام» bir şeydə quruqluğa və susuzluğa dəlalət edən səhih bir kökdür. «القَحَل» — quruqluq. «القَاحِل» — quru, قَحَل يَقحَل və قَحِلَ يَقْحَل. Qəhiləşdi şeyx: dərisi sümüyünün üzərində qurudu. ورجلٌ قَحْلٌ وإِنْقَحْلٌ (quru, arıq kişi). «القُحال» — qoyunların dərilərini qurutdan bir xəstəlikdir.",
+ "az": "[قحل] «قاف», «حاء» və «لام» bir şeydə quruqluğa və bərkliyə (susuzluğa) dəlalət edən səhih bir kökdür. «القَحَل» — quruqluqdur. «القَاحِل» — quru deməkdir; «قَحَل يَقحَل» və «قَحِلَ يَقْحَل» felləri buradan gəlir.\n«وقَحِلَ الشَّيخُ» (qocanın dərisi sümüyünün üzərində qurudu). «رجلٌ قَحْلٌ وإِنْقَحْلٌ» (quru, arıq adam). «القُحال» — qoyunlara toxunan və dərilərini qurudan bir xəstəlikdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.341Z"
+ "ts": "2026-10-26T00:33:48.341Z",
+ "prev_az": "[قحل] «قاف», «حاء» və «لام» bir şeydə quruqluğa və susuzluğa dəlalət edən səhih bir kökdür. «القَحَل» — quruqluq. «القَاحِل» — quru, قَحَل يَقحَل və قَحِلَ يَقْحَل. Qəhiləşdi şeyx: dərisi sümüyünün üzərində qurudu. ورجلٌ قَحْلٌ وإِنْقَحْلٌ (quru, arıq kişi). «القُحال» — qoyunların dərilərini qurutdan bir xəstəlikdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وقَحِلَ الشَّيخُ» ifadəsi ərəb əlifbası ilə saxlanılmayıb, «Qəhiləşdi şeyx» şəklində transliterasiya edilmişdir.",
+  "«داءٌ يُصيب الغَنَمَ فتجفُّ جلودُها» cümləsi dəqiq tərcümə edilməyib."
+ ],
+ "review_ts": "2026-11-25T01:30:50.740Z"
 }

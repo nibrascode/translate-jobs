@@ -11,7 +11,16 @@
   "page_to": 99
  },
  "ar": "القاف والضاد والميم كلمتانِ متباينتان لا مناسبةَ بينهما: إحداهما القَضْم: قَضْم الدّابَّة شعيرَها؛ يقال قَضِمَتْ تَقْضَم. ويقولون: ما ذُقتُ قَضَاماً.\nويقال: القَضْم: الأكل بأطراف الأسنان، والخَضْم بالفم كلِّه.\nوالكلمة الأخرى: القَضِيم، يقال إنَّه الجِلدُ الأبيض، أو الصَّحيفة البيضاء.\nقال النابغة:\nكأنَّ مَجرَّ الرامساتِ ذُيولَها … عليه قَضِيمٌ نَمَّقَتْهُ الصَّوانعُ (١)",
- "az": "[قضم] (qəzm). Qaf, dad və mim hərfləri arasında heç bir əlaqə olmayan iki fərqli kəlmədir: Biri القَضْم (əl-qəzm) – minik heyvanının arpasını qəzməsi (gəvəməsi); qəsimət təqðəm (قضِمت تَقْضَم) deyilir. Onlar deyirlər: ما ذُقتُ قَضَاماً (mən bir şey dadmamışam). \nVə deyilir ki, القَضْم (əl-qəzm) – dişlərin ucları ilə yeməkdir, الخَضْم (əl-xəzm) isə bütün ağızla yeməkdir.\nVə digər kəlmə: القَضِيم (əl-qəzim), deyilir ki, o, ağ dəri və ya ağ səhifədir.\nNabiğə demişdir:\nكأنَّ مَجرَّ الرامساتِ ذُيولَها … عليه قَضِيمٌ نَمَّقَتْهُ الصَّوانعُ (١)\n(Sanki küləklərin izlərini və ətəklərini çəkdikləri yer... üzərində ustaların naxışladığı ağ dəri (səhifə) kimidir).",
+ "az": "[قضم] (qəzm). Qaf, dad və mim hərfləri arasında heç bir əlaqə olmayan iki fərqli sözdür: Biri القَضْم (əl-qəzm) – minik heyvanının arpasını gəmirməsidir; قَضِمَتْ تَقْضَم (qadimat taqdamu) deyilir. Onlar deyirlər: ما ذُقتُ قَضَاماً (heç bir şey dadmamışam). Və deyilir: القَضْم (əl-qəzm) – dişlərin ucları ilə yeməkdir, الخَضْم (əl-xəzm) isə bütün ağızla yeməkdir.\nVə digər söz: القَضِيم (əl-qəzim) – deyilir ki, o, ağ dəri və ya ağ səhifədir. Nabiğə demişdir:\nكأنَّ مَجرَّ الرامساتِ ذُيولَها … عليه قَضِيمٌ نَمَّقَتْهُ الصَّوانعُ (١)\n(Sanki küləklərin ətəklərini sürüdükləri yer... üzərində ustaların naxışladığı ağ dəri kimidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:36:41.564Z"
+ "ts": "2026-10-26T00:36:41.564Z",
+ "prev_az": "[قضم] (qəzm). Qaf, dad və mim hərfləri arasında heç bir əlaqə olmayan iki fərqli kəlmədir: Biri القَضْم (əl-qəzm) – minik heyvanının arpasını qəzməsi (gəvəməsi); qəsimət təqðəm (قضِمت تَقْضَم) deyilir. Onlar deyirlər: ما ذُقتُ قَضَاماً (mən bir şey dadmamışam). \nVə deyilir ki, القَضْم (əl-qəzm) – dişlərin ucları ilə yeməkdir, الخَضْم (əl-xəzm) isə bütün ağızla yeməkdir.\nVə digər kəlmə: القَضِيم (əl-qəzim), deyilir ki, o, ağ dəri və ya ağ səhifədir.\nNabiğə demişdir:\nكأنَّ مَجرَّ الرامساتِ ذُيولَها … عليه قَضِيمٌ نَمَّقَتْهُ الصَّوانعُ (١)\n(Sanki küləklərin izlərini və ətəklərini çəkdikləri yer... üzərində ustaların naxışladığı ağ dəri (səhifə) kimidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Transliterasiyada latın və ərəb hərfləri bir-birinə qarışıb («təqðَم»)."
+ ],
+ "review_ts": "2026-11-25T01:38:31.146Z"
 }

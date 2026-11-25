@@ -11,7 +11,18 @@
   "page_to": 31
  },
  "ar": "القاف والنون والتاء أصلٌ صحيحٌ يدلُّ على طاعةٍ وخيرٍ فى دين، لا يعدو هذا البابَ. والأصل فيه الطَّاعة، يقال: قَنَتَ يَقْنُتُ قُنوتاً. ثم سمِّى كلُّ استقامةٍ فى طريقِ الدِّين قُنُوتاً، وقيل لطُولِ القِيام فى الصَّلاةِ قُنُوت، وسمِّى السُّكوتُ فى الصَّلاة والإقبالُ عليها قُنوتاً. قال اللّه تعالى: ﴿وَقُومُوا لِلّهِ قانِتِينَ﴾.",
- "az": "«قنت» — قاف، نun və ta hərfləri bu fəsildən kənara çıxmayan, dinə aid itaət və xeyrə dəlalət edən səhih bir kökdür. Onun əsili itaətdir, deyilir: «قَنَتَ يَقْنُتُ قُنوتاً» (qanətə yaqnütü qunutən). Sonra din yolunda hər bir düz yolda olmaq «قُنُوت» (qunut) adlandırılmışdır, namazda uzun müddət ayaqda durmağa qunut deyilmişdir, namazda sükut etməyə və ona yönəlməyə də qunut adı verilmişdir. Uca Allah buyurmuşdur: mənaca tərcümə: «Və Allaha itaətkar (qünt) olaraq durun».",
+ "az": "[قنت] Qaf, nun və ta bu fəsildən kənara çıxmayan, dinə aid itaət və xeyrə dəlalət edən səhih bir kökdür. Onun əsli itaətdir; deyilir: قَنَتَ يَقْنُتُ قُنوتاً (itaət etdi, itaət edir, itaət etmək). Sonra din yolunda hər bir düz yolda olmaq قُنُوت (qunut) adlandırılmışdır, namazda uzun müddət ayaqda durmağa قُنُوت (qunut) deyilmiş, namazda sükut etməyə və ona yönəlməyə də قُنُوت (qunut) adı verilmişdir. Uca Allah buyurmuşdur: ﴿وَقُومُوا لِلّهِ قانِتِينَ﴾ (mənaca tərcümə: «Allaha itaətkar olaraq namaza durun»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:04.973Z"
+ "ts": "2026-10-26T00:32:04.973Z",
+ "prev_az": "«قنت» — قاف، نun və ta hərfləri bu fəsildən kənara çıxmayan, dinə aid itaət və xeyrə dəlalət edən səhih bir kökdür. Onun əsili itaətdir, deyilir: «قَنَتَ يَقْنُتُ قُنوتاً» (qanətə yaqnütü qunutən). Sonra din yolunda hər bir düz yolda olmaq «قُنُوت» (qunut) adlandırılmışdır, namazda uzun müddət ayaqda durmağa qunut deyilmişdir, namazda sükut etməyə və ona yönəlməyə də qunut adı verilmişdir. Uca Allah buyurmuşdur: mənaca tərcümə: «Və Allaha itaətkar (qünt) olaraq durun».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub və hərf adları ərəbcə-azərbaycanca qarışıq yazılıb.",
+  "«قَنَتَ يَقْنُتُ قُنوتاً» ifadəsinin mənası verilməyib, yalnız transkripsiyası yazılıb.",
+  "Quran ayəsinin ərəb mətni buraxılıb və ayə tərcüməsində «(qünt)» kimi artıq ifadə əlavə edilib."
+ ],
+ "review_ts": "2026-11-25T00:50:42.888Z"
 }

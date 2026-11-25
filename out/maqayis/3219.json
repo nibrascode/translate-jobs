@@ -13,5 +13,10 @@
  "ar": "القاف والهاء والسين كلماتٌ إن صَحَّت. يقولون: جاء يَتَقَهْوَس، إذا جاء مُنْحَنِياً (١) يَضْطرب. وهذا ممكنٌ أن يكون هاؤه زائدة، كأنَّه يَتقوس. ويقولون: القَهْوَسة: السُّرعة. والقَهْوَس: الرَّجُل الطويل.",
  "az": "[قهس] Qaf, hə və sin kəlmələrdir, əgər səhihdirllərsə. Deyirlər: «جاء يَتَقَهْوَس» — əyilərək, sarsılaraq (tərəddüd edərək) gəldi (١). Və bu mümkündür ki, həsi artıq olsun, sanki o, belini bükür. Və deyirlər: əl-qəhvəsə (القَهْوَسَة): sürət. Və əl-qəhvəs (القَهْوَس): uzun boylu kişi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:25.257Z"
+ "ts": "2026-10-26T00:32:25.257Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-25T00:52:58.474Z"
 }

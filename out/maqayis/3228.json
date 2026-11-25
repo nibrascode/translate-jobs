@@ -11,7 +11,18 @@
   "page_to": 41
  },
  "ar": "القاف والواو والضاد كلمةٌ تدلُّ على نَقْضِ بناء. يقال:\nقَوَّضْت البناءَ: نقضْتُه من غير هَدْم. وتقوَّضَتِ الصُّفوف: انتَقَضَتْ.",
- "az": "[قوض] «القاف» (قاف), «الواو» (واو) və «الضاد» (dad) — bina tikilisini sökməyə dəlalət edən bir kəlmədir. Deyilir: «قَوَّضْت البناءَ» (binanı söktüm) — onu uçurmadan sökdüm. «وتوَّضَتِ الصُّفوف» (cərgələr dağıldı/pozuldu).",
+ "az": "[قوض] «القاف» (qaf), «الواو» (vav) və «الضاد» (dad) — bina tikilisini sökməyə dəlalət edən bir kəlmədir. Deyilir:\n«قَوَّضْت البناءَ» (binanı sökdüm) — onu uçurmadan sökdüm. «وتقوَّضَتِ الصُّفوف» (cərgələr pozuldu): «انتَقَضَتْ» (dağıldı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:47.283Z"
+ "ts": "2026-10-26T00:32:47.283Z",
+ "prev_az": "[قوض] «القاف» (قاف), «الواو» (واو) və «الضاد» (dad) — bina tikilisini sökməyə dəlalət edən bir kəlmədir. Deyilir: «قَوَّضْت البناءَ» (binanı söktüm) — onu uçurmadan sökdüm. «وتوَّضَتِ الصُّفوف» (cərgələr dağıldı/pozuldu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəb əlifbası ilə verilib («قاف», «واو»).",
+  "«وتقوَّضَتِ الصُّفوف» sözündə «ق» hərfi düşüb («وتوَّضَتِ الصُّفوف»).",
+  "«söktüm» sözündə orfoqrafik səhv var («sökdüm» olmalıdır)."
+ ],
+ "review_ts": "2026-11-25T00:56:12.176Z"
 }

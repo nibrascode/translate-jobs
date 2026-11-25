@@ -11,7 +11,16 @@
   "page_to": 55
  },
  "ar": "القاف والتاء والدال أصلٌ صحيح، وَهو كلمتان: القَتَد:\nخشَبُ الرَّحْل، وجمعه أقتادٌ وقُتود. وَالكلمة لأخرى القَتَاد: ضربٌ من العِضاهِ،\nليس فيه غير هذا. ويقولون: قُتَائِد (١): مكان.",
- "az": "[قتد] (qət-əd): Qaf, taya və dal – səhih bir kökdür, iki kəlmədir: [القَتَد] (əl-qətəd) – yük yəhərinin taxtasıdır, cəmi [أقتاد] (əqtəd) və [قُتود] (qudud) gəlir. Digər kəlmə isə: [القَتَاد] (əl-qətəd) – tikanlı ağacların bir növüdür, bundan başqa heç nə yoxdur. Deyirlər: [قُتَائِد] (qutəid) (١) – bir yerdir.",
+ "az": "[قتد] (qaf, ta, dal): Qaf, ta və dal – səhih bir kökdür, iki kəlmədir: [القَتَد] (əl-qətəd) – yük yəhərinin taxtasıdır, cəmi [أقتاد] (əqtəd) və [قُتود] (qutud) gəlir. Digər kəlmə isə: [القَتَاد] (əl-qətəd) – tikanlı ağacların bir növüdür, bundan başqa heç nə yoxdur. Deyirlər: [قُتَائِد] (qutəid) (١) – bir yerdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:30.096Z"
+ "ts": "2026-10-26T00:33:30.096Z",
+ "prev_az": "[قتد] (qət-əd): Qaf, taya və dal – səhih bir kökdür, iki kəlmədir: [القَتَد] (əl-qətəd) – yük yəhərinin taxtasıdır, cəmi [أقتاد] (əqtəd) və [قُتود] (qudud) gəlir. Digər kəlmə isə: [القَتَاد] (əl-qətəd) – tikanlı ağacların bir növüdür, bundan başqa heç nə yoxdur. Deyirlər: [قُتَائِد] (qutəid) (١) – bir yerdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ت» hərfinin adı «taya» kimi yanlış yazılmışdır, doğrusu «ta» olmalıdır."
+ ],
+ "review_ts": "2026-11-25T01:09:51.422Z"
 }

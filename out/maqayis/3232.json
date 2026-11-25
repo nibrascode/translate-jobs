@@ -11,7 +11,17 @@
   "page_to": 42
  },
  "ar": "القاف والواو والقاف كلمةٌ، يقولون: القُوق (٣):\nالرَّجُل الطويل.",
- "az": "[قوق] «القاف» (قاف), «الواو» (واو) və «القاف» (قاف) — bir kəlmədir, deyirlər: «القُوق» (əl-quq) — hündürboylu kişidir (3).",
+ "az": "[قوق] «القاف» (qaf), «الواو» (vav) və «القاف» (qaf) — bir kəlmədir, deyirlər: «القُوق» (əl-quq) (٣):\nhündürboylu kişidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:47.283Z"
+ "ts": "2026-10-26T00:32:47.283Z",
+ "prev_az": "[قوق] «القاف» (قاف), «الواو» (واو) və «القاف» (قاف) — bir kəlmədir, deyirlər: «القُوق» (əl-quq) — hündürboylu kişidir (3).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəb əlifbası ilə verilib («قاف», «واو», «قاف»).",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə saxlanmayıb ((3) yazılıb) və yeri dəyişdirilib."
+ ],
+ "review_ts": "2026-11-25T00:56:12.177Z"
 }

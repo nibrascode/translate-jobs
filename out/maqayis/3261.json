@@ -11,7 +11,17 @@
   "page_to": 59
  },
  "ar": "القاف والتاء والباء أصلٌ صحيحٌ يدلُّ على آلة من آلات الرِّحال أو غيرها. فالقَتَب للجمل معروفٌ. ويقال للإِبل تُوضَع عليها أحمالها:\nقَتُوبة. قال ابنُ دريد: [القَتَب (١)]: قَتَب البعير، إذا كان ممَّا يحمل عليه، فإنْ كان من آلة السّانية فهو قِتْب بكسر القاف. وأمَّا الأقتابُ فهي الأمعاء، واحدها قتب (٢)، وتصغيرها قُتَيْبة، وذلك على معنى التّشبيهِ بأقتاب الرِّحال.",
- "az": "[قتب] «قاف», «تاء» və «با» hərfləri səyahət və digər alətlərdən bir alətə dəlalət edən səhih bir kökdür. Dəvənin «القَتَب»-i məlumdur. Üzərinə yüklər qoyulan dəvələrə «قَتُوبة» denilir. İbn Dürid demişdir: [القَتَب (bir)]: Dəvənin qətəbi, əgər üzərinə yük daşınanlardandırsa; əgər suçəkən çarxın alətindən olarsa, «قاف»-ın kəsri ilə «قِتْب» olar. «الأقتاب» isə bağırsaqlardır, təkli «قتب»-dir (iki), kiçiltmə forması «قُتَيْبة»-dir, bu da səyahət palançalarının qətəblərinə bənzədilmə mənasındadır.",
+ "az": "[قتب] «قاف», «تاء» və «با» hərfləri səyahət və digər alətlərdən bir alətə dəlalət edən səhih bir kökdür. Dəvənin «القَتَب»-i məlumdur. Üzərinə yüklər qoyulan dəvələrə «قَتُوبة» deyilir. İbn Dürid demişdir: [القَتَب (١)]: Dəvənin qətəbi, əgər üzərinə yük daşınanlardandırsa; əgər suçəkən çarxın alətindən olarsa, «قاف»-ın kəsri ilə «قِتْب» olar. Amma «الأقتاب» isə bağırsaqlardır, təkli «قتب»-dir (٢), kiçiltmə forması «قُتَيْبة»-dir, bu da səyahət palançalarının qətəblərinə bənzədilmə mənasındadır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.340Z"
+ "ts": "2026-10-26T00:33:48.340Z",
+ "prev_az": "[قتب] «قاف», «تاء» və «با» hərfləri səyahət və digər alətlərdən bir alətə dəlalət edən səhih bir kökdür. Dəvənin «القَتَب»-i məlumdur. Üzərinə yüklər qoyulan dəvələrə «قَتُوبة» denilir. İbn Dürid demişdir: [القَتَب (bir)]: Dəvənin qətəbi, əgər üzərinə yük daşınanlardandırsa; əgər suçəkən çarxın alətindən olarsa, «قاف»-ın kəsri ilə «قِتْب» olar. «الأقتاب» isə bağırsaqlardır, təkli «قتب»-dir (iki), kiçiltmə forması «قُتَيْبة»-dir, bu da səyahət palançalarının qətəblərinə bənzədilmə mənasındadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmləri ərəb rəqəmləri ilə (١, ٢) saxlanılmayıb.",
+  "Türkiyə türkcəsində olan «denilir» sözü işlədilib."
+ ],
+ "review_ts": "2026-11-25T01:31:35.169Z"
 }

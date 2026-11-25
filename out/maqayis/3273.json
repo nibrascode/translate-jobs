@@ -13,5 +13,10 @@
  "ar": "القاف والحاء والباء كلمةٌ تدلُّ على سُعَال الخيل والإبل، وربما جُعِل للنَّاس",
  "az": "[قحب] «قاف», «حاء» və «با» atların və dəvələrin öskürəyinə dəlalət edən kəlmədir, bəzən insanlar üçün də işlədilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.341Z"
+ "ts": "2026-10-26T00:33:48.341Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-25T01:30:50.741Z"
 }

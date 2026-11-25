@@ -11,7 +11,18 @@
   "page_to": 24
  },
  "ar": "القاف والميم والهاء فيه كلماتٌ ليست بأصليَّة. يقولون: قَمَهَ الشّئُ، إذا انْغَمَس فى الماء فارتفَعَ حيناً وغابَ حيناً. وقِفاف قُمَّه. تَغيبُ فى السَّراب وتظهر. وهذا فى الإبدال، وأصله قُمَّس. ويقولون: قَمَهَ البعيرُ مثل قَمَحَ، إذا رفَعَ رأسَه ولم يشرب الماءَ، هو من الإبدال.\nوكلمةٌ أخرى من المقلوب، قال ابن دُرَيْد (١): القَمَه مثل القَهَم، وهو قِلّةُ الشَّهوة للطّعام، قَهِمَ وقَمِه.",
- "az": "[قمه] \nالقاف والميم والهاء (قاف, mim və hər) — burada əsli olmayan bəzi kəlmələr vardır. Deyirlər: قَمَهَ الشّئُ — şey suya batıb gah üzə çıxdı, gah da batdı. \nQifaf qummə (سراب - səhra ilğımında itib-batan təpələr). Səhra ilğımında batır və üzə çıxır. Bu, hərf dəyişməsi (ibdal) yoluyladır, əsli isə قُمَّس-dir. \nDeyirlər: قَمَهَ البعيرُ (dəvə başını qaldırdı) قَمَحَ kimidir, başını qaldırıb su içmədi, bu da ibdaldandır.\n\nBaşqa bir söz isə tərs çevrilmək (mqlub) yoluyladır, İbn Dürəyd (١) demişdir: \nالقَمَه — القَهَم kimidir, bu da yeməyə iştahsızlıqdır, قَهِمَ və قَمِه.",
+ "az": "[قمه]\nالقاف والميم والهاء (qaf, mim və hə) — burada əsli olmayan bəzi kəlmələr vardır. Deyirlər: قَمَهَ الشّئُ — şey suya batıb gah üzə çıxdı, gah da batdı. قِفاف قُمَّه — ilğımda gah itib-batan, gah da görünən təpələrdir. Bu, hərf dəyişməsi (ibdal) yoluyladır, əsli isə قُمَّس-dir. Deyirlər: قَمَهَ البعيرُ — قَمَحَ kimidir, yəni dəvə başını qaldırıb su içmədi; bu da ibdaldandır.\nBaşqa bir söz isə tərs çevrilmə (məqlub) yoluyladır, İbn Dürəyd (١) demişdir: القَمَه — القَهَم kimidir, bu da yeməyə iştahsızlıqdır; قَهِمَ və قَمِه (iştahsız oldu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:31:44.429Z"
+ "ts": "2026-10-26T00:31:44.429Z",
+ "prev_az": "[قمه] \nالقاف والميم والهاء (قاف, mim və hər) — burada əsli olmayan bəzi kəlmələr vardır. Deyirlər: قَمَهَ الشّئُ — şey suya batıb gah üzə çıxdı, gah da batdı. \nQifaf qummə (سراب - səhra ilğımında itib-batan təpələr). Səhra ilğımında batır və üzə çıxır. Bu, hərf dəyişməsi (ibdal) yoluyladır, əsli isə قُمَّس-dir. \nDeyirlər: قَمَهَ البعيرُ (dəvə başını qaldırdı) قَمَحَ kimidir, başını qaldırıb su içmədi, bu da ibdaldandır.\n\nBaşqa bir söz isə tərs çevrilmək (mqlub) yoluyladır, İbn Dürəyd (١) demişdir: \nالقَمَه — القَهَم kimidir, bu da yeməyə iştahsızlıqdır, قَهِمَ və قَمِه.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adlarında «قاف» ərəb qrafikası ilə yazılıb və «هاء» səhvən «hər» kimi verilib.",
+  "«قِفاف قُمَّه» ifadəsi ərəb qrafikası ilə saxlanılmayıb və tərcüməsi qarışıq verilib.",
+  "«mqlub» orfoqrafik səhvi var və «قَهِمَ وقَمِه» ifadəsinin mənası verilməyib."
+ ],
+ "review_ts": "2026-11-25T00:49:17.275Z"
 }

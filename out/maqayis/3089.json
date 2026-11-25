@@ -11,9 +11,19 @@
   "page_to": 482
  },
  "ar": "الفاء والدال والميم أصلٌ صحيح يدلُّ على خُثورة وثِقَلٍ وقِلّة.\nكلامٍ فى عِىٍّ. من ذلك قولُهم: صِبْغٌ مُفَدَّم (٥)، أى خاثر مشبّع. قالوا: ومن قياسِه الرّجلُ الفَدْم، وهو القليل الكلام مِنْ عِىّ. وهو بيِّنُ الفُدُومة والفَدامة وهذا كلُّه قياسُه الفِدام: الذى تُفَدُّم به الأباريقُ لتصفية ما فيها من شَراب.",
- "az": "«فدم» (fə-d-m): Fə, dal və mim hərfləri qatı olmağa, ağırçəkiliyə və sözün azlığına dəlalət edən səhih bir əsasdır. Bunlardan biri də onların «صِبْغٌ مُفَدَّم» (sibğun mufəddəm) - yəni qatılaşdırılmış, boyası tam hopdurulmuş boya sözüdür. Onlar demişlər: Bu qiyasdandır «الرّجلُ الفَدْم» (ər-rəculul-fədm), yəni dili tutulduğundan az danışan adamdır. Onun «الفُدُومة» (fudumə) və «الفَدامة» (fədamə) [lal və ya kütbeyin olması] açıq-aydındır. Bütün bunların qiyasının kökü «الفِدام» (fidam) - içindəki içkini süzmək üçün küplərin ağzına bağlanan süzgəcdir.",
+ "az": "[فدم]\nFə, dal və mim hərfləri qatılığa, ağırlığa və nitq acizliyindən dolayı sözün azlığına dəlalət edən səhih bir əsasdır.\nBunlardan biri də onların: صِبْغٌ مُفَدَّم (٥) (qatılığından boyası tam hopmuş boya), yəni qatı və doydurulmuş boya sözüdür. Onlar demişlər: Bunun qiyasındandır الرّجلُ الفَدْم (fədm adam), o da nitq acizliyindən az danışandır. Onun الفُدُومة (fudumə) və الفَدامة (fədamə) (kəmsözlülüyü və ağırlığı) açıq-aydındır. Bütün bunların qiyası الفِدام (fidam - süzgəc) sözüdür: o, içindəki içkini süzmək üçün bardaqların ağzına bağlanan şeydir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:26:21.849Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«فدم» (fə-d-m): Fə, dal və mim hərfləri qatı olmağa, ağırçəkiliyə və sözün azlığına dəlalət edən səhih bir əsasdır. Bunlardan biri də onların «صِبْغٌ مُفَدَّم» (sibğun mufəddəm) - yəni qatılaşdırılmış, boyası tam hopdurulmuş boya sözüdür. Onlar demişlər: Bu qiyasdandır «الرّجلُ الفَدْم» (ər-rəculul-fədm), yəni dili tutulduğundan az danışan adamdır. Onun «الفُدُومة» (fudumə) və «الفَدامة» (fədamə) [lal və ya kütbeyin olması] açıq-aydındır. Bütün bunların qiyasının kökü «الفِدام» (fidam) - içindəki içkini süzmək üçün küplərin ağzına bağlanan süzgəcdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Birinci cümlədə «فى عِىٍّ» (nitq acizliyindən/pəltəklikdən) ifadəsi buraxılmışdır.",
+  "«صِبْغٌ مُفَدَّم (٥)» ifadəsindəki «(٥)» haşiyə nömrəsi buraxılmışdır.",
+  "Baş sözlərin yanında Azərbaycan dilində mənası əvəzinə yalnız ərəbcə oxunuşun transliterasiyası verilmişdir."
+ ],
+ "review_ts": "2026-11-25T00:45:27.695Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 51
  },
  "ar": "القاف والباء والطاء أصلٌ صحيح. قال ابن دريد (٤): القَبْط:\nجَمْعُكَ الشَّيءَ بيدِك. يقال: قَبَطْتُه أَقْبِطُه قَبْطا. قال: وبه سُمِّي القُبَّاط (٥)، هذا التَّاطف، عربيٌّ صحيح.\nومما ليس من هذا الباب القِبط: أهلُ مصر، والنِّسبة إليهم قِبطيٌّ، والثِّياب القُبطيّةُ لعلَّها منسوبةٌ إلى هؤلاء، إلاَّ أنَّ القافَ ضُمَّت للفَرْق.\nقال زُهَير:\nلَيَأْتِيَنَّكَ مِنِّى مَنْطِقٌ قَذَعٌ … باقٍ كَمَا دَنَّسَ القُبْطِيّةَ الوَدَكُ (١)\nوتجمع قَباطيّ.",
- "az": "[قبط] (qəbət). Qaf, ba və ta hərfləri səhih bir əsasdır. İbn Dürəyd (٤) demişdir: القَبْط (əl-qəbt) — bir şeyi əlinlə toplamaqdır. Deyilir ki, قَبَطْتُهُ أَقْبِطُهُ قَبْطًا (qəbatuhu əqbituhu qəbtən). O demişdir: Əl-Qubbat (القُبَّاط) kəlməsi də bundan adlandırılmışdır, bu əlaqə isə səhih ərəbi bir sözdür.\n\nVə bu fəsildən olmayan: القِبْط (əl-qibt) — Misir əhalisi, onlara nisbət edildikdə قِبْطِيٌّ (qibtiyyun) denilir. القُبْطِيَّةُ (əl-qubtiyyətu) paltarları isə ehtimal ki, məhz bu adamlara nisbət edilir, lakin fərqlənmək üçün qaf hərfi zəmmələnmişdir. \nZüheyr demişdir:\nلَيَأْتِيَنَّكَ مِنِّى مَنْطِقٌ قَذَعٌ … باقٍ كَمَا دَنَّسَ القُبْطِيّةَ الوَدَكُ (١)\n(Sənə məndən elə bir söyüşlü/biədəb söz gələcəkdir ki... Qalan, necə ki pəhriz/yağ qibti paltarını ləkələmişdir).\nOnlar qəbati (قَباطيّ) formasında cəmlənirlər.",
+ "az": "[قبط]\nQaf, ba və ta hərfləri səhih bir əsasdır. İbn Dürəyd (٤) demişdir: القَبْط:\nbir şeyi əlinlə toplamaqdır. Deyilir: قَبَطْتُه أَقْبِطُه قَبْطا. O demişdir: القُبَّاط (٥) — yəni التَّاطف (bir şirniyyat növü) — də bundan adlandırılmışdır və bu, səhih ərəbcədir.\nBu fəsildən olmayan söz: القِبط (Misir əhalisi); onlara nisbət edildikdə قِبطيٌّ deyilir. الثِّياب القُبطيّةُ (qubti paltarlar) isə ehtimal ki, məhz bunlara nisbət edilir, lakin fərqləndirmək üçün qaf hərfi zəmmələnmişdir.\nZüheyr demişdir:\nلَيَأْتِيَنَّكَ مِنِّى مَنْطِقٌ قَذَعٌ … باقٍ كَمَا دَنَّسَ القُبْطِيّةَ الوَدَكُ (١)\n(Sənə məndən elə bir söyüşlü söz gələcək ki, ət yağının qubti parçanı ləkələdiyi kimi qalıcıdır).\nCəmi قَباطيّ formasında olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:10.325Z"
+ "ts": "2026-10-26T00:33:10.325Z",
+ "prev_az": "[قبط] (qəbət). Qaf, ba və ta hərfləri səhih bir əsasdır. İbn Dürəyd (٤) demişdir: القَبْط (əl-qəbt) — bir şeyi əlinlə toplamaqdır. Deyilir ki, قَبَطْتُهُ أَقْبِطُهُ قَبْطًا (qəbatuhu əqbituhu qəbtən). O demişdir: Əl-Qubbat (القُبَّاط) kəlməsi də bundan adlandırılmışdır, bu əlaqə isə səhih ərəbi bir sözdür.\n\nVə bu fəsildən olmayan: القِبْط (əl-qibt) — Misir əhalisi, onlara nisbət edildikdə قِبْطِيٌّ (qibtiyyun) denilir. القُبْطِيَّةُ (əl-qubtiyyətu) paltarları isə ehtimal ki, məhz bu adamlara nisbət edilir, lakin fərqlənmək üçün qaf hərfi zəmmələnmişdir. \nZüheyr demişdir:\nلَيَأْتِيَنَّكَ مِنِّى مَنْطِقٌ قَذَعٌ … باقٍ كَمَا دَنَّسَ القُبْطِيّةَ الوَدَكُ (١)\n(Sənə məndən elə bir söyüşlü/biədəb söz gələcəkdir ki... Qalan, necə ki pəhriz/yağ qibti paltarını ləkələmişdir).\nOnlar qəbati (قَباطيّ) formasında cəmlənirlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«التَّاطف» (şirniyyat növü) sözü yanlış olaraq «bu əlaqə» kimi tərcümə edilib.",
+  "Züheyrin beytində «الوَدَكُ» (piy, ət yağı) sözü yanlış olaraq «pəhriz/yağ» kimi tərcümə edilib."
+ ],
+ "review_ts": "2026-11-25T00:58:36.591Z"
 }

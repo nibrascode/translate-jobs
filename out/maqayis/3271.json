@@ -11,7 +11,17 @@
   "page_to": 61
  },
  "ar": "القاف والحاء والميم أصلٌ صحيحٌ يدلُّ على تورُّدِ الشيءِ بأدنى جفاء وإقدام. يقال: قَحَمَ في الأمور قُحُوماً: رمَى بنفسه فيها من غير دُرْبة. وقُحَمُ [الطَّرِيق (٢)]: مصاعبه. ويقال: إنَّ المَقاحِيمَ من الإبل: التي تَقْتَحِمُ الشَّوْلَ من غير إرسال. والقَحْم: البَعير يُثْنِي ويُرْبِعُ في سنةٍ واحدة، فيُقْحِم سِنًّا على سنّ.\nوقَحَّم الفَرَسُ فارسَه على وجهه، إذا رَماه. ويقولون: «إنَّ للخُصومة قُحَماً» أي إنَّها تقحِّم بصاحبها على ما لا يَهواه. والقُحْمة: السَّنة تُقحِم الأعرابَ بلادَ الرِّيف.",
- "az": "[قحم] «قاف», «حاء» və «ميم» azacıq kobudluq və cəsarətlə bir işə girişməyə dəlalət edən səhih bir kökdür. Deyilir: قَحَمَ في الأمور قُحُوماً (təcrübəsiz olaraq işlərə özünü atdı). Qücəmü [الطَّرِيق (iki)] — yolun çətinlikləri. Deyilir ki, dəvələrdən olan «المَقاحِيم» — otlağa buraxılmadan şöul dəvələrinin üzərinə soxulanlardır. «القَحْم» — bir ildə iki və dörd dişini çıxarıb bir yaşı digərinə qatan dəvədir. Və قَحَّم الفَرَسُ فارسَه على وجهه (at minicisini üzüstə yerə atdı). Və deyirlər: «إنَّ للخُصومة قُحَماً» (həqiqətən, mübahisənin çətinlikləri vardır), yəni o, sahibini istəmədiyi şeylərə sürükləyir. «القُحْمة» — bədəvi arablarını çöl, məhsuldar torpaqların diyarlarına soxuşduran il.",
+ "az": "[قحم] «قاف», «حاء» və «ميم» azacıq kobudluq və cəsarətlə bir işə girişməyə dəlalət edən səhih bir kökdür. Deyilir: «قَحَمَ في الأمور قُحُوماً» (təcrübəsiz olaraq işlərə özünü atdı). «وقُحَمُ [الطَّرِيق (٢)]» — yolun çətinlikləridir. Deyilir ki, dəvələrdən olan «المَقاحِيم» — otlağa buraxılmadan şöul dəvələrinin üzərinə soxulanlardır. «القَحْم» — bir ildə iki və dörd dişini çıxarıb bir yaşı digərinə qatan dəvədir.\n«وقَحَّم الفَرَسُ فارسَه على وجهه» (at minicisini üzüstə yerə atdıqda deyilir). Deyirlər: «إنَّ للخُصومة قُحَماً» (həqiqətən, mübahisənin çətinlikləri vardır), yəni o, sahibini istəmədiyi şeylərə sürükləyər. «القُحْمة» — bədəviləri məhsuldar torpaqların diyarlarına soxulmağa məcbur edən quraqlıq ilidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.341Z"
+ "ts": "2026-10-26T00:33:48.341Z",
+ "prev_az": "[قحم] «قاف», «حاء» və «ميم» azacıq kobudluq və cəsarətlə bir işə girişməyə dəlalət edən səhih bir kökdür. Deyilir: قَحَمَ في الأمور قُحُوماً (təcrübəsiz olaraq işlərə özünü atdı). Qücəmü [الطَّرِيق (iki)] — yolun çətinlikləri. Deyilir ki, dəvələrdən olan «المَقاحِيم» — otlağa buraxılmadan şöul dəvələrinin üzərinə soxulanlardır. «القَحْم» — bir ildə iki və dörd dişini çıxarıb bir yaşı digərinə qatan dəvədir. Və قَحَّم الفَرَسُ فارسَه على وجهه (at minicisini üzüstə yerə atdı). Və deyirlər: «إنَّ للخُصومة قُحَماً» (həqiqətən, mübahisənin çətinlikləri vardır), yəni o, sahibini istəmədiyi şeylərə sürükləyir. «القُحْمة» — bədəvi arablarını çöl, məhsuldar torpaqların diyarlarına soxuşduran il.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وقُحَمُ الطَّرِيقِ» ərəb qrafikası ilə saxlanılmayıb, «Qücəmü» kimi yazılmış və haşiyə rəqəmi (٢) sözlə «(iki)» kimi dəyişdirilmişdir.",
+  "«الأعرابَ» sözü «bədəvi arablarını» kimi səhv tərcümə olunub («bədəviləri» olmalıdır)."
+ ],
+ "review_ts": "2026-11-25T01:30:50.740Z"
 }

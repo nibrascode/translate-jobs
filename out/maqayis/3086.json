@@ -11,9 +11,18 @@
   "page_to": 482
  },
  "ar": "الفاء والدال والشين ليس فيه إلاَّ [طريفة] من طرائف.\nابن دريد (٢)، قال: فدشت الشَّئ، إذا شدختَه. وفدشْتُ رأسَه بالحجَر.",
- "az": "«فدش» (fə-d-ş): Fə, dal və şin hərflərində İbn Düridin (٢) nadir sözlərindən başqa heç nə yoxdur. O demişdir: «فدشت الشَّئ» (fədəştüş-şey) - bir şeyi əzdin. Və «فدشْتُ رأسَه بالحجَر» (daşla onun başını əzdim).",
+ "az": "[فدش]\nFa, dal və şin hərflərində İbn Düreydin (٢) nadir sözlərindən başqa heç nə yoxdur.\nO demişdir: فدشت الشَّئ (bir şeyi əzdin) — əgər onu əzmisənsə. Və فدشْتُ رأسَه بالحجَر (daşla onun başını əzdim).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:26:21.849Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«فدش» (fə-d-ş): Fə, dal və şin hərflərində İbn Düridin (٢) nadir sözlərindən başqa heç nə yoxdur. O demişdir: «فدشت الشَّئ» (fədəştüş-şey) - bir şeyi əzdin. Və «فدشْتُ رأسَه بالحجَر» (daşla onun başını əzdim).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[فدش]» formatında verilməyib.",
+  "«İbn Düreyd» adı «İbn Dürid» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-25T00:43:17.578Z"
 }

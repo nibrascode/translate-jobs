@@ -11,7 +11,17 @@
   "page_to": 31
  },
  "ar": "القاف والنون والدال كلمتانِ زعَمُوا أنهما صحيحتان. قالوا:\nالقَنْد عربىٌّ. يقولون: سَوِيقٌ مَقْنُود ومُقَنَّد. والكلمةُ الأخرى القِنْدأوَة، قالوا:\nهو السيِّئ الخُلْقُ.",
- "az": "«قند» — قاف، نun və dal hərfləri onların səhih olduğunu iddia etdiyi iki kəlmədir. Dedilər: «القَنْد» (əl-qand) ərəbcədir. Deyirlər: «سَوِيقٌ مَقْنُود ومُقَنَّد» (Məqnud və muqənnəd səviq - şəkər qatılmış un yeməyi). Digər kəlmə isə «القِنْدأوَة» (əl-qindaəh) sözüdür, dedilər: O, xasiyyəti pis olan adamdır.",
+ "az": "[قند] Qaf, nun və dal onların səhih olduğunu iddia etdiyi iki kəlmədir. Dedilər: القَنْد (qamış şəkəri) ərəbcədir. Deyirlər: سَوِيقٌ مَقْنُود ومُقَنَّد (şəkər qatılmış qovut). Digər kəlmə isə القِنْدأوَة (pis xasiyyətli adam) sözüdür; dedilər: o, xasiyyəti pis olan adamdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:04.973Z"
+ "ts": "2026-10-26T00:32:04.973Z",
+ "prev_az": "«قند» — قاف، نun və dal hərfləri onların səhih olduğunu iddia etdiyi iki kəlmədir. Dedilər: «القَنْد» (əl-qand) ərəbcədir. Deyirlər: «سَوِيقٌ مَقْنُود ومُقَنَّد» (Məqnud və muqənnəd səviq - şəkər qatılmış un yeməyi). Digər kəlmə isə «القِنْدأوَة» (əl-qindaəh) sözüdür, dedilər: O, xasiyyəti pis olan adamdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub və hərf adları ərəbcə-azərbaycanca qarışıq yazılıb.",
+  "«القَنْد» sözünün Azərbaycan dilində mənası verilməyib."
+ ],
+ "review_ts": "2026-11-25T00:50:42.889Z"
 }

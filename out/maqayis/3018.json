@@ -11,9 +11,20 @@
   "page_to": 457
  },
  "ar": "الفاء والهاء والقاف أصلٌ صحيح يدلُّ على سَعَةٍ وامتلاء.\nمن ذلك الفَهْق: الامتلاء. يقال: أفهَقْت الكأسَ، إذا ملأتَها. و\nفى الحديث:\n«إن أبغضَكم إلىَّ الثّرثارُون المتفيهِقُون». واحدهم مُتفيهِق. وفى الذى يفهق كلامه ويَملأُ به فمَه قال الأعشى:\nتَروحُ على آلِ المُحلِّق جَفنةٌ … كجابيةِ الشَّيخ العراقىِّ تَفهقُ (٣)\nقال الخليل: الفَيْهق: الواسعُ من كلِّ شئ، حتى يقالُ مفازةٌ فيهق قال:\nومُنفَهق الوادى: متَّسَعه.\nومما شذَّ عن هذا الأصل: الفَهْقَة: عظمٌ عند فائق الرَّأس (١) مشرفٌ على اللَّهاة.",
- "az": "«فهق» (fəhəq): Fə, hə və qaf hərfləri genişliyə və dolğunluğa dəlalət edən səhih bir əsasdır.\nBunlardan biri «الفَهْق» (fəhəq) — doluluqdur. Deyilir: «أفهَقْت الكأسَ» (əfhəqtü əl-kəqsə), yəni qədəhi doldurdun.\nHədisdə belə gəlmişdir:\n«إن أبغضَكم إلىَّ الثّرثارُون المتفيهِقُون» (Sənin yanınızda mənə ən mənfur olanlar sözü uzadanlar və təkəbbürlə danışanlardır).\nBunların təkli «مُتفيهِق» (mütəfihiq) verir. Danışarkən ağzını doldurub şişirdən kimsə haqqında Əşəy şeir demişdir:\nTəruhu alə ali əl-mühəlliqi cəfnatun … kə-cabiyati əş-şeyhi əl-iraqiyyi təfhəqu (٣)\n(Mühəlliq ailəsinə elə bir böyük kasa gəlir ki, dolub-daşan iraqlı qocanın hovuzu kimidir...)\nXəlil demişdir: «الفَيْهق» (fəyhəq) — hər şeyin genişi deməkdir, hətta «مفازَةٌ فيهق» (məfazatun fəyhəq) – geniş səhra deyilir. O dedi:\nVə «مُنفَهق الوادى» (münfəhəq əl-vadi): vadinin genişlənən yeri.\nBu əsasdan istisna olan sözlərdən biri: «الفَهْقَة» (fəhəqə) — başın uca nöqtəsində (١), kiçik dilin üzərində ucalan sümükdür.",
+ "az": "[فهق]\\nFa, ha və qaf hərfləri genişliyə və dolğunluğa dəlalət edən səhih bir əsasdır.\\nBunlardan biri الفَهْق (fəhq — doluluq)dur. Deyilir: أفهَقْت الكأسَ (qədəhi doldurdun), yəni qədəhi doldurdun. Və\\nHədisdə belə gəlmişdir:\\n«إن أبغضَكم إلىَّ الثّرثارُون المتفيهِقُون» (Sizlərdən mənə ən mənfur olanlar çox danışanlar və ağzını doldura-doldura təkəbbürlə danışanlardır). Bunların təki مُتفيهِق (mütəfeyhiq)dir. Danışarkən sözünü şişirdib ağzını dolduran kimsə haqqında Əşa belə demişdir:\\nتَروحُ على آلِ المُحلِّق جَفنةٌ … كجابيةِ الشَّيخ العراقىِّ تَفهقُ (٣)\\n(Mühəlliq ailəsinə axşamüstü elə bir böyük kasa gəlir ki, iraqlı qocanın dolub-daşan hovuzu kimidir).\\nXəlil demişdir: الفَيْهق (feyhəq) — hər şeyin genişi deməkdir, hətta مفازةٌ فيهق (geniş səhra) deyilir. O dedi:\\nVə مُنفَهق الوادى (vadinin genişlənən yeri): vadinin genişləndiyi yerdir.\\nBu əsasdan istisna olan sözlərdən biri: الفَهْقَة (fəhqə) — başın ən hündür nöqtəsində (١), kiçik dilin üzərində yerləşən sümükdür.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:25:06.106Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«فهق» (fəhəq): Fə, hə və qaf hərfləri genişliyə və dolğunluğa dəlalət edən səhih bir əsasdır.\nBunlardan biri «الفَهْق» (fəhəq) — doluluqdur. Deyilir: «أفهَقْت الكأسَ» (əfhəqtü əl-kəqsə), yəni qədəhi doldurdun.\nHədisdə belə gəlmişdir:\n«إن أبغضَكم إلىَّ الثّرثارُون المتفيهِقُون» (Sənin yanınızda mənə ən mənfur olanlar sözü uzadanlar və təkəbbürlə danışanlardır).\nBunların təkli «مُتفيهِق» (mütəfihiq) verir. Danışarkən ağzını doldurub şişirdən kimsə haqqında Əşəy şeir demişdir:\nTəruhu alə ali əl-mühəlliqi cəfnatun … kə-cabiyati əş-şeyhi əl-iraqiyyi təfhəqu (٣)\n(Mühəlliq ailəsinə elə bir böyük kasa gəlir ki, dolub-daşan iraqlı qocanın hovuzu kimidir...)\nXəlil demişdir: «الفَيْهق» (fəyhəq) — hər şeyin genişi deməkdir, hətta «مفازَةٌ فيهق» (məfazatun fəyhəq) – geniş səhra deyilir. O dedi:\nVə «مُنفَهق الوادى» (münfəhəq əl-vadi): vadinin genişlənən yeri.\nBu əsasdan istisna olan sözlərdən biri: «الفَهْقَة» (fəhəqə) — başın uca nöqtəsində (١), kiçik dilin üzərində ucalan sümükdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq '[فهق]' formatında verilməyib.",
+  "Şeir beyti ərəb qrafikası ilə verilməyib, transkripsiya ilə əvəz olunub.",
+  "Hədisdəki 'أبغضَكم إلىَّ' ifadəsi 'Sənin yanınızda mənə' kimi səhv tərcümə edilib.",
+  "Şairin adı 'Əşəy' kimi səhv yazılıb (Əşa olmalıdır)."
+ ],
+ "review_ts": "2026-11-25T00:43:15.824Z"
 }

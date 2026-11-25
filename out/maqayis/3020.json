@@ -11,9 +11,20 @@
   "page_to": 457
  },
  "ar": "الفاء والواو والتاء أُصَيلٌ صحيح يدلُّ على خلافِ إدراكِ الشَّئِ والوصولِ إليه. يقال: فاته الشَّئُ فوتاً. وتفاوَتَ الشَّيئانِ: تباعَدَ ما بينهما، أى لم يُدرِك هذا ذاك. والافتيات: افتعالٌ من الفَوت، وهو السَّبق إلى الشَّئ دون الائتمار (٣) يقال: فلانٌ لا يُفْتاتُ عليه، أى لا يُعْمَل شئٌ دون أمرِه.\nومن الباب: الفَوْت: الفُرْجة بين الشَّيئين، كالفُرجة بين الإصبَعَين. والجمع أفوات. يقال: ماتَ موتَ الفَوات، إذا فَوجئَ، كأنَّه فاته ما أرادَ من وصيَّةٍ وشِبْهها. ويقال: هو منِّى فَوْتَ الرُّمح. وشَتَم رجلٌ آخرَ فقال: «جعل اللّه تعالى رزقَه فوتَ فيه»، أى حيث يراه ولا يصلُ إليه.",
- "az": "«فوت» (fəwt): Fə, vau və ta hərfləri bir şeyi dərk etməkdən və ona yetişməkdən məhrum olmağa dəlalət edən kiçik bir səhih əsasdır. Deyilir: «فاته الشَّئُ فوتاً» (fatəhü əl-şeyü fəwtən) — şey ondan yayındı, ötüb keçdi. «تَفاوَتَ الشَّيئانِ» (təfavətə əl-şeyəni) — iki şeyin arası uzaq düşdü, yəni biri o birinə çata bilmədi. «الافتيات» (əl-iftiyat) — fəwt sözündən törədilmiş olub, məsləhətləşmədən bir işə başqasından əvvəl atılmaq deməkdir (٣). Deyilir: «فلانٌ لا يُفْتاتُ عليه» (fəlanun la yüftəü aleyhi), yəni filankəsin əmri və icazəsi olmadan heç bir iş görülməz.\nBu fəsildəndir: «الفَوْت» (fəwt) — iki şey arasındakı boşluq, məsələn iki barmaq arasındakı məsafə kimi. Cəmi «أفوات» (əfwat) gəlir. Deyilir: «مَاتَ موتَ الفَوات» (matə mawtə əl-fəwt) — qəfildən, gözlənilmədən öldü, elə bil istədiyi vəsiyyəti və bənzəri şeyləri yerinə yetirə bilmədi (əlindən çıxdı). Deyilir: «هو منِّى فَوْتَ الرُّمح» (hüvə minni fəwtə əl-rumh) — o, məndən bir nizə boyu uzaqdadır. Bir kişi başqasını söğərək demişdir: «Allah Təala onun ruzisini ağzından uzaq eləsin» (yəni görəcəyi yerdə olsun, lakin ona çata bilməsin).",
+ "az": "[فوت]\\nFa, vav və ta hərfləri bir şeyi əldə etməyin və ona çatmağın əksinə dəlalət edən kiçik bir səhih əsasdır. Deyilir: فاته الشَّئُ فوتاً (şey ondan ötüb keçdi). وتفاوَتَ الشَّيئانِ (iki şeyin arası uzaqlaşdı), yəni bu ona çatmadı. والافتيات (iftiyat) — الفَوت (fəvt) kökündən «iftial» vəznindədir və məsləhətləşmədən bir işə qabaqcadan əl atmaq deməkdir (٣). Deyilir: فلانٌ لا يُفْتاتُ عليه (filankəsin icazəsi olmadan iş görülməz), yəni onun əmri olmadan heç bir iş görülməz.\\nBu babdandır: الفَوْت (fəvt) — iki şey arasındakı aralıq, məsələn iki barmaq arasındakı aralıq kimi. Cəmi أفوات (əfvat) gəlir. Deyilir: ماتَ موتَ الفَوات (qəflətən öldü), yəni qəfildən öldü, elə bil istədiyi vəsiyyət və bənzəri şeylər əlindən çıxdı. Deyilir: هو منِّى فَوْتَ الرُّمح (o, məndən bir nizə məsafəsi qədər uzaqdadır). Bir kişi başqasını söyərək demişdir: «جعل اللّه تعالى رزقَه فوتَ فيه» (Allah-Taala onun ruzisini ağzından kənarda etsin), yəni görə biləcəyi, lakin çata bilməyəcəyi yerdə etsin.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:25:06.106Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«فوت» (fəwt): Fə, vau və ta hərfləri bir şeyi dərk etməkdən və ona yetişməkdən məhrum olmağa dəlalət edən kiçik bir səhih əsasdır. Deyilir: «فاته الشَّئُ فوتاً» (fatəhü əl-şeyü fəwtən) — şey ondan yayındı, ötüb keçdi. «تَفاوَتَ الشَّيئانِ» (təfavətə əl-şeyəni) — iki şeyin arası uzaq düşdü, yəni biri o birinə çata bilmədi. «الافتيات» (əl-iftiyat) — fəwt sözündən törədilmiş olub, məsləhətləşmədən bir işə başqasından əvvəl atılmaq deməkdir (٣). Deyilir: «فلانٌ لا يُفْتاتُ عليه» (fəlanun la yüftəü aleyhi), yəni filankəsin əmri və icazəsi olmadan heç bir iş görülməz.\nBu fəsildəndir: «الفَوْت» (fəwt) — iki şey arasındakı boşluq, məsələn iki barmaq arasındakı məsafə kimi. Cəmi «أفوات» (əfwat) gəlir. Deyilir: «مَاتَ موتَ الفَوات» (matə mawtə əl-fəwt) — qəfildən, gözlənilmədən öldü, elə bil istədiyi vəsiyyəti və bənzəri şeyləri yerinə yetirə bilmədi (əlindən çıxdı). Deyilir: «هو منِّى فَوْتَ الرُّمح» (hüvə minni fəwtə əl-rumh) — o, məndən bir nizə boyu uzaqdadır. Bir kişi başqasını söğərək demişdir: «Allah Təala onun ruzisini ağzından uzaq eləsin» (yəni görəcəyi yerdə olsun, lakin ona çata bilməsin).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq '[فوت]' formatında verilməyib.",
+  "'جعل اللّه تعالى رزقَه فوتَ فيه' cümləsinin ərəb mətni buraxılıb.",
+  "'söyərək' sözü 'söğərək' kimi səhv yazılıb.",
+  "Ərəbcə sitatların yazılışında hərəkə dəyişiklikləri edilib və hərf adı 'vau' kimi verilib."
+ ],
+ "review_ts": "2026-11-25T00:43:15.824Z"
 }

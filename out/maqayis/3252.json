@@ -13,5 +13,10 @@
  "ar": "القاف والباء والنون. يقولون: قَبَن في الأرض: ذهب.\nوحمار قَبَّان: دويْبّة.",
  "az": "[قبن] (qəb-n): Qaf, ba və nun. Deyirlər ki: [قَبَن في الأرض] (qəbən fil-ərd) – yerə gedib çıxdı (getdi). [وحمار قَبَّان] (və himəru qəbbən) – kiçik bir həşəratdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:30.096Z"
+ "ts": "2026-10-26T00:33:30.096Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-25T01:09:51.421Z"
 }

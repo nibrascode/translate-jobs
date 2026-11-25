@@ -11,7 +11,17 @@
   "page_to": 32
  },
  "ar": "القاف والنون والصاد كلمةٌ واحدةٌ تدلُّ على الصَّيد قَطْ.\nفالقَانِص: الصَّائد. والقَنَص: الصَّيد. والقَنْص: فِعْل القَانِص. قال ابن دُريد:\nالقَنيص: الصائد (٢). وبَنُو قَنَص بن مَعدّ: قومٌ دَرَجُوا.",
- "az": "«قنص» — قاف، نun və sad hərfləri məhz ov etməyə dəlalət edən bir kəlmədir.\n«القَانِص» (əl-qanis) — ovçudur. «القَنَصُ» (əl-qanas) — ovdur. «القَنْصُ» (əl-qans) — ovçunun əməlidir. İbn Dürid demişdir: «القَنيص» (əl-qaniq/əl-qaniis) — ovçudur. «بَنُو قَنَص بن مَعدّ» (Bənu Qanəsq ibn Məədd) — nəsli kəsilmiş bir tayfadır.",
+ "az": "[قنص] Qaf, nun və sad məhz ov etməyə dəlalət edən tək bir kəlmədir.\\nالقَانِص (ovçu) — الصَّائد (ovçu) deməkdir. القَنَص (ov) — الصَّيد (ov) deməkdir. القَنْص (ovlamaq) — ovçunun əməlidir. İbn Dureyd demişdir: القَنيص (ovçu) — ovçudur (٢). بَنُو قَنَص بن مَعدّ (Qanas ibn Məədd oğulları) nəsli kəsilmiş bir tayfadır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:04.973Z"
+ "ts": "2026-10-26T00:32:04.973Z",
+ "prev_az": "«قنص» — قاف، نun və sad hərfləri məhz ov etməyə dəlalət edən bir kəlmədir.\n«القَانِص» (əl-qanis) — ovçudur. «القَنَصُ» (əl-qanas) — ovdur. «القَنْصُ» (əl-qans) — ovçunun əməlidir. İbn Dürid demişdir: «القَنيص» (əl-qaniq/əl-qaniis) — ovçudur. «بَنُو قَنَص بن مَعدّ» (Bənu Qanəsq ibn Məədd) — nəsli kəsilmiş bir tayfadır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı pozulub və hərf adları ərəbcə-azərbaycanca qarışıq yazılıb.",
+  "Haşiyə rəqəmi (٢) buraxılıb, transkripsiyalarda kobud səhvlər var və ərəbcə sözlərə əlavə hərəkə qoyulub."
+ ],
+ "review_ts": "2026-11-25T00:50:42.889Z"
 }

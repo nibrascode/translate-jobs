@@ -11,7 +11,19 @@
   "page_to": 48
  },
  "ar": "القاف والباء والسين أصلٌ صحيحٌ يدلُّ على صفةٍ من صفات النَّار، ثمَّ يستعار. من ذلك القَبَس: شُعْلَةُ النَّار. قال اللّه تعالى فى قِصَّة موسى ﵇: ﴿لَعَلِّي آتِيكُمْ مِنْها بِقَبَسٍ﴾. ويقولون: أَقْبَسْتُ الرّجُلَ عِلماً، وقَبَسْتُه ناراً.\nقال ابنُ دريد (٢): قَبَسْتُ من فلانٍ ناراً، واقتَبَسْتُ منه علماً، وأَقْبَسَنِي قَبَساً.\nومن هذا القياس قولهم: فَحْلٌ قَبِيسٌ، وذلك إذا كان سريعَ الإلقاح، كأنَّهُ شُبِّهَ بِشُعْلَةِ النّار. قال:\n* فَأُمٌّ لَقْوَةٌ وأبٌ قَبِيسُ (٣) *\nفأمَّا القِبْس فيقال إنّه الأصل.",
- "az": "[قبس] (qəbəs). Qaf, ba və sin hərfləri od sifətlərindən bir sifətə dəlalət edən, daha sonra isə məcazi mənada işlənən səhih bir əsasdır. \nBunlardan biri القَبَس (əl-qəbəs) — alov şöləsi. Uca Allah Musa əleyhissalamın qissəsində buyurmuşdur: مənaca tərcümə: ﴿لَعَلِّي آتِيكُمْ مِنْها بِقَبَسٍ﴾ (Bəlkə mən sizə ondan bir şölə gətirərəm). Onlar deyirlər: أَقْبَسْتُ الرَّجُلَ عِلْمًا (əqbəstur-raculə ilmən) — kişiyə elm öyrətdim (öqtəbəs etdirdim), وَقَبَسْتُهُ نَارًا (və qəbəstuhu naran) — ona od verdim/yandırdım.\nİbn Dürəyd (٢) demişdir: Falandan od götürdüm (قَبَسْتُ), ondan elm əldə etdim (اقتَبَسْتُ) və o mənə od şöləsi verdi (أَقْبَسَنِي قَبَسًا).\n\nVə bu qiyasdandır onların: فَحْلٌ قَبِيسٌ (fəhlun qəbisun) — bu o zaman olur ki, o, od şöləsinə bənzədilmiş kimi sürətlə mayalandıran (damazlıq) olsun. (Şair) demişdir:\n* فَأُمٌّ لَقْوَةٌ وأبٌ قَبِيسُ (٣) *\n(Ana ləqvə, ata isə qəbisdir).\n\nQİBS (القِبْس) kəlməsinə gəldikdə isə, deyilir ki, o, əslidir.",
+ "az": "[قبس]\nQaf, ba və sin hərfləri od sifətlərindən bir sifətə dəlalət edən, daha sonra isə məcazi mənada işlənən səhih bir əsasdır. Bunlardan biri القَبَس (alov şöləsi) sözüdür. Uca Allah Musa əleyhissalamın qissəsində buyurmuşdur: ﴿لَعَلِّي آتِيكُمْ مِنْها بِقَبَسٍ﴾ (mənaca tərcümə: «Bəlkə mən sizə ondan bir od şöləsi gətirərəm»). Onlar deyirlər: أَقْبَسْتُ الرّجُلَ عِلماً (kişiyə elm öyrətdim), وقَبَسْتُه ناراً (ona od verdim).\nİbn Dürəyd (٢) demişdir: قَبَسْتُ من فلانٍ ناراً (falandan od götürdüm), واقتَبَسْتُ منه علماً (ondan elm əldə etdim) və أَقْبَسَنِي قَبَساً (o mənə od şöləsi verdi).\nBu qiyasdandır onların فَحْلٌ قَبِيسٌ (tez mayalandıran erkək heyvan) demələri; bu, sürətlə mayalandırdığı zaman işlənir, sanki od şöləsinə bənzədilmişdir. (Şair) demişdir:\n* فَأُمٌّ لَقْوَةٌ وأبٌ قَبِيسُ (٣) *\n(Ana tez boylanan, ata isə tez mayalandırandır).\nالقِبْس sözünə gəldikdə isə, deyilir ki, o, əsldir (kök, mənşədir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:10.325Z"
+ "ts": "2026-10-26T00:33:10.325Z",
+ "prev_az": "[قبس] (qəbəs). Qaf, ba və sin hərfləri od sifətlərindən bir sifətə dəlalət edən, daha sonra isə məcazi mənada işlənən səhih bir əsasdır. \nBunlardan biri القَبَس (əl-qəbəs) — alov şöləsi. Uca Allah Musa əleyhissalamın qissəsində buyurmuşdur: مənaca tərcümə: ﴿لَعَلِّي آتِيكُمْ مِنْها بِقَبَسٍ﴾ (Bəlkə mən sizə ondan bir şölə gətirərəm). Onlar deyirlər: أَقْبَسْتُ الرَّجُلَ عِلْمًا (əqbəstur-raculə ilmən) — kişiyə elm öyrətdim (öqtəbəs etdirdim), وَقَبَسْتُهُ نَارًا (və qəbəstuhu naran) — ona od verdim/yandırdım.\nİbn Dürəyd (٢) demişdir: Falandan od götürdüm (قَبَسْتُ), ondan elm əldə etdim (اقتَبَسْتُ) və o mənə od şöləsi verdi (أَقْبَسَنِي قَبَسًا).\n\nVə bu qiyasdandır onların: فَحْلٌ قَبِيسٌ (fəhlun qəbisun) — bu o zaman olur ki, o, od şöləsinə bənzədilmiş kimi sürətlə mayalandıran (damazlıq) olsun. (Şair) demişdir:\n* فَأُمٌّ لَقْوَةٌ وأبٌ قَبِيسُ (٣) *\n(Ana ləqvə, ata isə qəbisdir).\n\nQİBS (القِبْس) kəlməsinə gəldikdə isə, deyilir ki, o, əslidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Quran ayəsində «مənaca tərcümə:» ifadəsi kiril «م» hərfi ilə yazılıb və ayədən əvvələ qoyulub.",
+  "«أَقْبَسْتُ الرّجُلَ عِلماً» və «قَبَسْتُه ناراً» ifadələrinin tərcüməsində anlaşılmaz «öqtəbəs etdirdim» və yanlış «yandırdım» sözləri işlədilib.",
+  "Şeir beytindəki «لَقْوَةٌ» və «قَبِيسُ» sözləri tərcüməsiz saxlanılıb.",
+  "«القِبْس» sözü böyük hərflərlə «QİBS» kimi verilib və «الأصل» sözünün tərcüməsi («əslidir») qrammatik cəhətdən qeyri-dəqiqdir."
+ ],
+ "review_ts": "2026-11-25T00:58:36.590Z"
 }

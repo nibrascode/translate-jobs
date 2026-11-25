@@ -11,9 +11,19 @@
   "page_to": 482
  },
  "ar": "الفاء والدال والعين أصلٌ فيه كلمة واحدة، وهى الفَدَع:\nعِوَجٌ فى المفاصل، كأنَّها قد زالت عن أماكنها. ويقولون: كلُّ ظليم أفدع، وذلك أنَّ فى مفاصله انحرافاً. ويقال بل الفدَع: انقلابُ الكفِّ إلى إنسيِّها، يقال منه: فَدِعَ يفدَع فَدَعاً.",
- "az": "«فدع» (fə-d-ə): Fə, dal və eyn hərflərində tək bir kəlmə olan bir əsas vardır, o da «الفَدَع» (fədəc) - oynaqlarda olan, elə bil yerindən çıxmış kimi görünən əyrilikdir. Deyirlər ki, hər bir dəvəquşu «أفدع» (əfdəc) - əyridağlıqdır, çünki onun oynaqlarında əyrilik vardır. Deyirlər ki, əksinə, fədəc - ovcunun iç tərəfə doğru burulmasıdır, bundan «فَدِعَ يفدَع فَدَعاً» (fədiə yəfdəu fədəən) feili düzəlir.",
+ "az": "[فدع]\nFa, dal və ayn hərflərində tək bir kəlmə olan bir əsas vardır, o da الفَدَع (oynaqlarda olan, elə bil yerindən çıxmış kimi görünən əyrilik)dir. Deyirlər ki, hər bir erkək dəvəquşu أفدع (oynaqları əyri)dir, çünki onun oynaqlarında əyrilik vardır. Deyilir ki, əksinə, الفدَع (ovcun iç tərəfə doğru burulması)dır; bundan فَدِعَ يفدَع فَدَعاً feili düzəlir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:26:21.849Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«فدع» (fə-d-ə): Fə, dal və eyn hərflərində tək bir kəlmə olan bir əsas vardır, o da «الفَدَع» (fədəc) - oynaqlarda olan, elə bil yerindən çıxmış kimi görünən əyrilikdir. Deyirlər ki, hər bir dəvəquşu «أفدع» (əfdəc) - əyridağlıqdır, çünki onun oynaqlarında əyrilik vardır. Deyirlər ki, əksinə, fədəc - ovcunun iç tərəfə doğru burulmasıdır, bundan «فَدِعَ يفدَع فَدَعاً» (fədiə yəfdəu fədəən) feili düzəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[فدع]» formatında verilməyib.",
+  "«أفدع» sözü «əyridağlıqdır» kimi mənasız sözlə tərcümə edilib və «ظليم» (erkək dəvəquşu) sözündə «erkək» məqamı buraxılıb.",
+  "«الفَدَع» və «أفدع» sözlərinin transkripsiyasında «ع» hərfi səhvən «c» kimi verilib."
+ ],
+ "review_ts": "2026-11-25T00:43:17.579Z"
 }

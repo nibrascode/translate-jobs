@@ -11,9 +11,18 @@
   "page_to": 481
  },
  "ar": "الفاء والخاء والتاء كلمة، وهى الفَخْت، ويقولون: إنَّه ضوء القمرِ أوّلَ ما يبدو منه. ومنه اشتقاق الفاختة، للونها.",
- "az": "«فخت» (fə-x-t): Fə, xə və ta hərfləri bir kəlmədir, o da «الفَخْت» (fəxt) - ayın ilk göründüyü vaxtdakı işığıdır. Quş növü olan «الفاختة» (fahizə) rənginə görə bundan törəmişdir.",
+ "az": "[فخت]\nFa, xa və ta hərfləri bir kəlmədir, o da الفَخْت (ayın ilk göründüyü vaxtdakı işığı)dır. الفاختة (quş növü — qumru) rənginə görə bundan törəmişdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:26:21.849Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«فخت» (fə-x-t): Fə, xə və ta hərfləri bir kəlmədir, o da «الفَخْت» (fəxt) - ayın ilk göründüyü vaxtdakı işığıdır. Quş növü olan «الفاختة» (fahizə) rənginə görə bundan törəmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[فخت]» formatında verilməyib və «خ» hərfinin adı səhv («xə») yazılıb.",
+  "«الفاختة» sözünün transkripsiyası səhv («fahizə») verilib."
+ ],
+ "review_ts": "2026-11-25T00:43:17.577Z"
 }

@@ -14,6 +14,10 @@
  "az": "[فدن] (fədən). Fə, dal və nun bir kəlmədir; o da الْفَدَن (fədən)dir, deyirlər ki: o, saraydır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:26:44.131Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-25T00:45:27.695Z"
 }

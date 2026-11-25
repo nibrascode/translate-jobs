@@ -11,7 +11,18 @@
   "page_to": 42
  },
  "ar": "القاف والواو واللام أصلٌ واحدٌ صحيحٌ يقلُّ كلمه، وهو القَول من النُّطق. يُقال: قَالَ يَقُول قَولاً. والمِقْوَل: اللِّسان. ورجل قُوَلةٌ وقَوَّالٌ: كثير القَول. وأمّا أَقْوَال (٤) (٥).",
- "az": "[قول] «القاف» (قاف), «الواو» (واو) və «اللام» (lam) — sözləri az olan tək, səhih bir əsasdır, o da nitqdən olan «القَول» (əl-qavl - söz)dür. Deyilir: «قَالَ يَقُول قَولاً» (dedi, deyir, demək). «المِقْوَل» (əl-miqval) — dil. «رجل قُوَلةٌ وقَوَّالٌ» (quval və qavval kişi) — çox danışan. «أقْوَال» (əqval) gəldikdə isə... (4) (5).",
+ "az": "[قول] «القاف» (qaf), «الواو» (vav) və «اللام» (lam) — sözləri az olan tək, səhih bir əsasdır, o da nitqdən olan «القَول» (əl-qavl: söz)dür. Deyilir: «قَالَ يَقُول قَولاً» (dedi, deyir, demək). «المِقْوَل» (əl-miqvəl) — dil. «رجل قُوَلةٌ وقَوَّالٌ» (quvələ və qavval kişi) — çox danışan. «أَقْوَال» (əqval) gəldikdə isə (٤) (٥).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:47.283Z"
+ "ts": "2026-10-26T00:32:47.283Z",
+ "prev_az": "[قول] «القاف» (قاف), «الواو» (واو) və «اللام» (lam) — sözləri az olan tək, səhih bir əsasdır, o da nitqdən olan «القَول» (əl-qavl - söz)dür. Deyilir: «قَالَ يَقُول قَولاً» (dedi, deyir, demək). «المِقْوَل» (əl-miqval) — dil. «رجل قُوَلةٌ وقَوَّالٌ» (quval və qavval kişi) — çox danışan. «أقْوَال» (əqval) gəldikdə isə... (4) (5).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəb əlifbası ilə verilib («قاف», «واو»).",
+  "Haşiyə rəqəmləri ərəb rəqəmi ilə saxlanmayıb ((4) (5) yazılıb).",
+  "«أَقْوَال» sözündəki fəthə hərəkəsi düşüb."
+ ],
+ "review_ts": "2026-11-25T00:56:12.177Z"
 }

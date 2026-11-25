@@ -11,7 +11,18 @@
   "page_to": 42
  },
  "ar": "القاف والراء والفاء كلمةٌ، وهى من باب القَلْب وليست أصلا.\nيقولون: هو يَقُوف الأثَرَ ويَقْتافُه بمعنَى يقفو. ويقولون: أَخَذَ بقُوفَةِ قَفاه (٢)، وهو الشَّعْرَ المتدلِّى فى نُقْرة القَفا.",
- "az": "[قوف] «القاف» (قاف), «الراء» (راء) və «الفاء» (fa) — bir kəlmədir, bu, qəlibin dəyişdirilməsi (qəlb) fəslindəndir və əsl deyil.\nDeyirlər: «هو يَقُوف الأثَرَ ويَقْتافُه» (O, izi izləyir və ardınca gedir) — «يَقفو» (yiqfu) mənasındadır. Deyirlər: «أَخَذَ بقُوفَةِ قَفاه» (O, ənsəsinin çuxurundan asılan saçından tutdu) (2), bu da ənsənin çuxurunda sallanan saçdır.",
+ "az": "[قوف] «القاف» (qaf), «الراء» (ra) və «الفاء» (fa) — bir kəlmədir, o, hərflərin yerinin dəyişdirilməsi (qəlb) fəslindəndir və əsl deyil.\nDeyirlər: «هو يَقُوف الأثَرَ ويَقْتافُه» (O, izi izləyir və ardınca gedir) — «يقفو» (izləyir) mənasındadır. Deyirlər: «أَخَذَ بقُوفَةِ قَفاه» (O, ənsəsinin çuxurundakı saçından tutdu) (٢), bu da ənsənin çuxurunda sallanan saçdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:32:47.283Z"
+ "ts": "2026-10-26T00:32:47.283Z",
+ "prev_az": "[قوف] «القاف» (قاف), «الراء» (راء) və «الفاء» (fa) — bir kəlmədir, bu, qəlibin dəyişdirilməsi (qəlb) fəslindəndir və əsl deyil.\nDeyirlər: «هو يَقُوف الأثَرَ ويَقْتافُه» (O, izi izləyir və ardınca gedir) — «يَقفو» (yiqfu) mənasındadır. Deyirlər: «أَخَذَ بقُوفَةِ قَفاه» (O, ənsəsinin çuxurundan asılan saçından tutdu) (2), bu da ənsənin çuxurunda sallanan saçdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları mötərizədə ərəb əlifbası ilə verilib («قاف», «راء»).",
+  "«القَلْب» termini «qəlibin dəyişdirilməsi» kimi səhv tərcümə olunub.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə saxlanmayıb ((2) yazılıb) və «يقفو» sözünə AR-da olmayan hərəkə əlavə edilib."
+ ],
+ "review_ts": "2026-11-25T00:56:12.177Z"
 }

@@ -11,9 +11,19 @@
   "page_to": 458
  },
  "ar": "الفاء والواو والراء كلمةٌ تدلُّ على غَلَيان، ثم يقاس عليها.\nفالفَوْر: الغَلَيان. يقال: فارت القدرُ تَفورُ فَوراً. قال:\nتَفور علينا قِدرُهم فنُدِيمُها … ونَفْثَؤُها عنَّا إذا حَمْيُها غلا (١)\nوفار غضبُه، إذا جاشَ.\nوممَّا قِيس على هذا قولُهم: فَعَله من فَوْره، أى فى بدء أمرِه، قبل أنْ يسكُن.",
- "az": "«فور» (fəwr): Fə, vau və ra hərfləri qaynamağa dəlalət edən sözdür, sonra ona əsasən bənzətmələr aparılır.\n«الفَوْر» (fəwr) — qaynayışdır. Deyilir: «فارت القدرُ تَفورُ فَوراً» (fərat əl-qidrü təfuru fəwrən) — qazan qaynadı. Şair demişdir:\nTəfuru aləynə qidruhum fə-nüdimühə … və nəfsəühə annə izə hamyuhə ğalə (١)\n(Qazanları üzərimizə qaynayır, biz də onu davam etdiririk və hərarəti qaynayıb aşanda onu sərinlədib söndürürük...)\nVə «فار غضبُه» (fara ğadabüh): qəzəbi coşdu.\nBuna əsaslanaraq deyirlər: «فَعَله من فَوْره» (fəaləhü min fəwrihi) — yəni onun ilk başlanğıcında, hələ sakitləşməmişdən əvvəl bunu etdi.",
+ "az": "[فور]\\nFa, vav və ra hərfləri qaynamağa dəlalət edən bir kəlmədir, sonra ona əsasən qiyas edilir.\\nالفَوْر (fəvr) — qaynamaqdır. Deyilir: فارت القدرُ تَفورُ فَوراً (qazan qaynadı). Şair demişdir:\\nتَفور علينا قِدرُهم فنُدِيمُها … ونَفْثَؤُها عنَّا إذا حَمْيُها غلا (١)\\n(Onların qazanı üzərimizə qaynayır, biz də onu sakitləşdiririk və hərarəti qaynayanda onu özümüzdən dəf edirik).\\nVə فار غضبُه (qəzəbi coşdu), yəni coşdu.\\nBuna qiyas edilənlərdən biri də onların bu sözüdür: فَعَله من فَوْره (bunu dərhal etdi), yəni işin başlanğıcında, hələ sakitləşməmişdən əvvəl.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:25:06.106Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«فور» (fəwr): Fə, vau və ra hərfləri qaynamağa dəlalət edən sözdür, sonra ona əsasən bənzətmələr aparılır.\n«الفَوْر» (fəwr) — qaynayışdır. Deyilir: «فارت القدرُ تَفورُ فَوراً» (fərat əl-qidrü təfuru fəwrən) — qazan qaynadı. Şair demişdir:\nTəfuru aləynə qidruhum fə-nüdimühə … və nəfsəühə annə izə hamyuhə ğalə (١)\n(Qazanları üzərimizə qaynayır, biz də onu davam etdiririk və hərarəti qaynayıb aşanda onu sərinlədib söndürürük...)\nVə «فار غضبُه» (fara ğadabüh): qəzəbi coşdu.\nBuna əsaslanaraq deyirlər: «فَعَله من فَوْره» (fəaləhü min fəwrihi) — yəni onun ilk başlanğıcında, hələ sakitləşməmişdən əvvəl bunu etdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq '[فور]' formatında verilməyib.",
+  "Şeir beyti ərəb qrafikası ilə verilməyib, transkripsiya ilə əvəz olunub.",
+  "Hərf adı 'vau' kimi səhv yazılıb."
+ ],
+ "review_ts": "2026-11-25T00:43:15.825Z"
 }

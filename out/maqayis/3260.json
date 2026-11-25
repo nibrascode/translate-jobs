@@ -11,7 +11,16 @@
   "page_to": 58
  },
  "ar": "القاف والتاء والواو. يقولون: القَتْو: حُسْنُ الخدمة. وفلان يَقتُو الملوكَ: يخدُمهم. قال:\nلا … أُحسِنُ قَتْوَ الملوكِ والْخَببا (٣)\nفأمَّا المَقْتوِىُّ والمَقْتَوِينُ (٤).",
- "az": "[قتو] «قاف», «تاء» və «واو». Deyirlər: «القَتْو» — gözəl xidmət. Falan adam الملوكَ يَقتُو (hökmdarlara xidmət edir). O demişdir: لا … أُحسِنُ قَتْوَ الملوكِ والْخَببا (Mən hökmdarlara xidmət etməyi və tez qaçmağı bacarmıram) (üç). Amma «المَقْتوِىُّ» və «المَقْتَوِينُ» (dörd).",
+ "az": "[قتو] «قاف», «تاء» və «واو». Deyirlər: «القَتْو» — gözəl xidmət. فلان يَقتُو الملوكَ (falan kəs hökmdarlara xidmət edir). O demişdir:\nلا … أُحسِنُ قَتْوَ الملوكِ والْخَببا (٣)\n(Mən hökmdarlara xidmət etməyi və tez qaçmağı bacarmıram).\nAmma «المَقْتوِىُّ» və «المَقْتَوِينُ» (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.340Z"
+ "ts": "2026-10-26T00:33:48.340Z",
+ "prev_az": "[قتو] «قاف», «تاء» və «واو». Deyirlər: «القَتْو» — gözəl xidmət. Falan adam الملوكَ يَقتُو (hökmdarlara xidmət edir). O demişdir: لا … أُحسِنُ قَتْوَ الملوكِ والْخَببا (Mən hökmdarlara xidmət etməyi və tez qaçmağı bacarmıram) (üç). Amma «المَقْتوِىُّ» və «المَقْتَوِينُ» (dörd).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmləri ərəb rəqəmləri ilə (٣, ٤) saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-25T01:31:35.169Z"
 }

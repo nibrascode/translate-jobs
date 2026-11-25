@@ -11,7 +11,18 @@
   "page_to": 62
  },
  "ar": "القاف والحاء والواو كلمةٌ واحدة. يقولون: القَحْو تأسيس\nالأُقحُوان، وتقديره أُفْعُلَان، ولو جعل في دواءٍ لقيل مَقْحُوٌّ، وجمعه الأَقَاحِي (١).\nوالأُقحُوانة: موضع.",
- "az": "[قحو] «قاف», «حاء» və «واو» tək bir kəlmədir. Deyirlər: «القَحْو» — zəfəran (və ya nərgiz növü olan üqküvan) gülünün əsasıdır, çəkisi «أُفْعُلَان» kimidir, əgər dərmana qatılarsa مَقْحُوٌّ denilər, cəmi isə «الأَقَاحِي»-dir (bir). Və «الأُقحُوانة» — bir yerin adıdır.",
+ "az": "[قحو] «قاف», «حاء» və «واو» tək bir kəlmədir. Deyirlər: «القَحْو» — «الأُقحُوان» sözünün köküdür, vəzn-ölçüsü «أُفْعُلَان» kimidir, əgər dərmana qatılarsa «مَقْحُوٌّ» deyilər, cəmi isə «الأَقَاحِي»-dir (١).\n«الأُقحُوانة» — bir yerin adıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.341Z"
+ "ts": "2026-10-26T00:33:48.341Z",
+ "prev_az": "[قحو] «قاف», «حاء» və «واو» tək bir kəlmədir. Deyirlər: «القَحْو» — zəfəran (və ya nərgiz növü olan üqküvan) gülünün əsasıdır, çəkisi «أُفْعُلَان» kimidir, əgər dərmana qatılarsa مَقْحُوٌّ denilər, cəmi isə «الأَقَاحِي»-dir (bir). Və «الأُقحُوانة» — bir yerin adıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Türkiyə türkcəsində olan «denilər» sözü işlədilmişdir.",
+  "Mətnə uydurma əlavə şərh («zəfəran (və ya nərgiz növü olan üqküvan) gülünün») daxil edilmişdir.",
+  "Haşiyə rəqəmi (١) sözlə «(bir)» yazılmışdır."
+ ],
+ "review_ts": "2026-11-25T01:30:50.740Z"
 }

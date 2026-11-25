@@ -11,7 +11,16 @@
   "page_to": 60
  },
  "ar": "القاف والحاء والراء كلمةٌ واحدة، وهي القَحْر، يقال إنَّه الفحلُ المُسِنُّ على بقيّةٍ فيه وجَلَد. وقد يقال للرَّجُل. والقُحارِيَةُ مثل القَحْر.\nوامرأة قَحْرةٌ: مُسِنَّة.",
- "az": "[qحر] «قاف», «حاء» və «راء» tək bir kəlmədir, o da «القَحْر»-dür, deyilir ki, o, özündə qalan gücü və igidliyi olan yaşlı erkəkdir. Həmçinin kişiyə də deyilir. «القُحارِيَة» də «القَحْر» kimidir. Və امرأة قَحْرةٌ (yaşlı, qoca qadın).",
+ "az": "[قحر] «قاف», «حاء» və «راء» tək bir kəlmədir, o da «القَحْر»-dür, deyilir ki, o, özündə qalan gücü və igidliyi olan yaşlı erkəkdir. Həmçinin kişiyə də deyilir. «القُحارِيَة» də «القَحْر» kimidir.\nوامرأة قَحْرةٌ: مُسِنَّة (yaşlı, qoca qadın).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:33:48.341Z"
+ "ts": "2026-10-26T00:33:48.341Z",
+ "prev_az": "[qحر] «قاف», «حاء» və «راء» tək bir kəlmədir, o da «القَحْر»-dür, deyilir ki, o, özündə qalan gücü və igidliyi olan yaşlı erkəkdir. Həmçinin kişiyə də deyilir. «القُحارِيَة» də «القَحْر» kimidir. Və امرأة قَحْرةٌ (yaşlı, qoca qadın).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök mötərizəsində ərəb hərfi əvəzinə latın hərfi (q) yazılıb."
+ ],
+ "review_ts": "2026-11-25T01:31:35.170Z"
 }
