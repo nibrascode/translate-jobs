@@ -30,7 +30,6 @@ jobs:
         run: node scripts/review.mjs
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
           TIME_CAP_MIN: "105"
           MAX_CALLS: ${{ github.event.inputs.max_calls || '1000000000' }}
       - if: always() && steps.chk.outputs.done != '1'

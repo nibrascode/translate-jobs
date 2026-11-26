@@ -1,0 +1,46 @@
+name: words-nibras
+on:
+  schedule:
+    # Gemini gündəlik limiti 07:00 UTC-də (10:00 Riyad) yenilənir. Əsas run 07:40 UTC; GitHub planlı işləri
+    # bəzən buraxdığı üçün 13:40 və 19:40-da ehtiyat run-lar var (limit bitibsə dərhal dayanırlar).
+    - cron: "40 7,13,19 * * *"
+  workflow_dispatch:
+    inputs:
+      max_calls:
+        description: "Bir run-da maksimum model çağırışı (boş = limitsiz)"
+        required: false
+        default: ""
+      only:
+        description: "Yalnız bu kök nömrələri (vergüllə, test üçün; boş = hamısı)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: words-nibras
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/words.mjs
+        env:
+          # Bu iş üçün ayrılmış açar: GEMINI_API_KEY_2 (review artıq onu işlətmir)
+          WORDS_GEMINI_KEY: ${{ secrets.GEMINI_API_KEY_2 }}
+          TIME_CAP_MIN: "150"
+          MAX_CALLS: ${{ github.event.inputs.max_calls || '1000000000' }}
+          ONLY: ${{ github.event.inputs.only }}
+      - if: always()
+        run: node scripts/words-export.mjs
+      - if: always()
+        run: |
+          git config user.name "nibras-bot"; git config user.email "bot@nibrascode.com"
+          git add -A out/nibras data/nibras nibras-words-state.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "words: $(jq .done_roots nibras-words-state.json)/$(jq .queue_roots nibras-words-state.json) kök, $(jq '.count.verbs' out/nibras/nibras-words.json) fel, $(jq '.count.nouns' out/nibras/nibras-words.json) isim"
+            for k in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+          fi
