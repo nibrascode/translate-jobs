@@ -11,7 +11,17 @@
   "page_to": 186
  },
  "ar": "الكاف والعين والدال. يقولون: الكَعْد: الجُوالِق (٣).",
- "az": "[كعد] (kə-ِcə-də). Kaf, ayn və dal hərfləri. Deyirlər: «الكَعْد» (əl-Kəd): çuval (¹) (böyük torba).",
+ "az": "[كعد] (kə-ə-də). Kaf, ayn və dal hərfləri. Deyirlər: الكَعْد: çuval (böyük torba) (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كعد] (kə-ِcə-də). Kaf, ayn və dal hərfləri. Deyirlər: «الكَعْد» (əl-Kəd): çuval (¹) (böyük torba).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök oxunuşunda yanlış simvollar (kə-ِcə-də) işlədilmişdir.",
+  "Haşiyə rəqəmi ərəb mətnindəki kimi (٣) olmalıdır, (¹) yazılmışdır."
+ ],
+ "review_ts": "2026-11-26T14:29:36.996Z"
 }

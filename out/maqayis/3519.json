@@ -11,7 +11,19 @@
   "page_to": 183
  },
  "ar": "الكاف والشين والحرف المعتلّ أو المهموز. أمّا ما ليس بمهموزٍ فكلمة واحدة، وهي شحمةٌ مستطيلة في عُنق الضّبّ إلى فخذه، والجمع الكُشَى. قال:\nوأنتَ لو ذُقتَ الكُشَى بالأكبادْ … لَمَا تَركتَ الضَّبَّ يَعدُو بالوادْ (١)\nوأمّا المهموز فكلماتٌ لعلَّها أن تكون صحيحة. يقولون: يتكشَّأُ اللحمَ، أي يأكله وهو يابس. وكَشَأْتُ وجهَه بالسَّيف، أي ضربته. وكَشِئَ من الطعام: امتَلَأ.",
- "az": "[كشي] (kə-şə-yə). Kaf, şin və uzanan yaxud həmzəli hərf. Həmzəli olmayan sözlərə gəldikdə, bu, tək bir kəlmədir: kələtin boynundan buduna qədər uzanan piy qatı, cəmi «الكُشَى» (əl-küşa) gələr. Şair demişdir: Və əntə ləv zuqtə-l-küşə bil-əkbadi ... ləmə tərəktə-l-zəbbə yədû bil-vadi (¹) (Əgər sən ciyərlərdəki o piy qatının dadını bilsəydin... kələtin dərədə qaçmasına imkan verməzdin). Həmzəli olan sözlərə gəldikdə isə, bəlkə də səhih olan bir neçə kəlmədir. Deyirlər: «يتكشَّأُ اللحمَ» (Əti yeyir), yəni onu quru halda yeyir. «كَشَأْتُ وجهَه بالسَّيف» (Üzr istəyirəm, qılıncla onun üzünə vurdum), yəni qılıncla vurdum. «كَشِئَ من الطعام» (Yeməkdən doydu), yəni doqquzacan yeyib doydu.",
+ "az": "[كشي]\\nKaf, şin və illətli yaxud həmzəli hərf. Həmzəli olmayan sözə gəldikdə, bu, tək bir kəlmədir: kələzin boynundan buduna qədər uzanan piy qatı, cəmi الكُشَى (əl-küşa) gələr. Şair demişdir:\\nوأنتَ لو ذُقتَ الكُشَى بالأكبادْ … لَمَا تَركتَ الضَّبَّ يَعدُو بالوادْ (١)\\n(Əgər sən ciyərlərlə birlikdə o piy qatının dadını bilsəydin... kələzin dərədə qaçmasına imkan verməzdin).\\nHəmzəli olan sözlərə gəldikdə isə, bəlkə də səhih olan bir neçə kəlmədir. Deyirlər: يتكشَّأُ اللحمَ (əti yeyir), yəni onu quru halda yeyir. كَشَأْتُ وجهَه بالسَّيف (qılıncla onun üzünə vurdum), yəni vurdum. كَشِئَ من الطعام (yeməkdən doydu), yəni mədəsi tam doldu.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كشي] (kə-şə-yə). Kaf, şin və uzanan yaxud həmzəli hərf. Həmzəli olmayan sözlərə gəldikdə, bu, tək bir kəlmədir: kələtin boynundan buduna qədər uzanan piy qatı, cəmi «الكُشَى» (əl-küşa) gələr. Şair demişdir: Və əntə ləv zuqtə-l-küşə bil-əkbadi ... ləmə tərəktə-l-zəbbə yədû bil-vadi (¹) (Əgər sən ciyərlərdəki o piy qatının dadını bilsəydin... kələtin dərədə qaçmasına imkan verməzdin). Həmzəli olan sözlərə gəldikdə isə, bəlkə də səhih olan bir neçə kəlmədir. Deyirlər: «يتكشَّأُ اللحمَ» (Əti yeyir), yəni onu quru halda yeyir. «كَشَأْتُ وجهَه بالسَّيف» (Üzr istəyirəm, qılıncla onun üzünə vurdum), yəni qılıncla vurdum. «كَشِئَ من الطعام» (Yeməkdən doydu), yəni doqquzacan yeyib doydu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti ərəb qrafikası ilə saxlanılmayıb, latın transkripsiyası ilə verilib.",
+  "«كَشَأْتُ وجهَه بالسَّيف» tərcüməsinə mənbədə olmayan uydurma «Üzr istəyirəm» ifadəsi əlavə edilib.",
+  "«امتَلَأ» sözü mənasız olaraq «doqquzacan yeyib doydu» kimi tərcümə edilib.",
+  "Haşiyə rəqəmi superskriptə çevrilib."
+ ],
+ "review_ts": "2026-11-26T13:54:11.691Z"
 }

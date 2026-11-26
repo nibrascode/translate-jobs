@@ -11,7 +11,18 @@
   "page_to": 206
  },
  "ar": "اللام والعين أُصَيلٌ صحيح يدلُّ على اضطرابٍ وبَصْبَصَة (١).\nمن ذلك اللَّعْلَع: السَّراب؛ ولعلعتُه: بَصبصتُه. وتَلعلع الشَّيء: اضطرَبَ حتَّى تكسَّر. ولَعْلعَ الكلبُ: دَلَع لسانَه. وامرأة لَعَّةٌ: خفيفة. وتلعلع من الجُوع:\nتضوَّر. واللُّعَاعة: بقلَه ناعمة. وألعَّتِ الأرضُ: أنبتَتَ اللُّعَاع؛ وتلعَّيتُ:\nأخذتُ اللُّعاع. وهذه الكلمةُ الأخيرة شاذة.",
- "az": "«لع» - لام və eyn narahatlığa və quyruq bulamağa (və ya parıldamağa) dəlalət edən kiçik bir səhih əsasdır (١). Bunlardan biri «اللَّعْلَع» (əl-lələ - səhra mirvarisi, səراب) səhra mirvarisidir; onun «لعلعة» (lələləti) - parıldamasıdır. Və «تَلعلع الشَّيء» (tələləəş-şəyü) - şey qırılana qədər titrədi. Və «لَعْلَعَ الكلبُ» (lələləl-kəlbü) - it dilini bayıra çıxartdı. «امرأة لَعَّةٌ» (imraətün ləəttün) - yüngülxasiyyət qadındır. Və «تلعلع من الجُوع» (tələləə minəl-cüi) - acından fəryad qopardı, inlədi. «اللُّعَاعة» (əl-lüə-lə) - incə ot, yaşıl bitkidir. Və «ألعَّتِ الأرضُ» (ələətil-ə_rdü) - torpaq lüə-lə bitirdi; və «تلعَّيتُ» (tələəytü) - lüə-ləni yığdım. Bu sonuncu kəlmə şazdır (qaydasızdır).",
+ "az": "[لع]\nLam və ayn — titrəməyə (iztiraba) və parıldamağa dəlalət edən səhih kiçik bir əsasdır (١).\nBunlardan biri «اللَّعْلَع» (ilğım, sərab)dır; «لعلعتُه» (onun parıldaması)dır. «تَلعلع الشَّيء» (şey sınana qədər titrədi). «لَعْلعَ الكلبُ» (it dilini bayıra çıxartdı). «امرأة لَعَّةٌ» (yüngülxasiyyət qadın). «تلعلع من الجُوع» (acından fəryad qopardı, inlədi). «اللُّعَاعة» (incə, zərif göyərti, ot). «ألعَّتِ الأرضُ» (torpaq lüa — incə ot bitirdi); «تلعَّيتُ» (lüa — incə otu yığdım). Bu sonuncu kəlmə şazdır (qaydasızdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:45:46.678Z"
+ "ts": "2026-10-26T00:45:46.678Z",
+ "prev_az": "«لع» - لام və eyn narahatlığa və quyruq bulamağa (və ya parıldamağa) dəlalət edən kiçik bir səhih əsasdır (١). Bunlardan biri «اللَّعْلَع» (əl-lələ - səhra mirvarisi, səراب) səhra mirvarisidir; onun «لعلعة» (lələləti) - parıldamasıdır. Və «تَلعلع الشَّيء» (tələləəş-şəyü) - şey qırılana qədər titrədi. Və «لَعْلَعَ الكلبُ» (lələləl-kəlbü) - it dilini bayıra çıxartdı. «امرأة لَعَّةٌ» (imraətün ləəttün) - yüngülxasiyyət qadındır. Və «تلعلع من الجُوع» (tələləə minəl-cüi) - acından fəryad qopardı, inlədi. «اللُّعَاعة» (əl-lüə-lə) - incə ot, yaşıl bitkidir. Və «ألعَّتِ الأرضُ» (ələətil-ə_rdü) - torpaq lüə-lə bitirdi; və «تلعَّيتُ» (tələəytü) - lüə-ləni yığdım. Bu sonuncu kəlmə şazdır (qaydasızdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[لع]» formatı ilə başlamır.",
+  "«السَّراب» sözü səhvən «səhra mirvarisi» kimi tərcümə olunub və ərəb əlifbası ilə «سراب» sözü qarışıq yazılıb.",
+  "«أَلعَّتِ الأرضُ» transkripsiyasında «ə_rdü» şəklində pozulmuş mətn var və «اللُّعَاع» sözü tərcüməsiz saxlanılıb."
+ ],
+ "review_ts": "2026-11-26T14:33:18.779Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 206
  },
  "ar": "اللام والغين. ذكر بعضُهم: لَغْلغَ طعامَه: روَّاه بالدَّسَم.",
- "az": "«لغ» - لام və qeyn. Bəziləri zikr etmişdir: «لَغْلغَ طعامَه» (ləğləğə taaməhü) - yeməyini yağla islatdı.",
+ "az": "[لغ]\nLam və ğayn. Bəziləri zikr etmişdir: «لَغْلغَ طعامَه» (yeməyini yağla doyunca islatdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:45:46.678Z"
+ "ts": "2026-10-26T00:45:46.678Z",
+ "prev_az": "«لغ» - لام və qeyn. Bəziləri zikr etmişdir: «لَغْلغَ طعامَه» (ləğləğə taaməhü) - yeməyini yağla islatdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[لغ]» formatı ilə başlamır.",
+  "«غ» hərfinin adı «qeyn» kimi yanlış verilib, «ğayn» olmalıdır."
+ ],
+ "review_ts": "2026-11-26T14:33:18.780Z"
 }

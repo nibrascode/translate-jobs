@@ -11,7 +11,18 @@
   "page_to": 182
  },
  "ar": "الكاف والشين والميم أُصَيلٌ يدلُّ على قَطْع شيء أو قِصره.\nمن ذلك الأكشم: النَّاقص الخَلْق، ويكون ذلك في الحسب الناقص أيضاً. قال:\n* له جانبٌ وافٍ وآخرُ أكشمُ (٤) *\nوالكَشْم: قَطع الأنف باستئصال.",
- "az": "[كشم] (kə-şə-mə). Kaf, şin və mim hərfləri kiçik bir kök olub, bir şeyin kəsilməsinə və ya qısa olmasına dəlalət edir. Bunlardandır: «الأكشم» (qüsurlu/əksik): yaradılışı əksik olan, bu, həmçinin əsli-nəsəbi əksik olanlar üçün də işlədilir. Şair demişdir: * Ləhu canibun vafun və axəru əkşəmü (⁴) * (Onun bir tərəfi tam, digər tərəfi isə qüsurludur). «الكشْم» (kəsmə): burunu kökündən kəsmək.",
+ "az": "[كشم]\\nKaf, şin və mim hərfləri kiçik bir kök olub, bir şeyin kəsilməsinə və ya qısa olmasına dəlalət edir.\\nBunlardandır الأكشم (əl-əkşəm): xilqəti əksik olan; bu, həmçinin əsli-nəsəbi əksik olanlar üçün də işlədilir. Şair demişdir:\\n* له جانبٌ وافٍ وآخرُ أكشمُ (٤) *\\n(Onun bir tərəfi tam, digər tərəfi isə qüsurludur).\\nالكَشْم (əl-kəşm): burunu kökündən kəsmək.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كشم] (kə-şə-mə). Kaf, şin və mim hərfləri kiçik bir kök olub, bir şeyin kəsilməsinə və ya qısa olmasına dəlalət edir. Bunlardandır: «الأكشم» (qüsurlu/əksik): yaradılışı əksik olan, bu, həmçinin əsli-nəsəbi əksik olanlar üçün də işlədilir. Şair demişdir: * Ləhu canibun vafun və axəru əkşəmü (⁴) * (Onun bir tərəfi tam, digər tərəfi isə qüsurludur). «الكشْم» (kəsmə): burunu kökündən kəsmək.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Qaydaya zidd olaraq «yaradılışı» sözündə «yarat-» kökündən istifadə edilib.",
+  "Şeir beyti ərəb qrafikası ilə saxlanılmayıb, latın transkripsiyası ilə verilib.",
+  "Haşiyə rəqəmi superskriptə çevrilib."
+ ],
+ "review_ts": "2026-11-26T13:54:11.691Z"
 }

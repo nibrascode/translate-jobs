@@ -11,7 +11,18 @@
   "page_to": 217
  },
  "ar": "اللام والهاء والنون كلمةٌ واحدة، اللُّهْنَةُ: ما يتعجَّله الرّجُل قبل غَدَائه. وقد تَلهَّن. ويقال بل اللُّهْنة: ما يُهديه الرّجلُ إذا قَدِم من سَفَره.",
- "az": "[لهن] (ləhən) - Lam, ha və nun hərfləri tək bir kəlmədir. اللَّهْنَةُ (əl-ləhnətü): kişinin nahardan əvvəl tələsik yediyi şeydir. O, تلهَّن (tələhhən) etmişdir. Deyirlər bəlkə də əlləhnə: kişinin səfərdən qayıdarkən hədiyyə gətirdiyi şeydir.",
+ "az": "[لهن] Lam, ha və nun hərfləri tək bir kəlmədir. اللُّهْنَةُ (kişinin nahardan əvvəl tələsik yediyi şeydir). وقد تَلهَّن (nahardan əvvəl tələsik yemişdir). Deyirlər ki, əksinə, اللُّهْنة (kişinin səfərdən qayıdarkən hədiyyə gətirdiyi şeydir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:34.400Z"
+ "ts": "2026-10-26T00:46:34.400Z",
+ "prev_az": "[لهن] (ləhən) - Lam, ha və nun hərfləri tək bir kəlmədir. اللَّهْنَةُ (əl-ləhnətü): kişinin nahardan əvvəl tələsik yediyi şeydir. O, تلهَّن (tələhhən) etmişdir. Deyirlər bəlkə də əlləhnə: kişinin səfərdən qayıdarkən hədiyyə gətirdiyi şeydir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«اللُّهْنَةُ» sözünün hərəkəsi dəyişdirilərək «اللَّهْنَةُ» yazılıb.",
+  "«وقد تَلهَّن» cümləsi tərcüməsiz qalıb.",
+  "«بل» bağlayıcısı «bəlkə də» kimi yanlış tərcümə edilib."
+ ],
+ "review_ts": "2026-11-26T14:44:49.766Z"
 }

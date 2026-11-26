@@ -11,7 +11,16 @@
   "page_to": 184
  },
  "ar": "الكاف والظاء والراء كلمة. يقولون: الكُظْر: مَحَزُّ الفُرْضة في سِيَة القَوس.",
- "az": "[كظر] (kə-zə-rə). Kaf, zai və ra hərfləri bir kəlmədir. Deyirlər: «الكُظْر» (əl-kuzr): kamanın başındakı ip çəngəlinin yeri (oyuğu).",
+ "az": "[كظر]\\nKaf, za və ra hərfləri bir kəlmədir. Deyirlər: الكُظْر (əl-kuzr): kamanın başındakı ip çəngəlinin yeri (oyuğu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كظر] (kə-zə-rə). Kaf, zai və ra hərfləri bir kəlmədir. Deyirlər: «الكُظْر» (əl-kuzr): kamanın başındakı ip çəngəlinin yeri (oyuğu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ظ» hərfinin adı səhvən «zai» kimi verilib («za» olmalıdır)."
+ ],
+ "review_ts": "2026-11-26T13:54:11.693Z"
 }

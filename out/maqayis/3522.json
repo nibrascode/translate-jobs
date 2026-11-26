@@ -11,7 +11,17 @@
   "page_to": 184
  },
  "ar": "الكاف والشين والدال. يقال الكَشْد: ضرب من الحَلْب (١). واللّه أعلمُ بالصَّواب.",
- "az": "[كشد] (kə-şə-də). Kaf, şin və dal hərfləri. Deyilir: «الكَشْد» (əl-kəşd): bir növ sağım (¹) (süddür). Doğrusunu Allah bilir.",
+ "az": "[كشد]\\nKaf, şin və dal hərfləri. Deyilir: الكَشْد (əl-kəşd): bir növ sağım (sağmaq üsulu) (١). Doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كشد] (kə-şə-də). Kaf, şin və dal hərfləri. Deyilir: «الكَشْد» (əl-kəşd): bir növ sağım (¹) (süddür). Doğrusunu Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ضرب من الحَلْب» ifadəsinin tərcüməsinə mənanı təhrif edən uydurma «(süddür)» sözü əlavə edilib.",
+  "Haşiyə rəqəmi superskriptə çevrilib."
+ ],
+ "review_ts": "2026-11-26T13:54:11.692Z"
 }

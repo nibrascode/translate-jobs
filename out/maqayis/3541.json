@@ -11,7 +11,18 @@
   "page_to": 198
  },
  "ar": "اللام والهاء أُصَيلٌ يدلُّ على رِقَّة في شيء وسَخافة. من ذلك اللَّهْلَهُ: الثَّوب الرديء النَّسج، وكذلك الكلام والشِّعر. ومن ذلك اللُّهْلُه: السَّراب المطَّرد (٢). قال:\n* ومخفِقٍ مِنْ لُهْلُه ولُهْلُهِ (٣) *\nوالجمع لهالِهُ.",
- "az": "«له»\nاللام والهاء أُصَيلٌ يدلُّ على رِقَّة في شيء وسَخافة. من ذلك اللَّهْلَهُ: الثَّوب الرديء النَّسج، وكذلك الكلام والشِّعر. ومن ذلك اللُّهْلُه: السَّراب المطَّرد (٢). قال:\n* ومخفِقٍ مِنْ لُهْلُه ولُهْلُهِ (٣) *\nوالجمع لهالِهُ.\nLam və hə hərfləri kiçik bir kök olub, bir şeydə incəliyə və zəifliyə dəlalət edir. Bunlardan biri اللَّهْلَهُ (əlləhləh): toxunuşu zəif və pis olan parçadır, həmçinin söz və şeir də belədir. Və bunlardan biri də اللُّهْلُه (əllühlüh): ardıcıl səhra ilğımıdır (سراب). Şair demişdir:\n* ومخفِقٍ مِنْ لُهْلُه ولُهْلُهِ (٣) *\n(* İlğım üstünə ilğım düşən susuz səhradan *)\nCəmi isə لَهَالِهُ (ləhalih) gəlir.",
+ "az": "[له]\nLam və hə hərfləri kiçik bir kök olub, bir şeydə incəliyə və zəifliyə dəlalət edir. Bunlardan biri اللَّهْلَهُ (ləhləh): toxunuşu zəif və pis olan parçadır, həmçinin söz və şeir də belədir. Bunlardan biri də اللُّهْلُه (lühlüh): ardıcıl səhra ilğımıdır (٢). Şair demişdir:\n* ومخفِقٍ مِنْ لُهْلُه ولُهْلُهِ (٣) * (İlğım üstünə ilğım düşən susuz səhradan).\nCəmi isə لهالِهُ (ləhalih) gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:45:21.969Z"
+ "ts": "2026-10-26T00:45:21.969Z",
+ "prev_az": "«له»\nاللام والهاء أُصَيلٌ يدلُّ على رِقَّة في شيء وسَخافة. من ذلك اللَّهْلَهُ: الثَّوب الرديء النَّسج، وكذلك الكلام والشِّعر. ومن ذلك اللُّهْلُه: السَّراب المطَّرد (٢). قال:\n* ومخفِقٍ مِنْ لُهْلُه ولُهْلُهِ (٣) *\nوالجمع لهالِهُ.\nLam və hə hərfləri kiçik bir kök olub, bir şeydə incəliyə və zəifliyə dəlalət edir. Bunlardan biri اللَّهْلَهُ (əlləhləh): toxunuşu zəif və pis olan parçadır, həmçinin söz və şeir də belədir. Və bunlardan biri də اللُّهْلُه (əllühlüh): ardıcıl səhra ilğımıdır (سراب). Şair demişdir:\n* ومخفِقٍ مِنْ لُهْلُه ولُهْلُهِ (٣) *\n(* İlğım üstünə ilğım düşən susuz səhradan *)\nCəmi isə لَهَالِهُ (ləhalih) gəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı «[له]» formatında deyil.",
+  "Tərcümənin əvvəlində bütün ərəbcə mətn tərcüməsiz və artıq şəkildə təkrarlanmışdır.",
+  "«لهالِهُ» sözünün yazılışına artıq hərəkə əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T14:05:44.720Z"
 }

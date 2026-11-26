@@ -11,7 +11,17 @@
   "page_to": 219
  },
  "ar": "اللام والواو والباء كلمتانِ متباينتان، ويمكن أن يُحمل إحداهما على الأخرى.\nفالكلمة الأُولى: اللَّوْب واللُّوَاب: العطش، والفعل لابَ يَلُوبُ، وهو لائِب.\nوالكلمة الأخرى اللاَّبَة، وهي الحَرَّة، والجمع لُوبٌ (١). والذي يجمع بين الكلمتين أن الحَرَّة عطشَى، كأنّها مُحترِقة.",
- "az": "[لوب] (lub) - Lam, vav və ba hərfləri bir-birindən fərqli iki kəlmədir, lakin birini digərinə aid etmək olar. Birinci kəlmə: اللَّوْب (əl-ləvb) və اللَُّّوَاب (əl-lüvab): susuzluq, feli isə لابَ يَلُوبُ (lābə yəlubu) olub, لائِب (lâib) deməkdir. Digər kəlmə isə اللَّاْبَة (əl-lâbə) olub, qara daşlı vulkanik yer (hərrə) deməkdir, cəmi isə لُوبٌ (lub) olur (١). İki kəlməni birləşdirən cəhət odur ki, qara daşlı yer susuzdur, sanki yanmış kimidir.",
+ "az": "[لوب] Lam, vav və ba hərfləri bir-birindən fərqli iki kəlmədir və birini digərinə aid etmək olar. Birinci kəlmə: اللَّوْب və اللُّوَاب (susuzluq), feli لابَ يَلُوبُ, sifəti isə لائِب (susuz) olur. Digər kəlmə اللاَّبَة (qara daşlı vulkanik yer — الحَرَّة), cəmi isə لُوبٌ (١) olur. İki kəlməni birləşdirən cəhət odur ki, qara daşlı yer susuzdur, sanki yanmış kimidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:34.400Z"
+ "ts": "2026-10-26T00:46:34.400Z",
+ "prev_az": "[لوب] (lub) - Lam, vav və ba hərfləri bir-birindən fərqli iki kəlmədir, lakin birini digərinə aid etmək olar. Birinci kəlmə: اللَّوْب (əl-ləvb) və اللَُّّوَاب (əl-lüvab): susuzluq, feli isə لابَ يَلُوبُ (lābə yəlubu) olub, لائِب (lâib) deməkdir. Digər kəlmə isə اللَّاْبَة (əl-lâbə) olub, qara daşlı vulkanik yer (hərrə) deməkdir, cəmi isə لُوبٌ (lub) olur (١). İki kəlməni birləşdirən cəhət odur ki, qara daşlı yer susuzdur, sanki yanmış kimidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«واللُّوَاب» və «اللاَّبَة» sözlərinin ərəbcə yazılışındakı hərəkələr pozulub.",
+  "«ويمكن أن يُحمل إحداهما على الأخرى» cümləsində «و» bağlayıcısı «lakin» kimi tərcümə edilib."
+ ],
+ "review_ts": "2026-11-26T14:44:49.766Z"
 }

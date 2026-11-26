@@ -11,7 +11,16 @@
   "page_to": 185
  },
  "ar": "الكاف والعين والميم أصلٌ صحيح يدلُّ على سَدِّ شيء بشيء وإمساك. فالكِعَام: شيءٌ يُجعَل في فم البعير فلا يَرغُو. ويقال: كَعَمه فهو مكعوم. وتقول: كَعَمه الخَوفُ فلا يَنطِق. قال ذو الرُّمَّة:\n* يَهْمَاءَ خابطها بالخَوْف مكعومُ (١) *\nومن الباب: كَعَم الرّجلُ المرأةَ، إذا قبَّلَها ملتقمًا فاها، كأنَّه سدّ فاها يقية.\nوالكِعْم: وعاءٌ من الأوعية (٢).",
- "az": "[كعم] (kə-ə-mə). Kaf, ayn və mim hərfləri bir şeyi başqa bir şeylə qapamağa və saxlamağa dəlalət edən səhih bir əsldir. «الكِعَام» (ağızlıq): dəvənin ağzına taxılan şeydir ki, nərə çəkməsin. Və deyilir: «كَعَمه فهو مكعوم» (Onun ağzını bağladı, o da ağzıbağlıdır). Deyirsən: «كَعَمه الخَوفُ فلا يَنطِق» (Qorxu onun dilini dondurdu / ağzını qapadı ki, danışa bilməsin). Zü-r-Rummə demişdir: * Yəhma-i xabithu bil-xawfi makcumü (¹) * (Qorxudan ağzı bağlanmış kəsin səhrada addımladığı). Bu fəsildəndir: «كَعَم الرّجلُ المرأةَ» (Kişi qadının ağzından öpdü), qadının ağzını dodaqları ilə alaraq öpdüyü zaman, elə bil o, qorxudan qadının ağzını qapamışdı. «الكِعْم» (qab): qablardan biri (²).",
+ "az": "[كعم] (kə-ə-mə). Kaf, ayn və mim hərfləri bir şeyi başqa bir şeylə qapamağa və saxlamağa dəlalət edən səhih bir əsldir. الكِعَام: dəvənin ağzına taxılan şeydir ki, nərə çəkməsin. Və deyilir: «كَعَمَهُ فَهُوَ مَكْعُومٌ» (Ağzını bağladı, o da ağzıbağlıdır). Deyirsən: «كَعَمَهُ الْخَوْفُ فَلَا يَنْطِقُ» (Qorxu onun ağzını bağladı ki, danışa bilməsin). Zü-r-Rummə demişdir:\n* يَهْمَاءَ خَابِطُهَا بِالْخَوْفِ مَكْعُومُ (١) *\n(Qorxudan ağzı bağlanmış kəsin yolsuz səhrada addımladığı kimi).\nBu fəsildəndir: «كَعَمَ الرَّجُلُ الْمَرْأَةَ» — kişi qadının ağzını öz ağzına alaraq öpdüyü zaman deyilir, elə bil o, qadının ağzını qapamışdır. الكِعْم: qablardan bir qabdır (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كعم] (kə-ə-mə). Kaf, ayn və mim hərfləri bir şeyi başqa bir şeylə qapamağa və saxlamağa dəlalət edən səhih bir əsldir. «الكِعَام» (ağızlıq): dəvənin ağzına taxılan şeydir ki, nərə çəkməsin. Və deyilir: «كَعَمه فهو مكعوم» (Onun ağzını bağladı, o da ağzıbağlıdır). Deyirsən: «كَعَمه الخَوفُ فلا يَنطِق» (Qorxu onun dilini dondurdu / ağzını qapadı ki, danışa bilməsin). Zü-r-Rummə demişdir: * Yəhma-i xabithu bil-xawfi makcumü (¹) * (Qorxudan ağzı bağlanmış kəsin səhrada addımladığı). Bu fəsildəndir: «كَعَم الرّجلُ المرأةَ» (Kişi qadının ağzından öpdü), qadının ağzını dodaqları ilə alaraq öpdüyü zaman, elə bil o, qorxudan qadının ağzını qapamışdı. «الكِعْم» (qab): qablardan biri (²).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni latın qrafikasına keçirilmişdir, ərəb əlifbası ilə saxlanılmalıdır."
+ ],
+ "review_ts": "2026-11-26T14:29:36.994Z"
 }

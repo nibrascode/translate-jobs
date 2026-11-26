@@ -11,7 +11,17 @@
   "page_to": 186
  },
  "ar": "الكاف والعين والسين. يقولون: الكَعْس: عَظْم في السُّلامي. والجمع كِعاسٌ.",
- "az": "[كعس] (kə-ِcə-sə). Kaf, ayn və sin hərfləri. Deyirlər: «الكَعْس» (əl-Kəsl/əl-Kəb): barmaq sümüklərində olan sümük. Cəmi «كِعاسٌ» (kəslər) gələr.",
+ "az": "[كعس] (kə-ə-sə). Kaf, ayn və sin hərfləri. Deyirlər: الكَعْس: barmaq sümüyündə olan sümükdür. Cəmi كِعَاسٌ gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كعس] (kə-ِcə-sə). Kaf, ayn və sin hərfləri. Deyirlər: «الكَعْس» (əl-Kəsl/əl-Kəb): barmaq sümüklərində olan sümük. Cəmi «كِعاسٌ» (kəslər) gələr.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök oxunuşunda yanlış simvollar (kə-ِcə-sə) işlədilmişdir.",
+  "Tərcümədə mətndə olmayan artıq variantlar (əl-Kəsl/əl-Kəb) əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T14:29:36.996Z"
 }

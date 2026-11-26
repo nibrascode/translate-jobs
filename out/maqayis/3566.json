@@ -11,7 +11,17 @@
   "page_to": 209
  },
  "ar": "اللام والميم والزاء كلمةٌ واحدة، وهي اللَّمْز، وهو العَيب. يقال لَمَزَ يَلمِزُ لَمْزاً. قال اللّه تعالى: ﴿وَمِنْهُمْ مَنْ يَلْمِزُكَ فِي اَلصَّدَقاتِ﴾ ورجل لَمَّازٌ ولُمَزَة، أي عَيَّاب.",
- "az": "[لمز] «اللام والميم والزاء» (lam, mim və zay) — tək bir köydür, o da «اللَّمْز» (ləmz) olub eyib tutmaq deməkdir. «لَمَزَ يَلمِزُ لَمْزاً» (eyib tutdu, eyib tutur, eyib tutmaq) deyilir. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿وَمِنْهُمْ مَنْ يَلْمِزُكَ فِي اَلصَّدَقاتِ﴾ (Və onların içində sədəqlər hususunda sənə irad tutanlar da var). «رجل لَمَّازٌ ولُمَزَة» (ləmmaz və luməz kişi) — yəni çox eyib tutan.",
+ "az": "[لمز]\n«اللام والميم والزاء» (lam, mim və zey) — tək bir kəlmədir, o da «اللَّمْز» (ləmz) olub eyib tutmaq deməkdir. «لَمَزَ يَلمِزُ لَمْزاً» (eyib tutdu, eyib tutur, eyib tutmaq) deyilir. Uca Allah buyurmuşdur: ﴿وَمِنْهُمْ مَنْ يَلْمِزُكَ فِي اَلصَّدَقاتِ﴾ (mənaca tərcümə: Onların arasında sədəqələr barəsində sənə irad tutanlar da vardır). «رجل لَمَّازٌ ولُمَزَة» (ləmmaz və luməzə kişi) — yəni çox eyib tutan.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:11.522Z"
+ "ts": "2026-10-26T00:46:11.522Z",
+ "prev_az": "[لمز] «اللام والميم والزاء» (lam, mim və zay) — tək bir köydür, o da «اللَّمْز» (ləmz) olub eyib tutmaq deməkdir. «لَمَزَ يَلمِزُ لَمْزاً» (eyib tutdu, eyib tutur, eyib tutmaq) deyilir. Uca Allah buyurmuşdur: mənaca tərcümə: ﴿وَمِنْهُمْ مَنْ يَلْمِزُكَ فِي اَلصَّدَقاتِ﴾ (Və onların içində sədəqlər hususunda sənə irad tutanlar da var). «رجل لَمَّازٌ ولُمَزَة» (ləmmaz və luməz kişi) — yəni çox eyib tutan.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«كلمةٌ واحدة» ifadəsi səhvən «tək bir köydür» kimi yazılıb.",
+  "Türkiyə türkcəsinə aid «hususunda» sözü işlədilib, «sədəqələr» yerinə «sədəqlər» və «لُمَزَة» transkripsiyası səhvən «luməz» yazılıb."
+ ],
+ "review_ts": "2026-11-26T14:33:18.782Z"
 }

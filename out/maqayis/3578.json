@@ -11,7 +11,18 @@
   "page_to": 216
  },
  "ar": "اللام والهاء والسين كلمةٌ تدلُّ على جِنْس من الإطعام.\nيقولون: لَهسَ على الطَّعام: زاحَم حِرصاً. وما لَك عندي لَهْسَةٌ (٤) من طعام، أي لا كثير ولا قليل. قال ابن دريد: لَهَس الصبيُّ ثديَ أُمِّه: لَطَعه ولم يَمْصَصْه (٥).",
- "az": "[لهس] (ləhəs) - Lam, ha və sin hərfləri bir növ yedirtməyə dəlalət edən kəlmədir. Deyirlər: لَهسَ على الطَّعام (ləhə sə ’alə ət-ta’am): hərisliklə sıxışdırdı. Və ما لَك عندي لَهْسَةٌ (mâ lək ‘indi ləhsətün) — «mənim yanımda sənin üçün az və ya çox heç bir şey yoxdur» (٤). İbn Dürid demişdir: لَهَس الصبيُّ ثديَ أُمِّه (ləhəbə əs-sabi sadyə ummihi): uşaq anasının döşünə toxundu, lakin əmmədi (٥).",
+ "az": "[لهس] Lam, ha və sin hərfləri bir növ yedirtməyə dəlalət edən kəlmədir. Deyirlər: لَهسَ على الطَّعام (hərisliklə yeməyə sıxışdı, irəli atıldı). وما لَك عندي لَهْسَةٌ (٤) من طعام (mənim yanımda sənin üçün yeməkdən nə çox, nə də az heç bir şey yoxdur). İbn Düreyd demişdir: لَهَس الصبيُّ ثديَ أُمِّه (uşaq anasının döşünü yaladı, lakin əmmədi) (٥).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:34.400Z"
+ "ts": "2026-10-26T00:46:34.400Z",
+ "prev_az": "[لهس] (ləhəs) - Lam, ha və sin hərfləri bir növ yedirtməyə dəlalət edən kəlmədir. Deyirlər: لَهسَ على الطَّعام (ləhə sə ’alə ət-ta’am): hərisliklə sıxışdırdı. Və ما لَك عندي لَهْسَةٌ (mâ lək ‘indi ləhsətün) — «mənim yanımda sənin üçün az və ya çox heç bir şey yoxdur» (٤). İbn Dürid demişdir: لَهَس الصبيُّ ثديَ أُمِّه (ləhəbə əs-sabi sadyə ummihi): uşaq anasının döşünə toxundu, lakin əmmədi (٥).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«وما لَك عندي لَهْسَةٌ (٤) من طعام» cümləsində «من طعام» (yeməkdən) hissəsi buraxılıb və ərəbcə sitat yarımçıq kəsilib.",
+  "«لَطَعه» sözü «yaladı» əvəzinə «toxundu» kimi səhv tərcümə edilib.",
+  "İbn Düreydin adı «İbn Dürid», «لَهَس» sözünün transkripsiyası isə «ləhəbə» kimi səhv yazılıb."
+ ],
+ "review_ts": "2026-11-26T14:44:49.764Z"
 }

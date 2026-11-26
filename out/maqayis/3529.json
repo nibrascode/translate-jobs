@@ -11,7 +11,16 @@
   "page_to": 186
  },
  "ar": "الكاف والعين والتاء. يقولون: الكُعَيْت: طائر. ويقولون:\nأكْعَتَ الرّجُل إكعاتا، إذا انطَلَق مُسرِعاً.",
- "az": "[كعت] (kə-ِcə-tə). Kaf, ayn və ta hərfləri. Deyirlər: «الكُعَيْت» (əl-Kuceyt): quş adıdır. Və deyirlər: «أكْعَتَ الرّجُل إكعاتا» (Kişi sürətlə qaçdı/qaçıb getdi), yəni sürətlə yola düzəldi.",
+ "az": "[كعت] (kə-ə-tə). Kaf, ayn və ta hərfləri. Deyirlər: الكُعَيْت: quş adıdır. Və deyirlər: «أَكْعَتَ الرَّجُلُ إِكْعَاتاً» — kişi sürətlə yola düzəldiyi zaman deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كعت] (kə-ِcə-tə). Kaf, ayn və ta hərfləri. Deyirlər: «الكُعَيْت» (əl-Kuceyt): quş adıdır. Və deyirlər: «أكْعَتَ الرّجُل إكعاتا» (Kişi sürətlə qaçdı/qaçıb getdi), yəni sürətlə yola düzəldi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök oxunuşunda yanlış hərf bərpası (kə-ِcə-tə) yazılmışdır."
+ ],
+ "review_ts": "2026-11-26T14:29:36.995Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 186
  },
  "ar": "الكاف والعين والراء يقولون: الكَعَر: أن يمتلئ البطنُ من الأكل. وأكعَرَ البعيرُ: عظُم سَنامُه.",
- "az": "[كعر] (kə-ِcə-rə). Kaf, ayn və ra hərfləri. Deyirlər: «الكَعَر» (əlkəər): qarın yeməkdən dolması. Və «أكعَرَ البعيرُ» (Dəvənin hürgücü böyüdü): dəvənin hürgücü böyük oldu.",
+ "az": "[كعر] (kə-ə-rə). Kaf, ayn və ra hərfləri. Deyirlər: الكَعَر: qarnın yeməkdən dolmasıdır. «أَكْعَرَ الْبَعِيرُ»: dəvənin hürgücü böyüdü.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كعر] (kə-ِcə-rə). Kaf, ayn və ra hərfləri. Deyirlər: «الكَعَر» (əlkəər): qarın yeməkdən dolması. Və «أكعَرَ البعيرُ» (Dəvənin hürgücü böyüdü): dəvənin hürgücü böyük oldu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök oxunuşunda yanlış simvollar (kə-ِcə-rə) işlədilmişdir."
+ ],
+ "review_ts": "2026-11-26T14:29:36.996Z"
 }

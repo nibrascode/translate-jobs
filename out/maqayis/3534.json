@@ -11,7 +11,17 @@
   "page_to": 188
  },
  "ar": "الكَاف والفاء والحرف المعتل أصلٌ صحيح يدلُّ على الحَسْب الذي لا مُستَزَادَ فيه. يقال: كفاك الشّيءُ يَكفِيك وقد كَفَى كِفاية، إذا قام بالأمر. والكُفْيَةُ: القوت الكَافِي، والجمع كُفًى. ويقال حَسْبُك زيدٌ من رجلٍ، وكَافِيك.",
- "az": "«كفا» (k-f-y). Kaf, fa və zəif hərf səhih bir kök olub, artıqlığı olmayan kafi miqdarı, kifayəti bildirir. Deyilir: كفاك الشّيءُ يَكفِيك وقد كَفَى كِفاية (Şey sənə kafi gəldi, gəlir və artıqlaması ilə kifayət etdi), o, işi yerinə yetirdikdə. «الكُفْيَةُ» (küfyə) — kafi olan azuqə, cəmi isə «كُفًى» (küfən) gəlir. Həmçinin deyilir: حَسْبُك زيدٌ من رجلٍ، وكَافِيك (Sənə kişilərdən Zeyd kifayətdir və o sənə kafi gələndir).",
+ "az": "[كفا]\nKaf, fa və zəif hərf səhih bir kök olub, artığına ehtiyac olmayan kafi miqdarı bildirir. Deyilir: كفاك الشّيءُ يَكفِيك وقد كَفَى كِفاية (Şey sənə kafi gəldi, gəlir və tamamilə kifayət etdi), o, işi yerinə yetirdikdə. الكُفْيَةُ (kufyə) — kafi olan azuqə, cəmi isə كُفًى (kufən) gəlir. Həmçinin deyilir: حَسْبُك زيدٌ من رجلٍ، وكَافِيك (Sənə kişi olaraq Zeyd kifayətdir və o sənə kafi gələndir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:34.060Z"
+ "ts": "2026-10-26T00:44:34.060Z",
+ "prev_az": "«كفا» (k-f-y). Kaf, fa və zəif hərf səhih bir kök olub, artıqlığı olmayan kafi miqdarı, kifayəti bildirir. Deyilir: كفاك الشّيءُ يَكفِيك وقد كَفَى كِفاية (Şey sənə kafi gəldi, gəlir və artıqlaması ilə kifayət etdi), o, işi yerinə yetirdikdə. «الكُفْيَةُ» (küfyə) — kafi olan azuqə, cəmi isə «كُفًى» (küfən) gəlir. Həmçinin deyilir: حَسْبُك زيدٌ من رجلٍ، وكَافِيك (Sənə kişilərdən Zeyd kifayətdir və o sənə kafi gələndir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«قد كَفَى كِفاية» ifadəsi «artıqlaması ilə kifayət etdi» kimi yanlış tərcümə edilib, halbuki kökün mənası «artığına ehtiyac olmayan kafi miqdar»dır.",
+  "Maddə başlığı qaydaya uyğun olaraq «[كفا]» formatında verilməyib."
+ ],
+ "review_ts": "2026-11-26T14:02:35.586Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الكاف والشين والطاء كلمةٌ تدلُّ على تنحية الشَّيء وكَشْفه. يقال: كشَطَ الجِلدَ عن الذَّبيحة. ويقولون: انكشَط رُوعُه، أي ذهَب.",
  "az": "[كشط] (kə-şə-tə). Kaf, şin və ta hərfləri bir şeyi kənara çəkməyə və açmağa dəlalət edən kəlmədir. Deyilir: «كشَطَ الجِلدَ عن الذَّبيحة» (Qurbanlıq heyvanın dərisini soydu/çəkib çıxartdı). Və deyirlər: «انكشَط رُوعُه» (Qorxusu dağıldı/getdi), yəni qorxusu yox oldu.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T13:54:11.692Z"
 }

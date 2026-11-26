@@ -11,7 +11,17 @@
   "page_to": 217
  },
  "ar": "اللام والهاء والقاف كلمتانِ متباينتان.\nفالأولى اللَّهق (١): الأبيض؛ والثَّور الأبيض لِهَاق. قال الهذليّ:\n* لَهِاقٌ تَلَأْلُؤُهُ كالهِلالِ (٢) *\nوالكلمة الأخرى قولهم: تَلَهْوَقَ الرّجُل: أظْهَرَ سخاءً وليس بسخِيّ.",
- "az": "[لهق] (ləhəq) - Lam, ha və qaf hərfləri bir-birindən fərqli iki kəlmədir. Birincisi: اللَّهق (əl-ləhəq) — ağ deməkdir; ağ təkə لِهَاق (lihəq) adlanır. Hüzəli demişdir: لَهِاقٌ تَلَأْلُؤُهُ كالهِلالِ (٢) (Aypara kimi parıldayan ağ təkə). Digər kəlmə isə onların تَلَهْوَقَ الرّجُل (tələhvəqə ər-ricül) — «kişi səxavətli olmadığı halda səxavət göstərdi» sözüdür.",
+ "az": "[لهق] Lam, ha və qaf hərfləri bir-birindən fərqli iki kəlmədir. Birincisi: اللَّهق (١) (ağ); ağ öküz isə لِهَاق adlanır. Hüzəli demişdir: * لَهِاقٌ تَلَأْلُؤُهُ كالهِلالِ (٢) * (Aypara kimi parıldayan ağ öküz). Digər kəlmə isə onların تَلَهْوَقَ الرّجُل (kişi səxavətli olmadığı halda səxavət göstərdi) sözüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:34.400Z"
+ "ts": "2026-10-26T00:46:34.400Z",
+ "prev_az": "[لهق] (ləhəq) - Lam, ha və qaf hərfləri bir-birindən fərqli iki kəlmədir. Birincisi: اللَّهق (əl-ləhəq) — ağ deməkdir; ağ təkə لِهَاق (lihəq) adlanır. Hüzəli demişdir: لَهِاقٌ تَلَأْلُؤُهُ كالهِلالِ (٢) (Aypara kimi parıldayan ağ təkə). Digər kəlmə isə onların تَلَهْوَقَ الرّجُل (tələhvəqə ər-ricül) — «kişi səxavətli olmadığı halda səxavət göstərdi» sözüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الثَّور الأبيض» ifadəsi və şeirdəki məna «ağ öküz (buğa)» əvəzinə «ağ təkə» kimi səhv tərcümə edilib.",
+  "«اللَّهق (١)» sözünün yanındakı (١) haşiyə rəqəmi buraxılıb."
+ ],
+ "review_ts": "2026-11-26T14:44:49.765Z"
 }

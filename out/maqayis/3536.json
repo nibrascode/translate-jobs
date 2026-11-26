@@ -11,7 +11,17 @@
   "page_to": 190
  },
  "ar": "الكاف والفاء والنون أصلٌ، فيه الكَفَن، وهو معروف.\nوالكَفْن: غَزْل الصُّوف. يقال كَفَنَ يَكفُنُ (٢). قال الرَّاعي:\n* ويكْفُنُ الدَّهرَ إلاَّ ريْثَ يَهتبِدُ (٣) *",
- "az": "«كفن» (k-f-n). Kaf, fa və nun bir əsl olub, məlum olan kəfən sözüdür. Və «الكَفْن» (kəfn) — yun əyirməkdir. Deyilir: كَفَنَ يَكفُنُ (əyirdi, əyir) (٢). Rəi demişdir: * ويكْفُنُ الدَّهرَ إلاَّ ريْثَ يَهتبِدُ (Və o, ovlamasının ləngiməsi müddəti istisna olmaqla, zamanı əyir) (٣).",
+ "az": "[كفن]\nKaf, fa və nun bir əsldir, onda məlum olan الكَفَن (kəfən) sözü var.\nالكَفْن (kəfn) — yun əyirməkdir. Deyilir: كَفَنَ يَكفُنُ (əyirdi, əyirir) (٢). ər-Rai demişdir:\n* ويكْفُنُ الدَّهرَ إلاَّ ريْثَ يَهتبِدُ (٣) * (Həbid toxumu yığıb hazırladığı müddət istisna olmaqla, bütün zamanı yun əyirir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:34.060Z"
+ "ts": "2026-10-26T00:44:34.060Z",
+ "prev_az": "«كفن» (k-f-n). Kaf, fa və nun bir əsl olub, məlum olan kəfən sözüdür. Və «الكَفْن» (kəfn) — yun əyirməkdir. Deyilir: كَفَنَ يَكفُنُ (əyirdi, əyir) (٢). Rəi demişdir: * ويكْفُنُ الدَّهرَ إلاَّ ريْثَ يَهتبِدُ (Və o, ovlamasının ləngiməsi müddəti istisna olmaqla, zamanı əyir) (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«يَكفُنُ» feli «əyirir» əvəzinə «əyir» kimi səhv tərcümə edilib.",
+  "Beytdəki «ريْثَ يَهتبِدُ» ifadəsi «ovlamasının ləngiməsi müddəti» kimi yanlış tərcümə olunub."
+ ],
+ "review_ts": "2026-11-26T14:02:35.587Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 201
  },
  "ar": "اللام والثاء أصلٌ صحيح، يدلُّ على إقامةٍ ودوام. يقال:\nألثَّ المطر، إذا دام. والإلثاث: الإقامة. ولثلث بمعنى ألَثَّ. قال:\n* لا خيرَ في وُدِّ امرئٍ ملثلِث (١) *\nأراد المتردِّدَ الذي لا خير فيه. وهو الذي يُلثلِث عن إقامة الودّ. ويقال: لثلثته عن حاجته: حبَستُه. وتَلثلثَ الرّجُلُ في الدَّقعاء (٢): تمرَّغَ.",
- "az": "«لث»\nاللام والثاء أصلٌ صحيح، يدلُّ على إقامةٍ ودوام. يقال:\nألثَّ المطر، إذا دام. والإلثاث: الإقامة. ولثلث بمعنى ألَثَّ. قال:\n* لا خيرَ في وُدِّ امرئٍ ملثلِث (١) *\nأراد المتردِّدَ الذي لا خير فيه. وهو الذي يُلثلِث عن إقامة الودّ. ويقال: لثلثته عن حاجته: حبَستُه. وتَلثلثَ الرّجُلُ في الدَّقعاء (٢): تمرَّغَ.\nLam və sə hərfləri dayanıqlılığa və davamlılığa dəlalət edən səhih bir kökdür. Belə deyilir: أَلثَّ المطر (yağış yağmağında davamlı oldu). وَالإلثاث (əl-ilsas) - ikamet etmək (qalmaq). وَلَثْلَسَ (ləsləsə) kəlməsi أَلَثَّ (aləssə) mənasındadır. Şair demişdir:\n* لا خيرَ في وُدِّ امرئٍ ملثلِث (١) *\n(* Heç bir xeyri olmayan, tereddüd edən adamın sevgisində xeyir yoxdur *)\nO, heç bir xeyri olmayan tərəddütlü kəsi qəsd etmişdir. O, sevgini sabit saxlamaqdan tərəddüd edən kəsdir. Belə deyilir: لثلثته عن حاجته (mən onu ehtiyacından saxladım): onu həbs etdim/saxladım. وَتَلثلثَ الرّجُلُ في الدَّقعاء (kişi torpaqda və ya tozda yuvarlandı/mərüğ etdi).",
+ "az": "[لث]\nLam və sa hərfləri dayanıqlılığa və davamlılığa dəlalət edən səhih bir kökdür. Belə deyilir:\nألثَّ المطر (yağış davamlı yağdı). الإلثاث (əl-ilsas) — iqamət etmək (qalmaq). لثلث (ləsləsə) kəlməsi ألَثَّ (ələssə) mənasındadır. Şair demişdir:\n* لا خيرَ في وُدِّ امرئٍ ملثلِث (١) *\n(Tərəddüd edən adamın sevgisində heç bir xeyir yoxdur)\nO, heç bir xeyri olmayan tərəddüdlü kəsi qəsd etmişdir. O, sevgini sabit saxlamaqdan tərəddüd edən kəsdir. Belə deyilir: لثلثته عن حاجته (onu ehtiyacından saxladım): onu həbs etdim/saxladım. تَلثلثَ الرّجُلُ في الدَّقعاء (٢) (kişi torpaqda yuvarlandı / ağnadı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:45:21.969Z"
+ "ts": "2026-10-26T00:45:21.969Z",
+ "prev_az": "«لث»\nاللام والثاء أصلٌ صحيح، يدلُّ على إقامةٍ ودوام. يقال:\nألثَّ المطر، إذا دام. والإلثاث: الإقامة. ولثلث بمعنى ألَثَّ. قال:\n* لا خيرَ في وُدِّ امرئٍ ملثلِث (١) *\nأراد المتردِّدَ الذي لا خير فيه. وهو الذي يُلثلِث عن إقامة الودّ. ويقال: لثلثته عن حاجته: حبَستُه. وتَلثلثَ الرّجُلُ في الدَّقعاء (٢): تمرَّغَ.\nLam və sə hərfləri dayanıqlılığa və davamlılığa dəlalət edən səhih bir kökdür. Belə deyilir: أَلثَّ المطر (yağış yağmağında davamlı oldu). وَالإلثاث (əl-ilsas) - ikamet etmək (qalmaq). وَلَثْلَسَ (ləsləsə) kəlməsi أَلَثَّ (aləssə) mənasındadır. Şair demişdir:\n* لا خيرَ في وُدِّ امرئٍ ملثلِث (١) *\n(* Heç bir xeyri olmayan, tereddüd edən adamın sevgisində xeyir yoxdur *)\nO, heç bir xeyri olmayan tərəddütlü kəsi qəsd etmişdir. O, sevgini sabit saxlamaqdan tərəddüd edən kəsdir. Belə deyilir: لثلثته عن حاجته (mən onu ehtiyacından saxladım): onu həbs etdim/saxladım. وَتَلثلثَ الرّجُلُ في الدَّقعاء (kişi torpaqda və ya tozda yuvarlandı/mərüğ etdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[لث]» formatında deyil və bütün ərəb mətni tərcümədən əvvəl təkrarlanıb.",
+  "«لثلث» sözü «لَثْلَسَ» kimi səhv köçürülüb və ərəbcə sitatlarda hərəkələr dəyişdirilib.",
+  "Mətndə Türkiyə türkcəsi və yazı xətaları var («ikamet», «tereddüd»).",
+  "«تمرَّغَ» sözü «mərüğ etdi» kimi tərcüməsiz saxlanılıb və «(٢)» haşiyə rəqəmi buraxılıb."
+ ],
+ "review_ts": "2026-11-26T14:10:25.289Z"
 }

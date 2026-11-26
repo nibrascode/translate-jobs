@@ -11,7 +11,17 @@
   "page_to": 209
  },
  "ar": "اللام والميم والهمزة كلمتانِ تدُلاَّنِ على الاشتمال. يقولون: ألمأْت\nبالشَّيء، إذا اشتملتَ عليه فذهبتَ به. ويقال: تلمَّأَتْ عليه الأرضُ، إذا استوَتْ عليه: فأما قولهم: التُمِئَ لونُه، فيمكن أن يكون مِنْ هذا، ويمكن أن يكون من الإبدال، كأنّ الهمزة بدل من العين، والأصل التُمِع.",
- "az": "«لمأ» - لام, mim və həmzə əhatə etməyə dəlalət edən iki kəlmədir. Deyirlər: «ألمأْت بالشَّيء» (ələmtü biş-şəyi) - bir şeyi əhatə edib özünlə apardın. Deyilir: «تلمَّأَتْ عليه الأرضُ» (təlmə-lət ələyəl-ə_rdü) - torpaq onun üzərinə sərilərək bərabərləşdi. Amma onların «التُمِئَ لونُه» (ültüiə lownühü) sözünə gəldikdə, mümkündür ki, bu, həmin sözdən olsun, o da mümkündür ki, həmzə eyn hərfinin əvəzinə gəlmiş dəyişmə (əbdəl) olsun, əsli isə «التُمِع» (ültüimə) kimidir.",
+ "az": "[لمأ]\nLam, mim və həmzə — əhatə etməyə (bürüməyə) dəlalət edən iki kəlmədir. Deyirlər: «ألمأْت بالشَّيء» (bir şeyi əhatə edib özünlə apardıqda). Deyilir: «تلمَّأَتْ عليه الأرضُ» (yer onun üzərinə qapandıqda, bərabərləşdikdə). Amma onların «التُمِئَ لونُه» (rəngi dəyişdi) sözünə gəldikdə, mümkündür ki, bu, həmin sözdən olsun, o da mümkündür ki, həmzə ayn hərfinin əvəzinə gəlmiş ibdal (hərf dəyişməsi) olsun və əsli «التُمِع»dir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:45:46.678Z"
+ "ts": "2026-10-26T00:45:46.678Z",
+ "prev_az": "«لمأ» - لام, mim və həmzə əhatə etməyə dəlalət edən iki kəlmədir. Deyirlər: «ألمأْت بالشَّيء» (ələmtü biş-şəyi) - bir şeyi əhatə edib özünlə apardın. Deyilir: «تلمَّأَتْ عليه الأرضُ» (təlmə-lət ələyəl-ə_rdü) - torpaq onun üzərinə sərilərək bərabərləşdi. Amma onların «التُمِئَ لونُه» (ültüiə lownühü) sözünə gəldikdə, mümkündür ki, bu, həmin sözdən olsun, o da mümkündür ki, həmzə eyn hərfinin əvəzinə gəlmiş dəyişmə (əbdəl) olsun, əsli isə «التُمِع» (ültüimə) kimidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[لمأ]» formatı ilə başlamır.",
+  "Transkripsiyalarda pozulmuş mətn («təlmə-lət ələyəl-ə_rdü», «ültüiə», «ültüimə») var."
+ ],
+ "review_ts": "2026-11-26T14:33:18.781Z"
 }

@@ -11,9 +11,19 @@
   "page_to": 167
  },
  "ar": "الكاف والدال والباء، يقال فيه كلمة. قالوا: إنّ الكَدِبَ:\nالدّم الطريّ. وروي أنّ بعضهم قرأ: «وَجَاءُوا عَلَى قَمِيصِهِ بِدَمٍ كَدِبٍ (٢)».",
- "az": "[كدب] (Kəf, Dal, Ba) haqqında bir kəlmə deyilir. Dedilər ki, «الكَدِب» (təzə qan). Rəvayət olunur ki, bəziləri «وجاءوا على قميصه بدم كدب» (٢) (mənaca tərcümə: və onun köynəyinin üzərində təzə qan gətirdilər) oxumuşlar.",
+ "az": "[كدب]\\nKaf, dal və ba hərfləri haqqında bir kəlmə deyilir. Dedilər ki, الكَدِبَ (əl-kədib) təzə qandır. Rəvayət olunur ki, bəziləri «وَجَاءُوا عَلَى قَمِيصِهِ بِدَمٍ كَدِبٍ (٢)» (mənaca tərcümə: onun köynəyinin üzərində təzə qanla gəldilər) şəklində oxumuşlar.",
  "model": "gemini-3.1-flash-lite",
  "ts": "2026-10-26T00:42:38.345Z",
- "review_attempts": 1,
- "review_last_error": "qısa (167 < 218)"
+ "review_last_error": "qısa (167 < 218)",
+ "prev_az": "[كدب] (Kəf, Dal, Ba) haqqında bir kəlmə deyilir. Dedilər ki, «الكَدِب» (təzə qan). Rəvayət olunur ki, bəziləri «وجاءوا على قميصه بدم كدب» (٢) (mənaca tərcümə: və onun köynəyinin üzərində təzə qan gətirdilər) oxumuşlar.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الكَدِب» izahı yarımçıq cümlə şəklində qalıb.",
+  "Quran ayəsi AR-dakı yazılışla eyni köçürülməyib (hərəkələr silinib və haşiyə rəqəmi mötərizədən kənara çıxarılıb).",
+  "«بدم» ifadəsi «qanla» əvəzinə «qan» kimi tərcümə edilib."
+ ],
+ "review_ts": "2026-11-26T13:54:11.690Z"
 }
