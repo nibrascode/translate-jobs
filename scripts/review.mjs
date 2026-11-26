@@ -1,7 +1,8 @@
 // Güclü model ilə yoxlama: hər maddənin az tərcüməsini ərəbcə mətnlə tutuşdurur, səhv varsa düzəldir.
 // Davam edən iş: hər maddədə reviewed:true qeyd olunur; ümumi gediş review-state.json-dadır.
 import fs from "node:fs";
-const KEYS = [process.env.GEMINI_API_KEY, process.env.GEMINI_API_KEY_2].filter(Boolean);
+// GEMINI_API_KEY_2 artıq words-nibras işinə ayrılıb; yoxlama yalnız GEMINI_API_KEY ilə işləyir.
+const KEYS = [process.env.GEMINI_API_KEY].filter(Boolean);
 if (!KEYS.length) throw new Error("GEMINI_API_KEY yoxdur");
 const MODELS = (process.env.MODELS || "gemini-4-hydrogen,gemini-3.8-flash,gemini-3.6-flash,gemini-3.5-flash").split(",");
 const TIME_CAP = +(process.env.TIME_CAP_MIN || 100) * 60e3;
