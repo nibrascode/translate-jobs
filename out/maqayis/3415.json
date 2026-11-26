@@ -11,7 +11,17 @@
   "page_to": 141
  },
  "ar": "الكاف والنون والسين أصلانِ صحيحان، أحدهما يدلُّ على سَفْر شيءٍ عن وجهِ شيء، وهو كَشْفُه. والأصل الآخر يدلُّ على استخفاء.\nفالأوّل: كَنْس البيتِ، وهو سَفْرُ التُّرابِ عن وجه أرضه. والمِكْنسة:\nآلة الكنْس. والكُناسَة: ما يَكنَس.\nوالأصل الآخر: الكِناس: بيتُ الظَّبي. الكانس: الظبي يَدْخُل كِناسَه.\nوالكُنَّس: الكواكب تَكْنِسُ في بُروجها كما تَدخُل الظِّباءُ في كِناسها. قال أبو * عبيدة: تَكنِس في المَغيب",
- "az": "[كنس] Kaf, nun və sin iki səhih kökdür; bunlardan biri bir şeyin üzərindən başqa bir şeyi süpürüb təmizləməyə dəlalət edir ki, bu da onu üzə çıxarmaqdır. Digər kök isə gizlənməyə dəlalət edir. Birincisi: «كَنْس البيتِ» (ev süpürmək) — torpağın yerin üzündən süpürülüb təmizlənməsidir. «المِكْنسة» (miknəsə) — süpürmə alətidir. «الكُناسَة» (künasə) — süpürülüb təmizlənən şeydir. Digər kök isə: «الكِناس» (kinas) — ceyranın yuvasıdır. «الكانس» (kanis) — yuvasına girən ceyrandır. «الكُنَّس» (künnəs) — bürclərində, ceyranların yuvasına girməsi kimi səyahət edən, hərəkət edən ulduzlardır. Əbu * Ubeydə demişdir: batdıqları yerdə hərəkət edirlər.",
+ "az": "[كنس] Kaf, nun və sin iki səhih əsasdır. Onlardan biri bir şeyin başqa bir şeyin üzərindən süpürülüb kənarlaşdırılmasına dəlalət edir ki, bu da onu açmaqdır (üzə çıxarmaqdır). Digər əsas isə gizlənməyə dəlalət edir.\nBirincisi: «كَنْس البيتِ» (evin süpürülməsi) — torpağın yerin üzündən süpürülüb kənarlaşdırılmasıdır. «المِكْنسة» (əl-miknəsə) — süpürmə alətidir (süpürgədir). «الكُناسَة» (əl-künasə) — süpürülən zibildir.\nDigər əsas: «الكِناس» (əl-kinas) — ceyranın sığınacağı, yuvasıdır. «الكانس» (əl-kanis) — yuvasına girən ceyrandır. «الكُنَّس» (əl-künnəs) isə bürclərində gizlənən ulduzlardır; necə ki ceyranlar öz yuvalarına girib gizlənirlər. Əbu Ubeydə demişdir: batarkən (qürub edərkən) gizlənirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:55.166Z"
+ "ts": "2026-10-26T00:39:55.166Z",
+ "prev_az": "[كنس] Kaf, nun və sin iki səhih kökdür; bunlardan biri bir şeyin üzərindən başqa bir şeyi süpürüb təmizləməyə dəlalət edir ki, bu da onu üzə çıxarmaqdır. Digər kök isə gizlənməyə dəlalət edir. Birincisi: «كَنْس البيتِ» (ev süpürmək) — torpağın yerin üzündən süpürülüb təmizlənməsidir. «المِكْنسة» (miknəsə) — süpürmə alətidir. «الكُناسَة» (künasə) — süpürülüb təmizlənən şeydir. Digər kök isə: «الكِناس» (kinas) — ceyranın yuvasıdır. «الكانس» (kanis) — yuvasına girən ceyrandır. «الكُنَّس» (künnəs) — bürclərində, ceyranların yuvasına girməsi kimi səyahət edən, hərəkət edən ulduzlardır. Əbu * Ubeydə demişdir: batdıqları yerdə hərəkət edirlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kökün ikinci əsas mənası «استخفاء» (gizlənmək) olduğu halda, «تكنس» feili «səyahət edən, hərəkət edən» kimi tərcümə edilərək mətnin mənası təhrif edilmişdir.",
+  "«تكنس في المغيب» cümləsi «batdıqları yerdə hərəkət edirlər» deyil, «qürub edərkən (batarkən) gizlənirlər» şəklində tərcümə edilməlidir."
+ ],
+ "review_ts": "2026-11-26T00:28:32.102Z"
 }

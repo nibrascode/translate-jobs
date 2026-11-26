@@ -13,5 +13,10 @@
  "ar": "الكاف والواو واللام كلمةٌ إن صحَّت. يقولون: تكَوَّلَ القومُ على فلانٍ، إذا تجمَّعوا عليه.",
  "az": "[كول] Kaf, vau və lam əgər səhihdirsə, tək bir sözdür. Deyirlər: تكَوَّلَ القومُ على فلانٍ (təkəvvələr-qəvmü ələ fülənin) — qövm filankəsin üzərinə toplandıqda.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:17.222Z"
+ "ts": "2026-10-26T00:40:17.222Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T00:32:16.588Z"
 }

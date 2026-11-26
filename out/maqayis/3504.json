@@ -11,7 +11,16 @@
   "page_to": 175
  },
  "ar": "الكاف والراء والثاء، ليس فيه إلاَّ كَرَثَهُ الأمرُ، إذا بلغ منه المَشَقَّة. والكُرَّاثُ والكَرَاثُ نَبتانِ.",
- "az": "[كرث] \nКаф, ra və sə hərflərində yalnız «كَرَثَهُ الأمرُ» (iş ona ağır gəldi, məşəqqət verdi) ifadəsi vardır ki, bu, işin ona məşəqqət çatdırması mənasındadır. «الكُرَّاثُ» (əl-kürras) və «الكَرَاثُ» (əl-kəras) isə iki növ bitkidir.",
+ "az": "[كرث]\nKaf, ra və sa hərflərində yalnız كَرَثَهُ الأمرُ (iş ona məşəqqət çatdırdı) ifadəsi vardır. والكُرَّاثُ və الكَرَاثُ isə iki növ bitkidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:43:20.535Z"
+ "ts": "2026-10-26T00:43:20.535Z",
+ "prev_az": "[كرث] \nКаф, ra və sə hərflərində yalnız «كَرَثَهُ الأمرُ» (iş ona ağır gəldi, məşəqqət verdi) ifadəsi vardır ki, bu, işin ona məşəqqət çatdırması mənasındadır. «الكُرَّاثُ» (əl-kürras) və «الكَرَاثُ» (əl-kəras) isə iki növ bitkidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adında Kiril hərfləri («Каف») var."
+ ],
+ "review_ts": "2026-11-26T00:58:42.114Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 127
  },
  "ar": "الكاف والزاء أصلٌ صحيح يدلُّ على قَبضٍ وتقبُّض. من ذلك الكَزازة: الانقباض واليُبْس. رجلٌ كَزٌّ، أي بخيل (٤). ويقال: كَزَزْتُ الشَّيءَ، إذا ضيَّقَته، فهو مكزوز. والكُزَاز: داءٌ يأخذُه من شِدَّة البَرْد. وأحسبه من تقبُّض الأطراف. وبَكرة كزة، أي قصيرة (٥).",
- "az": "[كز] الكاف والزاء أصلٌ صحيح يدلُّ على قَبضٍ وتقبُّض. (Kaf və zay hərfləri tutmağa və yığılmağa dəlalət edən səhih kökdür). من ذلك الكَزازة: الانقباض واليُبْس. (Ondandır əl-kəzazə: yığılma və quruluq). رجلٌ كَزٌّ، أي بخيل (٤). (Kəzz kişi, yəni xəsis). ويقال: كَزَزْتُ الشَّيءَ، إذا ضيَّقَته، فهو مكزوز. (Və deyirlər: mən şeyi sıxdım, onu daraltdıqda, deməli o, məknuzdur). والكُزَاز: داءٌ يأخذُه من شِدَّة البَرْد. (Və əl-küzaz: şiddətli soyuqdan onu tutan xəstəlikdir). وأحسبه من تقبُّض الأطراف. (Və mən güman edirəm ki, o, ətrafların yığılmasındandır). وبَكرة كزة، أي قصيرة (٥). (Və kəzzə qütbü, yəni qısa).",
+ "az": "[كز]\nKaf və zay hərfləri sıxmağa və yığılmağa dəlalət edən səhih kökdür. Ondandır الكَزازة (yığılma və quruluq). رجلٌ كَزٌّ (xəsis (٤) kişi). Deyilir: كَزَزْتُ الشَّيءَ (bir şeyi sıxdım), onu daraltdıqda, beləliklə o, مكزوز (məkzuz) olur. والكُزَاز (şiddətli soyuqdan insanı tutan xəstəlikdir). Güman edirəm ki, o, ətrafların yığılmasındandır. وبَكرة كزة (qısa (٥) çarx/qasnaq).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "prev_az": "[كز] الكاف والزاء أصلٌ صحيح يدلُّ على قَبضٍ وتقبُّض. (Kaf və zay hərfləri tutmağa və yığılmağa dəlalət edən səhih kökdür). من ذلك الكَزازة: الانقباض واليُبْس. (Ondandır əl-kəzazə: yığılma və quruluq). رجلٌ كَزٌّ، أي بخيل (٤). (Kəzz kişi, yəni xəsis). ويقال: كَزَزْتُ الشَّيءَ، إذا ضيَّقَته، فهو مكزوز. (Və deyirlər: mən şeyi sıxdım, onu daraltdıqda, deməli o, məknuzdur). والكُزَاز: داءٌ يأخذُه من شِدَّة البَرْد. (Və əl-küzaz: şiddətli soyuqdan onu tutan xəstəlikdir). وأحسبه من تقبُّض الأطراف. (Və mən güman edirəm ki, o, ətrafların yığılmasındandır). وبَكرة كزة، أي قصيرة (٥). (Və kəzzə qütbü, yəni qısa).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«مكزوز» sözü «məknuzdur» şəklində səhv transkripsiya edilmişdir.",
+  "«بَكرة كزة» ifadəsindəki «بَكرة» sözü «qütbü» kimi səhv tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:22:42.289Z"
 }

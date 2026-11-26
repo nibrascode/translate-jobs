@@ -11,7 +11,16 @@
   "page_to": 128
  },
  "ar": "الكاف والشين ليس بشيء، وفيه كلمةٌ تَجري مَجرى الحكاية، يقال لهدير البَكْر: الكشيش. والكَشكَشة: كلمةٌ مولَّدة فيمن يُبدِل الكافَ في كلامه شيناً.",
- "az": "[كش] الكاف والشين ليس بشيء، (Kaf və şin hərfləri heç bir şey deyil), وفيه كلمةٌ تَجري مَجرى الحكاية، (və orada təqlid məqamında olan bir söz vardır), يقال لهدير البَكْر: الكشيش. (balaca dəvənin nəriltisinə deyilir: əl-kəşiş). والكَشكَشة: كلمةٌ مولَّدة فيمن يُبدِل الكافَ في كلامه شيناً. (Və əl-kəşkəşə: danışığında kafı şinə çevirən kəslər haqqında uydurma sözdür).",
+ "az": "[كش]\nKaf və şin hərfləri heç bir şey deyil, onda təqlid məqamında işlənən bir söz vardır: cavan dəvənin nəriltisinə الكشيش (əl-kəşiş) deyilir. والكَشكَشة (kəşkəşə) isə danışığında kafı şinə çevirən kəslər barədə sonradan yaranmış bir sözdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "prev_az": "[كش] الكاف والشين ليس بشيء، (Kaf və şin hərfləri heç bir şey deyil), وفيه كلمةٌ تَجري مَجرى الحكاية، (və orada təqlid məqamında olan bir söz vardır), يقال لهدير البَكْر: الكشيش. (balaca dəvənin nəriltisinə deyilir: əl-kəşiş). والكَشكَشة: كلمةٌ مولَّدة فيمن يُبدِل الكافَ في كلامه شيناً. (Və əl-kəşkəşə: danışığında kafı şinə çevirən kəslər haqqında uydurma sözdür).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«كلمةٌ مولَّدة» ifadəsi «uydurma söz» kimi səhv tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:22:42.290Z"
 }

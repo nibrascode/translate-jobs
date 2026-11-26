@@ -11,7 +11,16 @@
   "page_to": 143
  },
  "ar": "الكاف والهاء والحرف المعتلّ كلمةٌ واحدة لا تنقاس ولا يُفرَّع عنها. ويقولون للنَّاقة الضَّخمة: كَهَاةٌ. قال:\nإذَا عَرِضَتْ منها كَهَاةٌ سمينةٌ … فلا تُهدِ منها واتَّشِقْ وتجَبْجَبِ (٢)",
- "az": "[كها] Kaf, ha və zəif hərf – qaydaya düşməyən və özündən budaqlanmayan tək bir sözdür. Böyük dəvəyə كَهَاةٌ (kəhat) deyirlər. O demişdir:\nإذَا عَرِضَتْ منها كَهَاةٌ سمينةٌ … فلا تُهدِ منها واتَّشِقْ وتجَبْجَبِ (٢)\n(Onlardan kök bir kəhat qarşıya çıxanda, ondan hədiyyə etmə, onu yeyib doyun və bolca için!)",
+ "az": "[كها]\nالكاف والهاء والحرف المعتلّ (Kaf, ha və zəif hərf) qaydaya düşməyən və özündən budaqlanmayan tək bir sözdür. Böyük cüssəli dəvəyə كَهَاةٌ (kəhət) deyirlər. Şair demişdir:\nإذَا عَرِضَتْ منها كَهَاةٌ سمينةٌ … فلا تُهدِ منها واتَّشِقْ وتجَبْجَبِ (٢)\n(Onlardan qarşına kök və iri bir dəvə çıxsa, ondan paylama; ətini qaxac elə və saxla!)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:17.222Z"
+ "ts": "2026-10-26T00:40:17.222Z",
+ "prev_az": "[كها] Kaf, ha və zəif hərf – qaydaya düşməyən və özündən budaqlanmayan tək bir sözdür. Böyük dəvəyə كَهَاةٌ (kəhat) deyirlər. O demişdir:\nإذَا عَرِضَتْ منها كَهَاةٌ سمينةٌ … فلا تُهدِ منها واتَّشِقْ وتجَبْجَبِ (٢)\n(Onlardan kök bir kəhat qarşıya çıxanda, ondan hədiyyə etmə, onu yeyib doyun və bolca için!)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir misrasının sonu («واتَّشِقْ وتجَبْجَبِ») yanlış tərcümə edilmişdir (əti qaxac etmək və qaxac edib qabda saxlamaq əvəzinə «onu yeyib doyun və bolca için» yazılmışdır)."
+ ],
+ "review_ts": "2026-11-26T00:27:45.995Z"
 }

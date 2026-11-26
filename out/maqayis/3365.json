@@ -11,7 +11,16 @@
   "page_to": 115
  },
  "ar": "القاف والفاء والطاء كلمةٌ واحدة. يقولون: قَفَط الطَّائرُ، إذا سَفِد",
- "az": "[قفط] Qaf, fa və ta. Tək bir sözdür. «Qəfətət-tairu» (quş cütləşdi) deyirlər.",
+ "az": "[قفط] Qaf, fa və ta tək bir sözdür. Deyirlər: قَفَط الطَّائرُ (quş cütləşdi), yəni cütləşdikdə belə deyilir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:38:47.649Z"
+ "ts": "2026-10-26T00:38:47.649Z",
+ "prev_az": "[قفط] Qaf, fa və ta. Tək bir sözdür. «Qəfətət-tairu» (quş cütləşdi) deyirlər.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "İzah olunan «قَفَط الطَّائرُ» ifadəsi ərəb qrafikası ilə saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-26T00:21:41.321Z"
 }

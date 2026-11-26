@@ -13,5 +13,10 @@
  "ar": "الكاف والذال كلمةٌ واحدة، وهي الكَذَّانُ: حجارةٌ رِخوة كأنّها مَدَر.",
  "az": "[كذ] الكاف والذال كلمةٌ واحدة، (Kaf və zal hərfləri tək bir kəlmədir), وهي الكَذَّانُ: حجارةٌ رِخوة كأنّها مَدَر. (və o, əl-kəzzandır: kəsək kimi yumşaq daşlardır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T00:22:42.289Z"
 }

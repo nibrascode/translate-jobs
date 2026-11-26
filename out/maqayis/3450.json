@@ -13,5 +13,10 @@
  "ar": "الكاف والألف والدال يدلُّ على شِدَّة ومَشَقّة. يقولون:\nتكَاءَده الأمرُ، إذا صعُب عليه. والعَقَبة الكَؤُود: الصَّعبة.",
  "az": "[كأد] (Kaf, əlif və dal) — şiddət və məşəqqətə dəlalət edir. Deyirlər: تكَاءَده الأمرُ (tekəədəhül-əhəru) — iş ona çətin gəldiyi zaman. Və العَقَبة الكَؤُود (əl-əqəbə əl-kəud) — çətin yoxuş.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:39.620Z"
+ "ts": "2026-10-26T00:40:39.620Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T00:33:42.238Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الكاف والواو والفاء أُصَيل يقولون: إنّه يدلُّ على استدارةٍ في شيء. قالوا: تكوَّفَ الرّملُ: استدارَ. قالوا: ولذلك سمِّيت الكُوفةُ.\nويقولون: وقعنا في كُوفَان وكُوَّفان (٣)، أي عناء ومشقّة، كأنَّهم اشتقُّوا ذلك من الرَّمل المتكَوِّف، لأن المشيَ فيه يُعَنِّي.",
  "az": "[كوف] Kaf, vau və fa zəif bir əsas olub deyirlər ki, o, bir şeydə dairəviliyə dəlalət edir. Dedilər: تكوَّفَ الرّملُ (təkvəfər-rəmlü) — qum dairəvi oldu. Dedilər: Kufə (الكُوفة) buna görə belə adlandırılmışdır.\nVə deyirlər: وقعنا في كُوفَان وكُوَّفان (vəqəna fi kufan və kuvvəfan), yəni əziyyət və məşəqqət, sanki bunu yığılmış qumdan götürmüşlər, çünki orada yerimək əziyyətlidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:17.222Z"
+ "ts": "2026-10-26T00:40:17.222Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T00:32:16.588Z"
 }

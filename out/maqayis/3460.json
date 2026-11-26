@@ -11,7 +11,17 @@
   "page_to": 155
  },
  "ar": "الكاف والباء والنون أصلٌ صحيح يدلُّ على قَبْضٍ وتقبُّض.\nيقال للبخيل: الكُبُنَّة: وقد اكبَأَنَّ، إذا تَقَبَّض حين سئل. ويقال: كبَن الدَّلوَ، إذا ثَنَى فَمَها وخَرزَه ويقال له الكَبْن. ومن الباب كَبَن عن الشيء: عَدَل، وكَنَب أيضاً. والمَكْبُون من الخيل: القصير القوائم.\nومما قيس على هذا قولُهم: تَكبَّن (٢)، إذا سَمِن. ولا يكون ذلك إلاَّ في تجمُّع لحم. ويقولون: كَبَن كُبُوناً، إذا عَدا في لِينٍ واسترسال.",
- "az": "[كبن] (Kəbənə). Kaf, ba və nun (الكاف والباء والنون) həqiqi bir kök olub, tutmağa və yığılmağa (qəbz və təqəbbüzə) dəlalət edir. Xəsislərə الكُبُنَّة (əl-kubunnə) deyilir. O, sual verilərkən büzüşdükdə اكبَأَنَّ (ikbəənnə) etmiş olar. كبَن الدَّلوَ (dəvənin ağzını bükdü) – onun ağzını qatlayıb tikdi, buna əl-kəbn (الكَبْن) deyilir. Bu fəsildəndir: كبَن عن الشيء (bir şeydən üz döndərdi) – uzaqlaşdı, həmçinin كَنَب (kənəb) də dedilər. Əl-məkbun (المَكْبُون) – qısaayaqlı at. Buna qiyas edilənlərdən biri onların تَكبَّن (təkkəbən) sözüdür (٢) – kökəldi, bu da ancaq ətin yığılmasında olur. Deyirlər: كَبَن كُبُوناً (kəbən kubunən) – yumşaqlıqla və sərbəst şəkildə qaçdı.",
+ "az": "[كبن]\nKaf, ba və nun tutmağa və yığılmağa (büzüşməyə) dəlalət edən həqiqi bir kökdür.\nXəsisə الكُبُنَّة deyilir; o, nəsə istənildiyi zaman büzüşdükdə اكبَأَنَّ deyilir. كبَن الدَّلوَ: qovanın ağzını büküb tikdikdə deyilir və buna الكَبْن deyilir. Bu qəbildəndir: كَبَن عن الشيء: bir şeydən yayındı; həmçinin كَنَب də deyilir. Atlardan المَكْبُون: qısaayaqlı atdır.\nBuna qiyas edilənlərdən biri onların تَكبَّن (٢) sözüdür ki, kökəldikdə işlədilir. Bu da yalnız ətin yığılmasında (bədəndə toplanmasında) olur. Deyirlər: كَبَن كُبُوناً: yumşaqlıqla və sərbəst şəkildə qaçdıqda deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:41:04.625Z"
+ "ts": "2026-10-26T00:41:04.625Z",
+ "prev_az": "[كبن] (Kəbənə). Kaf, ba və nun (الكاف والباء والنون) həqiqi bir kök olub, tutmağa və yığılmağa (qəbz və təqəbbüzə) dəlalət edir. Xəsislərə الكُبُنَّة (əl-kubunnə) deyilir. O, sual verilərkən büzüşdükdə اكبَأَنَّ (ikbəənnə) etmiş olar. كبَن الدَّلوَ (dəvənin ağzını bükdü) – onun ağzını qatlayıb tikdi, buna əl-kəbn (الكَبْن) deyilir. Bu fəsildəndir: كبَن عن الشيء (bir şeydən üz döndərdi) – uzaqlaşdı, həmçinin كَنَب (kənəb) də dedilər. Əl-məkbun (المَكْبُون) – qısaayaqlı at. Buna qiyas edilənlərdən biri onların تَكبَّن (təkkəbən) sözüdür (٢) – kökəldi, bu da ancaq ətin yığılmasında olur. Deyirlər: كَبَن كُبُوناً (kəbən kubunən) – yumşaqlıqla və sərbəst şəkildə qaçdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök başlığına əsassız olaraq «(Kəbənə)» əlavə edilmişdir.",
+  "«الدَّلو» (qova) sözü «dəvə» kimi kobud şəkildə səhv tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:35:55.956Z"
 }

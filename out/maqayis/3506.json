@@ -11,7 +11,18 @@
   "page_to": 176
  },
  "ar": "الكاف والراء والدال أصلٌ صحيح يدلُّ على مُدافَعةٍ وإطْراد. يقال: هو يَكرُدُهم، أي يدفعهم ويطردُهم. ويزعمون أنّ الكُرْدَ، هؤلاء القَومَ، مشتقٌّ من المُكارَدَة، وهي المطاردة. قال:\n* ألا إنَّ أهل الغَدْرِ آباؤك الكُرْدُ *\nفأمَّا الكَرْد فالعُنُق، قالوا: هو معرَّب.\nومِمَّا فيه ولا يُعلَم صحّته، قولُهم: إنّ الكِرْدِيدة: القطعة من التَّمر. ويُنشِدون:\nطُوبَى لمن كانت له كِرْدِيدهْ … يأكلُ منها وهو ثانٍ جيدَهْ (٢)\nوما أبْعَدَ هذا وشِبهَهُ من الصحّة. واللّه أعلم.",
- "az": "[kərd] \nКаф, ra və dal – müdafiə olunmağa və qovub uzaqlaşdırmağa dəlalət edən səhih bir kökdür. Deyilir: «هو يَكرُدُهم» (həüə yəkrudühüm) – yəni o, onları dəf edir və qovub uzaqlaşdırır. Güman edirlər ki, «الكُرْد» (əl-kürd) – yəni bu qovum «المُكارَدَة» (əlmükaradə) – yəni qovub qovvalamaq sözündən törəmişdir. Şair demişdir:\n* ألا إنَّ أهل الغَدْرِ آباؤك الكُرْدُ *\n(Bilin ki, xainlərin ataları kürdlərdir)\nQaldı ki, «الكَرْد» (əl-kərd) – boyundur, dedilər ki, bu, ərəbləşdirilmiş sözdür.\nSəhihliyi dəqiq bilinməyən sözlərdən biri də onların «الكِرْدِيدة» (əl-kirdidə) – bir tikə xurma deməsidir. Onlar bu beyti dəlil gətirirlər:\nطُوبَى لمن كانت له كِرْدِيدهْ … يأكلُ منها وهو ثانٍ جيدَهْ (٢)\n(Nə o kəsə ki, bir tikə xurması ola... boynunu əyərək ondan yeyə)\nBu və buna bənzər sözlərin səhihlikdən nə qədər uzaq olduğunu bir Allah bilir.",
+ "az": "[كرد]\nKaf, ra və dal – müdafiə olunmağa və qovub uzaqlaşdırmağa dəlalət edən səhih bir kökdür. Deyilir: هو يَكرُدُهم – yəni o, onları dəf edir və qovub uzaqlaşdırır. Güman edirlər ki, الكُرْد – yəni bu qövm المُكارَدَة (qovub qovvalamaq) sözündən törəmişdir. Şair demişdir:\n* ألا إنَّ أهل الغَدْرِ آباؤك الكُرْدُ *\n(Bilin ki, xainlərin ataları kürdlərdir).\nQaldı ki الكَرْد – boyundur, dedilər ki, bu, ərəbləşdirilmiş sözdür.\nSəhihliyi dəqiq bilinməyən sözlərdən biri də onların الكِرْدِيدة (bir tikə xurma) deməsidir. Onlar bu beyti dəlil gətirirlər:\nطُوبَى لمن كانت له كِرْدِيدهْ … يأكلُ منها وهو ثانٍ جيدَهْ (٢)\n(Nə bəxtiyardır o kəs ki, bir tikə xurması ola... boynunu əyərək ondan yeyə).\nBu və buna bənzər sözlərin səhihlikdən nə qədər uzaq olduğunu Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:43:20.535Z"
+ "ts": "2026-10-26T00:43:20.535Z",
+ "prev_az": "[kərd] \nКаф, ra və dal – müdafiə olunmağa və qovub uzaqlaşdırmağa dəlalət edən səhih bir kökdür. Deyilir: «هو يَكرُدُهم» (həüə yəkrudühüm) – yəni o, onları dəf edir və qovub uzaqlaşdırır. Güman edirlər ki, «الكُرْد» (əl-kürd) – yəni bu qovum «المُكارَدَة» (əlmükaradə) – yəni qovub qovvalamaq sözündən törəmişdir. Şair demişdir:\n* ألا إنَّ أهل الغَدْرِ آباؤك الكُرْدُ *\n(Bilin ki, xainlərin ataları kürdlərdir)\nQaldı ki, «الكَرْد» (əl-kərd) – boyundur, dedilər ki, bu, ərəbləşdirilmiş sözdür.\nSəhihliyi dəqiq bilinməyən sözlərdən biri də onların «الكِرْدِيدة» (əl-kirdidə) – bir tikə xurma deməsidir. Onlar bu beyti dəlil gətirirlər:\nطُوبَى لمن كانت له كِرْدِيدهْ … يأكلُ منها وهو ثانٍ جيدَهْ (٢)\n(Nə o kəsə ki, bir tikə xurması ola... boynunu əyərək ondan yeyə)\nBu və buna bənzər sözlərin səhihlikdən nə qədər uzaq olduğunu bir Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıqda kök ərəb qrafikası ilə yazılmayıb («[kərd]»).",
+  "Hərf adında Kiril hərfləri («Каف») var.",
+  "Mətndə latın sözünə ərəb hərfi qarışıb («كökdür»)."
+ ],
+ "review_ts": "2026-11-26T00:58:42.114Z"
 }

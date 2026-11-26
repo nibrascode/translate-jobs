@@ -11,7 +11,17 @@
   "page_to": 123
  },
  "ar": "الكاف والهاء ليس فيه من اللغة شيءٌ إلا ما يُشبه الحكاية، يقال كَهَّ السَّكرانُ، إذا استنكَهْتَه فكَهَّ في وجهك. وليس هذا بشيء.\nويقولون: كهكه الأسدُ في زئيره. ثم يقولون: الكَهكاهُ من الرِّجال: الضعيف.\nوينشدون:\nولا كَهْكَاهة بَرَمٌ … إذا ما اشتدَّتِ الحِقَبُ (٣)\nولا معنى عندي لقولهم إنّه الضعيف. وهذا كالتجوُّز، وإنما يراد أنّه يَكُهُّ في وجه سائلِه. والباب كلُّه واحد.",
- "az": "[كه] الكاف والهاء ليس فيه من اللغة شيءٌ إلا ما يُشبه الحكاية، (Kaf və hə hərflərindən ibarət kökdə təqlidə bənzəyəndən başqa dildən heç bir şey yoxdur), يقال كَهَّ السَّكرانُ، (deyilir ki, sərxoş adam kəh-kəh elədi), إذا استنكَهْتَه فكَهَّ في وجهك. (nəfəsini iylədikdə üzünə üfürdü). وليس هذا بشيء. (Və bu heç bir şey deyil). ويقولون: كهكه الأسدُ في زئيره. (Və deyirlər ki: şir nəriltisində kəhkəhə çəkdi). ثم يقولون: الكَهكاهُ من الرِّجال: الضعيف. (Sonra deyirlər ki: kişilərdən əl-kəhkah — zəif deməkdir). وينشدون: ولا كَهْكَاهة بَرَمٌ … إذا ما اشتدَّتِ الحِقَبُ (٣) (Və şeir oxuyurlar: Zəif və darıxdırıcı deyildir... zamanlar şiddətləndiyi zaman). ولا معنى عندي لقولهم إنّه الضعيف. (Və mənim yanımda onların onun zəif olması barədə dediklərinin heç bir mənası yoxdur). وهذا كالتجوُّز، (Və bu məcaza bənzəyir), وإنما يراد أنّه يَكُهُّ في وجه سائلِه. (və yalnız o nəzərdə tutulur ki, o, istəyənin üzünə üfürür). والباب كلُّه واحد. (Və qapı tamamilə birdir).",
+ "az": "[كه]\nKaf və hə hərflərindən ibarət kökdə təqlidə bənzəyəndən başqa dildən heç bir şey yoxdur; deyilir: كَهَّ السَّكرانُ (sərxoş adam nəfəsini üfürdü), nəfəsini iylədikdə üzünə üfürdükdə belə deyilir. Və bu, mötəbər bir şey deyildir.\nDeyirlər: كهكه الأسدُ في زئيره (şir nəriltisində «kəh-kəh» səsi çıxardı). Sonra deyirlər: kişilərdən الكَهكاهُ (kəhkah) zəif deməkdir.\nVə belə şeir oxuyurlar:\nولا كَهْكَاهة بَرَمٌ … إذا ما اشتدَّتِ الحِقَبُ (٣) (Zamanlar şiddətləndikdə nə zəifdir, nə də xəsis/məclislərdən qaçandır).\nMənim nəzərimdə onların onun zəif olması barədə dediklərinin heç bir mənası yoxdur. Bu, məcaza bənzəyir; bununla yalnız onun istəyənin üzünə üfürməsi (qovması) nəzərdə tutulur. Və babın hamısı birdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.476Z"
+ "ts": "2026-10-26T00:39:12.476Z",
+ "prev_az": "[كه] الكاف والهاء ليس فيه من اللغة شيءٌ إلا ما يُشبه الحكاية، (Kaf və hə hərflərindən ibarət kökdə təqlidə bənzəyəndən başqa dildən heç bir şey yoxdur), يقال كَهَّ السَّكرانُ، (deyilir ki, sərxoş adam kəh-kəh elədi), إذا استنكَهْتَه فكَهَّ في وجهك. (nəfəsini iylədikdə üzünə üfürdü). وليس هذا بشيء. (Və bu heç bir şey deyil). ويقولون: كهكه الأسدُ في زئيره. (Və deyirlər ki: şir nəriltisində kəhkəhə çəkdi). ثم يقولون: الكَهكاهُ من الرِّجال: الضعيف. (Sonra deyirlər ki: kişilərdən əl-kəhkah — zəif deməkdir). وينشدون: ولا كَهْكَاهة بَرَمٌ … إذا ما اشتدَّتِ الحِقَبُ (٣) (Və şeir oxuyurlar: Zəif və darıxdırıcı deyildir... zamanlar şiddətləndiyi zaman). ولا معنى عندي لقولهم إنّه الضعيف. (Və mənim yanımda onların onun zəif olması barədə dediklərinin heç bir mənası yoxdur). وهذا كالتجوُّز، (Və bu məcaza bənzəyir), وإنما يراد أنّه يَكُهُّ في وجه سائلِه. (və yalnız o nəzərdə tutulur ki, o, istəyənin üzünə üfürür). والباب كلُّه واحد. (Və qapı tamamilə birdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytindəki «بَرَمٌ» sözü «darıxdırıcı» kimi səhv tərcümə olunub.",
+  "«كَهَّ» və «كهكه» feilləri gülüş bildirən «kəh-kəh elədi / kəhkəhə çəkdi» kimi yanlış verilib."
+ ],
+ "review_ts": "2026-11-26T00:22:39.573Z"
 }

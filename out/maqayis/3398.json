@@ -11,7 +11,18 @@
   "page_to": 136
  },
  "ar": "الكاف والميم والنون أُصَيلٌ يدلُّ على استخفاءِ. يقال:\nكَمَنَ الشَّيءُ كُمونًا. واشتقاقُ الكَمِين في الحرب من هذا. وزعم ناسٌ أنّ النّاقةَ الكَمُونَ: الكَتُومُ اللِّقاح، وهي إذا لَقِحَت لم تَشُل بذَنبها. وحُزْنٌ مُكتمِنٌ في القلب كأنّه مُستَخفٍ. والكُمْنة: داءٌ في العين من بَقِيَّة رمَد.",
- "az": "[كمن] Kaf, mim və nun kiçik bir kök olub gizlənməyə dəlalət edir. Deyilir: كَمَنَ الشَّيءُ كُمونًا (şey gizləndi, pusquda durdu). Müharibədəki «الكَمِين» (kəmin - pusqu) sözünün etimologiyası da bundan götürülmüşdür. Bəzi adamlar iddia etmişlər ki, «النّاقةَ الكَمُونُ» (əl-nəqətül-kəmun) — cütləşmədiyini gizlədən dişi dəvədir; o, cütləşdiyi zaman quyruğunu qımıldatmaz. Ürəkdəki «حُزْنٌ مُكْتَمِنٌ» (müktəmin kədər) də sanki gizlənmiş kədər deməkdir. «الكُمْنة» (kümnə) — gözün arpadan qalmış qalıq xəstəliyidir.",
+ "az": "[كمن]\nKaf, mim və nun — gizlənməyə dəlalət edən kiçik bir əsasdır. Deyilir:\n«كَمَنَ الشَّيءُ كُمونًا» (şey gizləndi, pusquda durdu). Müharibədəki «الكَمِين» (pusqu) sözünün etimologiyası da bundan götürülmüşdür. Bəzi adamlar iddia etmişlər ki, «النّاقةَ الكَمُونَ» — mayalanmasını (boğazlığını) gizlədən dişi dəvədir; o, mayalandığı zaman quyruğunu qaldırmaz. Ürəkdəki «حُزْنٌ مُكتمِنٌ» də sanki gizlənmiş kədər deməkdir. «الكُمْنة» — göz iltihabının (rəməd) qalığından gözdə əmələ gələn xəstəlikdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:55.165Z"
+ "ts": "2026-10-26T00:39:55.165Z",
+ "prev_az": "[كمن] Kaf, mim və nun kiçik bir kök olub gizlənməyə dəlalət edir. Deyilir: كَمَنَ الشَّيءُ كُمونًا (şey gizləndi, pusquda durdu). Müharibədəki «الكَمِين» (kəmin - pusqu) sözünün etimologiyası da bundan götürülmüşdür. Bəzi adamlar iddia etmişlər ki, «النّاقةَ الكَمُونُ» (əl-nəqətül-kəmun) — cütləşmədiyini gizlədən dişi dəvədir; o, cütləşdiyi zaman quyruğunu qımıldatmaz. Ürəkdəki «حُزْنٌ مُكْتَمِنٌ» (müktəmin kədər) də sanki gizlənmiş kədər deməkdir. «الكُمْنة» (kümnə) — gözün arpadan qalmış qalıq xəstəliyidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الكتوم اللقاح» ifadəsi əks mənada — «cütləşmədiyini gizlədən» kimi səhv tərcümə edilmişdir (doğrusu: mayalanmasını/boğazlığını gizlədən).",
+  "«لم تَشُل بذَنبها» ifadəsi «quyruğunu qaldırmaz» əvəzinə «quyruğunu qımıldatmaz» kimi verilmişdir.",
+  "«رمَد» (göz iltihabı) sözü səhvən «arpa» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:24:35.387Z"
 }

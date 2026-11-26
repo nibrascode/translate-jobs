@@ -11,7 +11,17 @@
   "page_to": 152
  },
  "ar": "الكاف والألف والذال كلمة، وهي الكَاذَة: لحمُ أعالى الفَخِذين",
- "az": "[كاذ] (Kaf, əlif və zal) hərf bir kəlmədir, o da الكَاذَة (əl-kazə) — budun yuxarı hissəsinin ətidir.",
+ "az": "[كاذ]\n(Kaf, əlif və zal) bir kəlmədir, o da الكَاذَة (əl-kazə) — iki budun yuxarı hissələrinin ətidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:39.620Z"
+ "ts": "2026-10-26T00:40:39.620Z",
+ "prev_az": "[كاذ] (Kaf, əlif və zal) hərf bir kəlmədir, o da الكَاذَة (əl-kazə) — budun yuxarı hissəsinin ətidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Kaf, əlif və zal hərf bir kəlmədir» ifadəsində «hərf» sözü artıq və xətalıdır.",
+  "«الفَخِذين» ikilik formadadır (hər iki budun yuxarı hissəsi)."
+ ],
+ "review_ts": "2026-11-26T00:30:48.908Z"
 }

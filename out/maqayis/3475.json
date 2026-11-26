@@ -11,7 +11,17 @@
   "page_to": 162
  },
  "ar": "الكاف والثاء والميم أُصَيلٌ يدلُّ على امتلاءِ وسَعة. يقال للشَّبعان: الأَكْثَم. ويقال للعظيم البطن: أكْثَم. ويقولون: أكْثَمَ قِربتَه، إذا ملَأَها. والأَكْثَم: الطَّريق الواسع. ويقال أكْثَمَ فَمَه (١)، إذا أدْخَلَ فيه القِثّاءَ ونحوَه ثمّ كَسَره.",
- "az": "[كثم] (Kəf, Sə, Mim) dolğunluğa və genişliyə dəlalət edən kiçik bir kökdür. Tox olan şəxsə «الأكثم» (çox yeyən, tox) deyilir. Qarnı böyük olana da «أكثم» deyilir. Deyirlər ki, «أكثم قربته» (tuluğunu doldurdu). «الأكثم» (geniş yol). Həmçinin «أكثم فمه» (١) (ağzına xiyar və bənzərini qoyub onu sındırdı) ifadəsi işlədilir.",
+ "az": "[كثم] (Kəf, Sa, Mim) dolğunluğa və genişliyə dəlalət edən kiçik bir kökdür. Tox olana «الأَكْثَم» deyilir. Qarnı böyük olana da «أكْثَم» deyilir. Deyirlər: «أكْثَمَ قِربتَه» (tuluğunu doldurduqda). «الأَكْثَم» (geniş yol) deməkdir. «أكْثَمَ فَمَه» (١) ifadəsi isə ağzına xiyar və bənzərini daxil edib sındırdıqda işlədilir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:42:38.345Z"
+ "ts": "2026-10-26T00:42:38.345Z",
+ "prev_az": "[كثم] (Kəf, Sə, Mim) dolğunluğa və genişliyə dəlalət edən kiçik bir kökdür. Tox olan şəxsə «الأكثم» (çox yeyən, tox) deyilir. Qarnı böyük olana da «أكثم» deyilir. Deyirlər ki, «أكثم قربته» (tuluğunu doldurdu). «الأكثم» (geniş yol). Həmçinin «أكثم فمه» (١) (ağzına xiyar və bənzərini qoyub onu sındırdı) ifadəsi işlədilir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatlardan hərəkələr silinib.",
+  "«إذا ملأها» cümləsi və bəzi ifadələr tərcümədə dəqiq əks olunmayıb."
+ ],
+ "review_ts": "2026-11-26T00:47:21.870Z"
 }

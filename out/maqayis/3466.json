@@ -11,7 +11,18 @@
   "page_to": 157
  },
  "ar": "الكاف والتاء والميم أصلٌ صحيحٌ يدلُّ على إخفاء وسَتر. من ذلك كَتَمت الحديثَ كتْما وكِتماناً. قال اللّه تعالى ﴿وَلا يَكْتُمُونَ اَللّهَ حَدِيثاً﴾ ويقال: ناقةٌ كَتومٌ: لا ترغُو إذا رُكِبت، قُوّةً وصَبرا. قال:\n* وكانت بقيّةَ ذَوْدٍ كُتُمْ (٣) *\nوسحابٌ مُكْتَتِم: لا رعد فيه. وخَرْزٌ كَتِيمٌ: لا يَنْضَح الماء. وقوسٌ كَتوم:\nلا تُرِنُّ. وأمّا الكَتَم، فنباتٌ يُختَضَب به.",
- "az": "[كتم] (Kətəmə). Kaf, ta və mim (الكاف والتّاء والميم) gizlətməyə və örtməyə dəlalət edən həqiqi bir kökdür. Bunlardan biri كَتَمت الحديثَ كتْما وكِتماناً (hədisi gizlətdim, gizlətməklə gizlətdim). Uca Allah buyurmuşdur: mənaca tərcümə: «Onlar Allaha heç bir sözü gizlətməzlər» ﴿وَلا يَكْتُمُونَ اَللّهَ حَدِيثاً﴾. Deyilir: ناقةٌ كَتومٌ (kətum dəvə) – gücünə və səbrinə görө minildikdə səsi çıxmayan dəvə. Şair demişdir:\n* وكانت بقيّةَ ذَوْدٍ كُتُمْ (٣) *\n(O, susqun dəvə sürüsünün qalığı idi.)\nسحابٌ مُكْتَتِم (məktətim bulud) – ildırımı olmayan bulud. خَرْزٌ كَتِيمٌ (kətim tikiş) – suyu buraxmayan tikiş. قوسٌ كَتوم (kətum yay) – səsi çıxmayan yay. Əl-kətəm (الكَتَم) isə boyanılan bir bitkidir.",
+ "az": "[كتم]\nKaf, ta və mim gizlətməyə və örtməyə dəlalət edən həqiqi bir kökdür. Bunlardandır: كَتَمت الحديثَ كتْما وكِتماناً (sözü gizlətdim). Uca Allah buyurmuşdur: ﴿وَلا يَكْتُمُونَ اَللّهَ حَدِيثاً﴾ (mənaca tərcümə: «Onlar Allahdan heç bir sözü gizlədə bilməzlər»). Deyilir: ناقةٌ كَتومٌ: qüvvət və dözümünə görə minildiyi zaman bağırmayan (səs çıxarmayan) dəvədir. Şair demişdir:\n* وكانت بقيّةَ ذَوْدٍ كُتُمْ (٣) *\n(O, səssiz dəvələr dəstəsinin qalığı idi).\nسحابٌ مُكْتَتِم: içində göy gurultusu olmayan buluddur. خَرْزٌ كَتِيمٌ: su sızdırmayan tikişdir. قوسٌ كَتوم: səsi çıxmayan yaydır. الكَتَم sözünə gəldikdə isə, o, saç-saqqal boyanan bir bitkidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:41:04.625Z"
+ "ts": "2026-10-26T00:41:04.625Z",
+ "prev_az": "[كتم] (Kətəmə). Kaf, ta və mim (الكاف والتّاء والميم) gizlətməyə və örtməyə dəlalət edən həqiqi bir kökdür. Bunlardan biri كَتَمت الحديثَ كتْما وكِتماناً (hədisi gizlətdim, gizlətməklə gizlətdim). Uca Allah buyurmuşdur: mənaca tərcümə: «Onlar Allaha heç bir sözü gizlətməzlər» ﴿وَلا يَكْتُمُونَ اَللّهَ حَدِيثاً﴾. Deyilir: ناقةٌ كَتومٌ (kətum dəvə) – gücünə və səbrinə görө minildikdə səsi çıxmayan dəvə. Şair demişdir:\n* وكانت بقيّةَ ذَوْدٍ كُتُمْ (٣) *\n(O, susqun dəvə sürüsünün qalığı idi.)\nسحابٌ مُكْتَتِم (məktətim bulud) – ildırımı olmayan bulud. خَرْزٌ كَتِيمٌ (kətim tikiş) – suyu buraxmayan tikiş. قوسٌ كَتوم (kətum yay) – səsi çıxmayan yay. Əl-kətəm (الكَتَم) isə boyanılan bir bitkidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«كَتَمت الحديثَ» ifadəsində «hədisi» deyil, «sözü» nəzərdə tutulur.",
+  "«görө» sözündə kiril hərfi işlədilmişdir.",
+  "Quran ayəsinin tərcümə formatı qaydaya uyğunlaşdırılmalıdır: ərəb mətni + «mənaca tərcümə: ...»."
+ ],
+ "review_ts": "2026-11-26T00:35:55.958Z"
 }

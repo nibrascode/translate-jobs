@@ -11,9 +11,21 @@
   "page_to": 94
  },
  "ar": "القاف والصاد والحرف المعتلّ أصلٌ صحيح يدلُّ على بُعدٍ وإبعاد. من ذلك القَصَا: البُعْد. وهو بالمكان الأقصَى والنَّاحيةِ القُصوَى.\nوذهبتُ قَضاَ فلانٍ، أي ناحيته. ويقال: أحاطوُنا القَصَا. أي وقفوا منّا بين البعيد والقريب غير أنَّهم مُحِيطون بنا كالشَّيءِ يَحُوط الشّيءَ يحفظه. قال:\nفحَاطوُنا القَصَا ولقد رأونا … قريباً حيثُ يُستَمَع السِّرارُ (١)\nوأقصَيتُه: أبعدتُه. والقَصِيّةُ من الإبل: المودوعة الكريمة لا تُجهَد ولا تُرْكَب، أي تُقصَى إكراماً لها. فأمَّا النّاقةُ القَصْواء فالمقطوعة الأذُن.\nوقد يمكن هذا على أنَّ أذنَها أُبعِدَت عنها حين قُطعت. ويقولون: قصَوتُ البعيرَ فهو مقصُوٌّ: قطعت أذنَه. وناقةٌ قَصْواء، ولا يقال بعيرٌ أقصَى.",
- "az": "«قصوى»: القاف, Sad və zəif hərf uzaqlığa və uzaqlaşdırmağa dəlalət edən səhih bir kökdür. Bunlardan biri «القَصَا» — uzaqlıqdır. O, ən uzaq yerdədir («بالمكان الأقصَى») və uzaq tərəfdədir («النَّاحيةِ القُصوَى»).\n\nMən filankəsin tərəfinə («قَضاَ فلانٍ») getdim, yəni onun istiqamətinə. Deyilir: «أحاطوُنا القَصَا», yəni bizə nə uzaq, nə də yaxın yerdə dayandılar, lakin onlar bizi əhatə edən bir şey kimi əhatəyə aldılar, necə ki bir şey başqa bir şeyi qorumaq üçün əhatə edir. Şair demişdir:\nOnlar bizi əhatə etdilər, halbuki onlar bizi yaxında, gizli sözlərin dinlənildiyi yerdə gördülər (١).\n\n«أقصَيتُه» — onu uzaqlaşdırdım. Dəvələrdən «القَصِيّةُ» — əziyyət verilməyən və minilməyən, ehtiramla saxlanılan, yəni ehtiram üçün uzaqlaşdırılan (işlədilməyən) dəvədir. Qaldı «النّاقةُ القَصْواء» (Qəsdə deyilən dişi dəvə) — qulağı kəsilmişdir.\n\nBu ona görə də ola bilər ki, o kəsilərkən onun qulağı ondan uzaqlaşdırılmışdır. Deyirlər: «قصَوتُ البعيرَ فهو مقصُوٌّ» (Dəvənin qulağını kəsdim, o, qulağı kəsilmişdir). Və «ناقةٌ قَصْواء» (Qulağı kəsilmiş dişi dəvə) deyilir, lakin «بعير أقصى» (qulağı kəsilmiş erkək dəvə) deyilməz.",
+ "az": "[قصوى]\\nQaf, sad və illətli hərf uzaqlığa və uzaqlaşdırmağa dəlalət edən səhih bir kökdür. Bundan القَصَا (uzaqlıq) gəlir. O, بالمكان الأقصَى (ən uzaq yerdə) və النَّاحيةِ القُصوَى (ən uzaq tərəfdədir).\\nوذهبتُ قَضاَ فلانٍ (Falanın tərəfinə getdim), yəni onun yönünə. Deyilir: أحاطوُنا القَصَا (Bizi uzaqdan əhatə etdilər), yəni bizdən nə uzaq, nə də yaxın bir yerdə dayandılar, lakin bir şeyi qorumaq üçün əhatə edən şey kimi bizi əhatəyə aldılar. Şair demişdir:\\nفحَاطوُنا القَصَا ولقد رأونا … قريباً حيثُ يُستَمَع السِّرارُ (١) (Bizi uzaqdan əhatəyə aldılar, halbuki bizi yaxında, pıçıltının eşidildiyi yerdə görmüşdülər).\\nأقصَيتُه: onu uzaqlaşdırdım. Dəvələrdən القَصِيّةُ: işlədilməyən, əziyyət verilməyən və minilməyən nəcib dəvədir, yəni ehtiram üçün uzaqlaşdırılır. النّاقةُ القَصْواء (qəsva dişi dəvə) isə qulağı kəsilmiş dəvədir.\\nBu ona görə də ola bilər ki, kəsilərkən qulağı ondan uzaqlaşdırılmışdır. Deyirlər: قصَوتُ البعيرَ فهو مقصُوٌّ (Dəvənin qulağını kəsdim, o, qulağı kəsilmişdir). وناقةٌ قَصْواء (qulağı kəsilmiş dişi dəvə) deyilir, lakin بعيرٌ أقصَى (qulağı kəsilmiş erkək dəvə) deyilməz.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:36:22.598Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«قصوى»: القاف, Sad və zəif hərf uzaqlığa və uzaqlaşdırmağa dəlalət edən səhih bir kökdür. Bunlardan biri «القَصَا» — uzaqlıqdır. O, ən uzaq yerdədir («بالمكان الأقصَى») və uzaq tərəfdədir («النَّاحيةِ القُصوَى»).\n\nMən filankəsin tərəfinə («قَضاَ فلانٍ») getdim, yəni onun istiqamətinə. Deyilir: «أحاطوُنا القَصَا», yəni bizə nə uzaq, nə də yaxın yerdə dayandılar, lakin onlar bizi əhatə edən bir şey kimi əhatəyə aldılar, necə ki bir şey başqa bir şeyi qorumaq üçün əhatə edir. Şair demişdir:\nOnlar bizi əhatə etdilər, halbuki onlar bizi yaxında, gizli sözlərin dinlənildiyi yerdə gördülər (١).\n\n«أقصَيتُه» — onu uzaqlaşdırdım. Dəvələrdən «القَصِيّةُ» — əziyyət verilməyən və minilməyən, ehtiramla saxlanılan, yəni ehtiram üçün uzaqlaşdırılan (işlədilməyən) dəvədir. Qaldı «النّاقةُ القَصْواء» (Qəsdə deyilən dişi dəvə) — qulağı kəsilmişdir.\n\nBu ona görə də ola bilər ki, o kəsilərkən onun qulağı ondan uzaqlaşdırılmışdır. Deyirlər: «قصَوتُ البعيرَ فهو مقصُوٌّ» (Dəvənin qulağını kəsdim, o, qulağı kəsilmişdir). Və «ناقةٌ قَصْواء» (Qulağı kəsilmiş dişi dəvə) deyilir, lakin «بعير أقصى» (qulağı kəsilmiş erkək dəvə) deyilməz.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq `[قصوى]` formatında deyil.",
+  "`القاف` hərf adı ərəbcə qalıb.",
+  "Şeir beytinin ərəbcə mətni buraxılıb.",
+  "`النّاقةُ القَصْواء` ifadəsi səhvən `(Qəsdə deyilən dişi dəvə)` kimi tərcümə edilib.",
+  "`بعيرٌ أقصَى` sitatında hərəkələr silinib."
+ ],
+ "review_ts": "2026-11-26T00:17:51.177Z"
 }

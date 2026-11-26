@@ -11,7 +11,17 @@
   "page_to": 115
  },
  "ar": "القاف والفاء والزاء أصلانِ يدلُّ [أحدهما] على شبه الوَثْب، والآخر على شيءِ يُلبَس.\nفالأوّل القَفَزان: مصدر قَفَز. ويقال للضَّفادع: القَوافز. والآخر القُفَّاز:\nوهو ضربٌ من الحَلْي تتَّخذه المرأةُ في يديها ورجليها. ويقولون على التشبيه بهذا:\nفرسٌ مقفَّز، إذا استدار تحجيلُه بقوائمه ولم يجاوز الأشاعر نَحْوَ المنعَّل. فأمَّا القَفِيز فمعرَّب.",
- "az": "[قفز] Qaf, fa və za. İki kökdür; biri tullanmağa, digəri isə geyilən bir şeyə dəlalət edir. Birincisi «qəfəzan»: «qəfəzə» (tullandı) sözünün məsdəridir. Qurbağalara «qəvəfiz» (tullananlar) deyilir. İkincisi «quffaz»: qadının əllərinə və ayaqlarına taxdığı bir növ bəzək əşyasıdır. Buna bənzədərək deyirlər: «Fərəsun muqəffəz», yəni ayaqlarındakı ağlıq (nişan) dairəvi olub, ayaqqabı geyinmiş kimi dırnaqların üstündən keçmədikdə deyilir. «Qəfiz» isə ərəbləşdirilmiş bir sözdür.",
+ "az": "[قفز] Qaf, fa və zey iki kökdür; biri tullanmağa bənzər bir şeyə, digəri isə geyilən bir şeyə dəlalət edir.\nBirincisi القَفَزان (tullanmaq): قَفَز (tullandı) feilinin məsdəridir. Qurbağalara القَوافز (tullananlar) deyilir. Digəri القُفَّاز (əlçək, bilərzik): qadının əllərinə və ayaqlarına taxdığı bir növ bəzək əşyasıdır. Buna bənzədərək deyirlər: فرسٌ مقفَّز (ayaqları halqalı at) — ayaqlarındakı ağlıq dairəvi olub, المُنَعَّل (nallı kimi ağlığı olan) atınki kimi dırnaq ətrafındakı tükləri aşmadıqda belə deyilir. القَفِيز (qəfiz) isə ərəbləşdirilmişdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:38:47.648Z"
+ "ts": "2026-10-26T00:38:47.648Z",
+ "prev_az": "[قفز] Qaf, fa və za. İki kökdür; biri tullanmağa, digəri isə geyilən bir şeyə dəlalət edir. Birincisi «qəfəzan»: «qəfəzə» (tullandı) sözünün məsdəridir. Qurbağalara «qəvəfiz» (tullananlar) deyilir. İkincisi «quffaz»: qadının əllərinə və ayaqlarına taxdığı bir növ bəzək əşyasıdır. Buna bənzədərək deyirlər: «Fərəsun muqəffəz», yəni ayaqlarındakı ağlıq (nişan) dairəvi olub, ayaqqabı geyinmiş kimi dırnaqların üstündən keçmədikdə deyilir. «Qəfiz» isə ərəbləşdirilmiş bir sözdür.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Baş sözlər və izah olunan ərəbcə sözlər ərəb qrafikası ilə saxlanılmayıb, transkripsiya edilib.",
+  "«الأشاعر» və «المنعَّل» sözlərinin izahında məna dəqiqliyi pozulub."
+ ],
+ "review_ts": "2026-11-26T00:21:41.320Z"
 }

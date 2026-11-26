@@ -11,7 +11,17 @@
   "page_to": 156
  },
  "ar": "الكاف والتاء والدال حرفٌ واحد، وهو الكَتَد: ما بين الكاهل إلى الظَّهر. والكَتَد: نجمٌ.",
- "az": "[كتد] (Kətədə). Kaf, ta və dal (الكاف والتاء والدال) bir hərfdir, o da əl-kətəd (الكَتَد) – boyun kökündən belə qədər olan hissədir. Əl-kətəd – həm də ulduz adıdır.",
+ "az": "[كتد]\nKaf, ta və dal tək bir əsasdır; o da الكَتَد: kürəklərarası (boyun kökü) ilə arxa (bel) arasındakı hissədir. الكَتَد həmçinin bir ulduzdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:41:04.625Z"
+ "ts": "2026-10-26T00:41:04.625Z",
+ "prev_az": "[كتد] (Kətədə). Kaf, ta və dal (الكاف والتاء والدال) bir hərfdir, o da əl-kətəd (الكَتَد) – boyun kökündən belə qədər olan hissədir. Əl-kətəd – həm də ulduz adıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök başlığına əsassız olaraq «(Kətədə)» əlavə edilmişdir.",
+  "«حرفٌ واحد» ifadəsi «bir hərfdir» kimi deyil, «tək bir əsasdır (tək bir mənadır)» kimi tərcümə olunmalıdır."
+ ],
+ "review_ts": "2026-11-26T00:35:55.957Z"
 }

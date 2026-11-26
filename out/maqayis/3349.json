@@ -11,7 +11,16 @@
   "page_to": 110
  },
  "ar": "القاف والعين والشين أُصَيلٌ يدلُّ على انحناءِ في شَيء.\nيقال قَعشْتُ رأسَ الخشبة كَيمَا تُعطَف إليك (*). وقَعَشت الشّيءَ: جمعتُه. وهو ذلك القياس، لأنَّك، تَعطِفُ بعضَه على بعض. وتَقَعْوَشَ الرّجلُ، إذا انحنَى.\nوكذلك الجِذع. والقُعُوشُ: مراكب النساء، الواحد قَعْشٌ.",
- "az": "[قعش] (qə-ə-ş): Qaf, eyn və şin bir şeydə olan əyiliyə dəlalət edən kiçik bir əsasdır. Deyilir: «قعشْتُ رأسَ الخشبة كَيمَا تُعطَف إليك» (*): Taxtanın başını əydim ki, sənin tərəfinə tərəf bükülsün. Və «قعَشت الشّيءَ» (qəştü əl-şeyə): mən onu topladım. Bu da həmin qisadandır, çünki sən onun bir hissəsini digər hissəsinə tərəf bükürsən. Və «تَقَعْوَشَ الرّجلُ» (təqəvəşə ər-racülü) — kişi belini büküb əyildikdə deyilir. Həmçinin kötük də belə olur. Və «القُعُوشُ» (əl-ququş): qadınların minikləri (həvdəcləri), təkiri «قَعْشٌ» (qəş) adlanır.",
+ "az": "[قعش]\nQaf, ayn və şin bir şeydəki əyiliyə dəlalət edən kiçik bir əsasdır.\nDeyilir: قَعشْتُ رأسَ الخشبة كَيمَا تُعطَف إليك (*) (taxtanın ucunu əydim ki, sənə tərəf bükülsün). قَعَشت الشّيءَ (şeyi topladım). Bu da həmin qiyasdandır, çünki sən onun bir hissəsini digər hissəsinə tərəf bükürsən. تَقَعْوَشَ الرّجلُ (kişi əyildikdə deyilir).\nHəmçinin gövdə (kötük) də belədir. القُعُوشُ (qadınların minik kəcavələri), təki قَعْشٌ (qəş) adlanır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:37:28.844Z"
+ "ts": "2026-10-26T00:37:28.844Z",
+ "prev_az": "[قعش] (qə-ə-ş): Qaf, eyn və şin bir şeydə olan əyiliyə dəlalət edən kiçik bir əsasdır. Deyilir: «قعشْتُ رأسَ الخشبة كَيمَا تُعطَف إليك» (*): Taxtanın başını əydim ki, sənin tərəfinə tərəf bükülsün. Və «قعَشت الشّيءَ» (qəştü əl-şeyə): mən onu topladım. Bu da həmin qisadandır, çünki sən onun bir hissəsini digər hissəsinə tərəf bükürsən. Və «تَقَعْوَشَ الرّجلُ» (təqəvəşə ər-racülü) — kişi belini büküb əyildikdə deyilir. Həmçinin kötük də belə olur. Və «القُعُوشُ» (əl-ququş): qadınların minikləri (həvdəcləri), təkiri «قَعْشٌ» (qəş) adlanır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«القياس» sözü «qisadandır», «الواحد» sözü isə «təkiri» kimi pozulmuş şəkildə yazılıb."
+ ],
+ "review_ts": "2026-11-26T00:20:21.053Z"
 }

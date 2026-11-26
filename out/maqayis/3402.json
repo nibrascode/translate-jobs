@@ -13,5 +13,10 @@
  "ar": "الكاف والميم والحاء كلماتٌ لا تنقاس، وفي بعضها شكّ، غير أنَّا ذكرنا ما ذكروه. قالوا: أكْمَحَ الكَرْمُ، إذا تحرّك للإِيراق. وقالوا:\nرجلٌ كَوْمَح: عظيم الأليَتَين. ويقولون: كَمَح الفرسَ، إذا كبَحَه.",
  "az": "[كمح] Kaf, mim və ha qiyas olunmayan (qaydaya tabe olmayan) sözlərdir, bəzilərində şübhə də var, lakin onların qeyd etdiklərini biz də qeyd etdik. Dedilər: «أَكْمَحَ الكَرْمُ» (tənək yarpaqlamağa başladı). Dedilər: «رجلٌ كَوْمَح» (kəvmah kişi - sağrıları böyük olan). Həmçinin deyirlər: «كَمَحَ الفرسَ» (atı cilovladı, onu dayandırdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:55.165Z"
+ "ts": "2026-10-26T00:39:55.165Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T00:25:15.882Z"
 }

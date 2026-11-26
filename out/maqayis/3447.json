@@ -11,7 +11,16 @@
   "page_to": 152
  },
  "ar": "الكاف والألف والراء. يقولون: الكَأْر: أن يَكْأَر الرّجُل من الطّعام، أي يصيب منه أخْذاً وأكلا.",
- "az": "[كار] (Kaf, əlif və ra). Deyirlər: الكَأْر (əl-kər) — adamın yeməkdən doyduqca, qarnını dolduraraq yeməsi.",
+ "az": "[كار]\n(Kaf, əlif və ra). Deyirlər: الكَأْر (əl-kə'r) — kişinin təamdan pay alması, yəni ondan götürüb yeməsidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:39.620Z"
+ "ts": "2026-10-26T00:40:39.620Z",
+ "prev_az": "[كار] (Kaf, əlif və ra). Deyirlər: الكَأْر (əl-kər) — adamın yeməkdən doyduqca, qarnını dolduraraq yeməsi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أي يصيب منه أخْذاً وأكلا» izahı buraxılmış və əvəzinə mətndə olmayan «doyduqca, qarnını dolduraraq» əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:30:48.908Z"
 }

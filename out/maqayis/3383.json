@@ -11,7 +11,16 @@
   "page_to": 128
  },
  "ar": "الكاف والضاد. يقولون: إنَّ الكَضكضة: سرعةُ المَشْي.",
- "az": "[كض] الكاف والضاد. يقولون: إنَّ الكَضكضة: سرعةُ المَشْي. (Kaf və dad hərfləri. Deyirlər ki: əl-kədkəxə — gedişin sürətidir).",
+ "az": "[كض]\nKaf və dad hərfləri. Deyirlər ki, الكَضكضة (əl-kəzkəzə / əl-kədkədə) gedişin sürətidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "prev_az": "[كض] الكاف والضاد. يقولون: إنَّ الكَضكضة: سرعةُ المَشْي. (Kaf və dad hərfləri. Deyirlər ki: əl-kədkəxə — gedişin sürətidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الكَضكضة» sözü «əl-kədkəxə» şəklində tamamilə səhv transkripsiya edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:22:42.291Z"
 }

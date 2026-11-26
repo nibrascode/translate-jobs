@@ -11,7 +11,17 @@
   "page_to": 167
  },
  "ar": "الكاف والدال والحاء أصلٌ صحيح يدلُّ على تأثيرٍ في شيء.\nيقال كَدَحه وكَدَّحَه، إذا خَدَشَه. وحمار مُكَدَّح: قد عضَّضَتْه الحُمُر.\nومن هذا القياس كَدَحَ، إذا كَسَبَ، يَكدَحُ كَدْحاً فهو كَادِح. قال اللّه عزّ وعلا:\n﴿إِنَّكَ كادِحٌ﴾، أي كاسِب.",
- "az": "[كدح] (Kəf, Dal, Ha) bir şeydə təsir buraxmağa dəlalət edən düzgün bir kökdür. «كدحه وكدحه» (onu cızdı). «حمار مكدح» (eşşəklərin dişlədiyi eşşək). Bu qiyasdan «كدح» (qazandı) gəlir, «يكدح كدحا فهو كادح» (qazanır, o qazanandır). Allah əziz və cəlil buyurur: «إنك كادح» (mənaca tərcümə: şübhəsiz ki, sən qazanansan/çalışansan).",
+ "az": "[كدح] (Kaf, Dal, Ha) bir şeydə təsir buraxmağa dəlalət edən düzgün bir kökdür. Deyilir: «كَدَحه وكَدَّحَه» (onu cızdı). «حمار مُكَدَّح» (eşşəklərin dişlədiyi eşşək). Bu qiyasdan «كَدَحَ» (qazandı) gəlir: «يَكدَحُ كَدْحاً فهو كَادِح». Allah əziz və cəlil buyurur: ﴿إِنَّكَ كادِحٌ﴾ (mənaca tərcümə: Şübhəsiz ki, sən çalışıb çabalayansan).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:42:38.345Z"
+ "ts": "2026-10-26T00:42:38.345Z",
+ "prev_az": "[كدح] (Kəf, Dal, Ha) bir şeydə təsir buraxmağa dəlalət edən düzgün bir kökdür. «كدحه وكدحه» (onu cızdı). «حمار مكدح» (eşşəklərin dişlədiyi eşşək). Bu qiyasdan «كدح» (qazandı) gəlir, «يكدح كدحا فهو كادح» (qazanır, o qazanandır). Allah əziz və cəlil buyurur: «إنك كادح» (mənaca tərcümə: şübhəsiz ki, sən qazanansan/çalışansan).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «Kaf» olmalıdır.",
+  "Ərəbcə sitatların hərəkələri AR mətnində olduğu kimi saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-26T00:56:35.972Z"
 }

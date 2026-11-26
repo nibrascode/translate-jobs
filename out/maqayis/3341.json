@@ -11,7 +11,18 @@
   "page_to": 107
  },
  "ar": "القاف والعين والميم كلماتٌ لا تَرْجِع إلى قياسٍ واحد، لكنَّها متباينة. يقولون: أُقْعِم الرّجلُ، إذا أصابَه داءٌ فقتَلَه. وأقْعَمَتْه الحيّة.\nوالقَعَم: مَيَلٌ في الأنف. ويقال إنَّ القَعَم في الأَليتينِ: ارتفاعُهما، لا تكونان مُسترخِيتين. ويقولون: القَيعَم: السِّنَّوْر.",
- "az": "[قعم] (qə-ə-m): Qaf, eyn və mim tək bir əsasa qayıtmayan, lakin bir-birindən fərqlənən sözlərdir. Belə deyirlər: «أُقْعِم الرّجلُ» (üqimə ər-racülü) — kişiyə bir xəstəlik üz verib onu öldürdükdə deyilir. Onu ilan da «أقْعَمَتْه الحيّة» (əqəməthü əl-həyyə) dişləyib öldürdü. Və «القَعَم» (qəqəm): burunda olan əyrilik. Deyirlər ki, «القَعَم» (qəqəm) sağrı (omurba) nahiyəsində olur — onların sallanmayıb yuxarı qalxmış olmasıdır. Həmçinin deyirlər: «القَيعَم» (qəyəm) pişik deməkdir.",
+ "az": "[قعم] Qaf, ayn və mim tək bir qiyasa qayıtmayan, lakin bir-birindən fərqlənən sözlərdir. Deyirlər: «أُقْعِم الرّجلُ» (üqimə ər-racul — kişiyə bir xəstəlik üz verib onu öldürdükdə deyilir). Həmçinin «أقْعَمَتْه الحيّة» (əqəməthu əl-həyyə — ilan onu dişləyib öldürdü). «القَعَم» (əl-qəəm — burunda olan əyrilik). Deyirlər ki, «القَعَم» (əl-qəəm) sağrılarda (yanlarda) olur — onların sallanmayıb yuxarı qalxmış olmasıdır. Həmçinin deyirlər: «القَيعَم» (əl-qayəm — pişik).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:37:28.844Z"
+ "ts": "2026-10-26T00:37:28.844Z",
+ "prev_az": "[قعم] (qə-ə-m): Qaf, eyn və mim tək bir əsasa qayıtmayan, lakin bir-birindən fərqlənən sözlərdir. Belə deyirlər: «أُقْعِم الرّجلُ» (üqimə ər-racülü) — kişiyə bir xəstəlik üz verib onu öldürdükdə deyilir. Onu ilan da «أقْعَمَتْه الحيّة» (əqəməthü əl-həyyə) dişləyib öldürdü. Və «القَعَم» (qəqəm): burunda olan əyrilik. Deyirlər ki, «القَعَم» (qəqəm) sağrı (omurba) nahiyəsində olur — onların sallanmayıb yuxarı qalxmış olmasıdır. Həmçinin deyirlər: «القَيعَم» (qəyəm) pişik deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«القَعَم» sözü «qəqəm», «القَيعَم» sözü isə «qəyəm» kimi səhv oxunub.",
+  "«الأَليتينِ» sözü «omurba» kimi Türkiyə türkcəsinə xas və yanlış sözlə izah edilib.",
+  "«أقْعَمَتْه الحيّة» ifadəsi Azərbaycan dilindəki cümlənin ortasında tərcüməsiz kimi verilib."
+ ],
+ "review_ts": "2026-11-26T00:19:25.256Z"
 }

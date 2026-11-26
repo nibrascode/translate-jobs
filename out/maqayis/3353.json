@@ -11,7 +11,17 @@
   "page_to": 111
  },
  "ar": "القاف والعين والفاء أصلٌ صحيح يدلُّ على اجتراف (٤) شيء وأخْذِهِ أجمع. من ذلك القَعْف، وهو شدة الوطء واجتراف التّرابِ بالقوائم.\nوالقَاعِف: المطر الشديد يَجْرُف وجهَ الأرض. وسيلٌ قُعَافٌ، مثل الجُراف.\nوقَعَفْتُ النّخلةَ، إذا قلعتَها من أصلها. والقَعْف: اشتِفافُكَ ما في الإناء أجْمَعَ.",
- "az": "[قعف] (qə-ə-f): Qaf, eyn və fa bir şeyi təmizləyib toplamağa və hamısını birdən götürməyə dəlalət edən doğru bir əsasdır. Bunlardan biri «القَعْف» (əl-qəf) — ayaqlarla güclü basmaq və torpağı qazıb toplamaqdır. Və «القَاعِف» (əl-qəif): yerin üzünü qazıb aparan şiddətli yağış. Və sel kimi «سيلٌ قُعَافٌ» (seylün qufafün), «الجُراف» (əl-curaf) kimidir. Və «قعَفْتُ النّخلةَ» (qəfüt əl-nəxlətə): xurma ağacını kökündən qopardın. Və «القَعْف» (əl-qəf): qabda olanların hamısını birdən sovurub içmək.",
+ "az": "[قعف] Qaf, eyn və fa bir şeyi süpürüb aparmağa (٤) və hamısını birdən götürməyə dəlalət edən doğru bir əsasdır. Bunlardan biri القَعْف (əl-qaf) — ayaqlarla güclü basmaq və torpağı ayaqlarla süpürüb toplamaqdır. القَاعِف (əl-qaif): yerin üzünü yuyub aparan şiddətli yağış. وسيلٌ قُعَافٌ، مثل الجُراف (quaf sel — curaf [hər şeyi süpürüb aparan] sel kimidir). وقَعَفْتُ النّخلةَ، إذا قلعتَها من أصلها (xurma ağacını kökündən qopardıqda «onu qaf etdim» deyilir). القَعْف (əl-qaf): qabda olanların hamısını birdən içib qurtarmaq.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:37:28.844Z"
+ "ts": "2026-10-26T00:37:28.844Z",
+ "prev_az": "[قعف] (qə-ə-f): Qaf, eyn və fa bir şeyi təmizləyib toplamağa və hamısını birdən götürməyə dəlalət edən doğru bir əsasdır. Bunlardan biri «القَعْف» (əl-qəf) — ayaqlarla güclü basmaq və torpağı qazıb toplamaqdır. Və «القَاعِف» (əl-qəif): yerin üzünü qazıb aparan şiddətli yağış. Və sel kimi «سيلٌ قُعَافٌ» (seylün qufafün), «الجُراف» (əl-curaf) kimidir. Və «قعَفْتُ النّخلةَ» (qəfüt əl-nəxlətə): xurma ağacını kökündən qopardın. Və «القَعْف» (əl-qəf): qabda olanların hamısını birdən sovurub içmək.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«اجتراف (٤)» sözündəki (٤) haşiyə rəqəmi buraxılmışdır.",
+  "«سيلٌ قُعَافٌ، مثل الجُراف» ifadəsi anlaşılmaz və qeyri-dəqiq tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:21:34.468Z"
 }

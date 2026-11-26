@@ -11,7 +11,16 @@
   "page_to": 115
  },
  "ar": "القاف والفاء والشين. فيه طريفَة ابنِ دريد (٢): قفش: جمع.",
- "az": "[قفش] Qaf, fa və şin. İbn Dureydin (٢) qəribəliklərində vardır: «qəfəşə»: toplamaqdır.",
+ "az": "[قفش] Qaf, fa və şin. Burada İbn Dureydin (٢) nadir sözlərindən biri vardır: قفش (topladı) — yığdı, topladı deməkdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:38:47.648Z"
+ "ts": "2026-10-26T00:38:47.648Z",
+ "prev_az": "[قفش] Qaf, fa və şin. İbn Dureydin (٢) qəribəliklərində vardır: «qəfəşə»: toplamaqdır.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "İzah olunan «قفش» sözü ərəb qrafikası ilə saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-26T00:21:41.321Z"
 }

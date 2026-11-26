@@ -11,7 +11,17 @@
   "page_to": 177
  },
  "ar": "الكاف والزاء والميم أصيلٌ يدلُّ على قِصَرٍ وقَمَاءة.\nفالكَزَم: القِصَر في الأَنْف، وكذلك في الأصابع. يقال أنفٌ أكزَمُ ويد كَزْماء. والكَزْم (٣): الرّجُل الهَيَّبان. وسمِّي لانقباضِه عن الإقدام. والكَزُومُ:\nالتي لم يَبْقَ فيها سِنٌّ من الهَرَم. وكلُّ هذا قياسُه واحد. وذكر أنَّ الكَزْم كالكَدْم بمقدَّم الفم. وهذا من باب الإبدال، واللّه بصحّتها أعلم.",
- "az": "[كزم] \nКаф, zay və mim – qısalığa və alçaqlığa dəlalət edən kiçik bir kökdür.\nBeləliklə, «الكَزَم» (əl-kəzəm) – burunun, həmçinin barmaqların qısa olmasıdır. Deyilir: «أنفٌ أكزَمُ» (əknəfün əkzəm – qısa burun) və «يد كَزْماء» (yədün kəzma – qısa barmaqlı əl). «الكَزْم» (əl-kəzm) – qorxaq kişi. O, irəli atılmaqdan çəkindiyi üçün belə adlandırılmışdır. «الكَزُومُ» (əl-kəzum) – qocalıqdan ağzında heç bir dişi qalmamış qadın. Bütün bunların qiası eynidir. Qeyd olunmuşdur ki, «الكَزْم» (əl-kəzm) ağzın ön hissəsi ilə edilən «الكَدْم» (əl-kədm – dişləmə) kimidir. Bu, hərflərin əvəzlənməsi (ibdal) بابındandır, onun səhihliyini ən yaxşı Allah bilir.",
+ "az": "[كزم]\nKaf, zey və mim – qısalığa və cılızlığa dəlalət edən kiçik bir kökdür.\n«الكَزَم» (əl-kəzəm) – burunun, həmçinin barmaqların qısa olmasıdır. Deyilir: «أنفٌ أكزَمُ» (anfun akzam – qısa burun) və «يد كَزْماء» (yadun kazma – qısa əl/barmaqlı əl). «الكَزْم» (əl-kəzm) (٣) – qorxaq kişi. O, irəli atılmaqdan çəkindiyi üçün belə adlandırılmışdır. «الكَزُومُ» (əl-kazum) – qocalıqdan ağzında heç bir dişi qalmamış qadın. Bütün bunların qiyası birdir. Qeyd olunmuşdur ki, «الكَزْم» (əl-kəzm) ağzın ön hissəsi ilə dişləmək olan «الكَدْم» (əl-kadm) kimidir. Bu, hərflərin əvəzlənməsi (ibdal) babındandır, onun səhihliyini Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:43:20.535Z"
+ "ts": "2026-10-26T00:43:20.535Z",
+ "prev_az": "[كزم] \nКаф, zay və mim – qısalığa və alçaqlığa dəlalət edən kiçik bir kökdür.\nBeləliklə, «الكَزَم» (əl-kəzəm) – burunun, həmçinin barmaqların qısa olmasıdır. Deyilir: «أنفٌ أكزَمُ» (əknəfün əkzəm – qısa burun) və «يد كَزْماء» (yədün kəzma – qısa barmaqlı əl). «الكَزْم» (əl-kəzm) – qorxaq kişi. O, irəli atılmaqdan çəkindiyi üçün belə adlandırılmışdır. «الكَزُومُ» (əl-kəzum) – qocalıqdan ağzında heç bir dişi qalmamış qadın. Bütün bunların qiası eynidir. Qeyd olunmuşdur ki, «الكَزْم» (əl-kəzm) ağzın ön hissəsi ilə edilən «الكَدْم» (əl-kədm – dişləmə) kimidir. Bu, hərflərin əvəzlənməsi (ibdal) بابındandır, onun səhihliyini ən yaxşı Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adında kiril qrafikalı «Каف» yazılmışdır.",
+  "Sözün transliterasiyasında təhrif var («əknəfün»)."
+ ],
+ "review_ts": "2026-11-26T01:00:36.897Z"
 }

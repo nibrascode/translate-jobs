@@ -11,7 +11,18 @@
   "page_to": 136
  },
  "ar": "الكاف واللام والفاء أصلٌ صحيح يدلُّ على إيلاعٍ بالشيء وتعلُّقٍ به. من ذلك الكَلَف، تقول: قد كَلِف بالأمر يَكْلَفُ كَلَفاً. ويقولون:\n«لا يَكُنْ حُبُّكَ كَلَفًا، ولا بُغْضُكَ تَلَفًا». والكُلْفة: ما يُتَكلَّفُ من نائبةٍ أو حقٍّ. والمتكلِّف: العِرِّيض لما لا يَعنيه. قال اللّه سبحانه: ﴿قُلْ ما أَسْئَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَما أَنَا مِنَ اَلْمُتَكَلِّفِينَ﴾. ومن الباب الكَلَف: شيءٌ يعلو الوجهَ فيغيِّر بشرتَه.",
- "az": "[كلف] Kaf, lam və fa bir əsas kök olub, bir şeyə aludə olmağa və ona bağlanmağa dəlalət edir. Bunlardan biri də «الكَلَف» (kələf - ləkə) sözüdür. Deyirsən: كَلِفَ بالأمر يَكْلَفُ كَلَفاً (bir işə bağlandı, aludə oldu). Həmçinin deyirlər: «لا يَكُنْ حُبُّكَ كَلَفًا، ولا بُغْضُكَ تَلَفًا» (Məhəbbətin aludəçilik səviyyəsində olmasın, nifrətin də məhvedici olmasın). «الكُلْفə» (küvfə) — müsibətdən və ya haqq olan bir şeydən üzərimizə düşən yük, zəhmət. «المتكلِّف» (mütəkəllif) — özünə aid olmayan işlərə qulaq asan, müdaxilə edən kəs. Uca Allah buyurmuşdur: ﴿قُلْ ما أَسْئَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَما أَنَا مِنَ اَلْمُتَكَلِّفِينَ﴾ مənaca tərcümə: «De: mən buna görə sizdən bir ödəniş istəmirəm və mən özünü təkəllüfə (əziyyətə) salanlardan deyiləm». Bu باب-dən (bölmədən) olan «الكَلَف» (kələf) — üzü örtən və dərinin rəngini dəyişən bir şeydir.",
+ "az": "[كلف]\nKaf, lam və fa — bir şeyə aludə olmağa və ona bağlanmağa dəlalət edən səhih bir əsasdır. Bunlardan biri «الكَلَف» (aludəçilik, vurğunluq) sözüdür. Deyirsən:\n«قد كَلِف بالأمر يَكْلَفُ كَلَفاً» (bir işə bağlandı, aludə oldu). Həmçinin deyirlər:\n«لا يَكُنْ حُبُّكَ كَلَفًا، ولا بُغْضُكَ تَلَفًا» (Məhəbbətin aludəçilik səviyyəsində olmasın, nifrətin də məhvedici olmasın). «الكُلْفة» (külfə) — başa gələn müsibətdən və ya haqq olan bir şeydən üzərə düşən yük, zəhmət. «المتكلِّف» (mütəkəllif) — özünə aid olmayan işlərə qarışan kəs. Uca Allah buyurmuşdur: ﴿قُلْ ما أَسْئَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَما أَنَا مِنَ اَلْمُتَكَلِّفِينَ﴾ (mənaca tərcümə: De: Mən buna görə sizdən bir əvəz istəmirəm və mən özünü təkəllüfə salanlardan deyiləm). Bu babdan olan «الكَلَف» (kələf) — üzü örtən və dərinin rəngini dəyişən bir şeydir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:55.165Z"
+ "ts": "2026-10-26T00:39:55.165Z",
+ "prev_az": "[كلف] Kaf, lam və fa bir əsas kök olub, bir şeyə aludə olmağa və ona bağlanmağa dəlalət edir. Bunlardan biri də «الكَلَف» (kələf - ləkə) sözüdür. Deyirsən: كَلِفَ بالأمر يَكْلَفُ كَلَفاً (bir işə bağlandı, aludə oldu). Həmçinin deyirlər: «لا يَكُنْ حُبُّكَ كَلَفًا، ولا بُغْضُكَ تَلَفًا» (Məhəbbətin aludəçilik səviyyəsində olmasın, nifrətin də məhvedici olmasın). «الكُلْفə» (küvfə) — müsibətdən və ya haqq olan bir şeydən üzərimizə düşən yük, zəhmət. «المتكلِّف» (mütəkəllif) — özünə aid olmayan işlərə qulaq asan, müdaxilə edən kəs. Uca Allah buyurmuşdur: ﴿قُلْ ما أَسْئَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَما أَنَا مِنَ اَلْمُتَكَلِّفِينَ﴾ مənaca tərcümə: «De: mən buna görə sizdən bir ödəniş istəmirəm və mən özünü təkəllüfə (əziyyətə) salanlardan deyiləm». Bu باب-dən (bölmədən) olan «الكَلَف» (kələf) — üzü örtən və dərinin rəngini dəyişən bir şeydir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الكَلَف» sözü əvvəldə aludəçilik mənasında olduğu halda səhvən «ləkə» kimi izah edilmişdir.",
+  "«الكُلْفə (küvfə)» və «مənaca» sözlərində əlifba qarışığı və yazı xətaları var, «باب-dən» ifadəsi tərcüməsiz qalmışdır.",
+  "«العِرِّيض لما لا يَعنيه» ifadəsi səhvən «özünə aid olmayan işlərə qulaq asan» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:24:35.387Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 136
  },
  "ar": "الكاف واللام والعين كلماتٌ تدلُّ على دَرَن ووسَخ. يقولون للشُّقاقِ والوسَخ بالقدم: كلَعٌ، وقد كَلِعت رجلُه تكْلَعُ كلَعاً. وإناءٌ كَلِعٌ، إذا\nالْتَبَدَ عليه الوسَخ. وسِقاء كَلِع، إذا تراكَبَ عليه التُّراب. و [يقال (١)] إن الكُلْعَة: داءٌ يأخذ البعيرَ في مُؤَخّره.\nوممّا يُحمَلُ على هذا من معنًى واحد وهو التّراكب دونَ الوسخ: الكَلَعة من الغَنَم، سمِّيت بذلك لتجمُّعها.",
- "az": "[كلع] (Kaf, lam və eyn) — çirk və kirə dəlalət edən kəlmələrdir. Ayaqdakı yarıqlara və çirkə «كلَعٌ» deyilir, artıq onun ayağı «تكْلَعُ كلَعاً» olaraq çirkli oldu. Üzərinə kir yapışmış qaba «إناء كَلِعٌ» deyilir. Üzərinə torpaq qatı yığılmış tuluğa isə «سِقاء كَلِع» deyilir. Və [deyilir ki (١)] «الكُلْعَة» — dəvənin arxa hissəsini tutan xəstəlikdir.\nKirə aid olmayıb yığılmaq mənasında buna bənzər olaraq daşınanlar: qoyunun bir yerə toplaşması mənasında işlədilən «الكَلَعة من الغَنَم» sözüdür ki, onlar toplaşdıqlarına görə belə adlandırılmışdır.",
+ "az": "[كلع]\nKaf, lam və ayn — çirk və kirə dəlalət edən kəlmələrdir. Ayaqdakı yarıqlara və çirkə «كلَعٌ» deyilir, «كَلِعت رجلُه تكْلَعُ كلَعاً» (onun ayağı çatlayıb çirkləndi). Üzərinə kir yapışmış qaba «إناءٌ كَلِعٌ» deyilir.\nÜzərinə torpaq qatı yığılmış tuluğa isə «سِقاء كَلِع» deyilir. Və [deyilir ki (١)] «الكُلْعَة» — dəvənin arxa hissəsini tutan xəstəlikdir.\nKirə aid olmayıb yalnız üst-üstə yığılmaq mənasında buna həml edilənlərdən biri də: «الكَلَعة من الغَنَم» (bir yerə toplaşmış qoyun sürüsü) sözüdür ki, toplaşdıqlarına görə belə adlandırılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:33.629Z"
+ "ts": "2026-10-26T00:39:33.629Z",
+ "prev_az": "[كلع] (Kaf, lam və eyn) — çirk və kirə dəlalət edən kəlmələrdir. Ayaqdakı yarıqlara və çirkə «كلَعٌ» deyilir, artıq onun ayağı «تكْلَعُ كلَعاً» olaraq çirkli oldu. Üzərinə kir yapışmış qaba «إناء كَلِعٌ» deyilir. Üzərinə torpaq qatı yığılmış tuluğa isə «سِقاء كَلِع» deyilir. Və [deyilir ki (١)] «الكُلْعَة» — dəvənin arxa hissəsini tutan xəstəlikdir.\nKirə aid olmayıb yığılmaq mənasında buna bənzər olaraq daşınanlar: qoyunun bir yerə toplaşması mənasında işlədilən «الكَلَعة من الغَنَم» sözüdür ki, onlar toplaşdıqlarına görə belə adlandırılmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«وقد كَلِعت رجلُه تكْلَعُ كلَعاً» ifadəsindən «كَلِعت رجلُه» hissəsi ərəbcə sitatdan buraxılmışdır.",
+  "«إناءٌ كَلِعٌ» sözündəki tənvin buraxılmışdır."
+ ],
+ "review_ts": "2026-11-26T00:24:35.387Z"
 }

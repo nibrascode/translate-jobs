@@ -11,7 +11,16 @@
   "page_to": 153
  },
  "ar": "الكاف والباء والثاء كلمةٌ، وهي الكَبَاث، يقال: إنّه حَمْل الأَراك. وحَكَوْا عن الشَّيباني: كَبِثَ اللَّحمُ: تغيَّرَ وأرْوَحَ. قال:\nأصبَحَ عمّارٌ نَشِيطًا أبِثَا … يأكُلُ لحمًا بائتًا قد كَبِثَا (١)",
- "az": "[كبث] (Kaf, ba və sə) — bir kəlmədir, o da الكَبَاث (əl-kəbas) — araq ağacının meyvəsidir. Şeybanidən nəql etmişlər: كَبِثَ اللَّحمُ (kəbitəl-ləhmu) — ət dəyişdi və üfunət iqisi verdi. [Şeir] أصبَحَ عمّارٌ نَشِيطًا أبِثَا … يأكُلُ لحمًا بائتًا قد كَبِثَا (١) (mənası: Əmmar aktiv və çevik səhəradı... artıq qalmış, xarab olub qoxumuş əti yeyir).",
+ "az": "[كبث]\n(Kaf, ba və sa) bir kəlmədir, o da الكَبَاث (ərak ağacının meyvəsidir). əş-Şeybanidən nəql etmişlər: كَبِثَ اللَّحمُ (ət dəyişdi və qoxudu, iy verdi). Şair demişdir:\nأصبَحَ عمّارٌ نَشِيطًا أبِثَا … يأكُلُ لحمًا بائتًا قد كَبِثَا (١)\n(mənası: Əmmar gümrah və fərəhli halda səhərə çıxdı... qalmış, artıq xarab olub qoxumuş əti yeyir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:39.620Z"
+ "ts": "2026-10-26T00:40:39.620Z",
+ "prev_az": "[كبث] (Kaf, ba və sə) — bir kəlmədir, o da الكَبَاث (əl-kəbas) — araq ağacının meyvəsidir. Şeybanidən nəql etmişlər: كَبِثَ اللَّحمُ (kəbitəl-ləhmu) — ət dəyişdi və üfunət iqisi verdi. [Şeir] أصبَحَ عمّارٌ نَشِيطًا أبِثَا … يأكُلُ لحمًا بائتًا قد كَبِثَا (١) (mənası: Əmmar aktiv və çevik səhəradı... artıq qalmış, xarab olub qoxumuş əti yeyir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«iqisi» və «səhəradı» orfoqrafik təhriflərdir («iyisi», «səhərə çıxdı» olmalıdır)."
+ ],
+ "review_ts": "2026-11-26T00:33:42.238Z"
 }

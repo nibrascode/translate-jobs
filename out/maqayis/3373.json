@@ -11,7 +11,17 @@
   "page_to": 125
  },
  "ar": "الكاف والتاء ليست فيه لغةٌ أصلية، ويجري البابُ مَجرى الحكاية. فالكتيت: صوتُ البَكْر، كالكَشِيش. يقال: كَتَّ يَكِتّ، وكَتّ الرّجُل من الغضب. وكَتِيت القِدر: صوتُ غَلَيانها. ويقولون: كتَتُّ الكلامَ في أُذنه. وكتكت في الضَّحِك: أغرَبَ. وهذه كلماتٌ يُشبِهُ بعضُها بعضاً.\nوما أبعَدَها من الصّحّة. فأمَّا الكَتَّان فلعلّه معرَّب. وخفَّفه الأعشى فقال:\n* بينَ الحريرِ وبينَ الكَتَنْ (٢) *",
- "az": "[كت] الكاف والتاء ليست فيه لغةٌ أصلية، (Kaf və ta hərflərində əsl dil yoxdur), ويجري البابُ مَجرى الحكاية. (və bu qapı təqlid mənasını daşıyır). فالكتيت: صوتُ البَكْر، كالكَشِيش. (Fəl-katit: balaca dəvənin səsidir, kəşiş kimi). يقال: كَتَّ يَكِتّ، (Deyilir: kəttə yəkittü), وكَتّ الرّجُل من الغضب. (və kişinin qəzəbdən səslənməsi). وكَتِيت القِدر: صوتُ غَلَيانها. (Və qazanın katiti: onun qaynama səsidir). ويقولون: كتَتُّ الكلامَ في أُذنه. (Və deyirlər: sözü onun qulağına pıçıldadım). وكتكت في الضَّحِك: أغرَبَ. (Və gülüşdə kətkət etdi: qəribələşdi). وهذه كلماتٌ يُشبِهُ بعضُها بعضاً. (Və bunlar bəzisi bəzisinə bənzəyən sözlərdir). وما أبعَدَها من الصّحّة. (Və onların səhihlikdən nə qədər uzaq olması). فأمَّا الكَتَّان فلعلّه معرَّب. (Amma əl-kəttan — kətan isə ola bilsin ki, ərəbləşdirilmişdir). وخفَّفه الأعشى فقال: * بينَ الحريرِ وبينَ الكَتَنْ (٢) * (Və Ə'şa onu yüngülləşdirərək demişdir: İpək ilə kətan arasında).",
+ "az": "[كت]\nKaf və ta hərflərində əsl dil (kök) yoxdur və bu bab təqlid (səs təqlidi) məcrasında işlənir. الكتيت (kətit): cavan dəvənin səsidir, الكَشِيش (kəşiş — dəvənin böyürtüsü) kimi. Deyilir: كَتَّ يَكِتّ (kəttə yəkittü), وكَتّ الرّجُل من الغضب (kişi qəzəbdən səsləndi/fısıldadı). كَتِيت القِدر (qazanın kətiti): onun qaynama səsidir. Deyirlər: كتَتُّ الكلامَ في أُذنه (sözü onun qulağına pıçıldadım). وكتكت في الضَّحِك: أغرَبَ (gülüşdə «kət-kət» etdi: gülməkdə həddini aşdı/bərkdən güldü). Bunlar bir-birinə bənzəyən sözlərdir.\nOnlar səhihlikdən necə də uzaqdırlar! الكَتَّان (kətan) isə ola bilsin ki, ərəbləşdirilmiş sözdür. Əşa onu yüngülləşdirərək demişdir:\n* بينَ الحريرِ وبينَ الكَتَنْ (٢) * (İpək ilə kətan arasında).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "prev_az": "[كت] الكاف والتاء ليست فيه لغةٌ أصلية، (Kaf və ta hərflərində əsl dil yoxdur), ويجري البابُ مَجرى الحكاية. (və bu qapı təqlid mənasını daşıyır). فالكتيت: صوتُ البَكْر، كالكَشِيش. (Fəl-katit: balaca dəvənin səsidir, kəşiş kimi). يقال: كَتَّ يَكِتّ، (Deyilir: kəttə yəkittü), وكَتّ الرّجُل من الغضب. (və kişinin qəzəbdən səslənməsi). وكَتِيت القِدر: صوتُ غَلَيانها. (Və qazanın katiti: onun qaynama səsidir). ويقولون: كتَتُّ الكلامَ في أُذنه. (Və deyirlər: sözü onun qulağına pıçıldadım). وكتكت في الضَّحِك: أغرَبَ. (Və gülüşdə kətkət etdi: qəribələşdi). وهذه كلماتٌ يُشبِهُ بعضُها بعضاً. (Və bunlar bəzisi bəzisinə bənzəyən sözlərdir). وما أبعَدَها من الصّحّة. (Və onların səhihlikdən nə qədər uzaq olması). فأمَّا الكَتَّان فلعلّه معرَّب. (Amma əl-kəttan — kətan isə ola bilsin ki, ərəbləşdirilmişdir). وخفَّفه الأعشى فقال: * بينَ الحريرِ وبينَ الكَتَنْ (٢) * (Və Ə'şa onu yüngülləşdirərək demişdir: İpək ilə kətan arasında).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«أغرَبَ» feili «qəribələşdi» kimi səhv tərcümə edilib (gülməkdə həddi aşdı/bərkdən güldü mənasındadır).",
+  "«وما أبعَدَها من الصّحّة» təəccüb cümləsi yarımçıq/pozulmuş şəkildə verilib."
+ ],
+ "review_ts": "2026-11-26T00:22:39.574Z"
 }

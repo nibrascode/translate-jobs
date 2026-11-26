@@ -11,7 +11,17 @@
   "page_to": 171
  },
  "ar": "الكاف والراء والضاد كلمةٌ واحدةٌ صحيحة مُختلف في تأويلها، وهي الكِرَاض. قال قوم: هو ماء الفحل تُلقِيه النّاقةُ بعد ما قَبِلته.\nيقال: كَرَضَتِ الناقةُ ماءَ الفحل تَكْرُضُه. ويقولون: الكِرَاضُ: مَنِيُّ الرّجُل.\nقال الطرِمَّاح:\nسوفَ تُدنيك من لَمِيسَ سَبَنْتا … ةٌ أمَارتْ بالبَول ماءَ الكِرَاضِ (١)\nوقال ابن دريد (٢): الكِراض: حَلَقُ الرَّحِم (٣). قال الأصمعي: لا واحدَ لها.\nوقال غيره: واحدها كَرْض (١).",
- "az": "[كرض]. Kaf, ra və dad düzgün, tək bir kəlmədir, onun yozumunda ixtilaf edilmişdir, o da əl-kiraddır. Bir qrup demişdir: O, erkək dəvənin suyu olub, dəvə onu qəbul etdikdən sonra bayıra atdığı sudur. Deyilir: كَرَضَتِ الناقةُ ماءَ الفحل تَكْرُضُه (dəvə erkəyin suyunu atdı). Və deyirlər ki, əl-kirad: kişinin mənisidir. Tirimmah demişdir: سوفَ تُدنيك من لَمِيسَ سَبَنْتا … ةٌ أمَارتْ بالبَول ماءَ الكِرَاضِ (١) (Səni Ləmisə yaxınlaşdıracaqdır sidiklə kirad suyunu hərəkətə gətirən səbənta dişi dəvə). İbn Dürid demişdir (٢): Əl-kirad: rəhmin halqalarıdır (٣). Əsməti demişdir: Onun tək forması yoxdur. Başqası demişdir: Tək forması kərzdir (١).",
+ "az": "[كرض]. Kaf, ra və dad düzgün, tək bir kəlmədir, onun yozumunda ixtilaf edilmişdir, o da əl-kiraddır (الكِرَاض). Bir qrup demişdir: O, erkək dəvənin döl suyudur ki, dişi dəvə onu qəbul etdikdən sonra xaric edir.\nDeyilir: كَرَضَتِ الناقةُ ماءَ الفحل تَكْرُضُه (dişi dəvə erkəyin döl suyunu xaric etdi). Deyirlər ki, əl-kirad (الكِرَاض): kişinin mənisidir.\nTirimməh demişdir:\nسوفَ تُدنيك من لَمِيسَ سَبَنْتا … ةٌ أمَارتْ بالبَول ماءَ الكِرَاضِ (١)\n(Səni Ləmisdən sidiklə kirad suyunu çıxarıb-hərəkətə gətirən güclü dişi dəvə yaxınlaşdıracaqdır).\nİbn Dureyd demişdir (٢): Əl-kirad (الكِراض): uşaqlığın (rəhmin) halqalarıdır (٣). Əsmaı demişdir: Onun tək forması yoxdur.\nBaşqası isə demişdir: Tək forması kərd-dir (كَرْض) (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:42:57.464Z"
+ "ts": "2026-10-26T00:42:57.464Z",
+ "prev_az": "[كرض]. Kaf, ra və dad düzgün, tək bir kəlmədir, onun yozumunda ixtilaf edilmişdir, o da əl-kiraddır. Bir qrup demişdir: O, erkək dəvənin suyu olub, dəvə onu qəbul etdikdən sonra bayıra atdığı sudur. Deyilir: كَرَضَتِ الناقةُ ماءَ الفحل تَكْرُضُه (dəvə erkəyin suyunu atdı). Və deyirlər ki, əl-kirad: kişinin mənisidir. Tirimmah demişdir: سوفَ تُدنيك من لَمِيسَ سَبَنْتا … ةٌ أمَارتْ بالبَول ماءَ الكِرَاضِ (١) (Səni Ləmisə yaxınlaşdıracaqdır sidiklə kirad suyunu hərəkətə gətirən səbənta dişi dəvə). İbn Dürid demişdir (٢): Əl-kirad: rəhmin halqalarıdır (٣). Əsməti demişdir: Onun tək forması yoxdur. Başqası demişdir: Tək forması kərzdir (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Alim adı «الأصمعي» yanlışlıqla «Əsməti» kimi yazılıb.",
+  "«كَرْض» sözü yanlışlıqla «kərz» kimi transkripsiya olunub."
+ ],
+ "review_ts": "2026-11-26T00:57:55.750Z"
 }

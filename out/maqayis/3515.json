@@ -11,7 +11,17 @@
   "page_to": 180
  },
  "ar": "الكاف والسين والدال أصلٌ صحيح يدلُّ على الشَّيء الدُّون لا يُرغَب فيه. من ذلك: كَسَد الشّيءُ كَساداً فهو كاسد وكَسِيد. وكلُّ دونٍ كَسِيد. قال:\n* فماجدٌ وكسيدُ (٢) *",
- "az": "[كسد] (kə-sə-də). Kaf, sin və dal hərfləri dəyərsiz, rəğbət bəslənməyən şeyə dəlalət edən səhih bir əsldir. Bunlardandır: «كَسَد الشّيءُ كَساداً» (Şey kasadlaşdı, dəyərdən düşdü), o, «كاسد» (kasad) və «كَسِيد» (dəyərsiz) olar. Hər bir dəyərsiz şey kasiddir. Şair demişdir: * Və macidün və kəsidü (²) * (Həm uca şəxs, həm də dəyərsiz/kasad şey).",
+ "az": "[كسد]\nKaf, sin və dal – dəyərsiz, rəğbət bəslənməyən şeyə dəlalət edən səhih bir kökdür. Bunlardandır: «كَسَد الشّيءُ كَساداً» (kasadas-shay'u kasadan – şey kasadlaşdı, dəyərdən düşdü), o, «كاسد» (kasid) və «كَسِيد» (kasid – dəyərsiz) olar. Hər bir dəyərsiz şey kasiddir. Şair demişdir:\n* فماجدٌ وكسيدُ (٢) *\n(Həm alicənab şəxs, həm də dəyərsiz adam).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:44:13.391Z"
+ "ts": "2026-10-26T00:44:13.391Z",
+ "prev_az": "[كسد] (kə-sə-də). Kaf, sin və dal hərfləri dəyərsiz, rəğbət bəslənməyən şeyə dəlalət edən səhih bir əsldir. Bunlardandır: «كَسَد الشّيءُ كَساداً» (Şey kasadlaşdı, dəyərdən düşdü), o, «كاسد» (kasad) və «كَسِيد» (dəyərsiz) olar. Hər bir dəyərsiz şey kasiddir. Şair demişdir: * Və macidün və kəsidü (²) * (Həm uca şəxs, həm də dəyərsiz/kasad şey).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format pozulub: başlığa əlavə transliterasiya «(kə-sə-də)» əlavə olunub.",
+  "Şeir parçasının ərəbcə mətni Latın transliterasiyası ilə əvəz olunub."
+ ],
+ "review_ts": "2026-11-26T01:00:36.899Z"
 }

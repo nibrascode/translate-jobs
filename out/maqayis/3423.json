@@ -11,7 +11,16 @@
   "page_to": 144
  },
  "ar": "الكاف والهاء واللام أصلٌ يدلُّ على قُوَّة في الشَّيء أو اجتماع جِبِلَّة. من ذلك الكَاهل: ما بين الكِتفين: سمِّي بذلك لقُوّته. ويقولون للرَّجُل المجتمِع إذا وَخَطه الشَّيب: كَهْل، وامرأة كَهْلة. قال:\nولا أعود بَعدَها كَرِيَّا … أُمارِسُ الكَهلة والصَّبِيَّا (٣)\nوأمّا قولُهم للنَّبات: اكتَهَل، فإنما [هو] تشبيه بالرّجُل الكهل. واكتهالُ الروضة: أن يعمَّها النَّوْر. قال الأعشى:\n* مُؤزَّر بعَميم النبتِ مكتهلُ (٤) *",
- "az": "[كهل] Kaf, ha və lam bir şeydə gücə və ya təbiətin bir araya gəlməsinə dəlalət edən bir əsasdır. Bunlardandır: الكَاهل (əl-kahil) — iki çiyin arası: gücünə görə belə adlandırılmışdır. Yetkin kişiyə ağarmalar (düşdükdə) كَهْل (kəhl), qadına isə كَهْلة (kəhləh) deyirlər. O demişdir:\nولا أعود بَعدَها كَرِيَّا … أُمارِسُ الكَهلة والصَّبِيَّا (٣)\n(Bundan sonra mən kəriyy olmayacağam... Yetkin qadınla uşağı idarə edən...) \nBitkiyə اكتَهَل (iktəhəl) demələrinə gəldikdə, bu, yalnız kəhl kişiyə bənzətməkdir. Çəmənliyin اكتهال (iktihalu) — çiçəklərin onu bürüməsidir. Əşə demişdir:\n* مُؤزَّر بعَميم النبتِ مكتهلُ (٤) *",
+ "az": "[كهل]\nالكاف والهاء واللام (Kaf, ha və lam) bir şeydə gücə və ya xilqətin bütövləşib kamilləşməsinə dəlalət edən bir əsasdır. Bunlardandır: الكَاهل – iki çiyin arası; gücünə görə belə adlandırılmışdır. Yaşı və bədəni kamilləşmiş, saçına-saqqalına ağ düşmüş kişiyə كَهْل (kəhl), qadına isə كَهْلة deyirlər. Şair demişdir:\nولا أعود بَعدَها كَرِيَّا … أُمارِسُ الكَهلة والصَّبِيَّا (٣)\n(Bundan sonra artıq kəriyy [dəvə kirayələyən bələdçi] olub yaşlı qadınla və uşaqla əlləşmərəm).\nBitkiyə اكتَهَل demələrinə gəldikdə isə, bu, kəhl (yetkin) kişiyə bənzətmədir. Çəmənliyin اكتهال-ı çiçəklərin onu bürüməsidir. Əşa demişdir:\n* مُؤزَّر بعَميم النبتِ مكتهلُ (٤) *\n(Bol bitki ilə bürünmüş, çiçəklənib kamilləşmişdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:17.222Z"
+ "ts": "2026-10-26T00:40:17.222Z",
+ "prev_az": "[كهل] Kaf, ha və lam bir şeydə gücə və ya təbiətin bir araya gəlməsinə dəlalət edən bir əsasdır. Bunlardandır: الكَاهل (əl-kahil) — iki çiyin arası: gücünə görə belə adlandırılmışdır. Yetkin kişiyə ağarmalar (düşdükdə) كَهْل (kəhl), qadına isə كَهْلة (kəhləh) deyirlər. O demişdir:\nولا أعود بَعدَها كَرِيَّا … أُمارِسُ الكَهلة والصَّبِيَّا (٣)\n(Bundan sonra mən kəriyy olmayacağam... Yetkin qadınla uşağı idarə edən...) \nBitkiyə اكتَهَل (iktəhəl) demələrinə gəldikdə, bu, yalnız kəhl kişiyə bənzətməkdir. Çəmənliyin اكتهال (iktihalu) — çiçəklərin onu bürüməsidir. Əşə demişdir:\n* مُؤزَّر بعَميم النبتِ مكتهلُ (٤) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Əşanın şeir misrası tərcüməsiz qalmışdır."
+ ],
+ "review_ts": "2026-11-26T00:27:45.997Z"
 }

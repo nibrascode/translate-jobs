@@ -11,7 +11,16 @@
   "page_to": 165
  },
  "ar": "الكاف والدال والشين ليس بناءً يشبه * كلام العرب، لعلّه أن يكون شيئاً يقارب الإبدال. يقال كَدَس وخَدَش بمعنىً. وكَدَشَ وكَدَح أي كَسَبَ. وكَدَش الشّيءَ بأسنانه: قطعه. وكلُّ هذا شيءٌ واحدٌ في الضَّعف.",
- "az": "[كدش] (Kəf, Dal, Şin) ərəb kəlamına bənzəyən bir quruluş deyildir, bəlkə də əvəzləməyə yaxın bir şeydir. Deyilir ki, «كدس» və «خدش» eyni mənadadır. «كدش» və «كدح» (qazandı). «كدش الشيء بأسنانه» (dişləri ilə kəsdi). Bütün bunlar zəiflik baxımından eyni şeydir.",
+ "az": "[كدش] (Kəf, Dal, Şin) ərəb kəlamına bənzəyən bir quruluş deyildir, bəlkə də hərflərin əvəzlənməsinə yaxın bir şeydir. Deyilir ki, «كَدَس» və «خَدَش» eyni mənadadır. «كَدَشَ» və «كَدَح» (qazandı) mənasına gəlir. «كَدَش الشّيءَ بأسنانه» (şeyi dişləri ilə kəsdi). Bütün bunlar zəiflik baxımından eyni dərəcədədir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:42:38.345Z"
+ "ts": "2026-10-26T00:42:38.345Z",
+ "prev_az": "[كدش] (Kəf, Dal, Şin) ərəb kəlamına bənzəyən bir quruluş deyildir, bəlkə də əvəzləməyə yaxın bir şeydir. Deyilir ki, «كدس» və «خدش» eyni mənadadır. «كدش» və «كدح» (qazandı). «كدش الشيء بأسنانه» (dişləri ilə kəsdi). Bütün bunlar zəiflik baxımından eyni şeydir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatlardan hərəkələr silinib."
+ ],
+ "review_ts": "2026-11-26T00:47:21.872Z"
 }

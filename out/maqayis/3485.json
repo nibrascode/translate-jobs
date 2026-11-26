@@ -11,7 +11,18 @@
   "page_to": 166
  },
  "ar": "الكاف والدال والنون أصلٌ صحيح يدلُّ على توطئةٍ في شيءٍ متجمِّع. من ذلك الكُدُون: شيءٌ توطِّئ به المرأةُ لنفسها في الهَوْدَج.\nثم يقال امرأةٌ كَدِنةٌ: ذاتُ لحمٍ كثير. وبعير ذو كُدْنةٍ، إذا عظُمَ سَنامُه.\nواشتقاق الكَوْدَن (١) من هذا، لأنَّه يكون ذا لحمٍ وغِلَظ جِسم. يقولون:\nما أبْيَنَ الكَدَانة فيه، أي الهُجْنة. والكَدَنُ: ما يبقى في أسفل الماء من الطِّين المتلجِّن. وهو من هذا القياس. فأمّا الكِدْيَوْن فيقال إنّه دُقاق التُّراب والسِّرجينِ يُجمعانِ ويُجلَى به الدُّروع. قال النابغة:\nعُلِينَ بِكِدْيَوْنٍ وأُبْطِنَّ كُرَّةً … فهُنَّ إضاءٌ ضافياتُ الغلائل (٢)",
- "az": "[كدن] (Kəf, Dal, Nun) toplanmış bir şeydə yerləşməyə dəlalət edən düzgün bir kökdür. Buradan «الكُدُون» (qadının kəvəcdə özü üçün düzəltdiyi yer) gəlir. Sonra «امرأة كدنة» (çox ətli qadın) deyilir. «بعير ذو كدنة» (hörgücü böyük olan dəvə). «الكَوْدن» (١) (yük atı) sözünün kökü də buradan gəlir, çünki o, ətli və iri cüssəli olur. Deyirlər ki, «ما أبين الكدانة فيه» (onda kobudluq necə də aydındır). «الكَدَنُ» (suyun dibində qalan palçıq). Bu da həmin ölçüdəndir. «الكِدْيَوْن»-a gəlincə, deyilir ki, bu, zirehləri cilalamaq üçün yığılan xırda torpaq və peyindir. Nəbigə demişdir: «علين بكديون وأبطن كرة ... فهن إضاء ضافيات الغلائل» (٢) (Onlar kidyon ilə cilalanmış və içləri kura ilə örtülmüşdür ... onlar parlaq və geniş geyimlidirlər).",
+ "az": "[كدن] (Kaf, Dal, Nun) toplanmış bir şeydə rahatlıq/düzəliş edilməsinə dəlalət edən düzgün bir kökdür. Buradan «الكُدُون» (qadının kəvəcdə özü üçün altlıq etdiyi şey) gəlir.\nSonra «امرأةٌ كَدِنةٌ» (çox ətli qadın) deyilir. «بعيرٌ ذو كُدْنةٍ» (hörgücü böyük olan dəvə). «الكَوْدَن» (١) (yük atı/qatır) sözünün törəməsi də bundandır, çünki o, ətli və bədəni iri/yoğun olur. Deyirlər: «ما أبْيَنَ الكَدَانة فيه» (onda kədanə - yəni qüsurluluq/cins olmamaq necə də aydındır). «الكَدَنُ» (suyun dibində qalan yapışqan palçıq). Bu da həmin qiyasdandır. «الكِدْيَوْن»-a gəlincə, deyilir ki, o, bir yerə yığılıb zirehlərin cilalandığı narın torpaq və peyindir. النابغة (Nəbiğə) demişdir:\nعُلِينَ بِكِدْيَوْنٍ وأُبْطِنَّ كُرَّةً … فهُنَّ إضاءٌ ضافياتُ الغلائل (٢)\n(Onlar kidyon ilə örtülmüş, könləri dəri ilə astarlaşdırılmışdır... onlar zireh altı geyimləri bol olan su nohurları kimidirlər).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:42:38.345Z"
+ "ts": "2026-10-26T00:42:38.345Z",
+ "prev_az": "[كدن] (Kəf, Dal, Nun) toplanmış bir şeydə yerləşməyə dəlalət edən düzgün bir kökdür. Buradan «الكُدُون» (qadının kəvəcdə özü üçün düzəltdiyi yer) gəlir. Sonra «امرأة كدنة» (çox ətli qadın) deyilir. «بعير ذو كدنة» (hörgücü böyük olan dəvə). «الكَوْدن» (١) (yük atı) sözünün kökü də buradan gəlir, çünki o, ətli və iri cüssəli olur. Deyirlər ki, «ما أبين الكدانة فيه» (onda kobudluq necə də aydındır). «الكَدَنُ» (suyun dibində qalan palçıq). Bu da həmin ölçüdəndir. «الكِدْيَوْن»-a gəlincə, deyilir ki, bu, zirehləri cilalamaq üçün yığılan xırda torpaq və peyindir. Nəbigə demişdir: «علين بكديون وأبطن كرة ... فهن إضاء ضافيات الغلائل» (٢) (Onlar kidyon ilə cilalanmış və içləri kura ilə örtülmüşdür ... onlar parlaq və geniş geyimlidirlər).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «Kaf» olmalıdır.",
+  "«الطين المتلجن» ifadəsindəki «المتلجن» (yapışqan/qatılaşmış) sözü tərcümədə buraxılmışdır.",
+  "«أي الهجنة» (yəni qüsurluluq/cins olmamaq) mənası buraxılmışdır."
+ ],
+ "review_ts": "2026-11-26T00:56:35.970Z"
 }

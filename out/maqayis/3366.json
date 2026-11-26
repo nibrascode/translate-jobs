@@ -11,7 +11,18 @@
   "page_to": 116
  },
  "ar": "القاف والفاء والعين كلماتٌ تدلُّ على تجمُّع في شيء. يقال أذنٌ قَفْعاءُ، كأنَّها أصابَتْها نار فانزَوَتْ. والرِّجْل القَفْعاء: التي ارتدَّتْ أَصابعُها إلى القَدَم من البرد. والقَفْعة: شيءٌ يتَّخَذ من خُوص يُجتَنَى فيه الرُّطَب.\nو\nفى الحديث: فى ذكر الجراد: «ليْتَ عندنا منه قَفْعَةً أو قَفْعَتَينِ». واللّه تعالى أعلمُ وأحكم.",
- "az": "[قفع] Qaf, fa və ayn. Bir şeydə toplanmağa dəlalət edən sözlərdir. «Üzunun qəfəu» (qulaq büzüşmüş) deyilir, sanki ona od dəyib və büzüşüb. «Riclun qəfəu»: soyuqdan barmaqları ayağa doğru geri dönmüş ayaq. «Qəfəə»: xurma yığmaq üçün xurma yarpağından düzəldilən bir qab. Hədisdə, çəyirtkə haqqında deyilir: «Kaş yanımızda ondan bir və ya iki qəfəə (qab) olaydı». Allah daha yaxşı bilir və daha hikmətlidir.",
+ "az": "[قفع] Qaf, fa və ayn. Bir şeydə toplanmağa dəlalət edən sözlərdir. أذنٌ قَفْعاءُ (büzüşmüş qulaq) deyilir, sanki ona od dəymiş və büzüşmüşdür. الرِّجْل القَفْعاء (barmaqları bükülmüş ayaq): soyuqdan barmaqları ayağa doğru geri dönmüş ayaqdır. القَفْعة (xurma səbəti): xurma yarpağından düzəldilən və içərisinə təzə xurma yığılan bir şeydir.\nHədisdə çəyirtkə haqqında deyilir: «ليْتَ عندنا منه قَفْعَةً أو قَفْعَتَينِ» (Kaş yanımızda ondan bir və ya iki qab olaydı). Allah təala daha yaxşı bilir və daha hikmətlidir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:38:47.649Z"
+ "ts": "2026-10-26T00:38:47.649Z",
+ "prev_az": "[قفع] Qaf, fa və ayn. Bir şeydə toplanmağa dəlalət edən sözlərdir. «Üzunun qəfəu» (qulaq büzüşmüş) deyilir, sanki ona od dəyib və büzüşüb. «Riclun qəfəu»: soyuqdan barmaqları ayağa doğru geri dönmüş ayaq. «Qəfəə»: xurma yığmaq üçün xurma yarpağından düzəldilən bir qab. Hədisdə, çəyirtkə haqqında deyilir: «Kaş yanımızda ondan bir və ya iki qəfəə (qab) olaydı». Allah daha yaxşı bilir və daha hikmətlidir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Baş sözlər və izah olunan ərəbcə sözlər ərəb qrafikası ilə saxlanılmayıb.",
+  "Hədisin ərəbcə mətni buraxılıb.",
+  "«تعالى» sözü tərcümədən düşüb."
+ ],
+ "review_ts": "2026-11-26T00:21:41.321Z"
 }

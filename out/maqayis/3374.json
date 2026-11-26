@@ -11,7 +11,16 @@
   "page_to": 125
  },
  "ar": "الكاف والثاء أصلٌ صحيحٌ يدلُّ على تجمُّعٍ، وفروعُه تقلُّ.\nفالكَثَّةُ نعتٌ لِلِّحْية المجتمعة، [وهي] بيِّنه الكَثَث والكَثَاثة. ومنه الكثْكَث:\nمجتمعٌ من دُقاق التُّرْب. وهو الكِثكِثُ أيضاً.",
- "az": "[كث] الكث والثاء أصلٌ صحيحٌ يدلُّ على تجمُّعٍ، (Kaf və sə hərfləri toplanmağa dəlalət edən səhih kökdür), وفروعُه تقلُّ. (və onun budaqları az olur). فالكَثَّةُ نعتٌ لِلِّحْية المجتمعة، (Və əl-kəssə — sıx saqqalın sifətidir), [وهي] بيِّنه الكَثَث والكَثَاثة. (və o, kəsəs və kəsasət sifəti ilə aydındır). ومنه الكثْكَث: مجتمعٌ من دُقاق التُّرْب. (Və ondandır əl-kəskəs: xırda torpağın toplusudur). وهو الكِثكِثُ أيضاً. (və o, həm də əl-kiskisdir).",
+ "az": "[كث]\nKaf və sə hərfləri toplanmağa dəlalət edən səhih bir kökdür, onun şaxələri azdır.\nالكَثَّةُ (kəssə) sıx saqqalın sifətidir, o, الكَثَث (kəsəs) və الكَثَاثة (kəsasət) sifəti ilə aydındır. Ondandır الكثْكَث (kəskəs):\nxırda torpağın toplusudur. O, həm də الكِثكِثُ (kiskis) adlanır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "prev_az": "[كث] الكث والثاء أصلٌ صحيحٌ يدلُّ على تجمُّعٍ، (Kaf və sə hərfləri toplanmağa dəlalət edən səhih kökdür), وفروعُه تقلُّ. (və onun budaqları az olur). فالكَثَّةُ نعتٌ لِلِّحْية المجتمعة، (Və əl-kəssə — sıx saqqalın sifətidir), [وهي] بيِّنه الكَثَث والكَثَاثة. (və o, kəsəs və kəsasət sifəti ilə aydındır). ومنه الكثْكَث: مجتمعٌ من دُقاق التُّرْب. (Və ondandır əl-kəskəs: xırda torpağın toplusudur). وهو الكِثكِثُ أيضاً. (və o, həm də əl-kiskisdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətndəki «الكاف» sözü «الكث» kimi təhrif olunub."
+ ],
+ "review_ts": "2026-11-26T00:22:39.574Z"
 }

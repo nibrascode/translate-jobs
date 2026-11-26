@@ -11,7 +11,19 @@
   "page_to": 170
  },
  "ar": "الكاف والراء والشين أصلٌ صحيح يدلُّ على تجمُّع وجَمْع.\nمن ذلك الكَرِش. سمِّيت لجَمْعها ما فيها. ثم يُشتقّ من ذلك، فيقال للجماعة من الناس كَرِش.\nقال رسول اللّه ﵌: «الأنصارُ كَرِشِي وعَيْبتي».\nوكَرِش الرجُل: عيالُه وصغارُ ولدِه. ويقال للأَتَان الضَّخمة الخاصِرَتَين: كَرْشَاء.\nوتكرَّشَ وجههُ: تَقَبَّض فصار كالكرش. والكَرْشاء: القدم التي قَصُرَتْ واستوى أخمَصُها.",
- "az": "[كرş]. Kaf, ra və şin düzgün kök olub, toplanmağa və cəm olmağa dəlalət edir. Bunlardan biri də əl-kərisdir (mədə). O, özündə olanları topladığı üçün belə adlandırılmışdır. Sonra bundan törədilərək insanların cəminə də kəris deyilir. Allahın Elçisi sallallahu əleyhi və səlləm demişdir ﵌: «الأنصارُ كَرِشِي وعَيْبتي» («Ənsar mənim mədəmdir və sirr saxladığım yeqanamdır»). Kişinin kərisi: onun ailəsi və balaca övladlarıdır. Böyük böyürlü dişi eşşəyə كَرْشَاء (kərşa) deyilir. Üzü qırışdı: yığılıb mədə kimi oldu. Əl-kərşa: ayağın altı çuxur olmayıb hamar olan ayaq növüdür.",
+ "az": "[كرش]. Kaf, ra və şin düzgün kök olub, toplanmağa və cəm etməyə dəlalət edir.\nBunlardan biri əl-kərişdir (الكَرِش - mədə). Özündə olanları topladığı üçün belə adlandırılmışdır. Sonra bundan törədilərək insan qrupuna da kəriş (كَرِش) deyilir.\nRəsulullah sallallahu əleyhi və səlləm buyurmuşdur: «الأنصارُ كَرِشِي وعَيْبتي» («Ənsar mənim içim/sirrdaşlarım və sığınacaq torbamdır»).\nKişinin kərişi (كَرِش): onun külfəti və balaca övladlarıdır. İki böyürü böyük olan dişi eşşəyə kərşa (كَرْشَاء) deyilir.\nÜzü qırışdı (تكرَّشَ وجههُ): yığılıb mədə kimi oldu. Əl-kərşa (الكَرْشاء): qısa olan və daban altı oyuğu hamarlaşmış ayaqdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:42:57.464Z"
+ "ts": "2026-10-26T00:42:57.464Z",
+ "prev_az": "[كرş]. Kaf, ra və şin düzgün kök olub, toplanmağa və cəm olmağa dəlalət edir. Bunlardan biri də əl-kərisdir (mədə). O, özündə olanları topladığı üçün belə adlandırılmışdır. Sonra bundan törədilərək insanların cəminə də kəris deyilir. Allahın Elçisi sallallahu əleyhi və səlləm demişdir ﵌: «الأنصارُ كَرِشِي وعَيْبتي» («Ənsar mənim mədəmdir və sirr saxladığım yeqanamdır»). Kişinin kərisi: onun ailəsi və balaca övladlarıdır. Böyük böyürlü dişi eşşəyə كَرْشَاء (kərşa) deyilir. Üzü qırışdı: yığılıb mədə kimi oldu. Əl-kərşa: ayağın altı çuxur olmayıb hamar olan ayaq növüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıqda hərf səhvi var: «[كرş]» yazılıb.",
+  "«الكَرِش» sözünün transkripsiyası yanlış olaraq «əl-kəris» yazılıb.",
+  "«عَيْبتي» sözünün tərcüməsində «yeqanamdır» hərf səhvi var.",
+  "Ərəbcə ﵌ simvolu mətndə qalıb."
+ ],
+ "review_ts": "2026-11-26T00:57:55.749Z"
 }

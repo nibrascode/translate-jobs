@@ -11,7 +11,16 @@
   "page_to": 164
  },
  "ar": "الكاف والحاء والميم ليس بشيء، إلاَّ أنَّ ابن دريدٍ زعم أن الكَحْمَ: الحِصْرِم. وذكر أنَّه يقال بالباء أيضاً (١).",
- "az": "[كحم] (Kəf, Ha, Mim) heç bir şey deyildir, lakin İbn Dureyd «الكحم»-in «الحصرم» (kal üzüm) olduğunu iddia etmişdir. O, bunun «ba» hərfi ilə də deyildiyini qeyd etmişdir (١).",
+ "az": "[كحم] (Kəf, Ha, Mim) heç bir şey deyildir, lakin İbn Dureyd «الكَحْمَ» sözünün «الحِصْرِم» (kal üzüm) olduğunu iddia etmişdir. O, bunun «ba» hərfi ilə də deyildiyini qeyd etmişdir (١).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:42:38.345Z"
+ "ts": "2026-10-26T00:42:38.345Z",
+ "prev_az": "[كحم] (Kəf, Ha, Mim) heç bir şey deyildir, lakin İbn Dureyd «الكحم»-in «الحصرم» (kal üzüm) olduğunu iddia etmişdir. O, bunun «ba» hərfi ilə də deyildiyini qeyd etmişdir (١).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatlardan hərəkələr silinib."
+ ],
+ "review_ts": "2026-11-26T00:47:21.871Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 113
  },
  "ar": "القاف والفاء والخاء كلمةٌ واحدةٌ * وهو ضربُ الشَّيء اليابس على مِثله. يقال قَفَخ هامتَه. قال:\n* قَفخاً على الهامِ وبَجّاً وَخْضا (٦) *",
- "az": "[قفخ] Qaf, fa və xa. Bu, tək bir sözdür; bərk bir şeyi özü kimi bərk bir şeyə çırpmaqdır. «Qəfəxə hamətəhu» (onun başını çırpdı) deyilir. O demişdir: «Başın üzərinə çırpmaqla, yarmaqla və vurmaqla (٦)».",
+ "az": "[قفخ] Qaf, fa və xa. Tək bir sözdür; o da quru bir şeyi özü kimi bir şeyin üstünə vurmaqdır. قَفَخ هامتَه (onun başını vurdu) deyilir. O demişdir: * قَفخاً على الهامِ وبَجّاً وَخْضا (٦) * (Başların üzərinə çırpmaqla, yarmaqla və deşməklə).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:38:47.648Z"
+ "ts": "2026-10-26T00:38:47.648Z",
+ "prev_az": "[قفخ] Qaf, fa və xa. Bu, tək bir sözdür; bərk bir şeyi özü kimi bərk bir şeyə çırpmaqdır. «Qəfəxə hamətəhu» (onun başını çırpdı) deyilir. O demişdir: «Başın üzərinə çırpmaqla, yarmaqla və vurmaqla (٦)».",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Baş söz ərəb qrafikası ilə saxlanılmamış, şeir beytinin ərəbcə mətni isə silinmişdir."
+ ],
+ "review_ts": "2026-11-26T00:21:34.469Z"
 }

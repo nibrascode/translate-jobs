@@ -11,7 +11,17 @@
   "page_to": 178
  },
  "ar": "الكاف والسين واللام أصلٌ صحيح، وهو التَّثاقُل عن الشَّيء والقُعود عن إتمامه أو عنه. من ذلك الكَسَل. والإكسال: أن يُخالِط الرّجلُ أهلَه ولا ينزِل. ويقال ذلك في فحَل الإبل أيضاً. وامرأةٌ مِكسالٌ: لا تكاد تَبرَحُ بيتها.",
- "az": "[كسل] \nКаф, sin və lam – səhih bir kök olub, bir işdən ağırlaşmağa və onu tamamlamaqdan yaxud ümumiyyətlə həmin işdən geri qalmağa (tənbəlliyə) deyilir. Bunlardandır «الكَسَل» (əl-kəsəl – tənbəllik). «الإكسال» (əl-iksəl) – kişinin öz zövcəsinə yaxınlaşması, lakin mənzilə (qovuşma nöqtəsinə) çatmaması. Bu tabir dəvənin erkəyi haqqında da işlədilir. «امرأةٌ مِكسالٌ» (imraətün miksal) – demək olar ki, evindən bayıra çıxmayan qadın.",
+ "az": "[كسل]\nKaf, sin və lam – səhih bir kök olub, bir işdən ağırlaşmağa və onu tamamlamaqdan yaxud ümumiyyətlə həmin işdən geri qalmağa deyilir. Bunlardandır «الكَسَل» (əl-kasal – tənbəllik). «الإكسال» (əl-iksal) – kişinin öz zövcəsinə yaxınlaşması, lakin inzal olmaması. Bu təbir dəvənin erkəyi haqqında da işlədilir. «امرأةٌ مِكسالٌ» (imraatun miksal) – demək olar ki, evindən bayıra çıxmayan qadın.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:43:20.535Z"
+ "ts": "2026-10-26T00:43:20.535Z",
+ "prev_az": "[كسل] \nКаф, sin və lam – səhih bir kök olub, bir işdən ağırlaşmağa və onu tamamlamaqdan yaxud ümumiyyətlə həmin işdən geri qalmağa (tənbəlliyə) deyilir. Bunlardandır «الكَسَل» (əl-kəsəl – tənbəllik). «الإكسال» (əl-iksəl) – kişinin öz zövcəsinə yaxınlaşması, lakin mənzilə (qovuşma nöqtəsinə) çatmaması. Bu tabir dəvənin erkəyi haqqında da işlədilir. «امرأةٌ مِكسالٌ» (imraətün miksal) – demək olar ki, evindən bayıra çıxmayan qadın.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adında kiril qrafikalı «Каف» yazılmışdır.",
+  "«ولا ينزل» ifadəsi «mənzilə çatmaması» kimi yanlış tərcümə olunub (mənası: inzal olmaması / boşalmaması)."
+ ],
+ "review_ts": "2026-11-26T01:00:36.898Z"
 }

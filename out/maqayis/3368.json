@@ -11,7 +11,19 @@
   "page_to": 122
  },
  "ar": "الكاف والميم أصلٌ واحدٌ يدلُّ على غِشاء وغِطاء. من ذلك الكُمَّة، وهي القلنسوة، ويقال منها: تكمَّمَ الرَّجل، وتكمكم. ومن ذلك\nالحديث: «أنَّ عمر رأى جاريةً مُتَكَمْكِمَةً». والكُمّ: كُمّ القميص، يقال منه كَمَمْتُهُ (٣)، أي جعلت له كُمَّيْن. والكِمَّ: وِعاء الطَّلع، والجمع الأَكْمَام.\nقال اللّه سبحانه: ﴿وَاَلنَّخْلُ ذاتُ اَلْأَكْمامِ﴾ قال أبو عبيد: وأكِمَّةٌ وأَكامِيم.\nويقال: كَمّ الفَسيلَ، إذا أشفَقَ عليه فَسُتِرَ حتى يَقْوَى. والأَكَامِيم: أغطيةُ النَّور.\nومن الباب: الكَمكام: المجتمِع الخَلْق.",
- "az": "[كم] Kaf və mim bir kökdür, örtük və qaba dəlalət edir. Buna «kummə» (papaq) daxildir, «təkəmməl-rəcul» və «təkəmkəmə» deyilir. Hədisdə: «Ömər bir qadını örtünmüş (mutəkəmkimə) halda gördü». «Kumm»: köynəyin qolu, «kəməmtuhu» (ona qol tikdim) deyilir. «Kimm»: xurma çiçəyinin qabı, cəmi «əkmam»dır. Allah təala buyurur: «Xurma ağacları ki, onların qabıqları (əkmam) vardır». Əbu Ubeyd deyir: «Əkimmə» və «əkamim» də deyilir. «Kəmməl-fəsilə» (xurma fidanını qorudu) deyilir, ona şəfqət göstərib güclənənə qədər örtüldükdə belə deyilir. «Əkamim»: çiçəyin örtükləridir. Bu qapıdan: «Kəmkam»: xilqəti (yaradılışı) tam olan şəxs.",
+ "az": "[كم]\nKaf və mim bir kökdür, örtük və qapamaya dəlalət edir. Buna الكُمَّة (papaq) daxildir, o, القلنسوة (papaq) deməkdir; bundan تكمَّمَ الرَّجل (kişi papağını geyindi/örtündü) və وتكمكم (büründü) deyilir. Həmçinin\nالحديث: «أنَّ عمر رأى جاريةً مُتَكَمْكِمَةً» (hədisdə deyilir: «Ömər örtünmüş bir cariyə/gənc qız gördü»). الكُمّ (köynəyin qolu): كُمّ القميص (köynəyin qolu) deməkdir, bundan كَمَمْتُهُ (٣) (ona iki qol düzəltdim), yəni ona iki qol qoydum deyilir. الكِمَّ (xurma çiçəyinin qabı): xurma çiçəyinin qabıdır, cəmi الأَكْمَام (əkmam)dır.\nUca Allah buyurur: ﴿وَاَلنَّخْلُ ذاتُ اَلْأَكْمامِ﴾ (mənaca tərcümə: «Qabıqlı (tumurcuqlu) xurma ağacları»). Əbu Ubeyd deyir: أكِمَّةٌ (əkimmə) və أَكامِيم (əkamim) də işlənir.\nDeyilir: كَمّ الفَسيلَ (xurma fidanını örtdü), ona şəfqət göstərib güclənənə qədər örtdükdə belə deyilir. الأَكَامِيم (əkamim): çiçəyin örtükləridir.\nBu babdan: الكَمكام (kəmkam): xilqəti yığcam (möhkəm quruluşlu) olan şəxs.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:38:47.649Z"
+ "ts": "2026-10-26T00:38:47.649Z",
+ "prev_az": "[كم] Kaf və mim bir kökdür, örtük və qaba dəlalət edir. Buna «kummə» (papaq) daxildir, «təkəmməl-rəcul» və «təkəmkəmə» deyilir. Hədisdə: «Ömər bir qadını örtünmüş (mutəkəmkimə) halda gördü». «Kumm»: köynəyin qolu, «kəməmtuhu» (ona qol tikdim) deyilir. «Kimm»: xurma çiçəyinin qabı, cəmi «əkmam»dır. Allah təala buyurur: «Xurma ağacları ki, onların qabıqları (əkmam) vardır». Əbu Ubeyd deyir: «Əkimmə» və «əkamim» də deyilir. «Kəmməl-fəsilə» (xurma fidanını qorudu) deyilir, ona şəfqət göstərib güclənənə qədər örtüldükdə belə deyilir. «Əkamim»: çiçəyin örtükləridir. Bu qapıdan: «Kəmkam»: xilqəti (yaradılışı) tam olan şəxs.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Baş sözlər və izah olunan ərəbcə sözlər ərəb qrafikası ilə saxlanılmayıb, latın qrafikasına köçürülüb.",
+  "Hədisin və Quran ayəsinin ərəb mətni verilməyib, ayədə «mənaca tərcümə: ...» ifadəsi yoxdur.",
+  "«yaratmaq» kökündən olan «yaradılışı» sözü işlədilib.",
+  "Haşiyə rəqəmi (٣) buraxılıb və «تكمَّمَ الرَّجل» səhv transliterasiya olunub."
+ ],
+ "review_ts": "2026-11-26T00:22:39.572Z"
 }

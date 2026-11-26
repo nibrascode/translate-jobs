@@ -11,7 +11,17 @@
   "page_to": 124
  },
  "ar": "الكاف والحرف المعتل قريبٌ من الباب قبله، [وليس]\n[فيه] إلاّ قولُهم: كَوَاه بالنّار يَكويه. ويستعيرون هذا فيقولون: كَوَاه بعينه، إذا أحدَّ النَّظرَ إليه. وإنِّى لأتكَوَّى بالجارية، أى أتدَفَّأُ بها. والكَوَّة معروفة.\nوالكَأْكَأَة: النُّكوص، ويقال التجمُّع.",
- "az": "[كو] الكاف والحرف المعتل قريبٌ من الباب قبله، (Kaf və müttəl hərf əvvəlki qapıya yaxındır), [وليس] [فيه] إلاّ قولُهم: كَوَاه بالنّار يَكويه. (və orada yalnız onların bu sözü vardır: onu oddan dağladı, dağlayır). ويستعيرون هذا فيقولون: كَوَاه بعينه، (Və bunu məcazi mənada işlədib deyirlər: onu gözü ilə dağladı), إذا أحدَّ النَّظرَ إليه. (ona dik baxdıqda). وإنِّى لأتكَوَّى بالجارية، (Və mən cariyə ilə istinirəm), أى أتدَفَّأُ بها. (yəni onunla isinirəm). والكَوَّة معروفة. (Və əl-kəvvə — pəncərə, deşik məlumdur). والكَأْكَأَة: النُّكوص، (Və əl-kə'kə'ə — geri çəkilməkdir), ويقال التجمُّع. (və toplanmaq da deyilir).",
+ "az": "[كو]\nKaf və mötəll hərf əvvəlki baba yaxındır,\norada yalnız onların bu sözü vardır: كَوَاه بالنّار يَكويه (onu odla dağladı, dağlayır). Bunu məcazi mənada işlədib deyirlər: كَوَاه بعينه (onu gözü ilə dağladı), ona dik baxdıqda belə deyilir. وإنِّى لأتكَوَّى بالجارية (mən cariyə ilə isinirəm), yəni onunla qızınıram. والكَوَّة (pəncərə/deşik) məlumdur.\nالكَأْكَأَة (kəkəə): النُّكوص (geri çəkilməkdir), həmçinin التجمُّع (toplanmaq) da deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "prev_az": "[كو] الكاف والحرف المعتل قريبٌ من الباب قبله، (Kaf və müttəl hərf əvvəlki qapıya yaxındır), [وليس] [فيه] إلاّ قولُهم: كَوَاه بالنّار يَكويه. (və orada yalnız onların bu sözü vardır: onu oddan dağladı, dağlayır). ويستعيرون هذا فيقولون: كَوَاه بعينه، (Və bunu məcazi mənada işlədib deyirlər: onu gözü ilə dağladı), إذا أحدَّ النَّظرَ إليه. (ona dik baxdıqda). وإنِّى لأتكَوَّى بالجارية، (Və mən cariyə ilə istinirəm), أى أتدَفَّأُ بها. (yəni onunla isinirəm). والكَوَّة معروفة. (Və əl-kəvvə — pəncərə, deşik məlumdur). والكَأْكَأَة: النُّكوص، (Və əl-kə'kə'ə — geri çəkilməkdir), ويقال التجمُّع. (və toplanmaq da deyilir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«بالنّار» sözü «odla» əvəzinə «oddan» kimi səhv tərcümə edilib.",
+  "«المعتل» sözü «müttəl» kimi səhv yazılıb, «أتكَوَّى» sözünün tərcüməsində «istinirəm» orfoqrafik səhvi var."
+ ],
+ "review_ts": "2026-11-26T00:22:39.574Z"
 }

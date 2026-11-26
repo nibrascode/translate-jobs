@@ -11,7 +11,17 @@
   "page_to": 110
  },
  "ar": "القاف والعين والصاد أصلٌ صحيح يدلُّ على داء يدعو إلى الموت. يقال: ضربَه فأقْعَصَه، أي قَتلَه مكانَه. والقَعَص: الموت الوَحيّ. ومات فلانٌ قَعْصاً. والقُعَاص: داءٌ يأخذ في الصَّدر كأنَّه يكسِر العنُق، يقال قُعِصت فهي مقْعُوصة.",
- "az": "[قعص] (qə-ə-s): Qaf, eyn və sad ölümlə nəticələnən xəstəliyə dəlalət edən doğru bir əsasdır. Deyilir: «ضربَه فأقْعَصَه» (darabəhü fəəqə-əsəhü) — yəni onu vurub elə yerindəcə öldürdü. Və «القَعَص» (əl-qəs): ani ölüm. Və filankəs «مات فلانٌ قَعْصاً» (mətə fülanün qəsrən) — qəfil ölümlə öldü. Və «القُعَاص» (əl-quəs): sinəni tutan və boynu sındıran kimi olan bir xəstəlikdir. Deyilir: «قُعِصت فهي مقْعُوصة» (qu-isət fəhi məquusətün).",
+ "az": "[قعص] Qaf, eyn və sad ölümlə nəticələnən xəstəliyə dəlalət edən doğru bir əsasdır. Deyilir: ضربَه فأقْعَصَه (onu vurdu və elə yerindəcə öldürdü), yəni onu yerindəcə qətlə yetirdi. القَعَص (əl-qaas): ani ölüm. ومات فلانٌ قَعْصاً (filankəs ani ölümlə öldü). القُعَاص (əl-quas): sinəni tutan və sanki boynu sındıran bir xəstəlikdir; deyilir: قُعِصت فهي مقْعُوصة (bu xəstəliyə tutuldu, o, məqusadur).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:37:28.844Z"
+ "ts": "2026-10-26T00:37:28.844Z",
+ "prev_az": "[قعص] (qə-ə-s): Qaf, eyn və sad ölümlə nəticələnən xəstəliyə dəlalət edən doğru bir əsasdır. Deyilir: «ضربَه فأقْعَصَه» (darabəhü fəəqə-əsəhü) — yəni onu vurub elə yerindəcə öldürdü. Və «القَعَص» (əl-qəs): ani ölüm. Və filankəs «مات فلانٌ قَعْصاً» (mətə fülanün qəsrən) — qəfil ölümlə öldü. Və «القُعَاص» (əl-quəs): sinəni tutan və boynu sındıran kimi olan bir xəstəlikdir. Deyilir: «قُعِصت فهي مقْعُوصة» (qu-isət fəhi məquusətün).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin sonundakı «قُعِصت فهي مقْعُوصة» cümləsinin Azərbaycan dilində tərcüməsi buraxılmışdır.",
+  "Ərəbcə sözlərin yanında lazımsız və səhv transkripsiyalar («mətə fülanün qəsrən» və s.) verilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:21:34.467Z"
 }

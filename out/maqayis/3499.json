@@ -11,7 +11,16 @@
   "page_to": 172
  },
  "ar": "الكاف والراء والنون كلمةٌ واحدة في الملاهي. يقال: إنْ الكِرَان: الصَّنْج. قال امرؤُ القيس:\nفيا رُبَّ قينةٍ … منعَّمة أَعملتُها بِكرَانِ (٢)\nوالقَينة: كَرِينةٌ.",
- "az": "[كرن]. Kaf, ra və nun əyləncə alətlərində tək bir kəlmədir. Deyilir ki, əl-kiran: çörək (musiqi aləti olan çəng). Əmrul-Qeys demişdir: فيا رُبَّ قينةٍ … منعَّمة أَعملتُها بِكرَانِ (٢) (Və neçə-neçə nemət içində olan müğənni qadın vardır ki, onu kiran ilə işlətdim). Və əl-qeynə: kərinədir.",
+ "az": "[كرن]. Kaf, ra və nun əyləncə alətlərində tək bir kəlmədir. Deyilir ki, əl-kiran (الكِرَان): çəngdir (əl-sanc). İmrul-Qeys demişdir:\nفيا رُبَّ قينةٍ … منعَّمة أَعملتُها بِكرَانِ (٢)\n(Neçə-neçə naz-nemət içində böyümüş müğənni qadın var ki, onu kiran (çəng) çalmağa vadar etmişəm).\nMüğənni qadına (əl-qeynə) «kərinə» (كَرِينَة) də deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:42:57.464Z"
+ "ts": "2026-10-26T00:42:57.464Z",
+ "prev_az": "[كرن]. Kaf, ra və nun əyləncə alətlərində tək bir kəlmədir. Deyilir ki, əl-kiran: çörək (musiqi aləti olan çəng). Əmrul-Qeys demişdir: فيا رُبَّ قينةٍ … منعَّمة أَعملتُها بِكرَانِ (٢) (Və neçə-neçə nemət içində olan müğənni qadın vardır ki, onu kiran ilə işlətdim). Və əl-qeynə: kərinədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الصَّنْج» (musiqi aləti: çəng) sözü yanlış olaraq «çörək» kimi tərcümə olunub."
+ ],
+ "review_ts": "2026-11-26T00:57:55.750Z"
 }

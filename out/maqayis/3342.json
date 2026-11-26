@@ -11,7 +11,17 @@
   "page_to": 107
  },
  "ar": "القاف والعين والنون ليس فيه إلاَّ قُعَين: قبيلةٌ من العرب.",
- "az": "[قعع] (qə-ə-n): Qaf, eyn və nundan yalnız «قُعَين» (quqeyn) sözü vardır — o da ərəblərdən bir qəbilədir.",
+ "az": "[قعن] Qaf, ayn və nun hərflərində yalnız «قُعَين» (Queyn — ərəblərdən bir qəbilə) sözü vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:37:28.844Z"
+ "ts": "2026-10-26T00:37:28.844Z",
+ "prev_az": "[قعع] (qə-ə-n): Qaf, eyn və nundan yalnız «قُعَين» (quqeyn) sözü vardır — o da ərəblərdən bir qəbilədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı [قعن] əvəzinə [قعع] kimi səhv yazılıb.",
+  "«قُعَين» sözü «quqeyn» kimi səhv oxunub."
+ ],
+ "review_ts": "2026-11-26T00:19:25.256Z"
 }

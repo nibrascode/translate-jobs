@@ -11,7 +11,19 @@
   "page_to": 156
  },
  "ar": "الكاف والباء والحرف المعتل أصلٌ صحيح يدلُّ على سُقوطٍ وتزيل. يقال: كبالوجهه يَكبُو، وهو كابٍ، إذا سَقَط. قال:\nفكَبَا كما يَكْبُو فنِيقٌ تَارِزٌ … بالخَبْتِ إلاّ أنّه هو أبْرَعُ (٣)\nويقال: كَبَا الزّنُد يَكْبُو، إذا لم يُخرِجْ نارَه. ويقال: كَبَوْتُ الكُوزَ وغيرَه، إذا صبَبْتَ ما فيه. والتُّراب الكَابِي: الذي لا يستقرُّ على وَجْه الأرض.\nويقال: هو كابِي الرَّماد، أي عظيمُه، ينهال. ومن الباب الكِبا (١): الكُنَاسة؛ والجمع الأَكْباء.\nومما شذَّ من هذا الأصل الكِبَاء ممدود، وهو ضربٌ من العُود. يقال كَبُّوا ثيابَكم، أي بَخِّروها. قال:\n* ورنداً ولُبْنَى والكِباءَ المُقَتَّرَا (٢) *",
- "az": "[كبو] (Kəbəvə). Kaf, ba və uzadılan hərf (الكاف والباء والحرف المعتل) həqiqi bir kök olub, yıxılmağa və zeval tapmağa dəlalət edir. كبالوجهه يَكبُو (üz üstə yıxıldı, yıxılır), o, كابٍ (kabun) – yıxılan deməkdir, deyilir. Şair demişdir:\nفكَبَا كما يَكْبُو فنِيقٌ تَارِزٌ … بالخَبْتِ إلاّ أنّه هو أبْرَعُ (٣)\n(O, səhrada sərt dayanan dəvənin yıxıldığı kimi yıxıldı, lakin o daha üstündür.)\nكََبَا الزّنُد يَكْبُو (od çaxmağı od çıxarmadı) – od çıxarmadıqda deyilir. كَبَوْتُ الكُوزَ وغيرَه (küpü və başqasını aşırtdım) – onun içindəkini tökdüm. Ət-türab əl-kabi (التُّراب الكَابِي) – yer üzündə qərar tutmayan torpaq. O, كابِي الرَّماد (kabi ər-ramad) – külü çox olan, tökülən deməkdir. Bu fəsildəndir: əl-kiba (الكِبا) (١) – süpürüntü, cəmisi əkbəy (الأَكْباء). Bu kökdən istisna olunan (şəzz olan) uzadılmış əl-kiba (الكِبَاء) sözüdür ki, ud ağacının bir növüdür. كَبُّوا ثيابَكم (paltarlarınıza buxar verin) – yəni onları tüstülədin, deməkdir. Şair demişdir:\n* ورنداً ولُبْنَى والكِباءَ المُقَتَّرَا (٢) *\n(Rənd ağacı, lobna və ətirli buxur...)",
+ "az": "[كبو]\nKaf, ba və illətli hərf yıxılmağa və dağılmağa (dağılıb tökülməyə) dəlalət edən həqiqi bir kökdür. كَبَا لِوَجْهِهِ يَكْبُو: o, üzüüstə yıxıldıqda deyilir, o كابٍ (yıxılan) adlanır. Şair demişdir:\nفكَبَا كما يَكْبُو فنِيقٌ تَارِزٌ … بالخَبْتِ إلاّ أنّه هو أبْرَعُ (٣)\n(O, düzənlikdə quruyub-qalan kök dəvənin yıxıldığı kimi yıxıldı, lakin o daha fəzilətlidir (üstündür)).\nDeyilir: كَبَا الزّنُد يَكْبُو: çaxmaqdaşı od çıxarmadıqda deyilir. كَبَوْتُ الكُوزَ وغيرَه: dolçanın və başqa şeyin içindəkini tökdükdə deyilir. التُّراب الكَابِي: yerin üzündə qərar tutmayan (havaya sovrulan) torpaqdır.\nDeyilir: هو كابِي الرَّماد: yəni külü çoxdur, tökülüb sovrulur. Bu qəbildəndir الكِبا (١): süpürüntü; cəmi الأَكْباء gəlir.\nBu kökdən qeyri-müntəzəm (şazz) olan isə mədd ilə الكِبَاء sözüdür ki, o, ud ağacının bir növüdür. كَبُّوا ثيابَكم deyilir, yəni paltarlarınızı buxurlayın. Şair demişdir:\n* ورنداً ولُبْنَى والكِباءَ المُقَتَّرَا (٢) *\n(Rənd ağacı, lübna və buxur verilmiş kiba...)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:41:04.625Z"
+ "ts": "2026-10-26T00:41:04.625Z",
+ "prev_az": "[كبو] (Kəbəvə). Kaf, ba və uzadılan hərf (الكاف والباء والحرف المعتل) həqiqi bir kök olub, yıxılmağa və zeval tapmağa dəlalət edir. كبالوجهه يَكبُو (üz üstə yıxıldı, yıxılır), o, كابٍ (kabun) – yıxılan deməkdir, deyilir. Şair demişdir:\nفكَبَا كما يَكْبُو فنِيقٌ تَارِزٌ … بالخَبْتِ إلاّ أنّه هو أبْرَعُ (٣)\n(O, səhrada sərt dayanan dəvənin yıxıldığı kimi yıxıldı, lakin o daha üstündür.)\nكََبَا الزّنُد يَكْبُو (od çaxmağı od çıxarmadı) – od çıxarmadıqda deyilir. كَبَوْتُ الكُوزَ وغيرَه (küpü və başqasını aşırtdım) – onun içindəkini tökdüm. Ət-türab əl-kabi (التُّراب الكَابِي) – yer üzündə qərar tutmayan torpaq. O, كابِي الرَّماد (kabi ər-ramad) – külü çox olan, tökülən deməkdir. Bu fəsildəndir: əl-kiba (الكِبا) (١) – süpürüntü, cəmisi əkbəy (الأَكْباء). Bu kökdən istisna olunan (şəzz olan) uzadılmış əl-kiba (الكِبَاء) sözüdür ki, ud ağacının bir növüdür. كَبُّوا ثيابَكم (paltarlarınıza buxar verin) – yəni onları tüstülədin, deməkdir. Şair demişdir:\n* ورنداً ولُبْنَى والكِباءَ المُقَتَّرَا (٢) *\n(Rənd ağacı, lobna və ətirli buxur...)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الحرف المعتل» «uzadılan hərf» deyil, «illətli hərf»dir.",
+  "«تزيل» sözü «zeval tapmaq» deyil, «ayrılmaq, dağılmaq»dır.",
+  "«الكِبَاء ممدود» uzadılmış deyil, mədd ilə (həmzə ilə) yazılan الكِبَاء sözüdür.",
+  "«بَخِّروها» sözü «buxar verin» deyil, «buxurlayın» (tüstülədin) deməkdir."
+ ],
+ "review_ts": "2026-11-26T00:35:55.957Z"
 }

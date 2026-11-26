@@ -13,5 +13,10 @@
  "ar": "الكاف والياء والصاد إنْ صحَّ فهو يدلُّ على انقباضٍ وضِيق. ويقولون: كاصَ يَكيص، مثل كَاعَ (٣). ويقولون: إنَّ الكِيصَ:\nالرجُل الضيِّق الخُلُق. وحُكِيت كلمةٌ أنا أرتاب بها، يقولون: كِصْنَا عند فُلانٍ ما شِئْنا، [أي] أكلنا.",
  "az": "[كيص] (Kaf, ya və sad) — əgər səhihdirsə, daralmaya və sıxıntıya dəlalət edir. Deyirlər: كاصَ يَكيص (kasa yekisu) — كَاعَ (kaə) kimi. Deyirlər ki, الكِيص (əl-kiys) — xasiyyəti dar, sərt adamdır. Haqqında şübhə etdiyim bir söz də nəql olunmuşdur, deyirlər: كِصْنَا عند فُلانٍ ما شِئْنا (kisna ində fulanin ma şi'na) — yəni yedik.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:39.620Z"
+ "ts": "2026-10-26T00:40:39.620Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T00:30:48.906Z"
 }

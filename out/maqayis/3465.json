@@ -11,7 +11,18 @@
   "page_to": 157
  },
  "ar": "الكاف والتاء واللام أُصيلٌ يدلُّ على تجمُّع. يقال: هذه كُتْلةٌ من شَيء، أي قطعةٌ مجتمعةٌ. قال ابنُ دريد (١) يقال: ألقى فلانٌ عليَّ كَتَالَهُ، أي ثِقْله. وذكر في شِعر [ابن] الطَّثْريّة (٢).",
- "az": "[كتل] (Kətələ). Kaf, ta və lam (الكاف والتّاء واللام) toplamağa dəlalət edən təməl bir kökdür. Bu كُتْلةٌ من شَيء (bir şeyin kütləsi, yəni yığcam parçası) deməkdir. İbn Dürid (١) demişdir: Filankəs mənə كَتَالَهُ (kətəlunu) – yəni ağırlığını atdı, dedi. O, [İbn] ət-Təsməriyyənin şeirində qeyd edilmişdir (٢).",
+ "az": "[كتل]\nKaf, ta və lam toplanmağa dəlalət edən kiçik bir əsasdır. Deyilir: هذه كُتْلةٌ من شَيء, yəni bir şeyin toplanmış parçasıdır. İbn Dureyd demişdir (١): ألقى فلانٌ عليَّ كَتَالَهُ deyilir, yəni ağırlığını [üzərimə atdı]. Bu, [İbn] ət-Təsriyyənin şeirində qeyd edilmişdir (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:41:04.625Z"
+ "ts": "2026-10-26T00:41:04.625Z",
+ "prev_az": "[كتل] (Kətələ). Kaf, ta və lam (الكاف والتّاء واللام) toplamağa dəlalət edən təməl bir kökdür. Bu كُتْلةٌ من شَيء (bir şeyin kütləsi, yəni yığcam parçası) deməkdir. İbn Dürid (١) demişdir: Filankəs mənə كَتَالَهُ (kətəlunu) – yəni ağırlığını atdı, dedi. O, [İbn] ət-Təsməriyyənin şeirində qeyd edilmişdir (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ابن الطَّثْريّة» nisbəsi «İbn ət-Təsməriyyə» kimi yanlış yazılmışdır, doğrusu «İbn ət-Təsriyyə»dir.",
+  "«أُصيلٌ» sözü kökün kiçildilmiş formasıdır («kiçik bir əsasdır»).",
+  "Cümlə quruluşu təhrif edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:35:55.958Z"
 }

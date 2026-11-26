@@ -11,7 +11,17 @@
   "page_to": 176
  },
  "ar": "الكاف والراء والجيم ليس بشيء. إنّما هو الكُرَّج، وهو الذي ذكرناه في الكُرَّة. وذكره جريرٌ فقال:\nلَبِستُ سِلاحي والفَرزدقُ لُعبةٌ … عليه وِشاحا كُرَّجٍ وجلاجلُه (١)",
- "az": "[كرج] \nКаф, ra və cim hərflərinin birləşməsi heç bir əsasa malik deyil. O, sadəcə olaraq «الكُرَّج» (əl-kürrəc) sözüdür ki, bunu biz «الكُرَّة» (əl-kürrə) bəhsində zikr etmişik. Cərir bunu qeyd edərək demişdir:\nلَبِستُ سِلاحي والفَرزدقُ لُعبةٌ … عليه وِشاحا كُرَّجٍ وجلاجلُه (١)\n(Silahımı geyindim, Fərəzdəq isə əyləncə idi... üzərində kürrəc qurşaqları və zınqırovları vardı).",
+ "az": "[كرج]\nKaf, ra və cim hərflərinin birləşməsi heç bir əsasa malik deyil. O, sadəcə olaraq الكُرَّج sözüdür ki, bunu biz الكُرَّة bəhsində zikr etmişik. Cərir bunu qeyd edərək demişdir:\nلَبِستُ سِلاحي والفَرزدقُ لُعبةٌ … عليه وِشاحا كُرَّجٍ وجلاجلُه (١)\n(Silahımı geyindim, Fərəzdəq isə əyləncə idi... üzərində kürrəc qurşaqları və zınqırovları vardı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:43:20.535Z"
+ "ts": "2026-10-26T00:43:20.535Z",
+ "prev_az": "[كرج] \nКаф, ra və cim hərflərinin birləşməsi heç bir əsasa malik deyil. O, sadəcə olaraq «الكُرَّج» (əl-kürrəc) sözüdür ki, bunu biz «الكُرَّة» (əl-kürrə) bəhsində zikr etmişik. Cərir bunu qeyd edərək demişdir:\nلَبِستُ سِلاحي والفَرزدقُ لُعبةٌ … عليه وِشاحا كُرَّجٍ وجلاجلُه (١)\n(Silahımı geyindim, Fərəzdəq isə əyləncə idi... üzərində kürrəc qurşaqları və zınqırovları vardı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.5-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adında Kiril hərfləri («Каف») var.",
+  "Şair adında Kiril hərfləri («Cəرير») istifadə olunub."
+ ],
+ "review_ts": "2026-11-26T00:58:42.114Z"
 }

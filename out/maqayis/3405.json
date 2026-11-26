@@ -11,7 +11,16 @@
   "page_to": 138
  },
  "ar": "الكاف والميم والشين أصلٌ صحيح يدلُّ على لَطافةٍ وصِغَر. يقولون * للشّاة الصّغيرة الضَّرع كَمْشَة. وفرسٌ كَمِيشٌ: صغير الجُرْدان.\nثمَّ يقال للرّجُل العَزُومِ الماضي: كَمْشٌ، ينسَبُ في ذلك إلى لطافةٍ وخِفّة.\nيقال كَمُشَ كَماشَةً (١). وربَّما قالوا: كَمَشه بالسَّيف، إذا قَطع أطرافه (٢).",
- "az": "[كمش] Kaf, mim və şin kiçikliyə və incəliyə dəlalət edən səhih bir kökdür. Deyirlər * məməsi kiçik olan qoyuna «كَمْشَة» (kəmdə) deyilir. «فرسٌ كَمِيشٌ» (kəmiş at) — cinsiyyət orqanı kiçik olan at. Sonra əzmkar və işinin ardınca gedən kişiyə «كَمْشٌ» (kəmiş) deyilir, bu da incəliyə və yüngüllüyə nisbət edilir. Deyilir: «كَمُشَ كَماشَةً» (١) (cəld və yüngül oldu). Bəzən də deyirlər: «كَمَشه بالسَّيف» (qılıncla onun uclarını kəsdi) (٢).",
+ "az": "[كمش]\nKaf, mim və şin incəliyə və kiçikliyə dəlalət edən səhih bir kökdür. Deyirlər * məməsi kiçik olan qoyuna «كَمْشَة» (kəmşə) deyilir. «فرسٌ كَمِيشٌ» (kəmiş at) — cinsiyyət orqanı kiçik olan at.\nSonra əzmkar və işinin ardınca gedən kişiyə «كَمْشٌ» (kəmş) deyilir, bu da incəliyə və yüngüllüyə nisbət edilir.\nDeyilir: «كَمُشَ كَماشَةً» (١) (cəld və yüngül oldu). Bəzən də deyirlər: «كَمَشه بالسَّيف» (qılıncla onun uclarını kəsdi) (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:55.165Z"
+ "ts": "2026-10-26T00:39:55.165Z",
+ "prev_az": "[كمش] Kaf, mim və şin kiçikliyə və incəliyə dəlalət edən səhih bir kökdür. Deyirlər * məməsi kiçik olan qoyuna «كَمْشَة» (kəmdə) deyilir. «فرسٌ كَمِيشٌ» (kəmiş at) — cinsiyyət orqanı kiçik olan at. Sonra əzmkar və işinin ardınca gedən kişiyə «كَمْشٌ» (kəmiş) deyilir, bu da incəliyə və yüngüllüyə nisbət edilir. Deyilir: «كَمُشَ كَماشَةً» (١) (cəld və yüngül oldu). Bəzən də deyirlər: «كَمَشه بالسَّيف» (qılıncla onun uclarını kəsdi) (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«كَمْشَة» sözünün oxunuşu «kəmdə» kimi, «كَمْشٌ» sözünün oxunuşu isə «kəmiş» kimi səhv verilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:25:15.883Z"
 }

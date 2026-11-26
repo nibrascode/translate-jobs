@@ -11,7 +11,16 @@
   "page_to": 160
  },
  "ar": "الكاف والتاء والواو فيه كلمةٌ لا معنَى لها، ولا يُعرَّج على مِثلها. يقولون: اكْتَوْتَى الرّجلُ، إذا بالَغَ في صفة نَفْسِه من غير عمل. واكْتَوْتَى تعتع. وليس هذا بشيء.",
- "az": "[كتو] (Kətəvə). Kaf, ta və vav (الكاف والتّاء والواو). Burada heç bir mənası olmayan və belə sözlərə əhəmiyyət verilməyən bir kəlmə vardır. Deyirlər: اكْتَوْتَى الرّجلُ (kişi lovğalandı) – heç bir iş görmədən özünü tərifləməkdə həddini aşdı. İktöytə tətətə (اكْتَوْتَى تعتع). Bu isə heç bir şey deyildir.",
+ "az": "[كتو] (Kətəvə). Kaf, ta və vav (الكاف والتاء والواو). Burada heç bir mənası olmayan və belə sözlərə əhəmiyyət verilməyən bir kəlmə vardır. Deyirlər: اكْتَوْتَى الرّجلُ (kişi lovğalandı) – heç bir iş görmədən özünü tərifləməkdə həddini aşdı. İktavtə isə pəltəkləmədir (boş sözdür: واكْتَوْتَى تعتع). Bu isə heç bir şey deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:41:04.625Z"
+ "ts": "2026-10-26T00:41:04.625Z",
+ "prev_az": "[كتو] (Kətəvə). Kaf, ta və vav (الكاف والتّاء والواو). Burada heç bir mənası olmayan və belə sözlərə əhəmiyyət verilməyən bir kəlmə vardır. Deyirlər: اكْتَوْتَى الرّجلُ (kişi lovğalandı) – heç bir iş görmədən özünü tərifləməkdə həddini aşdı. İktöytə tətətə (اكْتَوْتَى تعتع). Bu isə heç bir şey deyildir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«تعتع» kəlməsi tərcümə olunmaq əvəzinə «tətətə» şəklində təhrif olunmuşdur."
+ ],
+ "review_ts": "2026-11-26T00:55:34.561Z"
 }

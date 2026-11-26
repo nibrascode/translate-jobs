@@ -13,5 +13,10 @@
  "ar": "الكاف والياء والتاء كلمةٌ إن صحَّت، يقولون: التَّكييت:\nتيسير الجَهَاز. قال:\nكَيِّت جهازك إمّا كنتَ مرتحِلاً … إنِّي أخاف على أذْوادِك السَّبُعا (٣)",
  "az": "[كيت] (Kaf, ya və ta) — əgər səhihdirsə, bir kəlmədir, deyirlər: التَّكييت (ət-təkkiyt) — səfər ləvazimatını, yükünü hazırlamaq. [Şeir] كَيِّت جهازك إمّا كنتَ مرتحِلاً … إنِّي أخاف على أذْوادِك السَّبُعا (٣) (mənası: Əgər köçəcəksənsə, səfər ləvazimatını hazırla... Çünki mən dəvələrinə görə yırtıcı heyvandan qorxuram).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:39.620Z"
+ "ts": "2026-10-26T00:40:39.620Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T00:30:48.907Z"
 }

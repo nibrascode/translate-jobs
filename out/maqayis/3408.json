@@ -11,7 +11,16 @@
   "page_to": 139
  },
  "ar": "الكاف والنون والهاء كلمةٌ واحدة تدلُّ على غايةِ الشَّيء ونهايةِ وقتِه. يقال: بلغْتُ كُنْهَ هذا الأمرِ، أي غايتَه وحِينَه الذي هُوَ له.",
- "az": "[كنه] Kaf, nun və ha bir söz olub, bir şeyin son həddinə və vaxtının sonuna dəlalət edir. Deyilir: «بلغْتُ كُنْهَ هذا الأمرِ» (bu işin künhnə, yəni son həddinə və ona məxsus olan vaxtına çatdım).",
+ "az": "[كنه]\nKaf, nun və hə bir söz olub, bir şeyin son həddinə və vaxtının sonuna dəlalət edir. Deyilir: «بلغْتُ كُنْهَ هذا الأمرِ» (bu işin künhünə, yəni son həddinə və ona məxsus olan vaxtına çatdım).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:55.165Z"
+ "ts": "2026-10-26T00:39:55.165Z",
+ "prev_az": "[كنه] Kaf, nun və ha bir söz olub, bir şeyin son həddinə və vaxtının sonuna dəlalət edir. Deyilir: «بلغْتُ كُنْهَ هذا الأمرِ» (bu işin künhnə, yəni son həddinə və ona məxsus olan vaxtına çatdım).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə «künhnə» yazı xətası vardır («künhünə» olmalıdır)."
+ ],
+ "review_ts": "2026-11-26T00:25:15.886Z"
 }

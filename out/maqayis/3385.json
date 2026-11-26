@@ -11,7 +11,17 @@
   "page_to": 129
  },
  "ar": "الكاف والعين أصلٌ صحيحٌ يدلُّ على حَبسٍ واحتباس.\nيقال رجلٌ كَعٌّ، وكاعٌّ، أي جبانٌ. وقد أكَعَّه الفَرَق عن الأمر. [قال ابن دريد: لا يقال كاعَ، وإنْ كانت العامّة تقوله (٢)]، إنَّما يقال كَعَّ. قال:\n* كعكعهُ حائره عن الدَّقَقْ (٣) *",
- "az": "[كع] الكاف والعين أصلٌ صحيحٌ يدلُّ على حَبسٍ واحتباس. (Kaf və eyn hərfləri saxlamağa və tutulmağa dəlalət edən səhih kökdür). يقال رجلٌ كَعٌّ، وكاعٌّ، أي جبانٌ. (Deyilir ki, kənn kişi və ka'n, yəni qorxaqdır). وقد أكَعَّه الفَرَق عن الأمر. (Və qorxu onu işdən çəkindirdi). [قال ابن دريد: لا يقال كاعَ، وإنْ كانت العامّة تقوله (٢)], (İbn Dürid dedi: ka'ə deyilmir, hətta avam camaat bunu desə belə), إنَّما يقال كَعَّ. (ancaq kə'ə deyilir). قال: * كعكعهُ حائره عن الدَّقَقْ (٣) * (O dedi: Onun çaşqınlığı onu xırdadan saxladı).",
+ "az": "[كع]\nKaf və ayn hərfləri saxlamağa və tutulmağa dəlalət edən səhih kökdür.\nDeyilir: رجلٌ كَعٌّ، وكاعٌّ (kə və ka kişi, yəni qorxaq). وقد أكَعَّه الفَرَق عن الأمر (qorxu onu işdən çəkindirdi). [İbn Düreyd demişdir: avam camaat desə belə, كاعَ (kaə) deyilmir (٢)], ancaq كَعَّ (kəə) deyilir. Şair demişdir:\n* كعكعهُ حائره عن الدَّقَقْ (٣) * (Onun çaşqınlığı onu xırdadan saxladı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "prev_az": "[كع] الكاف والعين أصلٌ صحيحٌ يدلُّ على حَبسٍ واحتباس. (Kaf və eyn hərfləri saxlamağa və tutulmağa dəlalət edən səhih kökdür). يقال رجلٌ كَعٌّ، وكاعٌّ، أي جبانٌ. (Deyilir ki, kənn kişi və ka'n, yəni qorxaqdır). وقد أكَعَّه الفَرَق عن الأمر. (Və qorxu onu işdən çəkindirdi). [قال ابن دريد: لا يقال كاعَ، وإنْ كانت العامّة تقوله (٢)], (İbn Dürid dedi: ka'ə deyilmir, hətta avam camaat bunu desə belə), إنَّما يقال كَعَّ. (ancaq kə'ə deyilir). قال: * كعكعهُ حائره عن الدَّقَقْ (٣) * (O dedi: Onun çaşqınlığı onu xırdadan saxladı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«كَعٌّ، وكاعٌّ» sözləri «kənn» və «ka'n» şəklində səhv oxunmuşdur.",
+  "«ابن دريد» adı «İbn Dürid» şəklində səhv yazılmışdır."
+ ],
+ "review_ts": "2026-11-26T00:22:42.291Z"
 }

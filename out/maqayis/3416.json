@@ -11,7 +11,17 @@
   "page_to": 142
  },
  "ar": "الكاف والنون والعين أصلٌ صحيح يدلُّ على تشنُّجٍ وتقبّض وتجمُّع. من ذلك الكَنَع في الأصابع، وهو تشنُّج وتقبُّض. يقال: كَنِعَتْ أصابعُه تَكنع كَنَعاً. ومنه تكنع فلانٌ بفلانٍ، إذا ضَبِث به. وكَنَعَت العُقاب إذا ضمَّت جناحَها للانقضاض. واكتَنَع القومُ، إذا مالوا (١). [و] كَنَع الأمرُ:\nقرُب. ويقولون: كَنَع الرّجلُ وأكنَع، إذا لان. وهذا من الباب لأنه يتقبَّض ويتجمَّع. و\nفى الحديث: «أعوذُ بك من الكُنُوع (٢)». فهذا من كَنَع.",
- "az": "[كنع] Kaf, nun və eyn büzüşməyə, yığılmağa və toplanmağa dəlalət edən səhih bir kökdür. Bunlardan biri də barmaqlardakı «الكَنَع» (kənəc) olub, barmaqların büzüşməsi və yığılmasıdır. Deyilir: «كَنِعَتْ أصابعُه تَكنع كَنَعاً» (barmaqları büzüşdü). Həmçinin «تكنع فلانٌ بفلانٍ» — filankəs filankəsə möhkəm yapışdı. «كَنعَت العُقاب» — qartal şığımaq üçün qanadlarını yığdı. «اكتَنَع القومُ» — qövm yana əyildi. [Və] «كَنَع الأمرُ» — iş yaxınlaşdı. Deyirlər: «كَنَع الرّجلُ وأكنَع» (kişi yumşaldı). Bu da həmin babdəndir, çünki o, büzüşür və yığcamlaşır. Hədisdə gəlmişdir: «أعوذُ بك من الكُنُوع (٢)» (Mən Kənucdan Sənə sığınıram). Bu da كَنَع (kənəc) sözündəndir.",
+ "az": "[كنع] Kaf, nun və ayn büzüşməyə, yığılmağa və toplanmağa dəlalət edən səhih bir əsasdır.\nBunlardandır: barmaqlardakı «الكَنَع» (əl-kənə) — büzüşmə və yığılmadır. Deyilir: «كَنِعَتْ أصابعُه تَكنع كَنَعاً» (barmaqları büzüşdü). Buradandır: «تكنع فلانٌ بفلانٍ» — filankəs filankəsdən bərk yapışdıqda deyilir. «كَنَعَت العُقاب» — qartal şığımaq üçün qanadlarını yığdıqda deyilir. «واكتَنَع القومُ» — camaat (bir tərəfə) meyilləndikdə deyilir. [Və] «كَنَع الأمرُ» — iş yaxınlaşdı. Deyirlər: «كَنَع الرّجلُ وأكنَع» — kişi yumşaldıqda deyilir. Bu da həmin babdandır, çünki o da büzüşür və yığılır.\nHədisdə gəlmişdir: «أعوذُ بك من الكُنُوع (٢)» (Zillətə boyun əyməkdən [və ya acizlikdən] Sənə sığınıram). Bu da «كَنَع» kökündəndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:55.166Z"
+ "ts": "2026-10-26T00:39:55.166Z",
+ "prev_az": "[كنع] Kaf, nun və eyn büzüşməyə, yığılmağa və toplanmağa dəlalət edən səhih bir kökdür. Bunlardan biri də barmaqlardakı «الكَنَع» (kənəc) olub, barmaqların büzüşməsi və yığılmasıdır. Deyilir: «كَنِعَتْ أصابعُه تَكنع كَنَعاً» (barmaqları büzüşdü). Həmçinin «تكنع فلانٌ بفلانٍ» — filankəs filankəsə möhkəm yapışdı. «كَنعَت العُقاب» — qartal şığımaq üçün qanadlarını yığdı. «اكتَنَع القومُ» — qövm yana əyildi. [Və] «كَنَع الأمرُ» — iş yaxınlaşdı. Deyirlər: «كَنَع الرّجلُ وأكنَع» (kişi yumşaldı). Bu da həmin babdəndir, çünki o, büzüşür və yığcamlaşır. Hədisdə gəlmişdir: «أعوذُ بك من الكُنُوع (٢)» (Mən Kənucdan Sənə sığınıram). Bu da كَنَع (kənəc) sözündəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfi ayn «c» kimi transliterasiya edilmişdir («kənəc», «Kənuc»).",
+  "Hədisdə keçən «من الكنوع» ifadəsi tərcümə edilməyərək «Kənucdan» kimi anlaşılmaz buraxılmışdır."
+ ],
+ "review_ts": "2026-11-26T00:28:32.102Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 107
  },
  "ar": "القاف والعين والحرف المعتل فيه كلماتٌ لا قياسَ لها.\nيقولون: قَعَا الفحلُ النّاقةَ قُعُوّاً (١). والقَعْو: خَشَبتانِ في البَكْرةِ فيهما المِحْور (٢).\n* قال:\nمَقذوفةٍ بدَخيسِ اللّحمِ باَزِلُها … له صريفٌ صَرِيفُ القَعْوِ بالمَسدِ (٣)\nوأقْعَى الرَّجلُ في مَجلِسه، إذا تسانَدَ كما يُقعِي الكلِب. ونُهِيَ عن الإقعاء في الصلاة. وذكر ابنُ دُريد: امرأةٌ قَعْوَاء: دقيقةُ السّاقَين (٤)",
- "az": "[قعو] (qə-ə-v): Qaf, eyn və uzadılma hərfi (mötəl) olan sözlərdir, əsası yoxdur. Deyirlər: «قعَا الفحلُ النّاقةَ قُعُوّاً» (qə əl-fəhlü ən-naqətə ququvvən) (١). Və «القَعْو» (qəqü): içərisində ox (mühvər) olan dolabçaradakı iki taxtadır (٢). * (Şair) demişdir: «مَقذوفةٍ بدَخيسِ اللّحمِ باَزِلُها … له صريفٌ صَرِيفُ القَعْوِ بالمَسدِ» (٣) (Əzələlərinin dolğunluğundan atılmış, dişisi erkəyi seçilməyən dəvə... onun qıcartısı ipə sarılmış dolabçanın qıcartısı kimidir). Və kişi məclisində «وأقْعَى الرَّجلُ» (və əqə əl-racülü) — it oturan kimi arxası üstə dirsəklənərək oturduqda deyilir. Namazda it kimi oturmaq qadağan edilmişdir. İbn Dürid qeyd etmişdir: «امرأةٌ قَعْوَاء» (imrətün qəvaə) — incə baldırları olan qadın deməkdir (٤).",
+ "az": "[قعو]\nQaf, ayn və mötəl (zəif) hərfdə qiyası (ümumi qaydası) olmayan sözlər vardır.\nDeyirlər: قَعَا الفحلُ النّاقةَ قُعُوّاً (erkək dəvə dişi dəvə ilə cütləşdi) (١). القَعْو (dolabçanın içindəki oxun yerləşdiyi iki taxta) (٢).\n* (Şair) demişdir:\nمَقذوفةٍ بدَخيسِ اللّحمِ باَزِلُها … له صريفٌ صَرِيفُ القَعْوِ بالمَسدِ (٣)\n(Azı dişi çıxmış, bədəni sıx ətlə dolmuş [dəvə]... onun [dişlərinin] cırıltısı lifdən hörülmüş iplə fırlanan dolabça taxtasının cırıltısı kimidir).\nوأقْعَى الرَّجلُ في مَجلِسه (kişi məclisində iq'a etdi) — it oturan kimi arxaya söykənib oturduqda deyilir. Namazda iq'a (bu cür oturmaq) qadağan edilmişdir. İbn Düreyd qeyd etmişdir: امرأةٌ قَعْوَاء (incə baldırlı qadın) (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:37:28.844Z"
+ "ts": "2026-10-26T00:37:28.844Z",
+ "prev_az": "[قعو] (qə-ə-v): Qaf, eyn və uzadılma hərfi (mötəl) olan sözlərdir, əsası yoxdur. Deyirlər: «قعَا الفحلُ النّاقةَ قُعُوّاً» (qə əl-fəhlü ən-naqətə ququvvən) (١). Və «القَعْو» (qəqü): içərisində ox (mühvər) olan dolabçaradakı iki taxtadır (٢). * (Şair) demişdir: «مَقذوفةٍ بدَخيسِ اللّحمِ باَزِلُها … له صريفٌ صَرِيفُ القَعْوِ بالمَسدِ» (٣) (Əzələlərinin dolğunluğundan atılmış, dişisi erkəyi seçilməyən dəvə... onun qıcartısı ipə sarılmış dolabçanın qıcartısı kimidir). Və kişi məclisində «وأقْعَى الرَّجلُ» (və əqə əl-racülü) — it oturan kimi arxası üstə dirsəklənərək oturduqda deyilir. Namazda it kimi oturmaq qadağan edilmişdir. İbn Dürid qeyd etmişdir: «امرأةٌ قَعْوَاء» (imrətün qəvaə) — incə baldırları olan qadın deməkdir (٤).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«قَعَا الفحلُ النّاقةَ قُعُوّاً» ifadəsinin Azərbaycan dilində mənası verilməyib, yalnız təhrif olunmuş oxunuşu yazılıb.",
+  "Şeir beytindəki «بَازِلُها» (azı dişi çıxmış dəvə) və «صَرِيف» (cırıltı) sözləri səhv tərcümə edilib.",
+  "Baş sözlərin yanında Azərbaycan dilində mənası əvəzinə yanlış latın transkripsiyaları verilib."
+ ],
+ "review_ts": "2026-11-26T00:20:21.051Z"
 }

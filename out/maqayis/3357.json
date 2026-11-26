@@ -11,7 +11,16 @@
   "page_to": 113
  },
  "ar": "القاف والفاء والحاء، قال ابنُ دريد (٤): قَفَحت: نَفسُه عن الشّيء إذا كرهَتْه. قال: وهو في شِعر الطرِمّاح (٥).",
- "az": "[قفح] Qaf, fa və ha. İbn Dureyd (٤) deyir: «Qəfəhət nəfsuhu əniş-şey» dedikdə, bir şeydən ikrah etdikdə (xoşlamadıqda) deyilir. O deyir: «Bu, ət-Tirimmahın (٥) şeirində də vardır».",
+ "az": "[قفح] Qaf, fa və ha. İbn Dureyd (٤) demişdir: قَفَحت نَفسُه عن الشّيء (nəfsi bir şeydən ikrah etdikdə belə deyilir). O demişdir: Bu, ət-Tirimmahın (٥) şeirində də vardır.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:38:47.648Z"
+ "ts": "2026-10-26T00:38:47.648Z",
+ "prev_az": "[قفح] Qaf, fa və ha. İbn Dureyd (٤) deyir: «Qəfəhət nəfsuhu əniş-şey» dedikdə, bir şeydən ikrah etdikdə (xoşlamadıqda) deyilir. O deyir: «Bu, ət-Tirimmahın (٥) şeirində də vardır».",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Baş söz ərəb qrafikası ilə saxlanılmamışdır və «نَفسُه» (nəfsi) sözü tərcümədə buraxılmışdır."
+ ],
+ "review_ts": "2026-11-26T00:21:34.469Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 135
  },
  "ar": "الكاف واللام والدال كلمةٌ تدلُّ على الصَّلابة في الشيء.\nفالكَلَدَةُ: القطعة من الأرض الغليظة، ومنه الحارث بن كَلَدة.\nقال ابن دريد (١): تكلَّد الإنسانُ: غَلُظَ لحمُه.",
- "az": "[كلد] (Kaf, lam və dal) — bir şeydə sərtliyə və bərkliyə dəlalət edən kəlmədir.\n«الكَلَدَةُ» — sərt torpaq parçasıdır, Həris ibn Kələdə də buradan götürülmüşdür.\nİbn Dürid demişdir (١): «تكلَّد الإنسانُ» — insanın əti bərkimişdir, yoğunlaşmışdır.",
+ "az": "[كلد]\nKaf, lam və dal — bir şeydə sərtliyə və bərkliyə dəlalət edən kəlmədir.\n«الكَلَدَةُ» — sərt torpaq parçasıdır, əl-Haris ibn Kələdə də buradan götürülmüşdür.\nİbn Düreyd demişdir (١): «تكلَّد الإنسانُ» — insanın əti bərkimişdir, yoğunlaşmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:33.629Z"
+ "ts": "2026-10-26T00:39:33.629Z",
+ "prev_az": "[كلد] (Kaf, lam və dal) — bir şeydə sərtliyə və bərkliyə dəlalət edən kəlmədir.\n«الكَلَدَةُ» — sərt torpaq parçasıdır, Həris ibn Kələdə də buradan götürülmüşdür.\nİbn Dürid demişdir (١): «تكلَّد الإنسانُ» — insanın əti bərkimişdir, yoğunlaşmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«İbn Düreyd» (ابن دريد) adı səhvən «İbn Dürid» kimi yazılmışdır."
+ ],
+ "review_ts": "2026-11-26T00:24:35.386Z"
 }

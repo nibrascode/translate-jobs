@@ -11,7 +11,16 @@
   "page_to": 111
  },
  "ar": "القاف والعين والضاد كلمةٌ تدلُّ على عَطْف شيء وحَنْيِه.\nمن ذلك القَعْض: عطفُك رأسَ الخشبة، كما تُعطَف عروش الكَرْم. وهو قولُه:\n* أطرَ الصَّنَاعَين [العريشَ] القَعْضا (١) *",
- "az": "[قعض] (qə-ə-d): Qaf, eyn və dad bir şeyi əyməyə və bükməyə dəlalət edən sözdür. Bunlardan biri «القَعْض» (əl-qəd): taxtanın başını əyməyin, necə ki üzüm tənəklərinin çardaqları əyilir. Bu, onun (şairin) sözüdür: «* أطرَ الصَّنَاعَين [العريشَ] القَعْضا *» (١) (Sənaye, yəni sənətkar qadınların düzəltdiyi əyilmiş çardağı bükdü).",
+ "az": "[قعض] Qaf, eyn və dad bir şeyi əyməyə və bükməyə dəlalət edən sözdür. Bunlardan biri القَعْض (əl-qad): taxtanın başını əyməyin, necə ki üzüm tənəklərinin çardaqları əyilir. Bu, onun (şairin) sözüdür: * أطرَ الصَّنَاعَين [العريشَ] القَعْضا (١) * (İki bacarıqlı sənətkarın əyilmiş çardağı əyməsi kimi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:37:28.844Z"
+ "ts": "2026-10-26T00:37:28.844Z",
+ "prev_az": "[قعض] (qə-ə-d): Qaf, eyn və dad bir şeyi əyməyə və bükməyə dəlalət edən sözdür. Bunlardan biri «القَعْض» (əl-qəd): taxtanın başını əyməyin, necə ki üzüm tənəklərinin çardaqları əyilir. Bu, onun (şairin) sözüdür: «* أطرَ الصَّنَاعَين [العريشَ] القَعْضا *» (١) (Sənaye, yəni sənətkar qadınların düzəltdiyi əyilmiş çardağı bükdü).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytindəki «الصَّنَاعَين» (iki bacarıqlı sənətkar) sözü səhvən «Sənaye, yəni sənətkar qadınların» kimi yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-26T00:21:34.467Z"
 }

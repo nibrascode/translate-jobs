@@ -11,7 +11,16 @@
   "page_to": 144
  },
  "ar": "الكاف والهاء والراء كلمتانِ متباعدتانِ جداً: الأولى الانتهار، يقال كَهَرَهُ يَكْهَرُه كَهْرًا. و\nفي الحديث: «بأبي وأُمي ما كَهَرَني ولا شَتَمنِي».\nوقرأ ناسٌ: «فأمَّا اليَتِيمَ فَلَا تَكْهَرْ (١)».\nوالأصل الآخَر: كَهْرُ النَّهارِ، وهو ارتفاعُه، يقال كَهَرَ يَكْهَرُ. قال:\n* وإذا العانة في كَهْر الضُّحى (٢) *",
- "az": "[كهر] Kaf, ha və ra bir-birindən çox uzaq olan iki sözdür: Birincisi: sərt danışmaq (əl-intihar), deyilir ki كَهَرَهُ يَكْهَرُه كَهْرًا (kəhəruhü yəkhəruhü kəhrən). \nHədisdə: «بأبي وأُمي ما كَهَرَني ولا شَتَمنِي» («Atam-anam fəda olsun, o mənə sərt danışmadı və söymədi»). \nBəzi adamlar oxudular: «فأمَّا اليَتِيمَ فَلَا تَكْهَرْ (١)» («Amma yetimə sərt davranma»). \nVə digər əsas: كَهْرُ النَّهارِ (kəhrun-nəhar) — günün yüksəlməsi, deyilir كَهَرَ يَكْهَرُ (kəhərə yəkhəru). O demişdir:\n* وإذا العانة في كَهْر الضُّحى (٢) *",
+ "az": "[كهر]\nالكاف والهاء والراء (Kaf, ha və ra) bir-birindən çox uzaq olan iki sözdür: Birincisi danlamaq, sərt davranmaqdır (الانتهار); كَهَرَهُ يَكْهَرُه كَهْرًا (onu sərt qarşıladı, danladı) deyilir.\nHədisdə buyurulur: «بأبي وأُمي ما كَهَرَني ولا شَتَمنِي» («Atam-anam ona fəda olsun, o nə məni sərt qarşıladı, nə də söydü»).\nBəzi insanlar belə oxumuşlar: «فأمَّا اليَتِيمَ فَلَا تَكْهَرْ (١)» (mənaca tərcümə: «Yetimə gəlincə, ona sərt davranma/onu qovma!»).\nDigər əsas isə: كَهْرُ النَّهارِ – günün yüksəlməsi və istiləşməsidir; كَهَرَ يَكْهَرُ deyilir. Şair demişdir:\n* وإذا العانة في كَهْر الضُّحى (٢) *\n(Vəhşi eşşək sürüsü quşluq çağı yüksəlib qızdıqda...)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:40:17.222Z"
+ "ts": "2026-10-26T00:40:17.222Z",
+ "prev_az": "[كهر] Kaf, ha və ra bir-birindən çox uzaq olan iki sözdür: Birincisi: sərt danışmaq (əl-intihar), deyilir ki كَهَرَهُ يَكْهَرُه كَهْرًا (kəhəruhü yəkhəruhü kəhrən). \nHədisdə: «بأبي وأُمي ما كَهَرَني ولا شَتَمنِي» («Atam-anam fəda olsun, o mənə sərt danışmadı və söymədi»). \nBəzi adamlar oxudular: «فأمَّا اليَتِيمَ فَلَا تَكْهَرْ (١)» («Amma yetimə sərt davranma»). \nVə digər əsas: كَهْرُ النَّهارِ (kəhrun-nəhar) — günün yüksəlməsi, deyilir كَهَرَ يَكْهَرُ (kəhərə yəkhəru). O demişdir:\n* وإذا العانة في كَهْر الضُّحى (٢) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir misrası («وإذا العانة في كَهْر الضُّحى») tərcüməsiz qalmışdır."
+ ],
+ "review_ts": "2026-11-26T00:27:45.996Z"
 }

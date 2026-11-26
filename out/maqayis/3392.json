@@ -11,7 +11,17 @@
   "page_to": 135
  },
  "ar": "الكاف واللام والحاء أصلٌ يدلُّ على عُبوس وشَتامةٍ في الوجه. من ذلك الكُلوح، وهو العبوس. يقال كَلَح الرَّجُل، [و] دهرٌ كالِحٌ.\nقال اللّه تعالى: ﴿تَلْفَحُ وُجُوهَهُمُ اَلنّارُ وَهُمْ فِيها كالِحُونَ﴾. وربما قالوا للسَّنَة المُجْدِبة: كَلَاحِ. وما أقْبَح كَلَحَته، أي إذا كلَحَ فَقُبح فُمه وما حوالَيه.",
- "az": "[كلح] (Kaf, lam və ha) — üzdəki turşumaya və eybəcərliyə dəlalət edən bir əsasdır. Bunlardan biri üz turşutmaq mənasını verən «الكُلوح»dür. Deyilir: «كَلَح الرَّجُل» (kişi qaşqabağını tökdü), [və] «دهر كالِحٌ» (qəmli, sərt zaman).\nUca Allah buyurmuşdur: ﴿تَلْفَحُ وُجُوهَهُمُ اَلنّارُ وَهُمْ فِيها كالِحُونَ﴾ (mənaca tərcümə: Od onların üzlərini yandırar və onlar orada (üzləri turşumuş halda) qaşqabaqlı olarlar). Bəzən qıtlıq ilinə «كَلاَحِ» deyirlər. Və «ما أقْبَح كَلَحَته» — o, sifətini turşutduğu və ağzı ilə ətrafı çirkin göründüyü zaman nə qədər də çirkindir.",
+ "az": "[كلح]\nKaf, lam və ha — üzdəki turşumaya və eybəcərliyə dəlalət edən bir əsasdır. Bunlardan biri üz turşutmaq mənasını verən «الكُلوح»dür. Deyilir: «كَلَح الرَّجُل» (kişi qaşqabağını tökdü), [və] «دهرٌ كالِحٌ» (sərt, ağır zaman).\nUca Allah buyurmuşdur: ﴿تَلْفَحُ وُجُوهَهُمُ اَلنّارُ وَهُمْ فِيها كالِحُونَ﴾ (mənaca tərcümə: Od onların üzlərini yandırar və onlar orada qaşqabaqlı olarlar). Bəzən qıtlıq ilinə «كَلَاحِ» deyirlər. Və «ما أقْبَح كَلَحَته» — onun ağzı-burnu nə qədər çirkindir, yəni qaşqabağını töküb ağzı və ətrafı çirkinləşdiyi zaman (belə deyilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:33.629Z"
+ "ts": "2026-10-26T00:39:33.629Z",
+ "prev_az": "[كلح] (Kaf, lam və ha) — üzdəki turşumaya və eybəcərliyə dəlalət edən bir əsasdır. Bunlardan biri üz turşutmaq mənasını verən «الكُلوح»dür. Deyilir: «كَلَح الرَّجُل» (kişi qaşqabağını tökdü), [və] «دهر كالِحٌ» (qəmli, sərt zaman).\nUca Allah buyurmuşdur: ﴿تَلْفَحُ وُجُوهَهُمُ اَلنّارُ وَهُمْ فِيها كالِحُونَ﴾ (mənaca tərcümə: Od onların üzlərini yandırar və onlar orada (üzləri turşumuş halda) qaşqabaqlı olarlar). Bəzən qıtlıq ilinə «كَلاَحِ» deyirlər. Və «ما أقْبَح كَلَحَته» — o, sifətini turşutduğu və ağzı ilə ətrafı çirkin göründüyü zaman nə qədər də çirkindir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«أي» (yəni) bağlayıcısı buraxıldığı üçün «ما أقْبَح كَلَحَته» ifadəsinin tərcüməsi izahla qarışdırılmışdır.",
+  "«دهرٌ كالِحٌ» və «كَلَاحِ» sözlərinin hərəkələri AR mətnindən fərqli yazılmışdır."
+ ],
+ "review_ts": "2026-11-26T00:24:35.386Z"
 }

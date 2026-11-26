@@ -11,7 +11,17 @@
   "page_to": 166
  },
  "ar": "الكاف والدال والهاء ليس بشيء. على أنّهم يقولون:\nالكَدْه: الصَّكُّ بالحجَر. يقال: كَدَهَ يَكْدَهُ. وسقَطَ الشّيءُ فتكَدَّه، أي انكسر (٣).",
- "az": "[كده] (Kəf, Dal, Ha) heç bir şey deyildir. Lakin deyirlər ki, «الكَدْه» (daşla vurmaq). Deyilir ki, «كده يكده». Bir şey düşüb «تكده» olduqda, yəni sındı (٣).",
+ "az": "[كده] (Kaf, Dal, Hə) heç bir şey deyildir. Lakin deyirlər ki, «الكَدْه» (daşla vurmaq). Deyilir: «كَدَهَ يَكْدَهُ». Bir şey düşüb «فَتَكَدَّهَ» olduqda, yəni sındı (٣).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:42:38.345Z"
+ "ts": "2026-10-26T00:42:38.345Z",
+ "prev_az": "[كده] (Kəf, Dal, Ha) heç bir şey deyildir. Lakin deyirlər ki, «الكَدْه» (daşla vurmaq). Deyilir ki, «كده يكده». Bir şey düşüb «تكده» olduqda, yəni sındı (٣).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı «Kaf» olmalıdır.",
+  "Ərəbcə mətndəki hərəkələr silinmişdir."
+ ],
+ "review_ts": "2026-11-26T00:56:35.971Z"
 }

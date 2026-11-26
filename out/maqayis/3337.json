@@ -11,7 +11,18 @@
   "page_to": 105
  },
  "ar": "القاف والطاء والحرف المعتلّ أصلٌ صحيح يدلُّ على مقاربَةٍ في المشي. يقال: القَطْو: مُقارَبَة الخطو، وبه سمِّيت القطاة، وجمعها قطاً.\nوالعرب تقول: «ليس قَطاً مثلَ قُطَيّ»، أي ليس الأكابرُ مثل الأصاغر. قال:\nليسَ قَطاً مثلَ قُطَيٍّ ولا ال … مَرْعيُّ في الأقوام كالرَّاعي (٢)\nوسمِّيت قطاةً لأنَّها تَقْطُو في لِشْية. ويقولون: اقطَوْطَى الرَّجلُ في مشيته:\nاستدار.\nومما استُعِير من هذا الباب القَطَاة: مَقعَد الرَّدِيف من ظَهْر الفَرَس.",
- "az": "[قطو] (qət-u): Qaf, ta və zəif hərf olan vav tək, səhih bir kök olub, yeriməkdə addımları yaxınlaşdırmağı bildirir. Deyilir: «القَطْو» (əl-qatw): addımları qısaldıb yaxınlaşdırmaqdır, səhra quşu olan «قطاة» (qatat – çöl toyuğu) sözü də bundan götürülmüşdür, cəmi «قطا» (qata) gəlir. Ərəblər deyirlər: «ليس قطا مثل قطي» (Qata quteyə bənzəməz), yəni böyüklər kiçiklərə bənzəməz. (Şair) demişdir: [«ليس قطا مثل قطي ولا المرعي في الأقوام كالراعي» (Qata quteyə bənzəməz, tayfalar içində otarılan heyvan da çobana bənzəməz)]. O, lələklərinin rəngində addımlarını qısaldıb yeridikdən ötəri «قطاة» adlandırılmışdır. Deyirlər: «اقطوطي الرجل في مشيته» (Kişi yerişində dairəvi şəkildə hərəkət etdi). Bu fəsildən məcazi olaraq götürülmüşdür: «القَطَاة» (əl-qata): atın belində tərkində oturan şəxsin oturduğu yer.",
+ "az": "[قطو] Qaf, ta və mötəl (zəif) hərf səhih bir kök olub, yeriməkdə addımları yaxınlaşdırmağı bildirir. Deyilir: «القَطْو» (əl-qatv — addımları qısaldıb yaxınlaşdırmaqdır), «القطاة» (əl-qatat — çöl toyuğu) sözü də bundan adlanmışdır, cəmi «قطاً» (qatan) gəlir. Ərəblər deyirlər: «ليس قَطاً مثلَ قُطَيّ» (Qata quteyə bənzəməz), yəni böyüklər kiçiklərə bənzəməz. (Şair) demişdir: «ليسَ قَطاً مثلَ قُطَيٍّ ولا ال … مَرْعيُّ في الأقوام كالرَّاعي (٢)» (Qata quteyə bənzəməz, tayfalar içində otarılan da çobana bənzəməz). O, yerişində addımlarını qısaldaraq yeridiyi üçün «قطاة» adlandırılmışdır. Deyirlər: «اقطَوْطَى الرَّجلُ في مشيته: استدار» (Kişi yerişində dairəvi şəkildə hərəkət etdi). Bu fəsildən məcazi olaraq götürülmüşdür: «القَطَاة» (əl-qata — atın belində tərkində oturan şəxsin oturduğu yer).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:37:04.684Z"
+ "ts": "2026-10-26T00:37:04.684Z",
+ "prev_az": "[قطو] (qət-u): Qaf, ta və zəif hərf olan vav tək, səhih bir kök olub, yeriməkdə addımları yaxınlaşdırmağı bildirir. Deyilir: «القَطْو» (əl-qatw): addımları qısaldıb yaxınlaşdırmaqdır, səhra quşu olan «قطاة» (qatat – çöl toyuğu) sözü də bundan götürülmüşdür, cəmi «قطا» (qata) gəlir. Ərəblər deyirlər: «ليس قطا مثل قطي» (Qata quteyə bənzəməz), yəni böyüklər kiçiklərə bənzəməz. (Şair) demişdir: [«ليس قطا مثل قطي ولا المرعي في الأقوام كالراعي» (Qata quteyə bənzəməz, tayfalar içində otarılan heyvan da çobana bənzəməz)]. O, lələklərinin rəngində addımlarını qısaldıb yeridikdən ötəri «قطاة» adlandırılmışdır. Deyirlər: «اقطوطي الرجل في مشيته» (Kişi yerişində dairəvi şəkildə hərəkət etdi). Bu fəsildən məcazi olaraq götürülmüşdür: «القَطَاة» (əl-qata): atın belində tərkində oturan şəxsin oturduğu yer.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«لِشْية» sözü «lələklərinin rəngində» kimi uydurma və səhv şəkildə tərcümə edilib.",
+  "«الحرف المعتلّ» ifadəsinə AR-da olmayan «olan vav» əlavə edilib.",
+  "«اقطَوْطَى» sözü «اقطوطي» şəklində səhv yazılıb, beytdəki (٢) haşiyə rəqəmi buraxılıb və ərəbcə sitatların hərəkələri saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-26T00:19:25.254Z"
 }

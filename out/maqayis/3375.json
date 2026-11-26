@@ -11,7 +11,17 @@
   "page_to": 125
  },
  "ar": "الكاف والحاء ليس بشيء، وربما قالوا الكُحْكِحُ من الشَّاء: المسِنُّ. ويقولون: أعرابىٌّ كُحٌّ، مثل قُحّ.",
- "az": "[كح] الكاف والحاء ليس بشيء، (Kaf və hə hərfləri heç bir şey deyil), وربما قالوا الكُحْكِحُ من الشَّاء: المسِنُّ. (və bəlkə də qoyunlardan əl-kuhkuh deyirlər: qoca olan). ويقولون: أعرابىٌّ كُحٌّ، مثل قُحّ. (Və deyirlər: əsl ərəb, quhh kimi).",
+ "az": "[كح]\nKaf və ha hərflərində mötəbər bir şey yoxdur; bəzən qoyunlardan qoca olanına الكُحْكِحُ (kuhkuh) deyirlər. Həmçinin deyirlər: أعرابىٌّ كُحٌّ، مثل قُحّ (xalis bədəvi ərəb, «quhh» kimi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:12.477Z"
+ "ts": "2026-10-26T00:39:12.477Z",
+ "prev_az": "[كح] الكاف والحاء ليس بشيء، (Kaf və hə hərfləri heç bir şey deyil), وربما قالوا الكُحْكِحُ من الشَّاء: المسِنُّ. (və bəlkə də qoyunlardan əl-kuhkuh deyirlər: qoca olan). ويقولون: أعرابىٌّ كُحٌّ، مثل قُحّ. (Və deyirlər: əsl ərəb, quhh kimi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«الحاء» hərfinin adı «hə» kimi səhv verilib (düzgünü «ha»dır).",
+  "«ربما قالوا» ifadəsi «bəlkə də deyirlər» kimi yanlış tərcümə olunub (düzgünü «bəzən deyirlər»dir)."
+ ],
+ "review_ts": "2026-11-26T00:22:39.575Z"
 }

@@ -13,5 +13,10 @@
  "ar": "الكاف والنون والتاء كلمةٌ إن صحّتْ. يقولون: كَنَتَ، واكْتَنَتَ (٣)، إذا لزِمَ وقَنِع. وقال عديّ (٤).",
  "az": "[كنت] Kaf, nun və ta əgər səhihdirsə, bir sözdür. Deyirlər: «كَنَتَ، واكْتَنَتَ» (٣) (sabit qaldı, qane oldu). Ədiy demişdir (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:39:55.165Z"
+ "ts": "2026-10-26T00:39:55.165Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-26T00:28:32.101Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 115
  },
  "ar": "القاف والفاء والسين. يقولون: القَفَس: الغضب.",
- "az": "[قفس] Qaf, fa və sin. Deyirlər ki, «qəfəs»: qəzəbdir.",
+ "az": "[قفس] Qaf, fa və sin. Deyirlər ki, القَفَس (qəfəs) qəzəb deməkdir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:38:47.648Z"
+ "ts": "2026-10-26T00:38:47.648Z",
+ "prev_az": "[قفس] Qaf, fa və sin. Deyirlər ki, «qəfəs»: qəzəbdir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "İzah olunan «القَفَس» sözü ərəb qrafikası ilə saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-26T00:21:41.320Z"
 }

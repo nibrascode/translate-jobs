@@ -11,7 +11,16 @@
   "page_to": 165
  },
  "ar": "الكاف والدال والعين ليس بشيءٍ، غير أنَّ ابنُ دريدٍ ذكر أن الكَدْع: الدَّفْع الشَّديد (٣).",
- "az": "[كدع] (Kəf, Dal, Ayn) heç bir şey deyildir, lakin İbn Dureyd «الكَدْع»-in «الدَّفْع الشَّديد» (şiddətli itələmə) olduğunu qeyd etmişdir (٣).",
+ "az": "[كدع] (Kəf, Dal, Ayn) heç bir şey deyildir, lakin İbn Dureyd «الكَدْع» sözünün «الدَّفْع الشَّديد» (şiddətli itələmə) olduğunu qeyd etmişdir (٣).",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:42:38.345Z"
+ "ts": "2026-10-26T00:42:38.345Z",
+ "prev_az": "[كدع] (Kəf, Dal, Ayn) heç bir şey deyildir, lakin İbn Dureyd «الكَدْع»-in «الدَّفْع الشَّديد» (şiddətli itələmə) olduğunu qeyd etmişdir (٣).",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatlardan hərəkələr silinib."
+ ],
+ "review_ts": "2026-11-26T00:47:21.872Z"
 }
