@@ -11,7 +11,17 @@
   "page_to": 387
  },
  "ar": "النون والتاء والغين ليس بشيءٍ غير حكاية. يقولون: أنتَغَ الرّجُل، إذا ضَحِكَ * ضَحِكَ المستهزئ. ويقالَ: نَتَغْتُه، إذا عبتَه وذكَرْتَه بما ليس فيه. قال أبو بكر: رجل مِنْتَغٌ فَعّالٌ لذلك (٢).",
- "az": "«نتغ» (nətəğ) — Nun, ta və ğayn hərfləri hekayə etmədən başqa bir şey deyildir. Deyirlər: أنتَغَ الرّجُل (kişi istehza edənin gülüşü kimi güldü). Və deyilir: نَتَغْتُه (ona qüsur tapdın və onda olmayan şeylərlə onu xatırladın). Əbu Bəkr demişdir: رِجل مِنتغ (bunu çox edən kişi) (٢).",
+ "az": "[نتغ]\nالنون والتاء والغين (nun, ta və ğayn) səs təqlidindən (hifdən) başqa bir şey deyildir. Deyirlər: «أنتَغَ الرّجُل» (kişi nətəğ etdi), «إذا ضَحِكَ ضَحِكَ المستهزئ» (istehza edənin gülüşü ilə güldükdə). Deyilir: «نَتَغْتُه» (onu nətəğ etdim), «إذا عبتَه وذكَرْتَه بما ليس فيه» (ona eyib tutduqda və onda olmayan şeylərlə onu xatırladıqda). Əbu Bəkr demişdir: «رجل مِنْتَغٌ» (bunu çox edən kişi) «فَعّالٌ لذلك» (2).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:56:21.746Z"
+ "ts": "2026-10-26T00:56:21.746Z",
+ "prev_az": "«نتغ» (nətəğ) — Nun, ta və ğayn hərfləri hekayə etmədən başqa bir şey deyildir. Deyirlər: أنتَغَ الرّجُل (kişi istehza edənin gülüşü kimi güldü). Və deyilir: نَتَغْتُه (ona qüsur tapdın və onda olmayan şeylərlə onu xatırladın). Əbu Bəkr demişdir: رِجل مِنتغ (bunu çox edən kişi) (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format pozulmuşdur: «[نتغ]» ilə başlamır.",
+  "Ərəbcə izah cümlələri («إذا ضَحِكَ ضَحِكَ المستهزئ», «إذا عبتَه وذكَرْتَه بما ليس فيه») mətndən çıxarılmışdır."
+ ],
+ "review_ts": "2026-11-27T14:47:58.916Z"
 }

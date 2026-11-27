@@ -11,7 +11,17 @@
   "page_to": 309
  },
  "ar": "الميم والذال والقاف أصلٌ يدلُّ على خلطِ شيء لا عَلَى جهة النَّصاحة.\nمن ذلك مَذَق اللّبَنَ بالماء، وإنَّما يراد بذلك تكثيره. واشتُقَّ منه المذَّاق:\nالذي يَمذق الوُدّ بملَلٍ يكون فيه. والمَذْق: اللَّبَن الممزوج أيضًا، وكذا المَذِيق.",
- "az": "«مذق» (mim, zal və qaf) — səmimiyyət göstərmədən bir şeyi qarışdırmağa dəlalət edən kökdür. Bunlardan biri مَذَق اللّبَن بالماء (südü su ilə qarışdırmaq)dır, bununla onun miqdarını çoxaltmaq istənilir. Bundan Məzzaq (المذَّاق) sözü törəmişdir: sevgisini içindəki usançla qarışdıran kəs. Məzqv (المَذْق) — həmçinin qarışdırılmış süd deməkdir, eləcə də المَذِيق (məziq).",
+ "az": "[مذق]\n«مذق» (mim, zal və qaf) — saflıq üzrə olmadan bir şeyi qarışdırmağa dəlalət edən kökdür. Bunlardan biri مَذَق اللّبَنَ بالماء (südü su ilə qarışdırmaq)dır, bununla yalnız onun miqdarını çoxaltmaq istənilir. Bundan المذَّاق (məzzaq) sözü törəmişdir: sevgisini içindəki usançla qarışdıran kəs. المَذْق (məzq) — həmçinin qarışdırılmış süd deməkdir, eləcə də المَذِيق (məziq).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:54.672Z"
+ "ts": "2026-10-26T00:51:54.672Z",
+ "prev_az": "«مذق» (mim, zal və qaf) — səmimiyyət göstərmədən bir şeyi qarışdırmağa dəlalət edən kökdür. Bunlardan biri مَذَق اللّبَن بالماء (südü su ilə qarışdırmaq)dır, bununla onun miqdarını çoxaltmaq istənilir. Bundan Məzzaq (المذَّاق) sözü törəmişdir: sevgisini içindəki usançla qarışdıran kəs. Məzqv (المَذْق) — həmçinin qarışdırılmış süd deməkdir, eləcə də المَذِيق (məziq).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«المَذْق» sözünün oxunuşu «Məzqv» kimi səhv yazılıb.",
+  "«لا عَلَى جهة النَّصاحة» ifadəsi «səmimiyyət göstərmədən» kimi qeyri-dəqiq tərcümə olunub."
+ ],
+ "review_ts": "2026-11-27T13:52:15.804Z"
 }

@@ -13,5 +13,10 @@
  "ar": "النون والجيم والحاء أصلٌ يدلُّ على ظَفَرٍ وصِدْق وخيرٍ.\nمنه النَّجاح في الحوائج: الظَّفَر بها. وسَيْرٌ نَجِيحٌ: وشيك. ورأىٌ نجيح: صواب.\nوتناجَحَتْ أحلامهم: تتابَعتْ بصدق. وأنجَحَ اللّه طَلِبَتَك: أسعَفَك بإدراكها.",
  "az": "«نجح» (nəcəh) — Nun, cim və hə hərfləri zəfərə, doğruluğa və xeyrə dəlalət edən bir əsasdır.\n\nBunlardandır: النَّجاح في الحوائج (hacətlərdə, ehtiyaclarda müvəffəqiyyət və zəfər qazanmaq). وَسَيْرٌ نَجِيحٌ (cəld və sürətli gediş). وَرأىٌ نجيح (doğru rəy, düzgün fikir). وَتناجَحَتْ أحلامهم (yuxuları ardıcıl və doğru çıxdı). وَأنجَحَ اللّه طَلِبَتَك (Allah istədiyini verməklə sənə kömək etdi, hacətini uğurlu etdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:56:21.746Z"
+ "ts": "2026-10-26T00:56:21.746Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T14:47:43.200Z"
 }

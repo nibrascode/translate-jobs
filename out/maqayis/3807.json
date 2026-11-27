@@ -11,7 +11,17 @@
   "page_to": 301
  },
  "ar": "الميم والحاء والضاد كلمةٌ تدلُّ على خُلوص الشّيء. منه اللبن المَحْض: الخالص؛ وعربىٌّ محض. والمَحْض يشتقُّ منه مَحَضْتُهُمْ: سقيتُهم\nذلك. وامتَحَضْتُ أنا: شرِبت المَحْض. وأمحضْتُك الحديثَ: صَدَقْتُكَه.\nوكذا النصيحة [و] الوُدّ. قال:\nقُلْ لِلْغَواني أما فيكُنَّ فاتكةٌ … تَعلُو الّلئيم بضربٍ فيه إمحاضُ (١)",
- "az": "[محض] (Mim, ha və dad): Bir şeyin xalisliyinə (safViyəsinə) dəlalət edən sözdür. Bunlardan biri «اللَبَن المَحْض» (əl-ləbənül-məhd) sözüdür: xalis süd; həmçinin «عربىٌّ محض» (ərəbiyyun məhd) – xalis ərəb. «المَحْض» (əl-məhd) sözündən törəyərək «مَحَضْتُهُمْ» (məhəztühüm) – onlara saf süd içizdirdim, deyilir. «امتَحَضْتُ أنا» (imtəhəztü ənə) – xalis süd içdim. «وأمحضْتُك الحديثَ» (və əmhəztükəl-hədisə): sənə hədisi (xəbəri) sadiq olaraq, xalis şəkildə danışdım. Nəsihət və sevgi də belədir [وَ]. Şair demişdir:\nقُلْ لِلْغَواني أما فيكُنَّ فاتكةٌ … تَعلُو الّلئيم بضربٍ فيه إمحاضُ (١)",
+ "az": "[محض] (Mim, ha və dad): Bir şeyin xalisliyinə (saflığına) dəlalət edən sözdür. Bunlardan biri «اللبن المَحْض» (əl-ləbənül-məhd) sözüdür: xalis süd; həmçinin «عربىٌّ محض» (ərəbiyyün məhd) – xalis ərəb. «المَحْض» (əl-məhd) sözündən törəyərək «مَحَضْتُهُمْ» (məhədtühüm) – onlara bunu (saf südü) içirtdim, deyilir. «امتَحَضْتُ أنا» (imtəhədtü ənə) – xalis süd içdim. «وأمحضْتُك الحديثَ» (və əmhədtükəl-hədisə): sənə sözü (xəbəri) doğru və xalis şəkildə danışdım. Nəsihət [və] sevgi də belədir. Şair demişdir:\nقُلْ لِلْغَواني أما فيكُنَّ فاتكةٌ … تَعلُو الّلئيم بضربٍ فيه إمحاضُ (١) (Gözəl qadınlara de: aranızda alçağın üzərinə içdən gələn [var gücü ilə] bir zərbə endirəcək cəsur biri yoxdurmu?)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "prev_az": "[محض] (Mim, ha və dad): Bir şeyin xalisliyinə (safViyəsinə) dəlalət edən sözdür. Bunlardan biri «اللَبَن المَحْض» (əl-ləbənül-məhd) sözüdür: xalis süd; həmçinin «عربىٌّ محض» (ərəbiyyun məhd) – xalis ərəb. «المَحْض» (əl-məhd) sözündən törəyərək «مَحَضْتُهُمْ» (məhəztühüm) – onlara saf süd içizdirdim, deyilir. «امتَحَضْتُ أنا» (imtəhəztü ənə) – xalis süd içdim. «وأمحضْتُك الحديثَ» (və əmhəztükəl-hədisə): sənə hədisi (xəbəri) sadiq olaraq, xalis şəkildə danışdım. Nəsihət və sevgi də belədir [وَ]. Şair demişdir:\nقُلْ لِلْغَواني أما فيكُنَّ فاتكةٌ … تَعلُو الّلئيم بضربٍ فيه إمحاضُ (١)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalmışdır.",
+  "Mətndə hərf səhvi («safViyəsinə») və qrammatik uyğunsuzluq («[وَ]» işarəsinin yeri) vardır."
+ ],
+ "review_ts": "2026-11-27T13:51:25.648Z"
 }

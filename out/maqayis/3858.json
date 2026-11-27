@@ -11,7 +11,17 @@
   "page_to": 319
  },
  "ar": "الميم والزاء والنون أصلٌ صحيح فيه ثلاث كلمات متباينةِ القياس:\nفالأولى: المُزْن: السَّحاب، والقطعة مُزْنَة. ويقال في قول القائل وأظنُّه مصنوعاً:\nكأنَّ ابن مُزْنتها جانِجاً … فَسِيط لدى الأُفق من خِنْصرِ (١)\nإنّ ابن المُزْنة: الهِلال.\nوالثانية المازن: بَيض النَّمل.\nوالثالثة: مَزَنَ قِربَته: مَلأَها. وهو يتمزَّنُ على أصحابه، أي يتفضّل\nعليهم، كأنّه يتشبَّه بالمَزنِ سَخاءً. ولعل المُزْن هو الأصل في الباب، وما سواه فمفرَّعٌ عليه.",
- "az": "[مزن] (Mizn) Mim, zay və nun hərflərindən ibarət səhih bir kök olub, ölçüsü fərqli olan üç sözü ehtiva edir: Birincisi: المُزْن (əl-muzn) — bulud, parçası isə مُزْنَة (muznə) adlanır. Şairin aşağıdakı sözündə — ki, mən onun uydurma olduğunu güman edirəm — belə deyilmişdir: كأنَّ ابن مُزْنتها جانِجاً … فَسِيط لدى الأُفق من خِنْصرِ (1) (Elə bil onun muznəsinin oğlu qanadını gərmişdir... və uzaqda sərçə barmağından qatışdırılmışdır). Şübhəsiz ki, «ibn əl-muznə» — hilal (təzə ay) deməkdir. İkincisi: المازن (əl-mazin) — qarışqa yumurtası. Üçüncüsü: مَزَنَ قِربَته (məzənə qirbətahu) — tuluğunu doldurdu. O, öz yoldaşlarına qarşı «təməzzün» edir, yəni onlara lütf göstərir, səxavətdə özünü buluda oxşadır. Ola bilsin ki, «əl-muzn» bu بابın (bölmənin) əslidir, başqaları isə ondan törəmişdir.",
+ "az": "[مزن]\nMim, zey və nun (hərfləri) qiyası bir-birindən fərqlənən üç sözü ehtiva edən səhih bir kökdür:\nBirincisi: المُزْن (əl-muzn): bulud, bir parçası isə مُزْنَة (muznə) adlanır. Deyənin — hansı ki, bunun uydurma olduğunu güman edirəm — bu sözündə:\nكأنَّ ابن مُزْنتها جانِجاً … فَسِيط لدى الأُفق من خِنْصرِ (١) (Sanki onun buludunun oğlu [hilal] əyilərək... üfüqdə çeçələ barmaqdan kəsilmiş dırnaq qırığı kimidir)\ndeyilir ki, ابن المُزْنة (ibn əl-muznə) hilaldır.\nİkincisi: المازن (əl-mazin): qarışqa yumurtasıdır.\nÜçüncüsü: مَزَنَ قِربَته (tuluğunu doldurdu). وهو يتمزَّنُ على أصحابه (O, yoldaşlarına qarşı təməzzün edir), yəni onlara lütf göstərir, sanki səxavətdə özünü yağışlı buluda bənzədir. Ola bilsin ki, المُزْن (əl-muzn) bu babın əslidir, qalanları isə ondan törəmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:39.418Z"
+ "ts": "2026-10-26T00:52:39.418Z",
+ "prev_az": "[مزن] (Mizn) Mim, zay və nun hərflərindən ibarət səhih bir kök olub, ölçüsü fərqli olan üç sözü ehtiva edir: Birincisi: المُزْن (əl-muzn) — bulud, parçası isə مُزْنَة (muznə) adlanır. Şairin aşağıdakı sözündə — ki, mən onun uydurma olduğunu güman edirəm — belə deyilmişdir: كأنَّ ابن مُزْنتها جانِجاً … فَسِيط لدى الأُفق من خِنْصرِ (1) (Elə bil onun muznəsinin oğlu qanadını gərmişdir... və uzaqda sərçə barmağından qatışdırılmışdır). Şübhəsiz ki, «ibn əl-muznə» — hilal (təzə ay) deməkdir. İkincisi: المازن (əl-mazin) — qarışqa yumurtası. Üçüncüsü: مَزَنَ قِربَته (məzənə qirbətahu) — tuluğunu doldurdu. O, öz yoldaşlarına qarşı «təməzzün» edir, yəni onlara lütf göstərir, səxavətdə özünü buluda oxşadır. Ola bilsin ki, «əl-muzn» bu بابın (bölmənin) əslidir, başqaları isə ondan törəmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin mənası («فَسِيط لدى الأُفق من خِنْصرِ» — üfüqdə çeçələ barmaqdan kəsilmiş dırnaq qırığı) tamamilə səhv tərcümə edilib.",
+  "Mətndə «بابın» sözü tərcüməsiz qalıb, haşiyə rəqəmi (١) latın rəqəmi ilə yazılıb."
+ ],
+ "review_ts": "2026-11-27T14:02:51.286Z"
 }

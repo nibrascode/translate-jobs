@@ -11,7 +11,16 @@
   "page_to": 306
  },
  "ar": "الميم والدال واللام من كلمات أبي بكر أيضاً (٥): المِدْل:\nاللَّبَن الخاثر.",
- "az": "«مدل» (mim, dal və lam) — yenə Əbu Bəkrə görə sözlərdəndir (٥): المِدْل (midl) — qatılaşmış süd.",
+ "az": "[مدل] (Mim, dal və lam): Yenə Əbu Bəkrin (rəvayət etdiyi) sözlərdəndir (٥): «المِدْل» (əl-midl):\nqatılaşmış süd.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:54.672Z"
+ "ts": "2026-10-26T00:51:54.672Z",
+ "prev_az": "«مدل» (mim, dal və lam) — yenə Əbu Bəkrə görə sözlərdəndir (٥): المِدْل (midl) — qatılaşmış süd.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[مدل]» əvəzinə ««مدل»» formatında başlamışdır."
+ ],
+ "review_ts": "2026-11-27T13:51:28.572Z"
 }

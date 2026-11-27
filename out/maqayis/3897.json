@@ -11,7 +11,17 @@
   "page_to": 333
  },
  "ar": "الميم والطاء والقاف. التمطُّق: أن يُلصِق الإنسانُ لِسانَه بالغَارِ الأعلى فتَسمع له صوتاً، وذلك إذا استطابَ ما يأكل. قال الأعشى:\nتُرِيكَ القَذَى من دونها وهي دُونَه … إذا ذاقَها مَنْ ذاقَها يتمطَّق (٤)\nواللّه أعلم بالصواب.",
- "az": "[مطق] \nMim, ta və qaf hərfləri. التمطُّق: insanın dilini damağın yuxarı hissəsinə yapışdırması və bunun üçün səs eşidilməsidir, bu isə yediyi şeyi xoş və ləzzətli bildikdə olur. Əşə-şair demişdir:\nتُرِيكَ القَذَى من دونها وهي دُونَه … إذا ذاقَها مَنْ ذاقَها يتمطَّق (٤)\nmənası: «O (qadın və ya şərab) toz-torpağı səninlə onun arasında göstərir, halbuki o ondadır... Onu dadan hər kəs dadarkən damağını şappıldadır». \nDoğrusunu Allah bilir.",
+ "az": "[مطق] Mim, ta və qaf hərfləri. التَّمَطُّق: insanın dilini yuxarı damağına yapışdırması və bundan bir səs eşidilməsidir; bu da yediyi şeyi ləzzətli hesab etdikdə baş verir. Əl-Ə'şa demişdir: تُرِيكَ القَذَى من دونها وهي دُونَه … إذا ذاقَها مَنْ ذاقَها يتمطَّق (٤) (mənası: O, səninlə onun arasında olan çöpü göstərir, halbuki o ondan aşağıdadır... Onu dadan şəxs dadarkən damağını şappıldadır). Doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:24.328Z"
+ "ts": "2026-10-26T00:53:24.328Z",
+ "prev_az": "[مطق] \nMim, ta və qaf hərfləri. التمطُّق: insanın dilini damağın yuxarı hissəsinə yapışdırması və bunun üçün səs eşidilməsidir, bu isə yediyi şeyi xoş və ləzzətli bildikdə olur. Əşə-şair demişdir:\nتُرِيكَ القَذَى من دونها وهي دُونَه … إذا ذاقَها مَنْ ذاقَها يتمطَّق (٤)\nmənası: «O (qadın və ya şərab) toz-torpağı səninlə onun arasında göstərir, halbuki o ondadır... Onu dadan hər kəs dadarkən damağını şappıldadır». \nDoğrusunu Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirin tərcüməsi qaydalara əsasən mötərizə içərisində verilməlidir.",
+  "«فتسمع» cümləsi yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:35:34.040Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 427
  },
  "ar": "النون والشين والفاء: أصلٌ صحيح يدلُّ على ولوج ندًى في شيءٍ يأخذه. منه النَّشْف: دخولُ الماءِ في الثَّوب والأرضِ حتى ينتَشِفاهُ. والنَّشْفة:\nحجرٌ، سمِّيت لانتشافها الوسَخ عن مواضعه (٣). والجمع النِّشَف. [ويقال: إنَّ النَّشْف (٤)] في الحياض كالنَّزْح في الرّكايا. والنّاقةُ تُدِرُّ قبل نِتاجها ثم تذهب دِرّتُها. مِنْشَافٌ ونَشُوف.",
- "az": "«نشف» (ن ش ف): النون, الشين və Fa — bir şeyin özünə çəkdiyi nəmliyin (rütubətin) içəri girməsinə dəlalət edən səhih bir kökdür. «النَّشْف» (nəşf): paltarın və yerin suyu udub özünə çəkməsi, nəticədə onların suyu udmasıdır. «النَّشْفَة» (nəşfə): daş parçasıdır, yerindən kirin-pasın udulması (təmizlənməsi) üçün bu ad verilmişdir (٣). Cəmi: «النِّشَف» (nişəf). [De edilir ki, حياض - su hövzələrindəki «النَّشْف» (nəşf)] ركايا - quyulardakı «النَّزْح» (nəzh - suyu çəkib qurtarmaq) kimidir. Dişi dəvə balalamazdan əvvəl süd verər, sonra südü kəsilər. «مِنْشَاف» (minşaf) və «نَشُوف» (nəşuf).",
+ "az": "[نشف] Nun, şin və fa: bir şeyin özünə çəkdiyi nəmliyin (rütubətin) içəri girməsinə dəlalət edən səhih bir kökdür. Ondandır النَّشْف: paltarın və yerin suyu udub özünə çəkməsidir, hətta onu tam udarlar. النَّشْفة: daş parçasıdır, yerindən kirin-pasın udulması (təmizlənməsi) üçün bu ad verilmişdir (٣). Cəmi: النِّشَف. [Deyilir ki: النَّشْف (٤)] su hövzələrində, النَّزْح quyulardakı [suyu çəkmək] kimidir. Dişi dəvə balalamazdan əvvəl süd verər, sonra südü kəsilər; belə dəvəyə مِنْشَاف və نَشُوف deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:00:02.781Z"
+ "ts": "2026-10-26T01:00:02.781Z",
+ "prev_az": "«نشف» (ن ش ف): النون, الشين və Fa — bir şeyin özünə çəkdiyi nəmliyin (rütubətin) içəri girməsinə dəlalət edən səhih bir kökdür. «النَّشْف» (nəşf): paltarın və yerin suyu udub özünə çəkməsi, nəticədə onların suyu udmasıdır. «النَّشْفَة» (nəşfə): daş parçasıdır, yerindən kirin-pasın udulması (təmizlənməsi) üçün bu ad verilmişdir (٣). Cəmi: «النِّشَف» (nişəf). [De edilir ki, حياض - su hövzələrindəki «النَّشْف» (nəşf)] ركايا - quyulardakı «النَّزْح» (nəzh - suyu çəkib qurtarmaq) kimidir. Dişi dəvə balalamazdan əvvəl süd verər, sonra südü kəsilər. «مِنْشَاف» (minşaf) və «نَشُوف» (nəşuf).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə «[نشف]» formatı ilə başlamalıdır.",
+  "Ərəb hərflərinin adları latın əlifbası ilə yazılmalıdır.",
+  "Mötərizə içindəki cümlənin mətni pozulmuşdur.",
+  "«وهو النَّشِيل» ifadəsi səhv tərcümə olunub; «nəşil» alət deyil, qazandan çıxarılan ətdir."
+ ],
+ "review_ts": "2026-11-27T14:54:19.145Z"
 }

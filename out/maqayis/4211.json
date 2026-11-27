@@ -11,7 +11,17 @@
   "page_to": 464
  },
  "ar": "النون والقاف والميم أُصَيلٌ يدلُّ على إنكارِ شيء وعَيبه. ونَقَمْتُ عليه أَنْقِمُ: أنكرتُ عليه فِعلَه. والنِّقْمة من العذاب والانتقام، كأنَّه أنَكَر عليه فعاقَبَه. وقولهم للنَّفس نقيمة، وهو ميمون النَّقيمة، إنما هي من الإبدال، والأصل نَقِيبَة.",
- "az": "[نقم] (nəqəm): Nun, قاف və mim hərfləri bir şeyi inkar etməyə və qüsur tutmağa dəlalət edən kiçik bir əsldir. نَقَمْتُ عليه أَنْقِمُ (Nəqəmtü ələyhi ənqimü) – onun əməlini pislədim, inkar etdim. Əzab və intiqam mənasında olan النِّقْمة (ənniqmə) də bundandır, sanki [Allah] onun əməlini bəyənməyib cəza verdi. Onların nəfəs üçün نَقيمة (nəqimə) demələri, ميمون النَّقيمة (meymunün-nəqimə) ifadəsi isə əvəzlənmə yolu ilədir, əsli isə نَقِيبَة (nəqibə) sözüdür.",
+ "az": "[نقم] Nun, qaf və mim bir şeyi bəyənməməyə (inkar etməyə) və ona qüsur tutmağa dəlalət edən kiçik bir əsldir. نَقَمْتُ عَلَيْهِ أَنْقِمُ (ona qəzəbləndim, əməlini bəyənmədim) – onun əməlini inkar etdim. Əzab və intiqam mənasında olan النِّقْمَة da bundandır, sanki onun əməlini bəyənmədi və onu cəzalandırdı. Nəfs (xasiyyət) üçün نَقِيمَة demələri və هُوَ مَيْمُونُ النَّقِيمَةِ (o, bərəkətli xasiyyətlidir) ifadəsi hərflərin əvəzlənməsi (ibdal) yolu ilədir, əsli isə نَقِيبَة sözüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:02:03.386Z"
+ "ts": "2026-10-26T01:02:03.386Z",
+ "prev_az": "[نقم] (nəqəm): Nun, قاف və mim hərfləri bir şeyi inkar etməyə və qüsur tutmağa dəlalət edən kiçik bir əsldir. نَقَمْتُ عليه أَنْقِمُ (Nəqəmtü ələyhi ənqimü) – onun əməlini pislədim, inkar etdim. Əzab və intiqam mənasında olan النِّقْمة (ənniqmə) də bundandır, sanki [Allah] onun əməlini bəyənməyib cəza verdi. Onların nəfəs üçün نَقيمة (nəqimə) demələri, ميمون النَّقيمة (meymunün-nəqimə) ifadəsi isə əvəzlənmə yolu ilədir, əsli isə نَقِيبَة (nəqibə) sözüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adı (qaf) ərəb qrafikası ilə yazılmışdır.",
+  "«Nəfs» sözü «nəfəs» kimi yanlış tərcümə olunmuş və «ميمون النقيمة» ifadəsinin mənası verilməmişdir."
+ ],
+ "review_ts": "2026-11-27T15:01:58.050Z"
 }

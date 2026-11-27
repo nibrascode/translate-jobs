@@ -14,6 +14,10 @@
  "az": "«مح» (məhə) — Mim və hə hərfləri tək bir əslə əsaslanmayan üç kəlmədir: Birincisi, «مَحَّ الشَّيءُ وأمَحَّ» (məhhəş-şəy'ü və əməhhə) — köhnəldi və çürüməyə başladı. «المَحُّ» (əl-məhh) — köhnəlmiş paltar. İkincisi, «الرَّجل المَحَّاح» (ər-racülül-məhhəh) — etmədiyi şeyləri danışığı ilə eləyirmiş kimi göstərən yalançı. Üçüncüsü, «المُحُّ» (əl-muhh) — yumurtanın sarısı. Deyilir ki, «المَاحُ» (əl-məh) onun ağıdır (١).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:49:40.222Z",
- "review_attempts": 1,
- "review_last_error": "qısa (329 < 418)"
+ "review_last_error": "qısa (329 < 418)",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T13:50:42.013Z"
 }

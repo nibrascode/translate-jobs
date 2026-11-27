@@ -11,7 +11,17 @@
   "page_to": 335
  },
  "ar": "الميم والعين والحرف المعتل ثلاثُ كلماتٍ ليس قياسها واحداً.\nالأولى: المَعْوُ: الرُّطَب قد أرطب جَميعُه. وقال ابن دريد (٣): هو إذا دخله بعضُ اليُبْس *. وأمْعَى النَّخْل: صار كذلك.\nوالثانية: مِعَى البطن، والجمع أمعاء.\nوالثالثة المِعَى: المِذْنَب من مَذَانب الأرض.",
- "az": "[معو] \nMim, eyn və mütətil (zəif) hərf — ölçüsü eyni olmayan üç kəlmədir.\nBirincisi: المَعْوُ — tamamilə yetişmiş yaş xurma. İbn Dürid demişdir (٣): Bu, onun içinə bir qədər quruluq daxil olduqda olur *. Və أْمْعَى النَّخْل: xurma ağacı belə oldu.\nİkincisi: Qarnın bağırsağı — مِعَى البطن, cəmi أمعاء (bağırsaqlar).\nÜçüncüsü: المِعَى — yerin su axarları (mərzləri).",
+ "az": "[معو]\nMim, eyn və illətli (mütəll) hərf — qiyası eyni olmayan üç sözdür.\nBirincisi: المَعْوُ — bütünlüklə rütəbə (yetişmiş yaş xurmaya) çevrilmiş xurmadır. İbn Dureyd demişdir (٣): Bu, onun içinə bir qədər quruluq daxil olduqda işlənir *. Və أمْعَى النَّخْل: xurma ağacı belə oldu.\nİkincisi: مِعَى البطن (qarnın bağırsağı), cəmi أمعاء (bağırsaqlar).\nÜçüncüsü: المِعَى — yerin su axarlarından biridir (مِذْنَب).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:24.328Z"
+ "ts": "2026-10-26T00:53:24.328Z",
+ "prev_az": "[معو] \nMim, eyn və mütətil (zəif) hərf — ölçüsü eyni olmayan üç kəlmədir.\nBirincisi: المَعْوُ — tamamilə yetişmiş yaş xurma. İbn Dürid demişdir (٣): Bu, onun içinə bir qədər quruluq daxil olduqda olur *. Və أْمْعَى النَّخْل: xurma ağacı belə oldu.\nİkincisi: Qarnın bağırsağı — مِعَى البطن, cəmi أمعاء (bağırsaqlar).\nÜçüncüsü: المِعَى — yerin su axarları (mərzləri).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«mütətil» zəif hərf termininin yanlış yazılışıdır («mütəll» olmalıdır).",
+  "Ərəbcə sözlərin və tərcümələrin mötərizə formatı pozulmuşdur."
+ ],
+ "review_ts": "2026-11-27T14:38:43.099Z"
 }

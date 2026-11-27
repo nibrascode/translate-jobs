@@ -11,7 +11,18 @@
   "page_to": 325
  },
  "ar": "الميم والشين والحرف المعتل أصلانِ صحيحان، أحدهما يدلُّ على حركة الإنسان وغيره، والآخَر النَّماء والزيادة.\nوالأوّل مَشَى يمشِي مَشْيا. وشرِبْتُ مَشُوًّا ومَشِيًّا، وهو الدَّواء الذي يُمْشِي.\nوالآخر المَشَاء، وهو النِّتاج الكثير، وبه سمِّيت الماشية. وامرأةٌ ماشية: كثُر ولدُها. وأمْشَى الرّجُل: كثُرت ماشيتُه.",
- "az": "«مشي» (məşy) — mim, şin və hərfi-illə (uzunluq hərfi) iki səhih kökə malikdir; bunlardan biri insanın və başqasının hərəkətinə, diğəri isə inkişafa və artıma dəlalət edir. Birincisi: مَشَى يمشِي مَشْيا (məşə yəmşi məşyən) — yeridi, yeriyir. Və şiribtu مَشُوًّا və مَشِيًّا (məşüvvən və məşiyyən) — içdim, bu, yürüdən (işlədən) dərmandır. Digəri isə المَشَاء (əl-məşəu) — çoxlu nəsil, törəmədir, «ماشية» (maşiyə - mal-qara) sözü də bundan adlanmışdır. Və امْرَأةٌ ماشيةٌ (imratün maşiyətün) — övladı çox olan qadın. Və أمْشَى الرّجُل (əmşər-raculu) — mal-qarası çoxaldı.",
+ "az": "[مشي]\nMim, şin və illətli hərf iki səhih kökdür; bunlardan biri insanın və başqasının hərəkətinə, digəri isə inkişafa və artıma dəlalət edir.\nBirincisi: مَشَى يمشِي مَشْيا (yeridi, yeriyir, yerimək). Və شَرِبْتُ مَشُوًّا və مَشِيًّا (qarnı işlədən dərman içdim); o, qarnı işlədən dərmandır.\nDigəri isə المَشَاء (çoxlu nəsil, artım), الماشية (mal-qara) sözü də bundan adlandırılmışdır. Və امرأةٌ ماشية (övladı çox olan qadın). Və أمْشَى الرّجُل (kişinin mal-qarası çoxaldı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:03.302Z"
+ "ts": "2026-10-26T00:53:03.302Z",
+ "prev_az": "«مشي» (məşy) — mim, şin və hərfi-illə (uzunluq hərfi) iki səhih kökə malikdir; bunlardan biri insanın və başqasının hərəkətinə, diğəri isə inkişafa və artıma dəlalət edir. Birincisi: مَشَى يمشِي مَشْيا (məşə yəmşi məşyən) — yeridi, yeriyir. Və şiribtu مَشُوًّا və مَشِيًّا (məşüvvən və məşiyyən) — içdim, bu, yürüdən (işlədən) dərmandır. Digəri isə المَشَاء (əl-məşəu) — çoxlu nəsil, törəmədir, «ماشية» (maşiyə - mal-qara) sözü də bundan adlanmışdır. Və امْرَأةٌ ماشيةٌ (imratün maşiyətün) — övladı çox olan qadın. Və أمْشَى الرّجُل (əmşər-raculu) — mal-qarası çoxaldı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Söz başlığı «[مشي]» formatında olmalıdır.",
+  "Ərəbcə «شَرِبْتُ» sözü tərcümə mətninə «şiribtu» şəklində daxil edilmişdir.",
+  "Gərəksiz transkripsiyalar təmizlənməlidir."
+ ],
+ "review_ts": "2026-11-27T14:23:17.560Z"
 }

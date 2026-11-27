@@ -11,7 +11,16 @@
   "page_to": 442
  },
  "ar": "النون والطاء واللام كلمةٌ واحدة. يقولون: النَّاطِل: مكيالُ من مَكاييل الخمر. ويقال: بل النَّاطِل: الفَضْلةُ تَبقَى في الإناء من الشَّراب.\nوهو أشْبَهُ بقوله:\nولو أنَّ ما عندَ ابن بُجْرَةَ عندها … من الخمر لم تَبْلُلْ لَهَاتِى بناطلِ (١)\nويقولون إن كان صحيحًا: إن النَّيْطَل: الدَّلو، والدَّاهية.",
- "az": "[نطل] (nun, ta və lam) – tək bir kəlmədir. Deyirlər: النَّاطِل (ən-natil) – şərab ölçülərindən bir ölçüdür. Deyirlər: əksinə, النَّاطِل (ən-natil) – şərab qabında qalan artıq hissədir. Bu, onun bu sözünə daha çox uyğundur: ولو أنَّ ما عندَ ابن بُجْرَةَ عندها … من الخمر لم تَبْلُلْ لَهَاتِى بناطلِ (١) («Əgər İbn Bücrənin yanında ondan olan şərab olsaydı, o, mənim damağımı natillə islatmazdı»). Əgər səhihdirsə, deyirlər ki: النَّيْطَل (ən-neytəl) – su qabı (dələ) və bəladır.",
+ "az": "[نطل] (nun, ta və lam) – tək bir kəlmədir. Deyirlər: النَّاطِل (ən-natil) – şərab ölçülərindən bir ölçüdür. Deyirlər: əksinə, النَّاطِل (ən-natil) – şərab qabında qalan artıq hissədir.\nBu, onun bu sözünə daha çox uyğundur:\nولو أنَّ ما عندَ ابن بُجْرَةَ عندها … من الخمر لم تَبْلُلْ لَهَاتِى بناطلِ (١)\n(«Əgər İbn Bücrənin yanındakı müalicəvi şərab onun yanında olsaydı, o, mənim damağımı bir natillə [qalıq damcı ilə] belə islatmazdı»).\nƏgər səhihdirsə, deyirlər ki: النَّيْطَل (ən-neytəl) – qova (su qabı) və bəladır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:00:51.819Z"
+ "ts": "2026-10-26T01:00:51.819Z",
+ "prev_az": "[نطل] (nun, ta və lam) – tək bir kəlmədir. Deyirlər: النَّاطِل (ən-natil) – şərab ölçülərindən bir ölçüdür. Deyirlər: əksinə, النَّاطِل (ən-natil) – şərab qabında qalan artıq hissədir. Bu, onun bu sözünə daha çox uyğundur: ولو أنَّ ما عندَ ابن بُجْرَةَ عندها … من الخمر لم تَبْلُلْ لَهَاتِى بناطلِ (١) («Əgər İbn Bücrənin yanında ondan olan şərab olsaydı, o, mənim damağımı natillə islatmazdı»). Əgər səhihdirsə, deyirlər ki: النَّيْطَل (ən-neytəl) – su qabı (dələ) və bəladır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الدَّلو» sözü «dələ» yox, «qova / dolça» kimi tərcümə olunmalıdır."
+ ],
+ "review_ts": "2026-11-27T15:00:19.839Z"
 }

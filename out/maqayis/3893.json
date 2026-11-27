@@ -11,7 +11,17 @@
   "page_to": 332
  },
  "ar": "الميم والطاء والحاء كلمةٌ واحدة، حكاها * ابنُ دريد (٦)، هي المَطْح: الضَّرب باليد، وربما كُنِيَ به عن الجماع.",
- "az": "«مطح» (mətəh) — mim, ta və ha hərfləri tək bir kəlmədir, İbn Dürid (6) onu rəvayət etmişdir, o da المَطْح (əl-mətih) — əllə vurmaqdır, bəzən bundan cinsi əlaqə mənasında kinayə olaraq istifadə edilir.",
+ "az": "[مطح] Mim, ta və ha hərfləri tək bir kəlmədir, İbn Dureyd (٦) onu rəvayət etmişdir. O da المَطْح (əllə vurmaq) kəlməsidir, bəzən bundan cinsi əlaqə mənasında kinayə olaraq istifadə edilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:03.302Z"
+ "ts": "2026-10-26T00:53:03.302Z",
+ "prev_az": "«مطح» (mətəh) — mim, ta və ha hərfləri tək bir kəlmədir, İbn Dürid (6) onu rəvayət etmişdir, o da المَطْح (əl-mətih) — əllə vurmaqdır, bəzən bundan cinsi əlaqə mənasında kinayə olaraq istifadə edilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığının formatı «[مطح]» kimi olmalıdır.",
+  "Ərəbcə sözün oxunuşu yalnız mötərizədə və ya orijinal ərəb qrafikası ilə verilməlidir."
+ ],
+ "review_ts": "2026-11-27T14:35:34.038Z"
 }

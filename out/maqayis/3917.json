@@ -11,7 +11,17 @@
   "page_to": 340
  },
  "ar": "الميم والغين والطاء أصلٌ صحيح يدلُّ على امتدادٍ وطُول.\nوالمَغْطُ: المَدّ. ومَغَطْتُه فامتغط. والتَّمغُّط في عَدْو الفَرَس: أن يَمدَّ ضَبْعَيه. وانمَغَط النَّهارُ: ارتفعَ والمُمَّغِطْ: الطَّويل المضطرِب. ومَغَطَ الرَّامِي في قوسه: نَزَع فيها فأغرقَ النَّزْع.",
- "az": "[مغط] \nMim, ğayn və ta — uzanmağa və uzunluğa dəlalət edən səhih kökdür.\nVə المَغْطُ (əl-mağt) — uzatmaqdır. Mən onu uzatdım və o uzandı (مَغَطْتُه فامتغط). Atın qaçışındakı التَّمغُّط (ət-təmuğğut) — onun ön ayaqlarını uzatmasıdır. Gündüz uzandı (انمَغَط النَّهارُ) — yüksəldi. Və المُمَّغِطْ (əl-mummağit) — uzun və sərgərdan deməkdir. Oxatan kamanını çəkdi və güclü çəkdi (مَغَطَ الرَّامِي في قوسه).",
+ "az": "[مغط]\nMim, ğayn və ta — uzanmağa və uzunluğa dəlalət edən səhih kökdür.\nVə المَغْطُ (uzatmaq). مَغَطْتُه فامتغط (onu uzatdım və o uzandı). Atın qaçışındakı التَّمغُّط (ön ayaqlarını irəli uzatması). انمَغَط النَّهارُ (gündüz yüksəldi, uzandı). Və المُمَّغِطْ (uzun boylu, elastik/hərəkətli). Və مَغَطَ الرَّامِي في قوسه (oxatan kamanının ipini son həddinə qədər çəkdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:44.514Z"
+ "ts": "2026-10-26T00:53:44.514Z",
+ "prev_az": "[مغط] \nMim, ğayn və ta — uzanmağa və uzunluğa dəlalət edən səhih kökdür.\nVə المَغْطُ (əl-mağt) — uzatmaqdır. Mən onu uzatdım və o uzandı (مَغَطْتُه فامتغط). Atın qaçışındakı التَّمغُّط (ət-təmuğğut) — onun ön ayaqlarını uzatmasıdır. Gündüz uzandı (انمَغَط النَّهارُ) — yüksəldi. Və المُمَّغِطْ (əl-mummağit) — uzun və sərgərdan deməkdir. Oxatan kamanını çəkdi və güclü çəkdi (مَغَطَ الرَّامِي في قوسه).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə ərəb və latın hərflərinin qarışması kimi hərf səhvləri var (ət-təmuğغut, ayaقlarını).",
+  "«فأغرق النزع» hissəsinin tərcüməsi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-27T14:41:27.868Z"
 }

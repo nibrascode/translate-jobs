@@ -13,5 +13,10 @@
  "ar": "النون والزاء والقاف كلمةٌ تدلُّ على عَجَلة. من ذلك النَّزَق:\nالخِفّة والعَجَل. ونَزَّقْت الفَرَسَ فنَزِق. ويقولون: أنْزَقَ فلانٌ بالضّحِك.",
  "az": "[نزق] النون والزاء والقاف (n, z, q) — tələskənliyə dəlalət edən kəlmədir. Bunlardan biri «النَّزَق» (ən-nəzəq) — yüngüllük və tələskənlikdir. «نَزَّقْت الفَرَسَ فنَزِق» (nəzzəqtul-fərasə fə-nəziq) — atı hərəkətləndirdim, o da coşdu, oynadı. Deyirlər: «أنْزَقَ فلانٌ بالضّحِك» (ənzəqə fulanun bid-dihik) — filankəs gülməkdən özünü saxlaya bilməyib səbirsizlik etdi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:58:57.895Z"
+ "ts": "2026-10-26T00:58:57.895Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T14:51:36.837Z"
 }

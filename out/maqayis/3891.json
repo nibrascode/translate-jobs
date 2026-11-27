@@ -13,5 +13,7 @@
  "ar": "الميم والطاء واللام أصلٌ صحيح يدلُّ على مدِّ الشّيء وإطالته. ومَطَلْتُ الحديدةَ أمْطَلها مَطْلاً: مددتُها. والمَطْل في الحاجة والمماطَلَة في الحربِ مِنْه.",
  "az": "«مطل» (mətəl) — mim, ta və lam hərfləri bir şeyi uzatmağa və dartmağa dəlalət edən səhih bir kökdür. Və مَطَلْتُ الحديدةَ أمْطَلهَا مَطْلاً (mətəltül-hədidə əmtəluhə mətlən) — dəmiri uzatdım, dartdım. Ehtiyacda edilən مَطْل (mətl) və müharibədəki مُمَاطلَة (mümatələt) də bundandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:03.302Z"
+ "ts": "2026-10-26T00:53:03.302Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

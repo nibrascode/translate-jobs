@@ -11,7 +11,16 @@
   "page_to": 364
  },
  "ar": "النون والهاء والطاء زعم ابنُ دريد (٣) النَّهْط الطَّعْن.\nونَهَطه بالرُّمح: طعنَه به",
- "az": "[نهط] (NUN, HƏ və TA) - İbn Dürid iddia etmişdir ki (٣), «النَّهْط» - sünbə ilə vurmaqdır (və ya sancmaqdır). «ونَهَطه بالرُّمح» - onu nizə ilə vurdu (sançdı).",
+ "az": "[نهط] (nun, hə və ta) - İbn Dürid iddia etmişdir ki (٣), النَّهْط - الطَّعْن (sancmaq, nizələməkdir). ونَهَطه بالرُّمح - onu nizə ilə sancdı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:46.772Z"
+ "ts": "2026-10-26T00:54:46.772Z",
+ "prev_az": "[نهط] (NUN, HƏ və TA) - İbn Dürid iddia etmişdir ki (٣), «النَّهْط» - sünbə ilə vurmaqdır (və ya sancmaqdır). «ونَهَطه بالرُّمح» - onu nizə ilə vurdu (sançdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الطَّعْن» sözü «sünbə ilə vurmaq» kimi yanlış tərcümə edilmişdir, «sancmaq, nizələmək» deməkdir."
+ ],
+ "review_ts": "2026-11-27T14:45:35.271Z"
 }

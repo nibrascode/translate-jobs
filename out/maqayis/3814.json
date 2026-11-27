@@ -11,7 +11,17 @@
   "page_to": 303
  },
  "ar": "الميم والحاء والجيم. يقولون: مَحَجت الأرضَ الرِّيحُ: مسحت التُّرابَ عنها. ومَحَجْتُ اللَّحمَ: قشَرته. قال الخليل: والمَحْج: مسحُ شيءٍ عن شيء.\nقال ابن دريد (١): ومَحَجت الأديمَ والحبْلَ، إذا دلكته لِيَلين. قال: وماحَجْتُه مُماحجةً ومِحاجاً، إذا ما طَلته. وإن صحَّ الباب فأصله المَسْح.",
- "az": "[محج] (Mim, ha və cim): Deyirlər ki: «مَحَجت الأرضَ الرِّيحُ» (məhəcətil-ardər-rihu): külək torpağın üzərini süpürüb təmizlədi. «مَحَجْتُ اللَّحمَ» (məhəcütül-ləhmə): ətin dərisini soyub təmizlədim. Xəlil demişdir: «المَحْج» (əl-məhc): bir şeyi digər bir şeyin üzərindən silib aparmaqdır.\nİbn Dürid demişdir (١): «مَحَجت الأديمَ والحبْلَ» (məhəcətil-ədümə vəl-həblə) – dərini və ipi yumşalsın deyə ovxaladım. Həmçinin demişdir: «ماحَجْتُه مُماحجةً ومِحاجاً» (məhəcütuhu muməhacətən və mihacən) – onunla mübahisə və mücadilə etdim. Əgər bu باب səhihdirsə, onun əsli «المَسْح» (əl-məsh)-dir.",
+ "az": "[محج] (Mim, ha və cim): Deyirlər ki: «مَحَجت الأرضَ الرِّيحُ» (məhəcətil-ərdər-rihu): külək torpağı onun üzərindən süpürüb apardı. «مَحَجْتُ اللَّحمَ» (məhəctül-ləhmə): ətin üst qatını (pərdəsini) soyub təmizlədim. Xəlil demişdir: «المَحْج» (əl-məhc): bir şeyi digər bir şeyin üzərindən silib aparmaqdır.\nİbn Düreyd demişdir (١): «مَحَجت الأديمَ والحبْلَ» (məhəctül-ədimə vəl-həblə) – dərini və ipi yumşalsın deyə ovxaladım. Həmçinin demişdir: «ماحَجْتُه مُماحجةً ومِحاجاً» (mahəctühu mumahəcətən və mihacən) – onu süründürməçiliyə saldım (yubatdım). Əgər bu bab səhihdirsə, onun əsli «المَسْح» (əl-məsh)-dir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "prev_az": "[محج] (Mim, ha və cim): Deyirlər ki: «مَحَجت الأرضَ الرِّيحُ» (məhəcətil-ardər-rihu): külək torpağın üzərini süpürüb təmizlədi. «مَحَجْتُ اللَّحمَ» (məhəcütül-ləhmə): ətin dərisini soyub təmizlədim. Xəlil demişdir: «المَحْج» (əl-məhc): bir şeyi digər bir şeyin üzərindən silib aparmaqdır.\nİbn Dürid demişdir (١): «مَحَجت الأديمَ والحبْلَ» (məhəcətil-ədümə vəl-həblə) – dərini və ipi yumşalsın deyə ovxaladım. Həmçinin demişdir: «ماحَجْتُه مُماحجةً ومِحاجاً» (məhəcütuhu muməhacətən və mihacən) – onunla mübahisə və mücadilə etdim. Əgər bu باب səhihdirsə, onun əsli «المَسْح» (əl-məsh)-dir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«باب» (bab) sözü tərcüməsiz və ərəb əlifbası ilə qalmışdır.",
+  "«ماطَلته» (süründürməçiliyə saldım, yubatdım) ifadəsi «mübahisə və mücadilə etdim» kimi yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T13:51:25.711Z"
 }

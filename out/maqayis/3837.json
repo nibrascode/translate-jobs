@@ -11,7 +11,18 @@
   "page_to": 310
  },
  "ar": "الميم والراء والزاء أصلٌ يدلُّ على تقطيع شيءٍ وخَدْشه.\nومرَزَتِ المرأةُ العجينَ: قطّعته، وكلُّ قطعةٍ مَرْزَةٌ. ويقولون في القياس على هذا: امتَرزَ عِرْضَه، إذا نال منه. ومرز جلدَه: خَدَشَه.",
- "az": "«مرز» (mim, ra və zay) — bir şeyi parça-parça etməyə və cızmağa dəlalət edən səhih bir kökdür. Qadın xəmiri doğradıqda مَرَزَتِ المرأةُ العجينَ deyilir, hər bir parça مَرْزَةٌ (marzə) adlanır. Buna əsasən deyirlər: امتَرزَ عِرْضَه (imtərzə ırzəhu) — onun namusuna toxundu, ləkələdi. Və مرز جلدَه (maraza cildəhu) — dősünü cızdı.",
+ "az": "[مرز]\nالميم (mim), الراء (ra) və الزاء (zey) bir şeyi kəsib-doğramağa və cızmağa dəlalət edən bir kökdür.\nومرَزَتِ المرأةُ العجينَ — qadın xəmiri kəsib-doğradı, hər bir parça مَرْزَةٌ (marzə) adlanır. Buna qiyas edərək deyirlər: امتَرزَ عِرْضَه — onun namusuna toxunduqda, ləkələdikdə. ومرز جلدَه — dərisini cızdı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:54.672Z"
+ "ts": "2026-10-26T00:51:54.672Z",
+ "prev_az": "«مرز» (mim, ra və zay) — bir şeyi parça-parça etməyə və cızmağa dəlalət edən səhih bir kökdür. Qadın xəmiri doğradıqda مَرَزَتِ المرأةُ العجينَ deyilir, hər bir parça مَرْزَةٌ (marzə) adlanır. Buna əsasən deyirlər: امتَرزَ عِرْضَه (imtərzə ırzəhu) — onun namusuna toxundu, ləkələdi. Və مرز جلدَه (maraza cildəhu) — dősünü cızdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«zay» əvəzinə «zey» yazılmalıdır.",
+  "Ərəb mətnində olmayan «səhih» sözü əlavə edilmişdir.",
+  "«جلدَه» (dərisini) sözü «döşünü» kimi yanlış tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:06:59.446Z"
 }

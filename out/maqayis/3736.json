@@ -11,9 +11,18 @@
   "page_to": 272
  },
  "ar": "الميم والصاد أصلٌ صحيح يدلُّ على شِبه التذوُّق للشّيء وأخْذِ خَالِصِه. من ذلك مَصِصْتُ الشيء أمَصُّه، وامْتَصَصْته أمتصُّه. والمَصْمَصة:\nخلاف المَضمضة، لأنَّ المَصْمَصَة بالصاد يكون بطرف اللِّسان. ومنه مُصاص الشيء:\nخالصه، وهو مقيسٌ من امْتَصَصْت الشّيء، فهو الخالص الذي يُمتصّ. وفرس مُصامِصٌ: خالص العربية.",
- "az": "«مص» (məsa) — Mim və sad hərfləri bir şeyi dadmağa bənzəyən və onun xalisini almağa dəlalət edən səhih bir əslidir. Bunlardan biri «مَصِصْتُ الشيء أمَصُّه، وامْتَصَصْته أمتصُّه» (məsisthüş-şəy'ə əmuccühû, və imtasasthü əmtuccühû) — mən şeyi sordum, soruram. «والمَصْمَصَة» (əl-masmasə) — «المَضمضة» (əl-mazmazə)-nin ziddidir, çünki sad hərfi ilə olan masmasə dilin ucu ilə edilir. Və bundandır: «مُصاص الشيء» (musasüş-şəy' - şeyin xalis hissəsi), bu da «امْتَصَصْت الشَّيء» (imtasasthüş-şəy' - sormuş olduğun şey) sözündən qiyas edilmişdir, o sorulan xalis şeydir. «فرس مُصامِصٌ» (fərasün musamisün) — saf ərəb cinsli at.",
+ "az": "[مص]\nميم (mim) və صاد (sad) hərfləri bir şeyi dadmağa bənzəyən və onun xalisini almağa dəlalət edən səhih bir kökdür. Bunlardan biri «مَصِصْتُ الشيء أمَصُّه، وامْتَصَصْته أمتصُّه» (şeyi sordum, soruram)-dur. «والمَصْمَصة»:\n«المَضمضة»-dən fərqlidir, çünki sad hərfi ilə olan مَصْمَصَة dilin ucu ilə edilir. Bundandır: «مُصاص الشيء»:\nonun xalis hissəsi; bu da «امْتَصَصْت الشّيء» (şeyi sordum) sözündən qiyas edilmişdir, o sorulan xalis şeydir. «فرس مُصامِصٌ» — saf ərəb cinsli at.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:49:40.222Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«مص» (məsa) — Mim və sad hərfləri bir şeyi dadmağa bənzəyən və onun xalisini almağa dəlalət edən səhih bir əslidir. Bunlardan biri «مَصِصْتُ الشيء أمَصُّه، وامْتَصَصْته أمتصُّه» (məsisthüş-şəy'ə əmuccühû, və imtasasthü əmtuccühû) — mən şeyi sordum, soruram. «والمَصْمَصَة» (əl-masmasə) — «المَضمضة» (əl-mazmazə)-nin ziddidir, çünki sad hərfi ilə olan masmasə dilin ucu ilə edilir. Və bundandır: «مُصاص الشيء» (musasüş-şəy' - şeyin xalis hissəsi), bu da «امْتَصَصْت الشَّيء» (imtasasthüş-şəy' - sormuş olduğun şey) sözündən qiyas edilmişdir, o sorulan xalis şeydir. «فرس مُصامِصٌ» (fərasün musamisün) — saf ərəb cinsli at.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb sözlərinin transkripsiyası səhv verilmişdir ('məsisthüş-şəy'ə əmuccühû', 'imtasasthü əmtuccühû').",
+  "'امْتَصَصْت الشَّيء' ifadəsi 'sormuş olduğun şey' kimi səhv tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T13:50:42.014Z"
 }

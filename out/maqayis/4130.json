@@ -11,7 +11,17 @@
   "page_to": 427
  },
  "ar": "النون والشين والغين ثلاثُ كلماتٍ متباينةٍ، ليس قياسها واحداً.\nالأولى النَّشغ، كالشَّهِيق عند الشَّوق.\nالثانية الناشغ: الذي يَحيا بعد جَهْد.\nالثالثة النَّواشِغ: أعالي الوادي، الواحدة ناشغة.",
- "az": "[نشغ] (nəşğ) — Nun, şin və ğeyn bir-birindən fərqli üç kəlmədir, onların qiyasəti eyni deyil.\n\nBirincisi: النَّشغ (ən-nəşğ) — həsrət zamanı olan şehiq (hönkürtü) kimidir.\nİkincisi: الناشغ (ən-nəşiğ): əziyyətdən sonra dirilən şəxsdir.\nÜçüncüsü: النَّواشِغ (ən-nəvəşiğ): vadinin yuxarı hissələridir, təkliyi ناشغة (nəşiğə) olur.",
+ "az": "[نشغ] Nun, şin və ğayn bir-birindən fərqli üç kəlmədir, onların qiyası bir deyildir.\nBirincisi: النَّشغ (ən-nəşğ) — həsrət zamanı olan şehiq (hıçqırıq) kimidir.\nİkincisi: الناشغ (ən-naşiğ) — əziyyətdən sonra dirilən şəxsdir.\nÜçüncüsü: النَّواشِغ (ən-nəvaşiğ) — vadinin yuxarı hissələridir, təkliyi ناشغة (naşiğə) olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:59:38.830Z"
+ "ts": "2026-10-26T00:59:38.830Z",
+ "prev_az": "[نشغ] (nəşğ) — Nun, şin və ğeyn bir-birindən fərqli üç kəlmədir, onların qiyasəti eyni deyil.\n\nBirincisi: النَّشغ (ən-nəşğ) — həsrət zamanı olan şehiq (hönkürtü) kimidir.\nİkincisi: الناشغ (ən-nəşiğ): əziyyətdən sonra dirilən şəxsdir.\nÜçüncüsü: النَّواشِغ (ən-nəvəşiğ): vadinin yuxarı hissələridir, təkliyi ناشغة (nəşiğə) olur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə «[نشغ]» formatı ilə başlamalıdır.",
+  "«غين» hərf adı «ğayn» kimi yazılmalıdır."
+ ],
+ "review_ts": "2026-11-27T14:54:19.144Z"
 }

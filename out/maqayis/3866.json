@@ -11,7 +11,19 @@
   "page_to": 322
  },
  "ar": "الميم والسين والحرف المعتلّ كلمتانِ متباينتان جدا.\nالأولى زمانٌ من الأزمنة، وهو خلاف الإصباح. يقال أصبَحْنا وأمسَيْنا، وأتانا لمُسْيِ خامسةٍ ومِسْي خامسة. والمَسَاء: خِلاف الصَّباح.\nوالكلمة الأخرى المَسْي: أن يُدخِل الرّاعِي يَدَه في رَحِم النّاقة يَمسُطُ ماءَ الفَحل من رحِمِها كراهَةَ أن يَحمِل. ويقال إن المَاسِيَ: الماجِن، وهذا من باب\nالمهموز، يقال مَسَأ، إذا مَجَنَ. وقال ابن دريد (١) مَسَأَ الرّجلُ: مَرَن على الشَّيء.",
- "az": "[مسي] (Məsi) Mim, sin və uzویان hərf olub bir-birindən çox fərqlənən iki sözdür. Birincisi: zamanlardan bir zamandır, səhərləməyin (إصباح) əksidir. Deyilir: səhərlədik «əsbəhna», axşamladıq «əmsəna», və o, bizə beşinci günün müsiyində (لمُسْيِ خامسة) və misixtə (مِسْي خامسة) gəldi. Əl-məsa (المَسَاء) — səhərin əksidir. Digər söz isə əl-məsy (المَسْي) — çobanın dişi dəvənin rəhmə əlini salıb, balalamasını istəmədiyi üçün erkəyin suyunu oradan sıxıb çıxarmasıdır. Deyilir ki, əl-masi (المَاسِي) — əxlaqsız, şıltaq adamdır, bu isə həmzəli sözlər babındandır, deyirlər: məsəə (مَسَأ), yəni şıltaqlıq etdi. İbn Dürid (1) demişdir ki, kişi məsəə (مَسَأَ الرّجُلُ) — bir işə alışdı.",
+ "az": "[مسي] Mim, sin və illətli hərf olub bir-birindən çox fərqlənən iki sözdür.\nBirincisi: zamanlardan bir zamandır, səhərləməyin (الإصباح) əksidir. Deyilir: أصبَحْنا (əsbəhna — səhərlədik) və أمسَيْنا (əmsəyna — axşamladıq), həmçinin أتانا لمُسْيِ خامسةٍ ومِسْي خامسة (bizə beşinci günün axşamında gəldi). المَسَاء (əl-məsa) — səhərin (الصَّباح) əksidir.\nDigər söz isə المَسْي (əl-məsy) — çobanın dişi dəvənin balalığına əlini salıb, balalamasını istəmədiyi üçün erkəyin suyunu oradan sıxıb çıxarmasıdır. Deyilir ki, المَاسِيَ (əl-masi) — əxlaqsız, şıltaq adamdır; bu isə həmzəli sözlər babındandır, deyirlər: مَسَأ (məsəə), yəni şıltaqlıq etdi. İbn Düreyd (١) demişdir ki, مَسَأَ الرّجُلُ (məsəə ər-rəcül) — kişi bir işə alışdı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:39.418Z"
+ "ts": "2026-10-26T00:52:39.418Z",
+ "prev_az": "[مسي] (Məsi) Mim, sin və uzویان hərf olub bir-birindən çox fərqlənən iki sözdür. Birincisi: zamanlardan bir zamandır, səhərləməyin (إصباح) əksidir. Deyilir: səhərlədik «əsbəhna», axşamladıq «əmsəna», və o, bizə beşinci günün müsiyində (لمُسْيِ خامسة) və misixtə (مِسْي خامسة) gəldi. Əl-məsa (المَسَاء) — səhərin əksidir. Digər söz isə əl-məsy (المَسْي) — çobanın dişi dəvənin rəhmə əlini salıb, balalamasını istəmədiyi üçün erkəyin suyunu oradan sıxıb çıxarmasıdır. Deyilir ki, əl-masi (المَاسِي) — əxlaqsız, şıltaq adamdır, bu isə həmzəli sözlər babındandır, deyirlər: məsəə (مَسَأ), yəni şıltaqlıq etdi. İbn Dürid (1) demişdir ki, kişi məsəə (مَسَأَ الرّجُلُ) — bir işə alışdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə «uzویان» şəklində pozulmuş söz vardır.",
+  "«ومِسْي خامسة» ifadəsi «və misixtə» şəklində mənasız və pozulmuş tərcümə edilmişdir.",
+  "«ابن دريد» adı «İbn Dürid» kimi yanlış verilmişdir (düzgünü: İbn Düreyd).",
+  "Haşiyə rəqəmi (١) latın rəqəmi ilə verilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:04:59.750Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 354
  },
  "ar": "النون والجيم أصل صحيح يدلّ على تحرُّك واضطرابٍ، وشبه ذلك.\nفالنَّجْنَجَة: الجولة عند الفزع. يقال نجنجوا. والنَّجْنَجَة: ترديد الرأي. وتَنَجْنَجوا:\nأصابوا (١) في الموضع الذي أربَعوا فيه ثم عزموا على تحضُّر المِياه. وتَنَجْنَج لحمُه:\nاسترخَى. ونَجَّت القُرحَة: سالت.",
- "az": "[نج] Nun və cim - hərəkət, iztirab (narahatlıq) və bənzəri şeylərə dəlalət edən səhih bir kökdür.\n«النَّجْنَجَة» — qorxu zamanı dolanmaq (gəzişmək). Deyilir: «نجنجوا». «النَّجْنَجَة» — fikri təkrar etmək. «وتَنَجْنَجوا» — (١) dincəldikləri məkanda məqsədə çatdılar, sonra su mənbələrinə tərəf getməyə qəti qərar verdilər. «وتَنَجْنَج لحمُه» — əti boşaldı (sarkdı). «ونَجَّت القُرحَة» — yara axdı (irin və ya su sızdı).",
+ "az": "[نج] Nun və cim - hərəkət, iztirab (narahatlıq) və bənzəri şeylərə dəlalət edən səhih bir kökdür.\n«النَّجْنَجَة» — qorxu zamanı dolanmaq (gəzişmək). Deyilir: «نجنجوا». «النَّجْنَجَة» — fikri təkrar etmək. «وتَنَجْنَجوا» — (١) dincəldikləri məkanda məqsədə çatdılar, sonra su mənbələrinə tərəf getməyə qəti qərar verdilər. «وتَنَجْنَج لحمُه» — əti boşaldı (sallandı). «ونَجَّت القُرحَة» — yara axdı (irin və ya su sızdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:25.130Z"
+ "ts": "2026-10-26T00:54:25.130Z",
+ "prev_az": "[نج] Nun və cim - hərəkət, iztirab (narahatlıq) və bənzəri şeylərə dəlalət edən səhih bir kökdür.\n«النَّجْنَجَة» — qorxu zamanı dolanmaq (gəzişmək). Deyilir: «نجنجوا». «النَّجْنَجَة» — fikri təkrar etmək. «وتَنَجْنَجوا» — (١) dincəldikləri məkanda məqsədə çatdılar, sonra su mənbələrinə tərəf getməyə qəti qərar verdilər. «وتَنَجْنَج لحمُه» — əti boşaldı (sarkdı). «ونَجَّت القُرحَة» — yara axdı (irin və ya su sızdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«sarkdı» Türkiyə türkcəsi sözüdür."
+ ],
+ "review_ts": "2026-11-27T14:43:44.472Z"
 }

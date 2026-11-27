@@ -11,7 +11,18 @@
   "page_to": 347
  },
  "ar": "الميم واللام والجيم كلمة. يقال: مَلَجَ الصِبىُّ: تناولَ الثَّدي للِرَّضاع بأدنى فمه. و\nفي الحديث: «لا تُحرِّم الإملاجةُ والإملاجَتانِ». وهي أن تُمِصَّه لَبَنَهَا مرَّةً أو مرّتين.",
- "az": "«ملج» — الميم واللام والجيم (mim, lam və cim) bir sözdür. Deyilir: «ملج الصّبي» — uşaq əmzikliyi ağzının ucu ilə tutdu. Hədisdə: «لا تحرِّم الإملاجة والإملاجتان» (Bir və ya iki dəfə əmizdirmək haram etməz). Bu, onun südünü bir və ya iki dəfə əmməndir.",
+ "az": "[ملج]\nالميم واللام والجيم (mim, lam və cim) bir kəlmədir. Deyilir: مَلَجَ الصِبىُّ (uşaq əmdilər): uşaq əmzəyi ağzının ucu ilə tutub əmdikdə. Və hədisdə gəlmişdir: «لا تُحرِّم الإملاجةُ والإملاجَتانِ» (Bir və ya iki dəfə əmizdirmək haram etməz). Bu da onun südünü bir və ya iki dəfə əmməndir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:03.921Z"
+ "ts": "2026-10-26T00:54:03.921Z",
+ "prev_az": "«ملج» — الميم واللام والجيم (mim, lam və cim) bir sözdür. Deyilir: «ملج الصّبي» — uşaq əmzikliyi ağzının ucu ilə tutdu. Hədisdə: «لا تحرِّم الإملاجة والإملاجتان» (Bir və ya iki dəfə əmizdirmək haram etməz). Bu, onun südünü bir və ya iki dəfə əmməndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[ملج]» formatında olmalıdır.",
+  "Ərəbcə sitatlarda hərəkələr silinərək/dəyişdirilərək köçürülüb.",
+  "«الثَّدي» sözü «əmziklik» kimi yanlış tərcümə edilib (döş/əmzək olmalıdır)."
+ ],
+ "review_ts": "2026-11-27T14:42:20.257Z"
 }

@@ -11,7 +11,20 @@
   "page_to": 321
  },
  "ar": "الميم والسين والكاف أصلٌ واحد صحيح يدلُّ على حَبْس الشيء أو تحبُّسه. والبَخِيل مُمسِكٌ. والإمساك: البُخْل؛ وكذا المَسَاك والمِسَاك (٤) والمَسِيك (٥): البخيلُ أيضاً ورجل مُسَكةٌ، إذا كان لا يَعلَق بشيءٍ فيتخلَّص منه.\nوالمَسَك: السِّوار من الذَّبْل، لاستمساكِهِ باليدِ، الواحدةُ مَسَكة: قال:\nترى العَبَسَ الحولىَّ جَوناً بكُوعِها … لها مَسَكاً من غير عاج ولا ذَبْلِ (١)\nوالمَسَكَة من البِئر: المكان الصُّلب الذي لا يحتاج إلى طَىّ. وهو القياس، لأنَّه متماسِك. والمَسْك: الإهاب، لأنَّهُ يُمسَك فيه الشَّيءُ إذا جُعِل سِقَاء.\nومما شذَّ عنه المِسْك من الطيب.",
- "az": "[مسك] (Məsək) Mim, sin və kaf hərfləri bir səhih əsl olub, bir şeyi saxlamağa və ya saxlanmağa dəlalət edir. Xəsis adama مُمْسِكٌ (mumsik) deyilir. İmsak — xəsislikdir; həmçinin əl-məsək (المَسَك), əl-misək (المِسَاك) (4) və əl-məsik (المَسِيك) (5) də xəsis deməkdir. Müsəkətün (مُسَكة) — elə kişidir ki, bir şeyə yapışmaz ki, ondan qurtulsun. Əl-məsək (المَسَك) — tısbağa qabığından (الذَّبْل) olan qolbaqdır, əldə möhkəm durduğuna görə belə adlanır; təkliyi مَسَكَة (məsəkət) formsındadır. Şair demişdir: ترى العَبَسَ الحولىَّ جَوناً بكُوعِها … لها مَسَكاً من غير عاج ولا ذَبْلِ (1) (Bileyində birillik qara Əbəs sürüsünü görürsən... onun fil sümüyündən və tısbağa qabığından olmayan qolbağı vardır). Quyunun məsəkəti (المَسَكَة) — daş və ya kərpic düzməyə (hörməyə) ehtiyac olmayan bərk yeridir. Ölçü budur, çünki o, bir-birinə möhkəm yapışıb. Əl-məsk (المَسْك) — dəri (heyvan dərisi), çünki tuluq edildikdə içində bir şey saxlanılır. Buna tabe olmayan (şaz olan) söz isə ətirdən olan əl-miskdir (المِسْك).",
+ "az": "[مسك] Mim, sin və kaf hərfləri bir səhih əsl olub, bir şeyi saxlamağa və ya özünü saxlamağa dəlalət edir. Xəsis adama مُمْسِكٌ (mumsik) deyilir. İmsak (الإمساك) — xəsislikdir; həmçinin المَسَاك (əl-məsak), المِسَاك (əl-misak) (٤) və المَسِيك (əl-məsik) (٥) də xəsis deməkdir. رَجُلٌ مُسَكةٌ (rəcülün müsəkə) — elə kişidir ki, bir şeyə yapışsa, ondan qurtula bilməz.\nالمَسَك (əl-məsək) — tısbağa qabığından (الذَّبْل) olan qolbaqdır, əldə möhkəm durduğuna görə belə adlanır; təkliyi مَسَكة (məsəkə) formasındadır. Şair demişdir:\nترى العَبَسَ الحولىَّ جَوناً بكُوعِها … لها مَسَكاً من غير عاج ولا ذَبْلِ (١) (Bileyində birillik qara peyin qatını görürsən... onun üçün fil sümüyündən və tısbağa qabığından olmayan bir qolbaqdır).\nQuyunun المَسَكَة (əl-məsəkə) yeri — daş və ya kərpic hörməyə ehtiyac olmayan bərk yeridir. Qiyas da budur, çünki o, bir-birinə möhkəm yapışıb. المَسْك (əl-məsk) — heyvan dərisidir, çünki tuluq edildikdə içində bir şey saxlanılır.\nBuna tabe olmayan (şaz olan) söz isə ətirdən olan المِسْك (əl-misk) sözüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:39.418Z"
+ "ts": "2026-10-26T00:52:39.418Z",
+ "prev_az": "[مسك] (Məsək) Mim, sin və kaf hərfləri bir səhih əsl olub, bir şeyi saxlamağa və ya saxlanmağa dəlalət edir. Xəsis adama مُمْسِكٌ (mumsik) deyilir. İmsak — xəsislikdir; həmçinin əl-məsək (المَسَك), əl-misək (المِسَاك) (4) və əl-məsik (المَسِيك) (5) də xəsis deməkdir. Müsəkətün (مُسَكة) — elə kişidir ki, bir şeyə yapışmaz ki, ondan qurtulsun. Əl-məsək (المَسَك) — tısbağa qabığından (الذَّبْل) olan qolbaqdır, əldə möhkəm durduğuna görə belə adlanır; təkliyi مَسَكَة (məsəkət) formsındadır. Şair demişdir: ترى العَبَسَ الحولىَّ جَوناً بكُوعِها … لها مَسَكاً من غير عاج ولا ذَبْلِ (1) (Bileyində birillik qara Əbəs sürüsünü görürsən... onun fil sümüyündən və tısbağa qabığından olmayan qolbağı vardır). Quyunun məsəkəti (المَسَكَة) — daş və ya kərpic düzməyə (hörməyə) ehtiyac olmayan bərk yeridir. Ölçü budur, çünki o, bir-birinə möhkəm yapışıb. Əl-məsk (المَسْك) — dəri (heyvan dərisi), çünki tuluq edildikdə içində bir şey saxlanılır. Buna tabe olmayan (şaz olan) söz isə ətirdən olan əl-miskdir (المِسْك).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«المَسَاك» sözü səhvən «əl-məsək (المَسَك)» kimi verilmişdir.",
+  "«ورجل مُسَكةٌ» ifadəsinin izahı məna baxımından qüsurludur, həmçinin «formsındadır» hərf səhvi var.",
+  "Şeirdəki «العَبَس» (qurumuş peyin/çirk qatı) sözü səhvən «Əbəs sürüsü» kimi tərcümə edilmişdir.",
+  "«القياس» sözü «Ölçü» kimi yanlış tərcümə edilmişdir.",
+  "Haşiyə rəqəmləri ərəb rəqəmi ilə (٤, ٥, ١) deyil, latın rəqəmi ilə verilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:04:59.749Z"
 }

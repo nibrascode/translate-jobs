@@ -11,7 +11,17 @@
   "page_to": 482
  },
  "ar": "النون والميم والقاف أُصَيْلٌ يدلُّ على تحسينِ شيءٍ وتجويده.\nونَمَقْتُ الكتاب ونَمَّقْتُه: نقَشتُه وصَوَّرْتُه. قال:\nكأنَّ مَجَرَّ الرّامساتِ ذيولَها … عليه قَضيمٌ نمَّقته الصَّوَانعُ (٣)",
- "az": "«نمق» (النون والميم والقاف): nун, mim və qaf hərflərindən ibarət kiçik bir kök olub bir şeyi gözəlləşdirməyə və kamil etməyə dəlalət edər. نَمَقْتُ الكتاب ونَمَّقْتُه (nəməqtül-kitabə və nəmməqtüh): kitabı nəqş etdim və gözəl şəkildə yazdım/şəkilləndirdim. Şair demişdir: كأنَّ مَجَرَّ الرّامساتِ ذيولَها … عليه قَضيمٌ نمَّقته الصَّوَانعُ (٣) (Guya küləklərin sürüyüb apardığı ətəklərin izi… üzərində sənətkarların naxışladığı [bəzədiyi] ağ dəridir).",
+ "az": "[نمق] Nun, mim və qaf bir şeyi gözəlləşdirməyə və kamil etməyə dəlalət edən kiçik bir kökdür.\\nونَمَقْتُ الكتاب ونَمَّقْتُه – kitabı nəqş etdim və gözəl şəkildə bəzədim. (Şair) demişdir:\\nكأنَّ مَجَرَّ الرّامساتِ ذيولَها … عليه قَضيمٌ نمَّقته الصَّوَانعُ (٣) (Sanki küləklərin sürüyüb apardığı ətəklərinin izi onun üzərində sənətkarların bəzədiyi ağ dəridir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:03:59.927Z"
+ "ts": "2026-10-26T01:03:59.927Z",
+ "prev_az": "«نمق» (النون والميم والقاف): nун, mim və qaf hərflərindən ibarət kiçik bir kök olub bir şeyi gözəlləşdirməyə və kamil etməyə dəlalət edər. نَمَقْتُ الكتاب ونَمَّقْتُه (nəməqtül-kitabə və nəmməqtüh): kitabı nəqş etdim və gözəl şəkildə yazdım/şəkilləndirdim. Şair demişdir: كأنَّ مَجَرَّ الرّامساتِ ذيولَها … عليه قَضيمٌ نمَّقته الصَّوَانعُ (٣) (Guya küləklərin sürüyüb apardığı ətəklərin izi… üzərində sənətkarların naxışladığı [bəzədiyi] ağ dəridir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Giriş başlığı standart formatda deyil.",
+  "Hərf adında Kiril əlifbası hərfi («nун») işlədilmişdir."
+ ],
+ "review_ts": "2026-11-27T15:07:33.922Z"
 }

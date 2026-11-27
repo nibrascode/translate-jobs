@@ -11,7 +11,16 @@
   "page_to": 381
  },
  "ar": "النون والباء والعين كلمتان:\nإحداهما نُبوع الماء، والموضع الذي يَنْبُع (٥) منه يَنْبُوع. والنَّوابع من البعير:\nالمواضع التي يَسيل منها عرقُه. ومنابع الماء: مَخَارِجُه من الأرض.\nوالأخرى النَّبْع: شَجَر.",
- "az": "[نبع] (nəbə): Nun, ba və eyn – iki kəlmədir:\nBirincisi, suyun «نُبوع» (nubuu) – qaynayıb çıxması, onun qaynadığı yer isə «يَنْبُوع» (yənbuu) adlanır. Dəvənin «النَّوابع» (ən-nəvabi): tərinin axdığı yerlərdir. Suyun «منابع» (mənabi): yerdən çıxış yerləridir.\nDigəri isə «النَّبْع» (ən-nəb): bir ağac növüdür.",
+ "az": "[نبع] Nun, ba və eyn – iki kəlmədir:\nBirincisi suyun «نُبوع» etməsi (qaynayıb fışqırması), onun fışqırdığı yer isə «يَنْبُوع» (bulaq, mənşə) (٥) adlanır. Dəvənin «النَّوابع» adlanan hissələri tərinin axdığı yerlərdir. Suyun «منابع» adlanan hissələri isə onun yerdən çıxış yerləridir.\nDigəri isə «النَّبْع» – bir ağac növüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:58.658Z"
+ "ts": "2026-10-26T00:55:58.658Z",
+ "prev_az": "[نبع] (nəbə): Nun, ba və eyn – iki kəlmədir:\nBirincisi, suyun «نُبوع» (nubuu) – qaynayıb çıxması, onun qaynadığı yer isə «يَنْبُوع» (yənbuu) adlanır. Dəvənin «النَّوابع» (ən-nəvabi): tərinin axdığı yerlərdir. Suyun «منابع» (mənabi): yerdən çıxış yerləridir.\nDigəri isə «النَّبْع» (ən-nəb): bir ağac növüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmi (٥) buraxılıb."
+ ],
+ "review_ts": "2026-11-27T14:47:08.495Z"
 }

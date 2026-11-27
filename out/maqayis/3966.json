@@ -11,7 +11,17 @@
   "page_to": 358
  },
  "ar": "النون والغين كلمة تدلّ على بعض الأعضاء. والنَّغانغ: لحمات تكون في الحلق عند اللّهاة، الواحد نُغنُغ. قال جرير:\nغمز ابن مرّة يا فرزدق كينها … غمز الطبيب نغانغ المعذور (١)\nوقد تسمّى الزّوائد في باطن الأذنين النّغانغ.",
- "az": "[نغ] Nun və ğeyn - bəzi bədən üzvlərinə dəlalət edən kəlmədir. «النَّغانغ» — kiçik dilin yanında boğazda olan ət parçalarıdır, təkliyi «نُغنُغ»-dur. Cərir demişdir:\n«غمز ابن مرّة يا فرزدق كينها … غمز الطبيب نغانغ المعذور (١)»\n(Ey Fərzdəq, İbn Mərrənin onun qıçını sıxması... həkimi üzrlü xəstənin boğaz ətlərini sıxması kimidir).\nBəzən qulaqların içindəki əlavə ət parçalarına da «النّغانغ» deyilir.",
+ "az": "[نغ]\nNun və ğeyn - bəzi bədən üzvlərinə dəlalət edən kəlmədir. «النَّغانغ» — kiçik dilin yanında boğazda olan ət parçalarıdır, təkliyi «نُغنُغ»-dur. Cərir demişdir:\nغمز ابن مرّة يا فرزدق كينها … غمز الطبيب نغانغ المعذور (١)\n(Ey Fərzdəq, İbn Mərrənin onun fərcini sıxması... həkimin boğazı iltihablaşmış uşağın boğaz ətlərini sıxması kimidir).\nBəzən qulaqların içindəki əlavə ət parçalarına da «النّغانغ» deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:25.130Z"
+ "ts": "2026-10-26T00:54:25.130Z",
+ "prev_az": "[نغ] Nun və ğeyn - bəzi bədən üzvlərinə dəlalət edən kəlmədir. «النَّغانغ» — kiçik dilin yanında boğazda olan ət parçalarıdır, təkliyi «نُغنُغ»-dur. Cərir demişdir:\n«غمز ابن مرّة يا فرزدق كينها … غمز الطبيب نغانغ المعذور (١)»\n(Ey Fərzdəq, İbn Mərrənin onun qıçını sıxması... həkimi üzrlü xəstənin boğaz ətlərini sıxması kimidir).\nBəzən qulaqların içindəki əlavə ət parçalarına da «النّغانغ» deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirdəki «كينها» kəlməsi «qıçını» kimi yanlış tərcümə olunub.",
+  "«المعذور» sözü «üzrlü xəstənin» kimi yanlış anlaşılıb; boğazı iltihablaşmış (badamcıqları şişmiş) uşaq nəzərdə tutulur."
+ ],
+ "review_ts": "2026-11-27T14:44:21.442Z"
 }

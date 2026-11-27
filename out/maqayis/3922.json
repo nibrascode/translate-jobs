@@ -11,7 +11,17 @@
   "page_to": 342
  },
  "ar": "الميم والقاف والتاء كلمةٌ واحدةٌ تدل على شَناءَةٍ وقُبْح.\nومَقَته مَقْتًا فهو مَقِيتٌ وممقوت. ونِكاح المَقْت كان في الجاهليّة أن يتزوَّح الرَّجُل امرأة أبِيه.",
- "az": "[مقت] \nMim, qaf və ta — çirkinliyə və pisliyə dəlalət edən tək bir kəlmədir.\nMəqt etdi onu mətq ilə (مَقَته مَقْتًا), o isə مَقِيتٌ (maqit) və مَمْقُوتٌ (mamqut) – yəni nifrət olunandır. Cahiliyyə dövründə Məqt nikahı — kişinin atasının arvadı ilə evlənməsi idi.",
+ "az": "[مقت]\nMim, qaf və ta — çirkinliyə və iyrəncliyə dəlalət edən tək bir kəlmədir.\nمَقَته مَقْتًا (ona şiddətlə nifrət etdi), o isə مَقِيتٌ və مَمْقُوتٌ (nifrət edilən, iyrənc görülen). Cahiliyyə dövründə نِكاح المَقْت — kişinin atasının zövcəsi ilə evlənməsi idi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:44.514Z"
+ "ts": "2026-10-26T00:53:44.514Z",
+ "prev_az": "[مقت] \nMim, qaf və ta — çirkinliyə və pisliyə dəlalət edən tək bir kəlmədir.\nMəqt etdi onu mətq ilə (مَقَته مَقْتًا), o isə مَقِيتٌ (maqit) və مَمْقُوتٌ (mamqut) – yəni nifrət olunandır. Cahiliyyə dövründə Məqt nikahı — kişinin atasının arvadı ilə evlənməsi idi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümədə «mətq» hərf səhvi var və cümlə qüsurlu qurulub.",
+  "Mətndə artıq latın transliterasiyaları var."
+ ],
+ "review_ts": "2026-11-27T14:41:27.869Z"
 }

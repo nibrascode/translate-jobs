@@ -11,7 +11,16 @@
   "page_to": 301
  },
  "ar": "الميم والحاء والقاف كلماتٌ تدلُّ على نُقصان. ومَحَقَه: نَقصه.\nوكلُّ شيءٍ نَقَصَ وُصِف بهذا. والمحَاق (٢): آخِر الشَّهر إذا تمحَّق الهِلال. ومَحَقه اللّه: ذهَب ببَركتِه (٣). وقال قوم: أمْحَقَه؛ وهو رديء. وقال أبو عمرو: الإمحاق أن يَهلِك كمحاقِ الهلال. وقولهم: ماحِقُ الصَّيف: شِدّة حَرِّه، أي إنّه بشدَّة الحرِّ يَمحَق النّبات، أي يُوبِسُه، ويذهبُ به. وقال ابن دريد (٤)، في قول القائل (٥):\nيقلّب صعدةً جرداءَ فيها … نَقيع السّمّ أو قَرْنٌ مَحيقُ\nإنّه ليس من المحق، إنَّما هو مفعول من حُقْت أَحُوق وحِقت أَحيق، أي دَلكت وملَّست.",
- "az": "[محق] (Mim, ha və qaf): Əskilməyə dəlalət edən sözlərdir. «مَحَقَه» (məhəqəhu): onu əskiltdi. Əskilən hər bir şey bu sifətlə vəsf olunur. «المحَاق» (əl-məhaq) (٢): ayın hilalının tamamilə solub yox olduğu ayın son günləridir. «مَحَقَه اللّه» (məhəqəhullahü): Allah onun bərəkətini apardı (٣). Bir qrup adam demişdir: «أمْحَقَه» (əmhəqəhu), bu isə zəif (qüsurlu) ifadədir. Əbu Əmr demişdir: «الإمحاق» (əl-imhaq) – hilalın məhaqı kimi həlak olmaqdır. Onların «ماحِقُ الصَّيف» (mahiqüş-səyf) sözü: yayın şiddətli istisi deməkdir, yəni o, şiddətli istisi ilə bitkini məhv edir, yəni qurudur və aparıb yox edir. İbn Dürid demişdir (٤), bir kəsin bu sözü haqqında (٥):\nيقلّب صعدةً جرداءَ فيها … نَقيع السّمّ أو قَرْنٌ مَحيقُ\nBu söz «المحق»-dən deyil, əksinə bu, «حُقْت أَحُوقُ» (hūqtü əhūqu) və «حِقت أَحيقُ» (hiqtü əhīqu) feilindən düzəlmiş məfuldur, yəni ovxaladım və hamarladım.",
+ "az": "[محق] (Mim, ha və qaf): Əskilməyə dəlalət edən sözlərdir. «مَحَقَه» (məhəqəhu): onu əskiltdi. Əskilən hər bir şey bu sifətlə vəsf olunur. «المحَاق» (əl-məhaq) (٢): ayın hilalının tamamilə solub yox olduğu ayın son günləridir. «مَحَقَه اللّه» (məhəqəhullahu): Allah onun bərəkətini apardı (٣). Bir qrup adam demişdir: «أمْحَقَه» (əmhəqəhu), bu isə zəif (qüsurlu) ifadədir. Əbu Əmr demişdir: «الإمحاق» (əl-imhaq) – hilalın məhaqı kimi həlak olmaqdır. Onların «ماحِقُ الصَّيف» (mahiqüs-səyf) sözü: yayın şiddətli istisi deməkdir, yəni o, şiddətli istisi ilə bitkini məhv edir, yəni qurudur və aparıb yox edir. İbn Düreyd (٤) bir kəsin bu sözü haqqında (٥):\nيقلّب صعدةً جرداءَ فيها … نَقيع السّمّ أو قَرْنٌ مَحيقُ (O, üzərində zəhər qarışığı və ya cilalanmış buynuz [ucluq] olan hamar bir nizəni çevirib oynadır)\ndemişdir ki, bu söz «المحق»-dən deyil, əksinə bu, «حُقْت أَحُوقُ» (huqtü əhuqu) və «حِقت أَحيقُ» (hiqtü əhiqu) feilindən düzəlmiş məfuldur, yəni ovxaladım və hamarladım.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "prev_az": "[محق] (Mim, ha və qaf): Əskilməyə dəlalət edən sözlərdir. «مَحَقَه» (məhəqəhu): onu əskiltdi. Əskilən hər bir şey bu sifətlə vəsf olunur. «المحَاق» (əl-məhaq) (٢): ayın hilalının tamamilə solub yox olduğu ayın son günləridir. «مَحَقَه اللّه» (məhəqəhullahü): Allah onun bərəkətini apardı (٣). Bir qrup adam demişdir: «أمْحَقَه» (əmhəqəhu), bu isə zəif (qüsurlu) ifadədir. Əbu Əmr demişdir: «الإمحاق» (əl-imhaq) – hilalın məhaqı kimi həlak olmaqdır. Onların «ماحِقُ الصَّيف» (mahiqüş-səyf) sözü: yayın şiddətli istisi deməkdir, yəni o, şiddətli istisi ilə bitkini məhv edir, yəni qurudur və aparıb yox edir. İbn Dürid demişdir (٤), bir kəsin bu sözü haqqında (٥):\nيقلّب صعدةً جرداءَ فيها … نَقيع السّمّ أو قَرْنٌ مَحيقُ\nBu söz «المحق»-dən deyil, əksinə bu, «حُقْت أَحُوقُ» (hūqtü əhūqu) və «حِقت أَحيقُ» (hiqtü əhīqu) feilindən düzəlmiş məfuldur, yəni ovxaladım və hamarladım.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalmışdır."
+ ],
+ "review_ts": "2026-11-27T13:51:25.710Z"
 }

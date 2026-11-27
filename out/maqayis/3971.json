@@ -13,5 +13,10 @@
  "ar": "النون والهاء والهمزة. إذا همز ففيه كلمةٌ واحدة، وهي من الإبدال، يقول: أنهأْتُ اللَّحم، إذا لم تُنضِجْه. وهذا عندنا في الأصل: أنيأْته (٣) من النّيء، فقلبت الياء هاء (٤).",
  "az": "[نهأ] (NUN, HƏ və HƏMZƏ) - Həmzələndikdə burada tək bir söz olur və o da əvəzlənmədəndir. Deyirlər: «أنهأْتُ اللَّحم» - əti yaxşı bişirmədiyin zaman. Bu, bizə görə əslində «أنيأْته (٣)» - çiy sözündən götürülmüşdür, yəni yə hərfi hə hərfinə çevrilmişdir (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:46.772Z"
+ "ts": "2026-10-26T00:54:46.772Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T14:44:47.184Z"
 }

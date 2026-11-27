@@ -13,5 +13,10 @@
  "ar": "الميم والحاء والتاء ليس بأصل، إنّما هو مقلوب. يقولون:\nالمَحْت: الشَّديد من كلِّ شيء. ويومٌ مَحْتٌ: شديدُ الحر. والأصل الحَمْتُ.",
  "az": "[محت] (Mim, ha və ta): Əsl deyildir, əksinə məqlubdur (tərsinə çevrilmişdir). Deyirlər ki: «المَحْت» (əl-məht): hər bir şeyin şiddətlisi, güclüsü. «يومٌ مَحْتٌ» (yevmün məhtün): şiddətli isti gün. Əsli isə «الحَمْت» (əl-həmt)-dir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T13:51:25.711Z"
 }

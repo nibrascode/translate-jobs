@@ -11,7 +11,17 @@
   "page_to": 364
  },
  "ar": "النون والهاء والضاد أصل يدلّ على حركة في علو. ونهّض من مكانه: قام. وماله ناهِضَة، أي قوم ينهضون في أمره ويقومون به. ويقولون:\nناهضة الرّجل: بنو أبيه الذي يغضبون له. ونَهَضَ النّبتُ: استوى والنّاهض:\nالطائر الذي وَفَرَ جناحاهُ وتهيَّأ للنّهُوضِ والطَّيَران. ونِهاضُ الطّرُق (١): صُعُدها وعَتَبها، الواحدة نهضة. وأنْهُض البَعيرِ (٢): ما بين كَتِفِهِ إلى صُلْبه.",
- "az": "[نهض] (NUN, HƏ və DAD) - yuxarıya doğru hərəkətə dəlalət edən kökdür. «نهّض من مكانه» - yerindən qalxdı. «وحده ناهِضَة» - yəni onun işində ayağa qalxan və onu yerinə yetirən qövmü. Deyirlər: «ناهضة الرّجل» - onun üçün qəzəblənən atasının oğulları. «ونَهَضَ النّبتُ» - bitki dikəldi. «النّاهض» - qanadları inkişaf etmiş və uçmağa hazılaşan quş. «ونِهاضُ الطّرُق (١)» - yolların yoxuşları və pillələri, təkli «نهضة» gəlir. «وأنهُض البَعيرِ (٢)» - dəvənin çiynindən belinə qədər olan hissəsi.",
+ "az": "[نهض] (nun, hə və dad) - yuxarıya doğru hərəkətə dəlalət edən kökdür. نهَّضَ من مكانه (yerindən qalxdı). وماله ناهِضَة (onun nahaidəsi yoxdur) - yəni onun işində ayağa qalxan və onu yerinə yetirən qövmü yoxdur. Deyirlər: ناهضة الرّجل - onun üçün qəzəblənən atasının oğulları. ونَهَضَ النّبتُ - bitki dikəldi. والنّاهض - qanadları inkişaf etmiş və uçmağa hazırlaşan quş. ونِهاضُ الطّرُق (١) - yolların yoxuşları və pillələri, təki نهضة gəlir. وأنْهُض البَعيرِ (٢) - dəvənin çiynindən belinə qədər olan hissəsi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:46.772Z"
+ "ts": "2026-10-26T00:54:46.772Z",
+ "prev_az": "[نهض] (NUN, HƏ və DAD) - yuxarıya doğru hərəkətə dəlalət edən kökdür. «نهّض من مكانه» - yerindən qalxdı. «وحده ناهِضَة» - yəni onun işində ayağa qalxan və onu yerinə yetirən qövmü. Deyirlər: «ناهضة الرّجل» - onun üçün qəzəblənən atasının oğulları. «ونَهَضَ النّبتُ» - bitki dikəldi. «النّاهض» - qanadları inkişaf etmiş və uçmağa hazılaşan quş. «ونِهاضُ الطّرُق (١)» - yolların yoxuşları və pillələri, təkli «نهضة» gəlir. «وأنهُض البَعيرِ (٢)» - dəvənin çiynindən belinə qədər olan hissəsi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وماله ناهِضَة» ərəbcə ifadəsi «وحده ناهِضَة» kimi yanlış yazılmışdır.",
+  "«hazılaşan» sözündə hərf səhvi var."
+ ],
+ "review_ts": "2026-11-27T14:45:35.271Z"
 }

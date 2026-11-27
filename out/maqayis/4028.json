@@ -11,7 +11,16 @@
   "page_to": 381
  },
  "ar": "النون والباء والشين أصلٌ وكلمةٌ واحدة تدلُّ على إبرازِ شيءٍ مستور. ونَبَشَ القَبْرَ، وهو نَبَّاشٌ يَنْبُشُه (٣). ومن قياسه أنابِيش الكَلَأ:\nالقطاع (١) المتفرِّقة تبرُزُ على وجه الأرض.",
- "az": "[نبش] (nəbəş): Nun, ba və şin – örtülü bir şeyi üzə çıxarmağa dəlalət edən əsas və tək bir kəlmədir. «نَبَشَ القَبْرَ» (nəbəşəl-qəbrə) – o, bunu edəndə «نَبَّاشٌ يَنْبُuşُه» (nəbbəşun yənbuşuhu) olar (٣). Buna qiyas olunanlardan biri də «أنابِيش الكَلَأ» (ənəbişul-kələə): yerin üzünə çıxan səpələnmiş ot parça-parçalarıdır (١).",
+ "az": "[نبش] nun, ba və şin örtülü bir şeyi üzə çıxarmağa dəlalət edən bir kök və tək bir kəlmədir. نَبَشَ القَبْرَ, bunu edən adam isə نَبَّاشٌ يَنْبُشُه (qəbirqazan) adlanır (٣). Buna qiyas olunanlardan biri də أنابِيش الكَلَأ sözüdür: yerin üzünə çıxan dağınıq ot tikələridir (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:58.658Z"
+ "ts": "2026-10-26T00:55:58.658Z",
+ "prev_az": "[نبش] (nəbəş): Nun, ba və şin – örtülü bir şeyi üzə çıxarmağa dəlalət edən əsas və tək bir kəlmədir. «نَبَشَ القَبْرَ» (nəbəşəl-qəbrə) – o, bunu edəndə «نَبَّاشٌ يَنْبُuşُه» (nəbbəşun yənbuşuhu) olar (٣). Buna qiyas olunanlardan biri də «أنابِيش الكَلَأ» (ənəbişul-kələə): yerin üzünə çıxan səpələnmiş ot parça-parçalarıdır (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnə yersiz və pozulmuş latın transkripsiyaları əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:46:59.964Z"
 }

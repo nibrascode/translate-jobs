@@ -11,7 +11,18 @@
   "page_to": 326
  },
  "ar": "الميم والشين والجيم أصلٌ صحيح، وهو الخَلْط. ونُطفةٌ أمشاجٌ، وذلك اختلاط الماء والدّم. ويقال إن الواحد مَشْجٌ ومَشِج (١) ومَشيج.\nقال الشاعر (٢):\nكأنَّ النَّصلَ والفُوقَينِ منه … خلافَ الصَّدر سِيطَ به مشيجُ (٣)",
- "az": "«مشج» (məşəc) — mim, şin və cim hərfləri qarışmaq mənasını verən səhih bir kökdür. Və نُطفةٌ أمشاجٌ (nutfətün əməşacün) — bu, su ilə qanın qarışmasıdır. Deyirlər ki, tək halı مَشْجٌ (məşcün), مَشِجٌ (məşicün) (١) və مَشيجٌ (məşiyün) kimidir. Şair demişdir (٢): «Sanki onun nizə ucu ilə ox dəmirləri… sinədən başqa bir şəkildə qarışıq idi (٣)».",
+ "az": "[مشج]\nMim, şin və cim hərfləri qarışdırmağa dəlalət edən səhih bir kökdür. نُطفةٌ أمشاجٌ (bətn suyunun və qanın qarışmasıdır). Deyilir ki, tək halı مَشْجٌ və مَشِج (١) və مَشيج kimidir.\nŞair demişdir (٢):\nكأنَّ النَّصلَ والفُوقَينِ منه … خلافَ الصَّدر سِيطَ به مشيجُ (٣)\n(Sanki onun ox ucu və hər iki fovqu (ox yarığı)... sinənin əksinə qarışıq bir şeylə yoğrulmuşdu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:03.302Z"
+ "ts": "2026-10-26T00:53:03.302Z",
+ "prev_az": "«مشج» (məşəc) — mim, şin və cim hərfləri qarışmaq mənasını verən səhih bir kökdür. Və نُطفةٌ أمشاجٌ (nutfətün əməşacün) — bu, su ilə qanın qarışmasıdır. Deyirlər ki, tək halı مَشْجٌ (məşcün), مَشِجٌ (məşicün) (١) və مَشيجٌ (məşiyün) kimidir. Şair demişdir (٢): «Sanki onun nizə ucu ilə ox dəmirləri… sinədən başqa bir şəkildə qarışıq idi (٣)».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Söz başlığı «[مشج]» formatında olmalıdır.",
+  "Şeir beytinin ərəbcə orijinal mətni tərcümədə buraxılmışdır.",
+  "Gərəksiz transkripsiyalar təmizlənməlidir."
+ ],
+ "review_ts": "2026-11-27T14:23:17.560Z"
 }

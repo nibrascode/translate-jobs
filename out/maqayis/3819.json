@@ -11,7 +11,17 @@
   "page_to": 304
  },
  "ar": "الميم والخاء والحرف المعتلّ. يقولون: تمخَّى من الشَّيء وامَّخى منه: تبرَّأ منه وتحرَّج. قال:\nولم تُراقِبْ مأثَماً فتَمَّخِهْ … من ظُلْمِ شيخٍ آضَ من تَشَيُّخِهْ (٣)",
- "az": "[مخي] (Mim, xə və uzadılan hərf): Deyirlər: «تمخَّى من الشَّيء وامَّخى منه» (təməhhə minəş-şeyyi vəmməhə minhu): ondan uzaqlaşdı, bəri durdu və ehtiyat etdi. Şair demişdir:\nولم تُراقِبْ مأثَماً فتَمَّخِهْ … من ظُلْمِ شيخٍ آضَ من تَشَيُّخِهْ (٣)",
+ "az": "[مخي] (Mim, xa və illətli hərf): Deyirlər: «تمخَّى من الشَّيء وامَّخى منه» (bir şeydən uzaqlaşdı və ondan çəkindi): ondan bəri oldu və günahdan ehtiyat etdi. Şair demişdir:\nولم تُراقِبْ مأثَماً فتَمَّخِهْ … من ظُلْمِ شيخٍ آضَ من تَشَيُّخِهْ (٣) (Qocalmasından bu hala düşmüş bir qocanın zülmündən günaha diqqət yetirmədi ki, ondan uzaqlaşsın).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "prev_az": "[مخي] (Mim, xə və uzadılan hərf): Deyirlər: «تمخَّى من الشَّيء وامَّخى منه» (təməhhə minəş-şeyyi vəmməhə minhu): ondan uzaqlaşdı, bəri durdu və ehtiyat etdi. Şair demişdir:\nولم تُراقِبْ مأثَماً فتَمَّخِهْ … من ظُلْمِ شيخٍ آضَ من تَشَيُّخِهْ (٣)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin Azərbaycan dilində tərcüməsi verilməmiş, ərəbcə mətn tərcüməsiz qalmışdır.",
+  "«الحرف المعتلّ» ifadəsi «uzadılan hərf» kimi yanlış tərcümə edilmişdir (düzgünü: illətli hərf)."
+ ],
+ "review_ts": "2026-11-27T13:51:28.570Z"
 }

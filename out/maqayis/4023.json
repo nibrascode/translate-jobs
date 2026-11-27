@@ -11,7 +11,18 @@
   "page_to": 379
  },
  "ar": "النون والباء والحاء كلمةٌ واحدة، وهي نُبَاح الكَلْب ونَبِيحه. وربَّما [قالوا] للظَّبْي نَبَح. قال أبو دُواد:\nوقُصْرَى شَنِجِ الأنْسَا … ءِ نبّاح من الشُّعْبِ (٢)\nو\nفي الحديث: «اقْعُدْ منبوحاً». أي مشتوماً.",
- "az": "«نبح»: النون، الباء والحاء كلمةٌ واحدة (tək bir kəlmədir), وهي نُبَاح الكَلْب ونَبِيحه (və o, itin hürməsi və səsidir). وربَّما [قالوا] للظَّبْي نَبَح (Və bəzən ceyran üçün «nəbaha» [hürdü] dedilər). قال أبو دُواد (Əbu Duvad demişdir): وقُصْرَى شَنِجِ الأنْسَا … ءِ نبّاح من الشُّعْبِ (O sərt əzələli... dərələrdən hürən bir heyvan...) (٢). وفي الحديث («Hədisdə gəlmişdir»): «اقْعُدْ منبوحاً» («Söyülmüş halda otur»). أي مشتوماً (yəni söyülmüş deməkdir).",
+ "az": "[نبح] nun, ba və ha tək bir kəlmədir; o, itin hürməsidir (نُبَاح الكَلْب və نَبِيحه). Bəzən ceyranın səs çıxarmasına da نَبَح deyiblər. Əbu Duvad demişdir:\nوقُصْرَى شَنِجِ الأنْسَا … ءِ نبّاح من الشُّعْبِ (٢)\n\nHədisdə gəlmişdir: «اقْعُدْ منبوحاً» (Söyülmüş halda otur), yəni söyülmüş (مشتوماً).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:36.143Z"
+ "ts": "2026-10-26T00:55:36.143Z",
+ "prev_az": "«نبح»: النون، الباء والحاء كلمةٌ واحدة (tək bir kəlmədir), وهي نُبَاح الكَلْب ونَبِيحه (və o, itin hürməsi və səsidir). وربَّما [قالوا] للظَّبْي نَبَح (Və bəzən ceyran üçün «nəbaha» [hürdü] dedilər). قال أبو دُواد (Əbu Duvad demişdir): وقُصْرَى شَنِجِ الأنْسَا … ءِ نبّاح من الشُّعْبِ (O sərt əzələli... dərələrdən hürən bir heyvan...) (٢). وفي الحديث («Hədisdə gəlmişdir»): «اقْعُدْ منبوحاً» («Söyülmüş halda otur»). أي مشتوماً (yəni söyülmüş deməkdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Baş söz kök mötərizəsi «[نبح]» yerinə dırnaq işarəsi ilə verilmişdir.",
+  "Mətn standart tərcümə formatına uyğunlaşdırılmamışdır.",
+  "Abzas bölgüsü pozulmuşdur."
+ ],
+ "review_ts": "2026-11-27T14:46:59.963Z"
 }

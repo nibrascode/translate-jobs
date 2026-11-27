@@ -13,5 +13,10 @@
  "ar": "الميم والكاف واللام كلمةٌ تدل على اجتماعِ ماء. ومَكَلَت البئرُ: اجتمعَ ماؤُها في وَسَطها. ومجتمع الماء مَكْلَة. وبئر مَكُول، والجمع مُكُل.",
  "az": "[مكل] \nMim, kaf və lam — suyun yığılmasına dəlalət edən kəlmədir. Quyunun suyu ortasında yığıldı (مَكَلَت البئرُ). Suyun yığılan yeri مَكْلَة (maklətün) olur. Və quyu مَكُول (makul), cəmi isə مُكُل (mukul) olur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:44.515Z"
+ "ts": "2026-10-26T00:53:44.515Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T14:42:51.064Z"
 }

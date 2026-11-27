@@ -11,7 +11,17 @@
   "page_to": 463
  },
  "ar": "النون والفاء والعين: كلمة تدلُّ على خلاف الضَّرّ. ونَفَعَه ينفَعُه نَفْعًا ومَنفَعة. وانتَفَعَ بكذا. واللّه أعلَمُ بالصَّواب.",
- "az": "[نفع] (nəfə): Nun, fa və eyn hərfləri зərər-ziyanın əksinə dəlalət edən kəlmədir. نَفَعَه ينفَعُه نَفْعًا ومَنفَعة (Nəfəəhü yənfəuhu nəf’an və mənfəətən). Və وانتَفَعَ بكذا (vəntəfəə bikəza). Allah doğrusunu biləndir.",
+ "az": "[نفع] Nun, fa və ayn zərərin əksinə dəlalət edən bir kəlmədir. نَفَعَهُ يَنْفَعُهُ نَفْعاً وَمَنْفَعَةً (ona fayda verdi, xeyir gətirdi) və انْتَفَعَ بِكَذَا (filan şeydən faydalandı) deyilir. Allah doğrusunu daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:02:03.386Z"
+ "ts": "2026-10-26T01:02:03.386Z",
+ "prev_az": "[نفع] (nəfə): Nun, fa və eyn hərfləri зərər-ziyanın əksinə dəlalət edən kəlmədir. نَفَعَه ينفَعُه نَفْعًا ومَنفَعة (Nəfəəhü yənfəuhu nəf’an və mənfəətən). Və وانتَفَعَ بكذا (vəntəfəə bikəza). Allah doğrusunu biləndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«zərər» sözünün əvvəlində kiril «з» hərfi işlədilmişdir.",
+  "Ərəbcə misalların (نَفَعَه ينفَعُه..., وانتَفَعَ...) Azərbaycan dilində mənası verilməmiş, yalnız transkripsiyası yazılmışdır."
+ ],
+ "review_ts": "2026-11-27T15:01:58.050Z"
 }

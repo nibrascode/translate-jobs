@@ -11,7 +11,16 @@
   "page_to": 381
  },
  "ar": "النون والباء والصاد. يقولون: نَبَص الغلامُ بالكَلْبِ.\nونَبَص الطائر: صَوَّت.",
- "az": "[نبص] (nəbəs): Nun, ba və sad. Deyirlər ki: «نَبَص الغلامُ بالكَلْبِ» (nəbəşal-ğulamu bil-kəlbi).\nVə «نَبَص الطائر» (nəbəşət-tairu): səs çıxardı.",
+ "az": "[نبص] Nun, ba və sad. Deyirlər: «نَبَص الغلامُ بالكَلْبِ» (oğlan iti çağırdı/itə səsləndi). «نَبَص الطائر» (quş səs çıxartdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:58.658Z"
+ "ts": "2026-10-26T00:55:58.658Z",
+ "prev_az": "[نبص] (nəbəs): Nun, ba və sad. Deyirlər ki: «نَبَص الغلامُ بالكَلْبِ» (nəbəşal-ğulamu bil-kəlbi).\nVə «نَبَص الطائر» (nəbəşət-tairu): səs çıxardı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«نَبَص الغلامُ بالكَلْبِ» cümləsinin mənası tərcümə edilməyib."
+ ],
+ "review_ts": "2026-11-27T14:47:08.494Z"
 }

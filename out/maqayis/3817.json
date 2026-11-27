@@ -11,7 +11,17 @@
   "page_to": 304
  },
  "ar": "الميم والخاء والطاء أُصَيلٌ، يدلُّ على بُروزِ شيءٍ من كِنِّه، صحيحٌ. وامتَخَط السَّيفَ: انتضاه. وأمْخَطَ السَّهمَ (١): أنفَذَه إمخاطًا. وربَّما قالوا:\nامتخَطَ ما في يده: اختَلَسه.",
- "az": "[مخط] (Mim, xə və ta): Bir şeyin qınından, örtüyündən üzə çıxmasına dəlalət edən kiçik, lakin səhih bir əsldir. «امتَخَط السَّيفَ» (imtəhətis-səyfə): qılıncı qınından sıyırıb çıxardı. «أمْخَطَ السَّهمَ» (əmhəatis-səhmə): oxu hədəfdən keçirib o tərəfə çıxardı. Bəzən də belə deyirlər: «امتخَطَ ما في يده» (imtəhətə mə fi yadihi): əlində olanı qamçılayıb (və ya çəkib) qاپdı.",
+ "az": "[مخط] (Mim, xa və ta): Bir şeyin öz örtüyündən (qınından) üzə çıxmasına dəlalət edən kiçik, lakin səhih bir əsldir. «امتَخَط السَّيفَ» (qılıncı sıyırdı): qılıncı qınından çıxardı. «أمْخَطَ السَّهمَ» (١) (oxu keçirdi): oxu (hədəfdən) dəlib o tərəfə çıxardı. Bəzən də belə deyirlər:\n«امتخَطَ ما في يده» (əlində olanı çəkib qapdı): əlindəkini xəlvətcə qapıb götürdü.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "prev_az": "[مخط] (Mim, xə və ta): Bir şeyin qınından, örtüyündən üzə çıxmasına dəlalət edən kiçik, lakin səhih bir əsldir. «امتَخَط السَّيفَ» (imtəhətis-səyfə): qılıncı qınından sıyırıb çıxardı. «أمْخَطَ السَّهمَ» (əmhəatis-səhmə): oxu hədəfdən keçirib o tərəfə çıxardı. Bəzən də belə deyirlər: «امتخَطَ ما في يده» (imtəhətə mə fi yadihi): əlində olanı qamçılayıb (və ya çəkib) qاپdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Mətnin sonunda Azərbaycan dilindəki «qapdı» sözündə ərəb əlifbası hərfləri («قاپdı») qarışaraq mətni pozmuşdur.",
+  "«أمْخَطَ السَّهمَ» ifadəsindən sonra gələn «(١)» haşiyə rəqəmi buraxılmışdır."
+ ],
+ "review_ts": "2026-11-27T13:51:28.569Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 371
  },
  "ar": "النون والواو والفاء أصلٌ صحيح يدلُّ على علوٍّ وارتفاع.\nونافَ يَنُوف: طالَ وارتفع. والنَّوْف: السَّنام (١)، وجمعه أنواف. وممكنٌ أن يكون قولهم: مائةٌ ونَيِّف (٢) من هذا، وقد ذكرناه في نيف للَفْظِه.",
- "az": "[نوف] (nuf) - nun, vav və fa səhih bir kök olub ucalığa və yüksəkliyə dəlalət edir. ونافَ يَنُوف (nəfə yənufu) — ucaldı və yüksəldi. Və النَّوْف (ən-nauf) — dəvənin hürgücüdür (1), cəmi ise أنواف (ənvaf)dur. Və onların «مائةٌ ونَيِّف» (yüz və neçə) demələri dəqiq olaraq bundandır, bunu artıq lüğətdəki لفظ (ləfz) baxımından neyf fəslində qeyd etmişik (2).",
+ "az": "[نوف] nun, vav və fa ucalığa və yüksəkliyə dəlalət edən səhih bir kökdür.\nنافَ يَنُوفُ (uzandı və ucaldı) deyilir. النَّوْفُ (hürgüc) (١), cəmi أنْوَافٌ (hürgüclər) gəlir. Mümkündür ki, onların «مائةٌ ونَيِّفٌ» (yüz və bir neçə) (٢) demələri də bundandır, bunu tələffüzünə görə [نيف] babında qeyd etmişik.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:10.792Z"
+ "ts": "2026-10-26T00:55:10.792Z",
+ "prev_az": "[نوف] (nuf) - nun, vav və fa səhih bir kök olub ucalığa və yüksəkliyə dəlalət edir. ونافَ يَنُوف (nəfə yənufu) — ucaldı və yüksəldi. Və النَّوْف (ən-nauf) — dəvənin hürgücüdür (1), cəmi ise أنواف (ənvaf)dur. Və onların «مائةٌ ونَيِّف» (yüz və neçə) demələri dəqiq olaraq bundandır, bunu artıq lüğətdəki لفظ (ləfz) baxımından neyf fəslində qeyd etmişik (2).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«طالَ» sözü tərcümə olunmayıb.",
+  "«وممكنٌ أن يكون» ibarəsi «dəqiq olaraq bundandır» kimi yanlış tərcümə edilib.",
+  "Haşiyə rəqəmləri ərəb rəqəmləri ilə (١), (٢) saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-27T14:46:15.212Z"
 }

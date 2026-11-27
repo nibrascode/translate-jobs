@@ -11,7 +11,16 @@
   "page_to": 361
  },
  "ar": "النون والهاء والتاء كلمةٌ تدلُّ على حكايةِ صوت. فالنهِيتُ:\nدُونَ الزَّئير. وأسَدٌ نَهَّات. ونَهت الرجُل: زحَرَ وحِمارٌ نهّات.",
- "az": "[نهت] (NUN, HƏ və TƏ) - səs çıxarmağa dəlalət edən bir sözdür. «النهِيت» - nəriltidən aşağı olan səs. «أسَدٌ نَهَّات» - nərildəyən şir. «نَهت الرجُل» - boğuq səslə nəfəs aldı (zəhər verdi/boğazdan səs çıxardı). «حمار نهّات» - səsi gurlayan uzunqulaq.",
+ "az": "[نهت] (NUN, HƏ və TƏ) - səs çıxarmağa dəlalət edən bir sözdür. «النهِيت» - nəriltidən aşağı olan səs. «أسَدٌ نَهَّات» - nərildəyən şir. «نَهت الرجُل» - inildədi (gücənərək səs çıxardı). «حمار نهّات» - səsi gurlayan uzunqulaq.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:46.772Z"
+ "ts": "2026-10-26T00:54:46.772Z",
+ "prev_az": "[نهت] (NUN, HƏ və TƏ) - səs çıxarmağa dəlalət edən bir sözdür. «النهِيت» - nəriltidən aşağı olan səs. «أسَدٌ نَهَّات» - nərildəyən şir. «نَهت الرجُل» - boğuq səslə nəfəs aldı (zəhər verdi/boğazdan səs çıxardı). «حمار نهّات» - səsi gurlayan uzunqulaq.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«زحَرَ» sözü «zəhər verdi» kimi yanlış tərcümə olunub (düzü: «inildədi / gücənərək səs çıxardı»)."
+ ],
+ "review_ts": "2026-11-27T14:44:47.185Z"
 }

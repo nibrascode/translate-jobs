@@ -11,7 +11,16 @@
   "page_to": 414
  },
  "ar": "النون والذال واللام كلمةٌ تدلُّ على خَساسةٍ في الشيء.\nيقال نَذْلٌ.",
- "az": "[نذل] النون والذال واللام (n, dh, l) — bir şeydə alçaqlığa və xəsisliyə dəlalət edən kəlmədir. «نَذْلٌ» (nəzlun) — alçaq, ənəsiz adam deyilir.",
+ "az": "[نذل] النون والذال واللام (n, dh, l) — bir şeydə alçaqlığa və rəzilliyə (dəyərsizliyə) dəlalət edən kəlmədir.\n«نَذْلٌ» (nəzl) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:58:57.895Z"
+ "ts": "2026-10-26T00:58:57.895Z",
+ "prev_az": "[نذل] النون والذال واللام (n, dh, l) — bir şeydə alçaqlığa və xəsisliyə dəlalət edən kəlmədir. «نَذْلٌ» (nəzlun) — alçaq, ənəsiz adam deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə «ənəsiz adam» kimi anlaşılmaz və uydurma ifadə yazılmışdır."
+ ],
+ "review_ts": "2026-11-27T14:51:36.836Z"
 }

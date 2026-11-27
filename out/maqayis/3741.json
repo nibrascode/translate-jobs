@@ -11,9 +11,18 @@
   "page_to": 274
  },
  "ar": "الميم والغين يدلُّ على شِبه ما مضى ذكره. يقولون: المغمغة:\nالاختلاط. قال رؤبة:\n* الخُلُقِ المُمَغْمَغِ (٣) *\nويقولون: مغمغ طعامَه، إذا روَّاه دسما.",
- "az": "[مغ]\nالميم والغين (mim və ğin) əvvəl zikr olunanın oxşarına dəlalət edir. Deyirlər: المغمغة (məgməğə): qarışıqlıq. Rübə demişdir:\n* الخُلُقِ المُمَغْمَغِ (٣) *\n(qarışıq əxlaqın).\nVə deyirlər: مغمغ طعامَه (taamını məgməğə etdi), yəni onu yağla doyurdu.",
+ "az": "[مغ]\nالميم والغين (mim və ğayn) əvvəl zikr olunanın oxşarına dəlalət edir. Deyirlər: المغمغة (əl-məğməğə):\nqarışıqlıq. Rübə demişdir:\n* الخُلُقِ المُمَغْمَغِ (٣) *\n(qarışıq əxlaqın).\nVə deyirlər: مغمغ طعامَه (yeməyini məğməğə etdi), yəni onu yağla doyurdu.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:50:01.672Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "[مغ]\nالميم والغين (mim və ğin) əvvəl zikr olunanın oxşarına dəlalət edir. Deyirlər: المغمغة (məgməğə): qarışıqlıq. Rübə demişdir:\n* الخُلُقِ المُمَغْمَغِ (٣) *\n(qarışıq əxlaqın).\nVə deyirlər: مغمغ طعامَه (taamını məgməğə etdi), yəni onu yağla doyurdu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«غ» hərfinin adı «ğin» kimi səhv yazılıb («ğayn» olmalıdır).",
+  "«taamını» kimi Türkiyə türkcəsinə xas söz işlədilib."
+ ],
+ "review_ts": "2026-11-27T13:50:44.978Z"
 }

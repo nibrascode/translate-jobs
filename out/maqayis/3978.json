@@ -13,5 +13,10 @@
  "ar": "النون والهاء والسين كلمة تدلّ على عضّ على شيء. ونَهَسَ اللّحمَ: قبض عليه ونتره (٢) عند أكله إيّاه. ومنه نَهَسَتْه (٣) الحية.",
  "az": "[نهس] (NUN, HƏ və SİN) - bir şeyi dişləməyə dəlalət edən sözdür. «نَهَسَ اللّحمَ» - əti yeyərkən onu tutub dartdı. İlanın sancması da bundandır («نَهَسَتْه الحية») (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:46.772Z"
+ "ts": "2026-10-26T00:54:46.772Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T14:44:47.186Z"
 }

@@ -13,5 +13,7 @@
  "ar": "النون والغين واللام كلمةٌ تدلُّ على فسادٍ وإفساد. النَّغِل:\nالأديم الفاسد. يقولون: «وقد يُرْقَع النَّغِل». يقال إن النَّغَل (٤): الإفساد بين القوم والنَّميمةُ.",
  "az": "[نغل] (ن، غ، ل) — fəsad və fitnə-fəsada dəlalət edən bir sözdür. النَّغِل (ən-nəğil): çürümüş, xarab olmuş dəri. Deyirlər: «وقد يُرْقَع النَّغِل» («Hətta çürümüş dəri də yamana bilər»). Deyilir ki, النَّغَل (٤) (ən-nəğəl): insanlar arasında fitnə-fəsad törətmək və sözgəzdirməkdir (qeybətdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:01:38.997Z"
+ "ts": "2026-10-26T01:01:38.997Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

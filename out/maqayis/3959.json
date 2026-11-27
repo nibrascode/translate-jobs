@@ -11,7 +11,17 @@
   "page_to": 355
  },
  "ar": "النون والزاء أصل صحيح يدلّ على خفّة وقلّة. من ذلك الظّليم النَّزُّ: الذي لا يكاد يستقرّ في مكان. والنّزُّ: الرّجل الخفيف الذكىّ، وكذا النّاقة النَّزَّة. ومنه النَّزُّ، وهو ما تحلّب من الأرض من ماء. وأنزّت الأرض: صارت ذات نزّ. وسمّي نزّا لقلّته وخفّة أمره.",
- "az": "[نز] Nun və zay - yüngüllüyə və azlığa dəlalət edən səhih bir kökdür. Bunlardan biri «الظّليم النَّزُّ» — heç bir yerdə qərar tutmayan erkən dəvəquşudur. «النّزُّ» — çevik, ağıllı kişidir, həmçinin «النَّزَّة» dəvə də belədir. Buradan «النَّزُّ» sözü də gəlir ki, o da yerdən süzülüb çıxan sudur. «أننزّت الأرض» — yer nəzz (su) sahibinə çevrildi. Azlığına və işinin yüngüllüyünə görə ona nəzz adı verilmişdir.",
+ "az": "[نز] Nun və zay - yüngüllüyə və azlığa dəlalət edən səhih bir kökdür. Bunlardan biri «الظّليم النَّزُّ» — heç bir yerdə qərar tutmayan erkək dəvəquşudur. «النّزُّ» — çevik, ağıllı kişidir, həmçinin «النَّزَّة» dəvə də belədir. Buradan «النَّزُّ» sözü də gəlir ki, o da yerdən süzülüb çıxan sudur. «وأنزّت الأرض» — yer nəzz (su) sahibinə çevrildi. Azlığına və işinin yüngüllüyünə görə ona nəzz adı verilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:25.130Z"
+ "ts": "2026-10-26T00:54:25.130Z",
+ "prev_az": "[نز] Nun və zay - yüngüllüyə və azlığa dəlalət edən səhih bir kökdür. Bunlardan biri «الظّليم النَّزُّ» — heç bir yerdə qərar tutmayan erkən dəvəquşudur. «النّزُّ» — çevik, ağıllı kişidir, həmçinin «النَّزَّة» dəvə də belədir. Buradan «النَّزُّ» sözü də gəlir ki, o da yerdən süzülüb çıxan sudur. «أننزّت الأرض» — yer nəzz (su) sahibinə çevrildi. Azlığına və işinin yüngüllüyünə görə ona nəzz adı verilmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أننزّت» ərəbcə sözdə hərf səhvi var («وأنزّت» olmalıdır).",
+  "«erkən» sözündə hərf səhvi var («erkək» olmalıdır)."
+ ],
+ "review_ts": "2026-11-27T14:43:44.473Z"
 }

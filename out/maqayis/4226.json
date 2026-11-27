@@ -11,7 +11,16 @@
   "page_to": 471
  },
  "ar": "النون والقاف والطاء أُصيلٌ يدلُّ على نُكتةٍ لطيفةٍ في الشيء.\nيقال للقِطعة من النَّخْل: نُقْطة. ويقال: إنَّه تشبيهٌ في القِلَّة بالنُّطفة.",
- "az": "[نقط] النون والقاف والطاء (n, q, t) hərfləri bir şeydəki incə nöqtəyə (ləkəyə və ya işarəyə) dəlalət edən təməl sözdür. Xurma ağaclarının bir hissəsinə «نُقْطة» deyilir. Deyirlər ki, bu, azlıqda nütfəyə bənzətmədir.",
+ "az": "[نقط] النون والقاف والطاء (nun, qaf, ta) bir şeydəki incə nöqtəyə dəlalət edən balaca bir kökdür.\nXurmalıqdan bir hissəyə «نُقْطة» deyilir. Deyirlər ki, bu, azlıqda nütfəyə bənzətmədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:02:43.035Z"
+ "ts": "2026-10-26T01:02:43.035Z",
+ "prev_az": "[نقط] النون والقاف والطاء (n, q, t) hərfləri bir şeydəki incə nöqtəyə (ləkəyə və ya işarəyə) dəlalət edən təməl sözdür. Xurma ağaclarının bir hissəsinə «نُقْطة» deyilir. Deyirlər ki, bu, azlıqda nütfəyə bənzətmədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أُصيلٌ» (balaca bir kök) kiçiltmə forması yanlış olaraq «təməl sözdür» kimi tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T15:03:11.187Z"
 }

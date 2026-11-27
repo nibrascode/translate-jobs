@@ -11,7 +11,16 @@
   "page_to": 369
  },
  "ar": "النون والواو والصاد أصلٌ صحيح يدلُّ على تردُّدٍ ومجيء وذهاب *. وناص عن قرنه يَنُوص نَوْصًا. والمَنَاص المصدر، والمَلْجأ أيضًا. قال سبحانه: ﴿وَلاتَ حِينَ مَناصٍ﴾. ويقولون: النَّوْص: الحِمار الوحشىّ لا يزالُ نائصًا: رافعًا رأسَه، يتردَّد كالجامح. وناوصَ الجَرَّة: مارَسَها. ومرّ تفسيرُه في باب الجيم (٤).",
- "az": "[نوص] (nus) - nun, vav və sad tərəddüdə, gəlib-getməyə dəlalət edən səhih bir kökdür *. وناص عن قرنه يَنُوص نَوْصًا (nəsə ən qarnihi yənusu nəvsən - tayından qaçdı/çəkindiyini bildirdi). Və المَنَاص (əl-mənas) — məsdərdir, həmçinin sığınacaqdır. Uca Allah buyurmuşdur: ﴿وَلاتَ حِينَ مَناصٍ﴾ (mənaca tərcümə: Bu, qaçıb xilas olma zamanı deyil!) [Sad, 3]. Və deyirlər: النَّوْص (ən-nəvs) — ceyrandır (və ya çöl eşşəyidir), daim نائص (nəis) olur: başını qaldırır, dəli kimi tərəddüd edir. وناوصَ الجَرَّة (nəvəsəl-cərrətə) — küpə ilə əlləşdi/məşğul oldu. Onun izahı «Cim» babında keçmişdir (4).",
+ "az": "[نوص] (nun, vav və sad) tərəddüdə, gəlib-getməyə dəlalət edən səhih bir kökdür *. وناص عن قرنه يَنُوص نَوْصًا (tayından, rəqibindən qaçdı, yayınmağa çalışdı). والمَنَاص: məsdərdir, həmçinin sığınacaq, qaçış yeridir. Uca Allah buyurmuşdur: ﴿وَلاتَ حِينَ مَناصٍ﴾ (mənaca tərcümə: Bu, qaçıb xilas olma zamanı deyil!) [Sad, 3]. Və deyirlər: النَّوْص: çöl eşşəyidir ki, daim نائص olur: başını qaldırır, başıalovlu dəli kimi tərəddüd edir. وناوصَ الجَرَّة: küpə ilə uğraşdı, əlləşdi. Bunun izahı «Cim» babında keçmişdir (٤).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:10.792Z"
+ "ts": "2026-10-26T00:55:10.792Z",
+ "prev_az": "[نوص] (nus) - nun, vav və sad tərəddüdə, gəlib-getməyə dəlalət edən səhih bir kökdür *. وناص عن قرنه يَنُوص نَوْصًا (nəsə ən qarnihi yənusu nəvsən - tayından qaçdı/çəkindiyini bildirdi). Və المَنَاص (əl-mənas) — məsdərdir, həmçinin sığınacaqdır. Uca Allah buyurmuşdur: ﴿وَلاتَ حِينَ مَناصٍ﴾ (mənaca tərcümə: Bu, qaçıb xilas olma zamanı deyil!) [Sad, 3]. Və deyirlər: النَّوْص (ən-nəvs) — ceyrandır (və ya çöl eşşəyidir), daim نائص (nəis) olur: başını qaldırır, dəli kimi tərəddüd edir. وناوصَ الجَرَّة (nəvəsəl-cərrətə) — küpə ilə əlləşdi/məşğul oldu. Onun izahı «Cim» babında keçmişdir (4).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الحمار الوحشي» ifadəsi «ceyran» kimi səhv tərcümə edilmişdir (çöl eşşəyi/zebr olmalıdır)."
+ ],
+ "review_ts": "2026-11-27T14:45:30.641Z"
 }

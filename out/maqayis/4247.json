@@ -11,7 +11,17 @@
   "page_to": 481
  },
  "ar": "النون والميم والصاد أُصَيلٌ يدلُّ على رِقّة شَعْرٍ أو نتف له.\nفالنَّمَص: رِقَّة الشَّعر. والمِنْماص: المِنْقاش. وشعرٌ نميصٌ، ونبتٌ نميصٌ: نتفَتْه الماشيةُ بأفواهها.",
- "az": "[نمص] (qıl yığmaq, cımqırmaq) Nun, mim və sad incə tüklərə və ya onları qoparmağa dəlalət edən kiçik bir əsasdır. Və النَّمَص (tüklərin incəliyi). Və المِنْماص (cımqar, pinset): cımqır. Və شعرٌ نميصٌ (yolunmuş tüy) və نبتٌ نميصٌ (heyvanların ağzı ilə qopardığı ot): mal-qaranın ağızları ilə qopardığı ot.",
+ "az": "[نمص] Nun, mim və sad tükün incəliyinə və ya onun yolunmasına dəlalət edən kiçik bir kökdür.\\nفالنَّمَص – tükün incəliyi. والمِنْماص – cımqız (pinset). وشعرٌ نميصٌ (yolunmuş tük) və نبتٌ نميصٌ (yolunmuş ot) – mal-qaranın ağızları ilə yolduğu ot.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:03:34.182Z"
+ "ts": "2026-10-26T01:03:34.182Z",
+ "prev_az": "[نمص] (qıl yığmaq, cımqırmaq) Nun, mim və sad incə tüklərə və ya onları qoparmağa dəlalət edən kiçik bir əsasdır. Və النَّمَص (tüklərin incəliyi). Və المِنْماص (cımqar, pinset): cımqır. Və شعرٌ نميصٌ (yolunmuş tüy) və نبتٌ نميصٌ (heyvanların ağzı ilə qopardığı ot): mal-qaranın ağızları ilə qopardığı ot.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» qaydasına uyğun verilməmişdir.",
+  "Mətndə bəzi sözlər lüzumsuz olaraq təkrarlanmışdır."
+ ],
+ "review_ts": "2026-11-27T15:07:33.921Z"
 }

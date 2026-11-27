@@ -11,7 +11,17 @@
   "page_to": 346
  },
  "ar": "الميم والكاف والسين كلمةٌ تدلُّ على جَبْىِ مالٍ وانتقاصٍ من الشيء. ومَكَس، إذا جَبَى. والمَكْسُ: الجِباية قال زُهير (٣):\nوفي كلِّ أسواقِ العراقِ إتاوةٌ … وفي كلِّ ما باعَ امرؤٌ مَكْسُ دِرهم (١)\nواللّه أعلمُ بالصَّواب.",
- "az": "[مكس] \nMim, kaf və sin — vergi yığmağa və bir şeydən əskiltməyə dəlalət edən kəlmədir. Məkəsə (مَكَسَ) — vergi yığdıqda. Və المَكْسُ (əl-maks) — vergi yığımıdır. Züheyr demişdir (٣):\nوفي كلِّ أسواقِ العراقِ إتاوةٌ … وفي كلِّ ما باعَ امرؤٌ مَكْسُ دِرهم (١)\n(İraqın bütün bazarlarında xərac vardır... və hər bir insanın satdığı şeydə bir dirhəm vergi vardır)\nDoğrusunu Allah bilir.",
+ "az": "[مكس]\nالميم والكاف والسين (mim, kaf və sin) vergi yığmağa və bir şeydən əskiltməyə dəlalət edən kəlmədir. مَكَسَ (vergi yığdı) — vergi yığdıqda deyilir. والمَكْسُ (vergi yığımı) — vergi yığımıdır. Züheyr demişdir (٣):\nوفي كلِّ أسواقِ العراقِ إتاوةٌ … وفي كلِّ ما باعَ امرؤٌ مَكْسُ دِرهم (١)\n(İraqın bütün bazarlarında bir vergi vardır... Və hər bir adamın satdığı şeydə bir dirhəm vergi vardır).\nAllah doğruluğu daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:44.515Z"
+ "ts": "2026-10-26T00:53:44.515Z",
+ "prev_az": "[مكس] \nMim, kaf və sin — vergi yığmağa və bir şeydən əskiltməyə dəlalət edən kəlmədir. Məkəsə (مَكَسَ) — vergi yığdıqda. Və المَكْسُ (əl-maks) — vergi yığımıdır. Züheyr demişdir (٣):\nوفي كلِّ أسواقِ العراقِ إتاوةٌ … وفي كلِّ ما باعَ امرؤٌ مَكْسُ دِرهم (١)\n(İraqın bütün bazarlarında xərac vardır... və hər bir insanın satdığı şeydə bir dirhəm vergi vardır)\nDoğrusunu Allah bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Sözlərin transliterasiyası yerinə ərəbcə yazılışları və Azərbaycan dilindəki mənaları verilməlidir.",
+  "Abzaslar original ərəbcə mətnə uyğun saxlanılmalıdır."
+ ],
+ "review_ts": "2026-11-27T14:42:20.256Z"
 }

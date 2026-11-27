@@ -11,9 +11,18 @@
   "page_to": 273
  },
  "ar": "الميم والظاء كلمةٌ تدلُّ على مشارَّة ومنازعة. وماظَظْتُه مماظّة ومِظاظا: شارَرتُه ونازعته. و\nفي الحديث: «لا تُمَاظَّ جارك فإنّه يبقى ويَذهب النّاس». ومن غير هذا المَظُّ: رمَّان البَرِّ.",
- "az": "«مظ» (mazə) — Mim və zə hərfləri pis rəftara və mübahisəyə dəlalət edən bir kəlmədir. «ماظَظْتُه مماظّة ومِظاظا» (mazaztuhu mumazzatən və mızazan) — onunla şər işdə yarışdım və mübahisə etdim. Hədisdə buyurulmuşdur: «لا تُمَاظَّ جارك فإنّه يبقى ويَذهب النّاس» (Qonşunla mübahisə edib düşmənçilik etmə, çünki o qalır, insanlar isə gedir). Bundan başqa olan «المَظُّ» (əl-mazz) — yabanı nar.",
+ "az": "[مظ]\nالميم والظاء (mim və za) pis rəftara və mübahisəyə dəlalət edən bir kəlmədir. وماظَظْتُه مماظّة ومِظاظا (onunla pis rəftar etdim və mübahisə etdim): شارَرتُه ونازعته (onunla çəkişdim və mübahisə etdim). Hədisdə buyurulmuşdur: «لا تُمَاظَّ جارك فإنّه يبقى ويَذهب النّاس» (Qonşunla çəkişib mübahisə etmə, çünki o qalır, insanlar isə gedir). Bundan başqa olan المَظُّ (əl-mazz): رمَّان البَرِّ (yabanı nar).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:49:40.222Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«مظ» (mazə) — Mim və zə hərfləri pis rəftara və mübahisəyə dəlalət edən bir kəlmədir. «ماظَظْتُه مماظّة ومِظاظا» (mazaztuhu mumazzatən və mızazan) — onunla şər işdə yarışdım və mübahisə etdim. Hədisdə buyurulmuşdur: «لا تُمَاظَّ جارك فإنّه يبقى ويَذهب النّاس» (Qonşunla mübahisə edib düşmənçilik etmə, çünki o qalır, insanlar isə gedir). Bundan başqa olan «المَظُّ» (əl-mazz) — yabanı nar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[مظ]» formatında verilməyib.",
+  "«ظ» hərfinin adı «zə» kimi səhv yazılıb («za» olmalıdır)."
+ ],
+ "review_ts": "2026-11-27T13:50:44.977Z"
 }

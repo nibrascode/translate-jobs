@@ -11,7 +11,16 @@
   "page_to": 400
  },
  "ar": "النون والجيم والثاء أُصَيلٌ يدلُّ على إبراز شيءٍ وسَوءَةٍ (١).\nمنه النَّجيثة: ما أُخرِجَ من تُراب البِئر. ويقال: بَدا نَجِيثُ القَوم، أي ما كانوا يخفونه من سَوءة. والنَّجيث: الهَدَف. قال الخليل: سمِّي نجيثًا لانتصابه.\nوهو يَنْجُثُ بني فلان، إذا استعْواهم مستغيثًا بهم، ومعناه أنّه يسألهم البُروزَ لنُصْرته. والاستنجاث: التَّصدِّي للشّيء، والقياس في كلِّه واحد، واللّه أعلم.",
- "az": "[نجث] (n-c-ث) - Nün, cim və sə hərflərindən ibarət kiçik bir kök olub, bir şeyin və eybin üzə çıxarılmasına dəlalət edir (١).\nOndandır: النَّجِيثَة (ən-nəcisə): quyunun torpağından çıxarılan şey. Deyilir: بَدا نَجِيثُ القَوم (qövmün nəcisi aşkar oldu), yəni gizlətdikləri eyb üzə çıxdı. وَالنَّجِيث (ən-nəcis): hədəf. Xəlil demişdir: dik durduğuna görə ona nəcis deyilmişdir.\nO, yardım istəyərək onları haraylayıb çağırdığı zaman يَنْجُثُ بني فلان (filan oğullarını yəhirləyir/haraylayır), bunun mənası odur ki, o, onlardan özünə kömək etmək üçün üzə çıxmalarını tələb edir. والاستنجاث (əl-istincas): bir işə can yandırıb girişmək, hamısında qiyas birdir, Allah daha yaxşı bilir.",
+ "az": "[نجث] Nün, cim və sa hərflərindən ibarət kiçik bir kök olub, bir şeyin və eybin üzə çıxarılmasına dəlalət edir (١).\nOndandır: النَّجِيثَة (ən-nəcisə): quyunun torpağından çıxarılan şey. Deyilir: بَدا نَجِيثُ القَوم (qövmün gizli eybi aşkar oldu), yəni gizlətdikləri eyb üzə çıxdı. وَالنَّجِيث (ən-nəcis): hədəf. Xəlil demişdir: dik durduğuna görə ona nəcis deyilmişdir.\nO, yardım istəyərək onları haraylayıb çağırdığı zaman يَنْجُثُ بني فلان (filan oğullarını haraylayır/köməyə çağırır), bunun mənası odur ki, o, onlardan özünə kömək etmək üçün üzə çıxmalarını tələb edir. والاستنجاث (əl-istincas): bir işə can yandırıb girişmək, hamısında qiyas birdir, Allah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:57:04.701Z"
+ "ts": "2026-10-26T00:57:04.701Z",
+ "prev_az": "[نجث] (n-c-ث) - Nün, cim və sə hərflərindən ibarət kiçik bir kök olub, bir şeyin və eybin üzə çıxarılmasına dəlalət edir (١).\nOndandır: النَّجِيثَة (ən-nəcisə): quyunun torpağından çıxarılan şey. Deyilir: بَدا نَجِيثُ القَوم (qövmün nəcisi aşkar oldu), yəni gizlətdikləri eyb üzə çıxdı. وَالنَّجِيث (ən-nəcis): hədəf. Xəlil demişdir: dik durduğuna görə ona nəcis deyilmişdir.\nO, yardım istəyərək onları haraylayıb çağırdığı zaman يَنْجُثُ بني فلان (filan oğullarını yəhirləyir/haraylayır), bunun mənası odur ki, o, onlardan özünə kömək etmək üçün üzə çıxmalarını tələb edir. والاستنجاث (əl-istincas): bir işə can yandırıb girişmək, hamısında qiyas birdir, Allah daha yaxşı bilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«يَنْجُثُ» felinin tərcüməsində uyğunsuz və uydurma «yəhirləyir» sözü işlədilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:49:25.395Z"
 }

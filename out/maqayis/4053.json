@@ -13,5 +13,10 @@
  "ar": "النون والثاء والحرف المعتل كلمةٌ. يقال نَثَا الكلام يَنثُو:\nأظهَرَه. والنَّثا * يقولون: أنْ يُذكَر الإنسانُ بغير جميل.",
  "az": "«نثا» (nətha) — Nun, sə və uzadılmış hərf bir kəlmədir. Deyilir: نَثَا الكلامَ يَنثُو (sözü yaydı, aşkar etdi). وَالنَّثا (nətha) * insan haqqında gözəl olmayan şeylərin danışılmasıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:56:21.746Z"
+ "ts": "2026-10-26T00:56:21.746Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T14:47:43.199Z"
 }

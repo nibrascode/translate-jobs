@@ -11,7 +11,18 @@
   "page_to": 307
  },
  "ar": "الميم والدال والهاء ليس بأصل، لأنَّ هاءه عن حاء: التَّمَدُّح والتَّمَدُّه. ومَدَهته. قال:\n* لِلّهِ دَرُّ الغَانياتِ المُدَّهِ (١) *\nقال الخليل: المَدْه يضارع المدح (٢)، إلاّ أنّ المَدْه في نعت الجَمَال والهيئة، والمدح عامٌّ في كلِّ شيء.",
- "az": "«مده» (mim, dal və hə) — əsl deyil, çünki onun hərfi hə-nin əvəzinə hədir: التَّمَدُّح (təməddüh) və التَّمَدُّه (təməddəh). Və مَدَهْتُهُ (təriflədim). Şair demişdir: «Laləqimlərin nə gözəldir o təriflənən» (١). Xəlil demişdir: المَدْه (mədh) mədhiyyəyə bənzərdir (٢), lakin مَدْه (mədh) gözəllik və görkəmin vəsfində olur, mədh isə hər şeydə ümumidir.",
+ "az": "[مده]\n«مده» (mim, dal və hə) — əsl deyil, çünki onun ه (hə) hərfi ح (ha) hərfindən çevrilmişdir: التَّمَدُّح (təməddüh) və التَّمَدُّه (təməddüh). Və مَدَهته (onu təriflədim). Şair demişdir:\n* لِلّهِ دَرُّ الغَانياتِ المُدَّهِ (١) * (Nə gözəldir o təriflənən gözəl qadınlar!).\nXəlil demişdir: المَدْه (mədh) المدح (mədh, tərif) sözünə bənzərdir (٢), lakin المَدْه (mədh) gözəllik və görkəmin vəsfində olur, المدح (mədh) isə hər şeydə ümumidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:54.672Z"
+ "ts": "2026-10-26T00:51:54.672Z",
+ "prev_az": "«مده» (mim, dal və hə) — əsl deyil, çünki onun hərfi hə-nin əvəzinə hədir: التَّمَدُّح (təməddüh) və التَّمَدُّه (təməddəh). Və مَدَهْتُهُ (təriflədim). Şair demişdir: «Laləqimlərin nə gözəldir o təriflənən» (١). Xəlil demişdir: المَدْه (mədh) mədhiyyəyə bənzərdir (٢), lakin مَدْه (mədh) gözəllik və görkəmin vəsfində olur, mədh isə hər şeydə ümumidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«لأنَّ هاءه عن حاء» ifadəsi «onun hərfi hə-nin əvəzinə hədir» kimi mənasız və səhv tərcümə edilib.",
+  "Şeir beytinin ərəb mətni silinib və «الغانيات» sözü «Laləqimlər» kimi uydurma tərcümə olunub.",
+  "«المدح» sözü «mədhiyyə» kimi daraldılıb, «ومَدَهته» sözünün yazılışına artıq hərəkə əlavə edilib."
+ ],
+ "review_ts": "2026-11-27T13:52:15.802Z"
 }

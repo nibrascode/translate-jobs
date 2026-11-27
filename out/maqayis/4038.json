@@ -11,7 +11,17 @@
   "page_to": 385
  },
  "ar": "النون والباء والحرف المعتلُّ أصلٌ صحيح يدلُّ على ارتفاعٍ في الشيء عن غَيره أو تَنحٍّ عنه. [نبا بصرُه عن الشيء (٥)] ينبو. ونبا السيف عن الضّريبة: تجافَى ولم يَمضِ فيها. ونبا به مَنزِلُه: لم يوافِقْه، وكذا فِراشه. ويقال نَبَا جنْبُه عن الفِراش. قال:\nإنَّ جَنْبِي عن الفراشِ لَنَابِ … كتَجافِي الأسَرِّ فوقَ الظِّرابِ (٦)\nويقال إنّ النبيَّ ﵌ اسمُه من النَّبْوة، وهو الارتفاع، كأنَّه مفضّل على سائر الناس برَفْع منزلته. ويقولون: النَّبِيّ: الطريق. قال:\nلأصْبَحَ رتماً دُقاقَ الحَصَى … مكانَ النَّبِيّ من الكاثِبِ (١)",
- "az": "[نبو] (nəbu): Nun, ba və mütəəllif (zəif) hərf – bir şeyin digərindən uca olub ondan çəkinməsinə və ya uzaqlaşmasına dəlalət edən səhih bir kökdür. «[نبا بصرُه عن الشيء]» (nəbə basuruhu anis-şəyi) – o, uzaqlaşır. «نبا السيف عن الضّريبة» (nəbəb-səyfu anis-daribət: qılınc zərbədən uzaqlaşdı və içindən keçmədi. «نبا به مَنزِلُه» (nəbə bihi mənzilluhu): ev ona uyğun gəlmədi, döşəyi də həmçinin. Deyilir ki, böyrü döşəkdən uzaqlaşdı. Belə demişdir:\nإنَّ جَنْبِي عن الفراشِ لَنَابِ … كتَجافِي الأسَرِّ فوقَ الظِّرابِ (٦)\n(Həqiqətən, mənim böyrüm döşəkdən uzaqlaşır... Təpələr üzərindəki uca taxtın uzaqlaşdığı kimi)\nDeyilir ki, Peyğəmbərin ﵌ adı «النَّبْوة» (ən-nəbvə) sözündəndir ki, bu da ucalıq deməkdir, sanki o, digər insanlardan məqamının ucalığı ilə üstün tutulmuşdur. Deyirlər ki, «النَّبِيّ» (ən-nabiy): yol deməkdir. Belə demişdir:\nلأصْبَحَ رتماً دُقاقَ الحَصَى … مكانَ النَّبِيّ من الكاثِبِ (١)",
+ "az": "[نبو]\nالنون والباء والحرف المعتلُّ (nun, ba və mütəll/zəif hərf) bir şeyin digərindən ucalmasına və ya ondan uzaqlaşmasına dəlalət edən səhih bir kökdür. «نبا بصرُه عن الشيء (٥) ينبو» (gözü bir şeydən uzaqlaşdı / yayındı - uzaqlaşar). «نبا السيف عن الضّريبة» (qılınc zərbə yerindən yayındı və içindən keçmədi). «نبا به مَنزِلُه» (mənzili ona uyğun gəlmədi), döşəyi də həmçinin. Deyilir: «نَبَا جنْبُه عن الفِراش» (böyrü döşəkdən uzaqlaşdı / rahatlaşmadı). [Şair] demişdir:\nإنَّ جَنْبِي عن الفراشِ لَنَابِ … كتَجافِي الأسَرِّ فوقَ الظِّرابِ (٦)\n(Həqiqətən, mənim böyrüm döşəkdən uzaqlaşır, təpələrin üzərindəki xəttin/yolun uzaqlaşdığı kimi).\nDeyilir ki, Peyğəmbərin ﵌ adı «النَّبْوة» (ən-nəbvə - ucalıq) sözündəndir, sanki o, məqamının ucalığı ilə digər insanlardan üstün tutulmuşdur. Deyirlər: «النَّبِيّ» (ən-nəbiyy): yol [deməkdir]. [Şair] demişdir:\nلأصْبَحَ رتماً دُقاقَ الحَصَى … مكانَ النَّبِيّ من الكاثِبِ (١)\n(Qum təpəsindəki yolun yerində xırda daş-qalaq halına gələrdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:58.658Z"
+ "ts": "2026-10-26T00:55:58.658Z",
+ "prev_az": "[نبو] (nəbu): Nun, ba və mütəəllif (zəif) hərf – bir şeyin digərindən uca olub ondan çəkinməsinə və ya uzaqlaşmasına dəlalət edən səhih bir kökdür. «[نبا بصرُه عن الشيء]» (nəbə basuruhu anis-şəyi) – o, uzaqlaşır. «نبا السيف عن الضّريبة» (nəbəb-səyfu anis-daribət: qılınc zərbədən uzaqlaşdı və içindən keçmədi. «نبا به مَنزِلُه» (nəbə bihi mənzilluhu): ev ona uyğun gəlmədi, döşəyi də həmçinin. Deyilir ki, böyrü döşəkdən uzaqlaşdı. Belə demişdir:\nإنَّ جَنْبِي عن الفراشِ لَنَابِ … كتَجافِي الأسَرِّ فوقَ الظِّرابِ (٦)\n(Həqiqətən, mənim böyrüm döşəkdən uzaqlaşır... Təpələr üzərindəki uca taxtın uzaqlaşdığı kimi)\nDeyilir ki, Peyğəmbərin ﵌ adı «النَّبْوة» (ən-nəbvə) sözündəndir ki, bu da ucalıq deməkdir, sanki o, digər insanlardan məqamının ucalığı ilə üstün tutulmuşdur. Deyirlər ki, «النَّبِيّ» (ən-nabiy): yol deməkdir. Belə demişdir:\nلأصْبَحَ رتماً دُقاقَ الحَصَى … مكانَ النَّبِيّ من الكاثِبِ (١)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الحرف المعتل» ifadəsi «mütəəllif» kimi səhv verilmişdir (mütəll hərf olmalıdır).",
+  "İkinci şeir beytinin (لأصْبَحَ رتماً...) mötərizədə tərcüməsi verilməyib, buraxılıb."
+ ],
+ "review_ts": "2026-11-27T14:47:58.915Z"
 }

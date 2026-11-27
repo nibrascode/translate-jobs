@@ -13,5 +13,10 @@
  "ar": "النون والفاء والتاء. يقولون: نَفَتَت القِدرُ: غَلَتْ ويَبِسَ مَرَقُها عليها. قال:\nوصاحبٍ لِصدرِهِ كَتِيتُ … علىَّ مثَل المِرْجَلِ النَّفُوتِ\nونفت صَدْرُه بالعَداوة: غَلَا.",
  "az": "[نفت] (ن، ف، ت). Deyirlər ki, نَفَتَت القِدرُ (qazan qaynadı və üzərindəki şorvası qurudu). Şair demişdir: وصاحبٍ لِصدرِهِ كَتِيتُ … علىَّ مثَل المِرْجَلِ النَّفُوتِ (Sinəsindən qaynayan qazanın səsi gələn bir dostum var...). Və نَفَت صَدْرُه بالعَداوة (Onun sinəsi düşmənçilikdən qaynayıb-coşdu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:01:38.997Z"
+ "ts": "2026-10-26T01:01:38.997Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T15:01:08.795Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 318
  },
  "ar": "الميم والزاء والعين أصلٌ صحيح يدلُّ على قطع وتَقطُّع.\nوالقِطعَة من اللحم مُزْعة، وقد تكسر الميم. والمُزْعة: الجُرعة في الإناء من الماء.\nوفلان يتمزَّعُ من الغَيظ، أي يكاد يتقطّع. ومنه مَزَع الظّبْي مَزْعاً: أسرع، كأنَّه ينقدّ من شدة عَدْوِه؛ وقد يقال للفَرَس.",
- "az": "«مزع» (maza'a) — mim, zay və eyn hərflərindən ibarət səhih bir kök olub kəsməyə və parça-parça olmağa dəlalət edir. Ətdən olan parça مُزْعَةٌ (muz'atun), mim hərfi kəsrə ilə də oxunur. اَلْمُزْعَةُ (al-muz'atu): qabın içindəki suyun bir qurtumu. فُلَانٌ يَتَمَزَّعُ مِنَ الغَيْظِ (fulanun yatamazza'u min al-ğayzi): filankəs qəzəbdən çartlayır (parçalanmaq üzrədir). Bundan: مَزَعَ الظَّبْيُ مَزْعاً (maza'a aẓ-ẓabyu maza'an): ceyran qaçışının şiddətindən az qala parça-parça olacaqmış kimi qaçdı; bu söz at üçün də deyilir.",
+ "az": "[مزع]\nMim, zey və ayn (hərfləri) kəsməyə və parça-parça olmağa dəlalət edən səhih bir kökdür.\nƏt parçası مُزْعة (muz'ə) adlanır, bəzən mim hərfi kəsrə ilə də oxunur. والمُزْعة (əl-muz'ə): qabdakı suyun bir qurtumudur.\nوفلان يتمزَّعُ من الغَيظ (Filankəs qəzəbdən parçalanır), yəni az qala parça-parça olur. Buradandır: مَزَع الظّبْي مَزْعاً (ceyran sürətlə qaçdı), sanki qaçışının şiddətindən yarılıb parçalanır; bu söz at üçün də deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:16.071Z"
+ "ts": "2026-10-26T00:52:16.071Z",
+ "prev_az": "«مزع» (maza'a) — mim, zay və eyn hərflərindən ibarət səhih bir kök olub kəsməyə və parça-parça olmağa dəlalət edir. Ətdən olan parça مُزْعَةٌ (muz'atun), mim hərfi kəsrə ilə də oxunur. اَلْمُزْعَةُ (al-muz'atu): qabın içindəki suyun bir qurtumu. فُلَانٌ يَتَمَزَّعُ مِنَ الغَيْظِ (fulanun yatamazza'u min al-ğayzi): filankəs qəzəbdən çartlayır (parçalanmaq üzrədir). Bundan: مَزَعَ الظَّبْيُ مَزْعاً (maza'a aẓ-ẓabyu maza'an): ceyran qaçışının şiddətindən az qala parça-parça olacaqmış kimi qaçdı; bu söz at üçün də deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[مزع]» formatı ilə başlamır və ərəbcə sözlərin hərəkələri AR-dakı ilə eyni deyil.",
+  "Hərf adları səhv verilib (zey əvəzinə zay, ayn əvəzinə eyn).",
+  "«أسرع» (sürətləndi) sözünün mənası natamam verilib və «çartlayır» orfoqrafik səhvi var."
+ ],
+ "review_ts": "2026-11-27T14:02:51.285Z"
 }

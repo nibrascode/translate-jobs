@@ -11,7 +11,19 @@
   "page_to": 323
  },
  "ar": "الميم والسين والخاء كلمتانِ: إحداهما المَسخ، وهو يدلُّ على تشويهٍ وقِلّة طَعْم الشَّيء ومَسَخَه اللّه: شوَّهَ خَلْقَه من صورةٍ حسنةٍ إلى قبيحة.\nورجل مَسيخٌ: لا ملاحةَ له. وطعامٌ مَسيخٌ: لا مِلح له ولا طَعم. قال:\nوأنت مسيخٌ كلَحْم الحُوارِ … فَلَا أنتَ حُلوٌ ولا أنتَ مُرّ (١)\nويقولون: مَسَخْتُ النّاقَة، إذا أدبَرْتَها بالإنعاب.\nوالكلمة الأخرى: القِسِىُّ الماسِخيّة، تنسب إلى ماسِخةَ: رجلٍ من الأَسْد. قال:\nفقرَّبَّتُ مُبْراةً تخالُ ضُلوعَها … مِنْ الماسخيّاتِ القِسِىَّ المُوَتَّرا (٢)",
- "az": "[مسخ] (Məsəh) Mim, sin və xa hərfləri iki sözdür: Biri əl-məsh (المَسْخ) olub, sifətin pozulmasına və şeyin dadının azlığına dəlalət edir. «Məsəhahu Allahu» (مَسَخَه اللّه) — Allah onun xilqətini gözəl surətdən çirkin surətə dəyişdi (şəklini pozdu). Rəcül məsixun (رجل مَسيخٌ) — heç bir cazibəsi, duzu olmayan adam. Təamun məsixun (طعامٌ مَسيخٌ) — nə duzu, nə də dadı olan yemək. Şair demişdir: وأنت مسيخٌ كلَحْم الحُوارِ … فَلَا أنتَ حُلوٌ ولا أنتَ مُرّ (1) (Sən balaca dəvənin əti kimi dadsızsan... nə şirinsən, nə də acı). Deyirlər: «Məsəhtu ən-naqətə» (مَسَخْتُ النّاقَة) — dəvəni tez-tez qovmaqla arıqlatdın, taqətdən saldın. Digər söz isə: əl-qisi əl-masixiyyə (القِسِىُّ الماسِخيّة) — Əsd qəbiləsindən olan Məsi-xə (ماسِخة) adlı kişiyə nisbət edilən yaylardır. Şair demişdir: فقرَّبَّتُ مُبْراةً تخالُ ضُلوعَها … مِنْ الماسخيّاتِ القِسِىَّ المُوَتّرا (2) (O, elə bir yonulmuş yay yaxınlaşdırdı ki, onun qabırğalarını masixiyyət yayları kimi zərlənmiş ox yayları zənn edərsən).",
+ "az": "[مسخ] Mim, sin və xa hərfləri iki sözdür: Biri المَسخ (əl-məsx) olub, sifətin pozulmasına və şeyin dadının azlığına dəlalət edir. مَسَخَه اللّه (məsəhəhu Allah) — Allah onun xilqətini gözəl surətdən çirkin surətə dəyişdi (şəklini pozdu).\nرجل مَسيخٌ (rəcülün məsix) — heç bir cazibəsi, duzu olmayan adam. طعامٌ مَسيخٌ (təamun məsix) — nə duzu, nə də dadı olan yemək. Şair demişdir:\nوأنت مسيخٌ كلَحْم الحُوارِ … فَلَا أنتَ حُلوٌ ولا أنتَ مُرّ (١) (Sən südəmər dəvə balasının əti kimi dadsızsan... nə şirinsən, nə də acı).\nDeyirlər: مَسَخْتُ النّاقَة (məsəxtu ən-naqə) — dəvəni yorub arıqlatdıqda belə deyilir.\nDigər söz isə القِسِىُّ الماسِخيّة (əl-qisiyyu əl-masixiyyə) — Əsd qəbiləsindən olan ماسِخةَ (Masixə) adlı kişiyə nisbət edilən yaylardır. Şair demişdir:\nفقرَّبَّتُ مُبْراةً تخالُ ضُلوعَها … مِنْ الماسخيّاتِ القِسِىَّ المُوَتَّرا (٢) (Qabırğalarını Masixiyyə yaylarından olan kirişlənmiş yaylara bənzətdiyin arıq bir dişi dəvəni yaxınlaşdırdım).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:39.418Z"
+ "ts": "2026-10-26T00:52:39.418Z",
+ "prev_az": "[مسخ] (Məsəh) Mim, sin və xa hərfləri iki sözdür: Biri əl-məsh (المَسْخ) olub, sifətin pozulmasına və şeyin dadının azlığına dəlalət edir. «Məsəhahu Allahu» (مَسَخَه اللّه) — Allah onun xilqətini gözəl surətdən çirkin surətə dəyişdi (şəklini pozdu). Rəcül məsixun (رجل مَسيخٌ) — heç bir cazibəsi, duzu olmayan adam. Təamun məsixun (طعامٌ مَسيخٌ) — nə duzu, nə də dadı olan yemək. Şair demişdir: وأنت مسيخٌ كلَحْم الحُوارِ … فَلَا أنتَ حُلوٌ ولا أنتَ مُرّ (1) (Sən balaca dəvənin əti kimi dadsızsan... nə şirinsən, nə də acı). Deyirlər: «Məsəhtu ən-naqətə» (مَسَخْتُ النّاقَة) — dəvəni tez-tez qovmaqla arıqlatdın, taqətdən saldın. Digər söz isə: əl-qisi əl-masixiyyə (القِسِىُّ الماسِخيّة) — Əsd qəbiləsindən olan Məsi-xə (ماسِخة) adlı kişiyə nisbət edilən yaylardır. Şair demişdir: فقرَّبَّتُ مُبْراةً تخالُ ضُلوعَها … مِنْ الماسخيّاتِ القِسِىَّ المُوَتّرا (2) (O, elə bir yonulmuş yay yaxınlaşdırdı ki, onun qabırğalarını masixiyyət yayları kimi zərlənmiş ox yayları zənn edərsən).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[مسخ] (Məsəh)» şəklində səhv oxunmuşdur (düzgünü: Məsx).",
+  "«ماسِخة» adı «Məsi-xə» şəklində səhv və defislə yazılmışdır.",
+  "İkinci şeirdəki «قرَّبَّتُ مُبْراةً» (arıq bir dişi dəvəni yaxınlaşdırdım) ifadəsi səhvən «O, elə bir yonulmuş yay yaxınlaşdırdı» kimi tərcümə edilmişdir.",
+  "Haşiyə rəqəmləri (١, ٢) latın rəqəmi ilə verilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:04:59.751Z"
 }

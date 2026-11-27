@@ -11,7 +11,16 @@
   "page_to": 334
  },
  "ar": "الميم والعين والقاف ليس بأصلٍ وإنما هو من باب القلب.\nوأرضٌ مَعِيقة كعميقة. والأماعق: أطراف المَفَازة. ويقال: المَعْق: الأرض لا نَبَاتَ بها. وتمعَّقَ الرجُل: ساء خُلُقه.",
- "az": "[معق] \nMim, eyn və qaf hərfləri əsl deyil, o sadəcə qəlb (hərflərin yerinin dəyişməsi) babındandır.\nVə أرضٌ مَعِيقة — عَميقَة (dərin) kimi. Və الأماعق: səhranın ujları, kənarları. Və deyilir: المَعْق — bitkisi olmayan torpaq. Və تمعَّقَ الرجُل: əxlaqı pisləşdi.",
+ "az": "[معق] Mim, eyn və qaf hərfləri əsl deyil, sadəcə qəlb (hərflərin yerinin dəyişməsi) babındandır. Və أَرْضٌ مَعِيقَة kəlməsi عَمِيقَة (dərin) kimidir. Və الأَمَاعِق: səhranın uclarıdır. Deyilir ki, المَعْق — bitkisi olmayan torpaqdır. Və تَمَعَّقَ الرَّجُلُ: kişinin əxlaqı pisləşdi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:24.328Z"
+ "ts": "2026-10-26T00:53:24.328Z",
+ "prev_az": "[معق] \nMim, eyn və qaf hərfləri əsl deyil, o sadəcə qəlb (hərflərin yerinin dəyişməsi) babındandır.\nVə أرضٌ مَعِيقة — عَميقَة (dərin) kimi. Və الأماعق: səhranın ujları, kənarları. Və deyilir: المَعْق — bitkisi olmayan torpaq. Və تمعَّقَ الرجُل: əxlaqı pisləşdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ujları» sözündə hərf səhvi var (ucları olmalıdır)."
+ ],
+ "review_ts": "2026-11-27T14:35:34.040Z"
 }

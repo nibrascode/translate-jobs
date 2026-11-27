@@ -11,7 +11,17 @@
   "page_to": 379
  },
  "ar": "النون والباء والثاء أصلٌ يدلُّ على إبراز شيء. ونَبَثَ التُّرابَ: أخرَجَه من البِئرِ والنَّهر، وذلك المُستخْرَج نَبِيثةٌ، والجمع نبائث.\nوالنَّابث: الحافر. وقولهم: خبيثٌ نبيث، إنّما هو إتباع.",
- "az": "«نبث»: النون، الباء والثاء أصلٌ يدلُّ على إبراز شيء (Bir şeyi üzə çıxarmağa dəlalət edən bir kökdür). ونَبَثَ التُّرابَ (Torpağı qazıb çıxartdı): أخرَجَه من البِئرِ والنَّهر (onu quyudan və çaydan çıxartdı), وذلك المُستخْرَج نَبِيثةٌ (və o çıxarılan şey «nəbisə»dir), والجمع نبائث (cəmi «nəbais»dir). والنَّابث (Qazıqçı/qazan): الحافر (qazan adam). وقولهم: خبيثٌ نبيث (Və onların «xəbis nəbis» sözü): إنّما هو إتباع (yalnız qoşma sözdür / təqib edən kəlmədir).",
+ "az": "[نبث] nun, ba və sa bir şeyi üzə çıxarmağa dəlalət edən bir kökdür. نَبَثَ التُّرابَ: أخرَجَه من البِئرِ والنَّهر (torpağı quyudan və çaydan qazıb çıxardı). O çıxarılan torpaq نَبِيثةٌ, cəmi isə نبائث-dir. والنَّابث: qazan adamdır (الحافر). Onların خبيثٌ نبيث deyimi isə yalnız tabe sözdür (إتباع).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:36.143Z"
+ "ts": "2026-10-26T00:55:36.143Z",
+ "prev_az": "«نبث»: النون، الباء والثاء أصلٌ يدلُّ على إبراز شيء (Bir şeyi üzə çıxarmağa dəlalət edən bir kökdür). ونَبَثَ التُّرابَ (Torpağı qazıb çıxartdı): أخرَجَه من البِئرِ والنَّهر (onu quyudan və çaydan çıxartdı), وذلك المُستخْرَج نَبِيثةٌ (və o çıxarılan şey «nəbisə»dir), والجمع نبائث (cəmi «nəbais»dir). والنَّابث (Qazıqçı/qazan): الحافر (qazan adam). وقولهم: خبيثٌ نبيث (Və onların «xəbis nəbis» sözü): إنّما هو إتباع (yalnız qoşma sözdür / təqib edən kəlmədir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Baş söz kök mötərizəsi «[نبث]» yerinə dırnaq işarəsi ilə verilmişdir.",
+  "Mətn standart tərcümə formatına uyğunlaşdırılmamış, parallel oxu kimi verilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:46:59.962Z"
 }

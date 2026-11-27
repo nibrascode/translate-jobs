@@ -11,7 +11,16 @@
   "page_to": 410
  },
  "ar": "النون والدال والغين كلمةٌ إنْ صحّت فإنها تدلُّ على شِبْه الطَّعن والنَّخس. يقال: ندَغَه: طعنه. وندَغْتُ الصبىَّ: دغْدَغْته. ويقولون:\nالنُّدْغَة: البياض في آخِر الظّفر، وكأنَّه شيءٌ أثَّر في شيء.",
- "az": "[ندغ] (N-D-Ğ) Nun, dal və ğayn, əgər doğrudursa, bir kəlmədir ki, nizə ilə vurmağa və deşməyə bənzər bir şeyə dəlalət edir. Deyilir: «ندَغَه» (onu nədəğə etdi), yəni onu vurdu. «ندَغْتُ الصبىَّ» (uşağı nədəğ etdim), yəni onu gıdıqladım. Deyirlər: «النُّدْغَة» (ən-nudğə) - dırnağın sonundakı ağlıqdır, sanki bir şeyin başqa bir şeyə təsir etdiyi bir şeydir.",
+ "az": "[ندغ] Nun, dal və ğayn, əgər doğrudursa, nizə ilə vurmağa və deşməyə bənzər bir şeyə dəlalət edən bir kəlmədir. Deyilir: «ندَغَه» (onu nədəğə etdi) — onu vurdu. «ندَغْتُ الصبىَّ» (uşağı nədəğ etdim) — uşağı qıdıqladım. Deyirlər:\n«النُّدْغَة» (ən-nudğə) — dırnağın sonundakı ağlıqdır, sanki bir şeyin başqa bir şeydə iz qoyduğu bir şeydir.",
  "model": "gemini-3.1-flash-lite",
- "ts": "2026-10-26T00:58:32.693Z"
+ "ts": "2026-10-26T00:58:32.693Z",
+ "prev_az": "[ندغ] (N-D-Ğ) Nun, dal və ğayn, əgər doğrudursa, bir kəlmədir ki, nizə ilə vurmağa və deşməyə bənzər bir şeyə dəlalət edir. Deyilir: «ندَغَه» (onu nədəğə etdi), yəni onu vurdu. «ندَغْتُ الصبىَّ» (uşağı nədəğ etdim), yəni onu gıdıqladım. Deyirlər: «النُّدْغَة» (ən-nudğə) - dırnağın sonundakı ağlıqdır, sanki bir şeyin başqa bir şeyə təsir etdiyi bir şeydir.",
+ "prev_model": "gemini-3.1-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Türkiyə türkcəsinə aid «gıdıqladım» sözü işlədilib."
+ ],
+ "review_ts": "2026-11-27T14:52:22.165Z"
 }

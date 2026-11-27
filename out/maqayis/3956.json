@@ -11,7 +11,16 @@
   "page_to": 354
  },
  "ar": "النون والحاء كلمةٌ يُحكَى بها صوت. فالتَّنحنُح معروف.\n[و] النّحيح: صوت يردِّده الإنسان في جوفه. وحكيت كلمة ما ندري كيف صحّتها. وليس لها قياس. يقولون: ما أنا بِنَحيح النّفس عن كذا، أي طيّب النّفس (٢).",
- "az": "[نح] Nun və ha - bir səsi ifadə edən kəlmədir. «التَّنحنُح» — məlumdur (öskürək səsi çıxarmaq).\n[و] «النّحيح» — insanın daxilində təkrar etdiyi səsdir. Doğruluğunu bilmədiyimiz bir kəlməni nəql etdilər. Onun qiyas-ölçüsü yoxdur. Deyirlər: «ما أنا بِنَحيح النّفس عن كذا» — yəni mən bundan ötrü könlü xoş (razı) olan deyiləm (٢).",
+ "az": "[نح] Nun və ha - bir səsi ifadə edən kəlmədir. «التَّنحنُح» — məlumdur.\n[و] «النّحيح» — insanın daxilində təkrar etdiyi səsdir. Doğruluğunu bilmədiyimiz bir kəlmə nəql olunmuşdur, onun qiyası yoxdur. Deyirlər: «ما أنا بِنَحيح النّفس عن كذا، أي طيّب النّفس» — yəni mən bundan ötrü könlü xoş olan deyiləm (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:25.130Z"
+ "ts": "2026-10-26T00:54:25.130Z",
+ "prev_az": "[نح] Nun və ha - bir səsi ifadə edən kəlmədir. «التَّنحنُح» — məlumdur (öskürək səsi çıxarmaq).\n[و] «النّحيح» — insanın daxilində təkrar etdiyi səsdir. Doğruluğunu bilmədiyimiz bir kəlməni nəql etdilər. Onun qiyas-ölçüsü yoxdur. Deyirlər: «ما أنا بِنَحيح النّفس عن كذا» — yəni mən bundan ötrü könlü xoş (razı) olan deyiləm (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أي طيّب النّفس» ərəbcə ləfz tərcümədə ərəb qrafikası ilə saxlanılmayıb ixtisar edilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:43:44.472Z"
 }

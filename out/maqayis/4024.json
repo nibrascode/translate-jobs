@@ -11,7 +11,18 @@
   "page_to": 380
  },
  "ar": "النون والباء والخاء أصلٌ يدلُّ على عِظَمٍ وتعظُّم. وأصل النَّبْخ ما نَفخ (٣) من اليد فخرَجَ شِبْهَ قَرْح ممتلئ (٤) ماءً. ويقال للمتعظِّم في نفسه:\nنابخة. قال الشاعر:\nيَخْشَى عليهم من الأملاك نَابِخةً … من النَّوابِخِ مثل الحادر الرُّزَمِ (٥)\nوالنَّبْخاء: الأكَمة، سمِّيت لارتفاعها.",
- "az": "«نبخ»: النون، الباء والخاء أصلٌ يدلُّ على عِظَمٍ وتعظُّم (Böyüklüyə və təkəbbürə dəlalət edən bir kökdür). وأصل النَّبْخ («Nəbx»in əsli): ما نَفخ (٣) من اليد فخرَجَ شِبْهَ قَرْح ممتلئ (٤) (əldən şişib içərisi su ilə dolu çiban bənzəri çıxan şeydir) ماءً. ويقال للمتعظِّم في نفسه (Və özündən razı olan təkəbbürlü adama deyilir): نابخة (nabixə). قال الشاعر (Şair demişdir): يَخْشَى عليهم من الأملاك نَابِخةً … من النَّوابِخِ مثل الحادر الرُّزَمِ (Padşahlardan onların üzərinə yığılan ağır topaqlara bənzər təkəbbürlü birini qorxur) (٥). والنَّبْخاء («Nəbxa»): الأكَمة (təpəcik), سمِّيت لارتفاعها (uca olduğuna görə belə adlandırılmışdır).",
+ "az": "[نبخ] nun, ba və xa böyüklüyə və təkəbbürə dəlalət edən bir kökdür. النَّبْخ sözünün əsli əldə şişən, içərisi su ilə dolu qabarcıq/çiban kimi çıxan şeydir (ما نَفخ من اليد فخرَجَ شِبْهَ قَرْح ممتلئ ماءً). Özünü böyük tutan təkəbbürlü adama نابخة deyilir. Şair demişdir:\nيَخْشَى عليهم من الأملاك نَابِخةً … من النَّوابِخِ مثل الحادر الرُّزَمِ (٥)\n\nوالنَّبْخاء: təpəlikdir (الأكَمة), uca olduğuna görə belə adlandırılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:36.143Z"
+ "ts": "2026-10-26T00:55:36.143Z",
+ "prev_az": "«نبخ»: النون، الباء والخاء أصلٌ يدلُّ على عِظَمٍ وتعظُّم (Böyüklüyə və təkəbbürə dəlalət edən bir kökdür). وأصل النَّبْخ («Nəbx»in əsli): ما نَفخ (٣) من اليد فخرَجَ شِبْهَ قَرْح ممتلئ (٤) (əldən şişib içərisi su ilə dolu çiban bənzəri çıxan şeydir) ماءً. ويقال للمتعظِّم في نفسه (Və özündən razı olan təkəbbürlü adama deyilir): نابخة (nabixə). قال الشاعر (Şair demişdir): يَخْشَى عليهم من الأملاك نَابِخةً … من النَّوابِخِ مثل الحادر الرُّزَمِ (Padşahlardan onların üzərinə yığılan ağır topaqlara bənzər təkəbbürlü birini qorxur) (٥). والنَّبْخاء («Nəbxa»): الأكَمة (təpəcik), سمِّيت لارتفاعها (uca olduğuna görə belə adlandırılmışdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Baş söz kök mötərizəsi «[نبخ]» yerinə dırnaq işarəsi ilə verilmişdir.",
+  "Ərəbcə «ماءً» sözü tərcüməsiz və mötərizədən kənarda yarımçıq qalmışdır.",
+  "Mətn standart tərcümə formatına uyğunlaşdırılmamışdır."
+ ],
+ "review_ts": "2026-11-27T14:46:59.963Z"
 }

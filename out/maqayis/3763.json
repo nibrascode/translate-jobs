@@ -11,9 +11,17 @@
   "page_to": 285
  },
  "ar": "الميم والواو والعين. ماعَ الصُّفْرُ والفِضَّة في النار يُموع ويَميعُ: ذابَ.",
- "az": "[موع] (M-v-c): Mim, vau və eyn. ماعَ الصُّفْرُ والفِضَّة في النار يُموع ويَميعُ (macəs-sufrü vəl-fiddə fi-nnari yumucu və yamicu): mis və gümüş odda əridi.",
+ "az": "[موع]\nالميم والواو والعين (mim, vav və ayn). ماعَ الصُّفْرُ والفِضَّة في النار يُموع ويَميعُ (mis və gümüş odda əridi): ذابَ (əridi).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:50:25.991Z",
- "review_attempts": 1,
- "review_last_error": "qısa (96 < 155)"
+ "review_last_error": "qısa (96 < 155)",
+ "prev_az": "[موع] (M-v-c): Mim, vau və eyn. ماعَ الصُّفْرُ والفِضَّة في النار يُموع ويَميعُ (macəs-sufrü vəl-fiddə fi-nnari yumucu və yamicu): mis və gümüş odda əridi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları («vau», «eyn») səhv yazılıb («vav», «ayn» olmalıdır) və «يُموع» sözünün oxunuşu («yumucu») yanlışdır."
+ ],
+ "review_ts": "2026-11-27T13:50:44.979Z"
 }

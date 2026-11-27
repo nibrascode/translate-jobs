@@ -11,7 +11,18 @@
   "page_to": 313
  },
  "ar": "الميم والراء والقاف أصلٌ صحيح يدلُّ على خروج شيءٍ من شيء. منه المَرَق لأنَّه شيءٌ يَمرُق من اللَّحم. وأمْرَقْتُ القِدرَ ومَرَقْتُها (١).\nوالمُروق: الخروج من الشيء. ومرق السهمُ من الرَّمِيَّة: نفذ. ومرقت الإهاب (٢)، إذا حلقْتَ عنه صُوفَه، وهو قياسٌ صحيح لأنَّك كأنَّك أبرزتَ الجلدَ عن شعره.\nوإذا عُطِنَ الإهابُ حَتَّى يُنتِنَ فهو مَرْقٌ. ويقال إن المُرَاقَةَ: الكَلأُ اليسير، ومعناه أنَّ الأرضَ كأنَّها تجرَّدت ومَرِقَت.",
- "az": "«مرق» (maraqa) — mim, ra və qaf hərflərindən ibarət səhih bir kök olub bir şeyin başqa bir şeydən çıxmasına dəlalət edir. Bunlardan biri اَلمَرَق (al-maraq) — bulyondur, çünki o, ətdən çıxan bir şeydir. أَمْرَقْتُ القِدْرَ وَمَرَقْتُهَا (amraqtu al-qidra wa maraqtuhَا) (١). اَلمُروق (al-muruq): bir şeydən çıxmaq. مَرَقَ السَّهْمُ مِنَ الرَّمِيَّةِ (maraqa as-sahmu min ar-ramiyyati): ox ovdan (hədəfdən) keçib çıxdı. مَرَقْتُ الإِهَابَ (maraqtu al-ihaba) (٢) — dəridən yununu qırxdın, bu səhih bir qaydadır, çünki sən elə bil dərini yunundan ayırıb üzə çıxardın. Dəri üfunət verənə qədər suda saxlanıldıqda o, مَرْق (marq) olar. Deyilir ki, اَلمُرَاقَة (al-muraqa): az otlaqdır, mənası budur ki, yer elə bil soyulmuş və çılpaqlaşmışdır.",
+ "az": "[مرق]\nالميم (mim), الراء (ra) və القاف (qaf) bir şeyin başqa bir şeydən çıxmasına dəlalət edən səhih bir kökdür. Bunlardan biri المَرَق (bulyon) — çünki o, ətdən çıxan bir şeydir. وأمْرَقْتُ القِدرَ ومَرَقْتُها (qazanın bulyonunu çoxaltdım) (١).\nوالمُروق — bir şeydən çıxmaqdır. ومرق السهمُ من الرَّمِيَّة — ox ovun (hədəfin) digər tərəfindən çıxdı (dəlib keçdi). ومرقت الإهاب (٢) — dəridən yunu qırxdıqda deyilir; bu səhih bir qiyasdır, çünki sən sanki dərini tukündən ayırıb üzə çıxarmısan. İpləməyə (suya) qoyulub üfunət verənə qədər saxlanılan dəri مَرْقٌ adlanır. Deyilir ki, المُرَاقَةَ — az otlaqdır; mənası budur ki, yer sanki lüt-üryan olub soyulmuşdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:16.071Z"
+ "ts": "2026-10-26T00:52:16.071Z",
+ "prev_az": "«مرق» (maraqa) — mim, ra və qaf hərflərindən ibarət səhih bir kök olub bir şeyin başqa bir şeydən çıxmasına dəlalət edir. Bunlardan biri اَلمَرَق (al-maraq) — bulyondur, çünki o, ətdən çıxan bir şeydir. أَمْرَقْتُ القِدْرَ وَمَرَقْتُهَا (amraqtu al-qidra wa maraqtuhَا) (١). اَلمُروق (al-muruq): bir şeydən çıxmaq. مَرَقَ السَّهْمُ مِنَ الرَّمِيَّةِ (maraqa as-sahmu min ar-ramiyyati): ox ovdan (hədəfdən) keçib çıxdı. مَرَقْتُ الإِهَابَ (maraqtu al-ihaba) (٢) — dəridən yununu qırxdın, bu səhih bir qaydadır, çünki sən elə bil dərini yunundan ayırıb üzə çıxardın. Dəri üfunət verənə qədər suda saxlanıldıqda o, مَرْق (marq) olar. Deyilir ki, اَلمُرَاقَة (al-muraqa): az otlaqdır, mənası budur ki, yer elə bil soyulmuş və çılpaqlaşmışdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mötərizə daxilində ərəb və latın hərfləri qarışmışdır («maraqtuhَا»).",
+  "«أمرقت القدر ومقرتها» ifadəsinin mənası verilşməyib yarımçıq buraxılmışdır.",
+  "Ərəbcə sitatların hərəkələri dəyişdirilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:06:59.449Z"
 }

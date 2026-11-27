@@ -11,7 +11,18 @@
   "page_to": 318
  },
  "ar": "الميم والزاء والقاف أصلٌ صحيح يدلُّ على تخرُّقٍ في شَيء ومَزَقه يَمْزِقُه، ومزَّقَه يمزِّقه. والمِزَق: قطاع الثّوب الممزوق. وناقةٌ مِزَاقٌ:\nسريعةٌ جدًّا يكاد يتمزَّق عنها جِلدُها. ومَزَق الطَّائرُ بذَرْقِهِ: رمى به. ومزَّقت القومَ: فرّقتهم فتمزَّقُوا.",
- "az": "«مزق» (mazaqa) — mim, zay və qaf hərflərindən ibarət səhih bir kök olub bir şeyin cırılmasına dəlalət edir. مَزَقَهُ يَمْزِقُهُ (mazaqahu yamziquhu) və مَزَّقَهُ يُمَزِّقُهُ (marraqahu yumazziquhu). اَلْمِزَقُ (al-mizaqu): cırılmış paltar parşaları. نَاقَةٌ مِزَاقٌ (naqatun mizaqun): dərisi üstündən cırılacaq qədər çox sürətli dəvə. مَزَقَ الطَّائِرُ بِذَرْقِهِ (mazaqa aṭ-ṭa'iru bi-żarqihi): quş peyvəndini/nəcisini atdı. مَزَّقْتُ القَوْمَ فَتَمَزَّقُوا (marraqtu al-qawma fatamarraqu): qövmü dağıtdım, onlar da dağılışdılar.",
+ "az": "[مزق]\nMim, zey və qaf (hərfləri) bir şeydə cırılmağa dəlalət edən səhih bir kökdür; مَزَقه يَمْزِقُه، ومزَّقَه يمزِّقه (onu cırdı, parçaladı). والمِزَق (əl-mizəq): cırılmış paltar parçalarıdır. وناقةٌ مِزَاقٌ (mizəq dişi dəvə):\ndərisi üzərindən cırılacaq dərəcədə çox sürətli (dəvədir). ومَزَق الطَّائرُ بذَرْقِهِ (Quş peyini/nəcisini atdı). ومزَّقت القومَ (Qövmü dağıtdım): onları pərən-pərən saldım, فتمزَّقُوا (onlar da dağılışdılar).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:16.071Z"
+ "ts": "2026-10-26T00:52:16.071Z",
+ "prev_az": "«مزق» (mazaqa) — mim, zay və qaf hərflərindən ibarət səhih bir kök olub bir şeyin cırılmasına dəlalət edir. مَزَقَهُ يَمْزِقُهُ (mazaqahu yamziquhu) və مَزَّقَهُ يُمَزِّقُهُ (marraqahu yumazziquhu). اَلْمِزَقُ (al-mizaqu): cırılmış paltar parşaları. نَاقَةٌ مِزَاقٌ (naqatun mizaqun): dərisi üstündən cırılacaq qədər çox sürətli dəvə. مَزَقَ الطَّائِرُ بِذَرْقِهِ (mazaqa aṭ-ṭa'iru bi-żarqihi): quş peyvəndini/nəcisini atdı. مَزَّقْتُ القَوْمَ فَتَمَزَّقُوا (marraqtu al-qawma fatamarraqu): qövmü dağıtdım, onlar da dağılışdılar.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[مزق]» formatı ilə başlamır və ərəbcə ifadələrin yazılışı AR-dakı ilə eyni deyil.",
+  "«مَزَقَهُ يَمْزِقُهُ وَمَزَّقَهُ يُمَزِّقُهُ» ifadəsi tərcüməsiz qalıb.",
+  "«بِذَرْقِهِ» sözü «peyvəndini» kimi yanlış tərcümə edilib (nəcis/peyin olmalıdır) və «parşaları» orfoqrafik səhvi var."
+ ],
+ "review_ts": "2026-11-27T14:02:51.286Z"
 }

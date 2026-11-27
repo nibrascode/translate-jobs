@@ -13,5 +13,10 @@
  "ar": "الميم والحاء والنون كلماتٌ ثلاثٌ على غير قياس.\nالأولى المَحْن: الاختبار. ومَحَنَه وامتحنه.\nوالثانية: أتيتُه فما مَحَنني شيئًا، أي ما أعطانيه.\nوالثالثة مَحَنَه سَوطاً: ضربَه.",
  "az": "[محن] (Mim, ha və nun): Qiyasasız üç sözdür.\nBirincisi: «المَحْن» (əl-məhn) – imtahan etmək, yoxlamaq. «مَحَنَه وامتحنه» (məhənəhu və-imtəhənəhu) – onu sınadı və imtahan etdi.\nİkincisi: «أتيتُه فما مَحَنني شيئًا» (ətaytühu fəmə məhənəni şeyən) – yəni yanına gəldim, lakin mənə heç bir şey əta etmədi, vermədi.\nÜçüncüsü: «مَحَنَه سَوطاً» (məhənəhu savtən) – onu qamçı ilə vurdu.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T13:51:25.711Z"
 }

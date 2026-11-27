@@ -13,5 +13,10 @@
  "ar": "النون والهاء والشين أصل صحيح، ومعناه معنى الذي قبله.\nقال ابن دريد (٤): قال الأصمعىّ. النّهس والنّهش واحد، وهو أخذ اللّحم بالفم.\nوخالفه أبو زيد فقال: النّهش: بمقدّم الفم.",
  "az": "[نهش] (NUN, HƏ və ŞİN) - səhih bir kökdür, mənası özündən əvvəlki sözün mənasındadır. İbn Dürid demişdir (٤): Əsməi demişdir: «النّهس» və «النّهش» eyni mənanı verir, bu da ağızla ət qoparmaqdır. Əbu Zeyd ona qarşı çıxaraq demişdir: «النّهش» - ön dişlərlə edilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:46.772Z"
+ "ts": "2026-10-26T00:54:46.772Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T14:45:35.270Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 458
  },
  "ar": "النون والفاء والدال: أصلٌ صحيحٌ يدلُّ على انقطاعِ شيء وفَنائِه. ونفِدَ الشّيءُ يَنفَد نَفاداً: وأنفَدُوا: فَنِيَ زادُهم. ويقال للخَصْم مُنافِدٌ، وذلك أن يَتخاصمَ الرَّجُلانِ يريد كلٌّ منهما إنفادَ حجَّةِ صاحِبه. و\nفي الحديث:\n«إنْ نافَدْتَهم نافَدُوك». أي إنْ قلتَ لهم قالوا لك.",
- "az": "[نفد] (nəfəd): Nun, fa və dal hərfləri bir şeyin kəsilməsinə və tükənməsinə dəlalət edən səhih bir əsldir. نفِدَ الشّيءُ يَنفَد نَفاداً (nəfidəl-şəyyü yənfədü nəfadan) – şey tükəndi. وأنفَدُوا (və ənfədü) – azuqələri tükəndi. Rəqibə مُنافِدٌ (münafid) deyilir, bu da iki kişinin hər birinin digərinin dəlilini tükəltmək istəyərək bir-biri ilə çəkişməsinə görədir. Hədisdə gəlmişdir: «إنْ نافَدْتَهم نافَدُوك» (İn nafadْتəhüm nafaduk) – yəni, əgər siz onlarla mübahisə etsəniz, onlar da sizinlə mübahisə edərlər.",
+ "az": "[نفد]\nNun, fa və dal hərfləri bir şeyin kəsilməsinə və tükənməsinə dəlalət edən səhih bir əsldir. نفِدَ الشّيءُ يَنفَد نَفاداً (şey tükəndi). وأنفَدُوا (azuqələri tükəndi). Rəqibə مُنافِدٌ deyilir; bu da iki kişinin hər birinin digərinin dəlilini tükəltmək istəyərək bir-biri ilə çəkişməsinə görədir.\nHədisdə gəlmişdir:\n«إنْ نافَدْتَهم نافَدُوك» («Əgər onlarla çəkişsən, onlar da səninlə çəkişərlər»). Yəni: əgər sən onlara [bir söz] desən, onlar da sənə [cavabını] deyərlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:02:03.385Z"
+ "ts": "2026-10-26T01:02:03.385Z",
+ "prev_az": "[نفد] (nəfəd): Nun, fa və dal hərfləri bir şeyin kəsilməsinə və tükənməsinə dəlalət edən səhih bir əsldir. نفِدَ الشّيءُ يَنفَد نَفاداً (nəfidəl-şəyyü yənfədü nəfadan) – şey tükəndi. وأنفَدُوا (və ənfədü) – azuqələri tükəndi. Rəqibə مُنافِدٌ (münafid) deyilir, bu da iki kişinin hər birinin digərinin dəlilini tükəltmək istəyərək bir-biri ilə çəkişməsinə görədir. Hədisdə gəlmişdir: «إنْ نافَدْتَهم نافَدُوك» (İn nafadْتəhüm nafaduk) – yəni, əgər siz onlarla mübahisə etsəniz, onlar da sizinlə mübahisə edərlər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Müəllifin hədislə bağlı verdiyi izah yanlış tərcümə olunmuşdur, mətnin daxilində pozulmuş latın transkripsiyası hissələri var."
+ ],
+ "review_ts": "2026-11-27T15:01:08.796Z"
 }

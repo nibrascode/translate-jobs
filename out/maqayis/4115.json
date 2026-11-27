@@ -11,7 +11,16 @@
   "page_to": 419
  },
  "ar": "النون والزاء والراء أُصَيلٌ يدلُّ على قِلَّةٍ في الشيء. ونَزُرَ الشيءُ نَزارةً. وشيءٌ نَزْرٌ: قليل. وعَطاءٌ منزور: مقلَّل. وامرأةٌ نَزورٌ: قليلة الولَد. قال:\nبُغاثُ الطّيرِ أكثرها فِراخاً … وأمُّ الصَّقرِ مقلاتٌ نَزور (١)\nوقولهم: نَزَرْتُ الرّجلَ: ألححت عليه، وقولهم: لا يُعطِي حتَّى يُنْزَر، أي يلحَّ عليه، فهو شاذٌّ عن الأصل الذي ذكرناه، وله قياسٌ آخر.",
- "az": "[نزر] (nəzərə): Nun, zay və ra bir şeydə azlığa dəlalət edən kiçik bir əsldir. Nəzürəş-şəy-u nəzarətən (şey azaldı). Şəy-un nəzrun (az şey). Ataun mənzurun (azaldılmış bəxşiş). İmraətun nəzurun (az doğan qadın). Şair demişdir:\nبُغاثُ الطّيرِ أكثرها فِراخاً … وأمُّ الصَّقرِ مقلاتٌ نَزور (١)\n(Quşların zəifləri balaları ən çox olanlardır, şahin anası isə uşağı tez ölənlərdən və az doğandır.)\n\nVə onların “nəzərtür-rəcülə: ona israr etdim” sözləri, həmçinin “inzər edilənə qədər verməz, yəni ona israr olunmayınca verməz” sözləri zikr etdiyimiz əsldən şazdır və onun başqa bir qiyas, üsulu vardır.",
+ "az": "[نزر] Nun, zay və ra bir şeydə azlığa dəlalət edən kiçik bir əsldir. نَزُرَ الشَّيْءُ نَزَارَةً (şey azaldı). شَيْءٌ نَزْرٌ (az şey). عَطَاءٌ مَنْزُورٌ (azaldılmış bəxşiş). امْرَأَةٌ نَزُورٌ (az doğan qadın). Şair demişdir:\nبُغاثُ الطّيرِ أكثرها فِراخاً … وأمُّ الصَّقرِ مقلاتٌ نَزور (١)\n(Zəif quşlar balası ən çox olanlardır, şahin anası isə balası az yaşayan və az doğandır.)\n\nOnların نَزَرْتُ الرَّجُلَ («kişiyə israr etdim») sözləri və لاَ يُعْطِي حَتَّى يُنْزَر («məcbur edilməyincə/israr olunmayınca verməz») sözləri isə zikr etdiyimiz əsldən şazdır və onun başqa bir qiyası vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:59:16.418Z"
+ "ts": "2026-10-26T00:59:16.418Z",
+ "prev_az": "[نزر] (nəzərə): Nun, zay və ra bir şeydə azlığa dəlalət edən kiçik bir əsldir. Nəzürəş-şəy-u nəzarətən (şey azaldı). Şəy-un nəzrun (az şey). Ataun mənzurun (azaldılmış bəxşiş). İmraətun nəzurun (az doğan qadın). Şair demişdir:\nبُغاثُ الطّيرِ أكثرها فِراخاً … وأمُّ الصَّقرِ مقلاتٌ نَزور (١)\n(Quşların zəifləri balaları ən çox olanlardır, şahin anası isə uşağı tez ölənlərdən və az doğandır.)\n\nVə onların “nəzərtür-rəcülə: ona israr etdim” sözləri, həmçinin “inzər edilənə qədər verməz, yəni ona israr olunmayınca verməz” sözləri zikr etdiyimiz əsldən şazdır və onun başqa bir qiyas, üsulu vardır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "İzah edilən ərəb sözləri ərəb qrafikası ilə saxlanılmalıdır."
+ ],
+ "review_ts": "2026-11-27T14:52:45.690Z"
 }

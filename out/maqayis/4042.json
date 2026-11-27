@@ -11,7 +11,18 @@
   "page_to": 386
  },
  "ar": "النون والتاء والخاء كلمةٌ تدلُّ على استخراج الشَّيء من الشّيء.\nونتخ الشَّوكَةَ مِنَ الرِّجل بالمِنْتاخ، أي المنقاش. ونَتَخ البازِي اللحمَ بمِنْسرِه، ونَتَخَ ضِرسَه: انتزعَه. قال زُهير:\nتَتركُ أفلاءَها فى كلِّ مَنزِلةٍ … تَنْتَخُ أعْيُنَها العِقبانُ والرَّخَمُ (٢)\nويقولون: المتَنَتِّخُ (٣): المتفلِّي. والبِساط المنتوخ بالذَّهب: المنسوج به. والنَّتْخ:\nالنَّسْج، عن ابن الأعرابىّ.",
- "az": "«نتخ» (nətəx) — Nun, ta və xa hərflərindən ibarət olub bir şeyi başqa bir şeydən çıxarmağa dəlalət edən bir köndür.\n\nنَتَخَ الشَّوكَةَ مِنَ الرِّجل بالمِنْتاخ (ayaqdan tikanı mintax, yəni kəlbətin ilə çıxartdı). وَنَتَخَ البازِي اللحمَ بمِنْسرِه (şahin əti dimdiyi ilə qopardı). وَنَتَخَ ضِرسَه (dişini qoparıb çıxartdı). Züheyr demişdir:\nتَتركُ أفلاءَها فى كلِّ مَنزِلةٍ … تَنْتَخُ أعْيُنَها العِقبانُ والرَّخَمُ (٢)\n(Balalarını hər mənzildə buraxırlar... quzğunlar və kərkəzlər onların gözlərini qoparıb çıxarırlar).\n\nVə deyirlər: المتَنَتِّخُ (٣) (bit ayıklayan). والبِساط المنتوخ بالذَّهب (qızıldan toxunmuş xalça). وَالنَّتْخُ: النَّسْج (toxumaq), İbn əl-Ərabidən rəvayət olunmuşdur.",
+ "az": "[نتخ]\nالنون والتاء والخاء (nun, ta və xa) bir şeyi başqa bir şeydən çıxarmağa dəlalət edən bir kökdür. «نتخ الشَّوكَةَ مِنَ الرِّجل بالمِنْتاخ، أي المنقاش» (tikanı ayaqdan mintax, yəni kəlbətin/biz ilə çıxartdı). «نَتَخ البازِي اللحمَ بمِنْسرِه» (qızılquş əti dimdiyi ilə qopardı), «نَتَخَ ضِرسَه: انتزعَه» (dişini kökündən qoparıb çıxartdı). Züheyr demişdir:\nتَتركُ أفلاءَها فى كلِّ مَنزِلةٍ … تَنْتَخُ أعْيُنَها العِقبانُ والرَّخَمُ (٢)\n(Onlar [vəhşi eşşəklər] tayçalarını hər mənzildə tərk edirlər, qartallar və kərkəzlər onların gözlərini qoparıb çıxarırlar).\nDeyirlər: «المتَنَتِّخُ» (əl-mutənəttikh): «المتفلِّي» (bit təmizləyən). «البِساط المنتوخ بالذَّهب» (qızıllarla toxunmuş xalça). «النَّتْخ: النَّسْج» (ən-nətkh: toxumaq), İbn əl-Ərabidən rəvayət olunmuşdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:56:21.745Z"
+ "ts": "2026-10-26T00:56:21.745Z",
+ "prev_az": "«نتخ» (nətəx) — Nun, ta və xa hərflərindən ibarət olub bir şeyi başqa bir şeydən çıxarmağa dəlalət edən bir köndür.\n\nنَتَخَ الشَّوكَةَ مِنَ الرِّجل بالمِنْتاخ (ayaqdan tikanı mintax, yəni kəlbətin ilə çıxartdı). وَنَتَخَ البازِي اللحمَ بمِنْسرِه (şahin əti dimdiyi ilə qopardı). وَنَتَخَ ضِرسَه (dişini qoparıb çıxartdı). Züheyr demişdir:\nتَتركُ أفلاءَها فى كلِّ مَنزِلةٍ … تَنْتَخُ أعْيُنَها العِقبانُ والرَّخَمُ (٢)\n(Balalarını hər mənzildə buraxırlar... quzğunlar və kərkəzlər onların gözlərini qoparıb çıxarırlar).\n\nVə deyirlər: المتَنَتِّخُ (٣) (bit ayıklayan). والبِساط المنتوخ بالذَّهب (qızıldan toxunmuş xalça). وَالنَّتْخُ: النَّسْج (toxumaq), İbn əl-Ərabidən rəvayət olunmuşdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format pozulmuşdur: baş söz «[نتخ]» şəklində verilməmişdir.",
+  "«kökdür» sözü «köndür» kimi səhv yazılmışdır.",
+  "«أي المنقاش» ərəbcə ifadəsi ixtisar edilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:47:58.916Z"
 }

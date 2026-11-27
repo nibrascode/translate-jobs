@@ -11,7 +11,17 @@
   "page_to": 420
  },
  "ar": "النون والسين والفاء أصلٌ صحيح يدلُّ على كَشْف شيء.\nوانتسفَت الرِّيحُ الشَّيءَ مثلَ التُّراب والعَصْف، كأنّها كشفَتْه عن وجه الأرض وسلبته. ونَسْفُ البِناءِ: استِئْصالُه قَطعاً. ويقال للرُّغوة: النُّسَافة (٢)، لأنّها تُنْتَسَف عن وجه اللَّبَن. وقولهم انتُسِفَ لونُه من ذلك. وبَعيرٌ نَسوفٌ: يقلع\nالنَّباتَ عن الأرض بمقدَّم فيه: وحكى ناسٌ: هما يتناسفان، أي يتسارَّان.\nوالقياسُ واحد. كأنَّ هذا يَنسِف ما عند ذاك. وذاك ما عندَ هذا.",
- "az": "[نسف] (nəsəfə): Nun, sin və fa bir şeyi üzə çıxarmağa, qaldırmağa dəlalət edən səhih əsldir.\n\nKülək torpaq və əsən ot kimi şeyi intəsəfət etdi (sorub apardı, yerin üzündən təmizlədi), sanki onu yerin üzündən açıb soydu. Bənnanın nəfsü (bina tikilisini kökündən kəsib qoparmaq). Köpüyə ən-nüsafə (٢) deyilir, çünki o, südün üzərindən götürülür. Onların “bunun üzündən rəngi intüsif oldu (soldu, qaçdı)” sözləri dəridəndir. Və bəirun nəsufun (burun önü ilə torpaqdan bitkini qoparıb yeyən dəvə). Bəzi adamlar rəvayət etmişdir: “Həma yətnasəfani (ikisi bir-birinə sirr danışır, pıçıldaşırlar)”, yəni bu, o birinin yanında olanı götürür, o da bunun yanında olanı götürür. Qiyas eynidir, sanki bu, o birinin yanında olanı qaldırır, o da bunun yanında olanı.",
+ "az": "[نسف] Nun, sin və fa bir şeyi açmağa, söküb götürməyə dəlalət edən səhih əsldir.\n\nانْتَسَفَتِ الرِّيحُ الشَّيْءَ (külək torpaq və samanı qoparıb apardı), sanki onu yerin üzündən soyub sökdü. نَسْفُ الْبِنَاءِ (tikilini kökündən kəsib sökək). Köpüyə النُّسَافَة (ən-nüsafə) deyilir (٢), çünki o, südün üzərindən sıyrılıb götürülür. Onların انْتُسِفَ لَوْنُهُ («rəngi soldu, qaçdı») sözü də bundandır. بَعِيرٌ نَسُوفٌ (ağzının önü ilə otu torpaqdan qoparıb yeyən dəvə). Bəzi adamlar rəvayət etmişlər: هُمَا يَتَنَاسَفَانِ («o ikisi pıçıldaşır, sirləşirlər»), yəni bu, o birinin yanında olanı söküb götürür, o da bunun yanında olanı. Qiyas eynidir, sanki bu, o birinin yanında olanı söküb çıxarır, o da bunun yanında olanı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:59:16.418Z"
+ "ts": "2026-10-26T00:59:16.418Z",
+ "prev_az": "[نسف] (nəsəfə): Nun, sin və fa bir şeyi üzə çıxarmağa, qaldırmağa dəlalət edən səhih əsldir.\n\nKülək torpaq və əsən ot kimi şeyi intəsəfət etdi (sorub apardı, yerin üzündən təmizlədi), sanki onu yerin üzündən açıb soydu. Bənnanın nəfsü (bina tikilisini kökündən kəsib qoparmaq). Köpüyə ən-nüsafə (٢) deyilir, çünki o, südün üzərindən götürülür. Onların “bunun üzündən rəngi intüsif oldu (soldu, qaçdı)” sözləri dəridəndir. Və bəirun nəsufun (burun önü ilə torpaqdan bitkini qoparıb yeyən dəvə). Bəzi adamlar rəvayət etmişdir: “Həma yətnasəfani (ikisi bir-birinə sirr danışır, pıçıldaşırlar)”, yəni bu, o birinin yanında olanı götürür, o da bunun yanında olanı götürür. Qiyas eynidir, sanki bu, o birinin yanında olanı qaldırır, o da bunun yanında olanı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "İzah edilən ərəb sözləri ərəb qrafikası ilə saxlanılmalıdır.",
+  "«نسف البناء» ifadəsi tərcümədə təhrif olunmuşdur."
+ ],
+ "review_ts": "2026-11-27T14:52:45.691Z"
 }

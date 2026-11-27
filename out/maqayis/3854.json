@@ -11,7 +11,19 @@
   "page_to": 317
  },
  "ar": "الميم والراء والخاء كلمةٌ صحيحة تدلُّ على تليينٍ في شيء.\nومَرَخْتُ (١) الجِلْدَ بالدُّهْن وأمرَخْتُه. وأمْرَخْتُ العجينَ: أكثرتُ ماءَه حتى يسترخىَ. والمَرْخ: شجرٌ سريع الوَرْى. قال:\nأَمَرْخٌ خيامُهُمْ أم عُشَرْ … أم القلبُ في إثرهم مُنحدِرْ (٢)\nومما شذَّ عن هذا الباب المِرِّيخ: سهمٌ طويل يُقتَدَرُ به الغِلاء (٣)، له أربع قُذَذ؛ وهو نجمٌ أيضاً.",
- "az": "«مرخ» (maraža) — mim, ra və xa hərflərindən ibarət səhih bir kəlmə olub bir şeyi yumşaltmağa dəlalət edir. مَرَخْتُ الجِلْدَ بِالدُّهْنِ وَأَمْرَخْتُهُ (maraxtu al-jilda bi-ad-duhni wa amraxtuhu). أَمْرَخْتُ العَجِينَ (amraxtu al-‘ajina): yumşalsın deyə xəmirə çox su əlavə etdim. اَلمَرْخ (al-marx): oduncağı tez alışan ağac. O demişdir: أَمَرْخٌ خِيَامُهُمْ أَمْ عُشَرْ … أَمِ القَلْبُ فِي إِثْرِهِمْ مُنْحَدِرْ (amarxun xiyamuhum am 'uşaru... am al-qalbu fi ithrihim munhadir). Bu bölmədən şaz olan اَلْمِرِّيخ (al-mirrix): bahaçılığı ölçmək üçün istifadə olunan, dörd lələyi olan uzun oxdur; həmçinin ulduzun adıdır.",
+ "az": "[مرخ]\nMim, ra və xa (hərfləri) bir şeydə yumşaltmağa dəlalət edən səhih bir kəlmədir.\nمَرَخْتُ (١) الجِلْدَ بالدُّهْن وأمرَخْتُه (Dərini yağla yağladım və yumşaltdım). وأمْرَخْتُ العجينَ (Xəmiri yumşaltdım): yumşalsın deyə suyunu çox etdim. والمَرْخ (əl-mərx): tez alışan ağacdır. (Şair) demişdir:\nأَمَرْخٌ خيامُهُمْ أم عُشَرْ … أم القلبُ في إثرهم مُنحدِرْ (٢) (Onların çadırları mərx ağacındandırmı, yoxsa üşər ağacından... yoxsa qəlb onların ardınca enməkdədir?)\nBu babdan şaz olanlardan biri المِرِّيخ (əl-mirrix) sözüdür: məsafəni ölçmək üçün istifadə olunan dörd lələkli uzun oxdur (٣); həmçinin bir ulduzun da adıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:16.071Z"
+ "ts": "2026-10-26T00:52:16.071Z",
+ "prev_az": "«مرخ» (maraža) — mim, ra və xa hərflərindən ibarət səhih bir kəlmə olub bir şeyi yumşaltmağa dəlalət edir. مَرَخْتُ الجِلْدَ بِالدُّهْنِ وَأَمْرَخْتُهُ (maraxtu al-jilda bi-ad-duhni wa amraxtuhu). أَمْرَخْتُ العَجِينَ (amraxtu al-‘ajina): yumşalsın deyə xəmirə çox su əlavə etdim. اَلمَرْخ (al-marx): oduncağı tez alışan ağac. O demişdir: أَمَرْخٌ خِيَامُهُمْ أَمْ عُشَرْ … أَمِ القَلْبُ فِي إِثْرِهِمْ مُنْحَدِرْ (amarxun xiyamuhum am 'uşaru... am al-qalbu fi ithrihim munhadir). Bu bölmədən şaz olan اَلْمِرِّيخ (al-mirrix): bahaçılığı ölçmək üçün istifadə olunan, dörd lələyi olan uzun oxdur; həmçinin ulduzun adıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[مرخ]» formatı ilə başlamır.",
+  "«مَرَخْتُ الجِلْدَ بِالدُّهْنِ وَأَمْرَخْتُهُ» ifadəsi və şeir beyti tərcüməsiz qalıb.",
+  "«الغِلاء» sözü oxçuluqdakı məsafə əvəzinə «bahaçılıq» kimi yanlış tərcümə edilib.",
+  "Haşiyə rəqəmləri (١), (٢), (٣) buraxılıb və ərəbcə ifadələrin yazılışı AR mətninə uyğun deyil."
+ ],
+ "review_ts": "2026-11-27T14:02:51.285Z"
 }

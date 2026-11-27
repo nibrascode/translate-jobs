@@ -11,7 +11,16 @@
   "page_to": 424
  },
  "ar": "النون والسين والباء كلمةٌ واحدة قياسُها اتِّصال شيء بشيء.\nمنه النّسَب، سمِّي لاتِّصاله وللاتِّصالِ به. تقول: نَسَبْتُ أنْسِبُ. وهو نَسِيبُ فلانٍ. ومنه النَّسيبُ في الشِّعر إلى المرأةُ، كأنّه ذِكْرٌ يتَّصِل بها؛ ولا يكون إلاَّ\nفي النِّساءِ. تقول منه: نَسَبْتُ أنْسِبُ. والنّسيبُ: الطريق [المستقيم (١)]، لاتِّصال بعضِه من بعض.",
- "az": "[نسب] (nəsb) — Nun, sin və ba bir kəlmədir, onun qiyasəti bir şeyin digər şeyə bitişməsidir.\n\nOndan əl-nəsəb (nəsil, soy) gəlir, öz bitişməsinə və ona bitişildiyinə görə belə adlandırılmışdır. Deyirsən: نَسَبْتُ أنْسِبُ (mən nəsəbini təyin edirəm / soyunu qeyd edirəm). Və o, فلانٍ نَسِيبُ (filankəsin qohumudur). Buradan qadına aid şeirdə olan əl-nəsib (eşq-məhəbbət şeiri) gəlir, guya o, qadına bitişən bir xatırlamadır; o, yalnız qadınlara aid olur. Bundan deyirsən: نَسَبْتُ أنْسِبُ. Və النَّسيب (ən-nəsib): [düz (١)] yoldur, çünki onun bir hissəsi digərinə bitişir.",
+ "az": "[نسب]\nNun, sin və ba bir kəlmədir, onun qiyasəti bir şeyin digər şeyə bitişməsidir.\n\nOndan النّسَب (nəsil, soy) gəlir, öz bitişməsinə və ona bitişildiyinə görə belə adlandırılmışdır. Deyirsən: نَسَبْتُ أنْسِبُ (soyunu təyin edirəm). Və o, نَسِيبُ فلانٍ (filankəsin qohumudur). Buradan qadına aid şeirdə olan النَّسيب (eşq-məhəbbət şeiri) gəlir, guya o, qadına bitişən bir xatırlamadır; o, yalnız qadınlara aid olur. Bundan deyirsən: نَسَبْتُ أنْسِبُ. Və النَّسيب (ən-nəsib): [düz (١)] yoldur, çünki onun bir hissəsi digərinə bitişir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:59:38.830Z"
+ "ts": "2026-10-26T00:59:38.830Z",
+ "prev_az": "[نسب] (nəsb) — Nun, sin və ba bir kəlmədir, onun qiyasəti bir şeyin digər şeyə bitişməsidir.\n\nOndan əl-nəsəb (nəsil, soy) gəlir, öz bitişməsinə və ona bitişildiyinə görə belə adlandırılmışdır. Deyirsən: نَسَبْتُ أنْسِبُ (mən nəsəbini təyin edirəm / soyunu qeyd edirəm). Və o, فلانٍ نَسِيبُ (filankəsin qohumudur). Buradan qadına aid şeirdə olan əl-nəsib (eşq-məhəbbət şeiri) gəlir, guya o, qadına bitişən bir xatırlamadır; o, yalnız qadınlara aid olur. Bundan deyirsən: نَسَبْتُ أنْسِبُ. Və النَّسيب (ən-nəsib): [düz (١)] yoldur, çünki onun bir hissəsi digərinə bitişir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «نَسِيبُ فلانٍ» söz birləşməsi tərcümədə tərs yazılmışdı («فلانٍ نَسِيبُ»)."
+ ],
+ "review_ts": "2026-11-27T14:53:29.350Z"
 }

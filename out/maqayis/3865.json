@@ -11,7 +11,18 @@
   "page_to": 321
  },
  "ar": "الميم والسين واللام. يقولون: المَسَل، والجمع مُسْلَانٌ: خدٌّ في الأرض ينقاد ويستطيل. وأمّا المسيل فالميم [فيه زائدة، وهو (٢)] من باب السين. [ومُسَالا الرّجُل: جانبا لَحييه، الواحد مُسَال، يكون هذا مِنْ أُسِيلَ فهو مُسَالٌ. فإِن كان كذا فمكانُه غير هذا (٣)]. قال:\n* فلو كان في الحىِّ النَّجِىِّ سوَادُهُ … لما مَسَحَت تلك المُسَالاتِ عامرُ (٤)",
- "az": "[مسل] (Məsəl) Mim, sin və lam hərfləri. Deyirlər: Əl-məsəl (المَسَل), cəmi isə muslan (مُسْلَانٌ) — yer üzündə uzanıb gedən dərə, yol çökəkliyidir. Lakin əl-məsilə gəldikdə, mim [orada artıqdır və o (2)] sin babındandır. [Və kişinin musalanı (مُسَالا الرّجُل) — çənəsinin iki yanı, təkliyi musaldır (مُسَال), bu, «üsilə» (أُسِيلَ) sözündəndir, yəni o, musaldır. Əgər belədirsə, onun yeri başqa yerdir (3)]. Şair demişdir: * فلو كان في الحىِّ النَّجِىِّ سوَادُهُ … لما مَسَحَت تلك المُسَالاتِ عامرُ (4) (Əgər o gizli qəbilədə onun qarası olsaydı... Amir o dərəcikləri silməzdi).",
+ "az": "[مسل] Mim, sin və lam hərfləri. Deyirlər: المَسَل (əl-məsəl), cəmi isə مُسْلَانٌ (muslan) — yer üzündə uzanıb gedən dərə, yol çökəkliyidir. المسيل (əl-məsil) sözünə gəldikdə, mim [orada artıqdır və o (٢)] sin babındandır. [مُسَالا الرّجُل (musala ər-rəcül) — kişinin çənəsinin iki yanı, təkliyi مُسَال (musal)dır; bu, أُسِيلَ (usilə) sözündəndir, yəni o, مُسَالٌ (musal)dır. Əgər belədirsə, onun yeri başqa yerdir (٣)]. Şair demişdir:\n* فلو كان في الحىِّ النَّجِىِّ سوَادُهُ … لما مَسَحَت تلك المُسَالاتِ عامرُ (٤) (Əgər o gizli qəbilədə onun qarası olsaydı... Amir o çənə yanlarını silməzdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:39.418Z"
+ "ts": "2026-10-26T00:52:39.418Z",
+ "prev_az": "[مسل] (Məsəl) Mim, sin və lam hərfləri. Deyirlər: Əl-məsəl (المَسَل), cəmi isə muslan (مُسْلَانٌ) — yer üzündə uzanıb gedən dərə, yol çökəkliyidir. Lakin əl-məsilə gəldikdə, mim [orada artıqdır və o (2)] sin babındandır. [Və kişinin musalanı (مُسَالا الرّجُل) — çənəsinin iki yanı, təkliyi musaldır (مُسَال), bu, «üsilə» (أُسِيلَ) sözündəndir, yəni o, musaldır. Əgər belədirsə, onun yeri başqa yerdir (3)]. Şair demişdir: * فلو كان في الحىِّ النَّجِىِّ سوَادُهُ … لما مَسَحَت تلك المُسَالاتِ عامرُ (4) (Əgər o gizli qəbilədə onun qarası olsaydı... Amir o dərəcikləri silməzdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«المسيل» baş sözünün ərəbcə yazılışı buraxılmışdır.",
+  "Şeirdəki «المُسَالات» (çənənin iki yanı) sözü səhvən «dərəcikləri» kimi tərcümə edilmişdir.",
+  "Haşiyə rəqəmləri ərəb rəqəmi ilə (٢, ٣, ٤) deyil, latın rəqəmi ilə verilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:04:59.749Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 482
  },
  "ar": "النون والميم والغين كلمةٌ تدلُّ على أعلى شيء. ونَمغَة الجبل:\nأعلاه. والنَّمَغة: ما تحرَّكَ من يافوخ الصَّبِىّ أوّلَ ما يُولَد.",
- "az": "«نمغ» (النون والميم والغين): nун, mim və ğeyn hərflərindən ibarət olub bir şeyin ən yüksək nöqtəsinə dəlalət edən bir sözdür. نَمغَة الجبل (nəmğətül-cəbəl): dağın ən uca yeri. والنَّمَغة (النَّمغة): uşağın yeni doğulduğu vaxt kəllə sümüyünün tərpənən yeri (bıngıldaq).",
+ "az": "[نمغ] Nun, mim və ğeyn bir şeyin ən uca nöqtəsinə dəlalət edən bir sözdür. ونَمغَة الجبل – dağın ən uca yeri. والنَّمَغة – uşağın yeni doğulduğu zaman kəllə sümüyünün tərpənən yeri (bıngıldaq).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:03:59.927Z"
+ "ts": "2026-10-26T01:03:59.927Z",
+ "prev_az": "«نمغ» (النون والميم والغين): nун, mim və ğeyn hərflərindən ibarət olub bir şeyin ən yüksək nöqtəsinə dəlalət edən bir sözdür. نَمغَة الجبل (nəmğətül-cəbəl): dağın ən uca yeri. والنَّمَغة (النَّمغة): uşağın yeni doğulduğu vaxt kəllə sümüyünün tərpənən yeri (bıngıldaq).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Giriş başlığı standart formatda deyil.",
+  "Hərf adında Kiril əlifbası hərfi («nун») işlədilmişdir.",
+  "Mötərizə daxilində Azərbaycan dilində məna əvəzinə ərəbcə təkrar yazılmışdır."
+ ],
+ "review_ts": "2026-11-27T15:07:33.922Z"
 }

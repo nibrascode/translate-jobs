@@ -11,7 +11,17 @@
   "page_to": 319
  },
  "ar": "الميم والزاء والجيم أصلٌ صحيح يدلُّ على خَلْطِ الشيء بغيره.\nومزَجَ الشّرابَ يَمْزُجُه مَزْجاً. وكأنَّ العَسَلَ يسمَّى المِزْج قالوا: لأنَّه كانَ يُمزَج به كلُّ شراب. قال أبو ذؤيب:\nفجاءَ بِمَزْجٍ لم يَرَ الناسُ مِثلَه … هو الضَّحْكُ إلاّ أنّه عملُ النّحلِ (١)\nوكلُّ نوعٍ من شيئينِ مِزاجٌ لصاحبِه.",
- "az": "[مزج] (Məzəc) Mim, zay və cim hərfləri bir şeyi başqası ilə qarışdırmağa dəlalət edən səhih kökdür. مَزَجَ الشّرابَ يَمْزُجُه مَزْجاً (məzəcə əş-şərabə yəmzucuhu məzçən) — şərabı qarışdırdı. Guya bal «əl-mizc» (المِزْج) adlanır, çünki onunla hər bir içkinin qarışdırıldığı söylənir. Əbu Züəyb demişdir: فجاءَ بِمَزْجٍ لم يَرَ الناسُ مِثلَه … هو الضَّحْكُ إلاّ أنّه عملُ النّحلِ (1) (Özü də insanların bənzərini görmədiyi bir qarışıq gətirdi... O gülüşdür, lakin arının əməyidir). İki şeyin hər bir növü digəri üçün bir «mizac» (مِزاج) sayılır.",
+ "az": "[مزج]\nMim, zey və cim (hərfləri) bir şeyi başqası ilə qarışdırmağa dəlalət edən səhih bir kökdür.\nمَزَجَ الشّرابَ يَمْزُجُه مَزْجاً (İçkini qarışdırdı). Sanki bal المِزْج (əl-mizc) adlanır; dedilər ki, bunun səbəbi hər bir içkinin onunla qarışdırılması idi. Əbu Züəyb demişdir:\nفجاءَ بِمَزْجٍ لم يَرَ الناسُ مِثلَه … هو الضَّحْكُ إلاّ أنّه عملُ النّحلِ (١) (İnsanların bənzərini görmədiyi bir qatışıq [bal] gətirdi... O, [ağlığına görə] ağ diş/ağ bal kimidir, lakin arının əməyidir.)\nİki şeyin hər bir növü digəri üçün مِزاج (mizac) sayılır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:39.418Z"
+ "ts": "2026-10-26T00:52:39.418Z",
+ "prev_az": "[مزج] (Məzəc) Mim, zay və cim hərfləri bir şeyi başqası ilə qarışdırmağa dəlalət edən səhih kökdür. مَزَجَ الشّرابَ يَمْزُجُه مَزْجاً (məzəcə əş-şərabə yəmzucuhu məzçən) — şərabı qarışdırdı. Guya bal «əl-mizc» (المِزْج) adlanır, çünki onunla hər bir içkinin qarışdırıldığı söylənir. Əbu Züəyb demişdir: فجاءَ بِمَزْجٍ لم يَرَ الناسُ مِثلَه … هو الضَّحْكُ إلاّ أنّه عملُ النّحلِ (1) (Özü də insanların bənzərini görmədiyi bir qarışıq gətirdi... O gülüşdür, lakin arının əməyidir). İki şeyin hər bir növü digəri üçün bir «mizac» (مِزاج) sayılır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytindəki «الضَّحْكُ» sözü kontekstə zidd olaraq «gülüş» kimi tərcümə edilib (burada ağlıq / ağ bal mənasındadır).",
+  "Haşiyə rəqəmi (١) latın rəqəmi ilə yazılıb."
+ ],
+ "review_ts": "2026-11-27T14:02:51.287Z"
 }

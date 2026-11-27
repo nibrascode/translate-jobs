@@ -11,7 +11,18 @@
   "page_to": 324
  },
  "ar": "الميم والشين والعين فيه كلماتٌ على غير قياس. يقولون المَشْع:\nضربٌ من الأكل، كأكلِكَ القِثَّاءَ إذا مضغتَها. ويقولون التمشُّع: الاستنجاء.\nو\nذكروا حديثا: «لا تَمَشَّعْ بروثٍ ولا عَظْم». أي لا تَستَنج بهما. وحُكِي عن ابن الأعرابىّ: امتَشَع الرّجُل ثوبَ صاحِبِه واختَلَسه. وذئب مَشُوعٌ.\nويقولون مَشَعْتُ الغَنَم: حَلَبْتُها. ومَشَع: كَسَب وجَمَع.",
- "az": "[مشع] (Məşə) Mim, şın və eyn hərfləri olub, qeyd-şərtsiz (qaydasız) olaraq müəyyən sözlərdən ibarətdir. Deyirlər: Əl-məş (المَشْع) — yemək növlərindən biridir, məsələn, xiyarı çeynədiyiniz kimi yemək. Həmçinin ət-təməşşüç (التمشُّع) — istincə etmək (təharet almaq) deməkdir. Və bir hədis zikr etmişlər: «لا تَمَشَّعْ بروثٍ ولا عَظْم» (Pəyə və ya sümüklə istincə etməyin). Yəni onlarla təmizlənməyin. İbn Ərabidən rəvayət olunmuşdur ki, kişi öz yoldaşının paltarını «imtəşəə» (امتَشَع) — yəni oğurladı, mənimsədi. Və «zibvun məşuu» (ذئب مَشُوعٌ) — acgöz qurd. Deyirlər: «Məşətu əl-ğənəm» (مَشَعْتُ الغَنَم) — qoyunları sağdım. Və «məşə» — qazandı və topladı.",
+ "az": "[مشع]\nMim, şin və ayn hərflərindəki sözlər qiyassızdır. Deyirlər: المَشْع (yeməyin bir növdür, xiyarı çeynədiyin kimi yemək). Deyirlər: التمشُّع (istincə etmək).\nVə bir hədis zikr etmişlər: «لا تَمَشَّعْ بروثٍ ولا عَظْم» (Peyin və ya sümüklə istincə etməyin). Yəni o ikisi ilə təmizlənməyin. İbn əl-Ərabidən rəvayət olunur: امتَشَع الرّجُل ثوبَ صاحِبِه (kişi yoldaşının paltarını sıyırıb aldı) və واختَلَسه (qapdı). Və ذئب مَشُوعٌ (tez qapıb-qaçan qurd).\nVə deyirlər: مَشَعْتُ الغَنَم (qoyunları sağdım). Və مَشَع (qazandı və topladı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:39.418Z"
+ "ts": "2026-10-26T00:52:39.418Z",
+ "prev_az": "[مشع] (Məşə) Mim, şın və eyn hərfləri olub, qeyd-şərtsiz (qaydasız) olaraq müəyyən sözlərdən ibarətdir. Deyirlər: Əl-məş (المَشْع) — yemək növlərindən biridir, məsələn, xiyarı çeynədiyiniz kimi yemək. Həmçinin ət-təməşşüç (التمشُّع) — istincə etmək (təharet almaq) deməkdir. Və bir hədis zikr etmişlər: «لا تَمَشَّعْ بروثٍ ولا عَظْم» (Pəyə və ya sümüklə istincə etməyin). Yəni onlarla təmizlənməyin. İbn Ərabidən rəvayət olunmuşdur ki, kişi öz yoldaşının paltarını «imtəşəə» (امتَشَع) — yəni oğurladı, mənimsədi. Və «zibvun məşuu» (ذئب مَشُوعٌ) — acgöz qurd. Deyirlər: «Məşətu əl-ğənəm» (مَشَعْتُ الغَنَم) — qoyunları sağdım. Və «məşə» — qazandı və topladı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ش» hərfinin adı «şin» yazılmalıdır.",
+  "«روث» sözünün «pəyə» kimi tərcüməsi yanlışdır (peyin/nəcis deməkdir).",
+  "Gərəksiz transkripsiyalar təmizlənməlidir."
+ ],
+ "review_ts": "2026-11-27T14:23:17.558Z"
 }

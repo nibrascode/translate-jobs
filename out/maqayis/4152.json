@@ -11,7 +11,18 @@
   "page_to": 437
  },
  "ar": "النون والضاد والباء كلمةٌ تدلُّ على انكشاف شيء * وذهابه.\nونضب الماءُ: بَعُدَ، نضوباً. ونَضَبت المفازةُ، كأنَّها انجردت. وخَرْقٌ ناضب:\nبعيد.\nوشذَّ عنه التَّنْضَب: شَجَر.",
- "az": "«نضب» (ن - ض - ب): Nun, dad və ba – bir şeyin üzə çıxmasına və yox olmasına dəlalət edən kəlmədir. «ونضب الماءُ» (və nədibül-mau) – su çəkildi, uzaqlaşdı, «نضوباً» (nüsubən). «ونَضَبت المفازةُ» (və nəbət-məfazatü) – səhra sanki (suvarmadan) soyulub quru qaldı. «وخَرْقٌ ناضب» (və harqun nadib) – uzaq səhra. Bunlardan kənarda qalaraq tək işlənən: «التَّنْضَب» (təndəb) – bir ağac növüdür.",
+ "az": "[نضب] Nun, dad və ba – bir şeyin çəkilməsinə və yox olmasına dəlalət edən bir kəlmədir.\nونضب الماءُ (su uzaqlaşdı, çəkildi), نضوباً. ونَضَبت المفازةُ (səhra uzaqlaşdı/uzandı), sanki çılpaqlaşdı. وخَرْقٌ ناضب (uzaq geniş biyaban).\nBu kökdən kənara çıxan söz: التَّنْضَب (bir ağac növüdür).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:00:27.147Z"
+ "ts": "2026-10-26T01:00:27.147Z",
+ "prev_az": "«نضب» (ن - ض - ب): Nun, dad və ba – bir şeyin üzə çıxmasına və yox olmasına dəlalət edən kəlmədir. «ونضب الماءُ» (və nədibül-mau) – su çəkildi, uzaqlaşdı, «نضوباً» (nüsubən). «ونَضَبت المفازةُ» (və nəbət-məfazatü) – səhra sanki (suvarmadan) soyulub quru qaldı. «وخَرْقٌ ناضب» (və harqun nadib) – uzaq səhra. Bunlardan kənarda qalaraq tək işlənən: «التَّنْضَب» (təndəb) – bir ağac növüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı qaydaya uyğun deyil.",
+  "«انكشاف» sözü «üzə çıxma» kimi səhv tərcümə edilib (burada çəkilmək/yox olmaq mənasındadır).",
+  "Mətndə lazımsız transkripsiyalar əlavə edilib və hərf səhvi («nəbət-məfazatü») var."
+ ],
+ "review_ts": "2026-11-27T14:55:47.300Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 419
  },
  "ar": "النون والسين والغين أصلٌ يدلُّ على غَرْزِ شيء بشيء ونَسغَ الخُبْزةَ: غرزَها بريش الطّائر: وهي المِنْسَغة. ونَسغَت الواشمةُ: غرزَتِ اليدَ بالإبرة. ثم يقولون: نسَغْت الدّابّةَ برِجلي ليثُور. ويتوسَّعون فيه فيقولون:\nنسَغْتُ اللَّبَن بالماء: مَذَقْتُه. ونَسَغَه بالعصا: ضَرَبه.",
- "az": "[نسغ] (nəsigə): Nun, sin və ğın bir şeyi başqa bir şeyə sancmağa dəlalət edən əsldir. Nəsəğəl-xubzətə (çörəyi quş lələyi ilə sancdı): o, əl-minsəğədir. Nəsəğətil-vaşimə (döymə vuran qadın əli iynə ilə sancdı). Sonra deyirlər: nəsəğtüd-dabbətə biricli liyəsurə (miniyi qovmaq üçün ayağımla vurdum). Və bunu geniş mənada işlədərək deyirlər: nəsəğtül-ləbən bil-mai (südlə suyu qarışdırdım - mədəqətuhu). Və nəsəğəhu bil-asa (onu əsa ilə vurdu).",
+ "az": "[نسغ] Nun, sin və ğın bir şeyi başqa bir şeyə sancmağa dəlalət edən əsldir. نَسَغَ الْخُبْزَةَ (çörəyi quş lələyi ilə deşdəklədi/sancdı); alətə المِنْسَغَة (əl-minsəğə) deyilir. نَسَغَتِ الْوَاشِمَةُ (döymə vuran qadın əli iynə ilə sancdı). Sonra genişləndirərək deyirlər: نَسَغْتُ الدَّابَّةَ بِرِجْلِي (dabanımla heyvanı dürtüklədim ki, qalxsın). Geniş mənada işlədərək deyirlər: نَسَغْتُ اللَّبَنَ بِالْمَاءِ (südə su qatdım, qarışdırdım). نَسَغَهُ بِالْعَصَا (onu əsa ilə vurdu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:59:16.418Z"
+ "ts": "2026-10-26T00:59:16.418Z",
+ "prev_az": "[نسغ] (nəsigə): Nun, sin və ğın bir şeyi başqa bir şeyə sancmağa dəlalət edən əsldir. Nəsəğəl-xubzətə (çörəyi quş lələyi ilə sancdı): o, əl-minsəğədir. Nəsəğətil-vaşimə (döymə vuran qadın əli iynə ilə sancdı). Sonra deyirlər: nəsəğtüd-dabbətə biricli liyəsurə (miniyi qovmaq üçün ayağımla vurdum). Və bunu geniş mənada işlədərək deyirlər: nəsəğtül-ləbən bil-mai (südlə suyu qarışdırdım - mədəqətuhu). Və nəsəğəhu bil-asa (onu əsa ilə vurdu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "İzah edilən ərəb sözləri ərəb qrafikası ilə saxlanılmalıdır."
+ ],
+ "review_ts": "2026-11-27T14:52:45.690Z"
 }

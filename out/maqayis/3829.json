@@ -11,7 +11,17 @@
   "page_to": 308
  },
  "ar": "الميم والدال والحاء أصلٌ صحيح يدل على وصفِ محاسنَ بكلامٍ جميل. ومَدَحَه يَمْدَحه مَدْحًا: أحسَنَ عليه الثَّناء. والأُمْدُوحة: المَدْح. ويقال المَنْقَبة أُمْدُوحةٌ أيضا. قال:\nلو كان مِدحةُ حىٍّ مُنْشِراً أحداً … أحْيَا أبا كُنَّ يا ليلى * الأماديحُ (١)",
- "az": "«مدح» (mim, dal və hə) — gözəl sözlərlə gözəllikləri vəsif etməyə dəlalət edən səhih kökdür. مَدَحَهُ يَمْدَحه مَدْحًا (təriflədi, tərifləyir, tərif) — gözəl şəkildə tərif etdi. والأُمْدُوحة (ümduhə) — tərif, mədhiyyə. Həmçinin deyirlər ki, məqbəst (fəzilət) də ümduhədir. Şair demişdir: «Əgər bir dirinin tərifi kimsəni diriltsəydi... Əbu Künü diriltməzdi, ey Leyla... Mədhiyyələr» (١).",
+ "az": "[مدح]\n«مدح» (mim, dal və ha) — gözəl sözlərlə gözəllikləri vəsf etməyə dəlalət edən səhih kökdür. مَدَحَه يَمْدَحه مَدْحًا (təriflədi, tərifləyir, tərif) — gözəl şəkildə tərif etdi. الأُمْدُوحة (ümduhə) — tərif, mədhiyyə. Həmçinin deyirlər ki, المَنْقَبة (fəzilət, məziyyət) da ümduhədir. Şair demişdir:\nلو كان مِدحةُ حىٍّ مُنْشِراً أحداً … أحْيَا أبا كُنَّ يا ليلى * الأماديحُ (١) (Əgər bir dirinin tərifi kimisə diriltsəydi, ey Leyla, mədhiyyələr sizin atanızı dirildərdi).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:54.672Z"
+ "ts": "2026-10-26T00:51:54.672Z",
+ "prev_az": "«مدح» (mim, dal və hə) — gözəl sözlərlə gözəllikləri vəsif etməyə dəlalət edən səhih kökdür. مَدَحَهُ يَمْدَحه مَدْحًا (təriflədi, tərifləyir, tərif) — gözəl şəkildə tərif etdi. والأُمْدُوحة (ümduhə) — tərif, mədhiyyə. Həmçinin deyirlər ki, məqbəst (fəzilət) də ümduhədir. Şair demişdir: «Əgər bir dirinin tərifi kimsəni diriltsəydi... Əbu Künü diriltməzdi, ey Leyla... Mədhiyyələr» (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəb mətni verilməyib və «أحْيَا أبا كُنَّ» ifadəsi əksinə («Əbu Künü diriltməzdi») olaraq tam səhv tərcümə edilib.",
+  "«المَنْقَبة» sözü «məqbəst», «vəsf» sözü isə «vəsif» kimi təhrif olunub."
+ ],
+ "review_ts": "2026-11-27T13:52:15.803Z"
 }

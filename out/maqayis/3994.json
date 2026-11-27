@@ -11,7 +11,16 @@
   "page_to": 369
  },
  "ar": "النون والواو والشين أصلٌ صحيح يدلُّ على تناوُل الشيء.\nونُشْتُه نَوْشًا. وتناوَشْتُ: تَناوَلْت. قال اللّه تعالى: ﴿وَأَنّى لَهُمُ اَلتَّناوُشُ مِنْ مَكانٍ بَعِيدٍ﴾: وربَّما عَدَّوْه بغير ألفٍ فقالوا: نُشْتُه خيراً، إذا أنَلْتَه خيراً.\nوقول القائل (٢):\n* باتت تَنُوش العَنَق انتياشا (٣) *",
- "az": "[نوش] (nuş) - nun, vav və şin bir şeyi əldə etməyə, uzanıb götürməyə dəlalət edən səhih bir kökdür. ونُشْتُه نَوْشًا (nuştuhu nəvşən). Və تناوَشْتُ (tənəvaştu) — əldə etdim, uzanıb götürdüm. Uca Allah buyurmuşdur: ﴿وَأَنّى لَهُمُ اَلتَّناوُشُ مِنْ مَكانٍ بَعِيدٍ﴾ (mənaca tərcümə: Onların uzaq bir yerdən [imana və ya xeyrə] əlnin çatması haradandır?!) [Səbə, 52]. Bəzən əlif hərfi olmadan da işlədirlər və deyirlər: نُشْتُه خيراً (nuştuhu xayran) — ona xeyir bəxş etdiyin zaman. Və deyrənin sözü (2): * باتت تَنُوش العَنَق انتياشا (3) *",
+ "az": "[نوش] (nun, vav və şin) bir şeyi götürməyə, əl uzadıb çatdırmağa dəlalət edən səhih bir kökdür.\nونُشْتُه نَوْشًا. Və تناوَشْتُ: götürdüm, əl uzatdım. Uca Allah buyurmuşdur: ﴿وَأَنّى لَهُمُ اَلتَّناوُشُ مِنْ مَكانٍ بَعِيدٍ﴾ (mənaca tərcümə: Onların uzaq bir yerdən [imana və ya xeyrə] əllərinin çatması haradandır?!) [Səbə, 52]. Bəzən də əlif hərfi olmadan keçidli edib deyirlər: نُشْتُه خيراً (ona xeyir bəxş etdim).\nŞairin sözü (٢):\n* باتت تَنُوش العَنَق انتياشا (٣) *\n(* O, gecəni iti yeriməyi sürətlə kəsb etməklə keçirdi *) (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:10.792Z"
+ "ts": "2026-10-26T00:55:10.792Z",
+ "prev_az": "[نوش] (nuş) - nun, vav və şin bir şeyi əldə etməyə, uzanıb götürməyə dəlalət edən səhih bir kökdür. ونُشْتُه نَوْشًا (nuştuhu nəvşən). Və تناوَشْتُ (tənəvaştu) — əldə etdim, uzanıb götürdüm. Uca Allah buyurmuşdur: ﴿وَأَنّى لَهُمُ اَلتَّناوُشُ مِنْ مَكانٍ بَعِيدٍ﴾ (mənaca tərcümə: Onların uzaq bir yerdən [imana və ya xeyrə] əlnin çatması haradandır?!) [Səbə, 52]. Bəzən əlif hərfi olmadan da işlədirlər və deyirlər: نُشْتُه خيراً (nuştuhu xayran) — ona xeyir bəxş etdiyin zaman. Və deyrənin sözü (2): * باتت تَنُوش العَنَق انتياشا (3) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Sitat gətirilən şeir beyti tərcümə olunmamışdır."
+ ],
+ "review_ts": "2026-11-27T14:45:30.641Z"
 }

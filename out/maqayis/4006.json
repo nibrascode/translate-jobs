@@ -11,7 +11,18 @@
   "page_to": 374
  },
  "ar": "النون والياء والحاء كلمة صحيحة تدل على خَيْرٍ وخيرِ حال.\nونَيَّحه اللّه بخَيرٍ: أعطاه إيّاه. وقال الخليل: النَّيْح: اشتداد العَظْم بعد رُطوبَتِه.\nونَاح يَنِيح نَيْحا. ونَيَّح اللّهُ عِظامَه، تدعو له. وذُكِرت كلمةٌ أخرى إنْ صحَّتْ\nفهي قريبةٌ من هذا الباب، قالوا: ناحَ الغصنُ يَنيح نَيْحًا: تمايَلَ. حكاه أبو بكر عن أبى مالك (١).",
- "az": "«نيح»: النون، الياء والحاء كلمة صحيحة تدل على خَيْر وخيرِ حال (xeyrə və xeyirli hala dəlalət edən səhih kəlmədir). ونَيَّحه اللّهُ بخَيرٍ (Allah onu xeyirlə mükafatlandırdı): أعطاه إيّاه (onu ona verdi). وقال الخليل (Xəlil demişdir): النَّيْح (sümüyün bərkiməsi): اشتداد العَظْم بعد رُطوبَتِه (nəmliyindən sonra sümüyün bərkiməsi). ونَاح يَنِيح نَيْحا (inlədi, inləyir, inilti). ونَيَّح اللّهُ عِظامَه (Allah onun sümüklərini möhkəmlەتsin -ona dua edərkən deylir)، تدعو له. وذُكِرت كلمةٌ أخرى إنْ صحَّتْ فهي قريبةٌ من هذا الباب (Və əgər səhihdirsə, bu qapıya yaxın olan başqa bir kəlmə də zikr edilmişdir)، قالوا: ناحَ الغصنُ يَنيح نَيْحًا (budaq əyildi, yelləndi): تمايَلَ. حكاه أبو بكر عن أبى مالك (١) (Bunu Əbu Bəkr Əbu Malikdən rəvayət etmişdir).",
+ "az": "[نيح] nun, ya və ha xeyrə və yaxşı hala dəlalət edən səhih bir kəlmədir. نَيَّحَهُ اللَّهُ بِخَيْرٍ (Allah ona xeyir bəxş etdi), yəni onu ona verdi. Xəlil demişdir: النَّيْحُ sümüyün yaşlığından/nəmliyindən sonra bərkiməsidir. نَاحَ يَنِيحُ نَيْحاً (sümük bərkidi) deyilir. Dualarında نَيَّحَ اللَّهُ عِظامَهُ (Allah onun sümüklərini möhkəmlətsin) deyirlər. Əgər səhihdirsə, bu babdan başqa bir kəlmə də zikr olunub ki, o da buna yaxındır; dedilər ki: نَاحَ الغُصْنُ يَنِيحُ نَيْحاً (budaq yelləndi, əyildi) - تَمَايَلَ (yelləndi) deməkdir. Bunu Əbu Bəkr Əbu Malikdən rəvayət etmişdir (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:36.143Z"
+ "ts": "2026-10-26T00:55:36.143Z",
+ "prev_az": "«نيح»: النون، الياء والحاء كلمة صحيحة تدل على خَيْر وخيرِ حال (xeyrə və xeyirli hala dəlalət edən səhih kəlmədir). ونَيَّحه اللّهُ بخَيرٍ (Allah onu xeyirlə mükafatlandırdı): أعطاه إيّاه (onu ona verdi). وقال الخليل (Xəlil demişdir): النَّيْح (sümüyün bərkiməsi): اشتداد العَظْم بعد رُطوبَتِه (nəmliyindən sonra sümüyün bərkiməsi). ونَاح يَنِيح نَيْحا (inlədi, inləyir, inilti). ونَيَّح اللّهُ عِظامَه (Allah onun sümüklərini möhkəmlەتsin -ona dua edərkən deylir)، تدعو له. وذُكِرت كلمةٌ أخرى إنْ صحَّتْ فهي قريبةٌ من هذا الباب (Və əgər səhihdirsə, bu qapıya yaxın olan başqa bir kəlmə də zikr edilmişdir)، قالوا: ناحَ الغصنُ يَنيح نَيْحًا (budaq əyildi, yelləndi): تمايَلَ. حكاه أبو بكر عن أبى مالك (١) (Bunu Əbu Bəkr Əbu Malikdən rəvayət etmişdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə mətni ərəbcə sitatlarla qarışdırılaraq yanlış formatda verilib və tam tərcümə olunmayıb.",
+  "«ناح ينيح نيحا» felinin mənası səhvən «inlədi» verilib (sümüyün möhkəmlənməsi mənasındadır).",
+  "Haşiyə rəqəmləri ərəb rəqəmləri ilə (١) saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-27T14:46:15.214Z"
 }

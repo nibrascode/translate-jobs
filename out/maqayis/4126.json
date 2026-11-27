@@ -11,7 +11,18 @@
   "page_to": 425
  },
  "ar": "النون والسين والراء أصلٌ صحيح يدلُّ على اختلاسٍ * واستلاب. منه النَّسْر: تناوُلُ شيءٍ من طعام. ونَسَرَهُ، كأنَّه شيءٌ يسيرٌ استلبَه. ومنه النَّسْر، كأنّه ينسُرُ الشَّيء. والمِنْسَر (٢): خيل ما بين المائة إلى المائتين وهو القياس، كأنه إنما جاء لينِسُرَ شيئًا، أي يختطفَه ويَستلبَه. ويقال:\nبَلِ المِنْسَر لا يمرُّ بشيءٍ إلا قَلَعه.\nومن التَّشبيه النَّسْر: كواكبُ في السماء: النَّسْر الطائر، والنَّسْر الواقع.\nومنه نَسْر الحافِر: ما في بطنه كأنّهُ النَّوَى والحصى.",
- "az": "[نسر] (nəsr) — Nun, sin və ra qamçılamağa və qamçılayıb qoparmağa dəlalət edən səhih bir əsasdır. Ondandır النَّسْر (ən-nəsr): yeməkdən bir şey dadmaq. Və نَسَرَهُ (nasarahu) — guya onun qoparıb aldığı az bir şeydir. Ondandır النَّسْر (ən-nəsr), guya o, şeyi qoparır. Və المِنْسَر (əl-minsər): yüzlə iki yüz arasında olan süvari dəstəsidir, bu da qiyasdır, guya o, yalnız nəsər etmək üçün, yəni bir şeyi qoparıb qaçmaq və oğurlamaq üçün gəlmişdir. Deyilir: Bəlkə də əl-minsər elə bir dəstədir ki, hansı şeyin yanından keçərsə, onu qoparıb alar.\n\nBənzətmələrdəndir النَّسْر (ən-nəsr): səkkiz ulduzdur: النَّسْر الطائر (Uçan qartal) və النَّسْر الواقع (Yerə enən qartal).\n\nVə nəsru əl-hafir (at dırnağının nəsri): onun qarnında çəyirdək və xırda daşlar kimi olan şeydir.",
+ "az": "[نسر]\nNun, sin və ra qapıb götürməyə və qoparmağa dəlalət edən səhih bir əsasdır. Ondandır النَّسْر (ən-nəsr): yeməkdən bir şey götürüb yemək. Və نَسَرَهُ (onu qopartdı) — guya onun qoparıb aldığı az bir şeydir. Ondandır النَّسْر (qartal), guya o, şeyi qoparır. Və المِنْسَر (əl-minsər) (٢): yüzlə iki yüz arasında olan süvari dəstəsidir, bu da qiyasdır, guya o, yalnız نَسْر etmək üçün, yəni bir şeyi qoparıb qaçmaq və almaq üçün gəlmişdir. Deyilir: بَلِ المِنْسَر لا يمرُّ بشيءٍ إلا قَلَعه (Əksinə, minsər elə bir dəstədir ki, hansı şeyin yanından keçərsə, onu qoparıb götürər).\n\nBənzətmələrdəndir النَّسْر (ən-nəsr): səmadakı ulduzlardır: النَّسْر الطائر (Uçan qartal) və النَّسْر الواقع (Qonmağa hazırlaşan qartal).\n\nVə منه نَسْر الحافِر (at dırnağının nəsri): onun daxilində çəyirdək və xırda daşlar kimi olan hissədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:59:38.830Z"
+ "ts": "2026-10-26T00:59:38.830Z",
+ "prev_az": "[نسر] (nəsr) — Nun, sin və ra qamçılamağa və qamçılayıb qoparmağa dəlalət edən səhih bir əsasdır. Ondandır النَّسْر (ən-nəsr): yeməkdən bir şey dadmaq. Və نَسَرَهُ (nasarahu) — guya onun qoparıb aldığı az bir şeydir. Ondandır النَّسْر (ən-nəsr), guya o, şeyi qoparır. Və المِنْسَر (əl-minsər): yüzlə iki yüz arasında olan süvari dəstəsidir, bu da qiyasdır, guya o, yalnız nəsər etmək üçün, yəni bir şeyi qoparıb qaçmaq və oğurlamaq üçün gəlmişdir. Deyilir: Bəlkə də əl-minsər elə bir dəstədir ki, hansı şeyin yanından keçərsə, onu qoparıb alar.\n\nBənzətmələrdəndir النَّسْر (ən-nəsr): səkkiz ulduzdur: النَّسْر الطائر (Uçan qartal) və النَّسْر الواقع (Yerə enən qartal).\n\nVə nəsru əl-hafir (at dırnağının nəsri): onun qarnında çəyirdək və xırda daşlar kimi olan şeydir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«اختلاس» sözü «qamçılamaq» kimi yanlış tərcümə edilmişdi (doğrusu: qapıb qaçmaq/qoparmaq).",
+  "Mətndə olmayan «səkkiz» sözü əlavə edilmişdi (uydurma).",
+  "«بَلِ المِنْسَر لا يمرُّ بشيءٍ إلا قَلَعه» və «نَسْر الحافِر» ərəbcə mətnləri buraxılmışdı."
+ ],
+ "review_ts": "2026-11-27T14:53:29.351Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 461
  },
  "ar": "النون والفاء والشين أصلٌ صحيح يدلُّ على انتشار. من ذلك نَفْش الصُّوف، وهو أن يُطْرَق حَتَّى يتنفّش. ونَفَش الطّائرُ جناحَيه. ونَفَشَت الإبلُ: تردَّدَتْ وانتشرَتْ بلا راع. وفِعْلُها النَّفْش؛ وإبلٌ نُفّاشٌ ونَوافش.",
- "az": "[نفش] (nəfəş): Nun, fa və şin hərfləri yayılmağa dəlalət edən səhih bir əsldir. Bunlardan biri صوف نَفْش (nəfşus-suf) – yun toxunub pırtlaşıq hala gələnə qədər döyülməsidir. نَفَش الطّائرُ جناحَيه (nəfəşət-tairü cənəhəyhü) – quş qanadlarını qabartdı. نَفَشَت الإبلُ (nəfəşətil-iblü) – dəvələr çoban olmadan səpələnib yayıldı. Onun feli نَفْش (nəfş) adlanır; نُفّاش (nüffaş) və نَوافش (nəvafiş) – səpələnmiş dəvələr.",
+ "az": "[نفش] Nun, fa və şin hərfləri yayılmağa dəlalət edən səhih bir əsldir. Bunlardan biri نَفْش الصُّوف (yunun didilməsi) – yunun pırtlaşıq hala gələnə qədər döyülməsidir. ونَفَش الطّائرُ جناحَيه (quş qanadlarını qabartdı). ونَفَشَت الإبلُ (dəvələr çobansız yayıldı) – dəvələrin çobansız otlamağa səpələnməsidir. Onun feli النَّفْش (nəfş) adlanır; və إبلٌ نُفّاشٌ ونَوافش (gecə çobansız otlamağa yayılan dəvələr).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:02:03.386Z"
+ "ts": "2026-10-26T01:02:03.386Z",
+ "prev_az": "[نفش] (nəfəş): Nun, fa və şin hərfləri yayılmağa dəlalət edən səhih bir əsldir. Bunlardan biri صوف نَفْش (nəfşus-suf) – yun toxunub pırtlaşıq hala gələnə qədər döyülməsidir. نَفَش الطّائرُ جناحَيه (nəfəşət-tairü cənəhəyhü) – quş qanadlarını qabartdı. نَفَشَت الإبلُ (nəfəşətil-iblü) – dəvələr çoban olmadan səpələnib yayıldı. Onun feli نَفْش (nəfş) adlanır; نُفّاش (nüffaş) və نَوافش (nəvafiş) – səpələnmiş dəvələr.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətndən sonra lazımsız transliterasiyalar əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T15:01:46.380Z"
 }

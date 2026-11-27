@@ -11,7 +11,16 @@
   "page_to": 353
  },
  "ar": "النون والهاء كلمةٌ واحدة. يقال: نَهْنه فلانٌ فلاناً:\nكفُّه وزَجَره.",
- "az": "[نه] Nun və hə - tək bir kəlmədir. Deyilir: «نَهْنه فلانٌ فلanaً» — filankəs filankəsi saxladı və çəkindirdi.",
+ "az": "[نه] Nun və hə - tək bir kəlmədir. Deyilir: «نَهْنه فلانٌ فلاناً» — filankəs filankəsi saxladı və çəkindirdi.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:25.129Z"
+ "ts": "2026-10-26T00:54:25.129Z",
+ "prev_az": "[نه] Nun və hə - tək bir kəlmədir. Deyilir: «نَهْنه فلانٌ فلanaً» — filankəs filankəsi saxladı və çəkindirdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«فلanaً» sözündə ərəb və latın hərfləri qarışıb."
+ ],
+ "review_ts": "2026-11-27T14:43:44.471Z"
 }

@@ -11,7 +11,19 @@
   "page_to": 478
  },
  "ar": "النون والكاف والظاء كلمة واحدة. يقال النَّكظ: الدَّفع والعَجَلة. قال:\n[قد] تجاوزتُها على نَكَظِ المَي … طِ إذا خَبَّ لامعاتُ الآلِ (١)\nقال ابن دريد: أنكَظَته (٢) إنكاظاً، ونَكَظْتُه نكظا، إذا أعجلتَه.",
- "az": "[نكظ] (tələsdirmək, itələmək) Nun, kaf və zay tək bir kəlmədir. Deyilir: النَّكظ (itələmə və tələsmə). (Şair) demişdir: Mirbadın tələsik vaxtında onu keçdim... ilğım parıldayarkən sərt şəkildə qaçdıqda (١). İbn Dürid demişdir: أنكَظَته إنكاظاً (onu tələdirdin) və نَكَصْتُه نكظا (onu tələdirdim), onu tələdirdiyin zaman.",
+ "az": "[نكظ] (tələsdirmək, itələmək) Nun, kaf və za tək bir kəlmədir. Deyilir: النَّكظ (itələmə və tələsmə). (Şair) demişdir:\n[قد] تجاوزتُها على نَكَظِ المَي … طِ إذا خَبَّ لامعاتُ الآلِ (١)\n(İlğımın parıltıları yeyin qaçdıqda, tələsik hərəkətlə onu keçdim).\nİbn Dureyd demişdir: أنكظَته (٢) إنكاظاً (onu tələsdirdi) və نَكَظْتُه نكظا (onu tələsdirdim), onu tələsdirdiyin zaman.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:03:34.182Z"
+ "ts": "2026-10-26T01:03:34.182Z",
+ "prev_az": "[نكظ] (tələsdirmək, itələmək) Nun, kaf və zay tək bir kəlmədir. Deyilir: النَّكظ (itələmə və tələsmə). (Şair) demişdir: Mirbadın tələsik vaxtında onu keçdim... ilğım parıldayarkən sərt şəkildə qaçdıqda (١). İbn Dürid demişdir: أنكَظَته إنكاظاً (onu tələdirdin) və نَكَصْتُه نكظا (onu tələdirdim), onu tələdirdiyin zaman.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərf adı («za») «zay» kimi səhv yazılıb.",
+  "Şeir beytinin ərəb mətni ixtisar edilmişdir.",
+  "«نَكَظْتُه» sözü «نَكَصْتُه» kimi səhv köçürülüb.",
+  "Məna və tərcümə dəqiqsizlikləri var."
+ ],
+ "review_ts": "2026-11-27T15:04:13.684Z"
 }

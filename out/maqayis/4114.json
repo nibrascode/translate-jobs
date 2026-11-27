@@ -11,7 +11,17 @@
   "page_to": 418
  },
  "ar": "النون والزاء والحاء كلمةٌ تدلُّ على بُعد. ونَزَحت الدّار نُزُوحاً: بَعُدت. وبلدٌ نازح. ومنه نَزْحُ الماء، كأنَّه يُباعَد به عن قَعر البئر.\nيقال: نَزَحتُ البِئر: استقَيتُ ماءَها كلَّه. وبئر نَزُوحٌ: قليلةُ الماء.\nوآبارٌ نُزُح.",
- "az": "[نزح] (nəzəhə): Nun, zay və hə sözü uzaqlığa dəlalət edir. Nəzəhətid-daru nüzuhan (ev uzaqlaşdı). Biladun nazihun (uzaq ölkə). Həmçinin sudan nəzh (suyu çəkib qurtarmaq), sanki o, quyunun dibindən uzaqlaşdırılır.\n\nDeyilir ki: nəzəh-tül-bi-rə (quyunun bütün suyunu çəkib çıxardım). Bi-run nəzuhun (suyu az olan quyu).\n\nAbidun nuzuh (suları az olan quyular).",
+ "az": "[نزح] Nun, zay və hə sözü uzaqlığa dəlalət edir. نَزَحَتِ الدَّارُ نُزُوحاً (ev uzaqlaşdı). بَلَدٌ نَازِحٌ (uzaq diyar). Həmçinin نَزْحُ الْمَاءِ (suyun çəkilib boşaldılması), sanki o, quyunun dibindən uzaqlaşdırılır.\n\nDeyilir: نَزَحْتُ الْبِئْرَ (quyunun bütün suyunu çəkib çıxartdım). بِئْرٌ نَزُوحٌ (suyu az olan quyu).\n\nآبَارٌ نُزُحٌ (suları az olan quyular).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:59:16.418Z"
+ "ts": "2026-10-26T00:59:16.418Z",
+ "prev_az": "[نزح] (nəzəhə): Nun, zay və hə sözü uzaqlığa dəlalət edir. Nəzəhətid-daru nüzuhan (ev uzaqlaşdı). Biladun nazihun (uzaq ölkə). Həmçinin sudan nəzh (suyu çəkib qurtarmaq), sanki o, quyunun dibindən uzaqlaşdırılır.\n\nDeyilir ki: nəzəh-tül-bi-rə (quyunun bütün suyunu çəkib çıxardım). Bi-run nəzuhun (suyu az olan quyu).\n\nAbidun nuzuh (suları az olan quyular).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "İzah edilən ərəb sözləri ərəb qrafikası ilə saxlanılmalıdır.",
+  "«آبارٌ نُزُح» ifadəsi səhv oxunaraq tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:52:45.690Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 312
  },
  "ar": "الميم والراء والعين أصلٌ صحيح يدلُّ على خِصْب وخَير. ومَرَعَ المكانُ. وأمْرَعَ القومُ: أصابوه مَرِيعاً. وأمْرَعَ الوادِي: أكلَأَ.",
- "az": "«مرع» (mim, ra və əyn) — bol bolluğa və xeyirə dəlalət edən səhih bir kökdür. مَرَعَ المَكانُ (marəal-makan) — yer bol otlaqlı oldu. وأمْرَعَ القومُ (əmraəal-qavmu) — bolçuluqla rastlaşdılar. وأمْرَعَ الوادِي (əmraəal-vadi) — vadidə ot bitdi, heyvanlar yedi.",
+ "az": "[مرع]\nالميم (mim), الراء (ra) və العين (əyn) bolluğa və xeyirə dəlalət edən səhih bir kökdür. ومَرَعَ المكانُ — yer bol otlaqlı oldu. وأمْرَعَ القومُ — onlar bol otlaqlı yerə rast gəldilər. وأمْرَعَ الوادِي — vadi otlaqlı oldu.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:54.672Z"
+ "ts": "2026-10-26T00:51:54.672Z",
+ "prev_az": "«مرع» (mim, ra və əyn) — bol bolluğa və xeyirə dəlalət edən səhih bir kökdür. مَرَعَ المَكانُ (marəal-makan) — yer bol otlaqlı oldu. وأمْرَعَ القومُ (əmraəal-qavmu) — bolçuluqla rastlaşdılar. وأمْرَعَ الوادِي (əmraəal-vadi) — vadidə ot bitdi, heyvanlar yedi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أكلأ» felinin tərcüməsinə mətndə olmayan əlavə («heyvanlar yedi») yazılmışdır."
+ ],
+ "review_ts": "2026-11-27T14:06:59.448Z"
 }

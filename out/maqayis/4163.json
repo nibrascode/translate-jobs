@@ -13,5 +13,10 @@
  "ar": "النون والطاء والحاء أصلٌ واحد. وهو نَطَح. يقال: نَطَح الكبشُ يَنْطِحُ: ويحمَل عليه فيقال للوحشىِّ إذا أتاكَ مستقبلاً لك: نطيحٌ وناطِح. ويقولون: إنّه لا يُتَبرَّك به، ولذلك يقال للمشئوم: نَطِيح. وفرسٌ نَطيحٌ: يأخذُ فودَىْ رأسِه بياض.\nومن الباب نَوَاطِحُ لدَّهر، أي شدائده. وأصابَهُ ناطحٌ: أمر شديد.\nوقياس كلّ واحد. ويقال للشَّرَطَينِ: النَّطْحُ والنّاطح. وقولهم:\n* الليلُ داجٍ والكباشُ تَنْتطِحْ (٣) *\nأي ينطَح بعضُها بعضا. وهذا عبارةٌ عن اقتتال الأبطال، واصطِدام الكُماة.\nوتناطَحت الأمواج والسُّيولُ والرِّجالُ في الحرب.",
  "az": "[نطح] (nun, ta və hə) – tək bir kökdür. Bu da نَطَح (nətəh) – buynuzlamaqdır. Deyilir: نَطَح الكبشُ يَنْطِحُ (nətəhə-l-kəbşu yən-tuhu) – qoç buynuzladı; vəhşi heyvan sənə qarşı gəldiyi zaman ona نطيح (nətih) və ناطِح (natih) deyilir. Deyirlər ki, o, uğurlu sayılmır, ona görə də uğursuz kəsə نَطِيح (nətih) deyilir. وَفرسٌ نَطِيحٌ (və fərsün nətih) – başının iki yanını (fudəvni) ağlıq bürüyən at. Bu babdandır: نَوَاطِحُ لدَّهر (nəvatihud-dəhr) – yəni zamanın şiddətləri. Və ona ناطِح (natih) toxundu – şiddətli bir iş. Hər birinin ölçüsü budur. İki Şərət ulduzuna النَّطْح (ən-nəth) və النّاطح (ən-natih) deyilir. Onların sözü: * الليلُ داجٍ والكباشُ تَنْتطِحْ (٣) * («Gecə qaranlıqdır, qoçlar isə bir-birini buynuzlayırlar») – yəni onlar bir-birlərini vururlar. Bu, igidlərin vuruşmasının və pəhləvanların toqquşmasının təsviridir. Və dəniz dalğaları, sellər və müharibədə kişilər toqquşdular (تَنَاطَحت).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:00:51.819Z"
+ "ts": "2026-10-26T01:00:51.819Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T15:00:19.840Z"
 }

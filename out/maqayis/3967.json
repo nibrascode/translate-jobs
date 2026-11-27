@@ -13,5 +13,10 @@
  "ar": "النون والفاء كلمة واحدة، هي النَّفنَف: الهواء. وكلّ مهوّى بين شيئين نفنف. قال الشّاعر (٢):\nتعلّق في مثل السّواري سيوفنا … وما بينها والكعب غوط نفانف (٣)",
  "az": "[نف] Nun və fa - tək bir kəlmədir, o da «النَّفنَف» — havadır (boşluqdur). İki şey arasındakı hər bir boşluq nəfnəfdir. Şair demişdir (٢):\n«تعلّق في مثل السّواري سيوفنا … وما بينها والكعب غوط نفانف (٣)»\n(Sütunlar kimi asıldı qılınclarımız... və onların arası ilə topuq arasında dərin boşluqlar var)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:25.130Z"
+ "ts": "2026-10-26T00:54:25.130Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T14:44:21.442Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 458
  },
  "ar": "النون والفاء والذال: أصلٌ صحيح يدلُّ على مَضاء في أمْرٍ وغيرِه. ونَفذ السَّهمُ الرمية نَفاذاً (٢). وأنْفذْتُه أنا. وهو نافذٌ: ماضٍ في أمره.",
- "az": "[نفذ] (nəfəz): Nun, fa və zal hərfləri işdə və digər şeylərdə irəliləməyə (keçməyə) dəlalət edən səhih bir əsldir. نَفذ السَّهمُ الرمية نَفاذاً (nəfəzəs-səhmür-ləmyətə nəfazan) (٢). وأنفذْتُه أنا (və ənfəztühü ənə - və mən onu keçirdim). O نافذٌ (naﬁz) – öz işində irəliləyəndir.",
+ "az": "[نفذ]\nNun, fa və zal hərfləri işdə və digər şeylərdə keçiçiliyə (nüfuz etməyə, irəliləməyə) dəlalət edən səhih bir əsldir. نَفذ السَّهمُ الرمية نَفاذاً (ox hədəfə sançılıb keçdi) (٢). وأنفذْتُه أنا (mən onu keçirdim). O, نافذٌ (öz işində irəliləyən, keçərli olan) adlanır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:02:03.385Z"
+ "ts": "2026-10-26T01:02:03.385Z",
+ "prev_az": "[نفذ] (nəfəz): Nun, fa və zal hərfləri işdə və digər şeylərdə irəliləməyə (keçməyə) dəlalət edən səhih bir əsldir. نَفذ السَّهمُ الرمية نَفاذاً (nəfəzəs-səhmür-ləmyətə nəfazan) (٢). وأنفذْتُه أنا (və ənfəztühü ənə - və mən onu keçirdim). O نافذٌ (naﬁz) – öz işində irəliləyəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«نَفذ السَّهمُ الرمية نَفاذاً» ərəbcə cümləsi tərcümə olunmayıb, sadəcə oxunuşu yazılmışdır və lüzumsuz latın transkripsiyaları istifadə olunmuşdur."
+ ],
+ "review_ts": "2026-11-27T15:01:08.797Z"
 }

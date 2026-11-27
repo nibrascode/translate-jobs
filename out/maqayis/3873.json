@@ -11,7 +11,18 @@
   "page_to": 324
  },
  "ar": "الميم والشين والغين كلمةٌ واحدة، مَشَّغه بالقبيح: لطّخه.\nقال:\nأعلُو وعِرضي ليس بالممشَّغِ (١) *",
- "az": "[مشغ] (Məşəğ) Mim, şın və ğayn hərfləri bir sözdür, «məşşəğəhu bi əl-qabih» (مَشَّغه بالقبيح) — onu pis işlə ləkələdi. Şair demişdir: أعلُو وعِرضي ليس بالممشَّغِ (1) (Mən ucalıram, namusumsa ləkələnmiş deyil).",
+ "az": "[مشغ]\nMim, şin və ğayn hərfləri bir sözdür, مَشَّغه بالقبيح (onu pis işlə ləkələdi).\nŞair demişdir:\nأعلُو وعِرضي ليس بالممشَّغِ (١) (Mən ucalıram, namusum isə ləkələnmiş deyildir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:52:39.418Z"
+ "ts": "2026-10-26T00:52:39.418Z",
+ "prev_az": "[مشغ] (Məşəğ) Mim, şın və ğayn hərfləri bir sözdür, «məşşəğəhu bi əl-qabih» (مَشَّغه بالقبيح) — onu pis işlə ləkələdi. Şair demişdir: أعلُو وعِرضي ليس بالممشَّغِ (1) (Mən ucalıram, namusumsa ləkələnmiş deyil).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ش» hərfinin adı «şin» yazılmalıdır.",
+  "Haşiyə rəqəmi ərəb rəqəmi ilə (١) kimi saxlanılmalıdır.",
+  "Gərəksiz transkripsiyalar təmizlənməlidir."
+ ],
+ "review_ts": "2026-11-27T14:23:17.559Z"
 }

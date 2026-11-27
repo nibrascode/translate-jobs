@@ -11,7 +11,18 @@
   "page_to": 325
  },
  "ar": "الميم والشين والنون أصلٌ يدلُّ على تناوُل الشّيءِ بضربٍ واستلالٍ وما أشبَهَ ذلك. فالمَشْن: الضَّرب بالسَّوط، ومَشَنه. وامتشَنَ السَّيفَ:\nاستلَّه. وامتشَنَ الشَّيء: اقتَطَعه. ومشَنَ الجِلدَ: سلخه. وممَّا يحمل على هذا مَشَّنَت النّاقةُ: دَرَّتْ كارهةً.",
- "az": "«مشن» (məşən) — mim, şin və nun hərfləri qamçı ilə vurmaq, çəkib çıxarmaq və buna bənzər tərzdə bir şeyi ələ keçirməyə dəlalət edən kökdür. Fəqət المَشْن (əl-məşn) — qamçı ilə vurmaqdır, مَشَنَهُ (məşənəhu) — onu qamçıladı. Və امتشَنَ السَّيفَ (imtəşəq-səyfə) — qılıncı qınından sıyırıb çıxardı. Və امتشَنَ الشَّيءَ (imtəşəq-şəyyə) — onu qoparıb aldı. Və مشَنَ الجِلدَ (məşənəl-cildə) — dərisini soydu. Buna bənzər olaraq da demişlər: مَشَّنَت النّاقةُ (məşşənətin-naqətu) — dəvə istəməyərəkdən süd verdi.",
+ "az": "[مشن]\nMim, şin və nun bir şeyi vurmaq, sıyırıb çıxarmaq və buna bənzər yolla götürməyə dəlalət edən kökdür. فالمَشْن (qamçı ilə vurmaqdır) və مَشَنه (onu qamçıladı). Və وامتشَنَ السَّيفَ (qılıncı sıyırıb çıxardı). Və وامتشَنَ الشَّيء (şeyi qoparıb aldı). Və ومشَنَ الجِلدَ (dərisini soydu). Buna aid edilən sözlərdən biri də مَشَّنَت النّاقةُ (dişi dəvə istəmədən süd verdi) ifadəsidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:03.302Z"
+ "ts": "2026-10-26T00:53:03.302Z",
+ "prev_az": "«مشن» (məşən) — mim, şin və nun hərfləri qamçı ilə vurmaq, çəkib çıxarmaq və buna bənzər tərzdə bir şeyi ələ keçirməyə dəlalət edən kökdür. Fəqət المَشْن (əl-məşn) — qamçı ilə vurmaqdır, مَشَنَهُ (məşənəhu) — onu qamçıladı. Və امتشَنَ السَّيفَ (imtəşəq-səyfə) — qılıncı qınından sıyırıb çıxardı. Və امتشَنَ الشَّيءَ (imtəşəq-şəyyə) — onu qoparıb aldı. Və مشَنَ الجِلدَ (məşənəl-cildə) — dərisini soydu. Buna bənzər olaraq da demişlər: مَشَّنَت النّاقةُ (məşşənətin-naqətu) — dəvə istəməyərəkdən süd verdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Söz başlığı «[مشن]» formatında olmalıdır.",
+  "Transkripsiyada «امتشق» sözü yanlışlıqla istifadə edilmişdir.",
+  "Gərəksiz transkripsiyalar təmizlənməlidir."
+ ],
+ "review_ts": "2026-11-27T14:23:17.560Z"
 }

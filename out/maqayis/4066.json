@@ -13,5 +13,7 @@
  "ar": "النون والجيم والهاء. كلمةٌ تدلُّ على كراهةٍ فى شئ. يقال:\nنجَهْتُه، إذا استقبَلْتَه بما يكرهُه ويَقْدَعُه عنك. ورجلٌ ناجِهٌ، إذا دَخَلَ البلدَ فاسْتَنْكَرَه وكَرِهَه.",
  "az": "«نجه» (n-j-h): nun, cim və hə hərfi. Bir şeydə xoşagəlməzliyə dəlalət edən kəlmədir. Deyilir: «نجَهْتُه» (Nəcəftühu) – sən onu xoşlamadığı bir şeylə qarşılayıb özündən uzaqlaşdırdın. «رجلٌ ناجِهٌ» (Raculün nacihün) – elə bir kişidir ki, şəhərə daxil olub onu yad/tanınmaz və xoşagəlməz gördü.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:56:41.628Z"
+ "ts": "2026-10-26T00:56:41.628Z",
+ "review_attempts": 1,
+ "review_last_error": "«[kök]» ilə başlamır"
 }

@@ -11,7 +11,16 @@
   "page_to": 333
  },
  "ar": "الميم والطاء والعين. قال: هو مَطَعَ (٣) في الأرض مَطْعاً ومُطُوعاً، إذا ذهب فلم يُوجَدْ ذِكْرُه.",
- "az": "[مطع] \nMim, ta və eyn hərfləri. O demişdir: O, yer üzündə mətən (٣) olaraq getdi, mətən və mutuuən — yəni gedib adı-sânı tapılmadı.",
+ "az": "[مطع] Mim, ta və eyn hərfləri. O demişdir: مَطَعَ فِي الأَرْضِ مَطْعاً وَمُطُوعاً — yer üzündə gedib adı-sanı tapılmadı deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:24.328Z"
+ "ts": "2026-10-26T00:53:24.328Z",
+ "prev_az": "[مطع] \nMim, ta və eyn hərfləri. O demişdir: O, yer üzündə mətən (٣) olaraq getdi, mətən və mutuuən — yəni gedib adı-sânı tapılmadı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «مَطَعَ» kəlməsi tərcümədən buraxılmış və transkripsiyası «mətən» olaraq səhv yazılmışdır."
+ ],
+ "review_ts": "2026-11-27T14:35:34.039Z"
 }

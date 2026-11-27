@@ -11,7 +11,17 @@
   "page_to": 373
  },
  "ar": "النون والواو والنون كلمةٌ واحدة. والنُّون: الحُوت.\nو [ذو (٢)] النُّون: سيفٌ لبعض العرب (٣)، كأنَّه شُبِّه بالنون.",
- "az": "«نون»: النون، الواو والنون كلمة واحدة (bir kəlmədir). والنُّون (balıq): الحُوت. و [ذو (٢)] النُّون (Nün sahibi / balıq sahibi): سيفٌ لبعض العرب (٣) (bəzi ərəblərin qılıncıdır)، كأنَّه شُبِّه بالنون (sanki o, balığa bənzədilmişdir).",
+ "az": "[نون] nun, vav və nun tək bir kəlmədir. النُّونُ (balıq) deməkdir. [ذُو (٢)] النُّونِ bəzi ərəblərin qılıncının adıdır (٣), sanki balığa bənzədilmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:36.143Z"
+ "ts": "2026-10-26T00:55:36.143Z",
+ "prev_az": "«نون»: النون، الواو والنون كلمة واحدة (bir kəlmədir). والنُّون (balıq): الحُوت. و [ذو (٢)] النُّون (Nün sahibi / balıq sahibi): سيفٌ لبعض العرب (٣) (bəzi ərəblərin qılıncıdır)، كأنَّه شُبِّه بالنون (sanki o, balığa bənzədilmişdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümə mətni ərəbcə sitatlarla qarışdırılaraq yanlış formatda verilib və tam tərcümə olunmayıb.",
+  "Haşiyə rəqəmləri ərəb rəqəmləri ilə (٢), (٣) saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-27T14:46:15.214Z"
 }

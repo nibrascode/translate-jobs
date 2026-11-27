@@ -11,7 +11,16 @@
   "page_to": 411
  },
  "ar": "النون والدال واللام أصلٌ صحيح يدلُّ على نَقْلٍ واضطراب.\nيقولون: نَدَلتُ الشيءَ ندلاً، إذا نَقلتَه. قالوا: واشتقاق المِنديل منه. ويقولون:\nالنَّدْل: الاختلاس. قال:\n* فَنَدْلاً زُرَيْقُ المالَ ندلَ الثَّعالبِ (١) *\nوالمُنَوْدِل: الشيخ الكبير، سمِّي بذلك لاضطرابه. ونَوْدَلَتْ خُصياه:\nاسترخَتا.\nومما شذَّ عن الباب إن صحَّ: النَّدْل، يقال إنَّه الوسَخ: ولا يُبنَى منه فِعل.",
- "az": "[ندل] النون والدال واللام (n, d, l) — kök olub, bir yerdən başqa yerə daşınmaya və sarsıntıya dəlalət edən səhih bir əsasdır. Deyirlər: «ندلت الشيء ندلا» (nədaltüş-şəy'ə nədlən) — bir şeyi daşıdığın zaman. Dedilər ki, «المينديل» (əl-mindil - dəsmal) sözünün kökü də bundandır. Deyirlər: «النَّدْل» (ən-nədl) — oğurlayıb aradan çıxmaqdır. Şair demişdir:\n* فَنَدْلاً زُرَيْقُ المالَ ندلَ الثَّعالبِ (١) *\n(Ey Züreyq, tülkülərin apardığı kimi malı dərhal apar!)\n«المُنَوْدِل» (əl-munovdil) — qocalığından əsən və titrəyən yaşlı kişi; sarsıntısı olduğuna görə belə adlandırılmışdır. «نَوْدَلَتْ خُصياه» (novdələt xusyahu) — (qocanın) xayaları sallandı.\nBu fəsildən istisna olan (əgər səhihdirsə) «النَّدْل» (ən-nədl) sözüdür, bunun kir mənasında olduğu deyilir: bundan feli düzəldilmir.",
+ "az": "[ندل] Nun, dal və lam — kök olub, daşınmaya və sarsıntıya (hərəkətə) dəlalət edən səhih bir əsasdır.\nDeyirlər: «نَدَلتُ الشيء ندلاً» — bir şeyi daşıdığın zaman deyilir. Dedilər ki, «المِنديل» (dəsmal) sözünün kökü də bundandır. Deyirlər:\n«النَّدْل» — qapıb qaçmaq, oğurlayıb aparmaqdır. Şair demişdir:\n* فَنَدْلاً زُرَيْقُ المالَ ندلَ الثَّعالبِ (١) *\n(Ey Züreyq, tülkülərin qapdığı kimi malı dərhal qapıb apar!)\n«المُنَوْدِل» — qocalığından əsən və titrəyən yaşlı kişi; hərəkətində sarsıntı olduğuna görə belə adlandırılmışdır. «نَوْدَلَتْ خُصياه» — (qocanın) xayaları sallandı.\nBu babdan istisna olan (əgər səhihdirsə): «النَّدْل» — bunun kir olduğu deyilir; bundan fel düzəldilmir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:58:57.895Z"
+ "ts": "2026-10-26T00:58:57.895Z",
+ "prev_az": "[ندل] النون والدال واللام (n, d, l) — kök olub, bir yerdən başqa yerə daşınmaya və sarsıntıya dəlalət edən səhih bir əsasdır. Deyirlər: «ندلت الشيء ندلا» (nədaltüş-şəy'ə nədlən) — bir şeyi daşıdığın zaman. Dedilər ki, «المينديل» (əl-mindil - dəsmal) sözünün kökü də bundandır. Deyirlər: «النَّدْل» (ən-nədl) — oğurlayıb aradan çıxmaqdır. Şair demişdir:\n* فَنَدْلاً زُرَيْقُ المالَ ندلَ الثَّعالبِ (١) *\n(Ey Züreyq, tülkülərin apardığı kimi malı dərhal apar!)\n«المُنَوْدِل» (əl-munovdil) — qocalığından əsən və titrəyən yaşlı kişi; sarsıntısı olduğuna görə belə adlandırılmışdır. «نَوْدَلَتْ خُصياه» (novdələt xusyahu) — (qocanın) xayaları sallandı.\nBu fəsildən istisna olan (əgər səhihdirsə) «النَّدْل» (ən-nədl) sözüdür, bunun kir mənasında olduğu deyilir: bundan feli düzəldilmir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «المِنديل» sözü «المينديل» şəklində səhv köçürülüb."
+ ],
+ "review_ts": "2026-11-27T14:52:22.166Z"
 }

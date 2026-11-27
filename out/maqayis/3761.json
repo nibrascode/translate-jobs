@@ -11,9 +11,19 @@
   "page_to": 285
  },
  "ar": "الميم والواو والسين. يقولون: المَوْس: حَلْقُ الرَّأس.\n[ويقال في النِّسبة إلى موسى موسَوِيّ. وقال الكسائي: ينسب إلى موسى وعيسى وما أشههما مما فيه الياء زائدة موسِيٌّ وعيسيٌّ (١)]، وذلك أنّ الياء فيه زائدة. كذا قال الكسائىّ.",
- "az": "[موس] (M-v-s): Mim, vau və sin. Deyirlər: المَوْس (əl-movs): başı ülgüclə qırxmaq.\n[Musa sözünə nisbət verildikdə موسَوِيّ (musəvi) denilir. Kəsai demişdir: Musa, İsa və ya hərfləri bunlara bənzər olan, yəh hərfi artıq olan sözlərə موسِيٌّ və عيسيٌّ (musi və isi) deyə nisbət verilir (١)], çünki buradakı yə hərfi artıqdır. Kəsai belə demişdir.",
+ "az": "[موس]\nالميم والواو والسين (mim, vav və sin). Deyirlər: المَوْس (əl-məvs): başı qırxmaq.\n[Musa sözünə nisbət edildikdə موسَوِيّ (musəvi) deyilir. Kəsai demişdir: Musa, İsa və bunlara bənzəyən, ya hərfi artıq olan sözlərə موسِيٌّ və عيسيٌّ (musi və isi) deyə nisbət edilir (١)], çünki buradakı ya hərfi artıqdır. Kəsai belə demişdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:50:25.991Z",
- "review_attempts": 1,
- "review_last_error": "qısa (277 < 344)"
+ "review_last_error": "qısa (277 < 344)",
+ "prev_az": "[موس] (M-v-s): Mim, vau və sin. Deyirlər: المَوْس (əl-movs): başı ülgüclə qırxmaq.\n[Musa sözünə nisbət verildikdə موسَوِيّ (musəvi) denilir. Kəsai demişdir: Musa, İsa və ya hərfləri bunlara bənzər olan, yəh hərfi artıq olan sözlərə موسِيٌّ və عيسيٌّ (musi və isi) deyə nisbət verilir (١)], çünki buradakı yə hərfi artıqdır. Kəsai belə demişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları («vau», «yəh», «yə») səhv yazılıb («vav», «ya» olmalıdır).",
+  "Türkiyə türkcəsinə aid «denilir» sözü işlədilib.",
+  "«وما أشههما» ifadəsinin tərcüməsi («ya hərfləri bunlara bənzər olan») səhv verilib."
+ ],
+ "review_ts": "2026-11-27T13:50:44.979Z"
 }

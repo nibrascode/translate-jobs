@@ -11,7 +11,16 @@
   "page_to": 357
  },
  "ar": "النون والعين أصلٌ صحيح يدلُّ على مَيلٍ واضطراب. ويقال للشَّيء إذا مالَ واضطرب: تنَعنَع. والنُّعنُع: الهَنُ المسترخى. والنُّعنُعِ: الطَّويل من الرِّجال المضطرِب الخَلْق. ويقولون: تَنَعنَعَ منّا، أي تباعَدَ. قال ذو الرُّمة:\nالنازحُ المتنعنِعُ (١) *",
- "az": "[نع] Nun və ayn - meyl etməyə və iztiraba (tərəddüdə, sarsıntıya) dəlalət edən səhih bir kökdür. Bir şey meyl edib sarsıldıqda ona «تنَعنَع» deyilir. «النُّعنُع» — sallanan yumşaq ət (və ya bədən üzvü). «النُّعنُعِ» — uca boylu, xilqəti sərt (narahat) olan kişi. Deyirlər: «تَنَعنَعَ منّا» — yəni bizdən uzaqlaşdı. Züru-Rümmə demişdir:\n«النازحُ المتنعنِعُ (١)»\n(Uzaqdakı, uzaqlaşan və sarsılan...)",
+ "az": "[نع]\nNun və ayn - meyl etməyə və iztiraba dəlalət edən səhih bir kökdür. Bir şey meyl edib sarsıldıqda ona «تنَعنَع» deyilir. «النُّعنُع» — sallanan, boşalmış şeydir. «النُّعنُع» — uca boylu, bədən quruluşu mütənasib olmayan (boş, oynaq) kişi. Deyirlər: «تَنَعنَعَ منّا» — yəni bizdən uzaqlaşdı. Züru-Rümmə demişdir:\nالنازحُ المتنعنِعُ (١) *",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:54:25.130Z"
+ "ts": "2026-10-26T00:54:25.130Z",
+ "prev_az": "[نع] Nun və ayn - meyl etməyə və iztiraba (tərəddüdə, sarsıntıya) dəlalət edən səhih bir kökdür. Bir şey meyl edib sarsıldıqda ona «تنَعنَع» deyilir. «النُّعنُع» — sallanan yumşaq ət (və ya bədən üzvü). «النُّعنُعِ» — uca boylu, xilqəti sərt (narahat) olan kişi. Deyirlər: «تَنَعنَعَ منّا» — yəni bizdən uzaqlaşdı. Züru-Rümmə demişdir:\n«النازحُ المتنعنِعُ (١)»\n(Uzaqdakı, uzaqlaşan və sarsılan...)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«المضطرب الخلق» ifadəsi «xilqəti sərt» kimi səhv tərcümə olunub; «bədən quruluşu mütənasib olmayan (boş, oynaq)» deməkdir."
+ ],
+ "review_ts": "2026-11-27T14:44:21.442Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 384
  },
  "ar": "النون والباء والهاء أصلٌ صحيح يدلُّ على ارتفاع وسمُوّ. ومنه النُّبْه والانتباه، وهو اليَقَظة والارتفاع من النَّوم. ونَبَّهْته وأنْبهتُه. ومنه رجلٌ نَبِيه، أي شَرِيف. وقولهم: إنَّ النَّبَه من الأضداد، يقال للضَّائع نَبَهٌ وللموجود نَبَه، فهو عندنا صحيحٌ؛ لأنَّه إذا ضاع انتُبِه له وإذا وُجِد انتُبِه له (٢). قال أهلُ اللُّغة:\nالنَّبَه: الضَّالَّة تُوجَد عن غفلة. تقول: وجدتُ هذا الشَّيءَ نَبَهاً وأضلَلْتُه نَبَها، إذا (٣) لم يعلم متى ضلّ. والقياس في الباب ما ذكرناه. قال:\nكأنَّه دُمْلُجٌ من فِضَّةٍ نَبَه … في مَلْعَبٍ من عَذَارَى الحىِّ مفصوم (٤)",
- "az": "[نبه] (nəbəh): Nun, ba və ha – ucalıq və ulu olmağa dəlalət edən səhih bir kökdür. Bunlardan biri «النُّبْه» (ən-nubə) və «الانتباه» (əl-intibah) olub yuxudan oyanmaq və ucalmaq deməkdir. «نَبَّهْته وأنْبهتُه» (nəbbəhtuhu və ənbəhtuhu). Eynilə «رجلٌ نَبِيه» (rəcülün nəbih), yəni şərəfli deməkdir. Onların «النَّبَه» (ən-nəbəh) sözünün əzdan (əks mənalı) olması barədəki sözlərinə gəlincə, itmiş şeyə də «نَبَه» (nəbəh), tapılmış şeyə də «نَبَه» (nəbəh) deyilir ki, bu bizə görə səhihdir; çünki o itdikdə onun üçün oyanılar (axtarılar), tapıldıqda da onun üçün oyanılar (hiss edilər) (٢). Dilçilər demişlər:\n«النَّبَه» (ən-nəbəh): qəflətən tapılan azmış heyvandır. Deyirsən: «وجدتُ هذا الشَّيءَ نَبَهًافأضلَلْتُه نَبَهًافإذا» (vəcədtü həzəl-şəyyə nəbəhən və ədlaltuhu nəbəhən izə) nə vaxt itdiyi bilinmədikdə. Fəsildəki qiyas qeyd etdiyimiz kimidir. Belə demişdir:\nكأنَّه دُمْلُجٌ من فِضَّةٍ نَبَه … في مَلْعَبٍ من عَذَارَى الحىِّ مفصوم (٤)\n(Sanki o gümüşdən bir bazubənddir, itmişdir... qəbilə qızlarının oyun yerində qırılmış)",
+ "az": "[نبه] Nun, ba və ha – ucalıq və ulu olmağa dəlalət edən səhih bir kökdür. Bunlardan biri «النُّبْه» və «الانتباه» olub yuxudan oyanmaq və ucalmaq deməkdir. «نَبَّهْته وأنْبهتُه» (onu oyatdım/diqqətini cəlb etdim). Eynilə «رجلٌ نَبِيه», yəni şərəfli adam deməkdir. Onların «النَّبَه» sözünün əzdaddan (əks mənalı) olması barədəki sözlərinə gəlincə, itmiş şeyə də «نَبَه», tapılmış şeyə də «نَبَه» deyilir ki, bu bizə görə səhihdir; çünki o itdikdə onun üçün oyanılar (axtarılar), tapıldıqda da onun üçün oyanılar (hiss edilər) (٢). Dilçilər demişlər:\n«النَّبَه»: qəflətən tapılan azmış heyvandır. Deyirsən: «وجدتُ هذا الشَّيءَ نَبَهاً وأضلَلْتُه نَبَهاً» (bu şeyi qəflətən tapdım/nə vaxt itdiyini bilmədən itirdim), nə vaxt itdiyi bilinmədikdə (٣). Fəsildəki qiyas qeyd etdiyimiz kimidir. Belə demişdir:\nكأنَّه دُمْلُجٌ من فِضَّةٍ نَبَه … في مَلْعَبٍ من عَذَارَى الحىِّ مفصوم (٤)\n(Sanki o, qəbilə qızlarının oyun yerində qırılıb düşmüş gümüşdən bir bazubənddir)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:58.658Z"
+ "ts": "2026-10-26T00:55:58.658Z",
+ "prev_az": "[نبه] (nəbəh): Nun, ba və ha – ucalıq və ulu olmağa dəlalət edən səhih bir kökdür. Bunlardan biri «النُّبْه» (ən-nubə) və «الانتباه» (əl-intibah) olub yuxudan oyanmaq və ucalmaq deməkdir. «نَبَّهْته وأنْبهتُه» (nəbbəhtuhu və ənbəhtuhu). Eynilə «رجلٌ نَبِيه» (rəcülün nəbih), yəni şərəfli deməkdir. Onların «النَّبَه» (ən-nəbəh) sözünün əzdan (əks mənalı) olması barədəki sözlərinə gəlincə, itmiş şeyə də «نَبَه» (nəbəh), tapılmış şeyə də «نَبَه» (nəbəh) deyilir ki, bu bizə görə səhihdir; çünki o itdikdə onun üçün oyanılar (axtarılar), tapıldıqda da onun üçün oyanılar (hiss edilər) (٢). Dilçilər demişlər:\n«النَّبَه» (ən-nəbəh): qəflətən tapılan azmış heyvandır. Deyirsən: «وجدتُ هذا الشَّيءَ نَبَهًافأضلَلْتُه نَبَهًافإذا» (vəcədtü həzəl-şəyyə nəbəhən və ədlaltuhu nəbəhən izə) nə vaxt itdiyi bilinmədikdə. Fəsildəki qiyas qeyd etdiyimiz kimidir. Belə demişdir:\nكأنَّه دُمْلُجٌ من فِضَّةٍ نَبَه … في مَلْعَبٍ من عَذَارَى الحىِّ مفصوم (٤)\n(Sanki o gümüşdən bir bazubənddir, itmişdir... qəbilə qızlarının oyun yerində qırılmış)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«نَبَّهْته وأنْبهتُه» cümləsi tərcümə olunmayıb.",
+  "Ərəbcə mətndə sözlər bir-birinə bitişdirilib və haşiyə rəqəmi (٣) buraxılıb.",
+  "Şeir beyti tərcümə edilməyib."
+ ],
+ "review_ts": "2026-11-27T14:47:08.496Z"
 }

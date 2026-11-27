@@ -11,7 +11,16 @@
   "page_to": 458
  },
  "ar": "النون والفاء والخاء: أصلٌ صحيح يدلُّ على انتفاخٍ وعلوّ.\nمنه انتفَخَ الشّيءُ انتفاخاً. ويقال انتفَخَ النَّهار: علا. ونَفْخَة الرَّبيع: إعْشابه (١)؛ لأنَّ الأرضَ تربو فيه وتنتفِخ. والمنْفُوخ: الرَّجل السَّمين. والنَّفْخاء من الأرض مثلُ النَّبْخاء؛ وقد مَضَى.",
- "az": "[نفخ] (nəfəh): Nun, fa və xa hərfləri şişməyə və ucalığa dəlalət edən səhih bir əsldir. Ondan انتفَخَ الشّيءُ انتفاخاً (intəfəxəl-şəyyü intifaxan – şey şişdi) gəlmişdir. انتفَخَ النَّهار (intəfəxən-nəhar) – gündüz yüksəldi, devilir. نَفْخَة الرَّبيع (nəfxətür-rəbiə) – yazın ot bitirməsidir (١), çünki yer onda qabarır və şişir. المنْفُوخ (əlmənfux) – kök adam. الأرض النَّفْخاء (ənnəfxau minəl-ardı) النَّبْخاء (ənnəbxau) kimidir; bu artıq keçmişdir.",
+ "az": "[نفخ]\nNun, fa və xa hərfləri şişməyə və ucalığa dəlalət edən səhih bir əsldir.\nOndan انتفَخَ الشّيءُ انتفاخاً (şey şişdi) gəlir. انتفَخَ النَّهارُ (gündüz ucaldı) deyilir. نَفْخَة الرَّبيع yazın ot bitirməsidir (١)؛ çünki torpaq onda qabarır və şişir. المنْفُوخ kök adamdır. Torpaq barəsində النَّفْخاء sözü النَّبْخاء kimidir; bu artıq keçmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:02:03.385Z"
+ "ts": "2026-10-26T01:02:03.385Z",
+ "prev_az": "[نفخ] (nəfəh): Nun, fa və xa hərfləri şişməyə və ucalığa dəlalət edən səhih bir əsldir. Ondan انتفَخَ الشّيءُ انتفاخاً (intəfəxəl-şəyyü intifaxan – şey şişdi) gəlmişdir. انتفَخَ النَّهار (intəfəxən-nəhar) – gündüz yüksəldi, devilir. نَفْخَة الرَّبيع (nəfxətür-rəbiə) – yazın ot bitirməsidir (١), çünki yer onda qabarır və şişir. المنْفُوخ (əlmənfux) – kök adam. الأرض النَّفْخاء (ənnəfxau minəl-ardı) النَّبْخاء (ənnəbxau) kimidir; bu artıq keçmişdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Baş sözün transliterasiyası səhvdir, lüzumsuz latın transkripsiyaları işlədilmişdir və ərəbcə mətndə dəyişiklik edilmişdir."
+ ],
+ "review_ts": "2026-11-27T15:01:08.796Z"
 }

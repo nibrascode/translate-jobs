@@ -11,7 +11,17 @@
   "page_to": 388
  },
  "ar": "النون والتاء والقاف أصلٌ يدلُّ على جَذْب شيءٍ وزَعزَعَتِه وقَلْعِه من أصله. تقول العرب: نَتَقْتُ الغَرْبَ من البِئر: جَذَبْتُه. والبعير إذا تَزَعْزَع حِملُه نتَقَ عُرَى حِبالِه، وذلك جَذْبُه إيّاها فتَسترخِي. وامرأةٌ ناتقٌ: كثُرَ أولادُها. وهذا قياس الباب، كأنَّهم نُتِقُوا مِنْها نتقًا. قال (٣):\nلم يُحرَموا حُسْنَ الغِذاءِ وأمُّهُمْ … دَحَقَتْ عليك بناتقٍ مذكارِ (٤)\nو\nفي الحديث: «علَيكم بالأبكار فإنَّهنَّ أنْتَقُ أرحاماً». وزَنْدٌ ناتقٌ: وارٍ؛ وهو القياس.",
- "az": "«نتق» (nətəq) — Nun, ta və qaf hərfləri bir şeyi dartmağa, silkələməyə və kökündən qoparmağa dəlalət edən bir əsasdır. Ərəblər deyirlər: نَتَقْتُ الغَرْبَ من البِئر (quyudan dəvə dərisindən qabı çəkib çıxartdım). Dəvənin yükü silkələndiyi zaman ipinin düyünlərini nətəq edər, bu da onun ipi dartması və nəticədə iplərin boşalmasıdır. وَامرأةٌ ناتقٌ (natiq qadın): övladı çox olan. Bu da bu بابın (bölmənin) qiyasındandır, sanki onlar ondan bir nətəq etməklə (qoparmaqla) çıxarılmışlar. (3) demişdir:\nلم يُحرَموا حُسْنَ الغِذاءِ وأمُّهُمْ … دَحَقَتْ عليك بناتقٍ مذكارِ (٤)\n(Onlar gözəl qidalanmadan məhrum edilməmişdilər, anaları isə sizi erkək doğan natiq qadınla qovub qabağa salmışdı).\n\nVə hədisdə: «علَيكم بالأبكار فإنَّهنَّ أنْتَقُ أرحاماً» (Azərlərə [bakirələrə] üstünlük verin, çünki onların rəhmləri daha çox uşaq doğanlar, dölü bol olanlardır). وَزَنْدٌ ناتقٌ (alovlanan od çaxmağı); bu da həmin qiyasdandır.",
+ "az": "[نتق]\nالنون والتاء والقاف (nun, ta və qaf) bir şeyi dartmağa, silkələməyə və kökündən qoparmağa dəlalət edən bir kökdür. Ərəblər deyirlər: «نَتَقْتُ الغَرْبَ من البِئر: جَذَبْتُه» (quyudan dəvə dərisi tuluğunu çekib çıxartdım). Dəvənin yükü silkələndiyi zaman: «نتَقَ عُرَى حِبالِه، وذلك جَذْبُه إيّاها فتَسترخِي» (iplərinin düyünlərini nətəq edər, bu da onun ipləri dartması və iplərin boşalmasıdır). «امرأةٌ ناتقٌ: كثُرَ أولادُها» (natiq qadın: övladı çox olan qadın). Bu da bu babın qiyasındandır, sanki onlar ondan bir nətəq etməklə (qoparmaqla) çıxarılmışlar. [Şair] demişdir (3):\nلم يُحرَموا حُسْنَ الغِذاءِ وأمُّهُمْ … دَحَقَتْ عليك بناتقٍ مذكارِ (٤)\n(Onlar gözəl qidalanmadan məhrum edilməmişdilər, anaları isə sizi erkək doğan natiq qadınla qovub qabağa salmışdı).\nHədisdə [gəlmişdir]: «علَيكم بالأبكار فإنَّهنَّ أنْتَقُ أرحاماً» (Bakirə qadınlarla evlənin, çünki onlar dölü daha çox doğandır). «زَنْدٌ ناتقٌ: وارٍ» (alovlanan od çaxmağı); bu da həmin qiyasdandır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:56:21.746Z"
+ "ts": "2026-10-26T00:56:21.746Z",
+ "prev_az": "«نتق» (nətəq) — Nun, ta və qaf hərfləri bir şeyi dartmağa, silkələməyə və kökündən qoparmağa dəlalət edən bir əsasdır. Ərəblər deyirlər: نَتَقْتُ الغَرْبَ من البِئر (quyudan dəvə dərisindən qabı çəkib çıxartdım). Dəvənin yükü silkələndiyi zaman ipinin düyünlərini nətəq edər, bu da onun ipi dartması və nəticədə iplərin boşalmasıdır. وَامرأةٌ ناتقٌ (natiq qadın): övladı çox olan. Bu da bu بابın (bölmənin) qiyasındandır, sanki onlar ondan bir nətəq etməklə (qoparmaqla) çıxarılmışlar. (3) demişdir:\nلم يُحرَموا حُسْنَ الغِذاءِ وأمُّهُمْ … دَحَقَتْ عليك بناتقٍ مذكارِ (٤)\n(Onlar gözəl qidalanmadan məhrum edilməmişdilər, anaları isə sizi erkək doğan natiq qadınla qovub qabağa salmışdı).\n\nVə hədisdə: «علَيكم بالأبكار فإنَّهنَّ أنْتَقُ أرحاماً» (Azərlərə [bakirələrə] üstünlük verin, çünki onların rəhmləri daha çox uşaq doğanlar, dölü bol olanlardır). وَزَنْدٌ ناتقٌ (alovlanan od çaxmağı); bu da həmin qiyasdandır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format pozulmuşdur: «[نتق]» ilə başlamır.",
+  "Ərəbcə izah ifadələri («جَذَبْتُه», «كثُرَ أولادُها», «وارٍ») ixtisar edilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:47:58.917Z"
 }

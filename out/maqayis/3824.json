@@ -11,7 +11,17 @@
   "page_to": 306
  },
  "ar": "الميم والدال والقاف كلمةٌ واحدة حكاها أبوبكر: مَدَقْتُ الصَّخرَ (٤) وغيره: كسرته.",
- "az": "«مدق» (mim, dal və qaf) — Əbu Bəkr tərəfindən rəvayət edilən tək bir sözdür: مَدَقْتُ الصَّخْرَ (qayanı və başqasını döydüm, sındırdım) (٤).",
+ "az": "[مدق] (Mim, dal və qaf): Əbu Bəkrin nəql etdiyi tək bir sözdür: «مَدَقْتُ الصَّخرَ» (٤) (qayanı) və başqa şeyi sındırdım.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:54.672Z"
+ "ts": "2026-10-26T00:51:54.672Z",
+ "prev_az": "«مدق» (mim, dal və qaf) — Əbu Bəkr tərəfindən rəvayət edilən tək bir sözdür: مَدَقْتُ الصَّخْرَ (qayanı və başqasını döydüm, sındırdım) (٤).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[مدق]» əvəzinə ««مدق»» formatında başlamışdır.",
+  "«(٤)» haşiyə rəqəminin yeri dəyişdirilmiş və «الصَّخرَ» sözünün hərəkəsi ərəb mətnindən fərqli yazılmışdır."
+ ],
+ "review_ts": "2026-11-27T13:51:28.571Z"
 }

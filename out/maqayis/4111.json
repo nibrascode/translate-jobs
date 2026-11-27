@@ -11,7 +11,17 @@
   "page_to": 418
  },
  "ar": "النون والراء والهاء كلمةٌ تدلُّ على بُعدٍ في مكانٍ وغيرِه.\nورجلٌ نَزِيه الخُلُق: بعيدٌ من المطامع الدّنيّة. قال ابن دريد (٤): ونَزِهُ النَّفس\nونازِهُ النَّفس: ظلِفُها عن المَدَانِس. قال ابن السكِّيت: خرجنا نتنزَّه، إذا تباعَدُوا عن الماء والرِّيف. ومكان نَزِيهٌ: خلاء ليس به أحد.",
- "az": "[نزه] (nəzəhə): Nun, ra və hə sözü məkan və qeyrisində uzaqlığa dəlalət edən bir sözdür.\n\nBir kişi nəzihül-xüluq (əxlaqı təmiz, pak): dünya tamahından uzaq. İbn Dürid (٤) demişdir: Nəzühün-nəfs və nazühün-nəfs: nəfsin çirklərdən qorunması, uzaq durması. İbn əs-Sikkit demişdir: Su və yaşıllıqdan uzaqlaşdıqları zaman \"tənəzzəh edirik\" (gəzməyə çıxırıq) deyərək çıxdıq. Məkanun nəzihün (boş, içində heç kəs olmayan yer).",
+ "az": "[نزه] Nun, zay və hə sözü məkan və qeyrisində uzaqlığa dəlalət edən bir sözdür.\n\nرَجُلٌ نَزِيهُ الْخُلُق (əxlaqı nəzih olan kişi): alçaq tamahlardan uzaq olan. İbn Dureyd (٤) demişdir: نَزِهُ النَّفْس (nəzihun-nəfs) və نَازِهُ النَّفْس (nazihun-nəfs): nəfsin çirkinliklərdən qorunması, uzaq durması. İbn əs-Sikkit demişdir: خَرَجْنَا نَتَنَزَّهُ (su və bərəkətli yerlərdən uzaqlaşdıqları zaman «gəzməyə/uzaqlaşmağa çıxdıq» deyirlər). مَكَانٌ نَزِيهٌ (içində heç kəs olmayan boş yer).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:59:16.418Z"
+ "ts": "2026-10-26T00:59:16.418Z",
+ "prev_az": "[نزه] (nəzəhə): Nun, ra və hə sözü məkan və qeyrisində uzaqlığa dəlalət edən bir sözdür.\n\nBir kişi nəzihül-xüluq (əxlaqı təmiz, pak): dünya tamahından uzaq. İbn Dürid (٤) demişdir: Nəzühün-nəfs və nazühün-nəfs: nəfsin çirklərdən qorunması, uzaq durması. İbn əs-Sikkit demişdir: Su və yaşıllıqdan uzaqlaşdıqları zaman \"tənəzzəh edirik\" (gəzməyə çıxırıq) deyərək çıxdıq. Məkanun nəzihün (boş, içində heç kəs olmayan yer).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kök hərflərinin adı «Nun, zay və hə» olaraq düzəldilməlidir.",
+  "İzah edilən ərəb sözləri ərəb qrafikası ilə saxlanılmalıdır."
+ ],
+ "review_ts": "2026-11-27T14:52:45.689Z"
 }

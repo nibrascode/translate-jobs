@@ -11,7 +11,16 @@
   "page_to": 372
  },
  "ar": "النون والواو والكاف كلمةٌ واحدة، هي النَّوَاكة والنُّوك (١) وهي الحُمْق. ورجلٌ أنْوَك ومُسْتنوِكٌ، وهم نَوْكَى (٢).",
- "az": "[نوك] (nuk) - nun, vav və kaf tək bir kəlmədir, o da النَّوَاكة (ən-nəvakəh) və النُّوك (ən-nuk)dur (1), bu da axmaqlıq, səfehlik deməkdir. Və kişi أنْوَك (ənvak) və مُسْتنوِكٌ (mustənvikun) olar, onlar isə نَوْكَى (nəvkə) olurlar (2).",
+ "az": "[نوك] nun, vav və kaf tək bir kəlmədir: النَّوَاكَةُ və النُّوكُ (١) axmaqlıq, səfehlik deməkdir. Dərk etməyən kişiyə أنْوَكُ və مُسْتَنِوكٌ deyilir, cəmi isə نَوْكَى (٢) gəlir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:10.792Z"
+ "ts": "2026-10-26T00:55:10.792Z",
+ "prev_az": "[نوك] (nuk) - nun, vav və kaf tək bir kəlmədir, o da النَّوَاكة (ən-nəvakəh) və النُّوك (ən-nuk)dur (1), bu da axmaqlıq, səfehlik deməkdir. Və kişi أنْوَك (ənvak) və مُسْتنوِكٌ (mustənvikun) olar, onlar isə نَوْكَى (nəvkə) olurlar (2).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Haşiyə rəqəmləri ərəb rəqəmləri ilə (١), (٢) saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-27T14:46:15.213Z"
 }

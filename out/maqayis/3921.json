@@ -11,7 +11,17 @@
   "page_to": 341
  },
  "ar": "الميم والقاف والحرف المعتلّ. يقال فيه: امْقُ هذا مَقْوكَ مالَك، أي صُنْه صِيانَتَك مالَك. ومَقَوْتُ السَّيف: جَلَوْتُه، وكذا المِرْآة. قال ابن دريد: جاء بهما يُونس وأبو الخَطَّاب (٣).",
- "az": "[مقو] \nMim, qaf və uzanan hərf. Haqqında deyilir: امْقُ هذا مَقْوكَ مالَك (imqu hədə maqwvə malək) — yəni malını qoruduğun kimi bunu da qoru. Və مَقَوْتُ السَّيف (maqawtu əs-səyf) — qılıncı cilaladım, güzgü də həmçinin. İbn Duraid demişdir: Bunları Yunus və Əbu əl-Xəttab gətirmişdir (٣).",
+ "az": "[مقو]\nMim, qaf və illətli hərf. Deyilir: امْقُ هذا مَقْوكَ مالَك (öz malını qoruduğun kimi bunu da qoru). Və مَقَوْتُ السَّيف (qılıncı cilaladım), güzgü haqqında da belə deyilir. İbn Duraid demişdir: Bunları Yunus və Əbu əl-Xəttab nəql etmişlər (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:44.514Z"
+ "ts": "2026-10-26T00:53:44.514Z",
+ "prev_az": "[مقو] \nMim, qaf və uzanan hərf. Haqqında deyilir: امْقُ هذا مَقْوكَ مالَك (imqu hədə maqwvə malək) — yəni malını qoruduğun kimi bunu da qoru. Və مَقَوْتُ السَّيف (maqawtu əs-səyf) — qılıncı cilaladım, güzgü də həmçinin. İbn Duraid demişdir: Bunları Yunus və Əbu əl-Xəttab gətirmişdir (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə artıq latın transliterasiyaları əlavə edilmişdir.",
+  "«الحرف المعتل» ifadəsi «illətli hərf» kimi yazılmalıdır."
+ ],
+ "review_ts": "2026-11-27T14:41:27.869Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 341
  },
  "ar": "الميم والقاف والهاء كلمةٌ تدل على لون. يقولون: المَقَهُ: بياضٌ في زرقة. وامرأة مَقهاءُ وشرَابٌ أمْقَهُ. قال:\nإذا خفَقَت بأمْقَه صَحصحانٍ … رءُوسُ القَوم والتَزَموا الرِّحالا (٢)",
- "az": "[مقه] \nMim, قاف (qaf) və hə — rəngə dəlalət edən kəlmədir. Deyirlər: المَقَهُ (əl-maqahu) — mavilik qarışıq ağlıqdır. Qadına مَقهاءُ (maqhaə) və içkiyə أمْقَهُ (amquh) deyilir. Şair demişdir:\nإذا خفَقَت بأمْقَه صَحصحانٍ … رءُوسُ القَوم والتَزَموا الرِّحالا (٢)\n(Geniş səhrada mavi-ağrılı [gözlərlə] adamların başları yırğalandığı və onlar yüklərinə sarıldıqları zaman)",
+ "az": "[مقه]\nMim, qaf və hə — rəngə dəlalət edən kəlmədir. Deyirlər: المَقَهُ (maviyə çalan ağlıq). Qadına امرأة مَقهاءُ və içkiyə شرابٌ أمْقَهُ deyilir. Şair demişdir:\nإذا خفَقَت بأمْقَه صَحصحانٍ … رءُوسُ القَوم والتَزَموا الرِّحالا (٢)\n(Bəyaz və geniş bir səhrada camaatın başları mürgüləməkdən əyildikdə və onlar dəvə yəhərlərinə sarıldıqda...).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:44.514Z"
+ "ts": "2026-10-26T00:53:44.514Z",
+ "prev_az": "[مقه] \nMim, قاف (qaf) və hə — rəngə dəlalət edən kəlmədir. Deyirlər: المَقَهُ (əl-maqahu) — mavilik qarışıq ağlıqdır. Qadına مَقهاءُ (maqhaə) və içkiyə أمْقَهُ (amquh) deyilir. Şair demişdir:\nإذا خفَقَت بأمْقَه صَحصحانٍ … رءُوسُ القَوم والتَزَموا الرِّحالا (٢)\n(Geniş səhrada mavi-ağrılı [gözlərlə] adamların başları yırğalandığı və onlar yüklərinə sarıldıqları zaman)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları bölməsində qarışıq yazı var (Mim, قاف (qaf)...).",
+  "Şeirin tərcüməsində məna təhrifi var («mavi-ağrılı» yazılıb)."
+ ],
+ "review_ts": "2026-11-27T14:41:27.868Z"
 }

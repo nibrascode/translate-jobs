@@ -11,7 +11,17 @@
   "page_to": 386
  },
  "ar": "النون والتاء والجيم كلمةٌ واحدة، هي النّتاج (١). ونُتِجت النّاقةُ؛ ونَتَجها أهلُها. وفرسٌ نَتُوجٌ: استبانَ نتاجها.",
- "az": "[نتج] (nətəc): Nun, ta və cim – tək bir kəlmədir, o da «النّتاج» (ən-nitac) – doğulmadır. «نُتِجت النّاقةُ» (nuticət-nəqatu): dişi dəvə balaladı; «ونَتَجها أهلُها» (və nətəcəhə əhluhə): ailəsi onu doğurtdu. «فرسٌ نَتُوجٌ» (fərasun nətuqun): doğması bəlli olan dişi at.",
+ "az": "[نتج]\nالنون والتاء والجيم (nun, ta və cim) tək bir kəlmədir, o da «النّتاج» (ən-nitac - doğuluş, balalama) sözüdür. «نُتِجت النّاقةُ» (dişi dəvə balaladı); «نَتَجها أهلُها» (sahibləri onu doğurtdu). «فرسٌ نَتُوجٌ» (doğması yaxınlaşmış dişi at): «استبانَ نتاجها» (doğumu aydınlaşdı/bəlli oldu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:55:58.658Z"
+ "ts": "2026-10-26T00:55:58.658Z",
+ "prev_az": "[نتج] (nətəc): Nun, ta və cim – tək bir kəlmədir, o da «النّتاج» (ən-nitac) – doğulmadır. «نُتِجت النّاقةُ» (nuticət-nəqatu): dişi dəvə balaladı; «ونَتَجها أهلُها» (və nətəcəhə əhluhə): ailəsi onu doğurtdu. «فرسٌ نَتُوجٌ» (fərasun nətuqun): doğması bəlli olan dişi at.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«استبان نتاجها» cümləsi tərcümə edilməyib.",
+  "«نَتُوجٌ» sözünün oxunuşunda «q» hərfi işlədilmişdir."
+ ],
+ "review_ts": "2026-11-27T14:47:58.915Z"
 }

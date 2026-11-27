@@ -11,7 +11,17 @@
   "page_to": 334
  },
  "ar": "الميم والظاء والعين فيه معنًى واحد. مَظَّعت القَضيب: تركت عليه لحاءَه حتى يتشرَّب ماءَه، فيكون أصلَبَ له. ومظّعت الأديم الدُّهنَ (٥):\nسقَيته. ثم يُتَوسَّع فيه فيقال: مَظَّعَ الرجلُ الوَتَر تمظيعاً: مَلّسَه. ويقال: إن المُظْعة\nبقيَّة اللّبن. قال الخليل: ولقد تَمَظَّعَ ما عندك، أي تَلَحَّسَه كلَّه. والمُظْعة: [بقيَّةٌ (١)] من الكلأ. قال: والرِّيح تمظَع الخشبَ (٢) حتى تَستخرِج نُدُوَّتَه. فعلى هذا يمكن أنَّ أصلَ الباب النَّشف والتشرُّب. قال الخليل: ومَظَع الوَتَر مَظْعاً.",
- "az": "[مظع] \nMim, ظ (zı) və eyn hərflərində tək bir məna vardır. مَظَّعت القَضيب: su ilə doyması üçün budağın qabığını üzərində saxladım ki, daha sərt olsun. Və مظّعت الأديم الدُّهنَ (٥): onu suvardım (yağladım). Sonra bu söz genişləndirilərək deyilir: مَظَّعَ الرجلُ الوَتَر تمظيعاً: onu hamarladı. Deyilir ki, المُظْعة — südün qalıntısıdır. Xəlil demişdir: «Və ləqəd تَمَظَّعَ ما عندك» — yəni onun hamısını yalayıb qurtardın. Və المُظْعة: otlaqdan [qalıntı (١)]. O demişdir: Külək odunun nəmliyini çıxarana qədər onu مظع (təmizləyir/sürtür) (٢). Buna görə də, bu fəslin əslinin qurumaq və içəriyə çəkmək olması mümkündür. Xəlil demişdir: مَظَع الوَتَر مَظْعاً.",
+ "az": "[مظع] Mim, za və eyn hərflərində tək bir məna vardır. مَظَّعْتُ القَضِيبَ: su ilə doyması və daha sərt olması üçün budağın qabığını üzərində saxladım. Və مَظَّعَتِ الأَدِيمَ الدُّهْنَ (٥): dərini yağla suvardım (yağı dərinin içinə hopdurdum). Sonra bu söz genişləndirilərək deyilir: مَظَّعَ الرَّجُلُ الوَتَرَ تَمْظِيعاً: simi hamarladı. Deyilir ki, المُظْعَة — südün qalıntısıdır. Əl-Xəlil demişdir: «تَمَظَّعَ مَا عِنْدَكَ» — yəni səndə olanın hamısını yalayıb qurtardı. Və المُظْعَة: otlaqdan qalan [qalıntıdır (١)]. Dedi: Külək odunu nəmliyi çıxana qədər qurudur (تمظع الخشب) (٢). Buna görə də bu fəslin əslinin qurumaq və hopdurmaq olması mümkündür. Əl-Xəlil demişdir: مَظَعَ الوَتَرَ مَظْعاً.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:53:24.328Z"
+ "ts": "2026-10-26T00:53:24.328Z",
+ "prev_az": "[مظع] \nMim, ظ (zı) və eyn hərflərində tək bir məna vardır. مَظَّعت القَضيب: su ilə doyması üçün budağın qabığını üzərində saxladım ki, daha sərt olsun. Və مظّعت الأديم الدُّهنَ (٥): onu suvardım (yağladım). Sonra bu söz genişləndirilərək deyilir: مَظَّعَ الرجلُ الوَتَر تمظيعاً: onu hamarladı. Deyilir ki, المُظْعة — südün qalıntısıdır. Xəlil demişdir: «Və ləqəd تَمَظَّعَ ما عندك» — yəni onun hamısını yalayıb qurtardın. Və المُظْعة: otlaqdan [qalıntı (١)]. O demişdir: Külək odunun nəmliyini çıxarana qədər onu مظع (təmizləyir/sürtür) (٢). Buna görə də, bu fəslin əslinin qurumaq və içəriyə çəkmək olması mümkündür. Xəlil demişdir: مَظَع الوَتَر مَظْعاً.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ظ» hərfinin adı qaydalara uyğun olaraq «za» yazılmalıdır.",
+  "«مظعت الأديم الدهن» cümləsinin mənası dəqiqləşdirilməlidir."
+ ],
+ "review_ts": "2026-11-27T14:35:34.040Z"
 }

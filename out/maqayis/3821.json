@@ -11,7 +11,19 @@
   "page_to": 305
  },
  "ar": "الميم والدال والراء أصل صحيح يدلُّ على طينٍ متحبِّب، ثم يشبَّه [به]. فالمَدَر معروف، والواحدة مَدَرَةٌ، وربَّما قالوا: سمِّيت البلدة مَدَرَة. قال:\n* لَيْلاً وما نَادَى أذِين المَدَرَه (٢) *\nوالمَدْر: تطيينُك وجهَ الحَوض بالطِّين، وهو المَدَر المبلول بَلاًّ بالماء (٣). ومكان ذلك الطِّين مَمْدَرةٌ. والأمْدَر من الضِّباع، لونُه لونُ المَدَرِ (٤). ويقال: رجلٌ أمدَرُ:\nعظيم الجَنْبَين، وأظنُّه من تَراكُم اللَّحم عليه، كأنَّه مَدَرٌ.",
- "az": "«مدر» (mim, dal və ra) — gillə əlaqəli dənəvər palçığa dəlalət edən səhih bir kökdür, sonra ona bənzədilir. مَدَر (palçıq kəsəyi, kəpək) məşhurdur, təkliyi مَدَرَةٌ (palçıq kəsəyi) kimidir. Bəzən deyirlər: «Şəhərə mәdәrә ad verildi». Şair demişdir: «Gecə ikən, palçıq kəsəyinin carçısı səslənməzdi» (٢). مَدْر — hovuzun üzünü palçıqla suvamanızdır, bu da su ilə yaxşıca isladılmış مَدَر (palçıq) deməkdir (٣). Belə palçığın yeri مَمْدَرَةٌ (palçırlı yer) adlanır. Əm1d2ar (الأمْدَر) — rəngi palçıq rəngində olan kaftar növüdür (٤). Deyilir ki, kişi أَمْدَرُ (amdər) — böyük böyürlüdür, zənnimcə, bu, üzərində ətin yığılmasından irəli gəlir, sanki palçıq kəsəyidir.",
+ "az": "[مدر] (Mim, dal və ra): Dənəvər palçığa dəlalət edən səhih bir əsldir, sonra (başqa şeylər də) ona bənzədilir. «المَدَر» (palçıq kəsəyi) məlumdur, təki «مَدَرَةٌ» (bir palçıq kəsəyi)dir. Bəzən deyirlər: şəhərə «مَدَرَة» (mədərə) adı verilmişdir. Şair demişdir:\n* لَيْلاً وما نَادَى أذِين المَدَرَه (٢) * (Gecə ikən, şəhərin carçısı hələ səslənmədiyi halda).\n«المَدْر» (əl-mədr): hovuzun üzünü palçıqla suvamağındır; bu da su ilə yaxşıca isladılmış «المَدَر» (palçıq)dır (٣). Həmin palçığın yeri «مَمْدَرةٌ» (palçıqlı yer) adlanır. Kaftarların «الأمْدَر» (əmdər) olanı rəngi «المَدَرِ» (palçıq kəsəyi) rəngində olanıdır (٤). Deyilir ki, «رجلٌ أمدَرُ» (əmdər kişi):\nböyürləri iri olan kişidir; zənnimcə, bu, onun üzərində ətin yığılmasından irəli gəlir, sanki palçıq kəsəyidir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:54.672Z"
+ "ts": "2026-10-26T00:51:54.672Z",
+ "prev_az": "«مدر» (mim, dal və ra) — gillə əlaqəli dənəvər palçığa dəlalət edən səhih bir kökdür, sonra ona bənzədilir. مَدَر (palçıq kəsəyi, kəpək) məşhurdur, təkliyi مَدَرَةٌ (palçıq kəsəyi) kimidir. Bəzən deyirlər: «Şəhərə mәdәrә ad verildi». Şair demişdir: «Gecə ikən, palçıq kəsəyinin carçısı səslənməzdi» (٢). مَدْر — hovuzun üzünü palçıqla suvamanızdır, bu da su ilə yaxşıca isladılmış مَدَر (palçıq) deməkdir (٣). Belə palçığın yeri مَمْدَرَةٌ (palçırlı yer) adlanır. Əm1d2ar (الأمْدَر) — rəngi palçıq rəngində olan kaftar növüdür (٤). Deyilir ki, kişi أَمْدَرُ (amdər) — böyük böyürlüdür, zənnimcə, bu, üzərində ətin yığılmasından irəli gəlir, sanki palçıq kəsəyidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə «[مدر]» əvəzinə ««مدر»» formatında başlamışdır.",
+  "Şeir beytinin ərəbcə mətni buraxılmış, yalnız yanlış tərcüməsi verilmişdir.",
+  "«مَدَر» sözünə yanlış olaraq «kəpək» mənası əlavə edilmiş, «سمِّيت البلدة مَدَرَة» cümləsində «مَدَرَة» sözü kiril «ә» hərfi ilə («mәdәrә») yazılmışdır.",
+  "«الأمْدَر» sözünün qarşısında «Əm1d2ar» şəklində pozulmuş mətn, «مَمْدَرَةٌ» və «أَمْدَرُ» sözlərində isə ərəb mətnindən fərqli hərəkə və orfoqrafik səhv («palçırlı») vardır."
+ ],
+ "review_ts": "2026-11-27T13:51:28.570Z"
 }

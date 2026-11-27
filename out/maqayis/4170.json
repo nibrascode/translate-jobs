@@ -11,7 +11,16 @@
   "page_to": 445
  },
  "ar": "النون والعين والقاف كلمةٌ تدلُّ على صَوت. ونعَق الراعى بالغَنَم يَنْعَق ويَنْعِق، إذا صاح بهِ زجراً، نعيقا.",
- "az": "«نعق» (nəğəq): Nun, eyn və qaf hərflərindən ibarət olub səsə dəlalət edən bir sözdür. Çoban qoyunları qovarkən onlara qışqırıb səs saldıqda «نعَق الراعى بالغَنَم يَنْعَق ويَنْعِق» (çoban qoyunları səslədi) deyilir, buna «نعيقا» (nəyiq - səsləmə) deyilir.",
+ "az": "[نعق] (nun, eyn və qaf) – səsə dəlalət edən bir kəlmədir. Çoban qoyunları qovub səs saldıqda نعَق الراعى بالغَنَم يَنْعَق ويَنْعِقُ نعيقًا (çoban qoyunları səslədi) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T01:01:16.218Z"
+ "ts": "2026-10-26T01:01:16.218Z",
+ "prev_az": "«نعق» (nəğəq): Nun, eyn və qaf hərflərindən ibarət olub səsə dəlalət edən bir sözdür. Çoban qoyunları qovarkən onlara qışqırıb səs saldıqda «نعَق الراعى بالغَنَم يَنْعَق ويَنْعِق» (çoban qoyunları səslədi) deyilir, buna «نعيقا» (nəyiq - səsləmə) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[kök]» qaydasına uyğun deyil, «نعق» sözü səhv transkripsiya olunub."
+ ],
+ "review_ts": "2026-11-27T14:56:50.775Z"
 }

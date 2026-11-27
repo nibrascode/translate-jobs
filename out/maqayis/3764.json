@@ -11,9 +11,18 @@
   "page_to": 285
  },
  "ar": "الميم والواو والقاف كلمتانِ لا يرجعان إلى أصلٍ واحد. والمُوق:\nحُمقٌ في غَباوة. ويقولون: ماقَ البَيعُ يَمُوق: رَخُصَ.",
- "az": "[موق] (M-v-q): Mim, vau və qaf tək bir əsərə qayıtmayan iki kəlmədir. والمُوق (əl-muq): səfehliklə qarışıq kütlük. Və deyirlər: ماقَ البَيعُ يَمُوق (maqəl-bəyü yamucu): alver ucuzlaşdı.",
+ "az": "[موق]\nالميم والواو والقاف (mim, vav və qaf) tək bir əslə qayıtmayan iki kəlmədir. والمُوق (əl-muq):\nsəfehliklə qarışıq kütlük. Və deyirlər: ماقَ البَيعُ يَمُوق (alış-veriş ucuzlaşdı): رَخُصَ (ucuzlaşdı).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:50:25.991Z",
- "review_attempts": 1,
- "review_last_error": "qısa (145 < 185)"
+ "review_last_error": "qısa (145 < 185)",
+ "prev_az": "[موق] (M-v-q): Mim, vau və qaf tək bir əsərə qayıtmayan iki kəlmədir. والمُوق (əl-muq): səfehliklə qarışıq kütlük. Və deyirlər: ماقَ البَيعُ يَمُوق (maqəl-bəyü yamucu): alver ucuzlaşdı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«əsərə» sözü «əslə» yerinə səhv yazılıb.",
+  "«vau» hərf adı səhvdir («vav» olmalıdır) və «يَمُوق» sözünün oxunuşu («yamucu») yanlışdır."
+ ],
+ "review_ts": "2026-11-27T13:50:44.980Z"
 }
