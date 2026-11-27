@@ -11,7 +11,18 @@
   "page_to": 248
  },
  "ar": "اللام والسين والقاف ليس أصلاً، وأصله الصاد. يقال اللَّسَق: اللَّوَى (٣). وإذا التزقت الرِّئة بالجَنْب قيل لَسِقَ لَسَقاً. والأصل لصق.\nقال رؤبة:\n* وبَلَّ بَردُ الماءِ أعضادَ اللّسَقْ (٤) *",
- "az": "[لسق] (ləsəq) — lam, sin və qaf əsl deyil, əsli sad hərfidir. Deyilir ki, اللَّسَق (əlləsəq) — əyrilikdir (٣). Ağciyər böyrəyə yapışdıqda لَسِقَ لَسَقاً (ləsəqə ləsəqən) deylər. Əsli isə لصق (ləsəqə) sözüdür.\nRüəbə demişdir:\n* وبَلَّ بَردُ الماءِ أعضadَ اللّسَقْ (٤) *",
+ "az": "[لسق]\nاللام والسين والقاف (lam, sin və qaf) əsl kök deyildir, əsli sad hərfidir. Deyilir:\nاللَّسَق: اللَّوَى (٣) (əl-ləsəq — daxili xəstəlik, susuzluqdan qabırğanın yapışmasıdır).\nAğciyər qabırğaya (böyürə) yapışdıqda لَسِقَ لَسَقاً deyilir. Əsli isə لصق (lasiqa) sözüdür.\nRüəbə demişdir:\n* وبَلَّ بَردُ الماءِ أعضادَ اللّسَقْ (٤) *\n(Və soyuq su [ağciyəri qabırğasına] yapışmış dəvənin yanlarını islatdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:27.242Z"
+ "ts": "2026-10-26T00:48:27.242Z",
+ "prev_az": "[لسق] (ləsəq) — lam, sin və qaf əsl deyil, əsli sad hərfidir. Deyilir ki, اللَّسَق (əlləsəq) — əyrilikdir (٣). Ağciyər böyrəyə yapışdıqda لَسِقَ لَسَقاً (ləsəqə ləsəqən) deylər. Əsli isə لصق (ləsəqə) sözüdür.\nRüəbə demişdir:\n* وبَلَّ بَردُ الماءِ أعضadَ اللّسَقْ (٤) *",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Rüəbənin beytində ərəb mətni korlanmışdır («أعضadَ»).",
+  "Şeir beyti tərcüməsiz buraxılmışdır.",
+  "«الجَنْب» sözü «böyrək» deyil, «böyür, qabırğa» deməkdir."
+ ],
+ "review_ts": "2026-11-27T00:46:04.257Z"
 }

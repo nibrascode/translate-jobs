@@ -11,7 +11,17 @@
   "page_to": 241
  },
  "ar": "اللام والخاء والصاد كلمةٌ واحدة، وهي اللَّخَص، وهو لحم الجَفْن. واللخَص: أن يكون الجَفْنُ الأعلى لَحِيماً. ورجلٌ أَلْخَصُ، وضَرْعٌ لَخِص: كثير اللَّحم. وقولهم لَخَّصْت الشَّيء، إذا بيّنتَه، فهو من هذا، كأنَّه اللحم الخالصُ إذا أُبرِز.",
- "az": "[لخص] (Ləhəsə) — Lam, xə və sad tək bir kəlmədir, o da اللَّخَص (əl-ləhəs) olub göz qapağının ətidir. Əl-ləhəs — üst qapağın ətli olmasıdır. ƏRkək «أَلْخَصُ» (əlhas), «ضَرْعٌ لَخِص» (dər’un ləxis) — çox ətli deməkdir. Onların «لَخَّصْت الشَّيء» (ləhhəstuş-şəyə) sözü — bir şeyi izah etdiyin zaman işlədilir ki, bu da həmin mənadandır; sanki o, üzə çıxarılan xalis ətdir.",
+ "az": "[لخص]\nاللام والخاء والصاد كلمةٌ واحدة، وهي اللَّخَص، وهو لحم الجَفْن. واللخَص: أن يكون الجَفْنُ الأعلى لَحِيماً. ورجلٌ أَلْخَصُ، وضَرْعٌ لَخِص: كثير اللَّحم. وقولهم لَخَّصْت الشَّيء، إذا بيّنتَه، فهو من هذا، كأنَّه اللحم الخالصُ إذا أُبرِز.\n\n(Lam, xə və sad tək bir kəlmədir: o da اللَّخَص (əl-ləxas) olub göz qapağının ətidir. Əl-ləxas — üst qapağın ətli olmasıdır. «رجلٌ أَلْخَصُ» — göz qapağı ətli olan kişi, «ضَرْعٌ لَخِص» isə çox ətli yelin deməkdir. Onların «لَخَّصْت الشَّيء» — yəni «bir şeyi aydınlaşdırdım, xülasə etdim» sözü də bu kökdəndir; sanki xalis ət üzə çıxarılmış kimidir.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لخص] (Ləhəsə) — Lam, xə və sad tək bir kəlmədir, o da اللَّخَص (əl-ləhəs) olub göz qapağının ətidir. Əl-ləhəs — üst qapağın ətli olmasıdır. ƏRkək «أَلْخَصُ» (əlhas), «ضَرْعٌ لَخِص» (dər’un ləxis) — çox ətli deməkdir. Onların «لَخَّصْت الشَّيء» (ləhhəstuş-şəyə) sözü — bir şeyi izah etdiyin zaman işlədilir ki, bu da həmin mənadandır; sanki o, üzə çıxarılan xalis ətdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ƏRkək» sözündə registr xətası var və «رجل أَلْخَصُ» ifadəsinin mənası verilməyib («göz qapağı ətli olan kişi»).",
+  "«ضَرْعٌ» sözü heyvanın yelini deməkdir, tərcümədə «yelin» sözü buraxılıb."
+ ],
+ "review_ts": "2026-11-27T00:44:02.393Z"
 }

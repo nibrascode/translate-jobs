@@ -11,7 +11,18 @@
   "page_to": 246
  },
  "ar": "اللام والزاء والجيم قريبٌ من الباب الذي قبله. يقال:\nلَزِجَ به، إذا غَرِيَ به ولازَمَه. والتلزُّج: تتبُّع البقولِ والرِّعْي القليل.",
- "az": "[لزج] (Ləzəcə) — Lam, zai və cim əvvəlki fəslə yaxındır. Deyilir: «لَزِجَ به» (ləziqə bihi) — ona vurulduqda və ayrılmadıqda deyilir. وَالتَّلَزُّج (at-təlazzuju) — otları və az otlağı izləməkdir.",
+ "az": "[لزج]\nاللام والزاء والجيم (lam, zey və cim) əvvəlki baba yaxındır. Deyilir:\nلَزِجَ به (ona yapışdıqda və ondan ayrılmadıqda).\nوالتلزُّج (ət-tələzzuc) — göyərtiləri və azacıq otu axtarıb yeməkdir (otlamaqdır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لزج] (Ləzəcə) — Lam, zai və cim əvvəlki fəslə yaxındır. Deyilir: «لَزِجَ به» (ləziqə bihi) — ona vurulduqda və ayrılmadıqda deyilir. وَالتَّلَزُّج (at-təlazzuju) — otları və az otlağı izləməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Zey hərfinin adı səhv yazılmışdır.",
+  "«غَرِيَ به» ifadəsi «ona vurulduqda» deyil, «ona yapışdıqda» kimi tərcümə olunmalıdır.",
+  "«التلزُّج» sözünün izahında «otları axtarmaq/izləmək» deyil, «azacıq ot və göyərtiləri axtarıb yemək, otlamaq» mənası verilməlidir."
+ ],
+ "review_ts": "2026-11-27T00:46:04.255Z"
 }

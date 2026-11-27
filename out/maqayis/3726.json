@@ -11,7 +11,18 @@
   "page_to": 268
  },
  "ar": "الميم والتاء أُصيل يدلُّ على مدٍّ ونَزْع في الشيء. يقال مَتَتُّ ومدَدْتُ ومنه قولهم يَمُتّ بكذا، إذا توصَّل بقرابةٍ وما أشبهها. ومنه المَتُّ: النَّزْع من البِئر على غير بَكَرة.",
- "az": "«مت» (mətə) — Mim və tə hərfləri bir əsl olub, bir şeydə uzatmağa və çəkməyə dəlalət edir. «متَتُّ ومدَدْتُ» (mətəttü və mədədtü) — uzatdım və çəkdim, deməkdir. Eynilə onların «يَمُتّ بكذا» (yəmüttu bi-kəzə) sözü də bundandır; qohumluq və bu kimi şeylərlə vasitə əldə etdikdə deyilir. Həmçinin «المت» (əl-mət) — çarx olmadan quyudan su çəkmək.",
+ "az": "[مت]\nالميم والتاء أُصيل يدلُّ على مدٍّ ونَزْع في الشيء (Mim və tə bir şeyi uzatmağa və dartıb çəkməyə dəlalət edən kiçik bir əsldir).\nيقال مَتَتُّ ومدَدْتُ (Deyilir: مَتَتُّ — yəni uzatdım).\nومنه قولهم يَمُتّ بكذا، إذا توصَّل بقرابةٍ وما أشبهها (Onların «يَمُتّ بكذا» sözü də bundandır; qohumluq və buna bənzər bir bağla vəsilə axtarıb yaxınlaşdıqda deyilir).\nومنه المَتُّ: النَّزْع من البِئر على غير بَكَرة (əl-Mətt də bundandır: çarx olmadan quyudan iplə su çəkməkdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:40.222Z"
+ "ts": "2026-10-26T00:49:40.222Z",
+ "prev_az": "«مت» (mətə) — Mim və tə hərfləri bir əsl olub, bir şeydə uzatmağa və çəkməyə dəlalət edir. «متَتُّ ومدَدْتُ» (mətəttü və mədədtü) — uzatdım və çəkdim, deməkdir. Eynilə onların «يَمُتّ بكذا» (yəmüttu bi-kəzə) sözü də bundandır; qohumluq və bu kimi şeylərlə vasitə əldə etdikdə deyilir. Həmçinin «المت» (əl-mət) — çarx olmadan quyudan su çəkmək.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[مت]» formatında verilməmişdir.",
+  "«أُصيل» (kiçik əsl) sözü düzgün əks etdirilməmişdir.",
+  "«يقال مَتَتُّ ومدَدْتُ» ifadəsi yanlış anlaşılmışdır (eyni mənalı sinonim fellərdir: «mətəttu — yəni mədədtu (uzatdım) deyilir»)."
+ ],
+ "review_ts": "2026-11-27T00:51:35.983Z"
 }

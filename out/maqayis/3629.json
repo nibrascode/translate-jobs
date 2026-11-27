@@ -11,7 +11,17 @@
   "page_to": 234
  },
  "ar": "اللام والثاء والغين. يقولون: اللُّثْغة في اللسان أن يقلب الرّاءَ غينا والسِّين ثاء (١).",
- "az": "[لثغ] (ləsəğ) — lam, sa və ğayn. Deyirlər: اّللُّثْغة (əllüsfəh) dildə ranı ğayn, sini isə sa kimi tələffüz etməkdir (١).",
+ "az": "[لثغ] Lam, sa və ğayn. Deyirlər: dildə اللُّثْغَة — ra hərfini ğayn, sin hərfini isə sa hərfinə çevirməkdir (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "prev_az": "[لثغ] (ləsəğ) — lam, sa və ğayn. Deyirlər: اّللُّثْغة (əllüsfəh) dildə ranı ğayn, sini isə sa kimi tələffüz etməkdir (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sözdə hərf səhvi var: اّللُّثْغة əvəzinə اللُّثْغة.",
+  "Transkripsiyada təhrif var: əllüsfəh."
+ ],
+ "review_ts": "2026-11-27T00:40:49.200Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 292
  },
  "ar": "الميم والهمزة والجيم كلمةٌ واحدة. المَأْج: المِلْح. يقال مَؤُجَ يَمؤُجُ فهو مَأجٌ بيِّن المؤُوجَة. قال:\n* نأَت عنها المُؤُوجة والبحرُ (٤) *",
- "az": "[مأج] (mim, həmzə və cim) — tək bir kəlmədir. المَأْج (əl-mac): duzluluq, şorluqdur. Deyilir مَؤُجَ يَمُؤُجُ فهو مَأجٌ بيِّن المؤُوجَة (ma-uja yamuju fəhuva macun bayyinul-mu-ucəh). Şair demişdir: * نأَت عنها المُؤُوجَةُ والبحرُ (٤) * (Şorluq və dəniz ondan uzaqlaşdı).",
+ "az": "[مأج] (mim, həmzə və cim) — tək bir kəlmədir. المَأْج (əl-mac): duzluluq, şorluqdur. Deyilir مَؤُجَ يَمؤُجُ فهو مَأجٌ بيِّن المؤُوجَة (ma-uja yamuju fəhuva macun bayyinul-mu-ucəh). Şair demişdir:\n* نأَت عنها المُؤُوجة والبحرُ (٤) *\n(Şorluq və dəniz ondan uzaqlaşdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "prev_az": "[مأج] (mim, həmzə və cim) — tək bir kəlmədir. المَأْج (əl-mac): duzluluq, şorluqdur. Deyilir مَؤُجَ يَمُؤُجُ فهو مَأجٌ بيِّن المؤُوجَة (ma-uja yamuju fəhuva macun bayyinul-mu-ucəh). Şair demişdir: * نأَت عنها المُؤُوجَةُ والبحرُ (٤) * (Şorluq və dəniz ondan uzaqlaşdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sitatdakı «المُؤُوجة» sözünə damma hərəkəsi əlavə edilmişdir («المُؤُوجَةُ»)."
+ ],
+ "review_ts": "2026-11-27T00:59:31.773Z"
 }

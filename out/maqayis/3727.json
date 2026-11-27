@@ -11,7 +11,18 @@
   "page_to": 268
  },
  "ar": "الميم والثاء كلمتان. يقولون: مثَّ يدَه: مسحها ومَثَّ الشَّيءُ، إذا كان يرشَح دَسَمًا. وقال ابن دريد (٣): مثَّ شارِبُه، إذا أكل دَسَمًا فبقي عليه.",
- "az": "«مث» (məثə) — Mim və sə hərfləri iki kəlmədir. Deyirlər: «مثَّ يدَه» (məثşə yədəh) — onu sildi. «مثَّ الشَّيءُ» (məثəş-şəy'ü) — yağlılıq sızdırdığı zaman. İbn Dürid demişdir (٣): «مثَّ شارِبُه» (məثə şəribuh) —bığlı adam yağlı yemək yedikdən sonra izi üzərində qaldı.",
+ "az": "[مث]\nالميم والثاء كلمتان (Mim və sa iki kəlmədir).\nيقولون: مثَّ يدَه: مسحها (Deyirlər: Əlini sildi).\nومَثَّ الشَّيءُ، إذا كان يرشَح دَسَمًا (Və bir şey yağ sızdırdıqda «məsşə-şey'u» deyilir).\nوقال ابن دريد (٣): مثَّ شارِبُه، إذا أكل دَسَمًا فبقي عليه (İbn Dureyd demişdir: «Məsşə şəribuhu» — yağlı bir şey yedikdə yağı bığının üzərində qaldıqda, bığı yağlandıqda deyilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:40.222Z"
+ "ts": "2026-10-26T00:49:40.222Z",
+ "prev_az": "«مث» (məثə) — Mim və sə hərfləri iki kəlmədir. Deyirlər: «مثَّ يدَه» (məثşə yədəh) — onu sildi. «مثَّ الشَّيءُ» (məثəş-şəy'ü) — yağlılıq sızdırdığı zaman. İbn Dürid demişdir (٣): «مثَّ شارِبُه» (məثə şəribuh) —bığlı adam yağlı yemək yedikdən sonra izi üzərində qaldı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq «[مث]» formatında verilməmişdir.",
+  "Transkripsiyada latın qrafikası ilə qarışıq kiril/ərəb hərfləri («məثə», «məثşə yədəh», «məثəş-şəy'ü») yazılmışdır.",
+  "«مثَّ شارِبُه، إذا أكل دَسَمًا فبقي عليه» cümləsi «bığlı adam yağlı yemək yedikdən sonra...» şəklində təhrif olunmuşdur (doğrusu: bığı yağlandı)."
+ ],
+ "review_ts": "2026-11-27T00:51:35.983Z"
 }

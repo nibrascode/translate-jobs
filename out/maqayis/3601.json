@@ -11,7 +11,19 @@
   "page_to": 223
  },
  "ar": "اللام والياء والتاء كلمتانِ لا تنقاسان (١): إحداهما: اللِّيت:\nصَفْحة العُنق، وهما لِيتانِ. والأخرى اللَّيْت، وهو النَّقْص. يقال: لاتَه يَلِيتُه:\nنَقَصه. قال اللّه تعالى: ﴿لا يَلِتْكُمْ مِنْ أَعْمالِكُمْ شَيْئاً﴾. واللّيْت: الصَّرف، يقال لاتَهُ يَلِيته. قال:\nوليلةٍ ذاتِ دُحًى سريتُ … ولم يَلِتْني عن سُراها ليتُ (٢)\nولَيْت: كلمة التَّمنِّي",
- "az": "«ليت» (ليت): اللام والياء والتاء كلمتان لا تنقاسان (١) (Lam, yə və tər qiyas olunmayan iki kəlmədir): إحداهما: اللِّيت: صفحة العُنق، وهما ليتان (Birincisi: əl-lit - boyun səthi, və onlar iki litdir). والأخرى الليمت، وهو النقص (Və digəri əl-ləyt - əskilməkdir). يقال: لاتَه يَلِيتُه: نقصه (Deyilir: lâtəhu yalituhu: onu əskiltdi). قال الله تعالى (Uca Allah mənaca tərcümə: «لا يَلِتْكُمْ مِنْ أَعْمالِكُمْ شَيْئاً» - «...əməllərinizdən heç bir şeyi əskiltməz» (əl-Hucurat, 14)). والليت: الصرف، يقال لاتَه يَلِيتُه (Və əl-ləyt - dönmək, deyilir: lâtəhu yalituhu). قال (şair demişdir): ويلة ذات دُحًى سريتُ … ولم يلتني عن سراها ليتُ (٢) (Qaranlıq gecədə səyahət etdim və heç bir şey məni onun gedişindən yayındırmadı). وليت: كلمة التمني (Və leyt: arzu kəlməsidir).",
+ "az": "[ليت]\nLam, ya və ta bir-birinə qiyas olunmayan iki kəlmədir (١): birincisi اللِّيت boynun yan tərəfidir; ikisinə لِيتانِ deyilir. Digəri isə اللَّيْت olub, النَّقْص (əskiltmək) deməkdir. لاتَه يَلِيتُه deyilir ki, bu da نَقَصه (onu əskiltdi) deməkdir. Allah Təala buyurmuşdur: ﴿لا يَلِتْكُمْ مِنْ أَعْمالِكُمْ شَيْئاً﴾ (mənaca tərcümə: «...əməllərinizdən heç bir şeyi əskiltməz» (əl-Hucurat, 14)). اللَّيْت həmçinin الصَّرف (döndərmək, yayındırmaq) deməkdir; لاتَهُ يَلِيته deyilir. Şair demişdir:\nوليلةٍ ذاتِ دُحًى سريتُ … ولم يَلِتْني عن سُراها ليتُ (٢)\n(Zülmət qaranlıq bir gecədə yol getdim və heç bir şey məni onun gedişindən yayındırmadı).\nولَيْت isə arzu bildirən kəlmədir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "prev_az": "«ليت» (ليت): اللام والياء والتاء كلمتان لا تنقاسان (١) (Lam, yə və tər qiyas olunmayan iki kəlmədir): إحداهما: اللِّيت: صفحة العُنق، وهما ليتان (Birincisi: əl-lit - boyun səthi, və onlar iki litdir). والأخرى الليمت، وهو النقص (Və digəri əl-ləyt - əskilməkdir). يقال: لاتَه يَلِيتُه: نقصه (Deyilir: lâtəhu yalituhu: onu əskiltdi). قال الله تعالى (Uca Allah mənaca tərcümə: «لا يَلِتْكُمْ مِنْ أَعْمالِكُمْ شَيْئاً» - «...əməllərinizdən heç bir şeyi əskiltməz» (əl-Hucurat, 14)). والليت: الصرف، يقال لاتَه يَلِيتُه (Və əl-ləyt - dönmək, deyilir: lâtəhu yalituhu). قال (şair demişdir): ويلة ذات دُحًى سريتُ … ولم يلتني عن سراها ليتُ (٢) (Qaranlıq gecədə səyahət etdim və heç bir şey məni onun gedişindən yayındırmadı). وليت: كلمة التمني (Və leyt: arzu kəlməsidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format qaydası pozulub: maddə başlığı «[ليت]» olmalıdır.",
+  "Hərf adları səhv verilib: «ya» yerinə «yə», «ta» yerinə «tər».",
+  "«اللَّيْت» sözü «الليمت», «وليلةٍ» sözü «ويلة» kimi təhrif olunub.",
+  "Ayə və şeir sitatı qaydalara uyğun verilməyib."
+ ],
+ "review_ts": "2026-11-27T00:37:37.646Z"
 }

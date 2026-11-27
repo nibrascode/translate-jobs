@@ -11,7 +11,17 @@
   "page_to": 233
  },
  "ar": "اللام والتاء والباء كلمةٌ تدلُّ على ملازَمةٍ ومخالطة. يقولون:\nلَتَبَ ثوبَه: لَبِسه. واللاتِب: المُلازِم للشَّيء لا يفارقُه. ويقولون: لَتَبَ في سَبَلَةِ الناقة، إذا وجأ.",
- "az": "[لتب] (lətəb) — lam, ta və ba bir şeyə bağlı olmağı və qarışmağı bildirən sözdür. Deyirlər: لَتَبَ ثوبَه (lətəbə səvbəh) — paltarını geyindi. اّللاتِب (əllatib) — bir şeydən ayrılmayaraq ona bağlanan. Deyirlər: لَتَبَ في سَبَلَةِ الناقة (lətəbə fi səbələtin-naqəh) — dəvənin bığcığına vurdu.",
+ "az": "[لتب] Lam, ta və ba bir şeyə bağlanmağı və qarışmağı bildirən sözdür. Deyirlər: لَتَبَ ثَوْبَهُ: paltarını geyindi. اللاتِب: bir şeyə bağlanıb ondan ayrılmayan kəsdir. Deyirlər: لَتَبَ فِي سَبَلَةِ النَّاقَةِ — dəvənin nahr yerinə (sinəsinə) vurduqda/sancdıqda işlədilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.972Z"
+ "ts": "2026-10-26T00:47:44.972Z",
+ "prev_az": "[لتب] (lətəb) — lam, ta və ba bir şeyə bağlı olmağı və qarışmağı bildirən sözdür. Deyirlər: لَتَبَ ثوبَه (lətəbə səvbəh) — paltarını geyindi. اّللاتِب (əllatib) — bir şeydən ayrılmayaraq ona bağlanan. Deyirlər: لَتَبَ في سَبَلَةِ الناقة (lətəbə fi səbələtin-naqəh) — dəvənin bığcığına vurdu.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sözlərdə hərf səhvi var: اّللاتِب əvəzinə اللاتِب olmalıdır.",
+  "سَبَلَةِ الناقة «dəvənin bığcığı» kimi səhv tərcümə edilmişdir; dəvənin nahr/sinə nahiyəsidir."
+ ],
+ "review_ts": "2026-11-27T00:40:49.200Z"
 }

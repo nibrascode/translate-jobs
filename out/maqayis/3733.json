@@ -11,7 +11,18 @@
   "page_to": 271
  },
  "ar": "الميم والزاء أصلانِ: أحدهما طعمٌ من الطعوم، والآخر [يدلُّ] على مزيّةٍ وفضل.\nفالأول: المُزُّ: الشّيءُ بين الحامض والحُلْو. ويقولون: سمِّيت الخمر مُزَّاءً (١) من هذا، وقيل بل هو من القياس الآخر.\nوالأصل الآخر الفضل. وله عليه مِزٌّ (٢)، أي فَضْل. والمُزَّاء منه؛ يقولون:\nهذا الشراب أمزُّ من هذا، أي أفضل. قالوا: والمُزّاء اسم، ولو كان نعتاً لقيل مَزَّاءُ. والتمزُّز: تمصُّص الشَّرابِ قليلاً قليلا. ويمكن أن يكون هذا من الأول.",
- "az": "«مز» (məzə) — Mim və zay hərfləri iki əslidir: bunlardan biri dad növlərindən biridir, digəri isə üstünlük və fəzilətə dəlalət edir. Birincisi: «المُزُّ» (əl-müzz) — turş və şirin arasında olan dad. Deyirlər ki, şərabın «مُزَّاء» (müzə'an) adlandırılması da bundandır (١), lakin bunun digər qiyasa aid olduğu da söylənilmişdir. Digər əsl isə fəzilətdir. «وله عليه مِزٌّ» (və ləhû aləyhi mizzün) — onun üzərində üstünlüyü var (٢). «المُزَّاء» (əl-müzə'ü) də bundandır; deyirlər: «هذا الشراب أمزُّ من هذا» (həzəş-şərabü əmzzü min həzə - bu şərab bundan daha üstündür). Dedilər ki, «المُزَّاء» isimdir, əgər sifət olsaydı «مَزَّاءُ» (məzzə'ü) deyilərdi. «والتمزُّز» (ət-təməzzüz) — şərabı az-az dadmaq, sormaq. Mümkündür ki, bu da birincidən olsun.",
+ "az": "[مز]\nMim və zey iki əsldir: biri dadlardan bir dad, digəri isə üstünlük və fəzilətə [dəlalət edir].\nBirincisi: المُزُّ – turş ilə şirin arasında olan şeydir. Deyirlər ki, şərab da buna görə مُزَّاء (١) adlandırılmışdır; başqa bir fikrə görə isə bu, digər qiyasdandır.\nDigər əsl isə fəzilətdir (üstünlükdür). وله عليه مِزٌّ (٢) – yəni onun üzərində üstünlüyü var. والمُزَّاء sözü də bundandır; deyirlər: هذا الشراب أمزُّ من هذا – yəni bu şərab bundan daha üstündür. Demişlər ki: المُزّاء isimdir, əgər sifət olsaydı, مَزَّاءُ deyilərdi. والتمزُّز – şərabı az-az sormaqdır. Mümkündür ki, bu da birincidən olsun.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:40.222Z"
+ "ts": "2026-10-26T00:49:40.222Z",
+ "prev_az": "«مز» (məzə) — Mim və zay hərfləri iki əslidir: bunlardan biri dad növlərindən biridir, digəri isə üstünlük və fəzilətə dəlalət edir. Birincisi: «المُزُّ» (əl-müzz) — turş və şirin arasında olan dad. Deyirlər ki, şərabın «مُزَّاء» (müzə'an) adlandırılması da bundandır (١), lakin bunun digər qiyasa aid olduğu da söylənilmişdir. Digər əsl isə fəzilətdir. «وله عليه مِزٌّ» (və ləhû aləyhi mizzün) — onun üzərində üstünlüyü var (٢). «المُزَّاء» (əl-müzə'ü) də bundandır; deyirlər: «هذا الشراب أمزُّ من هذا» (həzəş-şərabü əmzzü min həzə - bu şərab bundan daha üstündür). Dedilər ki, «المُزَّاء» isimdir, əgər sifət olsaydı «مَزَّاءُ» (məzzə'ü) deyilərdi. «والتمزُّز» (ət-təməzzüz) — şərabı az-az dadmaq, sormaq. Mümkündür ki, bu da birincidən olsun.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[مز]» şəklində olmalıdır.",
+  "Z hərfinin adı «zey» olmalıdır («zay» yazılıb).",
+  "Mətndə həddindən artıq transliterasiya işlədilib."
+ ],
+ "review_ts": "2026-11-27T00:55:33.660Z"
 }

@@ -11,9 +11,18 @@
   "page_to": 206
  },
  "ar": "اللام والظاء أصلٌ صحيحٌ يدلُّ على ملازَمَة. يقال: ألظَّ الرّجلُ بالشّيء، إذا لازَمَه. و\nفي الحديث: «ألِظُّوا بيا ذَا الجلالِ والإكرام». أي الزَموا هذا وأكثِرُوا منه في دعائكم. ويقال: ألَظَّ المطرُ: دام. ويقولون:\nالإلظاظ: الإشفاق على الشَّيء؛ وليس ببعيد القياسِ من الباب.",
- "az": "«لظ» - لام və za yapışmağa dəlalət edən səhih bir əsasdır. Deyilir: «ألظَّ الرّجلُ بالشّيء» (ələttar-rəcülüsü biş-şəyi) - kişi o şeyə yapışdı. Hədisdə buyurulmuşdur: «ألِظُّوا بيا ذَا الجلالِ والإكرام» (Əlizzu bi ya zəl-cəlali vəl-ikram) - yəni buna yapışın və duanızda bunu çoxaldın. Deyilir: «ألَظَّ المطرُ» (ələttəl-matəru) - yağış yağmaqda davam etdi. Deyirlər: «الإلظاظ» (əl-ilzaz) - bir şeyə görə ürəyianlıq və ya şəfqət etməkdir; bu da bu babın qiyasından uzaq deyildir.",
+ "az": "[لظ]\nLam və za yapışmağa dəlalət edən səhih bir kökdür. Deyilir: ألظَّ الرّجلُ بالشّيء (kişi o şeyə yapışdı).\nHədisdə deyilir: «ألِظُّوا بيا ذَا الجلالِ والإكرام» (Ya Zəl-Cəlali vəl-İkram [duasına] yapışın!), yəni buna yapışın və duanızda bunu çoxaldın. Deyilir: ألَظَّ المطرُ (yağış davam etdi). Deyirlər:\nالإلظاظ (bir şey üçün qayğılanmaq / şəfqət göstərmək); bu da babın qiyasından uzaq deyil.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:45:46.678Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«لظ» - لام və za yapışmağa dəlalət edən səhih bir əsasdır. Deyilir: «ألظَّ الرّجلُ بالشّيء» (ələttar-rəcülüsü biş-şəyi) - kişi o şeyə yapışdı. Hədisdə buyurulmuşdur: «ألِظُّوا بيا ذَا الجلالِ والإكرام» (Əlizzu bi ya zəl-cəlali vəl-ikram) - yəni buna yapışın və duanızda bunu çoxaldın. Deyilir: «ألَظَّ المطرُ» (ələttəl-matəru) - yağış yağmaqda davam etdi. Deyirlər: «الإلظاظ» (əl-ilzaz) - bir şeyə görə ürəyianlıq və ya şəfqət etməkdir; bu da bu babın qiyasından uzaq deyildir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ألظَّ» və «ألَظَّ» sözlərinin transkripsiyası «ələttar-rəcülüsü» və «ələttəl-matəru» kimi pozulub.",
+  "«ürəyianlıq» sözündə yazı xətası var."
+ ],
+ "review_ts": "2026-11-27T00:34:17.438Z"
 }

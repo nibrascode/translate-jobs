@@ -11,7 +11,17 @@
   "page_to": 254
  },
  "ar": "اللام والعين والجيم أصلٌ واحد، هو حَرارَةٌ في القَلْبِ.\n[و] منه اللَّعْج: حرارة الْحُبِّ في الفؤاد. ولَعَج يَلْعَجُ. قال أبو عبيد: لَعَجَ الضَّربُ الجِلدَ: أحرَقَه. قال الهذلىّ (٢):\nإذا تَجَرَّدَ نَوحٌ قامتَا معه … ضَرْباً ألِيماً بسِبْتٍ يَلْعَجُ الجِلِدا\nولَعَجه الأمر: اشتدَّ عليه.",
- "az": "«لعج» — lam, ayn və cim tək bir əslə malikdir, o da qəlbdə olan hərarətdir.\nVə ondan: «اللَّعْج» (al-la'j) — ürəkdə eşqin hərarəti. «لَعَج يَلْعَجُ» (la'aja yal'aju). Əbu Üبەyd demişdir: «لَعَجَ الضَّربُ الجِلدَ» (la'aja ad-darbu al-jilda) — zərbə dərini yandırdı. Hüzəli (٢) demişdir:\nإذا تَجَرَّدَ نَوحٌ قامتَا معه … ضَرْباً ألِيماً بسِبْتٍ يَلْعَجُ الجِلِدا\n(Nuh [şəxs və ya qəbilə adı] soyunanda ikisi də onunla birlikdə ayağa qalxardı, dəri yandıran qayışla şiddətli zərbə ilə).\nVə «لَعَجه الأمر» (la'ajahu al-amr) — iş ona ağır gəldi, şiddətləndi.",
+ "az": "[لعج]\nاللام والعين والجيم bir əsldir; o da qəlbdəki hərarətdir.\n[و] Buradandır: اللَّعْج — ürəkdə sevgi hərarəti. ولَعَج يَلْعَجُ feili də işlənir. Əbu Ubeyd demişdir: «لَعَجَ الضَّربُ الجِلدَ» — zərbə dərini yandırdı. Hüzəli (٢) demişdir:\nإذا تَجَرَّدَ نَوحٌ قامتَا معه … ضَرْباً ألِيماً بسِبْتٍ يَلْعَجُ الجِلِدا\n(Ağıçılar libaslarını soyunub fəryada başlayanda, o iki qadın da onunla birlikdə dərini yandıran aşılanmış dəri qayışla ağrılı zərbələr endirməyə başladılar).\n«ولَعَجه الأمر» isə «iş ona ağır gəldi, şiddətləndi» deməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:50.563Z"
+ "ts": "2026-10-26T00:48:50.563Z",
+ "prev_az": "«لعج» — lam, ayn və cim tək bir əslə malikdir, o da qəlbdə olan hərarətdir.\nVə ondan: «اللَّعْج» (al-la'j) — ürəkdə eşqin hərarəti. «لَعَج يَلْعَجُ» (la'aja yal'aju). Əbu Üبەyd demişdir: «لَعَجَ الضَّربُ الجِلدَ» (la'aja ad-darbu al-jilda) — zərbə dərini yandırdı. Hüzəli (٢) demişdir:\nإذا تَجَرَّدَ نَوحٌ قامتَا معه … ضَرْباً ألِيماً بسِبْتٍ يَلْعَجُ الجِلِدا\n(Nuh [şəxs və ya qəbilə adı] soyunanda ikisi də onunla birlikdə ayağa qalxardı, dəri yandıran qayışla şiddətli zərbə ilə).\nVə «لَعَجه الأمر» (la'ajahu al-amr) — iş ona ağır gəldi, şiddətləndi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeirdəki «نَوْحٌ» (ağı deyən qadınlar) sözü xüsusi şəxs adı («Nuh») kimi səhv tərcümə olunub.",
+  "«Əbu Ubeyd» adı orfoqrafik xəta ilə yazılıb («Əbu Üبەyd»)."
+ ],
+ "review_ts": "2026-11-27T00:48:42.559Z"
 }

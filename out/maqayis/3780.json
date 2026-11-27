@@ -13,5 +13,10 @@
  "ar": "الميم والهمزة والدال كلمةٌ تدل على حُسنِ حال ورِىٍّ في الشيء.\nالمَأْد في الأغصان: الرَّيَّان الليِّن الناعم الميَّال. ومَئِدَ العرفجُ: اهتزَّ رِيًّا.\nومن القياس امْتَأَد خَيرًا: كَسَبَهُ. ويَمْؤُود: مكان.",
  "az": "[مأد] (mim, həmzə və dəl) — gözəl hala və bir şeyin bolluğuna/təravətinə dəlalət edən kəlmədir. المَأْد (əl-mad) budaqlar haqqında: təravətli, yumşaq, zərif və meyilli olan deməkdir. ومَئِدَ العرفجُ (maidal-ərfaju): ərfəc bitkisi təravətlə sırxalandı, titrədi. Qiyasən امْتَأَد خَيرًا (imtədə xayran) — xeyir qazandı. ويَمْؤُود (yamuud) isə bir yerin adıdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:59:31.772Z"
 }

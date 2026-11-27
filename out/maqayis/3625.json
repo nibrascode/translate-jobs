@@ -11,7 +11,18 @@
   "page_to": 233
  },
  "ar": "اللام والتاء والخاء. قال ابن دُريد: اللَّتْخ مِثل اللَّطخ (١).\nواللّه أعلم.",
- "az": "«لتخ» (Lam, ta və xa). İbn Dürid demişdir: اللَّتْخ (əl-lətx) اللَّطْخ (əl-lətx - ləkələmək, bulaşdırmaq) kimidir. Allah daha bilər.",
+ "az": "[لتخ] Lam, ta və xa. İbn Dureyd demişdir: اللَّتْخ sözü اللَّطْخ (ləkələmək, bulaşdırmaq) kimidir (١).\nAllah daha yaxşı bilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:21.833Z"
+ "ts": "2026-10-26T00:47:21.833Z",
+ "prev_az": "«لتخ» (Lam, ta və xa). İbn Dürid demişdir: اللَّتْخ (əl-lətx) اللَّطْخ (əl-lətx - ləkələmək, bulaşdırmaq) kimidir. Allah daha bilər.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format səhvi: başlanğıc «لتخ» əvəzinə [لتخ] olmalıdır.",
+  "Haşiyə nömrəsi (١) buraxılmışdır.",
+  "Transkripsiyada hərəkə səhvi var."
+ ],
+ "review_ts": "2026-11-27T00:40:49.199Z"
 }

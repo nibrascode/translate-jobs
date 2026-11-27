@@ -11,7 +11,16 @@
   "page_to": 291
  },
  "ar": "الميم والهمزة والقاف أصلٌ يدلُّ على صِفةٍ تعتري بعد البُكاء، [و] على أنَفَة.\nفالأوّل المَأق: ما يعتري الإنسانَ بعد البكاء. تقول: مَئق يَمْأَقُ، فهو مَئِقٌ. ويقال إنّ المَأْقة: شِدّة البُكاء.\nوالآخَر قولهم: أمْأَقَ: إذا دَخَل في المَأْقة، وهي الأنَفة. و\nفي الحديث: «ما لم تُضْمرُوا الإمَاق (٢)». أي لم تُضمِروا أنفةً مما يلزمكم من صَدَقةٍ.",
- "az": "[مأق] (mim, həmzə və qaf) — ağladıqdan sonra insanda baş verən hala [və] qürura (təkəbbürə/qeyrətə) dəlalət edən əsasdır. Birincisi المَأق (əl-ma-q): ağladıqdan sonra insanda yaranan haldır. Deyirsən: مَئِق يَمْأَقُ، فهو مَئِقٌ (ma-iqa yam-aqu, fəhuva ma-iqu). Həmçinin deyilir ki, المَأْقَة (əl-maqə): şiddətli ağlamaqdır. Digəri isə onların أمْأَقَ (əm-aqa) sözüdür: məqə (qürura/təbii qeyrətə) girmək deməkdir. Hədisdə demişdir: «ما لم تُضْمرُوا الإمَاقَ (٢)» (Hələ ki, boynunuza düşən sədəqədən ötəri içinizdə bir təkəbbür və ya qürur gizlətməmisiniz).",
+ "az": "[مأق] (mim, həmzə və qaf) — ağladıqdan sonra insanda baş verən hala [və] qürura (təkəbbürə/qeyrətə) dəlalət edən əsasdır. Birincisi المَأق (əl-ma-q): ağladıqdan sonra insanda yaranan haldır. Deyirsən: مَئق يَمْأَقُ، فهو مَئِقٌ (ma-iqa yam-aqu, fəhuva ma-iqu). Həmçinin deyilir ki, المَأْقة (əl-maqə): şiddətli ağlamaqdır. Digəri isə onların أمْأَقَ (əm-aqa) sözüdür: məqə (qürura/təbii qeyrətə) girmək deməkdir. Hədisdə gəlmişdir: «ما لم تُضْمرُوا الإمَاق (٢)» — yəni boynunuza düşən sədəqədən ötəri içinizdə bir təkəbbür gizlətməmisiniz.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "prev_az": "[مأق] (mim, həmzə və qaf) — ağladıqdan sonra insanda baş verən hala [və] qürura (təkəbbürə/qeyrətə) dəlalət edən əsasdır. Birincisi المَأق (əl-ma-q): ağladıqdan sonra insanda yaranan haldır. Deyirsən: مَئِق يَمْأَقُ، فهو مَئِقٌ (ma-iqa yam-aqu, fəhuva ma-iqu). Həmçinin deyilir ki, المَأْقَة (əl-maqə): şiddətli ağlamaqdır. Digəri isə onların أمْأَقَ (əm-aqa) sözüdür: məqə (qürura/təbii qeyrətə) girmək deməkdir. Hədisdə demişdir: «ما لم تُضْمرُوا الإمَاقَ (٢)» (Hələ ki, boynunuza düşən sədəqədən ötəri içinizdə bir təkəbbür və ya qürur gizlətməmisiniz).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətndə olmayan hərəkə («الإمَاقَ») hədis sitatına əlavə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T00:59:31.772Z"
 }

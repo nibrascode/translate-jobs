@@ -13,5 +13,10 @@
  "ar": "الميم والهمزة والياء كلمةٌ. يقال: المَأْي: النَّميمة والإفساد بين القوم. يقال مأيْتُ بينهم. قال:\n* ومأى بينهم أخُو نُكُراتٍ (٣) *\nوإما المائة فيقولون: أمْأَيْتُ الدّراهِم: جعلتُها مائة.",
  "az": "[مأي] (mim, həmzə və ya) kəlməsidir. Deyilir: المَأْي (əl-may): dedi-qodu, qeybət və insanlar arasında fitnə-fəsad törətməkdir. Deyilir مأيْتُ بينهم (ma-ytu baynahum). Şair demişdir: * ومأى بينهم أخُو نُكُراتٍ (٣) * (Məkli və hiyləgər qardaş onların arasında fitnə saldı). Yüz (عدد مائة) rəqəminə gəldikdə isə deyirlər: أمْأَيْتُ الدّراهِم (əm-aytud-darahim): dirəmləri yüzə çatdırdım.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:59:31.773Z"
 }

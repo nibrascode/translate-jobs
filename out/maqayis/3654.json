@@ -11,7 +11,16 @@
   "page_to": 241
  },
  "ar": "اللام والخاء والفاء كلمتانِ، إحداهما اللِّخاف، وهي حجارة بِيض رقاق، واحدتها لَخْفَة. والأخرى قولهم: لَخَفَه بالسَّيف: ضَرَبه.",
- "az": "[لخف] (Ləhəfə) — Lam, xə və fə iki kəlimədir; bunlardan biri اللَّخَاف (əl-lihəf) olub ağ, nazik daşlardır, təkliyi لَخْفَة (ləxfə) adlanır. Digəri isə onların «لَخَفَه بالسَّيف» (ləhəfəhu bis-seyf) — yəni onu qılınc ilə vurdu, sözüdür.",
+ "az": "[لخف]\nاللام والخاء والفاء كلمتانِ، إحداهما اللِّخاف، وهي حجارة بِيض رقاق، واحدتها لَخْفَة. والأخرى قولهم: لَخَفَه بالسَّيف: ضَرَبه.\n\n(Lam, xə və fa iki sözdür. Biri اللِّخاف (əl-lixəf) olub yastı, nazik ağ daşlardır; təki لَخْفَة (ləxfə) adlanır. Digəri isə onların: «لَخَفَه بالسَّيف» — yəni qılıncla onu vurdu, sözüdür.)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لخف] (Ləhəfə) — Lam, xə və fə iki kəlimədir; bunlardan biri اللَّخَاف (əl-lihəf) olub ağ, nazik daşlardır, təkliyi لَخْفَة (ləxfə) adlanır. Digəri isə onların «لَخَفَه بالسَّيف» (ləhəfəhu bis-seyf) — yəni onu qılınc ilə vurdu, sözüdür.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«اللِّخاف» kəlməsi səhv olaraq «اللَّخَاف» (fəthə ilə) yazılmışdır."
+ ],
+ "review_ts": "2026-11-27T00:44:02.394Z"
 }

@@ -11,7 +11,20 @@
   "page_to": 244
  },
  "ar": "اللام والذال والعين يدلُّ على أصلٍ واحد، وهو الإحراق والحرارة. من ذلك اللَّذْع: لَذْع النّار، وهو إحراقها الشَّي ويستعار ذلك فيقال:\nلذَعْتُه بلسانِي، إذا آذيتَه أذًى يسيراً. ومنه قولهم جاء فلانٌ يتلذَّع، أي يتلفَّت يميناً وشِمالا، كأنَّ شيئاً يُقلِقُه ويُحرِقه.\nومن الباب اللوذَعِىُّ: الظَّريف، أي كأنَّه من حركته وكَيْسِه يُلْذَع والتَذَعت القَرْحة: فاحت (١)، لأنّها تَلتذِع وتلذَعُ صاحبَها.",
- "az": "[لذع] (Ləzəə) — Lam, ذ (zəl) və eyn tək bir əsərə, yəni yanmağa və hərarətə dəlalət edir. Bunlardan biri اللَّذْع (əl-ləzə) — odun yandırması və qızdırmasıdır. Bu, məcazi olaraq da işlənilir: «لذَعْتُه بلسانِي» (ləzətuhu bilisəni) — ona yüngül bir əziyyət verdiyin zaman deyilir. Onların «جاء فلانٌ يتلذَّع» (cəə fulanun yətəlləzəu) sözü də bundandır, yəni sağa-sola baxaraq gəldi, sanki bir şey onu narahat edir və yandırır.\nBu fəsildəndir: اللوذَعِىُّ (əl-ləuzəiyyu) — zarafatcıl, ağıllı və zirək; sanki hərəkəti və zəkası ilə o yandırılır. وَالْتَذَعت القَرْحة (vəltəzətil-qarhə) — yara qoxudu (١), çünki o, yanır və sahibini yandırır.",
+ "az": "[لذع] — Lam, zal və ayn tək bir əsasa dəlalət edir, o da yandırmaq və hərarətdir. اللَّذْع (əl-ləz) bundandır: odun yandırması, yəni bir şeyi yandırmasıdır. Bu, məcazi olaraq da işlədilir və deyilir:\n«لذَعْتُه بلسانِي» (onu dilimlə yandırdım/sancdım) — ona yüngül bir əziyyət verdiyin zaman deyilir. Onların «جاء فلانٌ يتلذَّع» (filankəs qovrula-qovrula gəldi) sözü də bundandır, yəni sağa-sola boylanaraq gəldi; sanki bir şey onu narahat edir və yandırır.\nBu qəbildəndir: اللوذَعِىُّ (əl-ləvzəi) — zirək, hazırcavab olan kimsədir; sanki cəld hərəkətindən və zəkasından dolayı dağlanır (od kimi alovlanır). التَذَعت القَرْحة (yara deşildi/axdı) — yara deşilib irin axıtdıqda deyilir (١), çünki o sancır və sahibini yandırır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لذع] (Ləzəə) — Lam, ذ (zəl) və eyn tək bir əsərə, yəni yanmağa və hərarətə dəlalət edir. Bunlardan biri اللَّذْع (əl-ləzə) — odun yandırması və qızdırmasıdır. Bu, məcazi olaraq da işlənilir: «لذَعْتُه بلسانِي» (ləzətuhu bilisəni) — ona yüngül bir əziyyət verdiyin zaman deyilir. Onların «جاء فلانٌ يتلذَّع» (cəə fulanun yətəlləzəu) sözü də bundandır, yəni sağa-sola baxaraq gəldi, sanki bir şey onu narahat edir və yandırır.\nBu fəsildəndir: اللوذَعِىُّ (əl-ləuzəiyyu) — zarafatcıl, ağıllı və zirək; sanki hərəkəti və zəkası ilə o yandırılır. وَالْتَذَعت القَرْحة (vəltəzətil-qarhə) — yara qoxudu (١), çünki o, yanır və sahibini yandırır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«أصل» sözü «əsər» kimi səhv tərcümə edilmişdir.",
+  "Hərf adları «zal» və «ayn» əvəzinə «zəl» və «eyn» yazılmışdır.",
+  "«وهو إحراقها الشَّي» (onun bir şeyi yandırması) hissəsi tərcümədə buraxılmışdır.",
+  "«الظَّريف» sözü «zarafatcıl» kimi səhv tərcümə edilmişdir (hazırcavab, zirək mənasındadır).",
+  "«فاحت» kəlməsi «qoxudu» kimi səhv tərcümə edilmişdir (yaranın deşilib irin axıtması mənasındadır)."
+ ],
+ "review_ts": "2026-11-27T00:45:16.532Z"
 }

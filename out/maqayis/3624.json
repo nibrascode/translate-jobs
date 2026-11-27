@@ -11,7 +11,18 @@
   "page_to": 233
  },
  "ar": "اللام والباء والهمزة كلمتان متباينتان جدًّا. فاللَّبُؤَة: الأنثى من الأُسْد. والكلمة الأخرى اللِّبَأ: الذي يُؤَكل، مقصور مهموز. ويقال: ألْبَأتِ الشّاةُ ولدَها: أرضعته اللِّبأ * والتبأها ولدُها. ولَبأْتُ القومَ: سقيتهم لِبَأ. وعِشارٌ مَلَابِئُ، إذا دنا نِتاجُها.\nومما شذَّ عن هذا وهو قليل لبَّأْتُ، مثل لبَّيْت؛ وليس بأصل.",
- "az": "«لبأ» (Lam, ba və həmzə) bir-birindən çox fərqlənən iki sözdür. اللَّبُؤَة (əl-ləbuə) — dişi şirdir. Digər söz isə اللَّبِə (əl-libə) — yeyilən (doğuşdan sonra heyvanın ilk) südüdür, qısa və həmzəlidir. Və deyilir: ألْبَأتِ الشّاةُ ولدَها (əlbəətil-şatü vələdəhə) — qoyun balasına ağız südü (libə) içirtdi * və balası onu əmdi. Və لَبأْتُ القومَ (ləbətul-qavmə) — qövmə ağız südü içirtdim. Və عِشارٌ مَلَابِئ (işarun mələbiu) — doğuma yaxınlaşan hamilə dəvələr. Və bundan istisna olunan azsaylı sözdür: لبَّأْتُ (ləbbətu), لَبَّيْتُ (ləbbeytu) kimi; və bu əsl deyil.",
+ "az": "[لبأ] Lam, ba və həmzə bir-birindən çox uzaq olan iki sözdür. اللَّبُؤَة: dişi aslandır. Digər söz isə اللِّبَأ-dir: qısa və həmzəli olub, yeyilən ilk süddür (ağız südü). Deyilir: أَلْبَأَتِ الشَّاةُ وَلَدَهَا (qoyun balasına ağız südü əmizdirdi) və الْتَبَأَهَا وَلَدُهَا (balası ondan ağız südünü əmdi). لَبَأْتُ القَوْمَ: qövmə ağız südü içirtdim. Doğumu yaxınlaşmış boğaz dəvələrə عِشَارٌ مَلَابِئُ deyilir.\nBundan şaz (istisna) olan və az işlənən sözlərdən biri لَبَّيْتُ (əmrinə müntəzirəm) mənasında işlənən لَبَّأْتُ sözüdür; bu isə əsl deyildir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:21.833Z"
+ "ts": "2026-10-26T00:47:21.833Z",
+ "prev_az": "«لبأ» (Lam, ba və həmzə) bir-birindən çox fərqlənən iki sözdür. اللَّبُؤَة (əl-ləbuə) — dişi şirdir. Digər söz isə اللَّبِə (əl-libə) — yeyilən (doğuşdan sonra heyvanın ilk) südüdür, qısa və həmzəlidir. Və deyilir: ألْبَأتِ الشّاةُ ولدَها (əlbəətil-şatü vələdəhə) — qoyun balasına ağız südü (libə) içirtdi * və balası onu əmdi. Və لَبأْتُ القومَ (ləbətul-qavmə) — qövmə ağız südü içirtdim. Və عِشارٌ مَلَابِئ (işarun mələbiu) — doğuma yaxınlaşan hamilə dəvələr. Və bundan istisna olunan azsaylı sözdür: لبَّأْتُ (ləbbətu), لَبَّيْتُ (ləbbeytu) kimi; və bu əsl deyil.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format səhvi: başlanğıc «لبأ» əvəzinə [لبأ] olmalıdır.",
+  "Mətndə hərf səhvi var: اللَّبِə.",
+  "والتبأها ولدها ifadəsi tərcümədə nəzərə alınmamışdır."
+ ],
+ "review_ts": "2026-11-27T00:40:49.199Z"
 }

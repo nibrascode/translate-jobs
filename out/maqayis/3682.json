@@ -13,5 +13,10 @@
  "ar": "اللام والصاد والتاء. يقولون: اللَّصْتُ: اللِّصّ.",
  "az": "[لصت] (ləsət) — lam, sad və ta. Deyirlər: اللَّصْت (əlləsət) — oğrudur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:27.242Z"
+ "ts": "2026-10-26T00:48:27.242Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:46:53.734Z"
 }

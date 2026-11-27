@@ -13,5 +13,10 @@
  "ar": "الميم والهمزة واللام. قد ذكروا فيها كلماتٍ ما أحسبها صحيحة، لكنَّني كتبتُها للمعرفة. يقولون: مَألتُ للأمر: استعددت. ويقولون: امرأةٌ مَأْلَةٌ: سمينة. ويقولون: المَأْلة: الرَّوضة، والجمع مِئال. وفي كلِّ ذلك نظر.",
  "az": "[مأل] (mim, həmzə və lam). Onlar burada doğru olduğunu güman etmədiyim bəzi kəlmələr zikr etmişlər, lakin mən onları məlumat üçün yazdım. Deyirlər: مَألتُ للأمر (ma-eltu lil-əmr): işə hazırlaşdım. Deyirlər: امرأةٌ مَأْلَةٌ (imraatun ma-lətun): kök qadın. Həmçinin deyirlər: المَأْلَة (əl-malə): bağça, çəmənlikdir, cəmi مِئال (mi-al) gəlir. Bütün bunlarda nəzər (müzakirə olunan məqamlar) vardır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:59:31.773Z"
 }

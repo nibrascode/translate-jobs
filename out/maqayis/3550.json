@@ -11,9 +11,19 @@
   "page_to": 204
  },
  "ar": "اللام والذال أصل صحيحٌ واحدٌ يدلُّ على طِيبِ طعمٍ في الشَّيء. من ذلك اللَّذّة واللَّذَاذَة: طيبُ طَعم الشَّيء. قال:\n(١).\nواللَّذُّ: النَّوم في قوله:\n* ولَذّ كَطَعم الصَّرخَدِىِّ (٢) *\nقال الفرّاء: رجلٌ لذٌّ: حسنُ الحديث.",
- "az": "«لذ» - لام və zal şeydə dadın xoş olmasına dəlalət edən bir səhih əsasdır. Bunlardan biri «اللَّذَّة» (əl-ləzzə) və «اللَّذَاذَة» (əl-ləzazə) - şeyin dadının xoş olmasıdır. (١) Və «اللَّذّ» (əl-ləzz) - yuxudur, bu sözdə: * «ولَذّ كَطَعم الصَّرخَدِىِّ» (٢) * (Sərxədi şərabının dadı kimi ləzzətli yuxu). Fəra demişdir: «رجل لذّ» (rəcülün ləzz) - gözəl danışan kişi.",
+ "az": "[لذ]\nLam və zal şeydə dadın xoş olmasına dəlalət edən vahid səhih kökdür. Bunlardandır: اللَّذّة və اللَّذَاذَة (şeyin dadının xoş olması). Şair demişdir:\n(١).\nاللَّذُّ (yuxu) bu sözdədir:\n* ولَذّ كَطَعم الصَّرخَدِىِّ (٢) * (Sərxədi şərabının dadı kimi ləzzətli yuxu).\nFərra demişdir: رجلٌ لذٌّ (gözəl danışan kişi).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:45:46.678Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«لذ» - لام və zal şeydə dadın xoş olmasına dəlalət edən bir səhih əsasdır. Bunlardan biri «اللَّذَّة» (əl-ləzzə) və «اللَّذَاذَة» (əl-ləzazə) - şeyin dadının xoş olmasıdır. (١) Və «اللَّذّ» (əl-ləzz) - yuxudur, bu sözdə: * «ولَذّ كَطَعم الصَّرخَدِىِّ» (٢) * (Sərxədi şərabının dadı kimi ləzzətli yuxu). Fəra demişdir: «رجل لذّ» (rəcülün ləzz) - gözəl danışan kişi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«قال:» (Şair demişdir:) ifadəsi buraxılıb.",
+  "«الفرّاء» adı «Fəra» kimi səhv yazılıb.",
+  "Başlıq formatı [لذ] əvəzinə «لذ» yazılıb."
+ ],
+ "review_ts": "2026-11-27T00:34:17.435Z"
 }

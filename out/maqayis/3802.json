@@ -11,7 +11,17 @@
   "page_to": 299
  },
  "ar": "الميم والجيم واللام كلمةٌ واحدة، وهي مَجِلَتْ يدُه تَمْجَلُ ومَجَلَتْ تَمجُلُ: تنفّطت. ويقولون: جاءَت الإبلُ كأنَّها المَجْل، أي ممتلئة كامتلاء المَجْل. وتَمَجَّلَ قَيحاً: امتلأ.\nوغَلط ابنُ دريدٍ في هذا البناء في موضعين (١): ذكر أنَّ المَاجِلَ: مستنقَعُ الماء، وهذا من باب (أجل)، وذكر أنّ المجلة: الصَّحيفة، هو من (جَلّ).",
- "az": "[مجل] (Mim, cim və lam): Bir tək sözdür, o da «مَجِلَتْ يدُه تَمْجَلُ» (məcilət yədühü təmcəlü) və «مَجَلَتْ تَمجُلُ» (məcələt təmcülü): qabardı (əli). Deyirlər ki: «جاءَت الإبلُ كأنَّها المَجْل» (cəətil-iblü kəənnəhəl-məcl) – yəni, «المَجْل» qabarının dolğunluğu kimi dolğun gəldi. «تَمَجَّلَ قَيحاً» (təməccələ qəyhən): irinlə doldu.\nİbn Dürid bu binada iki yerdə səhv etmişdir (١): «المَاجِل» (əlməcil) sözünün su yığılan yer (bataqlıq) olduğunu zikr etmişdir, bu isə «أجل» (əcəl) بابındandır; bir də «المجلة» (əlməcəllə) sözünün səhifə (kitab) olduğunu zikr etmişdir, bu da «جَلّ» (cəll) kökündəndir.",
+ "az": "[مجل]\nالميم والجيم واللام كلمةٌ واحدة، وهي «مَجِلَتْ يدُه تَمْجَلُ» və «مَجَلَتْ تَمجُلُ»: تنفّطت (əli qabardı). Və يقولون: «جاءَت الإبلُ كأنَّها المَجْل» (dəvələr sanki «المَجْل» (qabar) kimi dolğun gəldi), أي ممتلئة كامتلاء المَجْل. Və «تَمَجَّلَ قَيحاً»: امتلأ (irinlə doldu).\nوغَلط ابنُ دريدٍ في هذا البناء في موضعين (١): İbn Dürəyd bu quruluşda iki yerdə səhv etmişdir: ذكر أنَّ «المَاجِلَ»: مستنقَعُ الماء (zikr etmişdir ki, «المَاجِل» su yığılan yerdir), وهذا من باب (أجل) (bu isə «أجل» babındandır); وذكر أنّ «المجلة»: الصَّحيفة (və zikr etmişdir ki, «المجلة» səhifə/kitabdır), هو من (جَلّ) (bu da «جَلّ» kökündəndir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "prev_az": "[مجل] (Mim, cim və lam): Bir tək sözdür, o da «مَجِلَتْ يدُه تَمْجَلُ» (məcilət yədühü təmcəlü) və «مَجَلَتْ تَمجُلُ» (məcələt təmcülü): qabardı (əli). Deyirlər ki: «جاءَت الإبلُ كأنَّها المَجْل» (cəətil-iblü kəənnəhəl-məcl) – yəni, «المَجْل» qabarının dolğunluğu kimi dolğun gəldi. «تَمَجَّلَ قَيحاً» (təməccələ qəyhən): irinlə doldu.\nİbn Dürid bu binada iki yerdə səhv etmişdir (١): «المَاجِل» (əlməcil) sözünün su yığılan yer (bataqlıq) olduğunu zikr etmişdir, bu isə «أجل» (əcəl) بابındandır; bir də «المجلة» (əlməcəllə) sözünün səhifə (kitab) olduğunu zikr etmişdir, bu da «جَلّ» (cəll) kökündəndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə baş cümlə «الميم والجيم واللام كلمةٌ واحدة» ixtisar edilmişdir",
+  "Gərəksiz latın transliterasiyaları əlavə olunmuşdur"
+ ],
+ "review_ts": "2026-11-27T01:02:05.514Z"
 }

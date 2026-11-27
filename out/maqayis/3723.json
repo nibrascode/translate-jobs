@@ -11,7 +11,19 @@
   "page_to": 265
  },
  "ar": "اللام والكاف والعين أصل يدل على لُؤم ودناءة. منه\nلَكُعَ الرّجل، إذا لَؤُم، لَكَاعةً. وهو ألْكَع. يقال له: يا لُكَع، وللاثنين يا ذَوَيْ لُكَع. ويقولون: بنُو اللَّكِيعة، قالوا: وقياس ذلك اللَّكَع، وهو الوَسَخ.\nواللُّكَع أيضاً: الجحش الراضع.\nومما شذَّ عن هذا الباب اللَّكْع، وهو اللَّسْع. قال:\nإذا مُسَّ دَبْرُه لَكَعا (١) *",
- "az": "[لكع] «اللام والكاف والعين أصل يدل على لُؤم ودناءة» (Lam, kaf və ayn hərfləri şərəfsizliyə və alçaqlığa dəlalət edən kökdür). منه لَقُعَ الرّجục (Bunlardan biri kişinin ləküc olmasıdır): إذا لَؤُم (şərəfsizləşdikdə), لَكَاعةً (ləkaətliklə). وهو ألْكَع (Və o, əlkədir). يقال له: يا لُكَع (Ona deyilir: Ey lükəc!), وللاثنين يا ذَوَيْ لُكَع (iki nəfər üçün isə: Ey iki lükəc sahibləri!). ويقولون: بنُو اللَّكِيعة (Və deyirlər: Ləkicə oğulları), قالوا: وقياس ذلك اللَّكَع (Dedilər ki: bunun ölçüsü ləkəddir), وهو الوَسَخ (və o, çirkdir). والُّكَع أيضاً (Və lükəc həmçinin): الجحش الراضع (məmə sədaqətli olan kiçik dayçadır). ومما شذَّ عن هذا الباب اللَّكْع (Bu babdan şaz olan ləkcdir), وهو اللَّسْع (və o, sancmaqdır). قال (Şair demişdir): إذا مُسَّ دَبْرُه لَكَعا (١) (Əgər arxası toxunulduqda sancdı).",
+ "az": "[لكع]\nاللام والكاف والعين أصل يدل على لُؤم ودناءة (Lam, kaf və ayn alçaqlığa və rəzilliyə dəlalət edən bir əsldir).\nمنه لَكُعَ الرّجل، إذا لَؤُم، لَكَاعةً (Bu qəbildəndir: kişi alçaq və rəzil olduqda ləkuər-raculu ləkaətən deyilir).\nوهو ألْكَع (O, əlkədir — alçaqdır).\nيقال له: يا لُكَع، وللاثنين يا ذَوَيْ لُكَع (Ona: «Ey alçaq!», iki nəfərə isə: «Ey iki alçaq!» deyilir).\nويقولون: بنُو اللَّكِيعة (Və deyirlər: əl-Ləkiənin oğulları).\nقالوا: وقياس ذلك اللَّكَع، وهو الوَسَخ (Dedilər ki: bunun qiyası əl-ləkə sözündəndir, o da çirkdir).\nواللُّكَع أيضاً: الجحش الراضع (əl-Lukə həmçinin südəmər sıpadır / bala eşşəkdir).\nومما شذَّ عن هذا الباب اللَّكْع، وهو اللَّسْع (Bu babdan şaz olan sözlərdən biri əl-ləkdir ki, o da sancmaqdır).\nقال:\nإذا مُسَّ دَبْرُه لَكَعا (١) *\n(Şair demişdir:\n«Əgər kürəyinə toxunularsa, sancar»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:15.889Z"
+ "ts": "2026-10-26T00:49:15.889Z",
+ "prev_az": "[لكع] «اللام والكاف والعين أصل يدل على لُؤم ودناءة» (Lam, kaf və ayn hərfləri şərəfsizliyə və alçaqlığa dəlalət edən kökdür). منه لَقُعَ الرّجục (Bunlardan biri kişinin ləküc olmasıdır): إذا لَؤُم (şərəfsizləşdikdə), لَكَاعةً (ləkaətliklə). وهو ألْكَع (Və o, əlkədir). يقال له: يا لُكَع (Ona deyilir: Ey lükəc!), وللاثنين يا ذَوَيْ لُكَع (iki nəfər üçün isə: Ey iki lükəc sahibləri!). ويقولون: بنُو اللَّكِيعة (Və deyirlər: Ləkicə oğulları), قالوا: وقياس ذلك اللَّكَع (Dedilər ki: bunun ölçüsü ləkəddir), وهو الوَسَخ (və o, çirkdir). والُّكَع أيضاً (Və lükəc həmçinin): الجحش الراضع (məmə sədaqətli olan kiçik dayçadır). ومما شذَّ عن هذا الباب اللَّكْع (Bu babdan şaz olan ləkcdir), وهو اللَّسْع (və o, sancmaqdır). قال (Şair demişdir): إذا مُسَّ دَبْرُه لَكَعا (١) (Əgər arxası toxunulduqda sancdı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə mətndə «لَقُعَ الرّجục» kimi pozulmuş söz vardır.",
+  "«الجحش الراضع» (südəmər eşşək balası, sıpa) ifadəsi «məmə sədaqətli olan kiçik dayçadır» kimi absurd tərcümə edilmişdir.",
+  "Ərəb hərfi «ayn» (ع) bir neçə yerdə «c» hərfi ilə əvəzlənmişdir («ləküc», «ləkaətliklə», «əlkə», «lükəc», «Ləkicə», «ləkəddir», «ləkcdir»).",
+  "Şeir misrasının tərcüməsi anlaşılmazdır."
+ ],
+ "review_ts": "2026-11-27T00:51:35.982Z"
 }

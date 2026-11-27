@@ -11,7 +11,18 @@
   "page_to": 263
  },
  "ar": "اللام والقاف والعين أصلٌ صحيح يدلُّ على رَمْيِ شيءٍ بشيء وإصابتِه به. يقال: لَقَعْت الرّجُلَ [بالحصاة، إذا رميتَه بها، ولقعَه ببعرةٍ: رماه بها. ولقعَه بعينِه، إذا عانَهُ. واللُّقَّاعة (٤)]: الدّاهيةُ التي يتلقَّع بالكلام، يرمِي به من أقْصَى حَلْقِه، وكذا التِّلِقَّاعة. وفي كلامه لُقَّاعات، إذا تكلَّم بأقصى حَلْقِه.",
- "az": "[لقع] «اللام والقاف والعين أصلٌ صحيح يدلُّ على رَمْيِ شيءٍ بشيء وإصابتِه به» (Lam, qaf və ayn hərfləri bir şeyi başqa bir şeylə atmağa və ona dəyməyə dəlalət edən səhih kökdür). يقال: لَقَعْت الرّجُلَ [بالحصاة، إذا رميتَه بها، ولقعَه ببعرةٍ: رماه بها. ولقعَه بعينِه، إذا عانَهُ. واللُّقَّاعة (٤)]: الدّاهيةُ التي يتلقَّع بالكلام، يرمِي به من أقْصَى حَلْقِه، وكذا التِّلِقَّاعة ( Deyilir: Ləqəttur-rəcülə bil-hasati - kişiyə daş atdın, ləqəhü bi-bə'ratin - onu təzəklə vurdu, ləqəhü bi-eynihi - ona göz dəydi. Və lüqqəcə - sözü boğazının ən dərin yerindən çıxarıb atan bəla, həmçinin tiliqqəcə də belədir). وفي كلامه لُقَّاعات (Onun sözündə lüqqəcat var), إذا تكلَّم بأقصى حَلْقِه (əgər sözü boğazının ən dibindən danışırsa).",
+ "az": "[لقع]\nاللام والقاف والعين (Lam, qaf və ayn) bir şeyi başqa bir şeylə atmağa və ona yetirməyə (dəyməyə) dəlalət edən səhih bir əsldir.\nDeyilir: لَقَعْت الرّجُلَ [بالحصاة (Kişiyə xırda daş atdım), إذا رميتَه بها (əgər ona daş atdınsa). ولقعَه ببعرةٍ: رماه بها (Və ona təzək atdı: onu təzəklə vurduqda deyilir). ولقعَه بعينِه، إذا عانَهُ (Və ona gözü ilə vurdu: ona göz dəydirdikdə deyilir). واللُّقَّاعة (٤)]: الدّاهيةُ التي يتلقَّع بالكلام، يرمِي به من أقْصَى حَلْقِه (əl-Luqqaə — sözü boğazının ən dərin yerindən çıxarıb atan, dili ilə hücum edən zirək, bəladır), وكذا التِّلِقَّاعة (ət-Tiliqqaə də belədir). وفي كلامه لُقَّاعات، إذا تكلَّم بأقصى حَلْقِه (Onun danışığında lüqqaalar vardır — əgər sözü boğazının ən dibindən danışarsa).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:15.889Z"
+ "ts": "2026-10-26T00:49:15.889Z",
+ "prev_az": "[لقع] «اللام والقاف والعين أصلٌ صحيح يدلُّ على رَمْيِ شيءٍ بشيء وإصابتِه به» (Lam, qaf və ayn hərfləri bir şeyi başqa bir şeylə atmağa və ona dəyməyə dəlalət edən səhih kökdür). يقال: لَقَعْت الرّجُلَ [بالحصاة، إذا رميتَه بها، ولقعَه ببعرةٍ: رماه بها. ولقعَه بعينِه، إذا عانَهُ. واللُّقَّاعة (٤)]: الدّاهيةُ التي يتلقَّع بالكلام، يرمِي به من أقْصَى حَلْقِه، وكذا التِّلِقَّاعة ( Deyilir: Ləqəttur-rəcülə bil-hasati - kişiyə daş atdın, ləqəhü bi-bə'ratin - onu təzəklə vurdu, ləqəhü bi-eynihi - ona göz dəydi. Və lüqqəcə - sözü boğazının ən dərin yerindən çıxarıb atan bəla, həmçinin tiliqqəcə də belədir). وفي كلامه لُقَّاعات (Onun sözündə lüqqəcat var), إذا تكلَّم بأقصى حَلْقِه (əgər sözü boğazının ən dibindən danışırsa).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərfi «ayn» (ع) bir neçə yerdə «c» kimi yazılmışdır («lüqqəcə», «tiliqqəcə», «lüqqəcat»).",
+  "«لَقَعْت الرّجُلَ بالحصاة» cümləsi «kişiyə daş atdın» kimi səhv tərcümə edilmişdir (mənası: «kişiyə xırda daş atdım»).",
+  "Tərcümə mətni səliqəsizdir, ərəbcə və azərbaycanca hissələr qarışmışdır."
+ ],
+ "review_ts": "2026-11-27T00:51:35.980Z"
 }

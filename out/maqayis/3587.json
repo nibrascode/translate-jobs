@@ -11,7 +11,17 @@
   "page_to": 219
  },
  "ar": "اللام والواو والتاء لست أَحُقُّ صحَّتَه، وليس هو من كلامهم عندي، لكنَّ ناساً زعموا أنّه يقال: لاتَ يَلُوتُ، إذا أخبَرَ بغير ما سُئِل عنه.\nويقولون: اللَّوْت: الكِتمان. وفيهما نظر.",
- "az": "[لوت] (lut) - Lam, vav və ta hərflərinin səhihliyinə əmin deyiləm, məncə bu, onların sözlərindən deyil, lakin bəzi insanlar iddia ediblər ki, لاتَ يَلُوتُ (lâtə yəlutü) — soruşulandan başqa bir şey xəbər verdi mənasında işlədilir. Deyirlər: اللَّوْت (əl-ləvt): gizlətmək. Bunlarda baxış vardır.",
+ "az": "[لوت]\n«اللام والواو والتاء» (lam, vav və ta) kökünün səhihliyinə əmin deyiləm və məncə bu, ərəblərin əsl kəlamından deyildir. Lakin bəzi insanlar iddia etmişlər ki, bir kəs soruşulduğu şeydən başqa bir şey xəbər verdikdə «لاتَ يَلُوتُ» (latə yəlutu) deyilir.\nHəmçinin deyirlər: «اللَّوْت» (əl-ləvt) — gizlətmək deməkdir. Lakin hər iki rəy şübhəlidir (mübahisəlidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:34.400Z"
+ "ts": "2026-10-26T00:46:34.400Z",
+ "prev_az": "[لوت] (lut) - Lam, vav və ta hərflərinin səhihliyinə əmin deyiləm, məncə bu, onların sözlərindən deyil, lakin bəzi insanlar iddia ediblər ki, لاتَ يَلُوتُ (lâtə yəlutü) — soruşulandan başqa bir şey xəbər verdi mənasında işlədilir. Deyirlər: اللَّوْت (əl-ləvt): gizlətmək. Bunlarda baxış vardır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وفيهما نظر» ifadəsi «Bunlarda baxış vardır» şəklində hərfi və qüsurlu tərcümə olunub (doğrusu: Hər iki rəy şübhəlidir/mübahisəlidir).",
+  "Başlıqda artıq transliterasiya «(lut)» silinməlidir."
+ ],
+ "review_ts": "2026-11-27T00:36:37.197Z"
 }

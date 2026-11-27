@@ -11,9 +11,19 @@
   "page_to": 205
  },
  "ar": "اللام والزاء أصلٌ صحيح يدلُّ على ملازمة ومُلاصَقة. يقال:\nلُزَّ به، إذا لَصِق به لَزًّا ولَزَازاً. ولازَزْتُه: لاصقته. ورجلٌ لِزَازُ خَصمٍ، إذا كان يُلازُّه ولا يَكِعُّ عنه. والملزَّزُ: المجتمِعُ الْخَلْق. واللَّزّ: الطَّعن. وهو من قياس الباب. واللَّزائز: ما اجتمع من اللَّحم في الزَّور مما يَلِي المِلاط. قال:\n* ذى مِرفقٍ بانَ عن اللَّزَائزِ (٣) *\nومن الباب كَزٌّ لَزٌّ، ويجوز أن يكون لَزٌّ إتباعاً.",
- "az": "«لز» - لام və zay birləşməyə və yapışmağa dəlalət edən səhih bir əsasdır. Deyilir: «لُزَّ به» (lüzzə bihə) - ona yapışdı, «لَزًّا ولَزَازاً» (ləzzən və ləzazan) yapışdı. «لازَزْتُه» (lazəztühü) - ona yapışdım. «رجل لِزَازُ خَصمٍ» (rəcülün lizazu xəsmim) - düşmənə yapışan və ondan qorxmayan kişidir. «المُلزَّز» (əl-müləzzəz) - bədəni yığcam olan. «اللَّزّ» (əl-ləzz) - sancmaq, vurmaq. Bu da bu babın qiyasındandır. «اللَّزائز» (əl-ləzaiz) - döşdə milata yaxın yerdə yığılmış ətdir. O demişdir: * «ذى مِرفقٍ بانَ عن اللَّزَائزِ» (٣) * (Dirsəyi ləzaizdən aralanmış). Bu fəsildəndir «كَزٌّ لَزٌّ» (kəzzün ləzzün), həm də mümkündür ki, «لَزٌّ» (ləzzün) sözü təbii uyğunluq (itba) olsun.",
+ "az": "[لز]\nLam və zey birləşməyə və yapışmağa dəlalət edən səhih bir kökdür. Deyilir:\nلُزَّ به (ona yapışdı), ona لَزًّا ولَزَازاً (yapışmaqla) yapışdıqda. ولازَزْتُه (ona yapışdım). ورجلٌ لِزَازُ خَصمٍ (düşmənə yapışan və ondan çəkinməyən kişi). والملزَّزُ (bədən quruluşu yığcam olan). واللَّزّ (sancmaq, vurmaq). Bu da babın qiyasındandır. واللَّزائز (döşdə çiyin başı ilə böyür arasındakı hissəyə yaxın yerdə yığılmış ət). Şair demişdir:\n* ذى مِرفقٍ بانَ عن اللَّزَائزِ (٣) * (Dirsəyi ləzaizdən aralanmış).\nBu babdandır: كَزٌّ لَزٌّ (sıx, yapışqan), həmçinin لَزٌّ sözünün itba (uyğunlaşdırma) olması da mümkündür.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:45:46.678Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«لز» - لام və zay birləşməyə və yapışmağa dəlalət edən səhih bir əsasdır. Deyilir: «لُزَّ به» (lüzzə bihə) - ona yapışdı, «لَزًّا ولَزَازاً» (ləzzən və ləzazan) yapışdı. «لازَزْتُه» (lazəztühü) - ona yapışdım. «رجل لِزَازُ خَصمٍ» (rəcülün lizazu xəsmim) - düşmənə yapışan və ondan qorxmayan kişidir. «المُلزَّز» (əl-müləzzəz) - bədəni yığcam olan. «اللَّزّ» (əl-ləzz) - sancmaq, vurmaq. Bu da bu babın qiyasındandır. «اللَّزائز» (əl-ləzaiz) - döşdə milata yaxın yerdə yığılmış ətdir. O demişdir: * «ذى مِرفقٍ بانَ عن اللَّزَائزِ» (٣) * (Dirsəyi ləzaizdən aralanmış). Bu fəsildəndir «كَزٌّ لَزٌّ» (kəzzün ləzzün), həm də mümkündür ki, «لَزٌّ» (ləzzün) sözü təbii uyğunluq (itba) olsun.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "«ز» hərfinin adı «zay» kimi səhv verilib («zey» olmalıdır).",
+  "Ərəbcə sözlərin transkripsiyasında səhvlər var (bihə, xəsmim).",
+  "«المِلاط» sözü tərcümə edilməyib."
+ ],
+ "review_ts": "2026-11-27T00:34:17.435Z"
 }

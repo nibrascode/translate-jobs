@@ -11,7 +11,17 @@
   "page_to": 235
  },
  "ar": "اللام والجيم والفاء كلمةٌ تدلُّ على هَزْمٍ في الشّيء. يقال:\nتلجَّفت البِثرُ، إذا انخسَفَ أسفلُها. قال: واللَّجَف: سُرّة الوادِي، وتشبَّه الشَّجّة لمنْفَهِقَة بذلك. قال:\n* يَحجُّ مأمومةً في قَعْرِها [لَجَفٌ] (١) *",
- "az": "[لجف] (ləcəf) — lam, cim və fa bir şeydə çökəklik olmasını bildirən sözdür. Deyilir: تلجَّفت البِثرُ (təcəffətil-bisru) — səpginin altı çökdü. Şair demişdir ki, اّللَّجَف (əlləcəf) — dərənin göbəyidir və açıq yarıq bu cür bənzədilir. Şair demişdir:\n* يَحجُّ مأمومةً في قَعْرِها [لَجَفٌ] (١) *\n(Kəllənin dərinliyində ləcəf olan mamumə yarasına yönəlir)",
+ "az": "[لجف] — lam, cim və fa bir şeydəki çökəkliyə, oyuqluğa dəlalət edən bir sözdür. Deyilir: تلجَّفت البِثرُ (quyunun dibi uçulub çökdükdə belə deyilir). Dedi: واللَّجَف (əl-ləcəf) — vadinin dərəsi, orta yeridir; geniş açılmış baş yarası (الشَّجّة لمنْفَهِقَة) da buna bənzədilir. [Şair] demişdir:\n* يَحجُّ مأمومةً في قَعْرِها [لَجَفٌ] (١) *\n(Dərinliyində oyuq/çökəklik olan baş yarasını [mili ilə] yoxlayır/müalicə edir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "prev_az": "[لجف] (ləcəf) — lam, cim və fa bir şeydə çökəklik olmasını bildirən sözdür. Deyilir: تلجَّفت البِثرُ (təcəffətil-bisru) — səpginin altı çökdü. Şair demişdir ki, اّللَّجَف (əlləcəf) — dərənin göbəyidir və açıq yarıq bu cür bənzədilir. Şair demişdir:\n* يَحجُّ مأمومةً في قَعْرِها [لَجَفٌ] (١) *\n(Kəllənin dərinliyində ləcəf olan mamumə yarasına yönəlir)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«تلجفت البئر/البثر» ifadəsi «səpginin altı çökdü» kimi yanlış tərcümə edilib; quyunun dibinin uçulub çökməsini bildirir.",
+  "Şeirdəki «يحج» feli «yönəlir» kimi səhv tərcümə edilib; tibbi mənada yaranı mil (zond) ilə yoxlamaq, təmizləmək deməkdir."
+ ],
+ "review_ts": "2026-11-27T00:42:14.448Z"
 }

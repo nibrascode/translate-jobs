@@ -11,7 +11,16 @@
   "page_to": 231
  },
  "ar": "اللام والباء والقاف أصلٌ صحيحٌ يدلُّ على خَلْط شيء لتطييبه. يقال لبَقْتُ الطعام ولبَّقته، إذا ليّنتَه وطيَّبتَه. ومن الباب اللَّبِق:\nالحاذِق بالشيء يَعملُه. ورجلٌ لبِقٌ ولَبِيق. والمصدر اللَّبَاقة. قال الشَّاعر (١):\n* لبيقاً بتصريف القناة بنانيا (٢) *",
- "az": "«لبق» (Lam, ba və qaf) bir şeyi gözəlləşdirmək üçün qarışdırmağa dəlalət edən səhih bir əsldir. Deyilir: لبَقْتُ الطعام ولبَّقته (ləbəqtut-təamə və ləbbəqtuh) — yeməyi yumşaltdın və gözəlləşdirdin. Bu babdandır: اللَّبِق (əl-ləbiq): bir şeyi edən mahir adam. Və kişi لَبِقٌ (ləbiqün) və لَبِيق (ləbiqün). Və məsdər اللَّبَاقة (əl-ləbaqə) — bacarıqlılıqdır. Şair demişdir (١): * لبيقاً بتصريف القناة بنانيا (٢) * (Nəzmləri usta surətdə çevirməkdə mahir, barmaqları incə olan...)",
+ "az": "[لبق] (Lam, ba və qaf) bir şeyi gözəlləşdirmək, xoş dad vermək üçün qarışdırmağa dəlalət edən səhih bir əsldir.\nDeyilir: لبَقْتُ الطعام ولبَّقته: yeməyi yumşaltdıqda və dadını gözəlləşdirdikdə deyilir.\nBu babdandır: اللَّبِق: gördüyü işdə mahir olan kimsədir.\nرجلٌ لبِقٌ və لَبِيق (mahir, bacarıqlı kişi) deyilir. Məsdəri اللَّبَاقة sözüdür. Şair demişdir (١):\n* لبيقاً بتصريف القناة بنانيا (٢) *\n(Barmaqlarım nizəni oynatmaqda mahir olduğu halda...)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:21.833Z"
+ "ts": "2026-10-26T00:47:21.833Z",
+ "prev_az": "«لبق» (Lam, ba və qaf) bir şeyi gözəlləşdirmək üçün qarışdırmağa dəlalət edən səhih bir əsldir. Deyilir: لبَقْتُ الطعام ولبَّقته (ləbəqtut-təamə və ləbbəqtuh) — yeməyi yumşaltdın və gözəlləşdirdin. Bu babdandır: اللَّبِق (əl-ləbiq): bir şeyi edən mahir adam. Və kişi لَبِقٌ (ləbiqün) və لَبِيق (ləbiqün). Və məsdər اللَّبَاقة (əl-ləbaqə) — bacarıqlılıqdır. Şair demişdir (١): * لبيقاً بتصريف القناة بنانيا (٢) * (Nəzmləri usta surətdə çevirməkdə mahir, barmaqları incə olan...)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Beytdəki «القناة» (nizə) sözü «nəzm» kimi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-27T00:39:40.430Z"
 }

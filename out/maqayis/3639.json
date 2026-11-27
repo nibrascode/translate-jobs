@@ -11,7 +11,16 @@
   "page_to": 236
  },
  "ar": "اللام والجيم والباء كلمتان متباينتان جدًّا.\nفالأولى اللَّجَب: الْجَلَبة. يقال جيشٌ ذو لَجَب، وبحرٌ ذو لَجَب، إذا سُمِع اضطرابُ أمواجه.\nوالكلمة الأخرى: عَنْزٌ لَجْبَة، والجمع لِجَابٌ (٢)، وهي التي ارتفع لبنُها. قال:\nعَجِبَتْ أبناؤُنا من فِعلِنا … إذْ [نَبِيعُ] الخيل بالمِعزَى اللِّجابِ (٣)",
- "az": "[لجب] (ləcəb) — lam, cim və ba bir-birindən tamamilə fərqli iki sözdür.\nBirincisi: اّللَّجَب (əlləcəb) — səs-küy, hay-küy. جيشٌ ذو لَجَب (cəyşün zü ləcəb) — gurultulu qoşun, və بحرٌ ذو لَجَب (bəhrün zü ləcəb) — dalğalarının səsi eşidilən dəniz, deyilir.\nDigər söz: عَنْزٌ لَجْبَة (ənzün ləcbəh), cəmi لِجَابٌ (licab) (٢) — südü bol olan keçi. Şair demişdir:\nعَجِبَتْ أبناؤُنا من فِعلِنا … إذْ [نَبِيعُ] الخيل بالمِعزَى اللِّجابِ (٣)\n(Övladlarımız gördüyümüz işə təəccübləndilər, biz atları südverən keçilərə satanda)",
+ "az": "[لجب] — lam, cim və ba bir-birindən tamamilə fərqli iki sözdür.\nBirincisi اللَّجَب (əl-ləcəb) — səs-küy, gurultudur. جيشٌ ذو لَجَب (gurultulu qoşun) və dalğalarının çaxnaşması eşidildikdə بحرٌ ذو لَجَب (gurultulu dəniz) deyilir.\nDigər söz isə: عَنْزٌ لَجْبَة (südü çəkilmiş keçi), cəmi لِجَابٌ (licab) (٢) şəklindədir; bu, südü getmiş (azalmış) heyvandır. [Şair] demişdir:\nعَجِبَتْ أبناؤُنا من فِعلِنا … إذْ [نَبِيعُ] الخيل بالمِعزَى اللِّجابِ (٣)\n(Biz atları südü kəsilmiş keçilərə satdığımız zaman oğullarımız bu işimizə təəccübləndilər).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "prev_az": "[لجب] (ləcəb) — lam, cim və ba bir-birindən tamamilə fərqli iki sözdür.\nBirincisi: اّللَّجَب (əlləcəb) — səs-küy, hay-küy. جيشٌ ذو لَجَب (cəyşün zü ləcəb) — gurultulu qoşun, və بحرٌ ذو لَجَب (bəhrün zü ləcəb) — dalğalarının səsi eşidilən dəniz, deyilir.\nDigər söz: عَنْزٌ لَجْبَة (ənzün ləcbəh), cəmi لِجَابٌ (licab) (٢) — südü bol olan keçi. Şair demişdir:\nعَجِبَتْ أبناؤُنا من فِعلِنا … إذْ [نَبِيعُ] الخيل بالمِعزَى اللِّجابِ (٣)\n(Övladlarımız gördüyümüz işə təəccübləndilər, biz atları südverən keçilərə satanda)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«ارتفع لبنها» ifadəsi «südü bol olan» və «südverən» kimi tərcümə edilərək məna tam tərsinə çevrilib; əslində südü çəkilmiş, südü kəsilmiş keçi deməkdir."
+ ],
+ "review_ts": "2026-11-27T00:42:14.449Z"
 }

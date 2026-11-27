@@ -11,7 +11,17 @@
   "page_to": 246
  },
  "ar": "اللام والزاء والباء يدلُّ على ثبوتِ شيءٍ ولُزومه. يقال:\nللاّزِمِ لازب. وصار هذا الشَّيءُ ضربةَ لازِبٍ، أي لا يكاد يفارِق. قال النابغة:\nولا يَحسِبون الخيرَ لا شرَّ بعدَه … ولا يَحْسِبون الشَّرَّ ضربةَ لازِب (٣)\nواللَّزْبة: السَّنَة الشديدة، والجمع لَزْبات (١) كأنَّ القَحْط لَزَب، أي ثبت فيها.",
- "az": "[لزب] (Ləzəbə) — Lam, zai və ba bir şeyin sabitliyinə və qalıcılığına dəlalət edir. Deyilir: «للاّزِمِ لازب» (lil-ləzimi ləzibun). Və bu iş «ضربةَ لازِبٍ» (darbətə ləzibin) oldu, yəni demək olar ki, heç ayrılmır. Nabigə demişdir:\nولا يَحسِبون الخيرَ لا شرَّ بعدَه … ولا يَحْسِبون الشَّرَّ ضربةَ لازِب (٣)\n(Mənası: Onlar xeyirdən sonra heç bir şər olmayacağını güman etmirlər... və şəri də qaçılmaz bir zərbə kimi hesab etmirlər.)\nوَاللَّزْبَة (əl-ləzbə) — şiddətli il, cəmi لَزْبَات (ləzbət) olur; sanki qıtlıq orada sabit qaldı.",
+ "az": "[لزب] — Lam, zey və ba bir şeyin sabitliyinə və ayrılmaz olmasına dəlalət edir. Deyilir:\n«للاّزِمِ لازب» (ayrılmaz, sabit olan şeyə لازب deyilir). «وصار هذا الشَّيءُ ضربةَ لازِبٍ» (bu iş zəruri və qaçılmaz oldu), yəni demək olar ki, heç ayrılmır. Nabigə demişdir:\nولا يَحسِبون الخيرَ لا شرَّ بعدَه … ولا يَحْسِبون الشَّرَّ ضربةَ لازِب (٣)\n(Mənası: Onlar nə xeyirdən sonra şərin gəlməyəcəyini düşünür, nə də şərin qaçılmaz və daimi olduğunu güman edirlər).\nاللَّزْبة (əl-ləzbə) — quraqlıq və çətin keçən ildir, cəmi لَزْبات (ləzbət) gəlir (١); sanki qıtlıq orada sabit qalıb möhkəmlənmişdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لزب] (Ləzəbə) — Lam, zai və ba bir şeyin sabitliyinə və qalıcılığına dəlalət edir. Deyilir: «للاّزِمِ لازب» (lil-ləzimi ləzibun). Və bu iş «ضربةَ لازِبٍ» (darbətə ləzibin) oldu, yəni demək olar ki, heç ayrılmır. Nabigə demişdir:\nولا يَحسِبون الخيرَ لا شرَّ بعدَه … ولا يَحْسِبون الشَّرَّ ضربةَ لازِب (٣)\n(Mənası: Onlar xeyirdən sonra heç bir şər olmayacağını güman etmirlər... və şəri də qaçılmaz bir zərbə kimi hesab etmirlər.)\nوَاللَّزْبَة (əl-ləzbə) — şiddətli il, cəmi لَزْبَات (ləzbət) olur; sanki qıtlıq orada sabit qaldı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«zai» əvəzinə «zey» yazılmalıdır.",
+  "«للاّزِمِ لازب» ifadəsi tərcüməsiz qalmışdır."
+ ],
+ "review_ts": "2026-11-27T00:45:16.533Z"
 }

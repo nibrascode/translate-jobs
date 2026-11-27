@@ -11,7 +11,18 @@
   "page_to": 224
  },
  "ar": "اللام والياء والثاء أصلٌ صحيح يدلُّ على قُوّة خَلْق. من\nذلك اللَّيث، قالوا: سمِّي بذلك لقُوّته وشِدّة أخْذِه. ومنه يقال: رجل مُلَيِّثٌ (١).\nواللَّيْث: عنكبوتٌ يَصِيد الذُّباب. فأمَّا اللِّيث بكسر اللام، فموضع. قال الهذليّ (٢):\nمستأرِضاً بين بَطْنِ اللِّيثِ أيمنُهُ … إلى شَمَنْصِيرَ غيثاً مُرْسَلاً مَعِجا",
- "az": "«ليث» (ليث): اللام والياء والثاء أصل صحيح يدل على قوة خلق (Lam, yə və sə düzgün bir əsas olub, xilqətin gücünə dəlalət edir). من ذلك الليث، قالوا: سمي بذلك لقُوّته وشِدة أخْذِه (Bundandır əl-ləys - şir, dedilər: o, gücünə və şiddətli tutmasına görə belə adlandırılmışdır). ومنه يقال: رجل مُليِّث (١) (Və bundan deyilir: müleyyis kişi). والليث: عنكبوت يصيد الذباب (Və əl-ləys: milçək ovlayan hörümçəkdir). فأما اللِّيث بكسر اللام، فموضع (Amma lamın kəsrəsi ilə əl-liyəs gəldikdə, o, məkandandır). قال الهذلي (2) (Hüzəli demişdir): مستأرِضاً بين بَطْنِ اللِّيثِ أيمنه … إلى شمنصير غيثا مرسلا معجا (Liyəs qarnı ilə Şəmansir arasında sağ tərəfi göndərilmiş yağışla əhatə edərək...)",
+ "az": "[ليث]\nLam, ya və sa xilqətin qüvvətinə dəlalət edən səhih bir əsasdır. Bu qəbildən اللَّيث (şir) sözü gəlir; demişlər ki, o, qüvvətinə və tutuşunun şiddətinə görə belə adlandırılmışdır. Buradan رجل مُلَيِّثٌ (١) (şir kimi güclü kişi) deyilir.\nاللَّيْث milçək ovlayan hörümçəkdir. Lam hərfinin kəsrəsi ilə اللِّيث isə bir yer adıdır. Huzəli şair (٢) demişdir:\nمستأرِضاً بين بَطْنِ اللِّيثِ أيمنُهُ … إلى شَمَنْصِيرَ غيثاً مُرْسَلاً مَعِجا\n(Sağ tərəfi Bətni-Lislə Şəmənsir arasını bürüyən, axıb tökülən bol bir yağış halında).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "prev_az": "«ليث» (ليث): اللام والياء والثاء أصل صحيح يدل على قوة خلق (Lam, yə və sə düzgün bir əsas olub, xilqətin gücünə dəlalət edir). من ذلك الليث، قالوا: سمي بذلك لقُوّته وشِدة أخْذِه (Bundandır əl-ləys - şir, dedilər: o, gücünə və şiddətli tutmasına görə belə adlandırılmışdır). ومنه يقال: رجل مُليِّث (١) (Və bundan deyilir: müleyyis kişi). والليث: عنكبوت يصيد الذباب (Və əl-ləys: milçək ovlayan hörümçəkdir). فأما اللِّيث بكسر اللام، فموضع (Amma lamın kəsrəsi ilə əl-liyəs gəldikdə, o, məkandandır). قال الهذلي (2) (Hüzəli demişdir): مستأرِضاً بين بَطْنِ اللِّيثِ أيمنه … إلى شمنصير غيثا مرسلا معجا (Liyəs qarnı ilə Şəmansir arasında sağ tərəfi göndərilmiş yağışla əhatə edərək...)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format qaydası pozulub: maddə başlığı «[ليث]» olmalıdır.",
+  "Hərf adları səhv verilib: «ya» yerinə «yə», «sa» yerinə «sə».",
+  "Şeir beyti AR mətnindəki kimi hərəkələrlə verilməyib və tərcüməsi qeyri-dəqiqdir."
+ ],
+ "review_ts": "2026-11-27T00:37:37.647Z"
 }

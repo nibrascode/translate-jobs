@@ -13,5 +13,10 @@
  "ar": "الميم والياء والسين كلمةٌ تدلُّ على مَيَلان. ومَاسَ مَيَسانًا (٢):\nتبختر. وماس الغصن أيضاً. والمَيْس: شجرٌ يقال إنّه أجودُ خَشَب.",
  "az": "[ميس] (mim, ya və sin) — meyl etməyə dəlalət edən kəlmədir. مَاسَ مَيَسانًا (masa mayasanan) — təkəbbürlə, lovğa yerişlə yeridi. Həmçinin budaq da yelləndi. والمَيْس (əl-mays): ən yaxşı taxta olduğu söylənilən bir ağac növüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:58:19.015Z"
 }

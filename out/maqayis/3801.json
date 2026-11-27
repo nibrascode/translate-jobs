@@ -11,7 +11,17 @@
   "page_to": 298
  },
  "ar": "الميم والجيم والعين كلمتان متباينتان.\nفالأولى المَجْع: أكْل التَّمر باللَّبَن، وذلك هو المَجِيع. والمَجَّاعة (١):\nالمُكْثِر منه. ومجَاعَة التَّمر واللَّبن: بقِيَّتُه (٢). وشَرِبَ المجَاعَة.\nوالأخرى تدلُّ على رداءةِ الشَّيء وقلة خيره. يقال لكلِّ شيءٍ رديءِ مِجْع.\nوربما قالوا للماجن مَجِعٌ. وامرأةٌ مَجِعَةٌ: تَكَلّمُ بالفُحْش. وفي نِساءِ بني فلانٍ مَجَاعةٌ، وهي أن يصرِّحْن بما يُكنَى عنه من الرَّفَث.",
- "az": "[مجع] الميم والجيم والعين bir-birindən fərqli iki sözdür.\nBirincisi «المَجْع» (məc): xurmanın süd ilə yeyilməsidir, məhz bu «المَجِيع» (məci)-dir. «المَجَّاعة» (məccaə) (١): bunu çox yeyən. Xurma və südün «مجَاعَة» (məcaə)-si: onun qalıntısıdır (٢). O, məcaəni içdi.\nDigəri isə şeyin pisliyinə və xeyrinin azlığına dəlalət edir. Hər pis şeyə «مِجْع» (mic) deyilir. Bəzən zarafatcıl adama «مَجِعٌ» (məci) deyirlər. «امرأةٌ مَجِعَةٌ» (məciə qadın): əxlaqsız danışan qadın. Filan qəbilənin qadınlarında «مَجَاعةٌ» (məcaəh) vardır, bu da onların kinayə edilən biədəb sözləri açıq-aydın demələridir.",
+ "az": "[مجع]\nالميم والجيم والعين كلمتان متباينتان.\nفالأولى «المَجْع» (məc): أكْل التَّمر باللَّبَن (xurmanın süd ilə yeyilməsidir), وذلك هو «المَجِيع» (məci). Və «المَجَّاعة» (məccaə) (١): المُكْثِر منه (bunu çox yeyən). Və xurma ilə südün «مجَاعَة» (məcaə)-si: بقِيَّتُه (onun qalıntısıdır) (٢). Və deyilir: «شَرِبَ المجَاعَة» (məcaəni içdi).\nوالأخرى تدلُّ على رداءةِ الشَّيء وقلة خيره (digəri isə şeyin pisliyinə və xeyrinin azlığına dəlalət edir). يقال لكلِّ شيءٍ رديءِ مِجْع (hər pis şeyə «مِجْع» (mic) deyilir). وربما قالوا للماجن مَجِعٌ (bəzən arsız/həyasız adama «مَجِعٌ» (məci) deyirlər). Və «امرأةٌ مَجِعَةٌ» (məciə qadın): تَكَلّمُ بالفُحْش (əxlaqsız/biədəb danışan qadın). وفي نِساءِ بني فلانٍ مَجَاعةٌ (filan qəbilənin qadınlarında «مَجَاعةٌ» (məcaə) vardır), وهي أن يصرِّحْن بما يُكنَى عنه من الرَّفَث (bu da onların kinayə edilən biədəb sözləri açıq-aydın demələridir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:09.385Z"
+ "ts": "2026-10-26T00:51:09.385Z",
+ "prev_az": "[مجع] الميم والجيم والعين bir-birindən fərqli iki sözdür.\nBirincisi «المَجْع» (məc): xurmanın süd ilə yeyilməsidir, məhz bu «المَجِيع» (məci)-dir. «المَجَّاعة» (məccaə) (١): bunu çox yeyən. Xurma və südün «مجَاعَة» (məcaə)-si: onun qalıntısıdır (٢). O, məcaəni içdi.\nDigəri isə şeyin pisliyinə və xeyrinin azlığına dəlalət edir. Hər pis şeyə «مِجْع» (mic) deyilir. Bəzən zarafatcıl adama «مَجِعٌ» (məci) deyirlər. «امرأةٌ مَجِعَةٌ» (məciə qadın): əxlaqsız danışan qadın. Filan qəbilənin qadınlarında «مَجَاعةٌ» (məcaəh) vardır, bu da onların kinayə edilən biədəb sözləri açıq-aydın demələridir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«وشَرِبَ المجَاعَة» cümləsinin ərəbcə mətni ixtisar edilmişdir",
+  "«ماجن» sözünün tərcüməsi dəqiq verilməmişdir"
+ ],
+ "review_ts": "2026-11-27T01:02:05.514Z"
 }

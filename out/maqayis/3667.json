@@ -11,7 +11,17 @@
   "page_to": 245
  },
  "ar": "اللام والزاء والميم أصلٌ واحد صحيح، يدلُّ على مصاحَبة الشَّيء بالشئ دائماً. يقال: لَزِمه الشَّيءُ يَلْزَمُه. واللِّزَام: العذاب الملازم للكُفَّار.",
- "az": "[لزم] (Ləzəmə) — Lam, zai və mim bir şeyin digər bir şeylə hər zaman yoldaşlıq etməsinə dəlalət edən tək və səhih bir əsasdır. Deyilir: «لَزِمه الشَّيءُ يَلْزَمُه» (ləziməhüş-şəyü yəlzəmuhu). وَاللِّزَام (əl-lizəm) — kafirləri daimi izləyən əzabdır.",
+ "az": "[لزم] — Lam, zey və mim bir şeyin başqa bir şeylə daima birgə olmasına dəlalət edən tək, səhih bir əsasdır. Deyilir: «لَزِمه الشَّيءُ يَلْزَمُه» (bir şey ona ayrılmaz oldu, ondan ayrılmır). اللِّزَام (əl-lizəm) isə kafirlərdən ayrılmayan əzabdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لزم] (Ləzəmə) — Lam, zai və mim bir şeyin digər bir şeylə hər zaman yoldaşlıq etməsinə dəlalət edən tək və səhih bir əsasdır. Deyilir: «لَزِمه الشَّيءُ يَلْزَمُه» (ləziməhüş-şəyü yəlzəmuhu). وَاللِّزَام (əl-lizəm) — kafirləri daimi izləyən əzabdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«zai» əvəzinə «zey» yazılmalıdır.",
+  "«لَزِمه الشَّيءُ يَلْزَمُه» cümləsi tərcüməsiz qalmışdır."
+ ],
+ "review_ts": "2026-11-27T00:45:16.533Z"
 }

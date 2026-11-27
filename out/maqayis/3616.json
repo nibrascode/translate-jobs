@@ -11,7 +11,16 @@
   "page_to": 228
  },
  "ar": "اللام والباء والخاء. يقولون: اللُّبَاخِيّة: المرأة التامّة الخَلْق.\nقال الأعشى:\nعبْهَرة الخَلْق لُباخِيّة … تَزِينه بالخُلُق الطاهرِ (٤)",
- "az": "«لبخ» (Lam, ba və xa). Deyirlər: اللَّبَاخِيّة (əl-ləbaxiyyə) — xilqəti tam olan qadındır. Əşa demişdir: «Xilqəti təmiz, ləbaxiyyə qadın, onu pak əxlaqla bəzəyir» (٤).",
+ "az": "[لبخ]\nاللام والباء والخاء.\n(Lam, ba və xa).\nيقولون: اللُّبَاخِيّة: المرأة التامّة الخَلْق.\n(Deyirlər ki, اللُّبَاخِيّة: xilqəti tam və gözəl olan qadındır).\nقال الأعشى:\nعبْهَرة الخَلْق لُباخِيّة … تَزِينه بالخُلُق الطاهرِ (٤)\n(əl-Aşa demişdir:\nعبْهَرة الخَلْق لُباخِيّة … تَزِينه بالخُلُق الطاهرِ (٤)\n«Xilqəti qamətli və incə, boy-buxunlu bir qadındır; onu pak bir əxlaqla bəzəyir»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:21.833Z"
+ "ts": "2026-10-26T00:47:21.833Z",
+ "prev_az": "«لبخ» (Lam, ba və xa). Deyirlər: اللَّبَاخِيّة (əl-ləbaxiyyə) — xilqəti tam olan qadındır. Əşa demişdir: «Xilqəti təmiz, ləbaxiyyə qadın, onu pak əxlaqla bəzəyir» (٤).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Əl-Aşanın beytinin ərəbcə mətni buraxılmışdır."
+ ],
+ "review_ts": "2026-11-27T00:39:28.669Z"
 }

@@ -13,5 +13,10 @@
  "ar": "اللام والفاء والحاء كلمةٌ واحدة. يقال: لفحَتْه النّار بحرِّها والسَّمومُ، إذا أصابه حَرُّها فتغيَّرَ وجهُه [وأمّا] قولهم: لَفَحَه بالسَّيف لَفْحَةً:\nضربه ضربةً خفيفة، فإنّ الأصل فيه النون، هو نَفَحَه.",
  "az": "«لفح» — lam, fa və ha tək bir sözdür. Deyilir: «لفحَتْه النّار بحرِّها والسَّمومُ» (lafa'athu an-naru bi-harriha wa as-samoumu) — odun və ya isti yel hərarəti ilə ona toxundu, nəticədə üzü dəyişdi [Amma] onların «لَفَحَه بالسَّيف لَفْحَةً» (lafacahu bi-as-sayfi lafcatan) — qılıncla yüngülcə bir zərbə vurdu sözünə gəldikdə, onun əslində nun hərfi vardır, yəni «نَفَحَه» (nafacahu) -dur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:50.564Z"
+ "ts": "2026-10-26T00:48:50.564Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:48:26.669Z"
 }

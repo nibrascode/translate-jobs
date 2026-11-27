@@ -11,7 +11,16 @@
   "page_to": 241
  },
  "ar": "اللام والخاء والعين كلمةٌ واحدة. قال ابن دريد: اللَّخَع:\nاسترخاءٌ في الجِسْم (١).",
- "az": "[لخع] (Ləhəə) — Lam, xə və eyn tək bir kəlmədir. İbn Dürid demişdir: اللَّخَع (əl-ləhəə) — bədəndə olan boşluqdur (١).",
+ "az": "[لخع]\nاللام والخاء والعين كلمةٌ واحدة. قال ابن دريد: اللَّخَع:\nاسترخاءٌ في الجِسْم (١).\n\n(Lam, xə və ayn tək bir kəlmədir. İbn Dureyd demişdir: اللَّخَع (əl-ləxa) — bədəndəki süstlük, boşalma halıdır (١).)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لخع] (Ləhəə) — Lam, xə və eyn tək bir kəlmədir. İbn Dürid demişdir: اللَّخَع (əl-ləhəə) — bədəndə olan boşluqdur (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«استرخاء» sözü «boşluq» (ərazi, məkan boşluğu) kimi deyil, «süstlük, süstləşmə, zəiflik» kimi tərcümə olunmalıdır."
+ ],
+ "review_ts": "2026-11-27T00:44:02.394Z"
 }

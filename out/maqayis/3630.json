@@ -11,7 +11,17 @@
   "page_to": 234
  },
  "ar": "اللام والثاء والقاف، كلمةٌ تدلُّ على ترطيب الماء والمطرِ الشَّيء.\nمن ذلك اللَّثَق، وقد ألثَقَه المطرُ، إذا بَلَّه.",
- "az": "[لثق] (ləsəq) — lam, sa və qaf, suyun və yağışın bir şeyi nəmləndirməsini bildirən sözdür. Bunlardan biri اّللَّثَق (əlləsəq) sözüdür, yağış onu ıslatdıqda ألثَقَه المطرُ (əlsəqəhül-mətər) deyilir.",
+ "az": "[لثq] Lam, sa və qaf suyun və yağışın bir şeyi nəmləndirməsini bildirən bir sözdür. اللَّثَق (nəmlik, palçıq) bundandır. Yağış bir şeyi islatdıqda أَلْثَقَهُ المَطَرُ deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "prev_az": "[لثق] (ləsəq) — lam, sa və qaf, suyun və yağışın bir şeyi nəmləndirməsini bildirən sözdür. Bunlardan biri اّللَّثَق (əlləsəq) sözüdür, yağış onu ıslatdıqda ألثَقَه المطرُ (əlsəqəhül-mətər) deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə sözdə hərf səhvi var: اّللَّثَق əvəzinə اللَّثَق.",
+  "Türkiyə türkcəsinə aid «ıslatdıqda» sözü işlədilmişdir."
+ ],
+ "review_ts": "2026-11-27T00:40:49.201Z"
 }

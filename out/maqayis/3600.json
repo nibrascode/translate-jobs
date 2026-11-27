@@ -11,7 +11,18 @@
   "page_to": 223
  },
  "ar": "اللام والياء والألف، يقال إنّه شيءٌ من النَّبْت. يقولون:\nاللِّياء: شيءٌ كالحِمَّص شديدُ البياض. يقال للمرأة: كأنَّها لِيَاءة.",
- "az": "«ليا» (ليا): اللام والياء والألف، يقال إنه شيء من النبت (Lam, yə və əlif, deyilir ki, o, bitkidən bir şeydir). يقولون: اللياء: شيء كالحمص شديد البياذ (Deyirlər: əl-liyə: noxud kimi çox ağ olan bir şeydir). يقال للمرأة: كأنها لياءة (Qadına denilər: sanki o, liyədir).",
+ "az": "[ليا]\nLam, ya və əlif: deyilir ki, bitkidən bir şeydir. Deyirlər ki:\nاللِّياء noxud kimi son dərəcə ağ olan bir şeydir. Qadın haqqında: كأنَّها لِيَاءة (sanki o, bir liyə dənəsidir) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "prev_az": "«ليا» (ليا): اللام والياء والألف، يقال إنه شيء من النبت (Lam, yə və əlif, deyilir ki, o, bitkidən bir şeydir). يقولون: اللياء: شيء كالحمص شديد البياذ (Deyirlər: əl-liyə: noxud kimi çox ağ olan bir şeydir). يقال للمرأة: كأنها لياءة (Qadına denilər: sanki o, liyədir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format qaydası pozulub: maddə başlığı «[ليا]» olmalıdır.",
+  "«البياض» sözü «البياذ» kimi səhv yazılıb, «denilər» orfoqrafik xətadır.",
+  "«ya» hərfi «yə» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-27T00:37:37.646Z"
 }

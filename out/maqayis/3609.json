@@ -13,5 +13,10 @@
  "ar": "اللام والألف والباء. اللاَّبَة: الحَرَّة، والجمع * لُوب.\nواللُّوَاب: العَطَش؛ لاب يَلُوب.",
  "az": "«لاب» (لاب): اللام والألف والباء (Lam, əlif və ba). اللابة: الحرة، والجمع * لُوب (Əl-ləbə: qara daşlı vulkanik yer, və cəmi lûbdur). واللُّوَاب: العطش؛ لاب يَلُوب (Və əl-lüvab: susuzluq; lâbə yilûbu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:39:28.666Z"
 }

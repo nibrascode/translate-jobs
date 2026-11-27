@@ -11,7 +11,18 @@
   "page_to": 221
  },
  "ar": "اللام والواو والطاء كلمةٌ تدل على اللُّصوق. يقال. لاط الشّيءُ بقلبي، إذا لَصِق. و\nفي بعض الحديث: «الولد أَلْوَطُ بالقَلْب (٣)». أي ألْصَق.\nويقولون: هذا أمرٌ لا يَلْتَاطُ بصَفَرِي، أي لا يَلصَق بقلبي. ولُطتُ الْحَوْضَ لَوطاً، إذا مَدَرْتَه بالطِّين.\nلوع *\nاللام والواو والعين: اللَّوعة: الحُبّ. [و] يقال:\nرجلٌ لاعٌ هاعٌ، إذا كان جباناً.",
- "az": "«لوط» (لوط): اللام، الواو والطاء كلمة تدل على اللصوق (Lam, vav və ta yapışmağa dəlalət edən bir kəlmədir). يقال: لاط الشيء بقلبي، إذا لصق (Deyilir: lâtaş-şey’u bi-qalbi, əgər yapışdısa). وفي بعض الحديث: «الولد أَلْوَطُ بالقَلْب (٣)» (Və bəzi hədisdə: «Övlad qəlbə daha çox yapışandır»). أي ألصق (Yəni daha çox yapışan). ويقولون: هذا أمر لا يَلْتَاطُ بصَفَرِي، أي لا ي لصق بقلبي (Və deyirlər: Bu, mənim qəlbimə yapışmayan bir işdir, yəni qəlbimə yapışmır). ولُطتُ الْحَوْضَ لَوطاً، إذا مَدَرْتَه بالطِّين (Və lütütül-havda lavtan - hovuzu palçıqla suvaddığın zaman). لوع * (Ləvə *): اللام، الواو والعين: اللوعة: الحب (Lam, vav və ayn: əl-ləvəh - eşq, məhəbbət). [و] يقال: رجل لاعٌ هاعٌ، إذا كان جبانا (Və deyilir: kişi lâun hâun, əgər qorxaqdırsa).",
+ "az": "[لوط]\nLam, vav və ta hərfləri yapışmağa dəlalət edən bir kəlmədir. Deyilir: لاط الشّيءُ بقلبي (bir şey qəlbimə yapışdı), yəni yapışdı. Bəzi hədislərdə gəlmişdir: «الولد أَلْوَطُ بالقَلْب (٣)» («Övlad qəlbə daha çox yapışandır»). Yəni daha çox yapışandır. Deyirlər: هذا أمرٌ لا يَلْتَاطُ بصَفَرِي (bu elə bir işdir ki, qəlbimə yatmır), yəni qəlbimə yapışmır. ولُطتُ الْحَوْضَ لَوطاً (hovuzu palçıqla suvadım), yəni onu palçıqla suvadın.\nلوع *\nLam, vav və ayn: اللَّوعة (əl-ləvə) — eşq, məhəbbət. [Və] deyilir: رجلٌ لاعٌ هاعٌ (qorxaq, təlaşlı kişi), əgər qorxaqdırsa.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "prev_az": "«لوط» (لوط): اللام، الواو والطاء كلمة تدل على اللصوق (Lam, vav və ta yapışmağa dəlalət edən bir kəlmədir). يقال: لاط الشيء بقلبي، إذا لصق (Deyilir: lâtaş-şey’u bi-qalbi, əgər yapışdısa). وفي بعض الحديث: «الولد أَلْوَطُ بالقَلْب (٣)» (Və bəzi hədisdə: «Övlad qəlbə daha çox yapışandır»). أي ألصق (Yəni daha çox yapışan). ويقولون: هذا أمر لا يَلْتَاطُ بصَفَرِي، أي لا ي لصق بقلبي (Və deyirlər: Bu, mənim qəlbimə yapışmayan bir işdir, yəni qəlbimə yapışmır). ولُطتُ الْحَوْضَ لَوطاً، إذا مَدَرْتَه بالطِّين (Və lütütül-havda lavtan - hovuzu palçıqla suvaddığın zaman). لوع * (Ləvə *): اللام، الواو والعين: اللوعة: الحب (Lam, vav və ayn: əl-ləvəh - eşq, məhəbbət). [و] يقال: رجل لاعٌ هاعٌ، إذا كان جبانا (Və deyilir: kişi lâun hâun, əgər qorxaqdırsa).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı səhvdir və bütün ərəbcə mətn təkrar köçürülüb.",
+  "'لُطتُ الْحَوْضَ لَوطاً' və 'رجل لاع هاع' ifadələri tərcüməsiz qalıb, sadəcə transkripsiya edilib.",
+  "Hədisdəki '(٣)' haşiyə rəqəmi tərcümədə buraxılıb."
+ ],
+ "review_ts": "2026-11-27T00:35:18.167Z"
 }

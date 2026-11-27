@@ -11,7 +11,18 @@
   "page_to": 253
  },
  "ar": "اللام والعين والحرف المعتلّ كلماتٌ غير راجعةٍ إلى قياسٍ واحد. وقد كتبت (٣) الكلبة (٤) اللّعوة: الحريصة. والرجُل اللّعْو: السيِّئُ الْخُلُق.\nواللُّعْوة (٥): السَّواد حولَ حَلَمةَ الثَّدي. ويقولون: تَلَعَّى العَسَل: تعَقَّد. ويقولون للعاثر: لعاً لَكَ، دعاء أن ينتعش. قال:\nبذاتِ لَوْثٍ عَفَرْناة إذا عَثَرَتْ … فالتَّعْسُ أدنَى لها من أن أقولَ لَعا (٦)\nويقال: ما بها لَاعِي قَرْوٍ، أي مَنْ يلحَس عُسًّا.",
- "az": "«لعو» — lam, ayn və zəif hərf vahid qaydaya qayıtmayan sözlərdir. (٣) İbn Dürid (٤) yazmışdır: «اللَّعوة» (al-la'wah) — tamahkar dişi it. «الرجُل اللّعْو» (ar-rajul al-la'w) — pis xasiyyətli kişi.\n\nVə «اللُّعْوة» (al-lu'wah) — döş giləsinin ətrafındakı qara yer. Deyirlər: «تَلَعَّى العَسَل» (tala' 'al-asal) — bal qatılaşdı. Büdrəyən şəxsə «لعاً لَكَ» (la'an laka) deyirlər, bu, onun ayağa qalxması üçün duadır. Şair demişdir:\nبذاتِ لَوْثٍ عَفَرْناة إذا عَثَرَتْ … فالتَّعْسُ أدنَى لها من أن أقولَ لَعا (٦)\n(Güclü, möhkəm və zirək dəvə ilə ki, əgər o büdrəsə, bədbəxtlik ona mənim \"la'a\" [qalx] deməyimdən daha yaxındır).\nVə deyilir: «ما بها لَاعِي قَرْوٍ» (ma biha la'i qarw), yəni saxsı qabı yalayan kimsə yoxdur.",
+ "az": "[لعو]\nاللام والعين والحرف المعتلّ (lam, ayn və illətli hərf) tək bir qiyasa qayıtmayan sözlərdir. Yazılmışdır ki (٣), الكلبة اللّعوة (tamahkar dişi it) deməkdir (٤). الرجُل اللّعْو — pis xasiyyətli kişi.\nاللُّعْوة (٥) — döş giləsinin ətrafındakı qaralıqdır. Deyirlər: تَلَعَّى العَسَل — bal qatılaşdı. Büdrəyən kimsəyə لعاً لَكَ deyirlər ki, bu da onun dirçəlməsi (ayağa qalxması) üçün duadır. Şair demişdir:\nبذاتِ لَوْثٍ عَفَرْناة إذا عَثَرَتْ … فالتَّعْسُ أدنَى لها من أن أقولَ لَعا (٦)\n(Güclü və dözümlü bir dəvə ilə ki, əgər büdrəsə, bədbəxtlik ona mənim «la'a» [qalx] deməyimdən daha yaxındır).\nDeyilir: ما بها لَاعِي قَرْوٍ, yəni böyük qabı yalayan kimsə yoxdur.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:50.563Z"
+ "ts": "2026-10-26T00:48:50.563Z",
+ "prev_az": "«لعو» — lam, ayn və zəif hərf vahid qaydaya qayıtmayan sözlərdir. (٣) İbn Dürid (٤) yazmışdır: «اللَّعوة» (al-la'wah) — tamahkar dişi it. «الرجُل اللّعْو» (ar-rajul al-la'w) — pis xasiyyətli kişi.\n\nVə «اللُّعْوة» (al-lu'wah) — döş giləsinin ətrafındakı qara yer. Deyirlər: «تَلَعَّى العَسَل» (tala' 'al-asal) — bal qatılaşdı. Büdrəyən şəxsə «لعاً لَكَ» (la'an laka) deyirlər, bu, onun ayağa qalxması üçün duadır. Şair demişdir:\nبذاتِ لَوْثٍ عَفَرْناة إذا عَثَرَتْ … فالتَّعْسُ أدنَى لها من أن أقولَ لَعا (٦)\n(Güclü, möhkəm və zirək dəvə ilə ki, əgər o büdrəsə, bədbəxtlik ona mənim \"la'a\" [qalx] deməyimdən daha yaxındır).\nVə deyilir: «ما بها لَاعِي قَرْوٍ» (ma biha la'i qarw), yəni saxsı qabı yalayan kimsə yoxdur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı kvadrat mötərizə əvəzinə dırnaq içində verilib.",
+  "Ərəbcə sözlərin ardınca mənaları əvəzinə latın qrafikalı transliterasiyalar qoyulub.",
+  "Mətndəki «وقد كتبت» ifadəsi əsassız olaraq «İbn Dürid yazmışdır» şəklində dəyişdirilib."
+ ],
+ "review_ts": "2026-11-27T00:46:53.736Z"
 }

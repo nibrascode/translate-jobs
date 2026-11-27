@@ -13,5 +13,10 @@
  "ar": "اللام والجيم والميم كلمةٌ، وهي اللِّجام. يقال: ألجَمْتُ الفَرَس.",
  "az": "[لجم] (ləcəm) — lam, cim və mim bir sözdür, o da اّللِّجام (əllicam) - yüyəndir. ألجَمْتُ الفَرَس (əlcəmtül-fَرəs) — atı yüyənlədim, deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:42:14.448Z"
 }

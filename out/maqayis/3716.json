@@ -13,5 +13,10 @@
  "ar": "اللام والقاف والصاد قريبٌ في المعنى [من] الذي قبله. ولَقِصَ لَقَصاً، وهو لَقِصٌ، أي ضيِّق الخلق. والتَقَص الشّيءَ: أخذَه بِحِرصٍ عليه. قال:\nومُلْتَقِصٍ ما ضَاعَ من أَهَراتِنا … لعَلَّ الذي أمْلَى له سيعاقِبُه (٢)\nوربَّما قالوا: ألْقَصَه الحرُّ: أحرقَه.",
  "az": "[لقص] «اللام والقاف والصاد قريبٌ في المعنى [من] الذي قبله» (Lam, qaf və sad hərfləri mənaca əvvəlkinə yaxındır). ولَقِصَ لَقَصاً (Laqisə ləqasən): وهو لَقِصٌ (və o, ləqisdir), أي ضيِّق الخلق (yəni xasiyyəti dar, sərt). والتَقَص الشَّيْء (Bir şeyi əldə etdi): أخذَه بِحِرصٍ عليه (ona tamahla yanaşaraq götürdü). قال (Şair demişdir): ومُلْتَقِصٍ ما ضَاعَ من أَهَراتِنا … لعَلَّ الذي أمْلَى له سيعاقِبُه (٢) (Bizdən itənləri yığıb toplayanın... bəlkə də möhlət verdiyi kəs onu cəzalandıracaqdır). وربَّما قالوا (Bəzən də demişlər): ألْقَصَه الحرُّ (İsti onu yandırdı): أحرقَه (yandırdı, qovurdu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:15.889Z"
+ "ts": "2026-10-26T00:49:15.889Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:51:19.358Z"
 }

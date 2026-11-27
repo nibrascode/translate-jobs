@@ -11,7 +11,17 @@
   "page_to": 283
  },
  "ar": "الميم والهاء والنون أصلٌ صحيح يدلُّ على احتقارٍ وحَقَارةٍ في الشيء. منه قولهم مَهِينٌ، أي حقير. والمَهانة: الحَقَارَة، وهو مَهِينٌ بيِّنُ المَهانة.\nومن الباب المهْن: الخِدْمة، والمهْنة. والماهِن: الخادم. ومَهَنْت الثّوْب: جذبته (١) وثوبٌ مَمْهُون. وربما قالوا: مَهَنْتُ الإبلَ: حلبتُها.",
- "az": "[مهن] (M-h-n): Mim, hə və nun bir şeydə alçalma və rəzilliyə dəlalət edən səhih bir kökdür. Bunlardan biri مَهِينٌ (məhin) sözüdür, yəni alçaq, dəyərsiz. والمَهانة (əl-məhanə): alçaqlıq, rəzillik. O, مَهِينٌ بيِّنُ المَهانة (açıq-aydın alçaqlığı olan rəzil biridir).\nBu qapıdan olan sözlərdən biri də مَهْن (mihn) — xidmət və مَهْنة (mihnə) sözüdür. والماهِن (əl-mahin) — xidmətçi. مَهَنْتُ الثّوْب (məhəntus-sövb): paltarı çəkdim (١) — ثوبٌ مَمْهُون (məmhun paltar). Bəzən də deyirlər: مَهَنْتُ الإبلَ (məhəntul-ibl): dəvələri sağdım.",
+ "az": "[مهن] Mim, hə və nun bir şeydə alçalma və rəzilliyə dəlalət edən səhih bir kökdür. Ondandır onların مَهِينٌ (alçaq, haqir) sözü. والمَهَانَة: alçaqlıq. O, مَهِينٌ بَيِّنُ المَهَانَة (açıq-aydın alçaqlığı olan alçaqdır).\nBu babdandır: المَهْن — xidmət, və المَهْنَة. والمَاهِن: xidmətçi. Və مَهَنْتُ الثَّوْبَ: onu geyinib köhnəltdim (١) və ثَوْبٌ مَمْهُون. Bəzən də deyirlər: مَهَنْتُ الإِبِلَ: onları sağdım.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:25.991Z"
+ "ts": "2026-10-26T00:50:25.991Z",
+ "prev_az": "[مهن] (M-h-n): Mim, hə və nun bir şeydə alçalma və rəzilliyə dəlalət edən səhih bir kökdür. Bunlardan biri مَهِينٌ (məhin) sözüdür, yəni alçaq, dəyərsiz. والمَهانة (əl-məhanə): alçaqlıq, rəzillik. O, مَهِينٌ بيِّنُ المَهانة (açıq-aydın alçaqlığı olan rəzil biridir).\nBu qapıdan olan sözlərdən biri də مَهْن (mihn) — xidmət və مَهْنة (mihnə) sözüdür. والماهِن (əl-mahin) — xidmətçi. مَهَنْتُ الثّوْب (məhəntus-sövb): paltarı çəkdim (١) — ثوبٌ مَمْهُون (məmhun paltar). Bəzən də deyirlər: مَهَنْتُ الإبلَ (məhəntul-ibl): dəvələri sağdım.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıqda və mətn daxilində lüzumsuz Latın transkripsiyası əlavə edilib.",
+  "مَهْن sözünün hərəkəsi səhv göstərilib (mihn)."
+ ],
+ "review_ts": "2026-11-27T01:00:25.311Z"
 }

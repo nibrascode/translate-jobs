@@ -11,7 +11,18 @@
   "page_to": 259
  },
  "ar": "اللام والفاء والجيم كلمةٌ واحدة. يقولون: المُلْفَج بفتح الفاء:\nالفقير، وماضِي فعله ألْفَجَ. وهو من نادِرِ الكلام (٣). وأنشد:\nجارية شَبَّت شَبابًا عُسْلُجا … في حِجَر مَنْ لم يكُ عنها مُلفَجا (١)\nو\nروي في بعض الحديث مرفوعاً: أيُدالِكُ الرّجلُ المرأةَ؟ قال: نعَمْ إذا كان مُلفَجًا». والصحيح عن الحسن (٢).",
- "az": "«لفج» — lam, fa və cim tək bir sözdür. Deyirlər: «المُلْفَج» (al-mulfaj) — fa sıfırı ilə kasıb, feli keçmiş zamanı «ألْفَجَ» (alfaja). Bu, nadir sözlərdəndir (٣). Və o, şeirdə işlənmişdir:\nجارية شَبَّت شَبابًا عُسْلُجا … في حِجَر مَنْ لم يكُ عنها مُلفَجا (١)\nVə bəzi hədislərdə mərfu şəkildə rəvayət olunmuşdur: «Aydaliku ar-riculu al-mar'ata? Qala: Na'am iza kana mulfajan». Səhih olan isə Həsəndən (٢) gələndir.",
+ "az": "[لفج]\nاللام والفاء والجيم (lam, fa və cim) tək bir kəlmədir. Deyirlər: fa hərfinin fəthəsi ilə المُلْفَج: yoxsul, kasıb; keçmiş zaman feli isə ألْفَجَ şəklindədir. Bu, nadir kəlmələrdəndir (٣). Şair demişdir:\nجارية شَبَّت شَبابًا عُسْلُجا … في حِجَر مَنْ لم يكُ عنها مُلفَجا (١)\n(Tər-təzə, şux bir gəncliklə böyüyən bir cariyə... ondan ötrü yoxsul olmayan kimsənin ağuşunda/himayəsində).\nBəzi hədislərdə mərfu olaraq rəvayət edilmişdir: «أيُدالِكُ الرّجلُ المرأةَ؟ قال: نعَمْ إذا كان مُلفَجًا» («Kişi [nəfəqəni gecikdirməklə] qadına möhlət verdirə bilərmi? Dedi: Bəli, əgər yoxsul olarsa»). Səhih olan isə bunun əl-Həsəndən [rəvayət edilməsi]dir (٢).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:50.564Z"
+ "ts": "2026-10-26T00:48:50.564Z",
+ "prev_az": "«لفج» — lam, fa və cim tək bir sözdür. Deyirlər: «المُلْفَج» (al-mulfaj) — fa sıfırı ilə kasıb, feli keçmiş zamanı «ألْفَجَ» (alfaja). Bu, nadir sözlərdəndir (٣). Və o, şeirdə işlənmişdir:\nجارية شَبَّت شَبابًا عُسْلُجا … في حِجَر مَنْ لم يكُ عنها مُلفَجا (١)\nVə bəzi hədislərdə mərfu şəkildə rəvayət olunmuşdur: «Aydaliku ar-riculu al-mar'ata? Qala: Na'am iza kana mulfajan». Səhih olan isə Həsəndən (٢) gələndir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beyti tərcüməsiz qalıb.",
+  "Hədisin ərəb mətni buraxılaraq yalnız latın transkripsiyası verilib və mənası tərcümə olunmayıb.",
+  "«بفتح الفاء» ifadəsi «fa sıfırı ilə» kimi qüsurlu tərcümə edilib («fa hərfinin fəthəsi ilə» olmalıdır)."
+ ],
+ "review_ts": "2026-11-27T00:48:26.669Z"
 }

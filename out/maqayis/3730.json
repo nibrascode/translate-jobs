@@ -11,7 +11,18 @@
   "page_to": 269
  },
  "ar": "الميم والخاء كلمةٌ تدلُّ على خالصِ كلِّ شيء. منه مُخُّ العظم، معروف. وأمَخَّتِ الشَّاة: كثُر مخُّها. وربما سمَّوا الدماغ مُخًّا. قال:\nولا يأكلُ الكلبُ السَّرُوقُ نِعالنا … ولا يُنتَقَى المُخُّ الذي في الجماجمِ (٢)\nوخالصُ كلِّ شيءٍ مُخُّه.",
- "az": "«مخ» (məxə) — Mim və xə hərfi hər bir şeyin xalisinə dəlalət edən bir kəlmədir. Bunlardan biri məlum olan sümük iliyi — «مُخُّ العظم» (muxş-əzm). «أمَخَّتِ الشَّاة» (əməxxətiş-şəh) — qoyunun iliyi çoxaldı. Bəzən beyini də «مُخّ» (mux) adlandırırlar. Şair demişdir: \nولا يأكلُ الكلبُ السَّرُوقُ نِعالنا … ولا يُنتَقَى المُخُّ الذي في الجماجمِ \n(Oğraddıq ət oğurlayan köpək ayaqqabılarımızı yeməz... kəllə sümüklərindəki ilik də seçilib yeyilməz) (٢). Hər bir şeyin xalisinə də onun iliyi deyilir.",
+ "az": "[مخ]\nMim və xa hər bir şeyin xalisi və ən təmizinə dəlalət edən bir kəlmədir. Məlum olan مُخُّ العظم (sümük iliyi) bundandır. أمَخَّتِ الشَّاة – qoyunun iliyi çoxaldı. Bəzən beyni də مُخّ adlandırırlar. Şair demişdir:\nولا يأكلُ الكلبُ السَّرُوقُ نِعالنا … ولا يُنتَقَى المُخُّ الذي في الجماجمِ (٢)\n(Nə oğru köpək ayaqqabılarımızı yeyər, nə də kəllələrdəki ilik axtarılıb seçilər).\nHər bir şeyin xalisi onun مُخّ-udur (özəyidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:40.222Z"
+ "ts": "2026-10-26T00:49:40.222Z",
+ "prev_az": "«مخ» (məxə) — Mim və xə hərfi hər bir şeyin xalisinə dəlalət edən bir kəlmədir. Bunlardan biri məlum olan sümük iliyi — «مُخُّ العظم» (muxş-əzm). «أمَخَّتِ الشَّاة» (əməxxətiş-şəh) — qoyunun iliyi çoxaldı. Bəzən beyini də «مُخّ» (mux) adlandırırlar. Şair demişdir: \nولا يأكلُ الكلبُ السَّرُوقُ نِعالنا … ولا يُنتَقَى المُخُّ الذي في الجماجمِ \n(Oğraddıq ət oğurlayan köpək ayaqqabılarımızı yeməz... kəllə sümüklərindəki ilik də seçilib yeyilməz) (٢). Hər bir şeyin xalisinə də onun iliyi deyilir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı «[مخ]» şəklində olmalıdır.",
+  "X hərfinin adı «xa» olmalıdır («xə» yazılıb).",
+  "Şeir beytinin tərcüməsində təhrif və uydurma söz var («Oğraddıq ət» köpək)."
+ ],
+ "review_ts": "2026-11-27T00:55:33.659Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 264
  },
  "ar": "اللام والكاف والدال. يقولون: لكِد الشَّيءُ بالشّيء:\nلازَمَه ولَزِق به. ويقولون: المِلْكَد: شيءٌ يدَقَّ فيه الأشياء. واللَّكَدُ: التزاق الدّم وجُمودُه وأكلتُ الصَّمْغَ فلَكِدَ بفَمِي (٣).\nوقال أبو بكر بن دريد: اللّكد: الضَّرب باليد. ومَشَى وهو يُلاكِد قَيْدَه، إذا مَشَى فنازعَه القَيدُ خُطاَه (٤).",
- "az": "[لكد] «اللام والكاف والدال. يقولون: لكِد الشَّيءُ بالشّيء: لازَمَه ولَزِق به» (Lam, kaf və dal. Deyirlər ki, ləkides-şeyyu bil-şeyyi - şey şeyə yapışdı, ona tabe oldu və yapışıb qaldı). ويقولون: المِلْكَد (Və deyirlər: Milqəd): شيءٌ يدَقَّ فيه الأشياء (üzərində şeylər döyülüb əzilən alətdir). واللَّكَد (Ləkəd): التزاق الدّم وجُمودُه (qanın yapışması və laxtalanması), وأكلتُ الصَّمْغَ فلَكِدَ بفَمِي (٣) (və mən saqqız yedim, o ağzıma yapışıb qaldı). وقال أبو بكر بن دريد (Əbu Bəkr ibn Dürid demişdir): اللّكد: الضَّرب باليد (Ləkəd - əllə vurmaqdır). ومَشَى وهو يُلاكِد قَيْدَه (və o, buxovuna dirənərək addımladı), إذا مَشَى فنازعَه القَيدُ خُطاَه (٤) (əgər addımladıqda buxov onun addımlarına mane oldusa).",
+ "az": "[لكد]\nاللام والكاف والدال (Lam, kaf və dal).\nيقولون: لكِد الشَّيءُ بالشّيء: لازَمَه ولَزِق به (Deyirlər: Bir şey başqa bir şeyə yapışdı — ondan ayrılmadı və ona yapışdı).\nويقولون: المِلْكَد: شيءٌ يدَقَّ فيه الأشياء (Və deyirlər: əl-Milkəd — içində şeylər döyülüb əzilən qabdır, həvəngdir).\nواللَّكَدُ: التزاق الدّم وجُمودُه (əl-Ləkəd — qanın yapışması və laxtalanmasıdır).\nوأكلتُ الصَّمْغَ فلَكِدَ بفَمِي (٣) (Kitrə/qatran yedim və o, ağzıma yapışıb qaldı).\nوقال أبو بكر بن دريد: اللّكد: الضَّرب باليد (Əbu Bəkr ibn Dureyd demişdir: əl-Ləkd — əllə vurmaqdır).\nومَشَى وهو يُلاكِد قَيْدَه، إذا مَشَى فنازعَه القَيدُ خُطاَه (٤) (Və o, qandalları ilə çarpışaraq addımladı — addımladıqda qandal onun addımlarına mane olduqda deyilir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:15.889Z"
+ "ts": "2026-10-26T00:49:15.889Z",
+ "prev_az": "[لكد] «اللام والكاف والدال. يقولون: لكِد الشَّيءُ بالشّيء: لازَمَه ولَزِق به» (Lam, kaf və dal. Deyirlər ki, ləkides-şeyyu bil-şeyyi - şey şeyə yapışdı, ona tabe oldu və yapışıb qaldı). ويقولون: المِلْكَد (Və deyirlər: Milqəd): شيءٌ يدَقَّ فيه الأشياء (üzərində şeylər döyülüb əzilən alətdir). واللَّكَد (Ləkəd): التزاق الدّم وجُمودُه (qanın yapışması və laxtalanması), وأكلتُ الصَّمْغَ فلَكِدَ بفَمِي (٣) (və mən saqqız yedim, o ağzıma yapışıb qaldı). وقال أبو بكر بن دريد (Əbu Bəkr ibn Dürid demişdir): اللّكد: الضَّرب باليد (Ləkəd - əllə vurmaqdır). ومَشَى وهو يُلاكِد قَيْدَه (və o, buxovuna dirənərək addımladı), إذا مَشَى فنازعَه القَيدُ خُطاَه (٤) (əgər addımladıqda buxov onun addımlarına mane oldusa).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«المِلْكَد» sözü «Milqəd» kimi (kaf yerinə qaf ilə) yazılmışdır.",
+  "«لازَمَه ولَزِق به» ifadəsində «لازَمَه» «ona tabe oldu» kimi yanlış tərcümə olunmuşdur (doğrusu: ondan ayrılmadı)."
+ ],
+ "review_ts": "2026-11-27T00:51:35.981Z"
 }

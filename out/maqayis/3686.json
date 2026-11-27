@@ -11,7 +11,16 @@
   "page_to": 251
  },
  "ar": "اللام والطاء والحرف المعتل كلمةٌ واحدة، وهي المِلْطاة، في الشِّجاج، وهي السِّمحاق التي بلغت القشرة * الرقيقة، قال أبو عُبيد: أخبرني الواقدىّ أنّ السِّمحاق عندهم المِلطاء. قال أبو عبيد: يقال هي المِلطاة بالهاء. فإنْ كانت على هذا فهي في التقدير مقصورة. وقال تفسير\nالحديث الذي جاء: «انّ المِلطاةَ بدمها». معناه حين يُشَجُّ صاحبُها يؤخذ مقدارُها تلك السّاعة ثم يقضَى فيها بالقِصاص أو الأرْش، لا يُنظَر إلى ما يحدث فيها بعد ذلك من زيادةٍ أو نقصان. قال: وهذا قولهم، وليس قولَ أهل العراق. واللَّطاة: دائرة تكون في جَبْهة الفَرَس.\nوإذا همز قيل لَطِئتُ ألطأ (١).",
- "az": "[لطا] (ləta) — lam, ta və illik hərf bir kəlmədir, o da baş yaralarında olan المِلْطاة (əlmiləta) sözüdür; bu, nazik dərinin qatına çatan simhaq yarasıdır. Əbu Übeyd demişdir: Vaqidi mənə xəbər verdi ki, onlarda simhaq — miltadır. Əbu Übeyd demişdir: Deyilir ki, o, hərf h ilə المِلْطاة (əlmiləta) olaraq yazılır. Əgər bu şəkildədirsə, o zaman təqdiri olaraq məqsurdur (uzun elif ilə bitəndir). Və hədisin izahı: «انّ المِلطاةَ بدمها» («Həqiqətən miltanın qisası öz qanı ilədir» - yəni yaraya görə hökm dərhal verilir). Mənası odur ki, sahibi yaralandıqda həmin saat onun miqdarı götürülür, sonra orada qisas və ya cərimə (ərs) ilə hökm çıxarılır, ondan sonra onda baş verəcək artım və ya azalmalar gözlənilmir. O demişdir:",
+ "az": "[لطا]\nاللام والطاء والحرف المعتل (lam, ta və illətli hərf) bir kəlmədir, o da baş yaralarından olan المِلْطاة (əlmiltat) sözüdür; bu, nazik pərdəyə çatan simhaq yarasıdır. Əbu Ubeyd demişdir: «əl-Vaqidi mənə xəbər verdi ki, onlarda simhaq — المِلطاء (əlmilta)-dır». Əbu Ubeyd demişdir: Deyilir ki, o, hə ilə المِلطاة (əlmiltat)-dır. Əgər belədirsə, o zaman təqdirən məqsurdur. «انّ المِلطاةَ بدمها» («Həqiqətən miltanın hökmü öz qanı ilədir») şəklində gələn hədisin təfsirində demişdir: Bunun mənası odur ki, sahibi yaralandıqda elə həmin saat onun miqdarı götürülür, sonra orada qisas və ya ərlə (təzminatla) hökm edilir, ondan sonra onda baş verəcək artım və ya azalmaya baxılmır. Dedi: «Bu, onların sözüdür, İraq əhlinin sözü deyildir». اللَّطاة (əllətat) — atın alnındakı dairədir.\nHəmzəli olduqda isə لَطِئتُ ألطأ (١) deyilir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:27.242Z"
+ "ts": "2026-10-26T00:48:27.242Z",
+ "prev_az": "[لطا] (ləta) — lam, ta və illik hərf bir kəlmədir, o da baş yaralarında olan المِلْطاة (əlmiləta) sözüdür; bu, nazik dərinin qatına çatan simhaq yarasıdır. Əbu Übeyd demişdir: Vaqidi mənə xəbər verdi ki, onlarda simhaq — miltadır. Əbu Übeyd demişdir: Deyilir ki, o, hərf h ilə المِلْطاة (əlmiləta) olaraq yazılır. Əgər bu şəkildədirsə, o zaman təqdiri olaraq məqsurdur (uzun elif ilə bitəndir). Və hədisin izahı: «انّ المِلطاةَ بدمها» («Həqiqətən miltanın qisası öz qanı ilədir» - yəni yaraya görə hökm dərhal verilir). Mənası odur ki, sahibi yaralandıqda həmin saat onun miqdarı götürülür, sonra orada qisas və ya cərimə (ərs) ilə hökm çıxarılır, ondan sonra onda baş verəcək artım və ya azalmalar gözlənilmir. O demişdir:",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin son hissəsi («وهذا قولهم...» cümləsindən sonrakı mətn) tərcümə edilməyərək yarımçıq kəsilib."
+ ],
+ "review_ts": "2026-11-27T00:46:53.735Z"
 }

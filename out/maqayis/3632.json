@@ -11,7 +11,19 @@
   "page_to": 234
  },
  "ar": "اللام والثاء والحرف المعتل كلماتٌ تدلُّ على تولُّد شيء. من ذلك اللَّثَى، وهي صَمغةٌ. ويقال للوسخ اللَّثَى. ويقولون: اللَّثَى: وطْءُ الأخفاف إذا كان مع ذلك نَدًى من ماءٍ أو دم. قال:\n* بِهِ مِنْ لَثَى أخفافِهنَّ نجيعُ (٣) *",
- "az": "[لثي] (ləsi) — lam, sa və hərfi-mötəl (uzadılma hərfi) bir şeyin əmələ gəlməsini bildirən sözlərdir. Bunlardan biri اّللَّثَى (əlləsa) olub bir saqqız növüdür. Çirkə də لثى (ləsa) deyilir. Deyirlər ki, اّللَّثَى (əlləsa) — üzərində su və ya qan nəmliyi olan dırnaqların basılmasıdır. Şair demişdir:\n* بِهِ مِنْ لَثَى أخفاقِهنَّ نجيعُ (٣) *\n(Onların ayaq izlərinin nəmliyindən qan axır)",
+ "az": "[لثي] Lam, sa və mötəl hərf bir şeyin digərindən törəyib çıxmasını bildirən sözlərdir. اللَّثَى bundandır; o, ağacdan çıxan qətrandır (saqqızdır). Çirkə də اللَّثَى deyilir. Həmçinin deyirlər: اللَّثَى — su və ya qandan olan bir nəmliklə bərabər dabanların yerə basılmasıdır. Şair demişdir:\n* بِهِ مِنْ لَثَى أخفافِهنَّ نجيعُ (٣) *\n(«Onda dəvələrin ayaqlarının nəmliyindən [basmasından sıçrayan] qan vardır»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "prev_az": "[لثي] (ləsi) — lam, sa və hərfi-mötəl (uzadılma hərfi) bir şeyin əmələ gəlməsini bildirən sözlərdir. Bunlardan biri اّللَّثَى (əlləsa) olub bir saqqız növüdür. Çirkə də لثى (ləsa) deyilir. Deyirlər ki, اّللَّثَى (əlləsa) — üzərində su və ya qan nəmliyi olan dırnaqların basılmasıdır. Şair demişdir:\n* بِهِ مِنْ لَثَى أخفاقِهنَّ نجيعُ (٣) *\n(Onların ayaq izlərinin nəmliyindən qan axır)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir sitatında hərf səhvi var: أخفاقِهنَّ əvəzinə أخفافِهنَّ yazılmalıdır.",
+  "الأخفاف sözü «dırnaqlar» kimi səhv tərcümə edilmişdir; dəvə ayağı/dabanıdır.",
+  "Ərəbcə sözdə yazı qüsuru: اّللَّثَى.",
+  "Şeir beytinin tərcüməsi dəqiq deyildir."
+ ],
+ "review_ts": "2026-11-27T00:40:49.201Z"
 }

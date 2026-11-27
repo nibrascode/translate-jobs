@@ -11,7 +11,18 @@
   "page_to": 257
  },
  "ar": "اللام والغين والزاء أصلٌ يدلُّ على التواءِ في شيء وميل. يقولون:\nاللُّغز: ميلُك بالشَّيء عن وَجهِه. ويقولون اللُّغَيْزَاء، ممدود: أن يَحفِر اليربوعُ ثم يُمِيل (١) في حفره ليعمِّيَ على طالبه. والأَلْغَاز: طُرقٌ تلتوِي وتُشْكلُ على سالِكِها، الواحد لَغَز ولغْز (٢). وأَلغَزَ فلانٌ في كلامِه. و\nفي حديث عمر: «نَهَى عن اللُّغَيْزَى في اليمين».",
- "az": "«لغز» — lam, ğayn və zay bir şeydə əyriliyə və meyilliyə dəlalət edən əslir. Deyirlər: «اللُّغز» (al-luğz) — bir şeyi öz istiqamətindən döndərməyin, meyilləndirməyin. Məsdər olaraq uzadılmış şəkildə «اللُّغَيْزَاء» (al-luğayza') deyirlər: siçovulun yuva qazıb, sonra axtaranı çaşdırmaq üçün yuvasını əyri etməsi. «الألْغَاز» (al-alğaz) — əyri olan və onu gedənə çətin görünən yollar, təki «لَغَز» (lağaz) və «لغْز» (lağz) (٢). Və filankəs danışığında «أَلْغَزَ» (alğaza) — müəmmalı danışdı. Ömərin hədisində: «Nəhə an al-luğayza fi al-yəmin» [And içərkən müəmmalı/əyri ifadələr işlətməyi qadağan etdi].",
+ "az": "[لغز]\nاللام والغين والزاء (lam, ğayn və zey) bir şeydə əyriliyə və meyilə dəlalət edən bir əsldir. Deyirlər:\nاللُّغز: bir şeyi öz istiqamətindən döndərməyindir. Deyirlər: اللُّغَيْزَاء (mədd ilə, uzadılmış saitlə): ərəbdovşanının yuva qazıb, sonra axtaranı çaşdırmaq üçün yuvasında əyrilik etməsidir (١). والأَلْغَاز: dolanbac olan və yolçusuna çətin gələn yollardır; təki لَغَز və لغْز gəlir (٢). Və أَلغَزَ فلانٌ في كلامِه (filankəs danışığında müəmmalı danışdı).\nÖmərin hədisində belə var: «نَهَى عن اللُّغَيْزَى في اليمين» («Andda dolaşıq/müəmmalı ifadələr işlətməyi qadağan etdi»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:50.563Z"
+ "ts": "2026-10-26T00:48:50.563Z",
+ "prev_az": "«لغز» — lam, ğayn və zay bir şeydə əyriliyə və meyilliyə dəlalət edən əslir. Deyirlər: «اللُّغز» (al-luğz) — bir şeyi öz istiqamətindən döndərməyin, meyilləndirməyin. Məsdər olaraq uzadılmış şəkildə «اللُّغَيْزَاء» (al-luğayza') deyirlər: siçovulun yuva qazıb, sonra axtaranı çaşdırmaq üçün yuvasını əyri etməsi. «الألْغَاز» (al-alğaz) — əyri olan və onu gedənə çətin görünən yollar, təki «لَغَز» (lağaz) və «لغْز» (lağz) (٢). Və filankəs danışığında «أَلْغَزَ» (alğaza) — müəmmalı danışdı. Ömərin hədisində: «Nəhə an al-luğayza fi al-yəmin» [And içərkən müəmmalı/əyri ifadələr işlətməyi qadağan etdi].",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hədisin ərəbcə mətni latın transkripsiyası ilə əvəz olunub, əsli saxlanılmayıb.",
+  "«اليربوع» sözü «siçovul» deyil, «ərəbdovşanı»dır.",
+  "«ز» hərfi «zay» deyil, «zey» adlandırılmalıdır."
+ ],
+ "review_ts": "2026-11-27T00:48:26.668Z"
 }

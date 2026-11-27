@@ -11,7 +11,18 @@
   "page_to": 222
  },
  "ar": "اللام والواو والعين. ذكر ابنُ دريدٍ (١) أن اللوْغ: أن تُدِير الشيءَ في فمك. يقال: لاغَه لَوْغا.",
- "az": "«لوغ» (لوغ): اللام، الواو والعين (Lam, vav və ayn). ذكر ابن دريد (١) أن اللوغ: أن تدير الشيء في فمك (İbn Düreyd qeyd etmişdir ki, əl-lüvğ - bir şeyi ağzında dolandırmağındır). يقال: لاغه لَوْغا (Deyilir: lâğuhu lavğən).",
+ "az": "[لوغ]\nLam, vav və ayn. İbn Düreyd (١) qeyd etmişdir ki, اللوْغ (əl-ləvğ) — bir şeyi ağzında dolandırmağındır. Deyilir: لاغَه لَوْغا (onu ağzında dolandırdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "prev_az": "«لوغ» (لوغ): اللام، الواو والعين (Lam, vav və ayn). ذكر ابن دريد (١) أن اللوغ: أن تدير الشيء في فمك (İbn Düreyd qeyd etmişdir ki, əl-lüvğ - bir şeyi ağzında dolandırmağındır). يقال: لاغه لَوْغا (Deyilir: lâğuhu lavğən).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı səhvdir və bütün ərəbcə mətn təkrar köçürülüb.",
+  "'لاغه لَوْغا' ifadəsi tərcüməsiz qalıb, sadəcə transkripsiya edilib.",
+  "Haşiyə rəqəmi '(١)' tərcümədə buraxılıb."
+ ],
+ "review_ts": "2026-11-27T00:35:18.168Z"
 }

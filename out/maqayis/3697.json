@@ -11,7 +11,16 @@
   "page_to": 255
  },
  "ar": "اللام والغين والميم كلمةٌ واحدة صحيحة، وهي المَلَاغم: ما حَوْلَ الفم. ومنه قولهم: تلغَّمت بالطِّيب (٢): جعلته هناك. قال ابن دريد: تلَغَّم بالطِّيب:\nتلطّخ (٣). فأمّا قولهم: لَغَمْتُ ألغَم لَغْماً، إذا أخبرتَ صاحبَك بشيءِ لا يَسْتَيْقِنُهُ، فهو من الإبدال، إنّما هو نَغَمْتُ بالنون. قال الخليل: لَغَمَ البعيرُ لُغامَهُ: رمَى به.",
- "az": "«لغم» — lam, ğayn və mim tək bir səhih sözdür, o da «المَلَاغم» (al-mala'im) — ağız ətrafıdır. Və onların bu sözü buradan götürülmüşdür: «تلَغَّمت بالطِّيب» (talaqqamtu bi-at-tiyb) — ətri ora çəkdim, sürtdüm. İbn Dürid demişdir: «تلَغَّم بالطِّيب» (talaqqama bi-at-tiyb) — ətirlə bulaşdı (٣). Amma onların «لَغْتُ ألغَم لَغْماً» (lağtu alğamu lağman) sözünə gəldikdə, əgər sahibinə dəqiq bilmədiyi bir şeydən xəbər versən, bu, hərflərin əvəzlənməsidir, əslində «نغمت» (nağamtu) nun hərfi ilədir. Xəlil demişdir: «لَغَمَ البعيرُ لُغامَهُ» (lağama al-ba'iru luğamahu) — dəvə köpüyünü tulladı.",
+ "az": "[لغم]\nاللام والغين والميم tək bir səhih sözdür, o da المَلَاغم sözüdür ki, ağız ətrafıdır. Buradandır onların «تلغَّمت بالطِّيب» (٢) (ətiri ağız ətrafıma çəkdim) sözü. İbn Dureyd demişdir: «تلَغَّم بالطِّيب» — ətirlə bulaşdı (٣). Onların «لَغَمْتُ ألغَم لَغْماً» (yoldaşına dəqiq bilmədiyi bir şeydən xəbər vermək) sözünə gəldikdə isə, bu, hərflərin bir-birini əvəzləməsindəndir (ibdaldır); əslində nun hərfi ilə «نَغَمْتُ» şəklindədir. Xəlil demişdir: «لَغَمَ البعيرُ لُغامَهُ» — dəvə köpüyünü ağzından atdı.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:50.563Z"
+ "ts": "2026-10-26T00:48:50.563Z",
+ "prev_az": "«لغم» — lam, ğayn və mim tək bir səhih sözdür, o da «المَلَاغم» (al-mala'im) — ağız ətrafıdır. Və onların bu sözü buradan götürülmüşdür: «تلَغَّمت بالطِّيب» (talaqqamtu bi-at-tiyb) — ətri ora çəkdim, sürtdüm. İbn Dürid demişdir: «تلَغَّم بالطِّيب» (talaqqama bi-at-tiyb) — ətirlə bulaşdı (٣). Amma onların «لَغْتُ ألغَم لَغْماً» (lağtu alğamu lağman) sözünə gəldikdə, əgər sahibinə dəqiq bilmədiyi bir şeydən xəbər versən, bu, hərflərin əvəzlənməsidir, əslində «نغمت» (nağamtu) nun hərfi ilədir. Xəlil demişdir: «لَغَمَ البعيرُ لُغامَهُ» (lağama al-ba'iru luğamahu) — dəvə köpüyünü tulladı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə «لَغَمْتُ» sözü «لَغْتُ» kimi təhrif olunub."
+ ],
+ "review_ts": "2026-11-27T00:48:42.560Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 230
  },
  "ar": "اللام والباء والطاء أُصَيلٌ صحيح يدلُّ على سُقوط وصَرْع.\nيقال: لُبِط به، إذا صُرِع. ولَبَطَة: اسمُ رجل من هذا. والتَبَطَ الفرسُ، إذا جَمَع قوائمه. والتَبَط الرّجلُ في أمره وتلبَّط، إذا تحيَّر. قال:\nذو مَناديحَ وذو مُلتَبَطٍ … ورِكابي حيثُ وَجَّهتُ ذُلُلْ",
- "az": "«لبط» (Lam, ba və ta) yıxılmağa və yerə vurulmağa dəlalət edən kiçik və səhih bir əsldir. Deyilir: لُبِط به (lubitə bih) — yıxıldıqda (düşdükdə) deyilir. Və لَبَطَة (Ləbətə): bu kökdən olan bir kişinin adıdır. Və التَبَطَ الفرسُ (əltəbətəl-fərs) — at ayaqlarını bir yerə topladıqda. Və التَبَطَ الرّجلُ في أمره وتلبَّط (əltəbətər-raculu fi əmrihi və təlləbət) — kişi işində heyrətə düşdükdə. (Şair) demişdir: «Genişlikləri və qarışıq yolu olan, dəvələrim isə hara yönəltsəm baş əyənlərdir».",
+ "az": "[لبط] (Lam, ba və ta) yıxılmağa və yerə sərilməyə dəlalət edən kiçik və səhih bir əsldir.\nDeyilir: لُبِط به: yerə yıxıldıqda, sərildikdə deyilir.\nلَبَطَة isə bu kökdən olan bir kişinin adıdır.\nالتَبَطَ الفرسُ: at ayaqlarını bir yerə topladıqda deyilir.\nKişi işində çaşqın qaldıqda التَبَط الرّجلُ في أمره وتلبَّط deyilir. Şair demişdir:\nذو مَناديحَ وذو مُلتَبَطٍ … ورِكابي حيثُ وَجَّهتُ ذُلُلْ\n(Genişlikləri və qarışıq yolları olan biriyəm, minik dəvələrim isə hara yönəltsəm itaətkardırlar).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:21.833Z"
+ "ts": "2026-10-26T00:47:21.833Z",
+ "prev_az": "«لبط» (Lam, ba və ta) yıxılmağa və yerə vurulmağa dəlalət edən kiçik və səhih bir əsldir. Deyilir: لُبِط به (lubitə bih) — yıxıldıqda (düşdükdə) deyilir. Və لَبَطَة (Ləbətə): bu kökdən olan bir kişinin adıdır. Və التَبَطَ الفرسُ (əltəbətəl-fərs) — at ayaqlarını bir yerə topladıqda. Və التَبَطَ الرّجلُ في أمره وتلبَّط (əltəbətər-raculu fi əmrihi və təlləbət) — kişi işində heyrətə düşdükdə. (Şair) demişdir: «Genişlikləri və qarışıq yolu olan, dəvələrim isə hara yönəltsəm baş əyənlərdir».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni buraxılıb."
+ ],
+ "review_ts": "2026-11-27T00:39:40.429Z"
 }

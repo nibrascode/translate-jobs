@@ -11,7 +11,18 @@
   "page_to": 222
  },
  "ar": "اللام والواو والقاف كلمةٌ تدُلُّ على تطييب شيءِ. يقال:\nلَوَّقَ الطّعَام، إذا طيَّبَه بإدامه. ويقولون: اللُّوقة: الزُّبْدَة (٢)، ويقال للمرأة، إذا لم تَحْظَ عند زوجِها: ما لاقَتْ، أي كأنَّه لم يَستطِبْ صُحبتَها. ومن الباب:\nلَاقَتِ الدّواةُ وألقتُها (٣).",
- "az": "«لوق» (لوق): اللام، الواو والقاف كلمة تدل على تطييب شيء (Lam, vav və qaf bir şeyin dadını yaxşılaşdırmağa dəlalət edən kəlmədir). يقال: لوق الطعام، إذا طيبه بإدامه (Deyilir: lavvəqət-təam, əgər onu qatığı ilə dadlı etdisə). ويقولون: اللوقة: الزبدة (٢) (Və deyirlər: əl-lüvqə - kərə yağıdır), ويقال للمرأة، إذا لم تَحْظَ عند زوجها: ما لاقت، أي كأنَّه لم يستطب صحبتها (Və qadına denilər, əgər əri yanında dəyər qazanmadısa: ma laqat, yəni sanki onun yoldaşlığını xoşlamadı). ومن الباب: لاقت الدواة وألقتها (٣) (Və bu fəsildəndir: lâqatid-dəvətu və alaqtuhu).",
+ "az": "[لوق]\nLam, vav və qaf hərfləri bir şeyin dadını yaxşılaşdırmağa dəlalət edən bir kəlmədir. Deyilir: لَوَّقَ الطّعَام (yeməyi dadlı etdi), yəni onu qatığı ilə dadlandırdı. Deyirlər: اللُّوقة (əl-luqə) — kərə yağıdır (٢). Qadın ərinin yanında hörmət qazanmadıqda deyilir: ما لاقَتْ (xoşuna gəlmədi), yəni sanki onun yoldaşlığını xoşlamadı. Bu babdandır: لَاقَتِ الدّواةُ وألقتُها (mürəkkəbqabı düzəldi və mən onu düzəltdim) (٣).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "prev_az": "«لوق» (لوق): اللام، الواو والقاف كلمة تدل على تطييب شيء (Lam, vav və qaf bir şeyin dadını yaxşılaşdırmağa dəlalət edən kəlmədir). يقال: لوق الطعام، إذا طيبه بإدامه (Deyilir: lavvəqət-təam, əgər onu qatığı ilə dadlı etdisə). ويقولون: اللوقة: الزبدة (٢) (Və deyirlər: əl-lüvqə - kərə yağıdır), ويقال للمرأة، إذا لم تَحْظَ عند زوجها: ما لاقت، أي كأنَّه لم يستطب صحبتها (Və qadına denilər, əgər əri yanında dəyər qazanmadısa: ma laqat, yəni sanki onun yoldaşlığını xoşlamadı). ومن الباب: لاقت الدواة وألقتها (٣) (Və bu fəsildəndir: lâqatid-dəvətu və alaqtuhu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı səhvdir və bütün ərəbcə mətn təkrar köçürülüb.",
+  "'لَوَّقَ الطّعَام', 'ما لاقَتْ' və 'لَاقَتِ الدّواةُ وألقتُها' ifadələri tərcüməsiz qalıb, sadəcə transkripsiya edilib.",
+  "Haşiyə rəqəmləri '(٢)' və '(٣)' tərcümədə buraxılıb."
+ ],
+ "review_ts": "2026-11-27T00:35:18.168Z"
 }

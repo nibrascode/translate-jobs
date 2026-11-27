@@ -11,7 +11,16 @@
   "page_to": 293
  },
  "ar": "الميم والتاء والحاء أُصَيلٌ يدلُّ على مَدِّ الشّيءِ وإطالته. ومَتَح النّهارُ: امتدَّ. وليلٌ مَتَّاح: طويل. ومنه المَتْح وهو الاستقاء؛ مَتَح يمتَح مَتْحا، وهو ماتح ومَتُوحٌ. وإنما قيل ذلك لمدِّ الرشاء. وبِئر مَتوحٌ: قريبةُ المَنزَع.",
- "az": "[متح] (mim, ta və hə) — bir şeyi uzatmağa və boyatmağa dəlalət edən kiçik bir əsasdır. مَتَح النّهارُ (matahan-naharu): gün uzandı. وليلٌ مَتَّاح (laylun mattah): uzun gecə. Həmçinin المَتْح (əl-math) də bundandır ki, quyudan su çəkmək deməkdir; مَتَح يمتَح مَتْحا (matah yamtahu mathan), o, ماتح (matic) və مَتُوحٌ (matuh) adlanır. Bu sözün belə adlandırılması ipi uzatdıqlarına görədir. وبِئر مَتوحٌ (bi-run matuhun): suyu yaxından (asanlıqla) çəkilən quyudur.",
+ "az": "[متح] mim, ta və hə — bir şeyi uzatmağa və uzadılmasına dəlalət edən kiçik bir əsasdır. مَتَح النّهارُ (gündüz uzandı). وليلٌ مَتَّاح (uzun gecə). Həmçinin المَتْح (quyudan su çəkmək) də bundandır; مَتَح يمتَح مَتْحا (su çəkdi, çəkir, su çəkmək), o, مَاتِح və مَتُوحٌ adlanır. Bu sözün belə adlandırılması yalnız ipi uzatdıqlarına görədir. وبِئر مَتوحٌ (suyu asanlıqla/yaxından çəkilən quyu).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "prev_az": "[متح] (mim, ta və hə) — bir şeyi uzatmağa və boyatmağa dəlalət edən kiçik bir əsasdır. مَتَح النّهارُ (matahan-naharu): gün uzandı. وليلٌ مَتَّاح (laylun mattah): uzun gecə. Həmçinin المَتْح (əl-math) də bundandır ki, quyudan su çəkmək deməkdir; مَتَح يمتَح مَتْحا (matah yamtahu mathan), o, ماتح (matic) və مَتُوحٌ (matuh) adlanır. Bu sözün belə adlandırılması ipi uzatdıqlarına görədir. وبِئر مَتوحٌ (bi-run matuhun): suyu yaxından (asanlıqla) çəkilən quyudur.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Mətndə ərəbcə transliterasiyalar mötərizədə verilib, tərcümə bəzi yerlərdə dəqiq deyil."
+ ],
+ "review_ts": "2026-11-27T01:01:22.560Z"
 }

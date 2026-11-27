@@ -11,7 +11,18 @@
   "page_to": 227
  },
  "ar": "اللام والألف والهاء. لاه اسمُ اللّه تعالى، ثم أدخلت الألف واللام للتعظيم. قال:\nلَاهِ ابنُ عمِّكَ لا أَفْضَلْتَ فى حَسَبٍ … عنِّي ولا أنتَ دَيَّانِي فتَخزوني (٣)",
- "az": "«لاه» (لال və həmzə). لاه (Ləh) Uca Allahın adıdır, sonra təzim üçün əlif və lam əlavə olunmuşdur. (Şair) demişdir: «Lahi ibn amməkə...» (Ey əmin oğlu Lah, nə əsl-nəcabətdə mənə üstün gəldin, nə də mənim hökmdarımsan ki, məni cəzalandırasan!) (٣)",
+ "az": "[لاه]\nاللام والألف والهاء.\n(Lam, əlif və hə).\nلاه اسمُ اللّه تعالى، ثم أدخلت الألف واللام للتعظيم.\n(لاه Uca Allahın adıdır, sonra təzim üçün əlif və lam əlavə edilmişdir).\nقال:\nلَاهِ ابنُ عمِّكَ لا أَفْضَلْتَ فى حَسَبٍ … عنِّي ولا أنتَ دَيَّانِي فتَخزوني (٣)\n(Şair demişdir:\nلَاهِ ابنُ عمِّكَ لا أَفْضَلْتَ فى حَسَبٍ … عنِّي ولا أنتَ دَيَّانِي فتَخزوني (٣)\n«Allaha and olsun, əmin oğlu! Nə əsl-nəcabətdə məndən üstün oldun, nə də mənim hökmdarımsan ki, məni rüsvay/itaətkar edəsən!»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:21.832Z"
+ "ts": "2026-10-26T00:47:21.832Z",
+ "prev_az": "«لاه» (لال və həmzə). لاه (Ləh) Uca Allahın adıdır, sonra təzim üçün əlif və lam əlavə olunmuşdur. (Şair) demişdir: «Lahi ibn amməkə...» (Ey əmin oğlu Lah, nə əsl-nəcabətdə mənə üstün gəldin, nə də mənim hökmdarımsan ki, məni cəzalandırasan!) (٣)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Hərf adları «لال və həmzə» kimi səhv göstərilmişdir (əslində: Lam, əlif və hə).",
+  "Şeir beytinin ərəbcə mətni ixtisar edilərək yarımçıq kəsilmişdir.",
+  "Şeirdəki «لَاهِ ابنُ عمِّكَ» and ifadəsi «Ey əmin oğlu Lah» kimi kobud xəta ilə tərcümə edilmişdir."
+ ],
+ "review_ts": "2026-11-27T00:39:28.667Z"
 }

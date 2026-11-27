@@ -11,7 +11,16 @@
   "page_to": 287
  },
  "ar": "الميم والياء والحاء أصلٌ صحيح يدلُّ على إعطاء. وأصله في الاستسقاء. وماح يَميحُ: انحدَرَ في الرَّكىِّ فملأ الدَّلْو. قال:\n* يأيُّها المائحُ دَلوِي دُونَكا (٤) *\nومِحتُه ميحا: أعطيته.\nوقولهم: تَمايَحَ السّكرانُ: تَمَايل، والعودُ أيضاً وكذا الغُصْن - ليس من الباب (٥).",
- "az": "[ميح] (mim, ya və hə) — verilmiş əsas söz olub bəxş etməyə, verməyə dəlalət edir. Onun əsli su istəmək (və ya su çıxarmaq) ilə bağlıdır. ماح يَميحُ (maha yamihu) — quyuya enib qovunu doldurdu. Şair demişdir: * يأيُّها المائحُ دَلوِي دُونَكا (٤) * (Ey qovunu quyudan çəkən, mənim dəvəm, vedrəm sənə qismət olsun!). مِحتُه مَيْحاً (mihtuhu mayhan) — ona verdim, bəxş etdim. Onların: تَمايَحَ السّكرانُ (tamayəhas-sakranu) — sərxoş səssiz yelləndi, eləcə də عود (ud ağacı) və budaq haqqında işlətdikləri söz bu qapıdan (bu bölmədən) deyil (٥).",
+ "az": "[ميح] (mim, ya və hə) — səhih bir əsas olub bəxş etməyə, verməyə dəlalət edir. Onun əsli su çıxarmaqla bağlıdır. ماحَ يَمِيحُ (maha yamihu) — quyuya enib qovunu doldurdu. Şair demişdir:\n* يأيُّها المائحُ دَلوِي دُونَكا (٤) *\n(Ey quyudan su çıxaran, mənim vedrəm budur, götür!)\nVə مِحْتُهُ مَيْحاً (mihtuhu mayhan) — ona verdim, bəxş etdim.\nOnların: تَمايَحَ السّكْرانُ (tamayəhas-sakranu) — sərxoş yelləndi, eləcə də عُود (budaq) haqqında işlətdikləri söz bu qapıdan deyil (٥).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "prev_az": "[ميح] (mim, ya və hə) — verilmiş əsas söz olub bəxş etməyə, verməyə dəlalət edir. Onun əsli su istəmək (və ya su çıxarmaq) ilə bağlıdır. ماح يَميحُ (maha yamihu) — quyuya enib qovunu doldurdu. Şair demişdir: * يأيُّها المائحُ دَلوِي دُونَكا (٤) * (Ey qovunu quyudan çəkən, mənim dəvəm, vedrəm sənə qismət olsun!). مِحتُه مَيْحاً (mihtuhu mayhan) — ona verdim, bəxş etdim. Onların: تَمايَحَ السّكرانُ (tamayəhas-sakranu) — sərxoş səssiz yelləndi, eləcə də عود (ud ağacı) və budaq haqqında işlətdikləri söz bu qapıdan (bu bölmədən) deyil (٥).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin tərcüməsində «dəvəm» sözü uydurularaq əlavə edilmişdir (دَلْوِي = mənim vedrəm/qovum)."
+ ],
+ "review_ts": "2026-11-27T00:58:19.014Z"
 }

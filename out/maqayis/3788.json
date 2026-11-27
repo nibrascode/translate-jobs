@@ -11,7 +11,16 @@
   "page_to": 293
  },
  "ar": "الميم والتاء والراء. يقولون، وما أدري ما هو: مَتَرْتُ الشَّيءَ:\nقطعته؛ ولعله من الإبدال. وقال ابن دريد (١): مَتَرْتُه مَتْراً. وامْتَرَّ الحبلُ: امتدَّ.",
- "az": "[متر] (mim, ta və ra). Onlar deyirlər, lakin bunun nə olduğunu bilmirəm: مَتَرْتُ الشَّيءَ (matertul-şeyə): onu kəsdim; ola bilər ki, bu hərf əvəzlənməsindən (ibdaldan) irəli gəlsin. İbn Dureyd (١) demişdir: مَتَرْتُه مَتْراً (matertuhu matran). Və امْتَرَّ الحبلُ (imtarral-hablu): ip uzandı.",
+ "az": "[متر] mim, ta və ra. Deyirlər — hərçənd bunun nə olduğunu bilmirəm: مَتَرْتُ الشَّيءَ (şeyi kəsdim); ola bilsin ki, bu, hərf əvəzlənməsindəndir (ibdaldandır). İbn Dureyd (١) demişdir: مَتَرْتُه مَتْراً (onu kəsdim). امْتَرَّ الحبلُ (ip uzandı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:50:48.261Z"
+ "ts": "2026-10-26T00:50:48.261Z",
+ "prev_az": "[متر] (mim, ta və ra). Onlar deyirlər, lakin bunun nə olduğunu bilmirəm: مَتَرْتُ الشَّيءَ (matertul-şeyə): onu kəsdim; ola bilər ki, bu hərf əvəzlənməsindən (ibdaldan) irəli gəlsin. İbn Dureyd (١) demişdir: مَتَرْتُه مَتْراً (matertuhu matran). Və امْتَرَّ الحبلُ (imtarral-hablu): ip uzandı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəb hərflərinin adları tərcümə olunmayıb, mötərizələrdə ərəbcə cümlələr üçün latın transliterasiyası işlənib."
+ ],
+ "review_ts": "2026-11-27T01:01:22.560Z"
 }

@@ -11,7 +11,16 @@
   "page_to": 221
  },
  "ar": "اللام والواو والزاء كلمةٌ، وهي اللَّوْز.",
- "az": "«لوز» (لوز): اللام والواو والزاء كلمة، وهي اللوز (Lam, vav və zay bir kəlmədir ki, o da «əl-ləvz» - badamdır).",
+ "az": "[لوز]\nLam, vav və zey hərfləri bir kəlmədir, o da اللَّوْز (badam) sözüdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.899Z"
+ "ts": "2026-10-26T00:46:59.899Z",
+ "prev_az": "«لوز» (لوز): اللام والواو والزاء كلمة، وهي اللوز (Lam, vav və zay bir kəlmədir ki, o da «əl-ləvz» - badamdır).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Başlıq formatı səhvdir ('[لوز]' olmalıdır) və bütün ərəbcə mətn təkrar köçürülüb."
+ ],
+ "review_ts": "2026-11-27T00:35:18.166Z"
 }

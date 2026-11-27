@@ -11,7 +11,16 @@
   "page_to": 236
  },
  "ar": "اللام والحاء والدال أصلٌ يدلُّ على ميلٍ عن استقامةٍ. يقال:\nألْحَدَ الرّجلُ، إذا مال عن طريقةِ الحقِّ (٤) والإيمان. وسمِّي اللّحدُ لأنّه مائلٌ في أحد جانِبَيِ الجَدَث. يقال: لحَدْت الميِّتَ وألحدت. والمُلْتَحَد: الملجأ، سمِّي بذلك لأنَّ اللاجئ يميل إليه.",
- "az": "[لحد] (ləhəd) — lam, ha və dal düz yoldan azmağı bildirən əsas kökdür. ألْحَدَ الرّجلُ (əlhədər-rəcül) — kişi haqq yolundan və imandan azdı (٤), deyilir. Səddin (qəbrin) bir tərəfə meyilli olması səbəbindən ona لحد (ləhəd) deyilmişdir. لحَدْت الميِّتَ (ləhədtül-məyyitə) və ألحدت (əlhədətu) — meyiti səddə qoydum, deyilir. اّلْمُلْتَحَد (əlməltəhəd) — sığınacaq, ona görə belə adlanmışdır ki, sığınan şəxs ora meyil edir.",
+ "az": "[لحد] — lam, ha və dal düzlükdən meyil etməyə dəlalət edən bir əsasdır. Deyilir: ألْحَدَ الرّجلُ — kişi haqq və iman yolundan meyil etdikdə (azdıqda) (٤) belə deyilir. اللّحد (ləhəd) ona görə belə adlandırılmışdır ki, o, qəbrin (الجَدَث) bir tərəfinə meyil etmiş (oyulmuş) olur. Deyilir: لحَدْت الميِّتَ və ألحدت (meyiti ləhədə qoydum / ləhəd qazdım). والمُلْتَحَد (əl-multəhəd) isə sığınacaqdır; sığınan kəs ona meyil etdiyi üçün belə adlandırılmışdır.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "prev_az": "[لحد] (ləhəd) — lam, ha və dal düz yoldan azmağı bildirən əsas kökdür. ألْحَدَ الرّجلُ (əlhədər-rəcül) — kişi haqq yolundan və imandan azdı (٤), deyilir. Səddin (qəbrin) bir tərəfə meyilli olması səbəbindən ona لحد (ləhəd) deyilmişdir. لحَدْت الميِّتَ (ləhədtül-məyyitə) və ألحدت (əlhədətu) — meyiti səddə qoydum, deyilir. اّلْمُلْتَحَد (əlməltəhəd) — sığınacaq, ona görə belə adlanmışdır ki, sığınan şəxs ora meyil edir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«الجدث» (qəbir) sözü «sədd» kimi təhrif edilib və buna görə «meyiti səddə qoydum» şəklində yanlış tərcümə yazılıb."
+ ],
+ "review_ts": "2026-11-27T00:42:14.449Z"
 }

@@ -11,7 +11,17 @@
   "page_to": 235
  },
  "ar": "اللام والجيم والنون كلمتان: اللُّجَيْن: الفضَّة. واللَّجِينُ:\nحشيشٌ يُضرَب بالحِجارة حتى يتلجَّن، كأنّه تغضّن. قال:\nوماء قد وردتُ لِوَصلِ أَرْوَى … عليه الطَّيرُ كالوَرَقِ اللَّجِينِ (٢)",
- "az": "[لجن] (ləcən) — lam, cim və nun iki sözdür: اّللُّجَيْن (əllüceyn) — gümüş. اّللَّجِينُ (əlləcin) — bərkidilmək üçün daşlarla döyülən və qırışığa bənzəyən ot. Şair demişdir:\nوماء قد وردتُ لِوَصلِ أَرْوَى … عليه الطَّيرُ كالوَرَقِ اللَّجِينِ (٢)\n(Arvanın vüsalı üçün elə bir suya vardım ki, üzərindəki quşlar gümüşü yarpaqlar kimidir)",
+ "az": "[لجن] — lam, cim və nun iki sözdür: اللُّجَيْن (əl-lüceyn) — gümüşdür. اللَّجِينُ (əl-ləcin) isə daşlarla yapışqan/xəmir halına gələnə (يتلجَّن) qədər döyülən otdur, sanki qırışmış kimidir. [Şair] demişdir:\nوماء قد وردتُ لِوَصلِ أَرْوَى … عليه الطَّيرُ كالوَرَقِ اللَّجِينِ (٢)\n(Ərvanın vüsalına çatmaq üçün elə bir suya gəlib çatdım ki, üzərindəki quşlar [sanki suya tökülmüş] döyülüb əzilmiş yarpaqlar kimidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "prev_az": "[لجن] (ləcən) — lam, cim və nun iki sözdür: اّللُّجَيْن (əllüceyn) — gümüş. اّللَّجِينُ (əlləcin) — bərkidilmək üçün daşlarla döyülən və qırışığa bənzəyən ot. Şair demişdir:\nوماء قد وردتُ لِوَصلِ أَرْوَى … عليه الطَّيرُ كالوَرَقِ اللَّجِينِ (٢)\n(Arvanın vüsalı üçün elə bir suya vardım ki, üzərindəki quşlar gümüşü yarpaqlar kimidir)",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«حتى يتلجن» ifadəsi «bərkidilmək üçün» kimi səhv tərcümə edilib; döyülüb xəmir/yapışqan halına gəlməsini bildirir.",
+  "Şeirdəki «كالورق اللجين» ifadəsi «gümüşü yarpaqlar» kimi tamamilə səhv tərcümə edilib; burada «əl-ləcin» gümüş deyil, daşla döyülüb əzilmiş yarpaq mənasındadır."
+ ],
+ "review_ts": "2026-11-27T00:42:14.449Z"
 }

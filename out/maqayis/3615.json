@@ -11,7 +11,18 @@
   "page_to": 228
  },
  "ar": "اللام والباء والجيم كلمتانِ لا تنقاسان. فالأولى قولهم: لُبِجَ به، إذا صُرِع: وحَىٌّ لَبِيجٌ، للحىِّ إذا نَزَل واستقرَّ مكانَه. قال:\nكأن ثِقالَ المُزْنِ بين تُضارعٍ … وشَابَةَ بَرْكٌ من جُذامَ لبيجُ (٢)\nوالأخرى اللُّبْجَة (٣): حديدة ذات شُعَب، كأنّها كفٌّ بأصابعها.",
- "az": "«لبج» (Lam, ba və cim) qaydaya uyğun gəlməyən iki sözdür. Birincisi, onların «لُبِجَ به» (lubicə bih) sözüdür, o yıxıldıqda deyilir: وَحَىٌّ لَبِيجٌ (və-həyyun ləbicün) — qəbiləna düşüb yerləşdikdə və qərar tutduqda işlədilir. (Şair) demişdir: «Sanki Tüzari və Şabə arasındakı buludların ağırlığı Cüzam qəbiləsinin çökdüyü yağışlı yerdir» (٢). Digəri isə: اللَّبْجَة (əl-lubcə) (٣): bir neçə şaxəsi olan dəmir alətdir, sanki barmaqları olan bir ovuc kimidir.",
+ "az": "[لبج]\nاللام والباء والجيم كلمتانِ لا تنقاسان.\n(Lam, ba və cim müəyyən bir qiyasa tabe olmayan iki sözdür).\nفالأولى قولهم: لُبِجَ به، إذا صُرِع: وحَىٌّ لَبِيجٌ، للحىِّ إذا نَزَل واستقرَّ مكانَه.\n(Birincisi onların bu sözüdür: yerə yıxıldıqda لُبِجَ به deyilir; qəbilə bir yerə enib orada məskunlaşdıqda isə حَىٌّ لَبِيجٌ deyilir).\nقال:\nكأن ثِقالَ المُزْنِ بين تُضارعٍ … وشَابَةَ بَرْكٌ من جُذامَ لبيجُ (٢)\n(Şair demişdir:\nكأن ثِقالَ المُزْنِ بين تُضارعٍ … وشَابَةَ بَرْكٌ من جُذامَ لبيجُ (٢)\n«Sanki Tudarilə Şabə arasındakı ağır yağış buludları Cüzam qəbiləsinin bir yerə enib qərar tutmuş dəvələridir»).\nوالأخرى اللُّبْجَة (٣): حديدة ذات شُعَب، كأنّها كفٌّ بأصابعها.\n(Digəri isə اللُّبْجَة (٣) kəlməsidir: barmaqları olan bir ovuca bənzəyən, qolları/şaxələri olan dəmir alətdir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:21.833Z"
+ "ts": "2026-10-26T00:47:21.833Z",
+ "prev_az": "«لبج» (Lam, ba və cim) qaydaya uyğun gəlməyən iki sözdür. Birincisi, onların «لُبِجَ به» (lubicə bih) sözüdür, o yıxıldıqda deyilir: وَحَىٌّ لَبِيجٌ (və-həyyun ləbicün) — qəbiləna düşüb yerləşdikdə və qərar tutduqda işlədilir. (Şair) demişdir: «Sanki Tüzari və Şabə arasındakı buludların ağırlığı Cüzam qəbiləsinin çökdüyü yağışlı yerdir» (٢). Digəri isə: اللَّبْجَة (əl-lubcə) (٣): bir neçə şaxəsi olan dəmir alətdir, sanki barmaqları olan bir ovuc kimidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Şeir beytinin ərəbcə mətni buraxılmışdır.",
+  "«اللُّبْجَة» sözünün ilk hərfi səhvən fəthə ilə verilib.",
+  "«qəbiləna» orfoqrafik xətası var."
+ ],
+ "review_ts": "2026-11-27T00:39:28.668Z"
 }

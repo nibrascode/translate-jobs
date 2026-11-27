@@ -13,5 +13,10 @@
  "ar": "اللام والجيم والحاء كلمة. يقولون: اللُّجْح: مكانٌ منخفِض في الوادي.",
  "az": "[لجح] (ləcəh) — lam, cim və ha bir sözdür. Deyirlər: اّللُّجْح (əllüc,h) — dərədə alçaq yer.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:44.973Z"
+ "ts": "2026-10-26T00:47:44.973Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:42:14.448Z"
 }

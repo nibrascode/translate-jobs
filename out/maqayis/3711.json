@@ -13,5 +13,10 @@
  "ar": "اللام والقاف والنون كلمةٌ صحيحة تدلُّ على أخْذِ علمٍ وفَهْمِه.\nولَقِن الشّيءَ لَقَناً: أخذه وفهمه. ولقَّنْتُه تلقينا: فهَّمته. وغُلامٌ لقِنٌ: سريع الفَهْم واللَّقانة.",
  "az": "[لقن] «اللام والقاف والنون كلمةٌ صحيحة تدلُّ على أخْذِ علمٍ وفَهْمِه» (Lam, qaf və nun hərfləri elm almağa və onu anlamaya dəlalət edən səhih kəlmədir). ولَقِن الشّيءَ لَقَناً (Bir şeyi asanlıqla mənimsədi): أخذه وفهمه (Onu götürüb anladı). ولقَّنْتُه تلقينا (Ona təliqın etdim, öyrətdim): فهَّمته (Ona anladdım). وغُلامٌ لقِنٌ (İstedadlı oğlan): سريع الفَهْم واللَّقانة (Anlamaqda və zekada sürətli).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:15.889Z"
+ "ts": "2026-10-26T00:49:15.889Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:51:19.356Z"
 }

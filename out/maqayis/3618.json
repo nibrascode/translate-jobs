@@ -13,5 +13,10 @@
  "ar": "اللام والباء والزاء كلمتان متقاربتا القياس. فاللبْز: ضربُ النَّاقة بجميع خُفِّها. قال:\n* خبطاً بأخفافٍ ثِقالِ اللَّبْزِ (٣) *\nواللَّبْز: الأكل الجيِّد.",
  "az": "«لبز» (Lam, ba və zə) qiyasda bir-birinə yaxın iki sözdür. اللَّبْز (əl-ləbz): dəvənin bütün dırnağı ilə vurmasıdır. (Şair) demişdir: * خبطاً بأخفافٍ ثِقالِ اللَّبْزِ * (Ağır zərbəli dırnaqlarla vuraraq). Və اللَّبْز (əl-ləbz): yaxşı yeməkdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:47:21.833Z"
+ "ts": "2026-10-26T00:47:21.833Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:39:40.429Z"
 }

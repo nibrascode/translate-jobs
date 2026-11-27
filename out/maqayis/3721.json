@@ -11,7 +11,18 @@
   "page_to": 264
  },
  "ar": "اللام والكاف والحرف المعتل أو المهموز، يدلُّ على لزوم مكانٍ وتباطؤ. ولَكِيت بفُلانٍ لَكًى مقصور، إذا لزِمْتَه. وقال أبوبكر: لَكِيَ بالمكان، إذا أقَامَ به، يهمز ولا يهمز (٢). وتلَكَّأَ الرّجُل تلكُّؤًا: تباطَأَ عن الشيء ويقال: لَكأْتُ * الرجُلَ لَكأً: جلَدْتُه بالسَّوط.",
- "az": "[لكي] «اللام والكاف والحرف المعتل أو المهموز، يدلُّ على لزوم مكانٍ وتباطؤ» (Lam, kaf və zəif yaxud həmzəli hərf bir yerdə sabit qalmağa və ləngiməyə dəlalət edir). ولَكِيت بفُلانٍ لَكًى مقصور (Filankəsin yanında ləkan - mənsur olaraq qaldım): إذا لزِمْتَه (əgər ona yapışdınsa). وقال أبوبكر (Əbu Bəkr demişdir): لَكِيَ بالمكان (Məkanda ləkiyə etdi): إذا أقَامَ به، يهمز ولا يهمز (٢) (orada qaldı, həmzəli də, həmzəsiz də işlədilir). وتلَكَّأَ الرّجُل تلكُّؤًا (Kişi ləngidi): تباطَأَ عن الشيء (bir işdən yavaşıdı, tənbəllik etdi) ويقال: لَكأْتُ * الرجُلَ لَكأً (Və deyilir: Kişiyə ləkə etdim): جلَدْتُه بالسَّوط (onu qamçı ilə vurdum).",
+ "az": "[لكي]\nاللام والكاف والحرف المعتل أو المهموز (Lam, kaf və ya mötəl, ya da həmzəli hərf) bir məkanda qalmağa (ayrılmamağa) və ləngiməyə dəlalət edir.\nولَكِيت بفُلانٍ لَكًى مقصور (Ləkitu bi-fulanin ləkən — qısa əliflə), إذا لزِمْتَه (əgər ondan ayrılmayıb yapışdınsa).\nوقال أبوبكر: لَكِيَ بالمكان، إذا أقَامَ به، يهمز ولا يهمز (٢) (Əbu Bəkr demişdir: «Ləkiyə bil-məkən» — məkanda qaldı, ilişib qaldıqda deyilir; həmzəli də, həmzəsiz də işlədilir).\nوتلَكَّأَ الرّجُل تلكُّؤًا: تباطَأَ عن الشيء (Kişi ləngidi — bir işi görməkdə ləngidikdə, yubandıqda deyilir).\nويقال: لَكأْتُ * الرجُلَ لَكأً: جلَدْتُه بالسَّوط (Və deyilir: «Ləkə’tur-rəculə lək’ən» — kişini qamçı ilə vurdum, qamçıladım).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:15.889Z"
+ "ts": "2026-10-26T00:49:15.889Z",
+ "prev_az": "[لكي] «اللام والكاف والحرف المعتل أو المهموز، يدلُّ على لزوم مكانٍ وتباطؤ» (Lam, kaf və zəif yaxud həmzəli hərf bir yerdə sabit qalmağa və ləngiməyə dəlalət edir). ولَكِيت بفُلانٍ لَكًى مقصور (Filankəsin yanında ləkan - mənsur olaraq qaldım): إذا لزِمْتَه (əgər ona yapışdınsa). وقال أبوبكر (Əbu Bəkr demişdir): لَكِيَ بالمكان (Məkanda ləkiyə etdi): إذا أقَامَ به، يهمز ولا يهمز (٢) (orada qaldı, həmzəli də, həmzəsiz də işlədilir). وتلَكَّأَ الرّجُل تلكُّؤًا (Kişi ləngidi): تباطَأَ عن الشيء (bir işdən yavaşıdı, tənbəllik etdi) ويقال: لَكأْتُ * الرجُلَ لَكأً (Və deyilir: Kişiyə ləkə etdim): جلَدْتُه بالسَّوط (onu qamçı ilə vurdum).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«مقصور» (yəni əlif-məqsurə ilə yazılan) sözü «mənsur» kimi təhrif edilmiş və yanlış anlaşılmışdır.",
+  "«لَكِيت بفُلانٍ» (filankəsdən ayrılmadım, ona yapışdım) düzgün tərcümə olunmamışdır.",
+  "«لَكِيَ بالمكان» və «لَكأْتُ الرجُلَ لَكأً» felləri «ləkiyə etdi», «ləkə etdim» şəklində tərcüməsiz saxlanılmışdır."
+ ],
+ "review_ts": "2026-11-27T00:51:35.981Z"
 }

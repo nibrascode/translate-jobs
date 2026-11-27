@@ -11,7 +11,17 @@
   "page_to": 246
  },
  "ar": "اللام والسين والعين كلمةٌ واحدة. يقال: لَسَعَتْه الحيّةُ تَلْسَعُه لَسْعاً ويستعار فيقال: لسَعَه بلسانِه.",
- "az": "[لسع] (Ləsəə) — Lam, sin və eyn tək bir kəlmədir. Deyilir: «لَسَعَتْه الحيّةُ تَلْسَعُه لَسْعاً» (ləsətil-hayyətu təlsəuhu ləsən) — ilan onu sancdı. Məcazi olaraq da işlənilir: «لسَعَه بلسانِه» (ləsəhuhu bilisəni) — onu dili ilə sancdı (incitdi).",
+ "az": "[لسع]\nاللام والسين والعين (lam, sin və ayn) tək bir kəlmədir. Deyilir:\nلَسَعَتْه الحيّةُ تَلْسَعُه لَسْعاً (ilan onu sancdı).\nMəcazi olaraq da işlədilib deyilir:\nلسَعَه بلسانِه (onu dili ilə sancdı).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لسع] (Ləsəə) — Lam, sin və eyn tək bir kəlmədir. Deyilir: «لَسَعَتْه الحيّةُ تَلْسَعُه لَسْعاً» (ləsətil-hayyətu təlsəuhu ləsən) — ilan onu sancdı. Məcazi olaraq da işlənilir: «لسَعَه بلسانِه» (ləsəhuhu bilisəni) — onu dili ilə sancdı (incitdi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ayn hərfinin adı səhv yazılmışdır.",
+  "Ərəbcə sözlərin oxunuşunda xətalar vardır."
+ ],
+ "review_ts": "2026-11-27T00:46:04.256Z"
 }

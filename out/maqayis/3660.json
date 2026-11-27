@@ -11,7 +11,16 @@
   "page_to": 243
  },
  "ar": "اللام والدال والغين كلمة واحدة. يقال لُدِغ يُلْدَغ، وهو ملدوغ ولديغ. ولدَغْتُه بكلمةٍ، إذا نزَغْتَه (٢) بها.",
- "az": "[لدغ] (Lədəğə) — Lam, dal və ğayn tək bir kəlmədir. «لُدِغ يُلْدَغ» (ludiğa yuldəğu) — sancıldı, sancılır, o, مَلْدُوغ (maldūğ) və لَدِيغ (lədiğ) adlanır. «لدَغْتُه بكلمةٍ» (lədəğtuhu bikelimətin) — onu bir kəlmə ilə sancıldığın (şübhə saldığın, incitdiyin) zaman deyilir (٢).",
+ "az": "[لدغ]\nاللام والدال والغين كلمة واحدة. يقال لُدِغ يُلْدَغ، وهو ملدوغ ولديغ. ولدَغْتُه بكلمةٍ، إذا نزَغْتَه (٢) بها.\n\n(Lam, dal və ğayn tək bir kəlmədir. Deyilir: «لُدِغ يُلْدَغ» — sancıldı, sancılır; o kəs مَلْدُوغ (məl珍惜/məl-duğ) və لَدِيغ (lədiğ) — sancılmış adlanır. «لدَغْتُه بكلمةٍ» — onu bir sözlə sancdığın, iynələyib incitdiyin zaman deyilir (٢).)",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "prev_az": "[لدغ] (Lədəğə) — Lam, dal və ğayn tək bir kəlmədir. «لُدِغ يُلْدَغ» (ludiğa yuldəğu) — sancıldı, sancılır, o, مَلْدُوغ (maldūğ) və لَدِيغ (lədiğ) adlanır. «لدَغْتُه بكلمةٍ» (lədəğtuhu bikelimətin) — onu bir kəlmə ilə sancıldığın (şübhə saldığın, incitdiyin) zaman deyilir (٢).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«sancıldığın» (məchul növ) səhvən məlum növ əvəzinə işlənmişdir («onu sancdığın, iynələdiyin zaman» olmalıdır)."
+ ],
+ "review_ts": "2026-11-27T00:44:02.395Z"
 }

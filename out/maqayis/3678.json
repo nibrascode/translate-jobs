@@ -13,5 +13,10 @@
  "ar": "اللام والصاد والغين ليس بشيء. على أنّهم يقولون لَصَغ الجِلد (٥): يَبِس على العَظْم عَجَفًا (٦).",
  "az": "[لصغ] (ləsəğ) — lam, sad və ğayn heç bir şey deyil. Lakin onlar dərinin arıqlıqdan sümüyə yapışıb qurumasını bildirmək üçün لَصَغ الجِلد (ləsəğə əlcild) (٥) (٦) deyirlər.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:27.242Z"
+ "ts": "2026-10-26T00:48:27.242Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:46:04.257Z"
 }

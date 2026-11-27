@@ -11,7 +11,17 @@
   "page_to": 261
  },
  "ar": "اللام والقاف والباء كلمةٌ واحدة. اللَّقَب: النَّبَزُ، واحدٌ.\nولقَّبْته تلقيباً قال اللّه تعالى: ﴿وَلا تَنابَزُوا بِالْأَلْقابِ﴾.",
- "az": "[لقب] «اللام والقاف والباء كلمةٌ واحدة» (Lam, qaf və ba bir kəlmədir). اللَّقَب: النَّبَزُ، واحدٌ (Ləqəb ləqabədir, təkdir). ولقَّبْته تلقيباً (Onu ləqəbləndirdim). قال اللّه تعالى (Uca Allah buyurmuşdur): ﴿وَلا تَنابَزُوا بِالْأَلْقابِ﴾ (mənaca tərcümə: Və bir-birinizə ləqəblər qoşub çağırımmayın).",
+ "az": "[لقب]\n«اللام والقاف والباء كلمةٌ واحدة» (Lam, qaf və ba bir kəlmədir). اللَّقَب: النَّبَزُ، واحدٌ (Ləqəb nəbəzdir (ad, ləqəbdir), təkdir).\nولقَّبْته تلقيباً (Ona ləqəb verdim). قال اللّه تعالى: ﴿وَلا تَنابَزُوا بِالْأَلْقابِ﴾ (Uca Allah buyurmuşdur, mənaca tərcümə: «Bir-birinizə pis ləqəblər taxmayın»).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:49:15.889Z"
+ "ts": "2026-10-26T00:49:15.889Z",
+ "prev_az": "[لقب] «اللام والقاف والباء كلمةٌ واحدة» (Lam, qaf və ba bir kəlmədir). اللَّقَب: النَّبَزُ، واحدٌ (Ləqəb ləqabədir, təkdir). ولقَّبْته تلقيباً (Onu ləqəbləndirdim). قال اللّه تعالى (Uca Allah buyurmuşdur): ﴿وَلا تَنابَزُوا بِالْأَلْقابِ﴾ (mənaca tərcümə: Və bir-birinizə ləqəblər qoşub çağırımmayın).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«النَّبَزُ» sözü anlaşılmaz şəkildə «ləqabədir» kimi tərcümə edilmişdir.",
+  "«çağırımmayın» sözündə hərf xətası var."
+ ],
+ "review_ts": "2026-11-27T00:51:19.357Z"
 }

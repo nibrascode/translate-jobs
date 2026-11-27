@@ -11,7 +11,17 @@
   "page_to": 299
  },
  "ar": "الميم والجيم والنون كلمةٌ واحدة، هي مجن، يقال: إنّ المُجونَ: ألاَّ يُبَالِيَ الإنسانُ ما صَنَع. قالوا: وقياسه مِنَ (٢) النَّاقة المُماجِن، وهي التي يَنْزُو عليها غيرُ واحدٍ من الفُحُولة، فلا تكاد تلقح. والمَجَّان، هو عَطِيّة الرّجل شيئاً بلا ثمن.",
- "az": "[مجن] (Mim, cim və nun): Bir tək sözdür, o da «مجن» (məcənə). Deyirlər ki, «المُجون» (əl-mucun): insanın etdiyi əmələ görə əhəmiyyət verməməsi, utanç duymamasıdır. Dedilər ki: bunun qiyası (əası) «النَّاقة المُماجِن» (ən-naqətül-muməcin) sözündəndir, o da elə bir dəvədir ki, ona bir deyil, bir çox erkək dəvə üst çıxar (cütləşər), o da demək olar ki, hamilə qalmaz. «المَجَّان» (əl-məccən) isə, bir kimseye qarşılıqsız (pulsuz) olaraq verilən hədiyyədir.",
+ "az": "[مجن]\nالميم والجيم والنون كلمةٌ واحدة، هي مجن. يقال: إنّ «المُجونَ»: ألاَّ يُبَالِيَ الإنسانُ ما صَنَع (insanın etdiyi əmələ fikir verməməsi, utanc duymamasıdır). قالوا: وقياسه من «النَّاقة المُماجِن»، وهي التي يَنْزُو عليها غيرُ واحدٍ من الفُحُولة، فلا تكاد تلقح (elə bir dəvədir ki, ona bir neçə erkək dəvə üst çıxar, o da demək olar ki, hamilə qalmaz). Və «المَجَّان»، هو عَطِيّة الرّجل شيئاً بلا ثمن (bir kəsə əvəzsiz/pulsuz olaraq verilən paydır).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:51:32.940Z"
+ "ts": "2026-10-26T00:51:32.940Z",
+ "prev_az": "[مجن] (Mim, cim və nun): Bir tək sözdür, o da «مجن» (məcənə). Deyirlər ki, «المُجون» (əl-mucun): insanın etdiyi əmələ görə əhəmiyyət verməməsi, utanç duymamasıdır. Dedilər ki: bunun qiyası (əası) «النَّاقة المُماجِن» (ən-naqətül-muməcin) sözündəndir, o da elə bir dəvədir ki, ona bir deyil, bir çox erkək dəvə üst çıxar (cütləşər), o da demək olar ki, hamilə qalmaz. «المَجَّان» (əl-məccən) isə, bir kimseye qarşılıqsız (pulsuz) olaraq verilən hədiyyədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Ərəbcə baş cümlə «الميم والجيم والنون كلمةٌ واحدة» ixtisar edilmişdir",
+  "Türkiyə türkcəsinə aid söz («kimseye») işlədilmişdir"
+ ],
+ "review_ts": "2026-11-27T01:02:05.514Z"
 }

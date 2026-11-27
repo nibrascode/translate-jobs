@@ -13,5 +13,10 @@
  "ar": "اللام والخاء والنون كلمة واحدةٌ، وهي اللَّخَن، وهو النَّتْن، يقال: لَخِنَ السِّقاء، إذا أنتنَ. ومنه قولهم للأَمة: لَخْناء.",
  "az": "[لخن] (Ləhənə) — Lam, xə və nun tək bir kəlmədir, o da اللَّخَن (əl-ləhən) olub üfunətdir (pis qoxudur). Deyilir: «لَخِنَ السِّقاء» (ləxinəs-siqə) — tuluq üfunətləndi, qoxudu. Cariyəyə (qadın köləyə) «لَخْناء» (ləxnə) deyilməsi də buradan götürülmüşdür.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:06.170Z"
+ "ts": "2026-10-26T00:48:06.170Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:44:02.394Z"
 }

@@ -11,7 +11,18 @@
   "page_to": 222
  },
  "ar": "اللام والواو والميم كلمتانِ تدلُّ إحداهما على العَتْب والعَذْل، والأخرى على الإبطاء.\nفالأوّل اللَّوْم، وهو العَذْل. تقول: لُمْتُه لَوْمًا، والرّجُل مَلوم. والمُلِيم:\nالذي يستحقُّ اللَّوْم. واللَّوْماء (٤): الملامة. ورجل لُوَمة: يلُوم الناس. ولُومة يُلام.\nوالكلمة الأخرى التلوُّم، وهو التمكُّث. ويقال: إنَّ اللاّمَةَ: الأمر يُلَام (٥) عليه الإنسان.",
- "az": "«لوم» (لوم): اللام، الواو والميم كلمتان تدل إحداهما على العتب والعذل، والأخرى على الإبطاء (Lam, vav və mim iki kəlmədir ki, biri danlağa və qınamağa, digəri isə ləngiməyə dəlalət edir). فأول اللوم، وهو العذل (Birincisi əl-ləvmdir ki, o da qınamaqdır). تقول: لُمْتُه لَوْمًا، والرّجُل مَلُوم (Dərsən: lumtuhu lavmən, kişi isə məlumdur). والمُليم: الذي يستحق اللوم (Və əl-mulim: qınamağa layiq olan şəxs). واللوماء (٤): الملامة (Və əl-ləvmae: qınama). ورجل لُومة: يلوم الناس (Və lümə kişisi: insanları qınayan). ولومة: يلام (Və lümə: qınanılan). والكلمة الأخرى التلوم، وهو التمكث (Və digər kəlmə et-təllumdir ki, o da ləngiməkdir). ويقال: إن اللامة: الأمر يُلام (٥) عليه الإنسان (Və deyilir ki, əl-lâmə: insanın qınandığı işdir).",
+ "az": "[لوم]\nاللام والواو والميم كلمتانِ تدلُّ إحداهما على العَتْب والعَذْل، والأخرى على الإبطاء.\nLam, vav və mim iki kəlmədir: biri gileyə və العَذْل (qınağa), digəri isə الإبطاء (ləngiməyə) dəlalət edir.\nBirincisi اللَّوْم (qınaq)dır, o da العَذْل (qınamaq)dır. لُمْتُه لَوْمًا (onu qınadım) deyirsən; kişi isə مَلوم (qınanmış)dır. والمُلِيم isə اللَّوْم (qınağa) layiq olan kimsədir. واللَّوْماء (٤) isə الملامة (qınaq, məzəmmət) deməkdir. رجل لُوَمة insanları qınayan kişidir, لُومة isə qınanılan kimsədir.\nDigər kəlmə isə التلوُّم olub, التمكُّث (yubanmaq, ləngimək) deməkdir. Deyilir ki: اللاّمَةَ insanın qınandığı (يُلَام (٥) عليه) işdir.",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "prev_az": "«لوم» (لوم): اللام، الواو والميم كلمتان تدل إحداهما على العتب والعذل، والأخرى على الإبطاء (Lam, vav və mim iki kəlmədir ki, biri danlağa və qınamağa, digəri isə ləngiməyə dəlalət edir). فأول اللوم، وهو العذل (Birincisi əl-ləvmdir ki, o da qınamaqdır). تقول: لُمْتُه لَوْمًا، والرّجُل مَلُوم (Dərsən: lumtuhu lavmən, kişi isə məlumdur). والمُليم: الذي يستحق اللوم (Və əl-mulim: qınamağa layiq olan şəxs). واللوماء (٤): الملامة (Və əl-ləvmae: qınama). ورجل لُومة: يلوم الناس (Və lümə kişisi: insanları qınayan). ولومة: يلام (Və lümə: qınanılan). والكلمة الأخرى التلوم، وهو التمكث (Və digər kəlmə et-təllumdir ki, o da ləngiməkdir). ويقال: إن اللامة: الأمر يُلام (٥) عليه الإنسان (Və deyilir ki, əl-lâmə: insanın qınandığı işdir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Format qaydası pozulub: maddə başlığı «[لوم]» olmalıdır və ərəb mətni bütöv cümlələr şəklində təkrarlanmamalıdır.",
+  "«لُوَمة» (çox qınayan) və «لُومة» (qınanılan) sözlərinin hərəkə və məna fərqi dəqiqləşdirilməyib.",
+  "«Dərsən» (deyərsən) və «et-təllumdir» (ət-tələvvümdür) orfoqrafik xətalardır."
+ ],
+ "review_ts": "2026-11-27T00:37:37.645Z"
 }

@@ -13,5 +13,10 @@
  "ar": "اللام والياء والنون كلمةٌ واحدة، وهي اللِّين: ضدُّ الخُشُونَة.\nويقال: هو في لَيَانٍ من عَيش، أي نَعْمةٍ. وفلانٌ مَلْيَنَة، أي ليِّن الجانب.",
  "az": "«لين» (لين): اللام والياء والنون كلمة واحدة، وهي اللين: ضد الخشونة (Lam, yə və nun tək bir kəlmədir, o da əl-lin - sərtliyin ziddi olan yumşaqlıqdır). ويقال: هو في ليان من عيش، أي نعمة (Və deyilir: o, yaşayışın ləyanındadır, yəni nemət içindədir). وفلان ملينة، أي لين الجانب (Və filankəs məlinədir, yəni yumşaq təbiətlidir).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:46:59.900Z"
+ "ts": "2026-10-26T00:46:59.900Z",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-27T00:39:28.666Z"
 }

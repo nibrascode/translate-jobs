@@ -11,7 +11,16 @@
   "page_to": 250
  },
  "ar": "اللام والطاء والعين أصلٌ صحيح يدلُّ على انكشافِ شيء عن شيء، وعلى كَشْفه عنه. يقال: لَطع الإنسان الشّيءَ بلسانه يلطَعُه، إذا لَحِسَه.\nواللَّطَع: بياضٌ في باطِن الشَّفَة، وذلك انكشافُ اللَّمَى عنها. وأكثر ما يعترى\nذلك السُّودان. قال ابن دريد: عجوزٌ لَطْعاء تحاتَّت أسنانها. قال: واللَّطعاء:\nالقليلة لحمِ الفَرج (١).",
- "az": "[لطع] (lətəə) — lam, ta və eyn bir şeyin başqa bir şeydən açılmasına və onun üzərindən qaldırılmasına (kəşf olunmasına) dəlalət edən səhih kökdür. Deyilir: لَطع الإنسان الشّيءَ بلسانه يلطَعُه (insan şeyi dili ilə yaladı, yalayır), o, bunu yalamaq istədikdə.\nVə اللَّطَع (əllətəə) — dodağın daxilində olan ağlıqdır, bu, ləmanın (dodağın qırmızı/qaraltısının) ondan açılmasıdır. Bu, daha çox qaradərililərdə olur. İbn Dürid demişdir: عجوزٌ لَطْعاء (dişləri tökülmüş qarı). Və demişdir: اللَّطْعاء (əllətəə) — cinsiyyət orqanının əti az olan qadındır (١).",
+ "az": "[لطع]\nاللام والطاء والعين (lam, ta və ayn) bir şeyin başqa bir şeydən açılmasına və onun üzərindən kəşf olunmasına (üzərinin açılmasına) dəlalət edən səhih kökdür. Deyilir: لَطع الإنسان الشّيءَ بلسانه يلطَعُه (insan bir şeyi dili ilə yaladı, yalayır) — onu yaladıqda.\nاللَّطَع (əllətə) — dodağın daxilində olan ağlıqdır, bu da ləmanın (dodaq qaraltısının) ondan açılmasıdır. Bu, daha çox qaradərililərdə baş verir. İbn Dureyd demişdir: عجوزٌ لَطْعاء (dişləri tökülmüş qarı). Və demişdir: اللَّطْعاء (əlləta) — cinsiyyət orqanının əti az olan qadındır (١).",
  "model": "gemini-3.5-flash-lite",
- "ts": "2026-10-26T00:48:27.242Z"
+ "ts": "2026-10-26T00:48:27.242Z",
+ "prev_az": "[لطع] (lətəə) — lam, ta və eyn bir şeyin başqa bir şeydən açılmasına və onun üzərindən qaldırılmasına (kəşf olunmasına) dəlalət edən səhih kökdür. Deyilir: لَطع الإنسان الشّيءَ بلسانه يلطَعُه (insan şeyi dili ilə yaladı, yalayır), o, bunu yalamaq istədikdə.\nVə اللَّطَع (əllətəə) — dodağın daxilində olan ağlıqdır, bu, ləmanın (dodağın qırmızı/qaraltısının) ondan açılmasıdır. Bu, daha çox qaradərililərdə olur. İbn Dürid demişdir: عجوزٌ لَطْعاء (dişləri tökülmüş qarı). Və demişdir: اللَّطْعاء (əllətəə) — cinsiyyət orqanının əti az olan qadındır (١).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«إذا لَحِسَه» ifadəsi «o, bunu yalamaq istədikdə» kimi səhv tərcümə olunub; doğrusu «onu yaladıqda / yaladığı zaman» olmalıdır."
+ ],
+ "review_ts": "2026-11-27T00:46:53.734Z"
 }
