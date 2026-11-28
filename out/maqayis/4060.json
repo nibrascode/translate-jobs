@@ -11,9 +11,19 @@
   "page_to": 394
  },
  "ar": "النون والجيم والسين أصلٌ صحيح يدلُّ على خلاف الطّهارة. وشيء نَجِسٌ ونَجَسٌ: قذِر. والنَّجَس: القذَر. وليس ببعيد أن يكون\n* منه قولهم: النَّاجس: الداء لا دَواءً له. قال ساعدةُ الهذلىّ:\nوالشيب داءٌ نَجِيسٌ لا دواءَ له … للمرءِ كان صحيحاً صائبَ القُحَمِ (١)\nكأنّه إذا طال بالإنسان نَجِسَه [أو نَجَّسَه (٢)]، أي قَذِره أو قذَّره. أمّا التَّنجيس فشيءٌ كانت العرب تفعله، كانوا يعلِّقون على الصِبىِّ شيئاً يعوِّذونه من الجنّ، ولعلَّ ذلك عَظْمٌ أو ما أشبَهَه، فلذلك سُمِّي تنجيساً. قال:\nوعلق أنجاساً عليَّ المنجِّسُ (٣) *",
- "az": "«نجس» (n-j-s): nun, cim və sin hərfidir, təmizliyin əksinə dəlalət edən səhih əsasdır. «نَجِسٌ» (nəcis) və «نَجَسٌ» (nəcəs) – çirkli şey. «النَّجَس» (ən-nəcəs) – çirk. Həmçinin onların: «النَّاجس» (ən-nacis) – dərmanı olmayan xəstəlik, deməsi də bundan uzaq deyil. Saidə əl-Hüzəli demişdir: Və qocalıq elə çirkli/dərmansız bir xəstəlikdir ki, onun dərmanı yoxdur… Sağlam, qorxunc yerlərə hər zaman düşən insan üçün (١). Guya insanla uzun müddət qaldıqda onu «نَجِسَهُ» (nəcis etdi) [və ya «نَجَّسَهُ» (nəccəsəhü) (٢)], yəni çirkləndirdi və ya çirkli etdi. Qaldı ki, «التَّنجيس» (ət-təncis) – bu, ərəblərin etdiyi bir şey idi; onlar uşaqların boynuna cinlərdən qorunmaları üçün nəsə asardılar, ehtimala görə bu, sümük və ya ona bənzər bir şey idi, buna görə də o, tənqis (təncis) adlandı. O demişdir: Və mənim üstümə təncis edən çirklər asdı (٣).",
+ "az": "[نجس]\nNun, cim və sin hərfləri təmizliyin əksinə dəlalət edən səhih əsasdır. وشيء نَجِسٌ ونَجَسٌ (çirkli şey). والنَّجَس (çirk). Onların: النَّاجس (dərmanı olmayan xəstəlik) sözünün də bundan olması uzaq deyil. Saidə əl-Hüzəli demişdir:\nوالشيب داءٌ نَجِيسٌ لا دواءَ له … للمرءِ كان صحيحاً صائبَ القُحَمِ (١)\n(Qocalıq sağlam və çətinliklərə sinə gərən insan üçün dərmanı olmayan sağalmaz bir xəstəlikdir)\nSanki o, insanda uzun müddət qaldıqda onu نَجِسَه [أو نَجَّسَه (٢)] (çirkləndirdi və ya çirkli etdi). التَّنجيس (təncisə) gəlincə, bu, ərəblərin etdiyi bir şey idi; onlar uşağın üstünə cinlərdən qorumaq üçün bir şey asardılar, ehtimal ki, bu, sümük və ya ona bənzər bir şey idi, buna görə də تنجيساً (təncis) adlanmışdır. Demişdir:\nوعلق أنجاساً عليَّ المنجِّسُ (٣) *\n(Təncis edən mənim üstümə çirkli şeylər asdı)",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:56:41.627Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نجس» (n-j-s): nun, cim və sin hərfidir, təmizliyin əksinə dəlalət edən səhih əsasdır. «نَجِسٌ» (nəcis) və «نَجَسٌ» (nəcəs) – çirkli şey. «النَّجَس» (ən-nəcəs) – çirk. Həmçinin onların: «النَّاجس» (ən-nacis) – dərmanı olmayan xəstəlik, deməsi də bundan uzaq deyil. Saidə əl-Hüzəli demişdir: Və qocalıq elə çirkli/dərmansız bir xəstəlikdir ki, onun dərmanı yoxdur… Sağlam, qorxunc yerlərə hər zaman düşən insan üçün (١). Guya insanla uzun müddət qaldıqda onu «نَجِسَهُ» (nəcis etdi) [və ya «نَجَّسَهُ» (nəccəsəhü) (٢)], yəni çirkləndirdi və ya çirkli etdi. Qaldı ki, «التَّنجيس» (ət-təncis) – bu, ərəblərin etdiyi bir şey idi; onlar uşaqların boynuna cinlərdən qorunmaları üçün nəsə asardılar, ehtimala görə bu, sümük və ya ona bənzər bir şey idi, buna görə də o, tənqis (təncis) adlandı. O demişdir: Və mənim üstümə təncis edən çirklər asdı (٣).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[نجس]» formatında verilməyib.",
+  "Hər iki şeir beytinin ərəbcə mətni buraxılıb, yalnız tərcüməsi verilib.",
+  "«تنجيساً» sözü yanlışlıqla «tənqis» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-28T07:40:21.578Z"
 }

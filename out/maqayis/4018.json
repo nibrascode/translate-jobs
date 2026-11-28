@@ -11,9 +11,18 @@
   "page_to": 377
  },
  "ar": "النون والهمزة والميم أُصَيلٌ يدلُّ على صوت. النئيم: [صوتٌ (٢)] فيه ضعفٌ كالأنين. ونَأَم الأسدُ يَنْئِمُ (٣). وسمعتُ له نَأْمةً واحدة. ونأمت القوس نئيما.",
- "az": "«نأم»: النون، الهمزة والميم أُصَيلٌ يدلُّ على صوت (Kiçik bir kök olub səsə dəlalət edir). النئيم («Nəim»): [صوتٌ (٢)] فيه ضعفٌ كالأنين ([elə bir səsdir ki] onda iniltiyə bənzər zəiflik var). ونَأَم الأسدُ يَنْئِمُ (٣) (Şir nərildədi, nərildəyir). وسمعتُ له نَأْمةً واحدة (Və mən ondan tək bir inilti/səs eşitdim). ونأمت القوس نئيما (Və kaman inilti səsi çıxardı).",
+ "az": "[نأم]\nNun, həmzə və mim səsə dəlalət edən kiçik bir kökdür. النئيم (ən-nəim): inilti kimi içində zəiflik olan [bir səsdir (٢)]. ونَأَم الأسدُ يَنْئِمُ (٣) (Şir zəif səs çıxardı). وسمعتُ له نَأْمةً واحدة (Ondan bircə zəif səs eşitdim). ونأمت القوس نئيما (Kaman inilti kimi zəif səs çıxardı).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:55:36.143Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نأم»: النون، الهمزة والميم أُصَيلٌ يدلُّ على صوت (Kiçik bir kök olub səsə dəlalət edir). النئيم («Nəim»): [صوتٌ (٢)] فيه ضعفٌ كالأنين ([elə bir səsdir ki] onda iniltiyə bənzər zəiflik var). ونَأَم الأسدُ يَنْئِمُ (٣) (Şir nərildədi, nərildəyir). وسمعتُ له نَأْمةً واحدة (Və mən ondan tək bir inilti/səs eşitdim). ونأمت القوس نئيما (Və kaman inilti səsi çıxardı).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kökü bildirən cümlə və digər ərəbcə ibarələr tərcümə edilmədən mətnin içində saxlanılmışdır.",
+  "«نأم الأسد» ifadəsi şirin nərildəməsi deyil, inilti kimi zəif səs çıxarmasıdır."
+ ],
+ "review_ts": "2026-11-28T07:45:43.193Z"
 }

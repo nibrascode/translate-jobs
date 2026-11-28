@@ -11,9 +11,19 @@
   "page_to": 388
  },
  "ar": "النون والتاء واللام أصلٌ صحيح يدلُّ على تقدُّم وسَبْق.\nيقال استَنْتَل الرّجلُ: تقدَّمَ أصحابَه. وسمِّي الرَّجلُ به نَاتلا. ونَتَلته: جذبْتُه إلى قُدُم. وتَنَاتَلَ النّبتُ: لم يستقِمْ نباتُه وكان بعضُه أطوَلَ مِنْ بعض، كأنَّ الأطولَ تقدَّمَ ما هو أقصَرُ منه فسَبَق. وقولهم: النَّتَلُ العَبْد الضَّخم، تفسيره أنَّه يقوى من التقدُّم [على] ما يعجِزُ عنه غيرُه. ألا ترى إلى قول الرّاجز (٣):\n* يَطُفْنَ حولَ نَتَلٍ وَزْوازِ *\nفوصَفَه بوَزْوازٍ، وهو الخفيف.",
- "az": "«نتل» (nətəl) — Nun, ta və lam hərfləri irəliləməyə və ötməyə dəlalət edən səhih bir əsasdır.\n\nDezirlər: استَنْتَل الرّجلُ (kişi yoldaşlarını qabaqladı, irəli keçdi). Və bu səbəbdən həmin kişiyə ناتل (natil) deyilmişdir. وَنَتلتُه (onu irəliyə doğru dartdım). وَتَنَاتَلَ النّبتُ (bitki bərabər bitmədi, bəziləri digərlərindən daha uzun oldu), sanki daha uzun olan özündən qısa olanı qabaqlayıb ötdü. Və onların النَّتَلُ العَبْد الضَّخم (nətəl — iri bədənli qul) demələrinin izahı budur ki, o, başqasının aciz qaldığı irəliyə keçmək işində qüvvətli olur. Rocəzin (3) bu sözünə baxmırsanmı:\n* يَطُفْنَ حولَ نَتَلٍ وَزْوازِ *\n(Onlar iri bədənli, çevik natilin ətrafında dolanırlar)\n\nVə onu vəzvaş ilə vəsf etmişdir, o da yüngül, çevik deməkdir.",
+ "az": "[نتل]\nNun, ta və lam irəliləməyə və önə keçməyə dəlalət edən səhih bir kökdür.\nDeyilir: استَنْتَل الرّجلُ (kişi yoldaşlarından önə keçdi, irəlilədi). Bu səbəbdən adama ناتل (natil) deyildi. ونَتَلته: onu irəli çəkdim. وتَنَاتَلَ النّبتُ: bitki bərabər bitmədi, bəzisi bəzisindən daha uzun oldu; sanki uzun olan daha qısa olanın önünə keçib onu qabaqladı. Onların: النَّتَلُ العَبْد الضَّخم (nətəl – iri bədənli qul) sözlərinə gəlincə, bunun izahı odur ki, o, başqasının aciz qaldığı irəliləməyə güc yetirir. Rəcəz deyənin bu sözünə baxmırsanmı (٣):\n* يَطُفْنَ حولَ نَتَلٍ وَزْوازِ *\n(Onlar cəld, hərəkətli nətəlin ətrafında dolanırlar).\nOnu وَزْواز (vəzvaz) – yəni yüngül, cəld sözü ilə vəsf etmişdir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:56:21.746Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نتل» (nətəl) — Nun, ta və lam hərfləri irəliləməyə və ötməyə dəlalət edən səhih bir əsasdır.\n\nDezirlər: استَنْتَل الرّجلُ (kişi yoldaşlarını qabaqladı, irəli keçdi). Və bu səbəbdən həmin kişiyə ناتل (natil) deyilmişdir. وَنَتلتُه (onu irəliyə doğru dartdım). وَتَنَاتَلَ النّبتُ (bitki bərabər bitmədi, bəziləri digərlərindən daha uzun oldu), sanki daha uzun olan özündən qısa olanı qabaqlayıb ötdü. Və onların النَّتَلُ العَبْد الضَّخم (nətəl — iri bədənli qul) demələrinin izahı budur ki, o, başqasının aciz qaldığı irəliyə keçmək işində qüvvətli olur. Rocəzin (3) bu sözünə baxmırsanmı:\n* يَطُفْنَ حولَ نَتَلٍ وَزْوازِ *\n(Onlar iri bədənli, çevik natilin ətrafında dolanırlar)\n\nVə onu vəzvaş ilə vəsf etmişdir, o da yüngül, çevik deməkdir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«Dezirlər» orfoqrafik xətadır («Deyirlər» olmalıdır).",
+  "«بوَزْوازٍ» sözü «vəzvaş» kimi səhv oxunmuşdur («vəzvaz» olmalıdır).",
+  "«نَتَل» sözü tərcümədə «natil» yazılmışdır."
+ ],
+ "review_ts": "2026-11-28T07:45:43.194Z"
 }

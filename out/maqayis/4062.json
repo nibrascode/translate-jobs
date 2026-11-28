@@ -11,9 +11,19 @@
   "page_to": 395
  },
  "ar": "النون والجيم والعين أصلٌ صحيح يدلُّ على منفعةِ طعامٍ أو دواءٍ في الجِسم، ثمّ يُتوسَّع فيه فيقاس عليه. ونَجَع الطّعامُ: هَنَأَ آكِلَه. وماءٌ نَجوعٌ كنَمِيرٍ، وهو النامي في الجِسم. قال ابن السِّكِّيت: نَجَع فيه الدّواء، ونَجَع في الدابة العَلف، ولا يقال أنْجَعَ.\nوممَّا قِيسَ على هذا النُّجْعة: طلبُ الكلأ، لأنّه مَطلبُ ما يَنْجَع. وانتَجَعَه:\nطلب خَيره ومنه النَّجِيع: الخَبَطُ يُضرَب بالدَّقيق والماءِ يُوجَر الجملَ (١) ونَجَعَ في فلانٍ قولُك: أخَذَ فيه.\nومما شذّ عن الباب: النَّجيع: دمُ الجَوفِ يَضرِب إلى السَّواد.",
- "az": "«نجع» (n-j-ʕ): nun, cim və ayn hərfidir, yeməyin və ya dərmanın bədəndəki mənfəətinə dəlalət edən səhih əsasdır, sonra bunda genişliyə gedilərək ona qiyas edilir. «نَجَعَ الطَّعامُ» (nəcəfə ət-təam) – yemək yeyənə xoş oldu, xeyri dəydi. «ماءٌ نَجُوعٌ» (maün nəcuun) – «نَمِيرٌ» (nəmir) kimi, bədəndə inkişaf edən (faydalı) sudur. İbn əs-Sikkit demişdir: «نَجَع فيه الدّواءُ» (Dərman ona fayda verdi), «ونجَع في الدّابة العَلْفُ» (Yem heyvana fayda verdi), lakin «أَنْجَعَ» (əncəfə/əncəə) deyilmir. Buna qiyas edilənlərdən biri də «النُّجْعَة» (ən-nüfcə/ən-nüğiə) – otlaq axtarmaqdır, çünki o, fayda verən şeyin axtarışıdır. «انتَجَعَهُ» (intəcəfəhü) – onun xeyrini axtardı. Bunlardandır «النَّجِيع» (ən-nəci»): üyüdülmüş un və su ilə döyülüb dəvəyə boğazdan içirdilən xəbət (١). «ونجَعَ في فلانٍ قولُك» (Filankəsə sözün təsir etdi/fayda verdi): ona təsir etdi. Bu fəsildən istisna olunan isə: «النَّجِيع» (ən-nəci») – qaralığa çalan daxili orqanların qanıdır.",
+ "az": "[نجع]\nالنون والجيم والعين (nun, cim və ayn) yeməyin və ya dərmanın bədəndəki faydasına dəlalət edən səhih əsasdır, sonra bunda məna genişləndirilərək ona qiyas edilir. نَجَع الطّعامُ (yemək yeyənə nuş oldu / fayda verdi). ماءٌ نَجوعٌ (faydalı su) نَمِيرٍ (faydalı, dadlı) kimidir və o, bədəndə inkişaf etdirən (fayda verən) sudur. İbn əs-Sikkit demişdir: نَجَع فيه الدّواء (dərman ona fayda verdi), نَجَع في الدابة العَلف (yem heyvana fayda verdi), lakin أنْجَعَ deyilmir.\nBuna qiyas edilənlərdən biri də النُّجْعة (otlaq axtarmaq)dır, çünki o, fayda verən şeyin axtarışıdır. انتَجَعَه (onun xeyrini axtardı). Bunlardandır النَّجِيع (un və su ilə qarışdırılıb dəvənin boğazına tökülən ağac yarpağı / xəbət) (١). نَجَعَ في فلانٍ قولُك (sözün filankəsə təsir etdi): ona işlədi.\nBu fəsildən kənara çıxan isə: النَّجيع (qaralığa çalan iç qanıdır).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:56:41.628Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نجع» (n-j-ʕ): nun, cim və ayn hərfidir, yeməyin və ya dərmanın bədəndəki mənfəətinə dəlalət edən səhih əsasdır, sonra bunda genişliyə gedilərək ona qiyas edilir. «نَجَعَ الطَّعامُ» (nəcəfə ət-təam) – yemək yeyənə xoş oldu, xeyri dəydi. «ماءٌ نَجُوعٌ» (maün nəcuun) – «نَمِيرٌ» (nəmir) kimi, bədəndə inkişaf edən (faydalı) sudur. İbn əs-Sikkit demişdir: «نَجَع فيه الدّواءُ» (Dərman ona fayda verdi), «ونجَع في الدّابة العَلْفُ» (Yem heyvana fayda verdi), lakin «أَنْجَعَ» (əncəfə/əncəə) deyilmir. Buna qiyas edilənlərdən biri də «النُّجْعَة» (ən-nüfcə/ən-nüğiə) – otlaq axtarmaqdır, çünki o, fayda verən şeyin axtarışıdır. «انتَجَعَهُ» (intəcəfəhü) – onun xeyrini axtardı. Bunlardandır «النَّجِيع» (ən-nəci»): üyüdülmüş un və su ilə döyülüb dəvəyə boğazdan içirdilən xəbət (١). «ونجَعَ في فلانٍ قولُك» (Filankəsə sözün təsir etdi/fayda verdi): ona təsir etdi. Bu fəsildən istisna olunan isə: «النَّجِيع» (ən-nəci») – qaralığa çalan daxili orqanların qanıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[نجع]» formatında verilməyib.",
+  "Ərəb sözlərinin transliterasiyasında ayn hərfi səhvən «f» kimi oxunub (nəcəfə, əncəfə, intəcəfəhü, ən-nüfcə) və «ən-nəci» sözündə pozulmuş işarə var.",
+  "«الخَبَطُ» (ağac yarpağı) izahsız qalıb və «يُضرَب بالدَّقيق» ifadəsi səhv tərcümə edilib."
+ ],
+ "review_ts": "2026-11-28T07:41:02.047Z"
 }

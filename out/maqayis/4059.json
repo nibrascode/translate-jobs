@@ -11,9 +11,19 @@
   "page_to": 393
  },
  "ar": "النون والجيم والزاء أصلٌ صحيح يدلُّ على كمالِ شيءٍ في عَجلةٍ من غير بُطْء. يقال: نَجَزَ الوعدُ يَنْجُز (٣). وأنجزْتُه أنا: أعجلتُه. وأعطيته ما عِندي حتَّى نَجَزَ آخِرُه، أي وصل إليه آخرُه. وبِعْهُ ناجزاً بناجز، كقولهم يداً بيد: تعجيلاً بتعجيل. والمناجَزَة في الحرب: أن يتبارَزَ الفارسان، أي يُعجِّلانِ القتالَ لا يتوقفان (٤).",
- "az": "«نجز» (n-j-z): nun, cim və zay hərfidir, gecikmədən tələsik bir şeyin kamil olmasına dəlalət edən səhih əsasdır. Deyilir: «نَجَزَ الوعدُ يَنْجُزُ» (vəd yerinə yetdi, yetəcək) (٣). «وأنجزْتُه أنا» (Mən onu yerinə yetirdim) – yəni onu tələdirdim. Ona məndə olanı sonu «نَجَزَ» (nəcəzə) olana qədər verdim, yəni sonu ona yetişdi. «وبِعْهُ ناجزاً بناجز» (Onu nağd olaraq nağd pula sat) – necə ki, «əldən-ələ» deyirlər: təcili olaraq təcili ilə. Müharibədə «المناجَزَة» (əl-munacəzə) – iki süvarinin təkbətək döyüşməsi, yəni döyüşü ləngitməyib tələdirmələridir (٤).",
+ "az": "[نجز]\nNun, cim və zey hərfləri ləngimədən, tələsik şəkildə bir şeyin tamamlanmasına dəlalət edən səhih əsasdır. Deyilir: نَجَزَ الوعدُ يَنْجُز (vəd yerinə yetdi, yetir) (٣). وأنجزْتُه أنا (mən onu tələsdirdim). وأعطيته ما عِندي حتَّى نَجَزَ آخِرُه (məndə olanı sonuna qədər verdim, yəni sonu ona yetişdi). وبِعْهُ ناجزاً بناجز (onu nağdı nağda sat), necə ki, يداً بيد (əldən-ələ), yəni təcili olaraq təcili ilə deyirlər. Müharibədə المناجَزَة (iki süvarinin təkbətək döyüşməsi, yəni dayanmadan döyüşü tələsdirmələridir) (٤).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:56:41.627Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نجز» (n-j-z): nun, cim və zay hərfidir, gecikmədən tələsik bir şeyin kamil olmasına dəlalət edən səhih əsasdır. Deyilir: «نَجَزَ الوعدُ يَنْجُزُ» (vəd yerinə yetdi, yetəcək) (٣). «وأنجزْتُه أنا» (Mən onu yerinə yetirdim) – yəni onu tələdirdim. Ona məndə olanı sonu «نَجَزَ» (nəcəzə) olana qədər verdim, yəni sonu ona yetişdi. «وبِعْهُ ناجزاً بناجز» (Onu nağd olaraq nağd pula sat) – necə ki, «əldən-ələ» deyirlər: təcili olaraq təcili ilə. Müharibədə «المناجَزَة» (əl-munacəzə) – iki süvarinin təkbətək döyüşməsi, yəni döyüşü ləngitməyib tələdirmələridir (٤).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[نجز]» formatında verilməyib.",
+  "«يَنْجُز» sözünə orijinalda olmayan hərəkə əlavə edilib («يَنْجُزُ»).",
+  "«tələsdirdim» və «tələsdirmələridir» əvəzinə «tələdirdim» və «tələdirmələridir» kimi səhv sözlər yazılıb, «ناجزاً بناجز» ifadəsinə isə mətndə olmayan «pula» sözü artırılıb."
+ ],
+ "review_ts": "2026-11-28T07:40:21.577Z"
 }

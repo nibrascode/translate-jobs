@@ -11,9 +11,18 @@
   "page_to": 397
  },
  "ar": "النون والجيم والميم أصلٌ صحيح يدلُّ على طُلُوعٍ وظهور.\n* ونَجَمَ النَّجمُ: طَلَعَ. ونَجَمَ السِّنُّ والقَرْنُ: طَلَعَا. والنّجم: الثُّرَيَّا، اسمٌ لها\nوإذا قالوا: طَلَعَ النَّجْم، فإنَّهم يريدونها. وليس لهذا الحديثِ نَجْمٌ، أي أصلٌ ومَطْلِع. والنَّجم من النَّبات: ما لم يكن له ساقٌ، مِنْ نَجَمَ، إذا طَلَعَ. والمِنْجَم فى المِيزان: الحديدة المعترِضة التى فيها اللِّسان؛ وهو ذلك القياس.",
- "az": "«نجم» (n-j-m): nun, cim və mim hərfidir, çıxmağa və zahir olmağa dəlalət edən səhih əsasdır. «ونجَمَ النَّجمُ» (Nəcəmə ən-nəcmu) – ulduz çıxdı/parladı. «ونجَمَ السِّنُّ والقَرْنُ» (Nəcəmə əs-sinnü və əl-qarnü) – diş və buynuz çıxdı. «النَّجْم» (ən-nəcm) – Səyya (Ülkər ulduzu), onun adıdır. «طلَعَ النَّجْم» (Ulduz çıxdı) dedikdə, onlar məhz bunu qəsd edirlər. «ليس لهذا الحديثِ نَجْمٌ» (Bu hədisin ulduzu/əsası yoxdur) – yəni əsası və çıxış nöqtəsi yoxdur. Bitkidən olan «النَّجْم» (ən-nəcm) – gövdəsi olmayan, «نَجَمَ» (nəcəmə) sözündən götürülən, yəni çıxan bitkidir. Tərəzidəki «المِنْجَم» (əl-mincəm) – dilçiyi olan eninə dəmirdir, bu da həmin qiyasdandır.",
+ "az": "[نجم]\nالنون والجيم والميم (nun, cim və mim) çıxmağa və zahir olmağa dəlalət edən səhih əsasdır.\nنَجَمَ النَّجمُ (ulduz çıxdı). نَجَمَ السِّنُّ والقَرْنُ (diş və buynuz çıxdı). النّجم (Sürəyya / Ülkər ulduzu), onun adıdır. طَلَعَ النَّجْم (ulduz çıxdı) dedikdə, onlar məhz onu qəsd edirlər. ليس لهذا الحديثِ نَجْمٌ (bu sözün/hədisin nəcm-i yoxdur), yəni əsası və çıxış yeri yoxdur. Bitkilərdən olan النَّجم (gövdəsi olmayan bitki) – نَجَمَ (çıxdı) sözündəndir. Tərəzidəki المِنْجَم (içində tərəzinin dili yerləşən eninə dəmir); o da həmin qiyasdandır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:56:41.628Z",
- "review_attempts": 2,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نجم» (n-j-m): nun, cim və mim hərfidir, çıxmağa və zahir olmağa dəlalət edən səhih əsasdır. «ونجَمَ النَّجمُ» (Nəcəmə ən-nəcmu) – ulduz çıxdı/parladı. «ونجَمَ السِّنُّ والقَرْنُ» (Nəcəmə əs-sinnü və əl-qarnü) – diş və buynuz çıxdı. «النَّجْم» (ən-nəcm) – Səyya (Ülkər ulduzu), onun adıdır. «طلَعَ النَّجْم» (Ulduz çıxdı) dedikdə, onlar məhz bunu qəsd edirlər. «ليس لهذا الحديثِ نَجْمٌ» (Bu hədisin ulduzu/əsası yoxdur) – yəni əsası və çıxış nöqtəsi yoxdur. Bitkidən olan «النَّجْم» (ən-nəcm) – gövdəsi olmayan, «نَجَمَ» (nəcəmə) sözündən götürülən, yəni çıxan bitkidir. Tərəzidəki «المِنْجَم» (əl-mincəm) – dilçiyi olan eninə dəmirdir, bu da həmin qiyasdandır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[نجم]» formatında verilməyib.",
+  "«الثُّرَيَّا» (Sürəyya) ulduzunun adı səhvən «Səyya» kimi yazılıb."
+ ],
+ "review_ts": "2026-11-28T07:41:02.049Z"
 }

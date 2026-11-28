@@ -11,9 +11,18 @@
   "page_to": 377
  },
  "ar": "النون والهمزة والفاء. يقولون: نَئِف ينأف، إذا أكَلَ.",
- "az": "«نأف»: النون، الهمزة والفاء. يقولون: نَئِف ينأف (Deyirlər: «nəif, yənəfu»), إذا أكَلَ (yediyi zaman).",
+ "az": "[نأف]\nNun, həmzə və fa. Deyirlər: نَئِف ينأف (nəifə yən'əfu) – yediyi zaman.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:55:36.143Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نأف»: النون، الهمزة والفاء. يقولون: نَئِف ينأف (Deyirlər: «nəif, yənəfu»), إذا أكَلَ (yediyi zaman).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Kökü bildirən ərəb hərflərinin adları tərcümə edilməmiş, ərəbcə mətndə qalmışdır.",
+  "Maddə başlığı və mətn format qaydalarına uyğunlaşdırılmalıdır."
+ ],
+ "review_ts": "2026-11-28T07:45:43.193Z"
 }

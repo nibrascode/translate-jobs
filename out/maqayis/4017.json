@@ -11,9 +11,18 @@
   "page_to": 377
  },
  "ar": "النون والهمزة واللام، ليس فيه إلاَّ النَّأَلان: المَشْي السريع ينهض الماشي برأسه إلى فوق. ورجُلٌ نَؤُول، وضَبُع نَؤُول، إذا فعَلْت ذلك.",
- "az": "«نأل»: النون، الهمزة واللام، ليس فيه إلاَّ النَّأَلان (Onda yalnız «nəələn» vardır): المَشْي السريع ينهض الماشي برأسه إلى فوق (gedənin başını yuxarı qaldıraraq sürətli yeriməsidir). ورجُلٌ نَؤُول، وضَبُع نَؤُول (və «nəul» kişi, «nəul» kaftar), إذا فعَلْت ذلك (əgər sən bunu etsən).",
+ "az": "[نأل]\nNun, həmzə və lam; bunda yalnız النَّأَلان (ən-nəələn) sözü vardır: bu, yeriyənin başını yuxarı qaldıraraq sürətlə yeriməsidir. Bunu etdiyi zaman kişiyə رجُلٌ نَؤُول (nəul kişi), kaftara da ضَبُع نَؤُول (nəul kaftar) deyilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:55:36.143Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نأل»: النون، الهمزة واللام، ليس فيه إلاَّ النَّأَلان (Onda yalnız «nəələn» vardır): المَشْي السريع ينهض الماشي برأسه إلى فوق (gedənin başını yuxarı qaldıraraq sürətli yeriməsidir). ورجُلٌ نَؤُول، وضَبُع نَؤُول (və «nəul» kişi, «nəul» kaftar), إذا فعَلْت ذلك (əgər sən bunu etsən).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.8-flash",
+ "review_ok": false,
+ "review_issues": [
+  "«إذا فعَلْت ذلك» ifadəsi «əgər sən bunu etsən» kimi yanlış tərcümə edilmişdir (doğrusu: bunu etdiyi zaman).",
+  "Kök hərflərinin adları tərcümə edilməmiş, ərəbcə saxlanılmışdır."
+ ],
+ "review_ts": "2026-11-28T07:45:43.193Z"
 }
