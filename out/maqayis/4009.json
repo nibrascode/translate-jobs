@@ -11,9 +11,18 @@
   "page_to": 375
  },
  "ar": "النون والياء والفاء. قد ذكرنا في باب النون والواو والفاء أنَّه يدلُّ على الارتفاع والزِّيادة. ويجوز أن يكون هذا البابُ راجعاً إلى ذلك الأصل. يقولون: مائة ونيِّف. وأنافت الدَّراهمُ على المائة. قال أبو زيد: كلُّ ما بين العَقْدَينِ نَيِّف. ومما يدلُّ على أنَّ هذا كذا قولُ القائل (٣):\nورَدْتُ برابيةٍ، رأسُها … على كلِّ رابيةٍ نيّفُ (١)\nوناقة نِيافٌ وجملٌ نيافٌ: طويلٌ في ارتفاع. قال أبو بكر (٢): ونيَّفَ على السبعين: زادَ عليها.",
- "az": "«نيف»: النون، الياء والفاء. قد ذكرنا في باب النون والواو والفاء أنَّه يدلُّ على الارتفاع والزِّيادة (Biz Nun, Vav və Fa babında qeyd etmişdik ki, o, ucalığa və artıma dəlalət edir). ويجوز أن يكون هذا البابُ راجعاً إلى ذلك الأصل (Və mümkündür ki, bu باب həmin kökə qayıtsın). يقولون: مائة ونيِّف (Deyirlər: yüz və bir neçə artıq). وأنافت الدَّراهمُ على المائة (Dirəmlər yüzü keçdi). قال أبو زيد (Əbu Zeyd demişdir): كلُّ ما بين العَقْدَينِ نَيِّف (Onluq və ya yüzlüklər arasındakı hər bir artıq rəqəm «niyif»dir). ومما يدلُّ على أنَّ هذا كذا قولُ القائل (Və bunun belə olduğuna dəlalət edən şeylərdən biri də şairin bu sözüdür): ورَدْتُ برابيةٍ، رأسُها … على كلِّ رابيةٍ نيّفُ (Elə bir təpəyə gəldim ki, onun başı hər bir təpədən ucadır/artıqdır) (١). وناقة نِيافٌ وجملٌ نيافٌ (Hündür dəvə və hündür erkək dəvə): طويلٌ في ارتفاع (hündürlüyündə uzundur). قال أبو بكر (٢) (Əbu Bəkr demişdir): ونيَّفَ على السبعين (və yetmişi keçdi): زادَ عليها (ondan artıq oldu).",
+ "az": "[نيف] nun, ya və fa. Nun, vav və fa babında qeyd etmişdik ki, o, ucalığa və artıma dəlalət edir. Mümkündür ki, bu bab da həmin kökə qayıtsın. Deyirlər: «مائةٌ ونيِّفٌ» (yüz və bir neçə artıq). «أنافت الدَّراهمُ على المائة» (dirəmlər yüzdən artıq oldu). Əbu Zeyd demişdir: onluqlar arasındakı hər bir artıq rəqəm «نَيِّف»dir. Bunun belə olduğuna dəlalət edən dəlillərdən biri şairin bu sözüdür:\nورَدْتُ برابيةٍ، رأسُها … على كلِّ رابيةٍ نيّفُ (١)\n(Elə bir təpəyə gəldim ki, onun başı hər bir təpədən ucadır/artıqdır).\n«ناقة نِيافٌ وجملٌ نيافٌ» — boyu hündür dişi və erkək dəvədir. Əbu Bəkr demişdir: «نيَّفَ على السبعين» — yetmişi keçdi, ondan artıq oldu.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:55:36.143Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نيف»: النون، الياء والفاء. قد ذكرنا في باب النون والواو والفاء أنَّه يدلُّ على الارتفاع والزِّيادة (Biz Nun, Vav və Fa babında qeyd etmişdik ki, o, ucalığa və artıma dəlalət edir). ويجوز أن يكون هذا البابُ راجعاً إلى ذلك الأصل (Və mümkündür ki, bu باب həmin kökə qayıtsın). يقولون: مائة ونيِّف (Deyirlər: yüz və bir neçə artıq). وأنافت الدَّراهمُ على المائة (Dirəmlər yüzü keçdi). قال أبو زيد (Əbu Zeyd demişdir): كلُّ ما بين العَقْدَينِ نَيِّف (Onluq və ya yüzlüklər arasındakı hər bir artıq rəqəm «niyif»dir). ومما يدلُّ على أنَّ هذا كذا قولُ القائل (Və bunun belə olduğuna dəlalət edən şeylərdən biri də şairin bu sözüdür): ورَدْتُ برابيةٍ، رأسُها … على كلِّ رابيةٍ نيّفُ (Elə bir təpəyə gəldim ki, onun başı hər bir təpədən ucadır/artıqdır) (١). وناقة نِيافٌ وجملٌ نيافٌ (Hündür dəvə və hündür erkək dəvə): طويلٌ في ارتفاع (hündürlüyündə uzundur). قال أبو بكر (٢) (Əbu Bəkr demişdir): ونيَّفَ على السبعين (və yetmişi keçdi): زادَ عليها (ondan artıq oldu).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin başlanğıcı standart formata «[نيف]» uyğun deyil.",
+  "Ərəbcə nəsr mətni sətirbəsətir olduğu kimi saxlanılaraq mötərizədə tərcümə olunub, azərbaycan dilində ardıcıl elmi mətn formatı pozulub."
+ ],
+ "review_ts": "2026-11-28T00:04:15.931Z"
 }

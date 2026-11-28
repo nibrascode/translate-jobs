@@ -11,9 +11,19 @@
   "page_to": 350
  },
  "ar": "الميم واللام والصاد قريبٌ من ملس، وهو يدلُّ على إفلات الشَّيء بسرعة. وامَّلَص الشيءُ من يدي: أفلَتَ، امِّلاصاً. ومَلِصَ الرِّشاء من اليد يَمْلَص. قال:\nفرَّ وأعطانِي رِشَاءً مَلِصا (٣) *\nومنه أَمْلَصَت المرأةُ: رمَت بولدها إملاصاً؛ والولد مَلِيص. ومنه سير إمليص: سريع.",
- "az": "«ملص» — الميم واللام والصاد (mim, lam və sad) mلس (m-l-s) kəlməsinə yaxındır və bir şeyin sürətlə qurtulub qaçmasına dəlalət edər. «امَّلَص الشيء من يدي» — şey əlimdən qurtuldu, qurtulmaqla. «مَلِص الرِّشاء من اليد يَمْلَص» — ip əldən sürüşüb çıxdı. O demişdir:\nفرَّ وأعطانِي رِشَاءً مَلِصا (٣) *\nBundandır: «أملَصَت المرأة» — qadın uşağını düşürdü (vaxtından əvvəl atdı); uşaqsa «مليص»dir. Və bundandır «سير إمليص» — sürətli gediş.",
+ "az": "[ملص]\nالميم واللام والصاد (mim, lam və sad) ملس kökünə yaxındır və bir şeyin sürətlə qurtulub çıxmasına dəlalət edir. امَّلَص الشيءُ من يدي: أفلَتَ، امِّلاصاً (şey əlimdən sürüşüb qurtuldu). مَلِصَ الرِّشاء من اليد يَمْلَص (ip əldən sürüşüb çıxdı). Şair demişdir:\nفرَّ وأعطانِي رِشَاءً مَلِصا (٣) *\n(Qaçdı və mənə əldən sürüşən bir ip verdi (٣)).\nBundandır: أَمْلَصَت المرأةُ: رمَت بولدها إملاصاً (qadın uşağını saldı); uşaq isə مَلِيص adlanır. Bundandır سير إمليص (sürətli gediş).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:54:03.921Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ملص» — الميم واللام والصاد (mim, lam və sad) mلس (m-l-s) kəlməsinə yaxındır və bir şeyin sürətlə qurtulub qaçmasına dəlalət edər. «امَّلَص الشيء من يدي» — şey əlimdən qurtuldu, qurtulmaqla. «مَلِص الرِّشاء من اليد يَمْلَص» — ip əldən sürüşüb çıxdı. O demişdir:\nفرَّ وأعطانِي رِشَاءً مَلِصا (٣) *\nBundandır: «أملَصَت المرأة» — qadın uşağını düşürdü (vaxtından əvvəl atdı); uşaqsa «مليص»dir. Və bundandır «سير إمليص» — sürətli gediş.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı tələb olunan «[ملص]» formatında deyil.",
+  "«ملس» sözü «mلس (m-l-s)» kimi pozulmuş şəkildə yazılıb.",
+  "Şeir beyti tərcüməsiz qalıb."
+ ],
+ "review_ts": "2026-11-28T00:03:09.713Z"
 }

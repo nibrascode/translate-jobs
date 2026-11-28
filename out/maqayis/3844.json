@@ -11,9 +11,19 @@
   "page_to": 312
  },
  "ar": "الميم والراء والغين أصلٌ صحيح يدلُّ على سَيَلانِ شيءٍ أو إسالة شيء. والمَرْغ: اللُّعاب. وأمْرَغ الإنسانُ: سال لعابُه. ومَرَّغْتُ الشَّيءَ:\nأشبعتُه دُهْنًا. والإمراغ في العَجين: أن يكثَّرَ ماؤُه. ويقولون: أمرَغَ: أكثَرَ الكلامَ في غيرِ صواب، كأنَّه يُسِيلهُ إسالة. ويقال أمْرَغَ عِرْضَه ومَرَّغه، كأنه لَطَخه وأسال عليه قيحاً.\nوقريبٌ من هذا القياس مرَّغتُه في التُّراب فتمرّغ، أي قلَّبته فتقلَّبَ.",
- "az": "«مرغ» (marğ) — mim, ra və ğayn hərflərindən ibarət səhih bir kök olub bir şeyin axmasına və ya bir şeyi axıtmağa dəlalət edir. اَلمَرْغ (al-marğ): tüpürcək. اَْمْرَغَ الإِنْسَانُ (amrağa al-insan): insanın tüpürcəyi axdı. مَرَّغْتُ الشَّيْءَ (marrəğtu aş-şay'ə): onu yağla doyurdum. اَلإِمْرَagh (al-imrağ) xəmirdə: suyunun çoxaldılmasıdır. Deyirlər ki, أَمْرَغَ (amrağa): haqsız yerə çox danışdı, elə bil sözü axıdırdı. Həmçinin deyilir: أَمْرَغَ عِرْضَهُ (amrağa 'irdahu) və مَرَّغَهُ (marrəğahu), elə bil onu buladı və üzərinə irin axıtdı. Bu qaydaya yaxındır: مَرَّغْتُهُ فِي التُّرَابِ فَتَمَرَّغَ (marrəğtuhu fi at-turabi fatamarrağa) — yəni onu torpaqda yuvarladım, o da yuvarlandı.",
+ "az": "[مرغ]\nMim, ra və ğayn (hərfləri) bir şeyin axmasına və ya bir şeyi axıtmağa dəlalət edən səhih bir kökdür. المَرْغ (əl-mərğ): tüpürcək. أمْرَغ الإنسانُ (əmrəğa əl-insan): insanın tüpürcəyi axdı. مَرَّغْتُ الشَّيْءَ (mərrəğtü əş-şeyə): bir şeyi yağla doyurdum.\nالإمراغ (əl-imrağ) xəmirdə: suyunun çoxaldılmasıdır. Deyirlər: أمرَغَ (əmrəğa): doğru olmadan çox danışdı, sanki onu axıdırdı. Həmçinin deyilir: أمْرَغَ عِرْضَه (əmrəğa irdəhu) və مَرَّغه (mərrəğahu), sanki onu buladı və üzərinə irin axıtdı.\nBu qiyasa yaxındır: مرَّغتُه في التُّراب فتمرّغ (mərrəğtühu fi ət-türabi fətəmərrəğa) — yəni onu torpaqda yuvarladım, o da yuvarlandı.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:52:16.070Z",
- "review_attempts": 1,
- "review_last_error": "qısa (511 < 689)"
+ "review_last_error": "qısa (511 < 689)",
+ "prev_az": "«مرغ» (marğ) — mim, ra və ğayn hərflərindən ibarət səhih bir kök olub bir şeyin axmasına və ya bir şeyi axıtmağa dəlalət edir. اَلمَرْغ (al-marğ): tüpürcək. اَْمْرَغَ الإِنْسَانُ (amrağa al-insan): insanın tüpürcəyi axdı. مَرَّغْتُ الشَّيْءَ (marrəğtu aş-şay'ə): onu yağla doyurdum. اَلإِمْرَagh (al-imrağ) xəmirdə: suyunun çoxaldılmasıdır. Deyirlər ki, أَمْرَغَ (amrağa): haqsız yerə çox danışdı, elə bil sözü axıdırdı. Həmçinin deyilir: أَمْرَغَ عِرْضَهُ (amrağa 'irdahu) və مَرَّغَهُ (marrəğahu), elə bil onu buladı və üzərinə irin axıtdı. Bu qaydaya yaxındır: مَرَّغْتُهُ فِي التُّرَابِ فَتَمَرَّغَ (marrəğtuhu fi at-turabi fatamarrağa) — yəni onu torpaqda yuvarladım, o da yuvarlandı.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı qaydaya uyğun olaraq «[مرغ]» şəklində deyil.",
+  "Mətndə «اَلإِمْرَagh» kimi ərəb və latın qrafikasının qarışdığı pozulmuş söz var.",
+  "Ərəbcə sitatların yazılışı və hərəkələri orijinal mətndəki ilə eyni deyil (əlavə hərəkələr qoyulub)."
+ ],
+ "review_ts": "2026-11-28T00:01:25.996Z"
 }

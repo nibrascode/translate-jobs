@@ -11,9 +11,20 @@
   "page_to": 330
  },
  "ar": "الميم والضاد والغين أصلٌ صحيح، وهو المضغ للطعام. ومضَغَه يمضغه (٤). والمَضَاغ: الطعام يُمضَغ. والمُضَاغة: ما يبقى في الفم مما يُمضَغ. والمَضْغة:\nقطعةُ لحم، لأنَّها كالقطعة التي تُؤخذ فتُمضغ. والماضغان: [ما (٥)] انضمَّ من الشِّدقَين.\nومما شذَّ عن هذه المضائغ: العَقَبات الَّلواتي على أطراف سِيَتي القوس، الواحدة مَضِيغة.",
- "az": "«مضغ» (məzəğ) — mim, dad və ğın hərfləri yeməyi çeynəmək mənasını verən səhih bir kökdür. Və مضَغَه يمضغه (məzəğəhu yəmzüğuhu). Və المَضَاغ (əl-məzāğ) — çeynənən yeməkdir. Və المُضَاغة (əl-məzāğət) — çeynənən şeydən ağızda qalan şeydir. Və المَضْغة (əl-məzğət) — bir ət parçasıdır, çünki o, götürülüb çeynənən parça kimidir. Və الماضغان (əl-maziğani) — yanaqların birləşdiyi yerlərdir. Bu madaiğdən (çeynənən ətlərdən) istisna olunan isə: yayın uclarındakı kəndirlərin üzərindəki düyünlərdir, təkliyi مَضِيغة (məziğət) gəlir.",
+ "az": "[مضغ]\nMim, dad və ğayn (hərfləri) səhih bir kökdür, o da yeməyi çeynəməkdir. مضَغَه يمضغه (mədağahu yəmduğuhu) (٤). المَضَاغ (əl-mədağ) — çeynənən yeməkdir. المُضَاغة (əl-mudağa) — çeynənən şeydən ağızda qalan şeydir. المَضْغة (əl-mədğa) — bir parça ətdir, çünki o, götürülüb çeynənən parça kimidir. الماضغان (əl-madiğan) — (٥) ağızın iki kənarının birləşdiyi yerlərdir.\nBu المضائغ (əl-mədaiğ) kökündən kənara çıxan isə: yayın iki əyri ucunun kənarlarındakı vətərlərdir, təki مَضِيغة (mədiğa) gəlir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:53:03.302Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«مضغ» (məzəğ) — mim, dad və ğın hərfləri yeməyi çeynəmək mənasını verən səhih bir kökdür. Və مضَغَه يمضغه (məzəğəhu yəmzüğuhu). Və المَضَاغ (əl-məzāğ) — çeynənən yeməkdir. Və المُضَاغة (əl-məzāğət) — çeynənən şeydən ağızda qalan şeydir. Və المَضْغة (əl-məzğət) — bir ət parçasıdır, çünki o, götürülüb çeynənən parça kimidir. Və الماضغان (əl-maziğani) — yanaqların birləşdiyi yerlərdir. Bu madaiğdən (çeynənən ətlərdən) istisna olunan isə: yayın uclarındakı kəndirlərin üzərindəki düyünlərdir, təkliyi مَضِيغة (məziğət) gəlir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[مضغ]» şəklində deyil və hərf adı «ğayn» əvəzinə «ğın» yazılıb.",
+  "Haşiyə rəqəmləri (٤) və (٥) buraxılıb.",
+  "«العَقَبات» (vətərlər/sinirlər) «kəndirlərin üzərindəki düyünlər» kimi səhv tərcümə edilib.",
+  "«المضائغ» sözü ərəb qrafikası ilə saxlanılmayıb və bəzi transkripsiyalarda səhvlər var."
+ ],
+ "review_ts": "2026-11-28T00:01:25.999Z"
 }

@@ -11,9 +11,20 @@
   "page_to": 329
  },
  "ar": "الميم والصاد والخاء كلمةٌ، وهي الأُمصوخ: واحد الأماصيخ، وهي أنابيب الثّمام. وتَمصَّخْتها: أخَذتها. قال أبوبكر (١): والمَصخ لغة في المسخ",
- "az": "«مصخ» (məsəx) — mim, sad və xa hərfləri tək bir kəlmədir, o da الأُمصوخ (əl-ümsuh) — tənək borucuqlarının təkidir, cəmi أماسِيخ (əmâsîx) gəlir. Və تَمصَّخْتها (təməş-şəhtühə) — onu aldım. Əbu Bəkr demişdir (1): Məsəx sözü məsx sözünün ləhcəsidir.",
+ "az": "[مصخ]\nMim, sad və xa (hərfləri) bir kəlmədir, o da الأُمصوخ (əl-umsux) — الأماصيخ (əl-əmasix) sözünün təkidir, bunlar da sümam bitkisinin borucuqlarıdır. تَمصَّخْتها (təməssaxtüha): onları qoparıb götürdüm. Əbu Bəkr demişdir (١): المَصخ (əl-məsx) sözü المسخ (əl-məsx) sözündə bir ləhcədir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:53:03.302Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«مصخ» (məsəx) — mim, sad və xa hərfləri tək bir kəlmədir, o da الأُمصوخ (əl-ümsuh) — tənək borucuqlarının təkidir, cəmi أماسِيخ (əmâsîx) gəlir. Və تَمصَّخْتها (təməş-şəhtühə) — onu aldım. Əbu Bəkr demişdir (1): Məsəx sözü məsx sözünün ləhcəsidir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[مصخ]» şəklində deyil.",
+  "«الأماصيخ» sözü tərcümədə «أماسِيخ» şəklində səhv yazılıb.",
+  "«الثّمام» (sümam bitkisi) «tənək» kimi yanlış tərcümə edilib.",
+  "«المَصخ» və «المسخ» sözləri ərəb qrafikası ilə verilməyib və haşiyə rəqəmi (١) ərəb rəqəmi ilə saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-28T00:01:25.997Z"
 }

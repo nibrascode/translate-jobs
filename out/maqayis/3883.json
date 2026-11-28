@@ -11,9 +11,19 @@
   "page_to": 328
  },
  "ar": "الميم والصاد والحاء أصلٌ صحيح يدلُّ على ذَهاب الشّيء.\nتقول: مَصَحَ الشيءُ يَمصَح مُصُوحاً: رسَخَ في الثَّرى * وغيره. والدَّار تَمصَح، أي تدرُس وتذهَب. ومَصَحَ الظِّلُّ: قَصُر. ومَصَح النَّبات: ولّى وذهب لونُ زهره.",
- "az": "«مصح» (məsəh) — mim, sad və ha hərfləri bir şeyin yox olub getməsinə dəlalət edən səhih bir kökdür. Deyirsən: مَصَحَ الشيءُ يَمصَح مُصُوحاً (məsəəş-şəyyü yəm-səhu musūhən) — torpaqda və başqa yerdə kök saldı. Və الدَّار تَمصَح (əd-daru təm-səhu) — yəni ev köhnəlib yox olur. Və مَصَحَ الظِّلُّ (məsəəz-zillü) — kölgə qısaldı. Və مَصَح النَّباتُ (məsəən-nəbatu) — bitkinin rəngi solub getdi.",
+ "az": "[مصح]\nMim, sad və ha (hərfləri) bir şeyin yox olub getməsinə dəlalət edən səhih bir kökdür.\nDeyirsən: مَصَحَ الشيءُ يَمصَح مُصُوحاً (məsaha əş-şeyu yəmsahu musuhən) — torpaqda və başqa yerdə kök saldı. الدَّار تَمصَح (əd-daru təmsahu) — yəni ev köhnəlib yox olur. مَصَحَ الظِّلُّ (məsaha əz-zillu) — kölgə qısaldı. مَصَح النَّبات (məsaha ən-nəbat) — bitki solub getdi və çiçəyinin rəngi yox oldu.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:53:03.302Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«مصح» (məsəh) — mim, sad və ha hərfləri bir şeyin yox olub getməsinə dəlalət edən səhih bir kökdür. Deyirsən: مَصَحَ الشيءُ يَمصَح مُصُوحاً (məsəəş-şəyyü yəm-səhu musūhən) — torpaqda və başqa yerdə kök saldı. Və الدَّار تَمصَح (əd-daru təm-səhu) — yəni ev köhnəlib yox olur. Və مَصَحَ الظِّلُّ (məsəəz-zillü) — kölgə qısaldı. Və مَصَح النَّباتُ (məsəən-nəbatu) — bitkinin rəngi solub getdi.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[مصح]» şəklində deyil.",
+  "«ولّى وذهب لونُ زهره» ifadəsində «زهره» (çiçəyinin) sözü buraxılıb və tərcümə natamamdır.",
+  "Ərəbcə sözlərin transkripsiyasında səhvlər var və «النَّبات» sözünə orijinalda olmayan hərəkə artırılıb."
+ ],
+ "review_ts": "2026-11-28T00:01:25.997Z"
 }

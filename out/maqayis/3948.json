@@ -11,9 +11,19 @@
   "page_to": 351
  },
  "ar": "الميم واللام والقاف أصلٌ صحيحٌ يدلُّ على [تجرُّد] في الشيء ولين. قال ابن السكِّيت: المَلَق من التملُّق، وأصله التَّليين. والمَلَقَة: الصَّفاة المَلْسَاء. ويقال الإملاق: إتلافُ المال حَتَّى يُحوِج. والقياس واحد، كأنَّه تجرَّدَ عن المال. وانْمَلَقَ ساعدُ الرجل: انسحَجَ من حَمْل الأحمال. قال:\nوحَوْفَلٌ ساعدُه قد انْمَلَقْ … يقول قَطْبًا ونعِمَّا إن سَلَق (٢)\nوالمَلَقَة: الأرض لا يكاد يَبِين فيها أثر، والجمع المَلَق والمَلَقَات. ومَلَقْتُ الثوب: غَسَلتُه، لأنَّك تجرِّده عن الوسَخ.",
- "az": "«ملق» — الميم واللام والقاف (mim, lam və qaf) bir şeydə [soyulmağa] və yumşaqlığa dəlalət edən əsli səhihdir. İbn əs-Sikkit demişdir: «الملق» — yaltaqlıqdan (التملّق) gəlir, əsli isə yumşaltmaqdır. «الملقة» — hamar daş. Deyilir: «الإملاق» — insanı ehtiyaclı vəziyyətə salana qədər malı israf etmək. Qiyas eynidir, sanki maldan soyulmuşdur. «انْمَلَق ساعد الرجل» — kişinin qolu yük daşımaqdan sürtülüb soyuldu. O demişdir:\nوحَوْفَلٌ ساعدُه قد انْمَلَقْ … يقول قَطْبًا ونعِمَّا إن سَلَق (٢)\nVə «الملقة» — üzərində heç bir iz bilinməyən yer; cəmi «المَلَق» və «المَلَقَات». «ملَقْت الثوب» — paltarı yudum, çünki sən onu çirkdən təmizləyib soyursan.",
+ "az": "[ملق]\nالميم واللام والقاف (mim, lam və qaf) bir şeydə [تجرُّد] (soyulmağa) və yumşaqlığa dəlalət edən səhih bir kökdür. İbn əs-Sikkit demişdir: المَلَق — التملُّق (yaltaqlıq) sözündəndir, əsli isə التَّليين (yumşaltmaqdır). المَلَقَة (hamar qaya). Deyilir: الإملاق — insanı ehtiyaclı vəziyyətə salana qədər malı xərcləyib bitirməkdir. Qiyas eynidir, sanki maldan soyulmuşdur. انْمَلَقَ ساعدُ الرجل: انسحَجَ من حَمْل الأحمال (kişinin qolu yük daşımaqdan sürtülüb soyuldu). Şair demişdir:\nوحَوْفَلٌ ساعدُه قد انْمَلَقْ … يقول قَطْبًا ونعِمَّا إن سَلَق (٢)\n(Qolu yükdən soyulmuş bir həvfəl [kök kişi] «qətb» [otu] deyir, əgər onu qaynadıb bişirsə nə gözəl olar (٢)).\nالمَلَقَة (üzərində heç bir iz bilinməyən yer); cəmi المَلَق və المَلَقَات. مَلَقْتُ الثوب: غَسَلتُه (paltarı yudum), çünki sən onu çirkdən təmizləyib soyursan.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:54:03.921Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ملق» — الميم واللام والقاف (mim, lam və qaf) bir şeydə [soyulmağa] və yumşaqlığa dəlalət edən əsli səhihdir. İbn əs-Sikkit demişdir: «الملق» — yaltaqlıqdan (التملّق) gəlir, əsli isə yumşaltmaqdır. «الملقة» — hamar daş. Deyilir: «الإملاق» — insanı ehtiyaclı vəziyyətə salana qədər malı israf etmək. Qiyas eynidir, sanki maldan soyulmuşdur. «انْمَلَق ساعد الرجل» — kişinin qolu yük daşımaqdan sürtülüb soyuldu. O demişdir:\nوحَوْفَلٌ ساعدُه قد انْمَلَقْ … يقول قَطْبًا ونعِمَّا إن سَلَق (٢)\nVə «الملقة» — üzərində heç bir iz bilinməyən yer; cəmi «المَلَق» və «المَلَقَات». «ملَقْت الثوب» — paltarı yudum, çünki sən onu çirkdən təmizləyib soyursan.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı tələb olunan «[ملق]» formatında deyil.",
+  "Şeir beyti tərcüməsiz qalıb.",
+  "«أصلٌ صحيحٌ» ifadəsi «əsli səhihdir» kimi qeyri-dəqiq tərcümə olunub və əvvəlki hərəkələr AR-dan silinib."
+ ],
+ "review_ts": "2026-11-28T00:03:09.714Z"
 }

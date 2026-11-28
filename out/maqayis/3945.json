@@ -11,9 +11,19 @@
   "page_to": 351
  },
  "ar": "الميم واللام والطاء أُصيلٌ يدلُّ على تسويةِ شيءٍ وتسطيحه\nوملَّطت الحائطَ بالمِلاط أُملِّطه تمليطاً: طيَّنته وسوّيْتُه والمِلاطان: الجَنْبان، كأنَّهما مُلِطا مَلْطًا. وابنا مِلَاطٍ: العضدان. والأمْلَط: الذي لا شَعْرَ عليه.\nويقاس على هذا فيُقال للرّجُل القليل الخيرِ المتمرِّد: ملْطٌ. قال أبو بكر (١):\nوكلُّ شيء ملّطته فهو مِلاطٌ.",
- "az": "«ملط» — الميم واللام والطاء (mim, lam və tı) bir şeyi səliqəyə salmağa və düzləşdirməyə dəlalət edən kiçik bir əsldir. «ملَّطت الحائط بالملاط أُمَلِّطه تمليطاً» — divarı suvaqla suvadım və hamarladım. «الملاطان» — iki böyür, sanki onlar bütöv suvanmışdır. «ابنا مِلَاط» — iki çiyin. «الأملط» — tۈksüz olan.\nBuna əsasən qiyas edilir və azxeyirli, azğın kişiyə «ملط» deyilir. Əbu Bəkr (١) demişdir: suvadığın hər bir şey suvaqdır (ملاط).",
+ "az": "[ملط]\nالميم واللام والطاء (mim, lam və ta) bir şeyi hamarlamağa və düzləşdirməyə dəlalət edən kiçik bir kökdür\nملَّطت الحائطَ بالمِلاط أُملِّطه تمليطاً: طيَّنته وسوّيْتُه (divarı suvaqla suvadım və hamarladım). المِلاطان (iki böyür), sanki onlar başdan-başa suvanmışdır. ابنا مِلَاطٍ (iki bazu). الأمْلَط (tüksüz olan).\nBuna əsasən qiyas edilir və xeyri az olan, azğın kişiyə ملْطٌ deyilir. Əbu Bəkr (١) demişdir:\nSuvadığın hər bir şey مِلاطٌ (suvaq) adlanır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:54:03.921Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ملط» — الميم واللام والطاء (mim, lam və tı) bir şeyi səliqəyə salmağa və düzləşdirməyə dəlalət edən kiçik bir əsldir. «ملَّطت الحائط بالملاط أُمَلِّطه تمليطاً» — divarı suvaqla suvadım və hamarladım. «الملاطان» — iki böyür, sanki onlar bütöv suvanmışdır. «ابنا مِلَاط» — iki çiyin. «الأملط» — tۈksüz olan.\nBuna əsasən qiyas edilir və azxeyirli, azğın kişiyə «ملط» deyilir. Əbu Bəkr (١) demişdir: suvadığın hər bir şey suvaqdır (ملاط).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı tələb olunan «[ملط]» formatında deyil.",
+  "«ط» hərfinin adı «tı» kimi səhv yazılıb («ta» olmalıdır).",
+  "«tüksüz» sözündə kiril «ү» hərfi işlənib və əvvəlki hərəkələr AR-dan silinib."
+ ],
+ "review_ts": "2026-11-28T00:03:09.713Z"
 }

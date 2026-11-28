@@ -11,9 +11,18 @@
   "page_to": 377
  },
  "ar": "النون والهمزة والشين كلمةٌ تدلُّ على أخْذ وبطش. ورجلٌ نَؤُوشٌ (٤): ذو بَطْش.\nوقد ذكرت كلمةٌ إنْ صحَّتْ فليست من قياس الأُولى، يقولون لمن جاءَ في أواخر النَّاس: جاء نَئِيشاً. قال:\nتمَنَّى نئيشاً أن يكون أطاعَنِي … وقد حدثَتْ بعد الأُمورِ أمورُ (١)\nوالذي سمعناه: «تمنَّى أخيراً».",
- "az": "«نأش»: النون، الهمزة والشين كلمةٌ تدلُّ على أخْذ وبطش (Almağa və güc tətbiq etməyə dəlalət edən kəlmədir). ورجلٌ نَؤُوشٌ (٤) (Güclü və sərt adam): ذو بَطْش (güc sahibidir). وقد ذكرت كلمةٌ إنْ صحَّتْ فليست من قياس الأُولى (Və əgər səhih olsa, bir kəlmə zikr edilmişdir ki, o, birincinin qiyasından deyildir), يقولون لمن جاءَ في أواخر النَّاس (İnsanların sonunda gələn şəxsə deyirlər): جاء نَئِيشاً (gecikərək gəldi). قال (Şair demişdir): تمَنَّى نئيشاً أن يكون أطاعَنِي … وقد حدثَتْ بعد الأُمورِ أمورُ (Mənə itaət etməyi gecikərək arzuladı, halbuki işlərdən sonra başqa işlər baş vermişdi!) (١). والذي سمعناه (Və bizim eşitdiyimiz): «تمنَّى أخيراً» («o, sonda arzuladı» ibarəsidir).",
+ "az": "[نأش] nun, həmzə və şin — almağa və güc tətbiq etməyə dəlalət edən bir kəlmədir. «رجلٌ نَؤُوشٌ» (٤) — güc və qüvvə sahibidir.\nƏgər səhihdirsə, bir kəlmə zikr edilmişdir ki, birincinin qiyasından deyildir. İnsanların arxasında (sonunda) gələn şəxs haqqında «جاء نَئِيشاً» (gecikərək gəldi) deyirlər. Şair demişdir:\nتمَنَّى نئيشاً أن يكون أطاعَنِي … وقد حدثَتْ بعد الأُمورِ أمورُ (١)\n(Mənə itaət etməyi gecikərək arzuladı, halbuki işlərdən sonra başqa işlər baş vermişdi!).\nBizim eşitdiyimiz isə «تمنَّى أخيراً» (sonda arzuladı) ifadəsidir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:55:36.143Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نأش»: النون، الهمزة والشين كلمةٌ تدلُّ على أخْذ وبطش (Almağa və güc tətbiq etməyə dəlalət edən kəlmədir). ورجلٌ نَؤُوشٌ (٤) (Güclü və sərt adam): ذو بَطْش (güc sahibidir). وقد ذكرت كلمةٌ إنْ صحَّتْ فليست من قياس الأُولى (Və əgər səhih olsa, bir kəlmə zikr edilmişdir ki, o, birincinin qiyasından deyildir), يقولون لمن جاءَ في أواخر النَّاس (İnsanların sonunda gələn şəxsə deyirlər): جاء نَئِيشاً (gecikərək gəldi). قال (Şair demişdir): تمَنَّى نئيشاً أن يكون أطاعَنِي … وقد حدثَتْ بعد الأُمورِ أمورُ (Mənə itaət etməyi gecikərək arzuladı, halbuki işlərdən sonra başqa işlər baş vermişdi!) (١). والذي سمعناه (Və bizim eşitdiyimiz): «تمنَّى أخيراً» («o, sonda arzuladı» ibarəsidir).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin başlanğıcı standart formata «[نأش]» uyğun deyil.",
+  "Ərəbcə nəsr mətni sətirbəsətir saxlanılaraq mötərizələrlə tərcümə olunub, standart tərcümə formatı pozulub."
+ ],
+ "review_ts": "2026-11-28T00:04:15.981Z"
 }

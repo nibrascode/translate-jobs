@@ -11,9 +11,18 @@
   "page_to": 376
  },
  "ar": "النون والهمزة والتاء كلمةٌ تدلُّ على حكايةِ صوت. يقال:\nنَأَت الرّجُل نَئيتًا، مثل نَهَتَ، إذا أنَّ. ورجلٌ نَئَّاتٌ مثل نهّات.",
- "az": "«نأت»: النون، الهمزة والتاء كلمةٌ تدلُّ على حكايةِ صوت (Səsin təqlidinə dəlalət edən kəlmədir). يقال: نَأَت الرّجُل نَئيتًا (Deyilir: kişi «nəit» səsi çıxardı), مثل نَهَتَ (nəhətə bənzərək), إذا أنَّ (inildədikdə). ورجلٌ نَئَّاتٌ مثل نهّات (və çox inləyən adam «nəətt»dir, nəhhət kimi).",
+ "az": "[نأت] nun, həmzə və ta — səs təqlidinə dəlalət edən bir kəlmədir. Deyilir: «نَأَت الرّجُل نَئيتًا» — kişi inildədikdə səs çıxardı («نَهَتَ» kimi). «رجلٌ نَئَّاتٌ» — çox inildəyən adam («نهّات» kimi).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:55:36.143Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نأت»: النون، الهمزة والتاء كلمةٌ تدلُّ على حكايةِ صوت (Səsin təqlidinə dəlalət edən kəlmədir). يقال: نَأَت الرّجُل نَئيتًا (Deyilir: kişi «nəit» səsi çıxardı), مثل نَهَتَ (nəhətə bənzərək), إذا أنَّ (inildədikdə). ورجلٌ نَئَّاتٌ مثل نهّات (və çox inləyən adam «nəətt»dir, nəhhət kimi).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin başlanğıcı standart formata «[نأت]» uyğun deyil.",
+  "Nəsr mətni sətirbəsətir ərəbcə saxlanılaraq mötərizədə tərcümə olunub, standart tərcümə formatı pozulub."
+ ],
+ "review_ts": "2026-11-28T00:04:15.932Z"
 }

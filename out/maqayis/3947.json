@@ -11,9 +11,18 @@
   "page_to": 351
  },
  "ar": "الميم واللام والغين كلمةٌ. يقولون: المِلْغ: الأحمق. والتملّغ:\nالتحمُّق.",
- "az": "«ملغ» — الميم واللام والغين (mim, lam və ğayn) bir sözdür. Deyirlər: «الملغ» — axmaq. «التملّغ» — axmqlıq etmək.",
+ "az": "[ملغ]\nالميم واللام والغين (mim, lam və ğayn) bir sözdür. Deyirlər: المِلْغ (axmaq). التملّغ:\n(axmaqlıq etmək).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:54:03.921Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ملغ» — الميم واللام والغين (mim, lam və ğayn) bir sözdür. Deyirlər: «الملغ» — axmaq. «التملّغ» — axmqlıq etmək.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı tələb olunan «[ملغ]» formatında deyil.",
+  "«axmqlıq» sözündə hərf səhvi var («axmaqlıq» olmalıdır) və əvvəlki hərəkələr AR-dan silinib."
+ ],
+ "review_ts": "2026-11-28T00:03:09.713Z"
 }

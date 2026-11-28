@@ -11,9 +11,18 @@
   "page_to": 375
  },
  "ar": "النون والياء والميم ثلاثُ كلمات ليست قياساً واحدا.\nفالأولى النِّيم (٣)، وهو الفَرْو. والثانية النِّيم، وهو شجرٌ. قال ساعدة بن جُؤيَّة الهُذَلي:\nثم ينوش إذا آدَ النَّهارُ له … بعد التَّرقُّبِ من نِيم ومن كَتَمِ (٤)\nوالكَتَم: شجرٌ أيضاً.\nوالثالثة النِّيم: الدَّرَج في الرَّمْل إذا جَرَت فيه الرِّيح. قال:\nحَتَّى انجلَى اللَّيلُ عنَّا في مُلمَّعةٍ … مثلِ الأديم لها في هَبْوةٍ نِيمُ (٥)",
- "az": "«نيم»: النون، الياء والميم ثلاثُ كلمات ليست قياساً واحدا (üç kəlmədir, vahid qiyas deyildir). فالأولى النِّيم (Birincisi «niym»dir): وهو الفَرْو (o da xəzli paltardır). والثانية النِّيم (İkincisi «niym»dir): وهو شجرٌ (o da bir ağacdır). قال ساعدة بن جُؤيَّة الهُذَلي (Səidə ibn Cuəyyə əl-Hüzəli demişdir): ثم ينوش إذا آدَ النَّهارُ له … بعد التَّرقُّبِ من نِيم ومن كَتَمِ (Gündüz onun üçün ağırlaşanda... nim və kətam ağacından sonra o, [ovunu] tutmağa çalışar) (٤). والكَتَم: شجرٌ أيضاً (və «kətam» da həmçinin bir ağacdır). والثالثة النِّيم (Üçüncüsü «niym»dir): الدَّرَج في الرَّمْل إذا جَرَت فيه الرِّيح (külək əsdikdə qumun üzərində əmələ gələn izlərdir). قال (Şair demişdir): حَتَّى انجلَى اللَّيلُ عنَّا في مُلمَّعةٍ … مثلِ الأديم لها في هَبْوةٍ نِيمُ (Hətta qaranlıq toz-duman içində dəri kimi olan parlaq çöl üzərində bizim üstümüzdən çəkilib getdi, onun üzərində qum izləri var idi) (٥).",
+ "az": "[نيم] nun, ya və mim — tək bir qiyas üzrə olmayan üç kəlmədir.\nBirincisi: «النِّيم» (٣) — xəzli geyimdir.\nİkincisi: «النِّيم» — bir ağac növdür. Səidə ibn Cuəyyə əl-Hüzəli demişdir:\nثم ينوش إذا آدَ النَّهارُ له … بعد التَّرقُّبِ من نِيم ومن كَتَمِ (٤)\n(Gün ortası onun üçün ağırlaşanda, nim və kətəm ağaclarının arxasında pusduqdan sonra [ovuna] tərəf uzanar).\n«الكَتَم» da həmçinin bir ağac növdür.\nÜçüncüsü: «النِّيم» — külək əsdikdə qumun üzərində əmələ gələn qırışlar/izlərdir. Şair demişdir:\nحَتَّى انجلَى اللَّيلُ عنَّا في مُلمَّعةٍ … مثلِ الأديم لها في هَبْوةٍ نِيمُ (٥)\n(Hətta gecə toz-duman içində dəri kimi parlaq çöldən üzərimizdən çəkilib getdi, o çölün üzərində qum izləri var idi).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:55:36.143Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نيم»: النون، الياء والميم ثلاثُ كلمات ليست قياساً واحدا (üç kəlmədir, vahid qiyas deyildir). فالأولى النِّيم (Birincisi «niym»dir): وهو الفَرْو (o da xəzli paltardır). والثانية النِّيم (İkincisi «niym»dir): وهو شجرٌ (o da bir ağacdır). قال ساعدة بن جُؤيَّة الهُذَلي (Səidə ibn Cuəyyə əl-Hüzəli demişdir): ثم ينوش إذا آدَ النَّهارُ له … بعد التَّرقُّبِ من نِيم ومن كَتَمِ (Gündüz onun üçün ağırlaşanda... nim və kətam ağacından sonra o, [ovunu] tutmağa çalışar) (٤). والكَتَم: شجرٌ أيضاً (və «kətam» da həmçinin bir ağacdır). والثالثة النِّيم (Üçüncüsü «niym»dir): الدَّرَج في الرَّمْل إذا جَرَت فيه الرِّيح (külək əsdikdə qumun üzərində əmələ gələn izlərdir). قال (Şair demişdir): حَتَّى انجلَى اللَّيلُ عنَّا في مُلمَّعةٍ … مثلِ الأديم لها في هَبْوةٍ نِيمُ (Hətta qaranlıq toz-duman içində dəri kimi olan parlaq çöl üzərində bizim üstümüzdən çəkilib getdi, onun üzərində qum izləri var idi) (٥).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin başlanğıcı standart formata «[نيم]» uyğun deyil.",
+  "Ərəbcə nəsr mətni bütövlüklə saxlanılaraq mötərizədə tərcümə edilmiş, standart tərcümə formatı pozulmuşdur."
+ ],
+ "review_ts": "2026-11-28T00:04:15.932Z"
 }

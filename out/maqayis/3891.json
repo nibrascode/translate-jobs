@@ -11,9 +11,19 @@
   "page_to": 331
  },
  "ar": "الميم والطاء واللام أصلٌ صحيح يدلُّ على مدِّ الشّيء وإطالته. ومَطَلْتُ الحديدةَ أمْطَلها مَطْلاً: مددتُها. والمَطْل في الحاجة والمماطَلَة في الحربِ مِنْه.",
- "az": "«مطل» (mətəl) — mim, ta və lam hərfləri bir şeyi uzatmağa və dartmağa dəlalət edən səhih bir kökdür. Və مَطَلْتُ الحديدةَ أمْطَلهَا مَطْلاً (mətəltül-hədidə əmtəluhə mətlən) — dəmiri uzatdım, dartdım. Ehtiyacda edilən مَطْل (mətl) və müharibədəki مُمَاطلَة (mümatələt) də bundandır.",
+ "az": "[مطل]\nالميم والطاء واللام (mim, ta və lam) bir şeyi uzatmağa və uzun etməyə dəlalət edən səhih bir kökdür. مَطَلْتُ الحديدةَ أمْطَلها مَطْلاً (dəmiri döyüb uzatdım). Ehtiyacda edilən المَطْل (uzatma, süründürməçilik) və müharibədəki المماطَلَة (yubandırma, süründürməçilik) də bundandır.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:53:03.302Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«مطل» (mətəl) — mim, ta və lam hərfləri bir şeyi uzatmağa və dartmağa dəlalət edən səhih bir kökdür. Və مَطَلْتُ الحديدةَ أمْطَلهَا مَطْلاً (mətəltül-hədidə əmtəluhə mətlən) — dəmiri uzatdım, dartdım. Ehtiyacda edilən مَطْل (mətl) və müharibədəki مُمَاطلَة (mümatələt) də bundandır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı tələb olunan «[مطل]» formatında deyil.",
+  "«أمْطَلها» sözündə AR-da olmayan hərəkə əlavə edilib.",
+  "«مَطْل» və «مُمَاطَلَة» sözlərinin Azərbaycan dilində mənaları mötərizədə verilməyib, yalnız oxunuşları yazılıb."
+ ],
+ "review_ts": "2026-11-28T00:03:09.711Z"
 }

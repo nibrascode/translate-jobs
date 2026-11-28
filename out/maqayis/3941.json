@@ -11,9 +11,20 @@
   "page_to": 349
  },
  "ar": "الميم واللام والدال كلمةٌ تدلُّ على نَعْمةٍ ولِين وملاسةٍ. وشاب أَمْلَدُ: ناعِمٌ. والمَلد المصدر. وامرأةٌ مَلْداء: معتدلة الخَلْق حَسنة. وغصنٌ أُمْلُودٌ:\nناعم. وملّدتُ الأديم: مَرَّنتُه. والإمليد من الصَّحارى كإمليس: الصَّحصَح (٥).\n[و] منه المَلَدان",
- "az": "«ملد» — الميم واللام والدال (mim, lam və dal) nemətə, yumşaqlığa və hamarlığa dəlalət edən bir sözdür. «شاب أملد» — incə, yumşaq cavan. «الملد» — məsdər. «امرأة ملداء» — xilqəti mütənasib, gözəl qadın. «غصن أملود» — incə budaq. «ملّدت الأديم» — dərini yumşaldıb sayalaşdırdım. Səhralardakı «الإمليد» — «الإمليس» (səhra) kimidir [və] bundandır «الملدان».",
+ "az": "[ملد]\nالميم واللام والدال (mim, lam və dal) yumşaqlığa, incəliyə və hamarlığa dəlalət edən bir sözdür. شاب أَمْلَدُ (incə, zərif cavan). المَلد məsdərdir. امرأةٌ مَلْداء (xilqəti mütənasib, gözəl qadın). غصنٌ أُمْلُودٌ:\n(incə, təravətli budaq). ملّدتُ الأديم: مَرَّنتُه (dərini yumşaldıb hamarlaşdırdım). Səhralardakı الإمليد — إمليس kimidir: الصَّحصَح (hamar, düz səhra) (٥).\n[و] منه المَلَدان ([və] incəlik, təravət mənasındakı المَلَدان da bundandır).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:54:03.921Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ملد» — الميم واللام والدال (mim, lam və dal) nemətə, yumşaqlığa və hamarlığa dəlalət edən bir sözdür. «شاب أملد» — incə, yumşaq cavan. «الملد» — məsdər. «امرأة ملداء» — xilqəti mütənasib, gözəl qadın. «غصن أملود» — incə budaq. «ملّدت الأديم» — dərini yumşaldıb sayalaşdırdım. Səhralardakı «الإمليد» — «الإمليس» (səhra) kimidir [və] bundandır «الملدان».",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı tələb olunan «[ملد]» formatında deyil.",
+  "Ərəbcə sözlərin hərəkələri AR-dan silinib və (٥) haşiyə rəqəmi buraxılıb.",
+  "«نَعْمةٍ» sözü burada kontekstə uyğun olmayan «nemət» kimi tərcümə edilib («incəlik, təravət» olmalıdır).",
+  "«المَلَدان» sözünün mötərizədə mənası verilməyib."
+ ],
+ "review_ts": "2026-11-28T00:03:09.712Z"
 }

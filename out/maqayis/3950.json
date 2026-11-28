@@ -14,6 +14,10 @@
  "az": "[ملو] Mim, lam və hərf-i müəttəl (zəif hərf) zaman və ya başqa şeydə uzanmağa dəlalət edən səhih bir kökdür. «أملَيت القيدَ للبعير إملاءً» — dəvənin buxovunu uzatdım (genişlətdim) deməkdir. «تملّيت عُمْرِي» — ömrümdən zövq aldım (bəhrələndim) deməkdir. «المَلَوانِ» — gecə və gündüzdür. «الملاوة» (٤) — «ملاوة العيش» (yaşayışın müddəti), yəni ona möhlət verilmişdir. Bu باب-dandır (bu qbildəndir): «إملاء الكتاب» (kitabın imla edilməsi, yazdırılması).\nVə ən doğrusunu Allah bilir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:54:25.129Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": true,
+ "review_issues": [],
+ "review_ts": "2026-11-28T00:04:15.931Z"
 }

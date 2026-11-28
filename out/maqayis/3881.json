@@ -11,9 +11,20 @@
   "page_to": 328
  },
  "ar": "الميم والصاد والحرف المعتلّ كلمةٌ واحدة. المَصْواء: المرأة لا لحمَ على فَخِذَيها (٣).",
- "az": "«مصو» (məsəv) — mim, sad və hərfi-illə tək bir kəlmədir. المَصْواء (əl-məsvətu) — budunda əti olmayan qadındır (3).",
+ "az": "[مصو]\nMim, sad və hərfi-illə tək bir kəlmədir. المَصْواء (əl-məsva): budlarında əti olmayan qadındır (٣).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:53:03.302Z",
- "review_attempts": 1,
- "review_last_error": "qısa (93 < 115)"
+ "review_last_error": "qısa (93 < 115)",
+ "prev_az": "«مصو» (məsəv) — mim, sad və hərfi-illə tək bir kəlmədir. المَصْواء (əl-məsvətu) — budunda əti olmayan qadındır (3).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[مصو]» şəklində deyil.",
+  "«المَصْواء» sözünün transkripsiyası səhv verilib (əl-məsvətu).",
+  "«فَخِذَيها» (iki budunda/budlarında) sözü tək halda «budunda» kimi tərcümə edilib.",
+  "Haşiyə rəqəmi ərəb rəqəmi (٣) ilə saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-28T00:01:25.997Z"
 }

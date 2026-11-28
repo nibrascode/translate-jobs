@@ -11,9 +11,19 @@
   "page_to": 376
  },
  "ar": "النون والهمزة والجيم أصلٌ يدلُّ على صوت. ونَأَجَ إلى اللّه:\nتضَرَّع في الدعاء. ونائجاتُ الهَامِ: صوائحها. والنَّؤُوج والنَّئَّاجة: الرِّيح تَنْئجُ (١) في هبوبها، أي تصوِّت. قال ذو الرُّمَّة:\nوصَوْحَ البقلَ * نَئَّاجٌ تجيء [بِهِ] … هَيْفٌ يمانِيَةٌ في مرِّها نَكبُ (٢)\nونأج الثَّور: صاح. و\nفي الحديث: «ادع لنا ربَّك بأَنْأَجِ ما تقدر». أي بأضرَعِ ما يمكنُ من الدُّعاء.",
- "az": "«نأج»: النون، الهمزة والجيم أصلٌ يدلُّ على صوت (Səsə dəlalət edən səhih bir kökdür). ونَأَجَ إلى اللّه (Allaha yalvardı): تضَرَّع في الدعاء (duada təvazökarlıqla yalvardı). ونائجاتُ الهَامِ (Bayquşların səsləri): صوائحها (onların qışqırtıları). والنَّؤُوج والنَّئَّاجة (Külək): الرِّيح تَنْئجُ (١) في هبوبها (əsdikdə səs çıxaran külək), أي تصوِّت (yəni səs çıxarır). قال ذو الرُّمَّة (Zü-Rrummə demişdir): وصَوْحَ البقلَ * نَئَّاجٌ تجيء [بِهِ] … هَيْفٌ يمانِيَةٌ في مرِّها نَكبُ (٢). ونأج الثَّور (Öküz səsləndi): صاح (qışqırdı). وفي الحديث («Hədisdə gəlmişdir»): «ادع لنا ربَّك بأَنْأَجِ ما تقدر» («Rəbbimizə bacardığın ən yalvarışlı və səmimi şəkildə dua et»). أي بأضرَعِ ما يمكنُ من الدُّعاء (yəni duanın mümkün olan ən yalvarışlı tərzi ilə).",
+ "az": "[نأج] nun, həmzə və cim — səsə dəlalət edən bir kökdür. «نَأَجَ إلى اللّه» — duada Allaha yalvardı (təzərru etdi). «نائجاتُ الهَامِ» — bayquşların qışqıran səsləridir. «النَّؤُوج» və «النَّئَّاجة» — əsdikdə səs çıxaran küləkdir. Zür-Rummə demişdir:\nوصَوْحَ البقلَ * نَئَّاجٌ تجيء [بِهِ] … هَيْفٌ يمانِيَةٌ في مرِّها نَكبُ (٢)\n(Yəməndən əsən, keçidində meyil olan isti küləyin gətirdiyi səs çıxaran külək otları qurutdu).\n«نأج الثَّور» — öküz nərildədi, böyürdü.\nHədisdə gəlmişdir: «ادع لنا ربَّك بأَنْأَجِ ما تقدر» (Rəbbimizə bacardığın ən yalvarışlı şəkildə dua et), yəni duanın mümkün olan ən yalvarışlı tərzi ilə.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:55:36.143Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«نأج»: النون، الهمزة والجيم أصلٌ يدلُّ على صوت (Səsə dəlalət edən səhih bir kökdür). ونَأَجَ إلى اللّه (Allaha yalvardı): تضَرَّع في الدعاء (duada təvazökarlıqla yalvardı). ونائجاتُ الهَامِ (Bayquşların səsləri): صوائحها (onların qışqırtıları). والنَّؤُوج والنَّئَّاجة (Külək): الرِّيح تَنْئجُ (١) في هبوبها (əsdikdə səs çıxaran külək), أي تصوِّت (yəni səs çıxarır). قال ذو الرُّمَّة (Zü-Rrummə demişdir): وصَوْحَ البقلَ * نَئَّاجٌ تجيء [بِهِ] … هَيْفٌ يمانِيَةٌ في مرِّها نَكبُ (٢). ونأج الثَّور (Öküz səsləndi): صاح (qışqırdı). وفي الحديث («Hədisdə gəlmişdir»): «ادع لنا ربَّك بأَنْأَجِ ما تقدر» («Rəbbimizə bacardığın ən yalvarışlı və səmimi şəkildə dua et»). أي بأضرَعِ ما يمكنُ من الدُّعاء (yəni duanın mümkün olan ən yalvarışlı tərzi ilə).",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-3.6-flash",
+ "review_ok": false,
+ "review_issues": [
+  "Tərcümənin başlanğıcı standart formata «[نأج]» uyğun deyil.",
+  "Zür-Rummənin beytinin tərcüməsi verilməmişdir.",
+  "Mətn bütövlüklə ərəbcə saxlanılaraq mötərizələrlə tərcümə edilib, standart tərcümə formatı pozulub."
+ ],
+ "review_ts": "2026-11-28T00:04:15.933Z"
 }

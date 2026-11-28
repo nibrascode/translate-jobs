@@ -11,9 +11,20 @@
   "page_to": 332
  },
  "ar": "الميم والطاء والحرف المعتلّ أصلٌ صحيح يدلُّ على مدٍّ في الشّيء وامتداد. ومطَوْتُ بالقوم أمْطُو مَطْوًا: مددت بهم في السَّير. قال امرؤ القيس:\nمَطَوْتُ بهم حَتَّى تَكِلَّ مَطيُّهمْ … وحَتَّى الجيادُ ما يُقَدنَ بأرْسَانِ (١)\nوالمطيّة من ذلك القياس، ويقال بل سمِّيت لأنه يُركَب مَطَاها، أي ظَهرها. وسمِّي الظّهر المَطَا للامتداد الذي فيه. والمِطْو: الصَّاحب، لأنّه يمطو معك. قال:\nناديت مِطْوِى وقد مالَ النَّهارُ بهم … وَعَبْرَةُ العينِ جارٍ دَمْعُها سَجِمُ (٢)\nقال ابنُ الأعرابىّ (٣): اشتقاقُه من امتَطَيْتُ (٤) البعير. ومما يجوز أن يقاس على هذا المِطْو (٥): عذْق النخلة، لامتداده.",
- "az": "«مطو» (mətəv) — mim, ta və hərfi-illə bir şeydə uzanmağa və dartılmağa dəlalət edən səhih bir kökdür. Və مطَوْتُ بالقومِ أمْطُو مَطْوًا (mətəwtü bil-qavmi əmtü mətvən) — səfərdə onlar ilə birlikdə uzun məsafə qət etdim. İmrul-Qeys demişdir: «Dəvələri yorulana və hətta atlar belə yüyənlərlə idarə olunmayana qədər onları sürüb uzatdım (1)». Mətiyyə (minik dəvəsi) də bu qiyasdandır, həmçinin deyirlər ki, onun belinə مَطَا (məta) — yəni beli minildiyi üçün belə adlanmışdır. Bel də özündəki uzunluğa görə مَطَا (məta) adlanmışdır. Və المِطْو (əl-mitv) — yoldaşdır, çünki o, səninlə birlikdə uzanır (gedir). Şair demişdir: «Gün onlar ilə birlikdə əyildiyi zaman yoldaşımı səslədim… və gözümün yaşı sel kimi axmaqdadır (2)». İbn əl-Ərəbi demişdir (3): Onun kökü امتطيتُ البعير (imtətaytül-bəir - dəvəyə mindim) sözündəndir. Buna qiyas edilməsi caiz olan şeylərdən biri də المِطْو (əl-mitv) — xurma budağının uzunluğuna görə belə adlanmasıdır.",
+ "az": "[مطو]\nالميم والطاء والحرف المعتلّ (mim, ta və illətli hərf) bir şeydə uzanmağa və uzadılmağa dəlalət edən səhih bir kökdür. مطَوْتُ بالقوم أمْطُو مَطْوًا (səfərdə onlarla birlikdə sürətlə gedib məsafə qət etdim). İmrul-Qeys demişdir:\nمَطَوْتُ بهم حَتَّى تَكِلَّ مَطيُّهمْ … وحَتَّى الجيادُ ما يُقَدنَ بأرْسَانِ (١)\n(Minik dəvələri yorulana və hətta cins atlar belə yüyənlərlə çəkilib aparılmayana qədər onları sürüb apardım (١)).\nالمطيّة (minik heyvanı) də bu qiyasdandır; deyilir ki, onun مَطَا (belinə) — yəni ظَهر (belinə) minildiyi üçün belə adlanmışdır. Bel də özündəki uzanmaya görə المَطَا adlanmışdır. المِطْو (yoldaş) — الصَّاحب (dost, yoldaş) deməkdir, çünki o, səninlə birlikdə gedir. Şair demişdir:\nناديت مِطْوِى وقد مالَ النَّهارُ بهم … وَعَبْرَةُ العينِ جارٍ دَمْعُها سَجِمُ (٢)\n(Günorta onlarla birlikdə əyilərkən yoldaşımı səslədim… gözümün yaşı isə sel kimi axmaqdadır (٢)).\nİbn əl-Ərəbi (٣) demişdir: Onun iştifaqı (kökü) امتَطَيْتُ (٤) البعير (dəvəyə mindim) sözündəndir. Buna qiyas edilməsi caiz olanlardan biri də المِطْو (٥): عذْق النخلة (xurma salxımı/budağı) — uzandığına görədir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:53:03.302Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«مطو» (mətəv) — mim, ta və hərfi-illə bir şeydə uzanmağa və dartılmağa dəlalət edən səhih bir kökdür. Və مطَوْتُ بالقومِ أمْطُو مَطْوًا (mətəwtü bil-qavmi əmtü mətvən) — səfərdə onlar ilə birlikdə uzun məsafə qət etdim. İmrul-Qeys demişdir: «Dəvələri yorulana və hətta atlar belə yüyənlərlə idarə olunmayana qədər onları sürüb uzatdım (1)». Mətiyyə (minik dəvəsi) də bu qiyasdandır, həmçinin deyirlər ki, onun belinə مَطَا (məta) — yəni beli minildiyi üçün belə adlanmışdır. Bel də özündəki uzunluğa görə مَطَا (məta) adlanmışdır. Və المِطْو (əl-mitv) — yoldaşdır, çünki o, səninlə birlikdə uzanır (gedir). Şair demişdir: «Gün onlar ilə birlikdə əyildiyi zaman yoldaşımı səslədim… və gözümün yaşı sel kimi axmaqdadır (2)». İbn əl-Ərəbi demişdir (3): Onun kökü امتطيتُ البعير (imtətaytül-bəir - dəvəyə mindim) sözündəndir. Buna qiyas edilməsi caiz olan şeylərdən biri də المِطْو (əl-mitv) — xurma budağının uzunluğuna görə belə adlanmasıdır.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı tələb olunan «[مطو]» formatında deyil.",
+  "Hər iki şeir beytinin ərəbcə mətni buraxılıb, yalnız tərcüməsi verilib.",
+  "Haşiyə rəqəmləri (١), (٢), (٣) latın rəqəmlərinə çevrilib, (٤) və (٥) rəqəmləri isə tamamilə buraxılıb.",
+  "«عذْق النخلة» ifadəsinin ərəbcəsi buraxılıb."
+ ],
+ "review_ts": "2026-11-28T00:03:09.712Z"
 }

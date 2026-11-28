@@ -11,9 +11,18 @@
   "page_to": 331
  },
  "ar": "الميم والضاد والحاء كلمةٌ واحدة، هي مَضَح عِرضَه يمضَحُه مَضْحًا: عابَهُ وطعن فيه؛ وأمضَحَه أيضًا.",
- "az": "«مضح» (məzəh) — mim, dad və ha hərfləri tək bir kəlmədir, o da مَضَح عِرضَه يمضَحُه مَضْحًا (məzəhə irzəhu yəmzəhu məzhən) — onun namusunu ləkələdi, eyiblədi və ona dil uzatdı; həmçinin أمضَحَهُ (əmdəhəhü) də belədir.",
+ "az": "[مضح]\nMim, dad və ha (hərfləri) bir kəlmədir, o da مَضَح عِرضَه يمضَحُه مَضْحًا (mədaha irdahu yəmdahuhu mədhən) — onun heysiyyətini eyiblədi və ona tənə etdi; həmçinin أمضَحَه (əmdahahu) də belədir.",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:53:03.302Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«مضح» (məzəh) — mim, dad və ha hərfləri tək bir kəlmədir, o da مَضَح عِرضَه يمضَحُه مَضْحًا (məzəhə irzəhu yəmzəhu məzhən) — onun namusunu ləkələdi, eyiblədi və ona dil uzatdı; həmçinin أمضَحَهُ (əmdəhəhü) də belədir.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddə başlığı «[مضح]» şəklində deyil.",
+  "«أمضَحَه» sözünə orijinalda olmayan hərəkə əlavə edilib və «يمضَحُه» sözünün transkripsiyası natamamdır."
+ ],
+ "review_ts": "2026-11-28T00:01:26.000Z"
 }

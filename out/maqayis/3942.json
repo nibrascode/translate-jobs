@@ -11,9 +11,19 @@
   "page_to": 350
  },
  "ar": "الميم واللام والذال ذكروا فيه كلمتين أيضاً. الملْذ: أن يكون يمُدُّ الفرس ضَبْعَيْه في عَدْوه حتَّى لا يجد مزيداً. ومَلَذَه بالرُّمح: طعَنَه به. قال\nأبو بكر (١): المَلْذ: السُّرعة في المجيء والذهاب. وذئبٌ مَلاَّذٌ.",
- "az": "«ملذ» — الميم واللام والذال (mim, lam və zal) burada iki söz də zikr etmişlər. «الملذ» — atın qaçarkən ön ayaqlarını elə uzatmasıdır ki, artıq heç bir məsafə tapmasın. «ملَذَه بالرُّمح» — onu nize ilə sancdı. Əbu Bəkr (١) demişdir: «الملذ» — gəlib-getməkdə sürətdir. «ذئب ملاذ» — sürətli qurd.",
+ "az": "[ملذ]\nالميم واللام والذال (mim, lam və zal) burada iki söz də zikr etmişlər. الملْذ — atın qaçarkən ön ayaqlarının yuxarı hissəsini (ضَبْعَيْه) elə uzatmasıdır ki, bundan artığını edə bilməsin. مَلَذَه بالرُّمح: طعَنَه به (onu nizə ilə vurub sancdı). Əbu Bəkr\n(١) demişdir: المَلْذ — gəlib-getməkdə sürətdir. ذئبٌ مَلاَّذٌ (çox sürətli qurd).",
  "model": "gemini-3.5-flash-lite",
  "ts": "2026-10-26T00:54:03.921Z",
- "review_attempts": 1,
- "review_last_error": "«[kök]» ilə başlamır"
+ "review_last_error": "«[kök]» ilə başlamır",
+ "prev_az": "«ملذ» — الميم واللام والذال (mim, lam və zal) burada iki söz də zikr etmişlər. «الملذ» — atın qaçarkən ön ayaqlarını elə uzatmasıdır ki, artıq heç bir məsafə tapmasın. «ملَذَه بالرُّمح» — onu nize ilə sancdı. Əbu Bəkr (١) demişdir: «الملذ» — gəlib-getməkdə sürətdir. «ذئب ملاذ» — sürətli qurd.",
+ "prev_model": "gemini-3.5-flash-lite",
+ "reviewed": true,
+ "review_model": "gemini-4-hydrogen",
+ "review_ok": false,
+ "review_issues": [
+  "Maddənin başlığı tələb olunan «[ملذ]» formatında deyil.",
+  "«nize» sözündə hərf səhvi var («nizə» olmalıdır).",
+  "Ərəbcə sözlərin hərəkələri AR-dakı kimi saxlanılmayıb."
+ ],
+ "review_ts": "2026-11-28T00:03:09.713Z"
 }
